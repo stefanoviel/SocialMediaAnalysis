@@ -1,0 +1,67 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-02-11 20:08:27+00:00,1227323532037754881,HNS,"Handshake resources:
+
+Reddit with FAQ: https://t.co/kQZILTQ2SU
+Guides &amp; Docs: https://t.co/VfAHD0KZgL
+Telegram: https://t.co/OhmJqiZcKq
+Developer's Telegram: https://t.co/7g2z4pYIPw
+Repo: https://t.co/SCTRzspKIR
+🤝🤝🤝",232,59,83,2020-02-11
+2,2020-02-17 13:52:33+00:00,1229403263834951680,HNS,"hsd v2.0.2 has been released: please upgrade!
+
+Releases are signed by chjj:
+GPG key ID: 8962AB9DE6666BBD
+
+https://t.co/Rzsd7dGAL3
+
+https://t.co/88cRrPMWhu",26,1,8,2020-02-17
+3,2020-03-25 23:39:38+00:00,1242959355802030085,HNS,"The Handshake reference implementation can now be installed via Homebrew for macOS users.
+
+$ brew install hsd",32,0,5,2020-03-25
+4,2020-03-27 18:11:44+00:00,1243601615438790656,HNS,"The Handshake reference implementation is now available via the Arch User Repository.
+
+yay -S hsd-git",18,1,4,2020-03-27
+6,2020-03-31 16:23:38+00:00,1245023963312312325,HNS,"A new version of hsd has been released, please update to v2.1.5 for various improvements.
+
+https://t.co/H3Bpf5JmW2",26,3,3,2020-03-31
+8,2020-05-15 16:49:41+00:00,1261337969136300033,HNS,Handshake as the source of truth for permissionless top level domain names and a new Certificate Authority system. https://t.co/qwimr2vtBK,45,0,21,2020-05-15
+9,2020-05-18 19:37:39+00:00,1262467403759235072,HNS,Do you *actually* own your domain name?,60,10,11,2020-05-18
+10,2020-06-08 21:14:05+00:00,1270101819956645895,HNS,"New release of Bob Wallet from @kyokan_io 
+
+Tons of new features and performance improvements!
+
+https://t.co/SsdfxYuRBw",28,2,12,2020-06-08
+11,2020-06-19 18:15:15+00:00,1274043079436038144,HNS,"The Handshake Coinbase Rosetta API Server is now Open Source @coinbase 
+
+https://t.co/QS7eyp7LE2",44,2,15,2020-06-19
+13,2020-07-16 18:27:00+00:00,1283830511228424193,HNS,"Live Q&amp;A 12:30 PDT, 7/16/2020
+https://t.co/OhmJqjgNBY",10,1,2,2020-07-16
+14,2020-08-17 15:07:40+00:00,1295376755147051013,HNS,"HSD v2.2.0 has been released!
+Please read the changelog and then update your nodes as soon as is convenient! 🚀 🤝 
+
+https://t.co/wvsUNjDtCi
+
+https://t.co/mnOl29GcVb",38,4,12,2020-08-17
+17,2020-09-25 13:35:07+00:00,1309486591031812096,HNS,"hnsd v1.0.0 has been tagged for release. 🚀🤝
+This is the Handshake ""killer app"" -- a lightweight SPV node and recursive resolver written in C that verifies proof-of-work and can serve domains from both HNS and ICANN root zones.
+
+https://t.co/zQvscUb68u",93,5,31,2020-09-25
+18,2020-11-26 16:59:15+00:00,1332006012543447047,HNS,"@ThijsvanUlden https://t.co/cwhg8P7BsS
+What's the issue? You can chat with us on #handshake on IRC or on Telegram https://t.co/7g2z4pYIPw",0,1,0,2020-11-26
+19,2020-12-02 17:16:33+00:00,1334184694016040969,HNS,"Handshake has been added to the wikipedia page for ""Alternative DNS Root""
+
+https://t.co/5kLzZSwcX2",28,2,2,2020-12-02
+20,2020-12-05 03:04:46+00:00,1335057498185711617,HNS,"If you are looking for Handshake related Twitter bots, here are a few you'll enjoy following as the network expands:
+
+@shakeshoutout 
+@shakesites 
+@nbshoutout 
+@shakesplit 
+
+#HNS",23,1,8,2020-12-05
+22,2020-12-07 01:00:10+00:00,1335750917317152769,HNS,@JaunBoof @zachbrxwn https://t.co/ikCIjTPTwc,2,0,0,2020-12-07
+23,2021-05-05 20:30:00+00:00,1390041107422056450,HNS,"This is the Handshake community. We are the builders of today for the decentralized web of tomorrow #hodlhands
+
+@kurumiimari1 demos ShakeDex, a DEX for trustlessly and permissionlessly exchanging Handshake names https://t.co/wK2DamUkYA https://t.co/C8eMOSxjfW",71,6,22,2021-05-05
+25,2021-05-14 02:02:32+00:00,1393023894139772930,HNS,"hsd v2.4.0 has been released with new features and an important protocol upgrade, see notes here: https://t.co/B2RmjCloQP",99,6,24,2021-05-14
+26,2021-08-14 20:49:28+00:00,1426647182581579783,HNS,"This account remains inactive, not because there's no activity on HNS, but because Handshake is a decentralized community. Search $HNS or #HNS to find up-to-the-minute news about Handshake.",205,25,36,2021-08-14

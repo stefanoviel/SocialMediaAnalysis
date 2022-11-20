@@ -1,0 +1,2701 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-05-05 14:05:27+00:00,1257672763302490112,perpprotocol,"Today we're thrilled to exit stealth mode!
+Strike is a perpetual swap trading protocol with following features:
+1. Up to 20x Leverage
+2. On-chain &amp; Off-chain Assets Agnostic
+3. Guaranteed Liquidity from AMMs
+4. 0 Impermanent Losses
+5. Minimal Oracle Usage
+
+https://t.co/1MjAC6S4lJ",166,12,37,2020-05-05
+16,2020-05-06 12:30:54+00:00,1258011354465632256,perpprotocol,"@MannerQu @chainlink Yeah we've thought about it and here is the answer to the possibility of us being under an attack like the one @bzxHQ 
+had been through
+
+https://t.co/n0cwoAOe7t",1,0,0,2020-05-06
+17,2020-05-07 06:48:08+00:00,1258287483269177347,perpprotocol,@DeFi_Dad No problem! We'll keep you updated 💪,1,0,0,2020-05-07
+19,2020-06-01 14:05:46+00:00,1267457312366538752,perpprotocol,"After exiting stealth mode at the beginning of May, we're blown away by the response from the community🤯
+
+Today we'd like to share with you what we've done in May and what you can expect from us in the next month.
+
+https://t.co/rzbJDX8vP9",20,1,3,2020-06-01
+24,2020-07-28 23:45:58+00:00,1288259435249332224,perpprotocol,@EthosVentures Hey Ethan can you give it another try? Sorry for the inconvenience caused🙇‍♂️,0,1,0,2020-07-28
+29,2020-07-29 06:40:22+00:00,1288363722021302274,perpprotocol,"@ramatank45 Hi there,
+sorry that we had some issue with our faucet an hour ago, now we've deposited test USDT into your address. 
+You can now go to our site and start trading:
+https://t.co/6Pj5pjS3bm",0,0,0,2020-07-29
+35,2020-07-31 01:19:27+00:00,1289007737649520640,perpprotocol,"@RomanSelimovic @Bitcoin_Cong Looks like you've already got some in your address.
+It should show 10,000 when you're on our site. Can you check it?
+https://t.co/o9KeauVGO2",0,0,0,2020-07-31
+36,2020-08-06 14:44:21+00:00,1291384624849936384,perpprotocol,@JonGalt14 Not live yet. Coming soon™,1,0,0,2020-08-06
+45,2020-08-07 01:48:17+00:00,1291551705851523072,perpprotocol,@tomlombardi @RoyLearner Must be a big brain Florida kid with a nice taste,1,0,0,2020-08-07
+46,2020-08-12 14:01:29+00:00,1293548160942346241,perpprotocol,"The results of our trading competition on the Ropsten testnet are in! 🥂
+The top 3 traders are...
+🥇@Sinsecato
+🥈@imleanh_
+🥉@mori__sho
+
+Thanks everyone's participation and stay tuned for more exciting news from us! 
+https://t.co/bBHaHPIgbK",20,3,6,2020-08-12
+48,2020-08-13 07:30:02+00:00,1293812040356646912,perpprotocol,"Update on 2020/8/13:
+We've removed all of the addresses controlled by team members of the Strike Protocol from the list. And there are six people are affected by the change (all of them are positive ones), here are those lucky people:",3,1,1,2020-08-13
+50,2020-08-14 14:44:31+00:00,1294283766983094277,perpprotocol,"Hello world 👋
+Strike Protocol has now become Perpetual Protocol!
+Along with this change, the ticker of our token will become PERP, which is more memorable than the previously used SKE.
+
+You can check the reason behind this change here👇
+https://t.co/hZFLAaUBKX",55,2,14,2020-08-14
+53,2020-08-16 15:55:48+00:00,1295026480385327106,perpprotocol,Perpetual Protocol is a decentralized perpetual contract protocol with a novel virtual AMM design. Learn more about virtual AMM and how it works: https://t.co/Pb0W0RqkgH https://t.co/s8inymybI0,12,1,3,2020-08-16
+57,2020-08-17 15:54:00+00:00,1295388418847825930,perpprotocol,"🌊 A Deep Dive into our Virtual AMM 🌊
+AMMs used to be limited to token swaps, and now it can finally be applied to perpetual contract trading. 
+
+Check out our Medium post to see how we expand the application space of AMMs by virtualizing the AMMs 👇
+https://t.co/KQaarjDYBX",133,12,32,2020-08-17
+61,2020-08-20 05:46:54+00:00,1296322799217176576,perpprotocol,@mihaipanaitescu Feel free to let us know if you have any questions🙋‍♂️,0,0,0,2020-08-20
+67,2020-08-21 08:27:54+00:00,1296725702121680897,perpprotocol,Perpetual Protocol allows traders to get capital-efficient exposure to BTC and ETH. https://t.co/550eTM1Unj,19,0,5,2020-08-21
+70,2020-08-23 03:08:42+00:00,1297370152132984840,perpprotocol,"@Decentralize101 Yep you're 100% right - if K is changed, so is the curve.
+We're working on a detailed post to explain how we do this while making sure there are enough collaterals to cover every position. 
+Please stay tuned 🙏",0,0,0,2020-08-23
+73,2020-08-24 11:07:48+00:00,1297853106525319171,perpprotocol,FA or TA? https://t.co/2jnlyMeoGY,4,1,0,2020-08-24
+74,2020-08-25 16:05:21+00:00,1298290378504720387,perpprotocol,"7/ After the termination of the $PERP LBP, we'll use the last price of $PERP to provide liquidity for a new PERP/cUSDT shared pool on Balancer.",4,1,0,2020-08-25
+85,2020-08-26 16:00:00+00:00,1298651416869761026,perpprotocol,"Correction: 
+Balancer's LBP for $PERP will start at 9/7 around 6:00 (UTC).
+Specifically, it starts from block number 10,813,500 and ends at block number 10,833,290 (around 3 days)",1,0,0,2020-08-26
+92,2020-08-27 15:40:10+00:00,1299008816189550596,perpprotocol,"6️⃣ Governance: 
+
+$PERP holders can stake their tokens to vote on, or propose new ideas to improve the protocol. 
+
+To keep governance nimble,
+Core protocol contributors will be the ones making critical decisions in the early days of the protocol.",4,1,0,2020-08-27
+102,2020-08-28 13:51:00+00:00,1299343728755306499,perpprotocol,"Our Favorite DeFi Accounts:
+
+@Fiskantes 
+@DegenSpartan 
+@CL207 
+@Rewkang 
+@devops199fan
+
+Who are yours?",26,7,4,2020-08-28
+103,2020-08-29 01:04:32+00:00,1299513228473430017,perpprotocol,$PERP is launching on Balancer Liquidity Bootstrapping Pool (LBP) and it's by far the most interesting design in the space. Balancer LBP is a game-changer for the DEX token launch! https://t.co/6S4v1f68bx,49,4,10,2020-08-29
+107,2020-08-31 15:50:26+00:00,1300460950366035968,perpprotocol,"Perpetual Protocol is a decentralized perpetual contract protocol for any asset
+
+Made possible by a Virtual Automated Market Maker 
+
+Find out more in our LitePaper 🔍
+
+https://t.co/JefHfe9ePt",23,0,6,2020-08-31
+109,2020-09-04 16:05:00+00:00,1301914166610006017,perpprotocol,"Due to Excessive Gas Prices
+We are sorry to hold off the Mainnet launch until:
+
+1. The gas price becomes normal
+2) https://t.co/bkwfGrJMbJ can run on an L2 or side chain.
+
+We will also move our Balancer LBP distribution to 
+Sep 9, 06:00UTC  
+
+More info 👇
+
+https://t.co/FGBX1hIIOA",75,3,19,2020-09-04
+110,2020-09-07 17:13:26+00:00,1303018552123768832,perpprotocol,"4 Again, as a reminder, the price of $PERP on the LBP will start at really high and gradually go down.
+⚠ DO NOT BUY $PERP TOO EARLY OR YOU WILL GET REKT ⚠  
+
+https://t.co/tzxKMztZyk",5,0,0,2020-09-07
+115,2020-09-08 04:25:27+00:00,1303187670508515329,perpprotocol,"Excited to be the first DeFi Project using Balancer's LBP
+
+Liquidity Bootstrapping Pools can:
+
+-reduce front-running
+-reduce initial price volatility
+
+Creating a fairer distribution.
+
+We are proud to be the first project using Balancer's LBP to distribute our token. https://t.co/Bxs5lGfYHu",66,2,11,2020-09-08
+122,2020-09-09 18:29:41+00:00,1303762517504663552,perpprotocol,"Tushar Jain explains the benefits of DeFi Synthetics,
+such as Perpetual Swaps: https://t.co/b7zowNQD9V",16,0,1,2020-09-09
+127,2020-09-11 02:54:28+00:00,1304251936364023808,perpprotocol,"It has been nearly two days since the launch of our liquidity bootstrapping pool (LBP), and we want to shout out to @HAL_team for their awesome service🍻
+
+For those who haven't heard of HAL - HAL is an IFTTT service with the events on Ethereum as the trigger.",31,3,5,2020-09-11
+130,2020-09-12 14:11:08+00:00,1304784614209269761,perpprotocol,"@aliatiia_ Thanks for pointing this out!   
+The largest section actually is our multi-sig wallet which includes the amount for ecosystem and team/investors locked.",3,1,0,2020-09-12
+132,2020-09-14 14:03:39+00:00,1305507509008961538,perpprotocol,"6/8
+🏫Community🏫
+In the following days, we will release  
+1. an article on the lessons we learn from this first-ever LBP and what could be done better, and
+2. a guide on how to stake your Balancer's LP token on our UI and earn $PERP in return.",7,3,0,2020-09-14
+140,2020-09-15 03:17:35+00:00,1305707306454319104,perpprotocol,"@kaplansky1 Thanks for the correction, we accidentally use the data we downloaded in the middle of the LBP to make that chart. Here is the correct one 👇 https://t.co/v7ycUp2aRR",1,0,0,2020-09-15
+143,2020-09-16 16:48:33+00:00,1306273781804158981,perpprotocol,"8/8
+You can know more about the rationale behind each lesson by checking our Medium post here 👇
+https://t.co/nbUr6GlKFE",9,0,2,2020-09-16
+151,2020-09-18 16:12:32+00:00,1306989493891878914,perpprotocol,"5/6
+Step 2: 
+
+Stake your BPT on https://t.co/9YTvuffFiV, and start to earn your PERP rewards. 25,000 PERP rewards and PERP bonus from BALs will be allocated proportionately to liquidity contribution. https://t.co/IPhKFVHXZV",4,1,1,2020-09-18
+157,2020-09-19 08:19:09+00:00,1307232748143292416,perpprotocol,Balancer LBP 💯 https://t.co/NBB0K0uK41,12,1,3,2020-09-19
+158,2020-09-22 04:40:15+00:00,1308264825613463552,perpprotocol,"@RudyKadoch The first address belonged to the foundation, and it won't receive any reward; the second one is the smart contract where stakers deposit their BPT and it'll receive the LP rewards.",3,0,0,2020-09-22
+160,2020-09-24 13:54:38+00:00,1309129116122316808,perpprotocol,"🗺Looking for an escape route in this altcoin bear market?
+Brush up on leveraged perpetual contracts below so you're ready for Perpetual Protocol 👇
+https://t.co/asdECIPHwH",39,2,9,2020-09-24
+161,2020-09-25 10:18:11+00:00,1309437034100961281,perpprotocol,"@caterina_zhang 🙋‍♂️We're working on it! 
+https://t.co/58OoJ5Qng6",6,0,1,2020-09-25
+162,2020-09-29 03:51:52+00:00,1310789363442180097,perpprotocol,"For those know want to know more, we wrote a detailed post regarding the end results, the preparation we put in place, and the lessons we learned. 
+Please check here 👇
+https://t.co/nbUr6GDlxc https://t.co/TibkSeqSLH",9,0,3,2020-09-29
+164,2020-09-30 07:20:43+00:00,1311204312500940800,perpprotocol,Check us out on @Everipedia for a great project overview! Thanks @Everipedia  for the tweet! https://t.co/pIfYwbUdgl,22,1,8,2020-09-30
+165,2020-10-05 07:29:38+00:00,1313018496771473413,perpprotocol,"@mrjasonchoi @strangechances @hosseeb In the case of our vAMMs, we can provide the best of both worlds - we support long-tail assets and make them into perps, and we can also adjust K on the fly to meet market demand. 
+In the upcoming v2, we'll support limit order which should attract traders who are into CLOB.",5,0,0,2020-10-05
+171,2020-10-06 07:36:37+00:00,1313382638439206912,perpprotocol,@perpprotocol @musatheredguard @timothyjcoulter @kylesamani Can confirm!,14,3,0,2020-10-06
+173,2020-10-07 07:14:54+00:00,1313739564364623873,perpprotocol,@iammichaelpole We are in the final stages of testing L1+L2 implementation and making sure updates from the smart contract audits are locked tight. Soon™️ (current expectation is 2-3 weeks).,0,1,0,2020-10-07
+184,2020-10-08 03:13:57+00:00,1314041312895668226,perpprotocol,"Thanks for putting us on the map🥂
+@simoneconti_ https://t.co/107lH6sYIh",25,0,7,2020-10-08
+186,2020-10-13 07:58:34+00:00,1315924878046892032,perpprotocol,"Some of our favorite traders on Twitter:
+
+@CryptoGainz1 
+@CryptoCred 
+@TheCryptoDog 
+@HsakaTrades 
+@loomdart 
+
+Who are yours?",32,9,1,2020-10-13
+188,2020-10-15 09:55:40+00:00,1316679124891496448,perpprotocol,"If you're interested in @BalancerLabs (we definitely are!), don't miss this one. Watch the live stream at https://t.co/xIT1Y6uSVZ https://t.co/TWY6Cz4eWD",22,0,4,2020-10-15
+189,2020-10-16 03:22:04+00:00,1316942459327467520,perpprotocol,"Our profile on @MessariCrypto has been updated!
+Thanks to @RobertoTalamas for the detailed write-up 🙌
+
+https://t.co/ENoDPeRnxx",36,1,14,2020-10-16
+190,2020-10-19 12:58:52+00:00,1318174777308188679,perpprotocol,"2/ xDai addresses all these issues. 
+It is also extremely easy to onboard existing Ethereum applications to it.
+
+Here is the architecture of Perpetual Protocol after incorporation with xDai: https://t.co/6wM2r3R4ik",21,1,2,2020-10-19
+196,2020-10-20 13:56:00+00:00,1318551544229482496,perpprotocol,"We’re making good progress on integrating xDai.
+
+A new, faster testnet is on its way!
+
+Just like before, there will also be a trading competition where you can win PERP 🥳
+
+Watch for an announcement in the coming days!",41,1,8,2020-10-20
+197,2020-10-21 07:33:38+00:00,1318817705307222016,perpprotocol,Thanks @cryptoatlas_io for the mention! The pulse is strong ❤️💪 https://t.co/wMFd8PUiR1,12,1,1,2020-10-21
+198,2020-10-22 06:24:27+00:00,1319162683715801089,perpprotocol,"Argent Wallet now supports PERP!
+
+Argent is an extremely user friendly crypto wallet.
+
+No seed phrases. Native DeFi Integration.
+
+Check it out:
+https://t.co/UqfI7pQr6x",27,1,6,2020-10-22
+200,2020-10-27 07:49:27+00:00,1320996016062001154,perpprotocol,"Want to learn more about AMMs? 
+
+Nick Chong Explains and Compares the leading AMM-based DEXes today https://t.co/aRVSYPmdWV",25,2,2,2020-10-27
+202,2020-10-29 04:08:24+00:00,1321665161569071104,perpprotocol,A great summary of our $PERP token sale on @BalancerLabs  and resulting token distribution https://t.co/emCSDhoH3k,32,0,3,2020-10-29
+206,2020-10-30 08:50:14+00:00,1322098474960105472,perpprotocol,"@phamtamtuankha2 Sorry, we are not allowing new Twitter accounts to prevent users from creating multiple trading accounts",0,1,0,2020-10-30
+211,2020-11-02 03:52:41+00:00,1323110757500817410,perpprotocol,"@oldhu7 Sorry, your oldhu is too xin. We are not accepting new twitter accounts to reduce cheating. You can come ask for help in our Discord.",0,0,0,2020-11-02
+212,2020-11-05 03:33:43+00:00,1324193149686743042,perpprotocol,"@nazariykovalen1 For now we are focused on product development, so we do not yet have a fixed plan to work on exchange listings.",1,0,0,2020-11-05
+214,2020-11-09 07:01:17+00:00,1325694934146375680,perpprotocol,@Uniswap2077 Anyone will be able to receive an airdrop and try the testnet after the competition is over :),0,1,0,2020-11-09
+216,2020-11-10 09:11:06+00:00,1326089993048055808,perpprotocol,"Each project can expect grants from $500 to $20,000 USD (paid in $PERP). 
+
+If you don't have any ideas in mind, no worries! We've listed a few in our Medium post.
+
+Find those and a bunch more info about the grant program here👇https://t.co/TBp6vpNCBt",14,1,4,2020-11-10
+221,2020-11-12 11:29:55+00:00,1326849704123011072,perpprotocol,"The competition ends Nov 12 14:00 UTC (in **2.5 hours**!)
+
+You don't need to withdraw your funds from Layer 2 to Layer 1. It won't affect your ranking.
+
+If the USDT balance in your Layer 1 wallet has increased mysteriously, do NOT use the increased amount to trade. It is spam.",4,0,0,2020-11-12
+224,2020-11-13 07:53:18+00:00,1327157577080209408,perpprotocol,"@leokcheng @MariaShen Let us know if we can provide any info or be of assistance! We are developing a DeFi platform for perpetual contract trading.
+
+Thanks for the mention @leokcheng",0,0,0,2020-11-13
+226,2020-11-16 07:14:33+00:00,1328234989327028224,perpprotocol,"@bitcoinPalmer @barinov @xdaichain Testing is going well! Lots of learning, fixes and improvements rolled out or on the roadmap for mainnet.",2,1,0,2020-11-16
+227,2020-11-17 03:45:26+00:00,1328544749557465090,perpprotocol,"@Cbibtc Sorry, we did not accept registrations from certain types of twitter accounts based on many factors like account age, follower count, account status, content, etc.",0,1,0,2020-11-17
+230,2020-11-19 07:33:19+00:00,1329326874514755584,perpprotocol,@nonstopTheo @ercwl Also @perpprotocol is on xDai so traders will pay zero gas fees to trade (the protocol will cover them).,2,0,0,2020-11-19
+232,2020-11-23 09:33:14+00:00,1330806603558240258,perpprotocol,"One of the reasons we're so excited for mainnet...
+
+Trading perpetuals on-chain with no gas fees! 🤯 https://t.co/ZFWzWEwMPZ",50,1,5,2020-11-23
+234,2020-11-24 09:38:03+00:00,1331170204752113666,perpprotocol,@biconomy @xdaichain Thanks to @biconomy traders will be able to start using Perpetual Protocol in seconds with zero changes to Metamask!,4,0,0,2020-11-24
+235,2020-12-01 09:37:39+00:00,1333706817482809344,perpprotocol,"@Robin__masters @FlamingoFinance @Neo_Blockchain @cz_binance It's all good -- perp is a common abbreviation for perpetual contracts, which were pioneered in the crypto space by Bitmex :)",2,0,0,2020-12-01
+242,2020-12-03 05:51:35+00:00,1334374704765837312,perpprotocol,"Mainnet imminent.
+
+🚄On @xdaichain 
+⛽ No gas fee
+📈Up to 12x leverage
+🔓 Non-custodial
+
+Follow us or join our Discord channel to keep updated 👉 https://t.co/dezK8A6O85 https://t.co/gZW9HwedMg",90,4,15,2020-12-03
+243,2020-12-07 01:58:00+00:00,1335765471577079815,perpprotocol,@VictoriaDamova @graphprotocol We have a grant proposal that would result in a subgraph being added. Join our Discord to discuss further! https://t.co/YTQfDj2jVq,10,0,2,2020-12-07
+245,2020-12-08 02:39:46+00:00,1336138368837533696,perpprotocol,"Looks like they ... blew our cover!
+
+We will be launching very soon with *at least 1* insurance product baked in.
+
+We aim to be the safest place to trade in DeFi and hope to set the standard for user security going forward. https://t.co/wzSHZdI8s9",73,2,7,2020-12-08
+250,2020-12-09 06:04:11+00:00,1336552203801165824,perpprotocol,"@Lord_Ashdrake @DegenSpartan @TheCoiner5 @BinanceLabs @AlamedaResearch @zhusu @kyled116 No way we let this thing flippen 🧐 
+
+Then again, the only hodler is @DegenSpartan and I doubt he's selling, so the token is already $priceless 😂",2,0,0,2020-12-09
+252,2020-12-11 06:11:58+00:00,1337278936972050432,perpprotocol,"Track us on the Messari 2021 Watchlist! 👀
+
+https://t.co/KwPxGk2Hpn",30,2,5,2020-12-11
+256,2020-12-16 13:50:14+00:00,1339206204107571200,perpprotocol,"We're thrilled to announce our mainnet is finally here!
+You can now trade ETH and BTC perpetual contracts with up to 12x leverage on-chain at:
+https://t.co/hGSPyStUz5
+
+(and there is no gas fee during your trades!)",222,8,43,2020-12-16
+261,2020-12-17 12:55:22+00:00,1339554782793539585,perpprotocol,"@DegenSpartan @Timul20 Actually we did pay him with $TONS of our best tokens and this is the thanks we get 😂
+
+https://t.co/VqGw721Fvh",5,0,0,2020-12-17
+266,2020-12-18 03:28:52+00:00,1339774605863518211,perpprotocol,We'll contribute to the TVL soon. 🔥 https://t.co/JReG2UAiqL,25,0,1,2020-12-18
+267,2020-12-21 10:34:55+00:00,1340968987715272709,perpprotocol,"📣Exchange Stats📣
+
+Here are some quick stats for the period Dec 16 to Dec 21
+
+Trading volume so far:
+Ξ ETH-USD 
+$10.27M
+₿ BTC-USD 
+$8.74M
+
+Average funding rate:
+Ξ ETH-USD
+0.0051%(44% annual; paid to shorts)
+₿ BTC-USD
+0.0057%(49% annual; paid to shorts)",32,1,7,2020-12-21
+275,2020-12-22 03:05:23+00:00,1341218249598357506,perpprotocol,@Crypt0Anon @KryptoAlpha_ Stop / limit / take profit (??) orders still in the works ...,2,0,0,2020-12-22
+278,2020-12-24 14:16:16+00:00,1342111855183941632,perpprotocol,@BobTheJimbo Sorry about that! We'll get that font size bumped up asap.,1,0,0,2020-12-24
+282,2020-12-25 14:22:19+00:00,1342475764931776512,perpprotocol,"For those who haven't heard of HAL - it's a @IFTTT service but for blockchain events. 
+They've built two features that could be helpful for our traders: https://t.co/wt2MoeNe5y",0,1,0,2020-12-25
+287,2020-12-28 02:58:48+00:00,1343390917093298176,perpprotocol,"@r1p0st3_crypt0 @Robin__masters Staking will have 2 reward types:
+ - Fees from the exchange (USDC; 50% of trading fees)
+ - Rewards from token pool (PERP; amounts tbc)
+https://t.co/RoPZFW2Kde",3,0,0,2020-12-28
+291,2020-12-29 14:12:23+00:00,1343922817029427201,perpprotocol,@vasa_develop @bneiluj @samczsun @nomorebear👋,0,0,0,2020-12-29
+302,2020-12-30 07:13:13+00:00,1344179718522728449,perpprotocol,"Our 3rd trading pair starting to show some decent volume! YFI-USDC already &gt; BTC-USDC 😃 #DeFi 🚀
+
+Big thanks to @mhonkasalo for the updated chart 📈 https://t.co/OUGFBCfCC5",31,1,3,2020-12-30
+303,2021-01-01 17:47:29+00:00,1345064114599591938,perpprotocol,.@perpprotocol is covered in this week's Our Network! https://t.co/XcM8F74Bfd,9,0,1,2021-01-01
+304,2021-01-04 14:07:10+00:00,1346095834627067904,perpprotocol,"5/5
+Want to know about our next move? Check our Medium post to learn more 👇
+https://t.co/6H0wluvEeM",2,0,0,2021-01-04
+312,2021-01-05 14:34:18+00:00,1346465048072318980,perpprotocol,@QuangSonPham We are getting more requests for this so it's pretty likely that we will! There is definitely a need to let traders keep tabs on their positions while they're away from the computer.,1,0,0,2021-01-05
+313,2021-01-06 07:41:01+00:00,1346723432193351682,perpprotocol,"Perpetual swaps since Dec 14: &gt;76,000
+
+Gas paid by traders: 0
+
+Trade on Ethereum mainnet with @xdaichain under the hood.
+
+https://t.co/RrtG69tAK6
+
+h/t @AutismCapital for reminding us to brag 💪📣 https://t.co/2QjhSM7Z4W",51,2,6,2021-01-06
+315,2021-01-07 13:43:16+00:00,1347176980760862722,perpprotocol,*Still no gas fee during trades,13,0,1,2021-01-07
+326,2021-01-08 04:50:39+00:00,1347405334483124227,perpprotocol,"If you're a @TheBlock__  subscriber, don't forget to check out @mhonkasalo's article about us! https://t.co/ZwJC9qpxIK",21,0,2,2021-01-08
+327,2021-01-11 08:01:11+00:00,1348540444536303616,perpprotocol,"Speak Hindi? Check out this review to know more about Perpetual Protocol!
+
+https://t.co/4OkcloV18n",14,0,1,2021-01-11
+328,2021-01-12 10:28:03+00:00,1348939791941787651,perpprotocol,https://t.co/Jhbn1URTJ9,8,0,0,2021-01-12
+330,2021-01-13 09:25:27+00:00,1349286426454548481,perpprotocol,"Our gas price meme competition on Discord has ended. We have two winners and both of them will get 30 $PERP 📢
+
+🥇 1st prize goes to this professional memer @0x_____________ , featuring @sparkpool_eth Gas Now webpage from a https://t.co/RrtG69tAK6 traders' perspective 😋 https://t.co/8oNfLnWQsX",46,1,7,2021-01-13
+333,2021-01-14 13:42:09+00:00,1349713414868795393,perpprotocol,@AdamScochran @KyleSamani Our front end will be open source within a few weeks. We're focused on other things atm but it's on our to-do list.,2,0,0,2021-01-14
+337,2021-01-15 14:23:12+00:00,1350086134076870656,perpprotocol,"📣 1 Month Recap!
+
+- Full article -
+👉 https://t.co/F66XTukZJr
+
+- Highlights -
+📈Daily volume peaked @ 80m on https://t.co/hGSPyStUz5
+😍Tons of media mentions
+🤯Gas for over 179k tx cost $183 on @xdaichain
+
+A⭐️HUGE⭐️thanks to our community for all the support and feedback!!! 🙏",129,2,27,2021-01-15
+339,2021-01-16 13:49:41+00:00,1350440089277456385,perpprotocol,"Protecting your funds on https://t.co/RrtG69tAK6 is easy! 
+
+We made a 2 minute tutorial on how to buy coverage on @NexusMutual.
+
+🎬 https://t.co/nS1oRqFwCB
+
+Questions or comments? Hit us up on Discord 👉 https://t.co/YTQfDj2jVq https://t.co/Ze02tQTFv7",42,2,9,2021-01-16
+340,2021-01-18 08:53:11+00:00,1351090246910435329,perpprotocol,@CryptoCap_ Awesome thread! 🙌,0,0,0,2021-01-18
+344,2021-01-19 04:48:45+00:00,1351391121390272514,perpprotocol,@perpprotocol @mrgondee We don't have a specific date yet but it's on our roadmap for Q1 🙂,1,0,0,2021-01-19
+348,2021-01-20 14:00:00+00:00,1351892235164536838,perpprotocol,"📺 A new video explainer about Perpetual Protocol by @kermankohli is out!
+
+He covers:
+1. What are perpetual swaps
+2. How an AMM works
+3. How Perpetual Protocol's vAMM works
+
+🎬 Watch here https://t.co/1Sg7YD24FL",33,1,8,2021-01-20
+349,2021-01-26 05:44:51+00:00,1353941955688841221,perpprotocol,"🎙️ We're hosting our 1st community call.
+
+🕔 Time: Friday, 17:00 UTC +8
+
+In this call, we will:
+- share the latest updates from Perpetual Protocol
+- introduce the team
+- answer community questions
+
+🗓️ Add this call to your calendar https://t.co/GNAWWYnshG",46,2,8,2021-01-26
+351,2021-01-27 14:52:08+00:00,1354442071759720453,perpprotocol,"Also, the personal position cap for each market is increased!
+
+ETH/USDC - 400 $ETH
+BTC/USDC - 10 $BTC
+YFI/USDC - 5 $YFI
+DOT/USDC - 5000 $DOT
+SNX/USDC - 6000 $SNX",18,0,2,2021-01-27
+353,2021-01-28 14:00:01+00:00,1354791343147507716,perpprotocol,"🎙️ Community call reminder
+
+📅 Set your calendars!
+
+🕔 Time: Jan 29, 17:00 UTC +8
+
+In this call, we will:
+- share the latest updates from Perpetual Protocol
+- introduce the team
+- answer community questions
+
+🔗 Zoom call link will be posted here before the call",22,1,3,2021-01-28
+354,2021-01-29 01:11:41+00:00,1354960373506469898,perpprotocol,@mtjkenny92 Yes! We will post the link once it's up on YT.,1,1,0,2021-01-29
+357,2021-02-01 10:46:35+00:00,1356192216427888651,perpprotocol,"@OfwhatAfraid Our vAMM model does not require liquidity. The vAMM is used for calculating the price, and traders enter/exit with USDC, so no swap is occuring.",1,0,0,2021-02-01
+359,2021-02-02 08:28:09+00:00,1356519763363590147,perpprotocol,"@austerity_sucks @tempofeng If the trader opens a position, there will be no profit to be had until another trader comes in after them. The mark price only moves when trades happen. Index price is only used to calculate funding. No trades = no change in mark price.",0,1,0,2021-02-02
+360,2021-02-03 06:33:20+00:00,1356853259504218112,perpprotocol,"@tempofeng @austerity_sucks Their collateral goes into the clearinghouse, yes. Our design is such that profit taken out is balanced by losses for other traders. Perpetuals trading is a zero sum game. Welcome to come to our Discord to discuss more!",1,0,1,2021-02-03
+363,2021-02-04 03:57:16+00:00,1357176369856217088,perpprotocol,"📢📢📢
+
+$PERP is now listed on @FTX_Official
+
+👉 https://t.co/QkFDK6rzB1 https://t.co/Ew4zGAekZC",74,2,6,2021-02-04
+365,2021-02-05 14:09:08+00:00,1357692740201443329,perpprotocol,"🗒️ The recap for our 1st community call is on Medium!
+
+ℹ️ We answer tons of questions, so check it out! 🏋️👇
+
+https://t.co/i7ey7KuMoN",18,0,2,2021-02-05
+366,2021-02-06 05:55:03+00:00,1357930785559351296,perpprotocol,"(1/3)
+📢 Calling $PERP holders to vote on the Round 5 for the next new market!
+
+Instead of doing a single vote in we will do a batch vote. 
+🗳️ Do you agree with the 11 pairs on the list? (see thread)
+📆 Vote ends on Feb 8
+🖱️ Vote at https://t.co/RXol6qh9jA",32,1,4,2021-02-06
+370,2021-02-08 08:07:52+00:00,1358688988874252290,perpprotocol,"Speak Chinese?
+
+Join our founder @tempofeng on @joinclubhouse to talk about DeFi
+
+🗓 Monday, Feb 8 at 12:00 PM UTC https://t.co/HDMUuLmTsZ",16,0,0,2021-02-08
+371,2021-02-09 05:27:15+00:00,1359010956387393537,perpprotocol,"@scott_lew_is @mewn21 Thanks for the feedback! We are WIP and will try to make it clearer for traders what is going on on the protocol.
+
+As for trade demographics, looks like there are quite a few ppl running arb bots, funding rate bots, algo trading, etc. so that is likely what you are seeing.",4,0,0,2021-02-09
+374,2021-02-10 14:02:55+00:00,1359503115620290560,perpprotocol,"(3/5) So for positions you keep open for 30 mins or more, you'll get the full reward.
+
+If your position was open for less than 30 mins, you'll get 1/3 rewards.
+
+This encourages traders to hold positions for longer and increase open interest on the protocol.",12,1,0,2021-02-10
+379,2021-02-11 01:32:00+00:00,1359676529072959490,perpprotocol,"(5/5) Want to learn more?
+
+📚Read the full proposal 👉https://t.co/y4LTqIHFfO
+
+ℹ️Come to our Discord 👉https://t.co/mFseYqP4CD",2,1,0,2021-02-11
+380,2021-02-17 11:32:22+00:00,1362001941283303424,perpprotocol,@hamsterrrad Not possible now - maybe some time in the future!,1,2,0,2021-02-17
+382,2021-02-18 08:43:50+00:00,1362321915386335232,perpprotocol,@perpprotocol @hamsterrrad @ufo2go We agree! It's currently under active development. We don't have an ETA yet but it should roll out in a few weeks.,10,1,0,2021-02-18
+383,2021-02-19 02:41:51+00:00,1362593209289822208,perpprotocol,"@Ufo2Go @hamsterrrad You can have your cake, eat it, and stake it too (soon™️)",0,0,0,2021-02-19
+386,2021-02-20 14:23:24+00:00,1363132148035723274,perpprotocol,"📊 Lucky no. 7! Perpetual Protocol now has 7 markets where you can:
+
+👟 Go long or short
+💱 Trade with 10x leverage (or more)
+⛽ Safe on gas (0 gas fees for trades)
+⛏️ Get up to 110% of your fees back in $PERP via tx mining
+
+🛒 Roll call:
+$BTC
+$ETH
+$YFI
+$DOT
+$SNX
+$LINK
+$AAVE",48,2,10,2021-02-20
+387,2021-02-22 03:49:10+00:00,1363697313365979147,perpprotocol,@Sky_ranker @futureswapx Thanks for your feedback! We will consider this in our investigation and response to the flash crash.,0,1,0,2021-02-22
+390,2021-02-23 08:10:31+00:00,1364125470476836864,perpprotocol,"@theblockchainbe The current UI runs on the web, which is not decentralized and subject to some restrictions. The smart contracts on Ethereum and xDai are decentralized and permissionless. https://t.co/M1uyCMviql may soon be a decentralized access point!",1,0,0,2021-02-23
+395,2021-02-25 07:57:52+00:00,1364847065906352129,perpprotocol,"📰 Interesting article from @HuobiGlobal 
+
+🧐 DeFi perpetual swap platforms are compared
+
+🚄 DeFi moves fast, so the data is already old, but the message remains true 💯
+
+👩‍🏭 We need to keep building, and keep growing! 🚀
+
+https://t.co/U8MQpULs7y",22,2,1,2021-02-25
+403,2021-02-26 05:06:44+00:00,1365166384691302402,perpprotocol,Do you use @hummingbot_io ?,3,0,0,2021-02-26
+405,2021-02-27 14:25:48+00:00,1365669465682112513,perpprotocol,"📊Interesting analysis by @CryptoBrookins!
+
+Like he says - #DYOR https://t.co/4F9TS9b9ON",17,2,3,2021-02-27
+408,2021-03-03 06:56:48+00:00,1367006022687027203,perpprotocol,"🚧Skills Required🚧
+
+- Trading &amp; finance skills
+- Command line skills
+- Tetherball skills (optional)
+
+⚠️Trade at your own risk⚠️
+
+🛃Perpetual contract trading may not be available your jurisdiction https://t.co/fOgVNmZaP5",11,0,0,2021-03-03
+411,2021-03-04 14:08:25+00:00,1367477030149791744,perpprotocol,"📢 New Market Update
+
+🍣 SUSHI/USDC (@SushiSwap) trading pair is now live
+
+📈 Go long or short on your favorite tokens with zero gas fees 🚫⛽
+
+💱 Start trading 👉  https://t.co/6Z1yrZ4zhm
+
+🙋 Propose new trading pairs 👉 https://t.co/BTTKFR5DaQ",26,1,4,2021-03-04
+413,2021-03-05 03:39:17+00:00,1367681094145904645,perpprotocol,"📣 @chainlink price feeds are now on @xdaichain 🎉
+
+📈 This improves Perpetual Protocol in several ways:
+
+⬆️ We can get index prices faster
+
+⬆️ We can get index prices cheaper &amp; more often https://t.co/tbkfUqYMwD",199,5,35,2021-03-05
+419,2021-03-06 00:00:01+00:00,1367988299315490819,perpprotocol,"🐦Check out the live demo of @hummingbot_io using Perpetual Protocol!
+
+📽️Starts 5 PM PST (in 1 hour)! 👉 https://t.co/myu48U8dY9",15,1,1,2021-03-06
+421,2021-03-08 14:00:01+00:00,1368924470971273216,perpprotocol,"🙋‍♂️Are you someone who wants to follow our latest development but don't want to get bombarded with notifications?
+
+Sign up with our bi-weekly newsletter to stay in the loop👇
+https://t.co/qcQ3VE2lJm",54,8,12,2021-03-08
+427,2021-03-09 08:06:47+00:00,1369197962362908673,perpprotocol,"📢 Our 2nd community call will begin in an hour. 
+
+Come meet and chat with the team. 
+
+Join zoom via link here https://t.co/kApZHajGO7 https://t.co/4xgxGkKNIV",12,1,1,2021-03-09
+429,2021-03-10 06:37:34+00:00,1369537899247505408,perpprotocol,🧙‍♀️⚗️⚡ Summoning $CREAM holders to help us get on @CreamdotFinance https://t.co/W2DDNfyN81,39,0,3,2021-03-10
+432,2021-03-11 03:37:54+00:00,1369855072432136196,perpprotocol,🧐 Can you find PERP? https://t.co/AyuylGnLSm,31,0,3,2021-03-11
+435,2021-03-12 14:16:08+00:00,1370378077415481349,perpprotocol,"🔭Looking for new ways to access perpetual contract trading?
+
+🐦Come check out this @hummingbot_io AMA!
+
+🔓If you're currently unable to use https://t.co/RrtG69tAK6, try Hummingbot! 
+
+It's open to all. https://t.co/bi1opYILYp",12,0,0,2021-03-12
+439,2021-03-15 07:39:44+00:00,1371365481953693696,perpprotocol,"Have you tried the https://t.co/RrtG69tAK6 #DEX?
+
+Come to our Discord now 👉 https://t.co/zmCixVo4GR
+
+We will 🪂 airdrop you funds so you can test drive https://t.co/RrtG69tAK6 100% free!",29,3,2,2021-03-15
+443,2021-03-17 05:38:41+00:00,1372059795067260928,perpprotocol,"@JonGalt14 @OKLink We agree with you to a degree. However, it's hard to at once be a public team, and also avoid unpleasant encounters with litigious state entities.
+
+Want truly permissionless DeFi? Public blockchains + open source software! 🙌 https://t.co/Y68O3CQs0c",1,1,0,2021-03-17
+446,2021-03-18 14:53:54+00:00,1372561906515374084,perpprotocol,"Our interview with @OKEx director @LennixOkex is out.
+
+We talked about:
+
+🔹Bringing perpetual contract trading to DeFi
+🔹How the insurance fund works on @perpprotocol
+🔹Why we chose xDai 🚄
+🔹Are we moving to other chains? ⛓️🤔
+🔹Much more!
+
+Watch now ⤵️
+
+https://t.co/xGjlMi09Nr https://t.co/EKeF8MVgNo",52,3,12,2021-03-18
+449,2021-03-19 05:29:36+00:00,1372782286081380354,perpprotocol,"📢📢📢
+
+$PERP to be listed on Binance. https://t.co/SIBQQACVfS",197,21,45,2021-03-19
+450,2021-03-22 07:55:58+00:00,1373906284898963459,perpprotocol,@haerhaer @Wraecca @CoinDesk @AlamedaTrabucco @cz_binance @binance The investor token release schedule was decided mid last year :),1,1,0,2021-03-22
+451,2021-03-23 10:31:20+00:00,1374307772137795585,perpprotocol,"📣 We're almost at 1 million trades!
+
+We are giving away an #NFT loaded with
+
+💰💰💰 168 $PERP (~ $1200) to
+
+👤 the person who places the 1 millionth trade.
+
+🏃 Trade now 👉 https://t.co/iwFMSvBFqQ
+
+📊 Track our volume via @DuneAnalytics! https://t.co/7OkSYE460p https://t.co/sGsd59rXyB",46,0,8,2021-03-23
+455,2021-03-24 06:47:38+00:00,1374613863870525445,perpprotocol,"We are joining OKEx India AMA on telegram. 
+
+⌛️ The event will begin in less than 2 hours.
+
+🕜 Mar 24, 1:30pm IST
+
+Join OKEx India telegram group 👉 https://t.co/UotvKxfet5 https://t.co/ljREKIiLqD",17,0,1,2021-03-24
+458,2021-03-25 11:50:22+00:00,1375052435106930688,perpprotocol,"📺 The webinar will begin in ten minutes.
+
+🍿 Join here: https://t.co/MzTNzDr882 https://t.co/ptncMh9w68",18,0,2,2021-03-25
+462,2021-03-26 14:00:01+00:00,1375447449582571524,perpprotocol,"🎙️ We're hosting our 3rd community call.
+
+🕔 Time: Monday, 17:00 UTC +8
+
+🗝️ We'll cover key topics:
+🔹 Current status of Perpetual Protocol
+🔹 Health of the Insurance Fund
+🔹 Research on improving vAMM design
+
+🗓️ Add this call to your calendar https://t.co/GNAWWYF3Gg",24,0,3,2021-03-26
+464,2021-03-27 12:14:53+00:00,1375783380889989123,perpprotocol,"Come check out our AMA with @Binance_Turkish 
+
+⏱️Starting in 45 minutes!
+
+It will be in English as well as Turkish 👍
+
+They will give away $2000 worth of $PERP! https://t.co/z0p3trtJtq",24,4,4,2021-03-27
+466,2021-03-29 08:22:30+00:00,1376449675855716352,perpprotocol,"@scooby63842930 @defi_meathead @cryptoryum @liaoishere @BrettAlan45 @hal_kho @phannypharkle
+
+Sorry guys, no one got it right 😅🤷
+
+The answer is #pepecasso @MarkusWuelbern 
+
+NFT to be revealed later today!",1,0,0,2021-03-29
+473,2021-03-30 08:04:48+00:00,1376807609504690179,perpprotocol,"@Hoda33566963 Don't forget to follow the rules please 🙏
+2⃣ Retweet this tweet
+3⃣ Tag a friend",1,1,0,2021-03-30
+480,2021-03-31 06:16:13+00:00,1377142672352190467,perpprotocol,"@perpprotocol @jeevanpillay Yes it's live!
+
+https://t.co/qqyHrl0wzm",9,1,1,2021-03-31
+483,2021-04-01 09:24:23+00:00,1377552413708591110,perpprotocol,@UserHuge @EdgarArout Hello @UserHuge can you please DM us.,1,1,0,2021-04-01
+494,2021-04-02 13:25:45+00:00,1377975543836987397,perpprotocol,"You can now borrow against your $PERP on @CreamdotFinance🍦
+
+💼 Put those PERPs to work!
+
+Check it out here 👇 https://t.co/tkWiKUOtjG https://t.co/O7GepynRu5",29,2,3,2021-04-02
+497,2021-04-03 03:16:23+00:00,1378184579161321476,perpprotocol,"🚨 Triple Perp Alert 🚨
+
+$PERP perp has launched on Perp! 📈
+
+English translation:
+
+🥚 We have launched the PERP/USDC market!
+
+🕵️‍♀️If you're a PERP Hunter...
+
+💱Trade now on https://t.co/RrtG69tAK6! 🖥️ https://t.co/1Pr7obag1C https://t.co/RNhDhi2nzv",44,2,8,2021-04-03
+499,2021-04-06 10:11:26+00:00,1379376193737220098,perpprotocol,"@TwitmeSerifi @MathWallet Yes, please join us via https://t.co/0V4RudZnPM",0,0,0,2021-04-06
+501,2021-04-07 15:07:17+00:00,1379813032906219527,perpprotocol,"📢 Looking for video makers 📽️
+
+Want to earn some $PERP by
+
+🪄 turning the tutorial below into an
+
+✨ interesting, easy to follow video ✨ ?
+
+📲 DM us with your idea and price! https://t.co/JfxYPmYpVM",16,0,3,2021-04-07
+503,2021-04-08 14:00:00+00:00,1380158489138446352,perpprotocol,"📢 New Market Launch 🚀
+
+🦄 UNI/USDC (@Uniswap) trading pair is now live
+
+👉 Start trading at https://t.co/6Z1yrYMYpO
+
+⛽ Remember: pay ZERO gas on all trades at https://t.co/RrtG69Lc8G! https://t.co/1Wl8WcPb0K",41,1,3,2021-04-08
+507,2021-04-10 14:00:00+00:00,1380883265255530505,perpprotocol,"📢 https://t.co/RrtG69Lc8G now has direct links
+
+🔗 Get instant access to your favorite trading pairs!
+
+What's your favorite? There are 12 to choose from!
+✅ https://t.co/rG8vt0LHpy
+✅ https://t.co/KRNn4nqtTW
+✅ https://t.co/sDdrWUHYhN
+✅ https://t.co/drhGIG9f0W
+✅ and more!",27,2,3,2021-04-10
+508,2021-04-12 05:40:12+00:00,1381482261028040706,perpprotocol,"👋 $PERP stakers
+
+💻 Would you like to see your PERP staking stats on @zapper_fi ?
+
+🗳️ Help us get there faster by upvoting the proposal at https://t.co/NrUuI4qfpq",29,0,3,2021-04-12
+513,2021-04-13 13:29:03+00:00,1381962638440112132,perpprotocol,"@Trezor and @Ledger support are live on https://t.co/RrtG69tAK6!
+
+You can now trade perpetual contracts with your hardware wallets by:
+1️⃣ Setting up @xdaichain on your @MetaMask,
+2️⃣ Sending your USDC to xDai Chain, and
+3️⃣ Getting some xDAI for network fees https://t.co/70wRTHmkoM",11,2,2,2021-04-13
+515,2021-04-14 14:03:44+00:00,1382333756879429635,perpprotocol,"🧐 Who tried our @Binance → @xdaichain deposit tutorial?
+
+We found out that ...
+
+🧠 12 brilliant minds followed the path!
+
+🪂 We're sending you 5 $PERP each for being an early adopter!
+
+🌾 Check your wallets to reap the rewards. https://t.co/JfxYPmYpVM",23,2,3,2021-04-14
+516,2021-04-15 14:32:36+00:00,1382703407211905032,perpprotocol,@cesar_megadeth @binance @xdaichain Thank you for trying it out. 🙌,1,0,0,2021-04-15
+522,2021-04-16 13:19:06+00:00,1383047298557497346,perpprotocol,"Are you a $PERP holder?
+
+🧑‍🌾 Should we launch $FARM (@harvest_finance) on https://t.co/RrtG69tAK6?
+
+Vote now 👇
+💡 Launch FARM/USDC pair
+🏆 with a $40,000 prize campaign
+🗳️ Vote at https://t.co/2N211Hg4ed
+📆 ends on Apr 19, 2021
+
+You can vote if you
+👤hold $PERP, or
+👤staked $PERP",57,5,13,2021-04-16
+524,2021-04-19 04:25:33+00:00,1384000190802137097,perpprotocol,"📢 Our community call will begin in a few hours.
+
+💁‍♂️ In addition to the original agenda
+
+📉📈 We will address the flash crash
+
+🕔 Time: 17:00 UTC+8
+
+📺 Join Youtube live stream here https://t.co/ZbDTzEyFwn https://t.co/6GRE3EtAfI",8,0,2,2021-04-19
+528,2021-04-20 16:30:30+00:00,1384545016916238337,perpprotocol,"@backbooked This kid gmi. 
+Please keep up the good work. 💪
+Just sent some $PERP to you.",8,1,0,2021-04-20
+533,2021-04-22 14:30:00+00:00,1385239469092081674,perpprotocol,"Great News 📢📢📢
+
+📊 Perpetual Protocol's daily trading volume
+🚀 has been consistently above $100M
+🔥 for the past 5 days.
+
+👉 start trading at https://t.co/RrtG69tAK6 https://t.co/C5qUwhWjCr",39,2,11,2021-04-22
+536,2021-04-23 02:01:17+00:00,1385413435131719682,perpprotocol,@OfwhatAfraid There are a lot of DeFi spot trading options already :),2,1,0,2021-04-23
+538,2021-04-24 14:00:01+00:00,1385956699471683591,perpprotocol,"Did you miss our MasterClass where we presented a passive income strategy?
+
+📼 The recording is up on Youtube
+📺 Check it out here https://t.co/2nW3RB8Pw0",25,1,3,2021-04-24
+539,2021-04-26 06:57:51+00:00,1386575234824740868,perpprotocol,@hexidethmal @Evan_ss6 @cmsholdings You should link to the source rather than just provide a screen shot so people can see context as well as the team reply to this user comment 👉 https://t.co/m9oEr2qg04,1,0,0,2021-04-26
+541,2021-04-27 04:00:25+00:00,1386892968183795713,perpprotocol,"🪂 Our first #PERPtogether airdrop has landed! 📣
+
+💱 If you traded on https://t.co/RrtG69tAK6 last week
+
+🎰 Go to Pool Together to join the lucky draw! 🎲
+
+💦 #PERPtogether pool 👉 https://t.co/xafty70YFr
+
+🎟️ See how many tickets you get 👉  https://t.co/hTvsaKT9Ff https://t.co/M4gEEiuEs0",21,0,3,2021-04-27
+543,2021-04-28 05:31:53+00:00,1387278375421505541,perpprotocol,"Are you a $PERP holder but not a trader? We get you covered!
+Once this integration is completed, you can pick your own fund managers to trade on Perpetual Protocol for you. 
+
+Check what they're building at 👇
+https://t.co/D62GKfzoYE https://t.co/KMOe418fgz",77,2,17,2021-04-28
+546,2021-04-29 14:01:12+00:00,1387768937841152010,perpprotocol,"🧙‍♂️⚡ Are you someone who is new to the defi space, or has never traded perpetual contracts before?
+If you are, we got a workshop just for you.
+
+Next week, we will host a workshop to show you how you can use perpetual contracts for non-speculative purposes...",40,2,5,2021-04-29
+551,2021-04-30 14:00:00+00:00,1388131023599378432,perpprotocol,"Want more ways to query Perpetual Protocol? 👨‍💻 
+
+We have open-sourced a 
+⌨️ command-line interface (CLI) tool 
+🛎️ to query information from @PerpProtocol
+🔜 trading commands coming soon!
+
+✍️ PRs welcome!
+
+Check it out here 👇
+https://t.co/AvHwySy5Rr",25,1,2,2021-04-30
+552,2021-05-01 15:33:09+00:00,1388516852498714626,perpprotocol,"Perpetual Protocol is launching a referral program for traders and influencers, starting today.
+
+In phase 1, sign-ups will be done via referral partners. 
+
+We are starting with 1 partner (@Crypto_McKenna) and will add more gradually.
+
+Program details:
+
+https://t.co/0OcAxoyZeO",18,2,1,2021-05-01
+554,2021-05-02 12:58:39+00:00,1388840357278871552,perpprotocol,"@Chili_DeFi @Crypto_McKenna We have two reasons for working with referral partners first (they aren't paid, beyond the referral fees)
+- We need time to develop various infra to open it to everyone: UI, database, dashboard etc...
+- We want to test the program in a controlled environment first",0,0,0,2021-05-02
+555,2021-05-03 09:51:22+00:00,1389155613842710529,perpprotocol,"@Ccrypto_Gh @Crypto_McKenna You will receive rewards in proportion to your trading volume. So if you are making $1 trades, you will still get rewards - just very tiny ones. This statement is just to let people know we will modify the program if any loopholes or exploits are found.",1,0,0,2021-05-03
+559,2021-05-04 18:30:36+00:00,1389648673898856449,perpprotocol,@lonelyxbtrider @perpprotocol @bullish__bear We have frequent implementations to improve the product. Make sure to come back to check us out again. https://t.co/S9tGdQgmJM,1,1,0,2021-05-04
+568,2021-05-05 10:32:41+00:00,1389890787198963720,perpprotocol,"Our first workshop will begin in around 4 hours (5/5 23:00 UTC+8).
+Here is the link to the workshop: https://t.co/OoIjRAwNGY
+
+See you then! https://t.co/HQM52wixgG",13,0,2,2021-05-05
+569,2021-05-06 07:35:32+00:00,1390208593333424130,perpprotocol,"The slides used in yesterday's workshop are released. You can check it here:  
+https://t.co/7HcCgoaMQR
+
+The workshop's video will be released on our YouTube channel next week.",16,1,2,2021-05-06
+574,2021-05-10 20:37:47+00:00,1391855004017995778,perpprotocol,"Perpetual Protocol is listed on @CoinMarketCap's derivative page. 
+
+🏅 We're ranked No.22 along with all CEX
+🪜 Only slightly below @Bitfinex
+
+Check it out 👇 
+https://t.co/GhGJTK1CSX",29,0,1,2021-05-10
+579,2021-05-11 08:56:08+00:00,1392040819910082562,perpprotocol,"📣Referral Rewards Thread!📣
+
+318 traders received their rewards!
+
+A total of c. 514 PERP were sent in 2 batches:
+https://t.co/79IlVKuRem
+https://t.co/pOkLMgC1PP
+
+Total transfer fees: 0.01023613 DAI 🤯
+
+❗️Rewards have been issued on @xdaichain 
+
+Read on for more info! 👇",18,4,0,2021-05-11
+585,2021-05-12 09:21:39+00:00,1392409626302320640,perpprotocol,"📣 #PERPtogether update!
+
+📝 Check out the weekly winner lists, rules etc.
+
+👉 https://t.co/FXAkroMIyi
+
+⚠️ 1 pPERP min reward no longer applies
+◻️ All rewards will be calculated as weekly vol ➗ 5000
+◻️ Sorry to everyone trading $1 per week!🤷‍♂️
+◻️ 20 pPERP max reward still applies",5,0,0,2021-05-12
+588,2021-05-13 19:33:19+00:00,1392925944613150728,perpprotocol,"⛽ The pool is on xDai where fees are super LOW
+
+💡 Use as low as 1 Gwei, if you need gas
+💡 Come to our Discord and ask for 0.001 xDAI
+
+(that's enough gas to complete the process 3 times! 🤯)
+
+Recommended gas limits, just in case:
+Approve: 60,000
+Stake: 300,000",7,0,0,2021-05-13
+592,2021-05-14 15:28:53+00:00,1393226818266804230,perpprotocol,"Highlights of how we're doing when market's gone wild.
+
+🔥 $372M 24hr trade vol
+🔥 Daily traders remains &gt;200
+🔥 Market dipped less as we've implemented several flash crash preventions.
+
+🤑 Also, now is the best time to earn some juicy funding payments on https://t.co/RrtG69Lc8G https://t.co/7VOa4dNz7W",65,4,11,2021-05-14
+594,2021-05-15 08:03:25+00:00,1393477102704332802,perpprotocol,"📢 Safety Upgrades Complete! 📢
+
+Perpetual Protocol has rolled out several measures to ensure traders are safe on the platform.
+
+Thanks to this, the platform performed great during the recent market volatility! 🙌
+
+Read on for details 👇",52,3,7,2021-05-15
+598,2021-05-17 03:32:04+00:00,1394133590946959364,perpprotocol,"🛑 Scam Alert 🛑
+
+🛑 Do not click the Google ad for 'perpp . fyi'
+
+🙅‍♀️ Perpetual Protocol will NEVER ask for your: 
+
+- recovery seed
+- recovery phrase
+- private key
+
+☠️ Your recovery seed can be used to steal your funds
+
+🤫 Keep your recovery words SECRET https://t.co/Ju7YsoDaOB",33,1,9,2021-05-17
+602,2021-05-18 03:23:34+00:00,1394493839591698435,perpprotocol,@bud_bit Better safe than sorry. We've entered a new golden age of scams 😅,1,0,0,2021-05-18
+603,2021-05-19 19:34:37+00:00,1395100601541816325,perpprotocol,@perpprotocol @datacommandant Interesting idea,8,1,0,2021-05-19
+605,2021-05-21 04:05:34+00:00,1395591575032385539,perpprotocol,"Check out this interesting thread! 🧵👇
+
+Lewis Harland looks at our market share. 📊
+
+We learned a few things! 🚀
+
+The future of france is brighter than ever! 🇫🇷📈 https://t.co/exEIF0yUyJ",24,1,3,2021-05-21
+614,2021-05-24 20:19:16+00:00,1396923777724960771,perpprotocol,"Make sure your tweet follows the rules:
+
+✅ Make a meme about zero gas deposit
+✅ Use #PerpMeme and mention @perpprotocol 
+✅ Your meme must include our logo 
+⏳ Deadline: entry closes on May 31 23:59 UTC
+🧑‍⚖️ Winners will be picked by the team",21,4,6,2021-05-24
+619,2021-05-25 19:12:54+00:00,1397269462915719178,perpprotocol,"📢 New Market Launch 🚀
+
+🌐 GRT/USDC (@graphprotocol) trading pair is now live
+
+👉 Start trading at https://t.co/CHVEAHLBKv
+
+Remember ⛽: 
+😌 No gas to deposit
+😌 No gas to trade
+😌 No gas to withdraw https://t.co/HslcyDnwgA",38,0,5,2021-05-25
+626,2021-05-26 09:59:45+00:00,1397492644419231750,perpprotocol,"Ready to learn some new ways to save money?
+See you in 5 hours (5/26 23:00 UTC+8)!
+
+🚪 Link to the workshop:https://t.co/yz0PdMzAKC https://t.co/l3klR8Smen",8,0,1,2021-05-26
+628,2021-05-27 19:08:23+00:00,1397993101105385472,perpprotocol,@perpprotocol @donrubeone We have a meme contest that's perfectly for you. https://t.co/j3va6a4lEm,3,0,0,2021-05-27
+631,2021-05-28 05:07:48+00:00,1398143949525635072,perpprotocol,"📣 Our community call will begin in 4 hours.
+
+📺 Live stream on YouTube https://t.co/XhSdlFVcyU
+
+😊 Come meet and chat with the team. https://t.co/vOBR6cXUTL",14,0,3,2021-05-28
+635,2021-05-31 17:38:26+00:00,1399420014244020225,perpprotocol,"📢 Weekly Staking Reward Update
+
+It's pay day! 🤩
+
+🥨 150,000 $PERP has been distributed
+
+💪 to all $PERP stakers.
+
+Claim or stake at 👉 https://t.co/iSfleOMN2r",43,2,1,2021-05-31
+636,2021-06-01 03:36:42+00:00,1399570576176386048,perpprotocol,"📣 Referral Rewards Issued 📣
+
+38 traders received their rewards
+
+973.8 PERP sent 👉 https://t.co/F5VZ1HOWIi
+
+Tx fees paid: 0.000685683 DAI
+
+More info about referrals 👉 https://t.co/49A4ve9i0W",10,0,0,2021-06-01
+645,2021-06-02 16:32:37+00:00,1400128228552019968,perpprotocol,"Don't forget we just launched the trading competition. 
+
+https://t.co/nSMQyYGs4Q",3,0,0,2021-06-02
+654,2021-06-03 18:40:26+00:00,1400522781436133381,perpprotocol,"Did you trade on https://t.co/RrtG69Lc8G last week?
+
+Yes 🙆
+🟡 You have pPERP!
+🟡 deposit to @PoolTogether_👉 https://t.co/xafty6JnNT
+🟡 you could win $500
+
+No 🙅
+🟢 Start trading now
+🟢 get pPERP next week
+🟢 you could win $500
+
+Worried about Pool Together fees? We got you! 🧵👇",9,2,1,2021-06-03
+656,2021-06-07 16:32:43+00:00,1401940192127291396,perpprotocol,"🏆 Top 10 of the current leaderboard 
+
+📊 If your PnL is &gt;$400, you could be on the current board. 
+
+⌛️ Two more days to go! 
+
+Prize in $PERP &amp; $INDEX: 
+🍯 1st: $7,500
+🍯 2nd: $5,000
+🍯 3rd: $3,000
+🍯 4-10th: $1,000 each
+🍯 11-15th: $500 each
+
+See stats at https://t.co/9vngLr2BAE https://t.co/stVU0mFe8t https://t.co/pd9fcOvDQX",6,0,0,2021-06-07
+658,2021-06-08 21:13:56+00:00,1402373350920491013,perpprotocol,"🎏 Perpetual Protocol Meme Contest Winner 🎏 
+
+🏅 Bonus Winner @rabi_roz
+https://t.co/8pSg6F8M0i",1,1,0,2021-06-08
+666,2021-06-09 14:30:29+00:00,1402634209508872208,perpprotocol,"⏰ Trading Competition Has Ended!
+
+Here are some stats:
+💻 71 traders
+📊 $51M trading volume generated
+🦉 Special thanks to @IndexCoop for making this possible.
+
+Winner results from https://t.co/9vngLr2BAE
+🥇 @ilovehanbaobao
+🥈 @ThngNgu63465235
+🥉 @0x_gamma 
+🧵 more... https://t.co/stVU0mFe8t https://t.co/AojfBa1PGO",13,1,2,2021-06-09
+668,2021-06-10 19:06:10+00:00,1403065972324507661,perpprotocol,"Did you trade on https://t.co/RrtG69Lc8G last week?
+
+Yes 🙆
+🟡 You have pPERP!
+🟡 deposit to @PoolTogether_👉 https://t.co/xafty6JnNT
+🟡 you could win $500
+
+No 🙅
+🟢 Start trading now
+🟢 get pPERP next week
+🟢 you could win $500
+
+Worried about Pool Together fees? We got you! 🧵👇 https://t.co/M4gEEid3As",12,1,3,2021-06-10
+670,2021-06-14 14:24:46+00:00,1404444707548110856,perpprotocol,"📣 Referral program notice
+
+We are having issues with Dune, so today's rewards will be delayed. We expect to issue rewards within 24 hours.
+
+Also note that issues with the previous week's rewards will also be fixed in this week's distribution.",8,1,1,2021-06-14
+672,2021-06-15 16:43:57+00:00,1404842121958408195,perpprotocol,"🎰 Last week's #PerpTogether prize has been drawn!
+
+🏆 See if you won → https://t.co/N3S0mzEpKu
+
+🚨 This is the *last week* before #PerpTogether takes a break, so get your trades in asap!
+
+🎟️ Deposit pPERP to the pool → https://t.co/xafty6JnNT
+
+🎰 You may win $500 next week! https://t.co/WMbz21kjoR",9,0,0,2021-06-15
+674,2021-06-16 19:18:45+00:00,1405243468721573888,perpprotocol,"🗞️ Our Latest Bi-weekly Update Is Out!
+
+In our last sprint:
+❄️ $PERP staker cool down period reduced to 7 days
+⌨️ Command-line Tool Nonce Customization
+🤝 $ALPHA market launched
+🤝 Trading Competition Sponsored by @IndexCoop",27,1,7,2021-06-16
+677,2021-06-17 21:57:28+00:00,1405645798063411208,perpprotocol,"We've rescheduled the live draw for the @CreamdotFinance campaign!
+
+🍯 Prize pot: $20,000 in $PERP &amp; $CREAM
+👥 20 winners will win $1,000 each!
+📺 Live draw at https://t.co/xFvsN7ryHX
+📅 June 22 (Tue) 10AM | UTC+8 https://t.co/zUgmyslFfn https://t.co/Cz4QAorvtG",13,8,4,2021-06-17
+679,2021-06-18 13:42:41+00:00,1405883668871122951,perpprotocol,"📢 New Market Launch 📢 
+
+💻 FTT/USDC (@FTX_Official) trading pair is now live with a launch campaign!
+
+🍯 Prize Pot: $10,000 in $PERP
+👥 Winners: 10 people will be picked by a lottery draw
+
+🧵⤵️ How to participate https://t.co/792ZJNQzPi",68,6,9,2021-06-18
+680,2021-06-21 04:11:11+00:00,1406827011310592004,perpprotocol,"📢 The last #PerpTogether lottery will be drawn in 24hr. 
+
+🎰 Don't forget to deposit your pPERP token at https://t.co/xafty6JnNT
+
+Worried about Pool Together fees? We got you! 🧵👇 https://t.co/1lMIVss4zu",6,1,0,2021-06-21
+683,2021-06-22 04:19:46+00:00,1407191557267132416,perpprotocol,"🎰 The last #PerpTogether prize has been drawn!
+
+🏆 See if you won → https://t.co/N3S0mzEpKu
+
+🎈 Thank you all for participating in the campaign. https://t.co/ZDX1qIIT2Y",6,1,1,2021-06-22
+685,2021-06-23 04:05:05+00:00,1407550252324884485,perpprotocol,"Have you traded in $FTT market on https://t.co/RrtG69Lc8G? 
+
+🎰 You could win $1,000 in PERP! 
+
+⌛️ Campaign ends on June 24th. 
+
+🎟️ Last 2 days to trade to earn lottery tickets! https://t.co/k3JRNrE4zh",11,0,0,2021-06-23
+687,2021-06-25 08:10:43+00:00,1408336842714337283,perpprotocol,@NazimMohammed19 Make sure to join the live draw next week! 🙂,1,0,0,2021-06-25
+691,2021-06-27 13:07:16+00:00,1409136248090882052,perpprotocol,⚡ https://t.co/TtswvQhByA,45,2,6,2021-06-27
+692,2021-06-28 13:00:38+00:00,1409496964912189453,perpprotocol,🌈 https://t.co/tyasbEzvDw,98,2,8,2021-06-28
+694,2021-06-29 12:59:41+00:00,1409859113987629067,perpprotocol,✖ https://t.co/1HYFJRGGUV,33,5,4,2021-06-29
+696,2021-06-30 16:39:39+00:00,1410276857338019844,perpprotocol,"5/ 
+🗣️📢  And last but not least, 
+
+big shout out to @ZeMariaMacedo and @JonathanErlichL who have spent several months with us discussing tokenomics, IF issues, and permissionless market creation. 
+
+It's really an honor to work with the top brains at @Delphi_Digital! 🙇",19,1,1,2021-06-30
+708,2021-07-02 04:50:23+00:00,1410823142054973446,perpprotocol,"We're sponsoring another hackathon!
+
+Layer2 Hackathon hosted by @IOSGVC &amp; @Chainlink 
+
+Want to build something awesome on L2?
+
+Do it and win prizes! https://t.co/nNGcmAnvAY",20,2,3,2021-07-02
+711,2021-07-05 18:14:12+00:00,1412112592080760833,perpprotocol,"📢 Weekly Staking Reward Update
+
+🤩 Happy Monday everyone! It's pay day! 
+
+🥨 150,000 $PERP has been distributed to all $PERP stakers.
+
+This week: 
+🔓 23.6% are claimable now,
+🔒 76.3% of rewards are vesting.
+
+Claim or stake at 👉 https://t.co/iSfleP4nTZ",28,0,5,2021-07-05
+714,2021-07-07 14:00:01+00:00,1412773399923806209,perpprotocol,"Are you new to DeFi? There are a few things that you must set up before using a dapp. 
+
+Follow this article and you’re good to go!
+https://t.co/2XlqQAXMM2",26,0,5,2021-07-07
+715,2021-07-08 16:16:12+00:00,1413170062194839559,perpprotocol,"📢 Just in: $PERP will be listed on @Krakenfx 
+
+✨ Deposit is opened
+✨ Trading will begin on July 13. https://t.co/MRplloShkJ",50,0,6,2021-07-08
+717,2021-07-09 14:00:02+00:00,1413498181313302531,perpprotocol,"If you somehow follow us but have never heard of perpetual contracts, this article is for you 👇
+https://t.co/sx6tA0RNCa",31,1,3,2021-07-09
+720,2021-07-10 14:00:01+00:00,1413860565433294850,perpprotocol,"Our one and only @weitingchentw is tired of hearing noobs asking “why are people into Defi?” so he wrote this piece. 
+
+If you feel the same pain, please share this article!
+https://t.co/fEUgPlpDUS",58,0,19,2021-07-10
+721,2021-07-11 14:00:01+00:00,1414222951012995072,perpprotocol,"Perpetual contracts are powerful financial tools.
+
+Speculation is just one of the many things they can do.
+
+Another key purpose is escaping lock-up periods!
+
+Check this article to learn more 👇
+https://t.co/FeTPnsThwF",28,0,1,2021-07-11
+722,2021-07-12 14:00:02+00:00,1414585343739899908,perpprotocol,"Check our latest article to understand different types of leveraged products in DeFi 👇
+https://t.co/2U1aoM2vux",23,2,9,2021-07-12
+724,2021-07-13 17:30:04+00:00,1415000588471967744,perpprotocol,"🗞 Our Latest Bi-weekly Update Is Out!
+
+In our last sprint:
+👩‍🔬 V2 the Curie Release announcement
+💎 Diamond Hand NFT by @ProjectGalaxyHQ
+🧡 $PERP whitelisted on @Bancor 
+💜 $PERP listed on @krakenfx",20,2,2,2021-07-13
+728,2021-07-14 13:00:01+00:00,1415295016268812292,perpprotocol,"Did you know
+
+Perpetual contracts can hedge yield farming risk?
+
+Powerful financial tools at work! 👇
+https://t.co/eQVm2HyKW0",20,0,4,2021-07-14
+730,2021-07-15 13:14:05+00:00,1415660945976745993,perpprotocol,"""Perpetual Protocol is currently the largest decentralized perps exchange by trading volume, attaining 83% market share since the beginning of June."" 
+
+Dive in this report by @Delphi_Digital here ⤵️
+https://t.co/Ewa7xvaO4Y",134,4,17,2021-07-15
+731,2021-07-17 13:00:01+00:00,1416382178037051400,perpprotocol,"Start your weekend off with @BanklessHQ's latest episode. ✨
+
+Join @tempofeng &amp; @tongnk's converstaion with  @TrustlessState 
+🧑‍🏫 learn about perpetual swaps
+👩‍🔬 concentrated liquidity for derivatives
+🧑‍💻 scaling Ethereum on Layer 2 solutions
+🧑‍🚀 and more!
+
+https://t.co/e0BhrogFRS",42,2,9,2021-07-17
+732,2021-07-19 13:02:17+00:00,1417107524306735108,perpprotocol,"📢 Weekly Staking Reward Update
+
+🤩 Happy Monday everyone! It's pay day! 
+
+🥨 150,000 $PERP has been distributed to all $PERP stakers.
+
+This week: 
+🔓 20.1% are claimable now,
+🔒 79.9% of rewards are vesting.
+
+Claim or stake at 👉 https://t.co/iSfleOMN2r",14,1,2,2021-07-19
+734,2021-07-22 08:51:16+00:00,1418131520187817992,perpprotocol,"@safetyth1rd Short $FTT on https://t.co/RrtG69tAK6 right now
+
+And get almost 100% APR https://t.co/i4U3gGtIdo",4,0,0,2021-07-22
+740,2021-07-23 15:00:02+00:00,1418586710334533640,perpprotocol,"Listen to Arcane Bear's interview
+
+With our co-founder and our bizdev lead!
+
+They talk perpetual swaps, v1 vs v2, scaling and more! https://t.co/X7VEHw7K6B",17,0,3,2021-07-23
+744,2021-07-24 09:19:38+00:00,1418863433261346817,perpprotocol,"Feeling bored on the weekends?
+Try out our Big Brain Challenge to win 7 $PERP!
+
+P.S. You can restart the quiz if you didn't get a score over 70% with the link below:
+https://t.co/PHy4dipkGK https://t.co/rOevsjEaGI",14,0,0,2021-07-24
+745,2021-07-26 13:00:01+00:00,1419643672744841227,perpprotocol,"Weekly Staking Reward Update
+
+🤩 Happy Monday everyone! It's pay day! 
+
+🥨 150,000 $PERP has been distributed to all $PERP stakers.
+
+This week: 
+🔓 19.6% are claimable now,
+🔒 80.4% of rewards are vesting.
+
+Claim or stake at 👉 https://t.co/iSfleOMN2r",11,0,1,2021-07-26
+747,2021-07-27 03:24:54+00:00,1419861323916054540,perpprotocol,"@DdanJohne
+@TracyLeeYo1
+@rong_yen
+@firestone421
+@SunChiu2
+@RobertSGraham9
+@dong_ts",3,0,1,2021-07-27
+756,2021-07-28 13:45:12+00:00,1420379819133468672,perpprotocol,"Just days after Perpetual Protocol reached 90% of DeFi’s perpetual swaps market share, the project announced its latest iteration “Curie”. - @MessariCrypto 
+
+Thread of the day
+🧵⤵️ https://t.co/g1SMFrPZUT",28,1,9,2021-07-28
+758,2021-07-29 11:32:07+00:00,1420708713120231432,perpprotocol,"🦄  We'll be chatting with @Uniswap &amp; @UniswapGrants in 30min.
+
+Tune in at @CharmFinance 's discord here ⤵️
+
+https://t.co/a9CtmIZDHT https://t.co/tETLaqU4GA",18,0,3,2021-07-29
+761,2021-08-02 04:52:29+00:00,1422057694463029251,perpprotocol,@defiprime Perpetual Protocol covers all users using @ArmorFi &amp; @UnslashedF 🙌,41,1,6,2021-08-02
+763,2021-08-03 10:49:51+00:00,1422510015798124554,perpprotocol,@inversebrah @Fan_Hsing Thanks for the shillz brah 🤩,11,2,1,2021-08-03
+764,2021-08-07 11:52:40+00:00,1423975374539558921,perpprotocol,"📺 We'll be joining the panel in 30 minutes discussing:
+
+DeFi Distributed: Building Up and Down the DeFi Stack.
+
+Tune in here 👉 https://t.co/vnDkOOL828 https://t.co/Lm6OEhQfGI",23,0,5,2021-08-07
+765,2021-08-09 13:50:00+00:00,1424729678674374656,perpprotocol,"📢 Weekly Staking Reward Update
+
+🤩 Happy Monday everyone! It's pay day! 
+
+🥨 150,000 $PERP has been distributed to all $PERP stakers.
+
+This week: 
+🔓 13.5% are claimable now,
+🔒 86.5% of rewards are vesting.
+
+Claim or stake at 👉 https://t.co/iSfleOMN2r",23,0,6,2021-08-09
+772,2021-08-10 06:42:18+00:00,1424984431886946314,perpprotocol,@MCHammer TOO LEGIT,7,0,0,2021-08-10
+773,2021-08-11 13:49:11+00:00,1425454248993517569,perpprotocol,"🗞 Our Bi-weekly Update Is Out!
+
+Highlights in the last development sprint:
+📺 Lots of podcasts, panels and AMAs
+🏗️ Referral program dashboard
+👔 Perpetual DAO grants
+✍️ Volume program
+😮 and more! https://t.co/yuaO75PDQC",23,2,4,2021-08-11
+775,2021-08-12 06:13:22+00:00,1425701927187193859,perpprotocol,@Brkkln1 How long to go ... until v2? We're working hard on it. It will launch later this year.,0,0,0,2021-08-12
+777,2021-08-13 12:55:49+00:00,1426165596350152705,perpprotocol,"Since our Big Brain Challenge #PerpBBC is over, it’s time to review some answers! #PerpBigBrainChallengeReview
+
+98% of the participants got this question right while 1% of you… drank too much at the Cantina that day? https://t.co/rOevsjEaGI https://t.co/hZtU0FaEkz",21,2,5,2021-08-13
+781,2021-08-16 14:49:44+00:00,1427281426882260994,perpprotocol,"If it shows ""This Tweet is unavailable."" for the first project, here is the screenshot:
+
+cc @apex_win https://t.co/zUgHmWgSH6",6,0,2,2021-08-16
+789,2021-08-17 13:29:38+00:00,1427623659154427905,perpprotocol,"#PerpBigBrainChallengeReview Part 2
+A whopping 99% of people got this right! 
+
+However, recently major CEXs have reduced max leverage to 20x. And on our protocol, leverage can be adjusted higher through governance. 
+Maybe the answer will be “None of the Above” in the future.😀 https://t.co/A1ZFqwpHbC",24,2,5,2021-08-17
+791,2021-08-18 13:08:23+00:00,1427980697067610118,perpprotocol,"📢 Interested in joining our team? We’re hiring!
+
+Job openings for:
+✨ Content and Community Manager
+✨ Data Analyst
+✨ Financial Engineer
+✨ Frontend Engineer
+✨ Marketing Director
+✨ UI/UX Designer
+✨ Visual Designer
+
+Visit the link below for more info⬇️
+https://t.co/eCgSvRq8xD",47,5,12,2021-08-18
+792,2021-08-20 13:01:35+00:00,1428703763578048513,perpprotocol,"Start your weekend off with Kraken's latest interview. ✨
+
+Join our conversation with: 
+🗣️ @tempofeng
+🗣️ @tongnk
+🗣️ @KevinhBeardsley 
+
+📺⤵️ https://t.co/Da0xpLuRsF https://t.co/2VX2wEDdVJ",28,0,8,2021-08-20
+793,2021-08-23 13:00:01+00:00,1429790531509497858,perpprotocol,"📢 Weekly Staking Reward Update
+
+🤩 Happy Monday everyone! It's pay day! 
+
+🥨 150,000 $PERP has been distributed to all $PERP stakers.
+
+This week: 
+🔓 17.4% are claimable now,
+🔒 82.6% of rewards are vesting.
+
+Claim or stake at 👉 https://t.co/iSfleOMN2r",23,0,6,2021-08-23
+795,2021-08-26 16:21:27+00:00,1430928388328353795,perpprotocol,"✍️ @Delphi_Digital has finished their design proposal for Perpetual Protocol v2 markets!
+
+In part 1, @JonathanErlichL covers public markets:
+🔸 What are public markets???
+🔸 Design overview and details
+🔸 Governance for public markets
+
+📎 Read here ➤ https://t.co/hkd65XKcEd https://t.co/z1UEII1IJw",66,7,11,2021-08-26
+797,2021-08-30 13:00:02+00:00,1432327249060110347,perpprotocol,"📢 Weekly Staking Reward Update
+
+🤩 Happy Monday everyone! It's pay day! 
+
+🥨 150,000 $PERP has been distributed to all $PERP stakers.
+
+This week: 
+🔓 12.1% are claimable now,
+🔒 87.9% of rewards are vesting.
+
+Claim or stake at 👉 https://t.co/iSfleOMN2r",39,3,6,2021-08-30
+798,2021-09-01 13:06:03+00:00,1433053542135132165,perpprotocol,"📢 Five Partners Onboarded &amp; $1.5M Token Swap Completed.
+
+Welcoming Teahouse and StakeDAO to our ecosystem fund and completed token swap along with existing partners:
+🤝 @dHedgeOrg: $1M
+🤝 @CharmFinance: $200k
+🤝 @StakeDAOHQ: $200k
+🤝 @TeahouseHost: $100k 
+🤝 @LemmaFinance: $50k https://t.co/785W1LyAa2 https://t.co/k2rcxhiCJc",88,4,31,2021-09-01
+802,2021-09-02 15:29:17+00:00,1433451974939217927,perpprotocol,"Delphi Digital's highly anticipated part 2 of the permissionless market creation proposal is here! 
+
+In part 2, @JonathanErlichL covers:
+🔹The high-level architecture
+🔹Components in the architecture
+🔹Whitelist and market creation mechanism
+
+Read more... https://t.co/9emr8w1ljA https://t.co/tCERpnGRH5",32,2,6,2021-09-02
+804,2021-09-04 04:47:19+00:00,1434015192375971842,perpprotocol,"@joshandrus @CanteringClark Josh it should open Metamask and ask you to sign to prove you own the address. Welcome to DM or come to our Discord for help! 🙏
+
+https://t.co/jTWixgkJzu",0,0,0,2021-09-04
+805,2021-09-06 08:21:08+00:00,1434793778556985345,perpprotocol,"@Crypto_McKenna Just to clarify: 
+
+5th-12th rebate rewards in $PERP will be paid out using both the old and new system. 
+
+So if you were already signed up and you migrate to the new system, for Sept 5th-12th you'll receive rewards from both systems.",4,0,1,2021-09-06
+807,2021-09-08 14:52:29+00:00,1435617039347949571,perpprotocol,"📢 We're excited to start working with @banklessDAO!
+
+This is the latest partnership in our grants program. 
+
+We'll be working together to
+🔹 let more people know about us
+🔹 educate newcomers about perpetual contracts https://t.co/xQEYmKLuUD",38,1,9,2021-09-08
+809,2021-09-09 13:32:59+00:00,1435959423088807957,perpprotocol,We can't wait to see what you build! 🥳🥳🥳,7,0,2,2021-09-09
+814,2021-09-11 12:58:08+00:00,1436675427230126080,perpprotocol,"📣 Grants Program Update!
+We've added several new partners recently
+
+It's time for a thread to showcase
+ - The project
+ - Current progress
+ - What they're working on 
+
+Or head to the blog post for the full story 👇
+https://t.co/45ykNyPXc0 https://t.co/l49w55A24u",33,5,13,2021-09-11
+823,2021-09-13 13:16:14+00:00,1437404756620742663,perpprotocol,"📢 Weekly Staking Reward Update
+
+🤩 Happy Monday everyone! It's pay day! 
+
+🥨 150,000 $PERP has been distributed to all $PERP stakers.
+
+This week: 
+🔓 22.2% are claimable now,
+🔒 77.8% of rewards are vesting.
+
+Claim or stake at 👉 https://t.co/iSfleOMN2r",15,1,6,2021-09-13
+824,2021-09-15 12:42:59+00:00,1438121167043248134,perpprotocol,"Check our latest Grants Program update to see what other grantees are doing: 
+https://t.co/jZ1cNF14av",5,0,3,2021-09-15
+827,2021-09-16 08:09:48+00:00,1438414804444606464,perpprotocol,"We're hosting our 7th community call!
+
+⌚ Time: 9/17 (Fri.) 13:00 UTC 
+🗝 We'll cover:
+1. Recent partnership/grants, 
+2. v2 update 
+
+We'll wrap up with a Q&amp;A.
+
+The call link will be released soon. 
+Or join our discord now so you won't miss out: https://t.co/jTWixgkJzu",12,1,2,2021-09-16
+832,2021-09-17 02:05:13+00:00,1438685441616662531,perpprotocol,"📢 Perpetual Protocol team is going to @MessariCrypto's #Mainnet2021 in NYC! 
+
+Come meet the team:
+😄 @tempofeng 
+😄 @Fan_Hsing 
+😄 @robertperpfi https://t.co/27DxNWkxbO",52,2,9,2021-09-17
+835,2021-09-18 14:00:28+00:00,1439227827912683522,perpprotocol,"""𝙒𝙞𝙡𝙡 𝙙𝙚𝙧𝙞𝙫𝙖𝙩𝙞𝙫𝙚 𝘿𝙀𝙓s 𝙗𝙚𝙖𝙩 𝘾𝙀𝙓s?""
+
+@tempofeng on @coingecko podcast: https://t.co/kSRYdpGzig",31,2,7,2021-09-18
+836,2021-09-20 11:30:31+00:00,1439914868467896326,perpprotocol,"📢 Weekly Staking Reward Update
+
+🤩 Happy Monday everyone! It's pay day! 
+
+🥨 150,000 $PERP has been distributed to all $PERP stakers.
+
+This week: 
+🔓 17.2% are claimable now,
+🔒 82.8% of rewards are vesting.
+
+Claim or stake at 👇 https://t.co/eDy3GH8TCb",14,0,6,2021-09-20
+839,2021-09-22 14:00:06+00:00,1440677286655660041,perpprotocol,"Missed our community call last Friday? 
+You can now watch the replay on our YouTube here 👇
+https://t.co/BQX8k1RXJt
+
+We covered:
+- recent partnership &amp; grants news
+- sneak peek of the new UI for v2
+- v2 development progress",17,1,4,2021-09-22
+840,2021-09-23 13:52:50+00:00,1441037845532131329,perpprotocol,"🍨🤝🥨
+@Uniswap v3 liquidity optimizer @PopsicleFinance has joined our liquidity program to make liquidity provision on our protocol easy!
+
+Additionally, users who provide liquidity through them will earn both tx fees and $PERP rewards at the same time. https://t.co/SBPtVY2XNR",113,2,18,2021-09-23
+843,2021-09-24 08:01:29+00:00,1441311816538152965,perpprotocol,"Only 6 hours to go for the AMA with the @PopsicleFinance team on our Discord!
+
+⌚ 9/24 (Fri.) 22:00 (UTC+8) or 14:00 (GMT) 
+
+Join our Discord here 👇
+https://t.co/jTWixgkJzu https://t.co/b9qzpfH13J",11,1,6,2021-09-24
+846,2021-09-25 14:00:24+00:00,1441764526563549191,perpprotocol,🤝 @tongnk on why partnership and integration: https://t.co/kY8PYBBFW8,27,2,6,2021-09-25
+848,2021-09-27 07:59:16+00:00,1442398418425450499,perpprotocol,"📢 Weekly Staking Reward Update
+
+🤩 Happy Monday everyone! It's pay day!
+
+🥨 150,000 $PERP has been distributed to all $PERP stakers.；
+
+This week:
+🔓 24% are claimable now,
+🔒 76% of rewards are vesting.
+
+Claim or stake at 👉 https://t.co/eDy3GH8TCb",24,1,5,2021-09-27
+849,2021-09-28 13:00:12+00:00,1442836540212711425,perpprotocol,You can also join the Atlantis World Discord if you’d like to learn more about what they’re building: https://t.co/UuBP9Bk3K8,6,0,2,2021-09-28
+854,2021-09-29 05:27:05+00:00,1443084898315608068,perpprotocol,"🐠🐡🦈🤿🐟
+
+⏲ 7 AM UTC (𝚜𝚝𝚊𝚛𝚝𝚜 𝚒𝚗 𝚕𝚎𝚜𝚜 𝚝𝚑𝚊𝚗 𝟸 𝚑𝚘𝚞𝚛𝚜!)
+🔗 https://t.co/kfQpD6xaSx
+
+Sea you soon! 
+
+🐠🐡🦈🤿🐟 https://t.co/ZmK2N3k3VL",20,0,6,2021-09-29
+855,2021-09-30 14:00:25+00:00,1443576472199843842,perpprotocol,"🧠 @tempofeng talks on-chain options on the @ic_invictus podcast.
+
+𝗙𝘂𝗻 𝗳𝗮𝗰𝘁:
+𝘛𝘩𝘦 𝘧𝘪𝘳𝘴𝘵 𝘱𝘳𝘰𝘵𝘰𝘤𝘰𝘭 𝘠𝘦𝘯𝘸𝘦𝘯 𝘸𝘰𝘳𝘬𝘦𝘥 𝘰𝘯 𝘸𝘢𝘴 𝘢𝘯 𝘰𝘱𝘵𝘪𝘰𝘯𝘴 𝘱𝘳𝘰𝘵𝘰𝘤𝘰𝘭, 𝘸𝘩𝘪𝘤𝘩 𝘸𝘢𝘴 𝘢𝘩𝘦𝘢𝘥 𝘰𝘧 𝘪𝘵𝘴 𝘵𝘪𝘮𝘦. https://t.co/GkwrssUtKm",31,3,9,2021-09-30
+856,2021-10-01 20:29:51+00:00,1444036860452474883,perpprotocol,"Any Perp fans in London 🇬🇧 ? 
+
+We're throwing a meet up next Friday! 
+
+Join @Sobradob for drinks and a chat on the present and future of DeFi and Derivatives. 
+
+Details:
+📅 6 - 8pm on Oct 8
+📍 central London (exact location TBD)
+
+https://t.co/wTfsZ5evxm https://t.co/zypwGzWpml",26,0,3,2021-10-01
+857,2021-10-02 13:00:15+00:00,1444286103289319434,perpprotocol,"""Which assets will Perp v2 support for multi-collateral?""
+
+@tempofeng: 
+
+Any other assets you'd like to see supported as collateral? Reply below👇 https://t.co/0tUNAAMd2V",34,4,4,2021-10-02
+858,2021-10-04 06:20:13+00:00,1444910209835536385,perpprotocol,"📢 Weekly Staking Reward Update
+
+🤩 Happy Monday everyone! It's pay day!
+🥨 150,000 $PERP has been distributed to all $PERP stakers.
+
+This week:
+🔓 14% are claimable now,
+🔒 86% of rewards are vesting.
+
+Claim or stake at 👉 https://t.co/eDy3GH8TCb",23,0,4,2021-10-04
+861,2021-10-05 02:13:33+00:00,1445210518730461185,perpprotocol,"📰 Today on @DeribitInsights:
+
+🦍 @apex_win provides an in-depth look at perpetual futures contracts, touching on some of the challenges in creating a perpetuals DEX in crypto. https://t.co/PWEEsH92ff",23,0,4,2021-10-05
+863,2021-10-06 15:18:13+00:00,1445770375585878019,perpprotocol,"🤝 Perpetual Protocol is excited to announce our partnership with @WOOnetwork!
+
+$PERP is now available to trade on WOO's zero-fee trading platform WOO X, greatly enhancing $PERP liquidity and making it more accessible to their institutional and retail users.
+
+Slurp the Perp 😋 https://t.co/0nxsJDUcz9",139,2,17,2021-10-06
+865,2021-10-07 18:58:06+00:00,1446188099323695107,perpprotocol,"New campaign with @WOOOnetwork!💜
+
+🏆 10 winners will be picked to win $1,000 each.
+📅 Campaign runs from Oct 8 - 18 | 16:00 UTC
+😌 All you need to do is trade PERP/USDT pair
+🏃 Head to https://t.co/G8LsRJuDr0 to start trading https://t.co/E1PSji6nHl",16,2,4,2021-10-07
+868,2021-10-08 19:37:04+00:00,1446560295372132382,perpprotocol,"Nothing but good vibes and good people to be found at our meetup in London tonight! 🇬🇧
+
+Big thanks to everyone who stopped by. 💜 https://t.co/RZnOpTaSeO https://t.co/m90Ktc7xZs",30,2,5,2021-10-08
+871,2021-10-11 14:00:19+00:00,1447562712331046919,perpprotocol,"🥨 💗🦄 
+@tempofeng on the benefits of building on top of @Uniswap v3 for Perp v2:
+
+Listen to the whole interview with Invictus Capital here:
+https://t.co/T6t8CWem3a https://t.co/SR2KPwzN60",21,0,7,2021-10-11
+873,2021-10-12 13:10:36+00:00,1447912587799236614,perpprotocol,"As we're working hard on Perp v2, we prepared a series of NFTs created by @X_x_Y_x_X to thank our community for your support! 
+
+✨ 100 NFTs to be grabbed in this series✨
+
+📕 How to get them: https://t.co/xgIxyznHUR
+
+👇 We'll pick 9 people who retweet this tweet to get 1 NFT each https://t.co/mCkowj4WYb",143,24,181,2021-10-12
+875,2021-10-13 13:52:47+00:00,1448285590542327808,perpprotocol,"📢 5 days left to win a $10,000 prize pool! 
+
+Start trading $PERP on WOO X 
+
+🏃‍♂️🏃‍♂️ 🏃‍♂️💦 https://t.co/ONR4uKznES",30,1,6,2021-10-13
+877,2021-10-14 15:21:00+00:00,1448670181371252737,perpprotocol,"Curious about what features Perp v2 will have and what improvements it makes over v1? 
+
+Our friends at @defislate have published an article from us unpacking Curie. 
+
+One thing is for sure: the future is looking bright, permissionless, and decentralized. 💪 https://t.co/Y8eRleUxf0",32,1,8,2021-10-14
+880,2021-10-15 13:00:09+00:00,1448997121642881026,perpprotocol,"📢 We are excited to announce a strategic investment into @impossiblefi! 
+
+✨ Impossible Finance is a multichain incubator, launchpad, and swap platform which offers a user-driven, maker-first approach to fundraising. https://t.co/4uQs99p6OS",54,3,10,2021-10-15
+883,2021-10-18 16:09:21+00:00,1450131900148944906,perpprotocol,"📢 Weekly Staking Reward Update
+
+🤩 Happy Monday everyone! It's pay day! 
+
+🥨 150,000 $PERP has been distributed to all $PERP stakers.
+
+This week: 
+🔓 10.4% are claimable now,
+🔒 89.6% of rewards are vesting.
+
+Claim or stake at 👉 https://t.co/iSfleOMN2r",18,0,5,2021-10-18
+884,2021-10-19 01:47:04+00:00,1450277287153258500,perpprotocol,"💜 $PERP is listed on Coinbase Pro!
+
+Trading will begin from 9AM Pacific Time (PT) Oct 19 Tue. https://t.co/knkKzCwcxu",109,4,24,2021-10-19
+889,2021-10-20 02:00:53+00:00,1450643151014793218,perpprotocol,"🧑‍🎓 @BlockchainatCU is hosting LedgerFest: a virtual crypto conference.
+
+🌟 Featuring an all-star lineup of crypto and DeFi giga brains.
+
+🧠 Our Co-Founder @tempofeng will be speaking at 11AM ET on Oct 23. 
+
+Register today to tune in! ➡️ https://t.co/EPuTu1dkVh https://t.co/HsuME5hUlI",26,2,6,2021-10-20
+890,2021-10-21 01:02:38+00:00,1450990877925691393,perpprotocol,"📢 Attention, lucky NFT winners
+
+Our Genesis NFT Drop will be available to claim on
+
+👉  Oct 21, 7am GMT-7, at @ProjectGalaxyHQ 👈
+
+🏃 Please visit https://t.co/vH8Eiv96Qg 
+
+💡 Reminder: 
+Only 10 NFTs can be minted for each design, so claim yours as soon as possible! https://t.co/87BT44OiIG",16,1,5,2021-10-21
+891,2021-10-25 14:00:18+00:00,1452636135482658825,perpprotocol,"For the curious mind, here are the team banners for @banklessDAO, @BalancerLabs, @dHedgeOrg, @FTX_Official ... https://t.co/3Em5ZFthHc",29,2,5,2021-10-25
+901,2021-10-26 14:15:09+00:00,1453002260821250056,perpprotocol,"@weitingchentw 𝗛𝗲𝗹𝗽𝗳𝘂𝗹 𝗟𝗶𝗻𝗸𝘀:
+🔢 Leaderboard: https://t.co/9vngLr2BAE
+🚿 Testnet faucet: https://t.co/XydyvcGlsj
+📑 Full trader list: https://t.co/cU13tHUMHy
+🧾 Rules: https://t.co/u3qsFoEOmi",8,0,1,2021-10-26
+905,2021-10-27 03:17:44+00:00,1453199204868706314,perpprotocol,How It Started:              How It Is Now: https://t.co/vSn7BkYX90,96,5,12,2021-10-27
+907,2021-10-28 12:55:58+00:00,1453707109237882888,perpprotocol,"#ThePerpfectGame is in full swing.
+
+Team @FTX_Official is currently leading the pack while @StakeDAOHQ and @PopsicleFinance are neck and neck for 3rd!
+
+With 4 more days to go, it's still anyone's game. 
+
+🔍 Check which team you're on with the link below: 
+https://t.co/9vngLrkcsc https://t.co/SoztqS5Ibb https://t.co/M9YbccRgp4",24,2,5,2021-10-28
+908,2021-10-29 09:05:41+00:00,1454011544992247815,perpprotocol,"4 days to go before the end of #ThePerpfectGame, and we're only 228 participants away from unlocking the next level of the prize pool!
+
+P.S. We're now using Total PnL, which includes realized and unrealized PnL, funding payment, and maker fees, to rank each team and its members. https://t.co/iUQSj1RfNw",44,4,9,2021-10-29
+911,2021-10-30 02:12:10+00:00,1454269870971916289,perpprotocol,"📣 We have some drastic changes to #ThePerpfectGame's leaderboard! 📣
+
+🍣 Team @sushiSwap is now leading the pack!
+🏦 Team @banklessdao is in 3rd place but just barely ahead of @OlympusDAO. 🤯
+
+There's still time to join. Check if you can here 👉 https://t.co/9vngLrkcsc https://t.co/9D9rEae9mC",28,3,5,2021-10-30
+913,2021-11-01 12:03:06+00:00,1455143356619796486,perpprotocol,"📢 Weekly Staking Reward Update
+
+🤩 Happy Monday everyone! It's pay day! 
+
+🥨 150,000 $PERP has been distributed to all $PERP stakers.
+
+This week: 
+🔓 13.2% are claimable now,
+🔒 86.8% of rewards are vesting.
+
+Claim or stake at 👉 https://t.co/iSfleOMN2r",17,1,2,2021-11-01
+915,2021-11-02 14:31:21+00:00,1455543053985452049,perpprotocol,"@josephdelong @banklessDAO @SushiSwap @OlympusDAO @VisorFinance @PopsicleFinance @StakeDAOHQ @dHedgeOrg @BalancerLabs @SBF_FTX Sorry sir 😭😭😭😭
+https://t.co/YS6zwxrroz",9,1,1,2021-11-02
+924,2021-11-03 01:00:13+00:00,1455701314537758722,perpprotocol,"Derivative DEXs are trending big time. 🤯🚀
+
+We discuss 𝐰𝐡𝐲 in this article published by our friends over at @defislate. 🤝
+
+Also discussed: what new features you can expect with the imminent release of our v2, dubbed 'Curie'. 🧪👩‍🔬💜
+
+https://t.co/Y8eRlfc8DA",27,1,6,2021-11-03
+928,2021-11-04 15:00:17+00:00,1456275112374648833,perpprotocol,"𝗪𝗵𝗮𝘁'𝘀 𝗻𝗲𝘅𝘁:
+
+✅Improve the UI based on user feedback
+✅Fix bugs reported by our community and auditors
+✅Launch new user on-boarding initiatives
+✅Implement new features
+
+The testnet is now open for anyone to try. You can give it a go here: https://t.co/KOQbgM9lGu",10,0,3,2021-11-04
+935,2021-11-05 02:12:50+00:00,1456444363110850566,perpprotocol,"Learn to Earn 🙇‍♂️📚💰
+
+Perpetual Protocol is now available on the @CoinMarketCap Earn program!
+
+Get rewarded for learning about Perp. How it works:
+
+📽️ Watch videos about the protocol
+📝 Take a quiz on what you learned
+💜 Receive $PERP tokens for your trouble
+
+Ready to start? ⤵️ https://t.co/QKlLZSsoaO",73,8,25,2021-11-05
+938,2021-11-08 14:08:34+00:00,1457711646730764293,perpprotocol,"📢 Weekly Staking Reward Update
+
+🤩 Happy Monday everyone! It's pay day! 
+
+🥨 150,000 $PERP has been distributed to all $PERP stakers.
+
+This week: 
+🔓 8.8% are claimable now,
+🔒 91.2% of rewards are vesting.
+
+Claim or stake at 👉 https://t.co/iSfleOMN2r",31,2,7,2021-11-08
+939,2021-11-09 02:15:53+00:00,1457894682948743173,perpprotocol,"We're super excited to share this overview of perp future DEXs and Perpetual Protocol by the one and only @blocmatesdotcom 🦍
+
+We're big fans of their in-depth and well-written DeFi guides.
+
+🧠  Great read to learn about perpetual futures DEXS and our upcoming v2! https://t.co/iWfWO1HGvQ",54,2,10,2021-11-09
+940,2021-11-10 17:10:25+00:00,1458482186500329482,perpprotocol,".@TokenInsight has released an excellent summary of Q3 in DeFi and @perpprotocol is mentioned a number of times. 
+
+Just imagine when Perp v2 launches...👀
+https://t.co/bvpsHdp5YY",13,1,1,2021-11-10
+944,2021-11-11 16:04:10+00:00,1458827903139864585,perpprotocol,"gm
+
+If you were lucky enough to snag one of our limited-edition hoodies from @TheMetaFactory, you just might have some $ROBOT waiting for you. 
+
+You can check your balance with the link below. 
+https://t.co/4ieark0Pkq https://t.co/owFNA7FEGu",17,0,3,2021-11-11
+947,2021-11-12 14:00:18+00:00,1459159120100081669,perpprotocol,"What is slippage?
+🧑‍💻📊🥲
+
+👇
+
+If you've traded before you've probably heard of the term 'slippage'.
+The concept is important to understand to ensure you buy or sell any given asset at your desired price. 
+We've got you covered with this learn article.👇
+https://t.co/65Hdo8LEXv https://t.co/EvDArRpskX",32,3,7,2021-11-12
+948,2021-11-15 13:35:30+00:00,1460240043524698114,perpprotocol,"📢 Weekly Staking Reward Update
+
+🤩 Happy Monday everyone! It's pay day! 
+
+🥨 150,000 $PERP has been distributed to all $PERP stakers.
+
+This week: 
+🔓 8.4% are claimable now,
+🔒 91.6% of rewards are vesting.
+
+Claim or stake at 👉 https://t.co/iSfleOMN2r",8,0,1,2021-11-15
+951,2021-11-17 06:52:46+00:00,1460863464885215234,perpprotocol,"Every wondered how short selling works? 
+🤔📊🧑‍💻
+
+👇
+
+Shorting allows you to capture profit from a trade even when the price declines. 
+
+Learn how shorting works, its risks, and its common use cases in this 'short' learn article. 👇
+https://t.co/57auaV3y60 https://t.co/eGrTFafJLh",15,1,3,2021-11-17
+953,2021-11-18 02:38:18+00:00,1461161816524947456,perpprotocol,"🎙️ *tap *tap *tap...Is this thing on?
+
+Sers,
+
+If you're a $PERP OG or you used our protocol in the early days, you should definitely check the following link to see if you're eligible to receive an NFT made by @X_x_Y_x_X. 👇
+https://t.co/vH8EiuRvrG https://t.co/87BT455TAe",13,1,4,2021-11-18
+954,2021-11-22 14:08:04+00:00,1462784951913533449,perpprotocol,"🪧 Help Wanted:
+
+Committed community members for new Token DAO initiative.
+
+Play a crucial role in getting new markets added to Perpetual Protocol by running for election on the new token listing sub-DAO. ⤵️ https://t.co/H09c1TtROZ",20,6,8,2021-11-22
+958,2021-11-25 14:00:21+00:00,1463870172113027076,perpprotocol,"To try Perp v2 on Optimism testnet:
+1️⃣ Go to https://t.co/t3mthVxMvy to get your testnet tokens, then
+2️⃣ Start trading at https://t.co/KOQbgMqX54",23,3,4,2021-11-25
+960,2021-11-26 01:00:11+00:00,1464036225241829382,perpprotocol,"Our latest community call is now on our YouTube channel, where we explained why Perp v2 will launch on @optimismPBC and answered questions from the community! 
+
+📺 Watch here: https://t.co/WljYJa8vWW
+📝 Read the summary here: https://t.co/UOAIwoL3Kl https://t.co/goq1Fr9VCT",16,2,2,2021-11-26
+966,2021-11-27 16:45:55+00:00,1464636616698433546,perpprotocol,"We'll be chatting with @StakingRewards on their Staking Mondays!
+
+Tune in on
+📆 Monday, Nov 29th
+⌛ 8:30am EST, 1pm GMT
+📺 https://t.co/pKabJj2nP1
+
+Some big news will be dropped during this call! https://t.co/yHaJTnWFy2",16,1,1,2021-11-27
+967,2021-11-29 01:26:03+00:00,1465129898821894148,perpprotocol,@david_gg1 Ser can you request again later? There is a slight issue with the faucet and we're working on it.,1,1,0,2021-11-29
+970,2021-11-30 14:00:13+00:00,1465682081531449349,perpprotocol,"2️⃣ The second Twitter spaces will in English with @tempofeng, @RAYBEAZY, @Fiskantes, @Crypto_McKenna, and @backbooked &amp; Dan Matuszewski from @cmsholdings.
+
+Tune in at 10PM UTC+8 on Dec 1st to hear why they're excited about Perp v2. (🌎 9AM EST)  
+
+https://t.co/DpvvqWTBmA",31,1,3,2021-11-30
+977,2021-12-01 13:15:59+00:00,1466033334018924550,perpprotocol,"📢 In less than 1 hr till our Launch Party! 
+
+Join 
+💜 @Fiskantes 
+💜 @backbooked
+💜 @cmsholdings
+💜 @Crypto_McKenna
+💜 @RAYBEAZY
+💜 @tempofeng 
+for an amazing discussion on Perp V2.
+
+Listen in via the link 👇
+https://t.co/DpvvqWBZY0 https://t.co/EAppeqjnio https://t.co/fuYQquGR8N",46,9,9,2021-12-01
+981,2021-12-02 13:16:47+00:00,1466395923081138178,perpprotocol,"We are going to open the gate for everyone to apply for our Perpvangelist program. You will be working with the Perpvangelist team to strengthen our community and get rewards based on your involvement every month!
+
+Learn more: https://t.co/zNGU9YV3c0 https://t.co/oNE3xnh983",15,0,4,2021-12-02
+985,2021-12-03 21:00:25+00:00,1466874990263865345,perpprotocol,"Join us to learn more about New Order’s newest incubator that is launching DAOs focused on DeFi in the Metaverse.
+
+Details:
+📆 Dec 6th, 2021
+⏰ 3PM PST / 6PM EST
+📍 Our discord stage
+⭐️ https://t.co/7ZP48xEYuF https://t.co/18RXNvGv88",16,3,5,2021-12-03
+993,2021-12-06 07:51:41+00:00,1467763664161685504,perpprotocol,@Uniqueanduniqu2 @theMatrixWorld @BloctoApp Please check your DMs.,1,1,0,2021-12-06
+996,2021-12-07 23:24:02+00:00,1468360683959971840,perpprotocol,"🪐Twitter Spaces🪐
+
+Join us and our friends over @optimismPBC this Thursday to hear about our partnership and the latest work from Optimism.
+
+Details:
+📆Dec 8th, 2021
+⏰3PM PST / 6PM EST
+📍Twitter Spaces (No longer Discord)
+⭐️https://t.co/kcLw0dKaZE
+
+https://t.co/rZl2QP09CQ",24,2,5,2021-12-07
+997,2021-12-08 22:00:01+00:00,1468701927559114757,perpprotocol,"💥Don't miss this special Twitter Spaces happening in just one hour!💥
+
+Come listen to @RAYBEAZY and @ben_chain as they do a deep dive into @optimismPBC.
+
+Join here:
+https://t.co/AX8sV3tLOa https://t.co/rhMnNKXMoc",19,3,8,2021-12-08
+998,2021-12-10 21:34:12+00:00,1469420208108408833,perpprotocol,"ICYMI 👀
+
+Catch our latest community call with @neworderDAO on our YouTube channel!
+
+📺 Watch it here: https://t.co/Tep5UMXNdL
+
+Quick notes included ⬇️ https://t.co/xIMOP0XePb https://t.co/lfB870LYBq",3,5,2,2021-12-10
+1005,2021-12-13 23:06:25+00:00,1470530578457894916,perpprotocol,"Curious about Layer 2s or bridges? 🌉
+
+Learn more about them in our latest community call with @optimismPBC on our YouTube channel!
+
+Watch it here: https://t.co/BkSr6T0Jmu
+
+Quick notes below ⬇️ https://t.co/rhMnNKGaZC https://t.co/kOSxFh9ieR",6,6,3,2021-12-13
+1006,2021-12-15 01:00:55+00:00,1470921781758205952,perpprotocol,"📣 Happening in just one hour! 📣
+
+Tune into our Twitter Spaces with @RAYBEAZY and @marshallzzcc as they discuss the cross-chain ecosystem @IndexZoo is building.
+
+Join here:
+https://t.co/CKXYTaEOh0 https://t.co/p4B82BbQsM",4,4,3,2021-12-15
+1007,2021-12-16 13:55:23+00:00,1471479070349488128,perpprotocol,"🪄
+                       🕯
+             🕯                🕯
+     🕯                               🕯
+
+ 🕯     Liquidity Providers    🕯
+
+     🕯                                🕯 
+             🕯                 🕯
+                        🕯
+
+https://t.co/OPPSU3hHmK https://t.co/aTDG0nYtIB",20,7,7,2021-12-16
+1016,2021-12-17 22:33:11+00:00,1471971764548694016,perpprotocol,"⭐️ Don’t miss out! ⭐️
+
+Catch our latest AMA with @IndexZoo on our YouTube channel!
+
+📺 Watch it here: https://t.co/53srbdXgk2
+
+Quick notes from @0xVega ⬇️ https://t.co/p4B82BbQsM https://t.co/QBr4muFF1e",8,9,4,2021-12-17
+1020,2021-12-20 13:30:00+00:00,1472922234742321166,perpprotocol,"📢 Weekly Staking Reward Update
+
+🤩 Happy Monday everyone! It's pay day! 
+
+🥨 130,000 $PERP has been distributed to all $PERP stakers.
+
+This week: 
+🔓 21.7% are claimable now,
+🔒 78.3.% of rewards are vesting.
+
+Claim at 👉 https://t.co/iSfleOMN2r",2,8,1,2021-12-20
+1022,2021-12-21 02:07:24+00:00,1473112836708601862,perpprotocol,"ICYMI 😎
+
+Listen to our latest AMA with @SolvProtocol on our YouTube channel!
+
+📺 Watch it here: https://t.co/eQs2fMs7QM
+
+Quick notes from @JamesCliffyz ⬇️ https://t.co/ursjDkUoUr https://t.co/BbdSKHx4uy",2,8,2,2021-12-21
+1023,2021-12-22 15:57:40+00:00,1473684168848687104,perpprotocol,"The @MessariCrypto research report on Perpetual Protocol is out! 
+
+""Perpetual Protocol: Nobel Prizeworthy Derivatives?"" 🏆☺️
+
+They have done a great job:
++ breaking down all the information &amp;
++ visualizing the data on Perpetual Protocol 📊📈
+
+The best thing? It's free! 🎊👇 https://t.co/vYUMNyJSW4",26,8,7,2021-12-22
+1026,2021-12-24 02:51:23+00:00,1474211069426278403,perpprotocol,"📚 Heading into the holidays and looking for some Christmas reading? 👀
+
+We've got you covered, especially for our tech-savvy readers!🧑‍💻
+
+Check out our new blog post written by 🧠 @tienshaoku to learn about how block-based funding works!
+
+Read here ⤵️
+https://t.co/g6ILPypNNW",21,10,3,2021-12-24
+1027,2021-12-30 14:00:11+00:00,1476553707819089924,perpprotocol,"Did you get your Perpetual Protocol Christmas NFT yet? 🎁
+
+✅ Generate at least 100 USDC trading volume on https://t.co/I3Q67Uu4xH
+✅ Claim your NFT here: https://t.co/mqhITWHeHE
+🟩 Join the Holiday Treasure Hunt by @ProjectGalaxyHQ
+
+You've got until January 2nd 2022, 8PM PST! ⏰",13,13,3,2021-12-30
+1028,2022-01-01 18:12:16+00:00,1477341919969689603,perpprotocol,"Happy New Year! 🎆🥂
+
+Thank you for all your support during 2021 💙💚
+
+We're very excited for 2022 at Perpetual Protocol - we have many upgrades in the pipeline!
+
+Stay tuned for our upcoming announcements 📢😎
+
+Can you already guess what's coming?
+
+LFG 2022!!! 🚀 https://t.co/ziy5DE6DdD",53,30,6,2022-01-01
+1029,2022-01-03 13:30:00+00:00,1477995661580767233,perpprotocol,"📢 Weekly Staking Reward Update
+
+🤩 Hope you all had a great weekend and happy new year! 
+
+🥨 110,000 $PERP has been distributed to all $PERP stakers.
+
+This week: 
+🔓 22.5% are claimable now,
+🔒 77.5% of rewards are vesting.
+
+Claim at 👉 https://t.co/iSfleOMN2r",9,8,2,2022-01-03
+1030,2022-01-05 14:00:34+00:00,1478728131473203204,perpprotocol,"(2/2)
+Trade on Perp v2✌️and get the gas fees reimbursed⏪
+
+Rebates are distributed every Monday in $PERP and can be claimed on https://t.co/BJCKsbeZv6 💰
+
+The weekly rebate cap increases with the amount of PERP you stake.
+
+Find all the details here👇
+https://t.co/04MLT5yZ22",12,5,1,2022-01-05
+1032,2022-01-06 20:15:26+00:00,1479184855510487040,perpprotocol,"We're all GMI!! 💥💎
+
+@indexcoop has just launched their new $GMI token and there's quite some $PERP in it 😎
+
+Are you $GMI, anon? https://t.co/pTxoZwjTCe",44,5,12,2022-01-06
+1033,2022-01-07 14:13:18+00:00,1479456109589151745,perpprotocol,"🏆 Congratulations to the winners of the Gas Rebate Giveaway 🏆
+
+@YukiCC16
+@0xNathereum
+@LlQUIDATED
+@xiaoxinispotato
+@mikelatoy
+
+We'll reach out to you via DM.
+
+Thanks to everyone who participated!
+
+🙇 Didn't win? 
+Get PERP rebates when using https://t.co/I3Q67Uu4xH",8,4,2,2022-01-07
+1034,2022-01-10 14:00:40+00:00,1480540097254731782,perpprotocol,"Apparently @AutismCapital has been very low key trading on @PerpProtocol
+
+6 figures PnL 🔥
+
+GMI 🦍
+
+https://t.co/tdCqhNJHBl https://t.co/XCpHrmbjx1",26,5,3,2022-01-10
+1036,2022-01-11 14:04:06+00:00,1480903347544674305,perpprotocol,"🌱 @SeedleFinance has joined our lineup of grantees 🌱
+
+With https://t.co/IvsE6fuwzk you can track the performance of your liquidity positions on Perp v2. 📊
+
+Check it out ⤵️
+https://t.co/qZipNXX4HI https://t.co/PIS57xar1k",17,3,4,2022-01-11
+1037,2022-01-12 14:02:05+00:00,1481265227803078663,perpprotocol,"(1/2) 💧Liquidity Mining Rewards Are Here💧
+
+🪂 Visit https://t.co/BJCKsbeZv6 to claim your free $PERP
+
+Not eligible for the airdrop?
+1⃣ Comment below which project you want us to partner with
+2⃣ Follow @perpprotocol
+3⃣ Like &amp; Retweet
+
+We'll give away 25 $PERP to 5 winners 💰 https://t.co/M8Z2QDH7WU",92,63,61,2022-01-12
+1039,2022-01-13 14:01:56+00:00,1481627577299185664,perpprotocol,"(1/2) 
+🔔 Staking Rewards Update 🔔 
+
+To further grow Perp v2, we have reallocated rewards to new incentive programs:
+⛽ Gas Rebate with 250K PERP
+💧 Liquidity Mining for makers
+👀 and more!",19,2,3,2022-01-13
+1041,2022-01-14 10:01:03+00:00,1481929345006456837,perpprotocol,"📆 Mark your calendars!
+
+Catch our co-founder @tempofeng live on the upcoming @dexguru Twitter Space 🔉 https://t.co/4wiJkDWY7p",13,2,4,2022-01-14
+1044,2022-01-16 14:13:18+00:00,1482717600576589825,perpprotocol,"📌 PERP is now listed on @VauldOfficial
+
+On Vauld you can
+✅ earn yield, lend and borrow against your PERP holdings
+💹 trade PERP with USDT and INR pairs https://t.co/UsuxIoGiH2",20,2,7,2022-01-16
+1045,2022-01-17 14:31:00+00:00,1483084442134528005,perpprotocol,"🚀 @alliancedao is becoming the digital startup nation of the future 🚀
+
+We're thrilled to be a contributor and help support the next generation of Web3 builders. Let's grow Web3 together! https://t.co/2f1Gygg3qm",15,2,3,2022-01-17
+1048,2022-01-18 08:30:20+00:00,1483356065488064512,perpprotocol,"Only 30 more minutes ⏲️
+
+Come join the @dexguru Talk Show with our cofounder @tempofeng on Twitter Spaces, it's gonna be an interesting one! https://t.co/Q0dblk8AM2",19,1,4,2022-01-18
+1052,2022-01-19 14:00:29+00:00,1483801539919687689,perpprotocol,"📊 Perpterminal is live for Perp V2 📈
+
+Track all stats and trades on https://t.co/0HnnIpsg0a 
+
+Take a deep dive and explore the features of the analytics dashboard with @vipineth 🤿⤵️ https://t.co/eWQoq7N67M",28,5,4,2022-01-19
+1053,2022-01-20 12:16:54+00:00,1484137859477082124,perpprotocol,"📞 Community Call #18 - Competition Sneak Peek! 👀
+
+We hope you're ready for a big Q1 2022
+
+Because our marketing team has been very busy!
+
+Join us 1/26 5:00 PM UTC+8 to learn more about
+🏇🏿 Upcoming competition
+🤝 Referral program
+🏗️ Feature development
+🧑🏻‍🎨 NFTs
+❓ More!",26,2,7,2022-01-20
+1056,2022-01-21 14:01:13+00:00,1484526501483712519,perpprotocol,"📢 NEW TRADING PAIR 📢 
+
+$SOL/USD perp trading is now live 🔥
+
+@solana #Solana
+
+SoLunAvax - we listed them all!
+
+Start trading at https://t.co/I3Q67Uu4xH with up to 10x leverage on chain. https://t.co/pzBSOUAtTV",39,5,6,2022-01-21
+1059,2022-01-23 14:30:00+00:00,1485258520500965378,perpprotocol,"ICYMI 🧐
+
+Listen to the full recording of @dexguru's Space with our co-founder @tempofeng in the tweet below 🔊
+
+Or check the notes for a quick summary👇 https://t.co/Q0dblkqbDA https://t.co/1PTWhWjuv6",31,3,7,2022-01-23
+1060,2022-01-24 18:05:51+00:00,1485675228504199171,perpprotocol,"Want to compete in the #ClashOfL1s and start trading on Perp v2 but not sure how to get your funds over to @OptimismPBC? 🤔
+
+🔎 Find out the cheapest ways to deposit $USDC from CEXs to https://t.co/I3Q67Uu4xH in our latest blog post.
+
+Read on here ⤵️
+https://t.co/RjokrSZv1O",21,1,5,2022-01-24
+1067,2022-01-26 14:01:01+00:00,1486338389494403072,perpprotocol,"Fun fact: on Jan 22 we did around $526M in daily trading volume.😎
+
+Any data you want to add? Let us know in the comments below!",11,0,1,2022-01-26
+1070,2022-01-27 15:00:26+00:00,1486715731060277257,perpprotocol,"Come join our #DeFi Valentine's Party at @EthereumDenver!🍸
+
+📍Bar Standard
+📆Feb 14, 6pm-12am MST
+
+Co-hosted by our wonderful partners:
+✨ @TrustToken 
+✨ @BalancerLabs 
+✨ @SolaceFi 
+✨ @MEVprotection https://t.co/5QFJlzQkpG",34,2,8,2022-01-27
+1073,2022-01-28 21:00:00+00:00,1487168604609163268,perpprotocol,"Eager to get the limited edition #ClashOfL1s NFT? 
+
+✅Join the trading competition (with $PERP prizes!)
+https://t.co/BiHlbcod4p
+✅Generate $10,000 in trading volume
+
+Get ready to claim your team's #NFT from Feb 14th on @ProjectGalaxyHQ!🤩
+
+https://t.co/lM4sGtYFSB https://t.co/dg6zN3JOoE",60,2,20,2022-01-28
+1076,2022-01-29 14:04:51+00:00,1487426518339002374,perpprotocol,"🚛We are moving!🚛
+
+We are migrating to https://t.co/lm7nVXTTDu as our main domain with a completely fresh look.🤩
+
+Check it out👀⤵️
+https://t.co/drXMZtmlOu",54,4,9,2022-01-29
+1077,2022-01-31 14:04:41+00:00,1488151252324294659,perpprotocol,"As well as the Derivatives Trader badge, you can also pick up a cool NFT for FREE by participating in our #ClashofL1s trading competition! 🤩
+
+Which team will you pick? 
+
+$BTC $ETH $SOL $LUNA $AVAX 
+
+👉https://t.co/BiHlbcod4p https://t.co/e2yvrZFSYj https://t.co/sZxPx5JxBD",12,3,5,2022-01-31
+1078,2022-02-01 09:01:06+00:00,1488437242070720517,perpprotocol,"🎊Happy Lunar New Year🧧
+
+Wishing everyone a prosperous and successful year of the tiger!🐯 https://t.co/PUhcsBD4h3",27,2,6,2022-02-01
+1080,2022-02-02 14:00:03+00:00,1488874859773849602,perpprotocol,"A new protocol is bringing fresh ideas to the DeFi lending market💡
+
+@SiloFinance isolates the risks of different assets to specific silos, enhancing the security of the entire protocol.
+
+Our software engineer 🧠 @paco0x explains how it works👇
+https://t.co/NmESOyLcxs",18,1,8,2022-02-02
+1083,2022-02-03 14:00:51+00:00,1489237450929184781,perpprotocol,"Get to know Perpetual Protocol v2 in our guest post on the @cryptotesters blog 🤝
+
+🔎Find out how Perp v2 works and what makes it unique, written by @weitingchentw!
+
+Read on below⤵️
+https://t.co/0OP1H99arM",23,0,8,2022-02-03
+1084,2022-02-04 14:00:47+00:00,1489599821296066560,perpprotocol,"🚀 #ClashOfL1s Update 🚀
+
+Team #SOL is extending its lead in not one but two categories!
+
+Will the other teams catch up?🏃
+
+💡Pro tip: Join team $SOL or team $ETH and generate $10k in trading volume to get a share of the prize pool as well as the limited edition #NFT 🤫 https://t.co/DkIF5hEj9C",14,5,4,2022-02-04
+1085,2022-02-07 14:00:21+00:00,1490686874612023303,perpprotocol,"⚔️ #ClashOfL1s Update ⚔️
+
+👀 on the 🏆
+
+Only one more day to go!
+
+Make sure to reach $10k in trading volume to 
+1️⃣ claim a special #NFT of your team's avatar🧑‍🎤
+2️⃣ get prizes if you're in one of the winning teams🏆 https://t.co/pY439rJWnC",12,1,6,2022-02-07
+1087,2022-02-08 17:43:13+00:00,1491105348308316161,perpprotocol,"📚 Great read on @Cointelegraph by @tempofeng 
+
+On the recent surge of retail investors using derivatives DEXes and how to ensure that they're not going in blind.
+
+➡️ https://t.co/VibQeLGLHH https://t.co/Ns8DDLBU8E",8,1,2,2022-02-08
+1088,2022-02-09 13:00:31+00:00,1491396594985742338,perpprotocol,"(1/2)
+🔔 Liquidity Mining Rewards Update 🔔
+
+From next week on we will allocate liquidity mining rewards on a per market basis!
+
+What's new?
+💰 Each market is allocated 5k $PERP per week
+📆 Update in effect from Feb 14
+ ✔️ First rewards distribution on Feb 21",88,16,33,2022-02-09
+1092,2022-02-10 13:00:17+00:00,1491758924458074120,perpprotocol,"(1/4)
+The #ClashOfL1s has concluded!
+
+And the winners are ... 🥁 
+🥇Team $SOL in ""most profit"" and ""most volume""
+🥈Team $BTC in ""most loss"" https://t.co/0CJcNlt4xR",27,2,7,2022-02-10
+1098,2022-02-11 13:30:07+00:00,1492128818802352134,perpprotocol,"(3/4) Details of the $PERP Convertible Voucher Offering
+
+📅 Launch date: February 17th, 2022 (1 PM UTC),
+💸 APR = 5%,
+📐 Bond range: 0.5x average price to ~2x average price (7-day TWAP of $PERP prior to the offering),
+⏳ Maturity date: June 18th, 2022",7,1,0,2022-02-11
+1103,2022-02-14 13:01:58+00:00,1493208900128149507,perpprotocol,"PERP x SOLV IVO Update 📢🎟️ 
+
+The raised amount has been adjusted to $4m to better accommodate the bond range from 0.5x to 2x average price.
+
+✍️ Sign up to the whitelist for a chance to partake in the IVO: https://t.co/AJrLiCGNiH",2,1,0,2022-02-14
+1114,2022-02-15 15:01:29+00:00,1493601362898305028,perpprotocol,"Come listen to @SolvProtocol's Twitter Spaces with @RyanChow_DeFi and @tongnk tomorrow, Feb 16, at 1 PM UTC. 🔉⤵️ https://t.co/gaWl9mkw97",8,0,2,2022-02-15
+1120,2022-02-16 11:57:49+00:00,1493917528145473540,perpprotocol,"You can now claim your #ClashOfL1s NFT! 🤩
+
+To be eligible for the NFT, you must
+1️⃣ have signed up to the trading competition
+2️⃣ have made at least one trade
+
+Claim the #NFT of your team on @ProjectGalaxyHQ 
+here 👉 https://t.co/vrMqI8CMS4 https://t.co/tycR1FLgLM",19,1,3,2022-02-16
+1124,2022-02-17 11:02:20+00:00,1494265956981514240,perpprotocol,"What a party at #ETHDenver!  🎉🍾
+
+Thanks to everyone for coming by and making this the best #DefiValentines party ever 💚💙
+
+🤝 @BalancerLabs @TrustToken @MEVprotection @SolaceFi https://t.co/eyioGwM9rD",21,0,4,2022-02-17
+1127,2022-02-18 14:00:07+00:00,1494673081675177988,perpprotocol,"📣 Perpetual Protocol Community Call #20 
+
+Join us on February 23, 2022 at 5 PM UTC+8
+
+Learn the latest on
+ - Protocol development
+ - Marketing updates
+ - Q&amp;A for all your nagging questions!
+
+If you can't make it, the call will be recorded 😉 https://t.co/Tv2L2oF9qZ",20,4,7,2022-02-18
+1131,2022-02-21 15:01:21+00:00,1495775657598533636,perpprotocol,"(3/4)
+💁‍♂️ Join our Community Call #20 on Wednesday, Feb 23 at 1 PM UTC.
+
+🔗 https://t.co/SH2UQSfw3Q",37,2,32,2022-02-21
+1138,2022-02-22 14:00:12+00:00,1496122654352420874,perpprotocol,"📢 NEW TRADING PAIR 📢 
+
+One more for our #Cosmonauts!
+
+$ATOM/USD perp trading is live ⚛️
+
+Trade @cosmos perps with leverage fully on-chain and non-custodial at https://t.co/I3Q67Uu4xH https://t.co/hLakJGEReD",24,1,9,2022-02-22
+1141,2022-02-23 19:03:05+00:00,1496561268932681728,perpprotocol,"🎉 The exclusive @TheSandboxGame Perpetual Protocol NFTs have been sent to the winners, congratulations! 
+
+Addresses #2 - #16 @ https://t.co/mwHYBCvUCJ
+
+Check your wallet 📬
+
+https://t.co/Hcw8g5HF0k",13,0,3,2022-02-23
+1152,2022-02-24 14:00:05+00:00,1496847401956839429,perpprotocol,"(1/2)
+📢 NEW TRADING PAIR 📢 
+
+$ONE/USD perp trading is live 🔥
+ 
+We are giving away $20,000 in $PERP and $ONE to 20 winners!
+
+How to win?
+✅ Bridge ETH to @harmonyprotocol
+✅ Trade $ONE on Perp at https://t.co/1Yn7vIGXg1 https://t.co/LFebnomSjE",65,2,28,2022-02-24
+1154,2022-02-25 18:15:28+00:00,1497274059880468483,perpprotocol,"🤯 Less than one week left for Macbook Mania 🤯
+
+Don't miss your chance to win 1 of 30 MacBook Pros!
+
+Sign up as a referral partner here: https://t.co/KV7LuJzOqe
+or
+Start trading here with a ref code: https://t.co/fABWeIVyy4 https://t.co/dFFTclJJ31",13,3,7,2022-02-25
+1156,2022-02-28 15:45:00+00:00,1498323356680015872,perpprotocol,"Bridging made easy! 🌉
+
+We've integrated @lifiprotocol's Bridge &amp; Swap widget, enabling seamless deposits from popular blockchain networks to @optimismPBC! 
+
+Learn more about https://t.co/MeacBeIuZH's cross-chain liquidity aggregator in our latest post👇
+
+https://t.co/aqlbe0isNp",35,4,12,2022-02-28
+1157,2022-03-01 14:37:47+00:00,1498668830679310349,perpprotocol,"Win prizes with @imTokenOfficial &amp; @ProjectGalaxyHQ!
+
+To participate access the link on mobile 👉 https://t.co/72vvAfxUda
+
+All details below ⤵️ https://t.co/9URGMRDryP",38,12,18,2022-03-01
+1159,2022-03-02 12:30:00+00:00,1498999059637493761,perpprotocol,"#ClashofL1s summary
+
+💸 6,000 $PERP distributed in prizes to eligible traders
+🔴✨ x500 cheaper on @optimismPBC than Ethereum mainnet
+🖼️ 318 participants minted their team's banner as an NFT
+
+Check out our recap of the #ClashofL1s trading competition👇
+
+https://t.co/0nwsZXVlPm",14,0,4,2022-03-02
+1162,2022-03-03 15:00:00+00:00,1499399196423692288,perpprotocol,"Position sizing is one of the most important considerations when it comes to risk management
+
+In our latest Learn article, we provide an overview of how you can methodically determine your position size when trading crypto👇
+
+https://t.co/yCG2JLnPsI",9,1,3,2022-03-03
+1166,2022-03-04 12:00:03+00:00,1499716297491365889,perpprotocol,"ICYMI
+
+Listen to our 🥨Perptimism🔴✨ Twitter Spaces, hosted by @optimismPBC's @ben_chain with our co-founder @tempofeng (some alpha 💦's near the end!)
+
+Or check the summary notes for a brief overview of the conversation👇
+ https://t.co/Ub4Oxb5QQ5 https://t.co/uEI6N530uG",15,0,7,2022-03-04
+1168,2022-03-08 06:37:06+00:00,1501084574545170433,perpprotocol,"📣 Don't miss our Twitter Spaces with @lyrafinance!
+
+Tune in on Mar 10, 1am UTC for a deep dive into @optimismPBC, Options, and Perps.
+
+🛎 Set a reminder 🛎
+https://t.co/OsvcTNt4LA https://t.co/HbLwPnZurK",30,0,6,2022-03-08
+1174,2022-03-09 14:00:00+00:00,1501558425406218241,perpprotocol,"If you’re a user of #DeFi protocols, you've likely heard the term impermanent loss (AKA divergence loss)
+
+But what exactly does it mean and why should you be aware of it?
+
+Read our latest Learn article to find out more👇
+
+https://t.co/cL2qi6bJgf https://t.co/4aj6Gn7p1l",12,2,3,2022-03-09
+1175,2022-03-10 14:00:48+00:00,1501921013818433538,perpprotocol,"Rules
+🎟️Every 500USDT bridged from Ethereum to Flow using @BloctoApp's https://t.co/KUlTJ8ZKxq gets 1 ticket
+🎟️Every $5,000 $FLOW traded gets 1 ticket
+🎟️Max 10 tickets per task, max 20 tickets per wallet
+⏱️Campaign ends on Mar 17, 2pm UTC 
+🎰Winners will be picked by a lucky draw",13,1,1,2022-03-10
+1180,2022-03-11 16:09:07+00:00,1502315694498750466,perpprotocol,"ICYMI: Listen to Lyra's Twitter Space for a deep dive into @optimismPBC, Options, and Perps
+
+https://t.co/OsvcTNKGaa
+
+w/ @itseneff, @0xmjs and @codyadam_ from @lyrafinance and our co-founder @tempofeng 
+
+Or check the summary notes below👇 https://t.co/BNDfdQsI41",51,2,23,2022-03-11
+1182,2022-03-13 22:07:39+00:00,1503130695568224257,perpprotocol,"💻 Thank you to everyone who participated in Macbook Mania! 🥳
+
+Our lucky referral partner winners are 🥁 ...
+⭐️@darrenlautf
+⭐️@BinanceFunding
+⭐️@Smol_Shrimps
+⭐️@ilovehanbaobao
+⭐️@defiouza https://t.co/dFFTclJJ31",16,4,6,2022-03-13
+1185,2022-03-14 18:21:55+00:00,1503436275625472007,perpprotocol,"Still up for grabs: $10k in $PERP and $FLOW 💰
+
+How to win?
+🔸Bridge USDT from Ethereum to @flow_blockchain
+🔸Trade $FLOW on https://t.co/9CHCtZZAy1
+
+The more tickets you acquire, the higher your chances of winning! https://t.co/302oS3RslI https://t.co/ilsPLuqAiN",13,0,5,2022-03-14
+1186,2022-03-15 14:05:31+00:00,1503734140759425027,perpprotocol,"⚛️ @BrahmaFi just launched their Protected Moonshot DegenVault!
+
+The vault uses weekly harvested yields to take on leveraged positions on Perpetual Protocol - long or short based on their momentum strategy's signal⚡
+
+Find out more below ⤵️ https://t.co/9nNNdm9ddL https://t.co/XdNsgytAsG",16,0,8,2022-03-15
+1187,2022-03-16 16:00:03+00:00,1504125350162440192,perpprotocol,"Our latest learn article demystifies candlestick charts! 🕯️📈📉
+
+Take a look at some examples and explore how certain patterns can help you to generate trade ideas👇
+
+https://t.co/YoNULO2WHr",13,1,5,2022-03-16
+1189,2022-03-17 14:02:54+00:00,1504458255271186433,perpprotocol,"And the special Perp Pepe T-Shirt goes to 🐸
+🥁 @alphadujour for the first correct guess!
+
+@binance pioneered the quarterly burn model buying back and burning $BNB
+
+@BNBCHAIN @BurnBNB 
+
+https://t.co/8Wsce44Nhs",6,0,0,2022-03-17
+1191,2022-03-18 14:02:50+00:00,1504820626065870852,perpprotocol,"📣 Community Call #22 Coming Soon!
+
+📅 Save the date: March 23, 1 PM UTC
+
+As usual we will discuss the latest project news and chat about recent events in DeFi 👀
+
+📽️ on Youtube - watch anytime if you can't make the live call! https://t.co/GufeG3oP5L",35,2,28,2022-03-18
+1194,2022-03-19 14:27:22+00:00,1505189189066838023,perpprotocol,"Thanks to everyone who participated in our $NEAR giveaway!
+
+Prizes have been sent to the winners ✉️💫
+
+🎉 Extra goodie: all participants can claim an #OAT on @ProjectGalaxyHQ
+👉 https://t.co/1CzxCYhKzm
+
+PS: Bridging from @ethereum and @auroraisnear to @NEARProtocol both qualified https://t.co/83LH6n9ryS https://t.co/TlKFbY4xH2",12,0,4,2022-03-19
+1195,2022-03-21 14:00:02+00:00,1505907085577445380,perpprotocol,"We're pleased to announce that the smart contracts for Perp v2, our frontend SDK and subgraph are now all open source! 
+
+Anyone can review the source code, offer feedback, freely share ideas and submit pull requests
+
+Find out more in our blog post👇
+
+https://t.co/CJLkF2XwzO",36,0,10,2022-03-21
+1198,2022-03-22 16:50:43+00:00,1506312426840596484,perpprotocol,"(1/6)
+
+We've got some exciting updates to share from our Grants Committee over the past month
+
+A 🧵... https://t.co/xaRHZDqSwM",12,2,5,2022-03-22
+1204,2022-03-23 21:09:15+00:00,1506739880231112704,perpprotocol,"gHearbox Hour 🕯️ Perpetual Protocol
+
+Don't miss @GearboxProtocol's Twitter Spaces for a gHearbox Hour research session together with both our co-founders @tempofeng and @wraecca 🙌
+
+📆 Mar 24, 1pm UTC
+
+Set a reminder: https://t.co/zqoV2ET8yT https://t.co/yUnklosFb6",9,0,4,2022-03-23
+1209,2022-03-24 10:08:15+00:00,1506935918724272130,perpprotocol,"To celebrate @DeFinePlatform's 1 year anniversary, we are partnering with them to give out exclusive NFT badges 🎂🎖️
+
+Join us at #DeFineAnniversary Carnival:
+https://t.co/1MBHwGwHHd https://t.co/iZhr90n0uk",7,1,3,2022-03-24
+1215,2022-03-25 15:52:31+00:00,1507384944812826639,perpprotocol,"We're happy to share that we are sponsoring @CryptoCanal's #ETHDay and #DeFiDay at @EFDevconnect!
+
+Listen to the panel talk or just come say hi and meet our team members 👯
+
+See you soon in Amsterdam 👋 https://t.co/R2BH99qjyy",21,0,6,2022-03-25
+1216,2022-03-28 17:14:42+00:00,1508492790736556038,perpprotocol,"Karma for Perp power users incoming 🔋
+
+@BrahmaFi is increasing the karma scores of the true degens on Perpetual Protocol, our makers!
+
+With a higher Karma score users can access the Protected Moonshot DegenVault and upcoming products earlier 🦍 https://t.co/oDPj4h7gZd",16,0,5,2022-03-28
+1220,2022-03-29 12:01:03+00:00,1508776246313893891,perpprotocol,Thanks @hackernoon for publishing our story about Perp v2 going open source! https://t.co/BvT762DTVV,19,1,5,2022-03-29
+1222,2022-03-30 13:00:03+00:00,1509153480774238215,perpprotocol,"@Uniswap How does the role of a liquidity provider change in Uniswap v3 with the introduction of concentrated liquidity?
+
+Find out more in our latest learn article👇
+
+https://t.co/BsI25D5ook",6,0,1,2022-03-30
+1224,2022-03-31 09:03:02+00:00,1509456221899837440,perpprotocol,"🌊 @tidaldefi is launching a coverage pool for Perpetual Protocol
+
+Start earning yield by depositing to the USDC reserve or get protected by buying a cover 🔐 https://t.co/SeUf0bpV7D",9,0,0,2022-03-31
+1228,2022-04-01 23:01:30+00:00,1510029615825256449,perpprotocol,"New Youtube Video 🎦
+
+Perp Team Brownbag - How to Mitigate Impermanent Loss as a Maker?
+
+Our core dev team member Nicky Chao walks you through hedging strategies for Perpetual Protocol V2 makers 🦺
+
+https://t.co/zXgqQjFUI7",4,0,2,2022-04-01
+1233,2022-04-02 16:32:09+00:00,1510294021796777990,perpprotocol,"(1/2) 
+
+""Perpetual Protocol is like a monster with ~27.7k transactions per day!"" 🐲
+
+https://t.co/7DoBkV22fe",19,1,5,2022-04-02
+1235,2022-04-05 03:46:00+00:00,1511188378552868869,perpprotocol,"With the launch of Fuse Pool #181 ♨️, tokens within the GMI Index can be used as collateral to borrow stablecoins within GMI.
+
+That being said, you can use $PERP as collateral to borrow funds! 
+
+Learn more ⤵️ https://t.co/Lscdigtioi",19,1,7,2022-04-05
+1241,2022-04-06 14:42:41+00:00,1511716024101576714,perpprotocol,"(4/4)
+Trade on Perp v2 🏆
+
+Within the four weeks following the call
+🔹Trade at least once per week
+🔹Generate at least $20k in trading volume
+🔹Maintain a balance of at least 100 USDC
+🔹Get your reward and a bonus NFT",7,0,1,2022-04-06
+1248,2022-04-07 14:02:21+00:00,1512068264607707137,perpprotocol,"📢 NEW TRADING PAIR 📢
+
+$MATIC/USD trading is live 🔥
+
+We are giving away $10,000 in $PERP and $MATIC to 10 winners together with @0xPolygon!
+
+🏆 Top 3 by PnL, 4th - 10th by lottery
+✅ To join: Trade the MATIC market on https://t.co/0axDyYmSeB
+
+⏱️ Campaign ends Apr 14, 2pm UTC https://t.co/xsjbKLmAgj",190,16,29,2022-04-07
+1252,2022-04-08 07:03:15+00:00,1512325182093934592,perpprotocol,"Ready, set, go: The whitelist battle has started! 🏁
+
+Secure your spot to join the onboarding call and the chance of getting paid $200 to learn about ""Curie"" by completing as many tasks as possible.
+
+⏰ 4/8 - 4/15 @ 7am UTC
+
+Sign up here 👉 https://t.co/BJCKsbeZv6 https://t.co/woNxp9yM2N",56,52,59,2022-04-08
+1255,2022-04-09 17:15:03+00:00,1512841534642827273,perpprotocol,Sub-$1 gas fees activated! ✅ https://t.co/UiB8rDguB4 https://t.co/MnfFDbYxim,22,1,7,2022-04-09
+1256,2022-04-11 14:15:23+00:00,1513521095483215877,perpprotocol,"The snapshot vote is live! 
+
+👉  https://t.co/4qgEXtdyuB 
+
+This proposal has several key parameters that will be set by voters, including how DEX revenue will be deployed, so make sure to take a look and comment!",5,0,1,2022-04-11
+1260,2022-04-12 13:55:57+00:00,1513878590156419093,perpprotocol,"Remindoooor 💰
+
+$10k in $PERP and $MATIC still up for grabs! 
+
+Trade @0xPolygon MATIC/USD perps on Perp v2 to enter the competition
+👉 https://t.co/r1iz95V6gT https://t.co/pxUfEbFDxr",9,0,5,2022-04-12
+1262,2022-04-13 02:08:39+00:00,1514062980849160192,perpprotocol,"We have crossed over 10,000 unique Traders on Perp V2!
+
+Thank you for everyone's support and look out for more markets in the months to come!✌️
+
+https://t.co/kP4krhzkwW https://t.co/DQRE2vjHeb",13,0,3,2022-04-13
+1267,2022-04-14 16:00:06+00:00,1514634613150396419,perpprotocol,"""Perpetual Protocol is one of the most sophisticated protocols we've audited - layers of margin accounting, vAMM trickery and other DeFi wizardry so you can 'ape' more decisively""
+
+@neville_grech, co-founder of @dedaub",4,1,0,2022-04-14
+1279,2022-04-15 07:19:42+00:00,1514866034951532546,perpprotocol,"We're extending the #Learn2Earn whitelist battle by 7 more days! 
+
+Secure your spot on the onboarding call and get paid to learn how to use ""Curie"" as a new user 📚💰
+
+How? Complete as many tasks as possible in the whitelist battle by Apr 22, 7am (UTC)
+
+👉https://t.co/M1PLqXmPGi https://t.co/woNxp9yM2N",54,44,73,2022-04-15
+1284,2022-04-17 03:59:37+00:00,1515540461045301249,perpprotocol,"🗳️ Snapshot vote for our proposal to begin building a partnership with @FraxFinance is now live. 
+
+TL;DR
+- Tokenswap of $2M $PERP &lt;&gt; $FXS
+- Use FXS as collateral on Perp
+- and more
+
+⌛️
+- 400K FXS needed to reach the quorum
+- Vote ends at 00:00AM Apr 19 ⬇️
+
+https://t.co/g7nBkk5ASS",23,0,7,2022-04-17
+1285,2022-04-18 22:19:44+00:00,1516179701047382029,perpprotocol,"Calling all Japanese Perp frens 🇯🇵
+
+Our co-founder @tempofeng is joining @wagumiDAO's AMA on their Discord server ⤵️ https://t.co/cwtmn58mDC",11,0,4,2022-04-18
+1288,2022-04-19 22:27:42+00:00,1516544094373244929,perpprotocol,"Our tokenomics proposal has passed ✅
+
+Thank you for participating and look out for the implementation of this new tokenomics model.
+
+https://t.co/4qgEXtv9m9 https://t.co/VEZRncRl7V",16,1,4,2022-04-19
+1294,2022-04-20 21:13:42+00:00,1516887858711339009,perpprotocol,"(4/7)
+
+You can verify this yourself by examining the addresses below, which are the main MMs that provide liquidity to our platform👇 https://t.co/LnkOvw60qg",2,1,0,2022-04-20
+1305,2022-04-21 12:35:36+00:00,1517119861775908868,perpprotocol,"It's time for another update from our Grants Committee!
+
+Find out about all the great things #DeFi peeps are building on top of Curie 🏗️
+
+https://t.co/jykV5lNDUH",8,1,3,2022-04-21
+1309,2022-04-22 14:46:41+00:00,1517515237603352578,perpprotocol,@TrustToken @optimismPBC @graphprotocol @antoni_eth We had a blast! Cheers🍻,3,0,0,2022-04-22
+1314,2022-04-23 07:57:26+00:00,1517774633470025728,perpprotocol,"Congratulations to our winners 🎉
+
+Please check this thread to see if you won. Prizes will be sent over the next 2-3 days.
+
+Thank you for participating! https://t.co/7EXKT3myqm",9,1,4,2022-04-23
+1317,2022-04-24 11:51:40+00:00,1518195968646258689,perpprotocol,"""Perpetual Protocol has done $8b in notional trading volume since December"" 🚀🚀🚀
+
+Learn more about the state of L2s and the most popular dApps on each one👇 https://t.co/fqk4yDQvGk",18,0,3,2022-04-24
+1318,2022-04-25 08:01:41+00:00,1518500478748930049,perpprotocol,"Gm frens!
+
+Come along to #DeFiDay, hosted by @CryptoCanal, to get some Perpetual Protocol stickers
+
+Our very own @Dylan_Yang_0523 will be speaking at  the building derivatives on layer 2 talk, starting 14:50
+
+#ETHAmsterdam https://t.co/zoULF4Hnbk",46,23,16,2022-04-25
+1320,2022-04-26 19:25:54+00:00,1519035055888375810,perpprotocol,"@blockblanc @EFDevconnect @BalancerLabs @oasisdotapp @LidoFinance @uniswapgrants @Figment_io @lumilette_ @feder_eth Thanks for hosting such great events👏👏👏
+
+Our team members that attended DevConnect really enjoyed their time there, so we're eagerly anticipating the next one!",4,0,0,2022-04-26
+1327,2022-04-27 19:41:44+00:00,1519401427214422018,perpprotocol,What are your best trades in 2022 so far? https://t.co/BJfxEU6sXF,17,6,3,2022-04-27
+1331,2022-04-29 22:00:01+00:00,1520161005401223171,perpprotocol,"5.4% of $OP tokens will be going to partners...
+
+It'd be a shame if you didn't use the largest protocol on @optimismPBC 👀 https://t.co/et5qRZ3bxA",50,5,7,2022-04-29
+1340,2022-05-02 13:37:01+00:00,1521121584412606465,perpprotocol,"(4/9)
+
+🍽️Over various brunches we networked with others working in #DeFi!
+
+Thanks to @iearnfinance, @parisrouz &amp; @0xCorina for the great food and conversations😋
+
+https://t.co/je709z12Qx",4,1,0,2022-05-02
+1354,2022-05-03 20:28:53+00:00,1521587621490835461,perpprotocol,"(1/5) 
+
+✨🔴__🔴✨
+
+We've submitted our governance proposal to claim 9M $OP tokens!
+
+Our vision: use this allocation to boost liquidity, lending to market makers &amp; extend our grants program to incentivize more builders to use Perp as a base layer
+
+https://t.co/K4pWXtxeDz",106,10,18,2022-05-03
+1368,2022-05-04 04:33:00+00:00,1521709453350895617,perpprotocol,@SledTrade Please message us.,1,1,0,2022-05-04
+1371,2022-05-05 00:09:48+00:00,1522005605040283648,perpprotocol,"⚡️Happening in just one hour⚡️
+
+Don’t miss this exclusive Twitter Space with @ProjectGalaxyHQ 🪐
+
+Be the first to learn about the $GAL token! https://t.co/DPQphcyrId https://t.co/kvOS9VcBI5",15,1,4,2022-05-05
+1377,2022-05-09 17:26:02+00:00,1523715931846807552,perpprotocol,"(1/3)
+By offering Wallet Coverage the decentralized insurance protocol @SolaceFi enables covering your crypto wallet's DeFi positions with just one policy.
+
+We partnered up with them to give you $50 off of a policy by following the steps below 💰👇
+
+☂️ Stay safe out there, frens! https://t.co/roVHWocDgp",25,7,8,2022-05-09
+1379,2022-05-10 23:00:00+00:00,1524162365968683008,perpprotocol,"Bridge ETH at Warp Speed!
+
+By using Optimism's custodial bridge, you can start using ETH as collateral to trade or market make on Perp in a matter of minutes https://t.co/wUAZyH3FZ6",20,0,4,2022-05-10
+1381,2022-05-11 03:00:01+00:00,1524222768551628800,perpprotocol,"⚡️Live in just one hour⚡️
+
+Join this AMA with @SolaceFi to learn about our new partnership and how you can protect your DeFi position with an insurance policy.
+
+https://t.co/olGtbGybce",5,5,3,2022-05-11
+1383,2022-05-12 14:17:06+00:00,1524755550663327748,perpprotocol,"Our Grants DAO has uploaded the first open bounty to @questbookapp 👀🍫
+
+Building an integration into @Instadapp including a working assembly page for trading and staking - remunerated with 400 $PERP.
+
+👉 https://t.co/GhEXakL9Ij https://t.co/B4bXrRo2xl",23,2,10,2022-05-12
+1390,2022-05-13 20:09:00+00:00,1525206495003963392,perpprotocol,"Moving forward we will establish a process for emergency situations such as these that can be run through governance. We value the community's voice and apologize for the short-notice on this decision from the team.
+
+For further help: https://t.co/7jufO56fM5",11,2,1,2022-05-13
+1396,2022-05-15 15:46:10+00:00,1525865130105372673,perpprotocol,"Ever dreamt of having someone trade for you?
+
+@BrahmaFi's Protected Moonshot (PMUSDC) DegenVault does just that - taking on leveraged positions on Perpetual Protocol  ""Curie"" based on their momentum strategy's signal ⚛️
+
+Let Pepo do the trading for you and enjoy the profits! https://t.co/YX7WDlUq7Z",26,4,7,2022-05-15
+1398,2022-05-16 05:12:19+00:00,1526068002629754882,perpprotocol,"Update on LUNA-USD market: 
+
+If you had an open position on our v2 when we delisted LUNA, you can now close your position via the link below. 👇
+
+https://t.co/FYW4xaIZvP",7,0,0,2022-05-16
+1401,2022-05-17 12:58:28+00:00,1526547699805392896,perpprotocol,"📣 Community Call #26 is coming! 
+
+📅 Save the date: May 18, 1 PM UTC
+
+As usual, we will discuss the latest updates and have some Q&amp;A time. Join the Youtube live streaming to get an exclusive OAT! https://t.co/x7s4vNEkBE",15,2,4,2022-05-17
+1402,2022-05-18 19:53:45+00:00,1527014596787286017,perpprotocol,"Did you know that the Perp team covers basically every timezone around the globe? 🗺️ 🕰️
+
+And some of our team members have some crazy sleeping schedules, how about you?",23,2,5,2022-05-18
+1406,2022-05-19 17:32:33+00:00,1527341452397015040,perpprotocol,"🏗️@Encentive_io is integrating its Web3 operating system with Perpetual Protocol!
+
+The Encentive Web3 OS allows builders to instantly create and customize modules for their own DeFi marketplaces, now allowing for futures trading functionality through us 🙌
+
+Find out more below ⤵️ https://t.co/G4b4maKehg",22,9,3,2022-05-19
+1407,2022-05-23 13:59:41+00:00,1528737432157437953,perpprotocol,"Great news for all Torus and Coinbase wallet users!  
+
+Perpetual Protocol now supports a direct integration with both wallets 💳
+@CoinbaseWallet @Web3Auth https://t.co/ZDGmZ1Ayb5",33,3,3,2022-05-23
+1412,2022-05-24 08:30:43+00:00,1529017035509964800,perpprotocol,@OurNetwork__ @dYdX @PolynomialFi @friktion_labs @lyrafinance @opyn_ @thalesmarket @dopex_io @coreyj_miller @gauthamzzz @gham1lt0n @muir_eth @wadepros @leifuchen @DuneAnalytics @DefiLlama 🙋,5,0,0,2022-05-24
+1413,2022-05-25 14:03:44+00:00,1529463228018860037,perpprotocol,"(4/5)
+💼 Collateral Liquidator
+
+As a collateral liquidator you support collateral liquidation through @CurveFinance and @Uniswap and earn collateral liquidation profits in USDC without any upfront capital needed.
+
+Find all details below 👇
+
+https://t.co/KS8JNMz7NW https://t.co/80YNKI2kz7",11,1,0,2022-05-25
+1420,2022-05-26 09:48:18+00:00,1529761334702788608,perpprotocol,"Looks like we have a lot of early birds here 🐦☀️
+
+Good news is we heard the early bird catches the $OP airdrop 🤓 https://t.co/b5uUB7UFAn",32,0,4,2022-05-26
+1422,2022-05-27 03:45:16+00:00,1530032362863546368,perpprotocol,"9m $OP coming to Perp and you still haven't used the exchange?
+
+Believe us when we say 🔴_🔴 summer is coming https://t.co/Blg14tASsF",69,4,11,2022-05-27
+1425,2022-05-31 22:04:25+00:00,1531758524727824384,perpprotocol,🗳 Please vote for @tongnk as a delegate! https://t.co/OaCuI0eNSG,17,1,3,2022-05-31
+1437,2022-06-01 12:30:07+00:00,1531976384008052744,perpprotocol,"Community Call #27 is starting in 30 mins! 
+
+💬 Topics Covered: 
+- #OPsummer is here 🔴✨
+- Perp goes open-source part II
+- Road to Limit Orders 🤩
+
+Join us live on Youtube to claim your #OAT 
+https://t.co/HcbmnjrBxG",26,0,8,2022-06-01
+1440,2022-06-02 15:54:32+00:00,1532390213678399490,perpprotocol,"Want to dive even deeper into $FRAX? 🤿
+
+Check out this article by @jackchong_jc &amp; @0xkowloon 👇
+
+https://t.co/VLdFi05Mwd",24,0,2,2022-06-02
+1446,2022-06-03 02:45:18+00:00,1532553988238782464,perpprotocol,"93% of the volume done on Perp V2 is generated by users!
+
+Summer is here and we're just getting started 🏖
+https://t.co/KDgQTMW9UX https://t.co/uv3BleSQC0",34,3,3,2022-06-03
+1454,2022-06-04 09:00:00+00:00,1533010672476246016,perpprotocol,Do you think $OP should be used instead of $ETH to pay gas fees on Optimism?👇 https://t.co/9oA5WpTRis,62,8,11,2022-06-04
+1455,2022-06-06 14:50:54+00:00,1533823751288147970,perpprotocol,@DeFi_Dad @optimismPBC @Uniswap @CurveFinance @1inch @synthetix_io @kwenta_io @AaveAave @PolynomialFi @lyrafinance @NestedFi 🔥Trailblazers for an Optimistic future!,5,0,0,2022-06-06
+1459,2022-06-08 08:50:00+00:00,1534457704713883648,perpprotocol,"👀
+
+Learn to earn for trading and LP'ing on Perp v2 in the metaverse?
+
+Soon™ https://t.co/c6gsqip7iN",29,3,7,2022-06-08
+1465,2022-06-09 00:00:02+00:00,1534686721090150407,perpprotocol,"♠️❤️Join us and watch the @lyrafinance Poker Tournament live now!
+
+https://t.co/GWO3WwU5kR",21,2,5,2022-06-09
+1469,2022-06-10 17:06:56+00:00,1535307537167396865,perpprotocol,@optimismPBC @wintermute_t Staying optimistic always works out in the end😌,33,0,0,2022-06-10
+1476,2022-06-11 11:00:02+00:00,1535577592232873989,perpprotocol,"Check out this great guide about earning yield in DeFi by our good friends at Index Coop👇
+
+As the base layer for Index Coop's upcoming Market Neutral Yield $MYNe, Perp v2 serves as an unrivalled foundation for those looking to build structured products! https://t.co/XbRSRs3I07",18,6,3,2022-06-11
+1477,2022-06-13 13:00:01+00:00,1536332564146921476,perpprotocol,"Learn about the multi-collateral feature on Perp v2 with our latest tutorial video, which explains how you can use $ETH or $WETH as margin to enter positions or provide liquidity👇
+
+https://t.co/NkY8WqOUrT",16,1,2,2022-06-13
+1481,2022-06-14 11:09:47+00:00,1536667208289603584,perpprotocol,"📣 Community Call #28 is coming! 
+
+📅 Save the date: June 15, 1 PM UTC
+
+As usual, we will discuss the latest updates and features  👀
+
+📽️ Subscribe to our Youtube channel and join the live streaming to get an exclusive OAT! https://t.co/ZkhlEY18X3",21,1,2,2022-06-14
+1487,2022-06-15 22:00:02+00:00,1537193237055692806,perpprotocol,"Is encryption part of your security setup?
+
+Users who had fully encrypted their hard disk were immune to a recently discovered browser wallet vulnerability👇
+
+🔒Encrypt everything (hard disk, private key backups, seed phrases, important notes, etc.) to be as secure as possible! https://t.co/btMRGu9gg6",14,0,4,2022-06-15
+1494,2022-06-16 15:50:56+00:00,1537462740515753985,perpprotocol,"(5/5)
+Perpetual Protocol v2 Alternative Front Ends 💻
+
+A different front end including more advanced stats and complex order types.
+
+https://t.co/HwYco6pJOc",8,0,0,2022-06-16
+1500,2022-06-17 07:20:01+00:00,1537696549496664064,perpprotocol,"(2/2) 
+Details of the $PERP Bond Voucher
+
+📅 Launch date: June 16th, 2022
+💸 APR = 6%
+📜 Total Issuance Value: 3M USDC
+⏳ Maturity date: October 15th, 2022",11,1,0,2022-06-17
+1503,2022-06-18 06:53:32+00:00,1538052273233965057,perpprotocol,"Come listen to our amazing Head of Operations @hanamizuki's talk on ""The Tokenomics behind Curve Wars"" during the Google Cloud x Web3.0 Forum.
+
+Time: June 22, 06:15 AM UTC
+
+Sign up for the event ⤵️
+https://t.co/4y6U5IcjC9",16,1,3,2022-06-18
+1506,2022-06-19 13:57:00+00:00,1538521229979635712,perpprotocol,"We're happy to share that we are sponsoring @eth_barcelona!
+
+Listen to our smart contract dev @tienshaoku's talk or just come say hi and meet our team members 👯
+
+See you soon in Barcelona 👋
+
+https://t.co/FR8G6x2hLP",27,1,2,2022-06-19
+1507,2022-06-20 16:02:03+00:00,1538915087032930304,perpprotocol,"Learn how to set up your own market-making bot on Perp v2 🤖
+
+Our workshop walks you through all the steps to set up your own bot, automate LP'ing and start earning fees. No coding experience required!👇
+
+https://t.co/Y5MWS4aLec",23,7,13,2022-06-20
+1509,2022-06-21 09:49:44+00:00,1539183779117420546,perpprotocol,"Ever wondered what the curve wars are all about? ⚔️ 
+
+Learn more about the tokenomics behind curve wars in our Head of Operations @hanamizuki's talk at the Google Cloud x Web3.0 Forum!
+
+📆 June 22, 06:15 AM UTC 
+
+Sign up here:
+https://t.co/4y6U5IcjC9",20,3,5,2022-06-21
+1512,2022-06-22 19:14:09+00:00,1539688209671749634,perpprotocol,"Congrats @galleondao on launching the Basis Yield ETH Index $BYE!
+
+For all stable yield lovers, earn USDC denominated yield with the delta-neutral index running a basis trading strategy on Perp v2 🏴‍☠️👇 https://t.co/C5M0fIjZaS",36,14,6,2022-06-22
+1516,2022-06-23 13:12:35+00:00,1539959603773030401,perpprotocol,"📢 The @optimismPBC public RPC will be down tonight at 6pm UTC 𝐟𝐨𝐫 ~𝟑𝟎 𝐦𝐢𝐧𝐬!
+
+This means you will not be able to trade on https://t.co/I3Q67Uu4xH unless you set up your own RPC and add it to Metamask.
+
+Just follow this guide by @fiftyrevest
+
+👉 https://t.co/Ta0jGHfDvP https://t.co/ioSm3SRqPZ",18,0,5,2022-06-23
+1523,2022-06-24 11:35:11+00:00,1540297479421296641,perpprotocol,"📣 Community Call #29 Coming Soon!
+
+📅 Save the date: June 29, 1 PM UTC
+
+As usual we will bring you up to speed on the latest project news and updates.
+
+📽️ on Youtube - watch anytime if you can't make the live call! https://t.co/FmWzAlSkYt",35,7,14,2022-06-24
+1526,2022-06-27 12:21:27+00:00,1541396286359965697,perpprotocol,"🇪🇸 Calling all madrileños!
+
+Join our community member @especulacion this Wednesday to chat about Perpetual Protocol and liquidity in the derivatives market - at Crypto Plaza, where else 😎
+
+Free sign up: https://t.co/4dpFPNkKer https://t.co/LMdk6Fqpv0",29,8,14,2022-06-27
+1528,2022-06-29 19:49:26+00:00,1542233803111948288,perpprotocol,I first learned about crypto when I was...,10,2,2,2022-06-29
+1531,2022-06-30 10:58:23+00:00,1542462548099977216,perpprotocol,"Join us @tempofeng, @tongnk and our friends over at @TrueFiDAO next Wednesday to learn more about the new Perp Portofolio on @optimismPBC 
+
+📅 July 6, 1pm UTC
+📍 Twitter Spaces: https://t.co/TaAcMtJZJl https://t.co/j8iVCm7I3h",24,3,7,2022-06-30
+1538,2022-07-01 10:54:22+00:00,1542823925775835142,perpprotocol,"📢 Community DAO Proposal
+
+Users are the lifeblood of any DeFi project
+
+We aim to decentralize our current community initiatives by establishing a Community DAO 💙💚
+
+Read the proposal and share your thoughts👇
+https://t.co/ORO2DHY6rd",37,6,9,2022-07-01
+1540,2022-07-02 12:00:00+00:00,1543202830181224450,perpprotocol,"The first 5 million is the hardest
+
+What we think will bring the next 5 million to #DeFi (and what we are actively working on for Perp v2):
+
+-UI improvements
+-Better tokenomic models
+-Hardening the permissionless quality of DeFi https://t.co/vCCeMybWUY",30,2,3,2022-07-02
+1541,2022-07-04 15:30:00+00:00,1543980452591140865,perpprotocol,"Our Easy LP feature provides an intuitive way to earn yield as a maker on Perp v2
+
+LPs can express their market views with the bullish or bearish mode to receive trading fees &amp; $PERP liquidity mining rewards
+
+ Learn more in our blog post on @viamirror👇
+
+https://t.co/TsxbxLJY9T",27,10,13,2022-07-04
+1545,2022-07-05 17:34:47+00:00,1544374243651162113,perpprotocol,@renprotocol Welcome to the Optimism fam!🔴✨,6,0,0,2022-07-05
+1547,2022-07-06 11:24:39+00:00,1544643486154096640,perpprotocol,"Gm from @eth_barcelona☀️🧑‍🚀
+
+Come by our booth and grab some stickers before they're gone! https://t.co/LPtfwwRG7V",26,1,2,2022-07-06
+1550,2022-07-07 15:38:18+00:00,1545069704406044672,perpprotocol,"⏳Time is running out! 
+
+Bridge through @routerprotcol and deposit to https://t.co/I3Q67Uu4xH to win a share of the 3000 $ROUTE prize pool
+
+All details below👇 https://t.co/LHq14VtCx8",25,0,3,2022-07-07
+1551,2022-07-08 14:01:36+00:00,1545407757125390339,perpprotocol,"🗳️ Community DAO Vote 🗳️
+
+The Community DAO proposal aims to decentralize our current community initiatives and is now up on snapshot! 
+
+Cast your vote here 👉  https://t.co/eEvmYVqgHl https://t.co/lTz19U53yp",23,6,7,2022-07-08
+1553,2022-07-09 11:01:16+00:00,1545724762177011713,perpprotocol,"Thanks @eth_barcelona for an amazing conference! ☀️
+
+ICYMI - Listen to our smart contract dev @tienshaoku talk about Clean Smart Contract Practices ⏩🎦
+
+https://t.co/2hdTPHg1jl",35,0,6,2022-07-09
+1554,2022-07-11 08:09:27+00:00,1546406301223325697,perpprotocol,"📣 Community Call #30 Coming Soon!
+
+📅 Save the date: July 13, 1 PM UTC
+
+As usual we will bring you up to speed on the latest project news and updates.
+
+📽️ on Youtube - watch anytime if you can't make the live call! https://t.co/Me8xIH5Afe",31,8,10,2022-07-11
+1557,2022-07-12 21:04:05+00:00,1546963631572746240,perpprotocol,@beefyfinance @VelodromeFi @optimismPBC @thalesmarket @lyrafinance 👀🚴🏼‍♂️💨,3,0,0,2022-07-12
+1564,2022-07-13 12:32:29+00:00,1547197271770554370,perpprotocol,"Community Call #30 is starting in 30 mins! 
+
+💬 Topics Covered: 
+- Limit and stop orders are now live on https://t.co/I3Q67Uu4xH! 
+- Next stop: New liquidity mining &amp; tokenomics 
+- Tons more news and updates!
+
+Join us live on Youtube to claim your #NFT
+https://t.co/DnxMjbmvSH",21,2,3,2022-07-13
+1566,2022-07-14 10:48:19+00:00,1547533444359528448,perpprotocol,"One more day left to vote on our Community DAO Proposal 🗳️
+
+Cast your vote until Friday, July 15th at 10am UTC 
+
+👉 https://t.co/eEvmYVqgHl https://t.co/lTz19U53yp",22,1,5,2022-07-14
+1572,2022-07-15 15:05:25+00:00,1547960531536846850,perpprotocol,"ICYMI - we have an open grant for building a Perpetual Protocol Liquidity Vault
+
+More details 👉 https://t.co/fIJYFtqiXI",13,0,1,2022-07-15
+1577,2022-07-16 10:00:03+00:00,1548246071121526784,perpprotocol,"Our latest Learn article on @viamirror presents 5 strategies that traders can use when placing stop losses (and limit orders) to improve risk management and level up your trading!👇
+
+https://t.co/dIbNwfpOm7
+
+#trading #DeFi #cryptotrading https://t.co/A2ZlO3iAK0",28,3,7,2022-07-16
+1578,2022-07-18 14:01:47+00:00,1549031682468093952,perpprotocol,"(1/4)
+
+The Perp x #OPsummer Pool Party is on! https://t.co/sRrMOZUFY0",74,11,17,2022-07-18
+1582,2022-07-19 18:04:09+00:00,1549455065253318656,perpprotocol,"Who’s ready for the @Daivinity 💿🪩🎶 tonight?
+
+Come party with us 
+🪩 @MakerDAO 
+🪩 @TrueFiDAO 
+🪩 @1inch 
+🪩 @oasisdotapp https://t.co/bvTAl130EL",52,11,13,2022-07-19
+1584,2022-07-20 16:55:05+00:00,1549800072430354433,perpprotocol,Tell us about some of the newbie trader mistakes you've made👇 https://t.co/O0fyp2qxQK,22,14,9,2022-07-20
+1587,2022-07-21 15:02:05+00:00,1550134020809187334,perpprotocol,"🪐 Next Tuesday: Twitter Space with @layerswap 🪐
+
+Join @awlafortezza and @goelAnisha with the Layerswap co-founders @babgev and @bot_insane to chat about moving your crypto to L2, using DEXes and more
+
+📌 Set a reminder: https://t.co/ODq2a346Sj https://t.co/byIuqgDbh2",35,10,14,2022-07-21
+1588,2022-07-22 10:59:08+00:00,1550435266996932608,perpprotocol,@DiamondProtocol @optimismPBC Having diamond hands has never been easier https://t.co/8p7svZ2VBH,7,0,3,2022-07-22
+1592,2022-07-25 10:20:43+00:00,1551512766736998402,perpprotocol,"Reminder: Twitter Space with @layerswap
+
+Join our own @awlafortezza and @goelAnisha together with the Layerswap co-founders @babgev and @bot_insane to chat about moving your crypto to L2, using DEXes and more https://t.co/bJkrHg4uaE",26,1,5,2022-07-25
+1598,2022-07-26 14:53:23+00:00,1551943769720819712,perpprotocol,"📣 Community Call #31 is coming! 
+
+📅 Save the date: July 27, 1 PM UTC
+
+As usual, we will discuss the latest updates and features  👀
+
+📽️ Subscribe to our Youtube channel now!
+https://t.co/IiDIeYJDdC https://t.co/axdMROPAUD",17,1,3,2022-07-26
+1600,2022-07-27 09:21:37+00:00,1552222669092921344,perpprotocol,"@CryptoKameal @routerprotocol We've already partnered for Voyage 4.0 ;)
+
+https://t.co/CNFIwJOG96",3,1,0,2022-07-27
+1606,2022-07-28 14:01:21+00:00,1552655451791077381,perpprotocol,"🏴‍☠️ Ahoy, mateys 🏴‍☠️
+
+We have teamed up with @GalleonDAO to give away 15 WL spots to their @CursedPirates NFTs, a free mint collection of 5.5k unique pirates!
+
+For a chance to win
+➡️ Follow both @galleondao &amp; @perpprotocol
+➡️ Like &amp; retweet this post https://t.co/CbcEDnOfAB",82,20,50,2022-07-28
+1607,2022-07-29 07:40:24+00:00,1552921973168152577,perpprotocol,@party_fi 💃🕺,6,0,0,2022-07-29
+1612,2022-07-30 16:17:27+00:00,1553414479244922894,perpprotocol,"Happy birthday #Ethereum🎂
+
+The world's leading smart contract blockchain turns 7 years old today! https://t.co/7QmPYotswf",66,5,11,2022-07-30
+1617,2022-08-01 12:53:12+00:00,1554087853830848513,perpprotocol,"Want to dive deep into all things PERP? 
+
+Our very first Perp Interactive session is happening this Thursday - join us for a live demo and Q&amp;A! 
+
+📅 August 4th, 9am UTC
+✅ Register here: https://t.co/hhMYJs4Uhs 
+
+We want to chat with you so bring your questions 🎙️👐 https://t.co/TsBwgw7XCs",26,2,10,2022-08-01
+1619,2022-08-02 14:13:44+00:00,1554470509089366018,perpprotocol,"In an attempt to introduce smart contract updates and the rationale behind them before the implementation, we'd like to share our upcoming liquidation mechanism.
+
+From market-selling positions to position-transferring liquidations
+
+A short 🧵 https://t.co/uMEswpGc0x",37,11,14,2022-08-02
+1624,2022-08-03 21:30:11+00:00,1554942730303934464,perpprotocol,"We've been exploring the Lens garden!
+
+Our Lens profile 👇https://t.co/eWmdduhOFs
+
+All Perp v2 video tutorials + workshops now uploaded to @lenstubexyz 👇
+https://t.co/lcsBhp9UHz
+
+LFG🌿 https://t.co/0Leb8owxVK https://t.co/iAMM2IOZ1K",35,2,8,2022-08-03
+1630,2022-08-04 19:21:46+00:00,1555272805075324934,perpprotocol,"Shout-out to our Perpvangelist @nightLotus13 for the organization!
+
+Join our Discord then head over to the Poker Tournament thread under #general for more details and any tournament-related questions 🎲🎲
+
+https://t.co/0V4RudZnPM",14,1,2,2022-08-04
+1638,2022-08-05 14:02:12+00:00,1555554767476326402,perpprotocol,"(4/5)
+
+What are we working on for the coming months? Our key product releases for H2 2022 include
+
+- vePERP Tokenomics Rollout
+- More Collateral Types 🔴✨
+- USDC fee distribution 🎯 making our token a productive asset! https://t.co/134U2xiE8C",23,2,3,2022-08-05
+1646,2022-08-07 18:44:16+00:00,1556350529273462786,perpprotocol,"The prizes in $MATIC and $PERP from our listing campaign with @0xpolygon have been sent to winners' wallets.
+
+Better late than never 🫠 Thanks to everyone who participated! https://t.co/RigFHM5788",12,2,5,2022-08-07
+1647,2022-08-08 13:59:25+00:00,1556641233124065281,perpprotocol,"(1/3)
+
+📢 Referral Rewards Update 📢
+
+The first step of our vePERP tokenomics is here!
+
+We are overhauling the referral program with vePERP rewards 🔀 https://t.co/dwMqaZsK7I",40,10,11,2022-08-08
+1651,2022-08-09 10:43:40+00:00,1556954356930560003,perpprotocol,"📢 Reminder: Our new liquidation mechanism will be deployed tomorrow!
+
+There is no downtime for this upgrade, but liquidators need to deposit enough collateral to avoid failed liquidations. For details please refer to Section 3 in the blog post below👇
+
+https://t.co/pHR5dtlcut https://t.co/5i4qLu6yEo",14,1,4,2022-08-09
+1656,2022-08-10 12:30:53+00:00,1557343726376288256,perpprotocol,"GM 👋Community Call #32 is starting in 30 mins! 
+
+💬 Topics Covered: 
+- Introducing vePERP 
+- Perp Progress Report recapping H1 2022
+- liquidation mechanism update and more!
+
+Join us live on Youtube to claim your #NFT
+https://t.co/LWgrCSGmR1",30,3,4,2022-08-10
+1659,2022-08-11 09:46:04+00:00,1557664638392754177,perpprotocol,"Two more days 'till the Battle of the Perp Poker Masters Tournament!
+
+Did you register yet? https://t.co/fqL9HBIGM8",19,3,6,2022-08-11
+1665,2022-08-12 07:15:52+00:00,1557989227379523584,perpprotocol,"Did you know #2? 🤓
+
+Anyone can be a liquidity provider on Perp v2. On top of earning 80%(!) of the transaction fees you can get Pool Party rewards in $OP and $PERP 💦
+
+https://t.co/eomPM6y3h1",13,1,2,2022-08-12
+1668,2022-08-17 11:32:39+00:00,1559865789523673089,perpprotocol,"(9/11)
+
+https://t.co/x3QU689ACx is another popular tool, which shows all of the trades across different CEXes that are 6 figures or more and also displays any liquidations above $50K https://t.co/nS6PrIhUXv",10,1,0,2022-08-17
+1682,2022-08-18 12:30:00+00:00,1560242608906969088,perpprotocol,"Check out this great 🧵explaining $MNYe, the delta neutral tokenized strategy powered by Perp v2👇 https://t.co/GPPXhXV9CR",34,5,10,2022-08-18
+1684,2022-08-19 14:00:17+00:00,1560627718793834497,perpprotocol,"📣Happening in 30 mins 📣
+
+Join our BD @Raybeazy together with @StakeDAOHQ, @KeyrockTrading &amp; @MangroveDAO for @DefiEdge's panel on how to maximize DeFi yields in a bear market! https://t.co/5b7SFh9XWk",18,2,2,2022-08-19
+1689,2022-08-20 12:57:00+00:00,1560974178299351041,perpprotocol,"Over 5 million trades done on Perp v2 🎢
+
+https://t.co/KDgQTMEz3p https://t.co/s5mjByn4NO",63,18,19,2022-08-20
+1690,2022-08-22 16:00:01+00:00,1561745010625810434,perpprotocol,"The great thing about derivatives is that it's possible to generate profit no matter what the current trend is, even if the market is in 'down only' mode📉
+
+Our latest learn article examines 5 ways to profit with perpetuals when markets are bearish👇
+
+https://t.co/Zton6jsrEf https://t.co/kdwtSSvRUb",529,11,16,2022-08-22
+1691,2022-08-23 12:30:00+00:00,1562054548193255427,perpprotocol,"👀
+
+@galleondao is proposing a 3x $ETH Dynamic Leverage Index, powered by Perp v2🦾
+
+https://t.co/KdYTfvVFv1",21,2,5,2022-08-23
+1693,2022-08-24 17:00:00+00:00,1562484882743476224,perpprotocol,"( ͡🔴✨ ͜ʖ ͡🔴✨)
+
+How's your #OPSummer going? Which incentives are you taking part in?
+
+https://t.co/x5k5V6ne02",16,2,5,2022-08-24
+1697,2022-08-25 14:30:03+00:00,1562809535248576516,perpprotocol,"(2/2)
+
+Want to learn more about Optimism, the $OP token and what's next for this L2?
+
+Check out our introductory explainer article linked in the thread👇
+
+https://t.co/2podexUFsi",21,0,7,2022-08-25
+1715,2022-08-26 11:45:12+00:00,1563130438335340549,perpprotocol,"💧🔴✨Pool Party Update!💧🔴✨
+
+From Aug 28th onwards, the Pool Party rewards will be updated as follows:
+
+-ETH market: 27K $OP &amp; $PERP per week
+
+-BTC, BNB, AAVE, FLOW &amp; PERP markets: remains as 5K $OP &amp; $PERP per week
+
+-All other markets: reduced to 3K $OP &amp; $PERP per week https://t.co/WKzjzJbYUC",385,38,211,2022-08-26
+1718,2022-08-27 15:17:29+00:00,1563546247285198849,perpprotocol,@RyanSAdams Added a new use case for $OP: https://t.co/aJVM9nMdiS,12,0,1,2022-08-27
+1719,2022-08-29 13:11:21+00:00,1564239280616112129,perpprotocol,"Our Twitter Space with @DiamondProtocol is happening tomorrow!
+
+⏰ Set a reminder: https://t.co/GxfSIJQ8cN https://t.co/QwyxWc5AxP",38,2,6,2022-08-29
+1720,2022-08-30 09:56:15+00:00,1564552571896872961,perpprotocol,"Thanks to our Perpvangelist @Ablaze_101 for spreading the word about Perpetual Protocol at the @women_in_defi Codes, Chart and Cocktails event! https://t.co/BTzygZWob5",25,2,5,2022-08-30
+1725,2022-08-31 09:00:25+00:00,1564900908693164034,perpprotocol,"We're just a day away from this week's Perp Interactive!
+
+At this week's Perp Interactive, hosted by @youkaybe, you can
+- ask for a demo of any Perp v2 feature
+- ask how things work
+- hang out and chat Perp, Defi and more!
+
+Register here to participate👇
+https://t.co/ZJ2nv27JMB",28,6,11,2022-08-31
+1728,2022-09-01 13:12:56+00:00,1565326844064419843,perpprotocol,"Onboarding to Perp v2 just got even easier!
+
+Simply bridge USDC with Hyphen and check the 𝗚𝗘𝗧 𝗚𝗔𝗦 𝗧𝗢𝗞𝗘𝗡 𝗢𝗡 𝗗𝗘𝗦𝗧𝗜𝗡𝗔𝗧𝗜𝗢𝗡? option to receive USDC and some ETH.
+
+No need to bridge ETH separately! https://t.co/4UOWP17ICt",35,1,11,2022-09-01
+1732,2022-09-02 14:05:56+00:00,1565702568923258881,perpprotocol,Working on something new 🤫 https://t.co/2EzGYNOCQU,164,20,75,2022-09-02
+1735,2022-09-05 10:53:21+00:00,1566741265647128577,perpprotocol,"ICYMI 💎✨
+
+Listen to our Twitter Space with @DiamondProtocol for a deep dive into structured products, Diamond's Cash &amp; Carry Vault and their new product UniBot, including some alpha leaks
+
+https://t.co/GxfSIJQ8cN",19,2,4,2022-09-05
+1738,2022-09-06 11:30:30+00:00,1567113003446767617,perpprotocol,"What are futures contracts, how are they used and what makes them different from perpetual futures? 
+
+Find the answers to these questions and learn more about futures👇
+
+https://t.co/sgZmu9u5kU",26,7,12,2022-09-06
+1743,2022-09-07 14:31:47+00:00,1567521013948088322,perpprotocol,"(2/4)
+
+🥳A new grant was awarded to @robo_vault to build out an LP vault on top of Perp v2 https://t.co/8e9RBa7VJy",12,1,0,2022-09-07
+1751,2022-09-08 16:00:31+00:00,1567905730165964804,perpprotocol,"Calling all BUIDLers, developers and programmers👷
+
+Our open sourced technical docs are now live!
+
+Dive in to start building on top of Perp v2👇
+
+https://t.co/cmjONJYmyc https://t.co/9GmKarx8HK",48,7,13,2022-09-08
+1753,2022-09-09 13:03:15+00:00,1568223510933245955,perpprotocol,"Our monthly review for August is now live, covering:
+
+-News recap
+-Market snapshots
+-An assessment of the Tornado Cash sanctions fallout
+-Important upcoming events for the crypto markets
+
+Check it out👇
+
+https://t.co/WXWVsqyZU7",50,12,15,2022-09-09
+1754,2022-09-12 14:00:02+00:00,1569324961839386630,perpprotocol,Only one more day 🔒👀 https://t.co/Qk7F8J2s1m,57,20,18,2022-09-12
+1755,2022-09-13 17:00:01+00:00,1569732644866326529,perpprotocol,"Happy #InternationalProgrammersDay🥳
+
+Shout out to all of the 'shadowy super coders' making finance more equitable, innovative and accessible to all!",18,4,2,2022-09-13
+1764,2022-09-14 09:33:09+00:00,1569982575816642562,perpprotocol,"Join us for a deep dive into all things Perp tomorrow 🤿
+
+This is a chance for you to bring any questions you have and chat with us about Perp, DeFi and more! 
+
+📅 September 15th, 9am UTC 
+✅ Register here: https://t.co/ZJ2nv28hC9 https://t.co/WPlkxBWkZT",15,2,3,2022-09-14
+1770,2022-09-15 12:43:00+00:00,1570392742118756355,perpprotocol,"Hallo aus Berlin 👋
+
+Come find us at DuneCon by @DuneAnalytics at Funkhaus today!
+
+Who knows, you might be able to snag some special Perp merch 🪩🥨 https://t.co/LVggbqc7s1",25,5,6,2022-09-15
+1773,2022-09-16 09:32:15+00:00,1570707125843947520,perpprotocol,Check out the 🧵👇 to learn more about sustainable or real yield in DeFi! https://t.co/IH0GfHaP9e,22,2,5,2022-09-16
+1776,2022-09-19 08:39:53+00:00,1571781110434041859,perpprotocol,"♠️♥️ Battle of the Perp Poker Masters ♦️♣️ is back by popular demand and will be held on Saturday, September 24, 3:00 PM UTC! https://t.co/T8r6wUv9ud",28,11,9,2022-09-19
+1781,2022-09-20 17:00:01+00:00,1572269358880997376,perpprotocol,"Learn how to use @optimismFND's $OP token as collateral to LP or trade on Perp v2 in our latest tutorial video! 🧑‍🏫🔴✨
+
+Watch it now on @lenstubexyz👇
+
+https://t.co/mnFKWLMMfl https://t.co/LQEaI3BH48",19,0,2,2022-09-20
+1791,2022-09-21 19:57:10+00:00,1572676330927407104,perpprotocol,"Join us for a deep dive into all things Perp tomorrow 🤿
+
+This is a chance for you to bring any questions you have and chat with us about Perp, DeFi and more! 
+
+📅 September 22, 3pm UTC 
+✅ Register here: https://t.co/ZJ2nv27JMB https://t.co/FsGnrwOt57",20,0,6,2022-09-21
+1798,2022-09-22 17:00:00+00:00,1572994131684519937,perpprotocol,"We've been really impressed with the @0xCoinshift experience, which has made the management of our Gnosis safes much more efficient and a lot simpler! https://t.co/NezULdaqqF",18,1,5,2022-09-22
+1805,2022-09-23 15:01:28+00:00,1573326691258503170,perpprotocol,It's free to enter (no buy-in) and great prizes to win 🎁🃏 https://t.co/jAKfvPXho7,6,0,0,2022-09-23

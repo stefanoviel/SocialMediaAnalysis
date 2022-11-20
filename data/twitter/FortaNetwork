@@ -1,0 +1,564 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2021-09-30 19:06:25+00:00,1443653477587111938,FortaNetwork,@OpenZeppelin @demibrener @a16z @AriannaSimpson Can't wait for it!,0,0,0,2021-09-30
+5,2021-10-01 15:31:19+00:00,1443961735614844932,FortaNetwork,"Join @ajbeal, @jalex206 and other members of the Forta team today for our community call at 12:15PM ET, 9:15 AM PT. The call will be hosted on our Discord Community Call voice channel. Looking forward to building with all of you. #desec https://t.co/mPp0xnMYGg",65,5,17,2021-10-01
+8,2021-10-02 05:53:52+00:00,1444178801550716934,FortaNetwork,@woshichenjietao @ICO_Analytics @a16z @coinbase @trueventures @blockchaincap @placeholdervc @blueyard @SCB10X_OFFICIAL @DCGco @woshichenjietao we are concentrating on building our developer community right now,0,1,0,2021-10-02
+10,2021-10-03 15:11:10+00:00,1444681439165833223,FortaNetwork,@ls131419 We are solely concentrating on building our developer community and ambassador programs at this time.,0,0,0,2021-10-03
+12,2021-10-06 01:22:32+00:00,1445560069077102597,FortaNetwork,We are humbled to go from 3 followers to over 3k in less than a week. Thanks for your support and let's continue to build @FortaProtocol together! #desec #smartcontractguardians #FortKnights,73,7,15,2021-10-06
+13,2021-10-15 20:56:59+00:00,1449117120021762048,FortaNetwork,"@tkstanczak of @nethermindeth discusses the security needs of Web3, and why Forta is vital to securing their development ecosystem https://t.co/CoYiUbuk9y",12,0,1,2021-10-15
+14,2021-10-16 16:25:09+00:00,1449411099506327554,FortaNetwork,"To keep up with growth of the community and prepare for upcoming features, all Forta smart contracts will move to Polygon on Monday Oct. 18th at 12:00 UTC. Check out the details in Discord to learn more about the new SDK and how the transition will work. https://t.co/UDWqCQvgQB",34,3,8,2021-10-16
+15,2021-10-18 17:04:11+00:00,1450145699291488259,FortaNetwork,@FortaProtocol has begun moving all smart contracts to Polygon (woo)! Migration will be complete by 10/20 at 12 UTC,25,0,4,2021-10-18
+18,2021-10-20 17:51:07+00:00,1450882286199525385,FortaNetwork,"The first official Forta agent developer contest has begun! Win COMP tokens and Forta NFT’s by competing in five agent development challenges, sponsored by Compound Grants. https://t.co/iODI223R4C",27,2,7,2021-10-20
+19,2021-10-22 22:05:49+00:00,1451671159389388800,FortaNetwork,"Hey devs, our first Agent Development Contest to earn up to $7500 of COMP tokens is up and running. Submissions open until 10/27, sponsored by @CompoundGrants. Learn more here: https://t.co/iODI223R4C",34,0,9,2021-10-22
+20,2021-10-26 02:35:58+00:00,1452826305918119944,FortaNetwork,"@FortaProtocol in action: check out how Forta could have prevented @PolyNetwork2 ’s $600M hack at 
+ https://t.co/s9uDw5HtEh https://t.co/vBGVn6YWcF",31,5,9,2021-10-26
+21,2021-10-30 17:42:22+00:00,1454503960950173696,FortaNetwork,Forta is LIVE on Nov 1st! Join our next @FortaProtocol Community Call on Tuesday at 15:00 UTC with the Forta team to learn all about it! Join the Discord to attend https://t.co/0qguuwxSW7,42,1,8,2021-10-30
+22,2021-11-01 19:07:54+00:00,1455250262516326403,FortaNetwork,@FortaProtocol is LIVE! Learn how you can get runtime security for your Smart Contracts and check out all the new features here https://t.co/WDI7WmQKSF,36,3,8,2021-11-01
+24,2021-11-10 19:00:56+00:00,1458509998166724609,FortaNetwork,"Help secure the @AaveAave protocol by building Forta Agents &amp; win up to $5,000 in AAVE + Forta NFTs! Submissions are open for another 13 hours. Learn more at https://t.co/o4Be0Mp1sC",16,1,6,2021-11-10
+26,2021-11-12 01:53:18+00:00,1458976165440360453,FortaNetwork,"Forta's threat-detection ""Agents"" protect protocols by flagging suspicious activity and unusual transactions. Learn how to build your first Agent in Python or Javascript at https://t.co/SHetZ31IUG",22,0,5,2021-11-12
+27,2021-11-16 20:00:23+00:00,1460699289047351296,FortaNetwork,"Create an agent developer profile on the new Forta Connect, and start building threat-detection Agents to protect smart contracts! https://t.co/g2M2Ax92zj",24,0,3,2021-11-16
+28,2021-11-17 19:22:40+00:00,1461052186452848642,FortaNetwork,Subscribe to real-time threat-detection alerts on the new Forta Explorer portal to be notified when the alarms go off on your favorite protocols! https://t.co/qagS3HygP2,22,0,3,2021-11-17
+29,2021-11-18 21:25:25+00:00,1461445464008511490,FortaNetwork,"Secure the @OpenZeppelin contracts library &amp; win up to $5,000 in USDC + Forta NFTs by building Forta Agents! The OpenZeppelin Agent Developer Contest has now begun and will last through 11/25. Check it out at https://t.co/3ldJpGVDBx https://t.co/7pcKOJCgTa",16,1,5,2021-11-18
+30,2021-11-22 20:08:49+00:00,1462875739976396800,FortaNetwork,"Three days left to submit your entry for the Forta Agent Dev contest, sponsored by @OpenZeppelin. $5000 and NFTs up for grabs! https://t.co/3ldJpGVDBx",10,0,3,2021-11-22
+31,2021-11-23 19:18:05+00:00,1463225356404596750,FortaNetwork,"Learn how Forta runtime security agents could have detected the $100M @compoundfinance exploit in real-time, resulting from a passed governance proposal in September https://t.co/4vQn1d2uvV",18,1,5,2021-11-23
+32,2021-11-24 18:22:45+00:00,1463573822376853505,FortaNetwork,"Due to the holiday weekend in the US, we're extending the Agent developer contest #3 by a week (now ending Dec. 2nd). Can't wait to see what you build! https://t.co/3ldJpGVDBx",13,1,6,2021-11-24
+33,2021-12-02 13:08:01+00:00,1466393717250605057,FortaNetwork,"Agents are the most important component of the Forta Network. Want to learn how to write an agent? Only a few hours left to begin our first Agent Development Workshop, join us Today at 11am EST! https://t.co/9nRWCUuDGr",21,2,7,2021-12-02
+34,2021-12-04 15:11:32+00:00,1467149579489529862,FortaNetwork,Join us on Forta's Community Call #3 next Tuesday Dec7 at 1pm EST. @ajbeal will walk us through the process of subscribing to real-time security alerts on your favorite protocols. https://t.co/vtWB5Ve717,23,1,5,2021-12-04
+35,2021-12-06 19:19:48+00:00,1467936831664705541,FortaNetwork,"Congrats to the winners of the 3rd Forta Agent Developer Contest! @kovart_dev and @karmacoma_eth your threat-detection Agents are live, securing @OpenZeppelin smart contracts library. Also a big shoutout to @nfmelendez, @vvlovsky and @Rothroo4 for your amazing work!",31,0,7,2021-12-06
+37,2021-12-07 22:40:02+00:00,1468349611794382858,FortaNetwork,"If you missed the first Agent Developer Workshop, you can check it out here
+https://t.co/hZCipTWYRW",10,0,4,2021-12-07
+39,2021-12-17 21:48:02+00:00,1471960404205133830,FortaNetwork,Forta is thrilled to announce the last Agent Development Contest of 2021. Developers will compete to create agents that address two major issues in DeFi: governance proposal manipulation and phishing attempts. Contest runs from 12/17 to 12/31. https://t.co/2TGPSqJiT8 https://t.co/qP6nhOGTy1,30,0,10,2021-12-17
+40,2021-12-20 14:45:16+00:00,1472941176131133447,FortaNetwork,What are Forta “agents”? We get this a lot. Agents are the virtual security cameras running on Forta that monitor your smart contracts for threats and other risks. Check out this short tutorial to learn more about agents and why you want them https://t.co/Uf97x5QvNt,23,1,8,2021-12-20
+42,2021-12-21 12:29:20+00:00,1473269354003316736,FortaNetwork,"Today at 12pm EST join the last Forta Community call of 2021 lead by @ajbeal. See you there!
+https://t.co/iA92LRlrOF",15,0,2,2021-12-21
+44,2021-12-22 19:32:41+00:00,1473738281569460228,FortaNetwork,"Like a security camera, a Forta agent watches the open economy. There are Forta agents running today monitoring blacklisted address activity, oracle pricing, governance activity, cross-chain bridges, contract ownership changes and more https://t.co/zxaNZB9DEg",21,1,6,2021-12-22
+45,2021-12-24 15:39:03+00:00,1474404261656240132,FortaNetwork,"2021 has been an amazing year for the Forta Protocol, the first decentralized community-based security platform to prevent or mitigate smart contract exploits as they occur https://t.co/RMfZZUCmi7",30,1,11,2021-12-24
+48,2021-12-27 15:45:29+00:00,1475493043390357507,FortaNetwork,Runtime security will be huge in 2022 — and essential to securing the future of the open economy. Honored to be highlighted at @veradittakit's predictions for next year. https://t.co/06tMz5tbx5,15,0,3,2021-12-27
+49,2021-12-30 16:52:15+00:00,1476597009238970370,FortaNetwork,"“I want Forta coverage for my protocol, but how do I create an agent?” The Forta SDK has been helping developers build agents that are simple, complex and everything in between. Learn how to start developing your own agents here https://t.co/uca6GUy7RV",24,1,6,2021-12-30
+50,2022-01-03 14:02:00+00:00,1478003714619330562,FortaNetwork,"Agents are the most important component of the Forta Network. Before you publish an agent on Forta, you should test it to make sure it works properly: generating alerts when issues come up and staying quiet when they don’t. Learn how to test your agents https://t.co/JOuOrH4Tzl",21,1,5,2022-01-03
+52,2022-01-05 13:27:39+00:00,1478719846376431620,FortaNetwork,"A second set of eyes is always helpful, especially in the context of security. Our friends at @Arbitrary_Exec walked developers through the agent review process prior to publishing. Check out this tutorial to learn more https://t.co/KcCAEkf930",25,0,6,2022-01-05
+53,2022-01-06 14:42:21+00:00,1479101033867460609,FortaNetwork,The vehicles for monitoring smart contracts on Forta are called agents. Forta makes it easy to publish your agents to the network. Check out this short tutorial on how to publish an agent using Forta Connect. https://t.co/xtKPrYKvjJ,16,0,3,2022-01-06
+54,2022-01-10 13:22:29+00:00,1480530487911362562,FortaNetwork,"Just like smart contracts, agents may need to be updated periodically. Here’s a short video explaining how to manage your active agents using Forta Connect https://t.co/4HyBOy6wi8",22,0,4,2022-01-10
+55,2022-01-12 13:44:21+00:00,1481260766653300736,FortaNetwork,The best agents on Forta are quiet when nothing is happening and LOUD the moment that they are needed. Check out these tips for building successful agents with @Arbitrary_Exec https://t.co/gH2FpBzjbA,24,3,4,2022-01-12
+57,2022-01-14 22:10:08+00:00,1482112823211839492,FortaNetwork,"Join us for the next Forta Community Call next Tuesday @ 11am EST! 
+
+The call will feature presentations from Forta user @gammastrategies (glad to have them back), @arbitrary_exec, and members of the Forta Community. See you there!
+
+https://t.co/By1gi2NU9p https://t.co/g1YV6jj1KT",30,0,12,2022-01-14
+58,2022-01-17 17:50:35+00:00,1483134669147320325,FortaNetwork,Congrats to the winners of the 4th Forta Agent Developer Contest! @vvlovsky and @kovart_dev — your threat-detection Agents are live! Also a big shoutout to @miguelmtzinf and @Rothroo4 for your amazing work!,24,0,4,2022-01-17
+59,2022-01-18 16:03:39+00:00,1483470148644257798,FortaNetwork,The goal of Forta is to detect threats and other system critical issues in real time. Want to receive alerts on your smart contracts? Just subscribe! Learn how to subscribe to alerts using Forta Explorer here https://t.co/nWetRM81if,33,0,7,2022-01-18
+60,2022-01-25 15:59:30+00:00,1486005818633957384,FortaNetwork,"It’s official - Forta is going multi-chain! Teams will be able to use Forta to monitor smart contracts on @Avalancheavax, @OxPolygon and @BinanceChain.
+Read more here…https://t.co/LUWEqtN6lq",46,5,26,2022-01-25
+61,2022-01-26 13:30:41+00:00,1486330757224308740,FortaNetwork,"In another step towards decentralization, we’re also expanding our list of node runners and excited to welcome @Figment_io, @FoundryServices, @Arbitrary_Exec, @nethermindeth and @LimeChainHQ. Many more to come! https://t.co/hBVwJ5dgxa",36,0,7,2022-01-26
+62,2022-01-31 14:43:53+00:00,1488161116169682952,FortaNetwork,"The more agents running on Forta, the safer Web3 becomes. After the Forta Agent has been developed, tested, and reviewed, it's time to publish! Learn how to publish an agent using Forta Connect here https://t.co/xtKPrZ26Ij",34,1,8,2022-01-31
+63,2022-02-02 18:07:43+00:00,1488937189941694464,FortaNetwork,@teddyknox To shed some light on this— AGENTS are the pieces of logic that look for certain transaction characteristics or state changes on smart contracts. BUT SCANNING NODES are the ones running those agents and emitting the alerts.,2,1,0,2022-02-02
+65,2022-02-04 20:14:00+00:00,1489693745654157316,FortaNetwork,The @wormholecrypto attack highlights the importance  of real-time threat monitoring to keep bridges safe. Designing Forta agents to protect locked assets is a critical step in reducing risk. Great thread from @arbitrary_exec on this topic below: https://t.co/X1whlZ4Rcp,35,0,14,2022-02-04
+66,2022-02-08 03:00:20+00:00,1490883163328897026,FortaNetwork,"The next Forta Community Call is Tomorrow, Tuesday @ 10am EST.
+
+Members of @EY_Consulting's Blockchain Team will be discussing why they are excited about Forta.
+
+Add it to your calendar:
+https://t.co/Ad8ghgH3LX https://t.co/DRE7awoVnd",24,1,6,2022-02-08
+69,2022-02-10 13:03:16+00:00,1491759675930517506,FortaNetwork,"The excellent @mwkby of @OpenZeppelin has been utilizing data science and machine learning to boost the efficiency and power of the Forta Protocol. With ML, Forta will be able to scan and detect smart contract security threats before they happen https://t.co/OIDPjz3jC0",37,2,6,2022-02-10
+70,2022-02-16 14:04:24+00:00,1493949387067867137,FortaNetwork,"Forta now supports API access to alerts! This will enable protocols, DAOs, investors, and the whole community to integrate alerts in dApps and tools. To learn more about the API, please check out the docs at https://t.co/HndG2EBybc.",20,0,5,2022-02-16
+71,2022-02-17 02:52:31+00:00,1494142690392522752,FortaNetwork,Nice to see @Microsoft building some interesting stuff on Forta. Probably nothing. https://t.co/9TU3QFeSnc,37,2,9,2022-02-17
+74,2022-02-21 19:41:30+00:00,1495846158211731462,FortaNetwork,"Cool to see Forta showing up in the job descriptions of our users. 
+
+@GammaStrategies is looking for full-time Forta / Defender support. Great opportunity to join a great team pushing the boundaries of DeFi.
+
+https://t.co/OhugyxGp1n",24,1,5,2022-02-21
+75,2022-02-22 17:29:20+00:00,1496175287624769540,FortaNetwork,"Join thought leaders @delitzer from @Nascentxyz, @Opolis’ @0xJoshuaSL and @LewellenMichael from the @OpenZeppelin crew for a Roundtable discussion about the Biggest Challenges in Smart Contract Security this coming Thursday 2/24 at 11.30am EST.
+https://t.co/PvklugSbwt https://t.co/d7DkqwPGiU",104,8,35,2022-02-22
+76,2022-02-24 13:50:27+00:00,1496844977225486342,FortaNetwork,"Today at 11.30 EST join @delitzer, @LewellenMichael and @ajbeal for a Roundtable discussion about the Biggest Challenges in Smart Contract Security.
+https://t.co/PvklugSJm1",22,2,10,2022-02-24
+77,2022-03-01 20:10:05+00:00,1498752456091648006,FortaNetwork,"Forta is happy to announce the 1st Agent Development Contest of 2022, sponsored by @SolaceFi!
+Devs will compete to create agents that address five challenges within the Solace protocol, with a prize of $1,000 for each winning submission. It begins today!
+
+https://t.co/ChwVJOxzdj https://t.co/GbRqFjbfB9",23,2,10,2022-03-01
+78,2022-03-04 21:30:10+00:00,1499859774283812866,FortaNetwork,"If you want to go deeper and analyze past alerts and activities, please check out the Forta SDK docs at https://t.co/msOEFkxmKV",7,0,0,2022-03-04
+88,2022-03-07 20:11:01+00:00,1500927017759526916,FortaNetwork,"Next Community Call is Tomorrow @ 10am EST!
+
+Feat. security research insights by @cseifert from @Microsoft, @0xconvo CEO @anuditnagar on integrating Forta into their metrics, @a16z’s @blauyourmind on the agent dev experience and @mwkby on the upgraded API
+
+https://t.co/ewcl23mCvO https://t.co/osVZnIMGX5",20,0,5,2022-03-07
+89,2022-03-08 14:58:49+00:00,1501210837368938496,FortaNetwork,Community Call #7 https://t.co/9KG2w1yI1Z,18,0,6,2022-03-08
+91,2022-03-15 15:27:49+00:00,1503754850265452556,FortaNetwork,"We're excited to announce that @Instadapp, one of the true trailblazers in DeFi, is using Forta to monitor protocol health and security.
+
+https://t.co/aL4Gg4Z3z7 https://t.co/3DtUSLgMAk",89,6,31,2022-03-15
+92,2022-03-16 01:33:59+00:00,1503907399484141568,FortaNetwork,"The first public RFP for Forta smart contract monitoring is live! @AcrossProtocol and @UMAprotocol are encouraging interested developers to submit a proposal.
+
+Which protocol will be next?
+
+https://t.co/MIjiWGkFQI",24,2,8,2022-03-16
+95,2022-03-17 20:49:28+00:00,1504560571936563200,FortaNetwork,"The future is multi-chain. 
+
+That is why Forta continues to expand into the emerging landscape of new L1s and L2s, bringing runtime monitoring and anomaly detection to 3 new chains: @fantomfdn, @arbitrum, and @optimismpbc. 
+
+That brings the total to 7. More to come.",47,3,11,2022-03-17
+98,2022-03-21 14:33:16+00:00,1505915450995134466,FortaNetwork,"Check out this video from @Microsoft researcher @cseifert on how Forta Agents could have swerved the famous BadgerDAO attack last autumn. 
+
+Just a hint of what is to come in a more secure web3.
+
+https://t.co/9za3fPJvih",23,1,9,2022-03-21
+99,2022-03-22 12:53:45+00:00,1506252791815315456,FortaNetwork,"Web3 is a new world in security, with different challenges and opportunities than Web2 - but many of the same methods will carry over. 
+
+@cseifert from @Microsoft compares both here,
+https://t.co/MkzdBA2nwi.",28,0,10,2022-03-22
+100,2022-03-24 14:58:04+00:00,1507008852935409669,FortaNetwork,"Data scientist @mwkby has rolled out the new version of the Forta API, with more adaptability and features than ever before. 
+
+Check out her presentation on it here:
+https://t.co/l8OEpW7Rld",26,1,8,2022-03-24
+101,2022-03-30 13:09:41+00:00,1509155905908228096,FortaNetwork,"Excited to announce @UMAprotocol is using Forta to monitor critical operations of their optimistic oracle.
+
+Learn more about it here - https://t.co/wTGoMxTiBV https://t.co/cYWKJpPzQ9",80,3,25,2022-03-30
+102,2022-03-31 12:49:47+00:00,1509513285892247557,FortaNetwork,"NFT expert @blauyourmind (aka @x0rart) of @a16z showcases a new scam affecting the #NFT space — sleepminting. This is when a hacker makes a contract appear as if it came from a trusted NFT wallet to then sell it to unsuspecting buyers.
+
+Learn more here -
+https://t.co/AjIUuXbTCr",41,2,11,2022-03-31
+107,2022-04-04 13:19:43+00:00,1510970371855597569,FortaNetwork,"Join thought leaders @0xPolygon's CISO @Mudit__Gupta, @jdshutt from @UMAprotocol and @AcrossProtocol, @a16z's @nassyweazy and @Microsoft researcher @cseifert for a Roundtable discussion about Security Bridging Tomorrow at 1pm EST.
+
+Set a reminder -
+https://t.co/u9OPjnuXE6 https://t.co/KeWoND65fN",79,3,31,2022-04-04
+108,2022-04-05 14:37:46+00:00,1511352398790410257,FortaNetwork,"Forta has been a community-driven protocol from the beginning. 
+
+Today, governance over Forta is officially endowed to the Forta Foundation: an independent, non-profit organization that will enable community governance. 
+
+Read more -
+https://t.co/G4uiHbUyOe https://t.co/S71w1FAYgW",35,2,15,2022-04-05
+111,2022-04-06 13:00:46+00:00,1511690378981875712,FortaNetwork,"The @0xConvo is using the Forta API to enhance their reputation-scoring platform for web3. CEO @anuditnagar shared his experience with Forta and touched on some fascinating topics. 
+
+Check out it here -
+https://t.co/hR9YDEE0Wl",31,7,16,2022-04-06
+112,2022-04-07 20:46:53+00:00,1512170069123551245,FortaNetwork,"The Ethernaut is now featuring Forta!
+
+The renowned smart-contracts CTF game from @OpenZeppelin now lets you build Forta bots in-game 🕹
+
+The challenge? Figure out a way to protect balance using detection bots, inspired by @compoundfinance audit 📈
+
+Devs, come and get it https://t.co/FOVELxVNvy",20,0,3,2022-04-07
+119,2022-04-08 15:01:14+00:00,1512445470815457280,FortaNetwork,"Another big step towards decentralization as the new Network health page is live. View all the supported chains state and stats - including uptime and bots being run.
+
+Start here -
+https://t.co/qaCEcdF0UL https://t.co/euFE5nqh2u",22,0,6,2022-04-08
+120,2022-04-13 22:29:40+00:00,1514370260337524736,FortaNetwork,"Earn a Forta badge by hacking the new Ethernaut level by Tuesday, 4/19 - while learning how to build a Forta detection bot 🤖 
+
+https://t.co/iPn1ZmEPMr… https://t.co/zCcV2JaxfB",26,0,10,2022-04-13
+121,2022-04-14 21:44:19+00:00,1514721234805829646,FortaNetwork,"Monitoring for phishing attacks can save Web3 millions of dollars.
+
+Read about how Forta could have helped @BadgerDAO on the $120 million attack -
+https://t.co/Nl6o9JTUn8 https://t.co/yjHjgsyKxI",22,1,5,2022-04-14
+122,2022-04-15 14:24:31+00:00,1514972945181028355,FortaNetwork,"Excited to announce @LiquityProtocol is using Forta to monitor protocol health and stability.
+
+https://t.co/JyQQ4gx5ZW https://t.co/MTUmN2qmYU",43,1,15,2022-04-15
+123,2022-04-17 23:51:22+00:00,1515840374450892802,FortaNetwork,"5/5 Monitoring on-chain transactions is not optional in the context of a comprehensive security approach.
+
+Learn more at https://t.co/Hprz0Y064s and get started using Forta.",11,0,1,2022-04-17
+128,2022-04-18 14:12:41+00:00,1516057131983650822,FortaNetwork,"Unveiling the FORT token.
+
+The cryptoeconomic structure to secure Forta, Web3’s real-time security &amp; operational monitoring network.
+
+Learn about how FORT fuels the growing ecosystem -
+https://t.co/P4XnxCm2CI",528,47,276,2022-04-18
+133,2022-04-19 14:18:00+00:00,1516420857664573462,FortaNetwork,"Excited to welcome @cseifert as Forta’s first Researcher-in-Residence.
+
+After 14 years at @Microsoft, Christian will lead Forta’s community efforts on research &amp; development to monitor all transactions and protect all assets in Web3.
+
+Read more 👇
+https://t.co/OP2i2PD7IV",40,1,7,2022-04-19
+136,2022-04-20 19:44:29+00:00,1516865404735479810,FortaNetwork,"$500+ million hack on @AxieInfinity and nobody noticed for 6 days! Additional funds were put at risk due to a delayed response.
+
+@cseifert shares all the details on the attack and how Forta could have prevented it 👇     
+https://t.co/AJbjTd7OZV",25,0,7,2022-04-20
+138,2022-04-21 00:18:02+00:00,1516934245473824769,FortaNetwork,"LIVE NOW!
+
+Join the Forta Roundtable discussion on Web2 vs Web3 security 👇
+https://t.co/nKyGASjAYM",16,0,2,2022-04-21
+144,2022-04-25 23:55:16+00:00,1518740456087203841,FortaNetwork,"7/7 If you are a protocol with a token, create awareness about these scams with your community and build a detection bot on Forta that monitors for these scam impersonation tokens. 
+
+Go to https://t.co/rMEwGcamMF to get started.",4,0,0,2022-04-25
+151,2022-04-26 14:57:42+00:00,1518967561194549249,FortaNetwork,"Developers, are you ready to build? 🚀
+
+Gain a high-level understanding of Forta detection bot development - including development workflows, dApps and SDKs.
+
+Read more here 👇
+https://t.co/Ix88HR31nW",29,2,12,2022-04-26
+152,2022-04-27 15:01:31+00:00,1519330911745150977,FortaNetwork,"Devs, are you ready to protect Web3?
+
+Join the Forta Bot Development Contest and win up to 6,000 USDC and Forta NFTs to create the bots that will prevent the next big hacks
+
+Contest runs from April 27th to May 4th
+
+Learn about the challenges here👇
+https://t.co/n0g6gft5hy https://t.co/RRteRbOQXe",27,0,13,2022-04-27
+153,2022-04-28 15:05:54+00:00,1519694402679095297,FortaNetwork,"Curious how the largest DeFi protocols use Forta? 
+
+Tune in Today at 5pm EST to hear @Instadapp co-founder @smykjain explain what they monitor using Forta and why.
+
+Set the reminder 👇
+https://t.co/iSZFqvjV1V https://t.co/Fj1f4CM3Ry",35,2,14,2022-04-28
+156,2022-04-29 21:03:35+00:00,1520146804037332994,FortaNetwork,"Stay up to date on the Forta ecosystem with the Forta Newsletter 🚀
+
+Read Forta's past newsletters and subscribe for future updates 👇
+https://t.co/AGXr9986Xr",22,3,4,2022-04-29
+158,2022-05-02 13:40:52+00:00,1521122555138093057,FortaNetwork,"Web3 collaborative approach to security relies on the Community, and @_iphelix from the @Coinbase Threat Intelligence team understands it. 
+
+Stay tuned for coming Roundtable discussions on Web3 monitoring 👇
+https://t.co/Ad8ghgYFax https://t.co/ICb32jZ1uN",22,2,6,2022-05-02
+161,2022-05-03 21:40:56+00:00,1521605754360414209,FortaNetwork,"Forta’s alerts illuminated the entire Web3 Kill Chain of the $80 million reentrancy attack on @RariCapital 
+
+Learn how Forta flagged the hack's Funding, Preparation, Exploitation and Money Laundering👇 https://t.co/VU2czoEvXd",44,4,12,2022-05-03
+175,2022-05-04 13:59:39+00:00,1521852056516112384,FortaNetwork,"Live NOW! Join thought leaders @jonwu_, @DuncanWestland, @LewellenMichael, @henrlihenrli  and @randhindi for a Roundtable discussion about On-chain Privacy.
+
+https://t.co/4w3CvTBAxi",20,1,8,2022-05-04
+178,2022-05-05 13:18:32+00:00,1522204094835875840,FortaNetwork,"The founder of @ZenGo, CEO @TalBeerySec, believes real-time monitoring can help prevent exploits - and assessing the damage after the fact is not enough.
+
+Stay tuned for coming Roundtable discussions on Web3 monitoring 👇
+https://t.co/Ad8ghgYFax https://t.co/6arWYkD6VO",20,0,5,2022-05-05
+181,2022-05-06 13:47:29+00:00,1522573770791211008,FortaNetwork,"After 14 years at the cutting edge of Web2 security at @Microsoft, @csiefert is researcher-in-residence for the Forta Community - and believes a diverse community will succeed in protecting Web3 from hacks
+
+Stay tuned for coming Roundtable discussions 👇
+https://t.co/Ad8ghgYFax https://t.co/9MlzC7ixCA",32,1,16,2022-05-06
+182,2022-05-10 21:05:57+00:00,1524133664065527808,FortaNetwork,"Forta is excited to announce that @LidoFinance, one of the largest DeFi protocols ranked by funds locked, is using Forta to detect critical security and operational risks in real-time
+
+Learn more about what they monitor and why 👇
+https://t.co/LPCSi0gXIx https://t.co/NTooSiZbEn",73,4,19,2022-05-10
+184,2022-05-11 13:07:55+00:00,1524375751524552704,FortaNetwork,"Join thought leaders @HughKarp founder at @NexusMutual, @sherlockdefi's co-founder @jack__sanford and Jacob Decker from @WoodruffSawyer for a Roundtable discussion about DeFi insurance and Security Today at 6pm EST
+
+Set a reminder 👇
+https://t.co/rirbYp6uXE https://t.co/7P87YQiExs",44,1,27,2022-05-11
+189,2022-05-12 13:19:08+00:00,1524740963222142978,FortaNetwork,"Excited to announce @AlpacaFinance, the largest lending protocol allowing leveraged yield farming on BNB Chain and Fantom, is using Forta to monitor protocol-critical operations
+
+Learn more about what they monitor and why 👇
+https://t.co/tIGOKltBsT https://t.co/a5l8W9ahsd",46,4,19,2022-05-12
+191,2022-05-17 03:59:37+00:00,1526412094190628864,FortaNetwork,"Yet another DeFi hack just happened. And Forta detected it.
+
+This time @FEGtoken fell victim to a $590k attack. Forta raised alerts at each stage of the hack, culminating in a critical alert tied directly to the FEGToken 👇
+https://t.co/J0Ueoyc92o https://t.co/XtcYy2SU0D",40,2,10,2022-05-17
+197,2022-05-18 21:15:20+00:00,1527035131260809218,FortaNetwork,"Excited to announce @FlexaHQ is using Forta to monitor system-critical operations 🚀
+
+Learn more about what they monitor and why 👇
+https://t.co/l6IttKczVh https://t.co/MHaKnEhQ0m",216,6,65,2022-05-18
+203,2022-05-19 03:40:34+00:00,1527132076520112129,FortaNetwork,"For Web3 to scale from billions to trillions, and traditional finance merges with DeFi, Security Standards must evolve
+
+@EY_Consulting Blockchain Summit featured Forta and real-time monitoring 👇 https://t.co/7BFqgYRzFf",26,3,7,2022-05-19
+206,2022-05-23 18:40:08+00:00,1528808011115991042,FortaNetwork,"Congrats to the winners of the Forta Bot Development Contest 🏆 
+
+@realsoptq, @kovart_dev, @happy18906630, @vvlovsky, and @zytfo — your agents are live, protecting Web3
+
+Subscribe to these and all Forta Detection Bots 👇
+https://t.co/PGYggbaSQY",36,2,7,2022-05-23
+207,2022-05-24 20:50:53+00:00,1529203305146159104,FortaNetwork,"Join thought leaders @calchulus from @impossiblefi, @claudijd security at @jump_, @opensea's @z0age, and @OpenZeppelin's engineer @holajotola for a Roundtable discussion about The Pause Button for  Emergency Response Tomorrow at 10am EST
+
+Set a reminder 👇
+https://t.co/1Grl3A4FOj https://t.co/Ao3h4IL7VH",28,0,8,2022-05-24
+211,2022-05-25 14:35:08+00:00,1529471131018731524,FortaNetwork,"Live NOW 🚀
+
+Join thought leaders @calchulus, @claudijd, @holajotola and @emilianobonassi for a Roundtable discussion about The Pause Button for Emergency Response 👇
+https://t.co/EKl55kioZ2",18,3,6,2022-05-25
+213,2022-05-26 12:54:16+00:00,1529808136458092546,FortaNetwork,"🗓 Join @cseifert for Blockchain Security 101 Workshop and learn about Web3 security and how to use Forta to monitor for attacks 
+
+No previous Web3 experience required, only curious minds 🚀
+
+Set the reminder 👇
+https://t.co/03Dsk3K4mU https://t.co/wwtXEcCnVu",23,1,12,2022-05-26
+216,2022-05-27 19:18:18+00:00,1530267169220710401,FortaNetwork,"Over 1,000 scan node operators participating worldwide in Fortification Network to further Decentralize, Harden and Scale Forta 🚀
+
+Read more👇
+https://t.co/v9QdfuB2Mc",69,8,27,2022-05-27
+217,2022-05-30 22:58:02+00:00,1531409627447009284,FortaNetwork,"Stay on top of your Web3 investments 🔍
+
+🗓 Join thought leaders @theklineventure who launched @graphprotocol and @MessariCrypto's founder @twobitidiot for a Roundtable discussion about Monitoring for Crypto Investors Tomorrow at 1pm EST
+
+Set a reminder 👇
+https://t.co/XZXjLs5XGc https://t.co/3r1ZNpRyr9",38,5,22,2022-05-30
+218,2022-05-31 23:05:48+00:00,1531773973809270784,FortaNetwork,"The very first Forta Proposal is live on the Forum - and voting will open Tomorrow 🗳
+
+The Foundation is asking the community of FORT token holders if the Network is ready for permissionless launch and to elect the initial governance council
+
+Read FP-1 👇
+https://t.co/2pJLA98pAe",49,4,15,2022-05-31
+225,2022-06-01 12:56:55+00:00,1531983131145818114,FortaNetwork,"Join the Forta Community Call today at 11am EST to learn more about the very first Forta governance Proposal 📜
+
+Set the reminder 👇
+https://t.co/CZzfmSF4o4 https://t.co/3pVpwKGJ6T",32,11,6,2022-06-01
+227,2022-06-02 21:10:22+00:00,1532469696750026752,FortaNetwork,"Machine learning can bring tremendous value to the security of Web3 🤖
+
+By leveraging ML, Forta can detect attacks with increased precision while delivering more relevant and actionable alerts not otherwise possible
+
+Learn more and develop on Forta 👇
+https://t.co/G8qp8IYqyx",53,3,20,2022-06-02
+228,2022-06-06 16:19:27+00:00,1533846037659623424,FortaNetwork,"The Forta community approved the first Forta Proposal with overwhelming support 🚀
+
+Over 600 FORT token holders agreed the Forta Network is ready for permissionless launch
+
+Soon, anyone will be able to get FORT tokens and contribute in the Network  ⤵️
+https://t.co/ZZsVI99Awx https://t.co/8VhP1qk02M",70,7,25,2022-06-06
+230,2022-06-07 19:15:51+00:00,1534252819745849344,FortaNetwork,"For Web3 to scale security standards must evolve 🔒
+
+Forta and @a16z partnered to create a Security Framework that founders, developers and investors should consider when creating and evaluating a secure protocol
+
+Enter real-time monitoring ⤵️ https://t.co/zjeMeEcCKm",37,2,10,2022-06-07
+235,2022-06-08 15:02:59+00:00,1534551570242756610,FortaNetwork,"More than $1 billion was lost to hacks so far in 2022 🚨
+
+For Web3 to scale, security standards must evolve 🔒
+
+Enter Forta, the real-time detection network for security &amp; operational monitoring of blockchain activity 
+
+Join the Forta Community to protect Web3 ⤵️👇 https://t.co/uNfM0gRzzO",56,4,18,2022-06-08
+243,2022-06-09 14:28:07+00:00,1534905181510545408,FortaNetwork,"Are you a Web3 dev? 
+
+You might be eligible for the FORT airdrop!
+
+Over 6,000  devs from more than 900 GitHub repos will be able to claim FORT tokens
+
+Check eligibility here ➡️ https://t.co/AONOdX4atJ https://t.co/CafJ24ZcFx",76,2,14,2022-06-09
+244,2022-06-10 21:57:39+00:00,1535380701553430528,FortaNetwork,"The Forta community is running full steam ahead!
+
+@kovart_dev, @vincent_alessi, @vvlovsky explored how to turn common blockchain events into anomaly detection findings through time series analysis
+
+Learn more in Forta’s latest blog 👇
+
+https://t.co/rkPJNURPfE",64,4,21,2022-06-10
+245,2022-06-15 15:59:14+00:00,1537102439949688832,FortaNetwork,"Learn more about the FORT Token and Airdrop, Forta’s Permissionless Launch, and how to join the Forta ecosystem today
+
+https://t.co/vWLucX9ir7",73,11,17,2022-06-15
+250,2022-06-17 17:56:31+00:00,1537856730075385856,FortaNetwork,"Join the Forta Contest, earn FORT rewards 🏆
+
+The latest Bot Development Contest offers up to USD 4,000 worth of FORT to create bots that simulate suspicious contracts to prevent the next DeFi hack
+
+Contest runs from June 17th to July 8th 📆
+
+Challenge ⤵️
+https://t.co/vG6v9YsuzL https://t.co/ydSpKMRDig",94,5,31,2022-06-17
+252,2022-06-18 13:52:35+00:00,1538157731349151746,FortaNetwork,"Crypto winter may be here, but attackers are not hibernating ❄️
+
+Last Thursday, an attacker exploited @InverseFinance with a flash loan-assisted-price-manipulation attack resulting in a loot of USD 1.2M
+ 
+Forta illuminated each stage of the attack 🧵👇 https://t.co/TF99fKToqb",108,4,36,2022-06-18
+257,2022-06-21 19:36:48+00:00,1539331519084388352,FortaNetwork,"Billions worth of assets secured in Gnosis Safes are monitored by Forta
+
+Now, the Forta Network joins the first cohort of @gnosisSafe Guardians 🔐 https://t.co/jvd9ZXzxf4",74,3,18,2022-06-21
+260,2022-06-23 00:41:55+00:00,1539770694287839232,FortaNetwork,"Forta supports seven chains and counting! 
+
+Monitor your smart contracts and wallets on @ethereum, @BNBCHAIN, @avalancheavax, @0xPolygon, @FantomFDN, @optimismPBC, and @arbitrum.
+
+What chain should Forta support next? 👀 https://t.co/FfPhxtp34T",145,42,28,2022-06-23
+261,2022-06-24 13:00:01+00:00,1540318829242449921,FortaNetwork,"Forta’s Threat Detections Kits now allow anyone to easily monitor any protocol, right out of the box 📦
+
+🌎 Derived from and tested on real world hacks, these kits streamline implementation to provide modular security for protocols
+
+https://t.co/68IOLphZsk",73,5,21,2022-06-24
+262,2022-06-28 14:20:05+00:00,1541788530833330178,FortaNetwork,"Curious how the largest DeFi protocols use Forta? 
+
+Tune in Today at 12.30am EST to hear @Umee_CrossChain's founder @bond_dog_51 explain what they monitor using Forta and why
+
+Set the reminder ⤵️
+https://t.co/VMarKo5sv3 https://t.co/tTaaM2uqwP",153,15,58,2022-06-28
+264,2022-06-30 13:42:05+00:00,1542503745065476096,FortaNetwork,"@Alex0011221 @PolyNetwork2 The @FortaNetwork acts like a giant security camera and alarm system for Web 3, monitoring on-chain activity for threats and anomalies. DeFi, NFT and other Web 3 projects can use Forta to monitor their own smart contracts in real-time.",0,0,0,2022-06-30
+269,2022-07-01 16:43:06+00:00,1542911684528193536,FortaNetwork,"🚨PSA: The Foundation is fully aware of the issue and actively addressing the situation, expecting a full resolution soon
+
+For more details, head over to the node-support channel in Forta’s Discord 👇
+
+https://t.co/6ytJk4h4KW https://t.co/Nfs46ZkNOe",26,3,7,2022-07-01
+270,2022-07-05 21:58:32+00:00,1544440619547865088,FortaNetwork,"Properly balanced cryptoeconomic incentives are essential for protecting against malicious actions
+
+The Forta Governance Council has approved the increase of minimum node stake to 2,500 FORT tokens starting September 30th, 2022
+
+Read details in the blog 👇
+https://t.co/1lslqM4Szz",65,2,21,2022-07-05
+271,2022-07-08 20:21:20+00:00,1545503323100291075,FortaNetwork,"🕵️‍♂️ This update also includes the ability to run a local scan node, helpful for testing or private node usage!
+
+Local nodes do NOT require staking and are accompanied by extra features. 
+
+Read more about local nodes in the Forta docs 👇
+https://t.co/eFU2CIh1G3",19,0,3,2022-07-08
+273,2022-07-12 00:38:02+00:00,1546655085173694465,FortaNetwork,"Two major partnerships, $100,000 on the line, scan node update roundup, and more in Forta’s latest newsletter 📬
+
+Sign up to Forta’s Substack to make sure you never miss a beat👇
+https://t.co/AGXr98QvyR",44,4,12,2022-07-12
+277,2022-07-13 18:54:14+00:00,1547293341397635072,FortaNetwork,"Going to @EthCC next week?
+
+Make sure to hear @cseifert's talk on comprehensive security strategies for Web3🗣️ https://t.co/fb1c99S120",33,2,12,2022-07-13
+284,2022-07-14 17:02:44+00:00,1547627670925484036,FortaNetwork,"LIVE NOW 🔥
+
+Join @DeFi_Dad, @TalBeerySec, @hushedfeet, @cseifert and @ajbeal for a Roundtable discussion on the Security of Crypto's End Users ⤵️
+
+https://t.co/spxpx2IRdP",22,2,5,2022-07-14
+287,2022-07-15 17:54:26+00:00,1548003065738842113,FortaNetwork,"Bear markets are the best time to build! 🏗️
+
+The Forta Foundation is hiring a Product Manager to help innovate and execute product initiatives across Forta’s decentralized community
+
+Have what it takes? Apply below 👇
+https://t.co/BPBX6dN2fH",26,0,6,2022-07-15
+289,2022-07-18 20:07:15+00:00,1549123657414295552,FortaNetwork,"Monitor your wallet ✅
+Monitor your project’s smart contracts ✅
+
+Check out Forta’s “Get Started” page to kickstart your Web3 security journey! 
+
+https://t.co/LRb4qbBK7c",47,3,14,2022-07-18
+291,2022-07-19 23:14:43+00:00,1549533222807019521,FortaNetwork,"Congrats to @the_nvn, @realsoptq, and @kovart_dev, the winners of the seventh Forta Bot Developer Contest: Attack Simulation! 🏆
+
+What should be Forta's next challenge? 🤔 https://t.co/feoOXggA0T",30,2,9,2022-07-19
+292,2022-07-20 22:46:11+00:00,1549888427327336448,FortaNetwork,"All of Forta’s developer resources, all under one roof 🏠
+
+Check out the new and improved developer resources page to get started building with Forta today 👇
+
+https://t.co/A9UKG2JVIZ https://t.co/q1vdztQTkJ",55,6,24,2022-07-20
+293,2022-07-21 20:39:25+00:00,1550218913555763200,FortaNetwork,"🏛️ Voting on a new Forta proposal will begin next Tuesday, July 26th 
+
+The proposal seeks to establish a bot staking/slashing program and a 100K FORT grant program for bot developers via @Gitcoin
+
+View the proposal and take part in the discussion 👇
+https://t.co/41JVQ9pBDn",41,2,10,2022-07-21
+294,2022-07-22 20:34:17+00:00,1550580010116796416,FortaNetwork,"📺 Watch @cseifert and Kaweepol Panpheng's fireside chat here! 👇
+
+https://t.co/cOrsAkcOoe https://t.co/8mIfQumVKl",30,1,4,2022-07-22
+295,2022-07-26 21:20:32+00:00,1552041199061516289,FortaNetwork,"Forta is calling available @DuneAnalytics wizards to help track the Network’s growth via a Dune Analytics dashboard ☎️ 📈
+
+Follow the link in @Dune_Bounties' tweet for more instructions, there could be a FORT bounty in it for you! https://t.co/MB75QU5FKI",35,2,6,2022-07-26
+297,2022-07-27 23:09:37+00:00,1552431042526838784,FortaNetwork,"Learn how to use the most powerful and beginner friendly tool for Detection Bot development yet! 🧙‍♂️🏗️
+
+Tomorrow, July 28th at 12pm EST, Forta is holding a Bot Wizard Workshop with @haseebrrr
+ 
+Set a reminder 👇
+https://t.co/OM6CePaHN6 https://t.co/rLfl7eZl2p",46,2,14,2022-07-27
+298,2022-07-28 21:45:56+00:00,1552772367146893313,FortaNetwork,"Want to know how top protocols leverage Forta? Check out the Forta App’s Discover page 👇
+
+https://t.co/yq1l5l2R5e https://t.co/sNNS1mp8pg",44,3,14,2022-07-28
+300,2022-07-29 12:57:36+00:00,1553001798465634304,FortaNetwork,"+$3.4 billion now secured by Forta 💪
+
+Leading decentralized exchange and automated portfolio manager, @BalancerLabs, is now using Forta for security and operational monitoring ⚙️🔐
+
+Read more about the use case and subscribe to Balancer’s alerts ⤵️
+https://t.co/8XTMmNfywz",59,5,16,2022-07-29
+302,2022-08-01 17:47:03+00:00,1554161803545829376,FortaNetwork,"Getting started with Detection Bot development? 🤖
+
+Make sure you read the Best Practices page in the docs 👇
+
+https://t.co/Pk73UexUI3",35,2,16,2022-08-01
+303,2022-08-02 03:57:12+00:00,1554315354247086081,FortaNetwork,"Tomorrow, August 2nd at 11am EST, Forta will hold its ninth community call ☎️
+
+The call will cover: bot staking, node staking, bot development grants, new bots by Limechain, recent forum proposals, and more!
+
+Join via Discord 👇
+https://t.co/qFFnNlopWk https://t.co/BkYG710G4q",24,1,11,2022-08-02
+305,2022-08-04 22:53:34+00:00,1555326106286411783,FortaNetwork,"All of the above alerts that fired during the @nomadxyz_ hack can be customized and deployed via Bot Wizard
+
+Before you get hacked, Bot Wizard can flag it ⤵️
+
+https://t.co/Hjk0KgqHoT",15,1,6,2022-08-04
+311,2022-08-08 21:06:48+00:00,1556748787414024192,FortaNetwork,"Forta’s mission is to monitor every transaction on the blockchain 🛡️
+
+What are you doing to secure Web3 (or maybe just your own wallet)? 👀",59,11,17,2022-08-08
+312,2022-08-09 22:48:24+00:00,1557136743731630080,FortaNetwork,"To highlight useful and novel detection bots, Forta is launching a bot showcase series! 🤖 
+
+Today’s bot is the Social Engineering Bot, created to detect suspicious contract addresses and inspired by a recent @ConvexFinance contract spoof attack
+
+https://t.co/p0CVMNPA65",41,1,15,2022-08-09
+313,2022-08-10 18:35:58+00:00,1557435602441711617,FortaNetwork,Tune into tomorrow's AMA to learn how to monitor and secure the @0xPolygon network with @cseifert and @ajbeal 🎙️ https://t.co/w4tIWB9gHt,36,0,15,2022-08-10
+314,2022-08-11 16:27:56+00:00,1557765771098394624,FortaNetwork,"Join @RyanWegner15 lead security engineer @0xPolygon, @jonwu_ growth lead @aztecnetwork, and Forta’s @ajbeal for a Roundtable discussion on Privacy and Tornado Cash today at 2:30pm EST
+
+Set a reminder ⤵️
+https://t.co/9iHPqKjpK3 https://t.co/osgRllPnKT",42,4,13,2022-08-11
+316,2022-08-12 19:06:30+00:00,1558168064356524033,FortaNetwork,"Discussion on Forta’s slashing policy is heating up 🔥
+
+Join the conversation 👇
+https://t.co/nGtUZqEV3q",35,1,7,2022-08-12
+317,2022-08-15 16:09:34+00:00,1559210702010601472,FortaNetwork,"Two hours until you can learn how to monitor and protect smart contracts on @arbitrum’s L2! 🔒📜
+
+Tune in today at 2pm EST 👇 https://t.co/PrnHgidlhw",42,2,10,2022-08-15
+318,2022-08-16 21:57:58+00:00,1559660764742332416,FortaNetwork,"This process doesn’t have to be binary
+
+For example, a Forta detection bot could take the existing OFAC sanctions list and produce a block list of all accounts that interacted with a sanctioned address more than 3 times or bidirectionally instead of a static blanket list",12,1,3,2022-08-16
+321,2022-08-17 18:59:07+00:00,1559978145528221696,FortaNetwork,"Reentrancy attacks are a common hack detected by Forta, what will be the next big attack vector for smart contracts? 🤔 https://t.co/QyxlQ2mQDD",41,6,14,2022-08-17
+322,2022-08-19 18:30:36+00:00,1560695746021580800,FortaNetwork,3 ways machine learning can help you build powerful threat detection – and how to get started with Forta detection bots 🧵,38,5,17,2022-08-19
+332,2022-08-23 22:30:24+00:00,1562205643762647041,FortaNetwork,"🛡️ Forta is now protecting @pStakeFinance's liquidity protocol for staked assets 🔒
+
+Three Forta detection bots are now monitoring pStake’s deposits, withdrawals, mints, burns, and more to protect the protocol’s users. Check it out! 👇
+
+https://t.co/QDtwJ7i2Tt https://t.co/1IKDDRdU70",79,1,20,2022-08-23
+335,2022-08-25 13:03:00+00:00,1562787627358887940,FortaNetwork,"As part of @Gitcoin Grants Round 15, the Forta community voted to pledge 100,000 FORT to empower detection bot developers to secure Web3 🧑‍💻💸
+
+Starting now, anyone can apply for Forta’s grant program 👇
+https://t.co/O9KUewdeOt",56,8,22,2022-08-25
+337,2022-08-26 13:43:20+00:00,1563160168057405443,FortaNetwork,"Hey @Rocket_Pool, let's get your community involved in the monitoring and security function 🔍🔒
+
+Devs can now submit @gitcoin Grant applications for Forta Detection Bots that monitor @Rocket_Pool
+
+The Forta Foundation will match 🤖 💸
+
+https://t.co/zhhoxwCsyQ",28,3,10,2022-08-26
+338,2022-08-30 12:49:47+00:00,1564596243120230402,FortaNetwork,"Forta governance update 👍 👎
+
+🏛️ Forta Proposal #3 on Delegated Staking was just introduced on the Forta forum
+
+Voting begins on September 5th, read the full proposal or check out the sparknotes below 🧵
+
+https://t.co/EkZpr86JHa",23,1,7,2022-08-30
+345,2022-08-31 20:38:38+00:00,1565076618774659072,FortaNetwork,"⚠️ Scammers beware! Forta is launching a new bot development contest to identify smart contract scams with high precision 
+
+With up to $3000 in rewards, see if you have what it takes 👇
+https://t.co/9bzeelm6kE",37,1,8,2022-08-31
+346,2022-09-01 15:33:14+00:00,1565362151203692544,FortaNetwork,"@auryn_macmillan @TenderlyApp @epnsproject Here! Let us know how it goes or any doubts!
+https://t.co/HndG2EBybc",4,0,0,2022-09-01
+348,2022-09-02 20:52:25+00:00,1565804862993862656,FortaNetwork,"(✨🔴_🔴✨) Mark your calendars for September 8th
+
+Join for a discussion with @optimismFND on how Forta can secure L2s 👇
+
+📅 https://t.co/tUZ32c40tu https://t.co/xRFSy3FrOj",49,3,13,2022-09-02
+349,2022-09-06 14:49:48+00:00,1567163160318148609,FortaNetwork,"+$155 million now secured by Forta 🪙
+
+@traderjoe_xyz, @avalancheavax's largest decentralized exchange, is now using Forta to monitor the security and health of the protocol 🆘🤖
+
+Check out Forta’s blog and subscribe to Trader Joe's alerts ⤵️
+https://t.co/Eqswb6hyoy",163,9,39,2022-09-06
+351,2022-09-07 13:57:31+00:00,1567512392048812032,FortaNetwork,"Forta is now protecting @GMX_IO, the #1 DEX on @arbitrum 🔐
+
+In collaboration with @nethermindeth, the GMX team crafted a number of bots to monitor trading on their perpetual exchange 💹
+
+Check out their bots and read more ⤵️
+🤖 https://t.co/kRor45xM9O
+https://t.co/rC04l0anTD",133,5,32,2022-09-07
+354,2022-09-08 16:05:47+00:00,1567907056979709952,FortaNetwork,"🔴 Live now: Forta’s @ajbeal joins @gitcoin’s discussion on GR15 participants! 
+
+https://t.co/o7N01okrTO",17,0,2,2022-09-08
+356,2022-09-09 21:07:51+00:00,1568345461798621184,FortaNetwork,"Ice phishing attacks are now unfortunately a constant occurrence plaguing Web3 today
+
+To keep tabs on all of them, check out the Ice Phishing Detection 2.0 bot 👇
+
+https://t.co/trLC3CO1T7",13,1,0,2022-09-09
+363,2022-09-12 21:27:59+00:00,1569437693234528256,FortaNetwork,"🎤 Join the Forta team on Discord tomorrow at 11:00 am EST for a community AMA
+
+📒 On the agenda: FP-3 revisions, Snapshot voting, delegated staking, node runner updates, and more!
+
+https://t.co/tmDX8aTSZP",15,1,6,2022-09-12
+364,2022-09-13 15:02:35+00:00,1569703090877767681,FortaNetwork,"🔴 Forta’s community AMA is now going live, join on Discord! https://t.co/xUw3yllw20",15,0,2,2022-09-13
+366,2022-09-14 21:23:00+00:00,1570161216919842817,FortaNetwork,"⚠️ Today is the last day to claim the Forta Airdrop! ⚠️
+
+If you’ve used Forta, contributed to a Web3 project or are an active participant in the Web3 ecosystem, you may be eligible 👇 https://t.co/hjZyUQGmOS",25,2,10,2022-09-14
+371,2022-09-15 12:49:15+00:00,1570394314815016960,FortaNetwork,"Don’t forget to tune in Today at 1pm EST to @OptimismFND and Forta’s Twitter Spaces event with @kelvinfichter, @maurelian_, @cseifert, and @ajbeal 
+
+L2s need to security too, and Forta is here to help 💪🔒
+https://t.co/KliAZJlQhJ",17,2,5,2022-09-15
+376,2022-09-16 17:13:17+00:00,1570823146504323073,FortaNetwork,"If you have a backend service with an exposed API endpoint, that data can now be fed to an Forta bot opening the door for whole new categories of use cases
+
+With this integration, the API world is your oyster 🦪
+
+Learn more and get started building 👇
+
+https://t.co/l3koKjXzmq",14,0,0,2022-09-16
+380,2022-09-19 23:42:57+00:00,1572008373109018627,FortaNetwork,"💥 Ragnarok Online, $ROI, lost $44K in an attack due to an access control vulnerability
+
+Fear not, the risk associated with assumptions you make on how users will interact with your protocol can be monitored via Forta 👀 https://t.co/yeuGknKzYz",24,5,5,2022-09-19
+382,2022-09-20 22:27:19+00:00,1572351726518411266,FortaNetwork,"7/7 - Finally, if you want to take a deep dive into the timeline of this hack to see all of the Forta Alerts and Etherscan links that allowed researchers to track this hack, check out @FortaAlerts and the appendix for this thread 👇
+
+https://t.co/pgSqF029Mj",7,1,0,2022-09-20
+390,2022-09-21 19:24:48+00:00,1572668183735308290,FortaNetwork,"Often unnoticed, phishing attacks are a silent plague of Web3 🧊🎣
+
+Forta's deep dive into one coordinated group uncovers a scam that drained hundreds of wallets 👇
+
+https://t.co/Yd6qBoXvYn",25,0,7,2022-09-21
+391,2022-09-22 19:58:30+00:00,1573039053137551360,FortaNetwork,"This grant from @FortaPatterns aims to detect sybil patterns which can be fed to any protocol that wants to implement measures to prevent such attacks
+https://t.co/efPONNDzBj",8,1,0,2022-09-22
+397,2022-09-23 21:01:55+00:00,1573417400741117953,FortaNetwork,"Forta's global community🌍
+
+A huge thank you to our network of 12,000+ node runners, the Forta Network has come this far because of you! https://t.co/2LXrWIm8U9",46,9,12,2022-09-23

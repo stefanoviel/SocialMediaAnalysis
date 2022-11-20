@@ -1,0 +1,1406 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-01 18:36:30+00:00,1212442489665282048,AragonProject,"ANJ, Aragon Court’s native token, pre-activation period is launching on January 7th.
+
+At 4.00pm UTC, the converter at https://t.co/VPzVOuDAal will unlock and everyone will be able to get ANJ by staking ANT.
+
+https://t.co/ijFQVWfpMe https://t.co/szKJuTKxW9",48,1,9,2020-01-01
+1,2020-01-03 19:18:19+00:00,1213177788779368453,AragonProject,@thibauld all good on Chromium and Firefox over here. can you try a hard refresh if still not loading correctly?,1,1,0,2020-01-03
+3,2020-01-06 15:37:42+00:00,1214209431455641600,AragonProject,"ICYMI - Aragon project updates:
+
+⚖️ ANJ pre-activation begins January 7th
+🎯 Aragon Association 2020 plan
+🐛 Aragon Network bug bounty
+🛠 aragonCLI v7 release
+👽 @reddit r/ethtrader integrates Aragon
+
+...and more!
+
+Read: https://t.co/qfJxSf0BKQ
+
+Subscribe: https://t.co/k66P2loMYo",19,0,7,2020-01-06
+4,2020-01-07 20:41:38+00:00,1214648309727604736,AragonProject,"On February 10th, when Aragon Court’s term #1 begins, jurors will be able to deactivate and unstake ANJ using the Jurors dashboard.
+
+In the meantime, you can check your active balance by connecting your wallet at https://t.co/VPzVOuDAal https://t.co/ShHnhYQlLf",9,1,3,2020-01-07
+16,2020-01-08 20:15:34+00:00,1215004137177468928,AragonProject,@JPChevallier @AragonOneTeam https://t.co/gFZADcbCuQ,1,0,0,2020-01-08
+21,2020-01-09 06:48:40+00:00,1215163462227197952,AragonProject,"As jurors stake on Aragon Court, you can query state from the protocol using a @graphprotocol subgraph developed by @AragonOneTeam.
+
+The image shows an example query getting all currently active jurors and their ANJ balance.
+
+https://t.co/ZnseNocp46 https://t.co/jkJZcZas4n",34,2,12,2020-01-09
+23,2020-01-10 23:57:38+00:00,1215784798553346057,AragonProject,"@dmazorosete The Dot Voting app in the Open Enterprise suite has multiple choice:
+https://t.co/RmH88swCJb
+
+There is also an experimental Survey app here that is multiple choice:
+https://t.co/150zlcmA50
+(probably closest to what you're looking for)",0,0,0,2020-01-10
+24,2020-01-11 21:39:04+00:00,1216112312236564480,AragonProject,"@argparse @izqui9 To your point about incentivizing certain biases, certain aspects of the protocol design (like the bonding curve &amp; final ruling majority lock-in periods) anchor outcomes to those which the general market/user prefer as opposed to simply what ANJ whales want.",0,0,0,2020-01-11
+28,2020-01-14 18:32:00+00:00,1217152399350980608,AragonProject,"With Aragon you can easily create a new DAO and issue ""Reputation"" voting tokens to your members in just a few clicks!
+
+Try it out on the Rinkeby test network: 
+https://t.co/FenRHkn5fZ
+
+Learn more about how to create your own Reputation organization:
+https://t.co/YOtCYNYZKD https://t.co/mV3Tex8i4v",18,0,3,2020-01-14
+29,2020-01-15 19:43:11+00:00,1217532703651835906,AragonProject,"How does a DAO upgrade its @MakerDAO SAI balance to the ""much cooler"" multi-collateral DAI?
+
+Follow along this Community Funding DAO thread in the Aragon Forum to find out:
+https://t.co/NZdA8siODm",8,0,0,2020-01-15
+31,2020-01-16 14:34:40+00:00,1217817447803342851,AragonProject,"@jzlegion organizations cannot be deleted and their ENS names cannot be changed or transferred.
+
+Regarding your other questions, see attached screenshots. More info:
+https://t.co/uo9hnldGOf https://t.co/So8RQHtEvX",1,1,0,2020-01-16
+33,2020-01-17 17:28:48+00:00,1218223659850047488,AragonProject,@heejincredible send what?,0,1,0,2020-01-17
+35,2020-01-19 15:38:13+00:00,1218920605556314115,AragonProject,"@WestCoastWalka @pet3rpan_ Aragon Fundraising -&gt; 
+https://t.co/A8o6Rhzctj
+
+On Rinkeby now, mainnet soon:
+https://t.co/FenRHk5uor",0,0,0,2020-01-19
+36,2020-01-22 07:09:23+00:00,1219879715567296515,AragonProject,Converting ANT into ANJ is only required if you intend to be a juror on Aragon Court and it has nothing to do with the eventual launch of Aragon Chain later this year https://t.co/RuiocszHwg,16,2,0,2020-01-22
+37,2020-01-23 22:57:58+00:00,1220480824849715201,AragonProject,"@pavanku67267134 the ANT is converted to ANJ, once the bonding curve goes live on Feb 10th you'll be able to convert ANJ back to ANT at a variable conversion rate determined by the curve.
+
+More info:
+https://t.co/uSDPzj5JrR",1,0,0,2020-01-23
+39,2020-01-24 19:05:14+00:00,1220784644423110657,AragonProject,"Let’s unpack what just happened today:
+
+An Aragon DAO through Aragon Agent (https://t.co/WJp1pwSQcn) is streaming their payroll with @SablierHQ to someone that works for the DAO, while earning interest in @compoundfinance because they are loaning their @MakerDAO DAI. https://t.co/5MbazVzYcv",88,2,20,2020-01-24
+42,2020-01-27 06:01:12+00:00,1221674495884300288,AragonProject,"You can browse all 1,081 Aragon DAOs at https://t.co/YUpt7rUGH9 and even filter by template type or installed apps https://t.co/jDavYreulG",39,3,6,2020-01-27
+45,2020-01-28 11:48:24+00:00,1222124262821171200,AragonProject,"@vkord @lkngtn @AragonOneTeam @decentraland https://t.co/XLGaQoNS3m has docs for getting started with the default templates on https://t.co/9Bcv0hRPmG
+
+https://t.co/YgV5mqLb2K has docs for building new Aragon apps and custom DAOs using aragonSDK.",1,1,0,2020-01-28
+50,2020-01-30 18:00:30+00:00,1222942680218570754,AragonProject,"156/200 shirts are already allocated, only 44 slots left. 
+
+If you're not a pre-activated juror yet, pre-activate now at  https://t.co/VPzVOuDAal to reserve your shirt. https://t.co/4OLUNpKNQG",11,0,2,2020-01-30
+51,2020-01-31 12:08:57+00:00,1223216596073766913,AragonProject,"@AdamStudenik @metamask_io Hey Adam, thanks for letting us know!",1,0,0,2020-01-31
+54,2020-02-03 17:06:59+00:00,1224378760490778630,AragonProject,"Exciting updates and demos in today's All Aragon Devs call 👀
+
+1. ENS migration update
+2. ACL hotfix notification
+3. https://t.co/xnx2dEI2QH demo
+4. Buidler plugin demo
+5. https://t.co/YUpt7rUGH9 app mining metrics demo 🔥 (bonus thread: https://t.co/EQ75vZ65cO)",13,1,1,2020-02-03
+56,2020-02-04 00:38:42+00:00,1224492442105401346,AragonProject,"@gcsfred no you do not have to be an Ethereum expert, and you do not have to be technical. there will be a user-friendly web interface for adjudicating cases. see some of the early designs here:
+https://t.co/T8vgIEeQGu",2,0,0,2020-02-04
+60,2020-02-05 16:37:17+00:00,1225096063020945411,AragonProject,@Amar__C @UniswapExchange That's right. They automatically convert to ANT using Uniswap in the background then that ANT converts to ANJ.,1,1,0,2020-02-05
+63,2020-02-06 21:19:34+00:00,1225529488873795596,AragonProject,"@swedcoin the Aragon community does not have an official Telegram channel. Unfortunately nothing we can do to stop it, please report it to @telegram and hope they do their job to ban the scams.",2,1,2,2020-02-06
+64,2020-02-07 13:22:27+00:00,1225771808965701632,AragonProject,"Glad to see Aragon is your cup of tea!
+
+You can use https://t.co/HAZeHyUyU7 to earn annual interest on the Dai in your DAO, just like JZ did.
+
+🦅 + 🍵 = 💪 https://t.co/ZrZZlDZNeI",19,0,1,2020-02-07
+67,2020-02-08 20:40:23+00:00,1226244406409416706,AragonProject,"Jurors, prepare yourselves, Aragon Court's first term begins February 10th and disputes begin February 13th!
+
+Find out what's in store for the first disputes of the Precedence Campaign:
+https://t.co/YKC6n4agby",38,0,13,2020-02-08
+68,2020-02-09 17:51:26+00:00,1226564274446880769,AragonProject,@zi_gut There is NO AIRDROP.,1,1,0,2020-02-09
+96,2020-02-10 20:26:36+00:00,1226965711089807361,AragonProject,@bit_reporter indeed the juror dashboard works with desktop browsers only at the moment,1,1,0,2020-02-10
+107,2020-02-11 16:43:35+00:00,1227271976168738822,AragonProject,"@gcsfred you have 0 ANJ in your wallet, so a 0 wallet balance is shown. all of your ANJ is currently held in an activation contract, not your wallet address. see:
+https://t.co/BAlZT8fOHQ",0,0,0,2020-02-11
+117,2020-02-12 15:17:49+00:00,1227612779730919424,AragonProject,@onyebu @luigyGT @telegram https://t.co/VsRFIKR2S8,0,0,0,2020-02-12
+119,2020-02-13 18:53:56+00:00,1228029555690090497,AragonProject,"@thekerp @lex_DAO Anyone (even bystanders) can appeal a ruling for a fee, not just the loser. If the appeal is successful whoever submitted the appeal gets their fee back plus an additional reward.",0,0,0,2020-02-13
+125,2020-02-14 00:55:00+00:00,1228120420131278849,AragonProject,https://t.co/GTi8gDocdJ will be down temporarily for scheduled maintenance from 1:00-1:20 UTC. Sorry for any inconvenience.,7,0,3,2020-02-14
+133,2020-02-16 01:10:32+00:00,1228849106564603905,AragonProject,"@dur1mar1 Yes, it's fake.",1,0,0,2020-02-16
+134,2020-02-17 18:29:32+00:00,1229472965865111552,AragonProject,@nerry1984 This eagle is always eager to make DAOs fly for everyone 🙌,0,0,0,2020-02-17
+136,2020-02-18 19:08:07+00:00,1229845064916066305,AragonProject,"@LaurentYudha yes. don't send money to strangers on the internet if you don't have a good reason to trust them.
+https://t.co/VsRFIKR2S8",0,0,0,2020-02-18
+137,2020-02-19 17:43:22+00:00,1230186122493427718,AragonProject,"Welcome to the Aragon Network, @TimDraper! 🦅 https://t.co/FEB2j2Pulg",25,1,3,2020-02-19
+138,2020-02-20 17:57:34+00:00,1230552086531543041,AragonProject,"@hosseamin @TimDraper @drapervc Aragon Court is used for enforcing agreements when subjective judgement is needed. aragonOS contracts can also be used to enforce agreements directly when all conditions can be satisfied on-chain:
+https://t.co/AD1VsWl3bn",1,1,0,2020-02-20
+145,2020-02-21 16:10:31+00:00,1230887533095129090,AragonProject,"We are shutting down the Flock grants program. Thanks to everyone that participated!
+
+We will refocus on lean grants and small-scale experiments. And once the Aragon Network DAO reaches Phase 3, it will be sovereign to make its own capital allocations. 
+
+https://t.co/9zJtBruqis",25,1,6,2020-02-21
+146,2020-02-22 19:43:51+00:00,1231303606973927424,AragonProject,"@DoriansGrave this list on our wiki might be helpful:
+https://t.co/gFZADcbCuQ",0,0,0,2020-02-22
+147,2020-02-24 15:35:02+00:00,1231965767052165120,AragonProject,"The Aragon Committees app v1.0.0-beta.2 has been released!
+
+Learn more about this new Aragon app and how you can help test it:
+https://t.co/2IMqDlOjLo https://t.co/LnW5CUBkX4",22,0,5,2020-02-24
+148,2020-02-26 17:59:11+00:00,1232726820992299008,AragonProject,"Aragon Court and @TimDraper’s stake featured on @Forbes 🦅
+
+https://t.co/aRawbQlDpm",43,0,12,2020-02-26
+150,2020-02-28 21:51:40+00:00,1233510102482722816,AragonProject,@sami70302494 https://t.co/VsRFIKR2S8,0,0,0,2020-02-28
+151,2020-03-02 11:50:25+00:00,1234445955166035968,AragonProject,@LP75155197 Depends entirely on exchanges!,1,0,0,2020-03-02
+152,2020-03-03 21:47:31+00:00,1234958608703553542,AragonProject,Aragon is February's #3 in ERC20 Dapp Dev Activity according to @santimentfeed 👀 https://t.co/sJ2ktf1CQW,18,0,4,2020-03-03
+153,2020-03-04 16:26:59+00:00,1235240331626582017,AragonProject,"The Association Review period for Aragon Network Vote #6 has concluded.
+
+""AGP-155: Sunsetting the AGP process"" now moves on to a vote by ANT holders, starting March 11th at 16:00 UTC.
+
+Read the final details and how you can participate in the vote:
+https://t.co/eWTTXoPYRR https://t.co/yvebV9acx7",9,0,1,2020-03-04
+156,2020-03-05 13:08:47+00:00,1235552841508573187,AragonProject,"Aragon is moving to Discord! 🤖 
+
+We will shut down our Rocket Chat on March 11th and forward https://t.co/GTi8gD6Bmb to our Discord.
+
+See you there! 🦅
+
+https://t.co/n3gUcgUMSR",30,1,5,2020-03-05
+158,2020-03-11 16:31:11+00:00,1237778104929660929,AragonProject,"Aragon Network Vote #6 is now live!
+
+You can find the final details about how to participate in this vote here:
+https://t.co/eWTTXoPYRR
+
+And if you are already familiar with the details and how to vote, head on over to the Aragon Governance org to vote!
+https://t.co/W65CPe6D63 https://t.co/TW0SfiIIEP",18,0,4,2020-03-11
+159,2020-03-12 17:02:58+00:00,1238148490607329281,AragonProject,"Thanks to @d5_dao for assistance with this report 🔎
+
+You can explore the data dashboard they built for us here:
+https://t.co/2pi8edH5R6
+
+And see a slide deck summary of their findings here:
+https://t.co/3gE64Gwej6",10,1,3,2020-03-12
+161,2020-03-13 16:39:37+00:00,1238505001288380418,AragonProject,"Aragon Network Vote #6 is over 🗳
+
+Final results are in: ANT holders have voted YES to sunset the AGP process in preparation for Phase 3 of the Aragon Network launch.
+
+Full blog post with details and next steps will be published soon!
+
+https://t.co/W65CPe6D63 https://t.co/FPKmE1gFTG",9,0,0,2020-03-13
+162,2020-03-16 19:16:25+00:00,1239631625924861953,AragonProject,"On March 13, 2020 Aragon Network Vote #6 concluded.
+
+Here are the final results and what's next for the Aragon Network:
+https://t.co/zkwJdtzZoP https://t.co/laxFDPpmiz",11,1,1,2020-03-16
+163,2020-03-17 15:24:01+00:00,1239935529250099204,AragonProject,"Calling all Aragon app developers - Finalizing details for App Mining Launch
+
+https://t.co/6ZUmEa6wVE
+via @lkngtn",14,0,5,2020-03-17
+164,2020-03-23 16:54:40+00:00,1242132667400888320,AragonProject,"How can DAOs help fight the current pandemic?
+
+Will RT the most creative tweets 🦅",33,11,9,2020-03-23
+165,2020-03-24 15:00:42+00:00,1242466376784084994,AragonProject,"Aragon is a proud sponsor of the Dragon Quest virtual hackathon 🐉
+
+We offer prizes for people using DAOs to solve problems related to COVID-19.
+
+Happy hacking! 🦅
+
+https://t.co/SiXbJFMumS",36,0,6,2020-03-24
+166,2020-03-25 11:06:01+00:00,1242769703845666816,AragonProject,Beautiful community art! 💞 https://t.co/FpD9zJaN1T,11,0,2,2020-03-25
+168,2020-03-26 18:21:55+00:00,1243241788300759046,AragonProject,Plus guide for jurors! https://t.co/XTlpetXgKf,1,0,0,2020-03-26
+171,2020-03-27 10:17:30+00:00,1243482271438516224,AragonProject,"Aragon is participating in the upcoming Dragon Quest hackathon 🐉
+
+Find relevant DAO projects and bounties here 👇
+
+https://t.co/wb1xQr3BhO",22,1,2,2020-03-27
+174,2020-04-01 21:15:32+00:00,1245459808951701506,AragonProject,"We were inspired to start Aragon because we wanted to decentralize power. But we're getting strong market feedback that what the world really needs is 𝘮𝘰𝘳𝘦 centralization of power. 
+
+Introducing the Dictatorship template
+https://t.co/GwLJs9KKZ9 https://t.co/Q5ktuQbxL3",91,8,22,2020-04-01
+178,2020-04-02 16:55:58+00:00,1245756875112689668,AragonProject,"Aragon has a new look. New logo, new font, new shapes ✨
+
+Explore Aragon’s brand refresh firsthand with @owisixseven, the mastermind behind the original Aragon brand.
+
+https://t.co/Yzuw2kUHdI https://t.co/neOx6MjDMt",96,1,14,2020-04-02
+179,2020-04-07 15:29:30+00:00,1247547051602259970,AragonProject,"Extra: You can now grab the official #PoweredByAragon badges ✨
+
+https://t.co/NRPep4KANh https://t.co/pb20QpMOYF",13,0,2,2020-04-07
+183,2020-04-10 13:10:01+00:00,1248599114213924865,AragonProject,"Everyone is proud of their DAO.
+But they will be even prouder after having their very own shortlink 🔗
+
+Try these ones out 🚀
+https://t.co/jbY4tute9N
+https://t.co/zuBAmCAu8e https://t.co/o4dR9Z8R68",47,1,12,2020-04-10
+184,2020-04-16 14:51:36+00:00,1250799006424477702,AragonProject,@YoezrivalR https://t.co/VsRFIKR2S8,1,0,0,2020-04-16
+186,2020-04-21 20:23:07+00:00,1252694374741356544,AragonProject,"🚨ATTENTION JURORS🚨
+
+Two new App Mining disputes have opened and their voting period has begun.
+
+Be sure to check if you were drafted, review the dispute's content, and submit your vote on time.
+
+Dispute #1: https://t.co/mzko2wXrSt
+Dispute #2: https://t.co/wuOowwAg6s",23,1,5,2020-04-21
+188,2020-04-30 13:00:00+00:00,1255844351915126784,AragonProject,"Join @lightcoin and @sohkai on May 5th from 17-18:00 UTC for an Aragon Permissions Workshop! 
+
+Learn tips and tricks, what to avoid, and how to use the Aragon permissions system to customize your organization.
+
+Livestream link and more info:
+https://t.co/OY84QnCrmJ https://t.co/xuM6PYOUSc",13,0,2,2020-04-30
+189,2020-05-05 17:02:52+00:00,1257717408934047747,AragonProject,"Starting now: join @lightcoin &amp; @sohkai for an Aragon Permissions Workshop!
+
+Watch the livestream here: https://t.co/MwHuZTz1jY
+
+If you don't have a YouTube account, you can reply to this tweet with questions or ask in the #support channel on Aragon Chat: https://t.co/S1aAudipJE https://t.co/YNIRqnpopn",15,0,3,2020-05-05
+190,2020-05-06 12:01:22+00:00,1258003922989584385,AragonProject,"Congrats @aitherick! 🔥
+
+Tristan and his team built a DAO for experts to cryptographically attest truth in the current COVID-19 outbreak. Check it out!
+
+https://t.co/lEgpchMRw4 https://t.co/L2ZRl2XjpP",13,0,2,2020-05-06
+193,2020-05-07 14:35:58+00:00,1258405215876726789,AragonProject,"Facebook spent $130 million to fund a content oversight board.
+
+On the other hand Aragon Court is a neutral, decentralized and less expensive alternative.
+
+Join it today! https://t.co/Gnz1QXnMPe https://t.co/yAofmTCg12",16,1,6,2020-05-07
+196,2020-05-08 15:21:56+00:00,1258779171251257345,AragonProject,"DAOs aren’t the future — they are already the present!
+
+Following the #PoweredByAragon campaign, we will be showcasing DAOs that are already live.
+
+Today, we unveil the first case study featuring @BrightIDProject ☀️
+
+https://t.co/J6e76ybOqT",68,0,18,2020-05-08
+197,2020-05-13 17:39:54+00:00,1260625831950458880,AragonProject,"The Aragon Association is shutting down the Nest grants program. It will keep supporting its current and past grantees.
+
+The focus will now be on helping users and forming part of their communities, instead of just offering funding.
+
+https://t.co/86mZGtFDML",41,2,5,2020-05-13
+199,2020-05-14 07:49:28+00:00,1260839634835210240,AragonProject,"ChainBridge is one of the building blocks for Aragon Chain.
+
+Great work by @ChainSafeth 🔗 https://t.co/22qHvXLimM",33,0,7,2020-05-14
+201,2020-05-20 08:26:38+00:00,1263023313649111040,AragonProject,"The @Collab_19 DAO has already distributed $800 to be used towards initiatives to fight the current COVID-19 outbreak.
+
+It’s #PoweredByAragon and you can join it just by talking to this chatbot!
+
+https://t.co/OMoGCFSH2J",20,1,8,2020-05-20
+202,2020-05-21 17:46:57+00:00,1263526708554149890,AragonProject,@LamboMoonBoy1 @Collab_19 You can convert it to ANJ if you want to stake your ANT and become a juror at https://t.co/UFdMMrBKiu,1,0,0,2020-05-21
+207,2020-05-22 14:32:35+00:00,1263840185818722304,AragonProject,"The Aragon Association has taken legal action against Autark because of breach of agreement, after multiple unsuccessful attempts to resolve the matter amicably.
+
+Autark threatened to sue the Aragon Association and requested a settlement of $800k.
+  
+https://t.co/5m1v7JKKei",29,10,2,2020-05-22
+209,2020-05-25 13:37:50+00:00,1264913570237755393,AragonProject,"What's a DAO, you ask? We have the answer 🦅
+
+Send this to a friend and get them going down the rabbit hole 🤯
+
+https://t.co/vm0EnigiLk",69,1,22,2020-05-25
+210,2020-05-26 21:06:07+00:00,1265388770024656896,AragonProject,Join Aragon co-founder @licuende live with @jerallaire in @circlepay's The Money Movement podcast 👇 https://t.co/hoK6xjwUSw,13,0,3,2020-05-26
+211,2020-05-27 08:55:56+00:00,1265567400549847052,AragonProject,"@0x6431346e Hey! Aragon Court is still undergoing its Precedence Campaign https://t.co/2ztxqQ9C1N. However, if you are interested in reading more and talking to the developers, join Discord! https://t.co/NViCQQfzth",2,0,0,2020-05-27
+213,2020-05-29 19:29:10+00:00,1266451536063930369,AragonProject,"Aragon Nest grants by the numbers + reflections by @MyPaoG, who used to run the program ❤️
+
+https://t.co/PALiG3IPD0 https://t.co/RTjvy0N9jb",20,1,0,2020-05-29
+214,2020-06-01 13:13:13+00:00,1267444087617183746,AragonProject,"Builders keep building.
+Read this to know what happened during May in ara-land! 👇
+
+https://t.co/DV00r0GCQ0",27,1,5,2020-06-01
+217,2020-06-02 13:28:42+00:00,1267810373589237766,AragonProject,"The world needs Aragon now more than ever.
+
+For that reason, we are making an effort to explain it better.
+Help us filling this survey and shape how Aragon will be communicated in the future!
+
+The 5 most helpful answers will receive 10 ANT 🦅
+
+https://t.co/9VkJeAQigo",36,3,8,2020-06-02
+218,2020-06-05 18:14:50+00:00,1268969546960048128,AragonProject,Don’t miss this podcast featuring @izqui9 and @Aidan_IH talking about Aragon Chain 🔗🦅 https://t.co/bVXhCyNYwb,21,0,5,2020-06-05
+219,2020-06-11 11:58:28+00:00,1271049154970750977,AragonProject,"Discover why DAOs are the next big thing after social media
+
+https://t.co/wgW175zddt https://t.co/DVvueYTQ1C",37,0,6,2020-06-11
+222,2020-06-15 17:21:44+00:00,1272580059447115782,AragonProject,"The Aragon Network is a digital jurisdiction for digital organizations, and ANT is its fuel 🦅
+
+Read more 👇
+
+https://t.co/gNz38ugk2G",40,1,12,2020-06-15
+230,2020-06-16 18:09:29+00:00,1272954465348472833,AragonProject,"6/ Aragon Agreement use cases include minority protections in DAOs and list curation. While Aragon Court is not alternative to the traditional legal system, in some ways it's more useful, because it doesn't care who you are, even if you're pseudonymous 🐶",5,1,0,2020-06-16
+240,2020-06-18 16:02:13+00:00,1273647212044734465,AragonProject,"5/ Finally, we will host a hackathon, Hack for Freedom, focused on enabling grassroots collaboration using DAOs and Aragon Connect. More details soon 🦅",14,0,0,2020-06-18
+246,2020-06-19 08:43:57+00:00,1273899308367085568,AragonProject,@bordalix Yes! Well spotted. Fixed it in the website 🙌,0,0,0,2020-06-19
+250,2020-06-23 18:06:25+00:00,1275490408559251459,AragonProject,@pet3rpan_ 💕💕,1,0,0,2020-06-23
+266,2020-06-24 15:49:10+00:00,1275818254704029696,AragonProject,"Aragon project updates for June are out! 🦅
+
+So. Many. Things 😱
+
+https://t.co/zxt7dH4USQ",30,0,8,2020-06-24
+267,2020-06-25 21:26:22+00:00,1276265501191274496,AragonProject,"@graphprotocol Thanks! But credit goes to @RaidGuild for shipping the stats page! 
+
+https://t.co/XIbPZ4RRJc",14,1,2,2020-06-25
+271,2020-06-26 05:36:29+00:00,1276388846918414336,AragonProject,@FleekHQ @IPFS 🦅🚀,1,0,0,2020-06-26
+272,2020-06-29 19:43:58+00:00,1277689283739082761,AragonProject,"To commemorate The ĐAO hack 4 years ago, we're teaming up with @MetaFam for DAO Hack Month, featuring back-to-back DAO hackathons + more TBA events. 🎪
+
+🦅 Hack for Freedom July 6th - 19th
+🐙 Fork the World July 20th - Aug
+
+For details and sign-up visit 👇
+https://t.co/N0VWThLVeH",41,0,14,2020-06-29
+273,2020-07-01 07:41:52+00:00,1278232336199548928,AragonProject,#PoweredByAragon https://t.co/uFlHGOnUOn,16,0,2,2020-07-01
+275,2020-07-02 15:17:46+00:00,1278709456923230209,AragonProject,"ANT has joined the @MessariCrypto Disclosures Registry 🔍
+
+https://t.co/UYMjT8o92A",15,0,3,2020-07-02
+276,2020-07-03 12:55:39+00:00,1279036079107170304,AragonProject,"New Aragon Connect developer docs are here!
+
+What's new? ✨
+🦅 Starter guide to Aragon orgs
+⚡️ Starter guide to Connect
+🧙‍♂️ Advanced Connect guides
+📚 Improved API reference list
+
+Start hacking with Aragon Connect now 👇
+https://t.co/ZiQNzd3Rpx https://t.co/1f6KH6kNS8",61,2,19,2020-07-03
+277,2020-07-06 17:47:25+00:00,1280196669255155712,AragonProject,"6/ There are already 7 teams and counting you can join now so get in there, say hello, and start hacking on the frontier of DAOs 🦅",7,0,0,2020-07-06
+283,2020-07-07 23:08:28+00:00,1280639850098626567,AragonProject,"@joshhudson023 The next round of precedence campaign disputes will come when the Agreements app is ready and will mimic ""real world"" situations for jurors more closely than the previous disputes.",1,1,0,2020-07-07
+284,2020-07-08 15:15:58+00:00,1280883331094188032,AragonProject,We're delighted to announce @evabeylin will be joining the panel of judges at Hack for Freedom! 🥳 👩‍🚀,16,0,1,2020-07-08
+286,2020-07-09 18:00:01+00:00,1281287003150090244,AragonProject,"Starting now: join @0xGabi and @cryptoyizus for an Aragon Connect workshop and Q&amp;A!
+
+Join the livestream &amp; chat here: 
+https://t.co/zGBXNsguNt https://t.co/Ka6qH0lJHN",8,0,1,2020-07-09
+288,2020-07-10 17:00:01+00:00,1281634293295362049,AragonProject,"Join @cryptoyizus and @0xGabi on Saturday, July 11th at 7pm UTC, for their workshop focused on custom subgraph connectors and how they make querying data for custom Aragon app features fast and easy.
+
+Workshop livestream link
+https://t.co/zGBXNrYToT https://t.co/P3uDqnLmlY",12,2,5,2020-07-10
+290,2020-07-11 18:55:33+00:00,1282025752825925638,AragonProject,"Starting in 5 mins: Join @cryptoyizus and @0xGabi for their workshop on building custom experiences with Aragon Connect ⚡️
+
+Workshop livestream link
+https://t.co/pvVRtHnXBC https://t.co/BFQiHbJmph",10,0,0,2020-07-11
+295,2020-07-13 09:43:07+00:00,1282611506274852864,AragonProject,@atvanguard 🦅❤️,0,0,0,2020-07-13
+297,2020-07-15 17:31:23+00:00,1283454125150220291,AragonProject,"@jeremysklaroff @r_ross_campbell It will be recorded and uploaded to Youtube
+https://t.co/mXeh9i61PE",1,1,0,2020-07-15
+302,2020-07-16 14:25:19+00:00,1283769685847220226,AragonProject,#PoweredByAragon https://t.co/E8jkOvsK2k,13,1,5,2020-07-16
+304,2020-07-17 12:16:03+00:00,1284099546344239106,AragonProject,"Join @cadamstallard and @BrightIDProject for a BrightID integration workshop and Q&amp;A! 🔆 #DAOHackMonth
+
+Starts today at 10am PST / 1pm EST / 7pm CEST ⏰
+
+Join workshop here 👇
+https://t.co/pvVRtHnXBC https://t.co/hZCCRrgJ6C",17,2,4,2020-07-17
+306,2020-07-18 15:01:41+00:00,1284503616041164801,AragonProject,"Join @0xGabi and @crypto for a Q&amp;A session on Aragon Connect starting in 1 hour! ⏳
+
+Get answers about all things Aragon Connect! 🗣
+
+Join here 👇
+https://t.co/pvVRtHnXBC https://t.co/wQT5Gr6qWJ",13,0,2,2020-07-18
+307,2020-07-19 05:13:14+00:00,1284717913719615488,AragonProject,"Watch the video of @licuende's presentation and Q&amp;A
+https://t.co/iNgM8eInGo",5,0,1,2020-07-19
+308,2020-07-20 14:09:31+00:00,1285215262166462464,AragonProject,#PoweredByAragon https://t.co/ipVQBtcZyr,23,0,2,2020-07-20
+309,2020-07-21 18:49:46+00:00,1285648177203482624,AragonProject,"The ANT liquidity rewards program is live! 🦅🚰
+
+You can now provide ANT liquidity on Uniswap and get rewarded for it 💸
+
+The clock for rewards will start ticking tomorrow July 22nd at 3pm UTC. Read more and stake your ANT! 👇
+
+https://t.co/BghYugOzMV",105,11,38,2020-07-21
+312,2020-07-22 19:08:30+00:00,1286015280720875523,AragonProject,You can deposit ANT for it to get listed on @MXC_Exchange 🙌 https://t.co/VCNzV0pK1p,4,1,0,2020-07-22
+318,2020-07-23 16:02:19+00:00,1286330812548489217,AragonProject,"🚰🗳✊🏼 Liquid Democracy App
+
+The goal is to create a delegable voting Aragon app based on the principle of “Liquid Democracy”, a governance system where participants can vote directly or delegate their votes to another person or entity to vote on their behalf.../8",3,3,0,2020-07-23
+328,2020-07-27 00:04:31+00:00,1287539325563961346,AragonProject,Hack for Freedom has 24 hours to go before the final submission window is closed for judging 🔒.../Thread https://t.co/cjbqnk2jk3,11,1,2,2020-07-27
+331,2020-07-31 17:16:40+00:00,1289248627005652998,AragonProject,Using @Collab_Land_ tools powered by @abridged_io 🙌,5,0,1,2020-07-31
+335,2020-08-02 19:48:08+00:00,1290011522601689088,AragonProject,"🏆 Winner: Watch Dog “The Noble Kingfisher Prize”
+
+Read all about it https://t.co/KAk1sutBMI 👈🏼…/1.5",14,1,2,2020-08-02
+347,2020-08-03 08:57:40+00:00,1290210213799190528,AragonProject,"Watch out for scams around the Aragon Chain token, $ARA. The actual $ARA token hasn't been launched yet!",17,4,3,2020-08-03
+350,2020-08-04 11:03:53+00:00,1290604362956517379,AragonProject,"3/ You can join the discussion and the different communications channels here 👇
+
+https://t.co/VmtGx8EO6z https://t.co/P0vvZ2b9YQ",8,0,0,2020-08-04
+354,2020-08-05 10:01:49+00:00,1290951133712842753,AragonProject,"We have just added @CurveFinance @pTokens_io @NuCypher and @pillarwallet to the #PoweredByAragon website 👊
+
+Check it out 👇
+
+https://t.co/N9WnUYyrST",60,0,13,2020-08-05
+356,2020-08-06 12:42:00+00:00,1291353833168404481,AragonProject,"Because of Aragon being the leading DAO platform powering DeFi projects, there has been a growing demand for Aragon-related consulting work.
+
+Today we are introducing a program to decentralize those opportunities to community members: Aragon Experts 👩‍💻
+
+https://t.co/PGVZ8pNAGs",53,1,17,2020-08-06
+357,2020-08-07 09:28:07+00:00,1291667426501853190,AragonProject,"ANT has just been added to @loopringorg Pay, enabling anyone to transfer ANT on layer 2 instantly and free ⚡️ https://t.co/eVIGCejyD3",67,3,10,2020-08-07
+359,2020-08-11 21:28:59+00:00,1293298391146012674,AragonProject,"In recent days, @mstable_ increased the total AUM of Aragon DAOs from about $80M to $350M (+220%) 👀 
+
+We're witnessing the early waves of DeFi → DeGov happening on Aragon, strap in 🌊🏄‍♀️ https://t.co/1pm4pNeLDO https://t.co/dRO0GbiV9B",110,4,29,2020-08-11
+361,2020-08-13 07:59:17+00:00,1293819398562684928,AragonProject,"@nikomitk_ @GSR_io No, it's a Cosmos SDK chain. Read more here!
+
+https://t.co/v1RjNXguXG",1,1,0,2020-08-13
+370,2020-08-14 18:18:11+00:00,1294337539101392896,AragonProject,"The Aragon Network DAO is very close 🦅
+
+We are entering the final steps towards its launch. We are looking for talented auditors to help get it rock-solid 🔍 https://t.co/xRicz6fEKN",49,1,15,2020-08-14
+378,2020-08-17 08:02:25+00:00,1295269737891495939,AragonProject,"$ANT FCAS has achieved S rating 🎉
+
+The S rating is the highest tier, only held by other 5 cryptoassets including $ETH, $LINK and $MKR 📈 https://t.co/VDGT2v6ixD",89,6,25,2020-08-17
+380,2020-08-18 21:00:14+00:00,1295827870653329408,AragonProject,🔥🦅👀 https://t.co/4iQOCpI5vI,106,11,11,2020-08-18
+381,2020-08-19 17:12:56+00:00,1296133056139534337,AragonProject,We are so excited this day has finally come. The Aragon Network DAO is coming to life 🦅,30,1,4,2020-08-19
+386,2020-08-20 16:55:50+00:00,1296491142872281088,AragonProject,"We're excited to announce the first cohort of the Aragon Experts program! 🎉
+
+The first cohort includes @block_science @DAObase_org @dOrg_tech @EtherizePortal @_nedao_ @RaidGuild @unidaofund and more 👏
+
+Find your Aragon Expert 👇
+https://t.co/4yji5J8Aug",89,2,33,2020-08-20
+387,2020-08-21 11:19:49+00:00,1296768968536006656,AragonProject,"The next ANT liquidity rewards program is live on @BalancerLabs! 🦅🌊
+
+Reward tracking/payouts are automatic so you don’t have to spend extra fees on gas 💸
+
+The clock for rewards starts ticking Tues August 25 at 3pm UTC. Read more and stake your ANT! 👇
+https://t.co/nqgdsdwjOI",77,4,21,2020-08-21
+388,2020-08-24 21:10:13+00:00,1298004710604103681,AragonProject,"We're thrilled to introduce a new community grants experiment over a year in the making 🗳⏱
+
+ANT holders will allocate $50k to community proposals through the new Conviction voting app from @1HiveOrg 💸
+
+Learn how to vote and apply for grants 👇
+https://t.co/E1BRKyCEJU",117,4,36,2020-08-24
+390,2020-08-25 17:07:13+00:00,1298305946918191115,AragonProject,"While subjective rules make the Aragon Network unique, they are complimented by objective rules, encoded in and enforced by smart contracts 📜 + 🦾
+
+Learn about the technical effort behind the Network in this writeup from @facuspagnuolo and @lightcoin ✍️
+https://t.co/6u7Fet5dhY",63,0,11,2020-08-25
+391,2020-08-26 22:57:06+00:00,1298756384553664512,AragonProject,@AkinSawyerr ❤️❤️,1,0,1,2020-08-26
+403,2020-08-27 16:06:43+00:00,1299015495702675456,AragonProject,Starting in 54 minutes! https://t.co/YS4c90AkSe,22,0,10,2020-08-27
+414,2020-08-28 14:59:39+00:00,1299361007794610177,AragonProject,"The Aragon Community multisig has enacted an upgrade that makes ANT safer and paves the way for it to be governed by the Aragon Network DAO 🦅
+
+https://t.co/O7xsPbebAU",52,0,13,2020-08-28
+421,2020-08-31 20:00:57+00:00,1300523994039439362,AragonProject,"4/ 
+
+Jurors should check the Aragon Court Dashboard to view the open disputes and sign up for email notifications to be notified when drafted 📨
+https://t.co/QlNUTWJnMl",4,0,0,2020-08-31
+430,2020-09-01 12:17:49+00:00,1300769829020819456,AragonProject,"Good news! The drafts will start later than previously announced so jurors have more time to activate⏳
+
+Thanks for your patience. More updates coming soon! https://t.co/8fLO0qb2i1",24,1,1,2020-09-01
+435,2020-09-02 15:55:30+00:00,1301186998695325698,AragonProject,"Or even better, DeFi DAOs powered by a digital jurisdiction! https://t.co/ER5FCuHEEF",39,2,6,2020-09-02
+441,2020-09-03 14:35:47+00:00,1301529328266739713,AragonProject,"The first large scale Conviction Voting experiment has been live for 1 week☝️
+
+📜 20 proposals submitted
+🍰 2.1k/9k ANT allocated
+🤑 4 projects funded
+
+Lets check out what's been funded so far...Thread👇",58,2,14,2020-09-03
+444,2020-09-04 19:30:22+00:00,1301965847523741697,AragonProject,"@MesquitaDaniell The Aragon client is not backed/dependent on ANT or any other token. The client and all Aragon apps are free and open source.
+
+You can read more about the client's design and origins in this post
+https://t.co/hgH2xB5CFA",1,1,0,2020-09-04
+450,2020-09-05 20:49:25+00:00,1302348130101456896,AragonProject,"Meanwhile...Curve DAO's governance is chugging along
+#PoweredByAragon https://t.co/1Vcexwu6Sq",41,1,3,2020-09-05
+451,2020-09-08 14:58:47+00:00,1303347052626272263,AragonProject,@stakeandstack None,1,0,0,2020-09-08
+453,2020-09-09 10:55:17+00:00,1303648164071845888,AragonProject,@CoinMarketCap We would like to register accounts@aragon.org to manage the ANJ self-reporting dashboard on @CoinMarketCap,11,1,3,2020-09-09
+455,2020-09-10 18:46:35+00:00,1304129158554046465,AragonProject,"View all of the proposals 📜
+https://t.co/ntXTNWbVKr
+
+View all of the votes 🗳
+https://t.co/PUg1rDlPpO
+
+Remember, your votes accrue power over time. The longer you've held votes on a proposal the more conviction ('power') that proposal gets.",9,0,1,2020-09-10
+465,2020-09-11 14:14:29+00:00,1304423068186615809,AragonProject,#PoweredByAragon https://t.co/uAPC5MUf46,21,0,3,2020-09-11
+466,2020-09-14 17:17:59+00:00,1305556412030947328,AragonProject,"A proposal from @izqui9 to the @iearnfinance community to adopt Snapshot + Aragon Agreements for truly decentralized, binding governance 🦅🔗🚀
+
+https://t.co/2Oo6SPxvC9",34,0,2,2020-09-14
+472,2020-09-15 03:09:58+00:00,1305705390261362690,AragonProject,#FreeMolochDAO https://t.co/mGo9bdl6oe,21,0,1,2020-09-15
+474,2020-09-16 22:30:03+00:00,1306359721897664514,AragonProject,Working on it! https://t.co/3XvNimhwLw,30,0,2,2020-09-16
+475,2020-09-18 21:01:41+00:00,1307062259831668737,AragonProject,"With so many DAOs launching it can be hard to keep track of them all 🚀🚀🚀👀
+
+We've updated https://t.co/lzefDPqAJm to include links to socials, chats, forums, Githubs, and DAOs for every community🔗🦅🐦💬🐈📷
+
+Discover an Aragon community today!",76,2,10,2020-09-18
+486,2020-09-23 00:09:55+00:00,1308559183982342145,AragonProject,"@zelong_zhixing The rewards program ended recently but you can read the details here
+https://t.co/nqgdsdwjOI",1,1,0,2020-09-23
+490,2020-09-29 07:26:56+00:00,1310843486946680832,AragonProject,"@JosephSPak1 Not yet, we will analyze the results and announce something new in the next few weeks",1,1,0,2020-09-29
+493,2020-09-30 14:09:36+00:00,1311307209654099969,AragonProject,Starting now! https://t.co/wJYSP3pXMD,6,0,1,2020-09-30
+497,2020-10-05 17:46:10+00:00,1313173649319505926,AragonProject,"Governance proposal: Merge ANJ back into ANT ⚖️+🦅
+
+The aim of the proposal is to boost Aragon Court adoption by using ANT, multiplying its security by 20x. Also to reduce the confusion of having two tokens.
+
+Read more about the proposal 👇
+
+https://t.co/cqKaDDQnD4",73,8,15,2020-10-05
+499,2020-10-06 13:13:21+00:00,1313467382568976384,AragonProject,"Today, we are announcing that @BalancerLabs and Aragon will be working together on taking @SnapshotLabs to the next level ⚡️
+
+Our shared long-term vision for it: a governance standard for tokenholder voting, and a common good for the community 🗳
+
+https://t.co/e9kdRwRw3d",140,4,34,2020-10-06
+500,2020-10-07 16:30:54+00:00,1313879483703873540,AragonProject,#PoweredByAragon https://t.co/1lsiTmiiIe,12,0,2,2020-10-07
+501,2020-10-08 16:45:38+00:00,1314245580328181761,AragonProject,"Town hall starting in 15 minutes! (7-8pm CEST)
+
+@AragonOneTeam and jurors will discuss the now withdrawn proposal to merge ANJ with ANT and the future of Aragon Court in the Aragon Discord server (The Eagle's Nest)
+
+Join here: https://t.co/9PT9gmX0Yn",12,0,0,2020-10-08
+504,2020-10-12 17:51:03+00:00,1315711594425450499,AragonProject,"We have an update on the governance proposals for the future of ANJ.
+
+This week will be for community discussion, and ballots will open again next Tuesday, October 20th. 
+
+Read more 👇
+https://t.co/v4aKff7SZh",22,0,1,2020-10-12
+505,2020-10-13 19:12:53+00:00,1316094577732976643,AragonProject,"@EtherDarth @izqui9 @licuende @cosmos No. The Aragon Association funded the development of Ethermint, and not the other way around",3,1,0,2020-10-13
+508,2020-10-19 17:28:19+00:00,1318242590471393281,AragonProject,"We're extending the community review period for ANJ&lt;&gt;ANT merger proposals for another week. The vote will now begin next Tuesday, Oct 27
+
+You can keep up with the latest discussion on the Aragon Forum 🔽
+https://t.co/YVAspNrsqf",16,0,1,2020-10-19
+509,2020-10-20 14:04:11+00:00,1318553603519483904,AragonProject,"The ballots are open to vote on @AragonOneTeam's proposal to sunset Aragon Chain ⛓️
+
+ANT holders can now vote here 👇
+https://t.co/cE0G1WmHPj",13,4,5,2020-10-20
+511,2020-10-21 08:12:43+00:00,1318827542023995396,AragonProject,@Gildarsh Make sure to read the proposal and you can always chime in https://t.co/NViCQQfzth and ask questions! :),0,0,0,2020-10-21
+512,2020-10-22 21:39:37+00:00,1319392992285818880,AragonProject,@MesquitaDaniell Yes! There will be a UI.,0,0,0,2020-10-22
+517,2020-10-26 17:10:40+00:00,1320774861812310016,AragonProject,"We are cancelling the vote that was originally scheduled for tomorrow. 
+
+We are working on a new vote timeline and lightweight process and will share more soon. 
+
+We expect this will be the last change to the vote schedule. 
+
+Thank you for your patience and understanding! https://t.co/5aJG2RMjM4",13,1,1,2020-10-26
+519,2020-10-27 01:08:09+00:00,1320895024549273600,AragonProject,"@trapdorian The *gas cost* to transfer the token around is 3x less than the previous version, not the cost/price of the token itself. The token upgrade is 1:1.",0,1,0,2020-10-27
+523,2020-10-28 19:41:49+00:00,1321537675514490880,AragonProject,@Bullock15Darren @HuobiGlobal No. The upgrade only applies to ANT,0,1,0,2020-10-28
+529,2020-10-29 09:12:24+00:00,1321741666747899904,AragonProject,"Frame 0.3.5 is out, fixing the error. Safe to update now!
+
+https://t.co/d3u1XsRPM9 https://t.co/zNsXPHR3rx",9,0,0,2020-10-29
+532,2020-10-30 17:03:45+00:00,1322222671606800384,AragonProject,"aragonOS was released on mainnet two years ago, securing &gt;$300m to date.
+
+We have learned so much during these last two years and developed a new, developer-focused DAO framework: Aragon Govern 🦅
+
+And it’s out as a developer preview today 👇
+https://t.co/F29x47YJW2",87,3,18,2020-10-30
+537,2020-11-02 19:05:32+00:00,1323340483419164674,AragonProject,"The @AragonAssoc recently published a new process and schedule for upcoming votes.
+
+Read more about the voting process and timeline 👇
+https://t.co/VsTR3IgjYo",4,0,1,2020-11-02
+539,2020-11-06 12:46:19+00:00,1324694603371601920,AragonProject,"@hitbtc has successfully upgraded to ANT v2!
+
+https://t.co/d6Rtpne9bS",3,0,0,2020-11-06
+541,2020-11-09 16:21:06+00:00,1325835819253436418,AragonProject,"The vote on @AragonOneTeam's proposal to deploy Aragon Protocol *starts now* and ends Wednesday November 11th at 16:00 UTC🗳
+
+ANT holders can read the proposal and vote here 👇
+https://t.co/kpd2NYeiK7",13,1,2,2020-11-09
+542,2020-11-15 20:01:46+00:00,1328065677173919751,AragonProject,"Reminder! Proposals to decide the future of ANJ and Aragon Court are due in four hours, at 00:00 UTC (Sunday night/Monday morning).
+
+You can find details about submitting proposals in the announcement blog post here: https://t.co/VsTR3IgjYo",18,2,2,2020-11-15
+545,2020-11-16 16:59:11+00:00,1328382115575181312,AragonProject,"Merge ANJ with ANT: 0.048 ANT/ANJ Proposal
+https://t.co/Q4ucCLRFDK",0,1,0,2020-11-16
+559,2020-11-17 20:31:44+00:00,1328797993005408263,AragonProject,"The ANT vote to decide the future of ANJ and Aragon Court starts tomorrow Nov 18th at 16:00 UTC!
+
+You can read more background info about the vote here: https://t.co/VsTR3IgjYo
+
+All proposals will be in the ANT Snapshot space once the vote is live: https://t.co/GQFVDdN9Ou",6,1,1,2020-11-17
+562,2020-11-18 16:15:34+00:00,1329095915714588672,AragonProject,"Merge ANJ with ANT: 0.048 ANT/ANJ Proposal
+https://t.co/fWAA8DGgmy",0,1,0,2020-11-18
+576,2020-11-20 18:11:55+00:00,1329849970955071489,AragonProject,"The final ANT vote related to this proposal will start on Monday Nov 23rd at 16:00 UTC and last for 48 hours. Stay tuned for further details!
+
+Comments? Questions? Join the proposal thread in the Aragon Forum to discuss: https://t.co/deWsiZznlM",3,0,0,2020-11-20
+582,2020-11-23 16:07:52+00:00,1330905918972829700,AragonProject,"The final ANT vote on the future of ANJ and Aragon Court has started now and will last until Wednesday Nov 25th at 16:00 UTC.
+
+There are three proposals on Snapshot that ANT holders can vote on 🗳 
+
+👇",13,1,4,2020-11-23
+589,2020-11-24 16:12:50+00:00,1331269557181317122,AragonProject,"24 hours left! 
+
+ANT holders, check out the proposals in the thread below and cast your votes ✅ https://t.co/aiRXkWbH8O",13,0,1,2020-11-24
+590,2020-11-25 16:28:37+00:00,1331635914225881088,AragonProject,"Stay tuned for further announcements about the deployment of Aragon Protocol and the ANJ merger smart contract!
+
+Join the #governance channel in the Aragon Discord if you want to chat about the results of this vote and what comes next: https://t.co/dzpnKuX9AY",4,1,0,2020-11-25
+594,2020-12-11 20:03:59+00:00,1337488318783741953,AragonProject,"The November newsletter is finally out! 📰
+
+Get caught up on:
+
+🗳 Voting results &amp; recap for ANT/ANJ merge
+🚀 Upcoming Aragon Protocol features
+📈 ANT v2 upgrade milestones
+
+Read more ⬇️
+https://t.co/q4zps4LUy2",26,6,5,2020-12-11
+595,2021-01-04 14:07:37+00:00,1346095946837471232,AragonProject,@trueBrightrise We will have an update soon!,0,0,0,2021-01-04
+596,2021-01-05 14:37:05+00:00,1346465749338972160,AragonProject,"The @AragonAssoc welcomes @jnsousapinto as its Chief Legal Officer, after taking on the General Counsel role for over a year.
+
+Read more 👇
+
+https://t.co/AT7qwXErOW https://t.co/juutei8Amn",21,0,2,2021-01-05
+599,2021-01-07 16:15:36+00:00,1347215316275896322,AragonProject,"$ANT and $AAVE holders, check out @Delphi_Digital's  proposal to add $ANT to @AaveAave 👻🦅 
+
+https://t.co/7TBrleqrkt https://t.co/4J780kSIlb",32,2,3,2021-01-07
+601,2021-01-11 15:15:36+00:00,1348649771880341512,AragonProject,"Also make sure to read @vocdoni's take on it 👇
+
+https://t.co/oof1DoDCkg",15,0,3,2021-01-11
+603,2021-01-13 13:19:53+00:00,1349345425615159297,AragonProject,"Meet the @vocdoni team, who have recently joined the Aragon ecosystem 🦅
+
+Make sure to welcome the team in this new exciting chapter for them! 🎉
+
+https://t.co/fmW1pGyL5D https://t.co/m4AQ4SRhfm",50,6,12,2021-01-13
+604,2021-01-15 12:41:09+00:00,1350060450793336836,AragonProject,"Everyone is talking about @LidoFinance, with more than $80m worth of ETH being staked towards Ethereum 2.0.
+
+Did you know it's #PoweredByAragon? 🦅
+
+👉Learn more https://t.co/fkHX6jXY1T
+🗞Read @coindesk's coverage https://t.co/xxy8D7QD4A
+🔎Check their DAO https://t.co/1JQWigVIMu",63,2,16,2021-01-15
+605,2021-01-18 13:12:46+00:00,1351155570997415941,AragonProject,"Being DAO-governed is a feature, as @API3DAO states it 🦅 
+
+API3 is providing secure oracles for Web3, and it's #PoweredByAragon. Their DAO currently governs over $87m 💰
+
+📊 Check out more stats https://t.co/vucjwl5QxR
+🔎 Read more https://t.co/MsTNDB1JBG https://t.co/6wzip3YUQy",55,3,13,2021-01-18
+606,2021-01-19 08:04:36+00:00,1351440408279187456,AragonProject,"Congrats to PieDAO for achieving $14m locked in the protocol! 📈
+
+#PoweredByAragon, PieDAO creates asset allocation indexes and governs more than $70m in assets.
+
+Learn more about them in their first newsletter👇 https://t.co/zvpEHLE2JV",37,5,8,2021-01-19
+607,2021-01-25 12:49:46+00:00,1353686498277793793,AragonProject,"DAOs have surpassed $700m in assets under management — out of which &gt;90%, $650m, is #PoweredByAragon 🦅
+
+📊 More stats https://t.co/ZuJg20IiHp
+🦅 More #PoweredByAragon https://t.co/N9WnUYyrST https://t.co/C83Z9EGlzp",93,4,21,2021-01-25
+608,2021-01-28 16:09:08+00:00,1354823833774026762,AragonProject,"""No one will fuck with it"". Blunt way of describing what a DAO is, but fairly accurate 🙂
+
+Food for thought @WSBChairman 🦅
+
+Join our community and discover more 👇
+
+https://t.co/NViCQPXY4H https://t.co/tzI24tFxKH",24,3,9,2021-01-28
+610,2021-01-29 09:30:20+00:00,1355085864070762496,AragonProject,"The Fight for Freedom has never been more relevant. 
+
+https://t.co/53To885bsi",45,1,13,2021-01-29
+611,2021-02-01 17:01:13+00:00,1356286492755320832,AragonProject,"Govern better, together 🗳",53,4,11,2021-02-01
+612,2021-02-03 07:58:09+00:00,1356874601914064897,AragonProject,@JonGiamp Thanks for the kind words! We are working on a new release that will include gasless voting. Coming soon!,2,0,0,2021-02-03
+613,2021-02-04 10:19:03+00:00,1357272447989522434,AragonProject,"Let’s pitch DAOs to @elonmusk.
+
+What would you tell him?
+
+https://t.co/vm0EnigiLk",45,11,7,2021-02-04
+615,2021-02-08 09:28:53+00:00,1358709374236123137,AragonProject,"""Anyone should be able to have control over their financial future"" #PoweredByAragon 🦅 https://t.co/Je0LPXoI3A",42,5,11,2021-02-08
+617,2021-02-10 13:48:55+00:00,1359499590043582466,AragonProject,"Aragon launched in alpha on Feb 10th 2017 — established as ""Fight For Freedom Day"" by the community.
+
+Four years after, DAOs #PoweredByAragon just crossed $900m in assets under management.
+
+Happy Fight For Freedom Day! 🦅 https://t.co/amKaaSNURF",87,13,19,2021-02-10
+621,2021-02-12 08:39:56+00:00,1360146609028423681,AragonProject,"Fortunately, Aragon Govern uses @graphprotocol, so all the lags resulting from processing events in the client will be gone ⚡
+
+https://t.co/JMR5nc7zea",22,5,3,2021-02-12
+622,2021-02-15 14:37:26+00:00,1361323742190796812,AragonProject,"Check out the smart contract security audit of this first part of the merger here 👇
+
+https://t.co/PetKESVKzi",4,0,1,2021-02-15
+625,2021-02-16 17:08:57+00:00,1361724258976677891,AragonProject,"Do you love transparency and community involvement?
+
+The @AragonAssoc is hiring a Head of Transparency to ensure that the community is always well informed and has access to regular transparency disclosures 🗞
+
+Read more 👇
+
+https://t.co/Sd0n16hzk1",29,4,7,2021-02-16
+626,2021-02-17 11:17:12+00:00,1361998127063048194,AragonProject,"Do you want to help shape the future of decentralized governance?
+
+The @AragonAssoc is hiring a Head of Product to help shape the Aragon roadmap and its products, which support the DAO economy and help govern more than $650m 📲
+
+Read more 👇
+
+https://t.co/xNsy5fpVrR",31,3,7,2021-02-17
+628,2021-02-18 11:09:32+00:00,1362358582734426113,AragonProject,"Do you want to raise awareness about decentralized governance?
+
+The @AragonAssoc is hiring a CMO to lead our efforts in spreading the word about DAOs and decentralized governance in society 📣
+
+Read more 👇
+
+https://t.co/eJjbxq97kn",35,4,4,2021-02-18
+629,2021-02-19 10:12:45+00:00,1362706682736951299,AragonProject,"Do you want to help shape the future of decentralized governance?
+
+The @AragonAssoc is hiring a Product Designer &amp; Researcher to help define and shape the Aragon products, which support the DAO economy and help govern more than $900m 🔍
+
+Read more 👇
+
+https://t.co/Rqb5bJJYN0",16,4,4,2021-02-19
+632,2021-02-22 09:29:54+00:00,1363783063042408454,AragonProject,"@duceswild557 You’d need to send those to MetaMask or other Web3 wallet, and use the upgrade portal :)",2,0,0,2021-02-22
+634,2021-03-08 15:19:34+00:00,1368944488002052098,AragonProject,#PoweredByAragon https://t.co/9XEGyObgS3,20,1,6,2021-03-08
+636,2021-03-09 10:57:29+00:00,1369240920940556292,AragonProject,"ANT has been included in Yield’s launch, so ANT holders can now lend their tokens and earn more 🚀 https://t.co/eU0lyVbtzu",59,0,12,2021-03-09
+637,2021-03-10 16:04:32+00:00,1369680581412462594,AragonProject,"We know gas fees on Ethereum are quite steep.
+
+That's why we have been working on Aragon Govern — a simple and flexible framework for powerful Optimistic DAOs, running operations off-chain.
+
+Coming soon to a DAO near you! Read more 👇
+
+https://t.co/F57OjbwdOv",74,2,10,2021-03-10
+638,2021-03-15 13:37:59+00:00,1371455640795807744,AragonProject,"Aragon v1 is the most trusted DAO framework, helping communities govern hundreds of millions of dollars 💰
+
+The best thing about it? You can use it today. Learn more 👇
+
+https://t.co/fVWF0YyNfD",44,2,6,2021-03-15
+639,2021-03-16 08:42:05+00:00,1371743563420155906,AragonProject,🦅💞👻 https://t.co/Jut6vp2FA6,53,7,3,2021-03-16
+640,2021-03-17 13:28:51+00:00,1372178118006476810,AragonProject,"Yet another #PoweredByAragon DAO, @sarcophagusio is a protocol providing a decentralized dead's man switch 🎚
+
+Learn more 👇
+https://t.co/4JMCi1fdEB",46,10,9,2021-03-17
+641,2021-03-22 09:50:00+00:00,1373934978569011202,AragonProject,"We just reached 80,000 Twitter followers 📈
+
+Thanks to every one of you for following our journey 👏
+
+Let's make decentralized governance happen 🦅 https://t.co/D5viVFUfLy",82,10,11,2021-03-22
+642,2021-03-23 17:49:11+00:00,1374417958475157509,AragonProject,DeFi → NFTs → DAOs / DeGov 🦅,120,8,22,2021-03-23
+643,2021-03-26 16:22:38+00:00,1375483341928075279,AragonProject,A new minimalistic and protocol-centric governance framework ready to power a variety of new governance use-cases is on its way. Stay tuned! #AragonV2 https://t.co/oa9YBANkLh,175,15,29,2021-03-26
+644,2021-03-29 22:49:13+00:00,1376667793735704586,AragonProject,@CryptusBtc Correct. We've updated the info with a corrected post at the end of the thread. Thank you!,1,0,0,2021-03-29
+651,2021-03-30 18:02:40+00:00,1376958068412575749,AragonProject,The vote is now live and will end on Friday 2nd of April 2021 at 6.00 pm (UTC) and will determine how much USDC should be paid for the completion of this milestone. The Snapshot vote can be accessed here: https://t.co/5qFgLlA0Ll,18,2,5,2021-03-30
+656,2021-03-31 14:28:51+00:00,1377266645664731142,AragonProject,We are extremely excited to announce that Luca Vento has been appointed Chief Marketing Officer of the @AragonAssoc. Luca will be responsible for elevating Aragon’s global brand and overseeing the expansion of its solutions. Read more here: https://t.co/TnQcjOHX5r,74,8,16,2021-03-31
+657,2021-04-08 12:40:05+00:00,1380138377870245891,AragonProject,"Last week, ANT holders voted to allocate 100,000 ANT as collateral towards Aragon's first KPI Option.",46,4,11,2021-04-08
+660,2021-04-14 13:25:56+00:00,1382324243522850818,AragonProject,"Historically, DAOs have been lacking incentivization mechanisms to integrate standard goal-setting frameworks within their governance structures. Learn how KPI options are changing this. @UMAprotocol  https://t.co/g8bH0PoHYA",75,5,25,2021-04-14
+661,2021-04-19 20:19:35+00:00,1384240278622531585,AragonProject,@JonGiamp Hey there! We're really sorry for the delayed response on this matter and we are truly sorry to hear you were not able to access the console last week. Our team has experienced some issues with the IPFS nodes in our cluster. All of these issues have now been fully resolved.,0,0,0,2021-04-19
+663,2021-04-29 16:11:46+00:00,1387801796245139458,AragonProject,"Come and join us on our first Community Call next Wednesday 5th of May at 6:00 PM (CEST). 
+
+We will be presenting:
+🦅 Aragon Voice, a new token-based voting platform 
+🗳️ Vocdoni, a governance platform for traditional organizations
+
+Register here ⤵️:
+https://t.co/4jEdllqxQx",49,5,14,2021-04-29
+664,2021-05-05 13:30:19+00:00,1389935491445841921,AragonProject,"Don't miss the first #AragonCommunityCall today at 6 PM (CEST)! We will be showcasing some exciting new products elevating digital voting solutions for DAOs and traditional organizations, powered by @Ethereum, @IPFS &amp; @tendermint_team. 
+
+Join us here:
+https://t.co/8ZpdDo7gXO https://t.co/tXGQ403zWK",54,9,17,2021-05-05
+665,2021-05-07 13:35:54+00:00,1390661672768086024,AragonProject,"@wellhat @ethereum @IPFS @tendermint_team Pleased to hear you enjoyed it! Our community calls are scheduled for the first Wednesday of each month, and so our next one will be on the 2nd of June! See you then!",1,1,0,2021-05-07
+666,2021-05-14 17:20:39+00:00,1393254948201193472,AragonProject,"To incentivize the migration of DAOs from Aragon v1 to Aragon v2, a vote was previously passed to use KPI options as a mechanism to accelerate the transition, where the option expiry date was set to 30th June 2021.",35,3,9,2021-05-14
+671,2021-05-18 16:19:09+00:00,1394689022581219330,AragonProject,"We're thrilled to introduce a brand new blog experience with a fresh new look and feel, ready to provide a more unified experience to educate and inspire both the Aragon and Vocdoni communities. 
+
+Check it out here: https://t.co/Xj3XYLrsNf https://t.co/hxOCuH3214",47,2,12,2021-05-18
+672,2021-05-19 09:38:55+00:00,1394950686861893632,AragonProject,"Friendly reminder to vote on the proposal set forth last week which aims to extend the option expiry date to provide more time for the core team to improve the UX flow of Aragon V2. The vote will end this Friday 21st of May 2021. 
+Learn more and vote here: https://t.co/LdagCarbrb",17,0,2,2021-05-19
+673,2021-05-20 15:41:52+00:00,1395404415788621834,AragonProject,"Sneak-Peek: Aragon Voice is a new gasless, permissionless, and universally verifiable voting solution we are building. We will release more information on Aragon Voice in the coming weeks, so stay tuned!",7,0,1,2021-05-20
+678,2021-05-24 07:18:07+00:00,1396727194886582272,AragonProject,"Initiatives that produce true social good are coming to a city near you this year. Which city in Europe should the upcoming Aragon Ambassador Program support first?
+
+Vote here: https://t.co/Mk1RVykKB3
+
+#fightforfreedom
+
+https://t.co/PbBLErqgr1",24,7,5,2021-05-24
+680,2021-05-25 14:23:34+00:00,1397196648196067341,AragonProject,"Friendly reminder to vote on the proposal set forth on the 20th of May and ending tomorrow. The proposal aims to diversify and optimize the treasury of the Budget DAO, a DAO owned by the Aragon Association. 
+
+You can learn more and vote here: https://t.co/HGDdSHbmjo https://t.co/eoIav8sdrs",59,4,16,2021-05-25
+682,2021-05-27 19:01:48+00:00,1397991442832924677,AragonProject,"Join us next Wed 2nd of June on our Community call and learn all about Aragon &amp; @Witnet_io's new discord-powered voting plugin for DAOs, Aragon Court's escrow solution developed by @Greet_OS, and some new exciting news! ;)
+
+Save the date and link here: https://t.co/OqZrokUPQq https://t.co/VJkZRxt6Zi",39,0,11,2021-05-27
+689,2021-05-28 08:01:16+00:00,1398187603275530243,AragonProject,"Kudos to @NybergNeil for voicing the value of our tech and the values of the Aragon community! 
+
+Want to learn how you too can become a more active member of Aragon? Join us next Wed 2nd of June on the Aragon Community Call!
+
+Signup here: https://t.co/675Uo6LKkq https://t.co/6GRZCzU6Nk",49,2,4,2021-05-28
+690,2021-05-31 12:32:17+00:00,1399342971552686081,AragonProject,"We're excited to announce a partnership with @witnet_io to provide off-chain, optimistic voting for DAOs via Discord! Any Aragon V2 DAO will soon be able to offer feeless, binding votes to any Discord channel using only emoji reactions (👍/👎). 
+
+https://t.co/0y29VpK8TV",136,5,30,2021-05-31
+693,2021-06-01 14:50:58+00:00,1399740260058341379,AragonProject,"The call starts at 6 PM (CEST) and it will be live-streamed on Youtube. https://t.co/OqZrokUPQq
+
+See you tomorrow!",13,2,0,2021-06-01
+699,2021-06-02 10:42:19+00:00,1400040074084077579,AragonProject,"We are extremely honored to announce that Ramon Canales (@ramonIsTweeting) has been appointed as Head of Product at the Aragon Association. Welcome to the team, Ramon!
+
+https://t.co/dJaJzMZdbr",51,5,8,2021-06-02
+701,2021-06-09 23:37:37+00:00,1402771897067130882,AragonProject,"1) @Witnet_io's Discord-voting plugin for Aragon DAOs
+2) @Greet_OS's escrow solution for Aragon Court
+3) @gitcoin’s new dGov grants category
+
+We've got it all covered on the Community Call last week! In case you've  missed it, you can watch it here:
+
+https://t.co/OqZrokUPQq",40,2,5,2021-06-09
+702,2021-06-10 16:22:05+00:00,1403024681540755465,AragonProject,"Looking to build a career in blockchain? Join us in building decentralize governance solutions. Learn more about the Aragon vision and values, and explore currently open roles on our newly launched career page!
+
+https://t.co/F3D8JbFBFV",32,6,5,2021-06-10
+703,2021-06-16 13:09:52+00:00,1405150635343986690,AragonProject,"Have your say on how Aragon should approach the issues of composability and resource-allocation in a multi-chain world. From the following chains we're currently testing, which one would you like to see deployed first?
+
+1) Binance Smart Chain
+2) Polygon
+3) xDai
+4) Other",69,99,15,2021-06-16
+704,2021-06-17 15:11:12+00:00,1405543556064841730,AragonProject,"The Gitcoin Grants Program (GR10) is now live at https://t.co/2jqcmoQt83. Aragon will be helping YOU build the decentralized future by sponsoring the new dGov category with 50,000 DAI in match funding. We can’t wait to see your proposals! Good luck to all applicants. https://t.co/CKtJD21n1V",72,6,16,2021-06-17
+705,2021-06-29 13:44:55+00:00,1409870498310279176,AragonProject,"Check out the updated @AragonAssoc page (steward of the Aragon Project) with improved transparency on Treasury, Finance, and Committee. Stay tuned for more Transparency initiatives released very soon. 
+
+https://t.co/wWvJjImnGg",38,2,7,2021-06-29
+706,2021-07-01 12:27:00+00:00,1410575665146089472,AragonProject,"Another month, another Community Call! 🎙️
+
+Join us next Wednesday 7th of July at 6 PM (CEST) to learn more about @vocdoni Ballot Protocol, Aragon Govern, Aragon's Transparency Report, and more!!!
+
+See you there and bring all of your burning questions! https://t.co/dfV4dPCJac",21,0,7,2021-07-01
+708,2021-07-05 14:57:24+00:00,1412063066259345409,AragonProject,"🗳️ Vocdoni Ballot Protocol
+👩‍💻 Aragon Govern Demo
+📜 Transparency Report
+
++ more exciting news to be shared this Wednesday, July 7th, at the Aragon Community Call #3. Subscribe to our channel, so you get reminded when we go live!
+
+https://t.co/dfV4dPCJac",26,4,5,2021-07-05
+709,2021-07-06 11:43:16+00:00,1412376600704847873,AragonProject,"We're extremely excited to welcome Ivan Fortunov as Head of Partnerships at the Aragon Association. You can read more about @TheTakenUser's background and responsibilities here. Welcome to the team, Ivan!
+
+https://t.co/SC3lJC2ozg",37,4,3,2021-07-06
+711,2021-07-07 16:03:03+00:00,1412804363995734020,AragonProject,Starting Now! https://t.co/qCwAkurift,17,0,6,2021-07-07
+713,2021-07-08 15:02:28+00:00,1413151504756666378,AragonProject,DAOs eating the world - @API3DAO completing the stack with decentralized APIs - dAPIs. First-party oracles and aligned incentives for dAPI providers. Built on Aragon. https://t.co/v08He7P0O5,62,2,19,2021-07-08
+714,2021-07-09 16:43:59+00:00,1413539439033389057,AragonProject,"We're extremely thrilled to welcome Marta Sancho as our new Project Manager in the Aragon Labs team, focusing on different support initiatives. Welcome to the Aragon Family, Marta!
+
+https://t.co/zYO5E30B8e",45,5,6,2021-07-09
+715,2021-07-12 23:10:14+00:00,1414723807269597184,AragonProject,"June 2021 Highlights:
+- Aragon Govern launches (on Rinkeby)
+- Aragon announces multi-chain plans
+- New dGov category sponsored on @gitcoin GR10
+- New DAO-friendly content 
+- New transparency resources
+
+Dig deeper and subscribe to our monthly newsletter:
+https://t.co/CpjSuWpyMu",27,1,7,2021-07-12
+716,2021-07-13 16:54:55+00:00,1414991743615856643,AragonProject,"🗳️ Vocdoni Ballot Protocol 
+👩‍💻 Aragon Govern (demo) 
+📜 Transparency Report
+📄 New DAO Content!
++ Much More!
+
+We've got it all covered on the Aragon Community Call last week! In case you've missed it, you can watch it here:
+
+https://t.co/84mL3pC8um",17,1,2,2021-07-13
+717,2021-07-14 12:05:41+00:00,1415281342275805191,AragonProject,"We're excited to announce that @unoreinsure will partner with Aragon to develop a reputation-based DAO to serve as a decentralized dispute resolution management body of experts for the reinsurance industry.
+
+https://t.co/NiZPr7B2PB",45,0,6,2021-07-14
+718,2021-07-15 15:58:04+00:00,1415702212983001094,AragonProject,"The latest @AragonAssoc Transparency report is now live! This bi-annual report provides the Aragon community extensive detail on the Aragon Project including:
+
+- Products
+- Roadmap
+- Portfolio
+- Finances
+
+Access here: 
+https://t.co/Rp6Qypqrh6",39,0,6,2021-07-15
+719,2021-07-16 14:25:49+00:00,1416041386198065160,AragonProject,"We're excited to see @zebpay's woman-led DAO coming alive, built on Aragon. Initially, projects that female-only members choose to invest in will be funded by Zebpay, but eventually, the DAO will raise its own capital and crowdfund social-impact projects.
+
+https://t.co/5Xus7GSgmu",27,2,5,2021-07-16
+720,2021-07-19 17:15:51+00:00,1417171338628943872,AragonProject,"We're looking for a creative and passionate Senior Product Marketing Manager to join the Aragon team and lead the go-to-market strategy for the Aragon Open Stack! Learn more about the role here:
+
+https://t.co/gCqYt9iKpi https://t.co/geqdDbdM9x",25,0,7,2021-07-19
+721,2021-07-20 19:00:13+00:00,1417559990513147905,AragonProject,"We're looking for a Developer Advocate to lead the overall Aragon's DAO developer experience, and technically articulate the value of the Araon OpenStack. Learn more here:
+
+https://t.co/fLSkLlJNje https://t.co/fHCo94Yq9i",14,1,4,2021-07-20
+722,2021-07-21 16:22:16+00:00,1417882631195201539,AragonProject,"We're excited to welcome Alex Flores as our new Full Stack Developer in the Aragon Labs team, focusing on new UI functionalities. Welcome to the Aragon Family, Alex!
+
+https://t.co/b9FlvsnA19",34,5,3,2021-07-21
+723,2021-07-22 06:00:10+00:00,1418088459051454464,AragonProject,"We are looking for a Product Designer, responsible for ensuring our users and community have a unique and engaging experience when interacting with our products. 
+
+Learn more here:
+https://t.co/khefszEiqo https://t.co/cJYHyzwG38",17,0,2,2021-07-22
+725,2021-07-23 18:10:55+00:00,1418634748415692801,AragonProject,"Helping your mom set up a DAO this weekend? 
+
+Here are a couple of questions she might ask. Shout out if we've missed anything and we'll add it in.
+
+https://t.co/GuTTRo1p51",60,2,15,2021-07-23
+727,2021-07-26 06:00:20+00:00,1419538054835064841,AragonProject,"We are looking for a Senior Product Manager with an entrepreneurial mindset to guide Aragon's DAO product suite from conception to launch as well as innovate and execute on key product initiatives. Learn more here:
+https://t.co/D711hOeAdC https://t.co/X9bsCJx19R",18,0,2,2021-07-26
+728,2021-07-27 06:00:21+00:00,1419900445280149504,AragonProject,"We're looking for Senior Front-End Engineer to join our fully remote, global team at Aragon. If you're interested in playing an instrumental role in building human-centric front-ends for DAOs, apply here today.
+https://t.co/D711hOeAdC https://t.co/IeF5Ykoadw",16,0,2,2021-07-27
+730,2021-07-28 16:22:14+00:00,1420419335215005708,AragonProject,"ANT holders! It's time to participate in electing an interim council to control Aragon Court parameters for the imminent launch!
+
+Make your voice heard and vote for the new council, by selecting your top 5 favorite candidates.
+
+You can vote here:
+
+https://t.co/UB6Fqxnp0f",30,3,3,2021-07-28
+731,2021-07-29 12:42:38+00:00,1420726461510692867,AragonProject,"🔊 Turn up your speakers!
+
+Come join us on August 4th at 6 PM (CEST) to learn more about our product roadmap, KPI Options, and the next steps in decentralizing the Aragon Project.
+
+Subscribe to our Youtube channel so you don't miss out: https://t.co/b0XFPgQKST",24,1,6,2021-07-29
+732,2021-07-30 12:40:42+00:00,1421088362241347589,AragonProject,"We're thrilled to welcome Adrià Massanet as the new Security Engineer in the Aragon Labs team, who will focus on ensuring a safe, operable and auditable protocol. Welcome, Adrià!
+
+https://t.co/B1j1Hn7qQG",47,6,7,2021-07-30
+734,2021-07-31 22:06:20+00:00,1421593096677117953,AragonProject,"Reminder to vote on the interim council by selecting your top 5 favorite candidates. The elected council will control Aragon Court V2 parameters ahead of its launch. 
+
+The vote will end tomorrow, Sunday 1st of August 2021. You can vote here: 
+https://t.co/UB6Fqxnp0f",15,0,5,2021-07-31
+735,2021-08-03 10:20:11+00:00,1422502548573917229,AragonProject,"Pssst... Have you ever created a DAO? Or are you an active member of one? 
+
+We'd love to ask you a couple of questions to better understand your pains and gains, and which tasks were most important in the process. 
+
+You can let us know here:
+https://t.co/Ofc0SsdPxC",42,2,14,2021-08-03
+736,2021-08-04 05:03:40+00:00,1422785284849143809,AragonProject,"In case you've missed it, in June we announced a partnership with @witnet_io to provide off-chain, optimistic voting for DAOs via Discord! 
+
+Read about how you can offer feeless, binding votes to Discord channel users using only emoji reactions (👍/👎).
+
+https://t.co/0y29VpK8TV",44,0,14,2021-08-04
+739,2021-08-05 15:54:46+00:00,1423311525876486147,AragonProject,"$ANJ - $ANT migration @.044 is now LIVE! - https://t.co/RAFpCpyF3C
+
+$ANJ holders can now convert to $ANT and stake it in Aragon Court with a lock until Oct 5th. 
+
+Check out more details here: https://t.co/tN1DYzI2Oj",27,6,8,2021-08-05
+740,2021-08-06 11:59:29+00:00,1423614705420148738,AragonProject,"DAOs are eating the world.
+
+In the first of a series of articles, we explore how YOU can 'Start a Hedge Fund (from your Bedroom)', inspired by Surf Finance @surf_defi 
+
+https://t.co/jXzeK6cq5Y",104,7,31,2021-08-06
+741,2021-08-09 17:30:02+00:00,1424785051527651330,AragonProject,"We're excited to welcome Selim Imoberdorf as Senior UX Designer at the Aragon Association. Selim will be spearheading Aragon's human-center design projects and initiatives. Welcome, Selim! 👋
+
+https://t.co/jCD2otM3ra",43,5,6,2021-08-09
+742,2021-08-11 17:59:32+00:00,1425517252116418563,AragonProject,"Curious to learn all that has been happening with the Aragon Project in July and missed our updates?
+
+Check it out here and remember to subscribe to get all the latest news first.
+
+https://t.co/tWLGmwP2ky https://t.co/KdPeK53Llh",35,1,7,2021-08-11
+743,2021-08-12 15:28:12+00:00,1425841556943147016,AragonProject,"A short overview of Layer-2 Governance Models and how Aragon Labs are closing in on the holy grail: zkRollups for free, Verified &amp; Binding On-Chain Governance: 
+https://t.co/2NrbBSaGYd",54,4,11,2021-08-12
+744,2021-08-13 14:16:21+00:00,1426185864107933699,AragonProject,@Ready0ne @SnapshotLabs - UX differences (eg. the same proposal can contain many questions)!,1,0,0,2021-08-13
+754,2021-08-14 03:52:18+00:00,1426391203403141123,AragonProject,"Missed the Aragon Community Call last week?
+
+Learn more about KPI options, Aragon's Product roadmap, and the next steps in decentralizing the Aragon Project by rewatching it here⬇️
+
+https://t.co/wCWaNuD0tT",17,0,6,2021-08-14
+758,2021-08-15 18:00:17+00:00,1426966991835906050,AragonProject,"We're looking for a Developer Advocate to lead the overall Aragon's DAO developer experience, and technically articulate the value of the Araon OpenStack. Learn more here:
+
+https://t.co/fLSkLlJNje https://t.co/ldYElgQL7b",25,1,6,2021-08-15
+761,2021-08-17 12:31:26+00:00,1427609010488872960,AragonProject,"The Aragon OpenStack (Beta): Aragon Govern, Aragon Voice, &amp; Aragon Court are all live on Mainnet, enabling communities to build and manage Optimistic DAOs, with plug-in dispute resolution. We cannot wait to work with users and gather community feedback.
+
+https://t.co/J50OKmgWe7",140,15,38,2021-08-17
+762,2021-08-18 16:42:31+00:00,1428034586798403588,AragonProject,"Join us next Tuesday 24th of August at 4pm (UTC), for the first AMA in our series. We'll be talking with @UMAprotocol &amp; how Aragon is using KPI options to incentivize DAOs to transition to Aragon Govern. Bring all of your burning questions!
+
+Join us here:  https://t.co/5nqDuMzlCa",42,1,12,2021-08-18
+763,2021-08-19 01:09:31+00:00,1428162174585802753,AragonProject,"Discover the next steps and contribute to the decentralization of the Aragon Network, through the launch of a fractal DAO!
+
+https://t.co/Zhndgw9VJ9
+
+Join the open chat this Friday 19th at 4pm (UTC) on Discord (https://t.co/GTi8gD6Bmb) &gt; Community Discussion &gt; chan:Auditorium.",37,0,6,2021-08-19
+765,2021-08-20 15:38:15+00:00,1428743187808595974,AragonProject,"Migrate your DAO to Aragon Govern before October 1st to be eligible for our 100,000 ANT KPI Options airdrop, courtesy of @UMAprotocol.
+
+https://t.co/QisSUcgiM6",39,1,9,2021-08-20
+766,2021-08-23 13:38:28+00:00,1429800207596806161,AragonProject,We're thrilled to be partnering with @epnsproject to provide Aragon Voice users with decentralized push notifications and provide a more user-friendly and inclusive governance experience. https://t.co/DLI3QCPPFu,142,11,34,2021-08-23
+768,2021-08-24 13:12:50+00:00,1430156143540703241,AragonProject,"Do not miss out on the opportunity to convert your ANJ to ANT at the higher rate of 0.044 and become a guardian in Aragon Court. 
+
+Conversion closes on September 5th, and lock-up until October 5th.
+
+Upgrade here: https://t.co/RAFpCpyF3C",34,4,6,2021-08-24
+769,2021-08-26 11:56:36+00:00,1430861734961614849,AragonProject,"🎙️ Aragon Community Call #5 🎙️
+
+Join us next Wednesday 1st Sept to learn more about:
+
+- Aragon Govern and Aragon Court,
+- Multichain Support,
+- Aragon Ambassadors Program,
+- A surprise... take a guess! 👀
+
+Subscribe to our channel so you don't miss out:
+https://t.co/nB6CAap0cI",29,4,5,2021-08-26
+771,2021-08-27 15:38:19+00:00,1431279920731336709,AragonProject,"Some weekend reading: a few of our thoughts on what DAOs are in the context of how we've historically organized ourselves.
+
+Be part of the conversation in the comments below.
+
+https://t.co/sYdXQL7p9U",42,6,14,2021-08-27
+772,2021-08-31 17:22:45+00:00,1432755754331693067,AragonProject,"It's almost time to flip that page on your calendar — make sure not to miss tomorrow's Aragon Community Call at 6 PM (CEST)!
+
+We'll be sharing more about the latest product updates, the Aragon Ambassadors Program and a very special announcement... 🤫
+
+https://t.co/nB6CAap0cI",34,3,9,2021-08-31
+773,2021-09-01 15:16:04+00:00,1433086258427928580,AragonProject,"Dear Aragon Community, Aragon Client is going multi-chain! 
+
+Have your say on how we should proceed with multi-chain support on Aragon Client. Cast your vote directly on Aragon Voice, and view results as they come in.
+
+https://t.co/sSsT2SmWOO",66,10,18,2021-09-01
+776,2021-09-02 17:40:11+00:00,1433484914695999494,AragonProject,We are honoured to partner with @0xPolygon and make cost-effectiveness a new feature of deploying your #DAO on Aragon. #Aragon is going #Multichain https://t.co/sh94cSKwNV,140,5,41,2021-09-02
+778,2021-09-03 11:08:30+00:00,1433748734391771151,AragonProject,"IMPORTANT! PLEASE READ!
+
+Don't miss out on the ANJ conversion at the higher rate of 0.044 which closes in 2 days, on the 5th of September. 
+
+https://t.co/MLzDtFslOW",21,7,4,2021-09-03
+780,2021-09-07 07:10:04+00:00,1435138281998594050,AragonProject,"Aragon goes #multichain! Make sure you vote on the next chain we will be deploying Aragon Client to! @xdaichain, @BinanceChain, @optimismPBC, @Cardano, @arbitrum, @avalancheavax.
+
+The vote ends in 3 days!
+ 
+#vote on #AragonVoice https://t.co/dsGoMof65Y",56,2,16,2021-09-07
+781,2021-09-08 16:01:47+00:00,1435634478869794819,AragonProject,"#DAOs are a profound evolution of Choice Architecture. In Part 1, learn about exponential choices, voting methods, and how we should delegate: https://t.co/mcUFpvhWgI 
+
+#crypto #web3 #voting #decentralization #choice #choices",47,5,15,2021-09-08
+782,2021-09-09 17:56:05+00:00,1436025631859515396,AragonProject,"We're delighted to welcome aboard Fabrice François as Junior Frontend Engineer. His expertise, curiosity and passion for community is a great fit and will help us scale up in 'crypto time'. Give him a warm welcome! https://t.co/qq0nwgJvt5",41,4,3,2021-09-09
+783,2021-09-10 19:12:23+00:00,1436407220405686276,AragonProject,"We're thrilled to welcome aboard Miki Elson as Growth Marketing Manager. Miki has over 10+ years of experience in the digital marketing space and an innate drive to bring the power of #DAOs to new heights.  Welcome, Miki!
+
+https://t.co/bisLiBrhjy",38,4,9,2021-09-10
+784,2021-09-13 12:25:56+00:00,1437392100190982145,AragonProject,"We're thrilled to announce that the Aragon Network DAO Charter is now ready for community review and approval. This document highlights the mission, structure, and #governance processes for the AN DAO. 
+Make sure your voice is heard here:
+
+https://t.co/uAKlTAd2gN",57,5,15,2021-09-13
+785,2021-09-16 14:57:28+00:00,1438517398554873870,AragonProject,"Join us for the second AMA in our series introducing @polygon and how Aragon is leveraging the multichain world to bring DAOs to all communities.
+
+Join us tomorrow, Friday the 17th at 4pm UTC+1! https://t.co/vGGjilaG8K",38,0,11,2021-09-16
+787,2021-09-17 11:19:03+00:00,1438824817256542213,AragonProject,Join us today for our AMA with @0xPolygon and add your questions here to be in a chance of winning one of the exclusive Aragon #NFTs: https://t.co/hvT0wjoxrV https://t.co/B9fB7Pbh1K,26,1,8,2021-09-17
+789,2021-09-22 17:12:21+00:00,1440725669210583052,AragonProject,Starting the 25th of October the DAO Global Hackathon will be the chance to build the next wave of DAO Tooling across 4 tracks. Participants can resolve bounties and submit open-lane projects. Share and be ready to get your team on the lineup. Learn More: https://t.co/5c8D6PN6M2,122,18,38,2021-09-22
+790,2021-09-24 14:22:31+00:00,1441407704812113921,AragonProject,"Reminder to vote on the Aragon Network DAO Charter with the deadline fast approaching, this Sunday 26th of September. 
+
+This is a critical document that highlights the mission, structure, and #governance processes for the AN DAO. 
+
+You can vote here:
+https://t.co/uAKlTAd2gN",23,3,7,2021-09-24
+791,2021-09-25 09:05:42+00:00,1441690361961664518,AragonProject,Thank you @BanklessHQ for bringing our community manager role to your amazing community! 🙏 https://t.co/h89cOLYw0J,40,1,5,2021-09-25
+792,2021-09-26 12:54:43+00:00,1442110385792892928,AragonProject,"⚠️16 hours left to vote on the proposed new Aragon Network DAO Charter.
+
+This is a critical document that highlights the mission, structure, and #governance processes for the AN DAO. 
+
+Make your voice heard here: https://t.co/uAKlTAd2gN",29,0,7,2021-09-26
+793,2021-09-27 16:01:17+00:00,1442519722562670593,AragonProject,"Communities are a driving force behind some of the most interesting blockchain projects today. Join us at Aragon to build our community, drive engagement strategies across the crypto ecosystem and make our community a great place for all. Apply here now: https://t.co/dk9M0wXfBt",26,1,6,2021-09-27
+797,2021-09-28 16:01:53+00:00,1442882264023568385,AragonProject,Language has the power to change minds and inspire action. As the content writer at Aragon Labs your skill will create the conversations about the future of decentralised governance and the role our product can play in changing the world. Apply here now: https://t.co/jbnW9qkSHH,13,0,2,2021-09-28
+798,2021-09-29 18:13:58+00:00,1443277891433795586,AragonProject,Very special thanks to our fellow Global DAO Hackathon co-hosts at @agoraspaceDAO @harmonyprotocol @Mintgate_io @Snapshotlabs @Radicle @superfluid_HQ @umaprotocol @gitcoin,11,1,1,2021-09-29
+811,2021-09-30 16:02:23+00:00,1443607163134529539,AragonProject,"As a natural problem solver and experienced product manager, you will thrive in using the best initiatives at the Aragon Network to design the world’s most innovative tools, to secure and govern decentralised organisations. If this is you: https://t.co/zW4CWN6Rx0",14,0,1,2021-09-30
+814,2021-10-01 19:47:12+00:00,1444026128990146560,AragonProject,"The 2021 DAO Global Hackathon, 200+ Developers, 4 tracks and a global focus. From Oct 25th - Nov 22nd the Virtual Sprint to Build Governance Primitives, Sponsored by Leading DAO Infrastructure Providers will be live. Share and get your team on the lineup: https://t.co/P02B6Fuw6n",19,0,1,2021-10-01
+818,2021-10-02 16:01:21+00:00,1444331680039309320,AragonProject,"We are looking for Senior Front-End Engineer to join our fully remote, global team at Aragon. If you're interested in playing an instrumental role in building human-centric front-ends for DAOs, apply here today. https://t.co/H2h25UPWRY",22,1,5,2021-10-02
+819,2021-10-03 16:01:14+00:00,1444694038913896450,AragonProject,Excited about the future of #DAOs and want to make a positive difference in the world with your knowledge of Web3? We are looking for strategic and innovative action takers to help us grow. Learn more here: https://t.co/B92pJspixs,29,0,3,2021-10-03
+820,2021-10-04 18:30:25+00:00,1445093969881444353,AragonProject,Which decentralised ID solution should the AN Sub-DAOs use for Elections? The AN DAO vote is live now: https://t.co/RWAKXa79ho,19,0,2,2021-10-04
+822,2021-10-05 05:40:48+00:00,1445262676813361152,AragonProject,Help us build a community to support the advancement of DAOs and unleash the collective intelligence of #Web3 communities. https://t.co/NBe2UPCBuQ,31,1,3,2021-10-05
+825,2021-10-06 11:08:05+00:00,1445707427920289802,AragonProject,"We also welcome @voteWithTally to the collective of sponsors organising the DAO Global Hackathon!
+
+Share this global event with your network and sign up here: https://t.co/P02B6FM6XV",16,0,0,2021-10-06
+828,2021-10-07 22:09:16+00:00,1446236209081200647,AragonProject,"With over 200 individual developers already signed up for 25th October launch, the DAO Global Hackathon Discord is the centre of that discussion. Contributors are sorting themselves into teams for the sprint from now: https://t.co/P02B6Fuw6n",7,1,0,2021-10-07
+833,2021-10-08 12:58:56+00:00,1446460098533003290,AragonProject,"Listen in with our Head of Transparency and 
+Head of Governance discussing our move to the 
+AN DAO structure and answering all of your questions along the way. 
+
+Join us on this historic journey and help chart the pathway's to progressive decentralisation.
+https://t.co/eq5YhbnC8M",18,2,0,2021-10-08
+835,2021-10-11 14:11:48+00:00,1447565602672062464,AragonProject,"After the release of the multichain deployment of Aragon Client on @0xPolygon in August, we since seen hundreds of new DAOs launch as a respond to the low gas fees.",10,1,1,2021-10-11
+851,2021-10-12 11:01:55+00:00,1447880203083124738,AragonProject,"The next frontier of #DAO innovation is Gasless, Verified, and binding On-Chain governance. 
+
+Leading these digital governance developments, 
+Aragon Labs invests heavily in transparently researching and innovating governance models for us all.
+Learn more:
+https://t.co/D8MFAQvemf",56,4,12,2021-10-12
+858,2021-10-13 18:09:09+00:00,1448350109780021250,AragonProject,"And @NEARProtocol, helping to scale past congestion issues and high gas to provide a truly accessible #web3 layer of functionality to the blockchain.",12,1,1,2021-10-13
+864,2021-10-14 12:28:44+00:00,1448626827904405508,AragonProject,"Join us live today with @edsaperia, Director of the London Hub for civic tech, will talk about emerging experimental and community infrastructure UX.
+
+Join us in the Auditorium channel in our Discord:
+(under community discussions) 3pm - 4pm UTC 
+https://t.co/Ccj8neILs5 https://t.co/9uyZQjYjIY",18,3,2,2021-10-14
+865,2021-10-18 18:04:27+00:00,1450160866154909706,AragonProject,Only 7 days to go until the DAO Global Hackathon kicks off with 16 partners across DAO tooling. https://t.co/l2yVSLMELE,22,1,4,2021-10-18
+868,2021-10-19 03:16:24+00:00,1450299765749657601,AragonProject,Welcome to the team @_juliettech💙 https://t.co/0d5T7d9bHO,22,1,1,2021-10-19
+871,2021-10-20 21:05:12+00:00,1450931128110616577,AragonProject,"The AN DAO is now live and the votes for the committees are in! Join us as we embark on this historic journey and learn how we are making this happen.
+https://t.co/tfo6kQZUq0 
+
+#Aragon #DAO 
+#dencentralisedgovernance",42,3,10,2021-10-20
+872,2021-10-22 00:11:14+00:00,1451340332839354370,AragonProject,@stefanobernardi 💙 https://t.co/y1qK7Kirxg,0,0,1,2021-10-22
+873,2021-10-25 09:47:33+00:00,1452572530041044994,AragonProject,"Building the basics of a collaborative, decentralized Content Guild, our first post by an Aragon Ambassador @ShawnzoGonzo takes us through the highs &amp; lows of joining a DAO. Share the @sourcecred love on the #didathing channel: https://t.co/8dQgPAGrsM ❤️ https://t.co/COBuhlB9jq",31,1,6,2021-10-25
+880,2021-10-26 10:19:20+00:00,1452942915563663372,AragonProject,"Join us today 6pm (UTC+1) for the #DAO Global Hackathon kick-off call on our dedicated server. We'll walk you through the overall structure for these upcoming 7 weeks together with our partners, and answer all of your questions. 
+
+#DAOGlobalHack
+
+https://t.co/zqbcM1Zb7m https://t.co/wt206onRaZ",18,2,4,2021-10-26
+882,2021-10-27 16:59:19+00:00,1453405965693431812,AragonProject,"As requested by the community, Aragon Client is now live on @HarmonyProtocol, bringing the cost of a #DAO down to a few cents. 
+
+Try it out at https://t.co/4b3HmdlKa9.
+
+https://t.co/AQuRlDW5sH",196,6,58,2021-10-27
+884,2021-10-28 16:37:25+00:00,1453762841065005058,AragonProject,Running @AragonDAO https://t.co/fxRPzDGtxC,55,3,17,2021-10-28
+891,2021-10-29 15:45:27+00:00,1454112150415450121,AragonProject,We'd like to thank the @AragonProject #Community for bringing us this far and inspiring every day to go beyond! https://t.co/Q0qMSYIUv1,43,7,8,2021-10-29
+895,2021-10-30 11:00:50+00:00,1454402913451876357,AragonProject,15 Ways the World is being Transformed by DAOs https://t.co/C1Bq5rdFHR,43,2,10,2021-10-30
+896,2021-10-31 12:01:09+00:00,1454780479513763841,AragonProject,Our series on Choice Architecture: PART 1: https://t.co/mcUFpvhWgI PART 2: https://t.co/2zhseE08xg PART 3: Coming soon 😉,35,1,11,2021-10-31
+897,2021-11-01 13:03:52+00:00,1455158649643536386,AragonProject,Meet a few of our amazing Ambassadors: https://t.co/yecxx1DXuv @lee0007 @RenzoDan5 @F8Guild @elemoghenekaro @Michael_A_Heuer @israelrex9 @ShawnzoGonzo,31,1,8,2021-11-01
+902,2021-11-02 16:47:04+00:00,1455577210576936968,AragonProject,You can find the previous talk workshop here: https://t.co/mMqkXEPtDK,9,0,0,2021-11-02
+908,2021-11-03 13:02:07+00:00,1455882987283824641,AragonProject,How to Start a Charity (from your Bedroom 🤯): https://t.co/QYq5z2qf13 with @elimu_ai,19,1,5,2021-11-03
+911,2021-11-04 16:02:06+00:00,1456290666963771398,AragonProject,What are the biggest barriers to participation in DAOs? via @Michael_A_Heuer,11,1,2,2021-11-04
+918,2021-11-05 00:00:12+00:00,1456410985011499011,AragonProject,DAOs as Purpose-led Organizations: https://t.co/Bf5b244FUs,26,0,5,2021-11-05
+923,2021-11-06 13:01:20+00:00,1456969951487528964,AragonProject,Set up a DAO for &lt; $0.1 on @harmonyprotocol: https://t.co/AQuRlDEu47,45,0,9,2021-11-06
+924,2021-11-07 13:01:04+00:00,1457332273095876614,AragonProject,"""Intelligence IS error correction."" - @jeffbooth https://t.co/mcUFpvhWgI",13,0,3,2021-11-07
+925,2021-11-08 23:01:25+00:00,1457845744065519631,AragonProject,"""dAPIs open up the possibility for DAOs to create conditional proposals that only execute upon certain real-world conditions being met."" Read all about First-Party Oracles with @API3DAO https://t.co/G0y1IY2osk",107,5,22,2021-11-08
+929,2021-11-09 07:55:24+00:00,1457980123815239682,AragonProject,"The final week of the #DAOGlobalHack Part 1 has started:
+- 5 Days left to hack
+- 30 Bounties (brought forward by +16 partners)
+- in value of +65K USD. 
+
+Join the hottest Web3 event of the year and take part in the advancement of #DAOs.
+
+https://t.co/P02B6Fuw6n https://t.co/mvACJEwsvX",24,0,4,2021-11-09
+934,2021-11-10 20:05:05+00:00,1458526146123943943,AragonProject,"Join the largest collaborative #Web3 Hackathon of the year this Friday 12th Nov! 
+
+Form a team, build the #DAO tools🛠️and primitives that will shape the future of human coordination and compete for a total prize pool of💰$100K! 
+
+#DAOGlobalHack
+
+https://t.co/uUmMC0xVmc",48,2,11,2021-11-10
+938,2021-11-11 01:00:14+00:00,1458600422818693122,AragonProject,How to join a DAO? Spoiler alert: it's super easy! https://t.co/7BROyd5tog,34,0,9,2021-11-11
+942,2021-11-12 18:10:07+00:00,1459221985435832324,AragonProject,"""The same curiosity that turned me into a Data Scientist led me to discover blockchain and Web3, after which there was no turning back."" https://t.co/oBPyxgbQn5",34,3,5,2021-11-12
+944,2021-11-15 18:43:18+00:00,1460317499988320258,AragonProject,"""If we want inclusive systems for those who can’t simply pay or force their way in, we’re going to have to build them ourselves."" https://t.co/JIRYfb5auC",36,6,4,2021-11-15
+945,2021-11-16 17:00:30+00:00,1460654019274317825,AragonProject,"@META_DREAMER from @VENTURE_DAO and @coordinape will be facilitating a workshop on ""what should exist in the world of #DAO tooling"" in an hour from now as part of the DAO Global Hackathon. 
+
+Tune in to listen:
+https://t.co/iQEODhQ0E1 
+
+#DAOGlobalHack",16,4,7,2021-11-16
+947,2021-11-17 10:09:16+00:00,1460912918409756672,AragonProject,@OrcaProtocol This is a great thread! Thanks for putting this together. We wrote an exploratory article on incentive design &amp; tooling for DAOs here: https://t.co/o0BK1Pdq9C,0,0,0,2021-11-17
+959,2021-11-18 17:16:49+00:00,1461382903145934849,AragonProject,"🛠️ Another Day, Another Hackathon Workshop! 
+⏰ Starting in 45mins from now!
+
+Next on the docket @Amxx from @OpenZeppelin will walk you through how to build governance easily with Open Zeppelin Contracts.
+
+Join us here:
+https://t.co/iQEODhQ0E1
+
+#DAOGlobalHack",19,2,5,2021-11-18
+961,2021-11-19 15:42:41+00:00,1461721599770599431,AragonProject,@sflamini5 We are honored to have you on the panel.,1,0,0,2021-11-19
+965,2021-11-22 21:45:30+00:00,1462900070823641090,AragonProject,"All rise! Judge @samuelpharrison has entered the panel. Sam drives ecosystem growth by nurturing DAOs on @harmonyprotocol. Prior, he drove strategic partnerships @ThunderProtocol and was founding Ops Dir. @tezos 
+
+Court is now in session! Bring forth your project
+
+#DAOGlobalHack https://t.co/Ilbi7KdbZh",21,2,5,2021-11-22
+966,2021-11-23 16:32:37+00:00,1463183717145452554,AragonProject,"All rise! The Honorable Judge Tomasz has entered the Panel. Tomasz is a scientist by heart, engineer by trade, and entrepreneur by choice. He is currently advising @human_protocol on decentralized architecture.
+
+Court is now in session. Bring forth your project. 
+
+#DAOGlobalHack https://t.co/Ui7uSL04Zu",83,5,22,2021-11-23
+969,2021-11-24 15:31:48+00:00,1463530799236538370,AragonProject,"All rise! The Honorable Judge @jonathantallen1 has entered the panel. At UC Berkeley, he co-founded Blockhain Berkeley, SF Blockchain Week,  @DekryptCapital, &amp; SP @MagnusVentures. He advocates for @BitDAO_Official. 
+
+Court in session! Bring forth your project.
+
+#DAOGlobalHack https://t.co/UY1seji9u5",16,4,1,2021-11-24
+971,2021-11-25 18:38:33+00:00,1463940184957935619,AragonProject,Welcoming the latest recruit to Aragon Labs: Marco has a comprehensive design background and is on a mission to make the world a better place. Give him a warm welcome! https://t.co/UAlLoEWWim,43,7,3,2021-11-25
+973,2021-11-26 17:05:14+00:00,1464279089322377220,AragonProject,"All rise! Judge @lyuben has entered the panel. Currently, at @LAUNCHub, an early-stage VC. 3rd fund (EUR75M) invests with LPs,  EIF &amp; IFC. He has invested in many projects in the space; notably, @NEARProtocol, @NuCypher, among others. 
+
+Court is now in session! 
+
+#DAOGlobalHack https://t.co/IaeNsHr7Qn",32,9,4,2021-11-26
+974,2021-11-29 19:30:33+00:00,1465402824150376450,AragonProject,From the US Senate to the heart of Web3: welcoming @TayRawlings1 as community manager! https://t.co/IpBpgx2tBQ,56,69,7,2021-11-29
+975,2021-12-01 18:36:23+00:00,1466113965893820420,AragonProject,"All rise!  Judge @matrzeszowski has entered! Current Governance Facilitator for @0xPolygon, overseeing gov-related efforts &amp; products. Since 2014, envisions decentralized gov. as an unprecedented intersection of political philosophy and tech. 
+
+Court in session🛠️
+
+#DAOGlobalHack",43,9,9,2021-12-01
+976,2021-12-02 16:40:23+00:00,1466447162976440321,AragonProject,"Welcome Judge Mario Laul, a researcher focusing on blockchain-based financial and gov. innovation. Recently, he's been with @placeholdervc, investing in open blockchain networks and Web3. He also teaches sociology of culture class at the Estonian Academy of Arts.
+
+#DAOGlobalHack",25,5,0,2021-12-02
+977,2021-12-06 20:26:36+00:00,1467953643257221121,AragonProject,"The Aragon Tech Guild has been busy, within 72 hrs they've:
+
+➡️ Resolved 53 tickets, with an average 11 hour response time.
+➡️ Added, 10 contributors and 2 core contributors. 
+➡️ Certified 15+ experts. 
+
+Learn more in our Discord 
+📎https://t.co/lyCBjSOHuy",31,6,5,2021-12-06
+978,2021-12-07 13:30:59+00:00,1468211438875459589,AragonProject,"The Hackathon Ends in 3 days. Hurry and submit your projects 🛠
+
+#DAOGlobalHack https://t.co/rA6E4FFHyB",21,7,1,2021-12-07
+980,2021-12-08 14:30:59+00:00,1468588926692732931,AragonProject,"48 hours left to enter your projects for the Hackathon. Don't leave your bags💰
+
+#DAOGlobalHack",31,7,6,2021-12-08
+981,2021-12-09 15:22:02+00:00,1468964158368481283,AragonProject,@statsfolio Sorry it took so long 😅 https://t.co/lqnAdY89Zq,1,1,1,2021-12-09
+984,2021-12-11 19:10:02+00:00,1469746315643006982,AragonProject,@owisixseven 🔥,1,0,0,2021-12-11
+987,2021-12-14 19:25:58+00:00,1470837487140585485,AragonProject,What is your preferred smart contract language?,26,17,2,2021-12-14
+989,2021-12-15 15:22:25+00:00,1471138585969631242,AragonProject,"It's happening! Today at 1:00pm EST, join our DAO Tooling Panel Discussion, featuring: 
+
+- @bitDAO_Official
+- @Superfluid_HQ
+- @utopialabs_
+- @shipyardSW
+- @DeepDAO_io
+ 
+Aragon's own  @_juliettech 😉 https://t.co/rfYszHUTxu",68,15,17,2021-12-15
+992,2021-12-20 15:51:31+00:00,1472957845863911428,AragonProject,Congratulations to @ZooDAO and their innovative platform allowing users to easily earn passive income on their #NFTs. We're thrilled to discover how community-governed projects like these can thrive using the Aragon Stack and look forward to more collaborations in 2022! https://t.co/MoHCbAnECF,43,16,10,2021-12-20
+993,2021-12-21 17:15:52+00:00,1473341462427414528,AragonProject,"12/ ... @NEARProtocol, @openzeppelin, @0xPolygon, @POKTnetwork, @radicle, @SnapshotLabs, @Superfluid_HQ, @voteWithTally, @UMAprotocol",18,8,3,2021-12-21
+1006,2021-12-22 20:57:18+00:00,1473759575971143700,AragonProject,"We’ve been reflecting about 2021, reviewing the many experiments, learnings and achievements we’ve been through this year. 
+
+Here's an overview of what the Aragon core team and community have been up to and why WE all are so excited about 2022! 
+
+https://t.co/nw5L9EoGpC",170,79,43,2021-12-22
+1007,2021-12-23 15:52:56+00:00,1474045366047760390,AragonProject,@sabina_beleuz @eaglelex_eth @TayyRawlings @lion917_eth 🏛,2,1,1,2021-12-23
+1008,2022-01-04 12:33:25+00:00,1478343810694496260,AragonProject,"@ARSLUP15000 Hey there. have you tried filing a ticket? Our Tech Support Guild answers in no time. Just head over to our discord, and follow the instructions available in the support channel under ""Tooling &amp; Support"". ;)",0,2,0,2022-01-04
+1009,2022-01-11 12:48:29+00:00,1480884318755078148,AragonProject,"Have your say on the future of Aragon Court by voting on this funding proposal for 🧪 research, ⚙️ product development and 🌎 scaling: https://t.co/4Uupi1W40A",40,4,4,2022-01-11
+1011,2022-01-13 20:33:09+00:00,1481726030154899459,AragonProject,How will DAOs navigate the Web3 scaling challenges? https://t.co/GQ1ANM1jtL Guest appearances from @0xPolygon @harmonyprotocol @Uniswap @DuneAnalytics @avalancheavax @zksync @StarkWareLtd @argentHQ @dydxprotocol @gnosisPM @feiprotocol @RariCapital @compoundfinance @Polkadot,31,6,7,2022-01-13
+1012,2022-01-18 18:49:56+00:00,1483511994242281478,AragonProject,@0xPolygon @POKTnetwork @radicle @SnapshotLabs @Superfluid_HQ @voteWithTally @UMAprotocol @VENTURE_DAO 2/2,15,0,2,2022-01-18
+1014,2022-01-19 14:16:22+00:00,1483805537884123143,AragonProject,"@albiverse @nadertheory @LuxInABottle We are addressing these shortcomings and many more, stay tuned!",3,1,0,2022-01-19
+1015,2022-01-24 14:06:25+00:00,1485614971241345032,AragonProject,Happy to be recognized by @RockmanLaw and @AscensionGrp in this great article by @amanda_pun https://t.co/g5uXkcCrdz,37,4,8,2022-01-24
+1016,2022-01-25 12:23:36+00:00,1485951485133438977,AragonProject,Read the latest summary of our ongoing research 🔬 into DAO creation and design. Comment below or reach out on Discord to have your say 📣 on these important questions. https://t.co/JeX0EPLcCG,74,12,22,2022-01-25
+1017,2022-02-07 22:52:32+00:00,1490820805873356802,AragonProject,"It's already February🌱, so if your NY resolution was to work for a DAO, here are 5 ways to get started: https://t.co/TydXPAHXfx #daonauts 🍩",43,3,14,2022-02-07
+1018,2022-02-09 14:52:36+00:00,1491424802628050947,AragonProject,"@EthereumDenver excitement #BUIDLing 🚀 Catch our latest research and ideas IRL:
+
+@DAODenver :
+'The Next 10k DAOs' - Following on from https://t.co/JeX0EPLKse DAO data, ecosystem and builders w/ @juliettech - 2/15 @ 12:30
+
+'Governance Do's &amp; Don'ts' w/ @TheTakenUser 2/16 @ 15:30",28,9,5,2022-02-09
+1020,2022-02-13 11:34:02+00:00,1492824381302743045,AragonProject,"@EthereumDenver update! Join @w3soBeefy (Beefy Finance), @TheTakenUser (Aragon) &amp; @koeppelmann (Gnosis) for a panel discussion: 'Just DAO It', Saturday 02/19, 14:30 - 15:00 on the Art Stage 🔥 https://t.co/Ew6KE4WGUS",11,2,4,2022-02-13
+1021,2022-02-24 12:02:33+00:00,1496817825679294471,AragonProject,"It should not be possible for a few elected officials to turn 190m people into mutual 'enemies'.
+
+Our hearts go out to every sovereign individual caught in this sickening folly.
+
+#StopTheWar",120,3,19,2022-02-24
+1023,2022-02-28 17:13:02+00:00,1498345510519906311,AragonProject,Calling all content writers ✍: https://t.co/CQxcsdEFBq,26,3,7,2022-02-28
+1024,2022-03-07 20:42:25+00:00,1500934920637751296,AragonProject,"Back at sea-level, here are our hot takes from the biggest #Ethereum #BUIDL week ever @EthereumDenver 🏔 
+
+https://t.co/awptuHI38o",40,12,10,2022-03-07
+1025,2022-03-11 18:05:39+00:00,1502345020787113988,AragonProject,"If you're going to @eth_austin don't miss Aragon's @TheTakenUser present on:
+
+'Growing the Pie - An Ecosystem Approach to Value Creation' - 3/18 @ 13:20
+
+@DystopiaLabs  @EthereumAustin",32,12,12,2022-03-11
+1027,2022-03-20 20:46:39+00:00,1505647027006455816,AragonProject,@CurveFinance + @ConvexFinance + @VotiumProtocol enabled #DAO token markets and incentivized governance (aka bribery). @0xCondorcet &amp; @BribeProtocol seek to extend it to other #DeFi protocols. What does this mean? @SnapshotLabs #CRV #CVX #dGov #web3 https://t.co/U9MVNdLt5o,36,4,5,2022-03-20
+1030,2022-03-22 16:51:44+00:00,1506312684349890574,AragonProject,@b3nnn21 @i001962 I like collaborator 😊,1,1,0,2022-03-22
+1033,2022-03-23 20:24:39+00:00,1506728654080032774,AragonProject,@Raven9501 @vita_dao @Molecule_dao @GolatoTyler Check out https://t.co/sPtfH3q5mT! We have loads of articles about Aragon and DAOs in general for absolute beginners all the way up to more advanced users.,2,0,1,2022-03-23
+1037,2022-03-28 11:57:01+00:00,1508412845079343104,AragonProject,Is this image fake? What do you think? https://t.co/89NsDBSMhO,91,8,15,2022-03-28
+1038,2022-04-01 15:14:22+00:00,1509912059756130305,AragonProject,"5) That’s why we’re bullish on DAO tooling rich in education embedded in its process.
+
+It's why we need tooling that is adaptable and modular to best fit builders’ diverse needs.
+
+AND it is also why we’re launching a new product in coming weeks.. but more on that later 😉",14,1,6,2022-04-01
+1045,2022-04-03 18:45:34+00:00,1510689987439861772,AragonProject,"5) If you'd like to hear more about how we're doing this, subscribe to our newsletter here: https://t.co/Wc4jIBOVD6",9,2,1,2022-04-03
+1051,2022-04-04 19:08:04+00:00,1511058037733212168,AragonProject,"In the fourth installment in our 'How to...' series, we delve into gaming guild #DAOs. Learn how you can game🕹 AND earn 🪙 (#P2E) by joining or starting a #DAO like @F8Guild on Aragon. @Bihzyb @AxieInfinity @GuildofGuardian @Aavegotchi #GameFi https://t.co/CZ42piZV1u🎮",20,3,6,2022-04-04
+1060,2022-04-05 21:34:12+00:00,1511457201155620867,AragonProject,"The last 12 months have seen unprecedented growth for the DAO industry in participation, funding, tooling and innovative use cases.
+
+And with the new Aragon product, this is about to get even bigger 🚀
+
+Check out the community opportunities we have for you https://t.co/Ju4UG3QXgV",52,7,13,2022-04-05
+1061,2022-04-18 21:09:11+00:00,1516161945828839427,AragonProject,Read more about how Vocdoni's founders and advisors were specifically and extensively targeted by the Spanish government with phishing attempts to install #Pegasus/#Candiru spyware on their phones in order to steal their data and monitor them. #CatalanGate https://t.co/P3TEHIFdpk,17,3,5,2022-04-18
+1062,2022-04-26 16:13:58+00:00,1518986753910226944,AragonProject,"Starting this new chapter is a big moment and we’re excited to get out there soon. 
+
+Read more about why we’re rebuilding foundations to go further together https://t.co/oqLrrvcthg",26,4,6,2022-04-26
+1066,2022-05-10 18:20:50+00:00,1524092113520107520,AragonProject,Read the full proposal and background on @Ukraine_DAO and @Unchainfund here: https://t.co/3Ic6bv7PRx,16,1,3,2022-05-10
+1068,2022-05-31 20:07:12+00:00,1531729023990382593,AragonProject,"This Friday, we’re hosting an AMA with @otoco_io to discuss legal wrappers for DAOs. 
+
+Join the conversation! 
+
+https://t.co/xL3IiAMsGg",26,1,9,2022-05-31
+1069,2022-06-02 13:31:44+00:00,1532354278303703040,AragonProject,"The @AragonDao voted to donate $100,000 to @Unchainfund, an organization providing humanitarian aid to the people of Ukraine. 
+
+https://t.co/pDN5MlbOjs",40,6,15,2022-06-02
+1080,2022-06-03 13:33:37+00:00,1532717138770857984,AragonProject,"Join our space to chat about legal wrappers for DAOs, happening now! 
+
+ https://t.co/xL3IiALUQI",10,0,2,2022-06-03
+1082,2022-06-06 17:21:01+00:00,1533861530340675585,AragonProject,"Join our chat with @1HiveOrg this Friday to talk about how to mutate your DAO’s DNA from your command line. 
+
+We’ll take questions from the audience via DMs during the event. See you there! 
+
+https://t.co/7er4Z249Hy",9,2,3,2022-06-06
+1083,2022-06-07 14:51:52+00:00,1534186383295844354,AragonProject,We're hosting Sem and Elassar of @1HiveOrg on Twitter Spaces this Friday at 2:30pm UTC! See you there 🦅🐝 https://t.co/RQBPfodNpa,15,2,4,2022-06-07
+1084,2022-06-10 13:37:53+00:00,1535254930126254081,AragonProject,"Our discussion on EVM Crispr with @1HiveOrg will occur on Google Meet. This will allow us to demo the code live—click this link to join in a little under an hour! 
+
+https://t.co/Jg4tZ85AeD",11,2,1,2022-06-10
+1085,2022-06-14 18:21:00+00:00,1536775728653422592,AragonProject,"Decentralizing the governance of our treasury is a key milestone, and we want to hear everyone’s voice. 
+
+If you can’t participate in the Aragon Voice vote because your ANT is staked or deposited in the Aragon Court contract, share your voice in these @SnapshotLabs polls:",31,1,8,2022-06-14
+1097,2022-06-15 15:21:41+00:00,1537092990908239872,AragonProject,"This Friday, we'll be talking all things DAO community management with @dao_lbrian of @BitDAO_Official. Join us on Twitter Spaces at 2:30 pm UTC! https://t.co/UJunE0A5Pv",33,5,12,2022-06-15
+1098,2022-06-16 13:08:37+00:00,1537421892310642688,AragonProject,"Backend Engineer
+
+Skills: Golang, NodeJS, TypeScript, NoSQL, Rest or RPC APIs, Ethereum, Elliptic curve cryptography, high attention to detail, minimalist in code and design
+
+Apply: https://t.co/gkMe4mqf8N",2,1,0,2022-06-16
+1106,2022-06-17 13:43:01+00:00,1537792936082960386,AragonProject,"See you in less than an hour! 👇
+
+ https://t.co/LwFGpFhvA4",7,0,0,2022-06-17
+1108,2022-06-20 17:19:44+00:00,1538934637807865856,AragonProject,"It’s time to talk tokens 🪙 Join us this Friday for an Aragon treasury update from @alexander7370! 
+
+https://t.co/HqAYNDakR4",11,4,1,2022-06-20
+1109,2022-06-23 21:00:04+00:00,1540077251693125632,AragonProject,Don't forget to join our Treasury update on Twitter Spaces tomorrow at 2:30pm UTC with @alexander7370 and @ShawnzoGonzo! See you there. https://t.co/cwQABP0cmk,16,2,6,2022-06-23
+1113,2022-06-24 14:29:22+00:00,1540341317535813632,AragonProject,"Join us now! 
+
+ https://t.co/HqAYNDakR4",8,4,0,2022-06-24
+1114,2022-06-27 15:21:23+00:00,1541441570074787840,AragonProject,"Announcement regarding the IPFS issue: the problem has been resolved and all sites should be working normally now. Thank you for your patience!
+
+If you have any ongoing issues with the Aragon apps, please join the Discord server to get assistance: https://t.co/Qt3WLUUYHH",13,2,1,2022-06-27
+1121,2022-06-28 14:50:28+00:00,1541796175778484224,AragonProject,"Last but not least, @weezi_io offers multi-wallet, cross-chain DAO tooling for asset management with automated accounting.",7,1,0,2022-06-28
+1131,2022-06-29 14:04:58+00:00,1542147114280566788,AragonProject,Our DAO Experts Roundtable starts in 30 minutes! You can set a reminder here: https://t.co/DbCqjOILlF https://t.co/7u28W3ELPL,13,4,2,2022-06-29
+1133,2022-07-01 14:30:04+00:00,1542878207342301184,AragonProject,"Join us now! DAO project management tools with @deworkxyz 
+
+ https://t.co/whwHEmecoY",6,3,1,2022-07-01
+1136,2022-07-05 23:30:25+00:00,1544463743173595136,AragonProject,"Set a reminder here: 
+https://t.co/fAGkfRFWmC",4,0,0,2022-07-05
+1142,2022-07-06 13:14:15+00:00,1544671065288323073,AragonProject,"Here are some direct use cases in the OVOTE v0.5:
+- Offchain multisig with onchain binding results
+- Offchain referendum with onchain binding results",6,1,0,2022-07-06
+1153,2022-07-08 15:46:25+00:00,1545434137858715650,AragonProject,"Plus, how many DAO contributors does it take to screw in a light bulb? 💡
+
+Read it here: 
+
+https://t.co/Z6Q7VThoJl",3,0,0,2022-07-08
+1159,2022-07-11 13:34:06+00:00,1546488000191684610,AragonProject,"Happy to be part of the ZK ecosystem, thanks to our @aragon_zk team building on the work at @vocdoni 👏👏👏 https://t.co/mhckBh27wa",14,3,5,2022-07-11
+1162,2022-07-13 15:49:51+00:00,1547246939309101056,AragonProject,Our ops and agile expert @alexmyers83 talked about DAO agility in this podcast episode. Check it out! 👇 https://t.co/QwOAmD6wCA,9,0,2,2022-07-13
+1163,2022-07-14 17:11:21+00:00,1547629835732025344,AragonProject,"You might also want to consider joining us in building this vision, we’re currently hiring engineers: https://t.co/MPqxpcaH1Q",7,0,1,2022-07-14
+1169,2022-07-15 15:18:49+00:00,1547963906013798402,AragonProject,"It's the summer of delegated voting here in the Aragon Network ☀️🗳️ Read two proposals on a possible voting structure in the forum.
+
+We also shared our new smart contracts + announced 2 speakers for @EthCC 
+
+Catch up in this week's edition of The Eagle:
+
+https://t.co/oEqQJrzXNh",20,3,1,2022-07-15
+1170,2022-07-18 22:27:26+00:00,1549158932077105153,AragonProject,"Listen to @Paul_Glavin and @404ouch break down TAO voting from @1HiveOrg in this recorded space, hosted by @samanthajmarin 👇
+
+ https://t.co/ZX2Ujsl2W1",9,1,3,2022-07-18
+1171,2022-07-19 15:41:25+00:00,1549419142822137856,AragonProject,"In line with this thinking, we are making the roadmap for the treasury transfer from Aragon Association to the DAO public. You can read about that here: https://t.co/5gDI6lmL96",6,1,0,2022-07-19
+1177,2022-07-20 19:37:16+00:00,1549840883998068736,AragonProject,"Come hang out with @DeepDAO_io this Friday at 2:30pm UTC, and bring your questions on DAO data visualization! 📊📉📈
+
+RSVP at the link below: 
+
+https://t.co/6PKBT1TKVz https://t.co/ltKzw0hQxq",14,4,3,2022-07-20
+1178,2022-07-21 16:18:46+00:00,1550153319250665472,AragonProject,"Today @_juliettech spoke on “The Smart Contracts Behind DAOs” at @EthCC where she dove deeper into this insight: DAOs are in fact permission management systems for decentralized organizations, where different components need specific permissions to execute certain actions. https://t.co/XpPiCbDS9o",43,8,9,2022-07-21
+1182,2022-07-22 17:35:01+00:00,1550534896640487424,AragonProject,"Catch up with what happened this week in the Aragon Network:
+
+⏳Progressive decentralization timeline announced
+🗳️ TAO voting AMA from @1HiveOrg 
+📜 Charter changes ready to be voted on in Aragon Voice
+
+Read it here! https://t.co/3K2YZWPkrs",22,2,6,2022-07-22
+1184,2022-07-25 14:41:56+00:00,1551578503992074240,AragonProject,"Congratulations, @vocdoni! Excited to see blockchain-based voting being used at @FCBarcelona 👏👏👏 
+
+Another step in bringing secure voting to the 🌍 https://t.co/j34ElFKHIJ",39,2,8,2022-07-25
+1185,2022-07-26 17:55:04+00:00,1551989492474851328,AragonProject,Need assistance building a DAO? Find the right expert that fits your needs and discover some unique solutions + tools along the way: https://t.co/H3FLYWsfMm,10,0,1,2022-07-26
+1187,2022-07-28 17:11:21+00:00,1552703267846508545,AragonProject,"Have you been wanting to start a DAO on Polygon with us? On this episode of Aragon Answers, Clara shows you how to do that in less than 5 mins. ⚡️
+
+https://t.co/UhIY0RwtJo",23,5,4,2022-07-28
+1188,2022-07-29 15:03:05+00:00,1553033376436629510,AragonProject,"In this week's edition of The Eagle, we discuss:
+
+🏗️ Building for the next 10,000 DAOs with a new modular Aragon
+⚽️ @vocdoni brings secure voting tech to @FCBarcelona 
+🗳️ 3 charter improvement proposals ready to vote on Aragon Voice
+
+Read it here:
+
+https://t.co/lFKERIPexM",17,3,4,2022-07-29
+1189,2022-08-01 16:00:41+00:00,1554135033254133760,AragonProject,"Building a DAO is tough, which is why we're sharing some How To guides this week to help you get started. In your opinion, which is the hardest part of creating a DAO?",30,10,7,2022-08-01
+1191,2022-08-03 13:42:37+00:00,1554825064406650881,AragonProject,"It's awesome to see these DAOs using Aragon topping the list in voter activity! 
+
+Keep it up @aavegotchi @LidoFinance @decentraland 👏👏👏 https://t.co/QAfg9cUfWZ",18,2,2,2022-08-03
+1193,2022-08-04 12:57:21+00:00,1555176062027706368,AragonProject,Want to learn more about how Lido uses Aragon? Read the blog:  https://t.co/rK1nSRBAXS,9,0,1,2022-08-04
+1202,2022-08-05 14:27:46+00:00,1555561204382253056,AragonProject,https://t.co/P8vtuX3LY0,10,16,2,2022-08-05
+1204,2022-08-09 10:08:41+00:00,1556945556173619200,AragonProject,Awesome work &amp; congratulations on the high voter turnout @vocdoni 👏👏👏 https://t.co/kARAVKJgFe,22,5,4,2022-08-09
+1205,2022-08-10 11:33:24+00:00,1557329263896178690,AragonProject,"Building a DAO and not sure where to start? We’ve aggregated resources and written guides on the most important topics that every DAO builder needs to know. 
+
+Introducing our How To Guides 🧵 https://t.co/ULNk2junPV",48,3,20,2022-08-10
+1213,2022-08-12 12:24:06+00:00,1558066796225187840,AragonProject,"In this week's edition of The Eagle, we discuss:
+
+💡 Our How To guides for DAO builders
+🇪🇸 First public institution in Spain holds @vocdoni referendum
+🗳️ Multiple financial proposals up for vote
+
+Read it here: https://t.co/2l5NUrGCTo",12,1,2,2022-08-12
+1215,2022-08-16 10:54:50+00:00,1559493883494424576,AragonProject,"We’re working hard on bringing out a new generation of Aragon products soon - and we want your voice to guide it! 🗣
+
+Answer our quick survey here👇🏻
+https://t.co/St8cWxc62K",18,7,2,2022-08-16
+1217,2022-08-17 10:56:02+00:00,1559856573840666624,AragonProject,"Join us this Friday for an AMA with @zetablockchain to hear about mulitichain and blockchain interoperability!
+
+2:30pm UTC/10:30am ET
+
+Set a reminder here 👇
+
+https://t.co/TCObfyD15t https://t.co/FNHJUytFKc",21,4,2,2022-08-17
+1219,2022-08-18 14:51:59+00:00,1560278340560310273,AragonProject,"⏰ Time delay between vote and execution, giving contributors time to react to a malicious proposal.
+
+For example, @lidofinance recently added a time delay to their votes to increase security.",2,1,0,2022-08-18
+1234,2022-08-19 14:22:38+00:00,1560633341832863744,AragonProject,"In this week's edition of The Eagle:
+
+🦅 Product team shares their updates on the upcoming Aragon App
+💻 Developer advocate @_juliettech shares Developer Persona research 
+📝 DAO builders survey for app features is live! Make your voice heard 🚀
+
+https://t.co/YYPQrR58vi",18,5,2,2022-08-19
+1236,2022-08-23 10:19:36+00:00,1562021731195269120,AragonProject,"Tomorrow we're announcing the next cohort of DAO Experts! 🎉🍾🍻
+
+Set a reminder for tomorrow's Twitter Space Roundtable kickoff, featuring some of the most skilled + knowledgeable service providers in the DAO ecosystem 👇
+
+See you there! 
+
+https://t.co/8qZ9FNchWh",41,5,10,2022-08-23
+1237,2022-08-24 16:09:30+00:00,1562472174111186952,AragonProject,Missed the conversation? Catch up here 👇  https://t.co/8qZ9FNchWh,8,3,0,2022-08-24
+1248,2022-08-26 07:51:55+00:00,1563071727680520194,AragonProject,We're excited to be part of this historic event. Learn more about how @KyivTechSummit is helping solve on-the-ground problems in Ukraine today 👇 https://t.co/EafxQmH69c,16,2,3,2022-08-26
+1251,2022-09-02 08:48:43+00:00,1565622737787289600,AragonProject,"This week in The Eagle:
+
+📢 New details + milestones on the upcoming treasury transfer announced 
+💼 Aragon Association team meets in-person for heads down work 
+🗳 Aragon Voice vote live: “Intention to honor ESD committed funds” 
+
+Read it here:
+
+https://t.co/BBqoD5ROxK",14,6,4,2022-09-02
+1252,2022-09-05 14:36:41+00:00,1566797469207371776,AragonProject,"Feeling inspired? We also have opportunities to work on these projects full-time. Check out our open engineering positions here: 
+
+https://t.co/5xwSFfuH5s",8,0,0,2022-09-05
+1260,2022-09-06 18:04:18+00:00,1567212105706737670,AragonProject,"We'll be at MCON! 👋 Both @_juliettech and @TheTakenUser will be at @mcon_world this week, so say hello when you see them!",19,3,2,2022-09-06
+1261,2022-09-08 10:39:57+00:00,1567825057795145730,AragonProject,"A headless brand is a brand built by a network of people, rather than maintained by a small group. Headless brands are used in political activist movements, worldwide clubs and communities, &amp; even fan fiction. 🚀",2,1,0,2022-09-08
+1272,2022-09-09 12:30:05+00:00,1568215164549226496,AragonProject,"This week in The Eagle : 
+
+🇺🇦 Aragon sponsors the @KyivTechSummit  
+👾 @_juliettech and @TheTakenUser attend @mcon_world 
+💬 Proposals updated to discuss the future of AN DAO governance, funds and community
+
+Read it here : https://t.co/M7NdFSxEzs",18,2,4,2022-09-09
+1273,2022-09-12 09:08:52+00:00,1569251690406100992,AragonProject,"Congratulations to the winners of the hackathon bounties and thank you for participating! 🏆
+
+Thank you to @Unchainfund @Ukraine_DAO @atlantis0x who put together this amazing event 🙏 https://t.co/xjVkJc8l67",15,6,4,2022-09-12
+1274,2022-09-13 12:44:24+00:00,1569668315986919424,AragonProject,"If you enjoyed this, catch her talk on ""How to Code a DAO"" at @dappcon_berlin this week! 🚀
+
+https://t.co/ktKo1i8DI1",6,1,2,2022-09-13
+1285,2022-09-15 10:26:28+00:00,1570358378915893255,AragonProject,"In case you missed it, here's how Aragon is affected by the #EthereumMerge 💡 https://t.co/ExQsoufBFJ",13,3,0,2022-09-15
+1287,2022-09-16 10:13:49+00:00,1570717586698178560,AragonProject,"What's happened in Aragon this week?
+
+🔬 Aragon core contracts enter audits
+🇺🇦 @KyivTechSummit bounty winners announced
+🪄 @gitcoin grants round 15 live until Sept 22, Aragon a proud matching partner
+
+Read it here:
+
+https://t.co/1dWdJIiQTR",17,1,1,2022-09-16
+1288,2022-09-19 10:28:19+00:00,1571808396235476993,AragonProject,"Events are at the core of Aragon’s growth strategy. We attend dozens of conferences every year, so you’ll be at the center of coordinating these events for us!
+
+Bonus points if you already have experience working in events in the crypto industry 🚀",4,0,0,2022-09-19
+1293,2022-09-21 10:35:30+00:00,1572534979833495552,AragonProject,"Consider other asset classes and methods beyond hodling your native token.
+
+A few include:
+
+🔘L1s: Hold BTC and ETH for potential longterm upside
+
+🔘Staking: Earn passive income by locking assets
+
+🔘dApps: Invest in dApps like you might in a startup—high risk and high reward",3,2,1,2022-09-21
+1310,2022-09-22 10:21:39+00:00,1572893885596336128,AragonProject,"Today is your last chance to donate to @gitcoin grants round 15! We're a partner in the Crypto Advocacy round, focused on using the power of blockchain technology to create change in the world 🌍 
+
+Find your favorites and donate before midnight UTC! 👇
+
+https://t.co/3CqwkVVXU0",19,1,3,2022-09-22
+1311,2022-09-23 13:05:28+00:00,1573297496679481345,AragonProject,".@decentraland opened their virtual world in 2017 &amp; since then amassed over 300,000 monthly active users. 
+
+Discover how they used aragonOS to secure their treasury.👇
+
+https://t.co/b3c8WRJJ3j",17,1,2,2022-09-23

@@ -1,0 +1,1233 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-09-03 06:35:56+00:00,1301408569200242689,sifchain,"Introducing Sifchain, a decentralized exchange to support all cryptocurrencies:
+
+https://t.co/ORO7hQJVRr
+
+Come join our telegram group: https://t.co/YuKNcWHZ2w",11,0,3,2020-09-03
+1,2020-10-12 00:46:47+00:00,1315453828133613570,sifchain,https://t.co/WQI0nXWGvz,0,0,0,2020-10-12
+4,2020-10-13 17:19:40+00:00,1316066082919116800,sifchain,"Talk by Jazear Brooks, ""A Comparison of Liquidity Pool Models in DeFi AMM Products""
+
+Informative talk on overview of AMM products today, and ones to look forward to such as @sifchain.
+
+https://t.co/xmoWWAlRty
+
+#AMM #DEX",1,0,0,2020-10-13
+5,2020-10-16 15:01:32+00:00,1317118486892716033,sifchain,Sifchain uses both an order book and a CLP for trade completion.  Orders are placed with a commit-reveal scheme to circumvent front-running from validators. To learn more go to https://t.co/WLSCSA5o6q. https://t.co/CJHRLVAGIe,2,0,0,2020-10-16
+7,2020-10-17 01:19:28+00:00,1317273993435508736,sifchain,"The market is speaking, DeFi is the future for savvy crypto investors to mitigate regulatory risk in a world of uncertainty https://t.co/krKQMLDnll",2,0,0,2020-10-17
+8,2020-10-18 11:27:26+00:00,1317789380954578946,sifchain,Roger that https://t.co/83OKNlBvRo,1,0,0,2020-10-18
+10,2020-10-19 19:01:20+00:00,1318265997305008136,sifchain,"Rowan, the governance token for Sifchain, is provided to validators from protocol emissions, also known as block rewards.  Validators must stake Rowan to participate in network consensus. https://t.co/WLSCSA5o6q https://t.co/OUGPOkW6BS",1,0,0,2020-10-19
+11,2020-10-20 15:02:23+00:00,1318568251991986178,sifchain,"Sifchain inherits validator architecture from Thorchain and Cosmos.  As a Cosmos SDK blockchain, it uses the Tendermint consensus algorithm and will support the Cosmos Networks’ Interblockchain Communication Protocol (IBC). https://t.co/WLSCSA5o6q https://t.co/wvAgVetlrc",2,0,0,2020-10-20
+13,2020-10-21 01:00:42+00:00,1318718821834829825,sifchain,Sifchain offers cost effective swap execution against liquidity pools using a slip-based swap fee paid to liquidity providers as revenue https://t.co/WLSCSA5o6q https://t.co/JRpeUyeJFT,1,0,0,2020-10-21
+15,2020-10-22 19:41:29+00:00,1319363264304738304,sifchain,"Of course, passive liquidity providers are not active traders.  Sifchain allows liquidity providers to engage in on-chain governance to influence a liquidity pool's AMM formula or leave it up to others to direct.",3,2,0,2020-10-22
+26,2020-10-24 04:43:53+00:00,1319862152648220672,sifchain,"Ladies and gents, Sifchain's first testnet (Monkey Bars) is now live!
+
+The code is here alongside instructions for connecting - https://t.co/iCt0nGJYqf https://t.co/kXM7hljkh7",11,1,2,2020-10-24
+31,2020-10-25 20:21:22+00:00,1320460463046447104,sifchain,Sifchain's updated Discord link https://t.co/SCA9RTwYbe Come play with our testnet :),1,0,0,2020-10-25
+32,2020-10-27 05:15:29+00:00,1320957266007265280,sifchain,This is a generalization of @thorchain’s Incentive Pendulum which equally splits system income between validators and liquidity providers.  https://t.co/eKlEKfrwYn We wanted a similar effect while leaving more dynamism in each subsystem.,3,1,0,2020-10-27
+42,2020-10-30 20:43:28+00:00,1322277967020486656,sifchain,We are very excited to announce Sifchain has integrated cross-chain Ethereum transfers!  Transfer ETH and ERC20 tokens to Sifchain to transact with 100x the transaction speed and performance.  Transfer Rowan to Ethereum to participate in its DeFi ecosystem https://t.co/fnUl8CWRP7,5,1,2,2020-10-30
+47,2020-10-31 01:27:19+00:00,1322349401042345984,sifchain,Oh man this is really great design https://t.co/DBMvI21Y2X,1,1,0,2020-10-31
+49,2020-11-01 09:19:49+00:00,1322830695819931649,sifchain,"@SonykBoyRC We will have a public sale in November, please stay tuned",1,0,0,2020-11-01
+50,2020-11-02 07:29:28+00:00,1323165314540924931,sifchain,"Eventually SifDao will control protocol code and economic parameters (like the lending rates of tokens or the LP formula).  It will not have that power up front but will eventually get it in a handoff similar to Synthetix’s, Compound’s, or MakerDao’s",3,0,0,2020-11-02
+59,2020-11-03 01:59:19+00:00,1323444616935297026,sifchain,@davidmarcus Check out https://t.co/K3SAtVKW0z,1,0,0,2020-11-03
+60,2020-11-04 01:58:19+00:00,1323806752324739072,sifchain,Over 95 validators have joined our testnet so far (5x what we expected).  We really appreciate the enthusiasm and we're optimistic we can use this momentum to seed a vibrant Sifchain community 🙌😀😊 https://t.co/VNu4WISvbL,5,0,3,2020-11-04
+62,2020-11-09 18:13:01+00:00,1325863983799169024,sifchain,"Our latest community update post is out!
+
+Read more about latest news including testnet launch, open source code, and other ways to get involved with Sifchain community.
+ 
+https://t.co/TkPVReKpb8",4,1,0,2020-11-09
+64,2020-11-10 08:37:25+00:00,1326081514677825536,sifchain,"Our official Sifchain Korea blog post is out!
+ https://t.co/Z9NlERan9l",5,0,0,2020-11-10
+65,2020-11-13 04:53:32+00:00,1327112336235057152,sifchain,"Check out the instructions here https://t.co/iCt0nGJYqf Anyone can become an operator, Discord has more details https://t.co/7FUCNU0mNj https://t.co/WpQzF5S8sp",3,0,0,2020-11-13
+67,2020-11-14 01:14:47+00:00,1327419675672682496,sifchain,"Word.  We want to thank users on our Discord like sl-he[2staked], kashif, and whataday2day for leading with helpful community contributions.  We are grateful for all community contributions and intend to express that often https://t.co/BatYA5E7Tu",4,0,0,2020-11-14
+72,2020-11-16 04:13:22+00:00,1328189394214240256,sifchain,"As we aim to educate our users on Sifchain and its core concepts, we are writing technical blogs. 
+
+Read our first one below:
+
+Sifchain Technical Introduction: Advantages of an Asymmetric Liquidity Pool
+https://t.co/uGaVxBnNfe",5,0,2,2020-11-16
+73,2020-11-18 23:57:23+00:00,1329212137625948160,sifchain,"We just launched a testnet block explorer for Monkey Bars!
+
+https://t.co/XVTEOUeZMv
+
+You can review the code here https://t.co/uweixqJ98t and provide any feedback here https://t.co/eDF5woQNFU",4,0,0,2020-11-18
+74,2020-11-19 08:34:50+00:00,1329342355070042112,sifchain,Wanna join our WeChat group?  Add “Sifchain” as a contact and the admin will let you in :),2,0,0,2020-11-19
+76,2020-11-20 11:31:48+00:00,1329749280807116800,sifchain,"Peggy is a cross-chain @ethereum bridge for chains based on the @cosmos SDK including Sifchain, enabling Ethereum assets to be pegged and used within the Sifchain ecosystem. Check out our technical tutorial :) 
+
+https://t.co/cpkfSBnWbh https://t.co/7zZSt4Oyip",9,0,1,2020-11-20
+77,2020-11-21 10:09:14+00:00,1330090890602352648,sifchain,"This was a great conversation, thanks for having us https://t.co/VNkRIgAsF2",2,0,1,2020-11-21
+82,2020-11-25 06:05:19+00:00,1331479056563412993,sifchain,"We are speaking at @cosmos's Interchain Conversations!
+
+""To Ethereum and Beyond: The Future of Interoperability Between the Cosmos Network and External Blockchains""
+
+Get your free ticket to join in the excitement Dec 12 and 13!
+
+https://t.co/WwZlUwB7Oi https://t.co/IgVQgwgJTY",12,1,1,2020-11-25
+83,2020-11-27 05:32:36+00:00,1332195599781822465,sifchain,Sifchain's testnet is running live ERC20 token swaps on Ropsten and Monkey Bars with manipulation-resistant liquidity pools if any enterprising @compoundfinance engineers want to try starting an integration https://t.co/iCt0nGJYqf https://t.co/s87ab9JoD8,5,0,0,2020-11-27
+85,2020-12-01 05:07:50+00:00,1333638918013554691,sifchain,We are so excited to participate 😇😇 https://t.co/DrYHHME5h5,5,0,1,2020-12-01
+93,2020-12-05 00:12:16+00:00,1335014088150196224,sifchain,We're jamming to this while we build the future of cross chain https://t.co/nIAYNv3lFC,11,0,0,2020-12-05
+94,2020-12-07 21:46:39+00:00,1336064606247079936,sifchain,@Harriso74866502 Thanks so much! We’re focused on the public sale right now,1,1,0,2020-12-07
+96,2020-12-08 19:29:28+00:00,1336392471392075776,sifchain,@mehowbrains The Thorchain community is amazing.  Good luck with your healing process,1,1,0,2020-12-08
+97,2020-12-13 22:50:42+00:00,1338255051630862337,sifchain,"Some see the future of the Cosmos Network today at https://t.co/WwZlUwB7Oi
+
+Sifchain is presenting in a few hours! https://t.co/dLrm7jow0O",4,0,1,2020-12-13
+98,2020-12-15 09:58:18+00:00,1338785447602835456,sifchain,"The latest Russian language article that Maxim, a community member has created for Sifchain - https://t.co/CrlRhVloNC
+
+Our community is so strong!",2,0,0,2020-12-15
+99,2020-12-17 21:19:12+00:00,1339681575441731590,sifchain,Tune in next week for our AMA with @GrenadeTw 🤓 https://t.co/iuNiG9mo8F,4,0,1,2020-12-17
+100,2020-12-18 02:27:38+00:00,1339759195025895425,sifchain,The future is DAO https://t.co/AJkkkLiTc8,4,0,2,2020-12-18
+103,2020-12-21 00:21:14+00:00,1340814550497546241,sifchain,"Crypto verifies private data storage in ways that can be monitored on-chain.  Web 2 has outdated models of hoarding data to monetize it, attracting hackers like precious metals attract thieves.  We need to improve incentive alignment by transferring commerce to DAOs. https://t.co/Hp6KhkyUS1",3,0,0,2020-12-21
+105,2020-12-22 18:15:54+00:00,1341447385847775233,sifchain,"Thanks for breaking down Sifchain's cryptoeconomics in this whiteboard session @EconsDesign https://t.co/M7mKNvk4dJ
+
+This is a very helpful complement to our token economics paper https://t.co/fDwLoPGz3q",12,0,2,2020-12-22
+106,2020-12-25 06:04:28+00:00,1342350480836456449,sifchain,"We'll reward the top three purchasers, referrers of the top three, and those who referred the referrers, up to five degrees of separation. If you're one of the top 3 purchasers or are connected within 5 degrees of separation to a top 3 purchaser, you’ll receive free rewards! https://t.co/bpZf53Hu8I https://t.co/julNOLaUj4",9,1,0,2020-12-25
+110,2020-12-28 06:02:04+00:00,1343437038591217665,sifchain,Whoa this is incredible!  Definitely something for us to consider when we get to making Sif NFTs https://t.co/45Rt8ZGPbn,10,1,2,2020-12-28
+112,2020-12-29 21:00:46+00:00,1344025590416945155,sifchain,Well we did just announce that we would be giving away a substantial chunk of Rowan to Rune-holders for free https://t.co/388HYJoOUi https://t.co/jgJcT1edR3,26,5,1,2020-12-29
+119,2020-12-30 04:40:44+00:00,1344141345502326784,sifchain,@harithk17 @etherscan We are appreciate you giving this your attention,0,0,0,2020-12-30
+127,2020-12-31 01:14:33+00:00,1344451845956063232,sifchain,@flyacro We’ll release that info some time before our token sale which starts in Jan 25!,0,0,0,2020-12-31
+128,2021-01-02 23:31:44+00:00,1345513136288272385,sifchain,"@pr1ncesscrypto @CryptoAnymore @Scaarlii @RuudyH @Angela_volpe1 The core team has a first rate group of legal advisors pays close attention to the US regulatory regime.  Sifchain itself, of course, is crypto native",0,0,0,2021-01-02
+134,2021-01-04 07:33:28+00:00,1345996755515555840,sifchain,We're launching Sifchain's BetaNet DEX on Jan 25 with Uniswap's ERC-20 tokens with &lt; 1% of Uniswap's fees and 100x the speed of Ethereum (via @cosmossdk).  It's long past time serious traders be able to execute their strategies without this kind of congestion https://t.co/12rD0JmMD5,33,3,8,2021-01-04
+135,2021-01-05 01:06:13+00:00,1346261689532968963,sifchain,@Rogeralbertoz @MansionCrypto @CCalili27 @AJBR1 @LilianhaBlack This should help https://t.co/UxCvIYsQht,0,0,0,2021-01-05
+137,2021-01-06 23:54:56+00:00,1346968524359569411,sifchain,@Bitcoin_Sage https://t.co/rKEeMePLuL,2,0,0,2021-01-06
+138,2021-01-07 00:28:19+00:00,1346976927945424901,sifchain,@zhusu First (proof attached) https://t.co/DPfvUr03jL,1,0,0,2021-01-07
+140,2021-01-08 23:05:48+00:00,1347680934787567616,sifchain,@balajis @threadreaderapp unroll,0,1,0,2021-01-08
+141,2021-01-09 20:26:22+00:00,1348003202889707521,sifchain,BetaNet supports ETH and ERC-20s.  Technically we can list thousands but preliminary feedback suggests we should focus on a smaller number and celebrate individual token listings.  We are very interested in community feedback on Sifchain listing strategy over Twitter or Telegram https://t.co/9SHAUB5MvS,5,0,1,2021-01-09
+142,2021-01-10 20:26:43+00:00,1348365677682323456,sifchain,@HarputluResul @CryptoExOr @xxfatihdemir @volkanzdin_ @TUyssl You can start by adding your comments on GitHub. We will encourage more formal feedback after BetaNet launch,0,0,0,2021-01-10
+147,2021-01-11 00:10:59+00:00,1348422114827755521,sifchain,"Sifchain Public Token Sale Registration is now live! 🎉
+
+Here’s how you can participate: 
+
+https://t.co/uawyIVB6BS",26,0,11,2021-01-11
+151,2021-01-19 19:49:38+00:00,1351617834057560065,sifchain,"@HerroCrypto @cosmos Great, please let us know if you have any questions :)",2,1,0,2021-01-19
+154,2021-01-20 02:49:26+00:00,1351723481201745923,sifchain,"@crypto_birb Thanks, please reach out if you have any questions!",1,1,0,2021-01-20
+157,2021-01-21 20:57:33+00:00,1352359702043090944,sifchain,"@Provalidator has been one of the most professional, efficient validators in our testnet and has taught us a lot about cultivating a strong validator community.  We look forward to their continued support https://t.co/NNRtH8yobt",1,0,1,2021-01-21
+161,2021-01-22 19:40:30+00:00,1352702700278800384,sifchain,@lisajytan awwww,0,1,0,2021-01-22
+164,2021-01-23 10:17:23+00:00,1352923375191040000,sifchain,@manisamal007 We’re pretty interested in DAO governance likely through https://t.co/R5HlSkURFp’s tools but among Rowan holders.  You’d have to actually own Rowan to participate.,0,1,0,2021-01-23
+165,2021-01-24 12:01:44+00:00,1353312023434596352,sifchain,"https://t.co/CjxVSLmJIO Great way to distribute tokens to promising community members, 👀 from us for setting up SifDAO",20,2,8,2021-01-24
+168,2021-01-25 01:40:23+00:00,1353518045071773697,sifchain,"""It has always been our goal to reasonably accommodate anyone (within the bounds of our KYC policy) who has an interest in our project... we have agreed to continue to allow applications to be submitted until January 29th 12:00 am GMT""
+
+https://t.co/wxbOJY9OTa",15,10,7,2021-01-25
+173,2021-01-26 18:57:30+00:00,1354141431837782016,sifchain,"Check out our investor interview with @Rewkang of @MechanismCap ✨✨✨
+
+https://t.co/fRmwgvv29i",41,3,7,2021-01-26
+174,2021-01-27 06:11:38+00:00,1354311082756747266,sifchain,@thorchain_org @Debussy100 @Rewkang https://t.co/lIicXK2Rxj,6,1,1,2021-01-27
+177,2021-01-28 04:16:49+00:00,1354644575378317314,sifchain,@mehowbrains @thorchain_org True HFT on crypto is hard because blocktimes are too slow even on Cosmos or Solana :(,0,1,0,2021-01-28
+180,2021-01-29 03:27:34+00:00,1354994569889214466,sifchain,@jack_zampolin @cosmos @sunnya97 https://t.co/Bd3sFunJ4v,4,0,0,2021-01-29
+183,2021-01-30 02:11:09+00:00,1355337726908723200,sifchain,@Crypto_MQ @Rewkang @thorchain_org https://t.co/jNvyOxv4KZ,1,1,1,2021-01-30
+186,2021-01-31 01:22:29+00:00,1355687865745727491,sifchain,@gregosuri @matrixdotorg @akashnet_ Wow. Lots to digest there. We do not use middleware. We use same strategy as Uniswap (Cloudflare -&gt; IPFS/Pinata -&gt; End User UI -&gt; Chains).  Still worth revisiting Akash for Gen 2 UI.  @theweaver19 @samecwilliams would you share any automated GitHub Action deployment scripts?,1,1,0,2021-01-31
+187,2021-02-01 20:31:04+00:00,1356339305661296640,sifchain,"Thanks @Cointelegraph for letting us share our thoughts about decentralized exchanges and an omni-chain approach to blockchain 🌍🌏🌎 
+
+https://t.co/aEwGbtEZGp",44,5,16,2021-02-01
+190,2021-02-02 15:41:21+00:00,1356628782178701312,sifchain,"@CanaanPeach @Raees19722666 The password has not yet been released. Don’t worry, the sale will last seven days no need to get in right at the beginning",0,1,0,2021-02-02
+192,2021-02-03 20:36:36+00:00,1357065473058242561,sifchain,"@EtienneTRGC https://t.co/v60Jaq4T6I
+https://t.co/w5cBVQPVFz
+https://t.co/kV82rmeh2R
+https://t.co/UycF8SQTiE",2,0,0,2021-02-03
+194,2021-02-05 05:30:04+00:00,1357562111929421826,sifchain,@hilobrain @SBF_Alameda @FTX_Official Goals,0,0,0,2021-02-05
+195,2021-02-06 16:15:26+00:00,1358086911819091970,sifchain,https://t.co/4GrJpZY9MV @thorchain_org Asgard IRL?,25,3,4,2021-02-06
+196,2021-02-09 01:49:52+00:00,1358956250638077953,sifchain,@LindsayxLin Spoiler alert for our future plans. There’s no reason we couldn’t take a small percentage of all transaction fees and send them to an address for the underprivileged,1,0,0,2021-02-09
+198,2021-02-10 08:58:52+00:00,1359426598148001794,sifchain,@SecretNetwork 🧐,0,0,0,2021-02-10
+200,2021-02-11 18:15:06+00:00,1359928964483977216,sifchain,Happy Lunar New Year! https://t.co/CGelSseqe2,32,2,6,2021-02-11
+202,2021-02-12 14:06:38+00:00,1360228826018504706,sifchain,"@LarkdasGeorge Consider it kickstarted. Nothing is really stopping the sale, we implemented the Ethereum gas limit and are going to announce the sale imminently. We already started deploying the network",0,2,0,2021-02-12
+203,2021-02-13 23:59:03+00:00,1360740299144798211,sifchain,@crypto_comrade @BadSamaritan9 @thorchain_org We use Thorchain as a reference implementation which is not quite the same thing,3,1,0,2021-02-13
+204,2021-02-14 21:54:00+00:00,1361071216195371008,sifchain,"Thank you for your immense contribution to the Cosmos Network, the cryptocurrency industry, and the world!  We look forward Gno! https://t.co/VgZMyl8dq2",18,0,5,2021-02-14
+205,2021-02-16 20:13:58+00:00,1361770819207200772,sifchain,"Sign up to participate in this conversation with @mZargham of @block_science! 👾💻🧬
+
+https://t.co/nw8U7KCclJ",50,6,14,2021-02-16
+206,2021-02-17 23:55:57+00:00,1362189071670337537,sifchain,"@GreenSocrates @Cosmos_Sapien @KFromcrypt @cosmos @thorchain_org Typo, should be Feb 19",2,3,1,2021-02-17
+221,2021-02-18 07:07:27+00:00,1362297661835997193,sifchain,"@Bitcoin_Sage @cryptolocomoto @CBarraford We'll see what we can do to help expedite ThorFi asset movement across IBC.  And yes, the whole point of Sifchain is to move assets across all networks.  We want to decouple assets from their native chain so any asset can be used in any app on any chain.",4,1,0,2021-02-18
+237,2021-02-19 22:21:37+00:00,1362890107934494720,sifchain,@TelenevaSaliia Very fine profile picture,2,1,0,2021-02-19
+244,2021-02-20 00:13:44+00:00,1362918323269214215,sifchain,Please tweet or DM with any sources of testnet ropsten ETH in large amounts!,36,10,6,2021-02-20
+252,2021-02-21 18:44:11+00:00,1363560164624723975,sifchain,@EthereSquall The distribution will occur monthly over four months with the first coming one week after the token sale ends,0,2,0,2021-02-21
+266,2021-02-22 00:35:47+00:00,1363648645887758339,sifchain,@Sadiq_ali_ We recommend getting a small amount from https://t.co/0RwxZgXhy6 to pay for gas fees on https://t.co/7xb8C8BkiO and then pegging over other supported ERC-20 tokens to buy as much as you like as per https://t.co/uuXubeiTNv,0,1,0,2021-02-22
+273,2021-02-23 22:38:07+00:00,1364343809585258499,sifchain,@inthememegame @xdefi_wallet @thorchain_org @TrustWalletApp @CoinbaseWallet We're looking into a faucet solution.  The tentative plan is that users who peg tokens onto Sifchain for the first time can receive Rowan from the faucet to make their first transactions,5,2,0,2021-02-23
+278,2021-02-24 22:01:44+00:00,1364697043155836928,sifchain,@BatmanDeFi @gavofyork @ethereum @AlamedaResearch We expect to do much more collaboration with Thorchain than Gavin does with Ethereum,1,0,0,2021-02-24
+286,2021-02-25 07:16:58+00:00,1364836771641520128,sifchain,"Users looking to delegate can do so here https://t.co/5ZdiEFDHHE. Delegating is labeled as ""staking"" in Keplr for legacy reasons that the Sifchain team does not control.",31,2,6,2021-02-25
+302,2021-02-26 06:19:04+00:00,1365184590709743617,sifchain,"Sifchain’s Public Token Sale is officially done! We raised ~26 million dollars to create the world’s first omni-change digital asset exchange. We are sincerely grateful to our community of technologists, traders, enthusiasts, and investors ✨🙏✨
+
+https://t.co/xwKcWiMpfz",309,25,74,2021-02-26
+307,2021-02-27 07:43:56+00:00,1365568334691901444,sifchain,"@LeiblerAdam It's legit as per our liquidity mining program which will last for 12 weeks.  As people add liquidity, that APY will fall",14,2,2,2021-02-27
+314,2021-02-28 01:30:24+00:00,1365836720722178049,sifchain,"@corey_goldman Yeesh, wow we’ll look into it",0,1,0,2021-02-28
+317,2021-03-01 17:45:47+00:00,1366444568091140096,sifchain,@wealthyadv @BatmanDeFi https://t.co/qftgiJvWOy,3,1,1,2021-03-01
+322,2021-03-02 23:53:54+00:00,1366899597025574914,sifchain,@AkuRypto @thorchain_org Your Twitter name is 🔥 https://t.co/eJxV2J6RMv,1,1,0,2021-03-02
+325,2021-03-03 08:33:36+00:00,1367030384421085186,sifchain,"@BatmanDeFi @DeusDao @synthetix_io @thorchain_org We are adding tokens based on pledged liquidity.  If @DeusDao’s foundation or whales want to pledge a few hundred k worth of tokens, please hit up our DMs",4,0,0,2021-03-03
+327,2021-03-04 17:05:01+00:00,1367521476593676291,sifchain,"@Heisenberg19251 @betl098 Yup, Keplr",0,0,0,2021-03-04
+328,2021-03-05 15:44:48+00:00,1367863676078759937,sifchain,We're starting the stream now (15 mins early!) https://t.co/yglXMLLOEK,38,0,5,2021-03-05
+329,2021-03-07 08:39:30+00:00,1368481419115175943,sifchain,@keplrwallet Thank you for promptly helping to address as well,13,0,0,2021-03-07
+333,2021-03-10 10:14:21+00:00,1369592454509367298,sifchain,@johnniecosmos Thank you!,8,0,1,2021-03-10
+334,2021-03-11 04:28:18+00:00,1369867756095475718,sifchain,"@DejayCrypto @keplr They are already happening.  The 300% validator subsidies are released through a separate module, Keplr currently only displays block rewards (which have not yet been turned on for Sifchain).  We anticipate releasing a module for dispersing validator subsidies in a week or two",5,1,2,2021-03-11
+337,2021-03-12 23:16:07+00:00,1370513968473677826,sifchain,@dropshipme 15-30 mins,0,0,0,2021-03-12
+344,2021-03-13 08:34:13+00:00,1370654420317310976,sifchain,"@hungdaovuong4 The public token sale is over, if that’s what you’re asking",0,2,0,2021-03-13
+346,2021-03-15 00:58:10+00:00,1371264425898823684,sifchain,@DejayCrypto request this from @sifchain_heimdall on our Telegram,4,1,0,2021-03-15
+349,2021-03-16 00:03:27+00:00,1371613044782952450,sifchain,"@AkuRypto @tee9540 Well the Sifchain Liquidity Mining rewards would more dwarf IL, they’re at almost 400% right now",4,1,1,2021-03-16
+352,2021-03-17 04:47:21+00:00,1372046877005254657,sifchain,"@SomosUnid0s They’ve been working on it, seems it’s tough for them to handle new layer 1s",0,0,0,2021-03-17
+354,2021-03-18 21:01:28+00:00,1372654408849268738,sifchain,@gregory_landua @buchmanster It's unclear how CBDCs can compete with cryptocurrencies without offering competitive returns through DeFi products,4,0,2,2021-03-18
+356,2021-03-20 04:19:27+00:00,1373127021237178373,sifchain,"@waqar3131 @JWeb565 @ShahirAmman @CryptoExpert101 Yea validator subsidy rewards and liquidity mining rewards are over 200% APY right now; once we start distributing those, you’ll see your returns skyrocket.  They’ll be rewarded retroactively for whenever you pooled or staked",5,1,0,2021-03-20
+360,2021-03-22 01:09:09+00:00,1373803904337539080,sifchain,@wealthyadv Coming p soon mate (maybe even this week) thanks for your interest,2,5,0,2021-03-22
+361,2021-03-26 16:47:21+00:00,1375489560235311104,sifchain,We noted this exact issue and the need for better OSS funding in https://t.co/RZPeaIzanl https://t.co/8PrbUtHhxi,23,1,1,2021-03-26
+362,2021-03-31 18:20:28+00:00,1377324933559152641,sifchain,@PrinzPenguin @MmmMaroof @vonscullbag Yeah we are using data from February 26th,1,1,0,2021-03-31
+365,2021-04-01 23:30:09+00:00,1377765255036735493,sifchain,"Thanks @mZargham of @block_science for the informative seminar! ✨ 
+
+https://t.co/mBWiUWINXM",65,0,8,2021-04-01
+366,2021-04-05 06:45:28+00:00,1378961969554673664,sifchain,@fayzer83 @BwareLabs Redelegation will not cause you to lose your accumulated rewards,0,1,0,2021-04-05
+367,2021-04-06 23:26:57+00:00,1379576388915630081,sifchain,"@SopSok @PourOverCrypto @universal1mind Not lite, different economic models.  With 2 way pegs you can transfer tokens to any chain we peg to, not just swap.  Thorchain will use Sifchain’s 2 way pegs to move ThorFi Synths to non-IBC chains.  IL protection coming, same multi chain wallet, same deterministic price",6,1,1,2021-04-06
+376,2021-04-07 08:43:01+00:00,1379716328714432520,sifchain,@GodOfGogh @geostation2 @UniswapD The validator subsidy rewards mentioned here have been accumulating but we haven’t yet released them or updated our UI.  A PRa for those updates are under code review and should be merged in within the next few days.  Apologies for confusion,2,0,0,2021-04-07
+384,2021-04-08 16:11:02+00:00,1380191465540775938,sifchain,What is Crypto Twitter’s take on SDRs? https://t.co/vVzSfPIu87,35,2,13,2021-04-08
+386,2021-04-09 21:58:47+00:00,1380641367672594435,sifchain,@Andrzej44088644 @keplrwallet Check out tutorials here https://t.co/zT6WRAKVry,0,1,0,2021-04-09
+390,2021-04-10 21:44:12+00:00,1381000084892999680,sifchain,"@PolkadotPePe @SecretNetwork We’ll put them through our listing criteria, they do look interesting at first glance",34,4,1,2021-04-10
+391,2021-04-11 05:47:32+00:00,1381121719042068493,sifchain,"@eggfor11 Right now, LM rewards are displayed but not claimable.  Moreover, we need to update the number as they reflect giving out Rowan linearly over time rather than geometrically as we should (should increase your rewards) but you should at least see that tab https://t.co/j7SwnrZMSV",1,1,0,2021-04-11
+394,2021-04-12 01:31:53+00:00,1381419769761435648,sifchain,"Who is working on an analytics solution for @cosmos chains?  We love @flipsidecrypto @nansen_ai @DuneAnalytics but need something a little more custom for Sifchain :)
+
+https://t.co/wTELmCPdvy
+https://t.co/KbibFjL4dm
+https://t.co/FOwVVKWG86",55,0,7,2021-04-12
+395,2021-04-13 21:54:33+00:00,1382089852930256900,sifchain,"@SelectaCrypto @CarlGocht @twitmyassoff @crypto_bobby @aliatiia_ Through Sifchain, you can take ThorFi synths into the DeFi systems of any chain we build two-way pegs to.  We’re looking at 20-25 bridges to major Layer 1 chains",2,0,0,2021-04-13
+396,2021-04-14 01:24:22+00:00,1382142655631478784,sifchain,"@cryptoflorist Circulating - 64.5M
+Total - 1B
+
+We’re not going to start releasing investor or team locked tokens until Sifchain’s mainnet, when its features are developed enough that it can support large amounts of additional Rowan in circulation",33,4,2,2021-04-14
+402,2021-04-15 14:04:46+00:00,1382696401822433285,sifchain,"@THORChain If you just ask Ledger, they may be able to help directly",24,0,1,2021-04-15
+403,2021-04-16 23:05:11+00:00,1383194791198937089,sifchain,"@NguFyi @thorswap @_0x_larry Yeah that does look pretty cool, there is a similar feature in the Sifchain DEX for withdrawals but we should look into adding it to additions as well",3,0,0,2021-04-16
+404,2021-04-17 18:48:03+00:00,1383492469430439945,sifchain,@wealthyadv @cosmos @thorchain_org https://t.co/NbeNwYaLi6,2,0,0,2021-04-17
+405,2021-04-19 17:47:11+00:00,1384201928737923085,sifchain,@shannystanny @Crypt0RyanBLKCN Exactly,2,1,0,2021-04-19
+406,2021-04-21 19:06:33+00:00,1384946674838253572,sifchain,@satoshismom @chirocrypto We’ll announce more details in our weekly update tomorrow,1,1,0,2021-04-21
+407,2021-04-22 17:12:04+00:00,1385280253745000451,sifchain,https://t.co/17guPqfaSI thanks for having us @Altcoinbuzzio,63,2,16,2021-04-22
+408,2021-04-23 06:46:33+00:00,1385485225308954627,sifchain,https://t.co/Joi7bMsyxr,78,3,17,2021-04-23
+415,2021-04-24 16:53:30+00:00,1386000356610506753,sifchain,@NguFyi On it,0,0,0,2021-04-24
+416,2021-04-25 17:16:20+00:00,1386368490563461123,sifchain,@ianjohnlee @threadreaderapp unroll,0,1,0,2021-04-25
+419,2021-04-26 03:50:23+00:00,1386528054369951746,sifchain,"@eggfor11 Yeah this is a known issue we will fix before we actually allow people to claim their rewards. Please be patient, apologies for the delay and confusion",0,1,0,2021-04-26
+420,2021-04-28 03:48:40+00:00,1387252400574980098,sifchain,"When: 7:00PM UTC May 2nd, 2021 to 7:00PM UTC May 9th, 2021
+
+Where: Sifchain’s official BetaNet Dex
+
+What: Trading competition with 500,000 ROWAN in awarded prizes!
+
+https://t.co/4xU8vEaHhm",125,2,33,2021-04-28
+421,2021-04-29 15:23:51+00:00,1387789736022999044,sifchain,We are extremely proud to be initial members of @IDEOVC’s founder collective!   Democratizing access to investing is critical for future generations and @SyndicateDAO is one of the most forward looking platforms.  We are taking inspiration from it for SifDAO https://t.co/2NHaMIqdQe,53,3,10,2021-04-29
+423,2021-05-02 20:01:28+00:00,1388946764091195392,sifchain,Reminder https://t.co/DtUGk8BQdi,9,2,0,2021-05-02
+433,2021-05-03 02:56:34+00:00,1389051228085100550,sifchain,"@WaqarMMirza Much appreciated.  PnL here is not necessarily reliable since people can add tokens to or remove tokens from their addresses and this doesn't count towards profit, but it is cool that you created this",2,0,0,2021-05-03
+435,2021-05-04 02:43:51+00:00,1389410414555918339,sifchain,@Jai60687895 @jk6276 @FinanceLeo 1B,2,0,0,2021-05-04
+439,2021-05-05 01:02:37+00:00,1389747325879209993,sifchain,We'd love to collaborate with @Umee_network https://t.co/kjysDgSmjp https://t.co/parnicX328,45,1,4,2021-05-05
+442,2021-05-08 18:16:07+00:00,1391094578447413249,sifchain,@Cryptocito Why not both? https://t.co/T3kwdhNJSH,12,0,1,2021-05-08
+443,2021-05-09 21:51:54+00:00,1391511271216869376,sifchain,@Irfan0197 @justacryptodude @oddgems 1B,0,0,0,2021-05-09
+444,2021-05-10 17:23:21+00:00,1391806075762974720,sifchain,https://t.co/GZDRlPlORs @Shibtoken $SHIB  $LEASH Woof Woof https://t.co/66OUi9XyzE https://t.co/yjhTt8QlyH,36,1,10,2021-05-10
+452,2021-05-16 17:45:19+00:00,1393985928620740613,sifchain,@Trinity_CBN Reserved rewards (the total amount reserved for you) accrue until Aug 4.  Claimable rewards (the percentage of reserved rewards you can claim) accrue over 4 months.,1,0,0,2021-05-16
+466,2021-05-17 16:29:58+00:00,1394329355577298944,sifchain,@BirdsFlyHigh7 75M tokens x current price per token,1,0,0,2021-05-17
+467,2021-05-18 22:15:43+00:00,1394778756217114625,sifchain,"@Crypto_Calzone Yes, very similar",0,0,0,2021-05-18
+479,2021-05-19 20:35:58+00:00,1395116038828691458,sifchain,We plan to share more insights on other Sifchain listings in future articles :),16,1,0,2021-05-19
+484,2021-05-20 16:00:31+00:00,1395409107536863237,sifchain,We’re excited to help people across the EVM universe trade $AKT of the unstoppable cloud @akashnet_ https://t.co/udV9FMpI5F,66,4,14,2021-05-20
+486,2021-05-25 16:38:54+00:00,1397230705743122452,sifchain,We just regained Twitter access and are catching up on old messages and tweets.  Last week's weekly marketing update coming soon!,80,0,6,2021-05-25
+489,2021-05-26 23:47:07+00:00,1397700860923158528,sifchain,@darksoulcrypto Haha exactly,3,0,0,2021-05-26
+490,2021-05-27 23:31:13+00:00,1398059243744284672,sifchain,"We see EVM compatibility spreading across many chains, which is why we’re building a bridge to support them all https://t.co/FoMI0r6vIR
+
+For people who prefer native chain transactions to traversability, there are @THORChain and @Chainflip https://t.co/9Ih1XVQq1J",49,1,10,2021-05-27
+495,2021-05-28 06:40:59+00:00,1398167400839737348,sifchain,@gabakimu Keplr’s data may not be as accurate as the data on https://t.co/FomJfzQuhn but we’ll work with them to update to our new APIs,1,1,0,2021-05-28
+507,2021-05-29 16:04:20+00:00,1398671559737282564,sifchain,@satoshismom Check “Peggy Fee Reduction” and “Liquidity Mining and Validator Subsidy Rewards Updates“ for the latest on your two questions https://t.co/zJUYnaZISk,2,0,0,2021-05-29
+511,2021-05-31 20:59:58+00:00,1399470732279644163,sifchain,"@darksoulcrypto @THORChain Our plan for Brokkr, Sommelier, and other projects that optimize LP APY is to make it easy for poolers to repool based on external signal sources (we call it ""copy pooling"" based on the popular ""copy trading"" feature).
+
+Aside from that, we're excited to list ThorFi synths",0,1,0,2021-05-31
+513,2021-06-02 02:24:42+00:00,1399914842014687234,sifchain,"Nice, we’ll offer 500 USDC per month for 4 months (2000 USDC total) for the winner if they keep it maintained during that time 🤝😀 https://t.co/ANq7KHk9NN",50,2,7,2021-06-02
+514,2021-06-05 18:48:49+00:00,1401249667330056194,sifchain,Here's the first of many profiles of Sifchain's validators!  Learn more about who's supporting the network https://t.co/yGIq3KqIY1,49,2,10,2021-06-05
+515,2021-06-06 15:29:50+00:00,1401561979802824711,sifchain,@JimboSuson @ProBit_Exchange @keplrwallet Try using these tutorials https://t.co/uuXubeAvc5,0,1,0,2021-06-06
+518,2021-06-07 14:50:51+00:00,1401914556629323778,sifchain,https://t.co/QaJdFOn4J7,44,5,8,2021-06-07
+525,2021-06-08 20:28:42+00:00,1402361966203711495,sifchain,https://t.co/ZAkLG4L6cZ,44,2,6,2021-06-08
+527,2021-06-09 03:35:12+00:00,1402469301190377479,sifchain,"@johnniecosmos @AdrianStarr108 @osmosiszone @cosmos @Uniswap That's right, we're working on BSC among other EVM chains https://t.co/FoMI0qOURj",11,0,1,2021-06-09
+531,2021-06-10 14:24:17+00:00,1402995033960189954,sifchain,@fayzer83 Do you think the rewards currently on https://t.co/osBfY8BNSQ are not accurate for you?  They should be correct,0,1,0,2021-06-10
+533,2021-06-12 17:25:11+00:00,1403765338056138758,sifchain,@darksoulcrypto @JLibercrypto @cosmos @THORChain @JazearBrooks We agree strongly,4,0,0,2021-06-12
+534,2021-06-13 06:17:04+00:00,1403959585858371585,sifchain,@shan_crypt0 @listendestro @CryptoScipio We’re honored to be brought up during family time :) &lt;3,2,0,0,2021-06-13
+535,2021-06-14 03:56:58+00:00,1404286717083803651,sifchain,"@caterina_zhang @THORChain He’s an early investor, haha https://t.co/FQ8YDLsbHh",4,0,0,2021-06-14
+540,2021-06-15 00:00:28+00:00,1404589587599532033,sifchain,@Szarlej1 Merged into code but not yet deployed.  We just updated the medium article accordingly.  But look out for this in an upcoming deployment!,1,0,0,2021-06-15
+541,2021-06-16 03:28:38+00:00,1405004364847083526,sifchain,@CBarraford @zmanian @jack_zampolin @THORChain 👀,4,0,0,2021-06-16
+543,2021-06-17 13:54:49+00:00,1405524336576925712,sifchain,@Hodl_Lisa People who already registered will get one of their airdrops this week,0,0,0,2021-06-17
+545,2021-06-19 23:40:03+00:00,1406396390578683907,sifchain,"@slavetosound85 @jack_zampolin @CBarraford @cosmos https://t.co/MRGyL5eil1
+
+We've invested in a data pipeline team and are able to generate better metrics, but it was quite the lift and ideally would come out of the box with @cosmossdk.
+
+@osmosiszone want to share any roadmap details on metrics?",0,0,0,2021-06-19
+546,2021-06-20 17:08:45+00:00,1406660302817529858,sifchain,"@juhannrossouw Yes, if you didn’t receive one it’s because you’re not on the list for one.  We generated that list as per https://t.co/4a9zU5pLrp",1,1,0,2021-06-20
+558,2021-06-21 19:25:37+00:00,1407057134584569856,sifchain,"Validator Highlight: Chainvibes!
+
+https://t.co/AQo0AMJ2hU",29,1,3,2021-06-21
+560,2021-06-22 15:04:53+00:00,1407353905776934919,sifchain,"@Crypto_kuuga Of course we will, please link to Greyscale and IBC collab",0,0,0,2021-06-22
+561,2021-06-23 17:25:03+00:00,1407751567843893253,sifchain,We suggest Trusted Source Fungibility Groups to address this issue.  Chains can whitelist multiple trusted sources of the same asset and treat those assets as fungible.  For more https://t.co/FoMI0r6vIR https://t.co/MS1Gu4Wf3y,15,2,3,2021-06-23
+563,2021-06-24 16:20:04+00:00,1408097604638937092,sifchain,"We should see cryptoeconomically viable undercollateralized pegs through sharded custody as is attempted in the paper below
+
+""...any adversary corrupting a bounded fraction of custodians cannot move assets more than his own security deposit""
+
+https://t.co/PFYv3scVk1 https://t.co/ijskPkdfrj",20,1,0,2021-06-24
+564,2021-06-25 23:55:56+00:00,1408574714490982402,sifchain,@LukeGlanton15 @RyanWatkins_ @JazearBrooks https://t.co/M5SDnWgzTn,0,0,0,2021-06-25
+569,2021-06-26 20:48:22+00:00,1408889898203979779,sifchain,@CryptobankR They’ll just be retained by the ecosystem fund for future potential uses,1,0,0,2021-06-26
+570,2021-06-27 20:15:16+00:00,1409243957628837888,sifchain,Sifchain is hard at work trying to deploy an IBC-compatible version by mid-July. This would make it the first blockchain that enabled users to swap Ethereum assets and Cosmos Network assets!,47,3,5,2021-06-27
+577,2021-06-28 23:08:13+00:00,1409649871146012673,sifchain,It’s back up https://t.co/kRTahiy6ht,12,0,0,2021-06-28
+579,2021-06-29 18:17:36+00:00,1409939119321403396,sifchain,@UnbanktheFed You need to have participated in Feb https://t.co/4a9zU5pLrp but if you didn’t then we hope you participate in other opportunities to earn with Sifchain!,1,1,0,2021-06-29
+582,2021-06-30 06:36:08+00:00,1410124978595397635,sifchain,"@ZarTaCH_0x You’d need to pool them, not stake them",0,1,0,2021-06-30
+584,2021-07-01 01:27:31+00:00,1410409702127669252,sifchain,@Tydoo711 Thanks,1,0,0,2021-07-01
+587,2021-07-02 00:12:35+00:00,1410753231001554944,sifchain,@CreateCrypto Peg them as per this video https://t.co/Rg3wS29DqO,1,1,1,2021-07-02
+588,2021-07-03 06:51:07+00:00,1411215914683408384,sifchain,https://t.co/rcxCKRhSBh,66,2,11,2021-07-03
+593,2021-07-04 01:38:28+00:00,1411499622141349890,sifchain,@Tweetophon People can claim staking rewards now on the Rewards tab of https://t.co/7xb8C8BkiO,1,1,0,2021-07-04
+594,2021-07-05 19:19:40+00:00,1412129069202776065,sifchain,"https://t.co/pcHaI5gIj9
+
+This week we are highlighting a team validating the Sifchain blockchain that consists mostly of computer science engineers with technical backgrounds at big tech companies like Google, Fitbit, Luxoft, 888Poker, and Ericsson!",65,1,16,2021-07-05
+598,2021-07-06 22:04:29+00:00,1412532933039050753,sifchain,@p1e_ter @CosmostationVD What error are you receiving?,0,1,0,2021-07-06
+599,2021-07-07 18:51:26+00:00,1412846738101071875,sifchain,@SamuelShadrach4 @wijuwiju0x @EdgarArout Who else do you recommend people follow on MEV Twitter?,0,0,0,2021-07-07
+600,2021-07-08 16:54:26+00:00,1413179681835151363,sifchain,@mrrr37 @THORChain https://t.co/SYvFcLX4eo,0,0,0,2021-07-08
+605,2021-07-09 00:08:18+00:00,1413288866958643202,sifchain,"https://t.co/XmZw7PFE42
+
+𝙑𝙖𝙡𝙞𝙙𝙖𝙩𝙤𝙧 𝙃𝙞𝙜𝙝𝙡𝙞𝙜𝙝𝙩!
+
+""Wetez is uniquely focused on educating their community about staking and Sifchain, and believes that staking can bolster individual rights for those willing to participate in China.""",23,0,2,2021-07-09
+610,2021-07-11 20:43:54+00:00,1414324594610036739,sifchain,"@darksoulcrypto We plan to list all IBC tokens at launch although we could stagger them if there’s a technical or economic benefit to do so. 
+
+We’ll announce incentives in due course",1,0,0,2021-07-11
+619,2021-07-12 05:04:40+00:00,1414450614096912388,sifchain,Partner with @cosmos on sustainability in crypto! https://t.co/bTFu838bLh https://t.co/lre5qSH45n,52,0,3,2021-07-12
+620,2021-07-13 19:05:51+00:00,1415024691958349824,sifchain,"Great article on the benefits of VentureDAOs by AngelDAO.  As this ecosystem evolves, VentureDAOs offer a compelling value proposition alternative to traditional VCs.  
+
+VCs often ask ""how can we help?""  Venture DAOs just start helping because they're already community members https://t.co/F44m30SRRJ",30,1,3,2021-07-13
+625,2021-07-14 00:27:20+00:00,1415105597549150212,sifchain,@darksoulcrypto @THORChain @cosmossdk without L2 is faster than Ethereum with L2,14,1,1,2021-07-14
+626,2021-07-15 23:20:50+00:00,1415813636287696896,sifchain,"@PavelDidkovsky It sounds like you unpooled from a liquidity pool to stake in a validator which we explained would disqualify you from future airdrops :( https://t.co/zJUYnaZISk
+
+We hope you continue to participate in Sifchain in other ways",0,1,0,2021-07-15
+637,2021-07-17 20:14:36+00:00,1416491548561215488,sifchain,"We’re happy Thorchain’s covering LP losses from its recent exploit and are confident the exploit will be patched quickly
+
+To clarify, TC’s one-way ETH bridge that was hacked has a different architecture from Sifchain’s two-way ETH bridge.  Sifchain LPs were never exposed",86,4,10,2021-07-17
+640,2021-07-18 15:42:09+00:00,1416785370411270145,sifchain,@Timcampy2000 TC’s one-way bridge allows you to trade assets on different native chains (ex. Sell ETH on Ethereum to buy Atom on Cosmos).  Sifchain’s two-way bridge allows you to move assets from one chain to another (ex. Move ETH from Ethereum to Cosmos),0,1,0,2021-07-18
+642,2021-07-19 18:07:55+00:00,1417184439877124104,sifchain,There may be some changes to the existing liquidity mining and validator subsidy program to account for differences between CosmosSDK 0.39 and 0.42.  Check the medium article for details,8,1,0,2021-07-19
+649,2021-07-20 16:01:09+00:00,1417514928357969929,sifchain,"@mohammedpatla Trusted Source Fungibility Groups is a Sifchain feature.  Other Dapps will need to adopt it separately or sort their own solution.  
+
+We expect the community to be conservative in which bridges it decides to bundle to reduce risk, but let's see how those governance chats go!",2,0,0,2021-07-20
+651,2021-07-21 04:17:14+00:00,1417700168393183233,sifchain,@SputnikNetwork @ftblurt https://t.co/9Cp7XZSFSq,2,1,0,2021-07-21
+653,2021-07-23 01:30:30+00:00,1418382982742695943,sifchain,"We continue to be inspired by @THORChain alongside Cosmos leaders like Do Kwon and Zaki 
+
+Years back, Thorchain pushed @cosmossdk so hard Cosmos commissioned it for what became the Cosmos-Ethereum bridge many projects use today.  Bugs are temporary, Thorchain's legacy is forever https://t.co/r5G5rmezAT",161,3,19,2021-07-23
+663,2021-07-24 23:27:18+00:00,1419076757601144837,sifchain,"@AriDavidPaul Based on what you’re saying, people will be regulated if they are airdropped governance tokens for a project they’ve never heard of…",5,1,0,2021-07-24
+664,2021-07-25 01:15:28+00:00,1419103976302145539,sifchain,https://t.co/ySpDUFmOTC,59,2,11,2021-07-25
+667,2021-07-27 17:01:42+00:00,1420066881940049925,sifchain,Update: There is now a @Sentinel_co relayer on our IBC Testnet.  Thanks to the Sentinel team and community for the fast engagement https://t.co/yeDfIqlLcV,53,4,7,2021-07-27
+670,2021-07-28 16:54:13+00:00,1420427383866200074,sifchain,@michael_sylvan @Karan_patell1 @cosmos That sounds like it’s due to the upgrade.  It could take hours to finish,3,0,0,2021-07-28
+671,2021-07-29 04:46:13+00:00,1420606564596023297,sifchain,@SuperTrampCoin Most people are not seeing that.  Try doing a hard refresh to clear your cache,0,1,0,2021-07-29
+683,2021-08-02 05:31:10+00:00,1422067430013095936,sifchain,"@mintscanio Please bear with us as we stabilize the testnet, finish testing and QA, and launch the feature, which we expect this week.",16,0,0,2021-08-02
+697,2021-08-03 23:55:06+00:00,1422707630334636034,sifchain,"@Aakash55308803 @Chainflip @THORChain 1/2 We encourage anyone using cryptocurrency to follow their local regulations regarding such technology.  For example, even with privacy-preserving transactions, you can record and pay accurate taxes",2,1,0,2021-08-03
+699,2021-08-04 16:13:52+00:00,1422953946348331010,sifchain,@proke94 Too close to call but we’ll try our best,3,1,0,2021-08-04
+704,2021-08-08 23:38:10+00:00,1424515307519954949,sifchain,"@THORmaximalist Fair point @THORmaximalist.  We’ll need some help with creating simple marketing materials, especially once we start sharing details on our rather complicated margin feature.
+
+Hopefully we can engage our community for support in this",3,0,0,2021-08-08
+708,2021-08-09 19:40:04+00:00,1424817778402332691,sifchain,"Inflationary block rewards will increase funding for the community pool, so Sifchain’s community members can submit proposals for funding projects. Sifchain’s ecosystem fund will seed the community pool after IBC launches to expedite community funded growth",10,0,1,2021-08-09
+722,2021-08-10 02:11:22+00:00,1424916249453109249,sifchain,@philipkd Added,1,0,0,2021-08-10
+724,2021-08-11 15:13:58+00:00,1425475587745878020,sifchain,@johnniecosmos It’s the same front end you’ve been posting every day on Twitter!,20,3,0,2021-08-11
+729,2021-08-12 14:22:52+00:00,1425825116340903939,sifchain,Come check out our Twitter Spaces talk with Polygon in 10 minutes! https://t.co/pz8Mz4L0Rd,31,4,4,2021-08-12
+732,2021-08-13 00:27:11+00:00,1425977197718687746,sifchain,"@AdrianStarr108 Cosmos tokens will end up on Polygon almost right after we get them on Ethereum
+
+IBC QA going well so far, release tomorrow - Tue likely
+
+Peggy’s future is as a peg zone blockchain with cross-chain asset transfer for any Cosmos Network chain, not just Sifchain",27,2,9,2021-08-13
+733,2021-08-14 00:18:46+00:00,1426337467217571842,sifchain,@LovinderButtar Please check in with a Sifchain community manager on our Telegram about this,0,1,0,2021-08-14
+737,2021-08-16 21:57:17+00:00,1427389022234546208,sifchain,@Tweetophon @AdrianStarr108 @cosmos @akashnet_ Of course we’re in contact,4,1,0,2021-08-16
+753,2021-08-17 04:48:36+00:00,1427492533819428866,sifchain,This is a great idea!  Dapps should help by open sourcing their front end code as we have with https://t.co/ZZ3mkuhV2P and incentivizing on-chain rewards for hosting an FE as we will soon https://t.co/5qH6ElkJeG,39,0,9,2021-08-17
+755,2021-08-18 03:10:13+00:00,1427830162628825088,sifchain,@Plebo17 Should be fine now,0,0,0,2021-08-18
+756,2021-08-19 23:30:20+00:00,1428499603419140097,sifchain,We were just testing against the @cosmoshub testnet when it went down.  Would anyone share info on when it’s coming back up? cc @cosmos @cosmossdk @cosmosibc,54,2,6,2021-08-19
+757,2021-08-22 23:29:08+00:00,1429586463935500294,sifchain,"Again, we respect Althea and have taken inspiration from some GB features (like batched transactions) for Peggy
+
+There’s more history and dimensionality here but we hope for now this suffices to clarify differences between the two cross-chain projects",33,1,2,2021-08-22
+781,2021-08-23 22:01:00+00:00,1429926674427088904,sifchain,@ShareefKP369 Unfortunately you are no longer able to claim the AirDrop but we hope you will participate in Sifchain in other ways!,3,1,0,2021-08-23
+789,2021-08-24 19:53:16+00:00,1430256915213295620,sifchain,"@proofstake @cosmoshub Yeah we’ve thought of this and a few similar ideas, it would be amazing cc @tidaldefi @NexusMutual 
+
+You’d have to work out the incentive model though, people hate bridge fees as it is :-)",14,1,1,2021-08-24
+792,2021-08-25 21:31:52+00:00,1430644119777398788,sifchain,"@SweetLoot1 Are you still seeing this issue if you do a hard refresh? https://t.co/pXLAeCVnQA
+
+We haven't gotten this complaint from many others",0,1,0,2021-08-25
+817,2021-08-26 07:02:25+00:00,1430787701012262914,sifchain,@beartowngiant @emerisHQ @osmosiszone Check https://t.co/7xb8C8BkiO and look for a tab describing how to get your first Rowan.  You can also ask for help on our Telegram,3,1,0,2021-08-26
+827,2021-08-27 23:25:02+00:00,1431397372928561155,sifchain,@SweetLoot1 We’re looking into it,0,1,0,2021-08-27
+839,2021-08-28 03:12:34+00:00,1431454634254602240,sifchain,"If this is implemented well, it could become a model for companies like @PayPal @stripe and @GoldmanSachs
+
+It may save us a lot of time for FinTech companies to retool their existing infrastructure and staff to be crypto native than rebuild everything and convert to all new apps https://t.co/0UA6wKs27v",62,6,15,2021-08-28
+844,2021-08-29 23:52:51+00:00,1432129149636775937,sifchain,@HectorGarciaVer @akashnet_ Yes,7,2,0,2021-08-29
+850,2021-08-31 22:46:57+00:00,1432837342151077889,sifchain,"@lebmagic82 @immunefi We’ll continue to secure audits on an ongoing basis, you can view the ones we have had done so far here https://t.co/TiXJgijZbS",2,0,0,2021-08-31
+853,2021-09-01 01:09:25+00:00,1432873193119776771,sifchain,@jim380 @ShentuChain @cosmos @irisnetwork @akashnet_ @osmosiszone @regen_network @microtick_zone @starname_me https://t.co/e0SEgRJvXc,2,0,0,2021-09-01
+866,2021-09-02 22:39:29+00:00,1433560239035469828,sifchain,We're on Twitter Spaces in 20 mins for https://t.co/EeuzoIEpcn with @chjango! https://t.co/aixvyaG4uZ,15,1,2,2021-09-02
+871,2021-09-03 00:02:51+00:00,1433581215567659034,sifchain,"@atomdegen @AdrianStarr108 @cosmos @akashnet_ We assure you, the APY is actually as high as is listed, check out these tweets for details https://t.co/8o46ZtBHFR",0,0,0,2021-09-03
+874,2021-09-04 08:50:13+00:00,1434076320774848513,sifchain,@HilgemanAC Please ask for help on our Telegram,0,1,0,2021-09-04
+876,2021-09-07 22:49:15+00:00,1435374634506100738,sifchain,https://t.co/dQbMqTUizm,58,3,15,2021-09-07
+884,2021-09-09 08:22:45+00:00,1435881349051727876,sifchain,@AdrianStarr108 We appreciate the feedback and support,4,2,0,2021-09-09
+885,2021-09-10 01:36:13+00:00,1436141428522958863,sifchain,"@mk_crypto Weird, please reach out on our Telegram for tech support",0,0,0,2021-09-10
+898,2021-09-11 23:57:38+00:00,1436841395298258947,sifchain,"Our fix to support Ledger + Keplr on Sifchain is in testing in an internal testnet right now, hoping to release soon https://t.co/WnNueQklrR",57,5,4,2021-09-11
+903,2021-09-12 15:43:23+00:00,1437079398977466370,sifchain,@Bitcoin_Hunters @Malik_Farooq_01 @VabbleApp 👀,1,0,0,2021-09-12
+904,2021-09-14 10:37:43+00:00,1437727254767828994,sifchain,"@cosmos @AaveAave @compoundfinance @iearnfinance @SecretNetwork @terra_money @InjectiveLabs @gravity_bridge Coming Soon: 
+- Rewards for Ethereum tokens on Sifchain!
+- Ledger + Keplr compatibility on Sifchain (fix in internal testnet)!
+- Cosmos Network tokens on Polygon!",87,7,13,2021-09-14
+913,2021-09-16 03:43:05+00:00,1438347684931244032,sifchain,@CryptoGoose01 Still under testing but hopefully in the next few days,1,1,0,2021-09-16
+914,2021-09-17 22:47:53+00:00,1438998169656995841,sifchain,"Join us and @halbornsecurity in an AMA on Clubhouse 4pm pacific, Friday the 17th!
+
+For those without Clubhouse, this will be recorded and uploaded to Halborn’s YouTube: https://t.co/8ufVa8G4uT https://t.co/oMfBZiPuT3",43,1,8,2021-09-17
+916,2021-09-18 21:49:21+00:00,1439345827395227649,sifchain,"@weyoun99 We’re sorry to hear that, please reach out on our Telegram for assistance",0,0,0,2021-09-18
+917,2021-09-22 19:41:26+00:00,1440763188283207681,sifchain,@tcherno Please ask for help with this on our Telegram,0,0,0,2021-09-22
+918,2021-09-23 22:25:45+00:00,1441166924910514191,sifchain,October 4th https://t.co/oCs3nRSI0b,228,15,52,2021-09-23
+919,2021-09-24 19:44:19+00:00,1441488689155256324,sifchain,@BitcoinMimi @DrCrypto47 After Omni-EVM and margin!,3,2,0,2021-09-24
+921,2021-09-25 17:14:05+00:00,1441813268402683904,sifchain,"https://t.co/P9SQQq9KxP
+
+Step by step guide to delegating your Rowan and earning amazing rewards (over 60% APY as of this tweet)!",101,6,26,2021-09-25
+922,2021-09-26 01:47:33+00:00,1441942487036137473,sifchain,"𝐒𝐭𝐚𝐤𝐢𝐧𝐠 𝐫𝐞𝐰𝐚𝐫𝐝𝐬 𝐚𝐫𝐞 𝐧𝐨𝐰 𝐥𝐢𝐯𝐞!
+
+What does that mean for you?
+
+Right now you can earn passive rewards on Sifchain with just a couple clicks.
+
+Here’s how: https://t.co/8qxQMvdo81",160,14,38,2021-09-26
+931,2021-09-27 12:43:18+00:00,1442469900455317505,sifchain,"@CryptoNStuff1 Osmosis: soon
+Emeris: sooner than soon",1,1,0,2021-09-27
+941,2021-09-28 01:24:11+00:00,1442661380365209605,sifchain,@ewwfedcoin Folks on our Telegram can help you!,1,0,0,2021-09-28
+948,2021-09-29 21:30:24+00:00,1443327325907701761,sifchain,"@sybilesystem @LevichEth Yes, although it might go down as more money is staked / delegated",1,0,0,2021-09-29
+957,2021-09-30 20:58:59+00:00,1443681806331494400,sifchain,"https://t.co/1ZTmuDRlt8
+
+- Export @cosmos Network tokens from Sifchain to Ethereum to @0xPolygon
+- Pool CN tokens on @QuickswapDEX
+- Farm CN QS LP tokens to earn $QUICK and $ROWAN as rewards (farming up for $ATOM and $ROWAN now, $AKT, $XPRT $IRIS and more soon!)",74,4,18,2021-09-30
+959,2021-10-01 01:27:38+00:00,1443749412103024655,sifchain,Earn $Rowan and $Dino by providing liquidity with @cosmos tokens on @dinoswaphq starting October 6th! https://t.co/5AJZOEgdtI,185,8,43,2021-10-01
+967,2021-10-02 14:50:41+00:00,1444313894063726600,sifchain,@Quiet2listen @3rdCryptoFrank We confirmed that Sif’s Harvest is separate from the existing program so a new instance of pooling is needed to enter it once it launches,1,0,0,2021-10-02
+969,2021-10-03 02:20:19+00:00,1444487447992172545,sifchain,@WisdomOfMimir There is IL mitigation which covers realized IL.  Check out https://t.co/K35l6IrUie for details,0,0,0,2021-10-03
+972,2021-10-04 23:44:01+00:00,1445172890333114370,sifchain,"NEW TOKENS! 
+
+$BTSG - @BitSongOfficial
+$QUICK - @QuickswapDEX
+$LDO - @lidofinance
+$RAIL - @railgun_project
+$POND - @marlinprotocol
+$DINO - @dinoswaphq
+$UFO - @TheUFOtoken
+$DFYN - @_DFyn
+
+Tradable on the Sifchain DEX, with pools in Sif's Harvest for liquidity providing rewards! https://t.co/qF7F2w96ux",126,6,33,2021-10-04
+985,2021-10-05 18:59:59+00:00,1445463798538661897,sifchain,Looking forward to our AMA to discuss Metis in more detail! https://t.co/ts7AcjjUKn,61,1,11,2021-10-05
+991,2021-10-06 02:42:28+00:00,1445580184300634113,sifchain,"$JUNO — @JunoNetwork
+
+ $JUNO has a first ever Sif's Bonus Pool!
+
+1M additional $ROWAN in rewards dedicated to users who add liquidity to this pool over 2 weeks.
+
+Sif's Bonus Pool + Sif's Harvest = $ROWAN Rewards https://t.co/szfJPK5NiW",178,12,41,2021-10-06
+1001,2021-10-07 20:08:24+00:00,1446205789467721731,sifchain,@Cryptojackt1 @0xPolygon @cosmos @QuickswapDEX @DinoSwapHQ Try this https://t.co/6bSSEnF8px,0,1,0,2021-10-07
+1005,2021-10-08 18:51:11+00:00,1446548747756965916,sifchain,"Sifchain has now passed $50,000,000 TVL which has increase over 160% over the last 30 days 🎉🌾 https://t.co/RiGWvkmhce",339,10,66,2021-10-08
+1008,2021-10-11 04:41:59+00:00,1447422202706636803,sifchain,"https://t.co/jbmzLEBIt2 is outdated and we want to plan for upcoming IBC launches.  
+
+1. What IBC compatible chains should we be looking out for, and when do they get onto IBC?
+2. Are any community members up for helping to maintain https://t.co/jbmzLEBIt2 (aka wen Sifchain 😁)?",114,9,14,2021-10-11
+1010,2021-10-12 07:22:53+00:00,1447825080302637059,sifchain,"@catdotfish Next time we have this kind of issue with a Cosmos service we will check to see who is running it and reach out to them directly before a public message like this. 
+
+We appreciate all you do for the ecosystem and we’re not trying to slight you here, apologies from us.",23,0,0,2021-10-12
+1014,2021-10-13 20:36:43+00:00,1448387246038601728,sifchain,@IronWill900 Try https://t.co/d0fJWRgx5X,1,0,0,2021-10-13
+1015,2021-10-14 16:59:08+00:00,1448694875621367815,sifchain,@TheUnipornRage @SpookySwap @Spirit_Swap @cosmos @osmosiszone https://t.co/RBCQpMptmC ?,11,1,1,2021-10-14
+1016,2021-10-15 23:16:13+00:00,1449152158247567371,sifchain,"Phase 2.
+7:00pm PST.
+Don't be late.
+
+$JUNO $ROWAN 
+@JunoNetwork https://t.co/g1RTXUKBny",73,4,11,2021-10-15
+1019,2021-10-16 21:05:34+00:00,1449481669040349193,sifchain,"$JUNO Sif's Bonus Pool top-up
+
+500,000 more $ROWAN added to the Sif's Bonus Pool.
+End date extended.
+
+1. Go to https://t.co/zoRyw9ypQt
+2. Pool $JUNO
+3. Earn $ROWAN
+
+@JunoNetwork",135,8,27,2021-10-16
+1029,2021-10-17 23:58:35+00:00,1449887598642712578,sifchain,"Dinoswap also has outstanding rewards for Rowan:[Cosmos TKN] pairs and Rowan:Quick, 300%+ APR (10,000%+ APY)!  Dinoswap pays out rewards in the Dino token but through their Extinction Pools you can also earn Rowan! https://t.co/QXx9h5pwVK",8,1,3,2021-10-17
+1039,2021-10-18 00:00:28+00:00,1449888069319073793,sifchain,"We still have more bonus pools coming, our next trading competition, and more partnerships with major players.  
+
+We appreciate your feedback in https://t.co/pFvLSBG3MR, Telegram and the feedback channel of our Discord.  Keep helping us help you!",43,4,3,2021-10-18
+1044,2021-10-19 15:38:24+00:00,1450486499565318148,sifchain,@browsin51479814 @CoinMarketCap @coingecko @LiveCoinWatch @keplrwallet You’d have to ask those services about their price feeds.  The price on Sifchain’s DEX itself has been pretty solid,1,2,0,2021-10-19
+1050,2021-10-20 16:01:58+00:00,1450854817287614468,sifchain,@madhukg007 @DinoSwapHQ It is already on SifDEX! :),1,1,0,2021-10-20
+1051,2021-10-21 16:13:05+00:00,1451220003521433600,sifchain,"Earn with your $ROWAN in so many different ways! Check out our pools on @QuickswapDEX. APYs over 1,000%!
+
+Move your $ROWAN and $ATOM (as well as other CosmosSDK tokens) over to QuickSwap via SifDEX and earn rewards! https://t.co/kc0IpDAHJC",62,7,16,2021-10-21
+1057,2021-10-24 23:40:13+00:00,1452419691310456845,sifchain,"🌽 Sif's Fields of Gold Starts October 25th at 8am PDT! 🌽 
+
+🔴 Reserve your spot in the Sif's Fields of Gold Livestream: https://t.co/aKRPGCPiql
+
+Read up on all qualifications here: https://t.co/0sU8dpPXEV
+
+Prepare your $ROWAN! https://t.co/e6GQSVDFJq",59,2,14,2021-10-24
+1060,2021-10-25 23:33:34+00:00,1452780406487539717,sifchain,"🌽 Sif's Fields of Gold Update 🌽
+
+In just 8 hours:
+🚀  320 new traders onboarded (up 471%)
+🚀  $18M in trading volume (up 165%)
+🚀  35k in swap txs (up 568%) 
+
+All previous records have been smashed and its only 8 hours in.
+
+Livestream coming Oct 27th:  https://t.co/JwhoKm4tqX",82,4,18,2021-10-25
+1067,2021-10-26 15:50:47+00:00,1453026328559636484,sifchain,@QuickswapDEX This AMA will be held in @QuickswapDEX telegram channel! Please join here: https://t.co/sCCtgvjtzw,15,1,1,2021-10-26
+1069,2021-10-27 12:58:30+00:00,1453345360940871681,sifchain,"Our first Battle of the Tradewinds competition kicks off in a few hours.
+
+Top 10 traders by volume against the pool will earn rewards in this project sponsor's tokens.
+
+Can you guess which pool it will be on? https://t.co/WnwTaGhGEO",50,9,8,2021-10-27
+1077,2021-10-28 02:21:30+00:00,1453547441358245898,sifchain,@CryptoNoodlSoup @Andrea__Chang @cosmos If you have any ideas we encourage you to create a proposal!  It could even get funded by the community pool!  https://t.co/Yrk18TQJNT,2,1,0,2021-10-28
+1079,2021-10-29 13:03:00+00:00,1454071270300131329,sifchain,"Our next Battle of the Tradewinds competition kicks off in a few hours!
+
+Top 10 traders by volume against the pool will earn rewards in this project sponsor's tokens.
+
+Can you guess which pool it will be on? https://t.co/iYuKijGkGS",45,6,6,2021-10-29
+1083,2021-10-30 22:26:16+00:00,1454575407815086084,sifchain,@CryptoGr8White Thanks so much for your passion about the Sifchain project,4,1,0,2021-10-30
+1084,2021-11-01 04:47:22+00:00,1455033700660416516,sifchain,"@TheOverlordRed Whoa, definitely reach out for help on our Telegram for this one",3,0,0,2021-11-01
+1089,2021-11-02 17:10:19+00:00,1455583059206672387,sifchain,"@spengrah Seems like every aggregate action can be collective with coordination mechanisms, even such coordination mechanisms are temporary, anonymous, or otherwise customized for each situation",1,1,0,2021-11-02
+1091,2021-11-03 03:38:15+00:00,1455741082189406208,sifchain,"@TealFinance @Coin98Analytics @cosmos @kava_platform @anchor_protocol @cryptocom @BandProtocol @THORChain @osmosiszone @SecretNetwork @akashnet_ @CelerNetwork Yes, https://t.co/55aZi5IYk8",2,1,0,2021-11-03
+1092,2021-11-04 18:11:48+00:00,1456323309646274562,sifchain,"https://t.co/8jdDKSZfKQ
+
+Join us with @RangoExchange",29,2,2,2021-11-04
+1106,2021-11-06 00:34:09+00:00,1456781917559431168,sifchain,@mamoresxiv @opensea @FTX_Official Congratulations :),4,1,1,2021-11-06
+1108,2021-11-07 15:22:48+00:00,1457367940022603776,sifchain,"@spontango Please wait, it’s taking some time for this issue to be fixed and we’ll announced when it’s been resolved",0,0,0,2021-11-07
+1109,2021-11-08 12:25:48+00:00,1457685783784083465,sifchain,"@acucoin Perhaps, our engineers have seen a few issues like this and are working on them",1,0,0,2021-11-08
+1111,2021-11-09 17:51:54+00:00,1458130239331213313,sifchain,"Check out the replay of Sifchain CEO @JazearBrooks discussing the much anticipated Omni-EVM, &amp; the first ever intro to Sifchain's Deep Margin Trading. 
+
+Join the Sifchain community today and be part of these revolutionary features that will put Sifchain into a league of its own.",105,3,29,2021-11-09
+1113,2021-11-11 23:46:36+00:00,1458944278852423685,sifchain,@JazearBrooks @MetisDAO @0xPolygon @LinearFinance @SaitoOfficial @akashnet_ @ixoworld @unizen_io @JunoNetwork @RangoExchange @QuickswapDEX @terra_money @DinoSwapHQ @StaFi_Protocol,27,2,1,2021-11-11
+1118,2021-11-14 20:27:04+00:00,1459981228602503182,sifchain,"The proposal for Sif's Expansion has PASSED! 
+
+See Sifchain's 'Announcements' channel in Discord for more information and how to cast the first vote that will kick-off this program! 
+
+https://t.co/Erng8KsNh2
+
+🚀 Onwards &amp; Upwards 🚀",105,5,25,2021-11-14
+1119,2021-11-15 18:35:20+00:00,1460315495756967939,sifchain,Excited for our partners at @MetisDAO! https://t.co/pMCluLYdyG,87,1,22,2021-11-15
+1123,2021-11-16 22:39:18+00:00,1460739281312530437,sifchain,"Some preliminary results for the the pools that will get 300% APR in our Sif's Expansion liquidity mining rewards:
+1 - ZCX (@unizen_io)
+2 - ETH (@ethereum)
+3 - RUNE (@THORChain)
+4 - JUNO (@JunoNetwork)
+
+Vote ends tomorrow at 10am PST so get your votes in before then!",206,51,36,2021-11-16
+1130,2021-11-17 20:02:05+00:00,1461062104442617857,sifchain,"@MetisDAO @cosmos Sifchain provides users the ability to swap to and from $METIS using 70+ other tokens from Cosmos and Ethereum, super quickly and extremely cheaply!",75,4,8,2021-11-17
+1136,2021-11-18 13:11:46+00:00,1461321230515068930,sifchain,"@sashleak @terra_money @cosmos @unizen_io @ethereum @JunoNetwork Weekly compounding provides 1747% APY, daily provides 1884% APY https://t.co/Z3CPpsJdrs",8,2,1,2021-11-18
+1138,2021-11-19 18:13:09+00:00,1461759464101621767,sifchain,"The application window for the first installment of the Sifchain Validator Delegation program is now closed! Some fun statistics:
+- 88 applications have been submitted! 🚀
+- 92 total external node operators📈
+
+SifDAO will be reviewing these applications over the next few weeks!",48,5,11,2021-11-19
+1144,2021-11-20 13:45:22+00:00,1462054464605626380,sifchain,"Tune in to hear from CEO Jazear Brooks speak about Sichain and the future of DeFi. Make sure to stop by our booth to ask any additional questions you may have! 
+
+Start time: 2:30pm UTC
+
+https://t.co/t1HXy7e6VS https://t.co/5SoAsANvFH",46,0,8,2021-11-20
+1145,2021-11-23 03:06:56+00:00,1462980959263932417,sifchain,"Sif's Expansion: So close we can taste it.  
+
+At this time, rewards ARE accumulating. The team is in final testing on UI display and ensuring ALL liquidity prior to Sif's Expansion is included and represented in the DEX UI accurately. On track for UI deployment tomorrow 11/23 https://t.co/4wESGew1BD",178,8,42,2021-11-23
+1148,2021-11-25 13:09:00+00:00,1463857250116722692,sifchain,"We are all about rewards for our Sifchain community right now! Check out @QuickswapDEX to earn on your eROWAN as well! 
+
+And don't forget: Sif's Expansion🤤🤤🤤 https://t.co/WKWDcxZE5e",38,1,6,2021-11-25
+1155,2021-11-26 00:40:16+00:00,1464031212406722568,sifchain,"@briankeddy345 Good point, @JunoNetwork may not have known we had weekly distributions.  Still pretty amazing rewards though https://t.co/0XRh3rdBG2",1,1,0,2021-11-26
+1161,2021-11-27 22:13:57+00:00,1464719169673437188,sifchain,@rushanesmith12 More info here https://t.co/twQay3dbtR,0,0,0,2021-11-27
+1167,2021-11-28 22:55:45+00:00,1465092073422524428,sifchain,"Coming up on week 2 of Sif's Expansion! Remember:
+
+- The minimum APR % of 300% and 100% is constant. Meaning, as you and others add more: the APR percentage does NOT go down.
+- 300% Pools:
+🚀 $ATOM
+🚀 $ZCX
+🚀 $JUNO
+🚀 $UST
+🚀 $ETH
+
+Let's hear those success stories from week 1!",196,15,61,2021-11-28
+1168,2021-11-29 04:27:00+00:00,1465175437378789376,sifchain,@proofstake Until the pools are deep enough that slippage is reduced and cross-categorical arbitrage becomes more affordable for the masses,12,0,0,2021-11-29
+1169,2021-11-30 00:31:28+00:00,1465478551176728587,sifchain,"DEX Stats:
+📈 $ATOM: 310% APR
+📈 $JUNO: 308% APR
+📈 $UST: 307% APR
+📈 $ZCX: 304% APR
+📈 $ETH: 303% APR
+📈 $USDT: 221% APR
+
+oh and the rest of the 90+ tokens? At least 100% APR.
+
+Let's keep expanding.",226,8,51,2021-11-30
+1178,2021-12-01 22:32:01+00:00,1466173267723665408,sifchain,"💬 Announcing: Sif Side Chats!
+
+Each week a dedicated topic is chosen where the Sifchain Community and the core Sifchain team can engage in a discussion. 
+
+Come to the Sifchain Discord and submit your questions and join the conversation!
+
+https://t.co/zrQeEbjzP5 https://t.co/K39KwoFzis",75,2,12,2021-12-01
+1185,2021-12-02 00:55:16+00:00,1466209314239037447,sifchain,@Cryptolaxy @HectorDAO_HEC @PositionEx @cronaswap @AtrixProtocol @nerve_network @deversifi oh hey,6,0,0,2021-12-02
+1192,2021-12-03 22:11:38+00:00,1466892913758162950,sifchain,@SkyrisenTV @jmahap28 @SaitoOfficial @cosmos You just pool it on Sifchain in the SAITO:ROWAN pool and watch your rewards grow! Reach out to our community on Discord or Telegram for any additional help :),1,0,0,2021-12-03
+1199,2021-12-05 05:08:50+00:00,1467360293420474374,sifchain,"Agreed, this is why we’ve worked so hard to make sure Sifchain will support  cross-margin for margin positions on its DEX https://t.co/Tfr1GTXGvR",139,9,36,2021-12-05
+1203,2021-12-06 07:40:15+00:00,1467760786256928769,sifchain,@satoshismom Please ask for help with this on our telegram or discord,0,0,0,2021-12-06
+1207,2021-12-07 14:10:07+00:00,1468221285620756486,sifchain,@CruzDeidara Yeah we are aware and are working on a fix,0,0,0,2021-12-07
+1208,2021-12-10 17:21:54+00:00,1469356714893975554,sifchain,"Sifchain x Nervos: Powered by Omni-EVM. Coming soon.
+
+https://t.co/fdd1Ysp92G
+
+$ROWAN 
+@NervosNetwork @newsbtc",199,10,62,2021-12-10
+1209,2021-12-13 23:32:03+00:00,1470537028253229057,sifchain,"Will the previous winners win again?!:
+$ZCX
+$ETH
+$JUNO
+$UST
+
+Or will a new group be ushered in?!
+
+@cosmos @JunoNetwork @ethereum @unizen_io @terra_money",31,2,4,2021-12-13
+1213,2021-12-14 12:05:39+00:00,1470726679458988040,sifchain,"🚨 NEW TOKEN LAUNCH 🚨 
+What: $LGCY
+When: Wednesday, Dec 15th PST
+LP APR: at least 100%
+
+@LGCYNetwork",167,12,45,2021-12-14
+1218,2021-12-15 01:08:29+00:00,1470923682604322816,sifchain,@CryptoGr8White @ape_board Let's make an integration happen. Reach out to us and lets chat,2,0,0,2021-12-15
+1223,2021-12-16 22:51:27+00:00,1471613975943131138,sifchain,"Catch the repeat AMA with @TTTcapital and sif_moon to learn more about Omni-EVM, why Sifchain vs. other exchanges, and the importance of the community within Sifchain! 
+
+https://t.co/UNEIMV5d16",147,37,49,2021-12-16
+1230,2021-12-17 17:30:30+00:00,1471895594323034118,sifchain,"Elections are now OPEN for our first 2 DAO councils!
+
+🚀 ​SifDAO Token Listing Council
+🚀 ​SifDAO Validator Delegation Council
+
+Head to our discord and place your votes! Voting ends on 12/20 5pm PST
+
+https://t.co/3o0kotbnYd",63,3,11,2021-12-17
+1231,2021-12-20 18:39:00+00:00,1472999993657245698,sifchain,"Calling the @unizen_io community! Come Tuesday December 21st at 8:00am PST, the ZCX liquidity pool will continue to earn 300% APR! 
+
+Steps:
+- Import your $ZCX into Sifchain using https://t.co/zoRyw9ypQt.
+- Pool it with $ROWAN.
+- Watch your rewards grow at 300% APR!",121,6,31,2021-12-20
+1235,2021-12-21 17:32:40+00:00,1473345688192929799,sifchain,@aurelonchain @elonmusk Seems like Elon is trolling but Jack might be serious,0,0,0,2021-12-21
+1236,2021-12-25 21:29:06+00:00,1474854743507968004,sifchain,https://t.co/frddECWYiw,159,6,17,2021-12-25
+1246,2021-12-26 02:56:29+00:00,1474937131814555653,sifchain,Peggy 2 will be able to connect to @avalancheavax’s EVM chain as well https://t.co/LRyl0G3sex,114,9,17,2021-12-26
+1249,2021-12-27 21:50:24+00:00,1475584879484190720,sifchain,Announcement: The @Stakely_io ROWAN faucet -  https://t.co/duyErCNaT6,288,51,98,2021-12-27
+1250,2021-12-28 19:05:01+00:00,1475905645526372354,sifchain,@pheriskoop1 Use the faucet to get a ROWAN! Or ask in our discord. Our community is very helpful and will give you a rowan (probably) within minutes.,2,1,0,2021-12-28
+1253,2022-01-03 14:14:46+00:00,1478006928668254216,sifchain,@CryptoRank_io @github @santimentfeed @Cardano @kusamanetwork @Polkadot @defichain @Mdexswap @synthetix_io @LiquityProtocol @BalancerLabs well hello,44,2,0,2022-01-03
+1255,2022-01-05 20:55:14+00:00,1478832483567345664,sifchain,"@WojciechMaecki2 @aanggggggggggg So far most of the rewards are being compounded or held, not sold.  We may update the rewards distribution program so that addresses that hold or compound earn more rewards than addresses that sell",3,1,0,2022-01-05
+1257,2022-01-06 22:52:43+00:00,1479224440340758533,sifchain,@matom_sky Her name is Sif :),3,0,0,2022-01-06
+1261,2022-01-07 00:15:17+00:00,1479245218134253569,sifchain,"EVM-Cosmos via IBC https://t.co/mgbNR032kN but for Hyperledger.  Needs rework for Ethereum to consider gas and compute constraints (if doable at all)
+
+Might do Ethereum-Polkadot-Cosmos with https://t.co/VQ0chZqFVl.  It uses light clients so similar security guarantees to IBC https://t.co/fIusQx8m2q",46,0,5,2022-01-07
+1263,2022-01-08 19:16:57+00:00,1479894915794546692,sifchain,"@AbraTusz @bluekirbyfi Thanks @AbraTusz! But @bluekirbyfi can actually do this in fewer steps:
+1) Import ETH into Sifchain using the 'Import' button next to ETH on the DEX (https://t.co/zoRyw9ypQt)
+2) Swap ETH to OSMO within the Sifchain DEX. 
+
+Done. You now have successfully swapped your ETH for OSMO. https://t.co/ylW8BVNsty",5,3,1,2022-01-08
+1265,2022-01-09 18:48:59+00:00,1480250263466389519,sifchain,@defitimes @cosmos Let's do it 🙌,37,0,0,2022-01-09
+1269,2022-01-10 02:15:45+00:00,1480362696264589314,sifchain,@dagrawal7 Claims finished about a year ago but we hope you engage with Sifchain in other ways,0,0,0,2022-01-10
+1272,2022-01-11 00:47:03+00:00,1480702764875460609,sifchain,Bridge between @BinanceChain and Sifchain (and thus all of Cosmos Network) coming with Peggy 2’s Omni-EVM.  Check here for the latest https://t.co/AXUc4B9cPT https://t.co/MIir6sF1M1,129,7,23,2022-01-11
+1275,2022-01-12 22:57:02+00:00,1481399853146116099,sifchain,"@spontango You mean liquidity mining rewards?  Yes, there are liquidity mining rewards for every ERC20 pool on Sifchain (really, all pools)",5,1,0,2022-01-12
+1280,2022-01-13 22:25:45+00:00,1481754366835101698,sifchain,@pristineindigo7 By using the Sifchain DEX :). Join our Discord and ask for any help needed!,1,0,0,2022-01-13
+1281,2022-01-14 16:53:00+00:00,1482033014628626439,sifchain,"Reminder: Tuesday 1/18, the new 'Pools of the People' will go into effect! This means:
+
+🚀 $USDC 300% APR 
+🚀 $ZCX 300% APR
+🚀 $LGCY 300% APR
+🚀 $JUNO 300% APR
+🚀 $LUNA 300% APR
+🚀 $ATOM 300% APR
+
+ALL other pools 100% APR",296,23,65,2022-01-14
+1284,2022-01-15 02:35:29+00:00,1482179603988983818,sifchain,@irisnetwork_PH 100%!,1,0,0,2022-01-15
+1285,2022-01-17 20:38:12+00:00,1483176851719827465,sifchain,"3/ Also, from here on out, there will be no need to manually claim your rewards anymore! Your rewards will be auto-claimed every week, and will be done so to maximize the reward amount that you will receive for that week.",111,11,9,2022-01-17
+1291,2022-01-18 22:22:22+00:00,1483565454870421505,sifchain,"✅ ERC20 tokens in the Cosmos Ecosystem
+🚀 300%+ APR on:
+     -$USDC
+     -$ETH 
+     -$LGCY 
+     -$ZCX  
+     -$ATOM 
+     -$LUNA 
+     -$JUNO
+📣 Swap across any asset for pennies in tx fees
+
+Welcome to https://t.co/zoRyw9ypQt. https://t.co/qjWbqJiokm",152,11,44,2022-01-18
+1294,2022-01-19 17:29:37+00:00,1483854168477646848,sifchain,@jackshaftoes @cosmos ahem. ✋,51,3,3,2022-01-19
+1298,2022-01-20 15:55:27+00:00,1484192861621047298,sifchain,"Want to see just how easy it is to take part in Sif's Expansion? Check out this video one of our community members made:
+
+https://t.co/yn4xuZN9iO",78,5,21,2022-01-20
+1300,2022-01-25 23:21:32+00:00,1486117060212146178,sifchain,@rhysmonkey Nope!,0,0,0,2022-01-25
+1314,2022-01-26 23:03:40+00:00,1486474950651297805,sifchain,"Want yet another video on just how easy it is to use Sifchain and earn rewards for doing so? 
+
+https://t.co/bIRrqUgFic",43,1,8,2022-01-26
+1320,2022-01-27 05:07:19+00:00,1486566465608335362,sifchain,"@EthosVentures @BIGJOHN99992 @cck689461 @seb3point0 This will be enabled with Sifchain's Magnolia update, the first relevant Osmosis governance proposal is here https://t.co/aYv4xh3kOY",8,2,0,2022-01-27
+1337,2022-01-28 22:28:38+00:00,1487190912568643585,sifchain,"FTR, Sifchain will support ERC-20s imported through @EvmosOrg via @nomadxyz_ and @ConnextNetwork, or other Cosmos - ETH bridges like @gravity_bridge subject to SifDAO governance  
+
+When we say omni-chain, we mean omni-chain https://t.co/9Y1oTsn76M",125,7,18,2022-01-28
+1354,2022-01-29 16:56:59+00:00,1487469837844631552,sifchain,"Magnolia Release updated to launch Feb 1st. There was a request from our validators for additional time to prepare.
+
+As a reminder:
+🔨 Terra Fixes
+📈  Ability to export ANY ERC20 and ROWAN to other cosmos-based chains
+💰 Ability to distribute rewards in multiple tokens",94,2,15,2022-01-29
+1362,2022-01-31 23:23:33+00:00,1488291893737922561,sifchain,"🚨 The Magnolia Release 🚨
+
+- Which tokens do you want to move from Sifchain via IBC? $USDC into @junoswapdex? $ETH into @osmosiszone? $FRAX into @emerisHQ? 
+
+- Which tokens do you want as rewards for LPing? $LGCY? $ZCX? $RNDR? $AKT?
+
+Comment and tag the relevant projects",123,26,22,2022-01-31
+1371,2022-02-01 20:03:29+00:00,1488603935468396546,sifchain,@tommybullish The reward distribution was still running during the time you posted this. It is not complete!,0,1,0,2022-02-01
+1375,2022-02-02 23:07:56+00:00,1489012741104979971,sifchain,"🚨 Pools of the People - Bonus Coin Vote 🚨
+
+- $USDC won the stable-coin vote and will continue to get 300% APR 
+- $ETH and $ATOM are 300% APR as well
+- Vote for the 2 other pools that will get 300%!
+
+See discord for more details!
+https://t.co/fPiYd6GUcj",70,3,11,2022-02-02
+1377,2022-02-03 16:52:31+00:00,1489280653162131457,sifchain,"ROWAN:OSMO Pool on Osmosis 
+
+- 10M ROWAN in incentives over 4 weeks
+- Proposal open for matched $OSMO incentives: https://t.co/Fyr83TRXoG (vote yes!)
+- Launch date: Imminent
+
+Stay tuned.",180,8,31,2022-02-03
+1380,2022-02-05 21:55:22+00:00,1490081643813609472,sifchain,@cryptotosis @osmosiszone @cosmos Rewards should kick in this week 🙌,2,1,0,2022-02-05
+1382,2022-02-06 20:31:22+00:00,1490422888993894404,sifchain,"Proposal for $OSMO incentives on the ROWAN:OSMO pool (https://t.co/moRYrkI9HL) has passed! 
+
+Meaning:
+- $ROWAN rewards will kick in  Wed, Feb 9th. This will give the pool around ~800% APR
+- Triple rewards of ROWAN, OSMO, and rewards from swap activity starts on Friday, Feb 11th",217,15,46,2022-02-06
+1385,2022-02-07 08:08:31+00:00,1490598334486261760,sifchain,"@cosmos @cosmoshub @nomadxyz_ @ConnextNetwork @LayerZero_Labs @axelarcore @gravity_bridge @wormholecrypto That would imply $GRAV token not competing with $ATOM for revenue from Cosmos &lt;&gt; Ethereum traffic, so then what exactly would it be monetizing?  If the Gravity Bridge team is not monetizing $GRAV then how would it compete with Peggy, Axelar, Wormhole, Optics, Multichain, etc.",22,1,0,2022-02-07
+1420,2022-02-08 22:09:55+00:00,1491172465321873408,sifchain,"We completed an MVP of margin via CLI. It has also been working on a front end for the MVP which is nearly complete. It does not include logic for deep margin, oracle pricing, or reputation.
+
+The team is excited to share documentation on the full deep margin feature soon",13,1,1,2022-02-08
+1435,2022-02-09 00:04:37+00:00,1491201332493139970,sifchain,"@BlurCrypto @Meta_Guide @nosleepjon @BlurCrypto glad to have you onboard 🙌
+
+@nosleepjon looks like the right time to join 😉
+
+@Meta_Guide - we love collaborating! And we believe our tech is actually very, very impressive.  
+
+We invite you all to our discord (our community is amazing and VERY passionate)",2,1,0,2022-02-09
+1444,2022-02-10 23:45:43+00:00,1491921350864388109,sifchain,"✅ Move ERC20 &lt;-&gt; Cosmos
+✅ 7 pools with &gt;300% APR 
+✅ Swap ERC20s for pennies
+✅ &gt; 115% APR for staking
+✅ Extremely passionate community
+
+Join Sifchain today: https://t.co/fPiYd6GUcj https://t.co/chxLXSv5BW",166,10,35,2022-02-10
+1450,2022-02-11 01:04:26+00:00,1491941163124858882,sifchain,@GyratingH @johnniecosmos Yes you can https://t.co/gctnJ6Ea0d,1,2,0,2022-02-11
+1456,2022-02-15 21:11:58+00:00,1493694598652342275,sifchain,"@WolfmanKnows @HectorGarciaVer @wolfcontract @osmosiszone @junoswapdex Welcome!
+
+Oh. And a brand upgrade is coming :)",9,1,1,2022-02-15
+1465,2022-02-16 01:18:33+00:00,1493756653195255809,sifchain,@Ahab87304506 @Crovax4 Love it!! :),2,0,0,2022-02-16
+1466,2022-02-17 19:59:07+00:00,1494401040124465154,sifchain,@andy31259 @sif__moon @RichardHeartWin Can you submit a proposal for this in the new coin listing&gt;submission section? This is the official submission that goes to the Token Listing Council,2,1,1,2022-02-17
+1467,2022-02-18 15:14:12+00:00,1494691727860551698,sifchain,@lanwarne If you suggest a token to SifDAO’s Token Council on our Discord they can take a look,1,1,0,2022-02-18
+1471,2022-02-19 20:21:56+00:00,1495131558520528907,sifchain,"🚀 Sifchain x FRAX 🚀 
+
+We would like to officially welcome the @fraxfinance community to Sifchain! With them comes $2M of FRAX funding to the ROWAN:FRAX pool. 
+
+We are excited to bring two passionate communities together!
+
+Onwards &amp; Upwards https://t.co/In85PjxKt8",193,10,31,2022-02-19
+1474,2022-02-20 17:31:47+00:00,1495451126451380235,sifchain,@JoveCosmos Send an application for it to SifDAO’s token council on our discord!,10,0,0,2022-02-20
+1475,2022-02-21 18:04:49+00:00,1495821828929032193,sifchain,@416Sabir @ThePodocasts Come check us out 🙌,3,1,1,2022-02-21
+1476,2022-02-23 16:12:25+00:00,1496518317439336459,sifchain,@tendermintHQ @cosmos Very awesome! Keep up the great work 🚀,21,0,0,2022-02-23
+1484,2022-02-25 02:29:37+00:00,1497036028200329217,sifchain,@CosmoJeda Do you recommend any good alternative tag managers?,3,1,0,2022-02-25
+1487,2022-02-26 22:53:42+00:00,1497706467788480519,sifchain,@isaacarnault 🚀🚀🚀,17,0,1,2022-02-26
+1488,2022-02-27 22:39:12+00:00,1498065208148959239,sifchain,@mathscaper @osmosiszone No current plans on Sifchain’s side although it may still get OSMO rewards based on their incentive structure,2,0,0,2022-02-27
+1493,2022-02-28 18:04:05+00:00,1498358358092439558,sifchain,@dillon_lau @PilbaraWandy @Uniswap Come to the sifchain DEX and swap for ROWAN (it'll cost you pennies to do so :) ),2,1,0,2022-02-28
+1497,2022-03-01 16:32:42+00:00,1498697748601835530,sifchain,@frances74710375 @LGCYNetwork Welcome! Be sure to join our discord as well :),4,0,0,2022-03-01
+1500,2022-03-02 19:56:44+00:00,1499111481744449539,sifchain,"5/ But first, let’s talk about interoperability:
+
+When Peggy 2.0 launches, continuing Sifchain’s interoperability plans, any interested EVM chain can quickly deploy a bridge to Sifchain, tapping into Sifchain liquidity.
+
+📚: https://t.co/4IIzSxMd24",17,1,2,2022-03-02
+1516,2022-03-03 12:17:48+00:00,1499358376958230536,sifchain,"@The5thForce0_0 @akkumare @osmosiszone @junoswapdex @nomicbtc That's upsetting to hear :/. We have made a lot of changes and improvements since we first launched. Maybe you can come try it out again, join our community, and let us know what you think :)",2,2,0,2022-03-03
+1518,2022-03-04 06:53:35+00:00,1499639171379449858,sifchain,@THORmaximalist What alternative do you suggest?,2,0,0,2022-03-04
+1519,2022-03-05 16:01:31+00:00,1500139454270296066,sifchain,@yunus_ozyolcu @Dinahdinah334 @johnniecosmos https://t.co/qq3AQd5u0G,6,1,0,2022-03-05
+1523,2022-03-06 20:42:32+00:00,1500572559959416833,sifchain,"@cosmos1mac SifDAO will decide later, not sure atm but such high rewards won’t be needed because monetary policy for Sifchain will be driven more by PMTP, reducing the need for inflation for either staking rewards or liquidity mining rewards",3,0,0,2022-03-06
+1524,2022-03-07 15:54:26+00:00,1500862446927503361,sifchain,Vote yes on https://t.co/pvEMJCw09l to help bring @hummingbot_io to Sifchain!,62,4,9,2022-03-07
+1527,2022-03-08 20:03:57+00:00,1501287628653481987,sifchain,"🪶0/ Proposal: Fund development of a @hummingbot_io connector for Sifchain!
+
+Checkout the first of many SifDAO proposals: https://t.co/ha27VkL6sW",47,1,6,2022-03-08
+1539,2022-03-09 00:25:19+00:00,1501353403523420164,sifchain,"⚗️ Sifchain will be on @osmosiszone 'Updates from the Lab' tomorrow @ 10:00am PST
+
+🎧 Tune in to find out about Peggy 2 &amp; our stance on the Bridge Bake off
+
+🧪 We’re looking forward to chatting with the Osmosis community and exchanging ideas
+
+Our Proposal: https://t.co/VVV1Wz5XgZ",104,9,20,2022-03-09
+1544,2022-03-10 00:13:33+00:00,1501712830680027139,sifchain,@CryptoLoughton @johnniecosmos Not sure yet but it will definitely be more aligned with LM rewards,2,1,0,2022-03-10
+1546,2022-03-11 16:19:51+00:00,1502318394166718470,sifchain,@coinbureau Ahem. :) 👋,66,3,3,2022-03-11
+1549,2022-03-12 19:52:37+00:00,1502734328035430403,sifchain,@Secretmansam @ChihuahuaChain 👋,22,1,0,2022-03-12
+1553,2022-03-13 04:47:25+00:00,1502868912379203584,sifchain,@_emvan_ @cosmos @starname_me https://t.co/BpWkGigUdQ,3,0,0,2022-03-13
+1555,2022-03-14 20:58:56+00:00,1503475793116160010,sifchain,@Quiet2listen @peter_majercik Staking APR is freely floating and is whatever is listed on Keplr,1,1,0,2022-03-14
+1575,2022-03-15 04:57:05+00:00,1503596121079357441,sifchain,@peter_majercik Fixed in UI,1,0,0,2022-03-15
+1578,2022-03-16 20:26:09+00:00,1504192317615480839,sifchain,@coinbureau We would love to set up some time to chat and answer any questions you may have on Sifchain (or to simply introduce you to what we are up to). Feel free to DM and we can do some knowledge share 👍,86,3,2,2022-03-16
+1583,2022-03-17 18:41:40+00:00,1504528411380830216,sifchain,"@link_vector @chjango @cosmos Not exactly, EVMOS lets you run EVM applications whereas Sifchain’s Peggy lets you transfer tokens from EVM chains to Cosmos",6,1,1,2022-03-17
+1586,2022-03-18 17:59:52+00:00,1504880277528715267,sifchain,https://t.co/6n3eW1fjm4 https://t.co/1Pd40Rw5W6,38,0,7,2022-03-18
+1587,2022-03-19 23:23:02+00:00,1505323994572013569,sifchain,@the_carlosdp @hicommonwealth Both are needed,0,0,0,2022-03-19
+1588,2022-03-20 13:01:22+00:00,1505529936857153543,sifchain,Get your #ROWAN #SIF #Sifchain from @starname_me NOW. #CosmosEcosystem is growing! https://t.co/TdwBvl727k,92,5,22,2022-03-20
+1590,2022-03-21 20:41:14+00:00,1506008051689603072,sifchain,"@HDGVII @ConeyDaddy We got a new one coming out with all the details on margin and PMTP, he should wait for that",2,0,0,2022-03-21
+1595,2022-03-22 19:47:01+00:00,1506356797556285444,sifchain,@PLAYBOYP223 After Peggy 2 connects to Avalanche!,2,0,0,2022-03-22
+1597,2022-03-23 14:19:54+00:00,1506636862412230666,sifchain,Block Time with Sifchain: https://t.co/05hDt938Ow @emoney_com edition kicking off later today right here on twitter spaces. #rowan #eeur #ngm #atom #cosmos #CosmosEcosystem,66,1,12,2022-03-23
+1599,2022-03-24 19:23:55+00:00,1507075757197172739,sifchain,@MichaelTea1129 Should be between 1-2 ROWAN at the moment.,2,1,0,2022-03-24
+1600,2022-03-25 13:44:03+00:00,1507352615012777984,sifchain,#avalanchesummit2022 #rowan #avax #Cosmos #atom https://t.co/x65BjkGVUh,101,1,15,2022-03-25
+1601,2022-03-26 18:19:59+00:00,1507784445394313218,sifchain,This bug may also affect @brave which runs on Chromium.  Track https://t.co/j7jhw1JLWW or other official sources for updates https://t.co/j3BA0PlHDY,49,2,12,2022-03-26
+1602,2022-03-28 19:36:55+00:00,1508528581395296263,sifchain,@Cryptocito @F_ckTw1tter Let's setup a chat and we can talk live about this 👍,72,6,5,2022-03-28
+1603,2022-03-29 01:09:22+00:00,1508612242912296960,sifchain,"We have a new landing page! https://t.co/VRwxbx2hyX is a users jumping off point to all things Sifchain (including entering the DEX). The 'enter the dex' button will now take users to https://t.co/jWSJ6c75ep.
+
+This landing page will be updated some more in the coming week!",222,19,43,2022-03-29
+1610,2022-03-30 18:15:25+00:00,1509232845239291911,sifchain,"Coming up in less than an hour here on twitter spaces, we are going to be talking trading on #Cosmos with @_AscendEX #CosmosEcosystem #Ascendex #cryptotrading",93,2,14,2022-03-30
+1613,2022-03-31 18:37:09+00:00,1509600702577922053,sifchain,We’ve got @unizen_io coming on Block Time in less than 90 minutes to talk #Staking #ETH and obviously the #CosmosEcosystem. Maybe even #OmniEVM #ZCX #ROWAN #ATOM,82,3,14,2022-03-31
+1615,2022-04-01 02:26:20+00:00,1509718778879258662,sifchain,https://t.co/IAowutf1Xy,101,2,16,2022-04-01
+1619,2022-04-03 00:08:46+00:00,1510408931989938177,sifchain,"Set a reminder for my upcoming Space! 
+
+This week we have @secret_swap joining us on #Blocktime to talk #Privacy #DeFi and more #ATOM #ROWAN #SEFI #SCRT #CosmosEcosystem 
+
+https://t.co/K725ujwjI6",71,7,15,2022-04-03
+1623,2022-04-04 22:07:35+00:00,1511103213533081602,sifchain,"#Blocktime this week is with Hydro Finance (@DRO_DAO) which is evolving from Secret Swap @secret_swap - want to find out more, then tune in on April 6th 5PM UTC #scrt #rowan #atom #sefi #CosmosEcosystem #SecretNetwork https://t.co/cpbOUtVbkw",158,12,34,2022-04-04
+1624,2022-04-06 10:45:40+00:00,1511656378871472130,sifchain,"Who’s excited about this #Blocktime with @DRO_DAO / @secret_swap ? Looking forward to speaking with Ethan &amp; Eric 5PM UTC TODAY! #scrt #rowan #sefi #atom #CosmosEcosystem 
+
+https://t.co/K725ujwjI6",77,2,18,2022-04-06
+1628,2022-04-07 15:57:07+00:00,1512097145062580233,sifchain,"Going live with @DRO_DAO in 5 mins
+
+#dro #rowan #atom #scrt
+
+https://t.co/EPK7iln7lS",43,1,7,2022-04-07
+1631,2022-04-10 09:38:17+00:00,1513088973677252611,sifchain,"This week we have @quicksilverzone
+joining us to talk about #StakingRewards, #CosmosEcosystem and more!
+
+ https://t.co/sMJjBN2gwn",60,1,9,2022-04-10
+1634,2022-04-11 00:24:43+00:00,1513312052017868800,sifchain,@cosmos1mac Post this in our discord and tag nomad sif. She will point you in right direction.,2,1,0,2022-04-11
+1639,2022-04-12 02:43:50+00:00,1513709447570358275,sifchain,"@0xPaladin @gadikian A 7 day bonding period is coming, as is auto compounding!  More details will come in our documentation and new blog posts!",26,1,4,2022-04-12
+1641,2022-04-13 10:29:20+00:00,1514188982925631491,sifchain,Excited to have @quicksilverzone joining us today on #blocktime talking about liquid staking across all the #mapofzones,123,3,17,2022-04-13
+1644,2022-04-14 22:34:37+00:00,1514733894305820677,sifchain,Congrats to the @MetisDAO team! Looking forward to our additional upcoming collaborations. https://t.co/LHxXfT4yjF,89,2,15,2022-04-14
+1646,2022-04-17 16:09:04+00:00,1515724033022517249,sifchain,https://t.co/q1ze5rFCy0,218,8,24,2022-04-17
+1647,2022-04-18 23:57:19+00:00,1516204256478568461,sifchain,"This week on Block Time is with @AlterDapp founder talking privacy, #SCRT network, infrastructure and more! #ATOM #SCRT #ROWAN #ALTER #DRO
+
+ https://t.co/CIfW4wQRqe",39,0,5,2022-04-18
+1648,2022-04-19 23:06:08+00:00,1516553764701880328,sifchain,"12/ PMTP just went live. 
+
+The first couple of weeks after launch will be a time of experimenting and exploring how this system works LIVE. 
+
+Pardon our construction dust as we launch a new innovation that nobody’s ever done before in crypto ;)",118,6,13,2022-04-19
+1663,2022-04-20 23:34:17+00:00,1516923239112527873,sifchain,Tune in to #blocktime with @RangoExchange to talk exchanges bridges #crosschain trading and more! #rango #rowan #terra #cosmos #fomo you don’t iguana miss this one 🐸 https://t.co/jUPnWQdEkJ,81,1,13,2022-04-20
+1670,2022-04-21 01:39:17+00:00,1516954693859119104,sifchain,"@iposign try these links https://t.co/u1cIH2TwWh
+https://t.co/ZRevLaQMWQ
+https://t.co/9Odmp0uyGb",7,0,0,2022-04-21
+1674,2022-04-22 10:42:36+00:00,1517453813522731008,sifchain,"@sunnya97 For better or worse, validators are building and monetizing off-chain reputations.  Unless chains take the @THORChain route, the market will need to accept validators continuing this trend, leading to a hybridization of Proof of Stake and Proof of Authority in @cosmos",93,0,15,2022-04-22
+1677,2022-04-24 02:24:50+00:00,1518053322061541384,sifchain,"@Cryptogripped We will eventually do an innovative drop for Sif NFTs!  Right now, we're focused on Sifchain's core features",79,6,10,2022-04-24
+1679,2022-04-25 00:56:34+00:00,1518393494531833856,sifchain,"@rafaelfiori @JazearBrooks The next step is for this proposal to pass https://t.co/G6co2ESFVN
+
+We'll announce more updates then!",5,0,1,2022-04-25
+1687,2022-04-26 20:44:16+00:00,1519054779246329856,sifchain,"Earn $ROWAN with our Content Creation Bounties! Anyone can participate and earn for doing so.
+
+📣 PMTP Content Contest: https://t.co/p2Wk35J4G0
+🎥 YouTube Contest on Fiat To Rowan: https://t.co/5M6O4XnOxh
+🧞Animated video about PMTP: https://t.co/78pV8JNIB1",91,4,23,2022-04-26
+1691,2022-04-27 15:30:00+00:00,1519338078845894656,sifchain,"The future of DeFi + the future of work. 
+
+We’re excited to share that we’re partnering with @usebraintrust to post Web3 work opportunities on their platform and help freelancers find interesting projects and ways to contribute: https://t.co/9uJUvsktkm https://t.co/Xu6AmQmDze",197,11,47,2022-04-27
+1693,2022-04-28 20:49:03+00:00,1519780758696513536,sifchain,Should $ROWAN be the governance token for SifDEX and Sif's NFTs? 🤔 https://t.co/xmqbHSB29e,336,60,51,2022-04-28
+1694,2022-04-29 18:24:45+00:00,1520106829480480768,sifchain,We have a new proposal to address Ledger support! https://t.co/Jue4phKGCx https://t.co/uk6lLRvaVK,83,4,17,2022-04-29
+1698,2022-05-01 16:04:27+00:00,1520796299263569921,sifchain,https://t.co/09vzTjzW5a,243,17,67,2022-05-01
+1699,2022-05-04 08:36:54+00:00,1521770832393121793,sifchain,"Tune in for #Blocktime today with Crescent Network to be talking #Dex #TVL #Staking and more! #CosmosEcosystem #atom #rowan #cre #bcre 
+
+ https://t.co/cbpjotrRwF",115,4,22,2022-05-04
+1702,2022-05-05 02:15:42+00:00,1522037289257365504,sifchain,"@cosmos1mac When we update to CosmosSDK v.45 or higher, stay tuned!",30,0,5,2022-05-05
+1703,2022-05-06 16:40:00+00:00,1522617187189460992,sifchain,"@LUNAticHodler @jaekwon Sifchain will provide 
+@jaekwon 
+ a snapshot of the $ATOM holdings on the chain so that Sifchain LPs can receive the $GNOT airdrop",324,28,58,2022-05-06
+1704,2022-05-08 21:23:24+00:00,1523413279292370944,sifchain,"@KheYoucefkhe9 @CryptoDefiLord @WisdomMatic @theNFTjosh @feyi_x @0xxghost @Ademiici Strange, is that what https://t.co/obzuuuA5Ww is showing for your address?",1,0,0,2022-05-08
+1705,2022-05-09 16:09:23+00:00,1523696645124370432,sifchain,"@larry0x Check out the medium article we wrote about how we had to handle a similar situation: https://t.co/IAowusXr60 
+
+Also, please feel free to reach out directly if you need any assistance in this.",25,1,4,2022-05-09
+1707,2022-05-11 22:24:56+00:00,1524515931950571521,sifchain,"Tough markets can build strength in a project and a community. Laser focused on the vision. 
+
+Heads down, keep building.",375,28,57,2022-05-11
+1708,2022-05-12 23:40:14+00:00,1524897269065175041,sifchain,"Vote now to strengthen the partnership between $FRAX &amp; Sifchain: https://t.co/rzSkv3XbHd 
+
+@fraxfinance @ConvexFinance",127,7,15,2022-05-12
+1712,2022-05-14 21:44:38+00:00,1525592952558432256,sifchain,@lavasanination @getdelta They should reach out on our Discord!,15,1,0,2022-05-14
+1713,2022-05-15 06:01:33+00:00,1525718006671716352,sifchain,@DiamondHands_X @Tendermint_Core @cosmos We have bounty programs at ImmuneFi and HackerOne,31,1,0,2022-05-15
+1715,2022-05-17 22:46:32+00:00,1526695694534328320,sifchain,"Join us at @DcentralCon and tune in to @JazearBrooks speak on Smart Markets in DeFi. 
+
+Purchase tickets using our promo code (SIFCHAIN22) for 30% off!
+https://t.co/gABIx5F9x9 https://t.co/ch2MshBcB4",100,3,17,2022-05-17
+1716,2022-05-19 02:58:30+00:00,1527121488318431232,sifchain,"Launched on Sifchain DEX: $SCRT/ROWAN pool with projected ~200% APY!
+
+We're excited to be welcoming @scrt_foundation to the Sifchain DEX 🛸
+
+✅ $SCRT Import via IBC: https://t.co/jgYjq7WdBe
+
+✅ $SCRT-ROWAN pool: https://t.co/4d74o6719p https://t.co/TR0WfItMQW",429,91,182,2022-05-19
+1717,2022-05-20 12:01:33+00:00,1527620542018342916,sifchain,"Block Time with Secret Labs!!
+
+Super excited to have @scrt_labs on Block Time next week. We will be talking #scrt #CosmosEcosystem #rowan and whats coming next. #anons 
+
+https://t.co/QfxunrNvy7",59,1,11,2022-05-20
+1720,2022-05-21 03:46:34+00:00,1527858363543212032,sifchain,"@LukeGlanton15 @MarcinMikus @AbraTusz @JazearBrooks Sorry to hear that Luke, it's been a serious topic of discussion and there are a couple of solves SifDAO is considering now on Discord.  We expect to pick a next step soon to address these issues",0,1,0,2022-05-21
+1724,2022-05-23 19:48:28+00:00,1528825210199232515,sifchain,"We have reached out to @_gnoland in DM about providing the necessary snapshot data for Sifchain $ATOM LPs to be included in the $GNOT airdrop. 
+
+Snapshot data is ready to be shared with the team. Just waiting on response on how to share the file. cc @jaekwon",199,17,25,2022-05-23
+1725,2022-05-24 23:29:15+00:00,1529243158575337473,sifchain,"@HushPup2 Check out https://t.co/54E9mHlWN8
+
+As for why they're falling, it's because more capital is being staked!",4,2,1,2022-05-24
+1726,2022-05-25 23:33:53+00:00,1529606713933897729,sifchain,"@HushPup2 There may have been one or more major staking adds recently, someone pointed one out in our Discord.  The staking rewards percentages are all based on Rowan (not USD) so the price of Rowan shouldn't matter",1,0,0,2022-05-25
+1727,2022-05-30 10:00:37+00:00,1531213986254843905,sifchain,"@tommybullish Hey there! You can read more information about how Sifchain users qualified for the airdrop on Medium: https://t.co/TzCnVnoCJa . For any questions about airdrop administration or your specific situation, please reach out to the Terra team. 🙏",1,0,0,2022-05-30
+1730,2022-05-31 21:46:33+00:00,1531754029058887681,sifchain,@Cryptocito Thanks for having us!,24,1,1,2022-05-31
+1752,2022-06-01 08:10:45+00:00,1531911113549438976,sifchain,Our biz team knows it... https://t.co/YAV7DjL5OK,84,8,10,2022-06-01
+1754,2022-06-02 14:35:00+00:00,1532370199508226048,sifchain,"Did you know SifDAO is hands-on with Sifchain’s development?
+
+They make important decisions like new token listings, validator delegations, &amp; more.
+
+All $ROWAN holders on Sifchain can vote in the DAO.
+
+🗳️ Vote Now: https://t.co/iL1Kv9dUIJ",87,8,14,2022-06-02
+1756,2022-06-03 04:01:17+00:00,1532573106900189184,sifchain,We'll be there. Who's going? Let us know in the comments. https://t.co/NpsWYStdge,65,6,5,2022-06-03
+1758,2022-06-04 12:45:03+00:00,1533067306129031168,sifchain,"True Facts: The #Sifchain Discord is a great place to be. From bots to freestyle rap battles, we have it all. Here's a list of fun things you can do in our Discord.
+
+👇🧵",86,10,7,2022-06-04
+1762,2022-06-06 03:11:24+00:00,1533647717846913024,sifchain,Join us tomorrow at @DcentralCon! Core Contributor @JazearBrooks will be speaking. Drop us a comment if you'll be there. https://t.co/qZD6wF1Exc,72,7,9,2022-06-06
+1765,2022-06-07 00:38:00+00:00,1533971500776050689,sifchain,"Join our DAO Facilitator @AbraTusz on a Live Reddit AMA all things Peggy 2.0 and Margin. 
+
+Learn what these upcoming milestones mean for $ROWAN holders as #Sifchain expands its Omnichain DEX with decentralized governance.
+
+👉https://t.co/OETxlX3TEo",66,14,13,2022-06-07
+1766,2022-06-08 01:17:06+00:00,1534343730341240833,sifchain,"Pool balances were reset to 50:50 after Proposal 78 was passed in governance. Check out the results so far🔥
+
+Proposal 78: https://t.co/wJTsns4zJh https://t.co/gtxbn87w5c",115,11,20,2022-06-08
+1768,2022-06-09 01:54:26+00:00,1534715512974102528,sifchain,"We're on the front page of https://t.co/WxDzsiz5uS!
+
+We're featured in an article called, ""How Sifchain Advances the DeFi Space With Omni-chain Solutions"".
+
+Read it now:
+https://t.co/XSR0t3lkJk",142,10,33,2022-06-09
+1770,2022-06-10 06:37:21+00:00,1535149099170746368,sifchain,"Yup. #sifchain
+Thanks for the Tweet @bitcoinist 🔥 https://t.co/IZrO2a5qCL",62,4,10,2022-06-10
+1772,2022-06-11 07:54:00+00:00,1535530778062311425,sifchain,"Hey @cosmos community members and DeFi friends, come visit us at @consensus2022! 
+
+(We hid those guys' faces out of respect for their privacy.) https://t.co/tUI4nbIzVJ",191,9,30,2022-06-11
+1774,2022-06-13 21:28:58+00:00,1536460645851340801,sifchain,"Launched on Sifchain DEX: $COMDEX/ROWAN pool!
+
+$COMDEX is a DeFi infrastructure layer for @cosmos. Welcome to the DEX, @ComdexOfficial!
+
+✅ $COMDEX import via IBC: https://t.co/mI7YhLiCMt
+✅ $COMDEX-ROWAN Pool: https://t.co/pt0rLWaVoH",99,8,15,2022-06-13
+1775,2022-06-14 00:30:00+00:00,1536506203731369984,sifchain,"NEW on Sifchain DEX: $OSQTH/$ROWAN pool! 
+
+Opyn $OSQTH is building DeFi-native derivatives and options. We are excited to be their first listing partner in the Cosmos ecosystem.
+
+✅ $OSQTH Import via peggy: https://t.co/0mkUrGuFBc
+✅ $OSQTH-$ROWAN Pool: https://t.co/TWLuN0nqzN",64,9,10,2022-06-14
+1777,2022-06-15 18:10:00+00:00,1537135348249157636,sifchain,"🌟 NEW CLI Walkthrough for Devs 🌟
+
+Our Dev team is back with a handy video to show #developers how to set up the Sifnode CLI.
+
+We’re opening applications soon to #BUIDL with us. Have an idea for what you’d want to build? Send us a DM. 
+
+Watch: https://t.co/WL4ni41wfC",63,8,13,2022-06-15
+1778,2022-06-16 05:13:42+00:00,1537302374502772736,sifchain,"NEW Medium article live now. Check out what we've been up to in the first two weeks of June:
+
+🌟 Engineering updates to support the developer community 
+🌟 UI/UX work in progress
+🌟 Margin &amp; Omni-EVM updates
+🌟 Conference Recaps
+
+Read: https://t.co/J1T0hXGg9u",110,15,30,2022-06-16
+1780,2022-06-17 12:00:00+00:00,1537767010855096320,sifchain,"📢  Sifchain is featured on @hackernoon!  📢 
+
+Sifchain is the @cosmos project showcased in the  on Tendermint and the Cosmos IBC.
+The article is called, ""How @tendermintHQ , Cosmos, and Sifchain Form the Next Generation of Blockchains"".  🌟  ⚛️
+
+READ: https://t.co/63DZtIE3xH https://t.co/lEu1jaXotD",68,3,14,2022-06-17
+1786,2022-06-18 00:33:00+00:00,1537956508876607488,sifchain,"Sifchain has vibrant global communities. 
+
+Did you know there are 7,800 community members in the #SifchainChinese TG Group?
+
+🎉 欢迎加入Sifchain希芙链中文社区: 首个全链式 (Omni-chain) 去中心化交易所 (DEX) 有效提升 DeFi 领域各条孤链上资产的流动性
+
+https://t.co/0fw16xZqAb https://t.co/9VfHdBAxLo",79,6,11,2022-06-18
+1787,2022-06-20 03:42:54+00:00,1538729075531194369,sifchain,👀 https://t.co/GIMoQQbZ9E,54,1,3,2022-06-20
+1790,2022-06-21 21:13:15+00:00,1539355793790750721,sifchain,"Bonus rewards have started for $wBTC/$ROWAN pool on the Sifchain DEX! 
+
+The DAO voted to give extra incentives to this pool as part of its “Pools of the People” initiative.
+
+Start pooling today at https://t.co/RArZYbVZmk https://t.co/SzFi6K9akm",87,6,13,2022-06-21
+1791,2022-06-22 17:29:00+00:00,1539661745165201408,sifchain,"The #SifchainWorld exploration continues with our community from #Vietnam! 
+
+Cộng đồng Sifchain Việt Nam vui mừng chào đón các nhà đầu tư tham gia thảo luận tại nhóm Sifchain Vietnam.
+
+🌟 https://t.co/bUFjtFJrea 🌟 https://t.co/10WeutEjfe",97,7,15,2022-06-22
+1792,2022-06-24 16:32:14+00:00,1540372235957010440,sifchain,"@2ndBatman That is coming soon! With Peggy 2.0 (or Omni-EVM), we will be connected to your mentioned chains and more. Basically connections to ANY EVM-compatible chain",18,0,2,2022-06-24
+1795,2022-06-27 03:56:33+00:00,1541269225452347393,sifchain,Thanks for the support 🚀 We're here and building! https://t.co/eyeq1CxiOJ,143,0,32,2022-06-27
+1796,2022-06-28 01:12:12+00:00,1541590255328931840,sifchain,SifDAO Town Hall was epic.  The recording is uploaded to YouTube. You can watch it here: https://t.co/ZF9T4BNNls https://t.co/HMC6W2MJui,47,3,12,2022-06-28
+1798,2022-06-29 16:03:29+00:00,1542176939770843139,sifchain,@CosmoJeda @cosmos We have 4 independent audits on the Peggy 2.0 code,48,3,9,2022-06-29
+1800,2022-07-01 02:29:05+00:00,1542696764313985024,sifchain,"As always, you can join our online communities at:
+
+Discord: https://t.co/yk11ti1VrQ
+Telegram: https://t.co/YuKNcWHZ2w",12,0,1,2022-07-01
+1810,2022-07-02 13:23:01+00:00,1543223720746987522,sifchain,"Yes, @akashnet_ is one of our decentralized front end providers! 🚀 The other providers are @ConsensusOne @forbole and Red Starling.
+
+Decentralizing our front end has been an important step this year and we appreciate all our fantastic partners 👏 https://t.co/Ub20fpTGDS",107,4,17,2022-07-02
+1811,2022-07-05 00:48:19+00:00,1544120956397858816,sifchain,"We’re bringing back our Twitter Spaces program, Blocktime. Who would you most like to see on Blocktime?
+
+🧐",49,6,6,2022-07-05
+1812,2022-07-06 11:41:13+00:00,1544647652226109440,sifchain,@bestofcryptos The Validator Delegation is a program run by  DAO members. They use objective criteria to delegate ROWAN to validators that are strong network contributors.,3,0,1,2022-07-06
+1816,2022-07-07 23:18:31+00:00,1545185522641154048,sifchain,@_seedizen @Cryptocito @cosmos https://t.co/L36BxZtbpR 👋,12,1,3,2022-07-07
+1830,2022-07-08 05:01:32+00:00,1545271843963441158,sifchain,"We're pumped about this grant application. Connecting @cosmos and @Cardano? Yes, please 🔥 https://t.co/hjDbqQnqXm",150,4,17,2022-07-08
+1831,2022-07-09 12:05:00+00:00,1545740802034307075,sifchain,"Did you know that #Sifchain has a Spanish-speaking community for all its users from LATAM and Spain?
+
+🤩¡Únete a la Comunidad de Español de Sifchain para estar al día con las últimas novedades de Sifchain!
+
+💫Twitter: https://t.co/tXB9VMgHJI
+💫Telegram: https://t.co/jWGLZwto8j https://t.co/4EBuCQ1WQY",85,5,15,2022-07-09
+1832,2022-07-11 13:43:19+00:00,1546490320677773316,sifchain,Cardano EVM sidechain? Sounds like a bridge to @cosmos is in order... https://t.co/b6xqyrT3ur,81,1,13,2022-07-11
+1833,2022-07-12 05:05:07+00:00,1546722297943568384,sifchain,"📢 Cosmos Trivia Night with Sifchain 📢
+
+Join us for the inaugural Cosmos Trivia Night event in the Sifchain Discord! Play for your chance to win event-specific NFTs 🔥
+
+🗓️July 14, 6 PM US Pacific time
+Location: https://t.co/fPiYd6Hs1R
+
+ALL players welcome!⚛️ 
+
+See you there 💫 https://t.co/iEDu8Ox91A",57,1,9,2022-07-12
+1834,2022-07-13 18:15:03+00:00,1547283479506845702,sifchain,Join our side room now! https://t.co/AR1Rc6Eumf,14,0,3,2022-07-13
+1837,2022-07-14 04:13:05+00:00,1547433981313921024,sifchain,Less than 24h until our inaugural Cosmos Trivia Night. See you there. https://t.co/WGiXoOFsXU,61,0,13,2022-07-14
+1841,2022-07-15 04:46:12+00:00,1547804700413595649,sifchain,"The front-end team continues to work through additional user flows on the new upgraded version of the DEX. 
+
+The team has completed the initial wireframes for the UX for Margin 1.0! Soon we will tap into community members to give feedback on these designs.",32,1,5,2022-07-15
+1854,2022-07-16 00:59:06+00:00,1548109939989573633,sifchain,"Happy weekend, we're busy building Peggy 2.0 bridge to connect the world of non-IBC chains to Cosmos. P.S. Hey @CardanoCommunity, wanna be first? https://t.co/8kVCExABkM",197,8,52,2022-07-16
+1856,2022-07-18 06:01:03+00:00,1548910702684909568,sifchain,@SecretNetwork wen $ROWAN 👀,68,5,2,2022-07-18
+1857,2022-07-19 11:51:00+00:00,1549361156996874241,sifchain,"Thank you for the support on our #ProjectCatalyst proposal! 
+
+Here's a handy infographic to help you get ready to vote if you’re new to @Cardano. 
+
+#Fund9 would support Peggy 2.0 bridge development &amp; build towards connecting #CardanoCosmos.
+
+👉https://t.co/O2h1b8VrqD https://t.co/F8h4Tbs9rD",89,4,26,2022-07-19
+1858,2022-07-20 12:08:05+00:00,1549727844711923713,sifchain,"For chains who need time to be ready for IBC, connecting them to Cosmos is bullish.
+
+Our @cosmos community &amp; ecosystem helps deepen their liquidity, increase # of users, &amp; get access to Cosmos devs &amp; tech: a perfect trio of factors to make an IBC move easier for them later.",67,4,10,2022-07-20
+1863,2022-07-21 11:48:18+00:00,1550085256367054849,sifchain,Read about the integration and see a walkthrough of usage on Medium: https://t.co/kvTZgmFBHJ,30,1,5,2022-07-21
+1868,2022-07-22 09:40:50+00:00,1550415564387995648,sifchain,"REMINDER: Join us today, Friday July 22 @ 1PM PST, for a live Cardano onramp session. We'll talk about Cardano's ethos and tech stack, plus how Cardano and Cosmos will benefit from connecting the 2 ecosystems.
+
+👉 https://t.co/fPiYd6Yv3R https://t.co/zrCNKdSqxC",34,1,13,2022-07-22
+1869,2022-07-23 10:40:00+00:00,1550792840761991169,sifchain,"Namaste! Did you know Sifchain has a Telegram group specifically for Indian members of the community? It’s run by India-based Community Manager @Karan_patell1.
+
+We welcome our India-based community to join them on Telegram:
+https://t.co/ER5AkBdRyU https://t.co/5DIklIEz8k",84,5,14,2022-07-23
+1870,2022-07-25 10:31:39+00:00,1551515516065697793,sifchain,Check it out from our friends at @CitadelDAO ! https://t.co/OLfjfDTYYb,46,4,8,2022-07-25
+1871,2022-07-26 00:54:31+00:00,1551732665044594688,sifchain,"The @cardano onboarding session in our Discord was a success! Big thank you to our special guest Cardano Community Coordinator @thepizzaknight_ .
+
+Get a primer on the Cardano ecosystem &amp; get set up to vote in #ProjectCatalyst.
+
+Watch recording: https://t.co/WsuMS57kcV",76,4,14,2022-07-26
+1872,2022-07-27 12:28:00+00:00,1552269571247292416,sifchain,"Join us for the July SifDAO Town Hall on Friday, July 29 at 12PM PST.
+
+SifDAO councils &amp; the Sifchain team will share updates about:
+
+✅DAO councils, including Validator program
+✅Biz Dev &amp; Marketing
+✅ Engineering/Development
+
+Location: https://t.co/P78jehx54f https://t.co/iZlAI0S8jJ",69,2,18,2022-07-27
+1874,2022-07-28 14:06:01+00:00,1552656625064095744,sifchain,"The snapshot for voting in #ProjectCatalyst Fund 9 is in 1 week, on August 4. The countdown is on. Are you ready? https://t.co/GXQ2bpn7Qz",59,0,18,2022-07-28
+1875,2022-07-29 02:16:55+00:00,1552840564399550464,sifchain,Thanks for the support 🔥 https://t.co/39NClqbSp0,124,4,28,2022-07-29
+1878,2022-07-30 12:49:00+00:00,1553362019801214976,sifchain,"Did you know Sifchain has a Korean community?
+
+안녕하세요! 시프체인 한국 공식 트위터가 생겼습니다. 시프체인 업데이트를 한국어로 확인하고 싶으시다면 @sifchain_Kor 팔로우 해보세요
+
+한국 공식 텔레그램 채널 : https://t.co/uzknumzQnU https://t.co/RwogIWSjCV",76,8,8,2022-07-30
+1879,2022-08-01 06:25:53+00:00,1553990381628715008,sifchain,"Hi @CitadelDAO, one week until you're in our Discord for your AMA. Who's pumped for it?🔥 https://t.co/T287v8yOT6",44,1,10,2022-08-01
+1880,2022-08-02 19:10:34+00:00,1554545206753693696,sifchain,"The margin team has been focused on:
+
+- MTP health calculation
+- Automatic interest payments
+- Closing payments
+- Insurance fund routing
+Once the health calculation bug has been fixed, the alpha-test group will continue to test and provide feedback.",32,1,3,2022-08-02
+1889,2022-08-03 18:10:52+00:00,1554892572040085505,sifchain,"Can anyone link details on Injective’s architecture and which parts are close vs open?  
+
+This seems pertinent especially in light of Slope’s wallet containing an obvious plain text seed vulnerability that is being floated as responsible for Solana users losing millions https://t.co/IInSBWksUG",38,1,6,2022-08-03
+1891,2022-08-04 18:39:16+00:00,1555262108585058309,sifchain,"Thanks for the shout out @TechBullion!
+
+https://t.co/VBJZFEz7Au",41,2,8,2022-08-04
+1892,2022-08-05 02:51:50+00:00,1555386065678401536,sifchain,"Current mood: building connections. #interoperability for an interconnected DeFi world? Yes, please. https://t.co/TbEWtquaB5",47,3,7,2022-08-05
+1894,2022-08-07 12:51:00+00:00,1556261626126499841,sifchain,"Happy Saturday. We're in the news - again. Thanks @financemagnates for the feature in their article ""Why Omni-chain is the Future of DEXs"".
+
+Read now: https://t.co/a4Tr19BkdP https://t.co/OAKrM9lTco",114,10,21,2022-08-07
+1896,2022-08-08 23:24:36+00:00,1556783464522911745,sifchain,@mycryptoplygrnd @ThePodocasts Refresh and check again. Just a UI issue,1,0,0,2022-08-08
+1899,2022-08-09 02:22:56+00:00,1556828344947458048,sifchain,Catch the recording of Sifchain's Head of Strategy @sif__moon and @CosmosClub_'s Twitter space 👇 https://t.co/x1cNkiumH8,34,1,6,2022-08-09
+1912,2022-08-10 12:30:00+00:00,1557343506573586432,sifchain,"New Interview: Sifchain Core Contributor @JazearBrooks and Crypto YT thought leader @AlexandrusHere talk about Interoperability, Omni-EVM, and how we're building a bridge to connect #CosmosCardano.
+
+▶️https://t.co/3XkUnE3B6n",71,5,17,2022-08-10
+1913,2022-08-11 18:17:43+00:00,1557793400258265093,sifchain,@encrypt_wizard @Cardano Come to Sifchain's DEX: https://t.co/RArZYbVZmk,1,1,0,2022-08-11
+1915,2022-08-12 14:03:00+00:00,1558091685308944384,sifchain,"Hey @Milkomeda_com, our biz dev team wants to get in touch🤝
+
+cc @sif__moon",45,3,1,2022-08-12
+1926,2022-08-13 12:37:00+00:00,1558432430138089479,sifchain,"Sifchain’s Head of Strategy @sif__moon will do a LIVE AMA for the Chinese language community with @PANewsCN @CitadelDAO.
+
+🗓️ Tuesday, August 16
+📍https://t.co/bh1dPw510C https://t.co/JMylQ0fKpa",31,5,3,2022-08-13
+1927,2022-08-16 09:39:48+00:00,1559474999744147457,sifchain,Join us and @emoney_com on Wednesday at 1230PM US EST for a space on interoperability and more ⏯️ https://t.co/0Fn9NlRRAX,31,3,7,2022-08-16
+1929,2022-08-17 14:35:00+00:00,1559911677335855107,sifchain,"NEW Interview: @sif__moon interviewed by Crypto Shrek on YouTube
+
+Topics:
+✅Omni-EVM and the Peggy 2.0 Bridge
+✅Margin Trading
+✅Audits &amp; Code Security 
+
+Watch: https://t.co/ADu2oWk0CF",43,1,7,2022-08-17
+1933,2022-08-18 12:24:00+00:00,1560241097871265792,sifchain,"📣 Sifchain in the News: From Bitcoin to Sifchain - The Evolution of Blockchain on @CoinGapeMedia📣
+
+Sifchain is showcased as an example of a forward-thinking L1 blockchain in an article feature on blockchain evolution. 
+
+Read: https://t.co/KlHKau6POD https://t.co/p2UhMfI6LT",93,10,24,2022-08-18
+1934,2022-08-19 17:45:00+00:00,1560684268455706624,sifchain,"🌟 Margin Trading v1.0: The Long Game MVP Testnet App Reveal 🌟
+This release allows for longing ROWAN:TKN and TKN:ROWAN. 
+
+Watch to learn about features, development status &amp; what’s next.
+
+Grateful to the epic Sifchain community for your support 💪
+https://t.co/qMLaJaawap",130,17,31,2022-08-19
+1937,2022-08-20 03:25:52+00:00,1560830449110634496,sifchain,"Vietnamese Community: Join @sif__moon and 
+ @TTTcapital for a live AMA for @SifChainVietnam 
+
+📆 Monday, August 22, 9 PM GMT+7
+📍https://t.co/yc2vyrcsTf https://t.co/gePM8ZCjHi",71,9,10,2022-08-20
+1939,2022-08-21 13:40:00+00:00,1561347387402006530,sifchain,"Security and prevention are a top priority for the Sifchain team. Code goes through a rigorous auditing, testing &amp; remediation process based on best-in-class industry standards. 
+
+You can read ELEVEN (!) post-remediation audit reports in the docs:
+
+https://t.co/mQiOWjV9eB",83,5,20,2022-08-21
+1940,2022-08-22 07:00:00+00:00,1561609114836426752,sifchain,"AMA starting at 9 PM GMT+7 with Sifchain's Head of Strategy @sif__moon and @TTTcapital for @SifChainVietnam! 
+
+AMA will be livestreamed to YouTube at https://t.co/xRSUHp5Kxp⏯️ https://t.co/gtUXU3f3Ki",37,2,7,2022-08-22
+1942,2022-08-23 14:27:00+00:00,1562083991024349185,sifchain,"🎙️ Marketing Fireside Chat 🎙️
+
+Join Sifchain’s Head of Marketing, Zadkiel, and DAO Growth Lead, @AbraTusz, Thursday, August 25 at 10AM CEST for a Marketing Fireside Chat.
+
+Submit questions: https://t.co/It9jVJLQVE
+
+⏲️ Thursday, August 25, 10 AM CEST
+
+📍 https://t.co/fPiYd6Yv3R",26,4,6,2022-08-23
+1944,2022-08-24 12:59:00+00:00,1562424232814026752,sifchain,"Voters🗳️ for the #CardanoCosmos Bridge: Voting for Project Catalyst #Fund9 has been pushed back to a tentative date of Sept. 1.
+
+Thanks to all for the support on the proposal thus far. We're still building 💪
+
+👉 https://t.co/O2h1b8VrqD https://t.co/OnVin8NjDD",34,2,5,2022-08-24
+1945,2022-08-25 00:03:00+00:00,1562591334514376704,sifchain,"Connecting #CosmosCardano means Cosmos projects get access to decentralized funding for innovation &amp; development, new liquidity markets &amp; additional token-based economies... We're down for that https://t.co/E2gtBDJuow",64,4,10,2022-08-25
+1947,2022-08-26 05:16:49+00:00,1563032696296615937,sifchain,"Margin preparations are ongoing ✅ 
+
+The first margin-enabled pools will be ATOM, ETH, FRAX, and USDC. 
+
+DEX visitors will see a handy notification about it. Visit the DEX through your preferred decentralized front-end at https://t.co/RArZYcdAdS. https://t.co/9lFxHhV3s9",78,8,20,2022-08-26
+1951,2022-08-27 09:32:20+00:00,1563459390300008449,sifchain,"@blockpane @polka_chu Our b, we’ll try to avoid Fri nights as a general principle.  Heads up though that if testing goes well the margin proposal is slated to drop on 9/9.",1,0,0,2022-08-27
+1952,2022-08-30 12:14:04+00:00,1564587252210098181,sifchain,"🎉 Sifchain is Reducing Staking Inflation! 🎉
+
+SifDAO has passed a proposal to reduce ROWAN staking inflation!
+
+Inflation will be reduced by 6% every 2 months for a total of 8 months.
+
+Great work SifDAO 🥳
+
+https://t.co/oVPd86bqmG https://t.co/wdshXVk1A0",89,4,15,2022-08-30
+1963,2022-08-31 14:48:28+00:00,1564988495772364800,sifchain,No U.S. persons or any persons in any country or region that is the subject of comprehensive country-wide or region-wide economic sanctions by the U.S. can use the app or contracts. Please see disclaimer for details: https://t.co/U9GgVEq480,17,3,4,2022-08-31
+1973,2022-09-01 13:47:00+00:00,1565335415585792001,sifchain,"Whitelist signups OPEN NOW for Margin Trading v1.0: The Long Game! 🥳
+
+Get access to the app to explore &amp; trade before the public launch.
+
+Signups open from September 1 - September 16.
+
+Sign Up Now: https://t.co/fx1VkXfzs9 https://t.co/0DH956R3Cf",145,11,52,2022-09-01
+1974,2022-09-02 12:04:04+00:00,1565671900268879875,sifchain,"Lower fees are made possible by non-inflationary revenue from the soon-to-be-launched Margin Trading platform.
+
+Revenue from interest payments from traders will go back into margin-enabled pools as income for liquidity providers 🙌
+
+Welcome to DeFi with real revenue.",45,1,6,2022-09-02
+1977,2022-09-03 12:05:00+00:00,1566034522864553986,sifchain,"Hey all, a list of auto-restake platforms where you can get your staking rewards auto-compounded:
+
+✅Restake: https://t.co/APLoFfiMz3
+✅Yieldmos: https://t.co/zKUonrvkte
+✅CitadelDAO: https://t.co/BphjRtBMKb
+
+Thanks to our friends Restake, @yieldmos, @CitadelDAO 🌟
+#IBCGang",73,5,20,2022-09-03
+1983,2022-09-04 13:45:00+00:00,1566422075924938754,sifchain,"Epic Week at Sifchain. 
+
+Recap:
+🔥 Margin Trading v1.0: The Long Game Whitelist Open for early access: https://t.co/fx1VkWXYAB
+🔥 Swap fees ⬇️
+🔥 Staking inflation ⬇️
+🔥 Real revenue 🔜
+
+🎨 Margin Trading AI art by @MySacco https://t.co/IohJPAeeqw",72,2,17,2022-09-04
+1984,2022-09-05 14:33:00+00:00,1566796543977463810,sifchain,"Voting for Cardano's Project Catalyst #Fund9 voting starts TODAY, September 5, at 3PM UTC! ⏰
+Sifchain has a proposal live for funding to support the building of a #CardanoCosmos bridge.
+
+@InputOutputHK has the most up-to-date voting walkthrough: https://t.co/xZPHP0XOxc https://t.co/sZD86a39eP",25,0,6,2022-09-05
+1986,2022-09-06 11:55:07+00:00,1567119197620305920,sifchain,More than 50% of the early access whitelist spots gone already. 🔥,21,1,3,2022-09-06
+1988,2022-09-07 11:07:17+00:00,1567469549314015232,sifchain,"Shoutout to @CosmosEcosystem for mentioning the Margin Trading whitelist 💫
+
+Check it out and sign up for early access to the platform: https://t.co/27yvKjGiI9 https://t.co/ZtJ3CWN201",37,1,6,2022-09-07
+1992,2022-09-08 12:46:01+00:00,1567856785062502401,sifchain,"Last day to vote is Sept. 19 ⏰
+
+Vote using the Project Catalyst app in your preferred mobile app store.
+
+Sifchain's proposal for the #CosmosCardano bridge: https://t.co/O2h1b8VrqD",16,0,4,2022-09-08
+1997,2022-09-09 13:33:02+00:00,1568231002815725569,sifchain,"📢 Margin Trading v1.0 The Long Game Launch Update 📢
+Engineering is working 24/7 on final regression testing of The Long Game &amp; its interactions with the DEX's code. This helps ensure the rest of the DEX works as intended when the The Long Game is released.
+
+Art @decaliio https://t.co/XG2ajGxlmY",87,6,20,2022-09-09
+2002,2022-09-10 13:55:00+00:00,1568598919466176514,sifchain,"Thanks for the support on  Sifchain's proposal for #Cardano #ProjectCatalyst #Fund9 to build a bridge between #CardanoCosmos 🔥🔥🔥
+
+We're bullish on interoperability and ready to connect Cardano to the world of IBC-enabled chains.
+
+👉 https://t.co/O2h1b8VrqD https://t.co/th989UHm68",56,3,13,2022-09-10
+2003,2022-09-11 14:40:42+00:00,1568972808918814720,sifchain,"@Cryptocito Hedera - we have been in talks with that team for a while &amp; have a special announcement coming for them soon, so stay tuned 🤗
+
+Algorand - the milkomeda team (us &amp; them = Cardano&lt;&gt;cosmos bridge), is deploying to Algorand, so we will collab to setup Cosmos&lt;&gt;Algorand together 🙌",37,1,4,2022-09-11
+2004,2022-09-12 03:50:30+00:00,1569171567065825281,sifchain,"https://t.co/a8ZSiGfXhq
+
+The first pools that will be margin-enabled will be ATOM:ROWAN, ETH:ROWAN, FRAX:ROWAN, and USDC:ROWAN. More pools will be added on a regular basis.",32,0,6,2022-09-12
+2009,2022-09-13 15:22:00+00:00,1569707977375825920,sifchain,"⚡ Fireside Chat: Chief of Engineering Friedqi ⚡
+🛠️ Margin Trading Engineering alpha
+🛠️ Shipping high-quality code
+🛠️ How 1 engineer will be able to run Sifnode, data services &amp; the front end all on their local machine 🔜
+
+📅 Wed., Sept. 14, 5PM PST
+📍 https://t.co/nI5Trcdpvr https://t.co/XO55LIg8mB",42,1,14,2022-09-13
+2020,2022-09-14 13:02:00+00:00,1570035133507313667,sifchain,"TWELVE code audits now posted… 😎
+
+✅ Margin Trading Audit now up for transparency.
+
+Thanks to @HalbornSecurity for this audit.
+
+Check out audit reports in the Google Drive folder in the docs.
+
+https://t.co/mQiOWkcKDb",47,3,10,2022-09-14
+2025,2022-09-15 17:27:14+00:00,1570464271947169792,sifchain,"@codecrypto1 Margin upgrade is on-chain, live eta this weekend once proposal passes
+
+More announcements coming soon on other Peggy 2.0 connections that we are building into Cosmos 🙌",41,2,3,2022-09-15
+2034,2022-09-16 14:07:00+00:00,1570776266847961093,sifchain,"🌟 NEW Walkthrough for Devs: Margin Trading Back-End 🌟
+
+Grab 🍿 and your 💻 and dive into the latest Dev Walkthrough showing how Margin Trading v1.0: The Long Game works under the hood.
+
+Watch on YouTube:
+
+https://t.co/uhGuBk8NoU",64,3,15,2022-09-16
+2044,2022-09-17 13:02:00+00:00,1571122297443946497,sifchain,"Join a LIVE AMA &amp; product demo with @leap_wallet  for their Sifchain integration.
+
+Learn how they built a super powered experience for all Sifchain users:
+
+✅ Portfolio 
+✅ IBC transfers
+✅ Governance
+✅ Staking
+
+📅Tuesday, September 20, 8 AM Pacific
+
+📍https://t.co/P78jehx54f https://t.co/O03HGunPEX",71,5,19,2022-09-17
+2045,2022-09-18 14:16:00+00:00,1571503307427926017,sifchain,"Sifchain is in @Entrepreneur! 
+The article covers the differences between CeFi and DeFi. Sifchain’s decentralized validator set and front ends are an example of DeFi's principles in action.
+We are excited to share blockchain values 🦾
+https://t.co/WpcCntDZ8w",97,6,25,2022-09-18
+2047,2022-09-19 15:00:53+00:00,1571876992479531008,sifchain,"Fortunately, the effects of the exploit were rapidly contained, and many users who received extra assets have already sent messages expressing a desire to return the funds.",26,3,2,2022-09-19
+2053,2022-09-20 04:19:55+00:00,1572078075244085250,sifchain,"Update: The engineering team has identified a fix and a route forward to re-enabling the chain &amp; the DEX. They are testing it now.
+
+Further, Engineering is performing chain analysis on transactions and wallets related to the situation.",66,5,8,2022-09-20
+2055,2022-09-21 09:37:12+00:00,1572520309508698113,sifchain,@ninjarobot Thanks for the support. There will be a post-mortem shared after the situation is resolved fully.,4,0,0,2022-09-21
+2058,2022-09-22 10:01:57+00:00,1572888925689253889,sifchain,"Update: The Peggy Bridge between Ethereum and Sifchain is re-enabled.
+
+Thank you everyone for your support and collaboration during the process while Engineering brings all parts of the DEX back online.",57,2,5,2022-09-22
+2059,2022-09-23 01:21:21+00:00,1573120299473973248,sifchain,A huge thank you to these individuals who collaborated in identifying &amp; rectifying the affects of this issue. Deeply grateful to all who have contributed.,54,2,3,2022-09-23

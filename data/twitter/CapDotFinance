@@ -1,0 +1,204 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-06-26 11:05:11+00:00,1276471566272995329,CapDotFinance,Join our Telegram community early on here: https://t.co/78BrZSpit4,10,1,3,2020-06-26
+1,2020-07-06 10:20:12+00:00,1280084123554590722,CapDotFinance,Stay tuned for more updates!,10,2,2,2020-07-06
+17,2020-07-10 07:28:44+00:00,1281490525367996417,CapDotFinance,"We just published ""AMA with Abe"" https://t.co/mz54tky50R",9,1,1,2020-07-10
+18,2020-07-26 14:56:48+00:00,1287401489598754817,CapDotFinance,"We just published ""New CAP Economics"" https://t.co/DctqMfRP3k",21,1,8,2020-07-26
+19,2020-08-23 21:36:32+00:00,1297648947603922944,CapDotFinance,"We just published ""The Beta"" https://t.co/OIPe6zyYaU",15,1,7,2020-08-23
+20,2020-09-02 12:26:53+00:00,1301134500370493440,CapDotFinance,"We just published ""The Roadmap"" https://t.co/T24RP4vcAd",15,1,5,2020-09-02
+21,2020-09-05 17:32:41+00:00,1302298619597512705,CapDotFinance,Our Synthetics contracts are now open source: https://t.co/6ywhfDp9ni,14,2,5,2020-09-05
+22,2020-09-17 11:16:22+00:00,1306552573097320449,CapDotFinance,@CryptoGauss Please join our Telegram at https://t.co/78BrZSpit4 for the latest activity. We only post announcements on Twitter.,1,0,0,2020-09-17
+23,2020-09-21 16:43:11+00:00,1308084369261723650,CapDotFinance,Our Oracle contracts are now open source: https://t.co/s8bq5w3a3Z,20,1,5,2020-09-21
+24,2020-09-28 10:35:04+00:00,1310528445500325889,CapDotFinance,"We just published ""Synthetics Testnet"" https://t.co/PvxgcRKunw",16,1,5,2020-09-28
+25,2020-10-05 12:18:55+00:00,1313091294374359046,CapDotFinance,"We just published ""The Path Forward"" https://t.co/2FWgizT3d8",7,0,3,2020-10-05
+26,2020-10-06 10:59:35+00:00,1313433719848476672,CapDotFinance,"9.88M CAP have been minted and burned, reducing the total supply to 120K.
+
+https://t.co/ots96xp0Dd
+
+https://t.co/y7BBwCULoW",12,1,4,2020-10-06
+28,2020-10-16 14:38:48+00:00,1317112765207597057,CapDotFinance,"We look forward to testing out Cap on Ropsten, alongside the community, over the next few weeks — prior to launching on mainnet.
+
+To stay in the loop, join us on Telegram: https://t.co/78BrZS7H4u",2,0,1,2020-10-16
+34,2020-10-20 20:22:28+00:00,1318648803898068995,CapDotFinance,"We just published ""Using Governance"" https://t.co/1X32Rlvl7T",7,1,1,2020-10-20
+35,2020-11-10 18:18:45+00:00,1326227812303446017,CapDotFinance,"Cap Synthetics (testnet) is now available at https://t.co/4Y0RvqevZ6.
+
+Cap.eth is registered on ENS and points to an IPFS hash where the client interface is hosted.",14,0,4,2020-11-10
+36,2021-01-05 19:51:09+00:00,1346544785830641665,CapDotFinance,@Modernfarmer1 @Sicarious_ You might have the wrong $CAP,6,0,0,2021-01-05
+37,2021-06-07 17:03:12+00:00,1401947863530278915,CapDotFinance,"We're working on moving Cap to Arbitrum, an Ethereum layer 2. This will result in faster transaction times and dramatically lower fees while keeping Cap decentralized.",23,1,14,2021-06-07
+39,2021-06-10 15:37:03+00:00,1403013346203480067,CapDotFinance,"To add the ArbRinkeby network to Metamask, go to Settings &gt; Network &gt; Custom RPC, then fill in the fields like in the picture. https://t.co/57pDGHYIZM",2,2,2,2021-06-10
+40,2021-08-19 21:19:27+00:00,1428466664643960834,CapDotFinance,Something's brewing.,39,8,12,2021-08-19
+41,2021-08-29 20:08:31+00:00,1432072694191828993,CapDotFinance,Learn more about Cap v1 in our blog post: https://t.co/n7zpNe8XjW,6,0,2,2021-08-29
+46,2021-08-30 16:10:57+00:00,1432375297932988417,CapDotFinance,"Are you feeling lucky, anon? https://t.co/JMHzDD1SRY",23,2,6,2021-08-30
+48,2021-08-31 22:41:43+00:00,1432836025185939458,CapDotFinance,Then add the Arbitrum One network to your Metamask by clicking on the button at the bottom right of https://t.co/xdlXOSCVCL. https://t.co/YksAeTk4r5,13,1,2,2021-08-31
+57,2021-09-01 15:24:09+00:00,1433088293227401221,CapDotFinance,"@kreatzis Might be Metamask not estimating gas correctly yet on Arbitrum. We've seen this before in some cases.
+
+A workaround might be to manually increase the gas limit on the transaction or try resetting your Metamask account.",1,1,0,2021-09-01
+59,2021-09-03 15:29:20+00:00,1433814372627910684,CapDotFinance,"@LOOKsquirrelies 1. Usually this is metamask not estimating gas fees correctly. Upping the gas limit should work.
+2. Within a few weeks. Testing the contracts with play money to make sure everything is bulletproof.",0,0,0,2021-09-03
+60,2021-09-04 21:44:45+00:00,1434271239074373632,CapDotFinance,New UI elements and drastic gas fee reductions are up on https://t.co/VF94rwbDoB (rinkeby),13,0,6,2021-09-04
+61,2021-09-06 09:26:37+00:00,1434810255842676738,CapDotFinance,Bunch of new products released on https://t.co/VF94rwbDoB ahead of mainnet launch with real ETH https://t.co/tDSw8kQnZF,21,0,7,2021-09-06
+62,2021-09-07 09:39:06+00:00,1435175785443254280,CapDotFinance,gm to everyone except my ETH position https://t.co/tZL96Zqx3J,16,0,4,2021-09-07
+64,2021-09-09 20:01:37+00:00,1436057223243907078,CapDotFinance,"Just bridged some $CAP to @arbitrum and funded a Uniswap pool.
+
+https://t.co/Os7BzlfFKh
+
+Swaps on Arbitrum are currently 8x cheaper than mainnet.",34,0,13,2021-09-09
+65,2021-09-10 18:08:38+00:00,1436391178522578946,CapDotFinance,"Trading is now live on Arbitrum with real ETH!
+https://t.co/VF94rwbDoB https://t.co/vhyDUnwjaO",62,4,25,2021-09-10
+71,2021-09-11 17:48:41+00:00,1436748544883429378,CapDotFinance,"@matterhorn_eth Possibly Metamask out of gas or needs reset. We'll have a more descriptive error message soon.
+
+In the meantime you can look at your browser console to see what happened, the full error is logged there",2,1,0,2021-09-11
+72,2021-09-12 17:01:16+00:00,1437099001367744512,CapDotFinance,Cool tutorial! https://t.co/295VkxulGx,19,2,6,2021-09-12
+73,2021-09-13 12:30:00+00:00,1437393124159066114,CapDotFinance,👀 https://t.co/5KF09Wvkz1,37,6,10,2021-09-13
+74,2021-09-14 19:01:46+00:00,1437854102671798273,CapDotFinance,@arbitrum @chainlink is down on Arbitrum. Hasn't updated in 4 hours. This seems to be an urgent issue and nobody has said a word about it: https://t.co/d83ky497Nf,29,7,5,2021-09-14
+81,2021-09-16 09:08:07+00:00,1438429478947000322,CapDotFinance,@LOOKsquirrelies These are planned. In the meantime you can get answers in Cap's Telegram group: https://t.co/78BrZSpit4,2,0,0,2021-09-16
+82,2021-09-17 09:28:41+00:00,1438797045310140417,CapDotFinance,@Zakia14682390 It's ETH not WETH. You can stake your ETH in the vault: https://t.co/3lRyGOYelW but it's currently at capacity.,2,0,0,2021-09-17
+84,2021-09-19 22:02:23+00:00,1439711493939937288,CapDotFinance,@CryptoPixy Mobile wallet is planned in v2,4,0,0,2021-09-19
+85,2021-09-22 08:10:22+00:00,1440589276312313864,CapDotFinance,$100M 🥳 https://t.co/kN7rjxKgxS,38,1,14,2021-09-22
+86,2021-09-27 20:59:51+00:00,1442594859429339139,CapDotFinance,Soon™ https://t.co/yI6q7Y9wFV,35,1,11,2021-09-27
+87,2021-10-01 10:53:51+00:00,1443891907294289920,CapDotFinance,$200M 🥳 https://t.co/KEPyw9StKa,47,0,13,2021-10-01
+88,2021-10-02 19:17:31+00:00,1444381045349097475,CapDotFinance,"@LOOKsquirrelies There is a plan to develop Cap Pro with charting and more data for advanced users, for sometime later this year.",5,0,0,2021-10-02
+90,2021-10-07 23:14:45+00:00,1446252689604612099,CapDotFinance,Counting down to v2... https://t.co/p4yFWmZpUu,42,3,12,2021-10-07
+91,2021-10-08 15:48:49+00:00,1446502851434397697,CapDotFinance,@keyneom No the vaults are separate.,1,0,0,2021-10-08
+93,2021-10-11 11:05:51+00:00,1447518805853356032,CapDotFinance,"Cap V2 is here!
+
+https://t.co/VF94rwbDoB
+
+V2 makes Cap the fastest and cheapest way to leverage trade on @arbitrum. https://t.co/BJiMik7jt8",146,9,32,2021-10-11
+96,2021-10-12 11:08:18+00:00,1447881808771796994,CapDotFinance,The Cap community is seeking a talented growth person: https://t.co/OlgnS20aBE,29,3,10,2021-10-12
+99,2021-10-14 13:49:50+00:00,1448647235919433729,CapDotFinance,@JayWatk66031494 @arbitrum https://t.co/HgaUxCYC5Q,2,1,0,2021-10-14
+102,2021-10-18 08:46:24+00:00,1450020427435323395,CapDotFinance,"@DPWalkerJr @coinbase They are?
+
+Cap prices have around a 0.1% spread. No fees or slippage. 
+
+Coinbase charges a spread and slippage and up to 0.5% fee on Coinbase Pro.
+
+So it can seem the costs are worse but they are actually better.",11,1,1,2021-10-18
+103,2021-10-25 08:26:26+00:00,1452552116048904193,CapDotFinance,$400M 🥳 https://t.co/CdDesGkoNY,58,11,11,2021-10-25
+104,2021-11-04 15:39:52+00:00,1456285071602864129,CapDotFinance,👀 https://t.co/A9WIscm01h,41,1,14,2021-11-04
+105,2021-11-17 16:26:54+00:00,1461007949397114890,CapDotFinance,"@chadbrocrypto @arbitrum @ChainLinkGod In v2 profits are paid from a common treasury that needs to be replenished from trader losses first (this has been explained in the telegram group).
+
+v3 fixes this as anyone will be able to contribute to the common liquidity pool.",3,1,0,2021-11-17
+112,2021-11-19 07:35:52+00:00,1461599089045422087,CapDotFinance,@superpotsecret You can check https://t.co/f7LcXMwnIj.,2,1,0,2021-11-19
+113,2021-11-22 12:08:37+00:00,1462754891118653446,CapDotFinance,"For CAP holders:
+- Stake CAP to receive a share of protocol fees.
+- CAP's supply is fixed at 100,000 with no inflation.",18,2,4,2021-11-22
+121,2021-11-23 09:07:00+00:00,1463071575444447234,CapDotFinance,@_VJ_H_ What info do you need that the History tab doesn't show?,1,0,1,2021-11-23
+123,2021-11-25 10:05:50+00:00,1463811155521122304,CapDotFinance,"New docs published on how to trade directly with Cap's smart contracts without a UI.
+
+https://t.co/Q7qKZSUYYN",31,2,10,2021-11-25
+124,2021-11-27 21:19:14+00:00,1464705399488139267,CapDotFinance,"The ETH LP pool on Cap performs exponentially better during price drops as market consensus remains long.
+
+By pooling your ETH, you pay out trader profits. In exchange, you receive trader losses and fees.
+
+https://t.co/dXeNllkqlc https://t.co/bV7tTQCCHZ",26,3,6,2021-11-27
+125,2021-11-28 04:28:44+00:00,1464813485242699780,CapDotFinance,@ErikkkkkSong It's a relatively recent pool so APR figures are not yet available.,1,0,0,2021-11-28
+126,2021-11-29 16:33:46+00:00,1465358335675445248,CapDotFinance,Pushed a new update. Positions now settle and close 25% faster. 🥳 https://t.co/kGPzyxjiEz,18,0,7,2021-11-29
+128,2021-11-30 13:32:18+00:00,1465675055304785921,CapDotFinance,We're still so early. https://t.co/TNslWNNFoO,25,6,7,2021-11-30
+130,2021-12-01 19:35:36+00:00,1466128869686190086,CapDotFinance,"Thanks for adding Cap, @tokenterminal.
+
+https://t.co/gIAers0nQy https://t.co/6wtAC0LO91",15,3,5,2021-12-01
+131,2021-12-02 12:51:06+00:00,1466389461210648580,CapDotFinance,"New Update:
+
+Your wallet balance now appears alongside your buying power when placing an order. https://t.co/Lu2e5JcRWl",20,0,5,2021-12-02
+132,2021-12-03 12:22:23+00:00,1466744621678186501,CapDotFinance,"New Update:
+
+Your trade size in USD and product details now appear when placing a new order. https://t.co/QisDC8kLmu",27,4,5,2021-12-03
+133,2021-12-04 14:07:14+00:00,1467133397613035530,CapDotFinance,@DieOnThisShill @IamNomad Cap had 100% uptime and never went down. All incoming orders were filled at the market price without any reported issues during this period.,6,0,2,2021-12-04
+136,2021-12-05 04:59:19+00:00,1467357897680203778,CapDotFinance,"Great to see people on Cap winning big. 🥳
+
+The best trade in the past 24 hours made $42,000! https://t.co/aLArE0JMqj",23,1,4,2021-12-05
+138,2021-12-07 14:33:52+00:00,1468227263888080897,CapDotFinance,"Hey traders! Did you know you can add margin to your position to reduce its leverage? This is useful to avoid liquidation when price is moving against you.
+
+Learn how: https://t.co/Zbn3yBsqFG",12,0,3,2021-12-07
+139,2021-12-08 15:03:24+00:00,1468597085108940802,CapDotFinance,New: CAP now has a Discord! https://t.co/P501oXRV5z https://t.co/ceUrHFFiHj,19,0,5,2021-12-08
+140,2021-12-09 06:57:29+00:00,1468837185893933058,CapDotFinance,New: A feature requested by CAP traders! Sizes &amp; prices are now displayed with full decimal precision. https://t.co/nUWc0ZjMIF,23,0,3,2021-12-09
+143,2021-12-10 16:15:59+00:00,1469340126262214662,CapDotFinance,@AvaxGems CAP likes Avax. Soon™,18,1,5,2021-12-10
+145,2021-12-11 16:21:23+00:00,1469703870590898185,CapDotFinance,Excellent to see CAP among the top 5 weekly gainers across several metrics 👀 https://t.co/MADxGNbX7b,29,0,7,2021-12-11
+147,2021-12-13 12:37:00+00:00,1470372178835165193,CapDotFinance,"New update!
+
+A confirmation window now appears when you submit an order, showing you details like its impact on your position's leverage and liquidation price. https://t.co/OtbE9oiqAz",27,2,5,2021-12-13
+149,2021-12-14 12:34:41+00:00,1470733985810628615,CapDotFinance,"New update!
+
+You now get notified when your trade is executed, both on position open and close. https://t.co/RLhDOKL8z3",20,2,5,2021-12-14
+150,2021-12-15 04:12:01+00:00,1470969871945056259,CapDotFinance,"CAP just launched a bug bounty program with the excellent @immunefi.
+
+Find bugs in the protocol, get paid.
+
+https://t.co/4tPTDj4KXp",35,1,13,2021-12-15
+154,2021-12-16 20:21:50+00:00,1471576323109830661,CapDotFinance,TVL growing nicely https://t.co/GWkLcK2XyB,33,6,11,2021-12-16
+155,2021-12-17 11:48:26+00:00,1471809509123399683,CapDotFinance,"We've republished CAP's original whitepapers!
+
+- https://t.co/xPmpDrVIeZ
+- https://t.co/O2ZQL0Nh97
+
+The research done in the market making whitepaper is still used by CAP's oracle network today to fill and execute orders. https://t.co/QJ7OhXEELo",29,4,6,2021-12-17
+156,2021-12-18 12:27:39+00:00,1472181766492508164,CapDotFinance,Nice to see CAP leading in TVL growth and P/E this week on @tokenterminal https://t.co/SeaqoODQdH,16,1,3,2021-12-18
+157,2021-12-19 12:27:07+00:00,1472544021713244164,CapDotFinance,"New!
+
+A page dedicated to the protocol's native token, CAP.
+
+https://t.co/Q5tr9MdeeU
+
+The Uniswap pool on Arbitrum is the cheapest and fastest way to buy CAP today. https://t.co/sKmdOSpnZ0",28,0,8,2021-12-19
+158,2021-12-20 15:43:48+00:00,1472955904681197575,CapDotFinance,"@NotSureBTC No, this is a protocol monitor. The UI client on https://t.co/VF94rwbDoB is up.",2,1,0,2021-12-20
+161,2021-12-23 17:12:17+00:00,1474065335515066373,CapDotFinance,@VolumeBomb Should be fine now? The graph protocol had some lag and downtime earlier with Arbitrum. The graph stores the contract event data that the CAP UI uses to display things like positions and historical trades.,1,0,0,2021-12-23
+164,2021-12-25 19:25:08+00:00,1474823542160207872,CapDotFinance,"@realpennybags Thanks for trading, ser. Price impact is now a function of pool size - the higher the liquidity, the lower the impact of large trades. Similar to an orderbook in that sense.
+
+Hope you can visit CAP again someday!",8,0,0,2021-12-25
+165,2021-12-27 17:48:45+00:00,1475524064970256388,CapDotFinance,@LordApemo @gizzy_crypto @danielesesta Here ya go https://t.co/4tPTDj4KXp,9,1,1,2021-12-27
+167,2021-12-28 14:51:56+00:00,1475841953082265603,CapDotFinance,The markets are finally awaking... https://t.co/p0uXu5fKlf,8,1,1,2021-12-28
+172,2021-12-29 15:57:51+00:00,1476220929596346379,CapDotFinance,@nofedz Gm,2,0,0,2021-12-29
+176,2021-12-31 13:10:33+00:00,1476903602413346816,CapDotFinance,"Good to see CAP on Adam's excellent 2022 shopping list!
+
+We're just getting started. Big things are coming. https://t.co/vhWdai7X3a",29,1,5,2021-12-31
+177,2022-01-01 20:50:06+00:00,1477381640968187911,CapDotFinance,"We're excited to introduce CAP's Community Ambassador Program. 🧢
+
+https://t.co/rewa6ZFIfq
+
+Help CAP grow and get up to 1000 USDC / week. Check it out and apply if you fit the requirements!",27,2,7,2022-01-01
+178,2022-01-03 12:32:35+00:00,1477981214493581314,CapDotFinance,@caleo29c Weird! Try this new invite link I generated: https://t.co/HEpRVSuCTJ,2,1,0,2022-01-03
+180,2022-01-06 06:14:39+00:00,1478973268375879683,CapDotFinance,"""Volatility is opportunity.""
+– Abe, 2022 Tokenholder Letter https://t.co/fSdE1tg8oV",29,3,6,2022-01-06
+181,2022-01-07 05:22:23+00:00,1479322502669164548,CapDotFinance,@killmesendtweet Planned for v4,2,0,0,2022-01-07
+183,2022-01-08 13:51:20+00:00,1479812969697628166,CapDotFinance,"""Decentralization doesn’t make sense for most things. So why do we continue to partake in this false narrative? Maybe it makes a good story. Or maybe it’s time to move on.""
+– Abe, 2022 Tokenholder Letter https://t.co/u2wEShahoV",16,3,2,2022-01-08
+185,2022-01-10 18:13:25+00:00,1480603703606484997,CapDotFinance,Cool https://t.co/MMBeixJ266,25,4,4,2022-01-10
+187,2022-01-11 18:22:02+00:00,1480968258815672325,CapDotFinance,TVL is mooning https://t.co/0hcN7ZOnHs,31,0,5,2022-01-11
+191,2022-02-01 22:10:55+00:00,1488636001849421827,CapDotFinance,Over $1 Billion has been traded on CAP https://t.co/w2L8rGtW6B,44,7,9,2022-02-01
+192,2022-02-08 23:51:04+00:00,1491197924218654722,CapDotFinance,"We've temporarily disabled new orders while we investigate a white hat bug report.
+
+Funds are safe! But we suggest closing any currently active positions you have, just in case. https://t.co/xoUdxzxDV1",32,10,4,2022-02-08
+193,2022-02-09 01:12:59+00:00,1491218538807570433,CapDotFinance,@QuietSilver An active position is an open trade position. The funds in the pools are not affected.,6,1,0,2022-02-09
+194,2022-02-16 08:41:14+00:00,1493868058020040708,CapDotFinance,"CAP will resume trading soon. We're proud to report the bug has been fixed and no funds were compromised.
+
+🚨 Please close any active trading positions you still have, as the margin tied to those will be lost when trading resumes. Pool funds are not affected.",43,13,6,2022-02-16
+196,2022-02-21 13:53:41+00:00,1495758629588328449,CapDotFinance,"CAP is back!
+
+https://t.co/VF94rwbDoB https://t.co/ksCi9WCnAI",54,9,13,2022-02-21
+198,2022-03-01 09:59:20+00:00,1498598755280601091,CapDotFinance,@sam_defi @nofedz @fxckinlit69 No need.,7,2,0,2022-03-01
+199,2022-03-29 09:17:06+00:00,1508734987083952129,CapDotFinance,"This trader made $150,000 this week on an ETH/USD long. https://t.co/gHaLBr7XYQ",14,2,3,2022-03-29
+200,2022-03-30 21:19:18+00:00,1509279120907452416,CapDotFinance,CAP just crossed $2B in trading volume! https://t.co/dk7LjD6E6d,38,10,11,2022-03-30
+201,2022-05-12 20:08:05+00:00,1524843877810720788,CapDotFinance,"It's high time for crypto to move beyond ponzinomics.
+
+CAP is deployed exclusively on @arbitrum. 
+
+Arbitrum will be around for a long time because they're focused on building a great product, not on printing and pumping a token.",57,5,10,2022-05-12
+202,2022-06-14 07:01:56+00:00,1536604834987708417,CapDotFinance,"@Pablo_01618 This seems to be due to the huge traffic spikes that happen sometimes on the blockchains, unfortunately outside our control.",2,0,0,2022-06-14
+203,2022-07-05 18:08:39+00:00,1544382768632791044,CapDotFinance,CAP has the lowest P/E on @tokenterminal. https://t.co/fmVWVr3ggf,30,9,6,2022-07-05
+204,2022-07-22 09:35:32+00:00,1550414229722767360,CapDotFinance,The community continues to grow. https://t.co/8fPXAnTJvO,22,3,5,2022-07-22
+205,2022-07-30 18:34:27+00:00,1553448954150494208,CapDotFinance,@DefiCentral In v4,17,2,4,2022-07-30
+206,2022-08-12 13:15:37+00:00,1558079760189820928,CapDotFinance,"@basednick_eth There might be processing delays in the underlying network, Arbitrum. You can also reach out to the community on Cap's Discord if you have further issues.",0,2,0,2022-08-12
+207,2022-08-18 19:04:02+00:00,1560341770508058626,CapDotFinance,@pentaclesoften Should be fixed.,2,1,0,2022-08-18
+208,2022-08-28 16:35:48+00:00,1563928344764321798,CapDotFinance,"@tokenterminal Offering reliable, secure, 0-fee trading since 1921.",9,1,0,2022-08-28
+209,2022-08-30 07:40:48+00:00,1564518484695998467,CapDotFinance,Bullish? Bearish? https://t.co/kbQFZHpQeh,16,5,3,2022-08-30
+212,2022-08-31 20:58:31+00:00,1565081622109716480,CapDotFinance,"@laurendesylva That might be a Metamask thing that gets smoothed out over time. But yes, adjusting it just the first time should do it.",7,3,0,2022-08-31
+217,2022-09-03 15:08:30+00:00,1566080703531458562,CapDotFinance,It's true https://t.co/oxB8GWVoip,25,4,5,2022-09-03
+218,2022-09-04 19:01:26+00:00,1566501709270114305,CapDotFinance,"@fredfalafel @DefiMoon CAP is absolutely not abandoned. It is autonomous and community developers contribute frequently. 
+
+The latest updates were today. They can all be tracked openly on the Github repo.",4,1,1,2022-09-04
+220,2022-09-06 17:50:18+00:00,1567208584081035266,CapDotFinance,"@basednick_eth This is probably just the difference between the price displayed in the UI and the oracle price, probably due to volatility. Actual P/L executed by oracle is likely lower.",1,1,0,2022-09-06
+223,2022-09-12 21:37:04+00:00,1569439979973263360,CapDotFinance,The community keeps growing. https://t.co/jCw1yMWTQq,27,3,2,2022-09-12
+227,2022-09-14 19:52:41+00:00,1570138486346514432,CapDotFinance,📉🔥 https://t.co/Estg3ameFt,13,6,2,2022-09-14
+228,2022-09-16 10:01:51+00:00,1570714575582142464,CapDotFinance,"@_supercycled @nic_auto Feedback noted, thanks. These UI elements can definitely be made clearer in v4. For now:
+- the leverage slider appears when clicking on ""50x""
+- liq price is displayed in the order confirmation window",3,2,0,2022-09-16

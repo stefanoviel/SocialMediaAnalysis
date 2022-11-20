@@ -1,0 +1,56 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2022-05-11 20:29:20+00:00,1524486837330317313,CantoPublic,... https://t.co/5eh0UwukSM,58,3,13,2022-05-11
+1,2022-07-07 16:00:51+00:00,1545075380993675266,CantoPublic,"Verifying my identity for @viamirror
+
+sig:0xf59dad9ce15f838195bb3527e19bd7cc815cfbdb8cc10a771c5a06720339e7a95aeffa87dca4a106f3df12d50dbb17872097e33850d68c8b8f377257c7dec1061b
+
+https://t.co/7SOl2ynCW7",98,6,32,2022-07-07
+2,2022-07-08 21:32:20+00:00,1545521187177971712,CantoPublic,"New systems should be accessible, transparent, decentralized, and free.
+https://t.co/b5Dmlywjxf",399,23,109,2022-07-08
+3,2022-07-13 22:16:31+00:00,1547344247828856832,CantoPublic,"$NOTE is Canto’s unit of account.
+https://t.co/BsXathHXeY",241,10,75,2022-07-13
+4,2022-07-15 23:46:26+00:00,1548091650823450625,CantoPublic,"Details on Canto's launch sequence. 
+https://t.co/i3gRKLMnvY",934,161,603,2022-07-15
+5,2022-07-18 02:10:36+00:00,1548852708089614337,CantoPublic,"Some background on Canto contributors, @Plex_Official. Follow for more updates. https://t.co/gDdYc1QQJQ",88,8,19,2022-07-18
+7,2022-08-15 22:50:53+00:00,1559311693653483520,CantoPublic,"Details on Canto genesis &amp; token distribution for the Canto network.
+https://t.co/DyOGvZP3mX",773,129,296,2022-08-15
+8,2022-08-17 15:12:26+00:00,1559921097050443777,CantoPublic,"Admin keys for the Canto Lending Market (CLM) protocol have been offered to the DAO. Can be accepted by DAO via proposal.
+
+https://t.co/eytldf4jCV https://t.co/vlPCTzJ2W4",252,34,66,2022-08-17
+12,2022-08-18 14:58:45+00:00,1560280041799307264,CantoPublic,"The following liquidity mining program will be proposed to the DAO. A submission time has not yet been set.
+https://t.co/Tw7CVP6i5g",351,40,110,2022-08-18
+13,2022-08-19 19:06:23+00:00,1560704750672175105,CantoPublic,"Voting is now live to initiate the Canto liquidity mining program. 
+
+The program will begin immediately when the proposal is executed on-chain.
+
+Vote: https://t.co/kQifZ9iXcN https://t.co/B8pTTIEC54",321,35,78,2022-08-19
+16,2022-08-23 22:57:16+00:00,1562212404108222464,CantoPublic,"Canto Testnet is now available at the following RPC settings:
+
+Network Name: Canto Testnet
+RPC URL: https://t.co/iOdDcPeBdv
+Chain ID: 740
+Currency Symbol: CANTO
+
+No testnet block explorer yet.",792,157,238,2022-08-23
+17,2022-09-01 18:01:09+00:00,1565399377358749696,CantoPublic,"CIP-1: Contract Secured Revenue, a proposal to fulfill Canto’s vision of a shared blockchain economy.
+https://t.co/UBlDmVX9Ol",328,25,83,2022-09-01
+18,2022-09-08 21:15:03+00:00,1567984886677647360,CantoPublic,"Join the first Canto Online Hackathon for apps, infrastructure, and original work.
+https://t.co/BMVyOrgbp0",190,11,68,2022-09-08
+19,2022-09-13 19:43:35+00:00,1569773808357343232,CantoPublic,"Canto design philosophy is to favor economic motivations where they are effective, and social motivations where necessary. 
+
+Public Infrastructure is built because it is in the public’s own interest. Ready to build? 
+https://t.co/mD7o5XCWpm",111,20,37,2022-09-13
+20,2022-09-16 02:01:31+00:00,1570593693186555905,CantoPublic,"Incoming proposal for the Canto DAO.
+https://t.co/nbCPOSxc2l",118,12,22,2022-09-16
+21,2022-09-17 15:24:37+00:00,1571158187507875842,CantoPublic,"The following liquidity mining program will be proposed to the DAO. A submission time has not yet been set.
+https://t.co/HLWMinQHem",156,12,34,2022-09-17
+22,2022-09-18 16:13:27+00:00,1571532865162350594,CantoPublic,"A governance proposal has been submitted to fund the Canto liquidity mining program.
+
+Vote: https://t.co/kQifZ91UaN https://t.co/x5Ga8tgvtY",148,13,31,2022-09-18
+25,2022-09-19 00:35:14+00:00,1571659144847044609,CantoPublic,"Resubmitted proposals 18-19 have passed enacting a reduction in emissions, as outlined below. 
+https://t.co/HLWMinQHem",69,5,11,2022-09-19
+26,2022-09-23 19:46:28+00:00,1573398414104342528,CantoPublic,"Voting is now live for the @SynapseProtocol proposal to deploy onto Canto.
+
+If passed, teams will launch a new liquidity pool (nUSD / NOTE) to enable users to bridge assets between Canto, Arbitrum, Optimism, Avalanche, &amp; BNB Chain.
+
+SYN holders vote here: https://t.co/LfXay1uizo https://t.co/zC97T1xpiO",145,17,38,2022-09-23

@@ -1,0 +1,1315 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-09 18:06:02+00:00,1215333924378988544,cardstack,2020 is the year of launches! From Card Space to Tally and the Card Catalog—here’s a deep dive into our roadmap for the Cardstack Project. https://t.co/DMFGKnjCql,9,0,2,2020-01-09
+1,2020-01-17 17:45:28+00:00,1218227853243965440,cardstack,"The new Cardstack website will be launched in the coming days, presenting our product orientation in a user-friendly language and design (incl. a sneak preview of the Cardstack Builder)!",9,1,3,2020-01-17
+2,2020-01-29 14:37:27+00:00,1222529193763901443,cardstack,"We have launched the new Cardstack website! Check it out to learn all about our no-code product and our full-stack technology, as well as our design &amp; development studio. https://t.co/iWZdVl6cU6",18,1,9,2020-01-29
+3,2020-02-06 21:35:51+00:00,1225533586587226113,cardstack,"Watch our newest video, which shows you how to create custom themes for your cards, using the CSS features of the Cardstack Themer: https://t.co/8hIgAeJath",5,0,2,2020-02-06
+4,2020-02-18 10:42:49+00:00,1229717902254886914,cardstack,"Our new website presents the powerful tools we offer users—like a form creator, access control, white-label support, interactive messaging, task synchronization (based on our Gitchain technology), and automation (e.g. to generate invoices and payments). https://t.co/iWZdVl6cU6 https://t.co/zPp8BRTnfl",12,1,4,2020-02-18
+6,2020-02-19 08:48:18+00:00,1230051472592850944,cardstack,"The new Cardstack website gives you a sneak preview of our app building tool, which allows users to assemble, configure, style &amp; publish their own apps without writing any code. https://t.co/iWZdVl6cU6
+Learn more about the Cardstack Builder on our blog: https://t.co/h3d56S3HHG https://t.co/NsRbbkq8J2",9,1,6,2020-02-19
+8,2020-02-20 15:05:33+00:00,1230508796671397889,cardstack,"Hosting providers in the Cardstack ecosystem will benefit from a global software catalog, unified billing &amp; payments, cross-honored memberships, and a token-curated registry. Check out our new website to learn more about the Cardstack membership network:
+https://t.co/iWZdVl6cU6 https://t.co/X2851H2P79",10,0,2,2020-02-20
+10,2020-02-21 08:36:10+00:00,1230773194056818691,cardstack,"Our mission: Cardstack aims to jumpstart Web 3.0—by offering connections without intermediaries between individuals &amp; organizations through a 3-part approach: Open Source, Open Marketplace, Open Protocol.
+https://t.co/iWZdVkOBvw https://t.co/NRtHFDEGQv",9,0,2,2020-02-21
+12,2020-02-24 14:42:22+00:00,1231952512023961600,cardstack,"We started the 2020s with a cooperative mindset to replace the competitive focus of the last decade. Cardstack is building an inclusive ecosystem, where users drive usage, developers create new tools, and the protocol community ensures that all participants work well together. https://t.co/mTHXMz01VW",4,0,2,2020-02-24
+13,2020-02-25 17:40:08+00:00,1232359636524838914,cardstack,"Last year, we built open-source apps around DeFi, content syndication, and media registries. This year, we will unify the features of these apps into one common runtime, based on Card Schema V2, ensuring that all our applications share the same foundation. https://t.co/92SZZ8GWx3",8,0,2,2020-02-25
+14,2020-02-26 14:06:32+00:00,1232668269875691522,cardstack,"Card Space will be the first hosting platform for dApps in the Cardstack ecosystem. It empowers users who don’t have the technical capabilities to run their own decentralized apps, by offering them a one-click hosting service that is reliable, cost-effective, and easy to use.",12,1,1,2020-02-26
+15,2020-02-27 14:37:41+00:00,1233038498933940226,cardstack,"We are upgrading the Card SDK (launched in 2019) from V1 to V2, which improves the encapsulation of code, making it easier for developers to reuse modules they have created in other cards. The future Card SDK V2 documentation will be available here: https://t.co/13F5S8Hegm",5,0,0,2020-02-27
+16,2020-02-28 14:27:30+00:00,1233398325233274880,cardstack,"Write code – don’t write code. Either way, you can be an app maker! We are creating easy-to-use drag-and-drop &amp; point-and-click tools for assembling and configuring cards the no-code way. Read all about our card building tool: the Cardstack Builder. https://t.co/h3d56S3HHG",8,2,3,2020-02-28
+17,2020-03-02 15:33:46+00:00,1234502163465953283,cardstack,People like prebuilt templates. That’s why we encourage all card makers (both those who write code and those who use the Cardstack Builder) to share the card templates they create with the greater community—by adding them to the Card Catalog for other people to download and use.,10,0,2,2020-03-02
+18,2020-03-03 14:49:09+00:00,1234853323666284545,cardstack,"We are creating a complete design system inspired by 3D open-world games, aiming to give users a cohesive experience across all the capabilities we offer—from assembling, searching, adding, and collecting cards to combining them into high-level workflows. https://t.co/DMFGKnjCql https://t.co/XcHjyMhgUb",10,0,3,2020-03-03
+19,2020-03-04 15:11:30+00:00,1235221336328413184,cardstack,"Some platforms facilitate communication. Some platforms facilitate transactions. But usually, they don’t do both. At Cardstack, we combine transactions &amp; communication to enable true cooperation—as cards travel between users’/organizations’ spaces through interactive workflows.",6,0,4,2020-03-04
+20,2020-03-05 16:34:04+00:00,1235604501987540993,cardstack,"We are designing a distributed query service called multi-hub interaction, enabling cards to move between realms, with each realm representing its own security &amp; access control rules. These interactions are based on the git protocol—which allows for version control &amp; tracking. https://t.co/WdPPICWvxj",7,0,3,2020-03-05
+21,2020-03-06 14:27:22+00:00,1235935005068726274,cardstack,"A sustainable ecosystem runs on top-line revenue, as customers pay real money for products/services. That’s why a crucial part of our strategy is our billing &amp; reward system–Tally–which will allow users to pay for services on the Cardstack network in the currency of their choice.",12,0,1,2020-03-06
+22,2020-03-09 13:16:08+00:00,1237004242470219777,cardstack,"The CARD token will be used to govern the Card Catalog via a staking mechanism. This allows people who are knowledgeable about crypto economics and software quality to act as reviewers for new cards that are submitted. 
+Read about the CARD Protocol here: https://t.co/pNUdzrXIIY",8,0,2,2020-03-09
+23,2020-03-11 17:36:51+00:00,1237794628696449035,cardstack,"Anyone can offer their services in the Cardstack network! A global vendor registry built on Githereum (git and Ethereum) will allow providers, developers, as well as designers to list and promote themselves, thus gain visibility for their services.
+https://t.co/iWZdVl6cU6",7,0,3,2020-03-11
+24,2020-03-17 17:54:05+00:00,1239973293379088384,cardstack,Milestone alert: We have successfully merged the new version of the Cardstack Hub (including Card Schema V2) with the main Cardstack Builder codebase. Read all about it here: https://t.co/tdbh7Tc2yl,11,0,2,2020-03-17
+25,2020-03-18 15:16:58+00:00,1240296140362469377,cardstack,"Check out the latest installment of our developer series, which gives you an early sneak peek into the Cardstack Builder with its GitHub integration! https://t.co/PndGcTcBpu",8,1,0,2020-03-18
+26,2020-04-02 15:58:33+00:00,1245742426091687938,cardstack,"Check out our latest tutorial, where we show you how to create advanced cards using Dev Mode in the Cardstack Builder.
+https://t.co/kL2Nq27P6P",6,0,3,2020-04-02
+27,2020-04-16 16:29:10+00:00,1250823560119140357,cardstack,"Presenting the internal beta version of the Cardstack Builder! Developers will be able to play around with Dev Mode soon.
+https://t.co/RowzYcOowD",11,3,3,2020-04-16
+28,2020-05-14 17:07:19+00:00,1260980018823471109,cardstack,"@christse is giving a talk at #ConsensusDistributed tomorrow (Friday, May 15) at 10:50 am ET. Tune in to hear him speak about the “Building Blocks for the New Creative Economy”. Register for free: https://t.co/4P25nR7kpB",2,0,0,2020-05-14
+29,2020-05-18 14:23:05+00:00,1262388240604180482,cardstack,"@christse spoke at #ConsensusDistributed on Friday. The topic: “Building Blocks for the New Creative Economy.” If you missed it, you can rewatch his presentation here: 
+https://t.co/85ibKK3f22",1,0,2,2020-05-18
+30,2020-05-20 13:22:25+00:00,1263097750352211968,cardstack,"Did you see @christse’s talk at #ConsensusDistributed last week? If you’d like to hear more about the “Building Blocks for the New Creative Economy”, check out the longer version of his talk: 
+https://t.co/NvZEHePyxS",7,0,10,2020-05-20
+31,2020-05-24 17:57:27+00:00,1264616514164002817,cardstack,"@tobyallen007 This is a full-stack demo: nocode UI, interacting with a user-defined, schema-driven API, persisting config &amp; data to Git/GitHub for record keeping.
+
+Working on a Airtable-style list management UI so you can actually make a useful, open source data collection app with #nocode.",6,1,2,2020-05-24
+33,2020-06-16 15:11:45+00:00,1272909739123449860,cardstack,"Our latest blog post is based on @christse’s talk at #ConsensusDistributed. What is the current state of the content distribution network? Where does the blockchain come in? And how does it relate to the Cardstack platform?
+https://t.co/ZUK781t2Hj",11,1,4,2020-06-16
+34,2020-06-29 16:28:41+00:00,1277640140517789696,cardstack,"Check out the latest talk by @christse, who speaks about the history of software distribution—how software started out as a product, evolved into a quote, a resource, and a service, and will become a powerful tool that connects coders and non-coders.
+https://t.co/owNbPwbc1a",12,3,8,2020-06-29
+35,2020-06-30 14:10:13+00:00,1277967682487214080,cardstack,"Our latest blog post dives deeper into the history of software and the business model behind Software-as-a-Tool, while it is less tech-oriented than @christse’s talk about “The Evolution of Software Distribution”.
+https://t.co/DZeM60FgJQ",13,1,3,2020-06-30
+36,2020-07-21 16:24:34+00:00,1285611635776778245,cardstack,We’ve updated our 2020 roadmap! Take a look at this blog post to get our latest progress update: https://t.co/2Vra04ZK5S,17,7,3,2020-07-21
+37,2020-08-13 16:50:04+00:00,1293952977267560448,cardstack,"Introducing the Cardstack Membership System: Learn about the various ways in which members can help grow the ecosystem and earn rewards—as Card Stackers, Card Makers, or Card Members.
+https://t.co/9gKZ5CCStr",23,10,8,2020-08-13
+38,2020-08-14 20:47:53+00:00,1294375209961693193,cardstack,@0xVoyta @EnsBot Yes. We reserved it with our wallet and pointed it at the correct contract address for CARD. Will integrate it more deeply into our own ENS resolver system going forward.,2,0,0,2020-08-14
+39,2020-11-13 16:47:39+00:00,1327292050727981057,cardstack,1/ What would you prefer: 10 tools for 1 workflow or 1 tool for 10 workflows?,10,2,2,2020-11-13
+45,2020-11-16 17:38:48+00:00,1328392088766066692,cardstack,"7/ But most importantly, the queue is the place where you click on a queue item to open a thread. https://t.co/lqjyUizNto",6,0,0,2020-11-16
+59,2020-11-17 16:33:55+00:00,1328738147593838593,cardstack,"5/ For instance, if you add participants at a later point, you get to choose how much they see: Do you want them to see the entire thread history? Or do you want them to see only messages sent after they have joined? Either way, you can adjust the settings based on your needs.",6,0,0,2020-11-17
+70,2020-11-18 15:56:10+00:00,1329091036107272194,cardstack,"2/ Take an action, reach a milestone. That’s the basic idea. But it’s a little bit more complicated, because there are different kinds of actions—typically in the form of buttons you can click. https://t.co/7SlvgdQQSd",2,1,0,2020-11-18
+78,2020-11-19 08:51:32+00:00,1329346559235006465,cardstack,1/ Let’s talk about Milestones in the Cardstack Workflow.,5,1,1,2020-11-19
+92,2020-11-20 17:06:05+00:00,1329833403047415812,cardstack,"2/ The Cardstack Workflow makes your work life easier, because it keeps you updated on the progress of all your projects.",3,1,0,2020-11-20
+104,2021-01-27 22:18:09+00:00,1354554315659210760,cardstack,What Cardstack is working on: https://t.co/dXPrgywMsp,26,10,8,2021-01-27
+105,2021-02-09 00:57:03+00:00,1358942958725206016,cardstack,"If you are on Clubhouse, Cardstack’s founding director @christse will be speaking about new crypto trends in a few minutes. Join us!
+
+https://t.co/IPtikH59iv",14,2,4,2021-02-09
+106,2021-02-26 23:36:35+00:00,1365445689958944768,cardstack,"Welcome newcomers to the Cardstack community! We post weekly updates to the Telegram channel on Friday https://t.co/BlgjkAA5tA 
+
+To catch you up, here is a compilation of our Friday updates from the last year. https://t.co/5sHxsuMMcC",41,13,20,2021-02-26
+107,2021-03-01 16:06:08+00:00,1366419492587323399,cardstack,"Check out this new video, where @christse talks about his vision and strategy for Cardstack—specifically about his plans to grow the ecosystem. 
+https://t.co/dDxpu0tmyZ",40,9,17,2021-03-01
+108,2021-03-02 09:27:15+00:00,1366681499072745472,cardstack,"The underlying smart contracts here function both for paying the fees necessary to conduct on-chain transactions on the layer-2 blockchain, and for add-ons from the catalog in the future.",14,0,0,2021-03-02
+113,2021-03-03 07:44:03+00:00,1367017914696572928,cardstack,Here's a quick update on #CatalogJS. We're setting up the content distribution network (CDN) hosted on https://t.co/my9xM74qLf. We're currently testing this so packages that are processed by CatalogJS can be accessible in a fast &amp; efficient way over a global network. https://t.co/kddIp5ouYR,19,2,5,2021-03-03
+120,2021-03-04 11:16:01+00:00,1367433646739578882,cardstack,Our approach for NFTs is not specific to the current excitement around crypto art or collectibles. We’re focused on a generalized mechanism for inventing new patterns of commerce and engagement between creators and their fans/cult.,16,1,4,2021-03-04
+126,2021-03-05 14:18:35+00:00,1367841977002307590,cardstack,"5/ Now, in Business 3.0, instead of connecting through centralized marketplaces—and letting them take a large cut of our share—we coordinate an economic arrangement that allows us to earn our fair reward, share in the upside, and create better norms.",8,1,1,2021-03-05
+134,2021-03-08 13:05:37+00:00,1368910780154998790,cardstack,Just one more hour before our product talk on #CardPay begins. Not too late to set those alerts so you don't miss it! https://t.co/W6aiTn6586,17,4,6,2021-03-08
+135,2021-03-09 11:00:03+00:00,1369241568348049408,cardstack,"Culture 3.0 is saying “I'm more than just a person, a user, a hashtag or a username within this platform. I am an entrepreneur, I’m someone who’s going to be able to take the value I’ve co-created, with my audience and followers, and build something together”. $CARD #Cardstack https://t.co/VTdVjsxYPa",34,5,19,2021-03-09
+136,2021-03-10 10:12:28+00:00,1369591979500179460,cardstack,"Tech 3.0, Business 3.0 and Culture 3.0 is actually one thing. If we bring all these techniques together, we will be able to build something way greater than just looking at each one of those things in isolation. #Cardstack $CARD https://t.co/zJVII278Lh",25,0,8,2021-03-10
+142,2021-03-11 10:00:04+00:00,1369951245864083456,cardstack,"4/ We are using the documentation website for the #Boxel design system internally to keep track of progress. We will open-source the codebase with a narrative experience, as we prepare to introduce the #Boxel design system to designers &amp; developers working in the Web 3.0 space.",18,0,3,2021-03-11
+146,2021-03-12 10:05:47+00:00,1370315073739059208,cardstack,"1/ On the product development front, we're currently using the #Boxel design system to create a dApp builder &amp; hosting service called #CardSpace. https://t.co/9zdIyMhHv3",35,2,16,2021-03-12
+151,2021-03-15 13:10:22+00:00,1371448688569106434,cardstack,"Last week, @christse introduced #CardPay. Today, learn more about $CARD Pay, as we dive deeper into the details of the #CardPayProtocol. Tune in now: https://t.co/prEirWGvCv",28,1,9,2021-03-15
+152,2021-03-16 09:00:05+00:00,1371748091053830145,cardstack,"3/ We're also preparing to add some flexibility to our smart-contract implementation, so as to support multiple types of fiat on-ramps as well as other layer-2 chains in addition to the xDAI chain. Stay tuned! $CARD",15,2,2,2021-03-16
+156,2021-03-17 11:00:07+00:00,1372140687186042882,cardstack,"1/ On the framework that will lead to the #CardSDK, our focus is to improve the performance by moving our #CardSchema from a JSON model (configuration encoded as data) to a JavaScript model (configuration encoded as code). https://t.co/X6WsIBETId",30,2,9,2021-03-17
+161,2021-03-18 09:14:29+00:00,1372476489543741442,cardstack,The Cardstack ecosystem is about a decentralized network of designers and developers coming together to compete with the centralized superpowers of Silicon Valley. Learn more about the #Cardstack ecosystem here: https://t.co/zUtHj48eAG,27,3,10,2021-03-18
+162,2021-03-19 12:30:07+00:00,1372888111550754821,cardstack,"3/ There are more capabilities being added to that library in anticipation of the type of 2.5-dimension, a user-driven composition that is needed for the #CardSpace product. $CARD",18,1,0,2021-03-19
+170,2021-03-22 09:00:10+00:00,1373922438736609282,cardstack,Have you set your alerts? Our Premiere on NFTs will be airing today at 9 am EDT / 2 pm CET / 9 pm SGT. We look forward to seeing you then! $CARD https://t.co/5CLN3nvNtD,21,0,4,2021-03-22
+173,2021-03-23 10:10:14+00:00,1374302459561091075,cardstack,1/ We have reached a milestone in developing the #CatalogJS build system! The entire end-to-end run-through of the Ember app (an open-source framework that #Cardstack is built upon) can now compile and build on this new infrastructure. $CARD https://t.co/V4k3zKVmeo,41,4,8,2021-03-23
+177,2021-03-24 12:00:02+00:00,1374692479727853573,cardstack,"1/ Cardstack's upcoming focus will be to build our first-party user experiences, where the #Cardstack team will be leveraging the #Boxel design system to build polished user interfaces. https://t.co/yuzKPdQDcT",28,1,5,2021-03-24
+179,2021-03-25 14:00:06+00:00,1375085082013143044,cardstack,3/ We are spending the effort to ensure that all the day-to-day operations expected of an Ethereum mainnet / DeFi wallet are adequately tested and polished.#Cardstack,19,0,0,2021-03-25
+184,2021-03-26 08:00:04+00:00,1375356867644284933,cardstack,2/ The cloud infrastructure to support #CardPay will be the same as the ones to support #CardSpace. The separate dApps are just different sections of the same “super app.”,20,0,0,2021-03-26
+186,2021-03-29 12:00:08+00:00,1376504443496136705,cardstack,One more hour to go. Have you set your alerts and reminders? Be sure to join us for a talk on #CardSpace happening very soon now!  $CARD https://t.co/Ttx2wCTuu0,22,2,2,2021-03-29
+188,2021-03-30 08:10:45+00:00,1376809108196765698,cardstack,"Cardstack is not purely a blockchain project—it is a project that combines cloud &amp; blockchain technology. We are reusing the proven, rethinking the broken &amp; inventing the missing links. How is #Cardstack doing this? Read more here: https://t.co/NL8PLnZK6m",26,0,5,2021-03-30
+190,2021-03-31 09:00:05+00:00,1377183907574030342,cardstack,"2/ #CardPay depends on many supporting services that will index the blockchain, provide meta transaction relay services, &amp; interact with fiat on-ramp APIs. $CARD",11,1,0,2021-03-31
+197,2021-04-01 15:18:19+00:00,1377641484460113922,cardstack,"#Cardstack founder @christse participated in a panel discussion about “Ensuring User Privacy &amp; Security of DeFi and Crypto Applications”. If you missed it, you can watch his section of the discussion here - https://t.co/jkeaY9NSmA $CARD",18,1,3,2021-04-01
+206,2021-04-02 08:30:01+00:00,1377901118462697473,cardstack,"1/ On the compiler front, we continue to work on migrating #Cardstack from a configuration as JSON data to a #CatalogJS code approach.",16,1,0,2021-04-02
+213,2021-04-05 12:00:01+00:00,1379041131061727232,cardstack,"The #Cardstack Roadmap premiere begins in just one hour, remember to set your reminders! https://t.co/CmjOtHve1q $CARD",24,1,1,2021-04-05
+215,2021-04-06 12:00:16+00:00,1379403580499628033,cardstack,4/ We're also focusing on getting the dashboard layout and the WalletConnect modal working within a responsive system. Stay tuned! $CARD,19,0,0,2021-04-06
+220,2021-04-07 08:35:24+00:00,1379714413423337473,cardstack,"1/ #Cardstack's lead developer @eaf4 gave the closing keynote at the 2021 @EmberConf. Ed showcased a new type of build system that eliminates the need for npm install, shifting the work of building a JavaScript application from the server to the browser through service workers. https://t.co/JgbGfqC3Xg",29,3,5,2021-04-07
+228,2021-04-08 07:30:05+00:00,1380060363534729220,cardstack,"1/ On the #Cardstack mobile app, our focus is to make sure that the build system is automated, so we can rapidly release new versions and add new capabilities, new screens, and new handling for user actions. $CARD",24,2,4,2021-04-08
+233,2021-04-09 13:46:01+00:00,1380517355869118473,cardstack,"The 2021 roadmap for the #Cardstack Project has been released! Check out this article, which talks about the product launches we have planned for this year. $CARD  https://t.co/foCIccNmHv",50,3,16,2021-04-09
+236,2021-04-12 09:00:01+00:00,1381532548241612802,cardstack,It's happening today! The #CardstackAMA will go Live at 9 am EDT / 3 pm CEST / 9 pm SGT. Set your reminders now so you don't miss it: https://t.co/ipeFOCF9bC $CARD,22,0,1,2021-04-12
+239,2021-04-13 08:51:48+00:00,1381892868952915969,cardstack,1/ We recently announced the first of our technology integration partnerships—between Cardstack and xDAI! $CARD https://t.co/PMfwjrlbBW,65,2,13,2021-04-13
+243,2021-04-14 13:32:45+00:00,1382325956786937859,cardstack,Here's a quick recap of what's been going on at #Cardstack this past week: https://t.co/PSXUBXD7ib $CARD,34,3,11,2021-04-14
+245,2021-04-15 07:00:08+00:00,1382589539558977537,cardstack,"1/ At Cardstack, work is proceeding rapidly on the #CardPay Web application, to complete a very sophisticated layer-1 / layer-2 bridging workflow. https://t.co/N1O6YOGIfO",77,4,37,2021-04-15
+251,2021-04-16 15:57:42+00:00,1383087210711412747,cardstack,"We're grateful to our community for making our first #Cardstack AMA session a success! A lot of great questions were asked and addressed. For those who missed this session, we've compiled the questions in a two-part blog series. Here's Part 1: https://t.co/KKxqQjxmU7 $CARD",46,12,14,2021-04-16
+253,2021-04-19 07:39:05+00:00,1384048893285912583,cardstack,"The inspiration for #CardSpace comes from the reality that creators are faced with today, dominated by big names like Google or Amazon—centralized apps sitting between the world’s creative output &amp; the world’s audiences. Learn more: https://t.co/rjlj7IjUN1 $CARD https://t.co/7oZYIDB5zC",31,1,9,2021-04-19
+255,2021-04-20 08:45:22+00:00,1384427964675158016,cardstack,"1/ We anticipate that #CardPay will be used for online, crypto, physical, as well as ephemeral goods and services. The easiest place to start is simple NFTs, which represent digital objects. $CARD",45,2,12,2021-04-20
+263,2021-04-21 07:30:00+00:00,1384771384824373254,cardstack,"#CardSpace gives people the ability to express their creativity, as they are laying out content and tools within their own unique space. Watch this video to learn more about what you can expect from Card Space: https://t.co/Ttx2wCTuu0. $CARD https://t.co/uHhinLDCfH",44,12,12,2021-04-21
+265,2021-04-22 07:30:02+00:00,1385133779954454538,cardstack,3/ That work will continue until the remainder of the workflows is completed. Stay tuned for more exciting developments! $CARD,23,1,2,2021-04-22
+269,2021-04-23 07:30:01+00:00,1385496164670214144,cardstack,"1/ On the Card compiler front, we continue to port the capability of nested cards—which is very important for the synthesis of data about assets—into the new (V3) version of the #Cardstack Hub.",25,2,6,2021-04-23
+272,2021-04-26 07:30:00+00:00,1386583324081238016,cardstack,Current NFT platforms do not have a way to support more complex mixed-media expressions—or ways to download a source file to be able to make any changes or edits. What's the solution then? Watch this chapter of What's in Your NFTs? : https://t.co/OwnGBehsNw $CARD https://t.co/YBzeOomd34,32,3,8,2021-04-26
+273,2021-04-27 12:00:25+00:00,1387013765850300420,cardstack,"3/ Since stablecoins do fluctuate in price, we need to access a reliable decentralized price feed, so that we can display and charge customers the correct number of stablecoins for a particular USD value. $CARD #Cardstack",18,0,1,2021-04-27
+277,2021-04-28 14:11:09+00:00,1387409051823259650,cardstack,Check out what we've been up to this past week! https://t.co/mXhwvta7yL #Cardstack $CARD,37,12,13,2021-04-28
+284,2021-04-29 12:15:11+00:00,1387742255142875143,cardstack,"4/ We have completed the design phase of this product conception. We are now using these mockups to guide the protocol design, so that crypto commerce is supported on the #CardPay protocol.",22,2,1,2021-04-29
+294,2021-04-30 10:30:00+00:00,1388078175469641728,cardstack,Want to learn how #Cardstack works both with and without the blockchain? Check out the #CardstackAMA chapter where @christse explains this: https://t.co/O2XkOeJ1Ci $CARD https://t.co/9PCLUCuc7U,51,5,23,2021-04-30
+295,2021-05-03 08:07:50+00:00,1389129561854468097,cardstack,"Having a set of tools to mix &amp; match your ideas and creative work is important. In this chapter, @christse  talks about this and how open-sourced software is important: https://t.co/qeuBfiQmPR $CARD https://t.co/JhDaYG7mcL",33,0,5,2021-05-03
+297,2021-05-04 07:32:36+00:00,1389483081904623619,cardstack,1/ Another milestone completed! We are now doing repeatable and continuous deployment of our #CardPay smart contract to testnet.,64,12,21,2021-05-04
+302,2021-05-05 08:12:47+00:00,1389855580236353538,cardstack,3/ Our internal developers currently use this SDK. But it has been added to the main #Cardstack monorepo to be part of our overall developer toolkit moving forward.,29,0,1,2021-05-05
+306,2021-05-06 04:17:29+00:00,1390158753824083973,cardstack,We are pleased to announce that Cardstack ($CARD) is now listed on KuCoin. View this official link for more details: https://t.co/W1gqmrDArt https://t.co/rsr0zH4e0C,79,11,19,2021-05-06
+313,2021-05-07 12:00:15+00:00,1390637600742920193,cardstack,"4/ This will determine how much reward each wallet gets within the reward cycle. At the conclusion of the reward cycle, wallet holders will be able to send a single transaction to our reward pool so they can redeem a set of tokens they have earned in that time in one step. $CARD",15,1,0,2021-05-07
+323,2021-05-10 10:30:00+00:00,1391702053555146753,cardstack,"Decentralized payments have become very difficult, as the fees on mainnet have grown up to a point where it no longer makes sense to make small transactions on the blockchain. #CardPay solves this issue! Learn more about Card Pay here: https://t.co/JGVBP7jGi1 $CARD",93,13,29,2021-05-10
+325,2021-05-11 08:08:47+00:00,1392028903422652416,cardstack,"Watch @christse talk about the #Cardstack Project with @GainsAssociates. Chris delves into use case examples, the benefits of decentralization, the Cardstack marketplace, NFTs, and much more.  https://t.co/SRvjsfHJRe  $CARD",46,4,9,2021-05-11
+329,2021-05-12 07:30:00+00:00,1392381529171574785,cardstack,Developers are very overwhelmed these days. @christse explains how #Cardstack improves developers' work: https://t.co/TUbYHOsyno $CARD https://t.co/6IUTvKUf1g,51,1,16,2021-05-12
+332,2021-05-13 12:00:09+00:00,1392811902447742978,cardstack,"6/ We also use those same exact rates to deduct the right number of tokens from the user's wallet and deposit them in the revenue pool, from where the merchant can then claim his earnings. This lies at the core of the #CardPay protocol. $CARD",40,0,2,2021-05-13
+338,2021-05-14 12:00:03+00:00,1393174265298444292,cardstack,"4/ We are refining the merchant onboarding experience so that merchants who want to accept #CardPay can use the dApp, and then present either a link or a QR code to their customers, so they can pay with their prepaid card balance in their wallet. $CARD",32,1,6,2021-05-14
+345,2021-05-17 07:35:22+00:00,1394194819463802881,cardstack,What is the #Cardstack Project and what are we building? Learn more in this interview with @christse: https://t.co/55odnqHzxn $CARD https://t.co/lnFcvw2buj,54,2,22,2021-05-17
+351,2021-05-18 08:00:01+00:00,1394563411565023235,cardstack,What does it take to render an NFT? Watch @christse talk about the issues surrounding this topic: https://t.co/FF9OUwXkub  $CARD https://t.co/OXNbDCETKX,51,5,17,2021-05-18
+353,2021-05-19 08:19:31+00:00,1394930704488669188,cardstack,"4/ At the same time, it allows us to add new models to represent business logic and database queries that will enable us to calculate the distribution among all eligible wallets. $CARD",27,0,2,2021-05-19
+358,2021-05-20 11:48:45+00:00,1395345749387456522,cardstack,What's exciting about #Cardstack? How does #CardPay work? What is the role of the $CARD token? How are we using #Chainlink? These and many more questions were addressed in our AMA with @Chainlink last week. https://t.co/KxFhFyRklP,53,9,17,2021-05-20
+365,2021-05-21 07:35:19+00:00,1395644358787883008,cardstack,"1/ We are extending an existing open-source library published by the #Cardstack team, called the ""Merkle Payment Pool"", to create a multi-token distribution system.",56,4,14,2021-05-21
+370,2021-05-24 10:30:00+00:00,1396775481974865921,cardstack,"#CardPay is a payment and reward network that enables people to transact with each other at a low cost, using layer-2 technology. Learn more about Card Pay from @christse: https://t.co/SSBXYCrNPA",59,7,24,2021-05-24
+372,2021-05-25 14:30:00+00:00,1397198267205685253,cardstack,How is #Cardstack different from Google Drive as a collaboration tool? Because of the built-in transaction capabilities. @christse talked about this in our first AMA: https://t.co/avWvhF8IYS $CARD https://t.co/JuOC40pjGs,53,6,26,2021-05-25
+374,2021-05-26 06:30:00+00:00,1397439859929792513,cardstack,"In a strategy talk about ""What's in your NFT?"", @christse spoke about all the different parts that make up an NFT: https://t.co/5CLN3necC5 $CARD https://t.co/d7lTL1yOV1",41,6,8,2021-05-26
+376,2021-05-27 14:01:14+00:00,1397915806491570177,cardstack,"5/ Our protocol leverages the Arbitrary Message Bridge (AMB) to facilitate all steps necessary to lock tokens on layer 1, mint tokens on the layer-2 blockchain (ERC-677 standard), and deposit those tokens into a depot (a Gnosis Safe smart-contract wallet). $CARD",23,1,2,2021-05-27
+388,2021-05-28 14:02:10+00:00,1398278427237617665,cardstack,"SaaS companies like Stripe, Square, Shopify, Salesforce, Slack, SoFi, Snowflake etc. are the big players now – until Web3 takes over. Watch @christse compare these Web2 services to #Cardstack. https://t.co/cdLVDtgPeS $CARD https://t.co/7tR7iYWFbl",47,7,24,2021-05-28
+396,2021-05-31 10:49:01+00:00,1399316984156803072,cardstack,"Learn more about #CardPay, our DeFi payment and reward system—consisting of a Web dApp for supplying tokens &amp; issuing prepaid cards and a mobile wallet for biometric payments. https://t.co/AndKmtxWGW $CARD",66,10,21,2021-05-31
+397,2021-06-01 16:06:16+00:00,1399759210624266244,cardstack,"LIVE NOW: @christse is now speaking at the Hyperledger Media &amp; Entertainment SIG about the ""Building Blocks for the New Creator Economy"" – watch the live stream here: https://t.co/nR6vouksdd",30,2,6,2021-06-01
+406,2021-06-02 06:04:49+00:00,1399970238465077253,cardstack,"1/ On the mobile development front, work is continuing on the treatment of layer-2 assets. We are making sure that information we can source from public APIs (like Etherscan and Coingecko) is properly reflected in the #CardWallet, be it in numbers or charts. $CARD https://t.co/vo5NsPuBeL",38,3,11,2021-06-02
+412,2021-06-03 10:46:31+00:00,1400403517311881222,cardstack,How is #Cardstack evolving tools from the Web2 world? How does it compare to other #SaaS tools? Learn how the different parts of Cardstack come together as @christse shares the many use cases it can cover. https://t.co/3XdRtx0Ejt $CARD,44,2,9,2021-06-03
+419,2021-06-04 10:59:42+00:00,1400769221877927940,cardstack,Curious to learn more about the #Cardstack Project? Watch @christse's interview with @gainsassociates to understand the project better. https://t.co/55odnqHzxn $CARD https://t.co/RKDAruQSFY,44,7,18,2021-06-04
+421,2021-06-07 10:24:56+00:00,1401847638081867777,cardstack,"Cardstack is working on 3 main products this year. Here's a timeline of when you can expect #CardPay, #CardSpace &amp; CardCatalog: https://t.co/foCIccNmHv $CARD",60,7,23,2021-06-07
+422,2021-06-08 06:32:13+00:00,1402151459588775944,cardstack,"Rendering raises a question about what software is, what is the platform that is being built by the software, and if this is something you own in your NFT? Learn more about this in this chapter of @christse NFT video: https://t.co/qeuBfiQmPR  $CARD https://t.co/fkcxSTXVPp",40,6,12,2021-06-08
+424,2021-06-09 08:19:26+00:00,1402540831689502722,cardstack,"1/ We've completed our work on the off-chain storage mechanism! This mechanism allows for the configuration and theme related to a prepaid or reward card to be stored in a flexible off-chain storage protocol, while being referenced via on-chain transactions. $CARD https://t.co/IvQFjcCcfE",52,12,21,2021-06-09
+430,2021-06-10 06:35:14+00:00,1402876996745502722,cardstack,1/ The DID infrastructure (Decentralized Identifier) will also be used to store off-chain assets related to utility NFTs. $CARD https://t.co/zugf71m007,43,5,16,2021-06-10
+435,2021-06-11 10:30:00+00:00,1403298464331493376,cardstack,"What about fraud? Making trivial edits to someone else's work and passing it off as your own is extremely difficult in the #Cardstack ecosystem, thanks to JavaScript package management. https://t.co/kMmGayjsnD $CARD https://t.co/ZTOsjMOS6T",46,11,18,2021-06-11
+439,2021-06-14 07:16:14+00:00,1404336865830785024,cardstack,"In Web3, we are introducing a new type of acceptance network called #CardPay. Watch @christse talk about the dApp and the mobile app that make up Card Pay: https://t.co/GJYw6UvqzG $CARD https://t.co/uXQn8UxC6Q",42,6,13,2021-06-14
+441,2021-06-15 08:00:01+00:00,1404710270065254401,cardstack,"At #Cardstack, we’re working towards the vision to bring the community together and grow each part to create a cohesive experience, so that people will think of Cardstack as the experience layer of Web3. $CARD https://t.co/2boqMoKlIQ",43,6,8,2021-06-15
+443,2021-06-16 07:26:01+00:00,1405064102888628228,cardstack,"1/ The #Cardstack team has been working on leveraging The Graph, which is a decentralized blockchain query service.",44,5,10,2021-06-16
+450,2021-06-17 11:00:00+00:00,1405480342731956227,cardstack,"Stripe is a popular developer tool that is becoming more of a merchant-facing tool, which allows you to create FinTech connections, so you can accept credit cards and transfer money to bank accounts. How is #CardPay similar to Stripe? https://t.co/gDn73SbUl0 $CARD https://t.co/8s9Vs7NrFe",38,3,12,2021-06-17
+458,2021-06-18 06:30:15+00:00,1405774844478689280,cardstack,"1/ We're currently preparing the design artifacts to submit #CardWallet to the Apple app store. We want to enable beta testers to download the iOS wallet to test out the dApp features, as many of the #CardPay dashboard features require proper configuration of a layer-2 wallet.",52,8,17,2021-06-18
+461,2021-06-21 07:30:00+00:00,1406877045527703555,cardstack,How does #CardReward allow consumers to earn rewards? @christse talks about Card Reward in this video: https://t.co/SjA78mWKaA $CARD https://t.co/asLdN5j1t2,27,4,6,2021-06-21
+463,2021-06-22 12:19:12+00:00,1407312212880920586,cardstack,"Here's part 2 of our ""Cardstack vs SaaS"" article series! Learn how the components of the #Cardstack ecosystem compare to the tools from the Web2 world. https://t.co/V1fLlXYTaB $CARD",36,3,11,2021-06-22
+469,2021-06-23 07:26:46+00:00,1407601004313382913,cardstack,"5/ Our system of gas fee substitution is quite sophisticated. For regular users who want to buy something via #CardPay, the gas fee is ultimately charged to the merchant, ensuring that no user needs to think about gas fees when buying an NFT or digital membership.",16,1,0,2021-06-23
+476,2021-06-24 07:22:48+00:00,1407962395297783808,cardstack,"What are the payment methods on #CardPay, when a customer spends money with a merchant? https://t.co/vOmIUqWrIg $CARD https://t.co/989uTyuto3",47,8,17,2021-06-24
+477,2021-06-25 06:14:13+00:00,1408307523505905665,cardstack,Check out what the #Cardstack team has been up to this month: https://t.co/tyzEEWIKTU $CARD,41,6,11,2021-06-25
+479,2021-06-28 07:33:22+00:00,1409414608507457550,cardstack,There are 5 easy steps in the customer &amp; merchant interaction when using #CardPay. Learn more about this workflow from @christse: https://t.co/bIH4HzjQdU $CARD https://t.co/s7x9e7ljWw,45,12,20,2021-06-28
+480,2021-06-29 07:06:03+00:00,1409770118393909248,cardstack,"#CardPay needs participants to actively contribute value and judgement, so that the network can thrive and
+grow. So what are the incentives for network participants? https://t.co/GGMCeFMGqF $CARD https://t.co/dQVwNBpCVW",47,6,9,2021-06-29
+481,2021-06-30 05:00:18+00:00,1410100862387585033,cardstack,1/ We are currently focused on end-to-end testing of the #CardBridge protocol as well as the multisig wallet creation workflow that is part of the #CardPay protocol.,38,6,7,2021-06-30
+487,2021-07-01 05:31:55+00:00,1410471208047595522,cardstack,2/ We expect changes to be minimal from this point onwards. All team members are using the common #CardPay SDK that is already available as open-source code in the #Cardstack GitHub.,25,1,0,2021-07-01
+490,2021-07-02 06:26:14+00:00,1410847265065869315,cardstack,"1/ We understand that composability is important in the Web3 / Ethereum space. Therefore, we are also implementing a subgraph that is used by our SDK, and can be accessed directly via The Graph: https://t.co/tPiEMlbS3w  $CARD https://t.co/0DTZgw0vZE",32,8,7,2021-07-02
+494,2021-07-05 07:52:05+00:00,1411956029768704005,cardstack,What are the numerous payment scenarios available for customers &amp; merchants when using #CardPay? Learn about Card Pay's building blocks here: https://t.co/bXVldJtp4u $CARD https://t.co/FP1VDTEybe,56,17,26,2021-07-05
+495,2021-07-06 06:54:56+00:00,1412304037580460033,cardstack,"1/ The #Cardstack team is working to test and improve the smart contract for #CardPay, the #CardWallet mobile application, as well as the Card Pay dashboard dApp in preparation for external beta testing.",46,5,9,2021-07-06
+500,2021-07-07 06:58:06+00:00,1412667221126508545,cardstack,"4/ Here is a gallery of screenshots you will see on the App Store once the app is published. The marketing message may subject to change, but you can get a sense of the capabilities of the version we are working towards. $CARD https://t.co/RRPUG2eiX4",28,3,3,2021-07-07
+505,2021-07-08 06:19:00+00:00,1413019771327500289,cardstack,"5/ During the beta program, we expect to add additional features for our beta testers to try out so that we can get feedback to improve the workflow and reliability of the end-to-end payment and reward cycle. We expect to share a link for beta sign-ups sometime next week. $CARD",24,0,1,2021-07-08
+511,2021-07-09 07:23:48+00:00,1413398466080874499,cardstack,How do traditional payments compare to Web3 payments and specifically #CardPay? @christse provides some context for the Card Pay protocol here: https://t.co/Lha370D2oS https://t.co/AQAJl2kjb7,41,16,15,2021-07-09
+512,2021-07-12 08:30:00+00:00,1414502288001933312,cardstack,"#CardPay, #CardBridge &amp; #CardFlow bring crypto from the world of DeFi into Cardstack's payment network. DeFi is powerful. People can create loans and stablecoins, but it’s expensive to transact, which is why Card Bridge exists. https://t.co/YYj2cuchKz $CARD https://t.co/0ugPdUnBEz",53,10,18,2021-07-12
+513,2021-07-13 11:17:38+00:00,1414906863695454208,cardstack,"5/ We believe that The Graph will be able to support the growing user base in DeFi, and we are glad to be able to leverage that indexing infrastructure as we scale up the number of users. $CARD",21,0,0,2021-07-13
+519,2021-07-14 04:28:14+00:00,1415166222446907395,cardstack,"1/ The Graph also provides us with greater flexibility to deploy to other layer 2 chains also supported by The Graph, such as Polygon and Avalanche. $CARD",56,13,14,2021-07-14
+524,2021-07-15 10:00:00+00:00,1415612102572642306,cardstack,What is #CardFlow and what does it do? How does it contribute to the #Cardstack Ecosystem? Learn about it here:  https://t.co/YYj2cutT99 $CARD https://t.co/bcA0wQ3Hjr,30,5,10,2021-07-15
+528,2021-07-16 07:31:07+00:00,1415937020745043971,cardstack,Learn about the technology #Cardstack uses to build our software ecosystem. https://t.co/qBTmrRuge2 $CARD https://t.co/Jju2Fe6Y2Y,44,12,16,2021-07-16
+529,2021-07-19 08:26:39+00:00,1417038159418847235,cardstack,"How would users who are new to blockchain make purchases or earn rewards? @christse explains here, in a recent AMA with #KuCoin. https://t.co/2WOurli3vC $CARD https://t.co/AFFCsbwXBU",35,9,11,2021-07-19
+530,2021-07-20 08:13:28+00:00,1417397230730833921,cardstack,"1/ In preparation for the beta program launch, we are completing the final set of features and bug fixes involving Card Pay's MVP (Minimal Viable Product). $CARD",43,7,11,2021-07-20
+536,2021-07-21 06:04:24+00:00,1417727137130291203,cardstack,"The #CardPay, Early Access Program is open! We've already been receiving applications from people interested to participate in the early access program. To join this program, we need some important information from you. https://t.co/Y3k2IyxoLB",45,8,14,2021-07-21
+539,2021-07-22 09:37:19+00:00,1418143108898779136,cardstack,4/ Here is the preview of the dedicated page for #CardPay : https://t.co/YRBzFArkcv,20,0,2,2021-07-22
+547,2021-07-23 06:56:35+00:00,1418465044514295812,cardstack,"1/ After the launch of prepaid cards—which are based on stablecoins, we will add support for reward cards that contain community currency and other tokens not pegged to USD.",44,7,15,2021-07-23
+551,2021-07-26 09:31:13+00:00,1419591125392793605,cardstack,"There are three other groups of participants that are crucial to the operations of the #CardPay network—suppliers, issuers, and reward program administrators. @christse explains the complete list of participants here: https://t.co/mHnv2TSZmg $CARD https://t.co/UjYUSPk8oy",44,14,13,2021-07-26
+552,2021-07-27 07:51:02+00:00,1419928298994372613,cardstack,6/ Community members interested to know more about the intricacies of this launch can access the Early Access Program guide through this link: https://t.co/h0mhkjSUj9,22,0,0,2021-07-27
+558,2021-07-28 07:27:18+00:00,1420284714774974464,cardstack,"5/ Once we feel comfortable with the user-facing features in both our dApp and our mobile app, we will allow users to interact with the mainnet contract using real funds. Stay tuned! $CARD",23,0,1,2021-07-28
+564,2021-07-29 07:08:32+00:00,1420642379275509760,cardstack,"1/ We are continuing to develop upcoming protocol features involving reward cards (#CardReward) backed by community tokens like ERC-20 CARD, and we plan to soon add merchant features that will enable the sale of products and services backed by NFT on layer 2 (#CardCommerce).",36,4,8,2021-07-29
+568,2021-07-30 08:04:31+00:00,1421018857636974596,cardstack,"Here's what the #Cardstack team has been busy with, this July: https://t.co/CiY15HjhM7 $CARD",31,1,6,2021-07-30
+569,2021-07-31 07:30:00+00:00,1421372557513666560,cardstack,"How can you become a merchant, and what can you sell? https://t.co/rUhKAJXnfB $CARD https://t.co/LqEDiuZ48y",35,0,7,2021-07-31
+570,2021-08-02 07:52:19+00:00,1422102952341229568,cardstack,1/ We've completed the first wave of beta user testing and obtained valuable feedback from the Early Access Program participants. #CardPay $CARD,38,4,9,2021-08-02
+575,2021-08-03 08:00:16+00:00,1422467337211367424,cardstack,"4/ Once we solidify those aspects of the #CardPay protocol family, we will roll out merchant and customer features that allow users to conduct actual stablecoin payments in a low fee environment.",25,1,0,2021-08-03
+582,2021-08-04 09:27:30+00:00,1422851679527981062,cardstack,Catch up on #Cardstack development this week. The #CardPay Early-Access program is also still accepting participants. Find out how to participate here: https://t.co/gmXqhRqdMc $CARD,24,1,3,2021-08-04
+583,2021-08-05 07:44:30+00:00,1423188145328168963,cardstack,"1/ We understand that most customers wanting to buy products using our protocol such as limited edition goods (Unisocks or “Card shirts”), NFTs, and DAO memberships are not likely to bridge their own tokens.",32,2,2,2021-08-05
+589,2021-08-06 09:00:00+00:00,1423569534959685636,cardstack,"What is #CardWallet, how does it work and what problems is it solving? @christse addresses this in a recent AMA with #KuCoin: https://t.co/2WOurlzEUc https://t.co/XH9h7K8JYq",32,1,8,2021-08-06
+590,2021-08-09 09:03:41+00:00,1424657624948084743,cardstack,"#CardSpace uses #CardPay as the commerce engine, but provides additional Web 2.0-compatible capabilities,
+making these economic activities visible to the existing Web that people use every day. Learn more here: https://t.co/y0ITPupD8m https://t.co/hi0pcU6egX",33,2,10,2021-08-09
+591,2021-08-11 08:10:21+00:00,1425368980827475970,cardstack,"The key to any healthy marketplace is to have plenty of buyers and sellers. In the software marketplace, customers pay developers for their apps, and service providers for hosting services and support. Learn more here: https://t.co/41dyrglJL3 $CARD https://t.co/i6xiv0phcd",34,1,9,2021-08-11
+592,2021-08-12 10:29:55+00:00,1425766490754613250,cardstack,What is #CardAdvance? @christse talks about it in detail in this video: https://t.co/hOb8AH1tBC $CARD https://t.co/uFkrGaSgHy,33,2,11,2021-08-12
+593,2021-08-13 07:46:46+00:00,1426087819454287872,cardstack,What is the tech used in the #CardPay network? @christse explains them here: https://t.co/mV2T9pBgoT $CARD https://t.co/NdzKRJwUYM,42,2,9,2021-08-13
+594,2021-08-16 06:48:39+00:00,1427160358418935811,cardstack,Here's some background on the #Cardstack project. Cardstack is not purely a blockchain project — we combine cloud and blockchain technology. Learn more about how we do this here:  https://t.co/uDZNDCu7NO $CARD https://t.co/AVxmTrTfvm,36,3,15,2021-08-16
+595,2021-08-17 08:01:08+00:00,1427540986360569857,cardstack,How will we use #CardAdvance to fund software in the #CardCatalog? https://t.co/yJEmSJMVQP https://t.co/GEWTmXYvCb,33,1,8,2021-08-17
+596,2021-08-19 06:00:00+00:00,1428235280553701381,cardstack,"The #CardPay Early-Access Program is still open and accepting participants. If you have already registered, look out for an invite soon! For those who still want to participate, it's not too late, fill out this form to apply: https://t.co/61Wq2LnNJ5 $CARD https://t.co/ZJn2WuOK6p",36,2,8,2021-08-19
+597,2021-08-20 07:54:23+00:00,1428626452736397316,cardstack,"These days, people use so many different platforms every single day. Having to access numerous applications to perform one thing makes it very difficult to get things done. How is #Cardstack solving this problem?  https://t.co/YNX9MFkaTh $CARD https://t.co/JeCmSz76Jf",45,3,12,2021-08-20
+598,2021-08-23 07:46:22+00:00,1429711599401508869,cardstack,"In order to get all the tools you need for your daily workflows, you have to subscribe to numerous apps. Unfortunately, each app comes with its own login and lock-in subscription fee(s). #Cardstack is looking to solve this problem. https://t.co/0U3FLz3Lu7 $CARD https://t.co/995qr3XvNe",38,7,14,2021-08-23
+599,2021-08-24 08:00:03+00:00,1430077428634775553,cardstack,"""On the blockchain side, what we can do with this new UI, is to tap into innovation that is growing"". @christse elaborates here: https://t.co/0QLbhvgTZG $CARD https://t.co/6n7MKeRK6x",32,1,8,2021-08-24
+600,2021-08-25 06:13:38+00:00,1430413038100774913,cardstack,"The Blockchain sphere is growing rapidly, but there are some missing pieces. Here are some problem statements we've heard, and how #Cardstack is looking to solve them. https://t.co/myD7YWS0Je $CARD https://t.co/0wCRogQ7SL",39,2,16,2021-08-25
+601,2021-08-27 09:03:02+00:00,1431180444033171458,cardstack,"Web 3.0 promises great things, but there's still a lot of work to do. We've compiled '10 Reasons Why Web 3.0 Has Yet to Take Off', where we also delve into some familiar names building towards a hassle-free Web 3.0 future. $CARD https://t.co/9JFS6HhD4Q",50,3,20,2021-08-27
+602,2021-09-01 08:54:54+00:00,1432990336360480769,cardstack,#CardSpace gives you the capability to inspect the structure and properties of any card. Learn more here: https://t.co/AvLWxGbxwN $CARD https://t.co/cff0aURGGQ,37,2,9,2021-09-01
+603,2021-09-02 06:00:00+00:00,1433308708545523712,cardstack,"On #CardSpace, because your space is basically a website, you can change the layout. You can add, remove, and rearrange cards inside that layout. https://t.co/msQkEwpQ45 #Cardstack $CARD https://t.co/psA44D3gtn",59,6,20,2021-09-02
+604,2021-09-03 07:30:00+00:00,1433693745963155461,cardstack,#CardCatalog is like a template gallery that you can use to insert your own media or other things onto your #CardSpace. @christse explains here: https://t.co/ly6sVGk87w $CARD https://t.co/GmyN8PEDIE,43,0,15,2021-09-03
+605,2021-09-06 06:30:00+00:00,1434765809100939264,cardstack,"Web 3.0 promises great things, but it has yet to infiltrate the mainstream. Why? Today, and in the coming days, we'll go through all the issues Web 3.0 is facing currently. Stay tuned! If you want to learn more, check out the article we posted last week: https://t.co/9JFS6H02di",53,1,13,2021-09-06
+607,2021-09-07 08:00:00+00:00,1435150847420289027,cardstack,"Once a wallet is connected, users must fund it with ""gas."" The fees go directly to miners who provide computer power to verify transactions and maintain the network. $CARD https://t.co/Kcuq1mof3r https://t.co/uJ1hAAJdCk",32,2,8,2021-09-07
+609,2021-09-08 12:00:00+00:00,1435573632588296196,cardstack,Some projects are making use of proof-of-stake consensus mechanisms in order to reduce gas prices and eliminate the environmentally harmful practices of crypto mining. https://t.co/lixN71TFoU $CARD https://t.co/gKL3FIyq7N,45,2,12,2021-09-08
+611,2021-09-09 07:25:33+00:00,1435866952233152513,cardstack,Losing a seed phrase means that the user loses everything. Recent developments offered by dApps and various wallets have attempted to resolve this issue. https://t.co/kNry7tPiD4 $CARD https://t.co/PHMMKEF0A9,26,0,7,2021-09-09
+613,2021-09-10 07:00:42+00:00,1436223088765538326,cardstack,The current user experience around transaction confirmation is highly tedious. How can Web 3.0 become a consumer go-to when it seemingly dislikes its own consumer base? https://t.co/seXM9UaOj3 $CARD https://t.co/KUEWRAsE7P,31,0,5,2021-09-10
+615,2021-09-13 08:23:11+00:00,1437331008198627331,cardstack,"Varying tokens, fluctuating exchange rates, and floating currencies make transactions on Web 3.0 unclear. Tokens displayed without revealing their worth or corresponding exchange rates cause transactions on Web 3.0 to be quite a challenge. https://t.co/MKoUkT7QsG  $CARD https://t.co/ocSJ83jwmp",31,2,8,2021-09-13
+617,2021-09-14 12:00:00+00:00,1437747959983063040,cardstack,Some fiat-to-crypto gateways are developing ways to streamline and clarify the onboarding process. Here are some examples. Read more here: https://t.co/9AYu3q8pFr  $CARD https://t.co/dtH2EniTyv,35,1,8,2021-09-14
+619,2021-09-15 08:20:26+00:00,1438055092758847488,cardstack,"After users set up their wallets and learn the ins and outs of floating currencies, they still have to switch between dual networks when they want to process a transaction. This process is yet another challenge for them. https://t.co/WyVUGKQw2X  $CARD https://t.co/DFBdPkzzcg",35,0,9,2021-09-15
+621,2021-09-16 06:30:00+00:00,1438389688092536839,cardstack,Navigating between the two layers of the blockchain takes a lot of time. Deposits and withdrawals between the two networks can take a lengthy period considerably. https://t.co/ZS1Q17A56V $CARD https://t.co/7LNbB8lPZR,42,1,10,2021-09-16
+622,2021-09-17 06:30:00+00:00,1438752076889219072,cardstack,Some dApps are developing protocols designed to quicken and simplify transfers between different chains. Projects like these operate by requiring users to pay a small fee for an expedited bridging process between layer 1 and layer 2. https://t.co/EsJapyJyxt $CARD #Cardstack https://t.co/qKQorqaa1l,21,0,3,2021-09-17
+624,2021-09-20 09:00:57+00:00,1439877229014519818,cardstack,"1/ Here's the progress update the #Cardstack team has made in these recent weeks:
+
+Beta Program: We have rolled out features and bug fixes to our beta program participants that will become features in the #CardPay dApp and the #CardWallet mobile app. $CARD",38,1,14,2021-09-20
+629,2021-09-21 07:00:01+00:00,1440209182116831239,cardstack,"To resolve the overwhelming issue of which dApp to use, #Cardstack is currently developing a consolidated workflow system called #CardFlow. https://t.co/o3gtrJhsTF  $CARD https://t.co/KZ0X22dWnx",30,0,7,2021-09-21
+633,2021-09-22 09:36:12+00:00,1440610873479876611,cardstack,Here's what we've been up to recently: https://t.co/ZmvcA3rNvt $CARD,34,0,9,2021-09-22
+634,2021-09-23 10:00:02+00:00,1440979259712020480,cardstack,"Everybody has a camera, and making transactions through already-established QR-ready platforms is so much easier than engaging with any other mode of payment. $CARD https://t.co/8O194L9L5K",39,1,12,2021-09-23
+636,2021-09-24 12:31:13+00:00,1441379693542842370,cardstack,"NFTs, representing digital collectibles, introduced people to the idea of “Obtainable Exclusivity”. Want in? You have to be early or be willing to spend big if you’re late.
+
+Our new blog post dives into the infinite utility of NFTs in culture &amp; commerce. https://t.co/fwUgHjEWML",32,0,12,2021-09-24
+637,2021-09-27 10:19:39+00:00,1442433750525091849,cardstack,1/ The #Cardstack team is currently adding workflow persistence to all current workflow within the #CardPay dApp so users can return to the workflow after closing the tab. $CARD,37,1,7,2021-09-27
+640,2021-09-28 06:33:28+00:00,1442739213837889537,cardstack,"#CardstackUpdates
+
+1/ We have completed the end-to-end protocol testing on the allocation and delivery of prepaid cards based on Apple Pay transactions.",42,2,5,2021-09-28
+647,2021-09-29 05:32:51+00:00,1443086348055764993,cardstack,1/ We continue to add participants to our beta program in order to further test the growing features of the #CardPay dApp and the #CardWallet app.,32,1,4,2021-09-29
+651,2021-09-30 13:27:10+00:00,1443568104064249861,cardstack,"Through September, the #Cardstack team has been hard at work on #CardPay and #CardSpace. Learn about the progress we've made here: https://t.co/K66E5hkLmO",25,1,10,2021-09-30
+656,2021-10-01 08:35:08+00:00,1443856996445294598,cardstack,1/ We want to give early users who sign up for Card Space the ability to reserve their Card Space URL (eg. https://t.co/tCuDd6Tytj) by using our workflow system. https://t.co/NpVDBvn20L,33,5,7,2021-10-01
+660,2021-10-04 06:33:51+00:00,1444913638377078785,cardstack,Happening today! Join @christse for a demo and progress update on #CardPay at 9 a.m. EDT / 3 p.m. CEST / 9 p.m. SGT. https://t.co/OCYQXoeCWF,27,2,7,2021-10-04
+662,2021-10-05 12:00:01+00:00,1445358108809650176,cardstack,Gas fees are still one of Web 3.0's main issues. How can we fix them? https://t.co/nXf1kK7mK3 $CARD https://t.co/hiAOrJaCji,27,0,9,2021-10-05
+664,2021-10-06 05:25:50+00:00,1445621297472360450,cardstack,#CardPay improves Web 3.0 by remedying concerns of high and fluctuating gas fees. $CARD https://t.co/OR1Mn5dytB,45,1,19,2021-10-06
+666,2021-10-07 08:14:58+00:00,1446026250569465860,cardstack,The onboarding process for dApps and blockchain apps can be rather cumbersome. We need a more straightforward process if we want to grow this network. https://t.co/QretTcm71z  $CARD https://t.co/MhaWzHjAA1,32,0,11,2021-10-07
+667,2021-10-08 09:15:47+00:00,1446403944108888064,cardstack,"#CardPay provides fast, cheap and easy payments. It remedies the problem of high transactional fees by operating on layer 2. 
+
+If you haven't already, catch these demos by @christse  on Card Pay's payment and withdrawal workflows. $CARD https://t.co/FQ1hllq9qY",40,0,12,2021-10-08
+668,2021-10-11 10:07:59+00:00,1447504241724059653,cardstack,Logins and accounts in Web 3.0 must operate in simpler and more convenient ways to create a more inviting and less intimidating crypto-blockchain world. https://t.co/64ZBTo7cBn $CARD https://t.co/dEbgbVbvVR,34,1,9,2021-10-11
+669,2021-10-12 09:52:46+00:00,1447862799510630400,cardstack,"Once the setup and transactional operations have been perfected, creators, developers, and merchants in the Web 3.0 world must focus on creating reward systems that entice new users into joining the community. https://t.co/2MrnMAa3nt $CARD https://t.co/qo4XbnIKBS",35,2,6,2021-10-12
+670,2021-10-13 07:09:08+00:00,1448184007514984448,cardstack,Resolving the current challenges of Web 3.0 will create a more pleasant user experience and help DeFi gain more attention in the mainstream. https://t.co/htPZgO3pBA $CARD #CardPay #CardFlow #CardProtocol https://t.co/otuklp5DaX,41,1,15,2021-10-13
+671,2021-10-14 07:45:42+00:00,1448555598111391750,cardstack,"What we need is a non-sovereign, non-pegged currency that’s not priced in USD or EUR. There have been a handful of attempts to achieve this, but none have entirely succeeded. Achieving stable currency is key to generating financial inclusion. https://t.co/iiyUNOxlBq $CARD https://t.co/GsmaA6eEhm",34,0,9,2021-10-14
+672,2021-10-18 07:30:00+00:00,1450001199881588738,cardstack,"SPEND is backed by DAI, which allows for decentralized exchange rates to occur.  It does not give preferential treatment to the merchant or the card issuer. https://t.co/RxJJ7ZFCOO $CARD https://t.co/UMURqzWOVp",38,1,12,2021-10-18
+673,2021-10-19 08:30:00+00:00,1450378687698792451,cardstack,"What is the goal of SPEND? - Your wallet may be filled with various currencies that fluctuate, but when you want to make purchases or trades, you can rely on SPEND as a pricing unit to ensure neutrality. https://t.co/LzfIcmojQj $CARD https://t.co/j81S6XzMAr",32,0,11,2021-10-19
+674,2021-10-20 08:00:00+00:00,1450733526026833924,cardstack,"Did you know that NFTs can be used in a myriad of ways, which aren't limited to collectibility? $CARD https://t.co/pia14olSNU",42,1,14,2021-10-20
+675,2021-10-21 09:24:29+00:00,1451117176539136005,cardstack,"#Cardstack is solving the problems of Web3 transactions by providing fast, easy, and cheap payments through #CardPay. @christse talks about this here: https://t.co/g05s2U5Pvj $CARD https://t.co/qOh7AVEVlj",47,4,17,2021-10-21
+676,2021-10-22 07:48:17+00:00,1451455352877174799,cardstack,"#CardPay offers a variety of features and uses: You can make deposits from mainnet, issue prepaid cards, set up merchant accounts, withdraw your earnings to mainnet, and much more.
+
+Here's a demo of our merchant withdrawal workflow: https://t.co/fkZwtWbtz9 $CARD",39,3,11,2021-10-22
+677,2021-10-25 08:30:00+00:00,1452553014737211399,cardstack,"We are developing a cohesive UX so that users can access Web3 without having to deal with the frustrations of high gas fees, slow transactions, or other blockchain-related issues. These are the three project layers that compose #Cardstack : https://t.co/38w4BzGGMp",65,6,24,2021-10-25
+678,2021-10-26 08:17:41+00:00,1452912300990427138,cardstack,"At #Cardstack, we aim to provide a cohesive experience for users, which consists of 3 layers. 
+Watch @christse explain this in detail: https://t.co/g0WzRe0mlU $CARD https://t.co/McgIss3Yrn",35,3,12,2021-10-26
+679,2021-10-27 07:30:00+00:00,1453262690005274624,cardstack,"What do #TrustWallet, #Solana, and #Cardstack have in common? 
+
+We are the top 3 open-source cryptocurrency projects by GitHub commits this quarter! Congrats @trustwallet @solana!  https://t.co/W1w7v4PY4l",48,4,13,2021-10-27
+680,2021-10-28 08:30:00+00:00,1453640179948797957,cardstack,"848 Github commits this quarter - the #Cardstack Dev team is on fire! 🔥🔥🔥 
+
+We're now gearing up for our xDai mainnet launch. Signup for the waitlist today at https://t.co/9dzK9VYgar 
+
+$CARD",74,6,25,2021-10-28
+681,2021-10-29 08:00:00+00:00,1453995015236169743,cardstack,#CardPay provides a variety of different features and integrations. Watch @christse talk about them in more detail: https://t.co/hhiMEQHgrf $CARD,33,0,11,2021-10-29
+683,2021-11-01 08:16:59+00:00,1455086452224626688,cardstack,"#CardSpace brings decentralized web hosting and allows merchants to create their own storefronts. Hear more about these storefronts from @christse in this chapter of our ""#CardPay: Fast, Cheap, Easy."" video: https://t.co/3nqYD6OAvM https://t.co/DS7aeBPJwv",51,4,17,2021-11-01
+684,2021-11-02 08:00:00+00:00,1455444568531365891,cardstack,"#CardPay is integrated with top protocols &amp; services, from Gnosis Safe to #WalletConnect. 
+
+$CARD https://t.co/LaCjzqBDMR",59,8,28,2021-11-02
+685,2021-11-03 08:30:00+00:00,1455814505477206017,cardstack,"We have created SPEND to operate as a globalized international currency that functions as a tool of measurement and sense-making, just like any other currency. 
+
+But how do currencies function as tools of measurement and sense-making?
+
+Learn here: https://t.co/Vb9ndJyMYv
+
+$CARD",46,0,10,2021-11-03
+686,2021-11-04 08:00:00+00:00,1456169344958935041,cardstack,"#Cardstack is positioned as the experience layer of Web3. An essential part of our work is the DeFi payment and reward protocol built on Ethereum.
+
+$CARD https://t.co/ycP5Z3WSN3",62,5,24,2021-11-04
+687,2021-11-05 08:30:00+00:00,1456539279967068185,cardstack,"Our workflow system guides users through all the steps needed for making deposits, issuing prepaid cards, setting up a merchant account or #CardSpace, and much more. 
+
+Learn more about this here: https://t.co/AZtW8khUfb
+
+$CARD https://t.co/sKet1TlXjV",52,4,16,2021-11-05
+689,2021-11-08 21:05:39+00:00,1457816611835064321,cardstack,@AlecEllin @sdproffer @ShinyObjectSC We are 100% open source (MIT licensed). Would love to collaborate!,5,0,0,2021-11-08
+692,2021-11-09 01:50:43+00:00,1457888349679546369,cardstack,@timwoneill Thanks for your support @timwoneill ! Love to hear your thoughts on #Web3 challenges too.,4,1,0,2021-11-09
+694,2021-11-10 02:29:33+00:00,1458260509078159361,cardstack,"Thanks everyone for joining yesterday for our first POAP. We've reached the maximum allocation of 1,000 POAPs for this distribution. 
+
+This was our first POAP, but will not be our last! We look forward to creating additional opportunities to claim POAPs in the future.
+
+$CARD",42,3,9,2021-11-10
+700,2021-11-11 00:09:45+00:00,1458587718456250371,cardstack,@Coachkcrypto Thank you for the support! Hope you join in on the conversation on our Discord for more exciting updates. 💪🚀🤩,4,0,0,2021-11-11
+703,2021-11-12 10:30:00+00:00,1459106196242247680,cardstack,"We are developing a bridging infrastructure, so that you can buy a prepaid card with Apple Pay and receive a stablecoin balance on L2 immediately. 
+
+Learn more about this here: https://t.co/clqSXpmiH2 
+
+$CARD https://t.co/j9e45cNEdd",52,4,12,2021-11-12
+706,2021-11-15 09:29:29+00:00,1460178128517558274,cardstack,"SPEND is similar to in-game currencies like Robux and V-Bucks. Think of SPEND as Cardstack's very own in-game currency. Learn more about SPEND here: https://t.co/u1sdouA5Ba 
+
+$CARD",42,4,16,2021-11-15
+707,2021-11-16 07:12:56+00:00,1460506155348676609,cardstack,1/ The #Cardstack project has reached a milestone by delivering the first two protocols — #CardPay and #CardBridge—to mainnet. This particular mainnet deployment is delivered to the Ethereum mainnet as Layer 1 and the xDai chain as Layer 2.,63,3,24,2021-11-16
+713,2021-11-17 07:30:30+00:00,1460872960286154753,cardstack,"Here's the scoop on what the #Cardstack team has been busy with lately: https://t.co/XtPQK1QNce 
+
+$CARD",36,2,11,2021-11-17
+714,2021-11-18 01:16:28+00:00,1461141222534221824,cardstack,"The #Cardstack team has been working really hard! We're incredibly proud and honoured to be recognized amongst other great projects with the most developer commits in 90 days. 💪💪💪🚀
+
+$CARD
+
+Congrats to @solana @TrustWallet @CryptoRubic &amp; @chainlink !
+
+https://t.co/BYogPTd9Fu",42,3,9,2021-11-18
+719,2021-11-19 06:33:35+00:00,1461583412163010560,cardstack,"2/ The main topic of discussion is the continuation of the #CardCompiler work, which is an R&amp;D effort that has been ongoing and in parallel with our product development efforts.",20,1,0,2021-11-19
+725,2021-11-22 07:17:52+00:00,1462681723573964800,cardstack,"3/ This feature is completely noncustodial, so users don't have to wait for an intermediary to clear transactions; the funds will travel straight from a supporter’s wallet to the blockchain to the recipient’s wallet. $CARD",21,0,1,2021-11-22
+728,2021-11-23 09:55:36+00:00,1463083803304361989,cardstack,"The #CardPay Beta Program is still accepting participants! 
+
+If you own an iPhone, sign-up here: https://t.co/YRBzFArkcv
+
+Don't worry Android users, your turn is coming very soon!
+
+$CARD",43,2,13,2021-11-23
+729,2021-11-24 07:30:00+00:00,1463409552406155267,cardstack,"There is a lot of innovation going on at #Cardstack—but this is the one that makes us say ""Wow! We got it!"". $CARD https://t.co/xHztqTj2oI",49,2,15,2021-11-24
+730,2021-11-25 09:49:16+00:00,1463806986194075651,cardstack,"Here's a sneak peek into the much anticipated #CardWallet, which is currently in beta testing. This video shows you some of the many things you will be able to do with the Card Wallet mobile app. 
+
+Let us know what you think! $CARD #Web3 
+
+https://t.co/r5Vc60s2bq",74,9,21,2021-11-25
+731,2021-11-26 00:55:26+00:00,1464035029693001731,cardstack,@TheCoinKing1980 🚀🚀🚀,3,0,0,2021-11-26
+733,2021-11-29 01:23:45+00:00,1465129320121188352,cardstack,"@CR4ANKSTER @kieldowlin Thank you for being part of the beta tester team, and for being incredibly supportive! 💪",5,0,1,2021-11-29
+738,2021-11-30 08:00:00+00:00,1465591426897485828,cardstack,"What will be the driving factor for people to use #CardWallet, compared to the other hundreds of wallets that exist in the market? $CARD https://t.co/T6EOTkwwkW",57,5,21,2021-11-30
+739,2021-12-01 03:08:51+00:00,1465880543992565761,cardstack,"@djmeikodeen Awesome, thanks for this tip @djmeikodeen ! 💪",3,0,0,2021-12-01
+740,2021-12-07 10:54:43+00:00,1468172112389099520,cardstack,"Congratulations @Fsdf79425717! You have won xDai Punk #4516! Please DM us to claim your prize.
+
+Thank you to everyone else who participated in our first xDai NFT giveaway. We will be having more giveaways in the coming weeks, so stay tuned!
+
+$CARD #Web3 #CardstackGiveaways https://t.co/fOJIVGN1mX",27,2,4,2021-12-07
+741,2021-12-08 08:00:00+00:00,1468490530728206340,cardstack,"Still unsure how SPEND works? Here's an example: 
+
+$CARD https://t.co/T9Mgxpudgq",40,3,16,2021-12-08
+742,2021-12-09 07:30:00+00:00,1468845369681395716,cardstack,"There are various tech used in the #CardPay network, here is just some of them. $CARD #Web3 #Decentralization https://t.co/xzov6sjPLS",44,3,20,2021-12-09
+743,2021-12-10 10:09:53+00:00,1469247991907336194,cardstack,Card Pay is a DeFi payment and reward system. Watch @christse talk about the #CardPay web app and the #CardWallet mobile app: https://t.co/YAOWuGxNa5 https://t.co/5u2yV9czRS,43,6,20,2021-12-10
+744,2021-12-11 14:17:47+00:00,1469672765598883843,cardstack,"Watch out for Dec 14! We’re working hard to present new developments, so make sure to hit that🔔
+
+Special prizes and early access benefits also await on that day. Be sure to follow our channels
+Discord: https://t.co/y39UwIqy9q
+
+DYOR on Card Pay: https://t.co/FQ1hll8yzq https://t.co/B85o26nNXp",73,3,33,2021-12-11
+745,2021-12-12 04:28:06+00:00,1469886756447215616,cardstack,See you all soon - December 14th 🚀🚀🚀 https://t.co/aeLLUMluQ3,87,7,35,2021-12-12
+748,2021-12-13 20:00:00+00:00,1470483665645756417,cardstack,"Are you ready for some awesomeness? Only ONE more day until we launch the #CardPay public beta! If you haven't already joined our Discord, come join the party now. https://t.co/y39UwI8WKQ
+
+Let's go team $CARD!
+
+#web3 #defi #payments #crypto #mainnet https://t.co/bJokM1Uhca",45,5,14,2021-12-13
+749,2021-12-14 23:23:32+00:00,1470897273085308935,cardstack,".@Coachkcrypto are we invited to xmas with your Grandma? wagmi
+
+Thanks for the overview - https://t.co/T6AJAP5omP https://t.co/3zW2L5taeQ",21,2,4,2021-12-14
+750,2021-12-15 11:00:01+00:00,1471072550168014849,cardstack,"Join the #Cardstack Discord server and claim your $10 prepaid card to start your #CardWallet journey!  
+
+Be a part of the discussion with other users as we continue building new features https://t.co/y39UwIqy9q  
+
+#web3 #defi #payments #crypto #mainnet",34,2,14,2021-12-15
+753,2021-12-16 04:33:10+00:00,1471337584416604160,cardstack,🚀🚀🚀 https://t.co/R4NoLRCEVE,26,0,8,2021-12-16
+758,2021-12-17 09:00:02+00:00,1471767130265645059,cardstack,"We've got a surprise for you this holiday season! 🥳🎅☃️🎇
+
+Keep an eye out for a big giveaway next week! You may be in the running to win something exciting.
+
+#Web3 #Defi #payments #crypto #giveaways #mainnet https://t.co/1MVzFovIxo",75,13,30,2021-12-17
+759,2021-12-21 14:00:01+00:00,1473292176448761856,cardstack,"The #CardPay Beta Program is now open to all Android users! If you want to test the #CardWallet mobile app, you can download it from the Google Play Store here: https://t.co/8fxp5XpBRG
+
+Let's go team $CARD! 
+
+#Web3 #Defi #payments #crypto #giveaways #mainnet",58,11,24,2021-12-21
+760,2021-12-22 08:00:01+00:00,1473563964634247168,cardstack,"What if we could remove financial mediators (like Travelex, VISA, Chase, etc.) from currency exchanges? https://t.co/RxJJ7Zo1Xg",58,4,24,2021-12-22
+761,2021-12-23 11:46:56+00:00,1473983458720591876,cardstack,"An exciting year is coming to an end... so here is our end-of-year update for you, where @christse shares #Cardstack's top 10 accomplishments this year! 🚀🚀 
+https://t.co/bpLHrDDPkN",67,7,28,2021-12-23
+762,2021-12-24 08:00:02+00:00,1474288743703986178,cardstack,"Happy holidays, everyone! 
+We hope that this holiday season is filled with a whole lot of fun, laughter, and love for all of you. https://t.co/mxDaF08q9h",57,6,12,2021-12-24
+763,2021-12-27 09:00:02+00:00,1475391009588539392,cardstack,"#CardWallet has many exciting features. This Web3 wallet is great for both regular users and merchants who need a business account.
+
+To get started, you can purchase a prepaid card via Apple Pay. Or join our Discord to get a $10 prepaid card for free! https://t.co/6MYSrlSC7V https://t.co/LHy5Sb30zx",47,1,14,2021-12-27
+765,2021-12-28 09:30:00+00:00,1475760937302773760,cardstack,"With #CardPay, you can keep all your prepaid cards, reward cards and other balances in one place—synchronized between your mobile wallet and web dashboard. 
+
+#Web3 #Defi #payments #crypto #mainnet $CARD https://t.co/ca5R2grL7r",61,9,23,2021-12-28
+766,2021-12-29 08:30:00+00:00,1476108226177474565,cardstack,"Another great feature of #CardWallet: You can make Web3 payments without gas fees! 
+How cool is that!?🤩
+
+Just scan a QR code and confirm the payment with your Face ID.
+
+#Web3 #Defi #payments https://t.co/MaRBGtKJNN",57,6,19,2021-12-29
+768,2021-12-30 09:30:00+00:00,1476485712392298496,cardstack,"What else can you do with #CardWallet?
+
+✅ Request #Web3 payments &amp; accept donations
+✅ Collect your earnings and withdraw them at any time
+
+Have you downloaded Card Wallet yet? Do it now! 🚀 Join our Discord to get the download link: https://t.co/6MYSrlSC7V 
+
+#Web3 #Defi #Wallet https://t.co/glCdfxkm9E",37,3,15,2021-12-30
+769,2021-12-31 12:00:01+00:00,1476885854391975938,cardstack,"Have an amazing New Year's celebration everyone! 
+
+We want to thank our valued community for your continued support, as we look forward to another year full of possibilities – we have a lot of exciting things planned for 2022. Stay tuned! 🥳🥳🥳
+
+Let's go team $CARD! https://t.co/nnCdvEm4CT",62,6,11,2021-12-31
+774,2022-01-03 01:16:35+00:00,1477811093317709825,cardstack,@Citizen_049 @christse We apologize for the delayed response. We have now responded to your DM. Thank you for reaching out to us!,1,0,0,2022-01-03
+775,2022-01-04 08:00:01+00:00,1478275006568157184,cardstack,"When making purchases or trades, you can rely on SPEND as a pricing unit to ensure neutrality. https://t.co/LzfIcmojQj  $CARD
+
+#Decentralization #Web3 #DeFi https://t.co/4IyRVBQgoH",50,3,18,2022-01-04
+776,2022-01-06 09:00:01+00:00,1479014884092387331,cardstack,"This video highlights some of Card Wallet's many features. 
+
+We are eager to hear how you would use the #CardWallet mobile application. How will Card Wallet be a part of your day-to-day life? 
+
+https://t.co/r5Vc60arjS",46,5,12,2022-01-06
+778,2022-01-07 01:05:35+00:00,1479257873934782464,cardstack,"@djmeikodeen It is huge, we're excited! 🚀",2,0,0,2022-01-07
+779,2022-01-10 08:00:00+00:00,1480449329437552641,cardstack,"Conduct all your workflows in one place to make your work more efficient! 
+
+Learn more about #CardSpace &amp; #CardFlow on our website: https://t.co/DnxlTE2obI 
+
+#Web3 #Defi #collaborate $CARD https://t.co/583sE5bfno",47,5,18,2022-01-10
+780,2022-01-12 09:23:06+00:00,1481195021068279808,cardstack,"Download #CardWallet to test this user-friendly Web3 mobile wallet yourself! Join our other #Cardstackers on Discord to learn how you can get access to the app—and earn a $10 prepaid card—right now! https://t.co/6MYSrmaLm3  
+
+We're waiting for you! 
+
+$CARD #Web3 #Defi https://t.co/bESmUkWVxK",39,4,14,2022-01-12
+782,2022-01-13 07:12:36+00:00,1481524566329823237,cardstack,@cardstackers 🚀🚀🚀,6,0,0,2022-01-13
+783,2022-01-14 09:17:43+00:00,1481918441854730241,cardstack,"2021 was great, 2022 will be even better! We look forward to bringing the best of #Web3 to you this year. Stay tuned for our updated roadmap!
+
+In case you missed our year-end video, check out our top 10 accomplishments of 2021 here: https://t.co/5aFxaDTaar 
+
+#Decentralized #DeFi",53,4,10,2022-01-14
+784,2022-01-17 08:00:01+00:00,1482986050943270914,cardstack,"#CardFlow simplifies complex multi-step interactions, such as cross-chain bridging, creating business accounts, issuing prepaid cards and many more. 
+
+Learn about this workflow here: https://t.co/4Gxnl5c6Ne 
+
+$CARD #WEB3 #Decentralized #DeFi https://t.co/8CwTMAIP8Z",49,1,18,2022-01-17
+785,2022-01-19 09:25:47+00:00,1483732410579980288,cardstack,"A lot of exciting things will be happening this year! Learn what the team has been up to just this past week: https://t.co/8wYbyIs7Ac 
+
+$CARD #WEB3 #decentralized #DeFi #mainnet",44,1,14,2022-01-19
+786,2022-01-21 08:00:01+00:00,1484435600249802752,cardstack,"QR codes will make transactions much easier.
+
+Instead of going through the process of exchanging Venmo addresses &amp; entering correct payment amounts, users can simply scan a QR code on their phone and complete the transaction in less than ten seconds. 
+
+$CARD #WEB3 #mainnet #DeFi https://t.co/SOaH2HTPPW",42,3,15,2022-01-21
+787,2022-01-24 08:35:52+00:00,1485531786063257603,cardstack,"One of the biggest ideas we're working on is the Cardstack app suite.
+
+We're consolidating separate applications like #CardPay, #CardSpace, #CardCatalog &amp; #CardMembership into one seamless app!
+
+@christse talks about it here: https://t.co/0b2gCmZaaF  
+
+$CARD #decentralized #DeFi https://t.co/zzzJlvF0ZI",45,3,15,2022-01-24
+788,2022-01-26 07:53:22+00:00,1486245866206019586,cardstack,"Our team has been working round the clock! Here's what we've done this week: https://t.co/AVdGdFDJw2
+
+$CARD #WEB3 #Decentralization #DeFi #PaymentGateway",46,1,11,2022-01-26
+789,2022-01-28 08:07:43+00:00,1486974253342015490,cardstack,"Join our Discord server today to get the download link for the #CardWallet mobile app: https://t.co/6MYSrmaLm3  
+
+#Web3 #Defi #payments #crypto #mainnet $CARD https://t.co/hDG4FovQXX",31,0,12,2022-01-28
+790,2022-02-01 01:50:53+00:00,1488328972564058112,cardstack,"#Cardstack currently building a strong technical foundation &amp; a live product suite to bring more features, users, and possibilities to the decentralized market.
+
+Here's a recap of our 2021 accomplishments, and our 2022 roadmap: https://t.co/QqmHe5cYv8
+
+$CARD #decentralized #WEB3",46,2,19,2022-02-01
+791,2022-02-04 07:34:07+00:00,1489502514391109633,cardstack,"Want to be a valued #Cardstacker? Learn how you can contribute to the Cardstack community here: https://t.co/CBhOZAeDH0 
+
+#WEB3 #Decentralization #DeFi #Mainnet https://t.co/qIfY180qs6",32,0,14,2022-02-04
+792,2022-02-07 05:58:36+00:00,1490565641123762177,cardstack,🚀🚀🚀 https://t.co/nMxaYc2LYt,61,5,20,2022-02-07
+797,2022-02-08 08:42:29+00:00,1490969268670066688,cardstack,"3/ This migration was also recommended by Trail of Bits as a way to upgrade our smart contract family. 
+
+$CARD",21,1,0,2022-02-08
+799,2022-02-09 08:05:33+00:00,1491322364889825280,cardstack,"@cardstackers 💪💪💪🚀 Yes, we will!",11,0,3,2022-02-09
+801,2022-02-10 06:43:40+00:00,1491664145384546305,cardstack,"1/ We have published our 2022 product roadmap! 
+🚀💪🥳
+
+$CARD #WEB3 https://t.co/EsbDTuLwo7",68,8,20,2022-02-10
+806,2022-02-11 07:49:53+00:00,1492043195378589698,cardstack,"#CardPay operates on a sidechain that keeps gas and transaction fees below a penny. 
+
+And the fee is charged fairly to the merchant. The customer never needs to encounter the blockchain transaction fee at all. 
+
+https://t.co/nXf1kK7mK3
+
+#WEB3 #Decentralization #DeFi https://t.co/bNlU0b6Dsw",51,0,16,2022-02-11
+808,2022-02-14 08:26:48+00:00,1493139651070070791,cardstack,"Our Card SDK team is currently working on a new computed property system that can support Excel-like formulas in card-based applications.
+
+This benefits users significantly.",48,2,13,2022-02-14
+816,2022-02-15 06:42:05+00:00,1493475686455017472,cardstack,3/ We are currently working on the design of the initial #Web3 catalog and creating engagement opportunities for the community to contribute to the catalog.,17,1,0,2022-02-15
+820,2022-02-16 07:35:52+00:00,1493851606651002880,cardstack,"The #Cardstack team has been making a lot of progress in the product areas of our roadmap! 
+
+Catch our most recent update here: https://t.co/ploH86Tdhi
+
+$CARD #WEB3 #dWeb #DeFi",44,1,13,2022-02-16
+821,2022-02-17 07:58:26+00:00,1494219674292088832,cardstack,"1/ On the analytics front, we are working with a team of graduate students at NYU (New York University) on a development project to measure the gas usage of certain blockchain transactions, especially those made around #NFT trading.
+
+#WEB3 $CARD",50,1,12,2022-02-17
+825,2022-02-18 07:52:00+00:00,1494580444473413633,cardstack,"The wallet experience should be straightforward &amp; meaningful to draw new users into #Web3.
+
+#CardWallet simplifies the UX with a smooth onboarding process. 
+
+Users can purchase prepaid cards with Apple Pay and start making purchases immediately. https://t.co/2MrnMAa3nt 
+
+$CARD",41,0,18,2022-02-18
+826,2022-02-21 09:04:54+00:00,1495685951729074176,cardstack,5/ Sensitive private information will always be excluded from such rendering.,16,1,1,2022-02-21
+834,2022-02-22 08:57:23+00:00,1496046451071279107,cardstack,"7/ Keep your eyes on our Discord channel. 😉  
+
+Join now if you haven't joined yet! https://t.co/6MYSrmadwv
+
+You may receive instructions on how to enable these upcoming features by tapping the screen in a particular way. 
+
+One could even call this an Easter egg. 🥚",16,0,1,2022-02-22
+840,2022-02-23 04:54:46+00:00,1496347781660819457,cardstack,"#Web3 is coming. Big time we educate ourselves! 
+
+Here's a Comprehensive Collection Of Commonly Used Words In Web3 And Their Meanings.
+
+Thank you @AfomaOrji from @hashnode for compiling this useful list!
+
+#CardstackWEB3Community $CARD
+
+https://t.co/boAuuyi05H",35,3,8,2022-02-23
+842,2022-03-03 15:18:40+00:00,1499403895344402433,cardstack,"What can #Web2 teach us, so we can make #Web3 better and stronger? https://t.co/jfDHQgeIR1
+
+$CARD #Decentralization #DeFi #dapp",42,3,10,2022-03-03
+843,2022-03-04 01:14:02+00:00,1499553723684515840,cardstack,"@PurpleInvestor This is great @PurpleInvestor, Thank you for putting this together! 🤩
+
+Let's go #cardarmy! 🚀",3,2,1,2022-03-04
+845,2022-03-07 09:39:47+00:00,1500768162991726592,cardstack,"#Cardstack is going to host its first-ever webinar this month! We will be 'Exploring the Great Migration of the Internet from #Web2 to #Web3' with @christse.
+
+We hope you join us on Mar 17, 2022 at 9:00 AM EDT | 2:00 PM CET | 9:00 PM SGT. Register here: https://t.co/dCVXcHZIhH",52,5,18,2022-03-07
+852,2022-03-08 09:50:34+00:00,1501133265855397890,cardstack,"4/ Community members will be able to submit additional #Web3 projects that they know of or work on, so that we can increase the coverage of our catalog and reflect all the amazing progress that is occurring across the whole ecosystem.
+
+$CARD",14,0,1,2022-03-08
+856,2022-03-09 09:40:57+00:00,1501493230739030016,cardstack,"What's been going on behind the scenes of #Cardstack? 
+
+Get your latest update here: https://t.co/Ft2vLvsPqB
+
+#WEB3 #Defi #Decentralised #DApps $CARD",34,1,5,2022-03-09
+857,2022-03-10 09:10:59+00:00,1501848079573872642,cardstack,"1/ As we continue refining the payment protocol, we are also preparing to deploy #CardPay and the #CardRewardProtocol family to many of the EVM-compatible chains that are currently gaining users.",33,1,11,2022-03-10
+863,2022-03-11 10:03:55+00:00,1502223786334384134,cardstack,"Have you registered for our webinar yet? 
+
+You don't want to miss this one, hurry and book your spot now! 
+
+https://t.co/n44aP5Tigu 
+
+#WEB3 #BlockchainTechnology #Decentralization #Defi",22,2,7,2022-03-11
+865,2022-03-14 08:24:10+00:00,1503285847474700292,cardstack,"Happening on 1⃣7⃣ March! 
+
+9:00 AM EDT | 2:00 PM CET | 9:00 PM SGT 
+
+That's only 3⃣days away! Have you cleared your calendar?
+
+#web3webinar #WEB3 #crypto #blockchaintechnology #Defi #Dapps
+
+https://t.co/vLYyp4suV9 https://t.co/3oD96tfTMn",34,1,7,2022-03-14
+866,2022-03-15 16:54:23+00:00,1503776637216870403,cardstack,3/ We accomplish this by using off-chain analytics algorithms written in Python to analyze activities that could be considered spammy and catch bots before the reward distribution is committed on-chain.,12,1,1,2022-03-15
+877,2022-03-16 04:57:11+00:00,1503958532601028608,cardstack,1/ The #Cardstack team met with the @protocollabs  team in charge of maintaining Protocol Labs' https://t.co/j7sWl8V3Xq and https://t.co/cQON2Rn0CW services for a technical architecture discussion.,27,1,8,2022-03-16
+884,2022-03-17 07:59:53+00:00,1504366899399962624,cardstack,"Today's the day we explore the Great Migration of the Internet from #Web2 to #Web3 with @christse! 
+
+Happening at 9:00 AM EDT | 2:00 PM CET | 9:00 PM SGT.
+
+It's not too late to register: https://t.co/Qjt9NuOHPv",29,1,7,2022-03-17
+886,2022-03-18 09:53:25+00:00,1504757859833335825,cardstack,"Where will #Web3 take us in 2022?
+
+➡️  DAOs will reshape e-commerce and the creator economy at large.  
+
+➡️  NFTs will mature, ushering in new transactional infrastructures and ecosystems.
+
+➡️  Old models of work life will change. 
+
+https://t.co/09Lslehn3g",29,2,7,2022-03-18
+888,2022-03-21 10:14:24+00:00,1505850303970942979,cardstack,"6/ Our users will be able to access this feature soon; but right now, it is an easter egg in the shipped app that users must know how to activate.
+
+Stay tuned for more!",17,1,1,2022-03-21
+894,2022-03-22 09:34:13+00:00,1506202578987921410,cardstack,"1/ Last week, we started a series of webinars. In the first installment, @christse, our founding director, discussed the great migration of the Internet from #Web2 to #Web3. 
+
+You can watch it here: https://t.co/j004qe3f4i",32,2,9,2022-03-22
+898,2022-03-23 09:22:12+00:00,1506561944047738882,cardstack,"What's been going on this week? Catch up here: https://t.co/9OaFSGhgeR
+
+#Web3 #dapps #BlockchainTechnology #mainnet $CARD",26,0,9,2022-03-23
+899,2022-03-24 14:47:30+00:00,1507006194216439823,cardstack,"What is #Web3? 
+
+Most people define it in 1 of 3 ways:
+
+➡️ Crypto market
+➡️ dApp infrastructure
+➡️ Use cases &amp; applications
+
+Read more about the key takeaways from our recent webinar here: https://t.co/spdaNMIlkK",23,0,7,2022-03-24
+901,2022-03-25 08:59:59+00:00,1507281129237364760,cardstack,"Our #FiresideChat with HubSpot's CMO Kipp Bodnar is happening on March 30!
+
+@christse &amp; @kippbodnar will be discussing:
+
+✅ Web3 marketing vs Web2 marketing,
+✅ GTM strategies for Web3 projects,
+
+...and much more!
+https://t.co/896Xj7cMc5
+
+#Web3 #dapps #Web3Marketing $CARD",28,3,8,2022-03-25
+903,2022-03-28 09:00:04+00:00,1508368313927311363,cardstack,"Only 2️⃣ days left—are you joining us? 
+
+We hope you've made time on your calendars. Our #FiresideChat is happening this Wednesday, March 30, at 9:00 AM EDT | 3:00 PM CEST | 9:00 PM SGT.
+
+See you real soon! https://t.co/HcczQNEQQC 
+
+#Web3 $CARD",21,3,10,2022-03-28
+909,2022-03-29 07:29:25+00:00,1508707887090368512,cardstack,"5/ We are also building extensions to the Gnosis Safe smart contracts, so that users can create these persona safes on multiple chains, while having the same exact address and the same security settings, regardless of the chain from which they deploy their persona.",21,0,1,2022-03-29
+914,2022-03-30 07:00:00+00:00,1509062871157780484,cardstack,"We're on today! It's not too late to join us for our #FiresideChat at 9:00 AM EDT | 3:00 PM CEST | 9:00 PM SGT.
+
+Register here to receive your invite: https://t.co/nqaPd6oF5C",25,1,8,2022-03-30
+918,2022-03-31 08:42:53+00:00,1509451150122262528,cardstack,"March was a busy month for us here at #Cardstack! 
+
+If you missed any of our updates or announcements, you can catch up on everything here: https://t.co/p2mpV7YJtK
+
+#Web3 #Web3Watch #FiresideChat $CARD",27,2,10,2022-03-31
+921,2022-04-01 07:59:59+00:00,1509802744789581829,cardstack,"Cardstack's Founding Director @christse was interviewed by Benzinga! He talked about how #Cardstack started, how it works, what it focuses on, and what the future holds. 
+
+https://t.co/EEsvDpoSw4
+
+#Web3 #BlockchainTechnology #CardWallet $CARD",32,2,10,2022-04-01
+922,2022-04-04 08:00:02+00:00,1510889918435840000,cardstack,"Did you miss our #FiresideChat with @kippbodnar? Watch the video or listen to the podcast now:
+
+YouTube: https://t.co/WsjCbZkcEy
+
+Spotify: https://t.co/j0bycUemJI 
+Amazon Music: https://t.co/Yg7OINtOE3
+Apple Podcasts: https://t.co/TPOEtKArMc
+Anchor: https://t.co/bjpAHJJOwW https://t.co/7GUcOEz6cL",24,0,9,2022-04-04
+924,2022-04-05 09:25:49+00:00,1511273897479766020,cardstack,1/ Infrastructure stress testing continues to be underway as we onboard large numbers of users.,35,2,8,2022-04-05
+927,2022-04-06 10:29:59+00:00,1511652431289098243,cardstack,"Check out our roadmap update, along with other things we've been up to this past week: https://t.co/TivstQra0w
+
+#Web3 #Defi $CARD #mainnet #Decentralization",19,1,6,2022-04-06
+932,2022-04-07 11:59:59+00:00,1512037468501168136,cardstack,"Join us TODAY for our #FiresideChat with Cardstack's Founding Director @christse and @SkynetLabs CEO @DavidVorick at 9:00 AM EDT | 3:00 PM CEST | 9:00 PM SGT.
+
+https://t.co/knpjstQDNJ",49,1,13,2022-04-07
+941,2022-04-08 08:39:37+00:00,1512349433178079233,cardstack,"Our next #FiresideChat on 14th Apr will be with @UpholdInc's Head of Blockchain Research, Dr. Martin Hiesboeck. 
+
+@christse &amp; @MHiesboeck will discuss:
+
+✅ the technological shift to Web3,
+
+✅  the role of data science in its growth,
+
+...and much more!
+
+https://t.co/OACQEQ5Yz7",28,1,8,2022-04-08
+942,2022-04-11 09:18:47+00:00,1513446450981658630,cardstack,"#Web3Watch is still on this week, remember to join us! 
+
+Our #FiresideChat with @christse and @UpholdInc Head of Blockchain Research, @MHiesboeck is happening on April 14 at 9:00 AM EDT | 3:00 PM CEST | 9:00 PM SGT 
+
+Register here: https://t.co/67jHvhariO
+
+#Web3 #Defi #blockchain",28,2,7,2022-04-11
+943,2022-04-12 09:20:12+00:00,1513809198030942210,cardstack,"9/ As a next step, we want #CardWallet to become a general-purpose wallet that can be used to interact with popular protocols on various Ethereum-compatible layer-1 and layer-2 chains.
+
+Stay tuned! 🤩",20,0,2,2022-04-12
+952,2022-04-13 08:32:54+00:00,1514159683262885889,cardstack,"1/ Our product design team is redesigning #CardWallet, so that users can create a persona represented by their https://t.co/8ABteJz4am user name—and use the wallet as a primary smart contract wallet to interact with #Web3 applications.",20,1,9,2022-04-13
+958,2022-04-14 00:29:58+00:00,1514400533381263362,cardstack,"What an amazing session, Thank you @SkynetLabs ! https://t.co/nmywpQRFfY",20,0,6,2022-04-14
+961,2022-04-15 07:59:41+00:00,1514876096361160708,cardstack,"Next week, we'll be talking to @ConsenSys Director of Comms @JamesJohnBeck about dApp building and Web3!
+
+Join us to learn about the growth of #Web3, the state of development on the Ethereum blockchain, and much more!
+
+Register here: https://t.co/Mt0td1jl9m",20,0,5,2022-04-15
+963,2022-04-16 07:00:00+00:00,1515223466097717252,cardstack,"Happy Easter everyone, have a wonderful weekend! 🐰 https://t.co/7ani0NSTOn",31,2,7,2022-04-16
+964,2022-04-18 09:00:00+00:00,1515978439475531781,cardstack,"This week's #FiresideChat will cover 
+
+✅ the growth of Web3 development in recent years,
+✅ the current state of development on the #Ethereum blockchain,
+✅ the role of @ConsenSys in the overall #Web3 ecosystem,
+
+and much more.
+
+Join us! https://t.co/ZaNgxdUmwG",22,1,8,2022-04-18
+965,2022-04-19 13:34:34+00:00,1516409923835514887,cardstack,"How is #Web3 changing the Internet? 
+
+✔️ Redistributing centralized powers
+✔️ Reimagining social structures
+✔️ Innovating app architectures
+
+Check out our full article about the shift from app to dApp: https://t.co/tbzrCo8Z1s",29,3,11,2022-04-19
+966,2022-04-20 07:38:19+00:00,1516682660495638529,cardstack,"Tomorrow @christse will be speaking with @JamesJohnBeck from @ConsenSys!
+
+Make sure you've registered for our #FiresideChat so you can be part of a compelling conversation:
+https://t.co/JgDyFQWNRc",21,1,9,2022-04-20
+968,2022-04-21 08:00:00+00:00,1517050503783452673,cardstack,"Our #FiresideChat with @ConsenSys is happening today! 
+
+Be sure to catch us at 9:00 AM EDT | 3:00 PM CEST | 9:00 PM SGT 
+
+https://t.co/8fpLfmvh5g
+
+$CARD #decentralization #mainnet #Defi #dapps",25,0,5,2022-04-21
+969,2022-04-22 08:57:03+00:00,1517427249896738822,cardstack,"Want to revisit last week's #FiresideChat about data science? 
+
+Read the full transcript of the talk here: https://t.co/TylYx27h3n",30,2,10,2022-04-22
+971,2022-04-25 09:30:00+00:00,1518522703778562048,cardstack,"What is a dual-token economy? Find out on this week's #FiresideChat.
+
+We talk about:
+✅The various types of digital tokens
+✅Regulatory complications in the digital currency economy
+✅The benefits of the dual-token model
+
+...&amp; more!
+
+#dualtoken #web3
+
+https://t.co/XprcIfLr7d",34,1,12,2022-04-25
+973,2022-04-26 12:54:17+00:00,1518936501853302792,cardstack,"Today, #Web3 mostly uses wallets as simple payment interfaces. 
+
+We need to begin imagining the wallet as a super-app capable of social networking, serving as a tool of identity and more. 
+
+Keen to watch the full conversation? https://t.co/4m8T21ECMg https://t.co/dBGYFB2jS3",28,2,9,2022-04-26
+974,2022-04-27 08:28:06+00:00,1519231902011568128,cardstack,"Did you miss last week’s #FiresideChat with @JamesJohnBeck from @ConsenSys? 
+
+Read the full transcript of the talk about #dApp building and #Web3 here: https://t.co/JmhhNbgSRb",15,0,5,2022-04-27
+976,2022-04-28 07:59:23+00:00,1519587064756461571,cardstack,"Our #FiresideChat on dual-token models is happening today! 
+
+Join us at 9:00 AM EDT | 3:00 PM CEST | 9:00 PM SGT 
+
+https://t.co/D3ZZ44t3X9",16,1,2,2022-04-28
+978,2022-04-29 08:24:48+00:00,1519955848461754375,cardstack,"Did you miss any of our recent announcements? Here's a summary of everything that happened this month at #Cardstack: https://t.co/xdgavLuOuo 
+
+$CARD #Web3 #decentralization #Defi #dapps",22,1,7,2022-04-29
+980,2022-05-02 09:53:24+00:00,1521065308068405249,cardstack,"The smart contract ushered in a whole new world of composability. 
+
+To drive mainstream adoption of #Web3, we must begin transferring that composability over to user experiences. 
+
+Watch the full chapter of our fireside chat! https://t.co/l1ywwh1Jcf 
+
+$CARD #decentralization https://t.co/luoOlTGAQv",17,1,5,2022-05-02
+982,2022-05-03 18:15:26+00:00,1521554037778305024,cardstack,"Curious about the origin of collectible NFTs? Ever wondered how they might be related to net art from the 1990s? 
+
+If you wanna know, read our latest article about the history of NFTs. https://t.co/Oiibqtdy2V",15,2,5,2022-05-03
+984,2022-05-04 07:00:04+00:00,1521746465290440706,cardstack,"#CardPay &amp; #CardWallet users, remember to claim your rewards from Airdrops 1 &amp; 2—the claims expire on May 7th! 
+You can claim your rewards in your Card Wallet mobile app.
+
+Airdrop 3 will be claimable starting May 10th for 30 days. 
+
+More details: https://t.co/CQNH6t2z4I
+
+$CARD",16,1,3,2022-05-04
+986,2022-05-05 07:49:59+00:00,1522121415671042050,cardstack,"Did you miss our #FiresideChat about the dual-token economy last week? You can watch the video or read the transcript here: https://t.co/v2rvNyrePj
+
+#dualtoken #web3 #decentralization",22,0,7,2022-05-05
+989,2022-05-06 07:00:00+00:00,1522471224550563845,cardstack,"Are you following our #Web3Watch series of videos &amp; podcasts?
+
+YouTube: https://t.co/A9yGQPWBu4
+Spotify: https://t.co/GPC4bCrrsR
+Amazon Music: https://t.co/6oxN0VtZ3O
+Apple Podcasts: https://t.co/yTWoKVDJT3
+Google Podcasts: https://t.co/z2UE4k95hb
+Anchor: https://t.co/D96TqWPpB6 https://t.co/m1vEolM9B4",22,0,8,2022-05-06
+991,2022-05-09 18:00:06+00:00,1523724507734814722,cardstack,"Community and cultural value should be at the core of #Web3 marketing. 
+
+We need to begin building shared and meaningful experiences.
+
+What are your thoughts on this?
+
+Watch the full chat on Web3 marketing here: https://t.co/M1F2xIdKoW https://t.co/3sghVIg7N4",14,1,6,2022-05-09
+997,2022-05-10 08:36:02+00:00,1523944942518902784,cardstack,"Did you miss last week’s #FiresideChat on blockchain analytics? 
+You can watch the video, listen to the podcast, or read about our key takeaways from our talk with @nansen_ai: https://t.co/0Grc6K6QYM",14,0,6,2022-05-10
+999,2022-05-11 02:20:34+00:00,1524212840030248961,cardstack,"Catch up on our recent progress around #CardReward, Card Drop, and more! 
+
+https://t.co/tvw5QEPEMw
+
+$CARD",17,0,7,2022-05-11
+1001,2022-05-12 17:00:00+00:00,1524796546558173186,cardstack,"You want to be a writer? And you're into tech? Then we're looking for you! 
+
+Combine your passions as a Technical Writer for Cardstack, where you can work remotely and be part of a great team.
+
+Find out more and apply here: https://t.co/nh5VscfThA https://t.co/J0TjO96WO7",17,3,7,2022-05-12
+1003,2022-05-13 07:12:37+00:00,1525011115566301184,cardstack,"Want to learn more about #Web3 and the future of the internet?
+
+Join @christse  in our #Web3Watch series every Thursday at 9am EDT as he interviews various business leaders and experts in the industry. https://t.co/HReOpj30c6",20,2,8,2022-05-13
+1006,2022-05-16 05:01:56+00:00,1526065387732885507,cardstack,"Ever wondered about the real-world applications of blockchain analytics? 
+
+Watch our #FiresideChat with @nansen_ai Head of Product, John Calabrese for more information about analytics in #Web3: https://t.co/KIbIbAo520
+
+#blockchainanalytics #decentralization #dapps #Web3 https://t.co/j9TJeqR7qG",16,0,5,2022-05-16
+1008,2022-05-17 08:07:16+00:00,1526474417525735425,cardstack,"Curious about the dual-token economy? 
+
+Find out how two-token models can benefit projects and mitigate volatility by watching our #FiresideChat with @CentricRise CEO @RealClelland. https://t.co/TKoFcT9MhE
+
+#dualtoken #cryptocurrency #web3 #Web3Watch $CARD #decentralization https://t.co/PQDYCsvOnF",42,2,20,2022-05-17
+1010,2022-05-18 08:00:18+00:00,1526835051903991809,cardstack,"We're honored to announce that #Cardstack is now a member of the International Association for Trusted Blockchain Applications!
+
+We look forward to working with @INATBA_org to bring positive change to the blockchain ecosystem &amp; promote global blockchain adoption.
+
+$CARD https://t.co/r2RV6r8O9w",27,2,9,2022-05-18
+1012,2022-05-19 03:59:35+00:00,1527136863194173440,cardstack,"Cryptoassets – does the nature of the asset matter?
+
+Join @christse and other industry experts, in this conversation chaired by @avalabsofficial today at  9am EDT | 3pm CET | 9pm SGT.
+
+Don't miss out!
+
+RSVP here: https://t.co/y06azwFrFY https://t.co/l7zCkEMfHC",15,0,4,2022-05-19
+1014,2022-05-20 04:04:19+00:00,1527500442074488832,cardstack,"We're back with another round of Q&amp;A with the #CardstackTeam!
+
+Meet @ManwendraMishra, the man behind Cardstack's product marketing efforts. 
+
+Learn more about his journey with Cardstack here: https://t.co/TozaKM74z2 
+
+Buzz Manwendra for a chat anytime! https://t.co/7YchMEsc3c",17,1,6,2022-05-20
+1016,2022-05-23 07:34:10+00:00,1528640417507557376,cardstack,"For newcomers, the ever-changing world of crypto can seem like the wild west. But it’s a common misconception. Many crypto-based exchanges follow the same compliance guidelines as traditional finance. 
+
+Learn more about Crypto Crime Prevention here:
+https://t.co/o5DXGVF9TQ https://t.co/zC2bsMq6oh",18,0,7,2022-05-23
+1018,2022-05-24 13:33:05+00:00,1529093129516855296,cardstack,"4/ We are working with our design team to connect previous work done in our no-code builder to the new runtime components that are currently under development by our core engineers.
+
+Stay tuned for more updates!",13,0,1,2022-05-24
+1023,2022-05-25 05:29:46+00:00,1529333885024489472,cardstack,"Wanna hear what the #Cardstack team has been working on lately? 
+
+Catch up here: https://t.co/HSzEtFfx74
+
+$CARD #Web3 #Dapp #BlockchainTechnology",16,0,6,2022-05-25
+1025,2022-05-26 04:32:35+00:00,1529681881687547904,cardstack,"We had an insightful conversation with @Etherisc on the Decentralization of Insurance last week!
+
+Here's the transcript of our key takeaways from the #FiresideChat: https://t.co/Gn6wKTulPC
+
+#DecentralizedWeb #Web3 #DecentralizedInsurance #BlockchainTechnology",14,1,4,2022-05-26
+1027,2022-05-27 05:00:00+00:00,1530051168537395207,cardstack,"Besides podcasts, our #Web3Watch Series is also available on YouTube!  
+
+Be sure to subscribe to our YouTube channel to be kept up-to-date on all our latest content.
+
+Web3Watch on YouTube: https://t.co/wLSb8LkKZJ https://t.co/05aPeQLU7D",15,2,6,2022-05-27
+1029,2022-05-30 05:51:09+00:00,1531151203647856643,cardstack,"One huge question still surrounds #NFTs and #Web3 at large—the question of regulation. 
+
+How do we fairly and justly regulate virtual assets? Do NFTs even count as tools of payment? 
+
+Find out more by watching our #FiresideChat on Crypto Crime Prevention. 
+https://t.co/XV6wizcD21 https://t.co/NkxflIUJPn",22,1,7,2022-05-30
+1031,2022-05-31 08:55:35+00:00,1531560006050512901,cardstack,"May is coming to an end and we're busy as ever! Catch up on our product updates, new partnerships, industry insights, and latest events here: https://t.co/m6KdFMHTkd
+
+#Web3 #Decentralization #Blockchain",27,2,11,2022-05-31
+1033,2022-06-01 05:59:59+00:00,1531878205300383745,cardstack,"Blockchain technology is changing the music industry! 
+
+How?
+✅It bridges the gap between fan &amp; artist.
+✅It brings more equitable models of compensation.
+✅It pushes the boundaries of music itself.
+
+Read more:
+https://t.co/lCbwEdsCiT
+
+#blockchaintech #web3 #blockchainmusic",18,0,11,2022-06-01
+1035,2022-06-02 07:51:12+00:00,1532268579780976641,cardstack,"We had a great conversation with @kyc_chain about KYC &amp; digital identity ownership last week!
+
+These are our key takeaways from the #FiresideChat: https://t.co/i9NIUxmqkY
+
+#Web3 #DigitalIdentity #BlockchainTech #dapp",20,0,7,2022-06-02
+1037,2022-06-03 16:09:34+00:00,1532756388321153026,cardstack,"Another exciting #Web3Watch episode is coming up next week!
+
+@christse will be speaking to @hedera's CMO @chasker about the decentralized Web &amp; PoS model.
+
+Get more info here and be sure to sign up! https://t.co/OJEYESBwY9",41,1,18,2022-06-03
+1039,2022-06-06 13:00:43+00:00,1533796024816480257,cardstack,"The mainstream adoption of Web3 must be led by effective, meaningful education built on the open doors of inclusivity rather than the limits of exclusivity. 
+
+Watch Joel Clelland from @CentricRise talk about #Web3 education on our #FiresideChat here: 
+https://t.co/tiJNc2Snt3 https://t.co/K0WHd5d5ZT",110,4,57,2022-06-06
+1041,2022-06-07 04:37:40+00:00,1534031813869551617,cardstack,"Did you know Cardstack's #Web3Watch is on #GooglePodcasts? 
+
+You can listen to our #FiresideChats on web or mobile!
+
+Subscribe now to get alerted on fresh &amp; exciting topics surrounding #Web3 and #BlockchainTech every Thursday!
+
+https://t.co/4jfGRLZocp https://t.co/Avqdi2IdrM",14,1,5,2022-06-07
+1043,2022-06-08 03:23:52+00:00,1534375631844171778,cardstack,"Here's what we've been working on behind the scenes this past week: https://t.co/5gfBrAzktu 
+
+$CARD #BlockchainTech #dapps #Web3",18,0,9,2022-06-08
+1045,2022-06-09 01:36:30+00:00,1534710998258548736,cardstack,"We learned a lot from @fluence_project last week on the topic of Peer-to-Peer Computing.
+
+If you missed it, here's the transcript of our key takeaways from the FiresideChat: https://t.co/4DdTAEwtqb 
+
+#decentralized #web3 #p2p #blockchaintech #blockchaintechnology $CARD",16,1,7,2022-06-09
+1047,2022-06-10 04:33:06+00:00,1535117830710247424,cardstack,"Cardstack recently integrated with @getblockio! 
+
+Here's a quick AMA where we answered some questions from the #GetBlock community: https://t.co/F3lFYzCi02",23,0,7,2022-06-10
+1049,2022-06-13 03:46:48+00:00,1536193341859282945,cardstack,"Let's do identity management in a better way—in a decentralized way!
+
+Learn all about digital identity ownership &amp; KYC from @kyc_chain in our #FiresideChat: https://t.co/E9hJCcvbfq 
+
+#DigitalIdentity #Web3 #BlockchainTech https://t.co/KQJuZlIhun",19,2,8,2022-06-13
+1050,2022-06-15 04:14:07+00:00,1536924991278747648,cardstack,"Ready for tomorrow's #Web3Watch? 
+
+@christse &amp; @adamamcbride from @RugRadio will be discussing:
+
+➡️ The history of #NFTs
+➡️ The impact of NFTs on digital art and the creator economy
+➡️ How NFTs can help eliminate piracy in #digitalart
+
+&amp; more!
+
+Watch here: https://t.co/jCfSPSClQA",19,4,9,2022-06-15
+1052,2022-06-16 06:10:02+00:00,1537316550637760512,cardstack,"The entertainment industry needs fixing. Sketchy signing agreements and unfair models of compensation—no wonder Hollywood is known as an industry of sharks.
+
+#Web3 can help. How?
+✅ Blockchain technology
+✅ NFTs 
+✅ DAOs
+
+Learn more here: 
+https://t.co/9E7rXtitlK 
+
+$CARD",20,0,4,2022-06-16
+1054,2022-06-17 14:52:24+00:00,1537810398761861121,cardstack,"Next week on #Web3Watch, we will discuss BitcoinSV Blockchain with @BSVBlockchain's Founding President, @JimmyWinSV.
+
+BSV is the only public blockchain that offers4⃣crucial characteristics -secure, scalable, stable &amp; supports  safe, instant transactions.
+
+https://t.co/f6ML3tVLWu",54,4,19,2022-06-17
+1056,2022-06-20 14:10:29+00:00,1538887011465105408,cardstack,Our #Web3Watch #FiresideChats are available on #ApplePodcasts! We have new episodes for you every week: https://t.co/8v7JV1m7rr https://t.co/DZR0YBmofd,17,1,6,2022-06-20
+1058,2022-06-21 07:24:04+00:00,1539147121537929216,cardstack,"#Web3 can learn much from Web2’s successful programmatic marketing strategies like SEO, link building &amp; referral traffic—all the stuff that keeps users engaged.
+
+What are some crucial things you have learned from #Web2?
+
+Watch the full conversation here: https://t.co/grEn7VI2vg https://t.co/VupecUCcDo",11,0,5,2022-06-21
+1060,2022-06-22 08:57:10+00:00,1539532938542723072,cardstack,"We're thrilled to share that #Cardstack is now a @gnosisSafe Guardian! 🦸‍♀️🔰
+
+As you know, #CardPay is powered by Gnosis Safe. https://t.co/tr0784C7Xv",22,3,10,2022-06-22
+1062,2022-06-23 09:03:08+00:00,1539896829134966784,cardstack,"We spoke to @adamamcbride of @RugRadio  last week on his favorite subject—NFTs! 🤩
+
+If you missed it, catch the whole scoop here: https://t.co/F1B9OHxf1X 
+
+#BlockchainTech #Web3 #NFTs #nftart $CARD",18,2,6,2022-06-23
+1063,2022-06-24 02:31:48+00:00,1540160732934840321,cardstack,"We'd like to introduce Paulin, our Software Engineering Intern who recently joined the Cardstack team!
+
+Learn some interesting facts about him and his work at the #Cardstack Lab here: https://t.co/HAQ9gcCLVh https://t.co/KbbgrlTIxI",23,6,3,2022-06-24
+1065,2022-06-27 13:59:59+00:00,1541421083693383681,cardstack,"We recently shared a roadmap update for Q2! It talks about all of these products:
+
+✅ #CardSpace
+✅ #CardWallet
+✅ #CardPay
+✅ #CardReward
+✅ #CardCatalog
+✅ #CardSDK
+
+Here's the full update if you missed it: https://t.co/uzXx9g4CIt  
+
+#BlockchainTech #dApp #Web3",19,2,5,2022-06-27
+1068,2022-06-28 09:00:01+00:00,1541707984790863876,cardstack,"We’re excited to welcome a new member to our team: @paulinhapenedo! 
+
+Paula joins the Cardstack family as a Senior Developer, bringing with her 11 years of experience in software development &amp; building web experiences. 
+
+Learn a little about Paula here: https://t.co/j2tp6LSQKz https://t.co/XQz78zDcZi",17,4,2,2022-06-28
+1069,2022-06-29 09:11:43+00:00,1542073317301026818,cardstack,"These are some topics we'll discuss with @MANTRADAO tomorrow 🤩:
+
+📔 The story behind MantraDAO and @SOMA_finance
+🌟 DeFi services offered by MantraDAO and SOMA Finance
+🧐 Challenges in building decentralized organizations
+
+ ⏰ Set your reminders here: https://t.co/b9W3Nit9gg",26,1,8,2022-06-29
+1070,2022-06-30 08:37:35+00:00,1542427112128364545,cardstack,"We recently became a Gnosis Safe Guardian 🦸‍♀️🔰, welcomed new team members, &amp; hosted exciting new #FiresideChats! 🤩
+
+Read all about what we've been up to in the past two weeks: https://t.co/dzPNNHGk5A 
+
+#Web3Watch #Web3 #Gnosis #dapp #blockchaintech $CARD",20,2,4,2022-06-30
+1072,2022-07-01 04:29:59+00:00,1542727191212990465,cardstack,"What's the difference between #CardSpace and #CardFlow anyway ⁉️🤔 
+
+And what's up with the name Card. xyz? 🙄
+
+💡Get all your answers in this product update: https://t.co/bwRszKpn7S
+
+#BlockchainTech #Web3 #dApps $CARD",19,0,8,2022-07-01
+1074,2022-07-04 13:00:29+00:00,1543942825221537792,cardstack,"Introducing Fadhlan Ridhwanallah, our new Blockchain Developer! 
+
+@fadhlanrwn brings with him 3⃣ years of experience in blockchain and payment systems. He has developed dApps on various blockchain platforms, such as Ethereum, Stellar, Tron, and Algorand.
+
+https://t.co/4wj3ZZBh22 https://t.co/67Aa9IYTF8",27,5,6,2022-07-04
+1076,2022-07-05 05:38:29+00:00,1544193982057545731,cardstack,"🤩🚨 Exciting news! 🚨 🤩
+
+We're introducing profile creation rewards for #CardPay &amp; #CardWallet users! 🚀
+
+🌟 New &amp; existing users will be rewarded with 100 CARD.CPXD for creating their first Card. xyz profile.
+
+💡How does this work?  
+https://t.co/rtTZ2w9qCS
+
+$CARD",22,3,8,2022-07-05
+1078,2022-07-06 07:33:07+00:00,1544585218287435776,cardstack,"😖 Digital piracy and copyright are a huge problem in the entertainment industry.
+
+💡The solution? #BlockchainTechnology!
+
+🤔 So how can blockchain help? And how can #Web3 work as a copyright protection system? 
+
+➡️ Read on here: https://t.co/ne6PoTO5Pb",17,0,5,2022-07-06
+1079,2022-07-07 11:47:31+00:00,1545011626486685697,cardstack,"🔔Next week on #Web3Watch: 
+
+Decentralized Cloud Computing with @RunOnFlux Co-founder &amp; CSO @dak_flux 
+
+Cloud computing is dominated by tech giants. But a Web3 project is disrupting the industry with a scalable decentralized cloud infrastructure!
+
+Sign up: https://t.co/1C43L2O6xh",56,3,22,2022-07-07
+1080,2022-07-08 12:00:12+00:00,1545377206045663232,cardstack,"How would you like to use your digital currencies?
+
+Listen to Chris Tse and Jimmy Nguyen from @BSVBlockchain talk about the potential of blockchain in this #FiresideChat: https://t.co/ucxXeIZiDm https://t.co/B6bzj2ZQiR",16,2,6,2022-07-08
+1081,2022-07-11 10:00:00+00:00,1546434120305328130,cardstack,"Building an eco-conscious NFT marketplace—that's what our project with students from NYU's Computer Science grad program was all about.
+
+The students created a system called NFT Purge with 3 steps to make an #NFT emissions offset transaction.
+
+https://t.co/r5Go5eGB8X 
+
+#web3 https://t.co/QDR5MhC6IE",20,1,7,2022-07-11
+1082,2022-07-12 12:52:03+00:00,1546839808722567174,cardstack,"In tomorrow's #FiresideChat, @christse and @dak_flux of @RunOnFlux discuss:
+
+💡What’s decentralized cloud computing and why does it matter?
+💡Flux’s vision for the Web3 ecosystem
+💡Challenges in building a decentralized cloud computing network
+
+Watch here: https://t.co/HHGl7UF3h5",40,1,15,2022-07-12
+1083,2022-07-13 14:15:07+00:00,1547223098856030210,cardstack,"🚨 Announcing Staking for CARD.CPXD Tokens! 🚨
+
+Starting on August 1, users will be able to stake their CARD.CPXD tokens on Gnosis Chain, using Card Wallet! 
+
+For more details, take a look at this blog post: https://t.co/4UzORWCLq3
+
+#StakingRewards #Staking #Cardstack #CardWallet",30,3,12,2022-07-13
+1084,2022-07-14 07:09:30+00:00,1547478378856742912,cardstack,"The @EthCC - Ethereum Community Conference organized by @Ethereum_France takes place next week!
+
+We're thrilled and honored to have Cardstack's Founding Director @christse speak at this conference about building for the #decentralized future using blockchain!
+
+$CARD https://t.co/RuSWywGJVS",19,3,9,2022-07-14
+1086,2022-07-15 03:58:16+00:00,1547792640204087297,cardstack,"Ever wondered who's in charge of coaching &amp; supporting Cardstack’s 🌎 global development team?
+
+Meet @lukemelia, our faithful Engineering Manager!
+
+Besides work, Luke loves sports &amp; cooking! (If you ask nicely, he might share his recipes.) 😉👨‍🍳
+
+https://t.co/pZbgtT5eKq https://t.co/JqSDEJL95Y",19,4,2,2022-07-15
+1088,2022-07-18 08:59:59+00:00,1548955734393626624,cardstack,"🤑 What's the best way to generate revenue in Web3? 
+
+💡 For #Web3 to become a healthy ecosystem, we must focus on driving commercial activity between buyers and sellers. 
+
+@christse shares more in this article: https://t.co/MSn8GzgqWe",24,1,9,2022-07-18
+1089,2022-07-19 08:33:05+00:00,1549311350912024576,cardstack,"""Data is the new oil."" Today, Clive Humby's statement is more accurate than ever.
+
+Don't miss tomorrow's #FiresideChat with @arietrouw of @OfficialXYO! 
+
+XY Labs is building a data marketplace for a secure and trusted data-driven economy.
+
+🎙 Watch here: https://t.co/hlLZupfj8g",58,3,12,2022-07-19
+1091,2022-07-20 07:57:24+00:00,1549664759649370112,cardstack,"🤷‍♂️ Excited about staking, but still figuring things out in crypto-land?
+
+💡 We've got you covered! In this Beginner's Guide to Crypto Staking, learn:
+
+👨‍🏫 What is crypto staking?
+👨‍🏫 How does it work?
+👨‍🏫 What is proof-of-stake?
+
+....and much much more!
+
+https://t.co/ZgYGopfH5D",22,2,7,2022-07-20
+1092,2022-07-21 15:07:36+00:00,1550135409790918659,cardstack,"🎙️ Next week's #Web3Watch brings you:
+
+@dabit3, @CelestiaOrg's Developer Relations Engineer and @developer_dao 's Co-Founder, to discuss:
+
+💡The vision behind Celestia Labs &amp; Developer DAO
+💡Building the first modular consensus network
+
+and much more!
+
+https://t.co/uWcCh704Z2",29,1,13,2022-07-21
+1094,2022-07-22 08:46:24+00:00,1550401864017088513,cardstack,"The NFT market is evolving, and there is a tremendous amount of energy around cultural valuation. 
+
+Listen to @christse and @adamamcbride talk about reshaping art marketplaces here: https://t.co/hfb2AyngSL  
+
+Recently purchased an #NFT? What is the value you see in NFTs? https://t.co/XSlnJJVukB",25,3,5,2022-07-22
+1095,2022-07-25 08:14:59+00:00,1551481123989061632,cardstack,"How can #Web3 improve the user experience and finally infiltrate the mainstream? 
+
+Check out our #FiresideChat with @MANTRADAO's @Will_Corkin to learn more!
+https://t.co/SdVyPL2f63 
+
+#Defi #BlockchainTechnology $CARD https://t.co/kZiwn9GCGN",37,0,14,2022-07-25
+1096,2022-07-26 08:34:31+00:00,1551848427599822848,cardstack,"The current blockchain ecosystem has redefined application development but is still considered monolithic when it comes to flexibility. 
+
+Learn about Building on Modular Blockchains with @dabit3 of @CelestiaOrg tomorrow! 
+
+🎙️ Set your reminders here: https://t.co/HQvUqFvs7b",17,0,5,2022-07-26
+1097,2022-07-27 08:24:30+00:00,1552208293988384770,cardstack,"Earlier this year, #CardWallet got some new designs! They include:
+
+✅Updated Navigation
+✅Create Your CARD. XYZ Profile
+✅Request Payments
+✅Updated Wallet Experience
+✅Rewards
+✅Updated Settings Menu
+
+Tried it out yet? What do you think?
+
+https://t.co/BpVL0qXHbQ https://t.co/JJtKfjdWV5",19,3,8,2022-07-27
+1098,2022-07-28 08:45:37+00:00,1552575995806457856,cardstack,"📢 Staking begins next week! Have you read our announcement yet? 
+
+Find out:
+
+🤔 How is $CARD token staking different from others?
+🤔 What is included in the first phase of staking?
+🤔 How are staking rewards calculated?
+
+...and much more here: https://t.co/vUQXGpBr3W",25,0,8,2022-07-28
+1100,2022-07-29 10:41:01+00:00,1552967422885482498,cardstack,"🔔 What's new here at Cardstack❓
+
+👉Staking coming up August 1st!
+👉How to solve crypto's revenue problem
+👉Chris Tse at EthCC
+👉New fireside chats
+
+....and much more!
+
+Catch up here: https://t.co/RRsaK7iiBx",21,2,8,2022-07-29
+1101,2022-08-01 13:24:12+00:00,1554095653881782273,cardstack,"Step 4⃣:
+
+Your funds are added to a depot in your Card Wallet (the depot is created when you bridge for the first time). 
+
+Once your CARD.CPXD tokens appear in your depot, your staking starts automatically.
+
+👉Read more in our staking announcement here: https://t.co/R1T6RN482r",8,0,1,2022-08-01
+1105,2022-08-02 08:18:44+00:00,1554381169004871681,cardstack,"🗓️Tomorrow on #Web3Watch with @econ_digital:
+
+Learn all about a new human-centered digital economy based on sustainability, transparency, decentralization, individual privacy, and radical collaboration.
+
+🎙️ Watch here: https://t.co/VJeSavslNG 
+
+#BlockchainTechnology #Web3",20,2,5,2022-08-02
+1106,2022-08-03 09:16:47+00:00,1554758167627796480,cardstack,"Blockchain is about data. From data availability to data sharing, data is essential.
+
+Learn more about blockchain and data analytics in this chapter of our fireside chat with @FantomFDN’s CEO: https://t.co/gebECu1HQ3 https://t.co/ZWqujoCxst",18,1,8,2022-08-03
+1107,2022-08-04 10:03:24+00:00,1555132285011349504,cardstack,"🎙️In our #firesidechat next week, we speak to @BrendanPlayford, Founder of @getmasafi.
+
+Masa Finance is a #DeFi project working to help build DeFi credit products that are on par with the existing centralized credit paradigm.
+
+https://t.co/BCe4LEKTlW 
+
+#BlockchainTechnology #Web3",27,1,10,2022-08-04
+1108,2022-08-05 08:43:20+00:00,1555474525042663426,cardstack,"Time for another Cardstack Q&amp;A!
+
+Ian Calvert is a Sr Analytics Developer. He is currently building out the #CardRewards protocol and infrastructure, which includes airdrops, profile creation rewards, and the upcoming staking system.
+ 
+More on Ian here: https://t.co/V5It7IRxul https://t.co/Avtgmwn9pP",22,8,4,2022-08-05
+1109,2022-08-08 08:10:59+00:00,1556553544601305088,cardstack,"In his latest byline, @christse argues why #Web3 must focus on building a solid foundation for commerce through the use of stablecoins to eliminate volatility and promote mainstream adoption. 
+
+👉 Read more here:
+https://t.co/8wecZv4QjH",22,4,5,2022-08-08
+1110,2022-08-09 08:06:11+00:00,1556914725321166849,cardstack,"Tomorrow on our #Web3Watch with @getmasafi, we'll discuss:
+
+👉 What is a #DeFi credit protocol and why does it matter?
+👉 Challenges in building a credit protocol
+👉 Masa Finance's vision for the #Web3 ecosystem
+
+....and much more!
+
+🎙️ Set your reminders: https://t.co/SIan12m22A",20,2,9,2022-08-09
+1111,2022-08-10 06:37:50+00:00,1557254878669737984,cardstack,"@getmasafi It was a very insightful session for us, thank you! 🚀",6,0,1,2022-08-10
+1113,2022-08-11 09:04:22+00:00,1557654143153901569,cardstack,"👉 Concerns around user privacy remain one of the biggest problems in centralized messaging platforms.
+
+#Web3 project @Satellite_im works to change that. 
+
+Next week, we speak to @RetroPronghorn of https://t.co/B5Ms0FBDkG about decentralized messaging.
+
+https://t.co/DpZfSUS1uw https://t.co/Ugkyp2sI3Y",25,4,8,2022-08-11
+1114,2022-08-12 07:15:00+00:00,1557989010689114113,cardstack,"🔔 In this round of Q&amp;A with the Cardstack team, we learn about Justin, who works on the Cardstack reward system, making sure it is rewarding 🎁 in just the right ways.
+
+When he takes a break, he’s on the streets practising his awesome skating skills 🛹!
+
+https://t.co/wGt2aZN1w5 https://t.co/AkMYgv7ori",18,4,4,2022-08-12
+1115,2022-08-15 07:21:46+00:00,1559077875940196352,cardstack,"📢 A lot of development is going on behind the scenes here at #Cardstack! 
+
+🚀 Here are some crucial updates from our engineering team on the Cardstack Protocol, Framework, Wallet &amp; App Suite: https://t.co/BQuTGbrycY 
+
+#blockchaintechnology #Web3 #DApps $CARD",24,1,10,2022-08-15
+1117,2022-08-16 08:20:19+00:00,1559454996311179266,cardstack,"Tomorrow on #Web3Watch with @Satellite_im, we discuss:
+
+✅ What is multi-platform decentralized messaging?
+✅ Why build a decentralized messaging system against current apps like WhatsApp?
+
+...and much more!
+
+🎙️Tune in here: https://t.co/Mc5PEG6HEw",22,2,9,2022-08-16
+1119,2022-08-17 15:01:40+00:00,1559918387530272768,cardstack,"Not sure when to deploy your own blockchain or when to use a shared environment? 
+
+Check out our #FiresideChat with @christse &amp; @dabit3 where they discuss the power of self-deployed blockchains: https://t.co/cekwwhIrrv https://t.co/XXynbCnvCG",25,2,9,2022-08-17
+1121,2022-08-18 07:31:54+00:00,1560167588474273793,cardstack,"The biggest promise of #Web3 is that it will deconstruct the centralized powers of Web2 tech companies—through #decentralized protocols and software.
+
+How does Web3 undo these power structures❓🤔
+
+Read the full article here: https://t.co/O97rPDD96e",10,2,7,2022-08-18
+1123,2022-08-19 08:30:00+00:00,1560544600460230657,cardstack,"Meet Dani, Cardstack's Senior Software Engineer—a tech enthusiast working on #CardstackWallet! 
+
+When she’s not geeking out on coding, she’s likely to be found venturing into beautiful landscapes on her motorcycle!
+
+More on Dani here: https://t.co/YpRTAdllGW https://t.co/aGjhkBPeOK",19,4,7,2022-08-19
+1124,2022-08-22 06:22:11+00:00,1561599598212308992,cardstack,"What is the value of self-sovereign identity in the decentralized world?
+
+Learn more about this in our #Web3Watch episode on Decentralized Insurance: https://t.co/eAQN6oC2lJ 
+
+$CARD #decentralization #web3 #dapps #defi #blockchaintechnology https://t.co/KmQFHgpM5u",14,1,7,2022-08-22
+1126,2022-08-23 08:19:42+00:00,1561991557628444672,cardstack,"🎙️ In tomorrow's #firesidechat, we discuss blockchain nodes &amp; dApp development, including:
+
+➡️ GetBlock's vision for the #Web3 ecosystem
+➡️ Why choose @getblockio over running your own node?
+➡️ Different types of nodes offered by GetBlock
+
+... &amp; more!
+
+👉 https://t.co/4DN6jD1dvA",22,3,5,2022-08-23
+1127,2022-08-24 06:56:50+00:00,1562333092190203904,cardstack,"Hollywood is well-known as an industry of sharks. And its bloodthirsty reputation doesn't seem set on disappearing anytime soon.
+
+Can #Web3 aid in improving this sentiment towards the media &amp; entertainment industry?
+
+https://t.co/ajZK65ETix 
+
+#BlockchainTechnology #decentralized",12,1,5,2022-08-24
+1128,2022-08-25 08:40:20+00:00,1562721526751055872,cardstack,"8/ We will roll out features from this B2B app suite on an iterative basis, tapping into new protocol features from the #CardstackProtocol team as they become available.",14,0,2,2022-08-25
+1137,2022-08-26 08:54:19+00:00,1563087431884161024,cardstack,"🔔 One of the many valued Senior Developers on our team, Doug works to improve Cardstack Wallet’s quality and bring new features to life! 
+
+Besides working, he is a gamer at heart and enjoys pixel art-styled indie games 🎮. 
+
+👉 More on Doug here:
+https://t.co/5aY6nPcRdk https://t.co/e89vrFqsU8",16,5,3,2022-08-26
+1138,2022-08-29 08:36:08+00:00,1564170019512229890,cardstack,"📢 Excited for our live AMA on September 1st?
+
+Get updates directly from our Founding Director @christse!
+
+You will be able to submit questions on Zoom directly, so remember to prepare your questions in advance.
+
+🗓️ Register NOW for the live Q&amp;A on Zoom:
+https://t.co/PliJKpFfgG",13,2,5,2022-08-29
+1139,2022-08-30 15:40:06+00:00,1564639104758841345,cardstack,"🎙️ Tomorrow on #Web3Watch with @epnsproject, we talk about these topics:
+
+✅ The vision of EPNS
+✅ Why build a push notification communication protocol?
+✅ Challenges in building a push notification system on blockchain
+
+... &amp; more!
+
+Set your alerts here: https://t.co/bdtpX0h7sA",15,0,8,2022-08-30
+1140,2022-08-31 08:14:57+00:00,1564889464203345920,cardstack,"📢 Catch up on our latest updates, including tomorrow's AMA and our new fireside chats!
+https://t.co/XdbECepgaJ
+
+#BlockchainTechnology #dApps #defi #Web3",12,0,7,2022-08-31
+1141,2022-09-01 06:12:36+00:00,1565221063977742337,cardstack,"7/ We plan to integrate more convenient tools for reloading or adding to the balance of the safe in future releases.
+
+Stay tuned!",17,0,3,2022-09-01
+1149,2022-09-02 02:14:35+00:00,1565523552937328640,cardstack,"#Decentralization shouldn't feel like you're scattering yourself. It should feel like all your things are centered around you! 
+
+That's where the Cardstack Hub comes in—your hub around you, not around the project, the #dApp, or the protocol.
+
+https://t.co/YRV1MahjJm https://t.co/RHQiiEgL82",21,1,7,2022-09-02
+1151,2022-09-05 08:30:01+00:00,1566705195316396033,cardstack,"VC funding comes with unrealistic growth expectations and IPO pressures. Even once progress is made, big tech has a knack for acquiring innovative projects to eliminate competition. 
+
+With a decentralized Internet, great products will no longer be killed by big tech!
+
+#Web3 https://t.co/dNTT6nrdAR",24,1,9,2022-09-05
+1152,2022-09-06 08:20:34+00:00,1567065205221326849,cardstack,"🎙️ Tomorrow, we talk about the creator economy with @rustymatveev, CEO of @CalaxyApp!
+
+#Calaxy is an open social marketplace built for creators, by creators. In this #firesidechat, we'll discuss how Calaxy is revolutionizing the creator economy. 
+
+https://t.co/5maKj6avc4
+
+#Web3",23,1,9,2022-09-06
+1153,2022-09-07 08:49:57+00:00,1567434988533997571,cardstack,"📺 In our recent AMA, @christse answered community questions about Cardstack's strategy, protocol, product &amp; marketing, including:
+
+ ✅ Priorities &amp; planned launches for 2022
+ ✅ The B2B invoicing product
+ ✅ Questions on staking &amp; the #CardstackWallet
+
+ https://t.co/sfJbR63gN0",18,5,4,2022-09-07
+1154,2022-09-08 13:00:23+00:00,1567860399919321093,cardstack,"🎙️Next week on #Web3Watch! 
+
+We discuss the usability-focused Web3 ecosystem with @NEARProtocol's Co-Founder @ilblackdragon.
+
+We'll cover:
+
+➡️ NEAR Protocol’s vision, ecosystem &amp; initiatives
+➡️ Challenges Web3 faces today
+
+...and much more.
+
+Register here: https://t.co/bAlwG0fRv7",15,5,3,2022-09-08
+1155,2022-09-12 09:00:08+00:00,1569249489017344000,cardstack,"👉 “Make an awesome product, make something that people need and it just so happens that it’s built on top of blockchain.” - @RetroPronghorn
+
+Watch the full #firesidechat with @Satellite_im on decentralized messaging and the importance of blockchain: https://t.co/kRMvtuhpn2 https://t.co/RYElsZqQAG",23,4,9,2022-09-12
+1156,2022-09-13 09:27:23+00:00,1569618735308079106,cardstack,"Our #firesidechat with @NEARProtocol is tomorrow!
+
+NEAR is a sharded, proof-of-stake, layer-one blockchain that is simple to use, secure, and scalable.
+
+Join us for an insightful session on usability-focused #Web3 with NEAR's Co-Founder Illia Polosukhin.
+
+https://t.co/nKNewTMxWz",23,2,6,2022-09-13
+1157,2022-09-14 08:33:38+00:00,1569967597491482625,cardstack,"👋 Meet Buck! Part of Cardstack’s web team, Buck works on maintaining the Ember-based dApp &amp; Card. xyz
+ 
+Buck occasionally plans software-driven urban exploration puzzle-solving adventures, akin to hybrid digital-analog scavenger hunts!
+ 
+👉 https://t.co/cJMSvZhhEc https://t.co/kG9VD2SopM",13,2,3,2022-09-14
+1158,2022-09-15 06:52:45+00:00,1570304597411102722,cardstack,"🎙️ Web3Watch brings you @christse &amp; @synthetix_io Founder @kaiynne next week!
+
+We'll cover:
+✅ What are synthetic assets and why do they matter?
+✅ Why build a decentralized derivatives liquidity protocol against current banking models?
+
+...&amp;  more!
+https://t.co/VPcgx249xF",17,1,4,2022-09-15
+1159,2022-09-16 03:29:25+00:00,1570615813165522952,cardstack,"📢 A lot is going on in the cryptosphere—and here at Cardstack!
+
+➡️ Check out our recent AMA, find out what we're working on, and sign up for the next fireside chat!
+
+ 👉 Get the scoop here: https://t.co/QshyDiPEJw",19,0,4,2022-09-16
+1161,2022-09-19 12:58:57+00:00,1571846304300507136,cardstack,"📺 Get Cardstack's strategy &amp; protocol updates from our recent AMA!
+
+@christse answered questions like:
+
+➡️What chains do you plan to support❓
+➡️What pain points is Cardstack solving in #Web3?
+
+&amp; more!
+Check out part 1 of the #CardstackAMA article series: https://t.co/aRIXN2aSXt",17,1,6,2022-09-19
+1162,2022-09-20 08:25:45+00:00,1572139942113062913,cardstack,"🎙️Want to know what @synthetix_io is about?
+
+➡️It is an open-source #DeFi protocol based on the Ethereum blockchain &amp; powered by its SNX token. 
+
+➡️The project allows users to create their own “synthetic” assets.
+
+Learn more tomorrow in our #firesidechat: https://t.co/GlXsa9SMyT",14,3,3,2022-09-20
+1163,2022-09-21 07:27:56+00:00,1572487778323120129,cardstack,"The biggest promise of #Web3 is that it will deconstruct the centralized powers of Web2 tech companies—through decentralized protocols and software.
+
+How does Web3 undo these power structures❓🤔
+
+Read the full article here: https://t.co/kOAyarV2vE",21,2,5,2022-09-21
+1164,2022-09-22 08:46:47+00:00,1572870009457897472,cardstack,"🎙️Storage and processing of PII has been under severe scrutiny in recent years due to privacy scandals such as Cambridge Analytica.
+
+Next week's #Web3Watch, Identity's CEO, @pbsIdentity, discusses their vision to perform identity verification without PII.
+
+https://t.co/mHoMuSmL7G",15,2,7,2022-09-22
+1165,2022-09-23 08:00:13+00:00,1573220679159365633,cardstack,"There are two economies: the physical and the digital. 
+
+The former contains real-life limits while the latter offers an economics of abundance that encourages play and exploration. 
+
+But how do we fairly reconcile the two?  https://t.co/azTZX1rzI2 https://t.co/KcojX029Ij",16,4,3,2022-09-23

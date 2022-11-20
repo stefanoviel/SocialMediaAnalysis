@@ -1,0 +1,1236 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-07-30 08:24:32+00:00,1288752322768666624,bprotocoleth,"B.Protocol Introduction.
+A new revolutionary way to deal with liquidations on Ethereum.
+https://t.co/rMOPgLPOyN",4,0,1,2020-07-30
+1,2020-08-11 07:19:07+00:00,1293084514160435200,bprotocoleth,"A new post on how we achieve fairness among @MakerDAO liquidators, and give the MEV (miners extractable value) to MakerDAO users. https://t.co/UHF5aXoUjF",4,0,2,2020-08-11
+2,2020-08-19 11:08:57+00:00,1296041459020423168,bprotocoleth,"We implement layer 1 MEV auction for @MakerDAO liquidations, which will shift the MEV to the users. @VitalikButerin @karl_dot_tech https://t.co/9gak0yF5IU",12,1,2,2020-08-19
+3,2020-08-31 11:50:36+00:00,1300400594658549761,bprotocoleth,"Great article by @DeFiSaver. User should do whatever they can to avoid liquidation. But when they do happen, strong backstop is needed. Going live on October, B.Protocol will bring committed liquidators to @MakerDAO and shift the miner's profits during liquidations to the users. https://t.co/Z88MEgibWP",4,0,0,2020-08-31
+4,2020-09-13 06:46:52+00:00,1305035198606782464,bprotocoleth,"Welcome to join us for a short voice meeting on the ETH Network discord, where we will introduce B.Protocol and answer your questions. Sunday (today) 11AM EST. 
+
+Join the ETH Network server here - https://t.co/wuSQdg1zNn 
+
+The meeting will be held on the Meeting voice channel. https://t.co/2mXSssCeDW",8,0,5,2020-09-13
+5,2020-09-14 14:01:15+00:00,1305506904240775169,bprotocoleth,https://t.co/T4y4EXNP5d https://t.co/7W1TCL47bp,4,2,0,2020-09-14
+6,2020-09-22 08:02:24+00:00,1308315698893119489,bprotocoleth,All are welcome to join #Liquidity2020 and listen to our CEO @yaron_velner explaining how a liquidity backstop solution like the one @bprotocoleth builds will stabilise DeFi lending platforms by shifting MEV (miner's profits) to users. Specific time slot will be published soon. https://t.co/vVVi8MxKjt,10,1,5,2020-09-22
+8,2020-09-23 12:35:39+00:00,1308746852121141249,bprotocoleth,"In Ethereum dark forest the miners will take all the profits in liquidations. Keepers incentive to stabilize platforms like @MakerDAO will decrease.
+In a joint writeup with @gnosisPM we analyze how the two protocols mitigate front running and the MEV. https://t.co/qEqyBrMWqx",15,0,4,2020-09-23
+9,2020-09-24 07:38:13+00:00,1309034389440000001,bprotocoleth,"There are ways to mitigate such rapid liquidation events from happening. @bprotocoleth is working on one. Launching next month. Join our Discord to follow closely on the coming news -
+https://t.co/RON4o6VLPh https://t.co/gEja7slJVp",2,0,1,2020-09-24
+11,2020-09-26 18:47:01+00:00,1309927471303847936,bprotocoleth,"If you were reading @danrobinson  adventures at the Dark Forest, and then the $10m chapter by @samczsun, you don't want to miss the 3rd chapter by @mierzwik. Eventually miners will run these themselves and take all the profits - MEV is a real issue, if you had a doubt. https://t.co/SRXyj69gn9",7,0,1,2020-09-26
+12,2020-09-29 09:46:03+00:00,1310878496022036480,bprotocoleth,"Out testnet integration with @MakerDAO is live on Kovan. Give it a try on https://t.co/S1UmrGmtrh. Share your feedback here or on our Discord - https://t.co/RON4o6VLPh - which is the place to be for our mainnet launch, planned for October (and for requesting test ETH if u need). https://t.co/PG4dxQROAw",5,0,2,2020-09-29
+13,2020-10-01 06:19:03+00:00,1311551180296912896,bprotocoleth,"Miners taking dex arbitrage profits to themselves is tolerable. But lending platforms crucially rely on the ability to incentives liquidators. And every $ the goes to MEV makes them less stable. We let smart contract prioritize the liquidators, and give the MEV to users. https://t.co/PguftUxZj1",2,0,0,2020-10-01
+17,2020-10-04 17:30:56+00:00,1312807429986488320,bprotocoleth,"Solidified report: https://t.co/tdlRHak59y
+
+Will and Lucas report:
+https://t.co/So00hsoBhx",3,0,2,2020-10-04
+19,2020-10-06 14:30:00+00:00,1313486671791435777,bprotocoleth,"Just a reminder for all of you out there - 
+Join us in 2 hours (Tue. Oct 6 09:30am PST, 06:30pm CEST) to hear @yaron_velner explains how B.Protocol will help hedging risk in the stormy world of #defi
+
+Free registration at https://t.co/km3pyesm77 https://t.co/b92wsywmMb",1,0,0,2020-10-06
+20,2020-10-11 15:03:42+00:00,1315307089674342402,bprotocoleth,More details coming soon. https://t.co/uZVQkD9oyv https://t.co/BwodMsAIVw,8,0,0,2020-10-11
+21,2020-10-14 11:50:11+00:00,1316345553350012928,bprotocoleth,"@TheBlock__ @saniyamore It's an important issue, not being discussed enough. Learn the  @bprotocoleth approach to mitigating MEV through a liquidity backstop protocol for DeFi lending platforms. We incentivize liquidators to shift MEV back to the users of the platforms.
+
+https://t.co/qEqyBrMWqx",1,0,0,2020-10-14
+22,2020-10-18 15:54:04+00:00,1317856480989712384,bprotocoleth,"Come and listen today to @yaron_velner talking about how B.Protocol is stabilizing #DeFi lending platforms by shifting MEV (miners extractable value) back to users, and the mainnet launch on the 26th. @DystopiaLabs #Liquidity2020, Sunday, Oct 18th, 1:30pm PT| 10:30pm CEST https://t.co/kyO8picvgy",6,0,4,2020-10-18
+23,2020-10-24 15:13:06+00:00,1320020499334877186,bprotocoleth,"Last piece in the puzzle before mainnet launch with our first integration on top of @MakerDAO... 
+
+Get ready. https://t.co/f4Vvf7jQig",4,0,2,2020-10-24
+24,2020-10-27 13:22:50+00:00,1321079913869414400,bprotocoleth,"Hours after our mainnet launch, we will present B.Protocol today at the @MakerDAO community call with @Davidutro, and give a demo and answer Q&amp;A.
+
+Join us today, Oct 27th, 9AM PT |12PM EST | 6PM CEST
+
+https://t.co/vp8ncLSqCS",5,0,1,2020-10-27
+35,2020-10-28 11:43:03+00:00,1321417189036118017,bprotocoleth,"If you already hold a MakerDAO vault, then you could only profit from importing it to B.Protocol.
+
+The web interface app is hosted at https://t.co/T4UGhMd2Ff https://t.co/BCtzdk6RQx",4,0,0,2020-10-28
+38,2020-10-29 08:12:26+00:00,1321726575486914565,bprotocoleth,"Our side of the story:
+We meant no harm, and no harm was made.
+@MakerDAO was never under real threat, and flashloans are only a future (theoretical) threat.
+B.Protocol is built on top of Maker, and makes it stabler by bringing  committed Keepers, who share proceeds with users 👇 https://t.co/CE5nZxLSx5",30,3,7,2020-10-29
+45,2020-10-31 15:03:54+00:00,1322554898681135105,bprotocoleth,"Weekend is here and gas prices are low.
+Have a @MakerDAO Vault? import it and get:
+💰 Share liquidation proceeds with the backstop
+🤖 Voting power on the protocol upgrade
+⏰ x2 points during the first month 
+
+Only one tx is needed.
+
+https://t.co/T4UGhMd2Ff",5,0,1,2020-10-31
+46,2020-11-01 10:07:00+00:00,1322842571467563012,bprotocoleth,"Great explanation on how B.Protocol makes @MakerDAO more stable. 
+5 days from launch and over $2m Vaults are managed with B.Protocol interface and share liquidation proceeds.
+
+Import your Vault, or open a new one at https://t.co/T4UGhMd2Ff https://t.co/umI8Tc9qwe",14,0,2,2020-11-01
+47,2020-11-02 07:54:04+00:00,1323171502796189696,bprotocoleth,"We are growing📈
+
+6 days after 🚀 - 
+🔒6.3k $ETH locked (over $2.5m)
+💰1.1m $Dai borrowed 
+🧳70 Vaults Imported/managed on B.Protocol
+
+Import your @MakerDAO ETH-A Vault now and start accumulating your share of liquidation proceeds
+
+https://t.co/m8uyfORwPl
+
+https://t.co/wcqZhvMoWZ",8,0,3,2020-11-02
+50,2020-11-03 09:16:53+00:00,1323554733588623360,bprotocoleth,"If you want to learn more or ask anything about B.Protocol - join our Discord - 
+https://t.co/RON4o6VLPh https://t.co/X7YnIdVG9w",3,0,1,2020-11-03
+52,2020-11-04 16:48:07+00:00,1324030678799966209,bprotocoleth,"Join us tomorrow for a live youtube AMA with @chainlink. 
+We will discuss how @MakerDAO Vault owners get rewarded by managing their Vaults on B.Protocol. And how #Chainlink makes our system more secure.
+
+Tomorrow, Nov. 5th, 9am EST/ 3pm CET.
+
+https://t.co/klm7cV8oFx https://t.co/JnRGCyOEml",81,0,22,2020-11-04
+53,2020-11-05 13:58:10+00:00,1324350297469321216,bprotocoleth,"We are starting in 5 minutes our live AMA on the Youtube channel of @chainlink. Join us -  
+
+https://t.co/sVmw6xvMbW https://t.co/LFCFQAtrec",3,0,1,2020-11-05
+54,2020-11-08 17:41:49+00:00,1325493743412244481,bprotocoleth,"@CCassets Technical team is composed of @yaron_velner who is the founder, previously the CTO of @KyberNetwork, and also shipped the @WrappedBTC smart contracts.
+And of @JChittoda who was previously a smart contract architect at @mstable_, and @AaveAave.
+@EKatchka manage the ecosystem.",3,0,0,2020-11-08
+56,2020-11-09 08:32:59+00:00,1325718013660831746,bprotocoleth,"@Smart_Contract @chainlink @xdaichain @EquilibriumDeFi @ZenlinkPro @DipperNetwork @DigitalBridgeIO @PolyientGames Have a Vault on @MakerDAO?
+Here is why you should manage it via B.Protocol.
+
+- Try us out at https://t.co/gBY0oGy6qj
+- Find out more at our discord https://t.co/mrRd7rV3j2
+- TL/DR info https://t.co/tiTxx4Abum…
+
+💰Over $4.5M already imported
+⏳3 weeks left for early user bonus. https://t.co/siclqx45ul",4,0,0,2020-11-09
+58,2020-11-10 14:19:08+00:00,1326167510413139975,bprotocoleth,"KeeperDAO or B.Protocol? 
+Turns out you don't have to choose - 
+This guy borrowed $110k via B.Protocol and staked them as kDai on @Keeper_DAO.
+#DeFi #Composability
+
+1.Borrow Dai via B.Protocol - https://t.co/3aRDNNBSCA
+
+2.Deposit Dai for kDai on KeeprDAO -
+https://t.co/XRK8qoDv6A",13,0,0,2020-11-10
+59,2020-11-11 07:31:30+00:00,1326427314356432898,bprotocoleth,"@scupytrooples @DeFiOpFi @stakeandstack If you mint $DAI to get yield on @CurveFinance, @picklefinance or @compoundfinance, then minting via B.Protocol is the best strategy. https://t.co/u8rqXQ7Q3v",2,0,0,2020-11-11
+63,2020-11-12 17:27:13+00:00,1326939622035886083,bprotocoleth,"When designing B.Protocol we took the decision to make it fully compatible to @MakerDAO interface at the smart contract level.
+
+Any project that is already integrated with MakerDAO would find it almost seamless to integrate also with B.Protocol. https://t.co/FerR9rgwvc",7,0,1,2020-11-12
+64,2020-11-15 15:06:00+00:00,1327991244593786880,bprotocoleth,"Weekend is here again and gas prices are low 
+Time to Import your @MakerDAO Vault to B.Protocol. 
+
+🚀18 days from Launch  
+🔒10.9k ETH locked (~$5m)
+💰2.07m DAI Borrowed
+🧳99 Vaults Imported/managed
+
+Here is why you should manage your Vault via B.Protocol
+
+https://t.co/pHRtdTQQEE https://t.co/PeoPcU1ZfL",6,1,1,2020-11-15
+66,2020-11-16 19:28:18+00:00,1328419643443335184,bprotocoleth,"@Cointelegraph @shvandrew You can find the broader context here https://t.co/050cVq76DR
+
+In general it mostly demonstrates the difficulties in DeFi liquidation incentives (not only to @MakerDAO ), than an existential threat.",3,0,1,2020-11-16
+81,2020-11-17 19:00:25+00:00,1328775013852393472,bprotocoleth,"Come and join us now for a live interview on @Yield_TV with @DeFi_Dad and @yaron_velner , B.Protocol founder and CEO. Some interesting questions ahead… and invite a friend to watch with you. 
+
+https://t.co/bi0JMt5Mao",6,0,1,2020-11-17
+82,2020-11-18 21:34:12+00:00,1329176104112971776,bprotocoleth,"Very nice summary on how @MakerDAO Vault owners can profit more by managing their Vault with B.Protocol.
+
+Join our discord to learn more https://t.co/RON4o6VLPh https://t.co/NI5tlklAAS",5,0,0,2020-11-18
+83,2020-11-19 13:34:35+00:00,1329417792400093184,bprotocoleth,"🦙You can now track our stats @DefiLlama - TLV up 6.2% in 7 days, #43 on the list. Among the only 6 with no token, lots of room to grow...
+
+If you are using @MakerDAO to mint your DAI - do it via https://t.co/m8uyfORwPl
+
+@DeFi_Dad explains the essentials -
+https://t.co/QH7clBBJRj",6,1,3,2020-11-19
+85,2020-11-22 14:55:11+00:00,1330525239558754305,bprotocoleth,"Another week another update:
+
+🚀24 days old  
+🔒11.7k ETH locked (~$6.3m)
+💰2.54m DAI Borrowed
+🧳106 Vaults Imported/managed
+
+Use weekend's low gas to Import your @MakerDAO Vault to https://t.co/gBY0oGy6qj. 
+Help prevent another DeFi's #blackthursday!
+
+https://t.co/eoUHunnpJ4",2,0,1,2020-11-22
+89,2020-11-24 08:16:19+00:00,1331149635960922121,bprotocoleth,"In the absence of gas war, and with their robust algo-trading system, they are more than happy with a 6.5% liquidation premium. 
+Which allows B.Protocol to distribute additional 6.5% with the users of our protocol.
+This way users gain more while helping to make DeFi more secure.",3,0,0,2020-11-24
+92,2020-11-25 18:57:51+00:00,1331673472993529858,bprotocoleth,"Listen to @yaron_velner  and @gabrielhaines discussing why backstop is a real need for the ecosystem to scale while benefiting all parties, including users.
+
+And don’t forget you can still join our #BlackFriday promotion till Monday to win a 100 DAI prize  https://t.co/Fk6ojGMTJA https://t.co/QCiEPgR6sI",1,0,1,2020-11-25
+93,2020-11-26 13:41:48+00:00,1331956322238140422,bprotocoleth,"Today liquidators all over DeFi shared their profits with miners, biting with 1500 gwei tx, and spamming the Ethereum network to increase their odds. Our liquidators (@KyberNetwork reserve) liquidated over 190 ETH of collateral, and shared over 9 ETH with the users of B.Protocol. https://t.co/h9HuoeBoxt",22,2,4,2020-11-26
+94,2020-11-28 14:35:28+00:00,1332694604672622594,bprotocoleth,"When DeFi liquidations hit $2B daily, Ethereum miners will do millions in #MEV
+
+Two more days left to our #BlackFriday promotion. Import your @MakerDAO and get a chance to win $100
+https://t.co/Fk6ojGMTJA
+
+Our liquidators share their proceeds with users.
+https://t.co/43T1HMkwHB https://t.co/yiUS80rVXh",1,0,0,2020-11-28
+96,2020-11-29 08:25:46+00:00,1332963953119551488,bprotocoleth,"Thanksgiving weekend - last chance to leverage low gas price and Import your @MakerDAO Vault to B.Protocol:
+
+-  Get the chance to win 100DAI in our #BlackFriday late promotion. 
+
+- Join our users who enjoyed sharing liquidators’ profits last Thursday.
+
+https://t.co/Fk6ojGMTJA",2,0,1,2020-11-29
+99,2020-11-30 09:03:30+00:00,1333335838416130048,bprotocoleth,"Growing in DeFi.
+
+@DefiLlama https://t.co/QX3jnSPBA4",9,0,1,2020-11-30
+102,2020-12-01 08:18:26+00:00,1333686882274775041,bprotocoleth,Great being first on your interesting list of projects @Brad_Laurie. Would be great to make a deeper dive interview to make your audience familiar with why a backstop liquidation system like B.Protocol offers is so crucial for the scaling and security of the DeFi ecosystem. DM us https://t.co/lv1VblNETY,4,1,0,2020-12-01
+104,2020-12-04 06:41:43+00:00,1334749706291998720,bprotocoleth,"Worth mentioning that B.Protocol is a new DeFI primitive within the lending ecosystem, providing a unique solution for handling liquidations with a backstop service. Now as a 2nd layer, integrated natively in the future. https://t.co/7pBPAQCSiB",8,0,1,2020-12-04
+107,2020-12-06 12:57:39+00:00,1335569092418396160,bprotocoleth,"B.Protocol is a Win-only🥇, Battle-tested 🪖, Growing week-over-week👨‍👩‍👧‍👦, Audited project🔏. 
+And you still haven't 1-click-Imported your @MakerDAO Vault?! 
+
+🔒18.3k ETH locked (~$10.8m)
+💰4.01m DAI borrowed
+🦸135 Winning heroes securing the DeFi ecosystem
+https://t.co/m8uyfORwPl https://t.co/oIn1x6v60t",8,0,2,2020-12-06
+108,2020-12-07 16:33:26+00:00,1335985779911389190,bprotocoleth,"Having a strong liquidation system opens up an opportunity to scale DeFi in a secure way. 
+
+We proposed @MakerDAO to list a new WBTC-B collateral, to enable 110% collateral ratio (x10), backed by B.Protocol's backstop. 
+
+Join the AMA - Dec 8th, 7pm UTC - 
+https://t.co/06TcJixy44 https://t.co/x8LpqtW0uS",11,0,0,2020-12-07
+109,2020-12-08 17:53:17+00:00,1336368264843235329,bprotocoleth,"It wasn't a simple integration and it took some extra effort, but the 
+@DeBankDeFi dev team didn't give up till we made it 💪.
+So now you can easily track our TVL exponential growth also on - https://t.co/uiDwAMerVW https://t.co/bmbYoBYYqF",7,0,2,2020-12-08
+110,2020-12-09 13:54:18+00:00,1336670509090676738,bprotocoleth,"Migrate with 1-click your ETH-A Vault from @MakerDAO to B.Protocol. That’s it. 
+
+Get the exact same fees and conditions as on Maker 
++ liquidation proceeds 
++ voting power on future updates. Simple.
+
+1. Connect MetaMask 
+2. Push the Import button
+3. Done
+https://t.co/m8uyfORwPl https://t.co/3M494wQEzt",10,1,1,2020-12-09
+112,2020-12-10 18:11:00+00:00,1337097500134666243,bprotocoleth,"@rootslashbin @mosayeri @brianmcmichael checkout B.Protocol which give you an interface to MakerDAO and provide additional liquidation layer according to a price feed, and in addition, to share the liquidation proceeds.
+
+https://t.co/T4UGhMd2Ff",0,1,0,2020-12-10
+113,2020-12-14 12:57:42+00:00,1338468203895300096,bprotocoleth,"Google down time is a good opportunity to reminde you all that the B.Protocol front-end is open source so you can clone it at https://t.co/R5XRa5HRWz and run it on your local machine.
+
+#googledown #opensource #Defi https://t.co/g1vxx6KSJT",11,0,3,2020-12-14
+114,2020-12-15 19:18:11+00:00,1338926346299449346,bprotocoleth,"Next on our roadmap 🗺- 
+- An update to our current UI 
+- @compoundfinance integration
+- @AaveAave integration
+
+A few other ""Native Integrations"" in the pipeline
+
+Join the ride to secure #DeFi with a better liquidation system that will enable the ecosystem to scale as it should.",3,0,0,2020-12-15
+120,2020-12-16 12:27:25+00:00,1339185360488849408,bprotocoleth,"DeFi is x20 bigger than on Black Thursday
+What will happen to DeFi when $160m will have to be liquidated in a single day?
+
+Only B.Protocol provides incentives to build a robust backstop
+
+Import your @MakerDAO Vault before it is too late
+Soon @compoundfinance and @AaveAave support https://t.co/NLrihWbQy6",5,1,0,2020-12-16
+121,2020-12-20 07:47:49+00:00,1340564550479990785,bprotocoleth,"@MonetSupply yes, we definitely plan to offer such thing, we started with Maker here https://t.co/eIiop6fhFo
+
+And will soon initiate similar process with the rest.",0,0,0,2020-12-20
+124,2020-12-21 18:54:02+00:00,1341094595619401729,bprotocoleth,"You can now follow our stats at @defipulse.
+
+$15B in DeFi rely on proper liquidations.
+B.Protocol is the first backstop DeFi primitive, live and battle tested with over $11M in deposits. https://t.co/hlgZYMdzgj",9,1,2,2020-12-21
+127,2020-12-22 16:18:03+00:00,1341417728838656000,bprotocoleth,"@lawmaster @StaniKulechov @pythianism Would institutionals deposit their money in DeFi lending platforms, knowing only flashbot kids will protect it with Uniswap arbitrage liquidations?",0,0,0,2020-12-22
+128,2020-12-26 06:31:15+00:00,1342719608973881344,bprotocoleth,"Thanks @TheoRochaix for this explanatory thread.
+
+Join our Discord for the on going discussions and questions
+https://t.co/RON4o6VLPh
+
+Happy holidays 🎅 https://t.co/WHdtli2quR",3,1,0,2020-12-26
+129,2020-12-28 15:45:21+00:00,1343583825398558726,bprotocoleth,@Luciano_vPEPO @Keeper_DAO so far only B.Protocol was able to enforce collaboration among liquidators https://t.co/A8ipr3eTol,2,0,0,2020-12-28
+130,2020-12-30 13:11:19+00:00,1344269837070180352,bprotocoleth,"@el33th4xor @Tauras159 @nicksdjohnson @MakerDAO Thanks. You can find the full story below. TL/DR - didn’t mean to cause any harm, and assisted the Maker governance to take some immediate actions (on a previously known issue) to prevent real attacks in the future. 
+
+https://t.co/NzbsOJOFAM",3,1,0,2020-12-30
+135,2021-01-05 17:18:07+00:00,1346506274029109249,bprotocoleth,"We submitted an RFC to @MakerDAO governance for having a dedicated collateral type backed by us.
+
+Our committed professional backstop could support higher leverage for Maker users.
+
+Comments are welcomed:
+https://t.co/syWm3mbToF",9,1,4,2021-01-05
+136,2021-01-07 14:24:08+00:00,1347187265659957249,bprotocoleth,"Fashionably late, we are happy to share our short summary of 2020 and what's lying a ahead of us in 2021.
+TL/DR - 2020 was just the beginning... 🚀🧑‍💻🕺🦸
+
+Thanks to all those who took part in getting here - looking forward to all that comes next. 
+
+https://t.co/X3FDiydnIl",7,0,0,2021-01-07
+137,2021-01-08 11:50:22+00:00,1347510955866017795,bprotocoleth,"Now you can track your B.Protocol portfolio with @DeBankDeFi.
+Their team is always the quickest to support new protocol, and we have more integrations coming soon. https://t.co/OoVIwLKFIh",1,0,1,2021-01-08
+138,2021-01-12 15:18:57+00:00,1349013001031081984,bprotocoleth,"We are getting this question from time to time - ""B.Protocol seems great but I'm not sure about what it is…""
+So we made you a short video so you can be one of the few who understand 📽️🦸
+
+#sharingiscaring
+https://t.co/UBzYzdaEKg",11,1,2,2021-01-12
+139,2021-01-13 16:31:49+00:00,1349393724472782850,bprotocoleth,And here is secong part of the video - ELI5 how B.Protocol is changing the liquidation game with a backstop liquidity protocol for DeFi lending platforms 💪 https://t.co/m8NG67Av9A,3,0,0,2021-01-13
+143,2021-01-14 09:53:22+00:00,1349655842237378560,bprotocoleth,"@yaron_velner will present B.Protocol in the #MEV meeting.
+He will discuss why gas war are immanent threat to lending platforms,
+how gas war keep big liquidity providers out of the liquidation games,
+and why game-theoretic approaches like @Keeper_DAO fail in practice. https://t.co/cPJ3rQ9Cu6",5,0,0,2021-01-14
+144,2021-01-15 22:19:03+00:00,1350205886006964224,bprotocoleth,@gakonst Making liquidators' life harder (as the so called good MEV suggest) will only make DeFi lending platforms less stable.,1,0,0,2021-01-15
+145,2021-01-18 18:36:56+00:00,1351237153108471814,bprotocoleth,We just sent our @compoundfinance integration contracts to an audit at @SolidifiedHQ. https://t.co/i3z9yoPKUD,25,0,7,2021-01-18
+146,2021-01-19 16:38:07+00:00,1351569640103817218,bprotocoleth,"How to achieve fairness among @compoundfinance liquidators with B.Protocol.
+
+https://t.co/nzRpXjmRNP",17,0,2,2021-01-19
+147,2021-01-21 16:40:15+00:00,1352294950143193092,bprotocoleth,"Now you can use B.Protocol at @DeFiSaver,
+Boost and repay your Vault.
+
+Read here how:
+https://t.co/WPDaXMu8Bp
+
+Great work by DeFi Saver team, and we look further for more supported features soon. https://t.co/BP7dHTScwX",18,1,3,2021-01-21
+149,2021-01-22 09:12:41+00:00,1352544706031464448,bprotocoleth,"While DeFi liquidators share all their profits to miners,
+B.Protocol liquidators share it with the users
+https://t.co/9e6xO4HMGN
+And other protocols share memes. https://t.co/Pvpfk1En5u https://t.co/Ix1aSWciP9",4,0,1,2021-01-22
+150,2021-01-26 07:53:37+00:00,1353974358142832640,bprotocoleth,"Having @DeBankDeFi , @DeFiSaver and @zapper_fi integrating B.Protocol was simple because we are fully compatible on the smart contract level to the platforms we are built on top (@MakerDAO and soon @compoundfinance).
+More soon... Join our discord 
+https://t.co/RON4o6VLPh",2,0,0,2021-01-26
+152,2021-02-02 16:47:56+00:00,1356645541409660929,bprotocoleth,"@QwQiao Most lending platform only support x3-x5 leverage.
+Once B.Protocol is widely adopted, then x20 leverage platforms could emerge and take the lead.",1,0,1,2021-02-02
+153,2021-02-09 16:44:30+00:00,1359181392324812803,bprotocoleth,"@uriklarman @yaron_velner @bloXrouteLabs @MakerDAO @compoundfinance B.Protocol let Maker (and soon compound) users interact with the lending platform via a dedicated smart contract which give priority to a professional backstop in liquidations.
+The priority is given by a smart contract, which eliminates gas wars.",0,1,0,2021-02-09
+157,2021-02-11 18:50:02+00:00,1359937756705787904,bprotocoleth,"The last time it was the Ox year the first Bitcoin block was mined and a new era has started. May 2021 be the sign of a new bullish era towards positive change in the world, the year DeFi takes the lead. 
+🎇 Happy New Lunar Year 🎆 https://t.co/qelSdyUYzr",3,0,0,2021-02-11
+158,2021-02-14 08:17:25+00:00,1360865716308758530,bprotocoleth,Transparency is king when it comes to building a community. All the known details as for now on the @AlphaFinanceLab hack👇 https://t.co/X1whiF8Gww,3,0,2,2021-02-14
+159,2021-02-16 18:18:10+00:00,1361741677250179077,bprotocoleth,ICYMI - @DeFiSaver supports B.Protocol users on top of @MakerDAO. Automation is coming soon as well. https://t.co/IX0NBLAam7,13,0,5,2021-02-16
+160,2021-02-17 13:47:13+00:00,1362035877237714953,bprotocoleth,"Now that @SolidifiedHQ has completed their audit, our @compoundfinance integration will go live on mainnet at the end of February. Follow us and join our Discord to discover how Compound users can make more with their funds using B.Protocol. https://t.co/RON4o6VLPh https://t.co/USNlkpvNyV https://t.co/zXzMOZdx5h",11,0,4,2021-02-17
+163,2021-02-19 04:38:05+00:00,1362622462291292161,bprotocoleth,B.Protocol supports the implementation of EIP-1559 to improve the user experience of Ethereum network transactions. https://t.co/CrQmzJd7d0 #supportEIP1559 #ethereum #eth,13,1,3,2021-02-19
+164,2021-02-20 17:10:29+00:00,1363174197543976969,bprotocoleth,"Our @compoundfinance integration is available on kovan testnet.
+Try it out at https://t.co/KVtra3eufQ, let us know how it was at our discord https://t.co/RON4o6VLPh, and we will cover the gas cost for opening your account on our mainnet deployment. https://t.co/ZKHJtYUnwt",25,1,8,2021-02-20
+166,2021-02-26 19:31:19+00:00,1365383966086352899,bprotocoleth,"Congrats to @88mphapp on their new cool product launch.
+The only thing that is missing using @compoundfinance via B.Protocol to optimize user yield :) https://t.co/b0MPxYXMLL",26,0,2,2021-02-26
+167,2021-03-01 21:09:34+00:00,1366495854035623944,bprotocoleth,"Our final test for our @compoundfinance integration was a $60m flash loan that was used to import an account from Compound to B.Compound (compound managed by our interface).
+
+Everything is ready for our launch tomorrow.
+
+https://t.co/ZW8HV085sS",14,1,5,2021-03-01
+171,2021-03-02 23:31:47+00:00,1366894032845238274,bprotocoleth,"@ChrisBlec @MakerDAO The real question is: as a Maker/Compound user, do you want an option to get a bit more, while helping making these platforms more stable?
+
+No deep thoughts are need to answer that question :)
+
+An re-ethics, is here our side:
+https://t.co/NzbsOJOFAM
+I was not an exploit.",0,0,0,2021-03-02
+184,2021-03-03 09:45:50+00:00,1367048561242865668,bprotocoleth,"📢ICYMI
+Less than 24h since we've launched our @compoundfinance integration - 
+💰 Over $3.5m Compound funds are being managed via B.Protocol 
+💎 266 cScore got generated
+
+⛽️ Don't miss the (relatively) low gas prices (~77 Gwei) to Import your Compound account today with 1-click. https://t.co/vP64EVvaak",8,1,2,2021-03-03
+186,2021-03-04 15:06:35+00:00,1367491669772414990,bprotocoleth,"If you want a deeper dive into the origins of B.Protocol and some insights on what’s coming next - read this @defiprime interview with B.Protocol’s founder &amp; CEO @yaron_velner.
+
+Or just jump in to make more with your funds on @compoundfinance &amp; @MakerDAO - https://t.co/0N63arTZV4 https://t.co/Ta8nx7IOQ8",7,0,1,2021-03-04
+188,2021-03-05 17:56:27+00:00,1367896807913701376,bprotocoleth,"""Users providing WBTC as collateral should prepare for their borrowing limit to decrease in 48 hours.""
+
+Collateral Factors are updated automatically also on B.Protocol-Compound integration. https://t.co/YMucIT8rWu",6,0,4,2021-03-05
+189,2021-03-07 10:59:35+00:00,1368516675834888197,bprotocoleth,If you want to see this integration goes live - please upvote. Thanks https://t.co/IYuM2k4Zf1,0,0,0,2021-03-07
+191,2021-03-08 14:00:43+00:00,1368924643399204865,bprotocoleth,"B.Protocol governance - 
+7⃣weeks to the handover.
+💯 control in users' hands.
+⛏Incentive models to be voted.
+🤝 Decide on Backstop membership conditions.
+🆙 Governance upgrades
+
+Educate yourself what it means 👇
+https://t.co/6upbIJXowK 
+Or just try out at https://t.co/s9pcrs11NB",13,1,3,2021-03-08
+193,2021-03-09 12:51:14+00:00,1369269548466200581,bprotocoleth,"✅ $40,000,000 TVL 
+https://t.co/s9pcrs11NB https://t.co/hBRhryrWUn",22,3,3,2021-03-09
+194,2021-03-13 05:45:12+00:00,1370611884072837121,bprotocoleth,"Nothing like the weekend for a @BanklessHQ episode to educate yourself about B.Protocol. @TrustlessState is doing the best job explaining complex stuff in simple words. 
+Learn how to get more from your @compoundfinance &amp; @MakerDAO funds, the coming gov hand-over, and future plans https://t.co/KK2FCXuFj9",9,0,2,2021-03-13
+195,2021-03-14 14:23:07+00:00,1371104609964556302,bprotocoleth,"One of many great moments in the @bankless interview, where @TrustlessState ""translates"" B.Protocol to the masses... 
+Listen to the full interview to get some more insights on what's going on and what's ahead of us.
+⌛️ 6 weeks to gov hand-over
+💰$56m TVL
+
+https://t.co/KK2FCXuFj9 https://t.co/3doxgsl8cX",38,1,8,2021-03-14
+196,2021-03-15 16:34:27+00:00,1371500050497552389,bprotocoleth,"This is a reminder that our front end is fully open source.
+You can download it from our github repo https://t.co/Mcu0hxVUPK
+and run it locally without relying on the integrity of DNS servers. https://t.co/3pgF0iIpO4",13,0,3,2021-03-15
+197,2021-03-16 08:23:46+00:00,1371738952617619457,bprotocoleth,"@FrankResearcher Cooperating with miner's can increase a specific liquidator profit. But every $ that goes from liquidators to miners make the lending platforms less stable.
+Our solution is to let a smart contract decide who get to liquidate, and keep the miners out of it. https://t.co/43T1HMkwHB",3,0,3,2021-03-16
+199,2021-03-18 17:11:22+00:00,1372596503596965892,bprotocoleth,"Following the approval of proposal 41 on @compoundfinance, we name the existing cWBTC token as legacy, and the new one as WBTC.
+Our users should note that WBTC legacy will no longer accumulate COMP.
+New WBTC will not accumulate cScore until B governance is formed - at April 26th. https://t.co/Bm0Ne7gxE6 https://t.co/4lz2ByAEsM",8,1,2,2021-03-18
+201,2021-03-19 08:59:10+00:00,1372835025071308800,bprotocoleth,"✅$120,000,000 TVL
+
+https://t.co/GuWA90j8lJ
+
+https://t.co/KJrTfsD9TY https://t.co/VqmhipnjIK",21,0,11,2021-03-19
+202,2021-03-23 23:09:14+00:00,1374498503502688259,bprotocoleth,"Whether you pick to mint your Dai on @MakerDAO or to borrow your favorite tokens on @compoundfinance via @bprotocoleth  - let us know your retirement plan - what's your best strategy to use B.Protocol?
+
+https://t.co/GuWA90AJdh https://t.co/0XBEsHCjJi",4,0,1,2021-03-23
+203,2021-04-03 20:51:51+00:00,1378450193813811205,bprotocoleth,"Now that @defipulse added also our @compoundfinance  integration to the @MakerDAO TVL it’s time to: 
+🛸 Migrate with 1-click 
+🎱 Gain your cScore and mScore
+🍕Get a slice of the liquidators’ proceeds 
+☝️Join the Genesis vote on April 26th to decide on the future of B.Protocol https://t.co/L5aBPqhOc7",7,0,3,2021-04-03
+204,2021-04-06 11:36:17+00:00,1379397545865195520,bprotocoleth,"Join us tomorrow, April 7th, 12pm UTC, for a live Q&amp;A on @chainlink YouTube, with our own @EKatchka. We'll discuss why liquidations are so crucial for the safe scalability of #DeFi, @compoundfinance integration, the upcoming first governance vote &amp; more.
+https://t.co/h4jUhRYGD1",6,0,2,2021-04-06
+205,2021-04-08 06:39:47+00:00,1380047705033019402,bprotocoleth,"Listen to the Q&amp;A session we had on @chainlink YouTube channel yesterday. @EKatchka discussed why B.Protocol's backstop solution for liquidations is crucial for #DeFi to scale, our unique governance model, the upcoming Genesis vote, and more 📽️👇
+
+https://t.co/H0VlHSvwU0",13,1,3,2021-04-08
+209,2021-04-09 07:07:46+00:00,1380417133927133184,bprotocoleth,"@DeFiDaJo We started a discussion about it last night,  and you are welcome to join.
+
+https://t.co/kuUr7ZvhMA",1,0,0,2021-04-09
+210,2021-04-10 17:11:30+00:00,1380931455715528706,bprotocoleth,"Governance token? Over 25% of the users already voted.
+Not a user? the binding vote is on April 26th.
+Import your @MakerDAO or @compoundfinance account now and get voting power.
+App: https://t.co/s9pcrs11NB
+Discord: https://t.co/RON4o6VLPh
+
+$100M already imported their account. https://t.co/XErjU8iTN3",13,1,4,2021-04-10
+211,2021-04-17 08:07:04+00:00,1383331161355669511,bprotocoleth,"Alpha leak: If you have to choose between the copy and the original, choose the one who can spell borrow. https://t.co/s9J9n2wA4N https://t.co/bXKp2EshCb",36,7,1,2021-04-17
+212,2021-04-18 08:21:04+00:00,1383697074051420162,bprotocoleth,"As members of Open DeFi, we are happy to join as sponsors to the first OD hackathon together with other great projects in the ecosystem. Register on @gitcoin and get ready for some cool collaboration challenges to grow the B.Protocol network.
+https://t.co/m7w9bF4Gg8 https://t.co/YvfomqlHe3",10,0,5,2021-04-18
+215,2021-04-20 06:49:34+00:00,1384398821476769793,bprotocoleth,"📢The community has put the token model up for a vote.
+@MakerDAO integration users can vote here https://t.co/Stt5ZbL8Aj
+@compoundfinance users can vote here https://t.co/ZnvHa3f94U
+
+The model is discussed here https://t.co/AOncUMxkDb
+
+The binding on-chain vote is in a week.",8,2,6,2021-04-20
+217,2021-04-22 15:00:47+00:00,1385247216416301062,bprotocoleth,"📢On Saturday, April 24th 6:20:23 PM GMT+0, the smart contract will take a snapshot of mScore and cScore
+⭐️ The score will be used as the voting power on the April 26th Genesis vote
+⭐️ The community suggested to distribute BPRO token accordingly. This will be voted on the 26th.",18,1,4,2021-04-22
+219,2021-04-25 14:56:52+00:00,1386333392191508482,bprotocoleth,"@DirSchmidt @DefiantNews B.Protocol is LIVE on top of @MakerDAO and @compoundfinance with over $120m TVL and users will vote TOMORROW on tokenizing its governance.
+
+And Last but not least - Kudos to @alpgasimov for the noise as Bogdanoff Junior...
+
+https://t.co/n21jA146il",5,0,1,2021-04-25
+223,2021-04-26 10:06:26+00:00,1386622690316988416,bprotocoleth,@hasufl @antiprosynth @EKatchka @KoltenB_ @chaindev3 @LiquityProtocol the outcome of this week vote to form a tokenized governance suppose to make the process of on-boarding more maker collateral types smoother.,2,0,0,2021-04-26
+226,2021-04-27 04:12:38+00:00,1386896044164780033,bprotocoleth,"@Zeezcam please join our discord for support https://t.co/RON4o6VLPh
+
+the vote on maker is over, so if you are trying to vote there it will not let you (but will let you claim the jar)",1,0,0,2021-04-27
+228,2021-04-28 06:33:48+00:00,1387293954459197440,bprotocoleth,"Be aware of scams.
+BPRO is distributed only to the users of B.Protocol and is not offered for sale at an exchange or elsewhere.
+
+You can learn more about the token and future distribution of it in the community forum
+https://t.co/AOncUMxkDb",4,1,1,2021-04-28
+230,2021-05-02 10:52:16+00:00,1388808554480652288,bprotocoleth,"$210M TVL
+https://t.co/P7GcGyqZaO
+
+Liquidity mining program for @MakerDAO and @compoundfinance users is live. https://t.co/vUkPNzQMj6 https://t.co/Vvil3HftUN",40,3,11,2021-05-02
+231,2021-05-05 14:54:37+00:00,1389956706281603077,bprotocoleth,"Use the app https://t.co/gxLA3QDFzo
+Join the community discord https://t.co/RON4o6VLPh",3,2,0,2021-05-05
+232,2021-05-06 05:13:24+00:00,1390172826875924480,bprotocoleth,"@EvilCryptKeeper @MakerDAO @compoundfinance Technically what is being done in import is repaying the loans on your original compound account and opening one at a proxy account. So the gas depends on how many token types you have
+There might be a way to manually optimize it for special cases
+Please contact us at our discord",2,0,0,2021-05-06
+236,2021-05-07 08:24:37+00:00,1390583333332135936,bprotocoleth,"Today 3 different proposals were raised at the forum.
+https://t.co/97cRsoCvak
+
+This is the time to remind that only delegated tokens could vote on-chain!
+
+You can delegate to yourself or another address here: https://t.co/Q1rIyl8IPw https://t.co/eCYetMCVMj https://t.co/ZbQ1Lz83CU",12,5,3,2021-05-07
+239,2021-05-15 14:34:46+00:00,1393575590805098499,bprotocoleth,"More projects realize the benefits of building their yield farms on @compoundfinance using B.Protocol. 
+
+As part of the @gitcoin and @open_defi hackathon, you can now get up to a $4k prize for integrating @idlefinance with B.Protocol 🚀🏗️🤝
+Get support on either projects Discords https://t.co/VM8HIMs2Ot",17,1,7,2021-05-15
+240,2021-05-16 08:20:47+00:00,1393843860468551680,bprotocoleth,@rbchristensen @MakerDAO @compoundfinance ?,0,1,0,2021-05-16
+243,2021-05-17 12:49:35+00:00,1394273894064967683,bprotocoleth,@yujian95 https://t.co/Cbzhl3lZ5V,0,2,0,2021-05-17
+244,2021-05-18 08:02:29+00:00,1394564032728862722,bprotocoleth,"@yujian95 no fixed supply, read the post for the distribution details",0,0,0,2021-05-18
+246,2021-05-21 17:21:27+00:00,1395791865673404429,bprotocoleth,"@MonetSupply @MakerDAO @LiquityProtocol Liquidation ratio in DeFi are already quite bad, maybe a better solution is to make liquidation *penalty* a function of the borrowed amount.
+
+Especially in Maker's liquidation 2.0, where a fixed amount of gas is needed to init a liquidation process.",7,1,1,2021-05-21
+247,2021-05-24 05:52:34+00:00,1396705664857219079,bprotocoleth,"Chainlink has been added to B.Protocol's Compound's support.
+
+by supplying $LINK, you:
+💴 Earn interest (from @compoundfinance)
+📈 Earn $COMP
+and
+➕ Earn liquidation proceeds
+➕ Earn $BPRO
+
+@chainlink https://t.co/JF75noTUAz",13,2,3,2021-05-24
+254,2021-05-25 14:00:45+00:00,1397190907372478471,bprotocoleth,"New and existing users of B.Protocol can use @furucombo to open &amp; manage their Maker Vaults to get -
+
+🍕 A chance to win a B.Combo pizza NFT
+🍕🍕A slice of B.Protocol liquidation proceeds
+🍕🍕🍕 $BPRO rewards
+🍕🍕🍕🍕 $COMBO gas paybacks
+Still here...?! 👇
+https://t.co/556wKFz4Zy https://t.co/RYBx6XAAkq",9,0,1,2021-05-25
+255,2021-05-28 09:08:37+00:00,1398204553871478786,bprotocoleth,"@dabar_90 @NamesakeMark @HandshakeJesus @THORChain Thanks! 
+Best thing would probably be to offer that to the community over discord or in the forum (plus a short explanation on what it includes/means/requires). 
+
+https://t.co/m7pZsHkZ56
+Or
+https://t.co/FJ8BoRasfs",2,0,0,2021-05-28
+257,2021-05-30 07:21:25+00:00,1398902352309112834,bprotocoleth,"BIP#1 has passed with almost 40% of token holders voting in favor.
+
+As of block 12533751, BPRO will be distributed to users who provide BPRO to Uniswap V2 and Sushiswap ETH-BPRO pools.
+
+41k BPRO will be distributed monthly.
+Currently every supplied BPRO gets 1.32 BPRO monthly. 👇 https://t.co/jlactBR0yo https://t.co/176Ur96NeJ",17,4,8,2021-05-30
+260,2021-05-31 08:33:04+00:00,1399282771969855489,bprotocoleth,"📱 Mobile support ❗️❗️❗️
+
+A community member submitted a PR for front-end mobile support and it was merged and deployed.
+The developer was rewarded via @gitcoin bounty https://t.co/uRbbG58JBP
+
+Currently only @MetaMask support is available.
+@WalletConnect is coming soon. https://t.co/4aFP8GWgU0",14,1,4,2021-05-31
+262,2021-06-02 13:12:20+00:00,1400077826418692098,bprotocoleth,"@vipineth Please note that this is not an official B.Protocol website. so DYOR!
+
+This is the second community-based development this week (followed by a mobile support implementation by @Jansson).
+
+We welcome everyone to our discord to discuss further community-based development.",4,0,0,2021-06-02
+266,2021-06-03 11:35:08+00:00,1400415753967386628,bprotocoleth,"B.Protocol users just got another week to win the  @furucombo 🍕NFT challenge. And if you use 4 Cubes at one tx you might get 2 NFTs at the same time.
+
+You can also use Furucombo with your B.Protocol-Maker ETH-B and ETH-C vaults... Still waiting? 
+https://t.co/YF83XjPZpN https://t.co/rX2fl8hmWo",5,0,0,2021-06-03
+268,2021-06-06 12:19:24+00:00,1401514055215599617,bprotocoleth,"Gas price are at 10 Gwei!!!
+@MakerDAO ETH-A/B/C Vaults and @compoundfinance users can Import to B.Protocol with 1-click to get all the benefits.
+
+Still reading?! #NoExcuses #DeFi
+https://t.co/GuWA90j8lJ https://t.co/ElyYjloT2R",5,0,1,2021-06-06
+270,2021-06-07 12:51:45+00:00,1401884586058170373,bprotocoleth,"With B.Protocol you can both fight MEV for the greater good of Ethereum, get a share of the Backstop liquidation proceeds, and gain governance power in the protocol (while making your platform stronger).
+
+And it takes just 1-click to move your @MakerDAO or @compoundfinance CDPs. https://t.co/vHUUJVTjSM",18,1,6,2021-06-07
+272,2021-06-08 15:09:54+00:00,1402281737565134859,bprotocoleth,We are proud to report that over 8% of @compoundfinance @WrappedBTC deposits are managed via B.Protocol https://t.co/nkliv16c27 https://t.co/AELOInPsJC,29,3,10,2021-06-08
+273,2021-06-09 09:08:23+00:00,1402553150301687812,bprotocoleth,@Mehdiag0 @epnsproject @DeFiSaver Would be great to get in touch with the @epnsproject team and check for integration options. @Mehdiag0 you are welcome to join our Discord or send a DM to take it to the next level,2,1,0,2021-06-09
+274,2021-06-10 08:33:04+00:00,1402906650864984064,bprotocoleth,"Join us today, June 10th, 1pm ET, on the 6th @88mphapp Community Call to learn more about B.Protocol, our coming integration with 88mph, and some more alpha leak materials...👀
+
+👂88mph Telegram - https://t.co/4SBYPcEDk5
+
+Time to use that Import button...
+https://t.co/Lyi5nL20YI https://t.co/PmSTDYWKy5",14,1,4,2021-06-10
+277,2021-06-11 10:45:54+00:00,1403302466893012994,bprotocoleth,"@Spartacus_Hiber Here is a new link to our Discord. You are still invited...
+
+https://t.co/RON4o6VLPh",0,1,0,2021-06-11
+279,2021-06-14 15:35:12+00:00,1404462432320462852,bprotocoleth,Experimental results shows such system can facilitate up to $1B of monthly liquidations https://t.co/JKsxE9vWJh,10,1,0,2021-06-14
+286,2021-06-15 13:03:25+00:00,1404786621984169986,bprotocoleth,"""DeFi lending platforms can increase their collateral factors by up to four times on the B .Protocol v2."" 🚀
+
+Read the full @Cointelegraph article on B.Protocol v2 👇
+The full whitepaper link is inside...🤓 🏗️ https://t.co/dVV2Veo5gw",20,1,6,2021-06-15
+287,2021-06-17 13:41:39+00:00,1405521021344522242,bprotocoleth,"📢 📢 📢 The time has come!!! 
+B.Protocol 1st Community Call will take place on
+Thu., June 24th, 3pm UTC, on our Discord voice channel [https://t.co/RON4o7dmGP].
+We'll discuss V2, new integrations, community growth, and more.
+Submit questions in advance 👇 https://t.co/RCUdB85Rip https://t.co/idLeKDhzBh",12,0,1,2021-06-17
+289,2021-06-20 13:01:44+00:00,1406598139033931778,bprotocoleth,"So many things have happened since this episode with @DeFi_Dad but still, the core value of how a Backstop can make DeFi scale remains the same. For all the new followers and users of B.Protocol - make sure not to miss this one. 
+For a shortlist of the new stuff since 👇 https://t.co/NI5tlklAAS",17,3,2,2021-06-20
+291,2021-06-23 10:27:10+00:00,1407646406970650628,bprotocoleth,"📣 A shout out to all you Redditors out there - 
+
+B.Protocol has its own SubReddit, opened by one of the community members. 
+Join to feel the pulse 🩺 of everything that's going on with B.Protocol. 
+https://t.co/TLZI9ga5c5 https://t.co/a3Df3KA249",7,0,0,2021-06-23
+294,2021-06-24 10:03:04+00:00,1408002730350813187,bprotocoleth,"When market crash fast, lending platforms cannot rely on the liquidity of concentrated liquidity AMMs.
+
+B.Protocol V2 (B.AMM) solves it, and would be able handle $1B monthly liquidations much more efficiently. https://t.co/0DjpJeK8Ho",17,1,3,2021-06-24
+297,2021-06-27 12:43:09+00:00,1409130178559754246,bprotocoleth,"Mariano Conti (@nanexcool) was head of smart contracts at @MakerDAO, and since then he is active in many #DeFi projects.
+ 
+Mariano will consult on integrations with other platforms, and will share his knowledge on liquidation systems design.",10,2,0,2021-06-27
+301,2021-06-28 08:52:53+00:00,1409434616054829056,bprotocoleth,"Thanks @Hippie4Crypto for letting your #LATAM #DeFi followers learn more about B.Protocol. 
+
+We welcome more non-English threads to let DeFi users world-wide why they should use B.Protocol to manage their @MakerDAO and @compoundfinance borrowing. 
+
+https://t.co/Lyi5nL20YI https://t.co/iRxtpNDcd3",13,0,2,2021-06-28
+305,2021-06-29 19:18:30+00:00,1409954446520557572,bprotocoleth,"We introduce a gas efficient $COMP claim for our @compoundfinance users.
+
+Claim over 90% of the allocated $COMP with only 20% of the original gas consumption.
+
+Try it out at https://t.co/s9pcrs11NB https://t.co/egx5b9hw78",20,0,3,2021-06-29
+312,2021-06-30 19:19:14+00:00,1410317018096676869,bprotocoleth,"Compound are now taking 2.8% fee from every liquidation in order to cover (potential) future liquidation failures.
+We explain how our V2 can (autonomously) manage the funds more efficiently, and provide better guarantees for the @compoundfinance protocol.
+
+https://t.co/YEdvlpbnru",13,1,0,2021-06-30
+313,2021-07-01 10:15:01+00:00,1410542448754016259,bprotocoleth,"📢Join B.Protocol founder @yaron_velner, today 5:40pm ET, for a great panel discussing the re-distribution of #MEV and why a backstop is needed to scale DeFi and fight MEV. 
+W/ @tomhschmidt, @IvanBogatyy, @uriklarman &amp; @Keeper_DAO. 
+Hosted by @ETHGlobal &amp; the #Flashbots gang👇 https://t.co/5qbBqov4Uj",16,0,3,2021-07-01
+314,2021-07-06 16:23:58+00:00,1412447239004475398,bprotocoleth,"🎩 @HatsFinance let community members stake their token towards bug bounty compensation. 
+💡They just submitted a proposal for our DAO to deposit a chunk of its $BPRO token in such bounty program.
+🥩 Join the discussion and decide the staking amount
+https://t.co/3j9mwx8bPq https://t.co/kThoXGEe9n https://t.co/uE2OzOaFZE",7,1,2,2021-07-06
+315,2021-07-08 10:31:57+00:00,1413083426140348416,bprotocoleth,"We are excited to announce that our integration with @LiquityProtocol will also include an optional automated $LQTY deposit to @picklefinance pLQTY jar.
+
+We are launching a bug bounty program also for the specific integration with pickle.
+https://t.co/EbNV3FCJ8m https://t.co/6c8ZtneFo3",34,3,11,2021-07-08
+317,2021-07-09 11:04:45+00:00,1413454068861874178,bprotocoleth,"Currently, this is only supported on Kovan testnet.
+The demo tx is available here - 
+https://t.co/WpqZmXqPau",4,0,0,2021-07-09
+320,2021-07-10 12:53:43+00:00,1413843879372238856,bprotocoleth,"Imagine if all the dollars at @Uniswap were used as lending platforms' backstop with 0 slippage (while fully in your control and doing market making on uniswap in the absence of liquidations).
+
+This is what B.Protocol v2 will enable.
+https://t.co/FYv5NRqWRq https://t.co/KSFzFGPUwy",29,1,7,2021-07-10
+321,2021-07-12 15:01:49+00:00,1414600891156606979,bprotocoleth,"📢🧑‍🎨🦍 Calling all meme artists, degens, and apes.
+
+The #DeFiStrongerTogether Meme Competition is LIVE w/ $3000 prizes 🥳
+
+Celebrate the multi-layer composability of the integration between
+@LiquityProtocol, @chainlink, @KyberNetwork @KrystalDefi @picklefinance &amp; @bprotocoleth
+👇 https://t.co/ewUrbWxmkc",253,211,155,2021-07-12
+327,2021-07-13 16:10:28+00:00,1414980556392120323,bprotocoleth,@Spartacus_Hiber Members are banned only for violent and un-appropriate language in the server... Please send a DM with your Discord handle and we will gladly have you back for proper discussions.,0,1,0,2021-07-13
+330,2021-07-14 15:10:34+00:00,1415327869404909572,bprotocoleth,"We have just launched our @immunefi Bug Bounty Program with up to $100k in bounties. 
+
+More details can be found on the B.Protocol program page on Immunefi website - https://t.co/RWwGXbUz3w
+
+*This program replaces the previous bug bounties we had published over our Medium blog. https://t.co/v5awIhxkgJ",25,0,10,2021-07-14
+331,2021-07-17 06:59:00+00:00,1416291326027452417,bprotocoleth,"48 hours left for the big joint meme competition! 
+
+6 projects, 1 meme, multi-layer DeFi integration.
+
+Use the weekend wisely and submit your work for a chance to win those $3000 in prizes. https://t.co/2wVwiswHis",24,6,9,2021-07-17
+332,2021-07-19 12:13:06+00:00,1417095148660568066,bprotocoleth,"B.Protocol founder @yaron_velner is heading over to Paris today for #ETHcc @EthCC 🇫🇷.
+DM to set up a face-to-face meeting if you are around and want to discuss Liquidations, MEV, and any collaborations you might have in mind.",24,0,8,2021-07-19
+335,2021-07-20 14:17:40+00:00,1417488884838109197,bprotocoleth,"Welcome to join the B.Protocol Discord for any questions and updates, as well as AMAs and Community Calls we will be hosting there soon - https://t.co/RON4o6VLPh",2,0,0,2021-07-20
+337,2021-07-23 09:17:45+00:00,1418500572794216449,bprotocoleth,"5 more winners of $100 prizes: 
+
+https://t.co/THWGNaW16b
+
+https://t.co/bfO9GtFR11
+
+https://t.co/gLEVpX4VNJ
+
+https://t.co/C9NNTBMeRW
+
+https://t.co/gKhh8Kk0lK
+
+All winners need to make sure their DMs are open so sponsors can get in touch about the prizes. 
+PLEASE DO NOT DM US!",7,3,1,2021-07-23
+343,2021-07-24 19:07:37+00:00,1419011406423367686,bprotocoleth,"MEV bots are becoming more and more sophisticated.
+The generalized problem of ordering your txs w.r.t the victim is NP-complete.
+
+Indeed, set a true value for x_i if the victim's i-th tx was mined before the attacker's i-th tx, and get a reduction to SAT. 👇 https://t.co/oM30DMQRBw",7,1,1,2021-07-24
+344,2021-07-25 13:28:25+00:00,1419288428584316930,bprotocoleth,"📞It's time to get connected again!🎊
+Join us on B.Protocol #2 community call. 
+We'll cover🔔 @epnsproject collaboration, 🥒 @picklefinance integration, the ⛏️ Community Mining proposal &amp; more👀
+Wed, July 28th, 3pm UTC on B.Protocol Discord voice channel - https://t.co/RON4o6VLPh https://t.co/Kl0di680my",30,1,7,2021-07-25
+345,2021-07-27 12:28:09+00:00,1419998039192834090,bprotocoleth,"📜B.Protocol Updates is out📜
+
+In this month's newsletter we cover:
+
+🤝 Integrations with @picklefinance, @immunefi, @zapper_fi, @chainlink &amp; @epnsproject.
+
+🎨 #DeFiStrongerTogether meme competition.
+
+🇫🇷#ETHcc
+
+☎️ Tomorrow's Community Call &amp; more...👇
+
+https://t.co/H4BjmQ4v5p",15,0,7,2021-07-27
+346,2021-07-28 13:07:04+00:00,1420370219395059718,bprotocoleth,"⌛️We are starting in 2 hours from now (11am ET/ 3pm UTC). 
+Join us for the 2nd B.Protocol Community Call - 
+https://t.co/RON4o6VLPh https://t.co/nTRA6fevKA",4,1,1,2021-07-28
+347,2021-07-29 20:05:57+00:00,1420838023940485120,bprotocoleth,"Instadapp community member made a proposal to integrate B.Protocol with @Instadapp.
+
+$INST holders can now vote on it:
+https://t.co/PaA7Fb52Xt https://t.co/VqBH2mooYR",14,0,4,2021-07-29
+348,2021-07-30 14:29:06+00:00,1421115639482273797,bprotocoleth,"📣⏳BIP #2 is live for voting!
+
+$BPRO holders can vote now on the Liquidity Mining phase 2 which includes:
+
+✔️Rewards for new and existing users
+✔️DAO's LP on Uniswap v3
+✔️Fund the Growth Squad
+✔️ Support the bug bounty
+
+LPs on Uni &amp; Sushi can also vote👇
+
+https://t.co/8ka3y0pvze",12,1,4,2021-07-30
+349,2021-08-02 15:43:52+00:00,1422221621243387910,bprotocoleth,"⌛️Tomorrow, Tuesday, Aug 3rd, 6pm UTC, we will be joining @LiquityProtocol team on their call, covering our upcoming integration.
+
+Join us to learn about the benefits of using B.Protocol's automated rebalancing of Liquity Stability Pool to get passive APY on your LUSD deposits 👀 https://t.co/AJbbvZFj4L",20,0,4,2021-08-02
+352,2021-08-03 12:58:57+00:00,1422542505879420954,bprotocoleth,"⌛️Last 10 hours for $BPRO holders to cast their votes on BIP #2. 
+Uniswap and Sushiswap LPs can also participate in the vote 🦄🍣 🗳️👇
+https://t.co/8ka3y0pvze https://t.co/PPbhc4wZEr",6,0,0,2021-08-03
+362,2021-08-04 08:57:59+00:00,1422844251805736960,bprotocoleth,"@ChainLinkGod Since yesterday, this is live on mainnet!
+
+https://t.co/HbNcmzFwmf",3,0,0,2021-08-04
+364,2021-08-05 11:58:53+00:00,1423252166689570828,bprotocoleth,"⌛️Starting in 3 hours from now, on the main stage at @chainlink's #SmartCon summit. 
+Join us to hear B.Protocol's founder, @yaron_velner, discussing how the newly launched v2 unleashes new capital efficiencies for DeFi while securing it.
+
+2:50 pm UTC - 
+🎟️https://t.co/yGqeWEKH1X https://t.co/27WSLeEJB4",14,1,1,2021-08-05
+365,2021-08-06 14:55:18+00:00,1423658951476981763,bprotocoleth,"Currently, you can get a PASSIVE 16% APY on depositing your $LUSD into @LiquityProtocol Stability Pool via B.Protocol (so you don't need to rebalance your position after liquidations). 
+
+⛽️The weekend is here, and gas prices are reasonable (~40 Gwei)🤔
+
+https://t.co/fTWIwMLhkx https://t.co/kzcDE6jDIM",17,2,2,2021-08-06
+367,2021-08-08 11:15:45+00:00,1424328471627673604,bprotocoleth,"1st milestone achieved-
+Over 5m LUSD are already deposited into @LiquityProtocol Stability Pool via B.Protocol v2 to enjoy PASSIVE 18% APY.
+B.Protocol automatically rebalance your position after liquidations in Liquity - so you won't have to.
+You can too - https://t.co/fTWIwMLhkx https://t.co/8DyxrHswxi",21,0,3,2021-08-08
+368,2021-08-09 18:17:10+00:00,1424796915170959361,bprotocoleth,"🍦It was smooth and fun to collaborate on this one with the @gelatonetwork team, adding another layer of security to our latest integration with @LiquityProtocol. 
+
+Read all the details below 👇 https://t.co/vI2XUOyO52",26,2,5,2021-08-09
+369,2021-08-10 17:45:17+00:00,1425151280146681858,bprotocoleth,"The tx:
+https://t.co/KIFOKHU4zd
+
+As the imbalance was small ($1500 for $32m inventory) the B.AMM simply offered the ETH for sell according to @chainlink price, rather then offering arbitrage prices (and then @gelatonetwork keepers would have execute the arbitrage).",2,0,0,2021-08-10
+376,2021-08-11 13:05:16+00:00,1425443199947059207,bprotocoleth,"We start in 2 hours from now (3PM UTC/ 11AM ET/ 11PM SGT). 
+Join us to learn more about the MIP we propose to @MakerDAO. Opening a new ETH or WBTC Vault backed by B.Protocol v2 - to enjoy higher capital efficiency via lower Liquidation Ratios. 
+There will be time for Q&amp;A. Link👇 https://t.co/WZPzq9dZQH",8,0,3,2021-08-11
+377,2021-08-19 08:08:02+00:00,1428267498424709123,bprotocoleth,"🇯🇵Thanks @stonline_jp for covering our latest integration with @LiquityProtocol in Japanese! 
+Now users can strengthen Liquity protocol AND get passive ~15% APY by depositing $LUSD into Liquity's Stability Pool via B.Protocol v2👇
+https://t.co/fTWIwMLhkx https://t.co/FzXQ9k6KiJ",7,0,0,2021-08-19
+378,2021-08-20 08:33:51+00:00,1428636383757864961,bprotocoleth,"📣Calling all BPRO holders who wish to become delegates!!!
+Welcome to introduce yourself on this forum thread so other BPRO holders can make their decision.
+
+Next week we'll launch a campaign to incentive BPRO holders to delegate... stay tunned 👀👂
+https://t.co/e6nrEcSzlD https://t.co/Fm2Gtm8iCV",10,0,2,2021-08-20
+379,2021-08-22 13:30:19+00:00,1429435770058776583,bprotocoleth,"This automation is only available using B.Protocol (and @picklefinance) and requires sending the LUSD from your DSA account to a regular Ethereum account to interact with B.Protocol.
+B.Protocol integration with Instadapp has passed the $INST gov vote but is still in the making👀",7,0,2,2021-08-22
+380,2021-08-25 19:41:13+00:00,1430616273617133573,bprotocoleth,@voteWithTally * delegation will also be taken into account also in offchain votes,2,0,0,2021-08-25
+382,2021-08-26 15:01:00+00:00,1430908140304932866,bprotocoleth,"📢 B.Protocol v2 will natively backstop a new @MakerDAO Vault type.
+
+MKR holders voted YES on MIP13c3-SP11 and we are progressing with the implementation along with the different Core Units of Maker.
+https://t.co/B1fU8JnHQn https://t.co/hBflCb51Kz",20,1,2,2021-08-26
+383,2021-08-30 18:36:00+00:00,1432411798263762946,bprotocoleth,Now you can track your LUSD deposits via B.Protocol into @LiquityProtocol Stability Pool on @zapper_fi. Thanks Zapper team for the quick response! and kudos to our community member @kyoronut for leading this request 🙏 https://t.co/9fYqb86akG,17,2,1,2021-08-30
+385,2021-09-02 09:36:23+00:00,1433363165379768324,bprotocoleth,"📞It's time to get connected again!🥳
+Join us on B.Protocol #3 community call. 
+We'll cover 
+- @VisorFinance Uni v3 LM proposal
+- @UMAprotocol KPI-Option proposal
+- BPRO allocation proposal and more
+
+📅Wed, Sep. 8th, 3pm UTC on B.Protocol Discord channel - https://t.co/RON4o6VLPh https://t.co/TQdJ0RDJ6o",34,2,9,2021-09-02
+388,2021-09-07 18:09:31+00:00,1435304237400043526,bprotocoleth,"Our v2 was put to a first test:
+A @LiquityProtocol  liquidation of over $200k (LUSD) was successfully rebalanced with the help of @gelatonetwork keepers.
+
+If you use Liquity and hate paying for gas, join us now at https://t.co/fTWIwMLhkx, and help make the stability pool better. https://t.co/cKCVY2o1Pk",50,2,17,2021-09-07
+390,2021-09-08 13:00:01+00:00,1435588735610114049,bprotocoleth,"Join us in 2 hours (3pm UTC) at our 3rd Community Call to learn more from @UMAprotocol &amp; @VisorFinance and the team about the next LM phase.
+We'll have time also for Q&amp;A and short updates on what's going on these days with upcoming integrations. 
+Discord -
+https://t.co/RON4o6VLPh https://t.co/MH2hRu0XeJ",5,0,3,2021-09-08
+391,2021-09-10 19:18:39+00:00,1436408798411956225,bprotocoleth,"Become a BPRO delegate and join this growing group of MVPs in our governance - 
+@MonetSupply (Risk @MakerDAO and a few other roles with @compoundfinance
+@Uniswap and others), 
+
+@inkymaze (@gauntletnetwork),
+
+@A7om20 &amp; @NotMyKindOfGuy (B.Protocol Growth Squad).
+
+Who's next...? https://t.co/zY8nzzLTw7",25,5,6,2021-09-10
+392,2021-09-13 18:53:44+00:00,1437489692648280065,bprotocoleth,"BIP #3 - BIP#6 are up for voting. 
+$BPRO holders can vote on Snapshot on the different token allocations: 
+
+200k BPRO - Future integrations rewards
+90k - Liquidity Mining with @UMAprotocol KPI Options
+25k - Growth Squad fund
+50k - Bug Bounty backup 
+ https://t.co/Y9O50Zzzkz https://t.co/789Wo0ubpU",20,1,9,2021-09-13
+394,2021-09-18 12:23:03+00:00,1439203313313095681,bprotocoleth,"🆕 B.Protocol's Ethereum address for 
+@WrappedBTC
+as a DAO Member is: 
+
+https://t.co/DwkOZLPkU6",15,1,2,2021-09-18
+396,2021-09-19 04:57:11+00:00,1439453496093331458,bprotocoleth,"Following the community vote, 365k BPRO were transferred from the DAO Reservoir to 4 new Vaults.
+This was done in this tx
+https://t.co/L0pa2G0yXZ
+
+The addresses of the new BIP Vaults can be found here https://t.co/l7Q5ShzdSd https://t.co/4ErFtIqx67",13,1,4,2021-09-19
+397,2021-09-20 13:37:00+00:00,1439946697367384073,bprotocoleth,"New Liquidity Mining for $BPRO is LIVE!
+Started Sep. 18th (block 13251289) it'll run for 3 months. 
+Aligning the incentives using @UMAprotocol KPI Options - 
+If B.Protocol's TVL &gt; $150m, the rewards will be x3 (distributing 90k BPRO). 
+Let's grow ⏳💪🤝🫂
+https://t.co/Lyi5nLjBQg",40,4,16,2021-09-20
+398,2021-09-22 07:08:30+00:00,1440573704266682376,bprotocoleth,"🤝🇯🇵 🫂 💎
+Thanks for sharing the news with your followers @shingen_crypto. The new LM will run for 3 months - if B.Protocol TVL &gt; $150m at the end of the LM the rewards will be x3 more (distributing 90k BPRO).
+Join Discord - https://t.co/RON4o7dmGP 
+App - https://t.co/Lyi5nLjBQg https://t.co/p13xgEJmfO",15,2,3,2021-09-22
+402,2021-09-25 18:00:02+00:00,1441824832744660997,bprotocoleth,"@UncleRewards @MakerGrowth Welcome to join our Discord and get any support you need for the Import process into B.Protocol (or anything else). Can also DM the admins for a 1-on-1 support (admins will never DM you first, so please be cautious with any possible imposters). 
+https://t.co/22UjJBir2N",1,0,0,2021-09-25
+403,2021-09-26 14:05:00+00:00,1442128071491002372,bprotocoleth,"🤝🫂 Thanks @MakerGrowth for a great educational &amp; fun thread on B.Protocol and the new $BPRO LM for @MakerDAO users. 
+Current Maker users can *Import in 1-click* their ETH &amp; WBTC Vaults to be managed via B.Protocol to start gain BPRO rewards
+⏳Don't wait 
+https://t.co/R3Lf5DA2Lu https://t.co/PeTCqPQR5Y",24,2,9,2021-09-26
+404,2021-09-27 18:02:08+00:00,1442550137935519744,bprotocoleth,"🥳📢 Join us for the B.Protocol 4th Community Call. 
+Special guests:
+- @MakerGrowth discussing LM and Integrations.
+- @HatsFinance will present their new DeFi security model.
+Wed, Sep. 29th 11am EST/ 3pm UTC/ 11pm SGT. B.Protocol Discord voice channel - https://t.co/RON4o6VLPh 👇 https://t.co/811s2HewDP",8,1,5,2021-09-27
+406,2021-09-29 13:00:00+00:00,1443198879646695426,bprotocoleth,"⌛️2 hours till we reconnect for another B.Protocol Community Call with guests (11am EST/ 3pm UTC) -
+
+3:00-3:10 - Opening
+3:10-3:30 - @MakerGrowth
+3:30 - 3:50 - @HatsFinance
+3:50 - LM overview, Growth, and general Q&amp;A
+
+Join us on our Discord Voice Channel -
+https://t.co/CDQSrgETwS https://t.co/er8XzlYuAv",2,0,1,2021-09-29
+407,2021-10-01 09:32:00+00:00,1443871307796344839,bprotocoleth,"🗞️📜B.Protocol Updates - Issue #5 is out. 
+Covering all the main things happening in the B.Protocol ecosystem during September. 
+
+🤓Give it a read to keep yourself updated, and don't forget to share with a friend 🫂
+
+ https://t.co/SeEQ7tljSJ",13,0,8,2021-10-01
+408,2021-10-04 16:19:51+00:00,1445061112035254276,bprotocoleth,"Depositing LUSD into Liquity's Stability Pool? 👀
+
+Now you can get additional $BPRO rewards on top of your $LQTY rewards by using the B.Protocol front-end. 
+And get an extra bonus - peace of mind! 
+Automatically rebalance your position after liquidations. 
+https://t.co/YSC9iOxfMe https://t.co/z8GzFyR1J1",21,1,7,2021-10-04
+409,2021-10-05 09:37:14+00:00,1445322177029591042,bprotocoleth,"If you are a Pickles 🥒 fan - then it's time to deposit $LUSD into the B.Protocol Jar through the @picklefinance - B.Protocol - @Liquity integration (you got to love #DeFi🤓)
+You would get $BPRO rewards on top of your $LQTY rewards (which will be compounded for higher yields)⏳💸 https://t.co/lckP16BG2B",19,4,8,2021-10-05
+411,2021-10-06 09:06:00+00:00,1445676705071304706,bprotocoleth,"Do you host a @LiquityProtocol front end? We prepared open source widget that let your user deposit in the stability pool via B.Protocol.
+
+You:
+get the same LQTY kickback
+
+Your users:
+1. Save rebalance gas and hassle.
+2. Enjoy our LM program.
+3. Make Liquity stability pool robust https://t.co/Nl2Hjct53g https://t.co/nrwU12M3s7",10,0,5,2021-10-06
+413,2021-10-11 11:48:19+00:00,1447529491450970114,bprotocoleth,@danielesesta gm,9,2,0,2021-10-11
+414,2021-10-12 12:29:36+00:00,1447902268750237697,bprotocoleth,"gm to all $SPELL holders who like democratizing liquidations in DeFi, fighting MEV, securing their favorite platform and earning some brrrrr.
+
+Vote now:
+https://t.co/SEEC1j5tXZ https://t.co/ha2D8jAzQ5",49,1,18,2021-10-12
+415,2021-10-13 16:21:00+00:00,1448322890303164416,bprotocoleth,"BIP #7 passed the B.Protocol DAO vote to fund its @HatsFinance Vault with $100k worth of $BPRO to better incentivize its bug bounty. 
+The vote was executed. 
+
+https://t.co/LPew01RTtH
+
+https://t.co/vtO4QHph0z
+
+GIF by @gnosiselbuho https://t.co/Fc8FZvYwV0",19,1,5,2021-10-13
+416,2021-10-17 20:07:39+00:00,1449829482043428872,bprotocoleth,"📽️A short and simple 3 minutes video tutorial on how to Import your @compoundfinance funds into B.Protocol by @NotMyKindOfGuy - one of the Growth Squad members of the B.Protocol's DAO. 
+
+https://t.co/PjYEfg1hxE https://t.co/2445FrQrXb",9,1,2,2021-10-17
+417,2021-10-19 06:16:11+00:00,1450345013406314497,bprotocoleth,"📣☎️ Join us for the 2nd B.Protocol Growth Call. 
+
+Tomorrow, Wed., October 20th, 3pm UTC/ 11am EST. 
+ 
+The Growth Squad will share what's been done till now, what's the plan going forward, and more. 
+Also looking for more fam and frenz to join forces.
+https://t.co/RON4o6VLPh https://t.co/sCkhIzn6aC",4,1,2,2021-10-19
+418,2021-10-20 14:07:56+00:00,1450826120824303625,bprotocoleth,"⏳ Starting in less than an hour (3pm UTC/ 11am EST). 
+Join us and bring a friend 🍻🥂
+
+B.Protocol Discord, voice channel.
+https://t.co/m7pZsHkZ56 https://t.co/lWBHLfeJIz",6,0,2,2021-10-20
+419,2021-10-24 14:54:32+00:00,1452287397966790656,bprotocoleth,"🥳📣@Instadapp integrated B.Protocol 🏗️🏗️🏗️
+
+Instadapp users who deposit $LUSD to @LiquityProtocol Stability Pool can now auto-compound their profits in a passive, gas-free way.
+AND add $BPRO to their farming yields👇
+
+Use - https://t.co/ZzUldNAagN
+
+Read - https://t.co/bmjkKTCESb https://t.co/tF2fG0Vh69",45,3,21,2021-10-24
+421,2021-11-01 09:42:23+00:00,1455107944157257739,bprotocoleth,"Our @LiquityProtocol integration is now also supported by https://t.co/aB8U9HYfBn front end.
+
+B.Protocol is accessible via a variety of front ends and protocols:
+Liquity: @Instadapp, @FreelyFinance, @picklefinance 
+MakerDAO: @DeFiSaver, @furucombo 
+Compound: @88mphapp 
+
+#(⊟→⊞) https://t.co/sKNs0wbJEe",23,1,5,2021-11-01
+423,2021-11-02 13:37:34+00:00,1455529518018531332,bprotocoleth,"🗞️🤓Another month, another B.Protocol Updates issue.
+
+The one place to get yourself updated with all things B.Protocol. 
+
+Subscribe 🖊️
+Give it a read 🧐  
+Share with a fren 🫂
+
+https://t.co/WHdvSSa0Lv",7,0,5,2021-11-02
+425,2021-11-03 13:28:43+00:00,1455889678889099266,bprotocoleth,"Starting in ~90 minutes from now. 
+Join us for the 5th B.Protocol Community Call 👇 https://t.co/WbpizgdVWV",1,0,0,2021-11-03
+426,2021-11-07 11:20:28+00:00,1457306957874860036,bprotocoleth,"Though this @BanklessHQ interview was taken 6 months ago 📆 for our v1 launch over Compound, the essence remains the same -
+Liquidation systems in DeFi are still a barrier to better capital efficiency in the ecosystem.
+B.Protocol fix this &amp; democratize liquidations in DeFi
+⊟→⊞ https://t.co/JNUcakSlcI",5,1,4,2021-11-07
+428,2021-11-10 08:10:36+00:00,1458346336600875008,bprotocoleth,"📣📜A proposal to sponsor a Shield Mining 🛡️campaign to incentivize $NXM staking for a @NexusMutual cover for B.Protocol is up for community discussion in the forum.
+
+A @SnapshotLabs vote will go live in a few days according to community feedback. 
+
+https://t.co/PinyXDCRBN",8,0,3,2021-11-10
+429,2021-11-15 16:54:00+00:00,1460289994703003660,bprotocoleth,"As @picklefinance $LUSD Jar is built on B.Protocol's B.AMM, users get auto-compounding profits - optimizing their LUSD share in the pool, with no gas costs and no hustle. Deposit and lay back. https://t.co/Z2G8lVla8g",5,0,4,2021-11-15
+430,2021-11-16 19:42:16+00:00,1460694729671077890,bprotocoleth,"📣🗳️ A new vote is live on @SnapshotLabs to allocate:
+
+BIP #8 - 100k BPRO to build Protocol Owned Liquidity On Uniswap v3, managed by @VisorFinance
+
+BIP #9 - 10k BPRO for a Shield Mining Campaign on @NexusMutual for B.Protocol v2 cover
+
+BPRO holders vote👇
+https://t.co/uRoWsQt4Vh",22,0,6,2021-11-16
+431,2021-11-19 16:42:58+00:00,1461736768491995137,bprotocoleth,"⏳24 hours left for the Snapshot vote on BIP #8 and BIP #9. 
+~80k BPRO are still needed for quorum.  
+
+$BPRO holders can cast their vote here - 
+https://t.co/uRoWsQKGjR https://t.co/VNqjBu8zZ2",8,1,3,2021-11-19
+432,2021-11-20 06:23:40+00:00,1461943306414432260,bprotocoleth,"Join @b05crypto and our @EKatchka into a deep dive on the liquidations process in DeFi and how B.Protocol is changing the game with its decentralized Backstop. 
+
+""Democratizing liquidations and fighting MEV to create better capital efficiency for DeFi""
+
+⊟→⊞ https://t.co/I2WJgHRSk5",10,0,7,2021-11-20
+433,2021-11-21 14:08:24+00:00,1462422648206602241,bprotocoleth,"A great thread by @ericbaleine, summarizing some prominent benefits of B.Protocol 🧐🧵👇 https://t.co/kvEMnfKArX",10,0,4,2021-11-21
+435,2021-11-23 07:16:05+00:00,1463043661931896836,bprotocoleth,"📢B.Protocol's dev team on-boards strategic investors led by @1kxnetwork. Tokens from Dev's Reserve will be transferred to investors' reserves in the coming weeks. Investors' tokens will be vested until Apr. 2025.
+
+Details on more partners in this round will be disclosed soon 👀",59,2,17,2021-11-23
+436,2021-11-24 07:42:04+00:00,1463412586507116546,bprotocoleth,For all our 🇨🇳 followers 👇 https://t.co/BTFeyuBsbq,8,0,2,2021-11-24
+438,2021-11-25 16:18:32+00:00,1463904948001910798,bprotocoleth,"So you heard B.Protocol democratizes liquidations with its new DeFi infrastructure piece - the Backstop.
+
+This short info-vid by @ericbaleine from @CRE8RDAO explains in a simple way how a Backstop works and how Backstoppers (LPs to the Backstop) benefit from it. Give it a watch📽️ https://t.co/h0VCKGZRso",35,1,9,2021-11-25
+440,2021-11-28 16:13:00+00:00,1464990718754099201,bprotocoleth,"Listen to @b05crypto and our @EKatchka discussing the benefits of a backstop for the integrated lending platforms, their users, and the backstoppers - those who provide liquidity to the backstop pool
+🫂 Democratizing liquidations
+💪Increasing safety
+🔓Unlocking capital efficiency https://t.co/laLZlYeqmu",10,0,3,2021-11-28
+443,2021-11-29 09:07:26+00:00,1465246008775000071,bprotocoleth,"A $400k $USDC backstop at @HundredFinance amplifies their @arbitrum liquidation ability by x2.
+
+It can handle similar amount as @SushiSwap who has $8M of $USDC deposits. Concentrated liquidity DEX e.g., @Uniswap and @CurveFinance, will have thin liquidity when the market moves. https://t.co/bVobxPPeDg",32,1,9,2021-11-29
+445,2021-12-01 10:41:57+00:00,1465994571054260224,bprotocoleth,ICYMI -  A great short &amp; simple info-vid to get the basics of how a Backstop works. Soon in your favorite DeFi platform... https://t.co/NYNNl8fCXx,10,0,4,2021-12-01
+449,2021-12-05 20:57:54+00:00,1467599131321458691,bprotocoleth,"You can read more about our latest integration with @HundredFinance over @arbitrum on this week @defipulse Farmer edition 👇
+🧑‍🌾🗞️🤓 https://t.co/Qo7vJKwo63",8,0,0,2021-12-05
+451,2021-12-06 19:51:46+00:00,1467944877174501392,bprotocoleth,"Great technical review by @jmartinlevrai from the @MakerDAO Protocol Engineering team on the proposed integration:
+https://t.co/WuIjOsx7wS",15,0,5,2021-12-06
+452,2021-12-08 12:36:24+00:00,1468560090798211076,bprotocoleth,"In less than a month @CRE8RDAO, orchestrated two major integrations for us (@HundredFinance, @SquidDao).
+
+As a token of appreciation one of our team members handcrafted them a flower bouquet.
+
+Like a real bouquet of flowers this nft also eventually fades away (after one week) 👇 https://t.co/Aspb4kIFvg",18,1,7,2021-12-08
+454,2021-12-12 10:19:12+00:00,1469975114552946691,bprotocoleth,"A great short summary of B.Protocol integration with @HundredFinance from its creator and lead dev @vfat0 🦾
+AND - the @CRE8RDAO group is a great place if you are looking for some quality content creation for your DeFi project. 
+A shill for a shill... @gabrielhaines where r u ? https://t.co/369BgzDPx0",13,4,5,2021-12-12
+457,2021-12-15 13:31:25+00:00,1471110648818016261,bprotocoleth,"📢Starting in 90 min (10am EST/ 3pm UTC)!!!
+Join B.Protocol community call focusing on GROWTH📈
+
+Growth hackers? 
+Marketers? 
+DeFi whisperers? 
+
+--- Join Us --- 
+
+Call will be held on our Discord's voice channel -  https://t.co/RON4o6VLPh https://t.co/S8Tl2c5bO4",5,0,0,2021-12-15
+458,2021-12-18 19:07:50+00:00,1472282473455308812,bprotocoleth,"@kyoronut Yes, it will end only this Monday. We will update the website. Thanks for the report.",0,0,0,2021-12-18
+459,2021-12-20 14:39:32+00:00,1472939730337771528,bprotocoleth,"📢The 2nd Liquidity Mining is over!⌛️
+
+Users who have used @LiquityProtocol, @picklefinance, @Instadapp, @MakerDAO, or @compoundfinance integrations of B.Protocol can claim their KPI options rewards on @UMAprotocol.
+
+Here's a step-by-step tutorial👇
+https://t.co/iktEdC3Gkp",12,0,3,2021-12-20
+460,2021-12-22 17:54:17+00:00,1473713516339154952,bprotocoleth,"We are excited to share B.Protocol's seed round! 
+Led by @1kxnetwork with participation from @robotventures, @TheSpartanGroup, @DoveyWan, @AngelDAOorg, and some of the leading players in DeFi as angel investors (👀👇)
+Join us to build a Backstop for DeFi!
+
+https://t.co/EaJMORDLGB https://t.co/3I45dzZefp",125,13,42,2021-12-22
+462,2021-12-23 12:13:47+00:00,1473990214506926084,bprotocoleth,Just ICYMI 👀 https://t.co/z7eOkvyWoR,9,0,0,2021-12-23
+463,2021-12-30 16:33:24+00:00,1476592264621314056,bprotocoleth,Probably nothing https://t.co/OjuqyriSbl,42,1,8,2021-12-30
+465,2022-01-03 13:49:37+00:00,1478000598280810501,bprotocoleth,"ICYMI, how we spent our holiday:
+
+🎅 @feiprotocol deposited $90m of @LiquityProtocol $LUSD into our backstop
+🏄 Our @HundredFinance backstop successfully executed more liquidations (with @gelatonetwork keepers)
+🎩 @Kurt_M_Barry finished his audit for our @RariCapital integration https://t.co/PMour2G1PG",35,0,11,2022-01-03
+466,2022-01-07 08:04:01+00:00,1479363177578217475,bprotocoleth,"🤖 Getting MEV Bot to fight MEV? Could it be more ironic?
+
+Around 07:21:38 UTC a @LiquityProtocol liquidation was triggered. 
+
+MEV Bot 0xa57...6CF triggered an arbitrage tx that rebalanced our users ETH back to LUSD and deposited back into the stability pool 👇 https://t.co/mUa6e7Ufri",22,1,8,2022-01-07
+468,2022-01-10 08:49:32+00:00,1480461794921656321,bprotocoleth,"📣🧑‍🎨✍️ B.Protocol DAO is distributing 6k BPRO to contributors who create content and grow the momentum of B.Protocol.
+
+Do your thing and get rewarded via our @coordinape circle of contributors.
+A list of tasks already awaits on the community board🧐👇
+https://t.co/ybR5PWxD6H",12,4,3,2022-01-10
+469,2022-01-11 15:23:49+00:00,1480923407109795853,bprotocoleth,"📣Join our 4th Growth Call Tomorrow!
+
+We'll go through:
+🦍⭕️ How to join B.Protocol's @coordinape circle of contributors
+📋✅ Picking tasks from the community board
+💸🔄 Give &amp; Get BPRO rewards
+
+Wed. January 12th, 10am EST/ 3pm UTC
+Discord voice channel 🫂
+https://t.co/CDQSrgWuVs https://t.co/gdYbQfzYkm",7,1,4,2022-01-11
+471,2022-01-12 13:04:06+00:00,1481250636905828353,bprotocoleth,"📣Starting in 2 hours!!!
+Join our Community of Contributors Call 🤝🫂
+
+🕒10am EST/ 3pm UTC
+
+📍B.Protocol Discord voice channel. https://t.co/GMizSufRYH",2,0,0,2022-01-12
+472,2022-01-13 20:45:20+00:00,1481729098695204864,bprotocoleth,e6 https://t.co/2AK81OzsWs,27,1,0,2022-01-13
+473,2022-01-14 17:19:29+00:00,1482039680602419200,bprotocoleth,"d5
+What's your next move ♖? https://t.co/w1CVkQmGu5 https://t.co/Pt0jJk1Beo",16,1,0,2022-01-14
+477,2022-01-17 14:51:27+00:00,1483089589929746446,bprotocoleth,"We are pleased to present B.Protocol's Multi-Collateral Backstop design, and excited to go live with it this week with @HundredFinance on @FantomFDN chain.
+
+https://t.co/XSQ04PQHni https://t.co/ogcHin6jfX",61,1,20,2022-01-17
+478,2022-01-25 13:00:00+00:00,1485960644956413952,bprotocoleth,"Starting in 2 hours!
+Set a reminder and join the Twitter Space with @dexguru and @EKatchka to learn how B.Protocol lets you participate in DeFi liquidations while providing better security and capital efficiency to lending platforms and their users. 
+https://t.co/CKuLSUPEHj https://t.co/PDLdjy1v59 https://t.co/RiM1z7BOJ6",14,0,3,2022-01-25
+479,2022-02-03 14:58:49+00:00,1489252038454087680,bprotocoleth,"The improved @LiquityProtocol B.AMM contract is LIVE!
+Users can withdraw their LUSD from the old contract and re-deposit it into the new one for faster rebalancing.
+Read our analysis of the last $6m liquidations and the way we improved the Backstop AMM🧐👇
+https://t.co/rASn4eJTbX",32,1,16,2022-02-03
+481,2022-02-08 12:39:33+00:00,1491028928600838147,bprotocoleth,"📢 Tomorrow(!)
+After way too loooong...!!!
+🫂 ☎️B.Protocol Community Calls are back
+
+We'll discuss BIPs, Growth, Integrations, and more!
+
+With special guest @0x81B of @Keeper_DAO.
+
+⌛️Wed. February 9th, 10am EST/3pm UTC.
+
+B.Protocol Discord voice channel👇 https://t.co/RON4o7dmGP https://t.co/7HSSh5R3SU",5,0,1,2022-02-08
+482,2022-02-09 21:16:41+00:00,1491521457561686019,bprotocoleth,"B.Protocol is happy to sponsor the Codeless Hackathon - a place for meme lords and DeFi educators to shine!💫
+
+Join us as we climb the next step of DeFi education, growth, and marketing.
+
+Join our Discord to stay up to date with bounties and tasks - https://t.co/RON4o6VLPh https://t.co/FmamLacput",8,0,3,2022-02-09
+486,2022-02-10 16:48:10+00:00,1491816273080201222,bprotocoleth,"Using @vestafinance stability pool?
+Some of your $VST was swapped to ETH/gOHM/renBTC in liquidations.
+
+Want to minimize the exposure to volatile assets and maximize your $VESTA apr? You have to sell your gOHM back to VST
+
+We automate the process and help making $VST more stable👇 https://t.co/l4t6PQWyM6",45,2,7,2022-02-10
+489,2022-02-11 15:02:25+00:00,1492152047126388737,bprotocoleth,"📢🗳️ $BPRO holders can now vote on:
+BIP#10 - @Keeper_DAO Integration
+BIP#11 - @NexusMutual cover
+BIP#12 - Staking design [Signal]
+BIP#13 - $BPRO Liquidity [Signal]
+BIP#14 - Fee activation [Signal]
+
+BIP 10-13
+https://t.co/TWw0Gqxu9L
+BIP14
+https://t.co/0DHQehznVs",12,8,6,2022-02-11
+490,2022-02-15 00:12:34+00:00,1493377659996409857,bprotocoleth,"Time to put those BPRO to work 💪
+
+⏳24 hours left to vote on BIPs #10 - #14.
+
+Pay attention there are 2 active snapshot proposals you need to enter and vote on.
+1. https://t.co/TWw0Gqxu9L
+2. https://t.co/0DHQehznVs https://t.co/50asPsPLo3",3,0,1,2022-02-15
+491,2022-02-19 00:44:03+00:00,1494835133098061825,bprotocoleth,"B.Protocol is hiring a community manager! 🤝🫂
+
+Living in CT?
+Tracking dozens of DeFi protocols on Discord? 
+Believe that DAOs will conquer the world? 
+
+If you are in #ETHDenver2022 come meet us IRL.
+
+If you are the one, you would know where to find us 😉 https://t.co/y4d5l9Axhz",13,3,3,2022-02-19
+492,2022-02-21 17:18:20+00:00,1495810130226593801,bprotocoleth,"📢💸Win our no-code bounties on the upcoming Codeless Hackathon!!!
+Help us with educational, design, and ideation for B.Protocol and try winning one of our 3 bounties (soon to be released). 
+Stay tuned and join our Discord to keep yourself up to date. 
+https://t.co/RON4o6VLPh https://t.co/zgnbNStURe",6,1,2,2022-02-21
+493,2022-02-24 20:20:58+00:00,1496943256931819527,bprotocoleth,"B.Protocol posted 3 bounties for the Codeless hackathon - Go and grab them!
+No coding skills needed
+- Dashboard
+- Education
+- Research
+ 
+Join the B.Protocol Discord for feedback and support on your work from the team and community 
+https://t.co/Y6eEkcBTTh
+
+https://t.co/RON4o6VLPh https://t.co/P5yK6yZ7gL",8,0,2,2022-02-24
+494,2022-02-25 05:12:43+00:00,1497077076083494922,bprotocoleth,"Join the @TallyCash community call today/tomorrow (Feb. 25) to learn from @EKatchka how B.Protocol uses user-base backstop to handle DeFi liquidations in scale, securing lending platforms, stables, synthetic assets, and more.
+
+Tally Wallet Discord - https://t.co/nGFFjlzMAj https://t.co/tu5EToYrfp",5,0,2,2022-02-25
+495,2022-03-02 11:19:00+00:00,1498981189809582081,bprotocoleth,"B.Protocol has 3 bounties 
+@CodelessCon, each for 1k USDC, with still 1 week to go!
+Read the details below &amp; start working.
+We're happy to provide feedback before/after you submit to optimize your chances of winning. 
+Get in touch with us over Discord.
+https://t.co/6Uq9vcfGH4 https://t.co/fdoD71iMtN",5,0,2,2022-03-02
+499,2022-03-03 16:17:00+00:00,1499418572673601536,bprotocoleth,"⛽️Gas prices are low! migrate now to the improved B.AMM with @Keeper_DAO and $LUSD price de-peg protection🛡️
+Deposit your $LUSD into @LiquityProtocol Stability Pool via B.Protocol for auto rebalancing of your position (lock liquidation profits, optimize $LQTY rewards, save gas)👇 https://t.co/IufSHIUADi https://t.co/jEsaMxZWfK",10,0,2,2022-03-03
+500,2022-03-06 14:17:00+00:00,1500475537294180352,bprotocoleth,"🥳🤓At last - a new B.Protocol Updates issue is out!
+
+The one newsletter to keep you updated with all things B.Protocol. 
+Make sure to subscribe to get the next one straight in your email inbox. 
+🧐🗞️ #Weekend_Reading
+
+https://t.co/ikLCqvLBbw",12,0,5,2022-03-06
+501,2022-03-07 16:39:13+00:00,1500873714279272453,bprotocoleth,"Going live in 20 min. with @FTMAlerts to discuss how better and more decentralized #Liquidation mechanics, using a user-based Backstop, is making DeFi stronger, scalable, and offer better capital efficiency for users. 
+Join us - 
+https://t.co/iajuFUX4dY",6,0,0,2022-03-07
+503,2022-03-13 14:09:36+00:00,1503010390627827719,bprotocoleth,"1. ETH collateral is offered for sale according to the B.AMM formula
+2. KeeperDAO keepers get rebate in the size of the MEV, and thus have the best price
+3. All users in the ecosystem can also buy the ETH (without rebate)
+4. Gelato bots set to trigger arbitrage trades if needed",14,0,1,2022-03-13
+505,2022-03-17 15:45:00+00:00,1504483949908688899,bprotocoleth,"Listen to @yaron_velner, B.Protocol's founder, covering our user-based backstop history, present, and future plans. 
+Learn how we help DeFi protocols to handle one of DeFi's greatest risk factors - Liquidations!
+Hosted by @JoeMRobert from @RobertVentures_ 
+https://t.co/s8trJWtrfa",9,0,3,2022-03-17
+506,2022-03-28 18:21:57+00:00,1508509713884979200,bprotocoleth,"📢☎️ Join us for the 8th B.Protocol Community Call!! 
+
+We will cover: 
+🏗️ Latest developments &amp; integrations
+🫂 Community &amp; Growth 
+🖼️ NFTs
+⁉️ Q&amp;A
+
+Wed. March 30th, 10am EST/ 2pm UTC/ 10pm SGT.
+B.Protocol's Discord voice channel - https://t.co/RON4o6VLPh https://t.co/4xlARQ18H4",5,1,3,2022-03-28
+507,2022-03-29 03:39:13+00:00,1508649957691207684,bprotocoleth,"❓🤔📢Join us for this AMA session with the @vestafinance team , as we discuss how B.Protocol's user-based backstop makes Vesta more stable as a protocol, while making it easier for stability pool depositors. 
+
+Wed. 11am PST/ 6pm UTC, over the Vesta Finance discord 👇 https://t.co/AtT9tfIAaI",7,0,3,2022-03-29
+508,2022-03-30 09:19:40+00:00,1509098021002387461,bprotocoleth,"""B.Protocol helps you earn a stable yield, and[...]further secure the protocol. Going forward, we plan to feature B.Protocol more prominently on our frontend. In the meantime, we encourage you to deposit into Vesta’s stability pools via https://t.co/IaOCnJIFWO.""
+Read the thread👇 https://t.co/5dFAIpCRWD",5,0,2,2022-03-30
+511,2022-04-03 08:56:56+00:00,1510541853044756482,bprotocoleth,"📢 Our @LiquityProtocol integration supports @CoinbaseWallet.
+Shout out to @straightupjac for submitting the pull request. https://t.co/CuizDH9VAG",37,8,4,2022-04-03
+512,2022-04-04 12:59:34+00:00,1510965299272724480,bprotocoleth,"🥳📢B.Protocol Updates issue #9 is out!!! 
+🗞️📆 Covering March 2022 with all things B.Protocol. 
+
+Don't forget to subscribe to the newsletter to get the next one straight in your inbox!
+
+Enjoy your reading and share with a friend 🤓 🫂
+https://t.co/fquxZHVgZj",5,1,2,2022-04-04
+513,2022-04-05 17:58:55+00:00,1511403023360274438,bprotocoleth,"📢We are happy to announce our first-ever Backstop deployment on @0xPolygon!!!
+Users can now deposit $DAI, $USDC &amp; $USDT in @HundredFinance over Polygon to protect the platform while gaining from liquidations, in addition to their Supply interest rates and $HND rewards 👇 https://t.co/G5RYH1tJ0P https://t.co/35qsoa9OQv",42,1,11,2022-04-05
+515,2022-04-10 12:37:39+00:00,1513134111354982402,bprotocoleth,"🚀Over $1M TVL in the @0xPolygon backstop (and over $110M across all chains).
+🛡️Almost 20% of  @HundredFinance supply is staked to facilitate liquidations.
+⚠️ Have a lending platform on polygon? integrate with our backstop before it is too late. https://t.co/jZ2wAofMZV",12,0,5,2022-04-10
+516,2022-04-11 17:37:55+00:00,1513572064975888386,bprotocoleth,"New #Dashboard tracks liquidations, imbalances and TVL data across our different @LiquityProtocol, @HundredFinance, and @vestafinance  backstop pools🤝 on Ethereum, @arbitrum, @FantomFDN, and @0xPolygon chains, with @graphprotocol backend,
+
+Try it out here https://t.co/mUAy6R2YrK https://t.co/4uUDeBbCYZ",27,1,11,2022-04-11
+517,2022-04-12 11:43:37+00:00,1513845290478059526,bprotocoleth,"👀 We are working on a framework for risk assessment of @RariCapital  pools, with and without B.Protocol backstop.
+
+More details later this week.
+cc: @JackLongarzo https://t.co/GD3uTqzNYE https://t.co/QCw4cPsInU",9,0,4,2022-04-12
+518,2022-04-13 09:50:13+00:00,1514179139376459778,bprotocoleth,"The second transfer of 250k $BPRO to @1kxnetwork vesting contract was executed https://t.co/vjx0bNgpY5
+
+This ends the token transfers of the seed round.
+All the tokens are linearly vested until April 2025. https://t.co/seoefpbJG3",3,0,1,2022-04-13
+519,2022-04-14 13:36:05+00:00,1514598368944672768,bprotocoleth,4/ The full report is available here https://t.co/ZjlixhSvNR,5,0,0,2022-04-14
+524,2022-04-22 06:16:44+00:00,1517386906270670848,bprotocoleth,"8 days left till the end of the current B.Protocol's Coordinape Epoch!
+
+Earn GIVE by completing tasks &amp; be rewarded in $BPRO tokens.
+
+Start here: https://t.co/TvzGUF8RPR.
+
+Join our Discord for more details: https://t.co/F6EZD7jsNx",4,0,2,2022-04-22
+525,2022-04-24 10:40:26+00:00,1518178041306005505,bprotocoleth,"Higher liquidation penalty enables higher LTV (collateral factor).
+
+@eulerfinance is the first platform to favour lower penalty (as opposed to @AaveAave  and @compoundfinance ).
+
+Lower liquidation penalty or higher LTV, what would you prefer?",14,2,6,2022-04-24
+527,2022-05-03 09:31:06+00:00,1521422085154906113,bprotocoleth,"📣9️⃣ 🫂 ☎️ The 9th B.Protocol Community Call !
+
+Wed., May 4th, 8am PST/ 3pm UTC.
+
+We'll discuss:
+🤝Integrations
+⚖️Risk subDAO
+⭕️Contributors Circle workflow &amp; goals
+⁉️Q&amp;A
+
+Special guest - @deworkxyz 
+
+Join us over our Discord Community-Call voice channel - https://t.co/RON4o6VLPh https://t.co/923E02Otpb",7,2,3,2022-05-03
+528,2022-05-04 13:00:00+00:00,1521837046507216899,bprotocoleth,"Starting in 2 hours! 
+Join us for the 9th B.Protocol Community Call - 
+8am PST/ 11am EST/ 3pm UTC/ 11pm SGT
+
+https://t.co/2RKTKkuup8 https://t.co/DVcxcTWXqX",2,0,1,2022-05-04
+529,2022-05-08 17:52:29+00:00,1523360202355060736,bprotocoleth,Join our Discord to discuss this framework and other DeFi  risk assessment processes - https://t.co/9EGt4wyuj9,7,0,0,2022-05-08
+534,2022-05-16 07:48:50+00:00,1526107390369746944,bprotocoleth,"Liquidity is draining on non-Ethereum chains.
+Lending markets without a backstop won't be able to liquidate even $50k amounts for some popular tokens.
+
+Yesterday the BAMM liquidated $50k $SPELL for @HundredFinance on @FantomFDN
+This would have been impossible without a backstop. https://t.co/diaO44igBb",25,3,8,2022-05-16
+536,2022-05-25 15:07:36+00:00,1529479299950170112,bprotocoleth,"Recent market volatility surfaced a lot of sub-optimal risk management in lending platforms.
+Together with our friends in @1kxnetwork we launch the @Risk_DAO who will promote risk analysis audits, tooling, best practices, and transparency in lending markets. https://t.co/Cc9k0CLBIK",23,0,4,2022-05-25
+538,2022-05-31 15:33:22+00:00,1531660114238877697,bprotocoleth,"The @Risk_DAO report includes a tool to show how B.Protocol backstop improves the efficiency of the stability pool in protocols like @LiquityProtocol and @vestafinance, and mitigate bad debt.
+
+Set different B.Protocol share here
+https://t.co/f0DzfLVL1Z
+and watch the results https://t.co/gsGwHlNKbe",13,0,5,2022-05-31
+539,2022-06-05 19:09:45+00:00,1533526505720057863,bprotocoleth,"Join us for an AMA session on the @arbitrum Discord.
+Tomorrow (Mon), 11am EST / 3pm UTC.
+
+We'll also discuss why handling liquidations with a backstop is even more needed during liquidity contraction phases, mainly on L2s and alt L1s.
+
+https://t.co/sMI6IwxUNx https://t.co/DZ3y9xY8ui",10,1,6,2022-06-05
+540,2022-06-06 13:22:34+00:00,1533801523918036992,bprotocoleth,"Join us today at 11am EST for an AMA session on @arbitrum's Discord where we will dive deeper into this, and other interesting stuff we've been working on lately. 
+https://t.co/sMI6IwxUNx 
+
+Welcome to join our Discord for more discussions on this topic - https://t.co/RON4o6VLPh",5,1,1,2022-06-06
+542,2022-06-12 08:42:11+00:00,1535905290012573696,bprotocoleth,"We are launching a bi-weekly newsletter about the state of DeFi lending platforms.
+
+In today's issue we cover:
+🎤An interview with @MonetSupply
+🤜@RariCapital compensation plan get rebutted
+🚀@InterestDeFi launch
+⚠️@Risk_DAO bad debt dashboard
+and more...
+
+https://t.co/4gfjDr5RYK",26,6,14,2022-06-12
+543,2022-06-13 14:23:51+00:00,1536353659147243521,bprotocoleth,"@SamMiorelli Only today around $4m of liquidations were executed on LUSD alone.
+It supposed to be in the dashboard.
+
+Our hundred finance dashboard is obslete though, and does not reflect the polygon and ftm backstop. numbers there are smaller in size though.",4,0,0,2022-06-13
+545,2022-06-15 12:18:18+00:00,1537046839186399235,bprotocoleth,"In 3 hours from now (11am EST/3pm UTC) we'll go live with the legendary @DeFi_Dad to discuss #Liquidations on DeFi, how liquidity contraction breaks flashloan bots and why a backstop is no longer a ""nice to have"" solution to keep lending platforms solvent.
+https://t.co/Kux8fbWTyU https://t.co/6hKiPjQQY9",7,1,2,2022-06-15
+547,2022-06-18 08:41:22+00:00,1538079411962101761,bprotocoleth,"@CRE8RDAO MIM's DAO (SPELL) voted in favour of using B.Protocol to improve liquidations. https://t.co/SEEC1j5tXZ
+
+But their devs refused to execute it, saying there is nothing wrong with their current liquidation system. https://t.co/WuuKzL80Xy",32,2,12,2022-06-18
+548,2022-06-19 13:37:00+00:00,1538516196915654660,bprotocoleth,"👀@solendprotocol founder demonstrates IRL what we discussed with @DeFi_Dad a few days ago.
+Thin Dex liquidity impacts flashloan liquidation bots capabilities and boosts cascading liquidation scenarios.
+A backstop mitigates this.
+DM is open...
+https://t.co/8Vm8VB1sCt https://t.co/dg4lCIQVp6",15,5,6,2022-06-19
+552,2022-06-23 18:00:25+00:00,1540032038761365505,bprotocoleth,"🛡️ Integrating with B.Protocol to protect insolvency requires changing 3 lines in your code.
+
+⚠️ Recovering from bad debt is very tricky, and likely leads to more bugs.
+
+A clever person solves a problem; a wise person avoids it. https://t.co/fp2Yj5BoSP",10,2,5,2022-06-23
+553,2022-06-26 13:05:22+00:00,1541044950762143753,bprotocoleth,"📰The 2nd issue is out:
+
+🏦@solendprotocol struggles with whale liquidation
+🚨Celsius and 3AC freeze withdrawals
+📛CT rumours de-peg $MIM, @Risk_DAO launch a monitor for $MIM
+🛃@MakerDAO withdraws their $DAI from @AaveAave 
+🐳An interview with @Tetranode
+
+https://t.co/YJBFXQRPnN",15,5,6,2022-06-26
+554,2022-06-29 12:21:00+00:00,1542120952577892354,bprotocoleth,"DeFi lending platforms are transparent, but platforms on L2s and alt-chains (e.g, @iotex_io, @auroraisnear, @arbitrum, @FantomFDN) hide in plain sight that they can barely liquidate 10 $BTC
+
+If your L2/alt-chain lending platform does not have a backstop, then you are the backstop https://t.co/axqJAj9ztN https://t.co/YfscDnADRT",16,3,5,2022-06-29
+556,2022-07-11 15:06:00+00:00,1546511130469847046,bprotocoleth,"📰Issue #3 of The State of DeFi Lending is out:
+
+🤿 Deep dive interview with @getty_hill on @InterestDeFi 
+⚖️@AaveAave announces GHO
+🔄Celsius repays $247m DeFi loans
+🔥@MakerDAO gov wars accelerate
+🔮@BastionProtocol USDT liquidation report 
+and more...
+
+https://t.co/VseyQidq9h",15,5,6,2022-07-11
+557,2022-07-24 21:13:17+00:00,1551314600439726081,bprotocoleth,"📣The 4th issue of The State of DeFi Lending is a deep dive on Compound III - the new @compoundfinance version targeting its multi-chain strategy ⛓️⛓️
+
+Including an interview with @jmflatow, VP Engineering at Compound Labs 🤓📜
+
+https://t.co/azl6eP7iR3",26,17,11,2022-07-24
+558,2022-07-26 11:44:35+00:00,1551896256976412674,bprotocoleth,"@solanamusk @compoundfinance @jmflatow there will be multiple instances of Compound III. Each will have one borrowable asset.
+
+E.g., one market with USDC as borrawable asset, and one market with DAI.
+In this case, your collateral in the USDC market cannot be used to borrow DAI.",1,1,0,2022-07-26
+559,2022-08-07 20:35:51+00:00,1556378611300634632,bprotocoleth,"Issue #5 of The State of DeFi Lending is out🧐
+
+🎤Interviewing @euler_mab of @eulerfinance
+🕸️@Risk_DAO: will PoW ETH put L2 lending platforms at risk?
+🧊@AaveAave propose freezing @FantomFDN markets
+🤿@MoonwellDeFi unbacked after @nomadxyz_ hack
+
+more👇
+https://t.co/7KtSnZtztz",20,6,6,2022-08-07
+560,2022-08-11 13:00:00+00:00,1557713443964190720,bprotocoleth,"⌛️Starting in 2 hours - click now to set a reminder!
+
+Join @yaron_velner, founder of B.Protocol and a contributing member of @Risk_DAO (our recently launched service DAO, providing risk analysis stress tests for DeFi), as he discusses #risk at @aurigami_PLY with @CertiKCommunity. https://t.co/dfzUyR3Hx7",8,1,2,2022-08-11
+561,2022-08-21 16:25:26+00:00,1561389020210495490,bprotocoleth,"1/ Issue #6 of The State of DeFi Lending is out🧐
+
+🎤interview with @rick_liquity
+🔀 Lending platforms prepare for The Merge
+⛔️OFAC sanctions affect DeFi lending
+🦍NFTs lending under liquidations
+🌅 @LiquityProtocol's $LUSD time to shine
+
+And more updates👇https://t.co/0UxObY86wc",14,3,5,2022-08-21
+563,2022-09-11 22:07:09+00:00,1569085162167697408,bprotocoleth,"🧐The State of DeFi Lending - issue #7 is out
+
+🎤interview with @astr0bas3d from @GearboxProtocol
+🚀 Compound III is LIVE
+📋 @aurigami_PLY publicly releases @Risk_DAO dashboard
+💰@OlympusDAO promotes a full compensation plan for Rari victims
+
+more inside
+https://t.co/gCgnUvmiuF",27,1,4,2022-09-11
+564,2022-09-12 12:03:35+00:00,1569295657885630472,bprotocoleth,"📢In 20 min, if you are at @dappcon_berlin head over to the main stage to listen to @yaron_velner, founder of B.Protocol and lead contributor to @Risk_DAO, talking about risk management in DeFi and why lending platforms on L2s and alt chains should implement a backstop ASAP. https://t.co/z5Rn8ANowZ",5,0,4,2022-09-12
+565,2022-09-13 14:50:18+00:00,1569700000812122113,bprotocoleth,"📢A new gov proposal is up! 
+
+@SleazeEth a BPRO DAO member proposes to deposit the LUSD accumulated in the liquidation fee pool from @LiquityProtocol back into the B.AMM.
+
+⌛️Vote is open for another 5 days
+⚖️250k $BPRO is needed for quorum
+
+Time to vote👇
+https://t.co/L6S9ZkM3QZ",3,1,2,2022-09-13
+566,2022-09-21 09:37:02+00:00,1572520268362575873,bprotocoleth,"🗳️BIP #15 got executed after a successful swift Snapshot vote. $102k LUSD which got accumulated in B.Protocol's liquidations fee pool was deposited into @LiquityProtocol B.AMM.
+
+https://t.co/uOWsXKgsUT https://t.co/CpoytAmCIP",5,0,4,2022-09-21

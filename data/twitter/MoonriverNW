@@ -1,0 +1,667 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2021-06-03 12:24:52+00:00,1400428269992910848,MoonriverNW,"2/ The Moonriver crowdloan pre-registration process is a way for individuals who want to participate in the crowdloan to:
+
+✍️ Register their KSM address
+✅ Complete the Moonriver Crowdloan Terms &amp; Conditions in advance",5,1,2,2021-06-03
+3,2021-06-04 00:39:08+00:00,1400613052144394240,MoonriverNW,"@moonornothing Yes, you need 0.00014 KSM to sign the registration transaction fee.",0,0,0,2021-06-04
+4,2021-06-07 15:25:08+00:00,1401923185151459329,MoonriverNW,"What questions do you have about Moonriver, the crowdloan, and/or parachains auctions? Respond to this tweet with your questions in the next 24hrs!
+
+Moonbeam folks @KayTeeElle @Nate_Ham1 @fjagosti @Katherineqb will solve all your doubts starting tomorrow! 👀 We are all ears! 👂 https://t.co/xG8wI0L6Jt",80,20,52,2021-06-07
+8,2021-06-08 12:40:11+00:00,1402244063101865990,MoonriverNW,"✅ The update we were all waiting for is done! 
+The parachains auctions start in a week (June 15) 👀​
+
+#expectchaos #crowdloan #moonrivernetwork https://t.co/ADiRNEx7xY",60,1,20,2021-06-08
+13,2021-06-09 22:27:54+00:00,1402754355707711491,MoonriverNW,"Read the announcement here: 
+https://t.co/J6b5amhZol",47,0,35,2021-06-09
+20,2021-06-10 18:29:56+00:00,1403056854285094919,MoonriverNW,@mattunchi shared a new video for our Spanish-speaking community! 🎉​ Aprende cómo acceder al Moonriver #crowdloan desde la #dapp de la Fundación Moonbeam. https://t.co/3yrn3IFHia,58,1,28,2021-06-10
+22,2021-06-11 01:22:55+00:00,1403160786726436870,MoonriverNW,"For the first time ever, the @MoonbeamNetwork global community is able to come together to support the #MoonriverNetwork via the @kusamanetwork parachain slot auction!
+
+Want to participate? Learn more in the link below 👇​
+https://t.co/InchmCWrr6 https://t.co/Q3QdvIXcc7",202,7,68,2021-06-11
+24,2021-06-16 21:16:42+00:00,1405273151387230208,MoonriverNW,#MoonriverFacts ➡️​ Moonriver IS community-led! 🚀 https://t.co/N9vwXg6Poz,49,0,35,2021-06-16
+25,2021-06-17 14:25:36+00:00,1405532082093269004,MoonriverNW,"Let's build the multi-chain future TOGETHER! 🚀​
+Contribute to the Moonriver #crowdloan. Learn more:
+https://t.co/InchmDe2iE
+
+#communityled #expectchaos https://t.co/NInHa0uvVj",77,2,39,2021-06-17
+26,2021-06-29 09:47:31+00:00,1409810753893380098,MoonriverNW,"Moonriver is officially the winner of the second slot auction 💪
+
+Next up: deploying the parachain to Kusama https://t.co/4On0jCCagz",606,52,163,2021-06-29
+27,2021-06-30 15:02:10+00:00,1410252325105680390,MoonriverNW,"@mehran89660135 @AlanSapede @XiliangChen @KaruraNetwork @RmrkApp A block was too big to be processed and caused the network to stall. We had seen similar behavior on WestEnd (TestNet) last week and prepared a fix in advance, just in case it happened on Kusama too.",8,3,6,2021-06-30
+29,2021-07-09 18:22:56+00:00,1413564341496991747,MoonriverNW,"8/ We have many test environments (Moonsama, Moonbase Alpha, and Moonsilver) which each help us test these kinds of upgrades in various environments prior to deployment.
+
+Since this bug is specific to our use of democracy, our runtime upgrades using Sudo did not trigger it.",44,1,18,2021-07-09
+44,2021-07-23 17:08:44+00:00,1418619097659678730,MoonriverNW,"5/ Once phase two is completed, Phase 3 will begin! 🎉​ During this phase, the Moonbeam team will remove the Sudo (super user) key which gives the Moonbeam team full control. 
+
+After that, the last step is balance transfers 💸
+ 
+Learn more:
+https://t.co/UaqRhigRgG",64,1,37,2021-07-23
+49,2021-07-27 01:14:17+00:00,1419828454300823556,MoonriverNW,"Friendly Reminder for past Moonriver crowdloan participants:
+
+You have until Sun 8/1 to change your MOVR rewards address *if needed.*
+
+This is totally optional, and is meant for users who lost their keys or otherwise needed to change the place their rewards are sent.",121,4,49,2021-07-27
+51,2021-07-28 20:53:15+00:00,1420487540558254082,MoonriverNW,@IrohCrypto @kucoincom Yes,6,2,2,2021-07-28
+52,2021-08-05 15:46:19+00:00,1423309401562226693,MoonriverNW,"1/ Great news! ​ @MoonriverNW enters Phase Three of its launch to Kusama. In this phase, the network will remove 🔑 Sudo (the superuser key) &amp; hand over network control to token holders. 🌐 This is the final step before the full launch!
+ 
+Read more 👇​ https://t.co/nHOodWpKCV",308,6,126,2021-08-05
+54,2021-08-18 02:48:40+00:00,1427824739955920900,MoonriverNW,"If you contributed to the Moonriver crowdloan through the Moonbeam Foundation DApp, then you can add your email address to the #MoonbeamTakeFlight whitelist through the same #dApp!
+
+Learn how by watching this video 👇​
+https://t.co/oEpYj0Ya7z",174,8,62,2021-08-18
+56,2021-08-20 16:28:47+00:00,1428755903805890561,MoonriverNW,"If you are a Moonriver crowdloan direct contributor, you qualify for round 1! 
+
+Read more 👇​
+https://t.co/0pfiVUAvOn https://t.co/X6mTy03yqr",136,7,58,2021-08-20
+57,2021-08-24 03:27:21+00:00,1430008800757624836,MoonriverNW,"Moonriver is currently on its third launch phase to @kusamanetwork, which means that Sudo (superuser key) was removed to give network control to token holders. 🚀​
+https://t.co/UaqRhigRgG
+
+What project can you not wait to see in Moonriver? 🤔 https://t.co/ZQPWMAUWWe",198,8,86,2021-08-24
+58,2021-08-25 20:10:13+00:00,1430623568291844102,MoonriverNW,"The Moonriver runtime upgrade is currently in governance! ⚖ This will enable full functionality on the network.
+
+The vote is set to pass around 11:30am UTC and is planned to be enacted around 3:00pm UTC tomorrow, August 26. This upgrade will enable the EVM and balance transfers. https://t.co/biQJTYTQwG",339,14,122,2021-08-25
+62,2021-08-26 01:30:52+00:00,1430704264842817540,MoonriverNW,@Cryptor_io Collators and the Moonbeam Foundation. Balance transfers aren't enabled yet (that's what this motion enables). After that you'll be able to vote.,13,0,5,2021-08-26
+73,2021-08-30 19:10:21+00:00,1432420444469186563,MoonriverNW,"@SeascapeNetwork is now live on Moonriver! 🚀​🚀​
+
+The Moonbeam community can now stake $RIB-$MOVR tokens to earn rewards. Learn more 👇​
+https://t.co/An20lxDLsV https://t.co/9iev6pdxWX",119,3,39,2021-08-30
+75,2021-08-31 02:17:17+00:00,1432527883008884742,MoonriverNW,"A new runtime upgrade 501 is live on Moonriver 🌊
+
+This upgrade:
+- Increases max nominators per collator to 100 (was 10)
+- Fixed an unbonding issue that affected a few people
+
+Start staking $MOVR 👇
+https://t.co/SM936LUrqf",393,19,145,2021-08-31
+76,2021-09-01 13:46:14+00:00,1433063652450517000,MoonriverNW,Join @derekyoo @KayTeeElle @AlbertoViera19 from the Moonbeam team today. More information here 👇 https://t.co/Lv3824n5WJ,204,6,90,2021-09-01
+77,2021-09-02 14:13:24+00:00,1433432876956073999,MoonriverNW,"@CreamdotFinance will be fully deployed in Moonriver in the coming weeks. 🔥​🔥​​ $MOVR token holders will be able to access C.R.E.A.M. permissionless, transparent, and non-custodial decentralized lending protocol.
+
+Read more: 
+https://t.co/xwnisUizqX https://t.co/HSx4xx2dyg",135,7,52,2021-09-02
+78,2021-09-08 00:38:28+00:00,1435402119792795650,MoonriverNW,An excellent guide to staking $MOVR from the Figment team https://t.co/OP5Nf9TsCX,310,9,105,2021-09-08
+79,2021-09-09 01:55:32+00:00,1435783902749147136,MoonriverNW,"1/ Moonriver has seen incredible growth in its first two weeks!🚀
+
+🔐 More than 680k $MOVR (~$130M) staked
+📈 48.7% average daily growth in transaction volume
+🚀​ @seascapenetwork, Zoombies (@CryptozNFT) &amp; @wanchain_org deployed to Moonriver.
+
+https://t.co/yRC8WGh36p
+(continues) https://t.co/7XOmBPuxKP",870,48,320,2021-09-09
+81,2021-09-10 22:07:07+00:00,1436451195921514496,MoonriverNW,🔥​🔥​ 5000+ transactions in the pool! 🔥​🔥 https://t.co/EWBsr7MVEZ,740,28,183,2021-09-10
+82,2021-09-14 18:52:04+00:00,1437851660697624585,MoonriverNW,"“Working with @Purestakeco on Moonriver &amp; Moonbeam deployment creates a tremendous opportunity for us to bring more communities and developers onto @Polkadot by eliminating the hurdles permeating the #NFT &amp; #DeFi industry today.” 💎 —Thomas Cermak, @Yuser co-founder &amp; CEO. https://t.co/JNB4eHTf8b",305,5,108,2021-09-14
+84,2021-09-16 20:12:15+00:00,1438596613757407233,MoonriverNW,"Our Senior Ambassador @Lina_K_Moon will participate in an AMA with @CryptoPrestito tomorrow at 16:00 hrs UTC. 🚀​
+
+This AMA is ideal for new members of our community that want to learn more about @MoonbeamNetwork &amp; Moonriver. https://t.co/WCO0alsYPa",246,10,99,2021-09-16
+92,2021-09-21 15:27:36+00:00,1440336919431290896,MoonriverNW,"Exciting news!! 🔥​🔥​ @Biconomy is now live on Moonriver 🚀​
+
+Biconomy integration with Moonriver will enable devs to quickly utilize Biconomy APIs to enable gasless transactions. https://t.co/Qv7HXlw2Eo",593,18,218,2021-09-21
+95,2021-09-27 15:21:33+00:00,1442509723811647490,MoonriverNW,"The Polkamarkets team is getting closer to deploy to Moonriver!🔥​
+
+Important note: In order for users to use their POLK on the protocol, they will have to bridge their ERC-20 POLK tokens on #Ethereum over to Moonriver using @Meter_IO.
+
+Read the instructions in the post below 👇 https://t.co/tzPhUDxebl",579,28,191,2021-09-27
+96,2021-09-30 17:04:37+00:00,1443622823797399555,MoonriverNW,"@Polkamarkets joins the #MOVRment and is now live on Moonriver. 🔥​🔥
+
+$MOVR tokens holders can now access Polkamarkets' live prediction market in crypto, esports, sports, and more!
+
+Read more 👇​
+https://t.co/UgBSpK7SxQ https://t.co/Z2gWAXO5CD",246,5,88,2021-09-30
+97,2021-10-01 14:54:13+00:00,1443952396560916487,MoonriverNW,"Use this link to obtain $MOVR with zero fees 👇​
+https://t.co/DtMNNh0YwX https://t.co/euCln0S2ft",142,6,66,2021-10-01
+99,2021-10-05 15:28:59+00:00,1445410696364273673,MoonriverNW,"Exciting news for the Moonriver ecosystem! 🎉​
+@DIAdata_org is now live on Moonriver. 🔥​
+
+Devs in Moonriver can now access DIA’s trustable data and oracle infrastructure. 
+
+Learn more in the post below 👇 https://t.co/wtHRtCPlky",487,15,134,2021-10-05
+100,2021-10-06 13:06:15+00:00,1445737164667441166,MoonriverNW,Ocean Protocol is now live on Moonriver 🎉 https://t.co/IWYBwX3fdm,825,15,244,2021-10-06
+103,2021-10-08 16:54:06+00:00,1446519280049135616,MoonriverNW,Great way to build some remarkable (get it 😉) projects and join the Kusama ecosystem! https://t.co/tVKIQ19xkw,443,16,103,2021-10-08
+104,2021-10-12 15:29:42+00:00,1447947592747388933,MoonriverNW,"NextGems minting on the Moonriver Network begins at 12 pm EDT! 🚀​🚀​
+
+Starting soon! 👇 https://t.co/7J3Xc23vsw",288,14,54,2021-10-12
+105,2021-10-13 13:57:48+00:00,1448286853208199170,MoonriverNW,"5/ The @ConvergenceFin team will continue working on introducing multiple #DApp modules on #Moonlit to smoothen out the end-to-end user journey and maximize yielding opportunities on the Moonriver Network. 🚀​
+
+Read the announcement here 👇​
+https://t.co/3AmjNvheFJ https://t.co/XoyxKf06BZ",83,2,31,2021-10-13
+112,2021-10-14 00:42:12+00:00,1448449020913934339,MoonriverNW,"@ComposableFin is now live on Moonriver! 🔥​ This integration will allow 🔀 the transfer between Moonriver &amp; other solutions already integrated into Mosaic PoC Bridge. 🌉
+
+🖖 We want to welcome​ the Composable Finance team to the vibrant and growing Moonbeam community! https://t.co/nnn0NWMdpS",262,10,86,2021-10-14
+113,2021-10-18 14:08:44+00:00,1450101545958322176,MoonriverNW,"1/ The Moonriver ecosystem of integrations keeps growing! 🚀​ Welcome @CrustNetwork 🙌​
+
+Crust Network integration with Moonriver brings highly practical, powerful &amp; handy IPFS-based decentralized storage solutions to the Moonriver &amp; @kusamanetwork. https://t.co/sqvBY4rN3K",469,21,107,2021-10-18
+115,2021-10-19 17:13:27+00:00,1450510416581480451,MoonriverNW,"6/ Earlier this year, we published an announcement about the @Graphprotocol’s integration with Moonbeam. 
+
+Learn more by visiting 👇​
+https://t.co/qgnkInDImB",153,2,31,2021-10-19
+129,2021-10-20 21:20:13+00:00,1450934908860391431,MoonriverNW,Excited to welcome the @relay_chain team to the Moonriver ecosystem! 🎉 https://t.co/17Is0kcFLf,590,31,172,2021-10-20
+130,2021-10-22 03:39:01+00:00,1451392623206453249,MoonriverNW,It's great to see projects in the Moonriver ecosystem working together! 🚀 https://t.co/xXHXt6l4Za https://t.co/1mjZIDJzJ4,367,16,74,2021-10-22
+132,2021-10-25 23:06:47+00:00,1452773662399111173,MoonriverNW,"Exciting NEWS!⚡️🌊🍣⚡️@Sushiswap &amp; Moonbeam team up to boost the DeFi ecosystem in 
+@kusamanetwork.
+
+Expect to see this integration live on Moonriver by Nov-1. Learn more about Moonbeam's integration with Sushi here: https://t.co/dKnxY41zdR
+
+And by reading this Twitter thread👇 https://t.co/x1Q2jRPuGK",824,38,290,2021-10-25
+133,2021-10-26 19:12:49+00:00,1453077171694673924,MoonriverNW,"🔥​ The Moonriver ecosystem is on fire!🔥​ @Etherscan integrates with Moonbeam to create Moonscan.
+
+Now, users &amp; devs will have access to developer tools &amp; network statistics that provide granular insights into the EVM of Moonriver and Moonbeam.
+
+Visit 👉​ https://t.co/mSpj0VJRmS https://t.co/7BuRYkIj0F",836,34,247,2021-10-26
+134,2021-10-28 22:50:07+00:00,1453856634363686916,MoonriverNW,"🤩 The Moonriver Network has over 145,000 wallets! 
+
+We want to share with our community some activities where $MOVR token holders can participate to take full advantage of $MOVR functionality. 🔥​
+
+Learn more here 👇​
+https://t.co/a18wigcQic",602,17,167,2021-10-28
+135,2021-10-29 21:14:04+00:00,1454194848106438657,MoonriverNW,"🔥​ More exciting news for the Moonbeam ecosystem: @blocsport1 will launch sport-focused NFTs on Moonriver!
+
+$MOVR token holders will be able to use their tokens to invest in sports Genesis tokens &amp; connect this investment to various DeFi services!
+
+Learn more 👇 https://t.co/KA3cFqYu1o",563,21,131,2021-10-29
+136,2021-11-02 23:41:29+00:00,1455681501383757831,MoonriverNW,"@Cryptopathic @HatakeKusama @kusamanetwork Challenge Accepted 😎
+
+Send us a DM and we'll get you connected with the right resources.",26,2,2,2021-11-02
+137,2021-11-03 13:55:01+00:00,1455896299065184265,MoonriverNW,"🚀​ @ZenlinkPro cross-chain DEX protocol is now live on Moonriver! 🚀​
+
+Through this integration, $MOVR token holders will be able to access Zenlink's #DEX services. Soon, the cross-chain DEX aggregation of Zenlink will be deployed to @MoonbeamNetwork (once the network is live). https://t.co/GAE3GDqWXr",399,10,123,2021-11-03
+139,2021-11-04 20:32:21+00:00,1456358679897419778,MoonriverNW,"✨​ The @SubQueryNetwork team will be our guest on the next episode of Moonbuilders Workshop on Wednesday, December 1st 🤩
+
+Save your spot here 👇​
+https://t.co/GgLE7ash2N",57,3,5,2021-11-04
+140,2021-11-05 12:53:22+00:00,1456605561395503114,MoonriverNW,"⚡️​ LET'S GO MOONBEAM! ⚡️ 
+
+The Moonbeam community got together to launch Moonriver to @kusamanetwork. 
+
+Now, we all get together again to launch the @MoonbeamNetwork to @Polkadot 
+
+Contribute NOW 👇​
+https://t.co/6iQJSTx9ty https://t.co/Wf9jBlDTH8",533,27,162,2021-11-05
+144,2021-11-08 02:07:12+00:00,1457530109427167233,MoonriverNW,"🔥​ More exciting news for the $MOVR community! 🔥​
+$MOVR will be listed in @Binance! https://t.co/yu1h6c013q",2365,119,498,2021-11-08
+145,2021-11-09 16:41:48+00:00,1458112597308448779,MoonriverNW,"More integrations in Moonriver! 🔥​ Welcome to the #MOVRment @DeBankDeFi team. 🙌​
+
+The Moonriver chain is now integrated with https://t.co/dS4jFwzk2S! https://t.co/NSXMOnBQu6",503,16,148,2021-11-09
+148,2021-11-10 03:41:02+00:00,1458278499182120960,MoonriverNW,"⚡️​FIVE MILLION TRANSACTIONS⚡️​
+
+🔥​Moonriver continues to be the most widely adopted parachain on @KusamaNetwork with 60+ live integrations, 173k+ wallets, 2k+ ERC-20 tokens.
+
+🚀​ Moonriver is an early indicator of what kind of activity @MoonbeamNetwork will bring to @Polkadot! https://t.co/a2NOlGau6N",1569,121,463,2021-11-10
+150,2021-11-11 02:02:48+00:00,1458616166717526020,MoonriverNW,"😍
+
+Moonriver is Beefin' up our #DeFi offerings 🐮
+https://t.co/gKSj1i8GjZ https://t.co/L11JII48pi",499,22,136,2021-11-11
+156,2021-11-12 17:22:50+00:00,1459210088602906631,MoonriverNW,"2/ 🎉​ Moonriver is the FIRST EVM to host RMRK-based NFTs! This integration will bring @RmrkApp advanced #NFT functionality to the broader MOVR ecosystem.✨​
+
+Read all the details of this exciting integration here 👇
+https://t.co/2Xi8vAiEnl https://t.co/sWoLTmnXGg",202,8,43,2021-11-12
+161,2021-11-13 18:40:16+00:00,1459591963146174469,MoonriverNW,"🚀​ The Moonbeam community is fantastic! 🔥​ This time, we will make history on @Polkadot as we are now doing on @KusamaNetwork! ⚡️ https://t.co/2Hy2yWhIGA",514,14,136,2021-11-13
+162,2021-11-14 11:01:57+00:00,1459839010747170817,MoonriverNW,"""Moonriver, an Ethereum-compatible parachain running on @KusamaNetwork, hit a milestone this week by surpassing eight million transactions on its network, becoming the leading parachain in Kusama.""
+
+https://t.co/sDmczKj619",905,46,234,2021-11-14
+163,2021-11-15 01:03:59+00:00,1460050914870546437,MoonriverNW,I like to $MOVR it $MOVR it 🎵 https://t.co/uKcwLmZ9n1,457,24,80,2021-11-15
+165,2021-11-16 22:26:41+00:00,1460736107138719745,MoonriverNW,🎙️ Tune in tomorrow &amp; learn more about @BeefyFinance's integration with Moonriver! 🐄 https://t.co/3C4N0JN2cz,241,12,37,2021-11-16
+166,2021-11-17 22:43:03+00:00,1461102611965353988,MoonriverNW,"@AlphaAlarm_HQ @kusamanetwork @MoonbeamNetwork @Polkadot Wow, this analysis is awesome! Huge thanks to the Alpha Alarm team for sharing this with the Covalent &amp; MOVR communities 🙌 https://t.co/4zWPlp5IkN",43,1,2,2021-11-17
+172,2021-11-19 19:31:55+00:00,1461779288869543943,MoonriverNW,"🔥​ One step closer to bringing @LidoFinance liquid $KSM to @MoonriverNW! 🔥​
+
+The integration is currently being tested in Moonbase Alpha (our TestNet). 🚀​Once deployed to Moonriver, Lido will allow holders to stake their assets while accessing the liquidity of what was staked. https://t.co/uZF3oA2V9H",632,67,113,2021-11-19
+174,2021-11-22 23:41:47+00:00,1462929331877994496,MoonriverNW,"In this blog, our team explains some ways you can take advantage of the $MOVR token functionality by 🔄 token transfers, 👥 nominating collators, 🪙 receiving staking rewards, &amp; 🗳️ voting on referenda!
+
+Learn more 👇​
+https://t.co/a18wigcQic",508,14,123,2021-11-22
+175,2021-11-23 22:07:20+00:00,1463267950920712196,MoonriverNW,"1/ Exciting news! 🎉 A native Moonriver app is now live on @Ledger Live. You can now use your Ledger device to sign transactions on Moonriver without needing to complete extra configuration steps.
+ 
+Get started here👇
+https://t.co/TyiYGf9zsD",987,52,210,2021-11-23
+177,2021-11-24 23:54:38+00:00,1463657344194256898,MoonriverNW,🎉​ More exciting news: @BreederDodo is now live on Moonriver! https://t.co/JwaxsZset7,529,13,116,2021-11-24
+179,2021-11-25 16:27:55+00:00,1463907311811018752,MoonriverNW,"The Moonbeam &amp; Moonriver communities joined forces one more time to achieve this fantastic milestone 🎉​ 
+
+🔥​ Moonbeam has set a new precedent for crowdloans, receiving the largest total contribution (35M DOT) from the most contributors by far (over 200k!)🔥 https://t.co/x5QQvMzuD6",666,15,149,2021-11-25
+180,2021-11-30 14:24:32+00:00,1465688197191520258,MoonriverNW,"🔥​ @ImpermaxFinance is live on Moonriver, bringing leveraged yield farming for Solarbeam pairs!
+
+Moonriver yield farmers can now use their Solarbeam LPs as collateral on Impermax to leverage their LP positions. Read more 👇 https://t.co/1C3jgMRFhY",422,16,106,2021-11-30
+181,2021-12-01 14:41:02+00:00,1466054740492656640,MoonriverNW,"1/ 🎉 @Chainlink price feeds are live on Moonriver! 🙌
+
+Devs can now use Chainlink’s oracle functionality 🔮 on Moonriver to build DeFi smart contracts using external data resources &amp; off-chain computations without leaving the @kusamanetwork ecosystem.
+
+https://t.co/AV6Zn9cGcb",1401,43,270,2021-12-01
+185,2021-12-04 12:08:45+00:00,1467103577546055680,MoonriverNW,The Moonriver ecosystem continues to grow! 🚀 https://t.co/waJ94ENGWi,659,25,117,2021-12-04
+186,2021-12-08 16:00:20+00:00,1468611411391754254,MoonriverNW,"🙌​ Congratulations to the @ComposableFin team for the reveal of ‘Mural,’ a revolutionary bridge for the NFT ecosystem that will allow #NFT transfers across Moonriver, Ethereum, Polygon &amp; Arbitrum! ✨ https://t.co/ULk4JHneAC",387,6,85,2021-12-08
+188,2021-12-09 20:22:16+00:00,1469039715122827274,MoonriverNW,"⚡ TEN MILLION TRANSACTIONS ⚡
+
+Moonriver continues to be the most active parachain on @KusamaNetwork with 70+ live integrations, 355k+ wallets, 2k+ ERC-20 tokens.
+
+Moonriver is an early indicator of what kind of activity @MoonbeamNetwork will bring to @Polkadot! https://t.co/LNb8dYJNg1",1172,78,269,2021-12-09
+194,2021-12-13 22:42:49+00:00,1470524636580483084,MoonriverNW,"New guide! ✨​ In this video, we'll take an in-depth look at the latest staking changes that have been released as part of runtime 1001.
+
+Check it out here 👇​
+https://t.co/GiTZuUqoyz",371,12,74,2021-12-13
+195,2021-12-14 14:41:33+00:00,1470765911397314578,MoonriverNW,"@wepiggydotcom is now live on Moonriver! 🔥​ This integration boosts the Moonriver DeFi ecosystem by bringing an open-source, non-custodial, crypto-asset lending market protocol to $MOVR users. ✨ https://t.co/ebs6ySf3Lz",319,11,90,2021-12-14
+196,2021-12-16 18:28:15+00:00,1471547738772971524,MoonriverNW,"Don't miss the 2021 Year Review! 🔥​ Our team will go through this year's exciting highlights, achievements, and what to expect in 2022.
+
+More information in the tweet below 👇 https://t.co/M2s0lqWo89",271,5,19,2021-12-16
+197,2021-12-17 21:30:00+00:00,1471955863774449664,MoonriverNW,"⚡️​ UniLend is now live on Moonriver! ⚡️ This integration will allow UniLend to be the first protocol to provide flash loans on the Kusama ecosystem. 
+
+Read more 👇 https://t.co/aQKFBxz79Q",337,10,53,2021-12-17
+199,2021-12-20 16:12:16+00:00,1472963067407388680,MoonriverNW,"@StubeStrong Did you contact the support team? Discord is the best place for tech support (try the #general channel)
+https://t.co/608ImtP1LW",6,1,0,2021-12-20
+200,2021-12-21 17:25:53+00:00,1473343984533749771,MoonriverNW,Don't miss the chance to connect with the QiDao team! Join our next Moonbeam Universe session tomorrow 🔥 https://t.co/Oq1XY28iiR,159,10,13,2021-12-21
+201,2021-12-25 14:18:16+00:00,1474746319998787590,MoonriverNW,🎄 Merry Christmas MOVRines! 🎅 https://t.co/N1hejHwjaP,469,17,43,2021-12-25
+202,2021-12-28 14:00:01+00:00,1475828890215927809,MoonriverNW,"In this tutorial, learn how to stake MOVR &amp; earn staking rewards 👇​
+https://t.co/fl4ecQToRc",279,18,43,2021-12-28
+203,2021-12-30 20:35:09+00:00,1476653102639947778,MoonriverNW,"🎉 Congratulations to the @HuckleberryDEX team for launching Thatcher’s Reservoir on Moonriver! 🔥​ 
+
+Thatcher’s Reservoir is a DEX &amp; lending protocol that is now available for MOVR users!✨
+
+Learn more in the tweet below 👇 https://t.co/SWF0zZpibv",313,11,63,2021-12-30
+205,2022-01-04 15:09:50+00:00,1478383173423800323,MoonriverNW,🌊​ The Moonriver ecosystem continues to grow! 🚀 https://t.co/LrFblQ0Cln,664,23,95,2022-01-04
+206,2022-01-05 22:13:33+00:00,1478852195412025352,MoonriverNW,"6/ Link to the full report:
+https://t.co/PUJ2sW2ZpE",111,1,9,2022-01-05
+213,2022-01-11 16:32:36+00:00,1480940716436164611,MoonriverNW,"@MoonbeamNetwork successfully completed its launch to Polkadot!! 🚀​ Now, 80+ integrations can deploy to Moonbeam and access the @Polkadot ecosystem &amp; community 🔥​
+
+⚡️​Moonbeam will bring high activity and many new users to Polkadot as Moonriver in @KusamaNetwork ⚡️ https://t.co/8YmSqAGL49",346,6,46,2022-01-11
+214,2022-01-12 16:07:00+00:00,1481296666028302340,MoonriverNW,"🎉​ A Moonriver referendum to open an HRMP channel between Statemine &amp; Moonriver has passed! 🚀​
+
+More details 👇​
+https://t.co/iW0YoYp43I https://t.co/loOn4C0O55",367,5,48,2022-01-12
+217,2022-01-13 01:02:43+00:00,1481431482942033922,MoonriverNW,"Referendum 45 is now up to vote until tomorrow, January 13. If passed, xcKSM will be registered as a Moonriver asset.
+
+🗳️ See more 👇​
+https://t.co/QnMX2wZiJU https://t.co/V4Ypaig9Qh",237,5,30,2022-01-13
+218,2022-01-14 18:23:01+00:00,1482055668362358784,MoonriverNW,"5/ The XC-20 introduction to Kusama allows Web3 developers to cross-chain interactions between parachains. 
+
+Read more 👇​
+https://t.co/cx5ewSWAaJ https://t.co/UQFnybaeJp",148,2,18,2022-01-14
+225,2022-01-17 21:55:44+00:00,1483196365345898497,MoonriverNW,"1/ Over 4,000 xcKSM have been deposited on Moonriver! 🎉​
+
+This is a momentous milestone for the #MOVRines community and the #Dotsama ecosystem. This marks the first of many planned cross-chain features that leverage XCM.
+
+https://t.co/pOxGJv37HA",403,9,71,2022-01-17
+229,2022-01-18 14:55:59+00:00,1483453119270948874,MoonriverNW,"1/ Exciting news! ⚡️​@MoonwellDeFi is coming to @MoonbeamNetwork &amp; Moonriver! 
+
+Moonwell is an open lending, borrowing &amp; DeFi protocol designed to support a full range of DeFi dApps in the Dotsama ecosystem.
+
+Learn more in the tweet below 👇 https://t.co/PVtf8KvfUN",475,15,67,2022-01-18
+231,2022-01-20 14:31:01+00:00,1484171611645349888,MoonriverNW,"4/ $RMRK is RMRK protocol utility token. RMRK is a set of extensible building blocks for NFTs on Kusama. The RMRK team has recently begun migrating these tokens to other parachains in the ecosystem through HRMP channels.
+
+https://t.co/SQjcVfmt3d https://t.co/Q6cV3IoM1S",108,3,8,2022-01-20
+235,2022-01-21 19:08:36+00:00,1484603857736974343,MoonriverNW,Great watching teams leverage Substrate for more efficiency and decentralization 👍 Congrats @NetworkSubspace! https://t.co/gDLwIKMjmM,213,3,26,2022-01-21
+238,2022-01-22 01:07:01+00:00,1484694054684221450,MoonriverNW,"⛽️Check MOVR gas meters using the @cointool, an online digital currency toolbox.
+
+Moonriver requires MOVR Token to function. It supports on-chain governance and powers the mechanics around a decentralized node infrastructure.
+
+Open the toolbox 👇
+https://t.co/sFXTNL3fFl",225,9,28,2022-01-22
+241,2022-01-24 20:06:25+00:00,1485705570405466117,MoonriverNW,"🔥 @ZenlinkPro supports $RMRK migrations to Moonriver with X-Transfers! 
+
+Zenlink’s X-Transfers integrate cross-chain and token transfer functions between different Substrate native and EVM compatible parachains.
+
+See the tweet 👇 https://t.co/lNlBXrSkhd",253,5,33,2022-01-24
+242,2022-01-28 21:37:36+00:00,1487178069186170887,MoonriverNW,1/ 🚀 Amazing to watch the future of cross-chain interoperability unfold on Moonriver and the #Dotsama ecosystem. https://t.co/lPS2obMyku,276,6,29,2022-01-28
+244,2022-01-31 20:27:23+00:00,1488247558971572234,MoonriverNW,"📡 Moonriver is now on @dappradar, list your project &amp; learn more! https://t.co/MOA1ETJjov",209,2,13,2022-01-31
+245,2022-02-02 19:57:38+00:00,1488964848876756992,MoonriverNW,"📲 In this blog post our team explains how to stake your $MOVR tokens on Moonriver and earn staking rewards!! 
+Read more 👇https://t.co/wMwOJm0TVA",344,14,50,2022-02-02
+246,2022-02-03 16:37:44+00:00,1489276930738343937,MoonriverNW,"Kevin is live on crowdcast now! Learn everything you need to know about staking in @MoonbeamNetwork &amp; Moonriver.
+
+Tune in here 👇​
+https://t.co/QSVdw6f147 https://t.co/xCYO8lZ2rg",99,0,8,2022-02-03
+249,2022-02-05 20:34:11+00:00,1490061211156852740,MoonriverNW,"🚨 Important information 🚨 @Meter_IO has reported a hack in their bridge protocol.  Please do not trade unbacked Meter BNB on Moonriver. 
+
+More information 👇 https://t.co/Dp6B6sqq6t",215,7,51,2022-02-05
+250,2022-02-06 03:41:38+00:00,1490168784019202049,MoonriverNW,"Update about today's Meter hack ⚠️​ The Meter team is working on getting back up and running.  
+
+Find more information in the tweet below 👇​
+https://t.co/uOymad3vzT https://t.co/IaLOjCLRQJ",142,3,17,2022-02-06
+252,2022-02-07 17:30:28+00:00,1490739755025326083,MoonriverNW,"5/ That’s it for this month. Learn more about what’s new with @MoonbeamNetwork and Moonriver, new integrations in our ecosystem, and past &amp; upcoming events and presentations in our monthly newsletter! 
+https://t.co/RugGptK0Mz",41,0,5,2022-02-07
+257,2022-02-08 20:52:35+00:00,1491153007266131969,MoonriverNW,"1/ ☀️ The @solarbeamio team adopts Stable AMM enhancing the trading experience on Moonriver &amp; @MoonbeamNetwork. With this feature, users can execute efficient correlated asset trades with lower slippage on Solarbeam and Solarflare!
+
+Learn more 👇
+https://t.co/zXQZGfAy31",266,7,30,2022-02-08
+259,2022-02-09 21:00:14+00:00,1491517320065339399,MoonriverNW,"1/ @FerrumNetwork integrates with Moonriver and brings a suite of products, including its cross-chain token bridge and staking as a service solutions to the $MOVR community! 
+
+Learn more 👇
+https://t.co/bZjt964piE",245,6,33,2022-02-09
+261,2022-02-10 15:33:57+00:00,1491797595185770501,MoonriverNW,"1/ 🔎 @dapplooker, a community-driven analytics and visualization platform, has deployed to Moonriver! Dapplooker provides data capabilities for on-chain analytics that support dapp development within the $MOVR ecosystem. 
+
+Learn more 👇
+https://t.co/YFSTvy5jw9",145,5,17,2022-02-10
+263,2022-02-12 01:36:13+00:00,1492311550044286976,MoonriverNW,"6/ @Solarbeamio announced their plans to adopt Stable AMM. This will allow users to execute efficient correlated asset trades with lower slippage!
+https://t.co/zXQZGfAy31",40,1,2,2022-02-12
+272,2022-02-16 19:13:13+00:00,1494027102726860805,MoonriverNW,"Cross-chain assets (XC-20s) conform to ERC-20 standards &amp; integrate with existing Ethereum development frameworks &amp; dApps. This means you can use tokens from elsewhere in the #Kusama ecosystem in #Moonriver-based apps!🔁
+
+Learn how to interact w/ XC-20s 👇
+https://t.co/bmzuGXgCBu",416,47,86,2022-02-16
+273,2022-02-18 16:34:51+00:00,1494712022633697285,MoonriverNW,"1/ 🔥 HUGE news! 🔥 @LidoFinance brings liquid staking to Moonriver (and soon, to @MoonbeamNetwork)!
+
+$KSM holders will be able to access their staked assets without waiting for the unlock period, improving capital efficiency for our #MOVRines community!!
+https://t.co/gkP0cwb8zp",540,10,117,2022-02-18
+275,2022-02-22 21:59:54+00:00,1496243376160710666,MoonriverNW,"⏯ Listen in on Francisco, from the #Moonbeam team, speak with @crypt_odio from @FerrumNetwork on their recent integration to the Moonriver ecosystem! https://t.co/sVs3oG9p7X",117,0,13,2022-02-22
+276,2022-02-24 17:10:18+00:00,1496895273406287877,MoonriverNW,"@Chaotic_Finance, a delta-one asset protocol, is now live! 🔥 The Linear Finance team seamlessly integrated their services and community-driven platform to join the growing #DeFi ecosystem on #Moonriver!
+
+Visit Chaotic Finance 👇
+https://t.co/yGZaiQUpSc",123,12,34,2022-02-24
+281,2022-02-28 21:59:47+00:00,1498417672735834113,MoonriverNW,"Great to see record amounts of cross-chain activity on #Moonriver! 🔥
+
+Over 16,000 $KSM has moved over from @kusamanetwork to Moonriver as xcKSM. This is a glimpse into XC interoperability for multi-chain dApps yet to come. 🙌 https://t.co/pD5hMZ2K1D",286,17,49,2022-02-28
+282,2022-03-01 20:48:02+00:00,1498762005964070915,MoonriverNW,"@Gmaf617 Hi @Gmaf617, sorry to hear this. Not that I know of. Let me check with the dev team. Standby.",0,1,0,2022-03-01
+285,2022-03-02 03:05:13+00:00,1498856926142210055,MoonriverNW,"@Gmaf617 Still working on this. If you haven't already, please check out our documentation on how to connect to Moonbeam: https://t.co/uz8qgs1uoy",1,0,0,2022-03-02
+286,2022-03-03 17:13:07+00:00,1499432697449660417,MoonriverNW,🚨 Happening Now! Join our Multi-Chain Session with @Zircon_Finance on @MoonbeamNetwork. https://t.co/eralb36evT,123,0,14,2022-03-03
+299,2022-03-05 18:27:04+00:00,1500176083810979846,MoonriverNW,"⚡️ FIFTEEN MILLION TRANSACTIONS! ⚡️
+Moonriver hits 15M tx on the network and continues to reach new heights with 80+ live integrations, 554k+ wallets, and 2k+ ERC-20 tokens!
+
+See the network:
+https://t.co/yRC8WGh36p https://t.co/ddM3YSp1Oq",599,37,126,2022-03-05
+300,2022-03-09 22:01:38+00:00,1501679630557847558,MoonriverNW,"4/ With a self-funded slot acquisition, the Moonbeam Foundation is able to direct existing MOVR reserves to be used for initiatives that help increase activity and adoption on Moonriver, including grants and developer support!",223,8,15,2022-03-09
+309,2022-03-11 20:58:06+00:00,1502388417904140299,MoonriverNW,Moonbeam rocks! 👏 https://t.co/Ny47eD8mau,233,23,33,2022-03-11
+310,2022-03-16 02:15:15+00:00,1503917781862998022,MoonriverNW,"3/ Once deposited to Moonriver, xcKAR (an XC-20 representation of the KAR token) can be used across Moonriver’s active #DeFi ecosystem! XC-20s are a new type of interoperable token that conforms to the ERC-20 standard but are also Substrate-native assets! 
+https://t.co/cx5ewSWAaJ",90,2,5,2022-03-16
+314,2022-03-17 20:24:52+00:00,1504554381122879490,MoonriverNW,"1/ 🦑 @subsquid is bringing its data-processing and API development framework to @MoonbeamNetwork and Moonriver, accelerating development for #Web3 builders!
+https://t.co/ckIN6NQojw",255,11,41,2022-03-17
+316,2022-03-18 15:45:41+00:00,1504846509229096982,MoonriverNW,"1/ ⚡️ Polkassembly is LIVE on Moonriver (coming soon to @MoonbeamNetwork)! ⚡️ @polk_gov’s integration allows $MOVR token holders to directly participate in on-chain governance and discussion using their MetaMask wallet!
+https://t.co/G9qlIDc2AJ",276,7,39,2022-03-18
+321,2022-03-19 16:24:03+00:00,1505218554177667081,MoonriverNW,"@MyBurgerBrain @exiledracers Exiled Racers is a 3D NFT project with play-to-earn functionality. The EXR team is currently deploying to Moonbeam. Read more on this: 👇
+https://t.co/XrzKHlNJya",3,0,1,2022-03-19
+322,2022-03-22 12:08:08+00:00,1506241312907005963,MoonriverNW,@RmrkApp https://t.co/b89obSouJO,57,1,1,2022-03-22
+326,2022-03-24 04:30:00+00:00,1506850796725493761,MoonriverNW,"🚨 Starting in 30 minutes! Join us for the Moonriver Grant Hackathon opening ceremony! 👇
+https://t.co/G4TltjZvH6",124,3,11,2022-03-24
+329,2022-03-25 20:20:15+00:00,1507452323282698242,MoonriverNW,"1/ 🔥 @MoonwellDeFi has added support for cross-chain functionality, enabling $xcKSM to be used with Moonwell Apollo on Moonriver! 
+
+Read the announcement:
+https://t.co/HHmC7TQgUQ",349,24,65,2022-03-25
+336,2022-03-26 20:17:05+00:00,1507813912254763016,MoonriverNW,"🚨 Don’t miss the @exiledracers WL competition- happening now! 
+
+Exiled Racers, an NFT project with play-to-earn capabilities deploying to Moonbeam, is looking for your take on the most recent game developments. 👀
+
+Learn more 👇 https://t.co/uZqwVT8Nam",173,5,20,2022-03-26
+337,2022-03-28 15:23:04+00:00,1508464699427500040,MoonriverNW,@Pie_n_cakes @lebron_gains @huobi_incubator @MoonbeamNetwork @DoraHacks Yes we are! Check out our entire NFT ecosystem for more details: https://t.co/EbueGlIqe2,2,0,0,2022-03-28
+340,2022-03-29 14:30:53+00:00,1508813954855972867,MoonriverNW,"1/ 🛠 Join us for another Moonriver Grant Hackathon Workshop and learn how to use @Covalent_HQ to build NFTs, marketplaces, &amp; more! Leilani, Covalent's Product Marketing Manager, will be leading the presentation.
+
+🗓 Wed. March 30 ⏰ 2:00PM UTC
+
+Join here: https://t.co/E6iyEbNXgV https://t.co/VvbQtBW1NO",177,6,24,2022-03-29
+345,2022-03-30 20:00:24+00:00,1509259268184289290,MoonriverNW,"2/ We are excited to welcome Scott Twiname, Sr. Blockchain Developer, and James Bayly, Head of Business Development, at SubQuery to lead the demonstration! This workshop is dedicated to the XCM Grand Prize.🙌
+
+Learn more: https://t.co/9CIgwzEHzd",70,0,2,2022-03-30
+348,2022-03-31 17:26:01+00:00,1509582800927797257,MoonriverNW,"👀 @Chaotic_Finance, the delta-one protocol that brought $CHAOS to Moonriver, is working on something big. 😈 Keep an eye out for upcoming collaborations on @MoonriverNW! https://t.co/ec85JBbIDk",180,2,21,2022-03-31
+350,2022-04-01 21:01:12+00:00,1509999343348158470,MoonriverNW,"1/ Very cool 👉 @movr_place opens its experimental &amp; collaborative art canvas for charity to the #MOVRines community! 
+
+MovrPlace is based on Reddit's 'r place' &amp; allows anyone to draw pixels on its canvas! 100% of proceeds will be donated to charity.
+
+Learn more⬇️ https://t.co/MUdTkHqSqV",185,1,23,2022-04-01
+352,2022-04-03 16:50:07+00:00,1510660930991845378,MoonriverNW,"1/ 💫 Amazing to see some of the work being done for the Moonriver Grant Hackathon, which offers a list of bounty challenges with $150,000 in prizes!
+🔗 https://t.co/9CIgwzWiqL
+
+We hosted a number of workshops for resources as you build. Watch them all 👇 https://t.co/rQc9CWtpDk",241,15,46,2022-04-03
+357,2022-04-04 18:00:28+00:00,1511041021991391238,MoonriverNW,"5/ @MoonriverNW and @MoonbeamNetwork support a flourishing NFT ecosystem. Projects including NFT-geared DEXs, marketplaces, storage, gaming, bridges, and more are available for use with $MOVR and $GLMR as native tokens! 
+
+Moonriver NFT &amp; Game Ecosystem: https://t.co/EbueGlIqe2",59,0,4,2022-04-04
+362,2022-04-05 15:50:18+00:00,1511370652095336459,MoonriverNW,"1/ We've been busy! Over the past month, we announced new #XCM integrations, introduced governance updates with Polkassembly, kicked off the Moonriver Grant Hackathon, and more!
+
+Read the thread for a complete March recap! 👇
+https://t.co/qISnTFo9Mh",319,34,60,2022-04-05
+371,2022-04-07 15:00:03+00:00,1512082782528409600,MoonriverNW,Countdown initiated. Time Remaining: 5 Days https://t.co/Kip9hTy3PE,536,46,87,2022-04-07
+372,2022-04-08 15:00:01+00:00,1512445164198850564,MoonriverNW,"Countdown in progress. Time Remaining: 4 Days
+#TheMoonriverNFT https://t.co/tZfeIS5Pw6",497,34,62,2022-04-08
+373,2022-04-09 15:00:01+00:00,1512807549732626442,MoonriverNW,"Countdown in progress. Time Remaining: 3 Days
+#TheMoonriverNFT https://t.co/BnPkMHw616",499,35,75,2022-04-09
+374,2022-04-10 15:00:01+00:00,1513169940068503561,MoonriverNW,"Time Remaining: 2 Days. Are you ready?
+#TheMoonriverNFT https://t.co/eg0L4U2KjM",484,31,70,2022-04-10
+375,2022-04-11 15:52:43+00:00,1513545589287493633,MoonriverNW,"2/ Before you begin ✋ we ask that everyone observe the rules of the competition below. 👀 Watch for the first clue tomorrow at 3:00pm UTC and prepare yourself for the quest to come!
+#TheMoonriverNFT https://t.co/U8ci9EEYmw",259,31,49,2022-04-11
+376,2022-04-12 20:06:20+00:00,1513971800551706629,MoonriverNW,"@moonman81 @DonnieBigBags If you watch to the end, the first artifact is shown to you. 👀",1,0,0,2022-04-12
+391,2022-04-13 19:00:33+00:00,1514317633339940864,MoonriverNW,"1/ 🚀 Moonriver now supports @bifrost_finance, on Kusama, via #XCM Integration!
+
+Bifrost’s $BNC token is now available for use on Moonriver as xcBNC, and $MOVR on Bifrost.
+
+Learn more 👇
+https://t.co/HywYbMg9t3",272,5,44,2022-04-13
+400,2022-04-14 22:33:01+00:00,1514733493112262671,MoonriverNW,@El_polloloko Not available right now.... but 🤞,1,0,0,2022-04-14
+412,2022-04-15 00:09:56+00:00,1514757883396775939,MoonriverNW,"@Pratzel7 Hi there, we can see and have read your message. Thanks for participating! Winners will be notified after the conclusion of the quest. 😁",3,1,0,2022-04-15
+415,2022-04-16 15:52:00+00:00,1515357346662395908,MoonriverNW,"@scotty_d6 Thanks for participating! 🤗 We are carefully checking each DM. Even if it reads ""unread"", we are able to see your entire message. We are currently looking into all issues people had in submitting their artifacts! Stay tuned for more info. 👍",4,1,0,2022-04-16
+445,2022-04-18 20:18:40+00:00,1516149232260026375,MoonriverNW,"2/ $aUSD was recently merged with $kUSD, so $aUSD will be used on both the Acala and Karura networks. With a full #XCM integration, you can use $aUSD within the Moonriver #DeFi ecosystem! 👏",163,1,9,2022-04-18
+448,2022-04-19 20:35:21+00:00,1516515818372280337,MoonriverNW,3/ 📲 Please watch your DMs. We will be reaching out via direct message on Twitter to everyone receiving an NFT by the end of the week!,53,4,5,2022-04-19
+455,2022-04-20 02:04:18+00:00,1516598600381382658,MoonriverNW,"@blockchainb4b3 Yes, DM confirmations already sent are still valid. 🤗",3,0,0,2022-04-20
+459,2022-04-21 15:30:00+00:00,1517163751132352514,MoonriverNW,🚨 Starting in 30 minutes! 🚨 https://t.co/S5pgdvw1Sb,151,1,23,2022-04-21
+460,2022-04-22 13:30:52+00:00,1517496157525745664,MoonriverNW,$BNC ⛓🔁⛓ $xcBNC https://t.co/wG2gzOHNt3,98,0,11,2022-04-22
+483,2022-04-24 04:57:15+00:00,1518091679844208640,MoonriverNW,@edouardhayat @MoonwellDeFi @beefyfinance @LidoFinance @Solarbeamio Try checking the start time. The session begins at approximately the 5:00 mark.,1,0,0,2022-04-24
+484,2022-04-25 14:00:48+00:00,1518590853652094981,MoonriverNW,"🚀 $USDT is now available on @MoonriverNW as xcUSDT, via #XCM integration with Statemine on Kusama! 
+
+Support for #Tether on Moonriver comes after USDT’s recent integration with the Kusama ecosystem!
+https://t.co/mqv9xyquSS https://t.co/7GLHeAVY5D",373,15,97,2022-04-25
+488,2022-04-26 16:00:47+00:00,1518983435951521794,MoonriverNW,"First time transferring $KSM to Moonriver? 
+
+It's never too late to learn 👉 KSM can be 🔁 transferred from the Kusama Relay Chain and used as xcKSM on Moonriver’s vibrant #DeFi ecosystem!🔥 
+
+Check out this infographic on how to transfer your KSM: https://t.co/gXSHDZiYr2",236,12,45,2022-04-26
+493,2022-04-27 22:50:38+00:00,1519448966114512897,MoonriverNW,"Why is it such a big deal? Because now parachains are live and @kusamanetwork DeFi is in full swing! 😎
+ 
+Now Kusama crowdloan OGs just need to figure out what they want to do with their 💰.
+#TheBigUnlock
+https://t.co/pMJoWuOPQ1",108,9,9,2022-04-27
+498,2022-04-29 23:42:29+00:00,1520186789746688001,MoonriverNW,"🔥Thrilled to welcome @jointhepressure to the Moonriver community!
+
+Public Pressure is an #NFT music platform dedicated to artists, labels, &amp; fans, and will be utilizing Moonriver for the minting of exclusive merch from the artists themselves! 🤘 https://t.co/i3wHIfe2Cm",202,10,41,2022-04-29
+511,2022-04-30 01:29:56+00:00,1520213832114884608,MoonriverNW,"@mnrbbtwrk Thank you! 👋 We can see your entire message, even if it says unread. 
+
+You must have sent us the correct artifacts during the time of the quest on April 14th in order to receive an NFT. The correct emoji artifacts were posted in our latest quest update!",3,2,0,2022-04-30
+513,2022-05-02 21:04:35+00:00,1521234220257062914,MoonriverNW,"🚀 Join us and be a part of our next Moonbeam Universe: The Big Unlock w/ special guests @MoonwellDeFi, @LidoFinance, @Solarbeamio, &amp; @ZenlinkPro! 
+
+Each team will be giving a live demo, including how to use $xcKSM with their platform!🔥
+
+🎟Save your spot
+https://t.co/tE1WJUS6Ve https://t.co/DCeoFzSZGc",205,185,47,2022-05-02
+518,2022-05-03 21:47:08+00:00,1521607312619843586,MoonriverNW,"Moonbeam Universe: The Big Unlock is happening this Thursday! 🔥
+
+Join us 🔴LIVE for a dynamic session as each special guest provides a demonstration using their platform! #TheBigUnlock 
+
+🗓Thursday, May 5 ⏰ 16:00 hrs. UTC
+
+Save your spot 👇
+https://t.co/U7vzJZRToR https://t.co/fdiVYDpFro",131,3,25,2022-05-03
+519,2022-05-04 15:00:01+00:00,1521867246859137025,MoonriverNW,"Moonriver Champions have received their artifact prize from Quest 1. It should come in handy when Quest 2 begins.👀
+ 
+The reward will be of great utility, but you may need to understand the history of this relic to fully appreciate its value… https://t.co/lpSDSAapZ8 https://t.co/iaVZl91uYH",191,20,41,2022-05-04
+523,2022-05-05 15:35:20+00:00,1522238523293814784,MoonriverNW,"🚨Starting in 25 minutes!🚨 Join us for Moonbeam Universe: The Big Unlock w/ special guests @MoonwellDeFi @ZenlinkPro @LidoFinance @Solarbeamio!!
+
+Join here👇
+https://t.co/U7vzJZRToR https://t.co/1GZuqnNLes",89,4,20,2022-05-05
+525,2022-05-06 16:10:53+00:00,1522609856884396033,MoonriverNW,"⏯ In this week's Moonbeam Universe we learned about DeFi on Moonriver with demonstrations from all our guests as well as an insightful Q&amp;A with our community!  Don't worry, we recorded it.😉
+
+Watch the replay 👇
+https://t.co/u85bMlWKMo https://t.co/M7yrtwaKLN",119,8,17,2022-05-06
+526,2022-05-09 15:58:18+00:00,1523693854032941058,MoonriverNW,Stay in the know with @Chaotic_Finance 👉 Check out their latest roadmap for the chaos happening on @MoonriverNW! https://t.co/ymd2A75yRQ,68,2,12,2022-05-09
+529,2022-05-10 16:00:18+00:00,1524056744326045697,MoonriverNW,"4/ The task will involve carefully reading the Moonriver Quest 1 story on Medium. Further instructions will be posted tomorrow, and when the contest kicks off on May 12th at 11:00 ET time on Twitter!
+https://t.co/kK00jbEsED",42,1,1,2022-05-10
+535,2022-05-11 15:01:01+00:00,1524404215711514625,MoonriverNW,"2/ Do not forget your hard-won artifact from Quest 1! If you failed the first quest, you will be challenged with an extra task to prove your worth in the second challenge.
+
+Only those who do NOT hold the first NFT will complete the Proof of Worth task in the second quest.",41,1,5,2022-05-11
+538,2022-05-12 15:42:28+00:00,1524777035381489664,MoonriverNW,"2/ Like, Quote RT this tweet, tag 2 friends &amp; add a gif/meme. Submit your answer using the link in this medium post.
+
+Start there, trust me. Questions will be monitored on the Discord Quest channel only &amp; you might find some helpful tips too!
+
+Good luck!
+https://t.co/Dr1IDroKkx",247,90,90,2022-05-12
+546,2022-05-13 13:21:02+00:00,1525103830370762753,MoonriverNW,"1/ ✨ Check out some of the amazing work being done for the Moonriver Grant Hackathon 👉 watch the replay of the first project demo session! 
+
+Watch here ⬇️
+https://t.co/i5rgVLjhuC https://t.co/xNuvX70T3Q",85,2,11,2022-05-13
+550,2022-05-14 17:49:41+00:00,1525533826402897922,MoonriverNW,"5/ 💧 @LidoFinance
+https://t.co/InF4vPDxSS",27,0,2,2022-05-14
+556,2022-05-15 23:07:33+00:00,1525976205270339584,MoonriverNW,"1/ The Big Unlock is complete! 🔓 Today at 10:29PM UTC, 1.1 million $KSM locked for the 1st five winning crowdloans on Kusama was made available to participants!🦜
+
+This event coincides w/ the completion of the Moonriver Crowdloan Rewards distribution.✨
+https://t.co/weO8KknUWp",302,11,82,2022-05-15
+561,2022-05-16 20:18:18+00:00,1526295999462899712,MoonriverNW,@sdfuturo Hello 👋 did you try checking your Polkadot.js extension is set to the right network?,1,1,0,2022-05-16
+562,2022-05-17 18:55:28+00:00,1526637544015904768,MoonriverNW,@TheDPSproject 🏴‍☠️ https://t.co/fhSqcTQ0fP,38,0,6,2022-05-17
+564,2022-05-19 19:13:51+00:00,1527366944382676993,MoonriverNW,@Touhidu33537104 @thinkwildcrypto Follow the link in the post and read through the blog. There is something waiting at the end. 👀,2,1,0,2022-05-19
+566,2022-05-20 17:07:54+00:00,1527697637897555969,MoonriverNW,"1/ 🚀 Khala, the sister network to @PhalaNetwork, has opened up a cross-chain channel with @MoonriverNW via XCM integration! 
+
+With this integration, $kPHA is now available on Moonriver as $xcPHA for use across its active DeFi ecosystem.
+
+Learn more 👇
+https://t.co/2ZKdNrt4Zv",251,10,43,2022-05-20
+573,2022-05-22 17:35:37+00:00,1528429386155843587,MoonriverNW,"🚨 This is your last chance to vote for your favorite project in The Moonriver Grant Hackathon!
+
+The hackathon features 150k in prizes w/ a portion of that awarded to projects chosen by community vote through quadratic funding!
+
+🗳 Learn how to vote here: https://t.co/dTp72796ty https://t.co/40MS10SMJ4",124,2,20,2022-05-22
+574,2022-05-23 20:00:55+00:00,1528828341465268225,MoonriverNW,"2/ XCM and the XC-20 token standard continue to pioneer the way for a seamless cross-chain experience between specialized networks.
+
+For ways to use your $KSM with #DeFi on Moonriver, see our Big Unlock Twitter thread below. ⬇️ https://t.co/2jZUTFL9Rs",45,0,5,2022-05-23
+577,2022-05-24 19:30:03+00:00,1529182960506871809,MoonriverNW,"Wow, what a view! Seriously cool seeing Moonriver in the newly launched Kusamaverse.🔥🙌 @MomentumXYZ https://t.co/KOx0jaaoCu https://t.co/rN18KUXipY",126,4,19,2022-05-24
+580,2022-05-25 20:24:37+00:00,1529559081958219776,MoonriverNW,"@csaint02 @NeonCrisisNFT @movr_place Simply awesome 🙌 Great to watch as people came together, and for a good cause too. ❤️ #Justkeepbuilding",41,2,2,2022-05-25
+583,2022-05-26 17:45:16+00:00,1529881369626783746,MoonriverNW,"@Neilward101 @thinkwildcrypto @RiRi_gonewild This event is only for quest 2 NFT holders. Quest 1 NFT gave an advantage for quest 2.
+
+For more information on Moonriver Quest NFTs join the # quest channel on the Moonbeam Discord: https://t.co/PEibRIwJrP",2,0,0,2022-05-26
+588,2022-05-29 16:53:09+00:00,1530955414824751104,MoonriverNW,"Work hard, play harder 🙌 @MoonsamaNFT https://t.co/kLln6aNXHV",289,11,49,2022-05-29
+589,2022-05-30 16:25:47+00:00,1531310916570079234,MoonriverNW,"👑 Earn your seat at the table. If you did not win a Quest 2 NFT, there’s still a chance to get one &amp; join us for the Champions Feast, this Thursday. Read on for details. https://t.co/moyr283VSe",72,6,5,2022-05-30
+591,2022-06-01 14:30:52+00:00,1532006772512280576,MoonriverNW,"1/ 🚀 New XCM integrations with @CrustNetwork &amp; @ParallelFi (Heiko) are now LIVE and enable availability for $CSM &amp; $HKO on Moonriver Network. 🔥
+
+$MOVR is also available to deposit &amp; use on Crust &amp; Heiko Network.✨
+https://t.co/JkxJT2gHXK",128,1,23,2022-06-01
+597,2022-06-02 21:59:47+00:00,1532482132614041616,MoonriverNW,GIF/Meme #4 https://t.co/eQ7xqTyI5k,46,2,2,2022-06-02
+607,2022-06-04 12:08:59+00:00,1533058230913466368,MoonriverNW,@exiledracers Next Question 🔥💯 https://t.co/kHjku1N7Cm,60,2,4,2022-06-04
+608,2022-06-05 16:46:57+00:00,1533490568705212416,MoonriverNW,"6/ New integrations on Moonriver:
+
+📲 API &amp; Tools: @API3DAO
+🏦 DeFi: @Vulturefi 
+👛 Wallets: @THORWalletDEX
+🖼 NFTs: @DeviantArt 
+
+
+Check out more projects on Moonriver here: https://t.co/C8gDfjfzPM",25,2,1,2022-06-05
+616,2022-06-07 13:23:20+00:00,1534164103022919681,MoonriverNW,"🦑 $KMA, the native token of @CalamariNetwork, is available for use on Moonriver as $xcKMA via XCM integration.
+
+This integration not only enables cross-chain asset transfers but opens the door for increased cross-chain privacy functionality on Moonriver. https://t.co/xtRDsRYDxw",219,11,54,2022-06-07
+618,2022-06-08 20:10:15+00:00,1534628895017910272,MoonriverNW,It's here! ⭐️  @NovaWalletApp provides $MOVR + $GLMR staking to users through their Android v2.8 update (iOS support coming soon). https://t.co/B3vc1GRnne,155,12,32,2022-06-08
+623,2022-06-09 19:26:21+00:00,1534980235233574926,MoonriverNW,"🔁 Good news! @subwalletapp now supports cross-chain asset transfers. Users can access the new functionality via the SubWallet browser extension.
+
+Learn more ⬇️ https://t.co/70Jt0MqgQM",101,13,11,2022-06-09
+624,2022-06-15 10:30:00+00:00,1537019585530036226,MoonriverNW,"📲 The @NovaWalletApp now supports $MOVR + $GLMR staking on iOS through their v2.8 update, available in the App Store!✨ 
+
+⭐️ With Nova Wallet, token holders can stake &amp; unstake assets, access staking analytics/info, and more. https://t.co/Q2g5iquD6P",146,10,27,2022-06-15
+625,2022-06-17 10:06:57+00:00,1537738560371146755,MoonriverNW,"👀 Did you know you can transfer $KSM to Moonriver in just three steps?
+
+1️⃣Connect your KSM account with the PolkadotJS extension
+2️⃣Setup MetaMask with the Moonriver App
+3️⃣Deposit KSM to Moonriver as $xcKSM
+
+Check out our written &amp; video tutorials👇
+https://t.co/bmzuGXgCBu https://t.co/fDE9MrOqxI",121,10,24,2022-06-17
+628,2022-06-18 21:30:55+00:00,1538273074260459521,MoonriverNW,"📲 xcRMRK withdrawals are now enabled on @kucoincom. ✅ Users can now transfer their $xcRMRK from the KuCoin Exchange directly to @MoonriverNW.
+
+See the announcement👇
+https://t.co/EoE7KGufcA",193,7,36,2022-06-18
+629,2022-06-20 13:25:48+00:00,1538875768675106818,MoonriverNW,"🤩 Great to see the amazing work continuing to be done by teams in the #dotsama ecosystem. ✅ @subwalletapp 
+#justkeepBUIDLing https://t.co/LIsVNhUHVw",185,4,38,2022-06-20
+630,2022-06-21 20:07:38+00:00,1539339281310879750,MoonriverNW,"Thank you to @huobi_incubator, @DoraHacks, and the Moonbeam foundation for making the event possible and to all the participants who turned it into a huge success! 🙌
+
+We're looking forward to more hackathons to come!
+#JustkeepBUIDLing",51,2,5,2022-06-21
+633,2022-06-22 20:30:00+00:00,1539707297638674432,MoonriverNW,"🍦 YUM! Gelato Ops is now available on @MoonriverNW, making smart contract automation easier than ever. @gelatonetwork 
+
+Try it for yourself 👇 https://t.co/sp4CDhBFJG",117,5,19,2022-06-22
+635,2022-06-24 21:00:07+00:00,1540439651541843969,MoonriverNW,"🏴‍☠️🦜 V2 of the Damned Pirates Society (with a completely overhauled UI) has casted off and is available via soft launch!
+
+Check out all the details 👇 https://t.co/mreqiV6nkN",94,6,16,2022-06-24
+637,2022-06-26 13:08:21+00:00,1541045701962072064,MoonriverNW,"☀️ Great read on @Solarbeamio, a native + leading DEX enabling P2P transactions on Moonriver.🙌 Check it out and learn more about Solarbeam's journey from launch to now, including features &amp; use cases. https://t.co/WWxMR9NuEZ",101,5,15,2022-06-26
+638,2022-06-28 13:30:00+00:00,1541775928451145728,MoonriverNW,"🎙 Fun &amp; informative interview by @shineyd1111 with @derekyoo!✨ Listen in as they talk about @MoonbeamNetwork's most anticipated integrations, recent @Polkadot events, Derek's @MoonsamaNFT Carnage experience, and more!
+▶️ https://t.co/PdrxlAJSQW https://t.co/0nhnozc4pD",88,8,15,2022-06-28
+641,2022-06-29 13:55:33+00:00,1542144746172420098,MoonriverNW,"1/ New XCM integration ➡️ $TEER, @integri_t_e_e's native token, is now available as $xcTEER for use across Moonriver's DeFi ecosystem, and $MOVR on Integritee Network. ✅
+
+Read the entire announcement for details👇
+https://t.co/IsuyU2WN8d",128,6,29,2022-06-29
+643,2022-07-01 16:00:58+00:00,1542901080744394752,MoonriverNW,"🚨 Happening Now 🚨 Join us for the next Multi-Chain Session w/ @LidoFinance &amp; @MixBytes!
+https://t.co/kNegiqDrnJ",67,4,9,2022-07-01
+644,2022-07-04 15:30:09+00:00,1543980489781952513,MoonriverNW,"7/ 👥 We’re happy to share the Moonbeam Ambassador of the month for June is Jose, Head of Ambassadors for the English &amp; Spanish Communities! 
+
+Shoutout to all our amazing ambassadors that go above &amp; beyond to support Moonbeam Network✨
+https://t.co/iJv9FwmPex https://t.co/kW00FI32FO",15,2,1,2022-07-04
+655,2022-07-06 03:03:21+00:00,1544517326959157248,MoonriverNW,"Great discussion hosted by @RiRi_gonewild ☑️ Go check out her interview with @derekyoo &amp; listen to their discussion on cross-chain vs. multi-chain, the future of Moonriver, &amp; much more! 
+
+Details below👇 https://t.co/5MDYKA0P5V",97,6,18,2022-07-06
+657,2022-07-07 16:03:33+00:00,1545076059493830661,MoonriverNW,"🚨 Happening Now! Join us for our Multi-Chain Session: Powering the Cross-Chain Future w/ special guest @sergey_nog from @axelarcore 🙌
+https://t.co/PhbkP4SivM",54,2,7,2022-07-07
+658,2022-07-11 21:36:20+00:00,1546609360746455041,MoonriverNW,"1/ 🚀 The Moonbeam Foundation has announced the Moonbeam Orbiters Program, a collator rotation program &amp; new way for collators to engage w/ @MoonbeamNetwork &amp; @MoonriverNW.
+
+The trial program will launch to Moonriver July 19. Moonbeam is to be determined. https://t.co/GKRb33qZUg",161,10,46,2022-07-11
+661,2022-07-14 23:00:28+00:00,1547717694522138624,MoonriverNW,🚀 Great to see innovative projects like @RMRK's @SkybreachNFT Metaverse come together! Here are just a few reasons why RMRK chose to build on Moonriver Network: https://t.co/x5r2BrQnqS,120,14,14,2022-07-14
+662,2022-07-19 20:51:44+00:00,1549497237453012993,MoonriverNW,"⚠️ Quick Tip: important things to consider when staking w/ Moonriver Collators include: 
+
+☑️ Minimum Bond Amount 
+☑️ Total Amount Staked  
+☑️ Active vs. Inactive Collators 
+
+Check out our step-by-step video guide on staking $MOVR: https://t.co/o3Coe8M65e",82,7,17,2022-07-19
+663,2022-07-21 16:07:28+00:00,1550150475336585217,MoonriverNW,"🚀 The first 8 Orbiters are off to the races 🚀 
+
+ICYMI: the Orbiters Program has officially launched to Moonriver. Learn more in our recent announcement 👇 https://t.co/IhsTDpbUMX https://t.co/3TzhMwznm0",65,2,12,2022-07-21
+665,2022-07-26 17:52:17+00:00,1551988793959657472,MoonriverNW,"1/ 🃏 @pipcards, the first-of-its-kind generative playing card project on Moonriver, released its first full deck of NFT playing cards (The Awakened Kingdom) earlier this month!
+
+Users on the network can now mint their own decks via the PIPS site 👀
+
+Read the announcement👇 https://t.co/38DYa1UYNW",82,4,15,2022-07-26
+667,2022-07-29 17:27:01+00:00,1553069599771484162,MoonriverNW,"1/ 🚀 @ParallelFi (Heiko) has been busy! Since our XCM integration, $MOVR and $HKO holders are able to send assets between chains for use in DeFi- now the Heiko team has their sights set on new use cases 🔥🔥 https://t.co/PcAXhpwIQK",129,7,10,2022-07-29
+669,2022-08-01 00:25:39+00:00,1553899728210894850,MoonriverNW,@KufrayOne @ZenlinkPro @MoonbeamNetwork @bifrost_finance @AstarNetwork @Polkadot @kusamanetwork 🔥💯,14,0,1,2022-08-01
+670,2022-08-03 22:36:34+00:00,1554959438620102657,MoonriverNW,"New Integration: Enkrypt, a multi-chain wallet by @myetherwallet, adds support for @MoonbeamNetwork + @MoonriverNW and is now available to users on the network https://t.co/FbK86fOC9t",97,1,10,2022-08-03
+671,2022-08-04 21:23:08+00:00,1555303345782398976,MoonriverNW,"1/ The Monthly Dispatch for Moonbeam &amp; Moonriver is ready. During the month of July, Moonriver welcomed: 
+
+☑️ Project deployments
+☑️ New developer tools 
+☑️ The Orbiters Program trial
+
+...among other news. Read on for details👇 
+https://t.co/Z9zZLQr8B5",93,5,11,2022-08-04
+673,2022-08-05 14:10:59+00:00,1555556980017750017,MoonriverNW,"1/ Moonriver and @ShidenNetwork, are now connected via XCM integration, opening a bi-directional channel for $SDN &amp; $MOVR token transfers between chains and continuing to pave the way for interoperable apps within Kusama
+https://t.co/CocsbvDDmb",253,23,51,2022-08-05
+675,2022-08-09 20:55:07+00:00,1557108235160719366,MoonriverNW,"2/ 🕵️‍♂️ As a decentralized identification aggregator, future cross-chain use cases for Litmus will allow users on Moonriver to manage their identities &amp; #dApps to obtain real-time DID data of an identity owner across different blockchains #justkeepBUIDLing",41,0,5,2022-08-09
+677,2022-08-10 16:33:00+00:00,1557404659618398211,MoonriverNW,@abhayait @dapplooker Looking forward to this one 🙌🔥,2,0,0,2022-08-10
+678,2022-08-12 02:46:37+00:00,1557921469090435072,MoonriverNW,"We collaborated with @exiledracers to celebrate their #Phase4Mint and designed a 1/1 Moonriver Custom EXR Booster.
+
+You can win this + EXR Pilot Mint Key...
+
+How? Follow @exiledracers ✅Quote Tweet EXR’s post using hashtags #EXR_Moonriver #EXR_Phase4Mint✅
+
+Details below https://t.co/7CFIASBweV https://t.co/1QaMlIDVSh",96,11,12,2022-08-12
+679,2022-08-16 09:00:02+00:00,1559464991249420293,MoonriverNW,"More than just a snapshot 📸 @yield_bay now tracks DEXes across #Dotsama for a clear picture into yield data on Moonbeam &amp; Moonriver Networks
+
+See for yourself 👇 https://t.co/YvgIHGMtV8",116,3,21,2022-08-16
+681,2022-08-17 17:46:27+00:00,1559959858501263360,MoonriverNW,"⭐️.@NovaWalletApp adds support for $MOVR cross-chain transfers between some of the top chains on @kusamanetwork, including Heiko (@ParallelFi), @KaruraNetwork &amp; Khala (@PhalaNetwork)
+#justkeepBUIDLing https://t.co/pujyKbnNO5",98,19,19,2022-08-17
+683,2022-08-23 19:19:03+00:00,1562157489101086720,MoonriverNW,"👀 Zenlink has upgraded their DEX contracts on @MoonriverNW &amp; @MoonbeamNetwork and made it easy for users to manually migrate liquidity to these newly deployed contracts ✔︎ 
+
+For more info, check out @ZenlinkPro's announcement, including user guide &amp; FAQ ⬇️ https://t.co/ZBFyP83iKi",127,5,32,2022-08-23
+684,2022-08-25 16:43:49+00:00,1562843200695386113,MoonriverNW,"1/ Hey, $MOVR holders 🖖 Do know how to delegate your tokens (stake) w/ collators through https://t.co/oe43SHCNt6?
+
+👀 Watch Everything You Need to Know About Staking Vol. II for an intro to staking, the latest staking changes, best practices, &amp; more 🔥
+https://t.co/GqaZiG0Nvy",71,10,14,2022-08-25
+687,2022-08-27 03:45:20+00:00,1563372063175634945,MoonriverNW,"1/ 🚀 Twelve months later &amp; Moonriver Network has come a long way since its full launch on @kusamanetwork 💫
+
+Join us in looking back at some of the first-year milestones &amp; adventures 🎂 #Moonriver
+https://t.co/K7AdqxgQba",277,20,62,2022-08-27
+693,2022-08-29 17:12:31+00:00,1564299974413848578,MoonriverNW,@BalanceBorn Hello 👋 Can you please give us more information like which browser you are using and when this occurs so we can report this to the dev team?,1,0,0,2022-08-29
+694,2022-08-30 16:20:35+00:00,1564649290089259008,MoonriverNW,"🎉 Let's take a look back at all things Moonriver from the past year with Moonbeam founder @derekyoo✨
+
+Join us for our One Year Recap event for a snapshot of achievements, milestones, &amp; adventures from our journey so far
+
+Save your spot 🎟 https://t.co/xnKL9RQztU https://t.co/TxVPLPdevt",101,4,28,2022-08-30
+697,2022-09-01 10:14:05+00:00,1565281833423601665,MoonriverNW,"🎊 Join us TODAY for the Moonriver One Year Recap!✨
+
+Together we'll look back at all the achievements, milestones, &amp; adventures w/ discussion led by @derekyoo
+
+Save your spot 🎟 https://t.co/xnKL9RQztU https://t.co/xyoscsIowX",91,5,15,2022-09-01
+699,2022-09-02 15:30:12+00:00,1565723777488543745,MoonriverNW,🚨 Starting in 30 minutes 🚨 Join us for the next Multi-Chain Session w/ special guest @litentry:  https://t.co/bqJp8pVkLf https://t.co/zitkSmg8EP https://t.co/lHHSzEpx3P,77,12,20,2022-09-02
+702,2022-09-07 10:02:10+00:00,1567453162981711874,MoonriverNW,"1/ Have you read the Moonriver Monthly Recap for August? 🧐
+
+Catch up on everything you need to know from the past month, including a look forward to upcoming virtual &amp; in-person events ✔︎
+
+Read on ⬇️
+https://t.co/qmncFxNiEE",92,10,21,2022-09-07
+704,2022-09-13 21:50:35+00:00,1569805770710999042,MoonriverNW,"13/ 💫 @ShidenNetwork integrated with Moonriver, enabling $SDN token transfers &amp; bringing together two of the most active developer ecosystems on Kusama.
+https://t.co/CocsbvDDmb",28,5,5,2022-09-13
+719,2022-09-19 21:34:45+00:00,1571976112158248966,MoonriverNW,"@MovrNews @GlmrNews 🎉 Happy belated 🎉 Thank you for the incredible support, informative content, &amp; for being part of our community! Here's to many more 🍻",33,0,4,2022-09-19
+720,2022-09-21 22:08:04+00:00,1572709271594205185,MoonriverNW,"🎂 A special HBD to the one &amp; only @MoonsamaNFT! What a way to celebrate with the launch of @ExosamaNFT✨
+
+Seems like only yesterday when the first Moonsama NFTs were available on Moonriver- amazing to see the work being done across the entire #dotsama eco.
+
+Here’s to many more🎉 https://t.co/scTb2HEF6E",576,37,218,2022-09-21

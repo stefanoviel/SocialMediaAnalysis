@@ -1,0 +1,880 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2021-07-08 17:25:26+00:00,1413187481558732800,AngleProtocol,"1/10 Introducing Angle Protocol, a brand new decentralized stablecoin protocol 🕹️! We hope to launch on mainnet in October 🍁!
+
+A quick protocol and project overview:",1602,1640,826,2021-07-08
+9,2021-07-13 06:52:27+00:00,1414840129206824967,AngleProtocol,"Happy to announce that we will be at @EthCC 🇫🇷! 
+One of our Core Contributors @pablo_veyrat will be giving a talk about the protocol we are building at Angle on July 21st!",15,0,3,2021-07-13
+10,2021-07-15 14:18:28+00:00,1415677148019363848,AngleProtocol,"We will be discussing stablecoins on Monday with @bneiluj, @CurveFinance and @CeloOrg in Paris for #EthCCWeek!
+Get your free tickets here:
+https://t.co/riLiJK2TCb",32,0,7,2021-07-15
+11,2021-07-16 16:34:09+00:00,1416073681290371079,AngleProtocol,"@briar_co @AleksVorobets @bneiluj While we obviously inspired ourselves from other protocols, Angle is not another clone of an existing protocol. It is a brand new stablecoin protocol, with its own unique design, its own set of incentives and its own smart contracts!",1,1,0,2021-07-16
+16,2021-07-17 08:40:01+00:00,1416316750593986560,AngleProtocol,"@jeremy_dimaio @briar_co @AleksVorobets @bneiluj Angle protocol is different: 
+- No order book between User and HA. The protocol takes care of the buffer between offer and demand with SLP.
+- HA choose a multiplier and get direct leverage (no such thing as collateral ratio from an HA perspective).",1,2,0,2021-07-17
+19,2021-07-19 11:30:41+00:00,1417084472877535241,AngleProtocol,"#EthCC Reminder: We will be in 30 minutes at the Stablecoin Panel with @CurveFinance, @bneiluj and @CeloOrg ! There are still some tickets available here if you want to join the discussion 🕹️: https://t.co/riLiJKkv0L",24,1,3,2021-07-19
+20,2021-07-21 09:27:31+00:00,1417778253557813250,AngleProtocol,#EthCC Our core contributor @pablo_veyrat will be speaking today at 1:15pm in the Sorbonne room about the protocol and the project! Looking forward to seeing you there!,10,0,2,2021-07-21
+21,2021-07-30 12:47:45+00:00,1421090137132437507,AngleProtocol,"1/4 We're excited to share today the first article of our stablecoin series 💱!
+https://t.co/OZssR7w3GF",16,1,4,2021-07-30
+25,2021-08-04 14:33:55+00:00,1422928794164375557,AngleProtocol,"5/ USDC will be a collateral for our first stablecoin (agEUR), but it will be one of many, and all collateral types will be fully convertible against stablecoins, regardless of their volatility",4,0,0,2021-08-04
+30,2021-08-30 14:18:57+00:00,1432347109991329797,AngleProtocol,"1/ Finally published the third article of our stablecoin series 💱 about under-collateralized/algorithmic protocols like @fraxfinance!
+https://t.co/IQg1UyQdEF",26,3,7,2021-08-30
+34,2021-09-06 17:30:24+00:00,1434932004299096074,AngleProtocol,"1/ And finally, we have just released the last article of our stablecoin series 💱 on derivatives-backed protocols!
+https://t.co/7SRDYsHpNo",23,1,5,2021-09-06
+39,2021-09-15 07:08:16+00:00,1438036929589780483,AngleProtocol,"@brian_armstrong You'd need a decentralized protocol for that. #Angle can make stablecoins pegged to virtually any currency or asset. It's in the short roadmap to work on an index that does not inflate (global GDP, basket of goods, ...) and to build a stablecoin pegged to it",10,0,0,2021-09-15
+40,2021-09-17 12:22:03+00:00,1438840671587250179,AngleProtocol,Testnet coming soon 👀,47,5,2,2021-09-17
+41,2021-09-20 15:07:22+00:00,1439969441874391043,AngleProtocol,"1/ Angle is live on Rinkeby! 
+https://t.co/DHFUVN0Rb7",44,4,14,2021-09-20
+46,2021-09-23 18:07:50+00:00,1441102017468854281,AngleProtocol,"1/ Angle Analytics is live! You can now check all the activity inside our protocol and monitor what's in the protocol on Rinkeby in real time
+https://t.co/bW5GOWXw9G",32,1,3,2021-09-23
+49,2021-09-28 14:12:18+00:00,1442854687007547399,AngleProtocol,7/ Join our playground on Discord 🕹️ https://t.co/I9GEiZ31PO,17,4,1,2021-09-28
+57,2021-10-01 17:47:19+00:00,1443995959290220551,AngleProtocol,"1/ Many progress on the Angle App over the last week!
+https://t.co/plPfVbhy5t",41,5,3,2021-10-01
+61,2021-10-04 15:38:11+00:00,1445050624081551362,AngleProtocol,"1/ We have written an article to introduce some of the main characteristics of Angle's stablecoins (agTokens) 💱
+https://t.co/SIQ1P6ft46",78,2,11,2021-10-04
+68,2021-10-05 23:13:09+00:00,1445527511287222283,AngleProtocol,"Our custom Rinkeby faucet already distributed testnet tokens to more than 3200 verified addresses ! 🦾🚀
+We sent:
+
+~ 110 ETH + 110 WETH
+~ 3.6M DAI + 3.6M USDC (@compoundfinance's test tokens)
+
+A huge shout out to each tester for their dedication and their valuable feedback !",196,337,52,2021-10-05
+69,2021-10-06 17:41:07+00:00,1445806339708493825,AngleProtocol,"6/ The smart contracts are ready, now help us perfect the UX (https://t.co/lH2kwHGci2) on Discord!",30,6,8,2021-10-06
+75,2021-10-08 18:46:15+00:00,1446547504837890055,AngleProtocol,"1/ Angle is a derivatives-backed protocol. Like @UXDProtocol, it has an insurance fund. Only here, our fund also has deposits of another type of ppl called SLPs!
+We explain why you should become a SLP when Angle launches on mainnet:
+https://t.co/ootpUT2inC",104,72,42,2021-10-08
+81,2021-10-12 20:16:11+00:00,1448019687749701641,AngleProtocol,"4/ Besides protecting from front-running and allowing for zero slippage mints and burns, this solution is:
+- manipulation resistant
+- flexible and upgradeable
+- scalable to all the stablecoins Angle plans to launch",5,1,0,2021-10-12
+87,2021-10-13 21:24:00+00:00,1448399142729011209,AngleProtocol,"With more than 12.6k people on Discord🕹️ providing feedback on our app, our badass dev team is working day and night to improve the Angle experience before our mainnet launch 🍂!
+
+Check out our Canny page to help us build
+https://t.co/wBrpDxgDVH
+
+Community makes the dream work",70,9,12,2021-10-13
+88,2021-10-14 20:08:00+00:00,1448742404501106701,AngleProtocol,"We will be in Lisbon next Tuesday with @StakeDAOHQ, @CeloOrg, @0xPolygon, @simpleFi_ and @trgcapi to discuss scaling DeFi to a mass market! 
+
+https://t.co/lxvk8zsha9",65,5,15,2021-10-14
+89,2021-10-15 14:40:59+00:00,1449022498159407110,AngleProtocol,"Angle brings the top of DeFi and economics research together🎓! All the protocol's elements have been carefully thought of and evaluated.
+Here, we leverage some maths to explain in details why we MUST take some tx fees for our stablecoins:
+https://t.co/E3fUKu6b9o",100,22,46,2021-10-15
+90,2021-10-19 17:30:26+00:00,1450514692494012421,AngleProtocol,"We will be live in 2 minutes with @StakeDAOHQ, @CeloOrg, @0xPolygon, @simpleFi_ and @trgcapi. Watch the live: https://t.co/KIfaOfI8Sm.
+Let’s make DeFI understandable to everyone.",50,1,5,2021-10-19
+93,2021-10-21 21:54:00+00:00,1451305795304374310,AngleProtocol,"Part 2 of the Angle Knowledge Quizz is live! 
+https://t.co/hHwzcG0Jcf
+Ramping up in difficulty, let's now talk about HAs and SLPs! 
+Part 1 is still live, so you can still participate if you have not already! 
+Answers to all quizzes will be posted by the end of next week",374,168,178,2021-10-21
+103,2021-10-22 21:05:00+00:00,1451655852415401986,AngleProtocol,"🚨 Announcement 
+Angle will be live on mainnet on November 3rd!
+
+We'll have our first community call one week before on October 27 at 5-6pm CET on Discord! 
+👋Join us to learn more about the Core Team and the protocol!",315,68,71,2021-10-22
+104,2021-10-25 12:58:53+00:00,1452620679845711876,AngleProtocol,"The 3rd part of the Angle Knowledge Quizz is live 🎉!
+
+https://t.co/icQtnWaXv7
+
+And do not forget about the 1st Angle AMA on the 27th at 5pm CET, many things to discuss!",215,73,76,2021-10-25
+110,2021-10-26 20:43:37+00:00,1453100021759545345,AngleProtocol,"7/If you have any question about this distribution, tomorrow Angle will be hosting its first AMA on Discord at 5pm CET! Our Core Team members will be happy to hear your thoughts!",31,0,3,2021-10-26
+119,2021-10-27 12:11:40+00:00,1453333575185707010,AngleProtocol,"Our community call starts at 5pm CET on Discord 🕹!
+Agenda 🗓
+- Team and project introduction 
+- Roadmap and mainnet launch details
+- Some general announcements
+- And then to conclude an AMA session!",118,14,25,2021-10-27
+120,2021-10-28 16:26:04+00:00,1453759983481507843,AngleProtocol,"1/ It's not because our mainnet launch is imminent that we are giving up on sharing our research results! 
+Today, we explain how we can offer perpetual futures with up to a 100x leverage using an external oracle feed while remaining front-running proof!
+https://t.co/aGVS8Uh98v",86,1,19,2021-10-28
+127,2021-10-29 20:55:41+00:00,1454190225434071041,AngleProtocol,"To submit a meme, you just have to post it on Twitter and tag @AngleProtocol with the #AngleMemeContest hashtag, and also post it on Discord in the #memes channel!
+
+The best meme will be rewarded with 2000 ANGLE tokens 🎉
+
+Let's have fun 🔔",116,24,29,2021-10-29
+131,2021-11-01 13:51:03+00:00,1455170524783448067,AngleProtocol,"1/ Angle Protocol will be live on the 3rd of November at 5pm CET!
+Are you as excited as the participants of the #AngleMemeContest by this? 
+Some launch details and warnings:",84,2,19,2021-11-01
+138,2021-11-02 19:27:20+00:00,1455617539279568897,AngleProtocol,"#AngleMemeContest is over! Thanks to all the participants, it's crazy to see what the community has been able to put up! 
+An overview of the winning memes 🏆 https://t.co/tFSxj7geoo",74,11,4,2021-11-02
+149,2021-11-03 11:07:47+00:00,1455854214731558918,AngleProtocol,"Mainnet launch in 5 hours 🚀! Get ready to:
+Get some Euro exposure
+Open leverage Forex positions
+Gain a leveraged yield on USDC and DAI
+Or simply farm ANGLE tokens
+https://t.co/ITq5WhsCVR is where the magic will happen 🪄! Decentralization matters, our app is hosted on IPFS",85,7,21,2021-11-03
+156,2021-11-04 17:15:50+00:00,1456309222094872578,AngleProtocol,"🐛 Protocol safety is our priority, that's why the smart contracts passed two different audits, and that's why we are now partnering with @immunefi for a bug bounty program! https://t.co/dl77OrFbA9",53,4,4,2021-11-04
+158,2021-11-05 09:31:50+00:00,1456554841942134789,AngleProtocol,"Looks like the growth of the protocol is steady! 
+$103m TVL 🎊
+agEUR has become the third biggest Euro stablecoin",130,10,13,2021-11-05
+164,2021-11-06 13:27:34+00:00,1456976554529988616,AngleProtocol,"Now that the ANGLE token is up and running, the Angle DAO has officially started. Discussions and improvement proposals take place here👉https://t.co/s46gGAgq9w
+Don't miss the first proposal to reduce the quorum to make passing proposals easier given the current supply of ANGLE",48,4,9,2021-11-06
+165,2021-11-08 16:06:58+00:00,1457741442399543300,AngleProtocol,"Angle's strategies at work✌️
+100m USDC, 95% in the @compoundfinance and @AaveAave strategy, 37m USDC brought by SLPs, 60% of strategy rewards given to SLPs.
+=&gt; SLPs get a yield on 95 * 0.6 = 57m USDC
+This is a 57/37 = 1.54x higher native yield than by implementing the same strat",41,1,2,2021-11-08
+167,2021-11-09 18:10:50+00:00,1458135003188154373,AngleProtocol,"5/ If you have already staked agEUR, sanUSDC_EUR, sanDAI_EUR or have opened a perp, there is nothing you need to do to keep receiving your ANGLE rewards!",13,1,0,2021-11-09
+172,2021-11-10 16:28:44+00:00,1458471698337046533,AngleProtocol,"Angle liquidity mining parameters have been updated 🥳
+Stake your LP tokens on the @SushiSwap ANGLE/agEUR pool or your @gelatonetwork G-UNI tokens on the @Uniswap V3 USDC/agEUR pool to get ANGLE rewards 🎁
+Learn more:
+https://t.co/VopcVT8bji",44,3,10,2021-11-10
+176,2021-11-11 11:44:44+00:00,1458762614394261510,AngleProtocol,Great to partner with the frens of @antimatterdefi to bring Euro denominated perpetual options! https://t.co/gmfqk86llG,44,2,8,2021-11-11
+179,2021-11-12 17:59:17+00:00,1459219259956121605,AngleProtocol,"This is still an ongoing process so if you have any ideas of how the Angle Protocol or DeFi as a whole can be made more understandable, our Discord is the place where we collectively try to shape up a future of DeFi with a billion users!",10,0,1,2021-11-12
+183,2021-11-13 11:56:00+00:00,1459490224778604551,AngleProtocol,"Did you know 🤔?
+
+You can get agEUR from USDC on @Uniswap V3 using a 0.05% pool, or using Angle Protocol with 0.2% fees.
+
+Angle Protocol uses @chainlink oracle feeds for the price of USDC in Euro, so you may actually have a better price on Angle than on Uniswap!",56,1,3,2021-11-13
+184,2021-11-14 15:25:38+00:00,1459905370072223751,AngleProtocol,"Did you know 🤔?
+
+95% of Angle's collateral reserves are invested in Compound and Aave.
+By depositing USDC or DAI as a Standard Liquidity Provider of Angle, you therefore earn yield on the collateral you deposited but also on collateral from users which minted stablecoins!",39,3,2,2021-11-14
+187,2021-11-15 08:04:23+00:00,1460156712556679174,AngleProtocol,"🤝 Starting on Wednesday, @OlympusDAO will help us take ownership of our liquidity! 
+We’ll have an AMA on Thursday at 4pm UTC to explain the details of the program! https://t.co/VhsHc8RIyM",82,4,10,2021-11-15
+189,2021-11-16 17:56:25+00:00,1460668089431957513,AngleProtocol,"With FEI being soon accepted as a collateral for Angle, incentives are also going to start for the Uniswap V2 pool FEI/agEUR",6,1,0,2021-11-16
+198,2021-11-17 09:28:05+00:00,1460902552044810241,AngleProtocol,"""Ser, when will I be able to buy ANGLE tokens at a discount?"" 
+This afternoon 🥳
+
+We're so excited to partner with @OlympusDAO to help us take ownership of our liquidity!",31,3,0,2021-11-17
+205,2021-11-18 22:37:00+00:00,1461463476854046720,AngleProtocol,"Arbitrageurs are starting to find their way on Angle as agEUR has perfectly kept its peg since launch ⚖️
+https://t.co/2PUD21CUxQ
+If you want some € exposure in DeFi, agEUR is now the most liquid and stable solution!",31,1,4,2021-11-18
+209,2021-11-19 11:25:46+00:00,1461656943584497666,AngleProtocol,"You were wondering what ANGLE APR you could get by opening a perp?
+Our app now has you covered 💪! You can access the APR for different levels of leverage for the different types of perps in the staking page of the App
+https://t.co/ZpukzYz6hO https://t.co/zh5sT4CEVJ",31,2,6,2021-11-19
+214,2021-11-20 16:21:36+00:00,1462093780992077824,AngleProtocol,"🏛️ Lots of constructive discussions recently in Angle Discord and governance forum about improving the design of the ANGLE token! 
+💬 Share your thoughts to collectively build the best infrastructure around the protocol's stablecoins
+https://t.co/zhyhTbg79T",38,3,2,2021-11-20
+215,2021-11-22 08:05:52+00:00,1462693802372734984,AngleProtocol,"🤝Angle will partner with @Superfluid_HQ to make agEUR streamable when it's live on @0xPolygon! 
+https://t.co/GP9OLPK2Zj",84,4,9,2021-11-22
+218,2021-11-23 18:36:00+00:00,1463214767414382601,AngleProtocol,"Overall, ANGLE will be distributed as follows:
+- 54.4% agEUR
+- 12.0% san_USDC_EUR
+- 8.0% san_DAI_EUR
+- 2.2% HA_USDC
+- 1.7% HA_DAI
+- 9.0% G-UNI agEUR/USDC
+- 7.0% Sushi ANGLE/agEUR
+- 2.0% FEI/agEUR
+- 3.7% Curve 3EUR",11,1,2,2021-11-23
+225,2021-11-24 09:50:49+00:00,1463444987945766917,AngleProtocol,"⚙️Developers, we have just open sourced our SDK!
+https://t.co/KSHhdumM3S
+Everyone can now easily interact with the protocol!
+Even better, this SDK makes it super easy for anyone to build on top of Angle: if you want to make your own front interface, now is the time!",41,2,5,2021-11-24
+229,2021-11-25 19:21:14+00:00,1463950927983955970,AngleProtocol,"agEUR and ANGLE are live on Polygon 🇪🇺 🚀
+https://t.co/AjzfOO8Fg2",63,3,11,2021-11-25
+233,2021-11-26 16:00:49+00:00,1464262877246808072,AngleProtocol,"🌡️ We initiated a Temperature Check Vote for the upgrades of the Angle Protocol and governance system proposed in our governance forum!
+https://t.co/Y48IzR94xR
+
+This is the 1st step of the process: results will lead us to allocate the resources needed to make it happen 🌠",29,0,2,2021-11-26
+234,2021-11-27 08:00:00+00:00,1464504265284620299,AngleProtocol,"👋On Monday, FEI will become agEUR's newest collateral type! 
+
+You'll be able to mint agEUR from FEI at a 1:1 rate!
+
+The protocol will have a strategy from day 1 to lend a portion of the FEI in reserves to Aave: juicy yield coming for FEI SLPs🧃",42,3,3,2021-11-27
+235,2021-11-29 20:53:00+00:00,1465423570918514690,AngleProtocol,"🆕 @feiprotocol is officially Angle newest collateral type!
+
+Everyone can now:
+- mint agEUR from FEI
+- open long FEI/EUR perpetual futures
+- deposit FEI and earn a boosted yield from Angle's built-in Aave strategies
+
+🪄Magic happens here: https://t.co/plPfVbz8X1",28,1,6,2021-11-29
+240,2021-11-30 09:49:03+00:00,1465618873017946112,AngleProtocol,"🇪🇺 For the very first time in DeFi, thanks to the @StakeDAOHQ fam 🙏, it is possible to get a lending yield on a Euro stablecoin.
+
+🐘 Lending and borrowing of agEUR is available on @RariCapital in the Animal Kingdom pool! 
+
+https://t.co/9n18XwcCdC https://t.co/5a5uhvgMOf",87,5,16,2021-11-30
+247,2021-12-01 18:19:57+00:00,1466109829773201409,AngleProtocol,"Our friends at @fraxfinance have opened a gauge for the FRAX/agEUR pool 🙏
+https://t.co/znNJCe2E1i
+
+veFXS holders can now allocate some voting power to it, and from this evening, LPs of this pool will be able to receive a share of the weekly FXS inflation!",5,0,0,2021-12-01
+252,2021-12-02 13:42:20+00:00,1466402355860156419,AngleProtocol,"Tomorrow, we will celebrate the end of the 1st month of Angle on mainnet! 🥳
+We're so grateful for having become the biggest Euro stablecoin with &gt; 200m TVL 🇪🇺",39,3,1,2021-12-02
+255,2021-12-03 15:48:13+00:00,1466796421370286084,AngleProtocol,"Keepers are often the forgotten stakeholders of DeFi Protocols!
+📰We wrote an article to explain the role of keepers in Angle and how they help the protocol function more effectively
+https://t.co/1lwDCT8dC1",21,0,2,2021-12-03
+257,2021-12-06 16:46:50+00:00,1467898337361858567,AngleProtocol,"New vote available on Snapshot ⚡
+https://t.co/TQmh6SN17R
+
+🤔 The proposal is to allocate a portion of next weeks ANGLE emissions to incentives for @CurveFinance on @ConvexFinance through @VotiumProtocol",19,0,2,2021-12-06
+258,2021-12-07 15:30:07+00:00,1468241419009679382,AngleProtocol,"4/ For the second week, incentives are still going to be given on LPs of the @QuickswapDEX pool on @0xPolygon",3,1,0,2021-12-07
+264,2021-12-08 08:02:49+00:00,1468491241889439749,AngleProtocol,"Bear market? 
+
+🚀Get yield on stablecoins before jumping back in:
+- 70.4% on the @fraxfinance /agEUR pool
+- 54.4% on the @CurveFinance 3EUR Pool
+- 48.2% on the @QuickswapDEX agEUR/USDC Pool
+- 33% on the agEUR staking contract
+
+Here: https://t.co/ZpukzYz6hO",21,0,1,2021-12-08
+265,2021-12-09 10:22:56+00:00,1468888889544912902,AngleProtocol,"Since the beginning, the goal with agEUR has been to make it become a € equivalent of USDT used in most trading pairs in exchanges.
+Thanks to @aexplus and the very first listing of the agEUR on a CEX, this reality is getting closer! https://t.co/RkCHcMS4mv",24,0,2,2021-12-09
+267,2021-12-10 16:53:05+00:00,1469349462288093187,AngleProtocol,"1/ Angle Tokenomics upgrade will be live on the first half of January 2022! 🚀
+
+Consequences for protocol stakeholders will be BIG!
+
+We share here some details for the rationale behind the key features of the upgrade 🏗️
+
+https://t.co/xg1S5ISTj8",39,1,4,2021-12-10
+274,2021-12-11 00:49:00+00:00,1469469228851884035,AngleProtocol,"Angle Perpetual owners now all own NFT cards marking their position within the protocol! 
+If you own a perp, just connect your wallet to @opensea to see your card! 
+
+Thanks to @Uniswap V3 for the inspiration on NFTs for financial positions! https://t.co/gD92xeywBM",21,0,3,2021-12-11
+275,2021-12-13 13:55:00+00:00,1470391807951335430,AngleProtocol,"💳 You can now buy agEUR with your credit card on Ethereum and on @0xPolygon thanks to @wert_io!
+
+🎈This opens the gate for end users of decentralized NFT marketplaces to purchase NFTs priced in Euro directly with their card!
+
+Check out: https://t.co/jUPlNEowOM",33,0,7,2021-12-13
+276,2021-12-14 18:12:24+00:00,1470818974602563591,AngleProtocol,"3/ 💲 Some increased rewards for SLPs of USDC this week, and for @QuickswapDEX LPs on @0xPolygon as well",6,1,0,2021-12-14
+282,2021-12-15 15:31:03+00:00,1471140756941418502,AngleProtocol,"Looks like some smart arbitrageurs found out they could use agEUR to bring EURs back to peg!
+
+@CurveFinance effect at stake! 
+
+https://t.co/kYiJ79xGml",31,1,1,2021-12-15
+287,2021-12-16 08:24:42+00:00,1471395848256995336,AngleProtocol,"🤙Angle Community Call #3 will take place on Discord 🕹️ next Monday at 5pm CET!
+On the agenda:
+- ANGLE Governance Upgrade
+- The dense roadmap for 2022",27,0,4,2021-12-16
+290,2021-12-17 15:31:24+00:00,1471865621419892739,AngleProtocol,"🤗 Frens building on top of Angle! 
+
+Looks like the multiplier effect on protocol interests and the juicy interests from transaction fees for Standard Liquidity Providers did not go unnoticed 👀 https://t.co/gH2RTfarOB",36,0,8,2021-12-17
+292,2021-12-18 18:28:55+00:00,1472272681013854211,AngleProtocol,"Thanks to @SebVentures, we also have an amazing @DuneAnalytics dashboard about the protocol: 
+https://t.co/vOW5A9ABG0",14,0,2,2021-12-18
+294,2021-12-20 11:32:40+00:00,1472892706301124614,AngleProtocol,"Since the beginning, Angle has been supported by the same artist, Anthony Jegu, who made most visuals and artworks. He has just released a collection about Angle 🔥 
+
+ Check out his work: 
+https://t.co/92V5ZlSIkO
+https://t.co/vMt8LuTdJf https://t.co/XhKSCrKop9",23,1,0,2021-12-20
+297,2021-12-21 08:40:06+00:00,1473211665516797952,AngleProtocol,"🤯181% daily return on the @Saber_HQ pool acEUR-agEUR
+
+To get in:
+- Bridge agEUR from Eth mainnet to @solana with @wormholecrypto: https://t.co/fCYgEbxyIY
+- Bridge cEUR from @CeloOrg with @Allbridge_io
+- Go on: https://t.co/hYDSmzfpRw
+ 
+€ liquidity is needed on Solana! https://t.co/MzBqHQNyQo",36,4,8,2021-12-21
+304,2021-12-22 20:44:26+00:00,1473756338002051079,AngleProtocol,"You can now stake your G-UNI agEUR/wETH tokens on Angle App! 🍧
+
+Liquidity on the pool is barely $15k, 248k ANGLE are to be distributed to the pool this week!
+
+💣 That is a weekly 580% APR! 
+
+Check https://t.co/ITq5Whb24j",24,2,6,2021-12-22
+310,2021-12-23 07:26:58+00:00,1473918034213539841,AngleProtocol,APR is now 1289%! 🤩,9,0,0,2021-12-23
+313,2021-12-24 09:59:34+00:00,1474318827580268544,AngleProtocol,"🎄☃️🎁 Angle Core Team wishes you happy end of the year holidays celebrations! 
+
+☀️ To reload batteries for what’s ahead, some of us will be off next week and so we may be less active here!",34,4,2,2021-12-24
+315,2021-12-27 19:00:00+00:00,1475541996265623552,AngleProtocol,"More than 100M€ in @CurveFinance's 3eur pool thanks to @ConvexFinance's incentives 🔥🔥
+
+agEUR's peg has never been so tight. And things are only starting for onchain forex 👀 https://t.co/Yj8PjjwKdM",95,4,12,2021-12-27
+316,2021-12-29 10:01:12+00:00,1476131176360427523,AngleProtocol,"3/ 🎈Some increased rewards for hedging agents this week! 
+
+People owning long USDC/EUR will share 7% of this week’s emissions",13,3,0,2021-12-29
+320,2021-12-30 19:08:00+00:00,1476631170758578179,AngleProtocol,"Currently 110+% APR for Uni V3 agEUR - ETH LPs through G-Uni 👀
+
+Increasing the pool's liquidity will boost agEUR's volume, leading to robust oracles for future integrations 🚀
+
+https://t.co/plPfVbz8X1",38,3,2,2021-12-30
+321,2022-01-03 11:15:47+00:00,1477961886867996674,AngleProtocol,"🎉It’s 2022 and a new lending/borrowing market for agEUR is live on @eulerfinance!
+ 
+⏱️The price oracle for agEUR is a 30min TWAP on the UniV3 agEUR-wETH pool
+
+🦍Pool liquidity is ~5m and it is being incentivized: ANGLE APR for agEUR-wETH LPs is currently 98.14%! https://t.co/LFUuFJW4AJ",50,2,4,2022-01-03
+330,2022-01-04 17:49:29+00:00,1478423351186145285,AngleProtocol,"3/ 🙄
+
+Price increase =&gt; APRs increase everywhere!
+
+Currently a &gt; 200% ANGLE APR for being a LP in the Sushiswap ANGLE/agEUR pool and this will continue given current vote https://t.co/PRcH1HHElZ",18,2,3,2022-01-04
+334,2022-01-06 08:45:57+00:00,1479011343164395521,AngleProtocol,🤝Angle x Iron Bank https://t.co/CjLPaHcRIy,25,1,1,2022-01-06
+336,2022-01-07 09:58:08+00:00,1479391898091638787,AngleProtocol,"Thanks to @OlympusDAO's bonds, we've deployed PoL to:
+
+- 🤝Seed a agEUR / ANGLE @QuickswapDEX pool. You can now trade ANGLE on @0xPolygon
+
+- 🧱Add full-range liquidity to the agEUR / ETH Uni V3 pool on L1. Goal is to strengthen the TWAP oracle (for @eulerfinance 👀) https://t.co/lBaz8wc54V",43,1,3,2022-01-07
+338,2022-01-09 08:13:00+00:00,1480090213154185218,AngleProtocol,"🔺agEUR and ANGLE are live on @avalancheavax thanks to @MultichainOrg! 
+
+🌉Bridge your tokens from mainnet here: https://t.co/DjRax3hOyH
+
+⏭️Coming next: incentivized agEUR/AVAX pool on @pangolindex! 
+
+🔮The future of agEUR is multichain!",58,1,7,2022-01-09
+339,2022-01-10 22:37:00+00:00,1480670033692946434,AngleProtocol,"In case you had missed it, there's a proposal to use CVX3EUR as a collateral for @MIM_Spell 
+
+Comment (and support) here 👇
+
+https://t.co/NgMvrdKnvY",42,4,3,2022-01-10
+340,2022-01-11 13:32:32+00:00,1480895402782203906,AngleProtocol,"💸 On-chain leverage on Forex just got way cheaper!
+
+⚡ Community voted and fees for HAs have been drastically reduced!
+
+💆‍♂️It now costs between 0.15% and 0.2% to open a USDC perp (it was 0.3% before). Closing fees are down to 0.3% from 0.5%. They could be as low as 0.15%!",37,3,2,2022-01-11
+342,2022-01-12 08:17:56+00:00,1481178618692837379,AngleProtocol,"1/ 🚜 Angle Liquidity Mining Updates
+
+This week, and starting today at 5pm CET, 2,419,131.29 ANGLE tokens will be distributed via staking!",25,3,2,2022-01-12
+347,2022-01-13 19:03:53+00:00,1481703563881594887,AngleProtocol,"🧪 Our app to lock ANGLE tokens and vote for gauges is live on Rinkeby at https://t.co/3SyX1nqOZJ
+
+🚰 We’ve revamped our faucet to allow everyone to get ANGLE Rinkeby tokens along with Rinkeby ETH and other test tokens:
+https://t.co/Dh5xFm2ZJ1
+
+👀 veANGLE is coming soon!",31,0,5,2022-01-13
+350,2022-01-14 08:05:24+00:00,1481900240865267715,AngleProtocol,"🏖️With the new veANGLE system coming, Angle’s Hedging Agents will just have to sit back and chill to keep enjoying the juicy ANGLE APRs! 
+No liquidity migration needed!
+
+🤯Fees have also been cut by ~2 to open and close HA positions! https://t.co/FsR7wk23RZ",48,4,7,2022-01-14
+356,2022-01-17 07:38:37+00:00,1482980663057862656,AngleProtocol,"☕ After a little more than 2 days, 5.24% of ANGLE circulating supply has been locked for an average of 2.68 years!
+
+veANGLE APY is still &gt; 400%! https://t.co/5WukTm2bwc",38,2,9,2022-01-17
+358,2022-01-18 10:23:19+00:00,1483384498733686787,AngleProtocol,"6/ If you don’t want to pay the gas fees, solution is probably to wait a bit at this point before cheaper alternatives get live!
+
+Different incentivizing options considered:
+- Lending agEUR on @RariCapital 
+- Deposits on @TokenReactor if we get a pair reactor there",4,1,0,2022-01-18
+367,2022-01-19 15:05:55+00:00,1483818008611115016,AngleProtocol,🔓 You have till 1am CET tomorrow to lock your ANGLE tokens to be eligible to the first set of protocol rewards distributed in a week!,20,0,3,2022-01-19
+370,2022-01-20 08:12:13+00:00,1484076282946199554,AngleProtocol,🔺 🤝 🇪🇺 https://t.co/wetbZWZFTH https://t.co/1F2WSSYYSq,19,3,1,2022-01-20
+373,2022-01-21 08:32:17+00:00,1484443723366912006,AngleProtocol,👀 https://t.co/uqxeIt5U6I,21,0,3,2022-01-21
+376,2022-01-24 09:31:40+00:00,1485545829184253954,AngleProtocol,"🐘 New governance proposal by @StakeDAOHQ to build a locker for veANGLE
+🥇 This is the first proposal that is going to be voted by veANGLE holders
+https://t.co/j4X5wVUFnf",34,1,2,2022-01-24
+382,2022-01-25 07:41:16+00:00,1485880434512834570,AngleProtocol,"After @Saber_HQ, there is a 2nd pool for agEUR on Solana thanks to @AtrixProtocol!
+
+🎆 @solana, get ready for Forex! https://t.co/3RyDqMYiW5",17,1,5,2022-01-25
+384,2022-01-26 22:05:00+00:00,1486460187074519042,AngleProtocol,"🛡️&gt;160% collateral ratio, higher than ever hedge ratios
+
+🌄 We may be in a bear market but agEUR has never been stronger than that!
+
+If you're wondering if agEUR is a solid stablecoin, you can also check this risk assessment for inclusion in @CurveFinance 
+https://t.co/POWNSNbPBg",17,0,3,2022-01-26
+387,2022-01-27 13:04:28+00:00,1486686544727621632,AngleProtocol,"💥 Rewards have been distributed for the first time to veANGLE holders
+
+They will share this week 162.73k sanUSDC_EUR worth $180k 💰
+
+🤗 APR for veANGLE holders is now 349%, with 17% of ANGLE circulating supply locked!",48,4,4,2022-01-27
+389,2022-01-28 22:45:00+00:00,1487195028804059140,AngleProtocol,Angle Community Call #4 will take place next Thursday (Feb 3rd) at 5pm CET on Discord 🕹️☎️,20,0,0,2022-01-28
+390,2022-01-31 08:03:09+00:00,1488060270421413889,AngleProtocol,"Thanks to the reduced entry fees, many new people opened long USD/EUR perps within Angle!
+
+😺Good for them: $ gained 1.4% last week with respect to the € and thanks to up to the 100x leverage offered, they made a cumulated profit &gt; $1.3m
+
+💱Angle is the place for Forex leverage!",29,0,6,2022-01-31
+391,2022-02-01 13:57:00+00:00,1488511704434679811,AngleProtocol,"🐛🔒 The scope of our $500k @immunefi bug bounty has been extended with the new contracts of the veANGLE upgrade!
+
+Check out: https://t.co/3rxIeXFtAk
+
+This upgrade also went through an audit by @chain_security:
+https://t.co/c4vT8bhcLp",16,0,1,2022-02-01
+394,2022-02-02 10:29:00+00:00,1488821747554177024,AngleProtocol,"🤔Seeking a new stablecoin to play with?
+
+🦍 agEUR is the most liquid € stablecoin, available in several chains, with many yield opportunities: Convex, Curve, Rari, Euler, @RevenantFinance, @pangolindex, ...
+ 
+Bonus: it's over-collateralized but can be minted at a 1:1 rate 🎈",24,2,4,2022-02-02
+395,2022-02-03 09:33:24+00:00,1489170146048495618,AngleProtocol,"🔔🕹️ Our community call will be at 5pm CET on our Discord!
+
+🐘 Some @StakeDAOHQ team members will be here to share details about their new locker!",23,0,3,2022-02-03
+396,2022-02-04 22:33:00+00:00,1489728724081782793,AngleProtocol,"🔔 Snapshot vote for the 4/6 governance multisig composition is live!
+
+🕹️ The proposed team is: @bneiluj, @0xMaki, @SebVentures, @GuillaumeNervo, @thePicodes and @pablo_veyrat 
+
+🗳️ If you own veANGLE, you can pronounce yourself here:
+https://t.co/OQGJTgvzxh",23,0,2,2022-02-04
+403,2022-02-07 18:14:54+00:00,1490750936830164994,AngleProtocol,"🎉🎓 We're launching today an Education Contest about the protocol with more than 3000 ANGLE rewards!
+
+https://t.co/pMG7IEMmMM
+
+#AngleContentContest 👇",17,2,3,2022-02-07
+409,2022-02-08 10:35:37+00:00,1490997740415090692,AngleProtocol,"🗳️ The governance multisig composition was voted favorably by veANGLE holders!
+
+🖊️ Angle Multisig will now be a 4/6 with: @0xMaki, @bneiluj, @SebVentures, @GuillaumeNervo, @thePicodes, @pablo_veyrat     
+
+An important step in pushing Angle towards more decentralization!",35,1,2,2022-02-08
+410,2022-02-09 20:50:00+00:00,1491514742518816769,AngleProtocol,"Finally!!
+
+🔓 Get to know the details about the first locker built on top of Angle! https://t.co/mo8qNL52Hf",46,2,5,2022-02-09
+413,2022-02-10 10:06:57+00:00,1491715302425571329,AngleProtocol,"🪖 Gauge wars also at stake on @solana's @Saber_HQ! 
+
+💣 So far, all good for Angle’s agEUR and @CeloOrg's cEUR with this week a &gt;5x on the APR thanks to veSBR votes https://t.co/9VZH4ik8sl",16,5,1,2022-02-10
+416,2022-02-11 17:08:10+00:00,1492183694626414593,AngleProtocol,"🎓 Don't forget that #AngleContentContest is still live!
+
+😀 Idea is simple: create any kind of content that helps spread awareness about Angle and explains something in a clear way: article, diagram, video, ... 
+
+✨ More than 3000 ANGLE rewards for winners! https://t.co/9izp8qkNjY",12,3,0,2022-02-11
+417,2022-02-14 16:29:29+00:00,1493261120555163648,AngleProtocol,"🤔 Interested in getting yield with Angle?
+
+💰 Our DAO Page summarizes all opportunities for stakeholders of the Angle ecosystem!
+
+https://t.co/9J3ZFFZERP",9,5,0,2022-02-14
+419,2022-02-16 07:54:27+00:00,1493856285686743041,AngleProtocol,"👻 New governance discussion on @AaveAave forum to list agEUR on Aave V3 on Polygon when it's deployed!
+
+🔥 agEUR could be launched:
+- in the V3 efficiency mode for stablecoins 
+- in isolation mode to reduce initial risk for the Aave protocol 
+
+https://t.co/4guvOm5LwQ",48,3,9,2022-02-16
+420,2022-02-17 07:37:00+00:00,1494214280312406018,AngleProtocol,"✨ Aave V3 could be the first lending market for agEUR on Polygon, but on mainnet you can already lend/borrow agEUR on:
+- @RariCapital 
+- @eulerfinance
+
+🤔 But ser, why would I borrow agEUR?
+It’s far cheaper than the yield you can get with agEUR (like 15% on @ConvexFinance)",23,3,0,2022-02-17
+422,2022-02-18 08:54:00+00:00,1494596045874991105,AngleProtocol,"🔓Smart contracts cannot own veANGLE unless they are whitelisted!
+
+🐘So far Angle DAO has voted to whitelist @StakeDAOHQ's locker!
+
+🌲Don’t miss the ongoing Snapshot vote to continue Angle/Tribe DAO partnership and whitelist a @feiprotocol smart contract
+https://t.co/avhOScMdmy",32,1,5,2022-02-18
+423,2022-02-19 14:35:00+00:00,1495044249359765509,AngleProtocol,"🔔 2nd Reminder of the day: #AngleContentContest is still Iive and running!
+
+🎨 3000 ANGLE rewards for those who produce the best piece of educational content on the protocol. 
+You have 1 week left!
+
+For context: 
+https://t.co/pMG7IF3XEk",11,1,1,2022-02-19
+425,2022-02-20 12:03:00+00:00,1495368385353420802,AngleProtocol,"💥 Simply dropping this here: after 5 days of discussion, a Snapshot vote has been created on Aave for agEUR support on the V3 on Polygon ⚡
+
+Support to allow every European DeFi users to get easy yield 👇
+
+https://t.co/PA4sMkKaGb",38,2,5,2022-02-20
+426,2022-02-21 17:55:34+00:00,1495819499030945792,AngleProtocol,"⚡ New Snapshot vote to upgrade perpetuals within the protocol!
+
+For now only the owner of a perp can claim its ANGLE rewards.
+
+😌 Upgrading would allow anyone to claim ANGLE rewards accruing to a perp on behalf of the owner, without any approval!
+
+https://t.co/NTdTLxi7O0",10,1,0,2022-02-21
+428,2022-02-22 09:13:00+00:00,1496050378701426688,AngleProtocol,"⚙️ We’ll be joining @GearboxProtocol risk-analytics call to discuss onboarding agEUR to their platform!
+
+Join here: https://t.co/HnIjCjVzeE",26,3,4,2022-02-22
+429,2022-02-23 08:35:24+00:00,1496403303340589058,AngleProtocol,"We have extended the scope of our $500k @immunefi bug bounty to include the contracts of our new governance system 🐛
+
+Check out 👇
+https://t.co/3rxIeXFtAk",9,0,1,2022-02-23
+431,2022-02-24 10:15:50+00:00,1496790969680740354,AngleProtocol,"🏖️ Looks like @CurveFinance agEUR-ibEUR LPs will start having some good time on @ConvexFinance next week!
+
+🤯 103% projected APR on the pool from CRV+CVX+rKP3R+ANGLE rewards on the pool! https://t.co/1JO1FMIpkT",25,4,2,2022-02-24
+432,2022-02-25 15:21:21+00:00,1497230241332436997,AngleProtocol,"Did you know? 🤔
+You can technically borrow agEUR out of USDC using Angle Protocol!
+
+🤗 If you have 1000 USDC, you can use 500 USDC to mint agEUR, and the 500 leftover USDC to open a 2x long USDC/EUR perpetual position with the protocol!",16,1,5,2022-02-25
+434,2022-02-26 07:27:00+00:00,1497473254591586304,AngleProtocol,"👀 Wen ETH as collateral for agEUR?
+
+https://t.co/GJbJYul3RW",20,1,2,2022-02-26
+435,2022-02-28 21:44:00+00:00,1498413701661179905,AngleProtocol,"🇪🇺 After @AaveAave, don't miss the new discussion on @compoundfinance's governance forum to list agEUR! 
+
+https://t.co/Nr6zpxZj5C",14,0,3,2022-02-28
+436,2022-03-01 08:48:32+00:00,1498580939290693633,AngleProtocol,"1/ New cover for Angle smart contracts is available on @InsurAce_io🛡️! 
+Angle users can purchase covers to protect their funds from the protocol smart contracts risks!
+
+Cover can be bought at a 5% discount using this link: https://t.co/eIovS5oL0g",9,1,0,2022-03-01
+438,2022-03-03 12:03:17+00:00,1499354722196668421,AngleProtocol,"5/🔥New debt-based minting module
+
+Borrow agEUR while keeping your exposure to your collateral (ETH, wBTC, ...)
+Let DAOs earn a passive yield on top of their idle treasury tokens
+Natively mint agEUR on other networks
+
+This will all be made possible with this new module!",4,1,0,2022-03-03
+444,2022-03-04 18:24:23+00:00,1499813016677793792,AngleProtocol,"📚 Over the last three weeks, we ran an #AngleContentContest to push community members to create and share their knowledge about Angle! 
+
+3 x 1000 ANGLE prizes plus two additionnal 500 ANGLE ones were awarded 🏆 
+
+Overview of the winners  🧵",9,2,0,2022-03-04
+452,2022-03-08 18:24:01+00:00,1501262477966954498,AngleProtocol,"👀 Soon minting agEUR from any collateral with the upcoming router contract!
+
+No more friction https://t.co/fFDhw1DYj8",15,0,2,2022-03-08
+454,2022-03-09 07:35:09+00:00,1501461571381481473,AngleProtocol,"First lending market on Polygon for agEUR! 
+
+🤔 How can you use this new @market_xyz pool?
+🧠 One idea: lend wETH, borrow agEUR, swap agEUR for wETH on @QuickswapDEX: you're now leveraged on the € variation of the price of ETH! https://t.co/c3CiJNmP84",13,0,3,2022-03-09
+456,2022-03-10 06:25:00+00:00,1501806305899683845,AngleProtocol,"💥 You can now buy insurance for Angle on @NexusMutual and reduce your risk within the protocol!
+
+🛡️ Cover up to $9.2m of your assets in Angle against smart contract risk for a 2.6% yearly cost!
+
+https://t.co/0T7caZRXcP",7,0,3,2022-03-10
+457,2022-03-11 11:31:47+00:00,1502245898461622279,AngleProtocol,"1/ 🇪🇺 This week, the European Central Bank announced that it would maintain its current negative interest rates policy.
+
+https://t.co/1XpkNKVFcW",9,1,2,2022-03-11
+459,2022-03-12 09:00:01+00:00,1502570095003852805,AngleProtocol,"🤯 What a crazy week for Angle Perpetual holders: with the high volatility in the EUR/USD market, they made a cumulative profit of $3m!
+
+To long the $ with leverage 👉  https://t.co/lH2kwHGci2",17,0,1,2022-03-12
+460,2022-03-14 18:27:02+00:00,1503437566032457731,AngleProtocol,"💪 Over $500m in cumulative volume for agEUR on DEX Trades since launch!
+
+🇪🇺 agEUR has become in 4 months the dominant € stablecoin for on-chain trades! https://t.co/i0TIhX1ZOf",33,1,3,2022-03-14
+461,2022-03-16 17:00:43+00:00,1504140619089907712,AngleProtocol,👻🌈 Big day for Angle as agEUR is joining the Aave Fam on @0xPolygon! https://t.co/GvbtkzlWPo,20,1,0,2022-03-16
+462,2022-03-17 16:01:23+00:00,1504488072859336707,AngleProtocol,"5/ Interact with the protocol from any token
+
+The router incorporates a swap feature through @1inch. 
+Users can now come in with virtually any token to be swapped to an accepted collateral then deposited into the protocol.",0,1,0,2022-03-17
+471,2022-03-18 14:42:26+00:00,1504830592122331138,AngleProtocol,"We’ll be in Barcelona next week to discuss stablecoins!
+
+Join us! https://t.co/xIh7yzzppF",18,1,2,2022-03-18
+472,2022-03-22 13:23:32+00:00,1506260288663953410,AngleProtocol,"🐘The first liquid locker built on top of the veANGLE is now live 💧
+
+You want to get exposed to the veANGLE upsides but remain liquid 👇
+https://t.co/zwuisZ1E4M https://t.co/dMOpMoc57S",25,0,4,2022-03-22
+474,2022-03-23 17:02:13+00:00,1506677709312860168,AngleProtocol,"10/ This is a potentially giant leap for the Angle Protocol! Read the whitepaper for the full alpha, discuss the proposed features and design! 🙏
+
+https://t.co/B2QqUnzxZG
+
+⚡ A Snapshot vote will soon be created! 
+
+WGMI https://t.co/TIdWnujDC3",5,0,1,2022-03-23
+484,2022-03-25 15:21:22+00:00,1507377107709665287,AngleProtocol,@lemiscate @QiDaoProtocol @terra_money 👀 https://t.co/YBQbwsrUCW,5,0,0,2022-03-25
+485,2022-03-28 13:44:55+00:00,1508439997195636742,AngleProtocol,"In case you missed it over the week-end, there’s a governance proposal to mint 1m agEUR and seed the @AaveAave agEUR market on @0xPolygon!
+
+Vote will be opened soon! This would be Angle first @fraxfinance's style Algorthmic Market Operation (AMO)
+
+👉 https://t.co/KpOaj1fxzL",15,0,3,2022-03-28
+486,2022-03-29 14:47:00+00:00,1508818008273215489,AngleProtocol,"👋🇪🇺 ZK Rollups, please welcome your first Euro stablecoin: agEUR!
+
+🤝 Thanks to @ZigZagExchange, agEUR is live on @zksync!
+
+Trade on the agEUR-USDC pair for under $1 gas and with almost no latency! More pairs coming soon! 🚀 https://t.co/UAWwl8BdO8",250,2,37,2022-03-29
+488,2022-03-31 18:13:16+00:00,1509594692480081921,AngleProtocol,"💰📐 You can now buy $ANGLE tokens from any supported token (ETH, USDC, DAI, ...) on the Angle app!
+
+Minimize your slippage thanks to the optimized routes provided by @1inch 👇
+https://t.co/4nav0zAhta https://t.co/AbrMMNLWoT",15,1,1,2022-03-31
+489,2022-04-01 08:30:41+00:00,1509810468310892549,AngleProtocol,"19.27% yield for lending agEUR on @eulerfinance!
+
+🇪🇺 This is the largest single-sided staking opportunity on € on Ethereum!
+
+ 🦘 A giant leap for DeFi which is getting more accessible to all its European users who want yield without having to worry about change risk https://t.co/trQtHz4YrJ",33,1,4,2022-04-01
+492,2022-04-02 07:21:00+00:00,1510155319787212811,AngleProtocol,"🧊 Code for our upcoming Borrowing module has been frozen for audit!
+
+🌱 ETA ~ End of May!",32,2,1,2022-04-02
+493,2022-04-05 08:36:57+00:00,1511261596269617153,AngleProtocol,"🗳️⚡ A vote to launch a new @AaveAave folding strategy on USDC and DAI is live
+
+https://t.co/hO2YboYPGA",6,0,0,2022-04-05
+495,2022-04-06 16:53:00+00:00,1511748819729321984,AngleProtocol,"😌🎉 You can now mint agEUR from almost any asset in the Angle app!
+
+🦄 The protocol fetches from @1inch the best route to USDC, performs the swap and then mints from there: all in one tx!
+
+Permit logic has also been included so no need to pay for expensive token approvals! https://t.co/rWatqyqMSd",29,2,3,2022-04-06
+496,2022-04-07 15:49:08+00:00,1512095135034658821,AngleProtocol,"Should Angle mint 1m agEUR on @eulerfinance? 
+
+🗳️ veANGLE holders, you can vote here 👇
+
+https://t.co/teuiYqvDrq",7,4,0,2022-04-07
+497,2022-04-08 14:34:24+00:00,1512438718400974852,AngleProtocol,"1/ After a successful DAO vote this week 📐, please meet the new born of the Angle ecosystem: our @AaveAave folding strategy 👇
+
+https://t.co/0qeNNoFUQ6
+
+😺 This strat already improves by more than 50% the yield strategy we had in place!",16,5,2,2022-04-08
+502,2022-04-12 06:58:59+00:00,1513773659181232128,AngleProtocol,"📐 Following the success of the Snapshot vote, Angle governance has just minted 1m agEUR on @eulerfinance !
+
+🇪🇺 agEUR is now the cheapest asset to borrow out there! https://t.co/T9vGjHKRzP",20,1,2,2022-04-12
+503,2022-04-13 06:47:44+00:00,1514133214847287297,AngleProtocol,"🍨 After a successful DAO vote, liquidity staked in Angle @gelatonetwork agEUR-ETH and agEUR-USDC pools will be migrated to @Uniswap pools with lower fees (0.01% for agEUR-USDC and 0.05% for agEUR/ETH) on Tuesday 19th of April 🌳",18,1,0,2022-04-13
+506,2022-04-14 19:27:49+00:00,1514686883887988740,AngleProtocol,"@APWineFinance eagEUR, CVX3EUR, sanUSDC_EUR, the list is long!",7,1,1,2022-04-14
+510,2022-04-15 17:16:05+00:00,1515016118775209992,AngleProtocol,"📐 Having a hard following everything that’s going on at Angle?
+
+Every week, we’re posting recaps of our latest advancements on Discord! 😊
+
+This week in brief 🗞️ https://t.co/w46H1Nbu4M",12,1,0,2022-04-15
+512,2022-04-16 07:23:00+00:00,1515229253222035456,AngleProtocol,"Our borrowing module is in the middle of its audit!
+
+⏭️ Soon: borrow agEUR or get cheap instant leverage on volatile assets, yield bearing or LP tokens!
+
+⚔️🇪🇺 A revolution in the Forex DeFi space is coming...",25,2,6,2022-04-16
+513,2022-04-18 10:20:40+00:00,1515998741156835332,AngleProtocol,"13/💪European institutions or DeFi users will not be the sole users of agEUR: anyone interested in getting yield, leverage or in a means of payments should use it at some point! 
+🇫🇷 Future of France is on its way!",5,0,1,2022-04-18
+526,2022-04-19 13:35:00+00:00,1516410033973735431,AngleProtocol,"Angle is the first protocol to offer:
+- Perpetual futures without any funding rate
+- Instant leverage on Forex 💱
+
+📐 Long the $ (short the €) with up to a 100x leverage! 
+
+💰 Last week, our traders made a $2.5m gain with the increase of the $ price
+
+👉 https://t.co/lH2kwHoBqu",13,1,1,2022-04-19
+527,2022-04-20 06:29:00+00:00,1516665215022256129,AngleProtocol,"🍨Our @gelatonetwork liquidity has been migrated to lower fee pools!
+
+📐 You can now swap:
+- USDC and agEUR with 0.01% fees
+- ETH and agEUR at 0.05%
+
+🇪🇺 agEUR is now one of the cheapest and most liquid asset to trade with on @Uniswap 🦄",25,2,2,2022-04-20
+528,2022-04-22 15:29:04+00:00,1517525904850886657,AngleProtocol,"🗳️ Following a DAO vote, ANGLE incentives to @QuickswapDEX agEUR-USDC pool will be routed starting next Thursday to a @gelatonetwork-UNI agEUR-USDC (0.01%) pool on @0xPolygon!
+
+📐 Check out our Discord announcement for more details
+
+🍨 UI to stake on Gelato will follow soon!",16,0,4,2022-04-22
+529,2022-04-23 10:52:00+00:00,1517818564820054017,AngleProtocol,"📐⚡ Don’t miss our latest DAO vote to add wETH as a collateral for the Angle Protocol!
+
+https://t.co/ArnTj9XnsR
+
+A potentially big change which would notably open the gates to ETH-EUR perpetual futures with no funding rates 🤯👀",19,1,1,2022-04-23
+530,2022-04-26 09:32:28+00:00,1518885713495867392,AngleProtocol,"We’re beyond excited to announce our partnership with @mtpelerin ! 🎉
+
+Mt Pelerin is one of the cheapest on/off ramp service in crypto with fees as low as 0% https://t.co/wNiYOWdNRM",23,3,6,2022-04-26
+531,2022-04-27 07:44:07+00:00,1519220835940282371,AngleProtocol,3/ 📐 Staking of you G-UNI tokens takes place on Angle's staking page: https://t.co/9J3ZFFZERP https://t.co/3kHgEc8vWq,1,0,0,2022-04-27
+535,2022-04-28 16:43:43+00:00,1519719017870680069,AngleProtocol,"🔱 agEUR now has a @chainlink feed on @0xPolygon!
+
+💪 Lending, derivatives, stablecoin protocols can now all integrate agEUR and get an accurate price for it!
+
+👇
+https://t.co/ne2ujl5zro
+
+🇪🇺 Euro is coming to DeFi faster than expected 👀",10,0,1,2022-04-28
+536,2022-04-29 11:58:56+00:00,1520009739425533955,AngleProtocol,"5/ 💱 At the moment, it has been voted to only allow the emissions of 5m agEUR from ETH, but governance will be able to calibrate this threshold!",2,1,0,2022-04-29
+542,2022-05-02 18:05:39+00:00,1521189190075043843,AngleProtocol,"🇪🇺⚡ agEUR is a stablecoin built for payments!
+
+📖 We wrote a quick guide to explain how you can leverage our powerful partners @RequestNetwork, @Superfluid_HQ and @mtpelerin to pay and get paid in agEUR!
+
+👀 Some companies are already using it...
+
+👉 https://t.co/olPUTiq051 https://t.co/IC0Sjn9Ghg",70,2,16,2022-05-02
+543,2022-05-03 15:04:00+00:00,1521505862170382337,AngleProtocol,"ANGLE is currently running for Tokemak CoRE 3 event! 
+
+┻┳ 📐Beyond increasing utility for the ANGLE token, an ANGLE reactor would reinforce the symbiotic relations between our communities which could materialize with an agEUR pair reactor!
+
+Vote here👇
+https://t.co/9uSJ1G318b",9,1,1,2022-05-03
+544,2022-05-05 08:18:58+00:00,1522128707527266304,AngleProtocol,$agEUR 🤝 Fuse https://t.co/bD3B9Sa4Lx,10,0,1,2022-05-05
+546,2022-05-06 17:21:23+00:00,1522627601151545344,AngleProtocol,"7/ 📈 Besides, while on common lending protocols, the borrowing rate increases as more people borrow, on Angle, this rate is going to be fixed meaning it’ll also be cheaper to borrow on Angle, even at a large scale!",0,1,0,2022-05-06
+555,2022-05-09 16:18:00+00:00,1523698811532681217,AngleProtocol,"📐Our Liquidity as a Service program with @Paladin_vote on @OndoFinance has officially started!
+🛡️Enjoy increased PAL liquidity through agEUR!
+
+If you’re a DAO launching a token, instead of incentivizing a pair with costly emissions, use agEUR LaaS and get free liquidity💶",25,0,5,2022-05-09
+556,2022-05-10 08:45:47+00:00,1523947398283866112,AngleProtocol,"Angle's mission is not all about bringing new types of stablecoins to DeFi, it's also about democratizing web3, and it starts with on-ramping the best talent 🧠! https://t.co/1hfl0l3A3w",17,0,5,2022-05-10
+557,2022-05-11 06:42:56+00:00,1524278867271340032,AngleProtocol,"📐 $agEUR has just passed the landmark of €5bn of transaction volume!
+
+🇫🇷🇪🇺 Bear market or not, future of France is definitely on its way! https://t.co/p4qLRh2llT",57,3,9,2022-05-11
+559,2022-05-12 16:19:48+00:00,1524786427162238977,AngleProtocol,"6/ 🛣️Coming months may be harder, the road ahead of us is long and eventful, but we’ll always keep building, learning and delivering robust decentralized and permissionless stablecoins.
+
+More than ever, in these difficult times, we stand with this idea ✨
+https://t.co/ExRIxRqdI9",5,0,0,2022-05-12
+567,2022-05-13 13:51:05+00:00,1525111392512229379,AngleProtocol,"🎉 Increased CRV and CVX rewards to come on the @CurveFinance 3EUR pool!
+
+🇪🇺 If you want to an easy yield on € without being exposed to market volatility, here is the place 👇
+
+https://t.co/t3NH1KgfbG https://t.co/awvLBr6PPI",7,2,4,2022-05-13
+568,2022-05-17 15:13:02+00:00,1526581564208979968,AngleProtocol,"16/ Have more questions on Angle model: check out our docs 👇
+
+https://t.co/wM4xYvDqdp",4,0,0,2022-05-17
+584,2022-05-19 12:47:40+00:00,1527269760030892032,AngleProtocol,"5/
+We have written some guides on how to leverage agEUR to boost your DAO/Company operations
+
+Check out 👉 https://t.co/olPUTiq051",0,0,0,2022-05-19
+591,2022-05-20 08:35:06+00:00,1527568586562215936,AngleProtocol,"🚀 How to best take advantage of it?
+
+1. Buy 500 agEUR from: https://t.co/Jptg1Q76bc
+
+2. Add liquidity on @CurveFinance 
+
+3. Stake your LP tokens on @Jarvis_Network to enjoy an easy &gt;20% yield:
+🔗 https://t.co/YKPucgkyzI
+
+All on @0xPolygon so minimal transaction fees!",17,1,2,2022-05-20
+593,2022-05-22 16:55:38+00:00,1528419324465188866,AngleProtocol,"🪙 Angle’s mission is to bring decentralized money to everyone.
+📉 With last week events, it became even clearer that getting DeFi mainstream required significant education efforts.
+
+📖 At Angle, we have thus decided to take our share in making DeFi more intelligible to everyone! https://t.co/1gIwClbevY",21,1,5,2022-05-22
+600,2022-05-24 12:44:03+00:00,1529080787689250817,AngleProtocol,"🤔 Wondering what our borrowing module brings? 
+
+Check out our docs 👇
+
+https://t.co/I2kIR932XV",3,1,0,2022-05-24
+603,2022-05-25 13:17:56+00:00,1529451703057137664,AngleProtocol,"🐻 Bear market?
+
+📐 Get a reliable revenue on agEUR!
+- 19% on Convex
+- 2.14% on @eulerfinance
+- 1.03% on Aave
+
+If you’re a DAO (European or not) looking to earn some yield on your treasury, you now know the drill 🪖
+
+🇪🇺You can even buy agEUR at 0.01% from USDC",14,0,4,2022-05-25
+604,2022-05-26 15:30:24+00:00,1529847428282994688,AngleProtocol,"🤔 Have you ever wondered how Angle was able to provide yield to its liquidity providers and token holders?
+
+🏢 Check out this governance post:
+https://t.co/oB19rSp4t0
+
+We also discuss potential future integrations leveraging @LidoFinance's stETH, @eulerfinance or @MorphoLabs!🦋",9,0,1,2022-05-26
+605,2022-05-27 14:20:27+00:00,1530192210465103874,AngleProtocol,👀 https://t.co/nbGwFMr8gV,28,3,3,2022-05-27
+606,2022-05-29 10:51:14+00:00,1530864334431305728,AngleProtocol,"...there is a high chance it creates a death spiral. 
+
+This death spiral is even more likely with a stablecoin stronger than the $.
+
+So we can rule out this case for today.",2,1,0,2022-05-29
+639,2022-05-30 10:30:34+00:00,1531221521905111041,AngleProtocol,"🦙 You can now explore most of Angle-related yields on @DefiLlama !
+
+👉 https://t.co/YvfuauF54i https://t.co/etw78gK9aE",15,1,1,2022-05-30
+640,2022-05-31 16:20:51+00:00,1531672061915144193,AngleProtocol,"📐 Exciting times ahead for the Angle community! 
+
+👀 Join us on Discord for the whole alpha! https://t.co/b62oU8j1AI",10,0,2,2022-05-31
+641,2022-06-01 16:06:51+00:00,1532030929220280320,AngleProtocol,"🥳 We’re beyond excited to introduce Angle new app!
+
+1/ https://t.co/2GV41pVdGd",32,2,6,2022-06-01
+648,2022-06-02 15:14:57+00:00,1532380253942857728,AngleProtocol,"With our new branding yesterday came a fully-refreshed landing page!
+
+🏦🇪🇺 If you’re an institution looking for a way to keep your € without having to pay your bank interest for simply holding it, this is probably where you want to get started!
+
+👉 https://t.co/Ir0UypUInW https://t.co/M54eOyjZwb",19,2,3,2022-06-02
+649,2022-06-03 14:16:08+00:00,1532727838247464961,AngleProtocol,"💱 Want to get rid of your volatile assets and gain exposure to the € with low fees and almost zero slippage?
+
+📐 Our new app is designed to fetch the best routes to let you get agEUR from a wide range of possible tokens!
+
+https://t.co/9SkyOShNl5 https://t.co/wnPJyGax33",6,0,2,2022-06-03
+651,2022-06-05 11:50:54+00:00,1533416066763919360,AngleProtocol,"Next week, we’ll keep exploring new governance innovations, with among other things one we’re very familiar with at Angle: @StakeDAOHQ's liquid lockers!",6,0,1,2022-06-05
+669,2022-06-06 12:06:52+00:00,1533782472172912643,AngleProtocol,"💶Angle is making a € stablecoin, but not only
+
+💱Our Forex perpetual futures enable traders to long the $ / short the € with up to a 100x leverage and no funding rate.
+
+Since our launch in Nov, with the 8.5% increase of the $ over the €, Angle FX traders made &gt;$3m of profits! https://t.co/mCT1tEBuSf",9,2,4,2022-06-06
+671,2022-06-07 05:34:24+00:00,1534046093125767170,AngleProtocol,@sohrab Nope it’s not us,1,1,0,2022-06-07
+673,2022-06-08 15:58:37+00:00,1534565572167487490,AngleProtocol,"DeFi is an inconstant market but some things will never change…
+☺️ Angle Standard Liquidity Providers are still getting a &gt; 4% yield on their deposited DAI, FEI and FRAX!
+
+💰 As a SLP, gain from:
+- the protocol’s yield strats
+- tx fees
+- ANGLE incentives
+
+https://t.co/5Obiv1YFfY https://t.co/57w4B3Bvcy",7,1,4,2022-06-08
+674,2022-06-09 14:04:24+00:00,1534899216828489728,AngleProtocol,"🤝Partnering with @SpoolFi to bring more users to agEUR!
+
+Time to make getting yield on € a norm for European DeFi users 🇪🇺 https://t.co/4n1xxI5SKS",14,4,4,2022-06-09
+675,2022-06-10 15:50:51+00:00,1535288391637651462,AngleProtocol,"In these times of uncertainty, remember that there are solid insurance protocols making DeFi safer!
+
+🛡️ @InsurAce_io and @NexusMutual are part of these. Thanks to them you can buy cover on Angle and get protected against the smart contract risk!
+
+🔗 https://t.co/wM11pB7Fun https://t.co/pVJj8bZ09S",7,2,4,2022-06-10
+676,2022-06-12 18:17:52+00:00,1536050165798379521,AngleProtocol,"Many think that power centralization is an issue, whether it’s coming from government or big tech companies. There might be a solution laying somewhere in crypto…
+
+Keep buidling!",4,1,0,2022-06-12
+707,2022-06-13 10:49:26+00:00,1536299701242298368,AngleProtocol,"No liquidation on Angle in the past 48h hours.
+
+🤔Why so? 
+agEUR is over-collateralized at &gt;175% by other USD stablecoins: it is completely unaffected by recent market dynamics.
+
+🙏Stay safe everyone and never forget that stablecoins are here to protect from market volatility https://t.co/CMRq9taEbY",37,3,8,2022-06-13
+708,2022-06-16 10:50:10+00:00,1537387049992716288,AngleProtocol,"🛣️ Our buy ANGLE page integrates @1inch routes to let people get ANGLE tokens at the best market rate from almost any token and with the smallest slippage possible
+
+Bear market means it’s possible to buy tokens at a discount… 👀
+
+🔗 https://t.co/XtXWbLnnXv https://t.co/7CCDLLBsBO",31,5,5,2022-06-16
+709,2022-06-17 14:49:42+00:00,1537809718516797447,AngleProtocol,@1inch @symbiosis_fi Still the first step of the integration! Lots more ways with which the 1Inch API will make the life of our users easier,0,0,0,2022-06-17
+711,2022-06-19 08:13:04+00:00,1538434678125903872,AngleProtocol,"Pushing this further, they could even become the ones powering financial activities in the real world. 
+
+We are already seeing this happen with protocols linking on-chain lenders to real world borrowers, like @goldfinch_fi, @maplefinance, or @AtlendisLabs.",6,3,0,2022-06-19
+743,2022-06-21 08:35:22+00:00,1539165063109541888,AngleProtocol,"🛣️ The road ahead is still long and there’s a lot of work to do! 
+
+But this module, in combination with what we’ll now call our Core module, puts us in a good position to achieve building a decentralized permissionless and uncensorable money layer! https://t.co/XvOSTvlzQ4",1,0,0,2022-06-21
+753,2022-06-22 13:40:30+00:00,1539604244222951424,AngleProtocol,Guess who's back on @gnosisSafe app? https://t.co/JF4pFd8vMd,10,0,1,2022-06-22
+754,2022-06-23 15:42:08+00:00,1539997241301209088,AngleProtocol,"🚀 Note that this is a continuous long-lasting program meaning every two weeks people will be rewarded with ANGLE tokens, so no need to rush...
+
+😉 You have the whole bear market to gain and spread knowledge on the protocol!",1,0,0,2022-06-23
+759,2022-06-24 13:21:42+00:00,1540324286778441728,AngleProtocol,"🔬 Angle Algorithmic Market operations in action 
+
+⚙️Following a governance vote, 2.6m agEUR have been minted by the protocol to @eulerfinance.
+
+💰 Borrowing rate is now &lt;3%! https://t.co/N7jAv1dtC3",9,3,0,2022-06-24
+761,2022-06-26 09:51:58+00:00,1540996280117239808,AngleProtocol,"Another interesting trade-off would be to decrease the size of liquidations, but increase their quantity. 
+
+The health factor / LTV after liquidation would be lower, and a smaller drop in price would cause another liquidation.",1,1,0,2022-06-26
+791,2022-06-27 13:09:44+00:00,1541408438898638849,AngleProtocol,"⚡ agEUR flash minting is here ⚡
+
+Angle is now providing 3m in ERC3156-compliant free flash mints. https://t.co/JlWE5aojsA",20,1,7,2022-06-27
+794,2022-06-28 12:31:18+00:00,1541761155907174401,AngleProtocol,"We've set up a Telegram announcements channel to share the latest project updates 💬
+
+Join us ⚡ 
+https://t.co/9CPTEIn30S",9,0,0,2022-06-28
+795,2022-06-29 10:04:35+00:00,1542086618424680452,AngleProtocol,"✨ We've rebranded our gauge page for veANGLE holders to seamlessly vote on the allocation of weekly ANGLE emissions!
+
+Emission rates are updated every Thursday at 00:00 UTC.
+
+🗳️ Go vote: https://t.co/aUII1mNpU4 https://t.co/P41rhrPCOb",8,2,0,2022-06-29
+797,2022-07-01 07:02:01+00:00,1542765453218660352,AngleProtocol,"Angle has continuously been making a revenue and growing its reserves since its launch, even with the bear market💰
+
+Check the history of the rewards distributed in the lock page of our app. https://t.co/9LaT1MM2qs",5,0,0,2022-07-01
+799,2022-07-03 11:20:12+00:00,1543555200346198016,AngleProtocol,"A more recent and popular DeFi product relies heavily on liquidity, as their name suggests: liquid lockers. 
+
+Basically they are protocols offering liquid versions of non-transferrable veTokens, that can be bought and sold for the underlying.",1,1,0,2022-07-03
+827,2022-07-06 11:14:01+00:00,1544640809227751424,AngleProtocol,"⚡ Angle is also about iterating fast, so if you see any way in which we can improve the API, please let us know! 
+
+We’ve framed a contribution program to incentivize such initiatives: https://t.co/GIDysHtby0",1,0,0,2022-07-06
+830,2022-07-07 13:41:31+00:00,1545040315148423168,AngleProtocol,"🌉 Thanks to @PlentyDeFi, bridge your $agEUR seamlessly to the @tezos ecosystem! https://t.co/EytBJIC6C8",32,1,7,2022-07-07
+831,2022-07-08 14:21:48+00:00,1545412843121643520,AngleProtocol,"1/ 🎉 As we feel that our users deserve to know exactly what they are signing for when launching a transaction, it's now possible to simulate all the tx of the Angle App on @TenderlyApp before actually launching them 💻 https://t.co/nLQUG1mlbd",17,2,2,2022-07-08
+834,2022-07-10 12:17:20+00:00,1546106292799930369,AngleProtocol,"Today @0xteddav explains Assembly! 
+
+Check out one of the most comprehensive courses out there to start optimizing your smart contracts with Yul! https://t.co/yGkukkSoF4",3,0,0,2022-07-10
+835,2022-07-11 15:09:20+00:00,1546511967472549889,AngleProtocol,"🥳 Angle Borrowing module is live on @0xPolygon!
+
+🇪🇺 Borrow agEUR, get leverage on MATIC and wETH in a capital-efficient manner, with greatly limited liquidation and transaction costs.
+
+👉 https://t.co/ZqA19sr9O9
+
+https://t.co/MK5HhMr6BJ",12,1,1,2022-07-11
+836,2022-07-17 08:50:10+00:00,1548590874120036352,AngleProtocol,"This week @thePicodes explains Automated Market Makers ! 
+
+Check out his article and our simulation page, built to decide Uniswap V3 ranges and simulate APRs before LPing. https://t.co/WWpnAzNAfE",4,1,1,2022-07-17
+837,2022-07-26 14:10:41+00:00,1551933026132713480,AngleProtocol,"After months of hard work, this is it!🥳
+
+We're bringing Forex to @arbitrum with the deployment of our Borrowing module💙
+
+🇪🇺 Borrow agEUR to gain some € exposure or get a capital-efficient leverage on wETH and USDC with minimized liquidation penalties
+🔗 https://t.co/ZqA19sr9O9 https://t.co/eryzB3pj1F",69,3,15,2022-07-26
+839,2022-07-28 13:29:27+00:00,1552647424576851969,AngleProtocol,"6/6
+
+Want to learn more? We’ve compiled some resources for you!
+
+📚 Docs: https://t.co/I2kIR9kDPt
+
+📝 Contract addresses: https://t.co/FpOtbAmV0S
+
+🔍 Audits: https://t.co/9TXApQVrze",1,0,0,2022-07-28
+845,2022-07-31 16:04:40+00:00,1553773651731914752,AngleProtocol,"As the Angle Borrowing module has recently been deployed on different rollups (cc @arbitrum, @optimismFND), @thecryptogus explains how rollups work and the main differences between optimistic and zero-knowledge rollups 👇
+
+https://t.co/XH4DWLXm8G",11,4,3,2022-07-31
+847,2022-08-02 16:04:26+00:00,1554498365592899584,AngleProtocol,"🦙 New gauge vote created on @CurveFinance by @CeloOrg for a cEUR-EUROC-agEUR pool!
+🗳️ https://t.co/qzVMm5flCu
+
+Why is it important to vote?
+📖 Check out this proposal: https://t.co/0XWtAVbCkH",31,4,8,2022-08-02
+848,2022-08-03 14:38:43+00:00,1554839184627552258,AngleProtocol,"agEUR’s first pool on @AtlendisLabs is live 🎉
+
+🏦 Earn ~8% by lending agEUR to Sirox, which will use it to cover the short-term capital needs of SMBs.
+
+🇪🇺 Under-collateralized lending is the future of DeFi and agEUR is the first Euro stablecoin to offer this use case! 📐 https://t.co/6V8pJN8EJ4",14,2,1,2022-08-03
+849,2022-08-05 09:38:45+00:00,1555488470075904005,AngleProtocol,"📐 We're excited to announce that Angle has integrated with @LayerZero_Labs' cross-chain messaging solution to enable immediate and secure $agEUR bridging between Ethereum, @0xPolygon, @optimismFND and @arbitrum!
+
+https://t.co/byp3XPOEFY",36,2,9,2022-08-05
+850,2022-08-07 08:24:53+00:00,1556194655670255618,AngleProtocol,"Today as part of our Angle Explains series, @pablo_veyrat explains how interest rates are compounded in protocols like @CompoundFinance, @MakerDao, @AaveAave
+
+A technical deep-dive, but worth looking if you’re using lending and/or stablecoin protocols https://t.co/3psTrXvpad",7,2,0,2022-08-07
+851,2022-08-11 12:08:53+00:00,1557700578326859776,AngleProtocol,"Our scripts are by the way all open-source:
+
+https://t.co/lbn8yxyfEw",9,0,1,2022-08-11
+857,2022-08-14 07:18:16+00:00,1558714608155860992,AngleProtocol,"Today, as part of our Angle Explains series, @pablo_veyrat tries to address a problem from @danrobinson about collateralization dependent interest rates in stablecoin protocols.
+
+An exploration of a new framework for future protocols to be built: https://t.co/buIL4Zm8b1",8,1,0,2022-08-14
+858,2022-08-16 17:31:12+00:00,1559593632444850178,AngleProtocol,"🐇 Good news for all those who are deep in the Angle rabbit hole: we’ve revamped our Analytics UI!
+
+📐 Enjoy a nicer, sleeker interface when tracking Angle protocol metrics 📊
+
+👉 https://t.co/dbRML0t01b https://t.co/2fO3p35jmH",19,2,2,2022-08-16
+859,2022-08-23 10:00:19+00:00,1562016878167334913,AngleProtocol,"🥳 $OP on @optimismFND, and $wBTC on @0xPolygon and @arbitrum are $agEUR newest collateral assets! https://t.co/eeLBuqLMdI",24,3,4,2022-08-23
+863,2022-09-02 06:37:58+00:00,1565589836781813760,AngleProtocol,"📐 Ahead of the Merge is a good time to remind that if you want to take a bet on the ETH price, Angle is one of the safest place where to get leverage on-chain!
+
+🔗 https://t.co/ZqA19sr9O9 https://t.co/EK1WB8leCw",14,1,2,2022-09-02
+864,2022-09-06 14:31:46+00:00,1567158621925957632,AngleProtocol,🎉 Enjoy new lending markets for $agEUR and $ANGLE on https://t.co/8ecHxzrT1W! https://t.co/OCstTCgmx1,10,3,3,2022-09-06
+865,2022-09-07 10:00:12+00:00,1567452665990492161,AngleProtocol,"If you want to support this vote for the pool to accumulate CRV rewards and grow, you can do it here 🗳️👉
+
+👑 On @ConvexFinance: https://t.co/Bf0qOHjPdV
+
+🐘 On @StakeDAOHQ: https://t.co/gkB0bV1LWn
+
+🦙 On @curvefinance: https://t.co/b21fh9CTSh",2,0,0,2022-09-07
+870,2022-09-08 10:00:46+00:00,1567815197011869696,AngleProtocol,"@LiquityProtocol’s $LUSD is $agEUR’s newest collateral asset!
+
+Angle is one of the first places where to borrow with LUSD!
+
+Borrow agEUR from LUSD for 0.5% a year and either farm with your borrowed agEUR or immediately swap them to LUSD to take a leveraged bet on the $/€ price! https://t.co/J0gFwt2Gpk",25,0,7,2022-09-08
+871,2022-09-11 09:09:33+00:00,1568889474720960513,AngleProtocol,"Today, as part of our Angle Explains series, @thecryptogus explains the changes in block validation in ETH2.0 and how it opens the network to new MEV opportunities 👇
+
+https://t.co/SxlZPk6pdD",25,8,2,2022-09-11
+875,2022-09-15 09:53:28+00:00,1570350076504965120,AngleProtocol,"Angle goes greener today🍀
+
+Thanks to all the devs which contributed to the success of the Merge! https://t.co/97AaihJVga",12,1,4,2022-09-15
+876,2022-09-18 09:16:03+00:00,1571427823780503552,AngleProtocol,🙌 This system works for Angle but it could be used by any DAO willing to incentivize UniV3 liquidity in the most efficient way possible while leaving LPs a maximum flexibility in terms of how they provide their liquidity!,3,0,0,2022-09-18
+878,2022-09-19 10:34:13+00:00,1571809880981504000,AngleProtocol,"If you’re an Angle Borrowing module vault owner and recently checked your NFTs on @Opensea, you may have seen a little surprise! 🎁
+
+📐 Vaults now come with a unique piece of on-chain generative art, derived from the properties of the underlying position 🎨 https://t.co/U49DwyOKc2",16,3,2,2022-09-19
+879,2022-09-20 15:10:05+00:00,1572241694686605313,AngleProtocol,"📐 Angle App now integrates @LayerZero_Labs Scan to make the bridging experience smoother!
+
+🌉 Users can now bridge agEUR between Ethereum, Poly, Opti and Arbi and keep track of the status of their bridge transaction from the source to the destination chain in just one place. https://t.co/YRBpByokp2",46,6,8,2022-09-20

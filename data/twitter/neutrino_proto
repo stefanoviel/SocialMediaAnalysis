@@ -1,0 +1,495 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-10 09:25:05+00:00,1215565211152912384,neutrino_proto,"New feature incoming: buying USD Neutrino bonds with Waves tokens is becoming possible today. 
+
+⚠️ Please note that due to the release of this feature, today, all current bond buying orders will be canceled and some dApp services may become temporarily unavailable until 12pm UTC.",43,2,21,2020-01-10
+2,2020-01-11 15:44:38+00:00,1216023115786080256,neutrino_proto,"@waves_io https://t.co/vouwfQ2F4T
+
+⚠️ We're experiencing difficulties with releasing the new feature and we have to postpone the release until Monday (13 Jan).",2,0,1,2020-01-11
+3,2020-01-14 11:31:45+00:00,1217046642211393536,neutrino_proto,We are happy to announce the completion of a new feature release — buying USD Neutrino bonds with Waves tokens! This is a crucial update to the bond system of Neutrino — find out more about the implementation here: https://t.co/L250BZBR5R @wavesplatform @wavescommunity https://t.co/7zqZji6Gau,24,0,13,2020-01-14
+4,2020-01-20 17:40:56+00:00,1219313874228387841,neutrino_proto,We announce a large enhancement in Neutrino usability — now you can use our dApp on any browser or device (including mobile) via Waves Signer: https://t.co/tJCguzUYwf @wavesplatform @wavescommunity @Waves_Exchange https://t.co/D1XChbiuet,66,1,31,2020-01-20
+5,2020-01-31 18:49:03+00:00,1223317282824314880,neutrino_proto,Neutrino US Dollar (#USDN) has been listed on @coingecko: https://t.co/mobMt5qERw @wavescommunity @Waves_Exchange #Stablecoin #DeFi https://t.co/4qIJhDJyvO,64,2,24,2020-01-31
+6,2020-02-17 08:12:44+00:00,1229317744643989505,neutrino_proto,"@WEGenoIII hey, sure we're working on #collider_protocol which is designed to generate hundreds of synthetic assets pegged to popular stocks, currencies, indices and commodities",0,1,0,2020-02-17
+7,2020-03-06 12:25:30+00:00,1235904335067910144,neutrino_proto,"Within just four months after beta launch, USD Neutrino has hit a major milestone of $5 million TVL (Total Value Locked)! It took Tether over a year to reach this landmark. Find out more: https://t.co/UWBg70Xq5g @wavesplatform @wavescommunity @Waves_Exchange  #DeFi $USDN https://t.co/8lNRMzQQ2c",61,1,20,2020-03-06
+8,2020-03-09 15:48:21+00:00,1237042550206316544,neutrino_proto,Introducing Neutrino Protocol 2020 - Vision &amp; Challenges. Read our proposal: https://t.co/xymVdKbSzV We invite the @wavescommunity to join us on our path to build the future of open-source decentralized finance! @sasha35625 @AlekseiPupyshev #DeFi $usdn https://t.co/NQHuE9gRS7,51,3,24,2020-03-09
+9,2020-03-13 17:03:41+00:00,1238511060648374272,neutrino_proto,"📉 Due to the ongoing market instability, an automatic shutdown of Neutrino contracts occurred. This system was put in place as a defence against erratic price feeds and black swan market events. After the restart, Neutrino is fully operational again. Thank you for your patience!",30,2,6,2020-03-13
+10,2020-03-17 17:38:58+00:00,1239969491187937281,neutrino_proto,📄 The technical documentation of Neutrino Protocol is hosted at https://t.co/04e3ad3g7s @wavesplatform @waveslabs @wavescommunity @sasha35625 @AlekseiPupyshev https://t.co/TpWENVt3ux,45,2,17,2020-03-17
+11,2020-03-18 17:46:28+00:00,1240333765412618240,neutrino_proto,"A major new update: USDNB becomes $NSBT (Neutrino System Base Token), with a higher decimal precision and a potential for greater new utility. Find out how to migrate your tokens: https://t.co/jfgcjgaAYK @wavesplatform @waveslabs @wavescommunity https://t.co/AX4ZADhMK6",35,1,16,2020-03-18
+12,2020-04-01 12:36:36+00:00,1245329214070493186,neutrino_proto,"wow!
+more tokenisation cases for @neutrino_proto col 🌽 https://t.co/0ccT1eDNKW",11,0,2,2020-04-01
+13,2020-04-06 09:04:54+00:00,1247087876233461760,neutrino_proto,"Now everyone is in lockdown, there is finally time to catch up on some light reading ;) This is the perfect time to learn more about Neutrino!
+
+https://t.co/0sqbPldNT5",15,0,1,2020-04-06
+14,2020-04-07 09:18:39+00:00,1247453723992915970,neutrino_proto,"Want to know more about the basics of Neutrino? Like how the price stability algorithm works?! You can find some answers here, and if there's any burning questions you may have that's aren't covered in these FAQ's let us know! 
+
+https://t.co/8z0c9vzTbP",9,0,6,2020-04-07
+15,2020-04-13 13:29:47+00:00,1249691251198373890,neutrino_proto,"Happy four years of #Waves! 
+
+Some words from @sasha35625 reflecting on the journey so far, and a sneak peak into what lies in the road ahead. https://t.co/P9vvNIAzx1",11,0,1,2020-04-13
+17,2020-04-14 10:55:59+00:00,1250014936371269632,neutrino_proto,#Neutrino is going live on @MXC_Exchange in just ONE hour! For more details on the listing https://t.co/3QGVNSjVON . https://t.co/wN20n6sQmE,28,1,12,2020-04-14
+19,2020-04-15 08:55:39+00:00,1250347042443952128,neutrino_proto,A pivotal update of Neutrino is coming up that will lead to the utility and liquidity of $NSBT never seen before. Find out more: https://t.co/5oAXXZT4WC @wavesprotocol @Waves_Assn @sasha35625 @AlekseiPupyshev https://t.co/haZ58VbezY,47,2,22,2020-04-15
+20,2020-04-16 12:03:14+00:00,1250756634445520897,neutrino_proto,"@terricrepo @wavesprotocol @Beosin_com By ""office"" we mean virtual, all offices are virtual these days, we all work from home :)",0,0,0,2020-04-16
+21,2020-04-17 10:24:39+00:00,1251094212122226688,neutrino_proto,Daily reminder ;) https://t.co/STHmn6QPDX,16,0,4,2020-04-17
+22,2020-04-22 20:10:13+00:00,1253053516681265158,neutrino_proto,"Read details on the latest UI update released that significantly extends the auction and liquidation mechanics of NSBT. Our users now have the possibility to interact with the updated features on the smart contracts via the Neutrino dApp! 
+
+https://t.co/sorIM3U1EG https://t.co/7WvwpwAyTh",28,1,9,2020-04-22
+23,2020-04-23 09:16:17+00:00,1253251335715270656,neutrino_proto,Thanks for the cool video review @DappRadar! Check it out for a simple explanation on how #Neutrino works! https://t.co/DoQAUmdbtC,22,1,5,2020-04-23
+24,2020-04-27 11:38:10+00:00,1254736594445230080,neutrino_proto,You heard it here first ;) https://t.co/s8ah2hyHl4,6,0,1,2020-04-27
+26,2020-04-28 14:41:19+00:00,1255145074020630535,neutrino_proto,"Counting down until our AMA with @MXC_Exchange and our community in Brazil... Just over 5 hours to go so prepare your questions for the team! 
+
+To join: https://t.co/OsJHo2qHgX  
+
+https://t.co/KpCefudjXg",4,0,2,2020-04-28
+27,2020-04-29 08:35:48+00:00,1255415474445312006,neutrino_proto,"In the next of our AMA series with @MXC_Exchange, we will be answering questions from our Russian community! If you want to join the session and ask the team anything #Neutrino related, find us in 90 minutes here:
+
+https://t.co/Qo49pHw0bh",7,0,2,2020-04-29
+28,2020-05-06 09:34:38+00:00,1257966996962136065,neutrino_proto,"Calling our Indonesian community! 
+
+We are co-hosting our last AMA of the series with @MXC_Exchange for all those who want to ask the team some questions about #Neutrino! Join us in a few hours, at 8pm Indonesia time (UTC+7) and pick their brains...
+
+https://t.co/UF626hZIls",7,0,1,2020-05-06
+29,2020-05-14 12:07:27+00:00,1260904556847861760,neutrino_proto,Cast your votes now... https://t.co/5aRhNcMZHW,6,0,2,2020-05-14
+31,2020-05-29 07:40:21+00:00,1266273157322641408,neutrino_proto,Very excited about our new listing on @kucoincom for the Neutrino dollar! You can now find us there too :) https://t.co/Z0f3sibEKt,41,3,10,2020-05-29
+32,2020-06-01 10:18:29+00:00,1267400114341130240,neutrino_proto,"We are thrilled to be participating in @MessariCrypto's #Mainnet2020 tomorrow. Join @ilya_sapranidi tomorrow talking about all things Neutrino at 8.30am ET/2.30pm CET!
+
+For more details on the event which is kicking off today, and how to join:
+
+https://t.co/HOeZzVYEcL",23,3,9,2020-06-01
+33,2020-06-02 09:53:41+00:00,1267756261593972742,neutrino_proto,"Breaking news: Pool-X just launched the USDN Soft Staking Program (hereinafter referred to as the ""Program"") to maximize the benefits for users holding Neutrino Dollar (USDN) on the platform! @kucoincom 
+
+For more info: https://t.co/QWrS7UtHdI",22,0,7,2020-06-02
+35,2020-06-16 12:03:12+00:00,1272862288807170048,neutrino_proto,@jildansyarif @BiKiEnglish Go to this link: https://t.co/UbIVWjkVlb and follow instructions :),1,0,0,2020-06-16
+36,2020-06-19 13:10:35+00:00,1273966408158846979,neutrino_proto,"Didn't get a chance to catch @ilya_sapranidi's talk at #Mainnet2020 on the design of the Neutrino Protocol? 
+
+Well you're in luck because you can catch up on it right here 👇 
+
+https://t.co/I5LnsrWIk1",37,1,14,2020-06-19
+38,2020-06-25 09:15:37+00:00,1276081605753405440,neutrino_proto,"We are thrilled to be featured as one of the stablecoins to buy right now! Read more on how USDN can help during times of uncertainty:
+
+https://t.co/bV4KjuNdxc",23,1,11,2020-06-25
+40,2020-07-07 14:12:58+00:00,1280505087736102918,neutrino_proto,"In case you missed AMA session with Neutrino Dollar, you can find the full transcripts in English, Chinese, Arabic, Turkish and Vietnamese here: https://t.co/58tHoA7uSu",9,0,3,2020-07-07
+42,2020-07-10 15:19:13+00:00,1281608923632607233,neutrino_proto,"Staking is a form of mining in POS blockchains. It is the process of validating blocks through locking tokens on a smart contract. Staking is rewarded. The average annual interest for staking $USDN is 8-15% with daily accruals. 
+
+Start staking here: https://t.co/iONh2G5eBm https://t.co/mLSVAQkDL9",27,1,8,2020-07-10
+43,2020-07-14 10:36:17+00:00,1282987273420771328,neutrino_proto,"⚡️Neutrino and @BandProtocol have collaborated on creating a secure #oracle and independent emergency system to the stablecoin protocol to make it more reliable and secure for users.
+
+Read more 👇
+https://t.co/BoSzhxnRq2",145,5,41,2020-07-14
+44,2020-07-16 12:37:52+00:00,1283742647472054272,neutrino_proto,"⚡️@wavesprotocol partners with @v_id_blockchain to add new potential ways of integration with Gravity and Neutrino protocols.
+
+Learn more👇
+https://t.co/QG4izD2dnS",38,0,10,2020-07-16
+45,2020-07-18 11:20:23+00:00,1284447922457907207,neutrino_proto,"@MdRabiu08698714 @BandProtocol This is scam bot. Please, don’t use scam links and don’t send any personal info to this group. Our official group is https://t.co/f2M1xebX8K 
+Please be vigilant and take care!",0,0,0,2020-07-18
+46,2020-07-24 13:00:11+00:00,1286647365546528768,neutrino_proto,"Today is a huge milestone for #NeutrinoProtocol, as $USDN stablecoin has just hit a market cap of $20,000,000. Party on! 🎉🥂 https://t.co/uTmRCydQrL",59,3,13,2020-07-24
+48,2020-08-11 12:12:39+00:00,1293158384120795136,neutrino_proto,We look forward to seeing a liquidity pool for $USDN pairs on this innovative AMM service from @1inchExchange team! https://t.co/uK528VMyrQ,37,0,12,2020-08-11
+49,2020-08-13 12:55:05+00:00,1293893838944296960,neutrino_proto,"With #DeFi craziness happening around, you cannot just throw this chance away! Meet our beginner's #guide explaining the possibilities that DeFi offers for #crypto world and how to start out in this field safely with $USDN🎓🔷
+
+https://t.co/P6w9IFR7xR",73,4,38,2020-08-13
+51,2020-08-17 14:11:41+00:00,1295362667008471041,neutrino_proto,$USDN has surpassed $50 million in TVL (Total Value Locked) and becomes the largest #DeFi project outside the Ethereum ecosystem! The surplus on the main Neutrino smart contract now reaches about 150%. https://t.co/lid3ERuc8q,133,3,46,2020-08-17
+52,2020-08-27 12:37:43+00:00,1298962899776483328,neutrino_proto,"🔥Neutrino keeps spreading over the #Ethereum ecosystem! $USDN is now available on @mooniswap — a next generation AMM protocol powered by @1inchExchange. 
+
+You can buy $USDN on Mooniswap and stake it directly from any Ethereum wallet: https://t.co/lYoEGchkmX
+
+#interchain #DeFi https://t.co/sAuPfnk8R0",85,8,29,2020-08-27
+53,2020-09-04 07:09:07+00:00,1301779306813820931,neutrino_proto,"⚠️Scheduled maintenance⚠️
+
+On September 7, at around 2AM-6AM (UTC), the Neutrino's system will be down for maintenance (except for staking operations) due to the following updates:
+✔️ Neutrino's smart contract upgrade to Ride v.4 
+✔️ Software update to Waves Node v1.2 Malibu.",20,0,4,2020-09-04
+54,2020-09-07 08:56:58+00:00,1302893611898605570,neutrino_proto,"Hey community! We have successfully completed our smart contract update maintenance, and all operations are again accessible.
+
+https://t.co/pLiXgyATwi",29,0,6,2020-09-07
+55,2020-09-08 11:33:22+00:00,1303295359830163457,neutrino_proto,"⚠️ An update of the Neutrino smart contract is scheduled for Sept. 8, around 12 PM (UTC), featuring:
+
+1. New mechanics of NSBT purchase at a time of surplus. 
+2. An improvement in the logic of NSBT liquidation order placement. 
+
+We will share more details in our upcoming article.",13,0,2,2020-09-08
+57,2020-09-09 14:04:38+00:00,1303695816922746882,neutrino_proto,"#Stablecoins are a perfect tool enabling traders and investors to hedge their funds against loss or devaluation. @vlzhr, Waves development advocate, outlines the principles of stablecoin operation and looks at what's next for the stablecoin segment.
+
+https://t.co/pWdsfpxek5",58,6,16,2020-09-09
+58,2020-09-18 10:49:40+00:00,1306908241117544448,neutrino_proto,"#Stablecoins are assuming an ever-greater influence on the #crypto space and finance in general. Read about benefits that stablecoins can offer to businesses. $USDN
+
+https://t.co/cYKVswYsYB",50,4,11,2020-09-18
+60,2020-09-23 13:37:11+00:00,1308762338493902848,neutrino_proto,"Today, the amount of issued $USDN supply exceeded 30 million! The current market cap is about $31.3 million dollars: https://t.co/8xRMLIKT8P https://t.co/LHhIoDrWqx",79,1,21,2020-09-23
+61,2020-09-24 11:09:30+00:00,1309087558664675330,neutrino_proto,"Only one day is left to cast your vote for assets to be issued on #DeFo! The сurrent leaders are:
+
+🇨🇳 CNY - 58.6%
+🇷🇺 RUB - 20.6%
+🇬🇧 GBP - 11%
+
+Make sure you have your say! Get your vote in👇https://t.co/lVT9YRyi90 https://t.co/HUZu855aS9",41,3,11,2020-09-24
+62,2020-09-25 12:32:48+00:00,1309470911737794560,neutrino_proto,"As we see a great potential for the Neutrino protocol in Africa, we will also list NGNN🇳🇬 coin pegged to the Nigerian naira.",29,3,2,2020-09-25
+64,2020-09-29 19:15:46+00:00,1311021873380163584,neutrino_proto,"#DeFo, an open-source extension on the Neutrino protocol, goes live today to bridge popular currencies with the crypto space! Six community-chosen stablecoins + $USDN are now available for swapping &amp; staking, as well us for trading on @Waves_Exchange.
+
+https://t.co/rsxmsYPvww",67,3,25,2020-09-29
+65,2020-09-30 18:54:43+00:00,1311378962724065281,neutrino_proto,"⚠️Tomorrow, no earlier than at 9:00 AM (UTC), the $USDN token smart contract in the Ethereum network will be renewed. Please read more on that in Neutrino Telegram channel 👇
+https://t.co/rxVN9iRgCV",23,0,9,2020-09-30
+66,2020-10-01 18:59:51+00:00,1311742642368253952,neutrino_proto,"⚠️ Dear USDN holders in the Ethereum network,
+
+The token smart contract has been successfully renewed. New ERC-20 $USDN tokens have been airdropped to holders at a 1:1 ratio. The new contract’s address is: 0x674C6Ad92Fd080e4004b2312b45f796a192D27a0.",25,1,9,2020-10-01
+68,2020-10-06 18:32:45+00:00,1313547759522381825,neutrino_proto,"Hey there! WAVES/USDN swaps have been launched on @Waves_Exchange as a part of the latest client update. 
+Try out now👇
+https://t.co/ngl7MuhelT",21,2,5,2020-10-06
+69,2020-10-07 15:41:29+00:00,1313867048959832064,neutrino_proto,"#DeFo stable assets are used not only for swapping and trading but also bear staking interest 👉https://t.co/9EUPScdci8 
+The current Annual Percentage Yield (APY) rates look impressive, don't they? https://t.co/AUjQVn1GEv",42,6,15,2020-10-07
+71,2020-10-09 12:28:18+00:00,1314543207502540800,neutrino_proto,"Dear community! As #DeFo is expanding, it's time to select your next favourite assets! You're invited to vote for the next batch of Neutrino stablecoins that will be available for trading, swaps and, of course, staking. Make your choice, using $NSBT token👉https://t.co/lVT9YRyi90 https://t.co/E1YRNqef9R",73,11,26,2020-10-09
+72,2020-10-12 09:45:41+00:00,1315589446776107010,neutrino_proto,"#Stablecoins are all the rage this year, and seeing $USDN on the list of the fastest-growing stables assets isn't surprising! What's under the hood of $USDN? Find out in the article below.
+
+https://t.co/D0h3qouORx",61,1,20,2020-10-12
+73,2020-10-15 12:37:31+00:00,1316719852812460032,neutrino_proto,"Just in one week, Neutrino's 3 Pool on @CurveFinance reached 10mln$ in liquidity! Another milestone for inter-chain Neutrino protocol has been achieved! More details 👉 https://t.co/JdaBQVJipb",51,0,12,2020-10-15
+75,2020-10-16 13:58:32+00:00,1317102629558902784,neutrino_proto,"The vote for new Neutrino assets has ended in a victory for $BRLN, pegged to Brazilian Real! The winning asset will be availalble for swaps, staking and trading on #DeFo next week 👉 https://t.co/T9U1GkcaHy https://t.co/PEcr8yRjuS",70,2,17,2020-10-16
+78,2020-10-20 13:44:48+00:00,1318548724738568194,neutrino_proto,"Meet $NSBT token on @CoinMarketCap! This is just the beginning of a long journey 💪
+https://t.co/VtRWwdOuSx https://t.co/ZeaEYgrJz4",20,1,6,2020-10-20
+80,2020-10-22 15:04:13+00:00,1319293489276882947,neutrino_proto,"Neutrino BRL ( $BRLN), tied to Brazilian Real, now available for swaps and #staking on #DeFo (https://t.co/T9U1GktLz6), as well as for trading on @Waves_Exchange. We see a huge potential for the Neutrino protocol in Brazil and we hope it will become a popular asset. https://t.co/PMwkE80hqw",60,5,13,2020-10-22
+81,2020-10-23 12:26:59+00:00,1319616307579490306,neutrino_proto,"Since the launch of the $USDN stablecoin in ERC-20 format, over 16,000,000 tokens have been ported into the #Ethereum network. Here is all the information required for $USDN staking and its payouts for the Ethereum users. Check it out: https://t.co/RSTOPlk2yS https://t.co/cV9xNYw2Ct",43,0,11,2020-10-23
+82,2020-10-26 12:55:01+00:00,1320710524997423105,neutrino_proto,"A vote for new Neutrino assets on #DeFo starts now! Based on community requests, we've added the Polish zloty to the list of prospective stablecoins. 
+Join the vote on our website 👉 https://t.co/wvt5lgX8J8
+Let's see which coin wins this week! https://t.co/BLV6gZTrDb",30,1,7,2020-10-26
+83,2020-10-28 14:23:11+00:00,1321457490068971520,neutrino_proto,"The average deposit interest rate at Brazilian banks is about 5.4%. The $BRLN stablecoin, pegged to the Brazilian real, currently offers holders an annual staking reward of 9.63%. Plus, you don't grant access to your funds to anyone. Swap &amp; stake BRLN 👉 https://t.co/8xswpWCeT4 https://t.co/gHnL1UQabI",39,1,3,2020-10-28
+85,2020-10-29 12:46:07+00:00,1321795450748522498,neutrino_proto,"The Neutrino Token ( $NSBT), an essential component of the Neutrino system, ensures the stability of $USDN backing reserves and acts as the protocol's governance token. To learn more on how $NSBT works, read our latest article.
+
+https://t.co/keaJwiyHyH",53,6,14,2020-10-29
+86,2020-10-30 18:20:15+00:00,1322241924099657729,neutrino_proto,"$USDN market cap has surpassed $50 million! Over 21,000,000 $WAVES are currently locked on the Neutrino smart contract. Keep growing💪 https://t.co/Z2lL5hZ9oL",111,5,34,2020-10-30
+87,2020-11-02 14:20:52+00:00,1323268844866146305,neutrino_proto,"Welcome the new winner! British pound topped the vote for new #DeFo assets, with 49.84%!  Neutrino GBP ( $GBPN), tied to British pound, will soon become accessible for swaps, staking and trading on @Waves_Exchange. Watch for updates! https://t.co/YqsAxGz320",66,3,14,2020-11-02
+88,2020-11-05 11:14:08+00:00,1324309016533704706,neutrino_proto,The current APY of Neutrino BRL (BRLN) is now estimated at 9.10%. Do you want to start staking $BRLN and collect daily payouts? Here's a short guide on how to get started for the Brazilian crypto community and everyone else who holds/trades the Brazilian real 👇 https://t.co/1nzIBpKACP,31,1,9,2020-11-05
+91,2020-11-06 08:48:45+00:00,1324634817233850369,neutrino_proto,"The total value of liquidity reserves in the $USDN pool on @CurveFinance has already surpassed $ 40,000,000! By the way, $USDN pool is now one of the most profitable pools on the platform 🚀 https://t.co/8ULqgV4P7V",47,6,15,2020-11-06
+93,2020-11-09 17:02:08+00:00,1325846146372218881,neutrino_proto,"The Neutrino pools on #DeFo are now live! By providing liquidity to the pool, users will receive daily interest yield, on top of staking payouts. More information can be found in our article 👇
+
+https://t.co/EWfVQeA5n5",38,1,13,2020-11-09
+96,2020-11-12 16:52:42+00:00,1326930935602950144,neutrino_proto,🔥$USDN has been ported into the #BinanceSmartChain https://t.co/XGInFub0sr,32,1,6,2020-11-12
+97,2020-11-13 10:25:32+00:00,1327195887832068097,neutrino_proto,"Japan's negative interest rate causes banks to charge for holding deposits, instead of paying interest. Neutrino JPY ( $JPYN), stablecoin 1:1 pegged to the Japanese Yen, offers 9.38% APY for staking on @Waves_Exchange with full self-custody of your funds👉https://t.co/Z5EM7z1Ufu https://t.co/fw07Ox4HqS",51,1,13,2020-11-13
+99,2020-11-16 13:33:15+00:00,1328330292302589953,neutrino_proto,"Based on recent vote results, Neutrino TRY (TRYN) is joining the large family of Neutrino stable assets! The new stablecoin, pegged to the Turkish lira, will soon become available for staking, trading and swaps on #DeFo. Welcome, $TRYN! https://t.co/bXP3kQb5l9",28,2,5,2020-11-16
+101,2020-11-17 11:32:06+00:00,1328662193026568192,neutrino_proto,"$USDN has achieved another milestone by reaching $80 mln in liquidity on @CurveFinance! 
+Just a reminder that all ERC-20 USDN investors collect an income not only from providing liquidity but also from staking. Sounds good, right? https://t.co/GUCtTUBzDK",59,3,17,2020-11-17
+102,2020-11-19 11:11:35+00:00,1329381802629279747,neutrino_proto,"Cheers 🥂! That happened more quickly than we thought - $100,000,000 in liquidity is now on @CurveFinance's $USDN+3Pool. And the numbers are getting even more impressive! https://t.co/GoiQ0IfbDE",84,3,22,2020-11-19
+104,2020-11-23 07:37:35+00:00,1330777499723296769,neutrino_proto,"⚡️⚡️⚡️ The new week starts with a new milestone! In less than one year, $USDN's market cap exceeded $100 mln. Now 30 mln $WAVES are locked on the Neutrino smart contract, with a total value of $250 mln at WAVES' current rate. https://t.co/uXuAkVZCN7",110,1,22,2020-11-23
+105,2020-11-24 12:58:31+00:00,1331220653811363853,neutrino_proto,"As you know, $USDN stablecoin is already accessible in @BinanceChain for all basic crypto operations! We're wondering which of the chain's #DeFi platforms you use and where you'd like to see $USDN listed in the near future?😉",111,64,33,2020-11-24
+106,2020-12-01 10:02:15+00:00,1333713010662182913,neutrino_proto,"The Neutrino token ( $NSBT) is making waves across the #Ethereum network, to which it was recently ported! The NSBT/USDN pool is now available on @UniswapProtocol. Check the details of this pair here 👇https://t.co/IwKgCQGCde https://t.co/iKL4YRBXPO",94,0,23,2020-12-01
+108,2020-12-03 16:51:40+00:00,1334540821144727554,neutrino_proto,"Drum roll, please🥁... $NSBT staking is now live! Hurry up to get your share of more than $240,000 slated for ""early birds"" who will stake NSBT before this Friday, 8:00 AM (UTC). To make sure it all goes smoothly, check this article on how staking works👇
+
+https://t.co/yfCgVS8BnU",59,5,15,2020-12-03
+109,2020-12-07 16:42:02+00:00,1335987944717492232,neutrino_proto,Investment in @Waves_Exchange's $EURN pool is another option for earning a passive income! Start it here 👉🏼 https://t.co/btHvc3qbl2,20,0,3,2020-12-07
+111,2020-12-11 12:36:55+00:00,1337375811670847491,neutrino_proto,It's official 🦊! ERC-20 $USDN is on @metamask_io's default token list for all browsers and devices. Staking $USDN directly from your wallet is now easier than ever😱! https://t.co/CJf9pP662l,80,3,24,2020-12-11
+112,2020-12-14 08:07:09+00:00,1338395088049811456,neutrino_proto,"ERC-20 $NSBT keeps extending its reach in the Ethereum network - the token is now available on @mooniswap, a next-gen AMM protocol powered by @1inchExchange. 
+
+Check out the USDN/NSBT pool: https://t.co/En9pi5vspE https://t.co/vGMJ94dfGr",56,0,14,2020-12-14
+113,2020-12-16 12:33:03+00:00,1339186777920315392,neutrino_proto,"Matryoshka, vodka, balalaikas are getting closer to you when you stake Neutrino RUB (RUBN)🇷🇺 pegged to the Russian national currency! $RUBN staking earns users an annual interest of &gt;12%, more than twice as much as what Russian banks pay on deposits. 
+https://t.co/A3Glu2D9Sp https://t.co/rO32dLAewI",39,3,10,2020-12-16
+115,2020-12-28 17:15:17+00:00,1343606459133816832,neutrino_proto,"🌙 'Moon Factor' is coming! We have launched a community vote, enabling you to select the size of $NSBT max possible supply limit. The vote is based on a proposal we introduced last week 👉https://t.co/7Fe8BYjuyQ https://t.co/g7tfc2zZqo",86,5,27,2020-12-28
+117,2020-12-30 16:21:49+00:00,1344317778992496644,neutrino_proto,"The $NSBT ‘Moon Factor’ vote is over! Check the outcome: 96.46% of NSBT holders voted for limiting NSBT max supply to the amount, valid at the moment of activation + 1 million. The activation of the ‘Moon Factor’ upgrade is scheduled for January 15. Stay updated! https://t.co/6CU8Cuykus",84,4,19,2020-12-30
+118,2020-12-31 12:16:46+00:00,1344618498190958596,neutrino_proto,"Happy New Year, folks! Throughout this year, the Neutrino protocol has been steadily growing, and we hope to keep gaining steam in 2021 -  thanks to your contributions! We wish you to reach all goals, stay safe and keep on going no matter what! Cheers! 🎉🥂 https://t.co/x3nfFkrlxc",53,5,13,2020-12-31
+119,2021-01-06 10:19:36+00:00,1346763338194280448,neutrino_proto,"Despite Neutrino’s young age, in 2020, we were able to become the #Waves blockchain’s most actively used decentralized application, with a rapidly growing user base. We definitely saw a year of growth, and we will keep it up in 2021. See our progress 👇
+https://t.co/Nvq9hS72Lq",96,6,24,2021-01-06
+120,2021-01-13 16:01:05+00:00,1349385991371575296,neutrino_proto,"Hi Neutrino community,
+
+⚠️We would like to inform you about planned maintenance of the Neutrino system due to the activation of the 🌙'Moon Factor' update, scheduled for January 15, 08:00 AM (UTC).",70,1,25,2021-01-13
+122,2021-01-15 11:20:36+00:00,1350040179600457729,neutrino_proto,"This is what all of you have been waiting for - the Moon Factor update for $NSBT is now activated! The update aims to strengthen the stability of $USDN backing and the entire Neutrino system. More details 👇🏻
+
+https://t.co/fJwEO6QrC9",102,5,35,2021-01-15
+123,2021-01-19 15:51:25+00:00,1351557888335089664,neutrino_proto,This staking opportunity helps to reliably protect savings in the national currency against devaluation. Try it 👉 https://t.co/nxDcXasPYH,13,0,0,2021-01-19
+125,2021-01-22 16:28:39+00:00,1352654420786487303,neutrino_proto,"Lately, $USDN has emerged as a promising newcomer in the #DeFi space, and we've been receiving questions on its differences from major algorithmic stablecoins. We'll start with $Dai, one of the biggest players in this field.
+
+https://t.co/sChVeC2SBG",89,2,23,2021-01-22
+126,2021-01-25 10:51:19+00:00,1353656693020897280,neutrino_proto,"In case you haven't heard about https://t.co/cALtnrB3lX 🗯, browse the helpful topics and join the related discussions. Your feedback, proposals and ideas are highly appreciated! https://t.co/RTVMvuX71R",58,1,18,2021-01-25
+127,2021-01-27 20:06:51+00:00,1354521269874647045,neutrino_proto,@VincDeSimo You can find all the related info in this article: https://t.co/EWfVQeA5n5,0,0,0,2021-01-27
+130,2021-02-04 12:46:09+00:00,1357309469538070533,neutrino_proto,"An airdrop campaign for NSBT is going live! @binance and @HuobiGlobal will be giving away $NSBT tokens for $WAVES holders on the exchanges. Check the detailed rules and claim your reward! 💰👀👇
+https://t.co/m65Upbs57Y",258,54,117,2021-02-04
+131,2021-02-11 15:11:00+00:00,1359882635317817347,neutrino_proto,"A famous Chinese proverb says: ""The best time to plant a tree was 20 years ago. The second best time is now."" As the Chinese New Year approaches, we're reminding you that your best time and your best chance could be Neutrino CNY (CNYN). https://t.co/sl2mLK3haa",84,4,19,2021-02-11
+133,2021-02-25 08:48:14+00:00,1364859739847458818,neutrino_proto,🍣Bon Appetit! $USDN/ETH pool is now on @SushiSwap with current APY of over 500%. Access direct token swaps and add liquidity to the pool here: https://t.co/xENP5pK5JY https://t.co/QbZXmPFemr,103,8,34,2021-02-25
+134,2021-03-04 13:03:58+00:00,1367460811447402501,neutrino_proto,"💪In the NSBT/USDN pool, both assets are automatically staked! https://t.co/1Ux8AkHM92",33,0,8,2021-03-04
+135,2021-03-05 13:34:43+00:00,1367830938038722566,neutrino_proto,"As last year saw rapid growth and major milestones, we have no plans of resting on past achievements. It's time to level up! Decentralization of protocol governance, sDeFo and more improvements are in the pipeline. See the details 👇
+https://t.co/Fn7QG6arwd",149,14,38,2021-03-05
+136,2021-03-09 15:06:14+00:00,1369303519111561222,neutrino_proto,"📢Important notice for $NGNN holders🇳🇬
+Recently, the Nigerian Naira's substantial volatility &amp; dependence on the central regulator, as well as a significant discrepancy between the official &amp; unofficial exchange rates, have led to certain risks for the NGNN pool operation on DeFo",21,3,6,2021-03-09
+139,2021-03-12 10:16:18+00:00,1370317722383482882,neutrino_proto,"🍣@SushiSwap community met the Neutrino protocol at a recent AMA session with @AlekseiPupyshev! The AMA speakers looked at Neutrino' operation principles and dug a little deeper into its inter-chain activity. Watch the AMA session's recording here 👇
+https://t.co/TT5xgIZNLc",53,1,10,2021-03-12
+141,2021-03-19 12:11:39+00:00,1372883465054601219,neutrino_proto,"Vote time! The Neutrino community is invited to adjust #DeFo swap fees. If the proposal for fee change &amp; redistribution is activated, the fees will go to $NSBT stakers + Neutrino pool makers will receive higher rewards for liquidity providing. Cast a vote👉https://t.co/YfnNS8YL2t https://t.co/L27rBpu8pc",107,2,36,2021-03-19
+142,2021-03-23 11:59:27+00:00,1374329947314077697,neutrino_proto,"✅ A vote for the DeFo swap fee change and redistribution proposal has just been concluded. View the results on our website: https://t.co/bcxVidYHUY
+
+We appreciate your participation in the vote and your input in the protocol development!
+
+https://t.co/Pd4ZxJBRWz",38,1,8,2021-03-23
+143,2021-03-26 18:08:36+00:00,1375510008641646593,neutrino_proto,Whoa! The total value locked of $WAVES in the Neutrino smart contract has exceeded half a billion! Happy to see another milestone unlocked! 🚀 https://t.co/3J8hfpI5vp,141,6,40,2021-03-26
+144,2021-04-29 18:53:02+00:00,1387842376627073025,neutrino_proto,Neutrino triumphs by surpassing $1 billion in TVL (Total Value Locked)! 🤩 Would you celebrate this milestone? 🥂 https://t.co/YYuDvSl5H0,213,31,61,2021-04-29
+145,2021-04-30 15:44:36+00:00,1388157344882778113,neutrino_proto,"⚠️On May 6, at 1:00 PM (CET), the #DeFo system will be updated to integrate proposal #6: DeFo fee change and redistribution. Therefore, swap and crossExchange operations in smart contracts will be unavailable for a short period.",76,3,24,2021-04-30
+147,2021-05-06 11:32:49+00:00,1390268307283062789,neutrino_proto,"Please, welcome the long-awaited update for Neutrino — #DeFo fee change and redistribution proposal, previously supported by community, is activated! 
+
+Fees for DeFo asset swaps have now been increased to 0.6%, and the proceeds will be distributed among $NSBT stakers. https://t.co/qKSbctTCV7",169,6,54,2021-05-06
+148,2021-06-07 11:55:04+00:00,1401870318881447944,neutrino_proto,"Liquidity of the $USDN pool on @CurveFinance has hit the $500 mln mark! It's the platform's fourth largest pool by volume, with $16.3 mln daily and the most profitable one with an APY of up to 45%. Fingers crossed for bigger numbers! https://t.co/illFyYoBcE",112,3,21,2021-06-07
+149,2021-06-16 13:26:29+00:00,1405154815441784834,neutrino_proto,"Yesterday's launch of the $USDN gateway to #BinanceSmartChain  is followed by adding the usdn3EPS metapool (USDN+BUSD+USDT+USDC) on @Ellipsisfi, the number-one choice for secure low-slippage stable swapping on #BSC. https://t.co/KtdeESLytY",113,8,41,2021-06-16
+150,2021-07-23 12:47:55+00:00,1418553461604601856,neutrino_proto,"Take part in a @CurveFinance pool voting and win $300k jackpot or one of 3 prizes $100k each. Just vote for $USDN pool with your veCRV tokens. The more and earlier you vote the higher chances to win.
+
+Check out the full rules👇
+https://t.co/rwdwLs15M4",71,6,19,2021-07-23
+151,2021-08-02 15:25:56+00:00,1422217106679111685,neutrino_proto,"Pool voting on https://t.co/ct6LFs18fj continues! Don’t lose a chance to take part in a giveaway with $600k prize fund! You just need to lock your $veCRV tokens for USDN pool. We will randomly chose 4 lucky winners on Sep 29!
+
+Learn more👇
+https://t.co/rwdwLs15M4",17,2,4,2021-08-02
+152,2021-08-27 10:38:19+00:00,1431204422596562946,neutrino_proto,"EURN has been ported to the Ethereum network! Now $EURN supports ERC-20 token standard and can be sent to the Ethereum blockchain and back. EURN assets are staked automatically, which will provide you a passive income of ~12% APY!
+More DeFo assets in the ETH network are coming😎 https://t.co/hNC0l8WXNN",96,11,29,2021-08-27
+153,2021-08-31 12:05:23+00:00,1432675886554390530,neutrino_proto,"🤑Pool voting on https://t.co/ct6LFs18fj continues! Take part in a #giveaway with $600k prize fund! Just lock your $veCRV tokens for USDN pool and you are on the list of participants. The earlier you vote the more chances to win. 
+
+Hurry up
+👇
+https://t.co/WxuGqQ0Wqd https://t.co/sGEw2Uc8DM",21,2,6,2021-08-31
+154,2021-09-06 09:38:39+00:00,1434813286000775168,neutrino_proto,"1/6 All USDN pool veCRV voters take part in a #lottery with 600k $USDN prize fund. Vote on https://t.co/WxuGqQ0Wqd and win! Learn more in our blog👇
+https://t.co/rwdwLs15M4
+
+Now we will describe why this is the most transparent and honest random on the Internet. 👇",41,2,9,2021-09-06
+160,2021-09-16 13:07:22+00:00,1438489691477745673,neutrino_proto,"Hurry up! Less than two weeks left before we choose 4 lucky winners of $USDN pool lottery. 
+👉go to https://t.co/WxuGqQ0Wqd
+✅lock your $veCRV tokens for USDN pool
+🤫the more you vote the higher the chance to win
+💸win the prize
+
+600k USDN prize fund❗️ https://t.co/OjQtSPkfyl",18,5,6,2021-09-16
+161,2021-09-29 10:52:12+00:00,1443166714036883464,neutrino_proto,"🚨LAST WARNING
+The final chance to compete for the $600k prize fund! Vote for $USDN pool on @CurveFinance👇
+https://t.co/WxuGqQ0Wqd
+to get on the list of participants. The snapshot will be made today with the last block before midnight (UTC).
+Don't stop, grab a prize!
+@sasha35625 https://t.co/SjiHnb7bJH",31,9,8,2021-09-29
+162,2021-10-01 13:40:53+00:00,1443933940323078148,neutrino_proto,"🤑Winners🤑
+
+🚀 100.000 USDN prizes go to:
+
+0xc78CE4E51611ed720eC96bf584bf1b1658FD2379
+0x9A4a20fC422F849cAA37Fd32A873223e23077317 
+0x7a16fF8270133F063aAb6C9977183D9e72835428  
+
+🎁 The jackpot of 300.000 USDN goes to the lucky winner:
+
+0xF147b8125d2ef93FB6965Db97D6746952a133934 https://t.co/k502eXKrZ2",62,18,7,2021-10-01
+165,2021-10-08 09:03:57+00:00,1446400963464605697,neutrino_proto,"Provide liquidity to $EURN pool on https://t.co/4CLvIT3eqB and get high APY!
+@CurveFinance https://t.co/ykOvikkAEV https://t.co/xhDFODu9Ou",25,11,4,2021-10-08
+166,2021-10-18 14:08:06+00:00,1450101383298945037,neutrino_proto,"🚀Get up to 37% APY with EURN pool on @CurveFinance
+
+EURN rushes in https://t.co/wyUJxXf6LD and shows amazing results, 454k EURN is already locked! Provide liquidity to the pool and get up to 37% APY.
+
+Check out the pool👇
+https://t.co/4CLvIT3eqB https://t.co/d5tqx4sRLk",69,6,15,2021-10-18
+167,2021-10-25 14:20:46+00:00,1452641286381576198,neutrino_proto,"https://t.co/1jk7b7sN2k
+timestamp for $USDN pool lottery on https://t.co/wyUJxXf6LD
+
+@sasha35625",28,7,4,2021-10-25
+170,2021-10-28 10:11:50+00:00,1453665806315925509,neutrino_proto,"💸Choosing the winner of this week!
+
+https://t.co/ZidYHN6OFK
+
+Timestamp for $USDN pool lottery on https://t.co/wyUJxXf6LD https://t.co/kW7dkYZ5Ny",11,11,1,2021-10-28
+171,2021-12-17 18:30:18+00:00,1471910643146149898,neutrino_proto,@sasha35625 🤲🔷,5,0,1,2021-12-17
+172,2021-12-31 10:53:26+00:00,1476869096067190784,neutrino_proto,"🤩Dear Neutrino community!
+
+Happy New Year! Let 2022 bring us lots of new achievements. We know that you are expecting lots of news from us, and we will do all our best to meet your expectations! We wish happiness and prosperity to you. Thank you for being with us!
+
+Cheers!🥂🎄🌟 https://t.co/CNEKGtbqY6",49,17,3,2021-12-31
+173,2022-02-22 16:21:06+00:00,1496158114193760262,neutrino_proto,"🚀2021 wasn't very rich for upgrades but we are declaring 2022 the year of Neutrino! The protocol is confidently moving towards decentralization and we are glad to share the first steps that will be made shortly.
+
+Enjoy our article👇
+https://t.co/TxfjoqDDeJ https://t.co/lRsMbZ27rr",94,16,23,2022-02-22
+174,2022-03-23 16:22:36+00:00,1506667738793590788,neutrino_proto,"⚡️We are thrilled to announce that the first updates from our article will be released tomorrow! That’s why the Neutrino protocol functionality (WAVES/USDN swap, NSBT sell/buy operations) will be temporarily unavailable.
+
+👉🏻 https://t.co/Txfjoqm1Q9",86,9,26,2022-03-23
+175,2022-03-24 22:55:11+00:00,1507128926228951042,neutrino_proto,"Swaps
+- swaps are almost instant
+- only gNSBT holders (NSBT stakers) can do WAVES&lt;&gt;USDN swaps
+- a user's gNSBT amount determines their daily max swapping amount
+- a swap is available only once per day.",17,2,1,2022-03-24
+179,2022-04-04 19:43:15+00:00,1511066891409895431,neutrino_proto,"✋Stay calm, let's vote!
+
+The Neutrino community is invited to vote for changes in maxLimits for WAVES&lt;&gt;USDN swaps. 
+
+Learn more about the options and use your gNSBT for voting!
+https://t.co/YfnNS8YL2t https://t.co/280MYZoV5A",150,22,38,2022-04-04
+181,2022-04-05 15:44:44+00:00,1511369253831823361,neutrino_proto,"The current situation required quick decision making, and we did it. We are thankful to the Neutrino community for unity and support!",36,3,7,2022-04-05
+186,2022-04-26 13:35:50+00:00,1518946961088565253,neutrino_proto,"🔥Neutrino Protocol 1.1.0
+
+✔️Redesigned swap page interface
+https://t.co/C5KZUVerzD
+
+✔️Upgraded the ""Connect Wallet"" procedure. Now your account-related information is available after refreshing the page
+
+✔️Minor bugs fixes and UI improvements
+
+We hope you enjoy the release😉 https://t.co/v34vwwxWe4",190,25,75,2022-04-26
+187,2022-05-04 15:01:20+00:00,1521867579853266944,neutrino_proto,"From now on, all the $WAVES generated by Neutrino Community Node 1 will be transferred to the Neutrino smart contract. This will affect the amount of staking reward but increase the stability of the system. The reserves on the contract will increase by 1,226,400 WAVES a year. https://t.co/mONgmeZFai",150,19,43,2022-05-04
+189,2022-05-12 17:52:26+00:00,1524809740894732289,neutrino_proto,"🔥New Swap Limits
+
+We did our best to prepare this update as fast as possible.
+
+Parameters ""a"" and ""b"" in limitMax formula have been changed.
+Now you can swap more for your gNSBT amount.
+
+❗️New parameters are
+a = 0.125
+b = 1.5
+
+Learn more in our docs 👇
+https://t.co/eZHblqsxFV https://t.co/IECPJwVh8G",81,8,24,2022-05-12
+190,2022-05-13 18:34:51+00:00,1525182802290933764,neutrino_proto,"🔥We hope that you are ready for fast and easy profit making!
+
+You can take advantage of the price difference and make more than 50% of your Neutrino investment in 7 days or even double your investment in just 14 days! Read on our article to learn how😎👇
+https://t.co/MaeCJnQdc9",103,22,32,2022-05-13
+191,2022-05-19 10:02:44+00:00,1527228253957722114,neutrino_proto,"✔️Buy NSBT page interface upgrade. Make a choice between the contract and exchange price
+https://t.co/bpn2b4Nif3
+✔️Smart contract info update. We added Staked NSBT and NSBT circulation supply
+✔️Staking NSBT interface upgrade
+✔️Minor bugs fixes 
+
+Enjoy the release, stay tuned😉 https://t.co/7hY2jouK2O",68,0,25,2022-05-19
+192,2022-05-26 13:36:23+00:00,1529818733958422528,neutrino_proto,"Welcome phase one of the program that will be a big step towards global decentralization!
+
+We are looking for crypto enthusiasts who are willing to run their nodes for the needs of Neutrino to improve reliability of the system and get their own interest. 
+
+https://t.co/bza4YiZFAJ",46,6,17,2022-05-26
+193,2022-05-27 14:18:42+00:00,1530191769496870915,neutrino_proto,"These are temporary measures aimed at improving the stability of the system. We hope for your understanding.
+In the upcoming releases we will introduce DAO that will make it possible for the community to decide how to distribute the rewards, and how to manage stabilization funds.",22,0,4,2022-05-27
+197,2022-06-02 13:08:44+00:00,1532348489019150340,neutrino_proto,"🔥Welcome Neutrino Protocol Update 1.3.1
+
+In this release:
+
+✔️ Added export claim history functionality
+
+✔️ SWAP table improvements
+
+✔️ Other minor bugs fixes and upgrades.
+
+We hope you enjoy the release, stay tuned😉
+https://t.co/sp0Ad3drPV https://t.co/2NUJTxOx1I",86,2,21,2022-06-02
+203,2022-06-06 15:32:56+00:00,1533834330836979716,neutrino_proto,"We are glad to announce that the first 8 participants were approved to take part in the Phase One of the Neutrino decentralization program! In the next hour their nodes will receive WAVES leasing from the Neutrino team🚀
+
+Learn more about the program👇
+https://t.co/bza4YjhgZj https://t.co/YwSrPhWp82",103,7,39,2022-06-06
+206,2022-06-07 16:33:16+00:00,1534211904008245251,neutrino_proto,"🔥The next 8 participants were approved to take part in the Neutrino decentralization program! In the next 24 hours their nodes will receive WAVES leasing from the Neutrino team.
+
+Please, note that it is not mandatory to keep REST API enabled after receiving leasings! https://t.co/o09BMVG5Mm",57,2,29,2022-06-07
+209,2022-06-08 10:44:22+00:00,1534486486212562950,neutrino_proto,"⚡️Attention⚡️
+
+Dear participants of the Neutrino decentralization program! 
+
+We want to simplify your daily WAVES distribution process, so we wrote this tiny Python script that can do it automatically. Please feel free to use it for your nodes☺️
+
+https://t.co/MWTi9q3fWl",61,3,22,2022-06-08
+210,2022-06-09 14:36:22+00:00,1534907261222625282,neutrino_proto,"The next 8 participants were approved!
+List of Nodes:
+3PDuzxSgfLLP5qKi9Jzd8ai97DpX5t6RneY
+3PCS2SU43H22SkfcdXNNCVY411P7AcUdM7P
+3P3aHCrH6sBCojgZHDJPHeBoH7b2ryWvUmP
+3P6GbCGrdwp1TmoiPzavhiXAWnDMM1X1DzV
+3P9hB6w8Ey5FvgfPnvQFW2H8ZxWbJ7NBYPC
+3PKXnXt3orT8nSrbWaMaeiq4DiK9a2vwBaG https://t.co/ODmxlYnbvi",23,2,8,2022-06-09
+212,2022-06-10 15:40:39+00:00,1535285822781530112,neutrino_proto,"🔥8 new participants of the Neutrino decentralization program! In the next 24 hours their nodes will receive WAVES leasing from the Neutrino team.
+
+List of nodes (1)
+3PJv1WktpzKEwJC81GAGL9QLXsjPqVTbpiM
+3PQBQkSFAUkQrYrSsdikzCm77bew9euDoK5
+3PG3yzVhRf4Fw2N9zKrsDKSUkcCPL5yx2aa https://t.co/sf5NrIIJcj",27,3,7,2022-06-10
+215,2022-06-13 18:38:39+00:00,1536417783315107843,neutrino_proto,"🔥8 new participants of the Neutrino decentralization program:
+
+3PH6yoV2YHasy2A4VGvM17wLhgavW37tvoo
+3P9KDAWrphjwCCN5a1Wy7cNSRMmjBjBhLXm
+3P2bbStdAbiAoe6CVhvKTE3SbYmkTQ85QT3
+3PJoEeaNW16CUqpvbPCJnRydxi2xrZRd8xt
+3PFvnSssSWj1ibxJL4LYEUJVBXqSozyH2BW
+3PELum7HJU7NBPR8EWz8aTxo4RhJjHFVNxf https://t.co/SQXFJ5CaRl",28,2,6,2022-06-13
+217,2022-06-14 16:28:37+00:00,1536747448101654528,neutrino_proto,"🔥8 new participants of the Neutrino decentralization program:
+
+3P3J1Sp661nDwV69zJqrtdWM99uXEaqQDCN
+3PACTUMWVTbV44HyauqBvLLwQTkTsPe74ti
+3P4xQ2iDs1LTytj7dg5ozceVirVHYvSqeTq
+3PJiNoCb7VUYeU9ZgMLSFjjBKukin8FmkZi
+3PGi9gWFtMrE9waTxZg7m7oJnvM3oHucudj
+3P7tmzffzgwFGsmn4cw7wf2WCURegz6yc8B https://t.co/05soq563JT",46,2,15,2022-06-14
+219,2022-06-15 16:29:21+00:00,1537110020290125827,neutrino_proto,"🔥Welcome Wednesday list of nodes!
+
+3P3oLWRCLqjS5TiBVqm7UJwSCz8EVYL2awc
+3P7PcCmKcrcgTDiy21AVTxbKBE9EtHZiwFo
+3PJWoNzASvaRPf164iXcP8hDSLar9pQ7Kuz
+3P98GM4MUnq2sNDKZqcb5gBqtT1zVngBAUr
+3PMg26dKVdvGUu1RYEd1BtF3SdPU7oT9aov
+3PBbjcALqTQ58xVa7DLJQ3y6DG1bd2Y6XpF",22,8,6,2022-06-15
+221,2022-06-17 13:07:42+00:00,1537784050706006016,neutrino_proto,"1️⃣ WAVES/USDN **cannot** death spiral
+2️⃣ Swaps between USDN/WAVES are limited every day
+3️⃣ Neutrino has a recapitalization mechanism with NSBT
+4️⃣ Neutrino's yield is sustainable, coming directly from staking rewards
+
+#BuiltDifferent
+
+Read more 👇
+https://t.co/YRNbzM1LwH",20,1,10,2022-06-17
+229,2022-06-22 13:58:41+00:00,1539608818459574273,neutrino_proto,Stay tuned 🚀 https://t.co/boa8Mezk57,117,27,56,2022-06-22
+230,2022-07-07 16:36:21+00:00,1545084312613257218,neutrino_proto,"Neutrino community and nodes owners, our team strives towards the protocol decentralization, and we need your synergy and coherence!
+
+RideV6 now supports installing scripts on a generating address without losing the ability to generate and we ask you to install additional script. https://t.co/356moSCK2C",64,15,27,2022-07-07
+235,2022-07-12 17:21:01+00:00,1546907492906663941,neutrino_proto,"🚀Neutrino Protocol Update 1.4.1
+
+In this release:
+- Added Stats tab with dashboard that displays detailed info about Neutrino protocol.
+https://t.co/qGM1JO01Bg
+- Added NSBT price in WAVES on Buy NSBT page.
+- Other UI improvements and bug fixes. 
+
+Enjoy and stay tuned 😉 https://t.co/Qe5V5qQEP6",115,37,41,2022-07-12
+236,2022-07-13 15:53:39+00:00,1547247896051027968,neutrino_proto,"🎉We are glad to announce that the 8 tested nodes with the new script have shown steady operation. 
+
+Now we are asking all the remaining Neutrino node owners to install the script by the end of the week!
+https://t.co/r3WkEI3QWf
+Check out the instructions👇
+https://t.co/7fx9gqDjzp https://t.co/JucdqDdVvq",85,31,33,2022-07-13
+238,2022-07-20 16:45:16+00:00,1549797600928333824,neutrino_proto,"It is time to SURF🏄‍♂️
+
+Winter survivors need a cozy place, good company, and some proper tools.
+Get through crypto winter with a user-friendly Neutrino ecosystem in a nice company of evergrowing community and our new recapitalization tool — SURF!
+
+Stay tuned to be in the front row https://t.co/g63AceaaOp",96,21,49,2022-07-20
+239,2022-07-21 14:14:42+00:00,1550122096549761025,neutrino_proto,"The applicant's telegram_id was the most important source for tracking the involvement.
+
+It is worth noting that some users had to resubmit their applications due to various reasons. This is why some of the later applicants were accepted sooner than those who applied earlier.",15,1,4,2022-07-21
+242,2022-07-28 15:17:53+00:00,1552674710856548354,neutrino_proto,"⚡️Neutrino Update ⚡️
+
+Dear community,
+
+Please, be advised that we have moved our application to https://t.co/sp0Ad3drPV domain. 
+The old https://t.co/mgkTuTVUUO address is now redirecting to https://t.co/sp0Ad3drPV https://t.co/wim0uDOmHQ",88,30,30,2022-07-28
+243,2022-08-08 12:58:15+00:00,1556625838082252801,neutrino_proto,"🏄‍♂️🏄‍♂️🏄‍♂️
+$SURF token is launching today at 11AM EST.
+
+🌊🌊🌊Get ready to catch some Waves🌊🌊🌊 https://t.co/1EGF4gWoVa",133,27,47,2022-08-08
+251,2022-08-18 13:52:37+00:00,1560263398264213511,neutrino_proto,"🚀Vote to make the protocol stronger
+https://t.co/YfnNS9glU1
+
+The voting is initiated to change the following key protocol parameters:
+*Change Max Swap Amount
+*Increase protocol fee for USDN&gt;WAVES swaps
+*Add BR protection
+*Improve gNSBT rewards distribution
+
+Let's shape the💎! https://t.co/QDZWe4lnY8",69,25,30,2022-08-18
+253,2022-08-22 11:29:44+00:00,1561676995104317441,neutrino_proto,"💫 We have the most motivated community. Thanks everyone for participating!
+
+😎See you next voting! Stay tuned and let's make the protocol better together!💎",22,10,4,2022-08-22
+255,2022-08-24 15:25:51+00:00,1562461188457316356,neutrino_proto,"⚡️Update
+
+We have implemented the changes from the latest voting. 
+
+✅USDN&gt;WAVES Max Swap Amount depends on the current BR. WAVES&gt;USDN Max Swap Amount remains unchanged 
+✅BR protection added 
+✅gNSBT rewards distribution between SURF and NSBT stakers has been improved
+
+Enjoy😎 https://t.co/O4e94VfG4U",104,53,37,2022-08-24
+256,2022-09-20 17:18:04+00:00,1572273902965125120,neutrino_proto,"Our team has been analyzing the market statistics and reviewing your proposals.
+To react to the current market conditions and stabilize the Neutrino protocol we decided to run voting #9 
+https://t.co/YfnNS8ZiS1
+
+1️⃣ Change BR calculation logics.
+2️⃣ Reduce WAVES-&gt;USDN protocol fee. https://t.co/qGtb8Xj7E1",51,20,16,2022-09-20
+257,2022-09-22 06:21:20+00:00,1572833407947935744,neutrino_proto,"💫Congratulations to everyone on the end of the voting #9.
+
+Final votes:
+✅Change BR calculation logics: 99.49% Yes
+❌Reduce WAVES-&gt;USDN protocol fee: 61.12% No
+
+Within 2-3 working days, the team will implement all the changes. 
+
+💎Stay tuned and let's shape the diamond together! https://t.co/Mj9CKTZi1C",61,24,14,2022-09-22

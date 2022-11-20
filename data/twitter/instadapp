@@ -1,0 +1,382 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-16 17:35:41+00:00,1217863001673363456,Instadapp,"We’ve added @WalletConnect integration allowing you to use the portal with any WC compatible mobile wallet such as @TrustWalletApp, @argentHQ, @gnosisSafe and more. https://t.co/gB4zhpQSmP",59,0,12,2020-01-16
+1,2020-03-03 17:19:00+00:00,1234891033600643072,Instadapp,"1/ We are announcing DeFi Smart Accounts, a platform providing users &amp; developers with a single point of integration to access all the DeFi protocols. Our aim is to make using &amp; building DeFi much easier.
+
+https://t.co/yZBGtFOsY1",229,7,53,2020-03-03
+11,2020-03-04 08:13:07+00:00,1235116044928180225,Instadapp,"@fiatbad @KyberNetwork Yes, we will definitely evaluate any protocols before it is connected to DeFi smart accounts.",4,0,0,2020-03-04
+12,2020-04-28 18:41:06+00:00,1255205414880317440,Instadapp,"8/ We're thrilled to see how the ecosystem evolves progressively as more and more applications are built on top of this mid-layer platform. We're all ears to developers/users and would like to invite everyone to be part of this effort, and join us!",5,0,1,2020-04-28
+19,2020-05-09 17:47:29+00:00,1259178190142091264,Instadapp,"Create multiple Smart Accounts for💫unique DeFi use-cases, managed by numerous authorities.
+
+https://t.co/NnBFT85mBv",25,0,12,2020-05-09
+20,2020-05-11 18:12:57+00:00,1259909373909925889,Instadapp,"Let's Make DAI Stable.
+
+Announcing strategies to take advantage of the arbitrage opportunities while making DAI more stable in the process 👇
+
+https://t.co/zdqaiFVg4a",68,2,13,2020-05-11
+27,2020-05-20 16:04:23+00:00,1263138509398966273,Instadapp,"Our list of DeFi connectors is growing 📈 Build dapps and compose cross protocol transactions without writing any smart contracts #NoCodeRevolution 
+
+https://t.co/2lXX4kACfK https://t.co/zSL0qhrADF",53,3,17,2020-05-20
+29,2020-05-26 18:46:52+00:00,1265353729710096386,Instadapp,"Developers can execute this use-case with just 36 lines of codes. No solidity required, of course!
+
+https://t.co/JyNahh7XX7",7,0,1,2020-05-26
+31,2020-06-01 15:47:13+00:00,1267482844236046336,Instadapp,"ANY developers can build arbitrage bots to gain from market inefficiency. Can't wait for a Dapp providing better services than Instadapp dapp to be built on top of DSA!
+
+Get started now: https://t.co/3A8kR3FmZG https://t.co/Trf8gqi7CN",19,0,4,2020-06-01
+32,2020-06-02 19:36:06+00:00,1267902832142942212,Instadapp,"We've just added @AaveAave connector to https://t.co/moDqADEuoV. You can build, execute and interoperate Aave with the whole DeFi ecosystem. https://t.co/hMMDlVK16y",91,4,21,2020-06-02
+33,2020-06-11 02:22:11+00:00,1270904127963480065,Instadapp,"@delitzer @compoundfinance You can do this on the our portal even today! That's USDC-DAI leveraging. DSA makes all this mix-match super simple to execute.
+
+https://t.co/bRDr55iv30 https://t.co/uJD9hs9Skm",17,1,4,2020-06-11
+34,2020-06-14 02:50:51+00:00,1271998506191007745,Instadapp,"@joevu @delitzer @compoundfinance First off, we don't have any access to the user's compound positions so 100% of the COMP accrual goes to users.
+
+In fact, Instadapp users could even maximize the total COMP returns on the portal:
+
+https://t.co/rFqCowgXMb",8,1,1,2020-06-14
+35,2020-06-15 19:24:23+00:00,1272610924860448769,Instadapp,"Compound governance distribution is live - maximize your $COMP mining by leveraging position b/w stable-coins.
+
+You could earn COMP by up to 21 times in the best-optimized position (i.e. DAI&lt;&gt;USDT).
+
+https://t.co/V4jLWd4tzE https://t.co/S8GRYYra46",76,12,15,2020-06-15
+36,2020-06-16 05:50:50+00:00,1272768578048196608,Instadapp,"@devops199fan @vallard14 @smykjain The support for COMP balance will be reflected within next 24 hours on https://t.co/yFmxsOkHgD portal. You'll be able to deposit / withdraw COMP.
+
+Developers can programmatically manage their positions here:
+https://t.co/ijslBf9Npn",2,0,0,2020-06-16
+38,2020-06-17 15:49:05+00:00,1273281520271347713,Instadapp,"Such kinds of powerful primitives are possible on top of DSA with the conjunction of many DeFi protocols. Developers can build their customized and robust DeFi use cases here:
+
+https://t.co/3A8kR3FmZG",9,0,3,2020-06-17
+45,2020-06-18 16:48:33+00:00,1273658873325457408,Instadapp,@DegenSpartan @mbaril010 @nocturnalsheet Here you go: https://t.co/ZSFd1ZiPuJ,9,1,0,2020-06-18
+49,2020-06-19 12:35:50+00:00,1273957662107922432,Instadapp,@BTCbuddah @DegenSpartan @mbaril010 @nocturnalsheet You can use ledger via MetaMask inbuilt hardware wallet integration.,1,1,0,2020-06-19
+50,2020-06-20 13:13:19+00:00,1274329485773426693,Instadapp,"Added support for BAT $COMP mining on Instadapp. 
+
+Leverage your BAT positions to maximise the COMP earnings by upto 35x wrt DAI.
+
+Quick tip: Create BAT lent &amp; borrowed, both positions on our portal to SUPER maximize 🤑
+
+https://t.co/GxHmbm0yKN https://t.co/mc9oSgeoIT",59,3,11,2020-06-20
+51,2020-06-21 12:51:57+00:00,1274686496570834944,Instadapp,"So far +$46.3M flashloan in four tokens have been initiated on Instadapp to assist users in farming $COMP.
+
+USDC: $23.5M
+DAI: $19.2M
+BAT: $2.6M
+ETH: $1M
+
+The best place to yield: https://t.co/BYMsxQ3aCm https://t.co/wCHgtk0ur1",34,3,9,2020-06-21
+53,2020-06-24 00:21:02+00:00,1275584684588597248,Instadapp,@am_soru You’ve to manually deposit funds to your account from dashboard page.,1,0,0,2020-06-24
+54,2020-07-01 03:13:39+00:00,1278164838091456515,Instadapp,@omanoui No. Our contracts assist you in rebalancing your positions. Once the new COMP dist. the proposal is enacted - we will come up with action plans to best maximize your position ;),1,0,0,2020-07-01
+55,2020-07-02 21:19:05+00:00,1278800384249802755,Instadapp,"The season is coming to an end. It's time to rotate the crops 🌽 to maximize your $COMP earnings.
+
+Introducing Debt Swap - switch your Compound stablecoin debt from USDT to DAI in a single click. Pay less interest and earn more COMP.
+
+https://t.co/bRDr55iv30 https://t.co/XLkRITj5tj",134,4,39,2020-07-02
+57,2020-07-03 12:23:44+00:00,1279028048088764416,Instadapp,"Anyone looking for FREE money? 💸
+
+- Visit https://t.co/bRDr55iv30
+- Import compound position
+- Swap USDT/USDC debt into DAI
+- PROFIT
+
+✅ Instant +1% discount on your debt
+✅ Make DAI stable in the process
+✅ Low slippage (even Millions) https://t.co/nEB9sBk4mT https://t.co/NIT3qVMmT2",19,2,4,2020-07-03
+59,2020-07-05 02:34:14+00:00,1279604473032146944,Instadapp,"@jordan_wentzell @DeFi_Dad @compoundfinance Yes, we do.",2,0,0,2020-07-05
+60,2020-07-06 16:40:55+00:00,1280179932249939969,Instadapp,"DSA developers can build, execute and interoperate Curve with the whole DeFi ecosystem.
+
+https://t.co/TLAKA8sGui",5,0,1,2020-07-06
+62,2020-07-09 16:10:55+00:00,1281259548947427328,Instadapp,"We've added @UniswapProtocol connector to https://t.co/moDqADEuoV. You can build, execute and interoperate Uniswap with the whole DeFi ecosystem. https://t.co/8HgffVKYoi",59,2,19,2020-07-09
+63,2020-07-12 18:54:17+00:00,1282387822171828224,Instadapp,"Now, you can refinance your WBTC positions between Maker and Compound at https://t.co/ZSFd1ZiPuJ https://t.co/UVVGPcBqiX https://t.co/gvCIeJVC59",40,1,12,2020-07-12
+64,2020-07-15 03:53:40+00:00,1283248339727745024,Instadapp,@breenemachine Click the “connected” button on top right corner - it will show you all the wallet options to connect with.,0,1,0,2020-07-15
+66,2020-07-19 03:10:41+00:00,1284687073547620354,Instadapp,"We've just added support for Curve Yield Stablecoin Pool 🎉
+
+You could get an instant returns 💰 on providing DAI liquidity. Profitable recipes and staking rewards are coming soon!
+
+https://t.co/t8HVLaMaF1 https://t.co/SWAdxoYsVy",91,2,23,2020-07-19
+68,2020-07-29 00:10:27+00:00,1288265597021761538,Instadapp,"We've just added support for WalletLink on Instadapp! Now manage your entire DeFi stack, by simply linking your @CoinbaseWallet from any browser! https://t.co/HZLrUPjsZu",59,13,10,2020-07-29
+69,2020-07-30 19:02:03+00:00,1288912758357073923,Instadapp,"If you trust $DAI will go back to $1 peg - its time to short sell, stabilize the market, and profit 🤑 in the process.
+
+Introducing Short DAI - create a short position by up to 14x via Maker USDC Vault in a single click without price volatility risk.
+
+https://t.co/q08HUs16i3 https://t.co/guYmpbR4po",151,11,38,2020-07-30
+71,2020-07-31 00:48:39+00:00,1288999986303098880,Instadapp,"@JDamian420 @rlacumba @smykjain Join our discord channel.
+
+https://t.co/3FDTKkLVvS",1,0,0,2020-07-31
+72,2020-08-25 17:33:50+00:00,1298312645100146690,Instadapp,"There is now more than $1B worth of digital assets stored on @GnosisSafe Multisig contracts!
+
+We're excited to announce the integration of Gnosis Safe on Instadapp, allowing users to manage DeFi via MultiSigs.
+
+Setup now: https://t.co/BYMsxQ3aCm",57,4,19,2020-08-25
+74,2020-08-27 16:57:42+00:00,1299028327638986752,Instadapp,"We're thrilled to announce the support for @AaveAave 👻 on the Instadapp portal - users can also leverage, short, switch debt, and more exciting recipes coming soon!
+
+https://t.co/DlD30ikUKd https://t.co/ARhM027TQV",190,7,44,2020-08-27
+75,2020-09-18 17:01:38+00:00,1307001847723425793,Instadapp,@watatata0108 @zerion_io https://t.co/ILci8MTkIh,0,1,0,2020-09-18
+82,2020-09-26 09:40:14+00:00,1309789871574138881,Instadapp,@dvisionlabs Thanks for the shoutout.,2,0,0,2020-09-26
+83,2020-10-14 10:22:53+00:00,1316323584571138049,Instadapp,@CryptoWinthorpe Let us know what changes you’d like to see.,1,0,0,2020-10-14
+84,2020-11-09 06:45:38+00:00,1325690997469229057,Instadapp,"@theunclemimo @zerion_io @androolloyd @dmihal @UniswapProtocol Did you claimed the balance on Uniswap portal? If not, follow this guide.
+
+https://t.co/YxGzijaD82",0,1,0,2020-11-09
+85,2020-12-01 14:36:05+00:00,1333781924347842561,Instadapp,@hsuantingchu @sowmay_jain Thanks Hsuan :),0,0,0,2020-12-01
+86,2020-12-07 16:52:24+00:00,1335990554077908994,Instadapp,"Announcing the support for @AaveAave v2 with easy one-click migration and DeFi strategies 👻
+
+https://t.co/uSQEczz9TV https://t.co/cbJQyEsWc1",154,6,31,2020-12-07
+87,2020-12-10 15:48:32+00:00,1337061647010172934,Instadapp,"We utilise the COMP to actively participate in proposals, which helps to shape the future of @compoundfinance. Check out our governance profile.
+
+https://t.co/wZOUYfjIkE",9,1,4,2020-12-10
+89,2021-01-03 07:48:40+00:00,1345638192981020672,Instadapp,@anon_gone Pretty safe! Millions migrated.,1,3,0,2021-01-03
+90,2021-01-07 15:38:56+00:00,1347206088639201280,Instadapp,"Introducing Maker Vault Refinancing! A set of operations giving more flexibility to manage @MakerDAO positions allowing you to:
+
+(1) Merge similar asset vaults
+(2) Split vault into two
+(3) Swap vault collateral
+(4) Move debt between vaults
+
+https://t.co/yKAuZjZbgB https://t.co/DhOrrOK8Xn",34,2,10,2021-01-07
+92,2021-01-13 16:45:28+00:00,1349397161557991425,Instadapp,"Introducing Multi-Protocol Refinancing! ♻️
+
+Easily move lending + borrowing positions between Maker, Compound &amp; Aave (v1/v2) in a single click. Find the best rates and liquidation ratios across different lending protocols.
+
+https://t.co/CnQlCm6okr https://t.co/6xJDatPrly",94,8,27,2021-01-13
+93,2021-01-19 00:58:21+00:00,1351333139063296001,Instadapp,"Build DeFi apps instantly!
+
+📃 https://t.co/3A8kR3nLB6 https://t.co/hYg2sDwuzD",13,0,4,2021-01-19
+94,2021-01-25 18:23:51+00:00,1353770573764063238,Instadapp,"Start managing your Uniswap Pools 🦄 today on Instadapp!
+
+💰The liquidity providers are earning fees on average $1b daily volumes.
+
+🔜 Soon leverage your Unipool tokens on Maker Vaults to grow your fees by up to 5x.
+
+https://t.co/8a7N1dp9z8 https://t.co/uLadepHHad",255,46,74,2021-01-25
+95,2021-02-01 19:46:48+00:00,1356328165380149248,Instadapp,"Instadapp powers ~$500M crypto-assets managed across Maker, Aave, Compound &amp; Uniswap.
+
+🧾 18K contract accounts
+⚡️ $3B flashloan volumes
+🔁 $1B token swaps
+
+Check our renovated homepage: https://t.co/4RMUmjtgxT https://t.co/ajnc07DMMe",80,7,26,2021-02-01
+96,2021-02-03 18:41:12+00:00,1357036430766333959,Instadapp,"Introducing Instadapp Actions! 🤖
+
+Automate your Maker ETH-A Vaults to refinance between Maker ETH-B, Aave &amp; Compound to protect from liquidation. More advanced automation to come!
+
+Powered by @gelatonetwork https://t.co/I8jCx0HGwj",127,14,32,2021-02-03
+98,2021-02-10 16:25:53+00:00,1359539093642878977,Instadapp,"We're going to sit with our friends @GelatoNetwork to discuss the newly launched Instadapp Actions.
+
+Come join us! https://t.co/KbxFC41sdU",14,1,0,2021-02-10
+99,2021-02-15 19:08:41+00:00,1361392002055639040,Instadapp,"Introducing DeFi Simulation! 🧙‍♂️
+
+Are you not using DeFi due to high gas cost? Try, Test, Trust, without spending a dime. User's GAS FREE environment to try DeFi without spending any real money.
+
+Powered by @TenderlyApp 
+
+Simulate @ https://t.co/zQIUGWjt3e https://t.co/y8OhQBUg2p",658,28,190,2021-02-15
+101,2021-02-17 18:24:35+00:00,1362105678697955328,Instadapp,"Announcing DeFi Smart Layer: an open infrastructure layer for Decentralized Finance and tokens for governance.
+
+https://t.co/TZimGuqaSU",336,14,79,2021-02-17
+102,2021-04-06 19:11:58+00:00,1379512221601005574,Instadapp,"We are one step closer to the Instadapp Protocol and Governance! We're incredibly proud to share that the core contracts for DSL are now fully audited and are live on Ethereum blockchain. Here are our notes on the upcoming innovation:
+
+https://t.co/S6S95F7QtM",154,8,28,2021-04-06
+103,2021-04-09 17:52:24+00:00,1380579360072204289,Instadapp,https://t.co/dnGanhvY4Y,40,1,2,2021-04-09
+105,2021-04-15 16:40:56+00:00,1382735702828355584,Instadapp,"3/ Please never enter your private key or mnemonic phrase into any website, random Metamask pop-up, or other website prompts. Please be safe out there! And report any scam websites on our discord channel.
+
+https://t.co/3FDTKkLVvS",10,0,1,2021-04-15
+108,2021-04-20 19:52:57+00:00,1384595966762782726,Instadapp,"We are incredibly excited to launch the first-ever L1&lt;&gt;L2 refinancing bridge b/w @ethereum and @0xPolygon 🌉
+
+Migrate your L1 debt positions to @AaveAave on Polygon in a single click and enjoy powerful DeFi functionality at fractions of a penny!
+
+👉 https://t.co/MXYnXUl7AX https://t.co/z5YnKLIvDN",895,32,194,2021-04-20
+112,2021-04-26 17:13:22+00:00,1386730134112141313,Instadapp,"Aave Liquidity Mining is live! 🚀
+
+Leverage your position on Instadapp and maximize your $AAVE returns by 10x and even more than 100% APY in the best-optimized position 🤑
+
+https://t.co/uSQEczhyvl https://t.co/idtE6GUBHM",137,11,20,2021-04-26
+114,2021-05-06 19:51:55+00:00,1390393910590017536,Instadapp,"Polygon strategies are live! 🚀
+
+Leverage your @AaveAave position on @0xPolygon and maximize your $MATIC returns by ~50% APY in the best-optimized position!
+
+Enjoy the super-fast confirmations for fractions of a penny! 💸
+
+https://t.co/qr8E4SSerT https://t.co/uR9lMurOrV",770,24,146,2021-05-06
+116,2021-06-01 15:43:05+00:00,1399753374241738753,Instadapp,"Check out the ghostly aestetic on https://t.co/zfWfguuUyu
+
+I guess nothing beats being haunted by a 20b TVL+, liquidity protocol bringing financial access to all 👻@aaveaave https://t.co/uwnSfZxpMl",138,11,25,2021-06-01
+117,2021-06-11 18:21:32+00:00,1403417127462129669,Instadapp,"Introducing DeFi Terminal.
+
+An advanced browser-based playground to cast DeFi spells with a few lines of code 🪄
+
+https://t.co/DBOnkK1PVJ",137,6,29,2021-06-11
+118,2021-06-16 18:31:51+00:00,1405231665882882052,Instadapp,"5/ LP Staking - INST will be the first implementation of @Uniswap v3 price ranges pooled into an ERC20 token in partnership with @gelatonetwork. Users can stake INST into these pools and receive additional rewards.
+
+https://t.co/pWqTqZN3MT https://t.co/PgYJb2rxvr",95,15,17,2021-06-16
+124,2021-06-23 21:33:51+00:00,1407814181995245569,Instadapp,"The first Instadapp Governance Proposal (IGP #1) is live for voting 🗳️
+
+Replaces the admin of the protocol and control of the connectors from the team's timelock with the Governance timelock.
+
+More info: https://t.co/LdosBuNQ7m",76,4,11,2021-06-23
+126,2021-08-10 16:50:59+00:00,1425137614860918788,Instadapp,"We are holding our first Community Call in the next hour! Join us over at Discord!
+
+We will discuss Guilds, an upcoming DApp build on top of Instadapp and leave room for community discussions!
+
+https://t.co/3FDTKkLVvS",17,1,1,2021-08-10
+127,2021-08-20 16:35:17+00:00,1428757543183032326,Instadapp,"2/ Liquity is a unique DeFi primitive: Liquity's no governance self-managed approach increases the capital access of ETH with a high collateral factor. This, paired with its low fees for borrowing, can create opportunities for refinancing strategies during market crashes.",8,1,2,2021-08-20
+128,2021-08-30 18:37:12+00:00,1432412102392631299,Instadapp,Users 👦 Your DeFi hotspot where you can interact with a wider variety of protocols and test and utilize different upcoming strategies and other creative use cases shared by the community and other developers.,8,1,0,2021-08-30
+132,2021-08-31 16:44:52+00:00,1432746221261639681,Instadapp,"[IGP #4] Extend Liquidity Mining and Staking Rewards - is live for voting 🗳️
+
+Allocates 5M INST tokens for use in extending the Liquidity Mining rewards.
+
+Read more: https://t.co/6HE0P178NZ",27,2,3,2021-08-31
+133,2021-09-12 15:21:24+00:00,1437073866711396356,Instadapp,"👀 @Arbitrum 
+
+https://t.co/V2w0ztKXbG",531,12,78,2021-09-12
+134,2021-09-13 16:13:02+00:00,1437449251764637699,Instadapp,"Join our community discord for any questions!
+
+https://t.co/ReEKxXcekV",14,1,0,2021-09-13
+139,2021-09-16 18:44:00+00:00,1438574406981210126,Instadapp,"@reflexerfinance is now supported on Instadapp Assembly🗿
+
+👉 https://t.co/PnPN6IKieD https://t.co/nVktIsWX8F",20,0,7,2021-09-16
+140,2021-09-20 04:09:14+00:00,1439803814106722304,Instadapp,"Instadapp has partnered with @immunefi to create our first ever bug bounty!
+
+https://t.co/6B4fEJnLfX",24,3,2,2021-09-20
+141,2021-09-29 17:04:05+00:00,1443260304524152832,Instadapp,"We are live on @Arbitrum with @Uniswap.
+
+Create and manage Uniswap NFTs on Arbitrum with the blazing speed and low costs.
+
+https://t.co/zRw0L012UO https://t.co/SGMmJgGYPf",211,15,36,2021-09-29
+142,2021-10-05 18:21:17+00:00,1445454058651668481,Instadapp,"Instadapp Core Contracts are deployed on @avalancheavax 🔺
+
+Which Avalanche projects would you like to see next❓
+
+https://t.co/CqpE116hyQ",260,25,52,2021-10-05
+143,2021-10-07 17:24:10+00:00,1446164458678591499,Instadapp,"We are now live on @Avalancheavax with @AaveAave.
+
+👉 https://t.co/KpnzFmwha6 https://t.co/mYKgpWy6v4",431,28,68,2021-10-07
+144,2021-10-08 17:53:15+00:00,1446534167798317057,Instadapp,"Instadapp Interop, coming soon 🔜 https://t.co/7qIrzhvASp",520,58,120,2021-10-08
+145,2021-10-25 16:09:08+00:00,1452668560870760450,Instadapp,"You can find Protection Automation under the Strategies tab. Once set, the Gelato bots will maintain your position at your desired settings. https://t.co/n6rs4K2Rau",12,1,0,2021-10-25
+148,2021-11-19 12:43:25+00:00,1461676483903049728,Instadapp,"Who is ready for some cross chain refinancing 👀
+
+Stay tuned, launching soon! https://t.co/pq2myDLFkF",188,18,28,2021-11-19
+149,2021-12-02 17:48:49+00:00,1466464384918511617,Instadapp,"Starting with Aave Position on Polygon &amp; Avalanche, Interop will be expanded to multiple protocols across different chains.
+
+Check out our explainer video!
+
+https://t.co/msPQoO4NaS",21,1,2,2021-12-02
+155,2021-12-06 18:54:39+00:00,1467930503995015168,Instadapp,"1/ We are super excited to announce the first-ever Flashloan Aggregator (FLA).
+
+⚡️Aggregates many providers.
+⚡️Supports multiple chains.
+⚡️Access to wide liquidity and tokens.
+⚡️Advance routing for lower fees. https://t.co/ympT4SuwAx",105,6,21,2021-12-06
+159,2021-12-09 15:20:10+00:00,1468963689302691843,Instadapp,"Today, we're excited to support the Aave debt migration bridge between Ethereum🌉Polygon!
+
+This is a significant step in growing the Ethereum ecosystem and building a cross-chain interoperable DeFi.
+
+More integrations to follow! Stay tuned.
+
+https://t.co/65X3LdjQ34 https://t.co/SGuVOmfNlm",221,37,38,2021-12-09
+160,2021-12-16 21:58:44+00:00,1471600708801609728,Instadapp,"New day, new bridge 🌉🌉
+
+We just *shipped* support for the debt migration bridge between Ethereum &lt;&gt; Avalanche. Users can now easily move their debt positions between those chains!
+
+Mainnet =&gt; Avalanche
+https://t.co/65X3LdjQ34
+
+Avalanche =&gt; Mainnet
+https://t.co/wVi4u2sqjz https://t.co/MCQMzDKixZ",80,8,16,2021-12-16
+161,2021-12-21 19:07:41+00:00,1473369601882816514,Instadapp,"gm🦄
+
+Introducing @Uniswap on @0xPolygon
+
+https://t.co/z50cLzcjZS https://t.co/UWqaLofEXu",1063,76,252,2021-12-21
+162,2022-02-14 15:04:29+00:00,1493239730548658177,Instadapp,"Choose your preferred chain and start managing your Uniswap positions and rewards!
+
+Mainnet: https://t.co/RwmajXRZSE
+Polygon: https://t.co/z50cLyVgXS
+Arbitrum: https://t.co/zRw0L0jc8W
+Optimism: https://t.co/paCLm5DO4c
+
+Join our discord for any questions!
+https://t.co/ReEKxXunz3",7,3,1,2022-02-14
+167,2022-03-07 19:20:31+00:00,1500914310616342529,Instadapp,"Introducing Uniswap Tick Rebalancer (UTR). Never stay out of range!
+
+https://t.co/RwmajXRs36 https://t.co/PkTHAfq3zm",61,6,21,2022-03-07
+170,2022-03-14 20:02:10+00:00,1503461505383206924,Instadapp,"Introducing the easiest way to earn a high APR on your ETH holding. Go long on stETH by borrowing ETH and make a juicy return! 💸
+
+https://t.co/uSQEczz9TV https://t.co/22fDsIrGvp",200,12,36,2022-03-14
+173,2022-03-16 17:49:54+00:00,1504152993398243335,Instadapp,"Thrilled to go live with @AaveAave v3 👻 on Polygon, Avalanche, Arbitrum, and Optimism.
+
+Stay tuned for exciting use cases with Portal, Efficiency Mode, Isolation Mode, and many powerful features in Aave v3 💫 https://t.co/kiQVsnmP4A",107,9,32,2022-03-16
+175,2022-03-30 19:55:35+00:00,1509258055103492101,Instadapp,"Security disclosure.
+
+The contracts are upgradable, and the admin rights stay with a 5/7 team’s MultiSig. After one week of monitoring the system, the MultiSig will be replaced by a Timelock and Governance thereafter.",15,2,0,2022-03-30
+182,2022-04-07 20:36:45+00:00,1512167519276384256,Instadapp,"We are excited to launch the first-ever refinancing bridge between @AaveAave v2 &lt;&gt; v3 on @0xPolygon
+
+Migrate your debt positions in a single click and enjoy powerful DeFi functionality at fractions of a penny!
+
+👉 https://t.co/kr7GDR7FAr https://t.co/SuPMcftUsn",110,14,28,2022-04-07
+184,2022-04-13 18:26:24+00:00,1514309041400729600,Instadapp,"Introducing USDC Lite Vault.
+
+The first ever interest bearing USDC token giving you direct exposure to ETH 2.0 high staking rewards 💰
+
+Earn ~9% on USDC in 1-click.
+
+https://t.co/SyqP5w2KsL https://t.co/YmNbDrDqXD",188,16,36,2022-04-13
+189,2022-04-19 16:39:31+00:00,1516456468475572227,Instadapp,"1/ Today, we are open-sourcing Infinite Upgradable Proxy ♾, which allows you to add any number of implementations to an upgradable contract and overcomes the contract size limitation of Ethereum.
+
+https://t.co/uklBfIcUHU",73,6,14,2022-04-19
+192,2022-04-20 15:15:52+00:00,1516797804592910337,Instadapp,"By composing @AaveAave and @LidoFinance, we can extend the ETH 2.0 built-in interest rate and create reliable, sustainable yields for some of the most popular DeFi Assets like WBTC.",14,1,0,2022-04-20
+194,2022-04-26 16:23:40+00:00,1518989194735288320,Instadapp,"Introducing the Lite Vault for DAI!
+
+Earn sustainable ~7.5% APR on your DAI.
+
+https://t.co/SyqP5w2KsL https://t.co/gylNoHtkPD",42,7,13,2022-04-26
+195,2022-05-11 20:02:26+00:00,1524480067811913728,Instadapp,"1/ Updates on Instadapp Lite
+Since launch all the Lite vaults has been monitored every minute and we are proud to say rebalancing and automations worked as intended and prevented liquidation of the Vault 🚀.",60,3,11,2022-05-11
+201,2022-05-18 22:58:55+00:00,1527061198512041985,Instadapp,"We thank the community for their patience as we worked with @LidoFinance to find the best solution to the recent stETH depegging situation. Here’s the breakdown on how we ensure the security of Lite vaults!
+
+https://t.co/s0AIOXvd2u",114,26,25,2022-05-18
+202,2022-05-21 20:59:13+00:00,1528118237409554432,Instadapp,@StablinoFarma @rossboothr @ribbonfinance @idlefinance holding up very well 💪,0,0,0,2022-05-21
+203,2022-05-24 21:37:14+00:00,1529214966598979585,Instadapp,"Hop is now live on Instadapp!
+
+Users can now easily bridge between chains using @HopProtocol. https://t.co/BWVAKQoqjx",316,12,52,2022-05-24
+204,2022-05-26 18:00:43+00:00,1529885254139494400,Instadapp,"2/ As soon as we realized the gravity of stETH/ETH depeg last week, the first step we took was pausing deposits and withdrawals from Lite Vaults. Many of our users panicked, to realise later that it was beneficial for all of our users, community, and stETH holders at large.",11,0,0,2022-05-26
+215,2022-06-09 17:11:07+00:00,1534946201564594176,Instadapp,"Events like these are not new!
+
+We are Open Sourcing a Smart Address Lookup to validate addresses before moving big money 💸
+
+https://t.co/p31kM6EMjI https://t.co/pqY6kX9DTl https://t.co/FFpPtzWvnD",71,11,17,2022-06-09
+217,2022-07-12 14:38:05+00:00,1546866489927630850,Instadapp,"Introducing an all-new Instadapp Playground💫
+
+Interacting with web3 - right from your browser - has never been easier.
+
+https://t.co/eWG0YL57dH https://t.co/ulMWVE9UM1",62,26,20,2022-07-12
+219,2022-07-27 15:59:09+00:00,1552322708599619584,Instadapp,"Higher swap success rates have been at the top of your requests!
+
+Introducing Swap Aggregator - which fetches the best price across multiple DEX aggregators - giving you negligible swaps and strategies on Instadapp, even in uncertain market conditions! https://t.co/qZcgVedX7G",41,19,12,2022-07-27
+220,2022-08-04 16:07:34+00:00,1555223929635033093,Instadapp,"🆕 Protect your Aave v3 Positions on Instadapp!
+
+Turn ON the Aave Protection switch on the portal and save your position from being liquidated unexpectedly!
+
+https://t.co/nPh2CNo8tt
+https://t.co/K72OwTttFf https://t.co/q4N3e0OhV3",27,3,12,2022-08-04
+221,2022-08-09 14:47:55+00:00,1557015824535556096,Instadapp,"Sweep tokens that are not useful in your DSA by swapping them for a single token:
+
+1. Select tokens you want to get rid of
+2. Select token you want to swap them for
+3. Click on Swap💥 
+
+https://t.co/Ta7SFWpBG7 https://t.co/JVlo8M7QNS",41,22,11,2022-08-09
+222,2022-08-29 14:06:37+00:00,1564253190211547137,Instadapp,@litocoen ❤️,2,1,0,2022-08-29
+224,2022-08-30 16:32:06+00:00,1564652188190003207,Instadapp,https://t.co/NPLfk9Vin3,10,6,4,2022-08-30
+227,2022-09-01 19:36:40+00:00,1565423413270695936,Instadapp,"1/ Lite Update: The utilization of ETH market on AAVE has exceeded 70% increasing borrowing rates which can result in negative APR on leveraged products including the Lite vaults.
+
+We expect this to be temporary as it will attract more ETH suppliers.",24,3,4,2022-09-01
+233,2022-09-02 06:35:09+00:00,1565589124341710849,Instadapp,defi,25,6,3,2022-09-02
+234,2022-09-05 15:49:46+00:00,1566815863084568579,Instadapp,"1/ Protection Automation has arrived for Aave v2 on Mainnet 🚀
+
+You can get started with your existing positions on Instadapp or import your AAVE v2 position to get started!
+
+https://t.co/XBNK5xktJp https://t.co/cUhcSpTjIL",26,6,7,2022-09-05
+238,2022-09-07 16:02:35+00:00,1567543864759820289,Instadapp,"We're super thrilled about Compound v3, and we'll be talking about exciting new features, v3 design, and more with @rleshner!✨ 
+
+Set your reminders here👇
+https://t.co/Tlj4euiwkG",37,9,11,2022-09-07
+239,2022-09-09 15:03:30+00:00,1568253772216037377,Instadapp,"You will also be able to import your v2 positions with our refinancing tool coming soon!
+
+Read more about Compounds exciting new features, here:
+
+https://t.co/1wnsMVWKlM",8,2,0,2022-09-09

@@ -1,0 +1,880 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2021-04-01 18:38:21+00:00,1377691821946589187,TempusFinance,"Hello world! More info on the project soon. In the meantime check out our job listings:
+https://t.co/tIuHovWMW5",23,2,4,2021-04-01
+1,2021-07-07 15:50:43+00:00,1412801257580945408,TempusFinance,Happy to announce we are working with Lido on stETH integration - stay tuned for more updates next week! https://t.co/X1ixu67oLS,25,0,7,2021-07-07
+2,2021-07-15 14:00:17+00:00,1415672572532781076,TempusFinance,"We’re excited to announce a $1.9M seed funding round of Tempus
+
+https://t.co/H9646nFAa3",57,2,15,2021-07-15
+10,2021-07-16 11:06:13+00:00,1415991151904100353,TempusFinance,@Gems_Radar @Lemniscap @divdotvc @tomahawk_vc @GSR_io @wintermute_t @LAUNCHub @supernova_fund Thanks for the support guys!,4,1,0,2021-07-16
+11,2021-07-24 17:28:25+00:00,1418986438809591810,TempusFinance,Are you a motivated business developer or community manager with some crypto experience? We need you! https://t.co/HGfYpd3k7R,17,0,3,2021-07-24
+12,2021-07-29 15:59:07+00:00,1420775904939286529,TempusFinance,Read our @Medium article about how we designed a seamless passive LP experience on Tempus https://t.co/GFFLKfbTkc,16,0,2,2021-07-29
+13,2021-07-30 08:36:03+00:00,1421026793545416705,TempusFinance,@phemy481 @davgarai Open now!,0,0,0,2021-07-30
+14,2021-08-05 11:39:29+00:00,1423247283735482373,TempusFinance,"Our first newsletter is out! 
+
+https://t.co/AIYXbsPI4S",19,0,4,2021-08-05
+15,2021-08-13 14:56:26+00:00,1426195949253189637,TempusFinance,"In this week's blog, our team member @ManotPujeet briefly examines historical DeFi yields and gives his thoughts about some of the benefits of fixed rates.
+
+https://t.co/SgqeMTYxfl",25,0,8,2021-08-13
+16,2021-08-19 13:09:21+00:00,1428343328244912135,TempusFinance,"1/ We are introducing TempusAMM, a custom AMM designed for assets with progressively increasing price correlation and decreasing volatility  ​​🎉  Blog by @mijovic988:
+
+https://t.co/qhep4rnOjx",62,3,15,2021-08-19
+24,2021-09-03 13:31:23+00:00,1433784690465464321,TempusFinance,"We're excited to work with @BalancerLabs on our upcoming AMM - allowing efficient trading between token pairs with predictable changes in volatility and price correlation
+
+Read more:
+https://t.co/hf5vVTjbNA",118,3,30,2021-09-03
+25,2021-09-15 11:47:34+00:00,1438107219606872071,TempusFinance,"Read the blog by @garai on how vault strategies can optimize the liquidity provision experience on Tempus
+
+https://t.co/x7UFhYdpVF",142,11,84,2021-09-15
+27,2021-09-16 15:46:20+00:00,1438529696870850575,TempusFinance,Looks rare https://t.co/BhB9ue2GOr,289,56,164,2021-09-16
+29,2021-09-17 22:20:46+00:00,1438991344152809472,TempusFinance,@kokid951 @TempusSers,3,0,0,2021-09-17
+30,2021-09-20 11:57:15+00:00,1439921597008080911,TempusFinance,"Our founder @davgarai will be doing an AMA with @cryptoplaza_es (in English) tomorrow at 18:00 Madrid time.
+
+Don't forget to tune in! The top five questions will be whitelisted to receive @TempusSers NFTs. https://t.co/kXe2TeZIS3",84,9,40,2021-09-20
+31,2021-09-21 16:03:18+00:00,1440345904871972878,TempusFinance,"We are now live with Crypto Plaza!
+
+@davgarai will be explaining about Tempus. Get a chance to know more about @TempusSers and ask your questions on the chat.
+
+5 lucky winners will be whitelisted for up to 5 NFTs during the AMA!
+
+https://t.co/fQWv77yRf3…
+
+See you there!",60,1,16,2021-09-21
+32,2021-09-30 11:01:28+00:00,1443531437022474246,TempusFinance,"We are now LIVE with @hillrisegroup
+
+Join the AMA where @davgarai, @mijovic988 &amp; @pujeetmanot will discuss the recent developments at Tempus and the future of fixed yields in the DeFi space! 🤝 
+
+📆  Date: September 30th
+🕚  Time: 11:00 UTC
+📍  Venue: https://t.co/mwk9X3Ceub https://t.co/roZM9CuSxe",43,3,13,2021-09-30
+33,2021-10-07 10:56:28+00:00,1446066892305678347,TempusFinance,"We are excited to announce the launch of the Tempus Testnet deployed on the Goerli network! 🔥
+
+Thread 🧵👇
+
+Read more:
+https://t.co/dLDr3fvQo0",799,168,558,2021-10-07
+41,2021-10-10 13:50:54+00:00,1447197954637324298,TempusFinance,"Tempus 🤝 Balancer
+
+Join the AMA tomorrow 👇 https://t.co/ndLJ4wOXP1",123,10,60,2021-10-10
+42,2021-10-11 15:00:48+00:00,1447577930968748033,TempusFinance,"We are now LIVE with @BalancerLabs 
+
+Join the AMA where @davgarai, @mijovic988 discuss about @BalancerGrants, the plans for Tempus, the Sers, and our upcoming mainnet launch! 🚀 🤝 
+
+📍 https://t.co/8SObaNTm0u
+
+See you there!",51,0,16,2021-10-11
+43,2021-10-12 19:16:41+00:00,1448004713631211529,TempusFinance,"Are you a talented developer? 👀
+
+Participate in our upcoming Code 423n4 audit contest which begins in 24 hours!
+
+Review our code, find issues, get paid! 💪 https://t.co/ZI2w4Tiw0H",47,1,13,2021-10-12
+44,2021-10-13 16:40:48+00:00,1448327872679079940,TempusFinance,"Are you a talented developer?
+
+Our Code423n4 audit begins today.  Participate, find issues, and earn your part of the $50k USDC pool!
+
+Find out more: https://t.co/cu8KzpYZfa",22,1,5,2021-10-13
+46,2021-10-14 10:30:49+00:00,1448597153107136512,TempusFinance,"Check out our ~30 minute code walkthrough by @mijovic988 in the #Lounge Channel on Discord
+
+What: Learn more about Tempus (super useful for developers participating in the @code423n4 audit competition) 
+
+When: October 14, 2021, 5pm CET/ 3pm UTC 
+
+Join now: https://t.co/U99mDgT8r5",38,2,9,2021-10-14
+47,2021-10-18 17:08:41+00:00,1450146830415761417,TempusFinance,"We are halfway through the @code423n4 - Tempus Smart Contract Audit Contest!
+
+Find a bug or suggest gas optimization methods to get paid up to $50,000 USDC.
+
+Competition ends on October 20, 2021.
+
+Read More: https://t.co/HwzHzDevYg
+
+Participate now: https://t.co/QhCo8avgjG",45,1,18,2021-10-18
+49,2021-10-19 22:59:00+00:00,1450597378428260354,TempusFinance,"24hrs left for the @code423n4 - Tempus Smart Contract Audit Contest!
+
+Find bugs and suggest gas optimization methods to win a part of the $50,000 USDC prize.
+
+Competition ends tomorrow, October 20, 2021
+
+Read More: https://t.co/HwzHzDw6PO
+
+Participate now: https://t.co/QhCo8aMRbe",29,1,7,2021-10-19
+50,2021-10-20 10:59:00+00:00,1450778571245506561,TempusFinance,"12hrs left for the @code423n4 - Tempus Smart Contract Audit Contest!
+
+Find bugs and suggest gas optimization methods to win a part of the $50,000 USDC prize.
+
+Competition ends today, October 20, 2021!
+
+Read More: https://t.co/HwzHzDevYg
+
+Participate now: https://t.co/QhCo8avgjG",28,0,6,2021-10-20
+52,2021-10-21 19:37:23+00:00,1451271415467061250,TempusFinance,"@TempusSers have arrived! If you have been whitelisted for NFTs after the missions, access the new Sers website and mint your very own Ser NFT! You can mint as many NFTs as you have been whitelisted for so far and find them on OpenSea 🚀  
+
+Find out more: https://t.co/UmFldQHfDS",27,0,8,2021-10-21
+53,2021-10-25 09:43:54+00:00,1452571611970736130,TempusFinance,"7,996,400 ETH is all earning *variable* staking yield. 
+
+Tempus is finally bringing *fixed-rate* staking to Ethereum this November. https://t.co/PTEKuxMCKr",77,3,27,2021-10-25
+55,2021-10-26 11:26:32+00:00,1452959830499540992,TempusFinance,@TheFlugeDrake @MikeQuoted @Nevermore We're happy to build a product that addresses a strong need!,0,0,0,2021-10-26
+58,2021-10-27 10:06:43+00:00,1453302128622116870,TempusFinance,"Read the blog by our co-founder @davgarai on the future of Tempus, where he presents some thoughts on the DeFi fixed-rate yield space, future integrations, and going multi-chain.
+
+https://t.co/fq7uBCRntg",55,5,18,2021-10-27
+59,2021-10-29 18:20:54+00:00,1454151271989059586,TempusFinance,"One last surprise before the weekend - check out our brand new website, now live at https://t.co/CckTHA7c9V. This is just one of the many exciting developments we have in store for you. Keep an eye out for all things $TEMP in the coming weeks.",71,6,21,2021-10-29
+61,2021-11-02 18:50:54+00:00,1455608370401001473,TempusFinance,"We are proud to announce our new strategic collaboration with @SushiSwap! 
+
+The partnership between Tempus and Sushi will be mutually beneficial: it allows Tempus to access Sushi’s community resources, pursue more integrations and engage with its users.
+
+https://t.co/jIclEIrTHB",157,25,47,2021-11-02
+62,2021-11-04 15:11:18+00:00,1456277883538722819,TempusFinance,"Tempus is thrilled to announce a $4 million strategic funding round. Find out more about Tempus and the latest funding round below. 👇
+
+https://t.co/FHzDToKerb",128,5,54,2021-11-04
+73,2021-11-05 16:01:23+00:00,1456652876739186688,TempusFinance,"Welcome to our new investors. 👀
+
+@JumpCapital 
+@DistributedG 
+@Koji_Capital 
+
+https://t.co/gYuFd6A4Mb https://t.co/9ftwpMglBI",59,1,12,2021-11-05
+75,2021-11-08 15:55:04+00:00,1457738449461649409,TempusFinance,"We are excited to announce the launch of our new user interface! 
+
+Discover the new features on our website. As always we’d be grateful for your feedback. 
+
+We will select up to 25 wallet addresses who provide feedback on our Discord for 1 Sers NFT each.
+
+https://t.co/GXxj4lwWKR https://t.co/TkBXkQp3jy",77,4,31,2021-11-08
+77,2021-11-09 09:11:00+00:00,1457999150646063114,TempusFinance,"We are happy to announce that the @code423n4 audit report is out, making this Tempus’ second audit in the past 2 months.
+
+Read the full report here: 
+https://t.co/NbS9eiaUca",61,3,11,2021-11-09
+78,2021-11-11 16:13:10+00:00,1458830167422509057,TempusFinance,"We are thrilled to announce that next Tuesday, Nov. 16 @ 5:00 PM UTC, we’ll be hosting the TEMP FAIR LAUNCH AUCTION on the @CopperLaunch platform!
+
+Read more about the launch below!
+
+@BalancerLabs 
+
+https://t.co/RATcyzzIMP",263,32,113,2021-11-11
+80,2021-11-12 13:39:55+00:00,1459153987798773766,TempusFinance,@mijovic988 GM,6,2,0,2021-11-12
+82,2021-11-13 14:15:18+00:00,1459525280524029956,TempusFinance,"We are hiring!
+
+We have just opened eight new roles as we expand the team in the next few months:
+
+Front-End Engineer (x2)
+Backend Engineer (x2)
+Head of Marketing
+Chief Economist
+Product Manager
+Graphic Designer
+
+Apply now:
+https://t.co/SNJrzbSAbG",41,2,6,2021-11-13
+83,2021-11-14 18:13:19+00:00,1459947566427213838,TempusFinance,"SCAM ALERT!
+
+We received reports of scam messages circulating about the TEMP token launch, inviting people to buy the token now. These are fake! Please stay vigilant and follow the official channels. 
+
+The TEMP token will only be available on Tuesday, through @CopperLaunch",25,0,7,2021-11-14
+85,2021-11-15 22:19:55+00:00,1460372017224597504,TempusFinance,"To find out more about Tempus, including further details about how the protocol works and how you can get involved in the upcoming auction, visit Tempus’ website here: https://t.co/CckTHA7c9V /12",18,0,0,2021-11-15
+98,2021-11-16 18:20:00+00:00,1460674027727605766,TempusFinance,We're one hour into our LBP on @CopperLaunch and the $TEMP / $USDC pool is already the number 2 pool by volume on Balancer @BalancerLabs https://t.co/3ELQqpYxmb,37,5,6,2021-11-16
+106,2021-11-17 23:08:42+00:00,1461109069146738691,TempusFinance,"The latest #HighDefinition podcast is out!
+
+Listen to our founders @mijovic988 and @davgarai talk about how they met, what Tempus is, and what their future plans are! https://t.co/9sSRy7b4CY",23,3,5,2021-11-17
+114,2021-11-18 16:00:41+00:00,1461363742583635971,TempusFinance,"Only 1 hour to go!
+
+We are very close to raising $28 million!
+
+Join us on @CopperLaunch now!
+https://t.co/b24TGiwpoP https://t.co/Rjkdlv5KAV",27,1,4,2021-11-18
+126,2021-11-19 12:53:18+00:00,1461678971947474953,TempusFinance,"We are delighted to announce that we are now trading on 
+@BalancerLabs!
+
+https://t.co/OPxSdjK0ri https://t.co/OKfjuaHhFF",87,14,25,2021-11-19
+127,2021-11-22 18:20:13+00:00,1462848409195450368,TempusFinance,"We have now whitelisted another 670 wallet addresses for @TempusSers NFTs (including AMAs, feedback, and randomly allocated to those who bought more than 10000 $TEMP). These Sers can be claimed from tomorrow Tuesday 23 November at 11.59am. ⏰  
+
+https://t.co/gIaIVz9fFJ",31,7,5,2021-11-22
+128,2021-11-23 11:54:18+00:00,1463113676517519364,TempusFinance,"We are happy to announce that the $TEMP governance token is now live on @CoinGecko.
+
+👉 https://t.co/QljIA7Ju6c https://t.co/GXoiDXZTbL",59,8,17,2021-11-23
+129,2021-11-30 14:12:39+00:00,1465685210574561282,TempusFinance,"We are excited to announce that @BalancerLabs will be hosting an AMA with Tempus tomorrow Wednesday 1 December at 11AM EST in their Discord. Come along to find out more from our team about Tempus’ upcoming mainnet launch and plans for the future. ✅
+ 
+📌 https://t.co/SrcEsRQRPT https://t.co/VoqACkKCPG",48,1,17,2021-11-30
+130,2021-12-01 15:58:33+00:00,1466074248590602251,TempusFinance,"Our AMA with @BalancerLabs is NOW LIVE in the Balancer Discord. Join the AMA now to hear more about our upcoming mainnet launch and plans for the future. 📅
+
+See you there!
+ 
+📌 https://t.co/SrcEsRQRPT https://t.co/QzGB9Zq88w",16,0,1,2021-12-01
+132,2021-12-06 17:08:28+00:00,1467903781916528641,TempusFinance,"Join us for a Twitter Spaces AMA with @fiatdao on Wednesday 8 December @ 10PM UTC. We’ll be discussing the risks associated w/ variable yield &amp; how Tempus can help you get a fixed yield in the most capital efficient way possible. 💥
+ 
+Set your alarms!
+
+https://t.co/ZFMIajbn0Z https://t.co/tM0Y1savPw",35,1,11,2021-12-06
+135,2021-12-07 17:48:25+00:00,1468276223478419458,TempusFinance,"Ahead of the launch of our Tempus Crucible rewards program tomorrow, 8 December, we have prepared a short guide on how to participate and get rewards!
+
+https://t.co/4lZAPmk6Ui",49,1,13,2021-12-07
+136,2021-12-08 14:53:06+00:00,1468594489467932676,TempusFinance,Our @TempusSers are now live on @raritytools! Check out the rarity of our NFT collection at https://t.co/0kdJ7Wrm19 and mint your Ser NFT if you haven’t already done so at https://t.co/Pd4Qa1q9e9. https://t.co/toOxHCUaTM,41,4,16,2021-12-08
+141,2021-12-09 17:11:09+00:00,1468991622016811009,TempusFinance,"Liquidity providers of the WETH/TEMP pool are now earning an additional 186% APY using @_alchemistcoin's Crucible Reward Program. 👀
+
+🪄 Reward Program: https://t.co/vH6npgMURg
+
+📜 Guide on how to participate: https://t.co/4lZAPmBIiS",20,1,5,2021-12-09
+142,2021-12-10 11:03:09+00:00,1469261399541092354,TempusFinance,"@Architecterrrr Hello, please DM us and we can sort out the issue.",1,1,0,2021-12-10
+143,2021-12-13 15:47:40+00:00,1470420162281185287,TempusFinance,"We have published a new proposal in respect of our collaboration with @balancer here.
+
+https://t.co/YAYlnQLOgU",25,0,6,2021-12-13
+145,2021-12-14 15:05:01+00:00,1470771817329664005,TempusFinance,"Only 24 hours left until we are live on Ethereum Mainnet!
+
+You'll be able to provide stETH liquidity and fix your future stETH yield starting tomorrow! https://t.co/YOwZJrZx2T",70,8,19,2021-12-14
+146,2021-12-15 20:17:35+00:00,1471212864996315138,TempusFinance,Remember: your tokens are never locked - you an enter and exit any pool at any time.,14,0,0,2021-12-15
+151,2021-12-16 14:25:30+00:00,1471486649775263744,TempusFinance,"As institutional appetite for ETH staking skyrockets, the demand for certainty over staking yields also grows.
+
+Tempus currently offers a 4.70% *fixed* rate on ETH!
+
+https://t.co/n5r3XMjI5m https://t.co/qzwW9JKLQd",28,2,5,2021-12-16
+154,2021-12-20 17:14:36+00:00,1472978753823330318,TempusFinance,"Thanks to @BalancerLabs for their continued support and for featuring us on their Medium! 💪
+
+Check it out. 👇 https://t.co/dhXffF3o6A",36,0,4,2021-12-20
+155,2022-01-03 12:01:36+00:00,1477973414468104193,TempusFinance,"***4.90%***
+
+Is this the highest *fixed-rate* APR on ETH right now? @LidoFinance 
+
+Deposit here:
+https://t.co/n5r3XM27dO",35,1,10,2022-01-03
+157,2022-01-04 15:18:33+00:00,1478385368177254409,TempusFinance,"We are delighted to announce that Tempus is launching governance on 10 January 2022!
+
+$TEMP holders will be able to discuss the future of the protocol and how Treasury funds should be spent via our governance forums, and vote on proposals via Snapshot.
+
+More details soon! https://t.co/96eQlaQjEc",48,0,11,2022-01-04
+158,2022-01-05 14:03:07+00:00,1478728772404850691,TempusFinance,"We are pleased to announce that the $TEMP governance token is now live on @CoinMarketCap.
+
+You can now find out all of the information about our price, market cap, circulating supply, and more at the link below.
+ 
+👉 https://t.co/9jndbe4mmf https://t.co/zeG5XtDnxe",43,2,3,2022-01-05
+159,2022-01-10 11:50:10+00:00,1480507253589348354,TempusFinance,"We are pleased to announce that the TEMP governance token is now supported on @1inch.
+
+You can now trade TEMP with any other token at the best rates! https://t.co/gASaGEAokE",32,3,6,2022-01-10
+161,2022-01-11 14:46:57+00:00,1480914129552658444,TempusFinance,"Introducing our newest team member! Tim is a self-proclaimed meme lover and metaverse warrior. Prior to joining Tempus, Tim worked at IBM as a frontend engineer for over 8 years. Welcome to the team Tim! 🎉 https://t.co/ofAUVRQy2s",33,1,0,2022-01-11
+165,2022-01-12 14:44:00+00:00,1481275774976106498,TempusFinance,"Next Tuesday 18 January at 5.00pm UTC, we'll be hosting a live chat right here on our Twitter Spaces page. 🎙️
+
+Set your reminder now at the link below and come along to find out more about our upcoming Rari Vault integration and plans for 2022. ⏰
+
+https://t.co/iLKkwggHhJ https://t.co/ARzgQxoK1e",28,2,5,2022-01-12
+166,2022-01-14 15:38:02+00:00,1482014150603776005,TempusFinance,"Ahead of the launch of our @RariCapital integration on Monday, @Cointelegraph has published an article explaining how Tempus is bringing fixed rate yields on USDC and DAI to DeFi. 🪙
+
+📌 Read on: https://t.co/gb2eL3dSFj",28,1,7,2022-01-14
+167,2022-01-17 11:27:43+00:00,1483038320905043968,TempusFinance,"Welcoming another new team member to Tempus! @RTPthefirst has over 10 years experience working in the global derivatives markets at several large banks including Goldman Sachs. From mining crypto in 2017 to riding meme coins in 2021, Richard is a degen ape at heart. 👀 https://t.co/dqnRy0Qy69",32,0,4,2022-01-17
+169,2022-01-18 09:19:13+00:00,1483368370267648004,TempusFinance,"Join us for a Discord AMA with @defipulse on Thursday 20 January @ 5PM UTC!
+
+We’ll be discussing the risks associated w/ variable yield &amp; how Tempus can help you get a fixed yield in the most capital efficient way possible. 💥
+ 
+📍https://t.co/n7kC7iM1yl
+
+Set your alarms! ⏰ https://t.co/FtyyRZZyfl",24,0,5,2022-01-18
+171,2022-01-19 14:49:32+00:00,1483813884113068032,TempusFinance,"Our new integration with @iearnfinance is going live on 26 January! 
+
+Provide liquidity with DAI or Yearn DAI Vault LP token to earn additional yield, or get a fixed-rate DAI yield! https://t.co/fD6v3qratO",45,0,8,2022-01-19
+172,2022-01-20 16:03:24+00:00,1484194859640578054,TempusFinance,"Just a quick reminder that @davgarai will be hosting an AMA with @defipulse in one hour on the DeFi Pulse Discord. Come along to find out more about what’s been happening at Tempus in the past few weeks and our plans for 2022.
+
+https://t.co/n7kC7iLtIN https://t.co/2mXVXxPMgL",26,1,3,2022-01-20
+174,2022-01-21 10:04:14+00:00,1484466860313624578,TempusFinance,"Last night the total value locked across all of our pools just surpassed $10 million for the first time! 🔥
+
+Let's go #Sers! https://t.co/PmzijNcuUU",31,2,4,2022-01-21
+178,2022-01-24 11:16:58+00:00,1485572327597301760,TempusFinance,"Another week, another new team member! George is a passionate crypto researcher and trader. Prior to joining Tempus, George had over 15 years of experience working in global hedge funds and investment banks. Welcome to the team George! https://t.co/xoumVTHLpl",28,1,4,2022-01-24
+180,2022-01-25 17:00:11+00:00,1486021089885319168,TempusFinance,"24 HOURS LEFT TO VOTE! 🗳️
+
+Just a quick reminder that there are 24 hours left to vote on the proposal to fund the Hats Bug Bounty Vault with 1 million TEMP.
+
+Voting ends tomorrow Wednesday 26 January 5pm UTC! 🔥
+
+📍https://t.co/eXVpBIFegh",20,1,3,2022-01-25
+182,2022-01-26 12:05:22+00:00,1486309283000115210,TempusFinance,"We are excited to announce that Tempus will integrate with @iearnfinance on @FantomFDN in the coming weeks! 🎉 
+
+There are currently high APRs on offer within the Fantom ecosystem, which presents a great expansion opportunity for Tempus. ✅ 
+
+📌 Read on:
+ https://t.co/lsQEmyb3lu https://t.co/4ALovKZbY6",380,16,81,2022-01-26
+184,2022-01-27 09:55:27+00:00,1486638978791100420,TempusFinance,Tian is a passionate prod designer who has been designing both Web2 fintech products &amp; a variety of Web3 products (i.e. with Kleros &amp; ConsenSys) since 2015. His journey into Web3 began when he met Vitalik Buterin and the rest you can say is history... in the making! Welcome Tian! https://t.co/t5SWFpBcsP,28,1,1,2022-01-27
+186,2022-01-28 01:15:53+00:00,1486870611456581640,TempusFinance,@Gundamwing08 @Fantom_Space @SpookySwap The incentive program will have to be approved by @SpookySwap governance - we expect this to wrap up in a week or so.,0,0,0,2022-01-28
+188,2022-01-31 09:26:57+00:00,1488081357989462020,TempusFinance,"Cristiano is a degen quantitative ape who loves crunching numbers in the DeFi land! Before going down the crypto rabbit hole, Cristiano worked for more than 7 years as a financial and risk analyst in the banking industry. Happy to have you with us ser! https://t.co/EGjupwwo89",32,1,4,2022-01-31
+190,2022-02-01 09:33:51+00:00,1488445482540183552,TempusFinance,"A proposal has been submitted on the @Bancor governance forum to whitelist TEMP with a 100,000 BNT trading liquidity limit!
+
+Find out more and have your say before the Snapshot vote begins on 6 February 2022 using the link below. 👇 
+
+📌 https://t.co/4AIUxQ3Ba7",27,1,6,2022-02-01
+191,2022-02-02 17:13:24+00:00,1488923519819956229,TempusFinance,"A proposal has been made on the Tempus governance forum to set up a Tempus Grants Committee and provide an ecosystem fund!
+
+Find out more about how members of the Tempus community can participate in the Committee using the link below. 👇
+
+https://t.co/WxtEQ7Peeq",19,2,8,2022-02-02
+192,2022-02-03 15:20:40+00:00,1489257535919984643,TempusFinance,"🚨Next Thursday is AMA time! 🚨
+
+Join us for a Talk Show with @dexguru and our co-founder David Garai on Thursday 10 February @ 3PM UTC on Twitter Spaces!
+
+📆 10 February
+⏰ 3PM UTC https://t.co/eBIca7eiQQ",22,1,10,2022-02-03
+193,2022-02-04 12:27:39+00:00,1489576384188096517,TempusFinance,"🚨A new governance proposal has been published!🚨 
+
+Summary:
+
+➡️ Migrate $2m DEX liquidity from Ethereum to Fantom
+🔁 Make $TEMP tradable on @SpookySwap
+⚡ Help boost $TEMP trading volume 
+
+📌https://t.co/43bV5CXyo9  
+
+@ethereum @FantomFDN",25,2,12,2022-02-04
+194,2022-02-07 17:11:39+00:00,1490735019434065921,TempusFinance,"Anon, you want to retire but you are worried that these high yields won't last?
+
+Fix your income on Tempus- live on Ethereum, and coming to Fantom soon. 
+
+@FantomFDN @iearnfinance https://t.co/5gJzhEcdj0",21,2,6,2022-02-07
+198,2022-02-08 12:01:57+00:00,1491019468306325508,TempusFinance,"Voting is now live on Snapshot on a new governance proposal on the establishment of a Tempus Grants Committee (which would provide an ecosystem fund)! 🎉
+
+Find out more and cast your vote by the deadline of 12.00pm (midday) UTC on Friday 11 February. ✅
+
+https://t.co/8c5CPuPjr3",23,1,11,2022-02-08
+199,2022-02-09 12:24:20+00:00,1491387487645843459,TempusFinance,"⏰ 24 HOUR REMINDER ⏰
+
+Just under 24 hours left to vote on the proposal to migrate $2m $TEMP DEX liquidity from Ethereum to Fantom.
+
+⚡️ https://t.co/pqmxN27bHV",18,0,6,2022-02-09
+200,2022-02-10 15:01:47+00:00,1491789499587698701,TempusFinance,"Tune in to the @dexguru Twitter Spaces with our co-founder @davgarai!
+
+⏰ NOW
+🔗 https://t.co/kRkZ6REGWl https://t.co/ABiZbTVXzk",31,2,12,2022-02-10
+201,2022-02-11 13:11:48+00:00,1492124210138947587,TempusFinance,"✨ TEMP/WFTM pool now live on @SpookySwap with $2mm in liquidity ✨ 
+
+🎉 @FantomFDN 
+
+📌 https://t.co/Rxwqqw3oxh https://t.co/zlcpnobpI9",129,13,29,2022-02-11
+202,2022-02-14 08:34:45+00:00,1493141653116366850,TempusFinance,"Stefan is a smart contract engineer with 8+ years full stack and system architect experience. Before joining Tempus, Stefan worked at Composable Finance. He has also won awards in various hackathons in many different projects. Welcome to the team Stefan! https://t.co/XHe96Tb6rQ",28,5,7,2022-02-14
+203,2022-02-15 11:23:23+00:00,1493546478685589505,TempusFinance,"📢 NEW SNAPSHOT VOTE LIVE 📢
+
+🗳️ Cast your vote on who should form part of the initial Tempus Grants Committee (which will be responsible for providing an ecosystem fund)!
+
+⏰ Voting closes at 11.00am UTC on Friday 18 February.
+
+https://t.co/Zl7oUk1SrU",15,3,4,2022-02-15
+205,2022-02-16 17:56:31+00:00,1494007801705811972,TempusFinance,"$TEMP single-sided staking is now live on @Bancor! 🎉
+
+🔁 Stake $TEMP &amp; earn rewards with single-sided exposure
+🛡️ 100% impermanent loss protection
+💰 100,000 $BNT trading liquidity limit
+
+Find out more: https://t.co/rb9G9bWZCi https://t.co/CvK5FAZT7k",61,4,18,2022-02-16
+207,2022-02-17 16:37:42+00:00,1494350352593965058,TempusFinance,"Have you ever wondered what makes Tempus the most capital efficient fixed rate protocol amongst its peers? 👀
+
+Find out more in the deep dive Medium article below, written by our resident quantitative guru Cristiano. 👇
+
+https://t.co/EclUZYr4dn https://t.co/9ol4fHgwob",36,4,16,2022-02-17
+208,2022-02-18 11:40:42+00:00,1494637998935314450,TempusFinance,"📢 Voting has now closed on our Snapshot vote on who should form the Tempus Grants Committee.
+
+🎉 Congratulations to the Tempus Labs team (@pujeetmanot, @Cristianoventr2, @RTPthefirst), @csoreff and @claudedonze on being elected.
+
+More info coming soon... 👀",16,2,5,2022-02-18
+210,2022-02-19 11:01:45+00:00,1494990586067263492,TempusFinance,"🔥 We launched single-sided staking on @Bancor
+🛡️ Deposit $TEMP, benefit from impermanent loss protection
+💰 100,000 $BNT trading liquidity limit
+
+🔗 https://t.co/40opl0WTRz
+
+2/7",9,2,2,2022-02-19
+212,2022-02-21 13:10:05+00:00,1495747655661760519,TempusFinance,"@iearnfinance @FantomFDN $YFI pool:
+
+➡️ 13.01% fixed APR
+⌛ 95 days term length
+💰 $396k pool liquidity
+
+🔗 https://t.co/SIwOkeimMP",12,0,2,2022-02-21
+213,2022-02-22 12:00:14+00:00,1496092463760560136,TempusFinance,"GM 🌞 We’ve updated our Gitbook!
+
+New additions:
+❓ Brand new User Guides section
+🗳️ Newly launched Governance section (Forum &amp; Snapshot)
+🧑‍💻 Updated Developer Docs (Contracts, Deployments &amp; Security)
+
+​​🔗 https://t.co/19vG86NtCD",22,0,7,2022-02-22
+215,2022-02-23 16:20:43+00:00,1496520406865432587,TempusFinance,"14/
+
+Want to know more about the dynamics of TempusAMM and how we stand among our peers in this space? 
+
+🔗 Read the blog now: https://t.co/EclUZYr4dn",12,1,1,2022-02-23
+231,2022-02-28 13:36:53+00:00,1498291114952040456,TempusFinance,"✨ NEW TEAM MEMBER ✨
+
+Prior to joining Tempus, Dhruv worked as a finance lawyer at a US law firm where he represented private equity sponsors on leveraged acquisitions. He is excited to start his journey into the world of DeFi. Welcome @DhruvBh4tia! https://t.co/fYp5YYuxxQ",13,1,4,2022-02-28
+232,2022-03-01 16:20:34+00:00,1498694696830439428,TempusFinance,"A new proposal has been published to fund the $TEMP/$BNT pool on Bancor with $750k TEMP using Treasury funds.
+
+Why?
+
+✅ Lowers slippage
+💵 Utilize $TEMP that is otherwise sat idle
+👼 100% impermanent loss protection
+ 🤝 Enhance collaboration with @Bancor 
+
+https://t.co/CRl6CJtRol",31,3,12,2022-03-01
+233,2022-03-02 14:42:27+00:00,1499032391767179272,TempusFinance,"Our February newsletter is now out on Medium! 🔥
+ 
+Read on for a quick summary of all of the exciting developments at Tempus this past month. 👀 
+ 
+📌 https://t.co/NCzOjQWbw0",13,1,6,2022-03-02
+234,2022-03-03 12:53:40+00:00,1499367402265624577,TempusFinance,"1/ 
+
+Following our successful Fantom launch, we thought it might be helpful to provide a step by step guide on how exactly you can use Tempus to obtain a fixed yield (or earn additional yield) on your $USDC, $DAI, $USDT, $YFI, and $WETH. @FantomFDN 
+
+Read on… 🧵 https://t.co/FOeedjw5Qk",18,3,4,2022-03-03
+238,2022-03-04 13:06:26+00:00,1499733003064553507,TempusFinance,"✨ NEW GOVERNANCE PROPOSAL ✨
+
+💵 Fund $TEMP / $BNT pool on @Bancor with $750k using Treasury funds
+✅ Lower slippage, utilise Treasury assets, 100% protection against impermanent loss
+🤝 Fosters collaboration between Tempus and Bancor
+
+Vote below: https://t.co/25i6jif7n4",15,3,5,2022-03-04
+239,2022-03-07 11:57:00+00:00,1500802693069262857,TempusFinance,"✨ NEW TEAM MEMBER ✨
+
+Milica started her career at the Embassy of Canada in Serbia where she supported major mission activities related to protocol, education, culture, trade, and charity. She then became an entrepreneur by starting a business in the events industry. Welcome! https://t.co/1q752Z9hiY",14,0,3,2022-03-07
+240,2022-03-10 15:02:06+00:00,1501936438203408394,TempusFinance,"4/ 
+
+👌 Find out more about the team and program here: https://t.co/Fan9MlEjlJ",4,0,0,2022-03-10
+246,2022-03-11 11:09:25+00:00,1502240270087294976,TempusFinance,"@PlatypusTrades @Bancor Hello @PlatypusTrades Can you please clarify? This means users can deposit TEMP because the pool now has more capacity. If there is now more liquidity in the pool as a result, it's provided by those who hold TEMP.",3,1,0,2022-03-11
+247,2022-03-14 10:14:06+00:00,1503313515309932544,TempusFinance,"The Tempus team continues to expand! Before joining Tempus, Vukašin was an intern at the Microsoft Mixed Reality team and worked as an iOS developer at a Swiss video-oriented start-up. He's thrilled to start his journey in the DeFi space. Happy to have you with us @iamvukasin! https://t.co/Gz3TJXh5RE",11,2,2,2022-03-14
+248,2022-03-16 15:57:31+00:00,1504124711390916611,TempusFinance,"🛠️ Fix your yields on Tempus
+
+1. Select the crypto you want to deposit
+2. Click on Manage, select the token and its qty ↔️
+3. Click on Fixed Yield
+4. Capitals in your portfolio will be redeemable 1:1 for the token at maturity 🤝
+5. Approve and Execute 👌 https://t.co/jx8dndVoAb",16,1,10,2022-03-16
+249,2022-03-17 14:39:01+00:00,1504467345732898827,TempusFinance,"8/
+
+Future policy decisions will obviously be heavily dependent on the outcome of the war in Ukraine and the energy supply bottlenecks. Brace yourself anon, things are about to get wild!",10,1,1,2022-03-17
+258,2022-03-18 12:43:00+00:00,1504800535903412224,TempusFinance,A little sneak preview of our upcoming UI refresh... 👀 https://t.co/0XT2e4hfNf,21,5,5,2022-03-18
+260,2022-03-21 17:10:13+00:00,1505954946105106442,TempusFinance,"DAO treasuries need to fund their daily operations, pay their contributors, and maintain their existing infrastructure. 💰 
+ 
+Introducing the Tempus treasury management solution - here to help you fix your future cash flows. 💹 
+ 
+📌 https://t.co/MW0G0uJeEr https://t.co/Uk0InfnF1w",28,3,10,2022-03-21
+266,2022-03-22 15:49:41+00:00,1506297068717019146,TempusFinance,"Hmm what’s the market up to?🤔
+ 
+Introducing ""Tempus Takes"" - our bi-weekly commentary to help you keep up with what’s going on in the market! 
+
+This week “Tempus Takes” addresses the state of DeFi yields and how we expect them to move in the future. 
+
+📌 
+https://t.co/FHIy1nV9h8",16,0,9,2022-03-22
+267,2022-03-23 12:51:05+00:00,1506614508529332226,TempusFinance,"🌊 Ready to make a splash?
+ 
+🏊‍♂️ We are adding two new pools on the Ethereum network!
+ 
+🤔 Comment below to guess which ones…",17,4,5,2022-03-23
+268,2022-03-24 14:32:32+00:00,1507002428150845449,TempusFinance,"7/
+
+Deposit your $stETH for more $stETH, currently offering 4.79% fixed yield maturing on August 31 2022 🤝
+
+P.S. Gwei is super low right now so there’s no better time :) https://t.co/Is6Ezskll6",4,2,1,2022-03-24
+276,2022-03-25 14:41:18+00:00,1507367021150941207,TempusFinance,"🥱Time to cut through the TradFi jargon. 
+ 
+📚 As part of our new educational series, give our article on Strip Bonds a read to learn how Tempus is revamping TradFi products for the future of finance. 
+ 
+📌 https://t.co/BKK9Wd2lbQ https://t.co/lRzr6aEAAA",14,1,7,2022-03-25
+277,2022-03-29 08:23:47+00:00,1508721569991909385,TempusFinance,"GM from Dubai. 🇦🇪
+ 
+Tempus will be @ETHDubaiConf from 29 March to 31 March. 
+ 
+Want to meet up? Comment below or message us on: 
+- Discord: https://t.co/U99mDgT8r5
+- TG: https://t.co/c4GxB1Ooc7
+ 
+See you there! 👋 https://t.co/cQn0h1xYWv",15,1,3,2022-03-29
+279,2022-03-30 12:02:29+00:00,1509138993086095360,TempusFinance,"GM from London 🇬🇧
+
+We're here at the @CryptoCompare Digital Asset Summit. If you are around, come say hello!
+
+#CCDAS https://t.co/5wLiEQevDM",20,0,7,2022-03-30
+281,2022-03-31 16:03:01+00:00,1509561916921942035,TempusFinance,"5/ 
+
+If you hold $stETH in the expiring pool and want to roll over your deposit into the next pool term, check out this tweet! 🐦
+
+https://t.co/OlEeKzW4F8",9,0,1,2022-03-31
+286,2022-04-01 12:50:18+00:00,1509875802711724033,TempusFinance,"📚 As part of our educational series, this week's article examines the various sources of yields to answer the age-old question: 
+ 
+Where do yields come from? 💹
+ 
+Thoughts? Let us know in the comments. 
+ 
+📌
+https://t.co/rgSnulb5yQ https://t.co/z8JSh6EAUD",12,0,9,2022-04-01
+287,2022-04-04 09:14:26+00:00,1510908643671265280,TempusFinance,"✨ NEW TEAM MEMBER ANNOUNCEMENT ✨
+
+Krum has experience in various sectors, including finance, cloud, and crypto. Before joining Tempus, Krum worked at Nexo where he built &amp; scaled crypto exchange products and carried out integrations with various DeFi projects. Welcome onboard! https://t.co/EknuppSbsT",12,0,2,2022-04-04
+289,2022-04-05 09:56:31+00:00,1511281621915389953,TempusFinance,"🗳️ NEW GOVERNANCE PROPOSAL 🗳️
+ 
+➡️ Remove treasury-owned liquidity from TEMP/WFTM pool on @SpookySwap
+🌉 Bridge resulting TEMP &amp; WFTM back to Ethereum
+💵 Use WFTM to execute a Treasury buyback across all Ethereum DEXs
+ 
+Why? Find out more below... 👇
+ 
+https://t.co/qMe1LW0UWJ",7,0,4,2022-04-05
+290,2022-04-06 12:45:24+00:00,1511686510059401221,TempusFinance,"📷 NEW SNAPSHOT VOTE 📷
+
+🌊 Liquidity restructuring &amp; $TEMP buyback
+💹 Why? Higher trading volume, better price discovery, upward pressure on $TEMP price
+
+Voting ends 9 April @ 12.00pm UTC. ⏰
+
+📌 Snapshot vote: https://t.co/vVjq9mNBgT
+
+📜 Further details: https://t.co/GrHnH1ww0p",11,0,4,2022-04-06
+291,2022-04-07 15:52:45+00:00,1512096046704431105,TempusFinance,"You buy each token X and token Y for $1 today. 
+
+You receive 5% APR on token X and 10% APR on token Y paid in X and Y tokens after 1 year.
+
+The price of X falls by 5% and the price of Y falls 10% by the end of the same time period.
+
+Which position has performed better on $ terms?",19,10,10,2022-04-07
+298,2022-04-11 14:05:12+00:00,1513518532310577166,TempusFinance,"Fixed yields as high as 7.32% fixed APR currently available on $ETH, $USDC, $DAI, $USDT, $WETH, and $YFI on @TempusFinance. 👀
+
+Get your fix now. 👇
+
+https://t.co/n5r3XM27dO https://t.co/PaMBCMIX3e",24,2,9,2022-04-11
+299,2022-04-12 12:24:22+00:00,1513855543991062533,TempusFinance,"We are excited to announce that Tempus is a proud sponsor of @ETHGlobal’s #EthAmsterdam hackathon. 🇳🇱
+ 
+Catch us there from 22 - 24 April for your chance to BUIDL on top of Tempus and win our prizes. 🏆
+ 
+See you there! https://t.co/VXLQFoF0mF",24,2,4,2022-04-12
+301,2022-04-13 15:48:43+00:00,1514269356787900418,TempusFinance,"You can choose between:
+
+(1)  Lending XYZ token for 6 months at 10% APR, &amp; reinvesting the proceeds for a further 6 months at x% APR
+
+(2)  Lending XYZ token for 12 months at 7% APR
+
+What must x% be for (1) and (2) to yield the same return?",12,3,6,2022-04-13
+302,2022-04-14 10:51:02+00:00,1514556832253198341,TempusFinance,"🚨 ATTENTION BUIDLERS! 🚨
+
+The Tempus Grants Committee has published a new Request For Innovation (RFI) for you! 🚀
+
+We are looking for a developer to create a Twitter Bot for Tempus. 🤖
+
+💵 3,000 USD bounty (paid in $TEMP)
+
+Interested? Deets below. 👇
+
+🔗 https://t.co/wLACMpnkdB",13,0,7,2022-04-14
+304,2022-04-15 10:36:14+00:00,1514915493307731977,TempusFinance,"“I don’t know what a yield curve is, and at this point, I’m too afraid to ask”. 🤨
+
+Fear not - this week’s article, as part of our educational series, looks at yield curves from a TradFi and DeFi standpoint. ⤴️
+
+📌 https://t.co/JrxdilV1Nx https://t.co/OaMYZUFtTY",22,2,9,2022-04-15
+305,2022-04-19 12:18:49+00:00,1516390864041426954,TempusFinance,"This week’s Tempus Takes has arrived! 
+
+If you want to stay a step ahead, give it a read to learn about the latest development in DeFi: inflation-linked tokens. 💹
+
+📌https://t.co/wpttj1BKee https://t.co/qhrM6GWMJc",12,2,5,2022-04-19
+306,2022-04-20 14:54:14+00:00,1516792361392693249,TempusFinance,"Who’s attending #EthAmsterdam? 🙋‍♂️
+
+See one of the Tempus team around? Get your phone ready and ask us for a (digital) surprise... 👀",21,9,5,2022-04-20
+308,2022-04-22 10:50:48+00:00,1517455877242073088,TempusFinance,"🌅 GM from #ETHAmsterdam! 🇳🇱
+ 
+Swing by our booth to learn more about BUIDL'ing on top of Tempus. 🏗️
+ 
+The prizes for the two best hack submissions are:
+ 
+🥇 $5,000
+🥈 $3,000
+ 
+P.S. we may be giving away some free swag. 👀 https://t.co/A5tXkhoJYt",38,2,23,2022-04-22
+310,2022-04-23 09:03:32+00:00,1517791270554542082,TempusFinance,"📷 SNAPSHOT VOTE REMINDER -  VOTING CLOSES TODAY 4.00PM UTC 📷 
+
+🗳️ Should Tempus Labs Inc. be elected as the service contractor of Tempus DAO for the next 2 years? 
+
+📌 https://t.co/CozLoi7455",8,0,3,2022-04-23
+312,2022-04-24 18:51:33+00:00,1518301637340712960,TempusFinance,@DhruvBh4tia @davgarai @alexberegszaszi @mijovic988 @jorma_rebane @joshkez95 @RTPthefirst @pujeetmanot 🤔,7,1,0,2022-04-24
+313,2022-04-27 08:49:34+00:00,1519237306976194560,TempusFinance,"Tempus @ ETHAmsterdam 🇳🇱
+
+A short blog post containing some special memories from our trip. 📸
+
+📌 https://t.co/uif6E1PXuP https://t.co/IuK2ttY7aH",13,1,3,2022-04-27
+315,2022-04-28 11:34:38+00:00,1519641232754065409,TempusFinance,"🤝 Tempus is now Tempus DAO 🤝
+ 
+The Tempus Labs team is committed to putting in place the structures necessary to make Tempus DAO fully decentralized by the end of 2022. 👀
+ 
+Read our road to decentralization: https://t.co/pSjo2PiwKK.
+ 
+⏰ More exciting news coming tomorrow... https://t.co/DOZsbyb2vz",22,1,7,2022-04-28
+316,2022-04-29 09:26:18+00:00,1519971327616163840,TempusFinance,👀 https://t.co/LYtjP88oi8,13,2,2,2022-04-29
+323,2022-05-03 13:33:04+00:00,1521482976839798786,TempusFinance,"⚔️ The battle of the stablecoins incentives has commenced! ⚔️
+ 
+To get up to speed on the launch of USDD and other exciting developments in the world of DeFi, make sure to give this week’s Tempus Takes a read. 
+ 
+📌  https://t.co/vK2rZUFfm9 https://t.co/KvDxg4VAF4",13,1,5,2022-05-03
+325,2022-05-04 13:04:30+00:00,1521838177278996481,TempusFinance,"🤝 NEW JOINER ANNOUNCEMENT 🤝
+
+Introducing team member #22! Prior to joining Tempus, Adri worked in the FMCG sector at Danone and Mars as an internal and external communications specialist. Welcome to the team @oroszadri! 🎉 https://t.co/Mwx6fclQSJ",16,1,1,2022-05-04
+326,2022-05-05 09:25:49+00:00,1522145531652415490,TempusFinance,"We are pleased to announce the first winner of the Tempus Grants Program. 🥳
+
+A huge well done to @Nim1337 for completing the RFI-7 and creating the Tempus Twitter Bot (@TempusBot). Follow for daily updates on Tempus fixed yield rates. 🤖  
+
+Tx: https://t.co/bxzC5XnTSc",13,2,3,2022-05-05
+327,2022-05-06 10:40:41+00:00,1522526761250082817,TempusFinance,"Our April newsletter is out! 🗞️
+
+Let’s recap:
+
+- A full-service money market protocol on StarkNet is in the works 🌠
+- We took big steps towards our goal of Tempus DAO becoming fully decentralized by end-2022 ✊
+- A full-scale rebrand is coming soon 🔜
+
+📌 https://t.co/EvETXuc4y1 https://t.co/YUGFRqskzf",13,1,8,2022-05-06
+328,2022-05-09 10:00:53+00:00,1523603908714762240,TempusFinance,"We’re sponsoring @ETHGlobal’s #HackMoney 2022, a virtual hackathon for BUILDing DeFi apps! 🔥
+
+Join our CTO @mijovic988 for a workshop on how to BUIDL on Tempus and contribute to the future of finance: 
+
+📅 Tonight at 18:30 CET 
+➡️ Where? https://t.co/G2eockBvEd
+
+See you there! https://t.co/nCTl2mSLvP",19,1,7,2022-05-09
+329,2022-05-10 14:29:19+00:00,1524033848304181249,TempusFinance,"GM @DeepDAO.io 👋
+
+Thanks for having us. We look forward to working together. 🤝 https://t.co/xk7j6CTlD5",11,1,4,2022-05-10
+332,2022-05-13 12:06:10+00:00,1525084987795595267,TempusFinance,"The 2nd installment of “The flippening of the credit industry - how close is DeFi to replacing TradFi?” is out. 💸
+
+A lot has changed in the markets since the 1st installment. 🙃
+
+How do you think the last few days will impact the transition? 🤔
+
+📌 https://t.co/yu4UN6EyOW https://t.co/QanYHlHkkb",7,0,2,2022-05-13
+333,2022-05-16 13:34:15+00:00,1526194319157256192,TempusFinance,"GM BUIDL’ers. Hope you’re enjoying @ETHGlobal’s #HackMoney 2022 so far! 🤝
+
+Are you BUIDL’ing on top of Tempus? Just a reminder that we’re awarding the following prizes for the two best hack submissions: 
+
+- 1st prize: $5,000
+- Pool prize: $3,000
+
+Happy BUIDL’ing!💰",13,1,4,2022-05-16
+334,2022-05-17 12:47:45+00:00,1526545006009503745,TempusFinance,"🗨️ THE BURST 🗨️ 
+
+No need for introductions: everybody knows that LUNA and UST have crashed in the last week. 📉 
+
+Give Tempus Takes #5 a read, where we discuss what we can learn from this event, so we can hopefully all avoid repeats in the future. 📖 
+
+📌 https://t.co/7XSNIfDW6w https://t.co/jROqiThwYU",9,1,3,2022-05-17
+336,2022-05-18 12:57:31+00:00,1526909849300262912,TempusFinance,"You are given the following one-year correlations between asset returns:
+
+BTC - ETH: 77%
+ETH - SOL: 56%
+BTC - S&amp;P 500: 34%
+
+Which of the following would you choose for a delta-neutral strategy?",10,2,2,2022-05-18
+337,2022-05-25 10:27:55+00:00,1529408915334643714,TempusFinance,"You are the ecosystem development officer of a newly launched blockchain.
+
+Which projects would you incentivize to deploy on your blockchain first? 
+
+Answers list the projects from the first to the last by priority",8,2,5,2022-05-25
+338,2022-05-27 13:10:27+00:00,1530174595881484292,TempusFinance,"Which came first: the chicken🐔, the egg🥚 or the price pump📈? 
+
+With recent market events in mind, this week’s educational blog covers the topic of reflexivity in DeFi and how you can spot it. 🔄
+ 
+📌  https://t.co/jUIOMqiKAv https://t.co/YuOMtegVQ6",9,0,8,2022-05-27
+346,2022-05-31 09:11:24+00:00,1531563986159902720,TempusFinance,"And that’s a wrap! This year’s @ETHGlobal's #HackMoney2022 has come to an end. 🎆
+ 
+Thank you to all the hackers for their contributions towards BUIDL’ing the future of finance! 🙌
+ 
+We saw some exciting projects built on Tempus. Let’s meet the winners.👇
+ 
+(1/3)",8,2,3,2022-05-31
+348,2022-06-01 10:29:30+00:00,1531946028685041666,TempusFinance,"🚨 Attention Builders! 🚨
+
+The Tempus Grants Committee has published a new Request For Innovation (RFI) for you! 🚀
+
+We are looking for a developer to integrate Tempus with @Zapper_fi. 🤖
+
+If you are interested, apply today! 🎉
+
+🔗 https://t.co/594RtVutil",7,1,4,2022-06-01
+350,2022-06-06 13:13:32+00:00,1533799250198405121,TempusFinance,"🤔 Highlights of May 2022:
+ 
+🔗 Tempus DAO is now listed on @DeepDAO_io
+💰 Rewards worth $8,000 were distributed among 3 projects building on Tempus @ETHGlobal #HackMoney2022
+ℹ️ New RFI to integrate Tempus with @zapper_fi has been added. Apply now!
+ 
+📌 https://t.co/Ai7BV6WoaS https://t.co/MppLEA2lmT",9,2,6,2022-06-06
+351,2022-06-07 10:14:11+00:00,1534116501476761600,TempusFinance,"We are pleased to announce a new winner of the Tempus Grants Program. 🥳
+
+A big congratulations to @crypto_dipsy for completing the RFI-2 and creating the Tempus Dune Analytics dashboard (Ethereum only).  
+
+Tx: https://t.co/eGbr5E6caS",6,2,2,2022-06-07
+353,2022-06-09 12:11:59+00:00,1534870924738035717,TempusFinance,"Curve has more than 2X Uniswap's TVL but less than a quarter of its trading volume. 
+
+What's the most likely reason?
+
+(A) Curve LPs earn higher trading fees than Uniswap LPs
+(B) Curve LPs earn additional token incentives
+(C) Curve LPs are less exposed to impermanent loss",6,1,1,2022-06-09
+354,2022-06-10 13:50:53+00:00,1535258202031509506,TempusFinance,"The McKinsey consultant in the suit will tell you that the Pareto Principle, AKA the 80/20 rule, applies across all industries… 👔
+
+...but does this hold true for DeFi? Give this week’s educational piece a read to find out! 🤔
+
+Part 2 to follow. 🍿
+ 
+📌 https://t.co/OHqyJIpATS https://t.co/jt8oXBo6mN",6,1,5,2022-06-10
+355,2022-06-13 10:23:58+00:00,1536293294401019904,TempusFinance,"$TEMP is now listed on Bancor 3! LP with:
+ 
+💧 Single-sided liquidity
+⚡️ Instant impermanent loss protection
+💰 Auto-compounding returns
+🌱 Sustainable yields
+ 
+Help $TEMP build healthy liquidity! 💪 
+
+Deposit now: https://t.co/u2bSJi4eGr
+ 
+Guide: https://t.co/FFzlJ2ZAQg
+
+@Bancor https://t.co/shsyXupvqk",28,1,10,2022-06-13
+356,2022-06-14 14:45:33+00:00,1536721510420860928,TempusFinance,@DefiLlama @CurveFinance @MakerDAO @AaveAave @ConvexFinance @LidoFinance @Uniswap @maplefinance @goldfinch_fi @centrifuge 16/ This evidence is promising and shows that #DeFi is moving towards a more capital-efficient lending market focused on the productive use of assets instead of a pure leveraging device. ✅,4,1,0,2022-06-14
+364,2022-06-15 14:16:02+00:00,1537076470295691267,TempusFinance,"ATTENTION BUIDLERS! 🚨
+ 
+The Tempus Grants Committee has published a new Request For Innovation (RFI) for you!
+ 
+We want someone to research the possibilities that are unlocked in a low tx fee environment on #DeFi.
+ 
+Apply now! ⬇️
+ 
+https://t.co/q3GJ6OjRFZ
+#research #starknet #zk",16,2,9,2022-06-15
+366,2022-06-17 12:25:01+00:00,1537773307004608512,TempusFinance,"We are thrilled to announce another winner of the Tempus Grants Program. 🌞
+ 
+Congratulations to Tonz for completing the RFI-8 and integrating Tempus with @zapper_fi! ✅
+ 
+Tx: https://t.co/3gEb223oMX 
+
+(1/2)",9,2,2,2022-06-17
+367,2022-06-20 09:21:41+00:00,1538814332506722304,TempusFinance,I spy... 👀 https://t.co/EVnela5LBb,19,1,6,2022-06-20
+368,2022-06-22 11:53:51+00:00,1539577403290357762,TempusFinance,"The 1-year Treasury Bill APY is 2.8%.
+The USDC APY for lenders on money market protocols is 0.95%.
+
+Suppose USDC lenders start withdrawing funds to buy Treasury Bills. 
+What happens to the USDC APY?",1,2,1,2022-06-22
+369,2022-06-24 14:28:21+00:00,1540341058319667201,TempusFinance,"Part 2 of our piece on the Pareto Principle in DeFi is out! 🍿
+
+We know from Part 1 that DeFi is dominated by 5-10 projects that make up 70-80% of revenues. 😳
+
+But what does that mean for the long-term state of DeFi? Read more to find out.👇
+ 
+📌 https://t.co/e5uA0ch7p2 https://t.co/uiuZtsgogC",3,1,2,2022-06-24
+370,2022-06-28 13:36:30+00:00,1541777561222582274,TempusFinance,"13/ If you liked our application of the Pareto Principle in DeFi and want to read more, then read the blog now! 
+
+How would you use the Pareto Principle in DeFi? Let us know in the comments below ⬇️
+
+https://t.co/JQT5FAcg5B",2,1,1,2022-06-28
+383,2022-07-04 14:49:19+00:00,1543970217038155777,TempusFinance,"Circle is launching a Euro Coin stablecoin with the same characteristics of USDC stablecoin but 100% backed by euros.
+
+How do you expect the Euro Coin lending APY to be compared to USDC APY? (base APY only, don’t consider incentives)",4,1,1,2022-07-04
+384,2022-07-05 13:08:17+00:00,1544307175098662912,TempusFinance,"At Tempus, we believe that bear markets are for BUIDL’ing. 🐻💪
+
+Give our latest newsletter a read to learn more about all the progress we have made in Q2 2022! 🗞️
+
+More to come… 👀
+
+📌 https://t.co/vpejB11o2v https://t.co/5duhWQeW8d",8,0,3,2022-07-05
+385,2022-07-06 13:02:31+00:00,1544668112271859714,TempusFinance,"ATTENTION BUIDLERS! 🚨
+ 
+The Tempus Grants Committee has published a new Request For Innovation (RFI) for you! 🤗
+ 
+We are looking for someone to write a blog explaining the key ingredients to building a #Web3 community. 🏗️ 🎨 🤝
+ 
+Apply now! 👇
+ 
+🔗  https://t.co/Mc8WbVvXyE",3,1,0,2022-07-06
+386,2022-07-12 14:09:53+00:00,1546859392200581127,TempusFinance,"7/ Builders are super coders who love solving problems. 
+
+Creators make the builders’ ideas come to life by translating code into culture.
+
+Connectors use their business skills to put the right products in front of the right eyes. 👌",13,1,0,2022-07-12
+396,2022-07-13 11:39:03+00:00,1547183823330369538,TempusFinance,"Capital efficiency is one of the main benefits DeFi users can enjoy.
+
+Which of the following features describes capital efficiency best?",4,2,2,2022-07-13
+398,2022-07-14 15:57:17+00:00,1547611199373598721,TempusFinance,"@SalomonCrypto @AaveAave @compoundfinance @Uniswap 7/ Among arbitrageurs, a lot of strategies such as sandwiching and Just-In-Time Liquidity strategy takes place on @Uniswap V2 and V3. 💪
+
+The trading volume market share on V3 has been significantly rising over time. 🔼 https://t.co/VyuYr9Wgcd",4,2,1,2022-07-14
+408,2022-07-15 12:42:35+00:00,1547924589392474116,TempusFinance,"Soon…👀
+
+#EthCC #EthCC5 https://t.co/HxVCKkBov2",23,4,8,2022-07-15
+410,2022-07-16 12:30:00+00:00,1548283810437103616,TempusFinance,"Coffee on Tempus? 
+
+#EthCC #EthCC5 #ETHSpresso https://t.co/JvPwPMUjOY",18,2,9,2022-07-16
+411,2022-07-18 18:25:27+00:00,1549098036873273345,TempusFinance,@EthCC LFG! 🚀,3,0,0,2022-07-18
+419,2022-07-19 14:47:28+00:00,1549405567214559232,TempusFinance,"How’s your day going? 🤗
+
+If you’re @EthCC then come and grab some cool merch and your favourite coffee! 🥤
+
+#EthCC #EthCC5 https://t.co/fhuc6Wt4xN",18,1,5,2022-07-19
+421,2022-07-20 06:43:41+00:00,1549646206627987456,TempusFinance,"Bonjour famille! 🌞
+
+It’s day #2 of #EthCC and we can’t wait to connect with you all at Café Saint Victor! 🫂
+
+What are y’all up to? 👇",16,3,3,2022-07-20
+425,2022-07-21 11:52:17+00:00,1550086256633200641,TempusFinance,"@bigdrckenergy @EthCC Best time to be in Paris now! 
+
+#EthCC",1,1,0,2022-07-21
+429,2022-07-22 10:18:07+00:00,1550424946811207681,TempusFinance,@StarkWareLtd We're @StarknetCC and enjoying the vibe of this young and growing community! 💪,20,1,3,2022-07-22
+431,2022-07-27 13:12:40+00:00,1552280813135355910,TempusFinance,"Assume that the only utility of red wine and green tea is to make a Vitalik cocktail.
+
+If red wine and green tea were two tokens, in which protocol would you set up a liquidity pool to trade them?",8,4,3,2022-07-27
+433,2022-07-28 09:28:51+00:00,1552586874107138048,TempusFinance,"From attending technical talks to talking to fellow degens over a Vitalik Cocktail, it’s fair to say @EthCC had it all! 🤝
+
+Give our EthCC recap a read to learn more about what the Tempus team got up to in Paris. 🇫🇷
+
+📌 https://t.co/GxRzBz3W5T https://t.co/tcB2ujCqaK",14,2,8,2022-07-28
+434,2022-07-29 13:58:20+00:00,1553017079271407617,TempusFinance,"In anticipation of the launch of our money market on #StarkNet, this week’s educational blog examines Zero-Knowledge Proofs. 🔜
+
+Keep your eyes peeled for Part 2! ✨
+
+📌 https://t.co/BqYEm8xqbi https://t.co/81zMZEco2L",11,2,3,2022-07-29
+435,2022-08-01 12:08:49+00:00,1554076683094867969,TempusFinance,"@mijovic988 6/
+Psst… 🤫
+
+If you talked to us at #EthCC, you’ll know that something BIG is coming soon™. 👀
+
+Watch this space next week ;)
+
+Hint:
+#StarkNet ✨🐺",4,1,1,2022-08-01
+440,2022-08-02 12:05:32+00:00,1554438245097799682,TempusFinance,"1/ Stablecoins are currently the word on the street as many DeFi giants are planning to launch their own #stablecoin that could help drive users and generate more revenue on their platforms.
+ 
+Any guesses?",10,4,4,2022-08-02
+447,2022-08-04 11:45:54+00:00,1555158082551955457,TempusFinance,"Cryptocurrency centralized exchanges are racing towards a ""zero fee"" trading environment.
+
+If decentralized exchanges (DEX) were to follow the same path, who would be the most damaged actor?",2,2,1,2022-08-04
+448,2022-08-08 12:28:13+00:00,1556618279854170114,TempusFinance,"@charlieputh @Uniswap @coinbase @DefiLlama @MessariCrypto 8/ Do you think this pilot will lead to activation of the fee switch in the remaining pools on @Uniswap? 
+
+Let us know your thoughts below. 👇",3,0,0,2022-08-08
+456,2022-08-09 14:47:51+00:00,1557015808727040003,TempusFinance,"13/ Did you enjoy this thread? 
+
+📚 Read more here:
+
+https://t.co/BqYEm8xqbi",3,1,1,2022-08-09
+469,2022-08-10 14:03:54+00:00,1557367137622233088,TempusFinance,"Check out this interview with @davgarai and @defislate at #EthCC! 🇫🇷
+
+Fresh alpha about the upcoming launch of our lending and borrowing protocol on #StarkNet. 👀 https://t.co/XKTv3xDlZF",7,2,4,2022-08-10
+470,2022-08-11 10:29:20+00:00,1557675527804227586,TempusFinance,"What would be the best trade to profit from fears on censorship resistance of fiat-backed stablecoins? Assume no depeg risk, you just want to maximize yield.
+
+(A) Borrow FRAX with USDC as collateral
+(B) Borrow USDC with FRAX as collateral
+(C) Borrow FRAX with ETH as collateral",5,2,1,2022-08-11
+471,2022-08-17 14:25:05+00:00,1559909182413111296,TempusFinance,"Can't wait to see you all there!
+
+Get ready for some alpha!
+
+LFG! 🤌🌹 https://t.co/lXiVM7AnkW",2,2,1,2022-08-17
+472,2022-08-18 12:36:33+00:00,1560244257830899712,TempusFinance,"It's finally happening!
+
+See you in an hour! 🌹🤌 https://t.co/74yVqBoE24",10,2,3,2022-08-18
+474,2022-08-22 15:59:42+00:00,1561744931575799810,TempusFinance,Last week was a busy one at Tempus HQ -  here's a quick recap. ✍️ https://t.co/GIrLgIjsGG,12,3,1,2022-08-22
+475,2022-08-24 11:00:03+00:00,1562394300205375488,TempusFinance,An important news has just come out regarding the Merge but it's unclear whether it is bullish or bearish. What would be the best strategy to try to profit from such news?,7,3,1,2022-08-24
+476,2022-08-31 10:20:31+00:00,1564921064815296512,TempusFinance,You have borrowed a stablecoin whose peg is currently deviating from the parity. Which of the following scenarios would you like to avoid the most?,4,1,1,2022-08-31
+477,2022-09-02 10:05:08+00:00,1565641968125743104,TempusFinance,"✨ NEW JOINER ✨
+
+Jey takes pleasure in being the go-to guy for the Tempus community. He has a passion for education in crypto and DeFi and has been working in the space for the last few years focusing on community support and engagement. Welcome @0x_javier! https://t.co/u1n8sponYE",14,4,3,2022-09-02
+478,2022-09-05 14:49:07+00:00,1566800599991328768,TempusFinance,"Will a free-floating $DAI keep Maker afloat? 🤔
+
+This week’s Tempus Takes digs into the proposal laid out by @MakerDAO's founder Rune Christensen to ensure DAI’s continued existence. 🏃
+
+📚https://t.co/jfPyfPakGb https://t.co/g4Pzou0yyB",5,3,1,2022-09-05
+479,2022-09-08 09:57:12+00:00,1567814300512780288,TempusFinance,The Coinbase Staked ETH (cbETH) token is trading at discount with respect to the Lido Staked ETH (stETH) token. What could be the reason for that?,2,1,1,2022-09-08
+480,2022-09-09 14:04:18+00:00,1568238871695216640,TempusFinance,"A discussion has been started on the Tempus governance forum regarding the impact the launch of the Nostra protocol may have on $TEMP token holders. We would urge all Tempus community members to share their thoughts at the link below. 👇
+
+https://t.co/hgRHOh1UTS",6,4,2,2022-09-09

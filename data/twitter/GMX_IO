@@ -1,0 +1,1120 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2021-02-26 12:53:37+00:00,1365283881566445568,GMX_IO,"The distribution of tokens for the Gambit protocol will begin soon
+https://t.co/FRwZ95fCXF",2,0,0,2021-02-26
+1,2021-03-01 11:19:37+00:00,1366347386402918400,GMX_IO,"Anyone can mint gUSD tokens using any whitelisted asset with no spread and no slippage
+
+For example, if BNB is a whitelisted asset, and the price is 200 USD per BNB
+
+Then Alice can mint 200 gUSD by selling 1 BNB to the system
+
+2/6",1,1,0,2021-03-01
+5,2021-03-04 12:33:35+00:00,1367453166472597505,GMX_IO,"The Gambit Whitelisted Presale is Now Live
+https://t.co/h3r4oTQ5ZN",27,1,4,2021-03-04
+6,2021-03-06 01:50:18+00:00,1368016054878801927,GMX_IO,"@Miguel_Ocotzi Total Supply: 1 million GMT, Circulating on launch: 400K GMT, the rest of the tokens are in the treasury to be managed by GMT governance",1,0,0,2021-03-06
+9,2021-03-07 11:23:08+00:00,1368522598376644615,GMX_IO,@NegociadorBR @PancakeSwap no airdrop,0,1,0,2021-03-07
+15,2021-03-10 12:28:49+00:00,1369626292371419142,GMX_IO,"We will be doing an AMA with @ApeSelective on 11 March 2021 at 1 PM (GMT+0), if you want to know more about Gambit and what's in store come drop by!",33,0,7,2021-03-10
+16,2021-03-12 02:55:42+00:00,1370206839137136642,GMX_IO,"Recap of the AMA with @ApeSelective from yesterday, @crypto_mission thank you for hosting us!
+
+If you have any more questions, feel free to ask them in our Telegram: https://t.co/1LAnlg4ARM
+
+https://t.co/WpeN2RvFvT",18,1,6,2021-03-12
+17,2021-03-13 02:09:59+00:00,1370557724723798023,GMX_IO,"Gambit is a new stablecoin model:
+- You sell assets e.g. BNB to the system and it mints you gUSD stablecoins
+- With the BNB in the system, it lets people open long positions against it
+- The longing stabilises the worth of the assets while generating fees
+
+https://t.co/sQjDHQ1dTd",43,1,7,2021-03-13
+19,2021-03-15 15:23:08+00:00,1371482101040566274,GMX_IO,Re-sharing to help visibility https://t.co/cyu0GXRyXk,10,0,1,2021-03-15
+20,2021-03-19 09:52:31+00:00,1372848450815942656,GMX_IO,"Continuing contract updates:
+
+✅ funding rates
+✅ fees
+✅ manage collateral and position size separately
+✅ tests for whitelisting of assets
+✅ tests for minting of gUSD
+✅ tests for burning of gUSD
+
+Next up: tests for cross-asset swaps and margin functions https://t.co/g7TGxUfcte",42,5,9,2021-03-19
+21,2021-03-20 02:16:09+00:00,1373095990203322372,GMX_IO,"@OptionSavy Yup, we are planning GMT rewards for the GMT/gUSD pair once beta launches in April",1,0,0,2021-03-20
+22,2021-03-23 09:49:36+00:00,1374297268153544707,GMX_IO,"@Twigcoin @XVIX_Finance @PancakeSwap Hi, the GMT tokens have already been sent to your address on the BSC network",0,1,0,2021-03-23
+23,2021-03-26 10:19:59+00:00,1375392077844860928,GMX_IO,"All main contract features completed:
+
+✅ cross-asset swap tests
+✅ opening / closing / liquidating position tests
+✅ added limit / stop-loss / take-profit / trailing-stop orders
+
+The contract code will be made public and submitted for audit on Monday https://t.co/F2mEGfj6YY",61,7,17,2021-03-26
+24,2021-03-31 11:56:53+00:00,1377228402915123201,GMX_IO,"@Jack_Vath @AstrologyCrypto @3azima85 @xdev_10 @XVIX_Finance We’ll have the testnet soon, so it’s going to look much better in a bit :) aiming for ~7 April, rest of the team is also working on redesigning the home page to highlight the advantages and explain the idea, so will see about that",9,1,2,2021-03-31
+25,2021-04-02 10:00:17+00:00,1377923833303166982,GMX_IO,"@deanrey3 Thanks! Probably going to do a simple curve chart for now, then add an option to switch to a TradingView candlestick chart after",2,1,0,2021-04-02
+26,2021-04-04 15:04:03+00:00,1378725054201036800,GMX_IO,"@zhaozike @FWBtweets @ElasticDAO @MonteCarloDEX @MinaProtocol Feel free to tag us or ask any questions in the telegram, happy to answer",0,0,0,2021-04-04
+27,2021-04-05 02:20:06+00:00,1378895189884903428,GMX_IO,"A good read for everything about $GMT, great timing with the testnet coming up on 7th April! https://t.co/5Qlk8PTsL5",48,1,9,2021-04-05
+28,2021-04-06 03:33:44+00:00,1379276108030341123,GMX_IO,"@ColeGarnerXBT We're still looking into how to explain this simply, but happy to answer if you'd like to clarify on any point",7,0,0,2021-04-06
+34,2021-04-08 04:25:40+00:00,1380013952793382912,GMX_IO,"@cryptobond1928 @xdev_10 You could try reducing the amount of BNB you are trying to convert, need to leave some for the gas fee",0,1,0,2021-04-08
+40,2021-04-09 12:01:38+00:00,1380491087962238976,GMX_IO,"We are very thankful to everyone who tried out the testnet and who gave a lot of good feedback 
+
+We will continue working to deliver the best experience when the Gambit Mainnet Beta launches",26,2,1,2021-04-09
+46,2021-04-10 02:16:07+00:00,1380706128326057986,GMX_IO,"@cryptobond1928 @xdev_10 It will be after the audit results are out, our audit company has given 20 April as the date for completion, so 21 April if there are no audit issues",0,1,0,2021-04-10
+47,2021-04-14 04:25:59+00:00,1382188358185590786,GMX_IO,"@TrackerNFT Yup, we will look into launching on other chains like an Ethereum L2 or Avalanche after we get the beta running well",0,0,0,2021-04-14
+48,2021-04-19 04:16:51+00:00,1383998001660653572,GMX_IO,"@hipsswayin There will be a staking page on the Gambit site when beta launches, we are awaiting the results of our audit, will advise on the launch date / time once the results have been reviewed",1,1,0,2021-04-19
+51,2021-04-21 01:40:00+00:00,1384683305522515970,GMX_IO,"We are currently still awaiting a reply from ABDK Consulting regarding the audit results
+
+Will advise on the launch time of Gambit protocol on BSC Mainnet once the results have been received
+
+Thank you everyone for your patience as we wait for this final aspect to be cleared",49,2,9,2021-04-21
+53,2021-04-23 09:12:40+00:00,1385521995652026370,GMX_IO,"The GMT/USDG and xGMT/USDG liquidity will be added on PancakeSwap V2, this is necessary as PancakeSwap will be disabling adding liquidity on PancakeSwap V1.",9,1,1,2021-04-23
+59,2021-04-28 08:04:30+00:00,1387316781996408835,GMX_IO,"The Gambit protocol will be launching in ~3 hours! 🎉
+
+It will take some time to set up the contracts and for staking to begin, each step will be posted on the Telegram group: https://t.co/1LAnlg4ARM",63,2,14,2021-04-28
+60,2021-05-05 14:42:34+00:00,1389953671530643458,GMX_IO,"Gambit’s First Fee Distribution!
+
+https://t.co/XSXuANrf3i",56,0,13,2021-05-05
+61,2021-05-08 06:20:00+00:00,1390914362425049088,GMX_IO,@Apeasaurus We have a Discord now: https://t.co/fvk2sltnrT,2,0,0,2021-05-08
+62,2021-05-09 01:41:59+00:00,1391206785600479232,GMX_IO,@Fifa18_F1 @cryptogems_com you should purchase $GMT with $USDG: https://t.co/ylgfQ4r3Xr,3,0,0,2021-05-09
+64,2021-05-10 11:59:12+00:00,1391724498274029568,GMX_IO,"USDG as an LP (Liquidity Provider) token
+
+1/16 https://t.co/eBM3UrhLFy",73,1,24,2021-05-10
+80,2021-05-11 20:07:26+00:00,1392209754446082048,GMX_IO,"The verdict is in.... another ATH volume day for Gambit. $GMT
+
+20h Volume: 16,792,642.25 USD
+
+Thank you for the support!",35,0,4,2021-05-11
+85,2021-05-12 07:24:48+00:00,1392380220682944516,GMX_IO,"Come and discover a whole new trading experience.
+
+👉 https://t.co/Pb9ViuRQh4 https://t.co/Cp9W4b4ZvO",51,1,15,2021-05-12
+87,2021-05-13 06:59:22+00:00,1392736208145600517,GMX_IO,"During the BTC wick yesterday, Gambit posted a low of $49,553 thanks to @Chainlink's price feeds and cascading liquidation resistant system. 💪
+
+Always trade safely on https://t.co/itltjiXlQ3 🚀 https://t.co/79uTxurw08",63,2,14,2021-05-13
+90,2021-05-15 02:02:09+00:00,1393386186123616258,GMX_IO,"Gambit has been added on https://t.co/wIxtZWblPD
+@vfat12 thank you for all the help in adding us!",35,1,7,2021-05-15
+92,2021-05-16 20:10:47+00:00,1394022536527155204,GMX_IO,"Volatility is good 🙏.
+
+Long/Short $BTC, $ETH, $BNB up to 30x today. 
+
+https://t.co/q1th9SpR3d
+
+$GMT",53,0,11,2021-05-16
+93,2021-05-18 12:12:01+00:00,1394626830426988552,GMX_IO,"The AUTO-USDG farm is now live on Gambit, deposit $AUTO and $USDG to earn $xGMT and $BNB rewards
+
+The first $xGMT rewards will be distributed in ~1 hour
+
+https://t.co/DJ6glZejO8 https://t.co/PWMbrqmO1f",58,1,16,2021-05-18
+95,2021-05-19 05:23:23+00:00,1394886379117572099,GMX_IO,"🥳 Weekly Fees Distribution
+
+⁃ $226,885.65 collected for the past 7 days
+- USDG APR: 23.93%
+- xGMT APR: 60.15%
+
+Start farming xGMT now with up to 1000% APR on https://t.co/a4E6u6cUEa 🤑",31,1,9,2021-05-19
+99,2021-05-21 12:44:49+00:00,1395722246337957892,GMX_IO,https://t.co/JPDjqPmQ3t,50,1,14,2021-05-21
+102,2021-05-22 01:07:01+00:00,1395909026332897285,GMX_IO,"@Stealthcrypted I see, ok we will give it more thought, thank you for the feedback on it",1,0,0,2021-05-22
+103,2021-05-24 12:23:48+00:00,1396804121143877636,GMX_IO,"The Gambit Discourse is now live, this will be the beginning form of Gambit governance for proposal discussions
+
+The first proposal on xGMT emissions has been put up, please take a look and comment if you have any feedback on it:
+https://t.co/NimLNSI9hK",31,1,7,2021-05-24
+104,2021-05-26 04:44:27+00:00,1397413296815460353,GMX_IO,"🥳 Weekly Fees Distribution
+
+⁃ $103,498.60 collected for the past 7 days
+- USDG APR: 93.86%
+- xGMT APR: 220.43%
+
+Fees are distributed as $BNB
+
+Start farming now on https://t.co/a4E6u6uw2K 🤑",31,1,10,2021-05-26
+105,2021-05-27 02:30:41+00:00,1397742022962802688,GMX_IO,"@JimWashok Hi Jim, you would need to connect to the Binance Smart Chain network: https://t.co/aatzJ5HcVg",0,1,0,2021-05-27
+107,2021-05-28 09:52:46+00:00,1398215665488580610,GMX_IO,"$USDG has been listed on CoinGecko, @coingecko thank you for the listing!
+
+Earn an APR of 70% paid in $BNB rewards just by holding USDG in your wallet https://t.co/DJ6glZejO8 🤑",43,1,15,2021-05-28
+108,2021-05-29 02:49:11+00:00,1398471455529050116,GMX_IO,"@lawreight @coingecko yup, we are still distributing $BNB rewards to USDG in the stbz pool, you could check with them for the details",0,1,0,2021-05-29
+109,2021-05-31 04:40:02+00:00,1399224123889356804,GMX_IO,@earnbitcoinsph we have been audited by ABDK Consulting: https://t.co/xRnxU3yygQ,1,0,0,2021-05-31
+110,2021-06-01 07:08:57+00:00,1399623989215956995,GMX_IO,"$500 million in total volume traded since 28 April 🤑
+
+We will be organising an event as a thank you for the support, so stay tuned!
+
+Meanwhile, trade $BTC, $ETH and $BNB with up to 30x leverage and no liquidation wicks: https://t.co/R9ZYRbxyUR https://t.co/UpIZ0hdhCw",67,3,18,2021-06-01
+111,2021-06-02 02:57:10+00:00,1399923015840792577,GMX_IO,"🥳 Weekly Fees Distribution
+
+⁃ $67,466.93 collected for the past 7 days
+- USDG APR: 30.95%
+- xGMT APR: 106.13%
+
+Fees are distributed as $BNB
+
+Start farming now on https://t.co/a4E6u6cUEa 🤑",34,2,8,2021-06-02
+114,2021-06-07 11:26:22+00:00,1401863097204166658,GMX_IO,"Gambit is now listed on Defi Llama
+@DefiLlama thank you for the listing!
+
+https://t.co/qlo27aTMmu",23,0,6,2021-06-07
+115,2021-06-09 04:14:13+00:00,1402479117262491652,GMX_IO,"Always glad to see a happy user 🙏
+
+We aim to offer the simplest way to trade while protecting traders from liquidation wicks
+
+https://t.co/R9ZYRbxyUR https://t.co/HED9xy3ok2",22,0,4,2021-06-09
+118,2021-06-10 02:58:42+00:00,1402822501617389569,GMX_IO,"@Apeasaurus Looks good! We are improving our contracts currently, we will aim to launch on a second chain in a few weeks",0,1,0,2021-06-10
+120,2021-06-14 20:32:19+00:00,1404537206748897284,GMX_IO,"We are inching closer to 1 Billion in trading volume... A big thank you to everyone who has supported us!! 🥳
+
+$GMT $xGMT $USDG https://t.co/3ecXXmFxqD",39,0,8,2021-06-14
+126,2021-06-15 04:05:19+00:00,1404651206455136260,GMX_IO,"The work done by the Gambit community has been amazing 🔥
+
+A list 👇
+
+$GMT $xGMT $USDG",33,1,9,2021-06-15
+135,2021-06-16 01:50:53+00:00,1404979761290498048,GMX_IO,"🥳 Weekly Fees Distribution
+
+⁃ $27,984.96 collected for the past 7 days
+- USDG APR: 22.73%
+- xGMT APR: 92.73%
+
+Fees are distributed as $BNB
+
+Start farming now on https://t.co/a4E6u6cUEa",25,1,3,2021-06-16
+136,2021-06-17 12:02:00+00:00,1405495944309657602,GMX_IO,@0xAppodial awesome! looking forward to it :D,2,0,0,2021-06-17
+138,2021-06-18 12:44:25+00:00,1405869005965983747,GMX_IO,"@Funkie031 @IPljuskovac Sorry wrong transaction hash, this is the one: https://t.co/EVmkrNJT9S",2,1,0,2021-06-18
+144,2021-06-21 13:28:00+00:00,1406967139852947459,GMX_IO,"@naiefk11142 No action is needed today, there will be a migration page tomorrow, you will be able to use it to migrate your GMT or xGMT tokens to GMX then",3,1,0,2021-06-21
+146,2021-06-22 04:16:20+00:00,1407190695811510272,GMX_IO,@earnbitcoinsph yes,0,0,0,2021-06-22
+152,2021-06-23 03:51:12+00:00,1407546757202857989,GMX_IO,"🥳 Weekly Fees Distribution
+
+⁃ $61,211.44 collected for the past 7 days
+- USDG APR: 31.12%
+
+Fees are distributed as $BNB
+
+Start farming now on https://t.co/a4E6u6cUEa",14,1,3,2021-06-23
+154,2021-06-25 14:14:26+00:00,1408428375010693123,GMX_IO,"Trading prizes have been distributed for Friday 6/25.  
+
+Congratulations: 
+@predscryt
+@aardwulf1
+@AlanH79879184
+
+Each has won 500 USDG!
+
+$GMT $xGMT $USDG",14,0,0,2021-06-25
+155,2021-06-29 11:22:23+00:00,1409834629104738305,GMX_IO,"Trading prizes have been distributed for 29 Jun 2021 🥇 
+
+Congratulations: 
+@ErikkkkkSong
+@Revvnx
+@hpokd1
+
+500 USDG has been sent to each of your addresses!
+
+$GMT $xGMT $USDG",21,3,0,2021-06-29
+156,2021-06-30 04:04:39+00:00,1410086856071413760,GMX_IO,"🥳 Weekly Fees Distribution
+
+⁃ $27,892.58 collected for the past 7 days
+- USDG APR: 23.33%
+
+Fees are distributed as $BNB
+
+Start farming now on https://t.co/a4E6u6cUEa",5,0,0,2021-06-30
+159,2021-07-01 10:41:14+00:00,1410549048138862596,GMX_IO,"Gambit is now officially integrated into @1inchNetwork bringing swaps with zero price impact to all 1inch users! 🎉
+
+Swap on 1inch: https://t.co/FwyitXFyLe
+
+Swap and leverage trade on Gambit: https://t.co/q1th9S8fED https://t.co/pLc2vvoa8C",141,12,24,2021-07-01
+160,2021-07-02 02:59:14+00:00,1410795170111672322,GMX_IO,@ErikkkkkSong @1inchNetwork liquidity is lowered as we are in the midst of a migration https://t.co/uDt2jCImWD,1,1,0,2021-07-02
+162,2021-07-05 11:44:25+00:00,1412014500270596096,GMX_IO,"Reminder to migrate all your $GMT and $xGMT tokens, the migration will end tomorrow! ⏰ 
+
+https://t.co/NeGEbQlUdU https://t.co/qQxGHVK3WF",12,0,1,2021-07-05
+163,2021-07-06 04:23:25+00:00,1412265907821301762,GMX_IO,"Updated GMX Tokenomics
+https://t.co/eFkbqKOkJT",19,1,3,2021-07-06
+165,2021-07-07 04:53:20+00:00,1412635823162363906,GMX_IO,"🥳 Weekly Fees Distribution
+
+⁃ $42,810.32 collected for the past 7 days
+- USDG APR: 31.21%
+
+Fees are distributed as $BNB
+
+Start farming now on https://t.co/a4E6u6cUEa",12,0,2,2021-07-07
+166,2021-07-09 12:53:30+00:00,1413481437030850574,GMX_IO,"@L0GYKAL @XVIX_Finance @OlympusDAO It will be something like this: floor price is $2, mint price is $2.50, if someone buys from the minter, the floor price would increase slightly, e.g. to $2.05, so it is beneficial to all holders and also to new buyers",0,1,0,2021-07-09
+172,2021-07-10 03:26:52+00:00,1413701226106036236,GMX_IO,"@L0GYKAL @XVIX_Finance @OlympusDAO Yes there are some trade-offs but I think the benefits outweigh them, e.g. if we listed all GMX-ETH liquidity by ourselves then buying GMX would similarly increase the circulating supply
+
+Minting GMX also increases the mint price, so it could be viewed similar to an order book",1,1,0,2021-07-10
+176,2021-07-11 02:54:49+00:00,1414055549537198080,GMX_IO,"@Adrian25_92 Thank you for the support! We will aim to deploy our contracts on Arbitrum mainnet on 14 Jul. Trading / staking will begin when Arbitrum is open to the public, I don't have a date for that, could be before or after 14 Jul",1,0,0,2021-07-11
+178,2021-07-14 12:07:28+00:00,1415281792110661635,GMX_IO,"The new and improved GMX contracts have been deployed on @arbitrum mainnet!
+
+https://t.co/UypfFV7BO9",143,15,33,2021-07-14
+180,2021-07-17 04:15:40+00:00,1416250224671031302,GMX_IO,"@JunkoSu22993224 Thank you, excited to be onboard!",3,0,0,2021-07-17
+181,2021-07-18 12:41:09+00:00,1416739821154938888,GMX_IO,"UI update coming soon for #GMX, with TradingView candles and a timeframes selector. 👀🔥 https://t.co/mzyPEbyiJz",52,3,8,2021-07-18
+182,2021-07-19 04:24:00+00:00,1416977097038336000,GMX_IO,"@Pra46857671 @BruceFarmsBunny @s7amy @0xAppodial Hi @Pra46857671, the space is definitely competitive, for Gambit we are focusing on:
+- Reduced liquidation risks based on Chainlink price feeds and automatic stop-losses
+- Tokenomics that align incentives for long term holders
+- High capital efficiency for liquidity providers",0,3,0,2021-07-19
+186,2021-07-20 03:11:07+00:00,1417321143497723906,GMX_IO,"@Pra46857671 @BruceFarmsBunny @s7amy @0xAppodial For price lags, this might be fixed with Chainlink on Arbitrum, also possible to learn from Gains and run our own price feeds, this would address (1), (2), (5) and might be possible to reduce fees as well",0,1,0,2021-07-20
+188,2021-07-21 11:23:49+00:00,1417807522652581892,GMX_IO,"Thank you for the listing! Glad to be on @defiyield_app 
+
+Join us to farm $BNB at an APR of 55.71% with $USDG
+
+https://t.co/DJ6glZejO8
+
+#dailyAPY https://t.co/ywT0QPC9MB",17,1,4,2021-07-21
+190,2021-07-23 02:43:05+00:00,1418401249997639684,GMX_IO,"Congratulations to the @arbitrum team! Amazing group of people, it feels exciting just being close to all this development https://t.co/ouKMkvM2OF",21,0,5,2021-07-23
+191,2021-07-24 13:44:20+00:00,1418930045922385921,GMX_IO,"@PelfordE @defiyield_app We've pushed an update, you can redeem USDG for any asset at a price of 1 USD",0,0,0,2021-07-24
+193,2021-07-26 19:56:16+00:00,1419748422744223757,GMX_IO,"The volatility is coming back and we broke $18M in volume today ! 🔥
+
+Trade up to 30x leverage on $BNB, $ETH &amp; $BTC at https://t.co/q1th9SpR3d our BSC version.",34,5,3,2021-07-26
+194,2021-07-27 11:51:27+00:00,1419988801775050768,GMX_IO,New website coming soon,16,0,0,2021-07-27
+195,2021-07-28 11:55:51+00:00,1420352300510482438,GMX_IO,"Today, we passed the $1 million mark in fees distributed on the BSC. 🚀
+
+Thanks you for using our platform and to all of our aggregator partners for facilitating this milestone. https://t.co/GLKaXtHafK",30,0,2,2021-07-28
+199,2021-07-30 10:08:27+00:00,1421050047731486720,GMX_IO,"Built different™
+#GMX https://t.co/kYyUrW1TF5",35,2,7,2021-07-30
+200,2021-08-02 13:23:59+00:00,1422186416814034944,GMX_IO,"Thank you @WardenSwap for the quick integration of #GMX in their exchange.
+
+Chainlink price feeds + 0 price impact = best price for users. 🎯 https://t.co/xN1tcdtreA",22,0,6,2021-08-02
+201,2021-08-03 03:29:13+00:00,1422399127770468363,GMX_IO,@defiprime Count us in for $2600 :),3,0,0,2021-08-03
+202,2021-08-04 05:12:48+00:00,1422787583390609411,GMX_IO,"🥳 Weekly Fees Distribution
+
+⁃ $55,084.02 collected for the past 7 days
+- USDG APR: 33.08%
+
+Fees are distributed as $BNB
+
+Start farming now on https://t.co/a4E6u6cUEa",14,0,1,2021-08-04
+203,2021-08-05 12:30:36+00:00,1423260147070107656,GMX_IO,"A frequently-requested option, thank you for helping to support this! @StabilizePro https://t.co/vDEyBHlNQk",13,1,1,2021-08-05
+204,2021-08-09 07:41:12+00:00,1424636867929120776,GMX_IO,"Arbitrum is planned for August and so is GMX!
+
+The contracts are already deployed on Mainnet, limit-orders are being prepared to be tested on the BSC this month and released together with the new UI once we launch on L2. https://t.co/XAUDzIIjs9",42,5,7,2021-08-09
+205,2021-08-10 14:00:45+00:00,1425094772608356359,GMX_IO,"👀 Open Interests on the BSC :
+
+- Long $71k
+- Short $164k
+
+13h volume : $4.4M",12,0,1,2021-08-10
+206,2021-08-11 04:41:55+00:00,1425316524181491713,GMX_IO,"@btc_roronoa you should migrate them, please follow these steps: https://t.co/FmfcYXHdQx",0,1,0,2021-08-11
+209,2021-08-12 22:21:05+00:00,1425945463405043712,GMX_IO,We just surpassed the $1 billion mark in volume traded on the exchange! 💥  #GMX https://t.co/xBuGuUvd08,42,1,13,2021-08-12
+213,2021-08-17 04:16:31+00:00,1427484461281595398,GMX_IO,"@blackswanjake @21agelos The APRs are in the left box, Escrowed GMX APR: 23.74%, Multiplier Points APR: 100%
+
+If you enter your address, your rewards earned so far should appear in the right box
+
+More info about staking: https://t.co/FJ1aw1Xakb https://t.co/K0ysWCaiDo",1,1,0,2021-08-17
+214,2021-08-18 03:30:49+00:00,1427835347392630789,GMX_IO,"🥳 Weekly Fees Distribution
+
+$69,267.72 collected for the past 7 days
+
+- USDG APR: 29.20% paid in $BNB
+- Pending distribution to $GMX stakers: $59,758.57 worth of $ETH
+
+Start farming now on https://t.co/a4E6u6cUEa",20,1,3,2021-08-18
+215,2021-08-21 06:37:52+00:00,1428969583772409858,GMX_IO,"Fact of the day :
+
+#GMX represents only 0.01% of the total liquidity on the BSC, yet between 10 to 25% of the 1inch volume passes through us. 🔥",61,4,17,2021-08-21
+217,2021-08-22 02:52:23+00:00,1429275229256257536,GMX_IO,It has been a pleasure to help contribute and add support for @arbitrum! Looking forward to a bustling list of farms 🧑‍🌾 https://t.co/TnD90K29Ev,23,1,1,2021-08-22
+218,2021-08-25 04:41:24+00:00,1430389825400578048,GMX_IO,"Weekly Fees Distribution 🔹
+
+$82,093.64 collected for the past 7 days
+
+- USDG APR: 36.37% paid in $BNB
+- Pending distribution to $GMX stakers: $72,072.62 worth of $ETH
+
+Start farming now on https://t.co/a4E6u6cUEa",19,2,0,2021-08-25
+219,2021-08-26 12:48:22+00:00,1430874762251702274,GMX_IO,"Limit and trigger orders are now live on BSC Testnet!
+https://t.co/kdtSby2PWv",39,3,11,2021-08-26
+220,2021-08-30 15:05:43+00:00,1432358880630038533,GMX_IO,"Upcoming plans for $GMX 🔷
+
+Earn a share of $200,000 USD worth of tokens by minting GLP at launch and much more:
+
+https://t.co/rgaAN9IGVx",58,4,14,2021-08-30
+221,2021-08-31 21:44:27+00:00,1432821614064853001,GMX_IO,OK;LG 🌠 https://t.co/b9lQOAprMZ,22,2,6,2021-08-31
+222,2021-09-01 05:18:18+00:00,1432935826439163911,GMX_IO,@Darrenlautf @arbitrum Gm :),16,1,0,2021-09-01
+232,2021-09-02 16:59:36+00:00,1433474703130337290,GMX_IO,"💡 Some stats on the platform 24h after launch :
+
+- 10% of the Arbitrum TVL is in GLP ($2M on $20M) 💧
+- $4.5M in Volume 🔥
+- $9k fees generated 💰
+
+👉 Trade now : https://t.co/lNPUoZP08s",49,4,14,2021-09-02
+235,2021-09-03 10:36:16+00:00,1433740621647392774,GMX_IO,https://t.co/S2lD9Hlfjv,24,1,4,2021-09-03
+239,2021-09-04 10:45:03+00:00,1434105221186310147,GMX_IO,"If you like :
+
+- Leverage Trading
+- Passive Income
+- Capital efficiency
+
+$GMX may fit well for you. 😎
+See you Monday for the token launch on Uniswap V3. 🚀",69,6,23,2021-09-04
+242,2021-09-06 06:10:41+00:00,1434760949815074817,GMX_IO,@ArbiDogecoin Thank you 🙏,6,0,2,2021-09-06
+245,2021-09-07 16:31:14+00:00,1435279503572422656,GMX_IO,"Can you spot the difference between trading on $GMX and a CEX? Don't let the wicks get you. 
+
+Trade on https://t.co/lNPUp06B00
+
+Powered by @arbitrum and @chainlink https://t.co/DTtGUS38WQ",88,5,24,2021-09-07
+246,2021-09-08 06:50:10+00:00,1435495662523535363,GMX_IO,"@CryptoCanti will reach out to update our logo 🙂
+
+the liquidity is there, just that the USD price is not showing",2,1,0,2021-09-08
+247,2021-09-09 11:30:22+00:00,1435928562293481476,GMX_IO,"While waiting for $GMX to be listed on @coingecko you can already use Arbee to analyze the token chart : 
+https://t.co/mcc500J8nC",73,2,16,2021-09-09
+249,2021-09-10 17:04:04+00:00,1436374928060735491,GMX_IO,"$GMX
+An @arbitrum Native Project.
+
+We Are:  
+- Community Driven 
+- Zero VC Funding
+- Organic Growth
+- Real Trades from Real People
+- Capital Efficient 
+- Always Building
+
+Swap, Long, or Short (BTC, ETH, USDC) Today at https://t.co/l5igFBG6t3  🙌",287,15,80,2021-09-10
+250,2021-09-11 13:15:52+00:00,1436679890108026884,GMX_IO,"Thank you for your continued support. Through thick and thin, it has been the community that has stuck by our side. More to come for $GMX. 
+
+This is only the beginning. https://t.co/5KJg1cgsjJ",72,10,18,2021-09-11
+253,2021-09-12 12:21:11+00:00,1437028515082383364,GMX_IO,"@alph____ MetaMask tends to overestimate the fees on Arbitrum; generally, fees have been below $4. Join the telegram or Discord if you need any more support!",0,2,0,2021-09-12
+256,2021-09-13 15:40:20+00:00,1437441019910438912,GMX_IO,🔷 Good news for $GMX ! We are now listed on @coingecko  https://t.co/r8Eev5zefV and @CoinMarketCap https://t.co/aUAvBPDazY,101,3,34,2021-09-13
+261,2021-09-14 13:47:03+00:00,1437774898831704070,GMX_IO,"We’re also launching a Community Developer Program, if anyone wants to expand the #GMX ecosystem please reach us out !",27,2,1,2021-09-14
+265,2021-09-15 00:03:17+00:00,1437929979157827586,GMX_IO,"Swap 1 million in $USDC for $ETH on https://t.co/ZZjvo96wMx for.... $100 in fees and ZERO-slippage. 
+
+This is capital efficiency, this is $GMX https://t.co/l3ZyGq0htM",181,9,40,2021-09-15
+270,2021-09-16 16:21:18+00:00,1438538493408464900,GMX_IO,@LINKisthePIPE @arbitrum You need to be on Arbitrum and buy on Uniswap V3. Come to our Telegram or discord and we can help.,2,0,0,2021-09-16
+271,2021-09-17 16:14:22+00:00,1438899138549145605,GMX_IO,"🔷 #GMX is excited to announce @BreederDODO as our first integration partner on Arbitrum One, ensuring their users on @Arbitrum and @BinanceSmartChain enjoy the best price execution with our zero price impact swaps! 🎉 https://t.co/ScMPRIZpi4",201,14,52,2021-09-17
+272,2021-09-19 22:02:32+00:00,1439711532884152324,GMX_IO,"You can see the price of $GMX and esGMX rewards directly on your DeBank profile.
+
+Thanks @DeBankDeFi  we appreciate the update ;) https://t.co/H6RWbT8Eh8",50,2,8,2021-09-19
+274,2021-09-20 08:33:52+00:00,1439870414390501376,GMX_IO,"New record open interest on #GMX today with $20,000,000+ 🔥
+
+On the way to an ATH fees distributed this week too. 📈",103,4,20,2021-09-20
+276,2021-09-21 12:51:43+00:00,1440297689065738249,GMX_IO,"$LINK, $UNI and $USDT have been added to GLP! 🔷
+
+GLP minting is free for these tokens, until their target weight is reached.
+
+Traders can now enjoy no-price impact swaps and 30x perps contracts with these assets on the exchange. 🤑
+
+Buy GLP at https://t.co/2FszO3ZzPw https://t.co/Bs4pEuxv84",92,4,32,2021-09-21
+279,2021-09-22 06:54:58+00:00,1440570297506144258,GMX_IO,"Weekly Fees Distribution 🔹
+
+$421,508.71 collected for the past 7 days
+
+- GLP APR: 54.32% paid in $ETH
+- USDG APR: 35.37% paid in $BNB
+
+$79,059.912 worth of GLP minted for the $GMX floor price fund
+
+To stake GMX and GLP: https://t.co/axlCm3Lz4W 
+For USDG: https://t.co/a4E6u6cUEa https://t.co/kzXuW7VD62",89,9,21,2021-09-22
+282,2021-09-23 02:00:00+00:00,1440858456018149383,GMX_IO,"🔷 #GMX is thrilled to announce a partnership with @fraxfinance the first fractional-algorithmic stablecoin !
+
+$FRAX liquidity is coming to Arbitrum and will be listed on GLP for swaps and leverage trades on the exchange. https://t.co/eSbeIYWxZF",181,3,46,2021-09-23
+283,2021-09-25 11:08:41+00:00,1441721313165398019,GMX_IO,"🔷 Thanks to @0xAtomist from @GEMSAlliance for these new trading tools! 
+
+$GMX live chart with detailed candlesticks and intervals: https://t.co/AML0ysHGjM
+
+% of the supply staked vs $GMX price 
+https://t.co/UYWrVY2IvN",56,3,11,2021-09-25
+285,2021-09-27 15:18:42+00:00,1442509009173368839,GMX_IO,"The #GMX metrics dashboard is now available at https://t.co/FRKmnwqNyu 📊
+
+There you can find:
+- Volume and fees distributed chart
+- Net profits of traders
+- Swap sources
+- AUM Daily Usage &amp; GLP performance
+
+Check it out ! 🔹 https://t.co/WSc7v7zFce",103,5,24,2021-09-27
+287,2021-09-28 07:02:19+00:00,1442746476657061896,GMX_IO,"🔹 Happy Tuesday traders,
+
+New ATH this week, $GLP Marketcap is exceeding $30M! 🎉
+
+🎖 #GMX's TVL is the biggest growth in the last 7 days on Arbitrum according to @DefiLlama 
+
+$GMX https://t.co/zCpQHNWmoj",104,6,31,2021-09-28
+288,2021-09-29 01:54:56+00:00,1443031508881653760,GMX_IO,"@jeffrey_check We provided Uniswap V3 liquidity, we don't recommend SushiSwap, liquidity is low.",1,0,0,2021-09-29
+290,2021-09-30 04:39:46+00:00,1443435376836706305,GMX_IO,"We will keep building, thank you for the support 🙏 https://t.co/EtaAgB2V5W",61,1,11,2021-09-30
+292,2021-10-01 21:36:26+00:00,1444053617607155717,GMX_IO,"🔹 We just crossed 2 BILLIONS dollars in cumulative volume on @Arbitrum and @BinanceChain 🥳
+
+See metrics at https://t.co/sAxZealOAS
+Trade at https://t.co/ocfOX8aYMg
+
+$GMX #GMX https://t.co/ZQYAWK0A0o",148,6,25,2021-10-01
+298,2021-10-02 12:58:58+00:00,1444285782395609088,GMX_IO,@hanbonjovi Thanks 🙏,11,0,2,2021-10-02
+299,2021-10-03 13:21:07+00:00,1444653745242054662,GMX_IO,"$GMX has a price floor composed of ETH &amp; GLP which grows with the swaps fees on the GMX/ETH pair.
+
+A great thread by @RiceMaximalist explains it with details. https://t.co/1RJFdP2Zu7",58,0,9,2021-10-03
+301,2021-10-04 07:26:22+00:00,1444926853991440384,GMX_IO,Looks great! Thank you for adding support for $GMX and GMX positions @ArbysToken https://t.co/ktGtInuDRh,46,3,4,2021-10-04
+303,2021-10-05 13:39:11+00:00,1445383064050339847,GMX_IO,What chart are we talking about here? https://t.co/2ebwDw8f3T,52,6,8,2021-10-05
+304,2021-10-06 13:36:47+00:00,1445744849647333376,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$353,105.45 collected for the past 7 days
+
+To stake GMX and GLP: https://t.co/HnDqM21g57 
+For USDG: https://t.co/a4E6u6cUEa https://t.co/KVjHHUm2bP",82,2,20,2021-10-06
+305,2021-10-10 21:21:45+00:00,1447311414071336969,GMX_IO,"We did it !
+
+We broke $1 Billion in total volume on #GMX Arbitrum 🤩🔥 https://t.co/AuLwBopb1D",312,16,75,2021-10-10
+306,2021-10-11 04:40:30+00:00,1447421829711163396,GMX_IO,"@23timmyy93 @0xAppodial the fee is 0.1% of the position size when opening and closing a position, will add it to the docs",1,0,0,2021-10-11
+311,2021-10-12 05:25:02+00:00,1447795423481978883,GMX_IO,"Thank you for the in-depth comparison @mintventures2!
+
+Really detailed article and a good read https://t.co/ROERbibhPj",50,0,5,2021-10-12
+312,2021-10-13 21:54:59+00:00,1448406939118014464,GMX_IO,"@808_Investor Volume is wrongly reported on CoinGecko, there is $4M of volume today on Uniswap https://t.co/uaq89G3c6O",2,1,0,2021-10-13
+319,2021-10-14 02:53:45+00:00,1448482127603896320,GMX_IO,Auto-compounding for GLP coming soon! Thanks to @StabilizePro 🔷 https://t.co/DrdmPL068T,69,2,10,2021-10-14
+322,2021-10-15 04:37:43+00:00,1448870681479766020,GMX_IO,Thank you for the work on this @StabilizePro ! We greatly appreciate all the options built to fit different staking strategies for $GMX and $GLP https://t.co/gc4MRQ4zLa,46,0,4,2021-10-15
+324,2021-10-18 06:06:03+00:00,1449980074246086656,GMX_IO,"@LunarCRUSH is cool
+
+https://t.co/J6vRJZ92jW
+
+@loldefi @gMAKcrypto @PsyChrypto @hansolar21 https://t.co/sBulR1eVtQ",36,4,5,2021-10-18
+326,2021-10-19 11:40:19+00:00,1450426581990580224,GMX_IO,"Thank you for the write-up!
+
+Still some ways to go before we reach $447.47m fees though
+
+$2 million in fees in the next few hours most likely https://t.co/ebHvhW8kSI",51,2,5,2021-10-19
+327,2021-10-20 07:03:48+00:00,1450719382955388929,GMX_IO,Best place to swap $BTC for $USDC or $USDT rn https://t.co/rotE5Me1X8,107,8,27,2021-10-20
+334,2021-10-21 08:00:37+00:00,1451096067202760709,GMX_IO,TVL of #GMX across @BinanceChain &amp; @Arbitrum has exceeded $50M ! https://t.co/6VCdzrxT79,133,5,25,2021-10-21
+335,2021-10-22 18:41:29+00:00,1451619735435632648,GMX_IO,"Whomever made this.. We Love You. $GMX
+
+https://t.co/pCKzoBZlHm",84,4,19,2021-10-22
+344,2021-10-25 09:38:02+00:00,1452570135496048644,GMX_IO,"@OfficialSP29 @nirajhodler For GMX, click the ""Stake"" button on https://t.co/HnDqM21g57
+
+For GLP, click the ""Buy GLP"" button on https://t.co/pEADNE89nB
+
+Any GLP that is bought is automatically staked",0,0,0,2021-10-25
+345,2021-10-26 07:47:07+00:00,1452904609391935491,GMX_IO,"Everything you wanted to know to get started trading on GMX
+
+@0x2hundredx great thread https://t.co/86rjCCw0Cb",67,1,15,2021-10-26
+346,2021-10-27 07:20:52+00:00,1453260392126373896,GMX_IO,@xyselol @jaybny @pscltllrd yup take-profit is reduce only,1,1,0,2021-10-27
+349,2021-10-28 19:40:27+00:00,1453808902080958472,GMX_IO,"@NickArnone97 Currently Link utilization is maxxed out, once others close their longs or more LINK is added to the pool, you can take a position.",0,1,0,2021-10-28
+350,2021-10-29 18:45:17+00:00,1454157406766870535,GMX_IO,"Thank you for including us! 
+
+If you would like a deep-dive into $GMX don't hesitate to reach out! https://t.co/0ZZZl4EkJR",83,3,11,2021-10-29
+354,2021-11-03 13:01:00+00:00,1455882704344391685,GMX_IO,"A trading competition for all, win $250,000 USD in prizes!
+
+https://t.co/GYdp8tnlbN",203,11,100,2021-11-03
+356,2021-11-04 06:23:00+00:00,1456144931521769472,GMX_IO,"Two new sections have been added in https://t.co/sAxZealOAS
+
+- Borrowing Rate Annualized
+- Open Interest
+
+For an easy check of the market sentiment on the #GMX exchange. 🔹 https://t.co/Cj6p46a1yd",63,0,10,2021-11-04
+358,2021-11-05 07:50:59+00:00,1456529461076103170,GMX_IO,"GMX's Discourse is now live!
+
+The first proposal discussion for the next batch of listings is currently ongoing
+
+https://t.co/gxwdeXlkGN",39,2,5,2021-11-05
+359,2021-11-07 03:34:47+00:00,1457189762880606209,GMX_IO,"Thank you for this, we greatly appreciate the support
+
+Will keep working to optimise pmf, gonna get that &gt; 5% DeFi margin trading volume https://t.co/3UWPc8fr1T",91,3,19,2021-11-07
+361,2021-11-08 13:36:44+00:00,1457703635639418880,GMX_IO,"GMX Listing Proposals I - Nov 2021
+
+Join us to vote! 
+
+Voting is free and will not cost any gas
+
+https://t.co/egOUoyXW9p",50,4,9,2021-11-08
+367,2021-11-09 19:57:22+00:00,1458161813997117446,GMX_IO,"Protect yourself from wicks like this by trading on @GMX_IO where we use @chainlink oracle price feeds to protect our traders from rapid liquidations. 
+
+$GMX https://t.co/Ub3o7PuliL",122,1,20,2021-11-09
+368,2021-11-10 09:07:47+00:00,1458360730118406146,GMX_IO,"GM 🫐
+
+The RED vs GREEN competition is still live on #GMX, try to reach the best or worst % PNL to win up to $25,000 ! 💰
+
+Follow your ranking at https://t.co/HEuvqD53FB https://t.co/6O3mdsA0cP",44,0,10,2021-11-10
+371,2021-11-11 17:15:50+00:00,1458845938781507586,GMX_IO,@OGDfarmer Thanks for using us :) We are glad you had a good experience.,3,0,0,2021-11-11
+375,2021-11-12 06:23:49+00:00,1459044239644381189,GMX_IO,"5 more days to go till the first batch of $250,000 of prizes get distributed!
+
+There are still 11 slots left to be filled, so you could win $1000 just by opening a trade and claiming your account, more details:
+https://t.co/GYdp8tnlbN https://t.co/M5N2hSWCaY",39,0,9,2021-11-12
+378,2021-11-13 22:19:18+00:00,1459647085150498816,GMX_IO,"$200M was traded on #GMX yesterday, setting a new ATH and putting the cumulative volume on Arbitrum &amp; BSC over $5 billion 🚀 https://t.co/8IDNCq9wtl",184,8,46,2021-11-13
+379,2021-11-15 15:29:17+00:00,1460268677421416452,GMX_IO,"The first batch of prizes will be distributed on 17 Nov, in two days time, don't forget to claim your account to qualify for the prizes
+
+https://t.co/GYdp8tnlbN https://t.co/M5N2hSWCaY",25,0,4,2021-11-15
+382,2021-11-16 20:52:35+00:00,1460712423007178752,GMX_IO,"👨‍🌾 Fellow $GMX and $GLP stakers, a community member made a Youtube video to calculate your earnings over time to help you find the optimal strategy. 💸
+
+#GMX
+
+https://t.co/vqN5PZdzi7",83,3,20,2021-11-16
+384,2021-11-17 08:04:02+00:00,1460881402098946049,GMX_IO,"This is great, thank you for adding this!
+
+We've been using DeBank and it provides good stats that we couldn't find elsewhere, e.g. volume of 1inch on #BSC 
+
+Definitely worth checking out 👀 https://t.co/4MINKTy3OC",60,2,6,2021-11-17
+396,2021-11-18 01:00:22+00:00,1461137169683292163,GMX_IO,"Thank you so much for your review of $GMX and $GLP. 
+
+We really loved this overview of our project. If anyone is seeking additional information don't hesitate to join our telegram or discord; links can be found on https://t.co/2VdNmax7D5 :). https://t.co/EJJk3q1D9g",73,2,23,2021-11-18
+398,2021-11-19 14:44:58+00:00,1461707072811126789,GMX_IO,"$MIM from @MIM_Spell has been added to the $GLP index!
+
+This allows anyone to swap $MIM for $BTC, $ETH and other tokens with zero price impact
+
+You can also use $MIM as collateral for long and short positions
+
+Trade it here: https://t.co/YarCi6rkHw https://t.co/hSNKS7xMwM",512,10,84,2021-11-19
+400,2021-11-20 22:55:43+00:00,1462192964697010185,GMX_IO,"AUM in $GLP surpassed $100M today 🫐
+
+Currently farming 112% APR including 45% in ETH 💰
+
+👉 You can buy GLP at https://t.co/2FszO3HYXY",120,7,23,2021-11-20
+401,2021-11-21 20:33:37+00:00,1462519590089633796,GMX_IO,"New UI looking good.
+
+Might leak some alpha later on..",169,9,15,2021-11-21
+406,2021-11-22 00:48:52+00:00,1462583828078374913,GMX_IO,"Sneak-peak of the Dashboard revamp. 🫐
+
+Did you spot the $GLP logo ? It was needed for a listing on @coingecko 😉 https://t.co/eZ2XKUgpi3",180,26,39,2021-11-22
+412,2021-11-24 13:35:17+00:00,1463501479172399108,GMX_IO,"$FRAX from @fraxfinance will be added to the $GLP index this week 🔹
+
+You will be able to use $FRAX as collateral for long and short positions on GMX as well as swap from $FRAX to $ETH, $BTC and more tokens with zero price impact https://t.co/xuzSF5ny0w",179,10,36,2021-11-24
+416,2021-11-26 14:21:08+00:00,1464237790288171008,GMX_IO,"Upcoming plans for GMX 🫐
+
+https://t.co/cIocImCOE5",215,23,50,2021-11-26
+417,2021-11-29 12:28:15+00:00,1465296548934283272,GMX_IO,"@AllanJunLi @WalletConnect Should be adding it this week, sorry about that",4,0,0,2021-11-29
+423,2021-11-30 15:51:29+00:00,1465710081387814920,GMX_IO,"The long awaited GMX Blueberry Club collection will be released  December 5th 🔥🫐
+
+Good luck y’all ! https://t.co/KWbLxl29CZ",52,2,8,2021-11-30
+424,2021-12-01 13:38:28+00:00,1466038994676830210,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$1,238,475.96 collected for the past 7 days
+
+$1,002,226.96 (ARB), $148,668.96 (BSC), $87,580.04 (GMX-ETH)
+
+For $GMX, $GLP: https://t.co/HnDqM21g57 
+For $USDG: https://t.co/a4E6u6cUEa https://t.co/VWnZ5zfoN7",67,2,17,2021-12-01
+427,2021-12-03 03:09:07+00:00,1466605387608592385,GMX_IO,"We're excited for @ascendprotocol to be the first DAO to officially hold treasury tokens in $GLP, thank you for the support and welcome onboard! https://t.co/9IZlX9dJJV",81,7,19,2021-12-03
+430,2021-12-04 19:52:44+00:00,1467220345270980608,GMX_IO,"Numbers don't lie. 🫐
+
+$GMX #GMX https://t.co/Y2lyL6lnb6",129,5,33,2021-12-04
+431,2021-12-05 04:31:55+00:00,1467351003544502273,GMX_IO,"GMX in the wild 
+
+Full story: https://t.co/HcsAtaaE9L https://t.co/BAI93pkvBO",137,4,25,2021-12-05
+432,2021-12-06 03:24:21+00:00,1467696386204307456,GMX_IO,@c0inalchemist @Pilssoup @PremiaFinance sure! will dm 🤝,10,1,0,2021-12-06
+436,2021-12-07 22:07:09+00:00,1468341337489616896,GMX_IO,🫐 https://t.co/MJu1RQ2OfZ,73,4,9,2021-12-07
+439,2021-12-08 12:39:59+00:00,1468560992770482176,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$1,412,010.13 collected for the past 7 days
+
+$1,225,801.74 (ARB), $144,482.23 (BSC), $41,726.16 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM21g57 https://t.co/RqVpdWIhw9",89,4,21,2021-12-08
+440,2021-12-12 17:51:54+00:00,1470089040384901130,GMX_IO,"Shorts are waking up 👀
+
+What do you think of the market right now? 📈 or 📉 https://t.co/oNQol3lXhl",55,9,3,2021-12-12
+441,2021-12-13 12:49:39+00:00,1470375364849389570,GMX_IO,@RealEpeat from here: https://t.co/sAxZea4dci,1,1,0,2021-12-13
+443,2021-12-14 02:30:19+00:00,1470581890109386759,GMX_IO,"Revenue going up, P/E going down.
+
+Probably nothing? https://t.co/GlLQmtjIhY",84,3,12,2021-12-14
+445,2021-12-15 12:09:53+00:00,1471090130924421120,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$680,178.23 collected for the past 7 days
+
+$638,755.06 (ARB), $51,004.57 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM21g57 https://t.co/80EGxKD6CU",36,3,4,2021-12-15
+449,2021-12-16 15:30:59+00:00,1471503129019441155,GMX_IO,"Excited to be a part of the #OlympusPro program!
+
+Around $8000 worth of GMX will be sold through the program per day
+
+If the bonds are trading above market price it means the quota for the day has been sold and you could wait some time for the discount to return https://t.co/kSCGrCNywc",117,2,26,2021-12-16
+450,2021-12-18 17:52:25+00:00,1472263496607969286,GMX_IO,"Get up to $1M of coverage on your $GLP deposits for only 3.14% per year with @InsurAce_io 
+
+Thanks for listing us. 🛡 https://t.co/85ehFrvW4K",65,4,10,2021-12-18
+451,2021-12-20 10:56:38+00:00,1472883635426512899,GMX_IO,"@torgacrypto It is likely that you do not have enough ETH on Arbitrum, please ensure that your account has at least 0.01 ETH",1,0,0,2021-12-20
+453,2021-12-22 00:51:49+00:00,1473456206555590661,GMX_IO,"Over 10 million dollars in fees have been collected and distributed to $GMX and $GLP holders!
+
+We could not have done this without our loyal community and traders. WAGMI.
+
+Thank you. 🥳🥂 https://t.co/t9jK93UdGZ",178,10,56,2021-12-22
+457,2021-12-24 12:47:38+00:00,1474361123923062790,GMX_IO,"Grateful for all the help and support this year, it has been an amazing year, looking forward to the next one
+
+Happy holidays 🎄",124,7,9,2021-12-24
+458,2021-12-27 09:57:55+00:00,1475405575504678919,GMX_IO,More than 7000 users used #GMX 🔥,169,10,20,2021-12-27
+463,2021-12-29 09:03:02+00:00,1476116537945714688,GMX_IO,"You can now purchase ETH directly on @arbitrum using @BanxaOfficial
+
+Banxa is running a promotion with GMX for a limited time, there will be no other fees except credit card processing fees
+
+https://t.co/2v0f6dnTZb",101,5,25,2021-12-29
+465,2021-12-30 14:12:25+00:00,1476556787151261699,GMX_IO,Did you know that you can place limit orders on your trades and swaps on #GMX? https://t.co/AyOCjXK8Mq,108,4,14,2021-12-30
+466,2022-01-02 21:00:13+00:00,1477746574809866241,GMX_IO,"@tztokchad @dopex_io gm(x) sir, looking forward to the launch https://t.co/oWTw1H3NvQ",131,3,12,2022-01-02
+467,2022-01-04 22:21:38+00:00,1478491840890429446,GMX_IO,"You can now track your $GMX and $GLP portfolios with https://t.co/VT66bWylRz 
+
+@zapper_fi Thank you for the integration! 🤝",291,21,33,2022-01-04
+470,2022-01-05 12:37:24+00:00,1478707200780500993,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$1,019,980.79 collected for the past 7 days
+
+$932,273.45 (ARB), $87,707.34 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM21g57 https://t.co/0botakGyFH",90,4,15,2022-01-05
+471,2022-01-06 12:02:11+00:00,1479060728002879489,GMX_IO,"GMX is now live on @avalancheavax! 🔺
+
+https://t.co/5VKflDwxxq",645,37,165,2022-01-06
+475,2022-01-07 11:47:54+00:00,1479419518258606082,GMX_IO,$GMX bonds for Umami 👀 https://t.co/xCcS8bJGBS,65,2,7,2022-01-07
+477,2022-01-08 18:51:13+00:00,1479888440485466115,GMX_IO,We are excited to be part of such a great ecosystem! $GMX $GLP https://t.co/ScxG9z8axF,74,2,9,2022-01-08
+479,2022-01-09 15:20:09+00:00,1480197712150683649,GMX_IO,"@fuckyourputs @arbitrum Funds are safe. Prices will update when the sequencer comes back online. Hopefully, soon.",7,4,1,2022-01-09
+481,2022-01-10 20:23:54+00:00,1480636539726180355,GMX_IO,"Total fees collected for our token holders just crossed 2 million dollars this week. 
+
+Probably Nothing. 😆
+
+$GMX $GLP",191,10,39,2022-01-10
+482,2022-01-11 18:29:16+00:00,1480970078451609605,GMX_IO,Congratulations!! 🥳 https://t.co/7Cvc93nkZc,111,4,10,2022-01-11
+483,2022-01-12 12:01:36+00:00,1481234907695554564,GMX_IO,"A new community project GMX Terminal by @vipineth is now live! 
+
+Explore GMX stats, traders and more
+https://t.co/tT1bGnqeBu https://t.co/pIn2jZchBN",72,1,7,2022-01-12
+486,2022-01-13 02:53:17+00:00,1481459307195604993,GMX_IO,@cryptolyfe00 @0xWolff Chainlink feeds would be required. :),1,0,0,2022-01-13
+487,2022-01-14 03:04:07+00:00,1481824420968775681,GMX_IO,"Thank you for taking the time to write such an informative thread!🙏🏻 
+
+$GMX https://t.co/OqoCqEmEKq",66,0,5,2022-01-14
+488,2022-01-15 20:13:16+00:00,1482445801523716099,GMX_IO,"We are beyond excited to have our token listed with such a great platform!🥳
+
+Deposits open Tomorrow, 6pm UTC. Deposits close after 72h.
+
+$GMX $DPX https://t.co/K4AwJ7d04f",196,3,26,2022-01-15
+489,2022-01-16 18:56:14+00:00,1482788805635678212,GMX_IO,"We’re proud to partner with the leading options strategy manager, JonesDAO, to bring DeFi2.0 to Arbitrum! https://t.co/6QtNtNzuNs",83,5,8,2022-01-16
+490,2022-01-17 23:44:22+00:00,1483223701583765504,GMX_IO,"It has been 10 days since the $GMX community was welcomed with open-arms into the $AVAX ecosystem... We just crossed 1 billion in volume!🤯🥳
+
+More details here: 
+https://t.co/z8S2XpmJkm
+
+Thank you to everyone who has supported us!!! https://t.co/jukKXtMTgI",230,9,46,2022-01-17
+491,2022-01-18 20:22:22+00:00,1483535255520882691,GMX_IO,"👀
+
+$GMX https://t.co/3vWe0sxKxX",98,2,14,2022-01-18
+492,2022-01-19 13:40:02+00:00,1483796393168760833,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$2,486,748.03 collected for the past 7 days
+
+$1,424,176.23 (ARB), $871,367.91 (AVAX), $191,203.89 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM21g57 https://t.co/TW6xvdAzTG",145,10,26,2022-01-19
+493,2022-01-20 14:20:44+00:00,1484169025123151880,GMX_IO,$GMX-$AVAX is now open for trading on @traderjoe_xyz 🔺 https://t.co/kQxSVrnKOW,507,28,105,2022-01-20
+495,2022-01-21 17:55:42+00:00,1484585509091528704,GMX_IO,"New farm just dropped! 👀
+
+$JOE $GMX $AVAX
+
+https://t.co/EYUWPRdbhN https://t.co/wy7GSQcoXl",88,5,15,2022-01-21
+497,2022-01-25 02:46:18+00:00,1485806201359187969,GMX_IO,"Only the beginning. 💪🫐
+
+#BlueberryGang https://t.co/o1hzRswKHR",91,5,9,2022-01-25
+501,2022-01-26 13:15:31+00:00,1486326937782210564,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$3,771,645.98 collected for the past 7 days
+
+$2,131,480.58 (ARB), $1,416,130.81 (AVAX), $224,034.59 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1Kd37 https://t.co/J07af31yDP",163,11,37,2022-01-26
+508,2022-01-28 12:35:51+00:00,1487041733502324736,GMX_IO,"@gringo_crypto @GBlueberryClub Hahaha, love it!",0,0,0,2022-01-28
+509,2022-01-29 01:48:01+00:00,1487241089325096960,GMX_IO,"GMX, the #BlueberryGang. 🫐 https://t.co/7qaAxuHMLe",205,12,26,2022-01-29
+510,2022-01-31 18:56:10+00:00,1488224605684838425,GMX_IO,"$200mn GLP AUM!
+😳😳😳😳😳😳
+
+We are so proud of this milestone, GMX  could never have done so much in 5 short months without our awesome, dedicated, and smart community!
+
+@avalancheavax
+@arbitrum
+@GBlueberryClub
+
+$GMX $GLP",217,7,42,2022-01-31
+512,2022-02-02 03:18:08+00:00,1488713317489258501,GMX_IO,"Impressive first epoch of Dopex GMX options:
+
+15,575.936 GMX Deposited
+
+Biggest Winner: $50 strike-price call writers collected premium at 564% APR/ 138.205 GMX
+
+$60 Strike price call writers  also printed about 318% APR
+
+$GMX $DPX",131,2,13,2022-02-02
+516,2022-02-03 01:02:42+00:00,1489041620796276738,GMX_IO,Proud to be buidling with the team from @VovoFinance. https://t.co/wIjtY01ei1,41,0,2,2022-02-03
+517,2022-02-05 00:11:21+00:00,1489753476003291138,GMX_IO,"Excited to join the coordination game with @Keeper_DAO to capture arbitrage profits for liquidity providers and GMX holders on @arbitrum and @avalancheavax 🤝
+
+All OEV will be treated as fees and distributed to holders https://t.co/GQZgwqo7wa",122,3,24,2022-02-05
+519,2022-02-07 17:24:23+00:00,1490738223957483521,GMX_IO,👀 https://t.co/BgRk7OfNRB,69,4,3,2022-02-07
+521,2022-02-08 03:47:39+00:00,1490895073680117760,GMX_IO,"@zxcvbnm27511761 Sorry can't DM you here, hope you were able to solve the problem. If not please join us on telegram (https://t.co/JMObAsLXjD) one of our mods will be happy to assist.",0,0,0,2022-02-08
+522,2022-02-09 03:26:33+00:00,1491252150579916800,GMX_IO,"GMX and GLP yield for #Avalanche added to https://t.co/Q0euw4EnVb
+
+Thanks to @vfat0!",44,1,3,2022-02-09
+525,2022-02-10 16:11:03+00:00,1491806933258489857,GMX_IO,"Come check out the new night mode on our https://t.co/EoC0VXzeWa page. No more eye pain. 
+
+😎
+
+$GMX $GLP",98,9,6,2022-02-10
+526,2022-02-11 23:51:25+00:00,1492285175061159938,GMX_IO,"@bigdsenpai Removing it completely should be possible as well, but with small spreads in times of volatility instead
+
+Our apologies again for this, we are adjusting it gradually to avoid having to go backwards after making a change",26,0,0,2022-02-11
+531,2022-02-12 00:01:52+00:00,1492287802654208000,GMX_IO,"@bigdsenpai We will try to make the improvements as fast as we can, our only consideration is safety which makes things slower out of caution
+
+6 hour change definitely coming next week though 🙂",35,0,1,2022-02-12
+532,2022-02-14 15:37:11+00:00,1493247959303323649,GMX_IO,"Total fees distributed to $GMX &amp; $GLP holders just surpassed 25 millions dollars today ! 💥
+
+Thanks to a steady daily volume of longs/shorts, new aggregators integrations and our loyal community! 🫐💙 https://t.co/dPuPRKbgy7",186,13,29,2022-02-14
+533,2022-02-15 04:22:46+00:00,1493440624405917696,GMX_IO,"If you are experiencing connection issues, please change the RPC URL in your wallet network settings: https://t.co/39IuJ4ovt0",20,2,2,2022-02-15
+534,2022-02-16 15:23:55+00:00,1493969395210919937,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$2,012,312.70 collected for the past 7 days
+
+$1,206,960.25 (ARB), $644,299.54 (AVAX), $161,052.91 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1Kd37 https://t.co/rh5xyrzAzP",85,3,13,2022-02-16
+538,2022-02-18 12:55:11+00:00,1494656744324481027,GMX_IO,"We will work on enabling trading on Arbitrum in the next 1-2 days, if you need to deposit collateral manually please send a dm to @xdev_10 on Telegram or Discord meanwhile, we are sorry for the inconvenience
+
+Just a reminder, no admin will dm you first",23,3,2,2022-02-18
+543,2022-02-19 15:37:18+00:00,1495059928070897670,GMX_IO,"Opening trades, increasing positions &amp; depositing extra collateral has been re-enabled on @arbitrum 
+
+Arbitrum limit orders remain reduce only &amp; there is a 0.5% fee for a direct deposit of adding extra collateral
+
+We will work on restoring full functionality in the coming week.",88,2,14,2022-02-19
+544,2022-02-21 15:21:53+00:00,1495780826016989191,GMX_IO,"Excited to announce our newest  @avalancheavax🔺 integration.
+
+@OpenOceanGlobal users gain access to GMXs $80m+ zero price impact liquidity, delivering the best rates on #AVAX, #ETH, #BTC &amp; #USDC direct to their wallets.
+
+Look forward to joining hands on @arbitrum soon as well 😉 https://t.co/RvNgx0jsP6",247,15,60,2022-02-21
+545,2022-02-22 16:47:36+00:00,1496164785393569792,GMX_IO,"Markets go 🔺 Markets go 🔻
+
+Traders keep trading, GMX and #GLP keeps earning.
+
+Congrats to our community, traders and partners on this achievement!
+
+@arbitrum @avalancheavax #DeFi https://t.co/K0SuAwaUjO",195,8,36,2022-02-22
+546,2022-02-23 04:18:35+00:00,1496338673477963778,GMX_IO,"Thank you for extending your support from @arbitrum to @avalancheavax as well.
+
+Your fiat-crypto onramps let new users fund and immediately start using GMX to securely trade from their #AVAX wallets.
+
+#DeFi https://t.co/E5MlIAoaSG",56,1,5,2022-02-23
+549,2022-02-25 15:29:43+00:00,1497232345568616454,GMX_IO,Yesterday we did a new volume ATH on #GMX at $786M that generated nearly 1 million in fees in 24 hours! 🚀 https://t.co/aMLrtkDMp0,200,9,34,2022-02-25
+552,2022-02-27 16:49:55+00:00,1497977304043171842,GMX_IO,"GMX Traders did $5 billion in volume in under 2 months directly from their @avalancheavax wallets
+
+When do you think we cross $10b? comment below
+
+https://t.co/k87Hqm0lsJ
+
+#DeFi $GMX $GLP https://t.co/tyKS3vxBWw",377,55,102,2022-02-27
+553,2022-03-02 13:54:25+00:00,1499020304362139650,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$3,116,764.51 collected for the past 7 days
+
+$2,008,708.72 (ARB), $1,042,017.20 (AVAX), $66,038.59 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1Kd37 https://t.co/d4FGmO1DhB",140,13,31,2022-03-02
+554,2022-03-04 13:43:15+00:00,1499742270131941376,GMX_IO,"The team from @yieldyak_ delivers again 🥳
+
+GMX farm now available on Yield Yak
+https://t.co/IQ0cR5Ae2R https://t.co/qQ16xQW2lQ",54,4,13,2022-03-04
+556,2022-03-06 10:06:44+00:00,1500412556439339010,GMX_IO,"GMX Community AMA
+Monday, March 7 @ 1000 UTC
+
+Location: GMX Telegram (https://t.co/JMObAsuUhD)
+
+Special Guest Conor
+Community Manager at @Bybit_Official
+
+Win 1 of 10 prizes, $100 each. Follow @gmx_io on twitter and retweet this message with your AMA questions 
+
+$BYBIT $GMX $DEFI https://t.co/vB4Rcxv8cx",184,276,136,2022-03-06
+559,2022-03-07 13:27:20+00:00,1500825428021641223,GMX_IO,"$GMX deposits now open on Bybit!
+
+To all asking, the ""Gambit"" mention is intentional 😅
+
+Shoutout to GMX origins and shares the ""bit"" with Bybit https://t.co/DjiBTbBxJA",116,8,16,2022-03-07
+560,2022-03-08 10:11:16+00:00,1501138473969160195,GMX_IO,"$GMX has now started trading on @Bybit_Official 
+
+$150,000 of staking and trading rewards available to be earned
+
+Spot Trading Pair: https://t.co/3e02yClX1A
+
+Join Bybit: https://t.co/i2CDGeWgNu
+
+$DeFi @arbitrum @avalancheavax https://t.co/QSJVjz8NF7",153,23,32,2022-03-08
+561,2022-03-09 13:37:12+00:00,1501552684066816002,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$2,739,092.97 collected for the past 7 days
+
+$2,181,383.87 (ARB), $525,648.29 (AVAX), $32,060.81 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1JFdz https://t.co/FTJIJkia2o",196,4,88,2022-03-09
+562,2022-03-14 12:52:42+00:00,1503353427195473922,GMX_IO,"New and improved GMX dashboard now live!
+
+https://t.co/eVGMcXyTLP https://t.co/fzX5B7LTbT",220,14,43,2022-03-14
+566,2022-03-16 13:11:15+00:00,1504082871753052161,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$1,574,749.88 collected for the past 7 days
+
+$1,060,151.47 (ARB), $491,566.54 (AVAX), $23,031.87 (GMX-ETH) https://t.co/RuNFPMzAFK",124,9,49,2022-03-16
+567,2022-03-23 14:27:53+00:00,1506638870405914626,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$1,952,555.45 collected for the past 7 days
+
+$1,385,932.31 (ARB), $523,866.59 (AVAX), $42,756.55 (GMX-ETH) https://t.co/M8Cbuot6Eg",114,5,17,2022-03-23
+568,2022-03-24 08:55:08+00:00,1506917519088574466,GMX_IO,"DeFi is democratizing and and therefore $GMX is coming on Instagram ! 💫
+
+Follow us by clicking here
+https://t.co/HjpAx6aDey https://t.co/xckOwbkwc6",91,1,13,2022-03-24
+569,2022-03-25 06:27:32+00:00,1507242761191317504,GMX_IO,"@vestafinance thank you for the privilege of having us as the first @arbitrum native collateral on your platform. 
+
+Adding usage as collateral in addition to governance and staking yield for GMX holders. 🫐
+
+#DeFi https://t.co/IYYWNQnmJv",23,3,1,2022-03-25
+572,2022-03-28 19:33:59+00:00,1508527843478847488,GMX_IO,"Excited to be hosting Cindy, the co-founder of @OpenOceanGlobal for a twitter spaces (voice) discussion on DeFi, swapping and more.
+
+Tuesday, March 29 @ 10:00am UTC 
+
+https://t.co/5b57kXa1w5
+
+We look forward to community questions
+
+@arbitrum @avalancheavax $GMX #DeFi https://t.co/n0L8ntEqEi",68,4,21,2022-03-28
+573,2022-03-30 13:56:34+00:00,1509167704283959302,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$2,012,821.18 collected for the past 7 days
+
+$1,474,850.53 (ARB), $482,364.71 (AVAX), $55,605.94 (GMX-ETH) https://t.co/gfHiytbcNq",128,8,21,2022-03-30
+574,2022-03-31 20:45:35+00:00,1509633026870988805,GMX_IO,"@BangBangApe It is hard to dissect what is happening without seeing the tx, feel free to reach out in telegram or discord and we will investigate for you. Thank you.",1,0,1,2022-03-31
+575,2022-04-01 18:08:17+00:00,1509955826160742418,GMX_IO,TheardCeption? Thank you for collating all of this!🙏🏻 $GMX $GLP https://t.co/9fBZxG2Wfw,49,2,9,2022-04-01
+579,2022-04-05 13:41:36+00:00,1511338266016034827,GMX_IO,We are excited to see what new coverage options will become available for $GLP. https://t.co/GkH0Xpisgi,49,3,5,2022-04-05
+580,2022-04-06 15:22:51+00:00,1511726134291058689,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$2,837,407.79 collected for the past 7 days
+
+$1,882,364.25 (ARB), $819,772.21 (AVAX), $135,271.33 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1JFdz https://t.co/B8QxQOAoLK",93,3,15,2022-04-06
+581,2022-04-08 14:16:49+00:00,1512434292420329473,GMX_IO,https://t.co/IqorNy7M1L,717,184,238,2022-04-08
+582,2022-04-12 03:16:48+00:00,1513717743173844992,GMX_IO,"Excited to be a part of this!
+
+Get ready to vote to win exclusive NFTs
+
+The event will start on April 13th, 2pm EST https://t.co/aDtLZSTOt8",98,4,11,2022-04-12
+583,2022-04-13 17:45:51+00:00,1514298837044764678,GMX_IO,"Don't forget to tune into the @ProjectGalaxyHQ initiative at 2:00 PM EST for your chance to win a @ratwell0x NFT! 
+
+First Steps:
+
+1) Watch the Twitch Stream at: https://t.co/gMKm0czpZH
+2) Vote for $GMX 
+
+For more information, see here: https://t.co/BrcgwHtYki",41,3,5,2022-04-13
+585,2022-04-14 02:25:01+00:00,1514429487261306881,GMX_IO,@CryptoDingle @hashflownetwork 👀,1,1,0,2022-04-14
+590,2022-04-15 12:36:19+00:00,1514945717177135106,GMX_IO,"Thank you to all who participated! 50 random winners were selected and distributed 3 $GMX each. 
+
+https://t.co/iWCTVd2mpm https://t.co/mpLawn5XNi",65,29,5,2022-04-15
+591,2022-04-20 13:31:00+00:00,1516771415667712003,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$1,481,234.42 collected for the past 7 days
+
+$1,135,279.21 (ARB), $297,644.50 (AVAX), $48,310.71 (GMX-ETH) https://t.co/lVP80k89u5",70,3,8,2022-04-20
+592,2022-04-22 14:52:08+00:00,1517516609627488257,GMX_IO,"End of Week Updates
+
+Referral program has been voted in and the interface is mostly ready. Final testing ongoing &amp; if no major issues we launch next week. Watch for announcements
+
+Snapshot: https://t.co/BygwHN7Pfr
+
+Eleventh Edition of the Blueberry Pulse
+https://t.co/rbNXvnOe0L",62,3,14,2022-04-22
+593,2022-04-23 03:04:43+00:00,1517700968930213888,GMX_IO,"Thank you @DefiSafety for working with us to improve GMX's documentation, glad to have a decent score, will continue working on it https://t.co/5gmpBs1fPA",69,6,7,2022-04-23
+594,2022-04-27 12:38:21+00:00,1519294881021186048,GMX_IO,"The GMX referral program is live! Share to earn, click to save!
+
+To sign up go to: 
+
+https://t.co/j4f3NMnXOL
+
+For more detailed information see our gitbook:
+
+https://t.co/a5X3s1Zp5X",134,35,41,2022-04-27
+596,2022-05-03 20:06:04+00:00,1521581879803228160,GMX_IO,Yet another exciting integration into the $AVAX ecosystem! Thank you @paraswap🥳 https://t.co/b84sTqRTaM,115,4,24,2022-05-03
+597,2022-05-04 15:19:35+00:00,1521872173236957184,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$1,193,350.00 collected for the past 7 days
+
+$820,730.60 (ARB), $344,748.08 (AVAX), $27,871.32 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1JFdz https://t.co/sonPs0hy0d",81,6,15,2022-05-04
+598,2022-05-05 02:57:32+00:00,1522047818453594113,GMX_IO,"The @paraswap team keeps delivering, open source integrations are an awesome feature 🥳 https://t.co/OnkzRL5z94",91,7,15,2022-05-05
+600,2022-05-06 17:19:12+00:00,1522627049508282368,GMX_IO,"Deposits and withdrawals are currently Arbitrum only! 
+
+Looking forward! 🥳 https://t.co/XnLq8LO5J6",79,4,13,2022-05-06
+601,2022-05-09 12:19:11+00:00,1523638711094816769,GMX_IO,"Check out this community built Delta Neutral Strategy! Let us know yours and we will share!
+
+$GMX $GLP https://t.co/nZDMfm91F5",56,4,7,2022-05-09
+602,2022-05-11 12:40:53+00:00,1524368948174766082,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$2,695,106.42 collected for the past 7 days
+
+$1,833,127.03 (ARB), $809,852.39 (AVAX), $52,127.00 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1JFdz https://t.co/2dMHycIklP",81,1,18,2022-05-11
+603,2022-05-17 12:32:07+00:00,1526541071961948160,GMX_IO,"Fellow Blueberries, join us as we speak with our fellow Arbi builders over at @UmamiFinance. Join their Twitter space today 5/17 at 5:30PM EST
+
+$GMX https://t.co/bguqPE62SP",44,3,7,2022-05-17
+604,2022-05-18 13:19:21+00:00,1526915344098545664,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$2,862,316.73 collected for the past 7 days
+
+$1,931,425.93 (ARB), $850,963.06 (AVAX), $79,927.74 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1JFdz https://t.co/eq4Wp7snuh",124,2,22,2022-05-18
+605,2022-05-20 12:10:13+00:00,1527622720661381120,GMX_IO,Complete the Bridge Founder Side Quests and get a share of the rewards! https://t.co/UI0IhLqVrq,49,3,9,2022-05-20
+606,2022-05-25 13:01:13+00:00,1529447495545274368,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$1,200,793.95 collected for the past 7 days
+
+$877,425.89 (ARB), $306,245.80 (AVAX), $17,122.26 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1JFdz https://t.co/773B3DF7MJ",73,2,13,2022-05-25
+607,2022-05-27 18:54:45+00:00,1530261241276637186,GMX_IO,"Maybe $GMX IS a DeFi Lego? Does your project or community use $GLP to help automate their treasury management? Let us know!
+
+$GLP currently manages over $5mn in community treasuries.
+
+@GBlueberryClub @UmamiFinance @RVRSProtocol @DAOJonesOptions @ReimaginedFi @AscendProtocol https://t.co/O3NiT8QS1Q",164,13,48,2022-05-27
+608,2022-05-31 06:31:10+00:00,1531523664126300160,GMX_IO,"Excited to see Vovo's second  vault utilizing $GMX trading on $Arbitrum. 
+
+This time combining the yields from $GLP and GMX directional trades.
+
+#sustainableyield https://t.co/cO1lcps1b0",59,2,9,2022-05-31
+609,2022-06-01 13:16:31+00:00,1531988059784364034,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$1,967,698.32 collected for the past 7 days
+
+$1,413,630.45 (ARB), $539,435.12 (AVAX), $14,632.75 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1JFdz https://t.co/lIkhJ09w7J",77,5,16,2022-06-01
+611,2022-06-02 01:12:07+00:00,1532168149273317376,GMX_IO,@BowTiedPickle Addressed each point here: https://t.co/AHO6i64VhO,36,2,4,2022-06-02
+615,2022-06-08 13:20:06+00:00,1534525677529088002,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$1,319,864.68 collected for the past 7 days
+
+$461,654.58 (ARB), $840,894.12 (AVAX), $17,315.98 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1JFdz https://t.co/VbUbxUVeq9",77,4,12,2022-06-08
+616,2022-06-09 19:13:24+00:00,1534976976494243842,GMX_IO,"If you missed today's AMA with @GMX_IO @FigmentDevs and @arbitrum here is a recording!
+
+$GMX $GLP
+
+https://t.co/DQN7jDHnyY",36,1,10,2022-06-09
+617,2022-06-11 02:23:42+00:00,1535447652519022592,GMX_IO,"For anyone looking to hedge their $GLP position, a new page to help with this has been added to the staking simulator created by @s0berknight! https://t.co/JgTpMyeeGq",34,3,4,2022-06-11
+618,2022-06-15 12:43:18+00:00,1537053130877243392,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$2,045,470.44 collected for the past 7 days
+
+$1,517,706.31 (ARB), $506,009.43 (AVAX), $21,754.70 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1JFdz https://t.co/jsOVuKstYn",113,7,25,2022-06-15
+619,2022-06-19 04:38:39+00:00,1538380716593008640,GMX_IO,"Thank You @arbitrum we're excited to join you on the Arbitrum Odyssey. 🚀
+
+We look forward to an adventure that never ends.
+
+🖖🏼
+
+$Arbitrum $GBC @hashflow https://t.co/BwDLhn7MY7",131,4,18,2022-06-19
+620,2022-06-22 13:14:25+00:00,1539597679323389953,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$1,598,872.94 collected for the past 7 days
+
+$1,039,442.84 (ARB), $526,660.33 (AVAX), $32,769.77 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1JFdz https://t.co/lDOMM6dUmR",103,7,20,2022-06-22
+621,2022-06-27 13:10:23+00:00,1541408600760807424,GMX_IO,"Join us for the GMX Arbitrum Odyssey happening this week!
+
+https://t.co/xYwjZC5oSj https://t.co/FDvtXR7qdr",253,13,69,2022-06-27
+626,2022-06-28 21:57:55+00:00,1541903750092275713,GMX_IO,"Thank you for hosting us @IntrinsicDeFi and the @UmamiFinance team!
+
+The second #AMAzon Easter Egg was dropped in today's AMA: What LP Token model preceded GLP? Hint: It was a yield-bearing stablecoin on BSC. Reply below within the next hour!
+
+Tomorrow is @TracerDAO at 6PM UTC! https://t.co/lD0ckdKCNV",64,109,8,2022-06-28
+629,2022-06-29 15:10:25+00:00,1542163585111150592,GMX_IO,"1/2
+
+As the Arbitrum Team has stated, the Arbitrum Odyssey has been paused. 
+
+The GMX Odyssey will resume with the release of NITRO, a further scaling solution for the Arbitrum ecosystem. We would like to thank everyone who already participated. https://t.co/V6UZZO88vL",110,26,27,2022-06-29
+632,2022-06-30 08:10:27+00:00,1542420285155991552,GMX_IO,"The GMX Odyssey has been paused, please see the linked tweet for more information:
+
+https://t.co/Kg6m6g1WF0",10,0,0,2022-06-30
+633,2022-07-01 13:37:53+00:00,1542865073948860417,GMX_IO,"On 6 Jul 2022, updates will be applied to the GMX frontend to inform users via a pop up about the separation between https://t.co/ocfOX8szDO (purely informational website) and the app interface under https://t.co/U2cmowOLae
+
+More info: https://t.co/USA3rtDa2s",45,3,8,2022-07-01
+634,2022-07-06 14:11:32+00:00,1544685482906361862,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$1,127,011.99 collected for the past 7 days
+
+$721,743.61 (ARB), $392,029.38 (AVAX), $13,239.00 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1JFdz https://t.co/BAlMfXKWmf",97,6,17,2022-07-06
+635,2022-07-12 15:04:08+00:00,1546873046631333890,GMX_IO,.@paraswap now routes through @GMX_IO on @arbitrum 🤝 https://t.co/qdfzSFfPkr,210,18,41,2022-07-12
+636,2022-07-13 15:37:49+00:00,1547243911462387712,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$1,117,800.64 collected for the past 7 days
+
+$695,772.71 (ARB), $348,157.70 (AVAX), $73,870.23 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1Kd37 https://t.co/UuHe0mlCPT",67,4,8,2022-07-13
+637,2022-07-20 09:30:37+00:00,1549688216646811649,GMX_IO,"@veH0rny @Moremoneyfi Messed up the mention, pardon us. Had to correct that one!",1,1,0,2022-07-20
+640,2022-07-27 13:01:21+00:00,1552277963990786048,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$1,618,946.90 collected for the past 7 days
+
+$1,058,461.30 (ARB), $528,324.14 (AVAX), $32,161.46 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1JFdz https://t.co/dVrscASomL",90,2,11,2022-07-27
+642,2022-07-28 15:03:24+00:00,1552671067210227712,GMX_IO,"Join a Twitter space with @Moremoneyfi @yieldyak_  and  @coinflipcanada on behalf of GMX discussing our recent collaboration.
+
+https://t.co/B1vYbODqr4
+
+#Avalanche #youryield",33,3,3,2022-07-28
+643,2022-08-03 12:17:36+00:00,1554803669455065089,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$2,298,820.92 collected for the past 7 days
+
+$1,772,773.67 (ARB), $411,807.72 (AVAX), $114,239.53 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1JFdz https://t.co/7jCjVXobM5",215,16,45,2022-08-03
+644,2022-08-06 20:49:37+00:00,1556019686348886016,GMX_IO,"Are you interested in tracking the $GMX Open Interest on both AVAX and Arbitrum?
+
+Well, SniperMonke2 a GMX community member has a new Telegram bot to help you. 
+
+Come join! $GMX $GLP 🫐
+
+https://t.co/CxmeeKDEEc",82,10,11,2022-08-06
+645,2022-08-10 13:54:52+00:00,1557364863768354817,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$1,304,182.81 collected for the past 7 days
+
+$877,279.21 (ARB), $373,497.82 (AVAX), $53,405.78 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1JFdz",107,4,13,2022-08-10
+646,2022-08-12 14:10:05+00:00,1558093468148191234,GMX_IO,Click on the options button for any position to open the sharing options https://t.co/6Vju25PJln,29,2,1,2022-08-12
+648,2022-08-17 09:46:15+00:00,1559839012373815296,GMX_IO,"A new product using $GLP, the liquidity provider token of GMX, was launched:
+
+@PlutusDAO_io on #Arbitrum has developed 'Plutus Vaults': deposit your GLP to benefit from auto-compounding of ETH yields &amp; additional PLS yield.
+
+Thanks for the integration!
+
+Details below:
+
+#RealYield https://t.co/BpvyBP6dpv",88,4,15,2022-08-17
+651,2022-08-24 10:32:40+00:00,1562387407885873152,GMX_IO,"Have a burning question you want to ask..? Join our AMA at 2pm UTC today, in the @Bybit_Official Discord, with @0xFredChris ! https://t.co/syIW0D5oUg",72,2,12,2022-08-24
+653,2022-08-26 12:42:45+00:00,1563144918826029057,GMX_IO,"Update: the timing of the upgrade is planned for Wednesday, 31 Aug 2022, 2:30 PM",15,0,2,2022-08-26
+661,2022-08-28 16:12:26+00:00,1563922463720984576,GMX_IO,"Congratulations to @PlutusDAO_io  for launching their $plvGLP vault!
+
+Please check out their documentation https://t.co/U1zjbpoPzc to learn more.
+
+$PLS $GMX $GLP https://t.co/9XVmmm0Df5",89,4,17,2022-08-28
+662,2022-08-29 16:19:11+00:00,1564286550283788289,GMX_IO,"1/2
+🫐 @GMX_IO受邀@dopex_io、@DAOJonesOptions 和@PlutusDAO_io共同推出衍生品小白期权101课堂 🤓
+
+📢 此课堂将针对新手小白们教授简单的相关知识，对于以上项目有兴趣，却苦无学习、了解机会的朋友们，千万不要错过！",46,7,9,2022-08-29
+664,2022-08-30 17:23:46+00:00,1564665191714930689,GMX_IO,"PSA: The @arbitrum network will be upgraded to Nitro at 10:30 AM EST on 31/8/22. 
+
+Traders, please position yourselves accordingly as it is likely you will be unable to edit, close or adjust your position while the network is updating. $GMX $GLP https://t.co/p7hZABSjTx",127,12,32,2022-08-30
+666,2022-08-31 17:36:31+00:00,1565030788852236290,GMX_IO,"The Arbitrum network is back up after the Nitro upgrade. Trading and swaps can now be done as usual.
+
+Note that the https://t.co/GaEGMSkhIx explorer and alternative RPC providers like Alchemy are not back up yet. 
+
+$GMX $GLP",139,9,16,2022-08-31
+668,2022-09-02 12:10:55+00:00,1565673622651518977,GMX_IO,"For our supporters in China: Options &amp; Derivatives workshops, brought to you by @dopex_io &amp; GMX. 
+
+Learn more: https://t.co/DBeSaWvUvY",62,7,7,2022-09-02
+669,2022-09-07 01:45:27+00:00,1567328158931914752,GMX_IO,Link has been updated to https://t.co/yaTO6UxfRa,14,0,0,2022-09-07
+672,2022-09-14 00:58:17+00:00,1569853006207672320,GMX_IO,"Great to see another GMX integration on Arbitrum, as always DYOR and act responsibly!
+
+$GMX $GLP $VST https://t.co/I5kEwmcNAi",105,5,11,2022-09-14
+674,2022-09-15 10:20:10+00:00,1570356796937617409,GMX_IO,"Dear Blueberry Community, at 1 PM UTC today, GMX will host a  Twitter Space on the page of our close friends @TheBerryPodcast ! 🫐
+
+We'll reflect on 1 year on @Arbitrum with our partners, announce a contest with GMX prizes, launch our new merchandise, and more.. 
+
+Please join us!",126,10,24,2022-09-15
+675,2022-09-17 14:49:46+00:00,1571149416161243137,GMX_IO,"Thank you for covering GMX Protocol in your research report, Huobi! https://t.co/aEWkZUm2nJ",110,6,18,2022-09-17
+677,2022-09-18 10:01:45+00:00,1571439325413511169,GMX_IO,"We were notified of price manipulation of AVAX/USD on reference exchanges by monitoring systems and community members.
+
+While we review the occurrence, open-interest for AVAX has been capped at $2m long / $1m short.
+
+GLP and GMX trading markets continue to operate normally.",569,37,85,2022-09-18
+678,2022-09-21 13:03:25+00:00,1572572207884247040,GMX_IO,"Weekly Rewards Distribution 🔹
+
+$3,897,651.56 collected for the past 7 days
+
+$3,338,906.37 (ARB), $515,306.40 (AVAX), $43,438.79 (GMX-ETH)
+
+To buy and stake $GMX / $GLP: https://t.co/HnDqM1JFdz https://t.co/13EdL7ZDBY",166,3,37,2022-09-21
+679,2022-09-22 12:31:29+00:00,1572926555894198274,GMX_IO,"Thank you, kyzo! https://t.co/bGOeNguSva",40,3,5,2022-09-22
+680,2022-09-23 13:08:33+00:00,1573298274315952128,GMX_IO,"@DuneAnalytics @arbitrum @avalancheavax The best submissions to our Dune Dashboard Design Contest will be rewarded with sizable GMX prizes, plus a direct link to their Dashboard in the GMX App. A total of 300 GMX tokens in prize money is up for grabs.",29,1,2,2022-09-23

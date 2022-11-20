@@ -1,0 +1,2846 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-03 09:32:29+00:00,1213030359237058561,LiskHQ,"We are happy to announce that #Lisk is now available on @MidasProtocol, a crypto wallet allowing users to send, receive, and store tokens. More info here: https://t.co/MI0vFoCoz9 https://t.co/UP5RO9MMz8",127,5,33,2020-01-03
+1,2020-01-08 15:36:38+00:00,1214933941104336899,LiskHQ,"As we are already 8 days into 2020, we take a look back at last year. Here’s #Lisk’s 2019 Year in Review: https://t.co/lyaiGYyPpE 🤞Stay tuned for 2020! #2019yearinreview https://t.co/lvPJbVvXlN",75,6,20,2020-01-08
+2,2020-01-09 08:59:33+00:00,1215196399555481600,LiskHQ,"We are happy to announce that @coincheckjp will begin the world’s first #Lisk staking service (beta version). It is also going to be the first staking service in Japan.
+More information here: https://t.co/vWipMTxGZs https://t.co/PxVP0Kxnoa",175,6,52,2020-01-09
+5,2020-01-10 14:56:59+00:00,1215648738590515200,LiskHQ,"This March, #Lisk is back in #HongKong for @Token2049! 
+@MaxKordek, Lisk CEO and Co-founder, will be participating in a panel discussion. More info about the event can be found here: https://t.co/sClcmHYvkx https://t.co/FusAawcQYQ",103,3,25,2020-01-10
+6,2020-01-14 16:15:31+00:00,1217118053416214528,LiskHQ,"We've added 3 new objectives to the #Lisk Protocol roadmap.
+
+Network Economics:
+
+- Simplify transaction validity rules within blocks
+
+Network Longevity:
+
+- Introduce universal serialization method
+- Introduce an authenticated data structure
+
+Learn more at https://t.co/r6JWNo369f",97,7,29,2020-01-14
+7,2020-01-15 13:23:53+00:00,1217437246531559424,LiskHQ,"Today, we applied for speaking positions at the #WeAreDevelopers congress taking place in Berlin on May 28th. Wish us good luck!🤞 https://t.co/9Hy5Td3NtI",65,5,18,2020-01-15
+9,2020-01-17 13:02:45+00:00,1218156707165196289,LiskHQ,"We have just tagged #Lisk Core v2.1.4 which mitigates a recently discovered peer-to-peer security vulnerability. It is therefore recommended for all node operators to update their nodes immediately!
+
+https://t.co/4ez8y3AvmV https://t.co/WGZDPgnDA3",81,2,29,2020-01-17
+11,2020-01-20 09:38:16+00:00,1219192410531647488,LiskHQ,"Want to know more about the top 10 blockchain predictions for 2020 by Forbes? https://t.co/iTcZSwAxi4 
+
+4. Stablecoins
+5. Growth of DeFi
+7. Adoption lightning network
+8. Privacy tools and oracles
+9. More interoperability between chains
+
+#blockchain #defi #interoperability",74,2,13,2020-01-20
+15,2020-01-21 17:37:08+00:00,1219675308003074050,LiskHQ,"Some users experienced issues running our Lisk Core docker image on Ubuntu. We have investigated the cases and released a patch today.
+
+The new release Lisk Core v2.1.5 is non-mandatory unless you encounter issues with our previous Lisk Core docker image.
+
+https://t.co/RbqDggIRaD https://t.co/ufBcaA6NxM",62,1,14,2020-01-21
+18,2020-01-22 11:00:05+00:00,1219937774478004224,LiskHQ,"We are happy to announce that #Lisk is now available on
+@Magnum_Wallet, a crypto wallet allowing users to send, receive, and store tokens. More info here: https://t.co/o55PWhESRf https://t.co/gAHa1i0GdN",90,0,13,2020-01-22
+20,2020-01-24 14:41:58+00:00,1220718388747567106,LiskHQ,"Our backend developer @michiel_mulders takes a technical look at https://t.co/d0u2AD4yoL.
+
+The sharing economy proof of concept blockchain application was developed with the #Lisk SDK by @blockchain030 and @LiskCenter.
+
+https://t.co/z51tCILKRq",97,0,28,2020-01-24
+21,2020-01-28 14:19:35+00:00,1222162307335249920,LiskHQ,"Ever wondered where to buy $LSK? We have compiled a list of 12 major exchanges which overall score the best in reputation, liquidity and security.
+
+$LSK are required to use #Lisk's network functionalities. The blog post is for information purposes only.
+
+https://t.co/nqvPqrsBUp https://t.co/aL9R4OFWpt",96,4,34,2020-01-28
+22,2020-01-29 13:24:55+00:00,1222510937212694528,LiskHQ,"Today, Lisk is attending the blockchain ecosystem exchange sessions between Germany and the Netherlands together with @LiskCenter! A full day of blockchain and collaborations @factoryberlin🤞 https://t.co/3BLkZuFXik",103,2,27,2020-01-29
+24,2020-01-30 08:35:12+00:00,1222800416678776832,LiskHQ,"One of our community members (dav1) got his paper about ""A strategy for mitigating denial of service attacks on delegate nodes of Lisk blockchain"" approved for the second international conference of blockchain technology! Congratulations! 👏 #blockchain #decentralized https://t.co/SKHoGXoBG4",121,2,23,2020-01-30
+30,2020-02-03 08:52:22+00:00,1224254287313883136,LiskHQ,Learn more about what happened in the #Lisk ecosystem during the last week in @liskmagazine's weekly retrospect. https://t.co/QYxZy77UF9,69,3,22,2020-02-03
+32,2020-02-06 11:53:19+00:00,1225386987647098880,LiskHQ,Congratulations to @stellardynamic1 for being the #Lisk Community Hero of the month. Check out his profile here: https://t.co/v7YBc8HCAe https://t.co/PX1Q8dAvvD,84,3,23,2020-02-06
+35,2020-02-07 13:52:00+00:00,1225779243780628481,LiskHQ,Want to get a quick overview of Lisk's ecosystem? Check out @thepool_io's awesome-lisk repository: https://t.co/lMoS16JSAE #Lisk,60,1,12,2020-02-07
+37,2020-02-09 16:24:00+00:00,1226542271325073410,LiskHQ,"Apply for this month's #Lisk Builders program to receive a one-time grant up to 5000 CHF. This month's theme is focused around identity solutions. 
+
+Apply here: https://t.co/AYtbbyVQlt https://t.co/5FbMLrHYpp",89,1,25,2020-02-09
+38,2020-02-10 13:50:00+00:00,1226865904090275841,LiskHQ,"We are happy to see activity on Lisk's Dev forum by @korben32 who asked about the purpose of the undoAsset() function in custom transactions!🤞
+
+https://t.co/n2oBPSHZyq #Lisk #blockchain",80,3,19,2020-02-10
+40,2020-02-11 13:15:00+00:00,1227219484177506310,LiskHQ,"Today, we want to share the W3C draft for DID Method Registry. https://t.co/8kq3hBQFW0 
+
+Apply for this month's #Lisk Builders program to receive a one-time grant up to 5000 CHF. This month's theme is focused around identity solutions. 
+
+Apply here: https://t.co/AYtbbyEftV",63,2,17,2020-02-11
+42,2020-02-12 14:03:00+00:00,1227593951688953857,LiskHQ,"Gorka Irazoqui Apecechea explains #P2P bucketing, a concept also implemented in #Lisk's P2P library. 
+
+https://t.co/4BtPimKTxI",86,2,23,2020-02-12
+43,2020-02-13 15:05:00+00:00,1227971942306549763,LiskHQ,"Yesterday we tweeted about #P2P bucketing... Let's talk today about related eclipse attacks on #blockchain P2P networks. @iotex_io 
+
+https://t.co/OuM3gjZyjK",51,1,10,2020-02-13
+47,2020-02-14 10:22:00+00:00,1228263110378573826,LiskHQ,"Happy Valentine's Day to the whole #Lisk community!💘
+
+#ValentinesDay https://t.co/JYJ2gCzVNw",104,7,16,2020-02-14
+49,2020-02-17 13:06:00+00:00,1229391546136453120,LiskHQ,"What are mesh networks and why are they making a comeback? #Lisk #P2P #blockchain @beincrypto 
+
+https://t.co/A2WoBOrT3c",50,3,14,2020-02-17
+50,2020-02-18 12:56:09+00:00,1229751456846241792,LiskHQ,"- Define schema and use generic serialization for blocks.
+
+This proposal defines how the generic serialization algorithm will be applied to blocks and specify the appropriate JSON schema.
+
+https://t.co/F4YqEf9SA7",25,1,5,2020-02-18
+56,2020-02-19 13:00:04+00:00,1230114831224705024,LiskHQ,"Our #Lisk researchers just proposed two LIPs on the Lisk research forum for our recently introduced roadmap objective:
+
+""Introduce an authenticated data structure""
+
+https://t.co/jywblG8VPN
+
+All two proposed LIPs are explained and linked below. https://t.co/p3avwsJ8m8",63,1,16,2020-02-19
+61,2020-02-20 14:52:26+00:00,1230505494625865728,LiskHQ,"We have just added a comprehensive overview of changes between the #Lisk SDK 2.x and our latest Lisk SDK 3.0.2. 
+
+If you want to update your proof of concept blockchain application this is the ideal reference to use.
+
+https://t.co/ck11SRemc2",87,1,25,2020-02-20
+62,2020-02-21 10:28:40+00:00,1230801504782733312,LiskHQ,"This Saturday, #Lisk will have a challenge track - ""A Lisk in Chains"" at the Birthday Hackathon in Berlin. In order to support the challenge, @monabaer will host a workshop introducing the #SDK to a community of developers. RSVP here: https://t.co/cZuXQn5Pxp",72,2,21,2020-02-21
+63,2020-02-24 16:18:10+00:00,1231976624012300288,LiskHQ,"With our new https://t.co/KjIL44B9Tw website launched end of October 2019, we also updated the underlying system for the #Lisk documentation.
+
+Learn more about how we migrated to AsciiDoc and Antora in our latest blog post from @monabaer.
+
+https://t.co/Qwmfc9Q76w",82,2,25,2020-02-24
+66,2020-02-25 15:27:53+00:00,1232326358325440515,LiskHQ,"Read about our latest research piece comparing static vs dynamic fee systems and why #Lisk chose for a dynamic pricing system written by @michiel_mulders. #blockchain
+
+https://t.co/YaSIHnvxqA",77,2,24,2020-02-25
+67,2020-02-26 09:54:47+00:00,1232604915756945410,LiskHQ,"Binance will support $LSK staking from the 27th February onwards. Simply head to the staking page and search for #Lisk. 
+
+https://t.co/kIteBkN0Je
+
+Read all details in their announcement below. https://t.co/uxksX3ycoq",189,8,57,2020-02-26
+68,2020-03-02 14:45:52+00:00,1234490109099200513,LiskHQ,We just published our Events Overview on the #Lisk blog. Read all about the meetups and conferences we'll be attending in the first half of 2020: https://t.co/32gjztVw8n,79,2,30,2020-03-02
+69,2020-03-04 15:16:41+00:00,1235222641105088514,LiskHQ,We are happy to announce that @JesusTheHun wins this month’s identity track of the #Lisk Builders Program. He will receive a grant worth of CHF 2500 in #LSK tokens. His concept Featchain is a verifiable single source of truth for people’s achievements🤞 https://t.co/sxha8oOMYa,76,4,10,2020-03-04
+70,2020-03-05 15:30:29+00:00,1235588501871169539,LiskHQ,"We would like to announce the #Lisk Community Hero of the month. Many thanks to John_Muck @HighlightsLisk for the continuous efforts as community moderator and contributor.
+
+Check out his profile here: https://t.co/v7YBc8HCAe https://t.co/iaWnBFSzmY",59,6,15,2020-03-05
+71,2020-03-08 12:53:00+00:00,1236636031824228357,LiskHQ,"Happy International Women's Day to all the women in the #Lisk community 🌸
+
+#HappyInternationalWomensDay https://t.co/lBAIIVb0Zy",60,2,12,2020-03-08
+72,2020-03-09 10:23:00+00:00,1236960671100698624,LiskHQ,"@LiskCenter Utrecht hosts a full-day event on March 21st in the Netherlands. The first #BlockchainJS will feature talks about Lisk SDK and hands-on workshops. @MaxKordek, #Lisk's CEO and Co-founder, will also be in attendance. 
+
+Register on https://t.co/d4CVG2AUbc https://t.co/I3k7PT6gAw",21,0,5,2020-03-09
+73,2020-03-10 11:54:19+00:00,1237346040099082240,LiskHQ,"Next to our official #Lisk Builders program the Lisk community group GDT has launched another program to incentivize developers to build proof of concept blockchain applications with the Lisk SDK.
+
+#letsbuidl https://t.co/Ayt62uHYE9",73,1,19,2020-03-10
+75,2020-03-12 12:45:25+00:00,1238083678019956736,LiskHQ,"This month's #Lisk Financial Update is here. It discloses the Lisk Foundation's total assets and all expenditures of February 2020.
+
+https://t.co/VfnKL1YDT9",69,0,21,2020-03-12
+76,2020-03-19 17:20:52+00:00,1240689708641837056,LiskHQ,"All LIPs for the #Lisk protocol roadmap objectives `Introduce universal serialization method` and `Introduce an authenticated data structure` were just merged in on GitHub.
+
+Specifically:
+
+- LIP0027
+- LIP0028
+- LIP0029
+- LIP0030
+- LIP0031
+- LIP0032
+
+https://t.co/627kkBlXU6 https://t.co/2CnHvc7Jni",67,1,22,2020-03-19
+84,2020-03-27 11:18:57+00:00,1243497734881120258,LiskHQ,"Our #Lisk backend developer @nazarhussain just proposed a LIP on the Lisk research forum to follow a consistent versioning system for existing, updated and new transaction types in Lisk Core and Lisk SDK.
+
+https://t.co/3pvrRhFvDL",68,1,17,2020-03-27
+85,2020-03-30 16:09:02+00:00,1244657900913598465,LiskHQ,@AlenaSatoshi We have forwarded this issue to our Website Lead and will investigate it. Thanks for reporting!,0,0,0,2020-03-30
+87,2020-04-02 09:49:35+00:00,1245649571880943616,LiskHQ,"We have just added a Network page to the #Lisk website. This page showcases the Lisk Network attributes. 
+Check it out here: https://t.co/1sJefwAdwd https://t.co/HAlzzc91QC",54,0,16,2020-04-02
+89,2020-04-03 08:49:03+00:00,1245996724520390657,LiskHQ,"We keep our #Lisk community of developers and enthusiasts, as well as our business partners, close to our heart.
+
+Therefore, we added a Contact page to https://t.co/KjIL44B9Tw.
+
+In case our resources or community can't help you out, please get in contact.
+
+https://t.co/AMVH0CCoV0 https://t.co/NJt3z34uLG",57,0,12,2020-04-03
+91,2020-04-06 10:47:58+00:00,1247113814937657345,LiskHQ,"We are glad to announce that @delegateendro and @michiel_mulders are the first participants of #Lisk Builders program for March. They will receive a grant of CHF 2500 in #LSK tokens. 
+
+Their project intends to provide a generic API for enabling decentralized gaming with Lisk SDK. https://t.co/ggWGNsj8z2",84,2,24,2020-04-06
+95,2020-04-07 09:59:20+00:00,1247463962762973184,LiskHQ,"Today is #WorldHealthDay and we at @LiskHQ would like to express our gratitude to every health worker on the frontlines.
+
+#Lisk team works fully remote since the 4th of March and, so far, everyone is safe and sound. We are looking forward to being back in the office soon. https://t.co/t2FLEv7OQO",81,3,15,2020-04-07
+96,2020-04-08 14:13:37+00:00,1247890343522996226,LiskHQ,"Our #Lisk researchers just proposed two LIPs on the Lisk research forum for the protocol roadmap objective:
+
+""Introduce decentralized re-genesis""
+
+https://t.co/jywblFRkrd
+
+Both proposed LIPs are explained and linked below. https://t.co/TttcNywdfC",51,1,12,2020-04-08
+99,2020-04-09 13:31:28+00:00,1248242125210345473,LiskHQ,"We just published the monthly #Lisk Financial Update. This report discloses the Lisk Foundation's total assets and all expenditures of March 2020.
+
+Check out the blog post to find more about it.
+
+https://t.co/Sgz4lKN22d https://t.co/0lNysJPe7K",58,1,14,2020-04-09
+100,2020-04-10 09:22:00+00:00,1248541731596845056,LiskHQ,"#Lisk team would like to wish you and all your loved ones a Happy Easter.
+
+Enjoy your Easter holiday and stay safe! 
+
+#HappyEaster https://t.co/iILqG7kZZI",80,2,10,2020-04-10
+101,2020-04-14 13:11:30+00:00,1250049039028101120,LiskHQ,"In CCID's latest public blockchain technology assessment #Lisk ranks on the fourth place amongst 37 other projects.
+
+https://t.co/0cP0kdwVsB https://t.co/3YORiORaWr",62,3,14,2020-04-14
+102,2020-04-15 13:56:31+00:00,1250422756719509511,LiskHQ,"We have just published the blog post introducing the #Lisk Builders program and the application process for getting a one-time 2500 CHF grant for your proof of concept.
+
+Want to learn more about the #LiskBuilders program? Check out the blog post.
+
+https://t.co/hwB78TCmAx https://t.co/4nWYxSEx3t",61,0,17,2020-04-15
+103,2020-04-16 10:42:00+00:00,1250736192510922753,LiskHQ,"Today, @LiskCenter Utrecht hosts the first online #LiskBuilders community meetup. 
+
+Want to learn more about the @MoracleNetwork and get to know the #Lisk community? Join the event here: https://t.co/OUrZQDUzY2. https://t.co/AAiDRXDCIg",53,1,9,2020-04-16
+104,2020-04-17 13:43:47+00:00,1251144326924517378,LiskHQ,"We have just published a blog post showcasing an overview of recent improvements on the #Lisk website. The post highlights new pages for our Bug Bounty program, a Network page and some updates.
+
+Want to know more about it? Check out the blog post.
+
+https://t.co/vLCWg1txKW https://t.co/yfUM41JIQG",65,3,18,2020-04-17
+105,2020-04-20 10:53:41+00:00,1252188682565693440,LiskHQ,"Tomorrow, April 21st, #Lisk 1.25.0 for Desktop will be released.
+
+We were forced to make changes to the local storage system used. Therefore, your saved bookmarks and setting configurations will be gone after the update. 
+
+Make sure to back them up before you perform the update. https://t.co/Fqbo5FAqhV",60,1,18,2020-04-20
+107,2020-04-21 09:47:51+00:00,1252534504046108679,LiskHQ,"We have just released #Lisk 1.25.0 for Desktop. It provides full support for the current Betanet 3.0 and introduces desktop notifications. 
+
+For all the changes, refer to GitHub:
+https://t.co/yr8T8bx2hT
+
+Make sure to back up your bookmarks and settings before the update. https://t.co/vtot4b0ZAo",78,3,21,2020-04-21
+109,2020-04-22 13:51:57+00:00,1252958321746853888,LiskHQ,"The #Lisk SDK 4.0.0 alpha testing has been concluded. Our next step is to prepare beta testing with a new iteration of our Betanet.
+
+Meanwhile we have started the development of the Lisk SDK 5.0.0 which implements the Network Longevity phase.
+
+https://t.co/rZFgt3BXjT https://t.co/ekzdtt34MO",133,5,40,2020-04-22
+111,2020-04-29 10:33:56+00:00,1255445205513392129,LiskHQ,"We just released #Lisk Core 2.1.6 which patches a bug in our P2P layer.
+
+For more details please see the following change log:
+
+https://t.co/E13kOW7WBk
+
+Thanks to our community member [GYM] for submitting the bug through our Bug Bounty program! https://t.co/X4zJXa3mp1",96,2,30,2020-04-29
+112,2020-04-30 12:51:49+00:00,1255842293430566912,LiskHQ,"We have just published our first blog post of the new monthly #Lisk Achievements series. 
+
+This post summarizes the top news, updates, and achievements of Lisk in April 2020. 
+
+Want to find out more about it? Check it out on the blog.
+
+https://t.co/VN558nLDfU https://t.co/oT2qnNynlr",80,2,19,2020-04-30
+113,2020-05-04 12:40:36+00:00,1257289020691922946,LiskHQ,"We are glad to announce that @MoostyTeam is the first participant of the #Lisk Builders program for April. They will receive a grant worth of CHF 2,500 in #LSK tokens.
+
+Their project aims to create a blockchain application that supports recurring payments between two parties. https://t.co/Q7W5hHtQeP",63,3,19,2020-05-04
+116,2020-05-07 16:08:45+00:00,1258428567953838082,LiskHQ,"A new informational LIP 'Introduce numbering scheme for transaction types' was just merged on GitHub.
+
+The LIP proposes a consistent versioning system for #Lisk transaction types which may also be used for custom transaction development with the Lisk SDK.
+
+https://t.co/JnynCVoOqK https://t.co/OPEbxQAtUu",65,1,14,2020-05-07
+118,2020-05-08 15:13:53+00:00,1258777148917272576,LiskHQ,https://t.co/n2Q3w47D8r,18,0,2,2020-05-08
+120,2020-05-11 13:22:11+00:00,1259836200145358848,LiskHQ,"We would like to announce the #Lisk Community Hero of the month. 
+
+Our appreciation goes to @JesusTheHun for his continuous support and involvement in the Lisk community. 
+
+Want to find out more about him? Check out his profile on the Lisk website.
+
+https://t.co/v7YBc8HCAe https://t.co/RVbqsxSQ5j",47,0,20,2020-05-11
+121,2020-05-12 12:59:25+00:00,1260192857010450433,LiskHQ,"The requirement gathering for #Lisk SDK 5.0.0 is concluded. All foreseeable issues have been created and are now being implemented.
+
+Lisk SDK 5.0.0 implements the Network Longevity phase of our protocol roadmap and features several DevExp improvements.
+
+https://t.co/rZFgt3BXjT https://t.co/njrzx4GTZD",73,0,32,2020-05-12
+122,2020-05-13 10:45:19+00:00,1260521498235883527,LiskHQ,"We are happy to support @moonstake as a Technical Advisor and bring value to the global staking community.
+
+Want to read more about it? Check out their press release.
+
+https://t.co/9YJCJbNJk9 https://t.co/nS47vQUCDB",56,0,13,2020-05-13
+124,2020-05-14 12:41:05+00:00,1260913019028111367,LiskHQ,"We just published the monthly #Lisk Financial Update. This report discloses the Lisk Foundation's total assets and all expenditures of April 2020.
+
+Check out the blog post to find out more about it.
+
+https://t.co/G3iMJE4LoI https://t.co/wS7g0Xu7JE",75,0,19,2020-05-14
+125,2020-05-15 10:21:42+00:00,1261240332383027201,LiskHQ,"Today, May 15th, at 4pm CEST we will host a live AMA on https://t.co/zcFgPgcpqU.
+
+Jan Hackfeld and Iker Alustiza will answer your questions about the completed research up to Blockchain Interoperability. 
+
+Join the live AMA on https://t.co/zcFgPgcpqU! https://t.co/eoFxe9Jbnw",62,1,25,2020-05-15
+126,2020-05-18 09:19:33+00:00,1262311854409428993,LiskHQ,Lisk is one of the most actively developed blockchain projects on GitHub again. 🎉 https://t.co/f5iaKxMWHc,111,0,22,2020-05-18
+128,2020-05-19 09:02:56+00:00,1262670059702554624,LiskHQ,"There are only a few days left until the monthly application deadline for the #Lisk Builders program. 
+
+Do you feel inspired and want to build your own proof of concept? Apply for our #LiskBuilders program to receive the funding. 
+
+Find more details here: https://t.co/AYtbbyEftV https://t.co/e6TGc2rbwF",68,0,22,2020-05-19
+130,2020-05-20 13:10:43+00:00,1263094803744555008,LiskHQ,"We have just released #Lisk 1.26.0 for Desktop. 
+
+This version introduces a new graphical overview for transaction statistics, a completely new category to inspect the network and a re-vamped news feed.
+
+Download the new version here: https://t.co/52kUgp59Pn https://t.co/aAeqTR27Yd",94,0,28,2020-05-20
+131,2020-05-24 10:35:13+00:00,1264505222325551104,LiskHQ,"Today we are celebrating the 4 Year Anniversary of #Lisk’s Mainnet. 
+
+We would like to thank our community for the ongoing commitment and support.
+
+Here’s to many more! https://t.co/bE0HHyekBT",212,14,54,2020-05-24
+132,2020-05-25 14:51:14+00:00,1264932041717698560,LiskHQ,"On Sunday, May 24th, we celebrated the 4 year anniversary of #Lisk’s Mainnet. We have summarized some of the most important milestones reached in the past years in a blog post. 
+
+Want to know more about these achievements? Check out the blog post: 
+
+https://t.co/zvje8ydnEf https://t.co/ckc4JFdKJO",82,2,27,2020-05-25
+133,2020-05-26 10:13:19+00:00,1265224490012811265,LiskHQ,"According to @crypto_miso, #Lisk ranked 1st on a 12-month interval based on the GitHub activity. 
+
+We are proud to see Lisk on top of the list: https://t.co/SLQbzRwGIV https://t.co/6Huyfc96gX",108,0,30,2020-05-26
+134,2020-05-27 12:00:56+00:00,1265613957370466313,LiskHQ,"We have just published the monthly #Lisk Achievements blog post.
+
+Check out the top news, updates, and achievements of Lisk in May 2020.
+
+https://t.co/TPGn3TFp8h https://t.co/MkO5uoR5ir",79,1,25,2020-05-27
+135,2020-05-28 10:38:31+00:00,1265955605497417729,LiskHQ,"We are happy to announce that the #Lisk Center Tokyo moved to @BINARYSTAR_Co, a blockchain dedicated co-working space and business hub. 
+
+With the former Elite Center being closed, we searched for a reliable alternative and found it in BINARYSTAR. 
+
+https://t.co/hA5za97G5Q https://t.co/X9imGFRrrF",98,2,29,2020-05-28
+136,2020-06-03 10:22:29+00:00,1268125900316557312,LiskHQ,"We are happy to announce that $LSK has been added to @Piixpayteam, a simple conversion service allowing you to exchange cryptocurrencies to Euro and send them directly to your bank account.
+
+More info here: https://t.co/XC0NEZkGyg
+PS: Always exercise caution when using exchanges. https://t.co/6UlxMFyUcS",113,3,36,2020-06-03
+139,2020-06-04 13:31:17+00:00,1268535798200176640,LiskHQ,"We have just updated the way of applying for the #Lisk Builders program. 
+
+You can now easily submit your application using the dedicated contact form on the Lisk website: https://t.co/66FD02H1XB.
+
+Read more about the Lisk Builders program here: https://t.co/AYtbbyEftV. https://t.co/3HRpHcrncy",69,0,14,2020-06-04
+140,2020-06-05 07:28:02+00:00,1268806774053888001,LiskHQ,"The 2nd epic of #Lisk SDK 5.0.0 was closed. The entire ID system (addresses/blocks/txs) was updated.
+
+Account initializations will not be required and collisions will be near impossible.
+
+This epic consisted of 8 issues, learn more about them on GitHub:
+
+https://t.co/th6RP0ruRV https://t.co/kyOfhT7Lhy",137,4,43,2020-06-05
+143,2020-06-08 14:56:58+00:00,1270006915905531904,LiskHQ,"The user interface for the #Lisk documentation just got improved. 
+
+We are happy to receive your feedback. In this way, we can ensure the best user experience when working with the Lisk SDK and the documentation.
+
+Check it out here: https://t.co/HUOHpU0y2a https://t.co/lYmu85K5JA",88,2,30,2020-06-08
+144,2020-06-09 15:17:43+00:00,1270374522701611009,LiskHQ,"We have just published @korben3’s blog post about the Decentralized Organization Chain project as part of his participation in the #Lisk Builders program. 
+
+His project represents a blockchain application allowing startups to receive funding.
+
+https://t.co/to6bKUmx0l https://t.co/Q49IVna3GA",80,0,21,2020-06-09
+145,2020-06-10 09:57:09+00:00,1270656236971851776,LiskHQ,"We just published the monthly #Lisk Financial Update. This report discloses the Lisk Foundation's total assets and all expenditures of May 2020.
+
+Check out the blog post to find out more about it.
+
+https://t.co/8bD28tVCCO https://t.co/pa2d9DPBN2",81,4,23,2020-06-10
+146,2020-06-17 14:11:13+00:00,1273256890705862656,LiskHQ,"We have just published a blog post about the main improvements related to multisignature accounts introduced in the Network Economics phase. 
+
+https://t.co/TlXgak2E9G
+
+Tomorrow, @MaximeGagnebin will host a live AMA on https://t.co/zcFgPgcpqU at 5pm CEST to answer your questions. https://t.co/4Y652zov6e",69,1,20,2020-06-17
+147,2020-06-18 08:26:48+00:00,1273532603698679814,LiskHQ,"We updated the welcome post on our subreddit https://t.co/0gtYVRocK3. The newcomers will find general information about #Lisk and the relevant resources to get onboarded.
+
+Make sure to check it out: https://t.co/TO4aIe0ba6 https://t.co/zG96JPdcC8",72,1,20,2020-06-18
+150,2020-06-22 14:09:39+00:00,1275068437878849541,LiskHQ,"The 4th epic of #Lisk SDK 5.0.0 was closed. A banning mechanism to prevent unproductive delegates from forging. That completes our Lisk DPoS 2.0 consensus algorithm.
+
+This epic consisted of 3 issues, learn more about them on GitHub:
+
+https://t.co/LWdLkm6mhj https://t.co/zxe6wssK2c",101,1,25,2020-06-22
+152,2020-06-23 07:44:18+00:00,1275333849384435714,LiskHQ,"The 5th epic of #Lisk SDK 5.0.0 was closed. Lisk-codec, a generic serialization library to encode and decode data for communication and storage.
+
+The epic consisted of 42 issues, learn more about them on GitHub:
+
+https://t.co/07jhBXeyxK https://t.co/vjSoMYvxjy",83,1,17,2020-06-23
+155,2020-06-24 06:49:11+00:00,1275682363108925440,LiskHQ,"The 6th epic of #Lisk SDK 5.0.0 was closed. Undo steps for transactions are not needed anymore, they were required in case of a blockchain rollback to properly reverse all actions applied.
+
+The epic consisted of 9 issues, learn more about them on GitHub:
+
+https://t.co/mz7KuIZ7Hc https://t.co/s6TdqqIVo9",66,1,13,2020-06-24
+158,2020-06-25 12:56:45+00:00,1276137252406603777,LiskHQ,"We have just published the monthly #Lisk Achievements blog post. 
+
+Check out the top news, updates, and achievements of Lisk in June 2020.
+
+https://t.co/LkJUW4AfiD https://t.co/yZijITuF3e",83,3,22,2020-06-25
+159,2020-06-30 07:55:16+00:00,1277873324094377985,LiskHQ,"The 7th epic of #Lisk SDK 5.0.0 was closed. A newly defined genesis block schema was implemented to allow the specification of an initial state of accounts and delegates.
+
+The epic consisted of 10 issues, learn more about them on GitHub:
+
+https://t.co/lBVvr1NnQf https://t.co/OrjwPpmq5c",79,1,21,2020-06-30
+160,2020-07-01 07:55:55+00:00,1278235872459096069,LiskHQ,"On May 11th we have closed the 1st and yesterday the 7th epic of #Lisk SDK 5.0.0. With that we have reached half time!
+
+There are seven epics outstanding before we focus on the quality assurance of this release.
+
+Get an overview on GitHub:
+
+https://t.co/jJ7klCytxR",77,1,14,2020-07-01
+162,2020-07-02 12:53:12+00:00,1278673075316363265,LiskHQ,"We have just published @michiel_mulders and @endro_crypto’s blog post about the Arcado Network as part of their participation in the #Lisk Builders program.
+
+The Arcado project represents a decentralized reward system for multiplayer games. 
+
+Check it out: https://t.co/996uC3laL1 https://t.co/mGLBOzlkVD",71,0,22,2020-07-02
+164,2020-07-03 12:14:48+00:00,1279025798385721345,LiskHQ,"The 8th epic of #Lisk SDK 5.0.0 was closed. A new Lisk Elements library called lisk-tree was implemented which defines a generic Merkle tree structure and a format for proof-of-inclusions.
+
+The epic consisted of 10 issues, learn more about them on GitHub:
+
+https://t.co/orchX4Q0RH https://t.co/FXwhmb61Nk",61,1,17,2020-07-03
+166,2020-07-05 13:52:58+00:00,1279775280085811200,LiskHQ,"The 9th epic of #Lisk SDK 5.0.0 was closed. Lisk Framework now supports IPC communication. Amongst others this allows modules to communicate with other modules.
+
+The epic consisted of 8 issues, learn more about them on GitHub:
+
+https://t.co/9ObNf4ah72 https://t.co/R2zUBbwNfl",88,0,22,2020-07-05
+167,2020-07-07 08:39:43+00:00,1280421222816321536,LiskHQ,"We are happy to announce that #Lisk is the most actively developed cryptocurrency project according to https://t.co/Gtxb0Sk31S during all time periods.
+
+An excellent achievement, congratulations to our development team! 🎉
+
+View our progress on GitHub: https://t.co/zvfqpyKl3j https://t.co/YqBCM5sz7D",153,10,44,2020-07-07
+168,2020-07-09 13:08:41+00:00,1281213687613796353,LiskHQ,"We have just published the monthly #Lisk Financial Update. 
+
+This report discloses Lisk Foundation's total assets and all expenditures of June 2020.
+
+Read the blog post to find out more about it.
+
+https://t.co/EJyJyvBt0T https://t.co/2zrUpdqi5k",68,1,17,2020-07-09
+169,2020-07-10 07:48:48+00:00,1281495575758807041,LiskHQ,"We are happy to announce that Sebastian from @AntarcticLabs is the first participant of the #Lisk Builders program for June. He will receive a grant worth of CHF 2,500 in #LSK tokens.
+
+His project aims to provide a highly scalable food traceability network. https://t.co/mcO9JuiZ7b",82,2,21,2020-07-10
+171,2020-07-13 09:26:38+00:00,1282607357328084993,LiskHQ,"On July 28th at 12PM CEST, #Lisk will attend online the Proof of Stake Blockchain Expo organized by @chaintalktv and @teamz_inc.
+
+Iker Alustiza, Research Scientist, is going to talk about Lisk’s Delegated Proof of Stake algorithm. 
+
+Get your pass here: https://t.co/KbCW7Qh75W https://t.co/SaAWEc4VLc",85,1,28,2020-07-13
+172,2020-07-15 08:47:57+00:00,1283322399467941889,LiskHQ,"With help from our community, the What is Lisk webpage was translated in Japanese. The page showcases the most relevant information about #Lisk. 
+
+Check it out: https://t.co/ksF7KUqqOT
+
+Many thanks to our community members: @uzamaru_crypto @ys_mdmg @Ebiphrite2 @liskholder https://t.co/W2cJMEQnLL",89,1,26,2020-07-15
+174,2020-07-16 16:13:29+00:00,1283796910592196608,LiskHQ,"The 10th epic of #Lisk SDK 5.0.0 was closed. The HTTP API module was simplified and separated from Lisk Framework.
+
+The epic consisted of 9 issues, learn more about them on GitHub:
+
+https://t.co/jEAoVo7I4e https://t.co/3kJ57Ht4Wn",91,2,30,2020-07-16
+175,2020-07-20 09:07:53+00:00,1285139353459724288,LiskHQ,"#Lisk is a founding member of @INATBA_org, with our Legal Counsel Marcin Zarakowski being the Co-Chair of the Privacy Working Group. 
+
+We encourage projects to take part in the survey to help creating an overview of how decentalized technologies align with privacy regulations. https://t.co/CYoSfUfzJT",70,0,17,2020-07-20
+177,2020-07-23 13:01:56+00:00,1286285417512415239,LiskHQ,"We have just published a blog post showcasing the main improvements related to the new ID system introduced in the #Lisk platform. 
+
+https://t.co/eZqM4eIK27
+
+Tomorrow, at 4 pm CEST, Iker Alustiza will host a live AMA on https://t.co/zcFgPgcpqU to answer your questions. https://t.co/6TSy78hRP0",79,2,28,2020-07-23
+179,2020-07-24 08:09:09+00:00,1286574127021797377,LiskHQ,"Today, July 24th, at 4 pm CEST, we will host a live AMA on https://t.co/zcFgPgcpqU.
+
+Iker Alustiza will answer your questions about the main improvements related to the new #Lisk ID system. 
+
+Join the AMA on https://t.co/zcFgPgcpqU https://t.co/leQ2V8Dskr",56,0,20,2020-07-24
+180,2020-07-27 12:53:49+00:00,1287732927795691520,LiskHQ,"The 11th epic of #Lisk SDK 5.0.0 was closed. We developed a new concept called Lisk Framework plugins. Our first plugin provides and notifies forgers with more detailed information.
+
+The epic consisted of 13 issues, learn more about them on GitHub:
+
+https://t.co/4y3bcXSNCK https://t.co/E3oRDWl91q",82,1,24,2020-07-27
+182,2020-07-28 08:40:38+00:00,1288031601503469568,LiskHQ,"#Lisk attended the online Proof of Stake Blockchain Expo organized by @chaintalktv. 
+
+Listen now to Iker's presentation about Lisk's Delegated Proof of Stake algorithm.
+
+https://t.co/38sdjYVQGY https://t.co/3kJy7cBOPI",60,0,21,2020-07-28
+183,2020-07-29 13:58:13+00:00,1288473911106113537,LiskHQ,"We have just published the monthly #Lisk Achievements blog post. 
+
+Check out the top news, updates, and achievements of Lisk in July 2020. 
+
+https://t.co/VafjKIvwwV https://t.co/anu7SGomGE",82,0,27,2020-07-29
+184,2020-08-04 15:07:01+00:00,1290665550893522950,LiskHQ,"We just published a blog post about #blockchain in real estate. It illustrates how blockchain can solve challenges in the real estate industry and discusses the benefits #blockchain offers to individuals and enterprises. 
+
+Check it out on the #Lisk blog: https://t.co/tw32uWH7x6 https://t.co/T03bidrH0r",95,1,40,2020-08-04
+185,2020-08-05 14:52:23+00:00,1291024258307629059,LiskHQ,"We have just published @MoostyTeam's blog post about the Recurring Payments project as part of their participation in the #Lisk Builders program.
+
+Their project represents a blockchain application that supports recurring payments between two parties.
+
+https://t.co/MTTybcjqwA https://t.co/XaN39KjxkS",56,0,23,2020-08-05
+187,2020-08-06 09:00:34+00:00,1291298105632096256,LiskHQ,"We have identified an improvement which we decided to add to the on-going development of the #Lisk SDK 5.0.0.
+
+The improvement leads to a further modularization of our code base and therefore more flexibility for the developer.
+
+More information below.",82,1,20,2020-08-06
+193,2020-08-07 10:11:11+00:00,1291678264377974784,LiskHQ,"We would like to announce the #Lisk Community Hero of the month. Our gratitude goes to @minionsdelegate for his continuous dedication to support our community. 
+
+Want to find out more about him? Check out his profile: https://t.co/v7YBc8HCAe https://t.co/99aLuAuIRr",69,1,17,2020-08-07
+195,2020-08-10 12:17:53+00:00,1292797314193645568,LiskHQ,"We are happy to announce that @aldhosutra is the participant of the #Lisk Builders program for July. He will receive a grant worth of CHF 2,500 in #LSK tokens. 
+
+His project ""Collabolancer"" aims to provide a decentralized freelancer marketplace that incentivizes collaboration. https://t.co/4NUYT7L84w",86,5,22,2020-08-10
+196,2020-08-13 12:56:35+00:00,1293894218541408256,LiskHQ,"We have just published the monthly #Lisk Financial Update.
+
+This report discloses Lisk Foundation’s total assets and all expenditures of July 2020. 
+
+Read the blog post to find out more about it.
+
+https://t.co/nrvltUBRXF https://t.co/nV25IE8Yw8",110,4,32,2020-08-13
+197,2020-08-14 07:29:10+00:00,1294174210349101056,LiskHQ,"There was an issue with the auto-update functionality on Windows operating systems. We have identified the issue and re-built the release. It should now work perfectly again.
+
+If you continue to experience issues, please head to https://t.co/zcFgPfUO2k and let us know.
+
+#lisk https://t.co/wZqytCgR7e",49,1,21,2020-08-14
+200,2020-08-19 13:34:08+00:00,1296077996038729730,LiskHQ,"We have just published a blog post to introduce #Lisk codec and the improvements it will bring to the Lisk SDK developer experience.
+
+https://t.co/U9CxicrYbL
+
+This Friday, at 4 pm CEST, @MaximeGagnebin will host a live AMA on https://t.co/zcFgPgcpqU to answer your questions. https://t.co/HmSCadt0c8",85,3,28,2020-08-19
+201,2020-08-20 13:56:04+00:00,1296445901125423105,LiskHQ,"Four more blockchain applications built by community members were added on our Apps page. Make sure to check them out: https://t.co/ZnvEW1N6B8.
+
+If you want to build your own proof of concept blockchain application, apply for the #LiskBuilders program.
+
+https://t.co/AYtbbyEftV https://t.co/ko7u63YmYW",79,1,29,2020-08-20
+202,2020-08-21 08:10:42+00:00,1296721374262841344,LiskHQ,"Today, August 21st, at 4pm CEST we will host a live AMA on https://t.co/zcFgPgcpqU.
+
+Research Scientist @MaximeGagnebin will answer your questions about Lisk codec and the improvements it will bring to the #Lisk SDK developer experience.
+
+Join the AMA on https://t.co/zcFgPgcpqU. https://t.co/QHcTn3obj0",63,1,18,2020-08-21
+204,2020-08-24 08:19:35+00:00,1297810774006665217,LiskHQ,"There are only a few days left until the monthly application deadline for the #Lisk Builders program.
+
+If you want to build your own proof of concept, check out the updated #LiskBuilders program page and apply for the funding. 
+
+https://t.co/AYtbbyEftV https://t.co/TRfb9x67Td",64,0,19,2020-08-24
+206,2020-08-26 07:20:56+00:00,1298520792314118144,LiskHQ,"We have just published the monthly #Lisk Achievements blog post. 
+
+Check out the top news, updates, and achievements of Lisk in August 2020. 
+
+https://t.co/VnnZe4q1Ad https://t.co/stPsIXHlbA",91,1,30,2020-08-26
+207,2020-08-28 09:42:06+00:00,1299281091157778432,LiskHQ,"In about 30 days the Lisk block rewards are being reduced from 2 LSK per block to 1 LSK per block. In other words the inflation rate of LSK tokens is being halved. 
+
+That's the final block rewards reduction on the Lisk blockchain. Afterwards it stays at 1 LSK per block forever. https://t.co/9ucpvOoHHD",144,3,49,2020-08-28
+209,2020-08-31 11:25:19+00:00,1300394232881000449,LiskHQ,"We just published a blog post about #blockchain in financial services. It illustrates how blockchain technology can solve challenges in the financial industry and discusses the benefits it offers to enterprises.
+
+Check it out on the #Lisk blog: 
+
+https://t.co/IgaBFRj981 https://t.co/9iIfbwkO7X",88,3,37,2020-08-31
+210,2020-09-03 14:17:11+00:00,1301524646525906945,LiskHQ,"We would like to announce the #Lisk Community Hero of the month. 
+
+Our gratitude goes to @liskjapan for their contributions to the Lisk ecosystem by supporting the Japanese community.
+
+Want to find out more about them? Check out their profile.
+
+https://t.co/v7YBc8HCAe https://t.co/hZCaPJtwfY",89,1,28,2020-09-03
+211,2020-09-09 16:06:27+00:00,1303726470171447296,LiskHQ,"Germany's biggest Bitcoin and blockchain online magazine @btcecho published a report about #Lisk's journey of the past years.
+
+Read it via Google Translate in English here:
+
+https://t.co/hwZiDlb0EK https://t.co/5VmV8fANbi",80,0,36,2020-09-09
+212,2020-09-10 13:30:18+00:00,1304049562089328645,LiskHQ,"We have just published the monthly #Lisk Financial Update.
+
+This report discloses Lisk Foundation's total assets and all expenditures of August 2020.
+
+Read the blog post to find out more about it. 
+
+https://t.co/TjB81udnSM https://t.co/msDhtCq32t",89,2,28,2020-09-10
+213,2020-09-12 09:24:00+00:00,1304712353901027328,LiskHQ,"Happy International #ProgrammersDay! 
+
+#Lisk would like to give a shout out to all the blockchain programmers out there. 
+
+Happy coding! https://t.co/GiWFNNsSvJ",92,1,22,2020-09-12
+214,2020-09-15 13:54:10+00:00,1305867509808144393,LiskHQ,"We have just published @MoostyTeam's blog post about the Lisk Crowd project as part of their participation in the #Lisk Builders program.
+
+Their project represents a proof of concept for a regulated crowdfunding system.
+
+Check out their blog post: https://t.co/BkZ8QGerep https://t.co/SzA3eAkwR1",65,1,21,2020-09-15
+216,2020-09-16 12:25:54+00:00,1306207681703751681,LiskHQ,"After careful consideration, and in light of the ongoing COVID-19 developments, we decided to postpone Lisk.js 2020 to Spring 2021. 
+
+Details about the exact days will be shared in the upcoming weeks on the event webpage on the #Lisk website.
+
+https://t.co/9jCNh5S6VD https://t.co/1aSMQ7TRRb",51,5,15,2020-09-16
+219,2020-09-17 09:17:33+00:00,1306522672105426946,LiskHQ,"We are happy to announce that Kasra is the second participant of the #Lisk Builders program for August. He will receive a grant worth of CHF 2,500 in #LSK tokens.
+
+His project aims to create a stablecoin with an algorithmic mechanism to manage supply and demand. https://t.co/pu7b07z99J",69,3,21,2020-09-17
+221,2020-09-18 09:21:45+00:00,1306886115660640256,LiskHQ,"We are excited to announce the release of Lisk Service. 
+
+This new product joining the #Lisk ecosystem offers the possibility to access and browse all blockchain data, by providing a completely new API.
+
+Read more about it in the blog post: https://t.co/pCjSYF9JHW https://t.co/rZKp6OcRlQ",128,9,39,2020-09-18
+222,2020-09-21 07:17:12+00:00,1307941934242164736,LiskHQ,"With the last feature epic closed, all #Lisk SDK 5.0.0 release goals were successfully implemented.
+
+Now Q&amp;A has started and development moves into alpha testing to fix bugs, add missing test cases, and refactor the code base.
+
+Get more information on:
+
+https://t.co/QIK7FFAKtC https://t.co/WxHzGBQPtS",97,2,37,2020-09-21
+225,2020-09-22 11:09:39+00:00,1308362821239963649,LiskHQ,"We have just published a blog post introducing #Lisk Tree, the new library that will handle Merkle trees in the Lisk protocol. 
+
+https://t.co/ofyXI22Msr
+
+This Thursday, at 4 pm CEST, Alessandro Ricottone will host a live AMA on https://t.co/zcFgPgcpqU to answer your questions. https://t.co/34YLzrtN98",75,4,29,2020-09-22
+227,2020-09-24 14:16:28+00:00,1309134611428118535,LiskHQ,"We are searching for a Community Manager to join our team in Berlin. 
+
+Looking forward to receiving your applications on https://t.co/3TNQDJuXWf https://t.co/0ADuQTZHnb",57,1,20,2020-09-24
+229,2020-09-25 12:32:05+00:00,1309470729923108865,LiskHQ,"The #LiskCenterBerlin is going to be a real thing. Follow the journey as we are excited to share sneak peeks of what we're building. 
+
+Whenever you need to catch some air while debugging, the LCB will have this beach close-by to help you forget some bugs.
+
+https://t.co/BXULGw7sZl https://t.co/ULklWOIFo3",152,6,37,2020-09-25
+230,2020-09-28 09:07:51+00:00,1310506495692484608,LiskHQ,"Today, September 28th, at 4pm CEST we will host a live AMA on https://t.co/zcFgPgcpqU. 
+
+@MichalTuleja will answer your questions about #Lisk Service, which acts as a service layer between blockchain data and user interfaces by providing accessible and powerful API calls. https://t.co/tH5UOU1lOp",58,2,27,2020-09-28
+232,2020-09-29 08:04:11+00:00,1310852863359414272,LiskHQ,"We are excited to announce that #Lisk partners with @WeAreDevs for their online event on October 8th. 
+
+@nazarhussain, featured speaker for the #blockchain track, will showcase an in-depth explanation of the new Lisk SDK architecture.
+
+Register here: https://t.co/XgOFJdk7sS https://t.co/d5WnjW7ie2",79,2,29,2020-09-29
+235,2020-09-30 13:41:54+00:00,1311300241128329216,LiskHQ,"We have just published the monthly #Lisk Achievements blog post. 
+
+Check out the top news, updates, and achievements of Lisk in September 2020. 
+
+https://t.co/UFnUykfw7e https://t.co/qqGa2S3gl2",64,3,19,2020-09-30
+236,2020-10-01 14:08:39+00:00,1311669359425789952,LiskHQ,"We would like to announce the #Lisk Community Hero of the month. 
+
+Our gratitude goes to @davilinfo for the technical support he is offering to the Lisk community. 
+
+Want to find out more about him? Check out his profile.
+
+https://t.co/v7YBc8HCAe https://t.co/PQqkvDaqvb",43,0,9,2020-10-01
+239,2020-10-02 07:18:29+00:00,1311928526455668736,LiskHQ,"We just published a blog post about #blockchain in health care. 
+
+It illustrates how blockchain technology can solve challenges in the health industry and discusses the benefits it offers to enterprises.
+
+Check it out on the #Lisk blog: 
+
+https://t.co/quZbLkqXL1 https://t.co/XJuL4PgyBs",58,0,20,2020-10-02
+241,2020-10-05 13:28:41+00:00,1313108851042983939,LiskHQ,"On October 8th, at 5pm CEST, @nazarhussain will hold a presentation at @WeAreDevs Live Week.
+
+He will introduce the #Lisk SDK and showcase how it is used to build a blockchain application in JavaScript.
+
+Register for the online event here: https://t.co/XgOFJdk7sS https://t.co/ziqA9dmh7k",97,0,31,2020-10-05
+242,2020-10-07 13:47:24+00:00,1313838338927976449,LiskHQ,"At #Lisk, we appreciate energy-efficient options in blockchain as well as in transportation. 
+
+Gladly, Berlin is becoming more and more bike-friendly, and so are we at #LiskCenterBerlin. 
+
+Have an exclusive look in our backyard with lots of space to park your bike. https://t.co/Z7RJsPcD8A",41,1,8,2020-10-07
+243,2020-10-08 11:21:22+00:00,1314163974531887107,LiskHQ,"Tune in today at 5pm CEST to listen to @nazarhussain showcasing an in-depth explanation of the new #Lisk SDK architecture.
+
+https://t.co/qI8AFzz4my https://t.co/q2QZ1StB7U",49,2,13,2020-10-08
+245,2020-10-09 08:52:48+00:00,1314488974581399554,LiskHQ,"We are happy to announce that @Jurre_Moosty is the first participant of the #Lisk Builders program for September 2020. He will receive a grant worth of CHF 2,500 in #LSK tokens.
+
+Jurre aims to develop an honest ticketing system, including a ticket marketplace. https://t.co/vIEd1XJSFI",70,1,25,2020-10-09
+248,2020-10-12 12:46:32+00:00,1315634960015949824,LiskHQ,"We are happy to announce that @notnotjmx is the second participant of the #Lisk Builders program for September. He will receive a grant worth of CHF 2,500 in #LSK tokens.
+
+He aims to create a platform that connects drivers with free seats with passengers looking for a ride. https://t.co/hIZzXF0sZ8",66,0,17,2020-10-12
+249,2020-10-13 08:48:44+00:00,1315937503531200513,LiskHQ,"We have just published Sebastian's blog post about the Fit Project as part of his participation in the #Lisk Builders program. 
+
+His project represents a proof of concept for a highly scalable food traceability network. 
+
+Check out his blog post: https://t.co/OVn9JPFfmv https://t.co/VTchunhHkm",56,0,15,2020-10-13
+251,2020-10-14 12:56:54+00:00,1316362343194951682,LiskHQ,"More and more furniture is arriving, slowly turning the formerly empty space into the new home for #Lisk community in #Berlin.
+
+We can’t wait to show you more of it. Have a first sneak peek into the #LiskCenterBerlin from our backyard 🏡👀
+
+https://t.co/gzJb2zAIid https://t.co/ZlDMJWjzzQ",34,1,5,2020-10-14
+252,2020-10-15 10:37:12+00:00,1316689574211579904,LiskHQ,"The updated #Lisk development schedule provides an overview of the upcoming Lisk SDK and Lisk Core versions and how they correlate to each other.
+
+More information about the individual roadmap phases can be found on:
+
+https://t.co/r6JWNo369f https://t.co/fC0uYo8VOg https://t.co/cGBRPQrh4i",62,1,13,2020-10-15
+258,2020-10-16 13:36:06+00:00,1317096985187569666,LiskHQ,"Although the Lisk #SDK 5.0.0 is still in the external security audit phase, we are already ahead at the #LiskCenterBerlin and implemented the first custom (furniture) modules.
+
+Register here to join the online event for the opening of Lisk Center Berlin:
+
+https://t.co/gzJb2zAIid https://t.co/4eWrV9gsW7",42,3,5,2020-10-16
+259,2020-10-20 08:30:09+00:00,1318469540804689920,LiskHQ,"Earlier this month, at @WeAreDevs Like Week, @nazarhussain presented an in-depth explanation of the new #Lisk SDK architecture and showcased how it is used to build a blockchain application in JavaScript. 
+
+Check out his talk here: 
+
+https://t.co/NkmM35btfr https://t.co/u3t2exQZ05",72,0,26,2020-10-20
+261,2020-10-21 08:17:09+00:00,1318828659759697921,LiskHQ,"There are only a few days left until the monthly application deadline for the #Lisk Builders program.
+
+Do you have a great idea and want to build your own proof of concept? Apply for the #LiskBuilders program to receive the funding.
+
+Find more details: https://t.co/AYtbbyVQlt https://t.co/3gzpILfM9f",62,0,19,2020-10-21
+263,2020-10-22 10:06:07+00:00,1319218467149615104,LiskHQ,"There are only 29 days left until the #LiskCenterBerlin opening event.
+
+Want to learn more about the Lisk Center Berlin and get updates about the Research and Development progress?
+
+On November 20th, at 6pm CEST, join our online event.
+
+Register here: https://t.co/gzJb2zAIid https://t.co/9ZvcilQ4EF",63,1,12,2020-10-22
+264,2020-10-23 08:13:26+00:00,1319552500089880576,LiskHQ,"Today, October 23rd, at 4pm CEST we will host a live AMA on https://t.co/zcFgPgcpqU. 
+
+Jan Hackfeld will answer your questions about the new genesis block format, part of #Lisk SDK 5.0, and the approach for the Lisk Mainnet migration. https://t.co/WYLudEolmk",58,0,14,2020-10-23
+266,2020-10-26 16:41:30+00:00,1320767521125969920,LiskHQ,"We are excited to share with you the great news. 
+
+We are not only celebrating the @lightcurveHQ anniversary, but also the new office in the heart of Berlin.
+
+Make sure to check out the blog post. https://t.co/s9OcW2qL5Z",65,4,15,2020-10-26
+267,2020-10-27 09:36:26+00:00,1321022938544508928,LiskHQ,"This month, Far East Blockchain, together with @fiscoapp interviewed @MonicaTartau, #Lisk’s Marketing &amp; Events Lead.
+
+The interview covers aspects of the Lisk community, #LiskCenterBerlin, and more.
+
+You can read the entire interview (in Japanese) here: https://t.co/asfK8yWL88 https://t.co/80PdahUzYC",56,2,16,2020-10-27
+269,2020-10-28 10:13:46+00:00,1321394719230971904,LiskHQ,"We have just published the monthly #Lisk Achievements blog post. 
+
+Check out the top news, updates, and achievements of Lisk in October 2020. 
+
+https://t.co/LQ6TdwKMUo https://t.co/QVxCwgOo6f",58,1,14,2020-10-28
+270,2020-10-29 15:19:26+00:00,1321834033752530946,LiskHQ,"Board games are always a good idea after a long working day.
+
+#LiskCenterBerlin does not only offer you a coworking area but also space to play and relax. https://t.co/dj6d7ozN4A",41,1,3,2020-10-29
+271,2020-10-30 10:25:52+00:00,1322122543386558464,LiskHQ,"More and more items are arriving at #LiskCenterBerlin.
+
+Today we received a new device for you to play with when visiting #LCB.
+
+Let's see who will be the first one to guess what it is 🤔 https://t.co/we41J6ISPA",46,5,6,2020-10-30
+272,2020-10-31 10:00:00+00:00,1322478421251825664,LiskHQ,"Happy Halloween to all #Lisk community members 🎃 
+
+Lisk wishes you a spooky night and lots of treats. https://t.co/RrvhEB4lZz",76,3,13,2020-10-31
+273,2020-11-02 10:23:23+00:00,1323209080174006274,LiskHQ,"We just published a blog post about #blockchain in the public sector.
+
+It explains how blockchain technology can solve challenges in public services and discusses the benefits it offers to governments.
+
+Check it out on the #Lisk blog:
+
+https://t.co/5CrxRyU006 https://t.co/xf6DtfwjPC",78,2,28,2020-11-02
+274,2020-11-03 14:31:01+00:00,1323633789487194118,LiskHQ,What makes you the most excited about the #LiskCenterBerlin?,24,7,7,2020-11-03
+275,2020-11-04 11:10:43+00:00,1323945767065788418,LiskHQ,"Guests of the #LiskCenterBerlin will not only have a chance to attend various events but also host them on the stage. 
+
+We are creating a place where blockchain enthusiasts and developers within the industry can meet and network.
+
+https://t.co/BXULGw7sZl https://t.co/bo2phYLgm1",43,3,7,2020-11-04
+277,2020-11-05 10:12:48+00:00,1324293582451335169,LiskHQ,"We would like to announce the #Lisk Community Hero of the month. 
+
+Our gratitude goes to @anonimowy891 for the support he is offering to the Lisk community.
+
+Want to find out more about him? Check out his profile.
+
+https://t.co/v7YBc8HCAe https://t.co/stuReCKKnc",52,2,12,2020-11-05
+278,2020-11-09 10:13:40+00:00,1325743350499127299,LiskHQ,"We are happy to announce that @endrolabs is the participant of the #Lisk Builders program for October 2020. He will receive a grant worth of CHF 2,500 in #LSK tokens.
+
+His project aims to offer more opportunities for delegates to show their contributions to the community. https://t.co/hICQUMqEqj",70,0,16,2020-11-09
+281,2020-11-10 14:04:12+00:00,1326163754602672129,LiskHQ,"Marcin Zarakowski, legal counsel at #Lisk, co-chaired a new report by @INATBA_org about `The Impact of Data Protection Regulations on the Blockchain Ecosystem`.
+
+Read it here: https://t.co/XI8nQO2M98 https://t.co/tsiZqX3DbS",30,1,9,2020-11-10
+287,2020-11-11 13:16:46+00:00,1326514204430491648,LiskHQ,"#Lisk's Marketing &amp; Events Lead @MTartau is adding the last touches before the upcoming #LCBevent on November 20th.
+
+If you want to learn more about #LiskCenterBerlin and its benefits for Lisk community members, register for our online event:
+
+https://t.co/eYykZupRPt https://t.co/AOne8XpXHR",73,1,11,2020-11-11
+288,2020-11-12 13:27:44+00:00,1326879352856997889,LiskHQ,"#Lisk’s Lead Backend Developers @ManuGowda_Ns and @Shusetsun are preparing their presentations about Lisk Core 3.0, Lisk SDK 5.0, and building blockchain applications.
+
+If you want to learn more, join our online #LCBevent on November 20th:
+
+https://t.co/eYykZupRPt https://t.co/dT3kFRupJl",68,0,13,2020-11-12
+291,2020-11-13 09:02:54+00:00,1327175093798178819,LiskHQ,"Today, November 13th, at 3pm CET we will host a live AMA on https://t.co/zcFgPgcpqU.
+
+@Shusetsun and @ManuGowda_Ns will answer your questions about the launch of Betanet v4, new protocol features, and further improvements. https://t.co/aUJI8lZJKt",58,1,13,2020-11-13
+293,2020-11-16 15:05:38+00:00,1328353542642561024,LiskHQ,"During the upcoming #LCBevent, we will host a Q&amp;A session. Authors of the most interesting questions will be rewarded with #Lisk branded gifts.
+
+If you want to have a chance to win a goodie bag, please register for the online event:
+
+https://t.co/eYykZupRPt https://t.co/232hEYdVR2",58,0,14,2020-11-16
+295,2020-11-17 09:47:18+00:00,1328635818265677825,LiskHQ,Which part of the upcoming Lisk Updates online event from the Lisk Center Berlin are you most excited about?,48,3,16,2020-11-17
+297,2020-11-18 13:50:44+00:00,1329059468907343879,LiskHQ,"During the upcoming #LCBevent @ManuGowda_Ns, our Lead Backend Developer, is going to present how to build non-fungible tokens with #Lisk SDK.
+
+If you want to learn more, join our online event on November 20th.
+
+https://t.co/eYykZupRPt https://t.co/cvxpwD0rUo",53,2,11,2020-11-18
+298,2020-11-19 11:00:32+00:00,1329379021713530880,LiskHQ,"Tomorrow, November 20th, during the #LCBevent, #Lisk community members - @wozalabs and @endrolabs, will present their blockchain applications built with the Lisk SDK.
+
+If you want to learn more about their experience of working with Lisk, join us online: 
+
+https://t.co/eYykZupRPt https://t.co/F4pPSFvbZ3",66,1,15,2020-11-19
+300,2020-11-20 18:28:56+00:00,1329854253192654855,LiskHQ,"We are excited to see so many community members and developers watching the #LCBevent online.
+ 
+After a 10 minutes break, we are coming back to answer the most interesting questions you’ve been asking on Crowdcast and YouTube.
+ 
+Join us online: https://t.co/fcFPpX28kw. https://t.co/GOLGuO1v11",39,1,4,2020-11-20
+316,2020-11-21 11:59:27+00:00,1330118625026580482,LiskHQ,"Until the video recording of the #LCBevent is uploaded un YouTube, you can watch the replay on Crowdcast.
+
+Rewatch here: https://t.co/eYykZupRPt https://t.co/JZsLRrlg0L",49,6,6,2020-11-21
+317,2020-11-23 17:15:49+00:00,1330923017132716037,LiskHQ,"We are happy to announce the most active participants during the online #LCBevent last Friday.
+
+Congrats to @anonimowy891, Eric, @davilinfo, Ruarke, @CarbonaraCrypto, @War_Conscience, @minionsdelegate, @IScirlet, and @korben32. You are the winners of the #Lisk goodie bags. 👏 https://t.co/5MXjUKuPV1",70,5,9,2020-11-23
+318,2020-11-24 08:51:29+00:00,1331158485015334912,LiskHQ,"We are happy to announce that we have published the video recording of the #LCBevent on YouTube.
+
+Please check it out: https://t.co/phoRexvmUs. https://t.co/DKkj5f5eND",77,5,16,2020-11-24
+320,2020-11-25 16:38:29+00:00,1331638396624756737,LiskHQ,"We have just published the monthly #Lisk Achievements blog post. 
+
+Check out the top news, updates, and achievements of Lisk in November 2020.
+
+https://t.co/c7nfZFuo05 https://t.co/oRMVMalQo6",53,1,10,2020-11-25
+325,2020-11-26 12:34:49+00:00,1331939466269908997,LiskHQ,"We have just published the 1 Year Anniversary of #Lisk Builders Program blog post.
+
+We take a look back at this past year, share some statistics, and cover all of the proof of concept blockchain applications.
+
+To learn more check out the blog post: https://t.co/wOmM9MQOiU https://t.co/xaJbQiIr0V",57,0,14,2020-11-26
+327,2020-12-01 14:26:05+00:00,1333779404179140608,LiskHQ,"We just published a blog post about #blockchain in energy markets.
+
+It explains how blockchain technology can solve challenges in energy markets and discusses the benefits it offers to the sector.
+
+Check it out on the #Lisk blog: https://t.co/0cnJcIpjeY https://t.co/Onzva9vt4M",68,1,15,2020-12-01
+328,2020-12-02 11:42:44+00:00,1334100684296364034,LiskHQ,"We are happy to announce the launch of Betanet v5. 🚀
+￼
+If you want to learn more about the new protocol features and further improvements read the blog post: https://t.co/i6fzlsTgGd
+
+On Friday, at 3pm CET, we will host an AMA on https://t.co/zcFgPgcpqU to answer your questions. https://t.co/jaLGc1ZLyx",143,6,30,2020-12-02
+329,2020-12-03 14:34:44+00:00,1334506356859080714,LiskHQ,"We would like to announce the final #Lisk Community Hero for this year.
+
+Our gratitude goes to @ys_mdmg for the continuous support he is offering to the Lisk community.
+
+Want to find out more about him? Check out his profile: https://t.co/5znkvn0M8o https://t.co/d1ksFvNH5P",61,0,10,2020-12-03
+330,2020-12-04 08:40:51+00:00,1334779689223802884,LiskHQ,"Today, December 4th, at 3pm CET we will host a live AMA on https://t.co/zcFgPgcpqU.
+
+@Shusetsun will answer your questions about the launch of Betanet v5, new protocol features, and further improvements. https://t.co/1O34KJ9oWZ",49,1,8,2020-12-04
+334,2020-12-07 14:09:51+00:00,1335949648738082816,LiskHQ,"We’ve published a full recap of the AMA for the Betanet v5 Launch we hosted on Friday, December 4th, on https://t.co/zcFgPgcpqU.
+
+Check out the answers given by @Shusetsun to the questions asked by #Lisk community members.
+
+https://t.co/Q82MLUWuGM https://t.co/cOdYCIXDRa",64,1,12,2020-12-07
+335,2020-12-08 07:55:00+00:00,1336217701581283328,LiskHQ,"Today, December 8th at 12pm CET, we will host a live AMA on https://t.co/zcFgPgcpqU.
+
+@maxkordek will answer your questions. https://t.co/laHGZdqLRz",41,1,4,2020-12-08
+336,2020-12-09 12:59:44+00:00,1336656780349353985,LiskHQ,"@MTartau, our Marketing Lead, introduced the #Lisk Center Berlin during the #LCBevent.
+
+If you want to learn more about Lisk Center Utrecht, Lisk Center Tokyo, and watch the walkthrough video of our new Lisk Center Berlin, check out the recording.
+
+https://t.co/xLdBRYHDiW https://t.co/pKfwqOO1kF",16,0,5,2020-12-09
+338,2020-12-10 14:35:57+00:00,1337043378156998658,LiskHQ,"We have just published the monthly #Lisk Financial Update.
+
+This report discloses Lisk Foundation’s total assets and all expenditures of November 2020. 
+
+Read the blog post to find out more about it.
+
+https://t.co/9U1rKrydpy https://t.co/PJVD4Qs1V0",51,1,9,2020-12-10
+340,2020-12-11 12:23:51+00:00,1337372525567889414,LiskHQ,"Last month, @ManuGowda_Ns during the #LCBevent conducted a live coding session to showcase how to build NFTs with the latest #Lisk SDK.
+
+Watch back the recording of the coding session.
+
+https://t.co/UW9b4fu5ai https://t.co/faoS2YEIG2",57,3,12,2020-12-11
+341,2020-12-14 09:45:52+00:00,1338419928605618176,LiskHQ,"During the online #LCBevent last month, @endrolabs gave a presentation about his blockchain application built with #Lisk SDK.
+
+If you want to learn more about Arcado Network and his experience with Lisk, check out the recording.
+
+https://t.co/7uv17pY6gF https://t.co/uF97JqClu9",44,0,8,2020-12-14
+344,2020-12-15 08:47:25+00:00,1338767607692931072,LiskHQ,"During the #LCBevent last month, Alessandro Ricottone gave the first glimpse into #Lisk interoperability.
+ 
+Watch back the recording to learn more about the status of the interoperability research and the direction Lisk will take.
+ 
+https://t.co/ydbIKVvi36 https://t.co/3OfG0ncTC2",50,0,8,2020-12-15
+346,2020-12-16 11:17:56+00:00,1339167874192117760,LiskHQ,"During the online #LCBevent, we hosted a live Q&amp;A session. @MTartau answered some marketing related questions from the #Lisk community.
+
+If you want to learn about our plans for marketing, community engagement, and much more, check out the recording.
+
+https://t.co/Q5cSaP3Pvq https://t.co/NrDXMJSCFM",48,1,7,2020-12-16
+347,2020-12-17 12:44:09+00:00,1339551957736939522,LiskHQ,"During the online #LCBevent, we hosted a live Q&amp;A session with #Lisk’s Lead Backend Developers - @Shusetsun and @ManuGowda_Ns.
+
+They answered some interesting questions regarding Lisk SDK, Lisk Core, and much more.
+
+Check out the recording: https://t.co/K3B6y0H8dG. https://t.co/NKp0VDHzCq",63,5,11,2020-12-17
+348,2020-12-18 09:59:01+00:00,1339872788677574656,LiskHQ,"During the #LCBevent last month, Alessandro Ricottone and Jan Hackfeld answered questions from community members in a Q&amp;A session.
+
+Check out the recording to learn more about #Lisk interoperability and other research-related topics.
+
+https://t.co/irNsKqEY63 https://t.co/12iniZxCQM",45,0,5,2020-12-18
+352,2020-12-25 09:00:02+00:00,1342394659759386624,LiskHQ,#Lisk team would like to wish everyone Merry Christmas and all the best in the New Year.🎄🎉 https://t.co/EOwmoKYnLY,106,3,12,2020-12-25
+354,2020-12-28 10:14:23+00:00,1343500537510166534,LiskHQ,"We have just published the monthly #Lisk Achievements blog post.
+
+Check out the top news, updates, and achievements of Lisk in December 2020.
+
+https://t.co/mwOJr2b5Iu https://t.co/moqfwPjQTj",70,1,18,2020-12-28
+355,2020-12-29 14:23:36+00:00,1343925640345612290,LiskHQ,"The external security audit conducted by @LeastAuthority  has been completed. The report will be published on January 4th. No major issues were found and we can continue with the #Lisk Core 3.0.0 quality assurance.
+
+Keep an eye on our social media channels for the report 👀 https://t.co/4EAtHunwlv",128,4,37,2020-12-29
+356,2020-12-30 12:51:29+00:00,1344264848687976451,LiskHQ,"As we are approaching the end of the year, we take the opportunity to showcase the most important achievements of #Lisk in 2020, as well as some of the plans for 2021.
+
+Check out Lisk's 2020 Year in Review blog post. 
+
+https://t.co/gqZKDPUsbI
+
+Stay tuned for 2021! https://t.co/glzrXkaaMC",117,9,31,2020-12-30
+357,2021-01-04 16:42:59+00:00,1346135045128466432,LiskHQ,"The full report of the external security audit conducted by @LeastAuthority is now published. 
+
+No major issues or blockers were found and we can continue with the #Lisk Core 3.0.0 quality assurance.
+
+Check out the full report here: 
+https://t.co/4Sa720ikEu https://t.co/af8s8veoiT",202,42,48,2021-01-04
+358,2021-01-07 14:51:59+00:00,1347194273129783299,LiskHQ,"On Monday, January 4th, @LeastAuthority published the full report of the external security audit conducted for #Lisk.
+
+If you want to learn more about it, check out the podcast (in Polish) by @Mikey_Satoshi. https://t.co/AtE5Gav2UP",89,7,16,2021-01-07
+359,2021-01-08 09:53:00+00:00,1347481419744997377,LiskHQ,"The published report of the external security audit conducted by @LeastAuthority is now available on the #Lisk homepage: https://t.co/dF15wOqnBa.
+
+If you want to know more about the audit procedure and the findings, check out the full report here:  https://t.co/4Sa720ikEu. https://t.co/IXNmbDBqot",93,0,18,2021-01-08
+362,2021-01-11 13:24:47+00:00,1348621879947522050,LiskHQ,"We've just released #Lisk SDK 5.0.3, which fixes the protocol bug relating to block reward.
+
+For details, please check the change log: https://t.co/bMtkdVw4bY https://t.co/UWqtAhDBjJ",96,2,10,2021-01-11
+365,2021-01-12 09:48:25+00:00,1348929817299869696,LiskHQ,"An interview with #Lisk's Marketing and Events Lead @MTartau was published by @Beincrypto_DE.
+
+If you want to learn more about our achievements in 2020, plans for this year, and more, check out the interview (in German):
+
+https://t.co/397Li4VknD. https://t.co/xCisC3QRLW",70,0,16,2021-01-12
+367,2021-01-13 10:04:23+00:00,1349296225481273345,LiskHQ,"An English version of the interview with #Lisk's Marketing and Events Lead @MTartau was published by @beincrypto.
+
+If you want to learn more, check out the full interview here: https://t.co/KE3Lt8XFY2. https://t.co/0svGhJLjKU",66,2,20,2021-01-13
+369,2021-01-14 08:28:31+00:00,1349634486816931842,LiskHQ,We are thrilled to see that the @wozalabs project that was originally developed through the #Lisk Builders program is now becoming a working product. 👏 https://t.co/Djy6Ta3qeL,111,1,22,2021-01-14
+371,2021-01-20 13:07:03+00:00,1351878911878197251,LiskHQ,"We would like to remind every #Lisk user to initialize their account by making at least one outgoing transaction.
+
+This can be a balance transfer to your own account. Initializing your account is important as it makes it more secure and prevents pre-image attacks.",107,10,20,2021-01-20
+372,2021-01-21 09:47:58+00:00,1352191197784248322,LiskHQ,"Start building your own Non-Fungible Token (NFT) with #Lisk SDK in three simple steps.
+
+Check out @ManuGowda_Ns's presentation to see how he did it within just 16 minutes:
+
+https://t.co/UW9b4fu5ai https://t.co/O4Jk5xvAwM",161,3,44,2021-01-21
+373,2021-01-22 12:12:00+00:00,1352589831898075136,LiskHQ,We are excited that @MoostyTeam is going to give a presentation about #Lisk at @Saxion University of Applied Sciences later today. 👏 https://t.co/IkW9EfnGrd,101,2,19,2021-01-22
+374,2021-01-25 12:40:17+00:00,1353684115082653696,LiskHQ,"An interview with @MTartau, our Marketing and Events Lead, was published by @BeInCrypto_PL.
+
+She answered questions about #Lisk's achievements in 2020, plans for 2021, and much more.
+
+Check out the interview (in Polish) here: https://t.co/pmp8Tzs7aL. https://t.co/fc3x8iMo6r",84,1,16,2021-01-25
+375,2021-01-26 13:48:08+00:00,1354063574998646785,LiskHQ,"We have just published @casparroelofs's blog post about the Smart Transport project as part of his participation in the #Lisk Builders program.
+
+It demonstrates how a hardware wallet can be used to secure a package.
+
+Check out his blog post to learn more: https://t.co/JKAU2WUoj1 https://t.co/cuofw8ViJX",104,4,21,2021-01-26
+376,2021-01-27 15:23:14+00:00,1354449898201034754,LiskHQ,"We have just published the monthly #Lisk Achievements blog post.
+
+Check out the top news, updates, and achievements of Lisk in January 2021.
+
+https://t.co/RchmMqXohw https://t.co/8ou8at5Tdy",104,3,20,2021-01-27
+377,2021-01-28 13:00:03+00:00,1354776251223994379,LiskHQ,"We have just published Jan Hackfeld’s blog post about the external security audit conducted for #Lisk.
+
+If you want to learn more about our motivation for the audit, details regarding the auditing process, as well as the outcome, check out the blog post: https://t.co/wpCRMCMDWy https://t.co/DRhFuNyn0k",94,2,21,2021-01-28
+378,2021-01-29 12:41:09+00:00,1355133884648873999,LiskHQ,"We have published the first interview opening our new series “Lisk Builders interviews”.
+
+If you want to learn more about Peter Nobels, what motivated him to apply for the #Lisk Builders Program, and his experience with Lisk SDK, check out the interview:
+
+https://t.co/2Zrl9bm6ig https://t.co/v0aJXBybUw",83,10,18,2021-01-29
+379,2021-02-01 09:48:42+00:00,1356177646015672326,LiskHQ,"An article about #Lisk’s monthly achievements was published by @coinpost.
+
+If you want to learn more about the top news, updates, and achievements of Lisk in January 2021, check out the article (in Japanese) here:
+
+https://t.co/nvD26dqN6V https://t.co/X7oUCrRzh0",79,3,17,2021-02-01
+381,2021-02-03 07:19:39+00:00,1356864915538075648,LiskHQ,"Today, February 3rd at 10am CET, we will host a live monthly AMA with @maxkordek on https://t.co/zcFgPgcpqU.
+
+Make sure to join and prepare all your questions. https://t.co/Fg5CIkuU9z",96,4,13,2021-02-03
+383,2021-02-04 14:36:20+00:00,1357337195179171848,LiskHQ,"We’ve published a full recap of the monthly AMA (Ask Max Anything) with @maxkordek we hosted on Wednesday, February 3rd, on https://t.co/zcFgPfUO2k.
+
+Check out the answers given by Max to the questions asked by #Lisk community members.
+
+https://t.co/Ktx0Ou4gAV https://t.co/CX1dw1UVVk",115,7,22,2021-02-04
+385,2021-02-08 07:29:18+00:00,1358679281048702976,LiskHQ,"@DennisonBertram Hello @DennisonBertram! Please, join us on https://t.co/zcFgPgcpqU and check https://t.co/5AsbIumBYx. Our community is always happy to help, so you can better understand #Lisk project.",3,0,1,2021-02-08
+388,2021-02-09 12:09:29+00:00,1359112181191757833,LiskHQ,"#Lisk staking rewards service is now available on @bitFlyer.
+
+It offers rewards to customers who hold LSK in their bitFlyer accounts.
+
+If you want to learn more check out the official website: https://t.co/JTbjk7ls4r. https://t.co/96XYSR2xWK",163,6,37,2021-02-09
+390,2021-02-11 12:06:28+00:00,1359836197485502464,LiskHQ,"We have just published the monthly #Lisk Financial Update. 
+
+The report discloses Lisk Foundation's total assets and all expenditures for January 2021. This month's blog post introduces an updated format that provides more clarity and transparency. 
+
+https://t.co/aoguxkwZw4 https://t.co/JTtdrG52ax",128,4,23,2021-02-11
+393,2021-02-12 11:33:14+00:00,1360190219128078338,LiskHQ,"We have spotted a mistake in the calculation of the total amount of assets. We updated the blog post to reflect the correct amount.
+
+https://t.co/aoguxkwZw4 https://t.co/QngIZudhXb",72,1,11,2021-02-12
+395,2021-02-14 10:06:00+00:00,1360893042937524224,LiskHQ,"Wishing everyone in the #Lisk community a Happy Valentine’s Day!
+
+#HappyValentinesDay https://t.co/SuvKbeXTJ4",194,12,28,2021-02-14
+396,2021-02-15 15:30:27+00:00,1361337080782204930,LiskHQ,"The #LiskMemeContest has ended. Thank you all for your participation.
+
+We are excited to announce the winners. Congrats! 👏
+
+🥇 @ResaAzhra 
+🥈 @Armoury85 
+🥉 @stgz77 
+
+Stay tuned for more #Lisk meme contests. https://t.co/bziD9Mq9WM",108,6,13,2021-02-15
+398,2021-02-16 15:32:17+00:00,1361699932604936195,LiskHQ,"We have published an interview with @KasraAbz, a participant in the #Lisk Builders program.
+
+“Lisk SDK is one of the leading choices as a blockchain development tool from my perspective.""
+
+Read more about his experience developing with the Lisk SDK: 
+
+https://t.co/fEvQDKfEze https://t.co/sjWY4auETf",126,1,25,2021-02-16
+399,2021-02-17 09:27:22+00:00,1361970483923546116,LiskHQ,"""The team at #Lisk promises a major upgrade with the launch of Lisk Core 3.0.0 in 2021, which is expected to bring a plethora of improvements to security, stability, technical aspects, scalability, and also reduced fees, among others.""
+
+Read more in the @Cointelegraph article. https://t.co/WLWgnt0rpD",142,5,30,2021-02-17
+401,2021-02-18 11:41:10+00:00,1362366546660712450,LiskHQ,"Yesterday, Oliver Beddows (@Karmacrypto) provided a development update on the #Lisk user interface products.
+
+Check out the progress of Lisk Desktop, Lisk Mobile, and Lisk Service.
+
+Join our community to stay up to date: https://t.co/zcFgPgcpqU. https://t.co/ZwtT5tqAfE",105,3,23,2021-02-18
+403,2021-02-19 11:01:21+00:00,1362718912983482368,LiskHQ,"Today, February 19th, at 3 pm CET we will host a live AMA on https://t.co/zcFgPgcpqU. 
+
+Iker Alustiza, Research Scientist at #Lisk, will answer questions about blockchain interoperability and the main techniques required to achieve it.
+
+Join the AMA on https://t.co/zcFgPgcpqU. https://t.co/1kGDRbBbTH",107,0,25,2021-02-19
+404,2021-02-22 15:47:16+00:00,1363878030767239171,LiskHQ,"We have just released #Lisk 1.28.0-beta.0 for Desktop. 
+
+This version incorporates stronger messaging and enforcement for users to initialize their accounts, as well as fixes regressions in responsive design styling on smaller displays.
+
+https://t.co/5dHBLIZBup https://t.co/j1jpIva9ZQ",118,3,23,2021-02-22
+407,2021-02-23 16:34:03+00:00,1364252191251460098,LiskHQ,"We have just released #Lisk Service 0.2.0.
+
+This version adds support for Lisk SDK 4.0.0 and is compatible with Lisk 2.0.0-beta.1 for Desktop. 
+
+For more details, please refer to GitHub: 
+
+https://t.co/jTsYdbmQaI https://t.co/MSBcQOeHHc",161,3,35,2021-02-23
+409,2021-02-24 15:55:38+00:00,1364604910386483201,LiskHQ,"We have just published the monthly #Lisk Achievements blog post.
+
+Check out the top news, updates, and achievements of Lisk in February 2021.
+
+https://t.co/QOdndHxAua https://t.co/kL7MST3gxB",133,11,35,2021-02-24
+410,2021-03-01 13:34:02+00:00,1366381215369093121,LiskHQ,"This Wednesday, March 3rd at 1 pm CET, @maxkordek will host the monthly AMA live on https://t.co/zcFgPgcpqU.
+
+Get your questions ready and Ask Max Anything.
+
+https://t.co/zcFgPgcpqU https://t.co/raZm0txehU",112,0,25,2021-03-01
+411,2021-03-02 14:54:29+00:00,1366763850360619011,LiskHQ,"We have just released #Lisk 1.28.0 for Desktop.
+
+This version incorporates stronger messaging and enforcement for users to initialize their accounts, as well as fixes regressions in responsive design styling on smaller displays.
+
+Download the new version: https://t.co/52kUgp59Pn https://t.co/ZgDxZioLLx",126,3,31,2021-03-02
+412,2021-03-03 09:06:42+00:00,1367038712257929216,LiskHQ,"Today, March 3rd at 1pm CET, @maxkordek will host the monthly AMA live on https://t.co/zcFgPgcpqU.
+
+Prepare your questions and Ask Max Anything.
+
+Join us here: https://t.co/zcFgPgcpqU https://t.co/CcISSAeAZh",87,3,19,2021-03-03
+414,2021-03-04 13:07:13+00:00,1367461631278596102,LiskHQ,"#Lisk has been listed again as one of the top 50 blockchain projects in the Crypto Valley in the 6th edition of the @CV_Labs report.
+
+It's an honor to be mentioned among the top players in the blockchain ecosystem.
+
+Read the full report here: https://t.co/xLNtwE0TxR https://t.co/WUwtJaLN3c",184,5,48,2021-03-04
+416,2021-03-11 14:27:46+00:00,1370018617840992260,LiskHQ,"We have just published the monthly #Lisk Financial Update.
+
+The report discloses Lisk Foundation's total assets and all expenditures for February 2021. 
+
+Read the blog post to find out more about it.
+
+https://t.co/hWSIybx8ga https://t.co/npJu26k5YO",100,5,19,2021-03-11
+417,2021-03-15 11:22:42+00:00,1371421592698433536,LiskHQ,"We have published an interview with @Jurre_Moosty, a participant in the #Lisk Builders program.
+
+""Every new version of the Lisk SDK made it easier to create our PoCs and build more complex applications.""
+
+Read more about it in the blog post:
+
+https://t.co/6qEAbejIi9 https://t.co/J58BwvgE3d",95,5,18,2021-03-15
+418,2021-03-17 18:05:39+00:00,1372247777267351557,LiskHQ,"We are officially announcing the next Lisk.js, our annual developer-focused event 🎉 
+
+#liskjs2021 will take place on May 21st-22nd as a virtual event revealing the #Lisk interoperability solution and featuring development updates, demos, and much more.
+
+https://t.co/3MSjbXFOeV https://t.co/gWwza4VEFi",259,35,70,2021-03-17
+419,2021-03-18 11:18:16+00:00,1372507641373687809,LiskHQ,"A development progress update for the #Lisk user interface products was provided yesterday by @Karmacrypto on https://t.co/zcFgPgcpqU. 
+
+Check out the progress of Lisk for Desktop, Lisk for Mobile, and Lisk Service.
+
+Join our community to stay up to date: https://t.co/zcFgPgcpqU. https://t.co/bs6vtURlUq",113,2,24,2021-03-18
+421,2021-03-19 13:24:30+00:00,1372901799540232193,LiskHQ,"We have released #Lisk 2.0.0-beta.2 for Desktop, adding support for standby delegates in our upcoming, new DPoS consensus algorithm.
+
+This version only works with Betanet v4, not with our Testnet or Mainnet.
+
+For more details, please refer to GitHub:
+
+https://t.co/v8xRwtiNUR https://t.co/IegbdFP2IR",145,4,34,2021-03-19
+422,2021-03-22 09:21:27+00:00,1373927795835998215,LiskHQ,"""Lisk.js 2021 will set the stage for the new blockchain interoperability solution to be unveiled by the #Lisk Research team.""
+
+Check out the preliminary agenda and register for the event: 
+
+https://t.co/9jCNh5S6VD https://t.co/9Of5nRtkOk",130,4,20,2021-03-22
+423,2021-03-24 17:06:37+00:00,1374769632876376066,LiskHQ,"We have released #Lisk SDK 5.0.4. This release fixes a number of bugs and improves the consistency of our peer-to-peer protocol, inducing a breaking change in its message encoding.
+
+Therefore, blockchain applications should be built using Lisk SDK 5.0.4.
+
+https://t.co/oywnAJosN5 https://t.co/rJh0yo6lNX",163,3,40,2021-03-24
+425,2021-03-25 13:05:28+00:00,1375071334854766601,LiskHQ,"We have just released #Lisk 1.4.1 for Mobile. It fixes numerous bugs and updates all dependencies to the latest versions. 
+
+This version fixes the blurred out account balance on the home screen and other visual issues.
+
+Download the new version here: https://t.co/IoPmuMbcQn https://t.co/vKsiZXErDk",142,4,25,2021-03-25
+426,2021-03-26 13:29:22+00:00,1375439736668631042,LiskHQ,"#Lisk joins the Crypto Open Patent Alliance alongside other prominent members. 
+
+As the first blockchain developer-focused member, Lisk will help bolster innovation within the blockchain community.
+
+Read more about it in the blog post: 
+
+https://t.co/9Isg9YlISf https://t.co/UVzNvM2U3j",160,4,45,2021-03-26
+427,2021-03-30 09:57:32+00:00,1376835979164680196,LiskHQ,"As @BINARYSTAR_Co has decided to cease operating out of their business hub and focus on their online community platform, Lisk Center Tokyo will be moving out of this location at the end of the month. 
+
+Make sure to join our online community on https://t.co/zcFgPgcpqU.",95,1,9,2021-03-30
+429,2021-03-31 08:55:30+00:00,1377182756023635970,LiskHQ,"We have just published the monthly #Lisk Achievements blog post.
+
+Check out the top news, updates, and achievements of Lisk in March 2021.
+
+https://t.co/gQfFurPThh https://t.co/aEdEb8jSiS",148,1,32,2021-03-31
+430,2021-04-01 13:41:59+00:00,1377617238748987395,LiskHQ,"A development progress update for the #Lisk user interface products was provided yesterday by @Karmacrypto on https://t.co/zcFgPgcpqU.
+
+Check out the progress of Lisk for Desktop, Lisk for Mobile, and Lisk Service.
+
+Join our community to stay up to date: https://t.co/zcFgPgcpqU. https://t.co/8gzUxiSZJF",94,1,19,2021-04-01
+433,2021-04-06 20:04:46+00:00,1379525510124867584,LiskHQ,"This Thursday, April 8th at 5pm CEST, @maxkordek will host his monthly AMA live on https://t.co/zcFgPfUO2k.
+
+Get your questions ready and Ask Max Anything.
+
+https://t.co/zcFgPfUO2k https://t.co/6SnvRHRzFH",110,0,23,2021-04-06
+434,2021-04-07 12:07:47+00:00,1379767859459600392,LiskHQ,"Today, April 7th, at 4pm CEST we will host a live AMA on https://t.co/zcFgPgcpqU.
+
+Jan Hackfeld and Andreas Kendziorra will answer questions about the high-level overview of #Lisk interoperability solution.
+
+Join the AMA on https://t.co/zcFgPgcpqU. https://t.co/qXu9oKVoyI",96,2,19,2021-04-07
+436,2021-04-08 13:50:37+00:00,1380156128600993797,LiskHQ,"We have just published the monthly #Lisk Financial Update.
+
+The report discloses Lisk Foundation's total assets and all expenditures for March 2021. 
+
+Read the blog post to find out more about it.
+
+https://t.co/qENJrgNNmc https://t.co/3qpLCGtA8x",95,4,23,2021-04-08
+440,2021-04-09 16:48:18+00:00,1380563231425626116,LiskHQ,"We have just published a full recap of the monthly AMA hosted by @maxkordek yesterday, April 8th, on https://t.co/zcFgPgcpqU.
+
+Check out Max's answers about Lisk.js 2021, NFTs, upcoming plans for #Lisk, and much more.
+
+https://t.co/qQuODrUhMG https://t.co/zqp8LW7t7y",113,7,20,2021-04-09
+441,2021-04-12 10:31:32+00:00,1381555577344647168,LiskHQ,"Great to see further development and implementation of new features 👏
+
+LISKscan is a community maintained alternative for #Lisk blockchain explorer. https://t.co/GHdN0NzdR3",118,4,19,2021-04-12
+442,2021-04-13 08:48:25+00:00,1381892016389427201,LiskHQ,"9 days left. 
+
+🏆 On April 22nd, @Lisk_USA will host its annual All-star awards Ceremony to reward #Lisk community members.
+
+➡️ https://t.co/9o6d38hE9d https://t.co/BY3yPg1AYE",91,4,17,2021-04-13
+446,2021-04-14 10:59:54+00:00,1382287492985020417,LiskHQ,"37 days until #liskjs2021.
+
+🎟️ Register to get a free entry to the online event.
+
+➡️ https://t.co/9jCNh5S6VD",102,5,19,2021-04-14
+453,2021-04-15 11:17:32+00:00,1382654317308559361,LiskHQ,@RuarkeKerr 👀👀💙,2,0,0,2021-04-15
+456,2021-04-16 09:52:06+00:00,1382995204978925568,LiskHQ,"Our CEO &amp; Co-Founder @maxkordek was interviewed live by @benzigacrypto 👏
+
+👀 Looking for a comprehensive yet recent #Lisk overview? 
+
+➡️ https://t.co/SgrqtfF1yo https://t.co/CWYi9nwz2d",114,3,25,2021-04-16
+466,2021-04-18 16:12:28+00:00,1383815702235160580,LiskHQ,@chrisbirdscom @Cointelegraph @btcecho @beincrypto @coin_post @WeAreDevs @CTChinaOfficial @Wachsman_ @maxkordek Indeed 😊,1,0,0,2021-04-18
+469,2021-04-19 12:50:22+00:00,1384127233153921032,LiskHQ,@JAXenterCOM 👋,1,0,0,2021-04-19
+479,2021-04-20 16:04:28+00:00,1384538464264282115,LiskHQ,@RuarkeKerr Likewise 👌,3,0,1,2021-04-20
+489,2021-04-21 14:47:32+00:00,1384881491751100419,LiskHQ,@bittakeshi777 🤩👏,4,0,1,2021-04-21
+505,2021-04-22 17:45:34+00:00,1385288683272691717,LiskHQ,"Our media partner, @coin_post has just published an article showcasing more details about our annual blockchain developer event #Liskjs2021. 
+
+📢 Register your free entry to the event if you haven't:
+https://t.co/ptxiDiCy4p",88,4,20,2021-04-22
+513,2021-04-23 15:35:14+00:00,1385618273388085251,LiskHQ,@newtechnovice 👏👏,2,0,0,2021-04-23
+521,2021-04-26 08:00:41+00:00,1386591045916504070,LiskHQ,"@GamerhdBt You will be surprised 👀.
+https://t.co/zcFgPgcpqU ✨",1,0,0,2021-04-26
+524,2021-04-27 16:23:00+00:00,1387079844698198019,LiskHQ,"Lisk Centre Utrecht has a new dedicated page on our website at https://t.co/bhafqY5YYX 🔥.
+
+We could not be happier to continue integrate LCU and, to have it as part of the #Lisk ecosystem 💙.",101,1,20,2021-04-27
+530,2021-04-28 10:09:18+00:00,1387348188114341888,LiskHQ,"23 days left 🚨.
+
+At #Liskjs2021, developers can expect to learn how to develop a blockchain application with Lisk SDK, attend in-depth talks on interoperability, and get inspired by community members who have built blockchain applications on #Lisk 💙.",130,1,33,2021-04-28
+537,2021-04-29 09:03:56+00:00,1387694125516984322,LiskHQ,"🔎 Our #Lisk researchers just proposed another supporting LIP:
+
+-“Proof of Authority validator selection mechanism”
+
+ 🙌 This LIP introduces the Lisk Proof-of-Authority (PoA) mechanism for the selection of validators, known as authorities in this context, to generate blocks.",103,3,19,2021-04-29
+539,2021-04-30 13:49:46+00:00,1388128446358953989,LiskHQ,@btcecho 💙😊✌🏻,1,0,0,2021-04-30
+552,2021-05-03 07:18:07+00:00,1389117047834042368,LiskHQ,@flipUK_tweet @skgo76 @maxkordek @Incrypted_Event @SKGo 👀💙,1,0,0,2021-05-03
+559,2021-05-04 09:54:43+00:00,1389518847540092928,LiskHQ,"🗓️ Thursday, May 6th - 5pm CEST
+
+🫂 @MaxKordek will host his AMA live on https://t.co/zcFgPgcpqU
+
+⏰ Get your questions ready and Ask Max Anything.
+
+💙 Join us on https://t.co/zcFgPgcpqU",106,10,21,2021-05-04
+566,2021-05-05 08:32:14+00:00,1389860476289490946,LiskHQ,"🗞️ Our media partner, @BeinCrypto | @BeInCrypto_PL has published a press release on our upcoming event #Liskjs2021, to be held on the 21st and 22nd of May.
+
+✨ Find out why you can't miss it
+
+🎟️ Free entries still available
+👉 https://t.co/ptxiDiCy4p",123,4,35,2021-05-05
+571,2021-05-06 17:28:26+00:00,1390357803060039685,LiskHQ,"We have released #Lisk SDK 5.0.5. This release fixes a number of bugs in P2P, Cryptography, and Framework.
+
+Learn more:
+https://t.co/ezuEuZVrs2",165,6,34,2021-05-06
+577,2021-05-07 15:08:16+00:00,1390684915784634371,LiskHQ,"🔔 Two weeks left for #Liskjs2021.
+
+💬 We can't wait to connect and engage with all developers, blockchain enthusiasts, and community members globally at our two-day virtual event.
+
+🚨 Secure your free entry now.",191,3,49,2021-05-07
+587,2021-05-10 07:27:51+00:00,1391656210974318593,LiskHQ,"🌳 Hope you had a great weekend. 
+
+🔔 #Liskjs2021 is fast approaching. Have you got your free entry to the event?
+
+🗓️ https://t.co/vfGV7Z3ewp",75,0,14,2021-05-10
+593,2021-05-11 16:19:50+00:00,1392152479748481025,LiskHQ,"We have just published our Financial Update for April, featuring a number of significant news such as our new liquidation strategy for our BTC holdings to stablecoins, the opening of a @BlockFi account, as well as our plan for a continued $LSK buyback.
+
+https://t.co/jyanjgH7o8",159,4,37,2021-05-11
+601,2021-05-12 07:28:37+00:00,1392381182776598530,LiskHQ,@TheMoonCarl 👀,20,2,3,2021-05-12
+606,2021-05-13 16:14:23+00:00,1392875880842735620,LiskHQ,@LiskSwiss 👀,4,0,0,2021-05-13
+610,2021-05-14 10:38:39+00:00,1393153779806183424,LiskHQ,@maxkordek 👀,31,2,0,2021-05-14
+624,2021-05-15 14:33:52+00:00,1393575362450411529,LiskHQ,@CoinMarketCal 👀,4,1,0,2021-05-15
+627,2021-05-16 12:37:33+00:00,1393908478410887172,LiskHQ,@beincrypto 👀,2,1,1,2021-05-16
+628,2021-05-17 16:09:22+00:00,1394324171228917762,LiskHQ,"⚙️ We are delighted to announce that the testnet Lisk Migrator testing was successful. 
+
+💬 We would love to get your feedback on our migration document below:
+
+https://t.co/66tNfa5nIk. 💡",149,4,39,2021-05-17
+634,2021-05-18 07:58:38+00:00,1394563060539531264,LiskHQ,"Social distancing won't stop us from unveiling our major Interoperability solution. Join us online at #Liskjs2021. 
+
+🔔 3 days left.
+
+🎟️ https://t.co/ceGxprlXq5.",112,8,29,2021-05-18
+639,2021-05-19 18:08:41+00:00,1395078975949582342,LiskHQ,@Guiops25 @bosshmelnytsky @tr_namz Obrigado @Guiops25 💙,1,0,0,2021-05-19
+648,2021-05-20 21:02:39+00:00,1395485143561875460,LiskHQ,@verified 👏,1,0,0,2021-05-20
+656,2021-05-21 17:48:14+00:00,1395798602207858690,LiskHQ,"New #Lisk Roadmap Phases explained:
+
+Quartz ✔️ https://t.co/iLQlzCfMxE",62,1,11,2021-05-21
+697,2021-05-22 13:21:31+00:00,1396093871088623617,LiskHQ,"What the future of #Lisk ecosystem looks like. 
+
+Industry Comparison: #Ethereum.
+
+Live at #Liskjs2021 💬 https://t.co/CcpidzfobJ",90,1,16,2021-05-22
+752,2021-05-24 13:33:16+00:00,1396821602290081796,LiskHQ,@beincrypto 👀,1,1,0,2021-05-24
+756,2021-05-25 09:45:54+00:00,1397126773163364353,LiskHQ,@CryptoCrashCom @gate_io @Blox_Staking @verasitytech @bitcoingold @blocery 👀,0,0,0,2021-05-25
+759,2021-05-26 11:29:53+00:00,1397515326653444103,LiskHQ,"⚙️ Here is the most recent development progress update for the #Lisk project by Oliver Beddows.
+
+Looking to stay up to date? Join our community at https://t.co/zcFgPgcpqU. 🫂 https://t.co/dgomyCr9vI",104,1,28,2021-05-26
+760,2021-05-27 16:47:17+00:00,1397957591397974017,LiskHQ,"Introducing the #LiskGrantProgram. ✨
+
+📰  We have just released a blog post with the most important details about the application and selection process, as well as other requirements for being part of the Lisk Grant Program.",104,5,31,2021-05-27
+764,2021-05-28 07:31:32+00:00,1398180123094966275,LiskHQ,@beincrypto 👀👀,1,0,0,2021-05-28
+767,2021-05-29 17:05:44+00:00,1398687011016486914,LiskHQ,"🔔 #HackOnLisk - Submissions OPEN 🟢
+
+- Build your own blockchain application with the Lisk SDK in #JavaScript.
+
+💻 Already over 100 registrations
+
+💰 $33,000 in prizes
+
+👉 Learn more at https://t.co/G3KD20Se0N.",88,4,25,2021-05-29
+768,2021-05-31 13:52:50+00:00,1399363243039248384,LiskHQ,"📢 We have just published a full recap of the Marketing AMA hosted by @MTartau on https://t.co/zcFgPgcpqU, last Friday, May 28th. 
+
+💬 Our Marketing Lead, answered questions about the new Lisk Grant Program, #HackOnLisk, marketing plans and much more. 
+
+👉 https://t.co/zjt3Cm2tt9",61,5,15,2021-05-31
+775,2021-06-01 13:03:22+00:00,1399713180390150164,LiskHQ,"#HackOnLisk | Update. 💡
+
+Start building your own blockchain application with the Lisk SDK in JavaScript. ⚒️
+
+💰 $33.000 in prizes.
+
+🔔 38 more days to submit. Already over 140 registered participants. 
+
+Join our community discord at https://t.co/zcFgPgcpqU for developer support.",83,5,26,2021-06-01
+776,2021-06-02 07:59:30+00:00,1399999098661621761,LiskHQ,"#HackOnLisk | Looking for resources to start building? 🧰
+
+💻 We have uploaded a live demo ""Developing a Blockchain Application with Lisk SDK 5.1.0"" on our YouTube channel. 
+
+🫂 Make sure to also join our community discord at https://t.co/zcFgPgcpqU for developer support.",66,2,20,2021-06-02
+781,2021-06-03 08:34:26+00:00,1400370278933401603,LiskHQ,@sociosjapan 💙,2,1,0,2021-06-03
+786,2021-06-05 14:28:33+00:00,1401184168491507712,LiskHQ,@korben32 🌳🔋🌍✅,5,0,2,2021-06-05
+789,2021-06-07 08:31:54+00:00,1401819192580530177,LiskHQ,"#HackOnLisk | Updated Resources. 💪
+
+We added some new resources to Devpost, including new video tutorials and presentations of the latest SDK 5.1.0:
+
+🧰 https://t.co/YwrAPXxW98.
+
+You can also check out the latest documentation for the Lisk SDK 5.1.0:
+
+📜 https://t.co/ulGFuUJFbl.",56,2,18,2021-06-07
+793,2021-06-08 09:40:29+00:00,1402198840720171008,LiskHQ,"For the first time, this month we held a live AMA session with @maxkordek on his YouTube channel. 🔥
+
+📺 You can now watch the full video with timestamps at https://t.co/sp5j6GqwOc. 
+
+We have also released a blogpost with a few highlights from this month’s Ask Max Anything. 🗞️",65,8,15,2021-06-08
+795,2021-06-09 14:28:45+00:00,1402633770180694017,LiskHQ,@thegoodly @blockfolio Thank you @thegoodly 💙,1,1,0,2021-06-09
+800,2021-06-10 14:39:41+00:00,1402998910407254021,LiskHQ,@ManuGowda_Ns 💙,0,2,0,2021-06-10
+810,2021-06-11 08:06:16+00:00,1403262291861180418,LiskHQ,"✨ We have just posted on @ThePracticalDev's https://t.co/PRL93wq0C6. 
+
+https://t.co/dU4Xspdftu.
+
+#DEVCommunity #HackOnLisk #hackathon. 💻",69,1,22,2021-06-11
+813,2021-06-12 19:32:29+00:00,1403797371549630465,LiskHQ,@CryptoCrashCom @gate_io @BitcoinDiamond_ @NervosNetwork @BUMOproject @xmccurrency ✌🏻,0,0,0,2021-06-12
+818,2021-06-13 09:46:31+00:00,1404012295122993154,LiskHQ,"🏢 Enterprises, individuals, and governments can benefit greatly from exploring the potential of blockchain technology in real estate. 
+
+⚒️ Lisk provides the tools to experiment with this technology and to develop real estate proof of concept blockchain applications. https://t.co/ggcBZ5iSjf",86,5,23,2021-06-13
+822,2021-06-14 12:49:06+00:00,1404420632465530888,LiskHQ,"#HackOnLisk, online #hackathon. $33k in prizes.
+
+😖 Where to start? What to build? How to submit? 
+
+😉 Worry not. 
+
+Check the link below for all the resources you need to get started. 👇👇
+
+@ThePracticalDev #DEVCommunity https://t.co/jcZ0BJzC5d. 🔥",67,15,16,2021-06-14
+826,2021-06-15 13:15:41+00:00,1404789713131782152,LiskHQ,"Looking for inspiration to start building? 
+
+🔹 Here is Collabolancer, an open-source decentralized freelancing marketplace, by @aldhosutra, built with the Lisk SDK using #JavaScript. 👇👇
+
+https://t.co/C4GMeJlb4L
+
+#HackOnLisk &gt;&gt; $33k in prizes. 💰",59,3,48,2021-06-15
+828,2021-06-16 08:05:04+00:00,1405073928662491138,LiskHQ,"▪️ Recurring Payments is a proof of concept made with the Lisk SDK. 
+
+It shows a relatively simple technical solution utilizing custom transactions to build a deterministic contract between two parties (peer to peer).
+
+Learn more. 👇👇 https://t.co/0Y0gInGuQx",59,1,16,2021-06-16
+834,2021-06-17 12:17:08+00:00,1405499750544203777,LiskHQ,"📣 We are excited to announce that #Lisk will be at WeAreDevelopers' World Congress 2021.
+
+🗣️ Learn more about P2P networks in blockchain.
+
+💻 Watch us build a blockchain application live using the latest version of the Lisk SDK. 
+
+#wearedevs #world #congress",81,5,22,2021-06-17
+837,2021-06-18 07:42:17+00:00,1405792973820989442,LiskHQ,@DanielTechIT 💙✌🏻,1,0,0,2021-06-18
+841,2021-06-19 16:29:17+00:00,1406287981787287552,LiskHQ,@beincrypto 👀,2,0,0,2021-06-19
+842,2021-06-21 13:27:43+00:00,1406967068554059776,LiskHQ,"You can already build payment blockchain applications with the Lisk SDK. 💻
+
+The Lisk Grant Program can assist enterprises and developers in building blockchain applications for financial services. 💰💙
+
+https://t.co/dNmd4oKUJf https://t.co/ufqncTtbrz",65,6,17,2021-06-21
+848,2021-06-22 10:21:14+00:00,1407282525618180098,LiskHQ,"🔊 Lisk Core on Snapcraft, the app store for Linux.
+
+🔥 We are happy to announce that #Lisk Core is now available on @snapcraftio. 
+
+🖥️ Lisk Core is what every machine needs to set-up to run a node that allows for participation in the network.
+
+https://t.co/krXHqoB5mT",61,2,10,2021-06-22
+853,2021-06-23 13:29:18+00:00,1407692242240823301,LiskHQ,"🎉 We are very happy to announce the release of Lisk Desktop v2.0.0-rc.0
+
+🔹 This version implements support for Lisk Core v3, including: dynamic transaction fees, new voting system, change of address system, standby forgers, multisignatures, and much more. 🚀",87,2,19,2021-06-23
+869,2021-06-24 16:34:13+00:00,1408101162985926664,LiskHQ,@MGoranowski @maxkordek 👀👀,4,0,1,2021-06-24
+879,2021-06-25 14:01:17+00:00,1408425063238443008,LiskHQ,"🔔 Our Research AMA is about to start. Get your questions ready!
+
+🔎🧑‍🔬 Alessandro Ricottone will answer questions around the topic of our most recent blog post ""Sparse Merkle Trees and New State Model"", part of our Interoperability solution series.",39,0,5,2021-06-25
+885,2021-06-26 09:24:37+00:00,1408717829818437635,LiskHQ,"250 participants registered. 👏
+
+🧐 We are super excited to check your blockchain applications built with the Lisk SDK in #JavaScript.
+
+#HackOnLisk is not over yet though. Submissions are still open until the 9th of July. Hurry up! ⏰ https://t.co/DR0fBvPRvF",98,0,66,2021-06-26
+886,2021-06-28 13:32:46+00:00,1409505053518430209,LiskHQ,"🧑‍🔬🔎 We have just published a full recap of our most recent Research AMA.
+
+🧐 Curious about the concept of sparse Merkle trees and how these will be used in the new state model? 
+
+Learn more from our Research Scientist, Alessandro Ricottone. 
+
+🌱 https://t.co/ZOKpg1ccrL",53,1,12,2021-06-28
+889,2021-06-29 07:56:40+00:00,1409782859666280451,LiskHQ,"Come visit our virtual booth at @wearedevs' World Congress 2021. ✨
+
+⚡ Find out more about our upcoming sessions at the event, book a meeting with our team, and check our latest job openings.",72,0,16,2021-06-29
+894,2021-06-30 12:49:00+00:00,1410218815879880707,LiskHQ,@crypitos @WeAreDevs @ManuGowda_Ns Here @crypitos https://t.co/7BLwEw1ZM3 ✌🏻💙,2,0,0,2021-06-30
+902,2021-07-01 13:11:47+00:00,1410586936633331714,LiskHQ,@BTanglay @DavosCryptos 👀,2,0,0,2021-07-01
+910,2021-07-02 08:11:24+00:00,1410873727944904708,LiskHQ,"⏱️ Looking for a quick overview of our latest updates? 
+
+🗞️ Check out @liskmagazine and don't forget to join our community at https://t.co/zcFgPgcpqU for all things #Lisk. https://t.co/t0E7lWjU9T",52,0,8,2021-07-02
+912,2021-07-03 13:25:40+00:00,1411315205905264641,LiskHQ,@beincrypto 😳,1,0,0,2021-07-03
+916,2021-07-05 08:48:01+00:00,1411970108457639937,LiskHQ,@liskjapan ありがとうございました,7,0,0,2021-07-05
+921,2021-07-06 07:45:00+00:00,1412316636783198213,LiskHQ,@maxkordek 🙌,13,2,1,2021-07-06
+924,2021-07-07 06:14:22+00:00,1412656216078274560,LiskHQ,@hackerrank ☕,0,0,0,2021-07-07
+931,2021-07-08 20:52:06+00:00,1413239492329328652,LiskHQ,@korben32 @bosshmelnytsky @beincrypto @MigueldeS0usa 💙,6,0,1,2021-07-08
+937,2021-07-09 08:11:05+00:00,1413410365128552449,LiskHQ,"Last day to submit. The first edition of #HackOnLisk is now coming to an end. 🏁 
+
+⏰ Today, 10pm CEST
+💰 $33,000 in prizes
+👮 https://t.co/E2P25fWNfE
+
+🧑‍💻 Looking forward to seeing your submissions! https://t.co/Ljglugc3s9",61,4,15,2021-07-09
+939,2021-07-10 15:42:06+00:00,1413886255755104259,LiskHQ,@beincrypto 👀,1,0,0,2021-07-10
+940,2021-07-12 08:00:56+00:00,1414494972833828872,LiskHQ,"289 participants. Thank you for all of your submissions for #HackOnLisk, our first online hackathon. 🙌 
+
+Judging period will start tomorrow at 10am CEST. Winners to be revealed on July 23rd. 🏆",71,0,13,2021-07-12
+943,2021-07-13 09:21:25+00:00,1414877615748440065,LiskHQ,"Vote for #HackOnLisk's Community Choice Award. 
+
+🗳️ https://t.co/YWx8y67Eu3
+
+👉 Check out the playlist for all eligible projects and make sure to “like” your favourite. The most popular submission will win $3,000 in $LSK. https://t.co/94NzhUvQuV",61,2,12,2021-07-13
+946,2021-07-14 06:14:38+00:00,1415192997734518786,LiskHQ,@MoostyTeam 💙✌🏻,2,0,1,2021-07-14
+947,2021-07-15 12:14:48+00:00,1415646023435886595,LiskHQ,"#LiskGrantProgram | 60,000 CHF 🧑‍💻
+
+🔹 We are currently accepting applications that match our commitment to build serious real world blockchain applications, with strong business plans.
+
+🔹 https://t.co/dNmd4oKUJf 💎
+
+#javascriptdeveloper #blockchain #grant https://t.co/447NpM3zlX",64,1,26,2021-07-15
+950,2021-07-16 13:53:34+00:00,1416033270454800387,LiskHQ,"A new informational LIP 'State model and state root' was merged on GitHub. 
+
+🔹 https://t.co/ybOd1SFmDz
+
+This LIP specifies the general format for the module stores, the way in which the key-value pairs are inserted in the state tree, and the calculation of the state root. 💡",59,2,12,2021-07-16
+953,2021-07-18 13:20:02+00:00,1416749604784250884,LiskHQ,@bitpanda 😳,10,0,0,2021-07-18
+955,2021-07-19 08:51:13+00:00,1417044342594736131,LiskHQ,"📣 Announcing: HackOnLisk Awards. 
+
+$33,000 in prizes to be awarded live. 🏆
+
+Stay tuned for more information. 👀",52,5,13,2021-07-19
+958,2021-07-20 12:00:56+00:00,1417454475820867615,LiskHQ,"New releases alert! ⚡
+
+Lisk SDK 5.1.2
+
+🔹 https://t.co/WV0DCKdwzK
+
+Lisk Core 3.0.0-rc.3, which fixes several bugs identified in v3.0.0-rc.2, notably the handling of genesis block takes too much time.
+
+🔹 https://t.co/MD64ZSOkCg",47,1,8,2021-07-20
+962,2021-07-21 15:33:11+00:00,1417870278248517637,LiskHQ,"🔹-🔹-🔹-🟦-✅
+
+The Lifecycle of a Sidechain in the #Lisk Ecosystem. 🔎
+
+⚡ We have just released a blog post covering the processes and conditions for a sidechain to connect to the Lisk ecosystem, to become interoperable and remain interoperable continuously.",57,2,10,2021-07-21
+963,2021-07-22 16:23:28+00:00,1418245317963694087,LiskHQ,"Lisk Testnet Migration status: Successful. 🥳
+
+🚚✅ Lisk Testnet v3 migration comes with an extensive list of new features and improvements to the Lisk protocol, and is an invaluable tool for the upcoming Mainnet migration. https://t.co/f7kTad9Wzq",73,0,20,2021-07-22
+969,2021-07-23 08:43:30+00:00,1418491952312557569,LiskHQ,"We have released: https://t.co/oGLbqQJNdv 🚨
+
+This release implements LIP-0035 - “Define decentralized snapshot and hardfork process” as part of the Network Longevity phase. 🛣️",48,1,8,2021-07-23
+975,2021-07-26 11:39:32+00:00,1419623414805958662,LiskHQ,"Want to learn more about Lisk's Interoperability solution? Here's your chance. 😉
+
+👨‍🔬 To answer questions about the ""The Lifecycle of a Sidechain"", Iker Alustiza, Research Scientist at @LiskHQ,  will host an AMA live on YouTube.
+
+👉 https://t.co/oEMQAbYEgJ",63,3,22,2021-07-26
+978,2021-07-27 16:00:02+00:00,1420051359991320578,LiskHQ,"Our researchers just proposed the following Lisk Improvement proposal: “Introduce the auth module”. 🔎 
+
+🔹 In this LIP, we specify the properties of the auth module, along with their serialization and default values. ✅
+
+https://t.co/uf3OjlJTp7",43,0,6,2021-07-27
+988,2021-07-28 14:08:51+00:00,1420385767550070789,LiskHQ,"🚨🎙️Attention everyone. We are now live on YouTube.
+
+This is our first live Research focused AMA. Join now, https://t.co/oWeMZAlCqJ. 🧑‍💻
+
+Tune in. Ask our Research Scientist anything. ✨",46,0,9,2021-07-28
+992,2021-07-29 07:23:19+00:00,1420646102974541824,LiskHQ,@SmartCryptoNew1 @Dashpay @tezos @ibetyouxyz @chainlink @KIROBO5 ✌🏻💙,1,0,0,2021-07-29
+997,2021-07-30 16:08:34+00:00,1421140673198235648,LiskHQ,"✨ New LIP for the roadmap objective “Define state model and state root”:
+
+👉 ""Define state and state transitions of the random module.""
+
+The random module handles the validation of the inputs and computation of outputs for the commit and reveal process for a Lisk blockchain. 💡",72,1,11,2021-07-30
+999,2021-07-31 22:13:43+00:00,1421594953671716872,LiskHQ,@holdersignals 😳,5,1,2,2021-07-31
+1002,2021-08-01 13:43:59+00:00,1421829064097214466,LiskHQ,@pnxgrp @DogelonMars @LTOxVIDT @LidoFinance ✌🏻💙,3,1,0,2021-08-01
+1004,2021-08-03 13:03:11+00:00,1422543569601060866,LiskHQ,"How do we make blockchain more accessible? 
+
+In yet another incredibly relevant interview, our CEO and Co-Founder @MaxKordek explains why he favours JavaScript and how #Lisk could be the answer.
+
+@devopsdotcom #Lisk #LiskSDK #JavaScript",56,0,22,2021-08-03
+1009,2021-08-04 16:45:16+00:00,1422961847192461322,LiskHQ,"⚡️ New Release ⚡️
+
+Lisk Migrator 1.0.1 was released today.
+
+This release relaxes the version requirements for #Lisk Core, thus making it compatible with the newly released Lisk Core 2.1.7.
+
+👉 https://t.co/46JMq9gnfL",66,1,18,2021-08-04
+1010,2021-08-05 09:21:58+00:00,1423212673609654276,LiskHQ,"Yet another incredibly important development update by Oliver Beddows, featuring:
+
+🧑‍💻 A progress update for each #Lisk product;
+
+⚠️  A very important update regarding the upcoming #Lisk Core v3 mainnet migration.
+
+Join https://t.co/zcFgPgcpqU. 💙 https://t.co/l89Fra1K5R",65,1,24,2021-08-05
+1012,2021-08-06 09:28:26+00:00,1423576691415425025,LiskHQ,"New LIP for the roadmap objective “Define state model and state root”. This LIP specifies the validators module. 👄
+
+ 📃 The validators module is responsible for validating the eligibility of a validator for generating a block and the block signature.",73,0,20,2021-08-06
+1014,2021-08-09 09:42:42+00:00,1424667445101465601,LiskHQ,"New #LIP 👄 - Introduce the fee module.
+
+The fee module is responsible for handling the fee of transactions. This LIP defines the fee system in a modular way. ⚡",57,2,13,2021-08-09
+1018,2021-08-10 15:49:46+00:00,1425122208821690370,LiskHQ,"#LiskMainnetMemes Competition 
+🏆 Join to share $1,000 (paid in $LSK)
+
+⏰ August 10th – Aug 20th
+
+1. Follow @LiskHQ
+2. ❤️ + RT with your creative #LiskMainnetMemes #LiskMainnetMigration
+3. Has to be Mainnet related 🎨 https://t.co/nmvyrmH0HW",623,37,68,2021-08-10
+1020,2021-08-11 12:44:11+00:00,1425437890889269251,LiskHQ,@TurkbeyMustafa We love you too 🙈,2,1,0,2021-08-11
+1025,2021-08-12 15:02:58+00:00,1425835204317368320,LiskHQ,Tune in. 🫂 https://t.co/lFFkSVDFe1,56,0,6,2021-08-12
+1027,2021-08-13 16:51:51+00:00,1426224994854621189,LiskHQ,"@defitic @StepHeroNFTs @horizenglobal @TrustToken @polkastarter @wootraderS @vergecurrency @kava_labs @_MediBloc ✌🏻💙 - Also, check our last tweet. 😳",3,0,0,2021-08-13
+1033,2021-08-16 13:39:18+00:00,1427263701711835146,LiskHQ,@TradeDOG1 @DeployOnStackOS @EqualizerFlash @CryptionNetwork @OnlyOneToken @BinanceChain @AlphaFinanceLab @Only1TokenMemes @only1nft @Only1tokenF 😳,3,0,0,2021-08-16
+1036,2021-08-17 06:29:32+00:00,1427517935921377323,LiskHQ,@binance @Tronfoundation @flow_blockchain Thank you #Binance 🙏,45,2,2,2021-08-17
+1041,2021-08-18 18:21:20+00:00,1428059452075384837,LiskHQ,@beincrypto 😳,2,0,0,2021-08-18
+1057,2021-08-19 12:18:39+00:00,1428330569927176193,LiskHQ,"Lisk Mainnet Migration. 🥳
+💡 #DidYouKnow series 4/5. 
+
+August 21st we celebrate one of the biggest updates to a running production blockchain ever. 👇👇
+
+🎟 https://t.co/WahI5bx04b https://t.co/VVqqq5cwpj",65,0,15,2021-08-19
+1063,2021-08-20 08:51:51+00:00,1428640912876396548,LiskHQ,Lisk Mainnet Migration: 📱❌ - 🖥️ ✅.,88,1,21,2021-08-20
+1067,2021-08-21 14:03:39+00:00,1429081770432008197,LiskHQ,"@teztaclipoca, @anonimowy891, @bosshmelnytsky, @minionsdelegate, @Bamboozel1, @Cryptdong, @dekhunters, @risk22_, @korben32, @Guiops25. 
+
+Congrats, you are the winners of our #LiskMainnetMemes' competition 🏆 - each of you will receive $100 paid in $LSK. 🎉",11,1,6,2021-08-21
+1085,2021-08-24 12:06:10+00:00,1430139367406899201,LiskHQ,"Lisk documentation continues to evolve 📃.
+
+The improved documentation allows developers to quickly get started with the #Lisk SDK.
+
+◾️ Blockchain applications vs dApps
+◾️ Updated Getting started page
+◾️ Updated Introduction section
+◾️ Updated development guides",96,7,20,2021-08-24
+1088,2021-08-25 16:39:11+00:00,1430570463072292865,LiskHQ,"The Cross-Chain Update Transaction ⛓
+
+⚡️  We have just released a blog post covering an important transaction used to communicate information from one chain to another: the cross-chain update.",84,1,16,2021-08-25
+1092,2021-08-26 08:18:29+00:00,1430806844621078530,LiskHQ,"The new Lisk Mainnet was featured in an article by @newsbtc. 
+
+🗣 ""Did you know that with Lisk v3 you have an extremely secure new account address system, with built-in error detection for typos? No need for account initialization anymore.""
+
+👉 https://t.co/0B2f58Po7E https://t.co/voCrTOISNp",74,2,12,2021-08-26
+1095,2021-08-27 09:15:42+00:00,1431183629418471432,LiskHQ,"The new Lisk Mainnet v3 was featured in an article by @TheBlock__.
+
+🗣 ""Did you know that with Lisk v3 over 1,000,000 transactions can be processed every day? That is a vast increase of 5 times more than with the previous version.""
+
+https://t.co/hOrsVBNXj0 https://t.co/fkhQXqyUxK",71,2,13,2021-08-27
+1098,2021-08-28 14:54:06+00:00,1431631178793209859,LiskHQ,"Seven days after the migration #Lisk v3 has now a TVL of over $25M USD. The new delegate selection will kick in according to current calculations on Monday, so make sure to vote for your favorite delegates until then!
+
+https://t.co/B7TZxVP524
+
+More info: https://t.co/CZZ6cNGjyN https://t.co/DXeTwRkq3C",82,7,15,2021-08-28
+1099,2021-08-30 06:25:32+00:00,1432227970186371073,LiskHQ,"The Lisk Mainnet migration transition period is over. With that all delegate votes are counting and therefore a new delegate selection is live now. 🎉
+
+See all registered delegates: https://t.co/CZZ6cNGjyN 
+
+🔒 Current TVL is over $42,000,000 USD.",96,6,20,2021-08-30
+1101,2021-08-31 09:55:54+00:00,1432643301254049795,LiskHQ,"New TVL is &gt;13,250,000 LSK or &gt;$51,500,000 USD. 🔒
+
+The 101st active delegate requires a total vote weight of &gt;70,000 LSK. 🗳 https://t.co/f5ja08cx5h",80,12,14,2021-08-31
+1103,2021-09-01 13:32:39+00:00,1433060235787313153,LiskHQ,"@Johnstoday More information about Lisk's voting system here: https://t.co/IZiJDiSho6
+Learn more about voting in Lisk Desktop: https://t.co/IZiJDiSho6",3,0,0,2021-09-01
+1107,2021-09-02 08:43:07+00:00,1433349756898643968,LiskHQ,"⚙️ Here is the latest development progress update for the #Lisk project by Oliver Beddows (@Karmacrypto). 
+
+Want to stay up to date? Join our community on https://t.co/zcFgPgcpqU. https://t.co/uoURHEKiur",83,7,20,2021-09-02
+1110,2021-09-03 12:43:33+00:00,1433772653433741313,LiskHQ,"🗞 Cointelegraph published an article about the Lisk Mainnet v3 and the start of a whole new era for #Lisk.
+
+Read the entire article on @Cointelegraph.👇
+
+https://t.co/nZWUPM3eC1",125,13,31,2021-09-03
+1112,2021-09-06 11:56:37+00:00,1434848005958549504,LiskHQ,"New #Lisk v3 network statistics:
+
+New TVL is &gt;15,200,000 LSK or &gt;$68,000,000 USD. 🔒
+
+The 101st active delegate requires a total vote weight of &gt;95,000 LSK. 🗳️
+
+More details on: https://t.co/CZZ6cNGjyN https://t.co/0n7jovQ0pO",81,1,14,2021-09-06
+1115,2021-09-07 16:51:39+00:00,1435284641213206528,LiskHQ,"New LIP published 🌟
+
+🔎 ""Introduce BFT module""
+
+This LIP introduces the BFT module, which is responsible for maintaining the consensus participants, their BFT weights, and all information related to the consensus votes that have been cast as part of the block headers.",71,2,13,2021-09-07
+1116,2021-09-08 17:47:46+00:00,1435661152521003008,LiskHQ,"A new LIP ""Introduce chain registration mechanism"" was merged on GitHub. 
+
+https://t.co/PCF0DidLHe
+
+This LIP introduces the concept of chain registration in the Lisk ecosystem which is a necessary step to make a sidechain interoperable with the Lisk mainchain. 💡",76,7,23,2021-09-08
+1122,2021-09-10 09:04:13+00:00,1436254172354162701,LiskHQ,"🏦 We have just published the monthly #Lisk Financial Update. 
+
+Check out the blog post for more detailed information about Lisk Foundation's total assets, lending and buybacks, as well as all the expenditures of August 2021. 👇",96,5,22,2021-09-10
+1126,2021-09-13 12:40:23+00:00,1437395733817200641,LiskHQ,"Announcing #HackOnLisk2 🥁
+
+⚡️ Two categories: DeFi &amp; GameFi
+
+💰 $60,000 in prizes
+
+ 🖥️ Want to know more about #Lisk's online hackathon? 
+
+Read about it in the blog post 👇",82,4,26,2021-09-13
+1128,2021-09-14 10:17:50+00:00,1437722249075822592,LiskHQ,"This Thursday another #Lisk Community Meetup is hosted on https://t.co/zcFgPgcpqU. 🗣
+
+Join our community and find out everything about @jacksondotsh's experience of building with the Lisk SDK as part of #HackOnLisk. https://t.co/LnYMNmP4aH",61,2,15,2021-09-14
+1131,2021-09-15 08:55:15+00:00,1438063854362243072,LiskHQ,"Our CEO and Co-Founder, @maxkordek, was interviewed by @Cointelegraph. 🌟
+
+🗣 ""Our #Lisk blockchain is on the same level and in some cases even above our competitors in terms of security, stability, scalability, and usability.""
+
+👉 https://t.co/c4XTo1aX22",130,10,37,2021-09-15
+1133,2021-09-16 07:59:12+00:00,1438412135504171009,LiskHQ,"Here is the latest development progress update for the #Lisk project by our CTO &amp; Co-Founder, Oliver Beddows @Karmacrypto. 🏗
+
+Want to stay up to date? 
+
+Join our community on https://t.co/zcFgPgcpqU. https://t.co/3LXwH3X0Tr",86,5,18,2021-09-16
+1134,2021-09-20 11:21:29+00:00,1439912596195401730,LiskHQ,"#HackOnLisk2, will reward winners with $60,000 in prizes and ...
+
+🔥 Provide further funding worth up to 1.3M USD for selected participants through the Lisk Grant Program.
+
+https://t.co/HNH3Y8HOuv 👈 https://t.co/FbrYpH1oVH",61,3,18,2021-09-20
+1139,2021-09-21 07:51:16+00:00,1440222078179823616,LiskHQ,"The submission deadline for the blockchain applications is November 15th. 
+
+Not sure how to apply? Learn more below.
+
+#HackOnLisk2 #online #hackathon",72,2,21,2021-09-21
+1143,2021-09-22 10:49:06+00:00,1440629218782572557,LiskHQ,"Research AMA Announcement. ❎⛓️📨
+
+📖 #Lisk Research Scientists Alessandro Ricottone and Iker Alustiza will be hosting a live AMA covering the topic of our most recent blog post.
+
+Learn more about the salt and pepper of interoperability: cross-chain messages. 🧂",72,0,16,2021-09-22
+1150,2021-09-23 13:40:58+00:00,1441034861393944578,LiskHQ,"#ThrowbackThursday | #Lisk Mainnet v3.
+
+💸 Transactions are up to 98.64% cheaper; 
+
+👥 New DPoS consensus algorithm delivers a fairer network, new validators and no more cartels;
+
+🔒 Immutability (a transaction will never be reversed);
+
+📈 Better scalability than ever. https://t.co/X2ihl3E36W",325,5,33,2021-09-23
+1157,2021-09-24 13:55:33+00:00,1441400917278945283,LiskHQ,@wevalco It is 🙈💙,2,0,0,2021-09-24
+1168,2021-09-25 10:30:37+00:00,1441711734625079296,LiskHQ,@beincrypto 😳😳😳,14,1,0,2021-09-25
+1170,2021-09-27 16:17:14+00:00,1442523738994528260,LiskHQ,"Another Lisk Improvement Proposal merged on #Github. 💡
+
+LIP 0048, ""Introduce Fee module"" defines the fee system in a modular way, as currently used in the #Lisk ecosystem. 🪙",85,5,17,2021-09-27
+1175,2021-09-28 12:00:18+00:00,1442821466161098758,LiskHQ,"Starting in two hours.⏰
+
+Prepare your questions. Get ready. Ask our Research Scientists anything❗
+
+👉 https://t.co/xqpAQ9DXVD https://t.co/BVoEGuN0dy",56,0,13,2021-09-28
+1177,2021-09-29 07:42:56+00:00,1443119083923427328,LiskHQ,@beincrypto 👀,4,0,0,2021-09-29
+1182,2021-09-30 07:01:02+00:00,1443470930685177859,LiskHQ,"🏔️ September was yet another packed month for #Lisk. From important releases to the announcement of a new #hackathon with bigger prizes, and much more!
+
+Here’s your chance to explore our latest achievements. ✨",92,2,29,2021-09-30
+1188,2021-10-01 11:08:57+00:00,1443895706419335183,LiskHQ,"100+ participants already registered❗
+ ⚡ https://t.co/HNH3Y8HOuv
+
+▪️ Build your own blockchain application with the #Lisk #SDK in #JavaScript. #Blockchain applications should be submitted to either the #DeFi or #GameFi category. 
+
+▪️ $60,000 worth of prizes. 💰 https://t.co/3qJDwdlMB2",98,48,56,2021-10-01
+1190,2021-10-04 14:56:22+00:00,1445040101185163269,LiskHQ,"Learn how to create a blockchain application that offers a domain name service for blockchain accounts. 
+
+Check out the Lisk Name Service tutorial in the #Lisk Documentation. 👇",78,8,21,2021-10-04
+1193,2021-10-05 07:22:40+00:00,1445288314194571264,LiskHQ,"⚠️ New #Lisk v3 network statistics:
+
+New TVL is &gt;22,000,000 LSK. 🔒
+
+New minimum total vote weight required is &gt;155,000 LSK. 🗳️ https://t.co/CWFqYB3EM0",95,8,19,2021-10-05
+1195,2021-10-06 13:18:10+00:00,1445740165918461956,LiskHQ,@cz_binance 😳,41,2,2,2021-10-06
+1196,2021-10-07 10:07:29+00:00,1446054565497954306,LiskHQ,"Join us for a YouTube AMA with @maxkordek, CEO and Co-Founder of #Lisk. 💎
+
+🗓️ Monday, October 11th
+🕔 5PM CEST
+
+Set a reminder! 🔔 
+
+https://t.co/H2N9XgR1xz https://t.co/poN2tjHpYO",60,11,15,2021-10-07
+1203,2021-10-08 11:11:35+00:00,1446433086372290561,LiskHQ,@maxkordek @samanthawyap @YAPGlobalTeam bullish 🤞,19,0,2,2021-10-08
+1209,2021-10-11 08:39:07+00:00,1447481879654027267,LiskHQ,"Who's joining #Lisk's CEO and Co-Founder today at 5pm CEST? 
+
+💬 Ask @Maxkordek Anything, live on YouTube.
+
+🔔 Set a reminder so you don't miss it! https://t.co/0l2DmxREDU",82,14,22,2021-10-11
+1212,2021-10-12 15:34:58+00:00,1447948917992267777,LiskHQ,"We merged another LIP on Github! 🎉 
+
+👾 ""Introduce NFT module"" introduces an NFT module to be used in the Lisk ecosystem for creating, destroying NFTs, and transferring them in the ecosystem.
+
+https://t.co/bWts2xdBLV",96,0,29,2021-10-12
+1213,2021-10-13 18:43:20+00:00,1448358711005749253,LiskHQ,@iggredible Love that 💙,1,1,0,2021-10-13
+1219,2021-10-14 14:22:41+00:00,1448655503123357713,LiskHQ,"#ReleaseAlert 🚨 
+
+#Lisk Core v3.0.2 induces a hard fork to correct the extended unlocking period for voters. 
+
+➡️ https://t.co/3zVSP1aO4m https://t.co/XNAs6B0vlF",65,1,19,2021-10-14
+1223,2021-10-15 12:36:54+00:00,1448991268667801617,LiskHQ,@muuuko999 @CoinGeckoJapan 😳😳😳,4,0,0,2021-10-15
+1225,2021-10-17 21:00:51+00:00,1449842867359424519,LiskHQ,@binance 😳 https://t.co/OI8PZVvnWN,84,3,11,2021-10-17
+1226,2021-10-18 14:31:00+00:00,1450107146616676355,LiskHQ,"#Lisk incentivises its community every month by rewarding the most active members with $LSK. 
+
+➡️ https://t.co/zcFgPgcpqU. 🪙 https://t.co/2rtinSitGo",72,8,18,2021-10-18
+1228,2021-10-19 10:35:34+00:00,1450410289158098948,LiskHQ,"Never heard of #Lisk or the #Lisk SDK, but you would like to develop a project/business with #blockchain technology, and you know #Javascript and/or #Typescript? ✨
+
+➡️ https://t.co/G2sW81KTwR https://t.co/p9P2uRv44J",99,14,34,2021-10-19
+1231,2021-10-20 11:49:21+00:00,1450791245522087943,LiskHQ,@Insharamin https://t.co/URAC47WYsz 😳,1,1,0,2021-10-20
+1238,2021-10-21 14:00:16+00:00,1451186575530815498,LiskHQ,"Want to learn more about fungible tokens and their uses in the Lisk ecosystem?
+
+#Lisk Research AMA - Oct 27th, 5pm CEST 🚨
+
+➡️ https://t.co/iad2hDuGj6 https://t.co/fuwKeTUndG",63,5,13,2021-10-21
+1242,2021-10-22 15:27:08+00:00,1451570825308561412,LiskHQ,"#Lisk community knows best. 💙
+
+➡️ https://t.co/zcFgPgcpqU https://t.co/epDl56258l",95,9,28,2021-10-22
+1247,2021-10-23 16:08:33+00:00,1451943637298860041,LiskHQ,Powered by #Lisk ⚡️ https://t.co/N8Cy7nHFym,75,2,14,2021-10-23
+1249,2021-10-25 08:59:59+00:00,1452560561900769280,LiskHQ,👀 https://t.co/HaP5CCxU9e,93,8,14,2021-10-25
+1251,2021-10-26 09:24:13+00:00,1452929047495839744,LiskHQ,"#Lisk Service v0.5.0-rc.0 | Release 🔧
+
+This version includes several improvements and introduces a news feed feature that aggregates updates from the official #LiskBlog . 📰 
+
+➡️ https://t.co/ue5pdxXyPR https://t.co/6xrDsQ9hNx",81,0,20,2021-10-26
+1254,2021-10-27 11:11:57+00:00,1453318546277154824,LiskHQ,"#Lisk Research AMA starts in less than 3 hours. 
+
+🔔 Set a reminder and learn more about #fungible #tokens and their uses in the Lisk ecosystem.
+
+Who‘s joining? 🤚 
+
+https://t.co/iad2hDMhHG",78,6,22,2021-10-27
+1259,2021-10-28 12:12:48+00:00,1453696246800130054,LiskHQ,💎 https://t.co/26QJypCfS2,79,6,11,2021-10-28
+1261,2021-10-29 15:40:25+00:00,1454110882531880967,LiskHQ,"Lisk is alive, and on fire. 🔥
+
+Please join us for a special and exciting #LiskEvent. Watch online and in-person. December 2, 6pm CET.
+
+#LiskIsOnFire #AmpliFire",210,41,67,2021-10-29
+1265,2021-11-01 10:17:30+00:00,1455116784357548039,LiskHQ,"#Lisk Improvement Proposal merged on Github.
+
+📃 LIP 0055 “Update block schema and block processing” changes the structure of a block, introducing the assets property alongside the block header and transactions.
+
+https://t.co/1kT0lnnBrp https://t.co/kbRQacWWS2",92,5,19,2021-11-01
+1268,2021-11-02 10:34:16+00:00,1455483389239246851,LiskHQ,"Last week, $LSK was listed on Indonesia's biggest cryptocurrency exchange. 
+
+Here's more details of the listing. ⬇️",154,7,33,2021-11-02
+1272,2021-11-03 14:15:08+00:00,1455901359321100291,LiskHQ,"#Lisk is proud to announce yet another selected and enrolled start-up eligible to receive funding through the #LiskGrantProgram. 💳
+
+Meet @doEduHQ, a blockchain based educational platform powered by #Lisk. 🧠 
+
+https://t.co/XfYoNbSuhG https://t.co/DD90gOQul9",107,8,35,2021-11-03
+1276,2021-11-04 12:38:42+00:00,1456239482034864131,LiskHQ,@hackernoon 🙏,1,0,0,2021-11-04
+1279,2021-11-05 14:55:29+00:00,1456636290569547781,LiskHQ,"1️⃣0️⃣ days to submit! #HackOnLisk2 ⏰
+
+💰 $60,000 in prizes
+
+💳 Up to $1.3M in further funding
+
+🧑‍⚖️ Judging panel includes @binance, @salesforce, @WeAreDevs, @DappRadar and more! 
+
+➡️ https://t.co/HNH3Y8HOuv https://t.co/TeEPIoK3Gv",71,0,25,2021-11-05
+1289,2021-11-06 12:45:40+00:00,1456966008179146754,LiskHQ,@SmartCryptoNew1 @crosswisefi @TempusFinance @rangersprotocol @KyberNetwork @unboundfinance @horizenglobal @GameStationIO #LiskArmy 💙🪖,3,0,0,2021-11-06
+1291,2021-11-07 11:47:00+00:00,1457313634510594059,LiskHQ,@matrix_jez1 @DappRadar 🔥💨🐲,8,1,1,2021-11-07
+1292,2021-11-08 08:49:19+00:00,1457631304653103108,LiskHQ,"🟢 Social Volume +110.2%
+🟢 Social Engagement +229.6%
+🟢 Social Dominance +152.9%
+
+#SocialMetrics @LunarCRUSH",116,5,35,2021-11-08
+1297,2021-11-09 13:50:35+00:00,1458069508833300480,LiskHQ,"AmpliFire – An Event by Lisk, featured on @newsbtc.
+
+https://t.co/8b0zilztsL",97,4,30,2021-11-09
+1301,2021-11-10 10:12:19+00:00,1458376970778161155,LiskHQ,"🎄 Learn how blockchain works in its simplest form with a little story about a boy called Jacob.
+
+#Lisk #Throwback #BlockchainEducation",635,18,83,2021-11-10
+1310,2021-11-11 18:04:32+00:00,1458858193640173569,LiskHQ,"We have just published the monthly #Lisk Financial Update. 💰
+
+Check out the blog post for more detailed information about Lisk Foundation's total assets, lending, and buybacks, as well as all the expenditures of October 2021. 👇",94,7,27,2021-11-11
+1313,2021-11-12 19:31:50+00:00,1459242553065234442,LiskHQ,@fgtv97 @BlaineMono_Lisk @maxkordek @coinbase 💙👍🏻,4,0,0,2021-11-12
+1314,2021-11-14 10:26:47+00:00,1459830161910771712,LiskHQ,@PortableViktor @prince15207 @AdelereEunice @narthbest 🙌💙,0,0,0,2021-11-14
+1315,2021-11-15 08:16:37+00:00,1460159792685715459,LiskHQ,@enevtihq #PoweredByLisk ⚡,9,0,0,2021-11-15
+1324,2021-11-16 20:40:19+00:00,1460709336263573504,LiskHQ,"@mmafightinghis1 @CrptoMiguel @mmafightinghis1 @babydogetroll
+
+On the past 28 days alone, our Twitter alone account has received 3M impressions.
+
+DAILY avg 📊
+🔹200 link clicks
+🔹100 retweets
+🔹300 likes 
+🔹50 comments
+
+Join https://t.co/zcFgPgcpqU for more insights. ✌🏻💙",16,0,7,2021-11-16
+1339,2021-11-17 12:26:31+00:00,1460947458629017600,LiskHQ,"Looking for an easy way to share our upcoming event #AmpliFire? Check out the link below.
+👇 👇 👇 
+https://t.co/KAOt72mfDA https://t.co/mUhfWLFPMl",75,4,26,2021-11-17
+1343,2021-11-18 09:15:52+00:00,1461261864663457794,LiskHQ,"200,000 followers. 💎🚀
+
+A big thank you to everyone supporting #Lisk in our journey to make blockchain accessible to everyone. https://t.co/SWJNxIYl9r",163,29,71,2021-11-18
+1345,2021-11-19 13:36:39+00:00,1461689883223859207,LiskHQ,"#LiskGiveaway update. 📌
+
+📌 We added three new tasks for those looking for a bigger chance to win $1000 in $LSK &amp; 🎟 for @WeAreDevs #javascript congress. 🍀
+
+➡️ https://t.co/CZLFJZyGkI https://t.co/jHZFUHld3j",55,3,20,2021-11-19
+1348,2021-11-20 11:46:55+00:00,1462024653497683978,LiskHQ,Gm #Lisk community 👋 💙,134,13,26,2021-11-20
+1349,2021-11-22 16:07:08+00:00,1462814917455659023,LiskHQ,@huggisbart @0xIshan @moral_haphazard @CicmilJovan @PrasoonPratham Facts 🤓 @0xIshan @huggisbart,1,0,0,2021-11-22
+1352,2021-11-23 10:15:05+00:00,1463088708844986372,LiskHQ,@DxV991 Absolutely not 🤓,0,1,0,2021-11-23
+1358,2021-11-24 11:31:37+00:00,1463470355092320259,LiskHQ,@CrptoMiguel @github What continuous development looks like 🤓💙,17,1,6,2021-11-24
+1365,2021-11-25 16:53:46+00:00,1463913817646194694,LiskHQ,@Disodium 😳,2,0,0,2021-11-25
+1374,2021-11-26 17:25:05+00:00,1464284082494443526,LiskHQ,"Lisk Desktop v2.2.0-beta.0 out now! ✨
+
+This version includes a number of exciting new features including the Ledger hardware wallet support, design improvements, and the Bitcoin support removal. 🔍 👇",104,13,27,2021-11-26
+1381,2021-11-29 14:13:23+00:00,1465323004523593733,LiskHQ,Lisk is partnering w/ @Ledger to give away 1️⃣0️⃣0️⃣ #Lisk branded #LedgerNanoS + $1000 in $LSK.,320,115,292,2021-11-29
+1389,2021-11-30 09:51:56+00:00,1465619595432275973,LiskHQ,"Only two days left until #Amplifire. 🔥
+
+To revisit our Research roadmap as well as to provide an insightful look into what the future holds for Lisk Research, Jan Hackfeld, Ph.D. will take the stage on December 2nd. 🌌
+
+👉 https://t.co/KAOt72mfDA https://t.co/H9oz3uHInJ",95,5,18,2021-11-30
+1396,2021-12-01 21:12:00+00:00,1466153128408100864,LiskHQ,"💡 #LIP0056 specifies the properties of the #DPoS module. Furthermore, we specify the state transitions logic:
+
+1⃣ commands
+2⃣ protocol logic
+3⃣ functions that can be called from other modules / off-chain services
+
+Check it on GitHub: https://t.co/j1sbwCBIMX 
+
+#Lisk #LIP #LiskSDK https://t.co/2KzDrUyrnz",75,4,10,2021-12-01
+1401,2021-12-02 19:19:29+00:00,1466487202804903940,LiskHQ,"#Lisk 2021 main achievements:
+
+✅ Completed the Lisk Interoperability Solution research
+✅ Migrated to Lisk v3
+✅ Organized HackOnLisk, HackOnLisk2, Lisk.js &amp; #AmpliFire https://t.co/Hz5EdJ5t2j",57,2,12,2021-12-02
+1445,2021-12-03 10:30:00+00:00,1466716340404637702,LiskHQ,"We've merged #LIP0058 on GitHub 💡
+
+👉 It introduces the #BFT module, which is responsible for maintaining the consensus participants, their BFT weights, and all information related to the consensus votes 💻
+
+Check out more: https://t.co/g1GuC6NLs0
+
+#Lisk #LiskImprovementProposal https://t.co/dv5sgvKgCN",50,5,6,2021-12-03
+1448,2021-12-06 11:00:48+00:00,1467811254370717700,LiskHQ,"In half an hour we will giveaway 5 exclusive #AmpliFire NFTs. 🔥
+
+👉 https://t.co/zcFgPgcpqU 
+
+Join now. Act fast 🖱💨",60,7,11,2021-12-06
+1455,2021-12-07 07:57:26+00:00,1468127497657405443,LiskHQ,#Lisk,143,14,23,2021-12-07
+1460,2021-12-08 10:49:00+00:00,1468533062334099459,LiskHQ,"#Lisk Blockchain in 2 mins - EatTheBlocks
+
+https://t.co/z3CiRt09DB",89,0,24,2021-12-08
+1465,2021-12-09 21:20:00+00:00,1469054244397453313,LiskHQ,"It's time for one more AmpliFire-related piece of content for you! 🔥
+
+We've prepared a summary of the most important announcements and plans for #Lisk in 2022! 
+
+👉 Check it out: https://t.co/rfWGZ0dgj0
+
+#AmpliFire #interoperability #LiskSDK #LiskPlatform $LSK",77,7,49,2021-12-09
+1470,2021-12-10 09:47:29+00:00,1469242354901135361,LiskHQ,@News1Lead @SecretNetwork @moonrabbitAZ @vEmpiredigital 💙,1,0,1,2021-12-10
+1473,2021-12-13 10:48:33+00:00,1470344887891636230,LiskHQ,@FMFW_io 😇,2,1,0,2021-12-13
+1479,2021-12-14 07:51:00+00:00,1470662592146382849,LiskHQ,"Let's recap some #AmpliFire partnership announcements 🤝
+
+#Lisk x @DappRadar – in 2022 we'll be included in DappRadar as one of the best platforms to build #dapps on 💪 https://t.co/gitElFmDy9",126,7,27,2021-12-14
+1482,2021-12-15 15:17:11+00:00,1471137267863457792,LiskHQ,"🎮🕹️Play to win $750 in #LSK &amp; an exclusive #AmpliFire NFT.
+
+➡️ https://t.co/qiUf9bVHiV
+
+⏰ Competition ends in 24 hours❗ https://t.co/hPdb8s2trS https://t.co/ovnNSvU1YI",53,6,18,2021-12-15
+1487,2021-12-16 14:32:45+00:00,1471488474763042824,LiskHQ,"#Lisk is hosting its next AMA on December 20th, 5pm CET w/ @maxkordek, CEO &amp; Co-Founder.
+
+🗓️ Save the date! 
+
+Get ready to Ask Max Anything! 💬
+
+https://t.co/Ywmf3jzjUn",78,9,15,2021-12-16
+1488,2021-12-17 09:48:49+00:00,1471779407958261764,LiskHQ,"🔥 Over 100 submissions already
+🏅 4 awards
+💰 $1000 LSK in the prize pool
+
+So, have you already created your #Liskmas meme? 🤔
+
+Christmas is coming, so we’re excited to check it out 👀
+
+Remember to post it on Twitter until the 21st of December ⏰ https://t.co/SVHCp4E9hJ",54,4,11,2021-12-17
+1490,2021-12-20 10:22:29+00:00,1472875042895761410,LiskHQ,"It's today! 🎉
+
+@maxkordek will meet you all and answer your questions during the last Ask Max Anything (AMA) in 2021 🎄
+
+👉 AMA starts at 5 PM CET, don't forget to join our stream: https://t.co/kKMjaqLUyC",71,9,15,2021-12-20
+1492,2021-12-21 06:36:18+00:00,1473180511333928963,LiskHQ,"Christmas #NFTGiveaway🎄
+
+🗓️ #Lisk is giving away 5 exclusive collectibles PER DAY until December 25th.
+
+🎁 DAY 1 🎁
+
+✅ Follow + Like + Retweet + Com
+
+🕛 CET 22/12 9h 🕛 https://t.co/eNbUgOjvPO",268,212,209,2021-12-21
+1494,2021-12-22 11:39:03+00:00,1473619088484225028,LiskHQ,"OFFICIAL: #Lisk accepted as @discord partner.
+
+The #discord partner program distinguishes the best servers out there. As role models to all of Discord. 
+
+Join our recognized community ⭐
+
+➡️ https://t.co/zcFgPgcpqU https://t.co/qf920amOr8",124,7,36,2021-12-22
+1497,2021-12-23 07:55:00+00:00,1473925089674424323,LiskHQ,"Winners 🏆
+• @Jvyv5O6BjOaWIju
+• @Jakub59192156
+• @ZL45407610
+• @ebifu222
+• @BreizhDenis
+
+✔️ CHECK DM ✉️",15,3,6,2021-12-23
+1500,2021-12-24 07:55:00+00:00,1474287477477101569,LiskHQ,"Winners 🏆
+• @bosshmelnytsky
+• @jandverg
+• @BlaineMono_Lisk
+• @Godeye99292421
+• @kurz4um
+
+✔️ CHECK DM ✉️",14,6,4,2021-12-24
+1502,2021-12-25 14:00:03+00:00,1474741733149876231,LiskHQ,"#Lisk's CEO &amp; Co-Founder @MaxKordek celebrates his special day today.
+
+Happy Birthday, Max! 🥳 🎂 https://t.co/DDR6OInWZD",92,20,16,2021-12-25
+1506,2021-12-26 13:42:29+00:00,1475099703238930434,LiskHQ,"Winners 🏆
+• @maciekwyso
+• @airdropfromtana
+• @cryptochaky
+• @SebastienJambou
+• @komosaserg
+
+✔️ CHECK DM ✉️",22,12,2,2021-12-26
+1507,2021-12-27 16:44:43+00:00,1475507949959327746,LiskHQ,"Lisk is looking for entrepreneurs and developers.
+🔹#Lisk #GrantProgram up to $1.3 million funding.
+
+🌊3️⃣ ends on Dec 31st | APPLY NOW
+
+https://t.co/dNmd4oKUJf https://t.co/77IBSpQ8nL",91,12,25,2021-12-27
+1508,2021-12-28 14:34:54+00:00,1475837669234126848,LiskHQ,"Expanding the #LiskEcosystem 🏗️
+
+💳 Funding: Up to $1.3 million.
+
+How to apply | REQUIREMENTS
+  ✅ Teams w/ a JS developer
+  ✅ Start-up spirit
+  ✅ A business plan
+  ✅ Open-source
+
+👉 https://t.co/dNmd4oKUJf
+
+#Javascript #Typescript #Grant #BlockchainTechnology #Funding https://t.co/stoTJ8GyXf",95,9,67,2021-12-28
+1509,2021-12-29 13:52:34+00:00,1476189403857006594,LiskHQ,"⭐ #Lisk Community Awards⭐
+
+Today, Lisk is rewarding its community with $4000 in #LSK tokens!
+
+🕕 6pm CET 🕕
+
+🎁 During the livestream we will also giveaway 1 rare and exclusive #AmpliFire #NFT.
+
+✅ Follow, Like, Retweet, Com
+
+👉 https://t.co/NeEoAf7jBc https://t.co/X8QQ1aXSb1",164,76,97,2021-12-29
+1511,2021-12-30 17:13:39+00:00,1476602393731248129,LiskHQ,"✅ From the successful and largest network migration...
+
+... to the hosting of a brand new blockchain event 🏅
+
+Our new blog post covers the highlights of the past 12 months for #Lisk
+
+👉 Check it out: 
+https://t.co/tAGqCVxZtf
+
+#YearInReview #LiskEcosystem #LSK #AmpliFire",83,53,27,2021-12-30
+1512,2022-01-04 12:24:13+00:00,1478341495296045061,LiskHQ,"👀 @TheBlock__ has some wise words about Lisk's growth and development in 2021 📈
+
+👉 Check it out: https://t.co/MjYmXzvqyg
+
+#Lisk #YearInReview #LiskEcosystem #AmpliFire",62,7,23,2022-01-04
+1518,2022-01-05 15:24:57+00:00,1478749364591992837,LiskHQ,"It’s time for the first Lisk Project Development Progress Update in 2022 👀
+
+💡 We have a bunch of valuable dev insights provided by our CTO &amp; Co-founder, Oliver Beddows.
+
+👉 Check it on our discord at: https://t.co/zcFgPgcpqU (or scan the QR code).
+
+#Lisk #LiskProject #LSK https://t.co/ZUOR8LUT2R",65,11,12,2022-01-05
+1521,2022-01-06 12:27:24+00:00,1479067071942115334,LiskHQ,"Lisk Army Contest | JANUARY EDITION 🪖
+
+💰 Reward: 200 #LSK tokens 💰 
+
+Want a head start? 🙌
+https://t.co/UplT1tVafv https://t.co/OWJsFRoLhm",100,24,35,2022-01-06
+1522,2022-01-10 16:45:25+00:00,1480581557572317188,LiskHQ,"Stop wasting your ideas❗
+
+#Lisk Grant Program | WAVE 4 🌊 
+
+$1.3million+ in funding. Apply now.
+
+Catch the wave. 🏄
+https://t.co/dNmd4oKUJf https://t.co/EyIok6oddH",104,23,34,2022-01-10
+1523,2022-01-11 07:00:01+00:00,1480796621541683204,LiskHQ,"Fortune India named #Lisk one of the best crypto bets in 2022. 🪙🇮🇳
+
+https://t.co/DWmW6j4ifK https://t.co/7479yxxeZ5",132,15,47,2022-01-11
+1524,2022-01-13 13:34:07+00:00,1481620575609106432,LiskHQ,"A quick start to blockchain ✅
+
+🔹With #Lisk, everything is being written in #JavaScript and #TypeScript;
+
+🔹The modular design of our SDK enables you to build any kind of #blockchain use-case.
+
+Your blockchain journey starts now. Hop in.
+🚙 https://t.co/ajq5h8FzHw https://t.co/6XJtMnl5AO",159,40,125,2022-01-13
+1526,2022-01-18 10:05:12+00:00,1483379940485734401,LiskHQ,"Powered by #Lisk 
+
+And if you want to join the growing list of apps built on Lisk, check out the next wave of our Grant Program 🌊
+
+💰 $1.3million+ in funding waiting for you 
+
+👉 Apply now: https://t.co/dNmd4oKUJf https://t.co/p0lKu70jrY",71,6,15,2022-01-18
+1527,2022-01-19 10:52:44+00:00,1483754290586001408,LiskHQ,"Our CTO and co-founder, Oliver Beddows, has just provided the second development update in 2022 💡
+
+Check out the #developersannouncements channel on our https://t.co/9o6d38hE9d community discord or scan the QR code below to get to know more ⬇️
+
+#Lisk #LiskEcosystem #update https://t.co/bwErUsDXR8",77,7,20,2022-01-19
+1528,2022-01-20 12:01:25+00:00,1484133961840607232,LiskHQ,"It's time to release Lisk Service v0.6.0 💡
+
+It introduces an export functionality that allows users to download account transaction history in the CSV format 📋
+
+▶️ You can find more info about Lisk Service v0.6.0 on our GitHub: https://t.co/vxeMvXUP6g
+
+#Lisk #LiskService #LSK https://t.co/6OuXldDGDB",81,23,20,2022-01-20
+1529,2022-01-24 16:04:10+00:00,1485644607128055813,LiskHQ,"How #blockchain technology can help the public sector? 🏛
+
+And how Lisk can help you in building governmental blockchain applications? 💡
+
+▶️ Learn more at: https://t.co/AGezOQf5Nj
+
+#blockchainapp #LiskProject #LiskSDK",58,6,16,2022-01-24
+1530,2022-01-25 08:27:07+00:00,1485891971696795659,LiskHQ,"What is interoperability &amp; how to achieve it.
+#blockchain #Interoperability #explained
+
+➡️ https://t.co/jke3okDB1S
+
+P.S. Did you know there are different types of interoperability? https://t.co/lph8PALwJu",75,7,21,2022-01-25
+1531,2022-01-26 15:39:53+00:00,1486363269652746243,LiskHQ,"Exciting news! 🎉
+
+Lisk Mobile is making a return. Soon to arrive on iOS &amp; Android.
+
+✅ Intuitive design
+✅ ​Refreshed UX
+✅ ​More to be revealed!
+
+Access your $LSK like never before. Stay tuned. https://t.co/aRjoQKZTP4",130,9,35,2022-01-26
+1534,2022-01-27 08:56:32+00:00,1486624150135390211,LiskHQ,@javascriptual 👀,1,0,0,2022-01-27
+1536,2022-01-28 13:26:04+00:00,1487054370470567941,LiskHQ,"@Ledger ✅ $LSK prizes have been sent! ($2000) 
+
+(https://t.co/6b2ltcaKcS) https://t.co/BXIu1LmiO3",31,14,7,2022-01-28
+1539,2022-01-31 14:30:56+00:00,1488157856612368391,LiskHQ,"How to democratize e-signature using blockchain technology. - @theidntty 🔐
+
+https://t.co/D6WP0Vf0sH 
+
+#PoweredByLisk #LiskEcosystem ⚡️",68,2,21,2022-01-31
+1542,2022-02-01 11:28:47+00:00,1488474405596454913,LiskHQ,"We are happy to announce the release of Lisk Desktop v2.2.0! 🎉
+
+This version:
+
+✅ reinstates the Ledger hardware wallet support
+✅ removes Bitcoin support
+✅ introduces multiple design improvements
+
+📋 You can check more details here: https://t.co/ewhDJ6X6wD
+
+#Lisk #LiskDesktop https://t.co/RYVydO1x64",89,3,29,2022-02-01
+1544,2022-02-02 10:47:25+00:00,1488826381836427267,LiskHQ,"We have a new research piece of content on #Lisk Blog 👀
+
+Alessandro Ricottone Ph.D., our Research Scientist, decided to explore topics of:
+
+#sidechains
+#crosschainmessages
+#interoperability
+
+👉  Check it out: https://t.co/9cWboARf1s",55,2,13,2022-02-02
+1545,2022-02-03 17:45:06+00:00,1489293886619013128,LiskHQ,"""What is #Lisk"". An article by @AltCoinLog (@klimedima) for our Russian community. 
+
+🇷🇺✍️ https://t.co/d4EiPm2G10 https://t.co/RworeuKasC",54,0,8,2022-02-03
+1546,2022-02-04 16:43:30+00:00,1489640769552064517,LiskHQ,"Lisk Mobile was submitted for the iOS and Android review 🎉
+
+We will inform you once the review process is completed ✅
+
+It's happening. You will be able to easily access your LSKs on smartphones really soon 📱
+
+#Lisk #LiskMobile #LiskEcosystem https://t.co/S7lDd8Kzgr",127,13,38,2022-02-04
+1547,2022-02-07 10:03:37+00:00,1490627298856513536,LiskHQ,"@kushagrasarathe @CrptoMiguel Hi @kushagrasarathe 👋
+
+Check DM 📧",0,0,0,2022-02-07
+1549,2022-02-08 18:04:11+00:00,1491110627867504640,LiskHQ,"@CoinMarketCap, we would like to register one https://t.co/VGtgZgKCHt email address to manage Lisk's self-reporting dashboard on CoinMarketCap.
+
+Note: This tweet is for verification purposes only.",10,0,0,2022-02-08
+1551,2022-02-09 13:08:08+00:00,1491398511459733504,LiskHQ,@PazAcabou good luck 🤞🍀,1,1,0,2022-02-09
+1555,2022-02-10 13:06:29+00:00,1491760483040477191,LiskHQ,"Deposits, withdrawals, and trading of $LSK are now available on #Bittrex!
+
+#LSK can be traded with #Tether (LSK/USDT) and #Bitcoin (LSK/BTC). https://t.co/3QgeIFaToJ",131,18,40,2022-02-10
+1558,2022-02-11 12:31:24+00:00,1492114041459953666,LiskHQ,"Starting in 30mins... 🗣️🔥
+
+Join #Lisk's CEO and Co-Founder, Community Manager, and Frontend Developer on our first #twitterspace. 
+
+https://t.co/pLEEskAON5",87,6,21,2022-02-11
+1560,2022-02-12 12:24:45+00:00,1492474756788072451,LiskHQ,"🪂 Airdrop contest is now over 🪂 
+
+Winners to be announced on Monday. 💰 
+
+Follow @LiskHQ and be the first to find out about our next competitions! 👁️ https://t.co/fJQgqydLtl https://t.co/7t2K35cUnq",86,15,24,2022-02-12
+1561,2022-02-14 11:28:30+00:00,1493185377624072197,LiskHQ,"❔What are blockchain applications❔
+
+▫️ A blockchain application is a dApp built on its own native blockchain. 
+
+▫️  Instead of utilising smart contracts all features are developed right into the protocol of said blockchain.
+
+#Lisk #LSK #BlockchainEducation #Crypto https://t.co/YQVmn5SP5G",85,5,27,2022-02-14
+1566,2022-02-15 11:35:40+00:00,1493549568109199364,LiskHQ,@SimonHoiberg Same! 💙🤩 https://t.co/LuR7TzB96I,5,0,0,2022-02-15
+1568,2022-02-16 12:41:31+00:00,1493928528408203265,LiskHQ,"#Lisk x @Ledger shipping continues. 🚚
+
+🇩🇪 Back in the office, and back on track.
+
+🌎 Good news! - Subject to your location, we are expecting you to receive the ledger by next week. https://t.co/0uTezHXR4K",96,14,24,2022-02-16
+1570,2022-02-18 13:32:12+00:00,1494666056945786881,LiskHQ,"🎨 Emoji contest announcement 🎨
+
+🎁 We are offering $1000 to the best personalized #Lisk emojis!
+
+Participate now:
+👉 https://t.co/svmO8x6Vfz
+
+⏱️Feb 18th - Feb 28th.
+
+💸 Extra $100 to one person who ❤️ + RT. https://t.co/dIkhi5fsgS",169,42,117,2022-02-18
+1571,2022-02-21 14:46:23+00:00,1495771889310081046,LiskHQ,"New #Lisk listing – we are now available on @HuobiJapan_Ex.
+
+You can trade $LSK with #Bitcoin (LSK/BTC), #Ethereum (LSK/ETH), and Japanese Yen (LSK/JPY).
+
+And a huge arigatō gozaimasu to our @liskjapan  community! 🇯🇵 https://t.co/tLMbDagnty",148,9,50,2022-02-21
+1572,2022-02-22 13:00:41+00:00,1496107676564176901,LiskHQ,"🎁 Win $1000 🎁
+
+How❓- Simply send us a personalized #Lisk emoji. 
+
+Here, we got you 👉 https://t.co/svmO8x6Vfz https://t.co/OQbgjJ7BDq",44,3,18,2022-02-22
+1576,2022-02-23 09:43:24+00:00,1496420416126132229,LiskHQ,@MidouAmiar 🧟‍♂️,1,0,0,2022-02-23
+1579,2022-02-24 19:53:12+00:00,1496936265278705672,LiskHQ,"Certificates serve as the key to making Lisk’s interoperability safe and secure 🔐
+
+Therefore, in the new article we take a closer look at them and explain:
+
+✅ their essence
+✅ generation process
+✅ their connection to the consensus protocol
+
+👉Read more: https://t.co/3NbJJLj2NY",52,5,16,2022-02-24
+1581,2022-02-25 13:22:40+00:00,1497200375874600967,LiskHQ,🔥 Listing announcement 🔥 https://t.co/ny4B7nIv9g,142,23,45,2022-02-25
+1582,2022-02-28 09:27:39+00:00,1498228392516366341,LiskHQ,"#Binance Opens Deposits and Withdrawals for $LSK
+
+@LiskHQ 🤝 @Binance https://t.co/vlVjrSLwzd",162,11,54,2022-02-28
+1586,2022-03-01 15:48:35+00:00,1498686646069387265,LiskHQ,"Emoji Contest | WINNERS 🎉
+
+🇮🇳 Jatin 
+🇵🇱 Hubert 
+🇧🇷 Guilherme 
+🇩🇪 Cryptdong 
+🇸🇾 Billos
+🇳🇴 Janen
+🇵🇱 Anonimowy 
+🇺🇦 Sergey
+🇵🇱 Piotr
+🇵🇹 Tiago https://t.co/OQbgjJ7BDq https://t.co/pfs5hF4vnB",61,7,16,2022-03-01
+1587,2022-03-02 18:21:04+00:00,1499087407874031618,LiskHQ,@Lisk_Kun This is so cool @Lisk_Kun 💙💙💙,3,0,0,2022-03-02
+1590,2022-03-03 10:06:15+00:00,1499325272725807110,LiskHQ,"▶️ How to build and scale the team around the blockchain project?
+▶️ What are the hardest lessons learned?
+▶️ And how to prepare the team for any challenge?
+
+Max Kordek, Lisk CEO and co-founder, answers all of these questions (and a couple more) 👇
+
+https://t.co/5QxWXY2aEw",63,1,18,2022-03-03
+1592,2022-03-07 11:20:05+00:00,1500793404187418628,LiskHQ,"[Lisk x Ledger] hardware wallets' status. 🚚
+
+🟢 Stay up to date. Join https://t.co/zcFgPgcpqU 👈 https://t.co/Q3RTflO5Rb",60,4,12,2022-03-07
+1595,2022-03-09 17:05:16+00:00,1501605048857546755,LiskHQ,"A glimpse of the future. 💎
+
+Lisk bridges will produce the final version of the Lisk blockchain application platform, offering interoperability with other blockchain ecosystems. 
+
+Which 🌉 shall we consider first❓👇",89,11,33,2022-03-09
+1597,2022-03-10 17:27:41+00:00,1501973075486720005,LiskHQ,"The monthly Lisk Financial Update has been published! 📑 
+
+Take a look and learn more about the Lisk Foundation's assets, lending, buybacks, and all the expenditures in February 2022 💰
+
+You can find it here 👇 https://t.co/slKw2Mb3nO",64,2,12,2022-03-10
+1598,2022-03-11 11:44:26+00:00,1502249081376231427,LiskHQ,"Wednesday, 16th. 🔔💙
+
+https://t.co/9aySW6ek4Y",65,4,14,2022-03-11
+1599,2022-03-15 13:57:12+00:00,1503732045176098824,LiskHQ,"The new version of the Lisk Mobile – v2.1.0 has just been released! 🎉
+
+It fixes:
+
+✅ error messaging
+✅ minimum balance-related problems
+✅ decimal separators
+
+▶️ To check changes in more detail, visit:  https://t.co/edzZVKHzCp https://t.co/ckemuBwFo4",35,1,7,2022-03-15
+1600,2022-03-16 08:31:18+00:00,1504012418082648065,LiskHQ,"We released the Lisk Service 0.6.2! 💡
+
+This version:
+
+🇨🇭 updates the Swiss Franc price ticker
+📋 includes several patches related to the delegate lists
+✅ improves the code quality
+
+For more details, please read the release notes: https://t.co/Ql9ZCgzXGr https://t.co/C5YuEpqUGK",42,2,7,2022-03-16
+1604,2022-03-19 11:15:14+00:00,1505140836731916288,LiskHQ,"$1.3M of funding is still available in the Lisk Grant Program 💰
+
+⏰ However, the current wave and edition of the initiative are coming to an end. Accelerate your ideas by joining the program before March 31st!
+
+Read more in the article by DappRadar 👇
+
+https://t.co/CApufPS5Bc",64,6,20,2022-03-19
+1605,2022-03-21 13:59:59+00:00,1505907075049787395,LiskHQ,"Marketing Hangout starts now. 
+
+https://t.co/9aySW6ek4Y",30,0,5,2022-03-21
+1608,2022-03-22 13:40:21+00:00,1506264521274449922,LiskHQ,"Enjoy the chance to receive a 66,000 USD grant (paid in LSK tokens) to build your own blockchain application on the Lisk platform.
+
+And don't forget that the total amount available 1.3 mil USD 😉
+
+Apply before March 31!
+
+#Lisk #blockchain #applications #develop #grant https://t.co/mmEcW7GcIy",63,2,14,2022-03-22
+1610,2022-03-23 10:54:20+00:00,1506585128759435266,LiskHQ,"Recently, Shusetsu Toda, our Head of SDK Development, joined the AMA with DappRadar to talk about:
+
+💰 Lisk Grant Program
+💡 Lisk SDK
+📈 The future of the blockchain space
+
+… and many more topics!
+
+Now you can check out the full stream video👇
+https://t.co/3Y4bBbcTEG",49,0,15,2022-03-23
+1612,2022-03-24 12:43:22+00:00,1506974954356678661,LiskHQ,"“Lisk SDK really gave us the chance to become blockchain application developers and not just smart contract developers.”
+Aldo Suhartono Putra, the CEO of https://t.co/k8AatLbqgR
+
+🌟 Apply for the Lisk Grant Program now!
+https://t.co/dNmd4oKUJf
+
+#Lisk #poweredbylisk #apps https://t.co/5uj2zJxuNn",47,4,11,2022-03-24
+1615,2022-03-25 11:39:51+00:00,1507321358287622161,LiskHQ,"💰 $2000 SLOGAN CONTEST💰 
+
+📋 It's simple:
+✅ Enter: https://t.co/ZT78anyKOF
+✅ Submit your Lisk slogan 👆
+✅ RT + ❤️ + Tag 3 friends
+
+⏱️ Clock is ticking! ⚡ https://t.co/rq8vsz7ad8",124,64,88,2022-03-25
+1618,2022-03-28 14:28:20+00:00,1508450923806351362,LiskHQ,"💡 Everything that exists today once started with an idea; don’t be afraid to unleash your creativity and dreams.
+
+Do you want to contribute to the promising world of DeFi? Our Grant Program is for you!🚀
+
+👉 Learn more: https://t.co/dNmd4oKUJf
+
+#Lisk #blockchain #develop #grant https://t.co/7oEwSUw2SF",53,2,10,2022-03-28
+1619,2022-03-29 17:03:27+00:00,1508852348034162696,LiskHQ,"Our Senior Technical Writer Mona Bärenfänger spoke with a few media outlets about the Lisk #GrantProgram and its role in encouraging developers to join #Lisk and the blockchain space in general. 🧠
+
+You can check out the full interview with Mona below. 👇
+
+https://t.co/UVNBJQucPC",64,1,19,2022-03-29
+1622,2022-03-30 15:08:20+00:00,1509185765804232719,LiskHQ,"Blockchain applications provide multiple opportunities to develop the decentralized economy further. The Lisk Grant Program allows for the development of various types of apps.
+
+Apply with your innovative ideas!
+
+https://t.co/dNmd4oKUJf
+
+#Lisk #LiskSDK #blockchain #grantprogram https://t.co/WrNwA0F70l",57,2,14,2022-03-30
+1625,2022-03-31 18:32:18+00:00,1509599484979859461,LiskHQ,"We have reached the end of another month and we are pleased to let you know what we have accomplished as the #Lisk community! 🎉
+
+Find out all that we have been up to in the link below 👇
+
+https://t.co/x0erJFh1QY",49,1,14,2022-03-31
+1633,2022-04-01 12:58:19+00:00,1509877821728034821,LiskHQ,"Lisk allows for the creation of various types of blockchain, including DeFi, NFT, stablecoins, oracles, and many more! Which blockchain application category do you personally find the most interesting?
+
+Share your opinion with us!👇
+
+#Lisk #blockchain #developer #appdeveloping https://t.co/Fe8HAFCc3P",80,6,18,2022-04-01
+1634,2022-04-02 14:26:12+00:00,1510262326406098945,LiskHQ,"@coinbureau Time for an update @coinbureau ? 🙈😳
+
+https://t.co/BYxp2Z5d4w",13,3,2,2022-04-02
+1637,2022-04-03 18:34:27+00:00,1510687186890498048,LiskHQ,@coinbureau @maxkordek ✅,2,0,0,2022-04-03
+1638,2022-04-04 13:53:45+00:00,1510978936305504256,LiskHQ,"Lisk is rewarding #JavaScript #TypeScript developers to build the future today!
+
+In March, the Lisk foundation:
+💰 Bought ≈$140k worth of $LSK 
+💲 Yielded ≈$160k $USDC on @BlockFi https://t.co/9DiAPbj4TD",49,4,10,2022-04-04
+1644,2022-04-05 13:01:57+00:00,1511328288102363144,LiskHQ,"Adventure calls on Read a Road Map Day!
+
+🎁 WIN $250 in $LSK tokens.
+
+We prepared a few challenges to test your knowledge of the Lisk roadmap.
+
+🧭 Get oriented &amp; participate:
+👉 https://t.co/mhAB5Lo51s
+
+#ReadaRoadMapDay #CryptoGiveaways https://t.co/miuEdbEuFv",78,13,38,2022-04-05
+1647,2022-04-06 14:26:20+00:00,1511711909850062849,LiskHQ,Congratulations! 🗺️💰 https://t.co/qzmwGMUvon https://t.co/TlATJPGks5,27,3,5,2022-04-06
+1649,2022-04-07 11:22:30+00:00,1512028034500632582,LiskHQ,"@coinbureau Our CEO &amp; Co-Founder @maxkordek is there 🙄💙
+
+We would love to see an updated review of #Lisk on your YouTube channel @coinbureau 😳",10,0,0,2022-04-07
+1651,2022-04-08 14:42:49+00:00,1512440833257185283,LiskHQ,@sergeypevniy @maxkordek @DariaPevna @NastichenkoI @registr152 This is super cool! We will try to print it. 💙,0,1,0,2022-04-08
+1658,2022-04-11 16:04:19+00:00,1513548509982646273,LiskHQ,"What is the predicted value that blockchain will add to the business sector by 2026?
+
+a.    $240 billion
+b.   $360 billion
+c.    $480 billion
+
+🤔 Any idea? Share your answer in the comments below!
+
+#Lisk #blockchian #blockchainapps #development #developingapps #business https://t.co/OWvYoxqeCN",46,13,7,2022-04-11
+1660,2022-04-12 09:42:29+00:00,1513814804007464970,LiskHQ,"Bonjour. 💙🤍❤️
+
+#Lisk #PBWS2022 https://t.co/X6Eq6B6cOr",63,7,12,2022-04-12
+1664,2022-04-13 18:07:42+00:00,1514304332904251392,LiskHQ,"[9/9]
+
+Nearly 80% of the biggest hedge funds are looking for a crypto investment strategy.
+
+#PBWS2022",31,0,3,2022-04-13
+1686,2022-04-14 18:47:08+00:00,1514676645130653702,LiskHQ,"[3/8]
+
+Interoperability is not only about interactions between blockchains. It’s about interacting with traditional solutions as well.
+
+#PBWS2022",13,2,1,2022-04-14
+1702,2022-04-15 16:53:49+00:00,1515010516162392069,LiskHQ,@coinbureau @x__leon @SecretNetwork ... and #Lisk @LiskHQ? 😇👋,2,0,0,2022-04-15
+1714,2022-04-17 15:16:38+00:00,1515710837469724680,LiskHQ,Happy Easter! 🐇🥚🌷 https://t.co/17cZx3vpWL,108,4,22,2022-04-17
+1715,2022-04-18 15:47:35+00:00,1516081014455611394,LiskHQ,"@maxkordek @JavaScript @JSJabber @JavaScriptDaily @thejsnation @typescript @ThePracticalDev 5. Convenient development tools:
+    • Lisk Commander
+• Bootstrapping a blockchain application.
+• Decrypting/encrypting passphrases or messages.
+• Creating new accounts.",25,2,5,2022-04-18
+1727,2022-04-19 15:11:20+00:00,1516434276644007937,LiskHQ,"Would you like to see examples of the apps built on Lisk? Meet Kalipo and one of its founders, Peter Nobels!
+
+👉 Learn more about the project: https://t.co/Nq1GxBaURw
+👉 Talk directly to the Kalipo team by joining our Discord: https://t.co/jwcLOlJY7W
+
+#Lisk #poweredbylisk #app https://t.co/IpGOz4cOOU",58,1,13,2022-04-19
+1728,2022-04-20 10:37:49+00:00,1516727833841840129,LiskHQ,"Lisk introduces: - THE LATEST blocks 📰
+
+An unbiased daily press review of the blockchain industry, presented daily to the Lisk community.
+
+🗓️ Starting on April 21st
+🗞️ Daily press, fresh on Discord
+🔗 https://t.co/A4EhbI3lxX https://t.co/8vZTseL1uP",53,2,16,2022-04-20
+1731,2022-04-21 08:28:05+00:00,1517057572720812032,LiskHQ,"|-----------|
+| THE        |
+| LATEST  |
+| BLOCKS |
+|-----------|
+(\__/) ||
+(•ㅅ•) ||
+/ 　 づ
+
+The insights you need to stay ahead.
+https://t.co/A4EhbI3lxX",46,1,10,2022-04-21
+1736,2022-04-22 19:29:36+00:00,1517586437910237185,LiskHQ,"Time for another #BlockchainFastFacts❗
+
+The most accurate insights in lightning speed.
+
+Did you know all of these❓ Comment below 👇 https://t.co/3rf5zhYNow",64,6,14,2022-04-22
+1742,2022-04-25 06:30:00+00:00,1518477407111589888,LiskHQ,"Gm. 🌅
+
+⚡️NEW EPISODE⚡️
+Blockchain Fast Facts. 👇 https://t.co/16yAyYvQKz",60,2,13,2022-04-25
+1744,2022-04-26 09:24:18+00:00,1518883659448733697,LiskHQ,".@CrptoMiguel’s Kitco interview: “Another correction phase is coming for cryptos, here’s how to pick the winners” is now available online.
+
+Full interview▶️https://t.co/EfrztXgSMq
+@KitcoNewsNOW @DavinLin_TV #KitcoNEWS",50,1,12,2022-04-26
+1746,2022-04-27 06:00:00+00:00,1519194634282545153,LiskHQ,"🎁$500 24H GIVEAWAY🎁
+
+The year is 2030, and blockchain is now mainstream. 
+
+For many, #Interoperability was key for adoption because...
+
+📋 Checklist:
+✅ Complete the story 💬
+✅ Follow + Retweet + Tag 3
+✅ Join the community: https://t.co/zcFgPgcpqU https://t.co/F7iJ0JYjmG",82,46,48,2022-04-27
+1754,2022-04-28 14:11:42+00:00,1519680762374672385,LiskHQ,"Lisk selected 1️⃣0️⃣ winning stories.
+
+Congratulations @papapanda_s, @HubertH420, @TGSchons, @abhishek_0079, @lockxxheart, @AdamOH62010, @noname20677577, @johndarcy21, @marianho1989, @MR_CRYPTO2021. 
+
+💰 You have won $50 each! 💰
+
+Check DM. ✉️🎁 https://t.co/edtuzv73yA",53,16,14,2022-04-28
+1759,2022-04-29 09:52:26+00:00,1519977901684400129,LiskHQ,"📢 Inviting all crypto enthusiasts to our ""The Latest Blocks"" 🗞️ postings.
+
+Fresh &amp; personally curated news every 24hrs from the crypto sphere - ⛓️ 
+
+👇 Found in our Discord group 👇
+
+https://t.co/Q4zOIcMMbY https://t.co/MCeMtNWssG",29,1,6,2022-04-29
+1763,2022-04-30 08:25:57+00:00,1520318528246669312,LiskHQ,"BE HONEST 😇 | International Honesty Day
+#HonestyDay #Contest #cryptocurrency 
+
+The crypto space can be complex 🤔
+
+What concept in crypto should be easier than it is? 💬✨
+
+The most relatable 2 answers wins $50 in $LSK! https://t.co/De26g1Eiht",80,36,24,2022-04-30
+1764,2022-05-02 15:55:22+00:00,1521156400843472896,LiskHQ,"Lisk SDK 5.2.2 was released today. 😃
+
+This release upgrades NodeJS to the latest LTS version, and fixes security bugs found on the blockchain syncing mechanism. 💪
+
+👇 Check here for more details:
+https://t.co/ikhQ22RJ7a https://t.co/he5cgMq9iO",56,4,12,2022-05-02
+1769,2022-05-03 13:21:06+00:00,1521479966243835906,LiskHQ,@MyUniqueArts &amp; @GooijersN are the winners.,17,4,0,2022-05-03
+1775,2022-05-04 09:54:56+00:00,1521790470522822658,LiskHQ,"📢 Crypto news update - ""The Latest Blocks"" 🗞️ postings.
+
+Fresh &amp; personally curated from the crypto sphere - ⛓️ 
+
+👇 Found in our Discord group 👇
+
+https://t.co/l155aOdgZo",43,1,11,2022-05-04
+1777,2022-05-05 09:45:48+00:00,1522150558605398016,LiskHQ,"📢 Crypto news update - ""The Latest Blocks"" 🗞️ postings.
+
+Daily &amp; personally curated from the crypto sphere - ⛓️ 
+
+👇 Found in our Discord group 👇
+
+https://t.co/cW5TSagnYT",34,0,7,2022-05-05
+1779,2022-05-06 09:05:46+00:00,1522502874693095426,LiskHQ,"|-----------|
+| THE        |
+| LATEST  |
+| BLOCKS |
+|-----------|
+(\__/) ||
+(•ㅅ•) ||
+/ 　 づ
+
+The insights you need to stay ahead. 👇
+
+https://t.co/lpzI0MnVxO",43,2,6,2022-05-06
+1781,2022-05-09 09:12:21+00:00,1523591695572643841,LiskHQ,"Shusetsu Toda, Head of SDK Development, has just published a new Lisk Improvement Proposal (LIP) to the research forum. It is titled ""Update Lisk SDK modular blockchain architecture"". ✍️📋
+
+👇 You can read and provide feedback below:
+
+https://t.co/n1ddDHcG3Z https://t.co/jbIdTAEj6N",46,3,10,2022-05-09
+1784,2022-05-10 11:17:18+00:00,1523985524708589570,LiskHQ,"Max Kordek, Lisk CEO and co-founder, recently shared his thoughts on how decentralization and web3 is defining the future. 🔮
+
+⬇️Don't miss the article on TechRound!
+
+https://t.co/UdLHrbxkmW",66,1,19,2022-05-10
+1786,2022-05-11 08:26:32+00:00,1524304939480190976,LiskHQ,"@Cryptologi_st This is great, and super cute as well. 🐻💙
+
+Thanks @Cryptologi_st ✨",5,0,0,2022-05-11
+1790,2022-05-12 16:45:18+00:00,1524792844644401154,LiskHQ,"Get an in-depth look at expenditures, assets held, lending, and buybacks from April. 💰
+
+https://t.co/DRcBrPOjmr
+https://t.co/W4yCYq1wpS",55,3,9,2022-05-12
+1794,2022-05-13 15:04:18+00:00,1525129818697785344,LiskHQ,"Want to know what it takes to become a blockchain developer?
+
+Let's get started! 🚀
+
+https://t.co/Bn58y0F7gI",43,4,11,2022-05-13
+1798,2022-05-16 08:05:02+00:00,1526111467262582784,LiskHQ,"NEW EPISODE❗
+
+💡 Blockchain Fast Facts: Crypto owners.
+
+#Crypto #Cryptocurrency #CryptocurrencyNews https://t.co/fKpKuWdpcL",54,4,14,2022-05-16
+1800,2022-05-17 10:03:33+00:00,1526503681385971712,LiskHQ,"Survivors of May 11th. 💙🎁
+
+#Lisk is giving away $500 in $LSK.
+
+Comment a gif that best shows how you handled these days + a positive affirmation about the future of crypto.
+
+Ends in 72hrs | 💬 + ❤️ + 🔃 = ✅
+
+#Crypto #cryptocurrency #CryptoCrash #CryptoGiveaway #Terra_Luna https://t.co/RVf2wKHy8g",185,183,109,2022-05-17
+1804,2022-05-18 14:20:51+00:00,1526930821730512897,LiskHQ,"Web2 ---&gt; Web3 w/ @LiskHQ ⚡
+
+✅ https://t.co/VMD6Kmr5OI
+
+#javascript #typescript #reactjs #nodejs #programming #blockchain #100daysofcodechallenge https://t.co/Q22jRZSAB2",96,5,50,2022-05-18
+1808,2022-05-19 12:15:17+00:00,1527261611286794244,LiskHQ,"Have you ever wondered what #Web3 projects are built on #JavaScript? 🤔
+
+If you have, look no further than #Lisk 's blog post on the subject! 🎓
+
+https://t.co/Vd4ypNUXp3",52,2,22,2022-05-19
+1809,2022-05-20 06:30:00+00:00,1527537104728694784,LiskHQ,"Get your facts right in less than 20s.
+
+NEW EPISODE | #BlockchainFastFacts⚡ https://t.co/fOJL3jfLtJ",41,1,9,2022-05-20
+1811,2022-05-23 09:23:38+00:00,1528667961904472064,LiskHQ,"Congratulations @LiskSwiss, @Tennon_Ph, @haichtnft, @redxhunter34, @habib22821629. 🏆 
+
+Winners were chosen using twitter picker. $100 in $LSK will be sent to each of you! 🎉 https://t.co/8QWXyh5SKp",50,9,10,2022-05-23
+1813,2022-05-24 15:50:42+00:00,1529127760383336449,LiskHQ,"A prize was hidden in one of the balloons. 🎈
+
+🍀 Pick a number from 1 to 6*. You might get lucky.
+
+#LiskTurns6 #CryptoGiveaway #Airdrop
+
+*Rules below. 🎁 ⬇️ https://t.co/9HcxfTyBh4",229,208,184,2022-05-24
+1822,2022-05-25 09:26:37+00:00,1529393488785178624,LiskHQ,"The balloons popped! 🎈💥
+
+Check if you are a winner. ⬇️ https://t.co/Ljry79LUw2 https://t.co/1rWcIcFYOL",40,1,10,2022-05-25
+1828,2022-05-26 10:00:29+00:00,1529764401653460992,LiskHQ,"Patients can decide who has access to their data.
+
+Authorized healthcare providers are able to update and add more information to a patient's records.
+
+Immutability maintains that data cannot be changed without authorization.",17,2,1,2022-05-26
+1839,2022-05-27 11:56:17+00:00,1530155928871485441,LiskHQ,"🕖👷 Its time to start building your Blockchain in JavaScript!
+
+https://t.co/uzoreHYluU
+
+#Blockchain #JavaScript #JS #LSK",67,5,23,2022-05-27
+1841,2022-05-30 09:57:26+00:00,1531213185126113280,LiskHQ,"New article on the #LiskGrantProgram: Wave 5 by @DappRadar . 📰
+
+You can read the full piece in the link below. 👇
+
+https://t.co/gHvDyWS17H",61,3,14,2022-05-30
+1844,2022-05-31 09:38:16+00:00,1531570751240904707,LiskHQ,"💐🌻 May is just about over!
+
+🏅 Take a look back at all of the Lisk achievements accomplished this past month
+
+https://t.co/FsPUaPRcl6",58,4,10,2022-05-31
+1846,2022-06-01 16:00:00+00:00,1532029204165849088,LiskHQ,"Say something nice about #crypto. 💙
+
+#SaySomethingNiceDay 💬 https://t.co/Ydxi6AEX9s",47,8,10,2022-06-01
+1850,2022-06-02 07:53:20+00:00,1532269119160168450,LiskHQ,"Another Lisk Improvement Proposal (LIP) has been published to the research forum:
+
+""Introduce tree based key derivation and account recovery""
+
+Please read and provide feedback:
+https://t.co/KnNQGdUQw9 https://t.co/ah5UmfmWUE",49,2,7,2022-06-02
+1854,2022-06-03 06:00:01+00:00,1532602988509859843,LiskHQ,"Blockchain Fast⚡️Facts |  #19 🎦
+
+#Lisk #CryptoNews #Bitcoin #Investing https://t.co/LThMGwtSZR",39,3,12,2022-06-03
+1855,2022-06-05 06:32:30+00:00,1533335937517867008,LiskHQ,"🌍 At Lisk we believe #blockchains and actions reducing #environmental #impact can co-exist 🪸
+
+#Lisk is using #DPoS instead of #PoW - which allows faster network consensus &amp; consumes much less ⚡
+
+👉https://t.co/kvdVj4t6R0
+
+#WorldEnvironmentDay #GOGREEN #ecofriendly  #Crypto",68,3,16,2022-06-05
+1856,2022-06-06 06:00:00+00:00,1533690148994658305,LiskHQ,"Blockchain Fast⚡️Facts |  #20 🎦
+
+#CryptoNews #Mining #Environment #DPoS https://t.co/eqVjoraieg",47,1,16,2022-06-06
+1858,2022-06-07 12:34:24+00:00,1534151789351673856,LiskHQ,"🇫🇷Special Announcement | French Community
+
+#Lisk sera présent au Discord 'Binance French' pour L'AMA en 🇫🇷 
+
+👉 Aujourd'hui à 18:00h CET
+📍 https://t.co/uLNLwbrYgs
+🎁 #lsk Prix pr les questions 🏅
+
+#Binance #BinanceFrance #AMA #cz_binance #BNBChain #BinanceNFT #France https://t.co/4MNxF9Wf2N",59,1,14,2022-06-07
+1862,2022-06-08 12:21:10+00:00,1534510846189133825,LiskHQ,@finalixv @pcmaxpl Done. $200 sent. 💸 https://t.co/TjWd9CnLvq,14,2,1,2022-06-08
+1867,2022-06-09 11:22:34+00:00,1534858489402642433,LiskHQ,"Community Health Improvement Week. ⚕️ 
+
+What is essential to build a healthy #crypto  community? 🫂
+
+Follow + Comment + Like + Retweet + Tag 3 for a chance to win $LSK. 🎁
+
+#CHIWeek #Health #Web3Community https://t.co/Otfw4CRt34",102,43,54,2022-06-09
+1869,2022-06-10 06:00:00+00:00,1535139701358592001,LiskHQ,"Blockchain Fast⚡️Facts | #22 🎦
+
+#CryptoNews #Blockchain #Adoption #Web3 https://t.co/z01e54vvlv",38,0,12,2022-06-10
+1877,2022-06-11 16:39:36+00:00,1535663047137697793,LiskHQ,"Networking, Foods &amp; Drinks are a good way to close the evening before the big day at WeAreDevelopers World Congress
+
+⏰ 19.00 - 21.00",13,1,4,2022-06-11
+1884,2022-06-12 15:16:12+00:00,1536004447830167553,LiskHQ,"⏰ Less than 24 hours left! 
+
+Join #Lisk at the 'Blockchain Day' hosted in collaboration with @WeAreDevs 🤝
+
+Register for free 👉 https://t.co/0nNhTK7EV8
+
+#wearedevs #liskcenterberlin #berlin https://t.co/Cw5tpmgpes",36,1,10,2022-06-12
+1886,2022-06-13 16:02:08+00:00,1536378392748040193,LiskHQ,"@WeAreDevs @ishan_tiw @monabaer To talk about #SmartContract Architecture ...
+
+We welcome on stage our first special guest of the day: @mizi 🙌🙌🙌
+
+https://t.co/jaHRbzI5n8 ⬅️ https://t.co/2jNtgujYto",20,0,1,2022-06-13
+1904,2022-06-14 15:31:59+00:00,1536733194690740224,LiskHQ,"#blockchain remains one of the hottest topics during #WAD2022 🔥
+
+And Lisk is there to make it more accessible than ever before. https://t.co/wJjRNTPiUL",24,1,2,2022-06-14
+1924,2022-06-15 14:51:12+00:00,1537085320088457216,LiskHQ,#wearedevs = #weloveblockchain? 🤔 https://t.co/UTi5NMsg9N,23,0,3,2022-06-15
+1929,2022-06-16 10:03:31+00:00,1537375308042616837,LiskHQ,"👍 Lisk is #hiring for multiple roles:
+
+💻 Development (6)
+📣 Marketing (3)
+🛠️ Operations (1)
+📚 Research (1)
+
+Apply now or tag a friend.
+https://t.co/ilqPBH83xS
+
+#CryptoJobs #BlockchainJobs #Web3Jobs #HiringNow https://t.co/b0RSKzwvPd",81,23,22,2022-06-16
+1933,2022-06-17 06:00:01+00:00,1537676420473925633,LiskHQ,"Blockchain Fast Facts ⚡️ | #24 🎦
+
+#CryptoNews #Web3 #CyberCrime #VCs https://t.co/ItmCLnWaDL",43,0,16,2022-06-17
+1935,2022-06-20 15:31:55+00:00,1538907504310198281,LiskHQ,Take the opportunity to Ask Monica Anything 👇 https://t.co/7tG24LWhso,51,1,10,2022-06-20
+1938,2022-06-21 11:38:25+00:00,1539211129234276358,LiskHQ,"#Lisk has big news for you.
+
+Peter Nobels, CEO of @KalipoDAO, was featured in NASDAQ.
+
+We are proud to share such influential pieces prepared by the participants of the #LiskGrantProgram. 📖
+
+https://t.co/hILwK7KLWl https://t.co/M8bTbkNpbw",75,1,19,2022-06-21
+1939,2022-06-22 06:00:02+00:00,1539488363505500160,LiskHQ,"Blockchain Fast Facts ⚡️ | #26 🎦
+
+#CryptoNews #Stablecoins #NFT #GameFi https://t.co/lvNIpKesLe",42,0,10,2022-06-22
+1943,2022-06-23 08:21:30+00:00,1539886349553205249,LiskHQ,"#DAOs are one of the most important topics in #blockchain this year. 🤝
+
+What part does #Lisk play to help their development?
+
+@KalipoDAO CEO and Co-Founder @nobelspe shares his views. 💬
+
+ https://t.co/MVEF1HaHVR https://t.co/1X8ojgkVjZ",46,1,9,2022-06-23
+1946,2022-06-24 06:00:01+00:00,1540213133238833152,LiskHQ,"Blockchain Fast Facts ⚡️ | #27 🎦
+
+#CryptoNews #Layer2 #Rollups #DeFi https://t.co/YC7bQqgUYj",40,2,10,2022-06-24
+1948,2022-06-27 10:33:08+00:00,1541369027800481792,LiskHQ,"🗓️ Micro, Small &amp; Medium Enterprise Day
+
+👉 What's the biggest breakthrough that #blockchain technology provides businesses?
+
+🎁 RT + Tag 3 for a chance of winning $100 in #LSK
+
+#MSMEDay2022 #Crypto #Enterprise #Lisk #regulation #payments #Decentralization #SupplyChain",87,57,60,2022-06-27
+1950,2022-06-28 19:55:21+00:00,1541872902991220738,LiskHQ,"🛠️ A new #Lisk Improvement Proposal (LIP) has been published to the research forum, titled ""Introduce a Generic Keystore""
+
+Please read &amp; provide feedback:
+https://t.co/F3gpNS5tcJ https://t.co/Ta7au0wdOw",33,0,6,2022-06-28
+1954,2022-06-29 09:19:50+00:00,1542075357716783104,LiskHQ,"""For Bitcoin, I think it's worth it.""- #Lisk's CEO and Co-Founder @maxkordek. 💭
+
+More on Max's view on #PoS vs. #PoW at the #BitcoinMiami2022 with @defiancemediatv. 🎙️
+
+Time stamp 18:50⌚
+
+https://t.co/hBwMqowOdo https://t.co/BpO4wDdEBm",48,4,10,2022-06-29
+1956,2022-06-30 06:00:01+00:00,1542387461141184514,LiskHQ,"🎁 Win $250 🎁
+
+🔮 Can you predict the future of social media?
+
+#SocialMediaDay #Blockchain #Web3
+
+Rules + How to win 👇
+https://t.co/SdlGJGZeQM https://t.co/JqKkCEBP2h",65,11,23,2022-06-30
+1958,2022-07-01 15:08:46+00:00,1542887947594252293,LiskHQ,💬 Without the community we couldn’t be what we are today.🤝,10,1,0,2022-07-01
+1977,2022-07-05 15:47:57+00:00,1544347357093003267,LiskHQ,Congratulations 🎉 ---&gt;  @Wheeliecat123 @Godlambo2021 @Faithajani ! Check DM 🎁,21,5,4,2022-07-05
+1978,2022-07-06 12:42:15+00:00,1544663012820254721,LiskHQ,"Hello #JavaScript. 💛🌎
+
+Do you think #Web2 &amp; #Web3 can be friends❓
+
+Here's how the relationship starts: 
+🖱➡️ https://t.co/M7e9dvhqye
+
+#internet #blockchain #sdk #web2point5 #100DaysOfCode #webdevelopment #learncoding https://t.co/8DxAUujBAP",59,3,27,2022-07-06
+1980,2022-07-07 13:30:47+00:00,1545037616709414912,LiskHQ,"#Lisk has a new series out on #blockchain #interoperability. 🚀
+
+You can learn all about the subject here and in our upcoming articles!
+
+👉 https://t.co/usouOxkY9z 👈",46,0,10,2022-07-07
+1982,2022-07-08 11:39:57+00:00,1545372112763879426,LiskHQ,"🗓️ Video Games Day 🕹️
+
+Name a difference between #Metaverse gaming &amp; old school #gaming❓
+
+✅ Tag 3 + RT
+🤔 Thoughtful answers accepted!
+🎁 Top 3 tweets win $15 in LSK 
+
+#VideoGamesDay #blockchain #gamingcommunity #Crypto #playtoearn #lisk #web3 https://t.co/0miFW7arO6",60,23,29,2022-07-08
+1984,2022-07-11 12:01:01+00:00,1546464577847697409,LiskHQ,"@Ubisoft @NintendoEurope @RockstarGames @TopasHQ @FaetBlockchain @Activision @Sorare @decentraland @AxieInfinity @opensea Congratulations to the winners 🎉
+
+@Wheeliecat123 
+@Piotr84380225
+@Godlambo2021
+
+You'll be DM'ed for the next steps! 🙌",25,6,6,2022-07-11
+1987,2022-07-12 09:35:17+00:00,1546790290471751685,LiskHQ,"🚨 Help #Lisk by participating in the Lisk Bug Bounty Program!
+
+👀 Follow this infographic and visit the site to find out more!
+
+👉 https://t.co/7H2ylui8GJ https://t.co/lNaWcae9fC",45,2,13,2022-07-12
+1988,2022-07-13 11:43:49+00:00,1547185023652184064,LiskHQ,"🗓️ Embrace your Geek Day 🤓
+
+Share a fun 'geek moment' with the #cryptocommunity
+
+✅ - RT &amp; Tag 3
+💬 - Comment your geek moment
+🎁 - Top 3 win $15 in #LSK
+
+#Crypto #Geek #OldSkool #WaybackWednesday #blockchain #lisk https://t.co/epOV5ZcLqh",67,33,28,2022-07-13
+1992,2022-07-14 11:26:40+00:00,1547543093573976069,LiskHQ,"Congratulations!!! 🎉🤸🎁
+
+@Piskun123 
+@lublu49704334 
+@abartmanuman 
+
+You won the Tweet contest! Check your DM's 🙏
+
+🗣️ Thank you to all participants! These replies were really funny and it was very difficult to select winners from all the great replies!",23,3,3,2022-07-14
+1994,2022-07-15 14:02:53+00:00,1547944798035685377,LiskHQ,"(9/9) For more information check out:
+https://t.co/AqCKToJZwg",24,3,1,2022-07-15
+2005,2022-07-18 11:36:35+00:00,1548995143658868737,LiskHQ,"@UNESCO @JavaScript @typescript @loomnetwork @cz_binance @krakenfx @github @WeAreDevs @CoinMarketCap @coingecko Congratulations!!! 🎉🤸🎁
+
+@AlbinJo83286165 
+@FerdinardLebro 
+@Kriptokuzey1
+@mare26859815 
+@Taxidriver3517 
+
+You won the Tweet contest! Check your DM's 🙏
+
+🗣️ Thank you to all participants for such a diverse set of interesting answers to the tweet.",38,9,4,2022-07-18
+2006,2022-07-19 16:22:17+00:00,1549429428022910978,LiskHQ,"Blockchain Day at Lisk Center Berlin was all about web3, networking and sharing knowledge. 📚
+
+The developers got the opportunity to learn more about Lisk and the Lisk SDK from. 💡
+
+See the full video 👉 https://t.co/i2ud3zaW24",60,0,15,2022-07-19
+2007,2022-07-20 06:00:01+00:00,1549635217807360000,LiskHQ,"Blockchain Fast Facts ⚡️ | #28 📹
+
+#Crypto #Charity #Investing #Donations https://t.co/fNH5swqd5K",44,5,12,2022-07-20
+2025,2022-07-22 11:50:58+00:00,1550448313090146305,LiskHQ,"🗓️ World Brain Day 🧠
+
+#WorldBrainDay #Crypto #blockchain #Lisk #PositiveVibes #Interoperability #DApps #javascript https://t.co/3o8HIFRlsx",63,6,22,2022-07-22
+2026,2022-07-23 14:18:18+00:00,1550847777747472386,LiskHQ,"⛓️ 🔀 Another blog post entry into our series on blockchain interoperability has been released!
+
+🔽   🔽   🔽   🔽   🔽
+https://t.co/nSG70RioBY",50,12,15,2022-07-23
+2027,2022-07-26 12:42:04+00:00,1551910725022531584,LiskHQ,"In his latest video, @Datadash01  decided to talk about the #Lisk ecosystem. 👀
+
+He shares Lisk's vision of #interoperability and shows how it is shaping the future of #blockchain. ⛓️
+
+Check out the video 👇
+https://t.co/VFnZffqXXg https://t.co/13hgxZqklL",52,3,17,2022-07-26
+2028,2022-07-27 14:47:01+00:00,1552304557761478656,LiskHQ,"(8/8) If you would like to read more about The Role of LSK Token in the Lisk Ecosystem, you can read our full blog post on the topic here:
+
+https://t.co/T5sNuUdwKl",19,0,5,2022-07-27
+2039,2022-07-28 11:33:45+00:00,1552618309262221318,LiskHQ,"🗓️ World Nature Conservation Day 🐼
+
+How does #DPoS benefit the #environment &amp; #Decentralization❓
+
+🔎 - https://t.co/GLLrMfTiUQ
+
+✅ - RT &amp; Tag 3
+✍️ - Comment your answer
+🎁 - Top 5 answers get $20 in #LSK
+
+#WorldNatureConservationDay #Crypto #cryptocurrencies #conservation #Lisk https://t.co/6qJjP22Di8",85,43,39,2022-07-28
+2042,2022-07-29 13:27:53+00:00,1553009416873644032,LiskHQ,"Co-Founder and CEO of @KalipoDAO, @nobelspe , discusses #DAOs with the @KIT_RP . 🖥️
+
+Check out the full Q&amp;A below! 👇
+
+https://t.co/UJmzwgzFjX
+
+#PoweredByLisk https://t.co/zOwCStEguI",30,1,8,2022-07-29
+2045,2022-08-01 12:38:53+00:00,1554084251733315585,LiskHQ,"@UNEP @ConsenSys @MessariCrypto @chainalysis @sejorg @glassnode Thank you to all those who took part - a lot of you understand the concept of DPoS very well 🙌
+
+Congratulations to the ✨ winners 🎉 of the contest;
+
+@SamAlex58905731 
+@Clokopucs 
+@Naomcall 
+@BlackVr5 
+@MngjiLie1 
+
+Check your DM's for LSK 🎁",28,5,5,2022-08-01
+2048,2022-08-02 14:09:06+00:00,1554469342292721664,LiskHQ,"(3/7) Liveness requirements.
+
+Each sidechain needs to periodically produce an update of their state.
+
+If a chain fails to send in these updates within the time required it may be terminated.
+
+If you have any assets on a terminated chain, you can still recover your assets after.",10,1,0,2022-08-02
+2055,2022-08-04 13:30:47+00:00,1555184477382516739,LiskHQ,"New blog post on #blockchain interoperability solutions is now live. 🚀
+
+Check out the most popular #interoperability ideas. 👇
+
+https://t.co/7N2XnUlhfF",31,2,11,2022-08-04
+2058,2022-08-05 14:38:46+00:00,1555563972031569920,LiskHQ,".@Benzinga  has released another article about the #Lisk platform. 🖥️
+
+Find out about how developers can explore #blockchain through #JavaScript below! 👇
+
+https://t.co/2DHjQmS0FQ",39,6,23,2022-08-05
+2063,2022-08-08 06:00:01+00:00,1556520588172214273,LiskHQ,"Blockchain Fast Facts ⚡️ | #36 📹
+
+#CryptoNews #VR #AR #XR #Metaverse https://t.co/zJJQ7JgpaD",23,1,8,2022-08-08
+2069,2022-08-09 14:08:51+00:00,1557005993321680897,LiskHQ,"🗣️ ** This contest is now finished ** 
+
+We will be reviewing the amazing 😍 AI artworks below and will post the winners soon 🙌
+
+Thank you for participating 💙",19,0,2,2022-08-09
+2074,2022-08-10 13:37:52+00:00,1557360586039640065,LiskHQ,"🗓️ International Vlogging Day 🤳
+
+Vlogging has been central to information sharing in the early #Crypto days...📡
+
+👉 How have crypto #vlogs changed since? 🎦 
+
+✅ - RT and Tag3
+✍️ - Comment your answer
+🎁 - Top 5 get $15 in LSK
+
+#cryptocurrencies #lisk #CryptoGiveaway #Video",62,41,17,2022-08-10
+2078,2022-08-11 10:53:17+00:00,1557681553655971840,LiskHQ,"Great questions from the #Lisk community for last week's Reddit AMA!
+
+⬇️ ⬇️ ⬇️
+https://t.co/9QklGNDeND",36,1,11,2022-08-11
+2081,2022-08-12 06:00:01+00:00,1557970137466159105,LiskHQ,"Blockchain Fast Facts ⚡️ | #38 📹
+
+#CryptoNews #Stablecoin #Ripple #Hybrid https://t.co/MvgRZEqCcm",31,4,8,2022-08-12
+2085,2022-08-14 14:01:53+00:00,1558816178755223552,LiskHQ,"Subscribe to the Crypto Newsletter from @Benzinga for more #Lisk news in the coming weeks! 🗞️
+
+Apply to the Lisk Grant Program 👇
+
+https://t.co/Zm9tKzG41B https://t.co/po62TwpgB2",37,4,16,2022-08-14
+2086,2022-08-15 11:48:51+00:00,1559145088328032256,LiskHQ,"Congratulations 🎉 to the winners of the tweet competition
+
+Please check your DMs for 🎁 details
+
+@castomfiber 
+@Godlambo2021 
+@Juli_orso",21,3,4,2022-08-15
+2089,2022-08-16 12:52:02+00:00,1559523377097981958,LiskHQ,"This week #Lisk Head of Exchange Development, Naureen Mustafa, discussed the practical applications of #DeFi with Cryptonews. 👀
+
+Check out the full article! 👇
+
+https://t.co/KPSlnswnxt https://t.co/qHcxxQdrqz",37,2,9,2022-08-16
+2092,2022-08-17 11:08:20+00:00,1559859668905852934,LiskHQ,"(8/13) Kraken has 162 coins and 546 trading pairs. 🏆
+
+It is one of the oldest and largest bitcoin exchanges in the world and has several offices outside the US.
+
+Available Lisk trading pairs: LSK/BTC, LSK/ETH, LSK/EUR, LSK/USD.",13,1,1,2022-08-17
+2108,2022-08-18 14:50:09+00:00,1560277877987618817,LiskHQ,"Congratulations 🎉 The winners of the Tell a Joke Day Tweet are...
+
+@anonimowy891 
+@haichtnft 
+@Piotr84380225 
+
+Check you're DMs for more🎁 details",20,3,4,2022-08-18
+2110,2022-08-19 14:33:08+00:00,1560635984600915973,LiskHQ,"📢 30 mins until our Community Call ☎️
+
+👉 https://t.co/04UpIijIao
+
+We hope to catch you soon! 🙌
+
+#Crypto #Lisk #community https://t.co/MKJ7fbNdGw",37,14,8,2022-08-19
+2113,2022-08-22 10:59:34+00:00,1561669401740562433,LiskHQ,".@Benzinga featured #Lisk once again! 💪
+
+Find out more about how the #LiskSDK is making #blockchain more accessible to developers. 👇
+
+https://t.co/QR3OKMsEJK",29,1,6,2022-08-22
+2118,2022-08-23 10:25:40+00:00,1562023257632563200,LiskHQ,"🗓️ Find Your Inner Nerd Day 🤓
+
+👉 If you had more time... which crypto topic would you  'nerd out' about &amp; why?
+
+✅ - RT &amp; Tag 3
+✍️ - Comment answer
+🎁 - Top 3 get $15 in LSK
+
+#FindYourInnerNerdDay #cryptocurrency #lisk #100DaysOfCode #web3 #CryptoGiveaway https://t.co/Bmi4Z4TGEn",60,31,37,2022-08-23
+2120,2022-08-24 09:58:40+00:00,1562378849874223104,LiskHQ,"Learn &amp; Earn @binance campaign featuring Lisk is now LIVE! 🎉
+
+Join the course and earn #LSK tokens 👉 https://t.co/ty7vA7I0Rs
+
+📣 And don't forget to share it with everyone who should learn a little bit more about Lisk! https://t.co/pkMFIu5IDg",64,3,24,2022-08-24
+2122,2022-08-25 13:48:50+00:00,1562799164433395712,LiskHQ,"(9/14) Locked Tokens 🔒
+
+The tokens used for voting are locked; they still belong to the user, but they cannot be used for transactions. 
+
+The funds are locked for as long as the user is voting using these tokens.",12,1,1,2022-08-25
+2138,2022-08-26 11:53:30+00:00,1563132527295901698,LiskHQ,"#Lisk is hosting another event during the #berblockweek in collaboration with @CV_Labs, @redalpine &amp; @ConsenSys! 
+
+Are you looking for grants, funding, technical support, or a network? 🧑‍💻
+
+Then register &amp; join for free 👉 https://t.co/vQbvFrQpp8",50,4,15,2022-08-26
+2139,2022-08-29 13:09:08+00:00,1564238722949849088,LiskHQ,"#Lisk is a Platinum Sponsor at #CVSummit 2022. 🚀
+
+Join the two-day event to hear the #Lisk keynote on #DeFi &amp; a panel debate about the state of #web3. ⛓️ 
+
+More info about the CV Summit is available👇
+https://t.co/ZklfEC5nMS https://t.co/N2xW8udnpI",63,2,19,2022-08-29
+2142,2022-08-30 13:02:46+00:00,1564599508582993922,LiskHQ,"With the #EthereumMerge on the horizon, #Lisk CEO and Co-Founder, @maxkordek, caught up with @Independent . 🦅
+
+Here is what he had to say. 💬
+
+https://t.co/JoNvT8rC0Y https://t.co/XhGQRAcj3R",43,2,12,2022-08-30
+2147,2022-08-31 13:12:40+00:00,1564964389542940673,LiskHQ,"As Singapore is an important market for #Lisk, we are happy to be a Gold Sponsor at the @token2049 this year! 🚀
+
+#Lisk is excited to see the keynote from @maxkordek on ""The Interoperable Multi-Chain Web3 Future"". 🗣️
+
+Join #Lisk on the iconic rooftop at @marinabaysands ! https://t.co/s5RucAHOm4",60,4,14,2022-08-31
+2150,2022-09-01 10:26:08+00:00,1565284867000213511,LiskHQ,"#Lisk CEO and Co-Founder, @maxkordek, comments the upcoming #EthereumMerge on @Forbes.
+
+Check it out here! 👇
+https://t.co/SAjZpsLaeG https://t.co/faP1sCAcUQ",47,6,12,2022-09-01
+2152,2022-09-02 13:35:48+00:00,1565694984120139778,LiskHQ,"It's the year of blockchain #interoperability⛓️
+
+Check out the latest article from @Benzinga on how #Lisk is Making Cross-Chain Communication and Transactions Possible.⚙️
+
+The full article👇
+https://t.co/ZQMHRujfvB",48,8,13,2022-09-02
+2153,2022-09-05 08:24:17+00:00,1566703752693809156,LiskHQ,"❓⛓️ Why Does Blockchain Interoperability Matter?
+
+An article from DappRadar answers that and goes in-depth on how Lisk addresses it.
+
+🔽    🔽    🔽
+https://t.co/0D2L5BiWGR",52,1,21,2022-09-05
+2155,2022-09-06 13:02:10+00:00,1567136072949170177,LiskHQ,Get ready for tomorrow's AMA! https://t.co/NptgC9dBIn,31,1,9,2022-09-06
+2157,2022-09-07 12:02:58+00:00,1567483562059784193,LiskHQ,"#Lisk AMA with @FMFW_io starts in one hour ✌️
+Join Twitter Spaces at 3PM CEST 👉 https://t.co/cbAGEuXj3R https://t.co/uQaM3rR6aO",34,1,3,2022-09-07
+2159,2022-09-08 21:46:16+00:00,1567992744106229761,LiskHQ,"💰🏦 The Lisk Financial Update for August 2022 has been released!
+
+🔽 🔽 🔽
+https://t.co/tnkQWTzkuy",44,6,8,2022-09-08
+2160,2022-09-09 11:44:00+00:00,1568203565746855938,LiskHQ,"#Berlinblockchainweek starts in a couple of days! ⏰
+
+Read about #Lisk's full agenda during the week in the latest @Benzinga article. 🗞️
+
+See you in Berlin! 🚀 
+https://t.co/DyG7ooPAjw",40,9,9,2022-09-09
+2161,2022-09-12 08:23:39+00:00,1569240308860260353,LiskHQ,"#Lisk's Head of Research, Alessandro Ricottone, is hosting the Interoperability Track at the Blockchain in Use Conference.⛓️
+
+Join us on the 15th of September at Factory Berlin Görlitzer Park.📍 https://t.co/qYZwrAEtBZ",51,3,14,2022-09-12
+2164,2022-09-14 16:17:18+00:00,1570084283150204929,LiskHQ,"It’s OPEN! Today we welcome everyone keen on #blockchain 🚀
+
+ 🏢 The Lisk Center Berlin
+ 📍Köpenicker Str. 126, 10179 Berlin
+
+#BerlinBlockchainWeek #BlockchainDay #Lisk https://t.co/5NGW101BIt",11,1,1,2022-09-14
+2188,2022-09-15 17:37:02+00:00,1570466735895252992,LiskHQ,Now time for networking throughout the evening!,18,1,2,2022-09-15
+2198,2022-09-16 09:31:55+00:00,1570707040426938369,LiskHQ,"💬 One of #Lisk’s missions is also to focus on sustainability. Our consensus mechanism, DPoS is known for its better energy efficiency. Recently, we also started purchasing solar plants aiming to create as much energy as our network is using.",19,2,2,2022-09-16
+2206,2022-09-19 14:48:47+00:00,1571873945690996737,LiskHQ,"Check out the latest review from @eattheblocks on the Lisk SDK, Lisk Ecosystem, and much more! 
+
+The full 10-minute video.👇
+https://t.co/oO4Qdv1kGV",27,5,4,2022-09-19
+2208,2022-09-20 13:26:44+00:00,1572215685383704578,LiskHQ,"During Blockchain Day II we asked our panelist, Co-Founder and Senior Blockchain Researcher at Cryp GmbH, Robert Hambrock, why is Blockchain #interoperability so important? That's what he replied 👇 https://t.co/9IOz4uGOTP",36,6,7,2022-09-20
+2209,2022-09-21 18:28:22+00:00,1572653980635004928,LiskHQ,"🗓️ World Gratitude Day 🙏
+
+Celebrating our vital community &amp; fast-growing builder ecosystem! 🎊
+
+- https://t.co/VaOgEOcpht
+- https://t.co/9o6d38ibYL
+- https://t.co/ajq5h8G7x4
+
+In the #web3community together 🤝
+
+#blockchain #Crypto #lisk #LSK #BUIDL #100DaysOfWeb3 #webdev https://t.co/Mch6pWdQLy",47,7,15,2022-09-21
+2211,2022-09-22 12:03:14+00:00,1572919446091567104,LiskHQ,"#iJScon New York is in a couple of days!⏰
+
+Are you going?👀
+
+Scan your badge for easy access to the #Javascript #Lisk SDK at the Conference!📱
+
+Check out the full agenda👇
+https://t.co/KLYJau8Tdg",40,7,13,2022-09-22
+2212,2022-09-23 10:34:17+00:00,1573259451779497991,LiskHQ,"🧾 Enjoy our recap of the AMA with Lisk's Lead Backend Developer, Ishan Tiwari where he answered questions from https://t.co/fxqML2ozw2 and the #Lisk community. 👇
+
+https://t.co/5Fn6LIOHZS",24,3,4,2022-09-23

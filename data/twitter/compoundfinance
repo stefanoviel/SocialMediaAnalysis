@@ -1,0 +1,2454 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-09 10:04:23+00:00,1215212714118672389,compoundfinance,"@BinanceResearch @ethereum @dapp_review Your data on Compound is a bit off - and doesn't take into account the launch of cDAI (according to @dapp_review), at:
+https://t.co/Jl7vt9fRc8
+
+Otherwise, some great content inside!",8,1,0,2020-01-09
+1,2020-01-16 03:28:39+00:00,1217649840202452992,compoundfinance,"Given the massive volatility in $REP prices, as a safety measure a transaction has been queued in the protocol's governance timelock, which can be executed in 2 days, to reduce Augur's collateral factor from 50% to 40%.
+
+Please be extremely careful when using Augur as collateral.",52,3,11,2020-01-16
+2,2020-01-18 23:45:18+00:00,1218680794509524993,compoundfinance,"Quick reminder:
+
+Compound does not use Telegram, and we will never ask you for your private keys. The Compound protocol runs on a blockchain, and does not need to ""sync our database"" etc. 
+
+There is an active Telegram scam impersonating Compound, be careful out there.",195,51,53,2020-01-18
+3,2020-01-19 02:32:53+00:00,1218722971516207104,compoundfinance,"@_JohnWhelan It was determined at the launch of the protocol (May 2019), based on data/analysis available from running a DAI interest rate model from v1 of the protocol (Nov 2018-v2).
+
+The model has been in place since launch; if you have suggestions for constants, or curves, we're all ears!",0,1,0,2020-01-19
+4,2020-01-20 03:55:48+00:00,1219106222965547008,compoundfinance,"@uspolicies REP has become more difficult to use as collateral (it’s price moves more than it used to), so to protect users of the protocol, you will need to supply more REP to borrow the same amount of DAI (or ETH, etc).",5,0,0,2020-01-20
+5,2020-01-31 19:44:45+00:00,1223331303514230785,compoundfinance,"@udiWertheimer @bitfinex Udi, whether its accidental or intentionally misleading, stop trying trolling the public with bad math. Bitfinex currently has $751M of active funding per their stats; which is 5.08x as much as Compound, 1.49x Maker, and less than #DeFi.
+
+Jealousy isn't attractive on you. https://t.co/bAUhO8i1hA",37,1,1,2020-01-31
+6,2020-02-04 05:17:47+00:00,1224562675956383746,compoundfinance,"Congratulations, @PoolTogether_ 🎉 and thank you for building on top of Compound 📈 https://t.co/4nvg59sYKo",103,2,8,2020-02-04
+7,2020-02-06 16:06:08+00:00,1225450614101921793,compoundfinance,"@bg26892 @rleshner It’s there, just less prominent. In the APY / Earned column it’s the second number.",1,0,1,2020-02-06
+8,2020-02-08 23:03:35+00:00,1226280443131023361,compoundfinance,"Did you know:
+
+You can access the Compound interface in different languages, such as https://t.co/M66608q9De 🇨🇳 
+
+More global support, across the Compound platform, coming soon.",36,3,7,2020-02-08
+9,2020-02-12 23:55:23+00:00,1227743030158880769,compoundfinance,"In our latest newsletter:
+
+✈️ Our @EthereumDenver plans
+💻 Hack on @keep_project tBTC
+⚙️ @gauntletnetwork  Risk Assessment of Compound
+📈 #DeFi hits $1B
+💳 Debit card into @Dharma_HQ 
+💰 iearn and @CurveFinance launch
+
+...and more!
+
+https://t.co/HbJCBqwrln",53,0,14,2020-02-12
+10,2020-02-13 00:32:19+00:00,1227752323402719232,compoundfinance,@bitdvd @EthereumDenver @keep_project @gauntletnetwork @Dharma_HQ @CurveFinance @renprotocol Ren BTC is also welcome. We are DeFi maximalists. We'll figure something out in that case :),20,3,3,2020-02-13
+11,2020-02-17 23:52:22+00:00,1229554211060244480,compoundfinance,"@TrustlessState The Compound API offers extensive historical data:
+https://t.co/fNEvIPDHR3
+
+You can also find data on Loanscan, Dune, etc.",8,0,2,2020-02-17
+12,2020-02-26 21:46:40+00:00,1232784068376326144,compoundfinance,@jatargo Yes - there will be some nice tools for the community.,4,1,1,2020-02-26
+13,2020-02-29 22:33:47+00:00,1233883090482679809,compoundfinance,"We’ve just released a Governance API to accompany our planned migration to decentralized community control.
+
+Developers: you can build tools to monitor and participate in Compound governance 🎉
+
+https://t.co/5uUJdqUHuz",123,4,32,2020-02-29
+14,2020-03-01 06:06:40+00:00,1233997059272802304,compoundfinance,"In addition, we've added API support for each testnet, using a network query parameter, e.g.
+
+https://t.co/E6Cuf7TRgP",10,0,1,2020-03-01
+15,2020-03-05 01:05:43+00:00,1235370873843937280,compoundfinance,"The Compound governance token, $COMP, has been deployed to https://t.co/SHbIpCwED4 and is ready for public review. https://t.co/ClH7CF53JV",170,11,35,2020-03-05
+16,2020-03-12 00:37:15+00:00,1237900426306924544,compoundfinance,"A protocol upgrade that allows the Pause Guardian to disable supplying &amp; borrowing (new usage) in individual markets (instead of all markets simultaneously) has been queued in the Timelock.
+
+This will be the final upgrade prior to Community Governance. 🙌
+
+https://t.co/LAM21CXSiz",72,2,17,2020-03-12
+17,2020-03-13 03:37:53+00:00,1238308271963828226,compoundfinance,"Three changes have been queued in the Compound protocol timelock, as a precaution due to recent volatility:
+
+A new price feed that allows DAI to become unpegged in a MakerDAO emergency shutdown;
+Liquidation incentive 5% -&gt; 8% -&gt; 15%
+
+These will only be activated if necessary.",86,13,29,2020-03-13
+18,2020-03-16 16:26:59+00:00,1239588987234185216,compoundfinance,"@davekajpust The protocol maintains reserves (a portion of all historical interest), which provide a liquidity cushion. There can be more borrowed assets than assets supplied by users.
+
+Redeeming liquidity *can* be constrained, especially during market stress: https://t.co/EayLQtrlpS",2,0,0,2020-03-16
+19,2020-03-20 00:42:44+00:00,1240800908612526080,compoundfinance,"@MrRoda1 You can withdraw Sai at any time, even after new usage is paused, and migrate it to Dai using https://t.co/vrvYLdt2cz",0,0,0,2020-03-20
+20,2020-03-26 16:36:54+00:00,1243215360213442561,compoundfinance,The Compound Dashboard (https://t.co/AWm7b7QLzO) is now accessible in multiple languages! 🌏 https://t.co/8J4Ebnk4Bu,50,4,9,2020-03-26
+21,2020-04-01 23:36:10+00:00,1245495200174067713,compoundfinance,"All of the unexecuted transactions in the protocol timelock have expired (this occurs 14 days after completing the waiting period)⏱️
+
+The price feed change was re-queued, with the addition of logic to handle the planned global settlement of $SAI by @MakerDAO.",10,0,1,2020-04-01
+22,2020-04-08 21:16:59+00:00,1247996888151801856,compoundfinance,"In our latest newsletter:
+
+🚀 @exodus_io launches Compound integration
+🏎️ @88mphapp launches fixed rate DAI yield
+🐉 Compete for 2 bounties in the @meta_cartel Dragon Quest hackathon
+📊 New DeFi Score methodology by @ConsenSysCodefi 
+➕ more!
+
+https://t.co/ikNI9aatcR",41,0,18,2020-04-08
+23,2020-04-16 15:57:14+00:00,1250815524251951105,compoundfinance,"We're extremely proud to announce that community governance has replaced the administrator of the Compound protocol. From this point forward, all changes (from supported assets, to system parameters) will originate from COMP token-holders.
+
+https://t.co/AchhCwRrCL",269,7,69,2020-04-16
+24,2020-04-17 20:13:32+00:00,1251242411855998978,compoundfinance,"Thanks to @graphprotocol and @ProtoFire_io, there is now a Compound Governance subgraph, that you can query for information about token-holders, delegates, and proposals.
+
+Developers, rejoice! 🌐
+
+https://t.co/xWdV3CkM0S",43,1,12,2020-04-17
+25,2020-04-22 03:56:52+00:00,1252808566349520902,compoundfinance,"French and Korean translations are now included too!
+
+🇫🇷🇰🇷 https://t.co/C2x5awzvDn",14,2,4,2020-04-22
+26,2020-04-23 05:17:17+00:00,1253191190171668482,compoundfinance,"There's now a network selector on the footer of https://t.co/MqAmwmDhQb, to make viewing network-specific data (Governance, Markets, and more) easier for developers. https://t.co/Wo6PXtaUWu",22,0,3,2020-04-23
+27,2020-04-27 02:55:29+00:00,1254605055010811904,compoundfinance,"We're excited to announce that the first governance proposal has been created - to add $USDT as a supported asset.
+
+With this milestone, the public testing of the Compound governance system has begun🔥
+
+https://t.co/nE1V0TScJP",178,14,41,2020-04-27
+28,2020-04-28 15:29:52+00:00,1255157289528422402,compoundfinance,"Institutional investors can now securely custody $COMP at 
+@Anchorage 🔒
+
+As the DeFi ecosystem expands and evolves, platforms like Anchorage will be integral to the creation of a new kind of marketplace — one where crypto is used rather than simply held.
+
+https://t.co/x0NqOKUal6",27,0,11,2020-04-28
+29,2020-04-29 19:34:28+00:00,1255581234375176192,compoundfinance,"Proposal 001 - Add USDT Support has succeeded:
+
+797,981.28 COMP ✅
+85,580.73 COMP ⛔️
+
+The proposal can now be queued in the Timelock, and executed after a 2-day waiting period.
+
+https://t.co/P1q3Ol1RdF",39,4,9,2020-04-29
+30,2020-05-01 20:28:20+00:00,1256319568059838464,compoundfinance,"The proposal has been executed; Tether is now available to supply and borrow from the protocol.
+
+Thank you to everyone who participated in the first governance action, and the ecosystem of partners forming to support cUSDT:
+
+https://t.co/nE1V0TScJP https://t.co/iLYRA8u9mn",57,5,19,2020-05-01
+31,2020-05-14 16:47:30+00:00,1260975033855299584,compoundfinance,"Governance Proposal 003 has been created by a member of the Compound community, to partially deprecate $SAI.
+
+Proposal: https://t.co/PH5BKzfeBE
+Discussion: https://t.co/okdTT46Nvp
+
+It's easy to participate in Compound Governance ⚖️🔥",43,3,14,2020-05-14
+32,2020-05-15 04:35:35+00:00,1261153229917700096,compoundfinance,@js_horne @AlexMasmej @tryrollhq This is possible with Compound Governance.,2,1,0,2020-05-15
+33,2020-05-17 17:19:27+00:00,1262070238578794496,compoundfinance,"Proposal 003 has succeeded, and can be executed after a 2-day waiting period.
+
+726,812.88 COMP ✅
+0.00 COMP ⛔️
+
+If you hold $SAI, please be aware that its usefulness in Compound is decreasing, and consider migrating.
+
+https://t.co/PH5BKzfeBE",7,1,3,2020-05-17
+34,2020-05-20 22:00:41+00:00,1263228176626380800,compoundfinance,@thabaptiser You don't need to approve an unlimited amount - we'd love to look into this for you.,1,0,0,2020-05-20
+35,2020-05-22 18:31:45+00:00,1263900371660861441,compoundfinance,"Proposal 004 has been created to continue the partial deprecation of $SAI, by reducing the collateral factor from 65% to 55%.
+
+Proposal: https://t.co/HXT0nSGsP3
+Discussion: https://t.co/okdTT46Nvp",5,0,1,2020-05-22
+36,2020-05-28 16:01:27+00:00,1266036873798881280,compoundfinance,"Governance is ready to scale to the entire Compound ecosystem.
+
+All users and applications built on Compound will continuously, and automatically receive $COMP to shape the future of the protocol.
+
+Learn how it will work:
+
+https://t.co/x5Zl86t8Db",262,3,60,2020-05-28
+37,2020-06-01 21:53:45+00:00,1267575085105246208,compoundfinance,"Our team is confident that Compound Governance is reliable; we've abdicated our Guardian functionality, which would have allowed us to disable Governance in an emergency.
+
+COMP holders now have complete, censorship-resistant control over the protocol. 📈
+
+https://t.co/sHzT9tVNqV",191,7,31,2020-06-01
+38,2020-06-02 06:01:37+00:00,1267697861371682816,compoundfinance,"@b_asselstine @OpenZeppelin It already is! The code is available on Github, and is deployed &amp; running on Ethereum's Koven testnet.
+
+Learn more:
+https://t.co/x5Zl86t8Db",6,0,0,2020-06-02
+39,2020-06-04 00:36:05+00:00,1268340713135042560,compoundfinance,"The Vote interface is now available to everyone at https://t.co/En6tOQffeo ⚖️
+
+You can prepare for the $COMP Distribution and future governance proposals by configuring your address to vote manually, or delegate to an address of your choice. https://t.co/rerdDfDXat",72,7,16,2020-06-04
+40,2020-06-11 02:22:32+00:00,1270904216861589505,compoundfinance,"We've completed the $COMP Distribution testnet trial; thank you to every community member that participated.
+
+Compound Governance Proposal 007 has been created, which if passed, will begin the COMP Distribution on June 15th.
+
+📈
+https://t.co/Atx5HQF4cO",163,14,27,2020-06-11
+41,2020-06-13 19:27:59+00:00,1271887054830309376,compoundfinance,"Proposal 007 has succeeded, and can be executed after a 2-day waiting period.
+
+1,116,310.81 COMP ✅
+0.00 COMP ⛔️
+
+The COMP Distribution will begin on June 15th.
+https://t.co/Atx5HQF4cO",77,10,16,2020-06-13
+42,2020-06-15 19:55:35+00:00,1272618778140872704,compoundfinance,"All Compound protocol users are now receiving $COMP - marking the beginning of community governance.
+
+🔍 Track the distribution: https://t.co/vCejHiO6ZO
+⚖️ Vote, or delegate your tokens: https://t.co/En6tOQffeo
+📈 Climb the leaderboard: https://t.co/AzfY5Ylicv",266,28,69,2020-06-15
+43,2020-06-17 00:24:47+00:00,1273048913679802369,compoundfinance,"We’ve replaced the prior Compound protocol license with the BSD-3 open source license. This means anyone can use, modify, and redistribute the Compound protocol free of charge.
+
+Today, the community truly owns the Compound protocol 📈
+
+https://t.co/mObouXeiig",262,8,54,2020-06-17
+44,2020-06-18 00:18:22+00:00,1273409686549626880,compoundfinance,"A member of the community has created Governance Proposal 008, to change the reserve factor of USDT from 0 to 10%.
+
+Reserves are interest set aside within the protocol, that act a liquidity cushion.
+
+Vote! ⚖️
+
+Discussion: https://t.co/fj4eE2QwoH
+Proposal: https://t.co/F8s0C4CRxc",67,6,9,2020-06-18
+45,2020-06-20 19:33:27+00:00,1274425147265445888,compoundfinance,"@anders94 Blockfolio accidentally associated $COMP (https://t.co/SHbIpCwED4) with a vintage asset.
+
+Try searching for the Compound that looks like us.",2,2,0,2020-06-20
+46,2020-06-23 02:26:52+00:00,1275253961503596545,compoundfinance,"A member of the community has created Governance Proposal 010, to change the reserve factor of BAT, ZRX, REP from 10% to 50%, and correct the COMP Distribution speed to 2,880 COMP/block as intended.
+
+Vote! ⚖️
+
+Discussion: https://t.co/ekZrBWE70U
+Proposal: https://t.co/zmrDLR0zru",100,12,30,2020-06-23
+47,2020-06-25 17:09:00+00:00,1276200734036357120,compoundfinance,"Once 2 days have elapsed, you can Execute the proposal.
+
+The input takes an amount of Ether to send (0), and the Proposal ID, e.g. ""10"" again.
+
+This will activate the Proposal, and upgrade the Compound protocol 📈 https://t.co/8oB7tyqNID",9,2,2,2020-06-25
+48,2020-06-28 02:18:28+00:00,1277063788777226240,compoundfinance,"A member of the community has proposed a patch to the COMP Distribution mechanism, to remove interest rates as a weighting mechanism, and reduce the risk of griefing.
+
+Discussion: https://t.co/CkhoG3k13O
+Proposal: https://t.co/NYsXoCEcpF",69,11,19,2020-06-28
+49,2020-07-01 20:09:55+00:00,1278420589498130432,compoundfinance,"An application built on Compound (@Dharma_HQ) has proposed a new DAI interest rate model, attempting to improve interest rates &amp; utilization rates in the market.
+
+Discussion: https://t.co/MC5shiw52v
+Proposal: https://t.co/7QS0XGdPkz",105,10,20,2020-07-01
+50,2020-07-02 19:09:32+00:00,1278767783040348160,compoundfinance,"Proposal 011 was executed; the protocol is now allocating $COMP across markets based on borrowing volume (and not interest rates).
+
+To monitor the allocation, visit:
+https://t.co/vCejHiO6ZO",26,3,5,2020-07-02
+51,2020-07-04 17:44:08+00:00,1279471065845006337,compoundfinance,"Proposal 012 has failed; this it the first instance of a rejected proposal.
+
+133,613 COMP ✅
+538,486 COMP ⛔️
+
+https://t.co/iv7DA1CCBg",33,2,4,2020-07-04
+52,2020-07-05 05:18:52+00:00,1279645900659253249,compoundfinance,"A member of the community has created Governance Proposal 013, to raise the WBTC collateral from 0% to 65%, allowing it to be used to borrow other assets.
+
+Vote! ⚖️
+
+Discussion: https://t.co/sTr4x8jdEt
+Proposal: https://t.co/8dHnmMGNZ0",104,11,35,2020-07-05
+53,2020-07-09 16:28:13+00:00,1281263901531754496,compoundfinance,"🚨 Impersonation warning 🚨
+
+Compound Labs built https://t.co/MqAmwmDhQb, and the protocol is managed by $COMP token-holders.
+
+1) There is no ""official Telegram""
+2) https://t.co/j2Q9NF84zK is a phishing website
+3) Any job offer, marketing campaign, or bounty program is fake.",63,5,10,2020-07-09
+54,2020-07-12 18:02:57+00:00,1282374905636335616,compoundfinance,"Proposal 016 has passed;
+
+533,998 COMP ✅
+523,974 COMP ⛔️
+
+After a two-day waiting period, the WBTC Collateral Factor will be raised to 40%.",38,2,7,2020-07-12
+55,2020-07-24 13:54:02+00:00,1286660919234199552,compoundfinance,"@rnmt3948 There is a fixed supply of 10,000,000 $COMP.
+
+The governance token is immutable, and has no admin or functions which can modify the token.",7,1,1,2020-07-24
+56,2020-07-30 17:58:03+00:00,1288896653290741760,compoundfinance,"In the latest newsletter, read about:
+
+⚖️ Two governance proposals that passed (effecting $REP &amp; $DAI)
+🖊️ $COMP delegation &amp; voting with gas-less signatures
+💡 Q&amp;A with @HAL_team which built @CompoundGovBot 
+
+&amp; more!
+
+https://t.co/XB84qEocS0",63,7,25,2020-07-30
+57,2020-08-17 17:11:06+00:00,1295407822058876929,compoundfinance,"Proposal 019 passed, and was executed after the 2-day waiting period:
+
+701,578 COMP ✅
+0 COMP ⛔️
+
+You can monitor the the Open Price Feed, which is now being used to power the Compound Protocol:
+https://t.co/FaItERZRzp",24,6,4,2020-08-17
+58,2020-08-29 21:01:36+00:00,1299814483825573888,compoundfinance,"Proposal 21 passed, and can be executed after a 2-day waiting period.
+
+1,119,629 COMP ✅
+195,969 ⛔️",26,3,5,2020-08-29
+59,2020-09-10 00:18:06+00:00,1303850200834830336,compoundfinance,"It takes 100,000 $COMP to create a Governance Proposal. That's a lot.
+
+Now, community members with 100 $COMP can deploy an Autonomous Proposal, a smart contract used to gather public support. When it gets enough votes, it becomes a formal proposal.
+
+https://t.co/3tYv476da9",218,9,37,2020-09-10
+60,2020-09-11 21:40:58+00:00,1304535431762059265,compoundfinance,"When community governance first went live, we reserved 775,000 $COMP “for the community to advance governance through other means"".
+
+Those tokens have been set aside for education and allocation through the Governance process.
+https://t.co/uKsJ83W3ZD",512,40,419,2020-09-11
+61,2020-09-13 20:17:50+00:00,1305239284547346432,compoundfinance,"Proposal 022 passed, and was executed after the 2-day waiting period:
+
+805,960 COMP ✅
+15,015 COMP ⛔️
+
+The Governance process can apply a Borrowing Cap on a market, as needed; no limits have been set yet.
+
+You can track Borrowing Caps on each market page:
+https://t.co/J6b2uQjZSE",30,0,9,2020-09-13
+62,2020-09-23 17:01:15+00:00,1308813691127693314,compoundfinance,"Compound Labs is sponsoring ETHOnline (Oct 2nd - Oct 30th).
+
+Be on the lookout for hackathon bounties; focusing on governance, protocol improvements, and new tools!
+
+The deadline to apply is Wednesday, September 30th; secure your place now at https://t.co/sNseqarEUJ",41,3,7,2020-09-23
+63,2020-09-29 21:46:03+00:00,1311059692693536768,compoundfinance,"Proposal 024 passed, and can be executed after a 2-day waiting period:
+
+736,937 COMP ✅
+5,015 COMP ⛔️
+
+Users holding cWBTC will see an increase in their Borrowing Limit, as WBTC becomes more useful collateral.",16,5,4,2020-09-29
+64,2020-10-02 16:50:47+00:00,1312072548251648000,compoundfinance,"Proposal 025 passed, and can be executed after a 2-day waiting period:
+
+537,376 COMP ✅
+1 COMP ⛔️",25,12,1,2020-10-02
+65,2020-10-03 20:32:37+00:00,1312490764232916992,compoundfinance,"Uniswap has been added to the Compound protocol.
+
+By supplying $UNI, you'll receive Compound Uniswap (cUNI), which:
+
+💴 Earns interest
+🦾 Allows you to borrow all supported assets
+🦄 Pools votes with all cUNI holders, to vote as a block in Uniswap governance https://t.co/gzgorfAl3w",159,12,48,2020-10-03
+66,2020-10-08 01:36:23+00:00,1314016758915756034,compoundfinance,"In the latest newsletter:
+
+🦄 $UNI added to the protocol
+💎 ETHOnline Hackathon begins
+📖 Protocol Contribution Guide
+⚖️ Governance updates
+
+And more!
+
+https://t.co/8aILcJ52ok",59,9,14,2020-10-08
+67,2020-10-12 20:19:27+00:00,1315748940076072960,compoundfinance,"Proposal 026 passed, and can be executed after a 2-day waiting period:
+
+466,606 COMP ✅
+1 COMP ⛔️
+
+If you're borrowing $UNI, please be aware that the Borrowing Cap, and interest rates will increase soon.",11,0,0,2020-10-12
+68,2020-10-13 23:53:26+00:00,1316165177058885633,compoundfinance,How it started:           How it's going: https://t.co/tGkbrgX2fv,200,10,18,2020-10-13
+69,2020-10-15 17:29:13+00:00,1316793263571918848,compoundfinance,"Proposal 027 passed, and can be executed after a 2-day waiting period:
+
+622,697 COMP ✅
+1 COMP ⛔️",18,4,2,2020-10-15
+70,2020-10-18 00:35:32+00:00,1317625324746592258,compoundfinance,"The Compound Governance token has been added as a supported market; by supplying $COMP, you'll receive cCOMP, which:
+
+💴 Earns interest
+🦾 Allows you to borrow all supported assets
+📈 Pools votes with all cCOMP holders, to vote as a block in Compound governance https://t.co/PPjzemrBGU",34,9,5,2020-10-18
+71,2020-10-24 05:38:51+00:00,1319875985773228032,compoundfinance,"In the latest newsletter,
+
+📈 $COMP is added to the protocol as a supported market
+📞 Developer Community Calls begin (join on Wednesday!)
+💙 Coinbase adds new Earn educational content
+⚖️ Governance updates
+
+...and more!
+
+https://t.co/V63MjkUhPD",50,18,8,2020-10-24
+72,2020-11-16 22:44:49+00:00,1328469098888523778,compoundfinance,"Ledger Live is now the easiest way to interact with the Compound protocol using a hardware wallet--no website needed 🔒📈
+
+https://t.co/SZxPTeC2yk",82,13,15,2020-11-16
+73,2020-12-06 00:46:42+00:00,1335385142106357763,compoundfinance,"Proposal 030 by @gauntletnetwork:
+
+- Removes unused code from Comptroller
+- Adds Grant function; governance can send $COMP to any address
+- Adds Contributor function; governance can stream $COMP to any address
+
+Discussion: https://t.co/eAlbudc3mS
+Proposal: https://t.co/a6LZZsLDgs",73,12,10,2020-12-06
+74,2020-12-07 22:59:36+00:00,1336082964036259842,compoundfinance,"Proposal 031 by blck standardizes Reserve Factors (the portion of interest set aside as Reserves) across markets:
+
+$USDC, $USDT: 7.50%
+$DAI: 15.00%
+$ETH, $WBTC: 20.00%
+$BAT, $ZRX, $UNI, $COMP: 25.00%
+
+Discussion: https://t.co/VS5kvSgp2D
+Proposal: https://t.co/yTBZGabgPu",37,9,4,2020-12-07
+75,2020-12-08 17:44:14+00:00,1336365985209614336,compoundfinance,"Proposal 030 passed, and can be executed after a 2-day waiting period:
+
+1,186,440 COMP ✅
+135 COMP ⛔️",18,3,2,2020-12-08
+76,2020-12-11 22:07:12+00:00,1337519329894563840,compoundfinance,"A community Autonomous Proposal to distribute 55,255 $COMP to DAI borrowers liquidated on 11/26 has gathered the necessary support to become Proposal 32.
+
+Discussion: https://t.co/OOx3NVmEsi
+Proposal: https://t.co/S3TAsoxyoH",97,14,19,2020-12-11
+77,2020-12-17 19:54:21+00:00,1339660223510933504,compoundfinance,"Our team is actively building a testnet implementation with a limited feature set, which we expect to release next quarter.
+
+Documentation for developers &amp; validators will be available in the coming weeks.
+
+Together, we'll reinvent finance 📈",93,0,2,2020-12-17
+78,2020-12-22 20:05:22+00:00,1341474935135334400,compoundfinance,"Proposal 033 by @gauntletnetwork:
+
+- Reduces gas costs by removing automatic $COMP claiming
+- Allows governance to allocate $COMP by market (instead of dynamic allocation based on borrowing demand)
+
+Discussion: https://t.co/VodeaMMr8K
+Proposal: https://t.co/cZZKU30Yza https://t.co/J0VhS6ANB1",29,1,4,2020-12-22
+79,2020-12-23 05:33:12+00:00,1341617833503911936,compoundfinance,@haydenzadams The Compound protocol has spoken: https://t.co/KMkvDPeZA5,4,0,1,2020-12-23
+80,2020-12-26 19:27:23+00:00,1342914928596852743,compoundfinance,"Proposal 033 passed, and was executed after a 2-day waiting period:
+
+579,763 COMP ✅
+0 COMP ⛔️",18,2,3,2020-12-26
+81,2021-01-05 19:24:14+00:00,1346538013992615939,compoundfinance,"If you used @DeFiSaver to import your Compound protocol position, please read this thread.
+
+Your funds are safe, but were moved to a new DeFi Saver Smart Wallet to mitigate a vulnerability in their platform (which has been resolved). https://t.co/LXn46tjcjZ",34,6,8,2021-01-05
+82,2021-01-09 01:34:21+00:00,1347718321404321792,compoundfinance,"Proposal 035 by @gauntletnetwork re-calibrates the COMP Distribution speeds by market, as a baseline to A/B test optimal COMP emission quantities in future proposals.
+
+Discussion: https://t.co/vpdGjtOSIi
+Proposal: https://t.co/xPE7yG78FT",45,3,9,2021-01-09
+83,2021-01-11 17:48:45+00:00,1348688311469154305,compoundfinance,"Proposal 035 passed, and can be executed after a 2-day waiting period:
+
+631,909 COMP ✅
+278 COMP ⛔️",13,0,1,2021-01-11
+84,2021-01-13 04:31:19+00:00,1349212407613304833,compoundfinance,"Want to stay on top of everything happening in the Compound &amp; #DeFi ecosystem?
+
+Follow $COMP governance, community development, and new product launches with the Compound Digest newsletter.
+
+One email every two weeks, alpha content, and no spam.
+
+https://t.co/6pGAI8P18y 📈",252,139,76,2021-01-13
+85,2021-01-14 16:03:03+00:00,1349748876757131266,compoundfinance,"The easiest way to lose your crypto is to lose your private key, or fall victim to a phishing scam.
+
+You will never need to ""upgrade"" your $COMP tokens, submit transactions you don't understand, or enter your private key.
+
+Stay safe out there, and help others learn the basics.",110,48,19,2021-01-14
+86,2021-01-28 04:55:03+00:00,1354654198881808385,compoundfinance,"@SamuelShadrach4 Compound Labs (one of many developers in the ecosystem) is developing https://t.co/TFjJ0IUixn which will connect the protocol to new blockchains
+
+The protocol itself is being actively upgraded by community developers; https://t.co/iv7DA1l1JI",5,1,1,2021-01-28
+87,2021-02-02 01:26:52+00:00,1356413746349006850,compoundfinance,"The CAP to increase the $WBTC Collateral Factor from 60% to 75%  has gathered the necessary support to become $COMP Proposal 36.
+
+⚖️ Vote!
+
+Discussion: https://t.co/JRZ3pSkJgA
+Propoosal: https://t.co/hG1yKMzKSM https://t.co/sd06tSAyNb",69,11,18,2021-02-02
+88,2021-02-04 17:56:45+00:00,1357387632154603523,compoundfinance,"Proposal 036 passed, and can be executed after a 2-day waiting period:
+
+641,899 COMP ✅
+12,101 COMP ⛔️",23,0,3,2021-02-04
+89,2021-02-09 05:17:00+00:00,1359008375066001409,compoundfinance,"Proposal 037 by @Arr00c &amp; blck upgrades the $cUNI contract with functionality to ""sweep"" arbitrary tokens accidentally sent to the contract, and uses the new function to recover $700k of orphaned tokens.
+
+Discussion: https://t.co/kDxnjXXyyg
+Proposal: https://t.co/X7kMN1bQot",46,6,9,2021-02-09
+90,2021-02-12 20:39:03+00:00,1360327580965105665,compoundfinance,"Proposal 038 by @gauntletnetwork adjusts the $BAT and $ZRX collateral factors from 60% to 65%, to improve capital efficiency for borrowers.
+
+Discussion: https://t.co/kTHTrzLyGV
+Proposal: https://t.co/9RanzL6r6H",69,5,22,2021-02-12
+91,2021-03-01 17:44:19+00:00,1366444201920069632,compoundfinance,"With the help of validators and community developers, Gateway will evolve into the backbone of a global interest rate market, capable of supporting any asset.
+
+But it begins humbly: a testnet, connected to an Ethereum testnet.
+
+Learn more: https://t.co/TFjJ0IUixn",63,2,7,2021-03-01
+92,2021-03-03 19:29:57+00:00,1367195559568809984,compoundfinance,"Proposal 039 by @gauntletnetwork updates several collateral factors:
+
+BAT: 60% -&gt; 65%
+ZRX: 60% -&gt; 65%
+WBTC: 75% -&gt; 65%
+
+⚠️ Users providing WBTC as collateral should monitor this vote.
+
+Discussion: https://t.co/IhVC6DAxF6
+Proposal: https://t.co/znWAtdg5iC",71,13,18,2021-03-03
+93,2021-03-05 17:28:00+00:00,1367889645577633797,compoundfinance,"Proposal 039 passed, and can be executed after a 2-day waiting period:
+
+952,359 COMP ✅
+411,686 COMP ⛔️
+
+⚠️ Users providing WBTC as collateral should prepare for their borrowing limit to decrease in 48 hours.",43,3,11,2021-03-05
+94,2021-03-10 01:53:44+00:00,1369466469822693379,compoundfinance,"Proposal 040 by @lsukernik (submitted by @gauntletnetwork) distributes 5,000 $COMP to a community multisig, 0xf1d8c2eed95d5fc2eade4e6bb15a5969453e89a9, to establish the Compound Grants Program.
+
+Discussion: https://t.co/IcAg8cL1Yh
+Proposal: https://t.co/P4hMHFj1ih https://t.co/XCcNSpogkR",60,5,12,2021-03-10
+95,2021-03-12 18:03:10+00:00,1370435210374955010,compoundfinance,"Proposal 040 passed, and can be executed after a 2-day waiting period:
+
+1,580,817 COMP ✅
+0 COMP ⛔️
+
+🎉",19,1,4,2021-03-12
+96,2021-03-14 22:45:29+00:00,1371231033262288896,compoundfinance,"Proposal 041 by blck begins the migration of legacy cToken contracts to the latest cToken standard, starting with the WBTC market.
+
+⚠️ Integrated apps should plan for a second WBTC market.
+
+Discussion: https://t.co/p15AxLdsIr
+Proposal: https://t.co/cCHe3VaFkv",68,11,12,2021-03-14
+97,2021-03-15 03:57:36+00:00,1371309579628318723,compoundfinance,"If this proposal passes, no immediate action will be required: migrate from the legacy WBTC contract to the latest contract at your own pace.
+
+Both markets will function normally. Future governance proposals may restrict, or deprecate, the legacy contract.",22,5,1,2021-03-15
+98,2021-03-17 23:09:43+00:00,1372324297465794562,compoundfinance,"Proposal 041 passed, and can be executed after a 2-day waiting period:
+
+474,890 COMP ✅
+0 COMP ⛔️
+
+$cWBTC (2) will launch shortly.",18,5,4,2021-03-17
+99,2021-03-25 16:08:55+00:00,1375117501621796867,compoundfinance,"The CAP 👇 has gathered 100k votes, and has become Proposal 042 🗳️
+
+Governor Bravo upgrades the Compound governance system; it adds the choice to abstain, voting reasons, parameter changes, and upgradability.
+
+Discussion: https://t.co/NUKtZYG74d
+Proposal: https://t.co/AQP2L8fTrK https://t.co/g7y9RVFPO2",50,6,12,2021-03-25
+100,2021-03-29 14:26:30+00:00,1376541278993793030,compoundfinance,"Proposal 042 passed, and can be executed after a 2-day waiting period:
+
+1,438,678 COMP ✅
+1 COMP ⛔️
+
+Governor Bravo will launch shortly 📈",19,3,6,2021-03-29
+101,2021-03-30 14:35:07+00:00,1376905836539355142,compoundfinance,"Governor Bravo is now live 🙌
+
+Updates to the vote &amp; governance UI, Autonomous Proposal factory, and community tools to follow 🗳️
+
+To commemorate the upgrade, @Arr00c has created an NFT for Governor Alpha voters that can be claimed in the next3⃣days: https://t.co/dOWAkj0n2p https://t.co/nA1NotAq9s",45,7,12,2021-03-30
+102,2021-04-14 03:08:46+00:00,1382168925702610945,compoundfinance,"Proposal 043 by @justHGH adds a 2-day voting delay to governance proposals, to give the community additional time to audit new contracts and proposals for errors, and users the opportunity to move $COMP or delegations prior to a vote commencing.
+
+Proposal: https://t.co/m7Ia9SeiY7",53,8,9,2021-04-14
+103,2021-04-27 02:08:18+00:00,1386864751347748882,compoundfinance,"Proposal 044 by blck performs maintenance on legacy markets:
+
+- Deprecates the legacy WBTC cToken, which is still collateral; pauses new usage, eliminates supply interest
+- Reduces the REP collateral factor to 0
+
+Voting begins in 2 days.
+
+Proposal: https://t.co/ZFUlyqiihq",71,23,18,2021-04-27
+104,2021-04-29 02:02:09+00:00,1387587981842780165,compoundfinance,"Voting has begun, and will last for 3 days. You can cast your vote using:
+
+- https://t.co/En6tOPXEmQ
+- https://t.co/U5M22RDXUg (gas-less voting)
+- https://t.co/5LrFgHaJzd (Tally)",16,3,4,2021-04-29
+105,2021-05-13 21:37:45+00:00,1392957259110567939,compoundfinance,"In this week's newsletter:
+
+🌽 BTC Flexible Leverage Index by @indexcoop launches
+💸 Batch 3 of @compoundgrants funded
+📊 Dashboard contest winners
+⚖️ Governance updates
+
+And more!
+https://t.co/BXUNQO8UYr",75,9,16,2021-05-13
+106,2021-05-14 14:28:32+00:00,1393211631832797188,compoundfinance,"Proposal 045 by @tusd_official adds $TUSD to the protocol, with a 0% collateral factor, 7.50% reserve factor, and $1 fixed price.
+
+Voting begins in 2 days.
+
+Discussion: https://t.co/5U6vGakMRC
+Proposal: https://t.co/4vLUv4hMeN",387,43,62,2021-05-14
+107,2021-05-19 15:27:49+00:00,1395038489138368525,compoundfinance,"Developer Community Call, taking place in Discord in one hour:
+https://t.co/ZpdOywdm8X",38,9,3,2021-05-19
+108,2021-05-21 18:45:00+00:00,1395812889697599490,compoundfinance,"Proposal 045 passed, and was executed after a 2 day waiting period:
+
+1,059,354 COMP ✅
+0 COMP ⛔️
+
+TrueUSD has been added as a supported market; by supplying $TUSD, you'll receive cTUSD, which:
+
+💴 Earns interest https://t.co/ChXeXcO9GT",393,65,54,2021-05-21
+109,2021-05-22 19:33:28+00:00,1396187474284748801,compoundfinance,"Proposal 046 passed, and was executed after a 2 day waiting period:
+
+971,696 COMP ✅
+0 COMP ⛔️
+
+ChainLink has been added as a supported market; by supplying $LINK, you'll receive cLINK, which:
+
+💴 Earns interest
+📈 Earns $COMP https://t.co/oGN7W6AYcL",203,20,40,2021-05-22
+110,2021-05-26 17:41:33+00:00,1397608860668637191,compoundfinance,"Compound Labs: October 2017
+Compound v0: March 2018
+Compound v1: September 2018
+Compound v2: May 2019
+COMP: June 2020
+Compound Gateway: 3Q 2021
+
+https://t.co/TFjJ0IUixn",195,32,28,2021-05-26
+111,2021-06-01 03:29:47+00:00,1399568833988411392,ChrisBlec,"Some DeFi projects that don’t require trust in a multisig or admin key for security of user deposits:
+
+@Uniswap
+@compoundfinance 
+@MakerDAO
+@CurveFinance 
+@Instadapp 
+@BalancerLabs 
+@DeFiSaver 
+@TornadoCash",283,21,49,2021-06-01
+112,2021-06-03 13:36:47+00:00,1400446364962656256,Barn_Bridge,"👀 #TheFlippening
+
+@AaveAave flipped @compoundfinance this morning on BarnBridge SMART Yield.
+
+$AAVE 🤝 $BOND 🤝 $COMP https://t.co/GCVouhS2YD",118,1,12,2021-06-03
+113,2021-06-04 19:28:09+00:00,1400897179192021017,gauntletnetwork,"DeFi has been stress tested in recent weeks by volatility and liquidity concerns greater than Black Thursday. Since then, @compoundfinance and @AaveAave have grown over 100x. How did they fare? https://t.co/2bo7OLSk7Y",151,1,30,2021-06-04
+114,2021-06-05 13:00:04+00:00,1401161901900328967,pendle_fi,"With the rise of DeFi and platforms like @AaveAave and @compoundfinance, the breadth of yield-generating assets has exploded.
+
+Pendle builds on top of these platforms to allow users to trade and hedge their yield. This piece explores some base use cases:
+https://t.co/GsUXvixC7c",184,6,46,2021-06-05
+115,2021-06-06 04:09:24+00:00,1401390741956534280,wongisrite,"some things to do when gas is this freaking low
+
+- buy an @ensdomains (costs barely + gas)
+- bridge assets to layer 2 (@0xPolygon / @loopringorg)
+- borrow / mint on @AaveAave, @compoundfinance, or @MakerDAO 
+- open an @AlchemixFi vault
+- claim ""dust"" sized rewards https://t.co/Xg6qcb8Ah5",281,9,43,2021-06-06
+116,2021-06-08 14:01:19+00:00,1402264480357273610,bneiluj,Rare footage about @AaveAave killing @compoundfinance... 👀,117,4,12,2021-06-08
+117,2021-06-08 02:31:44+00:00,1402090941675032578,ASvanevik,"Top ETH addresses increasingly dominated by smart contracts:
+#1 WETH
+#2 ETH2
+#6 @compoundfinance 
+#9 @LiquityProtocol 
+#10 @0xPolygon https://t.co/yqQp21amoy",75,4,14,2021-06-08
+118,2021-06-09 17:08:34+00:00,1402673992616402945,rstormsf,Facebook doesn't like @compoundfinance https://t.co/PwovrIMBpV,84,7,5,2021-06-09
+119,2021-06-09 11:07:50+00:00,1402583210576400391,tascha_panpan,"Was digging into lending interest rates on #AlphaHomoraV2 today.
+
+So I turned it into a quick comparison with @compoundfinance and @AaveAave. https://t.co/htyNkpn4Tl",150,13,23,2021-06-09
+120,2021-06-11 20:33:50+00:00,1403450425538449412,spencernoon,"This week in #DeFi: lending protocols starting to look unstoppable 🦍
+
+📈 Record volumes on @AaveAave
+📈 @compoundfinance adds $LINK $TUSD mkts
+📈 @CreamdotFinance crosses $1.5B assets supplied
+
+Plus: @gitcoin has facilitated &gt;$20M in #OpenSource funding 💸
+
+Source: @OurNetwork__",65,2,14,2021-06-11
+121,2021-06-11 21:20:48+00:00,1403462243950510082,compoundfinance,"Stay alert: fake newsletters contain phishing links, and dangerous misinformation designed to steal your crypto.
+
+The only Compound newsletter is https://t.co/6pGAI8P18y https://t.co/Bwl1Hfnsg3",62,11,21,2021-06-11
+122,2021-06-15 18:59:13+00:00,1404876165676945409,compoundfinance,"Proposal 047 by @getty_hill switches the protocol price feed to an updated Uniswap-anchored view:
+
+- Replaces Coinbase Pro with Chainlink
+- Reduces anchor from 20% to 15%
+- Community multi-sig given fail-safe
+
+Discussion: https://t.co/PxIwYtwANm
+Proposal: https://t.co/en1a4ZnXl4",202,14,28,2021-06-15
+123,2021-06-15 02:45:28+00:00,1404631109858586632,PennBlockchain,"As Aave evangelists, we are electrified to announce our participation in @AaveAave governance, alongside our existing efforts in @Uniswap and @compoundfinance. 🎉👻
+
+Delegate to us here: https://t.co/iqJMGDihSG https://t.co/pnqBIVH8Ed",105,3,22,2021-06-15
+124,2021-06-16 00:53:42+00:00,1404965371673722884,compoundfinance,"Proposal 048 by @compoundfinance updates the base cToken, and implements it across 7 markets; 2.8% of liquidations will be transferred to cToken reserves, reducing the risk of cascading liquidations.
+
+Discussion: https://t.co/SlqaDEKEYr
+Proposal: https://t.co/I1icXTHKxF",117,15,15,2021-06-16
+125,2021-06-16 16:41:07+00:00,1405203799581597702,graphprotocol,"Dapps live on The Graph Network 🌐 🎉
+ 
+Indexers &amp; Delegators start earning query fees! 👩‍🚀 👩‍🚀
+ 
+@mstable_ provides autonomous &amp; non-custodial infrastructure for pegged-value crypto assets for leading DeFi protocols like @AaveAave, @argentHQ, @BalancerLabs, &amp; @compoundfinance. https://t.co/QjdnfNsLEY",112,0,20,2021-06-16
+126,2021-06-17 16:52:30+00:00,1405569051175231489,DefiMoon,"Not surprising at all that $CRV isn't listed on @compoundfinance but $UNI is. Most people don't know this, but Curve is one of the few, if not the only protocol that had no VC involvement in its early days. It was purely a community-driven project and still remains so. $COMP",77,8,10,2021-06-17
+127,2021-06-17 03:10:44+00:00,1405362246532972545,compoundfinance,"During the 2-day proposal review period, a community member identified a potential improvement to transaction event logs, which would benefit off-chain analytics.
+
+Proposal 048 has been cancelled, and will be re-submitted with this improvement shortly.",23,3,3,2021-06-17
+128,2021-06-17 12:57:48+00:00,1405509985791053826,DeFi_Dad,"If you had a position on:
+
+@MakerDAO 
+@compoundfinance 
+@AaveAave 
+@AaveAave @0xPolygon 
+
+And if you migrate/import it to @Instadapp you will be able to claim INST.
+
+Having used Instadapp for years, it’s clever IMO to incentivize importing positions to claim and hurts no one.",76,15,10,2021-06-17
+129,2021-06-17 13:15:27+00:00,1405514426426482691,defi_airdrops,"Something that wasn’t clear to us about the @Instadapp airdrop:
+
+ANYONE who has had positions on 
+
+@MakerDAO 
+@compoundfinance 
+@AaveAave 
+
+is eligible to receive $INST !!
+
+All you have to do is:
+
+1) create a Instadapp DSA account (tip use @polygon to save on $$) https://t.co/9jBFK7pSM8",103,29,16,2021-06-17
+130,2021-06-18 20:40:33+00:00,1405988828352069638,zapper_fi,"🎉 Congrats to @Instadapp launching $INST!
+
+⚡️ Did you know Zapper supports Instadapp balances?
+
+📊 Track your @MakerDAO, @compoundfinance, and @AaveAave positions.
+
+🤓 Learn how with @zapper_learn.
+https://t.co/ThrQAd9XUY",112,8,21,2021-06-18
+131,2021-06-19 22:27:35+00:00,1406378152998412288,CryptoDavid_,"This is one of the biggest news #chainlink got lately.
+ 
+#4 biggest DeFi platform by TVL, @compoundfinance will be chainlinked.
+
+It's a big WIN-WIN. Congrats to everybody. $LINK",213,5,33,2021-06-19
+132,2021-06-19 22:24:10+00:00,1406377291752542212,dogoshii,"A proposal to upgrade @compoundfinance oracles to $LINK oracles just passed. 
+
+This is overall healthy for the entire DeFi ecosystem, as $COMP users now have full market coverage vs. having a single @coinbase price feed w a @Uniswap TWAP as a circuit breaker. https://t.co/Kt3fZPWTlB",599,23,108,2021-06-19
+133,2021-06-19 04:15:17+00:00,1406103264446357508,loomdart,Guys does anyone know how i transfer 50% of an onchain liquidation penalty to my ex wife's address??? @AaveAave @compoundfinance @defi @iearnfinance,108,3,2,2021-06-19
+134,2021-06-19 20:42:27+00:00,1406351696763179014,gauntletnetwork,FOR ✅ CP047. Moving to @chainlink provides an opportunity for @compoundfinance to continue its growth. Chainlink currently supports more assets than the existing oracle and has a proven track record of quickly adopting additional assets. https://t.co/DVuYqobiPx,142,5,19,2021-06-19
+135,2021-06-21 01:07:08+00:00,1406780691086557184,compoundfinance,"Proposal 047 passed, and will be executed after a 2 day waiting period:
+
+1,171,478 COMP ✅
+0 COMP ⛔️
+
+The transition to the updated price feed should be invisible;
+
+However, if you are close to liquidation, please monitor &amp; consider improving your account health as a precaution.",79,5,7,2021-06-21
+136,2021-06-21 01:07:08+00:00,1406780691086557184,compoundfinance,"Proposal 047 passed, and will be executed after a 2 day waiting period:
+
+1,171,478 COMP ✅
+0 COMP ⛔️
+
+The transition to the updated price feed should be invisible;
+
+However, if you are close to liquidation, please monitor &amp; consider improving your account health as a precaution.",79,5,7,2021-06-21
+137,2021-06-21 06:38:16+00:00,1406864025011593216,LoverPlaid,"To me @compoundfinance embracing #Chainlink should be marked as a giant leap beyond tribalism in a space that's dominated by it.
+
+The tech and user security are the big winners here, nothing else is really relevant. 
+
+Welcome to the fold frens $COMP",73,0,4,2021-06-21
+138,2021-06-21 15:55:03+00:00,1407004143181516810,thekriskay,"4 DeFi founders that don't sleep. 
+(I'm convinced) 
+👇
+1. @0xMiles -  of @decentralgames
+
+2. @lay2000lbs -  of @PoolTogether_ 
+
+3. @rleshner - of @compoundfinance
+
+4. @scupytrooples - of @AlchemixFi
+
+They say don't bet on the product, bet on the people. 
+
+These are the people.",173,16,22,2021-06-21
+139,2021-06-21 18:51:38+00:00,1407048583229083654,ChrisBlec,"Do you need to trust the devs of your favorite DeFi project to act with integrity?
+
+5 is least trust (best), 1 most trust (worst)
+
+@Uniswap (v1-3) - 5
+@CurveFinance - 4.5
+@compoundfinance - 4.5
+@MakerDAO - 4.5
+@AaveAave - 4
+@iearnfinance - 2.5
+@WrappedBTC - 1
+@0xPolygon - 1",135,42,25,2021-06-21
+140,2021-06-21 23:10:28+00:00,1407113719650398208,RichardHeartWin,"@ChrisBlec @Uniswap @CurveFinance @compoundfinance @MakerDAO @AaveAave @iearnfinance @WrappedBTC @0xPolygon @HEXcrypto Satoshi owned 100% of the supply for a long while, how did it work out? Looks like everything is massively centralized and everything dumps 85%-95% regardless of how socialized you think the ownership is. Seems like the best projects in the world have centralized ownership. $AMZN https://t.co/e3DD0ceJgh",69,6,12,2021-06-21
+141,2021-06-26 18:38:53+00:00,1408857315369959428,compoundfinance,"Proposal 049 passed, and will be executed after a 2 day waiting period:
+
+1,129,591 COMP ✅
+0 COMP ⛔️
+
+No action is required prior to the execution of this proposal.",23,1,2,2021-06-26
+142,2021-06-27 20:57:49+00:00,1409254665225752578,ChrisBlec,"This is DeFi, but you:
+
+🤔 control every decision @a16z 
+🚫 can freeze our funds $USDC 
+🔒 build for institutions @AaveAave 
+🏦 build for central banks @compoundfinance 
+🌩️ refuse to secure your network @0xPolygon 
+🤫 won't talk to users @Uniswap 
+
+Did you forget about us?",232,23,37,2021-06-27
+143,2021-06-28 19:59:19+00:00,1409602329746227214,finrekt,@ChainLinkGod @rleshner @TheTumor1 @CoinDesk @compoundfinance @BradyDale Linkpilled,79,1,0,2021-06-28
+144,2021-06-28 20:32:31+00:00,1409610684506296327,rleshner,@RyanWatkins_ @MikeMcDonald89 @compoundfinance That sweet sweet venture capital money that everyone in #DeFi loves to hate 😉,95,4,3,2021-06-28
+145,2021-06-28 19:49:41+00:00,1409599906696814592,rleshner,"@TheTumor1 @ChainLinkGod @CoinDesk @compoundfinance @BradyDale Even then, Compound will still be built on Ethereum and powered by Chainlink",390,30,63,2021-06-28
+146,2021-06-28 19:30:37+00:00,1409595106991218694,rleshner,"@MikeMcDonald89 @compoundfinance Right now, rates are at a ""generational low"", and still come pretty close to 4.00%. Historical market data over the past cycle puts them quite a bit higher.
+
+If rates are lower, think of the difference as a marketing expense. https://t.co/OAK42uIF1j",81,8,1,2021-06-28
+147,2021-06-28 19:11:55+00:00,1409590400981950470,compoundfinance,"Our vision is that Compound Treasury becomes the bridge for non-crypto financial institutions to deliver the core benefits of DeFi to the next billion users, and we are extremely excited to work with our customers to navigate this enormous opportunity.",125,4,14,2021-06-28
+148,2021-06-28 19:11:55+00:00,1409590400981950470,compoundfinance,"Our vision is that Compound Treasury becomes the bridge for non-crypto financial institutions to deliver the core benefits of DeFi to the next billion users, and we are extremely excited to work with our customers to navigate this enormous opportunity.",125,4,14,2021-06-28
+149,2021-06-28 19:01:12+00:00,1409587704631754754,CoinDesk,"JUST IN: @compoundfinance is launching a savings product for fintech firms and others powered by USDC. 
+
+@BradyDale reports
+
+https://t.co/WobB02OP6Y",562,36,130,2021-06-28
+150,2021-06-28 21:43:40+00:00,1409628592313704448,iii_OIO_iii,😂😂😂 @compoundfinance boss blocks me for mentioning 20% @anchor_protocol and $aUST being added into compound to help the 4% be competitive. But they prefer only using HIGHLY CENTRALIZED stable coins only in their “defi” lol. Like a true hero of the people https://t.co/qyoq5bfwce,83,9,13,2021-06-28
+151,2021-06-28 19:11:54+00:00,1409590399794962435,compoundfinance,"We're proud to announce Compound Treasury, designed for businesses and financial institutions to access the benefits of the Compound protocol.
+
+The idea is simple: a fixed 4% APR on US dollars, with daily liquidity and none of the complexity of crypto.
+
+https://t.co/l8ih8IzrHh",1458,179,277,2021-06-28
+152,2021-06-29 19:23:06+00:00,1409955602734923791,orion_money,Thank you @coinbase and @compoundfinance! 🙏 Hopefully these 4% APY offers will bring millions of new users in crypto! And once they are in and discover 15-20% APY on stablecoins from @orion_money and @anchor_protocol - they will know where to go. 🤑 $UST $LUNA $ORION,356,20,81,2021-06-29
+153,2021-06-29 14:13:55+00:00,1409877795774386176,sassal0x,"Yesterday, @compoundfinance announced Compound Treasury - a new product offering 4% APR on USD to businesses &amp; institutions.
+
+In today's @thedailygwei newsletter, I detail what I think the implications of this product are for the future of DeFi 👇
+
+https://t.co/W4q43zlIAo",67,4,17,2021-06-29
+154,2021-06-29 11:31:20+00:00,1409836881022386179,sassal0x,It'd be wild if @compoundfinance kickstarts DeFi summer round 2 with their new treasury accounts product.,225,9,16,2021-06-29
+155,2021-06-29 20:27:24+00:00,1409971787002224649,josephliow,"Pretty cool to see @coinbase and @compoundfinance following in @anchor_protocol’s footsteps of providing high and stable yield to non-crypto consumers. 
+
+IMO this is a huge validation for Anchor’s product-market fit, but there are a few key differences between them: https://t.co/siBdojqi0z",81,6,10,2021-06-29
+156,2021-06-29 03:28:18+00:00,1409715319292129286,compoundfinance,"Proposal 050 by @compoundfinance reduces the gas costs of claiming COMP from multiple markets, and allows deprecated markets ($SAI, $REP) to be liquidated.
+
+Voting begins in 2 days.
+
+Discussion: https://t.co/SlqaDF2fPZ
+Proposal: https://t.co/eve9iHpT3N",112,12,15,2021-06-29
+157,2021-06-29 03:28:18+00:00,1409715319292129286,compoundfinance,"Proposal 050 by @compoundfinance reduces the gas costs of claiming COMP from multiple markets, and allows deprecated markets ($SAI, $REP) to be liquidated.
+
+Voting begins in 2 days.
+
+Discussion: https://t.co/SlqaDF2fPZ
+Proposal: https://t.co/eve9iHpT3N",111,12,14,2021-06-29
+158,2021-06-30 18:54:23+00:00,1410310766574534660,smykjain,"1/ I just proposed Automated DeFi Limit Orders on top of the @Instadapp protocol. A new kind of DEX build on lending protocols (@AaveAave &amp; @compoundfinance) to possibly provide the best swaps for stable coin pairs (USDC, DAI &amp; USDT).
+
+https://t.co/6lttAwwvz6 https://t.co/g6XqbotJXh",97,3,18,2021-06-30
+159,2021-06-30 07:48:31+00:00,1410143196504465411,stablekwon,"I've started to simp for @rleshner 
+
+Inflation-resistant stable yield is a killer use case for crypto, and Compound Treasury is a huge step forward to productizing it for the masses.
+
+Congrats @compoundfinance!",342,13,25,2021-06-30
+160,2021-07-01 22:51:08+00:00,1410732733081391106,PedroMNegron,"Doing some research about @compoundfinance, came across some interesting statistics. Average deposits for banks in the United States is $3.1 billion. Compound currently holds $9,862,096,182.75 on deposits that's more than triple the avg U.S. bank. @rleshner",195,8,36,2021-07-01
+161,2021-07-02 17:33:00+00:00,1411015059422150661,calchulus,"When you realize that @AxieInfinity marketplace generated more fees than @AaveAave @compoundfinance @SushiSwap @CurveFinance combined last 30 days?
+
+data h/t: @tokenterminal https://t.co/PDZColqAQU",385,26,108,2021-07-02
+162,2021-07-04 15:11:23+00:00,1411704196877987843,finrekt,"this week in @chainlink 
+
+@BinStarterio 
+@PancakeHunny 
+@ape_swap 
+@block42_company 
+@biconomy 
+@TheDeFiNetwork 
+@VentFinance 
+@NiftyRoyale 
+@dotmoovs 
+@DegensFarm 
+@KalataOfficial 
+
+@ShrubLabs grant
+
+@compoundfinance is #PoweredByChainlink 
+
+happy 4th of july 🇺🇸🎇
+
+$LINK https://t.co/JXkxPMNOvo",117,6,26,2021-07-04
+163,2021-07-04 18:28:51+00:00,1411753891998232577,CryptoCrunchApp,"Checkout Top 10 #trending crypto 🔥🚀
+1️⃣ $AXS(@AxieInfinity)
+2️⃣ $SPL(@AxieInfinity)
+3️⃣ $SAFEMOON(@safemoon)
+4️⃣ $COMP(@compoundfinance)
+5️⃣ $MUSE(@NiftyMuseum)
+6️⃣ $WEX(@Wault_Finance)
+7️⃣ $SOL(@solana)
+8️⃣ $SWAPZ(@swapz_app)
+9️⃣ $AAVE(@AaveAave)
+🔟 $MINA(@MinaProtocol) https://t.co/gYUbFHgnOU",300,37,114,2021-07-04
+164,2021-07-04 14:07:19+00:00,1411688075835682818,CryptoDiffer,"WEEKLY GAINERS LIST
+4 July 2021
+
+7 Days Price Change:
+$AXS +147.6%
+$ORAI +112.8%
+$PERP +113.2%
+$FORM +89.5%
+$COMP +84.1%
+$CRE +80.2%
+$SAITO +71.5%
+
+@AxieInfinity @oraichain @perpprotocol @FormationFi @compoundfinance @carryprotocol @SaitoOfficial https://t.co/mJMmVpiUI3",92,3,19,2021-07-04
+165,2021-07-05 07:15:31+00:00,1411946829059477505,Coin98Analytics,"Top 30 Trending Searches on @coingecko from 28 Jun - 5 Jul 2021.
+
+Welcome newcomers: @OlympusDAO &amp; @compoundfinance 
+
+$COMP $OHM $BTC $ETH $SOL $ADA $SHIB $DOGE $MATIC $FTM #SAFEMOON $FEG $CAKE $QUICK $WEX https://t.co/bKEgBA3vvF",213,465,49,2021-07-05
+166,2021-07-05 15:31:00+00:00,1412071520793284610,0xPolygon,"2/3 BarnBridge allows users to enter DeFi on their own terms with calibrated risk profiles. Polygon’s full-stack scaling is set to make this faster and cheaper
+
+Smart Yield offers fixed &amp; levered variable yield to depositors into lending markets like @aaveaave or @compoundfinance",177,3,15,2021-07-05
+167,2021-07-05 18:47:27+00:00,1412120962129010693,LunarCrush,"Top 10 coins by #LunarCRUSH🚀AltRank™
+$egld #elrond
+$mln #enzymefinance
+$atom #cosmosnetwork
+$comp #compoundfinance
+$omi #ecomi
+$alpha #alphafinance
+$titan #titanswap
+$perp #perpetualprotocol
+$lina #linearfinance
+$qnt #quantnetwork
+
+https://t.co/pAkWfog6W1 $alts #defi",159,28,60,2021-07-05
+168,2021-07-06 12:45:48+00:00,1412392333845352460,compoundfinance,"Proposal 050 passed, and will be executed after a 2 day waiting period:
+
+1,521,855 COMP ✅
+0 COMP ⛔️
+
+Note: any remaining SAI and REP borrows may be closed following the execution of this proposal.",22,1,7,2021-07-06
+169,2021-07-06 11:57:27+00:00,1412380166957961219,Bancor,"$COMP ( @compoundfinance ) has been whitelisted by the BancorDAO!
+
+LPs can now stake $COMP with single-token exposure &amp; protection from impermanent loss while earning swap fees in $COMP
+
+Stake &amp; earn $COMP on https://t.co/p15kzfbPrE: https://t.co/LFNTZnhP5S https://t.co/ReQOq05xga",73,6,11,2021-07-06
+170,2021-07-07 16:37:48+00:00,1412813109341966339,compoundfinance,"Proposal 051 by @compoundfinance creates a streaming COMP grant to @getty_hill as a Compound protocol price feed coordinator.
+
+Voting begins in ~2 days.
+
+Discussion: https://t.co/CmSFLcCocQ
+Proposal: https://t.co/oyViAEYRzJ",56,10,9,2021-07-07
+171,2021-07-09 09:05:29+00:00,1413424052895551489,kaiynne,"A major improvement to @gnosisSafe recently, direct Dapp access! Please add the safe apps SDK to your dapps here https://t.co/XB9WOyhGQA
+
+Cc:
+@Uniswap 
+@compoundfinance 
+@iearnfinance 
+@BalancerLabs 
+@opensea 
+@rariblecom 
+@matchaxyz 
+@zapper_fi 
+@CreamdotFinance 
+@renprotocol",65,2,15,2021-07-09
+172,2021-07-09 14:35:44+00:00,1413507165269094406,iamDCinvestor,"wells fargo: ""we're shutting down personal lines of credit""
+
+me: ""cool, i'll just use @AaveAave and @compoundfinance to borrow against my own assets. they can't be shutdown""",668,28,66,2021-07-09
+173,2021-07-11 16:44:57+00:00,1414264460248768514,k06a,"Just built @duneanalytics dashboard to track number of unique users (wallets) per DeFi project (DEXes and money markets). @Uniswap is an absolute beast with 2.3M users, @1inch has 2nd place with 500k+ users, @compoundfinance almost stopped to grow in 2021 https://t.co/DMrKmsosg8 https://t.co/MQxljgre7y",259,28,57,2021-07-11
+174,2021-07-12 19:43:01+00:00,1414671660574076929,compoundfinance,"Proposal 051 passed, and will be executed after a 2 day waiting period:
+
+882,589 COMP ✅
+14,797 COMP ⛔️",8,1,0,2021-07-12
+175,2021-07-13 15:39:03+00:00,1414972650443640835,tomuky,Just presented to the Chief Innovation Officer at my company the idea of utilizing algorithmic money markets on #Ethereum like @compoundfinance and it went very well,116,7,8,2021-07-13
+176,2021-07-14 20:35:53+00:00,1415409740746690562,MonetSupply,"new markets for $MKR, $SUSHI, $AAVE, and $YFI potentially on the way for @compoundfinance 
+
+h/t @getty_hill 
+
+https://t.co/e2XOMT8qD7",169,5,17,2021-07-14
+177,2021-07-14 15:58:50+00:00,1415340016612503552,ErikVoorhees,"@Uniswap 
+@THORChain 
+@gitcoin
+@AaveAave
+@BalancerLabs
+@SushiSwap
+@iearnfinance
+@compoundfinance
+@MakerDAO
+@AlchemixFi 
+@1inch 
+@0xProject
+@CurveFinance
+@BadgerDAO
+
+Tens of thousands of members from these communities have all received FOX. Thank you for pioneering.",369,19,20,2021-07-14
+178,2021-07-15 01:03:59+00:00,1415477207418421249,The3D_,Pretty cool to see the @compoundfinance community proposal to list $AAVE - should the @AaveAave community return the favour and list $COMP? I'd be down to that - propose here https://t.co/mbkwz3tpPv,56,2,1,2021-07-15
+179,2021-07-15 17:35:04+00:00,1415726622544642049,chainlink,"📢 New speaker alert! 📢 
+
+@rleshner, Founder of @compoundfinance, will join us for #SmartCon August 5-7 to discuss the future of #DeFi alongside 200+ industry leaders from the #blockchain space. We have a limited number of complimentary tickets so sign up before they're gone!",478,28,102,2021-07-15
+180,2021-07-21 09:53:00+00:00,1417784666678075393,danreecer_,"Technically speaking, would it be possible for #ETH2 to just bite the bullet and use @substrate_io like @compoundfinance and @0xPolygon are doing, and we all just build ETH2 and @Polkadot together using the same tech?",237,10,35,2021-07-21
+181,2021-07-22 17:00:03+00:00,1418254524515508228,Rook,"We have surpassed $100,000,000 in total assets being protected in Hiding Vaults.
+
+Migrate your position from @compoundfinance, or open a new position using our app. 
+
+https://t.co/TbJAovE86a https://t.co/h5lwEqVkdI",74,6,12,2021-07-22
+182,2021-07-24 00:36:04+00:00,1418731675652173829,Bancor,"Who knows a $COMP whale?
+
+The @compoundfinance pool is currently driving 80+% APR
+
+📈 Trading fees earned in $COMP
+🪙 Single-asset exposure (stake only $COMP, stay exposed to only $COMP)
+🛡️ Full protection from impermanent loss
+
+Space for $150K+ in $COMP:
+https://t.co/LFNTZnhP5S https://t.co/7iOdNOT88p",75,7,9,2021-07-24
+183,2021-07-26 20:14:42+00:00,1419753062160273408,compoundfinance,"Proposal 053 by @MonetSupply, @getty_hill and Eddy Lee adds $MKR as a supported asset with the following parameters:
+
+Collateral Factor: 0%
+Reserve Factor: 25%
+Borrowing Cap: 25k MKR
+
+Voting begins in 2 days.
+
+Discussion: https://t.co/GpJ3YjkWEX
+Proposal: https://t.co/Q32UlTGB4C",99,17,17,2021-07-26
+184,2021-07-27 17:10:12+00:00,1420069021450375172,zapper_fi,"⚡️ Today we pushed a big integration to enhance our Save feature!
+
+You can now deposit assets and earn interest through @CompoundFinance from our dashboard 🎉
+
+Get started at https://t.co/jSMMY8QHFG. https://t.co/go8S2rNaHY",242,15,23,2021-07-27
+185,2021-07-29 20:49:01+00:00,1420848861191495690,benjaminsimon97,"Friends I spot on this epic cover: @CL207, @Rewkang, @ChainLinkGod, @inversebrah, @TheCryptoDog, @santiagoroel, @zhusu/@kyled116 (3ac) @Tetranode, @bantg.
+
+Plus the protocols themselves: @AaveAave, @SushiSwap, @Uniswap, @compoundfinance, @MetaMask, etc. 
+
+Great stuff @pplpleasr1",69,7,4,2021-07-29
+186,2021-07-29 17:30:53+00:00,1420799000962342914,compoundfinance,"Proposal 054 by @polychaincap, @getty_hill and @yesimeddy adds $AAVE $YFI $SUSHI as supported assets with the following parameters:
+
+Collateral Factor: 0%
+Reserve Factor: 25%
+Borrowing Cap: 60k AAVE, 1500 YFI
+
+Discussion: https://t.co/Yr54oTyXck
+Proposal: https://t.co/Ee0zCnU5yL",59,16,12,2021-07-29
+187,2021-07-30 18:16:43+00:00,1421172920450179074,compoundfinance,"The Compound protocol is community-run, autonomous, and anybody can integrate it. There are no ""partnerships"", and all development / changes occur through https://t.co/GHf3CoOHyY
+
+Anybody claiming a partnership with Compound is likely scamming you (e.g. BitcoLoan). Stay safe.",112,10,20,2021-07-30
+188,2021-07-30 18:16:43+00:00,1421172920450179074,compoundfinance,"The Compound protocol is community-run, autonomous, and anybody can integrate it. There are no ""partnerships"", and all development / changes occur through https://t.co/GHf3CoOHyY
+
+Anybody claiming a partnership with Compound is likely scamming you (e.g. BitcoLoan). Stay safe.",112,10,20,2021-07-30
+189,2021-08-01 21:51:18+00:00,1421951699011481604,compoundfinance,"Proposal 053 passed, and will be executed after a 2 day waiting period:
+
+1,434,818 COMP ✅
+0 COMP ⛔️",30,3,2,2021-08-01
+190,2021-08-01 15:11:46+00:00,1421851153340452864,chainlink,"Next week at #SmartCon, @CamiRusso, author of “The Infinite Machine” and Founder of @DefiantNews, will host a panel with @rleshner of @compoundfinance and @kaiynne of @synthetix_io on the realities of decentralized power transfers. RSVP below to save your spot.",444,9,94,2021-08-01
+191,2021-08-02 18:33:51+00:00,1422264396592648198,Smart_Contract,"#SmartCon kicks off 72 hours!
+
+Sign up to hear from 200+ leading projects, including:
+-@AaveAave
+-@compoundfinance
+-@synthetix_io
+-@CelsiusNetwork
+-@SushiSwap
+-@0xPolygon
+-@avalabsofficial
+-@arbitrum
+
+Plus many, many more.
+
+We have limited complimentary tickets, so RSVP today.",167,1,39,2021-08-02
+192,2021-08-02 21:45:00+00:00,1422312501107216393,chainlink,"This August 5-7, 200+ speakers from the most prominent #DeFi, #NFT, and #blockchain protocols will come together at #SmartCon to discuss the latest innovations in the space. Don’t miss @rleshner, Founder of @compoundfinance, at the event by RSVPing below!",417,14,79,2021-08-02
+193,2021-08-03 14:23:33+00:00,1422563793926766593,WOOnetwork,"$COMP is now available to trade on $WOO X and the entire institutional liquidity network.
+
+A true pillar of #DeFi, @compoundfinance provides an algorithmic, autonomous interest rate protocol for developers, while #Wootrade provides zero fees and more compounding gains for traders https://t.co/gKtufMawPG",156,3,25,2021-08-03
+194,2021-08-03 13:56:25+00:00,1422556967969624067,DavidNage,"Only 1% of Robinhood users participated directly in the IPO. 
+
+This is not the future. 
+
+The future has begun with projects like @SushiSwap @Uniswap @compoundfinance where network participants and users benefit in the growth of the platform, together.",243,10,47,2021-08-03
+195,2021-08-03 21:54:42+00:00,1422677333262098435,gitcoin,"Join @boardroom_info, @UMAprotocol, @gnosisPM, @SnapshotLabs, @compoundfinance, @nowdaoit &amp; @OpenLawOfficial for a  3 week hackathon focused on building  the tools needed to scale decentralized governance.
+
+🗓️Happening Aug 17th - Sept 7th
+
+Sign up here 👇
+https://t.co/VHI7LbuPJd",97,7,34,2021-08-03
+196,2021-08-04 22:02:42+00:00,1423041734351757313,compoundfinance,$MKR $AAVE $SUSHI and $YFI have been added to the Compound protocol 🙌 https://t.co/vFed0OvV6v,709,77,94,2021-08-04
+197,2021-08-04 21:11:01+00:00,1423028724073652224,getty_hill,"$SUSHI, $YFI, $MKR, and $AAVE are listed on @compoundfinance 🥳
+
+collateral factors coming soon",67,0,1,2021-08-04
+198,2021-08-04 07:43:09+00:00,1422825417614925828,tusdio,"💸Always invest for the long haul!
+
+✅Check out our Daily #DeFi Briefing on getting the most APY/APR with #TUSD
+
+1⃣@wault_finance - 96.17% APR
+2⃣@defi_just - 33.03% APY
+3⃣@PancakeSwap 10.06% APR
+Also, earn with @compoundfinance @AaveAave @AlpacaFinance
+
+Which one is your go-to? https://t.co/HNPH4UyoOT",250,50,83,2021-08-04
+199,2021-08-04 14:25:38+00:00,1422926706692743173,compoundfinance,"Proposal 053 passed, and will be executed after a 2 day waiting period:
+
+1,407,571 COMP ✅
+0 COMP ⛔️",15,22,2,2021-08-04
+200,2021-08-05 14:39:31+00:00,1423292588841488384,JonGalt14,"Hey @AaveAave and @compoundfinance, I'd like to see you guys embrace this position by @charlie_eth of @CurveFinance  rather than changing your platforms so that US regulated investors can participate. https://t.co/2heN7rL8D2",148,8,19,2021-08-05
+201,2021-08-05 21:30:00+00:00,1423395890979426305,Smart_Contract,"Join us at #SmartCon right now to hear @rleshner from @compoundfinance, @kaiynne from @synthetix_io, and @CamiRusso from @DefiantNews discuss the realities of decentralizing power to DAOs. Tune in to watch here: https://t.co/6W8Lxz4nPC https://t.co/KR0e3XXbHm",71,3,15,2021-08-05
+202,2021-08-05 11:34:57+00:00,1423246141060222977,Smart_Contract,"1/
+
+#SmartCon is going live shortly! 
+
+Tune in to see:
+
+- @balajis, Former CTO of @coinbase
+- @SergeyNazarov, Co-Founder of @Chainlink
+- @StaniKulechov, CEO &amp; Founder of @AaveAave
+- @rleshner, Founder of @compoundfinance
+- @CamiRusso, author of The Infinity Machine",108,7,26,2021-08-05
+203,2021-08-06 14:37:42+00:00,1423654518533902343,wef,"What’s next for decentralized finance? Watch the session with @sheila_warren (@wef), @rleshner (@compoundfinance), @JCastroS (@infopresidencia), @millercwl (@fund_defi), Paul Maley (@DeutscheBank) and @dee_bosa (@cnbc) https://t.co/1mibe491AK https://t.co/58g6JEa3eI",126,5,34,2021-08-06
+204,2021-08-07 17:00:36+00:00,1424052869502746627,wef,"What’s next for decentralized finance? Watch the session with @sheila_warren (@wef), @rleshner (@compoundfinance), @JCastroS (@infopresidencia), @millercwl (@fund_defi), Paul Maley (@DeutscheBank) and @dee_bosa (@cnbc) https://t.co/1mibe491AK https://t.co/ymhuJ9JaOs",81,8,15,2021-08-07
+205,2021-08-09 18:47:21+00:00,1424804508870266884,compoundfinance,"Proposal 056 by @getty_hill sets initial collateral factors for recently supported assets, allowing them to be used as collateral:
+
+$LINK 50%
+$MKR 35%
+$AAVE 50%
+$SUSHI 40%
+$YFI 35%
+
+Voting begins in 2 days.
+
+Discussion: https://t.co/0G14QyJWJW
+Proposal: https://t.co/SlSxCtOA8B",161,30,20,2021-08-09
+206,2021-08-09 18:47:21+00:00,1424804508870266884,compoundfinance,"Proposal 056 by @getty_hill sets initial collateral factors for recently supported assets, allowing them to be used as collateral:
+
+$LINK 50%
+$MKR 35%
+$AAVE 50%
+$SUSHI 40%
+$YFI 35%
+
+Voting begins in 2 days.
+
+Discussion: https://t.co/0G14QyJWJW
+Proposal: https://t.co/SlSxCtOA8B",160,30,20,2021-08-09
+207,2021-08-10 16:41:56+00:00,1425135335801978892,boxmining,"3) I had a significant portion of my funds in @Wing_Finance as I thought it was a safe way to farm and with good returns. It's essentially @compoundfinance but on ONTOLOGY (also built by the ONTO team, so if anything happened to their code, they can potentially rectify it).",308,8,9,2021-08-10
+208,2021-08-11 18:19:42+00:00,1425522329493323776,DefiantNews,"🏦The biggest story in #DeFi right now is US regulation and we've put together some of the best minds in the space to make sense of it all. 
+
+@jchervinsky of @compoundfinance 
+@RebeccaRettig1 of @AaveAave  
+@KMSmithDC 
+
+🗓️LIVE on Thursday Aug 12 at 2PM ET
+
+https://t.co/uV5qlLkBdw",78,1,18,2021-08-11
+209,2021-08-11 07:40:50+00:00,1425361549569445888,nanexcool,"Advances in on-chain governance:
+
+v1 @MakerDAO 
+
+v2 @compoundfinance 
+
+v3 @element_fi 
+
+Please watch this talk by @PVienhage to see what I consider the next big leap
+
+And I hear @yield may be doing cool stuff too 👀
+
+https://t.co/Gc12uKoJIV",72,1,12,2021-08-11
+210,2021-08-12 14:29:17+00:00,1425826729633873925,cjliu49,Right about the time @rleshner gifted all 15 employees of @compoundfinance a doppelgänger cryptopunk for Christmas,88,5,2,2021-08-12
+211,2021-08-14 12:15:30+00:00,1426517838488129544,TokenBrice,".@AaveAave -&gt; uses a large share of its treasury to incentivizes mostly centralized trusted stablecoins
+
+@compoundfinance &amp; @idlefinance -&gt; same
+
+So far no #DeFi protocol is willing to incentivize $RAI
+
+Why not put the $ where the mouth is &amp; support alternative stable assets?",115,13,15,2021-08-14
+212,2021-08-15 17:47:37+00:00,1426963806878670852,ParallelTCG,🥚 @compoundfinance @cjliu49 https://t.co/3dI3g6npIh,76,3,1,2021-08-15
+213,2021-08-16 13:35:35+00:00,1427262765585125377,danreecer_,"Built with the @Polkadot SDK, @substrate_io:
+
+- @compoundfinance Gateway (indie)
+- @AcalaNetwork (Polkadot)
+- @KaruraNetwork (Kusama)
+- @Chainflip (indie)
+
+Parachains are coming, and some top teams are already realizing the exponential power of the Polkadot SDK.",218,1,43,2021-08-16
+214,2021-08-16 16:45:02+00:00,1427310445233426443,compoundfinance,"Proposal 056 passed, and will be executed after a 2 day waiting period:
+
+1,527,754 COMP ✅
+30 COMP ⛔️
+
+Following execution, if you've supplied $LINK, $MKR, $AAVE, $SUSHI, or $YFI, you'll need to toggle on the asset as collateral, to increase your borrowing limit.",33,8,5,2021-08-16
+215,2021-08-19 20:23:36+00:00,1428452612450443264,compoundfinance,"Proposal 057 by @compoundfinance transfers the Pause Guardian (emergency functionality that can temporarily pause supply, borrowing, or liquidation in a market) to the Community Multi-Sig.
+
+Voting begins in 2 days.
+
+Proposal: https://t.co/hj0abjX7Vm",70,22,18,2021-08-19
+216,2021-08-19 05:03:19+00:00,1428221015297953792,ommfinance,"From August 31, you can claim an airdrop if you:
+
+- Used Omm on testnet b4 this tweet, or submitted Proof of Discord
+
+- Provided liquidity on Balanced b4 July 31
+
+- Used @AaveAave or @compoundfinance b4 July 31
+
+- Participated in gov. for Balanced (BIP 1,2) or ICONbet (in 2021) https://t.co/ecMvawRIAW",79,6,19,2021-08-19
+217,2021-08-24 22:24:01+00:00,1430294854689562624,compoundfinance,"Proposal 057 passed, and will be executed after a 2 day waiting period:
+
+1,127,303 COMP ✅
+0 COMP ⛔️",25,2,3,2021-08-24
+218,2021-08-26 15:02:59+00:00,1430908640144224258,_jamico,"Over the last year @a16z has delegated the majority of our governance rights in protocols like @Uniswap @Compoundfinance to a network of nonprofits, startups, university orgs &amp; more. Today were excited to share the details of this program &amp; open source all of its component parts",879,79,158,2021-08-26
+219,2021-08-26 17:19:47+00:00,1430943068073566212,ErikVoorhees,"Top 5 DAOs as measured by Members on-chain
+
+1. @Uniswap 
+2. @CompoundFinance
+3. @SushiSwap
+4. @ShapeShift_io 
+5. @BalancerLabs
+
+One of these just joined the ranks a month ago https://t.co/0rYnyhIOvS",114,22,29,2021-08-26
+220,2021-08-31 07:31:01+00:00,1432606840362127366,ommfinance,"If you used @AaveAave or @compoundfinance before July 31, you qualify for an airdrop of Omm Tokens.
+
+The first 1,600 people to claim will each receive 100 $OMM.
+
+Learn more about the airdrop and Omm in this thread. 👇 https://t.co/ObCrDDRcOR",116,9,23,2021-08-31
+221,2021-09-01 13:10:56+00:00,1433054769682296833,tyler,DeFi News: @Gemini dollar ($GUSD) proposal for the @compoundfinance protocol is now live! https://t.co/l1Krv3HwjN,231,39,27,2021-09-01
+222,2021-09-02 14:09:37+00:00,1433431925637582853,thekriskay,"Just did a interview / feature for the Wall Street Journal @WSJ about lending &amp; borrowing in DeFi. 🤯
+
+The world is starting to notice! 👀
+
+Had to mention 
+@AaveAave 
+@compoundfinance 
+@AlchemixFi 
+@LiquityProtocol",340,28,35,2021-09-02
+223,2021-09-05 19:42:09+00:00,1434602772213604352,cjliu49,@rleshner @compoundfinance 🙌🏼 https://t.co/dvSCY4KByl,70,4,1,2021-09-05
+224,2021-09-07 01:08:51+00:00,1435047376293556224,nnevvinn,"🏦Verifying myself as a @compoundfinance #COMPDelegate on Sybil🏛️
+
+https://t.co/4BgxlX9517
+
+addr:0xB912549A2b525cC35F8Ba14813112C81cf79F624
+
+sig:0x0961af3f6e769d08cc8bbe6f952888db4fd194c84fa085a8d5e0fdf2b5b65bf50e8336b7680c66ce701c84890287b842b4ed0246c599628092998d799e9e582a1b",78,12,5,2021-09-07
+225,2021-09-10 06:58:57+00:00,1436222648560721921,tusdio,"🥳Daily #DeFi Briefing for September 10th
+
+✅Getting the most APY/APR with #TUSD! 
+
+1⃣@wault_finance ——107.1% APR
+2⃣@FilDAFinance ——16.9% APY
+3⃣@ChannelsFinance——8.7% APY
+
+🚀Earn with top #DeFi projects today! @CurveFinance @AaveAave @compoundfinance @AlpacaFinance @PancakeSwap https://t.co/4c4wscFNFr",89,4,33,2021-09-10
+226,2021-09-10 19:57:56+00:00,1436418684310929410,compoundfinance,"Proposal 060 by @polychaincap updates the governance system, allowing the Community Multi-Sig to whitelist addresses eligible to directly create governance proposals.
+
+Voting begins in ~2 days.
+
+Discussion: https://t.co/IBsIPcLida
+Proposal: https://t.co/SdeqJVSDd2",41,14,13,2021-09-10
+227,2021-09-10 16:10:33+00:00,1436361461333385220,janehk,"I need to follow more crypto designers!
+
+some 🦄s worth following... 
+
+@_callil at @Uniswap 
+@jeffpersonified at @coinbase 
+@jaysonhobby at @compoundfinance 
+
+who am I missing?",180,71,10,2021-09-10
+228,2021-09-10 22:10:01+00:00,1436451924325322752,CoinDesk,".@a16z is seeking token delegate applicants for its DeFi holdings, which include @Uniswap and @compoundfinance. 
+
+By @tracycwang
+
+https://t.co/tEUIl1sXrm https://t.co/pWpRv9V8Gv",134,61,33,2021-09-10
+229,2021-09-12 19:00:57+00:00,1437129120278798348,mooon640,"Top 3 most exciting things coming to #tezos next 2 weeks 🔥
+
+1) @madfishofficial releases @QuipuSwap API -&gt; tezos token to be listed on @CoinMarketCap and @coingecko 
+
+2) @TezosFinance release (same as @compoundfinance 👀)
+
+3) @CrunchyTez release of #NFT pie slicing for #tezzardz",127,5,43,2021-09-12
+230,2021-09-13 13:01:05+00:00,1437400942920404993,link_hound,". @chainlink just created a @compoundfinance CPoR (Proof of Reserves) Contract
+
+This is really interesting.  Thoughts - Ideas anyone?
+
+""User supplies assets into the market and receives cTokens in exchange"" 
+
+🤔🤔🤔 https://t.co/Aeur0j5A2B",181,7,37,2021-09-13
+231,2021-09-14 20:46:02+00:00,1437880340014583810,CitezenB,"Arthur Breitman @ArthurB said in his live Youtube AMA today: Checker https://t.co/jWdy1abIkb covers three things (in terms of Ethereum projects):
+-Maker Dao @MakerDAO 
+-Compound @compoundfinance 
+-Uniswap V3 @Uniswap 
+Me thinking: that´s huge! Every aspiring Tezos dev should know",85,5,34,2021-09-14
+232,2021-09-14 21:54:53+00:00,1437897668446072836,compoundfinance,"Proposal 059 passed, and will be executed after a 2 day waiting period:
+
+1,677,678 COMP ✅
+103,285 COMP ⛔️
+
+$DAI will automatically be distributed to each eligible recipient; no action is needed.",25,5,4,2021-09-14
+233,2021-09-16 20:46:56+00:00,1438605341583937536,compoundfinance,"There are dozens of community-built interfaces to the Compound protocol, from @Ledger to @argentHQ to @Instadapp.
+
+Today, Compound Labs is open-sourcing, and handing over control of the original interface (https://t.co/WHiAg3haq8) to the community.",224,20,36,2021-09-16
+234,2021-09-16 20:46:56+00:00,1438605342896758785,compoundfinance,"The source code has been published to a new repository  under the GPLv3 license; community members can improve, modify, and fork the front-end.
+
+We'll assist the community with maintaining this repo, as new assets &amp;  features are added.
+
+https://t.co/jOQkAlzWP4",98,11,10,2021-09-16
+235,2021-09-16 01:37:12+00:00,1438316001955811333,compoundfinance,"Proposal 060 passed, and will be executed after a 2 day waiting period:
+
+1,093,837 COMP ✅
+151,001 COMP ⛔️",10,2,0,2021-09-16
+236,2021-09-17 18:21:17+00:00,1438931077041635333,spencernoon,"The on-chain verdict: #DEFI IS BACK BABY
+
+Specifically the lending space 🔥
+
+📈 @LiquityProtocol # of troves up 118%
+📈 @AaveAave $16.7m net income YTD
+📈 4 new mkts on @compoundfinance
+📈 @CreamdotFinance iceCream stakers earn ~$240k yvcrvIB
+
+Source: @OurNetwork__",69,1,19,2021-09-17
+237,2021-09-18 17:09:31+00:00,1439275404322394112,compoundfinance,The https://t.co/WHiAg3haq8 interface now redirects to an IPFS deployed copy of the interface; the community can upgrade the source code at https://t.co/jOQkAlzWP4 which includes instructions to deploy new versions to IPFS,75,38,10,2021-09-18
+238,2021-09-18 14:24:08+00:00,1439233784050851842,DeFi_Dad,"Feels like we're always chasing the next shiny object in DeFi, while OGs keep growing--@AaveAave @CurveFinance @Instadapp @compoundfinance @MakerDAO @LidoFinance @iearnfinance @NexusMutual @Uniswap @SushiSwap @synthetix_io @Bancor @BalancerLabs.
+
+👊 Respect your elder buidlers. https://t.co/sEJtWykolw",253,39,37,2021-09-18
+239,2021-09-20 15:03:45+00:00,1439968531764826119,coinbase,"Don't miss #BUIDLCrypto on Spaces tomorrow.
+
+Join @sanchans, thought leaders from Coinbase, @StaniKulechov of @AaveAave, and @rleshner of @CompoundFinance as they discuss DeFi for Institutions.
+
+Set your reminder👇https://t.co/2EMFHKqfQK",576,237,100,2021-09-20
+240,2021-09-21 14:32:09+00:00,1440322964390486024,MessariCrypto,"""#DeFi is not going to be called DeFi in the next 5 years. It's just going to be called finance. And all finance is going to run on blockchains; most assets will make their way onto a blockchain."" 
+@rleshner at @compoundfinance in a star-studded panel at #Mainnet2021 https://t.co/qAorGtrqfc",196,16,44,2021-09-21
+241,2021-09-23 14:03:23+00:00,1441040501176602627,Bitso,"Esta semana listamos @compoundfinance (#COMP) en #Bitso y tenemos 3 sorpresas listas para las próximas semanas 🚀
+
+¿Puedes adivinar cuales serán las siguientes 3 monedas que listaremos?
+
+#NuevasMonedasEnBitso #MakeCryptoUseful https://t.co/GUUf3OHeYu",281,161,35,2021-09-23
+242,2021-09-23 17:44:57+00:00,1441096259050237959,compoundfinance,"Proposal 061 by @gauntletnetwork requests a streaming  $COMP grant for continuous market risk management to optimize yield, capital efficiency, and mitigate depositor losses.
+
+Voting is open for 2 more days.
+
+Discussion: https://t.co/5XkcfNDreE
+Proposal: https://t.co/sNzrXI6mvB",57,11,10,2021-09-23
+243,2021-09-29 23:37:00+00:00,1443359184897069060,compoundfinance,"🚨 Unusual activity has been reported regarding the distribution of COMP following the execution of Proposal 062.
+
+No supplied/borrowed funds are at risk -- Compound Labs and members of the community are investigating discrepancies in the COMP distribution.",260,39,94,2021-09-29
+244,2021-09-29 23:37:00+00:00,1443359184897069060,compoundfinance,"🚨 Unusual activity has been reported regarding the distribution of COMP following the execution of Proposal 062.
+
+No supplied/borrowed funds are at risk -- Compound Labs and members of the community are investigating discrepancies in the COMP distribution.",260,40,94,2021-09-29
+245,2021-09-29 23:03:16+00:00,1443350694635921409,napgener,"Some funky business happening on $COMP
+possible rug in the @compoundfinance comptroller. ⚠️
+@rleshner 
+
+https://t.co/IRTJIQnBEx",213,23,69,2021-09-29
+246,2021-09-30 13:17:15+00:00,1443565607560093702,compoundfinance,"Proposal 063 by @Arr00c @tylerether and other community members disables the ability to claim COMP, until the correct distribution logic is restored.
+
+Review lasts 2 days, voting 3 days, and Timelock 2 days.
+
+Discussion: https://t.co/xgMp2fB3pb
+Proposal: https://t.co/wTEa2nJKsn",74,11,12,2021-09-30
+247,2021-09-30 23:56:51+00:00,1443726566165385219,jdshutt,"I've been sketching out a simple new product for @UMAprotocol that could have saved all of the funds lost in the @compoundfinance bug yesterday. Let's call them ""protected tokens"": A special kind of wrapped token that is shielded from smart contract risk. 👇🧵",94,1,21,2021-09-30
+248,2021-09-30 15:24:27+00:00,1443597619742265349,RektHQ,"The results of a @compoundfinance governance proposal mistakenly gave ~$80M in excess $COMP rewards. 
+
+Like an “infinite mint” but not quite as deadly, the damage done was indirect.
+
+Mistakes were made, but who lost out?
+
+rekt investigates.
+
+https://t.co/HFZluThC66",162,2,44,2021-09-30
+249,2021-09-30 05:09:05+00:00,1443442755649347588,josephdelong,I feel like the @compoundfinance hack is materially less funny than imaginary Kia Sedona money being stolen,104,6,3,2021-09-30
+250,2021-09-30 02:31:23+00:00,1443403067722919940,ricburton,"Last year, the @compoundfinance team unleashed the most insane wave of financial innovation on Ethereum with their governance system, yield farming design, and move to community ownership
+
+I have no doubt that this issue will be resolved by their community in a professional way",116,4,8,2021-09-30
+251,2021-09-30 01:56:49+00:00,1443394370447814658,0xngmi,"One of the people that exploited @compoundfinance took their 10M in COMP and dumped them on OKEX and Huobi for stables, then started farming curve with them.
+
+Must be KYC'd because they withdrew millions from these CEXes
+
+Ser, I got bad news for you https://t.co/fpzHcD7DO5",237,29,19,2021-09-30
+252,2021-09-30 00:37:27+00:00,1443374397461573633,CoinDesk,"DEVELOPING: @compoundfinance’s $COMP token plunged after reports of a possible bug in the DeFi platform’s comptroller contract.
+
+The company behind the protocol says no user funds are at risk.
+
+@Blockanalia reports
+
+https://t.co/lJTt3CfTDV",99,25,23,2021-09-30
+253,2021-10-01 19:56:57+00:00,1444028580648849409,CoinDesk,"""This has been, without a doubt, the worst day in the history of the Compound protocol,"" says @compoundfinance founder @rleshner.
+
+@Blockanalia reports
+
+https://t.co/kYjekaCXfY",121,39,22,2021-10-01
+254,2021-10-01 15:41:47+00:00,1443964368597786639,nanexcool,"1/2
+
+Following the @compoundfinance issue closely because I see parallels to @MakerDAO and Black Thursday
+
+Back then defi was smaller...
+
+I tend to align more with the code is law camp, but am also a realist and understand the world we live in",69,3,8,2021-10-01
+255,2021-10-01 16:01:39+00:00,1443969366740148225,jchervinsky,"1/ Some personal news: after 2.5 amazing years, yesterday was my last day at @compoundfinance ❤️
+
+It's been a genuine honor helping @rleshner, @justHGH, &amp; the Compound Labs team build the future of finance 🤖
+
+I'm taking October off, then starting a new challenge (stay tuned) 🧵",1118,142,44,2021-10-01
+256,2021-10-02 15:44:50+00:00,1444327521810624513,compoundfinance,"Proposal 064 by @Arr00c @tylerether and other community members patches the bug introduced in Proposal 062, and resumes the COMP distribution for the majority of users.
+
+Discussion: https://t.co/xgMp2fB3pb
+Proposal: https://t.co/yo4I0zed8e",56,42,11,2021-10-02
+257,2021-10-03 14:46:25+00:00,1444675208758140931,CoinDesk,"DEVELOPING: $66 million in tokens were added to a bugged @compoundfinance contract this morning. Over a quarter of the funds added to the contract are at risk, per one DeFi developer, and much of that has already been claimed. 
+
+@Blockanalia reports
+
+https://t.co/lSD5cKBKfw",285,61,111,2021-10-03
+258,2021-10-03 23:00:01+00:00,1444799428309790722,ape_swap,"The $biDEFI Index Fund is here! 🦬
+
+@Ethereum, $ETH 15%
+@Chainlink, $LINK 15%
+@synthetix_io, $SNX 12%
+@AaveAave, $AAVE 12%
+@SushiSwap, $SUSHI 12% 
+@iearnfinance, $YFI 12%
+@compoundfinance, $COMP 12%
+@BiSharesFinance, $BISON 5%  
+#ApeSwap, $BANANA 5%
+
+➡️ https://t.co/zgesbY7vur https://t.co/ANwyPpMDqr",121,53,30,2021-10-03
+259,2021-10-04 21:33:59+00:00,1445140164196683781,baconesq,"Now does everyone see the need for decentralized nodes/network from what happened today with Facebook, Instagram, WhatsApp, etc. going down? 
+
+Now imagine the day when @infura_io goes down and so does @Uniswap, @MetaMask, @CoinbaseWallet, @brave, @compoundfinance, etc?
+
+$STRONG",102,8,17,2021-10-04
+260,2021-10-04 18:01:22+00:00,1445086658370625543,RektHQ,"It’s worse than we thought. 
+
+Last week ~$80M in excess $COMP was wrongly distributed. 
+
+Now another $68.8M has been sent to the vulnerable vault, and @compoundfinance takes #2 on our leaderboard.
+
+How did it go so wrong for Compound?
+
+rekt investigates.
+https://t.co/xhDxNhCkXO",362,15,92,2021-10-04
+261,2021-10-05 03:00:01+00:00,1445222212873510918,cryptocom,"The https://t.co/vCNztABJoG Weekly DeFi Update:
+📊 Price index up, volatility, volume indices down
+📈 Top gainers: $CRV (+19.24%), $REN (+16.98%), $LRC (+12.72%)
+💸 @compoundfinance suffers $90M losses in accidental payout
+
+The details 👇🏻
+https://t.co/7a7cBelnjt",125,27,32,2021-10-05
+262,2021-10-05 16:56:47+00:00,1445432791966130181,compoundfinance,"Join the Compound Developer Community Call tomorrow 9:30am PT.
+
+Discussion will center around Proposal 62 and the COMP Distribution bug that was introduced.
+
+https://t.co/AbRV6ty4rR",48,23,11,2021-10-05
+263,2021-10-06 22:36:01+00:00,1445880550653190146,delitzer,"I can't blame you if Fei fell off your radar over the past few months.
+
+That said, @AaveAave @compoundfinance @RariCapital @LidoFinance @indexcoop and @BalancerLabs have been actively building partnerships with this rising giant.
+
+Time to pay attention.",64,3,13,2021-10-06
+264,2021-10-07 00:56:04+00:00,1445915798258790406,compoundfinance,"Proposal 063 passed:
+
+1,045,810 COMP ✅
+162,221 COMP ⛔️
+
+This proposal was then cancelled, prior to execution.",38,23,8,2021-10-07
+265,2021-10-10 06:31:14+00:00,1447087308134440962,0xTomoyo,Made an example to explain to someone how exactly @compoundfinance liquidations work https://t.co/lJTdVRkmFj,442,16,59,2021-10-10
+266,2021-10-11 03:07:32+00:00,1447398432256118785,scupytrooples,"There have been a number of awesome project that are a part of the second wave of DeFi. Let it be known that the second generation is only here thanks to the trailblazers in the space, such as @MakerDAO, @compoundfinance, @AaveAave, @Uniswap, @SushiSwap, and @iearnfinance",316,5,9,2021-10-11
+267,2021-10-12 12:30:36+00:00,1447902520622338059,defi_airdrops,"🚨 AIRDROP RUMOUR 🚨
+
+@FujiFinance allows you to take a loan and always get the lowest interest across DeFi on it.
+
+They shift user's debt dynamically to where it's cheapest to borrow - currently @compoundfinance @AaveAave @dydxprotocol &amp; Cream
+
+https://t.co/SN9dHHJQlA https://t.co/r7zJ0bQsLx",333,25,44,2021-10-12
+268,2021-10-16 16:00:59+00:00,1449405018994626561,esotericbot,"some things to do when gas is low
+
+- buy an 
+@ensdomains
+ (costs barely + gas)
+- bridge assets to layer 2 (
+@0xPolygon
+ / 
+@loopringorg
+)
+- borrow / mint on 
+@AaveAave
+, 
+@compoundfinance
+, or 
+@MakerDAO
+ 
+- open an 
+@AlchemixFi
+ vault
+- claim ""dust"" sized rewards",78,4,19,2021-10-16
+269,2021-10-20 18:29:30+00:00,1450891943894994955,ZainManji,"I wanted to understand Abracadabra, $SPELL, and $MIM more, so I dove in
+
+Tldr: Basically Abracadabra is similar to @compoundfinance but you can only supply interest-bearing tokens as collateral, and instead of borrowing other people's coins, you're minting $MIM stablecoins",167,7,33,2021-10-20
+270,2021-10-22 14:13:53+00:00,1451552391342473229,compoundfinance,"Messari's Q3 Quarterly Report for the Compound protocol is an essential read; transparency, metrics, and reporting on the state of Compound. https://t.co/GJu8hh1LBT",108,48,39,2021-10-22
+271,2021-10-22 14:13:53+00:00,1451552391342473229,compoundfinance,"Messari's Q3 Quarterly Report for the Compound protocol is an essential read; transparency, metrics, and reporting on the state of Compound.",108,48,38,2021-10-22
+272,2021-10-25 01:10:01+00:00,1452442287666081798,crypto_condom,"Did anyone notice that @ConvexFinance now has more TVL than @compoundfinance ? 👀😱
+
+Nothing to see here...just casually moving up the @DefiLlama TVL chart kicking ass and taking names. 🦾 https://t.co/kFrUhxoo3f",80,7,15,2021-10-25
+273,2021-10-27 23:02:55+00:00,1453497465118683138,maartjebus,"1/ @MessariCrypto just offered a glimpse into the future of financial reporting.
+
+If you are interested in becoming a protocol CFO, read on for key takeaways from the @compoundfinance Q3 Analyst Call featuring @rleshner @RyanWatkins_ and @twobitidiot.
+
+https://t.co/OjKb9V921s
+👇",102,5,19,2021-10-27
+274,2021-10-28 00:07:00+00:00,1453513593111171075,chainlink,"#Chainlink Price Feeds secure tens of billions of dollars for leading #DeFi apps across multiple blockchains. Integrate the COMP/USD Price Feed on @xdaichain to build scalable markets around @compoundfinance’s native token, already used by @perpprotocol.
+https://t.co/snayAVyGBM",463,22,81,2021-10-28
+275,2021-10-30 01:33:43+00:00,1454260194217795588,alive_eth,"""Hayden Adams, the founder of @Uniswap; Robert Leshner, the founder of @compoundfinance; the founders of @opensea, [..] — I believe they are heroes. They're at the cutting edge of the frontier and are creating very important technology that will transform the internet"" 
+– @cdixon",169,8,21,2021-10-30
+276,2021-10-30 04:25:06+00:00,1454303324459651075,mattunchi,"3 proyectos top tier ya establecidos que serán una parachain:
+- @enjin 
+- @compoundfinance 
+- @energywebx",191,15,23,2021-10-30
+277,2021-11-01 22:19:15+00:00,1455298416972648451,compoundfinance,"Proposal 066 by @gauntletnetwork updates collateral factors for recently added markets:
+
+AAVE 60%
+LINK 60%
+MKR 45%
+SUSHI 45%
+USDC 80%
+YFI 55%
+
+Voting begins in 2 days.
+
+Discussion: https://t.co/uNmeOIWZHz
+Proposal: https://t.co/WyJuxbrIdh",158,172,32,2021-11-01
+278,2021-11-03 14:45:42+00:00,1455909054270816259,compoundfinance,"Proposal 067 by @tylerether is a temperature check to determine whether $COMP should be distributed to early users.
+
+Voting begins in 2 days.
+
+Discussion: https://t.co/o10ou804vM
+Proposal: https://t.co/fTfTBHE2xp",143,58,29,2021-11-03
+279,2021-11-03 23:59:06+00:00,1456048322670592011,adambavosa,"I created a repo with @HardhatHQ that forks mainnet and seeds your address with all of @compoundfinance  supported assets. It delegates 250k $COMP to your address so you can make proposals. Like God mode in a video game, except in your localhost test env. https://t.co/CNg51J8bvG",95,7,6,2021-11-03
+280,2021-11-03 14:45:42+00:00,1455909054270816259,compoundfinance,"Proposal 067 by @tylerether is a temperature check to determine whether $COMP should be distributed to early users.
+
+Voting begins in 2 days.
+
+Discussion: https://t.co/o10ou804vM
+Proposal: https://t.co/fTfTBHE2xp",142,58,29,2021-11-03
+281,2021-11-04 23:50:14+00:00,1456408477023285252,maxcwolff,I'm leaving @compoundfinance after 2.5 awesome years there. Working at Compound has been an awesome experience and I'll forever be thankful for @rleshner @justHGH for giving me the opportunity of a lifetime.,314,12,2,2021-11-04
+282,2021-11-05 09:13:32+00:00,1456550235610640385,WhaleStats,"What's the #ETHrichlist lookin at today?
+
+In 24 hrs
+
+🏆 $SHIB @Shibtoken - most traded
+
+Honorable mentions
+$MKR @MakerDAO
+$FTM @FantomFDN 
+$COMP @Compoundfinance 
+$UNI @Uniswap
+
+What #token dips are you buying?
+
+https://t.co/N5qqsCShZR #ETHwhales https://t.co/s0kwgjltMw",461,69,156,2021-11-05
+283,2021-11-05 17:20:42+00:00,1456672834617479168,compoundfinance,"Proposal 068 by @Arr00c terminates the user distribution of $COMP to users borrowing $COMP, to allow for borrowing demand to return to an equilibrium below the Borrowing Cap.
+
+Voting begins in 2 days.
+
+Discussion: https://t.co/GKGkNpNWGU
+Proposal: https://t.co/GVw8PrxvPM",53,37,9,2021-11-05
+284,2021-11-07 23:11:21+00:00,1457485857351471108,compoundfinance,"In June 2020, Compound Labs designated 500,000 $COMP for distribution through Coinbase Earn, to increase education and decentralization of the protocol.
+
+More than 5 million people learned about the Compound  protocol through these videos and a Coinbase Wallet onboarding lesson.",134,66,19,2021-11-07
+285,2021-11-07 23:11:21+00:00,1457485857351471108,compoundfinance,"In June 2020, Compound Labs designated 500,000 $COMP for distribution through Coinbase Earn, to increase education and decentralization of the protocol.
+
+More than 5 million people learned about the Compound  protocol through these videos and a Coinbase Wallet onboarding lesson.",135,66,19,2021-11-07
+286,2021-11-08 21:02:01+00:00,1457815694595313677,Securitize,"If you’re attending @Ripple's  Swell Global event tomorrow, join @CarlosDomingo in conversation with @CompoundFinance's Robert Leshner (@rleshner) and Ripple's Asheesh Birla (@ashgoblue) on how tokenization will redefine financial systems and can increase inclusion globally. https://t.co/aZoaxVbRx5",127,3,40,2021-11-08
+287,2021-11-09 22:00:03+00:00,1458192690076655627,jchervinsky,"6/ Over the last few years, I've had the pleasure of working with BA on many policy issues in my role as @compoundfinance GC.
+
+So when Kristin &amp; I began discussing this job—building out &amp; running the industry's legal &amp; policy function in DC—I had zero doubt. This is why I'm here.",82,1,1,2021-11-09
+288,2021-11-09 14:00:57+00:00,1458072118642479104,enzymefinance,"Enzyme's treasury is now on Enzyme!
+Some cool properties:
+&gt;Admin=@gnosisSafe 
+&gt;Programmable policies make delegating management to an account safe
+&gt;24/7 reporting
+&gt;Interacts w/ @CurveFinance @AaveAave @compoundfinance @iearnfinance @idlefinance @paraswap 
+https://t.co/3Mpe4lvoxQ https://t.co/h7CK5ctndj",67,0,15,2021-11-09
+289,2021-11-10 03:53:15+00:00,1458281575494340609,haydenzadams,"🚀 Love to see the https://t.co/vc9625wzWi family grow with the addition of @ensdomains 
+
+🦾 Sybil now supports @Uniswap @compoundfinance @AaveAave @PoolTogether_  @radicle @nounsdao and @ensdomains governance systems https://t.co/E5dwz4jSV3",218,13,25,2021-11-10
+290,2021-11-10 22:58:26+00:00,1458569767972143104,yb_effect,"7) Create your @viamirror dashboard and publish your first blog post 
+
+Bonus points: use one of the monetization features - crowdfund, edition, etc.
+
+8) Enter a pool in @PoolTogether_ (Prize Savings Account)
+
+9) Try a lending protocol @compoundfinance",107,2,12,2021-11-10
+291,2021-11-10 16:43:35+00:00,1458475434870550536,gauntletnetwork,"🔎 Gauntlet has launched the @compoundfinance Risk Dashboard! 
+
+The Dashboard helps users understand Gauntlet's methodology and how our parameter recommendations reduce risk and increase capital efficiency for Compound.
+
+https://t.co/o9TwurW5as https://t.co/VrnRLZ1hqd",50,7,14,2021-11-10
+292,2021-11-10 14:35:44+00:00,1458443259697565704,Ripple,".@RLeshner, Founder of @CompoundFinance, talks about the future of #DeFi for institutions – and the hurdles that need to be overcome for adoption. 
+
+#RippleSwell https://t.co/Ond9A7rNb6",1953,136,515,2021-11-10
+293,2021-11-10 00:55:40+00:00,1458236884337840133,RhettShipp,"1. Really excited to see @Tetranode partnering with @OlympusDAO to help wisely deploy the $OHM treasury to generate yield. 
+
+Lot of great possible strategies, such as just lending the treasury assets in places like @AaveAave @compoundfinance @AlphaFinanceLab @RariCapital",92,4,13,2021-11-10
+294,2021-11-12 18:25:26+00:00,1459225842492620812,compoundfinance,"Proposal 069 by @gauntletnetwork updates collateral factors to align with the Moderate risk level chosen by the Compound community:
+
+LINK 65%
+MKR 55%
+SUSHI 55%
+YFI 60%
+
+Voting is current active.
+
+Discussion: https://t.co/FUo3pwvfEb
+Proposal: https://t.co/L2jqCSBTsc",43,72,11,2021-11-12
+295,2021-11-12 18:35:30+00:00,1459228375000698891,tarunchitra,Happy we were able to submit the most memeable proposal number to @compoundfinance 😅,51,4,1,2021-11-12
+296,2021-11-17 17:51:26+00:00,1461029226543558664,DeFiSaver,"Our Loan Shifter now features a much smoother UI and supports ALL the protocols!🥳
+
+You can now move positions between:
+-@MakerDAO
+-@ReflexerFinance
+-@AaveAave
+-@LiquityProtocol
+-@CompoundFinance
+*And* do debt or collateral shifts.🧙
+
+Three clicks, one transaction - done.✅ https://t.co/UqLflLB1uB",97,8,14,2021-11-17
+297,2021-11-19 18:01:59+00:00,1461756653737500676,compoundfinance,"Proposal 070 by @OpenZeppelin creates a streaming contributor grant of ~1000 $COMP/month to provide security solutions for Compound governance.
+
+Voting begins in 2 days.
+
+Discussion: https://t.co/ai0Krlk2uQ
+Proposal: https://t.co/jrElQMAUCf",61,50,12,2021-11-19
+298,2021-11-20 02:55:32+00:00,1461890927430094854,lsukernik,"DAO activity is heating up fast.
+
+- Million-dollar enterprise contracts (@compoundfinance and @OpenZeppelin) 
+
+- Significant M&amp;A (@feiprotocol and @RariCapital)
+
+- Grants (@dydxprotocol) 
+
+All powered by tokenholder governance.",69,2,7,2021-11-20
+299,2021-11-23 20:19:07+00:00,1463240719594831872,yb_effect,"Play to earn: @AxieInfinity @YieldGuild
+Learn to earn: @rabbithole_gg
+Publish to earn: @viamirror
+Store to earn: @ArweaveTeam, @IPFS
+Stake to earn: @OlympusDAO, @KlimaDAO
+Lend to earn: @RariCapital, @compoundfinance
+Save to earn: @PoolTogether_
+Do to earn: @layer3xyz
+
+What else?",2546,212,705,2021-11-23
+300,2021-11-24 12:31:18+00:00,1463485377168117766,scupytrooples,@yb_effect @AxieInfinity @YieldGuild @rabbithole_gg @viamirror @ArweaveTeam @IPFS @OlympusDAO @KlimaDAO @RariCapital @compoundfinance @PoolTogether_ @layer3xyz Borrow-to-earn: @AlchemixFi,150,2,0,2021-11-24
+301,2021-11-30 22:01:03+00:00,1465803085691953154,cmoyall,"My other favorite panel: A Multichain Multiprotocol Web3 w L1s, L2s, side chains, and DeFi, w @el33th4xor @avalabsofficial @RyanWatkins_ @MessariCrypto @rleshner @compoundfinance discussing the holy wars of crypto ⚔️ https://t.co/Xg4YsIsfFQ",258,20,38,2021-11-30
+302,2021-12-03 16:08:13+00:00,1466801457315913740,RobertoTalamas,"Voter apathy continues to be a major issue for big DAOs
+
+High membership, low community engagement:
+- @Uniswap 
+- @kusamanetwork 
+- @VENTURE_DAO 
+- @compoundfinance 
+
+Low membership, high community engagement: 
+- @aavegotchi 
+- @OlympusDAO 
+- @BalancerLabs 
+- @feiprotocol https://t.co/MQilCmBspY",240,24,56,2021-12-03
+303,2021-12-07 20:17:58+00:00,1468313859010277380,DefiSafety,"Top 25 #DeFi protocols by documentation
+1  @BalancerLabs V2 98.33%
+2  @iearnfinance  97.78%
+3  @Bancor  96.78%
+4  @opyn_  96.67%
+5  Balancer  96.11%
+6  @synthetix_io  96.11%
+7  @compoundfinance  v2  96.00%
+8  @Unfederalreser1  95.89%
+9  @0xProtocol_  95.33%
+10  dYdX UPDATE 94.89%",99,10,25,2021-12-07
+304,2021-12-10 20:32:08+00:00,1469404587371151360,RyanSAdams,"Coinbase now allowing customers to earn DAI interest using @compoundfinance in the backend.
+
+This exactly what the protocol sink thesis predicts.
+
+FinTech in the front.
+
+DeFi in the back.
+
+Protocols are the new banks.",810,34,110,2021-12-10
+305,2021-12-13 18:17:52+00:00,1470457962128945167,compoundfinance,"Proposal 073 by @tylerether adds Pax Dollar $USDP as a supported asset to the protocol.
+
+Collateral factor: 0%
+Reserve factor: 25%
+
+Voting is active for 3 days.
+
+Discussion: https://t.co/519wUHJZq4
+Proposal: https://t.co/XjLWqGc5hi",35,33,6,2021-12-13
+306,2021-12-13 23:35:09+00:00,1470537807101841412,compoundfinance,"Proposals 075, 076, &amp; 077 are competing #B2DAO proposals submitted by @chain_security, @OpenZeppelin, and @trailofbits to provide audit &amp; security services to the Compound protocol.
+
+Voting begins in 2 days.
+
+Discussion: https://t.co/ai0Krlk2uQ https://t.co/MUaLxqnbRH",127,67,18,2021-12-13
+307,2021-12-15 03:39:09+00:00,1470961599301050372,TrustlessState,"how crazy is it that @coinbase announced that they would tap into @compoundfinance to get yield on $DAI
+
+and $COMP just did absolutely nothing https://t.co/QcJly0wsAH",308,38,12,2021-12-15
+308,2021-12-16 18:37:40+00:00,1471550109708128261,compoundfinance,"Proposal 073 passed, and can be executed after a two day waiting period:
+
+703,357 COMP ✅
+108,741 COMP ⛔️",26,24,3,2021-12-16
+309,2021-12-18 14:30:10+00:00,1472212599362265091,0xPolygon,"Rarely do people know that with @Dharma_HQ you can:
+
+- Buy &amp; sell crypto-assets and route the proceeds directly to your bank.
+- Invest in @AaveAave, @CompoundFinance &amp; @iearnfinance to generate interest, directly from your bank with no network fees.
+
+Thanks to #Polygon!",832,87,137,2021-12-18
+310,2021-12-20 17:44:00+00:00,1472986152395280389,compoundfinance,"Proposal 074 passed, and can be executed after a two day waiting period:
+
+907,168 COMP ✅
+0 COMP ⛔️",15,16,2,2021-12-20
+311,2021-12-22 23:53:16+00:00,1473803858711355398,patriciomolina,"Mucho cuidado con los ads de Google que se hacen pasar por sitios legítimos. Acabo de encontrar esto buscando @compoundfinance 🤦‍♂️
+
+Conectás tu wallet ahí y chau chau 💸👋 https://t.co/ab3JNlKymU",393,22,90,2021-12-22
+312,2021-12-28 15:36:42+00:00,1475853222627745792,crypto_condom,"What is Lending 2.0? 🤔
+Early lending platforms, @AaveAave &amp; @compoundfinance, ""Lending 1.0"" utilize a ""shared-pool lending"" mechanism which make the protocols inherently vulnerable due to market related risks. 
+👇🧵 https://t.co/pjhzSb97x3",154,5,41,2021-12-28
+313,2021-12-29 10:56:57+00:00,1476145209092288516,ASvanevik,"Explaining crypto to normies can be tiring, but the one area I always get pumped explaining is DeFi.
+
+I just skip Bitcoin altogether and go straight for @compoundfinance",298,34,11,2021-12-29
+314,2021-12-29 20:09:43+00:00,1476284316716044294,tokenmetricsinc,"With your help, we have put together a guide to the Top #Crypto Lending Projects of 2021, as voted upon by you.
+
+-@AaveAave 
+-@CelsiusNetwork 
+-@compoundfinance  
+-@MakerDAO 
+-@NexoFinance 
+
+https://t.co/Kwpa7YigUf https://t.co/NzXn1sSgUA",91,14,25,2021-12-29
+315,2021-12-31 00:46:33+00:00,1476716371555848193,0xGasDAO,"We just got listed on @voteWithTally! We’re the FOURTH biggest DAO listed there, behind only @ensdomains, @compoundfinance, and @Uniswap. Go delegate your GAS tokens here: https://t.co/CS6COYxtJe",110,7,34,2021-12-31
+316,2022-01-04 22:12:52+00:00,1478489636020187136,joey__santoro,"Where are we now? Yield bearing tokens of all shapes, sizes and implementations, no cross-compatibility.
+
+Aggregators : @iearnfinance, @RariCapital Vaults, @idlefinance 
+Lending markets: @AaveAave, @compoundfinance, Fuse
+Native yield tokens: @SushiSwap xSushi, @OlympusDAO gOHM",94,4,4,2022-01-04
+317,2022-01-05 18:42:20+00:00,1478799040066342912,compoundfinance,"Proposal 079 by @Arr00c migrates community contributor COMP streams from the protocol, to @SablierHQ.
+
+Voting begins soon, and will last 3 days.
+
+Discussion: https://t.co/FVMtQvlnUp
+Proposal: https://t.co/dcvzMgt8zU",93,41,26,2022-01-05
+318,2022-01-05 00:51:29+00:00,1478529551366234117,scupytrooples,"Omg I want this now so bad. Single biggest pain point for Alchemix v2 is the fact that every different yield token integration has a bespoke solution requiring audit. If they were standardized, it'd be one and done. @iearnfinance @AaveAave and @compoundfinance should all help too",172,4,14,2022-01-05
+319,2022-01-06 21:39:26+00:00,1479205996698419200,compoundfinance,"Proposal 080 by @equilibriaxyz updates cSUSHI with a fresh cToken implementation contract, decreasing gas costs and positioning the codebase to be upgraded at a more regular cadence.
+
+Voting begins in 2 days.
+
+Discussion: https://t.co/HMsXqZH2kN
+Proposal: https://t.co/Jokg7DW7R2",72,53,12,2022-01-06
+320,2022-01-12 18:28:19+00:00,1481332225731747841,tomhschmidt,"Excited to announce that @maxcwolff has joined @dragonfly_cap as a Researcher in Residence! Max is a legend in the crypto space, having previously invented flashloans at Marble Protocol before joining @compoundfinance as one of the first engineers. https://t.co/Y4PvYvofqv",187,13,13,2022-01-12
+321,2022-01-12 21:07:43+00:00,1481372340613107714,transmissions11,"got sick of @compoundfinance's cToken exchangeRate() func being:
+
+a) mutating (it's not `view` 😑) 
+
+b) expensive af 💸
+
+so I built ✨libcompound✨
+
+a library that allows you to get cToken data WITHOUT mutating state and for ~20k LESS GAS
+
+try it out! 👇
+
+https://t.co/ZMnlgFlHmW",297,12,26,2022-01-12
+322,2022-01-12 04:19:12+00:00,1481118539335577603,compoundfinance,"Proposal 081 by @gauntletnetwork updates collateral factors for ETH:
+
+ETH 82.5% (+2.5%)
+
+Voting begins in 1 day.
+
+Discussion: https://t.co/WGRZgNOatW
+Proposal: https://t.co/IRLwbd0hgk",96,94,23,2022-01-12
+323,2022-01-13 14:21:59+00:00,1481632623839649793,cryptotesters,"What's really missing on L2 is a good lending platform.
+
+@AaveAave 
+@compoundfinance 
+@NotionalFinance 
+@yield 
+
+who will be first?",84,17,7,2022-01-13
+324,2022-01-16 03:49:46+00:00,1482560683090661376,econoar,Why isn’t @compoundfinance on Layer 2?,196,49,12,2022-01-16
+325,2022-01-25 19:00:43+00:00,1486051425478193152,EvmosOrg,"Hey @compoundfinance @rleshner wanna talk?
+
+We might have a strategy for you that’s in line with your values",88,1,3,2022-01-25
+326,2022-01-25 05:02:06+00:00,1485840378922029058,danreecer_,"7. Acala has 70+ partners, including @current for Fintech, @theCHIVE's for NFTs/loyalty, @compoundfinance bridge grant, 5 @web3foundation Grants, incubated Tapio / @TaigaProtocol's Curve 2.0-like protocol on @KaruraNetwork, &amp; soon roll out EVM+ DApp launches &amp; multi-chain bridge.",98,4,6,2022-01-25
+327,2022-01-31 18:25:13+00:00,1488216815738175488,ZigZagExchange,"MKR/ETH and COMP/ETH are live for trading.
+
+We now have more than 30 tradable pairs on our exchange. 
+
+@MakerGrowth $MKR @compoundfinance $COMP https://t.co/ThCy6JNYOe",135,10,13,2022-01-31
+328,2022-02-01 04:00:56+00:00,1488361700126380036,delitzer,"- $FEI added to @AaveAave
+
+- Vote to add $FEI to @compoundfinance currently at 100% approval
+
+- Tribe Turbo soon https://t.co/xHV2KwCsgs
+
+But keep sleeping on @feiprotocol @RariCapital, anon…",70,3,14,2022-02-01
+329,2022-02-03 09:01:08+00:00,1489162026207248396,feiprotocol,"The Tribe community hit another milestone 
+
+The vote passed to add $FEI to 
+@compoundfinance
+
+https://t.co/mT46EHpG9a https://t.co/rh1hkb5P3t",130,19,19,2022-02-03
+330,2022-02-03 17:48:05+00:00,1489294636980051980,labsGFX,".@justinsuntron recently borrowed 90k $COMP from @compoundfinance (+99% of the borrow cap) and currently has 102K COMP in his alt. He hasn't set it up for voting, but everyone should keep an eye out.
+https://t.co/4aWtJUBN92",131,6,18,2022-02-03
+331,2022-02-04 23:03:18+00:00,1489736349204635650,_jamico,".@a16z will vote against @compoundfinance Proposal 84.
+ 
+Deciding to add new collateral assets is one of the most important decisions that COMP tokenholders must make, since these assets are what backstop the protocol's loans. These decisions should be weighed carefully.",136,6,12,2022-02-04
+332,2022-02-04 19:01:36+00:00,1489675525199171585,CoinDesk,"A massive $COMP loan has on-chain sleuths wondering if @justinsuntron is trying to sway a governance proposal on @compoundfinance. 
+
+@Blockanalia reports 
+
+https://t.co/AovsD3R95z",163,59,42,2022-02-04
+333,2022-02-11 16:13:46+00:00,1492170000886636550,davekaj,"1/ Hello! I created a post on @graphprotocol's forum to create a Lending Subgraph Standard!
+
+It takes in data from all lending protocols, such as @AaveAave, @compoundfinance, @MakerDAO, etc.
+
+https://t.co/qHgGaJkDjw
+
+How does it work? 🧵👇",139,11,26,2022-02-11
+334,2022-02-12 20:52:55+00:00,1492602639506362373,dt_chain,@rleshner Thanks to @CompoundFinance I am able to still HODL #ETH while buying this. Basically Long’d ETH to punk-in 👽. #DeFi FTW,742,80,39,2022-02-12
+335,2022-02-12 20:56:16+00:00,1492603485266890757,cyounessi1,@dt_chain @rleshner @compoundfinance Buying an alien punk on leverage is one of the chaddest moves in history.,158,5,6,2022-02-12
+336,2022-02-15 02:49:51+00:00,1493417243127910400,puntium,"4/ Automated Lending
+
+@compoundfinance and @AaveAave show how similar automated markets can let anyone be a borrower or lender.
+
+Compound whitepaper from 2019:
+https://t.co/vFOrbEDRWL
+
+Aave whitepaper from 2020:
+https://t.co/4oxv0u22YU",141,2,5,2022-02-15
+337,2022-02-17 14:20:45+00:00,1494315887213654017,circlepay,"12/ Comprehensive ecosystem support
+
+A wide range of leading blockchain pioneers are embracing Verite, including: @Algorand, @compoundfinance, @ConsenSys, Espresso Systems, @hedera, @Ledger, @MMInstitutional, @Phantom, @Solana, and @SpruceID—with more on the way.",127,2,25,2022-02-17
+338,2022-02-21 18:16:44+00:00,1495824824983302154,compoundfinance,"Proposal 085 by @gauntletnetwork updates collateral factors for AAVE, LINK, MKR, SUSHI, UNI, and YFI.
+
+Voting begins shortly.
+
+Discussion: https://t.co/ohDYKhwaug
+Proposal: https://t.co/jCwKhZEirT",56,52,9,2022-02-21
+339,2022-02-25 16:42:05+00:00,1497250561095200769,aztecnetwork,"We just launched a proposal to integrate @compoundfinance with Aztec.
+
+zkRollups are here.
+
+- 10x cheaper than L1
+- L1 liquidity and smart contracts
+- Best in class privacy guarantees
+
+Here's how the partnership transforms lending on Ethereum: https://t.co/GmizMkUk5Z",265,6,50,2022-02-25
+340,2022-02-25 16:49:23+00:00,1497252397386805256,lisacuesta,"Your girl's first governance proposal ✨ 
+
+Requesting a grant to offer users cheap, private transactions on @compoundfinance via Aztec. 
+
+We want to hear from you! Please share your feedback, questions, concerns on the forum. 
+
+#L22022 is here.",113,3,10,2022-02-25
+341,2022-03-08 16:40:04+00:00,1501236317056819216,rleshner,"Bain Capital Ventures was one of the original believers in @compoundfinance. Their excitement about crypto isn't new, but a dedicated fund is (and will propel dozens of great teams into the future)
+
+Congrats 🍾",92,6,5,2022-03-08
+342,2022-03-10 18:57:36+00:00,1501995705375891463,compoundfinance,"Compound Labs is always hiring, but only from https://t.co/fFgq0ZGd1R
+
+The protocol always welcomes active community members &amp; organizations, with many opportunities to contribute: https://t.co/i0gagWFkz8",31,35,8,2022-03-10
+343,2022-03-15 15:15:24+00:00,1503751727857688584,scupytrooples,"We are initially launching with @iearnfinance as our yield provider, but will soon have strategies that can hook into yield sources from @AaveAave and @compoundfinance and other protocols that share their token standards.",145,5,5,2022-03-15
+344,2022-03-19 16:11:22+00:00,1505215363121750017,YetiFinance,"The Evolution of DeFi borrowing:
+
+DeFi 1.0 - @compoundfinance 🏦
+DeFi 2.0 - @MIM_Spell 🧙‍♂️
+DeFi 3.0 - @YetiFinance 🐻‍❄️
+
+Innovation is taking two things that exist and putting them together in a new way: Abracadabra + Liquity on steroids 💫",163,7,30,2022-03-19
+345,2022-03-20 23:54:53+00:00,1505694396314169345,FreewayFi,"💥 FREEWAY ARE THE WINNERS 🥳
+
+🏆 STAKING PLATFORM OF THE YEAR  - @AIBCsummit Asia
+
+With some stiff competition from @AaveAave , @compoundfinance, @Nexo, and @CelsiusNetwork 👇
+
+The Freeway team are so proud of the #FreewayFam for this success on our journey together 🥳
+
+$FWT 🌏 https://t.co/uo8y4xivGG",318,49,118,2022-03-20
+346,2022-03-21 19:34:26+00:00,1505991242433236993,OpenZeppelin,"Today we are happy to report that a vulnerability involving #TUSD impacting @compoundfinance and other protocols has been patched by @tusd_official. For transparency we publish details of the finding here.
+https://t.co/MQRSGk5Fzg",59,2,20,2022-03-21
+347,2022-03-21 18:38:06+00:00,1505977063387406336,chain_security,"Critical vulnerability in @compoundfinance live contracts was patched. It could have been exploited for millions of $.
+ 
+Discover it in our audit report, which can now be published unredacted https://t.co/O9XS7291Of
+
+Discover technical details in our blog https://t.co/MVKc0DZ8EI https://t.co/A0MtXveUMY",214,5,51,2022-03-21
+348,2022-03-22 12:42:05+00:00,1506249857983410178,tusdio,"Thanks @OpenZeppelin 🙏🏻
+
+It was a valuable and wonderful experience to work with you for a secure solution!
+
+Regarding our upcoming proposal, we look forward to hearing from the community andhope to bring our partnership with @compoundfinance to another level 🚀",85,1,32,2022-03-22
+349,2022-03-24 18:44:33+00:00,1507065849835835393,LucaProsperi,"0/ The math connecting lenders &lt;&gt; borrowers on protocols such as @compoundfinance and @AaveAave comes right after @Uniswap's constant product function when it comes to influencing the whole DeFi industry. Strangely, it hasn't been challenged the same way. This might change 👇 https://t.co/d30tSyuXGK",93,3,14,2022-03-24
+350,2022-03-28 20:20:17+00:00,1508539495167459328,sandeepnailwal,"Thanks @a16z for the clarification. Looks pretty reasonable, we will wait till @OpenZeppelin finishes their audit (for adding new tokens in @compoundfinance)
+
+Thank you sooo much @labsGFX for the kind support 🙏🏼🙏🏼",115,10,13,2022-03-28
+351,2022-03-28 13:56:04+00:00,1508442803155648512,ChrisBlec,"You know how I've always said that VCs won't use their massive voting power unless the plebs are doing something they don't want?
+
+Well, it happened with @compoundfinance.
+
+$MATIC collateral was about to be approved, then at the last minute, with 1 vote, @a16z was like ""NOPE!"" https://t.co/pqpz1ZfXsK",270,11,51,2022-03-28
+352,2022-03-28 06:16:17+00:00,1508327093620281351,sourcex44,"Seems like @a16z single handedly was able to bring down the proposal to add $MATIC on @compoundfinance
+
+Couldn't find any memo or reasoning on why/how to improve? Where to find it? 
+
+The proposal was in discussion since last 7 months.
+
+https://t.co/RQd8jfhfjD https://t.co/n6hv6EqGSd",118,17,10,2022-03-28
+353,2022-03-28 06:00:38+00:00,1508323155995074562,ETH_Daily,"️🎊 Price Performance of Top TRENDING COIN on ERC-20 Last 7D
+
+@apecoin  53.18% 
+@AxieInfinity 33.82%
+@babydogecoin 17.88% 
+@ethereum 14.91% 
+@shibtoken 13.46%
+@compoundfinance 10.85%
+
+$APE $AXS $BABYDOGE $ETH $SHIB $COMP
+
+So do you #HODL your portfolio? https://t.co/2NxuBVh6vQ",4650,771,1947,2022-03-28
+354,2022-03-29 15:54:03+00:00,1508834884118355972,ChrisBlec,"By the way, this type of governance attack would not have been possible on @CurveFinance.
+
+Voting power of Curve whales decays as a proposal ages, keeping a VC from jumping in at the last minute with a full-power ambush vote like @a16z did to @compoundfinance DAO.",86,8,17,2022-03-29
+355,2022-04-04 08:29:19+00:00,1510897289912786947,ETH_Daily,"🔥Top ERC-20 Projects by AltRank™
+
+$AUDIO @AudiusProject
+$COMP @compoundfinance
+$BABYDOGE @babydogecoin
+$MARVIN @Marvin_Inu
+$STARL @starlinketh
+$DNT @district0x
+$HOT @h_o_l_o_
+$RARI @rarible
+$UNO @unoreinsure
+$ANT @AragonProject
+
+#Ethereum https://t.co/9ev2YHV2AQ",450,203,205,2022-04-04
+356,2022-04-08 23:26:05+00:00,1512572518216830977,compoundfinance,"@compoundfinance is hiring a Director of BD and Partnerships for Compound Treasury. If you want to accelerate the technology, product, and business bringing the benefits of DeFi to anyone, backed by one of the largest DeFi protocols on earth: https://t.co/SnB5nXZGo3",44,17,15,2022-04-08
+357,2022-04-11 20:12:24+00:00,1513610941811855369,LucaProsperi,"I have had the long-term vision that in pure composable spirit @MakerDAO will be the ultimate source of structured liquidity in DeFi. Exploring D3M-like integrations with protocols like @AaveAave, @compoundfinance, but also @TrustToken, @maplefinance, @goldfinch_fi is the way.",56,1,7,2022-04-11
+358,2022-04-11 17:09:22+00:00,1513564878103003142,Uniswap,"4/ And in keeping with our ethos of decentralization and community engagement, ULV will be participating in the governance of portfolio protocols. 
+
+To start, these protocols include @AaveAave, @compoundfinance, @MakerDao, and @Ensdomains 🥳",149,21,10,2022-04-11
+359,2022-04-13 18:11:30+00:00,1514305289545293825,KleverNews,"#Klever Swap adds 9 #swap pairs for @compoundfinance #COMP (#BEP20)
+
+Read more in #Klever News ⤵️
+https://t.co/gpz82hcOcS",131,7,44,2022-04-13
+360,2022-04-18 16:02:23+00:00,1516084735365324801,teddywoodward,"1/ Voting just went live on @compoundfinance proposal 100 to cut $COMP incentives to 0.
+
+That’s a bad idea.
+
+This proposal will drive capital toward Compound’s competitors and could significantly weaken the protocol’s competitive position.
+
+🧵",95,7,10,2022-04-18
+361,2022-04-18 23:15:00+00:00,1516193607555944456,compoundfinance,"Join us Wednesday 4/20 at 9:30am PT for the Developer Community Call. Hear from @LewellenMichael of @OpenZeppelin, Paul of @gauntletnetwork, and @0xSimonJones &amp; @arturbegyan of @voltz_xyz. See you there! https://t.co/jNP9EdM1Df",49,11,20,2022-04-18
+362,2022-04-20 22:12:51+00:00,1516902742513491968,_jamico,".@a16z supports @compoundfinance Proposal 100.
+
+COMP rewards have proven successful over the last 2 years, helping to bootstrap adoption &amp; decentralize governance of the protocol. 
+
+Having accomplished these goals, we think a new approach is warranted today. Here’s why:",166,4,18,2022-04-20
+363,2022-04-21 02:24:15+00:00,1516966011064389632,compoundfinance,Compound Labs is hiring a front-end engineer to accelerate our efforts in building the most mature &amp; stable DeFi protocol and abstraction layers that improve Defi's utility and accessibility: https://t.co/n85xWh0aEp,36,15,11,2022-04-21
+364,2022-04-26 18:33:03+00:00,1519021758480850946,compoundfinance,"From The Compound Digest: Treasury now accepts USDC deposits; Governance Proposal 100 
+ https://t.co/odHuAedZZb",44,12,11,2022-04-26
+365,2022-04-27 10:08:16+00:00,1519257110957150209,DeanEigenmann,"As long as voting is not as well rewarded as locking tokens in protocols like @AaveAave, @compoundfinance and @Uniswap we won't see a good threshold of governance participation. 
+
+These protocols should work on allowing users who have staked their tokens to still be active voters",82,17,5,2022-04-27
+366,2022-04-28 21:30:37+00:00,1519791216774197248,compoundfinance,"Compound is hiring across the board in engineering, recruiting, admin, and partnerships, as well as our first product manager: https://t.co/qWzHA7CH3d",33,10,8,2022-04-28
+367,2022-05-02 19:13:44+00:00,1521206320254394372,graphprotocol,"The Graph makes accessing blockchain data easy ✨
+
+@coinbase's latest analysis on stablecoin interest rates visualizes DeFi data with charts powered by a @compoundfinance subgraph.
+
+Read the full article: https://t.co/FCNItXQAlR",185,22,35,2022-05-02
+368,2022-05-02 20:23:20+00:00,1521223838154981378,compoundfinance,"Join us Wednesday 5/4 at 9:30am PT for the Developer Community Call. Hear from @LewellenMichael of @OpenZeppelin, @pauljlei of @gauntletnetwork, @tylerether, @lisacuesta of @aztecnetwork, and @getty_hill of @labsgfx. See you there!
+
+https://t.co/rh6Xb8ZcTA",37,12,12,2022-05-02
+369,2022-05-03 21:32:19+00:00,1521603584890187777,jackchong_jc,"4/x 
+
+I have to say, I am very impressed with IMF's precise explanation of DeFi, referencing @AaveAave, @compoundfinance, @CreamdotFinance, @DefiLlama, @defipulse, @graphprotocol. 
+
+No mention of crypto innovations tho (e.g DEX, AMM, PoS staking, flash loan) https://t.co/reX044IYax",138,2,22,2022-05-03
+370,2022-05-04 21:45:47+00:00,1521969362898354176,compoundfinance,@LewellenMichael @OpenZeppelin @pauljlei @gauntletnetwork @tylerether @lisacuesta @aztecnetwork @getty_hill @labsGFX Recording of our community call earlier today: https://t.co/V1cQCrAOVE,24,3,5,2022-05-04
+371,2022-05-06 16:56:15+00:00,1522621274903646209,compoundfinance,"We're sponsoring @ETHGlobal's HackMoney 2022! #HackMoney
+
+Visit the sponsor-compound-finance channel in the ETHGlobal Discord for resources and project support.
+
+What are your hackathon project ideas? 👇 https://t.co/C2Ob7truhf",35,9,9,2022-05-06
+372,2022-05-06 18:07:07+00:00,1522639108706873344,LtColLinkarski,@ChrisBlec @lemiscate @chainlink @AaveAave @compoundfinance @SetProtocol Or maybe it isn’t as much of a concern to _real devs_ as it is to a nontechnical loudmouth such as yourself.,55,3,2,2022-05-06
+373,2022-05-06 18:01:53+00:00,1522637793897365504,lemiscate,"@ChrisBlec @chainlink @AaveAave @compoundfinance @SetProtocol anyone can submit a proposal on the governance forum to change the oracle.
+
+Go ahead and use your *check the chain* 0.05 AAVE to vote for tellor.
+
+I'll use mine to keep chainlink.
+
+Have a good day.",131,13,9,2022-05-06
+374,2022-05-06 17:33:06+00:00,1522630547553591296,lemiscate,"@ChrisBlec @chainlink @AaveAave @compoundfinance @SetProtocol we're perfectly happy with Chainlink.
+
+CL proved its resilience over a dozen black swan events (most recently yuga lab gas spike).
+
+Aave supported CL since day one and has zero plan to switch to inferior solutions.",371,29,56,2022-05-06
+375,2022-05-06 15:20:33+00:00,1522597189683499010,ChainlinkP,@ChrisBlec @chainlink @AaveAave @compoundfinance @SetProtocol Yeah sure. Everyone should abandon the safest most complete oracle solution that secures well over $50 billion with zero issues since its' inception... https://t.co/k9YfWckXkx,75,3,0,2022-05-06
+376,2022-05-06 14:54:46+00:00,1522590700814188545,ChrisBlec,"What @chainlink does next matters much less than what the DeFi apps that rely on Chainlink oracles do next.
+
+Chainlink's multisig is not likely to go away.
+
+Will DeFi apps like @AaveAave, @compoundfinance or @SetProtocol make adjustments to reduce reliance on this multisig?",101,30,7,2022-05-06
+377,2022-05-06 18:12:11+00:00,1522640384270209026,lemiscate,"@ChrisBlec @chainlink @AaveAave @compoundfinance @SetProtocol step 1: Go to https://t.co/or09g5gssd
+Step 2: type site:https://t.co/z8s7GUQk6P ""chainlink""
+step3: 2 results 1) a rekt protocol saying they will use safer CL.
+2) a rekt protocol having an oracle inferior to CL
+Step3: remind myself why I stopped caring about you years ago Chris.",91,11,5,2022-05-06
+378,2022-05-06 22:55:01+00:00,1522711562619953154,ChrisBlec,"Now let's compare how executives from @compoundfinance  &amp; @AaveAave are reacting to the revelation that billions of $$ in DeFi are at the mercy of 1-3 Chainlink signers.
+
+Based on the nature of these responses, which of these teams do you trust more to make rational decisions? https://t.co/6M8OGygtJA",122,22,13,2022-05-06
+379,2022-05-08 19:30:25+00:00,1523384847149850624,klever_io,"Klever introduces new fiat-to-crypto buying options 🔥
+
+1⃣ @Chiliz | #CHZ
+2⃣ @compoundfinance | #COMP 
+3⃣ @cryptocom | #CRO 
+
+Download &amp; buy using #Klever Wallet ⤵️
+https://t.co/bxSaWyKt78 https://t.co/ZNLvRRahMM",260,6,80,2022-05-08
+380,2022-05-09 13:24:29+00:00,1523655146898661376,compoundfinance,"Today, Compound Treasury received a B- credit rating from S&amp;P Global Ratings. This makes Compound Treasury the first institutional DeFi offering to be rated by a credit rating agency.
+
+https://t.co/F5mVyD9gVo",965,49,180,2022-05-09
+381,2022-05-09 13:45:43+00:00,1523660488449880065,DegenSpartan,@Schroomdart @compoundfinance @rleshner lmao,62,1,0,2022-05-09
+382,2022-05-09 14:33:49+00:00,1523672595295399939,thebitsian,"I'm blown away that @compoundfinance now has an S&amp;P credit rating. @rleshner keeps pushing DeFi forward in ways most people can't even imagine. This is huge deal.
+
+https://t.co/zmnjQpaptG",64,3,5,2022-05-09
+383,2022-05-09 13:24:29+00:00,1523655146898661376,compoundfinance,"Today, Compound Treasury received a B- credit rating from S&amp;P Global Ratings. This makes Compound Treasury the first institutional DeFi offering to be rated by a credit rating agency.
+
+https://t.co/F5mVyD9gVo",966,49,181,2022-05-09
+384,2022-05-09 13:29:11+00:00,1523656329100861447,Schroomdart,@compoundfinance @rleshner This is Junk status - congrats https://t.co/6tdSumd1zB,207,16,15,2022-05-09
+385,2022-05-10 18:24:50+00:00,1524093117451935750,joshfraser,"Similarly, @compoundfinance has a private channel called ""💙coinbase"". While their relationship with @coinbase is well known at this point, this could have been significant alpha when it was first created. 7/15",93,1,2,2022-05-10
+386,2022-05-11 15:42:13+00:00,1524414581959008257,compoundfinance,"The past 72 hours have been uneventful for the Compound protocol, and Compound Treasury.
+
+If you’re looking for stable, predictable, and resilient: Compound.",628,55,35,2022-05-11
+387,2022-05-11 15:42:13+00:00,1524414581959008257,compoundfinance,"The past 72 hours have been uneventful for the Compound protocol, and Compound Treasury.
+
+If you’re looking for stable, predictable, and resilient: Compound.",625,55,35,2022-05-11
+388,2022-05-13 18:04:43+00:00,1525175218616025088,ChrisBlec,"🚨 @AaveAave appears to be relying 100% on @chainlink oracles with no safety net.
+
+We saw 2 DeFi apps with the same problem get rekt today when Chainlink suddenly paused LUNA price feed.
+
+By comparison, @compoundfinance uses Chainlink but w/ Uniswap TWAP as a ""sanity check"". https://t.co/a4UKKlNnZl",147,34,24,2022-05-13
+389,2022-05-17 23:58:11+00:00,1526713724618170368,compoundfinance,"Join us Wednesday 5/18 at 9:30am PT for the Developer Community Call on Discord.
+
+Hear from @LewellenMichael of @openzeppelin, @pauljlei of @gauntletnetwork, @jmflatow of @Compoundfinance. 
+
+See you there!
+
+https://t.co/rAoEEsl7HK",41,18,5,2022-05-17
+390,2022-05-17 09:38:14+00:00,1526497312561938432,krybharat,"4/ Then I suggest a layer of high quality DeFi tokens (some of which) you can stake to earn such as @AaveAave, @compoundfinance, @SushiSwap, @dYdX, @SynapseProtocol etc",108,3,3,2022-05-17
+391,2022-05-18 17:14:03+00:00,1526974406899159042,TrueFiDAO,"Excited for our @Permissionless #DeFi Deep Dive discussion panel with @chainlink tonight 🚀
+
+Featured speakers:
+
+Rafael Cosman - #TrueFi
+Steven Valeri - @AaveAave
+ Getty Hill - @compoundfinance
+ Clayton Lowery -  @ArmaninoLLP
+
+See you at 6!
+ 
+Details here: https://t.co/t5feAA8UsA https://t.co/9BxXPjdLZH",69,4,10,2022-05-18
+392,2022-05-19 08:42:29+00:00,1527208058417516544,paddi_hansen,"1. @coinbase integrates Dapps like @Uniswap, @compoundfinance or @CurveFinance into its app
+
+2. @RobinhoodApp launches a DeFi wallet covering network fees.
+ 
+3. @stripe launches USDC payments on @Twitter 
+
+The @BanklessHQ mullet thesis (fintech 🤝 DeFi) is accelerating.",904,32,134,2022-05-19
+393,2022-05-24 09:01:42+00:00,1529024833035464704,BitTorrent,"🔥#JustLend is in the Top 3 Lending protocol with most TVL, right behind @AaveAave and @compoundfinance!",449,25,68,2022-05-24
+394,2022-05-27 09:26:23+00:00,1530118206190497793,argentHQ,"in 2018 prices were plummeting. the press was awful. 
+
+under the surface though, @MakerDAO, @compoundfinance, @AaveAave, @opensea, @ensdomains were building. then came @Uniswap
+
+feels similar now, with @zksync &amp; #StarkNet on the way &amp; other L2s here
+
+buckle up",474,20,70,2022-05-27
+395,2022-05-28 11:56:05+00:00,1530518269433720832,Blockworks_,JUST IN: Thailand's biggest bank @scb_thailand is using DeFi's @compoundfinance treasury yield service,382,23,69,2022-05-28
+396,2022-05-31 18:25:55+00:00,1531703537805189125,compoundfinance,"Join us Wednesday 6/1 at 9:30am PT for the Developer Community Call in Discord.
+
+We'll hear from @pauljlei and @htkao of @gauntletnetwork and a few others.
+
+See you there!
+
+https://t.co/nPu1onSV7G",36,12,7,2022-05-31
+397,2022-06-01 16:24:45+00:00,1532035431537053696,compoundfinance,"Join us at @CoinDesk #consensus2022 next week in Austin!
+
+@compoundfinance CEO and Founder @rleshner will be speaking on the DeFi ecosystem and its convergence with traditional financial markets on Friday June 10th.
+
+Hope to see you there! https://t.co/J5i0oQaBrx",52,21,15,2022-06-01
+398,2022-06-01 02:42:13+00:00,1531828434925768704,PatrickAlphaC,"I’ve said it once, I’ll say it a hundred times. 
+
+Bear markets are the best time to build. 
+
+Most of the top defi protocols like @AaveAave and @compoundfinance were built in bear markets. 
+
+Let’s get this bread.",290,16,24,2022-06-01
+399,2022-06-01 18:55:51+00:00,1532073456803667968,labsGFX,"1/ Today GFX Labs is proud to introduce the world to Interest Protocol @InterestDeFi Interest Protocol (IP) is the next step in the evolution of DeFi. It inherits most of the strengths of @MakerDAO, @AaveAave, and @compoundfinance while removing weaknesses https://t.co/2Zxtuqx6bb",166,26,42,2022-06-01
+400,2022-06-03 17:29:55+00:00,1532776606246178816,compoundfinance,"The Compound Labs team will be in Austin next Thursday for @CoinDesk #consensus2022
+
+Shoot us a note if you'll be there and would like to meet up! https://t.co/AoCtyesIxD",53,20,9,2022-06-03
+401,2022-06-06 20:16:18+00:00,1533905643358273537,FinterestICP,"How do our costs and transaction times stack up next to the established protocols that exist today?
+
+Let's take a look at a comparison between @compoundfinance and Finterest approximated by our engineers:
+
+#ICP #Bitcoin #DFINITY https://t.co/dlDvIhImuV",119,9,39,2022-06-06
+402,2022-06-06 18:09:17+00:00,1533873678441517057,compoundfinance,"@compoundfinance CEO and Founder @rleshner will be speaking at @CoinDesk #consensus2022 this week in Austin!
+
+Join us on Friday June 10th to hear what's next on the DeFi ecosystem and its convergence with traditional financial markets. https://t.co/lmoCSf3OXl",33,15,6,2022-06-06
+403,2022-06-08 14:19:18+00:00,1534540576242147329,MorphoLabs,"You have a position on @CompoundFinance? You can now upgrade your yields.
+
+Morpho-Compound is live! 🦋🟢
+
+https://t.co/As1z9raWYw
+
+https://t.co/XBZeuwUwJM",256,20,73,2022-06-08
+404,2022-06-09 17:15:18+00:00,1534947256926871552,compoundfinance,"@compoundfinance has landed in Austin for #Consensus2022 !
+
+Reach out if you’d like to meet up, and
+
+join us for @rleshner session on DeFi’s convergence with traditional financial markets on Friday at 3:30 in Ballroom A at the Austin Convention Center https://t.co/6tP1d5woRp",44,9,2,2022-06-09
+405,2022-06-10 15:32:46+00:00,1535283839131688961,compoundfinance,"Great to connect in-person with our partners and new friends at the Compound Happy Hour in Austin yesterday!
+
+We'll be at the Austin Convention Center - Explorations Stage 1 at 3:30p today for Robert Leshner's talk on the convergence of DeFi and traditional finance markets. https://t.co/xKNqxboFUb",43,11,4,2022-06-10
+406,2022-06-12 14:14:56+00:00,1535989027936948231,ASvanevik,"I distinctly remember when @compoundfinance launched.
+
+It brought excitement to a gloomy bear market.
+
+Soon we’ll see the next wave of revolutionary web3 products.",495,32,36,2022-06-12
+407,2022-06-13 14:57:48+00:00,1536362204399804416,compoundfinance,"Join us Wednesday 6/15 at 9:30am PT for the Developer Community Call in Discord.
+
+We'll hear from Mike from @CertoraInc, @LewellenMichael of @OpenZeppelin, and @tylerether.
+
+See you there!
+
+https://t.co/SeTYdMOHuI",35,19,5,2022-06-13
+408,2022-06-15 18:11:42+00:00,1537135777368399872,compoundfinance,An alpha version of the Compound III app is now available for the community to explore! https://t.co/8cGtPGqwMi,47,11,10,2022-06-15
+409,2022-06-15 08:24:24+00:00,1536987976617426944,MidasTheFool,"8000 ETH liquidated on another lending platform @compoundfinance 
+
+Most likely a 3AC account
+
+https://t.co/LCDR2HV1mh",488,12,72,2022-06-15
+410,2022-06-15 20:50:43+00:00,1537175795998855169,TrustlessState,"6️⃣@eulerfinance
+
+https://t.co/HdwC07JCe9 is a money market, evolved
+
+Euler combines the permissionlessness of @RariCapital's Fuse Pools, with the shared-liquidity model of @AaveAave or @compoundfinance
+
+Bullish capital efficiency🚀",81,2,5,2022-06-15
+411,2022-06-16 13:07:59+00:00,1537421733669613569,jerallaire,"2/ Euro Coin, listed as EUROC, already has broad industry support including Exchanges: @BinanceUS @Bitstamp @FTX_Official @HuobiGlobal; DeFi: @CompoundFinance @CurveFinance @DFXFinance @Uniswap; Custodians: @Anchorage @CYBAVO @FireblocksHQ; Wallets: @Ledger @MMInstitutional",232,17,24,2022-06-16
+412,2022-06-16 13:05:14+00:00,1537421041567424512,circlepay,"2/ Euro Coin is launching on @Ethereum w/support from a range of ecosystem leaders:
+
+Exchanges: @BinanceUS @Bitstamp @FTX_Official @HuobiGlobal
+DeFi: @CompoundFinance @CurveFinance @DFXFinance @Uniswap
+Custodians: @Anchorage @CYBAVO @FireblocksHQ
+Wallets: @Ledger @MMInstitutional",142,10,28,2022-06-16
+413,2022-06-16 01:07:00+00:00,1537240289542148096,chainlink,"#Chainlink Price Feeds are vital infrastructure for the #DeFi economy, underpinning it with accurate, decentralized, and reliable price data. 
+
+Integrate the COMP/USD Price Feed on #Ethereum to build secure DeFi markets around @compoundfinance’s token.
+https://t.co/jZM3MYbnhj",322,30,52,2022-06-16
+414,2022-06-18 05:00:02+00:00,1538023709553868800,Zone_BSC,"TOP 10 BSC PROJECTS BY ALTRANK
+
+@safemoon $SFM
+@SushiSwap $SUSHI
+@unifiprotocol $UNFI
+@Uniswap $UNI
+@TrustWallet $TWT
+@bounce_finance $AUCTION
+@BscPitbull $PIT
+@GalaxyHeroesGHC $GHC
+@compoundfinance $COMP
+@dogecoin $DOGE
+
+Follow @Zone_BSC and share https://t.co/PCahSMCcLK",802,122,64,2022-06-18
+415,2022-06-18 13:55:37+00:00,1538158495605870592,koeppelmann,Defi used to be seen as high risk. Pretty amazing how that has already partially flipped: many see e.g DAI on @compoundfinance now as much safer then let’s say Tether at a lending desk. Not hard to project that in the next 2008 style banking crises Defi will be safer than banks.,163,13,22,2022-06-18
+416,2022-06-18 02:59:46+00:00,1537993443695243264,fintechintern,"@twobitidiot @ericturnr @MessariCrypto @WayneVaughan @Tierion @KMSmithDC @BlockchainAssn @BlockFiZac @BlockFi @fintechfrank @TheBlock__ @rleshner - Founder @compoundfinance 
+
+- Everything that's happening in DeFi is radically transparent
+- All DeFi protocols involved with Celsius &amp; 3AC are healthy
+- On-chain liquidations have been occurring very orderly",99,7,10,2022-06-18
+417,2022-06-19 14:07:09+00:00,1538523784596144128,andrewhong5297,"bear market, bull learning 🪄
+
+going live to cover everything about ERC20 contracts and how protocols/governance builds off of the standard (using @compoundfinance as an example)! 
+
+https://t.co/mnzLUf2LYO",76,2,16,2022-06-19
+418,2022-06-20 13:28:33+00:00,1538876457249824768,ETH_Daily,"🔥 Most-searched #ERC20 Projects on CoinMarketCap Last 7D
+
+️🏅$BABYDOGE @babydogecoin
+️🏅$ETH @ethereum
+️🏅$METIS @MetisDAO
+️🏅$SHIB @shibtoken
+️🏅$COMP @compoundfinance
+️🏅$GALA @GoGalaGames 
+️🏅$SAND @TheSandboxGame
+️🏅$CEEK @ceek
+
+#Ethereum #ERC20 https://t.co/6TtvICOLtV",365,121,139,2022-06-20
+419,2022-06-21 08:00:01+00:00,1539156170060996608,Bybit_Official,"Daily Top 5 Gainers on #Bybit
+
+🥇 $CEL/USDT +132.12% @CelsiusNetwork
+🥈 $MOVEZ/USDT +38.10% @Movez_app
+🥉 $COMP/USDT +36.42% @compoundfinance
+
+👏 Followed by $LOOKS/USDT @LooksRare and $CRAFT/USDT @Talecraftio
+👉 Trade now: https://t.co/hW2liBN5PS https://t.co/JXHTlHxNWb",233,71,54,2022-06-21
+420,2022-06-21 08:25:21+00:00,1539162545084579840,okx,"Top gainers on #OKX (24h)
+
+🥇 $CEL @CelsiusNetwork
+🥈 $MOVEZ @Movez_app
+🥉 $RSR @ReserveRights
+📈 $COMP @compoundfinance
+📈 $API3 @API3DAO",282,109,79,2022-06-21
+421,2022-06-22 13:13:35+00:00,1539597467133661187,LanrayIge,"The Cosmos reply guys were right (cc @EffortCapital )
+
+In the next 12-18 months, we'll see a few other of the most successful Ethereum Dapps ""vertically integrate"" and launch their own chains.
+
+Expecting @Uniswap @compoundfinance (maybe) @AaveAave and @opensea (maybe)",160,10,19,2022-06-22
+422,2022-06-23 16:51:58+00:00,1540014815153999873,compoundfinance,Compound stable &amp; robust during volatile market conditions on The Compound Digest https://t.co/uMj3HoSFeV,47,16,11,2022-06-23
+423,2022-06-23 21:08:11+00:00,1540079292029075456,Timeless_Fi,"Timeless is dedicated to adopting &amp; promoting common standards. In this spirit, we are offering a public good:
+
+Yield daddy: Gas-optimized ERC-4626 wrappers for common yield-generating protocols (e.g. @AaveAave, @compoundfinance).
+
+https://t.co/L95AxXGrQb",102,7,13,2022-06-23
+424,2022-06-23 21:28:27+00:00,1540084394760740864,Cryptocito,"Is @compoundfinance the next candidate to launch their Appchain on Cosmos? $COMP
+
+Here's what the founder of Compound thinks of Cosmos:",93,6,11,2022-06-23
+425,2022-06-27 16:50:50+00:00,1541464079168147458,compoundfinance,"Join us Wednesday 6/29 at 9:30am PT for the Developer Community Call in the Compound Discord.
+
+We'll hear exciting updates from @pauljlei of @gauntletnetwork, @HarshaKaramchat of @questbookapp, and @jmflatow of Compound Labs.
+
+https://t.co/9vGJ0IeP6a",55,15,11,2022-06-27
+426,2022-06-29 15:02:17+00:00,1542161537099497472,compoundfinance,"Today we're excited to release a code repository to the Compound community, to enable a next-generation borrowing protocol that can scale across blockchains:
+
+Compound III.
+
+https://t.co/sy481D9Ama",317,17,60,2022-06-29
+427,2022-06-29 15:02:17+00:00,1542161537099497472,compoundfinance,"Today we're excited to release a code repository to the Compound community, to enable a next-generation borrowing protocol that can scale across blockchains:
+
+Compound III.
+
+https://t.co/sy481D9Ama",318,17,59,2022-06-29
+428,2022-06-29 18:46:37+00:00,1542217996076290050,CamiRusso,"HOW is tradfi media still calling Celsius DeFi 😂
+
+@WSJ @jonsindreu 
+
+Celsius is the opposite of DeFi. 
+
+It is 
+Custodial
+Off-Chain
+Opaque
+
+DeFi is
+Non-custodial
+On-chain
+Transparent
+
+If you want to report on DeFi lenders check out
+
+@AaveAave 
+@MakerDAO 
+@compoundfinance",708,41,112,2022-06-29
+429,2022-06-30 13:00:28+00:00,1542493270755917824,circlepay,"2/ Euro Coin is available now on @Ethereum and will be supported by leading exchanges and DeFi protocols as liquidity builds in the ecosystem, including: @BinanceUS, @bitpanda, @bitgetglobal, @CompoundFinance, @CurveFinance, @DFXFinance, @HuobiGlobal, @Uniswap",93,10,27,2022-06-30
+430,2022-07-01 16:18:13+00:00,1542905423488880640,compoundfinance,"“Outsiders reading the odd story about cryptocurrency might think any company doing finance with bitcoin nearby is ""DeFi,"" but it's not. It's only DeFi if it functions autonomously, out in the open.”
+
+https://t.co/MKk7WQggt5",105,48,22,2022-07-01
+431,2022-07-01 10:26:40+00:00,1542816951713828864,bkiepuszewski,"Can you *always* withdraw your funds ? 
+
+▪️ @MakerDAO  delegate contract - YES
+▪️ Binance, Celsius - NO
+▪️ @compoundfinance , @AaveAave - Most of the time
+▪️ @MakerDAO Vault - YES
+▪️ @dYdX V3 - YES
+▪️ @dYdX V4 - ????
+
+Read on for more detailed takes: 🧵👇",259,11,53,2022-07-01
+432,2022-07-04 09:58:06+00:00,1543896928643055617,BoyanBarakov,"1/ @compoundfinance published version III of the protocol last week. 
+
+Why is it essential for the #DeFi lending landscape, and what opportunities does it create?
+
+🧵⤵️",179,12,33,2022-07-04
+433,2022-07-07 13:12:35+00:00,1545033033392193536,lay2000lbs,"The only lenders Celsius has paid back: 
+
+@AaveAave 
+@MakerDAO 
+@compoundfinance 
+
+Smart contracts have a higher liquidation preference than any paper agreement 
+
+DeFi protects you from Celsius",1332,52,293,2022-07-07
+434,2022-07-07 14:07:36+00:00,1545046881457254403,aztecnetwork,@LidoFinance @CurveFinance @element_fi @AaveAave @compoundfinance @LiquityProtocol All of this comes wrapped in a new look for our home website https://t.co/g0L22qwWEE that reflects our evolution toward a full-fledged privacy ecosystem. https://t.co/pez4NDmCBe,97,2,9,2022-07-07
+435,2022-07-07 15:18:45+00:00,1545064786328559626,ethersole,"The only lenders I trust are:
+
+- @AaveAave 
+- @MakerDAO 
+- @compoundfinance 
+
+The only exchanges I trust are:
+
+- @Uniswap 
+- @SushiSwap 
+- @CurveFinance 
+
+Living the fully on-chain life is extremely comfy.",315,25,28,2022-07-07
+436,2022-07-07 22:29:23+00:00,1545173156691734528,jonwu_,"@CurveFinance @element_fi @AaveAave @compoundfinance @LiquityProtocol @indexcoop We think privacy is going to be a major driver of the next cycle and bring us toward mass adoption.
+
+We're psyched to bring you more soon!
+
+Read the full announcement here: 
+https://t.co/X0V0AduAez
+
+🙏",89,12,5,2022-07-07
+437,2022-07-07 23:39:59+00:00,1545190924145557504,LordTylerWard,"1/ I have a confession. 
+
+@StaniKulechov used to give me access directly to the AAVE treasury that I used to pump @Barn_Bridge TVL &amp; we funneled it through @compoundfinance with a back door to @rleshner trading acct. @kaiynne found out &amp; counter traded me &amp; rekt us. 
+
+A thread👇",208,11,16,2022-07-07
+438,2022-07-07 22:29:21+00:00,1545173151348248577,jonwu_,"@CurveFinance @element_fi You can try the system today on our newly-revamped front-end https://t.co/Y9AkMydqRO with our launch partners Curve, Lido, and Element.
+
+@AaveAave, @compoundfinance, @LiquityProtocol, @indexcoop and more are soon to come.
+
+Ethereum services, on Ethereum, with cheap privacy.",115,5,8,2022-07-07
+439,2022-07-08 00:23:08+00:00,1545201782640545792,mbaril010,"And please, please, stop trying to create centralized project to bypass the limitation that protect the users. 
+
+There is a reason why @compoundfinance or @AaveAave, to name only 2, work like they work. 
+
+To remove the middleman that create all these issues. 
+
+Back to basics all!",89,6,6,2022-07-08
+440,2022-07-10 21:56:28+00:00,1546252036177420289,cburniske,@AndrewDARMACAP @CelsiusNetwork @AaveAave @compoundfinance @MakerDAO So the contracts are smart after all 😏,68,0,0,2022-07-10
+441,2022-07-10 16:49:51+00:00,1546174875508908032,AndrewDARMACAP,@bezzenberger @CelsiusNetwork @AaveAave @compoundfinance @MakerDAO There is no negotiation.,71,3,1,2022-07-10
+442,2022-07-10 16:40:42+00:00,1546172573192519684,AndrewDARMACAP,The fact that @CelsiusNetwork is paying back @AaveAave @compoundfinance and @MakerDAO before humans should explain smart contracts to humanity.,1969,86,312,2022-07-10
+443,2022-07-11 17:01:04+00:00,1546540085168029699,compoundfinance,"Join us Wednesday 7/13 at 9:30am PT for the Developer Community Call in Discord.
+
+Hear from @Arr00c, @LewellenMichael of @OpenZeppelin, @pauljlei of @gauntletnetwork, @geehsien of @circlepay, and @mykelp of @compoundfinance.
+
+See you there! https://t.co/jBajYIGOZC",22,18,6,2022-07-11
+444,2022-07-15 17:14:46+00:00,1547993086176817152,compoundfinance,"Join us next week for Compound's first episode of Thesis, where we chat with thought leaders to discuss the intersection of crypto and capital markets.
+
+Excited to discuss Treasury strategy with @mrfylkesnes from @nansen_ai
+
+Add to cal here:
+https://t.co/G98UnuQH59 https://t.co/OpVbi7knQv",49,25,17,2022-07-15
+445,2022-07-18 23:59:51+00:00,1549182192923734017,compoundfinance,"Going live in one hour with @mrfylkesnes, discussing how on-chain data informs @nansen_ai 's treasury strategy with our host @HiltnerJim 
+
+Hope to see you there!
+https://t.co/G98UnuQH59 https://t.co/W85mUuU6Xn",25,23,7,2022-07-18
+446,2022-07-21 17:22:36+00:00,1550169381996576768,compoundfinance,Compound III; Nansen's treasury strategy on The Compound Digest https://t.co/H6EcbiNcUd,28,9,7,2022-07-21
+447,2022-07-25 19:26:43+00:00,1551650170873335808,OpenZeppelin,"OpenZeppelin just audited a new upcoming version of the Compound lending protocol developed by @compoundfinance - Compound III.
+
+Check out the full audit here: https://t.co/L5hvLMJ9rj
+
+Thread below 👇",127,27,25,2022-07-25
+448,2022-07-25 23:02:45+00:00,1551704536317698048,compoundfinance,"“You don't have to be an investment fund or a hedge fund or a VC to invest in crypto...
+
+if you take the time to understand and get comfortable with the new types of risks,
+you have a great opportunity to outperform by taking very limited market risk.”
+
+@mrfylkesnes, @nansen_ai https://t.co/RT0C9A2shx",51,15,10,2022-07-25
+449,2022-07-26 17:16:40+00:00,1551979828416434176,compoundfinance,"Join us Wednesday 7/27 at 9:30am PT for the Developer Community Call in Discord.
+
+Hear from @LewellenMichael of @OpenZeppelin, @pauljlei of @gauntletnetwork and @adambavosa of @compoundfinance.
+
+See you there! https://t.co/6fjsOREVmz",25,13,8,2022-07-26
+450,2022-07-28 17:58:25+00:00,1552715110807875584,elliotttran,"UPDATE:
+
+I've been interviewing non stop for the last month and have met a lot of cool and some uncool people and was a learning exp.  I'm grateful for all the opportunities but I've found a sick new home for myself @compoundfinance here to turn defi into regular fi. LFG! https://t.co/JjUCatu5xD",64,17,0,2022-07-28
+451,2022-08-04 16:48:40+00:00,1555234274315341825,compoundfinance,"Next week on Compound Thesis, we're chatting with @PalmerBTIG, Managing Director and Head of Digital Asset Research at BTIG
+
+Learn why institutions are eager to enter the digital asset space, and the role digital assets serve in a diverse portfolio.
+
+https://t.co/3TH2LLELUa https://t.co/KhUoFV6B9r",42,24,14,2022-08-04
+452,2022-08-04 15:34:09+00:00,1555215523134291971,DCdoso,"never really focused on being first, just on building secure protocols🫡
+
+Plutus sc functionality powering Agora on-chain governance and Liqwid money markets is a testament to our core devs ~1.5 year grind🫶
+
+Also humbled to build on shoulders of giants @AaveAave @compoundfinance",191,9,33,2022-08-04
+453,2022-08-06 11:39:15+00:00,1555881181945778176,bneiluj,"quite astonishing performance and unbelievable just a few weeks after going live on mainnet! @MorphoLabs is now the first biggest borrower and the second largest lender on  @compoundfinance. And they are about to go live with @AaveAave. It's nuts! 😳
+https://t.co/Dr4HAuqZ3f: https://t.co/bl3eVjSy8j",85,5,15,2022-08-06
+454,2022-08-06 11:40:55+00:00,1555881603833937922,revolut20,"*GEM Spot Long Term Hold*
+Well just found really good one. @compoundfinance 
+Compound is a decentralized blockchain protocol that allows users to lend or borrow selected cryptocurrencies. 
+ATH was Around $900! Less than 7 million tokens in Circulation! 
+
+#Gem #Crypto $COMP https://t.co/EQamsQqVJs",2121,152,9179,2022-08-06
+455,2022-08-08 14:25:14+00:00,1556647731413880834,compoundfinance,"Join us Wednesday 8/10 at 9:30am PT for the Developer Community Call in Discord.
+
+Hear from @LewellenMichael of @OpenZeppelin, @pauljlei of @gauntletnetwork, @StoneMchael of @chainlink, and @jmflatow of @compoundfinance.
+
+See you there! https://t.co/pFCuxuOfIy",37,17,15,2022-08-08
+456,2022-08-09 17:11:28+00:00,1557051949580574721,compoundfinance,"This Thurs on Thesis, we're chatting with @PalmerBTIG , Managing Director and Head of Digital Asset Research at BTIG.
+
+Learn why institutions are eager to enter the digital asset space, and the role digital assets serve in a diverse portfolio.
+
+https://t.co/3TH2LLELUa https://t.co/552HA9FYPc",24,14,8,2022-08-09
+457,2022-08-10 18:55:57+00:00,1557440631496228870,compoundfinance,"Scammers are airdropping ""claim"" tokens to Compound protocol users.
+
+The url mentioned in these tokens direct the users to a phishing website, which asks you to ""claim rewards"".
+
+Be cautious about scams, and when in doubt, ask the community in Discord https://t.co/l343Iuq8V4",70,30,30,2022-08-10
+458,2022-08-15 23:10:00+00:00,1559316506978172929,compoundfinance,"The first deployment of Compound III is a USDC market on Ethereum. The contracts are on mainnet, and can be activated by Compound Governance.
+
+The next-generation borrowing protocol is approaching launch 📈
+
+https://t.co/DkcjiqTgoS",213,43,46,2022-08-15
+459,2022-08-15 23:10:00+00:00,1559316506978172929,compoundfinance,"The first deployment of Compound III is a USDC market on Ethereum. The contracts are on mainnet, and can be activated by Compound Governance.
+
+The next-generation borrowing protocol is approaching launch 📈
+
+https://t.co/DkcjiqTgoS",213,43,46,2022-08-15
+460,2022-08-17 17:10:12+00:00,1559950736418426880,compoundfinance,"Next week on Compound Thesis, we're speaking with @TaiPanich_ , CEO and Chief Investment Officer, @SCB10X_OFFICIAL
+
+See how a top web3 VC evaluate and make investment decisions in the space, in addition to building startups and attracting talent
+
+https://t.co/4oWXs6i2tS https://t.co/Re2MLjrdBC",39,8,13,2022-08-17
+461,2022-08-18 17:22:22+00:00,1560316185509384192,compoundfinance,https://t.co/NKRRP0GaJe,167,42,28,2022-08-18
+462,2022-08-18 17:22:22+00:00,1560316185509384192,compoundfinance,https://t.co/NKRRP0GaJe,169,42,28,2022-08-18
+463,2022-08-21 14:18:27+00:00,1561357064626229248,DeFi_Dad,"B̵o̵r̵i̵n̵g̵ Battle-tested DeFi
+
+AMMs: @Uniswap, @CurveFinance, @BalancerLabs
+Lend/borrow: @AaveAave, @MakerDAO, @compoundfinance
+Derivatives: @GMX_IO, @synthetix_io
+Insurance: @NexusMutual
+Undercollateralized lending: @maplefinance
+Aggregators: @ConvexFinance, @iearnfinance",79,5,16,2022-08-21
+464,2022-08-22 12:39:16+00:00,1561694494302543873,compoundfinance,"Join us Wednesday 8/24 at 9:30am PT for the Developer Community Call in Discord.
+
+Hear from @pauljlei of @gauntletnetwork, @MonetSupply, and @compoundfinance.
+
+See you there! https://t.co/AQ0guVSy3U",26,10,10,2022-08-22
+465,2022-08-23 02:30:12+00:00,1561903604591738880,compoundfinance,"@sammycrypto4 @WrappedBTC Compound Labs is going to be an offensive line coach for WBTC, and also sell a few tickets to their games",6,1,1,2022-08-23
+466,2022-08-23 21:04:47+00:00,1562184095907586048,graphprotocol,"A subgraph built by @MessariCrypto to index Compound V2 data is live on The Graph’s decentralized network 📊
+
+@compoundfinance is one of the largest protocols in DeFi.
+
+With this new subgraph, anyone can easily track Compound data! https://t.co/aMQXNJ00lg",148,10,39,2022-08-23
+467,2022-08-23 17:36:10+00:00,1562131598530584577,safetyth1rd,"this is a little underapprecaited but 
+
+@Uniswap, as well as @compoundfinance's clean, simple UI is one huge reason for DeFi's success so far
+
+it set a standard that subsequent apps tried to live up to -easy, intuitive.",61,9,2,2022-08-23
+468,2022-08-23 15:12:12+00:00,1562095367642091523,The3D_,"So @compoundfinance III ditches the open oracle and the anchor mechanism to query  @chainlink directly, as Aave has been doing since the beginning.Not a criticism to the devs ofc as I am well aware of how complex the problem is, just baffled by how silent the defi police has been https://t.co/iwv9WN4yBu",120,13,15,2022-08-23
+469,2022-08-24 00:41:05+00:00,1562238531770224640,compoundfinance,"The proposal to launch Compound III has succeeded; 200 addresses voted 1,203,196 COMP in support.
+
+In 2 days, you'll be able to use the new protocol.
+
+Thank you to everyone in the community that contributed, reviewed, tested, audited, debated, and voted on this proposal 📈3⃣",69,5,14,2022-08-24
+470,2022-08-26 01:05:41+00:00,1562969498831171584,compoundfinance,"The upgrade includes advanced account management tools for developers, that enable stunning new UX patterns and applications to be built on top of the protocol...like the starter interface: https://t.co/WMq0MIb30k",88,5,11,2022-08-26
+471,2022-08-26 01:05:26+00:00,1562969434360549378,compoundfinance,"Today, following a successful COMP Governance proposal, Compound III is live 📈3⃣
+
+Compound III is a streamlined version of the protocol, with an emphasis on security, capital efficiency, and user experience.
+
+For borrowers, it's a game-changing upgrade.
+
+https://t.co/lmYs2DThBo",468,71,108,2022-08-26
+472,2022-08-26 01:05:43+00:00,1562969504816062466,compoundfinance,"This wouldn't be possible without the incredible Compound community.
+
+COMP Governance manages the deployed Compound III market, all future deployments, and the license to the Compound III codebase.
+
+A huge thank you to everyone that participated in launching this upgrade 📈3⃣",41,3,2,2022-08-26
+473,2022-08-29 20:21:12+00:00,1564347455117955072,compoundfinance,Compound III is live on The Compound Digest https://t.co/5uAJlWX31p,60,5,16,2022-08-29
+474,2022-08-30 19:22:49+00:00,1564695152626655234,compoundfinance,"An hour ago, Proposal 117 was executed, which updated the price feed that Compound v2 uses.
+
+This price feed, while audited by three auditors, contained an error that is causing transactions for ETH suppliers and borrowers to revert.
+
+https://t.co/a2DFk7h0ET",275,30,79,2022-08-30
+475,2022-08-30 19:22:49+00:00,1564695152626655234,compoundfinance,"An hour ago, Proposal 117 was executed, which updated the price feed that Compound v2 uses.
+
+This price feed, while audited by three auditors, contained an error that is causing transactions for ETH suppliers and borrowers to revert.
+
+https://t.co/a2DFk7h0ET",284,29,85,2022-08-30
+476,2022-08-31 14:16:52+00:00,1564980543690792961,RektHQ,"Compound’s governance has backfired, and not for the first time. 
+
+A governance approved oracle update has frozen the cEther market. 
+
+“Funds are not immediately at risk, but this is a developing situation"" say @compoundfinance.
+
+rekt investigates.
+https://t.co/QA2TzROfSg",85,5,20,2022-08-31
+477,2022-08-31 12:12:13+00:00,1564949177246879745,danielvf,"All @compoundfinance V2 markets are actually broken if you have ETH on Compound, since the redeem process for the other markets tries to look up the price of your ETH. https://t.co/2oPX5LJzQj",89,3,16,2022-08-31
+478,2022-09-02 13:00:32+00:00,1565686109983719424,coreapp,"Use leading Ethereum dApps like @AaveAave and @CompoundFinance with Core browser extension.
+
+Just connect and viola!
+▶️ https://t.co/lBDPmujKoo https://t.co/gwwLmqYGeZ",194,6,30,2022-09-02
+479,2022-09-02 23:45:19+00:00,1565848374238134274,compoundfinance,"Proposal 124 re-allocates 161.42 COMP/day from v2 ETH, WBTC, LINK, UNI, COMP, BAT, and ZRX users to Compound III USDC users.
+
+Voting begins in 2 days.
+
+https://t.co/i6FA7tUpPM",23,3,5,2022-09-02
+480,2022-09-05 15:57:42+00:00,1566817858587353089,compoundfinance,"Join us Wednesday 9/7 at 9:30am PT for the Developer Community Call in Discord.
+
+Hear from @pauljlei of @gauntletnetwork and @LewellenMichael of @OpenZeppelin.
+
+See you there!
+
+https://t.co/m6LOEorrYF",16,8,4,2022-09-05
+481,2022-09-06 10:47:17+00:00,1567102130590212099,euler_mab,"The three largest lending protocols on Ethereum are all going in different directions right now. 
+
+@compoundfinance is proposing to raise max interest rates
+@AaveAave is pausing borrowing
+@eulerfinance is proposing to do nothing",86,2,5,2022-09-06
+482,2022-09-06 14:18:12+00:00,1567155208907546624,compoundfinance,"Proposal 119 to cure the v2 Ether market will go live in approximately 11 hours ✅
+
+There is a day-and-a-half left of voting on Proposals 122-124, and participation hasn't met quorum yet; now is a great time to review the proposals &amp; vote!",21,1,6,2022-09-06
+483,2022-09-07 01:25:32+00:00,1567323147967336448,compoundfinance,"Proposal 119 has been executed; the v2 protocol should be functioning completely normally 🙌
+
+Join tomorrow's community call for a full recap and analysis of the price feed disruption.
+
+https://t.co/m6LOEorrYF https://t.co/zHysOk4iVe",57,23,14,2022-09-07
+484,2022-09-08 17:30:15+00:00,1567928316409126916,BSCNews,"Despite the bad market condition, these tokens still performed a good price action in the last 24 hours 📈
+
+Let's celebrate the top daily gainers on @BNBCHAIN! Which of these do you hold 👀?
+
+@safemoon @bakery_swap @NomiChef @realMaskNetwork @compoundfinance 
+
+#BNBChain #DeFi https://t.co/o3DNujOMC1",139,38,30,2022-09-08
+485,2022-09-14 13:03:54+00:00,1570035611314098177,compoundfinance,"Starting today, to meet the growing demand for liquidity, institutions can now borrow from Compound Treasury, using digital assets as collateral.
+
+https://t.co/xgDIep18Qa",93,9,26,2022-09-14
+486,2022-09-19 12:45:00+00:00,1571842794926223360,compoundfinance,"Join us Wednesday 9/21 at 9:30am PT for the Developer Community Call in Discord.
+
+Hear from @pauljlei of @gauntletnetwork and @LewellenMichael of @OpenZeppelin, and the @tusdio team.
+
+See you there!
+
+https://t.co/y1Ubjiyqsz",28,13,4,2022-09-19
+487,2022-09-21 23:28:19+00:00,1572729467713490945,axelarcore,"Join Axelar for a live AMA with a star-studded guest list! 🤩
+
+@hosseeb/@dragonfly_xyz 
+@rleshner/@compoundfinance 
+@tarunchitra/@gauntletnetwork
+@sergey_nog/@axelarcore
+...will discuss Building in the Multichain‼️ 
+
+📅 Tomorrow, Sept. 22
+⏰ 1930 UTC
+📍 https://t.co/sE7k70FTfh https://t.co/f3DDhiQU7L",258,36,39,2022-09-21
+488,2022-09-23 13:15:32+00:00,1573300032396296192,Nexo,"The latest on Nexo &amp; Nexo Pro:
+
+🪂 @Stepnofficial's $GMT
+🪂 @graphprotocol's $GRT
+🪂 @synthetix_io's $SNX
+🪂 @compoundfinance's $COMP
+
+There’s plenty to do with the newcomers: buy, top up, trade, borrow, swap, boost, and spend with the Nexo Card. Join in!
+
+https://t.co/AsAnW5XFys",1192,64,105,2022-09-23
+489,2022-09-29 22:16:19+00:00,1575610450078617600,readDanwrite,"We ended our two days of interviews at @chainlink #Smartcon with a 🔥🔥 talk with @rleshner about all things @compoundfinance, simplifying to grow, and why he thinks stablecoins achieve everything Bitcoin was supposed to do. video coming next week on Decrypt. @stacyannj https://t.co/XiJI2lGTHb",70,10,6,2022-09-29

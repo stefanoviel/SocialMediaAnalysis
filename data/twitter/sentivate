@@ -1,0 +1,423 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-02 18:47:13+00:00,1212807575508586496,Sentivate,"https://t.co/XExsvKj8K7
+
+https://t.co/E6lNiFCzw3 https://t.co/NHbeA2woR4",14,0,6,2020-01-02
+1,2020-01-09 20:51:02+00:00,1215375447837429762,Sentivate,We will also keep a public list of active domains initially. This is what we are calling Domain Pledges internally. These pledges show companies that agree to hold a domain and eventually provide a site for the UW.,2,0,0,2020-01-09
+24,2020-01-10 20:51:44+00:00,1215738013566865412,Sentivate,@GabrielBeaux We aren’t selling the company and more importantly we wouldn’t have an answer to this as you would need to request info from a company’s new leadership. This is the same for any company inside or outside of crypto.,2,2,0,2020-01-10
+26,2020-01-13 12:25:27+00:00,1216697768372310016,Sentivate,"What are the #components and #benefits of #UDSP?
+
+-UDP
+-Reliable
+-Encrypted by default
+-Easily upgraded
+-Multiplex
+-Multihoming
+-IPv6 Ready
+-Passwordless login
+-Single sign-on for the Internet
+-0-RTT",4,0,0,2020-01-13
+39,2020-01-14 13:09:10+00:00,1217071155321999360,Sentivate,"As an alternative to counters, its large nonce size (192-bit) allows random nonces to be safely used.",4,0,0,2020-01-14
+51,2020-01-21 16:24:22+00:00,1219656994434568197,Sentivate,"The Internet: HTTP &amp; HTML by @codeorg 
+
+Simple video on how the internet works by utilizing http.
+
+https://t.co/vDglRs5tiX",11,1,2,2020-01-21
+65,2020-01-22 17:53:47+00:00,1220041885420544000,Sentivate,"@Cryptogazer64 @Cloudflare We've linked you to the $SNTVT alpha @github each time you've asked.
+
+If you're having issue getting it set up feel free to reach out.
+
+https://t.co/E6lNiFCzw3
+
+We will be starting BETA soon which will be available with an  executable and information on https://t.co/tnJEsVGvuR",1,0,0,2020-01-22
+66,2020-01-23 13:39:05+00:00,1220340174237978624,Sentivate,https://t.co/J5Yj4khljz,1,0,0,2020-01-23
+75,2020-01-27 12:51:06+00:00,1221777653151289345,Sentivate,"@Coin_Shark ""During my early 20s, I helped developers coming out of boot camp or college to obtain jobs in banks to tech companies. I spent a short time on and off to teach Nodejs to local youth eager to learn. Sharing my passion for code &amp; design is something I enjoy doing till this day.""",9,1,2,2020-01-27
+78,2020-01-28 21:15:11+00:00,1222266896432746501,Sentivate,"As requested by several $SNTVT community members, we reached out to the team at @enjin. $SNTVT has been added o the wallet, although it was already supported you should see it now without being a custom token.
+
+Shout-out for the prompt action!
+
+https://t.co/SlAbWJE0xr",30,2,13,2020-01-28
+80,2020-01-30 21:13:59+00:00,1222991370698350592,Sentivate,"Formation of Universal Web Inc. is complete. We will begin roll out tomorrow of $SNTVT sites and new properties.
+
+Domains will start coming online tomorrow starting with https://t.co/bYsY7pb8Ef
+
+#UniversalWeb https://t.co/gHv0RbAu1G",87,15,39,2020-01-30
+82,2020-01-31 17:35:55+00:00,1223298880290291716,Sentivate,"$SNTVT 网络的未来
+
+Sentivate是一种混合型网页，可实现对现代网页的切实可行的替代
+
+比任何单独的集中化或分散化的网页更快，更安全，更可扩展
+
+https://t.co/0GNXeabWwM",22,0,10,2020-01-31
+89,2020-02-04 18:06:51+00:00,1224756218297757698,Sentivate,"Sentivate - February Updates - Full Digest of the #UniversalWeb and $SNTVT Network.
+
+We are gearing everything up now for Phase 2, our largest feature update going out with Sentivate’s company.
+
+https://t.co/R8SmL54xg9",52,1,23,2020-02-04
+90,2020-02-11 01:34:34+00:00,1227043213564940288,Sentivate,@ShitcoinSherpa https://t.co/DLYwbdcTe9,3,0,1,2020-02-11
+92,2020-02-12 10:26:59+00:00,1227539590178885633,Sentivate,"We are accepting submissions for a new logo for our recent Wyoming formation Universal Web, Inc. $100 in BTC to those with logo prototypes we would like to use. Submissions must be original work and must be in PSD format with organized layers.",35,1,15,2020-02-12
+93,2020-02-13 15:21:05+00:00,1227975991739527168,Sentivate,"Experimental Branch of the Sentivate Network
+
+This code base release is focused on the client/server modules, extending into core systems &amp; $SNTVT Browser
+
+https://t.co/PvKNa4Zcpf",34,0,20,2020-02-13
+94,2020-02-18 15:45:16+00:00,1229794016587403265,Sentivate,"Taking your social media profiles on the go while leaving your banking profiles at home.
+
+Services can begin to utilize a network wide reporting system for bad actors. This reporting system improves the overall health and security of the web.",12,0,2,2020-02-18
+103,2020-02-19 12:50:41+00:00,1230112468455841793,Sentivate,"@amazon @Twitter Any replacement for the web must have centralized systems as it’s core focus which are then enhanced by decentralized components. Cryptocurrency is the opposite of this case. Like $VIAT, it must be decentralized focused and enhanced by centralized dedicated systems.",9,0,1,2020-02-19
+117,2020-02-21 13:19:39+00:00,1230844535363629056,Sentivate,"The $SNTVT #UniversalWeb is built from the ground up and includes a massive change to the data transport protocols.
+
+#HTTP is a major bottleneck due to the #TCP multi-step process required to establish a connection between receiver and sender.
+
+We fix this with #UDSP https://t.co/fHESMr4AAS",80,1,29,2020-02-21
+123,2020-02-24 19:21:55+00:00,1232022866587082757,Sentivate,$SNTVT #UniversalWeb https://t.co/QoJg1dwMv5,22,0,9,2020-02-24
+124,2020-02-25 12:57:46+00:00,1232288577725304837,Sentivate,"#UDSP is great for machine-to-machine communication and the world of #IoT. The packets are specifically designed to be easily digested and quickly utilized. 
+
+UDSP is for low-latency high-throughput communication  for dispersed and parallel computing environments. https://t.co/WhzIVmyWi7",54,1,25,2020-02-25
+129,2020-02-26 15:37:40+00:00,1232691206615945217,Sentivate,"We thank everyone for following and liking our official $SNTVT page on @Facebook. Please be aware that this page is our only official page on that platform and any other pages are scams.
+
+https://t.co/NbcEGebwM7",30,0,14,2020-02-26
+130,2020-03-03 23:38:31+00:00,1234986544626167808,Sentivate,https://t.co/RSetxU3kiE,20,0,12,2020-03-03
+133,2020-03-04 14:52:59+00:00,1235216677979279360,Sentivate,"@arrabalero8 Buen trabajo!
+
+https://t.co/iW300ogdUI",1,1,0,2020-03-04
+134,2020-03-10 10:40:55+00:00,1237327570334560256,Sentivate,Make sure to sign into the https://t.co/2MJFYTF74B to see the downloads as well as other pages on the platform. Only those who are members can see the page and many more.,19,0,9,2020-03-10
+147,2020-03-11 09:20:28+00:00,1237669710604521473,Sentivate,Windows Download is up https://t.co/sxFAYgTigO  This is a stand-alone folder no need to run an install just launch the UniversalWebBrowser.exe inside. #Sentivate $SNTVT,29,3,15,2020-03-11
+150,2020-03-17 19:49:38+00:00,1240002373516439552,Sentivate,We expect to fully work through this developing and quickly spreading situation. Development work has actually been speeding up contrary to many entities across the space.,2,1,0,2020-03-17
+157,2020-03-18 11:58:39+00:00,1240246231907086337,Sentivate,https://t.co/atpDcIzTlR,11,2,2,2020-03-18
+158,2020-03-22 19:01:25+00:00,1241802176898441219,Sentivate,@jack @LewKnopp from @TemplarTitanInc Global Risk Mitigation team has been on top of the Coronavirus epidemic since we were first aware of it in December.,1,0,1,2020-03-22
+159,2020-03-24 20:17:14+00:00,1242546035542700032,Sentivate,"What is Social Sentivate?
+What is the point of the dashboard?
+Are you curious to learn more about it?
+
+Check out our FAQs to better grasp the purpose and use of our new dashboard 👇
+
+https://t.co/23F2mWAtaJ",45,3,28,2020-03-24
+161,2020-03-31 06:15:38+00:00,1244870953055682561,Sentivate,"UPDATE 1: We have released our new public &amp; private deck for viewing. 
+
+Hit that notification bell as we'll be announcing all of our March updates 1 by 1 tonight March 31st EST.
+
+https://t.co/tsIesiemkH (DM for the private Deck) https://t.co/FX9IZk3yDA",41,5,23,2020-03-31
+163,2020-04-01 14:21:40+00:00,1245355655726280712,Sentivate,@paddystash This will be the case. We can confirm a blog update and interview dropping this week to cover all the new additions.,5,0,3,2020-04-01
+173,2020-04-02 06:57:35+00:00,1245606286516834304,Sentivate,"Update: Fontawesome has been added as an extension to UIKit and thus is now available for all UW Apps. 
+
+*This was a dev &amp; client request for additional out of the box icon support. This does include a huge list of brand icons including #ETH &amp; #BTC icons for wallet support.",8,0,3,2020-04-02
+174,2020-04-04 17:28:19+00:00,1246489789869756416,Sentivate,https://t.co/9IOj8d0qN9 https://t.co/Qh8nuimu4y,17,0,5,2020-04-04
+175,2020-04-05 04:55:39+00:00,1246662762069217280,Sentivate,PSA: Be aware of fake token giveaways on Facebook. Make sure to follow only official accounts.,17,2,7,2020-04-05
+176,2020-04-06 12:48:06+00:00,1247144046352629760,Sentivate,@Zel_Core @CoinstoPlatform @dragonchaingang @Baztoken @Zelcash @Zel_Labs The option for $SNTVT is wrong in the poll.,0,0,0,2020-04-06
+177,2020-04-07 12:29:34+00:00,1247501772677144578,Sentivate,Great job by the team over at @parachutetoken $PAR https://t.co/1YpnEorVYf,7,0,5,2020-04-07
+178,2020-04-16 00:33:32+00:00,1250583065476415492,Sentivate,"@cwebdev @paddystash @thecrypple Make sure to join our official Telegram group, @tommarchi co founder and lead dev recently answered some questions on Identity Certificates. If you use the search function and find answers from Tom you will find lots of info.
+
+https://t.co/AkMqAn7TwL",1,1,0,2020-04-16
+179,2020-04-27 03:14:10+00:00,1254609756016259084,Sentivate,"Code Reminder: All updates will be pushed to the Sentivate community site first. Github will only receive updates for major milestones. 
+
+This months update is one of the milestones and will be pushed to Github.",26,1,12,2020-04-27
+182,2020-04-28 09:59:17+00:00,1255074097844965377,Sentivate,#SNTVT upcoming #codedrop for v1.2 https://t.co/TNQBKTKwOn,29,0,14,2020-04-28
+184,2020-04-30 22:17:59+00:00,1255984774264602624,Sentivate,Don't forget we also have our official Sentivate Announcement telegram - https://t.co/Okf0InZ4G2,3,0,1,2020-04-30
+190,2020-05-01 08:59:37+00:00,1256146245825036288,Sentivate,We have extended the update for one day May 1st to ensure some recent asks make it in specifically casting of torrents from the browser to other devices. All other features are ready for the largest update since the initial release. Bringing us much closer to launch.,33,2,12,2020-05-01
+191,2020-05-05 12:07:30+00:00,1257643078279729153,Sentivate,We’d be working with Governments in our case we are determined to have this be a US sponsored initiative like the early days of the Web and parts of it today. As to ensure mass adoption but also to bring it as a solution for the US gov to protect their restricted intranets.,3,1,0,2020-05-05
+206,2020-05-06 01:22:10+00:00,1257843063738839051,Sentivate,@Bubble__Bird We’ll allow this for some contests but for older holders we’ll make sure benefit from some contests specifically. We want to reward older community members. We have an internal DB for those users from twitter and Telegram.,0,0,0,2020-05-06
+207,2020-05-07 13:47:44+00:00,1258393079524048896,Sentivate,"@draculaofcrypto @Pr0Bitcoin @ShitcoinSherpa Previous build (v1.0.8) is available on https://t.co/HWMghqBK4m
+
+The latest update v1.2 will be compiled and built into an .app and .exe once a few remaining pushes are made to the main GitHub repo.
+
+https://t.co/E6lNiFCzw3",2,0,1,2020-05-07
+208,2020-05-14 19:56:17+00:00,1261022541726048259,Sentivate,"CONTRACT WORK: We are looking for an additional graphic designer for company related graphical work. Paid in BTC or USD only. Please DM @sentivate or @tommarchi with links to your work. Must be a US resident, preferred location is NJ.",60,4,32,2020-05-14
+209,2020-05-30 14:50:03+00:00,1266743682335727621,Sentivate,Monthly code push is coming up this week. This marks another large GUI and visual update which enables several features from the previous update. It will be posted to github and NPM as the changes were large in size and significant in content.,44,0,11,2020-05-30
+210,2020-06-07 19:59:06+00:00,1269720560054960130,Sentivate,Make sure to tune in and hear a live chat with @tommarchi tomorrow. Check @nrdgrl007 for details. https://t.co/ytRoOR0au8,50,1,29,2020-06-07
+212,2020-06-08 15:09:16+00:00,1270010007363506176,Sentivate,"Don't forget to tune in for discussion and Q&amp;A with @tommarchi tonight 5:30 PM PST/8:30 PM EST
+
+https://t.co/tJlFeKTO5X https://t.co/0ZGOfbvZZD",52,3,37,2020-06-08
+213,2020-06-12 15:25:15+00:00,1271463584833380356,Sentivate,$SNTVT @Sentivate https://t.co/VZ3vtr1IEt,44,1,10,2020-06-12
+214,2020-06-16 00:47:29+00:00,1272692237357297665,Sentivate,Tune in now for the livestream! https://t.co/7SW3Iqp0tU,19,0,7,2020-06-16
+215,2020-06-18 13:28:15+00:00,1273608466033250305,Sentivate,What is your favorite crypto news outlet that you’d like to see Sentivate on?,23,9,5,2020-06-18
+216,2020-06-19 14:09:52+00:00,1273981328309063684,Sentivate,"Make sure to tune in and share the $SNTVT interview with @Coin_Shark
+
+What are you thoughts on the bandwidth issue? https://t.co/ptKIzdlJJz",66,3,48,2020-06-19
+217,2020-06-23 00:53:35+00:00,1275230487246712837,Sentivate,"Industry Experts: The web is sick, we need to fix it
+
+@Sentivate $SNTVT: https://t.co/TR6OKT16e3",45,3,15,2020-06-23
+218,2020-07-01 15:30:29+00:00,1278350267520606208,Sentivate,"Great article by @kaspersky on the implications and nature of #DDOS attacks.
+
+$SNTVT network packet puzzles affect the effectiveness and liveliness of these type of attacks.
+
+https://t.co/9qmPEpeAxK",44,3,29,2020-07-01
+219,2020-07-03 17:03:05+00:00,1279098348872568839,Sentivate,Make sure to comment your thoughts and questions on the Universal Identity System.,11,2,0,2020-07-03
+223,2020-07-11 04:35:37+00:00,1281809345710362624,Sentivate,👋 https://t.co/BGgonl8yYH,44,0,7,2020-07-11
+224,2020-07-14 08:43:55+00:00,1282958997310574592,Sentivate,"It's time to #TAKEBACKTHEWEB the next stage for Sentivate. This is the largest change we have ever made since the inception of the company transitioning from a Government solution to a global initiative. The below article summarizes many of those changes.
+
+https://t.co/82Qjg2WotW",173,42,106,2020-07-14
+231,2020-07-15 00:31:48+00:00,1283197539068542976,Sentivate,The $SNTVT Universal Domain System fixes this by bringing a whole new component to replace the outdated #DNS https://t.co/yfHhcUkDNP,50,0,13,2020-07-15
+233,2020-07-17 17:37:25+00:00,1284180419785744387,Sentivate,Artwork by $SNTVT System Admin @JordyManyoma https://t.co/uxkGPjEbtn,36,5,2,2020-07-17
+238,2020-07-18 04:11:20+00:00,1284339949144281089,Sentivate,"We look forward to continue purchasing all of our Linux, Windows, and server based equipment from #Newegg. We expect everything to arrive safely by Tuesday if not sooner.",9,0,0,2020-07-18
+244,2020-07-20 10:26:57+00:00,1285159253670494209,Sentivate,"Another great $SNTVT article by the team over at @DailyChainNews after the community vote win. Make sure to give it a read and give feedback.
+
+#Sentivate Nation
+
+https://t.co/41qgOZeneT",138,14,81,2020-07-20
+248,2020-07-21 03:26:22+00:00,1285415795191959553,Sentivate,QUICK UPDATE: The new server and parts finally arrived today due to shipping delays from #COVID. Thank you @UPS &amp; @Newegg. Expect continued site turbulence &amp; changes across all properties as we shift everything over to new hardware as well as the brand.,28,2,6,2020-07-21
+250,2020-07-22 22:50:45+00:00,1286071209432580096,Sentivate,LET'S GO $BTC $SNTVT $ETH https://t.co/CyoZiCtGty,37,1,7,2020-07-22
+255,2020-07-25 06:50:29+00:00,1286916716237332485,Sentivate,"With the transition to the Universal Web brand, structure, governance, and roadmap fully underway the new servers give us additional capabilities to deploy core UW services with greater control.",36,1,7,2020-07-25
+258,2020-07-28 23:32:07+00:00,1288255947341733888,Sentivate,@StackingUSD 🐙,6,0,0,2020-07-28
+259,2020-08-01 23:38:09+00:00,1289707019142934535,Sentivate,@StackingUSD @ImBrandNewHere https://t.co/KYlDPc79SR,14,1,2,2020-08-01
+261,2020-08-02 16:57:48+00:00,1289968654411538432,Sentivate,@StackingUSD @tommarchi @MattKarasiewicz @JordyManyoma 👀 on the 🐙,15,1,3,2020-08-02
+262,2020-08-03 11:54:56+00:00,1290254823430828037,Sentivate,@PickACrypto https://t.co/WHSSBAhgVC,10,0,1,2020-08-03
+263,2020-08-04 04:40:56+00:00,1290507991729479680,Sentivate,@StackingUSD @CryptoNekoZ 🐙 https://t.co/kTYzDFeH95,10,0,0,2020-08-04
+266,2020-08-06 21:50:20+00:00,1291491827103735809,Sentivate,"TIME TO #TAKEBACKTHEWEB .
+
+$SNTVT NATION 🐙 https://t.co/y1Ej8J8COi",92,1,25,2020-08-06
+270,2020-08-07 22:10:59+00:00,1291859408503353346,Sentivate,"It’s great to see such awareness and appreciation that @BinanceUS has for its users! 
+
+A very professional approach by allowing users to extend the window to cancel their orders by an extra 30 minutes 👏 https://t.co/DQA2EaUEUI",61,5,14,2020-08-07
+271,2020-08-08 01:29:34+00:00,1291909384025579520,Sentivate,"$SNTVT introduces #UDSP to minimize latency.
+
+💻47% of consumers expect a web page to load in 2 seconds or less.
+
+💸If an e-commerce site is making $100,000 per day, a 1 second page delay potentially costs  $2.5 million in lost sales every year.
+
+https://t.co/hMxaPA28B9 https://t.co/7sdBJEoakJ",170,3,76,2020-08-08
+273,2020-08-10 03:28:12+00:00,1292664015295045634,Sentivate,Shoutout to @coingecko for swiftfully correcting our circulating supply! Always a pleasure 🤝 https://t.co/ovaFMt37h4,69,4,9,2020-08-10
+275,2020-08-11 07:13:07+00:00,1293083006740168704,Sentivate,@StackingUSD @UniswapProtocol https://t.co/NgVd2rs0dN,10,1,0,2020-08-11
+277,2020-08-12 02:43:52+00:00,1293377633921765377,Sentivate,TIME TO #TAKEBACKTHEWEB 🖥,165,5,42,2020-08-12
+279,2020-08-13 20:16:30+00:00,1294004928193736709,Sentivate,@TheCryptoDog 👀,41,2,0,2020-08-13
+280,2020-08-14 11:10:31+00:00,1294229912363180032,Sentivate,@scottmelker Morning 👋,10,1,0,2020-08-14
+281,2020-08-17 10:49:47+00:00,1295311859185340417,Sentivate,Happy Monday! 🐙 https://t.co/fIemofPjmL https://t.co/4e0LaOfLI0,28,2,5,2020-08-17
+284,2020-08-18 13:59:19+00:00,1295721943790911496,Sentivate,@StackingUSD @cointradernik $SNTVT https://t.co/DiwtvGoYR8,6,0,1,2020-08-18
+287,2020-08-19 04:36:24+00:00,1295942669374574594,Sentivate,"#Sentivate addresses the following issues directly: the looming bandwidth crisis, outdated protocols, broken DNS, lack of accountability, lack of identity, reactive security, and web categorization. 🐙 
+
+https://t.co/rGoTYpYbUR",123,2,47,2020-08-19
+289,2020-08-20 14:32:07+00:00,1296454974776500225,Sentivate,@Pentosh1 https://t.co/FwZfAkmiin,10,1,0,2020-08-20
+291,2020-08-23 19:48:43+00:00,1297621812365471746,Sentivate,Our tentacles are tickling! We foresee a $SNTVT listing next month 🐙 🙏 https://t.co/AmIEDRhDl7,221,21,69,2020-08-23
+299,2020-08-25 19:43:59+00:00,1298345396968861696,Sentivate,@scottmelker Hi 👋,19,0,0,2020-08-25
+300,2020-08-26 23:36:22+00:00,1298766266086420480,Sentivate,"@LunarCRUSH @SentivateMan @SNTVTSupport @SentivateTurkey @tommarchi @SentivateBull @TheHookie1 @JordyManyoma @LewKnopp @parachutetoken Awesome to see this!
+Thank you @LunarCRUSH 😎",13,1,2,2020-08-26
+301,2020-08-27 04:14:22+00:00,1298836225701433346,Sentivate,"Where should @brockton start? 🐙 
+
+Let’s show the potential of SNTVT and the strength of $SNTVT Nation! https://t.co/63LjPiZlPx",62,5,19,2020-08-27
+303,2020-08-28 20:18:28+00:00,1299441240941957120,Sentivate,"⚡️#UDSP on the $SNTVT network aims to decrease latency 
+
+🐌@Google lost 20% of their traffic for every additional 100 milliseconds it takes for a page to load.
+
+✅@Shopzilla improved site speed from 6 seconds to 1.2 seconds, which increased earnings by 12% and page views. https://t.co/h6Wv9GIG9b",155,58,96,2020-08-28
+305,2020-08-29 19:18:48+00:00,1299788611299282947,Sentivate,@StackingUSD $SNTVT Nation 👀,17,0,0,2020-08-29
+306,2020-08-30 11:37:43+00:00,1300034961739862016,Sentivate,"Hey Sam,
+
+Having internet issues? Slow bandwidth? No worries. 
+
+#Sentivate aims to fix this. Incidents like further prove the necessity of the our hybrid web! $SNTVT 👨‍💻 https://t.co/lpLyXwo1bD",127,6,37,2020-08-30
+309,2020-08-31 16:55:03+00:00,1300477210479022082,Sentivate,"$SNTVT August Roadmap Update 🐙
+
+https://t.co/PPnVUkkFIy",264,68,138,2020-08-31
+310,2020-09-01 20:49:18+00:00,1300898549027287045,Sentivate,@EmiMelker @scottmelker 🤚,2,0,0,2020-09-01
+318,2020-09-02 19:30:54+00:00,1301241208572968961,Sentivate,@SwaggiezShop @scottmelker $SNTVT Nation https://t.co/QSB0GGNHru,6,0,1,2020-09-02
+320,2020-09-03 09:15:53+00:00,1301448822049046528,Sentivate,@neneynimus @StackingUSD @MXC_Exchange $SNTVT Nation 👀,4,1,1,2020-09-03
+324,2020-09-04 01:44:36+00:00,1301697638912462848,Sentivate,@StackingUSD 🥩,6,0,0,2020-09-04
+326,2020-09-07 01:10:19+00:00,1302776177870987267,Sentivate,@StackinVentures 👀,12,1,1,2020-09-07
+329,2020-09-08 21:40:29+00:00,1303448145540587520,Sentivate,@KyleCryptoLand LoL 🐙 https://t.co/CwXBOAl2Sh,2,0,0,2020-09-08
+342,2020-09-09 09:20:32+00:00,1303624317280940032,Sentivate,@StackingUSD @Flopchain_tech 🤗,8,0,0,2020-09-09
+343,2020-09-10 11:46:08+00:00,1304023348058480642,Sentivate,@StackingUSD @ikidonz @neneynimus @ClickbotsT @advone77 @aleihs711 https://t.co/rrhOyF2eZ3,6,2,0,2020-09-10
+344,2020-09-14 04:06:06+00:00,1305357128140554241,Sentivate,@LilMoonLambo @StackingUSD 🔥 🔥,11,0,0,2020-09-14
+346,2020-09-15 20:21:22+00:00,1305964951375433729,Sentivate,@StackinVentures @binance @UTRUST @Polkadot @chainlink @RiveXFoundation @wavesprotocol https://t.co/A3k7FMCZNj,18,1,2,2020-09-15
+347,2020-09-16 11:45:18+00:00,1306197465448828929,Sentivate,"$SNTVT ranked 11 on @LunarCRUSH today!
+
+Quick Recap of September's Roadmap:
+
+- Exchange Listing✅⏲️
+- Continued Marketing Initiatives✅
+- Closed Beta for the upcoming UW launch✅
+- Expansion of partnerships &amp; advisory efforts✅
+ 
+https://t.co/fhKhZh5aeq https://t.co/EzRUrnD99s",145,65,80,2020-09-16
+348,2020-09-17 14:13:20+00:00,1306597107986509824,Sentivate,@BinanceUS 👏 👏,5,0,0,2020-09-17
+349,2020-09-18 16:10:59+00:00,1306989103985106949,Sentivate,@BITCOINTRAPPER @StackingUSD https://t.co/6JcbjEEmcB,8,1,0,2020-09-18
+359,2020-09-19 16:11:33+00:00,1307351634910097418,Sentivate,@StackingUSD Well deserved 👏 https://t.co/uXTShRy4sK,8,0,0,2020-09-19
+360,2020-09-20 23:36:45+00:00,1307826057588940801,Sentivate,"T-Minus 10 Hours until listing! 
+It is time to #TAKEBACKTHEWEB 🥳
+
+$SNTVT Nation 🐙 https://t.co/2bzOA2A3Ad",189,82,91,2020-09-20
+361,2020-09-21 10:39:23+00:00,1307992816866545664,Sentivate,"Sentivate $SNTVT Lists on #KuCoin! 
+Trading Competition &amp; Participation Rewards 👇
+
+https://t.co/VHaxCr1tul",96,26,57,2020-09-21
+365,2020-09-22 14:13:06+00:00,1308408987826692101,Sentivate,@DaanCrypto @StackingUSD Transparency is paramount 🔑 https://t.co/c0pQq4uZaF,5,1,0,2020-09-22
+367,2020-09-23 13:07:11+00:00,1308754787085758466,Sentivate,Don’t forget about the #Sentivate $SNTVT Trading Competition &amp; Participation Rewards on #KuCoin💥 https://t.co/dLFNOgRFCr,62,2,19,2020-09-23
+368,2020-09-27 22:51:45+00:00,1310351451894484993,Sentivate,@MerrillLynch #WomenInvested 👊 👊 https://t.co/Q72yAF5m7J,7,2,1,2020-09-27
+369,2020-09-29 17:00:52+00:00,1310987924943638528,Sentivate,Who’s down for a $SNTVT AMA on Thursday? Raise your hand 🤚,188,60,34,2020-09-29
+373,2020-09-30 20:58:27+00:00,1311410102365294592,Sentivate,"The announcement of Nina Simosko joining the $SNTVT team was issued prematurely in error, and a revised announcement will be released in the near future. We apologize for any confusion and appreciate your patience.",84,18,21,2020-09-30
+374,2020-10-01 18:41:43+00:00,1311738078604787718,Sentivate,@scottmelker https://t.co/wbA0aFSbYy,25,2,1,2020-10-01
+375,2020-10-02 08:34:36+00:00,1311947679543570432,Sentivate,"$SNTVT Nation 🐙
+
+Don’t forget to tune into the 𝐓𝐡𝐞 ₿ 𝐂𝐫𝐞𝐰 AMA with the $SNTVT team at 2PM EST today. Submit your questions!!
+
+👉 https://t.co/e2rJrCsDdj https://t.co/zq07ayefK3",74,7,30,2020-10-02
+377,2020-10-08 07:28:58+00:00,1314105488469037057,Sentivate,"The markets may be down, but we’re still hard at work! $SNTVT Nation https://t.co/vsLwKNsJRq",242,17,52,2020-10-08
+378,2020-10-12 23:23:39+00:00,1315795294014103552,Sentivate,@Barclay39441931 @parachutetoken This #DeFi feature will go live upon the @ParachuteToken (ParJar) team’s implementation of this SLPs and SLMs. The date is tentative — however expect it go launch mid-October to early-November.,5,2,0,2020-10-12
+380,2020-10-13 14:57:22+00:00,1316030274598133761,Sentivate,"$SNTVT Nation 🐙
+
+Stay tuned for more: https://t.co/x0uFxaHhxS
+
+October 2nd AMA with The ₿ Crew
+https://t.co/XNCtpkH11Y",18,1,3,2020-10-13
+383,2020-10-15 12:08:58+00:00,1316712671329366017,Sentivate,"$SNTVT, anyone? 👀 https://t.co/4qovhoDAUD",174,19,27,2020-10-15
+384,2020-10-18 16:55:56+00:00,1317872051257004032,Sentivate,@StackingUSD @MattKarasiewicz https://t.co/yVB5GSWmr5,8,0,2,2020-10-18
+385,2020-10-20 19:01:52+00:00,1318628519971344387,Sentivate,"Did you miss the @Sentivate x @SPECTREGRP AMA today? 
+Don't worry - We have prepared a recap for you! 
+
+https://t.co/2eNuEgz7YT",25,0,5,2020-10-20
+386,2020-10-23 00:24:58+00:00,1319434606068846593,Sentivate,@StackingUSD 👀,26,1,0,2020-10-23
+388,2020-10-24 00:50:12+00:00,1319803342940418048,Sentivate,@horizenglobal 👏,0,0,0,2020-10-24
+389,2020-10-25 21:02:59+00:00,1320470938459275266,Sentivate,@varloop @StackingUSD @CryptoCapo_ 🐙 https://t.co/fDGa2fFyml,2,0,0,2020-10-25
+391,2020-10-26 18:34:25+00:00,1320795937866997760,Sentivate,$SNTVT 😏 https://t.co/On5eIusJVi,104,5,21,2020-10-26
+395,2020-10-27 00:18:12+00:00,1320882453502984200,Sentivate,@CryptoSham @StackingUSD HE IS DISAPPOINTING US 🐙 https://t.co/Bpi6fLvAFw,6,1,2,2020-10-27
+396,2020-10-29 06:17:20+00:00,1321697608591675393,Sentivate,@TheDaoMaker @LunarCRUSH @RsrFren @rsrwhale @DonnieBigBags @bitcoin_brown @Brad_Laurie @Sjaaaakster @MRPHSupplyChain @WeAreTellor @oceanprotocol $SNTVT Nation 🐙,2,0,0,2020-10-29
+398,2020-10-31 19:52:45+00:00,1322627591753269249,Sentivate,"Check out @Hashoshi4's interview with Sentivate Lead Dev, @TomMarchi, as they dive into what $SNTVT is and how we plan to change the web as we know it today.
+
+https://t.co/HlPttyz78r https://t.co/TtLq6mZtLG",65,1,18,2020-10-31
+399,2020-11-02 10:30:54+00:00,1323210971402428417,Sentivate,@CryptoVanessa @esatoshiclub https://t.co/wECjcfnXKF,5,1,0,2020-11-02
+400,2020-11-06 16:31:07+00:00,1324751176164888576,Sentivate,"Guess who's new on @CoinGecko 👀
+
+https://t.co/38icCnAM2u",121,9,14,2020-11-06
+402,2020-11-12 05:31:20+00:00,1326759463953502208,Sentivate,"@StackingUSD @LewKnopp Thank you @LewKnopp 🇺🇸 
+
+#Veteran 🐸 https://t.co/PIZXxpeyWs",4,0,1,2020-11-12
+403,2020-11-19 18:09:04+00:00,1329486866492616704,Sentivate,"No need to worry: $SNTVT Farming Pools were unaffected by the recent flash loan hack on VALUE. 
+
+All funds are #SAFU. https://t.co/zDs3Hn2NgD",89,8,16,2020-11-19
+405,2020-12-04 06:10:08+00:00,1334741759964884993,Sentivate,"We hope to see you along side us on our journey to build the only truly viably replacement for the World Wide Web. The Universal Web, the Web reimagined.",39,1,2,2020-12-04
+425,2020-12-05 14:04:29+00:00,1335223523745419265,Sentivate,Soft Launch is at the precipice of the new year. We hope to see you all there.,34,0,1,2020-12-05
+426,2020-12-13 18:07:22+00:00,1338183749339648004,Sentivate,UW Government on boarding starting from top down. In the UW we have only one party. The party of many. The party of the individual. We vote only on policy and merit. This is the beginning of the #UWR. The most important part of the system is the people. https://t.co/TTdMTTM2Gl,61,3,13,2020-12-13
+430,2020-12-16 21:48:46+00:00,1339326629605158913,Sentivate,$SNTVT 👀 https://t.co/7Ld6TRBiSQ,43,1,8,2020-12-16
+431,2020-12-17 13:56:54+00:00,1339570266876350464,Sentivate,$SNTVT https://t.co/PB7PtwEgSK,55,1,8,2020-12-17
+432,2020-12-22 03:15:13+00:00,1341220722677592064,Sentivate,"@SecretGuestNYC ""10% of tokens staked during the stated period will be unlocked immediately for claiming. The other 90% tokens will be unlocked after 2 months, then unlocked linearly every block for 10 days."" in reference to the current pools.",3,3,1,2020-12-22
+434,2020-12-24 14:30:32+00:00,1342115447043403777,Sentivate,Many new White Paper changes keep up to date with the role out of updates here https://t.co/yfta4huDi2 with the commit history changes here https://t.co/rXZod7BuZp,46,3,11,2020-12-24
+439,2020-12-30 20:38:52+00:00,1344382470318338048,Sentivate,"All house applicants have been enabled. The next step is to input your wallet addrs on your profile page, hit save. If you have signed up you have been enabled. Last step to go before you are given access. Each #SNTVT represents a  vote which means certain members have more say.",59,2,12,2020-12-30
+440,2021-01-01 04:47:55+00:00,1344867930245357568,Sentivate,"2020 is coming to an end! 
+
+$SNTVT has had an amazing year in organic growth
+
+Year in Review:
+Universal Web Soft-Launch on NYE 🚀
+$500,000+ consistently in TVL 💰 
+5500+ Holders 🫂",125,2,25,2021-01-01
+446,2021-01-07 05:34:43+00:00,1347054034147024898,Sentivate,Evolution by Choice... The Universal Web is HERE &amp; NOW $SNTVT https://t.co/K2zlXD8SNg,102,3,28,2021-01-07
+448,2021-01-08 05:36:06+00:00,1347416770764800000,Sentivate,"$SNTVT Nation let us hear your voice! 
+https://t.co/OtKwwO119i",41,1,8,2021-01-08
+449,2021-01-09 01:37:13+00:00,1347719039674679297,Sentivate,@BTC_Misogyny Sir please web protocols and websites are completely different... The website serves as an information and introductory lander for the project. Please join our community and ask real questions as we would love to educate you.,2,0,1,2021-01-09
+450,2021-01-10 22:12:35+00:00,1348392317523263496,Sentivate,"We are the Young David to the Centralized Powers Goliath. 
+
+We all know how that ended. Swing by for a chat with @tommarchi to stretch your horizons. https://t.co/DHVEsSHK63",67,3,19,2021-01-10
+451,2021-01-12 04:52:01+00:00,1348855229526192134,Sentivate,"Like I didn't study the game to the letter
+And understand that I'm not doin' it the same
+Man, I'm doing it better $SNTVT 😎 https://t.co/YJWSc3ofGX",56,0,13,2021-01-12
+452,2021-01-14 14:33:22+00:00,1349726304346791937,Sentivate,Links within the repo will be migrated over as well.,12,0,0,2021-01-14
+454,2021-01-15 17:17:35+00:00,1350130020229009411,Sentivate,@37M4C Our initial supply on $ETH for $wVIAT will be capped at 4.2MM expecting a good majority of supply to be locked up in the UWR Fund/Team Allocation/LP Pools.,26,0,4,2021-01-15
+455,2021-01-16 17:18:47+00:00,1350492707773362184,Sentivate,"The new  ETH dApp tool for Vote, Proposal, and manual submission is located at https://t.co/hhwQOPKGRS Make sure to have enough ETH in your wallet and to input the Gas price when a request is made.",33,2,8,2021-01-16
+457,2021-01-18 14:57:51+00:00,1351182019905146881,Sentivate,All Proposals must be submitted here https://t.co/BcG7hAFqj4 instead of the issues section. The Vote GUI has been updated to reflect this change. All previous proposals which were put in issues have been closed. You must manually move your proposals to discussions. #SNTVT,22,0,7,2021-01-18
+458,2021-01-22 00:51:15+00:00,1352418517249830912,Sentivate,"Our first set of governance proposals are up for voting! Voting will conclude in 7 days since the introduction of each proposal! 
+
+VOTE HERE: https://t.co/hhwQOPKGRS",33,0,7,2021-01-22
+459,2021-01-24 08:25:04+00:00,1353257496111177730,Sentivate,Make sure to navigate to the new repos the old ones will 404. Everything has moved to out new Github Organization page. Github orgs are used when expanding to community lead open source based projects. https://t.co/ikZpdtGzuy,36,0,4,2021-01-24
+460,2021-01-28 21:28:13+00:00,1354904134340784129,Sentivate,TICK TICK TICK 💣 $SNTVT https://t.co/I72InZ9IZW,82,1,29,2021-01-28
+465,2021-01-29 01:20:07+00:00,1354962494868115458,Sentivate,"Due to the governance community vote:
+
+We will be announcing the closing of the $SNTVT $wBTC and $USDC Pools over at https://t.co/2GLs6wjF3p on February 1st, 2021 at Noon EST
+
+The DAI pool will receive the leftover rewards from these two pools.",61,6,17,2021-01-29
+477,2021-01-30 18:59:46+00:00,1355591551829815302,Sentivate,@miakhalifa TIME TO MAKE IT ALL BACK $SNTVT @Sentivate https://t.co/uwTTo0dUHi,22,2,2,2021-01-30
+484,2021-02-02 15:58:03+00:00,1356632985907437572,Sentivate,We must protect the Mirror World from tyranny and censorship $SNTVT https://t.co/kdqfjHUCSX,44,2,6,2021-02-02
+485,2021-02-04 14:44:27+00:00,1357339241387225088,Sentivate,Organic growth is the only viable strategy $SNTVT https://t.co/aNlXfVEE7K,90,5,18,2021-02-04
+490,2021-02-06 08:07:58+00:00,1357964235070963715,Sentivate,Couldn't agree more $SNTVT https://t.co/uoLrNFHWkH,52,1,9,2021-02-06
+501,2021-02-07 01:41:53+00:00,1358229463457296385,Sentivate,"@naval Let's talk sometime w/ @tommarchi &amp; @ninasimosko  👋
+https://t.co/sCMIlpxuM8",28,3,3,2021-02-07
+502,2021-02-12 20:10:13+00:00,1360320324651384835,Sentivate,@GatehouseLeon @value_defi You need to provide 98% of the liquidity in $SNTVT and 2% in $DAI,8,3,0,2021-02-12
+503,2021-02-13 20:17:24+00:00,1360684519616110595,Sentivate,"Our last AMA from November 2, 2020. 
+
+New AMAs around the corner coming up! $SNTVT x $VALUE
+https://t.co/PJo24O0jiR",69,0,19,2021-02-13
+504,2021-02-15 14:21:21+00:00,1361319694171598850,Sentivate,"@SecretGuestNYC Good catch, fixed to the updated link!",4,0,0,2021-02-15
+507,2021-02-19 15:58:20+00:00,1362793649273200641,Sentivate,@Lonhwick @ninasimosko @tommarchi It's on the way 🌉,15,0,1,2021-02-19
+508,2021-02-27 18:03:29+00:00,1365724249877544960,Sentivate,"The key to strategy... is not to choose a path to victory, but to choose so that all paths lead to a victory. https://t.co/3PxQYXPrcb",33,3,3,2021-02-27
+509,2021-02-28 01:50:10+00:00,1365841694097350659,Sentivate,@QwQiao 👋 still here sir $SNTVT,7,0,0,2021-02-28
+510,2021-03-01 00:14:46+00:00,1366180074953842692,Sentivate,Decentralization if not properly managed and balanced will always succumb to centralization of power. The only way decentralization can survive &amp; grow is within a properly balanced hybrid system. Else it will always fall to a power vacuum.,66,3,15,2021-03-01
+514,2021-03-03 10:00:11+00:00,1367052174790975488,Sentivate,TELEGRAM UPDATE: We are working on a new Telegram bot to cut down on spam and add lots of new community features and commands. The new bot went live today. Make sure to report any bugs or if certain links or features are wanted.,36,6,6,2021-03-03
+516,2021-03-05 21:33:00+00:00,1367951302278397954,Sentivate,One of our community artists has made his collection public! $SNTVT #NFTs  https://t.co/Zmo0qoEziC,68,2,16,2021-03-05
+518,2021-03-08 23:28:08+00:00,1369067440035004421,Sentivate,🚀🌚 $SNTVT https://t.co/bshpqTwGSf,87,0,17,2021-03-08
+519,2021-03-10 18:10:19+00:00,1369712234411290627,Sentivate,"Our new home is on https://t.co/a7Gws1ab6x and our next steps for the way forward you can read here https://t.co/Y7sgPRdmnE 
+This is the beginning of the Universal Web &amp; the next stage for Sentivate the team behind it.",90,2,25,2021-03-10
+521,2021-03-13 19:15:37+00:00,1370815832138387465,Sentivate,@sazzam31 @Paddy_Stash https://t.co/vdyExA75Pa,0,1,0,2021-03-13
+536,2021-03-14 00:41:20+00:00,1370897801840889860,Sentivate,"@SWannabe2020 @value_defi No one ever claimed the pool was risk-free, but it is close to zero IL 
+
+View 98/2 Pool
+https://t.co/R0bgeOqS6T",0,1,0,2021-03-14
+539,2021-03-15 18:36:32+00:00,1371530771115167747,Sentivate,"@PancakeSwap @CreamdotFinance Hello friends, reach out when you have time, we are here to help! $SNTVT
+https://t.co/ZD5VbtmqtD",15,0,3,2021-03-15
+549,2021-03-16 18:18:23+00:00,1371888591320797185,Sentivate,"The possibility of these attacks are very real and something that must be addressed before it's too late $SNTVT
+
+The clock is always ticking.
+https://t.co/GySXOwwtOT",22,0,6,2021-03-16
+555,2021-03-19 16:20:59+00:00,1372946211414626305,Sentivate,"Who can tell us what state we are registered in? 
+
+Patience friends, play the long game with us.
+
+VIAT DAO 🔜 $SNTVT 
+https://t.co/7yE0kJeOSp",173,7,45,2021-03-19
+557,2021-03-23 04:27:51+00:00,1374216298176118785,Sentivate,WHAT DOES SHE KNOW!? 🚀🌝 $SNTVT https://t.co/gD9OddVNDJ,183,6,52,2021-03-23
+558,2021-03-27 07:02:49+00:00,1375704845114613760,Sentivate,Let's imagine $SNTVT https://t.co/gsNjdH1nib,116,2,23,2021-03-27
+559,2021-03-29 03:23:31+00:00,1376374435352080385,Sentivate,"@RugsTheBugs @value_defi Yes, that is correct.",1,0,0,2021-03-29
+574,2021-03-30 03:27:51+00:00,1376737910599393280,Sentivate,@CryptoMind11 @ThinkDiffG @TrustWalletApp TrustWallet can be imported on MetaMask,1,2,0,2021-03-30
+575,2021-03-31 17:02:21+00:00,1377305273954631682,Sentivate,"The world's best kept secret 🤫 $SNTVT 
+https://t.co/gfxyJRixDO",166,8,62,2021-03-31
+576,2021-04-01 00:13:01+00:00,1377413658687459330,Sentivate,"things are happening NOW that have yet to be converted into the information type known as words 
+
+$SNTVT https://t.co/cUTC3nJxpf",216,10,48,2021-04-01
+577,2021-04-02 07:16:18+00:00,1377882567051972609,Sentivate,👀 $SNTVT https://t.co/fTt21hyxBn,112,3,26,2021-04-02
+580,2021-04-03 12:04:50+00:00,1378317565081042946,Sentivate,📜 Scammers No Scamming 📜 $SNTVT https://t.co/TmE4EZcB9R https://t.co/4V3ciUzC2C,44,2,8,2021-04-03
+585,2021-04-04 00:50:39+00:00,1378510289944084481,Sentivate,📜👀 $SNTVT $ETH #BSC https://t.co/Cidn7WdSDW,73,1,25,2021-04-04
+586,2021-04-06 17:58:27+00:00,1379493722354765825,Sentivate,"First slowly... then all at once... 🌊🐙🐙🐙 $SNTVT
+https://t.co/0fluHb5cWc",154,3,62,2021-04-06
+588,2021-04-23 01:57:11+00:00,1385412405564518401,Sentivate,$SNTVT 🔜 https://t.co/j3QMA7KNcT https://t.co/Ov4IMyWlqu,61,3,15,2021-04-23
+589,2021-04-24 20:37:30+00:00,1386056729641639936,Sentivate,Few Understand https://t.co/42HhJS7t0S,100,9,27,2021-04-24
+591,2021-05-01 21:31:48+00:00,1388607110213246976,Sentivate,"We're Ethics + Intelligence + Willpower over here at $SNTVT
+
+https://t.co/cQsTJFGK8p",100,4,20,2021-05-01
+592,2021-05-10 14:21:47+00:00,1391760383384465410,Sentivate,The world's best kept secret 🤫 $SNTVT https://t.co/HdeuiUzu9z,189,15,52,2021-05-10
+593,2021-05-28 06:09:02+00:00,1398159357783810049,Sentivate,@paoloardoino 👋,13,0,0,2021-05-28
+594,2021-05-30 15:04:40+00:00,1399018930694365186,Sentivate,"🚨 ALERT 🚨
+
+THE UWOS (Universal Web Operating System) is OUT now! 
+
+Get your hands dirty with it and let us know what you think! $SNTVT
+
+https://t.co/0Ut92QJz2a
+
+https://t.co/42TO8Rm64x",167,10,60,2021-05-30
+596,2021-05-31 01:25:44+00:00,1399175230287978498,Sentivate,https://t.co/0Ut92R1aqK Try out our UWOS @gnome based Desktop on existing installs for the latest @ubuntu 21.04. Make sure to follow the instructions in the readme. This is for trying out and applying to existing Ubuntu installs only.,60,1,20,2021-05-31
+597,2021-06-24 18:45:33+00:00,1408134216097824770,Sentivate,@learnandshare7 @SNTVTSupport Feel free to DM us here with any questions.,2,0,0,2021-06-24
+602,2021-06-28 16:01:57+00:00,1409542596867678210,Sentivate,"A great high level interview on everything $SNTVT as well as our plans on how to continue to improve. Thank you @StackinVentures @StackingUSD for the interview!
+
+https://t.co/huGQfhpvXx",107,0,33,2021-06-28
+603,2021-06-30 15:44:11+00:00,1410262901764419584,Sentivate,"https://t.co/ZVzZfnHXhS | @AkernaCorp 
+
+We welcome our new client and partner to the $SNTVT family! We will be providing custom UW blockchain solutions into the Akerna ecosystem &amp; much more. Here’s to a bountfiul relationship for the years to come. 
+
+Cheers! 🤝 https://t.co/QsIuCVy5lg",196,11,66,2021-06-30
+604,2021-07-01 11:33:49+00:00,1410562282267029507,Sentivate,Repost: Correction issued from previous tweet. More announcements set for today.,25,2,4,2021-07-01
+606,2021-07-02 02:31:54+00:00,1410788290115026944,Sentivate,Video coming soon &amp; will be put up on UW youtube profile stay tuned for more links. The audio will be finding its new official platform of choice and will be posted here. All episodes will be backed up to the above Soundcloud profile along with older recordings.,54,2,4,2021-07-02
+608,2021-07-04 05:38:17+00:00,1411559971351928832,Sentivate,Welcome @chagit360 https://t.co/JwTLX1Fksr to the UW family as a new client and partner. As well as one of the Chagit founders Prema Ball to the UW Executive branch. Here’s to new adventures in custom solutions using Universal Web tech. https://t.co/QAJ6tSOLdJ,79,4,16,2021-07-04
+611,2021-07-09 06:44:27+00:00,1413388564793106433,Sentivate,TEAM UPDATE: Our new community manager &amp; writer has been chosen @TannerHSutton. At first he’ll be going through an introductory phase where he’ll be learning &amp; observing all things Universal Web &amp; its community. Then it’s lift off as he becomes an active member of the Core Team.,88,9,16,2021-07-09
+614,2021-07-28 09:14:50+00:00,1420311776877596673,Sentivate,If you have @ubuntu #linux feel free to explore this early Desktop Environment Config focused on UW Developers.,30,1,6,2021-07-28
+617,2021-07-30 18:46:09+00:00,1421180331177222150,Sentivate,"CODE UPDATE: The alpha #uwBridge codebase has been pushed to the Network repo. It will be developed alongside the entire network and get first-class treatment. This creates a bridge between the #UniversalWeb and the  #WorldWideWeb. $SNTVT
+
+https://t.co/AiPzfzlkPW",89,4,26,2021-07-30
+621,2021-08-02 10:30:03+00:00,1422142643925045253,Sentivate,We are processing new dev interns. If you're interested please email the lead developer here tom@universalweb.io - we are essentially automatically accepting all NodeJS devs with a few years of experience. #Intern can be #paid or experience-based depending on skill level.,100,7,24,2021-08-02
+623,2021-09-04 22:08:40+00:00,1434277258114502656,Sentivate,"@tommarchi Q&amp;A start posting questions at 6 &amp; at 6:30 EST the answer part begins. Use the 30 minute period to put together your best questions and let the room fill up.
+
+https://t.co/STeUXNrFX0",59,5,16,2021-09-04
+624,2021-09-28 09:20:18+00:00,1442781199399804935,Sentivate,These mini ARM based miners will be the backbone for #VIAT &amp; the #UniversalWeb when it comes to the decentralized aspects of the networks.,32,4,1,2021-09-28
+628,2021-10-22 17:34:43+00:00,1451602934488256513,Sentivate,Relocation update. #SNTVT Setup ETA end of next week. https://t.co/xl7JMCbb8R,74,16,15,2021-10-22
+629,2021-12-07 22:21:07+00:00,1468344850785443850,Sentivate,The Sentivate team will be releasing updates starting this week. It’s the month of gifts and we plan to keep giving.,310,78,84,2021-12-07
+630,2021-12-15 01:04:38+00:00,1470922716068913152,Sentivate,UPDATE: We’re releasing wrapped Viat! SNTVT holders will get a portion of wVIAT at a certain block height. In order to lower the costs of the swap &amp; gift holders this Holiday season. Holders will be gifted wVIAT in a specific ratio to the amount of SNTVT in their wallet.,236,38,57,2021-12-15
+635,2022-04-04 16:28:59+00:00,1511018001771999247,Sentivate,@PindaTomm @MetaMaskSupport 🤖🤖🤖🤖🤖,2,0,0,2022-04-04
+639,2022-04-05 01:09:36+00:00,1511149018373672967,Sentivate,Instructions for how to participate in our #bVIAT event has been posted in our discord server and can be found here: https://t.co/SJYDmKchme,43,21,12,2022-04-05
+640,2022-04-09 19:46:54+00:00,1512879749827285003,Sentivate,"@deanhowell29 We're sorry that life is hard, but we ask that you sign your wallet using your private key with a message containing the option you've picked in order to prove ownership if you'd like to participate.",12,5,0,2022-04-09
+643,2022-04-24 00:43:48+00:00,1518027895771443201,Sentivate,and we encourage the feedback from each of you. Submissions to the discord and email have been kept on record and there is no need to enter a new submission if you have already done so.,17,2,3,2022-04-24
+647,2022-04-30 15:35:39+00:00,1520426662889984003,Sentivate,"With our swap event's submissions all in, it's all hands on deck! 🐙 $VIAT $SNTVT $bVIAT https://t.co/lDL4btKO8P",74,24,21,2022-04-30

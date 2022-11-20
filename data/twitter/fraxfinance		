@@ -1,0 +1,355 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-08-04 12:59:06+00:00,1290633360688197632,fraxfinance,"https://t.co/eAdl3q59h9
+
+It’s happening👾",9,0,2,2020-08-04
+1,2020-08-15 20:45:16+00:00,1294736940021870593,fraxfinance,"@defiprime https://t.co/3CA2AkItzo check it out, it’s a hybrid collateralized and algorithmic stablecoin that transitions from 100% collateralized to fully algorithmic if the price of the stablecoin remains constant. Fully onchain and decentralized!",4,0,1,2020-08-15
+2,2020-08-20 21:13:32+00:00,1296555992109391873,fraxfinance,"@kaiynne Our https://t.co/cADe5Rtacn implementation is a better version of basis. It’s fractional-algorithmic meaning it starts off 100% collateralized at genesis then slowly transitions to a fully algorithmic stablecoin all onchain. Simpler too, just coin and shares design, no bonds!",2,1,0,2020-08-20
+4,2020-08-22 20:31:49+00:00,1297270270755926016,fraxfinance,"@spencernoon We’re heavily considering using $yUSD for our first collateral for Frax, our hybrid-algorithmic stablecoin @CurveFinance 💪",2,0,0,2020-08-22
+5,2020-08-24 04:33:33+00:00,1297753891996446723,fraxfinance,@VitalikButerin We’re thinking about these principles in our hybrid-seigniorage shares implementation stablecoin design as well! What do you think about both stablecoin holders as well as share token holders being able to vote in governance?,2,0,0,2020-08-24
+6,2020-08-28 10:34:16+00:00,1299294219069042688,fraxfinance,Catch our CEO @samkazemian on a DeFi panel at Beijing’s Open Finance Conference today! 🙌 https://t.co/f6sUvNAiUt,10,0,5,2020-08-28
+7,2020-08-30 04:16:40+00:00,1299923969525522432,fraxfinance,@VitalikButerin @Disruptepreneur Agreed about DeFi stablecoins! Especially (fractional) algorithmic implementations ;),2,0,0,2020-08-30
+8,2020-09-01 00:45:49+00:00,1300595683284533254,fraxfinance,"@defiprime The defi stablecoin wars have begun, many fiat backed coins, many algorithmic coins, but so far only 1 fractional-algorithmic coin 👀 #frax",2,1,1,2020-09-01
+9,2020-09-08 20:22:36+00:00,1303428543859191808,fraxfinance,"If only Maker had the advantages of an algorithmic stablecoin to stabilize the peg, it would be easy, but they don’t. Frax has both algorithmic stability features and collateralized functionality. 👌 https://t.co/1mI5aY3dac",6,0,1,2020-09-08
+10,2020-09-10 06:23:46+00:00,1303942222480420864,fraxfinance,"@lawmaster @Decentralizd Hey Larry, you should include Frax in your 50 page stablecoin report! We’re the first fractional-algorithmic stablecoin project launching soon on ETH! DMs open 👍",0,2,0,2020-09-10
+12,2020-09-11 23:20:26+00:00,1304560464672686080,fraxfinance,"While we, at Frax, obviously believe fully decentralized stablecoins are superior in trust-assumptions to fiat-backed ones, @Tether_to deserves high praise here for recovering $1m of USDT sent to a wrong address by a user. 👏 Good work Paolo! https://t.co/FlbWZpcWkf",11,0,1,2020-09-11
+16,2020-09-17 01:26:06+00:00,1306404027370844160,fraxfinance,"@coinbase Hey Coinbase, we’re building the world’s first fractional-algorithmic stablecoin at https://t.co/cADe5Rtacn. And we’re using USDC as part of the collateral pool, you should check it out when we launch! 🚀",8,1,1,2020-09-17
+17,2020-09-24 00:27:44+00:00,1308926055365799936,fraxfinance,Agreed 100% about stablecoins being the “future of payments &amp; value transfer.” And algo stablecoins like $FRAX will be bigger than any current stablecoins. The next few months will be huge for the defi stablecoin space! 🤫 https://t.co/hYu71nNxlw,7,0,3,2020-09-24
+18,2020-09-25 20:03:30+00:00,1309584334240624640,fraxfinance,Frax will replace it just wait 😎 💸 https://t.co/us9ASveTAt,3,1,1,2020-09-25
+22,2020-09-27 02:39:40+00:00,1310046417814081537,fraxfinance,"@hosseeb @KyleSamani @tarunchitra Don’t force lockups on LPs. Let them decide how long they lock for a boost multiplier! Free market at play. This is the novel mechanics we’re launching our hybrid algorithmic stablecoin, Frax. Screenshot provided of beta staking interface. I think @lawmaster would approve. https://t.co/egFk6o3aZH",4,0,1,2020-09-27
+23,2020-09-28 07:03:25+00:00,1310475183321354240,fraxfinance,@davesaidthat_ @DeFiGod1 Coming to a mainnet near you in October 😎,2,0,0,2020-09-28
+24,2020-10-02 06:49:10+00:00,1311921146506489856,fraxfinance,"@twoseedwords @spencernoon Trustless on-ramp you say, why hello there 😏 💸",1,0,0,2020-10-02
+25,2020-10-10 22:00:44+00:00,1315049653373599745,fraxfinance,"@cburniske @DHannum8 @arjunblj Algo based stablecoins will come to the rescue (like us) to provide new trust models/no custodial risk, as well as faster scalability mechanisms than Dai’s token voting/collateral process.",2,1,0,2020-10-10
+27,2020-10-12 11:27:06+00:00,1315614971267444736,fraxfinance,@SamuelShadrach4 @calchulus @bantg It’s not debt based. Frax starts 100% collateralized with Dai (or stablecoins) then the collateral ratio goes under 100% and is backed by share tokens. You should read our WP if it sounds interesting to you https://t.co/34o9xVR48t,0,0,0,2020-10-12
+29,2020-10-30 01:08:00+00:00,1321982148912377861,fraxfinance,@ameensol Does PRAI have bug/game theory bounties? We’d love to run some tests on it at Frax. We’re also launching our testnet soon. Let’s do joint community testing 🤝😎,1,1,0,2020-10-30
+30,2020-11-02 08:04:13+00:00,1323174057982844931,fraxfinance,Final whitepaper and smart contract docs are officially up! GitHub code freeze complete. Moon soon 🚀 https://t.co/6KA9bP8rKW,14,1,7,2020-11-02
+31,2020-11-03 00:28:03+00:00,1323421647018225664,fraxfinance,"@jasonhuan_ @davidmarcus Check out the whitepaper here David! We’re launching on ETH soon. No other stablecoin like it, maybe @Libra_ can get some ideas from Frax! https://t.co/2rjU6l3IwH",2,0,0,2020-11-03
+32,2020-11-06 19:59:47+00:00,1324803689723297793,fraxfinance,"@davidmarcus @brian_armstrong No, we’re on it 😏 $FRAX",0,1,0,2020-11-06
+33,2020-11-07 00:36:25+00:00,1324873306063794179,fraxfinance,This is the right answer and why we built on $ETH. Algorithmic stablecoins like $FRAX will likely have higher mcap than $ETH itself long term and be issued on many chains while the “heartbeat” monetary policy contracts for minting/redeeming/gov will live on ETH. 💸 https://t.co/r3eDthIfeh,13,0,4,2020-11-07
+34,2020-11-10 17:52:07+00:00,1326221112917700608,fraxfinance,@Cryptokoolaid3 @uniswap_calls @CryptoGrills @ZTdtt It is indeed quite small compared to all VC projects. The vesting is onchain and transparent. Majority of FXS tokens go to community through farming and governance funds. The whole point of a small raise is to get a large amount of people into a canonical distribution of tokens.,2,1,0,2020-11-10
+35,2020-11-16 22:26:01+00:00,1328464365847121920,fraxfinance,"There’s also going to be a 3rd standard, algorithmic stability led by $FRAX it will just take a while for the non-early adopters to see it 👀 https://t.co/dxEPTp2DHE",13,0,2,2020-11-16
+38,2020-11-17 05:47:21+00:00,1328575431973408769,fraxfinance,@atvanguard @akropolisio How about a bug bounty incentivized testnet? We just launched Frax’s Ropsten testnet implementation https://t.co/xx57lgeeIA with big bounties for protocol level vulns that drain/kill/brick the system. We engage the community and provide incentive for responsible disclosure. 💯,3,0,0,2020-11-17
+39,2020-11-20 01:53:39+00:00,1329603784297783297,fraxfinance,"@VitalikButerin @danrobinson Exactly. There needs to be a 1559-style burn for protocol value capture somewhere. This is why in our hybrid-algorithmic design stablecoin, the portion of a stablecoin that’s unbacked is sold for the seignorage-gov token and burned. More protocols need to do this.",5,0,0,2020-11-20
+41,2020-11-24 10:09:25+00:00,1331178098004377603,fraxfinance,@SBF_Alameda Pretty soon it’ll be $FRAX since all stablecoins minted burn the governance $FXS token proportional to seigniorage revenue 😏 inb4 $100m in revenue 1st year. Just wait for our launch soon 🚀,12,0,0,2020-11-24
+42,2020-11-25 08:12:05+00:00,1331510959140061185,fraxfinance,"Yep we totally agree Andrew and $FRAX will be the first algorithmic stablecoin to reach $1B+ mcap before any other, just wait and see as we launch soon 😎 https://t.co/Bddp3fzuyo",30,0,4,2020-11-25
+44,2020-11-27 22:51:10+00:00,1332456962617798656,fraxfinance,"Lot of talk about oracles so we wanted to describe Frax's design: Chainlink for ETH-USD as the ""source of truth"", then we use that price to get the USD prices of Uniswap TWAP pairs. This makes the best use of @Chainlink's security + any TWAP pair. Isn't that right @ChainLinkGod😏",115,4,8,2020-11-27
+45,2020-11-28 02:41:40+00:00,1332514968382570496,fraxfinance,@nullpackets @scott_lew_is Frax = the 🐸 algo stablecoin 😏 @ChainLinkGod,3,0,0,2020-11-28
+48,2020-11-30 20:58:02+00:00,1333515655052623872,fraxfinance,Go ahead Andrew you can say our name when talking about “better algo stablecoins out there.” We get the reference 😉 https://t.co/0CZgejP8ty,14,0,1,2020-11-30
+51,2020-12-11 12:27:52+00:00,1337373533869985793,fraxfinance,@hasufl @DeribitExchange @benjaminsimon97 Nice to see our fractional-algorithmic mechanism be grouped in its own unique stablecoin category in the research paper 🙌 We’re going to bring this novel idea to mainnet soon! 🚀 $FRAX,12,0,1,2020-12-11
+52,2020-12-13 09:31:50+00:00,1338054011765682176,fraxfinance,$FRAX $FXS Unicoin soon 😏 https://t.co/ykkPRakwP9,23,0,4,2020-12-13
+53,2020-12-14 05:09:56+00:00,1338350490556350464,fraxfinance,@MessariCrypto estimates total stablecoin market cap to be ~$75B in 2021! $FRAX being just 1.3% of that is unicorn status 🦄 Too easy! 2021’s the year of the algo stablecoin 🚀 https://t.co/ir1aYkAQ6k,4,0,1,2020-12-14
+54,2020-12-16 13:10:48+00:00,1339196278706556934,fraxfinance,"@ErikVoorhees Read this: https://t.co/2rjU6l3IwH 
+
+Then check this out: https://t.co/vQXFv9e6bb
+
+There are many interesting lessons from this, and perhaps a hint of the future is playing out in front of us 
+
+#Decentralization #OpenSource #FRAX #Antifragile #crypto",5,1,0,2020-12-16
+55,2020-12-17 04:09:51+00:00,1339422530092716034,fraxfinance,Just wait a few more days 🤫 you’ll see what mooning really looks like 😏 $FRAX $FXS https://t.co/HFl4z11nLQ,18,2,1,2020-12-17
+58,2020-12-19 12:34:04+00:00,1340274196333543424,fraxfinance,"What do you call an elastic fractional-algorithmic stablecoin? 
+
+$FRAX 👌 https://t.co/RmgCVy0c5w",11,1,2,2020-12-19
+59,2020-12-20 23:40:20+00:00,1340804258745131008,fraxfinance,"Safety first everyone! Get covered then hit the farming fields! 🌽 👨‍🌾 As always, never farm with more than you can afford to lose, unless you’re covered! https://t.co/Zufa3ObzuZ",24,3,2,2020-12-20
+65,2020-12-24 05:58:58+00:00,1341986706082332672,fraxfinance,Best design yes 🥳 over collateralized no 🙅🏻‍♂️ more like fractional-algorithmic 💸 https://t.co/4bSaEQM5Aw,9,0,1,2020-12-24
+67,2020-12-25 00:00:46+00:00,1342258951472082944,fraxfinance,Anotha one! https://t.co/7hP54Vq94H,12,0,1,2020-12-25
+71,2020-12-27 04:58:49+00:00,1343058735183237120,fraxfinance,Our FRAX-FXS pool is yielding 1000%+ APY right now for farmers!! 👨‍🌾 https://t.co/EVwm4rOpkx Are you on the Frax Farms earning $FXS? Join us! And always remember to stay safe and grab $FRAX coverage with @CoverProtocol. Farming and yield has never been so juicy &amp; responsible 🚀,33,0,5,2020-12-27
+72,2020-12-30 15:52:22+00:00,1344310366885400576,fraxfinance,@tbr90 @scupytrooples @synthetix_io “Implement a treasury that builds up a collateral to auto-buy up the asset when the peg is below $1” is just a really long way of saying $FRAX 😂 The mechanism you’re looking for is called fractional-algorithmic.,10,2,0,2020-12-30
+74,2020-12-31 03:47:37+00:00,1344490364812423168,fraxfinance,Thanks for your support Santiago! We’re honored to have you in the community. Big brain DeFi is starting to see $FRAX as the answer 🚀 https://t.co/0pJcwMpIqg,10,0,1,2020-12-31
+75,2021-01-05 00:12:32+00:00,1346248177276448768,fraxfinance,@mexcoolio @jerallaire @USOCC @compoundfinance The likely answer is yes 🚀,2,0,0,2021-01-05
+76,2021-01-07 19:44:41+00:00,1347267937074233345,fraxfinance,Check out the inside story of Frax’s creation from Sam’s former colleague and VP of @Everipedia 👇Dave explains the history behind the team’s early experiments with algo coins dating back to 2018! https://t.co/K9ycbRvrgE,15,0,8,2021-01-07
+77,2021-01-09 12:18:55+00:00,1347880531434774530,fraxfinance,"$FRAX is officially on the @SushiSwap Onsen menu! The pair &amp; start time details will be announced soon. We’re proud to support community driven protocols like Sushi. Special shoutout and thanks to @0xMaki ❤️ 
+
+Get ready to earn delicious $SUSHI &amp; $FXS combined yield!
+
+Send it! https://t.co/f9K1POvpKO",88,5,17,2021-01-09
+79,2021-01-10 04:26:25+00:00,1348124007736827904,fraxfinance,The alpha leak we’ve all been waiting for.. https://t.co/ft5Q7CKbrX,26,0,3,2021-01-10
+80,2021-01-11 05:50:43+00:00,1348507613487460353,fraxfinance,We’re holding up quite well during the first big crypto retrace of 2021! Rock solid at $1 with a collateral ratio in the 80s. How’s that for fractional-algorithmic stability! https://t.co/3ylEYnBMqK https://t.co/GxgSpKNmwy,65,2,14,2021-01-11
+81,2021-01-13 02:32:05+00:00,1349182400484364289,fraxfinance,"@1inchExchange @MakerDAO Awesome work! We’re big fans of $DAI (and $USDC). You guys should build a 1-button mint $FRAX on 1inch next! 96m $FRAX minted in the past 3 weeks. 1inch could give users the best minting price! Message us, we can help dev work 🚀",10,1,1,2021-01-13
+83,2021-01-14 07:47:29+00:00,1349624159261786113,fraxfinance,"It took us just 3 weeks to cross 100m $FRAX in circulation! Next stop 1B! It took DAI 3 years to get there, how long will it take $FRAX? 🚀 
+
+stability+growth=🌙 https://t.co/aeosLLDU1F",85,6,20,2021-01-14
+86,2021-01-15 23:22:57+00:00,1350221965508763651,fraxfinance,@defiprime Hi 👋 🙃,17,2,1,2021-01-15
+87,2021-01-17 07:26:29+00:00,1350706038337540103,fraxfinance,@UniswapProtocol @haydenzadams $FRAX is about to overtake $WBTC in liquidity! But our stablecoin is not whitelisted on the Uni front end! You guys whitelist $MKR but not the only algorithmic stablecoin that’s proven to hold its peg with 9 figure liquidity? Plz whitelist sir! 🙏 https://t.co/PQ1VMiiTIK,67,5,13,2021-01-17
+92,2021-01-19 20:20:45+00:00,1351625664491790338,fraxfinance,@CloudedLogic @CryptoMoonn1 @haydenzadams You’re really living up to your Twitter handle sir. Nice conspiracy theory that we somehow have $130m+ of liquidity to scheme something ridiculous like this. We work tirelessly every day with little sleep to push new code and ideas in the algo space. I guess we have haters now..,9,0,0,2021-01-19
+96,2021-01-20 07:07:20+00:00,1351788384562237441,fraxfinance,Good sir I see un stabl koyn won dolla perfect 👌 $FRAX https://t.co/JqcPeDVhM9,28,3,3,2021-01-20
+97,2021-01-21 01:42:03+00:00,1352068912733515776,fraxfinance,@bantg @ashleighschap We’re having the exact same problem with $FRAX. Uniswap routes trades on their front end selectively and we are the 5th most liquid token in all of mainnet. We just wanted to know what criteria to meet to get trades routed yet we get silence from @UniswapProtocol team :/ https://t.co/aNZC9LoR4X,14,2,1,2021-01-21
+98,2021-01-23 06:49:47+00:00,1352871129937891330,fraxfinance,"This Sunday, $FRAX joins the @SushiSwap Onsen Menu for delicious sushi rewards! 🍣 Join the FRAX-FXS or FXS-ETH pools to earn $SUSHI. 
+
+$FRAX is also being added to SushiSwap’s routing stablecoin whitelist 🚀 
+
+Special thanks to @0xMaki and all master chefs at Sushi. ❤️ https://t.co/PDPrwXIXmp",179,3,33,2021-01-23
+100,2021-01-24 01:34:14+00:00,1353154108614533122,fraxfinance,Let’s get the community to support adding $FRAX to Typhoon for private transactions and private yield farming. This will bring true zk privacy to $FRAX and algo stablecoins! https://t.co/Xbb6zRTC0i,27,1,2,2021-01-24
+103,2021-01-25 20:03:59+00:00,1353795774899834882,fraxfinance,"We always appreciate the early support @machibigbrother Friends believe in you before anyone else does 🚀
+
+much ❤️ Jeff! https://t.co/TWLEqkdQ25",15,0,3,2021-01-25
+108,2021-01-26 03:09:33+00:00,1353902870865743873,fraxfinance,"@JacobPPhillips @marek_ @followrene @summa_one @_prestwich We’re definitely fans of Celo as well and like that they’ve been building since the bear market, just like us at Frax. Good tech is built during bears and flourishes during bulls. That’s how you know the team is committed, when they’ve been building it before it was cool. 🔥",1,0,0,2021-01-26
+109,2021-01-29 00:02:22+00:00,1354942928905412612,fraxfinance,Great thread by Andrew about our next protocol update to autonomously put our fractional reserve to work generating yield on @iearnfinance. We’re always innovating in the fractional-algorithmic space in stablecoins @AndreCronjeTech Interest goes to $FXS buybacks. 🚀 https://t.co/yqx1a9ZoYV,85,5,21,2021-01-29
+111,2021-01-30 13:29:34+00:00,1355508454526394380,fraxfinance,The Frax pool on Stabilize Protocol is now live! Depositing FRAX will earn juicy yields as well as help $FRAX keep an even tighter peg! Win-win 💪 https://t.co/qMLw5NHqv7,22,1,5,2021-01-30
+112,2021-02-01 11:17:19+00:00,1356199947016626177,fraxfinance,"Anyone who says algo coins are unstable stablecoins, make sure to show them this beautiful graph so they don’t miss the facts. Can you see the $FRAX price line? No you can’t. Because it’s perfectly superimposed on the $1 line 👌
+
+source @CapitalWarp https://t.co/v7RZ8VylDX",59,5,19,2021-02-01
+113,2021-02-06 11:12:35+00:00,1358010695468552192,fraxfinance,"If you fancy some Frax Fries 🍟 head on over and provide some FRAX-USDC LP to https://t.co/7Ho7rGZUOO 
+
+Delicious yields await @thebaoman 
+FRAX farming is getting tastier by the day 🥳 https://t.co/q5e0ymLsLC",18,0,4,2021-02-06
+114,2021-02-07 02:51:36+00:00,1358247010185351169,fraxfinance,Our Curve 3Pool $FXS rewards are live today with some juicy yields! FRAX stableswap trading powered by @AndreCronjeTech’s permissionless Curve pools on https://t.co/fhOBMfhybK. Thanks to @charlie_eth @newmichwill 🚀 The $FRAX peg is as tight as ever 😎 https://t.co/rv3DI8Djpa,123,2,27,2021-02-07
+115,2021-02-09 11:46:39+00:00,1359106434152034305,fraxfinance,"Our @CurveFinance gov vote is live! We just started $FXS rewards for our https://t.co/fhOBMfhybK pool and hope that as we ramp up rewards and TVL the $CRV community welcomes $FRAX to their homepage ☺️ Thanks to @AndreCronjeTech @newmichwill @charlie_eth 
+
+https://t.co/vAkjlNaZC6",46,2,11,2021-02-09
+117,2021-02-11 10:11:29+00:00,1359807260059340803,fraxfinance,"@scottwalker99 @CoinDesk @Mastercard @realDannyNelson @samkazemian Yep, it’s gonna be inevitable. 😏",3,0,0,2021-02-11
+119,2021-02-16 02:57:06+00:00,1361509885247062016,fraxfinance,"We’ve added our proposal for inclusion in @TornadoCash! We’re also working on a novel method for users to mint $FRAX directly into the https://t.co/beNPqT2UsH anonymity set. 🤯 If approved, this could make FRAX the most private stablecoin in existence!🌪 
+
+https://t.co/3FpEqN2t7f",78,2,18,2021-02-16
+120,2021-02-17 19:37:50+00:00,1362124115700707328,fraxfinance,"Glad we could help $ESD 🤝 nice to see everyone converging on the fractional-algorithmic stability mechanism as the 👑 of algo design. $FRAX On that note, we have some very exciting unannounced things coming soon that will blow everyone away 🤫 https://t.co/eolmkEjImG",36,1,6,2021-02-17
+122,2021-02-18 23:03:19+00:00,1362538214611841024,fraxfinance,👑 https://t.co/6aNzWh9GZT,40,6,7,2021-02-18
+126,2021-02-20 21:11:49+00:00,1363234928826048514,fraxfinance,Technically true Elon yes 👀 but the correct term is “algorithmically pegged to the dollar.” https://t.co/fprVY4ySrb,66,4,14,2021-02-20
+127,2021-02-22 20:15:42+00:00,1363945581001859074,fraxfinance,Alpha leak 🤫 https://t.co/fvPIUfX6bj,310,14,85,2021-02-22
+128,2021-02-23 02:17:16+00:00,1364036575709913089,fraxfinance,"The best money allows you to settle debts, options, trades, and purchases in a decentralized manner. 
+
+We’re excited to announce $FRAX can now be used to settle, write, and exercise options on @fin_nexus 🚀 
+
+Farming, rewards, and pool coming soon! 🔥 https://t.co/m6L40BS3pO",76,10,28,2021-02-23
+129,2021-02-24 22:17:35+00:00,1364701030861049857,fraxfinance,$FRAX $FXS continuing to lead farming yields 😏 join the Frax farms! 👨‍🌾 join the Frax fam 🚀 https://t.co/LwxCkTSnLs,39,4,9,2021-02-24
+130,2021-02-25 09:38:40+00:00,1364872431089803269,fraxfinance,"Owning $FXS is like Pascal’s Wager on if an algorithmic stablecoin will end up having a larger market cap than all fiatcoins+CBDCs. 
+
+It’s like the Bitcoin wager but for stablecoins 🚀",44,13,12,2021-02-25
+132,2021-02-26 20:17:01+00:00,1365395467551449089,fraxfinance,"Frax has already earned $110k of interest cash flow from putting idle collateral into blue chip protocols @iearnfinance @compoundfinance &amp; @AaveAave 
+
+This revenue is going straight to $FXS holders as a token buyback+burn 🔥 
+
+Total protocol revenue is $3m+ in just 2 months 🤯 https://t.co/KUJikYW7IX",119,11,25,2021-02-26
+133,2021-02-28 00:07:33+00:00,1365815870354694145,fraxfinance,@RariCapital @0x_Osprey @iearnfinance @compoundfinance @AaveAave Hey Rari Capital! Our DMs are open if you want to discuss 😉,3,1,0,2021-02-28
+136,2021-03-03 18:03:07+00:00,1367173707492323328,fraxfinance,"We love the sound of this 😎 “FRAX - The leader of the new school” of stablecoins 🚀 
+
+Make sure to read Messari’s new research report by Ryan Watkins on algo coins that puts us at the top of the game. As it should! 💪 https://t.co/AriumAwjoh",32,0,10,2021-03-03
+137,2021-03-08 21:19:09+00:00,1369034980328808449,fraxfinance,@bluekirbyfi @markjeffrey @samkazemian https://t.co/pt4sW8mJdr,6,0,0,2021-03-08
+138,2021-03-09 16:33:40+00:00,1369325525601292291,fraxfinance,🤫 https://t.co/A6piBFvNIB,125,8,34,2021-03-09
+139,2021-03-16 20:41:34+00:00,1371924627195191296,fraxfinance,"$192k $FXS buyback+burn 🔥 from the Collateral Investor AMO which puts idle collateral to work earning cash flow for $FXS holders!
+
+All value goes back to $FXS 🚀 Seignorage, fees, and revenue. $FRAX is already one of the largest lenders on @iearnfinance &amp; @compoundfinance 💪 https://t.co/96Pt613xFj",84,9,26,2021-03-16
+140,2021-03-17 02:47:44+00:00,1372016774300901379,fraxfinance,"OG Frax community member @JustinCBram made the perfect introductory video for $FRAX farmers 👨‍🌾 if you’re thinking of taking the plunge into the FRAX universe, this is the best way to get started in 10 minutes to earn triple digit yield! 🚀 
+https://t.co/rmfqibMFZZ",45,3,15,2021-03-17
+141,2021-03-19 18:41:30+00:00,1372981574883450881,fraxfinance,"Another great vid from our OG Frax farmer @JustinCBram. Here he takes a deep dive into the Frax v2 announcement. If you want a great way to understand the ideas behind AMOs and other v2 innovations, make sure to watch this! 🚀 
+
+https://t.co/tdgpb4IVGW",36,2,10,2021-03-19
+142,2021-03-23 02:53:23+00:00,1374192523179098117,fraxfinance,"Great article by @jp_koning! Brands $FRAX &amp; Terra as the leaders in decentralized stablecoins 🚀 
+
+“Frax has succeeded in maintaining a $1 price...less-than-fully collateralized stablecoins [could] prove to be an enduring advance in financial technology.”
+
+https://t.co/vHZogiE42i",41,3,11,2021-03-23
+145,2021-03-29 20:28:33+00:00,1376632391335174146,fraxfinance,"$FRAX CurveAMO has already deployed $5m+ liquidity to FRAX3CRV putting TVL now in 8 figure territory 😎 
+
+The potential of these algorithmic market operation strategies that tightly integrate @CurveFinance wouldn’t be possible without @AndreCronjeTech 🙏 just the beginning 🚀 https://t.co/pehqJyEAdR",80,5,18,2021-03-29
+146,2021-04-02 16:48:24+00:00,1378026541662171138,fraxfinance,"These are the very first $FRAX NFTs. Only 3 of them ever! 🚀 
+
+Here’s an alpha leak: Any officially endorsed NFT by Frax will have some form of use within Frax/Easter egg 🥚 😉 
+
+Happy collecting! https://t.co/D6cNG8A2CB",40,1,14,2021-04-02
+147,2021-04-06 00:30:08+00:00,1379229904554758145,fraxfinance,"Our FRAX &lt;&gt; RAI @RariCapital Fuse pool is the first step in laying out infrastructure to phase out USDC collateral and go fully decentralized in every aspect 🔥
+
+The RAI AMO is currently under development 🚀 $FRAX is going full crypto collateral and exploring all options! https://t.co/saq2X3jUU0",107,1,19,2021-04-06
+149,2021-04-12 17:23:41+00:00,1381659298975997955,fraxfinance,"A quarter million dollars of $FXS was just burned through buybacks of AMO profits🔥 
+
+Many in the community know as these burns get larger and more frequent, $FXS will become substantially more scarce 🚀 
+
+Stay tuned later this week for an update on more burns and #FXS1559 ;) https://t.co/7gImnCtYJa",89,5,27,2021-04-12
+150,2021-04-15 14:08:14+00:00,1382697277660266498,fraxfinance,"$FRAX has the best average peg price of all algo stablecoins analyzed by @coingecko 😎 #NumbersDontLie 🚀 $FXS 
+
+Now just wait until this stability is combined with our AMOs 💯 #FXSto100 https://t.co/CJuM4vWWFi",54,3,16,2021-04-15
+151,2021-04-16 02:41:49+00:00,1382886920942850048,fraxfinance,"The $FRAX meme contest has begun with a total of 70 $FXS up for grabs for the 7 best meme magicians! 🔮🪄
+
+The contest ends on April 22 at 2:00 PM UTC so get meme-ing! 🚀
+
+Check the tweet below for the rules 👇 https://t.co/cPitxZd5eV",47,11,8,2021-04-16
+153,2021-04-21 21:48:40+00:00,1384987476234694656,fraxfinance,"Our FXS1559 AMO (named in homage to EIP1559 ❤️) burned ~$150,000 worth of $FXS in just the first 24 hours 🔥 
+
+How’s that for a cash flow profitable protocol?! 😎 and that’s just the first day! ~$12m profit/yr growing per day 💰
+
+Market seems to agree with $FXS charts 🚀 https://t.co/nmgIRznqhx",89,5,35,2021-04-21
+154,2021-04-28 19:34:25+00:00,1387490405571174400,fraxfinance,"$FRAX has officially become the first algo stablecoin to be added to Curve’s gauges! We passed with flying colors 99%+ approval 🥳 Numbers don’t lie 🚀
+
+Please vote for $FRAX on the gauge weights page to increase our share of the pie! 🥧 
+
+https://t.co/5NsJ6gubwj",118,4,23,2021-04-28
+155,2021-04-30 18:04:13+00:00,1388192479413825538,fraxfinance,"Slowly....then suddenly $FRAX will be everywhere 😏 
+
+In retrospect, it was inevitable. https://t.co/8vJYVsOb6l",78,2,19,2021-04-30
+156,2021-05-01 08:56:23+00:00,1388417002302164992,fraxfinance,"Two years ago to this day, the idea of the first fractional stablecoin was born :’) 
+
+Today, $FRAX is the only algorithmic stablecoin to have held a perfect peg and has inspired many awesome projects to adopt the hybrid/fractional design 🚀 https://t.co/3Nm7xRLPJC",109,7,22,2021-05-01
+157,2021-05-05 22:37:52+00:00,1390073287355428866,fraxfinance,"To all the stablecoin farming apes out there, the $FRAX CRV yield’s going to be wild this week 🚀 See you all over at @CurveFinance farms 👨‍🌾
+
+And still 1 hour to vote for more FRAX pool yield before gauge weights close! Let’s get it 💪 https://t.co/d1uMGBS8tg",71,5,22,2021-05-05
+158,2021-05-10 21:42:30+00:00,1391871292161232898,fraxfinance,@OlympusDAO 👀 https://t.co/qSr5Z8ennK,74,2,6,2021-05-10
+159,2021-05-11 18:30:10+00:00,1392185276068368384,fraxfinance,"1.) @CurveFinance TVL ~$50m TVL
+
+2.) Uni v3 FRAX-USDC .3% range LPs soon 😎
+
+3.) @iearnfinance crvFRAX vault $30m+ TVL 40% APY
+
+~$20m $FRAX algorithmic supply. Total supply at ATH. Peg perfect 👌 CR 85
+
+You might not like it, but this is what peak capital efficiency looks like. https://t.co/CzhlPG6ivm",54,4,16,2021-05-11
+160,2021-05-12 03:43:44+00:00,1392324585769431043,fraxfinance,@uniswapgrants We can pitch in on this since we’d be one of the primary algorithmic stablecoin users on day 1. We can propose an $FXS co-grant for whichever team earns the $UNI grant. Contact us to coordinate 🥳 Let’s herald the glorious TWAP oracle era 🤝,18,1,1,2021-05-12
+161,2021-05-14 21:34:40+00:00,1393318873420558336,fraxfinance,"We’ve just launched our veFXS system on mainnet 🚀 Deposit and lock your $FXS to earn veFXS yield on AMO profits, boosted governance rights, and some hidden veFXS features coming soon ;) 
+
+Average lock time of early apes is over 3.5 years. That’s some long term conviction! 💪 https://t.co/3YOxukRdTm",91,3,23,2021-05-14
+162,2021-05-15 02:15:05+00:00,1393389441801097220,fraxfinance,"@CurveFinance Curve: the OG veToken 💪 
+FRAX: the veSeignorage token 💰",10,0,0,2021-05-15
+163,2021-05-19 05:01:40+00:00,1394880914925101060,fraxfinance,Keep calm and build Lindy effect. https://t.co/JjRSzAhONT,69,6,12,2021-05-19
+166,2021-05-20 04:30:02+00:00,1395235341376753666,fraxfinance,A bear market is just a bull market for stablecoins. 🚀 A lot of new blue chip defi tokens will come from this next phase of the market $FRAX $FXS https://t.co/hVwTS4Y87r,33,0,7,2021-05-20
+168,2021-05-21 22:34:29+00:00,1395870641551601669,fraxfinance,Numbers don’t lie 💯 when it comes to algo stablecoins #AllRoadsLeadtoFRAX https://t.co/dj0Et6Cjw3,42,4,11,2021-05-21
+171,2021-05-23 09:20:51+00:00,1396395693326041089,fraxfinance,Our Curve pool rewards are now directly distributed through @CurveFinance’s gauges so you can earn $CRV and $FXS at the same time! Head over to https://t.co/9BXLsF8Buq to get those juicy stable yields during these volatile times 🐻,54,3,7,2021-05-23
+173,2021-05-25 03:17:26+00:00,1397029010568138757,fraxfinance,"Our official partnership with @SushiSwap on @0xPolygon will be live soon! FRAX-FXS &amp; FRAX-USDC pairs on Sushi L2 will be incentivized with delicious yield 😋 Bridge your tokens 2 L2 now to get ready for the golden age of FRAX gains 👨‍🌾 
+
+All praise to the master chefs 🙇🏻‍♂️ @0xMaki https://t.co/PDTBZGlr0o",569,22,98,2021-05-25
+175,2021-05-27 03:01:42+00:00,1397749827295801350,fraxfinance,@Everipedia has chosen to incentivize its stablecoin pair using $FRAX as it launches its $IQ token to ETH L1 for the first time. A total of ONE MILLION $IQ tokens/day will be distributed to FRAX-IQ LPs! You don’t want to miss this one! 🚀 Farm is live @ https://t.co/EVwm4rOpkx https://t.co/MhrpUTolx4,23,0,6,2021-05-27
+176,2021-05-28 18:23:02+00:00,1398344075238002690,fraxfinance,Ohhh look which stablecoin is slowly climbing the ranks during these downturns 👀 Makin our way to the top $FRAX https://t.co/L8uLba0prU,35,4,8,2021-05-28
+177,2021-06-01 09:57:55+00:00,1399666509346000897,fraxfinance,"Don’t forget to vote for $FRAX gauges before Wednesday’s @CurveFinance vote if you have $CRV. We’re updating our Curve AMO strategy and need your votes 🚀 some exciting stuff is cooking! 🤫 
+
+🗳 
+https://t.co/je0trZnrRC",27,0,10,2021-06-01
+178,2021-06-02 01:19:32+00:00,1399898443649224705,fraxfinance,"@DefiMoon Just like with the overall operation of the protocol, all excess value above the CR is either used to burn $FXS with FXS1559 or sent to the veFXS yield contract.💰The community can decide the ratio 😎 this will usher in the golden age of Curve algostability $FRAX",12,0,0,2021-06-02
+179,2021-06-09 21:34:06+00:00,1402740815114366980,fraxfinance,$FRAX is growing across all chains organically. The multi chain algostable master plan is working! 🚀 https://t.co/hWNfeTQxbE,41,0,5,2021-06-09
+180,2021-06-14 00:52:33+00:00,1404240308586442756,fraxfinance,"@OlympusDAO FRAX-OHM Bonds are now live! This is the best way to get exposure to what Olympus is building with us in close collaboration. 🚀 There’s a limited number of bonds &amp; they’re not always for sale so check it out while you can. ⬆️ 
+
+👇
+https://t.co/GuryL6GgFo",9,0,3,2021-06-14
+181,2021-06-20 00:10:00+00:00,1406403926451113986,fraxfinance,"The $FRAX Curve pool now has officially reached 9 figures! 🤯 Not only is $FRAX the first algorithmic stablecoin on @CurveFinance but we’re also the first algostable to reach over $100m+ stableswap liquidity.  
+
+We’re breaking records daily in the algorithmic stablecoin world 🥳 https://t.co/H3ggFcnZ6e",161,10,34,2021-06-20
+182,2021-06-21 03:48:10+00:00,1406821217688985602,fraxfinance,"As the famous saying by @samkazemian goes: A bear market is just a bull market for stablecoins. 
+
+And the best yielding stablecoin on all of @iearnfinance is none other than $FRAX. Dependable during tough times 💪Get in the crvFRAX vault for those sweet dollar denominated yields. https://t.co/3cT6oHqRNU",93,4,15,2021-06-21
+183,2021-06-23 08:48:10+00:00,1407621491605184512,fraxfinance,"If you thought our $100m TVL $FRAX  @CurveFinance pool was impressive, just wait until we deploy our Convex AMO this week in close collaboration with our friends @ConvexFinance 🤝 (stay tuned for AMO specs)
+
+Bear market is just a bull market for stablecoins (and stable farms) 👨‍🌾 https://t.co/uoh8NXhulH",113,4,24,2021-06-23
+185,2021-07-01 21:15:35+00:00,1410708686624813063,fraxfinance,"We’re proud to report that we recently had a full @trailofbits security audit of our protocol, AMOs, &amp; smart contracts which found ZERO exploitable/funds-at-risk issues. 💯 
+
+Our improvements to future code and further info on their suggestions will be published soon! 🚀",98,10,21,2021-07-01
+186,2021-07-03 04:31:54+00:00,1411180876692475905,fraxfinance,"Binance adds $FXS to margins for all you degens out there! This is for the apes who DONT want stability. 10x or bust 😳 
+
+Be careful, stay safe, and may the gains be with you 🚀 https://t.co/Red9DsrOeW",41,2,8,2021-07-03
+187,2021-07-09 04:20:46+00:00,1413352405719080960,fraxfinance,"You can now earn passive income by holding $FXS in your Binance flexible savings account! If you’re a Binance $FXS holder, make sure you’re putting your Frax Shares to work! 💰 https://t.co/ILUYEwaaub",40,0,18,2021-07-09
+188,2021-07-13 21:14:20+00:00,1415057028985147393,fraxfinance,"$FRAX now 5th largest pool on @ConvexFinance 🤝 We’ve looked onchain &amp; the FRAX pool has the least $CVX rewards sell pressure. We’re long on every protocol that we have an AMO for. The bigger the FRAX pool, the less $CVX for short term farmers to sell in the other pools 💪 https://t.co/RfYOMk1eTY",75,0,15,2021-07-13
+190,2021-07-14 22:08:02+00:00,1415432930327891969,fraxfinance,$FRAX making its way through the stablecoin ranks! #UpOnly 🚀 https://t.co/RW1EnefGNR,44,3,12,2021-07-14
+191,2021-07-27 00:35:10+00:00,1419818612617998337,fraxfinance,"Our @RariCapital Fuse AMO has minted over $2.5m $FRAX into @Tetranode’s &amp; @OlympusDAO’s lending pools in the first 24h of launch! $FRAX is significantly cheaper to borrow than $DAI &amp; $USDC.
+
+Same stability, fraction of the cost :) That’s true algorithmic capital efficiency 🚀",143,1,26,2021-07-27
+192,2021-07-28 21:20:56+00:00,1420494505329917953,fraxfinance,"Hey everyone! If you’re a $FRAX farmer or power user, please upvote these feature requests to add more FRAX &amp; veFXS dashboards on the leading DeFi front ends! 🙏
+
+@DeBankDeFi
+https://t.co/LRRjOgQQ19
+
+@zapper_fi
+https://t.co/xmuW8Uovl3
+
+@zerion_io
+https://t.co/B1sJw1d0G6",35,3,10,2021-07-28
+193,2021-08-25 23:09:41+00:00,1430668734759260161,fraxfinance,"Opinions are cheap. Everyone has them. 
+
+Numbers don’t lie though.
+https://t.co/2u4xq1WP3Z https://t.co/RF85fJl0a8",85,6,19,2021-08-25
+194,2021-09-06 21:43:46+00:00,1434995768843116544,fraxfinance,"$FRAX is coming to @AaveAave! 🤩 If you’re an $AAVE holder, please help us get to the finish line by voting YES to reach quorum. 🏁 Just a few more votes is needed to make it official. 
+
+https://t.co/5zrPg0KIlx",84,5,13,2021-09-06
+195,2021-09-10 14:43:28+00:00,1436339544823984131,fraxfinance,And just like that $FRAX unanimously becomes the first algorithmic stablecoin added to @AaveAave! 🥳 https://t.co/xY0ejKqHme,144,8,33,2021-09-10
+197,2021-09-17 07:47:07+00:00,1438771485422743564,fraxfinance,"Below is a graph of our total protocol profit since launch of our AMOs.
+
+It’s not linear. It’s parabolic.
+
+This is not financial advice. 
+
+gn https://t.co/9HmCSgBJR0",104,3,15,2021-09-17
+198,2021-09-27 17:30:19+00:00,1442542130648420358,fraxfinance,gm,44,19,6,2021-09-27
+199,2021-09-28 03:57:16+00:00,1442699907450564609,fraxfinance,"$FXS is on the shortlist to be added to Tokemak! @TokenReactor
+
+If you’re a $TOKE holder, make sure to vote for $FXS so we can build some awesome AMO strategies utilizing Tokemak reactors! ☢️ https://t.co/sXxaLlR3b1",71,2,14,2021-09-28
+201,2021-10-01 21:43:38+00:00,1444055432285200388,fraxfinance,"We’re back in the top 5 of the Tokemak C.o.R.E. Reactors with our friends @OlympusDAO @RariCapital @AlchemixFi &amp; @SushiSwap What a gang!
+
+This would be a dream team lineup of Tokemak reactors! 💪 @LiquidityWizard @TokenReactor vote at: https://t.co/PUeeHnlynO https://t.co/tRx1rm6XnE",113,1,21,2021-10-01
+202,2021-10-02 23:12:15+00:00,1444440120615075840,fraxfinance,"Mark your calendars! Tomorrow 1pm PST, we will have a spaces with prominent Ohmies+@samkazemian to debut our @OlympusDAO Pro bonds &amp; exclusive alpha! Our bonds will go live for purchase at the same time 🚀 https://t.co/vf3IPzr924",170,17,75,2021-10-02
+203,2021-10-04 20:29:37+00:00,1445123968847941641,fraxfinance,"You can earn 28.8% APY just by depositing $FRAX in @AaveAave right now. The demand to borrow &amp; use the first algostable on Aave is through the roof! No incentives, no subsidies, just organic growth 🚀 https://t.co/wX9zP10hg2",57,11,16,2021-10-04
+204,2021-10-05 19:07:59+00:00,1445465812043644933,fraxfinance,"Only 24 hours left to keep $FXS in the top 5 slots of Tokemak’s reactors 💪@TokenReactor @LiquidityWizard Not only have we proposed gov whitelisting Tokemak to stake veFXS in our protocol, but also have a lot of juicy stuff in store after our reactor is live! 🚀 Tokemak AMO? 🤫 https://t.co/YFCklhsFel",90,6,19,2021-10-05
+205,2021-10-06 19:17:37+00:00,1445830621876551685,fraxfinance,"$FXS crushed the Tokemak competition coming in #1 out of 42 protocols! But this is only the beginning of our involvement with the @TokenReactor community 🤝
+
+Prepare to see algorithmic stablecoin expansions directed by $TOKE holders + FXS rewards. What’s coming will blow minds ☢️ https://t.co/45C3H6kzql",231,15,46,2021-10-06
+206,2021-10-12 14:17:12+00:00,1447929348464467975,fraxfinance,"2M $FRAX has been minted into @NFTX_’s Fuse pool for borrowers! Frax is especially focused on lending to NFT users to become the stablecoin of choice for collectors. More will be minted through the AMO as it’s borrowed by punk+NFTX holders 🚀 
+
+https://t.co/tIf78COeDa https://t.co/r14M7t8T2c",58,8,15,2021-10-12
+207,2021-10-13 05:38:56+00:00,1448161311603531776,fraxfinance,"The first protocol to become the “Convex of Frax” and wrap veFXS tokens like cvxCRV, we will incentivize their veFXS @CurveFinance pool, use our vlCVX to vote for its gauge, and even more! Let’s discuss! 📩 perhaps @picklefinance @ConvexFinance or a new protocol on the block 🧐",93,10,17,2021-10-13
+210,2021-10-15 02:27:42+00:00,1448837961831886872,fraxfinance,Native Fantom $FRAX has been minted into the @Screamdotsh lending market! Our first cross chain Lending AMO to power the @FantomFDN ecosystem. 🚀 borrow $FRAX at https://t.co/PiybSv0NVG 😱,196,12,39,2021-10-15
+211,2021-10-18 20:43:09+00:00,1450200801985511424,fraxfinance,It’s spooky season! Don’t forget to borrow $FRAX for all your Fantom DeFi needs on https://t.co/PiybSvioNe and lend them some Halloween hype while you’re there! 🎃 $SCREAM 🧟‍♂️ https://t.co/LTvhcDQO8e,40,0,5,2021-10-18
+212,2021-10-25 18:19:46+00:00,1452701432742744065,fraxfinance,@CryptoGrills @TokenReactor Wow this aged well. Giga chad tweet ser 🤌🏼 Legend https://t.co/F80gmTHCMp,17,1,0,2021-10-25
+213,2021-10-26 03:01:22+00:00,1452832698599231494,fraxfinance,"And the moment all you stakers have been waiting for! The $FXS reactor is live at https://t.co/PUeeHnlynO 🤩 stake $FXS, sit back, and enjoy the yield. 🚀 https://t.co/g5zsqO3dK5",102,7,19,2021-10-26
+215,2021-11-05 00:08:24+00:00,1456413050089586692,fraxfinance,Hello there @MIM_Spell 👀 nice to see you at the top as well. 🤝 https://t.co/m2inBW3ASx,49,4,3,2021-11-05
+216,2021-11-11 02:38:34+00:00,1458625166963998722,fraxfinance,$FRAX TVL+liquidity on @MoonriverNW has reached 8 figures in preparation for our partnership &amp; launch of @romedaofinance! 🤝 FRAX-FXS &amp; FRAX-MOVR pairs on https://t.co/YGn5XdNKYX are deep 🙌 See you guys on the Moonriver farms! 🌙,146,11,36,2021-11-11
+217,2021-11-18 21:08:05+00:00,1461441101760454663,fraxfinance,@SiloFinance @samkazemian 🤝😎,2,0,0,2021-11-18
+220,2021-11-21 08:13:50+00:00,1462333417765281793,fraxfinance,Top 5 on @defipulse 🚀 #AllRoadsLeadToFRAX https://t.co/InNpU0Mb22,90,4,15,2021-11-21
+221,2021-11-25 11:13:53+00:00,1463828281078149125,fraxfinance,Tokemak reactors have been activated! Yield per reactor is based on $TOKE votes so make sure to vote $FXS! Unsurprisingly FXS has decisively the highest APR with ~50% of CoRE rewards going straight to the FXS reactor 🤯 Now just wait for the $FRAX reactor next..🤫@TokenReactor https://t.co/Oq2Db8eY53,130,9,15,2021-11-25
+223,2021-12-12 03:56:15+00:00,1469878742591815681,fraxfinance,"If any FRAX users have interacted with Gelato contracts, make sure to read below ASAP.
+
+To be clear, there are NO issues or concerns with any FRAX contracts. We’re just helping spread the word.
+
+If you haven’t interacted with Gelato Protocol disregard this tweet. 👍 https://t.co/0JQPAccTGH",16,3,2,2021-12-12
+225,2021-12-16 01:05:57+00:00,1471285434906931203,fraxfinance,"@Redactedcartel governance proposal to intake $FXS+whitelist is up! $FRAX will also support in all of their stablecoin liquidity needs 🤝
+ ██ x FRAX will 🤯
+
+🦋x ¤ 
+
+Community feedback period is open before snapshot vote👇
+https://t.co/TjHu7SpT99",123,6,27,2021-12-16
+226,2021-12-19 20:30:02+00:00,1472665547904933891,fraxfinance,"The $FXS halvening is tomorrow December 20th 4pm PST! This marks the 1 year anniversary of genesis &amp; doubles FXS scarcity 🚀 
+
+Gauge+farming emissions halve. Claim FXS rewards one last time tomorrow to enjoy these rates before they automatically halve. No migration is needed :)",114,7,23,2021-12-19
+227,2021-12-21 08:53:00+00:00,1473214913145233408,fraxfinance,"Which tokens do you see on the most number of chains in the graphic below? 😏 Yep $FRAX $FXS
+We’re everywhere 🚀 https://t.co/H0l5X63rW9",43,3,9,2021-12-21
+229,2021-12-25 00:08:05+00:00,1474532362486575104,fraxfinance,@InvictusDAO 🤝 🤫 https://t.co/9X68NLSw3E,349,25,57,2021-12-25
+230,2022-01-07 09:39:27+00:00,1479387192900284416,fraxfinance,"All veCRV stakers, don’t forget to vote for the UST-FRAX gauge in the next 12 hours. We need 51% to pass &amp; currently have 50.5%! 🙏 This pool will have extremely juicy yield with dual $LUNA &amp; $FXS bribes+used for the @terra_money x FRAX partnership 🚀
+https://t.co/ivKDI59nSv",266,19,65,2022-01-07
+231,2022-01-11 21:02:27+00:00,1481008627569741825,fraxfinance,The $FRAX pool is the 3rd most traded on @CurveFinance today right next to $MIM. FRAX volume growing rapidly shows it’s becoming the decentralized stablecoin of choice in the DeFi ecosystem! FRAX is also #6 top tokens on Uniswap v3 💪 https://t.co/iXtj50gfYv,206,12,40,2022-01-11
+232,2022-01-13 19:58:33+00:00,1481717321202757633,fraxfinance,The one &amp; only @Tetranode will be live on @UpOnlyTV with world famous @cobie+@ledgerstatus in ONE HOUR to talk about his grand unifying theory of DeFi 🤯 You don’t want to miss the alpha &amp; where $FRAX fits into the master plan 🤫📈,270,6,27,2022-01-13
+233,2022-01-15 04:01:52+00:00,1482201340465926145,fraxfinance,"The gang’s all here 💪 @CurveFinance @ConvexFinance 
+Next stop, top of @coingecko rankings 📈 $CRV $CVX $FRAX https://t.co/Lm1TlAGu4B",277,14,30,2022-01-15
+234,2022-01-23 10:57:22+00:00,1485205010711416832,fraxfinance,@CurveFinance Great idea! This would allow $CRV &amp; $CVX to capture a form of “seigniorage” rather than just fees on Curve and it would also allow $FRAX to be backed by real cash flow of a profitable DEX. A true positive sum value proposition for both sides 💯,204,3,18,2022-01-23
+235,2022-02-01 00:09:10+00:00,1488303375003176960,fraxfinance,"Our partnership with @QiDaoProtocol on @0xPolygon is off to an amazing start 🥳 You can go to https://t.co/VM0PF6vgmo to mint MAI with $FXS collateral &amp; earn rewards for FRAX-MAI LP on Uniswap v3! 📈
+
+FRAX &amp; MAI are already the top liquid stablecoins on Polygon’s Uni v3 🤝",227,15,39,2022-02-01
+236,2022-02-23 23:35:20+00:00,1496629783022628866,fraxfinance,"FRAX-FXS, FRAX-USDC, &amp; FRAX-FTM pairs are officially live &amp; gauge weighted on @AndreCronjeTech’s @solidlyexchange 🥳 
+
+Stay tuned to see what FRAX plans to do with our veNFT in the next few days! For now enjoy the yields 📈 https://t.co/N5lMBh7gwS",72,3,15,2022-02-23
+237,2022-03-08 22:04:56+00:00,1501318073059450881,fraxfinance,$FXS supply has been heavily deflationary the past month.🔥 Protocol buybacks remain strong even in macroeconomic conditions. veFXS stakers also earning ~8% APR sustainably from AMO profits (not from token inflation). This is what true $FRAX usage &amp; cash flow looks like 🚀 https://t.co/vnSJqTM96W,163,15,36,2022-03-08
+238,2022-03-13 01:49:12+00:00,1502824061600088065,fraxfinance,@tbr90 @SiloFinance 😏🤝🤫,17,2,0,2022-03-13
+239,2022-04-08 19:36:43+00:00,1512514798289764352,fraxfinance,"$FPIS claims are live https://t.co/rhY1uvyy7H 🚀 Total of 10m of 100m supply is claimable for participants! $FPI stablecoins are also mintable 🚀
+
+Airdrop recipients through @ConvexFinance will receive their tokens when cvxFXS claims are live👌
+
+Full info: https://t.co/8GADEAdZ6e",352,44,113,2022-04-08
+241,2022-04-27 01:55:57+00:00,1519133216518852611,fraxfinance,First DAO partner to deploy to Fraxswap &amp; use TWAMMs to manage protocol owned liquidity 👀 🤝 This is the way 📈 https://t.co/tIJmHoFbJv,73,1,20,2022-04-27
+242,2022-04-28 06:41:19+00:00,1519567420083499008,fraxfinance,"The Aave gauge went live today &amp; now FXS emissions are going to FRAX lenders! Lend your FRAX on @AaveAave then take your aFRAX tokens and stake them below.👇Currently over 200%+ APY for simply lending FRAX in the Aave money market 📈
+https://t.co/Lkl8gdgIBh",103,6,17,2022-04-28
+243,2022-05-04 19:54:53+00:00,1521941454095978496,fraxfinance,Only 4 hours left to vote to get 3 digit APR on your veCRV this week 🚀📈 https://t.co/A6pzdJ04RE,32,1,10,2022-05-04
+244,2022-05-26 01:11:04+00:00,1529631168257134592,fraxfinance,"FRAX-FXS, FRAX-USDC, FRAX-MAI &amp; FRAX-MATIC pairs are live on Dystopia’s AMM 🙌 with the highest gauge weights for $DYST rewards 📈 https://t.co/Ko2D3M8oVK",91,5,26,2022-05-26
+245,2022-06-08 19:48:53+00:00,1534623518540763136,fraxfinance,"veFXS APR is almost 20%! This is straight from protocol revenue (no inflation). Where else can you get such yields in this market for staking your governance tokens? 🤯 And @ConvexFinance cvxFXS staking approaching 50% APR 📈
+
+https://t.co/bVVnnVq7F5 
+https://t.co/kFVdZE0JyM https://t.co/oBjXciI0XA",88,4,17,2022-06-08
+246,2022-06-11 02:47:02+00:00,1535453523885707264,fraxfinance,"$FXS is now live on Bancor 3! 🥳
+ 
+💧 Single-Sided Liquidity
+⚡️ Instant Impermanent Loss Protection
+💰 Auto-compounding returns
+💪 Help $FXS build healthy liquidity
+🌱 Sustainable yields
+ 
+Deposit at: https://t.co/zvFyDv6xKh
+ 
+Guide: https://t.co/TxA9Un7usJ https://t.co/9JFA85c716",117,12,28,2022-06-11
+247,2022-06-21 02:32:11+00:00,1539073667136507904,fraxfinance,"It’s happening! FRAXBP proposal is live! 🙌 📈
+
+Please vote at
+https://t.co/2Gwct6ZCyu or
+https://t.co/pAEYG0djqP https://t.co/V9A7bvSJFC",199,22,41,2022-06-21
+248,2022-06-22 19:00:04+00:00,1539684663614066689,fraxfinance,Looks like the fraximalist community is organically growing! Awesome to see real world meetups being self-organized 🙌 If you’re in NYC check this out! 👇 https://t.co/SFDKJQlgmN,33,1,1,2022-06-22
+249,2022-07-10 20:23:33+00:00,1546228653763096576,fraxfinance,"Great independent research thread below on TWAMMs and why they’re a revolutionary concept. Fraxswap is the first AMM designed from scratch with TWAMMs 🤯
+
+Try it at https://t.co/xBHbWzvko3 https://t.co/nNnCB4feIS",36,11,8,2022-07-10

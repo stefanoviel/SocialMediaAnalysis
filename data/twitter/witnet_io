@@ -1,0 +1,1165 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-07 16:18:26+00:00,1214582073417187329,witnet_io,"December's #MonthlyReport is out now. Steady progress made across the protocol. Reply below if you have any thoughts or questions.
+
+Wishing you all a very happy 2020 - the year of Witnet Mainnet 😎. 
+
+https://t.co/x7NMl14Bg2
+
+#decentralized #oracle #crypto #rustlang #EDCON https://t.co/sLXyFUa1cN",2,1,0,2020-01-07
+1,2020-01-21 17:18:01+00:00,1219670496565977088,witnet_io,"👀🙋‍♂️🤫 
+
+#OracleProblem #WitnetIsComing https://t.co/lzkKLcZBeA",4,6,1,2020-01-21
+2,2020-01-29 14:31:55+00:00,1222527799392641025,witnet_io,"January's Monthly Witnet Community Q&amp;A is out! 
+
+We cover Witnet reputation and Rust. Check it out:
+
+https://t.co/wPpprOWkKi
+
+#Witnet #Decentralized #Oracles #QandA #Crypto #rustlang https://t.co/G3d6xj0MAN",6,0,4,2020-01-29
+3,2020-01-31 13:21:00+00:00,1223234727609622531,witnet_io,"Are Trusted Execution Environments (TEEs), like Intel SGX, secure enough for decentralized networks?
+
+This article covers why the Witnet community is not embracing TEEs at this point, and the implications this has on the protocol.
+
+https://t.co/kEmW531TzR
+
+#crypto #encryption",8,0,6,2020-01-31
+6,2020-02-04 11:33:00+00:00,1224657102523764736,witnet_io,Requesting faucet funds into 0xa550Cf4F03Bd2417Cf83c8a652703cdC33c016ee on the #Goerli #Ethereum test network.,3,0,0,2020-02-04
+7,2020-02-05 14:26:16+00:00,1225063092524081152,witnet_io,"Welcome to the #rustlang crew, @discordapp. 
+
+Why Discord is switching from Go to Rust: https://t.co/vVBqcJVGpr
+
+8 Reasons why Witnet Makes the Most of Rust: https://t.co/VjUB1aItZs https://t.co/zWfCoOTnFH",0,0,0,2020-02-05
+10,2020-02-07 14:44:05+00:00,1225792352377331712,witnet_io,"January's #MonthlyReport is a big one. 
+
+Testnet Incentive Program live, 2 new Testnet iterations, events coming up in the USA and Europe, and lots more.
+
+https://t.co/XMNVi3pzBz
+
+#decentralized #oracle #crypto #rustlang #ETHDenver #SmartContracts https://t.co/JUdp9gjg7X",7,0,1,2020-02-07
+11,2020-02-14 19:02:37+00:00,1228394128532287490,witnet_io,"Any bounty hunters at @EthereumDenver this w/e?
+
+Witnet just released a special #ETHDenver @gitcoin bounty of up to 500 $DAI:
+
+""Build a Witnet-based smart contract &amp; dapp which allow people to bet on recurring sports events""
+
+https://t.co/LqQAIcrw0G
+
+#bounty #crypto #bountyhunter https://t.co/dsbVCwol9h",5,1,3,2020-02-14
+12,2020-02-15 22:43:05+00:00,1228812000383336448,witnet_io,@cryptoquick great to see you folks flying the #rustlang flag at ETHDenver this weekend. Do you have any more workshops before the end of the event?,0,0,0,2020-02-15
+15,2020-02-25 10:07:00+00:00,1232245602123120642,witnet_io,"February's Monthly Witnet Community Q&amp;A is out! 
+
+We cover the costs of a Witnet request, Sheikah — the Electron app / interface, and the Witnet 2018 pre-sale. Check it out:
+
+https://t.co/lJ8LUOzgXT
+
+#Witnet #Decentralized #Oracles #QandA #Crypto #rustlang https://t.co/1WyFg7vo3w",3,0,2,2020-02-25
+17,2020-02-26 00:50:49+00:00,1232468021165228032,witnet_io,"VRFs are a key component of the Witnet protocol
+
+BIG THANKS to @goldbe et. al. for their specification effort, and to our friends @irazok &amp; @cao_mario for the outstanding Rust and Solidity libs
+
+Nobody was talking about cryptographic sortition back in 2017, but it's a now thing! https://t.co/xLBDZKDdwn",4,0,1,2020-02-26
+19,2020-03-03 09:38:20+00:00,1234775105894584320,witnet_io,"Bonjour #EthCC! 
+Ready to hear @irazok &amp; @cao_mario present about decentralized workload distribution, verifiable random functions and algorithmic reputation systems?
+
+See you today at 17:30 in Salon Sorbonne (5th floor) https://t.co/KKhwXnDImb",11,0,2,2020-03-03
+26,2020-03-04 10:23:18+00:00,1235148806846636033,witnet_io,"TEEs like SGX have been proposed as a secure solution for enabling smart contracts to do confidencial computation. But hey, side channel attacks DO exist! Watch @cao_mario
+&amp; @irazok explain the issue in depth:
+https://t.co/ANoTxXspsJ https://t.co/XKDb4VlVMT",5,0,2,2020-03-04
+31,2020-03-05 17:02:56+00:00,1235611765058174979,witnet_io,"▓▓▓▓▓▐╲   Witnet is totally   ▕▓▓▓▓
+▓▓▓▓▓▐▕   permissionless.  ▕▓▓▓▓
+▓▓▓▓▓▐▕   Welcome to the   ▕▓▓▓▓
+▓▓▓▓▓▐▕   decentralized       ▕▓▓▓▓
+▓▓▓▓▓▐╱  oracle network.    ▕▓▓▓▓
+
+Soon on the Ethereum mainnet!",8,1,1,2020-03-05
+32,2020-03-10 17:32:21+00:00,1237431108696002565,witnet_io,"February's #MonthlyReport is here. 
+
+Testnet 7.0 is imminent, master keys now exportable, NanoWITs live, Incentive Program Phase 1 underway, Sheikah a standalone product, #ETHDenver was bountiful. 
+
+https://t.co/ZSbZBr4JtC
+
+#decentralized #oracle #crypto #rustlang #SmartContracts https://t.co/9rxWndnHi3",7,0,4,2020-03-10
+33,2020-03-13 16:02:31+00:00,1238495665656926210,witnet_io,"The final Testnet 7 release is live!!!
+Here are the instructions on how to update:
+https://t.co/3aHfivgzZc",7,0,3,2020-03-13
+34,2020-03-22 11:40:48+00:00,1241691292343640065,witnet_io,"Witnet mining doesn't use Proof-of-Work.
+Rather put your CPU / GPU to good use — help us fight COVID-19!
+https://t.co/U5vmvwjLQC",5,0,5,2020-03-22
+35,2020-04-07 18:40:07+00:00,1247595023660711940,witnet_io,"March's #MonthlyReport is here.
+
+Several Testnet iterations, Mainnet claiming process integrated, ETH Bridge on Rinkeby, GOLD/EUR price feed, internal &amp; external audits, ETHCC talks &amp; more. 
+
+https://t.co/jSUxzGpzpD
+
+#decentralized #oracle #crypto #rustlang #SmartContracts https://t.co/ujL6KrOs04",6,0,6,2020-04-07
+36,2020-04-14 17:06:00+00:00,1250108051509690368,witnet_io,Remove one. https://t.co/zd7k5UdeWi,4,1,1,2020-04-14
+41,2020-04-17 11:12:57+00:00,1251106370482507777,witnet_io,"Thanks to everyone that attended today's Witnet #SprintReview!
+
+Anyone who missed it, you can watch the recording at:
+https://t.co/zVjt8f6Dxs
+
+View the Slides at:
+https://t.co/g6DdDVvFda https://t.co/QfBa915nTE",7,0,4,2020-04-17
+43,2020-04-20 14:56:23+00:00,1252249762822336513,witnet_io,"@wookycrypto @JoeContests Not at the moment - we're looking into a shared Gitcoin repo, and a website will likely follow soon after.",1,1,0,2020-04-20
+48,2020-04-22 15:46:19+00:00,1252987102716968961,witnet_io,"@SeikatsuIO @LLLuckyL @Brad_Laurie @BandProtocol @WeAreTellor @iEx_ec We hope to see you at the demo, @Brad_Laurie 🔥",0,0,0,2020-04-22
+52,2020-04-23 14:53:06+00:00,1253336098069086213,witnet_io,"@richiekp101 @TomHeaveyCrypto Here's the source code for ETH/USD, BTC/USD and XAU/EUR:
+https://t.co/B5FNaDqJjW
+Should work on Rinkeby and Görli.
+Feel free to ask any doubts!",2,0,0,2020-04-23
+54,2020-05-01 16:54:41+00:00,1256265797858705410,witnet_io,"@JohnnyZcash Hey Johnny -  Here's an overview of Witnet: https://t.co/HfwxI38V85 
+
+Reach out any time if you have any questions.",1,2,0,2020-05-01
+55,2020-05-07 17:19:10+00:00,1258446286954651653,witnet_io,"Last month, our Tech Lead @aesedepece was a guest on @TomHeavey_'s YouTube channel, discussing all things Witnet. 
+
+Tom is a lovely guy, and his channel is a great way to find honest, unbiased crypto info -- worth a subscribe.
+
+👀Watch here  👉 https://t.co/7GdZqGwfBx",3,0,1,2020-05-07
+57,2020-05-14 10:00:04+00:00,1260872501900558336,witnet_io,"⚡Witnet Community Sprint Review starts in 30 minutes ⚡
+
+When ⏰: 10:30-11:30 am UTC
+Where 🌎: https://t.co/Akm9fpwyvt
+
+Send any questions you have in the YouTube comments 📝 https://t.co/AkooOMXLGI",2,0,1,2020-05-14
+58,2020-05-20 16:21:44+00:00,1263142878458580992,witnet_io,"@TheAstralPirate @gammichan Witnet is a decentralized oracle protocol - currently on Testnet.
+
+Our whitepaper is at https://t.co/YHk0vSynRn
+
+Very happy to answer any questions that you have.",1,1,0,2020-05-20
+60,2020-05-21 17:01:42+00:00,1263515320427466760,witnet_io,"The Witnet community made the decision to build its own chain, to allow the protocol to be autonomous and agile.
+
+Whilst this can sometimes be a challenge and frustrating, moments like this make it feel like the right decision.
+
+#ETH https://t.co/EKMgDuKW7a",12,0,5,2020-05-21
+61,2020-05-25 08:42:52+00:00,1264839337914642432,witnet_io,"@cryptosforfood Glad to have you with us, @cryptosforfood 💪",0,1,0,2020-05-25
+62,2020-05-27 17:26:33+00:00,1265695903719084033,witnet_io,"1/ Phase 2 of the Witnet Testnet Incentive Program is here 🎉
+
+For this phase, we've allocated 🤑:
+- 30,000 $DAI
+- 25,000,000 $WIT tokens
+
+Your chance to get your hands on Mainnet $WIT token to use in Witnet’s Decentralized Oracle Ecosystem.
+
+Sign up now:
+
+https://t.co/76jYqTSKNv https://t.co/2vnQvoufSV",35,6,10,2020-05-27
+64,2020-05-28 07:40:03+00:00,1265910695478153216,witnet_io,@cryptokey101 @cryptokey101 - it's working on my side - are you based in the US?,0,1,0,2020-05-28
+67,2020-05-29 08:03:33+00:00,1266278994237812737,witnet_io,"@Coin4Future @oddgems Witnet is still in Testnet, so no Mainnet tokens exist yet.
+
+In the meantime, we have a Testnet Incentive Program running, with $WIT and $DAI up for grabs - sign up at https://t.co/bqOHwweOTr",1,0,2,2020-05-29
+71,2020-06-03 15:51:33+00:00,1268208710419124227,witnet_io,"@alexhran2 @cryptosforfood Yes! You can sign up here:
+
+https://t.co/76jYqTSKNv",2,1,0,2020-06-03
+72,2020-06-05 08:02:03+00:00,1268815333734977537,witnet_io,"We've just published the security audit results of our #solidity smart contracts conducted by @Red4Sec. Read the full report here, and find out how we've responded to the recommendations 👀
+
+https://t.co/ChG07Ekfnj https://t.co/tzmVDV6GU1",8,0,1,2020-06-05
+73,2020-06-06 20:33:30+00:00,1269366830382174220,witnet_io,"@Joner44484509 @aesedepece @TomHeavey_ If you'd like to be involved now and get your hands on $WIT before everyone else, we have a Testnet Incentive Program running: https://t.co/bqOHwwwqi1",0,0,0,2020-06-06
+74,2020-06-09 08:47:05+00:00,1270276217023979520,witnet_io,"Witnet Tech Lead, @aesedepece, will be presenting today at 11am UTC on the #CogX2020 virtual stage. 
+
+Receive a complimentary festival pass (normally £95) with Code: SPCXSFP100
+
+https://t.co/3lWysgszsI https://t.co/7VHSFnPPje",1,0,1,2020-06-09
+77,2020-06-10 08:31:43+00:00,1270634736587804677,witnet_io,"Witnet has always opposed using SGX as a secure TEE (and prioritizes open endpoints for data requests). With yet another attack on SGX (https://t.co/NrTlcKc3yv), this time revealing attestation keys, the community is confident it made the right decision. https://t.co/1YeWJHrlz1",10,2,2,2020-06-10
+79,2020-06-12 07:57:30+00:00,1271350901802971136,witnet_io,"1/ Sign up for Phase 2 of the Witnet Testnet Incentive Program 🎉
+
+For this phase, we've allocated up to 🤑:
+- 30,000 $DAI
+- 25,000,000 $WIT tokens
+
+Get your hands on Mainnet $WIT tokens, to use in Witnet’s Decentralized Oracle Ecosystem.
+
+Sign up now:
+
+https://t.co/agAttISMAH https://t.co/kCyextOfV1",8,2,0,2020-06-12
+81,2020-06-17 20:23:17+00:00,1273350524734144512,witnet_io,"📢Witnet moves onto Testnet 9.0 tomorrow (Thurs) at 14:00 UTC
+
+This will also be the start of Block Counting for Phase 2 of the Testnet Incentive Program; the first time node operators will be earning Mainnet WIT tokens!
+
+Upgrade or set up your node/s now: https://t.co/XWcoZ1RSsN https://t.co/vmdCpbrPLH",14,1,5,2020-06-17
+83,2020-06-29 16:21:24+00:00,1277638307246153734,witnet_io,"Thanks to @elliot_yagami for this helpful new walkthrough: ""Interacting with a Witnet Node via a Remote Procedure Call (RPC).""
+
+https://t.co/4DbHuYoJUn https://t.co/BLjpFrmo0C",8,0,2,2020-06-29
+84,2020-07-06 16:16:25+00:00,1280173768657317888,witnet_io,"✨ June's Witnet #MonthlyReport is out. ✨
+
+Scalability challenges as ~35k nodes join the Testnet network, improvements to node UX &amp; docker containers, new minerList CLI method, Active Reputation Set merkleization, a keynote at @cognition_x &amp; more…
+
+https://t.co/BbaD6gzdp1 https://t.co/P98jJpRzZ7",4,0,0,2020-07-06
+86,2020-07-14 11:22:24+00:00,1282998881358413825,witnet_io,"Testnet 9.1 is live;  #WitnetPhase2 Participants are mining blocks &amp; earning Mainnet $WIT! 
+
+Join the network before data requests begin to maximize your rewards.
+
+Sign up to the Testnet Program: https://t.co/bqOHwwwqi1
+
+Set up or upgrade your node/s: https://t.co/KPV1eak4Jh https://t.co/XFkvTjdfui",5,1,3,2020-07-14
+87,2020-07-16 11:27:12+00:00,1283724865283948546,witnet_io,"Data Requests are live on Witnet Testnet 9.1. 
+
+Anyone can submit a data request to the network, and query any open API - just set up a node and follow the instructions on the post below.
+
+https://t.co/iBAgpgd1Iw
+
+#permissionless #decentralized #oracle https://t.co/Auduv0oJKz",8,0,0,2020-07-16
+89,2020-07-17 07:52:01+00:00,1284033097101713409,witnet_io,"@Invest_InCrypto Witnet is not on Mainnet yet. However, we have a Testnet Incentive Program running, with 25 million Mainnet $WIT up for grabs to those that participate: https://t.co/bqOHwwwqi1",1,0,1,2020-07-17
+92,2020-07-19 08:25:54+00:00,1284766400968613888,witnet_io,"@decentralistdan @HatariaStanley @joinrepublic @aesedepece The target is within the next couple of months - we have a Testnet Incentive Program running right now to stress-test the network, and things are currently looking good 🤞",3,0,0,2020-07-19
+94,2020-07-20 16:04:47+00:00,1285244271914881026,witnet_io,"Bug Bounties for the Witnet Testnet Incentive Program are live!
+
+Up to 5,000 $DAI reward for finding a critical bug on the Witnet protocol, or submitting and executing an attack on the Testnet Network.
+
+Find out more:
+
+https://t.co/Shfdi7WPQn
+
+#BugBounty #Crypto #Bounty https://t.co/V74gbMzrIE",10,0,6,2020-07-20
+95,2020-07-24 10:20:05+00:00,1286607074865152002,witnet_io,"📢Witnet Public Sprint Review #43 will be going live in 15 minutes.
+
+👁️Watch it live on the Witnet YouTube Channel:
+
+https://t.co/zCQxQD7uMW https://t.co/D1TieXp6NV",8,0,1,2020-07-24
+97,2020-07-28 15:47:18+00:00,1288138975127965699,witnet_io,"Witnet does not use a Proof-of-Work (PoW) or a Proof-of-Stake (PoS) mechanism to prevent Sybil attacks.
+
+Instead, Witnet has built an algorithmic reputation system, and performance-based data request committees, greatly reducing upfront mining costs.
+
+https://t.co/5q07tn1aIq https://t.co/1AeCwBptPD",17,0,1,2020-07-28
+98,2020-08-06 17:22:30+00:00,1291424424432984065,witnet_io,"@Joner44484509 Hi Joner - there won't be a token sale before Mainnet (when WITs will be minted), but there are other ways to get involved in the Testnet Incentive Program, even if you're not techy: https://t.co/bqOHwwwqi1",0,1,0,2020-08-06
+100,2020-08-07 10:11:42+00:00,1291678394908803072,witnet_io,"The Witnet Oracle Network uses VRFs to conduct secret cryptographic sortitions, which are used for leader &amp; committee selections as part of the consensus protocol. 
+
+Cryptographic sortition allows Witnet blockchain to be secure, efficient &amp; scalable.
+
+https://t.co/D8WcZ7zgFD https://t.co/DiwoL4KZwb",19,0,11,2020-08-07
+102,2020-08-09 14:09:50+00:00,1292463099539263493,witnet_io,"@AlessandroAcer4 @3mperat0r Thanks for the shout-out. We're aiming to transition to Mainnet in the coming months. - in the meantime, we have a Testnet Incentive Program running: https://t.co/bqOHwwwqi1",1,1,0,2020-08-09
+103,2020-08-14 09:44:20+00:00,1294208223910731776,witnet_io,"📢Witnet Public Sprint Review #44 will be going live in 45 minutes (10:30am UTC).
+
+👉 We'll be announcing some very important news, so don't miss it!
+
+👁️Watch it live on the Witnet YouTube Channel:
+
+https://t.co/hG94XvEFIQ https://t.co/uTGsylEzD9",6,0,0,2020-08-14
+105,2020-08-16 13:53:02+00:00,1294995587352399873,witnet_io,"@maotsing There won't be tokens for trade before Mainnet (when WITs will be minted), but there are other ways to get involved and earn $WIT and $DAI in the Testnet Incentive Program: https://t.co/bqOHwwwqi1",0,0,0,2020-08-16
+107,2020-08-19 10:16:49+00:00,1296028336842579969,witnet_io,"@Faffizijl @Brad_Laurie Hi FaFfi, WIT Tokens are not trading at this point. If you wish to earn Mainnet WIT tokens, please sign up for the Testnet Incentive Program: https://t.co/bqOHwwwqi1",1,1,0,2020-08-19
+108,2020-08-28 11:28:04+00:00,1299307757460484097,witnet_io,"Thanks to all those that attended Witnet Public Sprint Review #45 🚀
+
+Slides 🖼: https://t.co/iqyB9KlPsg
+
+Watch the recording 👀: https://t.co/jHKKLiPQ1w https://t.co/dbWSfoMoKS",12,0,4,2020-08-28
+109,2020-09-04 13:28:50+00:00,1301874867998949377,witnet_io,"✨ August's Witnet #MonthlyReport is out. ✨
+
+Witnet Mainnet in October! Launch of Testnet 9.2; a more fair and precise network, superblock-based consensus model completed, troubleshoot and debug data requests in real-time, Sheikah v2.0 and more.
+
+https://t.co/zDew4MRigo https://t.co/YUHyAsv5U0",7,0,2,2020-09-04
+110,2020-09-11 11:32:38+00:00,1304382338801991681,witnet_io,"Thanks to all those that attended Witnet Public Sprint Review #46 🚀
+
+Slides 🖼: https://t.co/8BTr0LDH7U
+
+Watch the recording 👀: https://t.co/6OzQDzcJeJ https://t.co/cAlzUro2m6",7,0,0,2020-09-11
+111,2020-09-17 11:27:25+00:00,1306555354722033664,witnet_io,"Witnet's Bug Bounty 🐛 is now live on Gitcoin 🔎
+
+📅💰 Submit before Oct 7 for a Reward Multiplier!
+
+🤑 Rewards of up to $10k in $DAI 
+
+🏃‍♂️ Get started now, and reach out to us if you have any questions
+
+#Crypto #BugBounty https://t.co/u2K8JP27Ny",2,0,0,2020-09-17
+112,2020-10-04 15:11:24+00:00,1312772314619088897,witnet_io,⏱️ 👁️ https://t.co/A0xQQkPG3q,19,1,3,2020-10-04
+113,2020-10-06 19:56:46+00:00,1313568905844199433,witnet_io,@izqui9 @aesedepece @licuende Instructions will be going out tomorrow.,0,0,0,2020-10-06
+114,2020-10-12 02:44:44+00:00,1315483511877439488,witnet_io,"@Caoimhn7 Hi Caoimhn, 
+
+Thanks for your patience. We've been very busy preparing for Mainnet Launch this coming week, and we will reply as soon as we have time. 
+
+Phase 3 of the Incentive Program will open soon!",0,1,0,2020-10-12
+115,2020-10-13 10:51:15+00:00,1315968336489000960,witnet_io,"📢 In less than 24 hours, Witnet - the Permissionless and Decentralized Oracle Network - will launch Mainnet.
+
+📅 9am UTC, Wednesday 14th October 2020.
+
+#WitnetToMainnet https://t.co/O18eWXXLIe",40,7,8,2020-10-13
+120,2020-10-14 09:09:58+00:00,1316305236181553152,witnet_io,✨ Witnet Mainnet Is Live! ✨ https://t.co/lrG6vbu8Xt,59,6,16,2020-10-14
+121,2020-10-15 09:17:42+00:00,1316669571139600392,witnet_io,"@simonjonesLDN @Brad_Laurie @WeAreTellor Hey Simon, the joining link for the Witnet Community Telegram group is this one: https://t.co/645ucPg0ZC",1,1,0,2020-10-15
+122,2020-10-27 08:21:47+00:00,1321004152126885888,witnet_io,"Less than 2 weeks of chain. Metrics keep surging:
+- Data requests: 1302
+- Value transfers: &gt;200K
+- Engaged nodes: &gt;21K
+- Average TX fee: 391,921 nanoWits (~0.0004 wits)
+- Highest fee ever paid: 1 wit
+- Lowest fee ever paid: 0 wit
+- Mempool: all clear https://t.co/zj6tatSPZ5",25,0,8,2020-10-27
+123,2020-10-28 16:44:06+00:00,1321492950090719232,witnet_io,"The Witnet Bug Bounty is open until January 2021 on @gitcoin. 
+
+Find and report a bug 🐞 on Witnet and claim up to 5k $DAI in rewards 🤑
+
+Details here: https://t.co/PxhjFfuPqV
+
+#BugBounty https://t.co/7QoKCMF6mZ",3,0,1,2020-10-28
+124,2020-11-30 12:12:47+00:00,1333383472665272320,witnet_io,"👁️ Since Witnet Mainnet launch last month:
+
+➡️ 75k blocks have been appended to the Witnet chain 
+➡️ 47k unique mining nodes 
+➡️ ~1Mil total nodes 
+➡️ 18k data requests 
+➡️ 520k transactions transferring $WIT
+
+This is just the beginning:
+
+https://t.co/b80SgBXvnw https://t.co/X0TRuylOr6",14,3,3,2020-11-30
+128,2020-12-01 14:52:33+00:00,1333786066352967684,witnet_io,“We didn’t build Witnet just for the intellectual pleasure of creating rock solid software and hitting some striking numbers. We built Witnet because we do believe in the mission of Web 3.0 — enabling censorship resistant software — and we…” — @aesedepece https://t.co/njdY9cpUPK https://t.co/4aqJREHeCN,14,0,2,2020-12-01
+129,2020-12-18 15:19:06+00:00,1339953340126552064,witnet_io,"📣🎅 Join us this Wednesday 23 December for ""Witnet Year in Review and AMA""
+
+- Date 📅: Wednesday 23 December 2020
+- Time ⌚: 2 - 3pm UTC 
+- Location 🌎: Live on the Witnet Telegram Channel: https://t.co/645ucPg0ZC
+
+We have a huge 2021 ahead of us 🧑‍🚀 https://t.co/QNTmkyAJru",12,0,6,2020-12-18
+130,2020-12-22 15:01:39+00:00,1341398502203666433,witnet_io,"The Witnet developers want to say farewell to 2020 with the biggest network upgrade so far, which is also the first planned hard fork, scheduled for Jan 22.
+
+Exciting times ahead!
+https://t.co/nkNw9CRP2M",9,0,6,2020-12-22
+131,2020-12-23 12:00:01+00:00,1341715181559312384,witnet_io,"📣🎅 Join us TODAY (2 hours): 
+
+👉 Witnet Year in Review and AMA 👈
+
+- Date 📅: Wednesday 23 December 2020
+- Time ⌚: 2 - 2.30pm UTC
+- Location 🌎: Live on the Witnet Telegram Channel: https://t.co/7Pw3jTP40Q
+- Got a question❓: Ask it at https://t.co/vSF9QcqWeK https://t.co/XdAG5snQzB",4,0,2,2020-12-23
+133,2020-12-30 16:43:06+00:00,1344323137048080390,witnet_io,"📣 On 23 December, the Witnet Community held the first of this year's #AMA events on Telegram.
+
+Check out the 🙋‍♂️ and 🗣️ here:
+
+https://t.co/6RMshPYRPX https://t.co/epZv38fLn4",12,1,3,2020-12-30
+134,2020-12-31 17:56:30+00:00,1344703994598486018,witnet_io,"🎉✨ Witnet 2020 Year In Review is out.
+
+🙏 A huge shoutout to everyone in the Witnet community for making #2020 Witnet's biggest year to date. 
+
+🥂 Here's to a #DeFi and #crypto filled 2021.
+
+https://t.co/h40wqrm8ev https://t.co/z9tUsqs8Gl",10,1,3,2020-12-31
+135,2021-01-12 12:12:27+00:00,1348966066597359617,witnet_io,"@JoshuaTobkin @yodamnyou Hi Joshua - 
+
+Just following up on this; the 1m nodes is an estimation, based on the characteristics of the cryptographic sortition mechanism Witnet uses. 
+
+We elaborated a little more on this in Q5 here: https://t.co/6RMshPYRPX",0,1,0,2021-01-12
+137,2021-01-19 08:14:52+00:00,1351442990615691264,witnet_io,"If you ask me, both are simply 500,000,000 nano$WITs 😋 https://t.co/mv9EG5Y99n",6,1,2,2021-01-19
+139,2021-01-20 16:35:37+00:00,1351931397607354368,witnet_io,"💊 Witnet Tech Pills Episode 1: Transaction And Block Finality
+
+👉 In this series, we will cover some of the technical mechanisms underlying the Witnet Protocol in a simple and digestible way.
+
+https://t.co/zNk3njUSYQ https://t.co/ksqgAzH4TU",11,0,3,2021-01-20
+140,2021-01-21 17:40:59+00:00,1352310236997152773,witnet_io,"📣 The Witnet network will move to Mainnet 1.1 tomorrow (Fri) at 9am UTC
+
+👉 This upgrade is the biggest to date, and introduces several key new features
+
+👁 Read more about the new network, and find out how to update your nodes now:
+
+https://t.co/nkNw9CRP2M https://t.co/Cm2NT7e0af",14,0,4,2021-01-21
+141,2021-02-03 14:19:10+00:00,1356970490678685699,witnet_io,"RiveX (@RiveXFoundation) will be using the @witnet_io Protocol to power Sonce #NFT platform &amp; other #DeFi initiatives. 
+
+Witnet's decentralized oracle network will deliver high-value off-chain data to a variety of mechanisms. 
+
+Find out more:
+
+https://t.co/QbyDDqw2jJ
+
+$RVX $WIT https://t.co/lCFGLDQG9S",37,3,16,2021-02-03
+142,2021-02-12 14:49:56+00:00,1360239722900127749,witnet_io,"Introducing Witnet Improvement Proposal no. 9: “Adjust Mining Difficulty”
+https://t.co/oHuZj9v9sG",11,0,5,2021-02-12
+143,2021-02-18 14:41:39+00:00,1362411965348511749,witnet_io,"**LAST CALL ON WIP-0009**
+Last call for comments on WIP-0009 (""Adjust mining probability"") will be over by Monday Feb 22.
+Activation is proposed for March 16.
+
+Specification: https://t.co/iwIGHIeFOe
+
+Announcement: https://t.co/oHuZj9v9sG",8,0,3,2021-02-18
+144,2021-02-20 10:56:51+00:00,1363080166210207747,witnet_io,"The chain is undergoing a long-ish period of high rollback rate.
+This shouldn't be a big drama—as always, check for confirmations when receiving and sending transactions—delays are to be expected in this scenario.
+Will keep you updated!",5,1,1,2021-02-20
+146,2021-02-21 11:10:21+00:00,1363445954452590592,witnet_io,"The situation got milder for hours, then worse overnight.
+
+As the superblock signing committee decreased, some nodes ended up in a bad state.
+
+Protocol self healing mechanism may solve it, but a forced fix will be released as an upgrade shortly. https://t.co/QJcdvU90Tc",1,1,0,2021-02-21
+148,2021-02-22 08:41:14+00:00,1363770812860366848,witnet_io,"The self healing mechanism kicked in overnight and we have a winning, healthy chain now. 🚀
+
+Some nodes may be in an incompatible state.
+
+The devs are working on an upgrade that will reconcile the forked nodes and ensure this won't happen anytime soon.
+
+Will keep you updated! https://t.co/5rK55cBCPk",0,0,0,2021-02-22
+152,2021-02-23 17:07:01+00:00,1364260485479223302,witnet_io,"Here's the post-mortem for the current situation, with immediate and long term actions to be taken:
+https://t.co/ZsXrtUNHxf https://t.co/LKA6THWiVK",0,1,0,2021-02-23
+154,2021-02-25 13:11:11+00:00,1364925911867531264,witnet_io,"The Witnet-Rust 1.1.3 release that helps forked nodes to resynchronize to the leading chain is already live:
+https://t.co/uh6gJ68x3I
+
+The Sheikah backend has been resumed and everything is back to normal.",2,0,0,2021-02-25
+155,2021-03-18 18:00:23+00:00,1372608838784987136,witnet_io,"Activation of WIP-0009 has been deferred until all remediation measures for WIP-00010 are in place.
+
+Deferral PR: https://t.co/O0yUEOOtys
+
+WIP-0009: https://t.co/iwIGHIeFOe
+
+WIP-0010: https://t.co/LaianPqhpu",2,0,0,2021-03-18
+156,2021-04-12 16:50:30+00:00,1381650946657226754,witnet_io,"@iHODL1 Answered here:
+https://t.co/jGsaKT2yKF",0,0,0,2021-04-12
+162,2021-04-13 21:49:28+00:00,1382088573923508224,witnet_io,"@iHODL1 No tokens sales.
+The WIT token is already out there for you to mine it or get it from someone else.",0,0,0,2021-04-13
+163,2021-04-20 10:37:25+00:00,1384456160598626307,witnet_io,"📣 Join us for today's Community Discussion, covering upcoming Witnet Improvement Proposals and what they mean for the network. 
+
+Date 📅: Tuesday 20 April 2021
+Time ⌚: 14:00-14:30 UTC
+Location 🌎: Live at https://t.co/MG2Lri28lt
+
+Have a question❓: https://t.co/n2FJ0h6rWw https://t.co/Ie1IJt8X82",2,0,1,2021-04-20
+166,2021-04-24 20:57:40+00:00,1386061805798240257,witnet_io,"@El_ZTIR There's a ""witnet_market"" channel on Telegram where people from the community trade OTC.",0,1,0,2021-04-24
+167,2021-04-27 10:28:43+00:00,1386990685711183873,witnet_io,"Hey, Listen! 🧚
+
+Don't forget to update your Witnet nodes in preparation of tomorrow's network upgrade!
+
+Here's what's in witnet-rust 1.2, and how to update:
+https://t.co/P22azFvAhP https://t.co/Rwc3ALPFsU",4,0,1,2021-04-27
+168,2021-04-28 09:44:14+00:00,1387341880963313670,witnet_io,"We're still waiting to see 1.2 blocks confirmed in the chain before calling it a complete success, but that's only a matter of time as the WIP-0011 recovery mechanism is currently working on getting a majority of nodes to agree on a common tip of the chain.
+Stay tuned!",2,0,0,2021-04-28
+170,2021-04-29 13:32:25+00:00,1387761690524147712,witnet_io,"@leifengcrypto It is safe.
+You should be able to sync your Sheikah wallet up to the latest block (#376299) normally.",0,0,0,2021-04-29
+174,2021-04-30 11:24:40+00:00,1388091929833902082,witnet_io,"WIP-0011 works! 😎
+Blocks that were not valid under 1.1 validation rules are now confirmed in the chain with the most ARS and VRF power.
+Now there's no way back: the Witnet community successfully completed its second major upgrade 🚀",5,0,1,2021-04-30
+176,2021-05-02 11:17:38+00:00,1388814938739777537,witnet_io,"It has come to our attention that someone created a fake Ethereum contract for the Witnet token.
+
+This is a scam, please don't trade it. There is no WIT on the Ethereum network as an ERC-20.
+
+The WIT token is native to the Witnet blockchain. https://t.co/xYdKjix0a4",6,2,1,2021-05-02
+180,2021-05-05 15:32:43+00:00,1389966295383396358,witnet_io,"Intrigued about the cryptoeconomics of Witnet?
+This article makes a quick intro, and puts it into the context of what other oracle projects are doing these days. https://t.co/drmzB3kOXQ",18,0,7,2021-05-05
+182,2021-05-11 15:55:34+00:00,1392146371218743297,witnet_io,👀 https://t.co/zXJ6NM0ebq,3,3,0,2021-05-11
+183,2021-05-26 20:37:22+00:00,1397653108327600135,witnet_io,Retweeting this for the blockchain metaphor — despite the name of this cable 😂 https://t.co/2kpau71cIw,7,1,2,2021-05-26
+186,2021-05-27 18:39:41+00:00,1397985876945350656,witnet_io,Will unblur a little each day from now until Monday. https://t.co/mTgaJZRwwR,10,1,0,2021-05-27
+187,2021-05-28 17:04:55+00:00,1398324419005665282,witnet_io,First unblur out of 4. https://t.co/leGnqAK5yR,13,0,0,2021-05-28
+188,2021-05-29 23:00:14+00:00,1398776224395190274,witnet_io,2nd unblur out of 4. https://t.co/ttRJwL5SzC,12,1,2,2021-05-29
+189,2021-05-30 19:28:10+00:00,1399085241726386179,witnet_io,Last unblur before final reveal tomorrow! https://t.co/A5lk0Y88Ch,7,1,3,2021-05-30
+190,2021-05-31 12:46:35+00:00,1399346567912562688,witnet_io,"We've been working with @AragonProject on a new @Witnet_io integration that will allow DAO voting on @discord using emojis (👍) (👎) . This allows DAOs to make payments (and even smart contract interactions) in a cooperative, democratic and accessible way 🤯 https://t.co/142qdV03Td",16,1,2,2021-05-31
+196,2021-06-02 18:22:31+00:00,1400155884920115202,witnet_io,"How we want next July to feel like:
+cc/ @EthCC @Ethereum_France https://t.co/Ns43FnJeUY",9,0,1,2021-06-02
+198,2021-06-03 10:26:03+00:00,1400398367499374594,witnet_io,@shogochiai 分散型オラクルネットワークは、まもなくブロックチェーン業界の重要な大変革になるでしょう！,1,1,0,2021-06-03
+200,2021-06-04 15:43:31+00:00,1400840647616208902,witnet_io,@markkktan @WitSwap Then... https://t.co/myzanmI3qO,0,0,0,2021-06-04
+201,2021-06-07 14:58:29+00:00,1401916479772180483,witnet_io,"Making voting and governance usable and accessible for everyone is an important stepping stone for expanding the usage of DAOs beyond the crypto sphere and improving the democracy of organizations worldwide:
+https://t.co/rgjGgF9ida",5,0,1,2021-06-07
+204,2021-06-08 11:02:46+00:00,1402219546375753732,witnet_io,"✅  The rescue committee introduced last Friday to solve the network issues has successfully been withdrawn at 12pm CEST. 
+
+We're back to a pseudorandomly sampled ARS-based superblock voting committee.",2,1,0,2021-06-08
+213,2021-06-09 20:27:32+00:00,1402724064490315779,witnet_io,@JumperWave We're passionate about having passionate people like you on this community 👏👏👏,2,0,0,2021-06-09
+216,2021-06-10 20:31:37+00:00,1403087479528464392,witnet_io,"@discord The one that enables online communities to democratically decide how to spend cryptocurrencies by voting on proposals using emoji reactions!
+https://t.co/rgjGgF9ida",4,0,0,2021-06-10
+218,2021-06-11 11:30:26+00:00,1403313670562721795,witnet_io,"@0xtuba @Sim_Pop @ethstatus Specially now that you can connect your Aragon v2 DAO to your @discord server and run votings there on how to spend the funds 😏
+https://t.co/rgjGgF9ida",1,0,0,2021-06-11
+219,2021-06-14 14:58:19+00:00,1404453149818163204,witnet_io,"A new Witnet Improvement Proposal has been published  and proposed.
+======
+WIP-0015 amends the data request weight specification from WIP-0007 to match the current implementation in witnet-rust.
+https://t.co/gPPMi2sZlG",3,0,0,2021-06-14
+221,2021-06-21 17:49:22+00:00,1407032913108078596,witnet_io,"If summer 2021 wasn't looking hot enough, here's the Witnet community to make it LIT 🔥😎🔥
+https://t.co/OPB7tErXs0",13,0,5,2021-06-21
+223,2021-06-25 09:52:32+00:00,1408362465541435393,witnet_io,"Excited to see @figmadesign thrive! The Witnet devs have been using it for quite a while, and everything in the Sheikah wallet app UI was designed collaboratively on Figma. https://t.co/jBHHwc1rjJ",3,0,0,2021-06-25
+224,2021-07-06 17:47:44+00:00,1412468321874853904,witnet_io,"Some powerful ideas, like DAOs, are just unstoppable.
+Mix that with @AragonProject's attention for decentralization and UX, and this is the result: thriving online communities cooperating and building 24/7 🦅 https://t.co/xKUKLsEZwS",6,0,2,2021-07-06
+225,2021-07-09 14:56:19+00:00,1413512346027233280,witnet_io,"👀 Witnet-Rust 1.3.0 introduces one of the most important upgrades to the Witnet protocol so far.
+
+🪄 Get to know ""TAPI: Threshold Activation of Protocol Improvements"":
+https://t.co/yL0ZPug1JN",6,2,2,2021-07-09
+227,2021-07-10 10:59:28+00:00,1413815125891600384,witnet_io,"@Paulitadobom Feel free to reach us at ""info(at)witnet(dot)foundation"" 😉",0,0,0,2021-07-10
+228,2021-07-12 19:59:51+00:00,1414675894904541184,witnet_io,"This year's @EthCC is very special for us:
+- First event after mainnet launch 📣
+- We're sponsoring 🧧
+- We're hosting a physical NFTs game for the the fun (and profit!) of attendees (+ info soon 👀)
+- We're partnering with @Kleros_io and more in organizing the EthCC Hackathon 🤗",12,0,4,2021-07-12
+233,2021-07-14 10:46:08+00:00,1415261322913198082,witnet_io,"We've been 24h into TAPI signaling!
+
+Seems like node operators are updating little by little, and more than 50% of the mining power is already signaling support.
+
+Can't wait to see if we'll reach the required ""80% over 2 weeks"" threshold for activation at first try! ⏰😁 https://t.co/q1YM7OOpwh",3,1,1,2021-07-14
+235,2021-07-15 12:07:15+00:00,1415644126586998787,witnet_io,"😍We’re delighted to sponsor EthCC Hackathon 2021!
+
+🏆Come and join us in-person, get the chance to build your product and win prizes!🏆
+
+📅23/07 - 25/07 → Paris, France!
+
+✅Register here → https://t.co/7RVwPnAOCr https://t.co/bhhEEep1Kf",27,1,8,2021-07-15
+236,2021-07-16 21:26:03+00:00,1416147139634376704,witnet_io,I want to play a game... 🃏 https://t.co/UFcyotRtIX,7,0,3,2021-07-16
+237,2021-07-17 08:53:42+00:00,1416320193400348672,witnet_io,@KariDupuis6 @Chris__Farmer @aesedepece @EthCC Look at https://t.co/ZnBxEr6Uhm 😊,1,0,0,2021-07-17
+238,2021-07-18 10:47:05+00:00,1416711112549093381,witnet_io,"48h to @EthCC!!!
+
+#EthCC and Paris have always felt like second home to the Witnet devs:
+- EthCC[1]: first pitched Witnet to VCs 
+- EthCC[2]: our first talk about the Witnet oracle
+- EthCC[3]: we presented 4, yes, 4 talks based on our R&amp;D
+- EthCC[4]: sponsoring and presenting 💪",3,1,0,2021-07-18
+244,2021-07-19 22:21:42+00:00,1417248309199130624,witnet_io,Everything ready for the show at #EthCC https://t.co/fkJVyc8nbw,8,0,1,2021-07-19
+246,2021-07-20 11:47:44+00:00,1417451151985975298,witnet_io,The Witnet booth at EthCC has been crowded all day!!! https://t.co/oWyUa6a4Yg,28,4,7,2021-07-20
+248,2021-07-21 08:44:38+00:00,1417767463190769664,witnet_io,Crypto people doing their crypto magic ✨ https://t.co/ACPwTUMgK9,5,0,2,2021-07-21
+251,2021-07-22 09:17:14+00:00,1418138054401921029,witnet_io,Live feed of Claudia's talk on the upcoming optimistic version of the Winter&lt;&gt;Ethereum bridge: https://t.co/FBhs9KnAXS,2,0,1,2021-07-22
+253,2021-07-23 14:44:16+00:00,1418582744251174914,witnet_io,@ChinaMao5 @uniswapgrants @Kleros_io @graphprotocol @ourZORA @unionprotocol @UmbNetwork @DefiNft @TheArcadiaGroup @liquidstar_io @KryptoSphere_ DM us and we'll send you a pic of the Witnet POAP. Cheers!,4,5,0,2021-07-23
+254,2021-07-27 11:12:16+00:00,1419978940916060163,witnet_io,"Boom!
+Witnet improvement proposals 0014 and 0016, aka ""TAPI"" are now live on the Witnet mainnet right after the 2-weeks signaling period finished with 81% blocks signaling support for the upgrade 🚀 https://t.co/xgnlbqyYry",5,0,3,2021-07-27
+255,2021-08-09 19:04:29+00:00,1424808820082098178,witnet_io,@elies @hermez_network Introducing IBM: Iberian Blockchain Mafia 😎,1,0,0,2021-08-09
+257,2021-08-10 20:53:02+00:00,1425198528326995979,witnet_io,"Attention please.
+Next stop: Lisbon
+(@0xliscon + @ETHLisbon + etc.)
+Who's coming??? https://t.co/MuhWpaOcDw",21,2,4,2021-08-10
+260,2021-08-31 14:44:08+00:00,1432715835815124993,witnet_io,"9/10 💞
+We're soon publishing an interview that better explains what we're building together.
+
+We love to work side by side with other BUIDLers and  blend ourselves into their communities.
+
+We aren't afraid to get our hands dirty and contribute also code!
+https://t.co/Qtqwx9R2Of",2,1,0,2021-08-31
+271,2021-09-01 17:02:45+00:00,1433113107447128071,witnet_io,"@cao_mario If the proposal moves forward, this could become the first WIP to be activated through TAPI after TAPI itself:
+
+https://t.co/oVFiZdLXv0",3,0,0,2021-09-01
+273,2021-09-02 08:26:36+00:00,1433345600171479043,witnet_io,"Witnet-Rust 1.3.1 ""Paramount"" is out!
+
+Release type: minor
+Criticality: non-critical
+Consensus: non-breaking
+Backwards compatibility: non-breaking
+
+Includes many bugfixes and adds a CLI method for checking information about the $WIT token supply.
+
+https://t.co/zJcLx0y6KH",4,0,0,2021-09-02
+274,2021-09-06 08:58:31+00:00,1434803185609281538,witnet_io,"Me: gonna setup a Witnet node on this Raspberry Pi and start mining some $wit!
+Also me, waiting for a first mined block for weeks: https://t.co/trB5cW7JKP",5,0,1,2021-09-06
+276,2021-09-07 13:19:46+00:00,1435231317373947906,witnet_io,"8/13 🦅
+We published this detailed tutorial on how to run the @AragonProject&lt;&gt;@witnet_io&lt;&gt;@discord integration (our famous ""Aragon Bot"") on your own infrastructure:
+
+https://t.co/3i7W02IgIq",3,1,1,2021-09-07
+294,2021-09-08 07:45:34+00:00,1435509603769503746,witnet_io,"GM, our witty frens!
+Who else is feeling ""bearly"" awake today? ✋ https://t.co/j65nCW7SGG",3,1,0,2021-09-08
+296,2021-09-09 20:32:55+00:00,1436065102118199303,witnet_io,@AgoraSpaceDAO Can't wait! Happy to keep contributing!,1,0,0,2021-09-09
+297,2021-09-13 17:57:43+00:00,1437475594695057409,witnet_io,So much good stuff in the pipeline... 👀 https://t.co/ivgZK8DsxD,9,2,2,2021-09-13
+298,2021-09-14 07:50:38+00:00,1437685206018842626,witnet_io,"Gm ladies, gentlemen and etcetera!
+Today is Tuesday, but instead of the ""This Week in Witnet"" thread, you'll be getting something much more special... 
+✨✨✨ https://t.co/tTRxobUO7c",8,2,0,2021-09-14
+303,2021-09-15 07:37:32+00:00,1438044297211883520,witnet_io,@pHB5ndH73NpJPae @SmallCapScience @bobanetwork 👀 https://t.co/Vq3L9VSWiB,1,1,0,2021-09-15
+306,2021-09-17 17:19:06+00:00,1438915427019726855,witnet_io,"6/7 🇵🇹
+In our continued support for @0xliscon + @ethlisbon, we just released an agenda minisite listing all kind of side-events going on during the Lisbon Blockchain Week (Oct 18-24). 
+
+https://t.co/3bGSpTDPfe",9,2,0,2021-09-17
+317,2021-09-21 18:10:44+00:00,1440377973601824770,witnet_io,"Average CPU when you're building witnet-rust and @rustlang's Cargo says ""Compiling rocksdb-sys"" https://t.co/yJtasv0JHo",3,0,0,2021-09-21
+318,2021-09-22 13:42:06+00:00,1440672758711537667,witnet_io,@AgoraSpaceDAO @albiverse @insideNiMA @guildxyz Count on us to make it happen 🚀,2,1,0,2021-09-22
+319,2021-09-23 11:32:44+00:00,1441002587491291139,witnet_io,"Crushing support for WIP-0017, 0018 and 0019! 🗳️🚀
+
+- During the first 48h of signaling, 84.2% of the blocks were supportive to these WIPs
+- Support keeps increasing as more nodes upgrade to witnet-rust 1.4.0, with a recent rate of 87% https://t.co/9TrJL8O4jr",3,1,0,2021-09-23
+321,2021-09-24 19:48:15+00:00,1441489678566182912,witnet_io,Congrats team @bobanetwork! https://t.co/cQtmNENdx3,2,0,0,2021-09-24
+323,2021-09-28 16:50:07+00:00,1442894399218667523,witnet_io,"👛 A new release of the Sheikah Witnet Wallet is now live! 
+
+🆕 Sheikah v1.9.6 brings a lot of improvements (please read this thread for more details)
+
+⬇️ To update now, simply open your Sheikah wallet and click 'Ok' when offered to update.
+
+Download page:
+https://t.co/0osSxdW3YF",4,1,0,2021-09-28
+327,2021-10-04 11:58:24+00:00,1444995314134433799,witnet_io,"Now there's now way back. 🚀
+
+With 93.90% blocks in the last 2 weeks signaling support for WIP 17-18-19, the Witnet network will automatically upgrade itself tomorrow at 9am UTC, activating 🎲 Random Number Generator (RNG) functionality, and a new 🔛 Median reducer. https://t.co/OJvVBlELPc",4,1,0,2021-10-04
+330,2021-10-05 17:26:45+00:00,1445440334356492288,witnet_io,"5/6 🔗
+
+Behind the scenes, we're preparing the release of the next evolution of the Witnet&lt;&gt;Solidity bridge and a revamped version of all our price feeds — which will be live on the mainnets of Ethereum, Boba and other EVM-compatible chains in a matter of days!",2,1,0,2021-10-05
+337,2021-10-07 17:15:23+00:00,1446162250667024388,witnet_io,"👁‍🗨 Get ready for the Witnet Community Call!
+
+📅 Thursday, October 14 @ 7pm CEST
+
+📍Discord: https://t.co/oHFfQW8fv5 https://t.co/ERwYyePDUv",1,0,0,2021-10-07
+339,2021-10-08 07:52:05+00:00,1446382880050065411,witnet_io,"Just as oracles themselves, DAOs are one of the key building blocks of our future.
+We're proud to support @TheDAOist_'s mission along these other awesome BUIDLers.
+See you in Lisbon! 🌉🇵🇹 https://t.co/z1KWOprLvD",4,1,0,2021-10-08
+341,2021-10-11 17:54:46+00:00,1447621713198559240,witnet_io,Happy Monday! ⚡️ https://t.co/kKiRKDae3H,5,0,0,2021-10-11
+342,2021-10-13 18:48:22+00:00,1448359978893467655,witnet_io,"Are you ready, Witnet fam? 🔥🔥🔥
+
+Make sure to tune in, we'll share something special! 😍
+
+Join our Discord: https://t.co/0ZMUsx9V8K https://t.co/J8AlmNu0lp",0,0,0,2021-10-13
+343,2021-10-14 18:29:11+00:00,1448717535742992389,witnet_io,Who's playing #WittyCreatures at @0xliscon ? https://t.co/kuRNg3MHPs,5,0,0,2021-10-14
+345,2021-10-15 17:49:18+00:00,1449069887092035584,witnet_io,"Shout out to rockstar sponsors that support the public good and the best events in the space 👏
+
+@PrimeDAO_ @BalancerLabs @NEARProtocol @enzymefinance @1kxnetwork @dxdao_ @voteWithTally @MetisDAO @cryptoplaza_es @AragonProject @ConsenSysMesh @brinktrade @vita_dao",8,2,0,2021-10-15
+353,2021-10-16 00:57:32+00:00,1449177658424713217,witnet_io,@abbey_titcomb @ETHLisbon Who isn't?????? 😉,0,0,0,2021-10-16
+354,2021-10-18 19:05:06+00:00,1450176128619003906,witnet_io,"Excited to have @1inch's unicorn as one of the #WittyCreatures in our NFT minting game during @0xliscon. Its furious expression makes for all sorts of funny faces! 🤩
+
+More info on the game and how to play:
+https://t.co/Gyj0OZjk0f https://t.co/XryeujWC6U",46,9,9,2021-10-18
+366,2021-10-19 07:52:28+00:00,1450369240553476096,witnet_io,@raph_alice Lisbeth preview going out later today 😋,1,0,0,2021-10-19
+367,2021-10-20 19:20:53+00:00,1450904876620435467,witnet_io,@YAPGlobalTeam @0xYieldFarmer @Benjamin918_ @QiDaoProtocol @0xliscon All I see is a couple of eggs awaiting incubation... 🥚🥚😋,1,0,0,2021-10-20
+375,2021-10-21 17:21:54+00:00,1451237321274187778,witnet_io,"The #WittyCreatures NFTs will be mintable on mainnet in a few minutes. We messed environments a bit, lol. Bear with us! 😂",4,0,0,2021-10-21
+384,2021-10-22 10:02:11+00:00,1451489051165532160,witnet_io,"27 #WittyCreatures minted already!
+https://t.co/Kl3lDPpt6J https://t.co/NSkdyCsa08",3,1,0,2021-10-22
+387,2021-10-23 22:53:49+00:00,1452045623612649479,witnet_io,@0xEmre_ @Finfox3 @0xliscon Show it! 😁,0,1,0,2021-10-23
+395,2021-10-24 09:53:09+00:00,1452211554083029000,witnet_io,"@0xEmre_ @Finfox3 @0xliscon Let us check that one. It was a silly coincidence that the background color matched the complexion of the Beluga! Can be fixed, don't worry.",2,1,0,2021-10-24
+396,2021-10-25 15:29:15+00:00,1452658523238719501,witnet_io,@_franzihei It's so lovely!!! 😍,4,0,0,2021-10-25
+398,2021-10-26 16:01:01+00:00,1453028903501586433,witnet_io,"Apparently, the #WittyCreatures eggs have now a life of their own 🐣👀 https://t.co/wQi1hIcqjp",9,0,2,2021-10-26
+400,2021-10-28 08:06:36+00:00,1453634290693050373,witnet_io,@eth_barcelona Does Madrid count as a suburb of Barcelona? 😋,0,0,0,2021-10-28
+401,2021-10-31 11:24:00+00:00,1454771130380787713,witnet_io,Requesting faucet funds into 0x8d86Bc475bEDCB08179c5e6a4d494EbD3b44Ea8B on the #Rinkeby #Ethereum test network.,1,0,0,2021-10-31
+402,2021-11-05 18:47:05+00:00,1456694573565100032,witnet_io,"😍 11/11 Witnet Community Call! 😍
+
+ 🔊 Agenda:
+- Community &amp; Tech Updates
+- Witnet Ambassador Program
+- Witnet Grant Program Launch
+- Community Q&amp;A
+
+📅 Thu, Nov 11 @ 7pm CET
+
+📍 Discord: https://t.co/0ZMUsx9V8K https://t.co/yL4kwMy65q",7,0,1,2021-11-05
+404,2021-11-09 20:54:16+00:00,1458176132382085132,witnet_io,"💜 Dear Witnet fam,
+
+We’re kindly reminding everyone about our upcoming community call! We’re looking forward to meeting all of you!
+
+📅 Thu, Nov 11 @ 7PM CET
+
+📍 Discord: https://t.co/0ZMUsx9V8K
+
+❓Share your questions: https://t.co/e1EKUw3deV https://t.co/5mc0cHZ8G0",3,0,0,2021-11-09
+406,2021-11-12 09:35:15+00:00,1459092416888254468,witnet_io,Witnet ❤️ @poapxyz https://t.co/1xNyx9a8Z5,3,0,0,2021-11-12
+408,2021-11-15 19:26:09+00:00,1460328285439770636,witnet_io,https://t.co/FeI2MGXyPj,14,0,0,2021-11-15
+409,2021-11-19 21:12:00+00:00,1461804472901017610,witnet_io,@dauno_da Exactly! 😋,0,0,0,2021-11-19
+410,2021-11-20 13:32:27+00:00,1462051212702933000,witnet_io,"THE WITNET NATIVE TOKEN ($WIT) WILL FINALLY BE LISTED ON DECEMBER 1st ON @gate_io 
+
+Easy access and liquidity of Wit is important to incentivize node operators to secure the network and keep the oracle running smoothly.
+
+Great times ahead for the Witnet community! https://t.co/yYxpUurDdM",48,6,8,2021-11-20
+411,2021-11-23 18:32:42+00:00,1463213935604248582,witnet_io,"Today, Witnet Foundation is proud to launch the Witnet Grant Program — an incredible initiative to support the growth and development of Witnet ecosystem!
+
+More info + application form:
+https://t.co/SIvySgs71g https://t.co/DismMTykPl",72,10,43,2021-11-23
+412,2021-11-25 20:32:27+00:00,1463968847879409664,witnet_io,"For more info on block size limits:
+https://t.co/06V13Rlngj",6,0,1,2021-11-25
+421,2021-11-26 08:56:49+00:00,1464156175923134465,witnet_io,"@ahmetozturkk0 @FoxShill @gate_io When we started to build Witnet, the other project didn't exist yet. And by the time we launched, they were already dead. Sorry for the inconvenience!",0,0,0,2021-11-26
+422,2021-11-27 12:38:32+00:00,1464574357800431622,witnet_io,"HAPPY WITNET WHITEPAPER DAY! 📄🎂🥳
+Today 4 years ago, the Witnet whitepaper was published on @arxiv by @aesedepece, @licuende, et. al.
+What we ended up implementing is even better than we outlined, but still the core principles are the same!
+Read it now: https://t.co/YHk0vSynRn https://t.co/wP6Bycs58U",31,1,8,2021-11-27
+423,2021-11-28 03:25:48+00:00,1464797648725098497,witnet_io,@BryceChen19 Welcome to the mining party!!! ⛏️ 🎉,0,0,0,2021-11-28
+424,2021-11-29 18:56:06+00:00,1465394154272444421,witnet_io,"We are delighted to announce the partnership with @Conflux_Network  to expand the adoption of accurate, efficient, and secure data retrieval methods to a global audience.
+
+Learn more 👇
+
+https://t.co/V1z39zPZXd",53,5,24,2021-11-29
+425,2021-11-30 10:14:16+00:00,1465625216458145799,witnet_io,We are doing an AMA with @Conflux_Network today @ 3pm UTC. Don't miss it! 🔊✨ https://t.co/BnahzA9TaI,5,0,1,2021-11-30
+427,2021-12-01 14:32:34+00:00,1466052609924648968,witnet_io,"(Please ignore this tweet)
+This is to register 1 representative with domain ""____@witnet.foundation"" to manage Witnet project's self-reporting dashboard on CMC.",5,2,0,2021-12-01
+428,2021-12-02 17:50:14+00:00,1466464739152834569,witnet_io,"🎉 We are happy to announce our successful integration with @TriAngle_DAO, a decentralized lending protocol built on @Conflux_Network
+
+Learn more 👇
+
+https://t.co/XUQ66XrbUC",53,0,11,2021-12-02
+429,2021-12-03 10:00:01+00:00,1466708795170729990,witnet_io,"Gm! This is what an average day looks like in the Witnet blockchain:
+
++ 447620 $WIT minted
++ 679 data requests solved
++ 1651 value transfer transactions processed
++ 609 new addresses get to mine a block
++ 933 new addresses get to solve a data request https://t.co/YOscafiRNN",27,3,7,2021-12-03
+430,2021-12-08 11:22:31+00:00,1468541494021836808,witnet_io,"👁️Witnet is hiring! 👁️
+
+🔥We’re looking for the rockstars to join us 🔥
+
+1⃣ Content Creator
+2⃣ Community Builder
+3⃣ Developer Advocate
+
+Learn more &amp; Apply 👇
+https://t.co/LYVLopDY09",16,1,3,2021-12-08
+431,2021-12-14 22:07:34+00:00,1470878155804229644,witnet_io,"Lol @CoinMarketCap everyone knows that $WIT is largely undervalued... but this was too much of an overreaction! 😜
+#pricebug https://t.co/fGuLdsoVby",9,2,2,2021-12-14
+432,2021-12-15 21:09:55+00:00,1471226035521916932,witnet_io,@bitfalls @EthCC Btw we're preparing something BIG for @EthereumDenver 🤠,2,0,0,2021-12-15
+434,2021-12-17 07:57:06+00:00,1471751293572206600,witnet_io,"GM, WAGMI 🤝",11,4,2,2021-12-17
+435,2021-12-19 16:09:59+00:00,1472600108000817155,witnet_io,@BeerBuff08 @Conste11ation Note taken!,0,0,0,2021-12-19
+436,2021-12-20 11:26:54+00:00,1472891251787800581,witnet_io,@0x_intern witnet.eth,0,0,0,2021-12-20
+438,2021-12-22 23:55:05+00:00,1473804315789869067,witnet_io,@DaigaroC @StarkWareLtd Loading...,1,0,0,2021-12-22
+439,2021-12-23 12:09:31+00:00,1473989141385908225,witnet_io,"And we'll be working side by side with the innovators buidling in those many chains, making sure that whatever is the next big thing in crypto, we'll be there in the frontline, being their oracle of reference! https://t.co/AXbJW1rLD6",9,1,1,2021-12-23
+440,2021-12-26 22:55:42+00:00,1475238923194585091,witnet_io,@oklgio @MetisDAO @themoontography @chainlink @DIAdata_org Witnet powered METIS/USDT price feed is coming really soon. Let's connect and we'll help you get this done! 🚀,1,1,0,2021-12-26
+441,2021-12-27 14:23:15+00:00,1475472348677615618,witnet_io,We're delighted to partner with @MetisDAO and further integrate Witnet into the ever-growing Metis ecosystem! 🤝 https://t.co/UI40Hea2sy,10,1,1,2021-12-27
+444,2021-12-28 12:58:12+00:00,1475813334196924422,witnet_io,"if you’re building something utilising Witnet or if you’d like to contribute to the growth of Witnet ecosystem, we’d love to hear from you! 💜
+
+consider applying for Witnet Grant Program 🚀
+
+https://t.co/exoqHCs051",5,0,1,2021-12-28
+448,2021-12-29 17:41:42+00:00,1476247064698839044,witnet_io,"dear Witnet family 💜
+
+we're incredibly excited to share Witnet 2021: Year in Review 👁️
+
+thank you for being with us, being with the greater Witnet ecosystem, and supporting the true decentralization. wagmi 🤝
+
+https://t.co/OBQVB2u265",30,11,11,2021-12-29
+449,2022-01-06 11:05:38+00:00,1479046494103773185,witnet_io,"The Witnet oracle will provide data to smart contracts on #KuCoin Community Chain (@KCCOfficialTW) in an accurate, transparent, and censorship-resistant way.
+
+Supported by @kucoincom, #KCC ticks all the boxes to become a leading player in the ecosystem:
+https://t.co/mCrKmjLUkz",31,6,11,2022-01-06
+450,2022-01-07 01:19:38+00:00,1479261411041845252,witnet_io,@kccoficialesp ¡Holi! Encantados de sumarnos a la familia 😊,1,1,0,2022-01-07
+452,2022-01-08 12:29:01+00:00,1479792253790998533,witnet_io,"Witnet &lt;&gt; @KCCOfficialTW partnership is featured on @Cointelegraph 🔥 Learn more:
+
+https://t.co/XmsHYk2YKi",12,2,2,2022-01-08
+453,2022-01-10 09:06:10+00:00,1480465980602077185,witnet_io,"👁‍🗨Join our AMA with @KCCOfficialTW today! 👁‍🗨
+
+📅 Jan 10 @ 2PM (UTC) 
+📍 https://t.co/m6fdEVJqlk
+
+Learn more ⬇️
+
+https://t.co/iU9Ph4rFB8",5,1,1,2022-01-10
+454,2022-01-11 11:04:07+00:00,1480858052442079235,witnet_io,"🔥 Announcing the Witnet Community Developer Fund, a community effort to support developers creating tools within the Witnet ecosystem! 🔥
+
+https://t.co/hfFLaSGL8x",17,0,4,2022-01-11
+455,2022-01-14 13:26:12+00:00,1481980974309203984,witnet_io,"🦬👀 ALPHA ALERT — BISON AHEAD! 🦬👀
+We are preparing something BIG for @EthereumDenver.
+Get ready to be aggressively entertained and seriously addicted to this new Witnet-powered social game, building on the amazing @TheEggDAO 🐣 experience at @0xliscon.
+More details soon! https://t.co/nAt1ebLfI9",27,5,6,2022-01-14
+457,2022-01-15 17:22:03+00:00,1482402715871416321,witnet_io,"🔥 Thursday (Jan 27) @ 5pm CET we'll host Witnet Community Meeting on Discord Stages! 🔥
+
+Agenda:
+- Tech &amp; Growth Updates 🚀
+- Witnet 2022 Plans 💥
+- Witnet x @EthereumDenver  🤝
+- Q&amp;A 🤔
+
+👁 Make sure to TUNE IN! 👁
+
+https://t.co/HYe4lgX0Rk https://t.co/zmOY7b5sIw",18,1,3,2022-01-15
+458,2022-01-21 18:38:32+00:00,1484596290096967685,witnet_io,"👁️ Witnet is live on @CeloOrg !
+
+🤝 We're delighted to support Celo's mission, helping web3 builders utilize Witnet to build a financial system that creates the conditions for prosperity—for everyone.
+
+⬇️ Learn more ⬇️
+
+https://t.co/yjAAAPewqB",33,2,5,2022-01-21
+459,2022-01-27 19:52:10+00:00,1486789145779445766,witnet_io,Witnet community meeting and Celo Twitter Spaces today were great! More opportunities to learn more about Witnet and getting involved are coming soon 👀 https://t.co/cZf7X7seOr,16,0,0,2022-01-27
+460,2022-01-28 17:44:42+00:00,1487119456736358404,witnet_io,@wilsonstandup Hahaha exactly. This is like that time we announced a release for September 31st to then realize the day before that such date didn't exist 😅,1,0,0,2022-01-28
+463,2022-02-01 17:59:50+00:00,1488572815569821703,witnet_io,Who's already ULTRA HYPED for the #WittyBufficorns game that Witnet will be organizing during @EthereumDenver?   🙋 https://t.co/lrvURvZgwI,20,1,6,2022-02-01
+464,2022-02-02 10:24:25+00:00,1488820596477681667,witnet_io,新年快乐！ 今年对于witnet来说将是巨大的！ https://t.co/r3cD7QvqPH,17,2,2,2022-02-02
+468,2022-02-04 18:52:24+00:00,1489673207510667268,witnet_io,"Don't miss this little presentation of the Witnet-powered #WittyBufficorns social game on @EthereumDenver's Twitch livestream!
+https://t.co/lUlptgJRD4",12,0,4,2022-02-04
+469,2022-02-08 19:48:22+00:00,1491136846297894912,witnet_io,"People already on the ground for @EthereumDenver are complaining about the low temperatures.
+
+Problem is — it can only get cooler once the #WittyBufficorns game begins 🥶
+
+See you in Denver! https://t.co/7WTwBLMkjd",14,0,0,2022-02-08
+470,2022-02-09 08:44:58+00:00,1491332284305522689,witnet_io,"E—xpect to be
+V—ery
+E—ntertained by
+R—aising
+Y—our
+D—igital bufficorns
+A—t this
+Y—ear's @EthereumDenver https://t.co/as3vwre2U1",10,1,0,2022-02-09
+471,2022-02-10 06:17:55+00:00,1491657664295620608,witnet_io,"GN!
+Team Wittonetto is already on the ground! 😎 https://t.co/iuT0iQ5yQ8",11,0,1,2022-02-10
+473,2022-02-12 23:17:37+00:00,1492639056861155328,witnet_io,"Hey frens! #WittyBufficorns is live!
+Come to the Witnet booth at the ART hotel in @EthereumDenver to get your QR code, join a ranch, and start raising your bufficorns now! https://t.co/xTFPIYqXje",10,0,3,2022-02-12
+474,2022-02-13 01:03:40+00:00,1492665744219377668,witnet_io,"ABAW
+(all bufficorns are witty)
+ft. @EthereumDenver https://t.co/Xo4ZOnB6E9",12,0,1,2022-02-13
+475,2022-02-14 20:32:58+00:00,1493322397776109575,witnet_io,@Conflux_LATAM Besis. ♥️,0,1,0,2022-02-14
+481,2022-02-15 21:03:39+00:00,1493692504134279170,witnet_io,"+500 bufficorn breeders are now playing #WittyBufficorns at @EthereumDenver!
+
+Stats so far:
+Best bufficorn: #23, from @Opolis Reservation
+Best ranch: a tie between @VegaProtocol Slopes Range and @Opolis Reservation
+Best player: Remote Amberly, followed closely by Adverse Eleonore https://t.co/rw0UDpVEk4",9,0,0,2022-02-15
+482,2022-02-16 16:15:00+00:00,1493982253755650055,witnet_io,Our frens at @BodhFinance are up to great stuff... 👀 https://t.co/hcHG2RuvCL,7,0,0,2022-02-16
+483,2022-02-17 23:36:22+00:00,1494455714688995328,witnet_io,"The #WittyBufficorns are moving up &amp; down fast!
+
+""Sporks"" (formerly ""#23"") has fallen down to the 4th position as PallerCon from @Opolis, Baller corn from @BalancerLabs and Rongland from @harmonyprotocol have overtaken the first 3 places. https://t.co/jFiyp0VIRb",9,0,1,2022-02-17
+490,2022-02-18 21:41:05+00:00,1494789091572940800,witnet_io,"How will this fierce face-off between @BalancerLabs and @Opolis finish?
+
+Join now the +1130 people already breeding #WittyBufficorns at @EthereumDenver to influence the outcome of the game and own a piece of crypto history! https://t.co/Gv74nxsZwY",15,1,2,2022-02-18
+492,2022-02-19 19:01:30+00:00,1495111315702099972,witnet_io,"PSA
+Beware of these 3 #WittyBufficorns.
+They are dangerous and still on the loose.
+If you find them, you'd better catch them!
+#AdverseLeonore #RemoteAmberly #CoastalLezlie https://t.co/9laQctDnXA",12,0,4,2022-02-19
+494,2022-02-20 01:45:12+00:00,1495212912230768641,witnet_io,@CeloOrg @ValoraApp Aren't you missing someone? 🥲,1,0,0,2022-02-20
+495,2022-02-24 17:34:38+00:00,1496901395110240285,witnet_io,"⚡️ We're thrilled to partner with Bodh Finance, the first Lending protocol on @BobaNetwork, to giveaway 5 Bodh Monk NFTs!
+
+Get your hands on one to be eligible for $BODH #airdrop 🦾🧙‍♂️
+
+To Join:
+1️⃣ Follow @witnet_io &amp; @BodhFinance 🍃 
+2️⃣ Like &amp; RT this tweet 💕
+3️⃣ Tag 3 friends 🐸 https://t.co/3XVEDjG5su",43,21,21,2022-02-24
+496,2022-03-02 10:32:29+00:00,1498969484840873988,witnet_io,"Hey, unicorns! 🦄
+
+Our friends at #KCC (the @kucoincom community chain) are organizing a HUGE hackathon / contest / incentive program for builders, and Witnet will proudly take part as mentors and jury.
+
+#BUIDL time!
+
+#hackathon #KCCUnicorn #Kucoin #web3 https://t.co/NCjhcokn2q",13,0,3,2022-03-02
+497,2022-03-03 17:12:56+00:00,1499432649718484999,witnet_io,"As Witnet Improvement Proposals #20 and #21 have been published for nearly 3 months without any major concerns or opposition whatsoever being raised, we are doing a last call for comments, with a deadline on March 16.
+
+https://t.co/UpR2DiijlF
+
++ Info in this tweet thread 👇",10,2,2,2022-03-03
+503,2022-03-07 15:17:23+00:00,1500853121626644484,witnet_io,"And here are the winners of Witnet + @BodhFinance NFT #Airdrop!!! :D
+
+@mitchbooy
+@bowtied_aquila
+@Chainguys
+@Cryptoshack14
+@AcquistapaceMa2
+
+Congratulations! Please DM us your wallet address within the next 3 days to receive your lovely NFT! https://t.co/WDY285BVfa",12,3,1,2022-03-07
+505,2022-03-08 17:39:42+00:00,1501251325673279492,witnet_io,"Oh happy day! 🎶👏
+
+Today we are launching our new documentation site (https://t.co/aKqMKepbEk), which includes examples, tutorials and up to date info about the different capabilities of the Witnet oracle. 
+
+There are some sections still under construction... so bear with us! 🐻",14,3,4,2022-03-08
+506,2022-03-09 15:19:43+00:00,1501578484044472321,witnet_io,"Are you a Docker samurai?
+Witnet Foundation is looking for DevOps rockstars! 🤓
+https://t.co/MYKtyEXjU1",7,0,5,2022-03-09
+508,2022-03-11 14:18:31+00:00,1502287860644425731,witnet_io,"@Metis8Ball Docs will keep improving over time, specially thanks to feedback from users like you 😍
+
+What are you building, btw?
+`let gossip_mode = true;`",1,1,0,2022-03-11
+510,2022-03-14 09:31:43+00:00,1503302845965254656,witnet_io,"GM!
+Let's grab a coffee and make this week great together in this witty space ✨ https://t.co/Le2XqpUD2P",13,1,4,2022-03-14
+515,2022-03-15 14:18:18+00:00,1503737358100881414,witnet_io,"The #KCC Unicorn Contest is live now, and more than 40 projects are already participating.
+
+Happy to be part of this big family of BUIDLers!!! 😎 https://t.co/r7nR1gvE9F",9,0,4,2022-03-15
+517,2022-03-16 23:02:41+00:00,1504231708656345093,witnet_io,"@EthereumDenver Here, just chilling... https://t.co/OKbb2ZKob6",7,0,1,2022-03-16
+521,2022-03-17 12:21:04+00:00,1504432630820913154,witnet_io,"We're constantly exploring different chains and ecosystems where the Witnet oracle can provide value 🕵️
+
+But we really need input from the community on where to focus next. E.g. latest tip was @flow_blokchain
+
+Request support for new chains here:
+https://t.co/HPJtxhQ35L",9,2,4,2022-03-17
+524,2022-03-18 16:35:46+00:00,1504859113498591237,witnet_io,"A new Witnet price feed has been deployed!
+
+Price pair: $BTC / $USD
+Chain: @MoonbeamNetwork Moonbase
+
+Asset ID:  0x24beead4
+Decimals: 6
+Deviation threshold: 1%
+Heartbeat: 24h
+
+Contract address:  0x56834Ff8D4b27db647Da97CA3bd8540f7fA0e89D
+
+Feed explorer:
+https://t.co/W2NBV2GCgF",10,0,3,2022-03-18
+526,2022-03-19 13:59:51+00:00,1505182263956447245,witnet_io,"Witnet is proudly powering the @agora_xyz Social Oracle Layer behind @guildxyz
+
+Thrilled to be a part of the Web3 revolution 🦄 https://t.co/6eaNX8Jqgb",21,0,3,2022-03-19
+529,2022-03-21 17:32:34+00:00,1505960571925143560,witnet_io,"A new Witnet price feed has been deployed!
+
+Price pair: $GLMR / $USDT
+Chain: @MoonbeamNetwork Moonbase
+
+Asset ID: 0xe4cc70ab
+Decimals: 6
+Deviation threshold: 1%
+Heartbeat: 24h
+
+Contract address:  0x56834Ff8D4b27db647Da97CA3bd8540f7fA0e89D
+
+Feed explorer:
+https://t.co/YOzxdGBjOa",14,0,4,2022-03-21
+530,2022-03-23 17:59:21+00:00,1506692088506851328,witnet_io,"Meet @Metis8Ball — a lottery game on @MetisDAO, sourcing randomness from the Witnet Randomness Oracle 🎲👀 https://t.co/36q8q62Cet",6,0,1,2022-03-23
+533,2022-03-24 09:55:06+00:00,1506932609322000385,witnet_io,Probably nothing... 👀 https://t.co/780uxSqhe4,6,0,1,2022-03-24
+535,2022-03-25 10:57:19+00:00,1507310655057059849,witnet_io,"Join us tonight for a Twitter Spaces session with @ConfluxAfrica, on everything oracles and DeFi! 🤘 https://t.co/EB2aMXhz1p",8,0,1,2022-03-25
+536,2022-03-28 16:33:07+00:00,1508482328108150799,witnet_io,"A new Witnet price feed has been deployed!
+
+Price pair: $CRO / $USDT
+Chain: @cronos_chain Testnet
+
+Asset ID: 0x6b8258ca
+Decimals: 6
+Deviation threshold: 1%
+Heartbeat: 1h
+
+Contract address:  0xeD074DA2A76FD2Ca90C1508930b4FB4420e413B0
+
+Feed explorer:
+https://t.co/6bU0htyNED",7,0,0,2022-03-28
+538,2022-03-29 11:23:59+00:00,1508766919373033474,witnet_io,"As more and more #DeFi protocols choose Witnet  decentralized price feeds as their main data provider on the 10+ compatible chains, the Witnet protocol is securing more TVL each day 📈 https://t.co/m4uPmfFV72",12,2,0,2022-03-29
+541,2022-03-30 11:13:27+00:00,1509126655926845447,witnet_io,"🚨We are proud and excited to announce that @witnet_io will be the first oracle to land on @OKCNetwork, the @OKX Chain 🥳
+
+You'd better be prepared for more sophisticated and reliable DeFi and NFT use cases on #OKC! 🚀 https://t.co/KfD5aF7San",39,6,15,2022-03-30
+543,2022-03-31 17:15:22+00:00,1509580123422568452,witnet_io,Witnet stickers spotted in the wild... 👀 https://t.co/0Bo5TShCRB,4,0,0,2022-03-31
+548,2022-04-01 00:17:06+00:00,1509686255373721601,witnet_io,@AdamDraper @JackKnutsonJr @OnJunoHQ @aztecnetwork @avalancheavax @graphprotocol @0xProject @chainlink @AugurProject @BoostVC Plus some @BoostVC investments in there as well ♥️,1,0,0,2022-04-01
+551,2022-04-03 20:06:41+00:00,1510710400299454466,witnet_io,👋 Welcome @dulurjauh to the Witnet community! You're follower no. 6000!!! https://t.co/IU0InDhWUb,12,1,0,2022-04-03
+556,2022-04-04 09:47:13+00:00,1510916892256616453,witnet_io,Thrilled to be part of the @CeloOrg community and to put our two cents as a decentralized oracle to make this project thrive and reach their ambitious goal of prosperity for all! #CeloConnect https://t.co/FdurSkld3f,43,1,7,2022-04-04
+557,2022-04-05 10:04:12+00:00,1511283555359469570,witnet_io,Proudly powered by Witnet 😎 https://t.co/aunLE7bICF,15,0,2,2022-04-05
+560,2022-04-06 17:31:40+00:00,1511758550493806599,witnet_io,Congrats to @bobanetwork and all our fellow Bobarians for such an important milestone! 🧋🚀 https://t.co/nu6e3ReHrt,72,3,26,2022-04-06
+563,2022-04-07 11:12:31+00:00,1512025522783539203,witnet_io,"A new Witnet price feed has been deployed!
+
+Price pair: $CFX / $USDT
+Chain: @Conflux_Network eSpace Testnet
+
+Decimals: 6
+Deviation threshold: 1%
+Heartbeat: 1h
+
+Feed explorer:
+https://t.co/RhTVET9Znw",18,0,3,2022-04-07
+569,2022-04-08 11:27:45+00:00,1512391744297607174,witnet_io,"Witnet + Cronos = 🚀
+
+We're thrilled to join forces with @cronos_chain to bring decentralized oracles, price feeds and randomness generation to the @cryptocom EVM chain, enabling more advanced #DeFi and #NFT use cases.
+
+More info:
+https://t.co/arptLnZKqu",17,0,3,2022-04-08
+574,2022-04-12 17:00:01+00:00,1513924912712355841,witnet_io,"""We are very happy to welcome Witnet on the Cronos ecosystem. This convenient, flexible oracle protocol makes it easy for developers to build more advanced DeFi and GameFi Dapps"" — @kentimsit from @cronos_chain 
+
+https://t.co/arptLohli2",10,0,4,2022-04-12
+575,2022-04-14 10:00:03+00:00,1514544000014893059,witnet_io,"📢 The Witnet decentralized multichain oracle is now providing price feeds, randomness and HTTP adapters on @OKCNetwork, the @okx chain.
+
+ 🏗️ We're thrilled to enable builders on OKC to create more sophisticated #DeFi, #NFT and #GameFi projects.
+
+👀 +Info:
+https://t.co/a5d1Cg9Vgw",17,2,4,2022-04-14
+576,2022-04-18 15:33:38+00:00,1516077501776289794,witnet_io,Hallo #DevConnect!!! https://t.co/vWyKyjU1gA,8,0,0,2022-04-18
+577,2022-04-19 09:26:03+00:00,1516347384430792709,witnet_io,"The Witnet protocol successfully self-upgraded a few minutes ago with zero downtime, activating Witnet Improvement Proposals 0020 and 0021 after 86.77% of the blocks signaled support for those WIPs during the last 2 weeks.
+
+More info:
+https://t.co/hf8TXC9cuF https://t.co/iWsZpd9o3v",11,0,1,2022-04-19
+578,2022-04-20 12:20:26+00:00,1516753658834206720,witnet_io,@ETH_Daily @bobanetwork @enyaai @OolongSwap @dominationfi @ZenchaFinance @UniDexFinance @ape_board @DeBankDeFi @BreederDodo @tofuNFT @L2Charts @defiyield_app @thetanuts @SatisDEX @TaroFinance @xdaoapp @BodhFinance @tapioca_dao @fraxfinance @BobaDoge @TheBoringDAO @MultichainOrg @SynapseProtocol @layerswap @AcrossProtocol @PolyNetwork2 @boba_punks @BobaApes @BandProtocol @UMAprotocol @BundlrNetwork Happy to be part of such an amazing community of builders! 🤩,1,0,0,2022-04-20
+581,2022-04-21 08:54:03+00:00,1517064108205608960,witnet_io,"A new Witnet price feed has been deployed!
+
+Price pair: $GLINT / $USDT (@Beamswapio)
+Chain: @MoonbeamNetwork Moonbase
+
+Decimals: 6
+Deviation threshold: 1%
+Heartbeat: 24h
+
+Feed explorer:
+https://t.co/KqmARGff9H",7,0,1,2022-04-21
+583,2022-04-22 08:30:00+00:00,1517420444420169728,witnet_io,"A new Witnet price feed has been deployed!
+
+Price pair: $SAX / $USDT (@IdleStoneage)
+Chain: @KCCOfficialTW Mainnet
+
+Decimals: 6
+Deviation threshold: 0.5%
+Heartbeat: 24h
+
+Feed explorer:
+https://t.co/N6PH2Im4Vq",3,0,0,2022-04-22
+588,2022-04-23 18:05:33+00:00,1517927671547715587,witnet_io,"""The price feeds provided by Witnet have been highly accurate and robust to date. Moreover, both @BodhFinance and @witnet_io prioritize decentralization &amp; censorship resistance. We can see more amazing collaborations going forward."" https://t.co/TmGNAGh7Qt",24,1,4,2022-04-23
+590,2022-04-24 19:23:50+00:00,1518309760084459521,witnet_io,@edvyno11 You're almost there...,1,0,0,2022-04-24
+592,2022-04-29 08:58:09+00:00,1519964241276674050,witnet_io,@mr_ligi @EFDevconnect 🌞 M 🌞 A 🌞 D 🌞 R 🌞 I 🌞 D 🌞,2,0,0,2022-04-29
+593,2022-05-03 08:12:37+00:00,1521402335930556421,witnet_io,"GM community, we're starting a newsletter! 📢
+
+Welcome ""The Witty Newsletter"", hot $WIT news every week!
+https://t.co/zkKIznpo3o",16,9,1,2022-05-03
+594,2022-05-05 10:03:23+00:00,1522154984032423936,witnet_io,"✨Avec plaisir!✨
+
+Can't wait to see you all in Paris in July! https://t.co/HsKSSlW7wW",8,1,1,2022-05-05
+596,2022-05-10 02:00:00+00:00,1523845276716306432,witnet_io,"Our integration with @klaytn_official is now LIVE!
+
+✅ bringing decentralized price feeds and randomness generation to their Kakao-backed blockchain
+
+✅ opening the door to more sophisticated and reliable NFT, Metaverse, GameFi and DeFi use cases
+
++ Info:
+https://t.co/PtgJ0ItUmR",14,1,5,2022-05-10
+597,2022-05-14 03:39:20+00:00,1525319825823674368,witnet_io,@MidwitMilhouse @danfinlay @owocki Sounds like Lightning Network ⚡👀,1,1,0,2022-05-14
+598,2022-05-25 01:17:46+00:00,1529270467500163072,witnet_io,"🎉 We will be hosting a COMMUNITY MEETING 🎉 
+
+📆 Wednesday - 25, May @ 18:00 UTC
+
+💎 Featuring some awesome developments, and will include a special guest 👀 
+
+📍 https://t.co/d3YcI6Swa3",9,1,2,2022-05-25
+600,2022-05-30 17:57:25+00:00,1531333975960084480,witnet_io,"👁️Help us make Witnet better! 
+
+🙌We're kindly asking you to spend just 3-5min to fill out Witnet Community Feedback Form ⬇️
+
+https://t.co/wxIk3fq8l5",11,0,2,2022-05-30
+601,2022-06-02 16:24:21+00:00,1532397721256087553,witnet_io,"👁️We're hiring!
+
+🔥We’re looking for the rockstars to join us :
+
+1⃣ Content Creator
+2⃣ Smart Contracts Developer
+
+Learn more &amp; Apply 👇
+https://t.co/do7YbqeMQm",11,1,2,2022-06-02
+603,2022-06-03 09:25:50+00:00,1532654785140338689,witnet_io,"🆙 Witnet-Rust 1.5.2 is now stable!
+
+💾 Binaries for GNU/Linux, Mac OS and Windows are  available for download on GitHub as usual.
+
+📦 Docker image witnet/witnet-rust:latest now points to 1.5.2 too.
+
+📜 Release notes and changelog:
+https://t.co/tbaHnDJuQ3",6,1,1,2022-06-03
+604,2022-06-07 17:00:18+00:00,1534218707307831296,witnet_io,"📢🔥 A new issue of WittyNews is now hot off the press!
+
+Featuring @0xLendProtocol, @klaytn_official, @eth_barcelona, @EthCC, @Nation3DAO and @kava_platform.
+
+https://t.co/bSAnTYYlnx",5,0,0,2022-06-07
+606,2022-06-08 16:28:23+00:00,1534573060547825665,witnet_io,"🆙 Sheikah Witnet wallet v1.11.3 has been released!
+
+🔁 Your own Sheikah will offer automatic update next time you run it.
+
+💾 Installers for GNU/Linux, Mac OS and Windows are  available for download on GitHub as usual.
+
+📜 Release notes and changelog:
+https://t.co/dM7GovqtaT",6,2,1,2022-06-08
+607,2022-06-09 18:19:49+00:00,1534963492171698195,witnet_io,"We're hosting an AMA with @HooSmartChain on June 16, at 9 AM EST (1 PM UTC) on Twitter Spaces! 🔥
+
+Hoo Smart Chain is a chain integration next in the pipeline for Witnet, and we're very excited to work with them! 🤝
+
+ https://t.co/ZoIEF1Ugmk",15,4,7,2022-06-09
+608,2022-06-13 13:07:59+00:00,1536334570152415243,witnet_io,@ConcreteCowgirI @CryptoScribeNFT Witnet won't ever forget about you tho 🥲,2,1,0,2022-06-13
+609,2022-06-14 12:01:27+00:00,1536680212016111618,witnet_io,"Witnet is giving away 1 ticket to @eth_barcelona 🇪🇸
+The conference is July 6️⃣ -8️⃣. 
+If you want to enter our giveaway; follow Witnet, quote this tweet and @ a project that could use the Witnet Oracle. We will be deciding on the best tweet on Tuesday, June 21. 🎉
+Good Luck 🍀🤞🏼",27,7,5,2022-06-14
+611,2022-06-15 10:36:04+00:00,1537021114077036545,witnet_io,Don't forget this amazing opportunity! We're giving away 1 ticket to @eth_barcelona on June 21! Quote or reply to this tweet👇🏼  with a project that should use @witnet_io https://t.co/qxE0G05BYE,4,0,0,2022-06-15
+614,2022-06-16 16:30:14+00:00,1537472628545527809,witnet_io,"📢🔥 The 3rd issue of WittyNews is now hot off the press!
+
+Featuring @kava_platform, @HooSmartChain, @eth_barcelona and @tomastrg!
+
+https://t.co/TMMVmD1XPg",5,1,0,2022-06-16
+621,2022-06-17 10:42:23+00:00,1537747477817921537,witnet_io,"We're hosting an AMA with @Meter_IO on Monday, June 20th at 5 PM UTC, here on Twitter Spaces! 💪🏽  ☎️  
+@Meter_IO is a new chain integration in the pipeline for Witnet and we're very excited. 
+Join us!",33,0,5,2022-06-17
+628,2022-06-18 17:17:00+00:00,1538209173921464320,witnet_io,"Witnet is hosting @Meter_IO on Monday, June 20th at 5 PM UTC for an AMA! 
+You don't want to miss this! 🙅🏾 
+There are 25 total $MTRG up for grabs; 5 $MTRG to 5 audience members with the best questions! 💰💰",31,1,2,2022-06-18
+629,2022-06-19 15:24:00+00:00,1538543124405964801,witnet_io,"TOMORROW at 5 PM UTC, Witnet is hosting @Meter_IO on Twitter Spaces for a in depth AMA! Save the date 🗓
+@Meter_IO was generous enough to offer 5 $MTRG to 5 of the best questions!💰 (25 total $MTRG up for grabs)
+See you there! 👀",31,2,7,2022-06-19
+630,2022-06-20 13:41:01+00:00,1538879597302915074,witnet_io,"Witnet is giving away a ticket to @EthCC 🇫🇷
+The conference is 
+July 1️⃣ 9️⃣  - 2️⃣ 1️⃣  in Paris! 
+If you want the ticket, follow @witnet_io, retweet this, and reply to this tweet tagging your favorite cryptocurrency influencer👤
+The drawing is on July 8! #ETH",42,57,44,2022-06-20
+634,2022-06-21 15:07:03+00:00,1539263635327008769,witnet_io,"The winner of the @eth_barcelona Twitter raffle is @mari__0x. Thank you to everyone who participated. 
+Missed out? We're giving away a ticket to @EthCC here: https://t.co/WZqXnPz7iL",5,0,0,2022-06-21
+637,2022-06-22 11:45:00+00:00,1539575174756024321,witnet_io,"Witnet is giving away a ticket to @EthCC 
+EthCC is a huge conference in Paris 🇫🇷  and we're so excited to be sponsors! The dates are July 19-21! 
+Reply to this tweet, or the quoted one below tagging your favorite cryptocurrency influencer to enter yourself ⬇️ https://t.co/WZqXnPz7iL",0,1,0,2022-06-22
+641,2022-06-23 16:30:11+00:00,1540009333567766531,witnet_io,"📢 Hey community! A new issue of WittyNews is out!
+
+Featuring many amazing projects and individuals this week, including @Kava_platform, @Meter_IO, @HooSmartChain, @ETHBarcelona, @EthCC, @EthicHub, and @mari__0x.
+ 
+https://t.co/GOQfrimylY",19,2,3,2022-06-23
+642,2022-06-24 09:14:59+00:00,1540262199389814785,witnet_io,Witnet is excited to announce our partnership with @QiDaoProtocol! Read on to learn more about this collaboration here:https://t.co/NyGdc6PNyo,7,1,3,2022-06-24
+643,2022-06-25 13:00:02+00:00,1540681220358639617,witnet_io,"The drawing is on July 8th, tag your favorite creator on the tweet below! 👀 https://t.co/WZqXnPz7iL",3,2,0,2022-06-25
+644,2022-06-26 13:27:00+00:00,1541050395207684096,witnet_io,You still have 12 days to enter our raffle to win an @EthCC ticket! Tag your favorite cryptocurrency influencer on this tweet below ⬇️ https://t.co/WZqXnPhvUb,1,1,0,2022-06-26
+645,2022-06-27 15:27:53+00:00,1541443207002787842,witnet_io,"Those planning on joining our AMA today with @0xLendProtocol have to wait until Thursday at 5 PM UTC! We have to reschedule until then. 
+Can't wait to see you there!",5,2,0,2022-06-27
+646,2022-06-28 09:07:29+00:00,1541709860584259584,witnet_io,"Blockchain oracles are all about securing data integrity and removing single points of failure.
+
+So there's no one-size-fits-all, and it is a great thing that we have a broad offering of oracles focusing on different properties and trade-offs.
+
+Watch this space! 👀 https://t.co/4DPJiOUQEy",6,1,1,2022-06-28
+647,2022-06-29 18:34:00+00:00,1542214818001813506,witnet_io,"9 days until we raffle off the ticket to @EthCC! Check this tweet ⬇️ 
+#ethcc #Ethereum #eth https://t.co/WZqXnPz7iL",4,1,0,2022-06-29
+651,2022-07-01 12:57:00+00:00,1542854784935493636,witnet_io,ONE WEEK until the @EthCC ticket is drawn! ⬇️  #ethcc #ETH #Ethereum https://t.co/WZqXnPz7iL,2,1,0,2022-07-01
+656,2022-07-02 16:45:00+00:00,1543274551194304514,witnet_io,Did you miss our Telegram AMA with @0xLendProtocol on Thursday? Not to worry! Take a look at the transcription here: https://t.co/GXkHK1dpYy,5,2,1,2022-07-02
+657,2022-07-03 13:10:00+00:00,1543582832328581120,witnet_io,"#witnet is officially being listed on @MEXC_Global! Voted the #1 exchange in Asia, with over $1.2 billion in average daily volume. The Witnet network will benefit from new tools for the miners securing the network. https://t.co/xrZY9a0slT",8,4,3,2022-07-03
+659,2022-07-04 12:01:00+00:00,1543927856119459840,witnet_io,Today is the day! We're hosting @QiDaoProtocol for an AMA here on Twitter Spaces at 3 PM UTC! https://t.co/WSpeqNbZLo,4,3,1,2022-07-04
+662,2022-07-05 13:45:00+00:00,1544316416748392452,witnet_io,#Witnet is so excited to be integrating on @Fuse_network in the coming weeks. Stay tuned for some awesome events and news! https://t.co/df2S2WKHNo,36,2,7,2022-07-05
+663,2022-07-06 23:34:51+00:00,1544827246870937600,witnet_io,🚨 THE DRAWING IS TOMORROW 🚨 https://t.co/WZqXnPz7iL,4,0,2,2022-07-06
+667,2022-07-07 09:58:20+00:00,1544984151429881856,witnet_io,Back at #ETHBarcelona today. Come see us in the Innovation Zone! #witnet #ETHBarcelona @eth_barcelona,6,1,0,2022-07-07
+671,2022-07-08 13:46:42+00:00,1545404007304155136,witnet_io,Awesome projects and new friends! It was a pleasure to have it happen at the #witnet X @app_cortex event. Keep building 💪. Love hearing about the innovation 🎉🇪🇸 https://t.co/IBBfRam3na,2,1,1,2022-07-08
+679,2022-07-09 14:36:40+00:00,1545778968988614657,witnet_io,Are you ready for #ethcc? A new version of #wittycreatures using the #witnet Verifiably Random Function is locked and loaded 😏👀 @EthCC https://t.co/kgVUzaOP2d,8,2,2,2022-07-09
+680,2022-07-11 13:40:00+00:00,1546489487512915968,witnet_io,"#witnet is the only decentralized oracle attending @EthCC! Can’t wait to enjoy community, come to our booth for a #wittycreature!",2,0,0,2022-07-11
+681,2022-07-12 13:00:44+00:00,1546841991123816449,witnet_io,"The only decentralized oracle, #witnet, will be there! #ethcc https://t.co/7zGIbdpqTW",8,2,1,2022-07-12
+683,2022-07-14 11:16:22+00:00,1547540503800987649,witnet_io,"The more scans you get, the more rare your #wittycreature is, and the higher you are on the #ethcc leaderboard; giving you a higher chance to win any of the #witnet trophies! Further more, the chain guild you choose also has prizes for those specifically minting on it. 3/ https://t.co/T1tmJMv0tH",1,1,0,2022-07-14
+689,2022-07-15 15:38:27+00:00,1547968844764811264,witnet_io,"[WittyNews] Hot $Wit news every week! - Issue #6. Featuring 
+@app_cortex @etherspot @eth_barcelona @EthCC @QiDaoProtocol @0xLendProtocol @MEXC_Global
+ @HollandNft https://t.co/YeYdab2Rlu",11,0,4,2022-07-15
+691,2022-07-16 15:44:41+00:00,1548332802252292096,witnet_io,The only decentralized oracle will be at #EthCC! https://t.co/dbHdjWIfaj,4,0,0,2022-07-16
+694,2022-07-17 08:26:31+00:00,1548584922734104576,witnet_io,Are you going to @EthCC? #EthCC,4,0,1,2022-07-17
+696,2022-07-18 13:37:35+00:00,1549025594293293059,witnet_io,Witnet X #EthCC X #wittycreatures. Get excited 🎉🇫🇷,8,0,1,2022-07-18
+701,2022-07-19 17:14:50+00:00,1549442653997219841,witnet_io,The #wittycreatures leaderboard has been ~shaken up~ since this morning! 🧋🥤#EthCC https://t.co/dUs1sFwqw9,6,1,1,2022-07-19
+715,2022-07-20 12:10:07+00:00,1549728356253540353,witnet_io,🚨🚨FIVE MORE UNIQUE #wittycreatures UP FOR GRABS🚨🚨 First come first serve! #ETHCC5 https://t.co/DwqJm91z2L,6,1,2,2022-07-20
+727,2022-07-21 14:09:39+00:00,1550120828309684226,witnet_io,🍾Congratulations on such a huge milestone for such an important network in this space 🎉. We’re so happy to help support you and your amazing mission🎊. #conflux https://t.co/ZLZgfCrjNJ,6,2,0,2022-07-21
+737,2022-07-22 16:18:16+00:00,1550515582419623936,witnet_io,Show us your #wittycreatures 👀🐣,4,4,1,2022-07-22
+743,2022-07-23 14:48:13+00:00,1550855308171427840,witnet_io,Are you pumped about your #wittycreatures?,9,1,1,2022-07-23
+744,2022-07-24 16:17:00+00:00,1551240037563596801,witnet_io,#witnet is hosting the July community call and roundup on 07/27 at 5 PM UTC on Discord! We have so much to share 👀  #witnetcommunitycall https://t.co/k1jR29xq4d https://t.co/R9cZjDvruK,4,2,1,2022-07-24
+746,2022-07-25 20:21:07+00:00,1551663861383811072,witnet_io,🚨Have you minted your #wittycreature yet? 🇫🇷,4,1,0,2022-07-25
+748,2022-07-26 01:43:04+00:00,1551744880187146242,witnet_io,@yacripto Use the backup key or go back to your browser and choose the “claim NFT” button located lower on the page. You’ll then be able to connect a wallet. This is best on a desktop browser over a mobile browser.,0,0,0,2022-07-26
+750,2022-07-27 20:34:29+00:00,1552391997914234882,witnet_io,"@milesdeutscher @switchboardxyz @chainlink We can help with oracles too!
+Our streamlined integration process has the fastest go-to-mainnet time across the industry.
+Check this deck and feel free to DM for more info!
+https://t.co/DV06JHTP18",0,0,0,2022-07-27
+751,2022-07-28 19:13:10+00:00,1552733923670720513,witnet_io,"That’s all for this month! If you want to get in on the action and take part in the news early, join our Telegram: https://t.co/645ucPg0ZC and our Discord: https://t.co/k1jR29xq4d.",0,0,0,2022-07-28
+769,2022-07-29 11:40:12+00:00,1552982319560105988,witnet_io,Catch up on your news! “[WittyNews] Hot $Wit news every week! - Issue #7” https://t.co/u9SEiWMJTB,4,0,0,2022-07-29
+771,2022-07-30 15:58:00+00:00,1553409583217090563,witnet_io,"While you're relaxing this weekend, mint your #wittycreature on @cronos_chain @OKCNetwork @KCCOfficialTW @Meter_IO @MetisDAO or @Conflux_Network to receive the rewards from all your hard work incubating at @EthCC",13,3,2,2022-07-30
+772,2022-07-31 15:48:00+00:00,1553769454684852225,witnet_io,August 8th is approaching quickly! Mint your #wittycreature by then in order to receive the rewards from your guild!,4,2,1,2022-07-31
+773,2022-08-01 19:50:00+00:00,1554192743659819008,witnet_io,#wittycreatures was a massive success at @EthCC! Over 700 people played! Make sure you mint your Witty Creature by August 8th in order to receive the rewards from your chain guild! Happy Minting 🍵. https://t.co/rUP1jEU3Jw,1,2,0,2022-08-01
+775,2022-08-03 15:52:00+00:00,1554857624851517440,witnet_io,Less than one week (Aug 8) to mint your #wittycreature on @cronos_chain @KCCOfficialTW @Conflux_Network @Meter_IO @MetisDAO or @OKCNetwork in order to be eligible for the guild rewards 🎁,30,6,5,2022-08-03
+776,2022-08-04 12:35:24+00:00,1555170538909212672,witnet_io,"@witnet_io X @Conflux_Network AMA 🗣 on Telegram! $100 USD in $CFX available! Wednesday, August 10 at 5 PM UTC 📅
+Join here: https://t.co/645ucPg0ZC https://t.co/I1RQUnsQr2",34,2,19,2022-08-04
+777,2022-08-05 15:58:00+00:00,1555583910267850752,witnet_io,@witnet_io is hosting an #AMA on Telegram with @Conflux_Network! Come join us on Telegram: https://t.co/645ucPxBRa. https://t.co/HGknROvMSU,1,1,0,2022-08-05
+789,2022-08-06 13:59:00+00:00,1555916350840717313,witnet_io,@Conflux_Network is joining @witnet_io for an AMA on Telegram at 5 PM UTC on Wednesday! Join here: https://t.co/645ucPxBRa https://t.co/mI4tCP6vQn,3,1,1,2022-08-06
+791,2022-08-07 16:00:00+00:00,1556309189982560256,witnet_io,Today is the last full day to mint your #wittycreatures on the chain you chose when you started playing @EthCC! You must mint by tomorrow to be able to receive the rewards from that guild.,3,2,2,2022-08-07
+793,2022-08-08 13:34:00+00:00,1556634835409637376,witnet_io,The AMA with @Conflux_Network is quickly approaching.This Wednesday on Telegram: https://t.co/645ucPg0ZC. $100 in $CFX for the taking! https://t.co/F28TYKYB8t,9,3,1,2022-08-08
+799,2022-08-09 14:43:43+00:00,1557014766920634368,witnet_io,Thank you so much @MetisDAO for sponsoring #wittycreatures. 13 total players throughout the conference that chose Metis to play on! https://t.co/cSlXxCxcfA,2,3,2,2022-08-09
+808,2022-08-10 11:12:04+00:00,1557323891848237056,witnet_io,"Join us on #CubeWorld with 
+@TENfinance 
+@DeSpaceDefi and 
+@Cube0x 
+as we discuss developing and developments in #web3 and #DeFi 
+
+2️⃣:0️⃣0️⃣AM UTC
+🗓August 12, 2022
+
+Comment your questions on this thread ⬇️ with your CUBE address. https://t.co/nl7AERY2LO",0,2,0,2022-08-10
+813,2022-08-11 17:14:20+00:00,1557777446472220675,witnet_io,"@nezulong @avalancheavax Witnet is actually already integrated on @avalancheavax! Take a look here: https://t.co/l5atf2uz7G, here: https://t.co/kEiXyQlcxf, and here: https://t.co/FxTjL3UmkT",1,0,0,2022-08-11
+817,2022-08-12 11:41:05+00:00,1558055972278517760,witnet_io,"WOW 😱
+So many submissions so far! Thanks to everyone who voted🗳Keep it up- the answers are very helpful🤝
+Which chain should Witnet integrate next❓
+🤨
+🤔
+🧐
+https://t.co/l1l5NVuyzx",5,3,2,2022-08-12
+819,2022-08-13 17:05:46+00:00,1558500069283864576,witnet_io,Happy #witnetweekend,5,2,0,2022-08-13
+821,2022-08-16 12:55:46+00:00,1559524317083439105,witnet_io,See you in 5 minutes! https://t.co/9dVDLgG4rq,6,5,1,2022-08-16
+822,2022-08-17 15:03:21+00:00,1559918812362936320,witnet_io,"Looking to deploy a price feed on @CeloOrg? Look no further! Here is a brief tutorial for how to deploy your very own feed on $CELO. Or, read on for a brief introduction! 
+$CELO #CELO $WIT #Witnet #Oracles #Solidity 
+https://t.co/G3gXoj0D2v",6,4,2,2022-08-17
+827,2022-08-18 16:44:26+00:00,1560306639672164352,witnet_io,"Some juicy reading for you🧃📚. Learn more about the Witnet ecosystem here 📌
+https://t.co/s19JLHwuFI",8,4,2,2022-08-18
+829,2022-08-19 13:33:26+00:00,1560620962051129344,witnet_io,"Witnet is hosting @MoonbeamNetwork on Tuesday, August 23 at 4:30 PM UTC for a Telegram #AMA! Join us here: https://t.co/645ucPg0ZC https://t.co/79YzahfUMe",63,2,8,2022-08-19
+832,2022-08-20 16:14:43+00:00,1561023937315741696,witnet_io,Happy #WittyWeekend,2,1,0,2022-08-20
+833,2022-08-21 13:20:00+00:00,1561342354509877248,witnet_io,The August #WitnetCommunityCall is on August 24th at 16:00 UTC. Come join and get up to day on all things #Witnet https://t.co/PggTw7PxUj,6,1,1,2022-08-21
+835,2022-08-23 14:23:42+00:00,1562083160992743424,witnet_io,Looking to deploy a price feed on @Conflux_Network? Here is a great place to start! https://t.co/nSddPB9H35,36,4,25,2022-08-23
+836,2022-08-24 14:10:00+00:00,1562442100716851200,witnet_io,Final call for the #WitnetCommunityCall on Discord today at 16:00 UTC! See you there! https://t.co/k1jR29xq4d https://t.co/xH3b9G7ciM,4,4,0,2022-08-24
+837,2022-08-25 13:58:10+00:00,1562801513587941376,witnet_io,"Wondering how to deploy #randomness on @Conflux_Network? Take a look at this simple tutorial and get started today! 
+#Witnet #Conflux $WIT $CFX #Solidity 
+https://t.co/b2CYym2JM3",9,3,8,2022-08-25
+838,2022-08-26 11:28:08+00:00,1563126141786808325,witnet_io,"📢 A new release of the `witnet-requests` JavaScript library is out!
+Version: 0.9.4
+Full changelog: https://t.co/dMGTcgcDWt",8,3,0,2022-08-26
+840,2022-08-27 19:04:14+00:00,1563603312770891776,witnet_io,Happy #WitnetWeekend,5,6,0,2022-08-27
+841,2022-08-30 14:20:00+00:00,1564618945046294532,witnet_io,"Developers building on @Cube0x have immediate access to $BTC, $CUBE, $DAI, $ETH, $USDC, and $USDT to USD in addition to $CUBE/USDT for current price feeds. 
+Read more here: https://t.co/36HOTt7hsP https://t.co/mRFDLtbJ1c",4,2,0,2022-08-30
+846,2022-08-31 12:13:00+00:00,1564949373317939201,witnet_io,"Looking to deploy a price feed on @bobanetwork? It's as easy as 1️⃣, 2️⃣, 3️⃣...
+Take a look at this tutorial and get started 🎬, and finished today 🏁! #Witnet #Boba $WIT $BOBA #EVM #solidity #pricefeed
+https://t.co/pvlurW9K4j",30,6,11,2022-08-31
+847,2022-09-01 13:13:01+00:00,1565326863911866373,witnet_io,"🚨Today, the Witnet Foundation in partnership with OtherPlane Labs is officially launching the second version of the Witnet Advocates Program! Take a look at this article, or this tweet thread to learn more! 🧵 https://t.co/8L2EYthEZ7",6,3,0,2022-09-01
+857,2022-09-03 13:19:00+00:00,1566053144802516995,witnet_io,👋🏼🔆 Happy #WitnetWeekend 🔆👋🏼,8,2,0,2022-09-03
+859,2022-09-04 13:33:00+00:00,1566419057556930561,witnet_io,https://t.co/iZFMH8VIU3,4,2,0,2022-09-04
+861,2022-09-05 12:44:59+00:00,1566769360479330306,witnet_io,Have you checked out the Witnet Advocate Program yet? Take a look and apply here! https://t.co/54IoxoHlZR,6,2,0,2022-09-05
+862,2022-09-06 09:56:29+00:00,1567089343944073217,witnet_io,"GM! Did you know that you can now discuss about $WIT straight  the @CoinMarketCap?
+We're delighted to join the early preview of their new Community feature:
+
+https://t.co/6J9L6eTOmE",3,2,0,2022-09-06
+864,2022-09-07 13:05:00+00:00,1567499173494136833,witnet_io,"The Witnet Grant Program is a great resource for developers using Witnet or in need of an oracle, read about it more here: https://t.co/iFEbDocojR https://t.co/AnC9IEg9UW",7,1,1,2022-09-07
+870,2022-09-08 14:23:44+00:00,1567881377391022082,witnet_io,Looking to deploy randomness onto @cronos_chain? Take a look at this quick tutorial and get finished before the WittyWeek is up! https://t.co/o3rAjjCFJz,4,2,0,2022-09-08
+873,2022-09-09 14:21:34+00:00,1568243220093587456,witnet_io,Happy WittyNewsletter day! Read Issue 13 before heading off to your #WitnetWeekend https://t.co/jhz96gSu2B,3,2,0,2022-09-09
+874,2022-09-10 12:30:00+00:00,1568577531107737601,witnet_io,🚀Happy #WitnetWeekend🚀 https://t.co/pL8LXOjRt7,11,3,3,2022-09-10
+875,2022-09-12 16:15:00+00:00,1569358928378568709,witnet_io,The #WitnetCommunityCall is on Discord on September 28th at 16:00 (4 PM) UTC! Come join the fun and win some $WIT to collateralize a node! https://t.co/k1jR29xq4d https://t.co/4HdsOAVEcL,5,0,0,2022-09-12
+876,2022-09-13 12:25:45+00:00,1569663624964149251,witnet_io,"Nodes that are mining blocks are also able to fulfill data requests by posting collateral. Meaning the Witnet consensus mechanism is similar to POS, because nodes that act maliciously are slashed and lose their collateral.",2,1,0,2022-09-13
+887,2022-09-14 14:09:40+00:00,1570052162809466881,witnet_io,"And here are some great resources for those on @cronos_chain! 
+
+Price Feeds: https://t.co/bHvCeRrk8T
+
+Randomness: https://t.co/o3rAjjCFJz",4,2,0,2022-09-14
+904,2022-09-15 13:49:39+00:00,1570409512984776708,witnet_io,"At this point, after a node finds themselves eligible to complete in an RAD, they have to stake some $WIT as collateral, as they will get slashed for misrepresenting the true value or being an outlier.",2,1,0,2022-09-15
+914,2022-09-16 14:01:31+00:00,1570774888365031425,witnet_io,"Issue 14 of the WittyNewsletter before you go off on your #WitnetWeekend
+https://t.co/2tTXIgVjaM",4,1,1,2022-09-16
+917,2022-09-17 14:06:00+00:00,1571138402900058112,witnet_io,🚨✅Happy #WitnetWeekend✅🚨 https://t.co/bfZcm9kPLI,8,1,0,2022-09-17
+918,2022-09-19 16:17:00+00:00,1571896146053582848,witnet_io,The entire month of September has seen so much development for Witnet. Come to the #WitnetCommunityCall on 09/28 at 16:00 UTC to hear all about it! https://t.co/k1jR29fOFD https://t.co/vZoPE9NUmn,7,1,0,2022-09-19
+919,2022-09-20 12:37:00+00:00,1572203168817065984,witnet_io,"The Witnet data feed explorer backend, explained. https://t.co/mPA5ezFgdw",10,1,0,2022-09-20
+920,2022-09-23 09:17:41+00:00,1573240173051232257,witnet_io,"📢 A new release of the `witnet-requests` JavaScript library is out!
+
+Version: 0.9.5
+Full changelog: https://t.co/jNKwyl82sd",8,2,0,2022-09-23

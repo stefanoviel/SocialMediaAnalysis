@@ -1,0 +1,1005 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-03 09:18:27+00:00,1213026829956603905,aergo_io,"A Little December Recap ⌛
+
+Korea Internet Security Agency (#KISA) held a Blockchain Promotion Week 2019 from the 16th-28th of December 
+- where #AERGO participated in one of KISA's project for a used car service platform with #Hyundai AutoEver.
+
+https://t.co/CIp0xKeIWR https://t.co/3nAOdeDBHm",35,9,13,2020-01-03
+1,2020-01-06 09:06:42+00:00,1214111035843477504,aergo_io,"@binance @BinanceAcademy $AERGO's solution embraces a hybrid blockchain approach for business 😊
+
+Blocko has delivered to 5+ industries, 23+ production systems have been deployed and 25 million endpoints are managed. 
+
+Aergo has been tested, deployed and proven. https://t.co/CCVVqwSCP1",43,3,17,2020-01-06
+2,2020-01-09 06:29:07+00:00,1215158541612277760,aergo_io,"If you are looking for an interesting read today, our CEO @ZamaniPhil has been published on a popular Oil &amp; Gas magazine and discusses challenges in which the sector is facing.
+
+Pipeline Oil &amp; Gas News
+You can find the article located on page 32-33.👇
+
+https://t.co/cDzM9oIlSJ",24,7,15,2020-01-09
+3,2020-01-10 08:00:24+00:00,1215543903455076353,aergo_io,"We have updated our #AERGO Swap Website. For those looking to swap between #BEP2, #ERC20, or $AERGO Native - Check it out! 
+
+Only at https://t.co/StaxePsPMs",21,6,9,2020-01-10
+4,2020-01-21 09:46:28+00:00,1219556859058610176,aergo_io,"#AERGO Network 2.0  Improved configuration for block propagation 🌐
+
+In this article we go through the internal and external network wrapped around the AERGO Network 2.0 and its benefits.
+
+Read all about it here👇
+https://t.co/cqEwxQ2GWL
+
+#AergoEDU #Blocko #EnterpriseBlockchain",36,4,13,2020-01-21
+5,2020-01-22 05:06:27+00:00,1219848779534229504,aergo_io,"Aergo v2.1.0 RELEASE 🆕
+
+We've updated the #Aergo #Mainnet to version 2.1.0 with a number of upgrades and new features in store. Peers can now be assigned a ""role"" as:
+
+◙ Producer
+◙ Agent
+◙ Watcher 
+
+This makes network configuration easier and stable. 
+
+https://t.co/KWtG1IQmk7",32,7,11,2020-01-22
+6,2020-01-23 13:00:39+00:00,1220330503334576134,aergo_io,"Aergo Merkle-Bridge (Testnet) RELEASED 🌉
+
+In this video tutorial we'll show how you can convert testnet
+AERGO ERC-20 ⇄ AERGO MAINNET and back at https://t.co/eX1B2je5PV
+
+Full video guide:
+https://t.co/jjXgMc46gl
+
+#Aergo #MerkleBridge #EnterpriseBlockchain #ERC #Blocko https://t.co/Gc8sByvYhL",37,6,14,2020-01-23
+7,2020-01-29 06:26:11+00:00,1222405561636937728,aergo_io,"Incoming - AERGO Public Testnet- Revamped Merkle Bridge Tutorial ⛓️
+
+This video should help clarify procedures from the previous video. 
+
+Note this is for Testnet ERC-20 #AERGO and Testnet $AERGO. 
+
+Make sure to check it out 👇
+https://t.co/Fehl1wfftE
+
+#MerkleBridge",29,4,10,2020-01-29
+8,2020-02-03 08:25:56+00:00,1224247636154142721,aergo_io,"@bytemaster7 If you're interested, we are developing tools like JDBC integration for querying SQL data deterministically recorded by Lua smart-contracts. Feel free to check it out! 
+https://t.co/sCCaG6oxj1",5,0,0,2020-02-03
+11,2020-02-04 11:57:34+00:00,1224663281945608192,aergo_io,"Check out our new #GCC Blocko website at https://t.co/mMf5OKoTQ2 🎉 Massive support to our MENA arm 💪
+
+#Aergo #MENA #EnterpriseBlockchain $AERGO https://t.co/4p1Dz67zqN",21,0,3,2020-02-04
+12,2020-02-05 07:23:55+00:00,1224956802833403904,aergo_io,SQL 👉 AERGO https://t.co/cJlWOLZVuP,15,0,1,2020-02-05
+14,2020-02-06 06:01:43+00:00,1225298505725427713,aergo_io,"🖧 AERGO JDBC Release ~
+
+The #AERGO #JDBC (Java Database Connectivity) allows #database administrators and #Java developers to easily view and manipulate data on the #blockchain, just like they would using a regular database. 
+
+Read all about it 👇
+https://t.co/S52B4buvQl
+
+#SQL",31,3,14,2020-02-06
+15,2020-02-07 06:25:29+00:00,1225666874475548672,aergo_io,"Athena -IDE- Atom -Part 1
+Covering the development environment for smart contracts on #AERGO
+
+Check out our latest article 👇
+https://t.co/a2PiLqfUH6
+
+#Athena #SmartContracts",23,1,10,2020-02-07
+16,2020-02-11 05:04:35+00:00,1227096066736164865,aergo_io,This is a pretty neat article on Sparse Merkle Tree's - #AERGO is using this technology in production for storing accounts and contract data. https://t.co/mkbjcotr6H,20,0,4,2020-02-11
+17,2020-02-12 08:55:29+00:00,1227516565035216896,aergo_io,"BLOCKO is Attending Barcelonas Mobile World Congress (#MWC) 2020 🎉
+
+#Blocko is setting up a booth to showcase #blockchain solutions built on #Aergo Enterprise - From Electronic Document Notary (TSA), Identity Identification (DID), and #IoT &amp; Security. 
+
+https://t.co/BABKWLVM6T https://t.co/FFIRTrUeRb",37,6,11,2020-02-12
+18,2020-02-16 07:18:40+00:00,1228941751366209537,aergo_io,"Athena -IDE- Atom-Part 2 ✌️
+
+In this section we will show you how to set up the #Athena IDE on ATOM, writing a test contract, account creation, performing transactions, and deploying and installing contracts. 
+
+#AERGO #BLOCKO #IDE
+
+Read on to get started👇
+https://t.co/altuSyNxPD",29,4,8,2020-02-16
+19,2020-02-18 03:55:00+00:00,1229615273075826694,aergo_io,"Dear AERGO Community,
+
+We're proud to announce that we've hit 20 Million AERGO staked on our platform. All thanks to you. 
+
+This is to securing and voting for the future of our hybrid network 🥂
+
+Want to stake &amp; vote on our platform? Learn more below👇
+https://t.co/v5nfb6Qtxl https://t.co/oH2wHUZGa2",36,3,12,2020-02-18
+20,2020-03-09 05:59:14+00:00,1236894294763397121,aergo_io,"The Aergo Keystore 
+
+Aergo 2.2 introduces a new format for storing private keys. The new format offers better portability thanks to a well-defined standard and an additional layer of security due to a more durable derivation of keys from passphrases. 
+
+https://t.co/FH5vTqZNsi",39,3,12,2020-03-09
+21,2020-03-10 04:40:35+00:00,1237236886101360640,aergo_io,"🚴🗞️This Just in! Aergo Newsletter #9 - Tech Upgrades &amp; Developments Updates! 
+
+Read our latest newsletter for a February recap and what to expect coming next~
+
+https://t.co/e0w86i4ibM
+More info to come 👀 https://t.co/3CdgWAYusb",32,8,8,2020-03-10
+22,2020-03-16 11:00:21+00:00,1239506787331502080,aergo_io,"""Only 14% are at production stage – a challenge which the industry continues to face.""
+
+@BlockoGcc has been delivering to &gt;5 industries with &gt;23 deployed production systems. At $AERGO we envision a hybrid future for enterprises which we're #BUIDL-ing! 
+
+https://t.co/1iQvahVRBc",28,2,13,2020-03-16
+23,2020-03-18 08:26:05+00:00,1240192740547104768,aergo_io,Congrats to our partner @STP_Networks to be selected at @Binance Community vote Round 7! We will be voting for you. Please support for #STPT! https://t.co/umpg3eiCee,23,9,4,2020-03-18
+24,2020-03-26 09:17:55+00:00,1243104888348798977,aergo_io,"Dear Aergo Community,
+
+It gives us great honour to present to you our Tech Roadmap for 2020!
+
+Read the full article here 👇
+https://t.co/hXBB1NDz2q https://t.co/M7ucwCEtnw",55,15,12,2020-03-26
+25,2020-04-03 07:43:16+00:00,1245980172047642632,aergo_io,"Credits to the researchers in Italy who conducted their study on  'Blockchain Certification and Granular Editing Permissions in Document Management System' and using #AERGO #Blockchain
+
+- Great find @joselitommutuc ! https://t.co/cJje3qzqY0",40,4,11,2020-04-03
+26,2020-04-06 08:36:22+00:00,1247080696692105216,aergo_io,"👉 Aergo Version 2.2.1 Released
+
+The Query &amp; Transaction execution performance has been improved. A new transaction propagation policy has been deployed. With this, the number of temporary orphans under heavy loads have been significantly reduced.
+
+https://t.co/9AeX4q8dno https://t.co/zaWbYEa5WP",42,8,11,2020-04-06
+27,2020-04-07 08:22:31+00:00,1247439600760418304,aergo_io,"In this video we have conducted a performance TPS test on #Aergo Enterprise 2.0 in three critical areas.
+
+1. Transfer (14,545 TPS)
+2. Read Smart Contract Execution (50,100 TPS)
+3. Write Smart Contract Exectution (10,000 TPS)
+
+https://t.co/uYRhYCbVRh",44,9,14,2020-04-07
+29,2020-04-15 11:45:51+00:00,1250389871186698246,aergo_io,"Happy 1 Year #Aergo Mainnet Anniversary 🥳🥳🥳
+
+On April 15 2019 precisely 14:00:01 UTC the first block was created, and the #Aergo Main Network came to life. 
+
+We have a special video &amp; article out just for you! 
+
+📖 Here
+https://t.co/4NNbFfmtzu
+
+🎥 Here 
+https://t.co/V4emo85jyL https://t.co/51N6sVcdf4",37,8,10,2020-04-15
+30,2020-04-16 15:52:22+00:00,1250814300907728898,aergo_io,"We remain committed to delivering our long-term vision of making Aergo one of the leading trust-based digital platforms of the future 🌎
+
+We invite and welcome feedback from our stakeholders.
+
+Read the Aergo  Q4–2019 &amp; Q1–2020 QPU here 👇
+https://t.co/OTvdRGwrUb
+
+3/3 #AERGO #QPU",39,7,4,2020-04-16
+33,2020-04-27 07:37:40+00:00,1254676067966545921,aergo_io,"🗣️ Aergo QPU Q&amp;A Session Commencing!
+
+We've noticed an increase in questions in a number of areas. We hear you, moreover, we'd like to carefully address them accordingly.
+
+Kindly submit your questions below and keep an eye out 👇👇
+https://t.co/MdAuuTNNsX
+
+#AERGO #QPU #BLOCKO https://t.co/dFG5jtFlZq",41,4,8,2020-04-27
+34,2020-04-29 14:10:16+00:00,1255499647428296708,aergo_io,"More on the Execution Intelligence Group (E24P) by @BlockoGcc &amp; @aergo_io by @Cointelegraph
+
+https://t.co/3ZlV7JebXp
+
+#E24P #Blocko #Aergo #EnterpriseBlockchain #MEASEA",31,7,12,2020-04-29
+35,2020-05-04 06:57:11+00:00,1257202597468925952,aergo_io,"""Blockchain could become the new economic lubricant for the oil and gas industry, presenting an end-to-end solution and disrupting the status quo in a sector that trades in huge economies of scale and depends on a complex web of suppliers, distributors &amp; contractors."" @ZamaniPhil https://t.co/iQ9VgbaXP6",41,1,7,2020-05-04
+38,2020-05-12 12:39:33+00:00,1260187860310740992,aergo_io,"Spot on! For the curious, enable English subtitles and tune in
+
+https://t.co/QmW6kLNI4a
+
+#BlockoAcademy #AERGO #Webinar #OpenSource #Blockchain #Enterprise https://t.co/PBE7PBlIAK",30,0,8,2020-05-12
+39,2020-05-14 09:53:09+00:00,1260870759343206400,aergo_io,"🗣️ Aergo QPU 2020 Q&amp;A  
+Check out our answers to your questions from our Aergo QPU 2020 Q&amp;A!
+
+Read it now ⤵️
+https://t.co/0g2uLduLcB",31,1,10,2020-05-14
+40,2020-05-18 14:50:57+00:00,1262395254508064768,aergo_io,"@BlockoGcc We work with serious partners, and with https://t.co/XPmc2TTakP (Execution Intelligence Group) ; we aim to accelerate growth in #MEASEA 🌏
+
+⬇ Learn more about #Blocko's products here 
+https://t.co/gnqwpThJIs
+
+More on our use cases here ⤵️
+https://t.co/pQ4wqVk4RG
+
+#E24P #Aergo https://t.co/QtFSXz5Aoi",25,0,3,2020-05-18
+44,2020-05-19 05:05:46+00:00,1262610376153165824,aergo_io,"$AERGO is now LIVE and Trading on #HitBTC via $BTC Pair - Thank you for having us, and to our Community for kicking us off in the votes 💪 https://t.co/XLQjYwgpSW",40,5,10,2020-05-19
+45,2020-05-22 09:32:02+00:00,1263764548844089344,aergo_io,"👨‍💻 Aergo Developer Update! 
+ 
+We have a new tool coming your way that will allow developers to interface with the $AERGO #Blockchain from various programming languages. 
+
+Can you guess what they may be? 
+Hint: There's support for 2⃣ languages 😉
+
+#Developer #EnterpriseBlockchain https://t.co/0wx6WUikID",44,3,11,2020-05-22
+46,2020-05-25 11:26:54+00:00,1264880620519354371,aergo_io,"UPDATE: Aergo Version 2.2.2 🔧
+Additional Improvements &amp; Big Fixes 🐞
+
+Read the latest update here 👇 
+https://t.co/KWtG1IQmk7 https://t.co/ozMaxkCVbs",35,1,9,2020-05-25
+47,2020-05-26 11:25:45+00:00,1265242716172021761,aergo_io,"Did you know about Aergo IoT ❓
+
+This allows developers to interface with the AERGO Blockchain with Microcontrollers 📡
+
+The implications of IoT and Blockchain is astounding.  
+
+Check out our list of use cases here 👇
+https://t.co/KFcTOetD5I https://t.co/VTh9Zo9jpb",50,5,17,2020-05-26
+50,2020-05-27 06:55:48+00:00,1265537169311043593,aergo_io,"👨‍💻 Aergo Developer Update - Introducing libaergo
+
+#libaergo is a native library to interface with the Aergo Blockchain from C and C++ ! It even works on the Raspberry Pi. 
+
+We've just made this release public. #AERGO 
+
+Read more below 👇
+https://t.co/wfMq9qCn1p https://t.co/IymbZBaeOr",53,4,13,2020-05-27
+51,2020-05-29 05:12:36+00:00,1266235972607373314,aergo_io,"Believe it or not, #Enterprise #Blockchain is ramping up despite the ongoing pandemic; We've got our team on overdrive 🆙 
+
+Stay tuned for more - &amp; stay strong everybody 👨‍⚕️😷  
+
+Questions? Our TG is open for serious talks on the future of Enteprise👇
+https://t.co/5ijbnfnoHC",26,3,3,2020-05-29
+53,2020-06-02 02:35:11+00:00,1267645908872605697,aergo_io,"What's been happening with #Aergo lately? 
+
+Our $AERGO Knight Paul has shared a quick recap and a handy report to summarize 💪 https://t.co/mhBKn4NtsT",39,1,5,2020-06-02
+56,2020-06-05 10:32:20+00:00,1268853153367068672,aergo_io,"👩‍💼 Introducing: The AERGO Enterprise Manager (#AEM)
+
+➡️ What is it? Who uses it? 
+
+In a nutshell, every client who wants to deploy and use Aergo in the enterprise space utilizes the #Aergo Enterprise Manager. It offers several key features 🔑 /1
+
+Watch 👇
+https://t.co/lW4Md5jBFm",30,2,11,2020-06-05
+60,2020-06-08 09:07:13+00:00,1269918894384267264,aergo_io,"👨‍💻 Aergo Developer Update - #libaergo
+
+We have implemented support for Swift. A general purpose language developed by #Apple for macOS, iOS, watchOS, tvOS &amp; beyond
+
+Applications written on #Swift can now interface with #Aergo 🥳
+
+Further details below 👇
+https://t.co/wfMq9qkLCP https://t.co/8i5uhf0i7a",51,12,13,2020-06-08
+63,2020-06-09 12:00:50+00:00,1270324975249920002,aergo_io,"This is an intuitive guide on Merkle Tree's by @101Blockchains
+
+Some of you may have recalled, the Aergo #StateTrie is a modified sparse Merkle tree implementation to enable faster and more efficient state authentication 
+
+Here's to #Merkle Trees! 🌲
+
+https://t.co/Wn0PuMdY4I https://t.co/RPxgN4FlbU",31,2,8,2020-06-09
+64,2020-06-10 05:18:53+00:00,1270586208217780224,aergo_io,"Clarification Post: libaergo &amp; https://t.co/j1hZLE3Y6h - Not .NET 👨‍💻
+
+Visual Basic .NET (https://t.co/j1hZLE3Y6h) is an object-oriented programming language developed by Microsoft. Combining the .NET Framework &amp; common language runtime with productivity benefits of Visual Basic. https://t.co/jIXymiQVxj",35,4,9,2020-06-10
+65,2020-06-12 11:43:23+00:00,1271407748857491457,aergo_io,"👨‍💻 Aergo Dev Update - #libaergo
+
+We have added support for Ruby 💎, a dynamic, object-oriented, general-purpose #programming language for front end &amp; back end web #development.. and more!
+
+Applications written on #Ruby can now interface with #Aergo 🥳
+
+https://t.co/wfMq9qkLCP https://t.co/9SzrH5YRiV",47,6,12,2020-06-12
+66,2020-06-16 09:31:10+00:00,1272824024746188801,aergo_io,"⏰ IRTI Partners with #Samsung Backed #Blocko's #E24P to Launch #Blockchain-based Smart Credit
+
+The Smart Credit Management System based on smart contracts on the Aergo blockchain will bring great value to Islamic banks &amp; other #financial institutions
+
+https://t.co/OCQlGDP2dq",54,2,21,2020-06-16
+67,2020-06-17 08:21:45+00:00,1273168944908718080,aergo_io,"Release: #Aergo Connect 2.0 🔌 
+
+This video will guide you through transferring Testnet Tokens via #Ledger Nano S &amp; Athena IDE.
+
+Note: This is a dev guide, we'll let you know when this process becomes available for easy installation soon
+
+Watch below 👇
+https://t.co/kcebmeueZ6",39,2,10,2020-06-17
+70,2020-06-18 09:52:57+00:00,1273554285934940161,aergo_io,"🔧 Hardware wallets are a secure way to store your #cryptographic keys and are highly recommended if you store significant value in your #Aergo account 🔒
+
+We've provided a video tutorial to in addition to our guide to help you get started
+
+Check it out 👇
+https://t.co/LKzHi2QN70",24,2,2,2020-06-18
+71,2020-06-24 09:35:42+00:00,1275724270975541248,aergo_io,"👨‍💻 heraphp - Aergo client interface for PHP
+
+That's right we now have Support for #PHP. Websites will be able to now store and retrieve data from the #AERGO Blockchain. This includes calls for smart contracts and transfers for tokens. 
+
+Read more below 👇
+https://t.co/Gtu9pwnrLF https://t.co/nSBoIEq5Yg",74,14,16,2020-06-24
+72,2020-06-30 16:19:26+00:00,1278000202150862850,aergo_io,"👨‍💻 We've just released the #Aergo #Enterprise 2.0 Update + 
+
+Check out our summary of improvements and new features. The Aergo Enterprise 2.0 Update consists of various upgrades shared in the following article.
+
+Read more below 👇
+https://t.co/XWPf9GdHeb 
+
+#AergoEnterprise",78,10,17,2020-06-30
+73,2020-07-02 14:46:57+00:00,1278701702875504642,aergo_io,"📬 Aergo Newsletter #10 - This just in! #Aergo #Enterprise 2.0, Developments, and More!
+
+Read all about it below 👇
+https://t.co/bb7wf7HFSH https://t.co/j3YRKS2hFu",52,14,12,2020-07-02
+74,2020-07-06 09:08:36+00:00,1280066103532613632,aergo_io,"A Founder of #ConsenSys, @ethereumJoseph, and a massive contributor to #Ethereum, shared some insights on the latest advancements in the enterprise public #blockchain space. 
+
+Public Blockchains in Open Enterprise #DLT Networks👇
+https://t.co/FBLppqCQw9",25,1,4,2020-07-06
+78,2020-07-08 05:23:27+00:00,1280734219380027392,aergo_io,"If you haven't already, check out the Top 25 #Korean #Blockchain #Startups to Know - The Best of 2020 by @seoulzmedia 👀 $AERGO
+
+⤵️⤵️⤵️
+https://t.co/swbqV5HMKk",49,8,11,2020-07-08
+79,2020-07-09 13:22:33+00:00,1281217175680724999,aergo_io,"👨‍💻 Developer Update - libaergo v1.1 Ledger Nano
+
+It is now possible to use Aergo accounts on the
+Ledger Nano S from all the following languages:
+
+C
+C++
+C#
+https://t.co/j1hZLE3Y6h
+Swift
+Ruby
+Javascript (herajs)
+
+Read more below 👇
+https://t.co/iRM98sqGeY https://t.co/h4KZyKmN02",32,2,8,2020-07-09
+80,2020-07-10 09:38:58+00:00,1281523299575463941,aergo_io,"🔌 #AergoConnect Update: V2.1.0
+
+➡️ Added “Reveal” button to password fields (create/export)
+➡️ Only show 3 decimals of aergo bal &amp; 0 decimals of staked balance. (Hover for exact)
+➡️ Show USD staked balance
+➡️ Fixed large transaction send bug via Ledger 
+
+https://t.co/zbGT3SV1Qw https://t.co/rHo0TCYd9y",44,10,11,2020-07-10
+82,2020-07-15 12:36:40+00:00,1283379956702015488,aergo_io,"🦊 Aergo x Metamask 
+
+We're thrilled to announce that @adamspiers managed to get his pull request to #Metamask to include $AERGO. 
+
+You no longer have to paste the #AERGO ERC-20 contract address when setting up a new wallet! #opensource
+
+Details below 👇
+https://t.co/9kDIvUZtnR https://t.co/vUK0bdqQGf",37,1,16,2020-07-15
+83,2020-07-17 15:16:41+00:00,1284145001304174600,aergo_io,https://t.co/RjlZrvk9AG,84,8,25,2020-07-17
+84,2020-07-18 09:07:24+00:00,1284414459067260928,aergo_io,🤝 Teaser 1 : Can you guess what's coming? https://t.co/hOT22BrAku,87,18,20,2020-07-18
+85,2020-07-19 15:44:55+00:00,1284876883864121345,aergo_io,#AERGO - #CHRONOS - What's coming up this week? https://t.co/UQ9U6H3MD3,101,9,25,2020-07-19
+86,2020-07-20 02:18:45+00:00,1285036393543028736,aergo_io,"📈 Teaser 2 : Launching this week 🔥 ~ But that's not all ! Watch this space, especially this week. 
+
+#Aergo #Chronos #Launch #3 https://t.co/X1Gq5MiHTk",90,16,23,2020-07-20
+87,2020-07-21 06:01:17+00:00,1285454780878303232,aergo_io,"🤝 #1 Aergo Chronos Confirmed - We'll have more to come about this, and more on 📈 #2 
+
+#Aergo #Chronos #Samsung #Blockchain #dApp #defi https://t.co/MZDtmpZLmW",64,5,20,2020-07-21
+92,2020-07-22 05:05:03+00:00,1285803019611680769,aergo_io,"Kindly Take Note ✍🏻 of the #OKEX Korean Schedule: 
+
+🗳️ AERGO Deposit 
+– 16:00 July 22, 2020 (KST)
+
+💱 AERGO Spot Trading
+– (AERGO/USDT &amp; /BTC Markets)
+– 16:00 July 23, 2020 (KST)
+
+🙌 AERGO Withdrawal 
+– 18:00 July 24, 2020 (KST) 
+
+#Exchange #AERGO #Listing https://t.co/Edw3qsdkNx",28,2,8,2020-07-22
+97,2020-07-23 07:16:22+00:00,1286198455166271488,aergo_io,"⏱️ Aergo Chronos #3 Teaser
+
+Can you guess what's coming?
+
+In other news: Spot trading will begin in 15 minutes on @OKEx
+
+Trade here 👇 auction price has been opened 
+
+➡️ AERGO/BTC
+https://t.co/vFV39lP4Sv
+
+➡️ AERGO/USDT
+https://t.co/eZbkbF2tRM
+
+$AERGO #AERGO #Blockchain https://t.co/hngOxfVL8Q",64,7,19,2020-07-23
+98,2020-07-24 11:15:28+00:00,1286621013749297152,aergo_io,"🚨 The @OKEx 400,000 $AERGO Trading Competition Commences
+
+1️⃣  Participate in the Trading Competition
+2️⃣  Win a Shared Pool of 400,000 AERGO
+3️⃣  Be the first 100 users + win a commission rebate card (extra rewards)
+
+10:00, July 24 - 10:00, Aug 4 (UTC)
+👉https://t.co/gtsY8DyP54",29,1,8,2020-07-24
+100,2020-07-27 16:28:55+00:00,1287787058476355589,aergo_io,"Reminder to take part in our @OKEx #Trading Contest to win up to 400,000 in $AERGO - We got listed and the top 100 will be rewarded #extra
+
+🏃 Now until August 4 2020. Let's go! https://t.co/VXw6DLhqLY",43,7,7,2020-07-27
+101,2020-07-30 12:59:51+00:00,1288821609403301888,aergo_io,"📅 The #AERGO x #OKExAMA Starts Now! 
+
+Join us in Telegram 👇 
+https://t.co/Xobegjdhqo https://t.co/1FuoDLmh7H",24,1,5,2020-07-30
+105,2020-08-05 09:42:54+00:00,1290946373789990913,aergo_io,"📖 Missed out on our $AERGO AMA with OKEx? 
+
+Don't fret! We've got you covered with an #AMA Summary with our CTO @Hunyoung_Park and CMO @mobilejae
+
+Read it while it's hot 👇🔥
+https://t.co/JcNBRWssYQ",49,5,9,2020-08-05
+106,2020-08-07 05:38:45+00:00,1291609703919714310,aergo_io,"🌯 Aergo Newsletter #11 - Read all about! If you missed out on what's been happening in the #Aergo Ecosystem, we've got you covered. 
+
+Check it out 👇
+https://t.co/mehMLep4yh",71,8,24,2020-08-07
+107,2020-08-11 14:49:10+00:00,1293197775643930624,aergo_io,"🌐Why #Hybrid #Blockchains are the next disruptors. 
+
+Check out Part 1 of our mini content series 👇
+https://t.co/PmwI6jZyaW",48,2,8,2020-08-11
+108,2020-08-12 06:33:10+00:00,1293435337985781760,aergo_io,"🚨 Dear #Aergo Community  
+
+There are delays in the swap service at the moment (especially from native to #ERC20) due to high ETH gas fees. 
+
+The Aergo Team is raising the fee but the ETH gas fee continues to rise as well. 
+
+This will further be discussed in #Agora.  1/2 https://t.co/y6AKsVDtm7",37,3,7,2020-08-12
+110,2020-08-13 09:27:38+00:00,1293841632811298823,aergo_io,"⛽ Gas Fee Amendment - Vote on Agora
+
+Do note that the #Aergo team is going to raise the gas fee and sort out all the outstanding swap requests by end of today. 
+
+During the weekend, we'll have an emergency voting on #Agora regarding the raised gas fee.
+
+#AergoAgora /1",35,4,4,2020-08-13
+112,2020-08-31 12:18:33+00:00,1300407626434375682,aergo_io,"⛽ Token swap service fee amendment [25 $AERGO] from 1st Sept 2020 
+
+We set the gas price to up to 200 Gwei per transaction to address the rising congestion. Note this can vary up to 200 Gwei. 
+
+This should ease up transactions when swapping of #AERGO Native or BEP2 to ERC20. https://t.co/W3ypQJVQdC",30,6,6,2020-08-31
+113,2020-09-07 14:52:27+00:00,1302983074456584192,aergo_io,"🧑‍🚒 Hot New Website Coming In! 
+
+If you haven't seen already, we've just updated our website. 
+Check it out at https://t.co/DOmlvJdsYv https://t.co/v4omxyRA1h",83,15,27,2020-09-07
+114,2020-09-18 04:18:27+00:00,1306809786621521920,aergo_io,"We've launched a new dev tool for testing TX and smart contracts on the $AERGO chain. You can use the interface to create all kinds of TX and send them using Aergo Connect. There's a LOT to come with this as just the beginning.
+
+Check it out, stay tuned!
+https://t.co/9Wy1auZWiY",111,15,32,2020-09-18
+115,2020-09-27 04:16:17+00:00,1310070732618039296,aergo_io,"Dear #Aergo community,
+
+In response to the recent #Kucoin exchange security issue, we will suspend swap service temporarily. 
+
+Please do not transfer tokens or swap. We are taking this issue as priority and considering swap ERC20 tokens to mainnet. More updates to follow shortly.",67,11,9,2020-09-27
+116,2020-09-28 09:14:51+00:00,1310508256280805378,aergo_io,"🚨 AERGO Contract Freeze &amp; Smart Contract Migration 🚨 
+&gt; Our Fix to the KuCoin Exchange Hack Update
+
+Read it now to understand what steps we'll be taking to restore justice.
+https://t.co/B2FX77xpa0
+
+#Aergo #Kucoin #Hack $AERGO",56,19,12,2020-09-28
+117,2020-09-29 09:03:15+00:00,1310867727297339394,aergo_io,"As soon as the exchanges migrate to the new #AERGO contract address, trading and deposit/withdrawals will be available again.
+
+Thank you, $AERGO community for your support and patience!
+
+4/4",18,9,2,2020-09-29
+121,2020-10-03 12:38:00+00:00,1312371321087520772,aergo_io,"🚨 Cast your votes for AIP 5 - Kucoin Guidance Compliance Decision on #Aergo #Agora
+
+Please vote YES to comply with KuCoin's guidance or NO to not comply with KuCoin's guidance.
+
+https://t.co/VmibelAJRK https://t.co/j8Aufkxxnz",31,3,8,2020-10-03
+122,2020-10-05 16:20:37+00:00,1313152120770555906,aergo_io,"Dear Aergo Community 🗣 
+
+The AIP 5 on #Aergo Agora has now closed, and the majority of Token Holders voted Yes to comply with Kucoins Guidance. Aergo tokens will be returned to the rightful owners within Kucoin. Thank you for your votes in helping come to this decision.
+
+#Agora https://t.co/3Nhjg7OxxJ",54,8,7,2020-10-05
+123,2020-10-06 09:18:04+00:00,1313408171059208192,aergo_io,"Our Swap Service Continues! 
+https://t.co/StaxePsPMs
+
+We've also released a new IDE available at: 
+https://t.co/dxE0XJwGze
+
+Thank you for your support and strength Aergo Community. Things are getting back on track, one step at a time!",47,9,9,2020-10-06
+124,2020-10-14 09:13:50+00:00,1316306210233016326,aergo_io,"We know that a small bunch of you have #AERGO stuck in LP's in #Uniswap, #IDEX, #ForkDElta, etc.
+
+We are coordinating with the exchange providers with our team to obtain as many addresses as possible. All community members are in our hearts &amp; will solve these matters. Stay tuned!",48,22,2,2020-10-14
+125,2020-10-21 07:25:47+00:00,1318815731715207170,aergo_io,"We are proud to announce that we have listed on @binance 🔥
+
+AERGO/BTC &amp; AERGO/BUSD trading pairs go LIVE Today at 2020/10/21 7PM KST
+
+Full details
+https://t.co/miJtXBUwLZ
+
+Let's Go $AERGO!
+#Binance https://t.co/ll1Tg0vTPN",100,25,35,2020-10-21
+126,2020-10-26 01:44:18+00:00,1320541733474557952,aergo_io,"📣 Aergo x Binance AMA Reminder
+
+On top of our latest $AERGO listing on #Binance, we'll be having an AMA together in the Binance Exchange Telegram Community. #BNB
+
+Don't miss out! 28th October - 12PM UTC 🕛
+https://t.co/jxObM4Ulyv https://t.co/C8a6YyHVZ5",41,12,10,2020-10-26
+127,2020-10-28 15:46:52+00:00,1321478548599664641,aergo_io,"@binance Following this, we will have an AMA with the @binance Korean Community!
+
+It will be the same day, 12:00PM UTC. See you there! #AERGO https://t.co/st9y4TRLzE",15,1,2,2020-10-28
+129,2020-10-29 07:56:25+00:00,1321722542030114817,aergo_io,"We are LIVE at https://t.co/WeagT1ZGYT
+Join the #AMA 8:00AM UTC 29 OCT https://t.co/Q7ID188Fg2",38,6,9,2020-10-29
+130,2020-10-30 11:21:04+00:00,1322136435361685504,aergo_io,"🚨We have two new proposals listed on #Aergo Agora.  
+
+AIP:6 - Annual staking rewards from the foundation
+AIP:7 - Joining the DTT Alliance.  
+
+Head over to https://t.co/SyMKnnyECZ to cast your vote now! https://t.co/6glayrLfeU",28,1,5,2020-10-30
+131,2020-10-31 10:58:35+00:00,1322493163781545984,aergo_io,"From Restoring Token Holders amidst the #Kucoin Hack, a #Binance Listing, and Further Investment in $AERGO. October Came As a Surprise for Many. 
+
+Read more in our latest #12 Newsletter 🗞️
+https://t.co/SciKbRQnR2 https://t.co/q3T3iF6tqU",42,5,8,2020-10-31
+132,2020-11-04 14:54:06+00:00,1324001983036968962,aergo_io,"#Aergo joins the DTT (Decentralized Trusted Timestamping) Alliance!
+
+Under DTT, Aergo aims to provide members with anchoring service and TX fees targeting more than 1 Mil tx per year! 
+
+For more info, check 👇
+https://t.co/PdZXW9Q0V9 https://t.co/T4FJutV6no",74,6,11,2020-11-04
+133,2020-12-02 10:33:39+00:00,1334083300722315264,aergo_io,"AergoLite - SQLite with Blockchain
+
+#AergoLite can be used to create your private blockchain that stores immutable relational data using SQL, secured by a distributed consensus with low resource usage. You don't even need to learn how a blockchain works!
+
+https://t.co/e3pZzHGXNf",54,3,19,2020-12-02
+135,2020-12-25 09:42:29+00:00,1342405345709338624,aergo_io,"Wishing everyone a very Merry #Christmas from the Aergo Team!
+🌲 🎅 🦌 https://t.co/abyXKmAVKF",25,4,3,2020-12-25
+136,2021-01-01 08:14:16+00:00,1344919858811609094,aergo_io,"Wishing everyone a Happy New Year from the #Aergo Team! 
+
+May 2021 be filled with joy and abundance 🎇🎇🎇 https://t.co/wGlEkxZTLM",47,9,8,2021-01-01
+137,2021-01-05 14:22:07+00:00,1346461983395041281,aergo_io,"@Tokamak_Network @hdac_rizon The alliance has regular meetings &amp; AERGO is working to meet the demand of #AERGO nodes in the Alliance member's infrastructure. Exciting times as DTT Alliance standard of certifying e-docs receives certification from Korean Standard governing bodies
+
+More updates to follow😉 8/8",35,2,3,2021-01-05
+145,2021-01-18 16:22:50+00:00,1351203403901394948,aergo_io,"👨‍💻 Interested in dabbling into the Dev side?
+
+1. Here's how you can deploy your own Smart Contract on Aergo 👇
+https://t.co/GVZ7yNM2cf
+
+#Aergo #SmartContract",35,2,11,2021-01-18
+146,2021-01-22 05:08:45+00:00,1352483319087161349,aergo_io,"If you are interested in taking a peek at the $AERGO HUB (beta) tutorial
+
+Check out our latest video (Currently in Korean only) 🔥
+https://t.co/l979nKnpRG
+
+Visit #AERGOHUB -&gt; https://t.co/7UmnhpSa60",59,7,20,2021-01-22
+147,2021-01-25 06:47:31+00:00,1353595337756143616,aergo_io,"Here is the second part of the AERGO HUB tutorial  (Currently in Korean only) 🔥
+
+https://t.co/nq4pBmqDGS
+
+Visit AERGO HUB -&gt; https://t.co/7UmnhpSa60",47,5,8,2021-01-25
+148,2021-02-01 06:38:03+00:00,1356129670068985860,aergo_io,@mobilejae 🥳👏,2,0,1,2021-02-01
+156,2021-02-02 07:38:41+00:00,1356507316233719808,aergo_io,"$AERGO January Newsletter #13 - DTT, Aergo Hub Beta, CCCV Incubation. Fresh off the press RECAP 🔥
+
+🗞️🗞️https://t.co/0tcSvMjqNV https://t.co/opYUUmjwhC",70,9,12,2021-02-02
+158,2021-02-04 09:39:04+00:00,1357262386348974082,aergo_io,"🚨 Tomorrow February 5th, the AERGO Swap service will be down for maintenance, from 1:00PM to 9:00PM KST 🔧",28,3,3,2021-02-04
+159,2021-02-11 05:49:30+00:00,1359741331640184834,aergo_io,"Since it's Lunar New Years Eve, we would like to wish everybody a Happy #LunarNewYear for 2021 - There will be some exciting things in store for the year of the Ox 🐂. Stay safe everyone, and best wishes!
+
+~ #AERGO Team https://t.co/EOWzEaEjhi",95,16,15,2021-02-11
+160,2021-02-16 11:45:04+00:00,1361642749850578950,aergo_io,"CEO of CCCV and Co-Founder of Blocko Kyeong-Hoon Kim shares more about the #CCCV Platform! 
+
+https://t.co/IuLqKw4cAY
+#Blocko $AERGO #Enterprise #DID",60,7,16,2021-02-16
+161,2021-03-04 09:24:17+00:00,1367405526489862145,aergo_io,"With this collaboration, #Xangle plans to develop:
+➡️ A mirroring service based on the #DTT Alliance
+➡️ A data verification alliance
+➡️ And record disclosures on AERGO's mainnet blockchain
+
+/2",21,1,1,2021-03-04
+163,2021-03-11 08:24:26+00:00,1369927180419928064,aergo_io,We will sponsoring the long awaited DApp Contest with Samsung Blockchain and Blocko.  The contest will focus on DeFi DApps and other categories.  We encourage developers to participate. https://t.co/dP5NrCqOYs,95,21,28,2021-03-11
+164,2021-03-16 00:01:31+00:00,1371612555282579457,aergo_io,"We are proud to announce our 2021 Vision and Road map.  This is a more comprehensive explanation of our Road map released earlier.  We are excited for 2021 and beyond!
+https://t.co/iZKKibzb35 $AERGO",117,8,31,2021-03-16
+165,2021-03-23 09:03:23+00:00,1374285634991386627,aergo_io,"Another Agora vote at @aergo_io
+Crispy Wale is a short clip video exchange platform, using $AERGO platform to secure content for the video creator.  We are asking the community to vote to whether AERGO incubate Crispy wale or not.  Please head to:  https://t.co/RuBe1SQNSu",64,9,17,2021-03-23
+167,2021-03-25 02:56:23+00:00,1374918052869890051,aergo_io,"We are proud to join @BithumbOfficial today!  $AERGO
+
+https://t.co/6I6jooj2ep https://t.co/xP60t4d1vO",77,3,16,2021-03-25
+169,2021-03-26 08:06:17+00:00,1375358429485703173,aergo_io,Thank you $AERGO community for voting!  The votes are in.  Crispy Wales is our 2nd incubation award.  Congratulations!! https://t.co/CgWDfl4eoY,51,5,10,2021-03-26
+170,2021-03-29 11:33:41+00:00,1376497786464595969,aergo_io,"Head on over to @SushiSwap to stake $AERGO and earn some great rewards!
+
+Thank you #Sushiswap 
+
+https://t.co/KSbEjxWv5a",59,1,9,2021-03-29
+172,2021-04-02 02:33:18+00:00,1377811347656699910,aergo_io,"NEW ATH!!!  $0.5361  $AERGO @CoinMarketCap 
+
+https://t.co/FdCKJIdfVf",93,11,17,2021-04-02
+173,2021-04-12 01:28:04+00:00,1381418810922594304,aergo_io,"Good morning!  Mr. Won Jin Lim, CEO of CRISPY WHALES, has put together a nice YouTube video of our incubated project.
+$AERGO
+
+https://t.co/LmKxv06FwV",100,16,28,2021-04-12
+174,2021-04-19 00:15:45+00:00,1383937326632501254,aergo_io,"New chapter in $AERGO advisors.  We are recruiting the next generation of advisors.  Please help us welcome our new advisor Dr. Min Sun Park.  
+
+https://t.co/J66xaBqImF",95,11,24,2021-04-19
+175,2021-04-22 05:55:15+00:00,1385109926507204609,aergo_io,"Great article on $AERGO Merkle Bridge and #NFT 
+
+The future is exciting!  More to come!
+
+https://t.co/PS0USlrQOY",67,3,18,2021-04-22
+176,2021-04-23 06:03:56+00:00,1385474500716744704,aergo_io,"We are in Show Biz now!  Just signed a MOU with the Korean Broadcaster Association and Blocko to create the first of it's kind $AERGO based global audience participation solution!  Voting for your favorite K-POP star on AERGO based voting app!!
+
+https://t.co/GQFhsQ5sV4",88,4,28,2021-04-23
+178,2021-04-26 23:48:04+00:00,1386829460553363457,aergo_io,"Pikkle incubation fund voting has ended and approved unanimously!!  Now let the fun begin!
+
+https://t.co/d9jho7jkwE",56,2,9,2021-04-26
+179,2021-04-28 08:21:40+00:00,1387321103534620676,aergo_io,"Take a look at the Pikkle UX guide on YouTube.  https://t.co/eYg3Z7Cf7q
+
+Voting for your favorite TV show or celebrity will be now on AERGO blockchain!
+
+$AERGO",60,5,18,2021-04-28
+180,2021-05-10 02:01:29+00:00,1391574080420294657,aergo_io,Today we launch our official AERGO mobile wallet.  For android https://t.co/Zqe4Y4E68g and iphone AERGO wallet is coming soon. $AERGO,108,23,30,2021-05-10
+181,2021-05-22 06:37:57+00:00,1395992307346804740,aergo_io,"The market is volatile, but here at $AERGO, we are focusing on our big projects this year:  DTT Alliance (Consortium Blockchain), Pikkle (AERGO based voting platform with Korea Broadcasting Assoc), Crispy Whale (NFT content platform).  We focus on our work!",94,6,25,2021-05-22
+182,2021-05-24 11:36:10+00:00,1396792135005794304,aergo_io,"Happy Monday $AERGO community!  Today we are posting an update about our circulating supply.  Please take a look.
+
+https://t.co/NMfkdlCg2q",60,8,15,2021-05-24
+183,2021-05-27 00:04:20+00:00,1397705190363459587,aergo_io,"We are happy to announce that @Xangle_official disclosures are integrated on the $AERGO public mainnet!
+
+https://t.co/KtslMbkxQ0
+
+https://t.co/xNt9HHZxAx",64,3,13,2021-05-27
+184,2021-06-07 06:27:59+00:00,1401788006239928324,aergo_io,$AERGO ARC2 = NFT,79,9,17,2021-06-07
+186,2021-06-10 05:27:51+00:00,1402860038692085761,aergo_io,"Read the latest update of $AERGO based eVoting platform Pikkle
+
+https://t.co/7TsL87kZJK",52,6,21,2021-06-10
+187,2021-06-11 02:25:42+00:00,1403176586619146250,aergo_io,"Latest update from our incubation partner Crispy Whales.  Things are moving along! $AERGO
+
+https://t.co/Qj6nX4vXVH",56,4,23,2021-06-11
+189,2021-06-14 00:48:01+00:00,1404239167228243968,aergo_io,"Happy Monday!  Did you get the vaccine?  If you are in Korea, register on https://t.co/FKZd98xsUq
+
+$AERGO",42,8,15,2021-06-14
+191,2021-06-18 03:26:49+00:00,1405728680937091081,aergo_io,"Nice article by @coreycosta123 on Transformation of NFT.  Thank you!!
+
+$AERGO
+
+#nftart #NFTs #NFT #NFTartists 
+
+https://t.co/Sq1WFwcTCF",68,6,21,2021-06-18
+193,2021-06-21 02:55:25+00:00,1406807943119478784,aergo_io,"Here is another article from @coreycosta123 regarding Blockchain voting.  Well related to current global environment.  Take a read.
+
+#blockchain #voting 
+
+https://t.co/KLYeS5fKYF",94,14,29,2021-06-21
+194,2021-06-24 06:37:58+00:00,1407951113559498760,aergo_io,"Head over to $AERGO official Telegram channel to see our latest posting answers to June AMA questions.
+
+https://t.co/5ijbnfnoHC",45,6,14,2021-06-24
+195,2021-06-29 08:55:55+00:00,1409797767413735432,aergo_io,"@Blocko_io CCCV team advancing #NFT minting to #ETH #NFT.  Awesome job!!
+
+$AERGO https://t.co/jh3K89KnMn",20,2,10,2021-06-29
+196,2021-07-01 02:12:02+00:00,1410420905847640072,aergo_io,"Today we officially welcome @coreycosta123 as $AERGO Content Writer.  Corey will provide insights in to the blockchain and cryptocurreny markets.
+
+Please help us welcome Corey!  Learn more about our newest team member here:
+
+https://t.co/jzxuBGJdid",75,12,22,2021-07-01
+198,2021-07-02 01:14:01+00:00,1410768691214491650,aergo_io,"We are proud to announce that $AERGO is moving towards a net zero carbon by joining the Crypto Climate Accord @CryptoClimAcc.  https://t.co/y8PowUDxz2
+
+Please read more here:
+
+https://t.co/RnSMkLp1AC",113,10,35,2021-07-02
+199,2021-07-06 04:40:07+00:00,1412270110408990723,aergo_io,"Congratulations Blocko XYZ and the CCCV team on the great partnership!  We are definitely on our way!!
+
+#NFT https://t.co/8Gq55XPWtm",75,7,30,2021-07-06
+200,2021-07-08 04:32:45+00:00,1412993032358486019,aergo_io,"Here is our answer to what actions $AERGO will take to become carbon neutral.  Our continued series of climate discussion:
+
+https://t.co/G9s4DBrMWB
+
+As a member of @CryptoClimAcc , we will do our very best for the future.",90,12,29,2021-07-08
+201,2021-07-15 08:27:45+00:00,1415588886881869827,aergo_io,Congrats @Blocko_io !! https://t.co/tuzpLLm7tG,53,8,26,2021-07-15
+204,2021-07-20 14:01:51+00:00,1417484905131376640,aergo_io,"Our team writer @coreycosta123 looks at inflation and its impact on crypto market.  A good read for sure!
+
+https://t.co/HxRkyoU4q4
+
+$AERGO",61,8,28,2021-07-20
+206,2021-07-21 03:58:47+00:00,1417695526925987840,aergo_io,CCCV team at @Blocko_io XYZ has added the marketplace function on their $AERGO based #NFT!  AERGO NFT is going mainstream!! https://t.co/tIFefk4slw,46,3,20,2021-07-21
+207,2021-07-22 00:30:28+00:00,1418005489418346502,aergo_io,"@Xangle_official recognizes our milestone achievement of AERGO's dapp, Pikkle launch on Google Play and the App store.  The @Blocko_io team is working hard to make $AERGO mainstream!
+
+https://t.co/0mBpcvsmCA",35,3,13,2021-07-22
+210,2021-07-28 22:16:30+00:00,1420508488631873538,aergo_io,"$AERGO @Apple iPhone wallet is now in the appstore!
+
+https://t.co/g6dUtqknSF",49,3,19,2021-07-28
+211,2021-07-29 00:17:54+00:00,1420539041108291589,aergo_io,"For those in Korea, CCCV is having an art gallery event, where the art work is #NFT by various famous artists.  This is the new norm of gallery events featuring #NFTs. $AERGO based NFT!
+
+https://t.co/PucPfNIpeu",82,6,35,2021-07-29
+212,2021-08-02 02:28:27+00:00,1422021447170461697,aergo_io,"CCCV team held an art gallery #NFTs exhibition.  Many attended and purchased various #NFT art work.  This is all on the $AERGO mainnet.  Please see the video of the exhibition, and stay tuned as AERGO goes mainstream!
+
+https://t.co/M7WHBX7Yvt",90,10,34,2021-08-02
+213,2021-08-05 15:14:37+00:00,1423301424805384194,aergo_io,"Notice to our community, At block height 12,965,000, or approximately 2021-08-05 11:55 (UTC), Ethereum is scheduled to undergo the London Hard Fork.
+
+AERGO swap svc (https://t.co/wSBC1Zk97U) will be briefly suspended at 2021-08-05 09:00 (UTC) until ETH node stability is verified.",47,1,13,2021-08-05
+214,2021-08-06 02:18:47+00:00,1423468564393070592,aergo_io,"Announcing 16th Annual  ""Seoul Drama Awards"" voting will begin on August 9th to the 20th on $AERGO based eVoting app Pikkle!!
+
+https://t.co/2VaAULHpj3
+
+AERGO is definitely mainstream now!",74,9,37,2021-08-06
+215,2021-08-09 00:27:14+00:00,1424527654888218626,aergo_io,"Our team writer @coreycosta123 writes about the current market status.  Take a read and let us know what you think?
+
+https://t.co/eSDXMNeNTM
+
+$AERGO",93,12,33,2021-08-09
+217,2021-08-12 02:19:31+00:00,1425643077327151109,aergo_io,"Dear $AERGO community, @coreycosta123 has written an article focusing on the latest breach in security in DeFi and ways to secure your crypto.  We can all be vigilante and keep our tokens safe.
+
+https://t.co/kxlwWFNJf1",96,8,32,2021-08-12
+218,2021-08-15 02:16:51+00:00,1426729569592102913,aergo_io,"CCCV partnering with ""House of Cards"" #NFT gallery to showcase Korean cultural figures in historical arts.  #NFTs will be on sale Aug 15 3:00PM Korea time.
+
+Please check out: https://t.co/BiYwaEBZcI
+
+https://t.co/tJMdIQixuF
+
+#art #NFTcollectibles",85,7,44,2021-08-15
+219,2021-08-18 16:14:30+00:00,1428027535225352193,aergo_io,"Yesterday we hit 149,602 transactions!  Pikkle is really gaining a lot of adoption and speed.  eVoting on $AERGO!
+
+https://t.co/lHzRgNezMy",93,9,37,2021-08-18
+220,2021-08-26 00:55:50+00:00,1430695445970440192,aergo_io,"If you haven't tried Pikkle yet, please go to your app store and download.  $AERGO based eVoting app.
+
+AERGO is on the road to mainstream! https://t.co/lQ8RTJ3xF0",72,7,31,2021-08-26
+221,2021-08-28 01:05:03+00:00,1431422543257239552,aergo_io,These are some of the most beautiful culturally significant art work.  $AERGO #NFTs https://t.co/ts25yp1YAB,63,6,23,2021-08-28
+222,2021-09-01 23:37:53+00:00,1433212544332681217,aergo_io,"We have received our rating from @Xangle_official as a ""..solid level project..""  Thank you!  We have worked hard and will continue to progress!  
+
+$AERGO
+
+https://t.co/uTAA2zMJji",73,8,24,2021-09-01
+223,2021-09-02 12:57:34+00:00,1433413791950069763,aergo_io,"Voting on $AERGO on Pikkle.  Over 8M votes were cast on Pikkle with 710,000 users in the past 2 months.  
+
+Download Pikkle on Apple app store or Google Play store
+
+AERGO is mainstream! https://t.co/Y405HfdDjG",65,11,27,2021-09-02
+224,2021-09-07 00:08:02+00:00,1435032073681526786,aergo_io,"September 2021 $AERGO Zoom AMA is up with our CMO Jae Shin and Blocko Co-CEO Wonbeom Kim.
+
+https://t.co/6PbHsL2V3V",91,8,35,2021-09-07
+225,2021-09-15 03:04:11+00:00,1437975506385657863,aergo_io,"Another milestone for $AERGO #DeFi 
+
+We have listed on Klayswap https://t.co/2D1pHJtBTJ
+
+To commemorate this listing we have a 300,000 AERGO airdrop event.  This will give additional exposure to a wider audience.
+
+First it was Sushiswap, now Klayswap!",98,8,36,2021-09-15
+228,2021-09-16 10:23:26+00:00,1438448435565191171,aergo_io,"Airdrop for Klayswap has started.  It will continue for every new block created, until October 15th.   $AERGO #DeFi 
+
+Provide LP and claim your AERGO #Airdrop https://t.co/NFoDNiXR6u",126,23,47,2021-09-16
+229,2021-09-23 08:22:51+00:00,1440954802947592193,aergo_io,"Here is our first $AERGO based eVoting solution Pikkle analytics, written by our staff writer @coreycosta123 
+
+Take a look!
+
+https://t.co/ySLKg2UI4n
+
+#BTS #Blockchain",74,9,28,2021-09-23
+230,2021-09-27 00:44:25+00:00,1442288986286747652,aergo_io,"Big news!!! $AERGO based https://t.co/i1CbfHDC8Y has been chosen by the 26th Annual Busan International Film Festival (https://t.co/BMcHJXkeuq)as the exclusive NFT partner.  The Film Festival will use the #NFT as tickets to the festival.
+
+Here is the news: https://t.co/7w5APOhK7n",124,15,50,2021-09-27
+232,2021-09-28 03:35:03+00:00,1442694317584228352,aergo_io,"VC validation for $AERGO project!
+
+Written by our team writer @coreycosta123 
+
+https://t.co/4kSqZnLvAw",95,8,41,2021-09-28
+234,2021-09-29 09:21:41+00:00,1443143937393262603,aergo_io,"To celebrate our new AERGO/USDT pair on @kucoincom, we are holding a trade competition with 180,000 $AERGO token prize pool!
+
+Go get some AERGOs!!!
+
+https://t.co/509VjIm0Nu",96,9,35,2021-09-29
+235,2021-09-30 09:07:32+00:00,1443502764621918219,aergo_io,"Busan International Film Festival has minted 50,000+ #NFT tickets so far!! Wow!! $AERGO in the mainstream!
+
+https://t.co/2Uy4Sybsqp",98,7,39,2021-09-30
+236,2021-10-02 07:43:30+00:00,1444206390977785857,aergo_io,"We love the green candles of October, or the red candles (if you are looking at charts in Korea)... :)",63,10,13,2021-10-02
+237,2021-10-03 07:53:02+00:00,1444571179126194182,aergo_io,"October is action packed at $AERGO.  We will be announcing the winners of our #DAPP contest with #Samsung 
+
+Stay tuned!!",121,14,47,2021-10-03
+238,2021-10-05 01:28:11+00:00,1445199104766713863,aergo_io,"What a ride so far this year!  Can't believe Q4 2021 is upon us.  We started with $AERGO price on Jan 1, 2021 at $0.0423 and today, Oct 5, 2021,  we are at $0.34!  So many compelling projects this year!  Let's go!  
+
+To learn about AERGO, please go to: https://t.co/SApJEz9cyD",98,13,28,2021-10-05
+240,2021-10-06 01:31:36+00:00,1445562349700538380,aergo_io,"This is a busy week for us.  Meeting with @Blocko_io  and Samsung to pick the winners of the #dApp contest.  
+
+Thanks to those who submitted their dApp!",98,14,29,2021-10-06
+241,2021-10-08 01:00:37+00:00,1446279329462194211,aergo_io,$AERGO based @Pikkle_Service now has #NFT too?  Wow!  Great combining CCCV and Pikkle! https://t.co/GErCyIm67f,95,12,34,2021-10-08
+242,2021-10-12 06:36:20+00:00,1447813367599489028,aergo_io,"Have you tried the $AERGO based eVoting app Pikkle?
+
+Latest poll is about #SquidGames 
+
+Pikkle is a voting platform that can be customized to any organization, company, or country.",67,6,21,2021-10-12
+244,2021-10-15 03:59:51+00:00,1448861149076672517,aergo_io,Congratulations @Blocko_io ! https://t.co/PQ9oXZE2fP,76,4,23,2021-10-15
+247,2021-10-21 10:04:57+00:00,1451127360288219136,aergo_io,"$AERGO community, Starting tomorrow, you can earn reward on @KLAYswap by liquidity mining.  This gives more people the opportunity to earn as well as more exposure for AERGO with the users of KLAYswap!
+
+#DeFi https://t.co/LwXPBw4892",111,6,39,2021-10-21
+249,2021-10-22 04:03:28+00:00,1451398775558184964,aergo_io,"$AERGO on @KLAYswap is happening now and the return rate is 112%, paid with KSP.  With this type of return, more people will discover AERGO and our community can earn more.  Great partnership!
+
+#DeFi https://t.co/ARUgC9Vs7I",87,5,34,2021-10-22
+250,2021-10-25 23:17:13+00:00,1452776290197540866,aergo_io,"For the new comers to our community, please visit our website to learn more about $AERGO
+
+https://t.co/gnHamO4Whk",72,9,40,2021-10-25
+251,2021-10-29 08:30:06+00:00,1454002590442606598,aergo_io,"Our video AMA for October is up on YouTube.  Check it out!
+
+https://t.co/5IQvBgkpz4",102,8,29,2021-10-29
+252,2021-11-01 09:04:24+00:00,1455098388056215555,aergo_io,"Blocko's CEO Allan Kim will be speaking at the NFT Busan 2021.  Blocko XYZ will be exhibiting at the conference.  $AERGO based CCCV NFT will be the highlight.
+
+#NFTCommunity #NFTs 
+
+https://t.co/K5CdDbLBKn",83,9,33,2021-11-01
+253,2021-11-02 13:25:59+00:00,1455526604537356290,aergo_io,"$AERGO on #OrbitBridge! Check out all the projects! This is the exposure and the interexchange function for our community. 
+
+#DeFi https://t.co/JOo9eXqnIE",100,8,40,2021-11-02
+254,2021-11-03 08:24:33+00:00,1455813133428162561,aergo_io,"Way to go CCCV team for minting live musicals on #NFTS.  This interview is done in Korean, but fast forward to 3:30 mark and you can see that CCCV has made a page for the musical ""Pirate"" to mint their #NFT .
+
+https://t.co/rL0OeB06cv",90,2,40,2021-11-03
+255,2021-11-08 02:57:27+00:00,1457542755329007621,aergo_io,"@Blocko_io XYZ CCCV was one of the most popular booth at the NFT Busan 2021.  CCCV's $AERGO based #NFT was presented by Blocko's Co-CEO Allan Kim.
+
+Allan even gave out an exclusive #NFTGiveaway to lucky few booth visitors and AERGO holders!  
+
+Here is one of them! https://t.co/xpqz0jXUrN",55,3,21,2021-11-08
+256,2021-11-09 00:24:51+00:00,1457866742198267905,aergo_io,"Nicely done @coreycosta123 !  Thank you for the video, very informative! https://t.co/ClA6B7tBEZ",55,6,17,2021-11-09
+257,2021-11-11 09:02:26+00:00,1458721769267744778,aergo_io,"Seoul Drama Awards ceremony highlight #NFTs great for #nftcollectors 
+
+All powered by $AERGO https://t.co/iQDJzJZCXe",82,7,26,2021-11-11
+258,2021-11-17 06:18:39+00:00,1460854881049210883,aergo_io,$AERGO based #NFTs are selling out! https://t.co/Ad0qjbgNrq,53,1,24,2021-11-17
+259,2021-11-19 01:08:51+00:00,1461501690620755969,aergo_io,"Congratulations CCCV team partnering with YLAB (https://t.co/2wixATuE0t) to create #NFTs using YLAB's webtoons.   The two companies will cooperate on sales marketing to revitalize the webtoon NFT market.  All on the $AERGO based NFT.
+
+https://t.co/Eoh2DvGiv6",57,13,20,2021-11-19
+261,2021-11-22 08:41:15+00:00,1462702704568856576,aergo_io,"$AERGO community, please head over to our governance voting for our next vote. This vote is regarding deposit for AERGO staking reward. Please vote! Thank you.
+
+https://t.co/5iIXrms8bQ",83,12,41,2021-11-22
+262,2021-11-23 12:57:05+00:00,1463129478347902982,aergo_io,"Dear AERGO Community,
+We are in the process of upgrading our aergoscan for better NFT processing. This will require re-indexing of all the data in the mainnet and will take approximately 1 week.  The re-indexing will start at 10:00PM Korea time today Nov 23.  (1 of 3)",43,5,11,2021-11-23
+265,2021-12-02 08:04:01+00:00,1466317216782032901,aergo_io,"$AERGO has a new partner that will advance the way you hold and secure your AERGO tokens, both ERC20 and Mainnet tokens.  Also, you can keep your AERGO #NFTs in the new MarS Wallet  by @TrustVerse.  We just signed a MOA!! The development will start soon!
+
+https://t.co/64arZpq1Z1",77,9,30,2021-12-02
+268,2021-12-16 18:36:36+00:00,1471549840458858497,aergo_io,"CCCV team has partnered with KB Credit Cards (https://t.co/B8b0jQhyh8) for a holiday #NFT giveaway promotion.  
+
+CCCV team is normalizing #NFTs in the offline world!
+
+https://t.co/lngbvznZBB",48,5,22,2021-12-16
+269,2021-12-17 08:27:14+00:00,1471758873463713797,aergo_io,"$AERGO team writer, @coreycosta123 recaps the fantastic 2021 we had. We are excited for 2022! So much to come. 
+
+#NFT #B2C #DeFi 
+
+https://t.co/KjD6GEzdV1",70,13,27,2021-12-17
+270,2021-12-22 03:08:48+00:00,1473490679406145536,aergo_io,"Way to go CCCV team for adding $AERGO as a payment method for NFT sales!
+
+#NFTCommunity #NFTs #nftcollector https://t.co/QOII3FxXjV",87,13,28,2021-12-22
+271,2021-12-24 01:01:06+00:00,1474183319285755904,aergo_io,"Congratulations to the @Blocko_io team on receiving an ""A"" grade from the Korean Corporate Data, a professional evaluation agency, as a result of a mock technical evaluation for listing special technology company on KOSDAQ.
+
+https://t.co/Yti5O3q8fm",61,6,23,2021-12-24
+273,2021-12-29 17:53:49+00:00,1476250113739669505,aergo_io,"2021 was one of the best year for $AERGO!  One of our big initiative is to make our mainnet tokens the primary means of trade.  With that, our first mainstream use case is to settle #NFT payment with AERGO mainnet tokens on CCCV.
+
+https://t.co/lKKzxH5ykU",79,21,28,2021-12-29
+274,2021-12-31 17:41:11+00:00,1476971712759488513,aergo_io,"2021 was an incredible year!  So much growth in token price and partnerships.  We look forward to 2022 with new projects, partners, and expansions.  It will be a busy busy exciting 2022!
+
+Thank you to all the supporters of $AERGO!  We could not have done it without our community!",93,14,31,2021-12-31
+275,2022-01-05 05:53:49+00:00,1478605635784634368,aergo_io,"Hot off the press for the new year, 2022 AERGO Vision.
+
+2022 will be a big year for $AERGO!
+
+https://t.co/niG8TiIw1j",123,13,39,2022-01-05
+276,2022-01-10 04:43:56+00:00,1480399986772746241,aergo_io,"To celebrate AERGO's 2022 Vision, our exchange partner @BithumbOfficial is having an $AERGO Transaction Contribution  #Airdrop #Event!  Over 750,000 AERGO tokens to share! Head over to Bithumb and get some!
+
+https://t.co/qvMEO2vtmY",87,10,34,2022-01-10
+277,2022-01-14 03:56:28+00:00,1481837596518981632,aergo_io,"#NFT innovation from the CCCV team never cease to amaze us.  March 2022 is the Korean Presidential Election.  CCCV partnered with MaskDAO to create Presidential candidate NFT.  Who will be elected?  Perhaps this promotion will predict!
+
+https://t.co/FHE68sf5P5",66,9,26,2022-01-14
+278,2022-01-21 04:19:16+00:00,1484380046391345152,aergo_io,"@coreycosta123 explains in detail the latest CCCV partnership with with KB Card.  Take a look!
+
+Thanks Corey!
+
+#NFTs https://t.co/3IkoZYG7My",43,7,21,2022-01-21
+279,2022-01-25 02:46:03+00:00,1485806139346280456,aergo_io,"Another exciting partnership by CCCV with mainstream media company, Maekyung Media Group's https://t.co/GmK4eLrOPw (https://t.co/MBgEANlJP2) on $AERGO based #NFT.   The momentum is accelerating!
+
+https://t.co/MR7aFW93np",56,9,15,2022-01-25
+280,2022-01-26 06:17:39+00:00,1486221777705439233,aergo_io,"Our team writer @coreycosta123 summarized the meteoric rise of @Blocko_io XYZ's CCCV's #NFT partnerships and service.  To be mainstream, one has to make the right partnerships and actually reach everyday consumers.
+
+https://t.co/VuY6SoGu6A",95,9,37,2022-01-26
+281,2022-01-28 05:07:07+00:00,1486928806229118980,aergo_io,"Team writer @coreycosta123 translated the latest post by @Blocko_io regarding $AERGO based GemPay.  This is an evolution from AERGO GEM.  
+
+Take a look!  Exciting solutions keep coming from Blocko!
+
+https://t.co/EaDxHanG00",76,14,30,2022-01-28
+282,2022-01-31 19:35:07+00:00,1488234409526394881,aergo_io,Happy Lunar New Year!,56,7,14,2022-01-31
+283,2022-02-07 07:50:58+00:00,1490593917657808903,aergo_io,"Do you want to know more about the $AERGO based GemPay service?  @coreycosta123 translated the latest article from @Blocko_io 
+
+Take a read....
+
+https://t.co/lamhgIzRPX
+
+#StableCoin #merchant #DeFi",75,8,27,2022-02-07
+284,2022-02-11 04:33:11+00:00,1491993696170299392,aergo_io,"Continuing the information on GemPay, here is another article by our team writer @coreycosta123 
+
+The importance of our Merkle Bridge!
+
+$AERGO mainnet 
+
+https://t.co/OqsQDHTHAD",74,10,24,2022-02-11
+285,2022-02-15 08:19:40+00:00,1493500241554784257,aergo_io,"Our February #AMA, answering $AERGO community questions.
+
+Take a look.
+
+https://t.co/JiIoSwyv6s",75,7,31,2022-02-15
+286,2022-02-24 07:23:56+00:00,1496747707528105984,aergo_io,"GEMpay is gaining momentum!  This week's update by @coreycosta123 .  $AERGO based Token as a Service offered as one of @Blocko_io managed solution.
+
+Please take a look!
+
+https://t.co/6izYbOguIN",109,16,43,2022-02-24
+287,2022-03-04 01:28:49+00:00,1499557442224799744,aergo_io,"AERGOscan has been upgraded to v1.5
+1. Index speed improved
+2. Backend response speed improved
+3. Token information added
+
+https://t.co/lHzRgMXwKy",71,8,29,2022-03-04
+288,2022-03-07 22:34:51+00:00,1500963214150225922,aergo_io,"Here is a step by step guide to purchasing $AERGO on @CoinbaseExch @coinbase .
+
+https://t.co/7AtWUbw0Fh",108,8,44,2022-03-07
+290,2022-03-11 00:50:58+00:00,1502084631965089792,aergo_io,"Congratulating the new President Elect Yoon Suk Yeol.  He is on the side of new Tech, as his team just newly minted #NFT on @Blocko_io XYZ's CCCV.  Check them out!
+
+#윤석열대통령 #NFTCollection #NFTdrop 
+
+https://t.co/BBPzC38MII",88,6,32,2022-03-11
+291,2022-03-14 08:41:19+00:00,1503290163144773636,aergo_io,"Our 4th AMA is live.  Take a look!
+
+https://t.co/vUebLyDicy",75,6,28,2022-03-14
+292,2022-03-15 08:00:52+00:00,1503642373334568960,aergo_io,"Fresh brand new look to $AERGO!
+
+So many new information organized for better understanding.  
+
+We will have an article explaining the direction of our AERGO identity.  Meantime browse our new website.
+
+https://t.co/NL1tRt7CuN",85,7,38,2022-03-15
+294,2022-03-18 07:01:40+00:00,1504714638302216192,aergo_io,"Thank you @cryptocom for listing AERGO/USDT pair! 
+
+https://t.co/URuyutfnV1 https://t.co/NKOi50m2wi",120,6,44,2022-03-18
+296,2022-03-24 11:53:23+00:00,1506962378956582921,aergo_io,"Hey $AERGO community! Go to @cryptocom and download the https://t.co/xv06jnx7oq app and trade AERGO!!
+
+Our newest exchange partner! https://t.co/UY938a5RC4",97,22,34,2022-03-24
+297,2022-03-29 05:55:02+00:00,1508684137133408260,aergo_io,"The momentum continues!  $AERGO is listed on @Poloniex !
+
+https://t.co/9MsUqQ5y0j",127,12,62,2022-03-29
+298,2022-04-08 08:00:57+00:00,1512339702036131842,aergo_io,@Blocko_io road to IPO is imminent. Team has worked hard and will continue to push until @kospi_kosdaq IPO. https://t.co/vFwLGBXQbM,12,1,4,2022-04-08
+299,2022-04-11 05:48:32+00:00,1513393542651351040,aergo_io,"AERGO has been updated to 2.3.0
+
+https://t.co/G5WCjX7ARA",88,12,50,2022-04-11
+300,2022-04-12 05:08:12+00:00,1513745779696959490,aergo_io,"$AERGO innovation continues with the addition of AERGO Timer Service.  AERGO Timer Service is a trustless service that uses off-chain nodes to interface with the AERGO blockchain. Create timers and schedule various calls on your smart contract.
+
+https://t.co/lhUs50EKII",104,10,55,2022-04-12
+301,2022-04-20 04:44:18+00:00,1516638867432296448,aergo_io,"#NFTs are fully mainstream!  Paris Baguette (https://t.co/GL0YJeEtVQ https://t.co/bouJMRNFTH) has partnered with @Blocko XYZ's CCCV to mint exclusive Jeju Island #NFT coupons limited to 500 NFTs. 
+
+https://t.co/fhJltVAm3E
+
+#Coupons #NFTGiveaway #NFTdrop",93,11,37,2022-04-20
+302,2022-04-25 02:24:44+00:00,1518415685369856002,aergo_io,"Great news this morning! @bespinglobal and @Blocko_io teaming to provide blockchain managed service to more than 2,000 Bespin customers.  Including token as a service for enterprises to easily mint tokens on $AERGO platform.  This will definitely scale!
+
+https://t.co/57tX6SOyqg",94,12,51,2022-04-25
+304,2022-04-26 04:09:26+00:00,1518804421756342274,aergo_io,Thank you @binance for adding us to the Convert &amp; OTC Portal!  Our community will definitely like the ease of conversion! https://t.co/WnTKW8HSI0,98,7,51,2022-04-26
+305,2022-04-28 09:56:43+00:00,1519616590773309441,aergo_io,"Start together, scale together! We are proud to announce AERGO Venture fund! The new fund combines the already announced Dapp fund. 
+
+Read more here: https://t.co/Lq1EPxnkdt
+
+#VentureCapital #startups #Dapp",92,9,45,2022-04-28
+306,2022-05-04 01:43:33+00:00,1521666811875393536,aergo_io,"$AERGO RSS Feed Integrated With @cryptocom  Price Page.  Now all of https://t.co/xv06jnx7oq customers can view AERGO's latest news and information.
+
+https://t.co/8SsJD48HLa
+
+#RSS #cryptocommunity #Cryptocom",105,17,53,2022-05-04
+307,2022-05-11 04:35:29+00:00,1524246795978964993,aergo_io,"Thank you @CoinbaseAssets including $AERGO in your custody service!
+
+#custody #Coinbase #CoinbasePro https://t.co/NPog3RdxKR",89,6,44,2022-05-11
+308,2022-05-13 07:37:27+00:00,1525017365028560896,aergo_io,"@Blocko_io XYZ's CCCV booth at the 2022 Seoul Money Show, where the team is featuring @aergo_io based #NFTs. https://t.co/0idqyEuq2x",40,3,15,2022-05-13
+309,2022-05-14 10:56:10+00:00,1525429757986238465,aergo_io,"Our 5th AMA moderated by @coreycosta123.  Featuring @mobilejae and Wonbeom Kim, answering our $AERGO community questions. 
+
+https://t.co/pTjxmN1hln",68,7,38,2022-05-14
+310,2022-05-15 22:31:52+00:00,1525967225655504897,aergo_io,"The $AERGO team will be at the Permissionless (https://t.co/Z6nBXdrDEm) event in Palm Beach, FL this week! 
+
+@mobilejae and COO Jae Nam will be in attendance!",83,6,44,2022-05-15
+311,2022-05-17 13:11:49+00:00,1526551060214468610,aergo_io,"$AERGO Team @mobilejae and Jae Nam at #Permissionless, day 1.
+
+Already a nice meeting with @coinbase. https://t.co/1qHJs6lsUG",122,19,63,2022-05-17
+312,2022-06-01 01:41:51+00:00,1531813243223584768,aergo_io,"@Blocko_io CEO Allan Kim gave a heart felt intro to GEMPay launch.  Allan explained his cautious start due to the current crypto environment. He further elaborated his approach to the KRW pegged $AERGO Gem. We are excited about the upcoming Silvermine.
+
+https://t.co/vcmEJrirz0",63,6,33,2022-06-01
+313,2022-06-09 02:17:11+00:00,1534721238399975424,aergo_io,"$AERGO is run by the community and big decisions go through our Agora voting.  Please head to: https://t.co/ZIubKhH6sx
+to vote on the latest CCCV NFT Agency proposal.  Hit the Draft Link to review the descriptions.  Thank you!",31,1,7,2022-06-09
+315,2022-06-12 03:20:06+00:00,1535824235070861313,aergo_io,"We would like to introduce our newest Marketing Manager at AERGO US, Mason.  Mason will be creating more contents and revamping our social marketing efforts. Here is a quick intro video and recap of May 2022.
+
+https://t.co/3D8M0sDVRG",90,16,47,2022-06-12
+316,2022-06-22 02:03:06+00:00,1539428733920382982,aergo_io,"@masonshin4 is at #NYCNFT2022 representing $AERGO!
+
+#NFTCommunity https://t.co/uBKtH0wltR",40,8,23,2022-06-22
+317,2022-07-04 02:13:36+00:00,1543780032090238980,aergo_io,"We are very proud to announce the opening of AERGO Scan V2.
+
+Check it out!  We will publish an in depth article soon.
+
+https://t.co/lHzRgNezMy
+
+$AERGO #mainnet #NFTCommunity",125,15,50,2022-07-04
+319,2022-07-08 06:08:57+00:00,1545288811357544448,aergo_io,"Blocko XYZ CCCV team is at Everland minting NFT and giving secret rewards!  All the $AERGO holders in Korea, go check it out and get some #NFTs! https://t.co/j9vJA2UeUD",84,6,30,2022-07-08
+320,2022-07-09 10:03:38+00:00,1545710258181378048,aergo_io,"June 2022 AMA6 with CEO of Blocko XYZ is up!  Take a look!
+
+https://t.co/lqxmLMdLEh",82,6,48,2022-07-09
+321,2022-07-10 05:01:08+00:00,1545996522138980352,aergo_io,Do many more good things to come! AERGO is being used by corporations for #NFT marketing! Crypto winter is not affecting companies to jump on the NFT train because there is real ROI in these.,103,13,43,2022-07-10
+323,2022-07-18 23:36:15+00:00,1549176252954988544,aergo_io,"June 2022 update is up, created by our $AERGO US Marketing Manager, @MasonShin4 
+
+Check it out!
+
+https://t.co/AWFacYFr3B",137,11,58,2022-07-18
+324,2022-07-25 00:02:42+00:00,1551357234646396928,aergo_io,"AERGO Connect 2.2.0 has been submitted to Google for review and is being escalated. AERGO Connect is down but will be back up shortly. 
+
+Just to let the community know the current status.",121,11,65,2022-07-25
+325,2022-08-01 00:47:42+00:00,1553905274582634496,aergo_io,$AERGO will be a Gold sponsor at the Korea Block Chain Week 2022 @kbwofficial!  Lots of demo at the booth!  Please make your plans to come and say hello!,138,12,58,2022-08-01
+326,2022-08-08 03:15:18+00:00,1556479135265878016,aergo_io,"Allan Kim, CEO @Blocko_io , and Hochul Seok, CISO $AERGO, doing press interview at @kbwofficial . https://t.co/da4rm9FvKa",74,2,25,2022-08-08
+333,2022-08-09 00:37:56+00:00,1556801920034938880,aergo_io,Day 2 of @kbwofficial is about to start.  All the various sponsor booths getting ready. https://t.co/LHBFpPoeE5,103,4,46,2022-08-09
+335,2022-08-10 06:11:38+00:00,1557248288755052544,aergo_io,"The team from $AERGO, @Blocko_io, @BOOOSTOfficial, and @cccv_cccv had a great time at the @kbwofficial 2022!
+
+Lots of presentations and reconnecting with old friends!
+
+#NFT #SBT #SoulboundNFTs #LivetoEarn https://t.co/edbgiZ6ZeD",147,14,65,2022-08-10
+336,2022-08-12 05:12:52+00:00,1557958274338549761,aergo_io,"We all need to understand the security risks that come with handling cryptocurrency.  Hardware wallets are a must and if you don't know, you need to find out!  @Ledger hardware wallets are one of the best in the industry!  Use this link for 10%off
+
+https://t.co/VKo2y3xt1e",140,12,55,2022-08-12
+337,2022-08-21 05:33:40+00:00,1561224999544844288,aergo_io,"@MasonShin4 brings you another monthly video recap.
+
+https://t.co/uOpJo0UAo5
+
+@Blocko_io @cccv_cccv @BOOOSTOfficial",61,6,30,2022-08-21
+338,2022-09-05 09:54:06+00:00,1566726355558944769,aergo_io,The AERGO Swap (Bridge) service will be suspended from September 10th to safely respond to the Ethereum Merge event. The service will resume once the Ethereum network stability is confirmed. https://t.co/xYSoAq9lB3,126,12,50,2022-09-05
+342,2022-09-14 08:16:14+00:00,1569963217535004672,aergo_io,"Having both the characteristics of a Layer 1 and 2, AERGO enables enterprises to transfer assets to a public chain by connecting the private chains in a single sidechain form. 
+
+Read more about what makes AERGO unique enough to be called a ‘Layer 1.5’ :
+https://t.co/ZPXbR7ol8q https://t.co/uUoupbHHEY",139,13,72,2022-09-14
+343,2022-09-17 10:30:53+00:00,1571084266590842881,aergo_io,"AERGO Swap (Bridge) service resumed. Also, current old bridge system will be deprecated in the not too distant future.. We will update soon. https://t.co/wSBC1Z365U",73,6,12,2022-09-17

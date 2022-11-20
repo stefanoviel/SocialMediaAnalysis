@@ -1,0 +1,1173 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-09-15 18:42:55+00:00,1305940172991868928,API3DAO,"Hello, World! We are now live at https://t.co/0e2cjYSj8k",71,4,22,2020-09-15
+1,2020-09-16 13:29:21+00:00,1306223652095111170,API3DAO,"Decentralized APIs for the Decentralized Web - An Overview of API3
+
+https://t.co/VEJUIHmU9U",68,5,15,2020-09-16
+2,2020-09-17 13:16:40+00:00,1306582845461274627,API3DAO,We're excited to work with @PrimeDAO_ and their community on more sustainable #DeFi for everyone. Their litepaper is out now. https://t.co/H927Dc6eTk,34,3,7,2020-09-17
+3,2020-09-26 10:30:05+00:00,1309802416980848647,API3DAO,"@avocado_smashed Hi @avocado_smashed, you can explore how API3 aligns or differs from existing decentralized oracle solution by reading our whitepaper, available at https://t.co/0e2cjYSj8k.",1,0,0,2020-09-26
+4,2020-10-04 15:23:56+00:00,1312775470396715012,API3DAO,"""The concept of an API is so inescapable in computer software that it’s ironically difficult to appropriately define it.""
+
+In the first post of our series, we take a quick tour through software history in our attempt to define “API”.
+
+https://t.co/YlQTxReSZa",58,3,14,2020-10-04
+5,2020-10-08 08:11:14+00:00,1314116126058700800,API3DAO,"To accommodate the timelines of some of our ecosystem’s strategic partners, we will be postponing the API3 public token distribution event to a later date.
+
+https://t.co/pmMXqUgOIZ",19,4,0,2020-10-08
+7,2020-10-11 15:17:50+00:00,1315310647429730305,API3DAO,"Previously we defined APIs and their major role in the digital world. However, APIs are not directly compatible with blockchains.
+
+In the 2nd post of our series, we define the ""API Connectivity Problem""
+
+https://t.co/fsJd54xViP",41,4,11,2020-10-11
+8,2020-10-15 16:02:30+00:00,1316771442277658624,API3DAO,"AI is a salient point of our internal discussions because of its strong correspondence with blockchain technology.
+In this post, we discuss a facet of this likeness: the cyclic nature of progress.
+
+https://t.co/zvFTrzU4Ze",24,3,3,2020-10-15
+9,2020-10-18 20:10:23+00:00,1317920984733765632,API3DAO,"""First-party oracles tap into the wellstream of trust and reputation already established and maintained in 'meatspace'.""
+
+In the third post of our series, we discuss 1st-party oracles vs 3rd-party oracles.
+
+https://t.co/wdP538xK85
+
+#blockchain #api3 #oracles",30,6,7,2020-10-18
+10,2020-10-22 16:51:44+00:00,1319320545054363649,API3DAO,"APIs are quickly gaining their deserved recognition in the oracle space, and it is to be expected for the whole blockchain space to soon demand first-party oracles. However, it is yet to be decided who will be the ones to deliver them.
+
+https://t.co/5kXefCm3cV",35,4,5,2020-10-22
+11,2020-10-26 18:07:41+00:00,1320789209683267594,API3DAO,"""The obstacles currently in front of first-party oracle adoption are so deeply-rooted that clearing them requires a whole new approach.""
+
+https://t.co/TxyKZVoVIb",37,4,9,2020-10-26
+12,2020-11-04 17:44:09+00:00,1324044779118825473,API3DAO,"""There is a leap in complexity when we go from dealing with discrete data (often, and even more simplistically: binary decisions) to dealing with real-valued, continuous data that doesn’t natively live on the blockchain.""
+
+https://t.co/jvxgNH73WH",21,3,4,2020-11-04
+13,2020-11-06 17:21:29+00:00,1324763851133505536,API3DAO,"We often refer to Airnode as ""the first-party oracle node"", but what if the other party doesn't know what an oracle is? In this first part of our series on Airnode, we explain how we present it to the API providers: The API gateway for blockchains.
+https://t.co/zTotd1EnBb",51,6,13,2020-11-06
+15,2020-11-09 17:44:42+00:00,1325856855818719241,API3DAO,"In this post, we introduce a minimal terminology that implicitly provides a framework for how API3 building projects will be managed and governed over by the DAO.
+https://t.co/C6HwkQ7UfE",26,3,1,2020-11-09
+16,2020-11-11 14:31:11+00:00,1326532934120042499,API3DAO,"We have updated our model for staking rewards regarding how inflationary rewards and revenue will be handled for stronger tokenomics.
+https://t.co/vqr7Y9kdeC",29,3,5,2020-11-11
+17,2020-11-12 18:50:47+00:00,1326960650720055301,API3DAO,"@pineapplevl @placeholdervc @PanteraCapital @Accomplices @coinfund_io @DCGco @hashed_official Note that that code was deleted in September and is not in master branch.
+
+That was for a project that requested this specifically. Then that relationship evolved into a long term partnership so we'll be serving them with our own asynchronous aggregators.",3,1,0,2020-11-12
+19,2020-11-14 17:09:13+00:00,1327659865125376000,API3DAO,"A commentary and a rebuttal to the recent sensationally titled CoinDesk piece.
+https://t.co/S12c5RndxG",80,22,17,2020-11-14
+20,2020-11-15 22:02:51+00:00,1328096148846997506,API3DAO,"""The amount safely secured by a data feed must have an upper limit ... like all blockchain technology, data feeds served by oracles should only be trusted to a certain extent, rather than be treated as unconditionally trustless.""
+
+https://t.co/e6LnlgXe7H",45,3,7,2020-11-15
+21,2020-11-16 17:06:30+00:00,1328383959252799489,API3DAO,"Announcing our first monolith, the authoritative version of the DAO! After API3 ratifies the proposal, @dOrg_tech will start work on the first undertaking.
+https://t.co/Y2utzXiobE",41,3,4,2020-11-16
+22,2020-11-17 18:36:59+00:00,1328769117374074882,API3DAO,"@rodrigopacini Hi Rodrigo, we don't claim that first-party oracles are perfectly trustworthy.
+
+Here's a quote from the article: ""I should make quick note that I am not stating first-party oracles are perfectly trustworthy. Of course not ...""",1,2,0,2020-11-17
+27,2020-11-24 15:24:39+00:00,1331257428235726849,API3DAO,"""The creation of a DAO is meant to assist a blockchain protocol in dealing with the unknown ... if a protocol could be perfectly engineered from its inception, then a DAO — created to oversee changes to the protocol — would be entirely unnecessary.""
+
+https://t.co/uoiNxbE0wB",67,5,11,2020-11-24
+31,2020-11-25 18:02:06+00:00,1331659440462893057,API3DAO,"Our token distribution event will begin November 30th on the Mesa DEX.
+
+Here's a step-by-step guide on how to participate.
+
+https://t.co/1azILGfI8A",151,20,25,2020-11-25
+32,2020-11-26 10:20:55+00:00,1331905770343067648,API3DAO,"One command, three minutes. This is how easy it is to deploy an Airnode.
+
+https://t.co/GaPQTGOlky",67,12,12,2020-11-26
+34,2020-11-28 01:26:00+00:00,1332495929765715970,API3DAO,@ChainLinkGod @rAPI3r We hope this provides a framework in which to have such discussions.,6,0,0,2020-11-28
+37,2020-11-30 17:45:24+00:00,1333467178805440517,API3DAO,"The API3 Mesa Distribution is now live.
+
+To participate, please see the step-by-step guide linked below.
+
+The distribution is set to run for two weeks, ending on December 14th, 2pm CET, or whenever the total allocation is claimed.
+
+https://t.co/1azILGfI8A",85,14,17,2020-11-30
+39,2020-12-02 14:36:10+00:00,1334144329674264577,API3DAO,"We are eager to see what developers will build using Airnode-enabled APIs and @maticnetwork's cutting-edge Layer-2 technology.
+
+Hackathon participants will be able to use crypto, traditional markets, commodities and sports data.
+
+https://t.co/L2f8K9Bfvl",242,21,49,2020-12-02
+40,2020-12-04 19:14:47+00:00,1334939223967854596,API3DAO,"With the distribution of the full public allocation of 20M API3, the API3 public token distribution event has officially been concluded. 
+
+https://t.co/6Rw3jMNJdn",230,22,27,2020-12-04
+41,2020-12-06 20:12:19+00:00,1335678478243475456,API3DAO,"""API3 will expand the applicability of the blockchain without sacrificing decentralization.
+
+This will be achieved via dAPIs — fully decentralized and blockchain-native APIs — which will be set up, managed, and monetized at scale by the API3 DAO.""
+
+https://t.co/0iYrJbgZxd",223,11,48,2020-12-06
+42,2020-12-08 16:37:57+00:00,1336349306132029448,API3DAO,"Airnode serves as the gateway for #API providers to serve their data to the blockchain. It also forms the backbone for the API3 protocol. Read this post by API3 developer @andre_ogle to learn how it all works.
+
+https://t.co/oNC6Za7Jcj",114,5,22,2020-12-08
+43,2020-12-09 14:01:04+00:00,1336672214180106243,API3DAO,"We are very excited to partner with @allianceblock in developing their trustless KYC product, and connecting enterprise API data to on-chain applications.
+
+https://t.co/3uvpjsjkmn",234,16,46,2020-12-09
+44,2020-12-10 18:39:15+00:00,1337104608158769157,API3DAO,"Previously, we have put forth a framework for a DAO-governed roadmap. This time we are introducing how the DAO operations will be structured.
+https://t.co/YTILGqamP7",122,5,31,2020-12-10
+45,2020-12-14 21:17:50+00:00,1338594069212090368,API3DAO,"First-party oracles are operated by API providers themselves.
+
+In contrast, third-party oracles are not operated by the owners of the data they serve, acting as middlemen between the data source and the blockchain.
+
+https://t.co/wdP538PkZD",23,3,4,2020-12-14
+58,2020-12-19 18:40:41+00:00,1340366459323764741,API3DAO,"API3 is hiring!
+https://t.co/tYMwDYfwGF",248,18,50,2020-12-19
+59,2020-12-22 15:03:06+00:00,1341398866076250112,API3DAO,"Announcing the native integration of API3 to @FantomFDN 
+
+https://t.co/c4PhhVOWTs",379,15,85,2020-12-22
+60,2020-12-29 16:57:53+00:00,1343964469215559682,API3DAO,"Unfortunately we are required to postpone our hackathon with Matic, originally planned to take place during EthPunk 2021 / ETHIndia Online, between Jan 22nd to Feb 20th. More details in the linked blog post.
+
+https://t.co/aGn9WaUmxN",210,43,34,2020-12-29
+61,2020-12-30 13:39:46+00:00,1344276998458376192,API3DAO,"@ETHIndiaco @FranklinBi This is a lie. We have proof of extensive communication (and more) with you (@Devfolioco) through our mutual partner @maticnetwork. We will not publish screenshots of private Telegram conversations, but if a reporter would like to confirm, they are welcome to contact us.",85,47,15,2020-12-30
+62,2021-01-13 15:07:14+00:00,1349372441844457473,API3DAO,"We are excited to work with members in the @EntEthAlliance to realize new, data-driven blockchain use cases, as well as develop standards for API-connectivity in enterprise blockchain, based on best practices, synergies and creativity.   https://t.co/eGGAj5R8Ll",306,11,79,2021-01-13
+63,2021-01-20 19:04:33+00:00,1351968878591680514,API3DAO,"Announcing the integration of API3's first-party oracles to @Omen_eth on @xdaichain
+
+https://t.co/jG2qSt95iV",423,13,106,2021-01-20
+64,2021-01-29 15:02:13+00:00,1355169384113778700,API3DAO,"We are happy to announce our integration and partnership with @Plasm_Network, providing developers on their platform with access to truly decentralized data with quantifiable security. 
+
+https://t.co/XlBf17hjFA",488,17,118,2021-01-29
+65,2021-01-31 18:56:01+00:00,1355952998908878850,API3DAO,"First Airnodes coming online, authoritative DAO development powering on, team growing larger. The first development update is out!
+
+https://t.co/y0bonw8TnF",373,16,113,2021-01-31
+66,2021-02-08 14:55:54+00:00,1358791672381988867,API3DAO,"We are happy to announce our partnership with @_birdmoney, providing their Trust Score data over an Airnode, and price dAPIs for the next version of the https://t.co/1cISyaYoZn lending platform.
+
+https://t.co/OltZtL4GU3",266,9,69,2021-02-08
+67,2021-02-10 14:02:01+00:00,1359502888037453825,API3DAO,"Announcing our partnership and native integration with @TomoChainANN. 
+
+https://t.co/5jTkKPrVnW",504,16,116,2021-02-10
+68,2021-02-11 17:03:16+00:00,1359910887537209353,API3DAO,"Announcing the partnership between API3 and @harmonyprotocol, providing truly decentralized data dapps running on Harmony's fast and open blockchain.
+
+https://t.co/FsgbdIWQbX",481,20,145,2021-02-11
+69,2021-02-12 16:13:44+00:00,1360260812082921475,API3DAO,"Today, we are happy to publish our partnership and token swap with @POKTnetwork. Pocket Network's decentralized blockchain infrastructure protocol will enable Airnodes to interact with smart contract platforms without any decentralization bottlenecks. 
+
+https://t.co/Si0UUDnKul",295,9,74,2021-02-12
+70,2021-02-19 14:13:36+00:00,1362767294137516035,API3DAO,"We are pleased to announce our partnership with @wootraderS. Wootrade will use Airnode to provide price reference data, and to create a transparent, immutable trade information record that allows traders to prove their trading history. 
+
+https://t.co/TOj0DM60zV",297,10,72,2021-02-19
+71,2021-02-26 14:05:52+00:00,1365302063735967744,API3DAO,"Announcing our partnership with @Conflux_Network, the first permissionless blockchain fully compliant with Chinese regulations. https://t.co/6BKowdTQ5C",249,7,77,2021-02-26
+72,2021-02-28 20:59:03+00:00,1366130821346840581,API3DAO,"► Read about the Airnode release plans
+► the audit of the interim version
+► the audit schedule that will lead to the Authoritative DAO/staking launch
+and more in the February dev update below!
+https://t.co/fhHacTVv44",240,7,70,2021-02-28
+73,2021-03-01 14:02:27+00:00,1366388365369688066,API3DAO,"Announcing the partnership between API3 and @option_room, providing consensus-driven data across multiple chains using Airnode
+ https://t.co/sDNMb0zahE",493,17,115,2021-03-01
+74,2021-03-03 14:05:49+00:00,1367113990464286726,API3DAO,"Announcing our partnership with @Royale_Finance, a DeFi solution for the iGaming industry https://t.co/gEheHAav7y",211,5,55,2021-03-03
+75,2021-03-07 23:22:39+00:00,1368703670808838144,API3DAO,"API3 is:
+Solving the API-Connectivity Problem.
+
+► First-Party Oracles
+► Insured Data Feeds
+► DAO Governance
+
+Cost-efficient.
+Quantifiably secure.
+Robust &amp; flexible.
+
+Expanding the applicability of the blockchain
+without sacrificing decentralization ◬",331,10,87,2021-03-07
+76,2021-03-08 14:01:02+00:00,1368924725859258368,API3DAO,"Announcing our partnership with @mobi_fi, to provide high quality transportation data for Mobility-as-a-Service applications
+
+https://t.co/M2X00OnHRZ",166,7,40,2021-03-08
+77,2021-03-10 15:19:54+00:00,1369669348659519493,API3DAO,"Through the utilization of Airnode, API3 will enable @bigdataprotocol's network of thousands of professional data providers to extend their services to Web 3.0 use cases. https://t.co/zY5kqlayLR",219,11,50,2021-03-10
+78,2021-03-11 17:15:06+00:00,1370060725457022979,API3DAO,"There are real-world off-chain businesses that create value on the 'net via their Web APIs, but:
+
+They can’t yet create value on the blockchain b/c they are not easily connected to it.
+
+Read about the history of APIs and their integral role in Web2.0 here: https://t.co/YlQTxQXhAA",125,4,31,2021-03-11
+79,2021-03-12 17:24:05+00:00,1370425376439115776,API3DAO,"APIs permeate our digital world.
+
+They are the digital glue.
+
+It's time to connect them to the blockchain ◬ https://t.co/L0T734nFBI",183,5,46,2021-03-12
+80,2021-03-13 20:37:06+00:00,1370836337624899585,API3DAO,"API3 is standardizing API⬌Oracle integration.
+
+#FirstPartyOracles
+#OracleStandards
+#API3UnderTheHood
+
+Read about our Oracle Integration Specifications here:
+https://t.co/f46zRBJ8zD",191,4,66,2021-03-13
+81,2021-03-15 19:35:39+00:00,1371545647610916869,API3DAO,The term «API» no longer solely refers to the technical implementation of an interface — but often to a full-fledged product that includes the service it wraps ◬,159,5,29,2021-03-15
+83,2021-03-16 14:06:38+00:00,1371825238367997952,API3DAO,"Announcing our partnership with @Bridge_Mutual, to help users secure stablecoin holdings and explore additional insurance products
+
+https://t.co/vyx7NHsodk",258,12,71,2021-03-16
+84,2021-03-18 20:45:55+00:00,1372650494317924352,API3DAO,"We're planning our upcoming Community Call ⟁
+
+Let us know what questions you have for the team
+⤷https://t.co/pTk8FxdzoI
+
+↓↓↓",107,0,22,2021-03-18
+85,2021-03-19 13:48:01+00:00,1372907714431623168,API3DAO,"Announcing our partnership with @dafiprotocol to allow projects to issue synthetic versions of their own tokens, with API3's data being used to control the token emission - https://t.co/FEeam32TYq",252,4,54,2021-03-19
+86,2021-03-22 14:27:22+00:00,1374004783221194755,API3DAO,Announcing API3's partnership with @litentry to provide cross-chain aggregated identity data to decentralized applications on multiple smart contract platforms https://t.co/fmYxAAt48r,292,7,64,2021-03-22
+87,2021-03-23 05:01:38+00:00,1374224799103250432,API3DAO,One of our cofounders will be on Clubhouse this Friday discussing #web3. https://t.co/aISbUOFbVd,75,1,13,2021-03-23
+89,2021-03-25 01:39:05+00:00,1374898602477187075,API3DAO,"The ""oracle problem"" is an ill-posed problem.
+
+Optimal solutions/architectures vary depending on the *type* of data needing to be brought on-chain.
+
+This is why we focus on the well-defined problem of:
+how to bring Web API data &amp; services safety on-chain ◬ https://t.co/X9I6Iatjcw",127,3,29,2021-03-25
+90,2021-03-27 18:57:36+00:00,1375884729518497792,API3DAO,"We recently updated our docs page
+↳https://t.co/a8leJm6Pr0 https://t.co/3usTi6iPG1",164,2,39,2021-03-27
+91,2021-03-30 14:27:11+00:00,1376903838993690628,API3DAO,"We are happy to partner with @KnitFinance to provide Airnode-enabled data feeds to their protocol, powering multi-chain assets and bridges https://t.co/GJdpUQrK0s",291,3,51,2021-03-30
+92,2021-03-31 18:51:47+00:00,1377332813528068099,API3DAO,"March development report is out
+https://t.co/3o68bEmXWv",209,2,54,2021-03-31
+94,2021-04-01 15:56:23+00:00,1377651064254660608,API3DAO,We'll be streaming our live community AMA today. Check our Twitter page @ 6pm UTC. https://t.co/dQB4FOD3Pp,109,1,22,2021-04-01
+96,2021-04-06 14:09:28+00:00,1379436095826403336,API3DAO,"The recording of our first video AMA is now available on Youtube.
+
+Our bi-weekly community calls will be streamed on Youtube from this point onward. Looking forward to answering your questions on the next one!
+https://t.co/4UfqaYsiUs",47,0,4,2021-04-06
+98,2021-04-08 13:37:45+00:00,1380152887364489228,API3DAO,"Next Thursday we will hold our bi-weekly community call. 
+
+Looking forward to your questions and participation.
+https://t.co/rE39Fhrzor https://t.co/2ccoy2qka3",154,4,30,2021-04-08
+99,2021-04-09 09:24:03+00:00,1380451432038547466,API3DAO,"The event is scheduled on YouTube. See you next week!
+https://t.co/jZmetdrRwv",39,0,7,2021-04-09
+101,2021-04-13 14:09:33+00:00,1381972831920123905,API3DAO,"Thanks to our partnership with @0Chain, dApp developers will have access to high-performing, regulatory compliant storage, live data storage prices, and more.
+
+https://t.co/iY2ZINn5IQ",243,14,53,2021-04-13
+103,2021-04-14 18:00:00+00:00,1382393215328923652,API3DAO,"Don't forget to join our community call tomorrow!
+Link: https://t.co/6HA4Iona4z",97,3,20,2021-04-14
+105,2021-04-15 17:59:15+00:00,1382755411195957250,API3DAO,Bi-weekly Community Call - 15th of April 2021 https://t.co/KYrr6mKmYD,109,3,28,2021-04-15
+106,2021-04-16 14:31:35+00:00,1383065542018408454,API3DAO,"Announcing our partnership with @InjectiveLabs to bring Airnode-enabled APIs and dAPIs to Injective Protocol 
+
+https://t.co/qBM9NPtuEy",399,16,87,2021-04-16
+107,2021-04-17 18:54:41+00:00,1383494137941422082,API3DAO,"Read the first of the comprehensive series of posts that will detail everything about the API3 DAO and its staking mechanism.
+
+https://t.co/y62o30og7w",193,3,46,2021-04-17
+108,2021-04-19 13:01:58+00:00,1384130152456544263,API3DAO,"Today, we are incredibly thrilled to announce our ten-year development partnership with @OpenBankProject, the leading Open API middleware provider for the banking industry, and a global pioneer in the area of open banking. 
+
+https://t.co/csR3Be0vPf",488,18,135,2021-04-19
+109,2021-04-22 17:50:25+00:00,1385289905807499272,API3DAO,"Next Thursday we will hold our bi-weekly community call. 
+
+Please use the following form to submit your questions: https://t.co/4RioS1drog
+
+The event is scheduled on Youtube and will also be streamed on Twitter: https://t.co/ZKm2i1F4Eb https://t.co/1oyAeypG0N",76,1,17,2021-04-22
+111,2021-04-26 15:00:01+00:00,1386696573179019270,API3DAO,"#OpenBanking meets the #Blockchain
+Fireside Chat with Simon Redfern, Founder of @OpenBankProject, and Heikki Vänttinen, Co-founder of @API3DAO.
+
+Join us in one hour (6:00 PM CET) here:
+https://t.co/BdcsM5Ac1B",118,0,27,2021-04-26
+113,2021-04-28 14:05:12+00:00,1387407553563353090,API3DAO,"Announcing API3's partnership with @cellframenet to enable the creation of quantum resistant, scalable decentralized applications using real world data
+
+https://t.co/imD51udFbw",222,11,38,2021-04-28
+116,2021-04-29 17:59:06+00:00,1387828806858145792,API3DAO,Bi-weekly Community Call - 29th of April 2021 https://t.co/eBuYDxhwXn,86,1,19,2021-04-29
+117,2021-04-30 15:58:57+00:00,1388160957776543747,API3DAO,".@Bacoor_Company will use API3's data feeds to improve the efficiency and accuracy of their upcoming DeFi projects, and the UX of their existing products https://t.co/SwQo2J0jt1",127,3,27,2021-04-30
+119,2021-05-03 15:07:01+00:00,1389235052731568128,API3DAO,Our newest partner @deficliq will use API3's first-party oracles and dAPIs to provide their users with reliable access to real-world data directly from Airnode-enabled APIs. https://t.co/NPnpq53aU3,194,4,44,2021-05-03
+120,2021-05-07 18:21:04+00:00,1390733434771972099,API3DAO,"Next Thursday we will hold our bi-weekly community call.
+
+Please use the following form to submit your questions: https://t.co/0QbjEIBpE2 
+
+The event is scheduled on Youtube and will also be streamed on Twitter: https://t.co/gP0lk84ffj https://t.co/5SeETGrVVp",86,5,14,2021-05-07
+121,2021-05-08 10:19:47+00:00,1390974707353145346,API3DAO,"The first of these communities was our Chinese one, which has a presence over at WeChat.
+预言·链接·未来！API3 中国社区正在帮助 API3 构建其东方生态。如果你想了解更多关于 API3 的中文内容，欢迎加入 API3 中国社区！ https://t.co/XX08sRhBA6",50,1,6,2021-05-08
+124,2021-05-10 13:01:49+00:00,1391740256211320836,API3DAO,"We have partnered with @BlockBankApp to connect their AI-enabled platform to high-quality data providers, helping bridge the gap between CeFi and DeFi
+
+https://t.co/syhYntXtrr",283,5,64,2021-05-10
+125,2021-05-13 17:01:53+00:00,1392887835238309888,API3DAO,"Our community call begins in an hour.
+You can listen in over Twitter or Youtube.
+https://t.co/gP0lk84ffj",72,1,12,2021-05-13
+127,2021-05-18 17:15:53+00:00,1394703298415022082,API3DAO,"Excited to announce our partnership with @SovrynBTC and participation in the #Sovrython, where up to $150k is available as grants and bounties for projects using or improving API3's technology 
+
+https://t.co/AOAu77wt9f",305,14,66,2021-05-18
+128,2021-05-21 09:34:29+00:00,1395674346279030786,API3DAO,"Our next community call is coming up on Thursday.
+@Kleros_io Founder &amp; CEO @federicoast is joining us to give you an overview of their project and our partnership with them.
+
+Submit your questions using this form: https://t.co/0eHhZJSSRZ
+
+Event: https://t.co/3XLg8py929 https://t.co/uBbxfS8441",83,3,11,2021-05-21
+130,2021-05-26 18:05:02+00:00,1397614772854661125,API3DAO,Don't forget to join our community call tomorrow together with @Kleros_io and @federicoast. https://t.co/X8y0YiFjgJ,88,1,16,2021-05-26
+131,2021-05-27 17:59:16+00:00,1397975708157112320,API3DAO,Bi-weekly Community Call - 27th of May 2021 https://t.co/bjNdPPEkWw,67,1,12,2021-05-27
+132,2021-05-28 14:01:22+00:00,1398278226733109258,API3DAO,"Announcing the API3 integration with @moonbeamnetwork, making Airnode-enabled APIs available to developers on Moonbeam, helping improve off-chain data availability for the Polkadot ecosystem
+
+https://t.co/c5TiJ3faSF",362,10,86,2021-05-28
+133,2021-05-31 14:17:20+00:00,1399369407969828868,API3DAO,"Announcing the partnership with @ShieldFinance, a DeFi insurance aggregator, to provide the API3 DAO and community with insurance to hedge against market risks
+
+https://t.co/9rYtkexim4",167,2,32,2021-05-31
+135,2021-06-03 19:33:43+00:00,1400536191410360321,API3DAO,"Next Thursday we will hold our bi-weekly community call together with @kadena_io .
+Please use the following form to submit your questions: https://t.co/VmwgFDuTAh 
+Event: https://t.co/OXCFz92QVt https://t.co/lnpKLI5DFA",84,1,14,2021-06-03
+136,2021-06-04 14:00:38+00:00,1400814755787456513,API3DAO,"By partnering with @credmarkhq, API3 will help create reliable #DeFi risk assessment tools for multiple blockchains 
+
+https://t.co/AEOeZEXmbX",143,3,36,2021-06-04
+137,2021-06-08 18:03:47+00:00,1402325499951693834,API3DAO,"Join API3, @OpenBankProject and @Raulnavsal, the Fintech Director of @DAIGlobal, to find out how traditional finance and blockchain will converge to create a new generation of blockchain banking-based offerings.
+
+Sign up for the webinar: https://t.co/hZE1r8zeKL https://t.co/JeZYciUpnn",84,2,18,2021-06-08
+138,2021-06-09 19:54:29+00:00,1402715744517902339,API3DAO,Don't forget to join our bi-weekly community call tomorrow! https://t.co/J0VrIyivLj,50,1,7,2021-06-09
+139,2021-06-10 17:00:55+00:00,1403034452415164419,API3DAO,Going live in an hour! https://t.co/J0VrIyivLj,40,0,5,2021-06-10
+141,2021-06-11 15:22:48+00:00,1403372149507776515,API3DAO,"Announcing our partnership with @thehaidamo, to enable the creation of decentralized on-chain ETFs
+
+https://t.co/IksmK02PKe",106,4,24,2021-06-11
+142,2021-06-15 19:48:34+00:00,1404888582020636673,API3DAO,"API3 is going to Paris! - we're happy to announce that API3 will have a booth at @EthCC, which takes place on the 20 - 22 of July. Looking forward to meeting you there! #ethcc",143,3,17,2021-06-15
+143,2021-06-17 20:34:09+00:00,1405624830272155650,API3DAO,"Next Thursday we will hold our bi-weekly community call.
+Event: https://t.co/Cva6QLc0Sx",53,3,3,2021-06-17
+144,2021-06-24 15:47:05+00:00,1408089301452210182,API3DAO,"Announcing the partnership with @AsteriaProtocol, a decentralized options trading protocol. Asteria will be using API3's pricing data, and also providing comprehensive options data to all Airnode-supported blockchains. https://t.co/qCpjGETsw3",82,1,24,2021-06-24
+147,2021-06-30 18:42:45+00:00,1410307839894110215,API3DAO,"June development report is out.
+https://t.co/6apND7MhEX",120,3,29,2021-06-30
+148,2021-07-01 14:19:46+00:00,1410604042988883974,API3DAO,"Next Thursday we will hold our bi-weekly community call.
+Please use the following form to submit your questions: https://t.co/hb3AhXltFc
+Event: https://t.co/LArle3kpOc https://t.co/3pb7xPqgEd",45,3,6,2021-07-01
+149,2021-07-04 20:50:33+00:00,1411789549605474305,API3DAO,Check out our recent article about our staking rewards and feel free to ask us anything that remains unclear! https://t.co/wsWKpBlALt,171,14,40,2021-07-04
+150,2021-07-06 17:46:07+00:00,1412467914385526794,API3DAO,"Check out the presentation Mason Burkhalter gave at @APIdaysGlobal, introducing hundreds of API providers to blockchains, smart contracts, oracles and how they can benefit from diving into this space.
+
+https://t.co/VdMMVvCPcv",64,2,12,2021-07-06
+151,2021-07-07 23:33:38+00:00,1412917755276320770,API3DAO,"With the launch of the authoratative DAO inching closer and delegation being one of its functionalities, potential conflicts of interest of delegates are an important aspect to consider. 
+Check out @erichdylus' effort in bringing transperancy into the delegation process. https://t.co/J8GON8StSe",69,0,14,2021-07-07
+152,2021-07-08 07:05:05+00:00,1413031368867602432,API3DAO,Don't forget to tune into our community call in later today. https://t.co/6034yhsq9I,66,1,10,2021-07-08
+156,2021-07-09 13:04:58+00:00,1413484323517370370,API3DAO,"Since the authoritative DAO launch 24 hour ago, a total of 4.7 Million API3 tokens have been staked.
+
+Please make sure to check out our tutorial series, if you have any questions regarding the authoritative DAO: https://t.co/I5QyguNosA https://t.co/Z7AfwtHN9e",183,14,48,2021-07-09
+157,2021-07-11 13:35:30+00:00,1414216782970249220,API3DAO,@johnyrocker1980 Your rewards are added at the end of each epoch.,4,0,0,2021-07-11
+159,2021-07-12 18:38:50+00:00,1414655507395227648,API3DAO,"Welcome to the API3 forum. 
+https://t.co/kdDRCOxIcA",115,2,21,2021-07-12
+160,2021-07-14 10:13:26+00:00,1415253093395140610,API3DAO,We welcome our Chinese community to our AMA session. https://t.co/vzou8k90dg,83,1,8,2021-07-14
+162,2021-07-15 10:01:00+00:00,1415612352435732481,API3DAO,"One week after launch, a total of 36 Million API3 are being staked. The genesis epoch has passed, which means first rewards have been paid and proposals are possible to be submitted.
+
+Feel free to join us in our forum and drop your ideas:
+https://t.co/kdDRCOxIcA https://t.co/S6BtzWG200",148,7,39,2021-07-15
+164,2021-07-22 18:00:16+00:00,1418269678988709889,API3DAO,Bi-weekly Community Call - 22nd of July 2021 https://t.co/15AexSuAfs,58,2,13,2021-07-22
+165,2021-07-27 18:42:11+00:00,1420092167217979400,API3DAO,"Insurance is the mirror opposite of investing.
+#Web3 can enable the original community-driven spirit of insurance.
+Read about the history of insurance &amp; what it means for Web3.0 ▲
+https://t.co/K9rC6branf",103,0,25,2021-07-27
+166,2021-07-28 19:17:34+00:00,1420463459091820551,API3DAO,"Tomorrow @sasamilic33 is going to have a keynote at The Global NFT Summit. #GNFT21
+
+https://t.co/pnJ2GfUpY0 https://t.co/Eg2mYOak9Q",75,5,15,2021-07-28
+167,2021-07-31 17:24:55+00:00,1421522272490246150,API3DAO,"API3 Core Technical Team's Development Report for July.
+
+https://t.co/5dcohHxDNs",116,2,23,2021-07-31
+168,2021-08-04 18:00:02+00:00,1422980661577617408,API3DAO,"Don't forget to join our bi-weekly community call tomorrow. 
+Event: https://t.co/VhdTBLeqB8 https://t.co/f3qnXxPDhN",57,1,10,2021-08-04
+169,2021-08-05 17:45:26+00:00,1423339378731069442,API3DAO,"Going live in 15 minutes.
+Drop by and ask us anything you'd like. https://t.co/qxtlwUJ9Sq",49,1,8,2021-08-05
+170,2021-08-06 08:46:58+00:00,1423566255630557184,API3DAO,"One of the first non-core team open source tools for the DAO has been released by a user named Enormous. 
+You can use it to check the voting history, voting power of certain addresses, Epoch rewards and many other things. 
+https://t.co/ZfYH38GuHp",85,3,24,2021-08-06
+171,2021-08-10 13:00:03+00:00,1425079496751951874,API3DAO,"Today we are proud to officially announce the API3 Alliance - a collective of 125+ API providers making their services available to Web3 via Airnode.
+#API3Alliance #Web3 #FirstPartyOracles
+
+https://t.co/DVdKSi6vFh",638,40,195,2021-08-10
+173,2021-08-13 08:59:49+00:00,1426106205068533764,API3DAO,"If you have questions regarding the API3 Alliance or Airnode integrations, don't miss our next community call.
+
+You can submit your questions using the form below or by simply asking us during the call. 
+
+Event: https://t.co/O3bkn3wdOh
+Form: https://t.co/8O7a3mpR4V https://t.co/HjyKI8HR0l",78,3,15,2021-08-13
+174,2021-08-18 12:29:39+00:00,1427970949052239876,API3DAO,"Join our commuity call tomorrow, where we'll talk about the API3 Alliance and shed some light into the Airnode integrations. You can also ask us anything you'd like that is related to #API3. https://t.co/gxUp9GhSAD",63,2,15,2021-08-18
+175,2021-08-19 17:59:04+00:00,1428416239509000193,API3DAO,Bi-weekly Community Call - 19th of August https://t.co/XHPJVwZ4cE,56,2,10,2021-08-19
+176,2021-08-20 13:00:02+00:00,1428703370857025539,API3DAO,"As a decentralized Startup, API3 is proud to be included in the Startup of the Year competition for the region Grand Cayman. The competition is organized by @hackernoon and you can vote for API3 through the following link.
+https://t.co/SoiGUieZ8K",112,2,23,2021-08-20
+177,2021-08-22 15:20:01+00:00,1429463374908346370,API3DAO,Check out the DAOs biweekly vol.6 by @Paradigm_fund for a brief overview of what has been happening at API3. https://t.co/B9hHdzPU6P,73,0,18,2021-08-22
+178,2021-08-23 16:27:40+00:00,1429842789135695872,API3DAO,"Roughly six weeks after the official launch of the authoritative DAO, nearly 50 Million API3 are being staked by over 2600 wallets. https://t.co/gVXJgLtN7l",150,9,35,2021-08-23
+180,2021-08-24 08:46:00+00:00,1430088992012345344,API3DAO,"@KBCryptoo Rougly 35 Million is the right circulating supply.
+In terms of staking, vested tokens can be staked.
+The only tokens excluded from the staking contract are the ones held in the DAO treasury.",1,0,0,2021-08-24
+185,2021-08-25 17:20:38+00:00,1430580893970837509,API3DAO,"@HSanjitwala This tutorial series should help you with that.
+
+https://t.co/wJjDGybygI",4,0,0,2021-08-25
+189,2021-08-26 07:40:25+00:00,1430797265027883012,API3DAO,"@_C0WB0Y Vested tokens can be staked.
+The only tokens that cannot are the ones held by the treasury.",2,1,0,2021-08-26
+192,2021-08-27 18:44:58+00:00,1431326893287088138,API3DAO,"API3 is working on new video material to highlight the project as well as provide easy to digest educational material. Subscribe to our Youtube channel to catch the latest videos. 
+
+https://t.co/1H5prS7F4a",169,7,35,2021-08-27
+193,2021-08-31 16:54:50+00:00,1432748728075567104,API3DAO,The Core Technical Team Report for August 2021 was just released by @bbenligiray https://t.co/uEu6tllERM,62,2,8,2021-08-31
+195,2021-09-01 19:43:46+00:00,1433153627963772932,API3DAO,"Check out the monthly report from our API Integrations team 👇
+
+https://t.co/ucsZHJyZi9",95,5,17,2021-09-01
+196,2021-09-02 09:25:32+00:00,1433360433046507522,API3DAO,@Coin98Analytics @MakerDAO @compoundfinance @AaveAave @Uniswap @PieDAO_DeFi @rarible @AudiusProject @YieldGuild @iearnfinance @InverseFinance 👋,36,1,1,2021-09-02
+199,2021-09-03 12:59:58+00:00,1433776787058827269,API3DAO,@quadency 🤝,7,0,1,2021-09-03
+203,2021-09-04 14:30:15+00:00,1434161895016108037,API3DAO,"Check out the biweekly #DAOs report by @Paradigm_fund. 
+Great summary if you want to keep up to date what has been happening in DAOs. 👏 https://t.co/r7AIodGxxv",66,2,12,2021-09-04
+204,2021-09-06 14:27:53+00:00,1434886073830809601,API3DAO,"Monthly report from our Marketing Team 👇
+https://t.co/gort3GKQuc",125,8,29,2021-09-06
+205,2021-09-07 15:56:04+00:00,1435270653872123905,API3DAO,"Check out the latest Redefining Trust article on Smart Escrow Contracts, by our legal engineer @erichdylus
+
+https://t.co/PfHg9KNDj6",94,2,21,2021-09-07
+206,2021-09-08 08:31:37+00:00,1435521193147252742,API3DAO,"@IS_Gri5th Burak went into this issue in his latest team report.
+https://t.co/K7yrw3yPTa sometimes has issues due to the distributed DNS infrastructure it relies on, however you can always reach it over https://t.co/nUZNLhaaG7.
+
+More here 👇
+
+https://t.co/kOZKfPshsk",4,0,1,2021-09-08
+210,2021-09-09 08:29:57+00:00,1435883161465106438,API3DAO,"@02072021M @Kevin_Cage_ You can find your address in this community build tool. 
+It should have all the details you're asking for.
+
+https://t.co/ZfYH38GuHp",2,0,0,2021-09-09
+213,2021-09-10 20:01:30+00:00,1436419584094089216,API3DAO,Thanks @AlchemyPlatform. It takes great partners like you to build something this big. https://t.co/d7yBpxJJlQ,116,1,20,2021-09-10
+214,2021-09-11 00:11:06+00:00,1436482395721633803,API3DAO,"@voober28 @iRepLegacyX @allianceblock @0xPolygon Hey Michael. 
+Please ignore anybody that wants you to DM them. 
+We have a staking tutorial here:
+https://t.co/wJjDGybygI",7,1,1,2021-09-11
+216,2021-09-13 18:42:19+00:00,1437486818459627522,API3DAO,"The @OasisProtocol is going to join our upcoming bi-weekly communtiy call on Thursday. 
+
+If you have any questions, feel free to ask us during the session or drop a comment below 👇
+
+https://t.co/8MmiJJzEPI https://t.co/rK3I3v2dRf",198,10,38,2021-09-13
+217,2021-09-16 17:45:00+00:00,1438559557081452545,API3DAO,Live in 15 Minutes. Tune in. https://t.co/8geeG6gcSX,36,1,2,2021-09-16
+221,2021-09-20 10:51:52+00:00,1439905142350958595,API3DAO,"What is Airnode? - Check out @sasamilic33 explaining one of the core aspects of #API3. 
+
+👇  
+
+https://t.co/vqSpCgD9Uv",88,3,24,2021-09-20
+222,2021-09-27 14:14:46+00:00,1442492916937605133,API3DAO,"We are happy to announce our first Community Initiative which is the beginning of a wider series as part of our newly established API3 Community Resources. Participate in our Artistry Contest 1.0 for a chance at some #API3 token rewards.
+
+More about it 👇
+https://t.co/o97P7WvTkF https://t.co/LmgzzY5vT8",88,4,14,2021-09-27
+223,2021-09-28 08:00:00+00:00,1442760993122123778,API3DAO,"@AragonProject is joining us for our upcoming bi-weekly community call on Thursday. 
+If you have any questions for either project, feel free to drop a comment or ask us during the session. 
+
+👉 https://t.co/CXhPzuWBoh https://t.co/3He7ZRi1rI",10,1,2,2021-09-28
+224,2021-09-29 08:51:02+00:00,1443136225104338947,API3DAO,"#API3 is eligible for the initial five Token Reactors by Tokemak! 
+The API3DAO is excited to be working together with @TokenReactor and is calling for $TOKE staker to vote #API3. 
+
+Voting is possible for 7 days 👇 https://t.co/qdX7XifeWJ",123,4,21,2021-09-29
+225,2021-09-30 17:59:04+00:00,1443636527393755138,API3DAO,Bi-weekly Community Call - 30th of September https://t.co/T8h89mNLni,42,2,9,2021-09-30
+228,2021-10-04 16:58:00+00:00,1445070710825754637,API3DAO,"A summary of our recent interview with @crowdfundinside is available.
+Check out what Heikki, Co-founder of API3, has to say about the importance of making #APIs accessible to #web3 and the opportunity for businesses. 
+https://t.co/CM8sKT3WIN",63,1,20,2021-10-04
+229,2021-10-05 12:07:14+00:00,1445359924347875329,API3DAO,"The monthy development report from our API Integrations team is available 👇
+
+https://t.co/jkna2foBZS",87,4,22,2021-10-05
+230,2021-10-06 14:40:49+00:00,1445760963823636491,API3DAO,"The monthly API3 Marketing report is available. 👇
+https://t.co/9ZUt2KbjLN",80,3,15,2021-10-06
+232,2021-10-07 13:02:04+00:00,1446098502984011785,API3DAO,"It’s a pleasure to share that API3 is helping @BHElSalvador, the leading national bank in #ElSalvador, create a more inclusive financial future via the #BitcoinAlliance with @OpenBankProject @QredoNetwork @SovrynBTC ! https://t.co/aQmz3xkOA9",300,18,85,2021-10-07
+235,2021-10-08 15:09:44+00:00,1446493018857562113,API3DAO,"Check out @sasamilic33's latest article about parametric #insurance on #blockchain. It's a great read! 👇
+https://t.co/aG1gUwOZ0Q",80,3,24,2021-10-08
+236,2021-10-13 09:41:15+00:00,1448222288969666562,API3DAO,Check out @bbenligiray latest article where he goes into the updates that have been made to the request–response protocol. 👇 https://t.co/KsWwZHAaJU,56,0,10,2021-10-13
+238,2021-10-18 17:17:08+00:00,1450148957343133699,API3DAO,"We are excited to announce our second Community Initiative that marks the beginning of a series to explore new possibilities for the #blockchain space. Participate in our API3 Thinkathon 1.0 for a chance at some #API3 token rewards.
+https://t.co/fOVMx898oJ",105,2,22,2021-10-18
+239,2021-10-19 14:46:06+00:00,1450473334915862532,API3DAO,"📢 Calling all #coders and problem solvers - join our FIRST #BitcoinBankathon in #ElSalvador! 🇸🇻
+
+📍 Online / El Salvador
+💪🏽 5 Challenges
+💰 $250K worth of prizes
+🏆 5 Award Categories
+📅 19 Nov - 5 Dec
+
+Learn more at -&gt; https://t.co/GgLm6UowJL
+
+#Bitcoin #Hackathon https://t.co/OnhNIE0yTQ",117,12,43,2021-10-19
+241,2021-10-21 20:20:55+00:00,1451282372188573698,API3DAO,"@elsalvadorcom API3 se enorgullece de patrocinar el #BitcoinBankathon en asociación con @OpenBankProject, @QredoNetwork y @SovrynBTC, quienes seremos responsables de entregar premios por hasta $ 250,000 para la creación de aplicaciones bancarias y financieras basadas en #Bitcoin.",15,0,3,2021-10-21
+243,2021-10-22 15:15:06+00:00,1451567798631677959,API3DAO,"""The API3 Alliance is one significant initiative aiming to extend the capabilities of smart contracts and blockchain applications."" 
+
+Have a look at the article by Bill Doerrfeld about #API3 and the importance of bringing #APIs into #Web3.
+
+https://t.co/XwRnIHV4Ui",117,2,29,2021-10-22
+245,2021-10-26 19:10:33+00:00,1453076602099847172,API3DAO,"The Enterprise team report for September and October was just shared by @giannilesna 👏 
+
+You can read all about it here 👇
+https://t.co/hR8aeBJKLV",90,2,24,2021-10-26
+247,2021-10-27 19:00:59+00:00,1453436582413930502,API3DAO,"The Divi Crypto Podcast released their episode featuring @sasamilic33👏
+
+Tune in and let Sasa tell you everything there is to know about #API3 and Pigeonhole Principle🐦
+
+🎧 https://t.co/yo52VVaNYt",51,2,10,2021-10-27
+250,2021-10-29 17:59:16+00:00,1454145825542660097,API3DAO,"@Coin98Analytics @MakerDAO @DoraFactory @compoundfinance @AaveAave @Uniswap @PieDAO_DeFi @rarible @AudiusProject @YieldGuild @InverseFinance 🥲
+https://t.co/S3lkCzN7hV",20,0,0,2021-10-29
+251,2021-10-31 17:08:49+00:00,1454857907015720963,API3DAO,"The monthly development report from our core technical team was just released by @bbenligiray 📃✍️👏
+
+https://t.co/eWZ7ZTTzjW",126,2,23,2021-10-31
+252,2021-11-01 08:55:15+00:00,1455096083974086657,API3DAO,"@thisisniq_ The APY changes every week depending on the staking target being met or not.If met the APR (consequently APY) goes down 1%, if not met it goes up 1%. 
+
+What counts is what your staked amount is before Thursdays 0:00 UTC. Each Thursday you receive the APR on your entire stake.",1,1,0,2021-11-01
+255,2021-11-02 19:19:13+00:00,1455615499321085958,API3DAO,"Secondary Proposal #9 is up! 📃
+Read all about the proposal for Business Development over here 👇
+
+https://t.co/1CwXCTSrSw",39,1,5,2021-11-02
+257,2021-11-04 15:11:14+00:00,1456277866056802317,API3DAO,"After a short break, we're happy to announce that we're bringing back community calls starting next Thursday (11th November 2021). 
+
+We want your input to shape the next call, so let us know what you want us to talk about!
+
+Drop a comment below 👇",79,7,7,2021-11-04
+259,2021-11-07 16:29:20+00:00,1457384683851980809,API3DAO,"Secondary Proposal #10 is up and can be voted on here: https://t.co/NRjFWQZj9o. 
+
+For more information regarding the proposal please check out the document attached to it or read all about it in our forum: https://t.co/BgDdSLxHc7.",40,1,3,2021-11-07
+261,2021-11-08 08:00:01+00:00,1457618901253046272,API3DAO,"Secondary Proposal #11 by the Core Technical Team is up! 
+You can vote on it here 🗳️: https://t.co/qIu0dqDaIp
+
+You can read more about the proposal in our forum: https://t.co/c5EHR0WFew",47,2,7,2021-11-08
+265,2021-11-09 18:00:01+00:00,1458132282015838214,API3DAO,"Recently @giannilesna gave a presentation at the @APIdaysGlobal London event. You can find his talk about ""Open Insurance &amp; Smart Contracts"" here 👇
+
+https://t.co/rzu3SRrQKG",46,1,9,2021-11-09
+268,2021-11-10 16:00:04+00:00,1458464482095616006,API3DAO,The Bitcoin Bankathon Explained - Deep Dive + Q&amp;A https://t.co/H5BWzNQGii,59,1,13,2021-11-10
+269,2021-11-11 18:59:09+00:00,1458871938575585281,API3DAO,Bi-weekly Community Call - 11th of November https://t.co/t0iKiATwrD,34,0,4,2021-11-11
+270,2021-11-12 12:36:11+00:00,1459137951502417920,API3DAO,"In case you missed our community call yesterday, you can catch up with it on Youtube! 📺
+
+We've talked about Airnode v0.2.0, the wireframe for the upcoming API3 roadmap and many other things. 
+
+👇👇👇
+https://t.co/FtxNrdLGLW",34,2,5,2021-11-12
+272,2021-11-14 02:27:16+00:00,1459709487728705537,API3DAO,@criptolawyer @DaniaGonzalz @cypherbadger Very glad to hear you're safe @cypherbadger! May the rest of your week be smooth and enjoyable.,4,2,0,2021-11-14
+273,2021-11-15 13:58:16+00:00,1460245770075004931,API3DAO,"API3 is currently working on video material with the #API3Alliance that introduces members and their services.
+
+Some of the work with members like @NewchangeFX and @luxfiofficial is already available with more Alliance members to follow. 
+
+👇📺
+https://t.co/75cz6wNL5a",52,2,12,2021-11-15
+275,2021-11-16 14:23:45+00:00,1460614572839161863,API3DAO,"Secondary Proposal #13 by the Marketing team is up for voting!🗳️ You can cast your vote here: https://t.co/tBh1NIsIa3
+
+Read more about the proposal in our forum 👇📃
+https://t.co/nbKft1upMQ",44,2,8,2021-11-16
+277,2021-11-17 12:05:08+00:00,1460942075390832648,API3DAO,"Another 5 new members to the API3 Alliance! We are proud to have them onboard with us - check them out below 👇
+@artivatic, @LabsBenchmark, @blocknative, @UseBouncer, @Cryptosheets_RT https://t.co/NLpouYgLrV",126,2,28,2021-11-17
+279,2021-11-18 20:09:47+00:00,1461426427887239172,API3DAO,"📢📢The Bitcoin Bankathon starts tomorrow!📢📢📢📢Bitcoin Bankathon empieza mañana!📢📢
+
+Read all about it here 👇🏆
+https://t.co/mkf1dMpwkU https://t.co/bNXpRDfUqB",43,2,5,2021-11-18
+281,2021-11-19 13:53:09+00:00,1461694034896957489,API3DAO,"📢📅 It's time!📅📢
+
+The #BitcoinBankathon officially kicks off in a few hours  ⏰⏰⏰
+
+You can still join over 200 participants building the future of #Bitcoin banking applications in #ElSalvador 🇸🇻
+
+Read more about it 👉https://t.co/dS1lsksC0k",47,4,14,2021-11-19
+282,2021-11-20 15:13:40+00:00,1462076686334369798,API3DAO,@OpenBankProject @QredoNetwork Bitcoin Bankathon technical workshops live now!!! https://t.co/RG0IWGkEMF,10,2,1,2021-11-20
+283,2021-11-22 18:02:06+00:00,1462843846698709000,API3DAO,"The #BitcoinBankathon time to register has been extended to Friday. Find a team and compete to win up to $150,000 worth of #Bitcoin. #Ethereum/#Solidity  developers welcome! https://t.co/GgLm6UowJL https://t.co/6uxHaOxTmK",51,2,10,2021-11-22
+284,2021-11-23 11:56:32+00:00,1463114239166582786,API3DAO,"Our bi-weekly community call is coming up on Thursday! If you have any questions feel free to hop on during the session or leave a comment 👇 or on📺
+
+We will be diving deeper into the previously shared wireframe for the API3 roadmap.
+
+👉https://t.co/wfu9TzVff3",44,0,5,2021-11-23
+285,2021-11-24 12:44:50+00:00,1463488783253450755,API3DAO,@CoinDesk @StakingRewards @GalaxyDigitalHQ @DCGco @CoinSharesCo @Brandy @StakingRewards Congratulations! 👏,8,0,1,2021-11-24
+287,2021-11-25 18:59:44+00:00,1463945517008769028,API3DAO,Bi-weekly Community Call - 25th of November https://t.co/dw9SzZI2YQ,49,4,5,2021-11-25
+288,2021-11-30 16:31:01+00:00,1465720029463388167,API3DAO,"The monthly development report from the Core Technical team is available 👇👇👇
+
+https://t.co/QEdzE62GT3",66,1,13,2021-11-30
+289,2021-12-01 16:47:30+00:00,1466086566703648772,API3DAO,"We're happy to welcome another five members to the #API3Alliance! Check out our newest partners below 👇
+
+@qokka_ai, @QuaraHolding, @SolipayTech, @taapi_io, @TowerData https://t.co/AhgX5WzW9x",132,5,26,2021-12-01
+290,2021-12-06 23:58:38+00:00,1468007002681053196,API3DAO,API3's Robert Rico helping kick off the #BitcoinBankathon in #ElSalvador! Thank you @BHElSalvador and @Innovacion_SV for this groundbreaking event! https://t.co/xQ8cmq7ltn,62,3,11,2021-12-06
+291,2021-12-07 00:04:22+00:00,1468008447320985600,API3DAO,@BHElSalvador Eres una inspiración @celipadilla!,3,0,0,2021-12-07
+293,2021-12-09 14:35:34+00:00,1468952466867699716,API3DAO,"Tune in to the upcoming BlockHash Podcast with Robert Rico today! 
+
+https://t.co/ESOcYfKSep",40,6,6,2021-12-09
+297,2021-12-10 18:37:14+00:00,1469375670891560969,API3DAO,"This session was rescheduled to today: 
+
+https://t.co/ESOcYg2tCZ",12,5,2,2021-12-10
+298,2021-12-16 22:49:06+00:00,1471613382843379716,API3DAO,Thrilled to have @weather_source in the API3 Alliance! It's exciting to think of how their #APIs will be used in #dapps such as parametric #insurance. https://t.co/3yramj74Y0,90,2,22,2021-12-16
+299,2021-12-17 15:43:59+00:00,1471868788727500807,API3DAO,"We're happy to present you an introduction into Beacons! They are an important milestone for API3 and will build the foundation for our dAPIs. 
+
+https://t.co/nRsyd9YDNW",107,9,24,2021-12-17
+300,2021-12-22 21:50:04+00:00,1473772854940512256,API3DAO,"Check out the Marketing Cycle 5 mid-cycle report.
+
+https://t.co/QtIh3lVM8k",81,4,21,2021-12-22
+301,2021-12-24 15:22:50+00:00,1474400181445705729,API3DAO,"The first primary proposal of the API3 #DAO has passed! Congratulations to @BlockVenture and all the #university #blockchain groups who will contribute to the #Web3 API economy.
+
+https://t.co/wx1IT3wm8O",92,5,25,2021-12-24
+302,2021-12-27 18:41:41+00:00,1475537385530310662,API3DAO,"Here is one reason why the first #BitcoinBankathon matters so much. API3 is working to increase #FinancialFreedom and inclusion in #LatinAmerica. When #DeFi thrives, we all win.
+
+https://t.co/zCzmTS4omz",84,7,22,2021-12-27
+303,2021-12-29 16:38:53+00:00,1476231257851846661,API3DAO,"In Redefining Trust, Jon Stevenson discusses the importance of reducing delay and increasing transparency when confirming ownership and selling rights in #mergers and #acquisitions. #legaltech 
+
+https://t.co/09xvcL9YQR",61,3,15,2021-12-29
+304,2021-12-31 19:36:21+00:00,1477000692829245440,API3DAO,Here is the December 2021 API3 core tech team report. https://t.co/9cQwEhGDF5,79,5,17,2021-12-31
+305,2022-01-01 16:29:25+00:00,1477316037389529096,API3DAO,9/10 API3 co-organized the #BitcoinBankathon as the world’s first #Bitcoin #Banking #hackathon.,35,2,1,2022-01-01
+315,2022-01-05 14:58:50+00:00,1478742794722332672,API3DAO,"Say hello to the newest members of the API3 Alliance! We are excited to see these new APIs on #Web3 - check them out below 👇
+
+@apilayer, @spoonacular, @InfosistemaSA https://t.co/muldhwLYl6",154,11,35,2022-01-05
+316,2022-01-06 18:26:00+00:00,1479157315723055110,API3DAO,"Announcing that we will be bringing the #API3 Alliance to @NEARProtocol and @auroraisnear, giving developers access to over 180 #API providers.
+
+https://t.co/l96pSIL1OQ",257,15,63,2022-01-06
+317,2022-01-13 14:04:36+00:00,1481628250208092164,API3DAO,"Here, @rdaindex shares why they joined the #API3 Alliance. We agree, #Web3 #oracles should be efficient and empower the #API providers.
+
+https://t.co/JvN51Abb9K",73,3,16,2022-01-13
+319,2022-01-18 16:32:44+00:00,1483477467071451139,API3DAO,"Here's an interesting overview of first-party vs third-party #web3 oracles by @rybodium. #DeFi #blockchain 
+
+https://t.co/GwEdwad4bV",96,9,35,2022-01-18
+320,2022-01-19 16:10:59+00:00,1483834379675832322,API3DAO,It's an honor to work with @Amberdataio. https://t.co/R82mYDZT1h,87,7,16,2022-01-19
+322,2022-01-20 16:46:58+00:00,1484205826617323528,API3DAO,"Here is an informative discussion between Heikki and @linked_do about first-party #Web3 #oracles and @Amberdataio #Beacons.
+
+https://t.co/FE5bOrPxug",77,6,12,2022-01-20
+323,2022-01-21 20:06:50+00:00,1484618510529609734,API3DAO,"Tongtong @ @Amberdataio joined Dave &amp; Ryan @ #API3 on the @EthereumDenver livestream today to discuss Amberdata #Beacons as #Web3 data feeds for the #BUIDLATHON #DeFi track.
+
+https://t.co/HHRHlT4nvj",78,6,13,2022-01-21
+324,2022-01-24 20:03:10+00:00,1485704752516190222,API3DAO,@EthereumDenver We hope to see you at First-Party on Feb 15th.,17,1,4,2022-01-24
+327,2022-01-26 13:59:03+00:00,1486337895795499024,API3DAO,"Join the #Web3Conference by @TechCircus_ today at 11:45 ET to hear @rybodium talk about the shift to first-party oracles in #Web3.
+
+👇
+https://t.co/KPhQCxkFd1 https://t.co/wcGaPWygqx",81,1,14,2022-01-26
+328,2022-01-28 21:39:36+00:00,1487178571789516801,API3DAO,"👉 @giannilesna just released the #API3 Enterprise development report for Nov-Dec.
+
+https://t.co/iD5amaCvII",109,5,26,2022-01-28
+329,2022-01-31 20:18:17+00:00,1488245269481328649,API3DAO,The January #API3 Core Technical Team report is available now. https://t.co/NvfKmLr2tP,78,2,14,2022-01-31
+330,2022-02-01 16:54:39+00:00,1488556413446197251,API3DAO,"An article by @rybodium about the shift to first-party #oracles in #Web3.
+
+https://t.co/DURhL2OO41",84,2,25,2022-02-01
+331,2022-02-02 16:43:04+00:00,1488915886073339907,API3DAO,"In this #API3 Alliance Spotlight we hear from @finageltd about #financial market data on #Web3.
+
+https://t.co/tqZpubO2sA",73,1,13,2022-02-02
+332,2022-02-03 17:54:27+00:00,1489296237027368966,API3DAO,"#API3 community calls are back. Join us February 9th to have your questions answered and get a #BUIDLATHON update.
+
+You can submit your questions in advance here in case you can't make the live call. 👇
+https://t.co/MUbX98Ywq5 https://t.co/zqaaf34zyC",64,2,15,2022-02-03
+333,2022-02-04 19:15:47+00:00,1489679093788549128,API3DAO,"In this #API3 Alliance Spotlight we hear from @AiRailz about accessing #accounting data on #Web3 via their accounting-as-a-service API.
+
+https://t.co/R8x6FWtV0P",60,1,13,2022-02-04
+334,2022-02-07 15:07:10+00:00,1490703691761991687,API3DAO,"Coming to #ETHDenver? Join #API3 at First-Party on Tues, Feb 15th @ 5pm to midnight. Eat, drink, and chat with @Amberdataio, @DCGco, @hashed_official, @PanteraCapital, @dlabvc, @SOSV, &amp; @coinfund_io.
+
+👇
+https://t.co/xPKRH0b0Us https://t.co/VYZzQ5Gt0u",97,10,26,2022-02-07
+335,2022-02-08 04:17:09+00:00,1490902497246216193,API3DAO,Interesting thoughts @UgurMersin61. Keep them flowing. https://t.co/UnuaXj4AHQ,56,1,4,2022-02-08
+337,2022-02-09 15:42:09+00:00,1491437269571747842,API3DAO,"#Airnode v0.4 has been released. #Web3 #Developers enjoy.
+
+https://t.co/yAqvf0NPnF",128,6,30,2022-02-09
+339,2022-02-11 16:47:39+00:00,1492178531874344960,API3DAO,"📅 API3 @ #ETHDenver - Events Schedule 📅
+
+Come buidl with #API3, the official #DeFi track sponsor at @EthereumDenver. 
+
+Here's a handy cheat sheet for all our scheduled events 👇 https://t.co/OTDuy7PSeE",156,14,42,2022-02-11
+341,2022-02-13 02:38:13+00:00,1492689538728316931,API3DAO,Another interesting perspective from @UgurMersin61. https://t.co/dSYpqt2JEV,42,0,4,2022-02-13
+344,2022-02-14 14:25:19+00:00,1493229875997511695,API3DAO,"API3 Airnode is live on @AvalancheAVAX mainnet!
+
+#Airnode enables @HeimdallLand to feed data on socially active #cryptocurrencies to the blockchain &amp; improve real-time fund management of the Avalanche Social Index $aHYPE @dao_kassandra
+
+More info below👇
+
+https://t.co/J5Z63lQAvF",138,1,36,2022-02-14
+345,2022-02-15 08:13:53+00:00,1493498787825737729,API3DAO,"These price #Beacons are available now to #ETHDenver #BUIDLATHON participants on #Ethereum and #Polygon testnets.
+
+Get started here: https://t.co/7Qr4yfv4FK https://t.co/M5lE2xLguf",73,1,16,2022-02-15
+350,2022-02-16 21:11:32+00:00,1494056876731817988,API3DAO,Hear @Ben_BlackWhite talk about #API3 on @auroraisnear . https://t.co/S2rKUg9nBm,67,1,11,2022-02-16
+355,2022-02-17 20:38:02+00:00,1494410832943345682,API3DAO,"What are first-party #oracles? Why should a #Web3 #developer care? What is #API3? What are #Beacons?
+
+Find out from @thevet at #ETHDenver #BUIDLWeek. @EthereumDenver 
+
+https://t.co/JPhCqe3Giw",95,2,27,2022-02-17
+357,2022-02-18 01:05:49+00:00,1494478226306965505,API3DAO,"To get started with incorporating @amberdataio price reference data via API3 Beacons into your #BUIDLATHON project, check out our Developer's Hub!
+
+From here, you can access all relevant links and documents to help you buidl your bounty-winning project.
+👇
+https://t.co/WiTe7KdJis",92,4,20,2022-02-18
+361,2022-02-19 15:32:59+00:00,1495058842895335428,API3DAO,"If you missed it yesterday, stop by the API3 booth @EthereumDenver again today from 9:30 - 10:30 am for fresh-cooked bacon straight from the line! 
+
+📍First Floor, Mirus Gallery, 1144 Broadway",123,11,12,2022-02-19
+364,2022-02-20 23:00:00+00:00,1495533727069327368,API3DAO,"Did you know that with #API3 #Airnode, you can call any web API from a smart contract? 
+
+@Ashar2shahid explains the details at @EthereumDenver. 
+
+👇
+https://t.co/Z2wYRcxAZB",91,0,19,2022-02-20
+368,2022-02-21 17:49:31+00:00,1495817977610256384,API3DAO,"The virtual #BUIDLathon @EthereumDenver continues to run for the next month.
+
+Check out this link which contains all info you'll need to build your bounty-winning, #Beacon-integrating project.
+👉https://t.co/WiTe7KvSwA
+
+Enter your email there to receive updates regarding Beacons! https://t.co/28r89geWp5 https://t.co/4h1sNZPSou",110,24,17,2022-02-21
+369,2022-02-22 19:58:00+00:00,1496212698169757703,API3DAO,"What are #DAO's really?
+
+@erichdylus gives us the low-DAOn from a legal and governance point of view at @EthereumDenver. 
+
+👇
+https://t.co/5S6dgYbBin",82,3,14,2022-02-22
+370,2022-02-23 19:06:00+00:00,1496561999974596612,API3DAO,"Here's what you missed at the #API3 booth at @EthereumDenver this year - bacon and beer!
+
+Thank you to everyone who stopped by for a treat and a friendly chat about #Airnode and #Beacon. https://t.co/TRfg0clKg4",124,9,15,2022-02-23
+371,2022-02-25 13:06:00+00:00,1497196181239123971,API3DAO,"API3 #Airnode is now available on #Telos network!
+
+@HelloTelos has self-deployed Airnode onto their testnet, enabling Telos dApps to access real-world data via 180+ #Web3 APIs.
+
+👇
+https://t.co/wWb2GwQ4Du",197,7,58,2022-02-25
+372,2022-02-26 19:54:16+00:00,1497661312633311233,API3DAO,"This video has been reuploaded in higher quality. 
+
+👇
+https://t.co/bfaptmsDbU https://t.co/1S09fdfn4E",39,1,5,2022-02-26
+373,2022-02-27 23:00:01+00:00,1498070446419312641,API3DAO,"API3 Partner Testimonial: @rdaindex 
+
+RDA Index provides data that allows, among other things, the ranking of cryptoassets according to their intrinsic value.
+
+Find out what compelled them to join the #API3 Alliance in this short spotlight video below.
+
+👇
+https://t.co/xHiCFJiaiB",61,3,15,2022-02-27
+377,2022-03-02 13:27:31+00:00,1499013532116926470,API3DAO,@GrobUeli Thanks Hans for bringing this to our attention and apologies for the inconvenience! Here's the new form: https://t.co/sBjheXyJt9,1,0,0,2022-03-02
+380,2022-03-03 09:04:50+00:00,1499309817277874176,API3DAO,"Catch today's premiere of the @EthereumDenver Moon or Bust special with @Benzinga, which features an interview with our very own @_LikeTheJar_ from #API3! https://t.co/Zc85XumLuG",63,2,11,2022-03-03
+383,2022-03-04 22:30:48+00:00,1499875030578040834,API3DAO,@drgoldmantis Welcome! :) Let us know if you have any questions &amp; join us in our Discord / TG if you'd like to chat more.,2,0,0,2022-03-04
+384,2022-03-08 21:27:56+00:00,1501308764099694601,API3DAO,"#API3 is an effort to simplify and commoditize Web3 oracle infrastructure -
+
+it connects API providers who want to serve Web3 &amp; dApp devs who require off-chain data. 
+
+With #Airnode first-party oracles, these API providers serve Web3 directly instead of via third-party resellers. https://t.co/q9Ai4tjfgt",187,14,41,2022-03-08
+385,2022-03-10 15:20:35+00:00,1501941089585885186,API3DAO,"We're proud to announce our partnership and integration with @Milkomeda_com!
+
+Milkomeda #dApp developers will be able to easily access data from all API providers belonging to #API3Alliance, the largest selection of data providers in #Web3.
+
+👇
+https://t.co/Z6ysFJGN2d",247,13,45,2022-03-10
+386,2022-03-14 14:02:43+00:00,1503371046560448512,API3DAO,"We’re proud to introduce our partnership with @CRDNetwork, whose deployment of API3 #Airnode will allow dApps on their network to easily and transparently perform Proof-of-Asset functions in a first-party manner.
+
+👇
+https://t.co/Rv5CyLYmy7",115,7,20,2022-03-14
+387,2022-03-16 15:08:35+00:00,1504112399271538691,API3DAO,"2/ At API3, we believe it's the API provider who creates most of the value and therefore should get most of the reward.
+
+By serving Web3 through 1st-party oracles like #Airnode, they capture their fair share of the value they’re creating instead of losing it to 3rd-party oracles.",48,1,6,2022-03-16
+389,2022-03-17 16:12:26+00:00,1504490854039314434,API3DAO,"Here is a #Web3 perspective from @rybodium. With all the recent controversy over the term, it's nice read a practical point of view that focuses on the tech and how it is actually impacting business.
+
+https://t.co/xxpKZ3ER1h",81,3,19,2022-03-17
+390,2022-03-18 11:30:00+00:00,1504782164658835474,API3DAO,"API3 Partner Spotlight: @weather_source 
+ 
+As part of the #API3Alliance, Weather Source's industry-leading analytics-grade weather and climate data can easily be served to #Web3 dApps in a first-party manner via #Airnode. 
+ 
+Find out more here.
+👇
+https://t.co/Sy4DaU7VsE",92,3,12,2022-03-18
+392,2022-03-21 11:49:51+00:00,1505874323655045120,API3DAO,"Join us for our next API3 Community Call, which will be broadcast live via our Twitter account this coming Thursday, Mar 24, at 3pm GMT. 
+
+👉 Submit your questions in advance here:
+https://t.co/5gpRHgDqgH https://t.co/GMILZF5hAk",68,1,6,2022-03-21
+394,2022-03-22 11:00:02+00:00,1506224174129463300,API3DAO,"1/ 
+
+Web3 enables entities to exchange value with each other directly without a trusted intermediary.
+
+So how does API3 take a #Web3 approach to data feeds?",104,2,21,2022-03-22
+399,2022-03-24 15:00:16+00:00,1507009410433896461,API3DAO,Community Call - March 24th https://t.co/xgp3bjvLob,42,3,13,2022-03-24
+400,2022-03-28 13:21:52+00:00,1508434198536859657,API3DAO,"API3 Partner Spotlight: Leeway Tech
+
+@PWPLeeway wanted to make investment insights - that usually only large financial institutions have access to - also available to private consumers.
+
+Find out what they have to say about serving #Web3 via API3 Airnode.
+
+https://t.co/eGuO7MR36F",74,1,18,2022-03-28
+401,2022-03-29 15:31:22+00:00,1508829175951540233,API3DAO,"1/
+
+🪟 Transparency in third- vs first-party #oracles - what's the difference?🪟
+
+Third-party oracles are inherently not trustless: they depend on off-chain real-world entities to bridge API data retrieval and publication on-chain, which are a point of obfuscation.",86,5,23,2022-03-29
+403,2022-03-30 11:42:31+00:00,1509133970683871232,API3DAO,Come hang out with API3 at @ETHDubaiConf! https://t.co/gpwTdrj63S,45,1,4,2022-03-30
+406,2022-03-31 16:05:09+00:00,1509562450575704065,API3DAO,@skalability @avalancheavax @Amberdata @silta_fi @Amberdataio Thank you for the heads up!,1,1,0,2022-03-31
+408,2022-04-02 16:24:16+00:00,1510292040243978243,API3DAO,"@crypto_backs Hey Back, this should be fixed now! https://t.co/RCHmsKUQps",2,0,0,2022-04-02
+410,2022-04-03 14:15:48+00:00,1510622096665235463,API3DAO,"API3 are delighted to announce that authenticating[dot]com has deployed Airnode!
+
+This allows them to bring a wide array of online KYC/AML verification services for passports &amp; other documents to Web3.
+
+Read more here 👇
+
+https://t.co/o3Q3KZU4d7",144,6,33,2022-04-03
+411,2022-04-04 11:49:27+00:00,1510947655379308550,API3DAO,"The API3 Core Technical Team Report for Mar 2022 has been published!
+
+Some exciting tech milestones have been reached this month:
+- Release of Airnode v0.5
+- Improvements in Beacon-specific tech
+- Updated DAO dashboard 
+
+Read @bbenligiray's report here 👇
+
+https://t.co/pljiWTxqS2",107,2,22,2022-04-04
+413,2022-04-06 12:46:00+00:00,1511686659779317767,API3DAO,"🚗Transporting data from off-chain to on-chain🚗
+
+Our recent partnership announcements make it clear: 
+Web2-native API providers are rapidly expanding into the #Web3 frontier, using API3 tech to allow dApps to directly access their data more widely, securely and efficiently. https://t.co/zlO0Kq60J6",134,7,22,2022-04-06
+414,2022-04-07 09:31:16+00:00,1512000043942821890,API3DAO,"Incredible thread from @dao_kassandra!
+
+It highlights how we, even as orgs with entirely different missions, both strive to further the #Web3 ethos of eliminating non-trustless, cost-amplifying middlemen.
+
+We're so proud to be powering @HeimdallLand's feeding of data to $aHYPE. https://t.co/bEfyIpTWfi",69,1,20,2022-04-07
+415,2022-04-08 14:02:24+00:00,1512430662736830465,API3DAO,"What exactly is #Web3, and why does it keep popping up in our posts? To API3, it's not a mere buzzword.
+
+To find out more, check out @rybodium's article if you haven't seen it yet: Why Web3? What is it good for? And when is it worth the cost &amp; trouble?
+
+👇
+https://t.co/xxpKZ3ER1h",64,2,14,2022-04-08
+417,2022-04-12 13:14:44+00:00,1513868220591136770,API3DAO,"Come build out the future of #Web3 #oracle solutions with API3!
+
+We're hiring in the fields of BD, development, and copywriting - as well as looking for a Web3 Developer Champion 👀
+
+👇
+https://t.co/PqLog1e2sK",80,5,16,2022-04-12
+418,2022-04-14 13:04:33+00:00,1514590430813466626,API3DAO,"1/ 
+
+You've heard of Airnode, you've heard of Beacons - but have you have heard of dAPIs?
+
+Just as applications use APIs, #dApps will use #dAPIs.
+
+Here are some resources to help illustrate the 1st generation of API3's dAPIs &amp; flesh out their differences to our other solutions 👇",84,2,20,2022-04-14
+420,2022-04-15 16:12:10+00:00,1515000034831573002,API3DAO,"@FarmerMula @TheRealOndaWire The initial supply WAS 100 mill but like Nick said we now mint tokens as staking rewards. So there is no max supply. However, there's a burn mechanism built-in when customers want to gain access to risk protection and data feed subscriptions, which counteracts this inflation.",2,1,0,2022-04-15
+423,2022-04-17 15:13:38+00:00,1515710080817287173,API3DAO,"""[R]eal world business processes being embedded into smart contracts will cause the [hypothetical] disappearance of smart contracts to be paralyzing, which indicates it is the solution to the uselessness problem.""
+
+Some thoughts on the endgame of API3 &amp; the space as a whole 👇 https://t.co/WoBg0a7NE8",82,2,13,2022-04-17
+424,2022-04-18 13:24:40+00:00,1516045047795535876,API3DAO,"In API3's hierarchy of solutions, #dApp devs can shape access to off-chain APIs according to desired characteristics like ease of access &amp; connection resilience.
+
+More in this newly published article from @rybodium 👇
+
+https://t.co/bORdNsYBHP",71,4,12,2022-04-18
+425,2022-04-20 12:00:00+00:00,1516748514436472836,API3DAO,"API3 will be presenting tomorrow (Thursday) at @EntEthAlliance's Ethereum in the Enterprise 2022: Building and Operating on the Ethereum Network.
+
+About the event: https://t.co/u3K40YADfT
+
+Admission is free, but requires registration 🎟👇
+https://t.co/ufK3YLHnNW
+
+See you there!",75,3,10,2022-04-20
+427,2022-04-21 16:00:02+00:00,1517171311012810753,API3DAO,"In a few minutes, API3 will be taking the stage at @EntEthAlliance's Ethereum in the Enterprise 2022 conference.
+
+Join us now for our live presentation on the Infrastructure Track, and don't forget to check out our virtual booth afterwards!
+
+https://t.co/ufK3YLYYFu",68,5,9,2022-04-21
+428,2022-04-26 13:01:10+00:00,1518938237460434944,API3DAO,"1/
+
+dAPIs: the highest-level tool in the API3 toolkit.
+
+Here are some characteristics that set it apart from anything else Web3 has seen:
+
+👋 User-friendliness: it's a managed service for Web3 API access that abstracts away the technical implemention for API providers &amp; dApps",76,1,14,2022-04-26
+431,2022-04-28 13:02:46+00:00,1519663413579988992,API3DAO,Come hear from API3's @UgurMersin61 at #BOS22 Blockchain Oracle Summit in Berlin this June! https://t.co/YSYPpeMwxk,51,0,9,2022-04-28
+432,2022-04-29 12:04:21+00:00,1520011101957730304,API3DAO,"API3 Partner Spotlight: @dxFeedSolutions - a market data &amp; services provider that delivers financial info to 200k customers w/ 6M end users.
+
+See why they think a first-party #oracle infrastructure will support them when scaling data feed access to #Web3.
+
+https://t.co/If0gmB1FxI",56,2,11,2022-04-29
+434,2022-05-02 12:00:00+00:00,1521097171185147905,API3DAO,"API3 community - rev up your Twitter and Reddit accounts, and get ready for a community contest!
+
+Starting date &amp; time: 
+Tues, May 3rd (tomorrow), 2 pm UST
+
+More details will follow in the coming days. 
+
+https://t.co/BMXT8vmhqG",48,2,7,2022-05-02
+436,2022-05-03 12:56:05+00:00,1521473669398208512,API3DAO,"API3's #QRNG Quantum Random Number Generator is now live!
+
+It's the first true random number generator for smart contracts, using a first-party oracle hosted by @ourANU's Quantum Optics Group.
+
+dApps on 13 networks can now access it free-of-charge. 
+
+👇
+https://t.co/ENiZDQrnBV",427,80,167,2022-05-03
+438,2022-05-04 13:43:12+00:00,1521847914875826182,API3DAO,"Have any questions about the #QRNG Quantum Random Number Generator powered by @PhysicsANU's Quantum 
+Optics Group? 
+
+Don't miss tomorrow's #API3 Community Call at 3 pm UST!
+
+We'll be joined by special guest Dr. Aaron Trantor, Research Fellow, Quantum Science &amp; Technology @ourANU. https://t.co/01taPIMByJ",57,2,11,2022-05-04
+442,2022-05-05 12:56:34+00:00,1522198568831959040,API3DAO,"We'd like to invite everyone with any questions regarding the API3 #QRNG Quantum Random Number Generator to join today's Community Call on our Twitter Spaces!
+
+📅 Today at 3pm GMT (in 2 hours)
+
+🎙️Featuring special guest Dr. Aaron Tranter from the @PhysicsANU Quantum Optics Group https://t.co/3Aujru7JyZ",54,0,11,2022-05-05
+446,2022-05-06 13:35:23+00:00,1522570725340725251,API3DAO,"We're honoured to have had Dr. Tranter from the @PhysicsANU Quantum Optics Group on our community call yesterday.
+
+Watch the recording to learn firsthand abt true randomness &amp; why it matters from the first-party node operator &amp; API provider behind #QRNG👇
+
+https://t.co/cROfu9Iegz",46,1,10,2022-05-06
+447,2022-05-09 12:00:02+00:00,1523633893869600768,API3DAO,"Excitement surrounding last week's launch of the #QRNG aside, here's the API3 Operations Update for April 2022.
+
+Some interesting structural changes are highlighted within, including a new operations entity to empower scalable compliance in the US.
+
+👇
+https://t.co/l2PKPd2LWv",47,1,5,2022-05-09
+448,2022-05-10 13:00:14+00:00,1524011429803999233,API3DAO,"Introducing the API3 #QRNG 🎲 - the Web3 Quantum Random Number Generator powered by the @PhysicsANU Quantum Optics Group.
+
+The first true random number generator for smart contracts is available on 13 networks as a free-to-use public utility.
+
+Tech docs 👇
+https://t.co/i51t1c4XFS https://t.co/bxCU8mn3NS",114,39,25,2022-05-10
+449,2022-05-11 12:29:03+00:00,1524365972831981569,API3DAO,"ChainAPI is an API3 ecosystem partner - they're the platform enabling API providers to self-integrate their API to an #Airnode, launching themselves into the heart of #Web3.
+
+Check out their recent presentation and demo from @EntEthAlliance! 👇 https://t.co/j6os1HtLWD",41,4,9,2022-05-11
+453,2022-05-12 14:12:54+00:00,1524754492444487681,API3DAO,"API3's recently-launched #QRNG has been featured in the following article from @Cointelegraph! 
+
+""As more organizations look to embrace the world of Web3, a tamper-proof and true random number generator not reliant on third parties will be required.""
+
+👇
+https://t.co/NinwMb9puL",55,5,14,2022-05-12
+454,2022-05-16 13:00:02+00:00,1526185706137300993,API3DAO,"API3's @giannilesna recently spoke at @APIdaysGlobal, the world's leading #API conference series, and opened the eyes of the Web2 API provider world to the possibilities of #Web3 via #API3.
+
+India (May 2022)
+https://t.co/K7ETJroObA
+
+Singapore (April 2022)
+https://t.co/PiAZVANGmz",57,0,10,2022-05-16
+455,2022-05-17 13:00:30+00:00,1526548213750185984,API3DAO,"What sets API3's #QRNG apart from other RNGs serving #Web3 #smartcontracts?
+
+☑️ Truly random RNG via quantum measurements
+☑️ Available on 13 networks, several of which had no prior RNG
+☑️ Powered by a first-party oracle hosted by @ourANU's Quantum Optics Group
+☑️ 100% free-to-use https://t.co/eRETPQ2hnu",43,10,12,2022-05-17
+457,2022-05-19 13:43:08+00:00,1527283716355153920,API3DAO,"Next month in Berlin! 🇩🇪
+
+Only a handful of tickets left - don't miss out on #BOS22 and their lineup of highly knowledgeable speakers, including API3's @UgurMersin61. https://t.co/YSYPpeMwxk",46,8,6,2022-05-19
+458,2022-05-20 14:58:37+00:00,1527665099841888257,API3DAO,"@94D56981 @UgurMersin61 Hey Lon, the max supply is uncapped as staking rewards are minted. However, runaway inflation is unlikely due to counterlevers like data feed fee burns.",0,0,0,2022-05-20
+459,2022-05-24 13:53:44+00:00,1529098323537408000,API3DAO,"API3 Partner Spotlight: Railz
+
+@AiRailz's ""Accounting Data-as-a-Service"" API delivers normalized historical and real-time #accounting data from all major accounting service providers to #Web3 via API3's #Airnode. 
+
+More below👇
+
+https://t.co/T0M0WW2jVk",32,0,8,2022-05-24
+461,2022-05-26 14:00:00+00:00,1529824678734221316,API3DAO,"Don't forget to join us for today's API3 Community Call at 3pm UTC (in exactly one hour) via our Twitter profile.
+
+We'll be chatting with @rybodium from API3 DAO about the newly launched #QRNG, #Airnode and more. 
+
+Leave your questions here: https://t.co/sBjheXyJt9 https://t.co/4bb5E8ulRf",32,0,7,2022-05-26
+463,2022-05-27 13:00:01+00:00,1530171967940308993,API3DAO,"🎲 Introducing the API3 #QRNG logo 🎲
+
+From on-chain #P2E #gaming and #gambling to #NFT generation, there are many #blockchain-native functions where random number generation plays an integral role.
+
+Learn more about QRNG &amp; access it free-of-charge here: https://t.co/LbMiMUy72T https://t.co/1MFVmdN7Wm",62,3,8,2022-05-27
+464,2022-05-31 13:14:15+00:00,1531625102395293698,API3DAO,"The API3 Core Tech Team Report for May from @bbenligiray is now available👇
+
+Highlights:
+- #QRNG launch + sneak peeks into how it might parallel the future of #Airnode
+- How recent occurrences allowed us to stress-test Beacons (hint: volatile price pairs)
+
+https://t.co/ljmWK8mCdV",40,0,6,2022-05-31
+466,2022-06-01 12:10:46+00:00,1531971512965779462,API3DAO,"We're going live with @optimismPBC in their Discord channel in exactly two hours! 
+
+@Ashar2shahid and @Ben_BlackWhite will be sharing technical insights about the API3 #QRNG Quantum Random Number Generator and its use cases on the #Optimism network.
+
+🌐 https://t.co/s6tPqgJMZm https://t.co/lx9IDCKwjc",39,1,13,2022-06-01
+470,2022-06-02 12:40:45+00:00,1532341447550189569,API3DAO,"@StefanVikkels Hey Stefan, thanks for reaching out! There's a detailed discussion regarding this issue with the staking link in our discord channel here https://t.co/uyBADK3j8n",1,0,0,2022-06-02
+472,2022-06-03 13:54:23+00:00,1532722366610083840,API3DAO,"We're incredibly thrilled to see exciting #NFT projects like @exiledracers on @MoonbeamNetwork utilising API3's public utility QRNG for their whitelisting lottery!
+
+#QRNG is the first true random number generator for #Web3 - use it to power fair lotteries, NFT mints, and more. https://t.co/7zA8nlGUEj",69,2,15,2022-06-03
+473,2022-06-07 12:45:20+00:00,1534154542375387140,API3DAO,"This week's Community Call will be an interesting one!
+
+Join us with our Developer Advocate @Ashar2shahid as we chat about developer outreach &amp; unveil an exciting new project powered by API3's #QRNG. 
+
+Here's a hint: 🎲 + 👾/👹 + 🖼 = ? 
+
+Submit questions: https://t.co/sBjheXh8BB https://t.co/xzoUEnewHO",33,0,7,2022-06-07
+476,2022-06-08 09:25:50+00:00,1534466723931381761,API3DAO,"@Tiagode88 @UgurMersin61 Yes - please reach out to @giannilesna (or via Telegram @/glesna), he'll be there!",2,0,0,2022-06-08
+478,2022-06-09 12:31:44+00:00,1534875895403618304,API3DAO,"Don't miss our Twitter Spaces w/ @0xPolygon tomorrow (Friday) at this time!
+
+We'll take you on a dev-focused whirlwind tour of the #QRNG Quantum Random Number Generator &amp; all its intricacies, plus give the API3 &amp; Polygon community a sneak peek into our QRNG starter project 🎲👾 https://t.co/PGlW5L3LpS",71,5,18,2022-06-09
+481,2022-06-10 12:47:40+00:00,1535242293472641024,API3DAO,"We're live right now with @0xPolygon - if you're a #dApp dev contemplating integrating the API3 #QRNG, come and have a listen!
+
+👇
+https://t.co/ePewW7aEm3 https://t.co/99yTKuwxUu",37,2,6,2022-06-10
+483,2022-06-13 16:58:30+00:00,1536392577947246594,API3DAO,"On the monetization of first-party #oracles, and doing so in an effective, sustainable, scalable &amp; market-aware manner.
+
+@bbenligiray sheds some light on API3's business model &amp; the monetization considerations that API providers should take into account👇
+
+https://t.co/RgTlYvZ6NK",64,5,13,2022-06-13
+484,2022-06-15 19:13:18+00:00,1537151279889362944,API3DAO,"Missed our #QRNG-centric Twitter Spaces AMA with @0xPolygon last week? 
+
+Have a listen here!
+
+We talked about the scientific mechanisms behind the Quantum Random Number Generator, elaborated on use cases for dApps e.g. #NFT generation on Polygon &amp; our upcoming starter project 👾 https://t.co/KhOXYxAyzK",52,4,5,2022-06-15
+485,2022-06-16 21:03:45+00:00,1537541463017508865,API3DAO,"@DPXRP1 @bbenligiray Hey Dan, please check out this forum post on how to resolve this issue - https://t.co/axNaATGUP3",1,1,0,2022-06-16
+486,2022-06-17 14:09:50+00:00,1537799684672081921,API3DAO,@airczar121 @0xPolygon No issues on our side - here's a forum post on how you can resolve the issue if it persists: https://t.co/axNaATGUP3,2,0,0,2022-06-17
+490,2022-06-20 14:56:24+00:00,1538898566684581888,API3DAO,"1/
+
+Want to harness the forces of #ArtificialIntelligence &amp; #MachineLearning to power your #blockchain #dApp?
+
+You can plug into a whole host of ready-made AI apps on the @openfabricai marketplace: use cases include face &amp; emotion recognition, speech-to-text &amp; text summarisation. https://t.co/TpsyCPAUtE",81,4,22,2022-06-20
+492,2022-06-21 14:59:12+00:00,1539261661877510144,API3DAO,We're excited to see @ChainAPIcom launch! ChainAPI is an #API3 ecosystem project that makes connecting your own web APIs to #Web3 easy with no coding necessary. API providers no longer need #blockchain expertise to create and run first-party oracles. https://t.co/bPmIJdd3r8,108,10,31,2022-06-21
+493,2022-06-22 17:02:26+00:00,1539655059243278338,API3DAO,"API3 Partner Spotlight: @CurrncyAlliance
+
+Their global marketplace, named ""Best Loyalty Innovation"" at the recent #InternationalLoyaltyAwards, enables brands to easily pursue loyalty commerce.
+
+More on why they're bringing their API to Web3 via #Airnode👇
+
+https://t.co/c4GX1U9Phf",45,1,4,2022-06-22
+496,2022-06-23 14:20:43+00:00,1539976752134385666,API3DAO,"Come join us at the API3 Developer's Workshop on Tuesday next week for a step-by-step walkthrough on integrating #QRNG within a dynamic NFT mint, e.g. for randomly generated NFT traits!
+
+All are welcome to join, regardless of #blockchain dev experience.
+
+👉https://t.co/ezXA40FjDU https://t.co/QLhMzJuPnY",55,7,11,2022-06-23
+497,2022-06-27 15:04:46+00:00,1541437387905064960,API3DAO,"Announcing this week’s API3 Community Call!
+
+We’ll be introducing our Communications Lead @omnomtomnom
+
+👉Here’s an article he recently wrote for @exodus_io exploring the decentralisation of blockchain oracles: https://t.co/LB0LdevMRr
+
+👉 Submit questions: https://t.co/sBjheXh8BB https://t.co/qAdzFNqMOE",53,5,10,2022-06-27
+498,2022-06-28 18:58:00+00:00,1541858469740851200,API3DAO,"We're live with @Ashar2shahid in the API3 Developers' Workshop on our Discord!
+
+Come join us for a step-by-step live walkthrough exemplifying how to implement the free-to-use API3 #QRNG Quantum Random Number Generator in #NFT smart contracts.
+
+👉 https://t.co/ezXA40FjDU https://t.co/nd9pNgtqPu",48,3,8,2022-06-28
+500,2022-06-29 09:00:50+00:00,1542070579058163712,API3DAO,"Join APIX 2022 online today - registration is free!
+
+@Sensedia, a leading global API management platform, will bring you &gt;8h of livestream content feat. 50+ speakers, including API3's @giannilesna, who will speak about open finance.
+
+What's that and why does it matter?
+
+🧵/👇 https://t.co/yVKHJodJgc",44,6,8,2022-06-29
+503,2022-06-30 00:02:07+00:00,1542297391553978374,API3DAO,"This month at API3: our tech team has been hard at work behind the scenes!
+
+- @ChainAPIcom's launch makes Airnode deployment easier than ever
+- Significant #dAPI &amp; #Airnode updates
+
+More in the Core Technical Team Report for June 2022 from @bbenligiray👇
+
+https://t.co/ZHl2sLJN4e",40,4,8,2022-06-30
+508,2022-07-01 19:16:07+00:00,1542950192617512961,API3DAO,@mkolesky We'll pass this on to @omnomtomnom :),2,0,0,2022-07-01
+509,2022-07-04 14:21:49+00:00,1543963295954132995,API3DAO,"We've just published the API3 Operations Update for June 2022.
+
+Important update points include:
+- Transition to WorkCo for US-based contributors to API3
+- Improved community engagement &amp; upcoming community report
+- CRM dashboards to support BD efforts
+
+https://t.co/gbyJfYsG4N",68,2,13,2022-07-04
+510,2022-07-05 16:03:51+00:00,1544351359553658880,API3DAO,"Game players are often at the mercy of devs: for example, when you purchase a loot crate, what are the odds of winning something valuable?🎰
+
+#Blockchain-based games have a unique opportunity to redefine trust &amp; transparency.
+
+More in this #QRNG article👇
+
+https://t.co/LNRtwZbehh",50,5,12,2022-07-05
+511,2022-07-06 13:36:32+00:00,1544676674054266882,API3DAO,"We'll be going live with @MoonbeamNetwork in 1.5h time to share more about #QRNG &amp; to give #Moonbuilders a live demo on how it can be used for your next #NFT project, e.g. minting of random traits.
+
+🎤 @Ben_BlackWhite &amp; @Ashar2shahid from API3 DAO
+⏰ 3pm UTC today
+
+See you there! https://t.co/kPAWzNofKN",54,2,8,2022-07-06
+512,2022-07-10 12:00:02+00:00,1546101940496617472,API3DAO,"API3 developer @Ashar2shahid was recently featured on @CoinDesk's Community Crypto TV show hosted by @bitcoinzay
+
+Check out what Ashar has to say about #Web3 #hackathons: online vs. IRL (@ 12:20) + skills &amp; programming languages to get started (@ 23:00)
+
+👉https://t.co/gXHy877R31 https://t.co/GYIUN3E8aO",40,2,8,2022-07-10
+515,2022-07-11 11:13:53+00:00,1546452714607067138,API3DAO,"Going to @EthCC next week? 🇫🇷
+
+Join us next Wed evening for une expérience ludique with API3 &amp; @Kleros_io!
+
+📍 Wed 20th July, 6pm-1am @ Hasard Ludique
+🍻 Free flow beer &amp; wine 
+🔘 Play pétanque/boule 
+🚎 Direct shuttles every 20 min to/from La Mutualité
+
+https://t.co/QR3JQr2VqB",45,6,6,2022-07-11
+516,2022-07-12 18:03:51+00:00,1546918273547108352,API3DAO,"Submit your questions in advance here:
+
+https://t.co/sBjheXh8BB",10,0,3,2022-07-12
+519,2022-07-13 15:10:38+00:00,1547237070090928134,API3DAO,"If you want a beginner-friendly detailed recap of how to generate randomness for your smart contract using the API3 public good #QRNG, check out the recording of last month's API3 Developers' Workshop with @Ashar2shahid below! 
+
+👉 https://t.co/VnGwaKCGik https://t.co/fbU12aHhVa",37,2,7,2022-07-13
+522,2022-07-14 14:17:55+00:00,1547586191356137473,API3DAO,"In 45 minutes' time we'll be going live with today's Community Call.
+
+Chat with us about #QRNG, #dAPIs, and get a sneak peek into what we have planned for our booth @EthCC next week + our party with @Kleros_io on Wed!
+
+Submit your questions:
+👉 https://t.co/sBjheXyJt9 https://t.co/SEeqeckOQd",18,0,4,2022-07-14
+524,2022-07-15 13:22:42+00:00,1547934683865837569,API3DAO,"🇫🇷 We're putting the API into PARIS! @EthCC 🇫🇷
+
+Next week, 19-21 July 2022
+
+Don't miss our Bear Beers &amp; Beats party with @Kleros_io on Wednesday night!
+
+Come say hi to us anytime at the API3 booth (Floor -1, next to Main Stage access) - here's what we have in store for you 👇 https://t.co/qBPE6sB99f",38,6,5,2022-07-15
+527,2022-07-18 12:07:08+00:00,1549002830765252609,API3DAO,"🇫🇷 T-minus-one day to @EthCC! 🇫🇷
+
+For EthCC first-timers and veterans alike, our Comms Lead @omnomtomnom has put together this handy-dandy general guide to the conference, events surrounding it and (quite importantly), food in the area ☕🥐
+
+https://t.co/7Af9sJbOW9",35,0,4,2022-07-18
+528,2022-07-19 08:15:20+00:00,1549306885563711488,API3DAO,"We're kicking off the week at @EthCC with this launch announcement:
+
+API3's #dAPIs (decentralised APIs) are now available on 4 mainnets: @0xPolygon, @BNBCHAIN @avalancheavax &amp; @RSKsmart!
+
+dAPIs are free to use for a limited time. More info below👇
+
+https://t.co/cGkJ5wE7o3",187,63,53,2022-07-19
+530,2022-07-20 15:57:25+00:00,1549785556728569856,API3DAO,"Come horse around with us at the @Kleros_io x API3 Bear Beers &amp; Beats #EthCC #party tonight!
+
+📍 Hasard Ludique, Paris
+⏰ 7 pm - 1 am
+
+https://t.co/TREBGcE20t https://t.co/4dfzEe9fBx",23,2,2,2022-07-20
+537,2022-07-21 09:19:46+00:00,1550047873345224711,API3DAO,@HuntingStops Yep!,1,0,0,2022-07-21
+540,2022-07-25 12:15:44+00:00,1551541711704317956,API3DAO,"EthCC might be over, but Paris is just the beginning for API3.
+
+Shoutout to all who came by to say hi and partied w us on the train tracks at our Bear Beers &amp; Beats soirée 🍻🍷
+
+Missed out but want some API3 stickers? Guess where we're headed next! 🌏
+
+RT with your best guess👇 https://t.co/ox8YRohJqU",61,4,7,2022-07-25
+542,2022-07-26 17:25:18+00:00,1551982001720365061,API3DAO,"The quarterly API3 Enterprise Development Report from @giannilesna for May, June &amp; July is now available!
+
+The current focus is on driving data feed adoption. Read on for details re: new confirmed engagements with multiple large data providers below 👇
+
+https://t.co/uYRGccmYrV",40,2,6,2022-07-26
+544,2022-07-27 13:39:03+00:00,1552287453356167170,API3DAO,"Spotted in the wild: 
+
+Integration of the API3 public good #QRNG by @TheDPSproject on #Moonriver for truly randomised pirate-based #NFT generation 🎲 🦜 https://t.co/xvEJk5x1bP",34,1,1,2022-07-27
+545,2022-07-28 15:00:15+00:00,1552670275992358912,API3DAO,Community Call - July 27th https://t.co/wsgCMg8IoW,29,3,4,2022-07-28
+546,2022-08-01 12:02:07+00:00,1554074999497048071,API3DAO,"The API3 Core Technical Team Report for July 2022 from @bbenligiray has been published.
+
+Update topics include: 
+
+- API3 data feeds: provided as #Beacons and #dAPIs, Beacon sets and service coverage soon to come
+
+- the interactive API3 Market platform
+
+https://t.co/OCrWQ7Rymw",54,0,10,2022-08-01
+547,2022-08-03 13:37:54+00:00,1554823880321257472,API3DAO,"API3's @MidhavVR will be speaking at next week's Korea Blockchain Week.
+
+He's featured on the panel ""Data Economy Powered by Blockchain Analytics"" at 2:45 pm, Monday 8th Aug.
+
+Attending @kbwofficial and want to chat with us about first-party data feeds for #Web3? Get in touch. https://t.co/QKsumNCYyG",39,0,8,2022-08-03
+548,2022-08-04 13:45:35+00:00,1555188198539931648,API3DAO,"The API3 Operations Team has published their monthly update for July 2022.
+
+Main points include: 
+
+- Supporting the Tech Team with the ordering and onboarding processes for our newly launched data feeds 
+
+- Official onboarding of US Contributors to WorkCo
+
+https://t.co/ar2Hys38Id",36,3,8,2022-08-04
+549,2022-08-05 19:44:38+00:00,1555640944040574976,API3DAO,"Kudos to the #API3 Spanish team for being featured in a @beincrypto_es article on #blockchain oracles.
+
+""API3 is a second generation of Oracle, whose operations are controlled by its DAO and provides protection against risks in the event of API failure.""
+
+https://t.co/zJcM2BpUaF https://t.co/zKBpwGqc8m",42,6,9,2022-08-05
+550,2022-08-08 11:12:56+00:00,1556599334304550912,API3DAO,"Earlier today, API3's @MidhavVR shared about how our first-party data feeds augment the Web3 data economy at a panel discussion during Korea Blockchain Week @kbwofficial
+
+If you're in Seoul this week and would like to learn more about bringing data on-chain, drop us a message! https://t.co/iAUysp1l9x",76,6,18,2022-08-08
+551,2022-08-12 13:38:16+00:00,1558085462409072644,API3DAO,"API3's recently launched data feeds are being integrated into use cases like this one, which uses @amberdataio price feeds to simplify peer-to-peer token transfers on the @RSKsmart network.
+
+API3 data feeds are free to use for a limited time - more info on https://t.co/aHzATUlBhd https://t.co/QVz1ty1tXX",47,10,11,2022-08-12
+552,2022-08-15 19:43:47+00:00,1559264608984121350,API3DAO,"Congratulations to the newly-formed API3 AirSigner team led by @0xdoge_bull for passing their DAO proposal and receiving a grant to build an MEV-enabled Airnode.
+
+https://t.co/RiPtQInkQM",35,2,7,2022-08-15
+554,2022-08-17 16:25:47+00:00,1559939559500267524,API3DAO,"API3 recently attended the largest annual European Ethereum event @EthCC in Paris, France.
+
+Here are some highlights👇
+
+https://t.co/EwrAMMKwOD",39,10,10,2022-08-17
+555,2022-08-22 15:33:28+00:00,1561738330357858304,API3DAO,"What does API3 do and why do first party oracles matter? 
+
+@UgurMersin61 answers in his own words from the API3 booth at the recent @EthCC 2022.
+
+https://t.co/TaUcnpR4wm",58,4,13,2022-08-22
+556,2022-08-23 12:35:30+00:00,1562055931558612992,API3DAO,"This Thursday at 3pm UTC, we'll be joined by @MidhavVR on the API3 Community Call, livestreamed on Twitter.
+
+He's a regular attendee of #Web3 #conferences and was a speaker at the recent @kbwofficial.
+
+Submit your questions for a chance to win API3 merch: https://t.co/6niNUW0S5T https://t.co/aKMASgDJyf",32,5,5,2022-08-23
+557,2022-08-25 15:00:21+00:00,1562817162573934592,API3DAO,Community Call - August 25th https://t.co/D8IUdd38ly,24,3,9,2022-08-25
+558,2022-08-26 17:04:41+00:00,1563210837161959425,API3DAO,"API3's #QRNG is ideal for use cases such as on-chain #lotteries 🎲
+
+@CamBrazy3 has written this tutorial on:
+
+- Building &amp; testing a lottery smart contract using Hardhat
+- Integrating QRNG into the smart contract to secure the randomised lottery function
+
+https://t.co/v9IM3Fx6z7",43,7,11,2022-08-26
+560,2022-08-29 16:25:27+00:00,1564288129472892930,API3DAO,"How can protocols mitigate the risks and the potentially devastating impacts of #oracle failure? 
+
+Learn about API3's service coverage in this video from @UgurMersin61, filmed at EthCC 2022👇
+
+👉 Playlist: https://t.co/7SMvgWqtip https://t.co/qcIsw9cmBr",47,6,10,2022-08-29
+561,2022-08-31 14:54:25+00:00,1564989995257044993,API3DAO,"The API3 Core Technical Team Report for Aug 2022 has just been published by @bbenligiray.
+
+Updates on:
+- A fourth audit of the DAO &amp; staking pool (including the front-end)
+- Airnode v0.7 release
+- Product monetization efforts &amp; service coverage
+
+https://t.co/Tkz2W9hb0d",39,2,12,2022-08-31
+563,2022-09-02 11:59:53+00:00,1565670847364448256,API3DAO,"Congratulations to the winners of our merch giveaway, whose questions were asked during last week's community call!
+
+👉 Full announcement in the API3 Telegram Group: https://t.co/VqSMrpBwko https://t.co/kTv72U9wn6",35,6,5,2022-09-02
+564,2022-09-07 13:08:07+00:00,1567499957610942465,API3DAO,"Airnode makes it simple to connect and read the value of a REST API in a #smartcontract.
+
+Join us today at 3.45pm UTC where we deploy Airnode using @ChainAPIcom to @0xPolygon Mumbai with @Ashar2shahid @Ryan_Makiola @Ben_BlackWhite &amp; @0ceans404.
+  
+https://t.co/URW1m9Oh9B",58,9,16,2022-09-07
+565,2022-09-14 14:46:40+00:00,1570061473065336834,API3DAO,"Thank you @hexensio for being professional, responsive, and delivering a high-quality audit. https://t.co/LCuHqCo3tJ",57,8,14,2022-09-14
+566,2022-09-19 02:03:05+00:00,1571681250787880961,API3DAO,"A thorough report from @MessariCrypto about #API3.
+https://t.co/pk7wNq0Dfx https://t.co/SDtN9P4AaM",37,10,8,2022-09-19
+567,2022-09-20 22:47:27+00:00,1572356792675635200,API3DAO,"Team member @MidhavVR was at @HashedEM's mixer in Goa, India speaking to college students about how data from API3 will open up whole industries for creative dApp developers.  
+#Web3 #datafeeds #smartcontracts https://t.co/ZkJxHzNfJF",38,1,7,2022-09-20
+568,2022-09-21 18:33:06+00:00,1572655171364343810,API3DAO,"#2 on @hackernoon: @WassanVansh walks us through getting data from a REST API to a solidity smart contract on @0xPolygon Mumbai using our Airnode and @ChainAPIcom.
+
+https://t.co/tOmg1d8jr5
+
+#smartcontracts #solidity #PolygonMatic #api3",36,8,9,2022-09-21
+569,2022-09-23 18:23:00+00:00,1573377405921554432,API3DAO,"Want to understand API3 better?
+
+Listen to Dave and Ashar on the @0xPolygon Alpha Podcast talking about what makes API3 unique among oracles. 
+
+@thevet @Ashar2shahid #smartcontract #polygon #matic #api #api3 https://t.co/MDbNzfJmR5",23,5,3,2022-09-23

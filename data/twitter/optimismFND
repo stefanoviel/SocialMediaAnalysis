@@ -1,0 +1,701 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-07 22:10:17+00:00,1214670616613314561,optimismFND,"In our implementation, there is only one sequencer/aggregator at a time. This entity has privileged block production within the timeframe that they hold this position, and they can provide instant cryptoeconomic guarantees for transaction inclusion through the posting of a bond. https://t.co/lVDToLi3eq",2,0,0,2020-01-07
+3,2020-01-09 23:10:26+00:00,1215410533052055553,optimismFND,"Dear Ethereum Community: 
+
+After a whirlwind year of R&amp;D, it's time for PG to evolve. You have our deepest gratitude for your support. It's corny, but it has been and will continue to be an honor to work for this community ❤️
+
+🌻On To New Beginnings https://t.co/WKWutLjL9U",227,13,47,2020-01-09
+6,2020-01-15 17:13:09+00:00,1217494943582900226,optimismFND,"Hello again world! Plasma Group is now Optimism. Today, we are announcing our transition from research to something more:
+
+https://t.co/15ZstrFwTP",341,13,81,2020-01-15
+7,2020-01-16 15:08:11+00:00,1217825885992235013,optimismFND,@GavinMcDermott We know! We just wanted to jump in because we’re bummed we missed the excellent opportunity to use that pun in our goodbye and announcement posts.,1,0,0,2020-01-16
+10,2020-01-20 17:28:39+00:00,1219310786352422913,optimismFND,"Great overview, Ben! Really well done. https://t.co/Ke2dNE9USm",4,1,0,2020-01-20
+11,2020-01-26 21:22:05+00:00,1221543857202061313,optimismFND,@Thintandgrow @ethereum @karl_dot_tech @jinglanW @VitalikButerin Thanks for putting this together!,0,0,0,2020-01-26
+12,2020-02-12 00:34:08+00:00,1227390395119742978,optimismFND,"Check it out! We're stoked to present the alpha release of the OVM - the backend that enables smart contract scalability in L2. In other words, a giant leap towards a fully EVM compatible Optimistic Rollup 🥳🎉
+
+https://t.co/kZoJsQl8gK
+
+Phewf. It's been a busy 2020 so far.",170,7,55,2020-02-12
+13,2020-02-26 21:16:57+00:00,1232776587688497154,optimismFND,"Well, who knows if this really works. https://t.co/5yZOiHo5Oo",74,9,5,2020-02-26
+14,2020-03-16 17:00:03+00:00,1239597307504603136,optimismFND,“Wow I’ve never watched an instructional video on how to wash your hands before.” @karl_dot_tech @kevinjho_ https://t.co/5Az2ttup9v,5,0,0,2020-03-16
+15,2020-03-26 07:03:50+00:00,1243071141784293377,optimismFND,Woo! MEVA! https://t.co/vErAbHSzLT,5,0,0,2020-03-26
+16,2020-05-05 15:25:30+00:00,1257692908947374080,optimismFND,"The OVM is an EVM-compliant execution environment designed for L2, to ensure that you can build scalable dApps without sacrificing Ethereum tooling. With the OVM, we migrated Synthetix's exchange contracts to L2 without having to write any custom Solidity. https://t.co/QxBASVeeQA",22,1,6,2020-05-05
+19,2020-05-14 18:29:25+00:00,1261000683739926535,optimismFND,"ICYMI: A technical, but accessible! deep dive on the OVM, the engine powering general smart contract scalability on Ethereum's L2, expertly written by @ben_chain: https://t.co/U3kj1ufB5t",90,6,33,2020-05-14
+20,2020-07-16 17:02:59+00:00,1283809363862474752,optimismFND,@justintrimble @muellerberndt @ziggamon @udiWertheimer @loopringorg @synthetix_io We took the OVM/Synthetix demo down! You can still see the flow in this video though: https://t.co/nOH3bMCTVo,2,0,0,2020-07-16
+21,2020-07-28 23:43:14+00:00,1288258745189924866,optimismFND,@PyVitor Indeed there are! Here it is: https://t.co/hLDIFd3BnK,1,0,0,2020-07-28
+22,2020-08-03 00:29:19+00:00,1290082283387461633,optimismFND,"@jadler0 Hi John! Our earliest published contributions to fraud-proof rollups can be found here on June 11:  https://t.co/kR3gDPmefo
+
+It’s the first time we used the term “Optimsitic Rollup” 🌟",6,1,0,2020-08-03
+23,2020-08-12 14:07:44+00:00,1293549733739405312,optimismFND,The folks at @NomicLabs are stars 🌟 . Builder is amazing and we love it 🥰 https://t.co/HBR26pbJTz,23,1,3,2020-08-12
+24,2020-08-14 20:37:21+00:00,1294372562126897152,optimismFND,@trent_vanepps 🥰,2,0,0,2020-08-14
+25,2020-08-24 21:05:19+00:00,1298003478225330177,optimismFND,What should our emoji be?,9,14,0,2020-08-24
+26,2020-08-27 18:20:00+00:00,1299049038113898497,optimismFND,😯🥺🥰🤓 https://t.co/cLgEpxnZF6,16,0,2,2020-08-27
+27,2020-09-20 20:08:17+00:00,1307773598199939072,optimismFND,@0x_____________ Such cool vapor wave effects! Love your style 🔥,3,0,0,2020-09-20
+28,2020-09-21 01:05:42+00:00,1307848443507937280,optimismFND,Sunday funday... No rest-yet for the testnet 👀 https://t.co/HyJzcsHYco,212,15,23,2020-09-21
+31,2020-09-23 20:01:55+00:00,1308859159044124675,optimismFND,@AnettRolikova @0x_____________ ☀️🥰☀️,1,0,0,2020-09-23
+32,2020-09-24 08:06:03+00:00,1309041391000072193,optimismFND,Something is brewing 👀... unfortunately for @tyneslol it’s not caffeine. https://t.co/jgoOMyv2th,29,1,5,2020-09-24
+33,2020-09-25 01:24:52+00:00,1309302820076691456,optimismFND,At long last - light at the end of the tunnel. Welcome to the first phase of the Optimistic Ethereum Testnet ⛅️. https://t.co/cjfhB0WU98,1592,109,441,2020-09-25
+34,2020-09-28 23:14:18+00:00,1310719514414383106,optimismFND,@Freddmannen @realGeorgeHotz https://t.co/W37uKk826I,1,0,0,2020-09-28
+37,2020-09-30 21:25:19+00:00,1311416861666484227,optimismFND,"@AustinBarack @synthetix_io To clarify, the gas fee payment flow has not yet been added! It will be available in the second half of the incentivized testnet.",9,1,0,2020-09-30
+39,2020-10-05 03:38:42+00:00,1312960377601380352,optimismFND,*blushes* ☺️ https://t.co/FwctdAbaHA,17,0,0,2020-10-05
+40,2020-10-12 22:33:32+00:00,1315782684455710720,optimismFND,"@wekabot It’s very out of date, some of those are no longer the case. Our new compiler has simplified things! But generally we agree and we’re excited for any EVM improvements that make our lives easier 😄",7,1,0,2020-10-12
+41,2020-10-13 16:29:06+00:00,1316053356994060289,optimismFND,"""Public goods funding is one of the most critical things that L2's should be thinking about right now. Grants may work for now, but we must evolve towards longer term solutions."" - @karl_dot_tech https://t.co/E4b0tLQg9Q",20,0,3,2020-10-13
+45,2020-10-14 21:25:29+00:00,1316490332142530562,optimismFND,@bubbys_world @VitalikButerin @coinbase We worked with the Coinbase Wallet team: https://t.co/vRdessIkIW,1,0,0,2020-10-14
+49,2020-10-16 02:40:10+00:00,1316931915417604097,optimismFND,Teamwork makes the dream work. https://t.co/JWqZeT7hZM,82,1,11,2020-10-16
+50,2020-10-19 14:27:29+00:00,1318197081635512327,optimismFND,@ezbrah_ Ooh nice find! They even use the same color scheme as we do!,1,1,0,2020-10-19
+51,2020-10-21 00:20:14+00:00,1318708639834820608,optimismFND,@hudsonjameson Feeling old now...,1,0,0,2020-10-21
+52,2020-10-22 17:36:44+00:00,1319331872091013127,optimismFND,"Starts at 31:43! George Hotz on “why Ethereum”, L2 scaling, and more!
+https://t.co/K3RkZSuFcq",21,1,3,2020-10-22
+53,2020-10-23 20:43:44+00:00,1319741318546051074,optimismFND,Tune in to @ben_chain’s presentation in 47 minutes!! The talk will be much better than the title. https://t.co/KTOXkItfRH https://t.co/994DSXVoz7,43,2,7,2020-10-23
+54,2020-11-06 23:42:20+00:00,1324859692607283202,optimismFND,Ergonomic. https://t.co/qqHzQgzrYO,56,5,1,2020-11-06
+55,2020-11-07 00:00:53+00:00,1324864362893307907,optimismFND,@Agusx1211 Oh how it is to be young @kelvinfichter,2,0,0,2020-11-07
+56,2020-11-16 16:04:24+00:00,1328368330462294018,optimismFND,@Danny_Desert @lexfridman @realGeorgeHotz @ethereum Enjoy! https://t.co/mI1rz7SzZA,1,0,0,2020-11-16
+57,2020-11-17 01:50:30+00:00,1328515829059649539,optimismFND,@4tt4r WOHOOOO!!,1,0,0,2020-11-17
+58,2020-12-13 22:12:10+00:00,1338245354488131584,optimismFND,@GNSPS @maurelian_ We feel extremely lucky to be able to work with him. Thank you for helping to shape who he is as a teammate ❤️,3,1,0,2020-12-13
+59,2020-12-15 23:48:34+00:00,1338994390858039296,optimismFND,"Aw, thank you for trying it out and helping us build a more robust product❤️. One note: there will be gas eventually! Just not right now :) https://t.co/Cz7IsaZAeo",47,4,6,2020-12-15
+60,2020-12-16 00:41:40+00:00,1339007754023759872,optimismFND,"@iwearahoodie ETH at first. Eventually, any token!",5,1,0,2020-12-16
+61,2020-12-17 03:19:05+00:00,1339409756402794497,optimismFND,"If you prefer to follow a video tutorial instead, here’s one courtesy of @karl_dot_tech:
+
+https://t.co/zROHXuIDVw",18,0,1,2020-12-17
+65,2020-12-19 16:09:55+00:00,1340328516647206912,optimismFND,"Join us today in 6 hours at 5pm EST for an Optimism AMA and livestream!
+
+https://t.co/1EFiIHCJbc",24,1,4,2020-12-19
+66,2021-01-01 08:02:30+00:00,1344916899893657600,optimismFND,"HAPPY NEW YEAR! Here's a review of our accomplishments in 2020 and a final win to wrap up the year:
+https://t.co/CWcyLIoZOL",192,6,46,2021-01-01
+68,2021-01-10 23:24:50+00:00,1348410501714173953,optimismFND,@evabeylin No pressure 😁😅,55,4,0,2021-01-10
+69,2021-01-14 18:44:55+00:00,1349789610369376256,optimismFND,What an impressive lineup! Be sure to check out this incredibly informative security panel 👇 https://t.co/F5E7K0IR6u,23,0,5,2021-01-14
+72,2021-01-15 23:35:16+00:00,1350225068484251649,optimismFND,@crypto_fruit that would be POO,34,2,0,2021-01-15
+74,2021-01-16 00:22:56+00:00,1350237061702324225,optimismFND,@tomnashflex Our new chainID is 10. 420 was cute while it lasted though!,17,4,0,2021-01-16
+77,2021-01-19 02:22:07+00:00,1351354219773583362,optimismFND,WOOOOT https://t.co/GGtIL4snY9,21,1,0,2021-01-19
+78,2021-01-21 03:25:44+00:00,1352095003972026369,optimismFND,@transmissions11 🥰,5,1,0,2021-01-21
+79,2021-01-25 17:05:44+00:00,1353750914121650176,optimismFND,"There is no Optimism token. If somebody is selling you one, report them - it's a scam.",203,11,26,2021-01-25
+81,2021-01-29 19:00:02+00:00,1355229231488221184,optimismFND,Catch @kelvinfichter and @maurelian_  streaming live--right now!  https://t.co/8tFU7FPIK2,14,0,4,2021-01-29
+82,2021-02-04 16:42:12+00:00,1357368871083069443,optimismFND,Wow this is sick! &lt;3 you guys! https://t.co/d8SopQ2YHF,65,0,4,2021-02-04
+83,2021-02-22 23:45:55+00:00,1363998485150797825,optimismFND,Soylent is the foundation of our code output... in more ways than one. https://t.co/iewmqXhq3J,32,4,2,2021-02-22
+84,2021-02-24 22:33:59+00:00,1364705157557088258,optimismFND,"This frenzy of hiring was made possible by our Series A, led by @a16z and @cdixon @AriannaSimpson - thank you🙏.",128,3,8,2021-02-24
+87,2021-02-25 00:09:38+00:00,1364729230194475009,optimismFND,❤️🤪❤️ https://t.co/l1FzvqbLAu,54,1,2,2021-02-25
+91,2021-02-27 06:32:07+00:00,1365550259418525697,optimismFND,@danfinlay https://t.co/jN86gn35oH https://t.co/p6Um4MDYwc,36,2,3,2021-02-27
+92,2021-03-09 17:14:02+00:00,1369335683433697280,optimismFND,Incredible work! An extremely cool and technically elegant solution to fast exits out of L2 by the maker team. https://t.co/8cMeJK5wL5,404,6,75,2021-03-09
+93,2021-03-15 22:15:40+00:00,1371585917098500098,optimismFND,"Wow! Check out this ERC721 gateway PoC by @azacharyf... Mint an NFT, deposit to L2, and withdraw back to L1! https://t.co/GHnAY9yHaP https://t.co/836ZdgxVQA",202,7,45,2021-03-15
+94,2021-03-18 20:23:05+00:00,1372644749937496065,optimismFND,😳😊💖 https://t.co/YGM9SlEJAA,36,7,0,2021-03-18
+95,2021-03-26 00:42:34+00:00,1375246765541052418,optimismFND,"TLDR (courtesy of beable): Mainnet soft-launched in January to whitelisted addresses like Synthetix, whose users have already saved over $10m in fees. More whitelisted addresses will continue to launch before the whitelist restriction is removed, optimistically in July.",106,12,13,2021-03-26
+99,2021-04-03 00:35:04+00:00,1378143981935075330,optimismFND,"Today in our discord, we met the artist of that very first ETH2 graffiti: @MrFwashere! The meme himself. https://t.co/dkfSVv4WFW",27,0,0,2021-04-03
+101,2021-04-05 23:48:19+00:00,1379219379179638787,optimismFND,"Stoked to be supporting hackers building on Optimism at the @ETHGlobal Scaling Ethereum hackathon! Starts next Friday, April 16th, and lasts 3 weeks.
+
+You can sign up now! https://t.co/WnkdUeSLuh https://t.co/xalAiiwCsx",163,9,28,2021-04-05
+103,2021-04-08 20:19:50+00:00,1380254075405565953,optimismFND,"@BillyLuedtke @synthetix_io Unfortunately it won't be 0 fees! The more usage, the higher the fees. We will implement optimizations over time so that we can handle more &amp;  more users for lower &amp; lower fees, but unfortunately it will never be 0. We wish! Thank you so much for trying it out ❤️",28,1,0,2021-04-08
+104,2021-04-12 21:59:01+00:00,1381728588244807680,optimismFND,Join us this Thursday at 11:30am PT for an Optimistic Ethereum hackathon workshop with Professor @ben_chain followed by a contract deployment speedrun a la the wizard himself @kelvinfichter. Register to hack here: https://t.co/80Sr3Wyiab https://t.co/m2UPoR89oi,59,2,10,2021-04-12
+105,2021-04-19 16:24:39+00:00,1384181158372470784,optimismFND,@paulgebheim @gitcoin @AugurProject :O,4,0,0,2021-04-19
+108,2021-04-20 02:29:54+00:00,1384333472500617219,optimismFND,So much misdirected hate! We want to give the many artists and non-devs in crypto a chance to win something at the hackathon too.,28,3,1,2021-04-20
+110,2021-04-21 02:23:39+00:00,1384694288655687685,optimismFND,@ben_chain Few understand.,26,2,0,2021-04-21
+111,2021-04-22 01:35:23+00:00,1385044529670017026,optimismFND,😍 Holy smokes! That's incredible!! https://t.co/tahCTTjEp1,70,2,12,2021-04-22
+112,2021-04-26 17:08:24+00:00,1386728883903361026,optimismFND,Lucky us! So excited to have you on board ❤️💝 💕 https://t.co/YjnSvR0T6R,50,2,3,2021-04-26
+113,2021-05-19 03:51:23+00:00,1394863228539195395,optimismFND,"@dmasley Actually it was hosted by @ETHGlobal, we were only sponsors and mentors :). Thank you so much for your submission and congrats on winning a prize!",6,1,0,2021-05-19
+114,2021-05-20 16:47:43+00:00,1395420988133679105,optimismFND,@skogard We do have a mainnet currently but we are onboarding projects one by one to ensure the most secure experience possible for users.,13,1,3,2021-05-20
+121,2021-06-18 16:02:15+00:00,1405918794040573952,optimismFND,Let's gooo @maurelian_ ! https://t.co/w8UfOpPAju,20,1,3,2021-06-18
+123,2021-06-21 22:33:22+00:00,1407104382965932033,optimismFND,"We are so excited to announce the graduation of our first intern @Platocrat, who will be spinning out as the premier Optimizer - our first community steward &amp; grant recipient! This is a first step towards gradually dissolving the boundaries between our team &amp; our community &lt;3",93,9,9,2021-06-21
+124,2021-06-22 20:55:39+00:00,1407442179367182337,optimismFND,WOOOO LET'S GOOO!! Big hearts to the incredible quality and uptime of Alchemy infrastructure ❤️ https://t.co/hDcN0seroX,130,4,12,2021-06-22
+125,2021-06-24 23:24:10+00:00,1408204331086618628,optimismFND,@Consensys @trufflesuite https://t.co/V1Ipyf1tvC,11,0,1,2021-06-24
+127,2021-07-10 09:16:13+00:00,1413789143138590722,optimismFND,WOOT! 🎉 An incredible collaboration between three teams! https://t.co/MysRpmlYa5,151,2,17,2021-07-10
+128,2021-07-13 19:37:37+00:00,1415032687849611270,optimismFND,"🌹 Roses are red
+💎 Violets are blue
+⏰ You've all been waiting
+🦄 @Uniswap on L2
+
+https://t.co/YLpwJIoPiH",1976,106,511,2021-07-13
+132,2021-07-14 16:34:23+00:00,1415348963801186307,optimismFND,@zapper_fi @Uniswap Wow you guys are SO FAST,66,1,1,2021-07-14
+133,2021-07-19 11:00:36+00:00,1417076905430462465,optimismFND,@Lulukie5 DM us with the email you provided and we'll take you off the list.,0,0,0,2021-07-19
+139,2021-07-20 14:59:28+00:00,1417499406308462594,optimismFND,"Special thanks to @VitalikButerin for guest-authoring part of the post, and for designing the mechanism!",62,1,8,2021-07-20
+140,2021-07-26 14:01:29+00:00,1419659141229027329,optimismFND,@nonfungibles @TencentGames @SumoDigitalLtd @Lionsgate @Autograph That's false - We did not raise anything from NFTs.,11,1,1,2021-07-26
+141,2021-07-27 13:54:17+00:00,1420019715825496064,optimismFND,"Hey devs, be sure to give your code some tender loving care ... with Tenderly !! Integration now live with Optimistic Ethereum.  We are very stoked.  Big shout out of love for @dzedajev and the rest of the awesome team at @TenderlyApp.
+
+https://t.co/9mfkjn2Cgy",121,9,25,2021-07-27
+144,2021-07-29 19:51:52+00:00,1420834481615802369,optimismFND,IT'S FINALLY HERE!! @chainlink and @synthetix_io now live on L2! 🥳🎈🎉 WOOOO! https://t.co/IDbawgZrh6,632,34,107,2021-07-29
+146,2021-08-02 15:15:23+00:00,1422214451307102208,optimismFND,@optimismPBR Wow!,4,0,0,2021-08-02
+148,2021-08-04 15:53:58+00:00,1422948938366144516,optimismFND,@ETH_Daily @Uniswap @synthetix_io Uniswap put together a great user guide: https://t.co/moNGVz1JVe.  So did Kwenta: https://t.co/HBAQKjeELj,4,0,1,2021-08-04
+150,2021-08-10 21:00:59+00:00,1425200526170468352,optimismFND,This one's a bit shorter than the last one. We'll also have another dev blog post for you tomorrow!,8,0,1,2021-08-10
+158,2021-08-11 16:34:49+00:00,1425495933802848261,optimismFND,"@CryptoTabasko @ChainLinkGod @josephdelong @arbitrum Actually, second in line, second to deploy.  SNX was first all the way back in January",2,0,0,2021-08-11
+166,2021-08-12 00:57:28+00:00,1425622427975835649,optimismFND,@SyncDAO We have a blog post scheduled to publish next week with updated timelines!,3,1,0,2021-08-12
+167,2021-08-18 00:57:42+00:00,1427796815164755972,optimismFND,Stoked about the @AlchemyPlatform  support !!  Very important piece of infrastructure for all of us. https://t.co/8LEKwACe7x,103,9,14,2021-08-18
+168,2021-08-19 20:01:52+00:00,1428447139898687493,optimismFND,Announcing our Community Launch whitelist criteria today! https://t.co/8lIXlhI5RG,251,10,66,2021-08-19
+169,2021-08-23 20:23:56+00:00,1429902246301487113,optimismFND,"@SeanMonag @The_CryptoCrypt @WeekInEthNews @ethereum @OpenZeppelin @CelerNetwork Not just imminent - live with @synthetix_io @kwenta_io @Uniswap @1inch apps, and many more coming in the next few days and weeks !",2,0,0,2021-08-23
+170,2021-08-25 01:01:47+00:00,1430334558654767108,optimismFND,A warm welcome to the very first Optimism-native application. Lyra Finance is at the forefront of a new wave of apps optimized for low cost and high speed. https://t.co/L2zgIR1zLV,190,10,37,2021-08-25
+172,2021-08-27 22:14:04+00:00,1431379513112293379,optimismFND,Shoutout to all of the core developers (like @go_ethereum) and infra providers working tirelessly to ensure the network runs smoothly and safely. Ethereum would be nowhere without all of your hard work ♥️,59,1,3,2021-08-27
+176,2021-08-28 05:16:59+00:00,1431485945325314056,optimismFND,"@tizcon @FroggyFrogster @tr1ceXBT @Seneca20004 @brockm @ethereum @arbitrum Not anymore.  Withdraw within minutes with @HopProtocol at https://t.co/RzL8JMVVGU, already live on Optimistic Ethereum.  Try it out.  Head on over to our gateway to deposit.  https://t.co/DXjbzxwDxt",1,0,0,2021-08-28
+177,2021-08-31 17:18:35+00:00,1432754704904192005,optimismFND,"Faster, better, stronger with @CelerNetwork  !! 3 minute transfers at 20x cost reduction?!? Awesome. Combine w/ 100x reduced latency, 10x reduced gas, &amp; 10x increased throughput of Optimistic Ethereum - that's like peanut butter &amp; chocolate. https://t.co/avlP7Zslnh",234,10,54,2021-08-31
+178,2021-09-01 16:11:54+00:00,1433100311191715848,optimismFND,whoa. Whoa.  WHOA !!! @chainlink is up &amp; live &amp; ... absolutely fabulous! Near real-time price feeds + near instaneous confirmations + low gas fees = CryptoNirvana on OΞ.  Come check it out. https://t.co/aWyiEi2lFW,962,29,173,2021-09-01
+179,2021-09-02 05:27:39+00:00,1433300567632216065,optimismFND,@raholloway @RaymondDurk @sassal0x @Uniswap We’re fully live. @Uniswap @synthetix_io @kwenta_io @1inch @HopProtocol - all are live live live. Take a plunge into the liquid-y L2 pools on Optimism. Gateway: https://t.co/DXjbzxwDxt,2,1,1,2021-09-02
+181,2021-09-03 16:17:20+00:00,1433826453305450498,optimismFND,"@LukeYoungblood It depends on how expensive gas is on L1! If L1 gas is astronomical, fees on L2 rise too. Additionally, V1 targets a 90% cost reduction. Future releases will move towards a 99% reduction.",56,4,3,2021-09-03
+185,2021-09-06 22:59:16+00:00,1435014767660318721,optimismFND,@transmissions11 i did.,13,1,0,2021-09-06
+196,2021-09-07 17:42:11+00:00,1435297359538233349,optimismFND,"Oh, and it's a paid program. And if it goes well you'll have a job offer waiting for you at the end of the training program. Forgot to mention that part. Come get paid to work on the most fun L2 out there.",21,4,3,2021-09-07
+213,2021-09-08 18:23:09+00:00,1435670054545199106,optimismFND,"So uhh, L2 NFT summit? https://t.co/sbC9QcmbvE",234,14,22,2021-09-08
+217,2021-09-09 16:15:54+00:00,1436000419122122752,optimismFND,Which open-source projects have a great contribution process? What makes that process great? We're doing some GitHub updates and would love the inspiration.,98,11,10,2021-09-09
+218,2021-09-10 02:34:28+00:00,1436156087414112315,optimismFND,@transmissions11 @gakonst that... *is* therapy.,21,0,0,2021-09-10
+222,2021-09-11 00:16:26+00:00,1436483739031330817,optimismFND,We should start trolling with pre-announcement announcements but this time there is actually an announcement,150,12,11,2021-09-11
+225,2021-09-13 19:18:30+00:00,1437495926252310529,optimismFND,@CryptoToit It doesn’t actually work on a per-day basis but that’s the easiest way to explain it. Under the hood we target a TPS that equals 200k tx/day on average.,3,0,0,2021-09-13
+231,2021-09-14 15:57:42+00:00,1437807778987327488,optimismFND,👀 https://t.co/EVk2X2JfuM,53,4,9,2021-09-14
+232,2021-09-17 17:31:32+00:00,1438918557883158528,optimismFND,"Lastly, we'd like to give a huge shoutout to @protolambda, @lightclients, and the @statechannels team for their early and crucial contributions to the future of the optimistic rollup. Go follow them!",71,1,2,2021-09-17
+252,2021-09-21 03:48:49+00:00,1440161063991795713,optimismFND,Now you know 😉,32,2,1,2021-09-21
+258,2021-09-22 04:04:51+00:00,1440527489550327821,optimismFND,L2 really popping off huh https://t.co/6aRbwLyvmN,102,3,10,2021-09-22
+261,2021-09-27 20:00:02+00:00,1442579807741546510,optimismFND,@tyneslol is also doing a mentorship via @EthernautDAO! Become an Ethereum pro with one of the best. https://t.co/FcOBW1Y8BO,16,0,7,2021-09-27
+262,2021-09-28 22:11:11+00:00,1442975200752979976,optimismFND,"OVM 2.0 is coming:
+Kovan - Oct 14
+Mainnet - Oct 28
+
+Expect 4-6 hours of downtime on those days. We’ll be using our Discord #announcements channel to keep everyone in the loop. Changeset here: https://t.co/tWgujK5zBM",488,38,120,2021-09-28
+263,2021-10-05 17:44:21+00:00,1445444765382709256,optimismFND,"🥇 Think of an underfunded public good? Nominate projects for consideration!  https://t.co/0gtH4Q10AL
+
+We'll give you a shout out if you make a really thoughtful nomination!",40,3,4,2021-10-05
+269,2021-10-07 14:57:02+00:00,1446127432914792458,optimismFND,"‼️ICYMI‼️: We have a shiny new website! You can use it to browse all the awesome dApps, bridges, and tooling supported within the OΞ ecosystem. Check it out! https://t.co/RmvgYOydO0",216,15,43,2021-10-07
+273,2021-10-08 18:55:41+00:00,1446549879367643136,optimismFND,"Watch smock talk, write better tests. OP’s @kelvinfichter talking about the tool we wrote to simplify all of our testing, today @ 5:45pm ET. https://t.co/9AaFUarLgL",54,4,9,2021-10-08
+274,2021-10-12 19:03:56+00:00,1448001506775601152,optimismFND,(cannon cannon cannon) https://t.co/RclGMiihjE,56,5,8,2021-10-12
+275,2021-10-13 02:16:29+00:00,1448110360356167682,optimismFND,know of an underfunded public good? Nominate projects for consideration here  https://t.co/0gtH4QiBZl,37,4,6,2021-10-13
+277,2021-10-18 16:50:40+00:00,1450142297639751680,optimismFND,"Open source funding *is* broken. We have a chance to fix that. Go nominate an underfunded project for the first $1,000,000 retroPGF round. https://t.co/C4Bfiii0wA https://t.co/qPvUg7FQJP",63,3,5,2021-10-18
+281,2021-10-19 17:53:33+00:00,1450520508747825155,optimismFND,"Optimistic Kovan was successfully upgraded to our new EVM-equivalent architecture last week. If you want a taste of the goodness before mainnet goes live, @kwenta_io's trading competition is the perfect way to try it out--blazing fast! https://t.co/BYuAX4McXN https://t.co/nSdBU0if09",147,4,29,2021-10-19
+282,2021-10-22 19:27:11+00:00,1451631235516678145,optimismFND,@OgulcanSelcuk @BlockchainatCU @kevinjho_ dat slick do 💇‍♂️,3,1,0,2021-10-22
+288,2021-10-26 17:57:33+00:00,1453058232851709957,optimismFND,We do all of our research in public on discord. You can find our research convos alongside recordings of our bi-weekly R&amp;D calls in #specs channel. Check it out! https://t.co/vrXyqmFaiN,32,3,2,2021-10-26
+300,2021-10-27 19:34:02+00:00,1453444900175990787,optimismFND,❤️❤️❤️ https://t.co/bGwngg66Gi,56,6,13,2021-10-27
+301,2021-10-29 01:46:28+00:00,1453901014654849025,optimismFND,We've made a bunch of other extremely sick hires over the last couple months... but we'll have to save the full list for a blog post. Optimism has never been more Optimistic.,20,1,1,2021-10-29
+312,2021-11-02 20:29:33+00:00,1455633199179128837,optimismFND,Come watch @kelvinfichter show exactly how easy it is to deploy an app to OVM 2.0: https://t.co/5QEQbULyHX,61,2,16,2021-11-02
+316,2021-11-03 18:28:49+00:00,1455965203422715915,optimismFND,OVM 2.0 means you can deploy vyper contracts to Optimistic Ethereum. Go get your hand-drawn NFT. https://t.co/K7ccXmEv0q https://t.co/vdwPbkutMM,90,5,23,2021-11-03
+320,2021-11-04 21:08:46+00:00,1456367842421612550,optimismFND,You can also get a hand-drawn NFT for contributing. Join the OP contributors club today! https://t.co/GsfpM658vu https://t.co/vPEFpzfBwp,20,2,2,2021-11-04
+332,2021-11-08 18:03:36+00:00,1457770794759569415,optimismFND,"We've been getting increased reports of Optimism impersonators recently -- remember, ONLY the https://t.co/uzn6RbXs9H domain, people tagged as ""optimism-team"" on our Discord, and this twitter handle are trusted sources of truth for anything OP-related!",95,9,14,2021-11-08
+333,2021-11-10 18:02:35+00:00,1458495316164964355,optimismFND,"📣 REMINDER 📣
+OE's biggest upgrade in history is going down in 24 hours. Network will be back up within 6 hours, in all its sleek, glorious EVM Equivalence!",531,32,106,2021-11-10
+337,2021-11-11 18:00:51+00:00,1458857265637695490,optimismFND,STARTING OUR ENGINES: The EVM Equivalence upgrade has begun. Network will resume in 6 hours. You can check Discord for updates—see you on the other side! 🚀🚀🚀,448,32,68,2021-11-11
+338,2021-11-12 00:22:14+00:00,1458953246337241089,optimismFND,"Welcome to the world, EVM Equivalence!",151,7,17,2021-11-12
+345,2021-11-15 21:35:54+00:00,1460360938511601677,optimismFND,"🐷 O I N K E 🐷
+
+Great to see more projects going live with full EVM equivalence! https://t.co/TIuzasZTZL",119,8,18,2021-11-15
+347,2021-11-17 23:38:56+00:00,1461116674195787776,optimismFND,"... @krzkaczor @liamihorne @lightclients @notscottmoore @protolambda @ricmoo @techboiafrica @technocrypto @the_ethernaut @transmissions11 @trustlessstate @tyneslol @yoavw 
+
+THANK YOU!!!! Let's go round 2!",23,6,1,2021-11-17
+355,2021-11-19 21:03:50+00:00,1461802419524931595,optimismFND,"Today at 1:27 PM UTC, a rare race condition deadlocked the OE mainnet sequencer. As a result, transactions could temporarily only be submitted via L1. Our team investigated and deployed a temporary fix at 2:45 PM. We've identified a long-term fix and will be deploying it asap.",253,11,19,2021-11-19
+358,2021-11-23 22:34:36+00:00,1463274813066203139,optimismFND,@OptiPunk @gitcoin Awesome work!,30,2,0,2021-11-23
+361,2021-11-24 17:00:53+00:00,1463553220366721029,optimismFND,"🤫
+https://t.co/wQvJ0BBoZ9 https://t.co/wlcyoiiXQa",137,4,21,2021-11-24
+364,2021-12-01 19:07:43+00:00,1466121850468159489,optimismFND,It's easier to contribute to Optimistic Ethereum than ever before and we've got good first issues for everyone! We promise it'll be worth your time. https://t.co/yRbnrGBEgf,192,23,30,2021-12-01
+365,2021-12-08 22:45:59+00:00,1468713495961034757,optimismFND,Happening in 15 minutes! https://t.co/V80tFGBhXw,55,6,8,2021-12-08
+366,2021-12-09 23:15:47+00:00,1469083383384797189,optimismFND,"Speaking of NFTs, we have had a hot month! Dope Wars, Optimistic Loogies &amp; Optimistic Bunnies have all gone live.
+
+https://t.co/Fr0nwfN1QF
+https://t.co/hJQZBoofFy
+https://t.co/ChK7XOJroA",30,5,8,2021-12-09
+375,2021-12-10 20:07:15+00:00,1469398323354161153,optimismFND,Catch @kelvinfichter in NYC next week talking about L2s! https://t.co/X9JBOi7vaE,34,3,3,2021-12-10
+383,2021-12-11 00:47:32+00:00,1469468861917319171,optimismFND,Happening in 13 minutes! https://t.co/DvJqDiUWma,56,5,6,2021-12-11
+384,2021-12-13 17:53:06+00:00,1470451730085081089,optimismFND,Happening in 3 hours! https://t.co/9uaV8BmISh,245,8,35,2021-12-13
+385,2021-12-14 00:21:08+00:00,1470549379014529025,optimismFND,"Hi all--our upstream infrastructure providers are experiencing latency issues, but the Optimism sequencer is live. We've reached out and are monitoring the situation. We will update when we know more.",90,6,5,2021-12-14
+388,2021-12-16 22:47:12+00:00,1471612905665740809,optimismFND,https://t.co/sJKyfSxlTA,39,2,3,2021-12-16
+397,2021-12-17 23:26:12+00:00,1471985108747837442,optimismFND,"Going forward, we'll be referring to the network that we're building as Optimism. We're way too optimistic about the future of Ethereum and the world to be called anything else.
+
+To Optimism!",79,5,4,2021-12-17
+404,2021-12-21 22:18:09+00:00,1473417534770581506,optimismFND,"Optimism's first fiat on-ramp is live!
+
+You can now buy ETH directly on Optimism using credit card, debit card or bank transfer: https://t.co/Ltlc2i2WLb
+
+While this service isn't available for US customers, we're hard at work with others on alternatives for Americans. 😉 https://t.co/JNKACoPryQ",402,23,68,2021-12-21
+405,2021-12-22 16:18:54+00:00,1473689514249965581,optimismFND,"The first NFT marketplace on Optimism is live!
+
+@quixotic_io allows you to discover, buy, and sell your Optipunks, Optimistic Bunnies, and any other Optimism NFTs.
+
+Looks rare. 👀 https://t.co/P2DcocBeO7",281,19,69,2021-12-22
+406,2021-12-23 15:58:56+00:00,1474046877725171718,optimismFND,"The list of Optimism-native projects continues to grow!
+
+Welcome to the Layer 2 party @thalesmarket 🥳 https://t.co/M0UvTO2SoZ",130,11,16,2021-12-23
+409,2022-01-03 20:46:25+00:00,1478105489162399747,optimismFND,"gm
+
+Hope you all had the merriest of holidays! 
+
+Start the New Year off right with a bit of light reading on the future of Ethereum, memes, and why @web3mark chose Optimism as the home for their NFT marketplace @quixotic_io. 😏 https://t.co/GNNYzzTZVL",96,5,14,2022-01-03
+411,2022-01-04 00:02:49+00:00,1478154914807246848,optimismFND,"Another direct fiat to Layer 2 on-ramp has arrived. 🥳 
+
+Welcome @mtpelerin! https://t.co/tNsMOEvXzI",182,9,29,2022-01-04
+413,2022-01-06 21:45:12+00:00,1479207446983938051,optimismFND,Happening in 15 minutes! https://t.co/d46ujzyGXe,53,4,10,2022-01-06
+415,2022-01-07 00:01:27+00:00,1479241734781427714,optimismFND,"Whew that was a fun space! We talked about the Solar Punk aesthetic, #L222, potential NFT bridges, and the origin of the ""sup nerds"" meme among many other things.
+
+Thank you to everyone who joined, especially @web3mark and @quixotic_io!
+
+https://t.co/uAtIKXJM7l",64,6,11,2022-01-07
+417,2022-01-08 01:03:55+00:00,1479619845897392129,optimismFND,@OptimismMemes @protolambda @kevinjho_ Let's 🤝,4,0,2,2022-01-08
+419,2022-01-10 18:14:17+00:00,1480603921223585793,optimismFND,"🎖 Achievement Unlocked: referenced in @slatestarcodex!
+
+Like most good ideas, RPGF's core ideas were being discussed over a hundred years ago.
+
+Now, it's time to execute. 
+
+This rabbit hole has a light at the end.
+
+https://t.co/oitrtD38fb",61,6,9,2022-01-10
+421,2022-01-11 17:39:54+00:00,1480957654831099909,optimismFND,"Big if true (hint: it's true).
+
+0x API is a critical middleware protocol that enables value to flow freely in the token economy.
+
+We couldn't be more pleased to have this important DEX infrastructure on Optimism and we can't wait to see what gets built with it. https://t.co/m0jwWM9IUZ",196,3,19,2022-01-11
+424,2022-01-12 16:11:39+00:00,1481297832556445701,optimismFND,"In closing, we'd like to give our sincere thanks to @VitalikButerin and all the badge holders who participated. ❤️
+
+@annieYke
+@aparnalocked
+@austingriffith
+@ben_chain
+@brxckinridge
+@elena_gesheva
+@gregthegreek
+@jenny_pollack
+@karl_dot_tech
+@kelvinfichter
+@kevinjho_",32,1,0,2022-01-12
+433,2022-01-13 14:25:04+00:00,1481633399412457475,optimismFND,"Token sets are now live on Optimism thanks to @SetProtocol!
+
+More composable infrastructure legos, one deployment at a time.
+
+Ready, set, lfg! 🚀 https://t.co/nm35Gf0u9N",136,3,33,2022-01-13
+440,2022-01-15 05:04:45+00:00,1482217164983603201,optimismFND,@kelvinfichter Looks rare 👀,17,1,0,2022-01-15
+441,2022-01-17 20:53:05+00:00,1483180599225421827,optimismFND,@lyrafinance 💥🤝,29,1,1,2022-01-17
+444,2022-01-18 21:49:03+00:00,1483557069026258944,optimismFND,"Aelin is a deal coordination protocol with a 100% fair launch Optimism native token.
+
+For insight into how @aelinprotocol is disrupting traditional funding models check out this great post by @kaiynne: 
+
+https://t.co/3yn1hf1TK9 https://t.co/4bfBJ0lVzy https://t.co/BcWdoXIQHc",63,8,7,2022-01-18
+448,2022-01-19 18:00:01+00:00,1483861821706670080,optimismFND,"Great summary of the evolution from Web 1.0, to Web 2.0, to #Web3.
+
+From a hypermediated, top-down serfdom to a decentralized, bottom-up user-owned internet.
+
+The future is looking bright indeed. 
+
+#L222 might just segue right into #Web323. https://t.co/TITbwbXRC4 https://t.co/XZmUUGAk1l",75,1,10,2022-01-19
+462,2022-01-20 20:37:53+00:00,1484263936992051200,optimismFND,"Have the know-how and experience to market and grow an early stage tech startup?
+
+Apply to be our Marketing Lead:
+
+https://t.co/RerJkLQY3B",9,1,2,2022-01-20
+471,2022-01-21 16:32:07+00:00,1484564476430979072,optimismFND,"And DeFi legos like @SetProtocol. 🧱
+
+https://t.co/MnL4vSL1Dm",9,1,1,2022-01-21
+493,2022-01-24 22:28:22+00:00,1485741294064320512,optimismFND,"Our very own @annieYke will be co-hosting a fireside chat with @AlchemyPlatform tomorrow!
+
+So set a reminder and prep your hot cocoa because this promises to be a very cozy and educational Space--not to mention a great chance to get to know one of the Optimists behind Optimism❣️ https://t.co/rfBhYxiJHE",33,0,3,2022-01-24
+497,2022-01-25 01:27:13+00:00,1485786301005631489,optimismFND,"Transactions ⬆️
+Savings ⬆️
+
+Get you a chain that can do both. 😏 https://t.co/U0yRlV3Vpx",198,9,29,2022-01-25
+501,2022-01-26 19:11:42+00:00,1486416575464759296,optimismFND,"PSA if you run a node–we recently caught a potential locking bug in our software. Funds were never at risk and a fix has already been rolled out to major infra providers, but if you are running a node, please be sure to upgrade l2geth to version 0.5.8 ASAP!",69,3,12,2022-01-26
+506,2022-01-27 17:50:02+00:00,1486758410976514052,optimismFND,Live in 10! https://t.co/umlgcprQBw,13,4,1,2022-01-27
+509,2022-01-28 18:27:20+00:00,1487130186386526208,optimismFND,"✅ High throughput, low-cost network 🔴
+✅ Fast, trustless bridging 🌉
+
+@ConnextNetwork 🤝 @optimismPBC https://t.co/21Fk5LlZki",75,3,14,2022-01-28
+511,2022-01-31 16:49:28+00:00,1488192718450806787,optimismFND,"If you're wondering where to jump in, we recommend the 'How Optimism Works' page. It's a beautifully written, detailed, yet accessible overview of how Optimism works (if we may say so ourselves 😉).
+
+https://t.co/Lv7B9CsRlu",9,1,3,2022-01-31
+526,2022-02-03 17:51:42+00:00,1489295543620698112,optimismFND,Happy belated #L2 2/2/22! 🥳 https://t.co/Keu4kICB97,195,13,14,2022-02-03
+529,2022-02-04 16:11:50+00:00,1489632800365957122,optimismFND,"Everyone should be able to tap into the cooperative power of DAOs, whether or not they can code. 
+
+Good thing Optimism has its first DAO builder in the form of @xdaoapp!
+
+Can't wait to see what you make with this.
+
+Good luck, and good building! 🏗 https://t.co/3QvRBeshI9",66,4,15,2022-02-04
+530,2022-02-05 16:29:48+00:00,1489999709867442178,optimismFND,¿que tal nerdos?,143,27,8,2022-02-05
+533,2022-02-07 15:25:23+00:00,1490708274429120513,optimismFND,"Imagine paying Layer 1 fees on top of a non-aggregated swap.
+
+Couldn't be me... https://t.co/aD1x5wq3YZ",61,4,5,2022-02-07
+536,2022-02-09 20:56:44+00:00,1491516436375764994,optimismFND,@voronkovio Indeed it is! You can use this form: https://t.co/OSvBhXsCik,1,0,0,2022-02-09
+537,2022-02-10 17:10:52+00:00,1491821983796895747,optimismFND,"Last week we patched a critical bug in the Optimism codebase, discovered by @saurik. Here’s our official disclosure and some of the lessons we learned.
+https://t.co/9DbR8QBYyw",257,6,51,2022-02-10
+540,2022-02-11 14:45:04+00:00,1492147679840800771,optimismFND,For the culture. 👊😎 https://t.co/KjnFrFFdIj,100,7,23,2022-02-11
+542,2022-02-14 22:58:32+00:00,1493359027920637952,optimismFND,"To sign up for the mailing list and receive notifications via email, join the Google group at https://t.co/q9uf7NQser.",13,1,2,2022-02-14
+546,2022-02-15 22:16:17+00:00,1493710784802742273,optimismFND,"After over a year of Mainnet, we’re progressing past creation phase and focusing on OPtimizing the network. The road to sub-dollar rollup transactions begins!
+
+Learn more about our most recent fee reduction and how fees on L2 work in general:
+
+https://t.co/flmQrfsekW",154,9,33,2022-02-15
+547,2022-02-16 18:54:31+00:00,1494022394561937419,optimismFND,"ICYMI: a certain on-chain charting dashboard is live on Optimism. 
+
+wow 👀
+
+such charts 📈
+
+many data 🔢 https://t.co/z6dNzfiPIR",61,3,7,2022-02-16
+548,2022-02-17 01:00:00+00:00,1494114373463203841,optimismFND,If you're not securing your on-chain derivatives trading token through a decentralized fundraising platform are you even trying to make it? https://t.co/HNUmKjpJJM,69,1,18,2022-02-17
+550,2022-02-19 21:00:00+00:00,1495141139267166216,optimismFND,"🚨 #ETHDenver devs 🚨
+
+You won’t want to miss this panel with @kelvinfichter on the rollup developer experience.
+
+📆 Date/Time: Saturday, Feb. 19 - 3PM MST 
+📍 Place: Sports Castle Infinity Stage
+
+https://t.co/GA09juEkfg",25,6,2,2022-02-19
+552,2022-02-20 23:39:08+00:00,1495543575404158976,optimismFND,Denver devs have been busy. 👀👀👀 https://t.co/pLqiHS3Hia,74,8,7,2022-02-20
+553,2022-02-22 21:50:56+00:00,1496241118077505536,optimismFND,"Since it's #L222222, we pushed out an update to make timestamps on optimism accurate to within less than 22 seconds (15 to be exact). Get your reliable timestamps on L2! https://t.co/FVP92RlVNB",94,3,11,2022-02-22
+555,2022-02-23 18:52:40+00:00,1496558647215890434,optimismFND,@epolynya Hopefully not 👀👀👀,17,0,1,2022-02-23
+556,2022-02-24 17:42:30+00:00,1496903376243773445,optimismFND,Tune in to hear our very own @karl_dot_tech on public goods and regenerative funding! https://t.co/OMUjDMPFWC,44,1,12,2022-02-24
+558,2022-03-01 15:37:25+00:00,1498683834765918210,optimismFND,"What has it been like running the most used dApp on Optimism?
+
+Find out tomorrow during this Twitter Space co-hosted by @ben_chain of @optimismPBC and @tempofeng of @perpprotocol.
+
+⏰ Date/Time: Wednesday, March 2nd - 1400 UTC
+
+See you there! 🔴💜✨ https://t.co/r0qUBGoahI",126,7,25,2022-03-01
+559,2022-03-02 13:30:44+00:00,1499014344591376384,optimismFND,Happening in 30 minutes! https://t.co/6Zbd0gDXAN,51,5,7,2022-03-02
+562,2022-03-03 16:51:59+00:00,1499427375708184580,optimismFND,"Optimism will soon be the first ORU to deploy system-wide calldata compression, reducing fees by up to 40%! 🪄🏷
+
+Find out when and how in the latest Road to Sub-dollar Transactions, Compression Edition. ✨
+
+https://t.co/T7ZzzrmA2K https://t.co/b1bjFcIc2S",281,11,74,2022-03-03
+566,2022-03-04 19:34:27+00:00,1499830650165157894,optimismFND,"The property of blob data is that it:
+- Does not need to be stored by L1 nodes as long as normal block data
+- Is not directly accessible in the EVM",15,1,1,2022-03-04
+590,2022-03-05 19:00:00+00:00,1500184370946084864,optimismFND,"The one, the only, the indefatigable and indomitable @karl_dot_tech is going to be on a panel discussing Public Goods in #Web3 tomorrow for @web3con.
+
+If you’ve ever heard Karl speak before, you know it is not something you want to miss!
+
+📆: Sunday, 3/6 - 1400 EST",41,3,6,2022-03-05
+591,2022-03-08 22:00:57+00:00,1501317071199637511,optimismFND,"As Prometheus brought us the gift of fire, so Zeus brings protocol-owned liquidity. 🔴🤝🏛 https://t.co/OyByWojoGE",69,2,9,2022-03-08
+593,2022-03-09 00:43:56+00:00,1501358088716054532,optimismFND,"It just got that much easier to launch your NFT project on Optimism. 🔴
+
+Well done @quixotic_io ✨ https://t.co/M6TgxxUx8N",56,2,11,2022-03-09
+601,2022-03-10 20:46:16+00:00,1502023052577873922,optimismFND,"Missed this master class on Layer 2's this morning?
+
+No worries, the recording is available for your listening pleasure.
+
+Well done @ben_chain and everyone else who attended!
+
+And thank you so much @madhavanmalolan for hosting! https://t.co/PBMICw1hzK",42,0,6,2022-03-10
+606,2022-03-11 16:58:02+00:00,1502328004579495939,optimismFND,"In the meantime, there are low-cost, highly secure, EVM equivalent L2's that exist right now, not in some faraway future.
+
+We're currently deep in the developmental heart of Optimism: Bedrock--setting the foundation for the protocol.",23,1,1,2022-03-11
+617,2022-03-12 19:22:06+00:00,1502726646679232514,optimismFND,"Set a reminder gang. ⏰
+This is gonna be dope! 😎 https://t.co/yfLavrVIHO",56,4,14,2022-03-12
+618,2022-03-14 14:42:21+00:00,1503381020921372674,optimismFND,Coming soon to a low-cost and lightning-fast Ethereum L2 blockchain near you. 🔴⚡️ https://t.co/cFPd7jU66w,58,1,12,2022-03-14
+621,2022-03-15 21:48:31+00:00,1503850657391910912,optimismFND,👀👀👀 @HuobiGlobal https://t.co/K3gwtqNno7,331,18,52,2022-03-15
+624,2022-03-16 19:04:35+00:00,1504171788384698368,optimismFND,"The dope boys (and girls) are officially in the building!
+
+Tune in now: https://t.co/5MfNCuzIWu",26,0,6,2022-03-16
+627,2022-03-17 16:25:24+00:00,1504494116377292802,optimismFND,"Optimism CEO and Optimist Prime @jinglejamOP spoke with @TechCrunch about our momentum and fundraise: 
+
+https://t.co/Rn4n7UVU5J",36,1,4,2022-03-17
+637,2022-03-21 14:01:30+00:00,1505907455817039873,optimismFND,"🚨🚨 Alert: OPtimizations Incoming 🚨🚨
+
+Calldata compression will go live on mainnet this Thursday.
+
+Reminder: before then, upgrade your DTL to at least version 0.5.20 if you're syncing from L1!",356,9,62,2022-03-21
+640,2022-03-22 14:17:12+00:00,1506273795794821122,optimismFND,"Funding protocol development is key to a sustainable future for Ethereum. We as a community must fix broken incentives.
+
+All profits on OP are put towards RPGF. Our last million-dollar round included allocations for the geth and Erigon teams, among others: https://t.co/Tmoupki9Zf",93,1,10,2022-03-22
+641,2022-03-23 16:35:39+00:00,1506671024053506050,optimismFND,@perpprotocol Perpetual Optimism never looked so good 🤩,12,0,0,2022-03-23
+644,2022-03-24 19:32:22+00:00,1507077885986811909,optimismFND,First compressed mainnet transaction: https://t.co/TD27wh3jwK,95,3,7,2022-03-24
+650,2022-03-25 14:13:42+00:00,1507360077425958912,optimismFND,"Reminder: cannon bounty is live!
+
+1. Break our fault proofs
+2. Get clout for hacking @realGeorgeHotz 
+3. ???
+4. Profit ($50k)
+
+https://t.co/0zi7Vi2Iu7 https://t.co/BDW3nA57hM",44,0,8,2022-03-25
+652,2022-03-28 21:00:00+00:00,1508549489635872770,optimismFND,We like the Squibz. https://t.co/4glTMxCQG8,44,1,10,2022-03-28
+653,2022-03-29 14:58:01+00:00,1508820780636786697,optimismFND,"You break it, we buy it. 
+
+There's still a chance to claim $50k hacking Cannon, our next-gen fault proof, through our bug bounty with @immunefi.
+
+Come quiz @norswap about it today at 5PM UTC in the Immunefi Discord. 
+
+Cannon bounty:
+https://t.co/0zi7Vi2Iu7 https://t.co/De1WvP9zzK",31,1,10,2022-03-29
+655,2022-03-30 01:13:16+00:00,1508975612811042822,optimismFND,"Only one more sleep until Optimism office hours. 🔴✨🥰
+
+Get an OPtimistic start to your day by joining @kelvinfichter and @Vonnie610 tomorrow (and every other Wednesday) at 2PM UTC to discuss all things Optimism.
+
+See you there!
+
+Discord link:
+https://t.co/vrXyqmFaiN",42,3,10,2022-03-30
+659,2022-03-31 23:25:28+00:00,1509673259825983488,optimismFND,@perpprotocol 🏎️🏁🤜🤛,5,0,0,2022-03-31
+667,2022-04-01 22:11:00+00:00,1510016908497674247,optimismFND,@WHITEMAN_YOLO @loopringorg https://t.co/kQcEZlp2rc,6,1,1,2022-04-01
+675,2022-04-04 12:54:55+00:00,1510964127518408708,optimismFND,gud morning,255,49,18,2022-04-04
+680,2022-04-05 17:50:06+00:00,1511400804262957057,optimismFND,"Learn about some of the amazing dApps on Optimism tomorrow during our first Demo Day! 🔴✨🏗🎙 
+
+⏰ Date/Time: April 6, 2PM UTC
+📍 Location: Optimism Discord (demo-day channel)
+
+https://t.co/vrXyqmFaiN
+
+Presenters: @kwenta_io @PolynomialFi @thalesmarket @heavenprotocol",114,10,28,2022-04-05
+685,2022-04-06 17:54:03+00:00,1511764185406791690,optimismFND,@quixotic_io @DappRadar 👀👀👀,10,0,0,2022-04-06
+688,2022-04-07 04:22:49+00:00,1511922418033442817,optimismFND,"⚠️ false alarm ⚠️: honor of ""👑 First to Crack @realGeorgeHotz 👑"" is yet unclaimed
+
+George admitted the exploit was clever, but reminded us he inb4'ed this one back in september:
+
+ https://t.co/KfcGCesoPc https://t.co/3H1L8m7Qrj",39,3,9,2022-04-07
+690,2022-04-08 00:34:58+00:00,1512227467469107201,optimismFND,@synthetix_io @iearnfinance You're darn right that's right!,21,1,3,2022-04-08
+692,2022-04-09 00:00:06+00:00,1512581081823789058,optimismFND,"If you're cold, they're cold. Bring them inside! https://t.co/mlS2ldDl74",113,9,17,2022-04-09
+694,2022-04-11 14:00:00+00:00,1513517225298341888,optimismFND,"Human beings' ability to coordinate is one of our greatest strengths.
+
+Together, anything is possible. ✨",132,7,19,2022-04-11
+697,2022-04-12 14:26:21+00:00,1513886243746160644,optimismFND,"Hallo! Let's connect at Devconnect! 
+
+Come check out our talks at L2 Amsterdam, hack with us at ETHAmsterdam, learn about the latest in on-chain gaming at D.E.F. CON, or tell us about your latest project over a stroopwafel. 😋
+
+https://t.co/oFcpEo72Xn",67,0,13,2022-04-12
+698,2022-04-13 19:31:43+00:00,1514325479955714048,optimismFND,@FUCORY @norswap Nice,6,0,0,2022-04-13
+701,2022-04-14 13:30:41+00:00,1514597009319243782,optimismFND,Join our very own @kelvinfichter in the @Clipper_DEX Discord for this DEX discussion. Starts in 30 minutes! https://t.co/ByK9628YVr,31,4,6,2022-04-14
+706,2022-04-15 14:02:11+00:00,1514967324419235842,optimismFND,@synthetix_io @kwenta_io @lyrafinance @PolynomialFi @dHedgeOrg Protocols together strong! 💪,43,1,3,2022-04-15
+707,2022-04-16 14:56:57+00:00,1515343494654701572,optimismFND,bd (buenos días),152,26,11,2022-04-16
+708,2022-04-17 14:29:45+00:00,1515699035629359104,optimismFND,New fiat on-ramp who dis? 🛣️ https://t.co/qjwKnzDpP9,186,4,33,2022-04-17
+709,2022-04-18 18:30:02+00:00,1516121894583476231,optimismFND,Going live in a half hour! https://t.co/GwGED24qlU,73,3,11,2022-04-18
+711,2022-04-19 15:32:10+00:00,1516439522338213892,optimismFND,"In December, Optimism was finally ready to open deployment up for all.
+
+https://t.co/oXlXjS1V8R
+
+We’ve seen phenomenal growth since then, and it’s only set to continue.",47,1,1,2022-04-19
+725,2022-04-20 20:57:28+00:00,1516883773035401216,optimismFND,Synapses sparked. 🧠⚡️ https://t.co/g4i4oMEV2T,204,6,22,2022-04-20
+732,2022-04-21 12:26:04+00:00,1517117464588521472,optimismFND,"See you all tonight!
+
+reminder: this is an 18+ event, so if you are a Solidity optimizer you probably can't get in https://t.co/d3YiTjm1wg",364,26,17,2022-04-21
+737,2022-04-22 16:58:35+00:00,1517548432470257665,optimismFND,"You can also deposit from CEXs Binance, Coinbase, FTX, FTXUS, Kucoin, &amp; Huobi using @layerswap.
+
+Or go from payment card to crypto using either @BanxaOfficial or @transak_. 👀
+
+But don't take our word for it!
+
+Give it a try yourself at https://t.co/Y334aBpBTP",159,8,19,2022-04-22
+741,2022-04-24 15:12:23+00:00,1518246481609863168,optimismFND,@TrustlessState &lt;---- EVM equivalent network,109,7,8,2022-04-24
+742,2022-04-25 15:44:47+00:00,1518617022782853120,optimismFND,"Tomorrow we'll be joining @BanklessHQ for an episode of State of the Nation.
+
+Afterwards we'll be holding a special Community AMA twitter space.
+
+Set a reminder for this one--you do NOT want to miss it. 🔴✨
+
+⏰: 4/26 8PM UTC
+ https://t.co/ECWXJXb5jJ",693,54,116,2022-04-25
+743,2022-04-26 17:13:02+00:00,1519001621535019008,optimismFND,"Over the past 2 years, Liam has been key to leveling up the PBC’s culture of excellence and we’re incredibly excited to have him at the helm of OP Labs.
+
+OP Labs will be focused on building and decentralizing the protocol as well as product and business development.",203,2,14,2022-04-26
+772,2022-04-27 14:31:49+00:00,1519323436102963200,optimismFND,@Iiterature @MSilb7 🪞 + 🔴 = making history,38,2,3,2022-04-27
+775,2022-04-28 20:00:12+00:00,1519768463564316678,optimismFND,"(4/28): We’ve updated the eligibility table in this thread for clarity.
+
+Full eligibility criteria are available at: https://t.co/S7BXfgTdKr
+
+The best way to see you if you qualify for Airdrop #1 is to use the address checker:
+https://t.co/LOyiLEqnVz https://t.co/1BE3tpmNKW",223,38,57,2022-04-28
+777,2022-04-29 18:39:58+00:00,1520110659886845953,optimismFND,"AI-powered swaps, OPtimized. 🤖🔴✨ https://t.co/P5k0ZzCcVK",465,49,126,2022-04-29
+778,2022-05-02 22:33:45+00:00,1521256656537112578,optimismFND,"imagine paying L1 gas fees to mint an NFT...couldn't be me
+
+@strangechances discusses @viamirror's recent move to Optimism: https://t.co/RFFVHbWJtZ",388,183,48,2022-05-02
+782,2022-05-03 19:47:18+00:00,1521577156110917632,optimismFND,"Read the blog post for full details on OP Stimpack:
+
+https://t.co/Qc7hwO9IbP
+
+See you on the internet frontier, nerds! 
+
+Until next time, stay Optimistic! 🔴✨",230,4,25,2022-05-03
+793,2022-05-04 14:54:40+00:00,1521865900944769027,optimismFND,the aggregatoooooor https://t.co/QHnpIB55DX,372,16,36,2022-05-04
+794,2022-05-05 01:13:45+00:00,1522021700484976647,optimismFND,"@0xPegasusFi sorry, only understand units in PegaPals 🦄✨",27,1,2,2022-05-05
+796,2022-05-06 15:39:56+00:00,1522602069835796480,optimismFND,@quixotic_io @DragoniaGG 👀🐉✨,55,4,7,2022-05-06
+799,2022-05-09 13:54:41+00:00,1523662743685185536,optimismFND,"why choose Optimism for your next NFT project?
+how will NFTs be used for the Citizens' House?
+wen L2 NFT szn? 🤔
+
+These questions and more will be discussed tomorrow during this NFT-focused Space! https://t.co/CQMNzK0LJ6",300,25,49,2022-05-09
+801,2022-05-10 22:30:36+00:00,1524154968806244353,optimismFND,"Tomorrow we're hosting a space with @PolynomialFi to discuss all things options on Optimism. Discussion will be led by our very own @0xStoleme.
+
+See you there!
+
+⏰: May 11th - 3PM UTC
+ https://t.co/KeQtK9epNT",165,9,21,2022-05-10
+808,2022-05-11 15:08:18+00:00,1524406047745662981,optimismFND,we're live! come and listen...or don't. the 'OPtion' is yours 😉 https://t.co/thBZp3VDo3,234,13,33,2022-05-11
+811,2022-05-12 15:21:32+00:00,1524771766765342724,optimismFND,"this on-chain parimutuel market allows you to bet on pretty much anything. it's built on @thalesmarket contracts and powered by your favorite low-cost and lightning-fast Ethereum L2 🔴✨
+
+looks exotic 👀 https://t.co/jF8oniRBYA",218,9,42,2022-05-12
+813,2022-05-13 20:38:25+00:00,1525213897870958595,optimismFND,"Have you used Warp Speed on the Optimism Bridge? ☄️
+
+This incredible initiative was wrangled together by none other than former Facebooker turned Optimism Product Manager @zainbacchus! We're so glad to have his talents here at @oplabspbc.
+
+You da mayne Zain!",140,3,9,2022-05-13
+825,2022-05-16 16:46:02+00:00,1526242581574737922,optimismFND,"ICYMI: @SushiSwap deployed to Optimism last week. 🍱🍣🥳
+
+@sarangparikh22 on the launch:
+
+”Our deployment experience has been flawless. It’s actually better than half the centralized apps I’ve used...it’s like this Utopian experience.” ❤️
+
+https://t.co/dMKavpkF3J",293,15,43,2022-05-16
+826,2022-05-17 20:03:31+00:00,1526654670327930882,optimismFND,"*and, dang it intern!",134,13,13,2022-05-17
+840,2022-05-19 17:23:24+00:00,1527339150797525014,optimismFND,"Bedrock will be a fully transparent upgrade, meaning users and developers won't have to make any changes. All of your transactions and data will remain available on Optimism (no regenesis!).",68,1,2,2022-05-19
+859,2022-05-23 17:35:28+00:00,1528791738827132930,optimismFND,L1 me vs L2 me (fiat on-ramp edition) https://t.co/eARD5JWB2V https://t.co/crGH3sZlqA,699,42,107,2022-05-23
+865,2022-05-24 19:01:46+00:00,1529175842185682951,optimismFND,👨‍🚀🔴✨ https://t.co/1fadwyjOOg,407,10,56,2022-05-24
+866,2022-05-25 19:14:56+00:00,1529541546697232385,optimismFND,@viamirror nice https://t.co/jqkJdpvQPe,181,23,9,2022-05-25
+869,2022-05-27 16:00:42+00:00,1530217441929809920,optimismFND,"Friendly reminder that if you are eligible for Airdrop #1 you will need some ETH on Optimism to pay for gas when you claim.
+
+Good thing we have one of the fastest AND most affordable bridges in the industry.
+
+Might be a good time to give it a try. 👀 https://t.co/fAa2POoLwO https://t.co/wXI5YJFLig",1696,208,387,2022-05-27
+872,2022-05-28 18:19:59+00:00,1530614878494261248,optimismFND,wouldn't be an #OPSummer without a road trip 🚗✨ https://t.co/ZMJFUQE4Iv,998,103,160,2022-05-28
+873,2022-05-30 02:03:26+00:00,1531093900533698560,optimismFND,@beethoven_x @balancer https://t.co/LhBizQA7OT,253,20,22,2022-05-30
+874,2022-05-31 21:45:09+00:00,1531753676448026625,optimismFND,Missed out on Drop #1? Don't worry--we're approaching distribution of OP the same way we are governance: iteratively. There will be more drops that support meaningful engagement with projects in the ecosystem.,449,24,54,2022-05-31
+892,2022-06-01 21:22:15+00:00,1532110299624529921,optimismFND,"We hit a couple of major high-water marks yesterday. In terms of transaction count:
+
+Our hourly rate peaked at 12 TPS, averaging about 10 TPS—matching Ethereum itself, while consuming less than 5% of its gas.
+
+We even spiked to over 22 TPS for a bit!
+
+Ethereum is scaling 🌱 https://t.co/g4KbRzsfhB",243,11,25,2022-06-01
+909,2022-06-02 15:07:06+00:00,1532378279444992000,optimismFND,"welcome @beethoven_x and @Balancer to Optimism! 
+ 
+now that's music to one's ears! 🎵🔴✨ https://t.co/IjEiIDBie8",814,45,133,2022-06-02
+912,2022-06-03 23:22:38+00:00,1532865373581606913,optimismFND,it's easier than ever to hop over to Optimism 🦘✨ https://t.co/egrlBrhaPF,927,70,194,2022-06-03
+913,2022-06-04 16:36:19+00:00,1533125507776032769,optimismFND,calling all creators ✨ https://t.co/559rrW4yrb,599,63,96,2022-06-04
+914,2022-06-05 19:14:01+00:00,1533527581944729600,optimismFND,@OpenOceanGlobal 👀👀👀,155,9,12,2022-06-05
+915,2022-06-06 22:48:06+00:00,1533943843321745408,optimismFND,"Thanks for reading and, as always, stay Optimistic! 🔴✨",351,50,28,2022-06-06
+939,2022-06-07 15:19:43+00:00,1534193391139012608,optimismFND,"ICYMI: yesterday we published a full retrospective on Drop Day, including key lessons learned:
+
+https://t.co/fynbcfmEIl
+
+Thanks again to @AlchemyPlatform for spinning up extra nodes for us on the fly! A friend in need is a friend indeed. 🥰
+
+https://t.co/IADxpF94QQ",300,25,41,2022-06-07
+941,2022-06-08 20:21:42+00:00,1534631776018120704,optimismFND,"In principle, a network upgrade could be carried out to halt the movement of those OP tokens which have not already been transferred or sold.
+
+We will not take this step at this time due to the precedent it would set. Optimism is a permissionless network and behaved as intended.",190,25,9,2022-06-08
+953,2022-06-10 14:58:17+00:00,1535275162060341248,optimismFND,"Hey folks—in the interest of transparency (😉,😅), the address has returned a majority of the OP, and @wintermute_t has committed to reimbursing the Optimism Foundation for the remaining 2mm OP, which was kept as a bounty.
+
+https://t.co/jtElgPdNPk",980,116,158,2022-06-10
+956,2022-06-14 18:00:47+00:00,1536770640853798912,optimismFND,"Twitter Space alert! 🛰
+
+Come and join the fine folks from @VelodromeFi and @OPLabsPBC's very own @norswap for a very interesting discussion on the promising vision and mechanics behind these two projects. 🔴🤝🚴
+
+⏰: Wednesday, June 15 - 4PM UTC
+
+Link: 
+https://t.co/T9S1rreFBm",269,23,44,2022-06-14
+957,2022-06-15 18:50:13+00:00,1537145468739899399,optimismFND,"no grain, no gain https://t.co/cLqbfPYOaG",320,19,55,2022-06-15
+959,2022-06-16 18:50:13+00:00,1537507858362802178,optimismFND,"Having a diverse set of infrastructure providers is key to network decentralization, reliability, and robustness. Welcome @ankr! https://t.co/8TCeACQkGP",249,13,25,2022-06-16
+962,2022-06-17 14:27:48+00:00,1537804205595021312,optimismFND,dragon training season ✨ https://t.co/nvSnOoEmoR,255,28,45,2022-06-17
+963,2022-06-22 14:50:21+00:00,1539621821690937344,optimismFND,@galleondao @SetProtocol @perpprotocol 👀👀👀,27,1,1,2022-06-22
+965,2022-06-23 21:36:25+00:00,1540086400116297731,optimismFND,"To re-cap:
+
+Step 1. Build
+Step 2. ?
+Step 3. PROFIT
+
+We've even put together a list of projects we'd love to see built on Optimism to help get those creative juices flowing:
+
+https://t.co/MJSMdNGC68",63,10,12,2022-06-23
+974,2022-06-24 16:06:57+00:00,1540365873663250432,optimismFND,@beefyfinance 🐮🔴✨,172,12,15,2022-06-24
+975,2022-06-27 15:44:28+00:00,1541447380448563204,optimismFND,@beefyfinance nm just beefing up yield OPportunities ;),119,4,5,2022-06-27
+976,2022-06-28 19:46:33+00:00,1541870689157652481,optimismFND,congrats on the upgrade @lyrafinance! 🥂 https://t.co/Ytc4ld0BGi,208,4,30,2022-06-28
+984,2022-06-29 03:40:30+00:00,1541989964572942337,optimismFND,"Quick correction: an earlier tweet incorrectly stated that the prize money for the Most Absurd Hack was being reallocated towards a future event. Prize money for the Most Absurd Hack was moved into the pool for ""Just Use Optimism"", the total $20k prize amount remained the same.",95,4,15,2022-06-29
+987,2022-06-30 19:33:04+00:00,1542592070673653763,optimismFND,"We know migrating to a new network takes time and effort, and we appreciate our community taking the steps to provide a stable testnet!
+
+If you have any questions about the process please reach out to us on our Discord:
+
+https://t.co/uaKMDtlpl0",49,4,10,2022-06-30
+991,2022-07-01 17:55:08+00:00,1542929813056303105,optimismFND,yet another bridge added to the mix. welcome @biconomy! https://t.co/2thiPcbzsG,231,11,51,2022-07-01
+994,2022-07-05 14:48:59+00:00,1544332519268528128,optimismFND,@GranaryFinance 🌾🤝🔴,31,0,2,2022-07-05
+997,2022-07-07 13:16:37+00:00,1545034050955399170,optimismFND,@beefyfinance https://t.co/7Qhv4lzquP,60,3,10,2022-07-07
+998,2022-07-08 15:45:27+00:00,1545433893653938178,optimismFND,@PoolTogether_ nice,7,1,0,2022-07-08
+1000,2022-07-11 14:18:39+00:00,1546499210870067201,optimismFND,@synthetix_io @Uniswap 👀,49,3,1,2022-07-11
+1001,2022-07-14 17:15:46+00:00,1547630947918499848,optimismFND,@_N8DOGE_ @kelvinfichter I hope we make it to the travelers next year,1,0,0,2022-07-14
+1011,2022-07-15 18:05:13+00:00,1548005781097705478,optimismFND,"Update: Optimism Goerli now has a feature-full block explorer in the form of @blockscoutcom. 🧱🔭✨
+
+https://t.co/UzgZSxDOxH https://t.co/sW4DADc2vT",107,7,9,2022-07-15
+1016,2022-07-18 14:02:42+00:00,1549031913335439360,optimismFND,@rubicondefi https://t.co/DoBUKdX0JP,36,0,2,2022-07-18
+1022,2022-07-19 14:10:22+00:00,1549396232975650818,optimismFND,salut les nerds 🫡,674,72,48,2022-07-19
+1024,2022-07-20 21:58:46+00:00,1549876494549356545,optimismFND,Can't ban the whole collective https://t.co/3zrlp8wP5u,638,40,81,2022-07-20
+1028,2022-07-21 15:37:41+00:00,1550142979284803587,optimismFND,"🔴🔴🔴🔴🔴
+🔴🔴🔴🔴🔴
+🔴🔴🔴🔴🔴
+🔴🔴🔴🔴🔴 https://t.co/1c0No89r15",154,3,17,2022-07-21
+1032,2022-07-22 14:20:37+00:00,1550485974999859201,optimismFND,@timncox @thekriskay @PoolTogether_ @JunoFinanceHQ let's go!,13,0,1,2022-07-22
+1038,2022-07-26 18:32:38+00:00,1551998947329052672,optimismFND,"@quixotic_io everybody, everybody
+let's get into it, get stupid 🎶",27,3,3,2022-07-26
+1047,2022-07-27 17:53:06+00:00,1552351386028965889,optimismFND,for the Optimistic Explorers out there ✨ https://t.co/hK0lBOibY0,364,25,80,2022-07-27
+1049,2022-07-28 19:41:59+00:00,1552741175739686912,optimismFND,"We had such a great time vibing with the wonderful Ethereum community in Paris last week at @EthCC. 
+
+If you weren't able to make it to Paris don’t worry—we've written a recap of everything OP in Paris to catch you up to speed:
+
+https://t.co/IkV7QZdAce",368,30,56,2022-07-28
+1050,2022-07-29 19:40:01+00:00,1553103069805682690,optimismFND,"And that rounds out this week's roundup.
+
+Have a great weekend and if you’re feeling adventurous try exploring the city of Optimism:
+
+https://t.co/7HPIHqXIcL
+
+P.S. try filtering projects by ""OP Summer Incentives"" 😉",262,5,66,2022-07-29
+1062,2022-08-02 18:04:04+00:00,1554528472227266560,optimismFND,"We will also be hosting a Twitter Space dedicated to Bedrock next Monday, August 8th at 4:30 PM UTC (12:30 PM ET).
+
+@kevinjho_ @annieYke @trianglesphere and @protolambda will be on deck to walk you through the major changes and answer any questions you might have.",157,19,46,2022-08-02
+1075,2022-08-03 17:43:11+00:00,1554885606609764352,optimismFND,@wepiggydotcom https://t.co/M57km76jeL,16,1,2,2022-08-03
+1079,2022-08-04 16:51:47+00:00,1555235060579794945,optimismFND,"hAave you heard about the newest addition to OP Summer?
+
+https://t.co/4DVRiXQQp9 https://t.co/rgPFN9RW6R",234,13,29,2022-08-04
+1082,2022-08-05 19:35:45+00:00,1555638709369929736,optimismFND,@Iinux sup,59,4,3,2022-08-05
+1092,2022-08-08 13:44:30+00:00,1556637478701764609,optimismFND,"✨📣🔴 Bedrock AMA Today 🔴📣✨
+
+Join @annieYke @kevinjho_ @trianglesphere &amp; @protolambda today at 4:30 PM UTC (12:30 PM ET) for a special Twitter Space devoted to Optimism Bedrock. 
+
+Set a reminder so you don't miss it: https://t.co/IkP4lMA9uR",234,50,44,2022-08-08
+1095,2022-08-10 19:34:41+00:00,1557450380262289413,optimismFND,"Understanding how rollups work can be a daunting task. Luckily, @OPLabsPBC's @ori_pomerantz is here to explain Optimism in the simplest of terms.
+
+https://t.co/qA8FNlQ9Mg",315,45,66,2022-08-10
+1098,2022-08-11 20:32:24+00:00,1557827294244134913,optimismFND,@PolynomialFi @lyrafinance @synthetix_io ✨✨✨✨✨✨,40,3,2,2022-08-11
+1099,2022-08-12 18:07:25+00:00,1558153195326541825,optimismFND,"And that sums up the major happenings this week at Optimism. 
+
+Enjoy your weekend, and don't forget to check out these previous weekly recaps as well!
+
+https://t.co/AE0vcorCY1
+
+https://t.co/OY6tVeDAAg",62,4,12,2022-08-12
+1109,2022-08-15 17:22:47+00:00,1559229127231606784,optimismFND,@SlingshotCrypto @layer3xyz https://t.co/aNAYKhEMeY,47,3,1,2022-08-15
+1110,2022-08-16 13:58:09+00:00,1559540016526663682,optimismFND,🔴🐲🪄✨ https://t.co/BidqyN2MNv,162,14,29,2022-08-16
+1112,2022-08-17 22:39:59+00:00,1560033726532182018,optimismFND,"To further clarify: this was not a token unlock or a change in the circulating supply--just the first L2 supported by @coinbase custody. 😍
+
+Apologies for not communicating about this transfer beforehand.",197,13,16,2022-08-17
+1117,2022-08-18 13:58:13+00:00,1560264810347909121,optimismFND,https://t.co/mwgTmsVkjl,114,26,28,2022-08-18
+1121,2022-08-19 18:47:08+00:00,1560699905512878080,optimismFND,"And that wraps up this week at Optimism!
+
+See you on the internet, and remember: consistent action leads to incredible outcomes.
+
+Stay focused, stay building, and--most importantly: stay Optimistic! 🔴✨",88,12,8,2022-08-19
+1129,2022-08-22 17:28:25+00:00,1561767257201528833,optimismFND,🦋🔴✨ https://t.co/MQbaaqcpix,235,18,33,2022-08-22
+1130,2022-08-23 22:15:57+00:00,1562202009276596225,optimismFND,"@PoolTogether_ pOP, lock &amp; drop it",35,2,2,2022-08-23
+1140,2022-08-26 18:22:08+00:00,1563230328298225665,optimismFND,"One of our favorite hackathons is here!
+
+Join us and thousands of devs and builders from around the world at #ETHOnline, hosted by @ETHGlobal.
+
+📆: Register before August 30th to secure your spot:
+
+https://t.co/gm3l7KnSCr
+
+See you there (on the internet)! https://t.co/MmTINyI3KI",128,7,39,2022-08-26
+1146,2022-08-28 14:05:58+00:00,1563890636624842752,optimismFND,"Optimism projects: @etherscan is now live on Optimism Goerli: https://t.co/RPeC2ySGhq
+
+Friendly reminder that the Optimism Kovan testnet will be fully decommissioned on October 5th, 2022, so please migrate to Optimism Goerli if you haven’t already! https://t.co/4LT44xpg3y",324,58,80,2022-08-28
+1147,2022-09-07 15:27:40+00:00,1567535079089664001,optimismFND,"We’re excited to aid in the next major Ethereum milestone after the Merge: EIP-4844, which stands to further reduce rollup fees by up to ~100x.
+
+@OPLabsPBC is one of many contributors working on making 4844 a reality.
+
+https://t.co/TX80U5ZfHy",84,1,8,2022-09-07
+1155,2022-09-09 14:07:40+00:00,1568239718743306241,optimismFND,@ex0t1c_markets looks exotic 👀,38,1,4,2022-09-09
+1164,2022-09-13 07:56:57+00:00,1569595978059059201,optimismFND,@BlastAPI 💪✨,38,2,2,2022-09-13
+1166,2022-09-14 15:07:26+00:00,1570066698916470784,optimismFND,@TonyDePaPa @FortaNetwork @OPLabsPBC @kelvinfichter @maurelian_ It'll be recorded ;),2,1,0,2022-09-14
+1171,2022-09-15 06:40:36+00:00,1570301540371496960,optimismFND,Ahhhhh I'm merging,1628,58,147,2022-09-15
+1175,2022-09-16 14:56:32+00:00,1570788733368270848,optimismFND,"sup nerds!
+
+It was quite the week for both Optimism and the larger Ethereum ecosystem.
+
+In addition to announcing the release of the Optimism Bedrock Alpha Testnet at @dappcon_berlin, a little something called the Merge happened.
+
+Let's recap!",222,10,33,2022-09-16
+1183,2022-09-17 12:24:16+00:00,1571112802663952385,optimismFND,@VelodromeFi the City of Optimism is very bike friendly 🚴💨,69,2,5,2022-09-17
+1184,2022-09-19 13:13:16+00:00,1571849907010695168,optimismFND,"Unable to tune in live?
+
+Don't worry, we'll be uploading all OP Radio recordings to YouTube so you can listen at your leisure. ✨",86,4,15,2022-09-19
+1186,2022-09-20 18:00:09+00:00,1572284493318488070,optimismFND,"We’re always looking for opportunities to make Optimism more accessible for both new &amp; experienced users alike.
+
+That's why we're excited to announce Optimism Quests: a guided exploration of the ecosystem that allows users to earn NFTs while exploring Optimism apps! https://t.co/1WfRT6h5Jv",1120,61,385,2022-09-20
+1199,2022-09-21 23:33:29+00:00,1572730766303305728,optimismFND,Introduction to Architecture by @trianglesphere at 12:30PM ET https://t.co/fY0o9pdQed,12,1,2,2022-09-21
+1213,2022-09-22 14:25:01+00:00,1572955131074707459,optimismFND,"@xtokenterminal he's clearly enjoying OP Summer, wby? https://t.co/WMzjCcqIwM",38,2,4,2022-09-22
+1215,2022-09-23 18:39:27+00:00,1573381548870623235,optimismFND,"If you prefer reading to listening you're in luck, because the Optimism Docs are now available as an app, enabling you to read them anywhere—even if you're offline!
+
+Check ‘em out at https://t.co/fs8meT1p7I
+
+https://t.co/dBC4lx8v07",20,2,0,2022-09-23

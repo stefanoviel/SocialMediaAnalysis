@@ -1,0 +1,2161 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-07-15 00:06:44+00:00,1283191230273163265,bonfida,Looks like a new rebranding from the parent company of @BitMEX - probably about to see some interesting things coming from them: https://t.co/Ofi3niO5Xi,1,0,0,2020-07-15
+2,2020-07-17 04:54:21+00:00,1283988387674771456,bonfida,"Whilst defi has calmed down a little over the last week or so, I think the next natural progression we see there is exchanges offering their own defi products",0,0,0,2020-07-17
+6,2020-07-18 07:23:31+00:00,1284388313810341888,bonfida,"We're on the hunt for a UX designer - if you know anyone or think you're up for an interesting challenge, send us a DM!",1,1,0,2020-07-18
+11,2020-07-19 00:45:50+00:00,1284650621182722048,bonfida,"We just added @Phemex_official to our long/short ratios - as you can see, the ratio is super pronounced on these contracts... more exchanges on the way! https://t.co/hgPBnoQSj6",12,2,3,2020-07-19
+12,2020-07-20 08:43:01+00:00,1285133098674352131,bonfida,"Keeping on with the fast updates, @Bybit_Official just listed on our Long/Short Ratios: https://t.co/hgPBnoQSj6
+
+More exciting things on the way!",2,0,1,2020-07-20
+13,2020-07-21 23:36:24+00:00,1285720310701064198,bonfida,"Kudos to @bitfinex and @Tether_to for 10B tether minted, what a journey it’s been!",3,0,0,2020-07-21
+14,2020-07-25 04:17:32+00:00,1286878226170540033,bonfida,"Just released our open interest monitor, BitMEX phenomenally shadowing the market there as per usual: https://t.co/uUHPDY6RVP",1,0,0,2020-07-25
+16,2020-07-28 03:35:32+00:00,1287954820813352960,bonfida,Huobi nearly at 20B daily volume for the past 24H 🤯 https://t.co/EW9Ba7sW9T,19,6,5,2020-07-28
+19,2020-07-30 05:44:26+00:00,1288712031407755266,bonfida,"Note we made this with the stipulation that no exchange token is bought - buying $BNB, $OKB, $FTT, $BTMX, $HT and $LEO will often garner additional fee discounts.",1,0,0,2020-07-30
+22,2020-08-05 03:09:36+00:00,1290847397237555200,bonfida,Research time - how many exchanges do you trade on?,0,0,0,2020-08-05
+23,2020-08-06 08:52:24+00:00,1291296052314660864,bonfida,"New addition to our Latency Monitor, order placement latency! So far have @binance, @BitMEX, @Bybit_Official and @FTX_Official - adding more soon.
+
+Who else do you want to see, maybe @HuobiGlobal? @Phemex_official? 👀😎
+
+https://t.co/6J62cpMNQj https://t.co/kFKQoCIcRG",7,1,1,2020-08-06
+25,2020-08-07 05:36:53+00:00,1291609235059425281,bonfida,"Order placement latency snapshot of the day 📸👇
+
+@FTX_Official: 88ms
+@BitMEX: 19ms [AWS Dublin]
+@binance: 27ms
+@Bybit_Official: 132ms
+
+Latency is otherwise being measure from AWS Tokyo, for more measurements from other AWS locations check out: https://t.co/6J62cpMNQj",2,0,0,2020-08-07
+26,2020-08-11 12:38:42+00:00,1293164939444498433,bonfida,This $SRM listing is about to be spicy... 🔥,5,0,0,2020-08-11
+28,2020-08-20 23:33:05+00:00,1296591114774822912,bonfida,Guess we better update our fee monitor... https://t.co/VfLiZ5xXHN https://t.co/GsNXWuUL2Z,4,0,0,2020-08-20
+29,2020-08-28 00:02:19+00:00,1299135184869048320,bonfida,"What does USDC 2.0 mean for traders themselves? In actuality not a lot, but having ‘gas-less’ transactions is an important step to removing the barrier to entry that comes with sending via ERC20 - this is a great update https://t.co/yilebT5S89",2,0,0,2020-08-28
+30,2020-09-01 00:42:30+00:00,1300594847653359618,bonfida,"Playing around with the @ProjectSerum DEX, we'll likely be building some analytics for it. 
+
+We've also hosted our own whitelabel (super simple, happy to make a guide for anyone interested) - check that out here, we'll be updating it over the week! 👀🧑‍🔬
+
+https://t.co/v25XBr4FLI",5,1,0,2020-09-01
+31,2020-09-02 00:29:00+00:00,1300953838128492550,bonfida,"We'd love to get this on https://t.co/cQ2sEpUJ7Y 
+
+@ProjectSerum would you mind DM'ing us some more info on that?",2,1,0,2020-09-02
+32,2020-09-03 03:53:21+00:00,1301367652011524096,bonfida,"Anyone curious how much volume Serum DEX has actually traded? Us too, so we built this: https://t.co/qCowo8atoV
+
+Not the prettiest but we'll be spicing it up shortly 🌶️👨‍🍳 https://t.co/D9HqvuKkyY",18,0,4,2020-09-03
+33,2020-09-07 03:04:34+00:00,1302804926553178112,bonfida,@AbhiCryptoMedia @ProjectSerum @SBF_Alameda We’re on there! Appreciate the help though,1,1,0,2020-09-07
+35,2020-09-08 02:14:08+00:00,1303154622538723329,bonfida,"Charts on Serum, a key missing feature! The first of many updates we're making to help expand the $SRM ecosystem 📈
+
+https://t.co/5mRk6vib0z https://t.co/9x8NDZoSQC",122,10,15,2020-09-08
+40,2020-09-09 11:47:06+00:00,1303661204993269761,bonfida,Anyone interested in helping us test out an early-stage Serum REST API? Send us a DM or reply to this and we'll send you one... 😎,37,15,4,2020-09-09
+43,2020-09-10 10:56:53+00:00,1304010952153595905,bonfida,@mychumthebeast @ProjectSerum @SBF_Alameda Will come shortly!,0,0,0,2020-09-10
+48,2020-09-11 04:12:51+00:00,1304271662603436033,bonfida,"We've put up a few more Serum DEX API endpoints: 
+
+https://t.co/exCgBhLBwF
+https://t.co/tCSH0qFkiU
+https://t.co/jFdu1d4sUo
+
+Looking forward to seeing what people build with these 🧑‍🔬",27,1,6,2020-09-11
+50,2020-09-12 08:02:08+00:00,1304691751228026880,bonfida,"Just added Serum to our Volume Monitor - @FTX_Official your turn, lucky we have an API with that data... 🤭
+
+https://t.co/3qSrGRylS7 https://t.co/n721yKZsws",15,1,2,2020-09-12
+51,2020-09-13 00:28:19+00:00,1304939933744812032,bonfida,"@CryptoTetsugan @ProjectSerum About to push from our side, thanks for the heads up!",1,0,1,2020-09-13
+56,2020-09-14 11:46:14+00:00,1305472925403951104,bonfida,@mskvsk @nton4576 @SBF_Alameda @SushiSwap @AaveAave @UniswapProtocol @BalancerLabs @SwerveFinance You got an SVG version for us?,0,0,1,2020-09-14
+61,2020-09-15 00:54:31+00:00,1305671302087241730,bonfida,"One for our Chinese defi users - we've added Chinese Simplified and Traditional translations to Bonfida Serum DEX! 祝你成功 🇨🇳🚀
+
+What language should we do next? https://t.co/DUpDF2F2np",5,1,1,2020-09-15
+65,2020-09-17 04:50:07+00:00,1306455368571084802,bonfida,"Gwei prices at 500+? Hmmm, if only we knew a high-speed, low-cost, fully-fledged alternative... oh wait 
+
+@solana + @ProjectSerum",53,6,9,2020-09-17
+66,2020-09-18 11:17:56+00:00,1306915356372418560,bonfida,"This is awesome! Massively reduces the barrier to entry for projects trying to list on Serum - if any potential projects are looking to list on the Bonfida Serum DEX, reach out and we'll see what we can do to facilitate that 🚀
+
+https://t.co/5mRk6vib0z https://t.co/wHnWCgc1ZK",26,4,1,2020-09-18
+67,2020-09-19 11:06:42+00:00,1307274916895453184,bonfida,@VicThor2013 @ProjectSerum That’s next!,1,0,0,2020-09-19
+69,2020-09-20 06:05:50+00:00,1307561586039558144,bonfida,@TBtc1000 That’s a good suggestion! We’ll give it a look for you,0,0,0,2020-09-20
+70,2020-09-21 23:40:03+00:00,1308189278975918080,bonfida,"Ever wanted to yolo long $SRM on a DEX? Well now you can on the Bonfida Serum DEX, market orders live 😎📈
+
+https://t.co/5mRk6vib0z https://t.co/XPBxhgx5Ct",32,0,3,2020-09-21
+71,2020-09-22 02:48:04+00:00,1308236592339849216,bonfida,"Serum's first day above $10M in traded volume - as the saying goes, from little things...
+
+https://t.co/3qSrGRylS7 https://t.co/ur7qNt8SYx",74,5,9,2020-09-22
+73,2020-09-23 06:17:51+00:00,1308651776334209024,bonfida,"There's just way too much to build in this space to afford the time to get bogged down with the small, inconsequential things - remind yourself of the vision, keep building, reap the benefits",3,0,1,2020-09-23
+78,2020-09-24 06:25:19+00:00,1309016044149891072,bonfida,@SavoyCrypto Which header? Happy to give it a look,0,1,0,2020-09-24
+79,2020-09-28 05:14:32+00:00,1310447782059073539,bonfida,"We're still working on some little details, but yeah!
+
+Enjoy: https://t.co/5mRk6vib0z
+
+(For any new UI haters, the old one can be found here: https://t.co/htzq9oVDAL) https://t.co/IyCHturJCW",12,0,0,2020-09-28
+80,2020-09-29 06:38:26+00:00,1310831283082158081,bonfida,"🎉🎉🎉
+
+https://t.co/jBx0EeJUCt https://t.co/9HQrIHnENL",3,0,0,2020-09-29
+81,2020-09-30 05:56:17+00:00,1311183061032157191,bonfida,"Once the market has been created, you can share the market address and it can be added to any DEX with the '+' icon here: https://t.co/NXHmQUS4X8",1,0,0,2020-09-30
+82,2020-10-02 03:51:48+00:00,1311876511457144832,bonfida,"A sneak peak of our new wallet GUI, releasing shortly on the Bonfida DEX - token swaps handled on-chain, in wallet... 👀😎 https://t.co/Ckn3QEWmh2",62,6,11,2020-10-02
+84,2020-10-03 04:59:57+00:00,1312256047948521479,bonfida,"$52,896,718.95
+
+This is how much traded volume Serum has since inception of our API.
+
+Build something cool: https://t.co/ZIpVpxzkwT",63,10,8,2020-10-03
+85,2020-10-05 03:18:52+00:00,1312955387939700737,bonfida,"The Bonfida SPL Wallet is live, in semi-beta! We need testers  - generate an account, comment your SOL address + DM us a screenshot of your Bonfida Wallet and we'll drop 5 SOL to the first 20 people who do so 💸
+
+https://t.co/Wz4oBTu0MD https://t.co/vTh9VsLZ6e",112,93,49,2020-10-05
+88,2020-10-09 07:18:54+00:00,1314465345449541634,bonfida,"More @ProjectSerum trivia for your Friday:
+
+The largest single Serum transaction was 164620.50 USD in value - reckon you can beat that? 
+
+We're keeping a running feed of large Serum trades here: https://t.co/war4H0yxcT",8,0,2,2020-10-09
+89,2020-10-12 04:34:21+00:00,1315511099953831940,bonfida,Want to know how much volume traded on @ProjectSerum  since inception? Checkout: https://t.co/qCowo8atoV 🧐 https://t.co/pPhdB73t9A,26,2,4,2020-10-12
+90,2020-10-13 11:10:27+00:00,1315973168255754240,bonfida,@etolson @FTX_Official @binance Comparing Binance USDT futures with FTX perpetual futures,0,1,0,2020-10-13
+92,2020-10-16 09:56:25+00:00,1317041698824802305,bonfida,AcstFzGGawvvdVhYV9bftr7fmBHbePUjhv53YK1W3dZo https://t.co/jtCW5X1tCH,35,5,5,2020-10-16
+93,2020-10-17 06:54:15+00:00,1317358245783040002,bonfida,BdU5UYU8AU9iTVJXF6Sxc63M6XY4XWqZpdq2PigoqA92 https://t.co/xMf5z798mR,9,2,0,2020-10-17
+94,2020-10-18 10:10:18+00:00,1317769971452162049,bonfida,"Glad to see that the official @ProjectSerum GUI is using our API to display recent trades 🙌
+
+Build cool stuff on Serum: https://t.co/ZIpVpxzkwT https://t.co/N0e1UwUQXW",4,0,0,2020-10-18
+95,2020-10-20 04:38:19+00:00,1318411198740660227,bonfida,"$LSD is the first NFT created on @solana and listed on @ProjectSerum 
+
+Available on Bonfida DEX: https://t.co/n6JaqMxKwH https://t.co/3BIkbhKoAA",60,3,19,2020-10-20
+100,2020-10-21 17:16:15+00:00,1318964329236983808,bonfida,"Can you guess the name of the first #NFT exchange on @solana and @ProjectSerum ? 👀
+
+We will airdrop 10 $SOL to the first person who finds it 💸 https://t.co/JKzArJSfJ7",54,38,11,2020-10-21
+104,2020-10-22 04:05:36+00:00,1319127743011848192,bonfida,Having DNS issues. Will be back online shortly,3,1,0,2020-10-22
+111,2020-10-23 12:47:53+00:00,1319621566129266688,bonfida,@FrontierDotXYZ Looks nice! 👀,1,1,0,2020-10-23
+117,2020-10-24 10:20:28+00:00,1319946857846505476,bonfida,"Just rewrote some parts of our @ProjectSerum API in Go to improve performance and scalability. We now have higher rate limits 😀
+
+Build cool stuff on Serum: https://t.co/ZIpVpxzkwT",24,3,6,2020-10-24
+118,2020-10-25 14:27:52+00:00,1320371504089944064,bonfida,@Arke56374430 We really like what you are doing! Would you be interested in listing some of your NFTs on @solana and @ProjectSerum? 😀,1,0,0,2020-10-25
+127,2020-10-26 04:19:09+00:00,1320580704334327808,bonfida,🔥 https://t.co/icwkTzgW0y,3,1,1,2020-10-26
+130,2020-10-27 05:53:09+00:00,1320966745771757570,bonfida,Having trouble finding your @ProjectSerum  market? Look no further: https://t.co/Y5dJONRy0J 👀,26,0,6,2020-10-27
+132,2020-10-28 13:33:59+00:00,1321445105484460033,bonfida,@ztxrepublic @austerity_sucks @SBF_Alameda We can def look into it :),1,2,0,2020-10-28
+137,2020-10-29 15:01:59+00:00,1321829641288445960,bonfida,"We recently added new NFTs on https://t.co/UChu1nO8gY 👀
+More announcements about NFTs and Solible coming next week 😃",15,1,1,2020-10-29
+139,2020-10-30 11:49:10+00:00,1322143506085801991,bonfida,Coming soon on https://t.co/UChu1nO8gY 🔥 https://t.co/WI7ooBcBEJ,8,3,2,2020-10-30
+140,2020-10-31 13:12:33+00:00,1322526878851198976,bonfida,Looks like we added a new endpoint to our @ProjectSerum API: https://t.co/oiTwev3n8r 👀,12,1,2,2020-10-31
+141,2020-11-01 19:30:22+00:00,1322984345884188672,bonfida,We are fully back online. We lost some data points and the current 24h volume of @ProjectSerum DEX displayed on https://t.co/qCowo8atoV is incorrect. However the Serum Swap data is correct,2,0,1,2020-11-01
+149,2020-11-02 06:07:18+00:00,1323144633296195590,bonfida,"We are glad to announce the listing of the first redeemable 🔥 #NFT on Solible in partnership with @bitcoinorghk
+
+This #NFT will be redeemable for a #Bitcoin Tram model mailed to your door ✉️
+
+Auction ends on Friday 9pm HK Time ⏱️
+
+https://t.co/3rJqRMn2Bi https://t.co/sya6Um4XWw",49,3,13,2020-11-02
+156,2020-11-03 13:19:41+00:00,1323615837488476160,bonfida,😎 https://t.co/eCqRILzCXC,3,0,0,2020-11-03
+164,2020-11-04 08:46:51+00:00,1323909562588565504,bonfida,"You can now trade @realDonaldTrump tokens on Bonfida DEX. Put your money where your mouth is 👇
+
+TRUMPLOSE/USDC: https://t.co/Jb34nTfotJ
+TRUMPWIN/USDC: https://t.co/KKcO8CxfOm https://t.co/5s1j1ND29S",21,1,3,2020-11-04
+171,2020-11-05 20:00:01+00:00,1324441356870262784,bonfida,"Don't miss the @FrontierDotXYZ  x @bonfidadotcom  AMA with $SRM + $SOL + #NFT Giveaway! 💸
+
+More details 👇
+
+https://t.co/DGqcex3N89 https://t.co/9WJjHtsxfk",8,0,1,2020-11-05
+175,2020-11-06 12:50:20+00:00,1324695612483252224,bonfida,"10 minutes left for the #Bitcoin Tram auction ⏱️
+
+Current highest bid at 55 $USDC
+
+Bid higher: https://t.co/3rJqRMn2Bi",4,0,1,2020-11-06
+191,2020-11-07 15:49:45+00:00,1325103154225053698,bonfida,@HubrisOneX DM me!,0,0,0,2020-11-07
+200,2020-11-08 12:21:44+00:00,1325413193414422528,bonfida,⚠️ Never share your passphrase/seed/secret key with anyone!,5,2,1,2020-11-08
+210,2020-11-09 01:59:40+00:00,1325619029629952000,bonfida,@IAG_OneX @SBF_Alameda @solana DM me!,1,1,0,2020-11-09
+216,2020-11-10 02:46:51+00:00,1325993292266266625,bonfida,"@dfuseio Thank you so very much for this 👇 
+
+https://t.co/TLdQa2Myva ❤️",4,0,1,2020-11-10
+218,2020-11-11 08:49:20+00:00,1326446902758371334,bonfida,@tztokchad https://t.co/xmgNtX3aYF,0,0,0,2020-11-11
+220,2020-11-12 13:30:59+00:00,1326880171362672640,bonfida,Today we finally automated the #NFT redeeming process. Not a revolutionary update for most of our users but this will allow us to release more redeemable NFTs while having a good UX. A lot more to come in the next few days! 🔥 https://t.co/mSMX4G4xMf,14,1,4,2020-11-12
+222,2020-11-13 02:16:11+00:00,1327072740075917313,bonfida,"@willddddd @SBF_Alameda @ProjectSerum @solana Damn, this looks good 👀. Will implement it!",1,0,0,2020-11-13
+225,2020-11-15 05:39:36+00:00,1327848708231217152,bonfida,"You want to retrieve on chain historical prices from @ProjectSerum? There is an endpoint for that 👇 
+
+https://t.co/B04FboCpn9 https://t.co/RT5vUFuT6N",15,0,2,2020-11-15
+228,2020-11-16 13:00:44+00:00,1328322109576134658,bonfida,"Added an endpoint to our @ProjectSerum  API to retrieve historical pools data https://t.co/OHDUCffoX1
+
+Could be used to improve the analytics on https://t.co/QjSzGpwIuu 👀",21,0,4,2020-11-16
+229,2020-11-17 18:22:33+00:00,1328765484603359232,bonfida,https://t.co/q3rUegkBMV https://t.co/LJNvt9HEgT,4,0,0,2020-11-17
+238,2020-11-18 12:25:39+00:00,1329038057320824832,bonfida,@cmsholdings Few understand,5,0,0,2020-11-18
+249,2020-11-19 20:47:11+00:00,1329526658903154692,bonfida,"This has allowed us two awesome things:
+
+1. The recent market trades on every Serum GUI is fetching data from our API.
+2. We are now allowing people to have a TradingView graph based on on-chain data.",8,1,2,2020-11-19
+258,2020-11-20 16:48:55+00:00,1329829085355249664,bonfida,"These are features that no one implemented yet, and that Bonfida will implement (probably first)",4,1,0,2020-11-20
+269,2020-11-21 12:48:09+00:00,1330130880879337473,bonfida,@Crypto_MQ @ProjectSerum If you have more questions or need help for anything feel free to DM me,0,0,0,2020-11-21
+277,2020-11-22 04:59:45+00:00,1330375394126561280,bonfida,Just reached 4mil requests on our @ProjectSerum API over the last 24h 😎 https://t.co/uwAHxLozPs,34,1,5,2020-11-22
+281,2020-11-23 05:20:40+00:00,1330743046602846208,bonfida,"Numbers only go up, right? https://t.co/ghReJZ0lLr",12,0,0,2020-11-23
+283,2020-11-24 08:28:08+00:00,1331152609193824256,bonfida,😎 https://t.co/OCbGPvq460,3,0,0,2020-11-24
+289,2020-11-25 10:40:32+00:00,1331548318778867712,bonfida,"We added something new to our DEX today. If you can find what it is we will airdrop you 10 $SRM 💸
+
+Rules 📖👇
+
+- Follow us
+- One answer per person 
+
+In 24h we will select the first 5 persons who got the right answer https://t.co/IClXeLRy59",12,16,5,2020-11-25
+300,2020-11-26 12:31:12+00:00,1331938553660522496,bonfida,"We added something more to Bonfida today, can you find it? 👀",6,3,1,2020-11-26
+304,2020-11-27 22:44:28+00:00,1332455279003201537,bonfida,"Step 3: On the balances pages you can see all the tokens available in your wallet. Let's say you want to send some SOL to another address. To do so, click on ""Send"" next to SOL https://t.co/UG9zSy5F10",1,3,0,2020-11-27
+317,2020-11-28 09:19:42+00:00,1332615139049107457,bonfida,"Time to 🔥 some @Ledger Nano X
+
+https://t.co/KuGb9BCtAI https://t.co/YMZwX7Ztc9",16,1,3,2020-11-28
+320,2020-11-30 13:20:24+00:00,1333400487744344065,bonfida,@SBF_Alameda @TheBlock__ Where is the Serum data coming from? 👀,8,0,1,2020-11-30
+321,2020-12-01 14:56:30+00:00,1333787060256133120,bonfida,Daily volume on @ProjectSerum looking good 👀 https://t.co/UnmgKY75Qc,46,5,5,2020-12-01
+323,2020-12-02 14:53:15+00:00,1334148632048586755,bonfida,@dfuseio @ProjectSerum @solana Good to see all the NFTs from https://t.co/AJtjGox3hx in this list! 🙌,7,1,1,2020-12-02
+330,2020-12-03 03:57:15+00:00,1334345930779230209,bonfida,"Limited Edition @ProjectSerum tee-shirts 👕
+
+Available on Solible: https://t.co/q3rUegkBMV https://t.co/IElLcKLVbo",35,3,5,2020-12-03
+335,2020-12-04 02:51:09+00:00,1334691682953035778,bonfida,"Great video by @TheSerumist on how to get started with @ProjectSerum the Bonfida way 👇
+
+https://t.co/GHiGfojeJW",12,1,1,2020-12-04
+336,2020-12-06 04:21:59+00:00,1335439319587143685,bonfida,@skynetcap Will look into it!,1,0,0,2020-12-06
+339,2020-12-07 14:35:39+00:00,1335956138995531778,bonfida,...,12,3,0,2020-12-07
+347,2020-12-08 17:26:55+00:00,1336361631303888897,bonfida,@genesisblockhk https://t.co/whITNn0SZ9,30,1,3,2020-12-08
+361,2020-12-09 01:43:39+00:00,1336486635949629441,bonfida,"""Liquidity is oxygen for a financial system"" - Ruth Porat
+
+@SBF_Alameda @AlamedaTrabucco @AlamedaResearch https://t.co/v4gUXGEuXA",23,1,2,2020-12-09
+365,2020-12-10 13:39:44+00:00,1337029233860694017,bonfida,@fisher8cap https://t.co/JIJ49lK9zk,16,3,1,2020-12-10
+368,2020-12-11 03:04:18+00:00,1337231706743402497,bonfida,"👁️
+
+@divdotvc @cjliu49 @gpl_94 https://t.co/OLsl5tRd77",15,1,0,2020-12-11
+373,2020-12-13 04:07:48+00:00,1337972462730919936,bonfida,@jackshaftoes Love this guy 💪🏻,8,1,0,2020-12-13
+377,2020-12-14 11:57:36+00:00,1338453081747382272,bonfida,"💧
+
+@SerumStakers https://t.co/6v4znz5nVG",16,1,2,2020-12-14
+382,2020-12-15 16:12:44+00:00,1338879673690800128,bonfida,https://t.co/RGOEWyymtZ,32,1,2,2020-12-15
+394,2020-12-16 12:43:52+00:00,1339189501143310337,bonfida,@LeslieisHODLing 🚀,0,1,0,2020-12-16
+398,2020-12-17 08:41:06+00:00,1339490792335785985,bonfida,"A pool comprised of crypto in the Serum ecosystem...
+
+More info to come!
+
+$FIDA
+$SRM
+$SOL https://t.co/ssXRxrkMYL",59,5,7,2020-12-17
+401,2020-12-18 07:46:02+00:00,1339839322632060928,bonfida,"$LQID
+
+Soon available through Bonfida's Ecosystem Pool.
+
+$LQID is the governance token of Pools. Serum colours within, and hands representing how token holders can shape Pools to be anything from AMMs to collective asset baskets.
+
+Design also by @Jinath0n https://t.co/2sahgHbYLm",18,0,4,2020-12-18
+416,2020-12-19 10:25:44+00:00,1340241901887221760,bonfida,参加我们的 ISO 👇 https://t.co/zjYPVP4xCA,5,1,0,2020-12-19
+428,2020-12-20 14:49:14+00:00,1340670602638622720,bonfida,@leomars1989 On it :),0,1,0,2020-12-20
+442,2020-12-21 16:24:36+00:00,1341056987841220609,bonfida,"🎉960,000🎉
+
+Do you wanna be one of the first owners of $LQID or do you wanna be right?
+
+Join: https://t.co/5Cw3Zb83gJ
+Learn: https://t.co/N5xpT1lpYs https://t.co/2DXp1kQNlQ https://t.co/zL8iavFpkf",20,1,5,2020-12-21
+463,2020-12-22 12:25:12+00:00,1341359131492376578,bonfida,"🎉2,500,000 USDC🎉
+
+About 30 minutes to go! https://t.co/cud03ztum9 https://t.co/ooaGewHjAw",15,1,1,2020-12-22
+489,2020-12-23 02:32:47+00:00,1341572431987634176,bonfida,@SBF_Alameda @realmubaris @JoeyWong_t3ch Yes we do :),2,0,0,2020-12-23
+492,2020-12-24 07:07:00+00:00,1342003827562536960,bonfida,"Happy Holidays from the Bonfida team!
+
+100k $LQID will be airdropped into the Serum Ecosystem Pool and 2000 $SRM into the Holy Trinity Pool in the next 24 hours🎄 
+
+https://t.co/rv1fIYA1TU https://t.co/bOq66ukAxp",31,1,6,2020-12-24
+496,2020-12-25 08:04:23+00:00,1342380656509140993,bonfida,"All information about pools on https://t.co/rv1fIYA1TU are now available in Mandarin! 
+
+Ft. our new language selector on the top right😀more support for other languages to come! https://t.co/ZM0dbjWv4z",19,3,3,2020-12-25
+498,2020-12-27 15:55:14+00:00,1343223927745642496,bonfida,Congrats @ProjectSerum 🎉 https://t.co/kksQGuA9B9,67,2,9,2020-12-27
+502,2020-12-28 01:56:52+00:00,1343375333110640640,bonfida,"$HOLY &amp; $SECO markets are now LIVE❗️
+
+Trade the token that represents the share of each pool on https://t.co/AYMhSs7Gem
+
+Learn about pools: https://t.co/N5xpT1lpYs
+
+$SECO:https://t.co/OLAF7cPSZb
+$HOLY:https://t.co/zhZFsCVpHy https://t.co/RcN3pu0j6Q",16,3,3,2020-12-28
+508,2020-12-29 10:35:22+00:00,1343868202858659840,bonfida,The $HOLY pool is up 14% in a week https://t.co/dYLEZTbUNG,7,2,1,2020-12-29
+512,2020-12-30 02:49:39+00:00,1344113391174971393,bonfida,"@TeamJoeyRocket @SBF_Alameda @ProjectSerum @Oxygen_protocol @MAPS_ME You will not be able to redeem your pool token for MAPS, but you will still be able to trade the pool token.",0,1,0,2020-12-30
+514,2020-12-31 04:46:08+00:00,1344505093605916673,bonfida,It's time to 🔥 https://t.co/ll3k1ESgfi,22,0,1,2020-12-31
+520,2021-01-01 17:43:17+00:00,1345063055403569154,bonfida,"We added websocket to our @ProjectSerum API
+
+1⃣Fully written in Rust 
+2⃣Streaming API with the most up-to-date trades data 
+3⃣Both for Serum Swap and Serum DEX
+
+Buidl something cool on Serum 👇🛠️
+
+https://t.co/i4ars9Ud94",34,1,10,2021-01-01
+524,2021-01-02 07:44:12+00:00,1345274679481704449,bonfida,"Small #Python Wrapper for our @ProjectSerum API 👇
+
+https://t.co/vL5Gzr4qVF
+
+Build something cool on Serum 🛠️
+
+https://t.co/Qfh5I0z7p3",12,0,3,2021-01-02
+529,2021-01-03 12:07:53+00:00,1345703427771256832,bonfida,"Congratulations to @Anthotovard for winning the 25 $SRM giveaway of #Bonfida2021! 
+
+Learn how to participate 👇 https://t.co/VdlZtO9Yon",13,1,0,2021-01-03
+537,2021-01-04 16:36:09+00:00,1346133327095291904,bonfida,@cmsholdings Can't wait for SLACKBEAR,6,0,0,2021-01-04
+543,2021-01-05 15:55:04+00:00,1346485375158476801,bonfida,Today has been a pretty crazy day for @ProjectSerum and its Ecosystem 🚀 https://t.co/WY8WQYA24X,67,9,9,2021-01-05
+553,2021-01-06 05:04:30+00:00,1346684041383223297,bonfida,"El Boletín Semanal Ahora en Español!
+
+https://t.co/Bmmo0d4jF5",7,2,0,2021-01-06
+559,2021-01-07 15:55:40+00:00,1347210303595966466,bonfida,@ProjectSerum so close ... https://t.co/wdBi2f5PrL,2,0,0,2021-01-07
+562,2021-01-08 13:39:43+00:00,1347538477496221699,bonfida,When you sort spot tokens by Daily Change on @FTX_Official 👀 https://t.co/eBY2EOdKUa,30,1,2,2021-01-08
+564,2021-01-09 10:55:19+00:00,1347859493124640768,bonfida,You can now add and delete token accounts directly from the Balances page! https://t.co/WQVgLzxxyJ,15,2,2,2021-01-09
+569,2021-01-10 06:25:57+00:00,1348154091394928641,bonfida,"Trading interface: Bonfida has the same trading interface as the largest centralized exchanges with TradingView charts built from on-chain data (we’re the only DEX to provide it), a full central limit orderbook, and advanced order types so you can use limit or market orders. https://t.co/C9KicOiw5r",9,1,1,2021-01-10
+576,2021-01-11 02:22:07+00:00,1348455114969804801,bonfida,@scara89_ @Kin_Ecosystem Will do :),2,1,0,2021-01-11
+580,2021-01-12 15:10:04+00:00,1349010766721122308,bonfida,Solible has a new skin 👀 https://t.co/GDvz6Cw3Ln,51,1,13,2021-01-12
+584,2021-01-13 03:20:48+00:00,1349194659122139136,bonfida,"El Boletín Semanal Ahora en Español! 👇🤓
+
+https://t.co/3jQKfOfzmW",9,0,1,2021-01-13
+586,2021-01-14 16:24:03+00:00,1349754160971870209,bonfida,🤖 https://t.co/UKtTr7FkY6,95,8,13,2021-01-14
+587,2021-01-15 10:44:53+00:00,1350031192179937288,bonfida,"@CryptoGirl_IND You can claim it anytime, feel free to DM me :)",0,2,0,2021-01-15
+589,2021-01-16 05:44:16+00:00,1350317926688059394,bonfida,@FTXBRO ❤️,0,1,0,2021-01-16
+590,2021-01-18 04:36:06+00:00,1351025547615350784,bonfida,@phamtoan89961 @MAPS_ME Yes!,0,0,0,2021-01-18
+594,2021-01-19 14:15:51+00:00,1351533837805780993,bonfida,"@mettmerizing @SBF_Alameda @FTX_Official @BitMax_Official Fair point, however, the vast majority of IEOs are oversubscribed in a few seconds and therefore the de facto IEO price is the ceiling price. If the ceiling is not reached we will change it to the actual IEO price",2,0,0,2021-01-19
+605,2021-01-20 08:44:37+00:00,1351812866853097475,bonfida,@mikevanrossum @Nib_bio Few understand,2,0,0,2021-01-20
+606,2021-01-21 04:46:19+00:00,1352115282983092224,bonfida,"Now available in Spanish 👇
+
+https://t.co/2TRHTeZnc9",3,0,0,2021-01-21
+611,2021-01-23 10:28:48+00:00,1352926249736237056,bonfida,@cryprisk @CryptOrca @mattysino It has been fixed by @TrendMicro :),2,0,0,2021-01-23
+619,2021-01-24 05:10:41+00:00,1353208580011302914,bonfida,"If you are interested in giving us feedback, remember that this is still going on 👇 https://t.co/N9U5U4Xa1y",9,0,2,2021-01-24
+623,2021-01-25 07:44:06+00:00,1353609575077842945,bonfida,"@CreweTess @KyrosVentures @MAPS_ME @FTX_Official @BitMax_Official That's for the VC Pool, not for the IDO. IDO is fully unlocked :)",0,0,0,2021-01-25
+624,2021-01-26 15:05:00+00:00,1354082919820754951,bonfida,"If you have not been able to participate in the @FTX_Official and @BitMax_Official IEOs for @MAPS_ME, you will still be able to participate in the IDO on Feb 1st 👇
+
+https://t.co/pHvCFTO5vq",30,4,6,2021-01-26
+625,2021-01-27 08:35:32+00:00,1354347293718192130,bonfida,"The @Oxygen_protocol VC Pool has reached almost 10% of its full capacity 👇
+
+- Pool: https://t.co/6t4LeW8b9O
+- Learn: https://t.co/PE7iyKs33Y",11,0,0,2021-01-27
+631,2021-01-28 04:51:46+00:00,1354653369885888514,bonfida,https://t.co/qXVpMHgQ1u,28,2,6,2021-01-28
+633,2021-01-29 03:18:03+00:00,1354992175105208322,bonfida,DOGEBULL https://t.co/gnh0uXfhX1,7,0,0,2021-01-29
+635,2021-01-30 13:49:40+00:00,1355513512580194307,bonfida,https://t.co/pj6OQteGi1,31,0,4,2021-01-30
+636,2021-01-31 17:15:51+00:00,1355927788226637828,bonfida,"$MAPS will be listed on February 1st, 22:00 SGT, however you can already trade $MAPS VC Pool Tokens on @ProjectSerum 👇
+
+https://t.co/BQT6Max7oN",59,6,15,2021-01-31
+638,2021-02-01 14:00:01+00:00,1356240894039650306,bonfida,"$MAPS is now available on @ProjectSerum 👇
+
+- MAPS/USDC: https://t.co/N4m4FtQ2dC
+- MAPS/USDT: https://t.co/hiAX4CxJvS",18,6,4,2021-02-01
+645,2021-02-02 17:19:24+00:00,1356653457185382402,bonfida,"@Waawzer This will reflect on the NAV of the pool. However, the pool cannot increase it's exposure to an asset by more than 5% at once",1,1,0,2021-02-02
+655,2021-02-03 10:17:48+00:00,1356909747975430144,bonfida,"In this week newsletter we dive into: 
+
+- @ProjectSerum DEX performance 📈
+- $FIDA 🔥
+- @MAPS_ME IDO
+- @Oxygen_protocol Pool
+
+Read: https://t.co/Hq2OGMrIGy",14,0,2,2021-02-03
+659,2021-02-04 16:32:39+00:00,1357366469684846593,bonfida,"$PERP is now available on @ProjectSerum 📈👇
+
+https://t.co/JYnAllwC8B",19,0,1,2021-02-04
+667,2021-02-05 17:05:18+00:00,1357737071545356290,bonfida,"We listed new NFTs 🧑‍🎨
+
+https://t.co/CK0f215jNb
+https://t.co/F9kbqf6vT5
+https://t.co/r0xAKNWAP4
+https://t.co/uVDRxSPYB4
+https://t.co/GauqkLaQW8",8,1,0,2021-02-05
+669,2021-02-06 00:06:26+00:00,1357843053986402304,bonfida,"This week we had a series of interviews with several users to understand their pain points while using @bonfida, @ProjectSerum  and @solana. The goal of these interviews was to be able to release UX/UI updates to fix the issues they face",44,2,5,2021-02-06
+673,2021-02-08 08:25:54+00:00,1358693525903167491,bonfida,@cmsholdings sir,2,0,0,2021-02-08
+676,2021-02-09 21:33:05+00:00,1359254013946941440,bonfida,$FIDA https://t.co/IhUaPs5v7y,38,2,4,2021-02-09
+683,2021-02-10 01:12:28+00:00,1359309224325509122,bonfida,"Our weekly newsletter is now available in Spanish 📖👇
+
+https://t.co/cOG0Fc1xIp",4,0,0,2021-02-10
+687,2021-02-11 17:34:27+00:00,1359918737797840900,bonfida,"$GRT is available on Bonfida 👇
+
+https://t.co/oprJ74FC4i",17,0,2,2021-02-11
+693,2021-02-12 14:59:13+00:00,1360242056850010112,bonfida,Less than 48 hours ⏱️👇 https://t.co/NRxHnj4eEV,7,0,0,2021-02-12
+694,2021-02-13 12:06:43+00:00,1360561035384524800,bonfida,Did someone say Pools? https://t.co/WDJbnhOZst,206,14,22,2021-02-13
+695,2021-02-14 14:25:03+00:00,1360958237969838081,bonfida,The proceed of the auction has been given to the @FTX_Official Foundation 🙌 https://t.co/tWMAURArih,10,1,0,2021-02-14
+702,2021-02-15 13:16:12+00:00,1361303297479634945,bonfida,"To get the latest news and information about @RaydiumProtocol Pools join our Telegram group 👇
+
+https://t.co/dt15sG4rIQ",30,1,5,2021-02-15
+705,2021-02-16 09:34:48+00:00,1361609969896931330,bonfida,"This week in our newsletter, we talk about @RaydiumProtocol 👀👇
+
+https://t.co/Dsikrd8srn",14,1,3,2021-02-16
+707,2021-02-18 09:10:24+00:00,1362328601744584706,bonfida,"There are some new NFTs on Solible  🧑‍🎨👇
+
+https://t.co/xY8GsLwdb2",10,1,1,2021-02-18
+710,2021-02-19 13:47:36+00:00,1362760751656669184,bonfida,"400,742.5 $FIDA just got burned 🔥
+
+https://t.co/PcyxyAgL77",57,0,3,2021-02-19
+716,2021-02-21 00:23:20+00:00,1363283128094134277,bonfida,"New NFTs are available on Solible 🧑‍🎨👇
+
+https://t.co/81dSOjXVAI",105,3,20,2021-02-21
+726,2021-02-22 14:53:29+00:00,1363864494187835394,bonfida,"Learn more about @RaydiumProtocol 👇📖
+
+https://t.co/Mlo9sPYSKL",57,1,13,2021-02-22
+730,2021-02-23 13:12:21+00:00,1364201432929435650,bonfida,@SBF_Alameda @ProjectSerum Get notified of large @ProjectSerum orders https://t.co/war4H0gWll,5,0,0,2021-02-23
+736,2021-02-24 20:11:04+00:00,1364669193812127745,bonfida,"Our @RaydiumProtocol Exclusive is now available in Spanish 📖👇
+
+https://t.co/QL9JgAd9yp",38,6,4,2021-02-24
+739,2021-02-25 21:21:22+00:00,1365049272685715463,bonfida,@cmsholdings Wanna do something cool with me? https://t.co/U5OJThE0cJ,17,1,1,2021-02-25
+740,2021-02-28 16:48:17+00:00,1366067710094946309,bonfida,"@RaydiumProtocol is now part of $SECO
+
+https://t.co/inCswG4jWg",52,2,5,2021-02-28
+746,2021-03-04 09:47:16+00:00,1367411309432635393,bonfida,@coastofliving @ProjectSerum Yes!,1,1,0,2021-03-04
+749,2021-03-06 06:43:24+00:00,1368089817309880325,bonfida,"Solible is going to migrate to @ProjectSerum V3
+
+1⃣Go to https://t.co/6C9uIoCuVW
+2⃣Cancel your orders
+3⃣Settle your funds
+
+New NFT markets will be listed 03/10/2021",94,3,11,2021-03-06
+750,2021-03-07 08:35:49+00:00,1368480494493396998,bonfida,"Almost there 🤖
+
+https://t.co/DL5NspgeW6",86,4,4,2021-03-07
+751,2021-03-08 06:58:17+00:00,1368818335350067209,bonfida,"@StreeterontheSt Yes, it can be verified on chain here https://t.co/dIzwexTc3o",1,1,0,2021-03-08
+754,2021-03-09 04:25:07+00:00,1369142178782453763,bonfida,Let's organize the first on chain governance vote of the @ProjectSerum ecosystem ⏰,123,3,11,2021-03-09
+757,2021-03-10 12:35:08+00:00,1369627881635160064,bonfida,"@Oxygen_protocol ⏰👇
+
+https://t.co/45vp8ntR8l",50,6,6,2021-03-10
+758,2021-03-11 16:37:06+00:00,1370051164004249601,bonfida,See you on March 16th 8:00pm UTC+8 @Oxygen_protocol ⏰ https://t.co/Uen6mSa3fm,68,6,4,2021-03-11
+759,2021-03-12 11:51:01+00:00,1370341557367312384,bonfida,Imagine plugging your @tradingview strategies directly into @ProjectSerum 🤖,179,8,16,2021-03-12
+760,2021-03-13 06:23:39+00:00,1370621560231403522,bonfida,What's the @tradingview strategy you would like to see automated on @ProjectSerum ? 🤔,96,12,7,2021-03-13
+763,2021-03-14 12:02:03+00:00,1371069109748649987,bonfida,"One hour left to vote for the first @ProjectSerum ecosystem vote ⏰👇
+
+https://t.co/NrF78qhq1d",34,1,3,2021-03-14
+765,2021-03-15 16:07:47+00:00,1371493336180137987,bonfida,OXY IDO COUNTDOWN https://t.co/FS6Vkbyvxt,86,16,5,2021-03-15
+778,2021-03-16 09:52:11+00:00,1371761201013739521,bonfida,"New strategy to have been automated on @ProjectSerum 🤖
+
+$BTC Super Trend - 4H 👇
+
+https://t.co/Ajpqkc4ICe",38,3,5,2021-03-16
+785,2021-03-17 18:42:33+00:00,1372257063263334402,bonfida,The fees have been airdropped to the token account you were holding the pool tokens in.,13,1,0,2021-03-17
+799,2021-03-18 05:42:43+00:00,1372423198273245188,bonfida,Can you guess what we are building next? 🤔,48,11,5,2021-03-18
+805,2021-03-19 15:34:00+00:00,1372934386966958082,bonfida,"What strategy do you want to automate today on @ProjectSerum ? 🤔👇
+
+https://t.co/nmq2jWjmkC 🤖 https://t.co/6bCORq6w4G",40,7,4,2021-03-19
+806,2021-03-21 09:39:26+00:00,1373569933838225413,bonfida,"Similarly to @ProjectSerum UI, Bonfida Bots UI is open source and you can earn @ProjectSerum referrer fees by hosting one 🤖👇
+
+https://t.co/fIzhdSD8Bg",43,3,6,2021-03-21
+811,2021-03-22 12:23:17+00:00,1373973557080858628,bonfida,"Learn how to automate your @tradingview strategy on @ProjectSerum 🤖👇
+
+https://t.co/OnPKpYfFKu",54,0,7,2021-03-22
+813,2021-03-23 07:02:58+00:00,1374255335196684295,bonfida,"Seeing more and more people using the @tradingview cranking node to automate their strategies on @ProjectSerum 🎉
+
+https://t.co/OnPKpYfFKu 🤖",37,1,5,2021-03-23
+814,2021-03-26 04:36:16+00:00,1375305576524091397,bonfida,🤫 https://t.co/vtX4pwUfpy,61,6,5,2021-03-26
+815,2021-03-27 07:31:38+00:00,1375712096927674372,bonfida,"More strategies have been automated on @ProjectSerum  🤖
+
+Cannot find your dream strategy? Create your own 👇🤓
+
+https://t.co/OnPKpYfFKu https://t.co/3UZviqdfr1",87,1,16,2021-03-27
+816,2021-03-29 17:43:11+00:00,1376590777485193219,bonfida,"$COPE is now available on @ProjectSerum 👇📈
+
+https://t.co/kYbMD53W2u",262,12,46,2021-03-29
+818,2021-03-30 16:58:13+00:00,1376941849793814532,bonfida,"62,904.1 $FIDA 🔥
+
+https://t.co/qwJUjohV4Q https://t.co/mHPi2gP71N",71,7,5,2021-03-30
+821,2021-03-31 04:04:29+00:00,1377109520757878788,bonfida,"This month we explore the @ProjectSerum and @solana ecosystem 👇
+
+- @ProjectSerum upgrades to DEX v3 and Swap v2 🛠️
+- @solana mainnet turned1⃣
+- Bonfida Bots are live 🤖
+- @RaydiumProtocol Fusion pools 📈
+
+https://t.co/kQmxN5TJI2",154,4,36,2021-03-31
+825,2021-04-01 17:28:25+00:00,1377674222470791169,bonfida,"Did you know you could get @ProjectSerum market data in real time via websocket and no rate limit? 🤔
+
+https://t.co/i4ars9Ud94",75,4,6,2021-04-01
+826,2021-04-02 17:48:12+00:00,1378041589663031297,bonfida,"@cyrii_MM Pools trading on @ProjectSerum already exist https://t.co/EzhSVfQphQ
+
+Pretty sure we can plug @mangomarkets into this pretty quickly :)",24,1,0,2021-04-02
+830,2021-04-03 14:58:47+00:00,1378361344676667395,bonfida,Up only📈 https://t.co/M1Ldt7Yjlv,176,8,17,2021-04-03
+835,2021-04-05 03:12:00+00:00,1378908249395617798,bonfida,@stokasz No. You don't get FIDA for using Bonfida Bots.,0,0,0,2021-04-05
+839,2021-04-06 03:02:32+00:00,1379268257610276866,bonfida,👀🤖 https://t.co/Qepcd39rI1,30,1,4,2021-04-06
+845,2021-04-07 13:01:46+00:00,1379781444503924741,bonfida,@PythNetwork will be big,25,3,1,2021-04-07
+846,2021-04-08 16:06:28+00:00,1380190315030532099,bonfida,👀 https://t.co/GRsl8KHUrZ,47,3,3,2021-04-08
+848,2021-04-09 14:20:04+00:00,1380525925796749316,bonfida,"Bonfida Bots are now available in Chinese 🤖
+
+You can contribute to the ecosystem by adding a new language, it's all open source 👇
+
+https://t.co/fIzhdSD8Bg https://t.co/SOPpfshrFY",53,2,7,2021-04-09
+849,2021-04-11 18:55:16+00:00,1381319960023076864,bonfida,"Lots of new timeframes have been added to our @ProjectSerum API: 5min, 15min, 2h, 6h and 12h 📈 https://t.co/wE6QaNVr2v",110,7,8,2021-04-11
+854,2021-04-12 11:47:11+00:00,1381574614120210436,bonfida,"Learn how to automate your trading strategy on @ProjectSerum 🤖👇
+
+- https://t.co/BZGLh5hLeG
+- https://t.co/0MvbwWvqbK",25,0,1,2021-04-12
+858,2021-04-13 11:40:42+00:00,1381935373119483904,bonfida,@bartbtc @tradingview @solana Nice!,4,0,0,2021-04-13
+861,2021-04-14 03:15:13+00:00,1382170551381233665,bonfida,👀 https://t.co/OI7pfRlf9x,18,3,0,2021-04-14
+866,2021-04-15 13:36:44+00:00,1382689349419032576,bonfida,"Did you know you could wrap and unwrap $SOL with our wrapper? 🤔 👇
+
+https://t.co/qjw04Lbsud",60,5,3,2021-04-15
+874,2021-04-16 10:19:09+00:00,1383002011558301699,bonfida,"Proud to be contributing to the @solana code base by building an on-chain naming service  🙏
+
+https://t.co/pDA6g18N10",190,12,30,2021-04-16
+875,2021-04-17 07:13:25+00:00,1383317661254242309,bonfida,@WbCoin DM me 👀,0,2,0,2021-04-17
+877,2021-04-18 07:03:17+00:00,1383677497632428041,bonfida,@ProjectSerum is above 50mil of daily volume🥳 https://t.co/6Pud3kozmr,40,0,5,2021-04-18
+878,2021-04-22 10:30:00+00:00,1385179070351122434,bonfida,"SRM Super Trend Strategy is up by 34.19%, take a look at how it works 📈
+
+https://t.co/I13mCVMCfI 
+
+or learn how to automate your own on-chain strategies at https://t.co/6mH0YOSuXQ 😎",97,3,20,2021-04-22
+882,2021-04-25 10:00:00+00:00,1386258685568032768,bonfida,"(1/2) 
+
+Now there is 190.5k FIDA staked on @ProjectSerum
+
+With an average burn of 60k FIDA a month this means that stakers are estimated to receive 3.15% this month. https://t.co/jihsvIIXPU",42,2,3,2021-04-25
+886,2021-04-26 10:50:12+00:00,1386633704529825793,bonfida,All orders are being executed on @ProjectSerum's FIDA/USDC market,15,1,1,2021-04-26
+898,2021-04-27 18:05:57+00:00,1387105753530466305,bonfida,"$SAMO is available on @ProjectSerum 
+
+https://t.co/4uUvkndUds",239,33,64,2021-04-27
+901,2021-04-29 02:00:01+00:00,1387587442799091714,bonfida,"(1/2)
+
+Bonfida Bots – One month on! 🤖
+
+Let us look at the metrics  👇
+
+1️⃣ There are 266 unique trading pools.
+
+2️⃣Over 241,000 trades have been executed!
+
+3️⃣With a TVL of the pools totaling over 76k USDC.",40,3,2,2021-04-29
+906,2021-04-30 17:02:35+00:00,1388176971163598852,bonfida,"$MEDIA is now available on @ProjectSerum 👇
+
+https://t.co/hhE7zUQRdC",146,3,18,2021-04-30
+912,2021-05-02 07:30:27+00:00,1388757762088202244,bonfida,"Help us buy and burn $FIDA 🔥👇
+
+https://t.co/IcRYh960KQ https://t.co/0YxYb2VS1d",68,7,8,2021-05-02
+918,2021-05-03 16:54:00+00:00,1389261974899331074,bonfida,It's past time we should have a trading competition on @ProjectSerum 🤖,142,13,14,2021-05-03
+923,2021-05-04 02:37:44+00:00,1389408876110303234,bonfida,👀 https://t.co/MWyrbGPIuf,34,0,1,2021-05-04
+927,2021-05-05 10:44:23+00:00,1389893732342722561,bonfida,"Time to refresh how to automate your TradingView strategies on @ProjectSerum 👇
+
+https://t.co/OnPKpYfFKu
+
+https://t.co/8nwGC2ml8q",49,1,6,2021-05-05
+932,2021-05-06 18:41:02+00:00,1390376074891042816,bonfida,One of them is the ability to claim your Twitter handle and associate it to your wallet. This will allow wallets like @phantom or Sollet to manage contacts through Twitter handles instead of public keys,109,4,12,2021-05-06
+942,2021-05-07 18:44:14+00:00,1390739265085087747,bonfida,"Thanks a lot to @phantom for expanding beta access 👻
+
+Use promo code BONFIDA to access @phantom wallet beta: https://t.co/RWDJAm0DSD",136,6,20,2021-05-07
+949,2021-05-08 04:51:32+00:00,1390892097314562051,bonfida,"@nicksdjohnson @FiFarms @BrantlyMillegan It's not a fork of ENS, and does not pretend to be an ENS offering. 
+
+Code can be found here https://t.co/xzK46pdXbx",1,0,0,2021-05-08
+950,2021-05-09 14:35:59+00:00,1391401567505420290,bonfida,❤️ https://t.co/VmLWefDAXw,25,0,0,2021-05-09
+956,2021-05-10 08:05:11+00:00,1391665608555593728,bonfida,"Take a look at the MACD strategy, and get ready for Bonfida X @ProjectSerum  Bot Trading Competition 
+🤖
+
+https://t.co/eGwTbzVuoL
+
+https://t.co/OnPKpYfFKu
+
+https://t.co/BZGLh5hLeG",24,0,4,2021-05-10
+957,2021-05-11 11:18:44+00:00,1392076703711649792,bonfida,Time to claim your Twitter handle on @solana 👇,164,40,57,2021-05-11
+963,2021-05-12 13:11:03+00:00,1392467358355116034,bonfida,"30 limited NFTs designed for the @ProjectSerum trading competition will be airdropped 👇
+
+1⃣ Retweet with the hashtag #BonfidaBotCompetition
+2⃣Follow @bonfida
+3⃣Join our Telegram group https://t.co/uNZrruVIVg",291,77,124,2021-05-12
+966,2021-05-14 05:48:36+00:00,1393080787516366850,bonfida,This is the start of something much bigger 👀 https://t.co/WBD18qUOuS,143,16,30,2021-05-14
+968,2021-05-16 03:02:08+00:00,1393763669503135744,bonfida,"Need help associating your @solana address to your Twitter handle? Checkout our guide 👇
+
+- https://t.co/8K4SIDEece
+- https://t.co/gnQyQavsBu",77,6,11,2021-05-16
+975,2021-05-17 11:43:21+00:00,1394257226173325313,bonfida,"In case you missed it the registration for the @ProjectSerum trading competition opened today 👀
+
+Join the Discord: https://t.co/tGoItDT7SU https://t.co/zOmVJClPjD",69,0,12,2021-05-17
+977,2021-05-18 04:37:31+00:00,1394512448841940994,bonfida,"We have had a busy fortnight. 🧐
+
+Want to know what we have been up to? 
+
+Check out our bi-monthly review: 
+
+▶️ @ProjectSerum x Bonfida – Trading Competition Registrations Now Open! 
+
+▶️ Cope Token-Swap Contract Created
+
+▶️ Twitter Naming Service
+
+▶️ Mercurial Finance VC Pools https://t.co/Ja7zRYq48z",45,1,5,2021-05-18
+980,2021-05-19 02:54:09+00:00,1394848823231590402,bonfida,"Lets look at how Bonfida Bots is growing 👀
+
+You can too can create a trading bot on Bonfida.
+
+Interested?  
+
+Get in touch https://t.co/1FPIeoEUjW",14,1,0,2021-05-19
+984,2021-05-20 03:32:09+00:00,1395220773690777604,bonfida,"@timgermer Don't trust verify 👇
+
+https://t.co/qvF1E34e4q",0,1,0,2021-05-20
+988,2021-05-21 03:12:12+00:00,1395578143100968961,bonfida,"It was a pleasure to build the $COPE swap for the @unlimitedcope community 🚀 👇
+
+https://t.co/7mgR9nXCWD",156,13,20,2021-05-21
+994,2021-05-22 20:41:47+00:00,1396204666069811201,bonfida,"Are you following the @bonfida bots trading competition? 🤖
+
+If so, we need your meme expertise. 👇
+
+Create memes, gifs or posters and enter the competition win prizes totaling (500 FIDA + 150 SRM rewards + Solana Swags) https://t.co/n3kQm1CuaL",83,59,32,2021-05-22
+998,2021-05-23 12:54:46+00:00,1396449525586300929,bonfida,"The Bonfida x @ProjectSerum bot trading competition will extend registration till 24th June, which means you can register your bot anytime before it ends.🤖
+
+Feel free to join and show your automated strategies👇
+
+Discord: https://t.co/lDh3ekWTYi
+
+https://t.co/yorbJYZSRE",382,112,192,2021-05-23
+999,2021-05-24 00:00:01+00:00,1396616940899164162,bonfida,You know what time it is? 🧐 https://t.co/vnwSjIWy7l,64,3,6,2021-05-24
+1003,2021-05-25 01:38:51+00:00,1397004202124087297,bonfida,"Just a friendly reminder that, @projectserum has on-chain staking for #FIDA. 👀
+
+Staking is easy and the lock up is only 7 days!
+
+You can see the variable APY% here:  👇https://t.co/WthnkfkgcX",18,2,1,2021-05-25
+1009,2021-05-26 12:49:48+00:00,1397535438462611461,bonfida,"Bonfida x @ProjectSerum Bot Trading Competition - Midweek Ranking👇
+
+Registration still open till 17th June, please feel free to join the discord channel and register your bot 🤖
+
+Discord:  https://t.co/6gFZxxOXrP https://t.co/hAmrTZwjoY",55,1,10,2021-05-26
+1013,2021-05-27 13:41:24+00:00,1397910813046837256,bonfida,"You think you have an edge? Come show your skills in the @ProjectSerum trading competition 👇🏆
+
+- Learn: https://t.co/yorbJYZSRE
+- Join: https://t.co/BZGLh5hLeG
+- Discord: https://t.co/Of4Bik3qxM https://t.co/Pggy1uUdES",31,0,7,2021-05-27
+1014,2021-05-28 01:55:56+00:00,1398095665876541442,bonfida,@criptosai looks good,1,1,0,2021-05-28
+1017,2021-05-29 11:23:58+00:00,1398601004937973762,bonfida,"Did you know that $FIDA buy and burn was decentralized and permissionless? 🤔
+
+https://t.co/IcRYh960KQ https://t.co/z7XARYAoAD",51,2,7,2021-05-29
+1018,2021-05-31 01:05:34+00:00,1399170152113926146,bonfida,"Bonfida – Bimonthly Update:
+Take a 👀
+1️⃣Twitter
+2️⃣MER
+3️⃣ATH’s 🎉
+&amp; More 👇 https://t.co/S4RtyWZovv",48,2,9,2021-05-31
+1020,2021-06-01 09:00:02+00:00,1399651943602028545,bonfida,"🚨 Did you know Bonfida has 24/7 user support in English, Chinese, Turkish, French &amp; Spanish? 👋
+
+Come say hi: https://t.co/tEnFE2KF4U",14,1,2,2021-06-01
+1022,2021-06-02 03:34:04+00:00,1399932298745634819,bonfida,"@CompendiumFi, you ready?  👀
+
+See you at 8PM HK/SGT on Thursday! 
+
+Discussing everything bots, Bonfida and more! 🤟 https://t.co/EBN3pbEomN",5,0,2,2021-06-02
+1025,2021-06-03 10:00:02+00:00,1400391819989557250,bonfida,"Bonfida Bots - Bimonthly Update: 😍
+
+Lets look at a few key stats:
+▶️ TVL in trading bots
+▶️ # Transactions
+▶️ # Bots 🤖 https://t.co/pswBHcXuyW",19,2,2,2021-06-03
+1026,2021-06-06 14:33:38+00:00,1401547838371155972,bonfida,"More than 5,000 people claimed their Twitter handle on the @solana name service🙌
+
+https://t.co/gnQyQavsBu",138,22,23,2021-06-06
+1028,2021-06-07 07:00:00+00:00,1401796066027085824,bonfida,"Need help registering your SOL address?  🧐
+
+Have a look at: 👇
+https://t.co/8K4SIDEece",39,8,2,2021-06-07
+1030,2021-06-08 11:07:13+00:00,1402220665659293703,bonfida,"Happening this Thursday the 10th of June.  🎉
+
+Our second AMA with @OverheadGains taking a deep dive into the technical aspects of creating outstanding bots. 🤖
+
+Join us at 6pm HK/SGT time on our Telegram -  https://t.co/dt15sFMQkg 👋 https://t.co/QhlsYa0Z51",17,0,1,2021-06-08
+1032,2021-06-09 13:34:29+00:00,1402620113103196167,bonfida,"Congrats @CompendiumFi @StEvEnZ75713633 @KntAkai @HawkApe @CryptoJofficial @hottingnut for leading Bonfida x @ProjectSerum Bot Trading Competition
+
+Registration still open till 17th June, please feel free to join the discord channel and register your bot 🤖 https://t.co/PWCBj1PnU0",21,1,4,2021-06-09
+1034,2021-06-10 04:30:57+00:00,1402845717819920384,bonfida,"Tonights special guest - @OverheadGains spent over 400 hours designing one of his bots to make it one of the best performing bots on the market this year.  🙌
+
+Join us tonight for our AMA to figure out exactly the amount of detail that goes into these designs tonight!  🧐 https://t.co/IV2OHe9Qmg",17,1,2,2021-06-10
+1035,2021-06-11 08:00:01+00:00,1403260721371045888,bonfida,"Did you know you can join any trading bot in the Bonfida Trading Competition? 🤖
+
+Simply follow these steps:
+1️⃣Simply visit: https://t.co/Nyey82f4AZ 
+2️⃣Find the bot you want to join.
+3️⃣Click deposit
+4️⃣Done!",16,0,1,2021-06-11
+1036,2021-06-13 05:35:16+00:00,1403949067911135233,bonfida,@AWice @PythNetwork might be looking into it?,4,1,0,2021-06-13
+1038,2021-06-15 10:00:02+00:00,1404740472925396994,bonfida,737738825 266872287 266464 7666 👀,41,15,1,2021-06-15
+1039,2021-06-16 10:00:00+00:00,1405102854554230788,bonfida,"Bonfida Bi-Monthly Update: 👇
+1️⃣ User Support In Several Languages. 🗺️
+2️⃣ AMA Transcripts
+3️⃣ FIDA Buy &amp; Burn :fire:
+4️⃣: What Do The Numbers Mean? https://t.co/fUVwFgEKYT",10,0,0,2021-06-16
+1042,2021-06-17 12:30:39+00:00,1405503153575907340,bonfida,Join the Discord channel now: https://t.co/BNlKxM6VYp,5,0,0,2021-06-17
+1047,2021-06-18 06:26:54+00:00,1405774000760918024,bonfida,"Pools are probably the most underrated primitive of @ProjectSerum and the amount of tokens collected by the $LQID governance has significantly grown over time 👇
+
+- 📖 Learn: https://t.co/34PjKpfL1f
+- 🛠️ Code:  https://t.co/Fn8NFHyhZP
+- 📈 Trade: https://t.co/ovnHowvVBh",23,2,5,2021-06-18
+1050,2021-06-19 07:47:35+00:00,1406156695261237250,bonfida,"🚨 June 30th – 8PM UTC + 8  
+
+Mark Your Calendar! 
+
+👇 https://t.co/FV8zyWap4t",14,1,0,2021-06-19
+1051,2021-06-21 10:00:02+00:00,1406914801041768448,bonfida,"Hey @synthetify, 👋
+
+Wanna do something cool? 👀 https://t.co/88xOdVt4nc",66,2,2,2021-06-21
+1054,2021-06-22 16:48:21+00:00,1407379946763292672,bonfida,"One of the clear benefits of the name service is to have a human readable name that can map to a SOL address. Why does it matter? Because SOL address formats are a barrier to adoption, and having a human readable address facilitates payments",3,1,0,2021-06-22
+1073,2021-06-23 17:07:38+00:00,1407747185957953536,bonfida,".@solana  name service in a few numbers 📈👇
+
+1⃣ +1,200 on-going auctions
+2⃣+5,000 Twitter handles registered
+
+Learn more https://t.co/ou9b0R0zif",42,5,9,2021-06-23
+1082,2021-06-24 13:38:32+00:00,1408056953176170505,bonfida,"Announcing details for the @synthetify VC Pool 🙌
+
+Medium Article: 
+https://t.co/KVag8HtTMf",53,2,14,2021-06-24
+1083,2021-06-25 10:00:01+00:00,1408364349492629504,bonfida,"Thanks to everyone that entered the #BonfidaBotCompetition. 🤖
+
+We have DM’d everyone who made the top 10. 🎉
+
+Please check your inboxes! ✉️",21,4,1,2021-06-25
+1088,2021-06-27 14:48:05+00:00,1409161616805879813,bonfida,Don't forget to participate in @synthetify VC Pool that will open tomorrow at 8pm UTC +8 🙌 https://t.co/whHushuceR,56,3,5,2021-06-27
+1089,2021-06-28 06:26:33+00:00,1409397792829628423,bonfida,Here are some auctions going live on the @solana name service 👇,11,3,0,2021-06-28
+1101,2021-06-29 16:46:36+00:00,1409916221546393602,bonfida,"exchange.sol is being auctioned for 101 USDC 👇
+
+https://t.co/FfN4g957ry",12,2,0,2021-06-29
+1123,2021-06-30 07:34:02+00:00,1410139548659589121,bonfida,"3commas.sol is currently being auctioned  👇
+
+https://t.co/FzcZ29W9gb",7,2,0,2021-06-30
+1142,2021-07-01 13:58:54+00:00,1410598792349437967,bonfida,@timeehh @crypt0taku Are you using Sollet?,0,1,0,2021-07-01
+1159,2021-07-02 19:40:21+00:00,1411047111043403777,bonfida,"Deploy your web app on @IPFS and the @solana name service with only one command line 👇
+
+https://t.co/FAF6L9Jucp https://t.co/XQZlViIM9q",31,4,7,2021-07-02
+1175,2021-07-03 09:39:05+00:00,1411258182601613316,bonfida,"The CLI now supports Arweave 👇
+
+https://t.co/FAF6L9Jucp
+@ArweaveTeam https://t.co/K03YfCEuDT",34,2,9,2021-07-03
+1178,2021-07-04 16:48:59+00:00,1411728757241434117,bonfida,"💎🤚.sol is currently being auctioned 👇
+
+https://t.co/GsxrfgkZxE",8,1,0,2021-07-04
+1189,2021-07-05 19:19:52+00:00,1412129118196420609,bonfida,"Did you know $FIDA buy and burn was made permissionless and decentralized? 🤔🔥
+
+https://t.co/lNWN8SVW17",19,0,0,2021-07-05
+1195,2021-07-06 13:10:18+00:00,1412398502055841794,bonfida,"🚨Upcoming Listing: SOLRISE (SLRS/USDC) 🚨
+
+Trade it the moment it goes live on @FTX directly on Bonfida. 🎉
+
+https://t.co/Gf4a8LwqYA",7,0,2,2021-07-06
+1199,2021-07-07 16:52:53+00:00,1412816903257526273,bonfida,"Learn about DNS record specifications in the @solana name service 👇
+
+https://t.co/obqAFeVHmX",18,1,3,2021-07-07
+1202,2021-07-08 06:39:27+00:00,1413024914924216322,bonfida,"@a_milz 1kB is probably enough for 99% of users, if you ever hit the limit you can always use subdomains (feature coming soon)",5,3,0,2021-07-08
+1210,2021-07-09 16:23:05+00:00,1413534178616827906,bonfida,@TSolserer 👀,1,0,0,2021-07-09
+1222,2021-07-10 09:00:00+00:00,1413785063116918784,bonfida,"🚨 Interesting in staking on @projectSerum but don’t know where to start? 🧐
+
+Have a read of our comprehensive user guide to get started: 👇
+
+https://t.co/M4ylrKocXM",12,0,0,2021-07-10
+1223,2021-07-11 18:41:15+00:00,1414293729129615362,bonfida,"tipuana.sol - https://t.co/dTafWWegEv 
+💃🏻.sol - https://t.co/hnyIfaXLt2💃🏻",1,0,0,2021-07-11
+1228,2021-07-12 01:00:00+00:00,1414389042561511427,bonfida,"Did you know that 10% of all FIDA’s Buy &amp; Burn go directly to those who stake on @ProjectSerum ?   👀
+
+½ of that is locked FIDA and another ½ is unlocked. 
+
+*Locked tokens start linearly unlocking from 2022 onwards 
+Find out more:   🎉
+
+https://t.co/afENhDtMDY",9,0,2,2021-07-12
+1235,2021-07-13 14:40:08+00:00,1414957822618521602,bonfida,@BoringProtocol @armaniferrante Want to DM me?,3,1,1,2021-07-13
+1239,2021-07-14 02:00:00+00:00,1415128918168768513,bonfida,Show us your .SOL domain names? 💪,67,40,4,2021-07-14
+1243,2021-07-15 14:41:26+00:00,1415682927237632000,bonfida,It's also the first protocol to solve the imbalance between longs and shorts in the vAMM model by introducing a self-rebalancing mechanism ⚖️,18,1,1,2021-07-15
+1257,2021-07-16 16:38:19+00:00,1416074729799118849,bonfida,Cross-collateralization is coming,46,2,1,2021-07-16
+1267,2021-07-17 11:33:17+00:00,1416360351415693312,bonfida,"New trading mode available: Isolated Positions
+
+You can have several isolated positions on the same market or only one. https://t.co/4H65xNMrzE",15,1,1,2021-07-17
+1278,2021-07-18 17:42:18+00:00,1416815607048146945,bonfida,@_vves Losing bids can be cancelled https://t.co/73NohSXPRH,1,1,0,2021-07-18
+1279,2021-07-19 12:19:55+00:00,1417096863619055619,bonfida,"Hey @ledgerstatus 👋
+
+We pre-reserved your @solana domain name, how can we transfer it to you?",16,3,0,2021-07-19
+1283,2021-07-20 01:00:00+00:00,1417288145314336768,bonfida,"Did you know Bonfida has its own YouTube Channel? 🧐
+
+We will be uploading tutorials there and hosting our YouTube lives there. 🎉
+
+Feel free to subscribe: 👇
+https://t.co/PkzX2pI2g9",18,1,2,2021-07-20
+1289,2021-07-21 08:38:22+00:00,1417765883796021250,bonfida,💪 https://t.co/dU6k1mDQn3,6,0,0,2021-07-21
+1294,2021-07-22 02:00:01+00:00,1418028023199068161,bonfida,"⏰
+Any funds that remain in the OXY IDO pool after the 31st of July will be put towards a Buy &amp; Burn. 
+🔥 https://t.co/jXVmIsYkKh",4,0,0,2021-07-22
+1303,2021-07-23 10:00:00+00:00,1418511206499995652,bonfida,"Hey @mattysino , I heard you have a @solana domain name 👀 https://t.co/MVzG07OCeq",27,2,0,2021-07-23
+1306,2021-07-24 06:19:25+00:00,1418818079354540033,bonfida,"Hey @inversebrah 👋
+
+We pre-reserved your @solana domain name, how can we transfer it to you?",19,3,2,2021-07-24
+1310,2021-07-25 12:59:25+00:00,1419281129945722881,bonfida,"Seeing some new names on the leaderboard 👀
+
+https://t.co/LUBniVAuW2 https://t.co/YzbiX3cCff",16,0,0,2021-07-25
+1311,2021-07-26 15:48:23+00:00,1419686040235769858,bonfida,@EvgenyGaevoy Is the twitter link you entered valid? Want to DM about this?,3,1,0,2021-07-26
+1318,2021-07-27 06:46:07+00:00,1419911963304357893,bonfida,"(1/2) Less than 24h until the @unlimitedcope x Bonfida trading competition on @solana kicks off.
+
+Top 10 volume will share in 45k USD in FIDA &amp; COPE. 🎉
+
+To participate do the following:",45,1,8,2021-07-27
+1322,2021-07-28 10:00:01+00:00,1420323148369629184,bonfida,"🚨 Did you know you could get 10% of fees when someone uses your referral when trading perps on Bonfida? 🎉
+
+Find out more: 
+
+https://t.co/e9Da5d4AYs https://t.co/AQGc7iGDCs",11,1,0,2021-07-28
+1332,2021-07-29 00:11:05+00:00,1420537326753566720,bonfida,"⏰
+Any funds that remain in the OXY IDO pool after the 31st of July will be put towards a Buy &amp; Burn. 
+🔥 https://t.co/9bJkibakCR",3,0,1,2021-07-29
+1334,2021-07-30 13:32:26+00:00,1421101378672369675,bonfida,@ftr_finance @solana @unlimitedcope You can check this REST API server https://t.co/grWhUyXisW,0,0,0,2021-07-30
+1341,2021-07-31 00:00:01+00:00,1421259315147526145,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  Gib.Sol
+4️⃣  @MrShortBus
+5️⃣  @Hunter_bon",6,0,1,2021-07-31
+1343,2021-08-01 00:00:00+00:00,1421621699187929090,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  Gib.Sol
+4️⃣  @MrShortBus
+5️⃣  @hunter_bon",11,3,0,2021-08-01
+1345,2021-08-02 11:29:22+00:00,1422157573927497732,bonfida,"A new name appeared on the leaderboard👀
+
+Want to get updated on domain names being auctioned?🤔
+
+Subscribe to https://t.co/qLd8968fnR🙌 https://t.co/tkoEIBq2Am",18,0,1,2021-08-02
+1347,2021-08-03 00:00:00+00:00,1422346474894073865,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  Gib.Sol
+4️⃣  @MrShortBus
+5️⃣  @SpiralSwap",17,1,0,2021-08-03
+1351,2021-08-04 05:32:40+00:00,1422792582480945152,bonfida,People currently staking on FTX can unstake their $FIDA and stake it on https://t.co/zj1YPf34wB,8,2,1,2021-08-04
+1360,2021-08-05 00:00:01+00:00,1423071257466064896,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  Gib.Sol
+4️⃣  @MrShortBus
+5️⃣  @SpiralSwap",13,1,2,2021-08-05
+1363,2021-08-06 00:00:01+00:00,1423433643326726144,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  Gib.Sol
+4️⃣  @SpiralSwap
+5️⃣  @MrShortBus",6,0,0,2021-08-06
+1366,2021-08-07 00:00:01+00:00,1423796031720988678,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  Gib.Sol
+4️⃣  @SpiralSwap
+5️⃣  @MrShortBus",6,0,3,2021-08-07
+1367,2021-08-08 16:38:38+00:00,1424409728780668931,bonfida,🥳 https://t.co/yLNSAKP0Tx,30,1,1,2021-08-08
+1370,2021-08-09 00:00:01+00:00,1424520807284305920,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  Gib.Sol
+4️⃣  @SpiralSwap
+5️⃣  @MrShortBus",9,1,1,2021-08-09
+1374,2021-08-10 00:00:00+00:00,1424883190896934922,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  @MrShortBus
+4️⃣  @SpiralSwap
+5️⃣  Gib.Sol",14,1,2,2021-08-10
+1379,2021-08-11 22:19:07+00:00,1425582577008611331,bonfida,"@DraconisVox @ShanksR2011 @ESP100x @ProjectSerum @solana V2 would be very similar to V1. 
+
+Once its launched we will develop a new tutorial for users.",2,0,0,2021-08-11
+1384,2021-08-12 00:00:00+00:00,1425607968016539651,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  @MrShortBus
+4️⃣  @SpiralSwap
+5️⃣  Gib.Sol",18,2,1,2021-08-12
+1387,2021-08-13 00:00:01+00:00,1425970357521960960,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  @MrShortBus
+4️⃣  @SpiralSwap
+5️⃣  Gib.Sol",14,1,1,2021-08-13
+1391,2021-08-14 00:00:01+00:00,1426332745731477505,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  @MrShortBus
+4️⃣  @SpiralSwap
+5️⃣  Gib.Sol",10,3,1,2021-08-14
+1392,2021-08-15 03:00:29+00:00,1426740552507084800,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  @SpiralSwap
+4️⃣  @MrShortBus
+5️⃣  Gib.Sol",16,3,1,2021-08-15
+1395,2021-08-16 00:00:01+00:00,1427057522947629058,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  @SpiralSwap
+4️⃣  @MrShortBus
+5️⃣  Gib.Sol",12,1,1,2021-08-16
+1400,2021-08-17 11:44:17+00:00,1427597144446275585,bonfida,"New ATH again 🚀
+
+Join the trading competition and win some $COPE and $FIDA 🥳
+
+https://t.co/riFyr5J9ah https://t.co/IABxNCBuuO",37,2,4,2021-08-17
+1406,2021-08-18 00:00:00+00:00,1427782295348387850,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  @SpiralSwap
+4️⃣  @MrShortBus
+5️⃣  @fuckingCfucks",14,3,2,2021-08-18
+1408,2021-08-19 00:00:00+00:00,1428144682576482307,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  @SpiralSwap
+4️⃣  @MrShortBus
+5️⃣  @fuckingCfucks",12,2,1,2021-08-19
+1411,2021-08-20 08:00:01+00:00,1428627869614235656,bonfida,"It’s Friday, so let’s have some fun, show us your .SOL Domain names! 🙌",91,38,6,2021-08-20
+1415,2021-08-21 00:00:01+00:00,1428869460346085379,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  @SpiralSwap
+4️⃣  @MrShortBus
+5️⃣  @fuckingCfucks",8,2,1,2021-08-21
+1417,2021-08-22 03:15:31+00:00,1429281049247322116,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  @SpiralSwap
+4️⃣  @MrShortBus
+5️⃣  @fuckingCfucks",18,1,1,2021-08-22
+1419,2021-08-23 04:00:00+00:00,1429654632599482369,bonfida,"🚨 Bonfida Bi-Weekly Updates
+Key updates this fortnight:
+1️⃣ Largest Buy &amp; Burn :fire:
+2️⃣ Audaces Trading Competition
+3️⃣ Audaces Volume ATH
+4️⃣ Phantom &amp; Sollet Integrations
+5️⃣ 🐺 https://t.co/G1LFvAUv2b",19,3,4,2021-08-23
+1424,2021-08-24 11:07:06+00:00,1430124500947898371,bonfida,"Launching @dukunbitcoin 's strategy Dukun Cloud on Bonfida Bots 🎉
+
+Go and check it out at 👇
+
+https://t.co/1Rkr1cwl8t https://t.co/klMRVvUzRL",18,3,6,2021-08-24
+1430,2021-08-25 00:00:00+00:00,1430319010508328965,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  @SpiralSwap
+4️⃣  @MrShortBus
+5️⃣  @fuckingCfucks",13,1,2,2021-08-25
+1433,2021-08-26 00:00:00+00:00,1430681397635604485,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  @SpiralSwap
+4️⃣  @MrShortBus
+5️⃣  @fuckingCfucks",8,1,3,2021-08-26
+1436,2021-08-27 00:00:00+00:00,1431043785929023491,bonfida,"Top 5 accounts of the perps trading competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  Cope.Sol
+3️⃣  @SpiralSwap
+4️⃣  @MrShortBus
+5️⃣  @fuckingCfucks",15,2,5,2021-08-27
+1439,2021-08-28 00:00:01+00:00,1431406179029295104,bonfida,"competition on 
+@solana 👇
+
+1️⃣  🏜.Sol
+2️⃣  @OdokeiBK
+3️⃣  Cope.Sol
+4️⃣  @SpiralSwap
+5️⃣  @Doraemon_defi",19,1,4,2021-08-28
+1440,2021-08-29 04:04:25+00:00,1431830071707197450,bonfida,@unlimitedcope @solana The rewards will be sent to the associated addresses of your .SOL domain name or @twitter handle.,6,0,1,2021-08-29
+1445,2021-08-30 03:35:47+00:00,1432185251321847809,bonfida,@yakunsb @unlimitedcope @solana @doraemon_defi @OdokeiBK @SpiralSwap @fuckingCfucks @MrShortBus @inside_eren_TR Prizes will be distributed in the next 24h,0,0,0,2021-08-30
+1448,2021-09-01 23:57:40+00:00,1433217524821336068,bonfida,"@chukie009 @ProjectSerum Hi @chukie009 , 
+
+Join us on our Discord - https://t.co/O4BfM1scTt
+
+One of our community managers would be able to help you with this.",1,0,0,2021-09-01
+1453,2021-09-02 06:00:00+00:00,1433308710584000628,bonfida,"The Wolves will start their journey this Monday.
+
+Want to know more about the Bonfida Wolves?  🐺
+
+Visit below: 👇
+
+https://t.co/060TMk7elo",11,3,5,2021-09-02
+1455,2021-09-03 08:13:04+00:00,1433704585877757952,bonfida,Get ready for the new skin of the @solana name service 🔥 https://t.co/j68I36seVC,158,9,22,2021-09-03
+1459,2021-09-04 14:21:25+00:00,1434159669052723201,bonfida,"30 day trading volume of Audaces perpetual breaks $70,000,000 USDC 🎉
+
+What’s next? 🤔 https://t.co/EHqVFcJCXA",45,3,6,2021-09-04
+1461,2021-09-06 16:55:11+00:00,1434923144951726083,bonfida,"Did you know you could trade on-chain perps on @solana ? 🤔👇
+
+https://t.co/DgdvPksyUW",25,3,3,2021-09-06
+1467,2021-09-07 04:00:01+00:00,1435090452085157891,bonfida,"Interested in purchasing a @solana Domain Name and not quite sure where to begin? 🧐
+
+Don’t worry, we’ve got you covered.  🙌
+
+Watch Part-1 of our tutorial below: 👇
+
+https://t.co/JqRVZDSPM0",33,6,5,2021-09-07
+1468,2021-09-08 04:00:00+00:00,1435452836918095875,bonfida,"Interested in learning to setup your @solana Domain Name? 🧐
+
+Don’t worry, we’ve got you covered.
+
+Watch Part-2 of our tutorial below: 👇
+
+https://t.co/PW75Bs9mxA",13,4,1,2021-09-08
+1472,2021-09-09 11:09:49+00:00,1435923392599760898,bonfida,"Spot new names on the leader board of the @solana Name Service 👀
+
+Did @StephenCurry30 win the domain name? 😉 https://t.co/NAnZP1a4r3",32,10,4,2021-09-09
+1476,2021-09-10 01:23:04+00:00,1436138118629900303,bonfida,@name_fave @solana @StephenCurry30 Please get in touch on our Discord and one of our community managers will be able to help you with this.,1,0,0,2021-09-10
+1480,2021-09-11 10:00:02+00:00,1436630605211611138,bonfida,"👋
+
+Interested in running a UI for the Audaces protocol? 
+
+Check out the open source UI 👇
+
+https://t.co/CWStWek3BN",63,190,7,2021-09-11
+1481,2021-09-12 12:02:07+00:00,1437023717276651521,bonfida,"Audaces was the first perpetuals protocol on @solana, give it a try here 👇
+
+https://t.co/mPSREYeXSe",10,0,2,2021-09-12
+1486,2021-09-13 01:26:58+00:00,1437226262523637761,bonfida,"👋
+
+It's awesome to see community content produced by the 🐺's.
+
+Find out more: 👇
+
+https://t.co/060TMk7elo https://t.co/J4hjj20Mxe",11,1,4,2021-09-13
+1488,2021-09-14 14:25:40+00:00,1437784620712566790,bonfida,"Check out the new skin of @solana Name Service at 👇
+
+https://t.co/snLkp8DZ8V https://t.co/oHsMLjP4KD",42,21,6,2021-09-14
+1495,2021-09-15 10:00:02+00:00,1438080155650506758,bonfida,"🚨 Bonfida Bi-Weekly Updates 🚨
+
+Key updates this fortnight:
+
+1️⃣ New Integrations
+2️⃣ 🐺
+3️⃣ @unlimitedcope x Bonfida Trading Compeition
+4️⃣ Bonfida Bot V2 https://t.co/xpTzR7aplb",9,2,2,2021-09-15
+1498,2021-09-17 10:00:01+00:00,1438804928278011905,bonfida,"Bonfida Bots V2 will allow users on Audaces to implement Stop-Losses &amp; Take Profits via TradingView API. 👀
+
+This makes it the most complete perps trading platform on @solana. 🙌
+
+Stay tuned 🚨",71,15,5,2021-09-17
+1500,2021-09-18 11:31:59+00:00,1439190460984176640,bonfida,"@raresloth ""Min bid"" can either the current top bid or the minimum bid asked by the seller if there is no bid yet. In this case nobody is bidding at this price, it's the minimum bid asked by the seller.",0,0,0,2021-09-18
+1501,2021-09-19 05:54:10+00:00,1439467832803090435,bonfida,@connan_james ❤️,4,1,0,2021-09-19
+1504,2021-09-20 13:10:09+00:00,1439939941992222722,bonfida,"Today around UTC 13:22, the @PythNetwork  oracle's BTC/USD price feed suffered a flash crash with the price of $BTC going as low as $8k. This caused a series of liquidation events on the Audaces protocol BTC-PERP market (unfortunately working as intended).",366,85,67,2021-09-20
+1508,2021-09-21 03:21:26+00:00,1440154171987038211,bonfida,"The two bad quoters responsible for @PythNetwork flash crash that lasted for several @solana slots are:
+
+https://t.co/TpjsT9AXHO
+https://t.co/ADVSdsyIa6
+
+TX records: https://t.co/TV1zgEJjj1 https://t.co/FhyppSfxk8",8,1,0,2021-09-21
+1511,2021-09-24 10:00:01+00:00,1441341643550904332,bonfida,"👋 Its Friday! Lets do some trivia.
+
+So what was the most expensive @solana Domain Name sold YTD? 👀",15,8,2,2021-09-24
+1512,2021-09-25 03:05:59+00:00,1441599839175806979,bonfida,@helenenilly @solana @theRealShevos Reach out to our Community Managers on our Discord and they will be best able to assist you.,0,1,0,2021-09-25
+1515,2021-09-27 10:00:02+00:00,1442428810700345346,bonfida,"👋
+Interested in becoming a Bonfida 🐺 ?
+
+We are seeking 🐺 's that are fluent in Vietnamese, Indonesian, Korean, Portuguese to assist in translating tasks.
+
+Could this be you? 👀
+
+Find out more 👇
+
+https://t.co/1EY2KjUp8i",17,8,1,2021-09-27
+1517,2021-09-28 06:40:07+00:00,1442740889646862339,bonfida,"@ProjectSerum (2/2) 
+
+For this month only, instead of rewards being paid out in locked and unlocked FIDA we will reward stakers with unlocked FIDA as a gesture to thank you for your support. 🙌
+
+To accommodate this change 100% of eligible fees will be allocated to the monthly Buy &amp; Burn. 🔥",13,1,1,2021-09-28
+1520,2021-09-29 08:26:27+00:00,1443130038732345344,bonfida,"You can now use the @solana name service to find SPL token information 👇
+
+https://t.co/sTAq0HdtpF https://t.co/CucDRNsoUa",86,9,7,2021-09-29
+1524,2021-09-30 09:00:00+00:00,1443500868469362690,bonfida,"New to Bonfida? 👀
+
+We have a Community Help Centre that will help you use and understand the range of products we have.
+
+If you want to engage with the team about any questions you may have get in touch with our communities. 🙌
+
+👉 Community Help Centre:
+https://t.co/RRDP2FzCEc",25,5,7,2021-09-30
+1528,2021-10-01 04:00:00+00:00,1443787756983959554,bonfida,"👋
+Here is another great Turkish translation by @inside_eren_TR. 🐺
+
+Here he has translated our Serum Stories interview discussing the Asset Agnostic Orderbook (AOB).
+
+👉  https://t.co/pRRXppXs39",14,0,1,2021-10-01
+1531,2021-10-02 07:06:19+00:00,1444197033175257091,bonfida,"@EricLBH @solana 👋
+
+It will be under my-bids section. 
+
+You can join us on our Discord and our Community Managers will be able to assist you.",0,0,0,2021-10-02
+1534,2021-10-04 03:35:39+00:00,1444868795139428355,bonfida,"(2/2)
+
+🐺's on this journey earn points towards the monthly #FIDA prize.
+
+Interested in the joining the wolfpack? 👀
+https://t.co/060TMk7elo",3,0,0,2021-10-04
+1537,2021-10-05 06:15:00+00:00,1445271282405289988,bonfida,"Still stuck using an unrecognizable wallet address to send and receive payments? 🧐
+
+Why not get a @Solana Domain Name to simplify the process! 🙌
+
+👉  https://t.co/uuiZqWq3RT https://t.co/gaOSHCR3NZ",30,4,7,2021-10-05
+1538,2021-10-06 11:28:21+00:00,1445712527388594191,bonfida,"Check out the top 50 domain names of the @solana name service 👇
+https://t.co/BPzH5MBmcU
+
+Register your domain name now 🙌
+https://t.co/20MFCC2Use https://t.co/XnPMybgaM2",14,11,3,2021-10-06
+1539,2021-10-07 11:36:05+00:00,1446076863403671552,bonfida,"@dumbcontract2 The token registry is already on-chain:
+
+- Doc: https://t.co/HgeycX1OV3
+- UI: https://t.co/sTAq0HdtpF",3,0,0,2021-10-07
+1540,2021-10-08 03:22:36+00:00,1446315061618774019,bonfida,"@solflare_wallet now supports the @solana Name Service 🎉
+
+Register your domain name at 👇
+https://t.co/20MFCC2Use
+
+Start using a .sol domain name to directly send SPL tokens 🥳 https://t.co/qGT0rIAWFd",7,2,1,2021-10-08
+1542,2021-10-10 09:55:25+00:00,1447138694062764035,bonfida,"👋 Happy Sunday!
+
+@solana Name Service now offers ""Buy Now"" option for resales. 🙌
+
+Find out more about .SOL domain name resales 👇
+https://t.co/HlvXPtssWV",42,4,6,2021-10-10
+1543,2021-10-11 05:10:00+00:00,1447429251771207682,bonfida,"🚨 Bonfida - September Exclusive 🙌
+1️⃣ @binance  Listing 🎉
+2️⃣ The Asset Agnostic Order Book :books:
+3️⃣ Staking 🔐
+4️⃣ @solana  Name Service - Buy Now 💲
+5️⃣ Monthly Buy &amp; Burn :fire:
++ Much more
+👇
+https://t.co/cyGTzJWteD",25,3,4,2021-10-11
+1544,2021-10-12 08:16:15+00:00,1447838510413594628,bonfida,"Now you can directly send SPL tokens via .sol domain names through @phantom, @solflare_wallet and @slope_finance, and easily recognize the NFT owner by @solana domain names on @SolanartNFT 🙌
+
+Register your domain name at 👇
+https://t.co/20MFCC2Use https://t.co/dmphH89Wiz",304,62,57,2021-10-12
+1545,2021-10-13 09:03:23+00:00,1448212761339703296,bonfida,On-chain messaging app coming soon on the @solana name service 👀,187,17,24,2021-10-13
+1546,2021-10-14 12:24:38+00:00,1448625795849543686,bonfida,Imagine being paid to receive DMs on your @solana domain name 👀,103,26,11,2021-10-14
+1548,2021-10-15 04:19:40+00:00,1448866139375689731,bonfida,"(1/2)
+
+👋 Happy Friday!
+
+The Bonfida Wolfpack will share in 30 Golden Tickets from @SolriseFinance to participate in the DAWN 2, Phase 1. 🙌
+
+This is an exclusive trading competition held on their mainnet with real funds! https://t.co/gPBl3fzWH5",21,1,6,2021-10-15
+1555,2021-10-16 03:45:32+00:00,1449219935188652032,bonfida,"👋 What can you do with your NFTs? 👀
+
+Get your @solana Domain Name today 👇
+
+https://t.co/snLkp8mnKl https://t.co/XtZEos8ZZI",33,7,3,2021-10-16
+1556,2021-10-18 09:58:52+00:00,1450038663132237830,bonfida,"Congrats the following for winning the Golden Tickets from @SolriseFinance to participate in the DAWN 2, Phase 1 🙌
+imatemu.sol
+bmac.sol
+bigpete.sol
+mika.sol
+jedi.sol
+kylin.sol
+eussi.sol
+liquidated.sol
+wamba.sol
+gregcai.sol https://t.co/Ef9lq8FYk4",15,3,2,2021-10-18
+1559,2021-10-19 08:44:56+00:00,1450382445711400961,bonfida,@Mo_Jola It's up https://t.co/CxkUqyYn8U,0,1,0,2021-10-19
+1561,2021-10-20 10:44:06+00:00,1450774821491470342,bonfida,"We're excited to announce that you can send on-chain messages via the @solana Name Service. 🎉
+
+Find out more: 👇
+
+https://t.co/1JKfL99BUH",43,8,13,2021-10-20
+1564,2021-10-21 05:02:18+00:00,1451051195296927756,bonfida,"🚨 Did you know that @solana Domain Names grew by a factor of 10 in Q3? 🎉
+
+Don't miss out. Get your .SOL name today 👇
+
+https://t.co/snLkp8mnKl",65,8,8,2021-10-21
+1565,2021-10-23 15:53:31+00:00,1451939854707609604,bonfida,@nickfrosty https://t.co/XjDa02R5Sm,0,1,0,2021-10-23
+1566,2021-10-24 22:33:25+00:00,1452402877750595585,bonfida,"(1/2)
+
+👋 Lets take a 👀 at the @Solana Name Service. 
+
+It launched 3 months ago, with its sole feature of sending &amp; receiving payments to a custom .SOL domain address. 
+
+In that quarter the amount of .SOL domain names grew by 10x. 🎉 https://t.co/pkpV9aQXaM",44,5,6,2021-10-24
+1568,2021-10-25 15:40:01+00:00,1452661230003376132,bonfida,@moreSOL2K Has been available since the beginning https://t.co/XjDa02R5Sm,2,0,0,2021-10-25
+1572,2021-10-26 04:18:53+00:00,1452852206747586560,bonfida,"You can now see the domain names owned by an address on the @solana explorer 👀
+
+Don't have a domain name yet? 
+
+Get one 👇
+https://t.co/nY7EvCdcuP https://t.co/5Ye2xZAWFM",73,10,14,2021-10-26
+1577,2021-10-28 04:51:51+00:00,1453585277088272402,bonfida,"🚨 Bonfida - Monthly Recap
+
+1️⃣ @slope_finance &amp; @SolriseFinance integrate to SNS. 🙌
+2️⃣ @binance lists #FIDA 🤝
+3️⃣ @solana token registry is now on-chain
+4️⃣ @orca.so launches FIDA/SOL pool 🐳
+
++ More https://t.co/d6R5yLl0JJ",30,2,3,2021-10-28
+1578,2021-10-29 06:35:54+00:00,1453973851138785286,bonfida,"🚨
+
+Did you know?
+
+That a @solana Domain Name is the easiest way to transact with others on the Solana blockchain. 🙌
+
+Get yours today 👇
+
+https://t.co/snLkp8mnKl https://t.co/CGf9Qg3cbt",29,10,5,2021-10-29
+1580,2021-10-30 01:50:46+00:00,1454264484260843525,bonfida,@windkoh https://t.co/G1oCwCPAZF,2,1,0,2021-10-30
+1581,2021-10-31 03:30:32+00:00,1454651980622667777,bonfida,@therealwhish For whish.sol it's BeBxnYkYCjfKY4CcVmNq2gwuv3YF4z1Uh2hekNs4q8LK and the owner of this account is https://t.co/4Y9rJHgphT. You can contact him using the on-chain messaging app of the name service https://t.co/EBo9s4edls,1,0,0,2021-10-31
+1583,2021-11-01 10:13:41+00:00,1455115822519578625,bonfida,"👋
+Bonfida artık Türk topluluğuna adanmış bir kanal sunmaktadır.
+
+👇
+https://t.co/sW6wUP9M9r",13,2,3,2021-11-01
+1585,2021-11-02 13:24:40+00:00,1455526273682452483,bonfida,"Do you know that you can monetize your work and be paid in SOL to interact with your fans? 🤔
+
+Start exploring the messaging app 👇
+https://t.co/EBo9s4vOK2 https://t.co/y2i0fBkiK0",33,1,3,2021-11-02
+1586,2021-11-03 07:13:08+00:00,1455795160642572288,bonfida,"Do you know that the on-chain messaging app has many use cases? 🤔
+
+Start exploring the messaging app 👇
+https://t.co/EBo9s4edls https://t.co/cmY3EAqMOy",43,34,5,2021-11-03
+1587,2021-11-04 03:17:23+00:00,1456098222221430785,bonfida,"🤫👇
+
+https://t.co/nY7EvCuNTp https://t.co/3vZlDp1cUb",43,6,6,2021-11-04
+1590,2021-11-05 15:45:08+00:00,1456648785631744000,bonfida,3⃣Here you are required to insert the .SOL domain name. Once you have correctly inserted the .SOL domain name you can click “Start Conversation.” https://t.co/T4hWKPYnZJ,8,1,0,2021-11-05
+1600,2021-11-06 06:43:41+00:00,1456874915676581888,bonfida,"🚨 Bonfida Exclusive #3 🚨
+
+October Recap: 👇
+
+1️⃣ Messaging App 
+
+2️⃣ Dawn 2 @SolriseFinance Beta 🌄
+
+3️⃣ @ProjectSerum Core 🔥
+
+4️⃣ @solana Explorer SNS integration ⛓️
+
+5️⃣ @OverheadGains KOL Spotlight 🤖
+
++ More 👇
+
+https://t.co/hICwbZn97S",35,5,2,2021-11-06
+1602,2021-11-08 11:22:46+00:00,1457669921983270918,bonfida,"🚨  A .sol domain name is the standard on the @solana blockchain.
+
+Don't get FOMO
+
+Get yours today! 👇
+
+https://t.co/snLkp8mnKl https://t.co/VE8k4O1P4I",209,51,43,2021-11-08
+1605,2021-11-09 12:46:24+00:00,1458053357008928775,bonfida,"Curious about the difference between @solana name service and @ensdomains? 🤔
+
+Check out the comparison chart 👇
+
+More importantly, start registering your .sol domain names at 
+https://t.co/20MFCC2Use https://t.co/Sx1uneN4VA",420,113,122,2021-11-09
+1607,2021-11-10 10:33:18+00:00,1458382250362478593,bonfida,"If you are an exchange and would like to integrate the @solana name service for your deposits and withdrawals please reach out to us we can help you! 
+
+@SBF_FTX @FTX_Official 👀",120,12,17,2021-11-10
+1611,2021-11-11 09:22:21+00:00,1458726784061509635,bonfida,@naynim_ You cannot sign a transaction with your public key,0,2,0,2021-11-11
+1619,2021-11-12 01:00:01+00:00,1458962755487207428,bonfida,"@SolanaTip , welcome to the Bonfida Ecosystem. 🔥 https://t.co/VB0kglMEtH",0,0,0,2021-11-12
+1622,2021-11-13 01:00:00+00:00,1459325137434517508,bonfida,"@SolanaTip , welcome to the Bonfida Ecosystem. 🔥 https://t.co/Yq3vfCgosn",2,0,0,2021-11-13
+1625,2021-11-14 13:57:34+00:00,1459883208430866437,bonfida,What are your favourite apps? 👀 https://t.co/OtuZSAG8A4,63,10,1,2021-11-14
+1628,2021-11-15 09:42:25+00:00,1460181385130303489,bonfida,Upgrade coming in 1h30mins⏰ https://t.co/uAOVG6tXhn,25,2,2,2021-11-15
+1633,2021-11-16 13:03:10+00:00,1460594290980052995,bonfida,Who would you want to send your first on-chain message to on your mobile? 👀 https://t.co/MdWFj0xHpx,56,7,7,2021-11-16
+1639,2021-11-17 12:13:19+00:00,1460944134584164356,bonfida,What's coming next? 👀 https://t.co/3QVrkGwYp5,173,17,15,2021-11-17
+1658,2021-11-18 13:27:30+00:00,1461325190093180928,bonfida,"Use a .sol domain name to send SPL tokens via @phantom, @slope_finance, @solflare_wallet and sollet wallets.
+
+Get your domain names at 👇
+https://t.co/20MFCC2Use https://t.co/DjCc6pNbiv",66,12,10,2021-11-18
+1666,2021-11-19 05:14:10+00:00,1461563426849710080,bonfida,"👋
+
+Welcome to the @solana Name Service.
+
+Your .SOL domain is your unique ID to the Metaverse. 
+
+🙌
+
+Get yours today: https://t.co/snLkp8mnKl https://t.co/bZyRyvSrO1",133,24,24,2021-11-19
+1668,2021-11-20 11:08:00+00:00,1462014861945323525,bonfida,Guess who will be the guest for the first on-chain AMA on @solana? https://t.co/HrTMpSMUOo,52,13,5,2021-11-20
+1669,2021-11-21 11:04:40+00:00,1462376410794708995,bonfida,"👋 @grapeprotocol.
+
+It's awesome that over 100k of your verified users can now register their Twitter handle using the @solana name service from your dashboard. 🔥
+
+Read more: 👇
+
+https://t.co/6LuhMVgXxA",161,11,28,2021-11-21
+1670,2021-11-22 10:49:31+00:00,1462734986411274240,bonfida,@nanospoon @yelllownate 👀🤫 https://t.co/GCeTFSyB1m,8,2,0,2021-11-22
+1672,2021-11-23 12:07:35+00:00,1463117020346474499,bonfida,"More than 10k Twitter handles have been registered on the @solana name service. Probably nothing.
+
+Get yours 👇
+
+https://t.co/QISIxLmt0P https://t.co/3bfzsJ1vAB",113,30,14,2021-11-23
+1673,2021-11-24 14:11:44+00:00,1463510652341813257,bonfida,TL;DR: The entire tweet thread is clearly biased and centred around the argument that .eth  is reserved for the Ethiopian government - which is irrelevant in this context.,16,1,0,2021-11-24
+1684,2021-11-25 13:44:12+00:00,1463866109073891330,bonfida,"1⃣ Get a domain name https://t.co/Oh829gsNEW
+2⃣ Get the Jabber app
+3⃣ Send E2E encrypted messages on @solana 📨
+
+- iOS: https://t.co/JevtWfV4o0
+- Android: https://t.co/CJyN1swEu4",31,4,5,2021-11-25
+1686,2021-11-26 02:20:06+00:00,1464056339047403523,bonfida,Look forward to collaborating together 💪 https://t.co/H802MXRVf2,74,0,6,2021-11-26
+1689,2021-11-27 04:43:11+00:00,1464454733712658438,bonfida,"Interested in building on @ProjectSerum? Checkout what's coming soon on mainnet 👇
+
+- Serum Core: https://t.co/b5QQa6eqb5
+- Serum DEX v4: https://t.co/txT4HFxOP8",81,7,13,2021-11-27
+1691,2021-11-28 08:56:16+00:00,1464880812688437248,bonfida,"👋
+
+Interested to see where you can use your .sol domain name?
+
+Take a look 👇
+
+https://t.co/exLQB2BqP5",64,18,14,2021-11-28
+1692,2021-11-29 16:32:42+00:00,1465358065125892097,bonfida,"Join via the group address 👇
+
+DqpZxeRXdp5DsQwRDG7tgKgp8A3YeXSP6NYNnS4yrFku",2,2,1,2021-11-29
+1697,2021-11-30 04:06:48+00:00,1465532741231857665,bonfida,This Wednesday blockchain history will be made on @solana 👀 https://t.co/ccBAaFvAkm,110,4,21,2021-11-30
+1702,2021-12-01 13:57:37+00:00,1466043814867521540,bonfida,Jabber is very similar to @signalapp or @telegram except that everything is built on-chain. @solana  is the only blockchain that makes it possible to have an on-chain messaging app that works like a traditional one,5,2,1,2021-12-01
+1718,2021-12-02 05:47:50+00:00,1466282944402579460,bonfida,"86,531 $FIDA were burned in Nov 🔥
+
+That is $722,540 at the current price, and is the largest buy and burn since inception 🎉 https://t.co/jDO0WIgjy9",66,8,8,2021-12-02
+1720,2021-12-03 01:00:00+00:00,1466572895786725380,bonfida,"The @solana Name Service has achieved a lot during its initial stages.
+
+Wondering where it's going next? 🤔
+
+Let's take a look 👇 https://t.co/CDLDV46R1H",158,17,26,2021-12-03
+1721,2021-12-04 04:33:35+00:00,1466989032542392322,bonfida,Heard something big is coming 👀,253,30,23,2021-12-04
+1722,2021-12-05 13:57:16+00:00,1467493276085198855,bonfida,"5⃣Announced partnership with @_portals_  🤝
+And more 👇
+
+https://t.co/sSWratoqc4",40,3,10,2021-12-05
+1725,2021-12-06 03:13:24+00:00,1467693630148251649,bonfida,"@SameerCharles There were IPFS gateway issues, it should be good now",5,0,0,2021-12-06
+1728,2021-12-07 06:04:56+00:00,1468099187241717760,bonfida,"(1/2)
+
+👋
+
+Introducing our special guest @FTX_Benson for the next on-chain AMA on @solana!
+
+This event will be held in Chinese.
+
+Join us tomorrow at 8pm UTC+8.
+
+Get Jabber on 👇
+
+iOS: https://t.co/HIpxd4PJ8X
+
+Android: https://t.co/CJyN1swEu4 https://t.co/ogyNaP1gDm",37,4,7,2021-12-07
+1731,2021-12-08 06:46:43+00:00,1468472090768470020,bonfida,"📢 @solana  鏈上第二場AMA即將開始，本次邀請到了@FTX_Benson 作為嘉賓，分享他對市場的看法。
+
+歡迎大家積極參加！🎉
+
+Jabber 下載鏈接 👇
+
+iOS: https://t.co/HIpxd4PJ8X
+
+Android: https://t.co/CJyN1swEu4
+
+群组地址 👇
+
+FgstmPXw7oCDZAXi5vD3vfdsDcU5HJtNCKLDv8GbbCXW https://t.co/btrQo4ScLR",29,6,4,2021-12-08
+1732,2021-12-09 10:56:28+00:00,1468897329864327169,bonfida,We are proud to have build the new @ProjectSerum core and are looking forward to see other ecosystem projects leverage this asset agnostic orderbook to build amazing projects on @solana https://t.co/HwK1CleFa6,106,3,14,2021-12-09
+1736,2021-12-10 06:41:54+00:00,1469195652647239687,bonfida,"Looking for a practical way to get started on the @solana name service? Here is a quick developer guide 👇
+
+https://t.co/Z4M631z34L https://t.co/97ZASBfJ3E",364,39,76,2021-12-10
+1738,2021-12-11 07:15:26+00:00,1469566477804060672,bonfida,"Tired of writing JS instructions manually for your @solana programs? Bonfida-utils will generate both JS and Rust instructions automatically for you 👇
+
+https://t.co/BDK6IVceY0 https://t.co/fNOUsuUHX1",59,2,5,2021-12-11
+1742,2021-12-12 13:19:40+00:00,1470020529272733700,bonfida,Heard Jabber will have a new skin 🔥 https://t.co/ApVg5HsacP,42,5,6,2021-12-12
+1745,2021-12-13 12:35:43+00:00,1470371857484619777,bonfida,"The identity of the third on-chain AMA guest on @solana will be revealed tomorrow 🙌
+
+Drop a hint 👇 https://t.co/LX8zWscQgM",53,17,5,2021-12-13
+1749,2021-12-14 03:07:36+00:00,1470591271379308544,bonfida,"Introducing our special guest @mattysino for the next on-chain AMA session on @solana 🎉
+
+Get Jabber at 👇
+
+iOS: https://t.co/HIpxd4yG6X
+Android: https://t.co/CJyN1sONIc
+
+Join via the group address 👇
+
+DPs3Yd5qRqSNLK3BYX3EReyQrwm4FwSkuXSZLY1WpQY2 https://t.co/32Rv5D3rMZ",20,4,5,2021-12-14
+1755,2021-12-15 12:02:52+00:00,1471088365525032963,bonfida,.@mattysino making history on @solana 🦾 https://t.co/iDGPUXxyDu,61,7,6,2021-12-15
+1761,2021-12-16 13:48:09+00:00,1471477248402337799,bonfida,"This @solana devnet test market is only accessible via the JS (or Rust) bindings, have fun! 🦾",4,0,0,2021-12-16
+1766,2021-12-17 05:10:00+00:00,1471709238074302467,bonfida,".@SolanaFloor now has an analytics dashboard for the @Solana Name Service 🎉
+
+Explore the dashboard at 👇
+https://t.co/UGLuh8P6JI
+
+Don't forget to get your .sol domain name at 👇
+https://t.co/snLkp8mnKl
+
+https://t.co/U8Ha01EXtV https://t.co/i49iTRgE5f",74,9,16,2021-12-17
+1772,2021-12-18 11:20:54+00:00,1472164968972034052,bonfida,"Heard our next AMA guest has a good presence in Chinese speaking regions 🙌
+
+Drop a hint 👇 https://t.co/VAD4KV9L44",17,5,4,2021-12-18
+1775,2021-12-19 06:57:40+00:00,1472461109839872001,bonfida,What features would you like to add to Jabber? 🤔,38,17,5,2021-12-19
+1780,2021-12-20 13:36:39+00:00,1472923906000695302,bonfida,"Excited to announce that on-chain staking is back ! 🎉
+
+Start staking 👇
+https://t.co/EysQyRzMym
+
+Medium article 👇
+https://t.co/UklR2GYHE4 https://t.co/vzosY8N7vG",64,5,13,2021-12-20
+1785,2021-12-21 03:46:08+00:00,1473137684369768449,bonfida,"Introducing our speical guest @chinyuhsu, the investment analyst from @EvernewCapital  for the next on-chain AMA session on @solana 🎉
+
+Get Jabber at 👇
+
+iOS: https://t.co/HIpxd4yG6X
+Android: https://t.co/CJyN1sONIc
+
+Group address 👇
+ 4h1TmUWch1xwV7ihb6YVc5ra9Twaq5134jffdoSyyN24",4,0,2,2021-12-21
+1788,2021-12-22 06:11:26+00:00,1473536639053950978,bonfida,"📢不要錯過@solana 鏈上下一場AMA，邀請到了@EvernewCapital的投資分析師@chinyuhsu 作為嘉賓，分享對於一級市場的看法
+
+時間：12/23, 20:00, UTC+8
+
+Jabber 下載鏈接 👇
+
+iOS: https://t.co/HIpxd4PJ8X
+Android: https://t.co/CJyN1swEu4
+
+群组地址 👇
+4h1TmUWch1xwV7ihb6YVc5ra9Twaq5134jffdoSyyN24 https://t.co/9EHMBGhSpg",9,2,1,2021-12-22
+1793,2021-12-23 12:53:37+00:00,1474000238512078852,bonfida,"How do the buy and burn of $FIDA and staking work together? Let’s find out 🙌
+
+Start staking 👇
+https://t.co/EysQyRzMym https://t.co/mUY1ZOD9El",39,11,9,2021-12-23
+1803,2021-12-24 08:06:57+00:00,1474290485871390723,bonfida,"Bonfida wishes you a Merry Christmas 🎄
+
+Thanks for your ongoing support 🙌 https://t.co/KMgrddWBlr",76,12,6,2021-12-24
+1804,2021-12-25 16:13:31+00:00,1474775320821649412,bonfida,"Did you know that on-chain staking was back for $FIDA? 👇🔥
+
+https://t.co/EysQyRzeIO https://t.co/toCDqKHqGf",81,17,12,2021-12-25
+1805,2021-12-26 05:38:29+00:00,1474977897937084419,bonfida,@NFTArdi @solana You already can! Check out https://t.co/TF2IcnN26d,2,1,0,2021-12-26
+1806,2021-12-28 13:27:09+00:00,1475820619191226372,bonfida,"Jabber v2 is coming along, what features would you like to see added?
+
+Get the app 📱👇
+
+- iOS: https://t.co/HIpxd4y8hp
+- Android: https://t.co/CJyN1sOfSE https://t.co/rxfMZhqymW",42,13,5,2021-12-28
+1808,2021-12-29 09:07:04+00:00,1476117555484180480,bonfida,Heard @Stepnofficial wallet will integrate the @solana  Name Service soon 👀 https://t.co/jRrPSOzd9P,84,13,14,2021-12-29
+1810,2021-12-30 03:18:51+00:00,1476392309696897025,bonfida,Our next guest on Jabber loves NFTs and even gets her nails painted 💅,50,7,5,2021-12-30
+1811,2021-12-31 04:29:15+00:00,1476772416101941249,bonfida,Tell us about your New Year’s resolutions 💪 https://t.co/wq6LsvRux3,43,18,8,2021-12-31
+1812,2022-01-02 03:42:46+00:00,1477485493952876546,bonfida,Who wants a Bonfida community forum? 🙋,151,37,11,2022-01-02
+1813,2022-01-03 05:55:05+00:00,1477881178128797698,bonfida,"$FIDA buy and burn breaks a new record 🚀
+
+101,451 $FIDA were burned in Dec 🔥
+
+This is $367,000 at the current price 💸 https://t.co/WQjdO56KcD",61,12,7,2022-01-03
+1815,2022-01-04 02:33:28+00:00,1478192826840383488,bonfida,"Glad to see a new integration of the @solana name service 🦾
+
+Register your Twitter handle 👇
+
+https://t.co/QISIxLECeX https://t.co/ZZnv5R9tkz",30,2,9,2022-01-04
+1817,2022-01-05 04:35:29+00:00,1478585922543587332,bonfida,"Excited to announce that @coin98_wallet now supports the @solana name service 🎉
+
+Get your domain name today 👇
+
+https://t.co/20MFCBLRqe https://t.co/9lmACIyZJX",222,16,42,2022-01-05
+1820,2022-01-06 13:15:13+00:00,1479079105530413060,bonfida,"Happy to be selected as one of the few projects to participate in @CoinMarketCap's new initiative, Gravity. 🙌
+
+Check out our article there 👇
+
+https://t.co/RzTXYSk5xR",26,5,5,2022-01-06
+1825,2022-01-07 11:08:44+00:00,1479409662042820608,bonfida,"Want to resell your @solana domain names on a secondary marketplace? 👀
+
+Available now on @DigitalEyesNFT 👇
+
+https://t.co/XXSO9HNzOi https://t.co/4TpyPtTJeZ",202,31,52,2022-01-07
+1827,2022-01-08 12:10:45+00:00,1479787659128352768,bonfida,Our next AMA guest on Jabber won the @solana's hackathon grand prize 🥷,41,15,2,2022-01-08
+1828,2022-01-09 12:14:05+00:00,1480150886995402754,bonfida,"🚨Bonfida Monthly Exclusive #5
+
+December recap 👇
+
+1⃣ Stake your $FIDA 🔥
+2⃣ Analytics dashboard on @SolanaFloor 👀
+3⃣ @MathWallet &amp; @coin98_wallet integrates SNS 🤝
+4⃣ AMAs with @AWice, @FTX_Benson, @mattysino &amp; @EvernewCapital 
+5⃣ @solana name service resolver 🙌",49,6,10,2022-01-09
+1830,2022-01-10 10:25:53+00:00,1480486041840766977,bonfida,"Learn how to join the group chat on Jabber 👇
+
+https://t.co/tYmUEdFiQi",5,1,0,2022-01-10
+1832,2022-01-11 12:30:28+00:00,1480879784544849928,bonfida,"Get Jabber 👇
+
+iOS: https://t.co/HIpxd4yG6X
+
+Android: https://t.co/CJyN1sONIc",8,1,0,2022-01-11
+1835,2022-01-12 03:18:34+00:00,1481103281380216835,bonfida,Heard there will be a Bonfida lounge in @_portals_ 👀,42,3,4,2022-01-12
+1839,2022-01-13 10:03:29+00:00,1481567569974861826,bonfida,"Heard you may need some gFIDA soon 🤫
+
+Earn gFIDA when you stake $FIDA 👇
+
+https://t.co/EysQyRzeIO",39,5,11,2022-01-13
+1842,2022-01-14 01:51:34+00:00,1481806163545321472,bonfida,"🚨 Bi-Weekly Infographic:
+
+1⃣ Record breaking Buy &amp; Burn 🔥
+
+2⃣ Secondary marketplace for SNS 🙌
+
+3⃣ Jabber V2 🤫
+
++ more 👇 https://t.co/06yCYBpiuI",21,4,5,2022-01-14
+1844,2022-01-15 10:37:24+00:00,1482300881655984131,bonfida,"Guess who we'll be hosting for the next on-chain AMA session on @solana 👀
+
+Hint 👇 https://t.co/gD5xEs7Ffl",31,9,3,2022-01-15
+1845,2022-01-16 13:54:01+00:00,1482712747762946048,bonfida,"Heard something big is happening at 8pm, UTC+8, tomorrow 🗳️ https://t.co/71kwKvHt0f",102,22,13,2022-01-16
+1847,2022-01-17 08:16:53+00:00,1482990294551654407,bonfida,"Jabber welcomes Yawn the founder of @Stepnofficial to join the next on-chain AMA session on @solana 🏃
+
+Get Jabber 👇
+
+iOS: https://t.co/HIpxd4yG6X
+
+Android: https://t.co/CJyN1sONIc
+
+Join via the group address 👇
+
+GvWkCaR7kGJ8cFdE2kjepqmB316ShFwAxdkCspXFJveM https://t.co/5VnjIGmxkN",22,8,4,2022-01-17
+1851,2022-01-18 09:22:17+00:00,1483369140589309953,bonfida,"Get Jabber 👇
+
+iOS: https://t.co/HIpxd4yG6X
+
+Android: https://t.co/CJyN1sONIc",5,1,1,2022-01-18
+1856,2022-01-19 10:08:18+00:00,1483743110660497411,bonfida,"Starting in 2 hours, let's get prepared for the on-chain AMA session with @Stepnofficial 🏃 
+
+Join via the group address 👇
+
+GvWkCaR7kGJ8cFdE2kjepqmB316ShFwAxdkCspXFJveM https://t.co/LPgZYiTzcN",38,6,7,2022-01-19
+1858,2022-01-20 12:52:15+00:00,1484146756833230851,bonfida,"@solana Read all about the direct registration 👇
+
+https://t.co/yi2HyAW0GV",37,9,4,2022-01-20
+1860,2022-01-21 01:55:45+00:00,1484343931471282176,bonfida,"70K followers 🚀
+
+Thanks for your ongoing support! 🤝 https://t.co/8f8t0cqznS",56,13,6,2022-01-21
+1863,2022-01-22 12:01:22+00:00,1484858726242996233,bonfida,"The @solana name service now supports registration via USDC, SOL, SRM and RAY using @JupiterExchange 🙌
+
+Register your domain name 👇
+
+https://t.co/snLkp8EwYt https://t.co/LFPLQcz67r",206,22,32,2022-01-22
+1864,2022-01-23 13:13:21+00:00,1485239228246429697,bonfida,"@0x_meddler Jabber wallets use `m/44'/501'/0'/0'` derivation path. You should be able to restore it on Sollet.
+
+https://t.co/8c387aX1al",2,1,0,2022-01-23
+1865,2022-01-24 04:38:03+00:00,1485471938185408514,bonfida,Our next AMA guest on Jabber is building a metaverse on @solana 🍥,52,2,3,2022-01-24
+1867,2022-01-25 15:04:19+00:00,1485991933394952193,bonfida,"Tired of writing JS instructions manually for your @solana programs? Bonfida-utils will generate automatically both your instructions and documentations 👇
+
+https://t.co/BDK6IVuoc8 https://t.co/xi4NfzzFbD",94,13,33,2022-01-25
+1872,2022-01-26 02:19:07+00:00,1486161751313817601,bonfida,Guess what's next? 👀 https://t.co/qEqsalpQW3,119,26,19,2022-01-26
+1876,2022-01-27 05:59:18+00:00,1486579551060865029,bonfida,"We have on-chain messaging on @solana too👀
+
+@SolanaExplorer @solscanofficial should we do it?😉 https://t.co/PnB7OEZkZF",54,6,12,2022-01-27
+1880,2022-01-28 08:33:50+00:00,1486980827078709252,bonfida,"Register your @solana domain name in any of these currencies using @JupiterExchange 🚀
+
+We are breaking barriers to purchase 💪
+
+Get your domain name 👇
+
+https://t.co/20MFCBLjAG https://t.co/zZwEIDIUqi",62,8,12,2022-01-28
+1882,2022-01-29 11:33:38+00:00,1487388464630882307,bonfida,"Don't miss out 😉
+
+Get Jabber 👇
+
+iOS: https://t.co/HIpxd4y8hp
+
+Android: https://t.co/CJyN1sOfSE",20,4,5,2022-01-29
+1884,2022-01-30 10:45:50+00:00,1487738819755581442,bonfida,"Want to take a guess at who our next on-chain AMA guest on @solana will be? 🤩
+
+There are some whispers about rewards 🤫
+
+Clue: ""Delivering blockchain solutions.""",30,7,5,2022-01-30
+1886,2022-01-31 06:31:45+00:00,1488037266865987585,bonfida,"Here's a quick tutorial for Twitter handle registration with @solana name service! 🙌
+
+Register yours 👇
+
+https://t.co/QISIxLE4pp https://t.co/4TsyutDmxa",63,4,12,2022-01-31
+1893,2022-02-01 07:59:00+00:00,1488421611199938565,bonfida,"The @solana name service ecosystem is expanding quickly 🤩
+
+Learn how to integrate 👇
+
+https://t.co/Z4M631z34L https://t.co/aRpn8Q9YA4",61,3,11,2022-02-01
+1899,2022-02-02 13:06:50+00:00,1488861468007317513,bonfida,"Curious to see what we have planned for Q1 of 2022? 👀
+
+Have a look 👇 https://t.co/VmJczuvHOe",65,9,18,2022-02-02
+1904,2022-02-03 13:44:40+00:00,1489233378176032769,bonfida,@CoinbaseWallet @coinbase @brian_armstrong @solana What about now? 👀,5,1,0,2022-02-03
+1906,2022-02-04 12:44:18+00:00,1489580572682948617,bonfida,"Which of these domain names would you like to see restarted? 🤔
+
+List of unclaimed domain names 👇
+
+https://t.co/MEqWDnT8CM
+
+Let us know on the forum 👇
+
+https://t.co/4lX4ZOLsZI",20,7,5,2022-02-04
+1909,2022-02-05 04:47:39+00:00,1489823007140769793,bonfida,"$FIDA is now listed on major exchanges 🤝
+
+Check out the detailed information 👇 https://t.co/ZElYJjmeHV",123,8,26,2022-02-05
+1913,2022-02-06 07:21:23+00:00,1490224085737029635,bonfida,"🚨 Bonfida Monthly Exclusive #6
+
+January recap 👇
+
+1⃣ Secondary marketplace on @DigitalEyesNFT 👀
+
+2⃣ Direct @solana domain name registration 💪
+
+3⃣ Partnerships with @port_finance, @Tap_Finance &amp; @chestfinance 🤝
+
+4⃣ @CoinbaseAssets, @krakenfx &amp; @AscendEX_Global lists $FIDA 🚀",60,9,9,2022-02-06
+1917,2022-02-07 10:59:08+00:00,1490641271181897728,bonfida,Welcome to the fam🤝 https://t.co/2JGykHxC9H,42,6,9,2022-02-07
+1920,2022-02-08 06:32:23+00:00,1490936530223116288,bonfida,Imagine making an unsolicited offer on any .sol domain name that you want 👀 https://t.co/vsVqCqVyj3,55,15,6,2022-02-08
+1923,2022-02-09 10:49:36+00:00,1491363646706184193,bonfida,Seems right to us 👀 https://t.co/lVNKEPdFPd,26,1,7,2022-02-09
+1927,2022-02-10 12:26:46+00:00,1491750489192812549,bonfida,Join #BinanceReferralBox and win Mystery Boxes that surprise you with $FIDA 🤩 https://t.co/NYUgJZipvT,26,6,3,2022-02-10
+1930,2022-02-11 15:23:51+00:00,1492157442272206849,bonfida,"Super excited to be partnering with @ProjectGalaxyHQ and many other #Solana projects 🚀
+
+An unmatchable NFT feast with more than $1,000,000 in prizes to be distributed 🤩
+
+This year is going to be #SOLCool 🔥
+
+Register your @solana domain name to get your share 👇 https://t.co/5CmHP4bCc2",81,22,23,2022-02-11
+1932,2022-02-12 11:22:21+00:00,1492459054094065673,bonfida,"It's voting time 🗳️
+
+Should we restart the auctions for @solana domain names that have been left unclaimed for more than 6 months? 🤔
+
+Cast your vote in gFIDA here 👇
+
+https://t.co/cq6waSDRqP",46,9,9,2022-02-12
+1935,2022-02-13 09:25:41+00:00,1492792080183271426,bonfida,"GM Frens 👋
+
+Tomorrow is the big day 👀",191,42,19,2022-02-13
+1936,2022-02-14 13:23:24+00:00,1493214292874825730,bonfida,"It's official, make an unsolicited offer on any registered @solana domain name! 🚀
+
+Make an offer 👇
+
+https://t.co/snLkp8DZ8V https://t.co/7Z8Fvo8Mos",99,18,21,2022-02-14
+1938,2022-02-15 05:47:20+00:00,1493461906635505664,bonfida,"🚨 Bi-Weekly Infographic:
+
+1⃣ Unsolicited offers for domain names 🎉
+
+2⃣ $FIDA listings 🔥
+
+3⃣ Huge growth statistics for the @solana name service 🚀
+
++ more 👇 https://t.co/c8YJ7jGJR6",45,9,12,2022-02-15
+1941,2022-02-16 14:54:11+00:00,1493961915260977153,bonfida,"Jabber's Documentation 👇
+
+Mobile app: https://t.co/BanMATuVTA
+
+Smart contract: https://t.co/5enTPRdz5A",10,0,1,2022-02-16
+1951,2022-02-17 07:26:12+00:00,1494211561829052417,bonfida,If @FTX_Official ever changes your SOL address you will be able to claim the domain back and transfer it to the new address,13,4,3,2022-02-17
+1958,2022-02-18 07:03:19+00:00,1494568191443587103,bonfida,"Well, this helped 🤔
+
+Think it's best to start a conversation, so we can ensure everyone is on the same page before making any moves.
+
+Join us in the forum so we can discuss this properly 👇
+
+https://t.co/Ib8d5I4wcu https://t.co/nUtYfCFten",17,1,4,2022-02-18
+1961,2022-02-19 04:26:37+00:00,1494891147415912448,bonfida,Our next on-chain AMA guest is building a social graph on @solana 👀,47,9,6,2022-02-19
+1963,2022-02-20 07:56:21+00:00,1495306314817445888,bonfida,👀 https://t.co/deRN80pSSu,87,10,11,2022-02-20
+1964,2022-02-21 12:17:07+00:00,1495734327782608906,bonfida,"Learn how to list your domain for a fixed price 👇
+
+https://t.co/HNwYDSM6xd",7,2,2,2022-02-21
+1970,2022-02-22 02:20:11+00:00,1495946489138450435,bonfida,"The Bonfida Isolated Pool on @solendprotocol is live 🤩
+
+Users of the pool stand a chance to win @solana domain names 🙌
+
+Read about it 👇 https://t.co/FVyaJpxSwK",27,0,4,2022-02-22
+1977,2022-02-23 10:24:11+00:00,1496430683639668739,bonfida,"Starting in 2 hours, don't miss the chance to join the next on-chain AMA session with @CyberConnectHQ 🙌
+
+Group address 👇
+
+4XJmnBhRBN9QAUKvBLpmB9n9DDRSCEHNqKbiqudENPjc https://t.co/9EubY7v0Uz",23,0,6,2022-02-23
+1981,2022-02-24 05:33:01+00:00,1496719796192399368,bonfida,"Frens, do you have any gFIDA yet? 🤔
+
+Just checking...",30,9,4,2022-02-24
+1989,2022-02-25 13:58:15+00:00,1497209329874841605,bonfida,"Heard you guys have been struggling to claim your NFTs?
+
+1⃣ You are eligible only if you registered a domain between the 11th and 24th of Feb
+
+2⃣ It had to be a direct registration, not an auction
+
+If you meet the criteria above, let us help you 👇
+
+https://t.co/dt15sG4rIQ",32,18,2,2022-02-25
+1991,2022-02-26 09:31:28+00:00,1497504578710949890,bonfida,"@fordudesake Hey @fordudesake 
+
+This is an unfortunate circumstance. We have now added a warning on the UI.
+
+Let me DM you!",8,1,0,2022-02-26
+1997,2022-02-27 04:33:34+00:00,1497791999126106116,bonfida,"We love your domain name ser @SHAQ 👀
+
+Welcome to @solana fam 🤝",139,9,14,2022-02-27
+1998,2022-02-28 18:33:17+00:00,1498365707460956167,bonfida,"Sweet dream💤
+
+Bedtime story by @SHAQ https://t.co/S0Aflf55go",41,2,3,2022-02-28
+2001,2022-03-01 11:46:51+00:00,1498625813406756867,bonfida,"Some @solana name service statistics 🔥
+
+Get your domain name 👇
+
+https://t.co/20MFCBLjAG https://t.co/m5JATWGxjM",99,15,17,2022-03-01
+2004,2022-03-02 04:20:04+00:00,1498875764481089537,bonfida,"We hate to see the confusion arising with the escrow accounts of SNS
+
+A solution to protect our users is for all SNS integrated wallets to block any transfers to these accounts
+
+We have presented this check to all our partners and working on getting this in place ASAP 💙",54,5,7,2022-03-02
+2010,2022-03-03 07:06:19+00:00,1499279990298402816,bonfida,"Become a CERTIFIED SELLER ✅ on the @solana name service
+
+Find the instructions to apply below 👇
+
+https://t.co/4jwZvFzv2p https://t.co/ugZ7WCFqR1",83,12,24,2022-03-03
+2013,2022-03-04 10:02:20+00:00,1499686673617014792,bonfida,"We are excited to announce new partnership with @slope_finance 🤝
+
+New features will be added to Slope wallet to best support the @solana name service 🙌
+
+Find out more 👇
+
+https://t.co/lIwOird1vq",79,3,22,2022-03-04
+2014,2022-03-05 09:41:08+00:00,1500043726189645824,bonfida,"Quick overview of the @solana name service ecosystem 🚀
+
+Learn how to integrate 👇
+
+https://t.co/Z4M631z34L https://t.co/gwbReTtTK6",132,8,26,2022-03-05
+2015,2022-03-06 05:18:59+00:00,1500340141998628864,bonfida,"🚨 Bonfida Monthly Exclusive #7
+
+February's recap 👇
+
+1⃣ Withdraw from @FTX_Official using @solana domain names 🚀
+
+2⃣ SNS changes: Unsolicited offers, fixed price listings &amp; favorite domain names
+
+3⃣ Listings on @WazirXIndia &amp; @Poloniex 💪
+
+4⃣ Record breaking Buy &amp; Burn 🔥",54,3,7,2022-03-06
+2018,2022-03-07 08:04:11+00:00,1500744103385911300,bonfida,"Excited to announce that @CashmereWallet has integrated the @solana name service 🎉
+
+Now you can directly use .sol domains to transfer payments on Cashmere 🙌
+
+Get your .sol domain name 👇
+
+https://t.co/snLkp8mnKl
+
+https://t.co/NHVF5oNIZk",82,4,21,2022-03-07
+2020,2022-03-08 07:24:19+00:00,1501096460745846793,bonfida,"Who wants to become a certified seller on the @solana  name service 🙌
+
+Follow the application process 👇
+
+https://t.co/8xPS4nlIxG https://t.co/HDU60oNAGv",57,10,14,2022-03-08
+2021,2022-03-09 07:36:00+00:00,1501461786020614147,bonfida,Looks like @CyberConnectHQ is building a leaderboard for the @solana name service 👀 https://t.co/OZ6fDkyQs4,46,8,6,2022-03-09
+2024,2022-03-10 13:14:54+00:00,1501909462134800385,bonfida,@666aksel We hear you 👀,1,1,0,2022-03-10
+2026,2022-03-11 08:24:09+00:00,1502198681772392451,bonfida,Heard holders of @solana domain names love french fries 👀 https://t.co/NvZBqjuC32,166,35,21,2022-03-11
+2029,2022-03-12 11:52:31+00:00,1502613506998571010,bonfida,Looks like a @solana domain name NFT on @solscanofficial 👀 https://t.co/T43TW9keHb,124,44,20,2022-03-12
+2030,2022-03-14 16:03:10+00:00,1503401360691240977,bonfida,@capn_sol We like it!,7,1,1,2022-03-14
+2037,2022-03-15 03:05:59+00:00,1503568164382130176,bonfida,"Excited to announce that the @solana name service leaderboard is now live on @CyberConnectHQ 🎉
+
+Check out the most followed Twitter accounts with .sol domains 👇
+
+https://t.co/IazpN4eg8C
+
+Get your .sol domain name today 👇
+
+https://t.co/snLkp8mnKl https://t.co/1LdOV0RbZc",51,2,15,2022-03-15
+2041,2022-03-16 10:20:07+00:00,1504039801775095808,bonfida,"Starting soon, let's get prepared for the on-chain AMA session with @SwimProtocol 🥽
+
+Join via the group address 👇
+
+GpmvVwPnr9qKka5ozNS7Mkc68duM4AHgLHaht67KH76f https://t.co/mVqCIxOyIi",16,2,4,2022-03-16
+2043,2022-03-17 12:41:20+00:00,1504437730905927683,bonfida,"🚨Note: @phantom does not support the tokenization of domain names. Presently, Phantom does not support partially signed transactions required for tokenization. Their team is working on resolving the issue.",30,6,1,2022-03-17
+2053,2022-03-18 15:39:40+00:00,1504844996431724570,bonfida,@Ftx_Nfts An honor 💙,11,1,2,2022-03-18
+2067,2022-03-19 04:39:43+00:00,1505041302156877824,bonfida,@josevc @solana @Ftx_Nfts @SolanartNFT @SolSeaNFT @DigitalEyesNFT @AlphaArtMarket @BurntFinance @hyperspacexyz The UI was not detecting the ownership properly. Should be good now,1,1,0,2022-03-19
+2071,2022-03-20 14:53:00+00:00,1505558029504495623,bonfida,@MonkeDAO 🤝,13,1,1,2022-03-20
+2073,2022-03-22 02:24:17+00:00,1506094382549667841,bonfida,"GM 👋
+
+Who have wrapped a @solana domain name? 🙋",219,79,16,2022-03-22
+2076,2022-03-23 01:51:29+00:00,1506448518629642246,bonfida,"GM 👋
+
+Wondering where to purchase $FIDA? 👇 https://t.co/wm8pJsPWRf",68,11,7,2022-03-23
+2081,2022-03-24 09:01:30+00:00,1506919122323615747,bonfida,3️⃣ Hover over the avatar and select “Edit” https://t.co/EnNbBulr5i,4,1,0,2022-03-24
+2093,2022-03-25 15:30:09+00:00,1507379315335434247,bonfida,@Daniel76127223 Soon!,4,0,0,2022-03-25
+2102,2022-03-26 09:20:39+00:00,1507648718753140745,bonfida,"You can now automatically generate Python 🐍 bindings for your @solana smart contracts using Bonfida utils
+
+🛠️ https://t.co/BDK6IVuoc8 https://t.co/8QDEfRWomY",52,4,11,2022-03-26
+2103,2022-03-27 18:16:09+00:00,1508145867810914313,bonfida,@slope_finance 💙,8,1,1,2022-03-27
+2112,2022-03-28 01:29:49+00:00,1508255004771373059,bonfida,"Heard @solana NFT summer is coming 👀
+
+Don't forget to wrap your @solana domain name and treat it like an NFT 😉",174,26,26,2022-03-28
+2113,2022-03-29 03:00:12+00:00,1508640137957154816,bonfida,Heard this was what happened last night 👀 https://t.co/FyiF4XrsE6,70,14,2,2022-03-29
+2116,2022-03-30 08:41:16+00:00,1509088357435023361,bonfida,"GM frens
+
+Don't sleep on us... The @solana name service ecosystem is growing rapidly 👀 https://t.co/hoNGayybez",198,25,40,2022-03-30
+2117,2022-03-31 05:26:34+00:00,1509401748464889856,bonfida,"GM 💙
+
+Who have been actively trading @solana domain name NFTs? 🙋",150,27,10,2022-03-31
+2118,2022-04-01 07:16:59+00:00,1509791922960879640,bonfida,@cryptoweaver_ 😛,1,0,0,2022-04-01
+2124,2022-04-02 07:28:04+00:00,1510157100604866562,bonfida,"Have a look at our staking statistics 👀
+
+Start staking 👇
+
+https://t.co/EysQyRzeIO https://t.co/x6YrZCRzZZ",58,11,11,2022-04-02
+2125,2022-04-03 13:04:44+00:00,1510604210299355136,bonfida,"What NFTs are you buying over the weekend? 😃
+
+Learn how to wrap your @solana domain name and treat it like an NFT 👇
+
+https://t.co/nCZROAYEma",70,15,11,2022-04-03
+2126,2022-04-04 07:40:55+00:00,1510885109699911681,bonfida,"🚨 Bonfida Monthly Exclusive #8
+
+March recap 👇
+
+1⃣ New &amp; expanded integrations with @CashmereWallet &amp; @slope_finance 🔥
+
+2⃣ SNS leaderboard on @CyberConnectHQ 
+
+3⃣ $FIDA listing on @Bybit_Official 🚀
+
+4⃣ @solana domain name tokenization + listings on multiple NFT marketplaces 🦾",76,6,10,2022-04-04
+2129,2022-04-05 10:21:57+00:00,1511288020896567296,bonfida,Who are we missing in the @solana name service fam? 🤔 https://t.co/c4mOGwjstg,90,20,9,2022-04-05
+2131,2022-04-06 14:36:48+00:00,1511714545718513666,bonfida,. @GenesysGo making us happy af!! https://t.co/92WsMs95fq,52,3,6,2022-04-06
+2135,2022-04-07 03:04:12+00:00,1511902632612438017,bonfida,"➖🟦🟦➖🟦🟦
+🟦🟦🟦🟦🟦🟦🟦
+🟦🟦wake up🟦🟦
+➖🟦🟦🟦🟦🟦
+➖➖🟦🟦🟦
+➖➖➖🟦
+
+ok, GM frens!",76,12,8,2022-04-07
+2140,2022-04-08 03:03:12+00:00,1512264772301258756,bonfida,Our pleasure💙 https://t.co/lL3NOpZ51n,37,4,8,2022-04-08
+2142,2022-04-10 13:56:06+00:00,1513153853520322561,bonfida,For some context: https://t.co/mJKmndpl3S,7,0,1,2022-04-10
+2147,2022-04-11 11:24:43+00:00,1513478144787087361,bonfida,"Welcome to @solana name service ecosystem 🤝
+
+Good luck with the Riptide Hackathon 💙 https://t.co/BgggbSarxH",52,6,11,2022-04-11
+2149,2022-04-12 04:27:17+00:00,1513735480390701060,bonfida,"Is it just me or do we all have that one domain name that you will never sell?
+
+TLDR: I have attachment issues with my first 🥲",74,28,2,2022-04-12
+2153,2022-04-13 09:36:31+00:00,1514175693239861253,bonfida,"@schmijos_ all about the brand, here for it!",1,0,0,2022-04-13
+2159,2022-04-14 14:30:15+00:00,1514611998155177984,bonfida,"4⃣ For configuration &amp; examples 👇
+
+https://t.co/65b80qbdXi",6,1,0,2022-04-14
+2170,2022-04-15 03:29:31+00:00,1514808109251788805,bonfida,@atypicaldegen You are absolutely right 🤝,3,1,0,2022-04-15
+2175,2022-04-16 08:18:46+00:00,1515243290374901760,bonfida,"maybe just "".sol"" to be safe? lmao I'm really thinking about this.",29,5,0,2022-04-16
+2178,2022-04-17 07:24:07+00:00,1515591921775046656,bonfida,Hopping by to wish you a very Happy Easter 🐇 https://t.co/uDRvbpTNK6,64,10,5,2022-04-17
+2179,2022-04-18 09:56:59+00:00,1515992781604458496,bonfida,"Ba-bye Monday blues. Hoping to make yours a little easier with a tutorial for @QuickNode's JWT. 
+
+Rise and grind 🤷
+
+https://t.co/VrcvJwmxNm",38,5,10,2022-04-18
+2180,2022-04-19 02:31:44+00:00,1516243116424331270,bonfida,"Proud to be the first lending pool on @ProjectLarix 💪
+
+Check out the details 👇 https://t.co/epiGgosSQ9",30,4,7,2022-04-19
+2182,2022-04-20 12:08:29+00:00,1516750648267935747,bonfida,"Excited to announce that $FIDA isolated pool is now live on @ProjectLarix 🎉
+
+In addition, you will enjoy dual mining rewards ($LARIX + $FIDA) for 3 days 🤩
+
+Check it out at 👇
+
+https://t.co/R6NJ7mdIeb https://t.co/T4gXyjbzxV",30,3,4,2022-04-20
+2186,2022-04-21 11:25:39+00:00,1517102258281979905,bonfida,"Here's the list of @solana domain names to be restarted with the approval of a DAO vote 👇
+
+https://t.co/XOvVh18XOl
+
+For context refer to 👇
+
+https://t.co/iXLMi5USRD",29,4,1,2022-04-21
+2189,2022-04-22 06:42:51+00:00,1517393476996026404,bonfida,"Do you feel like you can develop and/or contribute to our services?
+
+Well, we’re offering grants to those who can 🤷
+
+https://t.co/9BkuqNU8UG",35,13,3,2022-04-22
+2190,2022-04-23 06:26:19+00:00,1517751706607628295,bonfida,@cryptoswati You can find us here 👀 https://t.co/qY53x9UKVz,1,0,0,2022-04-23
+2193,2022-04-25 14:24:01+00:00,1518596696783130624,bonfida,"Made this hint way too easy. Guess there aren't many swimming pigs around. 
+
+Congrats @frankieblanco99 will transfer ""bahamas🇧🇸.sol"" to you",20,6,4,2022-04-25
+2196,2022-04-26 13:57:59+00:00,1518952533556871175,bonfida,@Jawnxwick ya heaaard,4,1,0,2022-04-26
+2197,2022-04-27 02:08:55+00:00,1519136480928894976,bonfida,"Excited to receive the first grant application from @4everland_org 🎉
+
+. @4everland_org is building a platform to provide users with one-stop @solana name service + IPFS website hosting services
+
+Find out more about it at 👇
+
+https://t.co/AhqFPuC9GI",35,4,10,2022-04-27
+2200,2022-04-28 11:19:50+00:00,1519637508828856321,bonfida,"Who wants to get an alert when participating in auctions on the @solana name service? 🙋‍♀️
+
+Check out the grant proposal submitted by @NotifiNetwork for building auction alerts for SNS 👇
+
+https://t.co/yfOIBo8poQ",42,6,9,2022-04-28
+2202,2022-04-29 18:27:50+00:00,1520107606299271169,bonfida,"🚨 Structure of process:
+
+✅ Publicize domain names unclaimed &gt; 6 months
+
+✅ Users select domain names to be restarted
+
+✅ Selected names are made public for 7 days
+
+✅ DAO vote
+
+5⃣ Restart auctions/Leave domains unclaimed",12,1,1,2022-04-29
+2206,2022-04-30 20:37:14+00:00,1520502559194206210,bonfida,"I don't mean to flex, but the space on this design is starting to look a little tight 🤷
+
+Who would you like to see included here? https://t.co/isPQ4421fR",70,17,14,2022-04-30
+2208,2022-05-01 19:16:54+00:00,1520844731927961600,bonfida,Love to burn 🔥 https://t.co/uRWvmCxFB4,58,10,9,2022-05-01
+2209,2022-05-02 10:51:22+00:00,1521079896034127873,bonfida,"GM 💙
+
+Did you know that $FIDA has been listed on 10 global exchanges already? 👀 https://t.co/6SSsGqTpkZ",67,18,7,2022-05-02
+2212,2022-05-03 17:23:37+00:00,1521540998396059650,bonfida,Monthly @solana name service statistics. 170K we are coming for you 🚀 https://t.co/aeRhQ0tu2B,46,8,5,2022-05-03
+2215,2022-05-04 13:43:39+00:00,1521848028423929858,bonfida,@DeloonM working for me https://t.co/JPGktqZH32,0,1,0,2022-05-04
+2219,2022-05-05 09:05:42+00:00,1522140469857292290,bonfida,"Update on our stakers 🦾
+
+Have you staked your $FIDA yet? 👇
+
+https://t.co/EysQyRzeIO https://t.co/N2VqhH6Ox1",37,12,3,2022-05-05
+2222,2022-05-06 08:50:05+00:00,1522498924929556480,bonfida,@frankieblanco99 I see no lies,8,2,0,2022-05-06
+2224,2022-05-07 12:44:42+00:00,1522920359649030144,bonfida,"The vote for restarting unclaimed domains has been approved 🔥
+
+https://t.co/tOEmbsSMnb
+
+We’ll restart the auctions for these domains on Friday, 13th of May, 8 pm UTC + 8:
+
+https://t.co/XOvVh18XOl
+
+May the odds be ever in your favor 😉",30,10,3,2022-05-07
+2226,2022-05-09 10:59:39+00:00,1523618697960574976,bonfida,"Saw some of you spending a pretty penny on those 4 letter dot whatever domains. How are you feeling today? 🤣
+
+Here’s my bias, .sol the better &amp; cheaper option: https://t.co/20MFCC2Use
+
+Work smarter not harder 😙",36,8,4,2022-05-09
+2228,2022-05-10 18:50:53+00:00,1524099672620609541,bonfida,@Erkim8888 Looking sexy,1,0,0,2022-05-10
+2232,2022-05-12 17:52:58+00:00,1524809873543811073,bonfida,@horsesnft missed this gem 👀,0,0,0,2022-05-12
+2233,2022-05-13 15:06:50+00:00,1525130453723844609,bonfida,@PythNetwork 🫶,5,0,0,2022-05-13
+2242,2022-05-14 20:38:41+00:00,1525576356855152640,bonfida,@HuseyinYerli07 @NotifiNetwork join their discord  https://t.co/TtMvWfu2iV 😗,1,1,0,2022-05-14
+2253,2022-05-15 17:44:05+00:00,1525894801928990726,bonfida,"Frens, here’s today’s list for auctions that have been restarted: https://t.co/l7xNre9q9k
+
+This list has some of my faves 👀
+
+https://t.co/HeuFk61YUS",20,2,3,2022-05-15
+2254,2022-05-16 15:12:47+00:00,1526219116369125377,bonfida,"Batch #3 of unclaimed @solana domain names has been restarted: https://t.co/yw6Sp36KCl 🔥
+
+Let me know which ones you are bidding on!",15,5,4,2022-05-16
+2257,2022-05-17 13:42:19+00:00,1526558734784290816,bonfida,"Batch #4 of the auction restart is ready for you to bid on: https://t.co/ihN5NfyTDM 👀
+
+https://t.co/HeuFk61YUS",24,12,5,2022-05-17
+2259,2022-05-18 16:39:39+00:00,1526965751822925826,bonfida,"Batch #4: https://t.co/ihN5NfyTDM
+
+Batch #3: https://t.co/yw6Sp36KCl
+
+Batch #2: https://t.co/l7xNre9q9k
+
+Batch #1: https://t.co/P60PmC5T3W",5,2,1,2022-05-18
+2261,2022-05-19 23:10:58+00:00,1527426617064275968,bonfida,"Batch #5: https://t.co/wPqNzj8AuN
+
+Batch #4: https://t.co/ihN5NfyTDM
+
+Batch #3: https://t.co/yw6Sp36KCl
+
+Batch #2: https://t.co/l7xNre9q9k
+
+Batch #1: https://t.co/P60PmC5T3W",5,2,1,2022-05-19
+2263,2022-05-20 09:56:17+00:00,1527589017461542912,bonfida,Wen to flex your subdomains under monke.sol? 👀 https://t.co/813YO0k6pC,13,4,2,2022-05-20
+2266,2022-05-21 13:41:17+00:00,1528008025914544129,bonfida,"Who wants the auction alerts for the @solana name service? 🙋
+
+Vote for the second grant proposal submitted by @NotifiNetwork 🙌
+
+Check out details 👇
+
+https://t.co/99sRKpmopX https://t.co/BQB6I7kWaT",34,11,9,2022-05-21
+2267,2022-05-22 18:57:37+00:00,1528450022102155266,bonfida,"Something you haven't seen yet 👀
+
+Coming soon… https://t.co/N0dA8pCDik",102,19,21,2022-05-22
+2268,2022-05-23 11:51:23+00:00,1528705145256562688,bonfida,💙 https://t.co/Ro1f7uvBHR,29,4,5,2022-05-23
+2269,2022-05-24 19:20:39+00:00,1529180597272420354,bonfida,"@CouncilOfChief @solana Hey, the manager is here. Strange, since auctions have almost only been in $FIDA (apart from the few in USDC) - so a SOL auction isn’t possible. Based on the explorer this domain was last auctioned for ~ 100$FIDA https://t.co/oz7OOGnezG",7,1,0,2022-05-24
+2271,2022-05-25 21:48:19+00:00,1529580146050613249,bonfida,@Always_Oblak 👀👀👀👀👀,2,0,0,2022-05-25
+2276,2022-05-26 15:01:38+00:00,1529840185978064897,bonfida,"Glad to have built the primitive of a primitive 🤝
+
+https://t.co/b5QQa6w1zF https://t.co/J3gn4S6n5s",8,5,0,2022-05-26
+2277,2022-05-27 05:26:28+00:00,1530057831889747969,bonfida,Just some of our favorites on our new website 😛 https://t.co/mpoW4mP6h5,43,6,8,2022-05-27
+2280,2022-05-29 12:43:32+00:00,1530892598684041216,bonfida,@xNFT_Soon Let's trade? 😗 https://t.co/2VpsvpPQCD,16,2,2,2022-05-29
+2281,2022-05-30 10:18:01+00:00,1531218365443977216,bonfida,"Btw, we have a cart now 😗 https://t.co/fnhPNgNaBr",55,12,4,2022-05-30
+2282,2022-05-31 10:14:52+00:00,1531579959847751684,bonfida,A new @solana name service adventure 🚀 https://t.co/s6dioCobHO,75,15,10,2022-05-31
+2285,2022-06-02 05:53:23+00:00,1532238929591783424,bonfida,A quick look. We aren’t stopping! https://t.co/Nt4y4xShat,38,15,6,2022-06-02
+2287,2022-06-03 12:00:27+00:00,1532693695337639937,bonfida,"Finally, the wait is over eeek
+
+Stoked to be launching the beta of our new skin for the @solana name service!
+
+Test it out on https://t.co/Oh829gsNEW and let us know what you think 💙 https://t.co/TK4uekw0Vo",48,8,8,2022-06-03
+2291,2022-06-04 07:38:32+00:00,1532990168080306176,bonfida,@getpipcom @solana 🫶,3,0,0,2022-06-04
+2295,2022-06-05 10:02:22+00:00,1533388752395051010,bonfida,An update on the @solana name service ecosystem 👀 https://t.co/AkLDiHQYqS,83,7,17,2022-06-05
+2296,2022-06-06 14:24:49+00:00,1533817189010137090,bonfida,@TFA_SOL lame! dm'd you - let's sort you out,0,0,0,2022-06-06
+2302,2022-06-07 04:45:23+00:00,1534033759577702406,bonfida,@soldealer1 oof! these are 🤌,3,0,0,2022-06-07
+2311,2022-06-08 13:06:28+00:00,1534522247251169282,bonfida,ps heart eyes for @ProjectGalaxyHQ repping their .sol 🫶,5,1,2,2022-06-08
+2316,2022-06-09 11:44:19+00:00,1534863960020762624,bonfida,@wordcel_club 👀,35,3,1,2022-06-09
+2330,2022-06-10 12:30:03+00:00,1535237858335805443,bonfida,5⃣ Last but not least; @phantom support is back up! You can now register your Twitter handle and wrap/unwrap domains with your favorite wallet,10,6,0,2022-06-10
+2343,2022-06-11 17:30:06+00:00,1535675757460078593,bonfida,@solanafm give me more love im needy 😘,0,1,0,2022-06-11
+2347,2022-06-13 03:27:03+00:00,1536188370111582213,bonfida,"Gm, it’s rise &amp; grind Monday 🫡
+
+You like the new website so far? We’ve got more exciting things coming SOON 👀",34,8,5,2022-06-13
+2348,2022-06-14 19:34:22+00:00,1536794191979810817,bonfida,@BlueOceanShark @BlueOceanShark you are my fave,2,0,0,2022-06-14
+2361,2022-06-15 11:28:25+00:00,1537034285500211200,bonfida,"3⃣ A reworked version of the Asset-Agnostic Orderbook 📚 improves developer experience while being less compute-intensive. The most powerful on-chain orderbook just got even better!
+
+It's now possible to cancel several orders in one library call
+
+Docs and usage examples incoming",7,2,1,2022-06-15
+2373,2022-06-16 20:30:16+00:00,1537533035029086208,bonfida,@MsForthWhale sooner than you think 😗,1,0,0,2022-06-16
+2381,2022-06-17 16:46:17+00:00,1537839057048174593,bonfida,"@whoelsebutSB You should be able to see most stats here: https://t.co/UGLuh8P6JI - we are in the process of updating some endpoints. So, it should be more finessed soon :)",2,0,0,2022-06-17
+2392,2022-06-18 17:28:40+00:00,1538212110198616067,bonfida,"@BigChefBugatti @solana Dm'd you, hit me up pls",1,0,0,2022-06-18
+2402,2022-06-19 14:37:28+00:00,1538531416732049409,bonfida,"Not your average wolf, it’s the Wolf of Web3! 🐺
+
+Just @BurntFinance x Bonfida things 🚀
+
+Wouldn't you rather be a wolf? #BonfidaWolves #Ahooo https://t.co/AZMYwMJz0Y",376,39,286,2022-06-19
+2406,2022-06-20 20:14:33+00:00,1538978631250333696,bonfida,"@MonkeDAO thanks for having us monkes 😗
+
+@RickiCryptoStix you really be a G",6,1,1,2022-06-20
+2415,2022-06-21 08:39:59+00:00,1539166226802434048,bonfida,"gm 😗 and congrats to
+
+@bongbongisreal
+@gyan_eth
+@Otungo2
+@PjpTata
+@JosuManzo2
+@ABDULLAH___q8__
+@_Sqodato
+@hmdFX 
+@FDeflection 
+@khincati 
+@Titus3312 
+@Drewfx01 
+@kingo_crypto 
+@babadook598 
+@jihatw_ 
+@zheng_nft 
+@udess94 
+@lostintherivers 
+@hover_1_ 
+@openwhale 
+
+Check your DMs https://t.co/A1i00T04tG",55,12,12,2022-06-21
+2420,2022-06-22 19:31:44+00:00,1539692633584549890,bonfida,@PythIntern eeeek,1,0,0,2022-06-22
+2426,2022-06-23 20:34:45+00:00,1540070878196662273,bonfida,SMS revealed! 👀 https://t.co/QbVtvmN9u9,108,8,15,2022-06-23
+2437,2022-06-24 11:33:02+00:00,1540296941103374336,bonfida,@PocketPayFin 🥹😍,3,0,0,2022-06-24
+2444,2022-06-25 14:58:57+00:00,1540711146520461312,bonfida,@MagicEden gm fren 💜,10,2,0,2022-06-25
+2451,2022-06-26 11:23:33+00:00,1541019331030618112,bonfida,"@Austin_Federa @mjpldn @aeyakovenko More like a real messaging smart contract (just named Jabber)
+
+Check it out here: https://t.co/T7pjU77lPH
+
+Let me know what we can do for you 😙",5,1,0,2022-06-26
+2453,2022-06-27 16:38:01+00:00,1541460857145679874,bonfida,"Next, to our frens at @wordcel_club 🚀
+
+We have been blessed to try out their product &amp; what an amazingly seamless experience it was. Hence, there was no doubt when we decided to move to decentralized publishing. Makes me warm to think that we are truly doing it the Web3 way.",17,0,3,2022-06-27
+2470,2022-06-28 13:44:34+00:00,1541779592205197317,bonfida,@hyperspacexyz ooof I respect the bargaining. Send address,5,4,0,2022-06-28
+2478,2022-06-29 21:49:01+00:00,1542263895234166787,bonfida,@Constance_FTX @CNeverlands Welcome to the gang! 🐺,3,0,0,2022-06-29
+2500,2022-06-30 14:24:05+00:00,1542514314082279424,bonfida,"2/3 of the supply gone! HURRY 
+
+https://t.co/HefRmmk1e1",41,4,9,2022-06-30
+2553,2022-07-01 16:44:08+00:00,1542911947083071488,bonfida,@BarryShino 🤫,3,1,0,2022-07-01
+2559,2022-07-02 07:52:36+00:00,1543140569463013377,bonfida,gm 🌞,55,12,2,2022-07-02
+2563,2022-07-04 18:58:33+00:00,1544032935896047618,bonfida,@hankobaggins daddy?,1,1,0,2022-07-04
+2574,2022-07-05 15:00:53+00:00,1544335512256667650,bonfida,@PratikSharma95 sure can https://t.co/cq4u23uoCl,0,0,0,2022-07-05
+2582,2022-07-06 22:39:16+00:00,1544813255868092416,bonfida,@josevc @phantom nice ones!,6,1,0,2022-07-06
+2588,2022-07-07 07:55:59+00:00,1544953361925120000,bonfida,gm Solana 🌞,51,7,5,2022-07-07
+2591,2022-07-08 09:04:10+00:00,1545332905425211392,bonfida,Should we add mSOL as a currency option for Fixed Price listings &amp; Unsolicited offers on https://t.co/Oh829gbcNo ? 🤔,42,11,6,2022-07-08
+2592,2022-07-09 19:12:57+00:00,1545848501107625990,bonfida,@guneysol i like the sound of this 🫡,9,1,1,2022-07-09
+2598,2022-07-10 11:17:36+00:00,1546091261601390593,bonfida,"#BonfidaWolves looks like something is coming your way 🤷
+
+Heard there is more https://t.co/xVatfXrwVY",175,22,38,2022-07-10
+2599,2022-07-11 16:48:36+00:00,1546536948143120386,bonfida,"@0xPyth @PythNetwork ded!
+
+timely, I just changed my look",7,1,0,2022-07-11
+2615,2022-07-12 05:56:18+00:00,1546735181284909057,bonfida,gm frens 🌞,56,11,1,2022-07-12
+2616,2022-07-13 12:02:31+00:00,1547189730906845184,bonfida,"@solana 📖 A new Blog section to keep up-to-date with all the latest and greatest 
+
+https://t.co/fXMGjSAuZD https://t.co/CFd4APhz7S",25,1,3,2022-07-13
+2626,2022-07-14 14:08:01+00:00,1547583701701107715,bonfida,@yieldies what a flirt 😋,6,1,0,2022-07-14
+2639,2022-07-15 17:05:20+00:00,1547990712389537793,bonfida,@leon_only1 @OutofluckC @NotifiNetwork @only1nft hey! shhhh,1,0,0,2022-07-15
+2644,2022-07-17 06:30:26+00:00,1548555710904291328,bonfida,gm frens 🌞,132,19,9,2022-07-17
+2649,2022-07-18 14:15:45+00:00,1549035196309446658,bonfida,@solanafm seems legit 👀,1,0,0,2022-07-18
+2657,2022-07-19 14:19:31+00:00,1549398535359135757,bonfida,"@NFTtaster Oh no, what error?",0,1,0,2022-07-19
+2659,2022-07-20 14:05:16+00:00,1549757337069621251,bonfida,"2/ It was an easy choice for us to make the move, as a Web3 project, of course, to switch all our articles to the blockchain! I mean, blockchain technology am I right? Combined with their polished UI and painless processes it made this an experience not to miss",3,1,0,2022-07-20
+2671,2022-07-21 14:29:35+00:00,1550125840616239105,bonfida,$FIDA listing on @MEXC_Global is live 🚀 https://t.co/KcVE8Ty8ms,137,32,26,2022-07-21
+2674,2022-07-22 18:08:16+00:00,1550543262624071680,bonfida,"@DeFiAzog Absolutely beautifully done!
+
+Followed. Look forward to seeing more from king.sol",3,1,0,2022-07-22
+2681,2022-07-23 10:07:17+00:00,1550784609708810241,bonfida,gm 😙,94,18,7,2022-07-23
+2686,2022-07-24 10:37:50+00:00,1551154682575237120,bonfida,"✅ Get a notification for auctions you have bid on + keep track of auctions ending within the hour with our Telegram group
+
+TG  👉  https://t.co/qLd8968fnR https://t.co/I7z2Vi0ZLj",15,1,3,2022-07-24
+2690,2022-07-25 17:47:40+00:00,1551625241469886467,bonfida,"2/ So too they have helped us do the same! Using embedded notifications for our auction system we have managed to ease a process that prevailed to be painful for some 
+
+Like they say; communication is key. Thanks to our frens we can now operate in closer proximity to our users",10,1,2,2022-07-25
+2700,2022-07-26 05:00:52+00:00,1551794658589769732,bonfida,gm 😘,72,15,1,2022-07-26
+2703,2022-07-27 20:10:54+00:00,1552386064442081280,bonfida,@viktorstreuss 👀,9,1,0,2022-07-27
+2715,2022-07-28 17:45:39+00:00,1552711898042404865,bonfida,@hankobaggins @DanPaul000 can i be auntie bonfida? cz duh,1,0,0,2022-07-28
+2734,2022-07-29 16:48:52+00:00,1553059996795019267,bonfida,@salmonwallet salmoooooon 🥺 hearts,5,0,0,2022-07-29
+2744,2022-07-31 09:31:56+00:00,1553674814824611840,bonfida,gm 😙,86,16,4,2022-07-31
+2746,2022-08-01 18:09:39+00:00,1554167491332608001,bonfida,"@ForkedKirk If Kirk tweets it, it must be legit",7,1,0,2022-08-01
+2754,2022-08-02 08:35:09+00:00,1554385299840634880,bonfida,gm frens 💙,45,15,3,2022-08-02
+2760,2022-08-04 10:11:13+00:00,1555134251678306304,bonfida,"5/ If you are still confused or need any support, please reach out to us on TG and/or Discord (link in bio). We are more than happy to help. 
+
+Stay safe frens 💙",13,2,2,2022-08-04
+2769,2022-08-05 07:57:32+00:00,1555462999003262976,bonfida,"gm frens 💙
+
+how are you feeling?",64,12,7,2022-08-05
+2775,2022-08-06 08:56:55+00:00,1555840330951540736,bonfida,"gm, hope you are resting 🫂",47,16,6,2022-08-06
+2776,2022-08-07 14:59:25+00:00,1556293945235161088,bonfida,"#BonfidaWolves we have more WL spots for you courtesy of @SolStreetFin 🐺 
+
+They are launching their Wolfies collection and so the coincidence was intended
+
+50 WL spots are up for grab, FCFS! Check out Discord under #🐺-wolves-only to stand a chance 👅",63,22,23,2022-08-07
+2779,2022-08-08 04:48:33+00:00,1556502601503543299,bonfida,gm 🥱,50,13,2,2022-08-08
+2781,2022-08-09 11:36:11+00:00,1556967574457417728,bonfida,@MsForthWhale 👀,1,0,0,2022-08-09
+2786,2022-08-10 18:54:59+00:00,1557440389585461254,bonfida,It's happening! xMS see you in two days 🥹 https://t.co/0rbQiE03mV,46,6,5,2022-08-10
+2795,2022-08-11 17:12:36+00:00,1557777010457468929,bonfida,@only1nft TOMORROW!,10,2,0,2022-08-11
+2810,2022-08-12 16:57:09+00:00,1558135514066198528,bonfida,"5/ More to come soon. Stay tuned!
+
+I just need to say it; I present to you xMS https://t.co/3hUZQZZOwk",13,1,1,2022-08-12
+2823,2022-08-14 15:01:30+00:00,1558831182019690501,bonfida,"#BonfidaWolves we've got more WL spots for you!
+
+This time we partnered with @InfiniteDrive_ to give away 50 WL spots exclusively to Wolf holders 🐺
+
+To enter:
+1️⃣ Join our Discord (link in bio)
+2️⃣ Follow instructions in #ahooo channel
+3️⃣ Compete in the #wolvesonly channel",30,5,10,2022-08-14
+2824,2022-08-15 19:35:30+00:00,1559262526143172611,bonfida,gn 😴,24,9,2,2022-08-15
+2835,2022-08-16 17:05:47+00:00,1559587236819177473,bonfida,@SquadsProtocol @solana this is beautiful!,8,0,0,2022-08-16
+2841,2022-08-17 16:47:46+00:00,1559945090109304832,bonfida,"Super excited to announce that @josevc, a member of 
+@SolDigitDAO, has built a sales bot for direct registrations of the @solana name service 🚀 
+
+Give @SolRegistryBot a follow and see for yourself! Hopefully to expand with secondary sales soon 👀",38,4,6,2022-08-17
+2848,2022-08-18 08:35:05+00:00,1560183488481042433,bonfida,"gm!
+
+You can now gather opinions and review our community on @trutsxyz. If you like a review; go ahead and tip them in $FIDA
+
+👉 https://t.co/wd1vF1PR2l
+
+Maybe we can see some .sol domains in the near future 👀",83,6,8,2022-08-18
+2851,2022-08-19 17:11:24+00:00,1560675811803348994,bonfida,@MsForthWhale where u 🥹,6,1,0,2022-08-19
+2857,2022-08-22 06:57:55+00:00,1561608589625753602,bonfida,gm 😗,83,16,17,2022-08-22
+2858,2022-08-23 09:34:23+00:00,1562010350945550336,bonfida,@heavenland_io gm!,5,2,0,2022-08-23
+2864,2022-08-24 12:23:31+00:00,1562415305116237824,bonfida,@SwimProtocol @ProjectSerum @SurfersDAO @BurntFinance @ProjectGalaxyHQ hehe,3,1,0,2022-08-24
+2873,2022-08-25 17:19:55+00:00,1562852284807016448,bonfida,@MsForthWhale come! 😠😘,2,1,0,2022-08-25
+2875,2022-08-26 15:59:21+00:00,1563194397344223233,bonfida,"@0ldvoyager no, LFG",0,0,0,2022-08-26
+2884,2022-08-27 11:12:38+00:00,1563484629927342082,bonfida,Awesome to be listed on @CoinDCX! $FIDA/INR &amp; $FIDA/USDT is live 🎉 https://t.co/M8K5VAiPgI,40,18,6,2022-08-27
+2886,2022-08-28 09:10:25+00:00,1563816261670281216,bonfida,gm frens🍳,31,13,4,2022-08-28
+2889,2022-08-29 18:59:02+00:00,1564326779279605762,bonfida,@TweetsBkk preach,3,2,0,2022-08-29
+2896,2022-08-31 07:50:44+00:00,1564883370357788673,bonfida,"gm 😘, happy hump day",24,3,2,2022-08-31
+2900,2022-09-01 12:58:56+00:00,1565323319678799878,bonfida,"ROUND 2! The @wordcel_club giveaway continues. @solana domain names and access to Wordcel’s beta to win. Super excited to reward all our writers 🥹
+
+Get all the details in their thread 👇 https://t.co/YH9K7eiC42 https://t.co/8P5HcCGNed",11,2,4,2022-09-01
+2904,2022-09-02 17:01:32+00:00,1565746761993535490,bonfida,btw that's a 🔥👍 fire thumbs up,11,1,0,2022-09-02
+2908,2022-09-03 07:07:12+00:00,1565959579216871425,bonfida,@CaviarETH followed! look forward to seeing it,8,0,0,2022-09-03
+2916,2022-09-04 08:03:47+00:00,1566336206086062081,bonfida,@GenesysGo Thank you guys for the value you've brought to our ecosystem! To continue supporting you is a no-brainer,16,0,3,2022-09-04
+2918,2022-09-05 14:29:08+00:00,1566795570429280258,bonfida,Buuuuuurn. The last three burns have all been above 150K 🔥 https://t.co/jvrJw8MTaS,51,8,12,2022-09-05
+2919,2022-09-06 13:38:34+00:00,1567145233892388864,bonfida,"Read it on @wordcel_club too 👇
+https://t.co/EBviKgJLjK",10,0,2,2022-09-06
+2922,2022-09-07 02:34:09+00:00,1567340414944034817,bonfida,$FIDA is now listed on 13 reputable exchanges! https://t.co/tX7rbP2ZXy,50,4,7,2022-09-07
+2929,2022-09-08 09:03:09+00:00,1567800700205412353,bonfida,@Dosedone @MatricaLabs @solana gFIDA holders. You get that when you stake FIDA,0,1,0,2022-09-08
+2937,2022-09-09 11:03:13+00:00,1568193303585390594,bonfida,"@pears_eth @585Eth @ensvision if you placed a bid and were outbid, go to profile page -&gt; offers -&gt; bids placed -&gt; click cancel = FIDA returned",0,1,0,2022-09-09
+2947,2022-09-10 22:35:00+00:00,1568729781113606144,bonfida,@solanian_sol hot!,2,0,0,2022-09-10
+2949,2022-09-11 17:38:22+00:00,1569017521130606592,bonfida,@Real_nfty 👀,0,1,0,2022-09-11
+2960,2022-09-12 12:26:23+00:00,1569301393877659648,bonfida,@CaviarETH gm 609.sol ❤️,7,0,0,2022-09-12
+2979,2022-09-13 16:36:19+00:00,1569726680624943110,bonfida,@ANGELZOFFICIAL @lonnieliggins @MagicEden tell’em,1,0,0,2022-09-13
+2989,2022-09-14 03:07:21+00:00,1569885484377321474,bonfida,@doppelNFTs awesome collection!,7,0,0,2022-09-14
+2992,2022-09-15 06:31:50+00:00,1570299332246798336,bonfida,prepping. https://t.co/0cGSH3mVV1,25,2,3,2022-09-15
+3013,2022-09-16 15:52:20+00:00,1570802774589444096,bonfida,"#BonfidaWolves we have our next WL spots for you from @WakulandNFT! 🐺
+
+To stand a chance to win, join our Discord and verify your holdings for the #wolf-only channel. All info for the giveaway can be found under #ahooo
+
+⏰ 4PM UTC (12PM EST), don’t miss out!",36,9,8,2022-09-16
+3019,2022-09-17 00:45:22+00:00,1570936916887089153,bonfida,@solanaspaces @LIGHTS_nft @phantom shiiiiiiiiit,7,0,0,2022-09-17
+3023,2022-09-18 16:00:22+00:00,1571529574047162369,bonfida,@10kSolOfficial beautiful!,6,1,0,2022-09-18
+3029,2022-09-19 02:35:25+00:00,1571689388442284033,bonfida,"@lizardnthelites If you were the highest bidder the domain is yours. You would, however, have to claim it first.",1,0,0,2022-09-19
+3034,2022-09-20 12:54:58+00:00,1572207692621713408,bonfida,@iBurnsFPS @solana We have that! https://t.co/MYiN6Gyc00,1,1,0,2022-09-20
+3043,2022-09-21 08:34:33+00:00,1572504542553731072,bonfida,"(4/4) Of course, you'll be able to favorite your categories to keep an eye on them. 
+
+The API will also be public so all our users can query it! Watch this space for more",33,2,9,2022-09-21
+3051,2022-09-23 03:23:11+00:00,1573150961719480320,bonfida,gm dotsols 🌞,101,25,8,2022-09-23

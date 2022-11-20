@@ -1,0 +1,425 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2021-08-25 01:11:22+00:00,1430336970547339264,ZigZagExchange,"Hello everyone. We have begun development of the ZigZag Exchange on @zksync and we will be posting updates here as we go. 
+
+First on our roadmap is the release of our informational website https://t.co/amr5b3LTi6 . Expect something up in the next couple days!",4,0,0,2021-08-25
+1,2021-08-31 04:39:04+00:00,1432563564808577029,ZigZagExchange,"has anybody ever built a good usable limit order exchange on ETH L1?
+
+I swear it can be done. Maybe I'll do that instead of building this on ZKSync",2,0,0,2021-08-31
+2,2021-09-02 19:14:37+00:00,1433508681673412609,ZigZagExchange,"@KyleSamani @PhantomMedalli1 @jadler0 @Dogetoshi @avalancheavax @el33th4xor this isn't true in the slightest, and parallel processing is not a magic elixir in itself. Linear processing can you get veeery far to the point where latency and block size become the limiting factors (see EOS)",0,0,0,2021-09-02
+3,2021-09-16 23:43:47+00:00,1438649850757713926,ZigZagExchange,Wallet and trading functionality will be added over the next few weeks. stay tuned!,2,1,0,2021-09-16
+4,2021-09-17 21:33:33+00:00,1438979464600305664,ZigZagExchange,"@SoleCampbell no. I'm a one man team at the moment, so it's just this Twitter feed for now. once I have a product up and running I'll start setting up the remaining social media",1,0,0,2021-09-17
+5,2021-09-18 03:46:19+00:00,1439073274537803777,ZigZagExchange,the @zksync community has been very warm and welcoming. we're excited to contribute to the ecosystem,4,0,0,2021-09-18
+6,2021-10-04 17:04:19+00:00,1445072300852736005,ZigZagExchange,"I know I said we'd have a Rinkeby release ready on October 5, but some stuff came up over the weekend, and I wasn't able to get any work done, so I'm going to have to push the release to October 9. 
+
+Mainnet launch is still on pace for Late October.",3,2,0,2021-10-04
+7,2021-10-13 23:36:31+00:00,1448432492755755008,ZigZagExchange,@akaratsuba we're going to launch on zksync 1.0 first and then migrate to zkEVM when it becomes feasible to do so,1,0,0,2021-10-13
+8,2021-11-01 18:51:23+00:00,1455246106095341569,ZigZagExchange,"We have moved our updated frontend to https://t.co/S2XFUZfnfj
+
+It currently supports @zksync and we are in the process of adding support for StarkNet (@StarkWareLtd)",3,1,0,2021-11-01
+9,2021-11-02 18:51:18+00:00,1455608473320779776,ZigZagExchange,"@AugustineOkoza @zksync @StarkWareLtd as for liquidity, that's still the open question. I don't have a market making partner yet, but once I roll out the full product, my first priority is going to be finding one",0,1,0,2021-11-02
+15,2021-11-04 19:58:43+00:00,1456350215498186752,ZigZagExchange,"this won't actually be helpful until the market making bots are on, but hopefully that will be later today",2,0,0,2021-11-04
+28,2021-11-05 17:59:25+00:00,1456682579856220163,ZigZagExchange,@eyeshield2333 @zksync from L1 to zksync?,0,1,0,2021-11-05
+44,2021-11-06 21:57:08+00:00,1457104788823412742,ZigZagExchange,"@hikikomori5_5 neverrrrrrrr
+
+or maybe soon
+
+idk",53,7,6,2021-11-06
+69,2021-11-07 03:28:25+00:00,1457188162019672065,ZigZagExchange,"Some people have placing stink asks at 6000 and even 60000 per ETH, so I've filtered the market making section to only show bids within 2% of spot https://t.co/SQ574I69gw",4,2,0,2021-11-07
+95,2021-11-08 18:56:56+00:00,1457784217513848836,ZigZagExchange,@hikikomori5_5 ngl I'm having a really hard time figuring what to call the ticker,1,1,0,2021-11-08
+101,2021-11-09 23:25:12+00:00,1458214118326894592,ZigZagExchange,@ukolodny @GuthL 😂,0,0,0,2021-11-09
+111,2021-11-10 05:08:36+00:00,1458300535472152577,ZigZagExchange,"mooar liquidity added at tighter spreads. 
+
+6 points from spot to bid now. https://t.co/YyEOo5fAby",11,1,0,2021-11-10
+127,2021-11-11 17:57:35+00:00,1458856445693218821,ZigZagExchange,@0xMondo @xbtsimpx @zksync there's been a lot of bug reports today so it sounds like a problem. my guess is the websocket is crashing and not pushing orders after a while. I'll put in an error notice so that's clear in the UI.,3,1,0,2021-11-11
+141,2021-11-12 21:13:48+00:00,1459268211216510977,ZigZagExchange,@BanklessHQ yes,3,0,0,2021-11-12
+148,2021-11-13 22:58:30+00:00,1459656949910290432,ZigZagExchange,@BowTiedBustard this is the account intiation transaction for @zksync . they might have an answer as to why it's not readable.,0,1,0,2021-11-13
+156,2021-11-14 05:34:51+00:00,1459756693340884994,ZigZagExchange,"zksync is speedy again.
+
+we pushed a semi-fix for the nonce issue.
+
+only about 5% orders are failing now. hope to drive that down to 1% in the next few days.",30,6,1,2021-11-14
+160,2021-11-15 16:05:32+00:00,1460277799441235977,ZigZagExchange,"Did 2000 orders yesterday, the highest so far, for a total volume of 600k USDT :)
+
+Our first $1M volume day should be coming up soon",26,4,0,2021-11-15
+167,2021-11-16 00:18:03+00:00,1460401745700417540,ZigZagExchange,New UI theme is up. Feedback appreciated. Looking to see what people think https://t.co/z7ALTEptC9,35,5,1,2021-11-16
+169,2021-11-17 15:59:59+00:00,1461001177471062028,ZigZagExchange,@RexCloud_R @OvenRoasts @defi_airdrops @zksync @StarkWareLtd There's no liquidity on the testnet.,1,0,0,2021-11-17
+184,2021-11-18 17:22:15+00:00,1461384268412715009,ZigZagExchange,"@very_cool_npc @kcrypta @joejeronimo @IosnirSiqueira @defi_airdrops @zksync @StarkWareLtd I'm saying on zigzag, you don't pay fees",1,1,0,2021-11-18
+189,2021-11-19 19:17:56+00:00,1461775770829869061,ZigZagExchange,"2/6
+
+You can request Rinkeby test Ether at https://t.co/7d9xm3SzCP through a tweet (there might be a queue). 
+
+Check if your ETH has arrived at https://t.co/N6TTD0GT4V. https://t.co/9i56VpUo5w",48,47,9,2021-11-19
+199,2021-11-20 05:12:17+00:00,1461925341056811008,ZigZagExchange,@konggu12345 @zksync The slider maxes out at 99% so it doesn't throw an error becuase of price volatility.  Maybe it's just better to set it back,3,2,0,2021-11-20
+203,2021-11-21 06:48:49+00:00,1462312025158156290,ZigZagExchange,"Our all in stablecoin price is now 0.04% off spot per side.  
+
+Even before gas fees, that's better than Binance and equivalent to Curve. 
+
+After gas fees, that's significantly better than both Binance and Curve for up to 100k size https://t.co/4dU41o0IXo",130,10,13,2021-11-21
+216,2021-11-22 21:27:06+00:00,1462895436709220354,ZigZagExchange,@mewn21 @kevinsekniqi @statelayer We're running swaps for $1 right now. $0.50 for transfers,13,0,1,2021-11-22
+217,2021-11-23 23:05:57+00:00,1463282704200331268,ZigZagExchange,Shoutout to @seanjameshan creator of Starknet.js for making our lives much easier with his library,92,3,5,2021-11-23
+226,2021-11-24 15:50:38+00:00,1463535540393758724,ZigZagExchange,@jav555888 Starknet is on test only mode. It's not ready yet. We'll add the ability to swap today,1,0,1,2021-11-24
+232,2021-11-25 14:29:56+00:00,1463877619821297667,ZigZagExchange,"ZigZag is hiring!
+
+We are looking for a frontend dev to join the team. Our frontend is currently written in react native, but is open to change: https://t.co/OxhKJIaG8j
+
+📍Description: production dev capable of UX/UI design
+📍Availability: long term
+
+👇
+📧https://t.co/cyooYKIqY9",55,6,4,2021-11-25
+235,2021-11-26 21:54:38+00:00,1464351920902971404,ZigZagExchange,@0xOziK all the data is saved,9,2,1,2021-11-26
+246,2021-11-27 17:53:47+00:00,1464653694247391236,ZigZagExchange,@satsdart come to @zksync . $1 swaps on @ZigZagExchange,151,9,7,2021-11-27
+261,2021-11-28 04:27:33+00:00,1464813188143190017,ZigZagExchange,@LPantifriz you're going to be waiting a while buddy,39,6,0,2021-11-28
+262,2021-11-29 20:05:11+00:00,1465411539335368711,ZigZagExchange,"The @zksync team has identified an issue for us where some users have to activate their zkSync account multiple times, resulting in deducted fees (ChangePubKey). We will push a fix the upcoming days.
+
+Please, do not reject network switch!
+
+Thank you for building with us @zksync🙏",226,17,9,2021-11-29
+272,2021-11-30 21:48:08+00:00,1465799836389634053,ZigZagExchange,"@danielno8 well the 2nd signature set the wrong key, so you need a 3rd sig to get you back on the right key unfortunately",0,0,0,2021-11-30
+282,2021-12-01 21:55:38+00:00,1466164108961538054,ZigZagExchange,@RetardVentures @IncomeSharks @syscoin you're right. A token with no exchange is a better exchange instead.,1,1,0,2021-12-01
+288,2021-12-02 06:38:32+00:00,1466295703307649025,ZigZagExchange,@zebosXL I promise my rhetoric won't change the code in the contract,2,0,0,2021-12-02
+325,2021-12-03 17:58:38+00:00,1466829242755436546,ZigZagExchange,"Here is an in-depth medium post of what we are trying to achieve here at ZigZag. I encourage everyone to read this.
+
+https://t.co/27AXoBiTUq",193,15,39,2021-12-03
+328,2021-12-04 00:41:14+00:00,1466930559146344448,ZigZagExchange,@0x_Osprey @TheMekon_Venus @zksync @johnowhetton @argentHQ I'd say we're better for less than 100k now.  By next week that number should be closer to 500k,2,0,0,2021-12-04
+336,2021-12-05 05:46:59+00:00,1467369892298964992,ZigZagExchange,"From a UI perspective, what you want for unsophisticated users is an RFQ. 
+
+Why an AMM has become the de facto method to price the RFQ in the background is a mystery to me. 
+
+It's inertia, not critical thinking.",75,5,3,2021-12-05
+347,2021-12-06 19:48:06+00:00,1467943956029882372,ZigZagExchange,"Heads up developers, we're hiring again! We are building our own StarkNet price feed oracle. Not exclusively for ZigZag, but for the wider network.
+
+A call to all developers with knowledge in Cairo or for the fast learners, we want you here: https://t.co/cyooYKIqY9 https://t.co/noTpnmNY8A",185,10,39,2021-12-06
+352,2021-12-07 19:42:20+00:00,1468304892196442115,ZigZagExchange,"Proposal: Bring MIM onto StarkNet through ZigZag Exchange
+
+https://t.co/lw4sjD0fqv",229,13,25,2021-12-07
+380,2021-12-08 10:26:03+00:00,1468527286508920836,ZigZagExchange,@dareal_sisyphe hi,47,0,0,2021-12-08
+394,2021-12-09 13:55:21+00:00,1468942347392016390,ZigZagExchange,"@Benone111 @zksync @zigzag_finance @StarkWareLtd it's $4-5 per ETH. so like 0.08% off the mid price. that's essentially the market maker's spread. 
+
+we can't do limit orders on zksync 1.0. it was a shitshow when we tried. we'll have them up on 2.0",5,1,0,2021-12-09
+405,2021-12-10 12:14:34+00:00,1469279371991023620,ZigZagExchange,@dermotmcg sir this looks like an excellent burger so I hope you mean good things by it,3,1,0,2021-12-10
+433,2021-12-11 07:52:30+00:00,1469575807584518144,ZigZagExchange,WBTC-DAI and WBTC-USDC are live https://t.co/e6A22lpwNB,148,6,13,2021-12-11
+464,2021-12-12 10:51:08+00:00,1469983150180909057,ZigZagExchange,"Should we create our own @gitcoin grant?
+https://t.co/6k0ENEhL39
+
+We've been self funding, but are getting a lot of requests from the community wanting to donate to us on @zksync. In these early development stages, donations would greatly help scaling up with more developers.",265,59,45,2021-12-12
+479,2021-12-13 21:58:51+00:00,1470513573554270214,ZigZagExchange,"@0xAox @gitcoin StarkNet &amp; zkSync 2.0, can't give you a timeline.",7,1,0,2021-12-13
+486,2021-12-14 04:31:31+00:00,1470612390261641220,ZigZagExchange,I am verifying my ownership of ZigZag Exchange on Gitcoin Grants at https://t.co/AIm3GBTAgx. 👍🎆🎁🎆🎆🎊,242,22,26,2021-12-14
+491,2021-12-15 14:26:21+00:00,1471124476104380416,ZigZagExchange,We're back up. For now it looks the error has been fixed. https://t.co/HeJbaJKmIA,98,10,7,2021-12-15
+495,2021-12-16 04:10:09+00:00,1471331789897494532,ZigZagExchange,We're adding a new market maker. Expect some instability for the next 20 min.,135,5,6,2021-12-16
+506,2021-12-17 16:58:20+00:00,1471887496258670600,ZigZagExchange,Very excited for the launch! Our exchange is ready. It has been great working with @argentHQ https://t.co/DdmcgcaQtJ,368,8,39,2021-12-17
+512,2021-12-18 13:32:36+00:00,1472198112567566338,ZigZagExchange,Projects that take on the complexity of ZK native coding will have a huge edge going forward.,105,5,7,2021-12-18
+529,2021-12-19 06:18:51+00:00,1472451340840280068,ZigZagExchange,@Mwelmii copy pasta alert,1,1,0,2021-12-19
+537,2021-12-20 19:19:16+00:00,1473010126445498382,ZigZagExchange,"@Hodlllll Thank you mate, but we're already live on zkSync mainnet. Friday is regarding fast 1 minute withdrawals from zkSync to Ethereum 🙂",11,2,0,2021-12-20
+545,2021-12-21 05:09:09+00:00,1473158578663952389,ZigZagExchange,@cX03XYj46Uu6dN9 sir they don't let you send ETH on mainnet for free,2,1,0,2021-12-21
+559,2021-12-22 08:07:49+00:00,1473565926440140801,ZigZagExchange,"The bridge has operated perfectly for 24 hours. 
+
+We've topped it up to 50 ETH in liquidity so you can start sending larger orders through it. https://t.co/3OAh2Dx7iL",200,12,19,2021-12-22
+562,2021-12-23 17:03:26+00:00,1474063108943466506,ZigZagExchange,"@0xMazur @argentHQ @TitanXBT @zksync Not true. a 30k trade on Serum costs $75, while it costs $1 with Zigzag.",63,2,1,2021-12-23
+565,2021-12-24 15:24:19+00:00,1474400553367187459,ZigZagExchange,"We've added the ZigZag market maker addresses to our docs that as of right now have a total of $13.4M in liquidity with ~$2M depth on ETH and USDC.
+
+https://t.co/CyXplEdanP",210,11,21,2021-12-24
+570,2021-12-25 22:08:57+00:00,1474864771690344451,ZigZagExchange,"We're not just creating a revolutionary exchange, but also helping to change the world a step at a time.
+We donated $50k to 4 organisations:
+@SavetheChildren - Afghanistan Crisis
+@GiveDirectly - Poverty Africa
+@HappyHeartsIndo - Build schools Indonesia
+@YGGPilipinas - Typhoon
+1/2 https://t.co/YTgMavTLPg",387,24,43,2021-12-25
+573,2021-12-26 10:04:20+00:00,1475044801925955586,ZigZagExchange,"ETH-USDC is now our most liquid pair with ~$1.5M of liquidity on either side within 0.5%.
+
+Come fill those big orders on @zksync . You don't need Uniswap to trade size on ETH anymore. https://t.co/9OrkOACULP",434,24,37,2021-12-26
+575,2021-12-28 17:59:04+00:00,1475889048698834948,ZigZagExchange,"@un4w4r3 @HaymanLiron there's hundreds of billions of liquid assets looking for yield in crypto, and if the demand gets one-sided, the ROI will be very high to loan your assets to our bridge",1,0,0,2021-12-28
+585,2021-12-29 16:46:04+00:00,1476233063759712257,ZigZagExchange,"As a bonus, we realized that this could serve as a decentralized file storage layer for L2s, so we decided to open source the code and spin it off as a separate project.",25,2,0,2021-12-29
+602,2021-12-30 15:32:52+00:00,1476577031047372800,ZigZagExchange,@Imanolsf yup. all their trades get routed to us,3,0,0,2021-12-30
+615,2021-12-31 14:20:03+00:00,1476921093776629769,ZigZagExchange,A special thanks to @SudoLosAngeles for his ongoing efforts into making our platform a success. He has been vital. Thank you! ♥️ https://t.co/66BqAE9STc https://t.co/WqbTGdUOzz,66,4,4,2021-12-31
+627,2022-01-01 18:32:26+00:00,1477346998961455107,ZigZagExchange,@JF_invests @zigzagdev99 @BTC_Mastermind @zksync @mute_io @argentHQ Not just plans. ZigZag will be live at 2.0 launch and liquidity (currently $10M+) be moved over as well. The whole point of building on 1.0 already is to have a better product on 2.0.,2,0,0,2022-01-01
+634,2022-01-02 14:05:38+00:00,1477642240457646083,ZigZagExchange,"@DizzyLizzySol @zksync Thank you for your feedback, appreciated. 
+Your Tradingview widget is slow, a refresh usually fixes that. In time we'll have our own chart.
+We aim for deep liquidity in our current pairs, permissionless listing will be up soon.
+$1 is fixed to cover network fees (we pay those).",34,2,1,2022-01-02
+636,2022-01-03 15:35:04+00:00,1478027137114263552,ZigZagExchange,@David63175385 ?? Could you tell us more please?,0,1,0,2022-01-03
+640,2022-01-04 17:20:01+00:00,1478415934356279297,ZigZagExchange,"Chrome throws an ugly warning on that link so here's a fresh link that feels fuzzy: 
+
+https://t.co/Rc5hhhjXd4",32,2,2,2022-01-04
+643,2022-01-05 08:12:44+00:00,1478640595396554752,ZigZagExchange,Sorry last poll didn't come out right. Re-doing it.,108,7,3,2022-01-05
+649,2022-01-06 18:51:44+00:00,1479163792030240771,ZigZagExchange,There's some new fancier market making code running on Rinkeby that will enable permissionless pairs. It's highly experimental so apologies if it breaks while we're asleep. Fullly expect some downtime there tonight.,157,5,12,2022-01-06
+657,2022-01-07 04:57:55+00:00,1479316345556590592,ZigZagExchange,@zgm8881 No smart contracts,0,1,0,2022-01-07
+659,2022-01-11 19:37:17+00:00,1480987196664471552,ZigZagExchange,"@IncomeSharks @DecentraPower Because we're cheaper and utilising ZK Rollup tech. We're live on zkSync 1.x already. In a few weeks we'll have permissionless pair listing up, so you'll be able to trade anything on zkSync 1.x, just like on Uniswap. 
+
+Isn't that what you're looking for?",13,4,1,2022-01-11
+661,2022-01-12 13:34:04+00:00,1481258177262141442,ZigZagExchange,@GMGandenberger @fraxfinance Wait 3 hours. It will arrive. It takes about 7 hours max for the bridged assets to go back to L1. We're working on a solution to make it faster,11,1,0,2022-01-12
+663,2022-01-13 12:54:46+00:00,1481610676644814848,ZigZagExchange,@VedanaAnicca Right now you can only trade within the Argent App. In the future you can use the app through Wallet Connect on our website.,0,1,0,2022-01-13
+664,2022-01-16 00:40:33+00:00,1482513067674157058,ZigZagExchange,@knowerofmarkets Instantly when using our Fast Withdraw bridge: https://t.co/zAIcHfL215.,19,1,2,2022-01-16
+665,2022-01-17 15:16:49+00:00,1483095973903671301,ZigZagExchange,"In the 2 months since our launch, users have traded a total of $402M in volume on ZigZag.",608,49,50,2022-01-17
+666,2022-01-18 18:18:56+00:00,1483504192828624896,ZigZagExchange,"We'll take the rest of today to do some stability testing, and make sure everything stays up as intended. 
+
+If you'd like to get a head start on liquidity provisioning, you can check out the README at https://t.co/EAmtMw0MLH",39,1,5,2022-01-18
+679,2022-01-19 18:01:42+00:00,1483862245318995968,ZigZagExchange,"@storj If you'd like to contribute liquidity (trusted) or run your own liquidity node (trustless) for any markets, contact us",55,4,3,2022-01-19
+690,2022-01-20 16:48:15+00:00,1484206149448646660,ZigZagExchange,@smithmtnlakeva @storj Please reach out to us on Discord.,0,0,0,2022-01-20
+695,2022-01-21 11:03:35+00:00,1484481795357769736,ZigZagExchange,"Liquidity Boost ⚡️
+
+YFI, LINK, and LUNA now have 40k of liquidity within 1% https://t.co/wPbphtV1Mm",135,6,12,2022-01-21
+699,2022-01-23 06:20:18+00:00,1485135283008196608,ZigZagExchange,@kogayon39 @ElrondNetwork Anytime. You can list it yourself,8,2,2,2022-01-23
+704,2022-01-24 11:39:06+00:00,1485577897268363264,ZigZagExchange,@Ktching_ still having problems?,0,1,0,2022-01-24
+708,2022-01-25 18:09:07+00:00,1486038436855554048,ZigZagExchange,@Nickscrypt @sifchain @zksync this would be ideal. so you're saying we can do it ourselves?,2,2,0,2022-01-25
+719,2022-01-26 14:34:53+00:00,1486346913536688129,ZigZagExchange,All these new pairs and features have led to bugs and elevated server loads. We'll probably spend the next 2 days stabilizing the site and fixing bugs instead of adding more pairs,74,2,6,2022-01-26
+733,2022-01-27 18:08:47+00:00,1486763130667429889,ZigZagExchange,"12/ Between zkSync 2.0 and StarkNet, liquidity will be bridged and shared via our bots so that both chains will be equally viable for traders. 
+
+Traders can choose both ZK Rollups regardless of where their liquidity is.",83,1,7,2022-01-27
+764,2022-01-28 17:39:36+00:00,1487118173237174277,ZigZagExchange,"Use this as your pair settings to be able to capture his orders. 
+
+He sends ETH-USDT orders for ~20 USDT / 0.009 ETH https://t.co/xNCHYDSSiq",28,3,2,2022-01-28
+784,2022-01-29 08:10:20+00:00,1487337302149918721,ZigZagExchange,@parab0lic_skier he did it with 200+ different accounts,4,3,0,2022-01-29
+790,2022-01-30 17:29:06+00:00,1487840305571594241,ZigZagExchange,"Accidentally bricked the server on an update. 
+
+Will be back up soon.",136,11,5,2022-01-30
+791,2022-01-31 10:36:34+00:00,1488098876884234248,ZigZagExchange,"Happy Lunar New Year! 🌑
+
+祝新的一年 🌑
+
+虎虎生威 🐅
+
+恭喜发财 🧧 https://t.co/e2rO0VVA4S",152,13,14,2022-01-31
+795,2022-02-01 00:40:58+00:00,1488311375625605122,ZigZagExchange,"ENS/USDT is now live.
+
+@ensdomains $ENS @ENS_DAO @ensecosystem https://t.co/bdVhASz6la",125,5,8,2022-02-01
+799,2022-02-02 04:15:57+00:00,1488727867055910916,ZigZagExchange,"SHIB/USDC, AVAX/ETH, METIS/ETH, KEEP/ETH are now live for trading!
+
+Which alts do you guys want to see added next?",394,111,36,2022-02-02
+803,2022-02-03 01:13:51+00:00,1489044428568543233,ZigZagExchange,"@boomstaxx soon, but not yet",1,1,0,2022-02-03
+806,2022-02-04 05:43:23+00:00,1489474644503822336,ZigZagExchange,"@metamhjr Been thinking more about this and you’re probably right, it’s just as much of a problem for L2s",0,0,0,2022-02-04
+808,2022-02-06 12:48:53+00:00,1490306502434824196,ZigZagExchange,"We've added 2M of liquidity to FRAX on our fast withdraw bridge
+
+That means you can now withdraw up to 2M FRAX directly from @zksync to L1 in less than a minute
+
+@fraxfinance https://t.co/WydIH0fCB1",208,11,25,2022-02-06
+810,2022-02-07 23:12:23+00:00,1490825800802877441,ZigZagExchange,@TIBETANOTUGA1 We're up again.,1,1,1,2022-02-07
+816,2022-02-08 05:58:53+00:00,1490928098958721025,ZigZagExchange,@blknoiz06 It’s not hard if you’re willing to line up your orders as hard line close to the spot price as possible,11,0,0,2022-02-08
+819,2022-02-09 06:09:32+00:00,1491293168717135874,ZigZagExchange,@42Rules_ Yes. Going to change that to like 50% and 1 week order expiry soon,4,1,0,2022-02-09
+823,2022-02-10 19:21:08+00:00,1491854768268062720,ZigZagExchange,"TOKE/USDT is now live and ready to trade! 
+
+https://t.co/3DGaDPRBNs
+
+@TokenReactor",108,5,11,2022-02-10
+826,2022-02-11 13:49:28+00:00,1492133687097540614,ZigZagExchange,@TokenReactor 🤝,5,1,0,2022-02-11
+828,2022-02-12 19:29:58+00:00,1492581766502096898,ZigZagExchange,"Our fast bridge is low on ETH after somebody withdrew 267 ETH, our largest transaction to date (for only $20 fee).  
+
+It'll be reloaded in 6 hours. Until then, you can withdraw up to 2M $FRAX via the bridge. 
+
+https://t.co/ixcKFbMjSq",117,3,13,2022-02-12
+831,2022-02-13 11:01:44+00:00,1492816251231649796,ZigZagExchange,"@CrypoFuture @AlgodexOfficial @tinymanorg Yes, security has a price. Bridging right now is 8 bucks, activation fee 3 bucks and trading on zkSync is instant.",13,2,0,2022-02-13
+839,2022-02-14 19:16:47+00:00,1493303222911455234,ZigZagExchange,@fatihbilgili @zksync Ok we'll tighten that one up. Our goal is to be as good as L1 for anything,1,1,0,2022-02-14
+847,2022-02-15 10:42:59+00:00,1493536309738102798,ZigZagExchange,"""In randomized testing, our matching engine (built on top of zkSync 1.0) routinely fills orders at 5–7bps below Uniswap. On a $1M trade, that’s $700 in savings.""
+
+👇
+https://t.co/bVAtFJ23bR",92,4,11,2022-02-15
+849,2022-02-17 08:06:36+00:00,1494221729174278146,ZigZagExchange,@Tawfu @argentHQ @ChadWestTweets How long does it take for these to fail?. Checking to see if they're expiring or failing,4,2,0,2022-02-17
+850,2022-02-18 09:50:39+00:00,1494610304105607168,ZigZagExchange,@ElkimXOC @jespow @degderat there's all kind of DEXs you can trade on out there,59,1,0,2022-02-18
+852,2022-02-19 18:10:59+00:00,1495098603680894977,ZigZagExchange,"Our alpha version Mammoth pool has been deployed on Goerli's testnet on StarkNet!
+
+The first Balancer AMM on StarkNet allows anyone to list pairs  while creating pools with custom token combinations in a permission-less manner
+
+New UI coming soon, go test!
+https://t.co/gqBxhlWt05",362,22,69,2022-02-19
+854,2022-02-23 21:14:52+00:00,1496594430639456261,ZigZagExchange,Our newly revamped Trading UI is now live with a lot of new features! Please use it and make sure to report any bugs on our Discord: https://t.co/0Rhm8AsMWr https://t.co/BTbwuttQQj,159,9,30,2022-02-23
+855,2022-02-24 17:05:01+00:00,1496893943900151812,ZigZagExchange,@ecgenc @Derivatives_Ape are you an expert on the Russia-Ukraine conflict?,7,1,0,2022-02-24
+864,2022-02-26 16:45:48+00:00,1497613881564626944,ZigZagExchange,@_Jack_Alderson we don't do bad https://t.co/fUSFhpCFSS,2,0,0,2022-02-26
+878,2022-02-27 15:02:15+00:00,1497950212853219332,ZigZagExchange,@CryptoBadNews It's a UI glitch we have to fix.,0,0,0,2022-02-27
+880,2022-02-28 14:56:30+00:00,1498311151339589637,ZigZagExchange,"We do 3x as much daily volume as Loopring.
+
+We'll get ourselves added to CMC and put some data dashboards up so it's more clear how impressive our numbers are https://t.co/qZD3bFGKpJ",160,13,11,2022-02-28
+883,2022-03-02 18:08:31+00:00,1499084250121125888,ZigZagExchange,"Had a great call with @akashnet_ today. 
+
+They're launching persistent storage soon. Hopefully we can launch on their mainnet and decentralize our backend when they're ready💪",223,18,27,2022-03-02
+884,2022-03-05 10:08:01+00:00,1500050492852150273,ZigZagExchange,@agentsiipi @Swagtimus every tweet costs 0.001% of your soul so the price varies from person to person 😉,4,0,0,2022-03-05
+888,2022-03-07 18:51:22+00:00,1500906971972927488,ZigZagExchange,@ToTheLoom ooh awesome man. thank you.,0,0,0,2022-03-07
+897,2022-03-08 02:49:19+00:00,1501027253676871687,ZigZagExchange,"LUNAtics can now vote on our new @terra_money proposal
+
+Proposal: Additional #UST liquidity for ZigZag Exchange
+https://t.co/tyXe1ENG2T",211,21,34,2022-03-08
+900,2022-03-09 18:32:38+00:00,1501627032890867713,ZigZagExchange,@okans_eth @zksync LOL there are pros and cons to cheap trades 😁,2,1,0,2022-03-09
+908,2022-03-10 16:45:04+00:00,1501962353772208128,ZigZagExchange,@fazlali2022 @gitcoin @zksync none of them lol. you're just buying exposure to the $GTC token,1,0,0,2022-03-10
+911,2022-03-11 13:57:36+00:00,1502282595220213762,ZigZagExchange,"@Cryptopunk0_0 @0xPolygon where is that single point? it seems like anyone can stake MATIC to become a validator, and any validator can be randomly selected to be a block producer. 
+
+Is there something we're missing?",2,0,0,2022-03-11
+922,2022-03-12 12:37:31+00:00,1502624828666564608,ZigZagExchange,"@bhitpostn @Swagtimus @VitalikButerin PoW was a great way to start. I was curious if PoS is even worth doing, but the comments here have convinced me it is.",7,0,0,2022-03-12
+936,2022-03-13 17:03:30+00:00,1503054156071809026,ZigZagExchange,That was fast. Thanks for labeling our bridge address @polygonscan https://t.co/1Ir1rtc4hj,101,2,7,2022-03-13
+952,2022-03-14 15:16:18+00:00,1503389566308339722,ZigZagExchange,@Raonekirk1 @zksync @0xPolygon zkSync 1.x uses Ethereum mainnet network.,0,0,0,2022-03-14
+955,2022-03-15 22:05:05+00:00,1503854827377512465,ZigZagExchange,We also received an additional 25M in ETH and WBTC liquidity to support the 25M UST from @terra_money's community pool.,136,0,4,2022-03-15
+971,2022-03-16 14:25:56+00:00,1504101664093048836,ZigZagExchange,"@CarlIcoin dYdX is a perp DEX where you can only use USDC as collateral. ByBit is CEX. We are a spot (for now) DEX.
+
+With UST pairs we can offer the best prices with deep liquidity. On StarkNet and zkSync 2.0 we'll be able to launch liquidity pools, so this issue won't exist anymore.",1,1,0,2022-03-16
+981,2022-03-17 09:50:21+00:00,1504394700563914755,ZigZagExchange,@lordneros @argentHQ Should be fixed now.,4,0,1,2022-03-17
+982,2022-03-19 19:06:42+00:00,1505259487585869828,ZigZagExchange,@0xUmamiPapi Stay tuned for next month 👀,1,0,0,2022-03-19
+983,2022-03-20 01:45:02+00:00,1505359731661029379,ZigZagExchange,"If this is true, fee problems are going to be solved by the end of the year https://t.co/NISR5tZvMF",177,6,21,2022-03-20
+989,2022-03-21 11:24:53+00:00,1505868041887707144,ZigZagExchange,@gyan_eth Find us a good leverage token.  We're looking,2,1,0,2022-03-21
+1000,2022-03-25 15:03:58+00:00,1507372725869977600,ZigZagExchange,"Instructions on how to use our Polygon bridge can be found here:
+https://t.co/jbR2kdZVy2",57,2,4,2022-03-25
+1003,2022-03-28 13:18:27+00:00,1508433336473206785,ZigZagExchange,"@pseudotheos @BrianSoule @zksync Great initiative you're taking with writing the reSync newsletter and covering the zkSync ecosystem. We're happy to be live on zkSync 1.0 mainnet with exciting volume and also providing Argent's infrastructure. If you ever have any questions, just send a DM!",10,1,1,2022-03-28
+1006,2022-03-29 11:03:02+00:00,1508761644951875584,ZigZagExchange,"@tomhaverford24 @Derivatives_Ape @AlgodTrading We'd love to hear your feedback. You're very welcome to join our Discord and discuss with our team. We'll be waiting for you!
+https://t.co/4MhDz02pwx",2,0,0,2022-03-29
+1009,2022-03-31 15:08:02+00:00,1509548079606910976,ZigZagExchange,@mbarto6 This is a scam.,1,0,0,2022-03-31
+1011,2022-04-08 12:06:57+00:00,1512401609157980162,ZigZagExchange,"You can now bridge your $ETH and $USDC from 9 CEXs to @zksync through @layerswap!
+
+Then enjoy low fee trades on ZigZag through zkSync's atomic swaps: the cheapest swaps on the L2 market!
+https://t.co/S2XFUZwYDT https://t.co/ya1fRtiHEF https://t.co/5Ysg3AZ0PD",232,17,45,2022-04-08
+1012,2022-04-10 07:20:20+00:00,1513054256051412994,ZigZagExchange,@Johnny60667374 @WalletConnect We have WalletConnect 🙂,1,1,0,2022-04-10
+1014,2022-04-12 19:05:22+00:00,1513956458978807816,ZigZagExchange,"Our StarkNet Oracle code is done: https://t.co/TkS8rHCPor
+The first one on StarkNet @StarkWareLtd.
+
+We are recruiting ~15 StarkNet projects to run our oracle as node operators to help us with testing (see Github readme). After testing we will able to launch the oracle on mainnet.",192,9,38,2022-04-12
+1017,2022-04-14 18:34:19+00:00,1514673419547254785,ZigZagExchange,"Millions of users can now instantly move funds between @zksync and @Bybit_Official to trade on ZigZag.
+
+We're also very happy that a ""swap"" button is integrated into the zkSync wallet, which directly leads to our DEX!
+https://t.co/S2XFUZwYDT https://t.co/hCOfJRdiH7 https://t.co/iTudDNXP6o",147,8,28,2022-04-14
+1018,2022-04-18 09:21:47+00:00,1515983924404568067,ZigZagExchange,"@0xmamedai On ETH/USDC, the market maker bots are being run by the community. ZigZag MM's run on ETH/UST, allowing for big size and the best rates.",2,0,0,2022-04-18
+1019,2022-04-20 00:50:48+00:00,1516580106684219393,ZigZagExchange,"Heads up developers, we're hiring again! We're looking for a SENIOR front-end developer: available full-time with experience in React, Web3.js and Solidity. 
+
+⚡️Do you think you're suitable for the role? Wait no longer! ⚡️
+📩 Apply here: https://t.co/PitoYfjsnm https://t.co/tzUWfyjnmg",82,8,18,2022-04-20
+1020,2022-04-28 09:02:28+00:00,1519602942239813632,ZigZagExchange,"We're cruising towards some of our ATH stats once again. Yesterday:
+Unique users - 5151
+Trades - 15406
+
+How will our @0xPolygon &lt;&gt; @zksync bridge (live soon) affect these numbers? 👀 https://t.co/pxfgCatKgS",365,30,68,2022-04-28
+1023,2022-04-30 09:48:21+00:00,1520339261085696000,ZigZagExchange,"$50k ZigZag Mascot Competition!
+
+Today we are launching a graphic design competition on our Discord (https://t.co/7TGmWdLH2h) to find a mascot for ZigZag Exchange. The contest will last till the end of May. The final winner, determined by a community vote, will win $25,000!
+1/3",377,27,110,2022-04-30
+1026,2022-05-02 11:07:44+00:00,1521084014316167169,ZigZagExchange,"60% yield on your ETH? @cypherdoc1 made it happen.
+
+Community members run their own market maker bots, providing liquidity to our exchange while capturing revenue. We encourage you to do the same!
+
+Run one yourself and get the ""MM bot""-role in our Discord: https://t.co/2h3zSLy7CQ https://t.co/RZ1wgz5Pqv",171,11,20,2022-05-02
+1027,2022-05-03 06:22:21+00:00,1521374584209125377,ZigZagExchange,@guoguo51661148 BAYC's Otherside Metaverse land sale for Otherdeed NFTs. This affected fees on zkSync.,9,1,0,2022-05-03
+1028,2022-05-04 12:37:18+00:00,1521831331344355328,ZigZagExchange,"@Al71009692 @OlimpioCrypto @Orbiter_Finance Correct, but we also provide fast withdrawals (our own bridge). And our Polygon &lt;&gt; zkSync bridge is almost live.",0,0,0,2022-05-04
+1030,2022-05-06 15:34:44+00:00,1522600759262687233,ZigZagExchange,@Crypt0Sporydium Please reach out in Discord: https://t.co/7TGmWdLH2h,0,0,0,2022-05-06
+1031,2022-05-12 07:08:09+00:00,1524647601030770688,ZigZagExchange,"Take a moment to pause. Think about the little things in real life, the physical world.
+
+A kiss from a loved one, happy screams from playful kids, baby ducks in the park, tasting good food, smelling fresh cut grass, feeling sunlight on your skin.
+
+What little things do you love? https://t.co/dnrlzk9Wmg",324,39,43,2022-05-12
+1032,2022-05-13 09:14:16+00:00,1525041725978337280,ZigZagExchange,"@0xBoneSoup @0xfbifemboy @0xdoug @antonttc We are building a decentralized order book spot DEX on StarkNet, after which we will add perps.
+
+Currently live on zkSync 1.0.",3,0,0,2022-05-13
+1034,2022-05-14 14:11:16+00:00,1525478858081849344,ZigZagExchange,"Please be informed that the ZigZag team does not promote any NFT project and does not endorse any NFT mint.
+
+We are building our own NFT marketplace with permissionless listings!
+
+And in fact, we have a little something ourselves.. 👀 https://t.co/cRkRKQVQyF https://t.co/UNqDvm6rpl",444,45,78,2022-05-14
+1035,2022-05-16 19:38:39+00:00,1526286023252140032,ZigZagExchange,@qedk_ @0xPolygon @zksync @argentHQ Please reach out in our Discord (https://t.co/4MhDz02pwx).,0,0,0,2022-05-16
+1038,2022-05-17 16:34:56+00:00,1526602175274786816,ZigZagExchange,@MartianBitcoin @argentHQ @zksync This is safe. zkSync uses it in their wallet as well. https://t.co/Rdebcig4a6,3,0,0,2022-05-17
+1045,2022-05-18 21:41:07+00:00,1527041617466732546,ZigZagExchange,"A quick update on our $50k mascot contest.
+
+So far we've received many entries from our lovely community. Here's a glance at four submissions: @CybertoothK @branddesignshq @friston131 @IzadGFX.
+
+What are you still waiting for? There's ~2 weeks left to design the winning mascot!👇 https://t.co/IdpwmCEIGQ https://t.co/nGJvmxTxuZ",95,4,15,2022-05-18
+1046,2022-05-19 17:55:33+00:00,1527347240800440333,ZigZagExchange,"ZigZag's market makers have listed alts against USDC (23 pairs) and USDT (19 pairs). 
+
+The past 24 hours we had more than 5000 unique users and a whopping 100+ market makers!
+
+Which other alts would you like to see listed?
+
+https://t.co/S2XFUZfnfj https://t.co/eSt5j1dOq2",271,41,38,2022-05-19
+1047,2022-05-20 07:35:49+00:00,1527553665350963201,ZigZagExchange,@Abdymorenno10 Please reach out in our Discord: https://t.co/4MhDz02pwx.,0,0,0,2022-05-20
+1050,2022-05-21 14:16:06+00:00,1528016788642050052,ZigZagExchange,"@n5131519 This pair is being run by a third party, @indexcoop.",1,1,0,2022-05-21
+1052,2022-05-24 09:14:46+00:00,1529028121688788993,ZigZagExchange,@rickblock @0xPolygon @zksync Please reach out to our mods in Discord: https://t.co/4MhDz02pwx.,0,0,0,2022-05-24
+1054,2022-05-26 09:30:32+00:00,1529756861829984261,ZigZagExchange,"Fan of @TheSandboxGame?
+
+Trade $SAND now on ZigZag Exchange!
+
+https://t.co/S2XFUZwYDT https://t.co/YGrGAq6fRp",227,10,17,2022-05-26
+1055,2022-05-31 14:49:46+00:00,1531649142749073408,ZigZagExchange,"Submissions for our Mascot Competition are closing in less than 10 hours! 
+
+Join our Discord (https://t.co/JEbax9dyMU) to submit your mascot.
+
+https://t.co/kjNSMV22N4 https://t.co/IdpwmCEIGQ https://t.co/nKKG2sTglG",75,3,9,2022-05-31
+1056,2022-06-03 23:54:44+00:00,1532873451396116484,ZigZagExchange,"Thank you to everyone who participated in the ZigZag mascot competition; we hope you enjoyed it!
+
+There have been some pretty outstanding contributions throughout this one-month journey, which made it difficult for the team to narrow down the submissions to a top 10,",250,17,22,2022-06-03
+1060,2022-06-08 12:14:06+00:00,1534509068697620482,ZigZagExchange,"We're excited by the launch of the Atlendis protocol by @AtlendisLabs, where we are one of the first institutional borrowers having our own USDC pool! https://t.co/V7gUkilI2g",189,9,25,2022-06-08
+1061,2022-06-09 07:27:16+00:00,1534799272675254274,ZigZagExchange,"50k.. 🤝
+
+Our community has grown faster than we could have ever imagined.",601,41,44,2022-06-09
+1064,2022-06-13 16:05:00+00:00,1536379116068683786,ZigZagExchange,@AlexisMasseron @CelsiusNetwork @AtlendisLabs 🫡,23,0,1,2022-06-13
+1066,2022-06-17 09:58:07+00:00,1537736339835297794,ZigZagExchange,@visu25 @taureau75_ Fixed.,6,2,1,2022-06-17
+1068,2022-06-20 16:00:24+00:00,1538914671809310720,ZigZagExchange,"@zksync By launching the first IDO on ZigZag ourselves, we lead the way for other projects seeking for an IDO launchpad that takes no fees in a permissionless and decentralised manner.
+
+We are confident that many other projects will follow suit to launch their IDO on our platform.",145,7,13,2022-06-20
+1084,2022-06-24 11:09:10+00:00,1540290931756351491,ZigZagExchange,"Our token is going public today! Tokenomics and IDO details are explained here.
+
+https://t.co/t6lKu6AlYg",586,306,133,2022-06-24
+1087,2022-06-25 19:38:55+00:00,1540781604775219200,ZigZagExchange,"ZigZag token's price can now be tracked on Coingecko.
+
+One-sided liquidity has also been added on Uniswap starting at the price of $3.5, for anyone wishing to buy on L1.",314,77,32,2022-06-25
+1089,2022-06-27 08:12:55+00:00,1541333743754944515,ZigZagExchange,@dimdeDici Treasury will be governed by the DAO..,14,3,1,2022-06-27
+1092,2022-07-01 15:31:43+00:00,1542893722064633856,ZigZagExchange,Two massive updates upcoming. One next week. Can you guess the other? https://t.co/EPe2mH5dob,357,120,50,2022-07-01
+1093,2022-07-04 16:16:45+00:00,1543992216900624385,ZigZagExchange,"Introducing: InvisibL3!
+
+Our brilliant team of developers from @ZigZagLabs have been working on a Layer 3 ZK Rollup for private transactions on StarkNet @StarkWareLtd, a feasible add-on to ZigZag Exchange.
+
+Read our technical introduction: https://t.co/iU6vwenPCO
+
+1/2",498,26,107,2022-07-04
+1096,2022-07-05 16:44:05+00:00,1544361483508785153,ZigZagExchange,@sassal0x @thedailygwei @0xPolygon @Uniswap Interesting topics.,19,0,2,2022-07-05
+1097,2022-07-07 20:37:16+00:00,1545144943475183617,ZigZagExchange,"We never stop shipping.
+
+First off, a long awaited upgrade.. we are excited to share that our new UI upgrade is now live!
+
+As rumoured, our Arbitrum expansion is also around the corner. ZigZag's multi-layer vision is becoming a reality sooner than expected.",276,39,34,2022-07-07
+1102,2022-07-08 19:30:02+00:00,1545490409715113992,ZigZagExchange,Honoured to be part of this journey and we're glad to have contributed to this amount with our users 🙏 https://t.co/2CgPi4DbDy,218,25,29,2022-07-08
+1103,2022-07-22 19:52:56+00:00,1550569604883353601,ZigZagExchange,"You can now trade on our @Arbitrum's alpha release!
+
+With upgrades made to our protocol:
+- Placing multiple orders
+- Functioning partial fills
+
+We can now start taking fees, and for the first time, start earning revenue as a protocol.
+
+Try it now at: https://t.co/D14dyCZnNA https://t.co/XWHqK1F1ia",441,60,89,2022-07-22
+1107,2022-07-23 03:58:15+00:00,1550691740155142146,ZigZagExchange,@newwanger I think another 3-4 weeks. We just started development a few days ago,1,1,1,2022-07-23
+1111,2022-07-26 04:00:21+00:00,1551779432225861632,ZigZagExchange,"@BitDoggie it's super unique only because we had to work around some limitations on zksync 1.0.
+
+if you check our arbitrum protocol, it's much more like you'd conventionally expect. no crossing orders and limit orders can fill each other",2,1,0,2022-07-26
+1112,2022-08-02 02:51:21+00:00,1554298778860994560,ZigZagExchange,@hao_dev_777 It looks like whoever was offering liquidity there pulled it. I don't think it was us,0,0,0,2022-08-02
+1113,2022-08-05 15:34:13+00:00,1555577924337762304,ZigZagExchange,"✨Introducing Dynamic Layouts!✨
+
+Dynamic layouts allow you to customise the UI by dragging and resizing specific areas.
+
+1⃣ Launch the dApp and go to ""Settings"".
+2⃣ Press ""Unlock &amp; Customise layout"".
+3⃣ Customize the layout to your desire.
+4⃣ Lock the layout and enjoy trading! https://t.co/2xvM8JwRtB",143,22,29,2022-08-05
+1116,2022-08-12 18:33:07+00:00,1558159663870496770,ZigZagExchange,"Our @AtlendisLabs loan has been safely returned to the pool. It was greatly helpful to both our @zksync and @arbitrum DEX. Thanks to all the lenders that believed in us!
+
+We can't wait for our next borrow cycles with competitive rates and start including ZZ rewards when possible. https://t.co/aEMdvvOq5E",146,18,20,2022-08-12
+1118,2022-08-13 07:44:15+00:00,1558358756181819394,ZigZagExchange,Some neat L2 data displayed on @Orbiter_Finance’s website: https://t.co/QqMVsTUAOd https://t.co/2DWhLDiA5e,98,7,14,2022-08-13
+1119,2022-08-19 13:26:02+00:00,1560619098978934785,ZigZagExchange,"$0.03 for a swap. Truly revolutionary, and it's only going to get better when we launch on @zksync 2.0! For now, use your Argent wallet or visit https://t.co/S2XFUZfnfj! https://t.co/5XgalpLeOf",146,14,23,2022-08-19
+1121,2022-08-21 19:52:16+00:00,1561441070931656710,ZigZagExchange,"@baroktrades @zksync Yeah, that's fine. When you select Argent zkSync you need to scan the QR code with your Argent *mobile* app. The QR code will look the same as WalletConnect, but it'll work. Just make sure you select Argent zkSync.",1,1,0,2022-08-21
+1122,2022-08-24 12:58:41+00:00,1562424153726414849,ZigZagExchange,@gjsbmw Please reach out for assistance at our Discord server - https://t.co/4MhDz02Xm5,2,0,0,2022-08-24
+1124,2022-08-31 23:27:22+00:00,1565119084710268929,ZigZagExchange,"We would like to congratulate @arbitrum for such a great milestone with the Nitro upgrade!
+
+Fees are now lower ⬇️, and txns are faster, too 💨 
+
+Oh and did we mention we offer the best spread on ETH-USDC, WBTC-USDC and USDC-USDT? 👀 https://t.co/hunWazC3wQ",167,21,24,2022-08-31
+1125,2022-09-08 15:03:52+00:00,1567891477467897856,ZigZagExchange,3 new languages were added to ZigZag! https://t.co/mUeq37J75K,223,29,15,2022-09-08
+1126,2022-09-14 08:03:23+00:00,1569959986104799233,ZigZagExchange,@audfosmr18 Korean has been added as well.,1,1,1,2022-09-14
+1127,2022-09-15 16:18:24+00:00,1570446946225233920,ZigZagExchange,"Let's talk about ZigZag's token and its envisioned use case.
+
+ZigZag Exchange's goal has always been to create a community-owned exchange where token holders are the equitable owners.
+
+The key components here: Buy-backs and rebates.
+
+Diving in detail about what this will mean 👇 https://t.co/w4UbnPbxGs",268,54,64,2022-09-15
+1135,2022-09-20 09:41:06+00:00,1572158903118630913,ZigZagExchange,"Did you know?
+
+Swapping on ZigZag Exchange's beta version of @arbitrum gives the best prices out of any other DEX, even compared to aggregators.
+
+Efficiency in the use of liquidity between order book models versus AMM is incomparable. https://t.co/t2p9OJZR2n",248,36,44,2022-09-20
+1136,2022-09-22 18:42:58+00:00,1573020044640063488,ZigZagExchange,"On top of that, we're still upgrading our smart contracts on our Arbitrum DEX and adding token rebates for traders. More features are constantly being developed. 
+
+We want to get the infrastructure right first, so we can soon get ourselves audited.
+
+4/6
+https://t.co/9cGMQCL6LG",21,1,2,2022-09-22

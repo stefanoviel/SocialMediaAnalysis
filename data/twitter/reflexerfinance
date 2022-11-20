@@ -1,0 +1,626 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-10-13 00:03:56+00:00,1315805432687005697,reflexerfinance,The best way to start your week is with some Solidity vs Python simulations. The next couple of weeks will be very interesting 🤫 https://t.co/PaDE9CSeRN,16,1,7,2020-10-13
+1,2020-10-29 14:56:04+00:00,1321828153652879360,reflexerfinance,"Our mainnet demo is live! Check the announcement post for details about how you can create Proto RAI and monitor the system 💻
+
+https://t.co/LendJ8s3we",117,4,24,2020-10-29
+2,2020-10-30 01:10:39+00:00,1321982816926736384,reflexerfinance,"@fraxfinance @ameensol We will have some a bit later after we finish audits and other incentive and security checks.
+
+Let us know when you launch!",1,0,0,2020-10-30
+3,2020-11-05 22:21:56+00:00,1324477074048978944,reflexerfinance,"The PRAI PID has been activated! 🥳
+
+Check our stats page for more data and join our Discord so we can help you break it 🤡
+
+https://t.co/C2kOxKY721
+https://t.co/ENwPZ72iwV https://t.co/bKwgBV4E5A",27,0,6,2020-11-05
+4,2020-11-15 20:58:25+00:00,1328079935991402500,reflexerfinance,@NepalBlockchain What excites us the most is that we're slowly going toward what @ameensol is calling token physics 🤓,1,0,0,2020-11-15
+5,2020-11-17 15:23:51+00:00,1328720513515081734,reflexerfinance,"For those of you who are asking ""how does dampened ETH look like?"", here's a helpful graph.
+
+Yellow and green are both valid targets for RAI 📊 https://t.co/B4x18oJRcN",9,1,2,2020-11-17
+6,2020-11-24 21:38:06+00:00,1331351412333228035,reflexerfinance,"@themandalore9 @OpenZeppelin @MetaCoinProject For RAI's market price we're currently using Uniswap v2 TWAPs and they are available 24/7.
+
+For the ETH market price we'll want to transition to a model where we medianize from multiple sources.
+
+There's no ""solution"" for the oracle problem. Only different constraints.",4,1,0,2020-11-24
+7,2020-11-25 01:29:31+00:00,1331409649111855108,reflexerfinance,"@themandalore9 @OpenZeppelin @MetaCoinProject March 12th would look very similar to DAI in the short term. ETH goes down, RAI goes up.
+
+The difference is that we can go negative with the rate instead of pumping in all the collateral types we can think of.",0,1,0,2020-11-25
+10,2020-11-30 14:10:04+00:00,1333412986539544577,reflexerfinance,"We're growing the team!
+
+Come join us so we can integrate RAI across all of DeFi. The money gods will be forever grateful 🗿
+
+https://t.co/K7d6KNRx8N",25,2,5,2020-11-30
+13,2020-12-01 21:06:21+00:00,1333880138136768514,reflexerfinance,"What is RAI? What can I build with it? Will it return to a peg?
+
+Check our FAQ for answers and insights into what makes RAI tick: 
+
+https://t.co/vEbNjXl3PZ",13,0,1,2020-12-01
+14,2020-12-02 00:51:36+00:00,1333936822104289280,reflexerfinance,"PID control vs central banks.
+
+Both influence imports and exports by tinkering with interest rates.
+
+But only one of them has 330 lines of code. That's monetary policy in your pocket. https://t.co/HjQc0Mzlyg",17,0,3,2020-12-02
+17,2020-12-08 17:36:27+00:00,1336364026960502787,reflexerfinance,"Our native land is being explored. 
+
+Thank you @mccallios for mapping RAI's birthplace 🙏 https://t.co/K0yQBJJi5Y",1,0,0,2020-12-08
+18,2020-12-10 21:54:06+00:00,1337153645213851658,reflexerfinance,"We couldn't have built our webapp and all of our developer tooling without @graphprotocol . 
+
+Thank you for pioneering essential infrastructure for Web3 🙏 https://t.co/pHvw3elWBu",34,1,3,2020-12-10
+20,2020-12-11 23:44:54+00:00,1337543914660782085,reflexerfinance,The flex apes. Expect us https://t.co/qnFqDtkhY3,13,0,1,2020-12-11
+38,2020-12-12 22:34:44+00:00,1337888644640673792,reflexerfinance,"@Aircatchdroper We mainly use Discord and we want to move everyone from Telegram there
+
+https://t.co/4miKs94u6N",1,1,0,2020-12-12
+39,2020-12-13 15:14:26+00:00,1338140226221449218,reflexerfinance,"@ghurabar1 RAI will come in Q1 next year. For now you can only play with PRAI that's more of a demo than a stable asset. See the impact of lack of liquidity
+
+https://t.co/TgWr0w92qe",1,0,0,2020-12-13
+40,2020-12-14 15:55:25+00:00,1338512930418143235,reflexerfinance,@TheTakenUser @valentinmihov Thanks for mentioning us although we're not building a stablecoin 😉,1,0,0,2020-12-14
+46,2020-12-15 17:17:58+00:00,1338896090318467072,reflexerfinance,TL;DR what you need to do if you lever ETH and/or have RAI. https://t.co/Z3klpMaSsk,3,0,0,2020-12-15
+52,2020-12-17 23:04:31+00:00,1339708079970070529,reflexerfinance,🚨 PRAI debt limit increase imminent 🚨 https://t.co/o0qOR6q5BR,12,0,0,2020-12-17
+53,2020-12-18 17:57:01+00:00,1339993083098882050,reflexerfinance,"New changes for Proto RAI:
+
+- ETH-A debt ceiling raised to 20K
+- PID paused until January at which point we will make it weaker than it currently is
+
+Happy leveraging 🎅 https://t.co/hxER5FJuD6",9,1,1,2020-12-18
+55,2020-12-20 21:26:20+00:00,1340770534154485771,reflexerfinance,That was fast 😅 https://t.co/uLbGHC1UwI,4,0,0,2020-12-20
+56,2020-12-22 23:04:37+00:00,1341520044233289732,reflexerfinance,"@yadfarms @BanklessHQ RAI is indeed fundamentally different. It doesn't use a unit of account, it can become one that just doesn't care about any external reference point.",1,0,0,2020-12-22
+67,2020-12-23 00:34:34+00:00,1341542681219088387,reflexerfinance,"@kyoronut There can't be more PRAI than the current debt ceiling:
+
+https://t.co/C2kOxKY721
+
+We can work on a more explicit error message for this scenario. We'll forward to out dev team.",0,1,0,2020-12-23
+68,2020-12-26 19:17:51+00:00,1342912527089496064,reflexerfinance,@TokenBrice @LienFinance Thanks for mentioning us! Although we're not building a stablecoin,0,0,0,2020-12-26
+71,2020-12-27 17:31:23+00:00,1343248122340913153,reflexerfinance,@KamesCG It lasted a couple of hours https://t.co/sLaIPRj26p,2,1,0,2020-12-27
+77,2020-12-29 18:45:46+00:00,1343991617544450050,reflexerfinance,"We often get asked ""what if RAI participants don't do what the PID wants?"".
+
+It's simple: they lose (a lot) of money.",1,1,0,2020-12-29
+80,2020-12-30 15:42:00+00:00,1344307757588078594,reflexerfinance,"You can already reach out to the team and discuss potential integrations!
+
+Here are a couple of ideas to help you get started:
+
+https://t.co/upiHreSeNg",2,1,0,2020-12-30
+86,2020-12-31 13:16:06+00:00,1344633429233692675,reflexerfinance,"Thank you for the mention 🙏
+
+It's important to note that RAI is not a stablecoin as it is not pegged to anything.
+
+Detached from fiat. Native to Ethereum. https://t.co/XcnDqc92Ku",18,2,2,2020-12-31
+90,2021-01-02 12:55:11+00:00,1345352943336386561,reflexerfinance,Still in the early days but let's say RAI resource allocation will be very interesting https://t.co/8LJ1QAwU1W,6,0,0,2021-01-02
+91,2021-01-03 15:10:02+00:00,1345749267508506624,reflexerfinance,"@Luciano_vPEPO Not yet implemented, at least not for PRAI.
+
+We'll do initial tests next week with Kovan",1,1,0,2021-01-03
+98,2021-01-04 20:37:41+00:00,1346194109132894208,reflexerfinance,"New changes for Proto RAI:
+
+- ETH-A debt ceiling raised to 50K
+- The PID will be restarted tomorrow and it will be 40% weaker than before",8,0,1,2021-01-04
+100,2021-01-05 12:13:41+00:00,1346429661300060166,reflexerfinance,"Correction: now more than $450K.
+
+You people are fast. https://t.co/sohfERXKhl",5,0,1,2021-01-05
+102,2021-01-07 00:28:23+00:00,1346976942894014465,reflexerfinance,"A fresh new look for the whole website. You can manage your current PRAI positions and future RAI positions on both web and mobile.
+
+Give it a try at https://t.co/KSgeDPubYj https://t.co/HFDWgpl8GQ",24,0,3,2021-01-07
+103,2021-01-08 16:18:11+00:00,1347578356208963586,reflexerfinance,"Controllers are math, not magic.",17,1,1,2021-01-08
+105,2021-01-10 09:25:50+00:00,1348199361491120132,reflexerfinance,@Sp33dyCrypto There is no farming.,0,0,0,2021-01-10
+112,2021-01-11 14:36:28+00:00,1348639922723450881,reflexerfinance,"@_don__don Test the app on kovan or mainnet, let us know what you think about our docs, especially gov minimization, tell us what you like about other great DeFi protocols so we can build something better for you.
+
+https://t.co/UZxoAuyqQ4",0,0,0,2021-01-11
+117,2021-01-12 03:13:04+00:00,1348830325124833287,reflexerfinance,"Things are getting rocky. We'd be glad to explore a potential rock combo.
+
+https://t.co/rzoUATrmf9",27,2,0,2021-01-12
+121,2021-01-13 21:10:43+00:00,1349463912048189447,reflexerfinance,"Whether you are a PRAI holder or safe user, you will need to follow this technical guide in order to redeem ETH from the system post settlement:
+
+https://t.co/pFx7Psp2Z3",1,1,0,2021-01-13
+126,2021-01-15 02:08:45+00:00,1349901303204499456,reflexerfinance,1/n We are getting lots of questions regarding lenders of first vs lenders of last resort for RAI. Here's a thread that clarifies some topics.,2,1,0,2021-01-15
+131,2021-01-17 14:25:11+00:00,1350811410838810628,reflexerfinance,"The first demo insurance contracts for safes are done. 
+
+You can use these as an example to build your own insurance protocol on top of RAI.
+
+@AaveAave aTokens, @compoundfinance cTokens, @opyn_ oTokens can all be used to build insurance primitives.
+
+https://t.co/28JPqQNd3O",14,0,3,2021-01-17
+132,2021-01-19 23:09:19+00:00,1351668089310613511,reflexerfinance,@500Bitcoins Love the vote of confidence!,0,0,0,2021-01-19
+134,2021-01-20 16:16:07+00:00,1351926489348976643,reflexerfinance,"@thiago_sjc It's not pegged. It started at a value of $2.015 and currently the ""peg"" is $2.0117",1,0,0,2021-01-20
+135,2021-01-21 03:47:14+00:00,1352100413613473795,reflexerfinance,@tbr90 @twoirtter Welcome in the money god club ☺️,2,0,0,2021-01-21
+137,2021-01-27 20:28:38+00:00,1354526754610835457,reflexerfinance,@avsa Depends on controller parameters 🧐,6,0,0,2021-01-27
+139,2021-01-28 17:09:11+00:00,1354838946170204169,reflexerfinance,@ameensol Meme wizardry is a huge bonus,2,1,0,2021-01-28
+140,2021-01-29 02:38:31+00:00,1354982224358219781,reflexerfinance,"@supperatnight Also we advise you not to create an account at this point. Wait for RAI or test the Kovan interface.
+
+https://t.co/ySRMieqY6t",0,0,0,2021-01-29
+143,2021-01-30 20:44:46+00:00,1355617977408827392,reflexerfinance,"@mikedemarais Just a joke. Still, pi RAI rhymes",3,0,0,2021-01-30
+145,2021-02-02 20:35:22+00:00,1356702772897447936,reflexerfinance,"@duncanswilson @tomkysar Data from prod helps illustrate
+
+https://t.co/Eqy7Fjgroa",1,0,0,2021-02-02
+146,2021-02-05 19:08:12+00:00,1357768000334663680,reflexerfinance,@zfogg Apply on Angel and tell us more about you!,0,1,0,2021-02-05
+147,2021-02-10 19:14:18+00:00,1359581476455673859,reflexerfinance,1 week left ⏰,31,5,4,2021-02-10
+151,2021-02-11 23:55:51+00:00,1360014717461426177,reflexerfinance,@euler_xyz We also can't wait to collaborate!,0,0,0,2021-02-11
+158,2021-02-14 10:07:23+00:00,1360893390255185921,reflexerfinance,@artistic_myway PRAI is shut down. You had to mint it using ETH and it was a stable asset.,0,0,0,2021-02-14
+159,2021-02-15 19:56:31+00:00,1361404040073138177,reflexerfinance,@AkanshaSris DM @stefan__ionescu,0,0,0,2021-02-15
+160,2021-02-16 15:46:16+00:00,1361703450267033603,reflexerfinance,"@sgmacpherson @spencernoon Short answer: devalue the currency. At that point, unless someone want to lose money, they should sell/short.",2,1,0,2021-02-16
+162,2021-02-17 16:56:57+00:00,1362083624401723396,reflexerfinance,"@levychain Sorry to hear that 😢
+
+You can watch this guide, maybe it helps:
+
+https://t.co/CR5D7dgZ1s",3,0,0,2021-02-17
+167,2021-02-18 21:04:44+00:00,1362508369450385414,reflexerfinance,"@EarnBetAL @ameensol You're close. Instead of the ""peg"" staying in one place, it floats. Currently it's going down because the market price is above it.",1,0,0,2021-02-18
+181,2021-02-19 19:55:18+00:00,1362853285959450624,reflexerfinance,@ETH_ASS_Farmer @tiernan_argent @ameensol Actually around 3.1352 now.,1,0,0,2021-02-19
+185,2021-02-20 22:24:25+00:00,1363253201504509953,reflexerfinance,"2/n Currently, the total value locked in RAI is nearing $100M and the RAI/ETH pool is the 10th largest one on Uniswap v2! 
+
+We’re overwhelmed by your support and couldn’t be more grateful for everything you do to make RAI successful 🙏",28,1,3,2021-02-20
+192,2021-02-21 00:42:36+00:00,1363287973547175938,reflexerfinance,@Remedy_b_chain Currently $3.1304,1,1,0,2021-02-21
+195,2021-02-22 00:37:35+00:00,1363649100139425794,reflexerfinance,@SemyonWilliams1 @PoolTogether_ For now they have special links like these. Need to ask the team about adding pools directly to the app.,2,0,0,2021-02-22
+196,2021-02-23 22:27:03+00:00,1364341025171529736,reflexerfinance,"@NomicsUpdates Thank you @NomicsUpdates !
+
+Just one detail: the RAI logo is different than Reflexer's. You can find it in our media kit
+
+https://t.co/QGDAdLMCpM",1,1,0,2021-02-23
+198,2021-02-24 14:17:10+00:00,1364580131793158144,reflexerfinance,"@CoinMarketCap, we would like to register two https://t.co/H8fL1lSjgv emails to manage Reflexer's self-reporting dashboard on CoinMarketCap.",4,1,0,2021-02-24
+200,2021-02-25 23:15:04+00:00,1365077884591874049,reflexerfinance,@nino_crypto @zerion_io You simply need to add liquidity. That's it.,0,3,0,2021-02-25
+202,2021-02-26 13:49:02+00:00,1365297826671046656,reflexerfinance,"9/n This is why, instead of committing to a single retroactive strategy for the long term, we will instead opt for regular revisions.
+
+From today and until 5th of March, we will go back to offering 100% of the rewards to Uniswap v2 ETH/RAI LPs.",20,3,2,2021-02-26
+213,2021-02-27 01:54:24+00:00,1365480371501101058,reflexerfinance,"Looking for a smart contract engineer to help us automate the RAI beast!
+
+Apply below and let's make the money god glorious 🌟
+
+https://t.co/pTJNRIGRgu",35,0,13,2021-02-27
+215,2021-02-28 17:41:48+00:00,1366081179699535875,reflexerfinance,@mccallios Former.,2,0,0,2021-02-28
+216,2021-03-05 00:25:24+00:00,1367632302629662726,reflexerfinance,"3/n On Monday 8th of March, the rewards program will start to be targeted at those who both mint RAI and LP at the same time. 
+
+You can read this guide that better explains what mint + LP is and what you need to do to be eligible:
+
+https://t.co/tar5mDbi8d",19,4,4,2021-03-05
+219,2021-03-06 22:31:43+00:00,1368328464944730113,reflexerfinance,"You can now manage your RAI positions using @DeFiSaver ❤️
+
+https://t.co/FbneJnCxjc",55,3,13,2021-03-06
+221,2021-03-08 01:00:07+00:00,1368728200944234504,reflexerfinance,@bravojun1 @DeFiSaver You can manage safes that have already been opened using our app. They'll soon add the option to open new safes through their dashboard.,0,0,0,2021-03-08
+226,2021-03-09 12:22:22+00:00,1369262283298332672,reflexerfinance,"@madcapslaugh @arion80791528 Yes you can. We have scenarios like these outlined in our docs:
+
+https://t.co/oqdcPytLzB",1,0,0,2021-03-09
+227,2021-03-11 17:33:31+00:00,1370065362599825414,reflexerfinance,"Want to learn more about what positive redemption rates mean for RAI?
+
+Here's a thread 🧵 https://t.co/X9YqBkth1k",14,0,5,2021-03-11
+235,2021-03-12 18:16:49+00:00,1370438646671753227,reflexerfinance,"The money god had a productive week!
+
+💵 200K ETH locked in the protocol
+💰 45M total RAI minted
+📈 RAI found a new equilibrium around $3.018",56,4,8,2021-03-12
+237,2021-03-13 18:46:06+00:00,1370808404298625029,reflexerfinance,"@johngalt2999 @ElBinBit We mentioned several times that past distributions will be honored 🤗
+
+Please read all the announcements we tweeted.",1,1,0,2021-03-13
+238,2021-03-17 15:51:21+00:00,1372213977804070912,reflexerfinance,"If you're a dev who wants to build on top of RAI, there are many more bounties waiting for you:
+
+https://t.co/zYEXdRb1EN",13,0,1,2021-03-17
+239,2021-03-22 04:07:21+00:00,1373848749429170178,reflexerfinance,@DegenTeddy @FloatProtocol @feiprotocol @stefan__ionescu The initial redemption price was $3.14,0,1,0,2021-03-22
+241,2021-03-23 00:10:35+00:00,1374151551967756289,reflexerfinance,@0xModene @AaveAave Working on getting an oracle so something like this is possible.,1,1,0,2021-03-23
+242,2021-03-29 16:59:03+00:00,1376579671563722760,reflexerfinance,"We're also on our way to having a lending pool on @RariCapital along with our friends at @fraxfinance 🤫
+
+https://t.co/TMBFPQAOVY",9,1,2,2021-03-29
+246,2021-03-30 12:36:47+00:00,1376876057534545923,reflexerfinance,3/n The distribution date for the Cream rewards will also be announced in the next 2 weeks 🗓️,2,0,0,2021-03-30
+249,2021-03-31 09:46:00+00:00,1377195465389834242,reflexerfinance,@shah256_ Who said they need to fork? We're more than happy to assist with that.,11,1,0,2021-03-31
+254,2021-04-01 12:02:43+00:00,1377592260343238657,reflexerfinance,2/2 Reminder that RAI can already be used in @CreamdotFinance 🦾 https://t.co/2Tshi5FHB9,17,1,1,2021-04-01
+255,2021-04-02 19:00:26+00:00,1378059768066158593,reflexerfinance,@booshkurtz For now we can just say that it's about $3,0,0,0,2021-04-02
+259,2021-04-04 01:43:03+00:00,1378523475980251143,reflexerfinance,"2/n Shortly before the distribution, we will do a snapshot of all the mint &amp; LP RAI activity that has happened since launch as well as the RAI borrow activity that happened on Cream since 31st of March.",10,1,0,2021-04-04
+265,2021-04-06 14:27:08+00:00,1379440539695730688,reflexerfinance,@EdwardWilll @arlynculwick We mentioned we're open to help other teams launch self-stabilizing credit.,5,0,0,2021-04-06
+266,2021-04-07 00:32:01+00:00,1379592766246813698,reflexerfinance,"@Digital_Me_ This thread outlines two different campaigns: Cream and mint+LP.
+
+Nothing else is planned for now.",0,0,0,2021-04-07
+271,2021-04-08 23:50:44+00:00,1380307152011677696,reflexerfinance,"2/2 On Wednesday next week we will start an ongoing campaign for RAI borrowers on Fuse.
+
+Check out the details:
+
+https://t.co/fBZwKwrJNS",8,0,2,2021-04-08
+275,2021-04-09 12:16:34+00:00,1380494845710635008,reflexerfinance,"@block_science has been instrumental in summoning a strong money god 🦾
+
+In this piece, they outline the work and thinking that went into analysing $RAI prior to the mainnet launch, as well as next steps in terms of research!
+
+https://t.co/S7KtsIAXD5",28,0,8,2021-04-09
+276,2021-04-11 18:32:30+00:00,1381314227550437384,reflexerfinance,"1/2 The proposal to add $RAI in @RulerProtocol just passed ✅
+
+This would be the third money market where you'll be able to use RAI!
+
+https://t.co/lTNjqYGIe8",18,1,2,2021-04-11
+278,2021-04-12 19:24:47+00:00,1381689774684184583,reflexerfinance,"You can now read the RAI/ETH price feed from @chainlink 🗿
+
+The money god couldn't be happier knowing there's a secure way to access its price from anywhere 🦾
+
+Check out their docs and link your app today:
+
+https://t.co/0T1KQgzf0Q",18,0,4,2021-04-12
+279,2021-04-13 17:55:33+00:00,1382029707680567298,reflexerfinance,"5/n As always, thank you for being a money god summoner and spearheading the first on-chain PI controller 🙏",12,1,0,2021-04-13
+284,2021-04-14 12:37:38+00:00,1382312088006180866,reflexerfinance,"2/2 You can check the latest mint+LP changes here:
+
+https://t.co/yeKOTnr8YM",7,0,0,2021-04-14
+285,2021-04-15 13:12:57+00:00,1382683364566708224,reflexerfinance,"To avoid any sort of confusion.
+
+You can check FLX on Etherscan here:
+
+https://t.co/EEMGgzB2zW",13,0,0,2021-04-15
+286,2021-04-16 15:45:19+00:00,1383084094838411270,reflexerfinance,"@gemseeker4 Hop on our Discord and ping the team, they can help",0,0,0,2021-04-16
+287,2021-04-18 20:22:36+00:00,1383878651708526593,reflexerfinance,"New bounty ahead! 🗿
+
+Build a Yearn strategy that lends $RAI on Fuse or CREAM and also build an insurance contract where minters deposit RAI + put capital in Yearn + insure their Safes, all at the same time.
+
+https://t.co/E867axR4EL",68,2,17,2021-04-18
+288,2021-04-27 11:09:24+00:00,1387000926242852864,reflexerfinance,More cover for RAI summoners 💪 https://t.co/z9gAE5dhtP,22,2,4,2021-04-27
+289,2021-04-28 15:01:17+00:00,1387421668172259328,reflexerfinance,"1/2 The $RAI market on @RulerProtocol is now live!
+
+The market is set to expire on 1st of June and can be found here:
+
+https://t.co/VRS81f4Wih
+
+This is the third money market that welcomes the money god 🎉",19,0,3,2021-04-28
+290,2021-05-04 00:06:26+00:00,1389370800269152259,reflexerfinance,👻🤝🗿 https://t.co/k6wY2gkbZL,13,0,0,2021-05-04
+291,2021-05-11 22:07:40+00:00,1392240015325945856,reflexerfinance,"@TweetThathard Thank you 😊
+
+What part of it do you think should be improved the most?",0,0,0,2021-05-11
+292,2021-05-13 17:14:49+00:00,1392891092534796297,reflexerfinance,"@CryptoCrunchApp @BankToTheFuture @nano @energywebx @quant_network Hello, RAI's major exchange is Uniswap v2 and it did not rise that much in value. It's a stable asset.",1,0,0,2021-05-13
+293,2021-05-14 21:19:03+00:00,1393314940648312832,reflexerfinance,"4/n Aside from Kashi, you can check out the other RAI money markets that currently offer up to 12% APY 👀
+
+https://t.co/BQo9mEfh4c",2,0,1,2021-05-14
+294,2021-05-19 02:31:30+00:00,1394843125089292289,reflexerfinance,@kyoronut @SushiSwap @0xMaki 🤔 we'll look into it,0,0,0,2021-05-19
+295,2021-05-20 16:49:46+00:00,1395421502779109381,reflexerfinance,"@CryptoCrashCom @medical_chain @allsportschain @wayki_chain Hi, that RAI is not from us, it's from Rai Finance. RAI the stablecoin is not on Huobi",0,0,0,2021-05-20
+296,2021-05-24 16:43:01+00:00,1396869353484730370,reflexerfinance,"@Harry_snvb In the works sir, the smart contracts for V3 are getting audited in June",3,0,1,2021-05-24
+297,2021-05-25 09:48:13+00:00,1397127355055984640,reflexerfinance,@BitcoinCartoon We stick to v2 for now,1,0,0,2021-05-25
+298,2021-05-26 12:07:27+00:00,1397524781923250176,reflexerfinance,"@roncoejr @DeFiSaver The protocol is fine, we're working with DeFi Saver on fixing the issue.",1,1,0,2021-05-26
+300,2021-05-27 15:55:25+00:00,1397944539898388490,reflexerfinance,👀 https://t.co/uJzeN1oEl2,9,2,0,2021-05-27
+307,2021-05-28 20:47:52+00:00,1398380526185164806,reflexerfinance,@auryn_macmillan @androolloyd We're happy to help although keep in mind we delayed plans because gas prices went nuts and we're building infra for L2.,2,1,0,2021-05-28
+308,2021-06-08 00:49:32+00:00,1402065221062217732,reflexerfinance,Money God Always Wins 🗿,9,0,1,2021-06-08
+311,2021-06-11 04:08:09+00:00,1403202367319949313,reflexerfinance,@Adam_Sandler69 @DefiantNews @davesaidthat_ https://t.co/bxOxjgFOCg,1,1,0,2021-06-11
+313,2021-06-14 22:30:19+00:00,1404566900269518854,reflexerfinance,"An on-chain proposal to add RAI on @AaveAave is live!
+
+Come and vote to decide the money god's future alongside Aavengers 👻🤝🗿
+
+https://t.co/hQew95Mg3h",81,7,26,2021-06-14
+314,2021-06-15 17:50:27+00:00,1404858856463818755,reflexerfinance,"Money God Uncensored: Part One
+
+https://t.co/V9Z942YLtM",16,0,4,2021-06-15
+315,2021-06-17 14:14:32+00:00,1405529296974667788,reflexerfinance,"Just under 8 hours to go until #DeFi history is made and the first fully crypto-native stablecoin is added to @AaveAave.
+
+First of many milestones for $RAI.
+
+Do you dare challenge the Money God?
+
+https://t.co/hQew963QUP
+
+🗿 https://t.co/1KwcWfrnWw",25,0,6,2021-06-17
+316,2021-06-18 09:37:54+00:00,1405822066905935874,reflexerfinance,"@0x0ddba11 Not quite, the redemption price is the moving peg where RAI should return. It's denominated in USD, not ETH.
+
+It is indeed affected by leverage and ETH price moves but it's also affected by RAI trading activity, demand etc.",3,0,0,2021-06-18
+318,2021-06-21 18:04:40+00:00,1407036762761969673,reflexerfinance,"Money God Uncensored: Part Two
+
+https://t.co/4R973C6321",31,1,10,2021-06-21
+319,2021-06-22 14:27:08+00:00,1407344406424866817,reflexerfinance,"@DeFiDaJo The vault lends on Idle and gets a portion of the Idle rewards, proportional to how much is lent through Yearn.",1,0,0,2021-06-22
+323,2021-06-25 22:39:44+00:00,1408555539542462465,reflexerfinance,"@msolomon44 @gitcoin Interesting idea, we'll post something for this as well",2,0,0,2021-06-25
+324,2021-06-27 18:10:16+00:00,1409212498453143557,reflexerfinance,"@CrytpoI There's no place in DeFi that sustainably pays back 100%+ of a loan. 
+
+Self repaying already breaks the model we currently have and if this feature attracts people, we'll need to do some changes to make it sustainable.",6,3,0,2021-06-27
+330,2021-06-28 16:57:00+00:00,1409556448330268675,reflexerfinance,@samehueasyou @Harry_snvb We picked that so RAI has as much runaway as possible,1,1,0,2021-06-28
+334,2021-06-29 16:15:14+00:00,1409908325010087936,reflexerfinance,"@rileyjames27 $2000 is not the liquidation price, it's the fee that will be paid out of your LP position to the address that saves your safe.
+
+This guide might help:
+
+https://t.co/X0jfhUSjTo",0,0,0,2021-06-29
+337,2021-07-01 14:23:44+00:00,1410605041422012424,reflexerfinance,"@RariCapital Fuse Pool 9 update 👀
+
+From Wednesday 7th of July, the RAI incentives will only go to those who lend DAI, FRAX or USDC and borrow RAI.
+
+Those who only lend RAI and then borrow RAI will not be taken into account anymore.",2,0,0,2021-07-01
+338,2021-07-02 19:34:31+00:00,1411045643188047874,reflexerfinance,"@OldObiBenKenobi In the meantime, the Reflexer team and community will need to design a way to bring additional revenue streams to and into Money God from the secondary RAI markets",0,0,0,2021-07-02
+343,2021-07-06 17:02:49+00:00,1412457017206259714,reflexerfinance,"@tt_intern @stefan__ionescu @paradigm @rleshner @a16z Thank you for the coverage 😊
+
+Just wanted to mention that a16z are not investors in Reflexer.",1,1,0,2021-07-06
+344,2021-07-07 16:52:33+00:00,1412816821883850760,reflexerfinance,"Money God Uncensored: Part 3
+
+https://t.co/CER8zjPLmQ",12,0,2,2021-07-07
+349,2021-07-08 19:00:55+00:00,1413211512391544836,reflexerfinance,@CaymansW @D34D81 @TrustlessState The meme refers to the fact that RAI is not pegged to anything in particular and conveys this in a simple way.,0,0,0,2021-07-08
+352,2021-07-09 18:28:21+00:00,1413565705912467456,reflexerfinance,@Bfjjjjjjt No influence 👍,0,0,0,2021-07-09
+353,2021-07-10 20:13:33+00:00,1413954565721010183,reflexerfinance,"@remember324ezpz @Uniswap Yup it's for protecting your position from liquidation. Details here:
+
+https://t.co/HRSsMRcl1y",1,2,0,2021-07-10
+354,2021-07-12 14:11:32+00:00,1414588237763522562,reflexerfinance,"This week marks the launch of the last component that automates the Money God 💪
+
+It's been a year since RAI started to take form and we're excited to see our plans come to fruition!
+
+The journey is far from done though: it's time to make RAI the reserve currency for DeFi 🗿",62,2,9,2021-07-12
+357,2021-07-13 08:34:06+00:00,1414865707863523330,reflexerfinance,@rileyjames27 Hop on oir Discord so the team can help 👍,0,0,0,2021-07-13
+359,2021-07-15 15:47:56+00:00,1415699662116474884,reflexerfinance,@Paulo_F_Pereira More like bridging for now. Bootstrapping a synth takes a lot of time.,1,0,0,2021-07-15
+362,2021-07-17 13:44:20+00:00,1416393332318785540,reflexerfinance,@shubiwubi @ameensol @shegenerates @MakerDAO Negative rates. Something that pegged coins don't have.,0,1,0,2021-07-17
+365,2021-07-18 18:12:01+00:00,1416823086893215744,reflexerfinance,"Starting on Wednesday next week, we will stop the Kashi RAI/DAI incentives as well as adjust the FLX/ETH campaign 🧐
+
+Check out the latest updates:
+
+https://t.co/GTN1WfTDjN",9,3,3,2021-07-18
+368,2021-07-19 23:18:51+00:00,1417262689152274436,reflexerfinance,"@RemigiusCrypto @intocryptoast @nicksdjohnson @basedkarbon Yup, and a bunch of others:
+
+https://t.co/FlCMzfjKZc",1,0,0,2021-07-19
+369,2021-07-21 01:36:22+00:00,1417659683372945412,reflexerfinance,"@brendan_dharma @ameensol @AaveAave @compoundfinance @iearnfinance Here you go sir:
+
+https://t.co/FlCMzfjKZc
+
+We knew this day would come.",9,1,1,2021-07-21
+375,2021-07-22 16:38:36+00:00,1418249125980684289,reflexerfinance,@defidilettante It solved the problem of balancing supply and demand using with both positive and negative rates 🗿,1,0,0,2021-07-22
+377,2021-07-23 21:07:52+00:00,1418679280331001857,reflexerfinance,"Rave reviews for @TheMetaFactory  Money God hoodie are starting to pour in.
+
+Buy yours with crypto here: https://t.co/Q6xl5gkU6H https://t.co/Q3WDchZ4Tr https://t.co/KuPDeGEXOG",18,3,4,2021-07-23
+378,2021-07-26 19:56:46+00:00,1419748550704091138,reflexerfinance,@neha051998 @TheMetaFactory there is no single-staking of $FLX anywhere,1,0,0,2021-07-26
+379,2021-07-27 21:25:06+00:00,1420133168233996297,reflexerfinance,@amadeobrands @ercwl We'll live and we'll learn.,1,0,0,2021-07-27
+381,2021-07-28 00:08:11+00:00,1420174210278821889,reflexerfinance,"@cryptodadaist Low variability, the negative borrow rate is, for now, set manually. Surplus history can be found here
+
+https://t.co/bYEv4IKOEV",1,0,0,2021-07-28
+384,2021-07-29 18:55:42+00:00,1420820344714272779,reflexerfinance,"A snapshot vote to add RAI in @Instadapp is now live!
+
+The money god shall spread its influence 🗿
+
+https://t.co/1IAOAue04h",23,1,6,2021-07-29
+385,2021-07-30 14:53:04+00:00,1421121672493555718,reflexerfinance,@deficorner @Paulo_F_Pereira In case of bad debt the protocol can mint as many tokens as needed to cover deficit. It's exactly MKR-style debt auctions but params are determined with a basic algo.,0,2,0,2021-07-30
+388,2021-07-31 18:00:16+00:00,1421531170353856520,reflexerfinance,"@josephdelong @ameensol @0xJoshuaSL @lex_node So um ser, when Trident? Wanna check the UX of managing concentrated liquidity.",9,1,0,2021-07-31
+392,2021-08-01 10:13:03+00:00,1421775981220597762,reflexerfinance,@madcapslaugh @MakerDAO Our friends at @DeFiSaver who can also protect your capital 💪,3,1,0,2021-08-01
+395,2021-08-02 13:40:22+00:00,1422190542440513540,reflexerfinance,"Aave RAI interest rate lockening is now available on @Barn_Bridge !
+
+Dive in:
+
+https://t.co/O63a7eIhrJ https://t.co/QcX7gAZ2BN",14,1,6,2021-08-02
+396,2021-08-03 23:12:01+00:00,1422696789988282374,reflexerfinance,"@ivomarinovic2 We got a BarnBridge chad on Discord who can explain how:
+
+https://t.co/4miKs94u6N",1,0,0,2021-08-03
+398,2021-08-04 20:32:56+00:00,1423019142286876676,reflexerfinance,"@lightcoin @balajis @zooko @samkazemian @aztecnetwork Funny enough, we just talked today. Expect good things 👀",3,0,0,2021-08-04
+399,2021-08-05 17:47:35+00:00,1423339916617043974,reflexerfinance,"RAI TVL in Aave broke $20M 🔥
+
+Today we all embarked on the ultrasound money journey but an ultrasound stable is catching up 😎 https://t.co/51Mk7FWadI",90,2,16,2021-08-05
+400,2021-08-06 19:07:13+00:00,1423722346603495425,reflexerfinance,"From Wednesday next week, the RAI incentives for Fuse pool 9 will move to the Olympus Pool Party 🎉
+
+https://t.co/GTN1WfTDjN",6,0,0,2021-08-06
+402,2021-08-08 08:41:36+00:00,1424289680309243905,reflexerfinance,@__padpad Only with LP tokens,1,0,0,2021-08-08
+404,2021-08-11 09:56:03+00:00,1425395580579328005,reflexerfinance,"A proposal to add RAI in the Fei PCV is up!👀
+
+https://t.co/6bLL82MmIW",15,0,3,2021-08-11
+405,2021-08-12 14:12:28+00:00,1425822496532537344,reflexerfinance,@FTMAlerts @rfilsinger @Spirit_Swap Yup only backed by ETH and the target price (former peg) is managed by a smart contract controller.,0,0,0,2021-08-12
+407,2021-08-13 08:45:16+00:00,1426102541323055112,reflexerfinance,"@Barn_Bridge has an ongoing signal  vote where one of the options is to add bb_aRAI liquidity in Uniswap 👀
+
+If it passes, it would allow RAI holders to lend on BarnBridge and then use their junior tokens to borrow other assets on Fuse.
+
+https://t.co/edgAgePIx0",50,7,12,2021-08-13
+411,2021-08-14 18:06:30+00:00,1426606170718998528,reflexerfinance,"@babylon_eth @StaniKulechov @TokenBrice @AaveAave @compoundfinance @idlefinance Thank you, you and all our community make all the work worth it 🙏",4,0,0,2021-08-14
+412,2021-08-15 19:21:33+00:00,1426987444910571526,reflexerfinance,"@cburgdorf The snapshot is on 15th, the distribution is a couple of days later.",1,1,0,2021-08-15
+414,2021-08-16 18:36:18+00:00,1427338444649472010,reflexerfinance,"@Trey_Harnden @crypto_sjk @C1aranMurray @antiprosynth Yup, we have infra to make RAI like assets denominated in whatever people want.
+
+It's a matter of building demand for such assets.",2,1,0,2021-08-16
+419,2021-08-17 14:22:09+00:00,1427636873975971843,reflexerfinance,"2/2 Also, tomorrow between 12-2pm UTC, staking will officially start. You can stake anytime using:
+
+https://t.co/ubbrPeb2zJ",5,1,1,2021-08-17
+420,2021-08-18 09:47:07+00:00,1427930048225554438,reflexerfinance,@simbadlemarin @TokenBrice @MonetSupply @AaveAave @compoundfinance @idlefinance Fei protocol might be the first one 👀,1,0,0,2021-08-18
+422,2021-08-19 19:34:35+00:00,1428440274196439041,reflexerfinance,@samkazemian @DaveLevine0com @ameensol @RealNatashaChe @EricRWeinstein @balajis CPI is also a faster horse.,2,0,0,2021-08-19
+425,2021-08-20 10:12:02+00:00,1428661095191961602,reflexerfinance,"@JakeSenftinger Good question, Aave fam is better suited to answer",0,1,0,2021-08-20
+426,2021-08-22 18:12:31+00:00,1429506786663583750,reflexerfinance,"An on-chain proposal to add RAI in Fei's PCV will soon be live!
+
+https://t.co/MXtGaWOkkx",8,0,1,2021-08-22
+427,2021-08-23 08:17:43+00:00,1429719487662727168,reflexerfinance,"2/3 The @feiprotocol proposal to add RAI in the PCV is now active 🔥
+
+https://t.co/MXtGaWOkkx",21,6,6,2021-08-23
+429,2021-08-25 20:06:46+00:00,1430622702809800708,reflexerfinance,"2/3 You can also check out the contract docs for more details:
+
+https://t.co/75OAMwd8mq",0,1,0,2021-08-25
+432,2021-08-30 16:40:59+00:00,1432382853841571842,reflexerfinance,"We're excited to announce that one of the main PID research repos for RAI is now open-source!
+
+All this research was only possible due to the amazing team @block_science 🙏
+
+Even more material to come in the next months 💪
+
+https://t.co/Papc15zZE1",28,1,9,2021-08-30
+433,2021-09-01 09:17:07+00:00,1432995927418195969,reflexerfinance,"@Zeb_dyor Rai is so interesting that it can even surprise us 😅
+
+Previously the main RAI pool was RAI/ETH so the rate at which RAI repriced itself was heavily influenced by ETH swings.
+
+It still is to a certain extent even today.
+
+TL;DR it's complicated.",1,1,0,2021-09-01
+437,2021-09-02 14:51:42+00:00,1433442514422403072,reflexerfinance,Money god community building conversion tools so you can shop on Amazon and see prices in your favourite stablecoin ❤️ https://t.co/WYRLAgOfC0,13,1,2,2021-09-02
+438,2021-09-03 01:26:43+00:00,1433602322215677952,reflexerfinance,@Spirit_Swap is making moves 👀 https://t.co/42YdtUwWkX,21,0,3,2021-09-03
+440,2021-09-04 00:34:25+00:00,1433951547696762882,reflexerfinance,"RAI is now listed on the Polygon version of @KyberNetwork DMM!
+
+https://t.co/mk66NL9JZk",198,21,48,2021-09-04
+441,2021-09-06 22:16:00+00:00,1435003877053669382,reflexerfinance,@alexmillertech @twobitidiot @MakerDAO Different trust assumptions vs BlockFi so different tradeoffs 😜,0,0,0,2021-09-06
+442,2021-09-07 18:56:16+00:00,1435316002535923714,reflexerfinance,"@CoinRankApp Thanks, although we could surely cut some repos. Managing 140 of them is nuts.",3,0,0,2021-09-07
+443,2021-09-09 13:52:47+00:00,1435964405297020937,reflexerfinance,@digi_banc @MakerDAO @econoar @BanklessHQ How do you get a price feed? Is there actual demand for CPI coin? Who decides basket composition and how?,2,1,0,2021-09-09
+444,2021-09-12 12:36:03+00:00,1437032258884538368,reflexerfinance,@anth0nybeaumont @feiprotocol @FloatProtocol Still lots to do this year ser but thanks for the shout 🗿,2,1,0,2021-09-12
+446,2021-09-13 17:46:17+00:00,1437472719415779334,reflexerfinance,"@DXdao_ just voted to join our friends at @feiprotocol in holding RAI as a reserve asset ❤️
+
+60% of the treasury diversification proposal is taken up by the money god!
+
+https://t.co/AsjwL4jUjI",29,1,7,2021-09-13
+447,2021-09-15 08:41:32+00:00,1438060404643598338,reflexerfinance,@rileyjames27 Yes it is. We've just been focusing on lots of other details that will help with governance removal.,0,0,0,2021-09-15
+458,2021-09-16 22:45:02+00:00,1438635062967377920,reflexerfinance,"First $1M worth of RAI on @0xPolygon 🎉
+
+https://t.co/n3BdRpJsvn",26,0,8,2021-09-16
+459,2021-09-22 22:40:38+00:00,1440808283942522888,reflexerfinance,"@iamDCinvestor Wise words sir. Although collateral isn't the only thing you need to pick.
+
+It's a pegged vs non-pegged discussion.",6,1,0,2021-09-22
+460,2021-09-24 18:37:50+00:00,1441471955677310977,reflexerfinance,"You asked and we answered🧐
+
+This is a short post about how the community can change RAI's denomination post ungovernance
+
+https://t.co/e7Adq2UpDr",37,4,8,2021-09-24
+465,2021-09-25 09:16:19+00:00,1441693035054702596,reflexerfinance,"@Pinotio_DeFi @DaveLevine0com @ameensol It's like SAI that floats instead of being pegged. Sai had a controller that wasn't used and ""some differences"" have a huge impact.",1,0,0,2021-09-25
+470,2021-09-26 21:38:55+00:00,1442242304534880260,reflexerfinance,@ChrisBlec @TokenBrice https://t.co/pe5F6fyI7b,2,1,0,2021-09-26
+471,2021-09-28 15:44:47+00:00,1442877958960697347,reflexerfinance,"@shubiwubi @brandoniles @mstable_ Not yet proven in prod but yes, we're making steps toward it.",1,0,0,2021-09-28
+472,2021-09-30 15:49:57+00:00,1443604035848871949,reflexerfinance,"@claberus @feiprotocol @DXdao_ @Barn_Bridge @VENTURE_DAO Don't know where we would be without you and the @gnosisPM team 🙏
+
+Thank you so much for everything",3,0,0,2021-09-30
+481,2021-10-01 09:05:55+00:00,1443864742909693974,reflexerfinance,@nustiudinastea @pangolindex We're focused on ETH backed RAI but if another team wants to friendly fork we're open to advise.,2,0,0,2021-10-01
+482,2021-10-05 16:16:20+00:00,1445422613875023874,reflexerfinance,"@TraversaJulian @adamscochran @0xSisyphus @omarish @AndreCronjeTech Yup
+
+https://t.co/WdmIn5I4iV",1,0,0,2021-10-05
+486,2021-10-07 08:24:11+00:00,1446028569675710464,reflexerfinance,"The chads at @fraxfinance just deposited 3M Frax in our joint Fuse pool 🚀
+
+https://t.co/kq5Xtr2PfF",12,0,0,2021-10-07
+487,2021-10-08 08:53:41+00:00,1446398380691841032,reflexerfinance,"DAO members who enrolled in @opolis can now get their payroll using RAI!
+
+https://t.co/lTlApRtXeK",12,0,3,2021-10-08
+492,2021-10-09 19:04:03+00:00,1446914370752192514,reflexerfinance,"@digital_monad @wineboxbean @Mstable @coinbase Hmm we didn't see RAI on Coinbase card. Support wasn't super helpful either in answering our questions re: RAI in all their products.
+
+Did you actually spend RAI with their card?",0,0,0,2021-10-09
+499,2021-10-10 09:55:01+00:00,1447138593382797313,reflexerfinance,@Rumblesteltskin @optimismPBC Both Arbi and Optimism 🚀,1,0,0,2021-10-10
+500,2021-10-12 14:39:52+00:00,1447935051669377024,reflexerfinance,Money god and friends always gmi 🤝 https://t.co/sdi9vt9M5v,9,0,0,2021-10-12
+501,2021-10-13 13:29:06+00:00,1448279631744978946,reflexerfinance,@dec3ntraliz3d Minting is only on Ethereum L1 but RAI can be traded on Arbitrum right now,1,1,0,2021-10-13
+505,2021-10-15 15:25:25+00:00,1449033677191761920,reflexerfinance,"@TokenBrice Very well, let us look into peggie NFTs",2,0,0,2021-10-15
+507,2021-10-17 07:41:29+00:00,1449641703695130627,reflexerfinance,"@pools_0x @BuyHiSellLow3 @udiWertheimer @mcuban Small detail, it's not pegged to ETH. It has a funding rate that accumulates in the target price (former peg).",1,0,0,2021-10-17
+508,2021-10-18 17:34:36+00:00,1450153353514737668,reflexerfinance,"The @chainlink team is awesome and added a RAI/USD feed alongside the OG RAI/ETH one 🔥
+
+If you'd like to integrate their RAI feeds, check out the docs:
+
+https://t.co/tgz8XmLR7b",19,1,5,2021-10-18
+510,2021-10-19 17:52:17+00:00,1450520191184539655,reflexerfinance,"2/2 If you're in the US, you can use the @coinbase card to spend RAI 🤑
+
+https://t.co/YZgO4Siz2C",6,0,0,2021-10-19
+511,2021-10-20 17:47:27+00:00,1450881360315490309,reflexerfinance,"@sakeblues We pay with crypto ser. Can consider anons, you can reach out to the team on Discord and discuss.",1,1,0,2021-10-20
+512,2021-10-22 14:32:52+00:00,1451557171003543558,reflexerfinance,"Looking for a community builder to assemble a strong money god legion 💪
+
+Must know how to print memes and harvest DeFi yields. 
+
+Reach out over Discord and let's talk!
+
+https://t.co/jV2BXRs244",22,1,11,2021-10-22
+513,2021-10-24 18:45:09+00:00,1452345434555420672,reflexerfinance,"New short and sweet video explainer for RAI is out!
+
+https://t.co/QH3F9V8Vnc",152,91,33,2021-10-24
+514,2021-10-27 17:23:34+00:00,1453412067365507072,reflexerfinance,"@TAUHEED5 Nope, $3.14 -&gt; $3 -&gt; $3.03",2,0,0,2021-10-27
+516,2021-10-29 16:38:59+00:00,1454125621550931991,reflexerfinance,"@MochiDeFi @CurveFinance @ConvexFinance Thanks! That's not the RAI logo though, that's the one we use specifically on Twitter",1,0,0,2021-10-29
+517,2021-11-06 22:52:38+00:00,1457118755969019905,reflexerfinance,"2/2 Reminder we're still looking for a community manager and integrations lead!
+
+https://t.co/jV2BXRs244
+
+https://t.co/2CTccVG7px",0,0,0,2021-11-06
+518,2021-11-09 19:01:38+00:00,1458147789423120386,reflexerfinance,@OneTrueKirk Already have a pool for that ser but people want yield which will come from Curve once we hopefully get there,2,1,0,2021-11-09
+520,2021-11-12 13:27:31+00:00,1459150866754244613,reflexerfinance,"@DeFiSaver @MakerDAO @LiquityProtocol Hmm ser, we pretty much said we'll keep a low SF that has nothing to do with stability, it only tries to make the protocol sustainable. It will be set in stone after ungov.
+
+Funding rates are calculated by a contract and we just watch the system work.",1,0,0,2021-11-12
+522,2021-11-14 14:54:22+00:00,1459897499406241793,reflexerfinance,"The first ever RAI was minted at block #11849114
+
+This small piece of Money God history is now embedded in an ETH Block #NFT from @myetherwallet 
+
+Mint your own piece of Ethereum history at:
+
+https://t.co/jBa24NGVQK",9,1,0,2021-11-14
+524,2021-11-15 22:50:16+00:00,1460379654456553478,reflexerfinance,@redefined_life DM @stefan__ionescu,1,0,0,2021-11-15
+525,2021-11-21 21:36:36+00:00,1462535439471030273,reflexerfinance,@seanmc_eth What's rRAI in your example?,1,0,0,2021-11-21
+527,2021-11-23 21:09:13+00:00,1463253327244890114,reflexerfinance,"New submission for the Money God League 🗿
+
+H2O will combine the expertise gathered by the Reflexer community with native collateral from the @oceanprotocol ecosystem to build a new stable asset
+
+More details in their proposal 👇
+
+https://t.co/nM1R7pJMLh https://t.co/1MxESTVJeF",10,0,5,2021-11-23
+528,2021-11-30 12:16:46+00:00,1465656046509297668,reflexerfinance,GM ! https://t.co/rx0MsrNtGE,25,2,4,2021-11-30
+531,2021-12-01 12:12:09+00:00,1466017271197876227,reflexerfinance,"A long forgotten and dormant Money God is slowly beginning to awaken..
+
+GM ! https://t.co/Drz0JyzJvv",21,0,2,2021-12-01
+533,2021-12-03 13:30:17+00:00,1466761709180362755,reflexerfinance,"@NotSureBTC @CurveFinance Mim is a pegged coin, what RAI did here is real innovation 🤗",1,1,0,2021-12-03
+535,2021-12-08 12:16:24+00:00,1468555055666192389,reflexerfinance,gm ☕️ https://t.co/bdVl75Y2C7,29,3,2,2021-12-08
+536,2021-12-09 00:57:29+00:00,1468746589053370372,reflexerfinance,"The @zksync checkout just got an upgrade!
+
+You can now use RAI to pay for @gitcoin Grants through zkSync and enjoy the speed and convenience of L2 ❤️
+
+https://t.co/pRXR8kyG4H",23,1,3,2021-12-09
+540,2021-12-10 00:01:23+00:00,1469094857331425281,reflexerfinance,"@ethview @ameensol False. Goods are measured in USD, not the other way around.",0,0,0,2021-12-10
+541,2021-12-12 01:56:43+00:00,1469848657755316231,reflexerfinance,"@floodedark Just because it's floating slowly (as EUR, CHF, GBP and many other currencies do) it doesn't mean it's $3.
+
+There are charts that show how it's floating:
+
+https://t.co/C2kOxKY721
+
+RAI was not designed to combat inflation but to fix the pegged coin broken design.",3,0,0,2021-12-12
+542,2021-12-15 17:19:22+00:00,1471168016436056065,reflexerfinance,@milli3_eth @CurveFinance @mstable_ RAI/3Pool that has 3 stables,6,1,0,2021-12-15
+544,2021-12-20 01:59:39+00:00,1472748500588933122,reflexerfinance,@mikedemarais @ameensol Think Yearn wants pure APR without IL risk but they might have built something for LP positions in the meantime. Time to investigate,15,1,0,2021-12-20
+545,2021-12-22 01:20:41+00:00,1473463470918148096,reflexerfinance,@patentlyGerman @adamscochran cough *ungovernance* cough,11,0,0,2021-12-22
+546,2021-12-30 21:36:12+00:00,1476668465855537153,reflexerfinance,@MichaelDunwort1 @tbr90 @ChrisBlec Then a RAI friendly fork can do it and that's completely fine,2,1,0,2021-12-30
+547,2022-01-06 18:03:34+00:00,1479151670068232200,reflexerfinance,"A RAI Narrative Strategy Guide feat. endgame and paths that could reveal themselves.
+https://t.co/7ek5QRjcro",14,0,0,2022-01-06
+548,2022-01-11 14:47:23+00:00,1480914238499692556,reflexerfinance,@StaniKulechov That stablecoin should also have minimal human control and it's being done now 🗿,59,1,5,2022-01-11
+551,2022-01-15 19:47:31+00:00,1482439322720780289,reflexerfinance,"@Satoshi8081 @cosmos Someone reached out about this, waiting to see if we can help",3,0,0,2022-01-15
+552,2022-01-16 16:44:49+00:00,1482755730931392513,reflexerfinance,@opyn_ @kyoronut @0xSpicySoup @LiquityProtocol Let's talk,1,0,0,2022-01-16
+553,2022-01-19 22:35:06+00:00,1483931046781538311,reflexerfinance,"@emilianobonassi @santisiri @ryantcwynar @iearnfinance Using the rai curve one would be ideal, would love to see this 🔥",6,1,0,2022-01-19
+555,2022-01-20 15:00:11+00:00,1484178953866604556,reflexerfinance,@wavey0x @iearnfinance Yup we put Yearn in the Lenders section,0,0,0,2022-01-20
+557,2022-02-02 20:36:19+00:00,1488974584053436425,reflexerfinance,@JarodYJK @VESQHQ @0xPolygon Nothing planned sir,0,0,0,2022-02-02
+560,2022-03-23 16:33:46+00:00,1506670552664190981,reflexerfinance,@iamDCinvestor @0xQuit Already done with FEI 🗿,5,0,0,2022-03-23
+561,2022-05-14 18:19:00+00:00,1525541201084039169,reflexerfinance,@cory_eth @ercwl What about in 5-10 years from launch when it might float around 0.38582 or 2.357009 or literally anything else?,7,2,0,2022-05-14
+565,2022-06-10 16:12:45+00:00,1535293903292751875,reflexerfinance,"""Stablecoins are products.""
+
+This has been the RAI vision since day 1. The mechanism and backing of a stablecoin matter, and will provide valuable differentiation in the long-term.
+
+https://t.co/1yOvLqFShP",38,15,7,2022-06-10
+566,2022-08-03 15:54:44+00:00,1554858314269429762,reflexerfinance,"As part of ungovernance, we've decided to stop using Votium in favor of direct FLX incentives for Curve. You can see further details and join the discussion on our forums here:
+https://t.co/OyBkHDg9pe",12,4,1,2022-08-03
+567,2022-08-07 17:30:33+00:00,1556331978051428356,reflexerfinance,A fitting meme with the current interest rates for RAI and discussions over the integral component. https://t.co/FevqSZD9Pi,22,1,2,2022-08-07
+568,2022-08-09 12:41:30+00:00,1556984011385348102,reflexerfinance,"It's important to note that RAI is fully decentralized and can only ever be backed by Eth. As part of Ungovernance, the ability to change collateral has been removed. Insuring RAI will always be decentralized and never backed by a centralized currency.",215,16,44,2022-08-09
+569,2022-08-11 14:39:10+00:00,1557738399372455936,reflexerfinance,This is exactly what Reflexer is. 😉 https://t.co/VYLNRyPyO0,21,4,2,2022-08-11
+570,2022-08-25 19:30:00+00:00,1562885019227418624,reflexerfinance,"RAI is marching towards ungovernance! This week we are removing all privileged multisig access over the RAI protocol. 
+
+All future ungovernance protocol updates will go through Reflexer DAO.
+
+https://t.co/rBjFHjo09M",44,2,5,2022-08-25
+571,2022-08-26 16:43:16+00:00,1563205448769015808,reflexerfinance,"Reflections on our experimentation with the PI-controller parameters, and potential paths forward
+
+tldr; it's working🗿
+
+https://t.co/AJP3xuHt1S",12,2,2,2022-08-26
+572,2022-08-29 20:48:45+00:00,1564354389900345344,reflexerfinance,"“Ungovernance” means progressively removing human control from the RAI system.
+
+We just gave complete control of the protocol to Reflexer DAO, now, the rest is up to the community, and the money god 🗿 
+
+https://t.co/cKUllnYY5M",53,2,11,2022-08-29
+573,2022-08-30 20:01:48+00:00,1564704961463590912,reflexerfinance,"RAI is friendlier for smaller SAFEs once again with this bug fix
+
+https://t.co/ytBUtI5iWj https://t.co/oJqRVbkT2h",4,1,0,2022-08-30
+574,2022-08-31 17:56:02+00:00,1565035699107074049,reflexerfinance,"As of last Sunday, the multisig is deactivated and FLX voters are in control. 
+
+Check out the Reflexer Ungovernor on @tallyxyz 
+
+https://t.co/rBjFHjo09M",8,0,0,2022-08-31
+576,2022-09-01 20:31:47+00:00,1565437282894561280,reflexerfinance,"What does revoking the multisigs privileges mean for RAI?
+
+- Protocol parameter updates must happen via governance
+- Governance must approve DAO payrolls and incentives
+- Governance has total and exclusive control
+- Only governance can ungovern the governance🗿 https://t.co/8qYnY2Oadd",12,1,1,2022-09-01
+577,2022-09-03 05:24:31+00:00,1565933738227163136,reflexerfinance,👀 https://t.co/EAcThlOz9z,7,0,2,2022-09-03
+579,2022-09-05 15:44:30+00:00,1566814537684201472,reflexerfinance,"Check out this recent proposal to ReflexerDAO:
+
+""TAI, a multi-collateral version of RAI""
+
+Join the conversation🗿
+https://t.co/Ww8qjGt6wV",12,1,2,2022-09-05
+580,2022-09-06 17:08:12+00:00,1567197991542595585,reflexerfinance,"Reflexer is at @mcon_world!
+
+Come talk about RAI🗿
+
+Find us: @ameensol @RezaJafery",22,7,6,2022-09-06
+581,2022-09-10 02:15:49+00:00,1568422963581681664,reflexerfinance,"ICYMI 🗿
+
+Read up on our takeaways from the first attempt at tuning the integral rate as a part of the PI controller, and what this means for RAI moving forward
+
+https://t.co/AJP3xuZCg0",14,4,2,2022-09-10
+582,2022-09-13 13:48:22+00:00,1569684415818891264,reflexerfinance,"Now that we’ve deployed our governor and kicked the multisig, all proposals are run through @tallyxyz - and are automatically executed when a vote is successful. 
+
+That means DAO votes are final, and (un)governance is a trustless process.
+
+https://t.co/EBokrV7LGY",45,6,9,2022-09-13
+583,2022-09-14 16:21:32+00:00,1570085350198120448,reflexerfinance,"Step 1: Team gives complete control to the DAO ✅
+Step 2: DAO gives complete control to the Money God🗿
+
+https://t.co/cKUlloh7jU",23,7,5,2022-09-14
+584,2022-09-15 20:24:00+00:00,1570508753304453120,reflexerfinance,👀 https://t.co/dKopMyNOxI,6,4,0,2022-09-15
+586,2022-09-19 19:06:28+00:00,1571938793468612608,reflexerfinance,"Great overview of the differences between RAI and DAI from our friends at @StakingRewards 
+
+Check out their in-depth RAI explainer for this and more 🗿
+
+https://t.co/TtwEavKDiH https://t.co/fT1wknsAbw",16,2,5,2022-09-19
+587,2022-09-20 16:25:52+00:00,1572260767692632069,reflexerfinance,"“Censorship resistance-demanding DAOs...should be providing a service that isn't just evading permanent censorship, but also evading mere instability and disruption. MakerDAO (and the Reflexer DAO
+ which manages RAI) are excellent examples of this.”
+
+🤝
+
+https://t.co/fkT6PpNvIj",14,3,8,2022-09-20
+588,2022-09-21 17:15:45+00:00,1572635707990249472,reflexerfinance,"Check out our latest forum post outlining the updated governance process
+
+https://t.co/KBRsnEzW88",2,1,1,2022-09-21
+589,2022-09-22 17:31:15+00:00,1573001994788544512,reflexerfinance,"The Ethereum Foundation is looking for a Spanish-speaking RAI expert to participate in a stablecoin panel at Devcon in Bogota. 
+
+If you speak Spanish and are a part of the Money Gods’ flock, reach out to us on Discord🗿",41,3,12,2022-09-22

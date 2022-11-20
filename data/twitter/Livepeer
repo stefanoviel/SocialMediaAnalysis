@@ -1,0 +1,1136 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-07 19:17:58+00:00,1214627252777947136,Livepeer,"Six days until the Livepeer capacity for node operators expands to 100. If you're one of the currently active transcoders on the network, here is the minimum viable upgrade guide with instructions for how to remain active: https://t.co/faaZYQU5eN",20,1,5,2020-01-07
+2,2020-01-08 19:31:43+00:00,1214993101762240518,Livepeer,"Tomorrow's quarterly Livepeer Project Update community call (12pm eastern) will cover the recent releases, the Streamflow update, upcoming roadmap, and have Q&amp;A. You can watch at https://t.co/5mlSLLP8s6 or DM if you'd like the link to join the call live.",15,2,3,2020-01-08
+3,2020-01-10 18:53:54+00:00,1215708360177324032,Livepeer,"You can view the recording of the Q1 Livepeer Project Update community call here: https://t.co/mbYmzdTPOl
+
+It covers what's been built and launched recently in the Livepeer ecosystem, what's coming in early 2019, and features some Q&amp;A.",10,0,1,2020-01-10
+5,2020-01-13 16:37:01+00:00,1216761076429262852,Livepeer,"Protocol upgrade alert: Round 1610 has begun. Current transcoders should call reward in the next couple hours, as the protocol will be upgraded after Ethereum block 9,274,600. https://t.co/5wFf09mvNG",19,0,6,2020-01-13
+6,2020-01-14 01:00:34+00:00,1216887796771753991,Livepeer,The Streamflow protocol upgrade is complete and the latest software release is out. There are now 100 node slots available on the network that can be active when the next round begins. https://t.co/7oiqkzSBLe,39,0,11,2020-01-14
+9,2020-01-15 17:59:53+00:00,1217506707821285376,Livepeer,"There's not an amazing UI built to visualize this yet in the explorer, but you can see the technical details behind the payment recipients, senders, and amounts using this query available on @graphprotocol https://t.co/WjdNDtIjZ3",11,0,4,2020-01-15
+12,2020-01-16 20:50:10+00:00,1217911947309600769,Livepeer,"@flossyglossy2 There's not a great User Interface for this yet, but @scout_cool has some protocol analytics showing winning payment redemptions here: https://t.co/nqQnn82ufw
+
+The ""recipient"" field is the node that is receiving the payment and distributing fees.",4,0,2,2020-01-16
+14,2020-01-17 21:01:20+00:00,1218277143446216705,Livepeer,"Summary post recapping this week - The Streamflow protocol update is complete, and new tokenholder site is live.
+
+https://t.co/2DUAqlwy9C",31,1,5,2020-01-17
+15,2020-01-19 19:51:41+00:00,1218984391956930561,Livepeer,"@octalmage Some of the functionality - staking, unstaking, etc is available on mobile through https://t.co/XhAVkDatUi.",3,1,0,2020-01-19
+16,2020-01-31 21:37:33+00:00,1223359690379231233,Livepeer,https://t.co/GtPzKIFfg8 now has support for mobile devices. Try it on your favorite mobile dapp browsers and let us know if you find any bugs so they can get fixed promptly.,36,2,9,2020-01-31
+17,2020-02-12 17:29:06+00:00,1227645820209651714,Livepeer,"The next Community Call is focused on community grants - progress to date, their role, Streamflow grant opportunities, and need for visibility into fees. It will occur on Thursday, February 13th at 12pm eastern. DM if you'd like a link to join the live call.",12,0,3,2020-02-12
+18,2020-02-13 14:59:55+00:00,1227970662712647682,Livepeer,Exciting Livepeer Explorer feature alert: View how many ETH fees each node has earned via video transcoding. https://t.co/Kem5YFtj4F https://t.co/9LRyJlgNPl,28,0,4,2020-02-13
+19,2020-03-09 22:02:03+00:00,1237136595645534209,Livepeer,And here is a roadmap proposal and initial milestone list on the decentralization of Livepeer Governance. https://t.co/jWaEP1gvnw,28,0,7,2020-03-09
+21,2020-03-18 21:07:42+00:00,1240384408395436034,Livepeer,"Thursday at 12:00pm eastern is Livepeer's Quarterly Infrastructure Operator Open Call, focused on Orchestrators and Transcoders. The topic will be earning fees and debugging your setup to ensure you can earn. DM for live call invite, and recording will be posted online after.",17,0,3,2020-03-18
+22,2020-03-19 16:10:15+00:00,1240671940555177986,Livepeer,"On today's Livepeer Transcoder call (currently happening), we're addressing some of these commonly asked questions. Livestream at https://t.co/tlR0LyXCIs https://t.co/OX0mkfWFpO",8,0,1,2020-03-19
+23,2020-03-20 18:22:37+00:00,1241067636248764416,Livepeer,"Technical post on the @LivepeerOrg blog on authenticating whether images were transformed correctly or not. https://t.co/wCwhulQ2Pj
+
+If you're interested in this topic, you may want to apply for our Research Engineer job opening.",8,0,2,2020-03-20
+24,2020-03-23 21:55:11+00:00,1242208294447599619,Livepeer,Sharing a new https://t.co/wmDsYkLYCZ. https://t.co/Nnlzq8hznv,30,1,7,2020-03-23
+26,2020-03-24 20:55:22+00:00,1242555629878861824,Livepeer,"More progress on decentralizing Livepeer governance. Here we share updates to the protocol upgrade process, and a candidate polling application design for voting on updates: https://t.co/vkgugcOTGd",23,0,4,2020-03-24
+27,2020-03-27 16:33:46+00:00,1243576958648270856,Livepeer,"Here's a great new service from @scout_cool: Dashboards for each node on the Livepeer network that shows their fee earnings over time, who's delegated to them, and more. https://t.co/Syn7Dz8p6y",18,0,4,2020-03-27
+28,2020-04-10 14:59:58+00:00,1248626783588511755,Livepeer,Good high level overview from @Ether_Gavin about how decentralized governance in Livepeer is taking shape. https://t.co/pCovjoA4Ef,19,0,3,2020-04-10
+29,2020-04-13 15:50:56+00:00,1249726773467713540,Livepeer,"The quarterly Livepeer Project Update community call is being held Thursday, April 16th at 12pm eastern. Topics include the newly launching governance polls, and the updated user-friendly API. Watch the live stream, or DM or get in touch if you'd like an invite to participate.",19,2,5,2020-04-13
+30,2020-04-17 15:07:03+00:00,1251165284305702912,Livepeer,"Yesterday's project update community call is online at https://t.co/XEKqcsquK1. Topics covered include practical tips for participating in Livepeer governance, network stats, and demand generation.",12,0,3,2020-04-17
+32,2020-04-21 13:08:36+00:00,1252585025683574786,Livepeer,Exciting release from @LivepoolCrypto - the first public transcoding pool that allows you to put your GPUs to work on the Livepeer network and earn ETH. https://t.co/fB6Oi4lE7C,43,2,12,2020-04-21
+33,2020-05-05 14:05:02+00:00,1257672656687595520,Livepeer,Livepeer's tools for decentralized governance are coming into place for the first community vote kicking off next week. Today you can try out the voting application on testnet to get ready for the real thing: https://t.co/8ldUrJfMCG,32,0,12,2020-05-05
+34,2020-05-07 13:12:29+00:00,1258384208575246341,Livepeer,"This post from @Ether_Gavin gives a great overview of what you need to know to begin participating in Livepeer Decentralized Governance voting on Monday, May 11th. https://t.co/iAhyuMjJeu",15,0,4,2020-05-07
+35,2020-05-11 19:27:19+00:00,1259928087380275201,Livepeer,The first Livepeer community governance poll is now live and open for voting! Read about what you're asked to vote on here: https://t.co/9dKESld4ex,40,1,11,2020-05-11
+37,2020-05-12 20:25:23+00:00,1260305089702629377,Livepeer,"The next community call is taking place this Thursday at 12pm eastern, and the topic is focused on protocol Governance and the Livepeer economic parameters. DM for invite to participate in the call, or watch the livestream at https://t.co/tlR0LyXCIs.",16,0,4,2020-05-12
+38,2020-05-15 13:37:06+00:00,1261289506579324928,Livepeer,"Five days left to vote in the first Livepeer protocol governance poll. Currently 49.398% of stake has voted, with 99.999% voting ""yes"" in support of the proposal. https://t.co/mZrjEfBjri",15,0,3,2020-05-15
+39,2020-05-19 14:09:46+00:00,1262747279577870338,Livepeer,One day left to vote in the first Livepeer Decentralized Governance poll. Voting is open to all LPT holders. Cast your vote today: https://t.co/mZrjEfjI2I,17,0,7,2020-05-19
+40,2020-05-20 22:38:51+00:00,1263237780307693569,Livepeer,Excited to share that Livepeer's Decentralized Governance process is now ratified with over 72% of the participating stake on the network voting yes. https://t.co/4PUq3zzf6B,32,3,10,2020-05-20
+41,2020-05-26 22:24:07+00:00,1265408399430365186,Livepeer,"For those looking to get into the weeds of Livepeer Community Governance, and open improvement proposals, here are the details on the bi-weekly LIP calls: https://t.co/GA6Y1DmGTg",19,0,10,2020-05-26
+42,2020-06-05 16:53:40+00:00,1268949119999016961,Livepeer,"New features which have landed in the Livepeer Protocol Explorer recently include mobile support, voting, @coinbase and @fortmatic wallet support, and more: https://t.co/l38vfqt5hh",31,0,5,2020-06-05
+43,2020-06-09 14:01:31+00:00,1270355347467837442,Livepeer,"The next Quarterly Livepeer Node Operator Community Call is this Thursday at 16:00 UTC. Agenda includes (1/2): 
+
+* Demo: New daily earnings tracker.
+* Demo: New network pricing visibility tool
+* Presentation: Using kubernetes to administer a cluster of Orchestrator Transcoders",16,1,6,2020-06-09
+45,2020-06-10 13:27:58+00:00,1270709294011428864,Livepeer,"The Livepeer Forum is a great place to follow along with the discussions going on within the community. Current topics include ideas for extending the protocol, payments in non-volatile currencies, the latest grants out of the grants committee, and more. https://t.co/NQty6dmPFe",15,0,5,2020-06-10
+46,2020-06-11 20:03:48+00:00,1271171293619126274,Livepeer,"Today's Transcoder community call was one of the best yet, leading off with demos on delegator earnings tracking, price monitoring, public transcoder pools, and kubernetes/helm setups for scaling nodes. https://t.co/ffU3hOK3qC",24,0,7,2020-06-11
+47,2020-06-15 14:25:38+00:00,1272535741873246219,Livepeer,@_libertyhound Thanks. Will get this fixed.,0,0,0,2020-06-15
+48,2020-06-24 20:40:33+00:00,1275891584177975301,Livepeer,"Livepeer has a couple open roles related to marketing, community, and the business side of onboarding video users. Join our remote-first, global team! https://t.co/CiWMiHlwbq",31,0,12,2020-06-24
+49,2020-06-30 01:05:52+00:00,1277770294497771522,Livepeer,"The Livepeer Protocol Explorer now features the prices for video transcoding being charged by each node. Check out the nice ""what's new"" section for this and other updates. https://t.co/2NRk7l6djV",19,0,4,2020-06-30
+51,2020-07-07 15:12:29+00:00,1280520064937209857,Livepeer,"This week's Livepeer Improvement Proposal (LIP) call will feature a discussion about a recent governance proposal concerning the rate at which LPT inflation changes. See proposal link and add comments, questions, or agenda suggestions here. https://t.co/5Ib96gHDhL",13,0,5,2020-07-07
+53,2020-07-28 14:07:45+00:00,1288113919236612097,Livepeer,"This Thursday's community call at 12pm ET will cover:
+
+* Latest network stats and usage
+* https://t.co/7VfWZ4Wml1 infrastructure gateway
+* Earlybird user update
+* Active governance topics - inflation change proposal
+
+DM for the link or watch the stream at https://t.co/tlR0LzfdA0.",20,0,8,2020-07-28
+54,2020-07-30 15:43:41+00:00,1288862839562817537,Livepeer,A governance proposal which addresses the rate of change of inflation of LPT is days away from going to a vote. Today's call is one of the final chances for the community to weigh in with feedback and ask questions. https://t.co/kEYKvRM7NA,21,1,7,2020-07-30
+55,2020-07-31 18:01:01+00:00,1289259789269323776,Livepeer,And here's the recording of the yesterday's community call: https://t.co/Bs4M22iAs6,8,0,3,2020-07-31
+57,2020-08-04 13:24:50+00:00,1290639837872238595,Livepeer,"Check out the newly updated https://t.co/ZB2feM4fbU. This long overdue refresh now has information for developers, token holders, infrastructure operators, and community events. It's open source, and can evolve over time with the project.",53,1,15,2020-08-04
+59,2020-08-09 18:15:06+00:00,1292524821398663173,Livepeer,There's a new governance proposal open for voting amongst all Livepeer token holders and orchestrators. Vote at https://t.co/McsQmlbUJl and read the below thread and links for more details on the proposal. https://t.co/4Q4kQzAOy4,19,0,8,2020-08-09
+60,2020-08-12 17:50:30+00:00,1293605796002095104,Livepeer,"The next community call, 12pm ET on Aug 13 will cover a presentation on an orchestrator business model tool, discussion on the current inflation vote, and a look at the smart video R&amp;D work. DM for a link to join or watch at https://t.co/YH6LQtClj5",14,0,7,2020-08-12
+61,2020-08-13 21:04:43+00:00,1294017060725493761,Livepeer,"Four days left for tokenholders to vote on the latest Livepeer Improvement Proposal, which is focused on the supply side mechanics of the network affecting token holders and node operators: https://t.co/McsQmlbUJl",15,0,5,2020-08-13
+62,2020-08-26 14:57:56+00:00,1298635799093751812,Livepeer,Curious what video transcoding is? Here's an introduction: https://t.co/qCKX19qYro,23,0,7,2020-08-26
+63,2020-08-27 21:52:39+00:00,1299102552613621761,Livepeer,Here are the high level components of a live streaming workflow. Livepeer's infrastructure excels at the transcoding piece: https://t.co/wl9qW91WfN,16,0,3,2020-08-27
+64,2020-09-01 20:23:49+00:00,1300892137618395136,Livepeer,"Here is Livepeer's scaling plan to mitigate high Ethereum gas costs for token holders, node operators, and broadcasters.  
+https://t.co/5d7YDAjI4J",27,1,8,2020-09-01
+65,2020-09-10 15:26:36+00:00,1304078831750451200,Livepeer,Livepeer's infrastructure for affordable streaming at scale matches the needs of developers building the next great User Generated Content apps. Check out the refreshed https://t.co/wmDsYkLYCZ for more insights into the benefits of Livepeer for UGC. Get started with an API key. https://t.co/NiydmzIsZu,40,0,10,2020-09-10
+66,2020-09-16 13:49:52+00:00,1306228813521719296,Livepeer,Here is the detailed timeline on getting tokenholders some relief on the high Ethereum gas costs associated with claiming staked LPT. Kicking off Sept 18 and possibly concluding on October 7th. https://t.co/ku0LanbfMZ,14,1,5,2020-09-16
+69,2020-09-17 21:35:09+00:00,1306708295940530178,Livepeer,The Graph has long powered https://t.co/7ISuzSMN9T and many 3rd party Livepeer apps. We're excited to participate in the decentralization of @graphprotocol network as a Curator. https://t.co/BR7brUBM2I,26,0,6,2020-09-17
+70,2020-09-22 19:24:05+00:00,1308487249537961984,Livepeer,Voting for the latest governance proposal is now open to all tokenholders. This proposal reduces the Ethereum gas costs associated with claiming earnings on Livepeer: https://t.co/CEHr1CL2Dn,20,1,6,2020-09-22
+71,2020-09-24 21:34:43+00:00,1309244901603803138,Livepeer,"The latest security disclosure in Livepeer was discovered by @Quantstamp during a 3rd party audit of the latest update proposal, and has been patched, without any reported user effects. Users need not take any action. Read more here: https://t.co/IEdLCvOq5c",13,0,3,2020-09-24
+72,2020-09-29 18:36:55+00:00,1311012096197484544,Livepeer,"Read about how https://t.co/IFjIyfeX19, a streaming platform for DJs, is leveraging Livepeer to affordably provide a service that brings music into users' homes during lockdown. https://t.co/LPxXbmv9b4",33,1,13,2020-09-29
+73,2020-10-02 15:01:54+00:00,1312045146645639170,Livepeer,"This proposal references a snapshot with the earnings owed to all staked tokenholders. If you want to verify that the snapshot is correct for yourself before voting, follow the steps here. https://t.co/3OLhBOugdl",3,0,1,2020-10-02
+76,2020-10-12 21:24:25+00:00,1315765290798587905,Livepeer,Big news for LPT tokenholders: the gas cost reduction scaling updates have been community approved and deployed. It is now 100x cheaper to claim long-staked LPT at https://t.co/7ISuzSMN9T. Read more: https://t.co/E7MVbAN0FB,39,1,13,2020-10-12
+77,2020-10-13 19:29:54+00:00,1316098857126821897,Livepeer,New post on the engineering blog about how https://t.co/7VfWZ4ELtt scales its streaming infrastructure: https://t.co/0qbJmKzAbw,22,1,7,2020-10-13
+79,2020-10-15 17:16:36+00:00,1316790088005713920,Livepeer,Congratulations to our friends at @Filecoin for getting to main net today! Next week during their liftoff week we'll be presenting a Livepeer + Filecoin integration for video. Join at https://t.co/Fc4amsShZt.,45,1,8,2020-10-15
+80,2020-10-22 15:12:11+00:00,1319295490941276162,Livepeer,Excited to highlight the https://t.co/jtDujCnwlh app built by @buidllabs on top of Livepeer and @Filecoin. Decentralized video hosting for everyone. https://t.co/0bDSEo68Xw,97,2,20,2020-10-22
+83,2020-10-28 09:59:29+00:00,1321391125454852097,Livepeer,There are reports of a fake Livepeer web site and Facebook page asking users to deposit LPT. Please be vigilant around these types of attacks. The official Livepeer sites are https://t.co/wwJ8EClfUW and https://t.co/7VfWZ4ELtt. Report any sites posing as these.,12,1,4,2020-10-28
+84,2020-11-13 14:32:02+00:00,1327257923664433153,Livepeer,"And the criticality of the open governance process, which allows the network to evolve to both protocol incentive fit and product market fit.",1,0,0,2020-11-13
+88,2020-11-14 21:10:49+00:00,1327720666292957191,Livepeer,Here’s a technical update on some benchmarks for mining ETH while transcoding on Livepeer with the same GPU. https://t.co/7uzWNSK9qP,9,0,3,2020-11-14
+89,2020-11-17 21:06:55+00:00,1328806849408348167,Livepeer,"Voting on the latest governance proposal in Livepeer is now open: https://t.co/D8oKS93UaF
+
+This is a technical groundwork laying update which enables a couple things on the decentralized governance roadmap...",4,1,1,2020-11-17
+93,2020-12-03 14:30:41+00:00,1334505341095190531,Livepeer,The heart of this is a new performance leaderboard in the explorer that ranks the node operators by performance in each region around the world. https://t.co/zscHulfAnE,4,1,0,2020-12-03
+96,2020-12-08 17:04:52+00:00,1336356078901190656,Livepeer,"The next node operator focused community call is Thursday, 12/10 at 12pm ET. It will focus on the new performance leaderboard and potential LPT incentive programs for high performance. DM if you'd like the link to join. Livestream and recording will be available.",8,0,1,2020-12-08
+97,2020-12-10 14:47:26+00:00,1337046269014011908,Livepeer,"One of the topics discussed on today's call will be this proposed experimental LPT reward program for node operators, potentially beginning with a 7-day round next week: https://t.co/HzohcJOYSQ https://t.co/wIYjPByAAK https://t.co/IOaDozvWiU",7,0,0,2020-12-10
+98,2020-12-11 14:37:03+00:00,1337406042704138242,Livepeer,An experimental LPT rewards program distributing 1000 LPT/day amongst high performing node operators begins Monday 12/14 - https://t.co/CAGSsrshnE Get those GPU-enabled nodes ready!,18,1,3,2020-12-11
+100,2020-12-22 16:27:13+00:00,1341420034598514688,Livepeer,"December has been the highest usage month for the Livepeer public network with over 410,000 minutes of video streamed and transcoded, and over $3000 of fees paid by broadcasters to node operators in the first three weeks. https://t.co/7ISuzSMN9T",44,4,9,2020-12-22
+101,2021-01-07 15:22:21+00:00,1347201918280609792,Livepeer,"The Livepeer explorer now shows the latest payouts to node operators, along with network wide fee details. Check out which nodes are getting paid and sharing fees to help inform whom to stake towards. https://t.co/2NRk7l6djV https://t.co/dOqOPdrRHb",15,1,5,2021-01-07
+102,2021-01-08 22:51:32+00:00,1347677344857784322,Livepeer,"@BuzDigit What is ""a swap"" referring to in your question? A swap for what?",0,1,0,2021-01-08
+103,2021-01-10 14:24:30+00:00,1348274523112697856,Livepeer,"@BuzDigit Nope, the Livepeer project is not swapping any token.",1,1,0,2021-01-10
+104,2021-01-14 22:55:37+00:00,1349852699991412738,Livepeer,Here's a brief step-by-step guide from @ericxtang on the steps he took to get a GPU-backed node up and running on Livepeer. https://t.co/wW8JBFukok,20,0,3,2021-01-14
+105,2021-01-17 19:17:49+00:00,1350885053899939840,Livepeer,@Capetlevrai @nico_eth @LivepoolCrypto Set a reminder to DM you an update when a post is live.,0,1,0,2021-01-17
+106,2021-01-19 23:55:10+00:00,1351679626825895938,Livepeer,"The next Project Update Community Call is this Thursday at 12:00pm ET. We'll cover the latest network usage/fees/stats, https://t.co/wmDsYkLYCZ product update, and issues affecting node operators. DM if you would like the invite link, or stream on https://t.co/tlR0LyXCIs.",11,0,2,2021-01-19
+107,2021-01-22 03:49:23+00:00,1352463343689334784,Livepeer,"In today's community call we talked about the continued growth of minutes of video streamed through the Livepeer network, and accompanying fees, driven largely by the UGC apps like https://t.co/F0RxkihcVg that leverage Livepeer for its scalable and cost effective transcoding. https://t.co/LwD55Y0Beh",51,7,12,2021-01-22
+109,2021-01-23 10:50:25+00:00,1352931689769660416,Livepeer,"@supperatnight See Voodfy, https://t.co/jtDujC5VtJ, https://t.co/F0RxkihcVg, and other commercial integrations through https://t.co/7VfWZ4ELtt api.",4,2,0,2021-01-23
+111,2021-01-28 15:41:31+00:00,1354816887721398283,Livepeer,Livepeer users can now see their staking rewards in the fantastic @zerion_io app. https://t.co/ExHzpDupKp,36,0,7,2021-01-28
+113,2021-02-03 18:53:52+00:00,1357039621297864711,Livepeer,"The latest release of the Livepeer explorer now showcases minutes of video streamed through the network, and adds support for additional wallets including @argentHQ, @rainbowdotme, @gnosisSafe, and @TrustWalletApp. https://t.co/GtPzKIFfg8 https://t.co/VAd29Aulr8",35,0,8,2021-02-03
+114,2021-02-05 14:56:30+00:00,1357704661353062401,Livepeer,"Node operators, check out this great tutorial from @0xVires  on how to set up monitoring for your node with Prometheus and Grafana. https://t.co/kas28xRFDU",18,0,1,2021-02-05
+115,2021-02-12 21:42:49+00:00,1360343627772362760,Livepeer,"Node operators set the prices they're willing to encode video for, and the broadcaster's software works with nodes providing good service at a price that's suitable to them.",8,1,2,2021-02-12
+116,2021-02-25 15:53:37+00:00,1364966789248151568,Livepeer,"@kryptik_ta It is not affecting the adoption on the video side, but it is constraining the supply side a bit and causing frustrations there. An LIP is in ""last call"" for some temporary relief (7x gas cost reductions), and ultimately L2 scaling will be necessary.",2,1,1,2021-02-25
+118,2021-03-01 18:06:27+00:00,1366449770617856001,Livepeer,In this article @nico_eth shows the steps that he used to profitably video mine with GPUs on Livepeer after covering hardware costs in only a month. https://t.co/yLd9X1yPYL,20,2,7,2021-03-01
+119,2021-03-10 18:47:35+00:00,1369721611406999553,Livepeer,"The next community call for Livepeer node operators takes place on 3/11 at 12pm ET. DM for a link to join, or follow along at https://t.co/tlR0LyXCIs when we discuss mining ETH while transcoding, gas cost reductions, and profitable GPU transcoding.",24,4,5,2021-03-10
+120,2021-03-11 02:33:45+00:00,1369838928602218505,Livepeer,@GameofGains This is the Livepeer community Discord https://t.co/sfcwu2cJK5,0,0,0,2021-03-11
+121,2021-03-18 11:28:05+00:00,1372510113513275397,Livepeer,This well researched piece from @mhonkasalo is paywalled but shines an excellent light on Livepeer’s role in video streaming infrastructure and decentralized compute. https://t.co/g8Qjw74o9i,61,2,21,2021-03-18
+122,2021-03-23 18:04:31+00:00,1374421819554365444,Livepeer,We are excited to announce that Livepeer is launching a co-mining pilot with @Filecoin to enable Filecoin miners to become Livepeer video miners. https://t.co/X2nuht1Qj1,261,17,53,2021-03-23
+123,2021-03-24 15:28:07+00:00,1374744846498476032,Livepeer,"https://t.co/WwS1xh0jYh and https://t.co/TezMD9yETS are now available in Korean, Chinese, Russian, and Spanish translations. Thanks to the community members who contributed to this! https://t.co/GKDdkXR1ze",51,2,9,2021-03-24
+124,2021-03-26 16:46:54+00:00,1375489446930419722,Livepeer,"A nice revamp of the Livepeer docs just went live at https://t.co/xPdmZNT7Ic. 
+
+* Learn to develop web3 enabled video applications.
+* Get started earning money as a video miner, by using your GPUs to transcode video on the Livepeer network.",67,7,14,2021-03-26
+126,2021-03-31 14:25:22+00:00,1377265769105530886,Livepeer,Seizing the Web3 Opportunity  https://t.co/R1Is6xQhbs,55,3,7,2021-03-31
+127,2021-04-02 18:39:24+00:00,1378054473969512448,Livepeer,@coinchatz Looks like 0.07 ETH in fees. Good call. So the node operator earned 0.15 ETH net. The gas fees are baked into the pricing of the work however by the node. Future L2 scaling will certainly aim to minimize this.,3,0,0,2021-04-02
+130,2021-04-06 13:13:46+00:00,1379422078298943489,Livepeer,Here is a look at some of the exciting work ahead on the path to building the world's open video infrastructure. https://t.co/1BMONPRI6F,109,5,37,2021-04-06
+132,2021-04-08 12:22:03+00:00,1380133840002367491,Livepeer,@ClippaTV Mind DM’ing your email signup address and we can take a look?,1,0,0,2021-04-08
+133,2021-04-09 13:48:25+00:00,1380517963388837892,Livepeer,New affordable infrastructures and creative monetization mechanisms enabled by blockchain technology are leading creators to seek out and create new streaming platforms to share their content and connect with their users: https://t.co/5o2kvmQO6x,62,4,10,2021-04-09
+134,2021-04-13 14:29:16+00:00,1381977791365844993,Livepeer,"The next Livepeer Community Call is a project update on Thursday, April 15 at 12:00pm ET. The main topic is the upcoming Livepeer Roadmap: https://t.co/1BMONPRI6F
+
+DM for an invite to participate, or watch the live stream at https://t.co/tlR0LyXCIs.",54,5,12,2021-04-13
+135,2021-04-16 15:46:19+00:00,1383084348237348871,Livepeer,"The three tracks on the Livepeer Roadmap are 
+
+1. Core technology expansion
+2. Drive demand
+3. Usher in decentralization
+
+Hear a bit about each in the recent quarterly project update call: https://t.co/jXQmgKGHcB",49,6,7,2021-04-16
+136,2021-04-22 15:03:29+00:00,1385247893028749315,Livepeer,Livepeer's @petkanics sat down with @dete73 @nicksdjohnson @willwarren89 @jbaylina @eordano and @JayeHarrill on Tuesday to talk about the origins of NFTs. You can watch the full discussion here: https://t.co/2ZwEUmIm7B,24,0,3,2021-04-22
+138,2021-04-28 13:28:15+00:00,1387398257790304256,Livepeer,Excited to share that @Gemini now supports $LPT. This dramatically expands access to the Livepeer network for US based participants. https://t.co/ov4BPTjfYS,90,8,24,2021-04-28
+140,2021-04-29 15:46:06+00:00,1387795336010387460,Livepeer,"Here's a summary of the role that LPT plays in enabling Livepeer's decentralized streaming infrastructure. 
+https://t.co/OFV0m7pmJV",37,3,7,2021-04-29
+144,2021-05-01 13:25:41+00:00,1388484772628996096,Livepeer,Metrics that matter - new all time highs in minutes of video transcoded and 7 day fees on the Livepeer network. https://t.co/bBphYoODne,160,17,28,2021-05-01
+145,2021-05-11 22:52:28+00:00,1392251288981737475,Livepeer,"On this week's community call (Thursday at 12:00pm ET) @nelsonpryan will be running through governance in Livepeer today and hosting an open discussion exploring how governance could evolve looking forward. DM  Nelson for the invite to participate, or catch the live stream.",28,3,5,2021-05-11
+146,2021-05-12 16:54:31+00:00,1392523592991133700,Livepeer,"For the developers out there - this sample app shows how easy it is to build a video streaming site using the Livepeer APIs.
+
+Code: https://t.co/V3spWQmvpc
+Sample app: https://t.co/Es47IVBUO6",43,0,11,2021-05-12
+147,2021-05-13 20:44:51+00:00,1392943948172234757,Livepeer,"Livepeer node operators rely on @graphprotocol for important realtime pricing information and performance data. Migrating to their decentralized network will bring tremendous benefits over a single hosted service. This is the promise of web3 in action.
+
+https://t.co/mE032K0mQy",283,2,50,2021-05-13
+148,2021-05-17 19:17:18+00:00,1394371464665702407,Livepeer,LPT will be available to Kraken users on May 20. Learn about how to put your new LPT to work on the network at https://t.co/WwS1xh0jYh. https://t.co/KDWgjbL0sc,93,9,18,2021-05-17
+150,2021-05-23 12:11:25+00:00,1396438615484362757,Livepeer,"Weekly growth update: New all time high of 984,471 minutes of unique video transcoded by the Livepeer network last week, with over 1.1M in the last 7 days. https://t.co/QSVAHx0hBd",179,10,19,2021-05-23
+151,2021-05-26 14:56:54+00:00,1397567425437122564,Livepeer,"@CryptoAccordBot @ethereum For those wondering why $LPT has so many holders, it is a result of the Merklemine distribution algorithm. One goal was to initiate a staking protocol that could be accessed by all existing participants in the Ethereum network in 2018.
+
+https://t.co/jgtZkNmqHJ",5,0,1,2021-05-26
+153,2021-05-27 02:07:01+00:00,1397736066606678016,Livepeer,"Thrilled to sponsor @ETHGlobal Web3 Weekend 🌟
+
+🤩$5K in LivePeer Bounties up for grabs!
+
+Check em👉https://t.co/c4zO6q38cO
+
+Also catch us at @LivepeerOrg workshops:
+▪️Thursday @ 11:00 ET
+▪️Saturday @ 14:00 ET
+Should be a memorable web3 weekend https://t.co/J4id5X4F0G",42,3,7,2021-05-27
+154,2021-05-28 22:04:37+00:00,1398399841768706052,Livepeer,"@Livepeer @ETHGlobal @AudiusProject @UnlockProtocol @HNS @Filecoin @SkynetLabs (Last tweet of thread) 
+AND that’s a wrap of hack ideas! Ofc we’re excited and open to your creative ideas
+
+Check out our workshop on Saturday at 14:00 ET! 
+
+Let’s go @Web3Weekend and @ethglobal hackers",13,1,2,2021-05-28
+165,2021-05-30 22:35:40+00:00,1399132430469107712,Livepeer,"@ETHGlobal And those are our top winners! WHAT A COOL BUNCH. 😎
+
+Nevertheless, we loved all 14 of our submissions and will be reaching out to all our rockstar hackers. 🤘
+
+Thanks for a great and inspiring Web3 Weekend 🎉",16,0,2,2021-05-30
+171,2021-06-02 13:39:04+00:00,1400084554677882893,Livepeer,"May highlights in the Livepeer ecosystem included exciting new streaming apps and hacks, a record # of minutes of video transcoded, and increasing global access via three major exchange listings: https://t.co/iyPKU0ZHeF",35,1,4,2021-06-02
+172,2021-06-07 14:22:29+00:00,1401907417932304386,Livepeer,"Milestone alert - The Livepeer Network ended the week with over 1,000,000 minutes of video transcoded - the first time it has surpassed this number for a full week. https://t.co/9rU60f03BX",147,5,25,2021-06-07
+173,2021-06-10 11:01:54+00:00,1402944102736580608,Livepeer,Binance users can now stake LPT directly from their accounts. https://t.co/AcOvYG7Hl1,43,1,8,2021-06-10
+174,2021-06-11 18:27:59+00:00,1403418751119335424,Livepeer,"""People have noticed that we have transcoding. That was a feature they'd been asking about, but couldn't afford...it’s everything we’ve been looking for.”
+
+Read about how @Vimm_TV  has created a community-centric streaming platform using Livepeer. https://t.co/TcYCcqZJh4",45,0,13,2021-06-11
+175,2021-06-13 18:48:32+00:00,1404148700079919106,Livepeer,"PSA - With Ethereum gas prices at low levels it is a good time to stake or unstake $LPT at https://t.co/7ISuzSMN9T. Stake towards one of the high performing nodes on the leaderboard to strengthen the network, and get involved today!",39,1,5,2021-06-13
+176,2021-06-14 13:52:29+00:00,1404436586117353472,Livepeer,"Another week in the books, and for the first time, the Livepeer Network surpassed 2M minutes of unique video transcoded. https://t.co/UeisclLYCi",148,12,25,2021-06-14
+178,2021-06-16 17:57:48+00:00,1405223096764747776,Livepeer,Today we are proud to share that the Livepeer Explorer and many tools in the Livepeer ecosystem are running live on @graphprotocol mainnet. https://t.co/0dRuOf8SY7,102,2,20,2021-06-16
+180,2021-06-17 15:42:09+00:00,1405551344275136518,Livepeer,Another global point of access for LPT. Learn how to begin participating in the network at https://t.co/WwS1xh0jYh. https://t.co/EQMHc4E1MZ,24,0,3,2021-06-17
+182,2021-06-20 18:05:37+00:00,1406674614080651279,Livepeer,"Take a look at some of the recent hacks that web3 developers have been putting together on Livepeer. Video streams as NFTs, streamed concerts with @UnlockProtocol and @AudiusProject, and more.  https://t.co/fEytITeO1J",59,2,18,2021-06-20
+183,2021-06-22 20:05:41+00:00,1407429607725355015,Livepeer,"3. Senior Lead Product Manager
+
+You are excited about owning a video streaming API product that's challenging the status quo. You encourage discussions, help the best idea win, and turn it into a well thought-out plan to help with execution. More info: https://t.co/2iQALk6HJe",13,0,1,2021-06-22
+187,2021-06-23 20:28:15+00:00,1407797671650267148,Livepeer,"Over the last 7 days, node operators on the Livepeer Network have transcoded over 2.35M minutes of unique input video from creator economy streaming apps - a total higher than any other 7 day period. Nice work! https://t.co/5qUXIIiUWp",61,1,9,2021-06-23
+188,2021-06-24 16:25:02+00:00,1408098854755577857,Livepeer,LPT is now available on Coinbase Pro. https://t.co/GHOp660vwj,148,13,24,2021-06-24
+190,2021-06-30 17:29:29+00:00,1410289398827134977,Livepeer,"The ""participation rate"" on the Livepeer network has been hovering around 49% for the last two weeks, which means that each day the inflationary token reward pool to those who participate in the network grows slightly larger. Learn more at https://t.co/8bTUCFxhDA https://t.co/ncR4Mjl4fT",38,2,5,2021-06-30
+191,2021-07-01 15:28:02+00:00,1410621223818702848,Livepeer,"The Livepeer June Roundup - network growth, listings news, hacks, and more. https://t.co/JTnGWXwJQq",29,2,4,2021-07-01
+192,2021-07-06 13:27:59+00:00,1412402952560680970,Livepeer,How Web3 Is Overturning The Internet Status Quo https://t.co/2XJQhHgsYj,64,0,8,2021-07-06
+193,2021-07-09 14:41:05+00:00,1413508512659894279,Livepeer,"Livepeer node operators like @LivepoolCrypto, @ChainflowPOS, @0xVires, and more have been the backbone behind the growth of a reliable and scalable video infrastructure. Learn more about some of them here: https://t.co/Yw6bFGQTnn",39,1,9,2021-07-09
+194,2021-07-14 13:27:13+00:00,1415301862492983299,Livepeer,"There has been a flurry of activity at recent hackathons with developers building live streaming experiences around NFT drops, auctions, and more. Who's building cool stuff in this area? Livepeer can help power the video streaming so you can focus on your product.",48,6,7,2021-07-14
+195,2021-07-16 14:45:14+00:00,1416046269999501321,Livepeer,The new @livepeerdotcom dashboard looks 🔥🔥🔥 https://t.co/AxrlJ1flue,32,0,6,2021-07-16
+196,2021-07-20 14:48:42+00:00,1417496694816714754,Livepeer,A number of Livepeer developers are in Paris this week at the big Ethereum ecosystem conference EthCC.  Find them and they'll help you quickly add live streaming to your apps. https://t.co/EE9NqJLybR,30,0,5,2021-07-20
+197,2021-07-22 01:16:12+00:00,1418016996483076104,Livepeer,"If you'd like the link to join live and participate, send a DM and you can be added to the invite before the call. Or catch the live stream on https://t.co/YH6LQtClj5. Recording will also be available.",18,1,1,2021-07-22
+198,2021-07-23 15:16:34+00:00,1418590869452738562,Livepeer,"Here is the replay of the @Grayscale deep dive into Livepeer and LPT with @petkanics, featuring product demos, the ""explain like I'm 5"" overview, and tokenomics discussion.
+
+https://t.co/zINLkUZbwV https://t.co/Rg7qOaFo57",93,29,22,2021-07-23
+199,2021-07-24 02:55:48+00:00,1418766839111368704,Livepeer,Livepeer is proud to be supporting @ETHGlobal and #HackFS!  Hacker applications close on July 26th - apply at https://t.co/Nysd9OeZRK and come build live streaming apps of the future!,26,1,7,2021-07-24
+200,2021-07-29 13:32:28+00:00,1420738998914404352,Livepeer,We're happy to share that Livepeer has $20M of fresh capital from great supporters to put to work on the mission of building the world's open video infrastructure: https://t.co/5Ln99EuXgR,163,13,33,2021-07-29
+203,2021-07-31 01:55:33+00:00,1421288393137393670,Livepeer,"Video is an important component of the decentralized web, and we are excited to sponsor HackFS.  https://t.co/rMweR4rRYU
+
+Use the gateway service at https://t.co/wmDsYkLYCZ to start building a decentralized live streaming app!",52,1,11,2021-07-31
+204,2021-08-04 17:34:14+00:00,1422974172360290320,Livepeer,"""The way I see it, Livepeer is the sight, the seeing aspect, the eyeballs of the autonomous world computer. It converts every camera into the smartest retina the world has ever seen."" -TitanNode node operator
+
+https://t.co/vqEibaEO21",38,2,6,2021-08-04
+206,2021-08-05 12:21:26+00:00,1423257839741636611,Livepeer,"The web3 stack is emerging - decentralized infrastructures for developers that are alternatives to the large, public clouds of AWS, GCP, and Azure.
+
+https://t.co/qQZ146UCJ5",51,2,18,2021-08-05
+207,2021-08-13 11:28:04+00:00,1426143512123351041,Livepeer,Great description of how user owned social and publishing platforms benefit users. Same applies to infrastructure platforms that have competitive marketplaces to lower the take rate. https://t.co/bypke8kb2f,40,1,7,2021-08-13
+208,2021-08-18 18:50:14+00:00,1428066726139383813,Livepeer,Suggested community goal: Let's activate our top performing node operators by September 30th. https://t.co/3mNkxeUIjx,43,3,12,2021-08-18
+209,2021-08-31 14:21:39+00:00,1432710177350946826,Livepeer,"The next community call is Thursday, September 2nd at 12pm ET. It will feature presentations from two projects building on Livepeer:
+
+- @GlassProtocol will showcase their open, NFT-native, video streaming platform.
+- @tenderize_me will showcase liquid staking for token holders.",50,1,10,2021-08-31
+211,2021-09-01 15:39:01+00:00,1433092033569333251,Livepeer,The HackFS hackathon from @ETHGlobal and @Filecoin produced hundreds of great web3 projects. Here are five that built on Livepeer and shared in the prize pool: https://t.co/RfwdvX3q6n,36,0,4,2021-09-01
+212,2021-09-07 13:28:18+00:00,1435233466006781956,Livepeer,Speedify has created an innovative product for streamers that helps them combine multiple internet connections into one to get smooth streaming experiences. Listen to @petkanics from Livepeer jam with the @speedify team on the future of streaming this evening. https://t.co/PB07rNyezr,28,3,8,2021-09-07
+213,2021-09-08 19:19:29+00:00,1435684230890246144,Livepeer,"Livepeer August roundup - hackathons, community goals, team expansion, and more. https://t.co/PMox1annZ4",36,2,10,2021-09-08
+214,2021-09-09 19:45:03+00:00,1436053054248341505,Livepeer,The Confluence update proposes migrating a portion of the Livepeer protocol onto a Layer 2 chain to dramatically reduce costs for node operators and token holding delegators.,30,1,3,2021-09-09
+215,2021-09-14 12:56:58+00:00,1437762294683951106,Livepeer,"Calling all hackers 🔉🔉🔉  
+
+Come build with us at #ETHOnline! Due to high demand the deadline to sign-up was extended to tomorrow, Wednesday, Sept 15th. Register at https://t.co/5R93KezxKQ
+
+3️⃣  weeks of hacking, summits, NFTs, #VideoDev, and all things Web3.",24,0,5,2021-09-14
+216,2021-09-15 21:13:46+00:00,1438249710091968515,Livepeer,"Meet Meredith Tretiak, @meryouknow, our first Head of Marketing here at https://t.co/wwJ8EClfUW! Meredith is an accomplished marketing professional with a passion for crypto/blockchain and a track record of growing innovative brands.
+
+https://t.co/yTFjzdRHyT",31,2,6,2021-09-15
+219,2021-09-16 16:05:24+00:00,1438534491279134723,Livepeer,"Love to see this type of experimentation inside the Livepeer community! Awesome initiative @titan_node. Congrats to @solarfarm_lpt for the first Titan Node - Start Up Grant.
+ 
+#livepeer #LPT
+
+https://t.co/sfcwu2cJK5 https://t.co/MZq681fhw3",37,2,4,2021-09-16
+220,2021-09-20 15:02:30+00:00,1439968213312409604,Livepeer,"Excited to see The Web3 Index launch and for Livepeer to be one of the initial projects listed!
+@web3index https://t.co/xVfkoB76NZ",35,1,6,2021-09-20
+222,2021-09-22 20:04:38+00:00,1440769026985103364,Livepeer,"The next step in strengthening the security of Livepeer’s decentralized network is fast verification -  the rollout to orchestrators begins next week.
+
+Join the discussion on the forum thread or in the community call September 30th.
+
+https://t.co/9QTYES8uGJ",25,1,7,2021-09-22
+223,2021-09-23 19:05:50+00:00,1441116616125681674,Livepeer,"Meet Shannon, @shanvasion, the new Head of Community and Governance at https://t.co/WwS1xgIIzH! She plunged into Web3 two years ago after holding strategic roles at various global organizations. Join us in welcoming Shannon to the team!
+
+https://t.co/vgbf3v6u2I",39,1,2,2021-09-23
+225,2021-09-24 22:13:36+00:00,1441526258328915968,Livepeer,Check out our recent livestream with @dabit3 https://t.co/DPCIQYjHSj,25,0,7,2021-09-24
+226,2021-09-29 21:32:01+00:00,1443327729961734147,Livepeer,"The rollout begins today! Node operators can now upgrade to support fast verification.
+
+Questions?
+Join our community call tomorrow, September 30th, 12pm EST/9am PST.
+
+ https://t.co/jaQSklNI9r",26,1,9,2021-09-29
+227,2021-09-30 15:42:32+00:00,1443602169865940999,Livepeer,"Community call starting in 20 minutes!
+
+Join the livestream on https://t.co/YH6LQtClj5",7,0,0,2021-09-30
+228,2021-10-06 19:18:55+00:00,1445830951209213954,Livepeer,"Join our CTO &amp; co-founder, @ericxtang, for a virtual talk @demuxed.
+
+https://t.co/6P6SQfpvqu https://t.co/0Fu8PrXKIg",11,0,1,2021-10-06
+230,2021-10-08 19:05:57+00:00,1446552461259460608,Livepeer,"Livepeer September roundup - new proposals, new index listings, new tools.
+
+https://t.co/9eH6OjFqEN",32,0,8,2021-10-08
+231,2021-10-13 15:27:28+00:00,1448309420258115584,Livepeer,Calling video nft artists! Livepeer Grants is offering 50 LPT to design our https://t.co/eR0jINCVfU NFT https://t.co/BCyAn7UEe5,24,1,5,2021-10-13
+232,2021-10-14 13:33:23+00:00,1448643095407509504,Livepeer,Great thread for a quick overview of Livepeer and the upcoming Confluence Protocol Upgrade. https://t.co/RaLd9J5fhn,29,0,5,2021-10-14
+234,2021-10-18 18:51:27+00:00,1450172693316349955,Livepeer,"In Lisbon this week? Meet up with @shanvasion, our Head of Community. https://t.co/PY2XrVwVtr",25,1,2,2021-10-18
+236,2021-10-19 11:10:20+00:00,1450419038119735298,Livepeer,"ANNOUNCEMENT: Livepeer acquires MistServer!
+
+We're excited to share the news of our first acquisition.
+
+Livepeer + Mist is a major step toward narrowing the video capabilities gap between web2 and web3.
+
+https://t.co/Mm9NlbnEFO",198,11,41,2021-10-19
+237,2021-10-20 21:15:31+00:00,1450933723302613005,Livepeer,Join us for a Quarterly Project Update Call TOMORROW 12-1PM EST w/ CEO Doug Petkanics (@petkanics) to discuss the acquisition of MistServer ➡️ a major step forward for our mission to build the world’s 1st open video infrastructure » https://t.co/ukz2xHFfyi,34,1,5,2021-10-20
+238,2021-10-21 13:08:20+00:00,1451173506448863232,Livepeer,"Congratulations to the @EthGlobal #ETHOnline 2021 Hackathon Winners! 🎉 
+
+🥇 Huddle01
+🥈 DBeats
+🥉 ColorPixels
+
+We can't wait to see what you come up with next! 
+
+https://t.co/t2VZkFSeBt",25,1,6,2021-10-21
+239,2021-10-22 14:00:45+00:00,1451549087619223554,Livepeer,"@ericxtang launched  @ETHGlobal #EthOnline Hackathon by highlighting importance of #NFTs in helping creators take back control of their content from Big Tech! 
+
+Most of the #Livepeer winners are experimenting w/ NFTs to generate new sources of revenue 💰 
+
+https://t.co/t2VZkFSeBt",7,0,0,2021-10-22
+241,2021-10-25 22:57:43+00:00,1452771384325808128,Livepeer,"📣 We are attending @NFT_NYC! Come say hello!
+
+This year's event is Nov 1-4 in #TimesSquare #NYC. 
+
+Learn more about it at https://t.co/5SwnM1RDiK",31,2,9,2021-10-25
+242,2021-10-28 19:33:04+00:00,1453807044688031745,Livepeer,"Join the first-ever concert with live video NFT minting! Featuring top Spotify artist @MARCEBASSY on Wed, Nov 3 9PM EDT/6PM PDT at the PUBLIC Hotel rooftop
+
+// Join #Livepeer &amp; @GlassProtocol at COLLIDE 
+
+Space is limited; register here: https://t.co/qGMt8pWkyi
+
+#nft #nftminting",41,0,15,2021-10-28
+243,2021-10-29 18:19:29+00:00,1454150915955560449,Livepeer,"Interested in #NFTs? We hope to see you at next week's @NFT_NYC event! 
+
+https://t.co/5SwnM1RDiK
+Nov 1 - 4 in #TimesSquare 
+
+Come chat with @ericxtang @meryouknow and @shanvasion about #Livepeer and what's coming next for us in the NFT space!",29,2,8,2021-10-29
+244,2021-11-01 12:52:00+00:00,1455155664532221966,Livepeer,"Crypto &amp; Culture COLLIDE
+
+Join the waitlist for the first-ever concert with live video NFT minting! Featuring performances by @MARCEBASSY, @sirsuhayb, @vsnaire, @HaleekMaul, and more
+
+Secure your spot on the waitlist... 
+
+https://t.co/ef764iBkfa",29,2,5,2021-11-01
+248,2021-11-02 20:00:27+00:00,1455625873080598537,Livepeer,"Stream COLLIDE by #Livepeer X @GlassProtocol: the first-EVER live concert with live video #NFT minting!
+
+🎶 Feat. top #Spotify artist @MARCEBASSY &amp; more! 
+
+Don't miss this ultimate intersect of tech X culture &gt;&gt; &gt;&gt; 
+
+https://t.co/NxwISARpJG 
+
+#OwnTheMoment",15,0,5,2021-11-02
+251,2021-11-03 18:00:56+00:00,1455958183680356354,Livepeer,"COLLIDE by #Livepeer + @GlassProtocol is tonight!! Don't miss the first ever launch of video #NFTs captured &amp; minted by the audience in real time! 
+
+🎵Feat. top artist @MARCEBASSY + live dance, DJs, &amp; more! 
+
+// Watch and #OwnTheMoment @ 9PM EDT/6PM PDT &gt;&gt; https://t.co/NxwISARpJG",17,2,3,2021-11-03
+253,2021-11-04 03:28:16+00:00,1456100960913219586,Livepeer,"First COLLIDE NFT drop now available on @OpenSea
+
+Follow the @OpenSea collection and own the moment » https://t.co/5CRxU6Lo2r
+
+COLLIDE by #Livepeer X @GlassProtocol
+
+#nft #nftminting #mintthemoment",27,0,4,2021-11-04
+256,2021-11-05 15:01:18+00:00,1456637754264195080,Livepeer,"Thanks for connecting at @nyc_nft! Whether you stopped by our coffee cart, partied at COLLIDE, or joined us virtually, let's keep the conversation going - reach out with for any ideas for collaboration!
+
+💌 Tweet us your thoughts about what #Livepeer should do for our next event!",29,2,3,2021-11-05
+258,2021-11-08 20:40:54+00:00,1457810382001774597,Livepeer,"🚀 October was a groundbreaking month here at #Livepeer! Some noteworthy events:
+
+✅ Made our first company acquisition (Mist)
+✅ Co-Hosted COLLIDE, minting world’s 1st #LiveVideoNFTs! 
+✅ Sponsored @ETHGlobal #EthOnline's #hackathon  
+
+Read all about it: https://t.co/7IaZ5NKChk",74,3,21,2021-11-08
+260,2021-11-09 21:00:21+00:00,1458177666532716552,Livepeer,"📢  Join the #Livepeer Community Thursday @ 12pm EDT for a special quarterly topic call w/ @bt3gl Head of Blockchain Engineering at @Shopify and founder of @MidsummerDAO --  a new decentralized platform for filmmakers &amp; film curators.
+
+📺  Watch live @ https://t.co/YH6LQtClj5",67,3,19,2021-11-09
+262,2021-11-11 17:15:52+00:00,1458845946264096770,Livepeer,"ATTN #Web3Jam #hackathon participants! We look forward to seeing what you create with #Livepeer. Prizes are based on:
+
+Longevity || Quality || Impact || Wow Factor 🤩
+
+We are awarding:
+
+💰 1st Prize - $4000
+💰 2nd Prize - $2000
+💰 3rd Prize - $1000",47,4,11,2021-11-11
+263,2021-11-12 14:00:36+00:00,1459159196507820034,Livepeer,"#Livepeer is sponsoring the @ETHGlobal &amp; @protocollabs Web3 Jam #hackathon, and it's kicking off TODAY at 10am EST! 🚀 
+
+👾 We look forward to the next two weeks of hacking! 
+
+Watch the kickoff live &gt;&gt; 
+https://t.co/Gy6mWVmtkh",60,4,15,2021-11-12
+265,2021-11-17 14:35:36+00:00,1460979943115010048,Livepeer,"Join @ericxtang TODAY for an @ETHGlobal / @ProtocolLabs #Web3Jam panel! 🎉 
+
+""Learn from Builders in the Space"" 
+⏰ 9:30am PST / 12:30pm EST
+
+📺 Streaming on https://t.co/TuZsDJTy7B https://t.co/2v4AKpHgt1",37,6,9,2021-11-17
+266,2021-11-18 20:47:12+00:00,1461435847039934476,Livepeer,"Check out the latest on the Confluence protocol upgrade in today's blog post.
+
+Scaling Strategy + Testnet Preview  &gt;&gt;
+https://t.co/KajOWrbBPH",46,7,13,2021-11-18
+267,2021-11-22 19:02:24+00:00,1462859025402503169,Livepeer,"Curious about the evolving Layer 2 landscape and how projects can craft smart scaling strategies? Join the Livepeer community TOMORROW at 11am EDT for a  Q&amp;A with @DCbuild3r AND @YondonFu in our events channel: 
+https://t.co/Iajn8EbtE4 
+
+or watch live at https://t.co/YH6LQtClj5",37,4,6,2021-11-22
+268,2021-11-23 21:14:06+00:00,1463254554494001156,Livepeer,"Check out the recording of our live Q&amp;A with @DCbuilder and @yondonfu on the L2 Landscape and how Livepeer is designing smart scaling strategies to lower costs and strengthen network performance as part of the proposed Confluence protocol upgrade.
+https://t.co/TXr5iADy7l",47,5,8,2021-11-23
+269,2021-11-24 18:00:44+00:00,1463568282460561412,Livepeer,"Thanks to everyone for participating in the @ETHGlobal / @protocollabs #Web3Jam #hackathon!
+
+🎉 Great job &amp; congrats to winners: 
+
+🥇 Momentape
+🥈 DBeats
+🥉 Loop
+
+Prize pool winners are: Token Gated Livestream, NFT Minter, Dlive, MetaX, Decentralized Library, &amp; YogiNFT",46,12,11,2021-11-24
+270,2021-11-30 17:41:59+00:00,1465737887039860751,Livepeer,"There are endless #NFT possibilities in the decentralized sphere 🚀 And it's just the beginning...The @ETHGlobal X @protocollabs #Web3Jam was another opportunity to work with talented developers to create projects with #Livepeer!
+
+Read the full recap  &gt;&gt; https://t.co/ReYcN8ORig",46,9,9,2021-11-30
+271,2021-12-03 20:38:29+00:00,1466869469242925066,Livepeer,Check out the great step by step tutorial here: https://t.co/6nTSggW8TY,19,6,0,2021-12-03
+273,2021-12-08 14:54:57+00:00,1468594954687729665,Livepeer,Staking for Livepeer and other web3 infrastructure protocols is about to get easier... https://t.co/B5nPtB0P7q,45,9,10,2021-12-08
+275,2021-12-10 18:28:15+00:00,1469373409167556608,Livepeer,"The Livepeer Protocol’s migration to Layer 2 is proceeding through the LIP decentralized governance process.
+
+Check out this blog by @shanvasion on how the LIP process works and where Confluence sits today.
+
+https://t.co/GN8XRy2v3v",50,14,14,2021-12-10
+276,2021-12-15 21:54:44+00:00,1471237312969326595,Livepeer,"#Livepeer is excited to see everyone at the all-new one week collaborative @EFDevconnect event from @ethereum coming up this April! That's next-door to our developer office in the Netherlands, and we're cooking up some plans to welcome everyone to Amsterdam...stay tuned! https://t.co/g1y8s4RRPa",41,15,8,2021-12-15
+278,2021-12-16 14:54:27+00:00,1471493931959349255,Livepeer,"Users of @HuobiGlobal can now access LPT. If you're new to Livepeer and interested in learning about the network, check out https://t.co/WwS1xgIIzH and join the community Discord. https://t.co/ORfxmWEkLY",27,14,4,2021-12-16
+280,2021-12-22 18:03:20+00:00,1473715794525757441,Livepeer,"Livepeer is now listed on Huobi as demand for streaming services continues to build.
+
+https://t.co/Hj3AoEoK2B",65,14,22,2021-12-22
+281,2021-12-23 20:27:19+00:00,1474114419315650581,Livepeer,"Year in review 2021: Wrapping up a transformative 12 months for Livepeer
+
+https://t.co/opNqz8Bjj4",105,31,23,2021-12-23
+284,2021-12-26 15:54:29+00:00,1475132918439809028,Livepeer,"Happy holidays! 
+
+Wrapping up 2021, Livepeer Founder @ericxtang talks on the leading video tech podcast, about Livepeer’s video streaming capabilities.  
+
+https://t.co/4caS1P80fW",41,12,11,2021-12-26
+285,2021-12-27 19:18:47+00:00,1475546723346829317,Livepeer,"We are nearing the end of the process for the Confluence protocol upgrade. Today is the start of Last Call, where there are ten days to review the final Draft proposal ahead of the testnet security check and vote.
+
+Check out the LIP here:
+https://t.co/IhgqiF0N6K",73,17,14,2021-12-27
+286,2022-01-05 14:08:47+00:00,1478730197641871364,Livepeer,The perfect start to 2022 for Livepeer and Web3. https://t.co/Y1ENGfhLKQ,163,15,32,2022-01-05
+287,2022-01-06 14:02:38+00:00,1479091038463668226,Livepeer,Join the Livepeer community call today at 12pm EST in Discord to discuss the security review phase for the Confluence L2 migration. Code4rena (C4) are helping us run an audit contest to find any vulnerabilities. Join us to learn about the process and how to get involved!,40,9,7,2022-01-06
+289,2022-01-07 17:42:50+00:00,1479508842669031425,Livepeer,"Video? NFTs?
+
+Join us for #NFTHack! Apply today.
+
+https://t.co/TcrG78QIXZ",46,9,13,2022-01-07
+290,2022-01-10 20:36:42+00:00,1480639759164792842,Livepeer,Join us for #NFTHack by @ETHGlobal! Apply now - hacker applications close January 12th! https://t.co/M5C5VTNcox,22,8,8,2022-01-10
+291,2022-01-11 16:28:59+00:00,1480939810181324801,Livepeer,"We are in the last phases leading up to the Confluence launch!
+
+JANUARY
+13th - 20th: Security Audit
+13th - 20th: Testnet Phase 1, Orchestrators Setup on Rinkeby
+20th - 27th: Testnet Phase 2, Migration
+
+For more info, check out the conversation on Discord.",88,14,24,2022-01-11
+292,2022-01-12 15:39:40+00:00,1481289784651833349,Livepeer,"Come BUIDL the future of Web3 video with Livepeer @ethglobal #NFTHack. We're offering $10,000 in prizes for visionary, creative and practical projects to enable video creators, audiences and developers to thrive in a Web3 world.
+
+Register here
+https://t.co/AD6fbh5gaF",20,7,6,2022-01-12
+293,2022-01-13 19:55:47+00:00,1481716627573981186,Livepeer,"Are you an Orchestrator getting ready for L2 migration? Check out this blog by @hthillman on what to expect during testnet.
+
+https://t.co/mRQ3c0b5mu",36,11,7,2022-01-13
+296,2022-01-14 15:59:06+00:00,1482019451633647619,Livepeer,"What is the Web3 Video Stack and how is it different from Web2? Check out this workshop from our CTO @ericxtang 
+
+https://t.co/S3ioMPojwu",37,4,8,2022-01-14
+298,2022-01-18 15:02:01+00:00,1483454637516668934,Livepeer,"🏆 Congrats to the Livepeer #NFTHack2022 winners!
+
+$4,000: Killer web3 video app
+🦡 Nifty Badger
+
+$3,000: Best gaming app
+🎮 NFT Arcade
+
+$2,000: Best token-gated tool
+⚡️ dHub
+
+$2,000: Best use of @UnlockProtocol and Livepeer (co-sponsored prize)
+👍Got it
+
+https://t.co/ig3e71Y8FP",28,6,4,2022-01-18
+301,2022-01-19 18:52:37+00:00,1483875055788597259,Livepeer,"Quartet of NFT projects share Livepeer bounties at NFTHack
+
+https://t.co/qb9NNxi7xX",23,10,10,2022-01-19
+303,2022-01-20 17:03:39+00:00,1484210023370788869,Livepeer,DATE CHANGE: We are extending Testnet Phase 1 to ensure that orchestrators have enough time to launch on Rinkeby. Testnet Phase 2 will now start on January 24th.,16,5,4,2022-01-20
+305,2022-01-25 14:12:48+00:00,1485978965890248708,Livepeer,"Confluence Testnet Phase 2 is live.
+
+Orchestrators: access the migration guide here
+
+https://t.co/OenyhV5bTD",27,2,10,2022-01-25
+306,2022-01-28 22:00:05+00:00,1487183724290662407,Livepeer,"UPCOMING CONFLUENCE DATES
+
+FEBRUARY
+1 - 9/10th: Formal Vote
+If vote passes:
+~14th: Confluence Production Launch + Snapshot + Orchestrator Migration
+~21st: Delegators are able to claim on L2
+
+NOTE: Dates are estimates since the actual timing depends on block numbers.",22,1,6,2022-01-28
+307,2022-02-01 22:00:14+00:00,1488633314252578819,Livepeer,"CONFLUENCE VOTING BEGINS
+
+The formal vote for Confluence is now open! If you are an orchestrator, go here to vote: https://t.co/rAKxh3xEMW
+
+Voting is open through February 9th/10th. The polling period is the number of blocks required to complete 10 rounds (approximately 10 days.)",11,1,5,2022-02-01
+308,2022-02-02 18:58:59+00:00,1488950091754975238,Livepeer,"Join Livepeer at ETHDenver 2022
+
+https://t.co/xP4s8N1adq",27,0,4,2022-02-02
+309,2022-02-04 15:41:20+00:00,1489625125628567556,Livepeer,"Drop into the Livepeer Explorer to vote today! All Orchestrators, it's time to vote on the migration to Layer 2.
+
+Only 6 days remaining to cast your vote!
+
+Check out this blog for more info...
+https://t.co/Pwj9HZBrZj",22,0,3,2022-02-04
+312,2022-02-07 16:20:07+00:00,1490722047324004354,Livepeer,"Listen in tomorrow! 
+
+Shannon Wells, @shanvasion, joins a panel during the @tezos /RESPAWN: The Future of Gaming on Web3 virtual event.
+
+https://t.co/6Sa6qJ4Svz https://t.co/BS2Vmjh9Uq",19,0,6,2022-02-07
+315,2022-02-08 14:59:30+00:00,1491064149249753088,Livepeer,"Less than 2 days left to vote for Confluence - Livepeer's L2 Migration  
+
+ Cast your ballot if you haven't already!
+
+https://t.co/Pwj9HZBZOR",13,1,2,2022-02-08
+317,2022-02-10 19:03:27+00:00,1491850316513525764,Livepeer,"CONFLUENCE VOTE PASSES
+
+Thanks to all those who voted. L2 migration coming up next week!",15,0,3,2022-02-10
+318,2022-02-11 19:41:36+00:00,1492222304482476035,Livepeer,"Security is always a priority and working with @code4rena to secure the Confluence upgrade ahead of launch next week was a critical step in the process.
+
+Thanks to all the Wardens who participated!
+
+Interested in seeing the full report? Go here:
+https://t.co/MKLbrZgyDb",22,0,6,2022-02-11
+320,2022-02-14 19:42:43+00:00,1493309752268447756,Livepeer,"At @EthereumDenver Tuesday? 
+
+Join us for drinks, food, and a casual conversation about the Web3 tech stack.
+
+Feb 15th, 6-9pm MST
+
+https://t.co/9nSfqRL7az",21,0,3,2022-02-14
+322,2022-02-15 15:40:24+00:00,1493611158389075968,Livepeer,"See you tonight! 
+
+@akashnet_ @ArweaveTeam @SkynetLabs @LivepeerOrg 
+
+Invite you to...
+
+https://t.co/9nSfqRL7az",28,0,6,2022-02-15
+325,2022-02-16 14:22:08+00:00,1493953846896377859,Livepeer,"Meet the Livepeer core team this morning @EthereumDenver ☕️
+
+Coffee &amp; Breakfast
+8:30 - 11am MST
+
+Urban Farmer Denver
+1659 Wazee St
+Denver, CO 80202
+
+https://t.co/9D5Tw1qmGY",26,0,6,2022-02-16
+326,2022-02-17 02:31:31+00:00,1494137405078659072,Livepeer,"See you tonight!
+
+@EthereumDenver 
+https://t.co/ai03PJl5PT",20,1,5,2022-02-17
+329,2022-02-22 21:52:57+00:00,1496241628276826123,Livepeer,"Thank you @EthereumDenver for an amazing week!
+
+So many incredible conversations, parties, panels, and new connections.
+
+#thisistheGWEI",23,1,3,2022-02-22
+330,2022-02-23 17:35:21+00:00,1496539187650170884,Livepeer,"Lower gas fees, higher returns: Welcome to life on L2 with Livepeer!
+
+https://t.co/RKQGw17eur",62,10,15,2022-02-23
+331,2022-02-25 21:05:23+00:00,1497316822563045382,Livepeer,https://t.co/jbD6GO1Rxu,19,2,2,2022-02-25
+332,2022-02-26 18:05:06+00:00,1497633837911879687,Livepeer,Excited to partner with @polygonstudios to empower developers to bring great decentralized video platforms to web3. https://t.co/GqfL1X5Z9z,41,3,7,2022-02-26
+333,2022-03-02 17:03:26+00:00,1499067871695097864,Livepeer,"🚨 Livepeer is part of @web3con - going on now! 
+
+Excited to see what gets built!
+
+💰 Prizes 💰
+
+🏆 $3,000 for KILLER Web3 Video App
+🏆 $2,000 for best use of our video-on-demand MVP - wow us!",27,1,7,2022-03-02
+336,2022-03-03 20:30:03+00:00,1499482255600893968,Livepeer,"🔥 Livepeer X Huddle01 🔥
+
+How do decentralized video infrastructure and Web3 Meetings mesh?  @whereispaige_ @danisharora099 @shanvasion @ranjan3118  will be speaking this Friday.  @huddle01com
+
+https://t.co/bR93B4wFbt https://t.co/2OtVriMO6O",63,0,15,2022-03-03
+339,2022-03-04 16:01:10+00:00,1499776976881655814,Livepeer,"⌛We're starting in an hour - 12 pm EST | 10:30pm IST ⌛ 
+
+Join @whereispaige_ @danisharora099 @shanvasion @ranjan3118 to discuss Web3 and Video! 🗣️
+
+https://t.co/bR93B4wFbt",21,0,6,2022-03-04
+343,2022-03-05 16:00:45+00:00,1500139261785477133,Livepeer,"⭐One more day to submit for a chance to win @web3con bounties!
+
+Can't wait to see what everyone is buidling!  🏗️",14,1,3,2022-03-05
+345,2022-03-07 17:01:00+00:00,1500879199774683136,Livepeer,"⭐ Wondering who will win $1k for creating a tutorial video for in browser streaming using Livepeer. 
+
+@devfolio #ETHernals #hackathon",23,0,3,2022-03-07
+346,2022-03-08 15:13:31+00:00,1501214535172165636,Livepeer,"Join the head of product for the Livepeer network @protocollabs Lab Day this Thursday 3:00p EST / 20:00 UTC.
+
+@hthillman will be speaking to the Confluence upgrade and Livepeer's recent L2 migration!
+ 
+https://t.co/74G3yTWyhD",20,0,4,2022-03-08
+347,2022-03-09 17:00:48+00:00,1501603922351427598,Livepeer,"🔥Guess who we're chatting with this Friday🔥
+ 
+Cyprien Grau @0xcyp co-founder of @beemxyz - Web3 video toolbox for creators
+
+https://t.co/fyMub4mXtG https://t.co/h3uQ4tjub3",48,0,6,2022-03-09
+348,2022-03-10 19:00:42+00:00,1501996484711038981,Livepeer,"Going on now…  @devfolio #ETHernals #hackathon
+
+Livepeer is offering $15k in bounties! 💰💰💰💰💰
+
+Check out all the #bounties here
+
+https://t.co/jLJP6MkqCF",17,0,4,2022-03-10
+350,2022-03-11 16:01:55+00:00,1502313880554459141,Livepeer,"1 hour away from chatting with @0xcyp about Web3 and Video Streaming for Creators, Communities and Brands. @beemxyz 😱
+
+https://t.co/fyMub4mXtG https://t.co/Ou7C4X8yiJ",26,0,7,2022-03-11
+354,2022-03-14 13:00:14+00:00,1503355320697077764,Livepeer,"So many panels to keep an eye out for at @EthereumRio
+ 
+One to watch out for includes @shanvasion discussing web3 infrastructure today at 11:30am BRT/9:30am EST.
+ 
+Panelist include @lemoncheli @lucaslg26 @Forkland93 moderated by @shannonewing  ⭐",20,0,4,2022-03-14
+356,2022-03-15 16:01:22+00:00,1503763294070448140,Livepeer,"Can’t wait to see all the projects submitted for @ETHIndiaco #ETHernals Livepeer Bounties!
+ 
+💰#Buidlers if you missed the chance to enter… stay tuned! Plenty more hackathons in the pipeline💰",17,0,4,2022-03-15
+357,2022-03-16 17:00:27+00:00,1504140549560885248,Livepeer,"Come hang with us for a @LivepeerOrg workshop to learn about Building Web3 Video Infrastructure 🎥 
+
+Today (March 16th)
+2:10pm BRT/1:10pm EST
+Presented by @victorge73s 
+
+Join, learn and let's #buidl together! 🤝",24,1,5,2022-03-16
+358,2022-03-17 16:01:43+00:00,1504488157386928137,Livepeer,🚨Wondering what will be submitted for our #bounty  @ETHIndiaco #ETHernals Best Video NFT platform using the Livepeer NFT API 🚨,13,0,2,2022-03-17
+360,2022-03-18 22:26:43+00:00,1504947433977139208,Livepeer,"So many great #bounties to win @LensProtocol @ETHGlobal #LFGrow
+
+Livepeer is offering $16k in prizes 💰
+
+📼$4K best web3 video creator social platform
+🎥 $4K best web3 video streaming social platform
+💿 $4K best web3 short-form video social platform
+🏊‍♀️ $4K MVP (Pool Prize)",32,0,6,2022-03-18
+364,2022-03-20 17:39:39+00:00,1505599968358375427,Livepeer,"Video NFTs workshop by @camiinthisthang
+
+Time to #buidl ❇️ https://t.co/C1u51KB1NN",28,0,6,2022-03-20
+365,2022-03-21 13:01:31+00:00,1505892361460715531,Livepeer,"What will you build for with @LensProtocol and Livepeer @ETHGlobal? ⚒
+
+#LFGrow https://t.co/iijpeigAvf",16,0,4,2022-03-21
+369,2022-03-22 13:51:20+00:00,1506267283299127311,Livepeer,"Join @ericxtang in @ETHIndiaco’s upcoming panel discussion about “What's next for NFTs?” with Jonathan, @DheerajShah_ , @thisisneer &amp; @AaryamanVir ✨
+
+#BUIDL https://t.co/o49rLpjz7f",17,0,4,2022-03-22
+370,2022-03-23 19:20:01+00:00,1506712389084921859,Livepeer,"How will the Livepeer network provide a full-stack decentralized video infrastructure?
+
+Join our community call Thurs, Mar 24th,
+11am EST with
+
+Head Protocol Engineer @YondonFu 
+VP of Video Engineering @thulinma 
+Network Product Manager @hthillman 
+
+📺 https://t.co/YH6LQtClj5",21,0,7,2022-03-23
+372,2022-03-24 14:00:23+00:00,1506994336692584448,Livepeer,"Join us on Friday for the Web3 Video Twitter Spaces series, where web3 builders share 💎s about their journey building Decentralized Apps with Livepeer!
+
+Guest: Dragverse. 
+
+See you there! https://t.co/J7zqMiE1Mg",21,0,8,2022-03-24
+377,2022-03-25 13:00:17+00:00,1507341600808226847,Livepeer,"Almost time to learn about the Web3 Video social platforms being cooked up in the @LensProtocol garden at #LFGrow! 🌱
+
+📼$4K best web3 video creator platform
+🎥 $4K best web3 video streaming platform
+💿 $4K best web3 short-form video platform
+🏊‍♀️ $4K MVP (Pool Prize)",20,0,6,2022-03-25
+380,2022-03-28 16:37:48+00:00,1508483504052441088,Livepeer,"Full roadmap below 👇🏻
+https://t.co/QG19PNqzc7
+
+6/6",11,0,0,2022-03-28
+387,2022-03-29 19:30:02+00:00,1508889235402625024,Livepeer,"From Mile-High City, the IRL winner from @EthereumDenver is Imbue (@imbueworld), who post-hackathon is a Livepeer Grant recipient. 
+
+Imbue is a live streaming platform that is completely decentralized, owned, and operated by the community.
+
+Congratulations! 🥇",18,1,5,2022-03-29
+390,2022-03-30 23:44:23+00:00,1509315635242672130,Livepeer,"Livepeer will be represented by @shanvasion on a panel tomorrow @NFTLAlive with all-stars @VividLabsHQ, @Theta_Network, @OTOY and @PalmerGroupHQ
+
+Join us tomorrow at 10:10am PST for ""The impact of video &amp; streaming applications of NFTs on Digital Art &amp; Cinematography""",39,3,5,2022-03-30
+393,2022-03-31 20:34:59+00:00,1509630356734951430,Livepeer,"You're invited...
+
+https://t.co/EViVjaD5g0",18,0,2,2022-03-31
+404,2022-04-01 11:31:08+00:00,1509855879272837121,Livepeer,"@LensProtocol @ETHGlobal @0xPolygon @LitProtocol Curious about the winners of our pool prize ($4000) during @ETHGlobal @LensProtocol #LFGgrow? 🏊‍♀️ 
+
+Say no more. Let's go through the projects 🏆 ❇️
+
+↓",5,2,0,2022-04-01
+411,2022-04-02 15:00:50+00:00,1510271041628684295,Livepeer,"Drop a gm if you watched the new Livepeer commercial that debuted @NFTLAlive 📹  
+
+https://t.co/AqDWCccukl",30,4,8,2022-04-02
+413,2022-04-04 17:00:23+00:00,1511025904021028874,Livepeer,"After a record-breaking Q1 🤯, the @LivepeerOrg Grants Program isn't slowing down. 
+
+$250K of funding is available for Q2! 🎆 💸
+
+Read all about it: 
+https://t.co/TuNEojrZdL",32,0,9,2022-04-04
+414,2022-04-05 18:12:48+00:00,1511406514510118921,Livepeer,@adarshzpatel @ETHIndiaco @devfolio @Superfluid_HQ @Filecoin Awesome! 🤩💥,7,1,0,2022-04-05
+418,2022-04-06 17:00:14+00:00,1511750643303817220,Livepeer,"Have you watched the Livepeer commercial? 
+📺 https://t.co/AqDWCccukl
+
+It was funded through the Livepeer Grants Program by the Orchestrator and Community contributor @AuthorityNull 
+
+More info on the Grants Program here: 
+https://t.co/TuNEojrZdL",21,2,4,2022-04-06
+419,2022-04-07 19:00:08+00:00,1512143203453083657,Livepeer,"Where better to debut two BIG Livepeer premieres than a city known for its big premieres? 🔥
+
+We had the Livepeer commercial and @peersessions concert series launched @NFTLAlive 
+
+Read more here 👉 https://t.co/hqmpkuxNbC",14,1,2,2022-04-07
+422,2022-04-08 13:02:26+00:00,1512415571266215950,Livepeer,"What do ColorPixels, @DBeatsLive, @metadragverse &amp; @imbueworld have in common? 🤔 
+→ They’ve all received funding from the Livepeer Grants Program in 2022 🪙🤑 
+
+Q1 2022 Recap + BIG! announcement for the Livepeer Grants Program: 
+https://t.co/TuNEojrZdL",20,3,8,2022-04-08
+428,2022-04-09 15:00:24+00:00,1512807646482608132,Livepeer,"We had a great conversation with the @imbueworld, proudly supported by Livepeer Grants 💥
+ 
+Imbue is building a decentralized TikTok and launching today on @ProductHunt. 
+ 
+If you missed the live Twitter Space, check out the recording here
+▶️ https://t.co/F4FFNr2UAT",18,0,3,2022-04-09
+429,2022-04-11 19:30:08+00:00,1513600302091431937,Livepeer,"@camiinthisthang. Livepeer Global Ambassador, on highlights of @EthereumRio 2022, web3 as a global community, &amp; @womenbuildweb3:
+
+https://t.co/3VWFwpnLoK 
+
+↓",1,1,0,2022-04-11
+437,2022-04-12 15:15:02+00:00,1513898493227716609,Livepeer,"Web3 video ▶️
+
+Livepeer Community Summit
+&gt; Thought-provoking panels 💬🤯 
+&gt; Breakout discussion 🤝
+&gt; Breakfast &amp; lunch 😋 
+
+Click the link below ⬇️ to RSVP and hang out with the Livepeer community!
+https://t.co/YEPxO3SzZk
+
+🔑 PW is summit2022",20,0,8,2022-04-12
+438,2022-04-13 16:01:41+00:00,1514272622900559875,Livepeer,"The #LivepeerSummit (Apr 20th!) is an opportunity to hear from the Livepeer core team + community members + thought leaders within the web3 space.
+
+👋🏼 RSVP and hang out with the Livepeer community
+https://t.co/YEPxO3SzZk",16,0,5,2022-04-13
+439,2022-04-14 18:10:02+00:00,1514667309729779717,Livepeer,"Mark your calendar: The Livepeer Community Summit is April 20th!
+
+Join us in person in Amsterdam or for the web3 livestream.
+
+RSVP ⬇️
+https://t.co/YEPxO3SzZk",21,1,3,2022-04-14
+442,2022-04-15 14:15:05+00:00,1514970568839237632,Livepeer,"Next week, @petkanics will speak about The Livepeer Vision - Beyond Transcoding at #LivepeerSummit!
+
+Join us IRL in Amsterdam or for the web3 livestream
+📺 https://t.co/YEPxO3AYAK https://t.co/D2zQ68P53A",17,0,4,2022-04-15
+446,2022-04-18 22:31:04+00:00,1516182552314212352,Livepeer,"💰BOUNTY: Killer Web3 Video App
+👋🏻TEAM: Glitch
+
+A token-gated video streaming service.
+
+@web3con #web3con #web3video #HackathonWinner
+
+👇🏼3/5",4,1,0,2022-04-18
+457,2022-04-19 13:45:02+00:00,1516412560093892610,Livepeer,"DevConnect is off to a great start! The @LivepeerOrg core team is here IRL saying hello to the community! 💃🕺
+
+✳️ Come build with Livepeer this weekend at #ETHAmsterdam @ETHGlobal 👩‍💻",10,0,5,2022-04-19
+465,2022-04-20 11:15:36+00:00,1516737341028663303,Livepeer,"Breakout discussion about Web3 Native Video &amp; Decentralized Broadcasting is happening now at #LivepeerSummit! 🎙
+
+Tune in to join the conversation with @YondonFu!
+
+🗣 Join us IRL (📍Droog, Amsterdam) or from the web3 livestream
+https://t.co/YH6LQtTWaD https://t.co/JeA5bPRAAD",9,0,2,2022-04-20
+480,2022-04-21 15:30:02+00:00,1517163760099545089,Livepeer,"It's almost time! ⏰
+
+Join the founders of @Livepeer, @fluence_project, @ArweaveTeam, and others for an interactive conversation about the web3 tech stack and the challenges it faces today.
+
+🔗 Save your spot
+https://t.co/S6flaHp8TK",12,0,3,2022-04-21
+482,2022-04-22 20:36:21+00:00,1517603236731097088,Livepeer,"Good luck to all of the hackers @ETHGlobal #ETHAmsterdam! 🇱🇺
+
+PRIZES
+🤯Killer video-centric social media, creator, or gaming app - $6k
+🎥Best video NFT minting app w new SDK - $4k
+📼Best video on demand application w Livepeer’s VOD MVP - $4k
+🌏Best app for metaverse - $2k",21,3,5,2022-04-22
+484,2022-04-25 12:07:39+00:00,1518562379025371140,Livepeer,"Thank you to all the hackers who participated this weekend at the @ETHGlobal hackathon at #ETHAmsterdam 👏
+
+#web3video #hackathon https://t.co/KZ4H5iLFvh",34,1,3,2022-04-25
+490,2022-04-26 10:21:40+00:00,1518898097585283073,Livepeer,"Watch @ericxtang’s workshop @ETHGlobal #ETHAmsterdam 🇳🇱
+
+⚒️ Building the Killer Web3 App with Video https://t.co/R2JcYcE27B",25,2,6,2022-04-26
+492,2022-04-28 19:30:02+00:00,1519760872716918785,Livepeer,"ICYMI: our Twitter handle is now @Livepeer 😎💥
+
+https://t.co/LQV0DULLaw",13,0,5,2022-04-28
+494,2022-04-29 16:01:11+00:00,1520070700345737217,Livepeer,"🔴 We are LIVE with the #ETHAmsterdam @ETHGlobal hackathon winners @noviachao @isaackcchung &amp; @victoriakimse 👩🏼‍💻🏅
+
+&gt; The Power of hackathons
+&gt; Web3 Social and Creator platforms
+&gt; Bringing a new generation of Web2 devs into Web3
+
+💬 Join the conversation!
+https://t.co/rf5QDyvvhq",11,0,4,2022-04-29
+498,2022-04-30 18:00:32+00:00,1520463123806920707,Livepeer,"Missed our Space with @irisappxyz?
+
+↓ Listen to the recording
+https://t.co/rf5QDyvvhq",15,1,3,2022-04-30
+499,2022-05-03 22:38:11+00:00,1521620163455451137,Livepeer,"Home of beautiful canals, last month Amsterdam was also home of @ETHGlobal's #ETHAmsterdam hackathon. And Livepeer was there with $16K in bounties 💥🙋🏻‍♀️ 
+
+Congrats to the winners! 🔥 
+
+👇 More info on ETHAmsterdam here https://t.co/NU9WkhUUL3",28,1,4,2022-05-03
+500,2022-05-06 12:53:16+00:00,1522560127886319621,Livepeer,Livepeer co-founders @petkanics and @ericxtang are confirmed to speak @NFT_NYC! https://t.co/C3ZZ4RBl5c,14,0,5,2022-05-06
+503,2022-05-08 20:00:06+00:00,1523392317591154690,Livepeer,"We had a blast at the #LivepeerSummit, where speakers such as @petkanics @ericxtang @LensProtocol talked about the future of #web3video 📺
+
+👋🏼 Didn't get to join us?
+No worries, we will be releasing recordings from the Summit!
+
+Stay tuned!",20,1,3,2022-05-08
+504,2022-05-09 10:19:03+00:00,1523608479256117248,Livepeer,"Video. Owned by their creators.
+
+Who’s building a web3 @YouTube? https://t.co/hcRnkuwCHH",18,0,7,2022-05-09
+505,2022-05-10 13:00:26+00:00,1524011481888706561,Livepeer,"👋 ICYMI: #LivepeerGrants is allocating $250K in funding for Q2 2022!
+
+Build the future of #web3video with Livepeer ❇️
+🔴 Livestreaming
+📹 Video apps
+🤳 Creator platforms
+
+Learn more:
+https://t.co/TuNEojrZdL",18,0,6,2022-05-10
+507,2022-05-11 16:00:13+00:00,1524419114193805319,Livepeer,"Join us for the State of @Livepeer Q1 2022 Analyst call hosted by @MessariCrypto this Friday at 2pm EST!
+
+Register here
+👇🏻
+https://t.co/91KiVLHvx1",16,8,2,2022-05-11
+508,2022-05-12 15:00:42+00:00,1524766522144604160,Livepeer,"Network usage on the Livepeer network has been growing over the last six quarters 🥳
+
+Check out the full State of Livepeer report by @MessariCrypto for more
+
+👇🏻
+https://t.co/kRM40UXPYh https://t.co/TAHXYjF9Rv",15,0,6,2022-05-12
+510,2022-05-13 13:00:38+00:00,1525098696299380738,Livepeer,"The State of @Livepeer with @MessariCrypto 
+
+Analyst call - today!
+🔴 2pm EST
+
+👇🏻
+https://t.co/91KiVLHvx1",6,0,2,2022-05-13
+513,2022-05-16 13:00:37+00:00,1526185852963004418,Livepeer,"👇🏻ICYMI: catch the replay of the Q1 analyst call with @MessariCrypto! 
+
+https://t.co/OpE2O0ncNN",13,1,4,2022-05-16
+517,2022-05-18 17:46:11+00:00,1526982495111106562,Livepeer,"Congratulations to our frens @LensProtocol for the Mainnet launch 🌱💃
+
+Join the party Space tomorrow! https://t.co/weBOl5aScd",24,0,4,2022-05-18
+518,2022-05-22 19:59:08+00:00,1528465505421561860,Livepeer,@dabit3 @ArweaveTeam @BundlrNetwork @LensProtocol @graphprotocol @SpheronHQ Web3 Social Summer is coming ☀️,15,0,3,2022-05-22
+519,2022-05-23 18:06:20+00:00,1528799505797328897,Livepeer,Livepeer Grants and @radicle foundation are proud to partner in support of this first ever livestream demo 📹 of @dripsnetwork @NFTBERLINteam 🎶 https://t.co/yNknr7TJXt,19,0,3,2022-05-23
+524,2022-05-24 13:15:01+00:00,1529088581691551745,Livepeer,"Eager to make an impact in #web3video? 👾
+
+Build the future of web3 social, gaming, or creator dApps w/Livepeer &lt;&gt; Winners earn bounties @NFTBerlinteam #Hackathon
+
+📆 May 27-28.
+📍 Alte Muenze.
+
+Build with Livepeer 👇
+https://t.co/hmNdEbQ6a4",12,0,2,2022-05-24
+527,2022-05-25 08:02:56+00:00,1529372431709773824,Livepeer,@radicle @dripsnetwork Let’s go! 💃 🎶🔴,3,0,0,2022-05-25
+530,2022-05-26 20:44:38+00:00,1529926507027742733,Livepeer,Check out the the reality of web3 video with @HUDDLN_ - TONIGHT! https://t.co/4EexmSLMoo,23,0,13,2022-05-26
+536,2022-05-27 08:02:03+00:00,1530096982332583936,Livepeer,"Hacking at #NFTBerlin today? 🇩🇪
+
+Build the future of web3 social, gaming, or creator dApps w/Livepeer!
+
+💰 Winners earn bounties @NFTBerlinteam #Hackathon
+
+📆 May 27-28.
+📍 Alte Muenze.
+
+Check out our Hacker Guide 👇
+https://t.co/hmNdEbQ6a4",15,0,3,2022-05-27
+541,2022-05-28 12:13:32+00:00,1530522660597157892,Livepeer,"@NFTBERLINteam Thanks to all the hackers who built with Livepeer at #NFTBerlin! 🇩🇪
+
+@NFTBerlinteam",6,0,1,2022-05-28
+546,2022-05-30 07:55:18+00:00,1531182450604482562,Livepeer,@JackGlacken @emilianobonassi @NFTBERLINteam @encodeclub @codethazine You guys were AWESOME! 🔥,6,0,0,2022-05-30
+548,2022-05-31 13:00:13+00:00,1531621571026100225,Livepeer,"SF is the city of the Golden Gate Bridge... and Golden Web3 Video projects ☀️
+
+If you're a dev interested in building with Livepeer, be sure to register for the upcoming #GraphHack2022 hackathon June 3-5!
+
+💰$4k in prizes up for grabs 
+
+https://t.co/JDCuD04IL9",63,0,13,2022-05-31
+550,2022-06-01 15:00:16+00:00,1532014169834373123,Livepeer,"Curious to know about the future of web3 dapps and protocols?
+
+Join @YondonFu for a fireside chat this Friday 6/3 🗨️ to chat about the role The Graph has played and what Livepeer is excited about building with @graphprotocol ⚒️",14,0,5,2022-06-01
+552,2022-06-02 13:00:42+00:00,1532346470875242496,Livepeer,"✨ Livepeer is joining #GraphHack2022 with $4K in prizes up for grabs! 👩🏼‍💻🏅
+
+📆June 3-5
+📍Palace of Fine Arts in SF
+
+Sign up here:
+https://t.co/JDCuD04IL9",8,0,4,2022-06-02
+555,2022-06-03 20:00:31+00:00,1532814505218125824,Livepeer,"Starting in one hour! Join @graphprotocol for a fireside chat with @YondonFu on The Future of Web3 Dapps ​​💥
+ 
+🎙 Tune in here
+https://t.co/rpJFXNjj2g",43,1,5,2022-06-03
+558,2022-06-06 13:00:54+00:00,1533796069666086912,Livepeer,"Building dapps with #web3video @EthPrague #hackathon this week?
+
+💰$15K up for grabs!
+
+👇Get started with the Livepeer Hacker Guide! ✨
+https://t.co/Y4qcS9NPNo",10,0,4,2022-06-06
+559,2022-06-07 11:28:35+00:00,1534135227244740608,Livepeer,"The #ETHWarsaw meetup is coming soon and the event will have a web3 livestream powered by Livepeer! 🤳🏻 
+
+Details &amp; registration linked below👇🏽 https://t.co/HjOxeeoqV0",8,0,2,2022-06-07
+561,2022-06-10 14:01:44+00:00,1535260931373953025,Livepeer,"GM! @ETHPrague is happening now!
+
+Watch the web3 livestream powered by Livepeer 
+📺 https://t.co/AmMeXnO2xa",14,0,4,2022-06-10
+563,2022-06-11 07:15:01+00:00,1535520967480397824,Livepeer,"Livepeer was at the first-ever #NFTBerlin ⚒️ 💥
+
+Thanks @NFTBERLINteam for a great event! 🤝 📹
+
+👇 Check it out
+https://t.co/0jqULEL2Gj",9,0,2,2022-06-11
+565,2022-06-12 13:30:02+00:00,1535977728012275714,Livepeer,"LIVE from @ETHPrague: new frens, awesome panels &amp; awesome hackers🔥
+
+Can’t be here live? 
+📺 Grab a front-row seat and join the web3 livestream here
+https://t.co/AmMeXnO2xa",17,0,4,2022-06-12
+569,2022-06-15 16:46:17+00:00,1537114279731601409,Livepeer,"📹 Livepeer is coming to @NFT_NYC 2022 - let's celebrate NFTs &amp; #web3video 👋
+
+👇 Check the plan below
+https://t.co/XAu1vlUvz6",18,0,3,2022-06-15
+571,2022-06-16 13:48:19+00:00,1537431880819060737,Livepeer,"Drop into Livepeer Quarterly Orchestrator call TODAY from 11am ET to learn about:
+
+🎨 Fresh UX updates coming to https://t.co/IDzKvSIOTL and https://t.co/EsCzE7wBDY 
+
+🤝 Community-driven R&amp;D on the most secure way to run a Livepeer node
+
+📺 Tune in
+https://t.co/32nTgGQbEG",9,0,2,2022-06-16
+572,2022-06-17 15:55:22+00:00,1537826242572931072,Livepeer,"The core @Livepeer team continues to work closely with the orchestrator community to improve their overall experience and functionality on the network.
+
+Watch out for documentation and resources that will improve orchestrator onboarding, upgraded test streams, and lots more!",7,1,1,2022-06-17
+579,2022-06-20 20:00:57+00:00,1538975208853364736,Livepeer,"🚨CALLING ALL🚨 developers, creators, web3 researchers, community leaders, and anyone looking to leverage their skills to grow the Livepeer ecosystem!
+
+Livepeer Grants accelerates is committed to the growth of the #web3video ecosystem 🌐💥
+
+👇🏼Learn more 
+https://t.co/TuNEojrZdL",23,1,8,2022-06-20
+581,2022-06-21 09:30:49+00:00,1539179017760231424,Livepeer,"🚨  #NFTNYC2022 attendees!
+
+Tune in for @shanvasion's panel about What Creators Need to Know about NFT Infrastructure @NFT_NYC! 👾
+
+📆 June 22nd
+⏰ 4:40pm
+📍 Coinbase theater at Marriott 6th floor https://t.co/ghe2lCsZjb",20,1,5,2022-06-21
+584,2022-06-22 18:31:30+00:00,1539677475696828416,Livepeer,"If you are at #NFTNYC2022 come say hi to Livepeer! 🗽👋 
+ 
+Let's celebrate #web3video! https://t.co/X8zc3wrJTS",25,1,5,2022-06-22
+585,2022-06-23 13:15:05+00:00,1539960233031639041,Livepeer,"Missed the panel about What Creators Need to Know about Web3 infrastructure with @shanvasion @NFT_NYC? 👾
+
+📺 No worries, we will be releasing takes from the panel soon!
+
+❇️ Stay tuned! https://t.co/c9vPAGaM1K",22,0,3,2022-06-23
+586,2022-06-25 19:24:25+00:00,1540777954417840128,Livepeer,"#NFTNYC2022 highlights 🎥 
+
+🎙@petkanics panel about #web3video impact on Hollywood? 🎬 https://t.co/KXAjdK5fIV",12,1,3,2022-06-25
+588,2022-06-26 21:11:15+00:00,1541167227172319232,Livepeer,"@ETHGlobal @Superfluid_HQ @0xPolygonDevs Team Reverb 🥈
+
+All-in-one music platform and marketplace ecosystem on-chain, built for small and rising indie artists 🎶 
+
+🧑🏽‍💻 #ETHNewYork @ETHGlobal 
+https://t.co/Ez4I6IJgRR",2,1,0,2022-06-26
+595,2022-06-27 13:15:33+00:00,1541409901007712257,Livepeer,"#NFTNYC2022 highlights 🎥
+
+Who will build the killer app in #NFTVideo?
+🎙 @_merefox
+🙌🏻 @NFT_NYC https://t.co/EHQuryLBAd",13,2,3,2022-06-27
+598,2022-06-29 12:05:28+00:00,1542117043364700160,Livepeer,"The Livepeer Explorer update is live!
+
+💻 https://t.co/7ISuzT4o1r
+
+👇🧵Highlights of the changes",40,2,13,2022-06-29
+604,2022-07-01 17:21:49+00:00,1542921431142453253,Livepeer,"Whether markets are up or down, the Livepeer core team’s mission won’t waver.
+
+We won’t be worrying – we’ll be building ⚒️
+
+https://t.co/HbnbiXXYz6",30,2,7,2022-07-01
+605,2022-07-04 17:00:05+00:00,1544003121864515584,Livepeer,"Mark your calendar: Livepeer will bring #web3video to @EthCC! 🎥🇫🇷
+
+Join us in person in Paris and stay tuned for the live social coverage 🤳 https://t.co/qS1ECtfQws",40,4,6,2022-07-04
+606,2022-07-08 17:00:08+00:00,1545452687973527552,Livepeer,"The Livepeer network has transcoded over 60 million minutes of video this year! 🚨
+
+Learn more about this growth in the State of Livepeer report by @MessariCrypto
+
+👇🏻 https://t.co/zxRgpOJGQ6 https://t.co/C2KhaTXZ3q",75,8,16,2022-07-08
+609,2022-07-12 18:00:12+00:00,1546917355334184961,Livepeer,"Coming to @EthCC? 🇫🇷
+
+Join @ericxtang for a talk about Decentralized Video Applications
+
+📆 July 19th - 10:30 am CET
+📍 Bievre https://t.co/0fJX9LHPXX",17,0,4,2022-07-12
+610,2022-07-13 13:02:22+00:00,1547204790198980611,Livepeer,"How to stake $LPT and earn 18% yield with @BinanceUS 
+
+👇 https://t.co/WzSeRLXYzz",5,0,2,2022-07-13
+613,2022-07-14 16:00:14+00:00,1547611939466989569,Livepeer,"The first Future of Web3 Content event is here! 😄👾
+
+Join discussions about web3 content and decentralized media with @Livepeer, @ProtocolLabs, @LensProtocol, and @MetaWebVC ⚒️
+
+Stay tuned for the highlights! 🤳🏼",30,0,8,2022-07-14
+614,2022-07-15 14:15:02+00:00,1547947853326168068,Livepeer,"Hey, #HackerHouseParis! 🇫🇷 
+
+Building with Livepeer at the @Solana @hackerhouses ⚒️🎥  
+
+https://t.co/Dc9XYmLmEB",5,0,3,2022-07-15
+615,2022-07-16 08:58:11+00:00,1548230505862049799,Livepeer,"Bonjour! If you are a builder or creator attending @metaverse_conf and want to talk about #web3video, come meet us at the Livepeer booth 🥐🇫🇷 https://t.co/YbiJWSfysE",12,0,3,2022-07-16
+616,2022-07-17 08:00:02+00:00,1548578259633258496,Livepeer,"Today, @shanvasion will speak about the Open Metaverse Framework at the main stage of @metaverse_conf! 👾 🇫🇷
+
+⏰ 10:40 am CET",14,0,4,2022-07-17
+619,2022-07-18 19:10:22+00:00,1549109341839446017,Livepeer,"Celebrating #web3video at @EthCC? 💻🇫🇷
+
+Join @ericxtang in #ETHCC tomorrow, July 19th, for a talk about Decentralized Video Applications 🗣 
+
+📆 July 19th - 10:30am CET
+📍 Bievre
+
+https://t.co/CyjfWqc7JR",16,0,5,2022-07-18
+632,2022-07-19 14:38:32+00:00,1549403319235497984,Livepeer,"The State of @Livepeer with @MessariCrypto &amp; @petkanics
+
+Analyst call - today!
+🔴 2pm EST
+
+👇🏻 https://t.co/Vpu3uC24j4 https://t.co/ryNL1eN6Wf",9,4,3,2022-07-19
+638,2022-07-20 10:15:20+00:00,1549699471558475777,Livepeer,"Everyone is digging the #Livepeer merch at #EthCC @EthCC 🇫🇷😎
+
+Stop by, say hi, and grab some free swag at our tables! 👋 https://t.co/TIQeG5dnrV",15,0,2,2022-07-20
+642,2022-07-21 10:57:47+00:00,1550072542206914565,Livepeer,"The Livepeer #EthCC booth is looking amazing 🤌
+
+If you're here, find Livepeer at the 3rd floor, and come chat about #web3video 🎥🤳🏻 https://t.co/CNvesrChdU",22,2,4,2022-07-21
+644,2022-07-22 12:30:04+00:00,1550458155095638016,Livepeer,"👇 Sign up for the Livepeer calendar
+https://t.co/CE37oTMLRW https://t.co/ZIIehBO3RB",6,0,0,2022-07-22
+647,2022-07-25 17:00:08+00:00,1551613279557955584,Livepeer,"Thank you @sinofy_group for adding #LivepeerGrants to the list of 100 top web3 grants 🙌 
+
+Livepeer Grants is committed to the growth of the #web3video ecosystem 🌐💥 
+
+👇🏼 https://t.co/DlKuKBKzDJ",9,1,4,2022-07-25
+649,2022-07-26 16:00:16+00:00,1551960601936609281,Livepeer,"Are you ready?! 🥁 
+
+The Livepeer Project Update Call is now live! 📹 
+
+📺 https://t.co/32nTgGQbEG
+
+https://t.co/JXTQ1q94Ol",12,0,4,2022-07-26
+650,2022-07-28 12:59:46+00:00,1552639955062534145,Livepeer,"Co-founder and CEO of Livepeer Doug Petkanics @petkanics shares: An Actionable Framework for Founders Bridging into Web3 @TechCrunch ❇️
+
+https://t.co/F6GipXwx6C",24,2,6,2022-07-28
+651,2022-07-29 16:00:06+00:00,1553047723233775616,Livepeer,"Livepeer just REACHED 30K FOLLOWERS ON TWITTER! 🔥🥳
+
+We appreciate every member of the #web3video community! 🎥 
+
+Thank you for being part of this journey, and stay tuned for all the updates coming soon 👋🏻 https://t.co/iQDbiC9Cq9",45,7,9,2022-07-29
+652,2022-08-05 15:05:59+00:00,1555570821845815299,Livepeer,"Livepeer network stats, as of July 26: 
+
+• 4,299 delegator accounts 
+• 100 active orchestrators 
+• 48.8% participation rate 
+• 25,967,981 LPT total supply 
+
+👇🏼 Check out the State of Livepeer Q2 for additional metrics: https://t.co/zxRgpOJGQ6",21,1,2,2022-08-05
+658,2022-08-08 12:30:04+00:00,1556618746172542976,Livepeer,"Livepeer is coming to the @futurist_conf #Futurist22 🇨🇦🙋🏻‍♀️ 
+
+🤝 Meet the Livepeer core team
+🧑‍🏫 Learn about #web3video 
+😎 Get some merch! https://t.co/FBBcrmRk4y",27,1,6,2022-08-08
+661,2022-08-09 19:26:31+00:00,1557085939477778433,Livepeer,Livepeer Studio website is now available in Spanish! 🗣 https://t.co/TyzNEKrLGD,12,2,4,2022-08-09
+662,2022-08-11 23:36:49+00:00,1557873702720651266,Livepeer,"Attending @ETHLatam tomorrow? 🇦🇷 
+
+Join @shanvasion tomorrow for a talk: Foundations for a New Internet: Why Web3 Infrastructure Matters 🗣🌐
+
+⏰ 13:30pm ART
+📍 Stage 1 https://t.co/oMoVhNZkQh",18,2,5,2022-08-11
+663,2022-08-12 13:15:14+00:00,1558079665855553536,Livepeer,"The Livepeer community is proud to welcome @SenseiNode as the first Livepeer node operator in Latam! 📣
+
+SenseiNode is helping Livepeer to power the world’s decentralized infrastructure in the vibrant Latam community 📹🌐
+
+The first of many 🙋🏻‍♀️💥 https://t.co/3kKEY07Kxj",38,2,10,2022-08-12
+666,2022-08-13 18:04:30+00:00,1558514847058477056,Livepeer,Last day @ETHLatam 🇦🇷 https://t.co/JXpf4ILZbO,13,2,4,2022-08-13
+667,2022-08-14 18:00:25+00:00,1558876208141459456,Livepeer,"#ETHLatam highlight 📹 
+
+🎙 @shanvasion, Livepeer Head of Ecosystem Growth
+🎥 Foundations for a New Internet: Why Web3 Infrastructure Matters 🛠🗣 https://t.co/3l0037rkCl",26,3,7,2022-08-14
+668,2022-08-15 13:36:50+00:00,1559172263068327942,Livepeer,"Closing #ETHLatam with demos and pitches from the next-gen of web3 builders 🇦🇷💥
+
+Thanks to everyone who joined our event in collaboration with @EmbassyDAO 🌐 https://t.co/1LYgg14j28",42,4,8,2022-08-15
+669,2022-08-29 12:30:03+00:00,1564228888066019328,Livepeer,"Need liquid staking for your $LPT? ❇️ 
+
+Check out @tenderize, a Livepeer 2021 grant recipient! ⚒️ https://t.co/TVtP50xfxY",14,0,4,2022-08-29
+673,2022-08-31 19:00:08+00:00,1565051830475923456,Livepeer,Build with Livepeer at ETHOnline 2022! Join the Twitter Space starting now with Livepeer CTO @ericxtang. https://t.co/3FjkAKcGxp,16,2,2,2022-08-31
+674,2022-09-05 12:04:06+00:00,1566759074296786944,Livepeer,"🔴 LIVE! Join @petkanics, Livepeer's  CEO and co-founder, for an AMA with @Binance! 💬 
+
+👇 https://t.co/YhIGa0isia",25,4,4,2022-09-05
+675,2022-09-08 14:32:31+00:00,1567883585629343744,Livepeer,"Join @shanvasion, Livepeer Head of Ecosystem, and @DreamDAO_ for a conversation with @DoinGudHQ about decentralized impact and the DoinGud DAO 🌐
+
+📆 September 9th 
+⏰ 1:30pm ET/7:30pm CET
+
+👇 Set a reminder https://t.co/wGroYAj8W4",27,1,6,2022-09-08
+676,2022-09-09 17:30:03+00:00,1568290652391358465,Livepeer,"LIVE NOW with @DoinGudHQ 🔴🎉
+
+Join @shanvasion for a conversation with @DoinGudHQ and @DreamDAO_ about decentralized impact and the DoinGud DAO 🧩
+
+Tune in 🎙️ https://t.co/wGroYAj8W4",16,4,3,2022-09-09
+678,2022-09-12 14:15:03+00:00,1569328741461131264,Livepeer,"Gm #NEARCON attendees! 🚨👋
+
+Join @shanvasion, Livepeer Head of Ecosystem, for a panel: How NFT Marketplaces Are Evolving 🎥 
+
+📆 September 13th 
+⏰ 10:20am ET/3:20 PM GMT
+📍 Warehouse Cais da Viscondessa, Lisbon
+
+📺 Tune into the livestream
+https://t.co/rtG2Ydq4jy",6,0,2,2022-09-12
+679,2022-09-13 14:30:04+00:00,1569694910357606400,Livepeer,"LIVE at #NEARCON! 🔴🤳 
+
+🌐 Tune in for the panel: How NFT Marketplaces Are Evolving with @shanvasion, Livepeer Head of Ecosystem 
+
+📺 Tune into the livestream 
+https://t.co/rtG2Ydq4jy",9,0,1,2022-09-13
+680,2022-09-14 15:04:19+00:00,1570065916595171330,Livepeer,"Join the #StreamETH web3 livestream powered by Livepeer 🤳🏻 
+
+Livepeer is a decentralized video streaming network for next-gen #web3video platforms.
+
+Over 150 million minutes streamed since 2017. https://t.co/TbvdHsFV03",24,1,5,2022-09-14
+682,2022-09-15 13:15:04+00:00,1570400808881254400,Livepeer,"Drop into the Livepeer Quarterly Orchestrator call TODAY, Sept 15th, starting at 11am ET / 5pm CET for a chat about:
+
+📄 Orchestrator Documentation for Deployment 
+❇️ Ethereum → Arbitrum bridge issue 
+📊 Reliability and Performance Dashboard 
+
+📺 Tune in 
+https://t.co/BlIgZ7DbDJ https://t.co/CKJvGouhEs",20,1,5,2022-09-15
+684,2022-09-16 13:09:04+00:00,1570761688772907015,Livepeer,"Not joining @ETHBerlin this week?
+
+Join the #ETHBerlin web3 livestream powered by @Livepeer 🇩🇪😄
+🗣 Discussions
+👾 Exciting demos
+🤝 Awesome community-led panels
+
+📺 Tune in here!
+https://t.co/zcge9e1Bvn",16,0,3,2022-09-16
+686,2022-09-20 16:59:27+00:00,1572269216283381760,Livepeer,"Join @ericxtang, Livepeer Co-Founder and CTO, for #Mainnet2022 day 2 highlights with @storj! 🌐
+
+📆 September 22nd
+⏰ 1:30pm ET/7:30pm CET
+
+👇 Set your reminders
+https://t.co/Nj2BCSwCuA https://t.co/5WRzlO1YCn",17,0,3,2022-09-20
+688,2022-09-21 13:15:04+00:00,1572575136804638720,Livepeer,"Livepeer is coming to #Mainnet2022! 🗽🙋🏻‍♀️
+
+🗣 Join @petkanics for a talk on killer web3 social apps
+
+🗓 Friday, September 23rd, 1:45pm ET 🛠🗣
+📍 Pier 36, New York City
+
+🤝 @MessariCrypto https://t.co/4XttDUUwff",21,2,5,2022-09-21
+689,2022-09-22 20:00:09+00:00,1573039467736113152,Livepeer,"""There is a digital-first, web3-centric world that has emerged, and is bootstrapped into existence via the blockchain-enabled disruption in the above categories.""
+
+— @petkanics",5,1,2,2022-09-22
+697,2022-09-23 17:45:05+00:00,1573367863305379847,Livepeer,"🔴 LIVE from Messari #Mainnet 2022!
+
+🎥 Tune in for a talk on killer web3 social apps presented by @petkanics
+📍 Sponsor Stage
+
+@MessariCrypto https://t.co/oeVZlAen38",15,1,7,2022-09-23

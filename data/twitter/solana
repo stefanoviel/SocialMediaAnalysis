@@ -1,0 +1,1783 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-01 18:31:33+00:00,1212441245366140928,solana,Happy New Year! https://t.co/thGKivExZy,12,4,0,2020-01-01
+1,2020-01-02 02:10:21+00:00,1212556703645884416,solana,Solana comes in as the most active blockchain project utilizing Rust during the month of December. 343 merged PRs and 88 closed issues! https://t.co/ZjXZCFazms,13,0,2,2020-01-02
+4,2020-01-03 00:40:07+00:00,1212896386452049920,solana,@avalabsofficial You could achieve this by forking Solana 😉,4,1,0,2020-01-03
+14,2020-01-06 17:42:35+00:00,1214240862915317760,solana,"Ep. 12 of The Solana Podcast with guest, @BrendanEich, is live. 🚀 Brendan is the Co-founder / CEO of
+@brave and @AttentionToken. In this episode, we dive into the current privacy and security risks with traditional browsers and how Brave is fixing them.
+
+https://t.co/A6T1LbUcp3",39,2,12,2020-01-06
+17,2020-01-07 19:49:49+00:00,1214635269753692160,solana,"Dry Run 6 will test the performance of a heterogeneous cluster of validators under heavier transaction load. It will be structured as a series of increasing rounds of transactions per second.
+
+https://t.co/nhwGQ1Vluh",5,0,1,2020-01-07
+18,2020-01-09 04:06:36+00:00,1215122674164224000,solana,@cryptoMelea @cryptomeleabs 🎉🎉🎉,0,0,0,2020-01-09
+19,2020-01-11 23:17:33+00:00,1216137095888031744,solana,"Announcing the Solana Collective program. For everyone interested in becoming more involved with the greater Solana community, now is your chance! More information will be available in the upcoming weeks. Limited to 50 people - apply now 🚀
+
+https://t.co/F4m8MJ0D71",26,4,4,2020-01-11
+22,2020-01-12 06:16:18+00:00,1216242478103195648,solana,@bigdipperlive It is not :),1,0,0,2020-01-12
+23,2020-01-13 18:51:28+00:00,1216794910747025408,solana,"Big thanks to all who participated in DR6. We've just released a debrief for it here -&gt;
+
+https://t.co/K0seOHcazL",15,1,2,2020-01-13
+25,2020-01-14 23:40:38+00:00,1217230070202294272,solana,@StakingRewards @ethereum @polkadotnetwork @Cardano @CeloHQ @cryptocom @maticnetwork @telegramton @NEARProtocol @avalabsofficial 🙌,0,0,0,2020-01-14
+26,2020-01-15 18:23:26+00:00,1217512630912307200,solana,"What's your favorite episode of No Sharding - The Solana Podcast? 🤔
+
+https://t.co/bZD8FvrkUj",3,3,2,2020-01-15
+28,2020-01-16 22:45:28+00:00,1217940962627866624,solana,"Supertubes v0.22.3 - https://t.co/WFroTJaIID
+
+-Documentation improvements for the command-line tool
+- Improved command-line tool error messages
+- Fixed bank hashing problem that caused TdS DR6 to lose consensus
+- The CUDA_HOME environment variable can now be used to locate CUDA",9,0,1,2020-01-16
+37,2020-01-17 17:10:48+00:00,1218219127485022209,solana,"SLP1.1 network update: we had two successful launch ceremonies yesterday and our SLP cluster is now up and running with over 40 validators! ⚡️
+
+More information coming soon.",12,1,2,2020-01-17
+38,2020-01-20 01:19:02+00:00,1219066772726243329,solana,"Episode 13 of No Sharding - The Solana Podcast drops tomorrow 🤫
+
+https://t.co/vG8XhbZg5Q
+
+Make sure to subscribe to us on iTunes or anywhere else you listen to podcasts.",9,0,5,2020-01-20
+40,2020-01-21 03:00:45+00:00,1219454758823452673,solana,@aeyakovenko @balajis We support this statement.,4,0,0,2020-01-21
+41,2020-01-23 19:17:30+00:00,1220425342868914178,solana,@Moneyguy87 Not quite :),0,0,0,2020-01-23
+42,2020-01-24 21:54:59+00:00,1220827362478051328,solana,@avalabsofficial 🤝 let’s spread the word,1,0,0,2020-01-24
+45,2020-01-26 21:02:45+00:00,1221538990706159616,solana,"Wave two of the Solana Collective applications are now open 📖
+
+https://t.co/F4m8MJ0D71",5,0,2,2020-01-26
+47,2020-01-27 20:30:04+00:00,1221893153256460289,solana,Happy Lunar New Year! 🎇,6,1,0,2020-01-27
+50,2020-01-28 16:57:06+00:00,1222201947979075585,solana,@Fiskantes @allilulllc @polkadotnetwork @NEARProtocol 😎🙌,0,0,0,2020-01-28
+52,2020-01-29 21:19:50+00:00,1222630453594603520,solana,@pranaymohan @sunnya97 Thanks for sharing :),1,0,0,2020-01-29
+53,2020-01-30 21:26:29+00:00,1222994516837191681,solana,"We just shipped the fix for the SLP 1.1 restart failure.
+
+- Turbine now ignores staked validators with a different shred version
+- RPC getClusterNodes now excludes validators with a different shred version
+- Validators now wait for a supermajority of stake by default",13,1,1,2020-01-30
+57,2020-01-31 04:05:18+00:00,1223094881540665346,solana,"1/ We just announced the start date for Stage 1 of Tour de SOL 🚴‍♀️, our incentivised testnet:  
+
+- Registrations now open until Feb 3rd, 8:00am PST,
+- Event begins on Feb 4th, 8:00am PST,
+- Intended duration will be approx. 4 weeks
+
+Register here 👇
+https://t.co/dL8ZsMhgrG",31,1,8,2020-01-31
+62,2020-02-01 20:47:44+00:00,1223709539221921792,solana,"We will be hosting our first AMA of the year next week. Our CEO, @aeyakovenko, will sit down for an hour and answer all of your questions around TDS, mainnet, accelerator program, reaching 60k tps, and more in real-time!
+
+Are you interested in participating?",5,0,2,2020-02-01
+63,2020-02-02 03:24:27+00:00,1223809377053724672,solana,Just a little over 36 hours remaining for those looking to get register and get involved in Stage 1 of Tour de SOL 🚴‍♀️ https://t.co/lKdpsqtTuj,5,0,1,2020-02-02
+64,2020-02-03 20:02:23+00:00,1224422901970898944,solana,"TdS officially starts tomorrow 🚀
+
+Applications for this round is now closed! Thank you to everyone who has registered.",13,1,4,2020-02-03
+66,2020-02-04 15:55:30+00:00,1224723161071046657,solana,@cryptoMelea 🙌🙌,0,0,0,2020-02-04
+69,2020-02-05 19:32:40+00:00,1225140199862095873,solana,"This will be a great event! Stephen, our principal engineer will be speaking about staking alongside engineers at @coinbase, @tendermint_team, @akashnet_, and @TQTezos https://t.co/F6AGTWhdro",16,0,1,2020-02-05
+72,2020-02-06 23:51:39+00:00,1225567763521048587,solana,"You can find The Solana Podcast on Apple Podcasts, Spotify, Google Podcasts, and everywhere else you listen!
+
+https://t.co/bZD8FvIWiT https://t.co/2sFif8jIYe",4,0,0,2020-02-06
+76,2020-02-07 02:07:37+00:00,1225601982116687877,solana,@ClintEhrlich @bramcohen @andy_bromberg @BrendanEich @el33th4xor We like to think of it as two friends just having a conversation over a drink or some tea! No prepared questions or script.. we just let the natural conversation happen and post it.,2,0,0,2020-02-07
+77,2020-02-10 19:49:35+00:00,1226956397008474112,solana,"The Solana Collective Portal is almost finished. This program began as a way for our broader global community to participate in the Solana ecosystem. Apply now. 
+
+https://t.co/F4m8MJ0D71 https://t.co/63MaROOLaO",11,4,2,2020-02-10
+79,2020-02-11 16:54:11+00:00,1227274643918032896,solana,"Excited to share the recap of the 1st Week of Tour de SOL 🚴‍♀️
+
+A shoutout to the team at @CertusOne for successfully executing the first critical attack 🤺❗️
+
+Read the full write-up after the jump below 👇
+https://t.co/z5NhVASNAQ",23,0,6,2020-02-11
+80,2020-02-12 13:35:52+00:00,1227587122732756992,solana,@Node_Ateam @CertusOne Thank you!,0,0,0,2020-02-12
+84,2020-02-13 19:03:02+00:00,1228031845729628160,solana,@ChorusOne It was amazing having you on!,1,0,0,2020-02-13
+85,2020-02-15 17:41:07+00:00,1228736004862791680,solana,"Tour de SOL is now up to 72 nodes participating. 
+
+Watch the network:
+https://t.co/2LZM5XLChU
+
+Learn more about participating:
+https://t.co/dwiKn6yOVz",29,1,8,2020-02-15
+86,2020-02-18 03:10:15+00:00,1229604007787712518,solana,"Episode #7 of our podcast with @NEARProtocol Co-Founder &amp; CEO, @AlexSkidanov is one of our most popular episodes. During the recording @aeyakovenko and Alex discuss in detail the benefits and vulnerabilities of sharding.
+
+https://t.co/rjmLMSdPMD",20,0,5,2020-02-18
+87,2020-02-19 18:51:11+00:00,1230203191611908097,solana,"Episode #15 of No Sharding just went live on iTunes, Spotify and everywhere else you get your podcasts!
+
+On this episode, @aeyakovenko &amp; @jillruthcarlson chat about practical uses for blockchain technology, staying authentic in the crypto space and more
+
+https://t.co/3nxdOUmW7R",18,0,5,2020-02-19
+88,2020-02-20 22:36:36+00:00,1230622306021474304,solana,@QhsNYJ @KyleSamani @_prestwich Of course. You can also check out more detailed documentation here: https://t.co/YKUCi4yUIL,0,0,0,2020-02-20
+92,2020-02-21 21:43:11+00:00,1230971252325531648,solana,@AlexSkidanov @aeyakovenko @ClintEhrlich @ilblackdragon @basicblockradio 😄🙌,1,0,0,2020-02-21
+94,2020-02-22 17:09:50+00:00,1231264847603499009,solana,TdS is back up and climbing https://t.co/dpzj8Bjq13,22,5,4,2020-02-22
+96,2020-02-24 15:50:20+00:00,1231969619075715072,solana,"We have been working tirelessly the past few weeks on a complete rebrand and website to better represent Solana. We are excited to announce that the completely rebranded website is now live!!
+
+https://t.co/4j6FrqNkBV https://t.co/VJDV1bttVn",61,8,20,2020-02-24
+99,2020-02-25 16:53:55+00:00,1232348005740638214,solana,@joselitommutuc Thanks,1,0,0,2020-02-25
+104,2020-02-26 01:02:29+00:00,1232470959803682819,solana,"We just finished up recording a podcast episode with @amirhaleem, CEO &amp; Founder of @helium. During this recording, Amir goes into how Helium was started, the challenges around hardware growth, the exciting future of the Helium ecosystem, and much more.",26,1,4,2020-02-26
+106,2020-02-27 16:04:27+00:00,1233060336288157696,solana,"""We’re definitely keeping an eye on Solana as a promising solution for scalability, with a dedicated and passionate team and a clear vision of decentralized future where #nosharding is necessary.""
+
+Thanks for the write up, @DokiaCapital 
+
+https://t.co/2LxEO3p6uY",24,0,7,2020-02-27
+109,2020-02-28 23:39:52+00:00,1233537332457832448,solana,Stay tuned :) https://t.co/5DInYtynIl,11,0,1,2020-02-28
+110,2020-03-01 23:07:17+00:00,1234253907854938117,solana,The global community is growing 🌏 https://t.co/A7gDuuBLaJ,8,0,3,2020-03-01
+113,2020-03-03 16:11:29+00:00,1234874043624378368,solana,"Ep #16 of The Solana Podcast with @VinnyLingham is live
+
+Vinny Lingham is the co-founder and CEO of @civickey / GP at @multicoincap. In this episode, Vinny and @aeyakovenko  chat about early bitcoin adoption, practical use cases for crypto and much more
+
+https://t.co/e2cRq8G6C0",75,2,17,2020-03-03
+114,2020-03-04 14:23:06+00:00,1235209156878974976,solana,.@ChorusOne had some fun a stole a ton. Fixed on day one. More info to come 😉,9,2,4,2020-03-04
+120,2020-03-05 09:08:29+00:00,1235492369861971969,solana,@a1ihuseyn 😁🙌 thanks,0,0,0,2020-03-05
+121,2020-03-06 23:13:04+00:00,1236067304149880833,solana,"Check out this recently published blog post from our friends at @ChorusOne. The post highlights how Reisen helped us increase our network security by exposing a vulnerability during TdS.
+
+https://t.co/78k7Q1IHo2",11,0,3,2020-03-06
+124,2020-03-08 19:11:08+00:00,1236731191518093312,solana,"Have you listened to the latest episode of The Solana Podcast with co-founder / CEO of @civickey &amp; general partner at @multicoincap - @VinnyLingham ??
+
+https://t.co/e2cRq8G6C0",15,2,6,2020-03-08
+126,2020-03-11 23:34:40+00:00,1237884678322839554,solana,You can view the entire deal page and register for the auction start 3/17 here (non-US only): https://t.co/4glBPCmQlO,5,0,0,2020-03-11
+138,2020-03-12 18:04:53+00:00,1238164072660492288,solana,@mbuzie4cryptos @CoinList 😁🎉,0,0,0,2020-03-12
+148,2020-03-13 21:13:03+00:00,1238573812137865216,solana,Everyone waiting for transactions to confirm on Ethereum like... https://t.co/ooQAZbh7zl,18,4,1,2020-03-13
+152,2020-03-14 01:17:28+00:00,1238635322918834177,solana,@Takeshi_TGAL @akashnet_ @crypto_ninjas 🤝,1,0,0,2020-03-14
+153,2020-03-15 01:08:17+00:00,1238995400184360960,solana,https://t.co/YFzIxbCqUU to continue feeding your brain with some of the best #blockchain &amp; #technology interviews available,9,0,4,2020-03-15
+158,2020-03-17 18:05:58+00:00,1239976284064591873,solana,"A mini-episode of The Solana Podcast just went live with the President of Coinlist @andy_bromberg.
+
+In this episode, we cover our Coinlist auction and how the Staker Price Guarantee works. Any
+participant in the program enjoys a 90% buy-back guarantee.
+
+https://t.co/6sUIeLgduu",8,1,0,2020-03-17
+166,2020-03-18 03:13:59+00:00,1240114198203392001,solana,@aeyakovenko https://t.co/mMDfQ9fq0C :),2,0,0,2020-03-18
+169,2020-03-19 19:42:07+00:00,1240725257759014912,solana,@CoinDesk @paddybaker_ @HuobiDM_Futures https://t.co/mMDfQ9fq0C - @aeyakovenko has a better idea 😁,6,0,0,2020-03-19
+180,2020-03-20 20:51:46+00:00,1241105170840178689,solana,"We are live on the Webinar!! Take a break from what you're doing and join us to chat about current market conditions, Silvergate pausing wires, the recent shift to crypto and more!
+
+https://t.co/EBTnisjRSa",3,1,0,2020-03-20
+195,2020-03-22 16:46:30+00:00,1241768226612080640,solana,"Today is the last day to get your pre-bids in before our Coinlist auction goes live at 10pm PT on Monday, March 23rd
+
+https://t.co/4glBPCmQlO",14,0,1,2020-03-22
+196,2020-03-23 22:20:29+00:00,1242214663825182722,solana,https://t.co/0m0vLAmw2K,5,1,0,2020-03-23
+211,2020-03-24 11:21:10+00:00,1242411130036703234,solana,"The auction is now closed!!
+
+Thank you to everyone who participated 🎉",20,0,0,2020-03-24
+225,2020-03-25 18:18:23+00:00,1242878511771054081,solana,"We are excited to announce we have a new Telegram group specifically for our Japanese speaking audience!
+
+You can join here: https://t.co/tGzEzD8s7I",9,0,1,2020-03-25
+229,2020-03-26 01:53:45+00:00,1242993108993753088,solana,"Thanks, @YahooFinance for the great article covering our successful @CoinList auction.
+
+https://t.co/NN2cdboucr",22,0,6,2020-03-26
+234,2020-03-27 21:43:15+00:00,1243654842578395137,solana,@Stimulus_PKG @BisonTrails @Cointelegraph @multicoincap @KyleSamani @TusharJain_ Besides what Bison Trails already mentioned in their post... it's more important than ever now for projects to work collaboratively. We all want to see the ecosystem grow :),3,1,0,2020-03-27
+238,2020-03-28 19:45:45+00:00,1243987660537909249,solana,@finrekt @chainlink @1inchExchange @Bidaochain @kava_labs @Huey_Linkley @LtColFOMO https://t.co/6JrIzi6DZk,3,4,1,2020-03-28
+239,2020-03-30 16:10:47+00:00,1244658338224164865,solana,@CryptoBenelux1 🙌,0,0,0,2020-03-30
+244,2020-03-31 19:53:52+00:00,1245076866479738882,solana,"Our friends at @StakingFac created @solanabeach_io where you can spend warm sunny days watching the waves and the 0.45ms block times on the Solana network ☀️
+
+https://t.co/edS6Kng7xz",28,0,13,2020-03-31
+246,2020-04-01 20:19:55+00:00,1245445813448216576,solana,"We have been working intensely behind the scenes for several months on a new initiative, and are proud to announce our native support for the Toilet Paper Token as featured on @CoinMarketCap 
+
+https://t.co/MIhuO0IbO2",41,4,7,2020-04-01
+251,2020-04-02 18:46:23+00:00,1245784661231464449,solana,"Thanks to everyone that participated in TdS Stage 2. With us now moving into April, we’re going to be shifting into Stage 3 of Tour de SOL.
+
+https://t.co/7x9uBylSzi",27,1,4,2020-04-02
+252,2020-04-03 20:13:56+00:00,1246169082526720002,solana,"Don't forget to listen to the latest episode of The Solana Podcast with @KyleSamani
+
+https://t.co/XUP69lAlpr
+
+Kyle and Anatoly talk about the effects of COVID-19 on the crypto market, Black Thursday, and how they each see the next few months playing out in traditional markets",26,0,9,2020-04-03
+253,2020-04-04 07:19:51+00:00,1246336666265980928,solana,@Node_Ateam 🙌🙌,0,0,0,2020-04-04
+256,2020-04-05 00:31:27+00:00,1246596276080095233,solana,Solana block production go BRRRR https://t.co/5ztz9EGXz3,44,8,10,2020-04-05
+265,2020-04-06 05:44:21+00:00,1247037409834893312,solana,@MoonIcarus Ask away if you have any questions :),3,1,0,2020-04-06
+266,2020-04-07 22:55:20+00:00,1247659249431273473,solana,🤣 these are great https://t.co/MeN9BOuAIE,78,4,23,2020-04-07
+275,2020-04-08 21:30:14+00:00,1248000221830762496,solana,@To_The_Mars_ @aeyakovenko @el33th4xor @avalabsofficial Amazing!!,2,1,0,2020-04-08
+283,2020-04-09 21:06:23+00:00,1248356606816878592,solana,"30 lucky winners will receive each 10$ worth of $SOL
+ 
+1) Retweet &amp; comment AMA announcement:
+- tag 3 @friends
+- #Binance #AMA #Solana #blockchain
+2) Comment with your #question on the tweet
+3) Join https://t.co/HdekBS0il3
+4) Join https://t.co/40KE2dO1GF https://t.co/vEVLaT4xJL",745,945,566,2020-04-09
+290,2020-04-10 04:06:28+00:00,1248462326581227523,solana,"SOL/BNB, SOL/BTC, and SOL/BUSD trading pairs are now live on @binance 🔥
+
+https://t.co/5aBM7UBYwv",100,34,28,2020-04-10
+307,2020-04-11 20:05:04+00:00,1249065952819343360,solana,@vaibhavchellani @solanabeach_io https://t.co/ui9V0FUiFs :),4,0,1,2020-04-11
+310,2020-04-13 23:02:46+00:00,1249835447888437248,solana,No Sharding and @epicenterbtc as your top podcasts! Great choices 😁 https://t.co/AqjQ0MGuO0,43,2,9,2020-04-13
+315,2020-04-15 23:03:57+00:00,1250560523122294790,solana,"Were excited to announce our partnership with @terra_money.  Together we’re building a new high-speed token bridge that facilitates the transfer of Terra stablecoins into Solana’s dapp ecosystem.
+
+https://t.co/KJWODILcDi",303,31,139,2020-04-15
+319,2020-04-16 14:52:21+00:00,1250799193846734848,solana,"@Brad_Laurie @JoeCrypto7 @terra_money Legend thanks Brad :)
+
+https://t.co/ui9V0FUiFs is another good spot",4,1,1,2020-04-16
+324,2020-04-17 21:04:57+00:00,1251255351564832769,solana,"Thanks, @Cointelegraph for the great coverage of our recent partnership announcement with @terra_money 
+
+https://t.co/SJuE5tv0M1",69,2,13,2020-04-17
+327,2020-04-19 01:38:27+00:00,1251686567808102402,solana,@domengsuit @DOTA2 Our first AMA was only 8 days ago :) everyone who won has been contacted and is aware of the airdrop timeline,2,0,0,2020-04-19
+329,2020-04-20 04:40:05+00:00,1252094665580376065,solana,@Bitcoin4Bailout We are actively working with CMC to get the numbers corrected,2,2,0,2020-04-20
+330,2020-04-21 06:29:26+00:00,1252484571976749056,solana,@orpheuswell2 @solanabeach_io @leolukde @CertusOne Agreed. What was awesome about this was that the validators on the network took the initiative to restart the network themselves after the issue was identified -  without any input Solana's engineering team.,6,0,1,2020-04-21
+333,2020-04-22 23:28:59+00:00,1253103536000258048,solana,"We are excited to be hosting @ReadyLayerOne along with some incredible projects like @tezos, @polkadotnetwork, @NEARProtocol, and more! This virtual conference will take place May 4th - 6th
+
+Use our link to get a free ticket before they sell out.
+
+https://t.co/7pCJFkthFf",71,4,25,2020-04-22
+335,2020-04-23 21:03:48+00:00,1253429389481533441,solana,@unclebobcrypto email austin@solana.com please,1,0,0,2020-04-23
+340,2020-04-24 00:21:19+00:00,1253479097361141761,solana,@klickythings @LLLuckyL 😎,0,0,0,2020-04-24
+342,2020-04-25 00:00:14+00:00,1253836178320572417,solana,"Heading into the weekend, we want to announce our next featured validator, @ChainflowPOS.
+
+https://t.co/F9TO13trbf
+
+Chainflow, founded by @cjremus, recognized early on the importance of developing a sustainable ecosystem for validators of various backgrounds and resources.",45,3,14,2020-04-25
+346,2020-04-27 17:02:08+00:00,1254818121669459968,solana,@UltraLinkyPepe It has been ready for a week or so now! You need to enable developer mode and use a CLI though.,2,0,0,2020-04-27
+349,2020-04-28 02:28:05+00:00,1254960549823000576,solana,"""The team has written code that most of us don't touch at the assembly level - it's an extremely technical team that I can trust to solve the time problem in a decentralized system"" @gregosuri - Cofounder of @akashnet_ 
+
+https://t.co/zI40ELa0cD",48,7,15,2020-04-28
+353,2020-04-29 21:15:49+00:00,1255606737916162048,solana,@LariiAnez @TrustWalletApp @vikmeup 🤔,2,0,0,2020-04-29
+363,2020-04-30 00:13:00+00:00,1255651328027549696,solana,@dia_aroma @TrustWalletApp @vikmeup 😁,0,0,0,2020-04-30
+367,2020-05-01 01:18:31+00:00,1256030204352278528,solana,@TheFox81648874 Try again,0,1,0,2020-05-01
+371,2020-05-04 23:51:58+00:00,1257457975947640841,solana,"9.1 million blocks and counting have been produced since we launched our mainnet on March 16th.
+
+You can review the network data along with the incredible team of validators helping to support the network at https://t.co/jlE132AZvn",61,2,19,2020-05-04
+374,2020-05-05 00:02:23+00:00,1257460595550498821,solana,The Akashian Challenge already has 185 teams registered! https://t.co/XsOZQ048WA,22,1,2,2020-05-05
+379,2020-05-06 21:39:01+00:00,1258149292511903744,solana,"Interesting article from one of the Solana Collective members.
+
+*This is an unofficial community created blog https://t.co/3jaWptj6nS",24,2,5,2020-05-06
+385,2020-05-07 23:15:41+00:00,1258536008510914561,solana,@FabGandila @garious14 We are working on this!,1,0,0,2020-05-07
+387,2020-05-08 18:15:49+00:00,1258822933490757632,solana,"This week we are highlighting another validator team who has been critical to our success, @StakeCapital 
+
+https://t.co/bkn7LIshhq
+
+Stake Capital is one of the leading service providers of the emerging digital economy.",46,2,7,2020-05-08
+389,2020-05-09 17:41:52+00:00,1259176775831007232,solana,@abondar92 🙌🙌🙌,0,0,0,2020-05-09
+391,2020-05-10 06:03:27+00:00,1259363401941151747,solana,You can view the network data at https://t.co/jlE132SAmV,16,1,2,2020-05-10
+394,2020-05-12 03:19:59+00:00,1260047038680412162,solana,@IScirlet Thanks!,1,0,0,2020-05-12
+397,2020-05-13 15:16:20+00:00,1260589703134187522,solana,@Alice51723 @hummingbot_io 🙌 thanks,0,1,0,2020-05-13
+406,2020-05-15 23:05:49+00:00,1261432628130922496,solana,"To finish out the week we are highlighting @CryptiumLabs as this week's featured validator. They exist at a niche intersection where they run a highly secure and performant infrastructure as validators but also boast an extremely competent technical team
+
+https://t.co/kr72qcr30f",47,2,17,2020-05-15
+416,2020-05-16 03:07:18+00:00,1261493398680174592,solana,@SolanaJapan @CryptiumLabs 😄🙌,2,0,0,2020-05-16
+419,2020-05-18 16:45:32+00:00,1262424090448560128,solana,@0xDFE2BF4928e8D @ElonTrades @aeyakovenko We have contacted Binance. Please stay tuned - sorry about any issues you may be experiencing,7,2,0,2020-05-18
+420,2020-05-19 15:42:04+00:00,1262770508350713857,solana,"The campaign has been postponed to May 26th at 12am UTC.
+
+The additional week will allow for added testing of the SOL campaign on the liquidity mining data infrastructure. User now have more time to setup, upgrade, and get familiar with running @hummingbot_io https://t.co/3EtvhK8O7X",43,0,13,2020-05-19
+423,2020-05-20 01:30:54+00:00,1262918692641202176,solana,"Episode #1 of No Sharding, The Solana Podcast, is our most popular episode of the past week! The episode that started it all.. our CTO dives into the 8 core innovations that make up Solana, including PoH, our solution to the clock problem.
+
+https://t.co/mfhdgF9Bo8",37,1,11,2020-05-20
+425,2020-05-21 16:20:54+00:00,1263505056210411527,solana,@cjremus @chrishobcroft 🎉🎉,2,0,0,2020-05-21
+427,2020-05-26 23:22:18+00:00,1265423042848546816,solana,"If you have any questions, please join our English Telegram (https://t.co/1qEmxT6hFX) and someone from the official Hummingbot team will be able to help.",20,0,5,2020-05-26
+429,2020-05-27 02:57:53+00:00,1265477297374507009,solana,@UIncOfficial It already happened,0,0,0,2020-05-27
+432,2020-06-03 15:54:04+00:00,1268209345877012481,solana,Who do you think it will be? 🤔 https://t.co/F7ZaFMnJUY,66,10,17,2020-06-03
+434,2020-06-04 10:59:05+00:00,1268497498760339456,solana,"We just announced a  📎 Grant/RFP for Cross-Chain Support on Solana to enable BTC/ETH assets to be supported. Further details and forms to submit EOI's are provided below 👇
+https://t.co/s1xeLWw9vx",55,2,16,2020-06-04
+440,2020-06-05 18:12:01+00:00,1268968836713177088,solana,@solanabeach_io @IAlexiuc Grab your beach towel and some sunscreen! Surfs up 🏄‍♂️,6,0,0,2020-06-05
+443,2020-06-07 17:12:58+00:00,1269678753027784704,solana,Don’t forget @DokiaCapital 🎉 https://t.co/jg4IIoOVYV,34,3,7,2020-06-07
+444,2020-06-10 21:44:27+00:00,1270834235985682432,solana,@hasufl @tarunchitra @jadler0 @gauntletnetwork 😁🙌,0,0,0,2020-06-10
+450,2020-06-11 15:03:03+00:00,1271095610330906624,solana,@stvmcg Amazing 🙌,2,0,0,2020-06-11
+452,2020-06-13 18:27:07+00:00,1271871739346157568,solana,"""The server SDK APIs are intended to be as blockchain-agnostic as possible to help facilitate the migration to Solana later."" Milestone 2 (Agora) has @Kin_Ecosystem gearing up for a migration to Solana 🏎 https://t.co/7YC2iExa1z",42,1,9,2020-06-13
+454,2020-06-15 18:53:41+00:00,1272603199090733056,solana,Join our quickly growing Solana India Telegram group: https://t.co/qrnJwNCuDY https://t.co/PmYuLAtCwz,13,0,2,2020-06-15
+455,2020-06-16 21:09:03+00:00,1272999652787253250,solana,"2) As of 23:59 UTC on June 19th, this will no longer be the case, and only stake account addresses will be accepted for registration.",12,1,2,2020-06-16
+460,2020-06-17 23:27:42+00:00,1273396934380670976,solana,"Today the Solana blockchain hit 1 BILLION transactions 🎊
+
+Since we created our genesis block and used it to launch mainnet beta on March 16th, it has been quite the journey. 
+
+Watch the network in action here: https://t.co/edS6Kng7xz",72,6,14,2020-06-17
+462,2020-06-18 07:34:43+00:00,1273519495877816320,solana,"🎉 Solana will be featured in the upcoming @gate_io listing competition. 
+
+✅ The voting competition will start on Monday, June 22nd at 9 PM PST and last 24 hours. $75,000 USD (~◎125,000) will be allocated for Solana voters.
+
+https://t.co/HBVVHzXWCw",1490,192,1254,2020-06-18
+467,2020-06-19 22:37:35+00:00,1274109096879206400,solana,"As the Solana token user base continues to grow, it is of utmost importance for the Solana Foundation to maintain a high level of transparency with regards to the SOL token.
+
+You can read the Solana Foundation Transparency Report #1 here:
+ 
+https://t.co/g0Kr2dd6tK",81,2,28,2020-06-19
+474,2020-06-22 04:01:03+00:00,1274915279135367169,solana,"Voting starts in 24 hours! Make sure to:
+📊 Log into your https://t.co/RHFAty18xM (or create an account if you don’t have one)
+💰 Acquire or continue holding Gatechain Tokens (GT)
+✅ Vote on https://t.co/RHFAty18xM for Solana https://t.co/7O6gq6P38B",28,2,7,2020-06-22
+483,2020-06-23 16:18:40+00:00,1275463290626293760,solana,"12 hours left to vote for SOL (Solana) in the @gate_io listing campaign! 
+
+Currently we are ahead 35M to 11M but, there is still time to go so make sure to vote! The winner will be the next listing on the Gate io Exchange.
+
+https://t.co/yKAtJaPFMs",37,0,7,2020-06-23
+490,2020-06-24 00:30:42+00:00,1275587118186688512,solana,@ShoaibA34701163 @gate_io Yes! 🎉,0,2,0,2020-06-24
+496,2020-06-25 04:36:31+00:00,1276011365975461889,solana,"SOL/USDT is officially trading on @gate_io 🎉
+
+https://t.co/UfRy0f45hN",404,39,290,2020-06-25
+499,2020-06-26 04:00:41+00:00,1276364737266118656,solana,"The Solana Foundation is eager to finally have our first Collective community call! The fine details are still being worked on but we will make sure the Collective is updated.
+
+If you have yet to apply, join over 1000 other individuals growing Solana  https://t.co/SLfRXCyZyo 🚀",91,5,30,2020-06-26
+501,2020-06-29 17:37:58+00:00,1277657574460944385,solana,"@lucrhulk @Cryptor_io @leashless @BitcoinCartoon @el33th4xor Sub-second finality :)
+
+https://t.co/bOnbUcG3P6",1,0,0,2020-06-29
+503,2020-06-30 17:48:42+00:00,1278022663814832129,solana,@zidouh_yassine Great - all information around airdrops is updated on our Telegram :) Any further questions you can ask there,0,0,0,2020-06-30
+505,2020-07-01 17:09:16+00:00,1278375128821141504,solana,@andrewmcodes So glad you got the shirt - it looks like there was a bit of an issue with the logo placement. We will be getting that fixed and expect another package from us 😁,0,1,0,2020-07-01
+511,2020-07-06 18:33:04+00:00,1280208158221144064,solana,"1 billion transactions, 20 million blocks, @Kin_Ecosystem migration, @gate_io exchange listing, and more! June was an exciting month for the Solana community - check out the Solana Foundations monthly recap newsletter.
+
+https://t.co/wDShpeijUI",113,8,31,2020-07-06
+512,2020-07-08 22:29:47+00:00,1280992505794662400,solana,@Solana_Mates @MXC_Exchange Amazing!,4,0,1,2020-07-08
+518,2020-07-09 01:02:59+00:00,1281031059245682688,solana,"Ep #13 featuring @sunnya97, Core Developer at @tendermint_team / @cosmos 
+
+https://t.co/DbrvNG0Pph",13,0,2,2020-07-09
+528,2020-07-10 20:01:38+00:00,1281679997380333568,solana,@Legenda51229260 Amazing!,1,0,0,2020-07-10
+530,2020-07-11 19:08:07+00:00,1282028917834969088,solana,@SamiK1982 hahah,0,0,0,2020-07-11
+531,2020-07-12 23:47:30+00:00,1282461615946821632,solana,@Tejzkie It has not started yet - MXC should be distributing in the next few days.,1,2,0,2020-07-12
+541,2020-07-13 16:04:24+00:00,1282707457664376832,solana,"SOL/USDT pair is now live on @BithumbGlobal
+
+https://t.co/qvWKmJaaRI",74,4,28,2020-07-13
+542,2020-07-14 18:02:29+00:00,1283099564229025794,solana,"Tour de SOL, our incentived testnet, officially has 250 validators participating. 🚴‍♂️🚴‍♀️
+
+Current TPS: 523
+Total Transactions: 1,123,397,945
+Block Height: 23,197,784
+Block Times: Avg 0.42s",83,3,28,2020-07-14
+546,2020-07-16 15:54:15+00:00,1283792068779769857,solana,* No action is needed if you are not part of the official competition :),15,1,2,2020-07-16
+548,2020-07-17 14:45:09+00:00,1284137067086147585,solana,"@BitMax_Official Make sure to register for the Solana Educational Airdrop campaign: https://t.co/Fk5tp1b5QA
+
+◎20,000 in prizes available",17,1,8,2020-07-17
+554,2020-07-20 16:01:22+00:00,1285243412329840649,solana,@solanablog 😳😳,1,0,0,2020-07-20
+557,2020-07-24 18:39:18+00:00,1286732706903015425,solana,"Episode #23 of No Sharding featuring @dete73 is now live. Dieter is the CTO of @dapperlabs and Lead Architect of @flow_blockchain
+
+https://t.co/o6dFcu95xz
+
+This episode is perfect for anyone interested in learning more about L1 development and games on the blockchain.",84,51,50,2020-07-24
+559,2020-07-27 12:28:23+00:00,1287726526339850242,solana,"Thrilled to see one of the best teams in crypto choosing Solana. This is a turning point for the industry, for the Solana community, and for DeFi. https://t.co/5wkf4wbFYW",99,3,21,2020-07-27
+567,2020-07-28 12:26:05+00:00,1288088337136250887,solana,"We're looking for a talented front-end engineer that's proficient in @rustlang to join us at @solana 
+
+Learn more, or apply after the jump below 👇https://t.co/jZCAenZsnu
+
+cc: @ThisWeekInRust @rust_blockchain",80,10,31,2020-07-28
+569,2020-07-29 04:44:22+00:00,1288334528528834561,solana,Currently recording an episode of No Sharding between @SBF_Alameda &amp; @aeyakovenko to celebrate the announcement of @ProjectSerum 🎉,42,1,12,2020-07-29
+577,2020-07-30 23:51:33+00:00,1288985616328212482,solana,"Solana built an interactive demo called ""Break"" to illustrate Solana's speed in real-time. The game is live and Solana is giving away SOL for you to test It out
+
+Visit this thread: https://t.co/uFUJMQdWHb
+
+Click on the Solana Reddit challenge on the left and comment your address https://t.co/BYG43EFBYi",91,13,37,2020-07-30
+583,2020-07-31 00:11:31+00:00,1288990639166652417,solana,"Step by step instructions:
+
+- Go here: https://t.co/uED6tebTVi
+- Click on “The Great Reddit Scaling Bake-Off”
+- Click the link on the left that says “Solana: Reddit's 5-Day Scaling Challenge in 5 minutes, 40 seconds…”
+- Comment your SOL address in the Reddit thread",19,3,3,2020-07-31
+588,2020-08-02 18:23:57+00:00,1289990336438099968,solana,"Staking is now enabled on @solflare_wallet 🌞
+
+SolFlare is a simple and intuitive interface that helps you connect to the Solana blockchain and manage your $SOL - created by @DokiaCapital 
+
+Solflare is the first digital wallet created exclusively for SOL holders by SOL holders",143,9,47,2020-08-02
+589,2020-08-03 19:30:49+00:00,1290369552895758336,solana,@solflare_wallet @cryptomeleabs @StakingFac https://t.co/nZwKjjWoCh,4,3,0,2020-08-03
+594,2020-08-04 04:54:43+00:00,1290511459466657793,solana,@jbrukh cough,2,0,0,2020-08-04
+598,2020-08-05 19:40:28+00:00,1291096753341489153,solana,Some community favorites include.. https://t.co/me2q9RLPMT,21,5,2,2020-08-05
+602,2020-08-07 04:13:00+00:00,1291588124292681728,solana,We're excited to announce a strategic partnership together with @MathWallet! https://t.co/o0TVpWFex5,187,9,37,2020-08-07
+603,2020-08-09 18:37:30+00:00,1292530458429972481,solana,".@solana and @chainlink will be hosting an AMA in the Solana Korean Telegram channel on August 12th, 7 PM KST. More info below 👇 https://t.co/BqR63DN7jq",179,1,54,2020-08-09
+604,2020-08-10 16:58:38+00:00,1292867968381181954,solana,"To celebrate the upcoming launch of @ProjectSerum, Solana and FTX have teamed up for a virtual event, 'The Future of DeFi' starting at 5pm PST. @aeyakovenko and @SBF_Alameda will be joined by a few very special guests. 
+
+Registration is now open! 👇
+https://t.co/hGAkXevgDO",74,1,27,2020-08-10
+606,2020-08-11 03:50:36+00:00,1293032042301595648,solana,@binance will list the SOL/USDT pair https://t.co/VGhaXhmN0f,67,3,9,2020-08-11
+609,2020-08-13 19:15:29+00:00,1293989570422247424,solana,"@coin98_analysis Proof of History is our clock, not our consensus mechanism. Solana is still PoS! 
+
+You can learn more about PoH here -&gt; https://t.co/3Os9a1r0BO",12,0,4,2020-08-13
+613,2020-08-14 17:42:25+00:00,1294328539253100545,solana,"The first trade was successfully executed on Serum a few hours ago! The team at @ProjectSerum has been working diligently to go from concept to a functioning DEX in just a few weeks.
+
+https://t.co/Rk3xPTgx0h",158,4,44,2020-08-14
+616,2020-08-16 19:52:30+00:00,1295086051233419264,solana,Thank you to everyone who submitted a meme! Over 1400 Serum memes were created by our incredible community. You can browse the memes using the hashtag #projectserum 🚀 https://t.co/POJDRwVRv1,62,3,8,2020-08-16
+617,2020-08-17 16:02:48+00:00,1295390630022021120,solana,@solanabeach_io @ViktorBunin We added a post on our forum covering censorship resistance and network security - https://t.co/vvRPqQrDOl,8,0,0,2020-08-17
+619,2020-08-18 23:12:16+00:00,1295861099829501953,solana,"The 2020 virtual @rustconf is this Thursday! We have an extra ticket and are giving it away to someone who loves @rustlang as much as we do. The rules are simple:
+1. Tweet out your favorite thing about Rust
+2. Use #solana in your tweet
+
+Winner will be chosen in 24 hours 🏆",74,16,21,2020-08-18
+621,2020-08-19 19:03:38+00:00,1296160917487460352,solana,"Ep #25 of The Solana Podcast featuring @drakefjustin, an Ethereum 2.0 researcher, is now live. Justin and @aeyakovenko take a deep dive into L1 architecture and innovation for this episode. 
+
+https://t.co/YeHMwVP7WQ",68,1,19,2020-08-19
+622,2020-08-20 22:45:50+00:00,1296579220353646597,solana,"The Solana network is quickly approaching 30M blocks! It has been quite the journey since we created our genesis block and used it to launch mainnet beta on March 16th 
+
+Check out @solanabeach_io for details around slot height, TPS, transactions and more
+
+https://t.co/edS6Kng7xz",66,1,16,2020-08-20
+623,2020-08-21 00:02:38+00:00,1296598548419457025,solana,"If you missed the live demonstration of @ProjectSerum  during the last roundtable, we have been told it 'works like a charm' 🎉
+
+Every week the Serum team will be hosting a live roundtable on their Youtube channel. https://t.co/P4XXz3etkH",65,2,15,2020-08-21
+625,2020-08-22 05:37:33+00:00,1297045222476505088,solana,"“The first look at the innovative, Solana-based platform showed that users will be looking at one-second latency and transaction fees less than 1/100th of a cent” https://t.co/gnF5FjV8QV",104,6,25,2020-08-22
+628,2020-08-24 15:38:00+00:00,1297921107584929793,solana,"If you want to be eligible, DM @RajGokal",8,1,0,2020-08-24
+634,2020-08-25 18:14:19+00:00,1298322832540045312,solana,"Announcing the @ProjectSerum Ecosystem! The team at Serum has built out the world's first decentralized derivatives exchange at a rapid pace. Now they want you to join the movement as a contributor. Review this blog post for funding and project ideas.
+
+https://t.co/XDDbgvjdhw",176,5,52,2020-08-25
+635,2020-08-26 03:55:17+00:00,1298469038373236736,solana,@CryptoCharles__ yo keep some eth for gas,141,6,2,2020-08-26
+636,2020-08-27 23:31:13+00:00,1299127356301344768,solana,@Raegwynonyxia Enjoy! Post a screenshot or video of your game :),0,1,0,2020-08-27
+646,2020-08-28 21:19:41+00:00,1299456643650863104,solana,@BlockDebate @aeyakovenko Rumor has it @aeyakovenko is impossible to beat,3,1,0,2020-08-28
+655,2020-08-29 16:43:26+00:00,1299749510432792576,solana,Seven hours until @ProjectSerum goes live,352,17,61,2020-08-29
+658,2020-08-30 18:14:32+00:00,1300134823957114880,solana,@elliot_yagami @RealSolMane @ProjectSerum @50k We’re currently building out a cross-chain bridge with @ArweaveTeam a decentralised storage protocol as a ledger indexing solution,4,0,0,2020-08-30
+663,2020-09-01 14:15:55+00:00,1300799551943528449,solana,@deeeedle @intradayramen @ReverentTrader @ShardiB2 @ProjectSerum @SBF_Alameda Serum is the first completely decentralized derivatives exchange built on Solana - Solana is the L1 protocol that offers sub-second confirmation times and fees as low as $0.00001 a transaction 😉,2,0,0,2020-09-01
+670,2020-09-03 20:13:13+00:00,1301614244115304448,solana,136 validators and counting on the Solana mainnet https://t.co/ej1IdomEgE,84,2,14,2020-09-03
+677,2020-09-04 04:56:18+00:00,1301745881444540416,solana,@4BLOCK_TEAM A reminder: anyone can join and validate on @solana but inflation is currently not enabled. KYC is required to receive payment as a validator until then.,2,1,0,2020-09-04
+679,2020-09-05 17:57:46+00:00,1302304935321546752,solana,@Folaross_ @aeyakovenko @ProjectSerum 🔥🔥🔥,1,0,0,2020-09-05
+681,2020-09-06 04:02:08+00:00,1302457028556726273,solana,@learn2yearn @tarunchitra @azeroz @aeyakovenko Kirby 👏 is 👏 a 👏 pokemon,8,1,0,2020-09-06
+683,2020-09-07 00:59:30+00:00,1302773454865752064,solana,@cyrii_MM Glad to have you with us 🌊,12,1,0,2020-09-07
+685,2020-09-08 19:26:12+00:00,1303414352632934400,solana,"Eng updates 🚀
+
+Cross-Program invocation is now activated
+https://t.co/qcCpd22c28
+
+BigTable support for long-term transaction history storage for use by RPC
+
+Two SPL programs, spl-token and spl-memo, have been stabilized and are available for use
+https://t.co/Sp3wCoYb4q",76,2,23,2020-09-08
+689,2020-09-09 15:51:50+00:00,1303722794279034880,solana,"Today, the Solana Foundation is excited to announce a new technical integration with @Tether_to to bring the USDt stablecoin to the Solana network.
+
+https://t.co/lsVbl01Ww1",1174,116,719,2020-09-09
+694,2020-09-10 22:01:16+00:00,1304178149714874378,solana,@JohnnyCrypto22 @RampDefi @solflare_wallet is the best Solana wallet for staking right now :),12,3,2,2020-09-10
+700,2020-09-11 02:53:16+00:00,1304251636206972930,solana,"@CryptoBrookins @defipulse @coinmetrics @cryptoquant_com @renprotocol @TRDR_io Great write up! Thanks, Christopher.",2,0,0,2020-09-11
+703,2020-09-12 01:12:24+00:00,1304588640585019392,solana,@jimmy_humania @imBagsy Nice 😂,1,0,0,2020-09-12
+705,2020-09-13 02:26:02+00:00,1304969558621446146,solana,👀 the ecosystem is growing https://t.co/SGWaxPQx1p,155,13,16,2020-09-13
+711,2020-09-14 23:29:36+00:00,1305649932410388480,solana,"Are you interested in staking SOL but just not sure where to start?! This event hopes to teach just how important staking is for the governance and decentralization of a network. 
+
+- What is PoS
+- What is staking
+- Why is staking important
+- How to stake your SOL",45,2,6,2020-09-14
+719,2020-09-15 18:01:09+00:00,1305929664297234434,solana,@jimmy_humania @solflare_wallet If you are already staked all you need to do is fill out the form 😁,2,3,0,2020-09-15
+723,2020-09-16 23:00:19+00:00,1306367340674596864,solana,@BisonTrails https://t.co/YVzu8kQpGJ,2,4,0,2020-09-16
+733,2020-09-17 19:50:21+00:00,1306681920990769152,solana,@aeyakovenko @sergeypartnered @SBF_Alameda @balajis @Spotify https://t.co/FHu2dqY5kP 😁,4,0,0,2020-09-17
+741,2020-09-18 19:52:56+00:00,1307044959766413312,solana,@walter_wyckoff @fudge_6987 @ProjectSerum @SushiSwap @StardustPlatfrm @Kin_Ecosystem https://t.co/TpoCiHHtb1,2,2,0,2020-09-18
+742,2020-09-19 14:25:31+00:00,1307324949598597121,solana,11/ There are multiple ways we as a community can tackle these challenges. Many of which are already being worked on already by various protocols and teams (i.e. @certusone’s work on SignOS or the #atomspread out initiative by @dokiacapital).,20,1,2,2020-09-19
+769,2020-09-20 01:35:33+00:00,1307493567724576768,solana,"Episode 27 of The Solana Podcast featuring CEO of @krncinc, @ClintEhrlich, is now live on Apple podcast, Spotify, and everywhere else you get your podcasts. 🎧 
+
+https://t.co/LTQEB9tAPs",39,2,8,2020-09-20
+770,2020-09-21 21:00:15+00:00,1308149062902845440,solana,👀 https://t.co/iVbxCLtBGq,68,2,15,2020-09-21
+775,2020-09-23 10:30:28+00:00,1308715349672558594,solana,@CacaoCoombes @solflare_wallet @Ledger Could possibly be due to outdated firmware. Do you mind checking that and letting us know if that fixes the issue or not please.,1,3,0,2020-09-23
+779,2020-09-24 00:42:24+00:00,1308929745938128901,solana,"You can find the iTunes podcast link here - https://t.co/cqzu48P64m
+
+- the current state of the world
+- blockchain-based elections
+- the future of decentralization 
+- math vs. science
+- Snow Crash
+- location-independent work",16,1,4,2020-09-24
+781,2020-09-25 17:38:18+00:00,1309547793145454593,solana,You can view the original Stake-o-Matic proposal on the Solana Forum - https://t.co/H8Y4A1LUr0,17,1,5,2020-09-25
+784,2020-09-26 00:38:42+00:00,1309653588075896833,solana,@mattysino @aeyakovenko Let's make it happen :) Check your DM's.,8,0,0,2020-09-26
+785,2020-09-29 03:23:58+00:00,1310782342877700098,solana,Wrapped ERC-20 tokens on the Solana network using https://t.co/kDRVSELiLl 🥳 https://t.co/ty82qW7nwS,84,9,24,2020-09-29
+790,2020-09-30 22:43:30+00:00,1311436535447740417,solana,Less than 24 hours left to stake your SOL to be eligible for the 2000 SOL award pool. $SOL https://t.co/5bUBSMjDMH,84,5,26,2020-09-30
+795,2020-10-01 16:54:16+00:00,1311711039797387265,solana,@RDorzbach https://t.co/5bzIlHdalY :),2,0,0,2020-10-01
+797,2020-10-02 16:54:11+00:00,1312073402845261824,solana,"A thread of the most popular episodes of The Solana Podcast 🎧
+
+This podcast is a discussion between industry leaders in both blockchain and technology, our team, community developers, and more. Check below for the most downloaded episodes 👇",51,3,14,2020-10-02
+805,2020-10-04 15:51:22+00:00,1312782371909894144,solana,@ymaxfinance @ProjectSerum @bonfidadotcom @SBF_Alameda Welcome 🙌,56,8,21,2020-10-04
+806,2020-10-05 04:12:17+00:00,1312968829530562562,solana,.@bonfidadotcom launched their SPL Wallet and are looking for beta testers! https://t.co/kxfEZz7KG8,64,1,28,2020-10-05
+808,2020-10-06 16:49:04+00:00,1313521670187958272,solana,"@zenky9x99 @coin98_wallet @ProjectSerum SPL Tokens are the Solana equivalent of an ERC-20 :)
+
+https://t.co/7l7hrb9kyz",2,1,0,2020-10-06
+809,2020-10-07 18:17:03+00:00,1313906197481676800,solana,worm·​hole | \ ˈwərm-ˌhōl - a hypothetical structure of space-time envisioned as a tunnel connecting points that are separated in space and time.,59,1,9,2020-10-07
+811,2020-10-08 13:08:26+00:00,1314190920024125440,solana,"1) Announcing: Wormhole - a secure, trustless bridge connecting Ethereum to Solana. 🚀
+
+https://t.co/FwGRRluAU5",585,47,198,2020-10-08
+818,2020-10-09 18:30:01+00:00,1314634236935114752,solana,@AudiusProject @RLGRIME Congrats!!,3,0,0,2020-10-09
+820,2020-10-10 15:06:23+00:00,1314945376894427138,solana,@RealPrinceOla 🙌🙌🙌,1,1,0,2020-10-10
+822,2020-10-12 20:15:42+00:00,1315747995833442304,solana,@M123Aleksey Nice shirt 😎🎉,1,0,0,2020-10-12
+831,2020-10-13 23:50:36+00:00,1316164466061402113,solana,"The web was designed to be a place for freedom, built on a vision of permissionless participation, and distributed trust
+
+Learn more about building on Solana - 400ms block times and sub-second confirmations allow for over 50,000 transactions per second 🛠
+
+https://t.co/8iS92KWTpP",124,7,41,2020-10-13
+833,2020-10-14 00:21:07+00:00,1316172147832676353,solana,The ecosystem is growing ☀️ https://t.co/dGVRpzNMQf,53,0,17,2020-10-14
+840,2020-10-15 00:01:24+00:00,1316529570066042881,solana,"New podcast alert 🎧 @aaronhenshaw, CTO of @BisonTrails joins @aeyakovenko for episode #29 of The Solana Podcast. 
+
+Aaron takes a deep dive into all things Bison Trails, running a node on the Solana network, various validator business models, and more.
+
+https://t.co/xxQRZL49kq",51,3,21,2020-10-15
+842,2020-10-16 16:28:42+00:00,1317140423035383808,solana,"🖼 New SPL standard - you can now create Non-Fungible Tokens on Solana 
+https://t.co/lOsxZ6YRdm
+
+🌊 Waves is integrating Solana into @ProtocolGravity 
+
+📇 @FTX_Official expanding its DeFi Index to include $SOL
+
+↔️ 4 ways to convert ERC-20 tokens to SPL 
+https://t.co/n83cFoaF24 https://t.co/4Ii0Cq1hvT",92,10,30,2020-10-16
+843,2020-10-18 22:50:03+00:00,1317961165322940416,solana,@AndriuJose20 @solana_es 🙌🙌,2,0,0,2020-10-18
+844,2020-10-19 15:36:39+00:00,1318214486306615296,solana,"1/ ICYMI: Registration for the Solana Wormhole Hackathon is now open, and hundreds of builders are already participating!
+
+💰 Up to $200k in prizes
+🗓️ Runs October 28 through November 14
+🎙️ Judges/speakers from Compound, FTX &amp; more
+
+Register today: https://t.co/g0KgznAM25",76,6,37,2020-10-19
+849,2020-10-20 03:35:32+00:00,1318395400055869443,solana,@FrontierDotXYZ @ProjectSerum @bonfidadotcom @coin98_wallet Very cool 🥳,15,0,1,2020-10-20
+854,2020-10-21 22:04:00+00:00,1319036740363956224,solana,"Other wallets that officially support USDC-SPL:
+- @bonfidadotcom 
+- @coin98_wallet",11,0,2,2020-10-21
+865,2020-10-22 02:16:39+00:00,1319100323697356800,solana,"@TrustlessState @KyleSamani Here’s a thread we put together recently on where we are, where we’re going on censorship resistance. https://t.co/Th54EMGaoD",3,1,0,2020-10-22
+871,2020-10-23 20:28:30+00:00,1319737484624842752,solana,@Melt_Dem @jillruthcarlson @theklineventure 😁🙌,1,1,0,2020-10-23
+881,2020-10-24 17:18:55+00:00,1320052162085359616,solana,"The first event of the Solana Wormhole Hackathon is now live on Youtube. For those who missed the fireside chat between @SBF_Alameda and @aeyakovenko, you can view it here -&gt; 
+
+https://t.co/sfAxEh8Na6",65,6,18,2020-10-24
+883,2020-10-25 22:38:16+00:00,1320494915151745025,solana,"📢 24 hours left to register
+
+https://t.co/HPgCBLLUk7",48,2,7,2020-10-25
+884,2020-10-26 23:34:20+00:00,1320871413264179200,solana,"Registration for the Wormhole Hackathon ends tomorrow, October 27th @ 11:59 PM PT.
+
+You can find all relevant links below 👇 https://t.co/FjUgCNNTtL",21,1,7,2020-10-26
+895,2020-10-27 19:18:35+00:00,1321169440919072768,solana,"Round two of Solana Hackathon Events 🌊
+
+- Fireside Chat w/ @rleshner, founder of @compoundfinance 
+- The Future of DeFi Panel (A look into the next wave of decentralized finance)
+- NFTs Panel (A discussion on the past, present, and future of NFTs)
+
+Registration links below 👇",25,2,6,2020-10-27
+908,2020-10-28 22:02:29+00:00,1321573073729036288,solana,"We are live! Join some of the brightest minds in blockchain to discuss the future of DeFi. 🚀
+
+https://t.co/K0iEivquL2",44,1,8,2020-10-28
+917,2020-10-29 23:25:15+00:00,1321956290839547905,solana,"The interoperability panel will start in five minutes 🚨
+
+https://t.co/s91TL3oout",28,1,4,2020-10-29
+931,2020-10-30 18:53:44+00:00,1322250352662507520,solana,@SBF_Alameda Are we going to carve pumpkins?! 🎃 https://t.co/k4TROjM9HI,2,7,1,2020-10-30
+942,2020-10-31 00:15:20+00:00,1322331285453373440,solana,"Have you had a chance to check out the NFT's listed on https://t.co/OVwTiEHBiX? The team at @bonfidadotcom continues to grow the exclusive artwork available!
+
+Solible is the first NFT exchange built on @ProjectSerum.",46,2,9,2020-10-31
+945,2020-11-01 20:33:15+00:00,1323000171626590210,solana,@FranyelyVv @solana_es 🎃👻,1,0,0,2020-11-01
+950,2020-11-02 18:12:06+00:00,1323327036446793728,solana,"3/ Office Hours #2
+
+Tuesday, November 3rd at 3pm PT
+Topic: Hackathon Project Ideas &amp; Crypto Business Models
+With @aeyakovenko (Co-founder, Solana) &amp; @fifaifofo (Rodolfo Gonzalez, Partner at @FoundationCap)
+
+Sign up 👇
+https://t.co/tAkDe8YXBt",5,1,0,2020-11-02
+959,2020-11-03 23:52:44+00:00,1323775147447406592,solana,@iiSnowAngel88ii 🤣🎉,0,0,0,2020-11-03
+967,2020-11-04 17:12:57+00:00,1324036925188042753,solana,"Reminder 💡
+
+Open office hours will start at 4:30pm PT today with @aeyakovenko (Solana Co-founder) &amp; @SBF_Alameda (CEO at FTX). They'll be chatting about hackathon project ideas, so come ready to ask questions and join in on the conversation!
+
+Sign up 👇
+https://t.co/KeZUx7xsG6",24,2,4,2020-11-04
+971,2020-11-05 13:53:42+00:00,1324349171696984066,solana,🇺🇲 https://t.co/3y5BV2ZTGd,103,9,12,2020-11-05
+981,2020-11-06 22:56:46+00:00,1324848226915164161,solana,"The latest panel of the Solana Wormhole Hackathon events just dropped on Youtube!
+
+Take a deep dive into the next wave of DeFi with @SBF_Alameda (@FTX_Official), @theklineventure (@graphprotocol), @newmichwill (@CurveFinance), @StaniKulechov (@AaveAave). 
+
+https://t.co/B1g2Zs8YVi",71,4,18,2020-11-06
+987,2020-11-08 00:18:37+00:00,1325231214261776385,solana,"Reminder: The Solana Wormhole Hackathon ends in 7 days🚨
+
+Project submissions are due by 11:59pm PT on November 14! If you need technical support or help finding additional teammates, get in touch on our Discord chat. 👇
+
+https://t.co/kcaHNSiKnk",41,0,5,2020-11-08
+989,2020-11-09 18:33:22+00:00,1325869103664435200,solana,"5 days left until hackathon project submissions are due!
+
+There are up to $200k in prizes, and each participant who submits a quality project will receive $100 + Solana swag.💰
+
+We just added a form to our site for those wanting to submit a project early🔽
+https://t.co/gF4HQIVQSI",47,1,14,2020-11-09
+994,2020-11-10 20:52:08+00:00,1326266415448530944,solana,"Thanks to @CamiRusso &amp; the @DefiantNews for having @aeyakovenko &amp; @SBF_Alameda on the pod! 🙏 
+
+🏗️ Why @ProjectSerum is being built on Solana
+🛡️ How Solana scales censorship resistance
+💰 Yield farming incentives and AMMs
+
+https://t.co/WVk3MOMBeh",56,1,9,2020-11-10
+996,2020-11-11 18:34:18+00:00,1326594112645070848,solana,"3 days left to submit a project for the Solana Wormhole Hackathon! 🚨
+
+Remember, there are up to $200k in prizes, and each participant who submits a quality project will receive $100 + Solana swag. 🏆
+
+Submission form 👇
+https://t.co/gF4HQIVQSI",55,0,10,2020-11-11
+998,2020-11-12 17:57:18+00:00,1326947191168987136,solana,@solanablog https://t.co/2wBkqFP4HT,2,3,0,2020-11-12
+999,2020-11-13 02:36:36+00:00,1327077878496849920,solana,"1/ Announcing a new delegation strategy that commits 100,000,000 SOL to incentivize a balanced stake distribution &amp; attract additional validators.
+
+Read more about the Foundation’s plan to ensure Solana is censorship resistant today &amp; over the long-run.👇
+
+https://t.co/i1agvuLjOQ",62,2,17,2020-11-13
+1005,2020-11-14 17:09:43+00:00,1327659989993865216,solana,"1/ Today (Nov. 14) is the final day to enter a project for the Solana Hackathon! 🏁
+
+There are up to $200k in prizes &amp; every participant who completes a project will receive $100 + Solana swag. 🎁
+
+Make sure to submit via the form below by 11:59pm PT.🔽
+https://t.co/gF4HQIVQSI",50,3,10,2020-11-14
+1007,2020-11-15 01:32:41+00:00,1327786568807895040,solana,A visual representation of the Solana network processing transactions https://t.co/kp2TNJRYyP,153,15,21,2020-11-15
+1010,2020-11-16 17:02:42+00:00,1328383002829676544,solana,The Solana Ecosystem bimonthly recap 🎉 https://t.co/ixNxjALGBt,55,0,8,2020-11-16
+1011,2020-11-17 04:27:24+00:00,1328555314501697538,solana,"Whoops, meant USDC-SPL* by @circlepay - which now has 25 million issued on Solana!
+
+https://t.co/xa3LGGatCl",17,0,1,2020-11-17
+1014,2020-11-18 02:41:07+00:00,1328890954149814272,solana,"The Solana network just passed 6 BILLION transactions!
+
+https://t.co/a3nZ9Nat6j https://t.co/1MJaiZK4JV",145,12,29,2020-11-18
+1015,2020-11-19 02:57:25+00:00,1329257443298197504,solana,"Announcing: Solana Foundation Grants — Wave One 🌊
+
+Each of the 12 projects in this post brings a talented team and a strong vision to the Solana ecosystem. Learn more about the first round of projects the Solana Foundation has provided grants to 👇
+
+https://t.co/Z01a1gyI6p",115,9,33,2020-11-19
+1018,2020-11-20 20:22:47+00:00,1329882904432840704,solana,"The final panels from the Wormhole Hackathon events are live on Youtube! Take a deep dive into interoperability with @_prestwich and @SBF_Alameda or learn more about liquidity pools with @fcmartinelli, @michwill, and @The3D_ 
+
+Links below 👇",74,2,13,2020-11-20
+1021,2020-11-23 21:02:24+00:00,1330980037462376450,solana,"Episode 31 of The Solana Podcast featuring @RAC is live 🎧
+
+RAC talks about the importance of digital ownership for artists, the future of NFTs, perils of the traditional music distribution structure (and how @AudiusProject is solving this), plus more!
+
+https://t.co/BupkWRMVCh",42,1,10,2020-11-23
+1022,2020-11-24 15:10:16+00:00,1331253811164311555,solana,"6/ There is now a public directory of projects on the Solana website for those interested in browsing through what was built during the hackathon! 👀
+
+https://t.co/g0KgznAM25",19,1,3,2020-11-24
+1028,2020-11-25 18:13:43+00:00,1331662363502604288,solana,@Solongwallet @aeyakovenko 🔥 amazing,1,0,0,2020-11-25
+1029,2020-11-27 22:52:29+00:00,1332457293405773825,solana,"Thanks, Korea Blockchain Week 2020 for having @aeyakovenko as a featured speaker. Anatoly talks about how Solana was created, how PoH works, the recent partnership with @AudiusProject, and what the next few months look like for the Solana ecosystem.  
+
+https://t.co/Rj27zEHkdq",54,0,9,2020-11-27
+1030,2020-12-01 16:01:51+00:00,1333803505048383488,solana,"""For use cases such as exchanges, clearinghouses, messaging and things like that, Solana does this better than anyone else in the blockchain industry."" - @d0h0k1 of @terra_money https://t.co/DuH1GYHvZS",47,2,6,2020-12-01
+1031,2020-12-02 21:49:31+00:00,1334253387630530562,solana,@danrobinson @SBF_Alameda We'd love to have you both debate this topic on the Solana Podcast!,8,0,0,2020-12-02
+1033,2020-12-03 00:38:52+00:00,1334296004628078594,solana,"Congratulations to @circlepay and @jerallaire on the Visa partnership announcement!
+
+There is currently 30M USDC-SPL in circulation on Solana.
+
+""Businesses will eventually be able to send international USDC payments to any business supported by Visa""
+
+https://t.co/lmJBEY8kAa",146,3,21,2020-12-03
+1039,2020-12-04 16:34:37+00:00,1334898918149091328,solana,Trust Wallet will support sending and receiving SPL tokens within four weeks as voted on by the community 👏🏼 https://t.co/NXbFqwYzim,105,11,12,2020-12-04
+1045,2020-12-07 09:04:13+00:00,1335872734811734017,solana,"SOL has been listed on @Tokocrypto, with trading available now! 🎊
+
+To celebrate this listing, Solana &amp; Tokocrypto are running an Earn Campaign where you can win up to 500 SOL.
+
+https://t.co/cdRxXDh2XW https://t.co/kLRbTPQdlp",166,11,53,2020-12-07
+1046,2020-12-08 15:50:49+00:00,1336337445877469184,solana,High-performance blockchains like Solana create an immense amount of data due to the increased amount of block production. Censorship resistant availability of the entire ledger history is necessary for allowing network participants to audit the current state. 🗂,34,1,0,2020-12-08
+1050,2020-12-09 17:18:43+00:00,1336721953177137152,solana,"The Solana Foundation recently kicked off a vote for full inflation on testnet after a successful vote and execution of pico inflation on testnet. 🎇
+
+You can review the feature proposal and additional details on the Solana Forum.
+
+https://t.co/bg58PqGi3L",76,3,21,2020-12-09
+1051,2020-12-10 18:51:34+00:00,1337107706730016769,solana,@FrontierDotXYZ Lets go! 🙌☀️,15,1,0,2020-12-10
+1052,2020-12-12 01:52:25+00:00,1337576008057143296,solana,"Listen to episode #32 of The Solana Podcast featuring @FireblocksHQ CEO and Co-founder, Michael Shaulov.
+
+https://t.co/bcGQv4xCUq",56,6,12,2020-12-12
+1053,2020-12-15 02:04:31+00:00,1338666216945139713,solana,Coming soon 👀 https://t.co/rTZ7pOH17V,86,2,11,2020-12-15
+1056,2020-12-17 02:09:03+00:00,1339392131236909056,solana,@Solongwallet https://t.co/Pcuyy0Ks2k,3,3,0,2020-12-17
+1057,2020-12-18 02:22:16+00:00,1339757846674587649,solana,"Solana Ecosystem News Volume One ☀️
+
+https://t.co/hrRKmd5ypA",127,2,36,2020-12-18
+1058,2020-12-21 18:05:11+00:00,1341082300096757760,solana,Happy Winter SOLstice ☀️,97,9,9,2020-12-21
+1059,2020-12-22 20:48:25+00:00,1341485769957933056,solana,"Gitcoin Bounty Alert 🎉
+
+Solana, alongside Jump Trading, is hosting a bounty for the creation of a new token vesting contract. Review the full details and apply here 👇
+
+https://t.co/pnJKFYC4B9",45,0,12,2020-12-22
+1062,2020-12-23 19:07:58+00:00,1341822877234987009,solana,"The on-chain vote to enable PICO-inflation on Mainnet-Beta is now open for Solana validators 
+
+https://t.co/Q96aVYQlby",54,1,13,2020-12-23
+1065,2020-12-25 19:12:04+00:00,1342548685595365376,solana,From the entire Solana team - Merry Christmas and Happy Holidays 🎄 ⛄️ https://t.co/x8XH5fUaha,126,15,15,2020-12-25
+1066,2020-12-26 19:49:28+00:00,1342920483642068992,solana,Rust China Conference: Shenzhen https://t.co/J8TFUzigbk,77,9,10,2020-12-26
+1067,2020-12-29 21:15:11+00:00,1344029220364713984,solana,"3/ Thanks to all the builders, validators, token holders &amp; ecosystem evangelists who have joined us in our mission to scale crypto globally. We are just getting started! 🚀
+
+If you're interested in getting more involved in community initiatives, apply at https://t.co/SLfRXCyZyo.",29,0,9,2020-12-29
+1070,2021-01-01 23:04:41+00:00,1345143940496801793,solana,"2020 was a difficult and challenging year for many. Despite the global challenges, the entire Solana ecosystem flourished and grew exponentially. Overcoming many exigent tasks, Solana saw its most accomplished year to date. Solana Year In Review 2020 🎊
+
+https://t.co/57nvGpnO2h",119,2,26,2021-01-01
+1072,2021-01-04 23:57:30+00:00,1346244395570405376,solana,"Big news for public blockchains &amp; stablecoins!🙌
+
+USDC is already integrated on Solana, which is the only chain today that can settle 50k+ txns per second, with fees as low as $0.00001 per txn.
+
+Over $50,000,000 in USDC-SPL is currently in circulation!
+https://t.co/kQxNf7chKU https://t.co/Mvn2xwKGKa",176,4,37,2021-01-04
+1073,2021-01-06 01:53:34+00:00,1346635993508671490,solana,Cluster times have now been added to the Solana Network Explorer. https://t.co/8j5sVgRLds,86,2,7,2021-01-06
+1075,2021-01-07 14:55:40+00:00,1347195200310018053,solana,These definitions are aligned with both CMC and Coingecko - who define Circulating Supply as the number of tokens that are circulating in the market and in the general public's hands. Tokens still under the custody of Solana are not considered circulating.,75,8,9,2021-01-07
+1078,2021-01-11 18:46:39+00:00,1348702880996405249,solana,"Token vesting contract on Solana - sponsored by Jump Trading. Full details and requirements below 👇
+
+https://t.co/pnJKFYktJB",100,1,20,2021-01-11
+1079,2021-01-12 03:20:26+00:00,1348832181200805896,solana,@Marco_MapsDog https://t.co/HTyB8j22ti,4,4,0,2021-01-12
+1083,2021-01-15 23:21:28+00:00,1350221593553887234,solana,"Weekly Digest
+
+🔹10M @Kin_Ecosystem accounts migrated to Solana
+
+🔸 Trust Wallet officially integrates USDC-SPL
+
+🔹@staratlasgame chooses Solana to build their blockchain-driven multi player meta verse
+
+🔸Oxygen joins Solana Ecosystem - DeFi broker protocol &amp; cross-chain wallet https://t.co/nqwScXLFyk",152,11,44,2021-01-15
+1086,2021-01-16 16:20:24+00:00,1350478018624581634,solana,"Solana Ecosystem News Volume Two ☀️
+
+https://t.co/hrRKmcNXy2",145,2,42,2021-01-16
+1087,2021-01-19 23:02:10+00:00,1351666290059055105,solana,"HUMAN Protocol already supports the world’s most-used blockchain application -- hCaptcha, the trustless global labor market that spans over 15% of global internet traffic.",40,0,3,2021-01-19
+1089,2021-01-21 21:31:40+00:00,1352368290161516546,solana,"Proposal for Community Vote Process to Enable Full-Inflation on Mainnet Beta
+
+https://t.co/UauBu8Mkp1",133,4,35,2021-01-21
+1090,2021-01-24 21:31:40+00:00,1353455454051913728,solana,Say hello to a slick new prime brokerage experience built natively to harness the performance of @solana and @ProjectSerum https://t.co/rTZ7pOH17V,169,2,32,2021-01-24
+1091,2021-01-25 04:08:48+00:00,1353555395369906177,solana,"The Solana network has surpassed 10 BILLION transactions 🎊
+
+https://t.co/muWjYiZpVk https://t.co/J0IR0X3rWX",477,33,103,2021-01-25
+1093,2021-01-28 23:10:12+00:00,1354929799421026307,solana,@mayazi 🤔,1,0,0,2021-01-28
+1099,2021-01-29 00:16:30+00:00,1354946485331185671,solana,https://t.co/wKNToGbmUU https://t.co/vzoF9tSstr,29,6,3,2021-01-29
+1102,2021-02-02 16:04:59+00:00,1356634731727699970,solana,"3/ The event is supported by leading projects including @AaveAave, @SushiSwap, @circlepay, @Chainlink, @CoinGecko, and more. The overall DeFi ecosystem is looking forward to seeing what gets built in the following weeks! 🏗️ https://t.co/YVupHa2kKr",73,6,8,2021-02-02
+1112,2021-02-03 05:34:12+00:00,1356838375261696000,solana,@FTX_Official @ProjectSerum 👋 https://t.co/s6EgX6fdfo,7,4,0,2021-02-03
+1118,2021-02-04 15:37:51+00:00,1357352676137328655,solana,"For those already registered for the Solana x @ProjectSerum DeFi Hackathon, it's time to form teams &amp; ideate project ideas. A few helpful links:
+
+Find a Teammate Directory🤝
+https://t.co/HIMJoAqLnT
+
+Discord💬
+https://t.co/LaqABVCgdf
+
+Developer Resources🏗️
+https://t.co/ZO40KTeMpQ",45,0,6,2021-02-04
+1124,2021-02-05 14:32:22+00:00,1357698587690467328,solana,"Over 1,050 builders have already registered for the Solana x @ProjectSerum DeFi Hackathon! ⚒️
+
+Catapult the DeFi ecosystem forward by leveraging Solana's speed &amp; ultra-low fees (less than a cent per txn). Sign up before the event starts on Feb. 15.
+
+👉 https://t.co/pet0p5iqQr 👈 https://t.co/bF4nGzi79X",119,5,39,2021-02-05
+1128,2021-02-08 16:16:05+00:00,1358811850192879616,solana,"1/ The Solana x Serum DeFi Hackathon will commence in just 1 week (Feb. 15)! If you haven't registered yet, join the 1,600+ builders already participating. ⚒️
+https://t.co/pet0p5iqQr",81,2,19,2021-02-08
+1131,2021-02-09 01:53:28+00:00,1358957153793363969,solana,@FryLou https://t.co/OtVKSHQCJ3,1,5,0,2021-02-09
+1135,2021-02-10 17:45:09+00:00,1359559041786261511,solana,"1/ The Solana x @ProjectSerum DeFi Hackathon will commence in just 5 days (Feb. 15)! If you haven't registered yet, join the 2,000+ builders already participating. ⚒️
+
+https://t.co/pet0p5iqQr",77,2,14,2021-02-10
+1139,2021-02-11 00:08:27+00:00,1359655502976794626,solana,"Find one or more validators to delegate $SOL to on @solanabeach_io, where you can check active state, validator commission, and uptime performance.     https://t.co/ibnUlg0rg7",48,2,6,2021-02-11
+1140,2021-02-12 19:38:54+00:00,1360312443725991937,solana,"Episode #36 of The Solana Podcast featuring CEO and Co-Founder of @AudiusProject, @roneilr, is live! 🎧
+
+Audius is a new decentralized streaming platform built for all musicians, not just those signed to labels. 
+
+https://t.co/mzlsuYCt6L",115,2,24,2021-02-12
+1141,2021-02-15 11:31:31+00:00,1361276954830245893,solana,"The Solana x Serum DeFi Hackathon has commenced! 🏁
+
+Remember, project submissions are due by March 1st. 🗓️
+
+Project ideas, team formation help, and developer resources to get started building can be found on Github below.👇
+
+https://t.co/ZO40KSXb1g https://t.co/LmarLXHkeD",267,16,68,2021-02-15
+1142,2021-02-16 17:29:58+00:00,1361729546718875650,solana,@aleph_im Welcome ☀️,68,0,6,2021-02-16
+1146,2021-02-17 17:57:27+00:00,1362098850224353290,solana,"New live hackathon event today with @AaveAave! 🎙️
+
+@StaniKulechov, the creator of Aave, will be joining @aeyakovenko to discuss the DeFi lending landscape at 11am PT. 
+
+The @joinClubhouse session starts in about 1 hour, tune in. 👇
+
+https://t.co/NR1plRaWeD",78,4,20,2021-02-17
+1148,2021-02-18 17:02:28+00:00,1362447400640602122,solana,1/ Today's announcement of The Graph's integration with Solana provides another powerful tool for the decentralized Web3 stack. @graphprotocol's indexing of L1s allows developers to access multi-chain data without the need to maintain their own indexers. https://t.co/zWnmEELpxT,505,4,122,2021-02-18
+1152,2021-02-19 03:13:58+00:00,1362601293152354304,solana,"Episode 37 of The Solana Podcast featuring Ethereum Foundation Researcher, @dankrad, is live!
+
+Dankrad and @aeyakovenko dive into Ethereum 2.0, layer one interoperability, and more. Listen now 👇
+
+https://t.co/Uw6vKymjzg",63,3,17,2021-02-19
+1153,2021-02-21 01:19:43+00:00,1363297316527108096,solana,"Solana Weekly Digest ☀️ 
+
+🔹 @moonlet_wallet adds mobile support for staking $SOL
+
+🔹 @graphprotocol announces their integration with Solana
+
+🔹 The Solana x @ProjectSerum DeFi Hackathon commences
+
+🔹 @aleph_im integrates with Solana
+
+🔹@FTX_Official adds staking support for $SOL https://t.co/ddoV4DiCR4",352,20,70,2021-02-21
+1154,2021-02-22 20:30:54+00:00,1363949409508147205,solana,"@KreiserMatt 🙌 Become a disciple! 
+
+https://t.co/3shu8DyHn9",1,0,0,2021-02-22
+1163,2021-02-23 13:10:03+00:00,1364200854442692612,solana,"A small group of participants in the DeFi Hackathon met up in Taipei, Taiwan for a workshop with Solana dev @jstrry! 🛠️
+
+There will be a few additional technical office hours this week live-streamed via Twitch. Stay tuned for more details soon! 📽️ https://t.co/yZmtyfTJLx",193,10,26,2021-02-23
+1166,2021-02-24 20:29:15+00:00,1364673768082210816,solana,"Solana is thrilled to sponsor the @Chainlink Spring 2021 Hackathon!
+
+Sign up today to build innovative DeFi products using @solana and Chainlink. https://t.co/dhnYH9zJMQ",596,9,108,2021-02-24
+1168,2021-02-25 00:17:08+00:00,1364731118055006210,solana,"Hackathon event reminder! 📽️
+
+The @TorusLabs team will be hosting a technical workshop tomorrow (Thursday) at 10pm GMT+8.
+
+Also, Torus is planning to award a $2,000 prize as part of the hackathon, so make sure to tune into the live-stream on Twitch.🦻
+https://t.co/1CzbOVRxpp",62,1,12,2021-02-25
+1175,2021-02-26 21:19:25+00:00,1365411168479629317,solana,@cryptomaton @Decentology There will be a recording.,4,0,0,2021-02-26
+1179,2021-02-27 16:07:30+00:00,1365695060751351809,solana,"3 days left to submit a project for the Solana x Serum DeFi Hackathon! 🗓️
+
+Check out the prizes below, and finish strong!🏁
+
+Project submission form: https://t.co/pet0p5iqQr https://t.co/u9wimQHd17",239,17,48,2021-02-27
+1180,2021-03-01 12:06:21+00:00,1366359148582035462,solana,"Final day to submit Solana x Serum DeFi Hackathon projects! 🏁
+
+The deadline is March 1 at 11:59pm PT. Stay tuned for updates on the community choice award, the seed round prize, and more!
+
+Submission form 👇
+https://t.co/pet0p5iqQr",170,3,32,2021-03-01
+1181,2021-03-03 19:06:20+00:00,1367189616600768520,solana,Solana Mainnet Beta is currently experiencing performance degradations –  please follow @SolanaStatus for updates as the community works to resolve this. https://t.co/rta8iQXUZP,109,11,14,2021-03-03
+1182,2021-03-04 17:51:38+00:00,1367533204111056908,solana,"Thanks to all who participated in the Hackathon! 🙏
+
+Browse the projects &amp; vote for your favorite. Also, retweet this post &amp; add your Twitter handle to the form for a chance to win a Solana shirt!
+
+Project list 👇
+https://t.co/KS9P6wMokf
+
+Cast your vote 🗳️
+https://t.co/gdlwzHoCnH https://t.co/G0v0BSRjG0",457,43,228,2021-03-04
+1185,2021-03-07 13:44:10+00:00,1368558091801858049,solana,Voting for the Community Choice Award will end at 11:59pm PT today. Stay tuned for an announcement regarding winners soon! 🏆 https://t.co/Z6dkl07Ys4,157,8,38,2021-03-07
+1186,2021-03-08 18:00:54+00:00,1368985089917517825,solana,Happy International Women's Day! This is a great thread showcasing badass women in crypto. https://t.co/xzEr3IBXyl,101,2,15,2021-03-08
+1188,2021-03-10 12:05:53+00:00,1369620522221244418,solana,"We’re excited to see the proposal for @RaydiumProtocol to integrate with @SushiSwap was just published! It will be up for voting from: 📆10pm HKT, 10th March ➡️10pm HKT 15th March. https://t.co/4LwEJJ6hVm",323,13,60,2021-03-10
+1192,2021-03-11 18:37:33+00:00,1370081476876726273,solana,The USDT Token mint is here 👇 https://t.co/owLlUkqgU5,64,4,11,2021-03-11
+1197,2021-03-13 21:43:52+00:00,1370853142229786624,solana,"Help build this magical ecosystem! 
+💸https://t.co/5boEhjzli2 
+💬https://t.co/h5KCxubT6w
+🏫https://t.co/yc7mZdeW2z https://t.co/Y8MYo2FCIj",157,4,29,2021-03-13
+1198,2021-03-15 18:50:08+00:00,1371534194896039936,solana,"The winners of the Solana x Serum DeFi Hackathon will be announced on Wednesday this week. 🏆
+
+The judges were overwhelmed by the number and quality of submissions, but the top 9 projects have been selected. Stay tuned! https://t.co/X2SKI0i0N1",210,6,31,2021-03-15
+1199,2021-03-16 00:59:20+00:00,1371627108003352578,solana,Each staked SOL moves the network closer to true censorship-resistance and decentralization. Thank you to all the Solana community members coming together to help decentralize and secure the network. Find the latest numbers at https://t.co/bOnbUcXFdG,39,3,2,2021-03-16
+1202,2021-03-17 15:23:34+00:00,1372206984502607872,solana,👀🚀 https://t.co/HuSYdYnq8h,105,3,10,2021-03-17
+1216,2021-03-18 23:33:16+00:00,1372692609093668866,solana,"30-minute warning for the Solana Weekly Clubhouse Room!
+
+https://t.co/ed7w0L0wtN",76,5,10,2021-03-18
+1221,2021-03-19 19:31:51+00:00,1372994246354034690,solana,Read up on one of the top-place winners of the Solana x @ProjectSerum Hackathon - @mangomarkets https://t.co/vca6EjoVwP,133,5,21,2021-03-19
+1222,2021-03-21 22:27:06+00:00,1373763121106542593,solana,A friendly reminder https://t.co/OKvbfxLHff,185,4,17,2021-03-21
+1223,2021-03-22 23:45:12+00:00,1374145165502377988,solana,@johnrobertreed @TheCryptoDog @mangomarkets fewer,9,1,1,2021-03-22
+1224,2021-03-25 15:22:51+00:00,1375105908846559235,solana,"1/  Today $40m an additional investment will flow into the Solana ecosystem to support the next great generation of blockchain projects and ecosystem companies building on Solana. 
+
+This is only possible because of the astonishing progress of builders, creators, and users of SOL. https://t.co/geUSwEeyCO",375,12,88,2021-03-25
+1230,2021-03-26 15:12:52+00:00,1375465783204188161,solana,"SPLs continues to grow across the Solana ecosystem, including native stable coins like USDc and USDt. https://t.co/jvjFaq76hl",175,4,29,2021-03-26
+1232,2021-03-29 17:19:12+00:00,1376584740229107712,solana,"Season 3 of The Solana Podcast kicks off today with CEO and Co-Founder of @staratlas, @at_mwagner.
+
+Star Atlas is a grand strategy game of space exploration, territorial conquest, and political domination - built on Solana. 🛰
+
+https://t.co/FHKDywEhc2",119,16,21,2021-03-29
+1234,2021-04-02 21:57:40+00:00,1378104372484182016,solana,"It was a blast having @santiagoroel on the Solana Podcast. In this episode, Anatoly and Santiago cover the stages of crypto, DeFi benefits, the future of decentralized collaboration, and plenty more! 🎧
+
+Episode #39 goes live Monday. https://t.co/D3NyWOu0E6",103,12,18,2021-04-02
+1238,2021-04-03 10:20:22+00:00,1378291278840881155,solana,🔥 https://t.co/Up0iUy9tKd,219,4,15,2021-04-03
+1240,2021-04-05 04:41:14+00:00,1378930706655502336,solana,Just a legend doing legend things. https://t.co/MFq8XpIoJl,299,8,39,2021-04-05
+1243,2021-04-09 19:47:09+00:00,1380608240770113537,solana,"You can listen to the first two episodes of Season 3 featuring @at_mwagner and @santiagoroel here 👇
+https://t.co/ywz8UoqzwD",54,3,3,2021-04-09
+1246,2021-04-12 17:55:10+00:00,1381667221349359616,solana,"Episode 40 of The Solana Podcast featuring AlphaRay, Founder of @RaydiumProtocol, is live. 🎉
+
+AlphaRay and Anatoly dig into the origin of Raydium, fusion Pools, crypto communities,  decentralized governance, and the upcoming SushiSwap integration.
+
+https://t.co/YXYKGEZYE4",352,8,62,2021-04-12
+1249,2021-04-13 17:18:35+00:00,1382020403594465281,solana,👀 https://t.co/Op330FYUaM,348,13,45,2021-04-13
+1252,2021-04-14 18:10:21+00:00,1382395819337322498,solana,"Friendly reminder the Solana Community Town Hall is tomorrow (Thursday) at 7 am PDT / 2 pm UTC. ☀️
+
+We will have guest speakers from @AudiusProject, @RaydiumProtocol, and @mangomarkets. 
+
+Register here 👇
+https://t.co/Q6GmiVzUTs",212,11,40,2021-04-14
+1253,2021-04-15 14:37:22+00:00,1382704605516169218,solana,"The Founders of @AudiusProject and @RaydiumProtocol are now on stage. 🎶
+
+Tune in to listen and ask questions! 🎦 https://t.co/Ni5CuxWxKo",116,5,12,2021-04-15
+1257,2021-04-19 19:43:38+00:00,1384231232024629251,solana,"Episode 41 of The Solana Podcast featuring Co-Founder of @RealHxro, @hxrobtc, is live. 🎉
+
+https://t.co/oRgF9mOOHp",141,7,23,2021-04-19
+1259,2021-04-20 13:03:55+00:00,1384493030196060160,solana,Stablecoin adoption on Solana keeps growing - up from $510m on April 2nd https://t.co/ghm1x2qsUO https://t.co/pRa1AAoZpi,316,6,46,2021-04-20
+1264,2021-04-21 00:23:35+00:00,1384664073552515076,solana,"The Foundation is proud to sponsor @josh_triplett and his work on @rustlang – a modern language with wide adoption, suitable for writing high-performance, secure code. https://t.co/dDWeoN9Umg",165,4,20,2021-04-21
+1269,2021-04-22 17:19:38+00:00,1385282156809781249,solana,"Attention builders.
+
+Solana Season, coming April 28, 2021. 🛠️
+
+https://t.co/oBMJAxI9Iy https://t.co/NvzwWvC2gU",1923,97,418,2021-04-22
+1271,2021-04-23 00:28:04+00:00,1385389978616795138,solana,Jobs working on the ☀️ https://t.co/ETWkRos2UI,253,21,21,2021-04-23
+1272,2021-04-26 15:12:35+00:00,1386699735248080907,solana,"Episode 42 of The Solana Podcast featuring the founder of @bonfida, David Ratiney, drops shortly. 🎧 https://t.co/tvzVLSBuMs",193,17,27,2021-04-26
+1273,2021-04-27 23:42:53+00:00,1387190545093591040,solana,"A grassroots media arm is emerging out of the @Solana community and is publishing news even faster than our team can
+
+@SolanaNews
+@solana_daily
+@Sola_System
+@solanablog
+@solanians_
+@Solana_Mates
+@thesolmane
+
+Follow them to stay up to date with what's happening in the ecosystem ☀️",430,18,69,2021-04-27
+1275,2021-04-28 14:19:46+00:00,1387411221717176323,solana,"1/Announcing the Solana Season Hackathon! #solanaszn
+
+🏆 Up to $1 million in prizes/seed funding
+🌍 Anyone with an internet connection can join 
+4️⃣ Additional regional tracks
+🗓️ Running May 15 - June 7
+🏁 Registration is live today https://t.co/3yeMoW7BLy",10447,558,2648,2021-04-28
+1286,2021-04-29 02:37:24+00:00,1387596852254568449,solana,@NerveFinance Welcome ☀️,116,2,4,2021-04-29
+1291,2021-05-01 22:58:57+00:00,1388629039255113736,solana,"Join the fun – build the future.  
+https://t.co/MVh8vlmV1Y https://t.co/zUD2vuZZOJ",209,3,32,2021-05-01
+1292,2021-05-02 00:51:29+00:00,1388657360294449153,solana,"1/ Over 3,000 builders from around the world have now registered for the Solana Season Hackathon! #solanaszn
+
+🏆 Up to $1 million in prizes/seed funding
+🌍 Anyone with an Internet connection can join
+
+If you haven't signed up yet, do so before May 15.
+https://t.co/oBMJAxI9Iy",490,14,102,2021-05-02
+1295,2021-05-03 20:27:43+00:00,1389315756303675393,solana,"3/ In addition, @BundleAfrica and @BlockchainNG are partners for the Africa track, with judging support from @chimeziechuta, @BolajiOnibudo, and more.
+
+Learn more about the prizes and regional tracks below. 👇
+
+https://t.co/MVh8vlEvTw",85,1,11,2021-05-03
+1302,2021-05-04 14:37:00+00:00,1389589883589693442,solana,"Join our second event of Solana Season, Crypto Investment Strategies, with @santiagoroel, @mrjasonchoi, and @lmrankhan, tonight.
+
+The panel starts at 7pm PDT (2am UTC) today. 🎉
+
+All events will be hosted on our Twitch account - make sure to subscribe 👇
+https://t.co/axt0YJ2EM3",287,11,61,2021-05-04
+1307,2021-05-05 19:46:15+00:00,1390030098179366912,solana,"Hackathon Update 🛠️
+
+Welcome @0xMaki to the Solana Season judging panel!
+
+In addition to @SushiSwap, a few other crypto judges/companies are now supporting the event including:
+
+@niraj &amp; @polychaincap
+@bneiluj &amp; @StakeDAOHQ + @CurveFinance
+
+Register today: https://t.co/oBMJAxI9Iy https://t.co/gWg29TvcuX",291,20,53,2021-05-05
+1313,2021-05-06 00:05:29+00:00,1390095337793245184,solana,@TheRealChaseeb Welcome to the fam!,48,2,6,2021-05-06
+1316,2021-05-07 22:26:22+00:00,1390795166466850825,solana,"You can catch up on all the previous episodes on Spotify, Apple Podcasts, Youtube, and everyone else you listen to your podcasts.
+
+https://t.co/ywz8Uo8YF5",76,4,13,2021-05-07
+1324,2021-05-10 22:39:56+00:00,1391885745871327233,solana,Accessibility projects are here to onboard a billion crypto users in 2021 💪 https://t.co/cx9ZAFg1r9,211,5,33,2021-05-10
+1330,2021-05-11 11:55:36+00:00,1392085981734391811,solana,"Going live with @zenzhenyu from @TorusLabs in one hour 
+
+https://t.co/axt0YJkfDB",134,6,16,2021-05-11
+1334,2021-05-12 17:40:48+00:00,1392535240350920704,solana,"Say goodbye to slow transactions &amp; high fees, and say hello to Solana.⛽️
+
+5 lucky winners who retweet this post &amp; subscribe to our YouTube channel will receive an exclusive Solana swag box.
+https://t.co/UIDtew7LHj
+
+Stay tuned for future educational videos, interviews &amp; events! 📹 https://t.co/hI8etX4dRJ",24017,1822,9465,2021-05-12
+1337,2021-05-13 01:09:20+00:00,1392648118055972865,solana,"Live now with @AudiusProject 
+
+https://t.co/axt0YJ2EM3",173,20,35,2021-05-13
+1342,2021-05-14 16:03:36+00:00,1393235555555545088,solana,"About 10,000 builders are now registered for the Solana Season Hackathon! 
+
+Start your engines, hacking commences tomorrow (May 15) at 12am PT. 🏁
+
+https://t.co/oBMJAxI9Iy",924,37,174,2021-05-14
+1345,2021-05-15 03:00:37+00:00,1393400900404789250,solana,@Austin_Federa @PitViperShades 👀,23,0,0,2021-05-15
+1348,2021-05-16 14:21:59+00:00,1393934759475093507,solana,"The Solana Season Hackathon has commenced, with over 10,000 registered builders globally! 🌍
+
+All the resources needed to start building on Solana are in the official Github repo: https://t.co/MVh8vlEvTw
+
+And remember, project submissions are due by June 7 at 11:59pm PT. 🏗️",877,34,179,2021-05-16
+1350,2021-05-17 01:38:48+00:00,1394105088352821248,solana,"This weeks Solana Season events:
+Monday - Fireside Chat with @kevinrose @ 8am PDT
+Tuesday - @Decentology workshop @ 5pm PDT
+Wednesday - DeFi Hackathon Demo Day @ 7am PDT
+Thursday - @Kin_Ecosystem workshop @ 8am PDT
+Thursday - @akashnet_ workshop @ 6pm PDT
+
+https://t.co/axt0YJkfDB",337,18,66,2021-05-17
+1358,2021-05-18 01:15:22+00:00,1394461575130624001,solana,"Solana Ecosystem News Volume Six ☀️
+
+https://t.co/0tqpXELb7v",682,14,115,2021-05-18
+1361,2021-05-19 02:09:13+00:00,1394837515190874116,solana,Come design the future #SolJobs https://t.co/2sNASgGatB,232,11,21,2021-05-19
+1365,2021-05-20 00:46:31+00:00,1395179093054926850,solana,"The Solana &amp; @ProjectSerum Demo Day has been moved to May 28th.
+
+More details soon. https://t.co/axt0YJ2EM3 https://t.co/5MZDYIi79r",498,26,84,2021-05-20
+1370,2021-05-21 00:17:29+00:00,1395534173993979904,solana,"Join @baalazamon and the team at @PythNetwork for a technical workshop in 45 minutes.
+
+Pyth is designed to bring real-world data on-chain on a sub-second timescale.
+
+https://t.co/axt0YJkfDB",207,3,34,2021-05-21
+1371,2021-05-25 23:52:26+00:00,1397339807299227648,solana,The future is coming https://t.co/IXtf1hCmAr,389,22,50,2021-05-25
+1375,2021-05-26 23:35:15+00:00,1397697873278537741,solana,"We are back online with Yutaro from @orca_so!
+
+Tune in now 👇
+https://t.co/axt0YJ2EM3",109,0,14,2021-05-26
+1382,2021-05-27 15:21:53+00:00,1397936099134042114,solana,"The @switchboardxyz technical workshop will start in 10 minutes. 
+
+If you are interested in learning more about Switchboard or how to use their oracles tune in. 👇
+
+https://t.co/axt0YJkfDB",296,43,82,2021-05-27
+1385,2021-05-28 03:28:00+00:00,1398118832925990914,solana,If you build it... https://t.co/yYhrBT7ODc,258,9,16,2021-05-28
+1392,2021-05-31 22:35:49+00:00,1399494857287110656,solana,"We started this month crossing 200k followers, and are ending the month crossing 300k 🎉
+
+What a testament to the teams, builders, and community that together make up Solana. https://t.co/wHIIFkpDx3",1891,106,247,2021-05-31
+1393,2021-06-01 20:45:44+00:00,1399829539321118720,solana,🌴🌮🔉☀️ https://t.co/LUVVYSlXqS,272,8,34,2021-06-01
+1396,2021-06-02 16:03:29+00:00,1400120896212307973,solana,"Metaplex Protocol, a radically new approach to NFTs and NFT storefronts, launched today on Solana! 
+
+Congratulations to the @MetaplexNFT team and the launch partners 🎉 https://t.co/UchxB5c4Ku",337,12,70,2021-06-02
+1397,2021-06-03 14:35:08+00:00,1400461051640967176,solana,👀 big things afoot https://t.co/vipiQBhjKO,374,17,55,2021-06-03
+1398,2021-06-04 16:35:50+00:00,1400853813762969601,solana,🌴☕📷☀️ https://t.co/oAHJNHnwok,252,15,43,2021-06-04
+1399,2021-06-06 18:13:13+00:00,1401603096971776001,solana,The Solana Season Hackathon concludes June 7th at 11:59pm PST - submit your projects at https://t.co/Bz1nsjrdzw #solanaszn,437,28,72,2021-06-06
+1400,2021-06-07 21:44:10+00:00,1402018570456993796,solana,"@RajGokal 👀
+https://t.co/MN4ekM7MR4",84,3,7,2021-06-07
+1403,2021-06-08 02:36:23+00:00,1402092110636064768,solana,"5 hours left to submit a project for the Solana Season Hackathon!
+
+👉https://t.co/oBMJAxZL78👈
+
+Quick tip!
+
+Use https://t.co/ObGmQxTLhq for devnet testing. You will see performance improvements as long as you remain within the rate limits. More info at https://t.co/VAVh8gue9Q",591,31,186,2021-06-08
+1405,2021-06-09 12:36:01+00:00,1402605400223014918,solana,Today's biggest news is what the community is currently building.  Show them what you're working on #solanaszn #SolanaSummer  👇,1756,218,256,2021-06-09
+1406,2021-06-10 16:17:10+00:00,1403023442761375747,solana,More #SolJobs headed your way https://t.co/TNbLRXrIyd,156,12,17,2021-06-10
+1407,2021-06-12 00:38:51+00:00,1403512084495806468,solana,"1/ The Solana Season Hackathon concluded on Monday! Over 13,000 builders, designers, marketers, and operators submitted an impressive array of projects to our judges - congratulations to everyone involved in building an open, decentralized future.",821,44,148,2021-06-12
+1409,2021-06-15 02:49:03+00:00,1404632013538217989,solana,Start Atlas got @SpaceForceDoD into NFTs 👀 https://t.co/fz1L2xLtJL,163,9,25,2021-06-15
+1412,2021-06-16 22:38:26+00:00,1405293718366736385,solana,"1486.05 SOL raised for @GiveIndia thanks to @helium's  NFT auction powered by @metaplexNFT! 
+
+What about the fees? The sum total from minting NFTs, running the on-chain auction, and placing bids was less than 1 $SOL 
+
+Inspired? Check out https://t.co/TRuNESLoqc to start building https://t.co/edAefMY34X",239,12,31,2021-06-16
+1417,2021-06-17 22:01:26+00:00,1405646797150818304,solana,"3/ Also, check out Phantom’s guide on how to get onboarded to the Solana ecosystem. 👇
+
+https://t.co/QOQ5iSRmQ9",104,8,7,2021-06-17
+1421,2021-06-18 20:53:12+00:00,1405992012365635584,solana,"Solana Ecosystem News Volume Seven☀️
+https://t.co/6aViFXs86C",381,16,80,2021-06-18
+1422,2021-06-19 04:16:10+00:00,1406103488938057729,solana,What are you working on right now? https://t.co/UiIeNe7icf,286,71,24,2021-06-19
+1426,2021-06-22 01:50:22+00:00,1407153961770143750,solana,#SolJobs https://t.co/BGcHDOOp9a,258,11,34,2021-06-22
+1427,2021-06-23 20:35:20+00:00,1407799456460849159,solana,"11/ First place in the #Web3 Track goes to @solariume2e, a fully decentralised, end-to-end encrypted, censorship-resistant instant messenger. https://t.co/T3pWMSUtxe",81,3,9,2021-06-23
+1444,2021-06-24 19:32:33+00:00,1408146045427724290,solana,@BurntFinance https://t.co/q2Kaoh73Iw,36,15,2,2021-06-24
+1448,2021-06-25 15:40:09+00:00,1408449947008110592,solana,And it's out! https://t.co/Z8Zy6PNXT1,56,2,10,2021-06-25
+1449,2021-06-28 22:59:00+00:00,1409647551628800004,solana,"@fordudesake Same, Dude!",27,1,1,2021-06-28
+1456,2021-06-29 01:49:04+00:00,1409690346569670665,solana,PSA - @metaplex is the future https://t.co/CNxwRWRcNr,130,9,16,2021-06-29
+1458,2021-06-30 17:35:36+00:00,1410290938799398924,solana,@DoraHacks @solana_daily @solanians_ @SolanaPost @CryptoPrince9 Thanks for helping The Solana Foundation run such a successful track of the hackathon! 🙏 #solanaszn,5,1,1,2021-06-30
+1461,2021-07-01 18:49:27+00:00,1410671911512772608,solana,"Since March, ecosystem funds have deployed over $3,900,000 in 33 projects building on Solana! 
+
+Check out the list of ecosystem funds, and how to get in touch with each fund – 
+https://t.co/9ADTt8t4UM",478,25,86,2021-07-01
+1462,2021-07-02 15:48:16+00:00,1410988704697573382,solana,"Phantom now works across @brave, @googlechrome, @MicrosoftEdge and now @firefox 🔥 https://t.co/XKEzzesZbd",395,8,53,2021-07-02
+1463,2021-07-05 15:35:52+00:00,1412072748210343938,solana,Dark Mode https://t.co/4clmqvUpOI,206,8,17,2021-07-05
+1464,2021-07-06 19:14:17+00:00,1412490102790623243,solana,What are you waiting for? 🏗 https://t.co/Jw09XMRukx,249,19,39,2021-07-06
+1466,2021-07-07 15:41:37+00:00,1412798967381860361,solana,"ICYMI: Check out the most recent Solana monthly recap!
+
+And make sure to subscribe at https://t.co/WW0M1Ldmzz to get the latest edition delivered straight to your inbox. 📨 
+
+https://t.co/B762L5WrBe",241,10,55,2021-07-07
+1467,2021-07-09 17:20:02+00:00,1413548513405898752,solana,"Unity wallet support opens up worlds of possibilities, including SPL Token in-game currency, NFT-Items, on-chain player identities, and more. 
+
+What will you build? What do you want to see built? https://t.co/HOV8q18yGp",364,29,61,2021-07-09
+1468,2021-07-13 20:23:18+00:00,1415044184566902792,solana,"Captain of 🇮🇹 ⚽ dropping NFTs on @blockassetco, built on @metaplex 🏆 https://t.co/USiwDiuLW7",199,10,37,2021-07-13
+1470,2021-07-14 13:09:10+00:00,1415297319956799490,solana,Congratulations to everyone at the @phantom team! https://t.co/4LKsVAmVVu,301,8,23,2021-07-14
+1473,2021-07-16 23:14:02+00:00,1416174316362735616,solana,"The Solana ecosystem is expanding at an accelerating rate!📰
+
+Make sure to also follow other community accounts such as @solana_daily, @solanians_, @SolanaNews, @solanablog, and @TheSolanaUpdate to stay informed on daily news from around the ecosystem.
+
+https://t.co/6aViFXawI2",339,18,62,2021-07-16
+1474,2021-07-19 14:10:15+00:00,1417124631463579658,solana,"Listen to a deep dive into the tech, architecture, and history of Solana with @aeyakovenko on @AcquiredFM https://t.co/7o5Q0ZVim8",153,7,22,2021-07-19
+1476,2021-07-20 15:57:59+00:00,1417514130987229185,solana,@therealchaseeb product market fit,13,3,0,2021-07-20
+1478,2021-07-21 21:05:52+00:00,1417953999345627136,solana,New #soljobs https://t.co/WHFPswLs1Y,158,17,20,2021-07-21
+1479,2021-07-22 13:58:49+00:00,1418208917373526016,solana,SPL Token support continues to expand throughout the ecosystem! https://t.co/14n2uB9hkt,146,10,20,2021-07-22
+1482,2021-07-23 16:02:01+00:00,1418602308309508102,solana,"7/ Stake Pool deposits ALSO generate a token for delegators, which represents the SOL deposited + rewards earned from staking. 
+
+These new tokens can be used in #DeFi apps -- such as @RaydiumProtocol and @ProjectSerum – to provide liquidity, collateral, or be freely traded,",131,5,8,2021-07-23
+1504,2021-07-24 23:06:04+00:00,1419071414682935296,solana,@ChainflowPOS @StakingDefense Love it,11,0,1,2021-07-24
+1505,2021-07-25 03:07:00+00:00,1419132046459424769,solana,"Comment with a story about how something built on #Solana changed the way you think about blockchain. One great story will win a pair of coveted Solana Shorts
+
+#SOL https://t.co/RqA5oUoB97",261,46,33,2021-07-25
+1509,2021-07-27 22:26:57+00:00,1420148733463842817,solana,"For some inspiration, check out the current NFT auctions happening on the marketplace at https://t.co/MYczZEVZU4.
+
+#solanapalooza #solanasummer",36,4,5,2021-07-27
+1519,2021-07-28 13:59:54+00:00,1420383514671734787,solana,Solana Season Demo Day - hosted by Parafi &amp; Sino Global https://t.co/SV05ovlyCV,264,8,53,2021-07-28
+1522,2021-07-30 18:36:27+00:00,1421177887789617152,solana,"Did you know https://t.co/yc7mZcXlb1 is powered by a GitHub repo?
+
+See a project missing, or an outdated description? Help improve the community by submitting a pull request. 
+
+https://t.co/NvjIhThb9C",233,12,33,2021-07-30
+1529,2021-07-31 17:10:03+00:00,1421518533972926473,solana,New #soljobs at Phantom https://t.co/MIGR2JxanC,242,12,25,2021-07-31
+1530,2021-08-02 01:49:16+00:00,1422011586559062022,solana,@AudiusProject @aeyakovenko The time is now 🎧,31,4,1,2021-08-02
+1531,2021-08-03 20:08:25+00:00,1422650584381939717,solana,"QuickNode launches support for Solana RPC infrastructure, offering scalable pricing based on usage. 
+
+Available today at: https://t.co/6pJwrOuEa3 https://t.co/rshPDTVMz6",235,11,51,2021-08-03
+1532,2021-08-04 18:14:47+00:00,1422984375151509510,solana,Pyth Network is rapidly adding more partners to their institutional-grade oracle network. One to watch 🔭 https://t.co/QDuPW1g3hI,468,70,191,2021-08-04
+1536,2021-08-05 17:05:59+00:00,1423329449819398152,solana,"Huge news from @AaveAave this morning!
+
+A warm community welcome seems in order #SolanaSummer  🌴☀️🥥 https://t.co/7kFUqvVFYh",559,22,79,2021-08-05
+1537,2021-08-06 02:25:48+00:00,1423470331382087680,solana,Starts in 30 minutes! https://t.co/oTIgxYRPaa,198,8,21,2021-08-06
+1539,2021-08-07 20:31:00+00:00,1424105820384550916,solana,Serum adding powerful (decentralized) tools for those building new decentralized financial products https://t.co/xVXjunGY0k,262,6,32,2021-08-07
+1540,2021-08-09 15:12:08+00:00,1424750347285901317,solana,"2/ At launch, Wormhole mainnet will support Solana, Ethereum, Terra, and Binance Smart Chain, with the capability to connect to other chains in the future.",41,3,6,2021-08-09
+1545,2021-08-10 22:34:47+00:00,1425224133428666375,solana,@balajis @zackkanter @micsolana https://t.co/dnjYbmZS6R,65,8,1,2021-08-10
+1551,2021-08-11 20:13:28+00:00,1425550956817694725,solana,Please continue to save the date 👀 https://t.co/JNwaIJrF3n,865,43,126,2021-08-11
+1552,2021-08-12 00:58:08+00:00,1425622597421654020,solana,Congratulations to the @mangomarkets team on their $70m raise! https://t.co/DkUQORoQVP,675,44,84,2021-08-12
+1558,2021-08-13 13:28:10+00:00,1426173736387031048,solana,"In retrospect, it was inevitable
+
+https://t.co/O9u3pWAP3e",79,9,14,2021-08-13
+1566,2021-08-17 17:08:08+00:00,1427678642465771523,solana,"Get up to speed on all the recent developments from around the Solana ecosystem by reading the newest bi-weekly update! 👇
+https://t.co/6aViFXawI2",791,42,154,2021-08-17
+1567,2021-08-18 16:15:46+00:00,1428027853271011331,solana,"Solana surpassed 400k Twitter followers! Thanks to all the builders, validators, token holders &amp; ecosystem evangelists who have joined us in our mission to scale crypto globally. We are just getting started! 🚀
+
+If you're new to Solana, learn more at https://t.co/vy33v8TrQf https://t.co/xUDtsnLSTV",1865,107,265,2021-08-18
+1568,2021-08-19 06:32:50+00:00,1428243539796824064,solana,♥️ https://t.co/Falw0LgHxG,688,38,57,2021-08-19
+1570,2021-08-20 23:43:00+00:00,1428865178477776902,solana,4/ Enjoy the weekend! #SolanaSummer,208,27,27,2021-08-20
+1577,2021-08-21 18:21:26+00:00,1429146642406641665,solana,"Asking for a friend... 
+https://t.co/GiZTSX5vH0",406,37,69,2021-08-21
+1579,2021-08-22 12:34:01+00:00,1429421599996928003,solana,New #soljobs https://t.co/w0ycI9SN2y,337,16,41,2021-08-22
+1581,2021-08-23 13:14:21+00:00,1429794136627060747,solana,@packyM gm :),9,1,0,2021-08-23
+1587,2021-08-25 13:20:47+00:00,1430520534408835072,solana,@ApricotFinance @Delphi_Digital @Lemniscap @KomorebiFund @SkyVisionCap @GSR_io @Darrenlautf 💪,22,0,0,2021-08-25
+1588,2021-08-26 17:57:45+00:00,1430952623654510600,solana,Star Atlas' trailer is out! Get an early look at what's coming to the Metaverse  💎🌎🚀 https://t.co/1e1Ynp73kV,970,348,169,2021-08-26
+1589,2021-08-27 11:31:50+00:00,1431217889718136835,solana,We're aware of some exchanges encountering some issues with deposits and withdrawals of Solana related assets due to the recent network upgrade and are working closely with exchanges to resolve this. We expect this to be resolved shortly.,1082,265,120,2021-08-27
+1593,2021-08-28 16:43:31+00:00,1431658716923711488,solana,"If you're wondering where to get started, the newly rebuilt https://t.co/zcAsfstPyf is a great place to begin",298,160,54,2021-08-28
+1594,2021-08-31 16:09:24+00:00,1432737294004359170,solana,"1/We have IGNITION. Welcome to the global Solana hackathon.🚀
+
+🏆$5 million in prizes+funding across 4 tracks: DeFi, Web3, Gaming &amp; Art/Collectibles
+🛤️Tracks presented by @Microsoft, @jumptrading, @StanChart, @FortePlatform, @metaplex
+
+Register+build now👇
+https://t.co/QKtI2gJulh https://t.co/VHQTzWwf3s",14315,2119,3473,2021-08-31
+1599,2021-09-01 12:06:50+00:00,1433038639064391687,solana,650+ registrations so far – what are you planning to build for #IGNITION? https://t.co/fg6cX60ZJc,830,187,129,2021-09-01
+1602,2021-09-02 21:59:53+00:00,1433550272597569536,solana,"The #IGNITION prize pool is heating up! 
+@wormholecrypto, @chainlink, and  @DegenApeAcademy added $30k prizes. 
+
+IGNITION runs through October 8th, and registration is open at https://t.co/EB0cept3an https://t.co/j0vEdZb2XB",673,50,109,2021-09-02
+1604,2021-09-03 13:57:00+00:00,1433791139618844672,solana,"Tune in for the first live Ignition Hackathon event in 5 mins with @KyleSamani of @multicoincap, @aeyakovenko, and @mattytay for a discussion on interesting hackathon project ideas! 👇
+
+https://t.co/axt0YJkfDB",311,20,67,2021-09-03
+1608,2021-09-04 12:33:16+00:00,1434132454911188994,solana,Who is going to tell him? 👀 https://t.co/dfnXGv5U4s,4642,736,564,2021-09-04
+1609,2021-09-05 15:02:03+00:00,1434532285789900800,solana,UX upgrades coming to Phantom https://t.co/2QU3FyJRZK,1142,58,122,2021-09-05
+1613,2021-09-06 16:01:02+00:00,1434909517553209346,solana,@Ledger @BAYC967 @solflare_wallet Got a timeline?,58,7,5,2021-09-06
+1614,2021-09-07 22:37:36+00:00,1435371701718564871,solana,"There are 2 new additions to the Solana IGNITION Hackathon judging panel! 
+
+Welcome @cassidoo and @heyerikan! ⚖️
+
+If you haven't registered yet, do so soon at https://t.co/boDEK9kb0q https://t.co/aNRQo3XC82",546,164,47,2021-09-07
+1619,2021-09-08 18:50:30+00:00,1435676939537330184,solana,🔥 IGNITION Workshop happening now 🔥 @armaniferrante teaches you how to use Anchor! Tune in: https://t.co/axt0YJ2EM3 https://t.co/x7aUvZmDEC,367,65,53,2021-09-08
+1623,2021-09-09 12:35:59+00:00,1435945075385712645,solana,@therealchaseeb Check out https://t.co/zcAsfsLqWP for more https://t.co/EPVBeXiTN7,22,11,3,2021-09-09
+1628,2021-09-10 20:31:00+00:00,1436427005277483014,solana,"The Solana lighter is here! Virtually, anyway.
+
+Sign up for the IGNITION Hackathon by Sept. 15th and submit a project by Oct. 8th to be eligible for a 🔥 NFT lighter. 
+
+Register here ⏩ https://t.co/TmZqEB8O5e https://t.co/WZMB7TRU24",1113,265,203,2021-09-10
+1633,2021-09-12 17:39:00+00:00,1437108495753437184,solana,📺 Weekend watch: The IGNITION @metaplex / NFT Workshop is now on YouTube! https://t.co/KiRA7RJDyP,618,168,135,2021-09-12
+1634,2021-09-13 13:46:10+00:00,1437412289355862021,solana,"🔥 Your IGNITION livestream for Sept. 13th 🔥
+
+10am ET: SolNet C# SDK Workshop
+
+https://t.co/gk3zj3W9Mj",323,113,50,2021-09-13
+1639,2021-09-14 17:31:00+00:00,1437831260580184066,solana,The Future of Blockchain Gaming https://t.co/m2Fulvayza,2465,320,667,2021-09-14
+1644,2021-09-15 15:01:00+00:00,1438155898032111623,solana,"🔥 IGNITION workshop alert! 🔥
+
+Today at 12pm ET: @QuickNode explains how to use a hosted node service to scale your Solana project. https://t.co/axt0YJ2EM3",525,51,74,2021-09-15
+1646,2021-09-16 21:12:01+00:00,1438611654586085379,solana,Culture🤝Crypto https://t.co/09pL9g6VZt,923,95,144,2021-09-16
+1653,2021-09-17 14:30:01+00:00,1438872875528716288,solana,"""@staratlas is more complex than it sounds"" - @at_mwagner 
+
+The co-founder and CEO spoke to Solana Labs about the game's development, building a metaverse, and how players can get involved right now. https://t.co/leZKo20edM",4081,219,701,2021-09-17
+1658,2021-09-18 23:24:19+00:00,1439369724979208193,solana,New #soljobs https://t.co/U8OlhCcKBL,653,153,93,2021-09-18
+1663,2021-09-20 18:55:29+00:00,1440026849300545547,solana,"There's another IGNITION live event coming up! 🔥
+
+Today at 5pm ET, @joemccann from @Microsoft and @mattytay from Solana Labs will discuss all the exciting happenings from around the Solana ecosystem. Join the livestream in about 2 hours.👇
+
+https://t.co/axt0YJkfDB",507,88,75,2021-09-20
+1665,2021-09-21 17:03:00+00:00,1440360927031922688,solana,"🔥It's IGNITION workshop time!
+
+Tune in at 2pm ET for the @baalazamon and @i_am_hapi_one Oracle Showdown 📺
+
+https://t.co/gk3zj3W9Mj",303,66,46,2021-09-21
+1667,2021-09-22 10:39:48+00:00,1440626879178838016,solana,Missed a livestream from the #IGNITION hackathon? You can find full replays on YouTube of developer tutorials and conversations with some of the smartest people building on Solana   https://t.co/RcYdG52MHo,345,45,49,2021-09-22
+1670,2021-09-23 22:38:10+00:00,1441170050904252425,solana,👀 https://t.co/NRs5SCGASJ,734,55,101,2021-09-23
+1675,2021-09-24 20:43:27+00:00,1441503571342680066,solana,"3/ So get your applications in by October 1st, and you’ll find out if you qualify by October 6th. See you in Lisbon this November! 🥳
+
+Apply here: https://t.co/f7npymoYA3",99,12,13,2021-09-24
+1680,2021-09-25 15:22:14+00:00,1441785122433372172,solana,Happy #SolanaSaturday builders https://t.co/Jjhxscw23x,581,75,81,2021-09-25
+1681,2021-09-27 14:44:57+00:00,1442500513501700101,solana,New gameplay footage from @AuroryProject 🎮 https://t.co/ZeJzOKhzMM,1173,69,196,2021-09-27
+1684,2021-09-28 19:48:14+00:00,1442939227159760897,solana,"13/ If your IGNITION submission uses @MarinadeFinance, you could win a $15k prize. https://t.co/TmZqEARcGE https://t.co/dCJmbCiFO2",174,32,21,2021-09-28
+1700,2021-09-29 23:29:51+00:00,1443357383674236928,solana,🔥@boysnoize dropping on @metaplex https://t.co/pTfWrtmowv,189,24,18,2021-09-29
+1703,2021-09-30 02:39:55+00:00,1443405215424782338,solana,Reminder: applications for the Global Fellows Program close October 1st! Those accepted will get a significant stipend to join us at  @SolanaConf in Lisbon https://t.co/pSGX1FzW8w,264,34,26,2021-09-30
+1708,2021-10-01 18:35:37+00:00,1444008113972158464,solana,Total Bridged Assets continues to climb! https://t.co/RY2XIedUhW,638,86,116,2021-10-01
+1710,2021-10-02 03:22:40+00:00,1444140750543929350,solana,"Less than two weeks left in the #IGNITION global hackathon. 
+
+What are your plans for  #SolanaSaturday?",1035,118,130,2021-10-02
+1712,2021-10-03 18:12:43+00:00,1444727127937622023,solana,"@fordudesake Two more months in the chair, one more month until nominations open for the next Squid Prize!",15,2,1,2021-10-03
+1713,2021-10-04 16:35:34+00:00,1445065066232025092,solana,"Over 85 projects to the #Solana ecosystem page this weekend!
+https://t.co/yc7mZcXlb1
+
+This page is community-sourced, so make sure to submit projects to the public GitHub repo https://t.co/NvjIhThb9C",993,78,161,2021-10-04
+1715,2021-10-05 14:38:34+00:00,1445398010607902720,solana,"It's back 🎉 
+
+In the latest episode of The Solana Podcast with @aeyakovenko, @MosheMalawach of @aleph_im talks about the future of web3.
+
+🎧 Listen on your favorite podcast app: https://t.co/e7aAyU7GNf https://t.co/HdHttbPXZQ",583,70,112,2021-10-05
+1726,2021-10-06 13:55:36+00:00,1445749586924949509,solana,"🔥 IGNITION is taking off in Moscow 🔥
+
+Here's what happened when a bunch of excited builders gathered for a hackathon meetup in September. 
+
+Submit your projects by October 15th to be eligible for millions in prizes and seed funding 💪https://t.co/TmZqEARcGE https://t.co/baqwmAb5wz",570,68,92,2021-10-06
+1730,2021-10-07 18:57:15+00:00,1446187887746244610,solana,More and more Web3 infrastructure is launching on Solana 🏗 https://t.co/mS4debz9qu,510,48,77,2021-10-07
+1731,2021-10-08 13:57:04+00:00,1446474728076623874,solana,Major updates from @phantom give users greater insights into transaction details. https://t.co/sv4Jey0YZT,1002,80,153,2021-10-08
+1733,2021-10-10 22:24:06+00:00,1447327103481827329,solana,@aeyakovenko Seriously?,97,9,1,2021-10-10
+1735,2021-10-11 23:38:33+00:00,1447708226787573760,solana,"How do you build a #DAO? Join @mangomarkets Wednesday 9AM ET on Solana TV for a conversation about DAOs, on-chain governance, and community-driven development. 
+
+Pre-read: https://t.co/tuRFdGyTOO
+
+Watch: https://t.co/axt0YJkfDB",420,55,72,2021-10-11
+1739,2021-10-12 11:56:05+00:00,1447893834671689737,solana,The #IGNITION Global Hackathon ends Friday - what projects are you watching?,884,322,139,2021-10-12
+1742,2021-10-13 01:08:51+00:00,1448093340826750976,solana,"Chainlink plans to launch on Solana Mainnet Beta in Q4 🏗 
+More info below 👇 https://t.co/CyoSZa5tol",1886,82,361,2021-10-13
+1746,2021-10-14 17:27:24+00:00,1448701988774957056,solana,"Reminder: Ignition Hackathon project submissions are due at 11:45pm PT tomorrow (10/15)! 🏁
+
+Shortly after, a public dashboard with all hackathon submissions will be posted for community choice award voting and judging. ⚖️
+
+https://t.co/boDEK9kb0q",480,57,126,2021-10-14
+1747,2021-10-15 13:31:14+00:00,1449004942862258190,solana,"🔥 It's the last day of IGNITION... and there's one more workshop for you!
+
+At 10:30am ET, @aeyakovenko and Josh Williams are talking @FortePlatform 📺 https://t.co/axt0YJ2EM3",412,35,60,2021-10-15
+1752,2021-10-18 21:37:18+00:00,1450214430633955329,solana,Decentralization 🤝 TVL https://t.co/KIEGFb5m72,734,100,114,2021-10-18
+1755,2021-10-19 16:18:11+00:00,1450496508441206787,solana,Apricot launches on mainnet 🥳 https://t.co/FQGEFk1G0F,516,45,78,2021-10-19
+1757,2021-10-20 12:35:31+00:00,1450802861160472583,solana,Solana native stables are taking the world by storm ⚡️ https://t.co/M7l7Mw8fb8,735,57,122,2021-10-20
+1760,2021-10-21 14:31:25+00:00,1451194417583308814,solana,"Psst. 
+
+Have you voted for your favorite IGNITION project yet? 👇👇👇 https://t.co/6Va1JZDIzt",744,111,119,2021-10-21
+1761,2021-10-22 17:31:27+00:00,1451602112756912128,solana,"$10,000 is up for grabs for teams in the @Chainlink Hackathon that best integrate with their native Solana oracle solution.
+
+Good luck builders! 👇
+https://t.co/g2pccOzGc9 https://t.co/4KKVJVHD04",826,74,144,2021-10-22
+1765,2021-10-25 19:25:39+00:00,1452718015167045638,solana,"#IGNITION saw the most projects ever submitted to a #Solana hackathon!
+
+However this means the judges have asked for a few more days to go through submissions – expect an announcement Friday.
+
+Check out all the projects submitted below https://t.co/kYXSolxPna",731,114,130,2021-10-25
+1766,2021-10-26 17:21:35+00:00,1453049178234540038,solana,"Today @lawmaster – VP of Research at 
+@TheBlock__ – joins @aeyakovenko on The Solana Podcast
+
+https://t.co/D9cqPWoFKf
+
+If you enjoy these episodes give the podcast ⭐⭐⭐⭐⭐ https://t.co/RUcdgZxkDk",478,147,74,2021-10-26
+1767,2021-10-27 15:17:30+00:00,1453380342820315140,solana,👀 https://t.co/ObzKICNRiZ,612,73,76,2021-10-27
+1769,2021-10-28 10:18:07+00:00,1453667387736219648,solana,Expanding #Solana native stable coin support 💪 https://t.co/gs6HUGKX5j,1034,96,147,2021-10-28
+1770,2021-10-29 17:36:28+00:00,1454140087105691652,solana,/26 The @ProjectSerum Prize is awarded to @friktion_labs. https://t.co/avGhHDbp47,83,9,17,2021-10-29
+1809,2021-11-01 15:38:08+00:00,1455197474902188035,solana,Fair Launch Protocol is helping NFT projects expand their communities while rewarding holders 💪 https://t.co/MfGelMOcd7,765,71,122,2021-11-01
+1810,2021-11-02 23:55:28+00:00,1455685018928418816,solana,"If you can't attend #Breakpoint you can watch most sessions on the free livestream! 
+
+Additionally, sessions and workshops will be recorded and published in the days and weeks following Breakpoint. https://t.co/Gp68CHlp0R",1844,845,692,2021-11-02
+1812,2021-11-03 15:34:12+00:00,1455921260454629390,solana,👀 https://t.co/8kO0NeliA0,763,114,112,2021-11-03
+1813,2021-11-04 16:26:05+00:00,1456296704806883334,solana,Gaming on Solana is heating up 🔥 https://t.co/I3mRAS5wAd,893,60,122,2021-11-04
+1816,2021-11-05 13:17:47+00:00,1456611703676973057,solana,Gaming on Solana is heating up 🔥 https://t.co/JpgqDUZ9as,1663,99,261,2021-11-05
+1819,2021-11-06 15:40:09+00:00,1457009919555670019,solana,Go go go! https://t.co/2pyD4R0uQ3,1322,106,198,2021-11-06
+1820,2021-11-07 08:44:58+00:00,1457267825115111426,solana,@rajgokal Gm,178,19,5,2021-11-07
+1821,2021-11-08 16:17:46+00:00,1457744163525566466,solana,Brave is bringing Web3 to mobile - allowing users to interact with every Solana dapp in iOS and Android via the open web https://t.co/lbpmTHF3WN,1418,56,275,2021-11-08
+1829,2021-11-09 19:36:37+00:00,1458156593133019142,solana,"Coming soon 🐒
+
+Learn more at https://t.co/iCC67bjrbn https://t.co/ilhTIkpjNw",964,97,146,2021-11-09
+1842,2021-11-10 21:10:42+00:00,1458542654933831680,solana,"5,568 participants 
+2,311.80 SOL raises 
+@pplpleasr1 on #Solana 
+https://t.co/qWFhlVEzkR https://t.co/Cf1O6G0RK3",356,71,43,2021-11-10
+1850,2021-11-11 17:22:01+00:00,1458847494742368260,solana,"Thank you, #SolanaBreakpoint! ☀️ https://t.co/TjurlKxVk2",946,248,177,2021-11-11
+1852,2021-11-12 17:20:00+00:00,1459209374342291461,solana,"Lots of news dropped during @SolanaConf #BreakpointLisbon. 
+
+Did you miss out? Catch the highlights: https://t.co/65oWiT3RVb",763,143,237,2021-11-12
+1853,2021-11-13 17:18:00+00:00,1459571258564046854,solana,"There's ""no way to stop an open source movement"" in crypto.
+
+@aeyakovenko talks to @ScottChipolina on @YahooFinance: https://t.co/tkgRvlxdpe",1073,147,244,2021-11-13
+1854,2021-11-15 16:25:53+00:00,1460282920141262862,solana,What were your favorite developer sessions from #BreakpointLisbon? https://t.co/1p4irbfgXg,459,99,97,2021-11-15
+1855,2021-11-16 16:16:00+00:00,1460642819467628544,solana,"🎧 On a special @SolanaConf #BreakpointLisbon episode of the Solana Podcast, @alexisohanian and @rajgokal discuss the future of social on web3 — and a new fund from @sevensevensix and Solana Ventures to help build it.
+
+Listen: https://t.co/4Xr1TsCeVK https://t.co/ClxdJZ8G5K",560,124,150,2021-11-16
+1857,2021-11-17 17:46:43+00:00,1461028036539789312,solana,Joining the Solana Ecosystem has never been easier https://t.co/jzvOCN4iMR,1060,149,196,2021-11-17
+1858,2021-11-18 17:19:00+00:00,1461383448879407107,solana,"1/ @SolanaConf #BreakpointLisbon may be over, but it was only the start of something special. Here's the breakdown of some of the major news: https://t.co/dydI6QjCaR
+
+If you want to learn more, every single panel is also up on YouTube! Dive deep in this thread 🧵",726,99,172,2021-11-18
+1864,2021-11-20 18:06:02+00:00,1462120062589022222,solana,"Did you know https://t.co/yc7mZcXlb1 is powered by a GitHub repo?
+
+See a project missing, or an outdated description? Help improve the page by submitting a pull request. #Solana 
+https://t.co/NvjIhThb9C",695,148,111,2021-11-20
+1866,2021-11-23 12:05:45+00:00,1463116558759247877,solana,Time to build 👷‍♀️ https://t.co/cyAWvvefgZ,789,91,112,2021-11-23
+1868,2021-11-25 14:20:19+00:00,1463875197656875010,solana,"1/ There are now 1 million of you following this account. Thank you! 🥳
+
+It’s amazing what you have all built since it started. 🧵 https://t.co/mQ4BVzZg6R",4406,734,611,2021-11-25
+1873,2021-11-28 00:10:48+00:00,1464748573560553478,solana,@joemccann 🎊,15,4,0,2021-11-28
+1874,2021-11-29 20:13:14+00:00,1465413562797592577,solana,Developer resources 💪 https://t.co/M5w2GyqhmX,467,74,78,2021-11-29
+1875,2021-11-30 15:33:00+00:00,1465705428239765504,solana,"🎧 In the latest episode of the Solana Podcast, @BrendanEich talks about the huge potential for a decentralized search engine and more on stage with @aeyakovenko  at @SolanaConf #BreakpointLisbon. 
+
+Listen: https://t.co/N0ki8cLBpY https://t.co/OBtHBmjy7c",608,250,106,2021-11-30
+1876,2021-12-01 00:14:00+00:00,1465836542102945799,solana,"🧑‍🏫 Study up on some Solana 101!
+
+How time — and proof of history — helps makes Solana more performant: https://t.co/xl1z2zEWXE",941,89,205,2021-12-01
+1880,2021-12-02 15:34:00+00:00,1466430455763259392,solana,"🎧 On the latest episode of the Solana Podcast, Andriy Velykyy of @Allbridge_io, @AlexSmirnov__, @PrimordialAA, @hendrikhofstadt, and @Austin_Federa discuss the transfer layer and cross-chain bridges on stage at @SolanaConf #BreakpointLisbon.
+
+Listen here: https://t.co/iobvIsVGqk https://t.co/UEkPWza2F9",462,69,91,2021-12-02
+1883,2021-12-03 23:05:09+00:00,1466906379537588233,solana,"3/ If you know someone who has made the Solana universe a little friendlier, take a few minutes to write a nomination for them here: https://t.co/rUgUB6S6Ni
+
+Nominations close on December 17th, and the winner will be announced close to the end of the year. Good luck! 🦑 https://t.co/ncXqWyszPk",247,128,36,2021-12-03
+1888,2021-12-05 19:25:51+00:00,1467575967010983943,solana,NFTs 🤝 Environmental conservation https://t.co/fXH6BmRjbN,1161,103,165,2021-12-05
+1890,2021-12-06 17:23:05+00:00,1467907460455407616,solana,"Ready to build? 
+https://t.co/cPK5fyVLCj https://t.co/N6F4uhI53k",326,54,47,2021-12-06
+1893,2021-12-07 03:16:15+00:00,1468056733851570184,solana,"The ecosystem jobs board is ready when you are 
+
+https://t.co/pzpOhQ8Zgt https://t.co/jRw2CntK03",477,260,73,2021-12-07
+1896,2021-12-09 22:31:35+00:00,1469072260774469638,solana,@therealchaseeb @knox_trades You’re lazy,85,6,0,2021-12-09
+1897,2021-12-10 14:14:18+00:00,1469309500524048386,solana,And they're starting with Android 🤖 https://t.co/kiQwPoaafe,1068,89,138,2021-12-10
+1899,2021-12-11 16:30:58+00:00,1469706282949087234,solana,"#SolanaWinter 
+It’s the new #SolanaSummer",2236,224,329,2021-12-11
+1902,2021-12-12 19:49:37+00:00,1470118663705579530,solana,👀 https://t.co/hveHn9C1MC,412,67,49,2021-12-12
+1906,2021-12-13 17:05:29+00:00,1470439746979700739,solana,@justinkan @Twitch @fractalwagmi 💪 #Solana,57,6,4,2021-12-13
+1908,2021-12-14 15:47:00+00:00,1470782381791584271,solana,"🎧 On this episode of the Solana Podcast, @aeyakovenko leads a discussion about the complexity and game theory surrounding stake pools, decentralization and censorship resistance with @_vshapovalov, @0x__fp, and @kuzekuze3!
+
+Listen: https://t.co/QLWX72QDjS https://t.co/sZrJUHhama",448,77,79,2021-12-14
+1913,2021-12-15 21:42:08+00:00,1471234140779560973,solana,"The NBA legend Michael Jordan and @HeirJordan13 are launching HEIR, a platform for empowering athletes built on #Solana https://t.co/qJnhyRqAIe",2617,187,690,2021-12-15
+1915,2021-12-16 15:05:22+00:00,1471496679853477894,solana,@rajgokal gm,64,11,3,2021-12-16
+1918,2021-12-17 21:39:34+00:00,1471958273704218624,solana,"3/ It’s important that every project has the opportunity to be discovered by users — the Solana community is all in this together.
+
+So submit your project, see what everyone else is working on, and get voting. wagmi 🤙
+
+https://t.co/vO3Em16zqK",194,41,56,2021-12-17
+1925,2021-12-18 14:23:42+00:00,1472210969648631815,solana,@yo https://t.co/pKWul3T02K,31,17,2,2021-12-18
+1928,2021-12-19 16:21:10+00:00,1472602921560854536,solana,"Stake Pools are so easy, a Monke can do it 🔥 https://t.co/O8C5DxCMA7",787,276,136,2021-12-19
+1929,2021-12-21 20:41:37+00:00,1473393240246214664,solana,"3/ In January, there were 70 projects in the Solana ecosystem.
+
+☀️ This #SolanaSolstice, the ecosystem is thriving. There are 5,145.",14318,252,876,2021-12-21
+1939,2021-12-22 14:48:45+00:00,1473666824789184515,solana,"Heads up – Solana logo and wordmark have been slightly refined, and the updated versions are available at https://t.co/ScK7ZPxadt",908,125,112,2021-12-22
+1941,2021-12-23 18:22:02+00:00,1474082886953410565,solana,Decentralize every level of the stack https://t.co/833aMpnCwV,640,103,107,2021-12-23
+1942,2021-12-28 17:14:40+00:00,1475877875358191619,solana,Solid opportunity https://t.co/N3OhZ4mElH,742,139,99,2021-12-28
+1943,2021-12-30 18:57:22+00:00,1476628494188695558,solana,@Austin_Federa gm,25,11,0,2021-12-30
+1944,2022-01-01 02:00:42+00:00,1477097419888336899,solana,Happy epoch 264 🎊,2520,147,251,2022-01-01
+1946,2022-01-03 14:54:27+00:00,1478016914064560129,solana,@armaniferrante web who?,48,5,3,2022-01-03
+1947,2022-01-04 21:40:48+00:00,1478481566515007495,solana,"1/ The Squid Prize is the twice-a-year celebration of the people who make the Solana community a better place.
+
+That’s why, after thousands of nominations and weeks of reviewing, @SolanaFndn  is pleased to announce the latest winner, @sainteclectic. 
+
+Congratulations! 🦑 https://t.co/Z2Xoqj9sFM",1724,349,320,2022-01-04
+1951,2022-01-06 21:37:45+00:00,1479205571664351233,solana,#RNDR  🤝 #Solana https://t.co/Ja7AYcYF9I,843,81,195,2022-01-06
+1952,2022-01-07 00:39:18+00:00,1479251260452708353,solana,Giving back to the community 💪 https://t.co/QqCZdLELqb,764,126,204,2022-01-07
+1954,2022-01-11 16:18:19+00:00,1480937124723675137,solana,"For those who are more audio-inclined, don't worry — Chewing Glass is also available in the Solana Podcast feed.
+
+🎧 Listen to @therealchaseeb and @paulxpaulxpaulx here: https://t.co/Icdw9AFAN0",104,41,24,2022-01-11
+1957,2022-01-12 05:22:44+00:00,1481134530106777600,solana,"If you're a builder interested in the DeFi and Web3 ecosystems, make sure to register for the @ProjectSerum x @Wormholecrypto Hackathon!
+
+There are 20 days left to submit a project! 👇
+https://t.co/8Efc7KJSrl",628,142,159,2022-01-12
+1958,2022-01-14 17:43:20+00:00,1482045683364511759,solana,"Decentralized, encrypted messaging, built on #Solana https://t.co/qE4844c4NB",917,123,158,2022-01-14
+1960,2022-01-15 14:41:40+00:00,1482362351659716612,solana,"✅ On chain programs 
+✅ Decentralized front-end https://t.co/QdJFJW5xYv",793,156,190,2022-01-15
+1961,2022-01-18 22:06:10+00:00,1483561376434069508,solana,"@SolanaFndn 8/ Prague
+☀️ The @SolanaFndn x @RBF_cap Hacker House
+🗓 1-6 March 2022 
+
+Register: https://t.co/xi40oGbZJw",637,97,109,2022-01-18
+1979,2022-01-19 17:33:02+00:00,1483855031262715904,solana,"5/ Singapore
+☀️ The @SolanaFndn x @ZetaMarkets Hacker House
+🗓 15-20 Feb. 2022
+
+Register: https://t.co/rSpyjDt3Me",2049,218,426,2022-01-19
+1983,2022-01-20 19:36:56+00:00,1484248597180862509,solana,"#Solana mainnet beta 💪
+1,405 Consensus Validators
+1,152 RPC Full Nodes: 
+Nakamoto Coefficient (super minority): 20",1257,333,315,2022-01-20
+1985,2022-01-27 00:10:34+00:00,1486491786126233603,solana,"Attention #LA: @ftx_us has joined the Hacker House World Tour! Announcing the Solana x FTX NFT Hacker House. 
+
+Apply to join https://t.co/8OzjdmeL6C",959,112,535,2022-01-27
+1988,2022-01-28 02:20:42+00:00,1486886925520809985,solana,"👀 
+#SolanaNFTs https://t.co/yLJ52TVjQP",507,92,94,2022-01-28
+1989,2022-01-31 18:40:15+00:00,1488220599054970886,solana,@phantom 🤙,199,7,9,2022-01-31
+1994,2022-02-01 18:31:34+00:00,1488580801969238025,solana,More from @decryptmedia https://t.co/sfHeQzomNj,233,20,36,2022-02-01
+2007,2022-02-02 18:10:15+00:00,1488937825127092241,solana,"That's right — #Riptide kickoff today with @justinkan, @aeyakovenko, and @rajgokal LIVE on Twitch at 1pm PT/4pm ET! 🌊🌊🌊
+
+Watch here: https://t.co/axt0YJ2EM3 https://t.co/wEMl3OUzWI",275,29,44,2022-02-02
+2019,2022-02-03 15:21:47+00:00,1489257815944269829,solana,"Over 1,100 builders from around the world have registered for the #Riptide Hackathon! 🌍
+
+Join them today and compete for a chance to win up to $5 million in prizes &amp; seed funding. ⚔️
+
+https://t.co/gXCeGqd4tL",455,60,97,2022-02-03
+2022,2022-02-04 17:01:29+00:00,1489645295789125638,solana,DAOs in 2022 https://t.co/8yuPUD64gF,604,59,145,2022-02-04
+2026,2022-02-05 13:19:17+00:00,1489951767509057538,solana,😍 https://t.co/toBNBBjymS,1073,89,169,2022-02-05
+2029,2022-02-07 23:17:06+00:00,1490826988063502343,solana,"It was a great week of chewing glass at #HackerHouseLA... but the World Tour is just getting started.
+
+Register now for #HackerHouseSeattle Feb. 9th-13th 💪 https://t.co/iqSUfCM3n0 https://t.co/xd5ZMF4fXN",686,103,127,2022-02-07
+2034,2022-02-08 15:51:38+00:00,1491077267594031108,solana,"Inspired? Learn more about Solana Pay, the newly released, open, and free-to-use payments framework built on Solana: https://t.co/gu6TZr7vl5",162,26,40,2022-02-08
+2037,2022-02-09 15:14:11+00:00,1491430233815543811,solana,"1/ Thousands of developers, designers, and entrepreneurs are already building in the #Riptide Hackathon!
+
+🏆 $5 million in prizes &amp; funding up for grabs
+🗓️ Project submissions due by March 17
+
+Join the largest startup competition in the world right now at https://t.co/gXCeGpW1rL https://t.co/93eeSg2IrB",531,70,135,2022-02-09
+2040,2022-02-10 03:26:41+00:00,1491614571936710656,solana,"Get caught up building and miss a #Riptide livetream?
+
+Don't worry. You can catch the wave again 🌊 https://t.co/rUheRpd0qR",307,63,63,2022-02-10
+2046,2022-02-11 16:18:08+00:00,1492171101283176457,solana,"1/ 🌊 #Riptide update! @farawaygg, the team behind the hit game @MiniNations, is sponsoring a $30k prize for the Gaming Track.
+
+Learn more and get building: https://t.co/gXCeGpVtCd",498,69,100,2022-02-11
+2049,2022-02-14 16:03:19+00:00,1493254535816441862,solana,Riptide Workshop: Chainlink Workshop https://t.co/TI9TMiQgU6,322,77,67,2022-02-14
+2051,2022-02-15 17:39:59+00:00,1493641253166075906,solana,Riptide Workshop: The future of Decentralized Exchange https://t.co/uD3TWfYQ5e,333,62,80,2022-02-15
+2055,2022-02-16 02:58:15+00:00,1493781744851451909,solana,"It's time to start building.
+
+Follow the @hackerhouses World Tour to find out when they're coming to your city 🔥 https://t.co/vuKELIp2pU",314,52,58,2022-02-16
+2059,2022-02-17 00:14:00+00:00,1494102795569487872,solana,"🌊 The currents are strong 🌊
+
+There are dozens of $30k company prizes at stake during #Riptide. Will your team win one of them?
+
+Learn more: https://t.co/Dr0mPY1gSY https://t.co/yQsP3q6ZOY",490,111,115,2022-02-17
+2061,2022-02-18 17:05:57+00:00,1494719848672161795,solana,Riptide Workshop: The future of Decentralized Exchange https://t.co/WVABx4YBDQ,330,45,73,2022-02-18
+2064,2022-02-19 16:23:47+00:00,1495071625015963648,solana,"Join the Solana @hackerhouses crew for a special, scenic train ride from Berlin to #HackerHousePrague 🚞
+
+Sign up: https://t.co/4N249EqVML https://t.co/pAl1EGpP8O",344,235,84,2022-02-19
+2065,2022-02-20 14:52:34+00:00,1495411059938795520,solana,"Projects, built. 🛠
+Glass, chewed.  🍷
+#HackerHouseDubai, complete. 💪
+
+Find your people at the @hackerhouses World Tour. Next stop: Moscow. https://t.co/CDAf1CosTa https://t.co/dWYrzO0x9y",917,139,223,2022-02-20
+2066,2022-02-21 21:42:00+00:00,1495876483159576585,solana,"""What's it like building on Solana during the #Riptide hackathon?""
+
+🌊 https://t.co/gXCeGpVtCd https://t.co/BQOAOm4nMJ",523,79,99,2022-02-21
+2067,2022-02-22 06:13:00+00:00,1496005080415444992,solana,"Another successful Solana @hackerhouses down 💪
+
+Here's what was built for #HackerHouseSG. What will you make in Moscow and Prague? https://t.co/YVEL6cJpFW https://t.co/RtHOxWBXLb",767,100,150,2022-02-22
+2069,2022-02-23 16:14:45+00:00,1496518904692318212,solana,"2022 is the year of composability.
+
+https://t.co/elIgxwVvdx https://t.co/iMKLqoFVsT",365,54,66,2022-02-23
+2071,2022-02-24 20:57:45+00:00,1496952510439096321,solana,"Developers, are you ready to build? 🔥
+
+Sign up for a new email just for devs, with the latest resources, commits, and more.  https://t.co/dcueCJt25j https://t.co/GTABksHcSR",598,121,135,2022-02-24
+2072,2022-02-25 18:00:25+00:00,1497270273124581377,solana,@gajeshnaik This is very cool,20,2,1,2022-02-25
+2073,2022-02-26 23:15:55+00:00,1497712057575165953,solana,#HackerHouseNYC registration is open 🔥 https://t.co/ANgZ8DAetq,410,109,81,2022-02-26
+2076,2022-03-01 16:01:00+00:00,1498689770897108992,solana,"🌊🚨 #Riptide workshop alert! 🚨🌊
+
+Today at 12p ET/9a PT, @ryu_sigma will teach you how to cross-compose with 01 exchange.
+
+📺 Watch: https://t.co/VkBlkWqI6g https://t.co/pe159qc0k9",198,31,37,2022-03-01
+2080,2022-03-02 17:12:55+00:00,1499070258845556746,solana,"1/ If you’re gonna ride the wave, you gotta ride it in style 🌊
+
+Win a special #Riptide hackathon surfboard NFT — which can be redeemed for a real-life one! 🏄
+
+10 winners. 2 announced each day.
+
+Retweet this to enter.
+
+Learn more about #Riptide 👇 https://t.co/gXCeGpVtCd https://t.co/i4vNXFsQ3A",1850,360,2154,2022-03-02
+2083,2022-03-03 13:38:12+00:00,1499378608711819270,solana,👀 https://t.co/zF26as3BPS,478,84,65,2022-03-03
+2089,2022-03-04 17:01:22+00:00,1499792127378743297,solana,"On a special episode of the Solana Podcast, @sergattic talks about @_AidForUkraine, a DAO created by @everstake_pool to support Ukraine during the ongoing crisis and how it came together on @buildwithnation.
+
+💪 Learn: https://t.co/8PfUt1JkHX
+
+🎧 Listen: https://t.co/L8P3Pq0QH0 https://t.co/O1bJhloiMV",314,55,81,2022-03-04
+2091,2022-03-05 21:19:12+00:00,1500219399315275779,solana,"Drumroll, please... 🥁
+
+Today's #Riptide NFT winners are @revickza and @DUMBLUCKDEV!
+
+Submit your project to the #Riptide hackathon: https://t.co/gXCeGpVtCd
+
+Only 2 more to go. Enter by retweeting this 👇 https://t.co/hTJELIjcru",422,129,178,2022-03-05
+2093,2022-03-07 02:44:46+00:00,1500663718329257985,solana,Are you riding the wave? https://t.co/EyI7J19oJM,166,42,33,2022-03-07
+2096,2022-03-08 15:33:13+00:00,1501219496110997505,solana,"Get your glasses ready 🍷
+
+On the latest episode of Chewing Glass, @therealchaseeb talks building with Solana dev, Cookbook contributor, and @phantom Developer Relations Evangelist @bfriel_.
+
+📺 Watch: https://t.co/NqGdQG8HUv https://t.co/FzhPnfdJOt",436,76,87,2022-03-08
+2097,2022-03-09 20:14:31+00:00,1501652674718142478,solana,"Vibe. Mint. Build.
+
+#SolanaMiami and #HackerHouseMiami, coming Apr. 5-10 ☀️ https://t.co/iGY9dfEIlU",360,89,75,2022-03-09
+2098,2022-03-10 16:10:06+00:00,1501953551194537985,solana,"It's time to give back.
+
+Learn how to make charity NFTs with @getchangehq and @metaplex 👇 https://t.co/o2GkaXrO4f",274,68,60,2022-03-10
+2100,2022-03-11 15:24:47+00:00,1502304534521171978,solana,DAOs + DeFi 🔥 https://t.co/B5UREGzjuW,308,57,63,2022-03-11
+2102,2022-03-12 14:06:20+00:00,1502647180401778690,solana,Gm #SolanaSaturday https://t.co/9cWKgCeuwQ,329,83,35,2022-03-12
+2103,2022-03-14 14:32:38+00:00,1503378574954356742,solana,"There are 3 days left to enter your project for the Riptide Hackathon! 🌊
+
+Submissions are due on March 17 at 11:59pm PT. 👇
+https://t.co/gXCeGpVtCd",453,192,106,2022-03-14
+2105,2022-03-15 17:10:11+00:00,1503780611999387650,solana,"In the latest episode of the Solana Podcast, @1ultd and @d4bba talk to special guest host @joemccann about @Syndica_io, a web3 blockchain infrastructure company focused on the Solana ecosystem.
+
+🎧 Listen: https://t.co/SKfT3YdeW2 https://t.co/rxAFyhGT3c",297,67,49,2022-03-15
+2106,2022-03-16 13:59:25+00:00,1504094990892515332,solana,Solana Devs https://t.co/xkpp27wxEi https://t.co/vijfBHbX2W,312,43,39,2022-03-16
+2109,2022-03-17 15:11:47+00:00,1504475593470971907,solana,"🌊 The wave is almost here!
+
+You have until 11:59pm PT to submit your project to #Riptide, the global Solana hackathon. There's $5 million in prizes and seed funding at stake! https://t.co/Dr0mPYiRKw",469,86,82,2022-03-17
+2112,2022-03-18 01:28:48+00:00,1504630870703017984,solana,Gm,4036,747,329,2022-03-18
+2113,2022-03-19 13:41:50+00:00,1505177730387697664,solana,What are we building today? #SolanaSaturday,1820,541,184,2022-03-19
+2116,2022-03-20 21:12:18+00:00,1505653481201315843,solana,"🗽🛠 #HackerHouseNYC was a glimpse into the future.
+
+Solana @hackerhouses are where the decentralized revolution is being built. What are you going to make?
+
+Show the world at #SolanaMiami🌴, running April 5th-10th. https://t.co/Ea07u8DK6O https://t.co/uDD7cJZ8MR",1129,312,335,2022-03-20
+2118,2022-03-22 18:57:20+00:00,1506344291651702793,solana,Built on Solana 💪 https://t.co/oyUdZ3CprF,586,85,105,2022-03-22
+2119,2022-03-23 19:53:59+00:00,1506720938817163267,solana,"Are you coming to #SolanaMiami? 
+
+April 5 –  April 10
+RSVP 👇
+https://t.co/Ea07u8m9fg",509,91,103,2022-03-23
+2123,2022-03-25 13:23:57+00:00,1507347557650944012,solana,Not wrong https://t.co/gWyYNXVwfg,336,33,38,2022-03-25
+2126,2022-03-26 12:57:28+00:00,1507703282466177027,solana,👀 https://t.co/HWNw8UxsEY,802,108,141,2022-03-26
+2127,2022-03-28 20:36:02+00:00,1508543456771289095,solana,"1/ Thanks to all who participated in the Riptide Hackathon! 🙏
+
+Browse the project directory &amp; vote for your favorites. The Community Choice Prize will be awarded to the project that receives the most votes.
+
+https://t.co/gAh7JzsWOy",471,196,85,2022-03-28
+2134,2022-03-29 15:58:00+00:00,1508835876079505409,solana,"On this episode of the Solana Podcast, @mattytay and  @Tristan0x talk @ZetaMarkets, an under-collateralized DeFi derivatives platform.
+
+🎧 Listen: https://t.co/m7UnxadnjU https://t.co/eDJrKUg6Cu",376,44,84,2022-03-29
+2136,2022-04-01 20:09:20+00:00,1509986291185860616,solana,See you there 🙌 https://t.co/RkRfthuU4V,719,85,118,2022-04-01
+2137,2022-04-04 17:09:40+00:00,1511028240814596107,solana,@therealchaseeb @metaplex is it scalable?,22,1,0,2022-04-04
+2139,2022-04-05 03:53:01+00:00,1511190144656809986,solana,👀 https://t.co/h46JetFM5b,813,93,106,2022-04-05
+2141,2022-04-06 13:16:08+00:00,1511694246423711749,solana,See you there ☀️ https://t.co/Ea07u8m9fg https://t.co/Kq9wzlIjgv,384,44,88,2022-04-06
+2143,2022-04-07 19:02:39+00:00,1512143834326704144,solana,Built on Solana 💪 https://t.co/35xTxjMXNW,591,80,103,2022-04-07
+2147,2022-04-09 06:45:24+00:00,1512683077713154050,solana,@metaplex @womeninnfts Gm,29,9,1,2022-04-09
+2148,2022-04-11 17:15:55+00:00,1513566527785742338,solana,"You made #SolanaMiami the success it was. 
+Thousands in person
+Hundreds of devs 
+40+ project demos
+
+Plus, the announcement of @SolanaConf 2022 in Lisbon!
+
+Stay tuned as @hackerhouses World Tour continues -  RSVP at https://t.co/rOSvCzFl6v https://t.co/oU8efYeGXG",972,133,243,2022-04-11
+2150,2022-04-12 21:25:10+00:00,1513991640792412171,solana,"New Solana Podcast episode just dropped! 🎙️
+
+@NigelEccles is the co-founder and CEO of Vault Laboratories. VAULT is a new creator platform that uses the power of Web3 to unlock the next generation of fan experiences. @joemccann joins as a guest host.
+
+https://t.co/JfhnpA3VZT https://t.co/0M3OgZmlLv",330,57,57,2022-04-12
+2151,2022-04-13 22:04:17+00:00,1514363872504913926,solana,"23/ Fifth place in the #Riptide #Gaming track goes to @BB_PokerClub, an NFT-powered poker community. https://t.co/Ye8I49usg7",61,11,16,2022-04-13
+2186,2022-04-16 17:46:53+00:00,1515386261682499588,solana,"The path to onboarding the first billion people to self-custody is becoming clearer by the day. 
+
+The transformation is just getting started 🔥 https://t.co/wX7q0XDbHs",634,124,118,2022-04-16
+2188,2022-04-19 14:14:44+00:00,1516420034054266893,solana,"🍷 New on Chewing Glass: @italocasas of @soldev introduces @therealchaseeb to the @anchorlang Programs Registry — a new tool for Solana developers.
+
+Devs, you don't want to miss this. https://t.co/xkFBNvItv9 https://t.co/KckbQsohQq",357,79,76,2022-04-19
+2189,2022-04-20 20:59:55+00:00,1516884387563986945,solana,"You can now develop on Solana from your browser 🥳
+Say hello to the first browser IDE for @anchorlang https://t.co/hdjFLAiCEU",782,117,181,2022-04-20
+2192,2022-04-22 21:04:57+00:00,1517610433653399552,solana,"2/ In order to offset the already-low energy impact, @SolanaFndn funded the permanent destruction of CFC and HFC refrigerants — greenhouse gasses 10,000x as potent as CO2. https://t.co/RLXyuKJuTw",325,70,79,2022-04-22
+2198,2022-04-23 16:20:52+00:00,1517901327598333952,solana,@Tyson_Fury gm #SolanaSaturday,18,5,2,2022-04-23
+2199,2022-04-24 11:55:50+00:00,1518197019323609090,solana,@Tyson_Fury @SatoshiSports @metaplex Welcome to #Solana!,51,10,1,2022-04-24
+2200,2022-04-27 14:48:57+00:00,1519327748946280453,solana,"On the latest episode of the Solana Podcast, @aliquotchris of @saydialect talks on-chain messaging, dapp notifications, and developer tooling with guest host @joemccann.
+
+🎧 Listen: https://t.co/rN4JHKZQnT https://t.co/s3J83fj2pq",311,61,64,2022-04-27
+2202,2022-04-28 16:47:29+00:00,1519719964877414401,solana,"Miami is the city of sun... and Solana ☀️
+
+If you're a dev interested in building on Solana, be sure to register for the upcoming @activate_build hackathon on May 18-22! 
+
+💰$100k in prizes up for grabs
+👩‍🎓$45k in scholarships
+
+https://t.co/ovL0RAgi3K",374,97,78,2022-04-28
+2203,2022-04-29 18:38:04+00:00,1520110181828513794,solana,"What happened at the @hackerhouses at @CryptoBahamas?
+
+Building, shipping, and vibing ☀️
+
+Solana Hacker Houses are coming to a city near you. Next up: #HackerHouseBengaluru https://t.co/rOSvCzFl6v https://t.co/Nl04jPreFw",530,104,111,2022-04-29
+2204,2022-04-30 18:27:13+00:00,1520469839915077632,solana,"The Solana Foundation Hacker House is coming to India! 🇮🇳
+
+Join the community in Bengaluru for 5 days of educational programming, building, vibes &amp; more. Follow @hackerhouses for updates.
+
+⬇️ RSVP Now ⬇️
+https://t.co/hnDCD6g0YG https://t.co/b39FqD2aGz",2213,168,280,2022-04-30
+2205,2022-05-01 03:38:01+00:00,1520608451906662400,solana,"@Austin_Federa @hudsonjameson @metaplex @SolanaStatus @laine_sa_ Check the discord! It's totally open, everything is done in public.",26,5,0,2022-05-01
+2206,2022-05-02 17:57:44+00:00,1521187197780729857,solana,"GM, new Solana Games account 👋 https://t.co/87Buz3SyIP",667,93,86,2022-05-02
+2207,2022-05-03 15:38:06+00:00,1521514443628326918,solana,"On this episode of the Solana Podcast, @KanavKariya of @jump_  tells @Austin_Federa about his optimism for the future of the crypto and blockchain space.
+
+🎧 Listen: https://t.co/qI1nSibI1o https://t.co/NQWFOmCqKJ",380,139,80,2022-05-03
+2208,2022-05-04 15:10:34+00:00,1521869904609169409,solana,Signing on Solflare mobile via Ledger X’s Bluetooth connection 🥳 https://t.co/OWyuCtSLHI,380,60,60,2022-05-04
+2212,2022-05-06 15:21:17+00:00,1522597374559981570,solana,"1/ 💸 #SolanaPay took over @AtlasCafe_SF to showcase the future of payments.
+
+Watch @SherazShere demo a brand new Solana Pay feature — transaction requests, which enables merchants to bring on-chain interactivity to their purchase flows. https://t.co/pQ9ovmFukh https://t.co/PDlWqIVF0u",1876,448,685,2022-05-06
+2216,2022-05-07 16:31:00+00:00,1522977307291435010,solana,"Bring all the power of transactions on Solana into the real world with #SolanaPay transaction requests 💸
+
+See what happened when Solana Pay took over @AtlasCafe_SF! https://t.co/pQ9ovmFukh https://t.co/vJDtvzXxgG",962,118,217,2022-05-07
+2217,2022-05-08 17:21:15+00:00,1523352342338359297,solana,"Are you listening to the Solana Podcast?
+https://t.co/fhqZtyMRh5 https://t.co/UkqkDp1Onw",283,73,37,2022-05-08
+2220,2022-05-10 16:03:31+00:00,1524057553470111745,solana,NFTs are coming to Instagram 🥳 https://t.co/UGj4PJEHuX,1760,225,378,2022-05-10
+2221,2022-05-17 02:04:00+00:00,1526382998307880965,solana,"The vibes at the Bengaluru Solana @hackerhouses were unmatched. More than 78 projects presented during Demo Day! 🤯
+
+Coming up next: #HackerHouseTokyo 🇯🇵 
+
+What will you build? Register now: https://t.co/I6I4bliMCH https://t.co/mLq2td1fbo",868,96,176,2022-05-17
+2224,2022-05-19 19:11:01+00:00,1527366232307306499,solana,A must-read resource for Solana validators 👇 https://t.co/0ZD7we751N,383,95,80,2022-05-19
+2225,2022-05-22 14:22:27+00:00,1528380776072499200,solana,"Hey builders, did you see this thread from @solana_devs? 👇https://t.co/T07zsQuyBy",490,124,117,2022-05-22
+2226,2022-05-23 14:17:36+00:00,1528741942569205763,solana,"#HackerHouseX are community-organized @hackerhouses supported by the @SolanaFndn 🔥
+
+Find out about upcoming Hacker Houses at https://t.co/rOSvCzWVY3 https://t.co/bpRrpHszuU",411,96,99,2022-05-23
+2227,2022-05-24 16:28:49+00:00,1529137353964412928,solana,Brave launches support for Solana 🎉 https://t.co/KHWucMoXxU,1979,322,548,2022-05-24
+2229,2022-05-25 19:02:53+00:00,1529538513305485312,solana,"The Scaffold Series begins 
+Part 1: Wallet Adapter
+Part 2: Wallet Balance
+Part 3: Sending SOL
+
+https://t.co/WGqA4TS1v8 https://t.co/1D23NQ0zUz",301,85,62,2022-05-25
+2230,2022-05-27 17:50:25+00:00,1530245053393776640,solana,"Interested in jumpstarting your crypto project over the coming nights &amp; weekends?  Join a select group of 100 devs in @_buildspace's newest program!⚒️
+
+🏃‍♀️6-week sprint 
+📽️Online mentorship &amp; workshops
+🗓️Commences June 18
+
+Applications are due by June 1!⬇️
+https://t.co/JDlFhiajpz https://t.co/kR7eQqfMki",517,234,192,2022-05-27
+2231,2022-05-30 18:30:19+00:00,1531342254824165385,solana,Solana Summer (School) starts on June 15th! https://t.co/qwEbujKEnn,696,167,177,2022-05-30
+2232,2022-06-02 16:45:17+00:00,1532402986340667392,solana,"Europe, let's build 🔥 Get ready for a special series of Solana x @Jump_ @HackerHouses this summer for European builders!
+
+Coming to...
+🇬🇧London
+🇪🇸Barcelona
+🇷🇸Belgrade
+🇫🇷Paris
+🇵🇱Kraków
+🇭🇺Budapest
+🇸🇪Stockholm
+
+👇Learn more &amp; register today👇
+https://t.co/qUGgrTnTLK https://t.co/XpsiXfIEo3",7103,674,700,2022-06-02
+2234,2022-06-07 15:05:50+00:00,1534189900370681859,solana,"On this episode of the Solana Podcast, @Brett_FTX talks to @Austin_Federa about CeFi, DeFi, @FTX_Official, and his hopes for the future.
+
+🎧 Listen: https://t.co/1zpqKGiBR5 https://t.co/DhPAiryCgl",598,162,175,2022-06-07
+2235,2022-06-09 22:22:50+00:00,1535024648441810946,solana,@aeyakovenko 👏👏👏,71,8,4,2022-06-09
+2236,2022-06-10 14:32:46+00:00,1535268741835112450,solana,@AverExchange 👀,24,7,0,2022-06-10
+2237,2022-06-11 12:12:10+00:00,1535595744811524096,solana,Gm,6841,1708,566,2022-06-11
+2239,2022-06-14 15:23:52+00:00,1536731152752558081,solana,"On the latest episode of the Solana Podcast, @redacted_noah and @_austbot talk with @Austin_Federa about integrating @StrataProtocol's Dynamic Pricing Mint tool into the @metaplex Program Library.
+
+🎧 Listen: https://t.co/k0lhCl92yM https://t.co/1EhyDxhJwl",501,126,123,2022-06-14
+2240,2022-06-15 18:52:55+00:00,1537146149659869185,solana,"The upgraded implementation of the durable nonce transaction feature was released on both Testnet and Devnet yesterday, and is currently in testing – developers can follow progress on GitHub https://t.co/As2zflSLe8",495,79,101,2022-06-15
+2242,2022-06-16 01:38:55+00:00,1537248321030471681,solana,👀 https://t.co/BJrQBdmtQS,351,99,50,2022-06-16
+2243,2022-06-17 19:39:28+00:00,1537882641155825664,solana,@aeyakovenko SMS 👀,81,16,5,2022-06-17
+2244,2022-06-20 16:15:08+00:00,1538918380702511104,solana,WAO https://t.co/Yj4sLpPsBF,685,141,163,2022-06-20
+2246,2022-06-21 15:02:15+00:00,1539262428013289472,solana,"The Saga Begins
+
+06.23.22 https://t.co/AD0wbtkQDU",4821,486,935,2022-06-21
+2248,2022-06-23 17:04:34+00:00,1540017986622341121,solana,"What is SMS?
+
+1/",5592,952,1242,2022-06-23
+2257,2022-06-25 20:25:43+00:00,1540793383869812737,solana,"The Solana Foundation x @Jump_ Hacker House is coming to Serbia from July 2-6! 🇷🇸
+
+Join the crypto community in Belgrade for 5 days of educational programming, building, vibes &amp; more.
+
+⬇️ Space is limited. RSVP Now! ⬇️
+https://t.co/9N9XhwD1Cw",1002,145,146,2022-06-25
+2258,2022-06-27 15:44:16+00:00,1541447328040730625,solana,"👀
+https://t.co/pmJe7MUzQl https://t.co/Gek6oe2p8L",383,74,67,2022-06-27
+2259,2022-06-28 19:30:52+00:00,1541866740442959874,solana,"For the builders at the @Solana x @jump_ Hacker House in Barcelona, it's always time to ship.
+
+Next @hackerhouses: Belgrade 🇷🇸 July 2nd-6th
+
+Register now: https://t.co/rOSvCzFl6v https://t.co/QtKoZIokAQ",511,100,162,2022-06-28
+2261,2022-06-29 00:48:43+00:00,1541946730417102849,solana,"You’ve heard about three new technologies devs are bringing to Solana:
+
+🔵 QUIC
+🔵 Stake Weighted QoS 
+🔵 Local Fee Markets
+
+Now there’s a new place you can quickly check to see how development, rollout, and adoption  are progressing
+
+Introducing  https://t.co/BimwquDFpU",1139,121,311,2022-06-29
+2263,2022-06-30 19:15:29+00:00,1542587647360729088,solana,"Solana is decentralized and globally distributed 💪
+
+3,482 Nodes
+Validators: 1,802 
+RPCs: 1,680
+Nakamoto Coefficient of 27 https://t.co/XVPKBOdax6",1202,323,278,2022-06-30
+2266,2022-07-04 22:03:13+00:00,1544079409627500549,solana,"Did you know you can get the Monthly Community Update emailed to you when it publishes? 
+
+Like and subscribe below 🔥
+https://t.co/sPHdTjVGxx",418,73,90,2022-07-04
+2267,2022-07-05 14:59:14+00:00,1544335099839275011,solana,"On the latest episode of the Solana Podcast, @syrupsid of @maplefinance talks to @joemccann about the tooling that could bring CeFi businesses onto DeFi rails.
+
+🎧 Listen: https://t.co/lWZmgHZDZT https://t.co/462MVL3Glq",329,66,136,2022-07-05
+2269,2022-07-06 15:41:52+00:00,1544708216600379392,solana,"The Solana Foundation x @Jump_ Hacker House is coming to France from July 15-19! 🇫🇷
+
+Join the crypto community in Paris for 5 days of educational programming, building, vibes &amp; more.
+
+⬇️ Space is limited. RSVP Now! ⬇️
+https://t.co/FKp0SPziKq",718,109,143,2022-07-06
+2270,2022-07-07 16:54:28+00:00,1545088874434666497,solana,"Get ready to build ⛺️
+
+Coming soon. https://t.co/x5jAbKEdmu https://t.co/ZGhaGlQP0l",1924,247,668,2022-07-07
+2271,2022-07-11 15:14:02+00:00,1546513151209922563,solana,"3/ While #SolanaSummerCamp is an online event, Solana eco projects will be hosting free, month-long coworking spaces in San Francisco, Salt Lake City, Chicago, London, Lisbon, Berlin, Amsterdam, Belgrade &amp; Singapore.🌍
+
+Sign up and get building. Good luck!
+https://t.co/YVEL6cJpFW",176,31,30,2022-07-11
+2277,2022-07-12 12:30:33+00:00,1546834397999104000,solana,"Over 2,500 builders globally are already participating in the Solana Summer Camp Hackathon! 🏕️
+
+Join them to compete online for prizes, seed funding, and glory! 🏆
+
+⬇️Register &amp; start building today⬇️
+https://t.co/x5jAbKEdmu",406,62,93,2022-07-12
+2279,2022-07-13 13:03:16+00:00,1547205018385874944,solana,"Over 4,000 hackathon builders in the first 2 days!🤯
+
+🗓️Project submissions are due on August 16
+🏆$5 million in prizes &amp; seed funding up for grabs
+
+Join now⬇️
+https://t.co/x5jAbKEdmu https://t.co/YVyCUZRyPk",320,60,76,2022-07-13
+2280,2022-07-14 13:26:03+00:00,1547573137675456513,solana,"6/ For full documentation on Solana, RPC infrastructure, validators, and more, dig into the official Solana docs. 🛠️
+
+https://t.co/5YTynC5EAi",104,32,22,2022-07-14
+2287,2022-07-15 13:30:51+00:00,1547936735396368387,solana,"Many of the largest Solana dapps started their journeys by winning a Solana online hackathon, including @Stepnofficial. A few tips:
+
+🔍 Find a product gap in the ecosystem
+📢 Create a Twitter account early
+🤝 Engage w/ the community now
+
+Join 6k+ builders: https://t.co/x5jAbKmBXU https://t.co/6ONH5vbYUE",404,93,90,2022-07-15
+2288,2022-07-16 18:17:47+00:00,1548371330755530753,solana,Build (in) A Bear https://t.co/BJgwIAE0cQ,578,108,97,2022-07-16
+2289,2022-07-18 11:42:16+00:00,1548996571290894336,solana,"7,000+ builders globally have joined the Summer Camp Hackathon!
+
+🔌Online, anyone with an internet connection can participate
+💰$5 million in prizes &amp; seed funding up for grabs
+🗓️Project submissions are due by August 16
+
+👇Register &amp; start building today👇
+https://t.co/x5jAbKEdmu https://t.co/6qPe4WenuJ",544,72,206,2022-07-18
+2291,2022-07-19 01:10:36+00:00,1549199994539986949,solana,"Join these web3 climate superstars tomorrow for a brainstorming sesh on winning Solana summer hackathon climate prize
+
+@realbirju, Loam
+@mbkeating, serial climate founder 
+@jackpolicar, @ToucanProtocol 
+@RJMidway, Solana climate report
+@amiravalliani 
+
+https://t.co/ZBfMDwJJQ3",308,73,72,2022-07-19
+2293,2022-07-20 11:30:11+00:00,1549718308609466371,solana,@armaniferrante WAO,32,12,6,2022-07-20
+2295,2022-07-21 13:55:28+00:00,1550117257220460549,solana,"Please welcome four new #SolanaSummerCamp Hackathon judges!
+
+@iamnomad
+@cmsintern
+@DavidTiczon
+@jackshaftoes
+
+Join 10,000+ builders today: https://t.co/x5jAbKmBXU https://t.co/ycxnS6PERk",356,87,138,2022-07-21
+2297,2022-07-22 18:05:03+00:00,1550542453987758080,solana,"4/ It’s on the chain. This cool Solana windbreaker will protect you from inclement weather — maybe even winter.
+
+Get your preorder: https://t.co/Lhskgp6owL https://t.co/7eWRZSX8f5",123,32,104,2022-07-22
+2304,2022-07-23 20:04:52+00:00,1550934994712936454,solana,What did you build today? #SolanaSaturday,1037,440,136,2022-07-23
+2305,2022-07-25 15:03:45+00:00,1551583992402558976,solana,"1/ Over 12,000 participants are now building in the Summer Camp Hackathon!🏕️
+
+Joining an online hackathon enables developers &amp; entrepreneurs to bring their project ideas to life, raise seed funding &amp; form communities around new crypto products. 🚀
+
+👉 https://t.co/x5jAbKEdmu https://t.co/NA8mdOfbgY",1023,133,234,2022-07-25
+2308,2022-07-26 12:23:59+00:00,1551906174735421440,solana,"10/ And finally, Singapore 🇸🇬
+
+Started July 23
+Hosted by @ZetaMarkets, @solanafm, @MetacampDAO, and @ApricotFinance 
+
+https://t.co/3YDvPiEMU3",82,16,22,2022-07-26
+2319,2022-07-27 19:20:20+00:00,1552373338382671873,solana,@knox_trades Throwback Wednesday,31,1,1,2022-07-27
+2321,2022-07-29 18:42:29+00:00,1553088591596765184,solana,"Thousands of @lollapalooza attendees visited the Solana Compound and minted their first free NFT yesterday!
+
+Stop by on Day 2 for prizes, VIP passes, and more! 🎶
+
+https://t.co/MYczZFdBiE https://t.co/mogVtJ4vlp",613,89,217,2022-07-29
+2325,2022-07-30 16:04:50+00:00,1553411304509120513,solana,"ICYMI - ticket to #SolanaBreakpoint, the annual Solana community conference, are now available! https://t.co/vOVkX4il7T",425,67,97,2022-07-30
+2326,2022-08-01 13:20:41+00:00,1554094768334012419,solana,"Thanks to everyone at @lollapalooza for another great weekend.🙏
+
+It was special to see thousands of festival goers interacting for the first time with NFTs during the Dopamine Treasure Hunt!🤳
+
+Another step towards bringing NFTs &amp; crypto to the masses.
+
+https://t.co/MYczZFdBiE https://t.co/B2omw4aHg1",503,72,181,2022-08-01
+2328,2022-08-05 20:12:36+00:00,1555647982556614659,solana,"2/ The Squid Prize is named after @fordudesake, the first winner, and was most recently given out to @sainteclectic for their educational threads.
+
+The winner of the Summer 2022 prize receives $20,000 USDC and will be passed the unique Squid Prize NFT.
+
+https://t.co/0Co8HIceFq",173,39,32,2022-08-05
+2332,2022-08-08 22:34:41+00:00,1556770904235032578,solana,"1/ Devs, keep on top of the latest changes to Solana. Break it down with the Solana Changelog.
+
+📺 https://t.co/zK6JySGzic",381,55,141,2022-08-08
+2334,2022-08-09 12:01:00+00:00,1556973819264241665,solana,"The Solana x @jump_ Hacker House in Kraków was the place to build.
+
+What will you make?
+
+Coming next to:
+🇸🇪 Stockholm
+🇮🇳 New Delhi
+🇨🇦 Vancouver
+
+https://t.co/YVEL6crOhm https://t.co/ELLXC7RkXz",421,102,154,2022-08-09
+2337,2022-08-12 22:58:00+00:00,1558226321867620352,solana,"The developers at the Solana x @wormholecrypto @hackerhouses in Seoul were building the internet of the next generation. Are you?
+
+Join the thousands of registrants in the #SolanaSummerCamp Hackathon. https://t.co/OmZpsYVCoe https://t.co/FAAKBswZCD",516,82,151,2022-08-12
+2339,2022-08-15 11:28:42+00:00,1559140017196367872,solana,"2 days left to submit a project for the Summer Camp Online Hackathon! 🏁
+
+https://t.co/OmZpsZddMO",438,85,104,2022-08-15
+2340,2022-08-16 20:42:38+00:00,1559641808250015746,solana,"Remember! 
+
+It's the final day of the Solana Summer Camp Hackathon!
+
+Make sure to submit your projects by 11:59pm PST this evening. Good luck!
+
+⬇️Project Submission Form⬇️
+
+https://t.co/OmZpsZddMO",292,85,64,2022-08-16
+2342,2022-08-17 11:49:15+00:00,1559869965628489729,solana,"The Solana Summer Camp Hackathon has ended. Thanks to builders from 100+ countries for participating!🙏
+
+It was by far the biggest turnout yet in terms of the number of developers &amp; projects submitted.📈
+
+Judging will commence soon &amp; hackathon winners will be announced by Sept 8. https://t.co/MT7dvdBgrE",782,147,174,2022-08-17
+2343,2022-08-19 16:07:00+00:00,1560659605599883264,solana,"Today is the last day for nominations for the next Squid Prize 🦑
+
+If there's a person you know that has made the Solana community a better place, submit their name here: https://t.co/kGnygRErLE https://t.co/DF8tm22Ljx",279,87,80,2022-08-19
+2344,2022-08-22 13:15:53+00:00,1561703705518526467,solana,🤯👀 https://t.co/1DIMphKtgb,508,124,109,2022-08-22
+2345,2022-08-23 09:20:40+00:00,1562006902447513603,solana,Coinbase Wallet launches support for the Solana dapp ecosystem 💪 https://t.co/NmLWHVlN3h,674,95,151,2022-08-23
+2347,2022-08-24 11:31:51+00:00,1562402301423362049,solana,"Developers: apply for a special discounted pass to Breakpoint, Nov 4-7th in Lisbon, Portugal! 
+
+To qualify your project needs to have raised less than $10m. 
+
+Apply now – the first rounds of developer tickets to #SolanaBreakpoint are coming this week. 
+
+https://t.co/WCXmN39Ddi",304,89,81,2022-08-24
+2348,2022-08-25 18:13:24+00:00,1562865742059806722,solana,Built on Solana 💪 https://t.co/9dF0vr6Evl,437,94,117,2022-08-25
+2349,2022-08-26 20:39:28+00:00,1563264888679862272,solana,2/ The judges are now reviewing the projects and will be selecting winners soon. Stay tuned for an announcement highlighting the winners by Sept. 8! 🏆 https://t.co/3xjRXcmxr8,256,58,53,2022-08-26
+2351,2022-08-29 13:30:00+00:00,1564243976617467904,solana,"The builders came out to the Solana x @jump_ Hacker House in Stockholm 🔥 
+
+Are you ready to take your idea to the next level? 
+
+See you at #HackerHouseDilli 🇮🇳 https://t.co/TPSTLQ2nKF https://t.co/E6dXccLwAg",637,148,152,2022-08-29
+2352,2022-09-07 21:12:08+00:00,1567621765844590592,solana,"Solana Summer Camp Update 🏕️
+
+Due to the number of quality project submissions, the hackathon winners' announcement will be pushed to early next week.
+
+Every project deserves a thorough review. Thank you to all 18,000+ participants for your patience! 🙏",1155,229,263,2022-09-07
+2353,2022-09-14 16:06:08+00:00,1570081473117683712,solana,"22/ 📈 Fifth place in the #SolanaSummerCamp DeFi Track goes to @Ona_HQ, a social trading platform on Solana that allows you to create or invest in perp trades with friends. https://t.co/E9TibF0L7j",68,1,11,2022-09-14
+2390,2022-09-15 14:03:30+00:00,1570412998598033410,solana,"On this episode of the Solana Podcast, @amirhaleem tells @Austin_Federa the @helium story and the current proposal to transition to Solana.
+
+🎧Listen: https://t.co/tXNFQKtBT1 https://t.co/tskini2YjG",434,88,196,2022-09-15
+2391,2022-09-17 17:23:41+00:00,1571188153628692482,solana,👀 big news for creators #SolanaNFTs https://t.co/nKK6i4gxXD,475,100,130,2022-09-17
+2392,2022-09-20 14:05:35+00:00,1572225460737642496,solana,"5/ The climate ecosystem on Solana is growing, and the energy use report is just the start.
+
+Learn more about Solana's carbon footprint, its commitment to a carbon neutral blockchain, ecosystem projects, and grants for climate-positive projects at https://t.co/trVy4g9P1s 🌳",146,7,41,2022-09-20
+2398,2022-09-21 19:02:04+00:00,1572662462788554753,solana,"freeCodeCamp is Building a Solana Curriculum 👀
+https://t.co/bEj0EIghWN https://t.co/gNz7NYNjqH",310,43,80,2022-09-21
+2399,2022-09-22 17:18:06+00:00,1572998684895313921,solana,☀️🎈 https://t.co/pRhcRlNq5z,876,70,160,2022-09-22

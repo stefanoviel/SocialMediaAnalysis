@@ -1,0 +1,1831 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2021-01-10 08:47:24+00:00,1348189686989279232,GainsNetwork_io,"If you have any question: https://t.co/xWOSDiWhVL
+
+We are almost done with unit testing and have added  features that will bring even more value to the token and ecosystem.
+
+We will also run a hackathon before deploying the new contracts.",10,5,1,2021-01-10
+1,2021-01-12 17:58:25+00:00,1349053133767507969,GainsNetwork_io,"Vulnerability solved, new features added, unit tests done. 
+
+We're ready to launch the hackathon tomorrow! More details coming soon",4,0,2,2021-01-12
+2,2021-01-14 09:47:45+00:00,1349654427054067714,GainsNetwork_io,"@NunNguyen1 it would allow to quickly see how many tokens were minted and burned since the beginning of the trading platform.
+
+when you win a trade, the tokens are minted, and when you lose, the tokens are burned.",1,1,0,2021-01-14
+3,2021-02-10 20:06:27+00:00,1359594598822273024,GainsNetwork_io,"✔️ All unit tests done for the upgraded trading contract!
+
+⏳ Working on the front-end integration.
+
+🔒 @certikorg starts the audit tomorrow.
+
+📊 Building the first decentralized leveraged trading platform of its kind. #GFARM2 
+
+#DeFi #Uniswap #YieldFarming #NFT",34,1,14,2021-02-10
+4,2021-02-15 06:53:01+00:00,1361206866441867269,GainsNetwork_io,"⏳ We are getting close to the launch!
+
+🔐 The community has voted to wait until the final audit by @certikorg before deploying. (comes in a few days)
+
+📈 The trading platform will open with 3 pairs (BTC/USD, ETH/USD, ?) Vote for the third one!
+
+#DeFi #Uniswap #NFT #YieldFarming",33,1,18,2021-02-15
+5,2021-02-18 16:19:25+00:00,1362436567315472393,GainsNetwork_io,"We're working on an L2 scaling solution for our trading platform.
+
+Goals:
+
+⛽ Almost 0 gas fees
+🖱️ Instant transactions
+📈 Cheaper and more decentralized real-time price requests
+
+@certikorg waiting for the pre-audit results🔐
+
+#DeFi #Uniswap #YieldFarming #NFT",51,6,28,2021-02-18
+6,2021-02-19 18:52:17+00:00,1362837425039540225,GainsNetwork_io,"The community has choosed to delay the deployment of the upgraded trading platform to launch directly on L2!
+
+All details here: https://t.co/XWhRRPdwVA
+
+#Chainlink #Polygon #DeFi #YieldFarming",28,7,14,2021-02-19
+7,2021-03-02 20:08:08+00:00,1366842782976012292,GainsNetwork_io,"Latest update on our progress towards the L2 integration of our trading platform! https://t.co/Xi0rEQnTsp
+
+#DeFi #NFT #Chainlink #Polygon #YieldFarming",59,2,27,2021-03-02
+8,2021-03-24 19:14:45+00:00,1374801879276916741,GainsNetwork_io,"Improving the front-end to provide the best gas-free decentralized leveraged trading experience on L2!
+
+#DeFi #NFT #Chainlink #YieldFarming @0xPolygon https://t.co/6XuW15DlnY",41,0,20,2021-03-24
+9,2021-04-06 14:27:24+00:00,1379440609073696772,GainsNetwork_io,"🎉 Our Decentralized Leverage Trading Platform is live on the @0xPolygon Mainnet!
+
+🚀 Buy GFARM2 on @QuickswapDEX: 0x7075cAB6bCCA06613e2d071bd918D1a0241379E2
+
+⛽ &lt; $0.001 per trade
+📊 Trade BTC, ETH, and LINK (up to 150x leverage)
+💧 Stake LPs and earn trading fees
+
+#DeFi #NFT",108,14,44,2021-04-06
+10,2021-04-13 06:21:53+00:00,1381855139661774848,GainsNetwork_io,"💧 Earn $QUICK rewards for GFARM2/ETH and GFARM2/QUICK!
+
+🚀 Improved website design coming soon
+
+🔥 #GFARM2 unique tokenomics: trading platform burning tokens since launch
+
+📈 Proud to be the first decentralized leverage trading platform live on Polygon
+
+#DeFi #NFT #Quickswap",39,3,21,2021-04-13
+11,2021-04-15 15:42:52+00:00,1382721092838645760,GainsNetwork_io,"Great progress being made on our new design.
+Coming very soon...
+
+#DeFi #Chainlink #NFT #Uniswap #Quickswap https://t.co/HhxJPypc4k",40,1,18,2021-04-15
+12,2021-04-18 08:05:20+00:00,1383693111155519493,GainsNetwork_io,"🔥 100 GFARM2 tokens were burned during this event due to liquidations (0.28% of the supply)
+
+Try the first reliable on-chain decentralized leveraged trading experience on Layer 2: https://t.co/P7lXsXbJBo",34,1,12,2021-04-18
+14,2021-04-19 13:17:47+00:00,1384134131219529738,GainsNetwork_io,"🎉 Our new design is live! https://t.co/DlMfh2Yjhq
+📄 Check our new documentation here: https://t.co/eJGEb5yuLH
+🛣️ Medium term roadmap coming soon...
+
+#DeFi #NFT #Polygon #Chainlink #Quickswap https://t.co/VOGrRwbzAn",44,4,26,2021-04-19
+15,2021-04-25 14:27:03+00:00,1386325890716602375,GainsNetwork_io,"🎉 Glad to announce the first part of our roadmap is done!
+
+🖥️ 1. Chainlink nodes already aggregate the result before sending to the aggregator contract
+📈 2. Custom charts with our prices (unlimited indicators)
+🔗 3. Now using 7 APIs (5 before)
+
+#Chainlink #DeFi #Polygon #NFT https://t.co/Y2kixtbcII",42,2,17,2021-04-25
+16,2021-04-27 15:30:20+00:00,1387066590290718721,GainsNetwork_io,"🔎 An overview of our custom architecture built on #Chainlink to achieve real-time aggregated prices (5 nodes, 7 data sources)
+
+📱 Live on our #Polygon mainnet trading platform!
+
+📈 Up to 150x trading from your wallet:
+https://t.co/P7lXsWU8JQ
+
+#DeFi #NFT @0xPolygon @chainlink https://t.co/fbpMv0Zcri",274,11,84,2021-04-27
+18,2021-04-28 13:47:34+00:00,1387403116694417413,GainsNetwork_io,"📈 Up to 150x #DOGE leverage trading coming soon!
+
+💰 Trade directly from your wallet (no broker)
+⛽ Almost no gas fees ($0.001)
+🖥️ 100% decentralized on-chain execution
+🔥 #Chainlink + #Polygon integration
+
+1. Buy GFARM2 on #Quickswap
+2. Start trading: https://t.co/P7lXsWU8JQ https://t.co/muT6j5pji6",58,8,29,2021-04-28
+19,2021-04-29 13:22:55+00:00,1387759299749945353,GainsNetwork_io,"As a trader, your probability of winning is higher on https://t.co/stuyhOWcCy (80-90% of losing traders vs 56.9%).
+
+You are also protected against scam wicks (prices aggregated from 7 exchanges in real time)
+
+And you don't have to pay high funding fees!",11,0,2,2021-04-29
+20,2021-04-30 15:11:03+00:00,1388148903749603329,GainsNetwork_io,"🛣️ Making good progress on our roadmap!
+⏳ Working on our major trading upgrade:
+
+- Limit long/short orders
+- Stop losses
+- Take profits
+- Slippage tolerance
+
+🔥 Check the progress in real time and our next goals:
+https://t.co/phA2IdCS3h
+
+#DeFi #NFT #Polygon #Chainlink",28,1,15,2021-04-30
+21,2021-05-01 12:33:56+00:00,1388471749747093504,GainsNetwork_io,"📈 Why should you trade on https://t.co/m0hqBxSBkg?
+
+🔥 Experience the first truly decentralized leverage trading experience on #Polygon L2
+
+🖥️ 1st mainnet custom #Chainlink integration ever for real-time aggregated prices.
+
+#DeFi is now better than centralized platforms 👇 https://t.co/uyzYTxmUxy",45,3,28,2021-05-01
+22,2021-05-02 07:45:47+00:00,1388761624475996162,GainsNetwork_io,"📈 Vote for the token you want to see listed next week!
+
+💰 You will be able to trade it with leverage on #Polygon L2 here: https://t.co/d4vWNbbAF9
+
+$ADA $MATIC $UNI $AAVE",77,5,34,2021-05-02
+23,2021-05-03 19:35:25+00:00,1389302595538333700,GainsNetwork_io,"https://t.co/m0hqBxSBkg has the first #DeFi utility #NFTs:
+
+📈 Trade with less spread
+💰 Execute limit orders, stop losses, take profits, and liquidations to earn passive rewards
+🔥 Stake up to 5 NFTs in the pool to boost your APY
+
+Follow our progress: https://t.co/eJGEb5gTU9 https://t.co/FsZSybz3c8",40,0,19,2021-05-03
+24,2021-05-05 05:55:48+00:00,1389821107243569159,GainsNetwork_io,"🔍 Latest article on our trading platform custom integration with #Polygon and #Chainlink
+
+🔥 Live on mainnet.
+📈 $13.5m volume and 330 trades in the past 24 hours.
+
+#DeFi #NFT
+
+https://t.co/qCOQux7qSH",46,1,28,2021-05-05
+25,2021-05-06 06:33:51+00:00,1390193072982659073,GainsNetwork_io,"🎥 How to use our decentralized leverage trading platform? https://t.co/P7lXsWU8JQ
+
+✅ Easy tutorial for beginners! (unofficial)
+
+https://t.co/0FMEZZxJUJ
+
+#DeFi #NFT #Polygon #Chainlink",33,0,21,2021-05-06
+26,2021-05-09 17:49:53+00:00,1391450366080917512,GainsNetwork_io,"📈 600+ trades, $22m volume (last 24h)
+💧 Infinite liquidity (no order books)
+💰 0% funding rate
+👍 Aggregated prices =&gt; no scam wicks
+🔥 100% powered by a custom real-time #Chainlink nodes network.
+👉 $0.001 #Polygon tx fees
+
+Trade from your wallet: https://t.co/d4vWNbbAF9 https://t.co/bDd3zdCl0u",41,3,21,2021-05-09
+27,2021-05-10 12:17:33+00:00,1391729116995543046,GainsNetwork_io,"🔊 We're hosting an AMA in the official @0xPolygon $MATIC telegram group
+
+🔥 Decentralized leverage trading, #NFTs, yield farming and more!
+
+💰*$400 giveaway* of #GFARM2 for top questions
+
+Date: 🗓 Today, 10th May, 2021 Monday
+Time: 1.30 PM UTC (1h and 15 min from now)",35,1,17,2021-05-10
+28,2021-05-12 07:18:37+00:00,1392378664520720385,GainsNetwork_io,"📈 Vote for the token you want to see listed this week!
+
+💰 Trade it with leverage on #Polygon L2 here: https://t.co/d4vWNbbAF9
+
+👍 Prices 100% coming from aggregated real-time chainlink price feeds
+
+$ADA $LTC $UNI $AAVE",33,4,21,2021-05-12
+29,2021-05-13 19:28:50+00:00,1392924815770718215,GainsNetwork_io,"Follow our progress on the big trading upgrade with the roadmap: https://t.co/phA2IdCS3h
+
+- Stop Losses &amp; Take Profits
+- Limit orders
+- Market orders with slippage tolerance
+- Multiple trades per pair
+
+And much more!
+
+#Polygon #Chainlink #DeFi #NFT",39,2,18,2021-05-13
+30,2021-05-15 13:39:22+00:00,1393561645801213955,GainsNetwork_io,"📢 We have just listed $ADA on the platform!
+
+🔥 Enjoy fast &amp; gasless transactions, and real time price feeds secured by a custom #Chainlink integration. 
+
+👉 Trade with up to 150x leverage directly from Metamask: https://t.co/DDWngO8FkM
+
+#Polygon #DeFi #NFT https://t.co/BCPSPg52H9",46,2,18,2021-05-15
+31,2021-05-17 19:17:01+00:00,1394371397380722694,GainsNetwork_io,"⏳ Don't forget to check our progress on the roadmap! https://t.co/phA2IdCS3h
+
+🔒 5th Certik audit paid and organized (trading update)
+
+📈 Trade $BTC, $ETH, $LINK, $DOGE, $MATIC, and $ADA with leverage directly from your wallet: https://t.co/P7lXsWU8JQ https://t.co/wKaBcVYLpF",34,1,14,2021-05-17
+32,2021-05-19 14:49:30+00:00,1395028848056676360,GainsNetwork_io,"⚠️ Major exchanges are experiencing outages
+✅ https://t.co/m0hqBxSBkg isn't experiencing any issue
+👍 Trade aggregated prices with leverage using our custom #Chainlink real-time price feeds
+
+#DeFi #NFT $MATIC $LINK
+
+https://t.co/bQTsDyu1DC",38,3,15,2021-05-19
+33,2021-05-21 19:28:31+00:00,1395823840534700033,GainsNetwork_io,"✅ True spot prices leverage trading #Chainlink
+💯 Fully decentralized on-chain execution #Polygon
+👍 No fake wick during high volatility events
+⚙️ Update coming soon (limit orders, SL, TP)
+
+👉 Try now: https://t.co/P7lXsWU8JQ
+
+#DeFi #NFT https://t.co/p8SaFFumEh",23,0,13,2021-05-21
+34,2021-05-23 19:27:07+00:00,1396548264569233415,GainsNetwork_io,"Summary since our #Polygon launch 2 months ago:
+
+📈 10k+ trades opened
+💰 688 GFARM2 rewards in the liquidity pool
+🔥 1.5k GFARM2 burnt (4%+ of the circulating supply)
+
+👉 Discover our ecosystem: https://t.co/DlMfh3fUG0
+
+#DeFi #NFT #Chainlink #GFARM2 https://t.co/spsRAwOymz",41,0,16,2021-05-23
+35,2021-05-26 17:49:08+00:00,1397610771203432452,GainsNetwork_io,"@BizzaroJonny If the page doesn't load, it comes from the RPC you added in Metamask for Matic, it most likely is overloaded. Please add another one:
+
+https://t.co/zzv6DCymxb
+https://t.co/Njk5Y3lngK
+https://t.co/2NdTPfUYzB
+https://t.co/GoR9azzKSx
+https://t.co/YZJeqC8bWV
+
+@0xPolygon",2,1,0,2021-05-26
+37,2021-05-31 13:36:58+00:00,1399359247696138240,GainsNetwork_io,"🎉 Contracts &amp; unit tests finished!
+
+💡 New important features such as stop losses, take profits, limit orders, and slippage tolerance!
+
+🔒 Improved security for our #Chainlink real-time architecture -&gt; hybrid (uses price feeds as reference)
+
+https://t.co/phA2IdCS3h
+
+#DeFi #NFT",27,1,11,2021-05-31
+39,2021-06-03 19:11:13+00:00,1400530530815381507,GainsNetwork_io,"👇 Vote for the token you want to see listed next!
+
+📈 Trade it with leverage on $MATIC L2 here: https://t.co/d4vWNbbAF9
+
+🔥 Median spot prices with our custom real-time #Chainlink price feeds
+
+$SUSHI $SNX",17,1,10,2021-06-03
+40,2021-06-08 16:04:34+00:00,1402295498912960513,GainsNetwork_io,"📊 Trading stats since our launch:
+
+🔥 2,400 GFARM2 tokens burnt (≈7% of the supply)
+💧 1,000 GFARM2 tokens distributed to liquidity providers (fees, no inflation)
+📈 12,000 trades opened
+
+Learn more: https://t.co/eJGEb5gTU9
+
+#DeFi #NFT #Chainlink #PolygonMatic",24,0,16,2021-06-08
+41,2021-06-12 19:19:17+00:00,1403794050948472834,GainsNetwork_io,"📢 Before going live on the #Polygon mainnet, the major update will be accessible on the testnet soon...
+
+- Limit orders
+- Take profits &amp; Stop losses
+- Slippage tolerance
+- Multiple trades per pair
+
+And much more...
+
+Follow our progress: https://t.co/phA2IdCS3h
+
+#DeFi #NFT",27,4,19,2021-06-12
+42,2021-06-20 19:04:45+00:00,1406689497580982284,GainsNetwork_io,"⏳ We're working hard to launch the new trading update soon!
+
+🤖 The #NFT bot that will execute the limit orders on the platform is almost ready, and we're doing the last tests...
+
+👉 Try the trading update on the Mumbai testnet: https://t.co/HY1rygJnik
+
+#DeFi #Polygon",27,3,12,2021-06-20
+43,2021-06-29 18:07:49+00:00,1409936659911692289,GainsNetwork_io,"🔥 You can now share your open trades on the platform! 
+
+💰 Don't forget to share your referral link: 0.15% reward for both you and traders you bring to the platform
+
+👉 https://t.co/DDWngO8FkM
+
+#DeFi #PolygonMatic #Chainlink #NFT https://t.co/acMwlUhzag",19,5,9,2021-06-29
+44,2021-07-04 14:16:14+00:00,1411690319628931073,GainsNetwork_io,"🍣 NEW: Trade the price of $SUSHI on our platform! https://t.co/dV8LYer9Qy (up to 150x leverage)
+
+💵 Working hard on adding new markets #forex
+
+🦄 Becoming the reference for decentralized leveraged trading, as #Uniswap is for spot trading.
+
+#PolygonMatic #DeFi #NFT",37,13,18,2021-07-04
+45,2021-07-06 18:08:47+00:00,1412473617166839823,GainsNetwork_io,"📢 You can now manage your liquidity for #GFARM2 / DAI on vfat-tools! Thanks to @vfat0 
+
+💧 Earn fees from our decentralized leverage trading platform on #Polygon
+
+🔥 Deflationary farming through a real use case
+
+🤯 Stake #NFTs to boost your LPs
+
+https://t.co/OpAI0IBGHf
+
+#DeFi",19,6,12,2021-07-06
+46,2021-07-08 13:06:23+00:00,1413122290011852808,GainsNetwork_io,"Discover the only decentralized &amp; reliable way to trade with leverage.
+
+- Median spot prices
+- Up to 150x
+- No market impact
+- No funding fee
+- $0.01 gas fees &amp; fast transactions
+- Working limit orders
+- Soon any asset
+
+https://t.co/PraYQozfLW 
+#PolygonMatic #Chainlink #DeFi #NFT",23,2,16,2021-07-08
+47,2021-07-09 06:05:02+00:00,1413378641908670467,GainsNetwork_io,"@bongadronga @Pra46857671 The fees are calculated on the unleveraged amount, therefore the higher leverages have lower fees relative to the total position size, which is an advantage compared to other platforms.
+
+The spread is in % of price, and isn't a disadvantage (or an advantage) for high leverages.",3,0,0,2021-07-09
+48,2021-07-10 12:14:28+00:00,1413834001568120833,GainsNetwork_io,"🔥 Bullish on $AAVE? @StaniKulechov 
+
+📈 Long it with up to 150x leverage, infinite liquidity, and 0 funding fee - possible on our platform only!
+
+👉 https://t.co/DDWngO8FkM
+
+⛽ And no need to worry about gas fees, we're on the #Polygon Layer 2.
+
+#GFARM2 #DeFi #NFT https://t.co/kowBv81Lvl",25,12,14,2021-07-10
+49,2021-07-14 07:54:49+00:00,1415218211935735808,GainsNetwork_io,"⏳ Don't forget to check our roadmap if you want to follow our road to mass adoption: 
+https://t.co/phA2IdCS3h
+
+💬 Join our telegram if you want to participate in this journey: https://t.co/2ZqQ4SNqCY
+
+#DeFi #NFT #Polygon #PolygonMatic #Chainlink",21,1,11,2021-07-14
+50,2021-07-15 05:17:57+00:00,1415541121917329410,GainsNetwork_io,"👇 Vote for the token you want to see listed next!
+
+📊 Trade it with infinite liquidity and up to 150x leverage on #Polygon (https://t.co/d4vWNbbAF9)
+
+$DOT $SNX $UNI #PolygonNetwork #PolygonMatic",17,0,10,2021-07-15
+51,2021-07-21 18:13:55+00:00,1417910726002364417,GainsNetwork_io,"📢 To assert our leading position in decentralized leveraged trading, we are listing 13 new tokens.
+
+$ALGO $BAT $COMP $DOT $EOS $LTC $MANA $OMG $SNX $UNI $XLM $XRP $ZEC (coming very soon...)
+
+👉 Trade with up to 150x leverage &amp; infinite liquidity: https://t.co/d4vWNbbAF9",24,2,14,2021-07-21
+52,2021-07-23 17:51:44+00:00,1418629921358876673,GainsNetwork_io,"📈 We just listed $ALGO $BAT $COMP $DOT $EOS $LTC $MANA $OMG $SNX $UNI $XLM $XRP $ZEC!
+
+📊 https://t.co/m0hqBxSBkg now has 21 cryptocurrencies, making it the leading #DeFi leveraged trading platform.
+
+👉 Trade with up to 150x and infinite liquidity: https://t.co/d4vWNbbAF9",35,2,21,2021-07-23
+53,2021-07-26 08:39:08+00:00,1419578016028663812,GainsNetwork_io,"Don't stay behind. 
+
+Discover the only #DeFi way to trade with high leverage:
+https://t.co/d4vWNbbAF9
+
+An innovative &amp; elegant $MATIC + $LINK + $QUICK integration.
+
+First time hearing about our platform?
+https://t.co/st68zr7avq
+
+#Chainlink #Quickswap #Polygon #PolygonNetwork https://t.co/D22OOI0OPU",103,9,29,2021-07-26
+54,2021-07-27 19:40:28+00:00,1420106834489270275,GainsNetwork_io,"📈 https://t.co/m0hqBxSBkg Trading Contest 🏆 (2/2)
+
+1. RT &amp; like the 1st tweet
+2. Follow @GfarmV2
+3. Join our telegram: https://t.co/jPuWWkCBOM
+4. Trade on https://t.co/dV8LYer9Qy for 1 week
+5. Share 2 profitable trades on twitter
+
+📊 Trading tutorial: https://t.co/st68zr7avq",18,0,5,2021-07-27
+55,2021-07-28 08:49:39+00:00,1420305441054208004,GainsNetwork_io,"🏆 STARTING TODAY: Decentralized Trading Contest!
+
+🥇 $13k+ prizes to win.
+🔥 Up to 150x leverage allowed.
+👉 https://t.co/bOocnRDLz5
+
+📊 Running 24/7, trustless on-chain execution, no sign up, no single point of failure, and open to everyone.
+
+#DeFi #Chainlink #PolygonNetwork",28,3,14,2021-07-28
+56,2021-08-01 18:55:19+00:00,1421907412752162827,GainsNetwork_io,"📊 DAY 4: Decentralized Trading Contest 📊
+💸 $15k+ prizes to win! 💸
+
+🏆 Leaderboard (Trading PnL) 🏆
+🥇 0x4F4 - $4,847
+🥈 0x2e9 - $4,564
+🥉 0x453  - $4,316
+
+👇 Don't be late, only 3 days left! 👇
+https://t.co/jPuWWkCBOM
+
+#Binance #FTX #DeFi #PolygonNetwork $LINK https://t.co/7utuNIOF73",17,2,7,2021-08-01
+57,2021-08-03 18:53:32+00:00,1422631740225511425,GainsNetwork_io,"📊 DAY 6: Decentralized Trading Contest 📊
+💸 $15k+ prizes to win! 💸
+
+🏆 Leaderboard (Trading PnL) 🏆
+🥇 0x2e9 - $4,309
+🥈 0x6f8 - $2,931
+🥉 0x869 - $2,857
+
+👇 Only 1 day left! 👇
+https://t.co/jPuWWkCBOM
+
+#Binance #FTX #DeFi $MATIC #Chainlink https://t.co/LeNH269iII",26,11,9,2021-08-03
+58,2021-08-09 07:53:29+00:00,1424639958103560192,GainsNetwork_io,"🔥 Volume ATH broken! 🔥
+📊 $60m+ trading volume (24h)
+
+💧 180%+ non-inflationary APR (trading fees -&gt; LPs)
+🌏 1st on-demand decentralized oracle network $LINK
+👍 0% funding fee &amp; true asset spot price (median)
+⛽ $0.1 gas fees and fast tx $MATIC
+
+#PolygonMatic #DeFi #Chainlink https://t.co/kIIOqcmELL",62,7,28,2021-08-09
+59,2021-08-23 19:43:03+00:00,1429891958332346372,GainsNetwork_io,"The smart contracts for the v5 trading update are now ready.
+
+Our main priority is now to finish the unit tests so we can give the contracts to @certikorg to get them audited.
+
+Follow our progress here: https://t.co/phA2IdCS3h
+
+#DeFi #Polygon #PolygonMatic #Chainlink #NFT",35,5,13,2021-08-23
+60,2021-09-08 19:28:41+00:00,1435686547911761920,GainsNetwork_io,"We're still working on the v5 trading update and making great progress on the tests. 
+
+A medium article summarizing everything (improved tokenomics, new trading features, better upgradability, ...) will come soon!",36,0,15,2021-09-08
+61,2021-09-15 06:43:20+00:00,1438030658580922374,GainsNetwork_io,"We have just finished the unit tests for the v5 trading update 🎉
+
+@certikorg will review the new contracts, conducting our 5th audit.
+
+A medium article with the short-term roadmap will come soon!
+
+#DeFi #Polygon #Chainlink #QuickSwap",42,4,16,2021-09-15
+63,2021-09-20 10:09:19+00:00,1439894434330681345,GainsNetwork_io,"-""Currently working on the testnet version of the v5 trading update. Will be ready soon.
+-Forex trading will be available on testnet too. ⚡️""
+#DeFi #Polygon #Chainlink #NFT",32,12,11,2021-09-20
+64,2021-09-22 20:24:27+00:00,1440774014037737478,GainsNetwork_io,"Ready to trade forex on testnet? 👀
+$MATIC $LINK https://t.co/syHCYXR3k5",74,10,23,2021-09-22
+65,2021-09-30 14:03:40+00:00,1443577290059747338,GainsNetwork_io,"PLATFORM STATS are here! 📈
+
+-&gt; Total Number of Trades: 77096
+
+-&gt; Total Spot Volume: 207,113 GFARM2 ($103M at current GFARM2 prices)
+
+-&gt; Total Volume: 7,260,010 GFARM2 ($3.6B at current GFARM2 prices)
+
+Who wants a trading contest? 🏆💰",35,7,22,2021-09-30
+66,2021-10-04 18:58:18+00:00,1445100984422785029,GainsNetwork_io,"🥳 Our v5 update is live on the testnet!
+
+How to open your first trade? 📊
+1. Get kovan eth: https://t.co/Kka6iKyis6 $LINK
+2. Claim 10k $DAI https://t.co/JrdNE4Yp2p $ETH $MATIC
+3. Trade 21 cryptos and 10 forex pairs (up to 1000x) 🌟
+
+Join our community: https://t.co/2ZqQ4SNqCY",49,3,24,2021-10-04
+67,2021-10-11 18:47:05+00:00,1447634878980313092,GainsNetwork_io,"Our v5 final audit report just came from @certikorg.
+
+🚀 We are officially ready to deploy on mainnet!
+An article with the short-term roadmap will come soon.
+
+#Polygon #Chainlink #Quickswap",49,6,21,2021-10-11
+68,2021-10-13 19:15:03+00:00,1448366692858572803,GainsNetwork_io,"The beginning of something big 👀
+
+🚀 Earn 3 rewards with GFARM2/DAI LPs:
+- #Quickswap swap fees (10%+ APR)
+- $QUICK rewards (20%+ APR)
+- #GFARM2 leveraged trading fees (80%+ APR)
+
+⌛ Going live with the v5 update (DAI support, forex up to 1000x, ...)
+
+#DeFi #Polygon #Chainlink https://t.co/XVW2Bt8h3t",71,7,33,2021-10-13
+70,2021-10-14 15:53:00+00:00,1448678231293546509,GainsNetwork_io,"🎉 The v5 update is live on the #Polygon mainnet! 🥳
+
+https://t.co/d4vWNbbAF9
+
+📊 Leverage trade with $DAI directly
+💶 10 new forex pairs (up to 1000x) $LINK
+🚜 Dual $QUICK rewards for LPs
+☄️ Superior front-end and UX
+🚀 Better tokenomics
+...
+
+Short-term roadmap coming very soon. https://t.co/zuFx1xfdoT",86,12,37,2021-10-14
+71,2021-10-16 19:45:48+00:00,1449461593348128772,GainsNetwork_io,"@QuickswapDEX @0xPolygon @chainlink 
+
+🚀 Medium term roadmap revealed!
+🔥 Discover our ambitious vision for the protocol.
+☄️ On track to become the Uniswap of leveraged trading.
+
+https://t.co/lwaCRfI8E9
+
+#DeFi #Cryptocurrency #Forex #Trading",41,6,25,2021-10-16
+72,2021-10-18 18:48:05+00:00,1450171844267499524,GainsNetwork_io,"🎉 $30m+ daily volume on our platform!
+🔥 $900k+ daily spot volume generated
+🏆 11th token by volume on #Quickswap
+🌊 100% APR on GFARM2/DAI LPs (deflationary)
+📈 $2.2m+ liquidity TVL (+120% since v5 update)
+
+https://t.co/d4vWNbbAF9
+
+$QUICK $MATIC #DeFi #Chainlink https://t.co/y4opgvCBVg",41,7,18,2021-10-18
+73,2021-10-19 13:58:21+00:00,1450461320369917965,GainsNetwork_io,"We are officially rebranding the project to Gains Network. 
+
+The #GFARM2 token will be migrated to $GNS (Gains Token) with a 1:1000 split.
+
+Roadmap: https://t.co/3wtvI8S5n4
+
+#DeFi #Polygon #Quickswap #Chainlink",55,3,25,2021-10-19
+74,2021-10-21 08:21:53+00:00,1451101418849509379,GainsNetwork_io,"🎉 It's been 1 week since the v5 launch! 🎉
+
+- $118m leveraged trading volume
+- $2m spot #Quickswap volume
+- $36k liquidity rewards
+- $17k gov/dev fees
+- $7.5k #NFT bot rewards
+- 223 #GFARM2 net burn ($145k)
+
+💰 7-day protocol revenue = $60.5k
+
+#DeFi #Polygon #Chainlink",38,1,12,2021-10-21
+75,2021-10-24 15:47:11+00:00,1452300646925864974,GainsNetwork_io,"Which tokens would you like to see listed on the most powerful decentralized leveraged trading platform?💭
+
+📊 Vote for your favorite one to trade its real-time spot price with up to 150x leverage! (no funding fees)
+
+#Chainlink #Polygon @0xPolygon #DeFi #Quickswap",60,5,34,2021-10-24
+77,2021-10-27 15:21:50+00:00,1453381431359639555,GainsNetwork_io,"#GFARM2, the backbone of our decentralized leveraged trading architecture, is being migrated to $GNS!
+
+🚀 It is a 1:1000 token split, which means for every GFARM2 tokens you swap, you will receive 1000 $GNS.
+
+Full instructions: https://t.co/9BIemAMQCw
+
+#Polygon #Quickswap #DeFi",47,8,23,2021-10-27
+78,2021-10-28 08:33:34+00:00,1453641076624044034,GainsNetwork_io,@palomato3k 👀,1,0,0,2021-10-28
+82,2021-11-01 10:36:36+00:00,1455121588681154564,GainsNetwork_io,"Our $GNS utility token has just been listed on CoinMarketCap! 🚀
+
+https://t.co/fCa1s3gg03
+
+CoinGecko listing and Polygonscan info already submitted, coming very soon.
+
+#Polygon #PolygonMatic #PolygonNetwork #QuickSwap",25,1,10,2021-11-01
+83,2021-11-02 07:00:49+00:00,1455429672649560071,GainsNetwork_io,"#Coingecko listing for $GNS, our utility token! 🚀
+
+https://t.co/pGRzXsQRgg
+
+#Polygon #PolygonNetwork #PolygonNetwork",34,5,13,2021-11-02
+84,2021-11-03 14:33:23+00:00,1455905951999987715,GainsNetwork_io,"🎉 We are glad to announce our collaboration with Satoshi Street Bets.
+
+📊 $SSB will be running a whitelabel UI of our decentralized leveraged trading platform for their community of traders.
+
+🔥 Voice AMA at 12 PM CST. (https://t.co/lvw2YtF2xK)
+
+#Polygon #PolygonNetwork #DeFi",34,2,19,2021-11-03
+85,2021-11-12 15:29:46+00:00,1459181632066359306,GainsNetwork_io,"🎉 We're running a decentralized leveraged trading contest with @SatoshiStrBets!
+
+🏆 $30k prizes in $GNS and $SSB
+📈 Top 5 traders by PnL
+📅 Monday 15th - Tuesday 30th
+
+Discover how it feels trading on the #Uniswap of leveraged trading. https://t.co/CKNIbTwTJi 
+
+#Polygon #web3",96,8,49,2021-11-12
+86,2021-11-13 14:13:04+00:00,1459524719359762435,GainsNetwork_io,"Ready to discover the future of leveraged trading?
+
+- On-chain execution
+- 36 cryptos up to 150x
+- 10 forex pairs up to 1000x
+- Median spot prices (no scam wicks)
+- Unique @chainlink, @0xPolygon, and @QuickswapDEX  integration
+
+https://t.co/DdXwWU49Xp
+
+$GNS $LINK $MATIC $QUICK",76,4,19,2021-11-13
+87,2021-11-14 20:35:41+00:00,1459983396185247750,GainsNetwork_io,"🏆 Our $30k trading contest in collaboration with @SatoshiStrBets starts in a few hours! (0:00 UTC)
+
+📊 How to participate: https://t.co/pzs6BwoBo6
+
+👉 How to use the platform: https://t.co/DCc6Q65y6M
+
+Any question? Ask the community! https://t.co/WHpLR3vXEi
+
+#Polygon #DeFi",19,1,7,2021-11-14
+88,2021-11-15 08:53:59+00:00,1460169194629214209,GainsNetwork_io,"@abovethought Yes, our $GNS / $DAI pool is the counterparty for trades as well as our second DAI-only liquidity layer. Feel free to join the telegram community, we're most active there! https://t.co/WHpLR3vXEi",3,0,0,2021-11-15
+90,2021-11-17 14:32:13+00:00,1460979090408841231,GainsNetwork_io,"🔥 We are hiring MarketAccross for our next PR marketing campaign for https://t.co/lLrWB5eRfL / $GNS.
+
+Includes at least 25 organic articles and also other types of promotion. 🚀
+
+The campaign should start in about 4 weeks, currently preparing the details... 
+
+#Polygon #DeFi",44,4,25,2021-11-17
+91,2021-11-21 07:41:04+00:00,1462325171549786120,GainsNetwork_io,"⏳ 10 days left, last moments to join! @SatoshiStrBets 
+🏆 $30k prizes.
+🥉 $2,809+ trading PnL =&gt; 3rd place on the current leaderboard. Do you think you can do it? 👇
+
+Decentralized Trading Contest details: https://t.co/4m2qETREk5
+Tutorial: https://t.co/xrsDumM8Pi
+
+#DeFi #Polygon https://t.co/j13zZeiXay",40,2,15,2021-11-21
+92,2021-11-23 13:51:05+00:00,1463143066127187970,GainsNetwork_io,"@Elyx0 It is: https://t.co/WPzZ46wOm5
+
+Feel free to join our community on telegram if you have any question or want to participate! https://t.co/WHpLR3vXEi",1,0,0,2021-11-23
+93,2021-11-28 19:06:53+00:00,1465034478498287623,GainsNetwork_io,"We are the leading decentralized leveraged trading architecture for capital-efficiency.
+
+But it's soon getting even a lot better:
+
+📈 Stake DAI to earn DAI with our new vault.
+🔥 Better scaling of max collateral.
+💪 More robust to big trading PnL swings.
+
+#Polygon #DeFi $MATIC",29,8,17,2021-11-28
+95,2021-11-29 07:15:18+00:00,1465217792429498372,GainsNetwork_io,@Crypatoshi @ashwathbk @CapDotFinance @StarkWareLtd https://t.co/lLrWB5eRfL has liquidations at -90%. Enjoy trading,22,0,9,2021-11-29
+96,2021-12-01 14:49:11+00:00,1466056789405876232,GainsNetwork_io,"Glad to announce a whitelabel partnership with @PolyDoge!
+
+They are hosting the front-end themselves, further contributing to the decentralization of our protocol.
+
+Check it out: https://t.co/ZmKiv2iRjm
+
+#DeFi #Polygon $MATIC $DOGE https://t.co/IitOzgbk5c",82,3,37,2021-12-01
+98,2021-12-02 20:05:31+00:00,1466498787413745666,GainsNetwork_io,"Also: our NFTs have been redesigned! Check them out on the https://t.co/CTmx4ShCiC homepage.
+
+(soon NFT migration =&gt; integrated metadata)",15,0,1,2021-12-02
+100,2021-12-04 16:14:16+00:00,1467165366090674176,GainsNetwork_io,"Our GNS/DAI pool is currently rewarding stakers with a weekly average 174% APR, with all the rewards coming from the trading platform's fees. 
+The rewards are deflationary instead of being based on printing and inflating $GNS!⚖️
+Pool on #Polygon here: https://t.co/46Pc4dRXET",35,2,12,2021-12-04
+101,2021-12-05 08:58:24+00:00,1467418066061598722,GainsNetwork_io,@0xPolygon @OurNetwork__ 👀,27,3,6,2021-12-05
+105,2021-12-06 06:45:09+00:00,1467746918193410050,GainsNetwork_io,"@Zed_Erazer Plenty of people lose a lot of money using 0 leverage. Should we shut down financial markets?
+
+As said before, 150x is totally usable for very short-term trading. Here is a ressource on scalping: https://t.co/XqlYl8dGqR",0,0,0,2021-12-06
+108,2021-12-08 13:50:47+00:00,1468578806608891910,GainsNetwork_io,"📊 Advantages of our new DAI vault revealed 📈
+
+🔎 Discover how our industry-leading trading engine is about to become even superior!
+
+🔥 TL;DR: 0% price impact trades, better scaling of position sizes, less fees, more robust.
+
+https://t.co/UvMqcXm0Z6
+
+$MATIC $LINK #Polygon #DeFi",73,15,34,2021-12-08
+109,2021-12-10 20:26:11+00:00,1469403088364711941,GainsNetwork_io,"💬 Join our reddit and telegram
+
+👐 We are a genuine community, if you want to participate don't hesitate!
+
+🍿 Grab popcorn and watch the future of decentralized leveraged trading being built.
+
+https://t.co/frX3hT2roU
+https://t.co/WHpLR3vXEi
+
+$GNS #Polygon #PolygonNetwork $MATIC",52,6,28,2021-12-10
+110,2021-12-11 16:30:43+00:00,1469706221401915405,GainsNetwork_io,@0xPolygon Wen mainnet?,12,0,4,2021-12-11
+111,2021-12-13 20:29:54+00:00,1470491187089973253,GainsNetwork_io,"📈 Gains Network has just been listed on @DefiLlama.
+
+📊 gTrade has just surpassed $1b (yes, billion) in trading volume since the v5, exactly 2 months ago!
+
+🔥 And we have a lot coming... Stay tuned!
+
+$GNS $MATIC #Polygon #PolygonNetwork https://t.co/PVfNkrp5Bf",86,8,37,2021-12-13
+112,2021-12-14 15:10:08+00:00,1470773106843262980,GainsNetwork_io,Also: this is not a derivatives/perpetual contract. The price used by the platform is the median of 7 crypto spot exchanges.,32,1,0,2021-12-14
+114,2021-12-18 06:58:02+00:00,1472098816312623104,GainsNetwork_io,"🚀 Our TVL has just reached above $4m!
+💰 Current APR: 100% (= 171% APY)
+💧 Rewards = fees on gTrade, not inflation
+🔥 Current annualized $GNS burn rate = 30%
+
+TL;DR 171% APY on $GNS/DAI while the $GNS supply is shrinking by 30% per year.
+
+https://t.co/46Pc4dRXET
+
+$MATIC #Polygon https://t.co/19bdEMmCuV",81,6,40,2021-12-18
+115,2021-12-19 11:40:58+00:00,1472532403885326336,GainsNetwork_io,"✨ Improvements to the pools page UI!
+
+🤫 Added DAI Vault stats: 250%+ estimated APY with $200k TVL (opening soon).
+
+💧 GNS/DAI APY is 150%+, coming from gTrade fees only.
+
+📈 Added token stats: 27.63% yearly deflation on the $GNS supply.
+
+https://t.co/46Pc4dRXET
+
+$MATIC #Polygon https://t.co/XYuuF6TRI3",50,4,19,2021-12-19
+117,2021-12-20 19:47:08+00:00,1473017142396207111,GainsNetwork_io,More details on this update: https://t.co/tRPQuHpUSQ,23,0,8,2021-12-20
+118,2021-12-21 06:07:23+00:00,1473173232157138947,GainsNetwork_io,"Our 6th audit is now live on our @certikorg page! 
+
+Security is our priority. We never publish any change to mainnet without proper unit tests and an audit.
+
+This 6th one was for the new $DAI trading vault.
+
+https://t.co/WPzZ46wOm5
+
+$MATIC #Polygon #PolygonNetwork",53,5,20,2021-12-21
+119,2021-12-22 11:17:18+00:00,1473613613772337161,GainsNetwork_io,"🚀 gTrade has just reached $80m in 24h leveraged trading volume!
+
+📈 Max collateral size is now $22k+ (3.5x growth in less than 2 days).
+
+📊 $DAI vault has surpassed $1m TVL earning 38% APY.
+
+Trading: https://t.co/lLrWB5ws7j
+Staking: https://t.co/46Pc4dAmgj
+
+#Polygon $MATIC #DeFi https://t.co/tiZTtd75JG",68,8,31,2021-12-22
+120,2021-12-25 06:46:34+00:00,1474632645044809728,GainsNetwork_io,"🎅 Merry christmas to everyone in the $GNS community! 
+
+- TVL reached $8m.
+- 24h trading volume reached highs of $80m+.
+
+Thanks to all active liquidity providers and users of #gTrade.
+
+The path to reaching our true potential is revealing itself now, and it is only the beginning. https://t.co/vP5yXV6EyQ",98,6,42,2021-12-25
+121,2021-12-26 16:44:05+00:00,1475145402127114250,GainsNetwork_io,@cryptobvll A new datapoint is added every 24 hours.,4,0,0,2021-12-26
+122,2021-12-30 14:08:18+00:00,1476555751502102532,GainsNetwork_io,Also in case you're not convinced yet: trades have 0% price impact.,33,0,2,2021-12-30
+123,2021-12-31 20:59:08+00:00,1477021529095512069,GainsNetwork_io,"🔥 We have started providing LPs using leverage fees! 
+
+📈 Instead of renting liquidity, we want the protocol to own it -&gt; send rewards to a $GNS staking pool.
+
+🚀 $GNS staking will open with 10% of the GNS/DAI incentives when we reach a 10% share (now 1.69%).
+
+$MATIC #Polygon https://t.co/KHl7nGKt5h",95,15,34,2021-12-31
+124,2022-01-02 13:24:15+00:00,1477631828257296390,GainsNetwork_io,"We are glad to announce our utility token $GNS has been included in the $PECO (Polygon Ecosystem Index) allocations! @Amun
+
+$MATIC #Polygon #PolygonMatic #PolygonNetwork https://t.co/OHQBuh6tZk",177,11,46,2022-01-02
+127,2022-01-05 14:21:59+00:00,1478733522521231360,GainsNetwork_io,"Huge thanks to the polygon team for their support. 
+The start of something big...",67,1,13,2022-01-05
+128,2022-01-06 16:09:49+00:00,1479123046661177347,GainsNetwork_io,"📈 V5 Protocol revenue (LPs + NFTs + Project) reached $1 million in only 82 days.
+
+💧 Protocol owns $600k (7%) of the $GNS/DAI liquidity.
+
+📊 $GNS/DAI 24h volume is $6.9 million (#8 on Quickswap).
+
+🔥 24h volume on gTrade is above $40 million.
+
+$MATIC #Polygon #PolygonNetwork https://t.co/Evqq3kijxX",96,7,39,2022-01-06
+129,2022-01-07 00:22:28+00:00,1479247025820647425,GainsNetwork_io,"The leveraged trading incentives with Polygon are live!
+
+📊 $125k+ trading contest (50k $MATIC, $25k in $GNS)
+
+📈 1,000 traders rewarded
+
+🔎 Read if you want to participate: https://t.co/MtFaPv9EE9
+
+Join our telegram: https://t.co/PPBdIFlFMk
+
+$MATIC $LINK #Polygon #PolygonNetwork",97,5,43,2022-01-07
+130,2022-01-10 20:47:04+00:00,1480642367703207937,GainsNetwork_io,"🎉 gTrade has just broken $2 billion in volume since the v5 launch! (3 months ago)
+
+🚀 Approaching 1,000 total users and 200 daily users. (≈ 100% growth in 1 month)
+
+📊 24h volume on gTrade: $1.5m spot (collaterals), $52m leveraged (incl. leverage)
+
+#Polygon $MATIC $LINK https://t.co/H5J1iGqpsV",115,5,50,2022-01-10
+132,2022-01-17 15:10:34+00:00,1483094399496204289,GainsNetwork_io,"We are glad to announce the release of our new chat on gTrade! 🎉
+
+Share trade ideas and discuss with our community directly on the platform. 💬
+
+The chat is still a beta and will be improved. 🚀
+
+Built using Moralis by a community member @IvanOnTech @MoralisWeb3
+
+$MATIC #Polygon https://t.co/8QVSjE78WR",97,7,34,2022-01-17
+133,2022-01-19 21:17:28+00:00,1483911510896353289,GainsNetwork_io,"🎉 New daily volume ATH of $155,813,891 on gTrade!
+
+🚀 Want to participate in growing the platform and own a share of the revenue generated from fees? 
+
+$DAI vault = $3.4m TVL @ 27% APY
+$GNS/DAI LPs = $13.1m TVL @ 111% APY (deflationary)
+
+https://t.co/BsWHTmJskz
+
+$MATIC #Polygon",77,9,28,2022-01-19
+134,2022-01-21 21:32:23+00:00,1484640038461788174,GainsNetwork_io,"🚀 All-time volume on gTrade just surpassed $3 billion!
+💰 24h protocol fees = $114,109 (ATH).
+🔥 $1.5 million of $GNS burnt in the past month.
+
+📊 Extrapolated revenue per year ≈ $60 million.
+
+Participate and earn your share: https://t.co/46Pc4dRXET
+
+$MATIC #Polygon https://t.co/YIAiltvQfd",77,8,32,2022-01-21
+136,2022-01-27 10:19:34+00:00,1486645048280297475,GainsNetwork_io,"🎉 v6 contracts are ready (fully unit tested)!
+
+@CertiKTech is starting the audit in the following days.
+
+TL;DR: Guaranteed stop losses, less gas cost, better protocol risk management, smaller per-trade minimum collateral, ...
+
+https://t.co/SbaQEvgciJ
+
+$GNS $MATIC #Polygon $LINK",90,4,37,2022-01-27
+138,2022-02-01 10:35:44+00:00,1488461055143694336,GainsNetwork_io,#gTrade should also reach $4 billion in all-time volume within a few hours... $GNS https://t.co/h0LLKrZ9d2,40,1,6,2022-02-01
+139,2022-02-02 08:57:41+00:00,1488798768212422659,GainsNetwork_io,"💰 January 2022 gTrade revenue:
+
+📈 Trading volume: $2.152 billion
+📊 Total revenue: $3.896 million
+
+🛠️ 4.78% went to the development team. 
+
+🔥 95.22% flowed back into the project: $GNS holders, LPs, NFTs, $LINK oracles, etc.
+
+https://t.co/CTmx4ShCiC
+
+#Polygon $GNS $MATIC https://t.co/D3Jr7u4GwX",248,24,71,2022-02-02
+141,2022-02-09 07:44:17+00:00,1491317010235805697,GainsNetwork_io,"🏆 $GNS contest rewards have been distributed!
+
+🥇0xCFCC ($15k)
+🥈0xD79F ($7.5k)
+🥉0x51F5 ($2.5k)
+
+The 50,000 $MATIC rewards will be distributed to the top 1,000 by @0xPolygon as soon as possible.
+
+Congrats to all winners! 🚀
+
+#Polygon #PolygonNetwork",68,4,23,2022-02-09
+142,2022-02-10 09:16:37+00:00,1491702634700578817,GainsNetwork_io,"📊 Brand new improved UI is live! 🎉
+
+📈 We are continously working on the front-end to make it the most easy and satisfying decentralized leveraged trading platform that ever existed. 
+
+🚀 Check it out: https://t.co/lLrWB5eRfL
+
+$GNS $MATIC #Polygon #PolygonNetwork https://t.co/eHl4WvfQfq",93,10,29,2022-02-10
+143,2022-02-14 09:23:26+00:00,1493153902048468993,GainsNetwork_io,"@donawhat They aren't broken, they take some time to load because only 1 minute candles are stored in the backend and it needs to generate the 4 hour candles from this data. We'll store 1 hour candles too very soon, so this will load 60x faster.",0,2,0,2022-02-14
+146,2022-02-15 19:52:33+00:00,1493674614437916673,GainsNetwork_io,"The v6 transition which was planned in 10 minutes is delayed by 12 hours because Polygonscan is currently down. 
+
+It will happen tomorrow, February 16th from 8 am to 8.30 am UTC.",49,1,8,2022-02-15
+147,2022-02-16 06:58:54+00:00,1493842305547214850,GainsNetwork_io,"@donawhat @0xPolygon The $MATIC payment is being processed by the Polygon team and should be done this week. Sorry for the waiting, this is out of our control. Thanks",1,2,0,2022-02-16
+148,2022-02-18 08:51:45+00:00,1494595479480541187,GainsNetwork_io,"📝 Long-term roadmap with ETAs for gTrade revealed!
+
+🚀 Road to $10b daily volume by Q4 2023
+
+Discover all exciting features we plan to add to the platform over the next year: 
+https://t.co/sbc0W3OHth
+
+$GNS $MATIC #Polygon #PolygonNetwork",124,11,63,2022-02-18
+149,2022-02-24 08:40:00+00:00,1496766850209914882,GainsNetwork_io,"Addressing the current situation and the last few days in regards to the underwhelming user experience due to the recent issues with the Polygon chain.
+
+""We will solve anything that gets between us and our vision.""
+
+https://t.co/gKhaJE7ydQ",56,10,10,2022-02-24
+150,2022-03-03 19:52:27+00:00,1499472794647736329,GainsNetwork_io,"📈 Major optimizations to gTrade's website, including a block confirmations system and better reorgs handling.
+
+🎉 Feedback from traders is overwhelmingly positive!
+
+📊 Minor optimizations will also be continuously implemented in the following days/weeks.
+
+$GNS $MATIC #Polygon",60,5,23,2022-03-03
+151,2022-03-05 16:14:49+00:00,1500142801304104960,GainsNetwork_io,"Yesterday, gTrade reached a new daily volume ATH of $324,808,152!
+
+Trade 43 cryptocurrencies up to 150x leverage and 10 forex pairs up to 1000x leverage on-chain.
+
+- No funding fees
+- 0% price impact
+- Median spot prices powered by #Chainlink
+
+📊 https://t.co/lLrWB5eRfL 📊 https://t.co/vWwUfFp1qq",96,3,32,2022-03-05
+152,2022-03-08 18:09:55+00:00,1501258931217125379,GainsNetwork_io,"It's official! You can now trade $FTM and $FTT on gTrade @FantomFDN @FTX_Official @FTMAlerts
+
+Show us your gains with up to 150x leverage offered on our listed #Crypto
+
+Check link in bio https://t.co/tWtZg30ilK",76,7,22,2022-03-08
+153,2022-03-10 17:19:43+00:00,1501971074090778627,GainsNetwork_io,Polygon is experiencing some issues right now. Hang tight. https://t.co/cSLBsDLIub,18,4,4,2022-03-10
+155,2022-03-11 17:03:12+00:00,1502329302049820672,GainsNetwork_io,"In February, gTrade has generated $1.83M in profit. 
+
+We’re thankful for our community that continues to support us. 
+
+And as we grow, so does the revenue our community receives. 
+
+Check out the full stats below: https://t.co/V8z7aH4V5O",100,4,37,2022-03-11
+156,2022-03-14 19:44:30+00:00,1503457058070405123,GainsNetwork_io,"Hello Gains Network community! It's time for another trading competition. 
+
+We have $125k set aside from our friends at @0xPolygon for the new contest.
+
+There's $162,750 in prizes for this new contest running from March 21 to April 21.
+
+Get the full scoop: https://t.co/yNDOmZ6HZj",128,15,51,2022-03-14
+157,2022-03-15 19:12:21+00:00,1503811358172893184,GainsNetwork_io,"At gTrade, we are committed to trading innovation. We want to provide the best possible trading experience.
+
+What are your must-haves for trading platforms?
+
+#Polygon $GNS #trading",62,13,16,2022-03-15
+158,2022-03-16 20:54:27+00:00,1504199438142742538,GainsNetwork_io,"Ambitious goals require ambitious teams. 
+
+That’s why Gains Network has now onboarded new members for the marketing team!
+
+We are working to take gTrade to new heights.
+
+Learn more about the team and strategies here: 
+https://t.co/P0Aht02xnn
+
+#trading #DeFi #CryptoProject",63,4,22,2022-03-16
+159,2022-03-17 18:48:34+00:00,1504530146996408327,GainsNetwork_io,"Sometimes, it can be hard to understand the significance of some innovations. 
+
+Our custom oracle architecture, enabled by @chainlink, helps improve our #trading on #polygon.
+
+Here is how our price feed held up during a volatile time in 2021, data is courtesy of @spaceandglory: https://t.co/ilykNVc4rK",216,10,47,2022-03-17
+160,2022-03-18 18:00:01+00:00,1504880316376182784,GainsNetwork_io,"Looking to $APE into @ApeCoin?
+
+Very soon, you will be able to trade $APE with 150x leverage on gTrade 🤯 (we're fast with the listings too @coinbase 👀).
+
+Tag an ape 🦍
+@BoredApeYC https://t.co/zzMsB5n9G0",90,12,30,2022-03-18
+162,2022-03-19 22:25:52+00:00,1505309609665380357,GainsNetwork_io,"In the last week, our top 10 traders, on https://t.co/lLrWB5eRfL, have a total PnL of $260,624 in DAI.
+
+Our top trader made $87,033 in one week! 🤯
+
+High leverage (risk) = potential for high rewards.
+
+#polygon #trading #cryptotrading https://t.co/kNFNRKod4E",56,1,11,2022-03-19
+163,2022-03-21 00:00:02+00:00,1505695692991434755,GainsNetwork_io,"The gTrade #trading competition is now live! 
+
+There are 300 spots available for prizes and 1st place wins $30k in a combo of $MATIC &amp; $GNS.
+
+Visit link in bio to begin trading w/ $DAI on #polygon.
+
+We send thanks once again to @0xPolygon for the grant. 
+
+Good luck gTraders 😎 https://t.co/pxvDzi1BSu",67,6,27,2022-03-21
+165,2022-03-22 20:00:00+00:00,1506360064705277956,GainsNetwork_io,"Our backend on gTrade now selects the most synced RPC, increasing the reliability of the platform.
+
+Also, we know many of you are anticipating our #stocks #trading launch 👀
+
+We've got an update for you on that! 
+
+Check out our Medium: https://t.co/0dPZhIqx0E",72,0,23,2022-03-22
+166,2022-03-23 20:12:39+00:00,1506725633715576843,GainsNetwork_io,"It's been 5 days since we listed $APE. This pair has taken the 4th spot in #trading volume at $40M on gTrade @apecoin!
+
+The average leverage on gTrade since the day of listing is about 92.6x 👀
+
+Check out our @DuneAnalytics
+dashboard for the full story: https://t.co/7rRaLf5rY6",60,4,13,2022-03-23
+167,2022-03-24 20:01:10+00:00,1507085133140172809,GainsNetwork_io,"We're working on updating our docs &amp; adding more content to our @Medium Publication.  
+
+We'd like to invite our community to submit content about gTrade.
+
+DM our Content Creator @kyledcollins to share any content you've created about us &amp; you may be featured on our publication!",40,0,14,2022-03-24
+168,2022-03-25 17:44:47+00:00,1507413197384556548,GainsNetwork_io,"$CHZ is coming to gTrade very soon 🌶
+
+""@Chiliz provides sports &amp; entertainment entities with blockchain-based tools to help them engage &amp; monetize their audiences.""
+
+In the past 24hrs $CHZ is up 7%+. Imagine up to 150x leverage on that 👀",49,4,12,2022-03-25
+170,2022-03-26 20:32:15+00:00,1507817732208832514,GainsNetwork_io,"It's been over 2 weeks since our @immunefi bug bounty listing!
+
+We're giving out up to $100k for our bounties depending on exploit severity.
+
+We want to make sure the white hats know 👀 @samczsun 
+
+BTW, we have @CertiKTech audit every significant update before release 😀 https://t.co/FNV432oVwI",43,0,7,2022-03-26
+171,2022-03-27 21:14:39+00:00,1508190789503012864,GainsNetwork_io,"Our #trading competition started about 1 week ago!
+
+Here are some stats:
+
+~$122M avg daily volume in past 7 days
+
+~$8.78B cumulative volume
+
+Also, we're ~250 away from 4000 unique traders...
+
+At the start of last month we were at ~2500, that's a 50% increase! 🥳
+#polygon https://t.co/GnUDx1Dzbb",65,1,24,2022-03-27
+172,2022-03-28 16:31:02+00:00,1508481800464740366,GainsNetwork_io,👀 😉 https://t.co/buC9ipd9yn,49,11,11,2022-03-28
+173,2022-03-29 22:23:21+00:00,1508932853576392709,GainsNetwork_io,"We've now reached a new milestone of 200,000 trades, $9B volume and $10M in revenue in 6 months! 🥳
+
+We've been working hard to make our platform the best it can be and we are thankful for all those supporting us.
+
+Stay tuned for new and exciting developments!
+
+#polygon #defi https://t.co/7IAe3BLUla",91,5,37,2022-03-29
+174,2022-03-30 13:34:29+00:00,1509162146394951684,GainsNetwork_io,"At 15:30 UTC today we will be doing a Twitter Space with @IndCryptoGeek from @0xPolygon!
+
+Come and join us to hear Seb, the Founder, speak about Gains Network and gTrade.
+
+https://t.co/2Jy0YPPnKp",49,0,16,2022-03-30
+175,2022-04-02 17:16:22+00:00,1510305149020954627,GainsNetwork_io,"On gTrade, this trader made $15,530 off one trade on $LUNA using 150x leverage on $2735! 👀 @terra_money
+
+When life gives you leverage, make gains 💪
+
+Try out https://t.co/lLrWB5eRfL on #polygon!
+
+ #DeFi #trading https://t.co/RYL0bBCcww",62,2,9,2022-04-02
+176,2022-04-04 15:30:46+00:00,1511003350493540357,GainsNetwork_io,"🚨 PSA: This is the official Gains Network Twitter account. 
+
+There is NO AIRDROP! Any account that says we have one is scamming or misinformed!
+
+Stay safe!",56,0,18,2022-04-04
+178,2022-04-06 17:02:13+00:00,1511751140513402886,GainsNetwork_io,"gTrade has solved the scam wick problem!
+
+Our custom price feed filters out outliers so that trading with up to 150x leverage on #crypto, &amp; 1000x on #forex, is smooth 🚀
+
+We use @chainlink oracles to power our platform on #polygon. 📈 
+
+Learn more here: 
+
+https://t.co/9auwF5mAC1",72,3,25,2022-04-06
+179,2022-04-07 17:36:22+00:00,1512122124076523521,GainsNetwork_io,"@MEEP_MUSIC @0x7effrey @chainlink Stop losses are guaranteed for cryptocurrency pairs on gTrade, so it is impossible that your trade was liquidated if it had a stop loss. Feel free to reach out on our telegram group if you have any question: https://t.co/PPBdIFlFMk",1,0,0,2022-04-07
+182,2022-04-08 16:30:37+00:00,1512467964951511049,GainsNetwork_io,"🥳 On April 7 we hit a new #trading volume all-time high of $10B!
+
+We send thanks to all of our community members for making this happen!
+
+Shout out to @chainlink, @MakerDAO &amp; @0xPolygon. They are the cornerstones of gTrade.
+
+When life gives you leverage, make gains 💪
+
+#Crypto https://t.co/o8RLdVhY48",108,14,41,2022-04-08
+183,2022-04-09 17:07:58+00:00,1512839752738918404,GainsNetwork_io,"There are 12 days left in our #trading contest. 1st place takes $30,000 in a combo of $MATIC &amp; $GNS! 💸
+
+Top 3 Traders' Stats: 
+
+1) 23.9% winrate (WR), 6739% PnL, $52M vol.
+
+2) 78.2% WR, 413% PnL, $17.8M vol.
+
+3) 63.6% WR, 251% PnL, $10.8M vol.
+
+Join the contest via link in bio!",54,2,16,2022-04-09
+184,2022-04-12 17:29:41+00:00,1513932381325037569,GainsNetwork_io,"Hey gTraders, we invite you to share some of the best trades you've seen on gTrade! 🚀🌙
+
+Begin #trading now on https://t.co/lLrWB5eRfL with up to 150x leverage on #Crypto &amp; 1000x on #Forex 💪",45,2,14,2022-04-12
+185,2022-04-13 17:03:22+00:00,1514288146342678533,GainsNetwork_io,"We've put together an updated tutorial on how to use gTrade! 😎
+
+We walkthrough how to set an order properly using different order types 💪
+
+gTrade is the ultimate leveraged #trading experience w/ ~50 cryptos + #Forex pairs on #polygon 
+
+Learn more here: https://t.co/wNmWkFjsJf",51,3,17,2022-04-13
+186,2022-04-14 17:25:43+00:00,1514656156647632896,GainsNetwork_io,"There is 1 week remaining in our $145,000+ #trading contest! 😎
+
+The top 5 traders receive a combined total of $80,000 in a mix of $MATIC &amp; $GNS. 💰
+
+There are 300 spots for prizes with places 150 &amp; up winning at least $100 in #crypto.
+
+Join the contest via link in bio! 🔋",48,1,17,2022-04-14
+187,2022-04-15 17:32:35+00:00,1515020272197414918,GainsNetwork_io,"With new projects in the works, we're looking to hire a part-time, front-end dev👨‍💻👩‍💻
+
+Help us spread the word! 🍏
+
+All inquiries should be submitted to our Telegram channel: https://t.co/PPBdIFlFMk
+
+#Web3 #DeFi #Crypto https://t.co/VsZ2YRQNe2",63,3,24,2022-04-15
+188,2022-04-17 15:28:20+00:00,1515713781766184960,GainsNetwork_io,"Have you seen our updated guide for #trading on gTrade? 🚀
+
+We support:
+
+Almost 50 cryptos w/ up to 150x leverage
+
+10 #Forex pairs w/ up to 1000x leverage
+
+All you need is $DAI in your web wallet, on #Polygon, and you're ready to go! 😎
+
+Learn more: https://t.co/wNmWkFjsJf",53,0,24,2022-04-17
+189,2022-04-18 15:56:55+00:00,1516083361588121603,GainsNetwork_io,"Is there a new wave of utility tokens coming to #DeFi? 🚀
+
+Our utility token $GNS may inspire unique use cases &amp; innovation. 
+
+$GNS is organically deflationary when traders lose more than they win — the token is vital for gTrade to function!
+
+Learn more: https://t.co/wtn4FgYIbV",56,2,23,2022-04-18
+193,2022-04-20 15:05:00+00:00,1516795071261118467,GainsNetwork_io,"#DeFi is the canvas of the future. Financial innovation knows no bounds in #web3.
+
+Our product gTrade allows any trader to use high leverage without margin or capital requirements! 
+
+gTrade does NOT compromise on UX &amp; will offer any market. 💸
+
+Learn more: https://t.co/melJ5eZtOB",52,4,23,2022-04-20
+195,2022-04-21 18:36:20+00:00,1517210642670833666,GainsNetwork_io,"We have gotten many questions about using gTrade. So we  created a FAQ to answer them! 😄
+
+This FAQ will be updated with any new questions over time and can be found on our #medium
+publication tab on top. 
+
+View the FAQ here: https://t.co/JujVkl1Hg2",45,4,13,2022-04-21
+196,2022-04-23 15:46:12+00:00,1517892605249560576,GainsNetwork_io,"gTrade x @0xPolygon 🤝 Trading Comp. Results 
+
+Thanks everyone for participating in our #trading competition!
+
+Congrats to the winners!
+
+1st | 111D w/ $52.9M vol. &amp; 4.69M score
+
+2nd | 5357 w/ $18.1M vol. &amp; 415k score
+
+3rd | F8F3 w/ $3.89M vol. &amp; 408k score
+
+$GNS has been sent 💰 https://t.co/eCSFUEWuOU",50,2,11,2022-04-23
+197,2022-04-25 19:23:16+00:00,1518672005398245379,GainsNetwork_io,"Looks like @elonmusk has reached a deal to acquire Twitter.
+
+This begs the question, wen $TWTR/$TSLA on https://t.co/lLrWB5eRfL?
+
+Or how about $TWTR/$DOGE? 🤔
+
+We'll be working on this in the upcoming months 👀
+
+Check out the roadmap here: https://t.co/EPtPgosdxO",59,3,18,2022-04-25
+198,2022-04-26 15:05:00+00:00,1518969398631055360,GainsNetwork_io,"NFTs will be deeply integrated into DeFi products, granting unique permissions and special advantages to holders.
+
+Our NFT's use cases are:
+
+💸 Boosted LP rewards 
+🤖 Liquidation permissions
+✅ Reduced spread
+
+Learn more here: https://t.co/UCrFZHyom2",33,0,9,2022-04-26
+199,2022-04-27 21:48:42+00:00,1519433382270230528,GainsNetwork_io,"We have plans to turn Gains Network into a #DAO once certain gTrade development milestones are reached.
+
+What are some things DAOs are lacking in that can be improved?",59,16,8,2022-04-27
+200,2022-04-28 22:21:43+00:00,1519804080037769217,GainsNetwork_io,"$APE has taken off!
+
+Now imagine #trading its price with up to 150x leverage 🤯
+
+Join gTrade today and trade your favorite #cryptos like #apecoin. 
+
+We currently offer 48 #crypto pairs w/ 0% funding fee, no price impact &amp; spot prices.
+
+Start trading at https://t.co/lLrWB5eRfL.",46,3,15,2022-04-28
+201,2022-04-29 21:51:02+00:00,1520158744910442496,GainsNetwork_io,"Imagine trading the price of #stocks on-chain right from your web wallet.
+
+Then imagine not having to sign-up, 0% price impact on trades, and 0% funding / borrowing fee. 🧐
+
+Wouldn’t that be cool? 
+#Web3 #gTrade",181,27,40,2022-04-29
+202,2022-04-30 21:20:04+00:00,1520513341109805056,GainsNetwork_io,"We love this video by @CoinMarketCap! 
+
+Thanks for featuring us guys.
+
+We're excited to bring innovative and empowering #DeFi products to the world 💪
+
+https://t.co/DHAqjPi3n2",52,4,17,2022-04-30
+203,2022-05-02 12:57:23+00:00,1521111608558297090,GainsNetwork_io,"@greencandlefund @0xPolygon The minimum of 1,500 includes leverage. Therefore you can trade with as little as 10 DAI.",5,1,0,2022-05-02
+205,2022-05-03 13:30:00+00:00,1521482206362759168,GainsNetwork_io,"It's happening.
+
+You can now trade the price of $AAPL, $FB and $GOOGL with leverage, fully on-chain!
+
+📊 Be one of the first to try it: https://t.co/lLrWB5ws7j
+
+We can list most major US stocks, more coming soon...
+
+🔎 Read our full announcement here: https://t.co/QqsDVwfRjb https://t.co/83SiTnkWTO",302,34,108,2022-05-03
+206,2022-05-04 22:30:56+00:00,1521980723871240196,GainsNetwork_io,"We are the first #DeFi platform to offer leveraged trading on the price of stocks. 
+
+This is synthetic, you're NOT trading tokenized #stocks so there's a 0% funding rate.
+
+And there is no sign-up nor deposit 😎
+
+Thanks for the shoutout @CoinMarketCap
+
+https://t.co/Tq4akLMZSf",90,4,29,2022-05-04
+207,2022-05-05 15:19:46+00:00,1522234607688683520,GainsNetwork_io,"Did you all know that 20 more stocks are coming on May 9?
+
+What stocks do you think we'll list? $TSLA? $GME? Both? 👀
+
+#DeFi",80,8,26,2022-05-05
+209,2022-05-06 14:17:09+00:00,1522581236962795520,GainsNetwork_io,"Our docs just got a big revamp. 📃 
+
+Everything you need to know about what we're building in #DeFi can be found there. 🍏
+
+What development are you most excited for? 
+
+https://t.co/PaeBKPdsxG",47,1,11,2022-05-06
+210,2022-05-07 17:58:53+00:00,1522999425802588160,GainsNetwork_io,"20 more stocks are coming to gTrade on Monday, all powered by @chainlink!
+
+Our custom #Chainlink decentralized oracle network provides real-time prices for stocks now.
+
+Each request made to our DON is paid in $LINK.
+
+Check out our Chainlink AMA for more! https://t.co/3oSdZQwdIX",167,10,45,2022-05-07
+211,2022-05-08 20:55:57+00:00,1523406374121918464,GainsNetwork_io,Less than 24hrs left... 👀,71,4,12,2022-05-08
+212,2022-05-09 13:30:00+00:00,1523656533493620738,GainsNetwork_io,"It's here! 
+
+There are now 23 stocks available on https://t.co/lLrWB5eRfL. 🍏
+
+Trade the spot price of your fav stocks w/ up to 150x leverage, on #Polygon. 
+
+No premiums, no funding rates or borrowing fees, no price impact, and superior UX. ✅
+
+Learn more: https://t.co/rUzDUp37oc https://t.co/nT4z8inkl0",134,22,61,2022-05-09
+213,2022-05-10 22:56:16+00:00,1524161426096545792,GainsNetwork_io,"The DAI vault rewards have been increased from 10% to 15% of the LP rewards.
+
+This puts the current estimated APY at 21% (based on the last week).
+
+This strategic allocation will help us accommodate the increasing volume going through #gTrade!
+
+👉 https://t.co/46Pc4dRXET",70,3,25,2022-05-10
+215,2022-05-11 15:52:12+00:00,1524417097245282304,GainsNetwork_io,"More volume = more fees revenue = more APY.
+
+Most of the revenue generated by gTrade is given back to liquidity providers. 
+
+Our stable $DAI vault sits at 23% APY at the moment and our $GNS / $DAI vault is at 176% APY!
+
+Check out our staking pools: https://t.co/BsWHTmJskz
+
+#DeFi https://t.co/TlcOZT9OUk",55,3,17,2022-05-11
+216,2022-05-12 13:48:06+00:00,1524748254545555457,GainsNetwork_io,"We are seeing a record number of trades and very high volume on gTrade.
+
+Our $DAI vault is up to 26% APY and there's over 1300% APY on our $GNS / $DAI LP!
+
+More info on vaults here: https://t.co/j6deMHxEuI
+
+#DeFiProject #DeFi https://t.co/tEeoA6wrMU",53,3,18,2022-05-12
+218,2022-05-15 16:57:19+00:00,1525883034213486592,GainsNetwork_io,"Here are our conclusions after the past week, the actions taken so far, and our new short / medium term roadmap.
+
+Have a good read 👍
+
+https://t.co/JUFEUEKhzo
+
+Discuss here: https://t.co/WHpLR3vXEi",75,4,21,2022-05-15
+219,2022-05-21 18:08:22+00:00,1528075240978382848,GainsNetwork_io,"A core value of gTrade is honoring our word. 
+
+Despite delisting a few risky pairs, already open trades were unaffected.
+
+This meant honoring $1M+ in profit on a delisted pair. 
+
+We see some platforms trying to reverse trader profits due to $LUNA. This isn't us.
+
+#DeFi https://t.co/OmKuTuTcWa",89,16,25,2022-05-21
+220,2022-05-24 16:59:05+00:00,1529144968937410561,GainsNetwork_io,"Hi Gainers, the minimum leverage on all cryptos listed was raised from 5x to 10x.
+
+This will guarantee a smooth transition until the next trading update given the recent events.
+
+The next update will allow us to offer 5x again. We should even be able to offer as low as 2x!",55,6,9,2022-05-24
+221,2022-05-26 20:30:00+00:00,1529922824009400331,GainsNetwork_io,"$GME has been rallying for a couple days 👀
+
+It was ~$87 on May 24 and is now up 47% to ~$128. 
+
+A 10x long at the local bottom would have netted 470% at market close today. 📈
+
+Leverage trade your fav stocks like $GME on our decentralized trading platform https://t.co/lLrWB5eRfL https://t.co/UPNpqBADac",45,3,10,2022-05-26
+222,2022-05-27 15:31:16+00:00,1530210032297590792,GainsNetwork_io,"@0xMaki “Ok, so what does that mean for me, the liquidity provider?
+
+TLDR: 
+More volume = more fees for revenue = more APR distributed to YOU!
+
+Check out our staking pools in #DeFi: https://t.co/BsWHTmJskz",11,1,0,2022-05-27
+228,2022-05-28 17:06:01+00:00,1530596265440026625,GainsNetwork_io,"@trader1sz No clue, but gTrade has you covered!
+
+We're on Polygon but would love to know if traders on Binance would welcome us.
+
+How much leverage do you need? :)",10,0,1,2022-05-28
+231,2022-05-30 19:39:25+00:00,1531359645784227843,GainsNetwork_io,"What are your best trading tips? 
+
+Use this tweet as a space to share the knowledge you wish you had when you first started trading.
+
+#stocks #crypto #forex #traders",26,5,4,2022-05-30
+233,2022-05-31 18:36:17+00:00,1531706146666561537,GainsNetwork_io,"Gains Network was born out of frustration with most #DeFi projects. 
+
+Instead of creating real value, too many projects were focused on solely 💰.
+
+gTrade exists to create a better decentralized trading experience and to generously give back to the community that helped grow it.",74,4,12,2022-05-31
+234,2022-06-01 17:09:24+00:00,1532046668476055552,GainsNetwork_io,"@MarkBeylin We asked the community what are some things #DAOs need to improve on... check out the replies on the linked tweet.
+
+Both new and older DAOs need to innovate to solve the pain points which obstruct their effectiveness. 
+
+https://t.co/LAOcijftqu",11,0,2,2022-06-01
+235,2022-06-03 13:05:09+00:00,1532709978510970881,GainsNetwork_io,"Are you bullish long-term on $GME? 
+
+And what stock could be the next trend?",26,2,1,2022-06-03
+236,2022-06-05 16:25:24+00:00,1533485147030536192,GainsNetwork_io,"One of gTrade's core values is decentralization. 
+
+In the future, we plan to fully decentralize both the front- and backend of gTrade.
+
+This will ensure that anyone from anywhere can trade cryptos, stocks, forex and more at any time indefinitely!",64,1,14,2022-06-05
+237,2022-06-06 11:48:36+00:00,1533777874272018432,GainsNetwork_io,"Note: backend here refers to the website backend of course, the real backend is already decentralized and trades are fully powered by our chainlink oracle network.
+
+Orders on gTrade can always be done from the smart contracts directly.",15,0,0,2022-06-06
+241,2022-06-07 14:44:38+00:00,1534184562053500929,GainsNetwork_io,"At gTrade we love showcasing big wins.
+
+Today someone won $143,115 with a single trade on USD/JPY. 
+
+With $49,700 in collateral and 75x leverage, this trader pulled off a +288% win on the pair! Impressive! 
+
+Now imagine being able to copy trade great traders like this on-chain 🤔",66,4,17,2022-06-07
+242,2022-06-08 15:54:34+00:00,1534564551580082177,GainsNetwork_io,"May was an eventful and challenging month for us.
+
+✅ First stocks launch
+✅ Created new mid-term roadmap (post LUNA crash)
+✅ Updated docs 
+
+And more! 
+
+Learn more about what we have been up to here: https://t.co/3TGXPDXYVe
+
+And check out our May stats below! https://t.co/QyAAyjPSjz",57,1,12,2022-06-08
+243,2022-06-09 16:47:06+00:00,1534940161548734471,GainsNetwork_io,"Investors are currently questioning the viability of their portfolios.
+
+However, fundamental analysis is a great tool for assessment.
+
+The projects which give the most value back to the world are the ones that will survive. 
+
+Some thoughts on the market: https://t.co/tJJzJ4xYfM",33,0,5,2022-06-09
+246,2022-06-10 13:09:47+00:00,1535247856881344517,GainsNetwork_io,@0xPolygon zk solutions 👀,26,0,1,2022-06-10
+248,2022-06-13 17:05:50+00:00,1536394425173217280,GainsNetwork_io,"We want gTrade to be a place where traders can share their ideas and discuss.
+
+We plan on implementing more social features in the future to ignite the community and promote friendly competition.
+
+What social features do you want to see?",42,12,6,2022-06-13
+250,2022-06-14 15:38:42+00:00,1536734885074935810,GainsNetwork_io,"Our trading vault now contains the second largest $DAI holding on @0xPolygon.
+
+The DAI vault APY currently sits at around 44% &amp; it is funded sustainably through trading fees!
+
+@MakerDAO's DAI is designed to withstand any market condition. https://t.co/HnOCyI6RvF",77,3,23,2022-06-14
+252,2022-06-15 16:09:27+00:00,1537105010915418114,GainsNetwork_io,@Flynnjamm @rabbithole_gg Hey we're interested! DMing,8,0,0,2022-06-15
+253,2022-06-16 18:02:38+00:00,1537495882475651072,GainsNetwork_io,"@FrogsAnon @0xKira_ Thanks for sharing this! Stay tuned, we've got a lot in the works 💪",15,0,1,2022-06-16
+255,2022-06-17 18:23:41+00:00,1537863568875462662,GainsNetwork_io,"The DeFi projects that give the most value back to the world are the ones that will survive.
+
+What is something that makes you confident in a project?",40,7,7,2022-06-17
+256,2022-06-19 11:34:09+00:00,1538485281048895493,GainsNetwork_io,"We've recently reached a milestone of 5,000 unique traders! 🎊
+
+We are creating the best decentralized leveraged trading experience in DeFi. 
+
+Welcome to our journey Gainers 💪 https://t.co/XbD0C0nWZS",87,1,26,2022-06-19
+257,2022-06-20 19:35:25+00:00,1538968786023366656,GainsNetwork_io,Everything about our v6.1 update! https://t.co/rihiNTi8nD,52,2,16,2022-06-20
+258,2022-06-21 07:52:30+00:00,1539154279402983425,GainsNetwork_io,"Check out this awesome thread about our new v6.1 update by a community member!
+
+This update will allow us to reach our full potential 😎 https://t.co/q9F2YpYHQY",28,0,2,2022-06-21
+261,2022-06-22 23:22:19+00:00,1539750659397980160,GainsNetwork_io,"Our upcoming v6.1 update  allows for:
+
+✅ More trading pairs 
+✅ More flexibility in the amount of leverage offered
+✅ Funding fee farming 
+
+Get the full details here: https://t.co/r0fyNcxYZN",41,4,6,2022-06-22
+262,2022-06-23 11:48:23+00:00,1539938417127133184,GainsNetwork_io,"An essential facet of gTrade is decentralization. 
+
+With decentralization comes more freedom for users. 
+
+Our traders maintain full custody of their funds.
+
+To trade, you only need to connect you web wallet and hold DAI on Polygon. Profits are disbursed back to your wallet.",52,2,12,2022-06-23
+264,2022-06-24 12:29:45+00:00,1540311214714195971,GainsNetwork_io,"The Twitter Space on the v6.1 update is rescheduled for July 1st (the host felt sick). 📅
+
+The article on the price impact and rollover/funding fees methodology will be released very soon. 📝
+
+CertiK's final audit of the v6.1 is almost ready! 🔒",31,1,4,2022-06-24
+265,2022-06-25 21:37:10+00:00,1540811363383218177,GainsNetwork_io,"📖 gTrade v6.1: In-depth (Methodology &amp; Examples): https://t.co/Lg4nIDCAPV
+
+TL;DR:
+- Short-term trades pay fewer fees than before
+- Strategic fees for trades deemed risky (long net exposure)
+- Allows relisting many pairs, lowering the minimum leverage allowed, and much more.",44,1,17,2022-06-25
+266,2022-06-28 17:38:19+00:00,1541838419441209346,GainsNetwork_io,What features/upgrades are you most excited for with v6.1 around the corner?,27,13,0,2022-06-28
+267,2022-06-30 16:50:15+00:00,1542551095985291264,GainsNetwork_io,"Guess who's live on @tokenterminal 👀
+
+https://t.co/elKCl96Shd",52,2,12,2022-06-30
+268,2022-07-01 12:25:25+00:00,1542846836674797573,GainsNetwork_io,"Join our Twitter Space at 17:00 (UTC+2) today to discuss gTrade v6.1!
+
+We will do our best to answer any questions.
+
+https://t.co/gXvIgTs6u3",25,4,6,2022-07-01
+270,2022-07-02 17:55:34+00:00,1543292311039348736,GainsNetwork_io,"@BTC_Archive Decentralized trading platforms are essential for a great user experience in Web3. 
+
+Withdrawal lock-up events like these may actually accelerate DeFi adoption...",30,1,5,2022-07-02
+271,2022-07-04 16:24:16+00:00,1543994110960455683,GainsNetwork_io,"The newest v6.1 upgrade has taken care of our risk management.
+
+Now we are prioritizing single sided staking of $GNS &amp; a new referral system!
+
+This means more $GNS utility and aligned incentives to achieve unbound growth for gTrade.
+
+Who's excited? 💪🍏",83,8,27,2022-07-04
+272,2022-07-05 14:35:01+00:00,1544329005477904384,GainsNetwork_io,"Despite the market volatility this past month, $DAI has held its peg perfectly and is our stablecoin of choice for trading.
+
+What are some other stablecoins you would want to see on gTrade?",46,15,1,2022-07-05
+273,2022-07-09 20:21:22+00:00,1545865715625893889,GainsNetwork_io,"🚀 We have just released our medium-term roadmap/priorities!
+
+📖 Read the article here: https://t.co/7LoAHOxEPT
+
+TL;DR: We are reaching the most interesting stage of our development, all of our work is coming together...
+
+$GNS #DeFi",75,7,29,2022-07-09
+274,2022-07-10 15:26:38+00:00,1546153933973889025,GainsNetwork_io,"Launching one of our biggest trading updates, v6.1, was the highest priority this past month. 
+
+Other June achievements:
+✅ Polygon dApp of the month
+✅ @tokenterminal Integration
+✅ 5000 unique traders
+
+Learn more &amp; check out the June stats: https://t.co/qB6543Gnz9",41,3,13,2022-07-10
+275,2022-07-11 16:55:15+00:00,1546538621779558404,GainsNetwork_io,"Hello Gainers 🍏,
+
+We are launching a new feedback form!
+
+You can share your ideas, comments, ask questions and submit any issues. 
+
+This form will aggregate all feedback &amp; help improve gTrade 😁
+
+You can find the form here: https://t.co/LukgbOx09I
+
+We highly value your input!",23,1,5,2022-07-11
+276,2022-07-12 16:51:11+00:00,1546899987212156928,GainsNetwork_io,"Hey Gainers!
+
+The number of block confirmations on gTrade has been lowered from 5 (10 seconds) to 2 (4 seconds), as reorgs have gotten very rare on Polygon.
+
+This way scalping is much easier and trades are 2.5 times faster! https://t.co/JXkbMtEKrN",65,8,19,2022-07-12
+277,2022-07-13 14:42:18+00:00,1547229939862081536,GainsNetwork_io,"To keep up to date with everything at Gains, we recommend you check out our TG: https://t.co/WHpLR3NyvQ
+
+&amp; 
+
+Discord: https://t.co/pA8dXS7pY5
+
+Enabling staking of $GNS and a new referral system are our highest development priorities as of now. 🍏 https://t.co/9SR8Smm5xd",45,5,11,2022-07-13
+278,2022-07-14 21:30:40+00:00,1547695095045955587,GainsNetwork_io,"$EUR / $USD, $MATIC and $DIS are all available to trade on gTrade with no sign up and all the leverage you'd need!
+
+We have a large variety of pairs available for trading.
+
+Come join the future of trading in DeFi! https://t.co/EZ2kcyXfvb",44,2,10,2022-07-14
+279,2022-07-15 15:27:22+00:00,1547966057473642498,GainsNetwork_io,"Hey Gainers! 🍏
+
+We're excited to let you know that we've launched support for @CoinbaseWallet!
+
+gTrade now supports the 3 major wallet providers.
+
+📊 Never traded with synthetic leverage? Try now: https://t.co/lLrWB5ws7j https://t.co/0feEdbJorY",73,10,27,2022-07-15
+280,2022-07-20 20:43:27+00:00,1549857542804848642,GainsNetwork_io,"We're making good progress on our v6.1.1 update!
+
+- $GNS staking for $DAI (trading fees)
+- Referral system (w/ whitelist)
+- Various optimizations
+
+The details about the fee distribution for $GNS staking and referrals are coming soon.
+
+Medium-term roadmap: https://t.co/eLa6mhTxWD",72,6,21,2022-07-20
+281,2022-07-24 13:11:22+00:00,1551193320818458624,GainsNetwork_io,"Hello Gainers!🍏
+
+If gTrade had a light theme, would you use it?
+
+Depending on the poll results, we can make it a priority or tackle other UI / UX improvements👍
+
+$GNS #gTrade",22,5,6,2022-07-24
+282,2022-07-29 19:42:50+00:00,1553103777233788928,GainsNetwork_io,"Excited to see Polygon zkEVM achieve new heights for the industry!
+
+ZK tech is something we are closely watching as it will improve the on-chain trading experience. 
+
+The @0xPolygon ecosystem is evolving... 💪 https://t.co/wx5HNBB9VC",76,3,22,2022-07-29
+283,2022-08-01 17:09:22+00:00,1554152321499729920,GainsNetwork_io,"We've just released the full details on the gTrade v6.2 update!
+
+🔥 $GNS staking for $DAI fees
+📈 2-level referral system
+⚙️ Simpler fees
+
+And much more...
+
+https://t.co/6HA3Ttvq3j",184,30,58,2022-08-01
+284,2022-08-02 21:32:08+00:00,1554580836191768578,GainsNetwork_io,"Gm Gainers! 🍏
+
+We understand the importance of flowing protocol value into our native $GNS token.
+
+In 2 weeks (v6.2), stakers of $GNS will earn:
+
+• 40% of fees from market orders
+• 15% of fees from limit orders
+
+That's ~32.5% of total order fees going directly to our stakers!",175,15,45,2022-08-02
+285,2022-08-03 19:45:50+00:00,1554916471423307777,GainsNetwork_io,"$54M in $ETH was traded synthetically on gTrade last week.
+
+Traders are speculating on:
+
+• $ETH vs Alt-L1s
+• The Merge to PoS
+• The infamous ETH/BTC ratio
+
+We love to see our users gettin' gains 📈
+
+What narratives are you trading? Let us know ⬇️",100,7,15,2022-08-03
+286,2022-08-04 15:49:23+00:00,1555219353808912387,GainsNetwork_io,"Traditional Brokerage vs gTrade 🍏:
+
+Stock Brokerage:
+
+⭕ Loss of Custody
+⭕ Days to Withdraw
+⭕ Fees to Move Funds
+
+gTrade:
+
+✅ Self-Custody of Funds
+✅ Minimal Trading Fees
+✅ Up to 150x Leverage
+
+Skip the hassle, start gettin' gains 📈",101,6,34,2022-08-04
+289,2022-08-05 13:28:08+00:00,1555546196625719296,GainsNetwork_io,"1.4 billion $MATIC was unlocked from vesting this week.
+
+The details ⬇️
+
+• 80% of all $MATIC supply is now unlocked
+• The circulating supply increased 21% to 8 billion
+• $MATIC dropped by 6% but recovered shortly after 📈
+
+Trade the news without scam wicks on gTrade! 🍏",117,1,17,2022-08-05
+292,2022-08-06 13:32:08+00:00,1555909590319075330,GainsNetwork_io,"The decentralized leverage trading space is moving fast!
+
+gTrade has it all:
+
+✅ Crypto, stocks, &amp; forex
+✅ Custody of funds
+✅ High leverage
+✅ Chainlink DON (no scam wicks)
+✅ Transparent on-chain execution
+
+We could go on, but we’d rather you spend your time gettin’ gains 📈",95,4,24,2022-08-06
+294,2022-08-07 13:26:09+00:00,1556270471116738561,GainsNetwork_io,"What makes decentralized trading with gTrade unique?
+
+One reason is the variety of products we offer.
+
+Trade:
+
+✅ Crypto (4x-150x)
+✅ Stocks  (3x-100x)
+✅ Forex (10x-1000x)
+
+All with the liquidity of our $DAI vault 🟡
+
+gTrade is your one-stop platform for every market 🍏",97,5,21,2022-08-07
+295,2022-08-08 18:33:32+00:00,1556710216095375366,GainsNetwork_io,"Gainers... 🍏
+
+📱 Significant front-end improvements to gTrade are going to be released tomorrow!
+
+We believe the decentralized leverage trading platform with the best UI &amp; UX will win. 🔥",119,5,32,2022-08-08
+300,2022-08-09 03:24:51+00:00,1556843924731432960,GainsNetwork_io,"@Pentosh1 Appreciate you sharing this candidly.
+
+Rebalancing life outside crypto is often more important than rebalancing a portfolio.
+
+Emotional PnL comes first 🍏",12,0,0,2022-08-09
+305,2022-08-10 13:29:08+00:00,1557358386555019266,GainsNetwork_io,"Our synthetic architecture uses a single $DAI vault for ALL trading pairs.
+
+This means:
+
+✅ Maximum capital efficiency
+✅ Support for high leverage without more liquidity
+✅ Quick creation of new pairs
+✅ Across all markets - crypto, stocks, forex
+
+gTrade makes liquidity easy 🍏",96,6,19,2022-08-10
+307,2022-08-11 19:16:23+00:00,1557808163897884680,GainsNetwork_io,"@sabocrypto #RealYield has taken off lately!
+
+Thanks for diving into this, Sabo.",14,0,0,2022-08-11
+312,2022-08-12 13:28:07+00:00,1558082907574603784,GainsNetwork_io,"$GNS Single-Sided Staking goes live in under 2 weeks 🍏
+
+Here's how we're bringing #RealYield to our native token:
+
+(thread 🧵)",222,9,71,2022-08-12
+323,2022-08-13 22:25:47+00:00,1558580604052160512,GainsNetwork_io,"@thedefiedge Great thread Edgy, as always 🍏",15,1,0,2022-08-13
+327,2022-08-14 20:09:36+00:00,1558908718418477056,GainsNetwork_io,"Last week, one of our gTraders profited $165,000 on a single forex trade  🎉
+
+✅ gTrade is the ONLY decentralized platform offering synthetic leverage trading of forex.
+
+Don't forget you can trade stocks and crypto too!
+
+We love to see big wins for gTrade users 📈🍏",126,9,23,2022-08-14
+328,2022-08-15 13:33:09+00:00,1559171336286752769,GainsNetwork_io,"5 ways to earn on gTrade (besides trading):
+
+✅ Provide liquidity to the $DAI vault
+✅ Provide liquidity to the $GNS/$DAI pool
+✅ Hold a Gains NFT and run a bot on gTrade
+✅ $GNS single-sided staking to earn $DAI (soon)
+✅ Be part of the referral program to earn $GNS (soon)
+
+🍏",114,3,13,2022-08-15
+334,2022-08-16 13:31:08+00:00,1559533218226896896,GainsNetwork_io,"Gm gainers! 🍏
+
+We'd love to hear from you...
+
+What's your favorite aspect of Gains Network?",50,2,6,2022-08-16
+336,2022-08-17 13:29:08+00:00,1559895100494417920,GainsNetwork_io,"Tired of jumping through hoops to leverage trade crypto/stocks/forex?
+
+Our $DAI vault simplifies your trading process:
+
+✅ You only need $DAI to trade 39 crypto pairs (+ stocks and forex)
+❌ No complex swapping, bridging, or hidden fees
+
+Trade with ease on gTrade 🍏",102,4,9,2022-08-17
+338,2022-08-18 15:01:21+00:00,1560280698870718464,GainsNetwork_io,"Gm gainers! 🍏
+
+We know you've been eagerly awaiting v6.2...
+
+The wait is over - it's now LIVE! 🎉
+
+➡️ $GNS Single-Sided Staking
+➡️ Referral Program
+➡️ Protocol Optimizations
+
+Start staking $GNS to earn fees in $DAI from trading activity on gTrade! 🔥",199,19,53,2022-08-18
+344,2022-08-19 01:48:15+00:00,1560443493859766273,GainsNetwork_io,@Degentralise 💪🍏,0,0,0,2022-08-19
+352,2022-08-20 21:42:23+00:00,1561106395092488192,GainsNetwork_io,"@Fwiz @0xPolygon Well said!
+
+The Merge's (lack of) impact on gas fees is widely misunderstood.
+
+L2s are the future of the ETH network.
+
+Especially for a decentralized trading platform like gTrade 🍏
+
+$GNS",42,2,2,2022-08-20
+358,2022-08-21 13:26:09+00:00,1561343904720601088,GainsNetwork_io,"Looking at $SHIB &amp; $DOGE?
+
+• Dog-themed coins are all the hype thanks to Dogechain (EVM network w/ Polygon tech)
+• $DOGE &amp; $SHIB prices have been a rollercoaster the past few days
+• $SHIB had 400+ transactions &gt;$100k this week (source: Santiment)
+
+Trade wisely, gTrader 🍏",59,6,6,2022-08-21
+359,2022-08-22 13:55:31+00:00,1561713681997729792,GainsNetwork_io,"Want a sneak-peek into where gTrade is headed?
+
+A few of the things we're dropping in the coming months:
+
+✅ GUARANTEED limit orders, stop losses &amp; take profits (via oracle look-backs)
+✅ Any Arbitrum users reading this? 👀
+✅ A trading contest (with coveted prizes)
+
+Soon 🤝🍏",120,7,30,2022-08-22
+361,2022-08-23 21:52:55+00:00,1562196212538781698,GainsNetwork_io,"@0xStacker Great breakdown, Forrest 🍏
+
+#RealYield",24,0,1,2022-08-23
+369,2022-08-24 13:29:11+00:00,1562431828153495552,GainsNetwork_io,"What bear market?
+
+📉 Markets tanked last week
+
+📈 10 gTraders returned over 800% on their trades all in the same day
+
+Our users are showcasing some serious bear-hunting skills 🔥 https://t.co/mizzMNV6br",61,4,2,2022-08-24
+371,2022-08-25 21:27:13+00:00,1562914518316896256,GainsNetwork_io,"You asked and we answered!
+
+2 quality of life improvements from v6.1:
+
+✅ We're back to allowing trades with up to $100,000 in collateral
+
+Whales rejoice!
+
+✅ Our fee system has been simplified (now the same for opening and closing positions)
+
+Trade bigger + simpler on gTrade 🍏",84,5,12,2022-08-25
+372,2022-08-26 13:28:09+00:00,1563156347742732289,GainsNetwork_io,"How's everyone enjoying $GNS single-sided staking so far?
+
+📈 An FYI to new gTraders: Staking our native token rewards you in $DAI, not $GNS
+
+📈 As a result, SSS does not increase $GNS supply
+
+Let us know how it feels to own a piece of gTrade's revenue! 🍏👇",93,14,13,2022-08-26
+374,2022-08-27 13:32:09+00:00,1563519738499588099,GainsNetwork_io,"Within just ONE week of launching, our $GNS SSS pool has the largest TVL on the platform! 📈
+
+In fact, it has greater TVL than all others combined:
+
+• $GNS SSS Pool: ~$33.4M
+• $DAI Vault: ~$11.8M
+• GNS/DAI LP: ~$8.0M
+
+Simply put: gTraders love #RealYield 🍏",87,8,12,2022-08-27
+376,2022-08-28 13:26:10+00:00,1563880622367485958,GainsNetwork_io,"We spied some big volume in Forex these last 7 days 👀
+
+The top 3 pairs traded on gTrade outside of $BTC + $ETH were:
+
+• GBP/USD: $24.28M in volume
+• USD/CAD: $24.14M in volume
+• EUR/USD: $20.46M in volume
+
+Synthetically trade forex ONLY on gTrade 🍏",88,4,12,2022-08-28
+377,2022-08-29 13:33:08+00:00,1564244765415284736,GainsNetwork_io,"Never thought we'd see the day...
+
+Right now, the Euro has more volume on gTrade than $BTC! 🔥
+
+In the last 7 days:
+
+➡️ EUR trading volume reached $39.5M, surpassing $BTC's $38.2M
+➡️ EUR's single-day volume peaked at ~$7M
+
+gTraders are loving the synthetic forex trades 🍏",117,5,20,2022-08-29
+378,2022-08-30 14:58:20+00:00,1564628592209829890,GainsNetwork_io,"A Medium article on our gTrade Referral Program is coming soon! 🎉
+
+It'll include:
+
+➡️ Ambassador qualifications
+➡️ Opportunities for anyone to be an ally
+➡️ The earning structure for ambassadors &amp; allies
+
+Stay tuned for the article  - more info in upcoming tweets as well! 🍏",69,6,9,2022-08-30
+381,2022-08-31 10:50:28+00:00,1564928603497926656,GainsNetwork_io,"Our website hosting is currently experiencing issues, please use this link to access gTrade in the meanwhile: https://t.co/hlfGJc4pfw
+
+Sorry for the inconvenience, we will let you know when the main website is back up.",48,3,3,2022-08-31
+386,2022-09-01 14:13:24+00:00,1565342061058207745,GainsNetwork_io,"Forex, stocks, AND crypto on gTrade 🍏 https://t.co/5fAxuu81Cc",52,3,8,2022-09-01
+387,2022-09-02 20:23:32+00:00,1565797596345548808,GainsNetwork_io,"Gainers! 🍏
+
+We just posted a deep-dive Medium article into $GNS single-sided staking 🔥
+
+It covers #RealYield, our path to maximizing decentralization, and other details you won't want to miss! 
+
+Give it a read here ⬇️
+https://t.co/8hQTJW8uMb",116,4,31,2022-09-02
+388,2022-09-03 14:47:15+00:00,1566075356284583936,GainsNetwork_io,"The gTrade Flippening! 👀
+
+This week, $ETH trading volume outpaced $BTC by over 3x:
+
+📉 $BTC/USD 7-day volume fell to $22.4M
+📈 $ETH/USD accounted for over 40% of all gTrades, totaling $72.7M in volume
+
+Trade the blue-chips without scamwicks on gTrade 🍏",73,3,12,2022-09-03
+389,2022-09-04 13:32:55+00:00,1566419035041964032,GainsNetwork_io,"This week, we launched our gTrade Referral Program! 🍏
+
+Let's introduce Ambassadors:
+
+For crypto, they earn 0.015% to 0.02% of the first $10M in referred trading volume (0.02% perpetually after that).
+
+Apply to become one today! ⬇️
+
+https://t.co/DWKnHTfHY6",57,1,8,2022-09-04
+390,2022-09-05 14:20:33+00:00,1566793411348373505,GainsNetwork_io,"If you aren't a gTrade Ambassador, you can still earn $GNS referral rewards!
+
+Introducing Allies:
+
+✅ Allies get 10% of all referral fees from Ambassadors they refer
+✅ No requirements or limits - any gTrader can be an Ally!
+
+Become a gTrade Ally today ⬇️
+https://t.co/9Wfz35KQem",46,1,4,2022-09-05
+391,2022-09-06 13:22:36+00:00,1567141215702761477,GainsNetwork_io,"gTrade is rolling out several sleek UI updates soon 🔥
+
+✅ Light, dark and black mode
+✅ Rearrange the location of your trading modules
+✅ Drag and adjust the size of your trading screens
+✅ Refined favorite pairs system and dropdown menu
+
+Get ready for this one, gTraders! 🍏",87,3,18,2022-09-06
+392,2022-09-07 19:16:21+00:00,1567592627742117893,GainsNetwork_io,"The transition has been successful! 🥳
+
+The website now also loads approximately 2x faster thanks to our transition to Next.js
+
+More details about this and our IPFS setup coming soon!!",54,1,0,2022-09-07
+396,2022-09-08 21:33:09+00:00,1567989442903773188,GainsNetwork_io,"gTraders are loving their forex trades! 💸
+
+This week, 2 of the top 3 most traded pairs on gTrade are Forex Pairs!
+
+🥈 AUD/USD has ~$43.2m volume traded
+🥉 USD/JPY has ~$30.7m volume traded
+
+Share your forex wins from this week!
+👇",54,3,8,2022-09-08
+398,2022-09-09 13:28:09+00:00,1568229774878973952,GainsNetwork_io,"Last month, we implemented 2 (out of 5 total) avenues to earn #RealYield:
+
+$DAI Rewards:
+1. Be a $DAI Vault LP
+2. Stake $GNS ✅
+
+$GNS Rewards:
+3. Be GNS/DAI Pool LP
+4. Run a bot on gTrade
+5. Join the Referral Program ✅
+
+Read more about them in the August Recap article! 🍏",67,2,13,2022-09-09
+401,2022-09-10 13:32:14+00:00,1568593193301864449,GainsNetwork_io,"How does it work?
+
+Let's assume you're an Ambassador.
+
+1. A trader opens a crypto trade using your link.
+2. He puts $2,000 as collateral with 75x leverage. His Open Position size is $150,000.
+3. You earn 0.015% of $150,000 = $22.5 on this first crypto trade via your link.",10,1,0,2022-09-10
+417,2022-09-12 13:33:09+00:00,1569318195923673096,GainsNetwork_io,"Want a sneak-peek into the future of gTrade? 🍏
+
+V6.3 will have:
+
+✅ Guaranteed Limit Orders on all asset classes
+✅ Less slippage for Market Orders
+✅ Faster oracles (websocket instead of HTTP)
+
+And a few more surprises along the way 🎁
+
+Which one are you most excited about?
+👇",95,10,20,2022-09-12
+419,2022-09-13 13:31:11+00:00,1569680090375536641,GainsNetwork_io,"Noticed some sleek UI improvements on gTrade over the past couple of weeks?
+
+gTrade now has a Favorite Pair System ⭐
+
+✅ Simplified. Only the pairs you save will be displayed.
+✅ Benefit from faster trading page performance.
+
+Get some wins on your fave pairs, gTrader 🍏 https://t.co/V1jSyAXNY9",50,4,6,2022-09-13
+422,2022-09-14 13:29:11+00:00,1570041976526880769,GainsNetwork_io,"Speculating on $BTC? 
+
+$BTC pumped from ~$18.8k levels to briefly above ~$22k over the past few days (now leveling out)
+
+Possible catalyst?
+
+🚀 Microstrategy announced its plans to sell $500m in shares to buy $BTC
+
+Trade (or countertrade) the news on gTrade! 🍏",46,1,5,2022-09-14
+424,2022-09-15 21:33:09+00:00,1570526156599840770,GainsNetwork_io,"gTrade Migrates to IPFS! 🌐 
+
+What this means for you:
+
+✅ gTrade website is decentralized
+✅ Use https://t.co/lLrWB5eRfL for speed and convenience
+✅ Use any IPFS gateway if main website not accessible
+✅ Immunity to DDOS attacks
+
+Trade comfortable and at ease on gTrade 🍏",86,3,15,2022-09-15
+426,2022-09-16 13:28:10+00:00,1570766496393007105,GainsNetwork_io,"This week on gTrade:
+
+USD/JPY gTraders strutting their stuff 🎌
+
+Synthetically trade forex on gTrade 🍏 https://t.co/xT9xWAFAmj",57,1,6,2022-09-16
+429,2022-09-17 13:32:08+00:00,1571129881815023619,GainsNetwork_io,"Speculating on $ETH?
+
+📉 Ethereum Liquidations Top $127M post-Merge
+📉 $ETH price dropped ~8.2% following the merge
+
+Possible catalyst?
+
+➡️ SEC could declare POS Tokens as securities because ""token staking"" passes the Howey Test
+
+Trade or countertrade the news on gTrade 🍏",50,0,2,2022-09-17
+431,2022-09-19 21:34:10+00:00,1571975963822415874,GainsNetwork_io,"Holding $ETH post-Merge?
+
+➡️ $ETH dropped  from ~$1,700 to ~$1,300 during Merge week
+
+Possible recovery?
+
+➡️  Demand in the derivatives market is recovering
+➡️  $ETH's options and futures open interest metrics have also pivoted, returning to demand
+
+Trade $ETH on gTrade 🍏",68,1,2,2022-09-19
+434,2022-09-20 21:32:10+00:00,1572337848124149761,GainsNetwork_io,"The Price Impact Fee introduced in v6.1 🛡️
+➔ Your defense against Spot Price manipulation
+
+(PS: We've already had this shield up for a few months! 👋) https://t.co/05ILAPfybE",72,0,13,2022-09-20
+436,2022-09-21 13:29:11+00:00,1572578690155925504,GainsNetwork_io,"Need a refresher on what sets gTrade apart? A few examples:
+
+✅ Fully synthetic 
+➔ $DAI Vault provides the liquidity for all trading pairs
+
+✅ Price Impact Fee (v6.1) 
+➔ No Spot Price manipulation  
+
+✅ Custom Chainlink DON 
+➔ No scamwicks
+
+Fair, safe, and simple.
+🍏",87,2,18,2022-09-21
+440,2022-09-22 21:33:29+00:00,1573062954764931075,GainsNetwork_io,"Other V6.2 Improvements
+1. The $DAI Vault now only reflects staked $DAI:
+
+$DAI Vault TVL Before:
+➡️ Staked $DAI + Trades Negative PnL + Open Trades Collaterals
+
+$DAI Vault TVL Now:
+➡️ Staked $DAI + Trades Negative PnL",10,1,0,2022-09-22
+455,2022-09-23 12:39:13+00:00,1573290893360373761,GainsNetwork_io,"Hi gTraders! 🍏
+
+We've removed the base spread (outside of the price impact) on all of our crypto pairs. 
+
+🔥 This means:
+
+- 0.02% less spread on BTC/USD
+- 0.04% less spread on ETH/USD
+- 0.06% less spread on Altcoins / USD pairs
+
+Let us know what you think about this change!",99,7,18,2022-09-23

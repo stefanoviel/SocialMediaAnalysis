@@ -1,0 +1,2033 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-08 21:03:56+00:00,1215016307650904064,UMAprotocol,"@ericchenmelt @delroy987 @KyleSamani @InjectiveLabs Thanks for tagging, Eric!
+
+Some more thoughts here for anyone trying to build ""BitDEX"":
+
+https://t.co/PAQYKt9nAM
+
+Feel free to email/DM to discuss further. hello@umaproject.org",6,0,1,2020-01-08
+1,2020-01-09 21:07:12+00:00,1215379517663055879,UMAprotocol,"@pleyuh @JanBene18 @Jihoz_Axie @antiprosynth @RyanSAdams @iamDCinvestor @TrustlessState On 1), we'd love to hear your thoughts on our oracle design, as well as our ""priceless"" framework for financial contracts that minimize on-chain oracle calls. 
+
+On 2), would cash settling the derivatives be sufficient? 
+
+https://t.co/3oI85mCCrR
+
+https://t.co/PAQYKt9nAM",2,0,0,2020-01-09
+3,2020-01-13 16:01:46+00:00,1216752204956172293,UMAprotocol,"@PaulRBerg @synthetix_io Cool idea! We're working on making this a reality... 
+
+Are you looking to buy calls or puts, and with what maturity?",4,3,0,2020-01-13
+4,2020-01-14 17:13:09+00:00,1217132556753174529,UMAprotocol,"As @tarunchitra's written about, lending of governance tokens can compromise a token network's security. 
+
+UMA's DVM is an oracle whose economical guarantee depends on the price of its governance tokens.
+
+With one special feature: ""voting period"".
+
+Why is this important? 👇",17,2,3,2020-01-14
+7,2020-01-17 21:21:03+00:00,1218282105794387974,UMAprotocol,"@davidiach @Neuros12 You could create a token that tracks ETC/ETH and sell it:
+
+e.g. ETC/ETH = 0.067 means the token is worth 67 DAI. (backed by say, 75 DAI)
+
+If ETC/ETH goes down to 0.05, the token is worth 50 DAI and you make 17 DAI. 
+
+The key is finding someone who wants to buy your token!",5,1,0,2020-01-17
+9,2020-01-22 15:47:50+00:00,1220010190956847105,UMAprotocol,"@ChrisBlec Yes! 
+
+Step 1: Deploy your own price feed: https://t.co/Lt4m4jtKeT
+
+Step 2: Create tokens on Kovan/Rinkeby using the Synthetic Token Builder: https://t.co/gPmMKxDGlE
+
+Step 3: Trade tokens! 
+
+DM us if you need help - happy to chat further.",1,0,0,2020-01-22
+12,2020-01-23 19:53:31+00:00,1220434404373417984,UMAprotocol,"Our team brainstormed what you can build with UMA's Synthetic Token Builder (and voted with post-its)!
+
+Some of our ideas:
+- token that tracks countries' Olympic medal counts 
+- yTokens
+- staking tokens
+
+Which are your favorites? Tell us in our Slack: 
+
+https://t.co/oKkdiN6yQd https://t.co/6zzycIp8nZ",26,6,5,2020-01-23
+15,2020-01-24 15:04:33+00:00,1220724070511194113,UMAprotocol,"@human__yes @ETHNewYork @nemild @danielque Cool ideas! One more project for you to check out: SwanDAI (a winning project at @ETHBoston)
+ https://t.co/Hd2vuoKtQz",1,1,0,2020-01-24
+18,2020-01-27 19:53:14+00:00,1221883885010718720,UMAprotocol,Another cool example of how you can use Synthetic Tokens to create new markets: https://t.co/5sMHB5Ho70,3,0,1,2020-01-27
+20,2020-01-29 19:49:38+00:00,1222607754243792898,UMAprotocol,"This is a great summary of the ""cost of corruption"" and ""profit from corruption"" of an oracle. 
+
+Watch @hal2001 talk about the importance of this guarantee and how it fits into our vision for decentralized financial contracts: https://t.co/JOZrVQIh7V https://t.co/JRAqfkn12Y",3,2,2,2020-01-29
+21,2020-02-10 22:20:36+00:00,1226994403291607040,UMAprotocol,"With our synthetic token design, anyone can create synthetic local currencies backed by DAI (on Rinkeby/Kovan). 
+
+https://t.co/vDNtwHBcPD
+
+Looking forward to seeing projects build for users like 👇 https://t.co/DaNII3Wgsz",16,1,3,2020-02-10
+26,2020-02-11 16:32:38+00:00,1227269219781369856,UMAprotocol,"@xdaichain @grassEcon @MakerDAO Excited to be a part of this! 
+https://t.co/SWKA7NZ8Ft",0,0,0,2020-02-11
+29,2020-02-12 15:35:37+00:00,1227617259713187840,UMAprotocol,"@w_riemann Thanks for your interest! We're planning on launching some products on mainnet in early Q2.
+
+Feel free to join our Slack to follow along with the community: https://t.co/oKkdiN6yQd",1,0,0,2020-02-12
+31,2020-02-13 15:05:54+00:00,1227972167561875458,UMAprotocol,"@ethdapp @SebastianStant @_themitch_ @mjayceee Thanks for tagging in the team! 
+
+We're excited to see the idea of synthetic tokens inspiring you in your hackathon projects. 
+
+Let us know if you ever want to bounce other ideas around - feel free to post them in a channel or DM us in our Slack: https://t.co/oKkdiN6yQd",2,0,0,2020-02-13
+32,2020-02-14 15:39:01+00:00,1228342891774390273,UMAprotocol,"If you can't make it to @EthereumDenver, try participating in #CALVINhacks!
+
+Some synthetic token hack ideas: 
+
+- tokens that track the number of downloads of a Chrome extension (e.g. Metamask)
+- tokens that track social trends, such as mentions of a keyword in Reddit comments https://t.co/2WEMAv5Rq6",5,0,1,2020-02-14
+34,2020-02-20 19:48:18+00:00,1230579953634332672,UMAprotocol,"1. Create a synthetic token tracking # of open tabs @calchulus has. 
+2. Sell tokens on a DEX. 
+3. ??? 
+4. Profit if Calvin closes all his tabs before the token's expiration date. 
+
+Ask us how the ??? works - and how it relates to our ""priceless"" designs! https://t.co/U6ABOZBPXC",2,0,0,2020-02-20
+36,2020-02-21 14:55:23+00:00,1230868624191238144,UMAprotocol,"If by ""oracles"" you mean ""on-chain price feeds""... we tend to agree! 
+
+Learn more about ""priceless"" contracts in our research paper and keep an eye out for more content and code we'll be sharing in the next few months.
+
+https://t.co/PAQYKt9nAM https://t.co/dldrBobXK5",1,0,1,2020-02-21
+38,2020-02-22 14:23:39+00:00,1231223027389562880,UMAprotocol,"@Be1garat @TL_Cloud @ChrisBlec @DextfP Our next financial contract template uses a lot of the same principles you've described - but we believe this works even if the underlying isn't blockchain native.
+
+We're creating synthetic derivatives that can provide financial risk to the price of anything - look out for more!",1,1,0,2020-02-22
+39,2020-02-23 03:03:28+00:00,1231414240172531713,UMAprotocol,"@Be1garat @TL_Cloud @ChrisBlec @DextfP This template will support synthetic tokens, whose redemption value will have a linear relationship to the reference index. 
+
+Check out this project from @aliatiia_ and others using the concept of synthetic tokens to create options: https://t.co/zXMLygUYL2",0,1,1,2020-02-23
+41,2020-02-25 16:25:16+00:00,1232340795329515521,UMAprotocol,"Are you attending @EthTurin and looking for project ideas? Synthetic tokens offer an interesting funding model for ESG projects. Check out these 2, and add your own below!
+
+https://t.co/UIF7fB5fBS
+
+https://t.co/2IjCeExghI",2,0,1,2020-02-25
+43,2020-02-28 20:01:22+00:00,1233482343983304704,UMAprotocol,"Not a perpetual swap, but you could use UMA's synthetic token design to create (tokenized) VIX futures on-chain!
+
+(Can you find an arb opportunity?) https://t.co/l4jYb50bQP",8,0,2,2020-02-28
+45,2020-03-02 14:25:40+00:00,1234485025858621441,UMAprotocol,"@ChrisBlec @OhGodAGirl Not built with our technology, and also not a synthetic token, since it's not backed by any collateral. 
+
+Just an interesting example of tokenomics! 
+
+Here's an idea for a synthetic token that tracks coronavirus incidents: 
+https://t.co/2IjCeExghI",1,0,0,2020-03-02
+48,2020-03-03 19:30:56+00:00,1234924237590335488,UMAprotocol,We're looking forward to supporting PieDAO in creating synthetic tokens for new on-chain portfolios! https://t.co/U2j58CJ5MF,10,0,5,2020-03-03
+49,2020-03-05 23:43:35+00:00,1235712592578043904,UMAprotocol,"@tokenterminal .@allilulllc , @hal2001 and the rest of the UMA team have spent significant amounts of time thinking through what a ""Uniswap-tracking token"" might look like.
+
+Happy to discuss more via DMs or in our Slack: https://t.co/STDiLuIYbu",1,0,0,2020-03-05
+51,2020-03-06 16:19:12+00:00,1235963149284708353,UMAprotocol,"We look forward to being the least-used oracle in DeFi.
+
+(Keep an eye out for our first ""priceless"" product to find out more!) https://t.co/nakRg0rtOk",16,1,1,2020-03-06
+52,2020-03-09 15:02:48+00:00,1237031087886475272,UMAprotocol,"Just one of the things you can do with synthetic tokens... 
+
+https://t.co/B97KXY7fFv https://t.co/EOHCJrPeVR",2,1,0,2020-03-09
+56,2020-03-10 15:24:57+00:00,1237399047163568130,UMAprotocol,"@masaoyana Happy to answer any questions you may have! Check out our whitepapers, previous talks, and  Slack. 
+
+Whitepapers: https://t.co/f6Z80lOpSk
+
+Previous talks: https://t.co/hChsu4eWjD
+
+Slack: https://t.co/STDiLuIYbu",1,0,0,2020-03-10
+58,2020-03-12 21:38:27+00:00,1238217819944292352,UMAprotocol,"With so many upcoming conferences being cancelled/postponed... 
+
+Which *virtual* conferences (defi focused, ideally) should we attend this upcoming spring/summer? Looking for suggestions!",1,1,0,2020-03-12
+60,2020-03-14 00:43:15+00:00,1238626714261086208,UMAprotocol,"@C1aranMurray Sounds like you're interested in a token that tracks realized % volatility of BTC/USD? We've had a few people in our Slack also interested in this kind of product - and it could be doable! 
+
+https://t.co/oKkdiN6yQd
+
+What are your thoughts on a % change token vs. $ change token?",4,0,0,2020-03-14
+61,2020-03-17 01:01:33+00:00,1239718481676898305,UMAprotocol,"(to the tune of ""If you like Pina Coladas"")
+
+🎶 If you make DeFi incentives...
+but they can't be maintained... 🎶 https://t.co/lhbjuJocmV",4,0,2,2020-03-17
+64,2020-03-19 18:22:47+00:00,1240705293270634497,UMAprotocol,"""Black Thursday"" was a perfect storm for any synthetic asset platform: 
+- Gas price spikes
+- Collateral value drops
+- Tracking price spikes 
+
+There are many lessons to be learned from what we've seen so far, as the strong community around @MakerDAO is showing us!",6,0,1,2020-03-19
+67,2020-03-20 19:46:49+00:00,1241088829269958659,UMAprotocol,"@FaridRached @basisprotocol @nadertheory Kind of, but not really.
+
+The big difference between an algorithmic stablecoin and what's being proposed here is that one is backed by collateral, while one is backed by the promise of more stablecoins in the future.",2,1,0,2020-03-20
+73,2020-03-23 16:58:37+00:00,1242133661622906887,UMAprotocol,Welcome to our weekly (remote) engineering meeting: https://t.co/R5u3ppSKSf,4,0,0,2020-03-23
+74,2020-03-24 22:07:07+00:00,1242573686491709441,UMAprotocol,"Many projects enable cross-chain exchange, but most use cross-chain ""financial trust"" models. 
+
+With UMA's synthetic token templates, synthetic BTC on Ethereum could be created by overcollateralizing synthetic BTC with any ERC-20.
+
+More to come this week on these templates! https://t.co/7gUrfr3Tj5",6,1,2,2020-03-24
+75,2020-03-25 20:33:28+00:00,1242912506659700744,UMAprotocol,"We've got more to say! 
+
+1/ It’s no surprise that the UMA oracle is particularly compatible with this financial contract design. Here’s why: https://t.co/M10XvEpHee",10,1,0,2020-03-25
+91,2020-03-27 14:36:17+00:00,1243547396040200196,UMAprotocol,"We're figuring out how to ignore oracles *better*. 
+
+https://t.co/03rmAEJGuu https://t.co/h8KboRd2qM",13,1,1,2020-03-27
+94,2020-03-30 22:19:03+00:00,1244751017767505933,UMAprotocol,👋 Sounds like a great idea for a synthetic token with our new financial contract template... https://t.co/KXuOw2CGPi,3,0,1,2020-03-30
+95,2020-03-31 14:41:26+00:00,1244998244041662464,UMAprotocol,"@George_harrap If there is a spike in the amount of collateral a token is redeemable for, token sponsors may be liquidated without a dispute. Liquidators are incentivized to do this if they will receive collateral worth more than the price they paid for the tokens they submit in liquidation.",0,0,0,2020-03-31
+96,2020-04-01 15:25:39+00:00,1245371758481416194,UMAprotocol,https://t.co/k7rn4JTwuv,16,1,2,2020-04-01
+98,2020-04-02 15:43:47+00:00,1245738709682728963,UMAprotocol,Happening today in &lt;2 hours at 1:30pm ET - ask us any questions you have on priceless token design! https://t.co/fCoLhvGOxU,4,0,0,2020-04-02
+101,2020-04-03 21:32:52+00:00,1246188945379033091,UMAprotocol,"@taisuke_mino You might be interested in our ""priceless"" synthetic token design: https://t.co/03rmAEJGuu
+
+We'd love to hear your thoughts here, in DMs, or in our Slack: https://t.co/STDiLuIYbu",0,0,0,2020-04-03
+107,2020-04-07 18:42:57+00:00,1247595737686425606,UMAprotocol,Impressive work! https://t.co/cGumA0YPgl,6,0,1,2020-04-07
+108,2020-04-08 15:05:23+00:00,1247903370314055682,UMAprotocol,"We're here to help if anyone wants to make priceless synthetic bitcoin! 
+
+https://t.co/NA8fjvEOWx
+
+https://t.co/TrwRsA7dFw",4,0,1,2020-04-08
+109,2020-04-09 01:55:06+00:00,1248066878477606919,UMAprotocol,"@kermankohli 👋
+
+We're writing lots of code.
+
+https://t.co/mTW9mRQbZA",6,0,0,2020-04-09
+113,2020-04-10 15:01:32+00:00,1248627177911799808,UMAprotocol,"Learn more here: https://t.co/TrwRsA7dFw
+
+Join our Slack if you have questions: https://t.co/STDiLv0z32",0,0,0,2020-04-10
+121,2020-04-13 22:36:14+00:00,1249828772561457152,UMAprotocol,"Tune in on May 1 as @allilulllc shows you how to use our priceless financial contract template to make synthetic tokens! 
+
+https://t.co/03rmAEJGuu https://t.co/94K3si2X65",15,1,6,2020-04-13
+122,2020-04-15 20:50:03+00:00,1250526827384365056,UMAprotocol,"We'll be doing another ""AMA""/""Office Hours"" this Friday at 4pm ET. 
+
+Feel free to ask us questions about anything you see in our Github: https://t.co/mTW9mRQbZA",8,0,1,2020-04-15
+123,2020-04-16 20:45:00+00:00,1250887941355954181,UMAprotocol,"Why does our decentralized oracle have so many contracts, and what do they all do? Which one puts the prices on-chain? (Trick question.)
+
+Ask us tomorrow during our ""Office Hours"" at 4pm ET. 
+
+Github: https://t.co/LGWXtNKmyg https://t.co/24aVRth0HE",2,0,0,2020-04-16
+128,2020-04-17 20:27:10+00:00,1251245841303699467,UMAprotocol,"@fcmartinelli When a price request is made (during a dispute), the UMA DVM asks all UMA token holders to vote on the price request. 
+
+This is why all contracts using the DVM must register them and their price identifiers with the DVM - so that UMA voters are prepared to vote on these values.",2,0,0,2020-04-17
+142,2020-04-20 18:58:52+00:00,1252310783729508353,UMAprotocol,"With synthetic derivatives, you never have to take physical delivery. 
+
+Should we re-run this poll again? https://t.co/XiAGkKkKJK",2,1,0,2020-04-20
+144,2020-04-22 00:52:32+00:00,1252762175732625409,UMAprotocol,"@dchem @MaxAWebster @KryptoJoseph This is one reason we advocate using ""priceless synthetic tokens"", which don't use an on-chain price feed to determine the collateralization for each token. 
+
+We've written a financial contract to help create these: https://t.co/03rmAEJGuu",1,0,0,2020-04-22
+147,2020-04-23 20:45:09+00:00,1253424694486634498,UMAprotocol,"We're sponsoring @ETHGlobal's HackMoney and offering 2 bounties: 
+
+- $1,000 to the most interesting interface for priceless synthetic tokens
+- $1,000 to the best way of incentivizing or providing liquidity for priceless synthetic tokens
+
+Read more here: https://t.co/ryweE7IQVo",15,0,4,2020-04-23
+148,2020-04-24 19:10:02+00:00,1253763145606275074,UMAprotocol,"The UMA network is wholly-governed by $UMA-holders, and UMIPs are used to coordinate governance proposals. 
+
+Read more about how UMIPs work here: 
+
+https://t.co/MJuV76pKyA",21,0,2,2020-04-24
+149,2020-04-27 14:41:19+00:00,1254782686360530952,UMAprotocol,Looks like an interesting reference index for a priceless synthetic token... 👀 https://t.co/3MBEzhlBSj,5,1,0,2020-04-27
+150,2020-04-28 21:39:53+00:00,1255250407233912833,UMAprotocol,cc @AsherT,0,1,0,2020-04-28
+156,2020-04-29 15:01:43+00:00,1255512596045795328,UMAprotocol,The UMA project token $UMA will be listed shortly. https://t.co/VYTt9mPZFi,16,11,1,2020-04-29
+161,2020-04-30 02:49:04+00:00,1255690605243650048,UMAprotocol,Earlier today @OpenZeppelin published their security audit report on the UMA DVM: https://t.co/nvUNot80Rs,24,1,6,2020-04-30
+165,2020-05-01 22:01:05+00:00,1256342907541499905,UMAprotocol,"Happening today in 3.5 hours (6:30pm PT): @allilulllc will show you how to create ""priceless synthetic tokens"" yourself. 
+
+Learn more about the mechanisms here: https://t.co/rgpn03kr6T https://t.co/99iQpUCy26",4,1,2,2020-05-01
+166,2020-05-02 15:00:01+00:00,1256599328422014977,UMAprotocol,"Today at 4:30pm PST:
+
+@fcmartinelli and @hal2001 present ""Using UMA and @BalancerLabs to Create Perpetual Synthetic Tokens""
+
+Register here: https://t.co/15k3vs748d https://t.co/asYGHFgPFK",23,1,4,2020-05-02
+167,2020-05-03 14:39:09+00:00,1256956466025713671,UMAprotocol,@ProficieNtOCE @fcmartinelli @hal2001 @BalancerLabs This is an active area of work for the UMA/Balancer teams - @hal2001 might be able to share some thoughts.,2,1,0,2020-05-03
+168,2020-05-04 16:54:34+00:00,1257352932779057152,UMAprotocol,"UMIP #2 and UMIP #4 are open for comments and discussion in the #umips channel of our Slack: 
+https://t.co/STDiLuIYbu
+
+UMIP #2 adds a new price identifier and UMIP #4 adds the ""priceless synthetic token"" contract template. Both are needed to create a *new* synthetic token...",7,0,2,2020-05-04
+171,2020-05-05 15:23:20+00:00,1257692360353492992,UMAprotocol,"Long --&gt; Buy a synthetic token
+Short --&gt; Be a token sponsor
+
+Learn more about priceless synthetic tokens: https://t.co/03rmAEJGuu https://t.co/VeyxqOF3NO",6,0,2,2020-05-05
+172,2020-05-07 13:57:32+00:00,1258395546076827654,UMAprotocol,"It looks like there people working on #1 and #2 for @ETHGlobal's HackMoney...
+
+Check out the Discord for more inspiration: https://t.co/s6D4zPJTto https://t.co/yVoI2DnWIW",11,0,4,2020-05-07
+173,2020-05-08 20:04:03+00:00,1258850168159559680,UMAprotocol,"@tzhen Come join the UMA channel in Discord! 
+
+https://t.co/s6D4zPJTto",1,0,0,2020-05-08
+178,2020-05-11 13:41:16+00:00,1259841005064540160,UMAprotocol,"@noahseidman @noah_putnam @strangechances @SetProtocol @AaveAave On-chain price feeds that ""push"" data at frequent intervals can be expensive to maintain. 
+
+""Priceless synthetic tokens"" don't require an on-chain price feed. They ""pull"" data on-chain when needed to resolve disputes: 
+
+https://t.co/M10XvEpHee",0,1,0,2020-05-11
+183,2020-05-12 14:53:36+00:00,1260221594196197376,UMAprotocol,"@pedrouid @RyanSAdams @MakerDAO @synthetix_io @MetaCoinProject @stefan__ionescu The ""priceless synthetic token""  liquidation mechanism seems compatible with this ""framework"": https://t.co/M10XvEpHee
+
+A lot of the features you describe also seem particularly relevant to perpetual synthetic tokens. @hal2001 and @fcmartinelli gave a talk on this recently...",1,1,0,2020-05-12
+187,2020-05-13 18:53:59+00:00,1260644475191177216,UMAprotocol,"@cryptowanderer @ahopebailie @sytaylor @MichaelJordaan @BankZeroSA You might be interested in this design for overcollateralized synthetic tokens: https://t.co/rgpn032PIj
+
+@pscltllrd is working to build synthetic EUR using this template, and synthetic ZAR might be on their roadmap.",1,1,0,2020-05-13
+191,2020-05-14 15:01:54+00:00,1260948459479334912,UMAprotocol,"In 2.5 hours, the UMA team will answer any questions you have about:
+
+- DVM and priceless synthetic token mechanics: https://t.co/yf6h67Wl56
+- UMIPs: https://t.co/MJuV76pKyA
+- @allilulllc and @hal2001 presentations at DeFi Discussions: https://t.co/IzsyiHZdWo
+
+Or anything else!",4,0,1,2020-05-14
+197,2020-05-15 14:51:51+00:00,1261308316493516800,UMAprotocol,"@cryptodiario @alexgausman @RyanSAdams A token sponsor who creates a synthetic token has no exposure until they sell the token to someone else, at which point they have short exposure to the token. 
+
+Their short exposure ends when they buy the token back (perhaps to redeem it) or at expiration.",3,1,0,2020-05-15
+203,2020-05-17 02:46:27+00:00,1261850539589079040,UMAprotocol,Note: this is purely a dApp issue. There are no issues with any smart contracts (including 2-key contracts).,0,0,0,2020-05-17
+208,2020-05-18 01:52:53+00:00,1262199446454108160,UMAprotocol,"Voting on UMIP-4 (approving the ExpiringMultiParty contract template) and UMIP-2 (approving the ETHBTC price identifier) has reopened. 
+
+$UMA token holders should submit commit votes now. 1/3",2,2,0,2020-05-18
+211,2020-05-20 19:54:19+00:00,1263196374893502464,UMAprotocol,thanks + source of inspiration : @ben_chain @cburniske @CremeDeLaCrypto @danrobinson @fcmartinelli @FollowTheChain @jillruthcarlson @hosseeb @haydenzadams @jinglanW @karl_dot_tech @ProficieNtOCE @sunnya97 @tomhschmidt @teo_leibowitz @tzhen @VitalikButerin @_mminton,13,0,0,2020-05-20
+222,2020-06-02 00:28:50+00:00,1267614113481490434,UMAprotocol,We're very excited to have @adrianmcli join our team! https://t.co/8osyywOki3,11,0,1,2020-06-02
+223,2020-06-03 05:00:07+00:00,1268044770196115457,UMAprotocol,"Congratulations to the winners of the @ETHGlobal #HackMoney hackathon!
+
+Some mind-blowing products were built using UMA infrastructure, and we are excited to announce our two $1,000 winners and honorable mentions:
+
+👇🏽👇🏽👇🏽",41,2,9,2020-06-03
+228,2020-06-05 03:40:17+00:00,1268749459128676355,UMAprotocol,"🚨 Keepers and arb wizards 🚨
+
+We have released our documentation on Liquidation and Dispute bots!  Learn how to run and maintain them, make a profit, and keep the UMA system running smoothly.
+
+https://t.co/kHzB63s7Td",19,1,4,2020-06-05
+229,2020-06-08 14:38:44+00:00,1270002327345197056,UMAprotocol,"We listened!  By request, we have launched our Discord community:
+
+https://t.co/TOnlBYh8sm
+
+Inside, UMA is soliciting community feedback on what new Price Identifiers and Collateral Types should be voted on next.
+
+Hop into the token-ideas channel to discuss.",32,3,4,2020-06-08
+230,2020-06-09 08:07:31+00:00,1270266259632869376,UMAprotocol,"We're excited to welcome Clayton as our new Head of Community Development!
+
+Join the UMA community here: https://t.co/TOnlBYh8sm https://t.co/misgLNQBZ5",14,1,0,2020-06-09
+231,2020-06-12 22:57:07+00:00,1271577297489932296,UMAprotocol,"3/ Dispute bots keep liquidators in check, and they provide a strong disincentive to attempt invalid liquidations.  
+
+As of today, there have not yet been any liquidation disputes.  We will contrive one in the coming weeks and share the details here.",6,0,0,2020-06-12
+240,2020-06-13 10:55:59+00:00,1271758209355706369,UMAprotocol,"Potion was an @ETHGlobal Hack Money winner built on UMA and is on its way to traction.
+
+It is a #defi money lego that uses Black-sholes pricing to offer put options that function as insurance on supported assets. Join their community 👇 https://t.co/gkjW2LzcEj",17,0,6,2020-06-13
+241,2020-06-15 05:28:03+00:00,1272400457969827841,UMAprotocol,"UMA's Co-founder @hal2001 is joined by Synthetix Co-founder @kaiynne in an event hosted by @StaniKulechov of Aave - Synthetic Assets Explained 
+
+https://t.co/zCsoxUw2lv
+
+Less than 24 hours from now - Add it to your calendar through the link above.",41,2,9,2020-06-15
+243,2020-06-16 22:49:06+00:00,1273024834948280320,UMAprotocol,"@PaulRBerg @opyn_ @synthetix_io A project building on UMA uses options as a form of price insurance - Check out @PotionLabs
+
+This short explainer video does a good job:   https://t.co/9DOCXUNfUP",11,0,2,2020-06-16
+244,2020-06-19 23:45:17+00:00,1274126137480757248,UMAprotocol,"🚨 New arbitrage opportunity 🚨 
+
+A buyer bought up $ETHBTC and it is trading rich on @UniswapProtocol v2... this is a 29% premium to fair value (~0.0311 vs .0246 right now).",21,1,4,2020-06-19
+249,2020-06-20 05:25:12+00:00,1274211678964592642,UMAprotocol,"The UMA team will be hands off except to offer this sponsor guide:
+
+https://t.co/bHvaTA1iY8
+
+And is happy to offer support in Discord 
+
+https://t.co/TOnlBYyJQW",2,0,0,2020-06-20
+256,2020-06-21 02:42:28+00:00,1274533113998303232,UMAprotocol,"In about 3 days @allilulllc and @hal2001 will do a live chat AMA: 
+
+All Things UMA with Co-Founders Hart &amp; Allison.
+
+This event will be in our Discord server.  See you there!
+https://t.co/TOnlBYyJQW",6,0,1,2020-06-21
+257,2020-06-22 03:47:12+00:00,1274911791017979905,UMAprotocol,"The UMA community is in the process of creating a COMP synth.  This would allow people to short the COMP token.
+
+This option already exists on a centralized custodial trading platform.  This experiment will help reveal the value added by having a permissionless means to short.",155,7,31,2020-06-22
+260,2020-06-23 15:12:49+00:00,1275446720130715650,UMAprotocol,"In 8 hours, we will do something curious: we will intentionally try to steal money from a collateralized position of the ETHBTC synthetic token.",150,6,26,2020-06-23
+270,2020-06-24 12:50:21+00:00,1275773256801419264,UMAprotocol,7/  $UMA holders will be asked to submit the price of ETHBTC at the timestamp of the liquidation.  The outcome of the on-chain governance process will decide which party wins the dispute.,4,2,1,2020-06-24
+278,2020-06-25 02:16:12+00:00,1275976052339335168,UMAprotocol,"Attention $UMA Token Holders - The ETHBTC price request vote is now open at https://t.co/5dd2ZrBHUx
+
+Please visit https://t.co/ntDDo63WdQ to see how the price should be deteremined.
+
+If you have questions, kindly join the Discord channel. https://t.co/0BEM04tk0y",4,0,0,2020-06-25
+279,2020-06-26 13:57:27+00:00,1276514917005344769,UMAprotocol,"6/ As the yToken approaches expiry, on August 1st, 2020, it will approach the COMP price.  
+
+The reason for this is that at expiry, the yCOMP is redeemable for the underlying Dai at the price of COMP at the instant of expiry.",7,1,0,2020-06-26
+293,2020-06-27 04:13:18+00:00,1276730298483355649,UMAprotocol,@golgireport Is this good or bad?,0,0,0,2020-06-27
+296,2020-06-29 22:30:15+00:00,1277731130209210368,UMAprotocol,"Risk Labs will split the ~6500 ETH and ~800k $UMA currently supplied to Uniswap V1 between Uniswap V2 and Balancer, and add an additional ~1.2mm $UMA to the 80/20 Balancer pool.
+
+The result will look like this:
+
+Uniswap v2: ~3250 ETH &amp; ~400k $UMA
+Balancer: ~3250 ETH &amp; ~1.6mm $UMA",11,2,0,2020-06-29
+300,2020-07-01 23:56:37+00:00,1278477640920207362,UMAprotocol,"The $UMA token is now available on both @UniswapProtocol V2 and @BalancerLabs.
+
+Uniswap v2 UMA/ETH: https://t.co/gLr0CTb03O
+
+Balancer 80% UMA / 20% ETH https://t.co/7rSx1yHpfT",71,2,13,2020-07-01
+301,2020-07-02 13:00:17+00:00,1278674858994475008,UMAprotocol,"6/ As a result, it becomes impossible to “trick” the DVM into thinking you hold more tokens than you actually do. After this snapshot is taken, voters can reveal their votes in the normal fashion.",1,1,0,2020-07-02
+309,2020-07-08 07:17:49+00:00,1280762999620268033,UMAprotocol,"Many people have requested a token minting interface. 
+The community has delivered just that!
+
+https://t.co/1D9RYZK3fu
+
+Please use cautiously and at your own risk.",45,1,8,2020-07-08
+312,2020-07-10 05:59:12+00:00,1281467993751302145,UMAprotocol,"Two UMIP drafts have been added to the repo and are ready for $UMA token holder comments.
+
+https://t.co/mzljKtk9gQ
+https://t.co/WjNXfvYBkd
+
+Together, they will add ETHUSD, USDETH, BTCUSD, and USDBTC as price identifiers.  After comments, they will be submitted for a vote.",14,1,0,2020-07-10
+313,2020-07-14 11:45:34+00:00,1283004708777529344,UMAprotocol,"4/ These five UMIPs together will provide a handful of highly composable price IDs and collateral combination possibilities.  This lays the groundwork for their deployment.
+
+Stay tuned for the first deployment TBA shortly: a yUSD ""Yield Dollar"" 🔥",7,0,0,2020-07-14
+318,2020-07-17 23:53:55+00:00,1284275167028375552,UMAprotocol,"In 24 hours a vote will open for $UMA token holders.
+
+There will be five UMIPs up for vote, please review them here (Proposals 6, 7, 8, 9, and 10)
+
+https://t.co/lFBHA0nhPN
+
+Join the Discord community to discuss: https://t.co/VBqf9XG7bk",13,4,3,2020-07-17
+320,2020-07-18 22:59:10+00:00,1284623778840899584,UMAprotocol,"Voting opens in 1 hour for UMIPs 6, 7, 8, 9, and 10.  These are all YES/NO votes.
+
+The links to each UMIP are here: https://t.co/lFBHA0nhPN
+
+Vote here https://t.co/5dd2ZrTiM5
+
+Remember: This is the first of two steps to vote.  Commit first, then reveal in the next 24 hour window.",7,0,1,2020-07-18
+321,2020-07-19 23:28:00+00:00,1284993422047223814,UMAprotocol,Voting closes in 30 minutes! https://t.co/vHkecSEZdW,5,0,1,2020-07-19
+322,2020-07-20 01:08:28+00:00,1285018707199094785,UMAprotocol,"The commit period of the current voting round is now closed.  The reveal period is now open - Please be sure to reveal your vote in order for them to be counted and to earn inflation rewards!
+
+https://t.co/5dd2ZrTiM5",5,0,1,2020-07-20
+323,2020-07-22 23:31:33+00:00,1286081480389787648,UMAprotocol,"7/ 
+
+Read more here:
+https://t.co/Er4oqYZAmf
+
+yUSD-SEP20 Minting guide: https://t.co/JtnWSRNU24
+
+Minting UI:
+https://t.co/GT7ZzHeEi5
+
+Balancer pool: https://t.co/sc7e1djzt9
+
+UMA on Discord:
+https://t.co/VBqf9XXIzU",22,2,1,2020-07-22
+330,2020-07-23 01:43:58+00:00,1286114804546101254,UMAprotocol,Thanks to @danrobinson and @niemerg for the inspiration for the Yield Dollar as from their paper “The Yield Protocol: On-Chain Lending With Interest Rate Discovery”,14,0,2,2020-07-23
+332,2020-07-25 16:08:38+00:00,1287057177643868160,UMAprotocol,"1/ Announcing UMA's Liquidation Opportunity Program
+
+On July 31, Risk Labs will intentionally create an under-collateralized position, creating an on-chain profit opportunity of ~$1,000 for any liquidator bot to take.",53,5,9,2020-07-25
+335,2020-07-27 23:39:48+00:00,1287895495919243265,UMAprotocol,"4/ Participants should be careful to note the trading price of yUSD and its implications on your yield.  If you purchase yUSD far above $1, be aware that the price will converge down to $1 as Sep 1st approaches.
+
+If you purchase yUSD for more than $1, do so mindfully.",13,1,1,2020-07-27
+340,2020-07-28 02:09:37+00:00,1287933196865359872,UMAprotocol,@bakamoto20 Every 15mins.,5,0,0,2020-07-28
+342,2020-07-29 06:34:09+00:00,1288362156996489216,UMAprotocol,"The majority of talk around the liquidity mining program has focused on the yield.
+
+What has been overlooked is the opportunity to earn 35%+ by leveraging long on ETH.
+
+When was the last time you could get paid to do so? https://t.co/9OC9PGAEuG",39,4,8,2020-07-29
+347,2020-07-30 20:41:54+00:00,1288937886868541440,UMAprotocol,"1/ The price of UMA’s yCOMP synth has never come on-chain.
+
+Still, the token has remained sufficiently (over)collateralized.
+
+Expiry will likely be the first and only time the price of COMP needs to come on-chain via a price request from the DVM oracle. https://t.co/wWTKYgf7pV",22,1,2,2020-07-30
+358,2020-07-31 00:48:40+00:00,1288999989029400576,UMAprotocol,"Final reminder of tomorrow's Liquidation Opportunity Program.
+
+Join our Discord now to find out how to win $1,000 by running a liquidation bot.
+
+Discord: https://t.co/VBqf9XG7bk
+
+Program details: https://t.co/TXnIWssQ5O https://t.co/kh0dtDfUOR",7,0,2,2020-07-31
+361,2020-08-01 21:25:37+00:00,1289673667085926402,UMAprotocol,"Voting for the prices of ETHBTC and yCOMP will start in about 2.5 hours.
+
+$UMA token holders will have 24 hours to commit the prices.  Join the Discord to discuss: https://t.co/VBqf9XG7bk
+
+See related UMIPs here:
+
+ETHBTC: https://t.co/ntDDo5MkPg
+
+yCOMP:
+https://t.co/umZhbM9yPe https://t.co/NSiPbz2foZ",7,0,0,2020-08-01
+363,2020-08-02 21:15:39+00:00,1290033544081952770,UMAprotocol,"Just under 3 hours remaining to submit your vote.  
+
+After that 3 hour period, you can reveal your vote, which is the final and necessary step in the voting process. https://t.co/GYmF77XTei",10,0,0,2020-08-02
+364,2020-08-03 22:03:39+00:00,1290408011039735808,UMAprotocol,"Two hours remain in the current ""reveal"" period for $UMA token holders.  
+
+https://t.co/PjF1PUXcyj
+
+After this vote is concluded, the settlement prices for ETHBTC and COMPUSD will be available from the DVM.",8,0,0,2020-08-03
+366,2020-08-05 07:55:15+00:00,1290919280419143681,UMAprotocol,"The Risk Labs Foundation has distributed 25,000 $UMA to liquidity miners providing funds to the yUSD / USDC pair on Balancer.
+
+https://t.co/K0TtAOmwm2
+
+https://t.co/56ZPQ6jg9F
+
+https://t.co/E72qvo2qfc",22,2,2,2020-08-05
+370,2020-08-06 01:21:07+00:00,1291182484558938112,UMAprotocol,"🚨 Attention $UMA governance:
+
+There has been a liquidation dispute filed on behalf of a sponsor.  This dispute triggers a price request from the DVM at the timestamp of the liquidation.  
+
+Voting is now open for the price of USDETH.",24,3,2,2020-08-06
+375,2020-08-07 01:00:36+00:00,1291539708133216256,UMAprotocol,"The commit period of the current voting round is now closed.  The reveal period is now open - Please be sure to reveal your vote in order for it to be counted and to earn inflation rewards!
+
+https://t.co/5dd2ZrBHUx",10,0,1,2020-08-07
+376,2020-08-08 03:17:46+00:00,1291936612805251072,UMAprotocol,"The liquidation dispute vote is now concluded - The DVM has returned 0.00251 for USDETH at the timestamp of the dispute.
+
+$UMA voters who voted accurately can claim their voting rewards at https://t.co/PjF1PVeNpR",3,0,0,2020-08-08
+377,2020-08-10 00:00:54+00:00,1292611845585608706,UMAprotocol,"3/ When tokens expire, they no longer track the reference asset (yUSD), but are instead redeemed for the underlying collateral (wETH).
+
+In certain cases, this could be sub-optimal for the sponsor, as it results in ""cashing out"" that synth at the moment of the liquidation.",4,1,0,2020-08-10
+381,2020-08-12 04:26:08+00:00,1293403370410180610,UMAprotocol,"yUSD Price Spike Alert:
+
+yUSD is trading for $1.085, which represents a 1.085^(1/(20/365))-1 = 343% annualized payment for leveraging long ETH.
+
+This would be a fixed-rate loan for 20 days. https://t.co/QfpegdkwS7",39,1,4,2020-08-12
+382,2020-08-14 17:35:51+00:00,1294326883593736193,UMAprotocol,"In about an hour, we will be throwing up another ~$1,000 liquidation opportunity.
+
+Join the #liquidation-opportunity channel on our Discord (link in bio) to learn more. https://t.co/Ofd145G7bF",10,0,1,2020-08-14
+386,2020-08-18 07:00:17+00:00,1295616491665096704,UMAprotocol,The liquidation opportunity program will continue to be expanded - Announcement forthcoming. https://t.co/lg2MO2Ar3s,29,0,2,2020-08-18
+387,2020-08-25 00:56:33+00:00,1298061668526694400,UMAprotocol,"6/ Starting now, there is a 4-day overlap when both the SEP and OCT pools share the mining rewards.  There is no timing benefit so long as you rollover inside of this 4-day window.",6,1,1,2020-08-25
+394,2020-08-27 05:16:16+00:00,1298851806953345026,UMAprotocol,"The rollover from the expiring yUSD-SEP to the yUSD-OCT token is underway.  The OCT pool now has 57% of the total liquidity.  In 42 hours, the SEP pool will stop receiving rewards.
+
+Liquidity mining rewards are currently 86% APR. https://t.co/5Vg7OC0oMD",20,1,0,2020-08-27
+395,2020-08-28 17:45:20+00:00,1299402700405256192,UMAprotocol,"A total of $16,000 will be given away in the coming weeks for those who run liquidator bots on the UMA protocol.
+
+https://t.co/a0PkVaaVMM",30,0,5,2020-08-28
+396,2020-08-29 10:40:51+00:00,1299658265391845378,UMAprotocol,"Farmers can earn a healthy 153% APR in liquidity mining rewards on the yUSD-OCT pool.  
+
+Let this tempt you to roll over from the Sep pool (1.3mm yUSD remain).  
+
+Funds remaining in the pool after Aug 31st will have price exposure and may suffer higher impermanent loss. https://t.co/JZUweZj5qR",18,0,4,2020-08-29
+397,2020-08-30 01:55:35+00:00,1299888464067014657,UMAprotocol,"Voting is now open for renBTC to be approved as a collateral type.
+
+https://t.co/4z7KbvMCUW
+
+Vote here https://t.co/5dd2ZrBHUx
+
+This is the first of two steps to vote.  Return to ""Reveal"" in 24h.
+
+Join the Discord community to if you have questions: https://t.co/VBqf9XXIzU",86,2,33,2020-08-30
+399,2020-08-31 06:24:13+00:00,1300318456458301441,UMAprotocol,"@not_a_bot_beep Yes, if your collateralization ratio falls under 125%, you can be liquidated.",0,1,0,2020-08-31
+402,2020-09-01 12:44:28+00:00,1300776535637467136,UMAprotocol,"Attention farmers - https://t.co/gKPI6zdrqE is showing a VERY incorrect APR for supplying liquidity to the yUSD-USDC pool.
+
+Please use https://t.co/GT7ZzGX2Tv to check the current rate - This moment it is 292%.
+
+Kindly request a fix @CarterMcAIister https://t.co/kRloXmMuMM",32,4,5,2020-09-01
+403,2020-09-02 04:01:55+00:00,1301007421637193728,UMAprotocol,"1/ In 20 hours, votes will open for $UMA token holders.
+
+The first is a request for the price of USDETH at the time that the yUSD-SEP20 token expired: Aug 31st, 00:00 UTC.
+
+Discuss at https://t.co/je9sVwTc1Z in the #voting channel
+See voting schedule here: https://t.co/Y1WpWyISCj",13,2,2,2020-09-02
+406,2020-09-03 08:20:29+00:00,1301434879846932480,UMAprotocol,"$UMA will be listed on Coinbase Pro.  
+
+https://t.co/frLTRIiYlW",134,6,26,2020-09-03
+408,2020-09-07 13:33:55+00:00,1302963308648038403,UMAprotocol,"Mint renBTC: 
+https://t.co/MGKaWTIUYZ
+
+Mint uUSD:
+https://t.co/apRHvB5nNc 
+
+Swap uUSD &lt;&gt; USDC: https://t.co/pfHuQ7PHNK
+
+Add liquidity:
+https://t.co/6dBpg1Uh2O
+
+Discuss:
+https://t.co/je9sVwTc1Z",37,3,9,2020-09-07
+413,2020-09-08 02:03:50+00:00,1303152031180316673,UMAprotocol,"Users of renBTC and the uUSDrBTC-OCT product should be careful to understand the risks and considerations associated with @renprotocol being in phase sub-zero.  
+
+You can read more about it here: https://t.co/CSmVBkuOQq",16,2,0,2020-09-08
+415,2020-09-10 03:46:30+00:00,1303902644184834049,UMAprotocol,"In 22 hours a vote will open for $UMA token holders.
+
+There are two votes up for consideration - UMIPS 12 and 13 - Pleaser review them here:
+
+https://t.co/lFBHA0nhPN
+
+Join the Discord community to discuss: https://t.co/nYdsfdhY8Z",27,0,5,2020-09-10
+417,2020-09-13 00:00:00+00:00,1304932808872390658,UMAprotocol,"The commit phase of the current voting round is now OPEN.  Both votes are for a collaboration between @perlinnetwork and UMA.
+
+You have 24 hours to submit your vote on the following UMIPS:
+
+https://t.co/HvAUSXYEwj…
+
+https://t.co/ofX0tX74Ux…
+
+Vote here https://t.co/5dd2ZrBHUx",24,1,3,2020-09-13
+419,2020-09-14 00:00:00+00:00,1305295195546640385,UMAprotocol,"The commit phase of the current voting round is closed.  The reveal phase is OPEN.
+
+If you already voted you have 24 hours to reveal your vote.  This is necessary for it to be counted and to earn inflation rewards.
+
+Reveal here:
+https://t.co/5dd2ZrTiM5",7,0,0,2020-09-14
+423,2020-09-15 08:39:34+00:00,1305788338167742464,UMAprotocol,"These rebates will be paid out in $UMA tokens, and will be automatically distributed to anyone who both commits and reveals their votes.  The current plan is to airdrop these rebates within 1-2 weeks of a vote.",7,2,1,2020-09-15
+428,2020-09-17 07:52:26+00:00,1306501250444222464,UMAprotocol,"Win $1000 just by programming a 🤖 to come collect it.
+
+There will be a Liquidation Opportunity in the next 24 hours - Compete with the other bots to win!  🦾
+
+Bot tutorial: https://t.co/Bi9jq1oQxN
+Community: https://t.co/je9sVwTc1Z https://t.co/GdFusgLMSj",10,2,1,2020-09-17
+429,2020-09-21 00:00:00+00:00,1307831909955915777,UMAprotocol,"The commit phase of the current voting round is now OPEN.
+
+You have 24 hours to submit your vote on the following UMIPS:
+
+https://t.co/vQU4q61L9X
+
+https://t.co/2iknEz3Iy3
+
+Vote here https://t.co/5dd2ZrBHUx
+
+Join the community to if you have questions: https://t.co/VBqf9XXIzU",9,1,3,2020-09-21
+431,2020-09-22 00:00:00+00:00,1308194300316925952,UMAprotocol,"The commit phase of the current voting round is closed.  The reveal phase is OPEN.
+
+If you already voted you have 24 hours to reveal your vote.  This is necessary for it to be counted and to earn inflation rewards.
+
+Reveal here:
+https://t.co/5dd2ZrTiM5",4,0,0,2020-09-22
+433,2020-09-24 00:48:44+00:00,1308931338003595264,UMAprotocol,"3/ The DEC tokens both expire at the end of the year.  Liquidity mining rewards on these DEC tokens will run for a 4-week minimum, and may not continue for that full period.  
+
+There is a new type of rewards scheme under works.
+
+
+
+Join the conversation: https://t.co/je9sVwTc1Z.",5,1,1,2020-09-24
+439,2020-09-28 02:12:21+00:00,1310401934755393539,UMAprotocol,"The @ETHGlobal Hackathon is almost upon us!
+
+Hacker or not, you have five chances to win 10 $UMA tokens (about $100) just by submitting an idea.
+
+Join https://t.co/je9sVwTc1Z and brainstorm in the ethonline channel.",13,2,1,2020-09-28
+444,2020-09-29 04:05:44+00:00,1310792852822085632,UMAprotocol,"UMA Farmers: this is a useful writeup by the community on how to rollover safely, as well as yield farming considerations with UMA.
+
+The only pools currently offering rewards are the DEC pools, please roll over now if you intend to.  Expiry is approaching, at 10pm UTC Sep 30. https://t.co/MqRPcSat9l",11,1,2,2020-09-29
+445,2020-09-30 03:50:22+00:00,1311151373656797184,UMAprotocol,"In 20 hours a vote will open for $UMA token holders.
+
+This vote is a price request from the DVM to settle the expiry price of uUSDrBTC-OCT and yUSD-OCT20.  
+
+Discuss at https://t.co/je9sVwTc1Z - #voting channel
+
+See voting schedule here: https://t.co/Y1WpWyISCj",8,0,0,2020-09-30
+446,2020-10-01 00:00:01+00:00,1311455795054292993,UMAprotocol,"The commit phase of the current voting round is now OPEN.
+
+$UMA holders have 24 hours to submit a vote for the price requests for USDETH, USDBTC, and for a liquidation dispute. 
+
+Vote here https://t.co/5dd2ZrBHUx
+
+Join the community to discuss https://t.co/VBqf9XXIzU",6,0,0,2020-10-01
+448,2020-10-02 15:59:00+00:00,1312059516352167937,UMAprotocol,"The ETHOnline Summit is live now:
+
+https://t.co/k6rIK8B299
+
+UMA is a proud sponsor of the ETHOnline Hackathon.",15,1,3,2020-10-02
+450,2020-10-05 07:06:39+00:00,1313012712708820992,UMAprotocol,"The OCT Yield Dollar tokens, backed by ETH and renBTC, have expired successfully and the DVM has returned these values:
+
+USD/ETH: 0.00280
+USD/BTC: 0.00009339
+
+There are still 88 renBTC and 6.1k wETH locked as collateral in these tokens.  They can be redeemed into perpetuity.",11,2,4,2020-10-05
+451,2020-10-06 15:00:04+00:00,1313494236759838728,UMAprotocol,"Join UMA's CEO and Technical Evangelist for a LIVE workshop as part of the @ETHGlobal Hackathon:
+
+ETHOnline 🛠️ UMA: Building priceless financial contracts with UMA
+
+Starting this instant!
+
+https://t.co/ine63IuiIm",9,1,1,2020-10-06
+452,2020-10-09 05:29:45+00:00,1314437878018007040,UMAprotocol,"What can you build with UMA?  
+
+The community has submitted their ideas for protocol integrations.  Read more here:
+
+https://t.co/gcjoLwW79r
+
+Hackers in the @ETHGlobal
+Hackathon have an opportunity to win $5,000 in $UMA tokens.",33,4,8,2020-10-09
+453,2020-10-12 00:00:00+00:00,1315442056324505600,UMAprotocol,"In 24 hours, a vote will open for $UMA token holders. 
+
+There are 2 votes up for consideration - UMIPS 16 &amp; 17 - Please review them here:
+
+https://t.co/lFBHA0nhPN
+
+Join the Discord community to discuss: 
+
+https://t.co/nYdsfdhY8Z",10,1,1,2020-10-12
+454,2020-10-13 00:00:01+00:00,1315804445821882369,UMAprotocol,"The commit phase of the current voting round is now OPEN. 
+
+You have 24 hours to submit your vote on the following UMIPS:
+
+https://t.co/lFBHA0ETen
+
+Vote here: https://t.co/5dd2ZrBHUx
+
+Join the community on Discord if you have questions: https://t.co/VBqf9XXIzU",13,0,0,2020-10-13
+456,2020-10-14 00:00:00+00:00,1316166832122986496,UMAprotocol,"The commit phase of the current voting round is closed. The reveal phase is OPEN. 
+
+If you already voted, you have 24 hours to reveal your vote. This is necessary for it to be counted and to earn inflation rewards. 
+
+Reveal here: 
+https://t.co/5dd2ZrBHUx",6,2,1,2020-10-14
+457,2020-10-16 02:40:21+00:00,1316931961781440512,UMAprotocol,This is an educational piece written by the community on liquidations with UMA.  It is an insightful read for anyone sponsoring synthetic positions or participating in liquidations. https://t.co/pHaXUk8vp8,17,3,1,2020-10-16
+458,2020-10-19 03:58:07+00:00,1318038696382197761,UMAprotocol,"1/ Last week $UMA token holders voted to add rDAI as a collateral currency.  This allows developers to collateralize synthetic assets with rDai.  
+
+rDai is composed of Dai earning interest on @compoundfinance.  The interest can be streamed to any address.  Powered by @rDAI_dao.",38,2,9,2020-10-19
+461,2020-10-20 21:00:00+00:00,1318658247000092672,UMAprotocol,"Are you interested in building universally accessible derivative markets? 
+
+UMA is looking for talented devops, frontend, backend engineers and community managers! 
+
+Apply below!
+
+https://t.co/Pj3Q9QLcbu",21,1,9,2020-10-20
+463,2020-10-21 00:00:01+00:00,1318703549518262273,UMAprotocol,"The commit phase of the current voting round is now OPEN. 
+
+You have 24 hours to submit your vote on UMIP 16:
+
+https://t.co/lFBHA0nhPN
+
+Vote here: https://t.co/5dd2ZrTiM5
+
+Join the community on Discord if you have questions: https://t.co/VBqf9XG7bk",6,0,2,2020-10-21
+466,2020-10-22 00:00:01+00:00,1319065938675683328,UMAprotocol,"The commit phase of the current voting round is closed. The reveal phase is OPEN. 
+
+If you already voted, you have 24 hours to reveal your vote. This is necessary for it to be counted and to earn inflation rewards. 
+
+Reveal here: 
+https://t.co/5dd2ZrTiM5",5,1,0,2020-10-22
+467,2020-11-01 14:00:01+00:00,1322901208927924224,UMAprotocol,"In 10 hours, a vote will open for $UMA token holders. 
+
+The vote is a price request from the DVM to settle the expiry price of PxUSD.
+
+Join the Discord community to discuss: https://t.co/nYdsfdhY8Z
+
+(Coming soon: dedicated governance/voting Twitter account.)",19,3,3,2020-11-01
+468,2020-11-02 00:00:00+00:00,1323052199878881280,UMAprotocol,"Voting is now open.
+
+Vote here https://t.co/5dd2ZrTiM5
+
+TWO REMINDERS:
+
+You must submit the accurate price to the exact decimal value.
+You must return in 24 hours to “Reveal” your vote in order for it to be counted. https://t.co/CEMPX1Ymps",8,1,2,2020-11-02
+469,2020-11-03 13:49:44+00:00,1323623399046799361,UMAprotocol,@blockdogos The tokens come from the community token allocation.,4,0,0,2020-11-03
+478,2020-11-04 23:00:00+00:00,1324124265478836225,UMAprotocol,"The commit phase of the current voting round will close in 60 minutes. 
+
+If you have not committed your vote, please do so here:
+
+https://t.co/5dd2ZrBHUx",5,0,0,2020-11-04
+480,2020-11-05 03:57:42+00:00,1324199182941343744,UMAprotocol,"5/ Currently, there is $7.5 million minted uUSDrBTC and $13.5 million uUSDwETH tokens -- 35% and 65% respectively.
+
+If uLABS receives 48k $UMA in a week, that would mean 8.4k (35%) $UMA go to the rBTC pool and 15.6k (65%) go to the wETH pool.",5,1,0,2020-11-05
+489,2020-11-12 05:59:48+00:00,1326766627879333888,UMAprotocol,"1/ UMA’s financial products will now operate under a new division called uLABS.  This includes the Yield Dollar products that are live now.
+
+https://t.co/E35sTrRlB8",60,2,15,2020-11-12
+494,2020-11-17 00:00:00+00:00,1328488018592796679,UMAprotocol,"In 24 hours, a vote will open for $UMA token holders. 
+
+There are two votes up for consideration - UMIP 21 &amp; 22 - Please review them here:
+
+https://t.co/lFBHA0ETen
+
+Join the Discord community to discuss: https://t.co/nYdsfd0nhr",5,0,1,2020-11-17
+496,2020-11-18 00:00:01+00:00,1328850409205731333,UMAprotocol,"The commit phase of the current voting round is now OPEN. 
+
+You have 24 hours to submit your vote on UMIPS 21 &amp; 22
+
+https://t.co/lFBHA0ETen
+
+Vote here: https://t.co/5dd2ZrBHUx
+
+Join the community on Discord if you have questions: https://t.co/VBqf9XXIzU",5,1,1,2020-11-18
+498,2020-11-19 00:00:01+00:00,1329212799533207552,UMAprotocol,"The commit phase of the current voting round is closed. The reveal phase is OPEN. 
+
+If you already voted, you have 24 hours to reveal your vote. This is necessary for it to be counted and to earn inflation rewards. 
+
+Reveal here: 
+https://t.co/5dd2ZrTiM5",7,2,0,2020-11-19
+499,2020-11-22 01:03:54+00:00,1330316037770924037,UMAprotocol,"One of the more interesting liquidations on UMA that demonstrates the capital efficiency that comes with #DeFi composability.
+
+@atomica_org is earning returns on Compound.  As soon as the funds are needed for a liquidation, they are deployed. https://t.co/Oc5LIqjp7C https://t.co/TnQzGa6o4g",29,0,7,2020-11-22
+500,2020-11-26 04:32:43+00:00,1331818140641071104,UMAprotocol,"Thanks to the @exodus_io team for producing this in-depth UMA explainer video.
+
+https://t.co/YBmkNBROUb",8,0,0,2020-11-26
+501,2020-11-30 22:28:43+00:00,1333538478890606594,UMAprotocol,"1/ uLABS has launched uGAS, a synthetic gas derivative.  It can be used as a hedge for natural users of Ethereum gas or as a speculative instrument.  
+
+https://t.co/p7wXg5cV2x",120,4,31,2020-11-30
+506,2020-12-01 00:59:23+00:00,1333576395398680576,UMAprotocol,"This week, UMA governance will vote on a price identifier for BCH/BTC.  This will allow the DeFi community express a view on BCH.
+
+Here is the proposal: https://t.co/9k2OwCT4XH
+
+REMINDER: Voters should follow the @UMAGovernance account to receive alerts.",7,1,1,2020-12-01
+507,2020-12-07 03:55:34+00:00,1335795059615133696,UMAprotocol,"1/ UMA is recruiting a DevOps Engineer
+
+This person is inspired by the idea of automating an army of bots to secure the world's next financial infrastructure.
+
+👇Read on",42,1,16,2020-12-07
+510,2020-12-08 06:11:19+00:00,1336191607826092034,UMAprotocol,"UMA would like to understand more about its liquidity miners.
+
+Up to 100 $UMA will be awarded to someone who can answer key questions by doing some on-chain analytics.  
+
+Join the Discord #bounties channel for details.
+
+https://t.co/je9sVwTc1Z",6,0,0,2020-12-08
+511,2020-12-10 17:49:27+00:00,1337092073762205697,UMAprotocol,We're excited to announce a collaboration with @YamFinance! https://t.co/pNPs9lqqCT,75,3,8,2020-12-10
+512,2020-12-15 07:08:54+00:00,1338742816705445889,UMAprotocol,"Tomorrow, UMA governance will consider three new price IDs and a DVM upgrade.
+
+The price ID proposals include:
+
+- Total TVL of @defipulse
+- TVL ratio of Sushi/Uniswap
+- Gold/Perl and Gold/USD 
+
+Token holders can follow @UMAGovernance for voting reminders.",41,1,11,2020-12-15
+514,2020-12-16 00:57:18+00:00,1339011685802119168,UMAprotocol,"uGAS is currently trading for .045 ETH, which is a futures price of 45 gwei saying that the market expects the median price of gas over JAN 2021 to be 45 gwei.
+
+Still, the majority of CT thinks the average will be much higher.  Why is it different?
+
+https://t.co/wCZ7lrmsun https://t.co/PzLTYwpg9X",21,2,3,2020-12-16
+517,2020-12-23 14:45:57+00:00,1341756939328360448,UMAprotocol,"1/ The yield dollar tokens will be rolling over into new contracts that expire on March 31st, 2021.
+
+The new tokens will also receive liquidity mining rewards from uLABS.  
+
+Furthermore, uLABS is will be ""dApp Mining"" the yield dollar products.
+
+https://t.co/dRLPf6B4s0",30,1,4,2020-12-23
+520,2020-12-27 01:12:10+00:00,1343001693642899459,UMAprotocol,Reminder for UMA's Yield Dollar uUSD liquidity miners: The rollover period is half way over.  You have 2 more days to move liquidity from the old to the new contracts and have no interruption to your rewards. https://t.co/5qgpBgAjgt,7,1,3,2020-12-27
+522,2020-12-28 10:27:33+00:00,1343503849139552257,UMAprotocol,@MistuhBailey @YamFinance @zapper_fi Where is the request?,1,1,0,2020-12-28
+523,2021-01-05 02:55:48+00:00,1346289267660660736,UMAprotocol,"End of year update from UMA's co-founder, @hal2001. https://t.co/HjKf1Gb2Lv",10,1,0,2021-01-05
+525,2021-01-06 00:22:30+00:00,1346613074858369026,UMAprotocol,"This week @UMAGovernance will vote on the addition of two price identifies: CNYUSD and AMPLUSD.
+
+These identifiers are coming from the developer community.  They will allow for the creation of synthetic Chinese Yuan (onshore) and synthetic AMPL. 
+
+cc: @AmpleforthOrg",22,1,6,2021-01-06
+526,2021-01-14 18:53:59+00:00,1349791891894755332,UMAprotocol,"UMA is currently being targeted by a phishing attack. If you receive an email from projectuma@substack.com asking you to move tokens or interact with a proxy contract IT IS FAKE!
+
+If you receive this email please send this account a DM to determine the breadth of this scam. https://t.co/ZP9Zxa7MdU",23,4,11,2021-01-14
+528,2021-01-22 03:01:32+00:00,1352451301125230592,UMAprotocol,"UMA's community of developers has grown exponentially in the last six weeks.
+
+If you're interested in joining them, this video workshop by UMA's Chandler De Kock is a good place to get started.  
+
+Presented yesterday as part of @ETHGlobal's MarketMake hackathon. https://t.co/XaOXJ3Noyx",22,1,4,2021-01-22
+529,2021-01-26 09:07:48+00:00,1353993025932824578,UMAprotocol,"The @YamFinance team today hired a developer from the @UMAprotocol Discord community.
+
+This community is increasingly becoming a place for developers to network and build teams for the “always-on hackathon” of developer mining.
+
+https://t.co/gErets4JNT",48,0,4,2021-01-26
+531,2021-01-28 02:37:28+00:00,1354619574151385096,UMAprotocol,"There is a new contract launch process for developers building on UMA.  
+
+It allows for organized bot deployment, developer mining payouts, and support over the life of the contract.
+
+Visit https://t.co/je9sVwTc1Z for more information.",9,0,2,2021-01-28
+535,2021-01-29 03:11:31+00:00,1354990528945766405,UMAprotocol,".@hal2001 just bought https://t.co/gE6lNNZzkW and https://t.co/vqNWkkFJKY 
+
+Do with that information what you will.",70,3,9,2021-01-29
+537,2021-01-30 12:49:18+00:00,1355498322950119431,UMAprotocol,"5/  Just as contracts built on Ethereum need their own audits, contracts built on UMA are not audited until their developers seek audits.
+
+Governance approval of a contract type is not equal to an audit.",17,1,1,2021-01-30
+545,2021-01-31 01:30:43+00:00,1355689940097486851,UMAprotocol,"UMA developer watch:
+
+A community developer has launched a synthetic AMPL contract.  This would allow for shorting AMPL.
+
+(Launching a contract does not mean the product is ready to use -- A UI, liquidation and dispute bots, and liquidity pools come next.)",30,1,5,2021-01-31
+547,2021-02-01 00:39:20+00:00,1356039394348568577,UMAprotocol,"UMA Developer Watch:
+
+Early talks in https://t.co/mgFY4Srbiw around creating a ""Big Mac Synth"" based on the popular @TheEconomist  Newspaper index.
+
+https://t.co/zSuD0C7VqC",14,0,6,2021-02-01
+551,2021-02-02 08:00:52+00:00,1356512900517490694,UMAprotocol,"UMA Tokenholders are currently discussing the median price of uGAS-JAN21 for the expiry request vote.
+
+The price they have arrived at presently is 86 gwei.
+
+Anyone who took a long position since Dec 16th gained additional ETH.
+
+The majority of CT was wrong in their vote. https://t.co/FLMsYsLIfp",8,0,2,2021-02-02
+553,2021-02-03 00:43:09+00:00,1356765132873818112,UMAprotocol,"1/ The Optimistic Oracle allows the protocol to settle expiring price requests optimistically.  This is how liquidations work with UMA today.
+
+A variety of information types can be called by the OO.  This allows for UMA to secure an endless variety of defi markets. https://t.co/BzPnIStVBA",38,2,14,2021-02-03
+558,2021-02-04 02:53:19+00:00,1357160278761238528,UMAprotocol,"The engineering team at UMA has designed several upgrades in Q4 of 2020. 
+
+These upgrades include a new and flexible optimistic oracle and the perpetual synthetic.
+
+We are pleased to announce that these upgrades have now been fully audited by the @OpenZeppelin team. https://t.co/fjaJDn1hVv",106,8,38,2021-02-04
+561,2021-02-05 15:00:02+00:00,1357705550432149509,UMAprotocol,"UMA Developer Watch:
+
+@Jarvis_Network has launched their novel contract live on mainnet--It is a modified version of UMA's newly launched perpetual contract.
+
+A corresponding DEX will be launched in the coming weeks.",68,3,21,2021-02-05
+564,2021-02-06 12:04:52+00:00,1358023856091406342,UMAprotocol,"2/ Trade BTCDOM and ALTDOM on https://t.co/PrDj2cmcSj.  
+
+These products are inverses of each other, so traders on both sides can express their views in a way that suits their portfolio best.",15,0,2,2021-02-06
+565,2021-02-07 00:58:49+00:00,1358218625694326785,UMAprotocol,"In case you missed it - Twice monthly updates on what's been going on with the UMA community of developers.
+
+https://t.co/GaD9pqZJ6Q",44,0,8,2021-02-07
+566,2021-02-08 03:45:23+00:00,1358622932847661057,UMAprotocol,"Domination Finance (@dominationfi) featured in the Week in Ethereum newsletter.
+
+""Short Bitcoin without having to short Bitcoin""
+
+Indeed.  Trade ALTDOM and BTDCOM at https://t.co/PrDj2cmcSj. https://t.co/LvvJDarJwZ",18,0,6,2021-02-08
+567,2021-02-09 00:48:42+00:00,1358940857450258432,UMAprotocol,"Excited by whats happening at UMA?  Wanna join our remote international team?
+
+Design Lead
+$60k – $120k
+https://t.co/1G5uSCyoC9
+
+Data Scientist Lead
+$60k – $120k
+https://t.co/vtnuFLVjDU",17,1,5,2021-02-09
+569,2021-02-10 15:31:21+00:00,1359525370769276932,UMAprotocol,"@bitznbrewz Good catch.
+
+Meant to say ""UNI-V2-WBTC-ETH as a supported collateral currency and USD-UNI-V2-WBTC-ETH as a supported price identifier.""
+
+This corresponding price identifier is what will allow for minting yield dollars against the LP tokens.",3,0,0,2021-02-10
+579,2021-02-11 06:04:40+00:00,1359745145793486849,UMAprotocol,"1/ UMA has created a novel community incentivization mechanism for protocols and DeFi platforms called “KPI Options.”
+
+UMA will be the first to use this mechanism to grow our own community with an airdrop of up to 2M $UMA (current market value of ~$60M.)
+
+https://t.co/Nktrd3PyZa",387,24,97,2021-02-11
+586,2021-02-13 03:13:19+00:00,1360426801835614210,UMAprotocol,"What's possible with UMA?
+
+What about trading assets that are not yet liquid?  
+
+That's what Premarket Protocol is working on -- Trading tokens or any assets that are not yet on the market.  View the alpha here: https://t.co/t2QxGe5vCQ",42,0,9,2021-02-13
+587,2021-02-16 00:09:01+00:00,1361467584911081473,UMAprotocol,"uGAS-JAN21 Settled @ .086 (86 gwei)
+uGAS-FEB21 Trading @ .108 (108 gwei)
+uGAS-MAR21 Trading @ .097 (97 gwei)
+
+Maintain full ETH exposure while holding uGAS.  
+Maintain full ETH exposure when shorting uGAS.
+
+Trade at 
+@YamFinance's https://t.co/SR5xJsggHi https://t.co/9JuUyWuVAv https://t.co/TCS8Jcok6A",40,1,17,2021-02-16
+588,2021-02-17 02:13:07+00:00,1361861203115483137,UMAprotocol,"2/ Two more on the way: DeFi Pulse (@defipulse) and coinmarketcap / coingecko.
+
+This allows developers to create price IDs ""out of the box"" for these feeds.
+
+Third party developer activity is the main reason UMA rates #3 on Santiment's weighted measure.
+
+https://t.co/eIxW3sJVF0",9,0,5,2021-02-17
+591,2021-02-18 00:02:49+00:00,1362190799664910339,UMAprotocol,"UMA is honored to be included in the list of DeFi blue chips for this Bitwise index product.  
+
+It is available to institutional investors now, and will become available to retail investors in the future. https://t.co/kRnb8tr7Pl",83,5,24,2021-02-18
+592,2021-02-19 02:03:25+00:00,1362583539212976129,UMAprotocol,Live now in Clubhouse https://t.co/ClH8CSema5,10,1,2,2021-02-19
+594,2021-02-20 13:33:55+00:00,1363119693641388040,UMAprotocol,"UMA Developer Watch:
+
+The @opendaoprotocol published a writeup of their experience with @UMAGovernance, including an outsider's overview of the UMIP process.
+
+https://t.co/IS8eErlrTi",31,1,14,2021-02-20
+595,2021-02-21 08:16:24+00:00,1363402178904293384,UMAprotocol,"Phishing Alert:
+
+There is an email being sent around asking people to send a small amount of ETH to receive the UMA airdrop. 
+
+This is fake, do not do it.",30,1,9,2021-02-21
+598,2021-02-22 11:55:14+00:00,1363819638002388998,UMAprotocol,"@D_C_Crypto Sure - Here is a writeup from the community: https://t.co/FeJwlKbHJH
+
+And here is UMA's official writeup:
+https://t.co/Er4oqYHYXF",1,1,0,2021-02-22
+603,2021-02-24 04:53:12+00:00,1364438205257289729,UMAprotocol,"1/ The first external bounty to build on UMA has been announced by the @reflexerfinance team.
+
+https://t.co/PULyPJTdBh",42,2,6,2021-02-24
+606,2021-02-25 06:53:36+00:00,1364830890191323139,UMAprotocol,"UMA Developer Watch:
+
+A community developer has proposed the addition of $AAVE, $LINK, $SNX, $UMA &amp; $UNI as collateral currencies, as well as UNI-V2 LP tokens WBTC-ETH, USDC-ETH, UNI-ETH, and UMA-ETH.
+
+This would enable users to borrow against those assets.",50,1,6,2021-02-25
+607,2021-02-27 00:52:31+00:00,1365464799010676740,UMAprotocol,"UMA has joined the @blockzerolabs DeFi Accelerator which aims to educate, incentivize, and onboard the next 1 million users into DeFi.  
+
+Watch the livestream announcement with UMA's Community Lead @TokenArchitect and Block Zero founder @ZacharyDash 
+
+https://t.co/nisMQ7pwlO",99,10,37,2021-02-27
+608,2021-03-03 03:04:04+00:00,1366947454776528896,UMAprotocol,"UMA Developer Watch:
+
+The first draft for an external team to launch their own KPI Option has been submitted.  Official details to follow.",62,1,4,2021-03-03
+610,2021-03-04 06:41:57+00:00,1367364676565168133,UMAprotocol,UMA is proud to be a part of the Bitwise DeFi index fund. https://t.co/UPSDbBYttl,43,0,6,2021-03-04
+613,2021-03-05 06:47:40+00:00,1367728502951211009,UMAprotocol,"@haleyrsum @iearnfinance @YamFinance @BadgerDAO @BalancerLabs @SushiSwap There will be a claim portal, to be announced.",13,3,1,2021-03-05
+622,2021-03-06 00:48:25+00:00,1368000480656449537,UMAprotocol,Indexed Finance is considering launching their own KPI Options on UMA. Which communities should they include in their airdrop? https://t.co/ynlaYDVIal,47,11,5,2021-03-06
+625,2021-03-08 04:01:59+00:00,1368773969495478274,UMAprotocol,"A gracious community member created this tool to find out if you're eligible for the UMA KPI Options Airdrop:
+
+https://t.co/YDltUWZ7eS
+
+Paste your address into the field and you will see which criteria you have qualified for.",64,3,17,2021-03-08
+626,2021-03-09 07:37:42+00:00,1369190641838616580,UMAprotocol,"uSTONKS is launching tomorrow in collaboration with @YamFinance.
+
+This topical product represents UMA's dedication to DeFi and our mission to achieve Universal Market Access. 
+
+Here @RyanSAdams explains on the @BanklessHQ podcast why UMA and DeFi are needed today: https://t.co/TC3kZrjJmr https://t.co/ry8nbpIVkt",69,4,24,2021-03-09
+629,2021-03-10 04:53:46+00:00,1369511776165847042,UMAprotocol,Follow the entire UMA team individual twitter accounts here: https://t.co/APkdaYHua0,18,0,4,2021-03-10
+631,2021-03-12 08:28:47+00:00,1370290661715451905,UMAprotocol,"UMA is giving away a pair of DeFi Socks to the best reply:
+
+Summarize what UMA is in 1 tweet.
+
+Top replies will be voted on in Discord in 3 days. DeFi Socks are a token redeemable for 1 pair of socks, valued at $1750 at the time of writing.
+
+https://t.co/Af85fwdbhk https://t.co/BL7PMhEumZ",100,104,34,2021-03-12
+632,2021-03-15 05:45:02+00:00,1371336618380984320,UMAprotocol,"6 hours remaining for submissions.
+
+Because there is no UMA logo on these socks, there will be an additional prize to the winner announced in https://t.co/je9sVwTc1Z. https://t.co/7dE9CrfYqk",12,1,2,2021-03-15
+634,2021-03-16 06:59:40+00:00,1371717785689100288,UMAprotocol,"6/ You can purchase the $35 strike price April 30th expiry $UMA call option now on @SushiSwap:
+
+https://t.co/lWSJs2Ylsu
+
+These tokens are only tradable on SushiSwap for now. There is an open bounty for a developer to build a dedicated UI.",43,3,4,2021-03-16
+642,2021-03-17 05:52:32+00:00,1372063280470970376,UMAprotocol,2/ https://t.co/mLSS0zV2EF - This product allows $UMA holders to borrow against their UMA tokens.,27,1,1,2021-03-17
+644,2021-03-18 05:59:24+00:00,1372427397295837185,UMAprotocol,"Another day another product launch on UMA.
+
+https://t.co/kmNNrFweN9 is now live, offering synthetic Chinese Yuan and synthetic Euros. 
+
+All relevant information, including the rewards for liquidity mining, can be found here: 
+
+https://t.co/tMIUVh1Jtr",36,0,6,2021-03-18
+646,2021-03-20 04:32:47+00:00,1373130374285459456,UMAprotocol,Trade uSTONKS on https://t.co/UVwnoyYXTE https://t.co/QdyEpMO9P4,71,1,18,2021-03-20
+647,2021-03-22 03:41:27+00:00,1373842231824588803,UMAprotocol,"A community developer has proposed using @CurveFinance metapools and unifying yield dollar synths into one multi-collateralized synth.
+
+https://t.co/qWiNUG8LjR
+
+The community is maturing and its efforts are starting to eclipse the efforts of the core team.",43,2,8,2021-03-22
+650,2021-03-23 18:01:39+00:00,1374421096020111361,UMAprotocol,"Very excited to be the first protocol participating in the  @blockzerolabs Accelerator.
+
+Got any questions for @hal2001?
+
+Now's your chance to get them answered. https://t.co/kklMzVapHc",57,0,19,2021-03-23
+656,2021-03-24 04:42:59+00:00,1374582494025027584,UMAprotocol,"UMA's community has embraced @YamFinance. 
+
+The products created in coordination with Yam have demonstrated the power of the UMA protocol and the ingenuity of the Yam team.
+
+uLABS + Yam Finance = uGAS, uSTONKS, and more to come. https://t.co/Wck4WEiXph",34,0,3,2021-03-24
+657,2021-03-29 05:10:25+00:00,1376401335600353280,UMAprotocol,"UMA Developer Watch:
+
+A community developer and the co-founder of @opendaoprotocol has proposed creating put options on UMA to complement the recent launch of call options.
+
+https://t.co/i50EpneQp8",24,0,3,2021-03-29
+660,2021-03-30 04:04:17+00:00,1376747081121947656,UMAprotocol,"MakerDAO's DAI was the ""gateway drug"" for many in crypto to understand synthetic assets. 
+
+Ryan Sean Adams nails UMA's thesis here: ""Store of value + price feed + smart contract platform = anything""
+
+@BanklessHQ @RyanSAdams https://t.co/zJbyn0qN2x",33,0,5,2021-03-30
+662,2021-03-31 12:12:26+00:00,1377232314300829696,UMAprotocol,"4/ Super Umans have started creating educational assets and strategy for how to work with other protocols and increase UMA adoption.
+
+There is an open list of ""Super Powers"" that community members have volunteered to contribute to the campaign. https://t.co/CZWn15kJcj",17,1,3,2021-03-31
+668,2021-04-01 11:45:01+00:00,1377587805820346368,UMAprotocol,"If options in finance still evade your understanding, here is a #superuman penned ""eli5"" thread on UMA's call options. https://t.co/mwACJiGMdZ",21,0,4,2021-04-01
+669,2021-04-02 01:14:16+00:00,1377791458212601861,UMAprotocol,"UMA Developer Watch:
+
+A community developer has submitted a governance proposal to add ethVIX and iethVIX price identifiers. 
+
+These would allow traders to take a position on the volatility of ETH.",18,0,4,2021-04-02
+671,2021-04-05 07:06:50+00:00,1378967348355420160,UMAprotocol,"1/ The UMA community now has a Chinese language channel in Discord.
+
+UMA 社区已经在 Discord 中开启了一个「中文」频道，欢迎中文社区的朋友们加入! 
+
+Moderated by @davidfnckCN",22,1,3,2021-04-05
+678,2021-04-07 03:26:21+00:00,1379636638087663618,UMAprotocol,"2/ The uTVL tokens will become redeemable for some number of $UMA tokens after June 30th. 
+
+Be sure to claim before June 30th, and then any time in the future after June 30th you can redeem them for $UMA.",24,2,5,2021-04-07
+680,2021-04-08 01:10:32+00:00,1379964845831847937,UMAprotocol,"People often ask ""what can I do with my $UMA?""
+
+A community writer has detailed four strategies you can use to earn with your UMA token.
+
+https://t.co/zBspW6sLQt https://t.co/sMKRsz45vs",46,2,11,2021-04-08
+681,2021-04-09 12:34:50+00:00,1380499444181782529,UMAprotocol,"Thanks to @SushiSwap's contribution there is now about 200k liquidity in the pool for xSushi call options.
+
+Traders can buy and sell them here: https://t.co/ywR4jyM6PW
+
+They expire on May 31st with a strike of $25, current market price $2.33.",60,7,9,2021-04-09
+684,2021-04-11 01:23:28+00:00,1381055262568542210,UMAprotocol,"Each week @TokenArchitect records a #superuman update and plan for the coming week.
+
+This weeks outlines the upcoming interprotocol campaigns. If you are an airdrop recipient, now is a good time to join the Super Umans Alliance in https://t.co/je9sVwTc1Z 
+
+https://t.co/TPpPfZstyM",22,5,9,2021-04-11
+686,2021-04-13 14:21:04+00:00,1381975729236152326,UMAprotocol,"@mkhan_omar While you should always do your DD for any token, this was launched on audited UMA contracts.",3,0,1,2021-04-13
+690,2021-04-14 13:25:37+00:00,1382324165047316481,UMAprotocol,"4/ A full writeup of @dvixprotocol's methodology can be seen in this paper published two weeks ago: https://t.co/neOOsueLQq
+
+@chandlerdekock will be publishing a series of medium articles to educate as well as share product launches.",7,0,1,2021-04-14
+694,2021-04-15 02:48:14+00:00,1382526147515219969,UMAprotocol,"The #SuperUman outreach program has been visiting different DeFi projects to encourage integration.
+
+This buzz between communities has been a value add for both sides.
+
+If you would like to encourage this for your favorite project, share below. https://t.co/sBtYiexK8z",25,1,5,2021-04-15
+696,2021-04-16 12:19:24+00:00,1383032273490964481,UMAprotocol,"UMA is hiring and has several open positions.
+
+However, there is a less formal way to work with UMA: by finding ways to deliver value in the community. https://t.co/PzZJGejTfa",33,3,6,2021-04-16
+697,2021-04-19 02:57:20+00:00,1383977989566722053,UMAprotocol,"1/ With support from their respective teams, UMA has added both @BalancerLabs and @Uniswap call options.
+
+These products are already live and tradable. 
+
+They both expire on May 31st, 2021. The strike prices are:
+
+BAL - $90
+UNI - $50
+
+https://t.co/RsYmHpI8hf",128,7,30,2021-04-19
+702,2021-04-21 12:27:56+00:00,1384846360919396358,UMAprotocol,"6/ This process has intermediate milestones, such that the total payout for a successful hire is 1,200 $UMA or &gt;$30,000.
+
+Through this entire process, the identity of the introducer is never revealed. 
+
+See the full writeup to participate. Thanks to @cburniske for feedback. https://t.co/8SukoxF0AD",22,2,7,2021-04-21
+709,2021-04-22 05:43:09+00:00,1385106881958404097,UMAprotocol,"In a call with @0xMaki from @SushiSwap, Clayton &amp; Maki discuss why Sushi supported launching call options and if KPI Options would be a good fit.
+
+If you are a member of the @SushiSwap community, what metric would you want to target with a KPI Option? https://t.co/w0PcPbYTqp",32,0,6,2021-04-22
+710,2021-04-23 02:03:34+00:00,1385414012502876160,UMAprotocol,"BadgerDAO has announced that they will use KPI Options.  
+
+The options are designed to encourage DIGG to have positive rebases.
+
+The airdrop will be paid out according to two snapshots. New users still have an opportunity to be included. 
+
+See this thread for the full details👇 https://t.co/QkbcoetWh6",34,1,7,2021-04-23
+715,2021-04-27 03:49:54+00:00,1386890323012456452,UMAprotocol,"3/ It is easy for other teams to launch decentralized, permissionless call option tokens with UMA. Join https://t.co/je9sVwTc1Z to get started.",3,0,1,2021-04-27
+719,2021-04-28 07:26:21+00:00,1387307179233792002,UMAprotocol,"""With this new support, the bank’s institutional clients can now hold Universal Market Access (UMA) and Loopring (LRC) in Anchorage Custody."" https://t.co/pdCiGwwtWD",17,2,4,2021-04-28
+721,2021-04-29 23:41:23+00:00,1387914944620892163,UMAprotocol,@mcuban DM if you really want to build this.,110,6,4,2021-04-29
+722,2021-04-30 13:52:05+00:00,1388129028557602816,UMAprotocol,"@mcuban @Majed32809278 @PeterMallouk Noted.
+
+And is this one correct? 
+
+""Has the S&amp;P 500 outperformed Ether 10 years after 14:38 UTC, Apr 29, 2021?""
+
+Or BTC? Or Doge?",8,1,0,2021-04-30
+739,2021-05-01 02:29:16+00:00,1388319580695588865,UMAprotocol,"@mcuban @PeterMallouk It's ready. Are you?
+
+@mcuban @PeterMallouk https://t.co/PyvuQr5zig",116,4,25,2021-05-01
+740,2021-05-02 06:00:15+00:00,1388735062670286854,UMAprotocol,@Fiskantes Fees are charged once the total value secured passes a threshold based on the marketcap. This is what maintains the economic security of the system: it always needs to be more expensive to bribe the voters than the money you could steal.,7,0,0,2021-05-02
+741,2021-05-03 04:33:36+00:00,1389075647641767936,UMAprotocol,"6/ We even expect that v3 may reduce the industry’s focus on TVL as a core metric.
+
+Congratulations to the @Uniswap team on their upcoming v3 launch. We look forward to building together.",25,0,0,2021-05-03
+747,2021-05-04 17:06:52+00:00,1389627601455489031,UMAprotocol,Check out some interesting data and observations @kevinchan2020 put together about the first UMA call option token that settled last Friday. https://t.co/6UUhQa39G0,13,1,0,2021-05-04
+748,2021-05-06 02:16:01+00:00,1390128185807806464,UMAprotocol,"UMA Developer Watch:
+
+There is a proposal to add LUSD, an Ether-backed stablecoin from @LiquityProtocol, as an approved collateral type. LUSD has a 1.5bn marketcap.
+
+This would allow for holders to borrow against LUSD when developers launch products collateralized with it.",55,2,4,2021-05-06
+752,2021-05-07 06:23:00+00:00,1390552727998980102,UMAprotocol,"UMA Developer Watch:
+
+Community developers have submitted an UMIP to add iFarm as a collateral type on UMA.
+
+This comes as a result of a Super Uman campaign to @harvest_finance. 
+
+The FARM token has a $90M marketcap. This will enable borrowing yield dollars against iFARM.",45,2,3,2021-05-07
+753,2021-05-08 05:32:56+00:00,1390902517345579008,UMAprotocol,"UMA Developer Watch:
+
+@blockzerolabs is researching a KPI Options airdrop model to increase adoption of the $XIO token. https://t.co/nHRZZtuSpZ",49,3,13,2021-05-08
+755,2021-05-11 03:06:11+00:00,1391952751370723331,UMAprotocol,"UMA has several open roles. 
+
+Read about what working with UMA is like in this writeup by @TokenArchitect. https://t.co/96s77uZIcX",24,1,6,2021-05-11
+757,2021-05-12 02:12:43+00:00,1392301681686188032,UMAprotocol,"3/ A collaboration between these three organizations would allow for shared strengths.
+
+UMA brings the financial infrastructure, YAM the execution, and https://t.co/K16CeY0xUV the userbase and ability to simplify offerings for a broader audience.",22,0,2,2021-05-12
+760,2021-05-13 03:38:03+00:00,1392685545302609920,UMAprotocol,"1/ UMA’s Optimistic Oracle is live. 
+
+It can be used to resolve markets and get cheap, precise data on almost anything.
+
+https://t.co/9OR9kM8HLK",131,6,43,2021-05-13
+770,2021-05-14 13:48:00+00:00,1393201431348355072,UMAprotocol,"UMA Developer Watch:
+
+@pscltllrd of @Jarvis_Network submitted a proposal to add yvUSDC as a whitelisted collateral type on UMA.
+
+This would allow for borrowing against yvUSDC, the @iearnfinance USDC interest-bearing vault token.",36,0,8,2021-05-14
+772,2021-05-15 00:54:00+00:00,1393369035375476740,UMAprotocol,"UMA Developer Watch:
+
+A community developer has proposed a price ID for @Vanguard_Group's Total Stock Market ETF (VTI.)
+
+This would allow for the creation of synthetic VTI collateralized with any whitelisted collateral type. 
+
+This includes including interest-bearing types.",18,0,4,2021-05-15
+775,2021-05-17 02:55:57+00:00,1394124502074802177,UMAprotocol,"Seeking an experienced communications lead. 
+
+This person will own the company's external narratives.
+
+They will work closely with engineers, the community, and creative leaders to craft UMA's story.
+
+https://t.co/teYwHaoW9o",25,2,3,2021-05-17
+776,2021-05-19 13:18:20+00:00,1395005905209413636,UMAprotocol,"🚨 There are large yield dollar positions on https://t.co/uU3qBC479k that are being liquidated.
+
+- If you are a sponsor, please rush to add more collateral if possible.
+
+- There are liquidation opportunities available through that same UI.",18,0,4,2021-05-19
+780,2021-05-20 19:11:39+00:00,1395457207643353089,UMAprotocol,"What if I get liquidated in my sleep?
+
+Hart, Ryan, and David on using cryptoeconomic incentives to monitor positions on UMA.
+
+@hal2001 @RyanSAdams and @TrustlessState on @BanklessHQ. https://t.co/15a7OpdudD",35,4,7,2021-05-20
+782,2021-05-21 22:32:02+00:00,1395870024565334016,UMAprotocol,"The liquidity for the call options on https://t.co/KHZHowrUxy has largely been removed. This applies to the calls expiring at the end of May.
+
+This is done each month because of impermanent loss. You can read more about it here:
+
+https://t.co/wvQg3UXynJ",11,1,4,2021-05-21
+783,2021-05-24 14:34:51+00:00,1396837100482334720,UMAprotocol,"5/ You can find more information in @CoinDesk's announcement as well.
+
+https://t.co/YeOVnoL5xn",18,1,6,2021-05-24
+788,2021-05-27 18:22:19+00:00,1397981510343536644,UMAprotocol,"UMA Developer Watch:
+
+The UMA team has submitted a proposal to set up a mainnet cross-chain oracle bridge. 
+
+This will allow UMA's DVM to interact and settle contracts built on L2. 
+
+Check proposal here - https://t.co/oWXaqWEvut",37,0,9,2021-05-27
+789,2021-05-28 18:43:00+00:00,1398349100303724545,UMAprotocol,"UMA Developer Watch:
+
+The @opendaoprotocol team has submitted proposals to add OPEN/USD price identifiers and to add $OPEN as a collateral currency on UMA.",13,0,6,2021-05-28
+790,2021-05-30 02:36:09+00:00,1398830559535767552,UMAprotocol,"This week's @SuperUmans vlog - Recorded by @ProjectEqual4 and his brother.
+
+https://t.co/dL6BcWYZgW",17,0,2,2021-05-30
+791,2021-06-02 21:33:22+00:00,1400203914809528324,UMAprotocol,"3/ Leveling up in this fashion will help @SuperUmans understand how to apply contract law to DeFi. Future UMAversity courses will cover finance and technical areas.
+
+The @SuperUmans would like to invite others to join at https://t.co/je9sVwTc1Z in the #super-uman-circle channel.",10,0,2,2021-06-02
+794,2021-06-05 00:42:37+00:00,1400976318511173632,UMAprotocol,"UMA Developer Watch:
+
+@adrianmcli of @DFXFinance submitted a proposal to add $DFX as a whitelisted collateral type on UMA.
+
+DFX Finance is building decentralized forex products, and this will allow for collateralizing assets with the governance token.",43,2,8,2021-06-05
+795,2021-06-06 19:45:33+00:00,1401626334409883648,UMAprotocol,"UMA Developer Watch:
+
+A proposal has been submitted that would add BAND, SDT, KP3R, CREAM, CHAIN and ERN as approved price identifiers against USD.
+
+@BandProtocol @StakeDAOHQ @kp3r_network  @RealChainGames @EthernityChain",62,3,14,2021-06-06
+796,2021-06-09 19:47:26+00:00,1402713969018642435,UMAprotocol,"1/ Risk Labs launched the developer mining experiment late last year. 
+
+This program was responsible for maturing UMA’s ecosystem. 
+
+A range of independent developers and DeFi teams built on UMA’s protocol as a result.
+
+https://t.co/alFBWgoluF",32,1,8,2021-06-09
+802,2021-06-10 02:15:05+00:00,1402811526420041730,UMAprotocol,"UMA is proud to sponsor @ETHGlobal's Hack Money hackathon. To build, sign up here:
+
+https://t.co/srZnsXmBT7
+
+Final Application Deadline: 16th June, 2021
+
+Hackathon Dates: Runs from 18th June — 09th July https://t.co/qLKXkaX3Ex",37,0,11,2021-06-10
+803,2021-06-14 21:40:59+00:00,1404554484651421697,UMAprotocol,"1/ UMA introduces the Range Token - a new treasury primitive that enables DAOs to access funds and diversify their treasury without directly selling their native tokens.
+
+DAOs can use their native tokens as collateral to borrow funds with no risk of liquidation.",476,54,91,2021-06-14
+807,2021-06-15 17:55:28+00:00,1404860120790573056,UMAprotocol,"7/ Documentation on the Optimistic oracle can be found here
+
+https://t.co/PVoGMoYoO4 
+
+and some simple demo contracts that use the OO can be found here 
+
+https://t.co/eatNqrNeQe
+
+For more information join https://t.co/je9sVwTc1Z.",5,0,0,2021-06-15
+814,2021-06-16 21:46:56+00:00,1405280758248329218,UMAprotocol,"4/ The decoupled nature of UMA makes it perfectly positioned to scale to any and all EVM scaling solutions. 
+
+UMA will support for more scaling solutions based on developer demand. https://t.co/gP8EX3G6Yw",49,0,7,2021-06-16
+819,2021-06-17 20:00:14+00:00,1405616296872624133,UMAprotocol,"This long thread by UMA engineer @mountainwaterpi explores ways developers can #HackUMA in the @ETHGlobal #HackMoney2021 hackathon.
+
+In particular, how they can use the new dual-token contract design called the ""Long/short pair."" https://t.co/ZRYjeyb5v5",15,0,3,2021-06-17
+822,2021-06-18 22:37:19+00:00,1406018212316073984,UMAprotocol,"2/ This contract powers the range tokens, KPI Options, call options, and a variety of indexes. It will be used by @dominationfi for the BTCDOM and ALTDOM products.
+
+Builders in the @ETHGlobal #HackMoney2021 will be demonstrating its flexibility with new product ideas.",13,0,0,2021-06-18
+826,2021-06-21 17:03:31+00:00,1407021375533903873,UMAprotocol,"As promised here is the follow up range token article from @kevinchan2020.  It details the payout function and walks through how a range token is constructed and valued.  Thank you for all the feedback on this new treasury primitive!
+
+https://t.co/lWzjBDVB5I https://t.co/95lNPWh9Fc",31,0,9,2021-06-21
+827,2021-06-22 16:07:30+00:00,1407369665429475337,UMAprotocol,"👋Liquidity Mining 2.0 👋
+
+""enhanced liquidity mining to attract new community members and incentivize desired actions"" https://t.co/eU1zNyMdH1",34,0,5,2021-06-22
+828,2021-06-25 20:16:08+00:00,1408519397505896452,UMAprotocol,"@BadgerDAO  just released details of the next phase of its rebase mining program, based on UMA KPI options
+
+https://t.co/Aqyfy8c8uf
+
+(1/5)",30,2,7,2021-06-25
+833,2021-06-27 15:42:28+00:00,1409175303000399875,UMAprotocol,"This is a reminder that the yield dollar products YD-ETH &amp; YD-BTC June contracts will expire in 3 days. After they expire, the liquidity mining program for both contracts will be discontinued.",21,1,1,2021-06-27
+834,2021-07-02 15:43:31+00:00,1410987506313531393,UMAprotocol,"The SpaceX rocket landed without incident. 
+
+@Opium_Network's insurance market has resolved successfully, with payouts to those who sold insurance. This market used UMA's Optimistic Oracle for trustless, secure resolution.
+
+What else would you like to see insurance offered for? https://t.co/rNsBBQKLWA",31,2,9,2021-07-02
+840,2021-07-08 19:27:02+00:00,1413218085935345669,UMAprotocol,"In about 5.5 hours, the @banklessDAO and @SuperUmans will have a co-community call. The shared aim is to identify strategic opportunities and share learnings about building a DAO. 
+
+Join in https://t.co/je9sVwTc1Z in the #bankless text channel and on Community Hub stage.",39,2,15,2021-07-08
+841,2021-07-10 00:26:29+00:00,1413655830348500992,UMAprotocol,"1/ Two weeks ago, UMA announced the range token. This token helps DAOs diversify their treasury without directly selling native tokens.
+
+Today, UMA completed a $2.6mm raise using the range token.
+
+https://t.co/nPyCDIa8Qp",97,12,26,2021-07-10
+849,2021-07-12 22:56:49+00:00,1414720429483167746,UMAprotocol,"4/ You can read the full proposal by @seanbrown_0 and @kevinchan2020 in the thread here:
+
+https://t.co/5DZDpW25TT
+
+Please feel invited participate in the conversation.",12,0,1,2021-07-12
+853,2021-07-13 16:53:41+00:00,1414991431026888705,UMAprotocol,Thanks to @open_defi for this comprehensive writeup. The author explores new strategies for using the range token to diversify DAO treasuries. https://t.co/1hgneHxgac https://t.co/5zE6hiYisM,23,0,11,2021-07-13
+854,2021-07-14 18:20:34+00:00,1415375685170892806,UMAprotocol,"1/ ""Treasury Troubles Solved"" posted by @DefiantNews  uncovers the UMA range token.
+
+He reiterates why we think the range token serves tokenholder interests for a fundraise. 
+
+The Defiant even highlights our reply to @0xMaki in his @SushiSwap proposal and explains:",40,1,11,2021-07-14
+857,2021-07-15 19:43:50+00:00,1415759027708088323,UMAprotocol,"At 9pm UTC (80 minutes from now) @hal2001, @TokenArchitect, and the @SuperUmans will join the @SushiSwap community call. 
+
+We will discuss the roll range tokens could play in SushiSwap's treasury diversification.
+
+Join us in Sushi's Voice Lounge channel:
+https://t.co/Pr7Qs8c0zr",12,1,3,2021-07-15
+859,2021-07-16 22:26:56+00:00,1416162462362177536,UMAprotocol,"6/ Thanks to @different_mj at @GalaxyDigitalHQ, to @tomhschmidt at @dragonfly_cap, to @CremeDeLaCrypto at @blockchaincap, and to @lsukernik and @derek_hsue at Reverie for conversations that inspired this idea.",17,1,2,2021-07-16
+866,2021-07-20 19:00:11+00:00,1417559983928090631,UMAprotocol,"1/ To demonstrate @adamscochran's Smaug proposal for @SushiSwap, @hal2001 created it with UMA. 
+
+The Smaug proposal resembles UMA's range tokens, except with no upper range. It is a zero-coupon bond, where the APY is baked into the sale price.
+
+https://t.co/YEjjnRIkuZ",30,2,5,2021-07-20
+872,2021-07-21 16:38:41+00:00,1417886761842249729,UMAprotocol,"Join @hal2001 and @kevinchan2020 on stage in Sushi's Discord to discuss @SushiSwap's groundbreaking raise discussion.
+
+Join @kevinchan2020 in the hour before (18:00 UTC) in UMA's discord for a presentation on treasury diversification + AMA.
+
+https://t.co/gEretrN8Wl https://t.co/sW9gPeQB5u",8,0,1,2021-07-21
+873,2021-07-22 19:10:11+00:00,1418287275977359366,UMAprotocol,"UMA Development Watch:
+
+An UMIP is open for vote that will approve BADGER, OHM, IDLE, GNO, Qi, POOL, DOUGH V2, FEI, TRIBE and FOX for use as collateral in UMA contracts.
+
+Many of these collateral types are governance tokens for projects investigating treasury diversification.",22,0,5,2021-07-22
+874,2021-07-23 15:28:17+00:00,1418593819344441349,UMAprotocol,"In 1 hour, @SuperUmans will again host the @banklessDAO community in a live discord discussion on the community hub stage.
+
+If you are a member of either community and wish to join, you can add the event to google calendar here:
+
+https://t.co/obo2rgtmg5",14,0,2,2021-07-23
+875,2021-07-26 16:13:18+00:00,1419692313111060483,UMAprotocol,"4/ UMA's products can empower DAOs to write terms into smart contracts instead of legal contracts.
+
+As @kevinchan2020 is quoted in the paper:
+
+""If we are in DeFi, we should use DeFi products.""",6,0,3,2021-07-26
+879,2021-07-27 00:27:53+00:00,1419816777668775936,UMAprotocol,"The @ShapeShift_io DAO has invited the UMA community for a discussion on DAO treasury management. They will discuss range and success tokens.
+
+The call is at Wednesday, Jul 28 ⋅ 01:00 – 02:00 UTC
+
+Link here to add to your google calendar:
+https://t.co/gN4jirgk3m",46,0,16,2021-07-27
+880,2021-07-28 15:23:17+00:00,1420404499437563908,UMAprotocol,"The recording of the community call between @ShapeShift_io and UMA is now available. 
+
+The teams reviewed a proposal from ShapeShift to use range or success tokens by exploring which would best suit the new DAO's needs.
+
+https://t.co/HCvKRVBSqo",20,1,4,2021-07-28
+882,2021-07-30 20:05:58+00:00,1421200417820655618,UMAprotocol,"The Super Umans are offering an ongoing ""Treasury Clinic"" for DAOs interested in diversifying their treasury.
+
+If you would like to avail your DAO of this opportunity, join https://t.co/je9sVwBBar and tag user @inalitttlewhile in the #general channel.",34,6,11,2021-07-30
+883,2021-08-03 01:32:00+00:00,1422369627649183762,UMAprotocol,"""DeFi needs a decentralized, on-chain method to formalize terms of a structured transaction and partnership. DeFi protocols deserve DeFi native contracts."" - Kevin Chan on a Range Tokens Learning Session with UMA Community.
+
+Watch full presentation here - https://t.co/vC8T5RcoWm https://t.co/9RJ4MPJutQ",26,1,8,2021-08-03
+885,2021-08-04 01:52:00+00:00,1422737048746684416,UMAprotocol,"""Range tokens allow you to raise funds with your treasury tokens without needing to sell them immediately"" - Kevin Chan on a Range Tokens Learning Session with UMA Community.
+
+Watch full presentation here - https://t.co/vC8T5RcoWm  https://t.co/9RJ4MPJutQ https://t.co/kEZJ2h2oXL",30,2,8,2021-08-04
+888,2021-08-06 23:30:19+00:00,1423788559488753668,UMAprotocol,"This is an an explanation of the Super Uman community from the eyes of someone who joined last month.
+
+It is a good place for anyone interested in participating in DeFi in a more active way to get started. https://t.co/Gupjz6t49N",16,0,6,2021-08-06
+889,2021-08-09 12:30:59+00:00,1424709792916987906,UMAprotocol,"""UMA brings down the barrier to entry into the world of financial derivatives by providing an open-source framework to develop financial contracts."" 
+
+-@nambiampurath of @beincrypto  
+
+See the full writeup here: https://t.co/Q0EWmX1tma",14,0,6,2021-08-09
+890,2021-08-10 04:49:27+00:00,1424956035559788544,UMAprotocol,"The range token is convertible debt paid out in your DAO’s native token. 
+
+DAO’s lock their token as collateral, against which they mint and sell the range tokens.
+
+Full presentation: https://t.co/cLiUKaGtqV https://t.co/qQvfnynZZ6",29,0,7,2021-08-10
+891,2021-08-11 02:18:08+00:00,1425280341326041093,UMAprotocol,"UMA is co-sponsoring a gitcoin hackathon focused on Governance. It starts in 1 week. 
+
+UMA is proud to offer several non-technical prizes focused on financial engineering and governance proposals. They will be announced soon. https://t.co/ZcNhWFu40g",25,0,7,2021-08-11
+892,2021-08-12 02:29:10+00:00,1425645507515490307,UMAprotocol,@AMardalizad @hal2001 @DefiantNews https://t.co/iMg6FwOnf2,1,0,0,2021-08-12
+895,2021-08-13 06:18:02+00:00,1426065490640838659,UMAprotocol,"There is a vote open to approve adding BANK as a collateral type. It will be used to fund a KPI Option for the Bankless DAO.
+
+This comes as a result of the collaboration between @SuperUmans and @banklessDAO.
+ 
+Vote now at https://t.co/2J3qEUp222",37,6,11,2021-08-13
+896,2021-08-16 05:38:14+00:00,1427142638004842497,UMAprotocol,"1/ Liquidity mining could attract more than liquidity.  DAOs are missing an opportunity to mine loyalty and mindshare too.
+
+In this article, @kevinchan2020 explains what smart liquidity mining can look like in a case study:
+
+https://t.co/oYO9vEQ3Uw",55,1,13,2021-08-16
+901,2021-08-17 16:23:26+00:00,1427667393564844032,UMAprotocol,"7/ This POAP will be awarded to hackers who submit applications to UMA. Created by SuperUMAn @SurfTranquille.
+
+Apply here: https://t.co/ox7L5UYLHn https://t.co/BAXXXpQ16k",11,4,3,2021-08-17
+909,2021-08-19 12:41:12+00:00,1428336243411230724,UMAprotocol,"Hack with $UMA in this @gitcoin hackathon and earn.
+
+https://t.co/EwxYoHI5Kv https://t.co/ATkbATEDTj",45,2,12,2021-08-19
+911,2021-08-25 11:37:46+00:00,1430494608950284292,UMAprotocol,"2/ Sponsors want to see hackers combine tools from the co-sponsors.
+
+These include UMA's DAO treasury management tools, Boardroom's governance API, Gnosis' suite of DAO tools, Snapshot's off-chain voting platform, and Compound's Governor and Alpha and Bravo contracts.",6,1,0,2021-08-25
+917,2021-08-30 11:50:04+00:00,1432309642030366722,UMAprotocol,"Executive Director of @AragonProject, @charlesworthjc, envisions a future where the 1800+ DAOs on Aragon are using UMA's KPI options. https://t.co/cNyQeAfRqg",31,4,7,2021-08-30
+918,2021-09-02 12:04:56+00:00,1433400546753396739,UMAprotocol,"BadgerDAO's KPI options are ""in the money."" They have paid out a total of $2.6M to qualifying participants who helped DIGG rebase positively.
+
+KPI options incentives were successful in achieving the desired outcome. https://t.co/Fifhhvm51v",45,2,13,2021-09-02
+924,2021-09-03 09:52:56+00:00,1433729717077749793,UMAprotocol,"""DAOs could implement vesting schedules where it makes sense or even get creative with more exotic means such as KPI options to prevent insta dumping. ""
+
+- @MessariCrypto author @jpurd17, on how DAOs can more aggressively deploy their vast treasuries.
+
+https://t.co/jevxxNN38r",27,1,4,2021-09-03
+926,2021-09-07 04:13:19+00:00,1435093802172174340,UMAprotocol,"With the rise of auto-compounders and aggregated yield tools, the attention and loyalty a protocol receives for liquidity mining has fallen.
+
+Liquidity Mining 2.0 fixes this by ensuring that farmer and protocol incentives are aligned.
+
+https://t.co/oYO9vEQ3Uw",101,1,14,2021-09-07
+927,2021-09-09 05:16:00+00:00,1435834351409930240,UMAprotocol,"2/ UMA will be co-hosting an after-party on Monday, September 20th from 6-9pm in New York.
+
+@SuperUmans are invited to attend (60 slots available.) Inquire in Discord.",9,0,0,2021-09-09
+929,2021-09-10 09:32:08+00:00,1436261197800779792,UMAprotocol,UMA products such as uGAS will be made available on Injective in the coming months. https://t.co/HbpFXdD07p,115,2,20,2021-09-10
+933,2021-09-13 10:54:52+00:00,1437369181918408710,UMAprotocol,"If you're drawn to #HackUMA in the @ETHGlobal hackathon, you may want to consider hacking for the long term.
+
+Join UMA as a software engineer. You'll have an opportunity to work across our entire Ethereum-based web3 stack 
+
+Learn more: https://t.co/fK89MggGUO",16,1,5,2021-09-13
+937,2021-09-14 05:28:38+00:00,1437649468338417669,UMAprotocol,"B.Protocol DAO is voting now on if to use KPI option tokens for liquidity mining. This is “Liquidity Mining 2.0” as designed by @kevinchan2020.
+
+It is advised that @bprotocoleth DAO members who prefer cooler climates participate in the vote. https://t.co/d8tXoBoPGo",28,0,9,2021-09-14
+940,2021-09-15 11:01:37+00:00,1438095657001275392,UMAprotocol,"UMA's co-founder @hal2001 will be speaking at @token2049 in London. The conference runs from October 7-8.
+
+https://t.co/Oz5ALYv2IV https://t.co/T3Ja6YSVF9",23,4,7,2021-09-15
+942,2021-09-16 14:05:00+00:00,1438504193157783563,UMAprotocol,"Passionate about cutting-edge blockchain technology?
+
+We're looking for a community builder who will be able to craft engaging and informative content to cultivate the community.
+
+Learn more and apply: https://t.co/E0L1Fz9Ps2",20,5,6,2021-09-16
+945,2021-09-17 14:06:00+00:00,1438866832144932865,UMAprotocol,"Our mission is to enable universal and fair access to financial markets. We value each individual's right to economic freedom. We are building a decentralized financial contracts and data verification protocol. 
+
+Join us to build a better system: 
+https://t.co/Pj3Q9R2NA4",33,3,11,2021-09-17
+952,2021-09-23 10:20:34+00:00,1440984427681681411,UMAprotocol,"The @ShapeShift_io community revealed a proposal to use UMA's success tokens for treasury diversification. 
+
+The aim is ""to diversify with stable coins using a method that does not create sell pressure on the FOX token.""
+
+https://t.co/hifvZ70JpF
+
+@ErikVoorhees @joshuajforman",37,2,13,2021-09-23
+953,2021-09-24 07:09:47+00:00,1441298804049780740,UMAprotocol,"UMA’s optimistic oracle protects your smart contract and users against manipulation of the external data feed, since incorrect data can be disputed. 
+
+This is a unique design feature, as other oracle solutions are only as secure as their data feed.",30,2,4,2021-09-24
+954,2021-09-29 07:58:46+00:00,1443123069921501185,UMAprotocol,"5/ These three programs are designed to help the protocols hit specific goals by aligning incentives.
+
+If your DAO would like to get smarter about rewards, you can get started here:
+
+https://t.co/cickeNQo5e",11,0,3,2021-09-29
+960,2021-09-30 16:17:23+00:00,1443610940784713731,UMAprotocol,"The @SuperUmans are organizing a pixel party to celebrate the end of uDAO's campaign.
+
+Members of the @bprotocoleth @Barn_Bridge @banklessDAO @BadgerDAO @Bancor and @AragonProject communities are invited to participate in this pixel party to celebrate with the SuperUMANs. https://t.co/zHcd9iVA5W",37,1,6,2021-09-30
+968,2021-10-06 13:12:57+00:00,1445738849921998857,UMAprotocol,"Domination Finance.
+Built on UMA.
+Integrated with Polygon. https://t.co/MsoPPBTRUh",43,7,12,2021-10-06
+969,2021-10-07 19:50:24+00:00,1446201262173741061,UMAprotocol,"Another DAO has joined the list DAOs writing contracts secured by UMA protocol.
+
+Welcome to https://t.co/PHDuVl369M, the latest to launch KPI options. 
+
+Volatility will be creating a novel ""rolling KPI option"" mechanic. https://t.co/55QtuQ6Ptc",31,0,7,2021-10-07
+970,2021-10-08 11:30:53+00:00,1446437940331229184,UMAprotocol,"1/ UMA's discord has a core community called the ""SuperUMAns.""
+
+These individuals are given KPI option tokens that mature on a quarterly basis.
+
+The expiry value is based on how much of the KPI was achieved. https://t.co/wRWZqCKrFV",91,9,35,2021-10-08
+976,2021-10-09 23:57:50+00:00,1446988307234185216,UMAprotocol,"1/ @DeFiVolatility has funded a KPI option on UMA's contracts.
+
+The KPI is tailored to incentivize recipients to complete specified DAO projects.",18,2,4,2021-10-09
+978,2021-10-10 08:13:52+00:00,1447113138420264960,UMAprotocol,"3/ With the voting rewards, voters can earn a steady stream of $UMA tokens for participating. 
+
+Gas fees for voting are rebated monthly, paid out in $UMA.
+
+https://t.co/YoxF9DWIqN",17,1,2,2021-10-10
+984,2021-10-11 10:50:57+00:00,1447515053960335360,UMAprotocol,"1/ uINT is a KPI option token created by UMA. It was designed to incentivize outcomes that are important for the protocol’s adoption.
+
+It does this by paying out $UMA tokens at maturation on Dec 30th, 2021. 
+
+https://t.co/XoWL5ffFjs",27,1,7,2021-10-11
+987,2021-10-12 19:17:22+00:00,1448004889632706562,UMAprotocol,"1/ PieDAO has launched a KPI option program to encourage tokenholders to stake the DOUGH token.
+
+Staking the token returns the veDOUGH token, which can be used to participate in governance. https://t.co/CwgLIaXMEF",45,3,18,2021-10-12
+990,2021-10-13 11:02:09+00:00,1448242648758763530,UMAprotocol,"4/ As more insurance products come on-chain, the OO is uniquely suited to enforce those contracts. 
+
+It offers a composable adjudication service with economic guarantees.",3,0,0,2021-10-13
+994,2021-10-26 08:55:38+00:00,1452921852645494789,UMAprotocol,"1/ This project by @olliten leverages the power of distributed incentives to affect climate change.
+
+It is uses Social Policy Bonds (SPBs) to pay out rewards when climate goals are achieved. SPBs were initially proposed in 1988.
+
+How does @UMAprotocol fit in? https://t.co/Kn0FOV0Vk3",36,4,11,2021-10-26
+1002,2021-10-27 01:25:19+00:00,1453170915672530945,UMAprotocol,Across is innovative because it solves the bridge problem in a materially different way. https://t.co/82C94JU3v9,36,3,12,2021-10-27
+1004,2021-10-28 09:41:07+00:00,1453658074003161088,UMAprotocol,"Super Umans have a range of hard skills, but also require emotional labor and social capital to succeed -- And this is something anyone can provide.
+
+If you're looking for a way into a DAO, learning, and earning in DeFi, there are none more inviting than the Super Umans. https://t.co/f1gIbOQ6Py",32,7,8,2021-10-28
+1005,2021-11-03 15:10:30+00:00,1455915294552100868,UMAprotocol,"UMA's community lead @TokenArchitect spoke at LisCon last month on the topic ""When to Pay: The Psychology and Economics of Community Building."" 
+
+He discusses how UMA's KPI options crack ""motivation dilemma.""
+
+You can see the entire presentation here:
+
+https://t.co/NKsXUgD8Ig",38,4,10,2021-11-03
+1006,2021-11-05 05:09:17+00:00,1456488767905218563,UMAprotocol,"1/ @AcrossProtocol is the fastest, cheapest, and most secure L2 to L1 bridge. It will launch live on main net in 4 days.
+
+Across uses UMA's Optimistic Oracle to insure transactions.",144,7,47,2021-11-05
+1010,2021-11-07 05:40:49+00:00,1457221481000316933,UMAprotocol,"@jessewldn @LiquityProtocol @uniswapgrants @compoundgrants Any protocol can pay out in KPI options to developers so their redemption value will depend on achieving a particular KPI -- A ""smart grant"" program.
+
+https://t.co/cickeNQo5e",5,0,0,2021-11-07
+1013,2021-11-08 10:54:46+00:00,1457662874516664322,UMAprotocol,"3/ KPI options are just one subset of products that can now be built thanks to this functionality.
+
+Until now, such generalized contracting required legal enforcement. Now, they can be enforced by the OO.",19,0,2,2021-11-08
+1016,2021-11-09 16:11:23+00:00,1458104943563452418,UMAprotocol,"Since launch, @AcrossProtocol bridged over $1M in volume.
+
+Each time the bridge is used, UMA token holders are securing the value that passes over it.",82,8,23,2021-11-09
+1017,2021-11-10 04:12:21+00:00,1458286380723879939,UMAprotocol,"Across Protocol elevates UMA because it relies on the security provided by $UMA tokenholders. 
+
+Each time the bridge is used, it calls the Optimistic Oracle.
+
+The value of the UMA network is directly correlated with its usage. https://t.co/K1KdNjkGIt",52,3,17,2021-11-10
+1018,2021-11-11 07:48:05+00:00,1458703058112815113,UMAprotocol,"UMA is a proud ""2-yr Event Sponsor"" of Dystopia Labs' new event series. Dystopia Labs has a history of creating high-quality events.
+
+UMA supports their mission to ""help our attendees make connections that count so that they can manifest cool shit together.""
+
+$WGMI https://t.co/pDDnGx50E5",28,2,7,2021-11-11
+1021,2021-11-14 16:28:24+00:00,1459921166295048193,UMAprotocol,"@diodegen The current voting round is in the “reveal” stage. 
+
+For future votes, go to https://t.co/2J3qEUp222 and also follow @UMAGovernance for voting alerts.",2,0,0,2021-11-14
+1028,2021-11-15 17:13:46+00:00,1460294968573054986,UMAprotocol,"@i001962 @AcrossProtocol It is called optimistic because claims are assumed to be true unless disputed. 
+
+For Across, a relayer can submit a request for reimbursement. This request will be paid after 2 hours if no one disputes.",1,1,0,2021-11-15
+1032,2021-11-17 06:17:06+00:00,1460854491197157378,UMAprotocol,"UMA's Optimistic Oracle gets help from bots to propose and dispute responses.
+
+The OO bot will is the most versatile and important bot in UMA's ecosystem.
+
+Anyone can run an OO bot, and earn rewards for doing so. Read up here:
+
+https://t.co/HeixLXJLXM",41,3,12,2021-11-17
+1033,2021-11-18 16:13:53+00:00,1461367064300384263,UMAprotocol,UMA's @chandler_dkk interviews @joshuajforman of @ShapeShift_io to discuss ShapeShift's decentralization process. https://t.co/01pyDYSabH,35,0,7,2021-11-18
+1034,2021-11-19 13:13:05+00:00,1461683949558771716,UMAprotocol,"1/ UMA can now support event-based expiries for KPI options.
+
+This means that KPI options can pay out when a target is hit, rather than at an expiry date.
+
+https://t.co/tHaWmYvHFy",91,2,18,2021-11-19
+1040,2021-11-22 13:55:55+00:00,1462781894181928964,UMAprotocol,2/ This panel has assembled to support the @AcrossProtocol community in their efforts to design the Across token.,13,0,2,2021-11-22
+1041,2021-11-24 14:44:08+00:00,1463518803938131973,UMAprotocol,"UMA will be hosting @OndoFinance in Discord for an AMA about LAAS -- ""Liquidity As A Service.""
+
+UMA will be partnering with Ondo and coordinating with  @feiprotocol to launch an UMA vault in which UMA holders can earn rewards.
+
+Join in https://t.co/je9sVwBBar at 17:00 UTC today.",34,3,3,2021-11-24
+1042,2021-11-30 12:18:25+00:00,1465656462806507521,UMAprotocol,"1/ This year, UMA tokenholders have earned a historical average 38% APY in $UMA tokens as an incentive for voting. 
+
+For EACH vote per cycle, the protocol inflates the total token supply by .05% (one twentieth of one percent) and distributes them to participating majority voters.",70,3,20,2021-11-30
+1049,2021-12-02 07:17:00+00:00,1466305381714567169,UMAprotocol,"5/ There is still time to join as a co-founder in https://t.co/yCGWiWRNPN.  
+
+Follow @AcrossProtocol for updates.",13,0,0,2021-12-02
+1055,2021-12-10 13:10:56+00:00,1469293556288393220,UMAprotocol,"Domination Finance now makes it easier to add liquidity and earn.
+
+Domination Finance offers traders access to domination pairs for Tether, Ethereum, and Bitcoin. These markets are secured by UMA's optimistic oracle. https://t.co/mDv5llytrp",29,3,4,2021-12-10
+1056,2021-12-19 14:05:38+00:00,1472568814017593351,UMAprotocol,"1/ Ross from @YamFinance wrote a thoughtful appeal to use UMA’s KPI options to create a protocol owned liquidity program for Yam.
+
+He explains that Olympus DAO’s model does not encourage “long term incentive alignment among bond buyers.”
+
+https://t.co/h69dRZv2Yz",58,8,13,2021-12-19
+1060,2021-12-20 02:49:37+00:00,1472761072880955408,UMAprotocol,"1/ SuperUMAn @Tenzents here suggests that @paraswap consider using KPI options for a second airdrop to capture missed, but genuine users:
+
+https://t.co/w7Qtpkv6wy",26,3,5,2021-12-20
+1062,2021-12-21 05:32:10+00:00,1473164369383071744,UMAprotocol,"Each dollar flowing through the https://t.co/prHzdWvzGi bridge is secured by UMA's optimistic oracle.
+
+With each protocol integration, the optimistic oracle becomes both more secure and more valuable. 
+
+Stay tuned for a new integration announcement before 2022. https://t.co/gjzPTuhZOE",29,2,10,2021-12-21
+1063,2021-12-23 03:14:00+00:00,1473854372878733318,UMAprotocol,"Across' bridging solution is possible thanks to UMA's optimistic oracle. 
+
+This oracle is asked ""Did the funds get sent as promised?"" and Across can trust the answer.
+
+As Web3 increasingly requires both multi-chain and IRL integrations, an optimistic oracle is inevitable. https://t.co/HbL4e8cJvo",37,2,6,2021-12-23
+1064,2021-12-27 17:37:10+00:00,1475521147542421507,UMAprotocol,"An optimistic oracle can power an entire protocol because of the ability to answer bespoke questions.
+
+In the case of @AcrossProtocol, the contract asks ""Did a relayer do what they said they did?""
+
+This piece of data is unlike the kind of data that price feed oracles serve.",42,3,3,2021-12-27
+1065,2021-12-30 15:36:25+00:00,1476577923142500359,UMAprotocol,"1/ DFX Finance has launched a KPI Options program on UMA Protocol.
+
+DFX is a forex protocol aiming to increase on-chain liquidity of FX stablecoins. https://t.co/dgaEsOFyJT",38,1,9,2021-12-30
+1068,2021-12-31 04:52:56+00:00,1476778374920089621,UMAprotocol,"1/ @PieDAO_DeFi has a proposal live to acquire @BasketDAOOrg. KPI options are the financial mechanism behind this proposal. 
+
+The role KPI options would play is to align shareholder interests, maximize TVL migration, and ensure a smooth transition.
+
+https://t.co/WbRTahpUaf https://t.co/8Xo3rDZ8QX",43,1,9,2021-12-31
+1072,2022-01-04 05:07:02+00:00,1478231474247766021,UMAprotocol,"1/ Boba announces the ""WAGMI"" incentive program, built using UMA's KPI Options.
+
+This will not be a single campaign, but a series of campaigns over the coming months to accomplish a range of protocol-relevant KPIs. https://t.co/L0COtBkpkS",74,4,20,2022-01-04
+1075,2022-01-06 16:02:54+00:00,1479121305572032521,UMAprotocol,"The @DFXFinance X @SuperUmans AMA starts in 3 hours in the community-lounge channel in UMA's Discord server.
+
+Join if you have questions about DFX's KPI Options, how to get them, and how to make them pay.
+
+https://t.co/je9sVwTc1Z. https://t.co/G0ddQ33OEb",38,5,6,2022-01-06
+1082,2022-01-07 03:15:07+00:00,1479290473978097664,UMAprotocol,"1/ Projects continue to innovate on KPI Option designs. QiDAO is the latest example, with the Strategic Partnership Program.
+
+Most KPI options are airdrops, but QiDAO takes a different approach: allowing whitelisted strategic partners to purchase KPI options. https://t.co/SPVyY6zKK4",23,2,9,2022-01-07
+1087,2022-01-08 00:52:44+00:00,1479617029330112515,UMAprotocol,"3/ The third is the addition of the Optimistic Rewarder contract.
+
+This contract mints ERC721 (NFT) tokens for anyone who requests them. These NFT tokens are used as trackers for accruing rewards, which will be used to build the next generation of KPI options.",9,1,0,2022-01-08
+1092,2022-01-10 07:21:29+00:00,1480439638632407047,UMAprotocol,"7/ This kind of generalized contracting can capture an assortment of DAO 2 DAO contracts, such as we've seen proposed for the @PieDAO_DeFi acquisition of @BasketDAOOrg using UMA's oracle as the judge.",10,3,2,2022-01-10
+1100,2022-01-11 16:02:31+00:00,1480933146682138630,UMAprotocol,"4/ LM 2.0 is just the beginning. To find out how you and your DAO can use streaming KPI options, join the AMA in 4 hours:
+https://t.co/xhh4fViUge",13,1,1,2022-01-11
+1111,2022-01-13 08:32:11+00:00,1481544591362994178,UMAprotocol,"UMA's Growth Strategist, @chandler_dkk, sat down with the Founder of Ondo Finance, @nathanlallman, to talk about liquidity-as-a-service.
+
+UMA is one of the first teams to use Ondo's structured vaults to provide liquidity. 
+
+And more to come... 
+
+https://t.co/E0cgJbbAmc",31,5,14,2022-01-13
+1113,2022-01-19 16:38:04+00:00,1483841196728496128,UMAprotocol,"6/ The uses of the protected tokens primitive are just starting to be explored. The team supporting UMA protocol will publish more research shortly.
+
+To explore how they can be used to protect assets in your smart contracts, reach out to the team in https://t.co/je9sVwBBar.",10,0,0,2022-01-19
+1120,2022-01-20 15:50:00+00:00,1484191487831117824,UMAprotocol,"Starts in 10 minutes: Web3 community growth hacks with @UMAprotocol and @DFXFinance.
+
+Text chatting will happen in DFX's discord, where you can make comments or ask questions: https://t.co/weM9tBomfx
+
+https://t.co/uo57cCVmdT",18,0,4,2022-01-20
+1122,2022-01-21 09:33:43+00:00,1484459182095052803,UMAprotocol,"3/ This functionality is what powers Across Protocol, KPI options, and spaceship insurance. Now, developers in the Cosmos ecosystem can leverage it.",9,0,0,2022-01-21
+1126,2022-01-24 17:14:15+00:00,1485662244151218181,UMAprotocol,"4/ KPI options deployed in such a fashion are an example of “Liquidity Mining 2.0.” 
+
+Boba is taking an additional step by making sure that farmers are incentivized over multiple epochs.",10,1,1,2022-01-24
+1132,2022-01-26 06:03:35+00:00,1486218241194274819,UMAprotocol,Soon https://t.co/6XpiJ56CIo,63,10,5,2022-01-26
+1134,2022-01-27 15:30:28+00:00,1486723286041911298,UMAprotocol,"For the first time, $UMA tokenholders can borrow against their UMA tokens. This is on the @RariCapital Fuse pool here:
+
+https://t.co/8I1Wz29qyA
+
+Against their UMA, tokenholders can borrow $FEI or $USDC. https://t.co/WwhPzCSljs",45,1,13,2022-01-27
+1141,2022-01-29 03:57:07+00:00,1487273576218562565,UMAprotocol,"@dcfgod understands the importance of aligning incentives of investors and community members with the long term goals of the project
+
+success tokens accomplishes this.  learn more here:
+https://t.co/dMH8CynnNC https://t.co/wgI5LTC2km",4,0,1,2022-01-29
+1142,2022-02-01 02:32:11+00:00,1488339364216295428,UMAprotocol,@newsthatyoulove Sure. What is it?,0,1,0,2022-02-01
+1154,2022-02-02 03:37:07+00:00,1488718092716937219,UMAprotocol,"Congratulations to Domination Finance and Boba Network!
+
+DomFi allows users to trade synthetic assets representing domination pairs. These assets are secured by UMA's OO.
+
+Boba has launched KPI Options also secured by UMA's OO. You can farm them by being an LP for DomFi. https://t.co/lEpqgVvvTt",26,0,12,2022-02-02
+1157,2022-02-04 01:50:03+00:00,1489415925979770883,UMAprotocol,"1/ @PolymarketHQ has integrated UMA’s optimistic oracle for market resolution. 
+
+Polymarket is the largest decentralized information markets platform.
+
+https://t.co/7uS13G1pO6",171,31,53,2022-02-04
+1162,2022-02-10 21:31:04+00:00,1491887465086472192,UMAprotocol,Information market for the Super Bowl on @PolymarketHQ — deep liquidity too. https://t.co/pEifoCI7JZ,22,1,5,2022-02-10
+1163,2022-02-11 19:28:36+00:00,1492219033147510785,UMAprotocol,"The UMA team will be at ETH Denver in full force, with 4 talks over the week. Make sure to stop by the UMA booth at the conference, too.
+
+Special prizes for anyone who attends all four UMA talks.",39,4,13,2022-02-11
+1164,2022-02-13 22:03:29+00:00,1492982788080951306,UMAprotocol,"$15,000 in bounties from @UMAprotocol are waiting for our #BUIDLers! The breakdown of the bounties can be found in the video below or read about it here: 
+https://t.co/gl8o1yu2MH #ETHDenver #BountiesFTW https://t.co/jQAeAJzEYz",28,4,10,2022-02-13
+1165,2022-02-15 18:20:00+00:00,1493651320871403523,UMAprotocol,"Are you at ETHDenver? Feel free to join Hart Lambur(@hal2001) as he goes live at 'Art Stage' in 60 mins speaking on 'Building a Next-gen Rewards Engine to Incentivize DAOs' 
+
+Event details: 
+https://t.co/yyqU7SfARz
+
+We have special prize for anyone who attends all four UMA talks.",16,1,6,2022-02-15
+1167,2022-02-16 03:01:48+00:00,1493782639257346048,UMAprotocol,https://t.co/orLj2eBbup https://t.co/Ra3xg9tYLO,11,2,0,2022-02-16
+1168,2022-02-17 01:14:40+00:00,1494118064236883972,UMAprotocol,"How to earn WAGMI KPI options on @bobanetwork with @dominationfi.
+
+WAGMI KPI options are built on UMA. Domination Finance offers BTC, ETH, and USDT domination exposure — assets also built on UMA.
+
+https://t.co/bB5i3FrJZJ",24,0,12,2022-02-17
+1176,2022-02-19 20:00:01+00:00,1495126042809303042,UMAprotocol,"#ETHDenver2022
+Catch @chandler_dkk live in 60 mins at 'Wave Stage' discussing 'Why Web3 Needs More Oracles'.
+
+Event details:
+https://t.co/J3FbnpZMHR
+
+We have a special prize of 25 $UMA tokens for anyone who is able to collect 5 POAPs -  https://t.co/45OCUIqcVB",11,5,6,2022-02-19
+1179,2022-02-23 23:16:46+00:00,1496625107615191040,UMAprotocol,"The Across bridge relies on a unique capability of an optimistic oracle: it can verify a steady stream of long-tail data.
+
+Understand how that works in this thread from 
+@AcrossProtocol https://t.co/mU6Pz3BtRl",20,4,3,2022-02-23
+1180,2022-02-24 02:09:06+00:00,1496668478748577793,UMAprotocol,"Learn about what an optimistic oracle is in the Coin Market Cap glossary here:
+
+https://t.co/6Qg5rxKUQx https://t.co/z18N0MvIeR",17,3,4,2022-02-24
+1182,2022-02-28 19:00:00+00:00,1498372430930214912,UMAprotocol,@TokenArchitect will be hosting a Space in 30 mins with @LisaWocken who holds a doctorate in Organizational Leadership to discuss about Leadership within DAOs and what DAOs can learn from research on shared leadership - https://t.co/Et77nyzORF,6,0,2,2022-02-28
+1183,2022-03-01 16:00:00+00:00,1498689521151463425,UMAprotocol,"UMA has partnered with @dappback to create a web3 task page that rewards you for completing web3 micro-tasks like joining our community, getting onboarded, providing content, etc.
+
+Try it out here:
+https://t.co/xmJcJtpca3",59,10,17,2022-03-01
+1185,2022-03-02 16:48:29+00:00,1499064107038920712,UMAprotocol,KPI Options on @bobanetwork for @dominationfi have been distributed. Check your wallets! https://t.co/CcfRPaqUVt,54,6,15,2022-03-02
+1186,2022-03-04 20:06:23+00:00,1499838689585033216,UMAprotocol,"Here UMA's co-founder @hal2001 talks with @Benzinga at ETH Denver. Hart shares about UMA's origins and provides an explainer for what UMA and the optimistic oracle are.
+
+https://t.co/12WgR64iha",20,1,8,2022-03-04
+1188,2022-03-06 01:37:52+00:00,1500284494992920577,UMAprotocol,"Come to this Twitter spaces event starting soon - learn about how to earn WAGMI KPI Options on Boba Network.
+
+KPI options are secured and resolved by UMA’s optimistic oracle. https://t.co/SL8QMWgupQ",28,1,7,2022-03-06
+1190,2022-03-08 18:49:51+00:00,1501268978211213315,UMAprotocol,"1/ UMA's optimistic oracle is used to resolve many information markets on @PolymarketHQ.
+
+Since Feb 17th, Polymarket and Risk Labs have been distributing liquidity incentive payments to users who provide market liquidity. 
+
+You can get more details here: https://t.co/7qBCpvwF2y",27,6,4,2022-03-08
+1192,2022-03-11 17:35:00+00:00,1502337305377480711,UMAprotocol,"One week ago, UMA was featured in a @dappback campaign. Dappback awards NFT badges to those who do tasks such as sharing Medium articles on social media.
+
+You can see the impact it had on UMA's Medium views!
+
+Your protocol can join https://t.co/9KO1zaB76N, just DM @dappback. https://t.co/84PBYtXfAk",60,12,16,2022-03-11
+1193,2022-03-15 22:28:27+00:00,1503860707749941248,UMAprotocol,"@vaibhavgeek @SuperUmans Yes - Here are some helpful links:
+
+https://t.co/LfKMp509Mc
+
+And here is the minting tx on polygonscan:
+
+https://t.co/dkOVguHmsC",0,0,0,2022-03-15
+1222,2022-03-16 20:26:49+00:00,1504192485236477952,UMAprotocol,"Boba Network is running a series of programs to encourage the use of the protocols built atop them. 
+
+These programs are deployed as KPI Options.
+
+Here, Domination Finance is sharing a way to double down on these rewards by borrowing from Bodh and LPing on DomFi: https://t.co/piTXCdFrTV",26,1,7,2022-03-16
+1223,2022-03-17 22:00:01+00:00,1504578325326360605,UMAprotocol,"UMA co-founder @hal2001 visits @BreakingBanksEU podcast to discuss the rise of a new global finance contracting system, emerging challenges &amp; new frontiers in DeFi. https://t.co/qyUvn7hqXu",27,4,8,2022-03-17
+1224,2022-03-18 01:01:33+00:00,1504624012902735876,UMAprotocol,@CamastaCory Yes - quote RTs count towards the total. Good question.,0,0,1,2022-03-18
+1225,2022-03-21 17:11:55+00:00,1505955374200811521,UMAprotocol,"7/7 At UMA, you will take the time off that you need, when you need it. 
+
+We support everyone to do their best work, with life balance.
+
+Parental leave, family care, training &amp; development, and unlimited paid time off are just some of the ways we show we care about our people!",17,0,2,2022-03-21
+1235,2022-03-22 02:22:10+00:00,1506093852528156678,UMAprotocol,https://t.co/x2m3iECwnl https://t.co/9ag5uvgh0y,24,3,8,2022-03-22
+1236,2022-03-24 17:38:56+00:00,1507049339981422598,UMAprotocol,"This fresh analysis in @cryptoslate explores various oracles in the blockchain ecosystem &amp; includes comments by UMA's @hal2001, who shares why the optimistic oracle is a strong, flexible, secure and decentralized approach to data verification. 
+
+https://t.co/PjsrjthtO8",17,0,7,2022-03-24
+1245,2022-03-25 20:09:23+00:00,1507449588252389378,UMAprotocol,"Contributions of $UMA to charities on The Giving Block will be matched.
+
+UMA is a proud supporter of TGB. Presently, you can RT to plant a tree (or two it seems) - and @SuperUmans have done several “charity chain” trust exercises with donations at the end via TGB. https://t.co/D2ol432sVx",29,2,8,2022-03-25
+1257,2022-03-26 07:21:05+00:00,1507618628434374659,UMAprotocol,🇹🇷/ https://t.co/TUYjS333g9,8,1,1,2022-03-26
+1260,2022-03-27 07:35:43+00:00,1507984697158164480,UMAprotocol,@EthAsp0rts @gabrielhaines @CRE8RDAO @ShapeShift_io @AdeptCamp @0xPoopster @Sadu0ne Yes https://t.co/F7PfYxgxj7,3,1,0,2022-03-27
+1261,2022-03-28 19:12:02+00:00,1508522317911003140,UMAprotocol,"Solana News covers key investment by #CoinbaseVentures and @ChapterOne in UMA-engineered Fox #successtokens by @ShapeShift_io  #DAO + why success tokens offer fundraising avenue for DAOs from investors without the need to sell steeply discounted tokens
+
+https://t.co/Sos04ijWjj",41,3,15,2022-03-28
+1262,2022-03-29 09:23:48+00:00,1508736674813075457,UMAprotocol,"You have planted 1153 trees by retweeting the tweet below. 
+
+Incredibly, this contribution will qualify for @Shift4's $10M matching campaign with @TheGivingBlock, which means it will actually plant 2306 trees.
+
+This is open for 3 more days. Share for air. https://t.co/HlWRwsske7",64,4,37,2022-03-29
+1265,2022-03-30 20:39:25+00:00,1509269084629659650,UMAprotocol,"Announcing UMA's integration with @FortaProtocol
+
+Forta is providing UMA with independent alerts about requests and proposals to bolster our #optimisticoracle dispute process, streamlining crucial and timely responses.
+
+https://t.co/JIFZHKOzDy",42,4,10,2022-03-30
+1266,2022-04-01 22:11:33+00:00,1510017048318922755,UMAprotocol,"#ETHPortland hackathon begins in less than a week, and #UMA will be there! 
+
+Cool stuff will be built, prizes will be won, bright ideas will be shared, and new friends will be made! Come say hello at the UMA booth! @ETHportland 
+
+https://t.co/scWYkoikRv",26,2,10,2022-04-01
+1267,2022-04-05 15:04:46+00:00,1511359196314288131,UMAprotocol,"Curious about #SuccessTokens and why @ShapeShift_io DAO launched the $scFOX?
+
+Learn more about #UMA's collaboration with #ShapeShiftDAO &amp; how Success Tokens support strategic #DAO fundraising here:
+https://t.co/WtGnRfnXCs",26,0,8,2022-04-05
+1273,2022-04-06 17:21:06+00:00,1511755891070017536,UMAprotocol,"UMA has landed in #Portland  
+We're looking forward to digging in to @ETHportland over the next few days. 
+We'll see you here.",34,1,12,2022-04-06
+1283,2022-04-07 18:43:15+00:00,1512138954807529483,UMAprotocol,"For those at @ETHportland , a reminder that @UMAprotocol senior engineer @jdshutt will be presenting at the event on Friday at 11am PST.
+
+John will focus on the #optimisticoracle and the role it will play in developing optimistic DAO governance with maximum flexibility.",34,8,13,2022-04-07
+1284,2022-04-10 21:48:35+00:00,1513272759949971462,UMAprotocol,6/ And here are Kevin's kiddos decked out in all the swag from ETH Denver. https://t.co/T74K2iomyy,18,1,2,2022-04-10
+1291,2022-04-11 21:26:06+00:00,1513629488290021378,UMAprotocol,1/3 A friendly reminder about security. @UMAprotocol and @AcrossProtocol will never use our channels to do the following things:,23,3,6,2022-04-11
+1296,2022-04-13 20:19:57+00:00,1514337618661584897,UMAprotocol,"7/7 If you see things of this nature, please help us take steps to call it out, shut it down, and stand up against attackers.",7,0,0,2022-04-13
+1303,2022-04-14 14:18:57+00:00,1514609154718982144,UMAprotocol,"Optimistic oracles such as UMA's have seen traction in Web3. But what are they?
+
+Join this panel including members from UMA, Synthetix, and Thales to discuss this topic and new developments in the OO space. https://t.co/73xFGkez8o",24,0,7,2022-04-14
+1305,2022-04-18 22:01:33+00:00,1516175125695115265,UMAprotocol,"Live now - FORT token announcement joined by UMA’s engineer @jdshutt and the CEO of @OpenZeppelin. 
+
+https://t.co/Hhs3WiNdvZ",10,1,2,2022-04-18
+1306,2022-04-19 16:14:02+00:00,1516450056366276613,UMAprotocol,"UMA co-founder @hal2001 shares some thoughts in @cointelegraph on why regulations will eventually set the table for more talent, capital and building in crypto. 
+
+https://t.co/psJoCeKGhp",22,0,3,2022-04-19
+1307,2022-04-20 20:14:18+00:00,1516872908252925952,UMAprotocol,"6/6 Come hang out with UMA at our booth, and tell us more about what you want to build. 
+
+Be sure to scoop up some of the UMA and @AcrossProtocol swag, including our famous 🧦. We’ll be giving out socks to anyone who:
+
+Applies for a job at UMA 
+Makes a hackathon submission 
+🏗️",8,3,1,2022-04-20
+1316,2022-04-21 23:58:05+00:00,1517291613986463750,UMAprotocol,"An optimistic oracle AMA will begin now in the UMA Discord: https://t.co/je9sVwBBar.
+
+We will discuss specifically the recent disputes that came from @PolymarketHQ markets, but anything related to the oracle is fair.",15,2,2,2022-04-21
+1327,2022-04-22 16:51:24+00:00,1517546622585950208,UMAprotocol,"1/2 A friendly reminder that UMA Growth Strategist @chandler_dkk will be presenting at workshop tonight at #ETHAmsterdam focused on: “how to get started with the optimistic oracle"".",21,7,3,2022-04-22
+1329,2022-04-25 19:25:51+00:00,1518672656874172416,UMAprotocol,"1/2 Which Canadian city will emerge as a hot bed for #crypto and #DeFi? 
+
+UMA co-founder @hal2001 thinks he knows, and shares on the @cryptonews podcast with @mattzahab",25,1,6,2022-04-25
+1331,2022-04-26 23:15:13+00:00,1519092764616511488,UMAprotocol,"6/9 Human voters, as part of the OO’s dispute resolution process, can be brought in the loop to resolve disputes. This is an incredibly flexible and powerful form of DAO governance.",2,1,0,2022-04-26
+1343,2022-04-27 15:55:59+00:00,1519344618088902656,UMAprotocol,"11/10 Update: This bounty has been reserved, as a developer is working on it now. Stay tuned for launch!",5,1,1,2022-04-27
+1344,2022-04-28 17:00:14+00:00,1519723175919198210,UMAprotocol,Live now https://t.co/rzlS4rDqb6,19,1,3,2022-04-28
+1346,2022-05-02 20:12:23+00:00,1521221083982036992,UMAprotocol,"UMA treasurer @kevinchan2020 dishes in @cryptonews on how to manage a #DAO treasury.
+He covers: 
+-Focusing on the mission
+-Upholding transparency and accountability 
+-And more... 
+Check it out here: https://t.co/atwVvLelNl",31,0,11,2022-05-02
+1351,2022-05-04 17:23:48+00:00,1521903430175891456,UMAprotocol,"UMA co-founder @hal2001 shares the vision behind the protocol &amp; why: 
+-UMA's optimistic oracle is the lynchpin for truth &amp; dispute resolution in Web3.
+-Crypto is the only pure way to develop universally accessible global finance.
+https://t.co/1B2u4tB78C",35,2,16,2022-05-04
+1358,2022-05-05 21:49:22+00:00,1522332653181046784,UMAprotocol,3/2 We probably should have mentioned that UMA is hiring for a variety of excellent positions: https://t.co/Pj3Q9QLcbu,19,0,6,2022-05-05
+1364,2022-05-06 16:45:15+00:00,1522618504461041667,UMAprotocol,"1/ In the second part of a 3 part series, UMA DAO will hold an event on DAO mindsets, outlining some of the shifts in thinking required as we move towards a permissionless, decentralised world.
+
+Starting in 15 mins (Friday, May 06 17:00 UTC)
+
+https://t.co/gEretrN8Wl",95,5,57,2022-05-06
+1371,2022-05-10 17:35:16+00:00,1524080645059735558,UMAprotocol,3/3 And a reminder that UMA is hiring. Check out our various available positions here and don't hesitate to get in touch: https://t.co/Pj3Q9QLcbu,17,0,2,2022-05-10
+1374,2022-05-11 19:18:12+00:00,1524468938863742977,UMAprotocol,"This technology is inevitable and the market doesn't change that. 
+
+We build.
+
+Announcement tomorrow.",92,4,16,2022-05-11
+1376,2022-05-12 17:33:45+00:00,1524805040640167945,UMAprotocol,A reminder that @hal2001 and @jdshutt from UMA will be joining the team at @FortaNetwork shortly to discuss the benefits and user experience of Forta's monitoring &amp; security. The convo takes place at the top of the hour here: https://t.co/zDMDPGA3zS,12,1,0,2022-05-12
+1383,2022-05-13 20:31:23+00:00,1525212129321660416,UMAprotocol,Thanks to everyone who has shared ideas and/or amplified this contest as we build out an optimistic oracle ideas bank during #HackMoney2022. Keep it coming &amp; more details coming next week. https://t.co/wAdkVDQJ4t,44,6,16,2022-05-13
+1384,2022-05-16 19:05:06+00:00,1526277581640634368,UMAprotocol,"1/2 *Reposting this w/ correct date | UMA is hosting a panel discussion on #DAO Tooling. The chat takes place in the UMA Community Hub in Discord on Tues, May 17 at 16:00 UTC &amp; will involve core members of UMA w/ @showkarma_xyz &amp; @DAOlens",23,3,6,2022-05-16
+1387,2022-05-17 16:16:50+00:00,1526597622156234752,UMAprotocol,Why do DAOs win? UMA co-founder @hal2001 is at #Permissionless2022 this week &amp; joins a panel Wednesday hosted by @strack_ben from @Blockworks_  focused on answering that question &amp; others. Find the full agenda here: https://t.co/CIjsBcWVZS,28,2,10,2022-05-17
+1388,2022-05-18 16:02:46+00:00,1526956470943862785,UMAprotocol,"Twitter space with Across is live now. Come learn about Across V2 and the new features.
+
+https://t.co/ehgwW5wSUw",18,0,2,2022-05-18
+1391,2022-05-19 19:51:10+00:00,1527376334657564672,UMAprotocol,"@AcrossProtocol @umaboyfriend You do know I secure all your transactions, right?",9,3,0,2022-05-19
+1393,2022-05-20 17:25:25+00:00,1527702043552411648,UMAprotocol,"UMA senior engineer @jdshutt shares a couple of strong ideas to build with UMA at #HackMoney2022 and beyond https://t.co/GFNZhqoB5O 
+
+Spoiler alert: Token floor price guarantees &amp; a zero-slippage, gas-less 'optimistic' DEX",30,9,18,2022-05-20
+1401,2022-05-24 18:05:09+00:00,1529161597024804919,UMAprotocol,"Thanks to @skrill for featuring this Q+A article with UMA co-founder @hal2001. Learn more about the vision behind UMA, why the optimistic oracle is a game changer and why real DeFi builders thrive during bear markets.
+https://t.co/1AnuHgD2bH",10,3,3,2022-05-24
+1402,2022-05-25 15:06:18+00:00,1529478973515632643,UMAprotocol,"WTF is Web3? 
+
+If you're curious about that, join @F3ventures for this can't miss discussion today. UMA COO @Melissa_Aquinn will be joining to help answer that question. https://t.co/Bv5Y8exxUT",16,4,4,2022-05-25
+1403,2022-05-27 16:35:31+00:00,1530226201083584513,UMAprotocol,"7/8 Our team at Risk Labs now turn attention to Graph Hack, which takes place June 3-5 in San Francisco. We’ll be announcing more details in the coming days about this next hackathon. https://t.co/nEfsbKOBNS",11,3,0,2022-05-27
+1414,2022-05-30 21:15:12+00:00,1531383752445726720,UMAprotocol,Thanks 🙏 and high fives 🙌 to the team at @skrill for connecting with @hal2001 for this Q+A that explores the motivations behind UMA and the optimistic oracle. https://t.co/r1w2AtvOxK,31,4,5,2022-05-30
+1415,2022-05-31 14:59:08+00:00,1531651500140896258,UMAprotocol,"Live now - AcrossV2 and WAGMI KPI Options - both secured by UMAs optimistic oracle.
+
+ #AcrossV2 https://t.co/3JPXMamsaI",16,3,0,2022-05-31
+1416,2022-06-01 20:24:42+00:00,1532095818370412545,UMAprotocol,"4/5 To spark some creativity, we’ve developed a few ideas for hackers to pick up and carry forward through the contest and beyond. We’ll be sharing this “ideas bank” tomorrow in advance of the hackathon, and we’ll see you in San Francisco.",8,2,2,2022-06-01
+1423,2022-06-02 17:19:54+00:00,1532411698874699788,UMAprotocol,"This Twitter spaces AMA event is happening today, focused on the launch of https://t.co/Nlmnaz6ocb. Outcome is adopting KPI options and success tokens, and building out a whole stack of DAO tools, secured by UMA. https://t.co/vZ7tUskSwQ",23,3,6,2022-06-02
+1425,2022-06-03 17:22:54+00:00,1532774840196685824,UMAprotocol,"Wishing success to all the hackers joining #GraphHack2022 this weekend. Here are three ideas to inspire hackers who plan to build something using UMA, @AcrossProtocol or @0xOutcome. A prize of $4000 goes to the best build. 
+https://t.co/7Tt7CtAGWB",44,9,18,2022-06-03
+1433,2022-06-04 15:41:06+00:00,1533111609362628608,UMAprotocol,"Can an entire DEX be built in an hour? 
+
+If you’re at @graphprotocol #GraphHack2022 you can find out today. https://t.co/fyM6vhO86V",44,3,8,2022-06-04
+1434,2022-06-07 01:33:20+00:00,1533985425328570368,UMAprotocol,"""I get to work with really intelligent and pleasant people who are interesting and weird in all the right ways.""
+
+- @hal2001, UMA co-founder
+
+Think you might be weird in all the right ways? Then check out our open roles: https://t.co/Pj3Q9R2NA4 https://t.co/lJnaiSMcuC",33,15,13,2022-06-07
+1435,2022-06-08 20:02:42+00:00,1534626996193566722,UMAprotocol,"1/2 Interested in the range of blockchains and L2 that are out there, but a bit unsure of how they work?
+
+Join us in the UMA Discord on Sunday (12th June) for a look at some of the approaches and methods used.
+
+https://t.co/i43e6IC4Uc",21,15,6,2022-06-08
+1438,2022-06-13 21:35:38+00:00,1536462322046119936,UMAprotocol,"2/2 If you're into these topics, then you're in for a treat. 
+
+✅Why oracles need flexibility &amp; optimism
+✅How DAOs could change the world (&amp; why they might not)
+✅Is a bear market a perfect test for DAO staying power?
+✅A new era of optimistic DAO tooling has arrived @0xOutcome",18,0,4,2022-06-13
+1441,2022-06-15 19:12:39+00:00,1537151115237552128,UMAprotocol,UMA is an early adopter of @FortaNetwork and we are a strong advocate of security monitoring. We're excited they're taking this step towards full decentralization of their protocol. Congratulations! https://t.co/Jau44LxXt8,32,3,12,2022-06-15
+1455,2022-06-16 19:31:00+00:00,1537518119949807616,UMAprotocol,1/2 Our growth strategist @chandler_dkk joins @DystopiaLabs at #DeFi Discussions V2 on June 17th. Join Chandler at the virtual event to learn how the next gen of smarter rewards are being created &amp; how @0xOutcome is the key to optimistic DAO management.,31,8,13,2022-06-16
+1457,2022-06-20 19:27:44+00:00,1538966849223680001,UMAprotocol,"@AcrossProtocol @0xOutcome 5/6 UMA wizards @seanbrown_0 &amp; @mountainwaterpi will be hosting a workshop on Friday, June 24 at 10pm ET to provide some introductory guidance to hackers keen to build with the optimistic oracle.",11,4,1,2022-06-20
+1463,2022-06-21 22:35:41+00:00,1539376536536723456,UMAprotocol,"Arbitrum and Across will co-host a twitter space all about the Arbitrum Odyssey program that just launched. 
+
+Participants can win special NFTs. Come ask your questions and hear all the details at this twitter space. 
+
+Click ""Set Reminder"" and you are all set. https://t.co/LP5Z8VBZXS",25,2,11,2022-06-21
+1464,2022-06-22 21:21:39+00:00,1539720294301958145,UMAprotocol,"For those at #ETHNewYork this weekend who want to hack on UMA, @AcrossProtocol or @0xOutcome (and you should want to hack with us) here are three concepts for you to pick up and carry forward. 
+
+https://t.co/HH5ItGJ6KW",25,3,10,2022-06-22
+1466,2022-06-24 16:30:08+00:00,1540371708900950016,UMAprotocol,"1/2 Wishing happy hacking to everyone at #ETHNewYork this weekend. Our teams at UMA, @AcrossProtocol &amp; https://t.co/3zMmIIMmwL recognize this current market presents some challenges for many organizations and individuals out there.",14,1,3,2022-06-24
+1472,2022-06-25 14:40:43+00:00,1540706558111145986,UMAprotocol,"Just a reminder that a series of internal learning sessions about UMA tech are available on YouTube. 
+
+Topics include:
+
+How the optimistic oracle works
+Liquidity Mining 2.0
+L2 Bridge Architecture
+Game Theory
+Call Options 
+Merkle Roots
+
+And more...
+
+https://t.co/enbc1ZC9G8",27,6,12,2022-06-25
+1473,2022-06-27 16:53:00+00:00,1541464624549068800,UMAprotocol,"Hey frens and builders in our community. We're working with @DappBackHQ to release new levels, tasks and rewards soon. Get involved and start racking up coins. Connect with us with any questions you have, and stay tuned. 
+
+https://t.co/xmJcJtpca3 https://t.co/KbM6W96iuY",3084,228,2345,2022-06-27
+1474,2022-06-28 19:46:58+00:00,1541870794736689152,UMAprotocol,"@PolymarketHQ 9/9 There are several more disputes to report on. If you found this interesting keep your eye out for future #OORetro threads.
+
+Thanks to @SurfTranquille for designing the beautiful POAP in the first tweet. It was awarded to everyone who voted in this dispute with $UMA tokens.",11,0,4,2022-06-28
+1485,2022-06-29 15:43:17+00:00,1542171857285259267,UMAprotocol,"Join @0xOutcome and @coordinape for a community call where they will be discussing how conditional payout tokens (KPI Options) can be combined with social attestation (Coordinape) to create new kinds of outcomes. 
+
+Starts at the top of the hour. https://t.co/Bcq5PKNvVv",48,5,23,2022-06-29
+1487,2022-06-30 20:17:52+00:00,1542603346044788736,UMAprotocol,Super thanks to the @0xPolygonNews team for having our co-founder @hal2001 on the Polygon Alpha Podcast to dig deep into optimistic oracles; Web3 futurism; and the @AcrossProtocol as a butt-kicking bridge. https://t.co/rVa7GE7XMG,50,21,29,2022-06-30
+1489,2022-07-04 15:53:52+00:00,1543986461308960768,UMAprotocol,"Hiring top crypto talent can be difficult, but it doesn't have to be. Some helpful HR thoughts &amp; strategies in @Cointelegraph courtesy of our COO, @Melissa_Aquinn.
+
+https://t.co/I59sVzZjFp",36,11,9,2022-07-04
+1490,2022-07-05 15:52:17+00:00,1544348449792880641,UMAprotocol,"Join UMA at #F3STIVAL this weekend in Vancouver where more than a thousand women are coming together to explore, celebrate &amp; hold space for the women who are pioneering #web3 and #crypto.
+
+https://t.co/JvfoZa5mAl",43,7,21,2022-07-05
+1491,2022-07-07 18:28:05+00:00,1545112433328418821,UMAprotocol,"What if this isn't a bear market at all? 
+
+Perhaps instead, we recognize this moment for what it truly is: A bull market of innovation.",40,9,13,2022-07-07
+1494,2022-07-08 18:02:48+00:00,1545468459009511424,UMAprotocol,"Bull or Build, There is No Bear
+
+UMA growth strategist @chandlerdkk riffs in @cryptonews on building in a bear market, and the need for scaling solutions to meet capacity demands as web3 evolves and matures. 
+
+https://t.co/sbMyTZsUKS",32,1,11,2022-07-08
+1495,2022-07-09 16:00:00+00:00,1545799944409317384,UMAprotocol,"A friendly reminder that our COO @Melissa_Aquinn is joining a panel IRL at #F3STIVAL today in Vancouver to discuss the question ""WTF is web3?"" 
+
+The panel takes place at 1pm PST. Check out the full schedule here:
+
+https://t.co/E5hE5m74HN",31,5,15,2022-07-09
+1496,2022-07-11 16:05:23+00:00,1546526071729754112,UMAprotocol,"Ryan Wolhuter has learned a few things in his first months at UMA about being a newbie — especially how remote, international web3 teams can treat noobs to optimize good vibes &amp; productivity.
+
+https://t.co/UnDkXAiEqT",32,10,13,2022-07-11
+1497,2022-07-12 19:07:27+00:00,1546934278935552000,UMAprotocol,"Interesting story in @Blockworks_ by @_bessieliu on how teams are using blockchain/crypto more often to source and pay global talent while avoiding costly int'l $ transfers and fiat inflation in some countries. 
+
+With comments from @Melissa_Aquinn 
+
+https://t.co/DlDnVJXIls",17,3,7,2022-07-12
+1498,2022-07-13 17:21:32+00:00,1547270011256942599,UMAprotocol,"Don't miss our @DeFiChris in Paris at #EthCC next week as he reveals why human powered truth machines are inevitable (and essential) oracle tech.
+
+See the full schedule here: https://t.co/GI8FIExku9 https://t.co/w9CCATlJeo",12,17,6,2022-07-13
+1499,2022-07-14 18:00:14+00:00,1547642139802095619,UMAprotocol,"2/2 And also, @DeFiChris on Optimistic Oracles: why human powered truth machines are inevitable oracle tech. 
+
+Both talks take place Thursday, July 21 at the event. Check out the full agenda here: https://t.co/GI8FIExku9",20,4,6,2022-07-14
+1501,2022-07-15 16:45:25+00:00,1547985699604877313,UMAprotocol,We'll see you at the rumble. https://t.co/MVAPyDzeoh,25,9,12,2022-07-15
+1502,2022-07-18 15:31:10+00:00,1549054177036292096,UMAprotocol,"A friendly reminder we have an #OutcomeGang Twitter Space today. We're joined by friends from @utopialabs_ to explore #DAO pain points and to discuss new tools and solutions. Please amplify and join. 
+
+https://t.co/goFfRUE07b",19,4,5,2022-07-18
+1504,2022-07-19 17:13:19+00:00,1549442272491479041,UMAprotocol,"Across, UMA’s sister protocol, has launched the #AcrossReferralLink program.
+
+Click the thread below to learn how you can start earning some $ACX with the program. 👇 https://t.co/drLKXz5KIy",21,9,6,2022-07-19
+1505,2022-07-20 20:11:14+00:00,1549849434988498944,UMAprotocol,"1/3 Happy conferencing, networking and learning to everyone at @EthCC this week. UMA is in Paris and leading a couple of talks during the event.",18,10,2,2022-07-20
+1508,2022-07-25 21:58:08+00:00,1551688275466694656,UMAprotocol,"We're expanding our team &amp; offering conditional rewards up to $25K to people who refer successful candidates to our organization. Let's cut out the headhunters and bring rewards and incentives to the people.
+
+Details are here: 
+
+https://t.co/sTiO5cOi6b",26,5,7,2022-07-25
+1509,2022-07-26 18:51:32+00:00,1552003703271329792,UMAprotocol,"Interesting take here by @tylercowen in Bloomberg. 
+
+""Fundamentally, regulatory arbitrage is part of a process that leads to lower costs, greater innovation and better rules.""
+
+https://t.co/k4JtuctbJG",23,5,9,2022-07-26
+1510,2022-07-27 19:09:56+00:00,1552370723087273984,UMAprotocol,"1/2 So pleased to have our co-founder @Hal2001 on 
+@DefiantNews podcast this week with @CamiRusso. 
+
+https://t.co/WhymMqk8Hj",17,10,6,2022-07-27
+1512,2022-07-28 19:42:33+00:00,1552741316882153472,UMAprotocol,"For all the builders out there: how do you approach building in a bear crypto market versus a bull market? 
+
+What are the differences? The opportunities?",24,10,9,2022-07-28
+1513,2022-07-29 16:05:58+00:00,1553049203256934400,UMAprotocol,We are builders and our team is growing. Check out this open position at our sister project @AcrossProtocol. https://t.co/oYFzxOiUF4,14,4,6,2022-07-29
+1520,2022-07-30 00:16:12+00:00,1553172571876638721,UMAprotocol,"Will $MATIC reach $1 by July 31?
+
+This is a live market on Polymarket, which uses UMA’s optimistic oracle for market resolution. What do you think the answer will be?
+
+https://t.co/MrOTaKDQbz
+
+Poll 1: Yes
+Poll 2: No",14,9,5,2022-07-30
+1521,2022-08-01 15:31:12+00:00,1554127614666674178,UMAprotocol,"4/4 Any questions about this flow?
+
+We will share more examples and opportunities to participate soon.",9,2,3,2022-08-01
+1525,2022-08-02 18:57:13+00:00,1554541847988449280,UMAprotocol,"A new UMA Learn &amp; Earn from #Binance arrives Aug 4!
+
+All verified users will have the opportunity to earn free $UMA by completing an online course &amp; quiz. https://t.co/oGu8iODAnp",17,7,9,2022-08-02
+1528,2022-08-03 21:14:12+00:00,1554938708524077056,UMAprotocol,"1/3 The team behind UMA, @AcrossProtocol and @0xOutcome continues to grow and to thrive.
+
+We're excited to welcome two new team members this week. Dong-Ha Kim and James Morris both join us as front-end engineers focused on Across.",36,9,7,2022-08-03
+1531,2022-08-04 20:35:04+00:00,1555291247635337216,UMAprotocol,"1/2 No worries if you're finding crypto confusing. Concepts like oracles, #DeFi, blockchains and smart contracts can be intimidating. 
+
+A new @BinanceAcademy beginners guide to UMA, our optimistic oracle for web3, went live today.",27,9,15,2022-08-04
+1537,2022-08-05 18:43:05+00:00,1555625455713075200,UMAprotocol,"3/3 A helpful analogy would be that price feed oracles are like trains. They deliver a lot but only along the tracks. 
+
+OOs are like cars. They carry less cargo but can go many more places.",7,0,3,2022-08-05
+1541,2022-08-06 01:35:36+00:00,1555729270349000704,UMAprotocol,"1/4 These are just a few of the questions that UMA's optimistic oracle handled this week:
+
+Will $ETH be above $1,700 on August 5?
+
+Will Joe Biden's FiveThirtyEight approval rating be 39.0% or higher on August 4?",18,6,8,2022-08-06
+1549,2022-08-08 22:07:32+00:00,1556764069331316736,UMAprotocol,"UMA's #optimisticoracle fits many unique use cases in web3 beyond price feed requests.
+
+The OO is particularly useful in a multi-chain world where we want to know what things are happening on other blockchains.",28,15,8,2022-08-08
+1551,2022-08-09 23:21:05+00:00,1557144968577183744,UMAprotocol,"Learn everything you need to know about @0xOutcome's updated #KPIoptions here. 
+
+KPI options are powered and secured by UMA's #optimisticoracle. https://t.co/7tDQDFWsSQ",15,19,8,2022-08-09
+1552,2022-08-10 19:04:49+00:00,1557442864132411392,UMAprotocol,"ICYMI: @0xOutcome, UMA's sister project, has adopted and updated KPI options. The new, narrower focus will allow projects and #DAOs to plug-and-play KPI options in a matter of minutes.
+
+Find all the details here ⬇️ 
+
+https://t.co/iin9mpxd3v",27,13,11,2022-08-10
+1553,2022-08-11 21:09:56+00:00,1557836738185154560,UMAprotocol,"Who's going to be taking part in #ETHOnline next month? 
+
+Check out the event info ⬇️ and stay tuned for more details about how to build w/ UMA during the month-long #hackathon. 
+
+https://t.co/GBc6CYNomO",24,12,10,2022-08-11
+1554,2022-08-12 21:47:49+00:00,1558208661037600768,UMAprotocol,"UMA’s #optimisticoracle empowers and secures a diverse ecosystem of web3 applications like cross-chain bridges, insurance protocols, prediction markets &amp; optimistic DAO tooling products.
+
+Our OO is super versatile, human-powered and battle tested.",56,25,9,2022-08-12
+1555,2022-08-15 22:30:41+00:00,1559306613306974208,UMAprotocol,"We believe optimistic patterns (meaning to proceed unless disputed) is a 🔑 ethos that unlocks diverse &amp; deep potential for Web3 including in areas like:
+
+➡️ The future of work
+➡️ DAO tooling and governance
+➡️ Cross-chain bridging
+➡️ Truth telling and on-chain data verification",50,10,17,2022-08-15
+1556,2022-08-16 21:19:07+00:00,1559650991238025216,UMAprotocol,"Join UMA at #ETHOnline, a month-long hackathon in September that features a massive prize purse and an expected gathering of more than a thousand hackers.
+
+https://t.co/P3cJQn1W8X",18,14,8,2022-08-16
+1560,2022-08-17 20:16:52+00:00,1559997710677131265,UMAprotocol,"9/9 Reminder that UMA is sponsoring the #ETHOnline hackathon in September and providing $8K in prizes for the best builds using our OO. 
+
+Start your prep by checking out all the details and resource links here:
+
+https://t.co/P3cJQn1W8X",11,3,4,2022-08-17
+1569,2022-08-18 22:08:00+00:00,1560388066174414849,UMAprotocol,"We are builders and our teams continue to grow. 
+
+Check out our current #web3 #jobs available at UMA and our sister project, @AcrossProtocol
+
+https://t.co/sgcbjclbwR",18,6,8,2022-08-18
+1570,2022-08-19 17:24:03+00:00,1560678997519831040,UMAprotocol,"At UMA, we come for the #optimisticoracle, but we stay for the skunk problem solving. https://t.co/wFL7OQTkaX",24,15,6,2022-08-19
+1571,2022-08-22 22:14:15+00:00,1561839191293431808,UMAprotocol,"3/3 The month-long hackathon starts Sept. 2. 
+
+Don't forget to register. ⬇️
+
+https://t.co/GBc6CYNomO",10,1,3,2022-08-22
+1575,2022-08-23 16:40:46+00:00,1562117655728775168,UMAprotocol,"Come build with us! 🏗️
+
+We're looking for a Protocol Growth Lead who will have the opportunity to lead a small, agile team to grow UMA product adoption within the exploding industry of #DeFi and #web3. 
+
+Apply for this remote position here: 
+
+https://t.co/vTU3blfsTj",27,8,10,2022-08-23
+1576,2022-08-24 18:07:25+00:00,1562501849357303808,UMAprotocol,"At UMA, we watch the #DeFi and #web3 ecosystem and carefully consider how events impact it. 
+
+What aspect, or potential consequences, of the #Ethereum merge will you be paying most attention to?",22,5,7,2022-08-24
+1578,2022-08-25 17:00:01+00:00,1562847277470851072,UMAprotocol,"Join UMA in September for #ETHOnline. Connect w/ our team, hack on UMA using our #optimisticoracle (OO) &amp; earn prizes. 
+
+To get started, UMA's @jdshutt will host an intro workshop on the OO Wed. Aug 31 at 5:30pm UTC. 
+
+Stay tuned for more details 
+
+https://t.co/GBc6CZ4ZLo",18,10,7,2022-08-25
+1580,2022-08-26 16:00:03+00:00,1563194570883715072,UMAprotocol,"Some Fav Press Friday coming at you. 
+
+A redux of recent press we loved involving UMA and our people.
+
+💾Hiring top crypto talent can be difficult, but it doesn’t have to be | by @Melissa_Aquinn in @cointelegraph. 
+
+https://t.co/I59sVAgV3Z",11,26,5,2022-08-26
+1582,2022-08-27 05:16:58+00:00,1563395121277636608,UMAprotocol,"UMA is partnering with ETHGlobal for their biggest event of the year—ETHOnline. 
+
+It’s a month-long hackathon September 2nd - 28th.
+
+Apply at https://t.co/hBIZ8JWPGE but don’t wait--registration closes on Aug. 30th. UMA is optimistic that we'll see you there. https://t.co/2FVzEMpJIJ",31,10,12,2022-08-27
+1583,2022-08-29 15:30:18+00:00,1564274248000032769,UMAprotocol,"3/3 If you want to learn more, or have an idea about what you can build using UMA's OO, check out our 'Getting Started' docs here:
+
+https://t.co/0Q3c21oa0v",13,1,4,2022-08-29
+1587,2022-08-30 17:20:44+00:00,1564664430407090176,UMAprotocol,"UMA's @jdshutt hosts an intro workshop tomorrow focused on building with UMA's #optimisticoracle.
+
+The 30-min #ETHOnline pre-event workshop takes place Wed. Aug. 31 @ 5:30PM UTC.
+
+Join via YouTube or Zoom. Links ⬇️
+
+https://t.co/9gXXBRw9L0
+
+https://t.co/pGt5mMNWXH",18,5,9,2022-08-30
+1589,2022-08-31 18:20:05+00:00,1565041753459068928,UMAprotocol,"3/4 A helpful analogy would be that price feed oracles are like trains. They deliver a lot but only along the tracks. 
+
+OOs are like cars. They carry less cargo but can go many more places.",13,1,4,2022-08-31
+1595,2022-09-01 21:53:15+00:00,1565457784023687168,UMAprotocol,"The Merge is just two weeks away.
+
+UMA has made the switch to full integration with Goerli, the only Testnet for web3 moving forward.
+
+UMA is ready for The Merge. https://t.co/MBA6JxOKS7",21,6,10,2022-09-01
+1596,2022-09-02 17:41:24+00:00,1565756792235102208,UMAprotocol,"Check out UMA's super smart and creative senior engineer @DeFiChris on the @DDS_HQ podcast.
+
+They cover:
+
+➡️ Good smart contract design patterns
+➡️ UMA's #optimisticoracle and why it's a gamechanger for web3
+➡️ Cool @AcrossProtocol design features
+➡️ Some long term visioning",20,1,9,2022-09-02
+1599,2022-09-05 15:30:00+00:00,1566810889654870017,UMAprotocol,"It's hacking season. #ETHBogota is just around the corner and UMA will be joining the IRL event October 7-9. 
+
+Come be with us in Colombia to expand and strengthen the web3 design space. Our friends from @ETHGlobal want you to apply here, and we agree.
+
+https://t.co/ObE25qUTh9",26,7,7,2022-09-05
+1600,2022-09-06 22:03:41+00:00,1567272352253366272,UMAprotocol,"With #ETHOnline well under way, now is a good time to remind that prizes await those who build the best stuff using UMA's #optimisticoracle at the month-long virtual hackathon.
+
+Here are the important details
+
+https://t.co/P3cJQmKT6X",13,3,10,2022-09-06
+1603,2022-09-07 16:02:32+00:00,1567543851371601920,UMAprotocol,"Congrats on the new show @moreshk and thanks for having @jdshutt join to discuss UMA's #optimisticoracle.
+
+🎙️We'll look forward to your next episodes! https://t.co/3nvpfsTtpN",14,5,5,2022-09-07
+1604,2022-09-08 21:12:49+00:00,1567984326817755136,UMAprotocol,"1/4 If you're hacking at #ETHOnline this month, we'd encourage you to consider building on UMA's #optimisticoracle.
+
+Here are a couple of ideas to spur some creative thinking...",18,2,8,2022-09-08
+1608,2022-09-09 15:31:52+00:00,1568260910212595712,UMAprotocol,"Come work with us! 
+
+Join our growing, agile, remote team with great people in more than a dozen countries around the world. https://t.co/dn7CIozFid",17,3,8,2022-09-09
+1610,2022-09-12 22:27:01+00:00,1569452549773873152,UMAprotocol,"Here’s a cool DAO to DAO collaboration between @idlefinance and @LidoFinance that illustrates the plug-and-play potential of the #KPIoptions program by our sister project @0xOutcome.
+
+KPI options are empowered and secured by UMA's #optimisticoracle. https://t.co/GWeaCTTukY",20,3,10,2022-09-12
+1612,2022-09-13 17:29:29+00:00,1569740060257550338,UMAprotocol,"Join our co-founder @hal2001 for a panel on Thurs, Sept. 22 at 3:05PM Eastern: ""Waiting for Volume: When will crypto derivatives catch up to TradFi?""
+
+Find the full conference agenda here: https://t.co/RLW7cyGwi1",10,1,3,2022-09-13
+1615,2022-09-14 16:50:54+00:00,1570092740121341952,UMAprotocol,What the Merge means for users of our sister project @AcrossProtocol. Check out this thread for some helpful info. https://t.co/8GO1TA5w3E,23,1,5,2022-09-14
+1618,2022-09-15 14:04:34+00:00,1570413268807847936,UMAprotocol,"This Twitter Spaces with @blockchaingirls and UMA is now live!
+
+Join now from mobile to hear UMA's @McalpineMhairi discuss the role that advanced oracles are playing in web3 w/ @PeiChen01 and Ben Carvill of @API3DAO.
+
+https://t.co/A20wxD9vGl",16,2,7,2022-09-15
+1621,2022-09-16 18:41:11+00:00,1570845269897678853,UMAprotocol,"2/2 And learn more about a new DAO-to-DAO collaboration between Idle and @LidoFinance that showcases a great use of KPI options, which are empowered and secured by UMA's optimistic oracle. 
+
+https://t.co/0O8Ktvx9gN",13,1,4,2022-09-16
+1626,2022-09-19 19:47:33+00:00,1571949134210568194,UMAprotocol,"We endorse this message 👇 
+
+Please spread the word and make time &amp; space to join us Wednesday. https://t.co/QiQ8ZrV1xg",21,4,8,2022-09-19
+1631,2022-09-20 16:37:29+00:00,1572263690623397888,UMAprotocol,"3/3 Explore that topic and others at Mainnet 2022 by @MessariCrypto w/ UMA's @hal2001.
+
+He joins a panel Thurs. Sept. 22 at 3:05PM Eastern focused on 'Waiting for Volume: When will crypto derivatives catch up to TradFi?'
+
+Here's the full schedule
+https://t.co/RLW7cyGwi1",8,2,2,2022-09-20
+1635,2022-09-21 20:33:22+00:00,1572685438384738305,UMAprotocol,"1/2 Did you know that quite a few of our good people at UMA come from Canada? 🇨🇦
+
+It's true, and some of these folks are attending an event in Vancouver this Thursday evening hosted by @hackhubio",24,5,10,2022-09-21
+1637,2022-09-22 16:33:34+00:00,1572987478054932480,UMAprotocol,"If you are an $UMA token holder and you’ve never voted, why not?",15,4,4,2022-09-22
+1640,2022-09-23 21:54:00+00:00,1573430508070965248,UMAprotocol,"2/4 Economic incentives for voters are indeed central to how UMA and our optimistic oracle (OO) functions.
+
+The $UMA token provides economic guarantees to protocols using UMA’s OO — a human powered truth protocol.",5,1,2,2022-09-23

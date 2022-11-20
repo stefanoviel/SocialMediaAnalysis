@@ -1,0 +1,801 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2021-05-17 08:49:31+00:00,1394213479054155781,StarcoinSTC,"🌟Starcoin released v1.0.0-rc, the mainnet will be launched at the height of 310000 in the Barnard network, and the global users can launch Starcoin mainnet together. https://t.co/f5aIzvWRDx",0,0,0,2021-05-17
+2,2021-05-18 10:23:33+00:00,1394599532281745418,StarcoinSTC,I just published Starcoin Mainnet Launch https://t.co/eQFQCVVEFM https://t.co/9QsCLRauMj,6,5,1,2021-05-18
+3,2021-07-14 04:31:43+00:00,1415167100256100353,StarcoinSTC,Starcoin Weekly Report【 7.5–7.11】 https://t.co/qutBguoceG,1,0,0,2021-07-14
+4,2021-07-21 08:27:36+00:00,1417763173759737859,StarcoinSTC,Starcoin Weekly Report【 7.12–7.18】 https://t.co/MPRUWBpel9 https://t.co/sf6KZDK4yt,0,0,0,2021-07-21
+5,2021-07-27 09:57:01+00:00,1419960006242226178,StarcoinSTC,I just published Star Coin Weekly【 7.19-7.25】 https://t.co/TDouvha0y5,1,2,0,2021-07-27
+6,2021-08-03 09:43:44+00:00,1422493377149300741,StarcoinSTC,I just published Starcoin Weekly【 7.19-7.25】 https://t.co/dDgnssUQob,0,0,0,2021-08-03
+8,2021-08-06 09:57:05+00:00,1423583900232650753,StarcoinSTC,"⁣⁣Starmask-extension v1.9.0 released.
+⁣
+⁣⁣https://t.co/lcUY4U9h4k ",1,0,0,2021-08-06
+9,2021-08-10 08:31:50+00:00,1425011999285465088,StarcoinSTC,Starcoin Weekly【 8.02–8.08】 https://t.co/Kl29vWHVPf,1,0,1,2021-08-10
+10,2021-08-13 09:58:06+00:00,1426120869873471498,StarcoinSTC,"From TXs from the StcScan (Starcoin explorer), we can see some essential token assets are on the road. https://t.co/piyrARVUGl",3,0,1,2021-08-13
+11,2021-08-17 10:01:22+00:00,1427571244237393923,StarcoinSTC,"❤️Starmask-extension  v1.9.5 released😍
+- New features:
+1. Enable system notifications for transaction CONFIRMED and FAILED
+2. Update docs about how to enable system notifications on Mac.
+3. Display contract.dry_run_raw error in transaction confirm page
+
+https://t.co/yEWVBgKojC",1,0,0,2021-08-17
+21,2021-08-20 12:39:11+00:00,1428698126173437953,StarcoinSTC,First Starcoin Move Online Hackathon Winners Announced https://t.co/rZvQFuBuWg,0,0,0,2021-08-20
+22,2021-08-23 08:49:27+00:00,1429727474053652484,StarcoinSTC,#AMA with Tim (Head of @StarcoinSTC Asia) this week https://t.co/ztg6dRzByt,8,0,13,2021-08-23
+24,2021-08-24 03:33:41+00:00,1430010396618887178,StarcoinSTC,Starcoin Weekly【 8.16–8.22】 https://t.co/92kKCnMI5r,1,0,2,2021-08-24
+26,2021-08-26 02:17:52+00:00,1430716093572685828,StarcoinSTC,"Glodshell STC-BOX Upboxing,is a new POW miner. https://t.co/wFS3iFJvEN via @YouTube",14,2,6,2021-08-26
+30,2021-08-27 02:11:49+00:00,1431076958419390466,StarcoinSTC,"4/ Because Move bytecode can be verified, the cost of verification is paid just once, at the time the module is loaded on-chain... The difference is similar in spirit to the difference between a dynamically-typed language like Python versus a statically-typed language like Java.",2,1,0,2021-08-27
+35,2021-08-31 06:47:22+00:00,1432595852795678720,StarcoinSTC,"There are some other tokens on StcScan explorer, can't wait to deposit 🚀 https://t.co/eAmTRjIlLs",4,0,0,2021-08-31
+38,2021-09-03 10:31:57+00:00,1433739534085148673,StarcoinSTC,"The Starcoin on-chain governance vote (Vote ID:4) has passed, indicating that Starcoin fully supports the NFT ecosystem and deploying NFT-related contracts on the chain.
+https://t.co/hfz5Ysm99x",6,3,2,2021-09-03
+41,2021-09-07 14:28:22+00:00,1435248584711020563,StarcoinSTC,"From the proposal page, the sponsor is Facebook, and  there is also a detailed design document https://t.co/FmS5ptnw75",0,0,0,2021-09-07
+46,2021-09-08 10:27:23+00:00,1435550324123582470,StarcoinSTC,@BixinWallet $stc,1,0,0,2021-09-08
+48,2021-09-09 10:30:35+00:00,1435913518130237446,StarcoinSTC,"New Starcoin on-chain governance vote.
+
+Proposal: Move Standard Library Upgrade to Version V7 contains the following features: implement yield farming module, enhance NFT module, and more.
+
+Please install StarMask from the Chrome store before participate.
+https://t.co/cSgj3IUoNT",3,0,1,2021-09-09
+49,2021-09-11 12:02:20+00:00,1436661384318574602,StarcoinSTC,"Cyber Rare had already launched on time, but the new NFT items still need some time to publish. https://t.co/NsUAdVIl1s",1,1,0,2021-09-11
+56,2021-09-14 09:43:29+00:00,1437713606972297220,StarcoinSTC,"Good news for the Starcoin dApp ecosystem.
+
+Some developers choose to use an IDE to improve productivity. The latest Starcoin IDE v0.5.0 supports syntax highlighting,  edit, test, publish and run in the same environment. https://t.co/FPwb5Ex28P",4,2,3,2021-09-14
+57,2021-09-22 23:43:23+00:00,1440824073789919233,StarcoinSTC,I just published Starcoin Weekly【 9.13–9.19】 https://t.co/qqjVJ0X2eI,6,0,3,2021-09-22
+58,2021-09-27 08:46:32+00:00,1442410314562039813,StarcoinSTC,"Starcoin海外社区讨论群，欢迎加入
+
+Starcoin中文TG群
+https://t.co/T2K6uiyXFA
+
+Starcoin中文Discord
+https://t.co/zoabuFN2JG",3,1,2,2021-09-27
+59,2021-09-29 08:32:57+00:00,1443131672329818112,StarcoinSTC,"Participate in the on-chain config upgrade poll to get $STC airdrop!
+
+ID6: Upgrade the on-chain configuration of Move bytecode version to v3
+
+https://t.co/NnmPZtZ92T",8,0,5,2021-09-29
+60,2021-09-30 08:58:01+00:00,1443500370517319682,StarcoinSTC,"#STC Airdrop Campaign
+
+Task sheet:
+Follow @StarcoinSTC
+
+Join https://t.co/wtqR2AALVd
+
+RT and Like this Tweet
+
+Click on the link to get airdrop rewards：https://t.co/d0JNHOSxmT
+
+Tips：
+StarMask Plugin Wallet Download Address：https://t.co/4eQjEjjmBk https://t.co/h9b2sFMyMj",58,8,55,2021-09-30
+62,2021-10-08 07:40:45+00:00,1446380028682334210,StarcoinSTC,"Startcoin current airdrop campaign has ended
+
+🍕Among all the Starcoin addresses submitted in compliance with the rules, those with the last digit of 9 will receive 100 STC, and other accounts that meet the requirements will receive 5 STC🥧
+
+#Airdrop #NFTs #Move #STC https://t.co/FAlL1U4hnU",5,2,2,2021-10-08
+64,2021-10-11 09:32:16+00:00,1447495252462346243,StarcoinSTC,I just published Starcoin Weekly【 9.27–10.10】 https://t.co/303GXojw0Q,9,0,1,2021-10-11
+65,2021-10-12 03:48:06+00:00,1447771029753917440,StarcoinSTC,"Move's Resource is born NFT with good security, so Starcoin &amp; Move is a safe and secure meta-universe infrastructure. https://t.co/mub9Ecw4gZ",3,0,1,2021-10-12
+66,2021-10-14 03:51:42+00:00,1448496713610653696,StarcoinSTC,Detailed description of Starcoin's Stdlib upgrade process and in-depth introduction to Starcoin's DAO https://t.co/OvqVEkwIvd,9,1,2,2021-10-14
+67,2021-10-15 06:33:42+00:00,1448899869553291264,StarcoinSTC,"With the three main features of the Move language and the commonly used contract mods to work with, NFT protocols can be created very easily and we can write NFT protocols in an incremental manner. https://t.co/NWSDHrlTgT",7,1,0,2021-10-15
+69,2021-10-20 02:52:11+00:00,1450656061174652931,StarcoinSTC,"Starcoin is currently the only public chain that perfectly implements ""code is law"".
+Starcoin provides complete DAO on-chain governance, which ensures that contracts can be upgraded through the combination of DAO and contract upgrades https://t.co/i6T8PhaSLn",4,1,3,2021-10-20
+70,2021-10-28 07:41:28+00:00,1453627965275729923,StarcoinSTC,"Starcoin's Oracle has a wide range of application scenarios, such as real-time prices, contest results, games, insurance claims, complex off-chain calculation results, etc., including valuable data for any scenario. https://t.co/NVLOouO9m6",7,0,2,2021-10-28
+71,2021-10-29 03:44:07+00:00,1453930619239493638,StarcoinSTC,"🍕Airdrop 2🍕: Promote Starcoin on Twitter, one person will be rewarded 1000 STC per week (No time limit)
+🎯Require at least 500 followers
+🎯Tweets cannot be deleted
+🎯Tag @StarcoinSTC
+Upload screenshot and fill in StarMask address to receive airdrop at：https://t.co/8qwZH6yDgn",5,2,5,2021-10-29
+74,2021-11-04 04:45:58+00:00,1456120511654596611,StarcoinSTC,"Oracle's technology is not simple, Starcoin's Oracle is already online on the main website
+https://t.co/6GWq1iADwi via @YouTube",15,2,7,2021-11-04
+75,2021-11-08 08:28:58+00:00,1457626185500741632,StarcoinSTC,Starcoin Project Report [11. 01–11. 07] https://t.co/Ko9r9kFk34,12,0,1,2021-11-08
+76,2021-11-15 08:41:45+00:00,1460166115921858563,StarcoinSTC,Starcoin Weekly Report [11. 07–11. 14] https://t.co/SBp7si0OrB,4,0,1,2021-11-15
+77,2021-11-22 07:58:13+00:00,1462691876398456839,StarcoinSTC,Starcoin Weekly Report [11. 15–11. 21] https://t.co/MbEDkS4iZN,2,0,1,2021-11-22
+78,2021-11-24 13:56:51+00:00,1463506905670684674,StarcoinSTC,"Happy Thanks Giving!!🦃
+We thank all the community, you are all wonderful.
+
+The exciting time has come!
+📢Follow @StarcoinSTC and @dxpoolOfficial
+📢Like and retweet this post with #Starcoin #DxPool
+
+Win the lucky prize $STC miner ST-BOX
+1 random winner will be chosen in 48 hours! https://t.co/AQcw8WVStw",374,122,255,2021-11-24
+79,2021-11-25 12:05:03+00:00,1463841155938865152,StarcoinSTC,https://t.co/dPXHnGiWbT,5,1,1,2021-11-25
+81,2021-11-26 04:10:31+00:00,1464084126932213765,StarcoinSTC,#Airdrop  #Giveaway  #DeFi https://t.co/T6fLGKgPf7,12,0,5,2021-11-26
+84,2021-11-29 17:23:17+00:00,1465370794574303233,StarcoinSTC,@Zhiyuan166 家人，充值信仰，稳住,0,0,0,2021-11-29
+94,2021-11-30 06:32:07+00:00,1465569313524383744,StarcoinSTC,"@zanyfly @alexygh Come on, next time there are airdrops",1,0,0,2021-11-30
+97,2021-12-01 07:19:35+00:00,1465943646625169412,StarcoinSTC,"Thanks for the invitation.
+Topic: The Development of Ownership Economy in Web 3.0
+Six guests are invited to discuss, and those who are interested can follow them.
+@jolestar @wepiggydotcom @ParamiProtocol
+ @realMaskNetwork @UniPassID @realDASystems  
+Join us!!! https://t.co/oSt7TRDcA4",11,1,4,2021-12-01
+99,2021-12-02 05:49:06+00:00,1466283259801735171,StarcoinSTC,"Starcoin mainly tries to explore the combination of layer1 and layer2. We think the Web3.0 DApp will be born from the combination of blockchain layer2 and p2p network in the future.
+@jolestar @blocklikecom @wepiggydotcom @ParamiProtocol @realMaskNetwork @UniPassID @realDASystems https://t.co/oSt7TRDcA4 https://t.co/BcgHi2kLhp",10,1,2,2021-12-02
+101,2021-12-06 03:30:15+00:00,1467697868509433860,StarcoinSTC,"@hodlGARP Yes, you're right.",0,0,0,2021-12-06
+108,2021-12-07 01:26:05+00:00,1468029011180007425,StarcoinSTC,"📢Airdrop will be opened soon.#Airdrop #NFT #Giveaway #DeFi 
+
+📢join us!!! https://t.co/WHV6UTg73S",8,5,2,2021-12-07
+110,2021-12-08 06:44:09+00:00,1468471442564337667,StarcoinSTC,"Congratulations to the 5 people who won the KIKO squid game NFT.
+@andyxuarez
+@bh_marketing_bh
+@ojomolehbos
+@hodlGARP
+@Crypt0Keeper  
+Congratulations.!!!There are many airdrops in the Starcoin community, join us! https://t.co/WHV6UTg73S",17,5,1,2021-12-08
+111,2021-12-14 06:47:28+00:00,1470646604525096960,StarcoinSTC,"Starcoin weekly update, progress on L2 and more
+https://t.co/on8ZJfNmmQ",11,0,3,2021-12-14
+112,2021-12-15 10:02:01+00:00,1471057952832299015,StarcoinSTC,"📢 Starcoin v1.9.0-rc.2 release, please update Barnard test network nodes to the latest version. The Barnard test network will be upgraded to stdlibv10 this afternoon, and the nodes will be hard forked if they are not updated. https://t.co/yxR743GUzL",9,1,1,2021-12-15
+113,2021-12-16 15:34:53+00:00,1471504108410474515,StarcoinSTC,"@ISgarbura Hello, mining machine problem, please consult Goldshell",0,0,0,2021-12-16
+122,2021-12-17 15:58:39+00:00,1471872479547191297,StarcoinSTC,@yazzyl https://t.co/e5Z3V8RhXm,0,0,0,2021-12-17
+126,2021-12-18 01:46:20+00:00,1472020371545423875,StarcoinSTC,@Earth2robbie @goldshellminer @dxpoolOfficial star mask,2,0,0,2021-12-18
+130,2021-12-19 07:56:15+00:00,1472475854047490049,StarcoinSTC,"@theminingdon @AltCoinGoMoon I'm aware of the problem. Thank you for your feedback. I will improve the content, so that more people really understand STC",1,1,0,2021-12-19
+131,2021-12-20 09:41:51+00:00,1472864814842388481,StarcoinSTC,@8hJ72QcwZFT3JTW Yes.Starcoin,0,0,0,2021-12-20
+135,2021-12-21 08:13:07+00:00,1473204872376090625,StarcoinSTC,"Starcoin weekly update[12.13-12.19]
+https://t.co/4PQTIKoek4",14,4,46,2021-12-21
+136,2021-12-22 09:13:53+00:00,1473582553089019904,StarcoinSTC,"🔔Looking forward to Starswap coming soon!!!🔔
+
+Starswap is a general purpose DEX on Starcoin. 
+Trade at fast speeds and low fees.
+
+Follow and support @Starswap_EN https://t.co/21NKUtiXIB",21,0,44,2021-12-22
+137,2021-12-23 03:14:58+00:00,1473854616437608449,StarcoinSTC,Starcoin Express News 「2021.12.23 」 https://t.co/YbZrlgU9kV,7,0,0,2021-12-23
+145,2021-12-24 03:53:52+00:00,1474226794714701830,StarcoinSTC,👇👇👇 https://t.co/XO6tW3Oe5U,4,0,0,2021-12-24
+152,2021-12-25 12:21:44+00:00,1474716993290846213,StarcoinSTC,"🎅 Merry Christmas Giveaway 🎅
+
+Complete the following 👇👇👇
+➡️ Follow @StarcoinSTC  @StarcoinZH 
+➡️ RT this twitter
+➡️ Fill out the form (your StarMask address)：
+https://t.co/QYYipb67hh
+
+💰 $1500 worth of $STC random airdrop for each participant💰 https://t.co/FCGo1clSVp",191,29,221,2021-12-25
+155,2021-12-27 17:29:42+00:00,1475519271807885313,StarcoinSTC,@jimmyispromo @_ThaNerd_ @AsicMarketplace 👍,0,1,0,2021-12-27
+161,2021-12-28 12:25:07+00:00,1475805006096121856,StarcoinSTC,Reminder: the winners of the previous day will be announced daily. Take the time to join.,4,0,0,2021-12-28
+170,2021-12-29 04:29:06+00:00,1476047603402178570,StarcoinSTC,"Starcoin and Dapp in Action
+
+👇👇👇
+https://t.co/DEnALzIy2m",13,1,2,2021-12-29
+174,2021-12-30 10:21:55+00:00,1476498780602376196,StarcoinSTC,"🔔Yesterday's winners, to be announced later.",5,2,2,2021-12-30
+182,2021-12-31 02:51:09+00:00,1476747728235667456,StarcoinSTC,"「All in Metaverse &amp; DeFi on Starcoin」
+  The Global Hackathon
+
+Prize Pool $30,000 in $STC, @ your friends in the contest. #Hackathon #Starcoin 
+
+🖇 Registration Portal：
+https://t.co/yrRGtivsEy  (En) https://t.co/7lEtkdyd2g",17,2,7,2021-12-31
+185,2022-01-01 04:55:33+00:00,1477141420415021062,StarcoinSTC,"🎉Happy New Year🎉
+
+$STC go to the moon!!!🚀🚀🚀 https://t.co/YRRekraLQB",29,4,8,2022-01-01
+188,2022-01-02 10:50:26+00:00,1477593118191276034,StarcoinSTC,"Yesterday's winners, to be announced later.
+
+Yesterday's winner won $STC",5,2,2,2022-01-02
+191,2022-01-03 10:25:44+00:00,1477949289196232704,StarcoinSTC,"「Day 7」10 days in a row #Airdrop #Giveaway 
+
+Description
+🔳 Airdrop  Random
+🔳 5 random airdrops a day
+
+Complete the following 
+1️⃣Follow @StarcoinSTC @StarcoinZH
+2️⃣RT+#Starcoin #Hackathon 
+3️⃣Click to like ❤️
+
+2022.1.12, airdrop sent https://t.co/3EmxheyHLh",85,23,34,2022-01-03
+193,2022-01-04 12:49:25+00:00,1478347835741380611,StarcoinSTC,"Starcoin Weekly Report [12. 27–01.02]
+
+https://t.co/n9JQlJbVTN",8,0,1,2022-01-04
+196,2022-01-05 05:59:33+00:00,1478607079451488259,StarcoinSTC,Starcoin’s standard NFT protocol https://t.co/ggB8UP1hhn,13,0,5,2022-01-05
+202,2022-01-06 04:08:43+00:00,1478941576151789568,StarcoinSTC,I just published MerkleNFT | Starcoin https://t.co/HryodHHjoE,14,0,4,2022-01-06
+209,2022-01-07 19:28:10+00:00,1479535349206376448,StarcoinSTC,"Airdrop for the last $STC on-chain governance vote is out. Please claim it at https://t.co/CCR7vkZmqQ
+
+Participating in all governance votes on https://t.co/xY5AZ5MZa8 will receive airdrop giveaways. Stay tuned. https://t.co/jtXH6KaZ9y",16,2,2,2022-01-07
+210,2022-01-08 23:14:52+00:00,1479954790184460289,StarcoinSTC,"Day 9, get the Global Hackathon event airdrop list for：
+@gcsgcl
+@iamsullyx
+@The8bitMiner
+@imQybi
+@ChrismanMD 
+Congratulations on winning the ST-Mini Box。",12,3,2,2022-01-08
+212,2022-01-10 02:39:40+00:00,1480368717909225472,StarcoinSTC,I just published Starcoin NFT in action https://t.co/I5gyfwQxm2,16,0,6,2022-01-10
+213,2022-01-11 02:13:41+00:00,1480724565835665410,StarcoinSTC,"Starcoin Weekly Report [01. 03–01. 09]
+
+https://t.co/J07RWsdGEX",10,0,2,2022-01-11
+220,2022-01-12 07:48:08+00:00,1481171118933557248,StarcoinSTC,"Main improvements of Starcoin Move stdlibv10:
+
+1. Increase the ability to interact with ethereum/solidity.  
+
+2. improve performance and reduce gas consumption. 
+
+3. Support U256 type.
+
+👇👇👇
+https://t.co/AZMwJTpkSh",9,1,3,2022-01-12
+221,2022-01-13 07:35:35+00:00,1481530351512338434,StarcoinSTC,"All participants should join the Discord discussion group, where the event will be posted.
+
+Join via the invitation link and follow the diagram to the ""hackthon-stc"" group
+
+Invitation Link：https://t.co/DdsALpi0CR https://t.co/Mi89w3jZww",9,0,1,2022-01-13
+228,2022-01-14 02:53:36+00:00,1481821773960466433,StarcoinSTC,"📣The Global Hackathon airdrop has been distributed. 
+Please follow the steps to claim your drop. 
+Tip: There is a time limit. Complete it as soon as possible. https://t.co/jPaztzRyaI",3,1,1,2022-01-14
+230,2022-01-17 02:27:27+00:00,1482902354794258435,StarcoinSTC,Ten Highlights of Starcoin | Starcoin https://t.co/r5xZJRN4Qx,10,0,3,2022-01-17
+231,2022-01-18 01:33:06+00:00,1483251068205162500,StarcoinSTC,"Starcoin Weekly Report [01.10-01.16]
+Look what we've done this past week!
+https://t.co/91pqL678LH",9,0,2,2022-01-18
+233,2022-01-19 02:33:42+00:00,1483628705545330689,StarcoinSTC,@Yasarkhan187 Please give me the address of your StarMask wallet. The wallet address needs to be activated.,1,1,1,2022-01-19
+234,2022-01-20 06:48:37+00:00,1484055245533880323,StarcoinSTC,@Yasarkhan187 I have arranged for someone to help you get your StarMask wallet address activated. Remind you when it is complete.,1,1,1,2022-01-20
+236,2022-01-21 03:40:48+00:00,1484370366462308355,StarcoinSTC,"I just published Starcoin Ecosystem Upgrade,First Starswap Experience https://t.co/LgxNmqS21Z",16,0,4,2022-01-21
+237,2022-01-24 02:32:51+00:00,1485440432587046912,StarcoinSTC,"I just published Starcoin Track, FAI Guide | Starcoin https://t.co/bW9RjKFtHY",7,0,2,2022-01-24
+242,2022-01-25 04:36:00+00:00,1485833808809426946,StarcoinSTC,I just published Safety-conscious Design Concept | Starcoin https://t.co/8SZd87LREr,8,0,3,2022-01-25
+245,2022-01-27 00:52:39+00:00,1486502377322647557,StarcoinSTC,"Congrats to @Jessica, @Franko, @Cereal Marshmallows, the three lucky questioners who got their $STC airdrop in this week’s text AMA on Telegram.
+
+Today at 8pm Singapore time, the Starcoin Chinese community will have a Chinese live broadcast on DC https://t.co/fqBG5dVQB6",11,2,1,2022-01-27
+247,2022-01-28 04:02:06+00:00,1486912443070570501,StarcoinSTC,I just published The Collision of Starcoin and the DAO | Starcoin https://t.co/VFv3Dwg24W,8,0,2,2022-01-28
+249,2022-01-31 02:06:24+00:00,1487970491163840512,StarcoinSTC,Starcoin Weekly Report [01. 24–01. 30] https://t.co/VMev6DvIGg,2,0,1,2022-01-31
+252,2022-02-01 06:07:30+00:00,1488393551998119941,StarcoinSTC,I just published Move and Solidity Full Range Features Comparison | Starcoin https://t.co/wh53sdEHzJ,8,0,3,2022-02-01
+253,2022-02-04 05:40:04+00:00,1489473811087036423,StarcoinSTC,"Participate in the Starswap Testnet for a chance to earn rewards.
+Join Starswap and participate in the TestNet Rewards program. https://t.co/Wc8j53So7w",4,0,2,2022-02-04
+256,2022-02-06 14:15:18+00:00,1490328251784663042,StarcoinSTC,"Starswap is now launching a bug bounty program. 
+Total prize pool worth $10,000 for $STAR.
+
+#Starcoin #StarcoinSTC $STC $STAR https://t.co/hpln3YApT4",15,0,7,2022-02-06
+257,2022-02-07 02:10:38+00:00,1490508268917067776,StarcoinSTC,"The Global Hackathon is nearing its end
+
+We will collect projects that have completed development
+
+You need to submit a repository address and a demo video
+
+The collection will last until February 14
+https://t.co/eZz4K39QCE 
+
+#Hackathon #Starcoin #STC https://t.co/antgnNmOPg",12,1,3,2022-02-07
+259,2022-02-09 05:43:54+00:00,1491286717655285761,StarcoinSTC,I just published What is Starcoin? https://t.co/ZBvWXfFXM0,10,1,6,2022-02-09
+263,2022-02-10 05:29:05+00:00,1491645376033538048,StarcoinSTC,"Starcoin project update AMA on Feb 1 .
+
+Guest:@timyangnet 
+
+We discussed several topics with our guests.
+Come see what interesting things we talked about !
+https://t.co/sOKeEgubaB",8,0,3,2022-02-10
+266,2022-02-14 02:20:03+00:00,1493047354060001281,StarcoinSTC,"🎉Good news! No Activation in any exchanges!!
+
+$STC withdrawal from CoinEx also no longer needs to activate new addresses in advance. Instead, CoinEx users can withdraw their $STC directly to any valid StarMask address, whether to a new or re-used address.
+#Starcoin #StarcoinSTC https://t.co/LQg2cL8Ttn",15,1,3,2022-02-14
+269,2022-02-15 08:33:52+00:00,1493503816213626882,StarcoinSTC,@ludalaix @BoredElizabeth @cyberraresgp @timyangnet @jolestar @EvaCatttt His type is funny.😊😊😊,0,1,0,2022-02-15
+275,2022-02-17 01:59:53+00:00,1494129441295192071,StarcoinSTC,👍👍👍 https://t.co/gKGObyVEVe,12,0,2,2022-02-17
+276,2022-02-18 01:47:49+00:00,1494488792513736705,StarcoinSTC,I just published Important Features of Move | Starcoin https://t.co/m2XMKFrMCw,7,0,3,2022-02-18
+277,2022-02-19 03:59:17+00:00,1494884266983182336,StarcoinSTC,"@menininha9393 Unfortunately, this feature is not available right now but will add to our to-do feature list.",1,1,0,2022-02-19
+283,2022-02-21 02:07:33+00:00,1495580922506526722,StarcoinSTC,"@coinbureau and mathematically prove the program security, so as to ensure the security and freedom of users' on-chain property as much as possible.",10,1,1,2022-02-21
+286,2022-02-22 02:16:26+00:00,1495945546703708160,StarcoinSTC,I just published Starcoin’s Advantages | Starcoin https://t.co/zaialG5qIy,6,1,3,2022-02-22
+290,2022-02-24 03:22:50+00:00,1496687033108267009,StarcoinSTC,"The Starcoin community encourages users to create eco-projects. Grant support is given.
+To participate in the Grant campaign, you can contact the Starcoin operations team by email.
+
+➡️Starcoin Operation Team:bd.starcoin@gmail.com 
+➡️Starcoin Grant Web:https://t.co/0q6VbkqYqH https://t.co/2KyNATZsab",3,1,0,2022-02-24
+292,2022-02-25 06:41:00+00:00,1497099291558498305,StarcoinSTC,Explore the Web3 Ecological Infrastructure Based on Starcoin : Decentralized Domain Name System https://t.co/PuznUJkLQf,9,0,1,2022-02-25
+293,2022-02-26 01:26:48+00:00,1497382608636112896,StarcoinSTC,"📣Notice:The new poll is open
+1.Title:The proposal proposes to upgrade starcoin stdlib to v11.
+
+2.Poll:👇👇👇
+https://t.co/PsJ5ZwubnH
+
+3.End Time:2022/3/5 9:19:10 am GMT+0800",11,0,4,2022-02-26
+294,2022-02-28 07:01:01+00:00,1498191492657020929,StarcoinSTC,"🗓️Starcoin Weekly Report [02. 21–02. 27] 
+👏Starcoin Move Framework ...
+🖥️Stop relying on Diem repository ...
+🎉It is getting better and better ...
+https://t.co/A3ofydUNNK",3,0,1,2022-02-28
+295,2022-03-01 06:47:52+00:00,1498550569140887555,StarcoinSTC,"The Starswap IDO is beginning to open at 3/2 10:30am on KGStarter.
+
+Starswap IDO Link:https://t.co/p0fDiT05PB
+
+Join Starswap!!! https://t.co/7OT1F6jU9g",4,0,0,2022-03-01
+298,2022-03-02 03:48:13+00:00,1498867747786477568,StarcoinSTC,"Congratulations to Starswap on their first IDO, which exceeded 1,000,000STC in 10 minutes.
+
+#Starcoin #Starswap $STC #STAR #DEX #IDO https://t.co/3NvTDvxfqn",7,0,3,2022-03-02
+300,2022-03-03 04:16:09+00:00,1499237167050420226,StarcoinSTC,I just published The Latest and Practical guide on Starswap | Starcoin https://t.co/6cwdDhbr8Y,5,0,2,2022-03-03
+301,2022-03-05 01:12:54+00:00,1499915826765643777,StarcoinSTC,"Currently, the Farm offers two liquidity pools: 
+ 
+✅Stake $STC-FAI ，Earn $STAR 
+✅Stake $STC-STAR ，Earn $STAR 
+
+Starswap provides the single-token mining that get the benefits of rewards by staking Star Tokens.
+
+✅Stake $STAR ，Earn  $STAR https://t.co/qfapbZIjpp",6,0,2,2022-03-05
+302,2022-03-07 01:15:47+00:00,1500641327536828417,StarcoinSTC,I just published First Algorithmic Stablecoin FAI Practical Guide in Starcoin and Move Ecosystem https://t.co/A6lvxRlk5n,8,0,2,2022-03-07
+304,2022-03-09 03:07:38+00:00,1501394249710903299,StarcoinSTC,I just published Three Hot DeFi projects on Starcoin! As STC investors you need to know! https://t.co/GckpSxjW9E,6,0,3,2022-03-09
+306,2022-03-10 01:37:04+00:00,1501733848094486528,StarcoinSTC,I just published How Hot Is Starswap Now? https://t.co/AysfsUH4Ue,5,2,3,2022-03-10
+307,2022-03-15 18:05:46+00:00,1503794598967087104,StarcoinSTC,"3/ More DeFi protocols-More Choice, More Possibility!
+
+March
+FAI liquidation API for public
+Wenwen, an algorithm stablecoin project.
+
+April
+Bfly, an algorithmic currency Protocol
+Starswap, more trade pairs, including USDT
+(6/n)",1,1,0,2022-03-15
+316,2022-03-16 03:21:08+00:00,1503934364413227008,StarcoinSTC,"Thrilled to announce a new giveaway with @dxpoolOfficial! 
+
+10 winners will receive a coupon over 3 months for drastically reduced fees for $STC mining! 
+
+1. RT &amp; Follow @dxpoolOfficial @StarcoinSTC
+2. Draw time 3/18 11pm EST
+
+Register
+https://t.co/tnMxzgyUPL
+
+#Airdrop #Giveaway https://t.co/Wo7zSYxM2S",36,17,49,2022-03-16
+318,2022-03-19 11:23:12+00:00,1505142840493441027,StarcoinSTC,I just published Starcoin: First Move-based Web3 Infrastructure https://t.co/IqrUfr9sWE,16,1,6,2022-03-19
+319,2022-03-22 23:51:28+00:00,1506418314314100741,StarcoinSTC,"The future, need with you!
+
+Building a secure and scalable Web3 platform is the common pursuit of the industry. In terms of security, Move is the leader. Let's all look forward to the Move ecology, and we believe both Aptos and Starcoin can benefit from this movement. 14/14",6,0,1,2022-03-22
+333,2022-03-23 03:51:51+00:00,1506478809125580802,StarcoinSTC,"Starcoin Weekly Report [03.14 – 03.20]
+https://t.co/VUfGBO2LXx",5,0,2,2022-03-23
+334,2022-03-24 03:58:38+00:00,1506842903825772547,StarcoinSTC,"I just published Starswap’s Remarkable Debut,The Most Feature-rich Swap in Move Ecosystem https://t.co/IsNqoIsNgy",7,0,5,2022-03-24
+336,2022-03-27 03:44:27+00:00,1507926497943703555,StarcoinSTC,"📢 A recent vulnerability in Google Chrome may affect your assets in wallets such as StarMask, please upgrade your Chrome to the latest version in time (V99.0.4844.84 or above) #StarMask #STC https://t.co/pRrsQpgpl9",17,0,10,2022-03-27
+337,2022-03-28 01:10:44+00:00,1508250199839236097,StarcoinSTC,"👛How To Install StarMask?
+
+👛StarMask is a decentralized browser wallet that can be used to store and manage Starcoin’s on-chain assets. #Starcoin $STC #StarcoinSTC #StarMask
+
+👇New StarMask Download Tutorial：
+https://t.co/RWcmPIhbbI",7,0,1,2022-03-28
+338,2022-03-29 08:56:43+00:00,1508729855751626760,StarcoinSTC,https://t.co/fagI4LPrcs,1,0,1,2022-03-29
+341,2022-03-30 21:14:48+00:00,1509277989086789637,StarcoinSTC,"Starcoin Weekly Report [03.21–03.27]
+https://t.co/39bJg8sAKH",10,1,3,2022-03-30
+342,2022-04-02 01:14:22+00:00,1510063055623061505,StarcoinSTC,"How to use StarMask Wallet for multi-signature accounts and multi-signature transactions?
+
+A demo of the new features of MultiSig Account
+and MultiSig Transaction in StarMask 4.0.
+👇👇👇
+
+https://t.co/PBKKPjIR50",11,1,4,2022-04-02
+345,2022-04-03 12:30:18+00:00,1510595547719401473,StarcoinSTC,@ReggieLaxamana 🤗,0,0,0,2022-04-03
+346,2022-04-06 08:51:00+00:00,1511627522764869635,StarcoinSTC,"📢 Starcoin Community Call #2
+
+📍Topic:STC Ecosystem + Blockchain Fundamentals, Infrastructure &amp; Mining
+
+🕣Time:April 6, 8:00 pm PST
+
+🗣️Guest:@renryderauthor  @buythedip___ 
+
+💻Live Link:https://t.co/Xki3qS58hD
+
+🗨️Question Desk:https://t.co/VDMjpAi2yK
+
+#Starcoin $STC #DeFi https://t.co/BmLnApIQSB",14,5,10,2022-04-06
+348,2022-04-07 01:32:18+00:00,1511879505392312322,StarcoinSTC,"📢 Starcoin Community Call #2
+📍Topic:STC Ecosystem + Blockchain Fundamentals, Infrastructure &amp; Mining
+🕣Time:April 6, 8:00 pm PST
+🗣️Guest
+@renryderauthor 
+@buythedip___ 
+💻Live Link:https://t.co/Xki3qS58hD
+🗨️Question Desk:https://t.co/VDMjpAi2yK
+
+#Starcoin $STC #DeFi #Airdrop https://t.co/YffPQWO0nd",5,0,3,2022-04-07
+349,2022-04-11 15:26:42+00:00,1513539043283603457,StarcoinSTC,"🚀Starcoin Community Call Launch!🚀
+
+👉Community users are encouraged to actively participate in live events.
+👉Participation in live events will be rewarded with 1000STC per session.
+👉Apply to become a Star Speaker and view the article content.
+
+Read⬇️
+ https://t.co/ZK787kXzvO",7,0,2,2022-04-11
+350,2022-04-12 08:19:58+00:00,1513794037089669120,StarcoinSTC,"The Starcoin community encourages users to create eco-projects. Grant support is given.
+To participate in the Grant campaign, you can contact the Starcoin operations team by email.
+
+➡️Starcoin Operation Team:bd.starcoin@gmail.com 
+➡️Starcoin Grant Web:https://t.co/0q6Vbk8Pcz
+1/4 https://t.co/13l55OQGGI",5,1,3,2022-04-12
+353,2022-04-13 04:12:00+00:00,1514094024830857216,StarcoinSTC,"Starcoin Weekly Report [04.04–04.10]
+https://t.co/41TgVe3PUE",7,0,2,2022-04-13
+355,2022-04-20 04:20:02+00:00,1516632761825521664,StarcoinSTC,"📢 Starcoin Community Call #5
+📍Topic:
+- Starcoin current events
+-Starcoin Node Setup
+🕣Time:April 20th, 8:00 pm PST
+🗣️Guest Twitter ID:
+@renryderauthor 
+@buythedip___ 
+➡️ Language:English
+➡️Live Link:https://t.co/1Fa5iQpAqD
+➡️Question Desk:https://t.co/5pbvAo8bka
+1/2
+#Starcoin https://t.co/RDBEoPYNlR",15,3,10,2022-04-20
+359,2022-04-22 06:16:21+00:00,1517386807130071040,StarcoinSTC,"Starswap whitelist events!!!
+
+#Whitelist #DeFiProject #testnet https://t.co/ZditahQ6hM",0,0,0,2022-04-22
+360,2022-04-23 01:38:46+00:00,1517679340653215744,StarcoinSTC,"Starcoin Community Call Application Tutorial
+👇👇👇
+https://t.co/3bGcKxAZGF",0,0,0,2022-04-23
+362,2022-04-24 01:50:58+00:00,1518044799105785857,StarcoinSTC,"📢 Starcoin Community Call #6
+📍Topic:Fascinating Stablecoin and FAI
+🕣Time:April 23, 8:00 pm PST
+🗣️Guest:Aaron @BflyFinance 
+➡️ Language:English
+➡️Discord Live Link:https://t.co/Xe5FHcCxGn
+💰Live check-in and Q&amp;A session with lots of #Airdrops  rewards $STC $FAI #Starcoin #DeFi https://t.co/v6IJLUJ7dB",10,0,6,2022-04-24
+363,2022-04-29 00:57:23+00:00,1519843255042535424,StarcoinSTC,"Starcoin Weekly Report [04.18–04.24]
+https://t.co/C1uwG1yI2Q",7,0,3,2022-04-29
+364,2022-05-06 04:32:14+00:00,1522434035036827649,StarcoinSTC,"Starcoin Weekly Report [04.25–05.01]
+https://t.co/bId5joDIpS",6,1,3,2022-05-06
+365,2022-05-10 06:47:35+00:00,1523917651772289027,StarcoinSTC,"Starswap Farm has added STC-WEN mobility. The Barnard test network has been started.
+
+Go to the URL(https://t.co/JzvwmeG4Io) and switch Barnard test network in the wallet.
+
+@wenwenprotocol @StarcoinSTC
+ #DeFi #Starcoin #Starswap #WEN $STC $STAR https://t.co/VLe1yVXTJI",2,0,0,2022-05-10
+366,2022-05-11 21:57:07+00:00,1524508929883262976,StarcoinSTC,"Starcoin Weekly Report [05.02–05.08]
+https://t.co/dYWFcE4AFs",5,0,2,2022-05-11
+367,2022-05-13 15:00:50+00:00,1525128942344019969,StarcoinSTC,"📢 Starcoin Community Call #8
+📍Topic:WENWEN Protocol 
+🕣Time:May 16 7:00pm PST
+🗣️Guest: Jessie   @wenwenprotocol 
+➡️ Language:English
+➡️ Discord Live Link:https://t.co/Xe5FHcCxGn
+
+💰Live check-in and Q&amp;A session with lots of #Airdrops  rewards $STC #Starcoin #WENWEN #DeFi https://t.co/EqfKZAi7kL",20,1,11,2022-05-13
+368,2022-05-17 15:04:31+00:00,1526579424136552448,StarcoinSTC,"📢 Starcoin Community Call #9
+📍Topic:
+👉 wen-stc LP farming: Starswap
+👉 BFly $FLY
+👉 Kikoverse K-Avatar OOTD NFT
+👉 Starmask: multisig
+🕣Time:May 19 8:00 pm PST
+🗣️Guest Twitter ID:
+@renryderauthor 
+@buythedip___ 
+➡️ Language:English
+➡️ Discord Live Link:https://t.co/Xe5FHcCxGn https://t.co/T56l17p8gN",22,2,9,2022-05-17
+373,2022-05-18 03:11:12+00:00,1526762297209028608,StarcoinSTC,"🎉Starcoin 1st Anniversary Celebration🎉
+💰Barnard Test Network Airdrop💰
+💎Total Rewards:20,000 STAR 
+💎STC Gas Total Cost:5000 STC
+ (Equal Distribution)
+⏰Time:May 18 3:00 am - May 31 3:00 am UTC
+👇Complete Task👇
+https://t.co/5jYAn2qLvY
+
+#airdrop #Giveaway #Starcoin #testnet https://t.co/jJLxquMFZD",77,12,61,2022-05-18
+375,2022-05-19 05:59:44+00:00,1527167097599500288,StarcoinSTC,"[1/2]💎💎STARCOIN  LUCKY AIRDROP💎💎
+
+🕰Time: 4AM May 19 - 4AM May 27 (UTC)
+
+💰Reward pool: 3,000 STC
+
+🏆Winners
+- 10 RANDOM users will receive 300STC for each
+
+👉To enter:https://t.co/mSwo2tnWjE
+
+There are 2 airdrop events in reply[2/2]
+
+#Airdrops #Giveaway #Gleam #Starcoin $STC https://t.co/uyyEK7Duba",36,7,23,2022-05-19
+379,2022-05-20 00:56:15+00:00,1527453114655121408,StarcoinSTC,"Starcoin Weekly Report [05.09–05.15]
+https://t.co/byeuHcrKCB",23,1,5,2022-05-20
+381,2022-05-23 07:36:18+00:00,1528640951081902081,StarcoinSTC,"We're excited to launch our first Starcoin Ambassador Program - Star Dome! #Starcoin #StarDome
+
+To explore our community for hidden talents by launching the program to gain quality contributions from community members and blockchain enthusiasts! 
+LearnMore:https://t.co/WU52erp6eE https://t.co/0p8vblehaa",36,2,9,2022-05-23
+382,2022-05-24 02:58:18+00:00,1528933379130806278,StarcoinSTC,"Having an industry leading on-chain DAO governance, Starcoin has completed 12 upgrades with the participation of community, including significant features such as Oracle, NFT, etc. 
+
+The DAO enabled Starcoin better meet users requirement and enhance the value of Starcoin. 12/14",6,1,2,2022-05-24
+394,2022-05-25 08:51:02+00:00,1529384533623468032,StarcoinSTC,"💰Barnard Test Network Airdrop💰
+
+🎉Starcoin 1st Anniversary Celebration🎉
+
+💎Total Rewards:20,000 STAR 
+💎STC Gas Total Cost:5000 STC
+ (Equal Distribution)
+
+⏰Time:May 18 3:00 am - May 31 3:00 am UTC
+👇Complete Task👇
+https://t.co/5jYAn2qLvY
+#Airdrops #Giveaway #Starcoin #Gleam https://t.co/1GYY1gIcnD",36,5,23,2022-05-25
+395,2022-05-26 03:12:24+00:00,1529661702131724289,StarcoinSTC,"Starcoin Weekly Report [05.16–05.22]
+https://t.co/aucQr3bfrn",19,0,6,2022-05-26
+397,2022-05-29 19:00:22+00:00,1530987430941425664,StarcoinSTC,Starcoin New Website:https://t.co/zbaiYYFBHl,15,0,7,2022-05-29
+399,2022-05-31 12:40:16+00:00,1531616552294191104,StarcoinSTC,"Starcoin and @Kiko_verse collaborative giveaway for our communities.
+
+🔥200 NFT airdrops with mining capabilities
+💎#Starcoin gas fees:2000 STC (Equal Distribution)​ 
+⏰Time:May 31 8:00 pm-June 8 8:00 pm UTC+8
+🔰Complete gleam:https://t.co/vy9C2L1TD2
+
+#Airdrops  #Giveaway #Gleam https://t.co/jMmBJfvgPD",80,8,33,2022-05-31
+401,2022-06-01 08:00:36+00:00,1531908558358736897,StarcoinSTC,"Starcoin Rebranding:Inspiration from Community.
+
+May was a big month for us. Brand update almost perfectly aligns with our 1st Anniversary celebration.
+
+Starcoin Rebranding Explained👇👇👇
+https://t.co/nsY3KwEFmQ 
+
+#Starcoin #DeFi #Crypto $STC",48,0,10,2022-06-01
+404,2022-06-08 13:16:27+00:00,1534524758112743425,StarcoinSTC,"Starcoin and @Kiko_verse collaborative giveaway for our communities
+ 
+😊Kikoverse NFT:20 NFT blind box airdrops;180 whitelists 
+💎Starcoin gas fees:2000 STC (Equal Distribution)​
+⏰Time:June 8 8pm - June 15 8pm UTC+8
+👉Complete gleam:https://t.co/e8dt0ooQUU
+#Airdrops #NFTGiveaway https://t.co/DtGVQ17E3k",39,9,14,2022-06-08
+405,2022-06-10 23:53:43+00:00,1535409907184177153,StarcoinSTC,"Starcoin Weekly Report [05.30–06.05]
+https://t.co/VaP2Q39ZEK",11,1,4,2022-06-10
+406,2022-06-14 03:13:09+00:00,1536547260397670402,StarcoinSTC,"Starcoin and @Kiko_verse collaborative giveaway for our communities
+ 
+😊KikoverseNFT :20 NFT blind box airdrops;180 whitelists 
+💎Starcoin gas fees:2000 STC (Equal Distribution)​
+⏰Time:June 8 8pm - June 15 8pm UTC+8
+👉Complete gleam:https://t.co/e8dt0ooQUU
+#Airdrops #NFTGiveaway https://t.co/fveBt4xNmg",17,0,7,2022-06-14
+407,2022-06-15 04:16:58+00:00,1536925709029249025,StarcoinSTC,"📢The Long-awaited Starcoin Cross-Chain Bridge Will Go Live This Week! It will enable assets to flow freely between Starcoin and Ethereum.
+
+🎉Welcome to Starcoin!
+👉Starcoin Web:https://t.co/zbaiYYFBHl
+
+#Starcoin #DeFi #blockchains #CrossChain $STC #Ethereum https://t.co/M6eeTx0mSn",27,1,13,2022-06-15
+408,2022-06-17 02:36:44+00:00,1537625259595407361,StarcoinSTC,"🎉Starcoin Cross-Chain Bridge Goes Live!🎉 
+
+💎Starcoin cross-chain, breaking value silos, To empower the meaning of connecting the world!💎@PolyNetwork2 
+
+🚀Welcome to Starcoin!
+👉Starcoin Web:https://t.co/zbaiYYFBHl https://t.co/CV2QaqFbxs",336,5,28,2022-06-17
+413,2022-06-20 10:07:44+00:00,1538825921721139200,StarcoinSTC,"📢Starcoin Community Call #13
+📙Topic
+Poly Network
+     ·Cross-chain bridge: ETH &lt;&gt; STC
+Starcoin brand upgrade
+     ·Litepaper
+Star Dome Program launch
+🕣Time:June 20 8 pm PST
+🗣️Guest:@renryderauthor @buythedip___  
+👉Discord:https://t.co/Xe5FHcUGUv
+🎁AMA Q&amp;A with airdrop rewards https://t.co/Yrt9hIljIp",22,3,13,2022-06-20
+415,2022-06-24 00:49:33+00:00,1540135003115270144,StarcoinSTC,"Starcoin Weekly Report [06.13–06.19]
+https://t.co/sXcy5iSjea",10,0,3,2022-06-24
+416,2022-06-29 13:24:37+00:00,1542136958541266944,StarcoinSTC,"🎉Congratulations on your Starcoin airdrop!
+💎Total Rewards:20,000 STAR 
+💎STC Gas Total Cost:5000 STC(Equal Distribution)
+🕕July 7 at 6:00 am UTC airdrop distribution.
+🔗Claim airdrop: https://t.co/elFggw554h.
+⏰Valid 14 days
+ 
+‼️View Form👇
+https://t.co/FOKg9fXQTr",8,3,6,2022-06-29
+418,2022-07-02 19:32:16+00:00,1543316646864908289,StarcoinSTC,"Starcoin Weekly Report [06.20–06.26]
+https://t.co/GPo8N2atsh",4,0,4,2022-07-02
+419,2022-07-06 03:02:40+00:00,1544517158310330368,StarcoinSTC,"Коротко о том, как работает кроссчейн мост Starcoin и его ключевые преимущества. @Stanisl86863011 
+
+https://t.co/qxe090tUJF",4,0,2,2022-07-06
+420,2022-07-07 07:55:46+00:00,1544953306568568832,StarcoinSTC,"📢Note: Recently there are fake websites that imitate Starcoin. users are asked not to install the app in the picture.
+
+Starcoin(STC) Exchange
+1. https://t.co/RMLAkugByc: https://t.co/I2dv54WdKR
+2.CoinEX: https://t.co/sADIoY0gr1
+
+StarMask Wallet Download:
+https://t.co/IRBjGnBw3Q https://t.co/XP8Co526di",19,6,6,2022-07-07
+421,2022-07-08 15:38:33+00:00,1545432154876026880,StarcoinSTC,"StarMask V4.6.0: Display the token changes that caused by a transaction from any DApps
+
+👇Read Article👇
+https://t.co/8oT9zn7Bzu",16,2,8,2022-07-08
+423,2022-07-12 02:31:48+00:00,1546683715689992193,StarcoinSTC,"StarMask V4.6.0: Отображение изменений токенов, вызванных транзакцией из любого DApps.@Stanisl86863011 
+
+👇👇👇
+https://t.co/XuVplVynYM",10,2,3,2022-07-12
+425,2022-07-14 11:20:24+00:00,1547541517992165380,StarcoinSTC,"[1/3]🎉Congratulations on winning @Kiko_verse  NFT!
+
+🤖You will get Kiko The Magic World NFT - Magic Mirror!
+
+😺If you participated in the event and did not receive NFT, please twitter dm admin your StarMask wallet address.
+
+👇Check List👇View Tutorial👇
+https://t.co/n1eIeQw5Kq",3,1,1,2022-07-14
+429,2022-07-15 01:31:58+00:00,1547755823329210368,StarcoinSTC,"Starcoin Weekly Report [07.04–07.10]
+https://t.co/tSZTqb0Ai5",17,5,7,2022-07-15
+430,2022-07-18 02:37:52+00:00,1548859569933533184,StarcoinSTC,"[1/2]Starcoin and BitStack collaborative giveaway for our communities.
+
+🔥 5 million daily request limit free trail
+🚨 Try BitStack API Hub endpoint:
+https://t.co/TpCvLdvXGF 🚨
+
+Or Step 1.Sign in on https://t.co/jiuHjiUO9P
+     Step 2.Create your Starcoin App
+
+#Starcoin #BitStack https://t.co/CbTIgQzjVh",25,11,11,2022-07-18
+432,2022-07-21 06:24:40+00:00,1550003809140715520,StarcoinSTC,"📢STARCOIN: Design Intent of DAOSpace
+
+🤖#Starcoin is to launch an integration product #DAOSpace in August. A platform for decentralized autonomous organizations that provide services for human interests.
+
+👇Read to learn more about DAOspace👇
+https://t.co/FedxEEJdsL 
+
+#DAO $STC",18,5,6,2022-07-21
+435,2022-07-22 12:57:32+00:00,1550465065291513858,StarcoinSTC,"如果Move是下一个风口，你准备了什么？
+
+别错过Starcoin AMA Live
+中国北京时间7月23日14:00 
+来Twitter Space 和主持人 @timyangnet 聊聊在Move生态布局Web3的项目的增值看点。
+
+#Move #Starcoin #Web3 #Space #CryptoNews 
+
+👇直播链接👇
+https://t.co/aXacA8lBtz https://t.co/SHsrgDjaD0",20,2,12,2022-07-22
+440,2022-07-23 03:06:27+00:00,1550678703377506305,StarcoinSTC,"💎Want To Win 1,000 STC #token ?💰
+
+1⃣FOLLOW @StarcoinSTC &amp; @timyangnet 
+
+2⃣RT+TAG 3
+
+3⃣10 Winners Were Randomly Selected To Each Receives 100 STC
+
+4⃣BE IN THE #space BELOW👇👇👇
+https://t.co/aXacA8CEvz 
+
+#Airdrop #Giveaway #MOVE #Starcoin #Web3 #AMA",95,92,82,2022-07-23
+445,2022-07-25 02:49:44+00:00,1551399272201191424,StarcoinSTC,@mantianyu_ 您好，请私信Starcoin。您的私信关闭了。,0,0,0,2022-07-25
+448,2022-07-26 03:07:55+00:00,1551766233451986946,StarcoinSTC,"[2/2]
+1⃣StarMask Wallet Download Link:https://t.co/4eQjEjBvPs
+2⃣After 48h, please claim airdrop at this link:https://t.co/6awlfkxKnl
+3⃣Airdrop is valid for 14 days, pick it up as soon as possible. No replacement after expiration
+4⃣Other wallet and exchange address, not available",6,2,2,2022-07-26
+450,2022-07-27 02:59:19+00:00,1552126458373767168,StarcoinSTC,"1⃣Starswap STC/STAR Farm Multiplier 50x
+2⃣Starswap STC/XUSDT APR 98.74% 
+     Boost APR 98.74% ~ 246.86%
+     Multiplier 10x
+3⃣Starswap Web:https://t.co/A2V7P6db6I https://t.co/7qtbphvbrL",11,2,6,2022-07-27
+453,2022-07-28 12:28:25+00:00,1552632064037748736,StarcoinSTC,https://t.co/WjYSKnaksC,7,1,2,2022-07-28
+464,2022-07-30 03:20:27+00:00,1553218941958647808,StarcoinSTC,"💰Want To Win 1,500 STC? #Airdrop #Giveaway #Airdrops 
+
+🔴FOLLOW @StarcoinSTC &amp; @timyangnet @jolestar &amp; @yangjiefeng 
+
+🔵RT+TAG 3
+
+🟢15 Winners Were Randomly Selected To Each Receives 100 STC
+
+🟠BE IN THE #space BELOW⬇️⬇️⬇️
+https://t.co/gleTqW60RU",60,42,39,2022-07-30
+473,2022-08-01 02:21:53+00:00,1553928977395634178,StarcoinSTC,"[3/3]
+4.The reward amount is random, ranging from 10 STC to 100 STC.
+
+The random range of the rewards will be adjusted according to the fluctuation of the gas fee of the Ethereum network without further notice.",11,0,4,2022-08-01
+476,2022-08-02 09:58:28+00:00,1554406268801994752,StarcoinSTC,"[1/2]🎉Congratulations!
+Please send a private message to Starcoin Twitter with your StarMask wallet address. Please reply within 48 hours.
+@Mad_Winner @BignblackP @tobi_emiola @dikun89 @Succex14 @Miningreceh @sunshevy @tanvirta12 @annu10162564792 @jing_bar",14,14,3,2022-08-02
+478,2022-08-04 02:34:44+00:00,1555019374440124416,StarcoinSTC,"📢Starcoin Dapps Are Going Live With OneKey APP.
+
+🚀Using Starcoin Dapps in the @OneKeyHQ  APP is easier and faster.
+
+❤️You can check your StarMask wallet account in the OneKey APP, you can operate Starswap liquidity mining on your mobile phone, etc.
+
+#Starcoin #OneKey #DApp $STC https://t.co/p6aO6eWqhL",31,9,16,2022-08-04
+482,2022-08-05 02:25:48+00:00,1555379516729880576,StarcoinSTC,"Mobile Friendly! We can use any Starcoin ecosystem apps directly at #OneKey APP. 
+
+We are thrilled to announce that Starcoin, the first Move public chain, is now fully supported on @OneKeyHQ  wallet APP 
+
+Search us now at #OneKey wallet APP🚀🚀 https://t.co/bVGzbutM6i",34,9,16,2022-08-05
+488,2022-08-06 13:35:12+00:00,1555910361051643904,StarcoinSTC,"Retweet the live link with 3 tags: #Move #Web3 #Starcoin , and 10 winners will be randomly selected from the retweets to receive 50 STC airdrop each.",17,3,9,2022-08-06
+494,2022-08-09 02:11:08+00:00,1556825373891231744,StarcoinSTC,"Starcoin and OneKey can protect your assets in both bull and bear markets
+
+#Giveaway 3 #OneKey Mini hardware wallets
+
+1.Follow us @StarcoinSTC @OneKeyHQ 
+
+2.Join #Starcoin Discord Server:
+https://t.co/Xe5FHcUGUv
+
+3.RT, Like❤️, and Tag 3 friends in reply
+
+4.Ends in 72hrs
+#Airdrops https://t.co/7mxtepCbUl",103,72,72,2022-08-09
+496,2022-08-10 14:13:42+00:00,1557369604892069889,StarcoinSTC,"Twitter Space AMA 
+
+Topic:An Starswap STAR Buyback AMA
+Language:Chinese
+Time: August 11th 9pm UTC+8
+
+@StarswapEN #Crypto #Starswap #Starcoin #DefiChain 
+
+About discussion on Starswap STAR buyback strategy:
+https://t.co/pK6gOm6IaP
+
+https://t.co/wsIV0m0l1C",21,7,8,2022-08-10
+499,2022-08-11 12:56:20+00:00,1557712522366427138,StarcoinSTC,https://t.co/wsIV0m0l1C,35,19,26,2022-08-11
+508,2022-08-12 05:56:48+00:00,1557969328854614022,StarcoinSTC,"Web3 圆桌 Talk：聊聊 Move 生态项目的白皮书
+
+嘉宾：@timyangnet &amp; @jolestar 
+
+#Move #Web3 #Space #AMA #Crypto #DeFi #Starcoin
+https://t.co/XGQAek3P1c",26,3,16,2022-08-12
+511,2022-08-13 13:24:06+00:00,1558444282972803072,StarcoinSTC,加入我的空间！ https://t.co/XGQAek3P1c,12,4,8,2022-08-13
+512,2022-08-14 00:27:57+00:00,1558611347742461953,StarcoinSTC,"Starcoin Weekly Report [08.01–08.07]
+https://t.co/4f7JBgypwV",6,4,2,2022-08-14
+513,2022-08-15 15:43:38+00:00,1559204174830530563,StarcoinSTC,"🎉Congratulations to the 3 lucky winners of the OneKey Mini Wallet.
+
+@Stanisl86863011  @Succex14 @bl0ckfinder 
+
+😊The admin will send you a private message, please reply promptly.",11,4,3,2022-08-15
+515,2022-08-16 11:14:59+00:00,1559498953065779201,StarcoinSTC,"📢Community Space #1:What's new with Starcoin!
+
+👥Guest:@renryderauthor @buythedip___ 
+
+📰Topic:
+·DAOSpace-based on SBT
+·STAR Buyback
+·OneKey-DApps support,mobile wallet app
+·Move L1 ecology infrastructure explosion via third party adoption…
+
+🔗Space Link
+https://t.co/4gEgg58ORJ https://t.co/8I76xCqdhE",38,3,12,2022-08-16
+516,2022-08-18 04:04:07+00:00,1560115299122176001,StarcoinSTC,"📢Community Space #1:What's new with Starcoin!
+
+🔴FOLLOW:@Starcoin &amp; @renryderauthor &amp; @buythedip___ 
+
+🔵RT+TAG 3
+
+🟢10 Winners Were Randomly Selected To Each Receives 50STC+Starcoin #NFTs Medal
+
+🔗Space Link
+https://t.co/4gEgg58ORJ
+
+#Airdrop #Giveaway #Space #Starcoin #DAO https://t.co/VH11owCLAH",130,92,89,2022-08-18
+518,2022-08-19 01:39:03+00:00,1560441179669377025,StarcoinSTC,"#Airdrop #Giveaways #Space #AMA #Starcoin 
+Twitter Space will start in 30 minutes https://t.co/73nVo3nuRZ",15,2,6,2022-08-19
+523,2022-08-20 15:30:41+00:00,1561012855100477440,StarcoinSTC,"Dear Customer:
+
+Starcoin (Token: STC) is only available on https://t.co/RMLAkugByc and CoinEx exchanges.
+
+Please recognize the Starcoin (Token: STC) logo. 
+
+Thanks,
+Starcoin https://t.co/x0r0oiJ92m",51,4,16,2022-08-20
+524,2022-08-22 08:33:40+00:00,1561632685050974208,StarcoinSTC,"AMA Recap（2）
+How to assess the security of public chains with Move smart contracts? 
+
+#MOVE #Solana #Starcoin #web3 
+
+👇Read it👇
+https://t.co/atZKtwCdqF",4,1,2,2022-08-22
+526,2022-08-29 06:35:37+00:00,1564139692245008384,StarcoinSTC,"Starcoin Weekly Report [08.15–08.21]
+https://t.co/TXsUihMjJJ",12,1,3,2022-08-29
+527,2022-08-31 16:24:37+00:00,1565012693383528449,StarcoinSTC,"[1/2]🎉Congratulations!
+Please send a private message to Starcoin Twitter with your StarMask wallet address. Please reply within 48 hours.
+@SimpsonStonk @crash22821 @Ubaid_Cryptic @OXraisan_bigWin @ahshibly1 @uche_emma @BlaqOnyemauche @toxicshibly @prantokumar @Ade_lekeJr",15,11,5,2022-08-31
+531,2022-09-01 09:25:13+00:00,1565269535485071361,StarcoinSTC,"#Airdrop #Giveaway #AMA 
+📢Community Space #2:PoW &amp; PoS
+
+⏰Time:Sept 1,7pm PST
+
+🔴FOLLOW:@StarcoinSTC  &amp; @renryderauthor &amp; @buythedip___ 
+ 
+🔵RT+TAG 3
+ 
+🟢10 Winners Were Randomly Selected To Each Receives 100STC
+
+🔗Space Link
+https://t.co/jy1Uen7w7S https://t.co/ccvSQEmQre",444,458,440,2022-09-01
+532,2022-09-02 01:57:19+00:00,1565519205541318656,StarcoinSTC,https://t.co/jy1Uenp7ws,24,9,13,2022-09-02
+535,2022-09-05 02:33:39+00:00,1566615512645533697,StarcoinSTC,"What other solutions have you heard about Blockchain Trilemma 
+? 
+What will you have to know if you choose Pos or PoW?
+ And there is what you want to know about mining, replay to unlock the answer！
+
+https://t.co/jy1UenpFm0",58,20,20,2022-09-05
+537,2022-09-07 05:23:00+00:00,1567382906322169859,StarcoinSTC,"[1/2]Due to the recent potential Ethereum hard fork and the bridge contracts routine upgrade, The cross-chain ETH-STC bridge is suspended, and it will be resumed after the stability of Ethereum assets and the completion of the upgradation.",28,8,12,2022-09-07
+539,2022-09-13 23:42:45+00:00,1569833996238073858,StarcoinSTC,"Starcoin Weekly Report [08.29–09.04]
+https://t.co/10CGOGt88E",14,1,3,2022-09-13
+540,2022-09-14 08:01:15+00:00,1569959447237398528,StarcoinSTC,"[6/6]Opened a public eco-building program to bring in more investment institutions and eco-building companies and teams and launched an eco-building program: Seed Member Program.
+
+Starcoin DAO 2.0 was officially launched one week after the governance consensus was negotiated.",5,0,0,2022-09-14
+552,2022-09-15 01:43:21+00:00,1570226732543913984,StarcoinSTC,"#Airdrop #Airdrops #Giveaway #Giveaways 
+
+The event is ongoing!💸💸💸 https://t.co/sVpqXIYxkr",10,2,5,2022-09-15
+554,2022-09-16 10:16:30+00:00,1570718260232069120,StarcoinSTC,"Starcoin AMA Recap: Talk about the Move ecosystem project whitepaper (1) 
+
+👇Read it,learn about Starcoin!👇
+https://t.co/GrdzvcLqk5",9,1,4,2022-09-16
+555,2022-09-17 01:51:25+00:00,1570953538351824896,StarcoinSTC,https://t.co/0U6uwv7mxG,72,3,39,2022-09-17
+557,2022-09-19 07:48:43+00:00,1571768234516557826,StarcoinSTC,"Starcoin AMA Recap: Talk about the Move ecosystem project whitepaper (2)
+
+👇Read it,learn about Starcoin!👇
+https://t.co/ae0EukvNpB",3,0,3,2022-09-19
+558,2022-09-20 08:40:49+00:00,1572143732673347584,StarcoinSTC,"🔉Starcoin release v1.12.4.  
+
+This release fix some module verify bugs that may cause the node to hard fork due to a certain Move module. Node runners should upgrade starcoin to the latest version as soon as possible.",11,2,4,2022-09-20
+559,2022-09-21 22:32:00+00:00,1572715293256060930,StarcoinSTC,"Starcoin Weekly Report [09.05–09.11]
+https://t.co/KpcPriUwnF",13,1,4,2022-09-21

@@ -1,0 +1,356 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-11-24 17:34:24+00:00,1331290080615403520,UXDProtocol,"@loukerner @cryptomanran @QE4Everyone @loukerner 
+I see that you are into stablecoins. What if I told you that we are developing an interest-bearing stablecoin backed 100% by bitcoin that has the censorship resistant properties of cryptocurrency and the price stability of fiat currency?
+https://t.co/UwVF8HDI3U",1,1,0,2020-11-24
+2,2020-11-25 15:56:30+00:00,1331627834779996161,UXDProtocol,"1/Introduction to Soteria
+Soteria is a stablecoin project that enables users to trade, transact, and store a better stablecoin than the current options.  This thread will describe how Soteria works and  the benefits for users.",6,1,2,2020-11-25
+8,2020-11-30 03:51:09+00:00,1333257231538614276,UXDProtocol,"This blog post explains the risks and returns of USDS. By structuring USDS in a different way compared to other stablecoins, we are able to pay out a native interest to our users. 
+https://t.co/KRO3Sc2ijg",5,0,2,2020-11-30
+9,2020-12-16 07:23:39+00:00,1339108915598913537,UXDProtocol,"1)To earn interest with current stablecoins, you have to lock it up on a lending platform. During the lockup period you cannot move your coins or exchange it for other cryptocurrencies.
+This is inconvenient and an inefficient use of capital.",5,1,2,2020-12-16
+11,2021-01-29 22:35:03+00:00,1355283341671419906,UXDProtocol,"@bitcoin_collect @BitcoinMagazine @PeterChawaga It’s not a scam. If you look at the futures basis, the interest is reasonable.",0,0,0,2021-01-29
+12,2021-02-27 06:11:16+00:00,1365545011597639682,UXDProtocol,Sneak peek of interface for Soteria https://t.co/7uiixrusxV,8,0,1,2021-02-27
+13,2021-03-20 14:49:12+00:00,1373285499893248004,UXDProtocol,@0xrohan @udiWertheimer Soteria is a stablecoin backed 100% by bitcoin that pays native interest.,0,0,0,2021-03-20
+15,2021-03-21 17:48:09+00:00,1373692922311282692,UXDProtocol,"We have analyzed the most popular stablecoins and evaluated them according to features that matter most for traders and investors. Read the blog post for more!
+https://t.co/7Km2D8pfe5",6,1,5,2021-03-21
+16,2021-03-22 03:14:47+00:00,1373835520954920963,UXDProtocol,@realpujing In a bear market the btc lending rate will be much higher and we can utilize the lending market in ftx to lend out the btc. So we expect rates to be similar to what it is in a bull market. But we’ll have to see!,1,0,0,2021-03-22
+17,2021-03-28 23:56:27+00:00,1376322322248785924,UXDProtocol,"16% APY interest paid onchain everyday in USDS.
+Public beta will be released in April.
+Stay tuned! https://t.co/RwzNZMaZ3f",11,1,2,2021-03-28
+18,2021-03-29 02:48:48+00:00,1376365695466840067,UXDProtocol,@realpujing It will be worth the wait:),1,0,0,2021-03-29
+19,2021-05-03 10:49:41+00:00,1389170291725594624,UXDProtocol,We have changed our domain to https://t.co/EXke7ARJsD.,4,0,1,2021-05-03
+21,2021-05-13 13:14:03+00:00,1392830498959872008,UXDProtocol,We have changed our interest rate to 25.00% APY due to the curve flattening.,7,0,4,2021-05-13
+22,2021-05-15 13:47:38+00:00,1393563727023116288,UXDProtocol,@sad_boys_420 Hi this is not a rebasing stablecoin but a stablecoin backed 100% by a delta neutral position.,0,0,0,2021-05-15
+32,2021-05-19 14:39:11+00:00,1395026253539840000,UXDProtocol,We have changed our interest rate to 10.00% APY due to a change in market structure.,13,2,2,2021-05-19
+34,2021-05-21 14:08:54+00:00,1395743406807085058,UXDProtocol,"The evolution of Algorithimic Stablecoins by @fractalfren.
+In this blog post he explores the major algorithmic stablecoins such as Seigniorage Shares, Basis, Basis Cash, Empty Set Dollar, Fei, Frax and gives the reader an overview of each project.
+https://t.co/ruMZii9KVa",27,4,10,2021-05-21
+35,2021-06-02 15:09:15+00:00,1400107248664334337,UXDProtocol,"We have released a blog post on a tentative roadmap for the next 3-6 months. We have a lot planned so stay tuned!
+https://t.co/sGH8QN6Doh",8,0,1,2021-06-02
+36,2021-06-03 08:32:57+00:00,1400369902687457280,UXDProtocol,"How futures contracts work and the mechanism behind the basis trade.
+https://t.co/waz6w9sSSb",14,0,2,2021-06-03
+37,2021-06-09 12:56:23+00:00,1402610525633191943,UXDProtocol,@ftr_finance @solana I like you too:),3,1,0,2021-06-09
+40,2021-06-17 10:43:58+00:00,1405476305408167945,UXDProtocol,"For the Solana Hackathon we have developed the first P2P Perpetual Swap Protocol on @Solana.
+Vote for Soteria using the link below!
+https://t.co/Fh5ntyh0KJ",22,5,1,2021-06-17
+45,2021-06-20 09:46:06+00:00,1406548907895656454,UXDProtocol,"@0xminion @PythNetwork The P2P perpetual swap protocol that we built is only for the Solana Hackathon.
+Our main product will be an algorithmic stablecoin backed 100% by a delta neutral position.",4,1,0,2021-06-20
+47,2021-06-22 14:31:45+00:00,1407345568825937927,UXDProtocol,@George_harrap Thanks for the shoutout @George_harrap!,2,0,0,2021-06-22
+48,2021-06-24 16:28:11+00:00,1408099645788729345,UXDProtocol,"We have added USDT,USDC to our platform! You can now deposit, withdraw and convert USDT, USDC to USDS, and earn 10% APY.
+https://t.co/cspUQymbSz https://t.co/YmsNVsJpPE",16,0,3,2021-06-24
+49,2021-06-25 15:02:32+00:00,1408440481021935617,UXDProtocol,Thanks for the mention @PythNetwork! https://t.co/TwiUtCM7M6,15,2,0,2021-06-25
+50,2021-07-07 09:15:36+00:00,1412701825174757376,UXDProtocol,@CapitalShark1 @PythNetwork Current yields allows us to pay 10% APY.,0,0,0,2021-07-07
+51,2021-07-08 20:39:38+00:00,1413236356277538823,UXDProtocol,Thank you Pyth for mentioning us!😘 https://t.co/XGAjhdsZNo,6,0,0,2021-07-08
+52,2021-07-10 16:59:19+00:00,1413905688351358978,UXDProtocol,"The Practical Consequences of Solana’s Scalability by @fractalfren.
+In this article, he dives into how @Solana scales without compromising on security or decentralization, and the long term advantages of its architecture.
+Read more here!
+https://t.co/HpkEPg8Hyu",21,0,5,2021-07-10
+53,2021-07-12 16:33:40+00:00,1414624006284759048,UXDProtocol,Thank you for translating the article  into Japanese! https://t.co/Lde5whNGBI,3,1,0,2021-07-12
+54,2021-07-18 02:05:16+00:00,1416579795979177986,UXDProtocol,We have changed our interest rate to 5.00% APY due to a change in market structure.,5,2,1,2021-07-18
+55,2021-07-22 22:59:13+00:00,1418344911561060353,UXDProtocol,"We will be presenting our alpha demo for our stablecoin!
+Stay tuned! https://t.co/AfgQvvzmbq",17,0,1,2021-07-22
+56,2021-07-27 13:31:03+00:00,1420013868370300928,UXDProtocol,"Other great projects presenting are:
+@ZetaMarkets , @ClubUnq, @Francium_Defi, @Sonarwatch, @JetProtocol, @nina_market_,  @AllArtProtocol, @DeFi_Land, @switchboardxyz, @slope_finance, @BoringProtocol, @ApolloDao,",4,1,0,2021-07-27
+59,2021-07-29 07:43:55+00:00,1420651283287986179,UXDProtocol,@ZetaMarkets @sinoglobalcap @paraficapital @Tristan0x @TheCryptoDog @DeFi_Land @slope_finance @Francium_Defi @AllArtProtocol @ClubUnq @Sonarwatch @JetProtocol @switchboardxyz @ApolloDAO @BoringProtocol @nina_market_ 😎😎😎,2,0,0,2021-07-29
+60,2021-08-13 09:53:00+00:00,1426119589662916611,UXDProtocol,"We are sunsetting v0 and rebranding to UXD Protocol!
+Read more in the blog post below.
+https://t.co/akYdaKTaGs",50,6,11,2021-08-13
+63,2021-08-14 14:29:56+00:00,1426551667806380036,UXDProtocol,It's simply really https://t.co/C01VsXm2eA,40,2,6,2021-08-14
+65,2021-08-16 01:41:41+00:00,1427083107157651460,UXDProtocol,Come here anon https://t.co/LzTvG2YFuH,44,3,7,2021-08-16
+66,2021-08-17 17:35:09+00:00,1427685443139563523,UXDProtocol,We like the protocol https://t.co/P9W4xuImcm,29,2,8,2021-08-17
+67,2021-08-19 21:04:15+00:00,1428462842013945859,UXDProtocol,"@SolanaCove The insurance fund will be funded partly by the positive funding rate. We will also have liquidity mining to incentivize users to provide capital to the insurance fund.
+If the insurance fund runs out of funds, we will do an auction of gov tokens to replenish the funds.",2,2,0,2021-08-19
+75,2021-08-20 18:38:27+00:00,1428788536984092673,UXDProtocol,One coin to rule them all https://t.co/Mtn6I8E1JU,32,2,5,2021-08-20
+76,2021-08-22 22:34:28+00:00,1429572706715029509,UXDProtocol,@dioderen Gm Rara!,0,0,0,2021-08-22
+86,2021-08-24 17:16:23+00:00,1430217434137436162,UXDProtocol,おい https://t.co/SzvtpB8fV4,26,3,5,2021-08-24
+88,2021-08-26 20:24:50+00:00,1430989635858096144,UXDProtocol,It's cozy https://t.co/flQCZtWdMo,23,2,6,2021-08-26
+90,2021-08-30 13:07:45+00:00,1432329192100679685,UXDProtocol,Good morning! https://t.co/Sk4e72MY8o,26,7,2,2021-08-30
+92,2021-09-01 18:46:14+00:00,1433139149909921793,UXDProtocol,@chillsauce1 Gm Crusader!,1,0,0,2021-09-01
+97,2021-09-02 14:11:02+00:00,1433432280848994304,UXDProtocol,"12/ Thank you for reading our post and to learn more about UXD Protocol, join our discord!
+Discord: https://t.co/4pGb1Mlqo9
+We are also looking to hire rust developers who are interested in developing on top of Solana. Drop us a DM if that describes you!",22,6,2,2021-09-02
+117,2021-09-03 08:51:19+00:00,1433714208797986816,UXDProtocol,@DefiDrew Will announce soon on discord:),1,0,0,2021-09-03
+122,2021-09-04 22:03:11+00:00,1434275879530737672,UXDProtocol,It is indeed comfy! https://t.co/FyAzlvwmbj,17,0,2,2021-09-04
+124,2021-09-06 19:11:38+00:00,1434957480468140033,UXDProtocol,https://t.co/JeEI6oB0jo,74,6,9,2021-09-06
+125,2021-09-08 18:41:45+00:00,1435674737661788162,UXDProtocol,"The discord link is fixed now, sorry for the inconvenience.
+https://t.co/Xlzl2GOLWO",13,0,3,2021-09-08
+126,2021-09-09 17:58:41+00:00,1436026287957549092,UXDProtocol,@DecimalLove Gm Bruce!,0,0,0,2021-09-09
+137,2021-09-10 03:52:44+00:00,1436175785820262402,UXDProtocol,"28k hoodies anyone?
+https://t.co/hIbNFQC7nD https://t.co/7KYeTNOqDT",22,4,1,2021-09-10
+140,2021-09-13 15:44:16+00:00,1437442010235932675,UXDProtocol,https://t.co/tUeRluB7rG,27,2,1,2021-09-13
+141,2021-09-15 16:53:59+00:00,1438184329927143432,UXDProtocol,"We wrote a post on how the governance token UXP functions in the ecosystem and the token distribution.
+Read more here!
+https://t.co/TsnxEtZjf8 https://t.co/EuSTuREP69",56,5,9,2021-09-15
+143,2021-09-16 21:56:02+00:00,1438622734389415958,UXDProtocol,https://t.co/5V8YDM4e0M,35,6,2,2021-09-16
+145,2021-09-18 18:03:28+00:00,1439288979338170372,UXDProtocol,69 hoodies https://t.co/nE8BTSCwTA,29,3,5,2021-09-18
+146,2021-09-19 23:52:57+00:00,1439739320781451265,UXDProtocol,https://t.co/ZPSXUWn4c9,45,1,4,2021-09-19
+147,2021-09-20 13:17:09+00:00,1439941701821423617,UXDProtocol,Love to see it https://t.co/9i07VSn6kU https://t.co/LPqNuvFzjT,48,3,2,2021-09-20
+148,2021-09-21 20:47:22+00:00,1440417389758205961,UXDProtocol,https://t.co/W4Qdrkq8aN,27,3,1,2021-09-21
+149,2021-09-22 22:42:17+00:00,1440808701179285507,UXDProtocol,@solana https://t.co/psFQKsExNX,20,0,1,2021-09-22
+150,2021-09-24 14:28:01+00:00,1441409088483647488,UXDProtocol,Good Morning! https://t.co/hPthiaMtsW,44,6,5,2021-09-24
+151,2021-09-25 18:16:36+00:00,1441829000167387139,UXDProtocol,@Mazaarsveryown See you there &lt;3,1,0,0,2021-09-25
+158,2021-09-27 18:12:38+00:00,1442552777092304904,UXDProtocol,How is your day anon-kun? https://t.co/EnzsY7h7Ts,50,4,2,2021-09-27
+161,2021-09-28 18:18:19+00:00,1442916599183282178,UXDProtocol,@MapleReborn @Seranged @KentoInami Nice! https://t.co/Wh4quSgDEe,2,0,0,2021-09-28
+164,2021-09-29 18:23:10+00:00,1443280206849101825,UXDProtocol,@KentoInami_jp それは日産の社長ですか？,2,1,0,2021-09-29
+166,2021-10-01 17:56:28+00:00,1443998261476528136,UXDProtocol,@DecimalLove It’s happening soon 👀,0,1,0,2021-10-01
+169,2021-10-02 00:30:01+00:00,1444097301585317891,UXDProtocol,@0x_Hammer Wassup hammer https://t.co/vq4d02fjxI,1,1,0,2021-10-02
+170,2021-10-03 21:24:52+00:00,1444775483053326337,UXDProtocol,Time to bumdle up https://t.co/5OJj7mmtvw,49,1,8,2021-10-03
+171,2021-10-04 19:03:28+00:00,1445102286909366277,UXDProtocol,@breakoutboi 👀,2,1,0,2021-10-04
+183,2021-10-05 18:02:56+00:00,1445449442434248707,UXDProtocol,(1=1) https://t.co/bfIuwex7y0,50,1,5,2021-10-05
+185,2021-10-06 22:37:01+00:00,1445880803720765445,UXDProtocol,@AdArgumentum https://t.co/X8pvMU1B3D,0,0,0,2021-10-06
+193,2021-10-07 01:46:07+00:00,1445928392797396995,UXDProtocol,@Kasperbit Cute shiba,0,0,0,2021-10-07
+194,2021-10-08 13:54:58+00:00,1446474199522967562,UXDProtocol,It’s time for a giveaway!,53,16,6,2021-10-08
+196,2021-10-10 04:11:22+00:00,1447052108717596673,UXDProtocol,@KentoInami_jp Oh,4,1,0,2021-10-10
+197,2021-10-11 15:28:26+00:00,1447584885242273795,UXDProtocol,Announcing the winners soon!,28,8,0,2021-10-11
+199,2021-10-12 15:14:45+00:00,1447943829173190674,UXDProtocol,@RuseBad &lt;3 https://t.co/Q0TADjLB4f,1,0,0,2021-10-12
+203,2021-10-13 04:31:15+00:00,1448144276110467072,UXDProtocol,https://t.co/v72YtPHWFK,49,2,8,2021-10-13
+207,2021-10-14 04:59:56+00:00,1448513884592168961,UXDProtocol,@Raonekirk1 @KentoInami “Im hedging” https://t.co/KopG1wcdvY,1,0,0,2021-10-14
+209,2021-10-17 19:40:02+00:00,1449822532220203011,UXDProtocol,@youravity Gm,1,0,0,2021-10-17
+214,2021-10-18 02:12:48+00:00,1449921375725133825,UXDProtocol,@Ink516wwl Gm,0,0,0,2021-10-18
+215,2021-10-20 20:20:07+00:00,1450919783260573696,UXDProtocol,https://t.co/6Ftd9YxesZ,59,1,8,2021-10-20
+217,2021-10-23 21:21:30+00:00,1452022391350054915,UXDProtocol,"Our Founder @KentoInami will be on LedgerFest presented by @BlockchainatCU!
+Don't miss it! https://t.co/rvMWkOqiRz",23,0,4,2021-10-23
+219,2021-10-24 03:51:20+00:00,1452120496649080836,UXDProtocol,https://t.co/0SUkow3qM2,52,1,6,2021-10-24
+222,2021-10-26 23:14:47+00:00,1453138065485139970,UXDProtocol,Since it’s dogy 🐕 season https://t.co/ADhGZkoOBf,29,5,5,2021-10-26
+223,2021-10-28 04:52:07+00:00,1453585345405243392,UXDProtocol,@StunLikes @KentoInami @tittyrespecter Soon https://t.co/peULfwzkBY,12,1,0,2021-10-28
+227,2021-10-31 16:58:25+00:00,1454855287920381954,UXDProtocol,Soon! https://t.co/ADsoYysFKN,42,2,5,2021-10-31
+228,2021-11-01 17:47:45+00:00,1455230092653727752,UXDProtocol,"For opsec reasons, we have decided to postpone the IDO to November 11th, EST 11PM. Thank you for your understanding.
+https://t.co/X5UxjF0hMu",67,4,9,2021-11-01
+229,2021-11-02 18:23:31+00:00,1455601482686939141,UXDProtocol,@ExaltedFoks @formershell Gm Foks,2,0,0,2021-11-02
+239,2021-11-03 00:44:49+00:00,1455697438493261834,UXDProtocol,Who’s coming to Breakpoint? https://t.co/S95r3Rmodh,20,1,2,2021-11-03
+243,2021-11-04 18:28:57+00:00,1456327622481178629,UXDProtocol,Oh https://t.co/udLftv8wbA,60,4,6,2021-11-04
+250,2021-11-05 23:49:17+00:00,1456770625943527431,UXDProtocol,We love our supporters &lt;3 https://t.co/FlcBxrvEKt,34,6,10,2021-11-05
+252,2021-11-06 14:15:27+00:00,1456988602739527684,UXDProtocol,@KentoInami https://t.co/gyjnOxfGcf,10,0,0,2021-11-06
+254,2021-11-07 00:06:59+00:00,1457137468709515267,UXDProtocol,Soon! https://t.co/GN1lmo9Bws https://t.co/kAyFigZbza,28,1,2,2021-11-07
+258,2021-11-08 01:11:44+00:00,1457516150892507140,UXDProtocol,@mrchenmo Good morning!,0,0,0,2021-11-08
+261,2021-11-09 05:07:08+00:00,1457937780009537543,UXDProtocol,Congratulations to @MMonalds on winning the meme competition. Please feel free to dm us to be awarded the prize &lt;3,4,0,0,2021-11-09
+267,2021-11-10 16:33:28+00:00,1458472889540399114,UXDProtocol,@PsyOptions 🥂,2,0,0,2021-11-10
+270,2021-11-11 04:00:24+00:00,1458645761000890371,UXDProtocol,Less than 24 hours to go. https://t.co/VGXHGGRBOB,77,6,8,2021-11-11
+278,2021-11-12 03:57:16+00:00,1459007360761016334,UXDProtocol,A new chapter starts soon https://t.co/JTehGWF7FF,48,1,7,2021-11-12
+284,2021-11-13 04:09:12+00:00,1459372753560166403,UXDProtocol,Less than 24 hours left! https://t.co/wblfmSPAOh,55,4,4,2021-11-13
+285,2021-11-14 04:14:33+00:00,1459736486862016512,UXDProtocol,"3/ In the future, the insurance fund will be invested in UXD-USDC pools to increase the liquidity of UXD.
+Insurance fund address: 5gPD5fuQe77inQRoRAtp6KtzU6HYavMkMcYhXufLRKXt",61,3,3,2021-11-14
+293,2021-11-15 06:33:36+00:00,1460133868590313476,UXDProtocol,@shawn_odonaghue Cheers 🥃 https://t.co/cmxpvQaeVv,6,2,0,2021-11-15
+295,2021-11-16 21:45:22+00:00,1460725708062269440,UXDProtocol,Cannot wait to build with 🥭 and other protocols https://t.co/l73AFVKMLh,94,8,9,2021-11-16
+296,2021-11-18 17:49:08+00:00,1461391034508791816,UXDProtocol,Godspeed https://t.co/asq7mhUJ4U,74,5,8,2021-11-18
+297,2021-11-19 19:41:47+00:00,1461781770957905924,UXDProtocol,Algorithmic stablecoin will reign supreme https://t.co/zxZojkPik5,102,10,13,2021-11-19
+298,2021-11-21 08:41:39+00:00,1462340418956402689,UXDProtocol,@Cryptosamee @KentoInami @solana There is only one https://t.co/8hinFvff9c,11,0,0,2021-11-21
+302,2021-11-22 00:54:13+00:00,1462585174999408640,UXDProtocol,https://t.co/YkdSzA0waz https://t.co/YeS80OU98q,40,4,6,2021-11-22
+305,2021-11-24 19:06:11+00:00,1463584751063912453,UXDProtocol,"@BTG44 @AntopologyBTC @mangomarkets You can trade here
+
+https://t.co/Sf3NRFWOiS",0,1,0,2021-11-24
+312,2021-11-25 03:05:45+00:00,1463705439888101378,UXDProtocol,It’s real https://t.co/ORiMHj9mYa,125,6,7,2021-11-25
+315,2021-11-26 13:44:42+00:00,1464228624840728609,UXDProtocol,@chikaville @Aldrin_Exchange It’s $uxp,0,1,0,2021-11-26
+319,2021-11-28 19:29:21+00:00,1465040133913260032,UXDProtocol,Good morning! https://t.co/mXCS985W8B,90,4,9,2021-11-28
+320,2021-11-29 02:20:19+00:00,1465143556323037187,UXDProtocol,@GooseAlt @tittyrespecter Good morning Goose!,2,0,0,2021-11-29
+322,2021-11-30 02:27:12+00:00,1465507678063636484,UXDProtocol,@nbngoc93 Good morning!,0,0,0,2021-11-30
+323,2021-12-01 17:41:08+00:00,1466100061704798216,UXDProtocol,Utopia https://t.co/ZoupuPeEVz,128,7,15,2021-12-01
+324,2021-12-04 17:39:21+00:00,1467186776464928774,UXDProtocol,Pondering my orb https://t.co/WGh8XnAuOZ,91,1,13,2021-12-04
+325,2021-12-06 18:07:09+00:00,1467918550266437635,UXDProtocol,"If you haven’t played around with the devnet, please do so at https://t.co/WPnYDo0m0n https://t.co/M2vWb5vGx3",89,7,9,2021-12-06
+327,2021-12-07 01:43:46+00:00,1468033462296846341,UXDProtocol,"@rushir_shah Mainnet soon and here’s the solana faucet 
+https://t.co/eAvOjB5zxY",3,0,0,2021-12-07
+331,2021-12-08 18:32:13+00:00,1468649635409547269,UXDProtocol,https://t.co/FajHXH7hHG,81,9,10,2021-12-08
+332,2021-12-09 03:45:40+00:00,1468788914534109188,UXDProtocol,@nbngoc93 Hey!,0,0,0,2021-12-09
+335,2021-12-15 17:51:12+00:00,1471176024448716802,UXDProtocol,"We now have @orca_so pools and @RaydiumProtocol pools for UXP/USDC!
+You can trade and provide liquidity here:
+https://t.co/dzNbckXJwP
+https://t.co/DUjNBcacmy",59,2,15,2021-12-15
+337,2021-12-17 18:31:15+00:00,1471910879637745664,UXDProtocol,"Our protocol was mentioned in the video, check it out! https://t.co/MQHFlYFGyN",35,1,5,2021-12-17
+338,2021-12-18 21:35:17+00:00,1472319580894896136,UXDProtocol,"Our head of strategy @dirac_sol has written a medium post on the future developments of UXD Protocol for 2022!
+https://t.co/HwJMydlZ55",90,1,30,2021-12-18
+339,2021-12-19 07:47:13+00:00,1472473582492078080,UXDProtocol,@0xBottega @KentoInami https://t.co/lWtlIrxN9J,2,0,0,2021-12-19
+340,2021-12-24 01:54:22+00:00,1474196720376496132,UXDProtocol,https://t.co/Bkasa7clPO,87,4,21,2021-12-24
+341,2021-12-25 05:00:02+00:00,1474605835112402953,UXDProtocol,We wish everyone a Merry Christmas 🎄 https://t.co/62VubxiyJT,101,6,12,2021-12-25
+342,2021-12-26 22:58:57+00:00,1475239742417813509,UXDProtocol,"We will write a series of educational blog posts to increase the communities understanding of UXD Protocol!
+https://t.co/gvPy8qZnQe",124,4,26,2021-12-26
+343,2021-12-31 18:35:51+00:00,1476985470668181505,UXDProtocol,"Within a span of a year, UXD has grown from an idea on a white paper to a team of more than ten people. In 2021 UXD raised funds from VCs and an IDO to enable everything to come to fruition. Our goal for 2022 is to make UXD the de-facto stablecoin in Solana!",120,3,17,2021-12-31
+346,2022-01-01 05:00:09+00:00,1477142578973888512,UXDProtocol,HAPPY NEW YEAR 🎊 https://t.co/2cZqpC94FR,67,2,4,2022-01-01
+348,2022-01-09 18:16:06+00:00,1480241989186723844,UXDProtocol,Exciting things ahead!,113,6,17,2022-01-09
+350,2022-01-10 10:48:03+00:00,1480491620357521409,UXDProtocol,@xcip002 @KentoInami Done!,1,0,0,2022-01-10
+351,2022-01-11 23:22:01+00:00,1481043750881316869,UXDProtocol,It’s imminent https://t.co/5dJ92CgOZe,137,8,17,2022-01-11
+352,2022-01-14 21:29:09+00:00,1482102512857812992,UXDProtocol,"We have moved the insurance fund from a multisig wallet to a DAO wallet initially controlled by a council of core team members. This is for increased safety and easier transition to community control in the future. 
+https://t.co/N8Oq7swLCM",58,1,8,2022-01-14
+354,2022-01-15 21:42:53+00:00,1482468355365736449,UXDProtocol,Upcoming week will be special https://t.co/ZiY9U6ctpJ,120,3,22,2022-01-15
+355,2022-01-17 20:26:55+00:00,1483174013073387520,UXDProtocol,"9/ UXD Protocol believes it fulfills these requirements, and has the potential to be the bedrock of the decentralized finance ecosystem. In contrast, centralized stablecoins such as USDC and USDT are not trustless, not decentralized, and not credibly neutral.",35,1,2,2022-01-17
+367,2022-01-18 15:11:12+00:00,1483456948465192960,UXDProtocol,"We have reached the cap limit of $1 million!
+We will raise the limit in 5 days. https://t.co/VG4XkkzBbd https://t.co/2REEiBf6Hl",96,6,17,2022-01-18
+373,2022-01-21 17:43:35+00:00,1484582459622756356,UXDProtocol,Minting will resume soon! https://t.co/oiVQJizZwK,86,4,8,2022-01-21
+374,2022-01-23 14:49:16+00:00,1485263366876962825,UXDProtocol,"Mint cap will be raised to $2 million at 15:00 UTC! We were delayed one hour due to a governance proposal needing to be re-executed.
+Starting tomorrow, the mint cap will be raised by $250,000 daily until we hit the $10 million cap limit.",102,3,17,2022-01-23
+375,2022-01-24 06:57:41+00:00,1485507080085995522,UXDProtocol,"You can still mint $650,000 UXD here with SOL! 
+There will be retroactive airdrops to UXD holders and Saber, Sunny and other pools LPs in the future.
+https://t.co/WPnYDo0TPV",126,22,45,2022-01-24
+378,2022-01-25 05:42:07+00:00,1485850447864897538,UXDProtocol,Deposit and start staking UXD-USDC into the pool now!  https://t.co/OTUSqQzVd5 https://t.co/7KJnIjooNS,67,7,12,2022-01-25
+379,2022-01-26 02:08:56+00:00,1486159188330168320,UXDProtocol,"Just to be clear, UXD team member's wallets will not be eligible for the airdrop out of fairness and transparency!",54,9,4,2022-01-26
+385,2022-01-27 16:55:44+00:00,1486744747020468224,UXDProtocol,@btc_borghini Gm Royce!,1,0,0,2022-01-27
+394,2022-01-28 19:59:01+00:00,1487153256874881032,UXDProtocol,@mangomarkets 👀,20,0,0,2022-01-28
+400,2022-01-29 01:32:04+00:00,1487237074235191296,UXDProtocol,"We now have another pool!
+The liquidity of UXD is increasing:) https://t.co/54rys1uMWy",42,2,12,2022-01-29
+406,2022-01-30 14:28:29+00:00,1487794853987557379,UXDProtocol,"We have hit the UXD max mint cap of $3.75 million!
+We will raise the cap tomorrow by another $250,000. https://t.co/H1pgf9qj9g",77,7,8,2022-01-30
+409,2022-01-31 00:47:13+00:00,1487950560607178753,UXDProtocol,"Our quant has done an analysis on the performance of the insurance fund under various funding regimes. Read the blog post for a summary and the paper linked for a deeper analysis!
+https://t.co/xvFRczXihx",70,4,14,2022-01-31
+413,2022-02-01 19:45:16+00:00,1488599350674604032,UXDProtocol,Society when UXD x Solana Pay is live https://t.co/1qLtuJHoxl https://t.co/2B3rsNuFzd,128,4,26,2022-02-01
+418,2022-02-02 14:00:48+00:00,1488875048119463937,UXDProtocol,"Users are now able to mint UXD with ETH!
+Mint UXD here.
+https://t.co/uGe46aIJGY https://t.co/2U7Oh4moAj",41,2,8,2022-02-02
+421,2022-02-03 14:00:24+00:00,1489237335351107588,UXDProtocol,"Mint cap has been raised to $5.5 million!
+Mint UXD here.
+https://t.co/uGe46aIJGY",28,1,6,2022-02-03
+424,2022-02-04 05:43:34+00:00,1489474692591206402,UXDProtocol,"Our pre-seed investors have agreed to a longer lockup. Instead of 2 year vesting with 1 year cliff, it will now be  4 year vesting with 1 year cliff.
+https://t.co/Jc4wT8wBwU https://t.co/9UODFgVSwJ",163,6,19,2022-02-04
+428,2022-02-05 19:57:08+00:00,1490051889618112517,UXDProtocol,Big things ahead 🤫 https://t.co/MtJnQ9qSVm,86,12,17,2022-02-05
+430,2022-02-06 02:21:05+00:00,1490148510364229632,UXDProtocol,@DylanMacalinao @Saber_HQ 🤝 https://t.co/CViJr4x3yi,24,1,2,2022-02-06
+434,2022-02-07 16:01:01+00:00,1490717242144980993,UXDProtocol,"The proposal to acquire $250,000 worth of discounted UXP tokens by the Saber DAO has passed!
+UXD Protocol will then lock the SBR tokens for the max length and vote for UXD-USDC pools to increase liquidity for $UXD!
+#Saberwars
+https://t.co/pZ1NX7K49l",36,0,6,2022-02-07
+439,2022-02-08 18:01:20+00:00,1491109910935126016,UXDProtocol,There is now $17 million in liquidity for UXD-USDC pool on @Saber_HQ https://t.co/fvA8Y21vc3,52,1,7,2022-02-08
+445,2022-02-09 14:01:52+00:00,1491412031547015170,UXDProtocol,"Mint cap has been raised from $8M to $8.5M $UXD!
+Mint $UXD with SOL, BTC, and ETH here.
+https://t.co/uGe46aIJGY",20,0,2,2022-02-09
+448,2022-02-10 14:00:17+00:00,1491774021456654338,UXDProtocol,"Mint cap has been raised from $8.5M to $9M $UXD!
+Mint $UXD with SOL, BTC, and ETH here.
+https://t.co/uGe46aqAsQ https://t.co/vD71Fo93hV",28,1,4,2022-02-10
+450,2022-02-11 14:03:45+00:00,1492137284271226880,UXDProtocol,"We have hit the UXD max mint cap of $9.5 million!
+We will raise the cap tomorrow by another $500,000. https://t.co/YwvISP7EWJ",22,1,2,2022-02-11
+453,2022-02-12 17:31:53+00:00,1492552049183100940,UXDProtocol,@Neiv_T Thank you Neiv! https://t.co/RLyAOaRRq3,5,0,0,2022-02-12
+457,2022-02-13 20:22:09+00:00,1492957287480459265,UXDProtocol,"12. ... assets remain plentiful.
+UXD Protocol will update publicly on the progress of the temporary rebalancing, as well as the full rebalancing mechanism described above. For more information, please see the description in our docs.
+https://t.co/SgPL2YpZNk",16,0,1,2022-02-13
+471,2022-02-14 12:38:39+00:00,1493203028970672128,UXDProtocol,"Several ways to qualify for the retroactive airdrop:
+1. Be an LP in the UXD-USDC Pools on Saber, Sunny, and Mercurial
+2. Directly mint and hold $UXD with SOL, BTC, and ETH on https://t.co/uGe46aqAsQ
+3. Use aggregators such as https://t.co/4mYbxVGy8f to swap to $UXD and hold https://t.co/ysF1ghNojY",53,10,17,2022-02-14
+477,2022-02-15 18:27:25+00:00,1493653186812465156,UXDProtocol,@Log_atome @solendprotocol 🥂 https://t.co/1PgkGqoKwN,3,0,0,2022-02-15
+484,2022-02-16 12:52:15+00:00,1493931230471286791,UXDProtocol,@m_schneider @JuicedProtocol We just want fr higher ser,3,1,0,2022-02-16
+490,2022-02-17 14:00:39+00:00,1494310831085207553,UXDProtocol,"Mint cap has been raised from $16M to $17.5M $UXD!
+Mint $UXD with SOL, BTC, and ETH here.
+https://t.co/uGe46aIJGY https://t.co/6mOpdMWu2z",22,1,2,2022-02-17
+492,2022-02-18 14:05:14+00:00,1494674373206474753,UXDProtocol,"Mint cap has been raised from $17.5M to $19M $UXD!
+Mint $UXD with SOL, BTC, and ETH here.
+https://t.co/uGe46aIJGY https://t.co/56B4pI9uvj",33,2,1,2022-02-18
+493,2022-02-19 19:11:16+00:00,1495113776793894914,UXDProtocol,@0xCryptoSheik https://t.co/rdjxNMgCSG,9,1,0,2022-02-19
+496,2022-02-20 17:38:37+00:00,1495452847257047040,UXDProtocol,"We have added 45M UXP and $3M in liquidity to Raydium UXP-USDC pools!
+https://t.co/lIOKcJZYgM",38,2,9,2022-02-20
+498,2022-02-21 14:43:32+00:00,1495771175485849604,UXDProtocol,"Mint cap has been raised from $22M to $23.5M $UXD!
+Mint $UXD with SOL, BTC, and ETH here.
+https://t.co/uGe46aIJGY",29,1,5,2022-02-21
+499,2022-02-22 18:42:29+00:00,1496193695380615172,UXDProtocol,Hi! https://t.co/HyMgf1chI4,58,6,7,2022-02-22
+501,2022-02-24 09:58:20+00:00,1496786562335576069,UXDProtocol,"UXDProgram has been upgraded to v2.3.0 for compatibility with the upcoming update of @mangomarkets v3.4.0.
+https://t.co/M0T8eovhlc",23,0,4,2022-02-24
+502,2022-02-25 15:10:26+00:00,1497227494772310018,UXDProtocol,#saberwars https://t.co/0j9L5iE5Df,58,3,3,2022-02-25
+503,2022-02-27 19:36:18+00:00,1498019177159929863,UXDProtocol,👀 https://t.co/GzbyVLLSX7,103,9,16,2022-02-27
+505,2022-03-01 16:13:32+00:00,1498692924392964101,UXDProtocol,"The beta version of the dashboard is now released to the public!
+We will continue to update the dashboard with more data and features.
+https://t.co/ztfDWVJHtQ",41,4,13,2022-03-01
+506,2022-03-04 19:10:04+00:00,1499824515899142153,UXDProtocol,It’s us https://t.co/nRyew8Q1vZ,47,2,3,2022-03-04
+507,2022-03-09 22:02:56+00:00,1501679958418391045,UXDProtocol,"Feel free to join us for our AMA session which will be held on Thursday at 17:00 UTC!
+https://t.co/xeQp8hJ7k5 https://t.co/BuAFY2krMk",26,1,6,2022-03-09
+509,2022-03-10 21:27:25+00:00,1502033407064354816,UXDProtocol,Close to $40M now! https://t.co/BCT1LIORas,66,4,7,2022-03-10
+511,2022-03-12 12:34:50+00:00,1502624154624962572,UXDProtocol,Good morning! https://t.co/gkNot8sNB6,59,8,3,2022-03-12
+513,2022-03-16 05:49:17+00:00,1503971647644184579,UXDProtocol,$20M UXD minted! https://t.co/0jvcdvVkv6,50,3,6,2022-03-16
+514,2022-03-17 21:12:28+00:00,1504566361472868358,UXDProtocol,9/Special thanks to @dirac_sol for designing the mechanism.,20,0,2,2022-03-17
+524,2022-03-18 17:49:07+00:00,1504877573016363019,UXDProtocol,@friktion_labs @SolanaNews @aeyakovenko @GenesisVol @DeribitInsights @StepFinance_ @TerraBitesPod @ProjectSerum @switchboardxyz @PythNetwork Congratulations 🎉,3,0,0,2022-03-18
+525,2022-03-19 21:07:45+00:00,1505289948550811653,UXDProtocol,veRev 🤌 https://t.co/fL095zyoup,68,3,8,2022-03-19
+526,2022-03-21 09:18:50+00:00,1505836321599737857,UXDProtocol,"@Dodecahedr0x UXD is the stablecoin, UXP is the governance token",4,2,0,2022-03-21
+527,2022-03-24 20:19:24+00:00,1507089719125057537,UXDProtocol,Staking for UXP token holders will be available soon! https://t.co/yxUTwz6Bcp,121,8,15,2022-03-24
+528,2022-03-25 22:50:50+00:00,1507490217850458116,UXDProtocol,"Oh?
+https://t.co/g8qbqwvg8f https://t.co/vDbo4b92sY",44,5,10,2022-03-25
+530,2022-03-26 02:00:27+00:00,1507537936740323331,UXDProtocol,"Solend/UXD spaces is now live!
+https://t.co/9ab1leJYA2",14,0,4,2022-03-26
+531,2022-03-27 04:33:39+00:00,1507938879969841153,UXDProtocol,"The $5 million cap on UXD has been lifted on @solendprotocol!
+https://t.co/g8qbqwvg8f",23,1,5,2022-03-27
+532,2022-03-28 15:19:01+00:00,1508463679913684997,UXDProtocol,"We have hit the $10 Million cap on @solendprotocol!
+https://t.co/g8qbqwd6U7 https://t.co/NjpE1rqQho",64,5,10,2022-03-28
+534,2022-03-29 05:44:53+00:00,1508681580276903940,UXDProtocol,The cap is now 20M! https://t.co/UqnhcsvCt2,23,2,3,2022-03-29
+535,2022-03-30 15:10:38+00:00,1509186345838657537,UXDProtocol,"5/ The split of Protocol yield between the insurance fund and the UXP stakers will depend on the Health of the overall protocol relative to a target and is a logistic function with a parameter determined by governance. Of course, yield will be distributed via the veRev model.",9,1,0,2022-03-30
+541,2022-03-31 14:19:59+00:00,1509535984001564673,UXDProtocol,"1/ The audit by @soteria_bc has been completed! There was one critical issue that was immediately fixed after it was disclosed to us. You can check the results here.
+https://t.co/1scxCveKNv",96,3,20,2022-03-31
+543,2022-04-01 16:32:13+00:00,1509931650095976449,UXDProtocol,"Lend your UXD 👇for that sweet yield
+https://t.co/ZkRluGGgMv https://t.co/VOpW291T1j",24,3,5,2022-04-01
+544,2022-04-03 06:40:53+00:00,1510507613167169536,UXDProtocol,"UXD has the most votes for it's UXD/USDC pools on Saber!
+#Saberwars https://t.co/u2fkD6WfD4",44,3,3,2022-04-03
+546,2022-04-04 05:50:34+00:00,1510857340299649027,UXDProtocol,"We released UXD Protocol program v3.0.2 earlier this week, audited by @soteria_bc. This adds a new rebalancing-lite instruction, which allows us to rebalance negative PnL from the Mango Depository. https://t.co/hE9WxNfS1E",37,1,8,2022-04-04
+547,2022-04-07 01:45:33+00:00,1511882840463405056,UXDProtocol,@solendprotocol 🤝 https://t.co/4UMwSesVOn,10,0,0,2022-04-07
+548,2022-04-08 12:54:04+00:00,1512413465884856320,UXDProtocol,"@Dodecahedr0x We have several plans that will solve the funding rate issue over the long run, this is a temporary solution",2,0,0,2022-04-08
+551,2022-04-10 13:55:26+00:00,1513153686586867712,UXDProtocol,@CryptoDanon https://t.co/6dTRFkYOPN,1,1,0,2022-04-10
+558,2022-04-16 06:37:38+00:00,1515217836477612032,UXDProtocol,You can now swap UXD/USDC with 1 bps trading fees! https://t.co/Cb3IDdAivG,47,4,3,2022-04-16
+559,2022-04-18 06:03:53+00:00,1515934121221971968,UXDProtocol,We will be in the Bahamas 🇧🇸 during the Solana Hacker House. We highly encourage our supporters to reach out to us when we are there! https://t.co/dHeNIa2iNe,58,1,4,2022-04-18
+560,2022-04-19 12:26:36+00:00,1516392823360172036,UXDProtocol,"$UXD is in there, take a look at the report! https://t.co/H36ynlaDhJ",28,1,5,2022-04-19
+561,2022-04-20 03:33:42+00:00,1516621102008598528,UXDProtocol,"$UXD now has the most liquidity among stable pairs on @Saber_HQ!
+#saberwars
+https://t.co/lEdgYgtIbh https://t.co/g1KeXkghwx",77,9,16,2022-04-20
+567,2022-04-21 21:09:51+00:00,1517249276585283584,UXDProtocol,"There’s a lot of yield to catch in our new isolated pool :) 
+https://t.co/B2JwJBL6LI https://t.co/dF363bq4S5",29,1,7,2022-04-21
+575,2022-04-25 13:50:15+00:00,1518588198338891776,UXDProtocol,UXD has deposited $2M to Maple to earn yield for our insurance fund! https://t.co/KJaS7gZWNs,47,1,4,2022-04-25
+578,2022-04-26 17:06:19+00:00,1518999929229819909,UXDProtocol,@0xElude Good morning Elude,1,0,0,2022-04-26
+585,2022-04-27 20:58:49+00:00,1519420826566725633,UXDProtocol,"DJ NYUSZI will play all day!
+We will also have free shuttle busses from start to finish! https://t.co/u1uwPckVs3 https://t.co/hjgLSnBXB5",17,1,4,2022-04-27
+586,2022-04-29 16:46:18+00:00,1520082054389641216,UXDProtocol,"Party starts at 4PM today til midnight!
+There will be shuttle busses from Bahamar Grand Hyatt to Nirvana Beach Bar(Roundtrip) https://t.co/S2hUHtSU33",35,0,11,2022-04-29
+587,2022-05-04 17:18:32+00:00,1521902106537517057,UXDProtocol,@marginfi @01_exchange @abas_finance @bridgesplit @BurntFinance @cypher_protocol @DriftProtocol @Katana_HQ @mangomarkets @PythNetwork @ProjectSerum @solendprotocol @ZetaMarkets 🥂,10,0,0,2022-05-04
+590,2022-05-06 19:36:00+00:00,1522661478863716354,UXDProtocol,"Up only.
+$UXD https://t.co/pJf15JDO1i",102,6,10,2022-05-06
+591,2022-05-09 05:39:37+00:00,1523538158507687938,UXDProtocol,This tbh https://t.co/gXksqbGjKT,35,2,1,2022-05-09
+592,2022-05-11 17:12:30+00:00,1524437305129373696,UXDProtocol,🫡 https://t.co/tq7L8peWWi,61,4,10,2022-05-11
+593,2022-05-13 13:17:08+00:00,1525102845288189954,UXDProtocol,"16/ A list of materials to understand $UXD in more detail.
+https://t.co/X4VcbglClf
+https://t.co/Sv0gwt07Xw",32,3,1,2022-05-13
+609,2022-05-15 13:41:02+00:00,1525833638847426562,UXDProtocol,"You can now see the % of staked UXP out of the circulating supply on the UXP Staking App.
+Every UXP that isn't in the Treasury counts towards the UXP circulating supply, including future liquidity mining rewards, staking rewards, and market liquidity.
+https://t.co/UhGlVHK3nU https://t.co/Leilq8LODn",42,1,6,2022-05-15
+610,2022-05-24 11:58:50+00:00,1529069407531679745,UXDProtocol,"We have conducted the second airdrop to early holders of UXD!
+UXD holders who were eligible for the first airdrop should have received UXP Gov tokens in their wallet. https://t.co/D2biBCojed https://t.co/YIeKUHnPrU",35,7,4,2022-05-24
+611,2022-05-25 13:14:43+00:00,1529450892038230016,UXDProtocol,Decentralized stablecoin protocol and continuous settlement protocol partnership! https://t.co/YsTQjlJ7pg,41,0,14,2022-05-25
+613,2022-06-10 12:28:14+00:00,1535237400988987392,UXDProtocol,Don’t forget to join the space❗️ https://t.co/bW82dnyUeI https://t.co/1geYbZCnCt,16,1,5,2022-06-10
+614,2022-06-17 19:45:54+00:00,1537884257317572608,UXDProtocol,"In celebration of @cega_fi mainnet launch on 6/23 🎉
+
+We are giving away this 1/1 UXD themed Cega Super Sanics NFT to a lucky individual 🍀
+
+To participate 
+1. Follow @cega_fi and @UXDProtocol 
+2. Like and RT this post
+3. Tag 2 people in the comments https://t.co/dBUbQbv63h",316,289,285,2022-06-17
+615,2022-06-18 16:27:41+00:00,1538196764980813824,UXDProtocol,Optimistic about the future https://t.co/jVGuM9596K,136,11,23,2022-06-18
+616,2022-06-26 15:46:12+00:00,1541085426038870017,UXDProtocol,More utility for UXD! https://t.co/C73nUpbowi,47,1,7,2022-06-26
+617,2022-06-29 22:21:12+00:00,1542271995450200071,UXDProtocol,"UXD Program v3.1.0, audited by @Sec3dev, has been deployed to Solana Mainnet Beta &amp; UXD Client v2.0.0 has been published.
+Please see release notes &amp; upgrade to UXD Client @^2.0.0 in order to interact with the UXD Program going forward.
+https://t.co/eEqhOBSkNs",29,5,7,2022-06-29
+618,2022-07-08 11:12:50+00:00,1545365284915380225,UXDProtocol,"6/ Take a look at the full report for a detailed analysis!
+https://t.co/8dKHPc0w7S",8,1,2,2022-07-08
+623,2022-07-12 15:38:07+00:00,1546881600217985024,UXDProtocol,"We are upgrading the UXP Staking Program from v1 to v2.
+The new version will enable UXP holders to vote for DAO proposals even while staking their UXP tokens!
+During the upgrade, stake/unstake actions will be unavailable.
+https://t.co/i0R6WaUl8Y",22,4,5,2022-07-12
+624,2022-07-14 15:59:13+00:00,1547611685833216000,UXDProtocol,https://t.co/A8KeaamOgN,66,4,13,2022-07-14
+625,2022-07-19 14:08:12+00:00,1549395685371674624,UXDProtocol,"1/ UXD Protocol is excited to release UXD OTC, a DEX that enables users to trade SOL&lt;&gt;USDC! 
+By integrating with @mangomarkets and @Saber_HQ  UXD/USDC pool, the trade will be routed through both protocols to swap between SOL and USDC.
+https://t.co/OXIhJOUzZt",64,2,11,2022-07-19
+627,2022-07-25 14:25:39+00:00,1551574406366842880,UXDProtocol,"5/ To learn more about how we think about FDV and why we have decided to make this proposal, read the article written by @0xdirac here.
+https://t.co/ANwLyPTOH7",18,0,3,2022-07-25
+632,2022-07-28 12:39:42+00:00,1552634902801162240,UXDProtocol,"One correction: UXD is not a CDP stablecoin since users who mint UXD do not take on debt. UXD is a stablecoin backed by a delta neutral position using perpetual futures, which enables stability with capital efficiency. https://t.co/VrOO20VSYD",20,2,2,2022-07-28
+633,2022-08-01 14:07:43+00:00,1554106606681526278,UXDProtocol,"The burn proposal have passed with the majority voting in favor of the burn!
+3 billion UXP tokens have been burned, and the total supply of UXP is now 7 billion.
+https://t.co/vT07cNVCom https://t.co/l8NOocEdki https://t.co/hcSZJ2gU8K",25,5,5,2022-08-01
+635,2022-08-06 14:42:38+00:00,1555927332350840832,UXDProtocol,Stable moon 🌙 https://t.co/VNrOfyJSHB,46,8,11,2022-08-06
+636,2022-08-12 16:05:30+00:00,1558122512403283973,UXDProtocol,👀 https://t.co/Ct9MasAdl8,81,8,12,2022-08-12
+637,2022-08-16 03:39:35+00:00,1559384351254761472,UXDProtocol,"UXD is now providing liquidity for SOL/UXD and UXD/USDC on @orca_so to enable traders to trade between assets with low slippage!
+Check it out here.
+https://t.co/EnVga8fc5d https://t.co/Jti93Wl5xY",73,12,13,2022-08-16
+638,2022-08-24 12:45:44+00:00,1562420893971664897,UXDProtocol,"@0xGeeGee @optimismFND @perpprotocol We are still internally discussing the mechanism for implementing UXP multichain, including various cross chain applications.",7,1,1,2022-08-24
+639,2022-08-30 11:15:44+00:00,1564572575124144128,UXDProtocol,"Due to declining open interest on @mangomarkets perpetual futures market, we have decided to reduce the maximum UXD circulating supply to 15M. Once UXD circulating supply is below 15M, we will enable minting again with a 15M UXD cap.",41,7,2,2022-08-30
+640,2022-08-31 21:17:02+00:00,1565086284527407108,UXDProtocol,"Due to a lot of requests, we now support @exodus_io wallet for https://t.co/uGe46aIbRq! https://t.co/uzEdbMLKbc",37,7,7,2022-08-31
+641,2022-09-03 15:38:14+00:00,1566088186207633409,UXDProtocol,Soon ♒️ x Δ https://t.co/KOChtHxIRW,259,27,39,2022-09-03
+643,2022-09-04 11:50:33+00:00,1566393272511221760,UXDProtocol,"We have engaged in a partnership with @sec3dev for monthly audits of the UXD codebase for Solana. 
+Safety first! https://t.co/4aSyRd8TRD",36,4,8,2022-09-04
+644,2022-09-08 15:23:44+00:00,1567896474398121985,UXDProtocol,"1/ We are excited to partner with @Credix_finance, a private credit market protocol which enables crypto protocols to gain access to real world credit opportunities!
+UXD Protocol will invest $1M from the insurance fund into the senior tranche of the assets. https://t.co/DLf65pra3z",54,3,6,2022-09-08
+646,2022-09-09 15:28:36+00:00,1568260089026314243,UXDProtocol,We are excited to partner with @CredoraPlatform and @maplefinance to gain exposure to institutional lending! https://t.co/3AhZygbeBw,26,2,9,2022-09-09
+649,2022-09-11 18:56:03+00:00,1569037068612804611,UXDProtocol,@goated2EZ @SeiNetwork https://t.co/FT7IR0nWuv,5,1,0,2022-09-11
+651,2022-09-15 21:11:45+00:00,1570520771973484544,UXDProtocol,"1/ UXD Protocol has conducted a survey of some of the leading blockchain interoperability solutions as a first step in evaluating potential cross-chain solutions that UXD may integrate with in the future. @0xdirac and @__euler__  lead the initiative. 
+https://t.co/41KIa9xCHX",60,1,16,2022-09-15
+654,2022-09-19 16:45:08+00:00,1571903226626146304,UXDProtocol,Team ♒️ https://t.co/vObtV10S6T,53,6,13,2022-09-19
+655,2022-09-21 11:39:39+00:00,1572551123202109441,UXDProtocol,"8/ Read the article for more detailed information regarding how the Asset Liability Management Module works and join our discord to ask questions and engage with the community!
+https://t.co/1uCMJBpHPq",12,3,2,2022-09-21
+664,2022-09-23 10:40:26+00:00,1573261000090046468,UXDProtocol,@go_marcgloor Note: UXD is not a algorithmic stablecoin. It is 100% backed by collateral.,6,1,0,2022-09-23

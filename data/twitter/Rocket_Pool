@@ -1,0 +1,283 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-08 03:00:08+00:00,1214743560202833921,Rocket_Pool,"@plgunther All deposits are broken up into chunks of 4 ETH in size and distributed around the networks decentralised nodes randomly to minimise risk. Also if a node operator does perform badly, the users on that node are compensated from the node operators 16 ETH deposit + more.",0,1,0,2020-01-08
+1,2020-01-21 03:35:15+00:00,1219463442895011840,Rocket_Pool,@zmann8531 @plgunther https://t.co/VnWwp35jlc,2,0,0,2020-01-21
+2,2020-02-06 10:37:37+00:00,1225367939785740288,Rocket_Pool,Our next dev update is out now! This one is the first of 2020 and is aimed mostly at the GUI for Rocket Pool node operators. Lots of pics and even a small video of the install. We also have a early version of our 2020 roadmap ahead!  https://t.co/PtAqZGVsA1 #ETHEREUM #staking,49,1,10,2020-02-06
+3,2020-02-12 06:02:28+00:00,1227473022895960066,Rocket_Pool,"@WestCoastWalka See at the end, we'll have an experimental release following the release of WSL2 in Windows :) Docker doesn't work very well in WSL1 which is currently available and we require it to run our stack. WSL2 should fix this!",1,1,0,2020-02-12
+4,2020-04-10 07:06:45+00:00,1248507695935545346,Rocket_Pool,"Latest dev update is hot off the press! Staking desktop GUI client previews and integration with our first beacon chain ETH2 client, Lightouse! https://t.co/g5tI7DOIGm #Ethereum #eth2 #staking",71,5,10,2020-04-10
+5,2020-04-18 04:29:54+00:00,1251367327725088770,Rocket_Pool,@0xcryptohippo First release will be for Linux and Mac :) Windows 10 will have an experimental release shortly after those.,3,1,0,2020-04-18
+6,2020-05-18 05:27:15+00:00,1262253395622064129,Rocket_Pool,"@FlorianLagg @pryamatic Not as yet, we will have another public beta in the future that will allow you to test fully integrated ETH2 #prysm with a smart node though using #docker :)",1,1,0,2020-05-18
+8,2020-05-29 06:07:43+00:00,1266249845074833413,Rocket_Pool,"We're very happy to announce Rocket Pool 2.5 - Tokenised Staking Deposits, Continuous Staking, Extra Deposit Safety and updated RPL tokenomics. Many big improvements to decentralised staking in ETH2 coming soon. https://t.co/KwW6JBeMsY #ETH #staking",214,13,54,2020-05-29
+9,2020-06-04 11:04:34+00:00,1268498876819894272,Rocket_Pool,@RPLnode It's actually 0.01 ETH ;),17,2,1,2020-06-04
+10,2020-07-29 23:03:13+00:00,1288611063781441541,Rocket_Pool,@CHalexov2016 We're on the tail end of finishing our big changes in the latest 2.5 update and we will begin turning our attention to the Medalla testnet in the coming weeks :) https://t.co/zbgAZvRRLt,7,0,1,2020-07-29
+11,2020-08-04 10:52:35+00:00,1290601523144036355,Rocket_Pool,"@rollin_scott Jump into our Discord, it's non stop chatter in there :) Also https://t.co/IXZkp2ZDxy :)",2,0,1,2020-08-04
+12,2020-08-07 04:40:34+00:00,1291595063596736512,Rocket_Pool,"@HCQwoke Hey @HCQwoke! We'll be having a public beta where you can try everything out in the near future, keep an eye on our twitter for updates :)",1,0,0,2020-08-07
+13,2020-08-09 07:25:42+00:00,1292361397846732800,Rocket_Pool,"@Diaboli_Advocat We're very much active atm, join the Discord for the main chats :) Also https://t.co/IXZkp2ZDxy",5,0,1,2020-08-09
+14,2020-08-13 03:50:29+00:00,1293756786357366786,Rocket_Pool,"Latest dev update is hot off the presses! Medalla Beta Soon, v2.5 Tokenised Staking Changes and More. Read all about it here - https://t.co/VitJSsmreu
+
+#ETH #Ethereum #staking #rocketpool",54,2,15,2020-08-13
+15,2020-08-24 04:13:13+00:00,1297748772751958018,Rocket_Pool,@VitalikButerin We'd love to have this conversation and think it would be a huge improvement for ETH2 and decentralisation. Would be happy to help take the lead on driving it and make it a reality if it can be done for Phase 0.,46,1,8,2020-08-24
+16,2020-08-29 07:15:30+00:00,1299606585644167168,Rocket_Pool,@nomos_paradox @Cryptohorse2 @scupytrooples @MakerDAO @iearnfinance Hey Nik! Node Operators get to stake their own ETH fee free and it requires just 16ETH (not 32) to do so. We then match the node operator with another 16ETH from users who receive rETH. This means they are economically bonded to behave or they suffer just as much as the network.,13,1,0,2020-08-29
+17,2020-09-08 11:34:18+00:00,1303295593767337986,Rocket_Pool,"@CHalexov2016 We'll have an update about our next beta soon along with a guide to get everyone up and going. If you want to run a smart node, we'd recommend min 2GB RAM, relatively ok CPU and an SSD drive for storage :)",4,2,0,2020-09-08
+18,2020-09-22 05:28:57+00:00,1308277080702947328,Rocket_Pool,"We’re proud to announce that the Rocket Pool 2.5 Medalla Rolling Beta will be starting on the 6th October, 2020 00:00 UTC. It introduces the concept of tokenised staking with rETH on ETH2. Looking forward to seeing you all there! https://t.co/KN3joaNFjD #Ethereum  #staking",160,13,43,2020-09-22
+20,2020-10-02 00:57:45+00:00,1311832712450203648,Rocket_Pool,Fire up those nodes and get ready to do some decentralised ETH2 staking with Rocket Pool! Beta starts in a few days and all the guides on how to get setup for it are now available here https://t.co/rP0ShUCCxi #Ethereum #ETH2 #staking,144,5,52,2020-10-02
+21,2020-10-05 05:32:42+00:00,1312989068792274945,Rocket_Pool,Rocket Pool 2.5 beta begins in under 24hrs! Want to experience hassle free tokenised staking with rETH? want to run a smart node in the network? Well start reading the beta guides now so you can dive right in tomorrow. https://t.co/rP0ShUCCxi #Ethereum #ETH2 #staking,118,5,37,2020-10-05
+22,2020-10-06 01:32:10+00:00,1313290923250388998,Rocket_Pool,"@eth_steve Yeah the server is getting the beta ""hug of death"", we're working on it! :)",2,2,0,2020-10-06
+25,2020-12-01 07:34:25+00:00,1333675805797347329,Rocket_Pool,"2/ Rocket Pool differentiates itself from Staking as a Service providers through Decentralisation and Trustlessness.
+
+Phase 0 doesn’t support withdrawals to smart contract addresses, meaning projects must utilise a centralised custodian to control validator withdrawal keys.",16,1,0,2020-12-01
+29,2021-01-22 06:11:34+00:00,1352499126370324480,Rocket_Pool,"Running a node only requires a minimum of 16 ETH per validator vs 32 ETH outside of Rocket Pool.
+
+Deposit 16 ETH to be assigned 16 ETH from users who are depositing ETH for rETH.
+
+This allows node operators to put more of their ETH to work and earn additional staking rewards! https://t.co/2fYlwokTTB",15,2,0,2021-01-22
+32,2021-02-18 05:01:25+00:00,1362265943183790080,Rocket_Pool,"Showcasing Part 2 of the Rocket Pool explainer series!
+
+Dive into the Protocol and Trusted Node DAOs as we break down the key components of $RPL governance 🚀
+
+We're always looking for Trusted Node members, so read on to learn how to get involved!
+https://t.co/yg6v4Zccwb",74,2,26,2021-02-18
+36,2021-03-08 01:54:26+00:00,1368741870612881408,Rocket_Pool,User Logic_Beach from our amazing community Discord made a great video on our first article from the current Rocket Pool explainer series. Be sure to give it a watch https://t.co/dBkKJjvQUy #rocketpool #staking #Ethereum,54,1,14,2021-03-08
+37,2021-03-12 03:50:34+00:00,1370220646869790728,Rocket_Pool,Starting 18th March is the launch of Rocket Pools final testnet beta. Featuring new tokenomics that makes staking as a node operator in ETH2 unlike anything else to date. Support for smart contract withdrawals and all ETH2 clients included! https://t.co/ZWE7WNHoZf,198,8,48,2021-03-12
+38,2021-04-13 07:09:27+00:00,1381867111723622403,Rocket_Pool,"RPL will migrate to a new V2 token.
+
+This allows Rocket Pool to introduce native inflation to incentivize node operators and fund future development.
+
+The 5% pa issuance is split as follows:
+
+- Node Operators (70%)
+- Oracle DAO (15%)
+- Protocol DAO (15%)
+
+Here's why 🚀",18,1,1,2021-04-13
+44,2021-04-19 00:09:10+00:00,1383935670054395909,Rocket_Pool,"For the first time in over 3 years, Rocket Pool is hiring! We are looking to expand the team with some new top guns. Current looking for talent in these roles:
+
+Senior Smart Contract Engineer - https://t.co/ctUD8teCzv
+
+Senior Golang Blockchain Engineer - https://t.co/Amzr8f1xpb",80,2,17,2021-04-19
+45,2021-06-15 06:46:11+00:00,1404691691894870016,Rocket_Pool,"Our latest development is hot off the press! It's a chunky one, we introduce new core team members, go over audit results, plans for a new long lived testnet on Prater and our 0x02 ETH2 proposal to help decentralisation after the merge! https://t.co/OUTdASFCtS
+#eth2 #staking",112,4,28,2021-06-15
+46,2021-08-11 06:55:47+00:00,1425350212881580032,Rocket_Pool,"What an amazing first week of our official Rocket Pool testnet. So far we've seen over 10,100 ETH staked on over 240 node operators across 58 timezones! That also includes over 2,350 deposits by users doing liquid staking with our rETH token! https://t.co/HUPrsHg1sz #ethereum https://t.co/7VlS8YdKux",116,6,26,2021-08-11
+47,2021-09-13 01:22:32+00:00,1437225148399063040,Rocket_Pool,"Rocket Pool just launched a bug bounty program on @immunefi!
+
+Learn more: https://t.co/TWJhbOLVWj #DeFi #RocketPool",98,3,24,2021-09-13
+48,2021-10-04 05:33:29+00:00,1444898446117269510,Rocket_Pool,"Rocket Pool is launching very soon! Join the @ethStaker  crew in Rocket Pool launch celebrations! 
+
+https://t.co/0z5bMLL4L9
+
+POAP painting party:
+Tuesday, October 5th 23:00 UTC
+
+Launch livestream:
+Tuesday, October 5th 23:30 UTC
+
+Enjoy the fun!",149,14,28,2021-10-04
+49,2021-10-05 23:47:46+00:00,1445536222881857545,Rocket_Pool,"1/ Yesterday our bug bounty program helped discover an exploit that also affected other staking providers, as a result we are postponing launch to implement a fix.
+
+We would like to extend our warmest thanks to @tsudmi  for raising the exploit.",199,8,36,2021-10-05
+53,2021-10-08 02:25:32+00:00,1446300700661583876,Rocket_Pool,"Internal testing of our proof of concept fix for the raised exploit will begin next week. We have been in close communication with our auditors @sigp_io who will be confirming the fix from 18th Oct.
+
+We will make sure our awesome community are kept up to date as things develop.",136,10,21,2021-10-08
+54,2021-11-08 06:00:19+00:00,1457588777212207107,Rocket_Pool,"Less than 18 hours to go until stage 1 of the Rocket Pool launch kicks off! Excited much? 
+
+Come check out our Discord for further information and see us on the @ethStaker Launch Livestream.
+https://t.co/Z1GX8wgCrr",196,7,34,2021-11-08
+55,2021-11-09 02:09:22+00:00,1457893042367582209,Rocket_Pool,"We are live!! In just two hours, 94 nodes across 28 time-zones have registered. Our stage 1 target of 15 minipools has been hit. Stage 2 kicks off 10 Nov 00:00 UTC. A big thank you to our community! Looking forward to welcoming you all to decentralised Ethereum pool staking.",706,37,130,2021-11-09
+56,2021-11-10 01:31:57+00:00,1458246013773234177,Rocket_Pool,"Wow! Minipool slots in stage two of the Rocket Pool launch maxed out in less than a minute! 
+For those who missed out, stage 3 will kick off on 15 Nov 00:00 UTC.
+The rETH deposit pool limit has increased so liquid staking is available... for now.",205,18,34,2021-11-10
+57,2021-11-23 01:46:58+00:00,1462960837379780615,Rocket_Pool,"Want an official reference to the Rocket Pool tokens, we have you covered! How to upgrade RPL? Where can I get Rocket Pool rETH?
+
+Find out more:
+https://t.co/x22SSLZGoO",233,125,50,2021-11-23
+59,2021-12-01 00:36:12+00:00,1465842129523986436,Rocket_Pool,"Continuing our commitment to responsible MEV, we are joining the Flashbots Eth2 Working Group as a founding member. How we deal with MEV is an important challenge facing the staking community, it must align with Ethereum's ideals.
+
+https://t.co/ffDZoDx5u0",139,5,16,2021-12-01
+61,2021-12-03 06:41:44+00:00,1466658897230323715,Rocket_Pool,"To our fantastic node operators!
+
+This is a reminder to update your mainnet smartnode stack to v1.1.0 before December 5th to be compatible with the Arrow Glacier network upgrade.
+
+Upgrading is super simple: https://t.co/Yastel3dHg",70,3,14,2021-12-03
+62,2021-12-23 07:16:41+00:00,1473915446180995073,Rocket_Pool,"Our rETH/WETH @BalancerLabs MetaStable pool is now live.
+Great for LPs - provide liquidity without adjusting your position!
+Great for stakers - access decentralised Ethereum staking with lower fees and reduced slippage!
+https://t.co/zK9QLOE9h7",127,15,26,2021-12-23
+63,2021-12-30 04:49:26+00:00,1476415104790892546,Rocket_Pool,"Want to use our liquid staking token rETH as collateral for borrowing stable coins on @MIM_Spell? 
+
+Our RFC is open, so show your support here:
+https://t.co/JHqlVjJ9qn",153,4,23,2021-12-30
+64,2021-12-31 22:40:01+00:00,1477046917204897792,Rocket_Pool,"Wow, 2021 was an amazing and exciting year for Rocket Pool.
+
+We have just started our mainnet journey but already we can see 2022 is going to be BIG!
+
+Rocket Pool launched fully on 22nd November 2021.
+
+Here's what happened next and why we are excited about the future of staking..",220,14,54,2021-12-31
+71,2022-01-19 00:37:54+00:00,1483599562141204482,Rocket_Pool,"Wow! What a busy two weeks:
+- rETH supply has grown 8.69% (226% annualised)
+- Node operator count has grown 8.95% (229% annualised)
+- Minipool count has grown 8.98% (233% annualised)
+- Effective RPL staked has grown 9.21% (240% annualised)",256,12,41,2022-01-19
+72,2022-01-27 05:26:44+00:00,1486571354480525314,Rocket_Pool,"Holding RPL? Want to earn liquidity provider fees but don't want to split your stack?
+
+Our @Bancor single-sided exposure pool is now live for RPLv2!
+
+Provide RPL liquidity, earn fees, with impermanent loss protection.
+https://t.co/Bf3Gl63AYr",80,10,9,2022-01-27
+73,2022-02-01 05:48:24+00:00,1488388747087708160,Rocket_Pool,"A proposal to whitelist rETH for @Bancor single-sided IL protected liquidity will be available to vote soon. 
+
+A successful vote allows liquidity providers to earn beacon chain rewards on their full amount while collecting trading fees:
+https://t.co/EZGTLEsNB3",100,0,13,2022-02-01
+74,2022-02-06 23:46:35+00:00,1490472018550353920,Rocket_Pool,"Voting has started on whitelisting rETH on @Bancor !
+
+A successful vote allows liquidity providers to earn beacon chain rewards on their full amount while collecting trading fees:
+https://t.co/mzsszZSSOd",108,1,26,2022-02-06
+75,2022-02-08 00:23:44+00:00,1490843757432160257,Rocket_Pool,"Our @BalancerLabs rETH pool now has BAL incentives!
+Become an rETH liquidity provider: earn trading fees and BAL incentives, while you stake your ETH.
+
+https://t.co/zK9QLOn6f7 https://t.co/9KVA4WnL2o",71,2,15,2022-02-08
+76,2022-02-10 23:59:55+00:00,1491924925464330241,Rocket_Pool,"Holding rETH? Sure, beacon chain rewards are great but why not also earn some trading fees providing liquidity?
+
+Our rETH @Bancor single-sided exposure pool with progressive IL protection is live!
+
+Find out more:
+https://t.co/uMdeeP2FFb https://t.co/G7twcxJyw8",127,13,24,2022-02-10
+77,2022-02-14 03:08:24+00:00,1493059522474409986,Rocket_Pool,"Together with our community we are hosting a regular Twitter space. Come along and find out more about Rocket Pool!
+https://t.co/Xaxqtzh2VX",72,3,18,2022-02-14
+78,2022-02-16 23:51:52+00:00,1494097226557059072,Rocket_Pool,"Rocket Pool is doing its bit for the the cause. We now have over 800 individual node operators and are closing in on 1% of all Ethereum validators.
+
+Make Ethereum decentralised again! https://t.co/cJaLBVqrxE",303,4,38,2022-02-16
+79,2022-02-21 01:30:13+00:00,1495571529819901954,Rocket_Pool,"Rocket Pool is now running 1% of Ethereum's validators!! It has been a crazy 3 months, a massive thank you to all our fantastic node operators and rETH holders.
+
+This is a huge win for decentralisation, and just the beginning!
+
+No sleep till 10%! Come join the movement! https://t.co/jgo44EtkQH",384,15,73,2022-02-21
+81,2022-02-25 06:29:51+00:00,1497096484642197505,Rocket_Pool,"Thank you for the kind words, Konstantin (@allnodes).
+https://t.co/BZrPunDlNy",82,0,11,2022-02-25
+82,2022-02-28 02:16:12+00:00,1498119814363041792,Rocket_Pool,"Another day, another fantastic milestone for @Rocket_Pool! 
+
+Over 100K ETH staked! https://t.co/1fZ7YpW2ft",275,15,33,2022-02-28
+84,2022-03-10 00:43:17+00:00,1501720312685424641,Rocket_Pool,This is what a decentralised staking pool looks like 🚀 https://t.co/X9Ollqz4Te,305,19,50,2022-03-10
+86,2022-03-11 06:00:13+00:00,1502162459984994309,Rocket_Pool,"There is strong community support to change the commission rate to a flat 15% for all new minipools (currently maxed out at 20%).
+
+https://t.co/Qi5lNsyJS6
+
+Unless there is any significant disagreement we will apply this change on 23rd March 2022 00:00 UTC.",64,3,2,2022-03-11
+88,2022-03-14 06:56:43+00:00,1503263839537688583,Rocket_Pool,"Fun fact: Rocket Pool deployed 7.4% of all new Ethereum validators, since its launch.
+
+Fact credit: @shtimseht 
+Chart credit: https://t.co/DNmNIqUl3I https://t.co/4NuKr9SiSq",176,4,19,2022-03-14
+89,2022-03-15 05:28:51+00:00,1503604116110544899,Rocket_Pool,"Our new node operator page is now live!!
+https://t.co/DQTCuPw97z
+
+Interested in becoming a node operator? Want to know how much you can earn? What are the costs? We have you covered.
+
+With The Merge coming, it has never been a better time to become a node operator. https://t.co/47NiTD0rfl",159,4,33,2022-03-15
+90,2022-03-16 07:05:47+00:00,1503990897423568896,Rocket_Pool,"Our Kiln infrastructure is setup we will start testing post-merge @Rocket_Pool very soon, exciting times!
+
+#TestingTheMerge #kilningit https://t.co/x0CdIh0N9g",230,11,35,2022-03-16
+91,2022-03-23 06:35:22+00:00,1506519957986758659,Rocket_Pool,"The Rocket Pool node commission fee is now a fixed 15%. 
+
+Node operators earn 15% commission on the ETH reward they generate for the protocol - simple! https://t.co/kns7NcVKCC",219,11,30,2022-03-23
+92,2022-05-03 22:57:34+00:00,1521625039229317121,Rocket_Pool,https://t.co/QtJNACUlvu,94,2,18,2022-05-03
+93,2022-05-10 04:11:32+00:00,1523878378142507008,Rocket_Pool,"Inline with our dedication to security we have increased our @immunefi bug bounty. 
+
+This is just the start, we will progressively increase the bounty over time.
+
+https://t.co/TWJhbOLVWj",47,0,7,2022-05-10
+94,2022-05-11 01:44:44+00:00,1524203821597044736,Rocket_Pool,"Want to know the best place to stake your ETH?
+
+Check out Ethereum's staking overview:
+https://t.co/bFr0WegqLS https://t.co/RgtEoXvs4T",134,4,23,2022-05-11
+95,2022-06-17 00:17:58+00:00,1537590339250589702,Rocket_Pool,"This is a massive milestone for $rETH and @Rocket_Pool!
+
+We would just like to thank $MKR holders for their dedication to the future of @MakerDAO and Ethereum. 
+
+$rETH is the only truly decentralised/permissionless liquid staking token.
+
+https://t.co/JoeD4b4MpD",443,9,78,2022-06-17
+97,2022-06-20 01:07:29+00:00,1538689962706538496,Rocket_Pool,"We have just surpassed 6,000 minipools! A fantastic achievement. 
+
+A big thank you to our 1,248 node operators 🙏 https://t.co/aJ5O0qkSXe",214,7,28,2022-06-20
+98,2022-06-27 22:30:32+00:00,1541549567472472064,Rocket_Pool,Love your work @BanklessHQ https://t.co/58l5mfNC6f,130,1,13,2022-06-27
+99,2022-06-28 05:06:05+00:00,1541649112537260033,Rocket_Pool,"The Merge is close.
+
+Rocket Pool's next release ""Redstone"" is an exciting new chapter.
+
+Read all about it:
+https://t.co/s22MpE5ynp
+#TheMerge",174,2,33,2022-06-28
+100,2022-07-05 01:19:24+00:00,1544128779270123520,Rocket_Pool,"Another great milestone! 
+
+200K ETH staked! 
+
+A big thank you to our 1,283 node operators and rETH holders. Wen 1 mil? https://t.co/0Ks5qYHtV7",338,13,42,2022-07-05
+101,2022-07-18 23:32:00+00:00,1549175183352958976,Rocket_Pool,"Fantastic article about our research and development pipeline. 
+
+It is still early days and there is a lot of design to get through, but we are confident that these advancements will take @rocket_pool to the next level.  
+
+https://t.co/WrHuLttjkl",145,3,34,2022-07-18
+102,2022-07-19 05:58:01+00:00,1549272325039988738,Rocket_Pool,"Rocket Pool's founder &amp; CTO has been building towards The Merge for over 6 years now.
+
+Join our next Twitter Spaces Community Call at midnight UTC Wednesday 20 July to hear Dave talk about the exciting lead-up to one of crypto's most anticipated events!
+
+https://t.co/VS7vmua54D",69,4,12,2022-07-19
+104,2022-07-21 08:33:21+00:00,1550036195643899905,Rocket_Pool,"There's so much going on that our bi-weekly updates are now too big for Discord - check out the latest edition on Reddit: https://t.co/9w76YUvi3Y
+
+Then join the team for a Discord AMA at midnight UTC on 22 July to discuss the Redstone protocol upgrade: https://t.co/cqGhAkGNU6",38,8,8,2022-07-21
+105,2022-07-27 06:25:55+00:00,1552178452630888448,Rocket_Pool,"Our Redstone protocol enhancement brings powerful new features for node operators! It's important that all @rocket_pool node operators complete this upgrade to be ready for The Merge.
+
+Check out our helpful timeline and guide to be ready!
+
+https://t.co/C7aQ5lleI2",108,22,33,2022-07-27
+106,2022-07-29 08:01:35+00:00,1552927302513659905,Rocket_Pool,"Rocket Pool Smartnode v1.5.0 is now live, featuring Redstone support &amp; heaps of other improvements!
+
+Mainnet Node Operators must upgrade before 29 August, &amp; testnet operators before Goerli/Prater merge in the 2nd week of August
+
+Find out more on Medium: https://t.co/C7aQ5lleI2",77,14,16,2022-07-29
+107,2022-08-05 00:15:50+00:00,1555346806263156736,Rocket_Pool,"We're excited to further develop the Rocket Pool governance process with our amazing community.
+
+The Governance Delegate Profile website is coming soon for testnet (beta) node operators!
+
+Check out the Medium article at the link below for more details:
+
+https://t.co/bvgyneCasU",56,9,11,2022-08-05
+108,2022-08-22 23:29:58+00:00,1561858245081563136,Rocket_Pool,"Missed catching up with the latest protocol news during our Community Call Twitter Space last week?
+Check out the new Rocket Pool YouTube channel where you can listen to recordings uploaded just a few hours after the live events:
+https://t.co/IiFqSyuPSj",25,3,1,2022-08-22
+110,2022-08-23 23:00:08+00:00,1562213124760997889,Rocket_Pool,"This week's Community Call will be a bit of a change from our regular scheduled programming
+Join our freshly remodelled Discord in one hour from now (midnight UTC) to hear some of the Rocket Pool community experts share their thoughts on the protocol
+https://t.co/cqGhAkXQW6",21,4,3,2022-08-23
+111,2022-08-24 01:44:38+00:00,1562254523875606532,Rocket_Pool,"The Merge will enable Rocket Pool minipool operators to generate additional returns by capturing MEV.
+Flashbots' MEV-Boost will be disabled by default, but node operators can use it if they wish.
+Relay choice will also be possible once multiple relay options become available.",210,20,31,2022-08-24
+112,2022-08-25 06:30:45+00:00,1562688914250313728,Rocket_Pool,"The @rocket_pool Smartnode stack is now ready for #TheMerge!
+
+This is a high-priority update for all node operators:
+➡️If you are still on v1.4.x please upgrade before the Redstone release on 29th Aug
+➡️Everyone else must upgrade by 6th Sep ready for the Bellatrix hardfork https://t.co/1dcTfIoewn",61,1,12,2022-08-25
+113,2022-08-26 04:17:40+00:00,1563017812582363138,Rocket_Pool,"All three governance proposals have now passed with voting strongly in favour: 99%, 98%, 99%
+
+The creation of a pDAO liquidity incentive budget &amp; committee to oversee deployment is the start of an exciting new chapter in Rocket Pool's vision for sustainable &amp; decentralised growth",113,14,13,2022-08-26
+114,2022-08-27 12:00:00+00:00,1563496551304949762,Rocket_Pool,"🚨Attention all Rocket Pool minipool operators!
+Please remember to claim all of your $RPL rewards before 29 August at midnight UTC (36hr from now), if you haven't done so already
+Once our Redstone protocol upgrade goes live on mainnet, all unclaimed rewards will be lost",93,6,27,2022-08-27
+115,2022-08-28 00:00:01+00:00,1563677746118774786,Rocket_Pool,"Just 24 hours to go until our Redstone protocol upgrade will be deployed on mainnet
+To celebrate, we'll be hosting a launch party live on YouTube, 29 Aug @ midnight UTC
+Join to learn more about Redstone &amp; how Rocket Pool is preparing for #TheMerge!
+https://t.co/Vo6c9MnDaU",71,5,14,2022-08-28
+117,2022-08-29 00:59:36+00:00,1564055132316516352,Rocket_Pool,"🚀Redstone is live on mainnet!
+🎉Rocket Pool is Merge-ready!
+https://t.co/s22MpEnHBx",226,45,39,2022-08-29
+118,2022-08-31 07:55:47+00:00,1564884644205498368,Rocket_Pool,"The merge is rapidly approaching, so we've decided to have a bit of fun over the next 2 weeks. Inspired by @superphiz recent #stakefromhome campaign and our motto that ""anyone can be a node operator"", we've launched a competition https://t.co/ZktcmPVo9y win a POAP and RPL!",135,5,38,2022-08-31
+119,2022-09-01 08:10:55+00:00,1565250838800437249,Rocket_Pool,"Many RP nodes are experiencing high CPU usage after the recent RPL rewards period
+We have identified the cause and are preparing an update to resolve this
+Please follow the steps listed below until we release the update
+Your CPU will return to normal shortly
+(1/2)",62,1,8,2022-09-01
+122,2022-09-02 03:58:27+00:00,1565549690342768640,Rocket_Pool,"The ""Rocket Fuel"" $WETH / $rETH pool is live on @beethoven_x &amp; the first tranche of planned rewards is now available
+Check out the link below for more details on how you can earn $BAL tokens by participating in this @optimismFND liquidity pool
+https://t.co/zOXQgyrAel",58,5,11,2022-09-02
+123,2022-09-12 04:35:17+00:00,1569182840499085313,Rocket_Pool,"Rocket Pool is committed to providing as much choice as possible for minipool operators, to ensure the diversification &amp; decentralisation of Ethereum.
+We have now integrated @bloXrouteLabs MEV-Boost relay options, in addition to Flashbots.",172,7,31,2022-09-12
+124,2022-09-14 04:58:32+00:00,1569913465443082240,Rocket_Pool,"We appreciate everyone who has devoted their time to Ethereum's Decentralised Staking Protocol this year
+A big thank you to all @Rocket_Pool GitHub contributors, &amp; of course to our friends at @gitpoap too! https://t.co/WWUqOvTR38",85,13,10,2022-09-14

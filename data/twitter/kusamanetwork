@@ -1,0 +1,750 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-06 10:30:44+00:00,1214132183599898625,kusamanetwork,@HashQuark When was the last time you did something #remarkable on https://t.co/hVEvF1e6zG? https://t.co/ya3EchCHGK,3,0,1,2020-01-06
+2,2020-01-08 22:06:01+00:00,1215031930275717126,kusamanetwork,"Calling all validators: 
+
+If you haven’t already, make sure to upgrade to v0.7.15 ASAP! https://t.co/xtajMO4qbq",20,0,6,2020-01-08
+3,2020-01-12 22:01:13+00:00,1216480277352022016,kusamanetwork,"Kusama is fully finalized! 
+
+Thank you to all our validators for helping Kusama though this chapter of chaos! https://t.co/8rF6hXXPkQ",55,2,13,2020-01-12
+4,2020-01-13 16:38:45+00:00,1216761514138439680,kusamanetwork,"The added bonus of being the wild cousin is, I get XCMP first. 
+
+https://t.co/t3qR6b25aO https://t.co/teXp11B8YE",20,1,2,2020-01-13
+6,2020-01-14 13:17:10+00:00,1217073169632309248,kusamanetwork,"𝚜𝚛𝚝𝚘𝚘𝚕 got smarter!
+
+New runtime proposal coming soon. Make sure to use 𝚜𝚛𝚝𝚘𝚘𝚕 to check it out! https://t.co/euBxysoKv4",4,0,1,2020-01-14
+7,2020-01-15 16:31:46+00:00,1217484531143520259,kusamanetwork,I don't have a safe word https://t.co/0SRYnkDxZK,29,1,6,2020-01-15
+8,2020-01-16 14:19:45+00:00,1217813696984031232,kusamanetwork,"Introducing #KusaMEME! A Twitter meme competition, giving away 2,500 $KSM, inviting the community to hack kusama's brand. Submissions must be tweeted between now and Jan. 23 and tag #KusaMEME &amp; @kusamanetwork.
+
+Build it. Break it. Hack it.
+
+For more info: https://t.co/hrdly0SjTX https://t.co/yvS3OURECu",104,124,81,2020-01-16
+11,2020-01-19 15:45:30+00:00,1218922438022651906,kusamanetwork,"Kusama v0.7.18 has been released!
+
+• Fixes a performance regression introduced by a networking update.
+• Native for runtime 1041.
+
+Note: v0.7.18 is needed for continuing to validate after the recent upgrade at block #693,487.
+
+https://t.co/BtqASnKCEY https://t.co/HdEUtwicIM",25,0,5,2020-01-19
+12,2020-01-20 14:10:09+00:00,1219260828949655553,kusamanetwork,I've got that: https://t.co/THGVC1UUZx https://t.co/WHGTHBcBqt,42,1,11,2020-01-20
+16,2020-01-29 15:53:07+00:00,1222548234352168960,kusamanetwork,"Less than 24 hours to submit your final memes for #KusaMEME. Tomorrow at 3pmCET @POSBakerz, @stakedotfish, @StakingFac, @purestakeco, @CryptiumLabs, and @staked_us will begin judging! https://t.co/zhfKQ6HYCU",15,3,6,2020-01-29
+17,2020-01-30 18:24:50+00:00,1222948801591369728,kusamanetwork,"For the devs who (grudgingly) code JS or (happily) code TS, the 𝚙𝚘𝚕𝚔𝚊𝚍𝚘𝚝/𝚊𝚙𝚒 1.0 version has landed - https://t.co/53JwaU4atH",14,0,6,2020-01-30
+18,2020-01-31 17:59:08+00:00,1223304720925757440,kusamanetwork,"In @BillLaboon's previous workshop, he discussed the basics of programmatically interacting with @polkadotnetwork and Kusama via the Polkadot API. Join him next Tuesday to build on that foundation and create a more complicated application. 
+https://t.co/7oAiHhdwCF",15,0,7,2020-01-31
+19,2020-02-03 13:06:45+00:00,1224318305193938947,kusamanetwork,"UPDATE: A runtime upgrade has resulted in some nodes producing invalid blocks due to native-only optimizations. To ensure your node continues on the correct chain, please restart your node with --𝚎𝚡𝚎𝚌𝚞𝚝𝚒𝚘𝚗=𝚠𝚊𝚜𝚖 --𝚠𝚊𝚜𝚖-𝚎𝚡𝚎𝚌𝚞𝚝𝚒𝚘𝚗=𝙲𝚘𝚖𝚙𝚒𝚕𝚎𝚍 flags. https://t.co/P7C4Jo4f8v",17,1,7,2020-02-03
+22,2020-02-04 19:23:48+00:00,1224775581230862341,kusamanetwork,We have learned there is a fake “Kusama Network” account on Medium with a blog post titled: “DOT airdrop for Kusama stakeholders.” Do not follow the instructions in this blog; it is not an official Kusama account.,27,1,14,2020-02-04
+25,2020-02-07 12:00:07+00:00,1225751087598141441,kusamanetwork,"Introducing Kusama’s Thousand Validator Programme! 
+
+• Receive nominations from @web3foundation and @ParityTech 
+• Work your way up the leaderboard and gain even more support 
+• Get Kusama swag 
+• soɐɥɔ ʇɔǝdxǝ
+
+Read more and apply: https://t.co/ok0XLSI7lN",127,21,71,2020-02-07
+26,2020-02-10 11:22:01+00:00,1226828664429535232,kusamanetwork,"Join @BillLaboon in Zug, Feb. 27 for a meetup about me and my more stable cousin. 
+
+Learn about:
+• The differences between Polkadot’s mainnet, Kusama, and Westend.
+• XCMP
+• What is SPREE?
+• What's the current governance structure in Kusama?
+• How can I participate in Kusama? https://t.co/fzAMxLm1nG",18,0,5,2020-02-10
+27,2020-02-11 13:55:58+00:00,1227229795559378944,kusamanetwork,"Join the chaos in Kusama's official Telegram: https://t.co/OXhe2gDKdj
+
+N̷o̷ ̵p̶r̶o̵m̷i̸s̸e̶s̷. https://t.co/VLyyGuHPyy",39,0,9,2020-02-11
+28,2020-02-14 16:16:26+00:00,1228352309689831426,kusamanetwork,"In Kusama, it is possible to set your on-chain identity and have it verified off-chain. These verified accounts benefit validators, council members and dapps requiring validated users. Join @bitfalls next Friday for a deep dive into the identity system!
+https://t.co/9AAi6muwrf",18,1,5,2020-02-14
+29,2020-02-19 11:31:01+00:00,1230092418432761856,kusamanetwork,Welcome to the chaos Karura network [@AcalaNetwork]. I see your unaudited and experimental release and raise you no promises. https://t.co/wOYem7Yb7R,19,1,2,2020-02-19
+31,2020-02-20 14:01:08+00:00,1230492587175415809,kusamanetwork,"Next Thursday to revive the Web3 Zug meetup, @BillLaboon will discuss what's been happening in Kusama.
+
+Learn about:
+• The current governance structure
+• How to participate
+• What are the differences between @polkadotnetwork, Kusama &amp; Westend.
+
+RSVP: https://t.co/gDUtCdGaf6",17,1,5,2020-02-20
+32,2020-02-21 08:01:06+00:00,1230764370155540481,kusamanetwork,"In Kusama, it is possible to set your on-chain identity and have it verified off-chain. These verified accounts benefit validators, council members and dapps requiring validated users. Join @bitfalls today for a deep dive into the identity system!
+https://t.co/9AAi6mM7iN",17,2,4,2020-02-21
+33,2020-02-24 17:29:59+00:00,1231994695384956928,kusamanetwork,"""Once Gossamer is complete, we will use it to build node implementations of @polkadotnetwork &amp; Kusama."" –– @amer__ameen, @ChainSafeth https://t.co/Dk058wd4L5",16,2,2,2020-02-24
+34,2020-02-25 14:20:12+00:00,1232309321720979460,kusamanetwork,"""Prior to launching its parachain on Polkadot, Chainlink will deploy a parachain on Kusama."" –– @chainlink
+
+If you're not first, you're last. Sorry @polkadotnetwork.
+https://t.co/Vpnr47McLX",148,6,38,2020-02-25
+35,2020-02-26 15:12:50+00:00,1232684957111287809,kusamanetwork,"""We made the prediction that teams will use Kusama as a launch pad, securing a parachain slot there first, before moving onto Polkadot, and that’s exactly what’s happening,” –– @JoeLallouz, @BisonTrails 
+
+Yes, those that are brave enough.
+https://t.co/jpSaF2Ttsk",15,0,3,2020-02-26
+36,2020-02-27 09:01:06+00:00,1232953793739993089,kusamanetwork,"Tonight to revive the Web3 Zug meetup, @BillLaboon will discuss what's been happening in Kusama.
+
+Learn about:
+• The current governance structure
+• How to participate
+• What are the differences between @polkadotnetwork, Kusama &amp; Westend.
+
+RSVP: https://t.co/gDUtCdGaf6",10,0,5,2020-02-27
+37,2020-03-04 13:08:25+00:00,1235190361460531200,kusamanetwork,"More details of the different kinds of networks can be found here: 
+https://t.co/hhk5UXyscO",1,0,0,2020-03-04
+40,2020-03-05 11:17:52+00:00,1235524928054706176,kusamanetwork,"KUSAMA UPDATE:
+
+v0.7.21 Release:
+• After a concerted effort from many team members, we have a fix that should clear your your memory woes. v0.7.21 contains performance improvements that makes nodes more efficient. The release process will begin today at 2pmCET.
+
+Expect chaos. https://t.co/EGNPEe0AXr",23,1,4,2020-03-05
+48,2020-03-07 16:46:50+00:00,1236332490501042176,kusamanetwork,v0.7.22 has been released! Fixing a number of minor issues and includes the native runtime for 1050 which will be introduced in the next upgrade. https://t.co/hTVLwNmRUr,21,0,5,2020-03-07
+49,2020-03-09 11:49:41+00:00,1236982485612998656,kusamanetwork,".@FigmentNetworks received a grant from @web3foundation to build @DotHub_, a staking explorer tool for @polkadotnetwork and Kusama. @DotHub_ will include validator analytics, nominator events and alerts, and rewards reporting.
+
+https://t.co/l5qGmmmk4Z",9,1,3,2020-03-09
+50,2020-03-10 16:30:07+00:00,1237415449534529537,kusamanetwork,"Polkassembly is live! An open-source platform to vote and discuss governance proposals, motions, and referenda. You can signup, link a kusama address and edit your proposals description and title.
+
+Try it out now! Feedback is encouraged.
+https://t.co/L7v8AZGH56 https://t.co/mhvfeOxsLa",49,2,15,2020-03-10
+51,2020-03-11 17:25:54+00:00,1237791875555303426,kusamanetwork,"Watch @Paritytech’s @JoePetrowski &amp; Will Pankiewicz walk through how to run a Kusama validator. 
+Learn:
+• How to run a node
+• Necessary accounts
+• Initial set-up
+• Keys involved
+ https://t.co/nxgJ7zYlWN
+
+Feeling brave? Join the 1000 Validator Programme https://t.co/ZnPxoOoWI7",24,0,3,2020-03-11
+52,2020-03-12 14:01:19+00:00,1238102778796441600,kusamanetwork,"#ICYMI watch @ParityTech's Joshy Orndorff's introduction to @substrate_io, a modular framework for building custom blockchains that will be capable of connecting to @polkadotnetwork or Kusama.
+
+https://t.co/sXwM2CTvq3",7,0,2,2020-03-12
+53,2020-03-16 14:03:59+00:00,1239553001238519809,kusamanetwork,"Bored at home? Over the past 6 months, our Crowdcast has hosted 18 online events for over 1,600 people with many more to come. Sign up to receive updates on all of our upcoming online events so that you don't miss out on the chaos. https://t.co/m1yXmNVcZK",10,0,2,2020-03-16
+54,2020-03-17 14:47:43+00:00,1239926394899124225,kusamanetwork,UPDATE: v0.7.26 is tagged. Please upgrade your validator nodes at your earliest convenience. https://t.co/FkWcRFkqfV,12,0,5,2020-03-17
+57,2020-03-18 12:44:59+00:00,1240257896207781893,kusamanetwork,"The democracy pallet is one of the core pieces of on chain governance &amp; the most relevant to the public token holder. 
+
+Today don't miss @logansaether walk through @substrate_io's democracy pallet &amp; how it can be used to propose new changes on yours truly.
+https://t.co/KuFHXKrQaW",15,0,3,2020-03-18
+58,2020-03-19 16:51:04+00:00,1240682209037737984,kusamanetwork,"""Kusama currently has 378 nodes running, with 180 validators producing and finalizing blocks. Additionally, 520 nodes are running other #Substrate-based chains, which can be parachains on Polkadot or Kusama.""
+
+Read more about how great I am from @BillLaboon. https://t.co/6130vNNUW1",26,1,6,2020-03-19
+60,2020-03-20 10:40:10+00:00,1240951257877164033,kusamanetwork,"In order to avoid an attack where someone has several thousand accounts nominating a single validator, rewards in Kusama have changed slightly and are now “Lazy Payouts”. Stakers must now claim their rewards.
+
+Learn more: https://t.co/7YUxyFXWWH",17,0,7,2020-03-20
+61,2020-03-21 15:08:05+00:00,1241381068609069059,kusamanetwork,"For those that are participating, ensure that your configuration is properly set up, according to the startup guide: https://t.co/mHeNWISKgQ
+
+It’s also not too late to still apply!
+https://t.co/BGP39SAc9S
+
+Expect chaos. https://t.co/fkgLKUFNUZ",8,0,2,2020-03-21
+63,2020-03-23 19:50:16+00:00,1242176858311069696,kusamanetwork,"v0.7.28 has been released! Including the native runtime for 1056, which will be introduced in the next upgrade. 
+
+https://t.co/wzeeMWOQ3t",11,0,4,2020-03-23
+65,2020-03-24 15:07:04+00:00,1242467977770876931,kusamanetwork,"The democracy pallet is one of the core pieces of on chain governance and the most relevant to the public token holder. 
+
+#ICYMI watch W3F's @logansaether walk through @substrate_io's democracy pallet and how it can be used to propose new changes Kusama.
+https://t.co/u4KM4b2yA9",9,0,3,2020-03-24
+66,2020-03-25 15:10:51+00:00,1242831318653841409,kusamanetwork,"#ICYMI follow along as @bitfalls dives into @ParityTech's #Substrate. In just one hour, learn how to build your own custom pallet on @substrate_io and develop an application specific-blockchain if you're brave enough. 
+
+https://t.co/FACGd4uOyz",4,0,1,2020-03-25
+67,2020-03-26 08:59:59+00:00,1243100375298818050,kusamanetwork,"主題：
+• Polkadot 全球生態在 2019 年下半年的增長,及 2020 年的觀望
+講者: Anson @web3foundation
+• 如何利用區塊鏈開發框架 #Substrate 更快更好地開發出你獨特的區塊鏈出來
+講者: Jimmy @ParityTech
+ • Web 3.0 在 2020 年的發展觀望
+講者: Jason @TheSpartanGroup
+https://t.co/XTXXVrEb5E",4,0,2,2020-03-26
+68,2020-03-31 13:03:09+00:00,1244973509211762690,kusamanetwork,"Watch @ParityTech’s @joepetrowski and Will Pankiewicz walk through how to run a validator on Kusama and @polkadotnetwork. 
+
+Learn about: 
+• How to run a node
+• Necessary accounts
+• Initial set-up
+• Keys involved
+• UI interface
+
+and more: https://t.co/nxgJ7zYlWN",8,0,4,2020-03-31
+70,2020-04-09 16:25:08+00:00,1248285830390693888,kusamanetwork,"Ready to #SendNodes? 
+
+Compete for a pool of 3100 $KSM and a free Avado i5 computer. 
+
+I've joined forces with @AvadoCloud on a social media competition for spinning up nodes, tweeting your nodes and asking friends to “#SendNodes” back. 
+
+Learn more: https://t.co/D7XqwpdeXG https://t.co/3ChhC1ZuVf",96,30,156,2020-04-09
+71,2020-04-10 09:27:56+00:00,1248543224467202048,kusamanetwork,"Today learn how to monitor your nodes like a boss, not like a savage. @bitfalls will show you how to apply Prometheus and Grafana monitoring to your @substrate_io node, demonstrated live on yours truly. 
+
+#SendNodes @AvadoCloud https://t.co/TbdZmZgqDf",9,0,2,2020-04-10
+74,2020-04-11 08:58:40+00:00,1248898249630437379,kusamanetwork,@ShresthaDutta2 @AvadoCloud Fixed. Dm's open for nodes!,0,0,0,2020-04-11
+75,2020-04-12 13:02:09+00:00,1249321912599273473,kusamanetwork,"#ICYMI watch @ParityTech's Joshy Orndorff's introduction to @substrate_io, a modular framework for building custom blockchains that will be capable of connecting to @polkadotnetwork or Kusama.
+
+https://t.co/sXwM2CTvq3",16,1,5,2020-04-12
+76,2020-04-14 19:07:19+00:00,1250138585879191561,kusamanetwork,"If they like to party, they can even deploy it on my first. https://t.co/N4EwT49SoW",12,1,0,2020-04-14
+79,2020-04-15 08:45:38+00:00,1250344519637164032,kusamanetwork,@GeminiPotatoZ @AvadoCloud Update.. always update 🐦,2,0,0,2020-04-15
+82,2020-04-16 15:58:14+00:00,1250815775641948160,kusamanetwork,"Well for starters i'm faster, sexier and more fun. https://t.co/shBmMsjcKn",27,2,5,2020-04-16
+84,2020-04-17 07:02:59+00:00,1251043464361512962,kusamanetwork,"Today join W3F's Anson and @Logansaether for a Crowdcast on how to set up the sentry node architecture for your validator. Learn what sentry nodes are, why there are important for running a secure validator, and how to set up one manually.
+#SendNodes
+https://t.co/la4YfdWaKj",13,0,2,2020-04-17
+89,2020-04-20 13:54:55+00:00,1252234294883303425,kusamanetwork,"Personally I like to live on the wild side, but for those that don't, @substrate_io's social recovery pallet allows you to recover your keys if you lose access to your account.
+
+Learn more with @shawntabrizi and @joepetrowski: https://t.co/7CNwsTKKXq",12,2,2,2020-04-20
+90,2020-04-21 10:35:28+00:00,1252546486040170496,kusamanetwork,It costs less than $1 to nominate on yours truly. https://t.co/6HpvpmCKhB,26,2,4,2020-04-21
+92,2020-04-22 14:30:00+00:00,1252967896151703558,kusamanetwork,"Friday don't miss @purestakeco's Derek Yoo dig into log management, why it matters for validators, and demonstrate some approaches to log management for Substrate-based nodes.
+#SendNodes @avadocloud
+Save your seat: https://t.co/HL8VLx1xXN",9,0,4,2020-04-22
+93,2020-04-23 12:00:36+00:00,1253292686842494976,kusamanetwork,Officially two million blocks ahead of @polkadotnetwork. Catch me if you can cuz. https://t.co/KUZO30Eqhh,50,2,5,2020-04-23
+94,2020-04-24 14:14:59+00:00,1253688896363343872,kusamanetwork,"Today don't miss @purestakeco's Derek Yoo dive into validator log management. He'll walk through using an Elasticsearch, Logstash, Kibana (ELK) setup to manage logs in support of troubleshooting, monitoring &amp; securing Substrate-based validator operations.
+https://t.co/tOtrbRlAeC",17,1,7,2020-04-24
+95,2020-04-27 17:07:06+00:00,1254819373652619267,kusamanetwork,"#ICYMI learn how to run a Kusama full node with @bitfalls. See what options lay at your disposal when considering running a Kusama full node, archive node, or even a validator node.
+
+#SendNodes
+https://t.co/NLg55Vkgi3",11,1,5,2020-04-27
+96,2020-04-28 14:46:09+00:00,1255146291014668288,kusamanetwork,"#ICYMI see how to set up sentry node architecture for your validator with Anson Lau and @logansaether. Learn what sentry nodes are, why there are important for running a secure validator, and how to set up one manually. 
+
+#SendNodes
+
+https://t.co/7CtR641RhV",15,0,5,2020-04-28
+97,2020-04-29 14:47:59+00:00,1255509138790121475,kusamanetwork,"#ICYMI watch @purestakeco's Derek Yoo dive into log management, why it matters for validators, and demonstrate some approaches to log management for @Substrate_io-based nodes.
+
+#SendNodes
+
+https://t.co/qHssUl0GL5",11,0,4,2020-04-29
+98,2020-04-30 12:49:57+00:00,1255841824008212492,kusamanetwork,"Tomorrow don't miss Stefaan Ponnet, CTO of @AvadoCloud, walk through AVADO's UI, which you can use to run a Kusama node, and show how easy it is to install and maintain. No AVADO is required to follow this crowdcast.
+
+#SendNodes
+
+https://t.co/pbF3AtwuAO",11,1,6,2020-04-30
+99,2020-05-01 13:44:59+00:00,1256218058751967235,kusamanetwork,"Today don't miss Stefaan Ponnet, CTO of @AvadoCloud, walk through AVADO's UI, which you can use to run a Kusama node, and show how easy it is to install and maintain. No AVADO is required to follow this crowdcast.
+
+#SendNodes
+
+https://t.co/T8vuHBnOBC",21,1,10,2020-05-01
+100,2020-05-04 15:25:45+00:00,1257330579999281156,kusamanetwork,"Only one day left to get lit with @AvadoCloud and #SendNodes. 
+
+Need help spinning up a full node? https://t.co/6Kzvz9RDpD
+
+Contest overview: https://t.co/D7XqwpdeXG https://t.co/EvkZxmri2C",26,3,9,2020-05-04
+101,2020-05-05 17:30:29+00:00,1257724359202033669,kusamanetwork,"We are down to the last final hours. #SendNodes now for prizes, like an @AvadoCloud, or forever hold your peace. https://t.co/wQndKKbMm2",25,2,7,2020-05-05
+105,2020-05-06 12:16:13+00:00,1258007659430674434,kusamanetwork,"""We wanted to start building up our experience with @polkadotnetwork and @ParityTech's @substrate_io, so running validators on Kusama was a no-brainer decision for us."" –– @stakedotfish 
+
+Read more about their experience validating on yours truly and what's to come: https://t.co/YmhKb3Pu1E",20,2,8,2020-05-06
+106,2020-05-07 17:14:46+00:00,1258445182040711170,kusamanetwork,"The results are in from the #SendNodes competition. Thank you to everyone who participated, I now have *multiple* nodes in different area codes. 
+
+And the winners are:
+🥇: Taka
+🥈: XZ
+🥉: PeachesnPearls
+4th 🏅: Henderson Sequera https://t.co/k3gbrLPUkJ",27,7,8,2020-05-07
+111,2020-05-08 00:04:17+00:00,1258548237255897088,kusamanetwork,"You can join our official Telegram channel here:
+
+Kusama Official Chat: https://t.co/OXhe2gm8OJ",1,0,1,2020-05-08
+114,2020-05-13 16:57:57+00:00,1260615276867006471,kusamanetwork,"Tomorrow don't miss the first @polkadotnetwork Belgrade Online Meetup: Intro to Kusama and @ParityTech's @substrate_io hosted by @mvpworkshop and @BogdanHabic from @TenderlyApp.
+
+Save your seat: https://t.co/vbcWsj4liP",27,0,16,2020-05-13
+116,2020-05-14 12:09:39+00:00,1260905111536177153,kusamanetwork,"Today don't miss the first @polkadotnetwork Belgrade Online Meetup: Intro to Kusama and @ParityTech's @substrate_io hosted by @mvpworkshop and @BogdanHabic from @TenderlyApp.
+
+Save your seat: https://t.co/BeI2b7DaFc",14,0,5,2020-05-14
+120,2020-05-16 14:42:22+00:00,1261668318085353473,kusamanetwork,"Something like this?
+
+https://t.co/O7sGJmFquK https://t.co/llr6i8hILg",40,3,12,2020-05-16
+123,2020-05-21 12:01:16+00:00,1263439716013260800,kusamanetwork,"If only there was another live, layer one protocol with a solution to this problem. 
+
+Check out my (&amp; @polkadotnetwork’s) weight-based fee model as opposed to a gas-metering model: https://t.co/iEvCNevufZ https://t.co/yM7keUeFqN",33,2,7,2020-05-21
+124,2020-05-25 13:47:07+00:00,1264915903969443843,kusamanetwork,"""The Robonomics team finished their first tests of Cumulus &amp; plan to launch a Kusama parachain as soon as possible. The parachain will allow the community to launch industrial manipulators, collect telemetry from sensors &amp; create routes for autopilot drones using transactions."" https://t.co/23zj8BAHGa",45,0,12,2020-05-25
+125,2020-05-26 18:00:59+00:00,1265342179435782146,kusamanetwork,Glad I could help https://t.co/y6GG6WBVty,89,2,15,2020-05-26
+126,2020-06-16 14:30:17+00:00,1272899300327133185,kusamanetwork,"Kusama and @polkadotnetwork are onboarding to the @gitcoin platform, strengthening the foundations of the Web 3.0 ecosystem and expanding the opportunities for developers to earn from open-source projects. https://t.co/mLWLZV6MDo",51,1,11,2020-06-16
+127,2020-06-18 15:48:48+00:00,1273643838305902594,kusamanetwork,"Motion 160 was executed, overwriting a claims entry after someone was unable to claim their KSM with their Gnosis Multisig wallet that they used in 2017. After verification, they worked with W3F to move their DOT and KSM claims to a new ETH address.
+
+https://t.co/0PYM01sK4p",20,1,4,2020-06-18
+130,2020-06-19 11:20:47+00:00,1273938777141063681,kusamanetwork,"My Treasury is a pot of tokens collected through transaction fees, slashing and staking inefficiencies. I got 190,000 tokens sitting in my treasury if someone wants to put them to work. 
+https://t.co/vxwKBr58Y2",51,1,21,2020-06-19
+131,2020-06-23 16:04:30+00:00,1275459725992136704,kusamanetwork,"Moonbeam, an Ethereum-compatible smart contract platform, announces launch on Kusama prior to Polkadot.
+""By launching on Kusama, @purestakeco will be able to experiment with the platform on a fully-functional network &amp; under real economic conditions before launching on Polkadot."" https://t.co/i4vb1u8pbR",45,0,13,2020-06-23
+132,2020-06-26 14:12:09+00:00,1276518615215456258,kusamanetwork,"Check out my new front end. 
+
+Coming soon: 
+🪙 Treasury-funded projects &amp; bounties
+📓Guides on off-chain processes, submissions &amp; registrars guidelines, proposals templates
+🧑‍🤝‍🧑Information on the society
+🏛Governance section
+
+https://t.co/mYVE5ifKRO https://t.co/ifRshIaCb6 https://t.co/TxONgwN42j",52,2,23,2020-06-26
+134,2020-06-29 10:38:46+00:00,1277552079226241031,kusamanetwork,"Introducing #Hackusama, my first-ever hackathon with @Polkadot! Be creative, break things, make me laugh, make me cry, and most importantly, compete for a prize pool of 30K $DAI, swag, and @ledger(s).
+
+Learn more and #HackMe: https://t.co/1purhwcODt",109,5,34,2020-06-29
+136,2020-06-30 07:47:41+00:00,1277871415690244097,kusamanetwork,"Today don't miss #Hackusama's first office hours with @ZekeMostov! Learn about Substrate Sidecar, a REST API service that runs alongside a @substrate_io node. Followed by an open Q&amp;A on all things Substrate, #Hackusama and yours truly. 
+
+Save your spot: https://t.co/h18BGxVHoo https://t.co/drIDzx0jbZ",22,0,8,2020-06-30
+138,2020-07-02 13:19:22+00:00,1278679659169939463,kusamanetwork,"Motion 68 has passed 75:25, changing the ideal staked amount from 50% to 75%, giving my validators more block rewards until parachains are enabled.
+
+Check out the discussion: https://t.co/ziag5be4v2
+See the repo:
+https://t.co/gmlDPb1n0o https://t.co/Qxc9UYbu3N",41,0,11,2020-07-02
+140,2020-07-03 12:09:34+00:00,1279024483806961665,kusamanetwork,"Prepare an application-specific blockchain to plug into yours truly or @Polkadot, allowing for interoperability of data, value, and information. Build a Blockchain, submit to #Hackusama, and #HackMe.
+
+Register Now: https://t.co/0wkStsj6PE",19,1,8,2020-07-03
+142,2020-07-07 12:10:09+00:00,1280474181617037312,kusamanetwork,"#Hackusama chain ideas: 
+• Gaming 
+• DeFi or Stablecoin
+• Privacy
+• DAO
+• Smart Contract
+• Content, Social Networking, or Storage
+• Dark DEX
+• Decentralized Identity 
+• Decentralized Marketplace
+Whatever your fancy, #HackMe: https://t.co/XDhJtHLXrN",45,0,16,2020-07-07
+143,2020-07-09 13:57:11+00:00,1281225891239079936,kusamanetwork,"Today, at 5pm CEST, don’t miss @arianasfowler talk about @UNICEF’s blockchain strategy, their products, fund and more as part of #Hackusama’s Webinar Series. 
+
+Save your seat: https://t.co/W3c8Or3kHO",19,0,3,2020-07-09
+144,2020-07-10 09:06:29+00:00,1281515124940066822,kusamanetwork,"What happens in Kusama, stays in Kusama. Join #Hackusama and compete for 30K $DAI, swag, and @ledger(s).
+
+Start building and #HackMe: https://t.co/HCJ9xmVq7g",21,0,11,2020-07-10
+145,2020-07-16 12:01:19+00:00,1283733450059546624,kusamanetwork,"Taking part in #Hackusama and looking for a bonus opportunity? Build a tool, visualization or your wildest idea for a shot at the ""Open Hack"" prize. 
+
+Learn more and #HackMe: https://t.co/XyoJGQ8GlW",12,0,5,2020-07-16
+147,2020-07-17 14:47:59+00:00,1284137780013142018,kusamanetwork,"🚨DEADLINE ALERT🚨 
+
+Only 4 weeks left to submit your blockchain, tooling or visualization for #hackusama. 
+
+Start your submission: https://t.co/MPJje0i6UJ",23,0,7,2020-07-17
+148,2020-07-21 20:52:20+00:00,1285679023318872064,kusamanetwork,"Why burn it all when you can send transaction fees to a treasury that funds ecosystem development and community initiatives?
+
+https://t.co/4wcqN7qgz3 https://t.co/c5L8YmR48I",45,4,5,2020-07-21
+149,2020-07-23 09:08:09+00:00,1286226586996551685,kusamanetwork,"Prepare an application-specific blockchain to plug into yours truly or @Polkadot, allowing for interoperability of data, value, and information. Build a Blockchain, submit to #Hackusama, and #HackMe.
+
+Register Now: https://t.co/BvuwdaaBho https://t.co/f1yCXaO5s8",32,0,8,2020-07-23
+151,2020-07-24 09:09:59+00:00,1286589433937047552,kusamanetwork,"🚨DEADLINE ALERT🚨 
+
+Only 3 weeks left to submit your blockchain, tooling or visualization for #hackusama. 
+
+Check the requirements and start your submission today: https://t.co/qaDkq79tL5",32,0,12,2020-07-24
+152,2020-07-27 13:32:28+00:00,1287742654692958210,kusamanetwork,Is that even a question? https://t.co/VfbeDqNcra https://t.co/tyS9O6QiFX,62,4,13,2020-07-27
+153,2020-07-31 12:07:04+00:00,1289170715288231940,kusamanetwork,"🚨DEADLINE ALERT🚨 
+
+Only 2 weeks left to submit your blockchain, tooling or visualization for #hackusama. 
+
+Start your submission: https://t.co/lwTt7nX5gO",17,0,3,2020-07-31
+154,2020-08-07 09:04:00+00:00,1291661357134340098,kusamanetwork,"🚨DEADLINE ALERT🚨 
+
+Only T-minus 1 week left to submit your blockchain, tooling or visualization for #hackusama. 
+
+Make sure to check the requirements and start your submission: https://t.co/lARFDL4mSA",36,0,11,2020-08-07
+155,2020-08-13 14:53:04+00:00,1293923532225880071,kusamanetwork,"🚨IT'S THE FINAL COUNTDOWN🚨 
+
+Only 24 hours left to submit your #Hackusama projects. Submissions due by 11:45pm ET Friday. 
+
+Start your submission: https://t.co/7RiZITzOHU",36,1,5,2020-08-13
+156,2020-08-17 13:51:51+00:00,1295357678923939842,kusamanetwork,"Public voting is now open for #Hackusama!
+
+After 6 weeks of #HackingMe, it's now your turn to pick the popular choice winner! Use the link below to browse all the #Hackusama submissions, click on your favorite, and vote. Voting ends in 9 days.
+https://t.co/Mwp3Vkjs2X",56,0,16,2020-08-17
+157,2020-08-18 12:33:19+00:00,1295700301454942209,kusamanetwork,"As #Hackusama comes to a close and judges are working on reviewing submissions, we want to take the time to thank our amazing group of judges!
+
+Read more about our extraordi-canary below:",47,2,8,2020-08-18
+161,2020-08-19 09:02:59+00:00,1296009755912216577,kusamanetwork,"Public voting is now open for #Hackusama!
+
+After 6 weeks of #HackingMe, it's now your turn to pick the popular choice winner! Use the link below to browse all the #Hackusama submissions, click on your favorite, and vote. Voting ends a week from today.
+
+https://t.co/Aj5BktWSWA",18,0,6,2020-08-19
+162,2020-08-20 13:50:30+00:00,1296444503000260614,kusamanetwork,"Bedeho Mender (@bedehomender) is the CEO of @Jsgenesis_ and founder of @JoystreamApp. Joystream is a video platform built with @substrate_io that is controlled, owned, and operated by its users. Thank you, Bedeho, for being a part of #Hackusama as a judge!
+https://t.co/sBGFgw7SJh https://t.co/3IDArRH6Kw",14,1,3,2020-08-20
+164,2020-08-21 12:06:59+00:00,1296780837732655111,kusamanetwork,"Public voting is now open for #Hackusama!
+
+After 6 weeks of #HackingMe, it's now your turn to pick the popular choice winner! Use the link below to browse all the #Hackusama submissions, click on your favorite, and vote. Voting ends in 5 days.
+
+https://t.co/o01ribQZLu",28,0,10,2020-08-21
+167,2020-08-24 09:06:09+00:00,1297822493726642176,kusamanetwork,"Public voting is now open for #Hackusama!
+
+After 6 weeks of #HackingMe, it's now your turn to pick the popular choice winner! Use the link below to browse all the #Hackusama submissions, click on your favorite, and vote. Voting ends Wednesday.
+
+https://t.co/NSaYtvqotT",47,0,12,2020-08-24
+168,2020-08-25 15:19:13+00:00,1298278765877960716,kusamanetwork,"Thank you to #Hackusama judge, Dillon Chen (@dillchen), co-founder of Commonwealth (@hicommonwealth) and Edgeware (@HeyEdgeware). 
+Edgeware is a high-performance, self-upgrading WASM smart contract platform, in the @Polkadot ecosystem.
+
+Learn more: https://t.co/nMlTvwZGO4 https://t.co/esVR3Af1RQ",8,1,2,2020-08-25
+171,2020-08-26 09:10:28+00:00,1298548354079764487,kusamanetwork,"LAST DAY to vote on your favorite #Hackusama submissions!
+
+After 6 weeks of #HackingMe, it's now your turn to pick the popular choice winner! Use the link below to browse all the #Hackusama submissions, click on your favorite, and vote. Voting ends today.
+
+https://t.co/ABWnN7Sp5R",60,0,10,2020-08-26
+172,2020-08-28 13:17:58+00:00,1299335418782023680,kusamanetwork,"For the Open Hack category: 
+
+ 🥈In second place: Kusama Academy, a fun way to learn about Kusama, built by Chris B.
+
+https://t.co/3HvPvmeHQy",26,1,8,2020-08-28
+178,2020-09-22 21:03:31+00:00,1308512274617962496,kusamanetwork,A little birdie told me @MoonbeamNetwork has launched a public parachain environment for developers to start experimenting and building. Featuring the EVM pallet and leveraging the Frontier project to support native Ethereum RPCs all on @substrate_io. https://t.co/hLg11qeTw2,60,5,18,2020-09-22
+179,2020-09-23 16:29:57+00:00,1308805816280113163,kusamanetwork,"The council is called upon primarily for 3 things: proposing referenda, cancelling uncontroversially dangerous referenda, and electing the technical committee.
+
+Learn how you can vote for members of the Polkadot Council or Kusama Council from @BillLaboon.
+https://t.co/uh50aOxukH",52,2,17,2020-09-23
+180,2020-10-01 10:05:32+00:00,1311608178019233792,kusamanetwork,"""The gateway includes e-commerce plugins, payment APIs, a custom checkout page, and reliable, industry-standard payment servers with high security and easily integrated payments for both merchants and the Kusama developer community.""
+
+Learn more: https://t.co/uSncB0wVyJ",63,3,21,2020-10-01
+181,2020-10-07 08:52:28+00:00,1313764114880253954,kusamanetwork,"After winning #Hackusama, @usetech_pro announces Unique network, a non-fungible token (NFT) chain for Kusama and @Polkadot.
+
+""As we have shown with our Proof of Concepts within #Hackusama, all of these goals are possible with @substrate_io.""
+https://t.co/sj6t79j3Ww",58,1,17,2020-10-07
+183,2020-10-09 15:32:54+00:00,1314589665735868417,kusamanetwork,"Originally proposed by the community, for the community - I just got a new, shiny, Treasury Bounty mechanism. Allowing the Council to extend their authority to curators to supervise the execution of bounties and pay them out with Treasury funds.
+https://t.co/8GJVnMNJDy",406,73,224,2020-10-09
+184,2020-10-23 17:38:18+00:00,1319694651226492928,kusamanetwork,“Karura plans to bid for the first parachain slot on Kusama and be the pioneer in the new crowdsourced network security paradigm: the Parachain Lease Offering (PLO) and Paradrop.” https://t.co/d9YkLnwYMX,92,3,18,2020-10-23
+185,2020-11-04 16:11:49+00:00,1324021543110889472,kusamanetwork,"Funded by the Kusama Treasury:
+
+Watch @MiguelMarques70's documentary on yours truly to understand the new sociopolitical decentralized organizations that technology enables us to build. Feat. @gavofyork, @chevdor, @shawntabrizi, @joepetrowski, @nachortti, @jackbplatts, and more! https://t.co/4U6cW8cjLh",65,3,19,2020-11-04
+186,2020-11-09 21:30:39+00:00,1325913719256264705,kusamanetwork,"Looking to join the @Polkadot or Kusama ecosystem? 
+
+Check out the job board created by @MoneyStateless: https://t.co/vrUlb6wWUM",98,0,28,2020-11-09
+187,2020-11-25 19:34:58+00:00,1331682810168479744,kusamanetwork,"""@Soramitsu_co, received funding from the Kusama Treasury to build a mobile client for the Kusama network: Fearless Wallet. Available for Android and iOS.""
+
+Learn more about their mobile client tailor-made for peer-to-peer, non-custodial transactions on Kusama and @Polkadot: https://t.co/mVCYx89esd",96,2,29,2020-11-25
+188,2021-01-05 18:38:22+00:00,1346526469594337280,kusamanetwork,"Rococo V1 parachain registration for yours truly will begin on January 11, 2020! Join the #rococo:https://t.co/1VG5OX3Vrm on @element_hq to stay up-to-date.",159,14,38,2021-01-05
+189,2021-01-22 15:32:01+00:00,1352640166297554945,kusamanetwork,"Recently my treasury passed a proposal from @BlockCreateArt to fund “Virtual Niche”, an upcoming dual city crypto art exhibition in Beijing and Shanghai.
+
+Check out their global digital art competition that launched yesterday: https://t.co/KqJNGboYfV",116,10,22,2021-01-22
+190,2021-02-01 21:00:31+00:00,1356346715171860480,kusamanetwork,"NFTs are the name of the game in 2021, and they are coming to Kusama. Sunday at @EthereumDenver join @bitfalls, from 9am to 11am MT, for a brief history of NFTs, how they work, and a hands-on demo on how to create your own Kusama account and mint some NFTs.
+
+Register for free: https://t.co/oX5I2pRnF4",134,2,43,2021-02-01
+191,2021-02-25 17:29:27+00:00,1364990906542264326,kusamanetwork,"As with all public referenda, my stakeholders have the final say in what passes and what does not. Keeping that in mind, we may initially see two categories of blockchains that qualify as common good chains on Kusama: system level chains and public utility chains.
+
+Learn more: https://t.co/FYFvTSYyAy",127,3,38,2021-02-25
+192,2021-03-13 10:54:36+00:00,1370689745819418626,kusamanetwork,"Both myself and @polkadot have treasuries comprised of funds collected through transaction fees, slashing, staking inefficiencies, etc. To see a full overview including income, output, total funds, proposals, tips, bounties, total burned and more check out https://t.co/t3gMUV6Me3 https://t.co/024b2YXmw9",350,22,86,2021-03-13
+193,2021-03-20 15:51:59+00:00,1373301300813762565,kusamanetwork,"For those who plan on running a validator or being a councilor, an on-chain identity is a good way to build up a reputation with me. Read more about setting an on-chain identity and using a registrar service on my wiki: https://t.co/NHug0pGzQs",150,5,36,2021-03-20
+194,2021-03-25 14:28:54+00:00,1375092331095937027,kusamanetwork,"You can now test your Parachain Auctions and Crowdloans on #Rococo!
+
+Make sure to follow @shawntabrizi's step-by-step guide: https://t.co/5rcZN9ef3t https://t.co/vGlLJfMwKc",397,16,95,2021-03-25
+195,2021-04-02 15:13:44+00:00,1378002717113745414,kusamanetwork,"Chainlink is now integrated directly as a pallet, giving teams in the ecosystem—specifically teams building parachains with @substrate_io —a straightforward approach for accessing high-quality external market data. https://t.co/xwgjkUJIYf",395,13,95,2021-04-02
+196,2021-04-05 09:04:59+00:00,1378997082565054464,kusamanetwork,"What are the preliminaries to running a validator with me? Learn about the synchronization of chain data, session keys set-up, and what is a Thousand Validators Programme from my Wiki https://t.co/cxXotRc34W",147,3,43,2021-04-05
+197,2021-04-06 10:26:42+00:00,1379380035484852230,kusamanetwork,".@Tether_to just made a 𝗦𝘁𝗮𝘁𝗲𝗺𝗶𝗻𝘁:
+
+USDT coming soon to a canary-net near you. https://t.co/x1ni1NkmB0",338,5,74,2021-04-06
+198,2021-04-07 13:03:51+00:00,1379781968779415555,kusamanetwork,"The key to my scalable multichain architecture, parachains connect to my network by leasing a slot on the Relay Chain via a permissionless auction.
+• What are auctions? crowdloans?
+• How to participate
+• How to avoid scams
+• FAQ 
+and more below🔻
+https://t.co/Khvjl3gEfy",1076,67,339,2021-04-07
+202,2021-04-12 11:07:03+00:00,1381564515461042183,kusamanetwork,"Over the weekend a PR was merged finalizing more of my parachain parameters. Parachains will be able to bid for a total of 8 consecutive periods, 6 weeks each on yours truly.
+ 
+May the odds be ever in your favor, read more: https://t.co/0OONtqwG71",408,19,106,2021-04-12
+203,2021-04-18 08:30:42+00:00,1383699495251103750,kusamanetwork,"Did you know that I have a @Ledger application that allows you to manage my native asset, the KSM token? It also supports most of the available transaction types of the network. Learn more from my Wiki: https://t.co/tOLLcrZ4Rv",179,8,39,2021-04-18
+204,2021-04-20 11:26:25+00:00,1384468493744099329,kusamanetwork,@Jam10o @brave You should go there and watch the never-before-seen video to find out for yourself.,19,2,0,2021-04-20
+206,2021-04-30 12:32:42+00:00,1388109051490361344,kusamanetwork,"Did you know that my treasury, as a pot of on-chain funds collected through transaction fees, slashing and staking inefficiencies, can be spent by making a spending proposal? Learn more about creating proposals and tipping from my Wiki 👇 https://t.co/P9rZxsQB5k",169,2,35,2021-04-30
+207,2021-05-03 08:14:37+00:00,1389131267988459520,kusamanetwork,Check out the new TechEd explainer video to learn how to mint fungible tokens on @Polkadot and Kusama: https://t.co/6fm94Y451U,300,12,58,2021-05-03
+208,2021-05-07 09:05:12+00:00,1390593547980742657,kusamanetwork,"On Wednesday the v0.9.0 client was released which contains the parachain runtime modules for Westend and yours truly.
+
+ₑₓₚₑcₜ cₕₐₒₛ.
+
+https://t.co/UMXxExrc5Y",548,25,139,2021-05-07
+209,2021-05-12 18:29:35+00:00,1392547517145960448,kusamanetwork,"BEAKING: Upgrade v0.9.1 passed council and is now a public referendum, fast-tracked to end Friday ~12pm CEST. This upgrade includes the code for parachains, auctions and crowdloans, reduces the min. vested transfer by 100x and reduces fees/deposits by 50x.
+ₑₓₚₑcₜ cₕₐₒₛ.",1641,105,493,2021-05-12
+211,2021-05-14 15:56:46+00:00,1393233836805345281,kusamanetwork,"Who's going to be the first cₐₙₐᵣy in the coal mine?
+
+ₑₓₚₑcₜ cₕₐₒₛ. https://t.co/25ZcsTyYVc",939,47,203,2021-05-14
+212,2021-05-17 18:37:49+00:00,1394361529152192512,kusamanetwork,"The early bird catches the worm.
+
+ₑₓₚₑcₜ cₕₐₒₛ. https://t.co/MWyNRPCwYw",822,39,149,2021-05-17
+214,2021-05-19 09:14:41+00:00,1394944588280995841,kusamanetwork,"What a day, the second #PolkadotDecoded is here! Join the event and don't miss the chance to win #NFTs minted on my relay chain by competing in ""Gotta Find Them All!"" competition until the end of the event.
+
+Learn more about the challenge and NFTs now 👇
+https://t.co/w8RAqpzGzO",297,12,67,2021-05-19
+216,2021-05-28 22:06:00+00:00,1398400185936535559,kusamanetwork,"Want to learn how to take part in a crowdloan on yours truly? Check out @shawntabrizi's talk on auctions, crowdloans, and slots from the second #PolkadotDecoded. https://t.co/R5we5yxZSU",228,18,56,2021-05-28
+218,2021-05-30 14:45:59+00:00,1399014230549053441,kusamanetwork,"Want to become a nominator with me? Learn about using Polkadot-JS UI, command-line interface, and how to set up stash and controller keys from my Wiki: https://t.co/gJrBxq5qkQ",211,18,47,2021-05-30
+219,2021-06-02 20:39:54+00:00,1400190461256650753,kusamanetwork,"Referendum 114 has passed, which set the Shell storage to Statemine's genesis and includes a call needed to update the UMP queue configuration to ensure that teleports from Statemine to yours truly will work properly. Up next, upgrading Shell to Statemine.
+
+ₑₓₚₑcₜ cₕₐₒₛ.",971,53,213,2021-06-02
+220,2021-06-03 11:23:01+00:00,1400412701571137538,kusamanetwork,"Motion 304 passed council, has been fast tracked by the Technical Committee, and is now up for vote as Referendum 115. This will upgrade the Shell parachain on yours truly to Statemine. Three hours left to vote on upgrading the first parachain to Kusama.
+https://t.co/wEW4sDergI",719,40,199,2021-06-03
+221,2021-06-04 14:41:39+00:00,1400825080268169222,kusamanetwork,Hoy a las 18hrs tendremos nuestra primer encuentro oficial de la Comunidad Descentralizada de Kusama y @Polkadot. No te lo pierdas (en español). https://t.co/hlDM9wHFXh,197,13,36,2021-06-04
+222,2021-06-08 10:35:45+00:00,1402212747157327876,kusamanetwork,"The first real-world functional parachain Statemine, began processing permissionless transactions after an on-chain upgrade last week. After some smooth running over the weekend, the time has come to move to the next stage: slot auctions. 
+https://t.co/HRWh93z1Yy",2643,166,890,2021-06-08
+227,2021-06-13 09:03:59+00:00,1404001593436127235,kusamanetwork,Did you know that anyone can propose a referendum with me by depositing the minimum amount of tokens for a certain period (number of blocks)? Learn more about my governance mechanisms from the Wiki: https://t.co/5FOiWWHud4,248,12,76,2021-06-13
+228,2021-06-15 13:44:05+00:00,1404796856345956365,kusamanetwork,".@centrifuge (@altair_network), @AcalaNetwork (@KaruraNetwork), @Plasm_Network (@ShidenNetwork), @Kiltprotocol , @MoonbeamNetwork  (@MoonriverNW), @PhalaNetwork &amp; @CrustNetwork will all be rewarding participants for the best, most creative memes about their Kusama parachain. https://t.co/fVbHYmg6DD",107,16,57,2021-06-15
+233,2021-06-18 08:42:55+00:00,1405808229087653890,kusamanetwork,"Are you a HODLer of memes and have one saved for every occasion? Share your best Kusama memes using the hashtag #YourWildestMemes, and get a chance to win prizes ranging from DAI to Kusama swag. For more chances to win prizes, head over to the Gleam page:
+https://t.co/X2AxspSIvd",192,13,65,2021-06-18
+235,2021-06-19 09:05:59+00:00,1406176423757467649,kusamanetwork,Did you know that my parachain slots are sold according to an unpermissioned candle auction that has been slightly modified to be secure on a blockchain? Learn more about the mechanics of a candle auction from the Wiki: https://t.co/D2DJytEcKR,226,9,62,2021-06-19
+236,2021-06-21 19:03:09+00:00,1407051480650166273,kusamanetwork,"Learn about parachains on Kusama and win prizes ranging from DAI to swag to bonus prizes from the Kusama parachain teams. Take part in the KusaMEME competition and find out about other ways to win prizes on the Gleam page:
+https://t.co/J4AOUNW6TQ",207,9,61,2021-06-21
+237,2021-06-22 18:59:02+00:00,1407412832803692545,kusamanetwork,"It's only a week left before the end of the KusaMEME contest! Showcase your creativity by designing a meme based on parachains, tweet it with the hashtag #YourWildestMemes, and get a chance to win prizes ranging from DAI to swag to prizes from the parachain teams. Learn more:",146,6,40,2021-06-22
+243,2021-06-23 13:37:43+00:00,1407694359429095426,kusamanetwork,"As nominations on Kusama continue to increase, there have been some limitations with the current staking parameters. To prevent issues from occurring, some restrictions are being added to the staking system: 
+• Max. 20,000 nominators; min. stake .1 KSM.
+https://t.co/W8SuWmp7Z0",180,6,53,2021-06-23
+246,2021-06-24 11:53:08+00:00,1408030426007019523,kusamanetwork,"June 30th hear from the second parachain auction winner on Kusama. Next Wednesday, tune in to the #TwitterSpace on yours truly. The team and exact time of the Space will be announced next Tuesday once the winning block is chosen. Stay tuned!
+https://t.co/rLmQXgvck4",505,16,241,2021-06-24
+248,2021-06-26 08:47:39+00:00,1408708526629916672,kusamanetwork,"What do you find the most exciting about parachains on Kusama? Put it in a meme, share it with the hashtag #YourWildestMemes, and get a chance to win prizes ranging from DAI to swag to prizes from the parachain teams. Head over to Gleam to learn more:
+https://t.co/Ee17YuMPZL",211,34,60,2021-06-26
+249,2021-06-29 07:02:59+00:00,1409769349628432384,kusamanetwork,"It's just a day left before the end of the KusaMEME contest! Showcase your creativity by designing a meme based on parachains, tweet it with the hashtag #YourWildestMemes, and get a chance to win prizes from Kusama and the parachain teams. Learn more: https://t.co/iLNy1T3e7b",141,11,26,2021-06-29
+255,2021-06-30 16:30:59+00:00,1410274678233571329,kusamanetwork,"The #TwitterSpace with @MoonriverNW starts in 30 minutes now! Tune in to hear from @derekyoo, @Nate_Ham1, and @KayTeeElle. 
+
+Comment your questions below:
+https://t.co/rLmQXgvck4",31,1,8,2021-06-30
+266,2021-07-01 17:12:50+00:00,1410647599598682112,kusamanetwork,"The KusaMEME #YourWildestMemes contest is now over! Head over to Gleam to check whether you're among 50 winners to receive the limited-edition Kusama swag.
+https://t.co/UNWnsI55gK",105,11,27,2021-07-01
+268,2021-07-02 19:05:52+00:00,1411038432848142351,kusamanetwork,"Thank you to all participants for sharing #YourWildestMemes! After a 48 hours poll, the community choice prize for the best KusaMEME and bragging rights for an entire year goes to @LinusVanPeelt 🐦 
+
+Meet all the winners of the top 50 KusaMEMEs in the thread below:",181,18,49,2021-07-02
+272,2021-07-06 10:44:28+00:00,1412361801644363776,kusamanetwork,"July 7th at 5pm CEST, tune in to the #TwitterSpace on yours truly to hear from @WatanabeSota from @ShidenNetwork, the third team securing a parachain slot via an auction on Kusama. 
+
+Comment your questions below:
+https://t.co/MaQ5uUy27s",404,17,88,2021-07-06
+275,2021-07-07 07:51:15+00:00,1412680598792118276,kusamanetwork,"Today at 5pm CEST, don't miss the #TwitterSpace with @WatanabeSota from @ShidenNetwork, the third team securing a parachain slot via an auction on Kusama.
+
+Comment your questions below:
+https://t.co/MaQ5uUy27s",60,5,22,2021-07-07
+278,2021-07-11 09:01:59+00:00,1414147949093965826,kusamanetwork,"Did you know that the difference between parachain and parathread is more of an economic distinction than a technological one, and a chain can switch between these two states with relatively minimal effort? Learn more from my Wiki: https://t.co/A7x3c8abpN",307,10,102,2021-07-11
+279,2021-07-13 10:39:11+00:00,1414897186278621188,kusamanetwork,"Motion 327 has passed council, and the fifth auction on yours truly is now taking flight. 
+
+ₑₓₚₑcₜ cₕₐₒₛ.
+https://t.co/sMqXcKOzub",244,12,57,2021-07-13
+282,2021-07-14 13:31:16+00:00,1415302882166034436,kusamanetwork,"The #TwitterSpace with #Khala [@PhalaNetwork] starts in 30 minutes now! Tune in to hear from @marvin_tong and @bgmshana.
+
+Comment your questions below:
+https://t.co/qdMLDlX3lW",21,1,4,2021-07-14
+285,2021-07-20 08:34:45+00:00,1417402587523997747,kusamanetwork,"Welcome to the cₕₐₒₛ @bifrost_finance!
+
+After winning the fifth parachain auction, Bifrost is now being onboarded as my sixth parachain. Approximately 1,000 network stakeholders locked up KSM in favor of Bifrost being added to yours truly.
+
+https://t.co/KQow7VYqbs",377,34,86,2021-07-20
+287,2021-07-21 08:44:11+00:00,1417767349541916672,kusamanetwork,"Today at 5pm CEST, don't miss the #TwitterSpace with @Iurpis and Tyrone Pan from @bifrost_finance, the fifth team securing a parachain slot via an auction on Kusama.
+
+Comment your questions below:
+https://t.co/nkDzj3PW3U",37,2,9,2021-07-21
+289,2021-07-23 11:31:06+00:00,1418534129579220997,kusamanetwork,"Motion 331, to upgrade Statemine and enable permissionless asset creation, has passed council and is now being voted on by the community as a public referendum. You can vote on Referendum 125 from now until Monday afternoon CEST. 
+
+https://t.co/Dsj62AaMqy",256,15,74,2021-07-23
+290,2021-07-27 08:43:35+00:00,1419941525971144706,kusamanetwork,"Until now Statemine has been running with limited functionality. After a performance review and audit, the Kusama Council proposed an upgrade to remove the restrictions. Today the referendum passed authorizing an upgrade to make Statemine permissionless.
+https://t.co/g2LA6jpoUw",475,16,163,2021-07-27
+291,2021-07-31 11:12:01+00:00,1421428432349581312,kusamanetwork,"Did you know that chains that otherwise would not be able to acquire a full parachain slot with me, are enabled to participate in my shared security as parathreads? Learn more about the difference between parachains and parathreads from my Wiki: https://t.co/9uMl99VsSg",331,14,100,2021-07-31
+292,2021-08-07 12:03:59+00:00,1423978224078360583,kusamanetwork,"For those thinking about setting up a validator node with me, learn about the preliminaries and requirements for the initial set-up from my Wiki: https://t.co/l62AI84XDF",173,7,56,2021-08-07
+293,2021-08-09 16:45:53+00:00,1424773943601291264,kusamanetwork,"As part of the @Van_Biennale, and funded by my treasury, Vancouver’s Cambie Bridge is being transformed by @cryptoartsy into a 19,000 square feet public art installation that comes to life as the biggest blockchain-based augmented reality experience of its kind. https://t.co/bNH5e8Xf5M",197,9,64,2021-08-09
+294,2021-08-12 11:50:58+00:00,1425786886967238658,kusamanetwork,"Today @KaruraNetwork successfully sent a remark to Kusama. While there have already been dozens of cross-chain transfers between Kusama &amp; Karura, this is first generic message dispatched. I wonder what they'll send me next? Staking? Governance? Claiming rewards? Identity? Oh my! https://t.co/EhEJONfNnA",297,14,87,2021-08-12
+295,2021-08-13 18:34:17+00:00,1426250773181181952,kusamanetwork,"Funded by my treasury, @klever_io has successfully integrated Kusama! 
+
+Currently there is 397,813 KSM and counting waiting to fund other promising proposals. For more information, and to apply: https://t.co/dM91t5avc0 https://t.co/dBw0o42SR8",342,20,116,2021-08-13
+296,2021-08-17 13:39:45+00:00,1427626203117232146,kusamanetwork,"Since adding Statemine, @KaruraNetwork, @MoonriverNW, @ShidenNetwork, #Khala, and @bifrost_finance to yours truly, I've been closely monitored for candidate production stability, approval voting statistics, and network connectivity load.",323,8,100,2021-08-17
+299,2021-08-18 13:13:22+00:00,1427981951265382405,kusamanetwork,"From June 15 - July 20, 2021 history was made when 18 teams registered crowdloans on yours truly in hopes of winning one of the first five auctions. The arrival of slot auctions on Kusama marks an exciting time for the entire @Polkadot ecosystem and for blockchain as a whole.",606,25,116,2021-08-18
+301,2021-08-19 12:58:12+00:00,1428340521378926594,kusamanetwork,"It's a bird, it's a plane, it's 5 more auctions!
+
+This KuSummer, I made history with the launch of 6 parachains, made possible by the tech developed for @Polkadot. Those parachains, in order, were Statemine, @KaruraNetwork, @MoonriverNW, @ShidenNetwork, #Khala &amp; @bifrost_finance.",867,72,228,2021-08-19
+303,2021-08-23 13:59:16+00:00,1429805441840783362,kusamanetwork,"Two years ago I was given life to pave the way for @Polkadot. Since birth I have test-flown every upgrade and feature for my sensible cousin Polkadot, and still am today with the launch of parachains. Cheers to another flight around the sun and more parachains to come! https://t.co/daSstawQN7",678,30,162,2021-08-23
+305,2021-08-27 11:10:23+00:00,1431212493867823104,kusamanetwork,"With the next batch of auctions happening as soon as next week, the TechEd team at @web3foundation is putting together a beginner's guide to @PolkadotJs. Comment below what other tutorials you would like to see! https://t.co/SQZrGYXKkU",279,22,69,2021-08-27
+306,2021-08-31 17:12:25+00:00,1432753152219037696,kusamanetwork,"Since @KaruraNetwork, @MoonriverNW, @ShidenNetwork, #Khala, and @bifrost_finance were onboarded to Kusama, each team has been making strides and writing history as my first parachains. Read about their achievements thus far and what lies ahead: https://t.co/UNHHBX0hYU",1066,41,328,2021-08-31
+307,2021-09-01 10:58:51+00:00,1433021531182047235,kusamanetwork,"Motion 346 has passed council to open my 6th parachain auction! This auction will run until Sept. 8 at approx. 10am CEST. So far 16 teams are participating, who will be my lucky number 7 parachain?
+
+To follow along, or take part, check out @PolkadotJs: https://t.co/KQow7VYqbs https://t.co/ZUSxfi488F",545,61,143,2021-09-01
+308,2021-09-03 11:11:38+00:00,1433749521952088069,kusamanetwork,"This week #khala [@PhalaNetwork], my fourth auction winner, rolled out Para-1 (testnet for new token economics &amp; TEE mining), updated their launch roadmap, and began deploying governance features along with their first democratic council member elections. 
+https://t.co/GpW9P7nBZd",90,8,15,2021-09-03
+314,2021-09-08 08:41:23+00:00,1435523650007011333,kusamanetwork,"Welcome to the cₕₐₒₛ @Kiltprotocol!
+
+After winning the sixth parachain auction, Kilt is now being onboarded as my seventh parachain [6-auction winning parachains, plus #Statemine]. Approximately 8,000 network stakeholders locked up KSM in favor.
+
+https://t.co/KQow7VYqbs https://t.co/wFb9XX4Pnj",830,51,213,2021-09-08
+316,2021-09-13 14:44:41+00:00,1437427018333888517,kusamanetwork,"Hey canaries, check your email if you signed up to receive the first NFT minted by Kusama governance on my common good parachain #Statemine. Codes to claim your free NFT will be sent to all the lucky 9,999 winners this week! 🚀 https://t.co/iwKnVF7El9",900,188,214,2021-09-13
+317,2021-09-15 08:36:05+00:00,1438059029717262345,kusamanetwork,"Welcome to the cₕₐₒₛ @CalamariNetwork!
+
+After winning the seventh parachain auction, Calamari is now being onboarded as my eighth parachain [7-auction winning parachains, plus #Statemine]. Over 16,000 network stakeholders locked up KSM in favor.
+https://t.co/KQow7VYqbs https://t.co/hxJirbEwCL",601,41,146,2021-09-15
+319,2021-09-20 15:34:37+00:00,1439976297804013570,kusamanetwork,"„@MoonriverNW, the Ethereum-compatible smart contract platform developed on Kusama, is full steam ahead with some impressive figures since its launch just three weeks ago.
+
+Moonriver has close to 100k wallet addresses on the network and over 650 ERC20 tokens have been created.“ https://t.co/GUQgF324oK",841,27,268,2021-09-20
+320,2021-09-21 19:01:33+00:00,1440390760084348935,kusamanetwork,"Check out @Hypercube_Video's new video on how to deploy a parachain on Kusama. This is only part 3 of their 5-part explainer series funded by my treasury.
+
+Currently there are over 420K tokens sitting in my treasury waiting to fund proposals like this one. https://t.co/Lms32EL4Vr https://t.co/oK8PmqSMHs",172,13,61,2021-09-21
+321,2021-09-22 13:43:05+00:00,1440673003189071880,kusamanetwork,"Motion 358 has passed council to open my 9th parachain slot auction! This auction will run until Sept. 29 at approximately 10am CEST. So far 13 teams are participating, who will join the soɐɥɔ next?
+
+To follow along, or take part, check out @PolkadotJs: https://t.co/KQow7VGOMS",300,24,76,2021-09-22
+323,2021-09-29 09:33:07+00:00,1443146812794281987,kusamanetwork,"Welcome to the cₕₐₒₛ @altair_network!
+
+After winning the 9th parachain auction, Altair is now being onboarded as my 10th parachain [9-auction winning parachains, plus #Statemine]. Over 11.2K network stakeholders locked up KSM in favor!
+
+https://t.co/KQow7VYqbs https://t.co/PdNZwN4S49",804,41,181,2021-09-29
+328,2021-10-01 08:17:38+00:00,1443852593453846539,kusamanetwork,"Motion 362 has passed my council to open an 11th parachain auction immediately after the 10th auction ends next week. The 11th auction is scheduled to kick off next Wednesday, October 6th at 11:30am CEST.
+
+.ꙅoɒʜɔ ƚɔɘqxɘ
+https://t.co/woGKgT6oi3 https://t.co/8aQ3qsrs4T",145,24,37,2021-10-01
+329,2021-10-06 10:07:55+00:00,1445692288164716553,kusamanetwork,"Welcome to the cₕₐₒₛ @ParallelFi!
+
+After winning the 10th parachain auction, Parallel-Heiko is now being onboarded as my 11th parachain [10-auction winning parachains, plus #Statemine]. Over 10.4K network stakeholders locked up KSM in favor!
+
+https://t.co/KQow7VGOMS https://t.co/O2Smnh2sRs",378,41,51,2021-10-06
+331,2021-10-11 10:08:43+00:00,1447504427649208329,kusamanetwork,I get it 😉 https://t.co/dlrq8cQyvo,353,14,50,2021-10-11
+332,2021-10-13 08:42:31+00:00,1448207512256323587,kusamanetwork,"Welcome to the cₕₐₒₛ @kintsugi_btc!
+
+After winning the 11th parachain auction, Kintsugi is now being onboarded as my 12th parachain [11-auction winning parachains, plus #Statemine]. Over 8K network stakeholders locked up KSM in favor!
+https://t.co/XMEA6ObuvB https://t.co/gjtrEt5b8B",429,33,97,2021-10-13
+333,2021-10-18 18:35:15+00:00,1450168615957893127,kusamanetwork,"Unlike previous auctions, winning parachains won't be onboarded immediately, but at the beginning of the next lease period. As always council will be able to pause the schedule if any issues arise. Let the soɐɥɔ begin! 
+
+No promises.",200,11,33,2021-10-18
+337,2021-10-22 18:11:48+00:00,1451612264444932102,kusamanetwork,"From Sept 1st - Oct 13th, 16 teams registered parachains and opened crowdloans in hopes of winning one of the parachain slots. Although the initial motion was to allocate 5 parachain slots, after some discussion within the community, the council scheduled an additional auction.",407,15,96,2021-10-22
+339,2021-10-25 10:17:18+00:00,1452580019084185607,kusamanetwork,"The next batch of 24 auctions has officially opened on yours truly🚀 Each auction will last 7 days, with a new auction beginning weekly after the previous auction ends.
+
+https://t.co/KQow7VYqbs",519,47,137,2021-10-25
+343,2021-10-29 09:12:21+00:00,1454013224513384453,kusamanetwork,"Nominating on Kusama is the act of choosing validator candidates that you trust, and delegating stake to them in order to secure the network. Learn how to nominate validators on @klever_io. 
+
+Integration funded by my treasury: https://t.co/m4Wna4NJ4S https://t.co/sXVNr9Nid1",365,18,91,2021-10-29
+345,2021-11-01 14:43:50+00:00,1455183808458895365,kusamanetwork,"As previously scheduled by motion 384, the 13th auction on Kusama has now begun. Auction 13 will continue over the next week and end on November 8, 2021.",438,29,85,2021-11-01
+347,2021-11-08 16:41:05+00:00,1457750030085935105,kusamanetwork,"Welcome to the cₕₐₒₛ @BitDotCountry!
+
+After winning the 13th parachain auction, https://t.co/pVd08nwNkB is being onboarded as my 14th parachain [13-auction winning parachains, plus #Statemine]. Over 25.6K network stakeholders locked up KSM in favor!
+https://t.co/XMEA6ObuvB",838,60,217,2021-11-08
+348,2021-11-09 12:54:26+00:00,1458055379355590658,kusamanetwork,"As previously scheduled by motion 384, the 14th auction on Kusama is now under way. Auction 14 will continue over the next week and end on November 15th, 2021.
+ₑₓₚₑcₜ cₕₐₒₛ. ₙₒ ₚᵣₒₘᵢₛₑₛ.
+
+For more information, and to participate: https://t.co/KQow7VYqbs https://t.co/AedVIvb8Rj",365,13,103,2021-11-09
+349,2021-11-10 13:47:36+00:00,1458431148137271300,kusamanetwork,ₑₓₚₑcₜ cₒffₑₑ. ☕️ https://t.co/WFKXAHBdfY,310,18,49,2021-11-10
+350,2021-11-15 17:49:42+00:00,1460304011131645952,kusamanetwork,"Welcome to the cₕₐₒₛ #Quartz by @Unique_NFTchain!
+
+After winning the 14th parachain auction, Quartz is now being onboarded as my 15th parachain [14-auction winning parachains, plus #Statemine]. Over 8.8K network stakeholders locked up KSM in favor!
+
+https://t.co/KQow7VGOMS https://t.co/23yBy7DXRj",393,54,90,2021-11-15
+351,2021-11-18 14:16:33+00:00,1461337535951646725,kusamanetwork,🍿 https://t.co/9gPkHIHzi4 https://t.co/QW87tVF7X3,365,32,59,2021-11-18
+352,2021-11-22 19:59:29+00:00,1462873388939202566,kusamanetwork,"Welcome to the cₕₐₒₛ @GenshiroDeFi!
+
+After winning my 15th auction, Genshiro will be onboarded as my 16th parachain [15-auction winning parachains, plus #Statemine] at the beginning of lease 17. Over 4.8K network stakeholders locked up KSM in favor!
+https://t.co/KQow7VYqbs https://t.co/ZdVBkpvT57",421,55,78,2021-11-22
+353,2021-12-01 18:10:45+00:00,1466107516773937165,kusamanetwork,"After passing council, the @encointer common good parachain proposal has gone to public referendum! The proposal aims to register @encointer's unique identity system chain as a common good parachain on Kusama. 
+
+https://t.co/ci51wGOC9x",100,5,21,2021-12-01
+355,2021-12-05 10:20:27+00:00,1467438713647030278,kusamanetwork,"Welcome to the cₕₐₒₛ @SubsocialChain!
+
+After winning my 16th auction, Subsocial will be onboarded as my 17th parachain [16-auction winning parachains, plus #Statemine] at the start of lease 18. Over 11.9K network stakeholders locked up KSM in favor!
+
+https://t.co/KQow7VYqbs https://t.co/6gG44QS54z",511,41,88,2021-12-05
+356,2021-12-08 21:50:08+00:00,1468699442828427265,kusamanetwork,"Referendum 158, to add @encointer as my second common good parachain, has passed community vote 🚀 
+
+The proposal will enact in approximately 8 days, and Encointer will be onboarded as a common good parachain at the beginning of lease period 18. 
+https://t.co/ci51wGP9Z5 https://t.co/m1gLJGsbBL",133,47,35,2021-12-08
+358,2021-12-09 17:26:12+00:00,1468995405866278925,kusamanetwork,"If you have been expecting chaos, you can now expect ""caos.""
+
+¡Le damos la bienvenida a @KusamaEspanol, nuestra cuenta oficial en idioma español!",257,24,20,2021-12-09
+359,2021-12-13 09:23:09+00:00,1470323397263605760,kusamanetwork,"Welcome to the cₕₐₒₛ @ZeitgeistPM!
+
+After winning my 17th auction, Zeitgeist will be onboarded as my 19th parachain [17-auction winning parachains, plus #Statemine &amp; @encointer] at the start of lease 18. Over 4.8K stakeholders locked up KSM in favor!
+https://t.co/KQow7VYqbs https://t.co/y7TgsuQf1y",394,61,62,2021-12-13
+360,2021-12-20 14:59:51+00:00,1472944843408220169,kusamanetwork,"Welcome to the cₕₐₒₛ @SakuraFinance!
+
+After winning my 18th auction, Sakura will be onboarded as my 20th parachain [17-auction winning parachains, plus #Statemine &amp; @encointer] at the start of lease 18. Over 800 stakeholders locked up KSM in favor!
+https://t.co/KQow7VYqbs https://t.co/eUArkzJg61",266,47,35,2021-12-20
+361,2021-12-26 05:27:56+00:00,1474975244377075712,kusamanetwork,"It's been a remarkable year for yours truly. Cheers to 20 parachains (both auction winning &amp; common good) and more to come. 
+
+Have an extraordi-canary holiday season, and of course, soɐɥɔ ʇɔǝdxǝ 🐦 https://t.co/hN3T7QutxZ",764,59,114,2021-12-26
+362,2021-12-27 10:15:56+00:00,1475410108117041154,kusamanetwork,"Welcome to the cₕₐₒₛ @CrustNetwork!
+
+After winning my 19th auction, Crust will be onboarded as my 21st parachain [19-auction winning parachains, plus #Statemine &amp; @encointer] at the start of lease 18. Over 1.2K stakeholders locked up KSM in favor!
+https://t.co/KQow7VYqbs https://t.co/GcWeZGfwTj",308,53,55,2021-12-27
+363,2021-12-31 14:00:45+00:00,1476916239469621248,kusamanetwork,"After gracefully battle-testing parachains for @Polkadot in 2021 there are now 16 parachains on-chain with 7 more being added in the new year, over 31% of the network is backing these parachains, 4 parachains are currently taking part in the auctions, &amp; a partridge in a 🍐 tree. https://t.co/bj9U2aLXrT",413,50,54,2021-12-31
+364,2022-01-05 14:39:57+00:00,1478738044052291589,kusamanetwork,"Welcome to the cₕₐₒₛ @AIRA_Robonomics!
+
+After winning my 20th auction, Robonomics will be onboarded as my 22nd parachain [20-auction winning parachains, plus #Statemine &amp; @encointer] at the start of lease 18. Over 1.2K stakeholders locked up KSM in favor! https://t.co/2Yx1kVdYC4",351,29,55,2022-01-05
+365,2022-01-10 14:44:17+00:00,1480551070933917699,kusamanetwork,"Over the weekend lease period 18 began onboarding 6 new parachains to the sɐoɥɔ. 
+
+Congratulations to @CrustNetwork, @encointer, @AIRA_Robonomics, @SakuraFinance, @SubsocialChain, and @ZeitgeistPM on being added🚀
+https://t.co/rnlXjUsMoB https://t.co/ba6iCFuE4Z",496,47,93,2022-01-10
+366,2022-01-17 10:34:37+00:00,1483024958213218306,kusamanetwork,"Welcome to the cₕₐₒₛ @integri_t_e_e!
+
+After winning my 21st auction, Integritee will be onboarded as my 23rd parachain [20-auction winning parachains, plus #Statemine &amp; @encointer] at the start of lease 19. Three thousand network stakeholders locked up KSM in favor! https://t.co/ob3wREf38A",252,36,45,2022-01-17
+367,2022-01-24 13:56:01+00:00,1485612354427568129,kusamanetwork,".@encointer was recently granted the second common-good parachain slot on yours truly. 
+
+Take an in-depth look at how it can bring financial inclusivity to #Web3 and mitigate Sybil attacks with a novel ‘proof-of-personhood’ system for unique identity:
+
+https://t.co/Hm6BklZinq",155,15,37,2022-01-24
+369,2022-01-31 10:56:34+00:00,1488103911525335044,kusamanetwork,"Welcome to the cₕₐₒₛ #Litmus [@litentry]!
+
+After winning my 23rd auction, Litmus will be onboarded as my 25th parachain [23-auction winning parachains, plus #Statemine &amp; @encointer] at the start of lease 19. Roughly 850 network stakeholders locked up KSM in favor! https://t.co/rxyLq4TZUr",175,15,39,2022-01-31
+370,2022-02-11 15:06:30+00:00,1492153076383375369,kusamanetwork,"Thinking of a perfect gift for Valentine’s Day? Express your non-fungible love with a Kusama Valentine’s NFT!
+
+From now until Feb. 15, choose an NFT from artist @ascii_bit and send it to your love bird, even if they don't have a Kusama address.
+#expectlove
+https://t.co/6LPBdyizeq",216,28,51,2022-02-11
+371,2022-02-14 14:30:11+00:00,1493231099446804480,kusamanetwork,"Welcome to the cₕₐₒₛ #KICO!
+
+After winning my 25th auction, Kico will be onboarded as my 27th parachain [25-auction winning parachains, plus #Statemine &amp; @encointer] at the start of lease 19 - 482 network stakeholders locked up KSM in favor!
+https://t.co/7YKVGcnqcU https://t.co/GAhjFkLgoZ",111,17,21,2022-02-14
+373,2022-02-21 16:01:15+00:00,1495790732552065034,kusamanetwork,"Council passed Motion 438, scheduling the parachain auctions for the rest of the year. TL;DR auctions will occur roughly every 100,800 blocks (every 7 days) until January 2023.
+
+˙soɐɥɔ ʇɔǝdxƎ
+https://t.co/gmQFFp835m https://t.co/9DxfceSP2W",241,21,45,2022-02-21
+374,2022-02-28 16:05:45+00:00,1498328577456197634,kusamanetwork,"Welcome to the cₕₐₒₛ @MangataFinance!
+
+After winning my 26th auction, Mangata will be onboarded as my 28th parachain [26-auction winning parachains, plus #Statemine &amp; @encointer] at the start of lease 20. Over 925 network stakeholders locked up KSM in favor! https://t.co/AyJhPET8Q2",224,18,31,2022-02-28
+375,2022-03-02 14:16:15+00:00,1499025796123537419,kusamanetwork,"Let your love bird know to check their inbox ✉️. 
+
+Their NFT is ready to claim.
+
+#ExpectLove https://t.co/GEdTO66Wsl",208,12,30,2022-03-02
+377,2022-03-04 15:34:21+00:00,1499770230020743170,kusamanetwork,"Following Council passing Motion 438, check out the parachain auction schedule on yours truly for the rest of the year. TL;DR auctions will occur roughly every 100,800 blocks (every 7 days) until January 2023.
+
+To check the new schedule: https://t.co/ZyKrzPA8Fj",206,14,27,2022-03-04
+378,2022-03-07 20:21:31+00:00,1500929657872568320,kusamanetwork,"For the first time in Kusama's history an unknown parachain has won an auction. It is also the first time an auction has been won without a crowdloan. 
+
+Welcome to the soɐɥɔ. 
+
+ParachainX will be onboarded as my 29th parachain, approx. April 6th, at the start of lease period 20. https://t.co/zahcyjOIc2",496,59,87,2022-03-07
+379,2022-03-14 15:48:48+00:00,1503397745545121794,kusamanetwork,"Congratulations to @Kiltprotocol on winning my 28th auction! This is the second auction Kilt has won, and if their community decides, KILT will swap its current lease with this one.
+ₙₒ ₚᵣₒₘᵢₛₑₛ.
+https://t.co/szy7Ybu8wj",240,46,37,2022-03-14
+380,2022-03-17 12:06:32+00:00,1504428970216984579,kusamanetwork,"Check out the next video from @Hypercube_Video's 5-part explainer series funded by my treasury to learn about building parachains on yours truly. To learn more, visit https://t.co/2Mg5sS5N3y.
+
+Watch other videos from the series: https://t.co/zAn2rOuQ5Z https://t.co/leecKovChJ",205,29,40,2022-03-17
+381,2022-03-24 15:56:26+00:00,1507023545121091587,kusamanetwork,"Congratulations to @KaruraNetwork on winning my 29th auction! This is the second auction Karura has won, and this time without a crowdloan. 
+
+Excited for Karura to continue to bring #DeFi to the ecosystem. https://t.co/18P0WWxFLq",423,35,56,2022-03-24
+382,2022-03-25 08:31:34+00:00,1507273976527175708,kusamanetwork,"Learn about the governance mechanism used on yours truly from the last video from @Hypercube_Video's explainer series. 
+
+To learn about Kusama governance, referenda, council, and more, visit https://t.co/2Mg5sS5N3y.
+
+Watch other videos from the series: https://t.co/zAn2rOuQ5Z https://t.co/glEGn4yxlu",161,21,30,2022-03-25
+383,2022-03-28 16:49:52+00:00,1508486543677214726,kusamanetwork,"Curious how bridges to @Polkadot and Kusama work? How protocols like BEEFY finalize non-Substrate blocks? Head over to the @substrate_io Stack Exchange to get answers to all your burning questions.
+
+https://t.co/HrrJ4Y9sC3",44,8,2,2022-03-28
+384,2022-03-31 07:43:16+00:00,1509436147667193856,kusamanetwork,"Welcome to the chaos #TuringNetwork [@oak_network]! 
+
+After winning my 30th auction, Turing Network will be onboarded as my 32nd parachain [plus #Statemine &amp; @encointer]. Excited for Turing Network to bring their #Web3 payments and finance infrastructure to Kusama. https://t.co/xdTVZOtMzH",252,25,29,2022-03-31
+385,2022-04-12 09:54:37+00:00,1513817858966532100,kusamanetwork,"Welcome to the chaos #Pichiu [@Kylin_Network]! 
+
+After winning my 31st auction, Pichiu will be onboarded as my 33rd parachain [plus #Statemine &amp; @encointer]. Excited for Pichiu to build the data infrastructure for the future #DeFi and #Web3 on Kusama. https://t.co/uSnOxVUp4v",282,41,61,2022-04-12
+386,2022-04-14 03:29:59+00:00,1514445839359479808,kusamanetwork,"It's night in the Atacama, which means that now you can connect to an autonomous telescope in the desert in Chile, select an astronomical object, and mint a unique NFT 🔭
+
+Learn more about @DotsamaAdv's ""Among The Stars"" event funded by my treasury: https://t.co/mCye46KKUt",151,12,24,2022-04-14
+387,2022-04-20 13:15:00+00:00,1516767388796080134,kusamanetwork,"One of the main properties that @Polkadot and #Kusama bring to the ecosystems is decentralized blockchain interoperability.
+
+Learn how to teleport KSM to Statemine in this short video with @DRW3RK.
+
+https://t.co/oGEarnnINB",180,32,27,2022-04-20
+388,2022-04-25 15:41:42+00:00,1518616247600041986,kusamanetwork,"Welcome to the chaos @DoraFactory!
+
+After winning my 32nd auction, Dora Factory will be onboarded as my 34th parachain [plus #Statemine &amp; @encointer]. Excited for Dora Factory to bring their DAO infrastructure to the Kusama ecosystem. https://t.co/8w0RY1NkgR",155,23,33,2022-04-25
+389,2022-04-27 15:34:45+00:00,1519339272121294848,kusamanetwork,"Referendum 189, passed community vote Monday, upgrading the runtime to v0.9.19. This release included minor uniques pallet improvements, XCM v3 preparations, child bounties configuration, implemented lower staking limits, and more!
+https://t.co/TCLusQYNHk",132,10,19,2022-04-27
+390,2022-05-02 16:01:28+00:00,1521157936487223296,kusamanetwork,"Congratulations to @bifrost_finance on winning my 33rd auction! This is the second auction Bifrost has won and this time without a crowdloan.
+
+Excited for Bifrost to continue to bring its cross-chain staking service to the ecosystem for another 8 lease periods. https://t.co/nEyj99RHIC",217,209,56,2022-05-02
+391,2022-05-09 13:59:21+00:00,1523663920312950784,kusamanetwork,"Congratulations to @ShidenNetwork on winning my 34th auction! This is the second auction Shiden has won, and this time 398 network stakeholders locked up KSM in favor.
+
+Excited for Shiden to continue building a multi-chain #dApp hub on yours truly. https://t.co/rGTJCVFXy8",178,44,38,2022-05-09
+392,2022-05-16 21:00:26+00:00,1526306603573583872,kusamanetwork,"""The defining best practice in software engineering is to deploy on different environments to gain confidence. @Polkadot is unique among all other networks because it gives you that confidence with @kusamanetwork."" – @samelamin, @ImbueNetwork founder https://t.co/x2R3pHrfhH https://t.co/k8G4TEPe88",130,14,30,2022-05-16
+393,2022-05-24 15:29:35+00:00,1529122447231885312,kusamanetwork,"Welcome to the chaos @Listen_io!
+
+After winning my 33rd auction, Listen will be onboarded as my 35th parachain [plus #Statemine &amp; @encointer]. Excited for Listen to bring its voice-only social network based on blockchain &amp; decentralized storage tech to the Kusama ecosystem. https://t.co/BUieRiMEFO",106,26,17,2022-05-24
+395,2022-05-30 14:08:32+00:00,1531276374232670209,kusamanetwork,"With the release of runtime v0.9.22, nomination pools have been added to the Kusama runtime! As per usual, Kusama is receiving this update first before @Polkadot.
+
+Learn more about nomination pools and how to contribute: https://t.co/v78wliWFHZ",295,36,72,2022-05-30
+397,2022-06-08 15:08:57+00:00,1534553073242226693,kusamanetwork,"Welcome to the chaos @kabochanetwork! After winning an auction, Kabocha will be onboarded as my 37th parachain [plus #Statemine &amp; @encointer]. Excited for Kabocha to bring their community of creative minds and future game-changers to the Kusama ecosystem. https://t.co/D1yZNyPpiK",130,41,21,2022-06-08
+398,2022-06-22 10:23:10+00:00,1539554581671198723,kusamanetwork,"Welcome to the chaos Tanganika Network [@DataHighway_DHX]! After winning an auction, Tanganika will be onboarded as my 38th parachain [plus #Statemine &amp; @encointer].
+
+Excited for Tanganika to bring their DAO &amp; IoT infrastructure to the Kusama ecosystem. https://t.co/HC8brfinWU",82,12,14,2022-06-22
+399,2022-06-23 06:52:50+00:00,1539864038468902912,kusamanetwork,"Only on Kusama (&amp; @Polkadot) is it possible to swap parachain slots with no downtime, no vulnerabilities, and no loss in security - even for a second. 
+
+Congratulations to @ShidenNetwork for being the first to extend their slot using XCM, without governance. https://t.co/1Kj8vmBnCw",306,45,65,2022-06-23
+400,2022-06-24 08:58:24+00:00,1540258027210686464,kusamanetwork,"Welcome to the chaos @ImbueNetwork! After winning an auction, Imbue will be onboarded as my 39th parachain [plus #Statemine &amp; @encointer].
+
+Excited for Imbue to bring their community full of innovative concepts along with the vision of the future of crowdfunding to the ecosystem. https://t.co/sOVBp8qfoT",98,31,17,2022-06-24
+401,2022-06-29 12:44:37+00:00,1542126894442848257,kusamanetwork,"Tune in to @PolkadotDecoded to hear @MomentumXYZ's @christelsieling with a deep dive into the Kusamaverse.
+
+Explore a new way to navigate, connect, and contribute to the ecosystem, and share your input in an interactive session on all things Kusamaverse:
+https://t.co/i1UtRVFN6W",99,12,18,2022-06-29
+403,2022-06-30 09:50:52+00:00,1542445554919243781,kusamanetwork,Coming up at @PolkadotDecoded: hear how @ZeitgeistPM`s @logansaether discusses the future of governance on @Polkadot. Tune in to find out more about how it will help decentralized decision-making better: https://t.co/ORhQQ5ie36 https://t.co/1Io73ZYMhp,78,13,13,2022-06-30
+405,2022-07-06 15:53:06+00:00,1544711041275367426,kusamanetwork,"Welcome to the chaos @amplitude_chain [@Pendulum_chain]! After winning an auction, Amplitude will be onboarded as my 40th parachain [plus #Statemine &amp; @encointer].
+
+Excited for Amplitude to build their data infrastructure for the future #DeFi on Kusama. https://t.co/8Rog7OOLX0",138,276,25,2022-07-06
+406,2022-07-11 16:21:15+00:00,1546530067718758401,kusamanetwork,"Welcome to the chaos @TinkerParachain [@InvArchNetwork]! After winning an auction, #Tinkernet will be onboarded as my 41st parachain [plus #Statemine &amp; @encointer].
+
+Tinkernet is bridging the gap between ideas and creation; connecting a world of thinkers, creators, and finance. https://t.co/tHN8MC7ZU0",285,34,38,2022-07-11
+408,2022-07-18 14:16:29+00:00,1549035381563088896,kusamanetwork,"Congratulations to @kintsugi_btc [@interlayHQ] on winning the last auction [in this batch]! This is the second auction Kintsugi has won and this time without a crowdloan.
+
+Kintsugi is bringing radically open Bitcoin to the Kusama ecosystem. https://t.co/0Ip3Pp5OoB",143,93,45,2022-07-18
+410,2022-08-03 14:14:07+00:00,1554832994384220164,kusamanetwork,"On August 4th at 3pm CEST, don't miss your chance to dive into all things Kusama and @Polkadot governance with Council member @nachortti. Tune in to #Kusamaverse to learn about the governance today, and what will be changed with Gov2.
+
+Add your questions to the board now: https://t.co/7id9dVwngu",141,44,47,2022-08-03
+411,2022-08-09 14:37:44+00:00,1557013262654476291,kusamanetwork,"It's 2022 and no other ecosystem has decentralized, in-browser light clients. https://t.co/XNsAm6PrqX",336,131,94,2022-08-09

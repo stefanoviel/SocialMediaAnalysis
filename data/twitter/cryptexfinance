@@ -1,0 +1,388 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-07 02:33:14+00:00,1214374405662490624,CryptexFinance,@ricburton That’s deep.,1,0,0,2020-01-07
+1,2020-03-31 00:46:16+00:00,1244788067371831296,CryptexFinance,@RampCapitalLLC Priced in,1,0,0,2020-03-31
+3,2020-04-02 15:27:17+00:00,1245734557653049350,CryptexFinance,@JasonYanowitz @BlockWorksGroup Congratulations on your success Jason. Keep it up! Talk soon.,1,1,0,2020-04-02
+4,2020-04-19 23:57:54+00:00,1252023652402503681,CryptexFinance,@JasonYanowitz @BlockWorksGroup We’re in!,2,1,0,2020-04-19
+5,2020-04-24 02:48:17+00:00,1253516081106432001,CryptexFinance,"@cryptocoley You played great, knocked us out in 57th place 😀",1,0,0,2020-04-24
+6,2020-04-30 14:23:17+00:00,1255865311846334465,CryptexFinance,@mdudas @howardlindzon @preston_vanloon Thank you for your support @mdudas we look forward to sharing our vision with @TheBlock__ soon!,3,0,1,2020-04-30
+7,2020-05-08 14:36:04+00:00,1258767630959349761,CryptexFinance,"@tylerwinklevoss @3iq_corp Congratulations @tylerwinklevoss and the @3iq_corp team. Just getting started, a wonderful thing to see!",3,1,0,2020-05-08
+8,2020-05-18 21:03:17+00:00,1262488954391212033,CryptexFinance,@TheCryptoDog That meal looks delicious. Enjoy it!,1,0,0,2020-05-18
+9,2020-05-19 17:28:06+00:00,1262797191925694466,CryptexFinance,"@argentHQ awesome news! We’ve been hands on since the beta launch. 😎 Our team is stoked; you’re making it easier than ever to own and utilize an Ethereum wallet. 
+
+https://t.co/0yj2vYyR7B",0,0,0,2020-05-19
+10,2020-05-21 14:35:53+00:00,1263478625497743367,CryptexFinance,@Timccopeland @wfaler Thanks for the write up. Our TCAP pricing oracle is calculated via real time public exchange data API’s representing tokens that trade on 10 of the most data transparent exchanges in the world. Which is then collateralized by stablecoin.,0,0,0,2020-05-21
+11,2020-06-29 15:31:56+00:00,1277625860556808192,CryptexFinance,"@DaveHcontrarian Agree with your thesis, it’s the most painful trade out there. Where do you target SPX end of July, David?",4,1,0,2020-06-29
+13,2020-07-31 15:04:00+00:00,1289215240823926787,CryptexFinance,"@owocki @tmatztmatz @preston_vanloon @crisgarner Correct. We are building TCAP, which is going to provide the market with price exposure to total market capitalization of crypto in a single, collateral backed solution.",1,0,0,2020-07-31
+14,2020-09-08 19:56:31+00:00,1303421980734107649,CryptexFinance,@ethdotorg We’re working on a tutorial related to @NomicLabs builder and @solidity_lang . Will send over once it’s completed!,10,1,0,2020-09-08
+15,2020-09-19 04:45:01+00:00,1307178861000523777,CryptexFinance,@lawmaster Morning dude,1,0,0,2020-09-19
+16,2020-09-22 15:36:53+00:00,1308430072714584064,CryptexFinance,@ethdotorg @NomicLabs @solidity_lang Shipped :) https://t.co/h5aa5xB3TU our guy @crisgarner did an exceptional job with this!,6,0,1,2020-09-22
+17,2020-09-28 18:18:28+00:00,1310645062146166788,CryptexFinance,"@vishalkgupta @coinbase Big congrats on this Vishal, catch up soon!",2,0,0,2020-09-28
+18,2020-10-03 22:15:46+00:00,1312516721001947136,CryptexFinance,@tylerwinklevoss I remember either you or @cameron mentioned anticipating their resurgence right when the lockdown started. You guys were absolutely spot on with this one.,1,0,0,2020-10-03
+19,2020-12-10 15:09:30+00:00,1337051825137180676,CryptexFinance,@mdudas Lol,0,0,0,2020-12-10
+20,2020-12-17 18:50:58+00:00,1339644271205490688,CryptexFinance,@ChainLinkGod Thank you for the love!!!,4,0,0,2020-12-17
+26,2020-12-22 12:37:33+00:00,1341362237613760512,CryptexFinance,@Kristian_Kho Like the way you think! CoinGecko is also one of the data providers powering our total market cap oracle brought to us on chain via @chainlink,2,0,0,2020-12-22
+27,2020-12-24 02:22:20+00:00,1341932187495657472,CryptexFinance,"We are pleased to share ""The Birth of TCAP"" created by @tropicalvirtual for @CryptexFinance. This piece commemorates the launch of TCAP and honors those who were the first to ever try TCAP on testnet. Minted on @SuperRare and gifted to @MuseumofCrypto. 
+
+https://t.co/FSW5yKundA",12,1,4,2020-12-24
+28,2021-01-10 18:45:34+00:00,1348340220060692481,CryptexFinance,@CryptoElfo It’s weighted by market cap,0,0,0,2021-01-10
+32,2021-01-11 22:24:21+00:00,1348757668878557184,CryptexFinance,"@cryptoartists1 @tmatztmatz @mcuban Right, just like you’d hedge any asset class with other assets uncorrelated to it. I believe in this instance he was referring to the total market versus alpha specific.",0,0,0,2021-01-11
+37,2021-01-12 04:48:29+00:00,1348854340669353984,CryptexFinance,@todayindefi Thanks for the love!,1,0,0,2021-01-12
+41,2021-01-13 02:01:48+00:00,1349174780117864449,CryptexFinance,@vladlykhonis We know but thank you for taking a look. It’s still a testnet with no AMM yet.,1,1,0,2021-01-13
+42,2021-01-15 06:17:57+00:00,1349964015468994565,CryptexFinance,"@RAGGAWIZARD we’re still on testnet, mainnet release soon",1,1,1,2021-01-15
+44,2021-01-17 23:44:42+00:00,1350952215549255680,CryptexFinance,@RAGGAWIZARD Sure. Join our discord and tag Brandon he’ll hook you up,1,0,0,2021-01-17
+45,2021-01-19 17:32:29+00:00,1351583319469776899,CryptexFinance,"Tomorrow at 11am EST on YouTube join @preston_vanloon and @crisgarner for a live AMA with @chainlink as they discuss the utilization of decentralized oracles to power the worlds first total crypto market cap token, TCAP. 
+
+https://t.co/Hs2yjtLT0y",129,2,43,2021-01-19
+46,2021-01-25 14:44:40+00:00,1353715415164321795,CryptexFinance,".@FrancisSuarez it was an honor to meet you, chat DeFi and how building 
+on #Ethereum can benefit the city with @preston_vanloon. We applaud you for the amazing things you continue to do for #Miami and are here to help you any way that we can. https://t.co/40MEjxQENv https://t.co/xZAhZF5ob3",49,4,16,2021-01-25
+47,2021-01-26 21:05:53+00:00,1354173739575996426,CryptexFinance,@mdudas @UniswapProtocol You rang? @chainlink can we help Dudas with this?,1,0,0,2021-01-26
+48,2021-02-03 01:41:23+00:00,1356779788413919234,CryptexFinance,@preston_vanloon Slash man,1,0,0,2021-02-03
+50,2021-02-12 19:42:26+00:00,1360313333455421441,CryptexFinance,"@Abhispace The divisor value of 10B is for creating a nominalized asset (TCAP) that then proportionality tracks total crypto market cap to the penny. 
+
+Pages 2-4 on our whitepaper go into detail about it https://t.co/ssIgwdz5fi",1,0,0,2021-02-12
+51,2021-04-08 15:24:11+00:00,1380179673024450564,CryptexFinance,@JuniorCP_3 Thank you!,5,0,0,2021-04-08
+56,2021-04-09 14:54:41+00:00,1380534638586773510,CryptexFinance,@sassal0x @thedailygwei @ChristiesInc @coinbase @defialliance Appreciate that @sassal0x thank you.,1,0,0,2021-04-09
+57,2021-04-11 16:07:43+00:00,1381277793225469954,CryptexFinance,@jacky_mfon @preston_vanloon it’s available on @SushiSwap https://t.co/F6GC93mmUO,0,1,0,2021-04-11
+58,2021-04-12 18:09:03+00:00,1381670715238256643,CryptexFinance,@0x_hippo you can read all of the details on our whitepaper https://t.co/ssIgwdz5fi &amp; our recent blog post introducing CTX https://t.co/YvwvC42uMT,3,1,0,2021-04-12
+59,2021-04-13 21:50:19+00:00,1382088788600569857,CryptexFinance,"@FrancisSuarez Wishing your daughter a very happy birthday, Mayor Francis. You have a beautiful family!",0,0,0,2021-04-13
+60,2021-04-15 21:08:31+00:00,1382803041724866562,CryptexFinance,@JasonYanowitz @dana_davis9 Congrats Yano!,1,0,0,2021-04-15
+61,2021-04-16 16:15:55+00:00,1383091795849052160,CryptexFinance,@tim_malibu @0x_hippo Yes. Minimum collateral ratio for the vaults are 200%. If a vault falls below 200% it will trigger a liquidation + a liquidation penalty. On Page 3 of our whitepaper under “G. Liquidation” you can find more details about it. https://t.co/ssIgwdz5fi,0,0,0,2021-04-16
+62,2021-04-20 14:08:36+00:00,1384509308906397697,CryptexFinance,@mdudas Place is phenomenal,1,0,0,2021-04-20
+63,2021-04-21 12:03:28+00:00,1384840205518114817,CryptexFinance,"$CTX is now live on @SushiSwap
+
+$CTX starts with powering $TCAP The World’s First Total Crypto Market Cap Token. 
+
+It grows to power an entire ecosystem of collateralized, data aggregated, decentralized solutions. 
+
+Built by #Cryptex. Powered by @chainlink
+
+Happy Farming. https://t.co/Ew2C1aqJ2V",57,7,21,2021-04-21
+65,2021-04-22 12:48:05+00:00,1385213821439070208,CryptexFinance,@SelfSimilar8 @SushiSwap @chainlink Yes. LP rewards continue for 6 months.,1,1,0,2021-04-22
+67,2021-04-23 01:39:14+00:00,1385407887867064321,CryptexFinance,"@guttedpossum @defipulse 40m* And it went back to the farmers 👨‍🌾
+
+Our first CTX early adopter rewards program concluded today, happened to coincide with when we hit the charts.
+
+Honored to debut at #44. Big thank you to @defipulse for the listing.",2,0,0,2021-04-23
+69,2021-04-26 13:23:39+00:00,1386672322946416648,CryptexFinance,@LouisShulman @SushiSwap @chainlink SushiSwap https://t.co/TxW0R9cfLI,1,0,0,2021-04-26
+70,2021-04-28 01:24:27+00:00,1387216106083991561,CryptexFinance,@defipulse @Ovu updated :),3,0,0,2021-04-28
+71,2021-05-05 13:52:20+00:00,1389941031790125060,CryptexFinance,Catch Joe &amp; @preston_vanloon today at 1pm EST for a live demo of minting $TCAP and a discussion around staking and farming $CTX with the @chainlink team https://t.co/TJ23yYLk2f,13,0,7,2021-05-05
+72,2021-05-08 01:35:37+00:00,1390842794529415169,CryptexFinance,"@elonmusk Just spotted it, can you spot us now? LOL https://t.co/IJ8cvxQ6i9",17,3,1,2021-05-08
+73,2021-05-18 19:58:25+00:00,1394744201343078402,CryptexFinance,@Timccopeland @mdudas @TheBlock__ Congrats to you all on this. All great people.,2,0,0,2021-05-18
+75,2021-05-20 14:28:43+00:00,1395386006774366209,CryptexFinance,@tolenuk @argentHQ there is increased demand for TCAP causing a premium in the secondary market price compared to the oracle price. The team is working on improvements for this at the protocol level while also encouraging the markets to take advantage of arbitrage &amp; speculation opportunities.,1,1,0,2021-05-20
+77,2021-05-25 19:02:05+00:00,1397266738446798851,CryptexFinance,"👀 @voteWithTally 
+
+https://t.co/EKTS1fDY82 https://t.co/uhn5jaW2nY",11,1,5,2021-05-25
+78,2021-05-28 03:48:58+00:00,1398124110367105032,CryptexFinance,"@tolenuk We submitted the request to their team but haven’t received a response yet. Just a heads up, TCAP was added to hardware wallets Trezor and GridPlus. We’re waiting on Ledger now :)",1,0,0,2021-05-28
+79,2021-07-02 17:04:44+00:00,1411007949078777857,CryptexFinance,@AndreasMetschke 😎,1,0,0,2021-07-02
+80,2021-07-14 15:50:39+00:00,1415337956223725569,CryptexFinance,@dnkta @Roychengyouzhe @safetyth1rd 👀 https://t.co/QFhsMNZM7G,3,0,1,2021-07-14
+81,2021-07-15 13:34:05+00:00,1415665977124179971,CryptexFinance,"🌎 50+ countries 
+
+💸 7 fiat onramps worldwide 
+
+🎆 1 NFT to commemorate 
+
+The trading of $CTX and custody of $TCAP on @Gemini https://t.co/sd72zJEfFk",63,14,19,2021-07-15
+87,2021-07-17 00:54:48+00:00,1416199672960634880,CryptexFinance,@lenhartjames @DeBankDeFi we have garnered votes for it https://t.co/ntl5WTJrCh your move @DeBankDeFi 👀,4,0,0,2021-07-17
+89,2021-07-21 18:06:27+00:00,1417908846148866048,CryptexFinance,(4/5) TCAP Hodlers https://t.co/fd4fxc1f6u,1,0,0,2021-07-21
+91,2021-07-22 20:19:13+00:00,1418304647807254528,CryptexFinance,@ClayCollins Off the shelf sizing? Ser this Nomics not Nordstrom’s,1,1,0,2021-07-22
+93,2021-07-23 15:32:23+00:00,1418594849528369153,CryptexFinance,"@dnkta @MatiGreenspan @MatiGreenspan sorry our discord bot banned you, feel free to rejoin 
+
+https://t.co/u44JIExOT2",1,0,0,2021-07-23
+94,2021-07-29 13:59:40+00:00,1420745844123267075,CryptexFinance,"(1/5) Here’s the weekly update of the Cryptex protocol! Sharing stats for:
+
+-TVL 
+-Supply of TCAP
+-TCAP Hodlers 
+-Liquidity Rewards 
+
+All of this data is available in real time on our website https://t.co/0Wmi8pb7mE &amp; @DuneAnalytics https://t.co/ZA38mKTIZx https://t.co/6sABqF6f11",10,2,5,2021-07-29
+98,2021-07-31 20:42:40+00:00,1421572039442317313,CryptexFinance,"@dvuhbkh @tyler @cameron @Gemini hmmm, that is odd. Looking into this. Thanks for sharing. Should be Cryptex or Cryptex Finance https://t.co/AmKaoelFBB",1,0,0,2021-07-31
+99,2021-08-04 02:43:14+00:00,1422749941647167489,CryptexFinance,@zerion_io noticed our $TCAP icon and name are displaying incorrectly on your platform. Can you help us get this resolved? https://t.co/dxy820R8Ip,2,0,0,2021-08-04
+100,2021-08-05 15:07:38+00:00,1423299665680818177,CryptexFinance,"(2/5) Currently, liquidity rewards have decreased from last week due to a slight decrease in the price of $CTX https://t.co/XO2uIuj5LJ",5,1,1,2021-08-05
+102,2021-08-11 17:11:01+00:00,1425505044288397314,CryptexFinance,"(1/5) Presenting the weekly update of the Cryptex protocol! Sharing stats for:
+
+-TVL 
+-Supply of TCAP
+-TCAP Hodlers 
+-Liquidity Rewards 
+
+All of this data is available in real time on our website https://t.co/0Wmi8psILe &amp; @DuneAnalytics https://t.co/ZA38mKC87Z https://t.co/iFSiVvNUYC",12,1,7,2021-08-11
+106,2021-08-17 14:48:21+00:00,1427643466134212629,CryptexFinance,We’re abducting @BrantlyMillegan from @ensdomains for the next episode of our Space Invaders Series hosted by @BFreshHB. Join us for the live conversation here on Twitter Spaces Thursday August 19th at 6pm UTC: https://t.co/blPa5MvnLN https://t.co/9p716KvLNM,18,3,4,2021-08-17
+107,2021-08-18 17:09:27+00:00,1428041362163765249,CryptexFinance,(4/5) Supply of $TCAP has remained the same as last week. https://t.co/feQWIyu3ZN,5,0,0,2021-08-18
+111,2021-08-19 20:09:03+00:00,1428448948730138638,CryptexFinance,@peiqiya @BrantlyMillegan @ensdomains @BFreshHB @shankshaft_ can help,1,0,0,2021-08-19
+112,2021-08-25 18:06:14+00:00,1430592368894484486,CryptexFinance,"(1/5) Presenting the weekly update of the Cryptex protocol! Sharing stats for:
+
+-TVL 
+-Supply of TCAP
+-TCAP Hodlers 
+-Liquidity Rewards 
+
+All of this data is available in real time on our website https://t.co/0Wmi8psILe &amp; @DuneAnalytics https://t.co/ZA38mKC87Z https://t.co/ORPzwfdG6N",9,1,3,2021-08-25
+116,2021-08-29 19:42:50+00:00,1432066230857392131,CryptexFinance,"@VictorMoses0001 @ExLocker This project is NOT related to us.
+
+Please stop tagging us in it.",0,0,0,2021-08-29
+117,2021-09-13 14:18:51+00:00,1437420516407758849,CryptexFinance,"@FOMO_MAN @andy_andres90 @CTXonGemini @Gemini CTX is the Cryptex governance token, giving holders the ability to propose &amp; vote on future protocol upgrades.",1,0,0,2021-09-13
+122,2021-09-21 18:52:26+00:00,1440388466148134922,CryptexFinance,"Over $80M of $CTX was traded last week on @Gemini &amp; @SushiSwap 🤝 
+
+Stay up to date with $CTX volume, market cap and more on @coingecko @NomicsFinance &amp; @CoinMarketCap",35,8,14,2021-09-21
+123,2021-09-22 14:37:26+00:00,1440686683377201152,CryptexFinance,"@epargnecrypto Hey, we are making the update on the website shortly. For now you can find the discord invite on our linktree - https://t.co/Sz4BbS9OHd",0,0,0,2021-09-22
+124,2021-09-27 22:44:24+00:00,1442621172034703363,CryptexFinance,@CoinMarketCap would like to register matz@cryptex.finance to manage CTX https://t.co/jD7zgyeR4P self-reporting dashboard.,0,0,0,2021-09-27
+125,2021-09-29 13:48:09+00:00,1443210993446932481,CryptexFinance,"@AndyPazer No. Liquidation pertains to users minting, not users trading.",0,0,0,2021-09-29
+126,2021-09-30 17:14:49+00:00,1443625393991389189,CryptexFinance,"To become a Crypt Keeper, fill out this form https://t.co/6l4fjLfzkH, announce your interest to the community and we will plug you into the UI. 3/3",7,0,0,2021-09-30
+129,2021-10-02 17:22:03+00:00,1444351988884545536,CryptexFinance,"If you'd like to become a delegate for $CTX staking, please remember to sign up to become a crypt keeper! Crypt keepers are responsible for actively reviewing and participating in #Cryptex governance proposals. https://t.co/K5Q43S24PJ https://t.co/IFT0FbRuHh",26,0,7,2021-10-02
+130,2021-10-05 12:00:32+00:00,1445358240515112964,CryptexFinance,gm https://t.co/dpYem0FvBg,23,1,3,2021-10-05
+133,2021-10-07 01:10:34+00:00,1445919446665678855,CryptexFinance,"Staking season is here 🥩
+
+- Single Side $CTX Staking live. Rewards begin tomorrow Oct 7th
+- ETH/TCAP LP extended rewards begin Oct 11
+- ETH/CTX LP extended rewards begin Oct 24 
+
+All rewards set with a 6-month duration and zero lockups. 
+
+Details below: 
+https://t.co/AJRZ394UMN https://t.co/ZOsy6rSPKq",34,1,9,2021-10-07
+138,2021-10-08 02:26:04+00:00,1446300835584126995,CryptexFinance,@tasyaov_ Fake. We have nothing to do with that.,2,0,0,2021-10-08
+141,2021-10-10 16:47:01+00:00,1447242275415801857,CryptexFinance,"$CTX rewards for Single Side Staking went live 10/7. Since then, we've seen over 100K CTX staked. 
+
+https://t.co/rvYfwy9lbc
+
+In case you missed it, here's a step-by-step guide on how to use staking &amp; delegating to Crypt Keepers: https://t.co/k79knkI80p https://t.co/SmOjp6Kqqz",22,1,7,2021-10-10
+142,2021-10-11 14:13:19+00:00,1447565985024823296,CryptexFinance,"Extended ETH/TCAP LP rewards are now live.
+
+100,000 $CTX have been added to the pool, rewards are on a 100% per block basis for 6 months, zero lockup.
+
+Details: https://t.co/AJRZ394UMN https://t.co/USJmVeKqcC",21,1,4,2021-10-11
+143,2021-10-12 23:52:10+00:00,1448074041659727873,CryptexFinance,👀 https://t.co/WePdhAN8nA,27,2,5,2021-10-12
+146,2021-10-16 00:47:03+00:00,1449175019049865216,CryptexFinance,"#Cryptex hit 10,000 Twitter followers! To celebrate we're giving away one $TCAP! Retweet to enter 🥳 Winners will be chosen Monday https://t.co/aJ7cv2MQFT",68,13,68,2021-10-16
+150,2021-10-17 22:30:03+00:00,1449865317233086466,CryptexFinance,"ETH/CTX rewards unlock at 10:53:57pm UTC. Last unlock like this so enjoy.
+
+Single sided staking is live https://t.co/g2IcYRMhkS
+
+ETH/TCAP extended rewards live https://t.co/NFq5akgYj5
+
+ETH/CTX LP rewards will be extended 6 months, zero lockups. 
+
+Happy staking! https://t.co/qM66YIv2tJ",21,0,4,2021-10-17
+152,2021-10-18 19:28:24+00:00,1450181991635226624,CryptexFinance,Congrats @JCRacefab you won a $TCAP! 🥳 Sending you a DM,9,3,1,2021-10-18
+153,2021-10-20 00:40:02+00:00,1450622802491592705,CryptexFinance,We’re abducting @mdudas for the next episode of our Space Invaders Series co-hosted by @BFreshHB &amp; @JoeCryptex. Join us for the live conversation here on Twitter Spaces this Friday October 21st at 12:00am UTC: https://t.co/VHlQBQDDHf https://t.co/vc8Iu7VobR,35,1,10,2021-10-20
+154,2021-10-21 00:07:05+00:00,1450976902106292226,CryptexFinance,"Trying to figure out which Crypt Keeper to delegate your staked $CTX to?
+@Hypercrypt0 interviews @dnkta as part of our new blog series 'Meet Your Keeper' https://t.co/Arfvz2Yxb7 https://t.co/YnJXEqFG5Q",24,0,8,2021-10-21
+158,2021-10-23 17:24:02+00:00,1451962634471890948,CryptexFinance,"Incoming alpha leak‼️
+
+On our newly published episode of Space Invaders @sassal0x from @thedailygwei, @preston_vanloon &amp; @BFreshHB discuss decentralization and more!
+
+Available on:
+
+Youtube: https://t.co/0VaGyJdcii
+
+Podcast: https://t.co/5g28aQjwi5
+
+Blog: https://t.co/AT52F6HiOm https://t.co/6D8LnKtF39",31,1,9,2021-10-23
+161,2021-10-25 01:30:01+00:00,1452447324047921155,CryptexFinance,"We are thrilled to announce that in just two weeks, over 250,000 $CTX has already been staked to our #Cryptex single side staking platform. 
+
+Cheers to our community and fully decentralized protocol governance! https://t.co/Ot5DGykTMC",34,2,16,2021-10-25
+162,2021-10-28 00:14:04+00:00,1453515371340775428,CryptexFinance,Trying to figure out which Crypt Keeper to delegate your staked $CTX to? @Hypercrypt0 interviews @indigoethsec as part of our blog series 'Meet Your Keeper.' https://t.co/Dq7uB3xQqm https://t.co/DY45GQmYgE,21,1,9,2021-10-28
+163,2021-10-30 00:54:01+00:00,1454250201624064005,CryptexFinance,"Incoming alpha leak‼️
+
+On our newly published episode of Space Invaders @mdudas, @JoeCryptex &amp; @BFreshHB discuss #NFTs, #DeFi, and more!
+
+Available on:
+
+Youtube: https://t.co/2dmn1Djhpl
+
+Podcast: https://t.co/hiKNBe9Z1M
+
+Blog: https://t.co/K5F5UZSrPS https://t.co/VqYub4yd58",12,2,2,2021-10-30
+164,2021-11-03 17:10:06+00:00,1455945393913597952,CryptexFinance,"Trying to figure out which Crypt Keeper to delegate your staked $CTX to?
+@Hypercrypt0 interviews @leo_hao for our blog series 'Meet Your Keeper.' https://t.co/kaB8tHUdYR https://t.co/nwVxD6guxp",16,1,8,2021-11-03
+165,2021-11-10 13:54:41+00:00,1458432929311432705,CryptexFinance,@ElCapitan2020 @PieDAO_DeFi @Mkatx5 soon,4,0,2,2021-11-10
+166,2021-11-11 01:57:01+00:00,1458614709897379846,CryptexFinance,"Trying to figure out which Crypt Keeper to delegate your staked $CTX to?
+@Hypercrypt0 interviews Crypt Keeper 'huntsman' as part of our blog post series 'Meet Your Keeper'  https://t.co/rpgQur8LX7 https://t.co/zybNQInL5d",11,0,5,2021-11-11
+167,2021-11-12 00:27:52+00:00,1458954662938353667,CryptexFinance,DM @shankshaft_ a screenshot of you attending the spaces for your POAP!,4,0,1,2021-11-12
+168,2021-11-18 05:26:01+00:00,1461204024368279554,CryptexFinance,Trying to figure out which Crypt Keeper to delegate your staked $CTX to @Hypercrypt0 interviews Crypt Keeper @DesertDwelr as part of our blog post series 'Meet Your Keeper'  https://t.co/2fcVHGXhNK https://t.co/OLXOGB21yO,18,3,6,2021-11-18
+169,2021-11-25 02:22:01+00:00,1463694431656333321,CryptexFinance,"Trying to figure out which Crypt Keeper to delegate your staked $CTX to?
+@Hypercrypt0 interviews @yadfarms as part of our blog post series 'Meet Your Keeper' https://t.co/9txc0355lA https://t.co/z6HJZedqwz",15,2,8,2021-11-25
+170,2021-11-29 17:30:07+00:00,1465372513953796106,CryptexFinance,"We are beyond thrilled to announce that over 400,000 CTX has been staked to our single-sided staking platform in just six weeks. This is an incredible accomplishment and we couldn’t be more thankful to our community and the world for this undoubtable show of confidence. https://t.co/Ndb58kyp2R",24,1,8,2021-11-29
+171,2021-12-02 01:37:59+00:00,1466220064860950540,CryptexFinance,"TCAP/ETH is one of the best when it comes to IG and positive ROI on @SushiSwap 🍄 
+
+TCAP/ETH LP past 6 months:
+Rank: #7
+Pool ROI +78.18%
+HODL ROI +69.51%
+Impermanent Gain/Loss +5.12%
+
+Plus you can stake your LP position on the Cryptex app for ~22% APY in $CTX rewards (2/4)",7,1,1,2021-12-02
+172,2022-01-07 00:30:29+00:00,1479249041837985797,CryptexFinance,DM @shankshaft_ a screenshot of you in the spaces to receive your POAP after!,4,0,0,2022-01-07
+173,2022-01-11 02:29:04+00:00,1480728434435399685,CryptexFinance,@fintechfrank https://t.co/oHrJiVib6e,17,3,2,2022-01-11
+174,2022-01-14 22:52:55+00:00,1482123590476648458,CryptexFinance,"The #Cryptex DAO is pleased to now support @CoinbaseWallet on https://t.co/0Wmi8psILe
+
+@CoinbaseWallet users worldwide are now able to mint $TCAP and stake $CTX https://t.co/FE6hFP2vmu",34,5,13,2022-01-14
+175,2022-01-17 19:23:14+00:00,1483157986839347200,CryptexFinance,@defiprime We'll bid it up to $3500 🍄,5,0,0,2022-01-17
+176,2022-01-25 20:00:08+00:00,1486066375919648768,CryptexFinance,"$LINK vaults are open for collateral.
+
+@Chainlink holders are now able to post collateral and borrow against the entire crypto market cap with $TCAP, The World’s First Total Crypto Market Cap Token.
+
+Available on https://t.co/0Wmi8psILe https://t.co/9jdZEHyG4u",158,10,32,2022-01-25
+180,2022-01-26 14:38:27+00:00,1486347808642899970,CryptexFinance,"@CoinMarketCap making a public post for ticket number 384669 to display our contract address and explorer data, with the goal of getting our data to show as verified.",1,0,1,2022-01-26
+181,2022-01-27 00:30:00+00:00,1486496677926166530,CryptexFinance,"To celebrate $CTX going live on Coinbase, #Cryptex is giving away $5,000 in $TCAP to one winner!
+
+To enter:
+Follow @cryptexfinance 🍄
+Like + retweet this tweet ✅
+Tag 2 friends 🙌
+
+We'll announce the winner on Monday 1/31 at 4pm UTC.
+
+Good Luck! https://t.co/JXzsnxPk1g",160,112,114,2022-01-27
+183,2022-01-28 02:54:12+00:00,1486895354142412801,CryptexFinance,@tyler @cameron Yo https://t.co/F0tvgy7v9d,20,3,6,2022-01-28
+185,2022-01-31 16:00:10+00:00,1488180315277471745,CryptexFinance,Congratulations to @DesertDwelr! Sending you a DM. 🍄 https://t.co/UKfvQCYPaQ,27,2,3,2022-01-31
+186,2022-02-02 00:05:25+00:00,1488664816747261952,CryptexFinance,"As we work to decentralize tomorrow, we are pleased to announce starting today, millions of Coinbase Earn users worldwide will now receive education on CTX, TCAP and the Cryptex DAO. (1/2)
+
+https://t.co/fe4Z6S74ny https://t.co/5lJlpuWwP8",58,6,25,2022-02-02
+188,2022-02-04 02:35:01+00:00,1489427243667537927,CryptexFinance,Thanks for 11k! https://t.co/XPCjr9OMze,42,5,9,2022-02-04
+189,2022-02-09 20:09:02+00:00,1491504432911163396,CryptexFinance,"Join us for our #ETHDenver Happy Hour Event @torchystacos!  
+ 
+Next Wednesday, February 16th from 4-7 pm MST we'll be at Torchys Tacos with food and drinks for all founders, devs, and community builders!
+
+RSVP: https://t.co/jJXwi9BsaK https://t.co/SMfYgL6zBd",21,1,7,2022-02-09
+190,2022-02-11 00:20:01+00:00,1491929982112874496,CryptexFinance,"$CTX can now be tracked on Yahoo Finance!
+https://t.co/PQi3cIuL9C",30,0,8,2022-02-11
+193,2022-02-12 20:20:45+00:00,1492594547108556804,CryptexFinance,"Cheaper gas and getting you there fast.
+
+Try $TCAP, the World's First Total Crypto Market Cap Token, with $ETH, $DAI, $LINK, $UNI and $SNX vaults on @optimismPBC here: https://t.co/0Wmi8psILe https://t.co/p9wmR4qr4v",50,5,22,2022-02-12
+194,2022-02-14 19:13:01+00:00,1493302274466189316,CryptexFinance,$CTX data can now be tracked on @Stocktwits! https://t.co/QnOmJM0E5B,21,1,8,2022-02-14
+201,2022-02-15 18:10:54+00:00,1493649032136245251,CryptexFinance,gm from #ETHDenver https://t.co/atXlFUd6FO,28,2,3,2022-02-15
+202,2022-02-17 00:26:45+00:00,1494106004413427712,CryptexFinance,Our #ETHDenver happy hour event is in full swing! Come through to @torchystacos &amp; hang! https://t.co/J8aM129lya,38,1,6,2022-02-17
+204,2022-02-21 19:44:33+00:00,1495846925232451587,CryptexFinance,"Holders of the new @Gemini credit card can choose to earn $CTX on purchases anywhere #mastercard is accepted. https://t.co/26GuQyfIgd
+
+Additionally, $CTX is available on the #Flexa network and can be spent at over 41,000 locations in the US and Canada. https://t.co/upsXECSfaT",27,2,5,2022-02-21
+205,2022-02-23 20:02:02+00:00,1496576104404078594,CryptexFinance,"All #POAPs from our #ETHDenver Happy Hour have been sent out! 
+
+Thanks to @hnmAck for the design 🍄 https://t.co/V4EPDdYN5s",16,2,3,2022-02-23
+206,2022-02-28 21:40:22+00:00,1498412786724003848,CryptexFinance,@optimismPBC ✨ https://t.co/FGXV589EhB,6,0,1,2022-02-28
+207,2022-03-08 21:23:56+00:00,1501307754547400705,CryptexFinance,@crisgarner @chainlink 🔥,3,0,0,2022-03-08
+208,2022-03-17 15:42:34+00:00,1504483337888407553,CryptexFinance,@aspeneth 🤝,4,0,0,2022-03-17
+209,2022-03-25 20:55:02+00:00,1507461077914689545,CryptexFinance,👋 Steve Jordan from The @RollingStones 👀 https://t.co/aEPzRNhJ41,34,7,6,2022-03-25
+210,2022-03-29 03:31:01+00:00,1508647892118118401,CryptexFinance,"$TCAP makes the crypto market cap tradeable in a single token. Users of the #Cryptex protocol have the option to mint TCAP, or simply hold TCAP as an index for all of crypto.
+
+Which is best for you? Check out our complete guide to TCAP by @Hypercrypt0 🔥
+https://t.co/0yAaeC0XLr https://t.co/lbRxFfdGC8",35,2,11,2022-03-29
+212,2022-03-30 20:03:02+00:00,1509259927570812928,CryptexFinance,"Cryptex is giving away 25 paid subscriptions to The Defiant!
+
+To Enter:
+Follow @cryptexfinance &amp; @DefiantNews 
+Like this tweet
+
+Winners will be selected on Monday, April 4th. https://t.co/VWyz9jXIuH",86,9,22,2022-03-30
+213,2022-04-01 14:06:56+00:00,1509895088700338195,CryptexFinance,Excited to announce $TCAP featuring rolling stones 😳 https://t.co/QoFrbigo6Z,30,0,7,2022-04-01
+214,2022-04-05 16:01:38+00:00,1511373506197479431,CryptexFinance,DM @shankshaft_ a screenshot of you in the spaces to receive your POAP after!,4,4,1,2022-04-05
+215,2022-04-12 21:03:33+00:00,1513986201258283017,CryptexFinance,"SINGLE-SIDED CTX STAKING REWARDS HAVE JUST BEEN EXTENDED!
+
+12,654 $CTX WILL BE DISTRIBUTED OVER THE NEXT THREE MONTHS TO THE SINGLE-SIDED STAKING POOL.
+
+READ MORE ABOUT THE EXTENSION HERE: https://t.co/Ll1MfJJE0Q https://t.co/LiclmSmBj6",23,0,3,2022-04-12
+218,2022-04-14 12:51:22+00:00,1514587115983712259,CryptexFinance,"@TR401 $TCAP is the $SPY of cryptoassets. 
+
+$TCAP is an index token that gives you exposure to ALL of crypto. It’s market cap weighted and rebalances in real time.",15,1,2,2022-04-14
+220,2022-04-15 17:31:16+00:00,1515019942592225282,CryptexFinance,"$TCAP/WETH SUSHISWAP LP REWARDS HAVE JUST BEEN EXTENDED!
+
+26,038 $CTX WILL BE DISTRIBUTED OVER THE NEXT THREE MONTHS.
+
+NEW TCAP POOL TO BE ANNOUNCED SOON 👀 
+
+READ MORE ABOUT THE EXTENSION HERE: https://t.co/Ll1MfJJE0Q https://t.co/mepeuYl13m",21,0,5,2022-04-15
+221,2022-04-18 14:12:14+00:00,1516057015394648065,CryptexFinance,@epnsproject 🤝,6,1,0,2022-04-18
+223,2022-04-19 15:59:57+00:00,1516446514033397778,CryptexFinance,@0xkaito @josiahtullis @aspeneth DM @shankshaft_ a screenshot of you in the Space to claim your POAP!,6,0,2,2022-04-19
+224,2022-04-20 20:28:01+00:00,1516876362065367042,CryptexFinance,$TCAP. The next chapter. https://t.co/wrzx8ZTY0c,45,7,16,2022-04-20
+225,2022-04-21 21:55:14+00:00,1517260697608105984,CryptexFinance,@zapper_learn 🍄 🔥,8,0,0,2022-04-21
+226,2022-04-22 00:43:01+00:00,1517302921108639744,CryptexFinance,We teamed up with @branddoktor from @Money to help #web3 users learn about and choose from the various types of crypto wallets available. Check out the article on our blog! https://t.co/2607BNGVPR https://t.co/IyzpuAp6OH,28,2,8,2022-04-22
+227,2022-04-26 19:47:30+00:00,1519040490976518144,CryptexFinance,Congrats to @optimismPBC for their announcement today! Deploying $TCAP there was an easy choice 🔥 https://t.co/OpzIpXR333,27,2,9,2022-04-26
+228,2022-04-27 18:40:30+00:00,1519386021212958725,CryptexFinance,"$CTX/WETH SUSHISWAP LP REWARDS HAVE JUST BEEN EXTENDED!
+
+13,348 $CTX WILL BE DISTRIBUTED OVER THE NEXT THREE MONTHS.
+
+READ MORE ABOUT THE EXTENSION HERE:
+https://t.co/Ll1MfJJE0Q https://t.co/uB7tnywCJN",17,0,3,2022-04-27
+229,2022-04-28 19:53:32+00:00,1519766786190811136,CryptexFinance,"Cryptex is proud to be a sponsor for  #PERMISSIONLESS, see you there for a very special announcement! ✨ https://t.co/988Zfcw9Gg",34,5,5,2022-04-28
+230,2022-05-04 16:00:03+00:00,1521882356646305792,CryptexFinance,"$TCAP $CTX
+
+This One Will Engulf Reality. https://t.co/NUXi31dES5",463,66,382,2022-05-04
+231,2022-05-09 16:51:09+00:00,1523707155484151809,CryptexFinance,@fringefinance @konstant_crypto Thanks for coming on! 🔥,7,0,0,2022-05-09
+232,2022-05-13 15:52:10+00:00,1525141864332001283,CryptexFinance,"@l4porte @ThetaTendies $TCAP is the S&amp;P of crypto, check it out!",7,0,0,2022-05-13
+238,2022-05-16 17:46:05+00:00,1526257693417160704,CryptexFinance,See you tomorrow #permissionless https://t.co/6Wj37qEnbg,36,3,8,2022-05-16
+239,2022-05-17 17:43:45+00:00,1526619496617848832,CryptexFinance,"Introducing Cryptex Tower: The next evolution for capital efficiency and accessibility of TCAP.
+
+Built by Cryptex, Powered by @chainlink, Audited by @Quantstamp, and Custody by @Gemini https://t.co/ZSChKHn7tn",438,27,156,2022-05-17
+248,2022-05-18 12:38:22+00:00,1526905029130592256,CryptexFinance,@DeFi_Dad 😏,8,0,0,2022-05-18
+251,2022-05-19 20:29:07+00:00,1527385885309685765,CryptexFinance,Catching @preston_vanloon talking $TCAP $CTX #Permissionless https://t.co/Ui7rIM2OH9,42,5,12,2022-05-19
+252,2022-05-27 16:28:46+00:00,1530224504068243458,CryptexFinance,@gabrielhaines @Permissionless @BanklessHQ @Blockworks_ @MotherOfDegens_ @Raleigh_CA The spores are spreading 🍄🔥,8,0,0,2022-05-27
+253,2022-05-31 14:12:24+00:00,1531639738297352195,CryptexFinance,"Join @CryptexFinance, @Blockworks_, and @howardlindzon this Thursday, June 2nd to learn about Diversification in Digital Assets with $TCAP! https://t.co/cW0T79XMCq",22,3,8,2022-05-31
+255,2022-06-05 17:53:41+00:00,1533507364342702080,CryptexFinance,@tyler @cameron @MarsJunction @WonderBarAP Can’t make Jersey but we’ll prob hit Amagansett 😎,5,1,0,2022-06-05
+256,2022-06-08 22:25:06+00:00,1534662830225506306,CryptexFinance,"Last week, Cryptex joined @Blockworks_ and @howardlindzon for a webinar on diversification in digital assets. Check out the recording below! https://t.co/GwuL13oHM3",24,2,6,2022-06-08
+258,2022-06-10 16:45:35+00:00,1535302166684090371,CryptexFinance,"Our Co-Founder and user of fine hair care products @preston_vanloon will be live on the featured stage discussing the merge with @ethereumjoseph, Co-Founder of Ethereum and ConsenSys and @christinenews live at 12:10 CDT 🧔‍♀️
+
+Watch it live here:
+
+https://t.co/2ulOKxiBb9",19,9,4,2022-06-10
+259,2022-06-13 18:00:26+00:00,1536408166342213634,CryptexFinance,"Tomorrow, Cryptex co-founder Joe Sticco will be speaking at Context NY about TCAP on a panel for institutional investors, hedge funds and family offices.
+
+Sponsored by @TDBank_US @usbank and @AbraGlobal
+
+Read more: https://t.co/7vf2LsDteG https://t.co/fvBfpMSoYl",22,3,8,2022-06-13
+260,2022-06-14 17:52:35+00:00,1536768580095725568,CryptexFinance,DeFi Summer https://t.co/Y3AbXGYkKw,25,3,5,2022-06-14
+262,2022-06-20 21:17:15+00:00,1538994410310049793,CryptexFinance,Thanks for 12k followers! 🍄 https://t.co/8C9uOPyn5b,32,9,4,2022-06-20
+263,2022-06-21 15:58:54+00:00,1539276684704243712,CryptexFinance,@danheld Beautiful dog. Very sorry for your loss.,1,0,0,2022-06-21
+264,2022-07-01 20:00:02+00:00,1542961247213207552,CryptexFinance,"🔥Cryptex Finance $CTX RSS feed is now integrated live on @cryptocom 🔥
+
+Learn more about this integration via our blog: https://t.co/pxkYBtYkJ6 https://t.co/CQaPwARWNP",29,7,5,2022-07-01
+265,2022-07-21 16:23:54+00:00,1550154611302047745,CryptexFinance,📢 Shoutout to @zapper_fi for including us in their DeFi DAOs list https://t.co/fpF0ieRYsX,22,2,2,2022-07-21
+266,2022-07-25 10:51:34+00:00,1551520530532126723,CryptexFinance,"@coinfessions We are looking for a project manager. If you have a resume that is relevant, please send it to us.",1,0,0,2022-07-25
+267,2022-07-27 19:28:31+00:00,1552375400612990976,CryptexFinance,"Since posting our Project Manager job listing on @jobsincrypto 5 days ago, we’ve already received over 170 applications for the position 😱🤯
+
+Our team will review all submissions over the next week. 
+
+Thank you for your interest in our DAO.
+
+-Team Cryptex",29,4,2,2022-07-27
+268,2022-07-28 12:56:32+00:00,1552639139589259266,CryptexFinance,@howardlindzon Gm friend,1,0,0,2022-07-28
+269,2022-08-16 19:26:20+00:00,1559622606575341573,CryptexFinance,"Today’s the day!👾 Space Invaders 👾 is back! 
+
+Join us at 8pm UTC to witness @aspeneth abduct self-made entrepreneur @BlockchainBoyy and get a chance to win 10 CTX governance tokens. 
+
+RSVP here: https://t.co/C0HHun32uc",16,3,3,2022-08-16
+272,2022-08-17 18:01:25+00:00,1559963625934176256,CryptexFinance,"Join us for a huge conversation with @chainlink at #SmartCon 2022 this Sept in #NYC!
+
+A week long #Web3 experience for catching alpha on the next wave of industry-defining financial primitives, smart contract applications and digital assets. 
+
+Tickets 👇
+https://t.co/XqsEQI1goE https://t.co/rqdbszvgDn",58,3,12,2022-08-17
+274,2022-08-19 16:21:46+00:00,1560663320826617856,CryptexFinance,"An update regarding the TCAP/ETH rewards: 15,000 CTX have been added as LP rewards to UNI V3, valid for the next three months. In case you already staked a position, unstake it, restake it and you will receive the LP rewards. https://t.co/XWeuWEApZc",15,1,0,2022-08-19
+276,2022-08-22 18:34:40+00:00,1561783929719459843,CryptexFinance,"Last week we hosted @blockchainboyy on Space Invaders. When we asked him about decentralization, that’s what he said: https://t.co/y3V92Gec69",11,1,1,2022-08-22
+277,2022-08-26 22:01:50+00:00,1563285619266420736,CryptexFinance,"Our Co-Founder @preston_vanloon in the @nytimes today talking about his work on the #ethereum merge live from a secret cave.
+
+Big congrats to Preston and his hair 🧔‍♀️
+
+https://t.co/W277sjkTIr https://t.co/bR1ifIX05b",80,10,13,2022-08-26
+280,2022-08-29 19:54:12+00:00,1564340660467113992,CryptexFinance,"It will be a pleasure having @aubreystrobel  as our guest on 👾 Space Invaders 👾 tomorrow at 16:00 UTC: https://t.co/PmRmsLQ6sm
+
+Join us for one of a kind #POAP and a chance to get 10 $CTX governance tokens https://t.co/F378ElCYXA",31,5,4,2022-08-29
+281,2022-09-02 19:50:36+00:00,1565789306727309313,CryptexFinance,"On 9/28, fly with us to #Smartcon alongside @CoinbaseCloud and @ChainlinkWill as we work to enable #DeFi to do more.
+
+🫡 @chainlink
+
+https://t.co/XqsEQI1goE https://t.co/dozFnz6EGy",156,20,24,2022-09-02
+282,2022-09-07 16:22:10+00:00,1567548793603723264,CryptexFinance,"Join us for our Q3 community call on Tuesday, October 4th at 18:00 UTC.
+
+Let us know what you care about the most👉 https://t.co/mpVuYvgcXy
+RSVP Here👉 https://t.co/pAWX6bukU8 https://t.co/IS81BCDCSh",14,1,2,2022-09-07
+283,2022-09-08 18:44:57+00:00,1567947113476268032,CryptexFinance,"Next week we’re hosting @DeFiDave22. Aside from hosting his own podcast, DeFi Dave is an advisor for Pitch Money, a Frax Finance Missionary, and also does work for PIF labs.
+Get a chance to win 10 $CTX governance tokens - https://t.co/3z0CcP7Awt
+September 13th, 16:00 UTC https://t.co/0CPcWJ8el4",17,1,5,2022-09-08
+284,2022-09-13 19:59:57+00:00,1569777927067435008,CryptexFinance,"Join @DefiantNews and #Cryptex this Thursday in Brooklyn, NY to celebrate the merge 🐼
+
+RSVP: https://t.co/NvBWy8K5kq https://t.co/DWMfps1YzT",48,13,12,2022-09-13
+285,2022-09-16 03:01:15+00:00,1570608726998159365,CryptexFinance,"Catch our Co-Founder and Ethereum core developer @preston_vanloon talking the merge on @BloombergTV today! 
+
+https://t.co/riXorQF3eo",15,7,1,2022-09-16
+286,2022-09-17 13:22:23+00:00,1571127429426708482,CryptexFinance,@howardlindzon Happy belated my man,1,0,0,2022-09-17
+287,2022-09-20 22:47:43+00:00,1572356861550026752,CryptexFinance,"📣 @coinbase users are now able to interact with minting, pooling and farming on the Cryptex dApp directly from their Coinbase mobile app under browser. https://t.co/OCLFK9i9yJ",26,3,11,2022-09-20

@@ -1,0 +1,953 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-02 13:42:25+00:00,1212730870651637760,golemproject,"“A decentralized internet will emerge, led initially by decentralized infrastructure services like storage, bandwidth, compute, etc.” -
+What will happen in 2020 by Fred Wilson https://t.co/dtmgtPKyWg",68,3,20,2020-01-02
+1,2020-01-13 09:47:16+00:00,1216657957947166720,golemproject,Our adoption metrics are always available at https://t.co/q2wxhDCx56! You can see historical data - there are other community resources as https://t.co/0WwiS0p9Q7 - Dig in! https://t.co/14GiGgrD22,28,1,6,2020-01-13
+5,2020-01-14 16:54:27+00:00,1217127850173779971,golemproject,"Drumroll please! we did it! here's our latest (and greatest?) release including the Task API on testnet! 
+Check the other cool upgrades, such as Concent on mainnet, pay as you GOlem (aka pay as you use) Usage Marketplace and much more :) https://t.co/AwSpWwqsUK",71,7,17,2020-01-14
+9,2020-01-16 18:22:23+00:00,1217874757368143876,golemproject,@xzhybbs @gnosisSafe @ethstatus @gnosisPM We're lovers not fighters over here. Nothing but respect for these guys here!,0,0,0,2020-01-16
+19,2020-01-17 10:34:16+00:00,1218119338319851520,golemproject,"Hey! it's time! Golem's having the first 2020 AMA on Wednesday 22nd, at 6pm CET - want to join? here's the link https://t.co/eTY7rOyBIp",24,1,8,2020-01-17
+20,2020-01-18 06:51:28+00:00,1218425658470273026,golemproject,"SCAM ALERT. We have received reports of a @Facebook page claiming to be us and is offering fake airdrops. In short: YOU WILL LOSE YOUR MONEY IF YOU ENGAGE WITH SCAMMERS.
+GOLEM DOES NOT DO AIRDROPS, REPORT THE PAGE IF YOU STUMBLED UPON IT. Stay safe! https://t.co/uXYkeEff5b",28,4,15,2020-01-18
+22,2020-01-20 10:22:08+00:00,1219203449885286400,golemproject,"Happy monday and reminder, we have AMA this week on @reddit! (by the way, we loved all your questions about DeFi, we get it, we get it, but we have tech too :) - try asking us stuff about our Task API, gWASM, world domination plans, we'll cover all!) https://t.co/eTY7rOyBIp https://t.co/BsHJGgmqhh",23,0,5,2020-01-20
+23,2020-01-21 18:12:44+00:00,1219684265706893313,golemproject,"@BrendanEich @DeFiDude @BlockchainJames @demibrener @DavidVorick We're still not using SGX enclaves as well - we are building a framework to do so, but WIP (https://t.co/QXDxCATj0Z), we're using probabilistic verification for rendering (https://t.co/h6RQjGOX7q) and for gWASM we just added verification by redundancy (https://t.co/sgpOUFNqDm)",3,1,0,2020-01-21
+27,2020-01-22 17:29:38+00:00,1220035808251580416,golemproject,"We've answered your questions :) go check out what we're up to, what plans we have, and more cool things about Golem in our AMA https://t.co/eTY7rOyBIp",19,2,4,2020-01-22
+29,2020-01-23 11:04:54+00:00,1220301376472932353,golemproject,"Thank you everyone that joined the AMA yesterday. Our super-user super-friend Jasper summarized everything into a TLDR. We love the diversity of topics in this AMA: tech, DeFi, creativity, Golem for Charity... you covered them all! https://t.co/GxRRCLB4pN",26,2,6,2020-01-23
+31,2020-01-29 12:04:11+00:00,1222490619341426688,golemproject,Great #web3 current status short list! https://t.co/IRiIOp5xQV,15,1,3,2020-01-29
+33,2020-01-30 19:14:05+00:00,1222961198901137410,golemproject,"With our 0.22.1 release launched today, two weeks after the Task API testnet launch - we can definitely be sure the team is determined to make it to the top 10 again in 2020! https://t.co/sqYuGfNXV2",40,4,13,2020-01-30
+37,2020-02-04 12:49:20+00:00,1224676310955577345,golemproject,"WATCH :) Facilitating distributed deterministic computation with WASI by @kubkon at #FOSDEM2020
+https://t.co/UjbNeYGkCo",12,1,6,2020-02-04
+38,2020-02-05 16:37:45+00:00,1225096182164344837,golemproject,"Time for some reading! Our Task API has been released on testnet three weeks ago, we patched it last week and released that too, thanks to your feedback - now our dev Gert-Jan has prepared a super helpful guide to get familiar with it, dig in! https://t.co/aBgGm0bFpW",39,3,10,2020-02-05
+39,2020-02-07 12:25:02+00:00,1225757359756189701,golemproject,Who uses cloud computing (rhetorical question ;) - fill out this survey by @CoBoxCoop :) https://t.co/iDELlnPmoC,22,1,4,2020-02-07
+40,2020-02-11 14:58:06+00:00,1227245432125956097,golemproject,We are really looking forward to Paris! This time we'll intro a couple more things about #gWASM - the easiest way to build decentralized applications brought to you by @kubkon! You don't wanna miss out on this one! https://t.co/bneWURqktT,35,0,6,2020-02-11
+41,2020-02-12 17:27:41+00:00,1227645462251003905,golemproject,Awesome thread with Awesome Hackathon Projects within the @ethereum community. We'll hopefully be ready to jump in soon :) https://t.co/RIQcS86iEF,35,1,9,2020-02-12
+42,2020-02-14 14:01:10+00:00,1228318268110360582,golemproject,"Before you slide right into the weekend... 
+Read our post about how we joined  the @Filecoin Powers of Tau trusted setup ceremony, becoming one of the first companies to do this as a project (as opposed to a person working within a project) https://t.co/oEUFOI5CeI",51,0,14,2020-02-14
+43,2020-02-15 13:44:48+00:00,1228676536259223552,golemproject,@EthereumNetw @Filecoin As a key part of #Web3's future :) its not about us.,3,1,0,2020-02-15
+45,2020-02-18 16:52:09+00:00,1229810849575055361,golemproject,"The state of the European blockchain industry featuring Zug's finest and by that, we mean us ;) 
+Great report by newly-founded organization @dGenOrg - reports as this one help towards the professionalization of the industry and we're here for it! https://t.co/QvxRWWUCXC",32,1,9,2020-02-18
+46,2020-02-21 14:33:56+00:00,1230863226214264833,golemproject,"HEY! We're shipping! We're shipping our dev @kubkon straight into the city of lights, Paris, for @EthCC_ - even if you're not into #WASM or #WASI, meet Kubkon best Scottish accent you've ever hear from a Polish guy ;) https://t.co/IeE6yNZXBg",28,3,8,2020-02-21
+47,2020-02-22 21:54:00+00:00,1231336362760179713,golemproject,"Sad to hear that @EDCON_Official is canceled,  but the organizing team has made the best choice possible - best wishes to them. 
+We'll soon find another opportunity for @marcinbenke to showcase our latest research! Stay tuned! 
+In the meantime - let's meet at @EthCC_ in March! https://t.co/Qc9CQ2CBXU",25,4,7,2020-02-22
+48,2020-02-26 15:58:40+00:00,1232696489287262211,golemproject,"We really like #DeFi, but this is very true! the shared, new, digital, web3 economy is multi-layered and general-purpose. Join us! https://t.co/TAi01gW1yi",27,3,6,2020-02-26
+50,2020-02-27 09:14:50+00:00,1232957251188641793,golemproject,"@ricburton @spencecoin The core team tokens are still under vesting. 
+The other team tokens (devs) vesting has begun only a year and a half ago, and it is conservative. Check the multi-sig. 
+Also, 95% of the team lives in Warsaw, which makes what you said a huge ad-hominem. Inform yourself please.",16,1,0,2020-02-27
+52,2020-02-28 13:37:21+00:00,1233385702697709569,golemproject,What happens when the world is going through difficult times - which industries can help make it a better place? The answer is in innovation and disruption! let's keep our ideas fresh and our minds open :) https://t.co/XLIvLSy9gJ,24,0,5,2020-02-28
+53,2020-02-29 11:06:02+00:00,1233710012138184704,golemproject,Oh my god we finally have a decent Golem Anthem 🙏🙏 thank you @RandyInLA https://t.co/zICclOGguO,18,2,1,2020-02-29
+54,2020-03-03 13:57:47+00:00,1234840395881885696,golemproject,"Wishing everyone at @EthCC_  great time. Our dev @kubkon will not be able to make it this time, but stay tuned for his slides!
+For now, tune in the #ETHCC livestream and learn about awesome projects as @nymproject, building the next gen of network-level privacy infrastructure https://t.co/60s7eYsCvn",17,0,4,2020-03-03
+55,2020-03-04 11:02:47+00:00,1235158743135985664,golemproject,"So thank you, SETI@home - we're doing our best to honor the legacy of projects like BOINC which allowed SETI@home to become this shared project.",10,0,1,2020-03-04
+60,2020-03-05 16:55:08+00:00,1235609804816764928,golemproject,"Our team is never not working :) meet Golem Hive, a project by our DevOps Karol, that proves what you can achieve with the Task API (and talent, of course!) https://t.co/xNoo3mc9oN",49,2,21,2020-03-05
+62,2020-03-06 16:04:27+00:00,1235959438630105089,golemproject,"PR  merged to the @rust_blockchain repo :) an awesome resource hub for all @rustlang and decentralized. We've been building on Rust for a while now-  stay tuned for our news on that front! (and subscribe to the Rust on Blockchain Newsletter, its great!) https://t.co/trEFwx2UyQ",29,1,6,2020-03-06
+63,2020-03-09 09:43:49+00:00,1236950809935523841,golemproject,"Proudly part of this milestone :) read the blogpost to learn how we contributed —&gt; https://t.co/oEUFOI5CeI
+Cc @MineFilecoin https://t.co/DJuyWLk8YQ",20,0,5,2020-03-09
+65,2020-03-10 14:18:31+00:00,1237382329334726661,golemproject,"See the first part of our new gWebinars series. Mikolaj and Jakob from the Golem team guide you through our latest meta-use case in an effort to save the crypto-resistance! 
+
+https://t.co/j2unmQ1x78",20,0,8,2020-03-10
+68,2020-03-11 17:02:11+00:00,1237785905957613568,golemproject,"ICYMI: Our DevOps Karol has been spending countless hours on a PoC for a decentralized cloud, built with our Task API. Read about his exciting journey here: https://t.co/xNoo3mc9oN",27,2,6,2020-03-11
+70,2020-03-12 13:58:32+00:00,1238102074535096322,golemproject,"Stick to the official Twitter (so this one), and the community-led Telegram group that works hard to keep you safe: https://t.co/H3tRPkSclm",4,0,0,2020-03-12
+72,2020-03-13 09:20:52+00:00,1238394587732901888,golemproject,Hey @UWproteindesign what's the best way to get in touch with you? We want to see if we can help out!,14,1,2,2020-03-13
+79,2020-03-16 15:55:28+00:00,1239581054782115840,golemproject,"Don't miss our new video, Building on top of Golem with gWASM https://t.co/Z07ZcQZWR9",16,1,4,2020-03-16
+80,2020-03-17 13:55:46+00:00,1239913320653692928,golemproject,"The Golem community chat is migrating from Rocket to Discord, see you there! https://t.co/my8CtRZrm7",15,1,5,2020-03-17
+83,2020-03-18 19:11:47+00:00,1240355234175647744,golemproject,This is a quite good article on Multi-Party Computation that might interest you https://t.co/7VmWM5BRd1,8,1,1,2020-03-18
+86,2020-03-20 14:09:36+00:00,1241003962863702018,golemproject,The Golem team is back on Reddit next week for our March AMA! Ask us anything at: https://t.co/zNyuge6XTN and we will start answering your questions next Wednesday 25th from 6pm CET #Crypto #ethereum #Blockchain,17,1,3,2020-03-20
+87,2020-03-21 13:49:20+00:00,1241361249985859586,golemproject,"Hey! reminder to #StayAtHome as our team does. However, this is not stopping Golem from working on the next deliverables - or staying in touch with our community. So join us for an AMA on Wednesday, March 25th at 6pm CET. Write your questions in advance. https://t.co/MZBr23Tce2",337,62,503,2020-03-21
+88,2020-03-22 20:44:25+00:00,1241828097227456514,golemproject,We're on it! (tomorrow though - today's a weekend (or not who's counting anymore) https://t.co/3ipKMdPnZY,12,1,4,2020-03-22
+89,2020-03-23 19:17:27+00:00,1242168600288526337,golemproject,"Nevermind us, we'll just sit here till you post your questions on the AMA... https://t.co/ipYS2EUJZS https://t.co/jUQcEb0ybn",14,2,4,2020-03-23
+92,2020-03-24 11:40:37+00:00,1242416024659640322,golemproject,We keep getting reports on @Facebook and it's especially bad as we have tried all means to get in touch with their support and report the sites. NO AIRDROPS OR FREE GIVEAWAYS FROM GOLEM. Stay Safe.,28,2,8,2020-03-24
+95,2020-03-25 19:26:43+00:00,1242895706748268545,golemproject,"Our March AMA has concluded. We will follow up tomorrow by sharing a summary.
+https://t.co/MZBr23Tce2",31,1,16,2020-03-25
+98,2020-03-26 15:41:22+00:00,1243201386432663552,golemproject,"@AneesMayo350 No, airdrops are fake!!!!!!",0,0,0,2020-03-26
+106,2020-03-27 16:40:27+00:00,1243578641147142145,golemproject,@Albiyan_ there is no airdrop it is a scam,1,0,0,2020-03-27
+110,2020-03-28 17:17:38+00:00,1243950386228142080,golemproject,@Abdull45001583 it is a scam.,2,0,0,2020-03-28
+111,2020-03-30 17:13:16+00:00,1244674063160745984,golemproject,@LopezReidel No airdrop - it is a scam.,0,0,0,2020-03-30
+114,2020-03-31 13:39:38+00:00,1244982687863095296,golemproject,"Last week, we wrote a blog focusing on Layer 2 and scaling Golem. We'd love to hear your thoughts and feedback on scaling challenges (and solutions!) in the Ethereum ecosystem. Do you have a favourite scaling solution?
+https://t.co/hLCj8amWY1",12,1,5,2020-03-31
+116,2020-04-01 11:15:07+00:00,1245308708281815041,golemproject,"Did you check out the latest on the future of Golem? Read this summary of our AMA to find out about the Golem Task API, ERC20 Migration and The Next Milestone!
+https://t.co/lMCH5f4TU2",11,1,3,2020-04-01
+118,2020-04-02 15:36:36+00:00,1245736902076104717,golemproject,@DuffleBag_Dul it gets easier release by release :) so depending on which release you left off at,0,1,0,2020-04-02
+122,2020-04-03 08:02:00+00:00,1245984882876198913,golemproject,"@DuffleBag_Dul @mat77ias Unfortunately, right now, you need terminal, but its pretty easy. Just head over to Discord and ask Phillip to walk u through it!",1,0,0,2020-04-03
+126,2020-04-06 07:29:42+00:00,1247063921476993025,golemproject,"@santimentfeed @CryptoEcon_Li Yes, unfortunately, GNT trends don't correlate to build - but we are working on reversing that mentality together with a migration to ERC20",6,2,1,2020-04-06
+131,2020-04-07 16:41:14+00:00,1247565107619672073,golemproject,"Protect yourself against scams by understanding what's behind them, how they operate and what to avoid. We prepared a quick and easy guide on how to stay safe. https://t.co/LcQ1UU7yeu",17,1,5,2020-04-07
+133,2020-04-09 09:27:48+00:00,1248180806205538304,golemproject,"We're very excited to have reached the major milestone, Clay Golem, last week. Get started with our new TaskAPI on mainnet!
+https://t.co/afJzJATlwc",20,1,7,2020-04-09
+137,2020-04-10 10:54:34+00:00,1248565028535615494,golemproject,"@xzhybbs @WildlandIO @IPFSbot @SiaTechHQ @storjproject Hey! this project is by the Golem Foundation, not by Factory. And guess what? They are hosting an AMA where they can answer this question and beyond, on Reddit! Please join them over here --&gt; https://t.co/691s5z02rO",1,0,0,2020-04-10
+138,2020-04-13 12:50:17+00:00,1249681314376286214,golemproject,"@CryptoEcon_Li Yes - we are working on delivering this vision. 
+We've been also looking into Edge computing for a while, however right now, we're focused on working towards our next milestone, which introduces radical changes to Golem as it's now",4,0,0,2020-04-13
+140,2020-04-14 10:22:04+00:00,1250006399586795520,golemproject,"Two years ago, Golem released Brass Beta 0.15.0, the first release with support for the Ethereum mainnet. Two weeks ago, we released the Task API on mainnet. Here you can find our Task API documentation: https://t.co/pmjPY9Y5u2",18,1,2,2020-04-14
+142,2020-04-16 10:20:00+00:00,1250730654880403456,golemproject,The new Gnosis Protocol has gone live. A decentralized and permissionless exchange by @gnosisPM. A big congratulations to the team! This is a leap forward in innovation and borderlessness for the Ethereum ecosystem. https://t.co/3eMFyenBYY,28,2,8,2020-04-16
+143,2020-04-17 10:00:00+00:00,1251088011476873216,golemproject,"Leveraging capital expenditure to a business' advantage using decentralized computation networks, such as Golem, is an interesting prospect. This article dives into the topic  https://t.co/zIyEr55pny",17,3,3,2020-04-17
+147,2020-04-20 10:43:14+00:00,1252186052816711680,golemproject,"In 2018, we were one of the first to grant @prylabs. We’re so proud of what the Prysmatic Labs team has managed to achieve with this testnet and look forward to their future developments! https://t.co/fqVkFQDfbj https://t.co/oPUozFwkPq",16,2,4,2020-04-20
+148,2020-04-21 07:47:40+00:00,1252504261151293440,golemproject,"What he said, but in English :) podcast time! https://t.co/KbMH5Shttw",6,0,0,2020-04-21
+154,2020-04-22 16:45:00+00:00,1253001870517268480,golemproject,"The Golem WASM-Wizard @kubkon will be joining the @ReadyLayerOne panel discussing #WASM for the blockchain, on May 5th.
+https://t.co/TbPwPuyn9D",18,2,5,2020-04-22
+155,2020-04-23 16:13:01+00:00,1253356209438154753,golemproject,"And if you are still up for more, @Viggith will be presenting exactly all of this and then some more at the @ReadyLayerOne conference - and for the first time, we will reveal interesting bits of the new architecture https://t.co/jiSkj1ArYH",6,0,1,2020-04-23
+161,2020-04-24 11:38:05+00:00,1253649408836677633,golemproject,"Additionally, we mentioned we're doing a migration to ERC-20 in the upcoming months. $GNT has been there for such a long time, that a migration is needed to adapt our token to the great UX/L2 solutions in the market. The Migration is NOT READY yet - please stay tuned https://t.co/vcsxUG4m92",7,1,0,2020-04-24
+175,2020-04-27 13:30:00+00:00,1254764737692196865,golemproject,"Next week, the Golem team is participating in @ReadyLayerOne! If you're as excited about WASM as we are then try out our gWASM-runner
+https://t.co/PQjKfow4RI",15,1,3,2020-04-27
+178,2020-04-29 12:02:31+00:00,1255467497521909763,golemproject,"When’s the next time you’ll see three Ethereum OGs in the same event, you ask? Next week at @ReadyLayerOne! @gavofyork, @VitalikButerin and Golem CEO @Viggith were all speakers at #devcon0. Catch up on what they’ve been up to along with other big names in the crypto-sphere🚀",27,1,7,2020-04-29
+179,2020-04-30 11:50:00+00:00,1255826734206853121,golemproject,"The Prysmatic Labs Topaz Eth2.0 Testnet contract just went over 25,500 contract interactions / validators (one of them is us!). We're very excited about the future of Ethereum and Eth2.0! Learn more about it on @ethhub_io 
+https://t.co/01IGZTo12Q https://t.co/TI31lysyLb",24,2,5,2020-04-30
+180,2020-05-04 14:50:00+00:00,1257321584169271296,golemproject,"Next Tuesday, our very own OG-olem @MPtherealMVP will be joining the CoinDesk event ""The Best of Consensus: Free &amp; Virtual"" talking about Soft Money with Joon Ian Wong and Annaliese Milano https://t.co/rFqSl0DOmH https://t.co/8TpJFyRkpb",8,2,3,2020-05-04
+182,2020-05-05 13:00:00+00:00,1257656289544605698,golemproject,Today's the today to get (even more) @ReadyLayerOne! From the Golem team we will have Jakub joining the WebAssembly for Blockchain Session at 16:00UTC (~3hrs from this tweet). Then at 18:00UTC Piotr Janiuk presents The next milestone: A Golem (R)evolution https://t.co/TbPwPuPYyd,8,2,2,2020-05-05
+189,2020-05-06 08:30:14+00:00,1257950788690870273,golemproject,@gelhteag @ReadyLayerOne Thank you!!!!,0,0,0,2020-05-06
+190,2020-05-07 16:30:00+00:00,1258433915871690754,golemproject,"#11 edition of Rust in Blockchain, the hypest newsletter about the hypest #rustlang tech, is out!
+https://t.co/GTwqOpxUVy",13,1,1,2020-05-07
+191,2020-05-12 14:59:00+00:00,1260222952018075648,golemproject,"That face when they start you off on a difficult question: ""How do you go about building social consensus over a fractious issue, like hard fork, a new client, or testnet?"" #ConsensusDistributed
+https://t.co/wIwVCFfOrW 
+https://t.co/AKtmH5OU5Z https://t.co/GHAeDcrIie",12,1,1,2020-05-12
+192,2020-05-14 13:46:21+00:00,1260929447391145986,golemproject,The TNM code has been made open and details on how we ran our PoC is available in this directory: https://t.co/6vf0Xb27DB,6,1,0,2020-05-14
+195,2020-05-15 12:02:02+00:00,1261265582680399873,golemproject,"Following the whole #ETH2 discussion - lessons learned everywhere :) 
+We are proud of building on Ethereum and look forward t the future. We have also incorporated our lessons learned and are building New Golem with these in mind. https://t.co/3E3c27H3Yr",12,1,1,2020-05-15
+198,2020-05-18 11:39:58+00:00,1262347193807233024,golemproject,"UPCOMING AMA reminder: Join the Golem team at 6:00pm CEST on Wednesday, May 20th on r/GolemProject. Get your questions ready!
+https://t.co/MOOPfqblFR",16,1,3,2020-05-18
+199,2020-05-19 13:18:47+00:00,1262734447641681920,golemproject,"Daily reminder: Our Golem May #AMA is coming up tomorrow (6pm CEST) on Reddit. We'd love for you to join us and ask questions. Post your questions now, here:
+https://t.co/MOOPfqsWxp https://t.co/ipj8eg3OQB",17,2,2,2020-05-19
+201,2020-05-20 09:35:24+00:00,1263040619628331008,golemproject,"Now is the final call for questions on our Reddit AMA! In ~1 hour the thread will lock and the Golem team will begin posting their answers later today, at 6pm CEST.
+https://t.co/MOOPfqblFR",16,1,5,2020-05-20
+203,2020-05-21 13:44:12+00:00,1263465621834149893,golemproject,"@sanju2527 We discussed a number of our plans surrounding GNT in our AMA with the Golem community on Reddit yesterday, here's the link: https://t.co/MOOPfqblFR",0,3,0,2020-05-21
+209,2020-05-22 14:14:46+00:00,1263835699373051911,golemproject,"Thanks again to everyone who joined our Reddit AMA session with the team this week! Here you can find our summary: 
+https://t.co/4UWWblXXjl",20,3,4,2020-05-22
+210,2020-05-25 16:43:24+00:00,1264960267210952705,golemproject,"Well we are not your twitter friends (still!) but we would love to help you get set up! 
+Start with our docs: https://t.co/tPDXivon6a
+And if you need any help - hit us up on Discord: https://t.co/4mvb6KCL8y https://t.co/KxcaTh8ix7",20,1,2,2020-05-25
+213,2020-05-27 11:51:18+00:00,1265611533406666752,golemproject,"Congrats to the team! 
+We're proud to be office mates with such a promising project :) https://t.co/JmMW8vkNBs",20,0,2,2020-05-27
+214,2020-05-28 09:56:04+00:00,1265944924559740928,golemproject,@dgarcia102 Of computing power :),8,0,0,2020-05-28
+216,2020-06-02 09:22:57+00:00,1267748526865420288,golemproject,Congratulations to our office mates and fellow Ethereum OGs on reaching such a significant milestone 🚀 https://t.co/XEQFEmUM8O,53,3,5,2020-06-02
+217,2020-06-03 16:41:00+00:00,1268221154323345409,golemproject,"Agreed! We're wanting to reform the way that people use computation and share it in a borderless, censorship resistant manner. Cryptocurrency is used in Golem as a TOOL to achieve this goal https://t.co/FEnboWwG0G",18,1,4,2020-06-03
+218,2020-06-04 15:06:00+00:00,1268559636145344513,golemproject,We are happy to announce our latest research: the Proof-of-Device (PoD) mechanism proves that the user has physical access to the given device. It is another take on 2FA or U2F authentication methods https://t.co/EtQxEjAK5p,39,5,14,2020-06-04
+220,2020-06-09 16:47:02+00:00,1270397002711351296,golemproject,1/ Ready Layer One Talks We Thoroughly Enjoyed - a thread (a review by our devrel Lee @akewlbreeze) Besides our CEO/CTO @viggith’s talk on The Golem (R)evolution and @kubkon’s #WASM panel - @readylone featured an array of incredible talks. Read below for some of our takeaways!,16,1,6,2020-06-09
+231,2020-06-10 10:47:34+00:00,1270668926121324546,golemproject,"Most importantly, we'd like to extend our admiration and support towards those hardworking people constantly striving to find and disclose flaws and exploits. Their contribution to the security in technology is as important as that of TEEs.",7,0,0,2020-06-10
+234,2020-06-12 16:20:56+00:00,1271477597776629760,golemproject,"A great report (@fluence_project) covering topics such as the decentralized web and Web 3.0, at Golem we agree with the concept of decentralized as “Don’t trust, verify” where everything is verifiable. We can stop giving our data to centralized companies.
+https://t.co/OxPPWUR1ik",18,0,7,2020-06-12
+235,2020-06-16 13:30:00+00:00,1272884130615889925,golemproject,"Interested in authentication? Last week the Golem Factory research team brought out some exciting new research coupled with an open source PoC available in our GitHub. Read our blog on Proof-of-Device to find out more
+https://t.co/EtQxEjAK5p",9,0,4,2020-06-16
+236,2020-06-17 09:32:50+00:00,1273186833611005952,golemproject,@AlexSaundersAU @Filecoin @storjproject @SiaTechHQ @iEx_ec @mwill_crypto Here for it! DM,7,0,0,2020-06-17
+239,2020-06-18 16:07:58+00:00,1273648658165239808,golemproject,Golem was conceived in 2014... but who’s counting 🦖🦖 #cryptodinosaur https://t.co/g7PMEybR6E,8,0,1,2020-06-18
+240,2020-06-19 15:19:09+00:00,1273998763623923712,golemproject,"Introducing our new written series, Golem GitHub Digest: understanding the Golem Repositories https://t.co/aIh2cx5QGY https://t.co/eT0AijuvGv",16,0,4,2020-06-19
+242,2020-06-20 18:05:28+00:00,1274403004855332867,golemproject,@dodo050595 @ethereum @LiskHQ @block_one_ @Dashpay We'd love to read it!,3,0,0,2020-06-20
+244,2020-06-22 09:50:40+00:00,1275003260378796033,golemproject,Our #WASMNATOR is a star! Check @kubkon's latest talk :) https://t.co/TxYKYq3iWy,10,2,1,2020-06-22
+248,2020-06-23 10:17:31+00:00,1275372405557518336,golemproject,"Democratized access to equity investment, is as integral to the success of decentralized technologies and their role in the future as censorship-resistant systems.
+Wishing 
+@neufundorg - a fellow Polish-founded company, the best through these times. https://t.co/lBUScF3rCo",13,0,4,2020-06-23
+252,2020-06-24 09:22:52+00:00,1275721039457247232,golemproject,So nice to read some Golem en Español :) our PoD blogpost has been translated! https://t.co/2gP0ycbkEZ,16,1,4,2020-06-24
+253,2020-06-25 13:00:58+00:00,1276138314702229504,golemproject,"Some time ago, we announced The Next Milestone, the future of Golem. It proposes a completely new platform, focused on developer experience and generalized computing, built from scratch. But what's underneath it? Discover it in our latest blogpost: https://t.co/HAChgBy9Mz",19,0,7,2020-06-25
+254,2020-06-30 14:06:21+00:00,1277966708431441926,golemproject,"Find out what's underneath the brand new Golem protocol being built out, in our most recent blog on the fundamental architectural concepts which constitute the foundations of New Golem: https://t.co/HAChgBPKE7",18,1,4,2020-06-30
+255,2020-07-01 15:20:28+00:00,1278347747989618688,golemproject,"@dgarcia102 If you're on Windows Home then you'll need to install docker toolbox before installing Golem for it to be able to run (since only Windows Pro has hyper-V), here's the link for you: https://t.co/uxwzWIs4Yv",1,0,0,2020-07-01
+260,2020-07-02 10:58:41+00:00,1278644257490898946,golemproject,"In case you missed it, Golem's evolving quite fast. We're now building the MVP of New Golem, dubbed The Next Milestone. This is a completely new protocol, and in the post below, we fleshed out the architecture that facilitates this new approach. https://t.co/HAChgBy9Mz",32,0,10,2020-07-02
+263,2020-07-06 11:13:21+00:00,1280097499743739904,golemproject,"@chrishobcroft @benjaminion_xyz The Golem Testnet runs on Rinkeby. It works just fine - and of course, rendering over there is for free. 
+Yes you can receive GNT without having ETH, but you will need ETH to withdraw.",3,0,1,2020-07-06
+274,2020-07-09 18:04:05+00:00,1281288026442936320,golemproject,Indeed! ;) https://t.co/0vIStNkLrX,12,2,3,2020-07-09
+275,2020-07-13 13:03:16+00:00,1282661876279709696,golemproject,We've been covering The Next Milestone (internally dubbed as YAGNA) and recently showcased our PoC. What you might not have seen is that our developers have silently been working on its development in GitHub for over 1.5 years! Here's a visualization https://t.co/nJdKLJ4RCq,24,0,3,2020-07-13
+276,2020-07-14 11:14:12+00:00,1282996816263471106,golemproject,Get demystified on Zero-Knowledge Scaling with ETHWORKS 🔥 report! https://t.co/AnFaQHc4Y0,19,0,3,2020-07-14
+278,2020-07-15 21:04:50+00:00,1283507842855702530,golemproject,"There's a massive Twitter account attack - high profile and smaller accounts, in Crypto and off, offering giveaways. 
+Golem's not doing giveaways - the two programs we're running are on the blog. 
+
+Please don't fall victim to these cheap tricks, you're way smarter than this! 😎",20,0,3,2020-07-15
+281,2020-07-17 09:41:59+00:00,1284060773816455169,golemproject,"(Better late than sorry!)
+Thank you to the best source of information out there @evan_van_ness' Week in Ethereum for featuring our Governing Preferences research! https://t.co/7si8gfTTaX
+Link to the post: https://t.co/gxz4UqmInP https://t.co/zqskOeJkoq",17,0,7,2020-07-17
+283,2020-07-18 14:17:02+00:00,1284492379748290560,golemproject,"Have you already checked out our community incentives program? get rewarded in GNT for cool tasks! 
+Make sure you read all the info in our blogpost - all submissions are public! Make sure you tag us so we can keep track of it! https://t.co/R7wiQW1TGm https://t.co/BBimkxCbbX",22,1,8,2020-07-18
+284,2020-07-19 16:26:00+00:00,1284887222760742913,golemproject,"Join us on Wednesday, July 22nd at 6PM for our Golem AMA!
+Did you know we've been doing this for more than three years, uninterrupted? 
+If you have no idea what we're up to these days, the Reddit post contains a summary. https://t.co/sBUh62UlpH",19,4,4,2020-07-19
+285,2020-07-20 14:00:34+00:00,1285213009024102400,golemproject,The bi-weekly Golem GitHub Digest coming at you!🚀 Find out more about what we've been working on the last 2 weeks🤓 https://t.co/V0UXgaDeH5,12,0,3,2020-07-20
+298,2020-07-21 10:43:19+00:00,1285525757150875650,golemproject,"@maraoz @michaltakac GPT-3 unleashing is something we initially consider as interesting. The main show-stopper is the fact that Open AI is keeping the model closed source, and exposing only the API. We are thinking about how we can deal with that!",2,0,1,2020-07-21
+301,2020-07-22 09:04:54+00:00,1285863378066563072,golemproject,"@kierankyle @Cayko8 Here are the stats, bear in mind we are building a new protocol. https://t.co/5lbmFg16OJ",1,0,0,2020-07-22
+303,2020-07-23 09:15:12+00:00,1286228358980939776,golemproject,Calling all crypto artists! We're running a contest to design the Golem Monsters alongside the cool folks at @SuperRare_co - there are rewards and the project's quite fun! join us! https://t.co/S2Lh61YbbP,25,1,10,2020-07-23
+304,2020-07-24 15:37:26+00:00,1286686938762752002,golemproject,@NFTmatrix Awesome good luck!,1,0,0,2020-07-24
+308,2020-07-25 07:35:50+00:00,1286928129525784576,golemproject,"Oh, but we did! it was in our AMA, Twitter and Reddit :) https://t.co/7nLDe5TfsW",24,3,5,2020-07-25
+309,2020-07-26 14:00:54+00:00,1287387422477758466,golemproject,@Jian83193202 I rarely talk to my PC but when I do... it looks like this.,9,0,1,2020-07-26
+310,2020-07-27 11:26:02+00:00,1287710835557703680,golemproject,"This is the last week to get into the first tranche of $GNT rewards from our community incentives program. 
+We have some solid contenders, but we want more! Read all about it here: https://t.co/R7wiQW1TGm https://t.co/JtyqDaUERV",14,0,7,2020-07-27
+312,2020-07-28 14:39:35+00:00,1288121931200204801,golemproject,"Two submissions to our @SuperRare_co Golem Monster contests that blew our mind - there is still time to submit more! 
+1. This amazing video (if you see this - you need to share your contact details too!) https://t.co/Jjcm1yuqgg",24,1,8,2020-07-28
+315,2020-07-29 14:19:51+00:00,1288479355186937856,golemproject,"Look at this gem made by longtime community member Golivan for the Golem Monster x @SuperRare_co contest! 
+We've got 4 prizes in ETH for the selected artists - so join us and get rewards! https://t.co/S2Lh61YbbP https://t.co/o5JHbJkdG8",32,2,9,2020-07-29
+320,2020-07-30 05:37:50+00:00,1288710370304176128,golemproject,@ghostcodelab you won at caption,0,0,0,2020-07-30
+324,2020-07-31 05:08:34+00:00,1289065394452520960,golemproject,@Jian83193202 https://t.co/PkgEWZ44e1,1,0,1,2020-07-31
+327,2020-08-01 07:15:37+00:00,1289459755753168897,golemproject,"@selikurda Epic! Best of lucks, this one's really good!",0,1,0,2020-08-01
+329,2020-08-02 10:19:43+00:00,1289868472097243139,golemproject,@selikurda indeed,0,0,0,2020-08-02
+330,2020-08-03 11:54:06+00:00,1290254615800422400,golemproject,"Summary of our AMA in Spanish! 
+This is so cool, thank you @_Tblockchain! https://t.co/D415IBihUc",13,1,4,2020-08-03
+332,2020-08-04 14:11:53+00:00,1290651675867455492,golemproject,Ethereum just launched the Medalla multi-client #ETH2 - congratulations to the client teams and the community! https://t.co/YOuy9UqF0R,20,1,9,2020-08-04
+336,2020-08-05 11:26:00+00:00,1290972318672605184,golemproject,The Golem GitHub Digest is part of our initiative to improve our communications of what we as a team are up to on a regular basis with our community. It's also to help you participate in the Community Incentives Program! See the 4th edition out this week: https://t.co/NJu4z0Dp07,26,2,6,2020-08-05
+339,2020-08-06 19:52:23+00:00,1291462141862645760,golemproject,@G7685502036 @HeySummit @J__Cub @Commsor @streamr This is perfect for our CMs @AKewlBreeze and @mat77ias + @GolemGrid,4,0,0,2020-08-06
+342,2020-08-07 09:16:18+00:00,1291664454669742080,golemproject,@_TBlockchain Muchas gracias!,1,0,0,2020-08-07
+347,2020-08-08 13:52:01+00:00,1292096226649878528,golemproject,If you're running the Golem software (Clay) then you're now contributing to CHEM@Golem simply by being a provider! Read more in our announcement this week: https://t.co/VYV3q3yrAB,32,0,8,2020-08-08
+349,2020-08-09 11:01:01+00:00,1292415582630031362,golemproject,"EDCON begins with Day 0 today! Golem's CPO, Kuba (@83TB), presents 'Building New Golem: Where We're at and Where We're Heading' on Day 2 at 10am EDT.  
+Find the full event agenda here: https://t.co/AsARb0YONv",33,1,9,2020-08-09
+350,2020-08-10 11:38:06+00:00,1292787301567930369,golemproject,"It's not too late to sign up for EDCON (Day 1 today)! Kuba, Golem CPO, presents Building New Golem tomorrow (Day 2) at 10am EDT. https://t.co/rnJBzvWapm",19,0,5,2020-08-10
+351,2020-08-11 18:01:34+00:00,1293246192105775104,golemproject,"In case you missed it, at @EDCON_Official, @83TB presented our best work so far: this meme. 
+Oh and also the new platform, so relive here --&gt; https://t.co/IMeZOtChBn https://t.co/DJqZUyl7KL",14,0,5,2020-08-11
+359,2020-08-12 16:20:54+00:00,1293583247897657344,golemproject,@1DigitalCrypto @defistack @zksync @the_matter_labs @syscoin https://t.co/B7kcZdL3O6,0,1,0,2020-08-12
+373,2020-08-13 16:37:48+00:00,1293949890066878467,golemproject,"@LivepoolCrypto @KyleSamani Yes exactly - our token is quite old and we had a custom one, as the ERC20 standard wasn't popular in 2016.
+We are migrating to an ERC20 to be able to leverage for instance @zksync as L2 and DEXes.",3,0,0,2020-08-13
+374,2020-08-14 10:06:22+00:00,1294213770089304065,golemproject,"Aw, shucks! Thanks V! (he's totally talking about us by the way) https://t.co/T3CV2nyZdZ",28,5,7,2020-08-14
+379,2020-08-15 16:16:18+00:00,1294669251815538689,golemproject,@Peter_Bock @SuperRare_co Trippy!,1,1,0,2020-08-15
+384,2020-08-19 12:44:59+00:00,1296065624326774784,golemproject,"@seikatsu @azeem @OrchidProtocol @IPFS @unstoppableweb Stay tuned, our upcoming release will reveal the brand new Golem protocol :)",2,1,0,2020-08-19
+387,2020-08-20 15:37:39+00:00,1296471464703598594,golemproject,@mat77ias @gitcoin Oh gosh did we let you out of the dungeon by mistake?,2,1,0,2020-08-20
+390,2020-08-21 07:04:01+00:00,1296704595817902083,golemproject,@elzirazie4 very cool! what does this remind us of?,3,1,0,2020-08-21
+394,2020-08-22 12:43:34+00:00,1297152432259182592,golemproject,"We're really happy with all the @gitcoin submissions, the feedback and all the rest! 
+PS. We're not back - we never left! We're just low profile people 😎 https://t.co/tHTgZ1X00r",26,0,5,2020-08-22
+395,2020-08-24 15:06:18+00:00,1297913126600531968,golemproject,"@numer041 Watch this space, we publish new stuff regularly! right now we have the community incentives program: https://t.co/lMsDxgoMcl",0,0,0,2020-08-24
+403,2020-08-25 09:11:28+00:00,1298186221181599744,golemproject,"@Scubadadoo You mean the artists on Decentraland? 
+This is our first contest - we will definitely keep that in mind for new opportunities, thank you!",0,0,0,2020-08-25
+405,2020-08-26 16:38:02+00:00,1298660991203528704,golemproject,"In case you haven't noticed or we haven't yelled it loud enough - last week we shipped the first iteration of our brand new protocol. Yes that's right, brand new, not the one that's been on mainnet since 2018.
+https://t.co/CrrKJV3vTz",41,3,8,2020-08-26
+409,2020-08-28 13:07:22+00:00,1299332747106881537,golemproject,"Together with the Alpha Release of our brand new protocol, we kicked off a new part of our community incentives program, this time together with @gitcoin. We have started incentivizing new developers and will follow up with more actions https://t.co/HVzBo4vSoZ",46,2,10,2020-08-28
+410,2020-08-31 12:43:57+00:00,1300414021267533827,golemproject,"You were right to think of us! We've been on mainnet for 2 years, and have just shipped our new protocol - which is gonna use Layer 2, we definitely didn't sign up for these gas fees. https://t.co/6CLGhZnN54",22,4,3,2020-08-31
+414,2020-09-01 09:33:07+00:00,1300728381198274560,golemproject,@imTokenOfficial @bigmagicdao @BTCCATTRADER @Tether_to @omgnetworkhq @synthetix_io @optimismPBC @dydxprotocol @StarkWareLtd @zksync More details about our move: https://t.co/YETNnQIQcl,8,0,1,2020-09-01
+415,2020-09-02 16:03:06+00:00,1301188912606568449,golemproject,"The Golem Monsters x @SuperRare_co Art Contest has now come to a close. The only requirement, the art piece must include a monster and you all delivered! Thank you to everyone who submitted, your work was bold, captivating, and alluring. The winners in no particular order!",17,2,6,2020-09-02
+421,2020-09-03 04:56:37+00:00,1301383575431008256,golemproject,@ghostcodelab looking great!,0,0,0,2020-09-03
+422,2020-09-04 19:09:00+00:00,1301960471067516928,golemproject,Maria Paula @MPtherealMVP will join The drive of Web 3 adoption panel at @OVioHQ Diffusion Digital. Come watch https://t.co/68B7yM64AD for exciting new ideas 💡 https://t.co/UKMJSRZQ6w,18,0,8,2020-09-04
+424,2020-09-05 08:54:24+00:00,1302168192865968130,golemproject,"Have you checked out the latest epic Golem Monsters artworks by winner @AmbiguouslyNoah? They're in @SuperRare_co and these two are up for grabs so take a bid! 
+https://t.co/GZ2uEazgDo
+https://t.co/7P8G3R6fYR",17,0,5,2020-09-05
+427,2020-09-08 13:05:16+00:00,1303318486261706754,golemproject,The latest Golem GitHub Digest (#6) is here! Learn more about what our developers have been working on with SGX PoC testing and payments during the last 2 weeks https://t.co/ZQayGolODc,17,0,6,2020-09-08
+428,2020-09-09 09:44:10+00:00,1303630266137800708,golemproject,@UnderstandDeFi But it was released two weeks ago! :) https://t.co/CrrKJV3vTz,0,1,0,2020-09-09
+431,2020-09-11 05:17:18+00:00,1304287882534957061,golemproject,"@UnderstandDeFi Still not set, but we reckon it will be on the next release",1,1,0,2020-09-11
+433,2020-09-13 18:02:01+00:00,1305205104476291077,golemproject,@vreyesd Adelante!!!,1,0,0,2020-09-13
+434,2020-09-16 16:58:59+00:00,1306276406339530753,golemproject,"The panel is happening NOW! Join these great minds and leaders in the space discussing the drive for Web3 
+@ana_yanakieva @OVioHQ
+@artignatyev @LinkdropHQ
+@MPtherealMVP
+@RebeccaWald4 @mode_banking
+@SideShowJohn @trust2core_com
+@yujoe87 @sperax_io https://t.co/FTdHRd023c",13,0,4,2020-09-16
+437,2020-09-21 12:59:49+00:00,1308028158998962176,golemproject,cc @solidity_lang share sir,1,0,2,2020-09-21
+441,2020-09-22 10:10:06+00:00,1308347836090789888,golemproject,"While Golem might not have much on #NFT, may we suggest what our office buddies at @hoardexchange are creating? https://t.co/tIsxP2bJzB",21,1,5,2020-09-22
+443,2020-09-24 16:06:15+00:00,1309162237546946562,golemproject,"And this is what ""we have an awesome community"" looks like! 
+We're so happy you can use Golem for your project! please share it with us and good luck! https://t.co/hPoVCRNrUB",30,0,8,2020-09-24
+444,2020-09-25 14:48:43+00:00,1309505116588978178,golemproject,"Happy Friday everyone! we've published a new update, so you can find out what we've been up to in the past month or so - including the collab we kicked off with @ParagonAlert to improve our branding, positioning, marketing and PR
+https://t.co/oTQzL9P9Ol",39,0,9,2020-09-25
+445,2020-09-28 05:22:12+00:00,1310449708259835907,golemproject,"@iEx_ec @IMTLucca @sonmdevelopment Hello, we concur with @unitonikoin, the information is very out of date and innacurate. We'd be happy to correct this with the authors, please send us an email at contact@golem.network with CC to María Paula.",3,1,0,2020-09-28
+448,2020-09-29 15:19:01+00:00,1310962290427080706,golemproject,An amazing panel of individuals and thought leaders in the P2P open-source ecosystem. Thank you everyone who participated and for the insightful discussion! The great hosts at @streamr will have the presentation and panel available soon for anyone who missed it. https://t.co/1O9SFxDrcL https://t.co/5IkD3ivFh4,28,0,9,2020-09-29
+450,2020-09-30 15:19:59+00:00,1311324921889423360,golemproject,"Thank you for hosting! 
+0:00 - 29:00: Henri Pihkala presents the key findings from the research then joins
+29:00+ P2P panel with María Paula Fernández-Golem, Fatemeh Shirazi-Web3 Foundation, Karissa McKelvey-Simply Secure, Sebastian Bürgel-HOPR Project https://t.co/ismjIJ9I1x https://t.co/txYhmeTBjd",5,0,0,2020-09-30
+451,2020-10-02 13:21:39+00:00,1312019920562122755,golemproject,"New month, new exciting technology to share! Our 7th GitHub Digest dives into the improvements being added in the marketplace of New Golem for the upcoming Alpha 2.
+https://t.co/HHPbrjb681",15,0,4,2020-10-02
+452,2020-10-05 09:26:39+00:00,1313047944690577408,golemproject,"You heard it, get on a rollup ASAP :) https://t.co/LdPPVxhE52",19,1,4,2020-10-05
+454,2020-10-06 10:06:11+00:00,1313420278970617856,golemproject,@_TBlockchain Gracias!,1,0,0,2020-10-06
+455,2020-10-07 10:23:16+00:00,1313786967486849024,golemproject,Job hunt thread. Hint: apply at Golem. https://t.co/tixlxUnOQh,13,0,1,2020-10-07
+457,2020-10-08 14:07:10+00:00,1314205702617874433,golemproject,Pretty much. https://t.co/cqHh2Pichd,5,0,1,2020-10-08
+460,2020-10-09 13:34:03+00:00,1314559755831128065,golemproject,"👉WE NEED YOUR QUESTIONS!👈 we're going to host an online event with a special panel on Layer 2 solutions with our friends from @zksync, @optimismPBC, @loopringorg and @omgnetworkhq (we'll invite everyone, no worries!) 
+What questions would you ask these cool people? https://t.co/TyMQEaNYct",45,6,15,2020-10-09
+461,2020-10-10 13:06:37+00:00,1314915238756708354,golemproject,@G7685502036 @Paul_Reviews We've got some hacky PoCs on the subject - happy to participate next time!,3,0,0,2020-10-10
+462,2020-10-12 16:08:21+00:00,1315685750571257856,golemproject,"We're hosting a virtual panel on Layer 2 with some of the coolest people in charge of scaling Ethereum - join @83TB and panelists @kasima at @omgnetworkhq, @gluk64 at @zksync, @jay_loopring @loopringorg, @kelvinfichter from @optimismPBC on October 20th! https://t.co/UHZK0GIGEC",125,6,26,2020-10-12
+463,2020-10-15 12:16:00+00:00,1316714438607745026,golemproject,"We're ready to go! 
+Alpha II - the second New Golem release is here! This release allows you to build applications on top of New Golem :) - we've prepared several @gitcoin bounties for you, check the blog for details! https://t.co/1Q1YAjca0r",36,4,8,2020-10-15
+469,2020-10-16 15:16:35+00:00,1317122271367057420,golemproject,"If you're getting ready to complete the @gitcoin bounties we launched yesterday alongside our Alpha 2 release, this primer video by @83TB will come in handy!  https://t.co/4Nk3taxLJI",14,0,2,2020-10-16
+472,2020-10-19 09:43:21+00:00,1318125577795153920,golemproject,@CryptoGodar @gitcoin Thank you!,0,0,0,2020-10-19
+476,2020-10-20 15:23:01+00:00,1318573441834954752,golemproject,"""We’re all making our bets on where we think the space is going to go... It’s possible that we all do well but if we crowd into just one solution, we re-create the problems,"" -Kasima Tharnpipitchai @omgnetworkhq #golemloveslayer2",30,1,3,2020-10-20
+499,2020-10-21 11:33:03+00:00,1318877959575449600,golemproject,@Vansa_OMG @kasima We're trimming the vid :) so we'll have a new link soon. As soon as we finish celebrating the Kasima Birthday of the Day.,6,0,0,2020-10-21
+500,2020-10-22 15:12:38+00:00,1319295605848457216,golemproject,@sergiufx You will have to contact the exchange to find out if they migrate for you -they usually do!,0,3,0,2020-10-22
+504,2020-10-23 10:03:00+00:00,1319580074346164225,golemproject,"Yet, the best was yet to come https://t.co/HREcOrQVLU",1,1,0,2020-10-23
+521,2020-10-24 11:41:00+00:00,1319967121577824259,golemproject,"After two very intense weeks of shipping, bounties and announcements, we're ready to answer your questions! 
+Join us for our AMA on October 28th, at 6pm CET. 
+https://t.co/UOIrXlUrAE",15,1,1,2020-10-24
+522,2020-10-26 15:19:33+00:00,1320746899985649664,golemproject,@BCellow @iEx_ec Weird flex but okay,0,1,0,2020-10-26
+525,2020-10-27 09:42:28+00:00,1321024457411039233,golemproject,@iexecutioner1 @BCellow @iEx_ec sorry to disappoint you but we're proud to say the new platform is working great and we're at the best moment :) maybe check the documentation instead of speculating?,1,0,0,2020-10-27
+528,2020-10-28 14:35:03+00:00,1321460476849639424,golemproject,"@V_SKAKUN @CryptoDiffer @Filecoin @BitTorrent @oceanprotocol @SiaTechHQ @ArweaveTeam @H_O_L_O_ @storjproject @Lambdaim @GXChainGlobal @CoinMarketCap @coingecko @CryptoRank_io Thank you too for letting us know! we do decentralized compute, so we'd be in the cloud category, only not for storage :)",1,0,0,2020-10-28
+531,2020-10-29 10:21:23+00:00,1321759026154250242,golemproject,"Thank you to everyone who participated in our Reddit AMA yesterday! We loved getting involved and answering all your questions 🙌 
+As is tradition, we'll be creating and sharing a summary of the AMA on our blog https://t.co/UOIrXlUrAE",9,0,0,2020-10-29
+532,2020-10-30 15:04:42+00:00,1322192712574054400,golemproject,"@garypalmerjr @UniswapProtocol GNT is not an ERC20 token, but we are migrating in 3 weeks",1,0,1,2020-10-30
+534,2020-11-02 15:15:56+00:00,1323282705098985473,golemproject,"@theresa1024 @SCryptoschool Hey! this is a bit outdated, you're welcome to check out the latest iteration of Golem (called New Golem) vid here https://t.co/54MGICoZAn",0,0,0,2020-11-02
+537,2020-11-03 15:05:17+00:00,1323642412275769344,golemproject,"Our last AMA summary is online, check it out here --&gt; https://t.co/2LPekGo7Ce",15,0,2,2020-11-03
+538,2020-11-04 12:35:27+00:00,1323967090991288320,golemproject,"We started an Awesome Golem list - an awesome-formatted collection of resources for New Golem that anyone in the community can contribute to!
+https://t.co/Qq71JoSY4o",14,1,1,2020-11-04
+541,2020-11-05 17:29:45+00:00,1324403542141095937,golemproject,@rahweeta Was lovely to meet you Rahwa!,1,0,0,2020-11-05
+546,2020-11-06 10:50:41+00:00,1324665500228530176,golemproject,Thank you for featuring Golem in the @santimentfeed   monthly top 10 highest developing crpyto project report! Our developers have added extra fuel to GitHub repos since we launch our new alpha! https://t.co/ku6yG9T9jw https://t.co/FxrUTXwwp0,14,0,1,2020-11-06
+551,2020-11-09 15:09:43+00:00,1325817852717363202,golemproject,We recently launched 4 bounties. Which one was your favourite? https://t.co/1Q1YAjca0r,5,0,0,2020-11-09
+552,2020-11-10 14:32:50+00:00,1326170958458138624,golemproject,@griffinsolar we're on @CoinbasePro since 2018 :),0,0,0,2020-11-10
+555,2020-11-11 09:50:04+00:00,1326462185464324096,golemproject,@griffinsolar @CoinbasePro You can ask them :),0,0,0,2020-11-11
+558,2020-11-12 14:12:07+00:00,1326890522536009728,golemproject,"Hello there! We've whipped up another Github update. We've been working hard towards Alpha III of New Golem, so find out more here: https://t.co/a1jv8XTBFy",23,1,3,2020-11-12
+559,2020-11-13 17:17:11+00:00,1327299481814097920,golemproject,@rootdraws ♥️♥️,3,0,1,2020-11-13
+567,2020-11-16 13:10:23+00:00,1328324538048909313,golemproject,"GNT migration to ERC-20 is beginning on Nov 19, if you have any questions check our FAQs https://t.co/9jwY8pQwHi",24,5,4,2020-11-16
+570,2020-11-17 09:00:32+00:00,1328624050692829184,golemproject,@griffinsolar @coinbase @CoinbasePro :) yes! we need to update the list of supporting exchanges but Coinbase Pro has been nothing but supportive and excellent!,0,0,0,2020-11-17
+573,2020-11-18 15:26:04+00:00,1329083459071983621,golemproject,"-1 to the Migration! We will announce the name of the new token after the migration begins TOMORROW, November 19th at 4pm CET. DO NOT TRUST anyone saying otherwise or telling you to migrate in advance! If you have any doubts, join our discord channel https://t.co/2Mnvk10szT",9,0,1,2020-11-18
+574,2020-11-19 18:37:39+00:00,1329494061703720960,golemproject,@Kriegalex it gets much better on the weekend! (protip),0,0,0,2020-11-19
+599,2020-11-20 11:07:38+00:00,1329743199825485831,golemproject,"If you have questions about the migration, join us on Discord at 6pm CET: we'll illustrate the migration process and answer your questions! https://t.co/VpW5EbrkBf",3,0,0,2020-11-20
+616,2020-11-21 12:42:28+00:00,1330129450793656325,golemproject,Thanks @MyCrypto for the support!! https://t.co/MOg7tasBM5,4,1,0,2020-11-21
+626,2020-11-23 18:43:04+00:00,1330944976159723523,golemproject,"Now that $GLM is able to connect to decentralized exchanges and DeFi - what do you think of a DeFi meetup/seminar with someone cool from the space, for our followers?",17,4,4,2020-11-23
+635,2020-11-24 14:16:55+00:00,1331240384530354182,golemproject,"We are happy to announce that @HuobiGlobal supports the migration GNT -&gt; GLM and that it will start at 10:00 (GMT+8) on November 25, 2020! for more details: https://t.co/cyOLG12TyW",12,0,1,2020-11-24
+641,2020-11-25 06:29:38+00:00,1331485175818162176,golemproject,"If you have your $GNT in a hardware wallet, @MyCrypto is the most seamless way to migrate to $GLM! https://t.co/Tqxxw5GO9c",19,1,3,2020-11-25
+645,2020-11-26 09:40:11+00:00,1331895517144637441,golemproject,"Let's try to look away from the market this morning, and focus in the awesome stuff we're building because the decentralized ecosystem is THRIVING!
+Dockerized Golem Requestor Environment for New Golem by one of our most prolific community members Doc 🏗️🏗️
+https://t.co/UtDVSMhAIx",10,0,0,2020-11-26
+647,2020-11-27 15:00:58+00:00,1332338633362313218,golemproject,"If you want to keep learning, we also put together our learning resources https://t.co/UijQRNk2Z2",1,1,0,2020-11-27
+655,2020-11-28 17:25:00+00:00,1332737267459354628,golemproject,What's the link between an AWS outage and your dusty house? The AWS roomba mess proves that we cant even trust centralized providers with vacuum cleaners. Yet another case for decentralized platforms like Golem https://t.co/chsqOmX62Q,28,1,3,2020-11-28
+656,2020-11-29 15:54:44+00:00,1333076941025501184,golemproject,"$GLM, The Artist Formerly Known as $GNT https://t.co/cDqmHijOyp",27,3,5,2020-11-29
+658,2020-11-30 23:31:51+00:00,1333554364837998596,golemproject,@theDAOKING It will always be possible to migrate. We created a list of FAQs for migration: https://t.co/9jwY8pQwHi,3,1,0,2020-11-30
+670,2020-12-01 10:49:14+00:00,1333724834954678274,golemproject,"We've been with #Ethereum and building on it since the beginning. 
+This is a historical day for the community! Let's GO! #eth2  https://t.co/fnE4ZiM3sg",20,0,3,2020-12-01
+673,2020-12-02 14:56:23+00:00,1334149417306386439,golemproject,"Mass adoption of cryptocurrencies is just around the corner. Visa choosing an Ethereum-based stablecoin, USDC and onboarding crypto wallets is one of those big breaks that are going to push this space forward! https://t.co/ZYAFrXY8gv",30,0,4,2020-12-02
+677,2020-12-03 17:19:04+00:00,1334547713992568834,golemproject,"Alpha3 is released, and the hackathon starts on TUESDAY! If you haven't sign up yet, you know what you gotta do! Register now --&gt; https://t.co/cR3QcT422O https://t.co/PZzAB2K6Wk",14,2,1,2020-12-03
+682,2020-12-04 15:27:09+00:00,1334881937849249797,golemproject,"Nanopayments, Layer 2 and Golem - a long story:  In 2015 at Devcon1 we introduced the concept of nanopayments on Ethereum - why the world needed them and an implementation roadmap https://t.co/HeikXTfiwt",20,1,1,2020-12-04
+688,2020-12-05 11:57:20+00:00,1335191521717522432,golemproject,"Golem @gitcoin hackathon (Dec 8 to Jan 5) - 4 days to go:
+👉 Build applications with our cloud computing platform 
+👉 Over 30k USD (paid in USDC) in prizes
+👉 No blockchain experience required
+Sign up here: https://t.co/cR3QcT422O",21,0,2,2020-12-05
+689,2020-12-07 17:38:00+00:00,1336002029655896064,golemproject,"Hackathons repo is finally out! If you have more questions on the hackathon, have a look here. The FUN starts tomorrow ---&gt; https://t.co/CYdHc5h98A https://t.co/gMYkXX0z51",21,0,3,2020-12-07
+697,2020-12-08 16:41:20+00:00,1336350159551205376,golemproject,Open Track Bounty: this track is perfect if you have a vast #imagination and  top notch coding skills. There’s only one more rule: the app has to be working. Ready to become the next #ElonMusk and use New Golem to launch your car to #Mars? https://t.co/1X2QpADIsW https://t.co/Mfg7GzJbj8,4,1,0,2020-12-08
+710,2020-12-09 22:54:53+00:00,1336806552322404359,golemproject,"@griffinsolar @binance Binance is migrating, deposits and withdrawals for GLM will be opened starting from 2020/12/10 06:00 AM (UTC) https://t.co/rID7NWYI4R",0,0,0,2020-12-09
+716,2020-12-10 14:04:17+00:00,1337035412800495619,golemproject,@hoardexchange https://t.co/VTYD49KMnu,3,0,0,2020-12-10
+723,2020-12-11 14:55:42+00:00,1337410738273587205,golemproject,Throwback to the best meme that came out of our first mainnet launch https://t.co/NmwxjReM24,30,0,2,2020-12-11
+727,2020-12-14 00:29:19+00:00,1338279870695153665,golemproject,@tom49coffee @cointradernik Coinbase hasn't migrated to GLM yet. You can see exchanges that have migrated here: https://t.co/yEgLzCE5H4,1,0,0,2020-12-14
+744,2020-12-15 11:53:59+00:00,1338814556936736768,golemproject,"Golem #hackathon: if you want to participate to the hackathon, but you don't know how to get started, join our discord channel https://t.co/2Mnvk0IRIl, we'll be happy to answer your questions https://t.co/YZWZczMMqM",9,0,1,2020-12-15
+747,2020-12-16 15:26:34+00:00,1339230446908035081,golemproject,"Curious about the Golem #Hackathon? Today we'll be hosting a live Q&amp;A session with @gitcoin 
+👉Drop your questions here https://t.co/2Mnvk0IRIl before 6pm CET",14,1,2,2020-12-16
+752,2020-12-17 11:01:09+00:00,1339526037970055171,golemproject,"If you're interested in participating in the Golem provider bounty then the Golem community helped create a Dockerfile to get you started as a provider node quickly: https://t.co/5O8E22hb8J
+
+Bounty link: https://t.co/w1NDyOukvM",17,0,0,2020-12-17
+760,2020-12-18 15:41:44+00:00,1339959036649885696,golemproject,"Golem Test Harness (Goth) has the purpose of speeding up your development process for Golem app creators. Additionally, Kuba Kucharski @83TB recorded a workshop on Alpha III for the Golem Gitcoin Hackathon followed by a related Q&amp;A session w/ @Gitcoin.
+https://t.co/TQmISmywpy",18,0,3,2020-12-18
+761,2020-12-19 15:22:00+00:00,1340316458493075458,golemproject,"Shameless promotion - too much time on your hands during the holidays? Join the Golem #hackathon  and win more than 30K $USDC in prizes! You can join at anytime, and there's no blockchain knowledge required. 
+https://t.co/cR3QcT422O https://t.co/3SzkUl7iku",22,1,3,2020-12-19
+762,2020-12-21 09:16:58+00:00,1340949372327104512,golemproject,@vtgcrypto here's the instructions: https://t.co/nQFjSzoKhK,0,1,0,2020-12-21
+764,2020-12-22 11:49:22+00:00,1341350112707170304,golemproject,"Our @MPtherealMVP talked about  Golem's journey at 
+@ethconkr last Sunday! If you missed it, you can watch the full talks here 👉👉👉 https://t.co/ECxTkO6huf",21,1,2,2020-12-22
+766,2020-12-23 09:15:20+00:00,1341673734973886464,golemproject,@OctavianusSG @NxtCommunity @ArdorPlatform @gamecredits @IGNISguide Marry Christmas to you too 💫,2,0,0,2020-12-23
+767,2020-12-24 14:19:03+00:00,1342112555993595905,golemproject,"@SuperWar224 @News1Lead @upblock_io @Gather_Network Maybe because the Golem token is no longer GNT? 
+https://t.co/6RyXIqxhJb",1,0,0,2020-12-24
+768,2020-12-25 10:16:29+00:00,1342413900881555456,golemproject,Merry Christmas and happy holidays everyone! ❤⛄❄🥰 https://t.co/JgKpoXZL8h,40,0,4,2020-12-25
+772,2020-12-26 17:28:27+00:00,1342884996055519236,golemproject,@vtgcrypto Have you enabled contract data on your ledger?,0,0,0,2020-12-26
+773,2020-12-28 23:58:08+00:00,1343707840326881286,golemproject,@timdevrught https://t.co/G5sRo4SCoC,3,0,0,2020-12-28
+778,2020-12-29 13:06:53+00:00,1343906335117746176,golemproject,"First Golem hackathon submissions are coming in! If you want to make sure that your submission is complete, check this out --&gt; https://t.co/It6RT5Y9ql https://t.co/69749HF1hP",12,2,3,2020-12-29
+782,2020-12-30 18:06:54+00:00,1344344225987571712,golemproject,@AgnoloGiotto @nic__carter @OnTheBrinkCIV @CoreWeave We'd love to chat :),1,0,0,2020-12-30
+786,2021-01-04 10:45:43+00:00,1346045138397757442,golemproject,"Golem  #Hackathon ENDS IN 1 DAY, 13 HOURS. There's still time left to submit your project and win!!!! https://t.co/zq4jB8B50k",9,1,1,2021-01-04
+788,2021-01-05 11:11:25+00:00,1346413992181428224,golemproject,"A text guide on the Golem Test Harness #GOTH - If you prefer reading over watching the youtube tutorial, then this might be for one of you!!!
+
+https://t.co/JIgFgAKWIV https://t.co/b5XgVgnomY",12,2,1,2021-01-05
+789,2021-01-07 15:11:40+00:00,1347199228771250179,golemproject,"We’re sharing the Community Incentives Program (CIP) awardees for December. It’s been a thrilling month of seeing the Hackathon participants helping one another and many new providers joining the show!
+https://t.co/0TRElLT0pt",20,1,1,2021-01-07
+790,2021-01-08 19:26:29+00:00,1347625744973914112,golemproject,"@LerouxJewelry Almost all exchanges that have been contacted already migrated. 
+For details check https://t.co/6RyXIqxhJb",0,1,0,2021-01-08
+791,2021-01-09 18:17:13+00:00,1347970700217352192,golemproject,@elNusserino @Cardano Alright then,0,0,0,2021-01-09
+792,2021-01-12 16:00:40+00:00,1349023497146789888,golemproject,@Manojku92206717 @TradingWidGaffa To Be Defined,1,0,0,2021-01-12
+800,2021-01-13 09:01:41+00:00,1349280447642140673,golemproject,@ruiag88 You can follow Golem migration guidelines here https://t.co/nQFjSzoKhK,0,1,0,2021-01-13
+804,2021-01-14 16:11:54+00:00,1349751102791680003,golemproject,"#Golem4Social Good (1 prize, 2000 USDC): No More CoFUD by derekjarvis and shumagorath86 : constraint programming powered to suggest optimized floor plan layouts for the #newnormal #socialdistancing life. https://t.co/OZKB3ZwnNr",3,1,0,2021-01-14
+822,2021-01-15 08:58:28+00:00,1350004412857671681,golemproject,@therealNemani @gitcoin It was our pleasure 🙂 thank you for the awesome project!,0,0,0,2021-01-15
+824,2021-01-18 15:46:07+00:00,1351194166022328326,golemproject,If you're curious to know the other incredible projects that run for the Golem Online #Hackathon have a look here 👉https://t.co/lKYk8uVbJV,18,2,2,2021-01-18
+828,2021-01-19 17:59:03+00:00,1351590006314438660,golemproject,"@MoonInTheDaySky @ruiag88 Thank you for the feedback. The tutorial and app are as good as they can be considering Ethereum is Hard :) you need to approve a bunch of transactions and we want you to understand what you are doing. However, we agree that we must improve how we build our tools!",0,1,0,2021-01-19
+830,2021-01-21 09:40:22+00:00,1352189285995307011,golemproject,Join us in a few hours for the Show&amp;Tell with the winners of the first Golem #Hackathon and @gitcoin https://t.co/GSatG2j8pi,21,0,1,2021-01-21
+831,2021-01-22 15:53:22+00:00,1352645538617970688,golemproject,@estaeslaqueva1 @AttentionToken OG!,2,0,0,2021-01-22
+832,2021-01-23 13:28:35+00:00,1352971490845724672,golemproject,"A short announcement that any @Bitso users can safely withdraw their GNT and migrate to GLM following the migration guideline https://t.co/OpFvpyQuSc. 
+They can then trade it on any of the major exchanges found on https://t.co/6RyXIqxhJb
+https://t.co/H2wy5qHLJM",21,2,3,2021-01-23
+836,2021-01-25 13:48:44+00:00,1353701337645674498,golemproject,"Last week we hosted the Golem Online Hackathon Show &amp; Tell where some of the #hackathon winners got together to share their amazing projects, thank you to everyone who joined! 🥰 
+You can find the recording on our YouTube
+https://t.co/sVF5mzDWPy",20,0,1,2021-01-25
+837,2021-01-26 16:07:13+00:00,1354098576654266370,golemproject,@Block1_2_1_2_1_ Here's a very cool intro https://t.co/LeDWjG3Vno,2,0,0,2021-01-26
+841,2021-01-27 11:04:05+00:00,1354384678158016512,golemproject,"Things we're excited about this year:
+🚀New Golem coming soon
+🤩Our vibrant community on Discord
+🗣️Decentralization making it to mainstream media https://t.co/eIc3px4ORZ",68,6,12,2021-01-27
+850,2021-01-28 09:35:31+00:00,1354724780604334080,golemproject,"But seriously, how would you describe Golem in a tweet? (GIFs accepted) https://t.co/CZ6f3aSVyt",8,2,0,2021-01-28
+859,2021-01-29 14:25:57+00:00,1355160255110516737,golemproject,"@CooperCarr1 @AaveAave Hi, Golem (Clay) has supported rendering for a bit over 2 year: https://t.co/lrUw0uYRHQ
+The latest implementation of Golem (Yagna) also supports rendering: https://t.co/V2VmtyyRb4",1,0,0,2021-01-29
+872,2021-01-30 15:50:26+00:00,1355543905975099395,golemproject,@Mendog69 https://t.co/JwktSA53GM,0,0,0,2021-01-30
+873,2021-02-01 10:41:38+00:00,1356190970052800514,golemproject,"Happy Monday! if you got some minutes to spare, we'd love your feedback in our @AaveAave proposal to add $GLM support to the platform. https://t.co/G0N5A7oaAI",59,4,4,2021-02-01
+875,2021-02-02 18:47:54+00:00,1356675729090637824,golemproject,"@Sethereum2 @AaveAave GOALS, amiright?",1,0,0,2021-02-02
+886,2021-02-03 16:10:55+00:00,1356998613268856833,golemproject,"We’re sharing the GLM Rewards Program (formerly known as the CIP) awardees for January. The Golem Online Hackathon came to an end and the Discord is seeing more activity than ever. Come join us!
+https://t.co/4u62Rx74bw",24,1,1,2021-02-03
+887,2021-02-04 16:26:18+00:00,1357364869016739842,golemproject,"@_nd_go @jeffdill2 @jasoncwarner Yes indeed! We are here and happy to help if you have questions.
+Start with the Handbook --&gt; https://t.co/qBwSwGZVS5",1,0,0,2021-02-04
+894,2021-02-05 09:53:31+00:00,1357628409673834498,golemproject,Have a look at this  #MachineLearning  project developed during our Online Hackathon  by our incredible community member Anshuman!! https://t.co/ceBxyI5m8r https://t.co/ykOexxcoOa,30,1,5,2021-02-05
+897,2021-02-06 08:36:39+00:00,1357971456987172864,golemproject,@BitcoinBrisbane @brune_nathen Aw thank you! we loved it too!,0,0,0,2021-02-06
+900,2021-02-07 18:25:07+00:00,1358481936277270533,golemproject,"If you have a compute-intensive idea, you can come talk to us and see if we can build something together :) https://t.co/8GmPupjonf",24,2,2,2021-02-07
+901,2021-02-08 09:35:04+00:00,1358710930859831298,golemproject,@oficinastk ♥️,1,0,0,2021-02-08
+907,2021-02-09 19:12:55+00:00,1359218740576067584,golemproject,"@Udhay2401 Hi, thanks for the feedback, could you please DM a screenshot so we can look into it?",0,1,0,2021-02-09
+912,2021-02-10 16:40:00+00:00,1359542644838445060,golemproject,"#Startup feasibility studies are finally accessible to all thanks to Flan, a project developed by @nestorbonillas  during the Golem Hackathon. Check it out here --&gt;
+(hey #VCs you might like it as well! ) https://t.co/4MRNyWDj87 https://t.co/KjYZ3sCwZ9",26,3,3,2021-02-10
+917,2021-02-11 07:25:20+00:00,1359765447537737731,golemproject,"@arkel_81 @nestorbonillas Hello, there's no deadline and the migration is 1:1 so you won't lose value - just wait a bit longer",1,2,0,2021-02-11
+922,2021-02-12 10:55:00+00:00,1360180597545709569,golemproject,"Tomorrow we'll participate in the #LiberateDataWeek, with our friends from @ethswarm! Come join us discuss all things #decentralization, you can register here 👉👉👉 https://t.co/Ix0OqABHlu",24,2,6,2021-02-12
+923,2021-02-15 14:23:00+00:00,1361320107046146048,golemproject,Next week we'll be at #HelloDecentralization with a double-date to illustrate Golem in a technical talk and in a workshop. Come join us and @h3lloevent --&gt; https://t.co/uSfPYyT4us,28,2,4,2021-02-15
+927,2021-02-16 13:30:10+00:00,1361669200205512713,golemproject,"Yet another awesome project from our Community Member Nemani, a terraform script to automatically deploy a Golem Provider on a cloud provider and setup monitoring using prometheus. Check it out  ---&gt; https://t.co/8WFB3C6hFy",23,3,3,2021-02-16
+928,2021-02-17 10:05:10+00:00,1361979996525498370,golemproject,Looking foward to seeing you all there with our CPO Kuba @83TB https://t.co/cEGa814I7E,18,2,1,2021-02-17
+937,2021-02-18 14:56:30+00:00,1362415701278007302,golemproject,@ORAOXRP We can be everyone and anyone. There's no limit on what you can make Golem do https://t.co/P39e9jT3VM,1,0,0,2021-02-18
+943,2021-02-19 11:12:52+00:00,1362721812296122392,golemproject,"@OKEx has finalized token migration of GNT -&gt; GLM for their users and enabled the GLM / USDT pair https://t.co/PFSyHMAtjE
+Keep track of GNT to GLM migration on our tracker page: https://t.co/yEgLzCE5H4",2,0,0,2021-02-19
+952,2021-02-20 17:36:00+00:00,1363180616150249475,golemproject,"So many things are happening at Golem, so we'll do an AMA on February 24 at 6pm CET! Drop your questions on Reddit 👉👉👉👉👉👉https://t.co/7fjluHN7mw",46,3,4,2021-02-20
+954,2021-02-21 16:23:00+00:00,1363524633161441284,golemproject,"Golem and @AaveAave, what do you think? Give us your feedback on our proposal here https://t.co/wvkYlUaNhX https://t.co/iinJoIQYY1",38,3,5,2021-02-21
+955,2021-02-22 07:16:45+00:00,1363749553267179520,golemproject,Looking forward! join us on February 24th for an epic day including all these amazing talking heads 😎😎😎 https://t.co/vRHKdXhrNe,28,1,2,2021-02-22
+961,2021-02-23 09:33:43+00:00,1364146409923088385,golemproject,@aubetony @Benzinga @TomoChainANN The migration does not end :)  no worries,0,0,0,2021-02-23
+963,2021-02-24 15:01:20+00:00,1364591247567028224,golemproject,@QuinnyPig @awscloud https://t.co/pwYdLzBSwP,15,0,0,2021-02-24
+972,2021-02-25 12:31:52+00:00,1364916019115028486,golemproject,"Join us tonight at 6.15pm GMT: @DrewHarding, Griff Green, and @jamesyoung will talk about #digitalcurrencies moderated by @MPtherealMVP https://t.co/ljua98QzSA",27,1,5,2021-02-25
+975,2021-02-26 10:03:39+00:00,1365241106154323975,golemproject,"Do you need a reason to join our discord channel? Yesterday we had the most interesting discussion on the interplay between #law #technology #accessibility in different countries. Who needs Netflix when you have such a community!
+Don't miss the party--&gt; https://t.co/2Mnvk0IRIl",32,1,4,2021-02-26
+976,2021-03-01 17:10:27+00:00,1366435680109404161,golemproject,"#AMA Summary is out, check it here --&gt; https://t.co/Rdxxgm2fbn",23,0,2,2021-03-01
+982,2021-03-02 08:27:00+00:00,1366666334499725312,golemproject,"Looking forward to particpating to the FriDAI meetup organized by @MakerDAO. @MPtherealMVP, @ethswarm and @EmilieRaffo will discuss how to make #web3.0 mainstream 
+https://t.co/Elr2xH5r0Q",25,0,5,2021-03-02
+984,2021-03-03 10:23:25+00:00,1367058019310272520,golemproject,"In February our dev team has worked tirelessly to release Alpha4, so we're happy to be recognized for the hard work they're pulling! https://t.co/uKRKDsBbv1",60,1,9,2021-03-03
+988,2021-03-04 18:22:41+00:00,1367541020670517255,golemproject,@BHDirCut @Adobe This is a great idea!!!!,6,0,0,2021-03-04
+992,2021-03-05 17:04:29+00:00,1367883727485952004,golemproject,Italy #deplatformed #Medium because it promotes gambling. Yet another case to run on a #decentralized unstoppable platform?https://t.co/BZ92ixY8Px https://t.co/vxbUUwZK2R,22,1,3,2021-03-05
+994,2021-03-06 11:49:00+00:00,1368166720922218496,golemproject,"As blockchain is not gender-specific, everyone needs to widen their understanding of what people in general want and need
+
+Read our advisor @MPtherealMVP's take on @benzinga 
+https://t.co/eXw3MA2kFt",29,2,2,2021-03-06
+995,2021-03-08 12:23:43+00:00,1368900234408058882,golemproject,"Yet another meme from our community, winner of the Meme Contest #decentralization #CloudComputing https://t.co/obnKm7GuwH",34,1,4,2021-03-08
+996,2021-03-09 14:52:53+00:00,1369300162854744069,golemproject,"TODOs for today: subscribe to Golem's newsletter 👇
+https://t.co/7q7cwJaLfn https://t.co/lNAA1J6Klz",17,1,4,2021-03-09
+998,2021-03-10 19:33:12+00:00,1369733095314821125,golemproject,Today is #memes day https://t.co/gQC3C3Pi7x,60,4,4,2021-03-10
+1006,2021-03-11 13:27:43+00:00,1370003505004548098,golemproject,"The Bug Bounty Competition for the new implementation of Golem Network (Yagna) is starting today! Join us in our search for security related bugs in the Yagna software and eligible repositories.
+https://t.co/2ClJbi8F4V",22,1,1,2021-03-11
+1010,2021-03-12 13:21:45+00:00,1370364390684430338,golemproject,"@androolloyd @phillip_dkno @DAppNode hi, do you have discord? we are in https://t.co/2Mnvk0IRIl and a bunch of guys are ready to help",2,1,0,2021-03-12
+1015,2021-03-15 16:46:27+00:00,1371503068039233545,golemproject,"Glad to be recognized as one of the tech firms that are ahead of the curve on #blockchain adoption! And most of all, excited for the future ahead of us
+ (🤖spoiler: it will be #decentralized) https://t.co/vsxVruQu8y",35,1,2,2021-03-15
+1023,2021-03-16 12:45:23+00:00,1371804792096456717,golemproject,"🗣️🗣️🗣️HACKERS OF GOLEM!
+🧑‍💻 #BugBounty is out, come help us build a #decentralized and safe future for everyone! https://t.co/2ClJbi8F4V https://t.co/IMPHWMlR3o",23,0,1,2021-03-16
+1027,2021-03-17 12:01:05+00:00,1372156028133969920,golemproject,#ICYMI Last week we launched the first official #Mainnet version of Golem aka Yagna! Read more here: https://t.co/NS74qQK08Q https://t.co/F6wCaMewVP,28,2,5,2021-03-17
+1028,2021-03-18 17:45:02+00:00,1372604977236037637,golemproject,"Why Golem #hackathon:
+1.Coolest categories to build your idea
+2.If you don't have an idea, you can build @SolveMIT's 
+3.The best community in the cryptospace
+4. No blockchain experience required
+5.We ♥️ #memes 
+6.And we don't like #centralization
+https://t.co/OfEMTfHYDj",25,0,6,2021-03-18
+1032,2021-03-19 10:58:23+00:00,1372865025258483714,golemproject,"Want to participate to the #hackathon but running short of ideas? Check this dope game of #Chess developed by our community member Pawel 😎
+https://t.co/8em19qs3it",27,1,3,2021-03-19
+1034,2021-03-20 16:05:46+00:00,1373304770828582922,golemproject,"Hackers of the Golem Hackathon and new requestors can get some (zkSync) GLM to start you hacking and running tasks on mainnet! The hackathon has $30,000 USD worth of prizes and no blockchain coding experience required:
+https://t.co/5RaQ374nce",38,1,5,2021-03-20
+1036,2021-03-22 16:49:00+00:00,1374040424453566477,golemproject,Learn about how to test and debug a Golem .gvmi image on your machine with the Golem debugging guide https://t.co/kNuTdKE10p https://t.co/XMMzHS6T9R,19,1,1,2021-03-22
+1042,2021-03-23 10:39:00+00:00,1374309698581659653,golemproject,"2018: all about ICOs🚀
+2020: DeFi Summer🌞
+2021: NFTs are here to stay🤩
+2022: Infrastructure crush ♥️
+Come build the future of Internet with Golem #Hackathon
+https://t.co/OfEMTfZzuR https://t.co/W9WOuHi7sm",52,2,7,2021-03-23
+1044,2021-03-24 13:36:22+00:00,1374716722779930625,golemproject,"Before migrating your GNT to GLM, if you have any doubts or questions, head to our Discord https://t.co/2Mnvk0IRIl or feel free to email us",19,1,3,2021-03-24
+1047,2021-03-25 15:24:02+00:00,1375106207178964997,golemproject,@TriFoxCo https://t.co/GktWOvKlRm,3,1,0,2021-03-25
+1052,2021-03-26 11:42:48+00:00,1375412917466763265,golemproject,"Following all the amazing feedback from the community, we've just created the Golem Beta 1 Mainnet Patch Release which addresses the highest priority issues since #mainnet. Run Golem and help us make it more awesome!
+https://t.co/bWk0afc0Cr",35,0,6,2021-03-26
+1055,2021-03-29 10:29:57+00:00,1376481749207818240,golemproject,🚨ATTENTION🚨 #ICYMI We’ve extended our #mainnet #Hackathon until April 21st! Decentralize everything and win up to 30k USDC in prizes https://t.co/0XeAFGtHdt https://t.co/ZqKTt45mTw,29,7,5,2021-03-29
+1060,2021-03-30 08:24:33+00:00,1376812579767603202,golemproject,"@CryptoGasBag Hi, try connecting your MetaMask wallet to MyEtherWallet, go to view all dapps and Golem Migrator. You should be able to migrate for $13 in fees with a gas price of around 80. It might just be a bit slow though.",7,0,0,2021-03-30
+1062,2021-03-31 09:36:14+00:00,1377193007984881666,golemproject,"Looking to join the future of #decentralized computing? Our Mainnet Hackathon is live on @github, and there is still time to sign up! Claim bounties &amp; earn up to $30k USDC in prizes #coding #innovation https://t.co/0XeAFGtHdt",34,1,4,2021-03-31
+1063,2021-04-01 16:02:16+00:00,1377652544793686017,golemproject,Developing on Golem’s side effects: increased sense of agency over your code and reduced tolerance to censorship,32,1,1,2021-04-01
+1064,2021-04-02 16:24:00+00:00,1378020399468830721,golemproject,3rd clue: you might want inspect thoroughly for easter eggs.,13,4,1,2021-04-02
+1071,2021-04-03 13:31:00+00:00,1378339250593275909,golemproject,"Plans for the weekend anyone?
+https://t.co/5RaQ374nce
+#codinglife https://t.co/97u8plBmQO",37,4,5,2021-04-03
+1072,2021-04-04 12:10:02+00:00,1378681261615628288,golemproject,"@Lucas_finance_ Of course, there's exciting news every week in the Golem community! The latest being the community working on their hackathon projects and also machine learning on Golem: https://t.co/LeM05QMyb0",1,0,0,2021-04-04
+1074,2021-04-06 11:01:58+00:00,1379388909457534980,golemproject,"Golem4SocialGood: you can take home 7k $USDC if your project meets the criteria for the Open Track. Start hacking now!  #hackathon 
+https://t.co/7nbvAl7FWz",25,0,2,2021-04-06
+1077,2021-04-07 14:23:56+00:00,1379802123710435334,golemproject,Excited about Golem and have an interest in #MachineLearning? Join the community driven #ChitChat on Discord tomorrow at 4pm CEST,18,0,3,2021-04-07
+1078,2021-04-08 13:36:13+00:00,1380152502679711754,golemproject,"We're having a chat on #MachineLearning starting in 30 minutes in our community Discord, led by the community and a decentralized machine learning developer, Anshuman! Join us in the ChitChat channel https://t.co/VpW5EbrkBf",18,2,4,2021-04-08
+1080,2021-04-09 12:40:40+00:00,1380500913773801474,golemproject,Recording of the #MachineLearning Discord chat session led by the Golem community. If you're interested in Machine Learning and decentralization then the Golem community is for you! https://t.co/NeEjUnslYp,28,0,11,2021-04-09
+1081,2021-04-12 10:20:36+00:00,1381552828213305344,golemproject,"🗣️Come join us tomorrow 👇👇👇👇👇
+
+Our advisor @MPtherealMVP  will talk about:
+
+""NFTs and the case for hypertokenization to generate healthy ecosystems and attribute contributions""
+
+https://t.co/Qb0M1crhDU",14,3,1,2021-04-12
+1084,2021-04-13 10:48:24+00:00,1381922210399543297,golemproject,Voyeuring into Golem Stats https://t.co/N0DFu7WO45,22,1,1,2021-04-13
+1087,2021-04-14 16:11:46+00:00,1382365977459974148,golemproject,"Golem GitHub Digest #13 is out! We are progressing faster than ever with the help of the Golem community and their feedback. Come learn about some of the things being worked on in the Golem GitHub
+https://t.co/KD9QpZKuaE",20,0,2,2021-04-14
+1091,2021-04-15 08:57:51+00:00,1382619164586749952,golemproject,"OK CT it has been fun, now back to building the decentralized future you deserve https://t.co/mj4of480sw",51,3,6,2021-04-15
+1093,2021-04-16 14:17:57+00:00,1383062109458726917,golemproject,"Hackers! The last sprint before the Golem Mainnet Hackaton ends on April 21st. There's up to 30k $USDC in prizes, go win yours 😎! 
+https://t.co/OfEMTfHYDj",25,0,4,2021-04-16
+1094,2021-04-19 10:40:13+00:00,1384094479880097801,golemproject,"🗣️🗣️🗣️ 
+Golem AMA is open, shill us your best questions  on Reddit👇👇👇
+
+https://t.co/a2uegc3mX0",26,0,1,2021-04-19
+1095,2021-04-20 13:24:06+00:00,1384498106637725696,golemproject,"Just a reminder that  the #hackathon's deadline is tomorrow, the 21st of April - make sure to submit your project on time 🤩
+https://t.co/OfEMTfHYDj",17,0,1,2021-04-20
+1096,2021-04-21 09:10:21+00:00,1384796637034319872,golemproject,"AMA closes in an hour, make sure you drop you questions 👇👇👇https://t.co/3EfwxCnDIL",22,1,2,2021-04-21
+1097,2021-04-22 14:46:06+00:00,1385243521788125186,golemproject,We're playing  #Chess on Golem and losing in 11 moves! Can you do better than a Golem powered AI?  https://t.co/Hrc55iSwCj https://t.co/9cpIE7s8mG,34,4,2,2021-04-22
+1098,2021-04-23 15:17:30+00:00,1385613809805627395,golemproject,"Thanks again to everyone in the community that participated and read-in on the Reddit #AMA for April 2021. The Golem team had a blast going through the questions and we've created a summary for your reading pleasure.
+https://t.co/Juob2W8Uzu",20,3,2,2021-04-23
+1102,2021-04-26 10:14:00+00:00,1386624594447159298,golemproject,"One hackathon down, one more to go. Happy to announce we're joining 0xHack as Sponsors. 
+Bounty pool is 10k, focus: Open Internet 🚀 
+Stay tuned for more 👉 https://t.co/1yik8eFmmA",27,0,3,2021-04-26
+1103,2021-04-27 14:41:40+00:00,1387054345586311173,golemproject,"@luka_dosen No - the migration is opt-in and the gas costs are that of Ethereum network, doesn't depend on us. 
+We just try to inform you of possible cheaper times - so just use @ETHGasStation or similar. 
+btw, it's not USD - it's ETH, so for ETH prices is actually relatively cheap",0,1,0,2021-04-27
+1106,2021-04-28 14:09:00+00:00,1387408513136308229,golemproject,Thank you again to all the hackathon participants and congratulations to the winners! We hope to see what you come up to next when we participate in 0xHack https://t.co/oWMv2ytMMK,13,3,5,2021-04-28
+1117,2021-04-29 08:39:03+00:00,1387687866361384960,golemproject,@brutusww3 🤩🥰,1,0,0,2021-04-29
+1118,2021-05-04 18:49:06+00:00,1389653329429544964,golemproject,"Hackathon Show&amp;Tell, this Thursday at 6pm CEST: winners from our hackathon ""Mainnet is here"" will showcase their projects. 
+
+Grab your free ticket now 👇
+https://t.co/mxKtfkJYMc",21,4,4,2021-05-04
+1119,2021-05-05 08:25:05+00:00,1389858675490234368,golemproject,@Yahoomriz We pivoted the architecture based on the lessons we have learned. You can read more here --&gt; https://t.co/ZAczGEzhnu,2,0,0,2021-05-05
+1123,2021-05-06 16:38:08+00:00,1390345144696811523,golemproject,"@iamjustaspore Unfortunately no food! 
+We are talking about P2P computation and building+running applications on a decentralized network.
+You can watch live from your home though, so you can definitely eat food while watching 😉",89,5,24,2021-05-06
+1127,2021-05-07 15:27:22+00:00,1390689722838798336,golemproject,"The next few months look promising for #Ethereum — check out our Advisor to the BoD @MPtherealMVP discuss #ETH's value, utility and price ambitions with @gazza_jenks in @cointelegraph. https://t.co/kvRsLullB8",26,3,5,2021-05-07
+1128,2021-05-10 13:53:57+00:00,1391753379601395714,golemproject,"If you missed the Show&amp;Tell, fear not: 
+you can watch a replay and learn more about the projects that won the Golem Hackathon ""#Mainnet is here"" 👇
+https://t.co/sXAMB0rqk7",19,0,0,2021-05-10
+1130,2021-05-11 12:08:16+00:00,1392089170475106309,golemproject,Running for an hackathon is always a good idea - Check our bounty at the 0xHack and get ready to hack! https://t.co/1yik8eFmmA,29,0,1,2021-05-11
+1131,2021-05-12 15:39:31+00:00,1392504720363868160,golemproject,"The $ETH rally continues this week as the #crypto hits a $500B market cap - our Advisor @MPtherealMVP discusses the breakthrough with @isabelletanlee in @BusinessInsider 👇👇👇
+https://t.co/05wcEV6lN9",21,1,4,2021-05-12
+1132,2021-05-13 10:11:14+00:00,1392784495108034560,golemproject,"Golem Open Track bounty at the #0xHack hackathon means one thing: there's no limit on what you can build.
+https://t.co/1yik8eFmmA https://t.co/6mvtzXLAGk",25,3,7,2021-05-13
+1135,2021-05-14 16:41:06+00:00,1393244992127242245,golemproject,Happening now https://t.co/akfcz4jaSh https://t.co/sIxLLyklzx,4,0,1,2021-05-14
+1141,2021-05-17 09:02:52+00:00,1394216838289100800,golemproject,"Are you participating in the hackathon but you have very little experience with Golem? 
+
+FEAR NOT &amp; join us today at 14 CEST for a workshop: ""Architecture, SDKs and tips"" w/ Kuba Mazurek
+https://t.co/pFNbFGHOrw",20,0,2,2021-05-17
+1142,2021-05-18 10:29:26+00:00,1394601012560863233,golemproject,"HACKERS! The Golem bounty at the 0xHack #hackathon is live, and there are 2 prizes of 5k USDC each. Will you be one of the winners?
+https://t.co/7lHFeiH3UR",14,1,1,2021-05-18
+1148,2021-05-19 08:45:00+00:00,1394937118158311424,golemproject,Watch Kuba Mazurek's workshop at the 0xHack hackathon and start building on top of Golem https://t.co/xZcXJNqMuy,18,2,0,2021-05-19
+1149,2021-05-20 18:22:23+00:00,1395444809075240971,golemproject,"This patch addresses important issues users have been pointing out, so please upgrade your nodes to ensure the best experience",11,1,1,2021-05-20
+1152,2021-05-21 10:39:37+00:00,1395690740471132160,golemproject,"After @AaveAave's feedbck, we resubmitted our proposal in order to fit the new required template. 
+If you want $GLM on AAVE, please leave us some feedback in the Governance forum! https://t.co/DAsJG1grUn",25,2,3,2021-05-21
+1153,2021-05-24 10:03:09+00:00,1396768723554426880,golemproject,Last week to #hack &amp; win 2 prizes of 5k USDC each with the Golem #Bounty at the #0xhack 😎🤑💥  https://t.co/7lHFeiH3UR,16,0,3,2021-05-24
+1157,2021-05-25 14:01:54+00:00,1397191196619968523,golemproject,correct link: https://t.co/8BgWFtdjZD,5,1,0,2021-05-25
+1160,2021-05-26 13:00:56+00:00,1397538240882782213,golemproject,"The @hoardexchange Marketplace has been launched on mainnet: you can use your NFTs as collateral to obtain loans, and you can stake your HRD 
+Whether you're into DeFi or you have a crush on NFTs, check it out 🔥🔥🔥 
+https://t.co/FALwH6xLsS https://t.co/ZzkoLppAzV",22,3,3,2021-05-26
+1161,2021-05-27 14:05:19+00:00,1397916831667527688,golemproject,"Still a few days left to submit your project to the Golem Bounty 🔥 at the #0xHack hackathon* 
+
+*and win up to 10k $USDC in prizeeeees  🤑
+https://t.co/7lHFeipswh",16,0,1,2021-05-27
+1162,2021-05-28 10:56:29+00:00,1398231697607495682,golemproject,@leshow_123 @YouTube Feel free to try out the hosted application! https://t.co/Hrc55iSwCj,1,0,0,2021-05-28
+1164,2021-05-31 16:10:48+00:00,1399397963873538048,golemproject,0xHack Hackathon ended today! Congrats to all who participated - stay tuned because winners will be announced on Wednesday!,24,0,2,2021-05-31
+1165,2021-06-01 14:10:34+00:00,1399730093266812930,golemproject,"Golem GitHub Digest #14 is just out! 
+An introduction of some of the things that the Golem development team has been working on and what’s to come in the next major release 📖
+https://t.co/l6AVjU8tuj",16,3,1,2021-06-01
+1166,2021-06-02 12:35:19+00:00,1400068509237981191,golemproject,🗣️🗣️🗣️Tune in today from 3pm CEST - we'll announce the winners of the Golem bounty at the #0xHack hackathon!  https://t.co/w5rkRoCSZR,17,0,1,2021-06-02
+1168,2021-06-04 14:26:03+00:00,1400821152033951746,golemproject,"We’re sharing the GLM Rewards Program awardees for May. This is the first month of the Application Creation and Maintenance category and we're excited to dive into @RockPaprFrigate interesting utilization of the Golem Network.
+https://t.co/Gg2Gxek3XJ",14,1,2,2021-06-04
+1169,2021-06-07 12:24:02+00:00,1401877609261277186,golemproject,🗣️🗣️🗣️🗣️DEVELOPERS of Twitter!,19,1,0,2021-06-07
+1172,2021-06-08 16:07:10+00:00,1402296149118263298,golemproject,"We're excited about open software! Let's dive into how open-source promotes creativity and how Golem Network fits into an open ecosystem of software development💾
+https://t.co/RZmvBQkCSO",19,1,1,2021-06-08
+1177,2021-06-09 11:27:55+00:00,1402588265534865410,golemproject,"New Normal means that we need to stay 2 mt apart, and the question is: how can we fit the most people into a space while still keeping 2 mt distance?
+Our community member solved this  conundrum https://t.co/OZKB3ZwnNr",18,1,0,2021-06-09
+1178,2021-06-10 10:53:24+00:00,1402941963037511683,golemproject,Gource is a great tool for visualizing the activity of an open-source developing ecosystem. Here we visualize 81 repositories related to the Yagna Golem implementation. 38 being golemfactory org created and 43 community created. https://t.co/X8QnqxmaC3,22,1,2,2021-06-10
+1181,2021-06-11 10:50:39+00:00,1403303662466867201,golemproject,"Meet Golem Fleet Battle Simulator: a system for calculating the results of a battle between two opposing starship fleets used in @RockPaprFrigate
+https://t.co/Pe4A2IFct3 https://t.co/WCcxPCJypX",34,2,10,2021-06-11
+1182,2021-06-14 10:12:56+00:00,1404381333670006789,golemproject,"Stats API documentation is out! You can track, visualize and monitor the Golem Network using the new free API 
+
+Shill us your best ideas to use the data 🤩 https://t.co/ccYA72YW4k https://t.co/skE8ndDwpu",19,1,0,2021-06-14
+1183,2021-06-17 14:44:29+00:00,1405536836093575177,golemproject,"Golem Beta II is out! 
+👀👀Spoiler: it includes services API
+https://t.co/EQxTT7TXKR",47,17,6,2021-06-17
+1187,2021-06-18 09:12:52+00:00,1405815769527619586,golemproject,"After last week's #Fastly outage, our Advisor @MPtherealMVP sat down with @jpruth at @InformationWeek to discuss bigger picture solutions for these types of mass disruptions, including building an unstoppable, #decentralized infrastructure 👇👇👇https://t.co/VdVulzs1NS",11,0,0,2021-06-18
+1189,2021-06-21 09:52:04+00:00,1406912796047052801,golemproject,"Sharing Golem Stats Bot. The first community collaborative initiative that utilizes the recently released Golem Network statistics API. The bot scrapes /r/GolemProject posts, replies with info on network statistics for specific keywords/commands. 📊
+https://t.co/y6Pnst8Whv",15,2,2,2021-06-21
+1190,2021-06-23 14:41:55+00:00,1407710513694494724,golemproject,".@UEFAcom  did you use Mutta-Puffs to schedule the #EURO2020?
+https://t.co/2b5LaSS1cc",13,1,1,2021-06-23
+1191,2021-06-24 13:29:29+00:00,1408054675799044116,golemproject,Someone is having fun on Golem Network 🥳- check requestors' activity live on 👀https://t.co/6YkGqx4kBB https://t.co/QeGZwUQybo,19,0,0,2021-06-24
+1193,2021-06-28 16:30:20+00:00,1409549739104866305,golemproject,"Golem peeps 💥After the release of Beta2, we're coming to you with three #bounties to build unstoppable Dapps, focusing on what excites us the most about this release: the Services API and the possibility to create custom runtimes 🤩
+https://t.co/WM8aA79m87",18,1,3,2021-06-28
+1197,2021-06-29 11:21:28+00:00,1409834396740460548,golemproject,"EIP-1559 will make transaction fees less volatile and more predictable, this change will be super beneficial for Golem users. We're looking forward to testing the London fork on Rinkeby in the coming weeks! Here are some great FAQs by @VitalikButerin https://t.co/6mIJA1Xe9C",14,2,2,2021-06-29
+1199,2021-07-01 08:10:04+00:00,1410511004698566658,golemproject,@digitalworldvl1 @SCryptoschool 🔥🔥🔥🔥🔥🔥🔥🔥,0,0,0,2021-07-01
+1201,2021-07-02 13:36:42+00:00,1410955591875448832,golemproject,"Golem Stats' fast-paced development and introduction of the Stats API has managed to grow it to be a useful tool for the community. The Stats page is on course for 80 million API requests, since its inception, in the next few minutes. Here's its timeline:
+https://t.co/s1kkS1SoDJ https://t.co/p9kTBkQnu5",25,2,5,2021-07-02
+1202,2021-07-05 13:55:22+00:00,1412047455970107396,golemproject,Flow analysis on disaggregated data on bilateral worldwide trade - a project by our community member built on Golem💥 https://t.co/4MRNyWDj87,16,1,0,2021-07-05
+1203,2021-07-06 14:03:22+00:00,1412411854811447303,golemproject,"#ICYMI, our blog discusses why Golem Network embraces #OpenSource, and why open source platforms are one of the best ways to promote creativity. You can read it here! https://t.co/qtcAtmRFO6",16,0,9,2021-07-06
+1205,2021-07-08 16:57:37+00:00,1413180481751949314,golemproject,"The latest Golem patch release is just out, v0.7.2, code-named Olive Branch. Please upgrade your nodes for the latest improvements and new APIs (Python and JavaScript).
+https://t.co/tAiunPQ2Et",16,0,1,2021-07-08
+1206,2021-07-09 01:19:00+00:00,1413306659468808193,golemproject,"#ICYMI, @MPtherealMVP discussed how #decentralization, #opensource, and Web3.0 will revolutionize computing and data storage as we know it. Check it out here in @Forkast_News https://t.co/0wIyfGHqnD",16,0,6,2021-07-09
+1210,2021-07-12 14:42:33+00:00,1414596042461487108,golemproject,"Golem AMA Summer Edition: shill us your best questions
+https://t.co/84YFIWBxhB",12,0,0,2021-07-12
+1212,2021-07-15 15:08:41+00:00,1415689783440027653,golemproject,"In this video, we take a deeper dive into how #Python developers can get started building on service-oriented applications that run on the Golem Network: https://t.co/2iq1LaqvuD
+
+https://t.co/a3fiA8xPQw",15,0,3,2021-07-15
+1214,2021-07-19 15:04:12+00:00,1417138208161386500,golemproject,#ICYMI We updated the GLM Rewards Program w/a broader Community Builder category. Come up with your own community building ideas+initiatives and be win $GLM https://t.co/OhS2JU0YPH,14,2,2,2021-07-19
+1215,2021-07-20 10:23:55+00:00,1417430061247090704,golemproject,"🗣️🗣️🗣️ we got feature on ""2021 Tech Trend Report - Blockchain, Fintech and Crypto"" 
+via  @WorldBank &amp; @FTI 
+https://t.co/nILMwzv6AY",19,1,0,2021-07-20
+1219,2021-07-22 14:34:25+00:00,1418217874917711874,golemproject,"Do you want to BUIDL on Golem but you're unsure where to start🏗️? 
+
+Have a look at the learning resources on our Awesome Directory and let the magic begin!👇👇👇 
+
+https://t.co/Td598stgVc",22,1,1,2021-07-22
+1220,2021-07-23 14:14:17+00:00,1418575197574152196,golemproject,"#ICYMI 
+
+👉👉👉 ""2021 Tech Trend Report - Blockchain, Fintech and Crypto"" 👀 via  @WorldBank &amp; @FTI 🤙 
+
+Read more about it: https://t.co/VwKTPjKqa2",16,3,3,2021-07-23
+1221,2021-07-27 09:51:23+00:00,1419958586717913092,golemproject,"As #NFTs grow in popularity across the #crypto economy, our advisor @MPtherealMVP discusses the narratives &amp; emotions that makes an asset valuable in @CryptoEconomyEN https://t.co/u4UwbnwLsT",17,1,4,2021-07-27
+1223,2021-07-28 15:27:39+00:00,1420405600408715268,golemproject,"The latest patch release for the Golem software (yagna) is out now, v0.7.3, codenamed Zenashe. Please upgrade your nodes for the latest improvements!
+https://t.co/L8hDQNK7bZ",41,19,8,2021-07-28
+1225,2021-07-30 13:59:28+00:00,1421108182412320777,golemproject,#Ethereum ❤️ https://t.co/NayDvLwRr9,17,2,7,2021-07-30
+1227,2021-08-03 14:30:14+00:00,1422565475507126281,golemproject,🔥🔥🔥Golem partnered with Allchemy on LIFE@Golem to find the answer to #TheOriginsOfLife 🔥🔥🔥https://t.co/QimIX9yBQo,22,2,9,2021-08-03
+1233,2021-08-04 17:11:05+00:00,1422968342793576449,golemproject,"Our advisor @MPtherealMVP spoke with @Vlajournaliste from @BusinessInsider to share her insights on the London hard fork👀. 
+Her thoughts on how it should benefit the entire #Ethereum ecosystem 👇👇👇
+
+https://t.co/Q8H82FBYcQ",18,1,1,2021-08-04
+1234,2021-08-05 13:52:08+00:00,1423280663956922375,golemproject,"Top 3 reasons this is a huge milestone: 
+🦾 Crypto &amp; Scientific communities are joining forces 
+🧙‍♂️ It's the most ambitious project ever built on Golem 
+🐣🥚 We might answer which came first, the Chicken or the Egg ?
+
+https://t.co/do9c4a2izL",31,0,5,2021-08-05
+1235,2021-08-06 14:49:49+00:00,1423657569713856512,golemproject,"1 year after #CHEM, we're still on our quest to leverage Golem to understand the #Universe with #LIFE
+https://t.co/b7idr3Zb2J https://t.co/PLjNUmRWlY",12,0,1,2021-08-06
+1236,2021-08-07 12:31:00+00:00,1423985022063693828,golemproject,"Golem GitHub Digest #15 is out! With this blog we update on progress that we're excited to share, revolving around the Golem GitHub👀👀👀
+https://t.co/KyeqCz37RY",17,1,1,2021-08-07
+1237,2021-08-09 15:00:49+00:00,1424747502809534467,golemproject,"We’re sharing the GLM Rewards Program awardees for July. In this month's spotlight we're highlighting Golocity! A CLI tool helping simplify the process for developers of deploying their dockerized projects on the Golem Network.
+https://t.co/6JZB0NUXFs",19,0,1,2021-08-09
+1238,2021-08-10 10:36:50+00:00,1425043454132953100,golemproject,And we're pretty excited to see how this brave man likes Golem! https://t.co/u5rntamWEO,14,0,1,2021-08-10
+1245,2021-08-11 15:13:40+00:00,1425475511912964104,golemproject,👀 https://t.co/wLVvE5q3R1,12,0,3,2021-08-11
+1247,2021-08-12 19:04:31+00:00,1425895992415686670,golemproject,"OPEN CALL - TESTING FOR USE-CASE
+Requirements are:
+- Windows 10 or higher 
+- GPU +6GB (DM Mattias on Discord with your GPU to confirm hardware eligibility)
+This test will be compensated in $GLM. 
+Important: we require all testers to sign a short standard contract.",24,6,7,2021-08-12
+1252,2021-08-13 09:35:04+00:00,1426115076713504768,golemproject,"Speaking as a Twitter account, we're honored you're interested in us. https://t.co/1Y5g7uOi6a",17,1,1,2021-08-13
+1255,2021-08-16 14:30:01+00:00,1427276465658384391,golemproject,🪨🪨🪨🪨🪨🪨🪨🪨🪨🪨 https://t.co/y4hfFn5ER9,10,3,1,2021-08-16
+1256,2021-08-17 08:52:33+00:00,1427553928921690143,golemproject,@startupstash Thank you for the mention! you might be interested in these news - scientific milestones from Poland to the world and beyond! https://t.co/b7idr3Zb2J,6,1,0,2021-08-17
+1259,2021-08-18 13:30:40+00:00,1427986305678446593,golemproject,"Golem Stats is going to reach 200M API requests served today! Join the community in utilizing https://t.co/eHie2zEu99 for viewing the network statistics.
+In a P2P marketplace for computational resources—supply and demand with no middleman—Golem Stats helps you compete😉 https://t.co/eZRLLtYUap",25,0,5,2021-08-18
+1260,2021-08-19 15:20:05+00:00,1428376228071886848,golemproject,"Almost that time again 👀👀👀
+Sign up today for our newsletter 
+https://t.co/hv5NHcKAch https://t.co/L7tY9QM4hn",8,1,1,2021-08-19
+1264,2021-08-20 09:06:50+00:00,1428644682976878593,golemproject,@Sethereum2 Stay tuned!,1,0,0,2021-08-20
+1265,2021-08-24 13:33:59+00:00,1430161465022062602,golemproject,"Yes, me. https://t.co/V87ZnkPD1R",28,5,1,2021-08-24
+1267,2021-08-25 13:10:39+00:00,1430517981776392200,golemproject,"gm :)
+the latest edition of the Golem newsletter is out. There are big things in the Golem pipeline, so in case you haven't signed up still, you might want to do that too ;)
+Click here to read --&gt; https://t.co/1petcjlzDV https://t.co/6WigEuG9kv",21,1,3,2021-08-25
+1270,2021-08-26 14:52:47+00:00,1430906074928799744,golemproject,@UseThorg Overeater.,5,0,0,2021-08-26
+1272,2021-08-27 14:10:13+00:00,1431257748046585860,golemproject,"Last weekend of August, time to sit back, relax and play #Sudoku with us 
+https://t.co/Oh2DSVKpKT https://t.co/qwJyYorFWH",19,2,3,2021-08-27
+1273,2021-08-30 12:40:32+00:00,1432322342500380675,golemproject,Great. Now he's a pollster. Great. https://t.co/ejl3EZLeHs,11,0,0,2021-08-30
+1275,2021-08-31 10:45:54+00:00,1432655884350627845,golemproject,gm https://t.co/w1rIh8FQqe,14,5,0,2021-08-31
+1276,2021-09-01 09:12:10+00:00,1432994682620030978,golemproject,"@sebalopezhodl we're good thanks for asking, how can we help?",0,1,0,2021-09-01
+1278,2021-09-02 09:02:52+00:00,1433354729166409730,golemproject,"@MTLFORBRKFST uufff, now we work as secretaries for @UseThorg 🧐",3,0,0,2021-09-02
+1280,2021-09-03 09:16:10+00:00,1433720462865993730,golemproject,"gm
+
+coincidence? we think not. https://t.co/WNHQbIYQRE",77,14,8,2021-09-03
+1281,2021-09-06 12:54:41+00:00,1434862619270258699,golemproject,@avant_tard Give web3.0 some love and it will rescue us https://t.co/sYHVPOu8vd,2,0,0,2021-09-06
+1283,2021-09-07 15:58:47+00:00,1435271336906170382,golemproject,"We’re sharing the GLM Rewards Program awardees for August. In this month's spotlight, we're highlighting Entropythief! A multi-source approach to creating randomness utilizing the providers of Golem Network.
+https://t.co/xCdT088cmW",11,2,0,2021-09-07
+1284,2021-09-08 15:48:02+00:00,1435631017763774470,golemproject,"We've just published a Golem Ansible role for setting up a provider on the network. This essentially means that it will install and configure the provider for you automatically, minimizing the configuration needed on your part.
+https://t.co/xILuvlqI9X",19,1,1,2021-09-08
+1286,2021-09-10 11:55:29+00:00,1436297272128647180,golemproject,Scientific research and yet another attempt at showing why decentralization matters https://t.co/OwMVWkIKML,28,1,7,2021-09-10
+1287,2021-09-13 12:50:11+00:00,1437398200965599233,golemproject,Advisor @MPtherealMVP spoke with @Cointelegraph on why Ethereum's community and financial know-how combined with NFTs can't be matched. https://t.co/abwNXDh2RC,11,3,2,2021-09-13
+1288,2021-09-14 10:33:00+00:00,1437726065313521670,golemproject,"Our advisor @MPtherealMVP would be concerned about other web3 applications integrating with Facebook, and so would we. 
+
+But @Facebook if you peeps want to go decentralized, and need help, DMs are open 😉 https://t.co/2rmY32VmAE""",14,1,3,2021-09-14
+1289,2021-09-16 14:55:49+00:00,1438516981666177036,golemproject,"Keeping Up with Golem: GitHub Digest #16 is out. Don't tell anyone that we're working on VPN, ARM binaries for requestors, and Custom usage counters - it's a secret 🤫
+https://t.co/nVkfauMvhG",17,0,5,2021-09-16
+1290,2021-09-20 15:43:00+00:00,1439978406444208130,golemproject,A round of applause for our developers who work tirelessly on  making the world a more decentralized place 🔥 https://t.co/DmNz6PvIbY,26,1,4,2021-09-20
+1291,2021-09-21 14:38:22+00:00,1440324529192980486,golemproject,"When you play me, I'm alive
+We're like 💎 in the sky
+At first sight I felt the energy of computing rays
+I saw the life inside your eyes
+(dedicated to our friend @UseThorg)
+https://t.co/Hi7dpfQ6p4",18,1,6,2021-09-21
+1292,2021-09-23 12:16:17+00:00,1441013548675653636,golemproject,@NovumSoft hello! we would love to learn more about this .- feel free to reach out at contact@golem.network,0,1,0,2021-09-23
+1296,2021-09-24 10:27:22+00:00,1441348529071398914,golemproject,"We at Golem ❤️ mining so we are head over heels about @MineWithThorg, our newest baby project, featuring Layer 2 payments on @0xPolygon and built on top of the Golem platform! Start mining and earn $GLM. Thanks @decryptmedia https://t.co/GjBpy8AiJN",32,2,4,2021-09-24
+1297,2021-09-25 16:25:19+00:00,1441800995961458692,golemproject,"It's a Miner... It's a Gamer... It's @MineWithThorg , our newest project built on top of Golem to get you mining seamlessly &amp; earning $GLM, feat. @0xPolygon’s L2 solution. Don’t say we don’t ❤️ you. https://t.co/x67ABMHwa4 https://t.co/LaqyeEtEXk",34,1,9,2021-09-25
+1298,2021-09-27 16:46:30+00:00,1442531103919718405,golemproject,"When someone tells you to stop playing and start earning, tell them to stop complaining and start mining https://t.co/kkuauYRe0w
+
+Dipping our toes into the @0xPolygon’s ecosystem with @MineWithThorg: mining has never been this fun",16,2,1,2021-09-27
+1299,2021-09-28 09:31:10+00:00,1442783934971105288,golemproject,"Meet your new BFF @MineWithThorg, a mining app powered by @golemproject using @0xPolygon L2, and start mining and earning $GLM!
+https://t.co/nMn10Rpq8U",26,5,4,2021-09-28
+1300,2021-09-29 14:14:00+00:00,1443217499915444232,golemproject,"Ladies, if he's: 
+-Easy to be with
+-Low maintenance
+-High ROI
+It's not hubby material, it's @MineWithThorg https://t.co/OE41FwXY2m",19,0,1,2021-09-29
+1301,2021-09-30 17:24:41+00:00,1443627876834844676,golemproject,"Community-created; Golem Completion Engine, an enhanced bash completion engine that extends built-in completions by providing contextual help for golemsp and yagna. 
+Open-source on GitHub, by krunch3r 🙌https://t.co/wtN89cZ38i https://t.co/s7q35mYTI4",28,2,1,2021-09-30
+1302,2021-10-01 11:20:34+00:00,1443898630478389251,golemproject,"AMA Announcement! 
+We'll be answering your questions on Reddit on Wednesday the 6th of October. Shill us your best questions and let the fun begins 🤙
+https://t.co/yjESH51NG1 https://t.co/iHNjMM11Tj",12,0,1,2021-10-01
+1304,2021-10-04 10:01:11+00:00,1444965817368686592,golemproject,"We're hosting a Reddit AMA on Wednesday: drop your questions here 👇👇👇
+https://t.co/XBQMKFVw1y",14,1,1,2021-10-04
+1306,2021-10-05 09:30:58+00:00,1445320600638169089,golemproject,"#Facebookdown: time to understand why at Golem we're building a serverless, decentralized infrastructure. 
+
+Drop your question for our AMA 👀
+
+https://t.co/yjESH51NG1",36,0,10,2021-10-05
+1308,2021-10-06 08:33:53+00:00,1445668624014856192,golemproject,⏰ Last few hours to join our AMA! Can't wait to answer all your questions 😎😎😎 https://t.co/8qTqFKV9M4,10,1,3,2021-10-06
+1309,2021-10-07 13:38:05+00:00,1446107566891696129,golemproject,Oh here we go again... what do you have in stock Thorg? https://t.co/lauZdDk4SO,17,1,1,2021-10-07
+1311,2021-10-08 13:45:10+00:00,1446471733448413184,golemproject,The earth is shaking once again... come out come out wherever you are @MineWithThorg https://t.co/xwxVoEvcNt,15,3,0,2021-10-08
+1313,2021-10-11 15:30:26+00:00,1447585390571966464,golemproject,"New week, new drop: 
+Golem Beta III is out 
+This major release builds on the previous, utilizing service functionality to enable Golem VPN capabilities, now providers can communicate with one another! 
+https://t.co/dbACJhFSxI",35,2,7,2021-10-11
+1314,2021-10-12 12:43:08+00:00,1447905676815224834,golemproject,"🌶️🌶️ HOT OFF THE GOLEM FACTORY OVEN🌶️🌶️
+
+👉New Beta III Golem release -&gt; VPN and VM support
+https://t.co/dbACJhFSxI
+
+👉 New @MineWithThorg release -&gt; $ETC mining supporting leaner hardware setups + $ETH mining for the super-powerful nodes out there
+https://t.co/efbU5wJtjS",40,40,12,2021-10-12
+1315,2021-10-13 10:26:34+00:00,1448233694469267457,golemproject,"The Golem community Discord has reached the milestone of 5k members since its creation! Averaging hundreds of daily messages where all types of stakeholders discuss their interests, the overall project, support, and projects built on Golem!🤓
+Join at: https://t.co/hZG0fVITo6",18,0,0,2021-10-13
+1317,2021-10-14 15:04:26+00:00,1448666012614750215,golemproject,"AMA summary is out: what you missed, what we're cooking and more👇👇👇
+https://t.co/GNaPMbV7pZ",16,0,2,2021-10-14
+1318,2021-10-18 13:50:40+00:00,1450096998548451340,golemproject,"@MineWithThorg The math checks out. Add CPU computations already so Thorg users can start doing your math for you on the Golem Network😉
+They could even tackle the world's toughest problems in vehicle routing, flows, integer and linear programming, etc. w/ Golem OR-tools https://t.co/yY6GSjXM8X",8,0,1,2021-10-18
+1323,2021-10-19 13:43:38+00:00,1450457616237404160,golemproject,"Last week @coinbase announced the launch of its #NFT marketplace 👀 our in-house NFT expert @MPtherealmvp discusses the ""fantastic"" expansion &amp; importance of healthy competition in this emerging space w/ @francisbignell in @thefintechtimes https://t.co/7GAJ1tA3jL",18,3,4,2021-10-19
+1324,2021-10-20 16:39:02+00:00,1450864144190693384,golemproject,"Golem XIV is the book that the Golem Project was named after. The year 2021 is declared the Year of Stanisław Lem in Poland.
+With Golem, we've combined both science and philosophy to see what we can do differently to help make a fairer and less centralized world. https://t.co/Th6qVOIpNq",30,2,4,2021-10-20
+1326,2021-10-22 17:59:27+00:00,1451609157971415049,golemproject,"Even cooler, someone in the Golem community made it so that you can now buy steam games using your $GLM earnings from Thorg directly on @0xPolygon 😎https://t.co/7k1j3Mcxcd https://t.co/GB1MSZbsWr",26,1,10,2021-10-22
+1327,2021-10-25 13:18:54+00:00,1452625718719000586,golemproject,"@apkaneko73 @0xPolygon You could use this as a reference for mining: https://t.co/B6JkfrlZN3
+For being on a provider it's really up to you since it's a marketplace. You could use the stats page to judge by what others are providing and consider what suits you: https://t.co/eHie2zEu99",0,0,0,2021-10-25
+1328,2021-10-26 14:30:35+00:00,1453006147728945169,golemproject,"gm
+think you should try mining using @MineWithThorg 
+that's it that's the whole tweet",21,2,4,2021-10-26
+1329,2021-10-27 12:41:40+00:00,1453341122906968079,golemproject,"We're hiring! we are looking for an experienced social media manager to join our awesome team. 
+Know someone that would be a fit? tag them below! https://t.co/9b1XsoVINw",14,0,3,2021-10-27
+1330,2021-10-28 19:33:37+00:00,1453807181074157575,golemproject,"We've all been there... right? 👀😅
+
+Credit: @mewn21 https://t.co/vDwtj6p0Az",25,2,4,2021-10-28
+1332,2021-10-29 13:32:28+00:00,1454078682805452801,golemproject,"Look for the mining dwarf with the $GLM in his eyes 🤑
+And he's gone 
+Thorg in the sky with diamonds 💎
+
+(Thinking about @MineWithThorg) 
+
+https://t.co/eyWiLIKzEi",20,2,1,2021-10-29
+1334,2021-11-01 09:04:21+00:00,1455098374768693254,golemproject,"@Dogetoshi Golem's building more now than ever. Many tools and infrastructure (particularly layer 2) weren't available in 2017 so it's a great time to be building. We created an entirely new and more modular Golem, Yagna
+
+Awesome Golem: https://t.co/Ik7kFvyeCp
+Stats: https://t.co/eHie2zEu99",9,0,1,2021-11-01
+1336,2021-11-02 18:41:37+00:00,1455606036639985669,golemproject,"We’re kicking off our month-long project spotlight with the iconic Chess on Golem, created by broadcastmonkey!♟️
+
+Last winter’s ambitious #hackathon project shows a classical chessgame played by two AI players that facilitate Golem Network for computing. https://t.co/p09OCxKoyN",26,4,1,2021-11-02
+1338,2021-11-03 16:36:48+00:00,1455937011567767561,golemproject,"We've just released Yapapi v0.7.1
+This update is relevant to developers only. It addresses a couple of important bugs and makes using the API a better experience for developers with Yapapi (Yagna Python API)
+https://t.co/uavUWGO64F",15,0,4,2021-11-03
+1341,2021-11-04 19:55:02+00:00,1456349287634374664,golemproject,"Today's project feature is DeML (Decentralised ML), created by anshuman73! 🖥️
+
+DeML provides a unique framework for working w/ Machine Learning models across a network of computers with ease &amp; low computing costs. 
+
+Check out the awesome innovation here: https://t.co/YnRklkynOr",23,2,5,2021-11-04
+1342,2021-11-05 16:20:36+00:00,1456657712339640322,golemproject,Decentralization. https://t.co/8b5jPzfnf3,24,0,1,2021-11-05
+1343,2021-11-07 12:11:11+00:00,1457319719338397700,golemproject,@DZack23 But we reimplemented Golem to be modular!,4,0,0,2021-11-07
+1344,2021-11-08 10:50:43+00:00,1457661858123554817,golemproject,Golem devs are 🔥 https://t.co/w70qY3JAhO,33,2,2,2021-11-08
+1345,2021-11-09 16:26:59+00:00,1458108869050347528,golemproject,"October's GLM Rewards Program coming at you!
+Each month we give out $GLM to reward individuals participating in the community. This month includes @MineWithThorg Reviews.
+https://t.co/CvvTridS1g",17,1,1,2021-11-09
+1346,2021-11-10 07:17:06+00:00,1458332873958830082,golemproject,@mayazi '16 ICO project here. Building more than ever! https://t.co/jXghg9EBd3,2,1,0,2021-11-10
+1348,2021-11-11 22:01:58+00:00,1458917946525425666,golemproject,We wanna know... what first comes to mind when you hear #web3? 🤔,23,29,1,2021-11-11
+1349,2021-11-12 17:17:56+00:00,1459208853632040960,golemproject,"📢GOLEM COMMUNITY!📢
+
+Join us on @discord for a community get-together on  MONDAY, Nov 15 from 5pm-6pm CET to celebrate our 5-year anniversary! 🔊
+
+Link up with our team to discuss the project &amp; be a part of Golem history as we celebrate this milestone together. 🥳",15,4,1,2021-11-12
+1355,2021-11-15 16:26:52+00:00,1460283168028823552,golemproject,"Grandparents 🤝 Thorg 
+Grunting and mining https://t.co/nQ2NsBjamr",12,3,3,2021-11-15
+1358,2021-11-16 16:39:45+00:00,1460648795637755911,golemproject,"A community-created Golem provider runtime with network access via HTTP proxy. 
+One thing that's so exciting about being in a decentralized development ecosystem is watching individuals grow and come up with interesting applications to run on the network
+https://t.co/qGAnVD6jsf",12,3,3,2021-11-16
+1360,2021-11-17 16:38:51+00:00,1461010960676757511,golemproject,@RondeauMark @MineWithThorg There's no time limit or date. The migration contacts will be available forever although it might be more difficult to migrate over time as potentially some tools to help you do so could become unavailable. Migration started 1 year ago: https://t.co/OpFvpyQuSc,1,1,0,2021-11-17
+1361,2021-11-18 10:59:31+00:00,1461287948712824834,golemproject,"@adidasoriginals Very cool POAP! We also did POAP tokens this week for the Golem community.
+https://t.co/UbJgLRx5rI",4,0,0,2021-11-18
+1363,2021-11-19 17:17:41+00:00,1461745507177435136,golemproject,@StudioXee could you be more specific so we can help you? thanks,1,0,0,2021-11-19
+1374,2021-11-22 14:58:40+00:00,1462797684205658119,golemproject,"@RondeauMark @MineWithThorg Fees to migrate are currently around $60-80 with current gas prices. Gas used is ~100-115k, comparable to a 0xSwap: https://t.co/pqVseiuzoq",0,0,0,2021-11-22
+1375,2021-11-23 09:40:43+00:00,1463080060152393733,golemproject,"@link_hound Here's a list of potential use cases of a price feed in the Golem ecosystem:
+- Pricing strategy of Chainlink oracle node running on Golem network provider (with the use of LINK rate).
+- Pricing strategy of Chainlink oracle node for the Golem requestor (with the use of LINK rate)",4,1,1,2021-11-23
+1377,2021-11-24 12:11:03+00:00,1463480279998377984,golemproject,🔥🔥🔥🔥 Thorg coming in HOT with a new major release supporting two new miners and more🔥🔥🔥🔥 https://t.co/yogPF1kiMh,21,4,2,2021-11-24
+1380,2021-11-25 14:02:00+00:00,1463870588821204993,golemproject,"Web 2: chess dot com
+Web3: chess on Golem
+
+♟️♟️♟️♟️♟️♟️♟️♟️♟️♟️♟️♟️
+
+(for real and there's a competition with 30k $GLM in prizes rn!)
+
+https://t.co/B8HgEb6Il6",36,10,7,2021-11-25
+1382,2021-11-26 14:10:33+00:00,1464235127479877635,golemproject,"👏Attention Golem Developers!👏
+In preparation for our upcoming release that’s adding support for payments on Polygon, we are also going to migrate the faucet that helps developers with GLM’s to run their first tasks on mainnet.
+Join Discord: https://t.co/VpW5EbrkBf
+#funding",50,8,10,2021-11-26
+1385,2021-12-01 10:35:30+00:00,1465992950081593348,golemproject,"Golem has a new team member! We're introducing Ben. You might know him from the @minewiththorg TikTok. He's going to be working as the Golem social media platform manager and also on Thorg. Couldn’t be more excited to have Ben join the team!
+https://t.co/G39EsvPtDJ",25,11,6,2021-12-01
+1386,2021-12-03 15:51:57+00:00,1466797363293564931,golemproject,One of the founders of Ethereum is going to a conference put on by @0xPolygon ! We can't wait to be a part of the future of crypto payment drivers (starting in Beta.4)...,19,6,4,2021-12-03
+1387,2021-12-07 19:50:39+00:00,1468306983711387653,golemproject,"Another #AWSOutage ... another reminder why we need more robust, open-source and decentralized infrastructure🤷 https://t.co/UKXlbr3o9F",29,4,7,2021-12-07
+1388,2021-12-08 09:33:47+00:00,1468514133452668932,golemproject,"Your ever-present reminder to stop relying on AWS, join Golem and help us build a fair, democratized and reliable alternative to web2 services https://t.co/AOplEmRmWS",38,5,6,2021-12-08
+1390,2021-12-10 16:48:55+00:00,1469348412655079429,golemproject,"Our GLM Rewards Program update blog just went live! Congrats to all our awardees 🎉🎉🎉 
+
+Read more here: https://t.co/jKpiaUtmIm",16,6,2,2021-12-10
+1391,2021-12-13 16:55:34+00:00,1470437250982940672,golemproject,"Golem's end of year newsletter is coming soon!
+
+Don't 👏 miss 👏 out 👏
+
+Subscribe today (we promise we'll never clog your inbox): https://t.co/nWJFfTUM8D",17,7,2,2021-12-13
+1393,2021-12-14 15:04:45+00:00,1470771751055462403,golemproject,"👏To support Providers that have been with us since we moved to Polygon, we are happy to announce the Golem Subsidy Program. 👏
+Read more here: https://t.co/qFpwliwed0",13,9,2,2021-12-14
+1395,2021-12-16 18:33:17+00:00,1471549003271659529,golemproject,"In 2020, LIFE@Golem, a joint project between Allchemy and Golem, harnessed the power of the Golem Network to unravel the great mystery of life’s origins….
+https://t.co/QimIX9yBQo
+Early Earth was home to only a few and very simple molecules such as H2O, N2 or CH4.
+
+1/N",31,14,6,2021-12-16
+1397,2021-12-17 09:51:03+00:00,1471779967319126016,golemproject,Gas prices are relatively right now compared to the last few weeks. You can create a migration transaction that should confirm within the hour for under $20 in fees. https://t.co/WjQNSx77NK https://t.co/C4OexZ6oYY,11,11,3,2021-12-17
+1399,2021-12-20 10:22:40+00:00,1472875090413080578,golemproject,"In 2020, we threw in all our CPU power to simulate some 50,000 prebiotic reactions. This was published in Science [https://t.co/T2IWMVclhz] and created lots of media buzz as we found new ways of making life’s key molecules.
+
+3/N",10,2,1,2021-12-20
+1401,2021-12-21 15:01:07+00:00,1473307549571158018,golemproject,"Golem has just released a new patch release (v0.9.1) for the latest major Beta IV release. This release includes priority fixes to the provider CLI for setting pricing.
+Please update your nodes!
+
+https://t.co/DWVwu5PjgW",30,6,5,2021-12-21
+1403,2021-12-22 14:19:12+00:00,1473659389592711173,golemproject,@lllmmmmmmmmm @statelayer Haha yes! Don't you hate it when people don't @ in tweets about you? 🤦,12,1,0,2021-12-22
+1406,2021-12-23 09:56:16+00:00,1473955607803838465,golemproject,"@MacariusBernard Haven't heard back yet so just checking in, if you're having issues still please join us on Discord, we have the #migration channel. Always love to help anyone in need of assistance! 😊
+https://t.co/VpW5EbrkBf",1,0,0,2021-12-23
+1407,2021-12-25 09:35:00+00:00,1474675031217258497,golemproject,"gm
+
+Wishing everyone on CT happy holidays!
+
+&lt;3 Golem https://t.co/NcuBjY8pdW",26,7,0,2021-12-25
+1410,2021-12-26 12:14:30+00:00,1475077561378033669,golemproject,@NintendieGMEBOY @TribecaDAO @solana @ArweaveTeam Until the last slot is filled ;),1,0,0,2021-12-26
+1411,2021-12-27 08:42:42+00:00,1475386644308058113,golemproject,@TechnologyPat @0xDemetri @punk6529 Here's a link to Awesome Golem which is a list of all the applications already created to be able to run on Golem: https://t.co/Qq71JoSY4o,1,0,0,2021-12-27
+1414,2021-12-28 21:40:37+00:00,1475944802701172736,golemproject,"@metab0y @fluence_project Very cool! Don't forget to check out Awesome Golem for ideas and to see what other people have built
+https://t.co/Ik7kFvyeCp",2,0,0,2021-12-28
+1417,2021-12-30 14:45:32+00:00,1476565117936586759,golemproject,"Our community manager @mat77ias spoke with @gazza_jenks to share his insights on #ETH growth in 2021, and why Ethereum is unique because of its underlying technology, in @cointelegraph https://t.co/8JKICBCCdr",27,12,4,2021-12-30
+1418,2021-12-31 17:09:22+00:00,1476963702930907140,golemproject,Wishing everybody a very happy #NewYear! We can't wait to see what's in store for 2022! https://t.co/YBQqmpC0ox,35,9,2,2021-12-31
+1419,2022-01-01 16:25:29+00:00,1477315049891020805,golemproject,"Golem's wrapped up for 2021 with a summary of the year. Looking forward to what 2022 will bring!
+https://t.co/QkXUQihCdL",23,9,6,2022-01-01
+1420,2022-01-04 18:41:38+00:00,1478436476828495873,golemproject,"@0xPolygon More decentralized computing!!!
+
+Every single person wants to make money, and solve the mysteries of the universe, right?",21,1,1,2022-01-04
+1429,2022-01-05 14:32:38+00:00,1478736201637109764,golemproject,"@adamscochran Yes we did build on Ethereum, but then the fees were insane so we moved to Polygon.",2,0,0,2022-01-05
+1432,2022-01-06 13:04:46+00:00,1479076476490338307,golemproject,"@elonmusk That awkard moment when @elonmusk realizes he can crash stock markets, and all he has to say is 'nice'",32,95,1,2022-01-06
+1436,2022-01-07 12:04:18+00:00,1479423647957803013,golemproject,It do be like this sometimes at Golem https://t.co/UkaakCgJ7a,41,7,6,2022-01-07
+1438,2022-01-10 16:56:39+00:00,1480584383652413440,golemproject,"T-minus 48 hours (and 4 minutes) left until the Winter Edition Golem AMA successfully lifts off!!!
+I'm super excited to help answer all of your AMA questions, so keep posting them!
+
+https://t.co/IMolizducI",19,3,3,2022-01-10
+1439,2022-01-11 08:22:00+00:00,1480817253121552384,golemproject,@zelcore_io What about GLM? https://t.co/XE9dpRB6LC,0,0,1,2022-01-11
+1442,2022-01-12 05:04:39+00:00,1481129979924840449,golemproject,"The Golem AMA is open for questions for 6 more hours! We're excited about all your questions and will share our answers at 6pm CET today!
+https://t.co/IMolize22g",7,0,1,2022-01-12
+1444,2022-01-13 00:46:20+00:00,1481427356644700163,golemproject,"@XeroPeace That tweet is 3 years old, there's a new of Golem (Yagna) implementation since. You can use Golem Stats to gauge median market prices https://t.co/eHie2zF1YH
+
+There's also a community-created automatic price updating scripted which uses the stats API https://t.co/ipa3dMRLfC",0,1,0,2022-01-13
+1445,2022-01-14 15:54:02+00:00,1482018175487479816,golemproject,"We’re sharing the GLM Rewards Program awardees for December. This update is combined with introducing a future of more flexible slots for the program!
+https://t.co/acburOJb6T",16,4,4,2022-01-14
+1446,2022-01-15 23:18:30+00:00,1482492419119927298,golemproject,Don't knock it until you've tried it. https://t.co/2dj0neIeNF,34,5,11,2022-01-15
+1447,2022-01-17 14:12:05+00:00,1483079683000389632,golemproject,"We recommend posting this as a DAO proposal!
+https://t.co/RLfDGP2LyT https://t.co/5HgaVjWLle",13,4,4,2022-01-17
+1450,2022-01-25 14:48:43+00:00,1485988004799950851,golemproject,"If you want to learn more about Golem and the future of computing, make sure to join our discord! 
+
+https://t.co/8UH7wIoWY6",11,1,0,2022-01-25
+1451,2022-01-26 14:53:59+00:00,1486351717667328003,golemproject,"We are too! We're trying to change the way computing is done forever - and everyone can help!
+
+To become a provider:
+https://t.co/9QHBlpm19m https://t.co/IEUCjUkUgO",12,1,3,2022-01-26
+1452,2022-01-28 15:03:53+00:00,1487078985229955082,golemproject,"With 2021 done, we created a set of secret plans for 2022 🥷
+Well, not so secret anymore! See our blog on 2022
+https://t.co/f7OfjrLdex",19,4,6,2022-01-28
+1454,2022-02-02 14:21:17+00:00,1488880202801463298,golemproject,"Did you mean to say a pile of money for @awscloud? We're actually around 39x cheaper.
+We also don't have a reputation of being down at least once a month. https://t.co/i2Rk6nk3om",28,1,3,2022-02-02
+1458,2022-02-03 13:31:49+00:00,1489230145462415361,golemproject,Happy Birthday Elmo! https://t.co/tSeGBYtwS2,15,6,0,2022-02-03
+1459,2022-02-04 15:58:13+00:00,1489629372940455937,golemproject,"January of 2022 has just come and gone. With that, we’re sharing the GLM Rewards Program awardees. Today is Friday and also ""Working Naked Day"". So you know what to do, join the GLM Rewards Program!
+https://t.co/tGP8HFK4cF",18,2,4,2022-02-04
+1460,2022-02-07 16:52:53+00:00,1490730295888392196,golemproject,"10,000,000 subscribers on Youtube to support our multibillion dollar idea of decentralized computing! https://t.co/OS0pzPxlru",33,9,7,2022-02-07
+1461,2022-02-14 17:41:57+00:00,1493279360434032641,golemproject,We all want to wish a happy Valentine's Day to the entire Golem Network!,21,2,4,2022-02-14
+1462,2022-02-15 17:00:01+00:00,1493631195065708546,golemproject,"Converting GNT to GLM is super simple, just follow our guide below!
+https://t.co/XE9dpRB6LC",35,7,15,2022-02-15
+1463,2022-02-16 17:00:01+00:00,1493993581542985730,golemproject,"Our favorite way to keep our GLM safe is to store it on a secure cold wallet. We even support hardware devices, like Ledger, so that you can feel safe while using Golem online and offline.",19,4,6,2022-02-16
+1464,2022-02-17 17:00:02+00:00,1494355973976121361,golemproject,You should never need to develop an application alone; so join us at https://t.co/2Mnvk10szT to develop with a community of like-minded individuals on the permissionless network!!,25,4,12,2022-02-17
+1465,2022-02-18 17:00:01+00:00,1494718358192889859,golemproject,Stay permissionless guys!!!,40,5,18,2022-02-18
+1466,2022-02-19 17:00:00+00:00,1495080742052937731,golemproject,"To compute on the Golem Network is currently less then a $0.01/cpu*hour.
+So to use a 5950x for a full day may cost less than $8.00.",59,6,26,2022-02-19
+1467,2022-02-20 17:00:02+00:00,1495443136587476993,golemproject,https://t.co/5aXowHpPlv,55,7,20,2022-02-20
+1468,2022-02-21 17:00:01+00:00,1495805519344254976,golemproject,What applications would you like to see be built on the Golem Network?,39,5,17,2022-02-21
+1469,2022-02-22 17:00:02+00:00,1496167913551630341,golemproject,@elonmusk We're waiting😉 https://t.co/9k99MjDYpr,20,1,5,2022-02-22
+1470,2022-02-23 14:28:29+00:00,1496492161818415110,golemproject,@TechnoItch There is a migration of GNT to GLM https://t.co/0IjchTB2Zu,0,1,0,2022-02-23
+1474,2022-02-25 17:00:01+00:00,1497255071653851137,golemproject,"If you're looking to join the Golem Network, try LinkedIn!
+https://t.co/jc320Mh4QG",101,12,72,2022-02-25
+1475,2022-02-26 17:00:02+00:00,1497617463613210625,golemproject,Know any developers that want cheap resources to compute on? Show them the Golem Network.,258,34,205,2022-02-26
+1476,2022-02-28 17:00:02+00:00,1498342239394668544,golemproject,What other crypto projects do you want to see the Golem Network team up with?,329,129,287,2022-02-28
+1477,2022-03-24 14:43:27+00:00,1507005177538105346,golemproject,"We need a 🧠 (👽) person: with a positive attitude &amp; a great sense of humor, English native speaker, 2+ years copywriting experience, ability to work remotely. Does it sound interesting❓ Send your resume/CV+portfolio here: https://t.co/SQQTUt6jk0",11,6,3,2022-03-24
+1480,2022-04-01 13:42:02+00:00,1509888821348945925,golemproject,"The humanitarian situation in Ukraine is increasingly desperate. @ICRC is scaling up its response by the hour to meet people’s vast needs. Now, thanks to Golem, your HELP is 𝟐𝐗 as VALUABLE! Donate now using this link https://t.co/gX3qpZbdSf. We will DOUBLE your donation. https://t.co/KccoFtKbr4",111,15,25,2022-04-01
+1483,2022-04-04 10:50:35+00:00,1510932841386983425,golemproject,@swizzz24 @ICRC We really appreciate you getting involved and the support! 🥰,1,0,0,2022-04-04
+1484,2022-04-05 13:07:14+00:00,1511329616518074374,golemproject,@adrianpi_ @ICRC &lt;3,0,0,0,2022-04-05
+1486,2022-04-06 14:02:15+00:00,1511705848267034627,golemproject,"Announcing the latest major release bundle for Golem, Beta V! With our new update to the client and Python API (Yapapi), web application development is easier than ever. We are offering monthly rewards of 4k GLM to devs working on+maintaining applications https://t.co/ed8G2cfy8R",21,5,5,2022-04-06
+1489,2022-04-08 11:32:05+00:00,1512392834971848712,golemproject,"Till now the ICRC in🤝 partnership with the Ukrainian Red Cross Society has delivered 700 tons of 💊medical supplies, 🍞food, and 🧴relief items ❤️ Donate now using this link: https://t.co/gX3qpZbdSf. 𝙂𝙤𝙡𝙚𝙢 𝙬𝙞𝙡𝙡 𝘿𝙊𝙐𝘽𝙇𝙀 𝙮𝙤𝙪𝙧 𝙙𝙤𝙣𝙖𝙩𝙞𝙤𝙣! https://t.co/Yv8Lxlndv2",36,6,10,2022-04-08
+1491,2022-04-11 07:21:27+00:00,1513416925086461954,golemproject,"@julius_t2 Definitely, we all need to stand together to help those in need!❤️",1,0,0,2022-04-11
+1494,2022-04-12 15:10:43+00:00,1513897406571679755,golemproject,"We just released an important update for Yapapi. If you're a requestor, please check out how to update Yapapi in our announcement channel on Discord: 
+
+https://t.co/VpW5EbrkBf",10,5,1,2022-04-12
+1495,2022-04-13 07:35:57+00:00,1514145350730358784,golemproject,@julius_t2 ❤️,0,0,0,2022-04-13
+1496,2022-04-22 19:43:01+00:00,1517589812441722880,golemproject,@MagicMetric This is an absolutetly wonderful memory. Thank you for sharing this!,0,0,0,2022-04-22
+1497,2022-05-11 14:00:05+00:00,1524388878932619264,golemproject,We completed the campaign with the ICRC. We would like to thank everyone who has so far supported people affected by the conflict in Ukraine with donations. All your donations made via our website have been 𝘿𝙊𝙐𝘽𝙇𝙀𝘿. Thank you for your support! https://t.co/eDv6cKW6lx,24,0,3,2022-05-11
+1499,2022-05-12 12:30:58+00:00,1524728842484695041,golemproject,@bumerang07 Thank you!,3,1,0,2022-05-12
+1501,2022-05-13 15:40:03+00:00,1525138812749459460,golemproject,@joepayso @MineWithThorg Rewards are open to anyone! https://t.co/lMsDxgoMcl,1,0,0,2022-05-13
+1506,2022-05-15 09:46:11+00:00,1525774535773003778,golemproject,"@Bluesky848586 The exact amounts the rewards are split is contained within the blog:
+
+Feedback Masters, 2 slots of 1000 GLM.
+
+Task Force General, 1 slot of 7000 GLM.
+
+Super User, 1 slot of 2500 GLM.
+
+Application Creation and Maintenance, 2 slots of 4000 GLM.",0,1,0,2022-05-15
+1507,2022-05-16 09:28:26+00:00,1526132456746889216,golemproject,"We're in the process of coming up with some new 
+swag!🥳
+We already have a number of items and want some opinions on what you might like to receive at online/offline events Golem is attending🤔",12,5,2,2022-05-16
+1508,2022-05-19 14:18:13+00:00,1527292546145460224,golemproject,@Lucky2892000 https://t.co/H3tRPkSKaU,1,0,0,2022-05-19
+1509,2022-05-20 10:22:52+00:00,1527595706021822465,golemproject,"Our Community Rocks!😎
+Shoutout to the Golem community creator, Krunch3r, working on Gompress - compress or archive files over distributed Golem nodes. The latest release (v0.2.0) supports archiving multiple targets.
+https://t.co/c4U555H1fi
+
+Demo: https://t.co/bp5koJy8Ty",24,9,2,2022-05-20
+1510,2022-05-23 08:13:09+00:00,1528650227862933504,golemproject,"Beta V release makes things much easier!
+Dive deeper into details and let us know your thoughts:
+https://t.co/6Z8M3NVffK https://t.co/2xLBPmBNJ8",35,7,6,2022-05-23
+1512,2022-05-24 10:09:06+00:00,1529041792443760642,golemproject,@ChainJunkies You're implying our greatest devs drive? They don't trust things they didn't build and/or the code isn't open-source https://t.co/r3MNYq96ox,5,0,0,2022-05-24
+1515,2022-05-26 12:11:46+00:00,1529797440345362432,golemproject,@julius_t2 We're trying to bridge the JS API to what our users would like to program on it!,2,0,0,2022-05-26
+1516,2022-05-30 07:29:20+00:00,1531175913995517953,golemproject,"@Bluesky848586 The GLM Rewards Program runs every month. We are also running the Brain Juice competition now, with 16,000 GLM in prizes: https://t.co/egJWauGbnA",0,1,0,2022-05-30
+1518,2022-06-03 14:39:39+00:00,1532733760470499328,golemproject,"Let's meet in Gather Town on Friday June 10th at 7PM CET, and play Pictionary!
+https://t.co/VpW5EbrkBf https://t.co/aNRcswlCvY",12,7,2,2022-06-03
+1519,2022-06-06 13:58:53+00:00,1533810661456855041,golemproject,"#javascript developers! All hands on deck💪
+create a creative use-case concept and grab $GLM
+
+Jump into https://t.co/5G0Ke6dAyt and submit your ideas💡 https://t.co/H7LmXkSZpO",31,3,7,2022-06-06
+1521,2022-06-10 14:34:16+00:00,1535269118970142721,golemproject,"Time flies!😲
+ Once again we are happy to share the GLM Rewards Program awardees for May. Congrats!🥳
+
+https://t.co/8WzXywSpGm https://t.co/7H5CKnlfX4",32,17,4,2022-06-10
+1522,2022-06-17 15:41:39+00:00,1537822792023949313,golemproject,https://t.co/O8wWsc6vfP,22,2,4,2022-06-17
+1524,2022-06-19 15:32:23+00:00,1538545233809530881,golemproject,"What is the #GolemNetwork? 
+We are building a unique platform through which access to ordinary and extraordinary 𝙘𝙤𝙢𝙥𝙪𝙩𝙚𝙧 𝙧𝙚𝙨𝙤𝙪𝙧𝙘𝙚𝙨 will be democratized! We connect those who want to share with those who are in need!
+🤜Click ❤️ https://t.co/Z9CfY2VKH1",120,7,17,2022-06-19
+1525,2022-06-20 22:05:56+00:00,1539006662396334080,golemproject,"The #GolemNetwork team is joining #NFTNYC2022 to support our partners from @realitymeta and spread our passion to build extraordinary decentralized solutions.♥️
+If you see people in Golem t-shirts, come say ""hi"" and mention you saw us on Twitter!👋 https://t.co/7fvaWl9tfn",291,7,1153,2022-06-20
+1526,2022-06-21 12:11:52+00:00,1539219547642896384,golemproject,"@Realitymeta @NFT_NYC Hey👋
+It was a great opening dinner indeed!
+We had a chance to discuss a lot of interesting #NFT concepts and we are looking forward to get involved more in this #Web3 ecosystem! 🤩",1,0,0,2022-06-21
+1527,2022-06-22 08:14:28+00:00,1539522194165858304,golemproject,"The Golem Network offers an easy way to access various computational resources distributed 🌎 all over the world. This results in a natural environment for creating 🤖 decentralized solutions in the manner of web 3.0. 
+📣 Find out more at https://t.co/ajgcOOR2OL
+
+#NFTNYC2022 https://t.co/9FB6DSmTGW",30,1,4,2022-06-22
+1530,2022-06-23 09:59:07+00:00,1539910917772775425,golemproject,"Find #GolemNetwork in the https://t.co/HDTTr0PpIf crowd 🔍
+
+@NFT_NYC @Realitymeta #NFTNYC2022
+#blockchain #NFT https://t.co/zgATEjBFtQ",21,1,3,2022-06-23
+1533,2022-06-24 13:51:26+00:00,1540331770356318208,golemproject,"Landlord Go - a revolutionary augmented reality geolocation property trading game (6M players/day!), has transformed the gaming landscape and a new project is set to be released: Reality NFT (https://t.co/bkmEivH775), which is powered by #GolemNetwork’s decentralized solutions. https://t.co/dHnCyXXuui",23,31,4,2022-06-24
+1534,2022-06-30 11:41:59+00:00,1542473517945561089,golemproject,"The https://t.co/HDTTr0PpIf event is progressive history that Golem got to participate in. And what history it is!!
+Golem met experts &amp; promising projects that are wanting to build a better future!
+It's great to be a part of such a wonderful community🥰
+
+@realitymeta https://t.co/yJkYUt8UKK",13,8,1,2022-06-30
+1536,2022-07-08 15:23:39+00:00,1545428408313815040,golemproject,"Happy Friday! 
+And we are even happier now that we can share the GLM Rewards Program awardees for June. 
+
+Thank you very much for your engagement. This time 19,000 GLM tokens will be shared across awardees👌
+
+https://t.co/UBaMqv6o85",19,19,7,2022-07-08
+1538,2022-07-12 14:42:04+00:00,1546867491615506432,golemproject,"The main driving factor for providing computer resources is earning GLM rewards. 
+Mid-agreement payments make sure providers will receive contracted payments during long-running tasks until the task is finished.
+
+Dive deeper: https://t.co/vnPdpQBjNx https://t.co/emQCxU6Y8M",36,21,10,2022-07-12
+1540,2022-07-15 16:44:04+00:00,1547985358083657729,golemproject,"Keep your eyes on the goal, work as a team, and have fun!
+For #golem, the pillar of getting to know and understand each other is going to team events. This helps in building the project!
+Join us! https://t.co/PYBq1TM74E https://t.co/1xamwhvg8W",41,50,8,2022-07-15
+1541,2022-07-18 09:13:08+00:00,1548959041535320064,golemproject,"@ZbindenCosta Alive and 9720 cores online on the network currently! 🥳 
+https://t.co/eHie2zEu99",2,2,1,2022-07-18
+1542,2022-08-05 12:06:36+00:00,1555525677004296192,golemproject,@MPtherealmvp Very awesome! 🥰,2,2,1,2022-08-05
+1543,2022-08-26 07:43:44+00:00,1563069671573954560,golemproject,Still surfing the web for new ideas? We believe inspiration is like feeling the wind at your back. That's why we’ve rented houses on the picturesque Hel Peninsula so our staff can escape the office and hit the beach in search of their next SUPER idea ☀️#DiscoverYourSuperpower https://t.co/UfGQ0waZ5A,21,23,6,2022-08-26
+1544,2022-08-30 08:14:28+00:00,1564526954879111169,golemproject,"☀️Whether you’re coding in the office or doing yoga at our retreat in Jastarnia, we’re all about balance. Our developers can choose between a 4 or 5-day working week to help find their perfect work–life balance 🧘‍♀️#DiscoverYourSuperpower https://t.co/3GCle7EqJg",29,12,4,2022-08-30
+1545,2022-09-01 08:19:33+00:00,1565253011601035264,golemproject,"Our developers choose the currency they get paid in, but we offer far more than money. From our code &amp; chill retreat in Jastarnia to the inspiration &amp; excitement of coding with the latest technology, extraordinary developers deserve extraordinary benefits #DiscoverYourSuperpower https://t.co/frinfCjx6K",27,23,6,2022-09-01
+1546,2022-09-06 08:33:42+00:00,1567068511431790592,golemproject,"👉 Our developers earn $3,000 to $10,000 a month, but the benefits we offer go far beyond money. Don’t send us your CV if that’s all you want. At Golem, you’ll find a life-changing experience you can’t put a price on #DiscoverYourSuperpower  💪 https://t.co/bMO5DlqK98",37,11,6,2022-09-06
+1547,2022-09-08 08:01:47+00:00,1567785254722715649,golemproject,"We’re always looking for new developers to join us at #Golem and we understand that talent knows talent. That’s why we offer existing employees +$4,500 for bringing a new superhero developer into the fold via our generous Team Member Referral Program #DiscoverYourSuperpower today https://t.co/h8szU36qLh",58,27,25,2022-09-08
+1548,2022-09-13 07:55:56+00:00,1569595723548708864,golemproject,✨Every quarter we pay our extraordinary developers a bonus in GLM. It’s the cherry on top of the fantastic salaries and ‘money can’t buy’ benefits we offer. 🍒We want our super-powered DevOps team to feel truly valued #DiscoverYourSuperpower https://t.co/WHSks0rqfl,40,37,9,2022-09-13
+1549,2022-09-15 08:06:05+00:00,1570323053208563712,golemproject,"🌅At #Golem, we believe in giving our super talented developers the freedom and trust to code their own future. Choose from an employment contract or B2B alongside a wide range of benefits and flexible arrangements 💪 #DiscoverYourSuperpower https://t.co/KFnHpxdyuC",47,43,7,2022-09-15
+1550,2022-09-20 08:02:22+00:00,1572134058229993472,golemproject,"We want you to join our journey into the future. After crowdfunding our way into existence in just 29 minutes in 2016, we have been growing fast and consistently developing our platform over the past six years. Come and work for a future-focussed business #DiscoverYourSuperpower https://t.co/Jj6ZuYI2B3",23,12,4,2022-09-20
+1551,2022-09-22 07:54:24+00:00,1572856826420658176,golemproject,"Finance and technology are boring, right? Well, not when you work with us. At #Golem, we’re changing the world for the better through ground-breaking projects such as the incredible Life on Golem and many more – and we’re having fun while we do it! Join us #DiscoverYourSuperpower https://t.co/Uc56GgyRFS",19,24,3,2022-09-22

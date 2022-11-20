@@ -1,0 +1,821 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-03 21:47:11+00:00,1213215251539382274,PolySwarm,"Are you a @Demistoinc user? You'll be happy to know that PolySwarm has an integration, so Demisto users can get direct access to PolySwarm to run automated scans, searches, do threat hunting &amp; more, all from a single pane of glass. MORE: https://t.co/QrvQm9dkOw #threatintel #SOC https://t.co/QtBn3fe2zJ",20,0,9,2020-01-03
+1,2020-01-07 16:09:59+00:00,1214579946972229632,PolySwarm,"PolySwarm's integration with #Splunk Phantom makes it easier for users to get #threaintel and detection in real-time. See how your #SOC can benefit from PolySwarm via Splunk, HERE: https://t.co/uHAB4VQQMy",15,0,4,2020-01-07
+2,2020-01-09 19:55:41+00:00,1215361520676364288,PolySwarm,We recovered a sample of the initial stage for the most recent iteration of the #ZeroCleare #malware family. Available on PolySwarm + we are providing a YARA rule which can be deployed to block this variant (+free sample downloads). *LINK: https://t.co/UMaa1MGYDa * #infosec #iran https://t.co/tuEvVAJ6Z4,18,0,17,2020-01-09
+4,2020-01-10 20:26:16+00:00,1215731606721265664,PolySwarm,We had a lot of interest from the PolySwarm community after sharing #threatintel on the #ZeroCleare #malware. Want to see how security experts and #SOC teams are benefiting from PolySwarm? Get in touch with us HERE: https://t.co/GrWzzNBOmq https://t.co/7JUggTsdvF,14,0,7,2020-01-10
+5,2020-01-14 18:51:48+00:00,1217157384155648000,PolySwarm,The latest #SAIGON #malware variant (sample + free download and other details) here in PolySwarm ***LINK: https://t.co/n4MN34rchR ***  #threatintel #backdoor https://t.co/vVKUtQJ8hl,16,0,9,2020-01-14
+7,2020-01-15 17:26:56+00:00,1217498415279628290,PolySwarm,"#Android #malware downloader site spoofing @Correos, targeting victims via SMS. Scan results + sample in PolySwarm ***LINK: https://t.co/IAq6kh441d *** ...not found in #VirusTotal. (Malicious domain: correos-paqueteria[.]app) #threatintel #cybersecurity #spain https://t.co/vyWC0xNGQC",20,0,19,2020-01-15
+8,2020-01-21 17:11:26+00:00,1219668841523040258,PolySwarm,"Quttera joins the PolySwarm threat detection marketplace. ""...Quttera’s technology enables identification of the unknown (0-day) #malware while improving the detection quality and precision..."" - Martin Gamboa, Quttera. ***More here: https://t.co/1bLlJF2z3Q *** https://t.co/FiSbUSPHQl",18,1,12,2020-01-21
+9,2020-01-22 17:06:35+00:00,1220030006363029506,PolySwarm,A message from PolySwarm Founder / CEO Steve Bassi: A look back at 2019 + what's coming in 2020: https://t.co/9YZpLXgVfd https://t.co/3c5ZtJ8rMO,13,0,4,2020-01-22
+10,2020-01-24 19:50:21+00:00,1220795997581914112,PolySwarm,"VIDEO: Go inside PolySwarm and see how to use some of the free features at the command line level, like #metadata searching and file/URL scanning, and how to get intel on specific pieces of #malware. (Plus we have free sample-downloads too!) ***WATCH: https://t.co/cWhr0n8KcM *** https://t.co/vz5JtmWNNU",10,0,6,2020-01-24
+11,2020-01-27 18:10:23+00:00,1221858003667677184,PolySwarm,"@Bank_Security Thanks for the story -- fyi we have the sample in PolySwarm here, free to download if anyone needs it. https://t.co/VOjqRaMBZk",1,0,0,2020-01-27
+16,2020-01-30 17:34:37+00:00,1222936163238993920,PolySwarm,Check out PolySwarm CTO @myhndl speaking at #HITBCyberWeek on #cybersecurity and #blockchain ***WATCH: https://t.co/cJUldb9uC9 *** https://t.co/aWxl8BUvdT,14,0,9,2020-01-30
+17,2020-02-04 11:31:00+00:00,1224656595994447872,PolySwarm,"PolySwarm launches polyX, a free community for security researchers to access threat intel and test new detection techniques. ***Join the community, HERE: https://t.co/gGIdzV9L24 *** #threatintel #infosec #malware https://t.co/YDknyX3g9a",32,0,19,2020-02-04
+20,2020-02-07 16:03:05+00:00,1225812231666966529,PolySwarm,"""Information-sharing, once shunned by companies for its transparency, is now recognized universally as a critical tool ... to combat #malware and to deploy proven defensive measures."" - @msspalert reporting on PolySwarm &amp; its new community polyX. Story: https://t.co/L7y4DdnjlR https://t.co/jUTgIZCSxj",10,0,4,2020-02-07
+23,2020-02-10 23:05:41+00:00,1227005748548382720,PolySwarm,"Schedule a time to meet with PolySwarm at #RSAC &amp; find out why Security Week calls PolySwarm ""#VirusTotal on steroids."" *Details/Schedule: https://t.co/aYR2BgDWVv*
+
+(We're also @ booth # 6572, N. Expo Hall -- say hi &amp; get your PolySwarm #blockchain.) #rsa #RSAC2020 #cybersecurity https://t.co/gNTkVldonv",19,2,6,2020-02-10
+24,2020-02-13 18:52:07+00:00,1228029098225627136,PolySwarm,"Yes, #TBT! https://t.co/Zg8D5R82eh",10,1,4,2020-02-13
+25,2020-02-14 22:23:12+00:00,1228444605726760962,PolySwarm,"We take good documentation seriously, so we created a new Docs site to help you navigate PolySwarm! From using the portal (https://t.co/MJouFYH8Q1) to scan &amp; search; using the API &amp; CLI tools; to building a scanning engine of your own, we have you covered: https://t.co/GnkvPCDMaF https://t.co/LAPYqbkltH",13,0,5,2020-02-14
+26,2020-02-19 22:24:08+00:00,1230256780115972096,PolySwarm,"@vxunderground Yes, come by our booth, NORTH EXPO HALL, #6572! (See map attached). Looking forward to seeing you there. https://t.co/9N3ukAxPlC",2,0,1,2020-02-19
+27,2020-02-20 17:12:16+00:00,1230540686388158464,PolySwarm,Just in case any of our #infosec friends missed this one... the community is quickly growing. Check it out!: https://t.co/jSrgShSqLl,11,0,4,2020-02-20
+28,2020-02-21 21:33:44+00:00,1230968872020381696,PolySwarm,"#RSAC is just around the corner! Make sure to request time to meet with us (we are almost booked up)! OR, if you won't be at RSA, we would still love to chat (just make a note of that in the comment field): 
+
+***Schedule here: https://t.co/wsmtnY1OXr *** https://t.co/STQ67S2CVE",10,0,3,2020-02-21
+29,2020-02-25 21:04:51+00:00,1232411154586013697,PolySwarm,"Lots of excitement on the #RSAC show floor! Stop by the PolySwarm booth, North Expo Hall, #6572 to learn about our novel approach to #threatintel and #malware detection.
+
+***Not at RSA this year? Connect with us here instead: https://t.co/YPBAHDRKZA *** https://t.co/03keVXXQEe",10,0,6,2020-02-25
+30,2020-02-26 22:13:24+00:00,1232790794764943366,PolySwarm,"If you could be the first to know about a 0-day...would you ? If the answer is YES, visit us (North Expo Hall, 6572) &amp; see how SOC teams &amp; malware analysts can use PolySwarm to get #threatintel (+automated detection) on emergent #malware. 
+
+@RSAconference #RSAC #RSA2020 #RSAC2020 https://t.co/ScTANYAKJf",9,0,3,2020-02-26
+31,2020-02-27 18:31:51+00:00,1233097430780063746,PolySwarm,"Interview @RSAconference with PolySwarm CTO talking trends in state-sponsored #cyberattacks, and PolySwarm's novel approach to threat detection+ #threatintel ... look out for us in a #RSAC highlight video airing soon across major broadcast networks. (Booth 6572, North Hall) https://t.co/Ya9uyD4jBA",10,0,7,2020-02-27
+33,2020-02-28 22:44:16+00:00,1233523341249699840,PolySwarm,"In the same week as @RSAconference, we are excited to announce our latest integration w/ @Anomali , leader in threat detection, investigation and response. Get intel and detect threats, earlier/faster, via PolySwarm+Anomali. 
+
+#RSA #RSAC #RSAconference #RSA2020 #RSAC2020 #infosec https://t.co/Sjspxkcty9",13,0,5,2020-02-28
+35,2020-03-03 17:07:15+00:00,1234888079749636096,PolySwarm,"""PolySwarm is a natural fit with Anomali, offering our customers superior insights into potentially malicious objects via their crowdsourced network of security experts and AV companies.” - @Anomali 
+
+*** https://t.co/JPjW6Hp4sS *** #threatintel #cybersecurity https://t.co/2hPkj9zhjX",12,0,5,2020-03-03
+37,2020-03-04 17:19:53+00:00,1235253645702119424,PolySwarm,"@mbsangster @RSAConference Thanks for your perspective here Mark ... and reminder that, yes, the human is important!",1,1,1,2020-03-04
+39,2020-03-07 01:22:55+00:00,1236099978512093184,PolySwarm,Great piece by @wirelesswench from #RSAC2020 https://t.co/XrkdCpqrjh,7,0,0,2020-03-07
+40,2020-03-10 18:26:38+00:00,1237444770533965824,PolySwarm,"Iran releases #AC19, its #COVID-19 tracking/detection app; Google removes from the Google Play store. AC19 sample and details here in PolySwarm: 
+
+LINK: https://t.co/qJ19fhc0ch 
+
+#threatintel https://t.co/ztDxoSiawS",15,0,5,2020-03-10
+41,2020-03-11 15:07:12+00:00,1237756969898913792,PolySwarm,"“We joined PolySwarm because we think it's a very interesting project for the community -- collaborating on this project was a must for us.” - Notmining  
+
+Checkout @Notmining, one of the latest threat detection engines on the PolySwarm marketplace: https://t.co/8KBSyz9kAt https://t.co/GuAlBwKsgx",17,0,10,2020-03-11
+42,2020-03-12 22:44:02+00:00,1238234323570102272,PolySwarm,"Watch out for the malicious #coronavirus #COVID19 tracker map. File sample and details here in PolySwarm -- see what engines detect + download the sample: 
+LINK: https://t.co/awNNIOGRwD
+
+(Image credit: John Hopkins University) #threatintel #infosec #security #cyber https://t.co/qjI6niYpvr",8,0,2,2020-03-12
+45,2020-03-13 18:06:32+00:00,1238526876785602564,PolySwarm,"PolySwarm's UI has a cool new update: You can now see the latest and trending #malware + details in the ""Emerging Threats"" section on the PolySwarm portal homepage: https://t.co/tBBTfBxRAX 
+
+Also, look for the ""P"" logo icon that indicates the sample was seen first in PolySwarm. https://t.co/SgL2iY4mWk",13,2,7,2020-03-13
+46,2020-03-16 15:51:26+00:00,1239580038489653248,PolySwarm,"Announcement: PolySwarm provides latest enhancement to Basis Technology incident response solution, Cyber Triage™
+
+** https://t.co/xhLYdaal9Z **
+
+With Basis Technology as a customer, we are pleased to help enhance their #tech which plays a critical role in fighting #cybercrime. https://t.co/6GLG6P58gT",7,1,5,2020-03-16
+48,2020-03-17 21:54:39+00:00,1240033832834924544,PolySwarm,"Latest #Emotet sample in PolySwarm -- not seen in #VirusTotal. (This sample is from the Emotet #botnet, used for updating nodes inside their infrastructure.) 
+
+LINK: https://t.co/ttjlpvCI0P
+
++ Checkout Emotet tracking in the ""Emerging Threats"" feed on our homepage. https://t.co/5C42EPywXn",10,0,5,2020-03-17
+51,2020-03-18 18:24:39+00:00,1240343373094912000,PolySwarm,"Be careful please: many apps and websites that promise #COVID19 / #coronavirus tracker maps are malicious, made by cybercriminals trying to install malware on your device. Microsoft has a true, safe tracker, here: https://t.co/nzh4YTRe2N https://t.co/OfrAjH2XFd",7,0,4,2020-03-18
+52,2020-03-19 22:41:18+00:00,1240770351266705408,PolySwarm,"We recently added an “Emerging Threats” feed (that anyone can access) on our homepage. It now includes a stream for #COVID19 #malware samples -- you can see file type, what engines are detecting and download samples (free) HERE: https://t.co/X3sGEgGxfJ 
+
+#threatintel #cybertools https://t.co/ARMGeeeRN6",15,1,10,2020-03-19
+53,2020-03-23 15:30:19+00:00,1242111439676092417,PolySwarm,"Free tool alert: #Telegram users can now use PolySwarm’s automated #malware detection bot to guard against cyber threats. 
+
+DETAILS HERE:  https://t.co/5Fd5jZnbrn
+
+#cyber #blockchain #threatintel #cybersecurity https://t.co/1plToAipwf",14,0,6,2020-03-23
+55,2020-03-26 18:39:47+00:00,1243246285005750272,PolySwarm,"Have you joined polyX yet? Become part of a community of anti-malware researchers collaborating and sharing intel on threats, and testing new detection techniques. ***JOIN HERE: https://t.co/8bV8Zpqigh ***
+
+#threatintel #malware #ITsecurity https://t.co/VqriMoHNju",12,0,9,2020-03-26
+57,2020-03-27 17:34:06+00:00,1243592144411070472,PolySwarm,"""The number of #cyberattacks is significant &amp; expected to increase further. #Cyber criminals will continue to innovate in the deployment of various #malware &amp; #ransomware packages themed around the #COVID19 pandemic"" -- #Europol report https://t.co/lJSf1FpBsk https://t.co/n5zB9cL7uA",6,0,4,2020-03-27
+58,2020-03-31 16:32:58+00:00,1245026308792385542,PolySwarm,"PolySwarm Engine Spotlight: Meet a few of this month's featured researcher-driven threat detection engines.
+
+LINK: https://t.co/49Z8M1ycUA 
+
+PolySwarm users have access to automated detection + #threatintel + #malwaresamples from a network of engines like these #infosec #malware https://t.co/vsZMBFw86L",12,0,10,2020-03-31
+59,2020-04-06 17:23:46+00:00,1247213420916559872,PolySwarm,"@techopcode @Docker We have samples of the #kinsing malware here in PolySwarm, if interested -- free to download: 
+
+https://t.co/cqowfhCAHL
+
+https://t.co/Wj95OzEORU",1,0,0,2020-04-06
+63,2020-04-07 17:17:17+00:00,1247574177709686784,PolySwarm,Our friends @VXunderground decked out their homepage with some super cool PolySwarm-inspired #ASCII art! https://t.co/mf2AU5UaUd,22,1,6,2020-04-07
+64,2020-04-09 16:26:54+00:00,1248286272621182978,PolySwarm,"@mirwanda443 @tccontre18 Great analysis, thanks. We have a few of those samples in PolySwarm, free to download + see details &amp; engines detecting, etc. -- Also added to our Emerging Threats feed featuring #COVID19 #malware: https://t.co/tBBTfBxRAX 
+
+https://t.co/JRal8AlUrM
+
+https://t.co/z15YsRO4b3",2,0,0,2020-04-09
+65,2020-04-10 16:57:35+00:00,1248656383597256706,PolySwarm,"Zoom-related #malware continues to propagate, so we've added a #Zoom malware feed to the PolySwarm ""Emerging Threats"" section. Check out some of the latest threats and download samples, free.
+
+**LINK: https://t.co/2H6n45Xk8Q**
+
+#threatintel #zoomsecurity #zoommalware #cyber https://t.co/NC5O6097XW",25,0,18,2020-04-10
+67,2020-04-13 17:52:01+00:00,1249757244352315392,PolySwarm,"ThreatConnect and PolySwarm together means arming organizations with a powerful defense against #cyberthreats. 
+
+*** Learn more about the PolySwarm + @ThreatConnect integration: https://t.co/dsAHvq0g58 ***
+
+#threatintel #malware #filereputation #threatconnect https://t.co/tKiOEdPmx5",13,0,10,2020-04-13
+68,2020-04-14 20:25:37+00:00,1250158290736201731,PolySwarm,"Malicious #COVID19 map websites continue to pop up. This latest one leads to Android banking Trojan, Cerberus, being downloaded.
+ 
+#Malware sample (free to download) here in PolySwarm: https://t.co/WA657KArEZ
+
+#covid19 #coronavirus #threatintel - Research via @LukasStefanko https://t.co/ZawLicr6vj",12,0,4,2020-04-14
+71,2020-04-16 17:21:26+00:00,1250836715012608001,PolySwarm,"Surveillance campaign tied to Syrian #nationstate actors uses #COVID19 to lure targets, download #malware. 
+
+Samples (in Emerging Threats feed here), first in PolySwarm (before #VirusTotal): 
+***LINK: https://t.co/noBqoLaLuc ***
+
+Research via @Lookout #threatintel #spynote https://t.co/2HkosllkaA",9,0,7,2020-04-16
+73,2020-04-17 00:05:53+00:00,1250938496849715206,PolySwarm,"Decrypted module, latest #Android #Eventbot #malware here in PolySwarm.
+
+*** Details + free sample download: https://t.co/J3hxN4x1Vc ***
+
+Seen first in PolySwarm -- also added to our Emerging Threats feed. #Trojan #SMSattack #threatintel https://t.co/Rd1tHdITDk",12,0,4,2020-04-17
+74,2020-04-18 17:42:27+00:00,1251566779035516928,PolySwarm,"Pacific Hackers Meetup digital event with guest @myhndl Paul Makowski starting soon. 
+
+***DETAILS + EVENT LINK: https://t.co/pdy1PZpzeK ***
+
+#infosec #cybersecurity #threatintel #meetup #malware #threatdetection #togetherathome  @phackmeetup @HackersPacific https://t.co/2qSk3u5Nah",10,0,13,2020-04-18
+76,2020-04-20 21:22:47+00:00,1252347003457073155,PolySwarm,"New #Mozi #malware targets #IoT devices -- research via @BlackLotusLabs -- Samples here in PolySwarm, free to download: 
+
+https://t.co/JYkyEPPWmH
+
+https://t.co/jioPHPnJj9 
+
+#threatintel #botnet #infosec",8,0,6,2020-04-20
+79,2020-04-21 20:14:30+00:00,1252692205753389056,PolySwarm,"@ESETresearch @LukasStefanko Thanks, great research -- we have the sample in PolySwarm too, free to download: https://t.co/bHLaWICGU4",0,0,0,2020-04-21
+81,2020-04-22 16:46:16+00:00,1253002192220565505,PolySwarm,"Using @ThreatConnect? Now is a perfect time to try PolySwarm for #malware intelligence &amp; enrichment (via its ThreatConnect integration). Special offer going on now: contact your ThreatConnect or PolySwarm rep:
+
+***LINK: https://t.co/dm1eQU1mIX ***
+
+#threatintel #infosec #bsides https://t.co/RskXlvG0xJ",12,0,3,2020-04-22
+83,2020-04-27 15:51:59+00:00,1254800468817182724,PolySwarm,"Great piece from @verovaleros, ""Timeline of #IoT #Malware""
+
+***DETAILS: https://t.co/6Gyv3oil8s***
+
+#botnet #OSINT #threatintel #infosec #Mirai #VPNfilter @costinandrei (*Photo courtesy of @verovaleros) https://t.co/W6xvWndfaH",16,1,22,2020-04-27
+84,2020-05-02 07:14:37+00:00,1256482206827999232,PolySwarm,@jp_bourget Happy to have you here!,0,0,0,2020-05-02
+85,2020-05-06 19:39:23+00:00,1258119186016018449,PolySwarm,"""We are excited to join PolySwarm, and contribute to the network with our specialized APT intelligence in the Asia Pacific region"" says TeamT5 CEO, TT Tsai.  
+
+***Link: https://t.co/wCPlx0JzIW *** #threatintel #malware #infosec",14,0,6,2020-05-06
+86,2020-05-07 02:52:55+00:00,1258228289040273415,PolySwarm,"A new version of #EventBot (0.4.0.2) was just found in PolySwarm! https://t.co/36CfjLnAzi.  #EventBot_0.4.0.2  #FirstSeen
+🚀🚀🚀 https://t.co/eNYI2jVOiy",13,1,12,2020-05-07
+88,2020-05-08 20:31:08+00:00,1258856983752437760,PolySwarm,"@kaspersky There is a new version of #Eventbot, discovered by PolySwarm. Check out the first v0.4.0.2 samples!
+url1: https://t.co/8xazR76m9X
+url 2: https://t.co/Ta6sDyT1js",1,0,0,2020-05-08
+93,2020-05-09 00:01:36+00:00,1258909949901418496,PolySwarm,@TheHackersNews PolySwarm has multiple samples and the latest version of #Eventbot  (0.4.0.2) Here's one: https://t.co/Ta6sDyT1js,2,0,0,2020-05-09
+94,2020-05-14 23:40:58+00:00,1261079086140514305,PolySwarm,We just added the latest samples of the #IcedID banking Trojan to the emerging threats feed. All samples were #firstseen in PolySwarm! Check them out at https://t.co/oKxx0QmPHt https://t.co/MIZHbRsnta,6,0,2,2020-05-14
+95,2020-05-18 19:48:02+00:00,1262470019277033474,PolySwarm,"“As the volume and complexity of cyber threats increase, contextualizing and prioritizing incidents becomes more critical. We developed PolyScore to enable SOC and CTI teams to make quick defensive decisions at scale, with unprecedented accuracy” https://t.co/2uH23qn14G",24,0,9,2020-05-18
+96,2020-05-20 21:07:14+00:00,1263214724105240577,PolySwarm,"Read the technical analysis of the new versions of #EventBot (0.4.0.2 - 0.4.2.6), discovered on May 5th and #firstseen in Polyswarm.  
+
+https://t.co/gZfll7rbV5",16,0,12,2020-05-20
+97,2020-05-25 19:28:01+00:00,1265001696519794688,PolySwarm,"The latest batch of #EventBot samples includes new 0.4.4.7 and 0.4.4.8 versions. About half of the 329 samples found in PolySwarm are unique or #firstseen! https://t.co/tBBTfBxRAX
+💪🏼🚀 https://t.co/9tqC072ilp",18,2,9,2020-05-25
+98,2020-06-08 23:40:16+00:00,1270138608150736896,PolySwarm,"Sample of the latest version of #Eventbot (v0.4.7.10), #firstseen in PolySwarm, on June 4th. Three engines are already detecting it!
+https://t.co/lyT0qDsyeu https://t.co/NDAfY5SWNT",14,0,4,2020-06-08
+99,2020-06-12 00:09:25+00:00,1271233106293350400,PolySwarm,"#RagnarLocker ransomware, known to target #MSPs by deploying as a VM to evade traditional defenses; is now available in our public emerging threat feed. Access fresh samples for free at https://t.co/tBBTfBxRAX! https://t.co/85Ql2NEEUJ",8,0,4,2020-06-12
+100,2020-06-13 21:43:22+00:00,1271921128781393920,PolySwarm,"Interesting new batch of #EventBot samples from yesterday, available now in our threat feed. All from the latest known version (v0.4.7.11) of this family, and so fresh it's still  widely undetected. 
+https://t.co/tBBTfBxRAX https://t.co/aYOzjclh7N",4,0,3,2020-06-13
+101,2020-06-17 23:31:41+00:00,1273397936894795776,PolySwarm,"Just uploaded 4 new #MassLogger samples into our emerging threat feed at https://t.co/tBBTfBxRAX, all first seen. This #Keylogger is constantly being updated with new- sophisticated features to avoid automated detection, making it a potential massive threat. https://t.co/DSHeNllbcq",12,0,8,2020-06-17
+102,2020-06-22 19:01:10+00:00,1275141797723824128,PolySwarm,"We located an active #phishing campaign targeting @Bankia account holders.
+    
+Localizada una campaña de suplantación de identidad focalizada en clientes del banco español @Bankia 
+https://t.co/rPlmziL8mL",10,0,5,2020-06-22
+104,2020-06-25 23:32:08+00:00,1276297152881242112,PolySwarm,"https://t.co/0sAC8cjEpP
+A great article by @Antelox, Nikolaos Pantazopoulos, and Michael Sandee on the ransomware #wastedlocker developed by The Evil Corp Group.
+Find below additional fresh #Wastedlocker samples.",10,1,6,2020-06-25
+106,2020-06-29 23:54:13+00:00,1277752262710837251,PolySwarm,"Our threat feed has been updated with the latest version of #EventBot samples (v0.4.8.15), all of them first seen in PolySwarm. This one in particular cannot be found in @virustotal or @koodous_project
+
+https://t.co/pn4EOcHc1C. https://t.co/TZLuCBd3If",16,0,5,2020-06-29
+107,2020-07-01 21:40:58+00:00,1278443504612577281,PolySwarm,"We  processed about 2,000 #EventBot samples over the last 3 months, and almost 60% of them were first seen in PolySwarm 🔥
+
+Processed  - 1,917
+First Seen - 1,099
+
+Signup today and get access to fresh &amp; unique malware samples!
+https://t.co/tBBTfBggJp",14,0,5,2020-07-01
+108,2020-07-09 21:31:36+00:00,1281340250153906177,PolySwarm,"Over the last quarter, we doubled the number of files that the marketplace is able to analyze in a single day, from 225k to over 450k, without comprising on the freshness &amp; uniqueness of our sample stream. This marks a big milestone for the project! 🚀📈💃🏽 https://t.co/Z7lscvPmjB",18,1,12,2020-07-09
+109,2020-07-14 19:22:40+00:00,1283119743629582342,PolySwarm,"#Ginp, the trojan that targets Spanish banks and social networks, is resurging.  We've added fresh, and mostly first seen samples to our threat feed. Check them out at https://t.co/oKxx0QmPHt
+
+https://t.co/BqPI5FvJCY https://t.co/FsMebifl0K",10,1,7,2020-07-14
+111,2020-07-27 18:26:11+00:00,1287816569658040321,PolySwarm,"Unidentified hacker replacing #Emotet payloads with animated GIF's, effectively preventing victims from getting infected. https://t.co/ufRNCi61Bv",17,0,7,2020-07-27
+112,2020-07-30 16:45:58+00:00,1288878515606233095,PolySwarm,"@__mayank16 @myhndl Looking into this for you.
+
+- Blake",1,0,0,2020-07-30
+114,2020-08-03 18:33:14+00:00,1290355059927080960,PolySwarm,"Fresh new batch of #Emotet samples, all of them first seen in PolySwarm.
+
+https://t.co/K00R5Ieh7C
+
+This sample was first seen 7/31 and half the asserting engines are reporting as malicious. https://t.co/YIIYsvlA8n",11,0,6,2020-08-03
+115,2020-08-04 22:46:31+00:00,1290781188857053185,PolySwarm,"@MikeEMars @Frenkiesdad We are grateful for the love and continued support! Be sure to check out our latest announcement if you haven't already.
+
+https://t.co/5TQVTp7s7Y",4,0,2,2020-08-04
+116,2020-08-06 19:40:26+00:00,1291459134659760129,PolySwarm,"Qakbot sample, first seen in PolySwarm. Find sample results in the first comment
+https://t.co/bQZQRBeaQ2",9,1,6,2020-08-06
+118,2020-08-11 18:09:54+00:00,1293248292155846656,PolySwarm,"Here is a sample from our fresh new batch, most of them first seen in PolySwarm.
+
+https://t.co/RTB3Hq0Njz 
+
+This sample was first seen 8/6 and at the time of this post only three engines have reported as malicious, but already has a high PolyScore (.74) https://t.co/slaACxhm10",5,0,3,2020-08-11
+120,2020-08-12 18:04:30+00:00,1293609317820555264,PolySwarm,"Brand new batch of #Emotet samples uploaded today, available now in our threat feed. All samples were first seen in PolySwarm, and most of them are unique. https://t.co/oKxx0QmPHt https://t.co/k1YIgKi9XB",18,1,7,2020-08-12
+124,2020-08-13 18:15:16+00:00,1293974415965696000,PolySwarm,"#Qakbot sample, with high PolyScore,  first seen in PolySwarm. Find sample results in the first comment
+https://t.co/vCnsZ03V9F",7,2,5,2020-08-13
+126,2020-08-19 16:54:01+00:00,1296128295667290112,PolySwarm,"Introducing new individual plans for security researchers. Select your plan and buy it online! 
+https://t.co/FJPd1DwYC6 https://t.co/FVirYLUaYb",17,0,7,2020-08-19
+127,2020-08-29 23:57:26+00:00,1299858730851295232,PolySwarm,"We have been actively monitoring the #Qakbot banking trojan in our sample stream and we have just extracted the latest botlist IPs.
+
+The Campaign/Botnet IDs evaluated
+spx157
+spx160
+spx161
+spx162
+We are currently reverse engineering the malware to extract the targeted applications https://t.co/qKzavFoVXY",15,1,7,2020-08-29
+129,2020-09-02 18:11:47+00:00,1301221295481171968,PolySwarm,Fresh #Qakbot sample not yet seen in #virustotal. It has a high PolyScore (0.88) despite only 3 engines detecting it at the moment. https://t.co/2Zz3zL9iSv https://t.co/DAVixEgjqY,8,0,5,2020-09-02
+130,2020-09-25 18:07:16+00:00,1309555081281298432,PolySwarm,"#EventBot is still active. We added 6 new samples in our public threat feed https://t.co/tBBTfBxRAX, most of which cannot be found in VirusTotal. https://t.co/Krvjpvzqdd",8,0,3,2020-09-25
+131,2020-09-29 22:16:06+00:00,1311067256151891968,PolySwarm,"Fresh #Qakbot samples uploaded in our threat feed. This particular sample is a potential false negative, with a high PolyScore of 0.90, but just few engines (3) detecting it. https://t.co/AV6HOj5j1r",8,1,4,2020-09-29
+132,2020-10-01 22:34:50+00:00,1311796742409449472,PolySwarm,"Another fresh #Qakbot sample from our threat feed. It is also a potential false negative, with a high PolyScore of 0.90, but with just a few engines (3) detecting it. https://t.co/1Gh1EMY5Xb",10,0,0,2020-10-01
+133,2020-10-02 08:56:27+00:00,1311953179618107392,PolySwarm,"Ranked #1 on @anyrun_app the #Emotet Trojan  is one of the most dangerous and widely spread. And we have a new first seen sample in our threat feed, check it out here: https://t.co/4CWmrpsi5u https://t.co/7bq5Z88qfO",6,0,3,2020-10-02
+134,2020-10-05 22:07:34+00:00,1313239435962540032,PolySwarm,"Today's fresh #Eventbot sample. Another potential false negative with a high PolyScore of 0.94, but only 4 out of 13 engines detecting it at this time. https://t.co/2dCR1D452n",10,1,4,2020-10-05
+135,2020-10-06 21:19:18+00:00,1313589675433443328,PolySwarm,"Yet another fresh #Eventbot sample! Again, we see a high PolyScore of 0.94, with only 4 out of 14 engines detecting it as malicious. You can see what else has popped up in our threat feed here: https://t.co/tBBTfBxRAX https://t.co/9F4tA0cSLN",5,0,3,2020-10-06
+136,2020-10-19 23:13:43+00:00,1318329512178769920,PolySwarm,"Sample Dropper URLs:
+
+hxxp://0931tangfc[.]com/images/etrac/vmaysyjxcgylixud
+
+hxxp://0931tangfc[.]com/images/eTrac/vmaYsYjxcGyLiXUd
+
+hxxp://1stcombs.suffolkscouts[.]org[.]uk/cgi-bin/browse",0,0,0,2020-10-19
+140,2020-10-29 18:38:03+00:00,1321884014941147137,PolySwarm,"""@cyberstanc is thrilled to collaborate with Polyswarm's initiative of creating a fully crowd sourced malware detection platform."" - Founder and CEO Rohit Bankoti
+
+https://t.co/3hV2aFjtth https://t.co/9paif5diUl",8,0,3,2020-10-29
+141,2020-10-30 19:19:37+00:00,1322256866269749248,PolySwarm,"One of our latest #EventBot samples first seen in the PolySwarm marketplace, (2020-10-30 12:27:20) before any other malware aggregator.
+You can check it our here: https://t.co/j5bDZvZL3p https://t.co/HPoXgoxvzZ",6,0,2,2020-10-30
+142,2020-11-12 23:06:48+00:00,1327025078576377856,PolySwarm,"Are you a digital forensic analyst? Learn how to easily identify compromised files and urls using the PolySwarm plugin in @Autopsy. Join us for a hands on demo and Q&amp;A December 2nd!
+
+https://t.co/4Fsx3eVJtW",16,0,7,2020-11-12
+143,2020-11-18 05:45:42+00:00,1328937403634102273,PolySwarm,Just uploaded 4 new #EventBot samples from the new versions of this malware family (0.4.9.37 and 0.4.9.38). Check out our public feed ! https://t.co/tBBTfBggJp https://t.co/MQG92p8ndz,9,0,3,2020-11-18
+144,2020-12-01 23:55:32+00:00,1333922711450439680,PolySwarm,Join our CEO Steve Bassi for our webinar tomorrow at 9:00 am PST demonstrating the PolySwarm Autopsy plugin! https://t.co/Gkuia1QrZb,11,0,3,2020-12-01
+145,2020-12-02 22:44:27+00:00,1334267211142156288,PolySwarm,"PolySwarm is now integrated with CTIX Lite by @CywareCo, providing backend enrichment and unique malware feeds. CTIX Lite is a complete and fully automated threat intel solution for small and mid-sized security teams.
+
+https://t.co/1Hfr9E77q7 https://t.co/EGPHf6tWZq",9,0,5,2020-12-02
+146,2020-12-03 22:42:50+00:00,1334629194223894528,PolySwarm,"One of our latest #EventBot samples (v0.4.9.45) first seen in the PolySwarm marketplace before any other engine aggregator. At the time of posting there is one of ten engines reporting as malicious.
+https://t.co/T3oaLgbhtF https://t.co/S3zGQluQ5l",10,1,2,2020-12-03
+147,2020-12-07 19:22:17+00:00,1336028273491394560,PolySwarm,"4 new #Qakbot samples uploaded to our threat feed, first seen in PolySwarm before any other threat aggregator. All of which have a high PolyScore (+.83), and can not be found on VirusTotal. https://t.co/oKxx0QmPHt https://t.co/r89NKaHR3L",12,1,3,2020-12-07
+148,2020-12-10 21:01:02+00:00,1337140289245306880,PolySwarm,"PolySwarm's threat intelligence team has been proactively running YARA rules released by @FireEye against our marketplace, and were able to locate  630 samples that matched on at least 1 YARA rule. Contact us for a CSV of major hash values for each sample.
+https://t.co/plSaPTBh3K",12,0,4,2020-12-10
+149,2020-12-11 15:37:45+00:00,1337421321060319238,PolySwarm,@Fireeye HackTools samples have been added to the PolySwarm Emerging Threat Feed. Some of which were first seen in our marketplace before any other threat aggregator. https://t.co/JOvvzitUyM,3,0,0,2020-12-11
+151,2020-12-15 18:21:11+00:00,1338911999812542464,PolySwarm,"""We are excited to include @slashnextinc participation in our ecosystem of threat detection engines, to further expand our clients coverage against zero-hour, evasive phishing threats..."" - Steve Bassi, CEO of PolySwarm. https://t.co/uC2L1jJRky https://t.co/kt2Kf2wbKH",12,0,4,2020-12-15
+152,2021-01-11 22:46:49+00:00,1348763320375906304,PolySwarm,"Babuk, a new ransomware family to come through our marketplace for the new year.
+
+You can download the sample and search for others at: https://t.co/nCIhulv3rM https://t.co/u1kD8brkzZ",18,2,9,2021-01-11
+153,2021-01-12 17:02:58+00:00,1349039176038010880,PolySwarm,"@CryptKarma Absolutely! We have been regularly adding new engines to the marketplace, and we have some big announcements lined up in the pipeline.",2,0,0,2021-01-12
+155,2021-01-14 19:46:38+00:00,1349805143223541760,PolySwarm,"Conti, a relatively new ransomware that first emerged in May 2020, potentially has over 150 successful attacks, which equates to millions of dollars in extorted funds.
+
+Check out this Conti sample and others like it at:
+https://t.co/k4AGJTyEju https://t.co/ig6eNROUV2",11,0,3,2021-01-14
+156,2021-01-27 00:07:19+00:00,1354219398207180800,PolySwarm,"""Over the past several months, the Threat Analysis Group has identified an ongoing campaign targeting security researchers working on vulnerability research and development at different companies and organizations.""
+
+https://t.co/FgTNg8vOLT",11,1,2,2021-01-27
+157,2021-01-31 08:21:35+00:00,1355793336313937920,PolySwarm,"One of the latest #TrikBot samples to come through our marketplace.
+
+You can check it out here: https://t.co/wDYCXKcuCC https://t.co/OnIT8a7boz",12,0,3,2021-01-31
+158,2021-02-03 22:44:50+00:00,1357097744834256897,PolySwarm,"One of the latest #TrickBot samples to come through our marketplace, first seen by PolySwarm before any other multiscanner (note the high PolyScore).
+
+https://t.co/RVPc10zFo7 https://t.co/1xajOZE6Qu",12,0,5,2021-02-03
+159,2021-02-05 00:50:09+00:00,1357491666823778304,PolySwarm,"Nicknamed #Hildegard, this new malware campaign can be used for stealth crypto-mining attacks (Cryptojacking) through targeting Kubernetes clusters. 
+This new threat can now be found in our emerging threats feed. https://t.co/EadRu2tYfB",16,0,7,2021-02-05
+161,2021-02-08 19:34:54+00:00,1358861885035057157,PolySwarm,"“We are proud to be partnering with Polyswarm, and being part of their launchpad for new technologies and innovative threat detection methods” stated Julian Ziegler, Co CEO of Inlyse.
+
+https://t.co/WLNjJDzjOd https://t.co/fGInes2mTO",22,0,7,2021-02-08
+162,2021-02-16 19:55:33+00:00,1361766183297376260,PolySwarm,Congrats to our partner @CywareCo on a productive year! https://t.co/KTq3aek1vI,18,0,1,2021-02-16
+163,2021-02-26 20:56:21+00:00,1365405363093213188,PolySwarm,"See PolyScore in action with this recent #Ryuk ransomware sample, where only three engines out of 14 are recognizing it as malicious. First seen by PolySwarm before any other multiscanner, and a PolyScore of 0.97!
+https://t.co/JSs1mOweJF https://t.co/NdmRaXV813",23,1,11,2021-02-26
+164,2021-03-01 23:14:17+00:00,1366527241971097602,PolySwarm,"@CryptoTradingDJ @Uniswap Happy to help, enjoy the rest of your day!",2,0,0,2021-03-01
+170,2021-03-03 20:21:58+00:00,1367208652587765761,PolySwarm,"#Spectre, a vulnerability that tricks a program into leaking information has now been added to our emerging threat feed. Many of the samples are first seen on PolySwarm before other multiscanners! View or download a sample today at: https://t.co/tBBTfBxRAX https://t.co/DioYCF6aXQ",25,0,11,2021-03-03
+171,2021-03-04 22:54:13+00:00,1367609354057175041,PolySwarm,"This week we saw significant growth in activity from #TeslaCrypt, #Sodinokibi and #Gandcrab. while #Conti appears to be winding down considerably. https://t.co/h0XEFFgkcY",20,3,8,2021-03-04
+172,2021-03-05 19:10:29+00:00,1367915435857907714,PolySwarm,"In the coming months leading up to our mainnet release we will announce 3 new participating engines, two of which are operated by multi billion dollar companies. Stay tuned! #PolySwarm $NCT https://t.co/m6MGL3ezCZ",65,9,31,2021-03-05
+173,2021-03-06 07:20:09+00:00,1368099062738657280,PolySwarm,@MusicianVishal you may find this interesting https://t.co/nVB6NzH3OV,2,0,0,2021-03-06
+179,2021-03-10 21:56:26+00:00,1369769139481407494,PolySwarm,"The PolySwarm network is currently averaging over 5 million transactions per day in #testnet!
+We look forward to start using $NCT in our upcoming #mainnet release, within the upcoming months. https://t.co/uVKpO7FAez",48,8,20,2021-03-10
+181,2021-03-13 00:41:52+00:00,1370535548822056961,PolySwarm,Check out this report by @RecordedFuture where they talk about the nearly 100 clients of Accellion FTA that were affected by zero day vulnerabilities. Glad we could help with the report! https://t.co/Oq1fDIsMaN,26,0,11,2021-03-13
+182,2021-03-17 20:54:53+00:00,1372290363583426561,PolySwarm,It's great to see our awesome partner @CywareCo getting the support they deserve. https://t.co/rTejWHAPUi,19,0,7,2021-03-17
+183,2021-03-24 20:03:18+00:00,1374814097552723970,PolySwarm,"Take a look at this step by step guide for those new to crypto and looking to buy PolySwarm Nectar ($NCT)
+https://t.co/7DZU23kDcw",28,2,16,2021-03-24
+184,2021-03-27 02:22:50+00:00,1375634385857245188,PolySwarm,"We break down our progress over the last year, and what's coming up in this latest blog post. Check it out!
+
+https://t.co/rDG8o3pj1i",46,5,18,2021-03-27
+185,2021-03-30 22:16:02+00:00,1377021830175748096,PolySwarm,"Join our CEO for an AMA where he will discuss key milestones to #mainnet and the new additional use case for $NCT!
+
+https://t.co/Hua0JeOhFX https://t.co/JstNx6R0V7",44,3,14,2021-03-30
+186,2021-04-01 20:38:02+00:00,1377721942128558082,PolySwarm,"“Kaspersky is excited to join PolySwarm’s community-driven approach against malware. The role of Arbiter will allow us to contribute even more to the industry...”  Evgeny Vovk, Head of External Benchmarking and Technology Positioning
+ 
+🚀🔥 https://t.co/tSV72bXw6N 🚀🔥",97,7,38,2021-04-01
+188,2021-04-05 16:03:06+00:00,1379102303647506440,PolySwarm,"@Beanbag86763540 @AAlgorand Come hang out with us in our telegram if you haven't already. We would love for you guys to join us!
+
+https://t.co/cY1ZeSOIfj",4,0,1,2021-04-05
+189,2021-04-08 19:19:11+00:00,1380238815088926722,PolySwarm,"“SentinelOne's commitment to innovation motivated us to participate in PolySwarm’s marketplace, as it allows us to further contribute to the community-driven efforts to fight malware…” - @MigoKed, Senior Director, Products &amp; Marketing @SentinelOne.
+
+https://t.co/SK5bZVumTt",67,9,35,2021-04-08
+190,2021-04-10 22:26:13+00:00,1381010659438039044,PolySwarm,"Last week we announced our new Arbiter @Kaspersky, and @SentinelOne as the latest engine to join our marketplace. Join our AMA w/ CEO Steve Bassi on Apr 15th at 9 am PST as he covers key milestones to #mainnet and a new additional use case for $NCT!
+
+https://t.co/wr6XNbBtPl https://t.co/1g1s3S2lgL",43,4,15,2021-04-10
+191,2021-04-14 21:07:48+00:00,1382440475785760769,PolySwarm,"Introducing an additional use case for our token $NCT and expanding on PolySwarm's transition to #mainnet 
+
+Ask Steve anything tomorrow Thursday at 9am PST!
+
+https://t.co/wr6XNbBtPl https://t.co/jtM3grPMP3",34,3,8,2021-04-14
+192,2021-04-15 15:27:12+00:00,1382717148343070722,PolySwarm,"We are live in half an hour!
+
+https://t.co/nXu0sVDPHg",17,2,5,2021-04-15
+193,2021-04-20 18:11:01+00:00,1384570312776323074,PolySwarm,The login/logout functionality on https://t.co/oKxx0QmPHt is down due to an outage with our User Authentication provider @auth0. We appreciate your patience while they are sorting this problem out. https://t.co/C61PWHWNhL,10,1,2,2021-04-20
+195,2021-04-21 15:52:16+00:00,1384897785355440129,PolySwarm,@m1ssusn0rth We investigated the issue and a fix has been deployed. It should now be working normally. Thank you for reporting this.,1,0,0,2021-04-21
+201,2021-04-22 19:35:13+00:00,1385316280811413510,PolySwarm,"#MedusaLocker is making a comeback, and reports claim that it is behind the network attack on Nine Entertainment (@Channel9). Here is a first seen* sample from this family.
+
+https://t.co/iID9L5ecmS https://t.co/EGFwOxEUFp",24,0,3,2021-04-22
+202,2021-04-23 18:08:14+00:00,1385656778172502017,PolySwarm,"#MountLocker claims that it has access to terabytes of data from victims, threatening to post them on the ransomware’s leak site if they are not paid. Check out this first seen* sample that passed through our marketplace.
+https://t.co/DFLCDLgjVN https://t.co/N7OVFRaRTv",19,1,7,2021-04-23
+204,2021-04-26 19:53:20+00:00,1386770390253391874,PolySwarm,"We are proud to announce Christopher Elisan (@Tophs) as PolySwarm's new VP of Threat Intelligence. He's got an impressive track record in malware research and leading threat intel teams in companies like Flashpoint, F-Secure, Trend Micro, and RSA Security. Welcome to the team!",40,3,14,2021-04-26
+205,2021-04-28 22:23:52+00:00,1387533048825008131,PolySwarm,"#Lockbit #ransomware samples seen in-the-wild rose sharply this week. Reports show activity is due to unpatched software vulnerabilities. Here we have a first seen* sample from this particular family.
+
+https://t.co/GsMgi0S3Qc https://t.co/qpG5dLWQ3N",25,0,8,2021-04-28
+206,2021-04-29 18:43:46+00:00,1387840046409994242,PolySwarm,"Clop's recent success in breaching targets is due to a #zeroday vulnerability being exploited by the #ransomware gang. This enabled #Clop to be more active in compromising different targets. Check out this first seen* sample from the same family.
+
+https://t.co/egvHOFwAIp https://t.co/i7bgTZ5HMO",22,1,12,2021-04-29
+207,2021-04-30 19:01:04+00:00,1388206788722364417,PolySwarm,"#Lockbit's encryption speed and worm-like capabilities to spread laterally within a target network is a big threat even for organizations with a strong security posture. #Ransomware attacks of this nature are expected to become more common over 2021.
+
+https://t.co/CeUAcEhqBv https://t.co/QDZWzeY4jA",21,0,11,2021-04-30
+208,2021-05-03 21:04:44+00:00,1389325073853546498,PolySwarm,"@DanielK42468357 @BitMartExchange You can learn more about us and how our platform works here: https://t.co/YwZUQCc9cX
+
+And be sure to join our telegram channel, lots of great people in there!
+https://t.co/cY1ZeSOIfj",3,0,1,2021-05-03
+211,2021-05-05 20:57:18+00:00,1390047976282746884,PolySwarm,"The #Darkside #ransomware threat actor group, after some recent activity, posted a sample of stolen corporate data, which includes financial reports and acquisition documents in its leak site.
+
+https://t.co/mljfIkJX1P https://t.co/g6kY2bjrZN",33,1,11,2021-05-05
+212,2021-05-10 20:10:19+00:00,1391848093860122624,PolySwarm,"The #DarkSide #ransomware family, an emerging threat as seen in our portal, is reported to be responsible for the crippling attack on the East Coast's fuel supply. A sample connecting to the same C2 has been identified and is viewable at https://t.co/Ow6TrkWV9X https://t.co/QmrShiHk0S",16,0,7,2021-05-10
+214,2021-05-11 20:04:10+00:00,1392208932626735113,PolySwarm,"Check out our Telegram #AMA recap hosted by @BitMartExchange. We cover everything from our new partners to our new use case and upcoming #mainnet release. Take a dive into the future of threat detection!
+https://t.co/9xtKJhcBKS",22,1,7,2021-05-11
+215,2021-05-12 17:08:19+00:00,1392527068785676294,PolySwarm,A new set of first seen* #DarkSide samples available at https://t.co/LLOApkclMm. https://t.co/DBtEqpukXT,26,0,7,2021-05-12
+216,2021-05-13 22:57:38+00:00,1392977365739900928,PolySwarm,"We are seeing a lot of #DarkSide samples in our collection, some of them first seen* on our platform. #PolyScore is rocking it! https://t.co/SfApYwAn3W",26,1,6,2021-05-13
+218,2021-05-14 02:17:22+00:00,1393027627187851267,PolySwarm,"Each sample is given an individual threat score,  PolyScore™, allowing organizations to automate the distribution, prioritization, and handling of threats.",8,0,2,2021-05-14
+222,2021-05-17 22:08:11+00:00,1394414470286516228,PolySwarm,"We just published a whitepaper about a new additional use case for PolySwarm’s #Nectar ($NCT)!  We want to give users more control over their data, and reward them for contributing with security-relevant insight gathered through a browser extension. 🧵",55,6,23,2021-05-17
+225,2021-05-19 18:11:11+00:00,1395079604692561924,PolySwarm,"#Avaddon (+216%), #Netwalker (+140%), #Darkside (+78%), and #Mountlocker (+31%) are the #ransomware families where we observed the most significant increases in activity when comparing the last week vs. the 4-week average. https://t.co/VWeq9jQMAS",28,0,13,2021-05-19
+226,2021-05-20 21:40:35+00:00,1395494687931252739,PolySwarm,"We have seen an increase this week for #Avaddon after recent warnings from the @FBI and @CyberGovAU. The #ransomware recently hit an insurance giant, and employs similar TTPs across different regions, which includes the threat of #DDoS.
+
+https://t.co/yjnq22Ufrb https://t.co/KlS74fpmBb",24,0,12,2021-05-20
+228,2021-05-25 16:59:16+00:00,1397235832944222212,PolySwarm,"Dive into the latest podcast interview with PolySwarm's CEO, Steve Bassi! Be sure to tune into minute 42 to hear about the new use case for PolySwarm #Nectar ( $NCT )
+
+#CyberSecurity #ThreatHunting https://t.co/D56tJj7zZn",21,0,6,2021-05-25
+229,2021-05-26 18:09:23+00:00,1397615864023764997,PolySwarm,"We just uploaded fresh #ransomware samples from #avaddon, #clop, and #VHS families into the emerging threats section of our portal, and most of them were first seen before other multiscanners!
+
+Check them out and download them for free at https://t.co/tBBTfBggJp https://t.co/8PGPzY6pRp",21,3,6,2021-05-26
+231,2021-05-27 18:29:59+00:00,1397983437299068931,PolySwarm,"This is the third straight week in the top three of our most active #ransomware families. #Avaddon's campaign continues in the US and APAC region w/ reports that Avaddon is becoming more aggressive due to their recent success.
+
+https://t.co/w4M3ea1sBX https://t.co/FlTZkcWzmu",16,0,5,2021-05-27
+233,2021-05-30 22:55:41+00:00,1399137467647803396,PolySwarm,Enterprises before and after consuming PolySwarm’s #ransomware feeds. https://t.co/Ci8STt8lfG,24,0,7,2021-05-30
+234,2021-06-02 18:12:50+00:00,1400153450764288003,PolySwarm,"Our VP of Threat Intel @Tophs will talk about how to connect the dots and paint a full picture of a #ransomware attack, so security professionals can better identify, detect and respond to these types of threats. 
+
+Register:
+https://t.co/H1PorBEJHU https://t.co/IJtjX5WRXG",22,0,6,2021-06-02
+239,2021-06-03 17:13:00+00:00,1400500780944314370,PolySwarm,"New fresh #ransomware samples from #Conti, #Avaddon, #Clop, and #VHD families were just uploaded into the emerging threats section of our portal, with many being first seen before other multiscanners!
+
+Create your free account and start downloading today!
+https://t.co/tBBTfBggJp https://t.co/NbMLFKsmH6",22,0,4,2021-06-03
+240,2021-06-07 15:29:04+00:00,1401924176223653893,PolySwarm,"@m1ssusn0rth Sorry, but could you provide a bit more context on what issue you are having? Feel free to DM me if you need assistance.",0,1,0,2021-06-07
+241,2021-06-08 19:00:26+00:00,1402339756126752772,PolySwarm,"Today is your last chance to get a virtual seat! Tomorrow PolySwarm’s VP of Threat Intel @Tophs will talk about #ransomware attacks and how to better identify, detect, and respond to them. Register with the link in the comments! 👇 https://t.co/vK8XkjnAFd",22,1,8,2021-06-08
+243,2021-06-09 19:31:47+00:00,1402710032979054598,PolySwarm,"This week we observed significant increases in #Medusalocker (+50%) and #Conti (+54%). The recent successful attack on JBS appears to be driving the increase of samples seen in our marketplace for #REvil/Sodinokibi (+156%).
+
+First seen* Conti sample
+https://t.co/3UASOAZnko https://t.co/EIWgfeBIPB",20,0,3,2021-06-09
+244,2021-06-10 20:19:50+00:00,1403084514293911560,PolySwarm,"#Trickbot links
+
+https://t.co/25FhdepBkZ
+
+https://t.co/tyWlpai0A9
+
+https://t.co/j3xTomkL1z",2,0,1,2021-06-10
+249,2021-06-11 17:51:44+00:00,1403409628671758338,PolySwarm,"Here is the on-demand video ""Mid-Atlantic Threat Day"" with @Anomali, @PolySwarm, and @VerizonBusiness. Find recommendations for your teams and actionable information to apply to your own environments.
+
+https://t.co/JxULZBIwgU https://t.co/tRUxiXAD5r",11,0,2,2021-06-11
+250,2021-06-14 14:15:11+00:00,1404442295173369862,PolySwarm,"@browncoat1of1 Check out our new use case, this article will cover how average everyday users will be able to stake in the future. It also includes a link to the whitepaper.
+
+https://t.co/bAGsg7RyFs",0,0,0,2021-06-14
+251,2021-06-17 20:25:23+00:00,1405622626228346880,PolySwarm,"#LockBit (272%), #Troldesh (67%), and #Ryuk (33%) #ransomware families activity has seen a significant increase over the last week in our marketplace. Where #Phobos (-87%) and #Revil (-68%) have noticeably decreased.
+
+Start researching for free today!
+https://t.co/tBBTfBggJp
+🧵 https://t.co/LgtKFkHSbQ",14,1,5,2021-06-17
+255,2021-06-23 21:05:01+00:00,1407806926755405832,PolySwarm,"#Gracewire (+238%) is an infostealer #Trojan used by the ransomware gang known as Evil Corp, which also appear to be behind #Maze (+117%) 🧵 https://t.co/x8nYT4ZiEp",16,1,3,2021-06-23
+257,2021-06-25 22:04:32+00:00,1408546677124997122,PolySwarm,"Fresh first seen* #Gracewire samples
+
+https://t.co/SVcDikLmy1
+
+https://t.co/Nrz3gdGPiN
+
+https://t.co/jpPWUqfJGG https://t.co/WU2F6EPTQM",13,0,2,2021-06-25
+258,2021-06-28 17:19:00+00:00,1409561985734303751,PolySwarm,"The latest batch of fresh #ransomware samples has been uploaded to the emerging threats section of our portal. All were first seen* in PolySwarm before other multiscanners!
+
+Create your free account and start researching today!
+https://t.co/tBBTfBggJp https://t.co/ainjk3ZOp5",10,0,5,2021-06-28
+259,2021-07-01 20:22:19+00:00,1410695282065608712,PolySwarm,"#RansomExx (+300%) -targets ESXi virtual machines-, #WastedLocker (+247%) -being rebranded as PayloadBin-, and #Phobos (+117%) -new feature deployed-
+These #ransomware families are making big moves this week. https://t.co/Pw1qx890CI",9,1,4,2021-07-01
+260,2021-07-07 20:44:23+00:00,1412875162618322953,PolySwarm,"#Gracewire links
+
+https://t.co/QYe8iCc5vh
+
+https://t.co/kJIDK1x9G6
+
+https://t.co/Hx4JnHIKtI",5,0,1,2021-07-07
+263,2021-07-09 21:16:03+00:00,1413607907950747649,PolySwarm,"#Crysis, a repeat offender with notable development in detection evasion and encryption speed, has been added to our emerging threats.
+
+Take a look at what engines are saying about these fresh samples, first seen* before #VirusTotal
+https://t.co/tBBTfBggJp https://t.co/aObMmG3ygl",9,0,2,2021-07-09
+264,2021-07-14 21:15:30+00:00,1415419708678021126,PolySwarm,"#BazaLoader, a first stage #malware, recently launched a new campaign that lures victims into downloading a malicious Excel file. This appears to be behind the 300% week-over-week increase in volume. First seen sample in comments. https://t.co/FdBLHWgRGa",12,1,8,2021-07-14
+266,2021-07-15 18:19:22+00:00,1415737770308476935,PolySwarm,"@Anomali, @RiskIQ, and PolySwarm are hosting a new #ThreatIntel Workshop on August 9th where we’ll discuss and analyze the current wave of #ransomware attacks and how to effectively respond to them. Don't forget to register here: https://t.co/RIIspoA0rC https://t.co/a3c4QOp0W0",7,0,4,2021-07-15
+267,2021-07-20 17:57:35+00:00,1417544230713561093,PolySwarm,"Fresh and first seen (vs. #VirusTotal) samples of #TrickBot and #dridex were just added to the emerging threats feed. Check them out!
+https://t.co/tBBTfBggJp https://t.co/mNWL3glhXo",12,2,3,2021-07-20
+268,2021-07-21 18:17:43+00:00,1417911683121614849,PolySwarm,"Despite the arrests of multiple suspects believed to be part of the #Clop #ransomware gang, there has still been a significant activity increase (+125% week over week). #Phobos (+118%) makes its second straight appearance in our weekly report.
+
+first seen: https://t.co/ScVkCpN3aK https://t.co/4ts5I3KSyR",10,0,2,2021-07-21
+270,2021-07-27 14:32:28+00:00,1420029323206172679,PolySwarm,We experienced a database problem last night and had to disable our API access while repairing the database. This morning we re-enabled the APIs. At this moment everything is working except scanning is in degraded state. Scans are queued until final database repairs are completed,9,1,1,2021-07-27
+274,2021-07-28 17:52:05+00:00,1420441947047665666,PolySwarm,"We completed our database migration last night. With the update, everything is back to operating normally.
+
+https://t.co/Tz8HyM3vwc",12,0,5,2021-07-28
+275,2021-07-29 21:04:41+00:00,1420852802994196487,PolySwarm,"#Ryuk (+154%) is the fastest growing #ransomware threat based on last week's data, and it's targeting webservers with a new variant pressuring victims to pay by impairing public websites.
+
+First Seen Ryuk sample: https://t.co/VEmd1yCZsJ https://t.co/2ZaI6LnpDu",11,1,9,2021-07-29
+277,2021-08-02 21:23:26+00:00,1422307074126618634,PolySwarm,We are on track for full mainnet release within Q4 ! 4/4 https://t.co/sCc5Cpauog,26,0,3,2021-08-02
+281,2021-08-05 18:47:39+00:00,1423355034721472512,PolySwarm,"Are you in Las Vegas and attending #defcon29? Our VP of threat Intel @Tophs will be presenting ""Ransomware Tales From The DarkSide"" this Friday at 4pm in the #BlockchainVillage, where he will breakdown the techniques used to ensure its success. https://t.co/tFMN25EQql",18,0,8,2021-08-05
+282,2021-08-07 19:56:53+00:00,1424097234870751243,PolySwarm,"Our VP of threat Intel @Tophs giving his presentation at #defcon29 on ""Ransomware Tales From The DarkSide"" at @BCOSvillage https://t.co/6LkeWoQL9a",14,0,3,2021-08-07
+283,2021-08-10 16:49:29+00:00,1425137234089496578,PolySwarm,"We are happy to announce that @Bitgo successfully added our token $NCT into their system! This was a necessary step prior to the development of the hot wallet management system, which will allow engines to load on NCT, convert it to fiat, and vice versa.
+
+https://t.co/e3LVeeCWzh https://t.co/wIzRT8afaY",17,5,10,2021-08-10
+284,2021-08-17 13:38:25+00:00,1427625867958751233,PolySwarm,"Today is your last chance to register for the Southeast Threat Day featuring speakers from @Anomali, @PolySwarm, and @CyberSixgill. The session will focus on predicting threats, hunting adversaries, and responding to ransomware attacks.
+
+Aug 18 at 11am ET
+
+https://t.co/jYjxOR2R9z https://t.co/oF2wGdtL37",8,0,4,2021-08-17
+286,2021-08-18 14:42:55+00:00,1428004488292536324,PolySwarm,"@meow2008 nothing to do with us or Narf industries, but it’s a beautiful home nevertheless 🙂",0,3,0,2021-08-18
+287,2021-08-19 13:33:44+00:00,1428349465023422473,PolySwarm,@meow2008 Narf Industries LLC has nothing to do with Narf Nas LLC,0,1,0,2021-08-19
+288,2021-08-20 20:46:23+00:00,1428820734290415628,PolySwarm,"#Ursnif (56%), a notorious banking #Trojan has a new variant utilizing CAPTCHA to trick victims into giving access to install into the target system. It was recently reported that Ursnif has hit 100 banks in Italy. 
+
+‘First Seen’ before VirusTotal: https://t.co/7mGRR1bKk1
+
+🧵1/4 https://t.co/X6JY0wG4MX",11,3,5,2021-08-20
+292,2021-08-24 14:26:37+00:00,1430174714421563405,PolySwarm,"#PolySwarm has started offering our feeds and other threat intelligence services to cryptocurrency exchanges. As threats continue to multiply, we believe they will be a part of the industries most affected.
+
+Tag your favorite exchange and spread the word! https://t.co/6BR3p6sOFx",53,26,23,2021-08-24
+293,2021-08-26 14:38:01+00:00,1430902355902439424,PolySwarm,@dio9sys https://t.co/6wWL66LSHq,1,0,0,2021-08-26
+295,2021-08-27 17:51:56+00:00,1431313545241800720,PolySwarm,"@_Kubuz @elonmusk We are making steady progress
+
+https://t.co/d5QRccStln",2,0,1,2021-08-27
+297,2021-09-03 20:17:01+00:00,1433886771532730399,PolySwarm,"“…the more traditional #cybersecurity protections are no longer effective in defending against these types of attacks”
+
+https://t.co/2brqvPBXs0",19,0,9,2021-09-03
+298,2021-09-06 16:53:36+00:00,1434922745012396032,PolySwarm,"@MumboJu92228356 we are scaling our network through a custom sidechain, and though it uses our token, might not be visible to blocktivity",3,1,0,2021-09-06
+299,2021-09-16 18:57:59+00:00,1438577924433645572,PolySwarm,"#ThrowbackThursday looking back at the time CEO Steve Bassi interviewed with @Crypto_Bobby. “we are descentralizing antivirus…”
+https://t.co/nVB6NzpsXn",20,1,7,2021-09-16
+300,2021-09-18 14:08:04+00:00,1439229741538676746,PolySwarm,"#Phobos (+58%) is back and trending up, powered by new variants. #Revil (+54%) resurfaced with all its TOR ransom pages accessible again, with a new victim posted on its blog site. And #Raccoon (+29%) is trending up this week as it ramps up its campaign of digital currency theft. https://t.co/IlJgGXhxee",21,0,9,2021-09-18
+301,2021-09-22 18:07:56+00:00,1440739657206022150,PolySwarm,"With the upcoming #Mainnet2021 release, the #threatbounty will become a reality, and our token $NCT will be used to compensate engines that detect threats in real-time.
+
+https://t.co/9kxFxoc5TI",35,1,15,2021-09-22
+302,2021-09-24 18:14:59+00:00,1441466205462843394,PolySwarm,We couldn't agree more! https://t.co/gKNW0r7KxD,24,1,4,2021-09-24
+303,2021-10-05 16:05:04+00:00,1445419779263635460,PolySwarm,"What security solutions are your favorite exchanges implementing to keep you safe?
+
+https://t.co/aPSR3Akr59",30,1,9,2021-10-05
+304,2021-10-06 18:29:49+00:00,1445818594537852929,PolySwarm,Happy Cyber Security Awareness Month! A quick shout-out to all of our partners who play an integral role in ensuring people are safer and more secure online. #NCSAM,36,7,7,2021-10-06
+305,2021-10-07 15:28:49+00:00,1446135430274068482,PolySwarm,@Redminster it should be at most a couple of seconds. Please see your DM's for the invite to our Discord where you can get some support.,0,0,0,2021-10-07
+306,2021-10-11 18:38:49+00:00,1447632796374093826,PolySwarm,"We scaled our transaction load as part of testing and preparation for Mainnet, and are currently processing 10M transactions a day. Almost double the amount before our most recent migration. Expect some change as these numbers level out over the next few days. https://t.co/IJ7mm4yLnh",39,3,10,2021-10-11
+307,2021-10-12 19:25:03+00:00,1448006821348773889,PolySwarm,"Still climbing!
+
+https://t.co/zJXOBlAQtP https://t.co/0lmNRdaOrU",33,3,14,2021-10-12
+308,2021-10-13 20:17:22+00:00,1448382375164055552,PolySwarm,We are on a roll! 24 million transactions for 10/12 https://t.co/TceF19NkLR,56,8,16,2021-10-13
+309,2021-10-20 19:00:46+00:00,1450899810958159882,PolySwarm,"#Phobos powered by its latest variant has seen a dramatic increase in activity. Despite the recent arrest of an alleged member in South Korea, reports of #Trikbot continue to climb. And #NetWalker is also on a steep incline as they continue to target educational institutions. https://t.co/m0Qqk8KTWj",24,1,8,2021-10-20
+310,2021-10-21 15:54:27+00:00,1451215314633568266,PolySwarm,"First Seen samples of #FiveSys have been added to our emerging threats. Uncovered by researchers at @Bitdefender, the FiveSys rootkit is the second rootkit they’ve run into that has managed to make its way through Microsoft’s driver certification process. https://t.co/LYDx3Dorxq",34,1,10,2021-10-21
+311,2021-10-27 18:26:47+00:00,1453427974171136001,PolySwarm,All new fresh First Seen #Trickbot samples have been added to our emerging threats. https://t.co/ibFQymqgbx,32,0,6,2021-10-27
+312,2021-10-28 18:48:23+00:00,1453795800916664330,PolySwarm,"This week for #ThrowbackThursday we look back on our partnership with @Anomali that allows users the opportunity to evaluate, purchase and or trial PolySwarm free via the Anomali APP Store.
+
+https://t.co/Fzjcay2ViF",26,2,9,2021-10-28
+313,2021-10-29 20:31:45+00:00,1454184199406198788,PolySwarm,"We have one of the coolest telegram communities around. Be sure to join us as we gear up for the countdown to our Mainnet release. https://t.co/lAettfSqgy
+
+And check out our Marketplace Stats page for a sneak peek at what's to come. https://t.co/10DLXefAyc",33,2,10,2021-10-29
+314,2021-11-03 15:23:56+00:00,1455918675572183041,PolySwarm,"#WastedLocker, which uses a JavaScript-based framework to trick victims into believing they are downloading updates. And #Dridex, with active spam campaigns utilizing crafted Excel documents, both have new fresh First Seen samples on our emerging threats. https://t.co/P72URWHxAE",22,0,8,2021-11-03
+315,2021-11-09 20:26:51+00:00,1458169235042095115,PolySwarm,"On average over the last 7 days, we have been ingesting close to 900 thousand malicious samples a day. https://t.co/pqJgSPSyt6",46,1,14,2021-11-09
+316,2021-11-16 14:38:53+00:00,1460618380357115906,PolySwarm,"A fresh batch of #Emotet samples have been added to our emerging threats page, many of which are First Seen.
+
+https://t.co/fDBUEYYbLX https://t.co/N9MiTvpxBQ",16,1,7,2021-11-16
+317,2021-11-22 13:42:57+00:00,1462778630153678855,PolySwarm,@Frenkiesdad @gate_io Thanks for supporting us Eric!,1,1,0,2021-11-22
+321,2021-11-23 19:52:38+00:00,1463234053927227393,PolySwarm,"On average, over the last 7 days, we have been ingesting close to 900 thousand malicious samples, averaging 11M transactions, and over 21M $NCT (test tokens) has flowed through our marketplace to the tune of 200k+ USD a day. https://t.co/Ds64VJLH8O",36,3,16,2021-11-23
+322,2021-11-24 13:57:01+00:00,1463506946078691331,PolySwarm,"@knxxxy Check out our youtube channel, we have videos that explain how the marketplace works. Our telegram channel is also another excellent resource https://t.co/cY1ZeT6jDT
+
+How it works: https://t.co/YwZUQCtKBx",3,0,0,2021-11-24
+323,2021-11-25 14:27:35+00:00,1463877027157753856,PolySwarm,"We have a lot to be thankful for this year. Our team, our community, our partners, and the journey we have all shared so far. We wish you all a happy holiday and say thanks to everyone supporting our project as we draw closer to flipping the switch on Mainnet this quarter. https://t.co/6wCVmyZFdS",44,6,14,2021-11-25
+324,2021-11-30 20:37:49+00:00,1465782137777541131,PolySwarm,"PolySwarm investigates the return of the #Emotet banking Trojan.
+
+https://t.co/bimKnbiw4l",33,2,11,2021-11-30
+325,2021-12-02 19:51:16+00:00,1466495198981201920,PolySwarm,"Today's #ThrowbackThursday goes back to before our ICO when we were featured on @CoinDesk. We've come a long way, and will soon be announcing our countdown to Mainnet!
+
+Who here remembers this article? And who here wants to see us featured there again?
+
+https://t.co/TIctzFbvht",37,7,13,2021-12-02
+326,2021-12-06 15:44:35+00:00,1467882672114573312,PolySwarm,"The wait is over, and our countdown to Mainnet has begun! See the https://t.co/PeamzNxEFz homepage for more details, and stay tuned as we count down the days to Mainnet. https://t.co/ABxWS4onGv",97,21,47,2021-12-06
+327,2021-12-09 18:48:26+00:00,1469016102151806984,PolySwarm,"Today's #ThrowbackThursday is canceled. With only 6 days left on our Mainnet countdown, we are instead going to look to the future! https://t.co/voITsKyUmn https://t.co/Kim26mPW7M",42,6,19,2021-12-09
+328,2021-12-10 17:23:10+00:00,1469357031974965254,PolySwarm,"Five days left until Mainnet!
+https://t.co/b4YN1dfUZd https://t.co/e26gkQBL1e",67,8,23,2021-12-10
+329,2021-12-14 22:10:12+00:00,1470878818130931714,PolySwarm,Less than a day to go! https://t.co/6zlGqJN1Uw,52,9,20,2021-12-14
+330,2021-12-15 22:08:45+00:00,1471240842329444356,PolySwarm,"PolySwarm has over 55 engines operating in its marketplace and these include Crowdstrike, SentinelOne and Kaspersky. Some of the company’s largest customers include Microsoft and Verizon, PolySwarm CEO Steve Bassi told @CoinDesk. https://t.co/GQHlRph2Ua",50,4,20,2021-12-15
+336,2021-12-17 18:02:36+00:00,1471903671722164237,PolySwarm,"Thanks for the interview today @CheekyCrypto, really looking forward to watching it on your channel!",50,2,10,2021-12-17
+337,2021-12-21 18:14:11+00:00,1473356139345633286,PolySwarm,First Seen samples of malware leveraging the #LOG4J vulnerability have been added to the Emerging Threats section of our portal. https://t.co/7eQx2ozMYJ,32,1,10,2021-12-21
+338,2021-12-23 19:40:33+00:00,1474102647699476487,PolySwarm,"Happy holidays from everyone at PolySwarm. Coming in 2022:
+
+1. transfer of all engines to Mainnet
+2. Begin work on our new use case!!!
+3. NCT awareness
+
+Enjoy the time off, when we come back things are going to get busy https://t.co/IxfnpBZ318",50,2,11,2021-12-23
+340,2021-12-27 17:45:38+00:00,1475523279544848387,PolySwarm,"VP of Partnerships @billfehr will be covering what 2022 will look like for PolySwarm, and talking alongside artist and Bitcoin advocate Steve Minnaar, at the first BoB meetup of the year! - sponsored by @EdgeWallet and @CoinStructive.
+
+https://t.co/OIzF7nZC4z https://t.co/dR4TwQS1FG",37,6,13,2021-12-27
+341,2021-12-29 18:57:04+00:00,1476266033719697408,PolySwarm,The @CheekyCrypto video is now live! Be sure to tune in as CEO Steve Bassi goes over what is coming down the pipeline for PolySwarm. https://t.co/ldSoNryjYe,34,3,12,2021-12-29
+342,2021-12-31 21:00:16+00:00,1477021813972611086,PolySwarm,"2021 sure was an eventful year, and in 2022 things will only get better for the swarm.
+ 
+Happy New Year, one and all! https://t.co/URzcE0u1cj",43,7,5,2021-12-31
+343,2022-01-06 20:01:46+00:00,1479181415619207173,PolySwarm,"For our first #ThrowbackThursday of 2022, we look back to when @kaspersky joined the PolySwarm marketplace as an Arbiter. Their role in the platform is to arbitrate on engine’s determinations to establish ‘ground truth’ on the maliciousness of samples.
+
+https://t.co/tSV72cf7vn",34,1,13,2022-01-06
+344,2022-01-07 15:32:08+00:00,1479475948806455297,PolySwarm,"SecondWrite joins the PolySwarm marketplace
+
+""Polyswarm enables us to reach a large community of users and provides us with additional recent samples for our threat intelligence.” - Rajeev Barua, CEO of @secondwrite
+
+https://t.co/xdvpShyIG7 https://t.co/VNApz83bnC",36,1,18,2022-01-07
+345,2022-01-11 20:56:05+00:00,1481007027228917767,PolySwarm,"We now have 9 engines in our marketplace transitioned and using $NCT. As more engines take the leap we will begin to up their daily transactions, and those numbers will more closely resemble what we have seen in testnet. https://t.co/vbKV4NVpoy",60,14,22,2022-01-11
+346,2022-01-12 18:45:04+00:00,1481336443998031872,PolySwarm,"There's simply too much of the last 4 years to adequately explain/cram into a Twitter thread. We even announced Some of the company’s largest customers include @Microsoft and @Verizon.
+
+https://t.co/cpfyexyVW7
+
+👇",60,5,25,2022-01-12
+352,2022-01-13 02:22:49+00:00,1481451638476972037,PolySwarm,"We made the front page on Coinbase!
+
+https://t.co/qTywubxX2K https://t.co/oyDUcY1Ogi",160,19,42,2022-01-13
+359,2022-01-14 21:52:06+00:00,1482108288477151232,PolySwarm,"@CryptoFuMoney @WatcherGuru Microsoft is a customer, but we do have an impressive partners list.
+
+Kaspersky, Alibaba, SentinelOne, Crowdstrike, just to name a few.",11,1,4,2022-01-14
+368,2022-01-17 16:47:12+00:00,1483118718708334596,PolySwarm,"New exchange listings back to back, we are going live on @gate_io in less than 12 hours!
+
+https://t.co/9xfoHurCVJ https://t.co/7OFXrJjOoV",104,12,38,2022-01-17
+370,2022-01-19 17:52:11+00:00,1483859850232799234,PolySwarm,"@1929crash1 I can't answer that. We do not speculate, especially on the value of our token or future exchanges due to regulatory concerns.",8,1,0,2022-01-19
+374,2022-01-23 21:28:37+00:00,1485363867798671369,PolySwarm,"@JD_2020 @BrunoPresents Thank you for looking into what we are doing.There's a lot of interesting things coming down our pipeline, so stay tuned.",20,0,4,2022-01-23
+375,2022-01-26 17:52:04+00:00,1486396535428505605,PolySwarm,"@Ricky22270481 We regularly post updates to our Twitter, and also provide tech team updates in our channels.
+
+Due to regulatory concerns, we do not speculate on future exchange listings. And, we announce new partners across all our social platforms, which you can read about on our blog.",4,1,0,2022-01-26
+376,2022-01-28 20:26:13+00:00,1487160103333679109,PolySwarm,"Two years ago, we Introduced the PolySwarm Scanbot to #Telegram (@PolySwarmBot). Today it operates/scans in dozens of channels, allowing members to interact with our platform from Telegram via a simple-to-use bot.
+
+Check it out, add it to your channel, and join the swarm! https://t.co/pLA0ZHMvGC",75,5,32,2022-01-28
+378,2022-01-31 23:10:08+00:00,1488288516807274499,PolySwarm,"NCT rewards for cyber security data are coming in the first half of 2022! Everyday web users can earn Nectar (NCT) for useful telemetry. Read our blog post to learn how you can get ready for the #beta and be among the first to passively #earn $NCT.
+
+https://t.co/kdMWWHEvYO",90,7,41,2022-01-31
+382,2022-02-03 20:03:55+00:00,1489328817130852357,PolySwarm,"Registration is open for Detect LIVE February 2022, a virtual event with speakers from @PolySwarm and @Anomali. Featuring industry thought-leaders as they examine using threat intelligence to keep up with your expanding attack surface.
+
+https://t.co/TQMuQnwlHS https://t.co/tvpPws3OM1",55,1,24,2022-02-03
+383,2022-02-04 19:53:28+00:00,1489688577416040453,PolySwarm,"Check out our blog post on the Russia-Ukraine conflict to learn more about potential cyber implications if the conflict escalates.
+
+https://t.co/Gi3GLZ8WVU",68,4,31,2022-02-04
+384,2022-02-07 18:04:39+00:00,1490748356456599555,PolySwarm,@CywareCo https://t.co/SG0TRaFT30,9,0,2,2022-02-07
+385,2022-02-09 19:39:52+00:00,1491497094032547847,PolySwarm,"Last week we released a report and blog post on the Russia-Ukraine conflict. Amidst the conflict, Palo Alto Unit 42 recently reported ongoing activity targeting Ukraine, which they attributed to Armageddon. PolySwarm has samples from this campaign.
+
+https://t.co/FQxjbxHXoG",70,5,31,2022-02-09
+386,2022-02-10 20:28:05+00:00,1491871614430031873,PolySwarm,"Big shoutout to our advisor @dinesh_dhamija! A very generous gift!
+https://t.co/rz6cNYtDUw",49,1,16,2022-02-10
+388,2022-02-11 15:02:06+00:00,1492151969288683526,PolySwarm,"@CoinMarketCap, we would like to register two https://t.co/2OMulVaoBK emails to manage PolySwarm's self-reporting dashboard on CoinMarketCap.",16,0,2,2022-02-11
+390,2022-02-14 19:21:11+00:00,1493304332766396422,PolySwarm,"A recent #Lazarus campaign, called #LolZarus due to the use of #LoLbins in some of its samples, is the first known use of LoLbins by a well-known threat actor group. Check out our blog for more information and sample IOCs.
+
+https://t.co/M9kW8G4mHh https://t.co/a0ovUSGZw9",60,3,32,2022-02-14
+391,2022-02-15 17:59:32+00:00,1493646172589805572,PolySwarm,"The past couple of weeks, we've been testing and tuning our Mainnet infrastructure and revising our Engine wrapping code and processes. We will start migrating the remaining Engines next week with the goal of having them all migrated by the end of March.",116,9,44,2022-02-15
+392,2022-02-16 17:10:58+00:00,1493996336550752258,PolySwarm,"Last chance to register for the #DetectLIVE February session, featuring speakers from @Anomali and @PolySwarm! Gain a clear understanding of how to use threat intelligence to keep up with your expanding attack surface.
+
+https://t.co/TQMuQnwlHS https://t.co/Lp5fGHj7bM",58,4,26,2022-02-16
+394,2022-02-17 19:04:12+00:00,1494387221683712012,PolySwarm,"Several US &amp; EU banks fear a potential attack by Russian threat actors, with some engaging in #cyberwar games to test their preparedness. Check out our blog for more information as the story develops.
+
+https://t.co/SQo33HAdhB",62,5,25,2022-02-17
+395,2022-02-22 19:44:16+00:00,1496209242663043074,PolySwarm,"A recent Mythic Leopard espionage campaign exposed by @AuCyble targeted Indian government officials and leveraged #CapraRAT Android #spyware. Check out our blog for more information and sample IOCs.
+
+https://t.co/0POdPMkaUG https://t.co/5wpNhMkGwB",56,3,35,2022-02-22
+396,2022-02-24 17:13:45+00:00,1496896140062740480,PolySwarm,"Check out the new ""About NCT"" page on https://t.co/2OMulV9QMc for everything you'll need to learn about our Token.
+
+Be sure to prepare for our new upcoming use case beta release, NCT Token Rewards for Cyber Security Data!
+
+https://t.co/bS93iKIdcB https://t.co/1hz94G44Jg",82,5,38,2022-02-24
+397,2022-02-25 19:39:46+00:00,1497295276159156230,PolySwarm,"Earlier this week, Ukrainian entities suffered DDoS attacks and were targeted with a new #Wiper malware. Check out our blog for more information and sample IOCs.
+
+https://t.co/nwJsgIuqMm https://t.co/t4Abeh1bLO",59,1,41,2022-02-25
+399,2022-03-01 19:56:23+00:00,1498749005853229056,PolySwarm,"The @FBI and US @SecretService released an advisory regarding #BlackByte #Ransomware which compromised multiple US and foreign businesses, including three entities that are part of US critical infrastructure. Check out our blog for more info and samples!
+
+https://t.co/adegnEtIRi",78,15,52,2022-03-01
+401,2022-03-09 18:38:40+00:00,1501628551371575296,PolySwarm,"#Ukraine️ was recently targeted by #HermeticWiper &amp; #IsaacWiper. Check out our blog for more information on these malware families and IOCs of PolySwarm’s HermeticWiper and IsaacWiper samples.
+
+https://t.co/iZp8l3m0ml",50,2,16,2022-03-09
+402,2022-03-10 18:30:11+00:00,1501988805347323913,PolySwarm,"@AuCyble recently published research on #JesterStealer. Read our blog post for more information and for PolySwarm's Jester Stealer samples.
+
+https://t.co/7G3SRDFtBz",10,0,4,2022-03-10
+403,2022-03-11 18:35:47+00:00,1502352602650009609,PolySwarm,"CERT-UA recently released a report on #MicroBackdoor. PolySwarm has multiple samples including First Seen. Check out our blog post for more information and #IOCs!
+
+https://t.co/K0mn4bPqE6",45,1,11,2022-03-11
+404,2022-03-14 17:46:25+00:00,1503427344811364356,PolySwarm,"#RedLine Stealer continues to be active in the wild, with new samples surfacing over the past week. Check out our blog for more info and PolySwarm's RedLine Stealer samples.
+
+https://t.co/PUmc5ZBOBk",48,0,16,2022-03-14
+405,2022-03-17 17:33:49+00:00,1504511335027068938,PolySwarm,"Iranian threat actor group #MuddyWater has been very active in the last few months. Check out our blog for information on this threat actor and PolySwarm's Muddy Water #SloughRAT samples.
+
+https://t.co/wL2triXbfE",34,5,10,2022-03-17
+406,2022-03-18 13:56:54+00:00,1504819134546198531,PolySwarm,"@RotorVR @ElectroneumD We are still in the process of migrating engines from testnet over to Mainnet.
+
+https://t.co/1cwuHiCGis",4,2,0,2022-03-18
+408,2022-03-22 16:32:45+00:00,1506307905309622274,PolySwarm,"PolySwarm partner's page is now live! Customers, Suppliers (engines), &amp; Integrators, brought together to help better detect and respond to todays’ emerging threats.
+
+https://t.co/GTiEO0kxOz https://t.co/tqEkSuqPlu",105,7,44,2022-03-22
+409,2022-03-28 20:45:22+00:00,1508545808228102147,PolySwarm,"Tech Team Update:
+
+We are wrapping up the last bit of work on our engine transitions with the majority of engines live on Mainnet this week, and a few others next week.
+
+1/3",61,9,22,2022-03-28
+412,2022-03-29 19:54:06+00:00,1508895292413952010,PolySwarm,"@Alie_Slim Here you go!
+
+https://t.co/JL7xuoomJJ",1,0,0,2022-03-29
+413,2022-03-30 14:10:54+00:00,1509171310248833027,PolySwarm,@Patricia_Energy @PBS Looking forward to watching our very own @Patricia_Energy on @PBS tomorrow!,6,1,1,2022-03-30
+415,2022-03-31 19:15:22+00:00,1509610322050846720,PolySwarm,"In our PolySwarm 2021 Year in Review, we predicted #BlackCat #ransomware would become more prevalent. @TalosSecurity recently discovered a tentative link between BlackCat &amp; the BlackMatter/DarkSide ransomware gang.
+
+https://t.co/N9cR9p2XDM",38,2,8,2022-03-31
+416,2022-04-04 20:18:29+00:00,1511075755140202499,PolySwarm,"The AI-driven threat detection engine Scrutiny scanner by @cyberstanc was among the first round of engines converted to #Mainnet. We now have 21 fully transitioned engines. Those still on Testnet will be transitioned throughout the week, so stay tuned!
+
+https://t.co/3hV2aFB4RR",109,4,30,2022-04-04
+417,2022-04-25 15:20:38+00:00,1518610947421704197,PolySwarm,"US agencies recently released a joint advisory on #TraderTraitor, a #Lazarus group campaign targeting #blockchain companies. Check out our blog for more info and PolySwarm's TraderTraitor samples.
+
+https://t.co/Gs4nUmOk0Z",41,2,18,2022-04-25
+418,2022-04-29 18:40:56+00:00,1520110903764606977,PolySwarm,"@symantec reported on a wave of #Armageddon attacks using new #Pterodo variants to target #Ukraine. Check out our blog for more info and PolySwarm's Pterodo samples.
+
+https://t.co/PBHkW7u1QE",8,0,3,2022-04-29
+419,2022-05-03 19:03:20+00:00,1521566094514925568,PolySwarm,“This report profiles the unique infrastructure used by Russian state-sponsored threat activity group NOBELIUM”. PolySwarm was included as a data source. https://t.co/7nxabWd7Oq,34,0,10,2022-05-03
+420,2022-05-04 20:31:31+00:00,1521950674346549249,PolySwarm,"Tech Team Update:
+
+We have around 6-7 more engines to transition over to Mainnet, and then another 2-3 security expert engines in the queue. The remainder is made up of either test engines or won't be making the transition at this time. 
+
+1/4",57,5,14,2022-05-04
+422,2022-05-05 15:37:52+00:00,1522239159133474823,PolySwarm,"Intervals, as we increase Mainnet throughput, should occur every few days, and will be visible on the stats page of our portal.
+
+https://t.co/10DLXefAyc
+
+3/4",9,1,2,2022-05-05
+426,2022-05-09 20:37:04+00:00,1523764007517229068,PolySwarm,"Mainnet load will be increased to 10% starting May 10 at 18:00 UTC
+
+The process to increase the  Mainnet load to 100% will occur every few days until completion.
+
+We will announce the day before we make a change on the status page: https://t.co/8FlnU6WTNE https://t.co/KDCZ3uf2UV",116,7,22,2022-05-09
+427,2022-05-13 17:03:06+00:00,1525159714652409858,PolySwarm,"The increase of #Mainnet throughput is going smoothly, and we will be adjusting some engines today and scaling further again on Monday.",74,8,18,2022-05-13
+428,2022-05-19 20:12:45+00:00,1527381769040941056,PolySwarm,"$NCT is climbing the charts again, and we will be having some scheduled maintenance today, May 19, 20:30 UTC to increase the Mainnet load from 20% to 50%.
+
+https://t.co/10DLXefAyc",90,10,31,2022-05-19
+429,2022-05-20 19:46:41+00:00,1527737596629204993,PolySwarm,@mattonna @troyXeth @dontedantz https://t.co/cY1ZeT6jDT,2,0,0,2022-05-20
+430,2022-05-23 16:38:46+00:00,1528777469943332864,PolySwarm,"Announcing @eBay, the online shopping site best known for its auctions and consumer-to-consumer sales is the latest customer to be added to our partner's page!
+
+https://t.co/GTiEO0kxOz https://t.co/slwY27EBZE",193,14,52,2022-05-23
+431,2022-05-25 20:06:12+00:00,1529554445029322757,PolySwarm,"Great article from @10News featuring PolySwarm CEO Steve Bassi as he discusses #cryptocurrency mining, its process and the greater purpose of #blockchain technology.
+
+Read the full article ➡️: https://t.co/AJ5AI2mhBp",97,6,16,2022-05-25
+432,2022-05-31 18:42:39+00:00,1531707749335285765,PolySwarm,"PolySwarm is headed to @EBlockchainCon! Our CEO &amp; Founder, Steve Bassi, along with Patricia Schouker, our Director of Business Development and Strategy, will be joining and can't wait to meet everyone. https://t.co/Vc3ZfYRNGF",49,1,17,2022-05-31
+433,2022-06-02 18:12:16+00:00,1532424878724456448,PolySwarm,"We have received great feedback on our live and historical hunt functionality. We've implemented some noteworthy changes and improvements we are excited to share them with you.
+
+Check out the newest blog to learn more ⬇️
+
+https://t.co/bsiI0Gkopb",41,1,9,2022-06-02
+436,2022-06-03 20:21:07+00:00,1532819689805492224,PolySwarm,"Next week will be a busy one as @Patricia_Energy, and CEO Steve Bassi give a PolySwarm demo at @RSAConference. We will also be releasing the browser plug-in (beta), where everyday Internet users are rewarded $NCT tokens for browsing the internet and providing security data.",74,6,21,2022-06-03
+438,2022-06-05 16:44:24+00:00,1533489929610838017,PolySwarm,@40calcannon @Patricia_Energy @RSAConference I'll see what we can do,2,0,0,2022-06-05
+440,2022-06-06 16:54:00+00:00,1533854730413395969,PolySwarm,"The PolySwarm team has made it to @RSAConference!
+
+Come join us, and chat on all things #CyberSecurity.
+#RSAC2022 #ThreatIntelligence https://t.co/qS0y8PeBpa",37,2,15,2022-06-06
+441,2022-06-07 17:00:05+00:00,1534218650525261824,PolySwarm,"Meet with us and @Anomali today at 11 in their booth 1743 Moscone South. Steve Bassi (CEO/Founder) will be highlighting the value of our partnership and how to use our ""fresh"" ransomware intelligence within Anomali solutions.
+
+#RSAC2022 #Anomali #ThreatIntelligence #infosec https://t.co/f0VjL42aEz",39,1,11,2022-06-07
+442,2022-06-08 17:55:27+00:00,1534594971038371844,PolySwarm,"The NectarNet Beta is now live! The browser extension rewards individuals with PolySwarm’s Nectar ($NCT) token for the data they provide by simply browsing the internet.
+
+Sign-up here and start earning today! https://t.co/7yZDwEZrvI https://t.co/mpfhFHOfdY",68,11,26,2022-06-08
+449,2022-06-09 21:59:00+00:00,1535018650566119424,PolySwarm,@FendiSoFine @KingzKryptoz Welcome to the club!,3,2,0,2022-06-09
+458,2022-06-10 18:11:10+00:00,1535323705156546561,PolySwarm,"@RobertJtreboR Perhaps in later releases, but not currently with the Beta.",0,1,0,2022-06-10
+459,2022-06-13 13:13:32+00:00,1536335963252719620,PolySwarm,@cryptictruth1 Withdrawals and buttons to configure/make a withdrawal are disabled right now while we finish building and testing the withdrawal functionality.,2,2,0,2022-06-13
+460,2022-06-21 20:27:09+00:00,1539344191255347204,PolySwarm,"Join us and Ben Schmidt as he explores the fundamental challenges &amp; opportunities of token rewards for real-world improvements.
+
+“projects that reward real people for improving themselves or society at large are just beginning to wake as sleeping giants.”
+
+@EBlockchainCon #EBC22 https://t.co/FgyJOdvmmm",37,1,8,2022-06-21
+462,2022-06-22 19:20:25+00:00,1539689786222444544,PolySwarm,"Hear what Ben Schmidt, our CSO has to say to @VICE about the future of 'digital cash' creation. https://t.co/GsJo1wvEQG",34,1,7,2022-06-22
+463,2022-06-23 15:40:57+00:00,1539996943828516864,PolySwarm,@EBlockchainCon #EBC22 $NCT #blockchain https://t.co/sL6rFtgL7h,13,0,4,2022-06-23
+465,2022-06-24 14:38:23+00:00,1540343586549633025,PolySwarm,@EBlockchainCon #EBC22 $NCT #blockchain https://t.co/SbtTE5GvkS,9,0,2,2022-06-24
+467,2022-06-26 18:13:48+00:00,1541122570229104641,PolySwarm,@Broken__Monkey @THESDFSHOW https://t.co/7yZDwEZrvI,1,0,0,2022-06-26
+468,2022-06-27 15:18:36+00:00,1541440870670532609,PolySwarm,"“We believe in giving the power back to users to control their own data, and blockchain gives us a great, transparent way to reward these users when they choose to share their data.”
+
+#NectarNet @EBlockchainCon #EBC22 #blockchain https://t.co/JLo03qpwUW",90,4,25,2022-06-27
+470,2022-06-28 16:02:20+00:00,1541814263588732928,PolySwarm,"From @EBlockchainCon to #Dublin, our #Swarm is global!
+
+Awesome to see the PolySwarm #ThreatBulletin featured in a #FIRSTCON22 presentation. https://t.co/LRNNx6Bpkr",128,2,21,2022-06-28
+472,2022-06-29 17:07:22+00:00,1542193017490137088,PolySwarm,Read our CSO Ben Schmidt’s full interview as he covers the recent @Cloudflare #outage and what companies relying on their services could learn from this incident. https://t.co/N10Tznd1N5,105,5,21,2022-06-29
+473,2022-07-01 16:03:36+00:00,1542901745176780807,PolySwarm,@TaschaLabs Well said @TaschaLabs. It’s always been our belief that companies w/ actual use cases will be what drive the future of crypto adoption. Those integrating utility tokens into viable products will flourish as regulations take form &amp; the world wakes up to the power of tokenization.,13,0,5,2022-07-01
+475,2022-07-14 17:32:48+00:00,1547635234744569857,PolySwarm,"@bhnnss @ThePira62143202 Hey Brendan, I just wanted to clarify we are welcoming new members to the beta. It is just a manual process at  this time so it's not an immediate activation. We actually just welcomed a lot of new people into the Beta this week.",0,1,0,2022-07-14
+480,2022-07-15 18:51:08+00:00,1548017335805497349,PolySwarm,"We just activated another round of #NectarNet Beta participants. If you haven't already signed up to participate, users are earning a daily piece of $1337 in $NCT rewards.
+
+Sound interesting? Sign up here: https://t.co/HqCjNGDwUc",88,8,17,2022-07-15
+481,2022-07-18 14:22:00+00:00,1549036771496800257,PolySwarm,@Kolya30002290 There are plans to add a staking feature in later phases of the NectarNet Beta.,2,2,1,2022-07-18
+484,2022-07-19 17:42:37+00:00,1549449645776158721,PolySwarm,"@RobertJtreboR It is collecting the domain name, resolved IP address for each website you visit, each component within the website, the public IP address of your device, &amp; your PolySwarm credentials. FAQ &amp; documentation on the rewards tab.
+
+At this time, I don't have an ETA for the withdrawals.",2,0,0,2022-07-19
+485,2022-07-21 21:01:26+00:00,1550224456404058115,PolySwarm,"@ThePira62143202 Interesting idea! And as a fyi, we are still working on the withdrawal functionality. I hope to have more to share with you soon.",3,1,0,2022-07-21
+492,2022-07-22 14:03:02+00:00,1550481547098308609,PolySwarm,"""Think of PolySwarm as a sort of Internet-wide neighborhood watch."" - CEO Steve Bassi
+
+#infosec #cybersecurity #malware $NCT https://t.co/jfBaS4eYoP",72,4,30,2022-07-22
+497,2022-07-25 20:09:16+00:00,1551660878285643776,PolySwarm,"Many thanks to our community as the swarm continues to grow.
+
+Onward and upward! https://t.co/3EtWNLCo54",78,5,14,2022-07-25
+499,2022-07-26 20:02:49+00:00,1552021641953148928,PolySwarm,"Watch PolySwarm CEO Steve Bassi's interview on CNBC Crypto World today, starting at 2:20 in.
+
+https://t.co/FuoTwORf5l",47,0,18,2022-07-26
+500,2022-07-28 14:43:19+00:00,1552666012880879617,PolySwarm,"According to PolySwarm CEO Steve Bassi, an expert in Bitcoin $BTC and Ether $ETH mining, #CryptoMining may still be profitable if we look at its long-term prospects.
+
+https://t.co/Bna73ewvZh",31,8,6,2022-07-28
+502,2022-08-01 18:32:20+00:00,1554173197246922753,PolySwarm,"@cybereason recently reported on #RaspberryRobin, a #worm leveraging QNAP devices. In this blog, our analysts provide information on Raspberry Robin and #IOCs of PolySwarm’s Raspberry Robin samples.
+
+https://t.co/GNnTWlURGd",7,0,0,2022-08-01
+503,2022-08-02 19:55:43+00:00,1554556570675154944,PolySwarm,"PolySwarm has a new Discord!
+
+We encourage everyone to join 'The Hive'. Members won't be limited to one channel/thread, giving everyone a voice.
+
+Share your memes, shill your successes, and help us together to build a better community.
+
+Join now - https://t.co/JeHNoh3oob https://t.co/OJ1PLOR8H0",56,19,15,2022-08-02
+504,2022-08-03 21:49:57+00:00,1554947707181072385,PolySwarm,"CEO Steve Bassi, CSO Ben Schmidt, CRO Steve Laskowski, @Patricia_Energy, Mike Anderson, Amit Khandekar &amp; our company mascot Bronte will all be attending #BlackHat.
+
+Come shake paws, and let's talk all things malware.
+
+#BH22 https://t.co/XW6wsmqae0 https://t.co/VIAQ35g25F",21,9,9,2022-08-03
+505,2022-08-04 19:27:13+00:00,1555274172984598529,PolySwarm,"@AuCyble  recently reported on #Lilith #ransomware. Check out our blog for more info and PolySwarm’s Lilith samples.
+
+https://t.co/QOjSlZ0hPK",2,0,1,2022-08-04
+506,2022-08-08 21:05:36+00:00,1556748486263144448,PolySwarm,"PolySwarm's Nectar $NCT has been listed on @latokens
+
+LATOKEN is a platform focused on trading and liquidity for new tokens. And recently entered CoinMarketCap’s Top 50 by trading volume.
+
+Start trading with USDT - https://t.co/uYxgB5Svyx https://t.co/5ftb3Iw8ZW",48,3,15,2022-08-08
+509,2022-08-09 16:01:16+00:00,1557034284162158593,PolySwarm,"We have paws 🐾 on the ground folks! Time to kick off the best #BlackHat conference yet.
+
+Book a time to meet the team! - https://t.co/BPb3TFNlL2
+#BHUSA @BlackHatEvents https://t.co/Xp9ypUyfpe",29,1,6,2022-08-09
+511,2022-08-10 19:55:38+00:00,1557455655258140672,PolySwarm,"Day 2 here at #BlackHat with some @PolySwarm swag! 
+
+Back to back meetings with Bronte! Paw Popularity &amp; #cybersecurity at its best! https://t.co/gBELboM7JI",29,2,4,2022-08-10
+512,2022-08-11 02:22:21+00:00,1557552973332353024,PolySwarm,PolySwarm about to go live on @TwitterSpaces : join us and @ThreatQuotient for an off the cuffs conversation anchored in partnership ! #blackhat2022 https://t.co/fohjFGpaC2,33,1,4,2022-08-11
+517,2022-08-15 19:48:09+00:00,1559265708395139074,PolySwarm,"PolySwarm's performance based marketplace reduces false positives so you can focus on what’s important, keeping your data safe. Specialized detection engines combined with contextual threat scoring find new malware faster! https://t.co/JhsUT89hvq",54,9,22,2022-08-15
+519,2022-08-17 19:28:35+00:00,1559985561460477954,PolySwarm,"At 4 pm EST, we will be hosting a post-Black Hat interview with CRO Steve Laskowski. Be sure to join us so you can hear about our time in Vegas for one of the largest Cybersecurity conferences in the world.
+
+Join our Discord - https://t.co/oXXUpyfRnG",17,1,5,2022-08-17
+522,2022-08-18 22:21:15+00:00,1560391403812933633,PolySwarm,"Join Steve Bassi, PolySwarm CEO, at 10:30 am EST tomorrow for an #AMA on our Discord, https://t.co/oXXUpyfRnG
+
+#NectarNet news, updates, and answers to how everyday internet users earn $NCT tokens for browsing the internet. #MyNectarRewards https://t.co/8WKlpW5cPG",14,2,7,2022-08-18
+527,2022-08-19 13:40:38+00:00,1560622772262506496,PolySwarm,"Get your questions ready! Join Steve Bassi for a live #NectarNet AMA deep dive in less than one hour only in the PolySwarm Discord. 
+
+Join our Discord - https://t.co/oXXUpyfRnG https://t.co/93lIDFEM7y",14,2,3,2022-08-19
+530,2022-08-22 13:52:42+00:00,1561712973625937924,PolySwarm,@qiaojiangfei1 @BenjaminBaird17 @CryptoWithSD Here you go! - https://t.co/rPttvw2fSw,0,0,0,2022-08-22
+533,2022-08-24 15:03:54+00:00,1562455665574309889,PolySwarm,@lG0TCHA There are plans for a burn feature to be incorporated in later phases of NectarNet.,3,0,1,2022-08-24
+535,2022-08-25 18:14:37+00:00,1562866050215342080,PolySwarm,"Palo Alto’s @Unit42_Intel  recently reported on activity leveraging #BumblebeeLoader. Check out our blog for more info and PolySwarm’s Bumblebee samples.
+
+https://t.co/oHYHlrOGMn",13,2,5,2022-08-25
+536,2022-08-26 15:44:26+00:00,1563190640900337664,PolySwarm,"For those of you that didn't make it to our Post-Black Hat interview in our Discord with CRO Steve Laskowski and @Cpt_Cryptastic, we made sure to record it.
+
+Learn all about our time in Vegas for one of the largest #cybersecurity conferences in the world.
+
+https://t.co/RNllr3hVph",27,3,8,2022-08-26
+537,2022-08-29 18:24:01+00:00,1564317965595676683,PolySwarm,"“These threats are only growing…there is no shortage of security incidents,” CEO Steve Bassi said. “This incident also highlights a key use case for harnessing remote and distributed #threatdetection workforces detecting and preventing such hacks.” $NCT
+
+https://t.co/eBNHztd0Hv",23,1,9,2022-08-29
+539,2022-09-01 17:07:12+00:00,1565385797372706823,PolySwarm,"@IntezerLabs recently reported on Lightning Framework, a Linux #malware with modular plugins and the ability to install #rootkits. In this report, our analysts provide information on Lightning Framework and IOCs of PolySwarm’s #LightningFramework samples.
+
+https://t.co/ZwlEQLKWp3",4,0,4,2022-09-01
+541,2022-09-02 19:06:42+00:00,1565778260687978496,PolySwarm,"“When you have such a new technology like digital assets, the room for error is high, partly because of user interfaces that are still somewhat rudimentary,” Steve Bassi, co-founder and CEO of PolySwarm, told @GOBankingRates
+
+https://t.co/L4GZJMVjYg",22,3,12,2022-09-02
+542,2022-09-06 17:28:58+00:00,1567203213908099073,PolySwarm,"If you didn't make it to the #NectarNet AMA with CEO Steve Bassi, the recording is live. 👀
+
+Hear all the latest NectarNet news and updates. And learn about how everyday internet users earn NCT tokens for browsing the internet. 🚀
+
+https://t.co/4pP2PdvrjP",30,2,16,2022-09-06
+544,2022-09-08 19:02:13+00:00,1567951459500580864,PolySwarm,"@led1666 Sorry for the wait. For now, all withdrawals require our admins to execute them and will remain in a ""Pending"" state until the withdrawal is processed. You can send an email to support@polyswarm.io if you need some assistance.",0,0,0,2022-09-08
+546,2022-09-09 18:11:55+00:00,1568301186490703872,PolySwarm,"@Google’s Threat Analysis Group (#TAG) recently reported on #CharmingKitten’s Hyperscrape tool. Check out our blog for more info and PolySwarm’s #Hyperscrape samples.
+
+https://t.co/xAofgGfxdy",3,0,1,2022-09-09
+547,2022-09-12 18:37:03+00:00,1569394675735269377,PolySwarm,"@Uptycs recently reported on a new DarkAngels Linux ransomware variant. Check out our blog for more info and PolySwarm’s #DarkAngels Linux #Ransomware samples.
+
+https://t.co/5rD0PqHxLR",2,0,3,2022-09-12
+548,2022-09-13 17:52:09+00:00,1569745764234018816,PolySwarm,"The latest Tech Team Update was just posted in our official discord! If you want a peek at what’s to come, join our discord community and get access to all the latest news before anyone else.
+
+Join today: https://t.co/oXXUpyfRnG https://t.co/BRltftDSJv",25,1,11,2022-09-13
+549,2022-09-15 16:14:51+00:00,1570446053639618562,PolySwarm,"Scammers are likely to use excitement around the #EthereumMerge to launch new scams aimed at newbie #Crypto users, PolySwarm CEO and co-founder Steve Bassi has warned. https://t.co/x9t2AJsEqj",27,3,9,2022-09-15
+551,2022-09-16 18:15:18+00:00,1570838753664536577,PolySwarm,"Mainnet is now operating at 75% &amp; the final push to 100% begins next week! 🚀
+
+We are processing millions of $NCT transactions &amp; analyzing millions of threats daily. As PolySwarm increases its supplier &amp; consumer base, these numbers will grow.🔥 
+
+#Crypto #Blockchain #Mainnet https://t.co/sN0mPayokY",74,8,30,2022-09-16
+552,2022-09-19 20:37:20+00:00,1571961662894407680,PolySwarm,@danielmakelley Thanks for the shoutout!,2,0,0,2022-09-19
+553,2022-09-20 16:11:11+00:00,1572257070040371200,PolySwarm,"We will crown the current champ this Friday! Tweet your $NCT rewards balance with the tag #NCTcomp. The screenshot with the highest balance will get a #MyNectarRewards sticker in our Discord with their Twitter handle on it!
+Build up that balance and start posting your results! https://t.co/et88KZN3XV",29,4,5,2022-09-20
+554,2022-09-21 20:03:14+00:00,1572677854353301504,PolySwarm,"The swarm is buzzing, and you're invited! Join the party on the Official PolySwarm Discord server and get info and updates before everyone else!
+
+https://t.co/oXXUpygpde https://t.co/3VUyireJR8",24,1,9,2022-09-21
+555,2022-09-22 16:42:18+00:00,1572989676428066821,PolySwarm,"@TalosSecurity recently reported on a new #Armageddon campaign and #infostealer targeting #Ukraine. Check out our blog for more info and PolySwarm’s related samples.
+
+https://t.co/TT5nhS9k5z",0,0,0,2022-09-22
+556,2022-09-23 20:23:49+00:00,1573407810934784007,PolySwarm,"Join Ben Schmidt, PolySwarm CSO, for our second community AMA, MONDAY 26 SEPT at 2:30 PM EDT on Discord!
+
+If you have questions, join us and ask Ben directly in the AMA Channel's chat!
+
+Click Here to Join: https://t.co/oXXUpyfRnG
+#AMA $NCT #Mainnet #NectarNet #SoManyNets https://t.co/impL5ssKI5",20,5,11,2022-09-23

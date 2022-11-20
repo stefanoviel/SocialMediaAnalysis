@@ -1,0 +1,457 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2021-01-11 12:05:15+00:00,1348601865852751872,RAILGUN_Project,"1/ Introducing Railgun, an upcoming privacy and anonymity system built directly on Ethereum.",219,12,29,2021-01-11
+6,2021-01-14 02:09:05+00:00,1349539000541872128,RAILGUN_Project,@hotnewcrypto Thank you. We have a Telegram: https://t.co/KDI1WKNpEk,0,0,0,2021-01-14
+7,2021-02-18 01:32:01+00:00,1362213245398917127,RAILGUN_Project,"1/:RAILGUN PROJECT:
+
+With recent advances in zk-STARKs the contributors to the Railgun Project are investigating and testing the use of SNARKs and STARKs. We are developing both systems in parallel.",90,1,18,2021-02-18
+12,2021-02-22 03:45:55+00:00,1363696497703804932,RAILGUN_Project,"@artistic_myway As mentioned last week, we are building a zk-STARKs prototype at the same time as our SNARKs prototype. So far, it looks like there are too many major downsides to using STARKs, but for the benefit of other developers in the space, we want to show the differences in practice.",0,0,0,2021-02-22
+18,2021-03-18 00:56:59+00:00,1372351291746230273,RAILGUN_Project,"Railgun Project's team are now engaging audit firms for the main Railgun contract &amp; circuits and the treasury management system. To our Twitter followers, feel free to recommend any proven auditors you respect.",62,8,9,2021-03-18
+20,2021-03-26 06:38:12+00:00,1375336265852145665,RAILGUN_Project,"1/ : RAILGUN PROJECT :
+
+Railgun is a privacy smart contract, custom-built for you to privately trade through a dex, stake, farm, or lend.",74,5,20,2021-03-26
+27,2021-03-29 09:47:59+00:00,1376471188197625857,RAILGUN_Project,"Do you have a Solidity dev friend who you think we should contract for Railgun?
+Tag them here!",28,14,3,2021-03-29
+28,2021-04-07 01:18:48+00:00,1379604537414017026,RAILGUN_Project,"@Melt_Dem @CoinSharesCo Broke: logo on page
+Woke: hide logo from page",2,0,0,2021-04-07
+29,2021-04-09 00:42:24+00:00,1380320155075416068,RAILGUN_Project,@Melt_Dem @CoinSharesCo 🦍,1,0,0,2021-04-09
+30,2021-04-12 01:38:43+00:00,1381421488796889092,RAILGUN_Project,@TheCryptoDog Railgun is privacy for DeFi. Fully on-chain eth smart contract interactions with privacy.,10,3,0,2021-04-12
+31,2021-04-13 00:06:47+00:00,1381760744207773696,RAILGUN_Project,@bzlwang 🕴️,0,0,0,2021-04-13
+32,2021-04-19 02:37:30+00:00,1383972996914630660,RAILGUN_Project,@ChainlinkStink @jwdefi End of June.,2,0,0,2021-04-19
+33,2021-04-26 15:50:10+00:00,1386709194363969537,RAILGUN_Project,"@vcorem Railgun is not a ""Privacy coin"", but it will turn ETH into a privacy coin.",3,0,0,2021-04-26
+34,2021-05-11 07:02:53+00:00,1392012318700052483,RAILGUN_Project,"@chasethewin There are no investors,  there was no sale.",0,1,0,2021-05-11
+35,2021-05-17 14:54:44+00:00,1394305388753821697,RAILGUN_Project,"@octal You might like this project, we are introducing privacy to any chain that is smart contract capable.",1,0,0,2021-05-17
+36,2021-05-19 23:42:29+00:00,1395162978597576707,RAILGUN_Project,@caseykcaruso @matthuang @FEhrsam @arjunblj @_charlienoyes @danrobinson @gakonst @_Dave__White_ @samczsun Hit us up when you are ready.,0,0,0,2021-05-19
+37,2021-05-20 08:36:08+00:00,1395297277149802498,RAILGUN_Project,": RAILGUN PROJECT :
+
+1) The Railgun system will make ETH a privacy coin. The first version will launch June 30.
+The community also have plans to launch mirror versions of Railgun on #BSC &amp; #Tron, and later #Solana, #Polkadot and #Stellar.",141,14,25,2021-05-20
+39,2021-05-21 00:27:10+00:00,1395536609752150019,RAILGUN_Project,"@sceptopotamus @AdogheDavid Good question, and yes so far the community groups are not public. Closer to launch date we will make one of the chat groups public for anyone to join.",2,0,0,2021-05-21
+40,2021-05-24 01:33:54+00:00,1396640568256524289,RAILGUN_Project,"@MONEYPARTYVIP @jayjayHales We make use of zk-snarks on ETH. Our snark verifier implementation has a fixed cost of about 200k gas right now, will be bringing that down (soon) with optimisations in the works. ETH blocks are limited to 12M gas so we can easily fit multiple ZK-SNARK transactions in a block.",3,1,0,2021-05-24
+45,2021-05-28 01:16:44+00:00,1398085800579899392,RAILGUN_Project,"@evaristomuna We are happy to invite you to our testnet group!
+https://t.co/X8QR4bGPeE",0,0,0,2021-05-28
+46,2021-06-01 13:46:57+00:00,1399724148117676039,RAILGUN_Project,"@SpartanBlack_1 Congratulations, and may DeFi continue to break down barriers and fiefdoms.",1,0,0,2021-06-01
+47,2021-06-08 14:03:35+00:00,1402265050140848134,RAILGUN_Project,https://t.co/as7kvOrjIl,41,9,8,2021-06-08
+48,2021-06-13 13:19:45+00:00,1404065956658401281,RAILGUN_Project,"@KaihuaQIN Hi Kaihua, can you please send us a direct message?",0,0,0,2021-06-13
+51,2021-06-15 18:11:32+00:00,1404864164401668107,RAILGUN_Project,Announcement: Railgun will create an internal DEX within the Railgun system. It will become the most private DEX possible with blockchain technology. This will be live by December.,68,8,7,2021-06-15
+55,2021-06-16 08:34:56+00:00,1405081444024827906,RAILGUN_Project,"@alice_incognito Some more unusual rebasing tokens might not work with Railgun but every other ERC-20, and even NFTs, will work just fine.",2,1,0,2021-06-16
+56,2021-06-18 02:10:37+00:00,1405709503287414793,RAILGUN_Project,@mewn21 We gochu fam.,1,1,0,2021-06-18
+60,2021-06-20 00:37:07+00:00,1406410752186060803,RAILGUN_Project,@BlockchainBard_ @bftzhang shall we make it happen?,4,0,0,2021-06-20
+61,2021-06-21 10:12:18+00:00,1406917889001725954,RAILGUN_Project,"Railgun in the news:
+
+https://t.co/nWOsBOjuwb",55,16,17,2021-06-21
+64,2021-06-23 17:48:46+00:00,1407757535789174789,RAILGUN_Project,"Railgun DAO launches June 30.
+All RAIL token holders will be able to vote on what code gets deployed in this decentralized system.
+*Any funds from Railgun fees all goes to a DAO treasury. The RAIL holders can send this ETH anywhere they like, even to themselves. It will be big.",60,4,15,2021-06-23
+66,2021-06-24 10:34:54+00:00,1408010738594103303,RAILGUN_Project,"2/ 
+You don't need a new coin to have anonymity and privacy. You can use RAILGUN with USDT, USDC, RenBTC, or Ether.
+It will support every lending and trading platform on Ethereum, including ones that aren't released yet. 
+
+https://t.co/nWOsBOjuwb",25,2,4,2021-06-24
+69,2021-06-25 21:08:50+00:00,1408532663728750594,RAILGUN_Project,@riabhutoria Any events?,0,0,0,2021-06-25
+77,2021-06-26 17:22:12+00:00,1408838014923689984,RAILGUN_Project,"@stockmaster0x @BTC_NFT Yes it will be very simple to integrate with your app!
+Just add a ""use via RAILGUN"" button!",2,1,0,2021-06-26
+79,2021-06-27 13:45:46+00:00,1409145934148210691,RAILGUN_Project,@amat_sophie I posted it!,0,0,0,2021-06-27
+81,2021-06-29 17:58:52+00:00,1409934405301379079,RAILGUN_Project,"Railgun launch is rescheduled to Saturday.
+
+All will have good time to read the audit report and source code before we launch. Description of the token economics is already posted in https://t.co/mz1U7NjPWz group
+
+Audit report: Friday.
+RAIL Launch: 13:00 UTC SAT. JULY 3rd.",59,8,26,2021-06-29
+83,2021-06-30 15:19:13+00:00,1410256618030305285,RAILGUN_Project,"RAILGUN scientist Kieran in HackerNoon. 
+https://t.co/fH0JacURhD",68,11,35,2021-06-30
+84,2021-07-02 04:30:37+00:00,1410818167157538816,RAILGUN_Project,"📝 Railgun scientist AMA: How to protect the privacy of interactions on DeFi  
+https://t.co/WDzgvbZvyp
+
+📝 Railgun科学家分享：如何守护DeFi链上交互的隐私 https://t.co/49JVMjzT8x",25,1,11,2021-07-02
+89,2021-07-03 19:55:25+00:00,1411413286814466052,RAILGUN_Project,"RAILGUN on Coingecko:
+
+https://t.co/Mzavt08BTK",53,10,15,2021-07-03
+93,2021-07-05 17:27:51+00:00,1412100927532773378,RAILGUN_Project,"Interview with great information published.
+https://t.co/1Pu2o7Hp3Y",57,16,22,2021-07-05
+95,2021-07-06 16:52:07+00:00,1412454323041312770,RAILGUN_Project,@FromFails We will publish a staking link! Follow here,0,1,0,2021-07-06
+98,2021-07-07 12:47:40+00:00,1412755193297608706,RAILGUN_Project,"Nice video review of our white paper by The Defiant 
+https://t.co/2ZjEORKUwS",48,19,23,2021-07-07
+101,2021-07-11 17:24:14+00:00,1414274347141828608,RAILGUN_Project,"A proposal for the DAO to launch the RAILGUN Privacy contract is live in the governance forum!
+You can launch the governance app from https://t.co/R5O477pULM 
+To stake &amp; vote.
+
+ You can also join the discussion at https://t.co/mz1U7NjPWz",44,12,16,2021-07-11
+102,2021-07-12 04:35:13+00:00,1414443203705585665,RAILGUN_Project,"RAILGUN DAO mentioned in Yahoo Finance
+https://t.co/gVAEy83x8f",55,14,18,2021-07-12
+104,2021-07-14 22:22:04+00:00,1415436462510718978,RAILGUN_Project,@bantg Why bother with VC and their committees when it takes half an hour to release a token to the public,15,3,0,2021-07-14
+105,2021-07-17 01:24:40+00:00,1416207189375651841,RAILGUN_Project,The RAILGUN Privacy app will launch Monday! Enough votes have approved it and the DAO will deploy the privacy system in less than two days.,68,8,13,2021-07-17
+106,2021-07-18 09:49:52+00:00,1416696715206402048,RAILGUN_Project,@0xChu Cone to the RAILGUN VIP dev Party Monday night in Paris.,4,0,0,2021-07-18
+107,2021-07-23 16:14:53+00:00,1418605549160108037,RAILGUN_Project,@AndreCronjeTech RAILGUN airdropped to wallets that had interacted with various donation addresses,8,0,0,2021-07-23
+109,2021-07-25 01:45:19+00:00,1419111488061681669,RAILGUN_Project,"RAILGUN lets you build up a private balance in any erc20 token. Then you can trustlessly send it INVISIBLY to any other Railgun user - it will not even appear on Etherscan. You can do this with #USDT #DAI #SHIB whatever you like! 
+ Railgun is a smart contract - no install needed.",82,12,16,2021-07-25
+112,2021-07-26 17:37:03+00:00,1419713389664915459,RAILGUN_Project,"@josephdelong Railgun Project - we brought privacy to ETH.
+No bridge needed.",11,0,2,2021-07-26
+113,2021-07-27 10:33:52+00:00,1419969277692715017,RAILGUN_Project,"Clever investors know -
+Zero knowledge transfers are a game changer and RAILGUN is the pioneer. https://t.co/OozXM17BGO",60,7,10,2021-07-27
+116,2021-07-28 17:09:47+00:00,1420431302403235853,RAILGUN_Project,@ercwl THE PRIVACY ONE,0,0,0,2021-07-28
+117,2021-07-29 14:04:24+00:00,1420747037230788611,RAILGUN_Project,"If you buy 2m+ RAIL tokens, you will get a limited edition NFT. Please email mail@railgun.org for details or OTC contact.",56,15,18,2021-07-29
+118,2021-07-30 23:05:25+00:00,1421245576746782725,RAILGUN_Project,Eth users want privacy without changing assets... RAILGUN https://t.co/DdWZ8REiqX,63,10,15,2021-07-30
+121,2021-07-31 00:01:38+00:00,1421259723890909188,RAILGUN_Project,@Dude_Diligenced Pushups are 80% lighter when you're on the moon,7,2,1,2021-07-31
+123,2021-08-02 11:55:21+00:00,1422164110414864384,RAILGUN_Project,"@stonecoldpat0 @secparam Few understand!
+I dmd you",0,0,0,2021-08-02
+124,2021-08-03 13:51:28+00:00,1422555723314171917,RAILGUN_Project,"@uhr3al @elssnyc The amount, sender, and tokens will not be recorded in any visible part of the blockchain as it's encrypted by the smart contact.",4,0,2,2021-08-03
+125,2021-08-04 14:36:55+00:00,1422929549021655050,RAILGUN_Project,Do I have something to hide? Yes: absolutely everything. Everything until you convince me why you need to be shown it. And even then I'll take my time to decide. https://t.co/9vMfsV9sTV,58,8,11,2021-08-04
+127,2021-08-05 02:44:03+00:00,1423112538045173767,RAILGUN_Project,@ameensol We can contribute,3,0,0,2021-08-05
+129,2021-08-06 16:58:10+00:00,1423689870078316547,RAILGUN_Project,"We can pay a grant to a confident Solidity coder to build one extra feature for RAILGUN DEX (RailySwap) if you are interested in doing it, dm us!",62,7,23,2021-08-06
+130,2021-08-08 21:50:42+00:00,1424488264409489415,RAILGUN_Project,Hisham Galal dropping the knowledge at DEFCON 29 https://t.co/Q9MyTKmPVp,54,9,9,2021-08-08
+131,2021-08-14 07:29:42+00:00,1426445912340156420,RAILGUN_Project,New Dune analytics dashboard for RAILGUN and $RAIL https://t.co/zQq6uvPCP3,62,8,22,2021-08-14
+132,2021-08-15 19:23:00+00:00,1426987811090149379,RAILGUN_Project,Technology Roadmap Q3-Q4 https://t.co/p9TVTCpN69,74,24,21,2021-08-15
+133,2021-08-17 17:30:27+00:00,1427684262631940099,RAILGUN_Project,"@Radio_BTC Yes, we can! Dm us",0,1,0,2021-08-17
+134,2021-08-19 23:16:02+00:00,1428496006757429248,RAILGUN_Project,"Binance Smart Chain RAIL NEWS!
+The first RAIL staking snapshot for the BSC-RAIL airdrop will be August 31.
+The second will be September 30.
+
+Stake RAIL here: https://t.co/sdsn3zR7U3
+
+(After you hit unstake, you are no longer considered staked, even during the 30 day lock)",57,22,17,2021-08-19
+135,2021-08-20 00:09:32+00:00,1428509470242582537,RAILGUN_Project,@koruna911 Actually it's essential to ensure that the DAO votes are voting in the best long term interest of the DAO itself - it prevents vote raiding.,5,2,0,2021-08-20
+136,2021-08-21 17:49:21+00:00,1429138567729647621,RAILGUN_Project,@ViktorBunin @josephdelong You can already use Railgun for Ethereum mainnet ;),2,1,0,2021-08-21
+138,2021-08-23 02:02:29+00:00,1429625057446436871,RAILGUN_Project,"@JustKayLD @josephdelong You can use the Railgun app right now and the tx amounts, token &amp; receivers are all hidden and the transactions are trustless. https://t.co/5B5VXaj8AR",3,4,0,2021-08-23
+139,2021-08-28 10:23:13+00:00,1431563009919492099,RAILGUN_Project,@HaileyLennonBTC Railgun team are privacy coin experts but we have built a zksnark system for Ethereum. Happy to chat! Telegram: @railgun_privacy,0,2,0,2021-08-28
+140,2021-08-30 16:45:55+00:00,1432384095980503040,RAILGUN_Project,"1) DAO members who we respect can join the BSC Railgun DAO too!
+Long term vision is the criteria, measured via staking.
+ You must be staked on BOTH Aug 31 &amp; Sep 30. If so, you receive 2 BRAIL DAO tokens/staked RAIL. 🤗
+If you unstake RAIL before Oct 1, you get nought. (Zero)😢",47,11,9,2021-08-30
+142,2021-09-01 08:27:39+00:00,1432983479311085569,RAILGUN_Project,"The first RAIL staker snapshot did BSC RAIL is completed! The second will be September 30, stay staked to be invited into the BSC Railgun DAO!",47,8,12,2021-09-01
+146,2021-09-02 18:53:34+00:00,1433503383508422657,RAILGUN_Project,ZK-SNARKs are a significant revolution... in the next 6 months. https://t.co/7uLmeqPZj2,66,9,10,2021-09-02
+147,2021-09-04 07:18:22+00:00,1434053206980530177,RAILGUN_Project,Did you say... RAILGUN phone app? https://t.co/VdVTULNbKi,92,18,23,2021-09-04
+148,2021-09-06 13:08:00+00:00,1434865970145677313,RAILGUN_Project,@shitcorns @hodlmodeon https://t.co/X1WCSnl87j works just fine,0,0,0,2021-09-06
+151,2021-09-07 12:41:43+00:00,1435221744491499521,RAILGUN_Project,"@MantaNetwork Without Hisham Galal, Emmanuel Goldstein or Kieran Mesquita?  Almost there :)",3,2,0,2021-09-07
+152,2021-09-11 16:06:52+00:00,1436722922823946242,RAILGUN_Project,"::BSCRAIL AIRDROP::
+The second snapshot for DEX liquidity providers will ONLY apply to Sushiswap LPs! 
+If you want to be eligible for the BSC Rail LP airdrop, Uniswapv3 and Balancer is NOT counted for the Sep30 snapshot.
+ So, either move your LP to Sushi, or stake!",41,12,13,2021-09-11
+153,2021-09-15 16:22:38+00:00,1438176440759963648,RAILGUN_Project,"::RAILGUN on POLYGON::
+Polygon RAIL (POLYRAIL) snapshot of RAIL stakers will be October 10th. One snapshot.
+If you are staking RAIL at this time you will receive 1:1 POLYRAIL DAO tokens.
+Staking: https://t.co/Rp4sMVaHWc",50,7,16,2021-09-15
+155,2021-09-21 20:00:18+00:00,1440405545547010048,RAILGUN_Project,"@ErinDana @Barn_Bridge @renprotocol @universe_xyz RAILGUN DAO has a staker only discord, join us! 
+Link in https://t.co/mz1U7NBqO7",2,3,1,2021-09-21
+156,2021-09-22 20:48:22+00:00,1440780033006571521,RAILGUN_Project,"Railgun's relayer network empowers DeFi users with anonymity for both private token transfers AND smart contract interactions. Relayers complete private transactions by paying gas fees, severing the link between users and addresses. Understand relayers https://t.co/My24mHy8ki",48,7,17,2021-09-22
+157,2021-09-27 16:58:17+00:00,1442534067925180419,RAILGUN_Project,"Join us tomorrow for our first DAO Community Call and AMA session!
+
+Speakers are project contributors:
+Kieran Mesquita-Chief Scientist
+Hisham Galal-Cryptographer
+Dylan-Integrations Engineer 
+
+To participate, join the other $RAIL stakers in the DAO Discord: https://t.co/TyV1EOKkqP https://t.co/IZbjCCgUzO",38,13,22,2021-09-27
+159,2021-09-28 18:39:03+00:00,1442921814485704707,RAILGUN_Project,"::BSC RAILGUN SNAPSHOT::
+The final chance to stake RAIL to receive the Binance Smart Chain airdrop is in 1 day!
+ One day left.
+RAIL is available in Metamask swap - the contract address is in our Twitter bio.
+Staking:  https://t.co/2OkKKPz68m",37,10,8,2021-09-28
+160,2021-09-29 17:31:41+00:00,1443267250442493952,RAILGUN_Project,@Melt_Dem An opportunity for a cryptographer for zk-snarks work here - dm'd.,7,1,0,2021-09-29
+161,2021-10-01 22:05:18+00:00,1444060881810198528,RAILGUN_Project,"I'm sure our $RAIL stakers will be happy to hear the second BSC RAIL airdrop snapshot is COMPLETE!
+
+Snapshot time was a huge success thanks to RAILGUN DAO members - over 24 million RAIL in the staking contract! 🙏
+
+(PS: The snapshot for the Polygon airdrop is in only ten days!) https://t.co/x7iFulNaxI",55,13,13,2021-10-01
+162,2021-10-06 04:45:42+00:00,1445611198750212096,RAILGUN_Project,"https://t.co/YBDaK9Kmy0
+
+Full presentation Q&amp;A with RAILGUN lead cryptographer, Hisham Galal in Las Vegas for DEFCON2021.",38,8,14,2021-10-06
+163,2021-10-07 07:12:02+00:00,1446010410289664008,RAILGUN_Project,https://t.co/cK766gjNnl,30,8,11,2021-10-07
+164,2021-10-09 17:05:06+00:00,1446884436444733442,RAILGUN_Project,"Polygon airdrop snapshot is in ONE DAY!
+That's...very soon!
+You can only be eligible for the POLYGON RAIL token airdrop if you are staking RAIL on Ethereum!
+You can stake here:
+https://t.co/RmLXE270w8",33,6,15,2021-10-09
+165,2021-10-10 09:09:35+00:00,1447127157126295559,RAILGUN_Project,@WesleyDunow Railygon..?,2,2,2,2021-10-10
+166,2021-10-11 07:38:00+00:00,1447466499099095047,RAILGUN_Project,"1. DAO Rewards to RAIL stakers will be coded in the coming week.
+Note: if you delegate your voting to someone, they will be the one to receive the rewards!
+Also, anyone in the unlocking process cannot receive rewards. 
+
+2. The Polygon airdrop snapshot is complete! Congrats all!",43,6,13,2021-10-11
+167,2021-10-13 17:02:12+00:00,1448333261424377856,RAILGUN_Project,"RAIL stakers are about to be airdropped Railgun DAO tokens on Polygon!
+We will update you in roughly 48 hours once the drop is complete. Privacy is coming to Polygon!
+#matic #privacy #polygon #PriFi https://t.co/2VtI8tKYee",64,14,18,2021-10-13
+168,2021-10-18 18:01:06+00:00,1450160022609022976,RAILGUN_Project,"The airdrop for POLYGON is complete!
+Congratulations to all stakers!
+
+We will announce the snapshot dates for SOLANA and POLKADOT chain Railgun DAO tokens soon!
+Those who have locked their stake will be eligible for these airdrops, as well as any extra treasury rewards.
+#airdrop",44,13,11,2021-10-18
+169,2021-10-19 16:19:39+00:00,1450496880438222848,RAILGUN_Project,@fanties_club @enver_eth @whale_rich_phil @FantomFDN We are in discussions with FTM team - they seem to be occupied the last few days so please ping them to hurry up on the Railgun partnership if you like!,5,2,0,2021-10-19
+170,2021-10-20 22:32:29+00:00,1450953094062243848,RAILGUN_Project,"@cemozer_ RAILGUN is doing exactly this: privacy on ETH, no second layer.",2,0,0,2021-10-20
+172,2021-10-21 11:23:49+00:00,1451147206895943689,RAILGUN_Project,"We were going to tweet about our RAILGUN ""Private Key Mansion Party"" in Lisbon but the tickets sold out in less then an hour. Enjoy!",28,5,6,2021-10-21
+173,2021-10-22 03:05:44+00:00,1451384245574717441,RAILGUN_Project,@WesleyDunow Yes we will share photos!,0,0,0,2021-10-22
+178,2021-10-23 10:14:32+00:00,1451854544216813568,RAILGUN_Project,Q4/Q1 RAILGUN technology predictions! https://t.co/ezFaNrwrtT,66,12,15,2021-10-23
+181,2021-10-24 19:44:41+00:00,1452360415925596161,RAILGUN_Project,"@zknark @webbprotocol @TornadoCash @ZKPanther @adamspiers We are working on something called ""RailgunConnect"" - a zkp protected walletconnect. We would love for discussions on key and wallet standards, please dm and we can make a group.",12,3,2,2021-10-24
+182,2021-10-25 03:22:52+00:00,1452475723373940737,RAILGUN_Project,"@HaileyLennonBTC @ForbesCrypto @ElectricCoinCo @cakewallet @warpaul @RobertFDonovan @SecretNetwork Hi Hailey! The Railgun team will make available their lead cryptographer and smart contract engineers for a phone call. We've deployed on ETH, BSC and Polygon already with Solana and Polkadot to come - smart contract privacy!",24,2,3,2021-10-25
+183,2021-10-26 17:07:06+00:00,1453045536488103936,RAILGUN_Project,"@monkeyontheloo2 @semenov_roman_ Currently deployed is only testing beta: that's why we are saying that we are about to deploy the final privacy contract. If you are talking about github commits, there's plenty, in fact the beta code is already deployed to the Ropsten and Eth nets so you can read it there too!",0,0,0,2021-10-26
+187,2021-10-28 15:08:53+00:00,1453740560192180233,RAILGUN_Project,"Please support this GREAT proposal to list us on Bancor!
+We need you now!
+https://t.co/YlJbhji9AX",32,4,10,2021-10-28
+188,2021-10-29 05:47:11+00:00,1453961592379379716,RAILGUN_Project,"Lead Cryptographer of RAILGUN, Dr. Hisham Galal, is a zk-snarks expert. Read his interview by HackerNoon here. #prifi #solidity #zkSNARKs https://t.co/s1Inmlnb1Z",25,0,5,2021-10-29
+193,2021-10-31 20:34:08+00:00,1454909574373281796,RAILGUN_Project,@kazumidapp There is a link in the governance section of https://t.co/R5O4778jnc !,2,1,0,2021-10-31
+199,2021-11-04 13:44:53+00:00,1456256135657234440,RAILGUN_Project,"::RAILGUN DAO on SOLANA::
+
+The snapshots for the RAILSOL ( Railana?) airdrops will be NOVEMBER 30 and JANUARY 15.
+Anyone who is staked continuously for both of these periods will receive 2 RAILSOL DAO tokens - for each 1 staked RAIL!",68,11,16,2021-11-04
+200,2021-11-12 10:43:52+00:00,1459109685131317248,RAILGUN_Project,$RAIL token is number 1 on CoinGecko trending... Again! https://t.co/fqtlPG2o85,90,15,12,2021-11-12
+201,2021-11-13 08:12:16+00:00,1459433921477705728,RAILGUN_Project,"@EatSleepCrypto Good question, there have been significant drop rewards for token holders in the past and in the future, check out the white paper https://t.co/R5O4778jnc",4,2,0,2021-11-13
+202,2021-11-18 18:42:04+00:00,1461404356129878018,RAILGUN_Project,@DeFi_Conference @StaniKulechov @AaveAave See you there!,6,0,0,2021-11-18
+203,2021-11-19 20:34:13+00:00,1461794968058613767,RAILGUN_Project,"NEWS: $RAIL token has been whitelisted on #BancorV3 !
+Congratulations to #bancor and #Railgun DAOs!",69,12,14,2021-11-19
+205,2021-11-20 07:10:18+00:00,1461955042601095170,RAILGUN_Project,"@monkeyontheloo2 Today!
+
+https://t.co/yBoNNBwZrM?",2,2,0,2021-11-20
+207,2021-11-26 16:56:41+00:00,1464276939049369600,RAILGUN_Project,"@Boston_Bitcoin_ @monkeyontheloo2 Yes, there will be options for this, but the ETH gas cost will also reduce significantly by mid next year, due to RAILGUN improvements and also as a result of ETH PoS &amp; upgrades.",1,1,0,2021-11-26
+208,2021-11-29 12:04:21+00:00,1465290532079357954,RAILGUN_Project,"RAILGUN Project now enjoys over 7,000 Twitter followers!
+You value financial privacy, and so do we. #Rail #priFi $Rail",68,6,16,2021-11-29
+209,2021-12-06 15:03:09+00:00,1467872242679771138,RAILGUN_Project,"::RAILSOL (SOLANA) AIRDROP::
+
+If you stake this month, and you are fully staked before and during January 15 -
+You will get 500 RAILSOL for every 1000 RAIL that you stake!
+This airdrop will be claimable to a Solana wallet when the Solana RAILGUN system goes live after February.",49,6,11,2021-12-06
+210,2021-12-08 07:39:19+00:00,1468485327517990917,RAILGUN_Project,RAIL token is being noticed by those who are paying attention! https://t.co/vjMqjDbZRs,41,3,15,2021-12-08
+216,2021-12-11 01:15:06+00:00,1469475796423036934,RAILGUN_Project,"The RAILGUN project developers will be speaking at @DeFi_Conference next week!
+December 18-19 in New York.
+Come along!  There will also be an RAILGUN-themed after party.
+#deficon #prifi #DeFi",57,4,18,2021-12-11
+217,2021-12-19 04:15:53+00:00,1472420397698093057,RAILGUN_Project,"RAILGUN code contributor Kieran Mesquita will speak at DefiCon NYC -
+""Privacy for DeFi: The Stakes Are Even Higher"" https://t.co/nzystVAx5m",31,0,8,2021-12-19
+218,2021-12-20 04:35:24+00:00,1472787697777332224,RAILGUN_Project,"Private and anonymous RAILGUN erc20 transfers, using relayers, were just demo'd LIVE on stage at DefiCon!",57,2,13,2021-12-20
+219,2021-12-21 02:53:24+00:00,1473124412991807491,RAILGUN_Project,"NO ""ROLL-UP""
+NO BRIDGE
+NO LAYER 2
+NO ""NODES""
+just RAILGUN.
+
+...Security is never a trade-off.",65,8,13,2021-12-21
+220,2021-12-28 12:56:28+00:00,1475812895040569345,RAILGUN_Project,Vote in the RAILPOLYGON DAO to deploy the RAILGUN privacy system on Polygon! https://t.co/Q4A1QYMKKi,51,5,18,2021-12-28
+222,2021-12-30 00:18:27+00:00,1476346910751428609,RAILGUN_Project,https://t.co/okJR9ScgOu,57,4,17,2021-12-30
+225,2021-12-31 00:03:04+00:00,1476705428767608839,RAILGUN_Project,"For the POLKADOT airdrop:
+You MUST stake RAIL tokens -today-!
+If you are staked for the snapshots (starting tonight) you will receive your full RAILDOT airdrop.
+Stake $RAIL here:
+https://t.co/Rp4sMVaHWc",40,11,9,2021-12-31
+227,2022-01-01 13:28:36+00:00,1477270534228348929,RAILGUN_Project,"@WillMcTighe @danboneh @benediktbuenz Good thoughts, the Railgun white paper goes into detail on these same points",1,1,0,2022-01-01
+229,2022-01-03 06:06:44+00:00,1477884111129767937,RAILGUN_Project,"@MooonRabbiit Ethereum only, yes!",4,1,0,2022-01-03
+230,2022-01-05 05:10:48+00:00,1478594809153540098,RAILGUN_Project,See you all there! https://t.co/fGVUpmJPyc,28,2,5,2022-01-05
+232,2022-01-06 18:04:11+00:00,1479151826482057216,RAILGUN_Project,@WesleyDunow @sethforprivacy We are big Monero fans. Check out https://t.co/R5O4778jnc the white paper might surprise &amp; shock you.,4,0,0,2022-01-06
+233,2022-01-07 00:58:31+00:00,1479256098125217792,RAILGUN_Project,"@crypto_condom If you rebuy and stake RAIL with the proceeds every week, it gets a lot more dramatic 😎",7,1,0,2022-01-07
+234,2022-01-09 04:12:11+00:00,1480029610783903744,RAILGUN_Project,Vitalik knows to be cautious of bridges! https://t.co/v4HE2rkWKw,32,3,6,2022-01-09
+235,2022-01-10 02:34:39+00:00,1480367454790426624,RAILGUN_Project,"@crypto_condom @HBARticus @0xCha0s That's right. However, the code is Twice-audited, and a public, testable beta is live, so there is very little mystery to the sensible viewer.",6,1,0,2022-01-10
+236,2022-01-11 00:54:08+00:00,1480704545722302465,RAILGUN_Project,"::RAILGUN (POLKADOT) #AIRDROP::
+There will be a second snapshot for the #Polkadot #DAO
+Even if you were not staking before,
+if you stake RAIL now - before February 28...
+You will get 500 RAILDOT for every 1000 #RAIL that you have staked!
+This will be claimable via a claim system.",53,14,14,2022-01-11
+238,2022-01-18 17:45:07+00:00,1483495682376093696,RAILGUN_Project,Anyone in Miami can visit the @badcryptopod booth - show this tweet to receive a free T-shirt (not available online) https://t.co/G3l7bqciZ1,30,6,5,2022-01-18
+243,2022-01-21 14:45:13+00:00,1484537573964120066,RAILGUN_Project,All over the interwebs. https://t.co/5jizt4yebC,38,4,7,2022-01-21
+244,2022-01-26 16:32:05+00:00,1486376405944668160,RAILGUN_Project,"@DCGco are now members of the RAILGUN DAO.
+#prifi 
+https://t.co/YZyZGTXo6F",16,2,4,2022-01-26
+247,2022-01-28 15:51:43+00:00,1487091024090468355,RAILGUN_Project,@BPDR07 @WesleyDunow Please read the FAQ on https://t.co/YA8Fvo4p8E :),1,0,0,2022-01-28
+248,2022-01-29 03:12:20+00:00,1487262308154101765,RAILGUN_Project,"@hosseeb @CoinDesk Send and swap stablecoins with privacy and build up a private balance? 
+You mean... RAILGUN???",8,1,3,2022-01-29
+251,2022-01-30 20:34:06+00:00,1487886862609903616,RAILGUN_Project,"@allseeingseneca 🐻🐻🐨🐻🐨🐻 🐻 Reject monke, embrace bears",5,0,0,2022-01-30
+253,2022-02-02 04:33:55+00:00,1488732388075053059,RAILGUN_Project,"Technology Roadmap for 2022
+#RAILGUN $RAIL #RailSOL #RailgunCats https://t.co/IarkPM2K4J",107,4,40,2022-02-02
+254,2022-02-03 07:06:27+00:00,1489133161099399168,RAILGUN_Project,"@inversebrah Over 75% of RAIL supply is fully staked locked for 30 days minimum.
+Already deployed privacy on 3 chains and usable.
+Treasury fully controlled by RAIL stakers.",11,3,2,2022-02-03
+258,2022-02-04 04:41:07+00:00,1489458976089509889,RAILGUN_Project,"@crypto_condom @cobie @tsu_kareta Let's do this, dm me",7,0,0,2022-02-04
+261,2022-02-07 14:27:49+00:00,1490693788238368768,RAILGUN_Project,"Join the RAILGUN Privacy Project community Thursday the 10th for a night of fun before @EthereumDenver #BUIDL week. 
+
+If you're attending #ETHDenver or a BUIDLer local to Denver DM us for the PROMO Code! 
+
+https://t.co/9ZRfyoHyfT
+
+#prifi #PrivacyMatters #ETHEREUM https://t.co/AkFTunraFG",53,11,12,2022-02-07
+262,2022-02-08 14:21:22+00:00,1491054553659183108,RAILGUN_Project,"@elusivcash Why not just join the Railgun team? 
+They would be happy to bring on new devs, and Railgun Privacy has already begun deploying on Solana.",0,0,0,2022-02-08
+263,2022-02-10 12:15:22+00:00,1491747618967404546,RAILGUN_Project,@cory We will be there! Giving a presentation at the event on Saturday morning!,6,0,1,2022-02-10
+267,2022-02-11 23:38:11+00:00,1492281844620009477,RAILGUN_Project,"@0xBaptiste It's always a good idea to have multiple privacy projects - users can use a few regularly, not just one.  Dex traders often move between sushi, uniswap, pancake and others depending on the day. Diversity of tools keeps the privacy movement strong.",11,1,0,2022-02-11
+268,2022-02-17 17:24:11+00:00,1494362050729893908,RAILGUN_Project,"@BarrySilbert Only 5% ??
+You can have your entire diversified portfolio hidden in RAILGUN.
+RAILGUN is onchain privacy without needing a different coin, different chain, nor a bridge.",44,6,4,2022-02-17
+269,2022-02-18 13:56:34+00:00,1494672188552761344,RAILGUN_Project,"@G8RTHEH8R @MetisDAO @monero Yes, the @RAILGUN_Project team would love to do an AMA. You can join one of the weekly community discord calls, or invite some of us to join a special event.",3,1,0,2022-02-18
+271,2022-02-21 14:37:17+00:00,1495769599920545808,RAILGUN_Project,"Blockchain &amp; DeFi Privacy Landscape 2022
+
+ #PriFi  #ZeroKnowledgeproof #Crypto https://t.co/hFxTWplaL2",66,7,25,2022-02-21
+272,2022-02-25 04:06:29+00:00,1497060407978209282,RAILGUN_Project,Very interesting on-chain data! https://t.co/kUC2ac6JID,13,4,6,2022-02-25
+273,2022-02-27 23:36:31+00:00,1498079629881622542,RAILGUN_Project,"New Partnership Announcement👇
+@ichifarm and @railgun_project have begun a collaboration on the development of DeFi systems and ongoing cross-promotion of authentic DeFi tools.
+
+🔥 Be on the lookout for more updates to come!
+
+#ichi #railgun https://t.co/hkBjO85GER https://t.co/kXMClxYVGw",66,5,15,2022-02-27
+274,2022-03-04 22:37:06+00:00,1499876617316880388,RAILGUN_Project,@Tetranode We cannot confirm nor deny.,14,0,2,2022-03-04
+275,2022-03-07 22:49:34+00:00,1500966918961999875,RAILGUN_Project,7/ for more details please email mail@railgun.org for an info pack or dm here.,7,0,0,2022-03-07
+282,2022-03-10 00:58:56+00:00,1501724249123348495,RAILGUN_Project,"Looking forward to a great discussion on privacy with folks rep'ing @DCGco, @CoinList, @nymproject @realMaskNetwork, @tsu_kareta and @camblockchains. https://t.co/xbwiGDIJX1",23,1,8,2022-03-10
+283,2022-03-15 04:22:31+00:00,1503587424059940866,RAILGUN_Project,"@SamouraiWallet For the people who first kicked off this technology, and who still are deep in the ecosystem, privacy never stopped being important. Encouraging these experts to speak loudly and educate others is our responsibility.",2,0,1,2022-03-15
+284,2022-03-19 02:36:03+00:00,1505010182723538946,RAILGUN_Project,https://t.co/Y7IdzwNaLK,31,3,9,2022-03-19
+285,2022-03-24 02:47:35+00:00,1506825022144344066,RAILGUN_Project,@rubiksCode @matthew_d_green STARKS have only limited (at most) usefulness for privacy systems. Their usefulness comes from scalability systems.,1,1,0,2022-03-24
+288,2022-04-04 14:56:46+00:00,1510994793836384266,RAILGUN_Project,"Poll:
+Like/Retweet if you want RAILGUN Privacy to deploy on @terra_money $luna / #Terra",149,15,57,2022-04-04
+289,2022-04-09 09:21:59+00:00,1512722480657403910,RAILGUN_Project,$RAIL is very popular on CoinGecko https://t.co/S8KanS1sXT,57,5,12,2022-04-09
+290,2022-04-11 09:07:21+00:00,1513443577031888902,RAILGUN_Project,@EdgarArout RAILGUN will hire teens with privacy passion,3,0,0,2022-04-11
+293,2022-04-12 09:04:14+00:00,1513805177769267201,RAILGUN_Project,@Uniswap Your email address does not work.,1,2,1,2022-04-12
+296,2022-04-13 23:46:31+00:00,1514389600956911618,RAILGUN_Project,@garysheng @zweinberg Freedom to transact - and privacy to freely exercise that freedom - is the cornerstone for protecting all other human rights .,3,0,0,2022-04-13
+297,2022-04-14 15:55:22+00:00,1514633420449611776,RAILGUN_Project,"@GassGuerilla @RasikhMorani It's part of the safest possible way to set up a zero knowledge proof encryption system, being used by RAILGUN",6,0,0,2022-04-14
+298,2022-04-16 05:11:02+00:00,1515196043553505280,RAILGUN_Project,https://t.co/h2AgFaX9Ks,86,10,22,2022-04-16
+300,2022-04-20 10:43:05+00:00,1516729156700057602,RAILGUN_Project,"@bittybitbit86 In the past there were a few groups who tried to build something similar to RAILGUN, but lacking the advanced cryptography knowledge necessary, they concluded it was impossible. With the benefit of recent science &amp; expert contributors RAILGUN is now possible.",13,1,5,2022-04-20
+301,2022-04-22 00:38:16+00:00,1517301727019474945,RAILGUN_Project,This author has some excellent insights into the RAILGUN app future. https://t.co/r2FqAZBBHs,37,1,11,2022-04-22
+302,2022-04-25 02:32:44+00:00,1518417699126214656,RAILGUN_Project,https://t.co/NZRdGkd2Xd,62,3,14,2022-04-25
+304,2022-05-01 19:09:26+00:00,1520842850685964288,RAILGUN_Project,"Governance proposals are active on RAILGUN DAOs for ETH, POLYGON, and BSC!
+The current proposal is to launch the ""RAILGUN v1.0""
+If you are staked, now's your chance to vote",68,7,20,2022-05-01
+305,2022-05-05 03:08:46+00:00,1522050644684664832,RAILGUN_Project,"Here is a list of candidates for new tokens that could be airdropped to create new DAOs.
+
+RAILAVAX
+RAILTERRA
+RAILNEAR
+RAILFTM
+RAILBCH
+RAILFLARE
+RAILTEZOS
+RAILEOS
+RAIL(???)
+
+Snapshot dates for the DAO tokens will be a ""surprise"".
+Unlocking / unstaked do not count as DAO members.",78,13,17,2022-05-05
+307,2022-05-07 12:48:39+00:00,1522921353011089409,RAILGUN_Project,"Privacy is for everyone.
+Do you mail letters without an envelope?",76,6,12,2022-05-07
+308,2022-05-08 05:58:39+00:00,1523180558070677509,RAILGUN_Project,"The governance proposal to deploy ""RAILGUN v1.0"" has passed!
+
+This RAILGUN version is NFT-compatible and has significant gas savings, plus it interacts well with relayer networks.
+
+Web apps created by the community will be linked from https://t.co/R5O4778jnc + others this week!",69,7,22,2022-05-08
+309,2022-05-10 12:34:13+00:00,1524004882927153152,RAILGUN_Project,Please submit your spiciest RAILGUN memes https://t.co/PzjCHnoJ9J,27,3,6,2022-05-10
+310,2022-05-12 09:51:50+00:00,1524688795114696704,RAILGUN_Project,"@BowTiedNightOwl Use a private wallet. Use a DEX. Problem solved.
+
+Interestingly though, Cryptopia exchange account holders had their coins returned to them after bankruptcy by court order.",5,0,1,2022-05-12
+311,2022-05-13 10:13:15+00:00,1525056573579505664,RAILGUN_Project,RAILGUN DAO Technology priorities in 2022. https://t.co/VnAEgb9eAY,57,5,18,2022-05-13
+312,2022-05-15 18:12:50+00:00,1525902039175380992,RAILGUN_Project,Journalists love RAILGUN https://t.co/tLdlQanjSq,35,2,9,2022-05-15
+313,2022-05-16 06:03:48+00:00,1526080960697090048,RAILGUN_Project,"@WesleyDunow @Crypto_McKenna @TornadoCash Sovereign individuals will use the most private transaction systems available to them, as visibility of finances immediately opens up threats from bad actors and the future (&amp; current)nation states will not have the relevance or ability to offer protection",9,1,0,2022-05-16
+318,2022-05-17 01:46:24+00:00,1526378569869316096,RAILGUN_Project,@lampiao_1 @WakuConnect What specifically do you want to verify?,0,1,0,2022-05-17
+320,2022-05-19 05:47:17+00:00,1527163966023081984,RAILGUN_Project,"@BTChip @thejohalfiles @Dude_Diligenced @Ledger_Support @Trezor @_pgauthier @P3b7_ @EricLarch The problem isn’t lack of eddsa support - it was that zksnark circuits run algorithms on top of BabyJub curve, this curve isn’t standard, there are even no precompiles for it on Ethereum. So there is an -urgent- need for Ledger to add BabyJub curve to their supported curves.",5,2,0,2022-05-19
+323,2022-05-21 05:27:57+00:00,1527883877401829376,RAILGUN_Project,"@TokenBrice Not going to say too much, but you should look closely at $RAIL",20,2,1,2022-05-21
+324,2022-05-22 04:26:45+00:00,1528230863275642880,RAILGUN_Project,@ChrisBlec 32 eth = 32 eth,6,1,1,2022-05-22
+326,2022-05-23 05:31:42+00:00,1528609595551232000,RAILGUN_Project,@dendisuhubdy I have good news for you.,1,0,0,2022-05-23
+329,2022-06-10 03:10:13+00:00,1535096972947988482,RAILGUN_Project,"#HUGE #BREAKING #NEWS: Private, anonymous swaps are LIVE on ETHEREUM for the first time ever, via RAILGUN v1.0.
+Use the Railway Wallet app today to see for yourself, and nobody will be able to see your transaction history: https://t.co/5sPkcNec6J &lt;---- #prifi #zkp https://t.co/wudugb1nTa",156,8,42,2022-06-10
+336,2022-06-12 00:52:22+00:00,1535787057498296320,RAILGUN_Project,"@lampiao_1 @Dude_Diligenced @nansen_ai Actually in a Railgun transfer, you cannot even see which token is being transferred.",5,0,0,2022-06-12
+337,2022-06-13 18:03:26+00:00,1536408921333809153,RAILGUN_Project,"@AlyssaTsai RAILGUN has built private &amp; anonymous defi, check Railway.xyx to see it working. Still building, always building on this great project.",13,0,1,2022-06-13
+342,2022-06-14 11:16:20+00:00,1536668860455301126,RAILGUN_Project,@BrendanEich @WesleyDunow @jamesmudgett @_CarlosAce_ it was great to connect at the Radkl event. The team look forward to chatting with you and @jamesmudgett about potential integrations.,7,0,0,2022-06-14
+345,2022-06-15 19:40:02+00:00,1537158004784697344,RAILGUN_Project,"@Melt_Dem @Rachelwolf00 Invisible atoms at https://t.co/5sPkcNec6J - fully live and working anonymous dex trading on Ethereum, with all of the liquidity of uniswap &amp; sushi",13,1,2,2022-06-15
+349,2022-06-17 18:53:43+00:00,1537871128512831488,RAILGUN_Project,"@AlyssaTsai @tobydoyhowell You also need a logo 
+Logo + Capital
+Finished",1,0,0,2022-06-17
+352,2022-06-18 20:24:03+00:00,1538256248147255296,RAILGUN_Project,@kurtpan666 Interesting!,3,0,0,2022-06-18
+362,2022-06-19 02:34:43+00:00,1538349529602437122,RAILGUN_Project,"@AlyssaTsai And Eth transactions can never be deleted.
+Until the end of time.
+(We can help make them invisible though.)",15,0,1,2022-06-19
+365,2022-06-20 04:20:37+00:00,1538738568235040768,RAILGUN_Project,"@shumochu @_weidai When it happens, RAILGUN will be the first protocol to implement it.",17,0,1,2022-06-20
+370,2022-06-23 00:20:21+00:00,1539765267080822784,RAILGUN_Project,"@btcmaxinews @SamouraiWallet That's true!
+For Ethereum, try out https://t.co/ntIAzHbFBb for similar privacy.",13,1,5,2022-06-23
+371,2022-06-25 13:09:09+00:00,1540683515938762752,RAILGUN_Project,@reegannotraygan We need constitutional protections for privacy in every country.,21,0,5,2022-06-25
+373,2022-06-26 00:55:31+00:00,1540861280156004354,RAILGUN_Project,"@MJthePopstar @StarkWareLtd @zksync @aztecnetwork RAILGUN is not a roll-up! It's zk snsrks on base layer ETH, for privacy and anonymity (not scalability) #zkp #infosec",13,2,5,2022-06-26
+375,2022-06-27 06:24:37+00:00,1541306487322312704,RAILGUN_Project,@alexbosworth We are solving this for Ethereum and related currencies. Anonymity systems need a bigger hold,19,0,6,2022-06-27
+376,2022-06-28 09:40:07+00:00,1541718076810743808,RAILGUN_Project,"Railway Wallet is live now for fully anonymous and private transfers and even anonymous DEX trades. It uses RAILGUN, so your address is hidden when you trade.
+https://t.co/ntIAzHcdqJ check it out and try it. Audited by Trail of Bits. #rail $rail",78,3,29,2022-06-28
+377,2022-06-29 10:30:28+00:00,1542093132644651009,RAILGUN_Project,@letsraave Aave: the host that can boast the most ghost,14,0,7,2022-06-29
+378,2022-07-03 05:39:51+00:00,1543469550322470912,RAILGUN_Project,"@letsraave We love to lend
+We love to deposit
+But It's time now my friend
+...to come out the closet.
+Weve trod through the deserts,
+Sahara, Mojave:
+It's never been dryer
+Than missing a raave.
+We love you, raave
+Let our hearts be healed,
+While our Aave LP
+pumps out our yield.
+These...",19,1,5,2022-07-03
+383,2022-07-04 16:58:15+00:00,1544002664144388096,RAILGUN_Project,"@0xDoing If you want to avoid people using this against you, you can use https://t.co/ntIAzHtgsJ privacy wallet. It uses RAILGUN addresses (0zk addresses)",20,1,6,2022-07-04
+384,2022-07-05 19:02:40+00:00,1544396358718992384,RAILGUN_Project,It was our pleasure to chat live with InternDAO about how to trade on DEX with anonymity and privacy! https://t.co/ai5G4t3uYe,46,1,18,2022-07-05
+385,2022-07-07 11:54:49+00:00,1545013462958755840,RAILGUN_Project,@KyleSamani https://t.co/ntIAzHcdqJ &lt;-- correcting typo,12,0,0,2022-07-07
+389,2022-07-08 08:57:01+00:00,1545331107738132480,RAILGUN_Project,"@bitco1ner @MJthePopstar @aztecnetwork @crypto_condom The relayer system is a brand new system and  gets better and smoother every day!
+With regards to today, even waiting a few minutes for a relayer to connect is still better than 6 hours for a layer 2 batch!",10,1,0,2022-07-08
+390,2022-07-09 13:17:51+00:00,1545759136092422147,RAILGUN_Project,@tsu_kareta @jaosef @bitco1ner @MJthePopstar @aztecnetwork @crypto_condom For anything RAILGUN you can DM @tsu_kareta,15,0,0,2022-07-09
+391,2022-07-11 02:37:46+00:00,1546322831050346496,RAILGUN_Project,@Brio2chris @WhaleMultiverse @Movez_app https://t.co/3klE10ZiVq,14,1,0,2022-07-11
+394,2022-07-12 17:31:12+00:00,1546910057010724865,RAILGUN_Project,@Daivinity @mesquka  and @therealjmj  for creating the ability to buy and sell DAI anonymously and privately with zk!,16,0,2,2022-07-12
+396,2022-07-13 00:00:12+00:00,1547007953328553984,RAILGUN_Project,"@hoprnet What do you think about this @waku_org  and @ethstatus , sounds like a job for the privacy gang",19,0,3,2022-07-13
+399,2022-07-15 11:53:18+00:00,1547912187066580993,RAILGUN_Project,@AlexCryptofra There will be a new roadmap released next week!,13,1,5,2022-07-15
+403,2022-07-17 21:44:07+00:00,1548785647091126273,RAILGUN_Project,@free2zcash https://t.co/ntIAzHbFBb &lt;---,14,0,0,2022-07-17
+404,2022-07-20 00:51:26+00:00,1549557559836680194,RAILGUN_Project,@MihailoBjelic @0xPolygon Privacy through RAILGUN,24,0,0,2022-07-20
+405,2022-07-21 09:55:28+00:00,1550056858601267200,RAILGUN_Project,@portalsfyi Guest list / RAILGUN wristband needed for entry!,14,0,0,2022-07-21
+406,2022-07-22 00:14:11+00:00,1550272961763872768,RAILGUN_Project,@superpatx_ @libevm Your necklace is on-chain,11,1,1,2022-07-22
+409,2022-07-23 15:10:52+00:00,1550861006490009600,RAILGUN_Project,"@tradingoooracle You can use it right now, using the Railway Wallet app :. https://t.co/ntIAzHbFBb &lt;---",13,0,5,2022-07-23
+412,2022-07-24 08:57:11+00:00,1551129356784832519,RAILGUN_Project,@AvartaNetwork @EthCC Thanks for joining us!,17,0,1,2022-07-24
+413,2022-07-25 17:16:49+00:00,1551617481567076352,RAILGUN_Project,https://t.co/l964K1yzV2,54,0,19,2022-07-25
+414,2022-07-26 13:49:01+00:00,1551927573730529281,RAILGUN_Project,"Join us along with @SecretNetwork and several other #privacy projects in today's Twitter space at 4pm UTC.
+
+We'll be talking all things #PriFi and the importance of on-chain privacy. https://t.co/sccL69KeAG",50,0,6,2022-07-26
+415,2022-07-27 20:20:45+00:00,1552388544718688266,RAILGUN_Project,Join us for an AMA with @0xPolygonNews! https://t.co/ODhldnmbPJ,46,0,8,2022-07-27
+416,2022-07-28 20:16:18+00:00,1552749812658970625,RAILGUN_Project,"@iansagstette Only if you ""withdraw"" or leave the privacy system, which is not needed with Railgun :)",1,2,1,2022-07-28
+418,2022-07-31 17:31:00+00:00,1553795378130075649,RAILGUN_Project,@lawmaster @KentoInami If you create a zk address with RAILGUN you can send and receive usdc/usdt/dai with anonymity and total privacy (this is new technology),26,0,0,2022-07-31
+420,2022-08-05 03:54:04+00:00,1555401725992996864,RAILGUN_Project,@VitalikButerin Zk-privacy on Ethereum cannot be overlooked.,23,1,3,2022-08-05
+422,2022-08-06 03:16:34+00:00,1555754676800421888,RAILGUN_Project,"@xi27pox @yaish_aviv @Avivz78 Yes it has.
+
+https://t.co/rzBhp5JbFt",1,2,0,2022-08-06
+423,2022-08-08 23:13:21+00:00,1556780633946456079,RAILGUN_Project,"🧵 Here's an #Etherscan of this implemented in the wild:
+
+https://t.co/JmF8mmIPWK
+
+As can be seen here, this construction solves the transaction graph issue in a #Decentralized way.",31,2,4,2022-08-08
+434,2022-08-09 14:49:17+00:00,1557016170385006592,RAILGUN_Project,"Read more about RAILGUN here: https://t.co/KurzE6A1i3
+
+And try the https://t.co/ntIAzHbFBb wallet.",24,1,6,2022-08-09
+435,2022-08-14 01:50:20+00:00,1558632080329904134,RAILGUN_Project,"@realstevenli RAILGUN is a system that wallets can use - the first wallet to use RAILGUN is https://t.co/5sPkcNec6J so just go there and create a new wallet, then you can either send your funds to your new address or import your old seed. Railway Wallet works on web, no need for any installs.",4,0,1,2022-08-14
+437,2022-08-15 04:43:26+00:00,1559038030547140608,RAILGUN_Project,"Two milestones:
+Over $2m in locked value is now in 0zk addresses using RAILGUN!
+
+and here on Twitter, 
+14,000 followers!",93,6,18,2022-08-15
+438,2022-08-16 14:59:02+00:00,1559555337711063040,RAILGUN_Project,https://t.co/JIg4ORHoFO,43,3,13,2022-08-16
+439,2022-08-18 16:53:49+00:00,1560309002499948544,RAILGUN_Project,Financial privacy is essential for all other privacy. https://t.co/Lk7IX9OWFk,48,2,9,2022-08-18
+440,2022-08-19 20:25:13+00:00,1560724588618973184,RAILGUN_Project,"@VirgeenaHurts @mesquka @DeFi_Conference These are humans born of the womb :) 
+You can meet them if you like or see their videos online.",0,1,0,2022-08-19
+450,2022-08-20 16:24:46+00:00,1561026466108026881,RAILGUN_Project,"@0xdirac You can follow this account (RAILGUN) for zero knowledge Ethereum addresses. 0zk.
+The RAILGUN GitHub also includes a lot of cutting edge research.",9,2,1,2022-08-20
+453,2022-08-21 20:25:40+00:00,1561449479274135552,RAILGUN_Project,@0xWittgenstein No no no no,2,0,0,2022-08-21
+455,2022-08-22 08:51:57+00:00,1561637285380395008,RAILGUN_Project,"Stealth addresses?
+0zk addresses are stealth addresses!
+You can make them using any wallet that uses RAILGUN SDK - including Railway https://t.co/5sPkcNeJWh
+Then trade without any whale alert.",84,2,27,2022-08-22
+459,2022-08-23 16:04:46+00:00,1562108595755536387,RAILGUN_Project,We're looking forward to a great recording! https://t.co/Ag0EDmcXDE,44,4,6,2022-08-23
+462,2022-08-24 00:57:03+00:00,1562242549615841282,RAILGUN_Project,"Have you heard of this extremely cool new tool called ""Railway Wallet""?
+
+It's only been live for about ~60 days
+
+It's here: https://t.co/5sPkcNeJWh 
+comment if you liked it before it was cool",75,9,13,2022-08-24
+464,2022-08-25 03:35:39+00:00,1562644848922226690,RAILGUN_Project,"@NeerajKA If you put your dirty socks into a bigger basket of people's socks, that does not mean you've done any laundry.",5,0,0,2022-08-25
+465,2022-08-28 07:57:12+00:00,1563797835489120257,RAILGUN_Project,@BlockEnthusiast Only a decentralized community would do that,0,0,0,2022-08-28
+467,2022-08-29 19:13:46+00:00,1564330488206168072,RAILGUN_Project,"RAILGUN contributors @therealjmj &amp; @tsu_kareta joined @iansagstette on the @ZecHub podcast to talk #DeFi and #Crypto privacy. 
+
+#PriFi https://t.co/QC3hnqLQ2w",74,3,20,2022-08-29
+468,2022-09-01 14:40:22+00:00,1565348848297422851,RAILGUN_Project,@0xa1e @Rook @DeFi_Conference REV reply extractable value,1,0,0,2022-09-01
+469,2022-09-02 12:41:37+00:00,1565681351973818368,RAILGUN_Project,@BethanCantrell @EFF https://t.co/DYpaXxXgzd,3,0,1,2022-09-02
+476,2022-09-03 12:50:21+00:00,1566045934341201921,RAILGUN_Project,https://t.co/890OGtblOJ,58,7,9,2022-09-03
+480,2022-09-04 06:05:14+00:00,1566306373973180416,RAILGUN_Project,@Curious__J Check out the T-Mobile user home address/name/number/ID leak too. Nearly a hundred million people got leaked &amp; these are just what we somehow end up hearing about.,6,2,0,2022-09-04
+481,2022-09-08 03:22:55+00:00,1567715075884216324,RAILGUN_Project,"* Railway Wallet mobile app is now on Android! *
+Privacy for Ethereum has come to your smartphone.
+Congratulations to the Railway Wallet team for being successful adopters of RAILGUN tech.
+(DM us of you want to add RAILGUN privacy to your wallet app too!)
+https://t.co/v4jh6Uj9oS",92,27,29,2022-09-08
+482,2022-09-12 16:31:41+00:00,1569363125291610112,RAILGUN_Project,"*Stablecoins*
+ are the ""killer app"" of crypto. On EVM chains, they are the most used smart contracts by far. And the ""killer app for stablecoins"" is RAILGUN privacy. No other system allows the same security and freedom while also sealing your balance, for your eyes only.",72,9,18,2022-09-12
+483,2022-09-13 07:13:59+00:00,1569585163507765250,RAILGUN_Project,@daerealstix @CryptoGuy408 I think you mean @Railway_xyz !,2,2,0,2022-09-13
+484,2022-09-14 05:15:52+00:00,1569917828454842368,RAILGUN_Project,"@xtinacomputes What if I told you that an fearsome man you most recently rejected at the bar worked at one of these companies and now had your home address, phone number, and knew exactly what times you were using your home video streaming services and your GPS at different times of the day?",27,3,5,2022-09-14
+486,2022-09-16 18:07:55+00:00,1570836896565329921,RAILGUN_Project,"This headline does not give credit to the independent Railway team (Railway is not released by RAILGUN DAO) but it's great to see the publicity!
+#prifi #RAILGUN @Railway_xyz https://t.co/LS3qUZENEU",48,15,9,2022-09-16
+488,2022-09-18 02:39:22+00:00,1571327995595608065,RAILGUN_Project,"@LilNonfungible Man, do we have good news for you!",34,5,0,2022-09-18
+490,2022-09-21 16:14:13+00:00,1572620220732436481,RAILGUN_Project,@slicedbrand @enver_eth @Railway_xyz @CoinDesk I think you mean @tsu_kareta  😉,2,1,0,2022-09-21
+491,2022-09-22 09:16:37+00:00,1572877516083466241,RAILGUN_Project,@punk6529 🥷,10,2,0,2022-09-22
+492,2022-09-23 16:42:40+00:00,1573352158602620930,RAILGUN_Project,@0xfoobar @HushHushApe https://t.co/ntIAzHcdqJ interacts with dex smart contracts using zk-snarks privacy (the RAILGUN contract),6,1,0,2022-09-23

@@ -1,0 +1,2636 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-09 23:45:43+00:00,1215419411269476354,joinFIO,"REMINDER ⚠️
+
+If you have received any FIO Addresses or Domains, you have until THIS SUNDAY (1/12) to link to a wallet. Head to https://t.co/5DsBQ7oALA, login, and check ""Link Wallet"" in the header - if it's red, you have steps to complete.",18,4,10,2020-01-09
+2,2020-01-10 19:38:27+00:00,1215719572940017664,joinFIO,"@anindyabaidya If you went through the KeepKey process to claim your FIO Address, you should be fine.",0,1,0,2020-01-10
+3,2020-01-14 23:06:29+00:00,1217221477868552192,joinFIO,"We have a few remaining giveaway winners to announce for the FIO Address giveaways with @GuardaWallet, @Infinito_Ltd, and @QtumOfficial Foundation:
+
+einfinita:qtum
+jaksone:guarda
+alya:infinito
+
+DM us when you're available!",11,1,4,2020-01-14
+4,2020-01-15 21:01:19+00:00,1217552366318190592,joinFIO,"@MoooonTo @AtomicWallet @unstoppableweb We're not a domain provider, we're a broad usability protocol that overlaps on the wallet naming side (we don't do websites). That being said, if you want a decentralized domain name, many of these projects (as well as @HNSalliance) are good candidates to look at.",4,1,0,2020-01-15
+5,2020-01-16 18:50:20+00:00,1217881791865835524,joinFIO,Excited to welcome @Changehero_io as our newest FIO Affiliate Member. They're a fantastic new instant exchange with low fees - check them out! https://t.co/EvGNQnz0sI,8,0,5,2020-01-16
+6,2020-01-17 20:11:40+00:00,1218264646127218688,joinFIO,Starting soon... https://t.co/JT7DIZr0Am,23,2,8,2020-01-17
+7,2020-01-22 21:57:46+00:00,1220103286876848128,joinFIO,@dudek3322 Coming soon! We'll be starting a series of articles tomorrow that will begin laying down the steps.,1,0,0,2020-01-22
+8,2020-01-23 21:47:19+00:00,1220463042183532545,joinFIO,"Road to Mainnet: Looking Back and Pushing Forward
+
+We're excited to start our Road to Mainnet series - more content, AMAs, community opportunities, etc. It's going to be an exciting next few months with a lot of hard work ahead of us!
+#FIOMainnet
+
+https://t.co/fGyUVSh1DD",19,0,9,2020-01-23
+9,2020-01-29 20:38:01+00:00,1222619930656264193,joinFIO,"We took some time last week to record a new demo of the FIO Protocol, walking through the process of registering a FIO Address and making a FIO Request. This demonstration features in-progress integrations on top of our running testnet!
+
+https://t.co/A4tsvvTjHw",14,1,7,2020-01-29
+10,2020-01-30 21:21:43+00:00,1222993318377705472,joinFIO,"Road to Mainnet: The Symbol
+
+FIO Addresses will now use a @ symbol as a delimiter (username@domain) instead of a : for mainnet launch!
+
+This decision involved weeks of discussions with multiple parties - we summarized the conversations below:
+#FIOMainnet
+
+https://t.co/hhH80JE8RJ",26,2,6,2020-01-30
+11,2020-02-05 22:02:22+00:00,1225177873167699968,joinFIO,What's the bigger annoyance in crypto right now?,7,1,5,2020-02-05
+12,2020-02-06 22:35:56+00:00,1225548707891961858,joinFIO,"Got questions? We're excited to host our first AMA with Managing Director, @lukestokes, next Thursday (the 13th) at 11am PST/1pm EST/7pm UTC. Comment with a question and the hashtag #FIOAMA. 
+
+We're hosting on our telegram at https://t.co/NmSqyNbTV5
+
+Top 3 questions win 20 USDC! https://t.co/vZ9jgDpKyj",21,32,7,2020-02-06
+13,2020-02-10 21:44:54+00:00,1226985416881913856,joinFIO,Awesome questions so far - keep them coming - 3 more days to submit a question! https://t.co/dCrkhVOnRC,6,0,2,2020-02-10
+14,2020-02-12 22:32:00+00:00,1227722045351284736,joinFIO,Which design direction do you prefer?,2,0,1,2020-02-12
+16,2020-02-13 16:32:51+00:00,1227994049425989632,joinFIO,2.5 hours left to go before our AMA starts - join us at https://t.co/NmSqyNtuMD!,3,0,0,2020-02-13
+19,2020-02-14 05:30:09+00:00,1228189664604905472,joinFIO,"@lukestokes We had 3 winners - one from Telegram, other two were from Twitter - @NguyenQ32225128 and @toanphamhd - DM me on Twitter.",4,2,1,2020-02-14
+21,2020-02-15 22:53:25+00:00,1228814599270494208,joinFIO,"At @EthereumDenver, David is chatting about identity along with moderator @tayvano_ from @MyCrypto! (Come say hi if you're around) https://t.co/w2XwNhQaoY",11,1,2,2020-02-15
+22,2020-02-17 17:44:12+00:00,1229461558276657152,joinFIO,@ArafatKabir Skills + Passion + Timing,1,0,0,2020-02-17
+23,2020-02-19 00:33:09+00:00,1229926863503425537,joinFIO,"@Timccopeland @Techmeme The only reasonable solution we found to this problem (which is basically Zooko's Triangle) is to abandon a static mapping system, and have a ""just-in-time"" mechanism which only shares a public address with one authorized counterparty at a time. It comes at a small usabiliy cost.",1,0,0,2020-02-19
+26,2020-02-20 22:13:30+00:00,1230616492485439491,joinFIO,Looking for an overview of the FIO Protocol? We had a great interview with Adam West at @CardRates about the problems we're trying to solve. https://t.co/t91MaUZ353,5,0,1,2020-02-20
+27,2020-02-21 22:39:40+00:00,1230985466763071488,joinFIO,This week we've been working on getting a structured repository of information for the community. We're happy to launch our official knowledge base over at https://t.co/5kuYdtAnnE - the new home of FIO Protocol-specific information (which includes all Roadmap sections and more). https://t.co/fzoob3XGNR,9,0,1,2020-02-21
+28,2020-02-27 22:15:09+00:00,1233153624160649216,joinFIO,"Road to Mainnet - Our First Block Producer Meeting!
+
+For this week, we've recorded the first virtual Block Producer meeting for the FIO Protocol. It's a long one, but you'll get a  behind-the-scenes look at how we're working towards mainnet.
+
+#FIOMainnet
+
+https://t.co/C1iG9KnWKH",7,0,2,2020-02-27
+29,2020-02-28 19:06:09+00:00,1233468449260789760,joinFIO,Thanks for the honor 😀 - can't wait to get mainnet out there and live for the world! https://t.co/HzE36y4ys7,5,0,0,2020-02-28
+30,2020-03-09 20:57:27+00:00,1237120338091102209,joinFIO,"Well, rough weekend in the markets, but the FIO Protocol is still chugging along! We had another BP Meeting last week, here's the full video:
+#FIOMainnet
+
+https://t.co/U0hlF2xswt",9,0,0,2020-03-09
+31,2020-03-10 19:08:55+00:00,1237455411378176000,joinFIO,"Thank you to everyone who chose to donate their remaining funds from the #FIO Address Presale. We have given 3,806 USDC to @givecrypto - connecting people around the world into the open financial system made possible with crypto! @brian_armstrong 
+
+https://t.co/WCP5MLtXwk",8,3,1,2020-03-10
+32,2020-03-16 16:51:05+00:00,1239595050993987584,joinFIO,"Well, we may all be under lockdown, but we're pushing forward with the FIO Protocol! @lukestokes recorded a quick session with Dapix's Director of Security, highlighting some of the toolings he's developed to protect and audit the chain.
+
+https://t.co/OmyijIlhDP",9,0,0,2020-03-16
+33,2020-03-23 03:33:19+00:00,1241931001720213504,joinFIO,"One more pre-mainnet BP Meeting in the bag. Crypto may soon be taking mainstage again, but not just as a speculative gamble this time. This time, as the future of money is placed into question, crypto must be ready for the masses. #FIO is here to help.
+
+https://t.co/82w2tOHwJA",4,0,1,2020-03-23
+35,2020-04-02 16:39:14+00:00,1245752664794660864,joinFIO,"@dudek3322 We're announcing more soon 😉
+https://t.co/l6wR9rl4GA",1,0,0,2020-04-02
+36,2020-04-07 21:51:27+00:00,1247643175298011136,joinFIO,"Here's the big one 🎆
+The #FIO Protocol is live, activated, and open-sourced to the community. It's time for #MassUsability. 
+
+Check out the blog about:
+✅ FIO Address and Domain Registration
+✅ Open Source
+✅ What you can do now, and what's coming soon
+
+https://t.co/N086V5aZBY",15,1,7,2020-04-07
+37,2020-04-13 19:39:42+00:00,1249784345327316992,joinFIO,"We're back 😀, thanks @Twitter - appreciate the fix for our account. Back to bringing mass usability to blockchain!",13,1,1,2020-04-13
+38,2020-04-14 15:37:46+00:00,1250085849426849792,joinFIO,"We didn't get a chance to retweet this earlier, but @BradSpannbauer at @TheCurrencyHub wrote a great article about why FIO matters for the future of adoption! https://t.co/1atyL2UL10",4,0,2,2020-04-14
+42,2020-04-16 17:28:03+00:00,1250838376447479815,joinFIO,"@btsfav @lukestokes This actually looks promising, we'll play around with it.",1,0,0,2020-04-16
+44,2020-04-17 22:09:55+00:00,1251271698982133760,joinFIO,"If you haven't had a chance to watch our new explainer video, we created a new version that goes a little more in-depth into the FIO Protocol functionality:
+
+https://t.co/M3WSr7RgEu",3,0,0,2020-04-17
+45,2020-04-29 21:17:20+00:00,1255607123423027200,joinFIO,Awesome https://t.co/7aHo8Gddzf,1,0,0,2020-04-29
+46,2020-05-02 21:36:16+00:00,1256699048980930560,joinFIO,"Work for a blockchain-related company or protocol team? FIO is here to help you, and your users, have an easier experience using crypto. 
+
+📍 Get FIO Addresses for your users on a custom domain, paid for by us for the first year (details below).
+
+https://t.co/33kVV9kASu",9,0,1,2020-05-02
+47,2020-05-05 16:58:09+00:00,1257716223720054793,joinFIO,"We're doing a joint AMA with our friends at @BankToTheFuture and @EdgeWallet. Come ask questions to @lukestokes, @SimonDixonTwitt, and @paullinator on Thursday, May 7th, starting at 10am/7am (eastern/pacific). 
+
+Join us at https://t.co/0PketeUy27 https://t.co/yxS38vaQk5",16,0,6,2020-05-05
+48,2020-05-06 22:49:12+00:00,1258166954713464834,joinFIO,Coming tomorrow - make sure to join! https://t.co/xhapu8Mz7o,4,0,0,2020-05-06
+49,2020-05-07 13:53:38+00:00,1258394563514789888,joinFIO,"About 5 minutes left, jump on the live stream, we'd love to have you! https://t.co/gcUuNFCJkq",3,0,0,2020-05-07
+53,2020-05-08 20:19:41+00:00,1258854103280570368,joinFIO,"We're doing a special joint AMA with our friends at @EdgeWallet and @Qtum - ask a question with the hashtag #QtumFIOEdgeAMA, we'll award the top 3 questions with 10 QTUM each.
+
+Join the AMA on May 14th, 5pm UTC, for a special giveaway opportunity!
+https://t.co/rOWk1mhKFN
+
+#Qtum https://t.co/eCN1XW3KNU",83,151,53,2020-05-08
+54,2020-05-11 19:30:52+00:00,1259928984097222656,joinFIO,Happy Halving Day! #BitcoinHalving2020,7,0,1,2020-05-11
+56,2020-05-13 17:25:55+00:00,1260622313839448064,joinFIO,"Little less than 24 hours to ask a question - top 3 questions wins 5 QTUM each, more to come during the actual AMA. https://t.co/sSWfibVdzY",1,0,0,2020-05-13
+57,2020-05-14 16:00:44+00:00,1260963264579506177,joinFIO,One more hour - make sure to join the Telegram a little early to get set up. https://t.co/sSWfibVdzY,5,0,1,2020-05-14
+59,2020-05-15 23:53:35+00:00,1261444649337499648,joinFIO,"Day 1 winner: bheghe@qtum! No public addresses used, no questions about the amount to send over, no issues around selecting the right token. Join in the daily giveaway for 5 QTUM with @qtum and @EdgeWallet, one new winner a day until 5/29. https://t.co/yt9uHyuOeV",8,2,5,2020-05-15
+60,2020-05-17 00:16:55+00:00,1261812907026690048,joinFIO,"Day 2 winner: gamalie@qtum, enjoy your QTUM! Keep on going with new requests every day with @qtum and @EdgeWallet! Your FIO Address works with any coin or token in your wallet. https://t.co/cCxfw3wmdx",2,2,0,2020-05-17
+61,2020-05-18 18:30:37+00:00,1262450537368150018,joinFIO,@cryptos4ever @qtum @EdgeWallet @coinkit_ Click on that banner,1,1,0,2020-05-18
+64,2020-05-19 02:02:08+00:00,1262564165085851649,joinFIO,Day 4 winner: mamamia@qtum. Keep on playing! https://t.co/KR1OWCtRYM,3,1,0,2020-05-19
+66,2020-05-20 02:05:24+00:00,1262927371470069761,joinFIO,"Day 5 winner: whalecrypto@qtum, get your free FIO Address on @EdgeWallet  and play along! https://t.co/NUPQtf7P4s",7,1,1,2020-05-20
+67,2020-05-22 02:05:45+00:00,1263652238225846272,joinFIO,"Well, we missed a day due to...user error 😒. So here’s Day 6 winner: dumira@qtum! https://t.co/S2TTlR63Q1",3,1,0,2020-05-22
+70,2020-05-23 04:16:59+00:00,1264047649360998401,joinFIO,"Day 8 winner: embrio@qtum. We’re about a week out from finishing up, keep on sending requests! https://t.co/370BZnCf4v",2,1,0,2020-05-23
+71,2020-05-24 03:22:22+00:00,1264396294585323522,joinFIO,"Day 9 winner: freya@qtum, have a great weekend! https://t.co/WW8EvMJL90",1,1,0,2020-05-24
+72,2020-05-25 04:21:51+00:00,1264773651791937539,joinFIO,Day 10 winner: pirates@qtum. Only a few days left to play along! https://t.co/e0yKv0AOLm,4,1,1,2020-05-25
+73,2020-05-26 21:13:46+00:00,1265390694643859456,joinFIO,"We got some impressive tools coming out of the community! Thanks to @EosAloha for building some amazing resources:
+
+Fees Tool: https://t.co/kKyxoc0A9p
+BP Research Portal: https://t.co/OlwHbPwdr6
+
+We'll put these in our knowledge base as well, let us know what you're working on!",8,0,2,2020-05-26
+74,2020-05-27 19:31:29+00:00,1265727344125161472,joinFIO,"Want to see the FIO Protocol in use? We recorded a live demonstration between @EdgeWallet and @GuardaWallet, using a FIO Request to send #Ethereum without either user ever having to touch a public address - two different wallets on two different devices! 
+
+https://t.co/hA19hfMmFu",11,1,4,2020-05-27
+76,2020-05-29 03:56:40+00:00,1266216866868981760,joinFIO,Last day to participate! We'll be awarding today's and tomorrow's winner at the same time! https://t.co/usGcZJExwE,2,1,1,2020-05-29
+77,2020-05-30 06:27:47+00:00,1266617282140069888,joinFIO,"Final winners of the @EdgeWallet and @qtum giveaway is in!
+
+obenkz@qtum
+soeta@qtum
+
+Keep your FIO Address ready, we’ll keep providing more chances for you to use the FIO protocol as more applications get integrated!",8,0,2,2020-05-30
+78,2020-06-03 20:50:10+00:00,1268283859478560768,joinFIO,"The FIO Protocol is here to help YOU make your crypto products and protocols easier to use. Since our most recent giveaway, we've had several more protocols approach us - we'd love to have any project! Bring your community, and we'll pay for them to get FIO Addresses. https://t.co/DNm6Tz0L3G",12,1,3,2020-06-03
+79,2020-06-04 19:03:43+00:00,1268619461075976194,joinFIO,"What FIO does today (with address mappings, requests, and metadata) is only the beginning. Eventually, we can help make multi-sig easier, enable recurring payments, and a whole host of potential use cases around authentication and blockchain-enabled commerce! https://t.co/T8dnLah16o",7,1,2,2020-06-04
+80,2020-06-05 19:52:56+00:00,1268994233668534273,joinFIO,"Question - when transferring cryptocurrency from a desktop to a mobile wallet, how do you get the mobile wallet's public address to the desktop? We've found that most desktop (and web) applications don't offer a ""scan QR code"" option, so we're unsure how people actually do it.",5,1,6,2020-06-05
+81,2020-06-08 15:38:56+00:00,1270017473966792710,joinFIO,"Pretty sad state of affairs in crypto for 2020 - simple transfers from desktop-to-mobile are still as difficult as ever.  FIO Addresses will let you request funds from yourself, simplifying the process and eliminating the need to email yourself a public address. https://t.co/KXquiXeVkF",12,1,4,2020-06-08
+83,2020-06-18 17:33:04+00:00,1273670077787697152,joinFIO,".@GuardaWallet FIO Addresses are now free for a limited time, come grab your FIO Address on the Guarda domain, and send a request to giveaway@guarda for a chance at some ETH! https://t.co/8v3P1J6Vt6",8,1,3,2020-06-18
+85,2020-06-22 19:22:46+00:00,1275147235257270273,joinFIO,"Keep on asking - one more day to get some more questions in, and make sure to join us at https://t.co/NmSqyNtuMD tomorrow! https://t.co/6tdcjpNjET",2,0,1,2020-06-22
+86,2020-06-23 16:04:38+00:00,1275459759005593600,joinFIO,One more hour to ask and then join us for an AMA with @EdgeWallet at https://t.co/NmSqyNtuMD https://t.co/6tdcjpNjET,2,0,0,2020-06-23
+93,2020-06-25 23:25:35+00:00,1276295505992052736,joinFIO,"Winners have been awarded out, congrats! https://t.co/9csmFXveCh",1,0,0,2020-06-25
+94,2020-07-03 04:33:10+00:00,1278909627048976385,joinFIO,"@TaoOfSatoshi @lukestokes @CashAltTV Love to, we'll reach back out shortly",2,0,0,2020-07-03
+96,2020-07-08 02:13:17+00:00,1280686363411537920,joinFIO,"We're being listed! Excited to have worked with the 
+@BitMax_Official team, for both their professionalism and dedication to blockchain usability. We have a lot of giveaways coming up soon, so make sure to check them out! (sorry, not available for US citizens yet) https://t.co/XQE56le8TU",66,10,32,2020-07-08
+99,2020-07-09 04:25:55+00:00,1281082127694454784,joinFIO,"📢 ATTENTION 📢 
+FIO Addresses are currently FREE for the first year on multiple wallets
+- Eliminate the need to see public addresses
+- Make in-wallet requests for funds
+- Add metadata to any transaction
+
+Get one today, you'll need it for our giveaways 😉
+https://t.co/f5wID4sEo2 https://t.co/jRBmCB4ivI",6852,1062,6290,2020-07-09
+100,2020-07-10 19:30:32+00:00,1281672170628763648,joinFIO,"We want to see your FIO Address!
+
+Add your FIO Address to your Twitter handle or bio, and like this post. We'll give out a prize of 800 FIO (enough for a FIO Domain 😉) on Monday. https://t.co/a9LhGVIXw9",632,633,404,2020-07-10
+102,2020-07-12 02:48:37+00:00,1282144806194429954,joinFIO,"Great to see all these FIO Addresses! We'll award one winner of 800 FIO on Monday, and we'll keep on doing more giveaways for our supporters! https://t.co/gCfw2ExQGp",97,30,33,2020-07-12
+104,2020-07-13 15:39:02+00:00,1282701075724644355,joinFIO,"Get in soon! We'll be picking a winner later today, stick around though, we have some more games to play 😀 https://t.co/gCfw2ExQGp",47,18,16,2020-07-13
+106,2020-07-14 21:54:48+00:00,1283158029177774082,joinFIO,"Whoops - we meant by 7/20, not 7/14",17,8,3,2020-07-14
+112,2020-07-15 15:58:29+00:00,1283430747827654658,joinFIO,"22,000+ FIO Addresses registered and counting, hoping to break 25k soon 😀
+
+https://t.co/omnOYuaEH5",41,10,12,2020-07-15
+115,2020-07-16 18:01:16+00:00,1283824032224182272,joinFIO,"We're excited to be at @SBlockchainWeek (July 21st) - our Managing Director, @lukestokes will be presenting, and we'll have a virtual booth to chat. Tickets are FREE, so attend and say hello!
+
+https://t.co/7N3SobJfxq",19,1,3,2020-07-16
+119,2020-07-17 17:37:28+00:00,1284180430694936576,joinFIO,"Quick @BitMax_Official update to airdrop participants. We've reviewed the full list of entries and are in process of validating accounts (some accounts were fake, which is expected) - once that's cleaned up, the airdrop/drawing will commence. We'll give another update on Monday.",64,7,12,2020-07-17
+120,2020-07-20 03:54:59+00:00,1285060612595134464,joinFIO,Got a little bit more time to experience a FIO Request and try for 40 FIO Tokens. Load up your @GuardaWallet or @EdgeWallet and try it out now! https://t.co/OnRGNTiGAi,54,32,18,2020-07-20
+122,2020-07-21 16:08:39+00:00,1285607632372404225,joinFIO,"We're on CoinMarketCap (always good to get screenshots on a green day)! 👍
+
+Price is set up, some other data feeds from the chain are in progress (though you can see on-chain stats on https://t.co/Kgy4jUEgRo)  
+
+https://t.co/Un7vJbq2Fi https://t.co/UzEROhmdH9",32,2,11,2020-07-21
+126,2020-07-22 19:29:10+00:00,1286020480697135104,joinFIO,"Every crypto designed for payments should be paying attention to this - we believe this is the user experience needed to bring crypto to the masses.
+
+@LTCFoundation @rogerkver @ErikVoorhees @MakerDAO @coinbase",4,0,2,2020-07-22
+130,2020-07-23 17:49:34+00:00,1286357804081610752,joinFIO,"Check out @lukestokes at Singapore Blockchain Week, speaking on the panel, ""Mass Adoption and Blockchain Usability"" 
+
+https://t.co/95oR9dN562",16,0,5,2020-07-23
+131,2020-07-27 22:33:33+00:00,1287878822352699392,joinFIO,"Happy Moon Day! 🌕
+
+While people are getting ready to FOMO back into crypto - send them over to get a free FIO Address first so we don't scare off the normies again like last time 😀
+
+https://t.co/mSD3BCMshL",37,0,9,2020-07-27
+133,2020-07-28 18:21:57+00:00,1288177890857611266,joinFIO,"This is a huge deal - trading is about to become drastically simpler with non-custodial services. Just receive a FIO Request in your wallet for whatever token you want to receive, and get the new token in the same wallet without ever scanning a QR code or seeing a public address. https://t.co/UWtefaUGHE",45,2,15,2020-07-28
+134,2020-07-29 17:16:20+00:00,1288523768499855362,joinFIO,Even though we don't do web domains at all - this is a big reason why the FIO Protocol is built on a separate chain. Too much competition for scarce block space (which is a good free-market mechanism for things like bitcoin) is problematic for high volume projects like ours. https://t.co/VgN62D82b3,24,2,9,2020-07-29
+136,2020-07-31 06:54:26+00:00,1289092038818803712,joinFIO,"Well, we've been excited for this announcement to come out for awhile. The FIO Token is coming to @binance 🚀 https://t.co/Vqao4WScBB",90,13,18,2020-07-31
+140,2020-08-02 22:56:56+00:00,1290059032552595457,joinFIO,Excited for this one! https://t.co/lGAcJV7E1W,13,0,3,2020-08-02
+141,2020-08-03 20:27:53+00:00,1290383914050019329,joinFIO,"🗞️ FIO Update - 8/3/2020 🗞️
+Well, the big update this week is obvious, but a lot more happened!
+- We got listed by @binance 
+- Revealed our FIO Store at https://t.co/adZ92WUzYS 
+- Built out our referral program (to be announced soon)
+
+https://t.co/f6uyAZrtnC",34,3,17,2020-08-03
+143,2020-08-04 16:25:44+00:00,1290685361711017985,joinFIO,"We've had a couple more listings over the last few days - excited to see these pop up (and thanks to the community for pointing them out to us)
+- @Hoo_exchange 
+- @Hotbit_news
+- @CoinDCX 
+
+We'd love to see FIO Protocol integrations on these 😉",46,6,10,2020-08-04
+146,2020-08-05 21:54:19+00:00,1291130439369764865,joinFIO,"Let’s do an AMA! This Friday at 6pm UTC, we’ll host a livestream with @lukestokes to answer YOUR questions about the FIO Protocol
+
+Send a FIO Request to fioama@guarda for 10 FIO. Add your question to the memo field. 
+
+If we pick your question to answer, we’ll approve the request! https://t.co/34PziwfIak",42,7,15,2020-08-05
+148,2020-08-06 19:53:35+00:00,1291462444234076160,joinFIO,"@SjoerdSteen @lukestokes Fair, fair. Next time!",1,0,0,2020-08-06
+150,2020-08-07 14:37:44+00:00,1291745346427658242,joinFIO,"We are happy to announce that @Infinito_Ltd has started integration with the FIO Protocol. Excited to see cross-chain usability come to their users - stay tuned! 
+
+For more information about FIO: https://t.co/vmbHwSM5Sk
+To download Infinito Wallet: https://t.co/6a8nzgYSoC https://t.co/Lx38u5tc48",45,2,13,2020-08-07
+152,2020-08-08 04:53:41+00:00,1291960752908115970,joinFIO,"Check out our first AMA which mostly turned into a pseudo-podcast. Jon and Luke discuss FIO, community questions, blockchain, and usability. We also approved some FIO Requests from google@guarda, kheniichi@guarda, stegosaurus@edge, and realricosilva@edge!
+
+https://t.co/ex6loi4gzo",23,2,5,2020-08-08
+153,2020-08-10 16:04:00+00:00,1292854219410554881,joinFIO,Not too hard to imagine... https://t.co/61NN3yHNk6,17,1,3,2020-08-10
+156,2020-08-11 17:04:25+00:00,1293231811464634368,joinFIO,We have to pause the referral program temporarily 😦. There is someone/some group of people running a script to register free FIO Addresses using different IP addresses and then referring themselves. We're working on improving our spam prevention mechanisms - stay tuned! https://t.co/n06qzCkfqM,37,6,1,2020-08-11
+157,2020-08-13 14:55:59+00:00,1293924266312790016,joinFIO,The @BinanceResearch report for FIO has been flushed out - probably one of the best summaries of the project! https://t.co/WV1MPIo81V,45,3,17,2020-08-13
+159,2020-08-14 19:00:27+00:00,1294348175931658240,joinFIO,Join now! NOW! https://t.co/VPlpdfn9ji,36,1,15,2020-08-14
+161,2020-08-16 02:11:29+00:00,1294819036467884033,joinFIO,"@balajis @OurielOhayon This is broadly the basis of a FIO Address, which can be encrypted between counterparties on a selective basis.",0,0,0,2020-08-16
+162,2020-08-17 22:24:24+00:00,1295486665352286210,joinFIO,"Thanks to our fantastic community members, we have a Chinese translation of our knowledge base!
+https://t.co/ZYvlj25qHH",26,0,7,2020-08-17
+163,2020-08-18 21:27:17+00:00,1295834679157723136,joinFIO,"The FIO Protocol is officially coming to @BRDHQ, one the largest #bitcoin and #crypto wallets out there, with over 5 million users worldwide! https://t.co/hHlLIZSdkL",81,5,24,2020-08-18
+164,2020-08-20 21:34:59+00:00,1296561390598012928,joinFIO,"Prior to mainnet launch, FIO reserved a set of FIO Domains,  most of which are intended to be given to specific organizations/companies in the blockchain ecosystem. If you have a FIO Domain that you believe belongs to you, please come claim it!
+
+https://t.co/3b8QRdnmZO",17,4,6,2020-08-20
+165,2020-08-21 15:18:00+00:00,1296828910651334656,joinFIO,"If you want to get into the weeds on what's happening with FIO on the backend, our Block Producer meetings are an open, transparent look into the various technical topics that we're actively thinking through.
+
+https://t.co/4bJCfcSth6",24,0,11,2020-08-21
+166,2020-08-24 20:56:18+00:00,1298001208972423168,joinFIO,"Oh, a few things we can think of...
+- Improved usability with FIO
+- Private key management
+- More useful products https://t.co/Y5l7DQo3ok",15,1,3,2020-08-24
+167,2020-08-25 19:36:18+00:00,1298343463562354689,joinFIO,"Excited to see FIO on the @ShapeShift_io platform - great exchange, great wallet, and great usability all in one place👍 https://t.co/NO8VxgUY92",29,2,5,2020-08-25
+168,2020-09-01 18:25:19+00:00,1300862317119156224,joinFIO,"September is going to be a great month for FIO! We have integrations that will be finishing, new community tools, and some great new additions to the store. Get a FIO-enabled wallet and reserve a FIO Address - it's free to start.
+
+https://t.co/f5wID4sEo2",33,5,10,2020-09-01
+169,2020-09-04 20:59:40+00:00,1301988323016073216,joinFIO,"We are incredibly excited to support the newest edition of Bitcoin &amp; Black America by @bitcoinzay. You can order the book today using a FIO Request on @EdgeWallet at our store - https://t.co/MPvQBwKuZ9. Get a copy, join the #bitcoin revolution, and win some FIO! https://t.co/0A1CNLFE9m",23,1,9,2020-09-04
+172,2020-09-09 18:07:55+00:00,1303757040750219264,joinFIO,One of the best hours you can spend learning about FIO and potential ideas for the future. https://t.co/PfLouyCAxj,12,1,1,2020-09-09
+173,2020-09-10 20:22:33+00:00,1304153308005769216,joinFIO,"B) Multisig Routing - DeFi and governance are hot topics right now, and many projects are setting up multisig wallets to handle things like dev/foundation funds. FIO could be used to coordinate multisig transactions and make approvals as easy as approving a FIO Request.",2,1,0,2020-09-10
+179,2020-09-11 16:08:01+00:00,1304451642415181824,joinFIO,"📣 Our friends at @BitMax_Official
+ have become the first exchange to eliminate the need for users to see, or even know about, blockchain public addresses with their integration of the #FIO Protocol. This is a momentous step in usability for all of #blockchain! 🚀 https://t.co/qwY0R5v6EF",81,9,36,2020-09-11
+180,2020-09-13 04:09:42+00:00,1304995648660369408,joinFIO,"Privacy and usability are necessary components of a free and equitable society, and we're excited to partner with @HavenXHV in pursuit of that goal. More to come... https://t.co/BPqfRUmg4V",90,2,27,2020-09-13
+181,2020-09-14 20:29:33+00:00,1305604623890219008,joinFIO,"Reminder - time is coming up for upgrade to v2.0. As far as we know, everyone is upgraded, but for any stragglers out there - make sure to update! https://t.co/zPT3OhWj9S",31,1,16,2020-09-14
+182,2020-09-15 04:29:47+00:00,1305725478108459008,joinFIO,"📢 Attention Bithumb Global users - we're giving out FIO Tokens! Learn about FIO, get a FIO Address, follow our community, and join us in transforming usability! https://t.co/S7IeyhvxDY",352,47,257,2020-09-15
+184,2020-09-18 02:58:14+00:00,1306789600141225985,joinFIO,"Hey Redditors - @lukestokes is joining an AMA of other EOSIO-based projects over the weekend, ask some questions about FIO and spread the word! https://t.co/4uSC1a975z",33,0,28,2020-09-18
+186,2020-09-25 20:08:23+00:00,1309585563675054080,joinFIO,Join in the @binance Learn and Earn on the FIO Protocol! https://t.co/8YLQ8pZwaa,62,6,30,2020-09-25
+187,2020-09-28 22:30:15+00:00,1310708428633829376,joinFIO,"So - it seems like a lot of users are confusing their FIO Address with their FIO Public Key - so we're discussing some other options, please fill out the survey below and help us come up with a better name.
+
+https://t.co/Mlbx5vNOJ5",35,3,15,2020-09-28
+188,2020-09-30 20:39:08+00:00,1311405239241596929,joinFIO,"FYI - as many other protocols have experienced, scammers are registering ERC20 tokens under ""FIO Protocol"". For instance: https://t.co/6tSRRyXZRz
+
+This is not us, and we are not on Uniswap, so please exercise caution. If we ever wrap FIO tokens on Ethereum, we'll let you know.",15,1,9,2020-09-30
+189,2020-10-02 17:22:03+00:00,1312080418154274819,joinFIO,"Getting some more attention for our @BitMax_Official integration - thanks for the article!
+
+https://t.co/a9eiZDabWY",12,1,4,2020-10-02
+190,2020-10-08 21:04:24+00:00,1314310700076920833,joinFIO,Attention: @EdgeWallet now supports the importing of FIO private keys/seed phrases - this is especially relevant to presale users who used a wallet that hasn't finished their FIO integration yet. Try it out at https://t.co/jqp2I9GZSx.,20,2,9,2020-10-08
+191,2020-10-12 21:36:54+00:00,1315768433431044097,joinFIO,"Release 2.0 + 2.1 is on Mainnet:
+
+With the ""Gemini"" release behind us (which was a pre-req to adding a lot of new features), we've quickly put out 2.1, which enables:
+- FIO Domain Transfers
+- API Pagination
+- FIO Request Cancellation
+- Removal of mappings
+
+https://t.co/QpTcJyqGhR",21,3,6,2020-10-12
+192,2020-10-16 18:22:48+00:00,1317169134480756736,joinFIO,"@ChangeNOW_io Hey everyone - if you don't have a FIO Name quite yet, make sure to get one at https://t.co/YsIjPNELV9
+
+Make sure you're using a FIO Name (username@domain), and NOT the FIO Public Key (which is a long FIO3320E3... thing).",6,0,0,2020-10-16
+194,2020-10-21 17:02:48+00:00,1318960944135897089,joinFIO,Big news for crypto - let's chat about how to enable deposits and withdraws in a user-friendly manner 😉 https://t.co/PDgjkzficP,17,1,5,2020-10-21
+195,2020-10-22 20:53:16+00:00,1319381330317238272,joinFIO,@shadath0951 @ChangeNOW_io @EdgeWallet https://t.co/GWZQP18wlo,0,0,0,2020-10-22
+198,2020-10-26 13:54:01+00:00,1320725374800699393,joinFIO,"We’re not sayin, but we’re just sayin... #IntegrateFIO2020 ✌️ https://t.co/rnSXZAdvcE",17,0,1,2020-10-26
+200,2020-10-28 22:18:42+00:00,1321577158221987841,joinFIO,"@amber_rhae @KennethBosak @2020kriz Tomorrow, and the next day, and the next day... 😎",1,0,0,2020-10-28
+212,2020-10-29 14:25:03+00:00,1321820347319095300,joinFIO,"It’s no secret @PayPal will play an important role in making #crypto more accessible &amp; accepted by the masses which is in direct alignment with #FIO’s mission.
+
+We’re proud to see @lukestokes quote appear in @Cointelegraph on the topic.
+
+cc: @JagatiShiraz
+
+https://t.co/hMiWGGVaSs https://t.co/EOjWdpIEZX",20,0,5,2020-10-29
+213,2020-10-30 20:46:58+00:00,1322278847182786565,joinFIO,"@maxall66666 Hey friend! 👋 Thanks for the FIO love 💜
+
+Let us help, we think you gave us your public key. What we’re looking for should look like: “username@wallet”
+
+If you don’t have one yet, here’s how to grab your own unique FIO Address 👉 https://t.co/mSD3BD43Gl",0,1,0,2020-10-30
+300,2020-10-31 13:10:01+00:00,1322526238741794817,joinFIO,"@londresgp @holaeskaren @dorisva76079890 @AlberHerAc @DanielMuvdiYT Hey friend! 👋 Thanks for the FIO love 💜
+
+Let us help try to help. The FIO Address we’re looking for should look like: “username@domain”
+
+If you don’t have one yet, here’s how to grab your own unique FIO Address 👉 https://t.co/mSD3BD43Gl",1,0,0,2020-10-31
+354,2020-11-01 03:56:24+00:00,1322749306957344768,joinFIO,"@Yixi_Navarro @Joshtified 🎉 CoNgRaTuLaTiOnS!!! You’ve won our airdrop for 200 $FIO! 
+
+Someone from the FIO Foundation will airdrop your tokens in the next 24-48 hours or sooner. 
+
+Thanks for participating and sharing your #FIO love with us 💜 FIO appreciates you! https://t.co/U7VTsClq7Y",17,4,5,2020-11-01
+363,2020-11-02 05:03:10+00:00,1323128493572526082,joinFIO,@dedialwi4 @Yixi_Navarro @Joshtified https://t.co/DsXa1AetW0,0,0,0,2020-11-02
+366,2020-11-03 18:30:12+00:00,1323693980991840260,joinFIO,"WOW 🤩 The demand from new users for their own unique and inter-wallet operable #FIO Address (username@domain) has really taken off 🚀
+
+Welcome to the #FIOfam, everybody! 💜 https://t.co/RDGCh0iim4",23,1,3,2020-11-03
+367,2020-11-04 00:40:56+00:00,1323787278704087041,joinFIO,@GoodKrak @binance https://t.co/ODHMbHB038,0,0,0,2020-11-04
+369,2020-11-05 23:42:16+00:00,1324497289092747264,joinFIO,@greenonionfarmr @JaphyHigg @coingecko These crypto minions are great! 😍,2,1,0,2020-11-05
+375,2020-11-06 19:55:39+00:00,1324802649468870664,joinFIO,"@robertharte123 @brian_armstrong We sure agree! FIO would be a great solution for Coinbase to integrate into their wallet and exchange. Our business development team has been in touch 🙂
+
+Crypto so easy your grandparents can do it... and so joyful everyone wants to do it 🥳 #DabOnCryptoUsability https://t.co/dgl5w2lbvV",0,0,0,2020-11-06
+378,2020-11-09 16:37:59+00:00,1325840068238594048,joinFIO,"Imagine being a small business that wants to accept #crypto payments from your customers
+
+Now imagine telling your customers to send $BTC to your custom #FIO Address 👉 shop@mysmallbiz — instead of some whacky, crazy, long and unreadable crypto address...
+
+#ThisIsFIO https://t.co/ioWixic4en",12,1,2,2020-11-09
+384,2020-11-10 01:37:56+00:00,1325975951734353921,joinFIO,"Imagine having a dope #coffeeshop that wants to accept #crypto payments from your customers
+
+Now imagine telling your customers to send $BTC to 👉 dope@coffee — instead of some crazy, whacky, long, complicated and unreadable crypto address...
+
+#ThisIsFIO
+
+Tag a coffee shop 👇👇👇 https://t.co/GSFv2p7bYc",16,3,3,2020-11-10
+389,2020-11-13 22:06:52+00:00,1327372382961610752,joinFIO,"What’s up #FIOfriends?!
+
+If you haven’t already, join us on Discord! 👾
+
+Our developers, block producers, core team and community have been migrating to Discord — we’d love to hear more from you! 💬
+
+JOIN HERE 👉 https://t.co/fehlKqjPVw https://t.co/ukBUKeOm43",15,0,3,2020-11-13
+390,2020-11-16 22:49:37+00:00,1328470305325649920,joinFIO,@KennethBosak @Coinbound_io https://t.co/ahpklyOqKu,0,0,0,2020-11-16
+394,2020-11-17 02:24:44+00:00,1328524443715563521,joinFIO,"@Atoughtree @GuardaWallet @binance Yesss!!! Best way to make that happen (faster) is to keep asking for it just like this 😉 — we’re doing our part to make it happen, and together, we’ve got this 💪💪💪",0,0,0,2020-11-17
+395,2020-11-18 12:37:05+00:00,1329040931652251648,joinFIO,"We tweet. And now we fleet. What a wild world we live in.
+
+💙 Anyway... have you claimed your free FIO Address (username@domain) yet?!
+
+🤍 https://t.co/mSD3BD43Gl
+
+💜 Which wallet are you choosing??",14,1,0,2020-11-18
+399,2020-11-19 05:38:34+00:00,1329297998518525956,joinFIO,"Join us this Friday at 9am ET where we join a panel on ""The Interplay of Identity and Privacy"" at DLT Fridays.
+
+Register for the webinar here:
+https://t.co/SJE0HQKHsc https://t.co/DdCg34DWfJ",18,0,3,2020-11-19
+400,2020-11-20 12:24:10+00:00,1329762458408521730,joinFIO,@2020kriz @lukestokes @KennethBosak @EdgeWallet Awesome! 😎,0,0,0,2020-11-20
+404,2020-11-24 19:44:32+00:00,1331322829824987139,joinFIO,@Trezor We’d be more than happy to talk with your dev and operations team to explore making the crypto experience easier for your new and future users. FIO has grant money to support such an integration also to make it even easier. Let us know?,4,0,0,2020-11-24
+406,2020-11-25 13:38:26+00:00,1331593088062672896,joinFIO,"FIO’s cross chain operability &amp; meta data solution for sending &amp; receiving secure crypto payment requests has received some favorable recognition recently in @Entrepreneur!
+
+Nice to see that simplifying the crypto UX is becoming more and more of the focus
+
+https://t.co/rL8SJTy0gO",7,1,1,2020-11-25
+410,2020-11-26 05:04:21+00:00,1331826100629090305,joinFIO,@secminer https://t.co/Pz9zuRxCCc,0,0,0,2020-11-26
+413,2020-11-27 21:19:40+00:00,1332433934303580168,joinFIO,@xRob88 https://t.co/wh0ON16HOw,1,1,0,2020-11-27
+429,2020-11-28 23:10:48+00:00,1332824289834364930,joinFIO,Congrats ileanafr@edge! Your $FIO request has been filled! 🎊 https://t.co/E3cmkir8hF,20,1,0,2020-11-28
+439,2020-11-29 00:30:24+00:00,1332844322077675524,joinFIO,Thanks @KT5255 for spreading some #FIOjoy — we’ve filled your request and returned the favor 🎊🤗 https://t.co/7kwIqizpWZ https://t.co/dqdzEYrlcJ,19,2,2,2020-11-29
+443,2020-11-30 06:12:29+00:00,1333292798821404673,joinFIO,@Bquittem HODL,1,0,0,2020-11-30
+444,2020-12-03 19:44:18+00:00,1334584262784409602,joinFIO,"Without our incredible visionary integration partners, FIO as a means for making #cryptocurrency easier and more joyful for people and businesses around the world would be little more than a dream.
+
+Thank you to all of our #FIOfam 💜
+
+FIO ecosystem: https://t.co/9va1YZcz6x https://t.co/3X2JPOIOJ9",13,1,0,2020-12-03
+445,2020-12-04 19:59:27+00:00,1334950462571819008,joinFIO,".@brockpierce, you’re singing our song 🙌
+
+The developers and community at #FIO have the thesis that if #crypto products were friendlier and more joyful to use, more people would join crypto. https://t.co/zgB1d3Anz1",11,1,1,2020-12-04
+446,2020-12-15 15:04:14+00:00,1338862437307576322,joinFIO,"Lots has been happening at FIO, and we’ll be sharing more here real soon!
+
+Get involved in the conversation on discord! https://t.co/Vp5Pf9Fimw",17,0,2,2020-12-15
+447,2020-12-16 23:12:49+00:00,1339347781014540288,joinFIO,"It's been an incredible year with a ton of exciting progress for FIO!
+➡️ Mainnet launch and version upgrade
+➡️ FIO Integrations in 13 products and counting
+➡️ A vibrant community of workers and BPs
+➡️ Many new initiatives in progress...
+
+Our 2020 Overview:
+https://t.co/nFNBTWlPFD",15,1,2,2020-12-16
+448,2020-12-17 23:03:54+00:00,1339707926034980868,joinFIO,@eosphere_io BUIDLers gonna #BUIDL 🔥💪,2,0,0,2020-12-17
+453,2020-12-18 01:31:59+00:00,1339745190467297280,joinFIO,@KaitieZhee @NeerajKA Hopefully “yeet” doesn’t turn into “yeesh” 😬 we’ve got an open-source decentralized protocol for that,2,0,0,2020-12-18
+457,2020-12-19 14:42:29+00:00,1340306515169861633,joinFIO,"If you only watch one video about #FIO—let this chat w/ @CooLiquid + @lukestokes be the one🔥🔥🔥
+
+Seth shares amazing behind the scenes stories about @Liquid_Global &amp; why launching FIO became his team’s “passion project” + surprise for Liquid users! 🚀
+
+https://t.co/91Wr6nIXKE https://t.co/MjWdU3zpaX",23,0,10,2020-12-19
+458,2020-12-20 07:03:34+00:00,1340553413961113600,joinFIO,"✅ Pristine roadmap delivery
+
+✅ 13 and counting top-tier integrations completed
+
+✅ Growing team of A-list blockchain talent
+
+✅ Listed on top-tier exchanges @binance @BitMax_Official @Liquid_Global @BithumbGlobal
+
+✅ ~80,000 #FIO Addresses claimed 
+
+🚀🔥 Bring it 2021!!!🔥🚀 https://t.co/xvUThB8CZy",27,2,9,2020-12-20
+462,2020-12-21 23:57:58+00:00,1341171083433668613,joinFIO,"@Yixi_Navarro @jack Right?! We all feel the same little nervousness before finding out if our address is taken or available ::please be available, please be available:: https://t.co/GA7z6sGL4x",1,1,0,2020-12-21
+471,2020-12-22 05:21:51+00:00,1341252590093406210,joinFIO,@TrustWalletHelp @MajorCryptoNews @jack Thanks @TrustWalletHelp for jumping in to help 🤗,0,0,0,2020-12-22
+479,2020-12-23 19:50:32+00:00,1341833589676240896,joinFIO,"🚀 NEW INTEGRATION ANNOUNCEMENT 🚀
+
+@ChangellyPro @WhiteBit6 @Trustee_Wallet + @FrontierDotXYZ adopt the FIO Protocol 🔥🔥🔥
+
+Welcome to the #FIOfam everyone!!! We’re so happy to have you on board! 🤗
+
+Read more 👉 https://t.co/iLXnywEr2d",32,0,7,2020-12-23
+482,2020-12-24 15:19:29+00:00,1342127766548996096,joinFIO,@WhiteBit6 We do too! https://t.co/4pvgVsy3C5,1,0,0,2020-12-24
+485,2020-12-29 20:12:26+00:00,1344013427690373120,joinFIO,"This is why @joinFIO matters. Until this problem is solved, #crypto will not be adopted by the masses. https://t.co/Q9gTzss4Zv https://t.co/pTwKhdbaNd",14,1,2,2020-12-29
+487,2020-12-30 12:39:41+00:00,1344261877606604801,joinFIO,"Good morning #cryptotwitter ☀️
+It’s a great day to lock down your #FIO handle before someone else snags the one you really want. Big things coming for 2021! Don’t say we didn’t warn you 😉
+
+Chat with us on discord ⬇️
+https://t.co/fehlKqjPVw",14,0,0,2020-12-30
+493,2020-12-31 16:46:40+00:00,1344686419856547841,joinFIO,@eosamsterdam 🙏,0,0,0,2020-12-31
+495,2021-01-01 23:28:13+00:00,1345149862577364998,joinFIO,@girlgone_crypto https://t.co/AbLtvNRKxF,1,0,0,2021-01-01
+499,2021-01-04 17:58:42+00:00,1346154099507671041,joinFIO,@ezcryptx @EdgeWallet @pay_string Similar but distinctly different in that PayString is not self-sovereign and is centralized. The ownership of identity resides with the owner of the DNS domain. Not sure how that would work with non-custodial wallets.,0,1,0,2021-01-04
+500,2021-01-05 06:14:47+00:00,1346339341728182272,joinFIO,"Crypto is the best form of money ever invented—hands down
+
+But, it’s still just way too complex, confusing and intimidating
+
+Our sole mission is to solve this—and solve it in a way that puts the interest of the people first
+
+That’s it",20,2,2,2021-01-05
+507,2021-01-06 00:35:53+00:00,1346616441395687425,joinFIO,"With any luck, Billy will be able to buy one whole $ETH! 😌
+
+📷 @crypt0snews https://t.co/a1J5V2Ko18",12,0,2,2021-01-06
+511,2021-01-07 23:37:23+00:00,1347326497657393152,joinFIO,@imjetlu @Ilcoin_B_P @ClearBlade Thank you @imjetlu for inclusion in your round up 🙏,1,0,0,2021-01-07
+515,2021-01-11 14:54:45+00:00,1348644523086327811,joinFIO,"Hey #Blockchain #developer's!
+
+If you or someone you know would be interested in working on the FIO Kotlin SDK, we'd love to hear from you! https://t.co/lWfTLQB74x
+
+Please reach out on the FIO Discord 👉 https://t.co/8YtmJpEgdH",9,0,3,2021-01-11
+517,2021-01-13 14:58:51+00:00,1349370331438456833,joinFIO,"Is now a good time to buy #bitcoin? 
+
+Make sure you hook up your friends with a #FIO address. Friends don’t let friends fumble with public keys 😉 https://t.co/XTRoxpFHsD",17,1,0,2021-01-13
+523,2021-01-14 20:36:56+00:00,1349817799057805314,joinFIO,"Are you a #GraphicDesigner interested to build your #crypto design portfolio &amp; wallet? 💻
+
+We invite you to fill out a Worker Proposal! 📋
+
+Role description ➡️ https://t.co/k9G3OJrVkq
+
+Submit a Worker Proposal to @joinFIO ➡️ https://t.co/6phsGGhSry https://t.co/wRWevig9Db",9,0,1,2021-01-14
+526,2021-01-15 23:48:21+00:00,1350228361122095110,joinFIO,"@Libertos_io Thank you! @BRDHQ is already integrated with FIO 💪
+
+@AtomicWallet isn’t yet, but we sure would love to make crypto interoperable for their users!",0,0,0,2021-01-15
+533,2021-01-18 12:35:32+00:00,1351146202843279361,joinFIO,@RaviMishra2249 @Libertos_io @GuardaWallet Cheers! How are you finding the experience so far? Let us know what you like or don’t like so we can keep improving! 💜,0,0,0,2021-01-18
+537,2021-01-19 21:50:54+00:00,1351648353063415813,joinFIO,"CELEBRATE WITH US!!! 🎉
+
+Today @joinFIO leveled-up in making #crypto so easy anyone can do it
+
+🔥100,000 New Addresses Registered🔥
+
+💜 Thank YOU #FIOfam!!!
+
+♻️ Retweet &amp; Comment w/ your #FIO Address for chance to WIN $100 in $FIO 🚀
+
+➡️ (username@domain)
+
+https://t.co/ctwlpYAvgZ https://t.co/9BZtx07YuZ",279,314,229,2021-01-19
+538,2021-01-20 06:14:29+00:00,1351775085556862978,joinFIO,@HernanArber You rock our socks @HernanArber 🤘,0,0,0,2021-01-20
+541,2021-01-21 21:47:14+00:00,1352372206207193091,joinFIO,"Hey peanutmillionaire@edge, just want to say we appreciate you being part of our #FIOfam 🤗
+
+If you haven’t subscribed to the #FIO YouTube channel yet, click below to catch our #FIOWeeklyUpdates and watch for $FIO news and insider insights
+
+➡️ https://t.co/bOjE3OFYlb https://t.co/5npKurugGC",17,4,2,2021-01-21
+542,2021-01-22 18:38:18+00:00,1352687049208426499,joinFIO,"Hey you. Yeah, you! Stop that! 😜
+
+If you haven’t grabbed an @EdgeWallet FIO address, go ahead and take the leap. Let us know what your FIO address is in the comments below 👇 https://t.co/7FJtB7jsgO",29,16,10,2021-01-22
+550,2021-01-25 16:22:26+00:00,1353740020826460165,joinFIO,Hey #CryptoTwitter 👋 What are some of your favorite #crypto games?,8,3,0,2021-01-25
+554,2021-01-27 15:16:13+00:00,1354448130050322436,joinFIO,It’s provocative. It’s gets the people going! 😈 https://t.co/fHS8jITafv https://t.co/JX2y1DLMft,7,0,0,2021-01-27
+555,2021-01-28 05:18:31+00:00,1354660101022494720,joinFIO,@lukestokes @wallstreetbets This has us all in our feels tonight 💜 Shot through our little @joinFIO heart!,1,0,0,2021-01-28
+556,2021-01-29 22:30:17+00:00,1355282143254085640,joinFIO,"Nice to see some familiar faces speaking at @EthereumDenver this year 😏
+
+#TeamFIO will be out in full force 2/5-2/12 chatting about:
+
+🪄 Usability
+💜 Adoption
+
++ a whole lot about
+
+🍕 Pizza???
+
+Sounds like a crypto jam if we know one!
+
+Register for free https://t.co/6dPARRHc2r https://t.co/BigrnivFES",26,4,5,2021-01-29
+558,2021-01-30 01:13:22+00:00,1355323183583420422,joinFIO,@TheChad_isGood @lukestokes @EthereumDenver @ericbutz https://t.co/MKbsHpZtQk,1,1,0,2021-01-30
+571,2021-01-31 21:56:14+00:00,1355998351804796930,joinFIO,"Fun fact: crypto users can use the FIO Protocol without ever needing to use the $FIO token — lowering barriers to entry is our aim for the ecosystem, not adding layers of complexity
+
+Still a lot of work to be done, but getting better and better each day ✌️ https://t.co/GXgfAbl6s0",14,2,2,2021-01-31
+575,2021-02-02 15:23:20+00:00,1356624247309926400,joinFIO,"#ETHDenver roll call 🏔 Who’s gonna be there?!
+
+Be sure to stop by our sponsor booth to find out how to win free pizza delivery 🍕
+
+https://t.co/5Sz2gJcs79 @EthereumDenver",8,1,3,2021-02-02
+578,2021-02-03 16:48:32+00:00,1357008079737470976,joinFIO,"Pizza 🍕 + hacking 💻 + jamming 🤘and meeting amazing humans, that’s what we’re doing.
+
+The event is virtual, free and open to all around the world. Join us!
+
+👉 https://t.co/5Sz2gJcs79 https://t.co/44XtOQ3fJ7",5,1,3,2021-02-03
+580,2021-02-04 02:38:03+00:00,1357156433494695937,joinFIO,@ErikVoorhees @LoganRyanGolema Also on @Liquid_Global and very soon on @WhiteBit6 too,1,1,0,2021-02-04
+592,2021-02-05 02:39:33+00:00,1357519201313898497,joinFIO,"FIO Bounty Presentation for $5,000 up for grabs is live now
+
+👉 https://t.co/KqaLOx02o5
+
+#ETHDenver https://t.co/6cRvNOxMWs",11,1,8,2021-02-05
+596,2021-02-06 20:41:59+00:00,1358153993072082946,joinFIO,"Have you subscribed to the FIO Blog yet? Here’s a quick developer update from the VP of Engineering, @ericbutz and the team.
+
+https://t.co/QKUialH47F",10,0,0,2021-02-06
+597,2021-02-08 22:54:56+00:00,1358912225445113859,joinFIO,"Everyone is asking where to get their FREE PIZZA 🍕
+
+Head over to the Rainbow Shill Room 🌈 and talk to a FIO Member to get your voucher code!
+
+https://t.co/5Sz2gJcs79 in the Virtual Castle ✨ @EthereumDenver https://t.co/SkcoADnPtE",14,0,3,2021-02-08
+602,2021-02-09 13:36:24+00:00,1359134055342759936,joinFIO,"Stack Sats. Stack Bounties. A.B.S. Always Be Stackin’! 📈
+
+Hey #ETHDenver! Did you know the #FIO Protocol makes the perfect hackable stackable as a layer 2 usability solution?
+
+Get in touch w/ the dev on Veertly or Discord to learn more! @EthereumDenver 
+
+https://t.co/DL25V3j6mI",10,0,1,2021-02-09
+606,2021-02-10 14:42:42+00:00,1359513124941012992,joinFIO,"@RagnarsMate @philthatremains They wouldn’t even need a FIO Address, just need to be using a FIO-enabled wallet or exchange 🙂",0,1,0,2021-02-10
+614,2021-02-11 16:20:23+00:00,1359900096322818049,joinFIO,"@thebtcpodcast @EthereumDenver @KaitieZhee Nope. If you’re on Veertly, or the ETH Denver Discord, you can reach out to @KaitieZhee there also.",0,0,0,2021-02-11
+623,2021-02-12 13:50:19+00:00,1360224718117339136,joinFIO,@bitKoinAfriKa https://t.co/uJmgOHs2ps,1,0,0,2021-02-12
+627,2021-02-13 00:39:08+00:00,1360387998186164234,joinFIO,@shootsbooz @EthereumDenver https://t.co/CQjzwnBTbK,1,0,0,2021-02-13
+629,2021-02-14 14:30:51+00:00,1360959695947784197,joinFIO,Happy Valentine’s Day #FIOfam! You will always have a pizza our heart! 💜🍕 https://t.co/GF0o3P4jPV,21,5,2,2021-02-14
+631,2021-02-18 14:33:12+00:00,1362409838303731721,joinFIO,@GamerjibeSocial @EthereumDenver This is awesome to hear! We’d be happy to work with you to enhance future virtual events and share some of our learned experiences 🙂,1,0,0,2021-02-18
+634,2021-03-01 14:29:51+00:00,1366395260574777349,joinFIO,"@MrPrivedenie If you toggle the top right of the FIO website, you can choose the language you prefer to read https://t.co/gOpl4uhccd",1,0,1,2021-03-01
+643,2021-03-02 21:06:08+00:00,1366857378285633538,joinFIO,"@thebtcpodcast @lukestokes Thanks guys! Great to connect at @EthereumDenver, get you and your audience some #FIO pizzas ordered through the protocol and jam out on your podcast. More #FIOpizza and stories to come in 2021! 🍕🍻",2,0,0,2021-03-02
+645,2021-03-03 16:42:13+00:00,1367153350014349315,joinFIO,"@mattdlockyer @KaitieZhee @EthereumDenver Welcome to the #FIOfam, Matt! Happy to have you in the fold! Let’s talk about how @joinFIO and @NEARProtocol can team up this year 🚀",4,1,0,2021-03-03
+649,2021-03-05 20:01:46+00:00,1367928342943531014,joinFIO,"One address for ALL your crypto. Your FIO address works across all blockchains.
+
+Register your free FIO address and test it out 👉 https://t.co/B4989unlIX",34,6,8,2021-03-05
+651,2021-03-08 19:59:59+00:00,1369015056550215683,joinFIO,"#Crypto would never be as good as it could be without our industry’s women #BUIDLing, shaping and guiding us forward. We honor you today and all days 💜 #WomenInBlockchain
+
+Special shout out to @blockchainbrit and @KaitieZhee at #FIO 💜 https://t.co/XjjiXuuSJG",25,0,3,2021-03-08
+652,2021-03-09 04:59:12+00:00,1369150756478128130,joinFIO,"JOIN @lukestokes later today for our first @WhiteBit6 #AMA session and score your chance to win from a 1,500 free $FIO prize pool!
+
+🔹 What: FIO AMA
+
+🔹 When: TODAY @ 3pm UTC
+
+🔹 Where: https://t.co/gVyfvZq81t https://t.co/gdmAuHgoaB",19,2,7,2021-03-09
+656,2021-03-12 21:35:02+00:00,1370488528614883329,joinFIO,"We had a fantastic conversation yesterday about security, ransomware, and the importance of cryptocurrency usability (both leveling up and making it easier) as part of a panel discussion at @week_online. Check it out! https://t.co/L7y0Jit9wr",38,2,12,2021-03-12
+657,2021-03-16 15:15:36+00:00,1371842595106734081,joinFIO,"Everyone should have their own FIO Address instead of countless public keys and dealing with different chains, we agree with @lukestokes
+
+His FIO Address is luke@stokes
+
+Simple.
+
+What’s yours?",37,10,7,2021-03-16
+660,2021-03-18 20:37:25+00:00,1372648358813261826,joinFIO,@MoadManssour Thanks @MoadManssour !,1,0,0,2021-03-18
+664,2021-03-19 16:56:25+00:00,1372955129008230400,joinFIO,@Owi_Here @WhiteBit6 That’s your FIO public key. Your FIO address should look something like username@whitebitfio,0,0,0,2021-03-19
+666,2021-03-21 14:52:08+00:00,1373648628481425409,joinFIO,@CinthyaGz5 @WhiteBit6 Winners are being managed by @WhiteBit6,1,0,0,2021-03-21
+669,2021-03-22 17:56:50+00:00,1374057496055312386,joinFIO,"@bsl_tech @Chiliz @AxieInfinity @contentosio @aavegotchi @Chromia @dego_finance @enjin @cocos2dx @binance Thanks for the FIO love 🤗
+
+Crypto users can register their own decentralized crypto wallet handle (AKA FIO Address) for free through any of our integration partners. Once a domain is claimed, that’s it. So get the address and domain you want quickly!
+
+https://t.co/mSD3BD43Gl https://t.co/IXlSY2fUKy",0,0,0,2021-03-22
+671,2021-03-24 08:11:06+00:00,1374634866441125892,joinFIO,"FIO Protocol Turns 1 Year Old! 🎉 
+
+Celebrate with us by participating in our FIO Video Competition worth over $10,000!!!  Full contest details 👉 https://t.co/Ja3yzlU13E
+
+BONUS 100 $FIO Tokens for one.lucky winner-
+1. Comment
+2. Like
+3. Retweet this post https://t.co/jdT3C7xt1m",668,637,529,2021-03-24
+673,2021-03-29 15:07:24+00:00,1376551571861991435,joinFIO,"🎉 FIO's $10,000 Video Competition starts TODAY! 🎉
+
+What's better? We're giving away prizes to EVERYONE who participates and submits a qualified video
+
+Learn more on the FIO Blog 👉 https://t.co/B6sd1McusR https://t.co/Bo9EtoTD7r",18,3,5,2021-03-29
+675,2021-03-31 15:23:39+00:00,1377280436733407241,joinFIO,"SO many exciting things at $FIO 🚀
+
+⚡️ $10,000 Video Competition
+⚡️ Trading Comp on @WhiteBit6
+⚡️ Board member elections
+⚡️ #FIO Dashboard development
+⚡️ Staking &amp; wrapping development
+⚡️ Expanding the team
+⚡️ Amazing NFT discussions
+
+JOIN us on discord! https://t.co/fehlKqjPVw",21,3,8,2021-03-31
+677,2021-04-01 19:55:12+00:00,1377711163425849344,joinFIO,@Govardhan0070 https://t.co/vQIj2RNYvh,1,0,0,2021-04-01
+687,2021-04-05 13:04:03+00:00,1379057246462689288,joinFIO,"Sometimes we don’t know what moves the market. Sometimes it’s just the market catching up with their understanding of the value of the project. 🚀 #grateful $FIO
+
+https://t.co/kkC3dMzhuK",35,3,8,2021-04-05
+689,2021-04-06 06:23:52+00:00,1379318922114125829,joinFIO,@KaitieZhee @cz_binance 💜💙💜💙 https://t.co/OKfksXcifK,2,0,0,2021-04-06
+695,2021-04-07 02:27:19+00:00,1379621782450233345,joinFIO,@lukestokes https://t.co/ZeW5Xj4yYy,0,0,0,2021-04-07
+700,2021-04-13 13:26:04+00:00,1381961888842547201,joinFIO,@CoinMarketCap #1 @joinFIO of course 😌 https://t.co/v8E58UR0zS,6,0,1,2021-04-13
+712,2021-04-15 13:56:02+00:00,1382694205848436740,joinFIO,@evlenco A more joyful cryptocurrency experience 🤩,3,0,3,2021-04-15
+718,2021-04-16 21:12:03+00:00,1383166320200585223,joinFIO,"@Inmobiliaragua @bellelucky12 The video contest is free to enter. FIO addresses are free. FIO Domains are approx. $40
+
+FIO Address = username@domain
+FIO Domain = @ domain",0,0,0,2021-04-16
+723,2021-04-18 14:52:28+00:00,1383795570460958735,joinFIO,"The #crypto dip got you feeling like you wish you could stack a little more? $FIO ’s got you 😉
+
+🔥 $50,000 @CoinMarketCap Learn &amp; Earn 👇
+https://t.co/BjOck8jFF4
+
+🔥 $10,000 video contest 👇
+https://t.co/B5Kt4Nosyi",57,3,28,2021-04-18
+728,2021-04-19 14:10:40+00:00,1384147437925789700,joinFIO,"Gotta love it when our FIO-integrated wallet partners are being recognized for being among the best in class 👌
+
+🍻 Cheers to @MyceliumCom!!! Download their wallet today and try out the #FIO Protocol!
+
+https://t.co/rJZxyLRiyz",39,0,10,2021-04-19
+733,2021-04-20 04:56:08+00:00,1384370272757706752,joinFIO,Another #FIO-enabled partner crushing it to make #crypto more usable 🔥 Cheers to our #FIOfam @ShapeShift_io on this amazing step update!! https://t.co/8yjDTSIWuU,29,2,7,2021-04-20
+736,2021-04-21 20:42:24+00:00,1384970799413608450,joinFIO,"Have you subscribed to FIO's YouTube channel yet? Each week we bring new content, updates and conversation. Check out the latest video talking about $60,000 in $FIO Giveaways and what's up with PayPal &amp; Venmo
+
+https://t.co/sl1vvJ8GDz",32,4,14,2021-04-21
+737,2021-04-23 16:38:13+00:00,1385634121733529602,joinFIO,FIO Sneakers... whattttt 😍 https://t.co/IisVRD43f6,54,5,11,2021-04-23
+742,2021-04-24 13:20:30+00:00,1385946752163921923,joinFIO,@T0kenW0rld We’re always working on this. The best way to support this is by tagging the wallets and exchanges you want to see FIO-enabled and letting them know :),2,0,2,2021-04-24
+743,2021-04-27 17:56:07+00:00,1387103280011128836,joinFIO,"@muri_aka @Changelly_team Your wallet handle should be human readable and look something like: 
+
+username@changelly",1,1,0,2021-04-27
+749,2021-04-29 13:40:46+00:00,1387763793019744267,joinFIO,"🌟 TWO MORE DAYS TO ENTER! 🌟
+
+Each successful submission is guaranteed to earn 100 $FIO minimum, and up to $5,000!!!
+
+Please read contest details below 🏆
+
+https://t.co/v0cvCCavg7 https://t.co/kfHAReooY2",48,7,23,2021-04-29
+751,2021-04-30 13:11:09+00:00,1388118727938519041,joinFIO,"We believe “decentralization” shouldn’t mean “difficult.”
+
+We believe that there are battles better fought together than apart.
+
+We believe that the masses are coming, and we owe them the experience they deserve.
+
+Amazing writeup by one of our Block Producers @jane_everstake 🔥 https://t.co/Y8yvMiItYG",53,3,23,2021-04-30
+755,2021-05-04 16:44:52+00:00,1389622064647188489,joinFIO,"FIO matters because it puts the user and their privacy concerns first. It's a decentralized, self-sovereign, open-source solution to make crypto interactions  𝑒 𝒶 𝓈 𝓎 !
+#Crypto 
+
+Check it out 👇
+https://t.co/FjAJGLHI65",47,4,11,2021-05-04
+760,2021-05-05 21:53:18+00:00,1390062072508174342,joinFIO,"Mark your calendars! 📅 
+
+WHAT: In-depth and Interactive FIO Protocol Update
+
+WHEN: 18 May @ 2pm UTC-0
+
+Register for your seat: https://t.co/YbgAS6byFF https://t.co/gGz7Cn6eFb",99,12,42,2021-05-05
+763,2021-05-10 15:36:25+00:00,1391779166232711168,joinFIO,The biggest problem the industry has to solve quickly... a self-sovereign solution to protect crypto users from scammers and faulty sends resulting in the loss of funds https://t.co/9r8Olwgm11,24,0,9,2021-05-10
+764,2021-05-11 12:33:53+00:00,1392095614415036419,joinFIO,"Did you know #FIO community runs transparently and the Protocol is open-source?
+
+Check out the FIO Community page on Confluence where you can navigate to learn all about things like product, tech, business development, marketing and more 👇
+
+https://t.co/y35YsMaojO
+
+$FIO #Crypto",21,1,8,2021-05-11
+769,2021-05-13 22:21:06+00:00,1392968169552158724,joinFIO,@EOS_CryptoLions Thanks @EOS_CryptoLions. We appreciate you being part of the #FIOfam 💙,2,0,0,2021-05-13
+776,2021-05-14 16:32:35+00:00,1393242852549922816,joinFIO,"📣 Next Week: Live $FIO Protocol Update 📣
+
+📆 Tuesday 18 May @ 2pm UTC
+
+JOIN US as we take a deep dive into the #FIO Protocol’s latest updates and activity!
+
+Registration required. Link below 👇
+
+https://t.co/YbgAS6byFF",27,0,9,2021-05-14
+777,2021-05-15 13:25:23+00:00,1393558130299064327,joinFIO,@jane_everstake @lukestokes @ericbutz We’re a better network with you in it. Thank you for sharing!,3,0,0,2021-05-15
+778,2021-05-17 14:09:45+00:00,1394294068021272576,joinFIO,"BIG Thanks to all who participated in our 1-year Anniversary video competition campaign!
+
+We will announce the winners and share the videos with the community tomorrow! Stay tuned! https://t.co/cGSa0zuXF9",33,7,5,2021-05-17
+780,2021-05-18 15:21:14+00:00,1394674444585558017,joinFIO,"🎉 And the winners of the $10,000 One-Year Anniversary Contest are... 🎉
+
+https://t.co/Rj7xXcy5k3
+
+BIG THX to all! We LOVED all of the creativity and effort that went into this contest!
+
+Participants should look for an email later today for next steps to claim prizes
+#CryptoNews https://t.co/SwRP4BhuCG",44,2,15,2021-05-18
+782,2021-05-19 20:49:05+00:00,1395119340253597696,joinFIO,"@hitwitt7 “Human readable addresses” is shorthand for saving crypto users, wallets &amp; exchanges insurmountable costly pain from faulty transactions, inordinately burdensome customer support hours, poor UX, NFT authentication &amp; just oh so much more. Dig a little deeper 😉",2,0,1,2021-05-19
+790,2021-05-21 23:06:32+00:00,1395878705805897728,joinFIO,"FIO Token Staking?!?!
+
+Check out this week’s weekly community update to get the down low on $FIO Token Staking coming soon... 🚀
+
+Click to learn more 👇
+https://t.co/RDwFphF4B3
+
+#crypto #cryptotrading #tokenomics #cryptostaking",37,1,7,2021-05-21
+791,2021-05-22 19:56:46+00:00,1396193338018177027,joinFIO,"Happy #BitcoinPizzaDay! 🍕
+
+Thinking back on all the fun we had sending out #FIOpizza for @EthereumDenver attendees using the FIO Protocol 🍕🍕🍕
+
+Think we should send out some more #FIOpizza soon??? https://t.co/ES3iXMDihc",29,3,4,2021-05-22
+792,2021-05-23 02:44:13+00:00,1396295878101643264,joinFIO,@GenerEOSAus Can’t achieve our vision for self-sovereign and more joyful &amp; easy cryptocurrency transactions without our Block Producer family 💙🤗,2,0,0,2021-05-23
+793,2021-05-24 06:58:55+00:00,1396722362146377731,joinFIO,"Making crypto wallets human-readable is cool and all, but that’s only scratching the surface of the power of $FIO...
+
+Read to learn more on @CoinMarketCap 😎
+
+https://t.co/hKpY1v5WXS https://t.co/YL83nB2fQk",32,0,9,2021-05-24
+794,2021-05-25 19:47:32+00:00,1397278177811222532,joinFIO,"@StealthEX_io @RoolSkool @AaveAave Hey there 👋 thx for checking the protocol out. Curious question.. if FIO were able to support the dev cost (so, no hard cost to StealthEx) and integration to make it a white glove integration, is that something you’d reconsider? This is something the foundation is thinking about",1,1,0,2021-05-25
+795,2021-05-26 11:02:05+00:00,1397508334102720516,joinFIO,"@BrantlyMillegan @RoolSkool @ensdomains @MyCrypto The transaction fees are fixed to just pennies irrespective of which chain or token is being sent. If we’re not mistaken, ENS has unavoidable high fees for transactions?
+
+https://t.co/tymFYIPwLj",0,0,0,2021-05-26
+798,2021-05-27 20:53:48+00:00,1398019630594244620,joinFIO,"@TanZeynet @Abhilove50 Pancakeswap will require #FIO to wrap its token ... but good news ... this is something the developers are working on 😊
+
+https://t.co/SAnWXbLV2y",3,1,0,2021-05-27
+811,2021-05-28 05:34:20+00:00,1398150628329852929,joinFIO,@TanZeynet @Abhilove50 🙏🤗 thank you for all your support.,0,0,1,2021-05-28
+814,2021-05-31 15:42:38+00:00,1399390873704714248,joinFIO,"Want to get paid to tweet and talk about crypto all day? FIO's hiring!
+
+Check out the job posting here 👇
+https://t.co/wXB3Npk5oH https://t.co/ANxduYBd6z",51,8,16,2021-05-31
+817,2021-06-01 16:32:18+00:00,1399765760210259968,joinFIO,"#Bitcoin 2021 &amp; #Shitcoin 2021 conferences in #Miami this week!
+
+@lukestokes and @KaitieZhee will be out and about, how about you? Let us know what talks and events you think they should join! 😎🌴
+#bitcoin2021 #shitcoin2021",37,2,9,2021-06-01
+818,2021-06-03 16:03:00+00:00,1400483162833178630,joinFIO,"Check out this week’s video update now up on the #FIO YouTube!
+
+#Bitcoin2021 #EDENeos #Staking 
+
+https://t.co/cdrIvVRf9D",21,1,3,2021-06-03
+820,2021-06-04 19:31:06+00:00,1400897922871480325,joinFIO,"#Bitcoin2021 is unlike any other conference $FIO ’s been to. The amount of people, quality connections and content is on another level! 😎🌴☀️ #Bitcoin https://t.co/ACNv2Q3xtu",45,0,4,2021-06-04
+822,2021-06-09 15:53:45+00:00,1402655161382748160,joinFIO,"📣 NEW trading pair announcement on #binance !
+
+Users can now trade $FIO / $BUSD 📈 https://t.co/KR14nA2t1a",35,1,5,2021-06-09
+824,2021-06-14 15:27:28+00:00,1404460488667369472,joinFIO,"Shout out to @ericbutz leading our team of development worker proposals who put together this fantastic process for communicating to the broader team the current status of our main roadmap efforts.
+
+Everything is open and available in our community wiki: https://t.co/puvi1yo1Zd https://t.co/g7C7cnwcMR",35,1,9,2021-06-14
+825,2021-06-15 00:25:53+00:00,1404595985284620289,joinFIO,"You know those whacky long public keys? And how you need one for each coin, for each wallet, and so forth and so forth?
+
+STOP THE MADNESS! Get yourself a custom crypto handle through #FIO and all that madness is gone like magic 🎩✨",49,0,9,2021-06-15
+826,2021-06-16 14:33:20+00:00,1405171640716124162,joinFIO,"Each day, more and more people, governments and institutions are paying attention to the power of #crypto
+
+The #FIO Protocol is designed to make crypto more *joyful* to use without sacrificing self-sovereignty",38,0,6,2021-06-16
+829,2021-06-17 16:09:15+00:00,1405558168332038150,joinFIO,@ChangeNOW_io @GuardaWallet @Shibtoken Cheers to the both of you! It’s all in the family now 😍,1,1,0,2021-06-17
+831,2021-06-19 18:30:53+00:00,1406318586369429504,joinFIO,"Last week @lukestokes had the honor of presenting #FIO to the gov of El Salvador 🇸🇻 and offer support to make cryptocurrency easier &amp; more joyful to use
+
+Today we're proud to share a video update from this visit now up on the #FIO YouTube!
+
+Watch here 👉 https://t.co/Ncx5WKY513 https://t.co/x7tM74sO6w",52,1,13,2021-06-19
+832,2021-06-21 19:30:15+00:00,1407058302312275970,joinFIO,"You know what's awesome about a #DAC? Everything is discussed openly &amp; transparently.
+
+Now up on YT is this today's meeting with our Block Producers discussing #FIO Chain v3.0, #staking, #wrapping, updates in El Salvador &amp; the FIO Dashboard.
+
+Watch here 👉 https://t.co/FTwg5AIZZl https://t.co/DYCqlUS4df",26,0,9,2021-06-21
+833,2021-06-22 15:28:48+00:00,1407359927027343360,joinFIO,"Goodbye Long Addresses: How FIO Protocol is Making Wallet Handles Readable for Humans
+
+A tech deep-dive review up on @CoinMarketCap 
+
+Read more here! https://t.co/hKpY1v5WXS https://t.co/HWw76or2kA",26,1,4,2021-06-22
+835,2021-06-23 19:27:40+00:00,1407782426911383552,joinFIO,@ltc_angel That’s not my wallet,1,0,0,2021-06-23
+836,2021-06-24 18:50:23+00:00,1408135433200963585,joinFIO,@Macvanko https://t.co/94X93tjGYu,2,0,0,2021-06-24
+842,2021-06-25 11:51:04+00:00,1408392294286364673,joinFIO,Let us know what you think about this idea to help onboard Salvadoran citizens to #bitcoin n the comments 👇 https://t.co/3MI30JQGoC,17,0,0,2021-06-25
+849,2021-06-26 16:08:03+00:00,1408819354683285506,joinFIO,"@jvsephii Yep, late start yesterday. Going to give it a full 24 hours to give the community a fair chance to get in 😅",1,1,0,2021-06-26
+859,2021-06-27 13:49:35+00:00,1409146895516188673,joinFIO,@Changelly_team . @Changelly_team rocks our socks!! https://t.co/PzL0fHDWvm,0,0,0,2021-06-27
+861,2021-06-28 19:24:55+00:00,1409593672090402819,joinFIO,@EdgeWallet @lukestokes The @EdgeWallet team have been invaluable to FIO and the #FIOfam. We love you guys!,6,0,0,2021-06-28
+866,2021-06-29 20:37:37+00:00,1409974358920024068,joinFIO,@paullinator @bubweston @EdgeWallet @lukestokes 🔥🔥🔥,0,0,0,2021-06-29
+869,2021-06-30 15:49:01+00:00,1410264115143192579,joinFIO,"📣 Back with another great announcement for our #FIOfam!
+
+@Changelly_team Lists $FIO 🔥🔥🔥
+
+Changelly users can now easily swap $FIO for 200+ assets! Stay tuned for something fun coming your way early next week 😉
+
+Make sure you're following @Changelly_team + @joinFIO https://t.co/DAaOhRqLiZ",30,1,9,2021-06-30
+874,2021-07-01 11:56:34+00:00,1410568007827562498,joinFIO,"@coinavcisibey @TanZeynet @BitMartExchange We are trading on @binance 🤷‍♂️🤷‍♀️ Just announced an upcoming listing on @BitMartExchange and a new listing on @Changelly_team swap platform also as well as others. LOTS of activity happening here 🙃 We appreciate you, #FIOfam",0,1,0,2021-07-01
+883,2021-07-02 19:43:10+00:00,1411047820057059329,joinFIO,@Decrypt00 @GuardaWallet FTW though 😂,0,0,0,2021-07-02
+886,2021-07-03 16:20:40+00:00,1411359243173777409,joinFIO,@SergioBuffalo @Cointelegraph @lukestokes Artist fraud and forgeries are one of the biggest problems plaguing NFT’s today. FIO helps prevent this in a meaningfully significant way,1,1,0,2021-07-03
+887,2021-07-04 13:00:02+00:00,1411671141454802950,joinFIO,"Gain independence from long, boring &amp; complicated public addresses, get yourselves a unique memorable crypto handle... Get a #FIO Address!
+
+Happy 4th of July! https://t.co/WGFnUwJgcF",51,6,11,2021-07-04
+890,2021-07-05 04:20:36+00:00,1411902809679663105,joinFIO,"""El Salvador will set the bar on how to prepare for and transition to the future of decentralized, self-sovereign money,"" expresses @lukestokes.
+
+#BTC #FIOfam https://t.co/Wmfw5R2pQr",26,2,7,2021-07-05
+893,2021-07-06 17:31:43+00:00,1412464287080189956,joinFIO,Hey #FIOfam! Who are some of the top influencers in the industry you listen to and respect?,25,8,4,2021-07-06
+896,2021-07-07 18:20:08+00:00,1412838861160423425,joinFIO,"📢 In this week's update, @ericbutz, @pmmmm &amp; @KaitieZhee discuss the biggest #FIO Chain upgrade —FIO Chain v3.0!
+
+Learn about v3.0:
+
+🌟Transfer &amp; burn FIO Addresses
+🌟Locking of FIO Tokens
+🌟Purchase bundles txns &amp; avoid high gas fees
+
+ 👉 Full Update: https://t.co/WuTK3ahSUn https://t.co/cfTI7Oel1v",65,16,27,2021-07-07
+908,2021-07-08 02:52:58+00:00,1412967920334905344,joinFIO,"@ICryptoHunterI @ericbutz @pmmmm @KaitieZhee Gotta stake 'em all, right? 😉",1,0,0,2021-07-08
+913,2021-07-09 21:06:31+00:00,1413605509828161541,joinFIO,@MandalaEx https://t.co/WutBLoWDRh,1,0,0,2021-07-09
+919,2021-07-10 01:24:16+00:00,1413670372407484424,joinFIO,@manodawg1 https://t.co/5tcR1fFyww,1,0,0,2021-07-10
+937,2021-07-11 13:00:05+00:00,1414207867704336392,joinFIO,". @pmmmm explains how FIO Chain v3.0 upgrade enables users to transfer their #FIO crypto handle (username@domain) to a new owner!
+ 
+📺 Watch full update: https://t.co/WuTK3ahSUn https://t.co/oFWhuS6gzp",30,1,9,2021-07-11
+939,2021-07-12 15:50:21+00:00,1414613104462336012,joinFIO,"FIO… FIO… #FIOfam… you guys and gals are a spicy bunch!!! No shyness over here! 🤣
+
+Hard to choose a winner, but this comment took the cake… 🤭
+
+Congrats @KryptoMadeEazy, you officially made us spit out our drink when we read your comment. DM us your FIO crypto handle! 🎉 https://t.co/ZpsMh6DIu5",17,2,7,2021-07-12
+941,2021-07-13 16:52:11+00:00,1414991053870931969,joinFIO,".           (\__/)
+           (•ㅅ•)    me w/ #FIO crypto
+　＿ノ ヽ ノ＼＿   handle
+/　  / ⌒Ｙ⌒ Ｙ　ヽ
+( 　(三ヽ人　 /　　 |
+|　ﾉ⌒＼ ￣￣ヽ　 ノ
+ヽ＿＿＿＞､＿＿_／     (\__/)
+　　 ｜( 王 ﾉ〈             (•ㅅ•)   dude using
+　　 /ﾐ`ー―彡\           &lt;/    \&gt;  public keys",38,4,11,2021-07-13
+942,2021-07-14 08:32:05+00:00,1415227587844923398,joinFIO,"Our partner @Liquid_Global just launched Multi-Chain support for deposits &amp; withdrawals, allowing to receive &amp; send assets across multiple blockchains. 🎉
+
+This feature definitely minimizes dealing w/ multiple wallets &amp; private keys, and makes crypto simple, much like @joinFIO! https://t.co/Z8O0cP9eRb",42,1,9,2021-07-14
+943,2021-07-15 22:55:41+00:00,1415807306894389250,joinFIO,@Coachkcrypto Have you tried @joinFIO? It’s all open-source and decentralized. One crypto handle for all of your crypto. You can even send a crypto payment request with an encrypted memo. https://t.co/BjOck824Nw,2,0,0,2021-07-15
+945,2021-07-16 03:22:10+00:00,1415874371734761478,joinFIO,"That ""literal billion-dollar idea"" is already here... @joinFIO does it all.
+
+Avoid stressing like @Coachkcrypto, just join #FIOfam at https://t.co/FjAJGLZiXD and you'll never have to worry about managing 10 different wallets to interact with each ecosystem! https://t.co/9owB96JrQu https://t.co/lPU1MmygLi",19,4,8,2021-07-16
+949,2021-07-17 10:16:00+00:00,1416340902881099779,joinFIO,"Our official Discord community is a great place to discuss everything #FIO and meet the @joinFIO team!
+
+✨ Your invite: https://t.co/fehlKqBqN4 https://t.co/sm07r0JnIF",22,2,3,2021-07-17
+950,2021-07-18 11:05:00+00:00,1416715622508023808,joinFIO,".@pmmmm, head of product at @joinFIO, shares with #FIO Chain v3.0 upgrade the users will have the ability to destroy their FIO addresses from the chain, if they choose to do so!
+
+📺 Full Update: https://t.co/WuTK3azuiX https://t.co/hhDwmGT7Xf",24,4,10,2021-07-18
+953,2021-07-19 12:18:56+00:00,1417096616209571844,joinFIO,"@TheCRYPTOTrade3 Thanks for joining #FIOfam! 
+
+Sure, we're working on making our Discord community more active. 💪",1,1,0,2021-07-19
+957,2021-07-20 10:12:35+00:00,1417427206461001729,joinFIO,"We're back on Reddit. Join us at r/officialFIO and let's discuss everything #FIO! 🚀
+
+⚡ https://t.co/kGmbOBH9Xj https://t.co/CPFq2K39hY",16,1,4,2021-07-20
+959,2021-07-21 21:36:27+00:00,1417961696010846211,joinFIO,@hunkien23 @PancakeSwap Is there a specific website that discusses Token staking? Will have to see if a non-BSC token gets coverage,1,0,0,2021-07-21
+968,2021-07-22 21:52:00+00:00,1418327996339982339,joinFIO,"▬▬.◙.▬▬
+  ▂▄▓▄▄▂
+◢◤ █▀▀████▄▄▄▄◢◤
+█▄ █ █▄ ███▀▀▀▀▀▀▀╬ 
+◥█████◤
+══╩══╩═
+╬═╬
+╬═╬
+╬═╬
+╬═╬ 
+╬═╬ Just dropped down to say
+╬═╬      #FIO Token Staking is coming soon!
+╬═╬☻/
+╬═╬/▌
+╬═╬/ \",50,6,10,2021-07-22
+976,2021-07-23 01:55:15+00:00,1418389214169903115,joinFIO,@ErikVoorhees https://t.co/5ci0WTCZGN,3,0,0,2021-07-23
+979,2021-07-24 05:03:30+00:00,1418798975310647297,joinFIO,"Still too complicated to send/receive crypto? If yes, tag your fav wallets &amp; exchanges, and request to add #FIO Protocol.
+
+If you'd like to integrate FIO:
+⚡ Docs: https://t.co/gFjj4eVt8f
+⚡ Discord: https://t.co/fehlKqBqN4
+
+🌱 FIO's growing ecosystem: https://t.co/kPtL1XIuWv https://t.co/oieoAeuCtp",28,8,14,2021-07-24
+981,2021-07-25 13:44:53+00:00,1419292575517724676,joinFIO,@TheCRYPTOTrade3 🙏,1,0,0,2021-07-25
+987,2021-07-26 12:01:47+00:00,1419629014268858370,joinFIO,@deepakm65 Because cats are humans in disguise! 😹,1,1,0,2021-07-26
+990,2021-07-27 19:39:13+00:00,1420106519295660034,joinFIO,"Join our head of product, @pmmmm, at The Global NFT Summit 2021 where he and the NFT-industry leaders will be sharing insights on the future of #NFTs &amp; blockchain.
+
+🎟️ https://t.co/IyPxVxwBrc [Promo Code: Speaker34]
+⌚ 7.05 PM BST / 11:05 PM PT / 2:05 PM ET
+
+ #GNFT21 #NFT #FIO https://t.co/aJx51YsYr6",27,3,13,2021-07-27
+993,2021-07-28 03:07:24+00:00,1420219309335351298,joinFIO,@Whit3Walk3r @pmmmm @TechCircus_ https://t.co/EcRLROepiV,2,0,0,2021-07-28
+1003,2021-07-29 18:17:18+00:00,1420810683185123330,joinFIO,"@Muddass63366951 $FIO Staking upgrade will allow the #FIO token holders to stake &amp; earn rewards for participating in governance. Earlier participants receive greater rewards.
+
+Learn more here: https://t.co/KHKkcDeGnA 
+
+Join discord https://t.co/fehlKqBqN4 &amp; ask the team directly.",2,0,0,2021-07-29
+1006,2021-07-30 11:49:23+00:00,1421075445139664903,joinFIO,"⚡FIO hits 10,000 Subscribers⚡
+
+Subscribe to our official FIO YouTube channel. We share weekly #FIO updates, BP meetings, how-to videos, and all things FIO!
+
+Make sure you don't forget to hit that🔔icon to get new upload alerts.
+
+🧬https://t.co/iQjoGSdxHm https://t.co/HFKPaY7oFo",38,5,8,2021-07-30
+1013,2021-07-31 21:17:05+00:00,1421580700378042370,joinFIO,For sure @mateo_ventures is melting my brain 🤯with how they put together the awesomesauce FOR TONIGHT! Let's go!💎🧙‍♂️🙌 https://t.co/YgqmjZERIg,8,0,2,2021-07-31
+1025,2021-08-01 21:24:37+00:00,1421944983838511108,joinFIO,Look how supportive the #FIOfam is of one another! Touches our great big #FIO heart 💜💙 Love this community!!!,12,0,2,2021-08-01
+1038,2021-08-02 21:18:00+00:00,1422305706372329499,joinFIO,"⚡ FIOntastic Fact ⚡
+
+The FIP-21 will allow the #FIO token holders to stake and earn rewards for participating in blockchain governance.
+
+💊 https://t.co/pZhGtPZSCj https://t.co/kP8gI17X4f",36,1,11,2021-08-02
+1044,2021-08-03 07:31:57+00:00,1422460211361501188,joinFIO,"👉🏿👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👇🏾👈🏿
+👉🏿👉🏾👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👇🏽👈🏾👈🏿
+👉🏿👉🏾👉🏽👇🏼👇🏼👇🏼👇🏼👇🏼👈🏽👈🏾👈🏿
+👉🏿👉🏾👉🏽👉🏼👇🏻👇🏻👇🏻👈🏼👈🏽👈🏾👈🏿
+👉🏿👉🏾👉👉𝗝𝗼𝗶𝗻 𝗙𝗜𝗢👈👈👈🏽👈🏿
+👉🏿👉🏾👉🏽👉🏼👆🏻👆🏻👆🏻👈🏼👈🏽👈🏾👈🏿
+👉🏿👉🏾👉🏽👆🏼👆🏼👆🏼👆🏼👆🏼👈🏽👈🏾👈🏿
+👉🏿👉🏾👆🏽👆🏽👆🏽👆🏽👆🏽👆🏽👆🏽👈🏾👈🏿
+👉🏿👆🏾👆🏾👆🏾👆🏾👆🏾👆🏾👆🏾👆🏾👆🏾👈🏿
+
+        https://t.co/ItiUPqi5vi",32,3,11,2021-08-03
+1046,2021-08-04 03:08:28+00:00,1422756294742609922,joinFIO,"@Menudos_Ojazos There's no minimum, you will be able to stake as low as 1 $FIO. 🤘",2,0,1,2021-08-04
+1049,2021-08-05 19:32:52+00:00,1423366411582201857,joinFIO,"🔥 $FIO is available on @BitMartExchange 🔥
+
+$FIO is now introduced to over 5 million global users of BitMart, including US customers!
+
+▶️ Trade now: https://t.co/YKCSpyCGyu
+▶️ Learn more: https://t.co/cYFdim1z0f https://t.co/Vytj3b3EVd",82,14,23,2021-08-05
+1054,2021-08-06 06:16:00+00:00,1423528262144303104,joinFIO,"This cardboard dude knows what's best for crypto users! So just 👇🏻
+
+⚡ https://t.co/ItiUPq0uDK https://t.co/I95HhDOvKu",33,3,16,2021-08-06
+1060,2021-08-07 06:04:00+00:00,1423887630358306816,joinFIO,"🔥 We appreciate the efforts of #FIOfam to spread awareness, engage with community &amp; educate the non-FIO users. Please keep up this great work, it won't go unnoticed.
+
+▶️ The giveaway runs for 24hrs from the time of the giveaway tweet.",24,6,7,2021-08-07
+1063,2021-08-08 05:22:22+00:00,1424239543230746627,joinFIO,@imdeveshdutta https://t.co/UiSzm9IsrU,2,0,0,2021-08-08
+1065,2021-08-09 21:49:00+00:00,1424850222845358082,joinFIO,"#FIOfam, how READY are you? 🏋️ https://t.co/Bu1DxXq0mI",72,7,24,2021-08-09
+1068,2021-08-10 13:27:00+00:00,1425086278161244161,joinFIO,@TheCRYPTOTrade3 https://t.co/HiHMYcMunl,3,0,0,2021-08-10
+1073,2021-08-11 01:33:58+00:00,1425269226097414146,joinFIO,@lukestokes https://t.co/vnZkg2uVJo,2,0,0,2021-08-11
+1076,2021-08-12 13:27:00+00:00,1425811054106275845,joinFIO,"In this week's update, @lukestokes &amp; @KaitieZhee sat down to discuss all new integrations, listings, and partnerships we had in this power-packed last week!
+
+📺 Watch: https://t.co/GkGma3N3Nx
+
+🙏 S/O to @TheCurrencyHub &amp; @everstake_pool for adding constant value to the community! https://t.co/Oo0NTQ5FhZ",43,2,17,2021-08-12
+1078,2021-08-13 15:06:43+00:00,1426198537411317762,joinFIO,"🎉 100 $FIO Weekly #Giveaway 🎉
+
+It's #FIOfamFriday time, and we're giving away 100 $FIO to one active #FIOfam!
+
+Rules 🔽
+
+⚡ Follow @joinFIO 
+⚡ LIKE &amp; RT this tweet
+⚡ Tag 3 friends &amp; comment your FIO handle
+
+Don't have a #FIO handle yet? Register at https://t.co/ItiUPqi5vi now https://t.co/Ure4q5rIh5",164,105,109,2021-08-13
+1081,2021-08-14 17:42:05+00:00,1426600023865761793,joinFIO,"@_KriptoAvcisi_ There's no exact date. However, we're working to get it launched by Q3.",0,0,0,2021-08-14
+1083,2021-08-15 04:43:58+00:00,1426766594865127424,joinFIO,Wish a very Happy Independence Day to all the Indian #FIOfams across the globe! https://t.co/oSAzoGlJS0,50,7,12,2021-08-15
+1084,2021-08-16 03:19:28+00:00,1427107714472169472,joinFIO,"Hear ye, hear ye, we have a winner for our weekly #FIOfamFriday giveaway —Congrats, @Auden_W_, you have won 100 $FIO! Thanks for memes &amp; educating users about #FIO.
+
+💰 TX: https://t.co/fOxHtkMvNb
+
+To everyone, please keep engaging on our all tweets. You might be the next winner! https://t.co/R25m9Y6XF6",29,8,8,2021-08-16
+1089,2021-08-17 08:59:03+00:00,1427555561533362177,joinFIO,"Registering FIO Name (FIO crypto handle) with @EdgeWallet is simple &amp; easy... as it should be!
+
+Check out this guide by our in-house crypto coach @BlockchaynWayne &amp; never send crypto to a wrong address ever again: 👇
+
+▶️ Watch: https://t.co/QUIp9y0dvu https://t.co/GMIrHEn3BK",35,1,12,2021-08-17
+1091,2021-08-18 13:11:51+00:00,1427981569696796676,joinFIO,"""With the FIO Protocol, sending crypto is as simple as sending an email.""
+
+- @LukeStokes, Managing Director at @joinFIO https://t.co/dDJHDsnS9d",56,9,26,2021-08-18
+1093,2021-08-19 13:22:00+00:00,1428346510731845638,joinFIO,"This dude gets it, folks! 
+Use FIO, be cool. https://t.co/ZuaqIYsCKO",57,2,20,2021-08-19
+1095,2021-08-20 15:00:01+00:00,1428733566582677508,joinFIO,"▶️ To rank as the most active #FIOfam, make sure you engage (LIKE, RT &amp; Comment) on all of our tweets regularly.
+
+🏃‍♀️ The giveaway runs for 24hrs from the time of this giveaway tweet.",31,7,17,2021-08-20
+1100,2021-08-21 01:53:23+00:00,1428897989838270472,joinFIO,Less than 12 hours remaining 👀 https://t.co/1TFmWAqfeD,48,10,23,2021-08-21
+1104,2021-08-22 09:59:02+00:00,1429382596853522437,joinFIO,".@joinFIO wishes a Happy Raksha Bandhan to everyone celebrating today! 🎉
+
+Give a gift of crypto! https://t.co/TI2vAzjxAs",38,7,11,2021-08-22
+1106,2021-08-23 14:55:57+00:00,1429819708023316480,joinFIO,@CoinSocialS https://t.co/tVuEVEnjsh,3,0,1,2021-08-23
+1111,2021-08-24 21:22:00+00:00,1430279246224760833,joinFIO,"FIO Crypto Handles are much more than just ""wallet naming"" solutions.
+
+Here's how:
+
+☑️ Blockchain Agnostic
+☑️ Wallet Agnostic 
+☑️ Decentralized &amp; Private
+☑️ Much more than a “name”, it's an NFT https://t.co/G23x2nI7MW",39,4,16,2021-08-24
+1116,2021-08-25 13:09:34+00:00,1430517711126204420,joinFIO,"Sending/receiving crypto needs to be simple &amp; joyful for mass adoption, and this is where the FIO Protocol comes in!
+
+RT &amp; ❤️ if you agree with this! https://t.co/lF3y8nfxtB",42,6,20,2021-08-25
+1117,2021-08-26 00:06:00+00:00,1430682906008203269,joinFIO,"What is FIO Crypto Handle? Learn from our in-house crypto coach @BlockchaynWayne.
+
+▶️ https://t.co/jfe3j1UIWx
+
+Psst, it's an #NFT too! https://t.co/eqtpzQpQPm",48,6,24,2021-08-26
+1120,2021-08-27 12:29:00+00:00,1431232275933372425,joinFIO,"🎉 100 $FIO Weekly #Giveaway 🎉
+
+It's #FIOfamFriday time, and we're giving away 100 $FIO to one active #FIOfam!
+
+Rules 🔽
+
+⚡ Follow @joinFIO 
+⚡ LIKE &amp; RT this tweet
+⚡ Comment your FIO crypto handle
+
+Don't have a #FIO Crypto Handle yet? Register at https://t.co/ItiUPqi5vi now. https://t.co/WIU3c7JJii",176,114,121,2021-08-27
+1124,2021-08-28 18:31:26+00:00,1431685873846816770,joinFIO,"Hal pioneered #Bitcoin, and introduced the world to true financial freedom!
+
+@joinFIO following his vision, commits to make #Bitcoin easy for all.
+
+RIP the legend, Hal Finney! 🙏 https://t.co/PTKw65G41N",43,9,10,2021-08-28
+1131,2021-08-29 13:47:45+00:00,1431976872888340491,joinFIO,"🥁 DRUM ROLL 🥁
+
+Congrats, @tzip_dc, you are the winner of our weekly #FIOfamFriday giveaway. 100 $FIO has been sent to your @GuardaWallet. 🥳
+
+💰 TX: https://t.co/96Dq0YpMai
+
+Make sure to engage (LIKE, RT &amp; Comment) on our tweets regularly to improve your chances of winning. https://t.co/kkkb0tfSVV",36,13,12,2021-08-29
+1137,2021-08-30 04:39:05+00:00,1432201181435027468,joinFIO,"@tzip_dc @GuardaWallet Congratulations again, Tzip. HODL that $FIO and keep it ready for Staking! 😎",1,0,0,2021-08-30
+1141,2021-08-31 06:48:57+00:00,1432596252500185089,joinFIO,"#FIOfam, how does it feel to be invincible 💪? https://t.co/5IgJrddsvx",39,6,15,2021-08-31
+1143,2021-09-01 16:45:00+00:00,1433108639741399041,joinFIO,"Join our Conceptual Co-Founder, @davidmgold, for an AMA w/ @gate_io's CMO @marietatibouet!
+
+📅 Sep 2nd, 14:00 UTC
+📍 https://t.co/8yzYwMCNki
+🏆 Rewards: $250 in FIO
+
+Learn more about the FIO Protocol, exclusive updates on what's up &amp; coming next. Don't miss out &amp; save the date! https://t.co/lG8FxDSjnV",32,6,10,2021-09-01
+1145,2021-09-02 12:54:39+00:00,1433413058827747329,joinFIO,"⚠️We have received multiple reports of scam accounts imitating the official FIO socials!
+
+Official Links:
+☑️ https://t.co/bhhEqro4Er
+☑️ https://t.co/rKLeyUk2ia
+☑️ https://t.co/lDRvLelIXp
+☑️ https://t.co/qxmKkuY8io
+☑️ https://t.co/fehlKqBqN4
+☑️ https://t.co/kGmbOBH9Xj
+
+Stay SAFU🙏",44,8,20,2021-09-02
+1148,2021-09-03 13:50:00+00:00,1433789375318577173,joinFIO,"🎉 100 $FIO Weekly #Giveaway 🎉
+
+It's #FIOfamFriday time, and we're giving away 100 $FIO to one active #FIOfam!
+
+Rules 🔽
+
+⚡ Follow @joinFIO 
+⚡ LIKE &amp; RT this tweet
+⚡ Comment your FIO crypto handle
+
+Don't have a #FIO Crypto Handle yet? Register at https://t.co/ItiUPq0uDK now. https://t.co/jle0MEX2Uh",195,171,147,2021-09-03
+1152,2021-09-04 22:00:04+00:00,1434275095573319688,joinFIO,"Claiming a FIO Crypto Handle (sometimes called FIO Address) &amp; sending payment requests on our wallet partner, @GuardaWallet, is simple and easy... as it should be!
+
+📕 Learn: https://t.co/T4xstAWhI1
+▶️ Watch: https://t.co/vOETFvOIoe https://t.co/PPBPd1h3py",35,7,12,2021-09-04
+1158,2021-09-05 13:49:20+00:00,1434513985131274242,joinFIO,"🥳 Yay, we have our our weekly #FIOfamFriday winner! 🥳
+
+Congrats, @santaleman, you won 100 $FIO. Thank you for being one of the most active #FIOfams.
+
+💰 TX: https://t.co/t8cnuCrOXb
+
+Make sure to engage (LIKE, RT &amp; COMMENT) on our tweets regularly to improve chances of winning. https://t.co/DgQo2wMMHF",36,12,11,2021-09-05
+1159,2021-09-06 22:05:32+00:00,1435001244335190016,joinFIO,@IamCryptoZombie An area we’re working on improving in educating our #FIOfam on 💪,1,0,1,2021-09-06
+1164,2021-09-07 03:45:07+00:00,1435086705250340867,joinFIO,@MhanduTawonga TIL material for you :D,0,0,0,2021-09-07
+1168,2021-09-08 16:54:19+00:00,1435647701236924417,joinFIO,"@KryptoMadeEazy You should try it, it's super easy and fun.",0,1,0,2021-09-08
+1172,2021-09-09 20:42:05+00:00,1436067407244795911,joinFIO,"In this week's update, @lukestokes &amp; @KaitieZhee  sat down to discuss: 
+
+☑️ @XTexchange, the upcoming exchange to fully integrate FIO
+☑️ First official #BitcoinDay
+☑️ Increasing concerns over crypto usability, and #FIO's role in improving it
+
+📺 Watch: https://t.co/SB2G4tZcb7 https://t.co/cBGckLy7jg",31,5,16,2021-09-09
+1174,2021-09-10 17:31:06+00:00,1436381734447116289,joinFIO,"▶️ To rank as the most active #FIOfam, make sure you engage (LIKE, RT &amp; Comment) on all of our tweets regularly.
+
+🏃‍♀️ The giveaway runs for 24hrs from the time of this giveaway tweet.",24,3,7,2021-09-10
+1178,2021-09-11 04:12:19+00:00,1436543100109815808,joinFIO,Less than 12 hrs to go! 🏃‍♂️ https://t.co/kOU6Qrylla,35,7,11,2021-09-11
+1179,2021-09-12 14:10:46+00:00,1437056091221753862,joinFIO,"🥳 Yay, we have our weekly #FIOfamFriday winner!
+
+Congratulations, @ved8845, 100 $FIO's been sent to your @WhiteBit acc. Thank you for being an active #FIOfam.
+
+💰 TX: https://t.co/vDTUhvXzki
+
+Engage (LIKE, RT &amp; COMMENT) on our tweets regularly to improve your chances of winning. https://t.co/kOU6Qrylla",28,7,11,2021-09-12
+1181,2021-09-13 13:59:46+00:00,1437415713602359296,joinFIO,"With a FIO Crypto Handle, sending, receiving &amp; requesting crypto on our wallet partner, @Trustee_Wallet, is fun &amp; joyful. 
+
+However, if you haven't set up your crypto handle on Trustee yet, here's a guide by @blockchaynwayne to help you out 👇
+
+▶️ https://t.co/4xyN0mBmdP https://t.co/TvCGu7YgL1",32,1,15,2021-09-13
+1182,2021-09-14 17:26:48+00:00,1437830201375813632,joinFIO,"FIO operates as a DAC, and that means everything is discussed openly &amp; transparently!
+
+Our roadmap is public &amp; accessible to everyone to follow real-time progress.
+
+🤔 When FIO Staking? 
+💭 When NFT Signatures? 
+〰️ When FIO Dashboard?
+
+🗺️ Explore Roadmap: https://t.co/FvcImpJA2t",38,9,17,2021-09-14
+1183,2021-09-15 18:07:32+00:00,1438202843026976768,joinFIO,"8️⃣ The goal is to make the Dashboard a comprehensive tool for all things FIO. A future enhancement will enable Staking, BP voting, &amp; eventually FIO DAC voting.
+
+Work is also underway to enable Ledger Hardware support to further increase security.
+
+⚡More: https://t.co/IJv25xibFz https://t.co/C2wRTacCHB",29,7,15,2021-09-15
+1192,2021-09-16 03:39:37+00:00,1438346812138475522,joinFIO,@devapankaraa We're already in Testing Phase. We'll update the community on this! 🙏,0,0,0,2021-09-16
+1194,2021-09-17 18:36:39+00:00,1438934945443971072,joinFIO,"To new #FIOfams, your FIO Crypto Handle (sometimes called FIO Address or FIO Name) looks like username@domain &amp; is a replacement for a long Public Key like FIO76NGNJtzR3seg9mkBuCKYrvfitzew9XMYZ2fqcSWJwn1uxTnoi.
+
+Register your FIO crypto handle at
+
+▶️ https://t.co/ItiUPqi5vi",26,6,12,2021-09-17
+1197,2021-09-19 21:41:00+00:00,1439706111993651204,joinFIO,"🥁DRUM ROLL🥁
+
+Congratulations, @HighLifeTeam, you are the winner of our weekly #FIOfamFriday giveaway. 100 $FIO's been sent to your @GuardaWallet.
+
+💰TX: https://t.co/gmCYNLVFF3
+
+Make sure to engage (LIKE, RT &amp; Comment) on our tweets regularly to improve your chances of winning. https://t.co/vgLon6SezH",29,8,10,2021-09-19
+1198,2021-09-20 07:05:05+00:00,1439848069340618754,joinFIO,"Our managing director, @lukestokes, will be there in NYC at @Messaricrypto’s #Mainnet2021 to spread the word about the FIO Protocol, what's up &amp; what's coming next.
+
+Come join and say hi!
+
+Learn more at https://t.co/u2mMh9MEEd",56,8,20,2021-09-20
+1199,2021-09-21 18:52:47+00:00,1440388555654582275,joinFIO,What's the best #NFT you own? Shill us!,46,25,19,2021-09-21
+1201,2021-09-22 18:32:00+00:00,1440745715236413445,joinFIO,"🎉 New Wallet Integration: @BitKeepOS 🎉
+
+BitKeep, the wallet w/ 1 million+ monthly active users, has integrated the FIO Protocol to improve the usability for BitKeep users.
+
+The users will be able to send/receive any coin or token using a unique human-readable FIO Crypto Handle! https://t.co/qnYMeB9qp9",47,13,24,2021-09-22
+1203,2021-09-24 14:10:00+00:00,1441404554336215040,joinFIO,"🎉 100 $FIO Weekly #Giveaway 🎉
+
+It's #FIOfamFriday time, and we're giving away 100 $FIO to one active #FIOfam!
+
+Rules 🔽
+
+⚡ Follow @joinFIO 
+⚡ LIKE &amp; RT this tweet
+⚡ Comment your FIO crypto handle
+
+Don't have a #FIO Crypto Handle yet? Register at https://t.co/ItiUPq0uDK now. https://t.co/kGewmlsoE6",128,88,93,2021-09-24
+1204,2021-09-25 12:11:27+00:00,1441737107223896067,joinFIO,"Less than 2 hours remaining. Participate now, #FIOfam! 👌",25,4,7,2021-09-25
+1205,2021-09-26 11:34:31+00:00,1442090201384296449,joinFIO,"Sent crypto to wrong address ever?
+             /                    \
+         yes                     no
+          /                            \
+started using FIO?     Thanks to FIO!
+       /     \
+   yes      no
+    /            \
+👍         get 👇
+
+▶️https://t.co/ItiUPqi5vi",51,10,18,2021-09-26
+1206,2021-09-27 10:09:41+00:00,1442431241144479749,joinFIO,"Join #FIOfam on Telegram and let's discuss all things #FIO!
+
+💊 For Discussions: https://t.co/lDRvLeDklZ 
+💊 For Official Announcements: https://t.co/qxmKkuGxqQ https://t.co/bbIH670vCR",31,8,15,2021-09-27
+1208,2021-09-29 14:58:10+00:00,1443228614384762882,joinFIO,"Shopping online w/ #crypto using our payment processor partner, @CoinPaymentsNET &amp; #FIO Requests is fun &amp; easy. On top of that, it's super secured &amp; eliminates the need to copy/paste a long boring public address! 
+
+▶️ Watch this guide by @BlockchaynWayne: https://t.co/E2Cu05zfgx https://t.co/7Q3mvaKvmt",40,10,23,2021-09-29
+1209,2021-10-01 16:44:01+00:00,1443980029247979522,joinFIO,"🎉100 $FIO Weekly #Giveaway🎉
+
+It's #FIOfamFriday time, and we're giving away 100 $FIO to one active #FIOfam!
+
+Rules 🔽
+⚡ Follow @joinFIO
+⚡ LIKE &amp; RT this tweet
+⚡ Comment your FIO crypto handle
+
+Don't have a #FIO Crypto Handle yet? Register at https://t.co/ItiUPqi5vi now.",98,72,82,2021-10-01
+1210,2021-10-02 05:59:38+00:00,1444180254440837121,joinFIO,"To new #FIOfams, your FIO Crypto Handle (sometimes called FIO Address or FIO Name) looks like username@domain &amp; is a replacement for a long Public Key like FIO76NGNJtzR3seg9mkBuCKYrvfitzew9XMYZ2fqcSWJwn1uxTnoi. 
+
+Register your FIO crypto handle at
+
+⏩https://t.co/ItiUPqi5vi",22,3,10,2021-10-02
+1213,2021-10-03 09:15:02+00:00,1444591816087642112,joinFIO,"⚠️We have received multiple reports of scam accounts imitating the official FIO socials!
+
+Official Links:
+☑️ https://t.co/bhhEqr6tMT
+☑️ https://t.co/rKLeyU2rqC
+☑️ https://t.co/lDRvLeDklZ
+☑️ https://t.co/qxmKkuGxqQ
+☑️ https://t.co/fehlKqjPVw
+☑️ https://t.co/kGmbOBpz5L
+
+Stay SAFU🙏",30,5,15,2021-10-03
+1214,2021-10-04 16:44:57+00:00,1445067426702397445,joinFIO,"🎉New Integration: @CoinPaymentsNET🎉
+
+Shopping online with crypto just got easier than paying with a credit card! Pay quickly &amp; easily using your FIO Crypto Handle across 12K+ sites globally - no billing info or complex public addresses required.
+
+▶️More: https://t.co/iBmJwRsJBi https://t.co/fTcJSGklIX",41,6,17,2021-10-04
+1217,2021-10-06 17:03:45+00:00,1445796934040494081,joinFIO,"6️⃣ CoinPayments &amp; the FIO Protocol work together to improve the user experience, remove the potential for loss-making errors, and integrate crypto into more everyday transactions like shopping online.
+
+More on the blog: https://t.co/Ckfr8HxW4u",23,0,7,2021-10-06
+1227,2021-10-07 11:20:13+00:00,1446072867729207299,joinFIO,"Afraid &amp; worried you might have sent crypto to the wrong address again!?
+
+Use FIO Crypto Handle, bro! https://t.co/VdCHbPCmuP",55,9,19,2021-10-07
+1230,2021-10-09 00:51:15+00:00,1446639361886281728,joinFIO,"Now launching: $5M Integrator Grant Program for FIO Send 🚀
+
+FIO Send helps crypto apps measurably reduce support overhead &amp; improve usability via easy, error-free transactions with a FIO Crypto Handle.
+
+Learn more, apply now &amp; join the #FIOfam revolution: https://t.co/27e4QMp0xm",53,6,26,2021-10-09
+1232,2021-10-11 13:14:44+00:00,1447551241962262529,joinFIO,"FIO Send, a core feature of the #FIO Protocol, makes sending crypto easy &amp; stress-free, by eliminating the need to copy-paste public addresses!
+
+▶️ Watch how simple &amp; fun it is to use FIO Send feature within our exchange partner, @Liquid_Global: https://t.co/522q9Ta0VY https://t.co/NaMIHMliQd",37,6,14,2021-10-11
+1234,2021-10-12 20:07:18+00:00,1448017453288542208,joinFIO,"4️⃣ For e.g., @guarda is a public FIO Domain NFT registered by @GuardaWallet, and this enables any Guarda users to create a FIO Crypto Handle for FREE on their mobile wallet or by visiting https://t.co/W7www9VILk.",8,1,3,2021-10-12
+1241,2021-10-13 15:15:04+00:00,1448306297699545092,joinFIO,Be smart like Bart and use FIO Crypto Handle! https://t.co/Oj2PB5zzTr,36,6,12,2021-10-13
+1242,2021-10-14 17:26:01+00:00,1448701642266714121,joinFIO,"𝗡𝗙𝗧 𝗙𝗼𝗿𝗴𝗲𝗿𝘆 𝗣𝗿𝗲𝘃𝗲𝗻𝘁𝗶𝗼𝗻 is critical to the continued growth in the utilization of NFTs across the blockchain ecosystem. 
+
+And this is exactly what FIO Protocol has been trying to address with the upcoming FIO NFT Signatures (FIP-27) upgrade! 🔥
+
+A 🧵 https://t.co/6qOPaIXytU",62,13,32,2021-10-14
+1252,2021-10-15 20:23:55+00:00,1449108798338068481,joinFIO,"▶️ To rank as the most active #FIOfam, make sure you engage (LIKE, RT &amp; Comment) on all of our tweets regularly.
+
+🏃‍♀️ The giveaway runs for 24hrs from the time of this giveaway tweet.",31,9,18,2021-10-15
+1255,2021-10-16 15:30:58+00:00,1449397465744957450,joinFIO,Less than 3 hrs remaining. Participate now! https://t.co/Zjj0hguYHs,36,6,16,2021-10-16
+1257,2021-10-18 18:24:04+00:00,1450165799801409537,joinFIO,"Buying and selling FIO Crypto Handle &amp; Domain #NFTs on @OpenSea...
+
+Imagine how cool would it be! Just imagine🤯",44,13,20,2021-10-18
+1260,2021-10-19 14:23:07+00:00,1450467552690425868,joinFIO,6️⃣A “hash” is an algorithm that takes an arbitrary amount of data input (the Mona Lisa image) &amp; produces a fixed-size output of enciphered text called a hash value. Only exact input of the digital data contained in the Mona Lisa image purchased will produce that exact hash value.,5,1,4,2021-10-19
+1271,2021-10-20 18:20:00+00:00,1450889552776814592,joinFIO,"🎉 Upcoming Integration: @AAXExchange 🎉
+
+AAX is partnering with #FIO to bring better crypto usability to more than 2M+ global users!  
+
+AAX users will soon be able to send/receive/request any token or coin quickly &amp; easily using an easy-to-read FIO Crypto Handle. (e.g. joy@aax) https://t.co/hPViDcvklb",57,7,18,2021-10-20
+1272,2021-10-21 17:13:49+00:00,1451235284289421316,joinFIO,"FIO Crypto Handle makes sending, receiving &amp; requesting any coin or token simple &amp; joyful, and eliminates the need to copy-paste complex public keys!
+
+Here's how you can easily create a unique crypto handle (username@whitebitfio) on @WhiteBIT for FREE 👇
+
+https://t.co/mAc3Zd9pYF",24,2,15,2021-10-21
+1274,2021-10-22 01:36:00+00:00,1451361663664332802,joinFIO,@Uniswap FIO Token Wrapping (FIP-17a) upgrade will make it possible!,31,5,9,2021-10-22
+1275,2021-10-23 14:25:49+00:00,1451917784271622144,joinFIO,"Depositing any coin or token to @WhiteBIT is now easier than ever using a FIO Crypto Handle, thanks to FIO Request! 👌
+
+No more copy-pasting long &amp; boring complex public addresses.
+
+▶️ Watch a quick guide by our in-house crypto-coach @BlockchaynWayne: https://t.co/4qlWG7iu3V https://t.co/9sjd5OIapi",32,2,13,2021-10-23
+1280,2021-10-24 03:46:54+00:00,1452119382369447936,joinFIO,@nicksdjohnson @matthewegould @BrantlyMillegan @0xUSD @NftRoses @sohrab @unstoppableweb @telep_io @NFT_NYC @ensdomains @3boxlabs There’s a whole lot of competitiveness going on in this thread — We’re over here like… Open source? Solve a massive usability/real world pain point? Let’s talk and see if 1 + 1 = 3 and get this usability issue solved for the betterment of humanity #justsayin DMs are open,1,0,0,2021-10-24
+1281,2021-10-25 16:23:14+00:00,1452672107045810176,joinFIO,@spatzdroper @WhiteBit It's completely free to register your unique FIO Crypto Handle on @WhiteBIT as of now!,2,0,0,2021-10-25
+1285,2021-10-26 15:03:00+00:00,1453014303674716169,joinFIO,"Like #Bitcoin, FIO Crypto Handle NFT is for everyone!",32,8,12,2021-10-26
+1287,2021-10-27 10:15:03+00:00,1453304227753865216,joinFIO,"Join #FIOfam on Telegram and let's discuss all things #FIO!
+
+💊 For Discussions: https://t.co/lDRvLeDklZ 
+💊 For Official Announcements: https://t.co/qxmKkuGxqQ https://t.co/0ZyRktCQBk",17,4,9,2021-10-27
+1289,2021-10-28 13:50:00+00:00,1453720707829952512,joinFIO,"𝗪𝗮𝗻𝘁 𝘁𝗼 𝘄𝗶𝗻 𝟮𝟬𝟬 $FIO? 
+
+Make sure to participate in our ongoing 20,000 $FIO giveaway in collaboration with our exchange partner, @WhiteBIT. 👇 https://t.co/KwNy9MkRB4",35,9,14,2021-10-28
+1291,2021-10-29 19:28:36+00:00,1454168309541195777,joinFIO,"Don't miss the chance to win up to 500 $FIO!
+
+Get your own FIO Crypto Handle for FREE on Guarda, and share your crypto sin below to participate in our ongoing 2000 $FIO giveaway in collaboration w/ our wallet partner, @GuardaWallet 👇 https://t.co/4FOqsE3qpe",22,7,9,2021-10-29
+1292,2021-10-31 09:12:02+00:00,1454737921836150789,joinFIO,"Wanna hear a scary story? 💀
+Joe sent crypto to the wrong address &amp; lost it... again! 
+
+Happy Halloween 👻",44,13,11,2021-10-31
+1295,2021-11-02 17:33:43+00:00,1455588948881797121,joinFIO,"And of course, we have got you covered for the “Protecting NFT Permanence” topic too 👇 
+
+https://t.co/qqXusWzg4t",10,0,6,2021-11-02
+1303,2021-11-03 07:19:57+00:00,1455796875051757570,joinFIO,"@Mitev58281873 ""UNF*CK YOUR NFTs"" is a slogan for FIO NFT Signatures, a new feature by FIO to prevent NFT Forgeries &amp; protect NFT Permanence!
+
+Learn more here 👇
+
+https://t.co/hxToYs6Ap9",1,0,0,2021-11-03
+1306,2021-11-04 18:19:36+00:00,1456325269480947713,joinFIO,"💸 10,000 $FIO ❌ WhiteBIT Giveaway 💸
+
+Another week, another giveaway in collaboration w/ @WhiteBIT.
+
+To win:
+
+🔁RT &amp; LIKE
+🔁Watch: https://t.co/4qlWG70Tcn
+🔁Deposit $50+ in BTC, USDT, ETH, BCH, LTC, or FIO to WhiteBIT, using FIO request
+🔁Fill the form: https://t.co/NEljjjGS9R https://t.co/NpZmYXIoFk",39,2,18,2021-11-04
+1308,2021-11-05 14:44:22+00:00,1456633492142317574,joinFIO,"Thrilled to announce FIO is sponsoring the Miami Crypto Experience, for 3 full days of workshops, networking, &amp; celebration.
+
+🗺️ James L. Knight Center, Miami
+📅 Nov 10-12
+🌐 Tickets: https://t.co/0wYDJCqXH1
+
+Can't make it to Miami? See you in the @MiamiCryptoExp metaverse🙋‍♂️ https://t.co/FDwuQCOSLG",32,9,17,2021-11-05
+1311,2021-11-06 13:08:32+00:00,1456971762776752128,joinFIO,"🥷 Ninja-technique to 𝘂𝗻𝗳*𝗰𝗸 𝘆𝗼𝘂𝗿 𝗡𝗙𝗧𝘀 👇
+
+Try FIO NFT Signatures now: https://t.co/hxToYs6Ap9",23,3,7,2021-11-06
+1314,2021-11-07 15:30:03+00:00,1457369767162126340,joinFIO,"Our in-house crypto coach, @blockchaynwayne, had a great time at the Florida Bitcoin &amp; Blockchain Summit (Nov. 4-5) in Florida introducing &amp; explaining how the FIO Protocol protects the creators from NFT forgeries &amp; content impermanence, and brings better crypto usability to all. https://t.co/XrM5iu19ou",29,1,8,2021-11-07
+1315,2021-11-08 20:12:37+00:00,1457803262556467201,joinFIO,"🎉 500 $FIO Poll Giveaway 🎉 
+
+To win:
+🔁 RT &amp; LIKE this tweet
+💭 Comment your FIO Crypto Handle
+🗳️ Participate in the poll below 👇
+
+▶️ With a FIO Crypto Handle, you can send, receive and request:",240,212,195,2021-11-08
+1319,2021-11-09 11:15:00+00:00,1458030355756187663,joinFIO,"More details on the giveaway:
+
+☑️ The poll ends in 3 days from the time of the tweet.
+☑️ No of winners: 5
+☑️ Total Prize: 500 $FIO (100 $FIO each)
+
+Regularly engage (LIKE, RT &amp; COMMENT) on our tweets to better your chances of winning.",39,5,10,2021-11-09
+1321,2021-11-10 10:26:57+00:00,1458380653322375170,joinFIO,"🤮 The Problem: Having to copy-paste long &amp; complicated wallet addresses every time to send &amp; receive any coin or token.
+
+💪 The Solution: 𝗙𝗜𝗢 𝗖𝗿𝘆𝗽𝘁𝗼 𝗛𝗮𝗻𝗱𝗹𝗲
+
+Yes, it's that easy! 🤯",45,7,10,2021-11-10
+1326,2021-11-11 22:45:00+00:00,1458928775387918336,joinFIO,"ICYMI: We're giving away 11000 $FIO, in collab w/ @EdgeWallet, to attendees at @MiamiCryptoExp
+
+Visit FIO or @EdgeWallet booth to pick up the secret FIO Crypto Handle &amp; follow the steps👇
+
+Can't make to Miami IRL, visit booths in MCEx metaverse (https://t.co/IlTqkQNYtB) to enter. https://t.co/J2uQJZ3Wvu",20,2,7,2021-11-11
+1332,2021-11-12 19:48:56+00:00,1459246857465450501,joinFIO,"Follow the steps below &amp; participate in the above poll 👆 to win 500 $FIO.
+
+- RT &amp; LIKE the above poll tweet
+- Comment your FIO Crypto Handle
+
+# of winners: 5 (100 $FIO each)",37,12,18,2021-11-12
+1335,2021-11-13 18:39:49+00:00,1459591851439050760,joinFIO,"ICYMI: Participate in the poll 👇 to win 500 $FIO! 
+
+⚡ RT &amp; LIKE the tweet
+⚡ Comment your FIO Crypto Handle in the poll tweet
+
+# of winners: 5 (100 $FIO each) https://t.co/GkQ4CfrKMp",59,29,40,2021-11-13
+1336,2021-11-14 09:38:19+00:00,1459817964786659330,joinFIO,"The hat knows!
+
+--
+@BlockchaynWayne at @MiamiCryptoExp https://t.co/5fuXC8FVLe",37,2,7,2021-11-14
+1337,2021-11-15 20:01:30+00:00,1460337183261224960,joinFIO,"📢Hear ye, hear ye! We have our winners.
+
+Let's congratulate:
+🔵 @cryptocoinism 
+🟠 @spatzdroper 
+🟢 @GhanmiChokri 
+🟣 @DatDo65258442
+🔴 @BerkahyaNizar5 
+
+100 $FIO prize has been sent to the winners' FIO Crypto Handles.
+
+Thanks to everyone for participating in the poll. https://t.co/B7OV7h9SOA",18,6,2,2021-11-15
+1339,2021-11-16 11:15:05+00:00,1460567093280137222,joinFIO,"Our official Discord community is a great place to discuss everything #FIO, meet the FIO Protocol team, and have fun with spicy memes!
+
+⚡ Join us: https://t.co/vjUER1G2fd https://t.co/YwFGCYSG0x",25,0,7,2021-11-16
+1341,2021-11-17 14:13:27+00:00,1460974367035117574,joinFIO,"Excited to announce FIO is sponsoring @CoinFest Ghana 2021 by @BCFAfrica, a one-day event to explore how DeFi is helping Africa leapfrog from traditional banking.
+
+⏰ 10:00-17:00 GMT+0, 20th Nov
+🌐 https://t.co/BiOHNMxNoI https://t.co/a0yne85rOE",27,3,17,2021-11-17
+1343,2021-11-18 18:33:47+00:00,1461402272521338882,joinFIO,"More details on the giveaway:
+ 
+🎁 Total Prize: 2000 $FIO
+#️⃣ No. of winners: 100
+🧑‍🤝‍🧑 Eligible Participants: @BCFAfrica CoinFest Ghana attendees only",11,2,2,2021-11-18
+1346,2021-11-19 18:53:29+00:00,1461769615223058437,joinFIO,"More details:
+
+- # of winners: 20
+- The top-20 questions will be shortlisted &amp; answered via YouTube LIVE on https://t.co/VdzVoQuiiR
+- 100 $FIO prize will be sent to winners' FIO Crypto Handles.",13,5,4,2021-11-19
+1350,2021-11-20 13:22:00+00:00,1462048582375256069,joinFIO,"ICYMI: We have an ongoing 2000 $FIO giveaway in collab with @EdgeWallet for @BCFAfrica CoinFest Ghana attendees. 💰
+
+RT &amp; Follow the steps mentioned in the tweet below to participate 👇 https://t.co/wOhp88to4x",19,3,4,2021-11-20
+1352,2021-11-21 08:05:45+00:00,1462331386098958339,joinFIO,"FIO's initiative to make crypto easier for everyone in Africa.🌍
+
+-
+FIO w/ @EdgeWallet at @BCFAfrica CoinFest Ghana 2021. https://t.co/LehjzOWukY",57,3,11,2021-11-21
+1355,2021-11-22 13:45:03+00:00,1462779159319568392,joinFIO,"In the last week's BP meeting, our team &amp; BPs sat down to discuss:
+
+☑️ Staking rollout timeline
+☑️ Domain Marketplace
+☑️ pNetwork Integration
+☑️ FIO Dashboard
+☑️ FIO Token &amp; Domain Wrapping
+☑️ FIO Push Notification
+
+&amp; upcoming release roadmap!
+
+📺 Watch: https://t.co/mGJPmyvxpg https://t.co/bucwP6uTBV",28,2,10,2021-11-22
+1358,2021-11-24 22:00:17+00:00,1463628567032512514,joinFIO,"With FIO integration, @XcelPayWallet has become more complete &amp; powerful than ever! 💪
+
+You can claim a unique name@xcelpay FIO Crypto Handle for FREE, use it to send/receive/request any crypto, and can even buy FIO Domain inside the wallet.
+
+Learn more ⤵️ https://t.co/WuSJnw3rL5",22,2,8,2021-11-24
+1362,2021-11-25 14:54:13+00:00,1463883729496002563,joinFIO,"Thanks to industry leaders, crypto/NFT enthusiasts, protocols, and everyone contributing to improving crypto usability &amp; driving mass adoption!
+
+Happy Thanksgiving from FIO Protocol. 🦃 https://t.co/Yr7S051bjk",28,1,10,2021-11-25
+1365,2021-11-26 14:01:34+00:00,1464232869908394002,joinFIO,"Sending any coin or token from the @EdgeWallet using FIO Crypto Handle is simple &amp; easy, thanks to FIO Send. 👌
+
+Bye, bye to your old habit of copy-pasting long &amp; complex wallet addresses.
+
+📺 Quick guide on how to use FIO Send in Edge: https://t.co/cCd21l5rV6 https://t.co/EQiYyxEYL8",24,1,14,2021-11-26
+1368,2021-11-27 10:15:02+00:00,1464538246713643012,joinFIO,"Join #FIOfam on Telegram and let's discuss all things #FIO!
+
+💊 For Discussions: https://t.co/lDRvLeDklZ 
+💊 For Official Announcements: https://t.co/qxmKkuGxqQ https://t.co/Twh9LtHIsI",30,1,7,2021-11-27
+1371,2021-11-28 17:24:38+00:00,1465008745906196481,joinFIO,"""Firstly, look at the team, what is their track record, do they have much experience or is their first venture. Secondly, review the product or service the crypto startup is looking to solve,"" @LukeStokes shares how to spot a coin w/ real utility &amp; value!
+
+https://t.co/f7TvmCmpk9",36,1,10,2021-11-28
+1372,2021-11-29 13:47:37+00:00,1465316519219380227,joinFIO,gm #FIOfam!,41,9,10,2021-11-29
+1373,2021-11-30 05:30:19+00:00,1465553759677734916,joinFIO,"With FIO Crypto Handle, WAGMI, @APompliano! 💪 https://t.co/sSv3VoorWX",25,1,6,2021-11-30
+1377,2021-12-01 16:40:17+00:00,1466084747554156550,joinFIO,"Thank you for submitting questions for the fireside chat. 
+
+Congratulations to the qualified winners. Reply w/ your FIO Crypto Handle👇
+
+@spatzdroper @obit1010 @EvandaEscobar
+@Phuongh02 @rashmi2a @THEbit3 
+@ganeshorrell @Phuongh02 @Recepbey120
+@RejepovKuvvat @BtcWoody @AdexoNaux https://t.co/PMith2vajA",35,18,8,2021-12-01
+1378,2021-12-02 18:51:23+00:00,1466480131292028929,joinFIO,"@THEbit3 @spatzdroper @obit1010 @EvandaEscobar @Phuongh02 @rashmi2a @ganeshorrell @Recepbey120 @RejepovKuvvat @BtcWoody @AdexoNaux Could you please double-check your FIO Crypto Handle?
+
+The one you shared doesn't exist.",1,2,0,2021-12-02
+1381,2021-12-03 19:16:31+00:00,1466848842834272257,joinFIO,FIO Staking 👀,88,12,14,2021-12-03
+1383,2021-12-04 12:00:51+00:00,1467101592813912064,joinFIO,BUIDL,51,6,8,2021-12-04
+1386,2021-12-05 16:09:04+00:00,1467526447086534658,joinFIO,@spatzdroper @obit1010 @EvandaEscobar @Phuongh02 @rashmi2a @THEbit3 @ganeshorrell @Recepbey120 @RejepovKuvvat @BtcWoody @AdexoNaux Rewards have been sent to the winners! 👌,18,1,2,2021-12-05
+1387,2021-12-06 14:26:29+00:00,1467863016968314880,joinFIO,"Proud to announce FIO is sponsoring @CoinAgenda, the leading blockchain conference series!
+
+🗺️ Dec 7-9, San Juan, Puerto Rico
+🎟️ https://t.co/M50Jt2hscl
+🌐 https://t.co/ObVk2WgMpi
+
+Looking forward to meeting blockchain, DeFi &amp; NFT industry leaders.
+
+See you at #PRBlockchainWeek🙋‍♂️ https://t.co/LLxt5T7H8z",22,1,8,2021-12-06
+1388,2021-12-07 14:52:25+00:00,1468231932270067737,joinFIO,"🔥 New Listing + Integration: @Bitgetglobal
+
+Bitget will be listing $FIO token &amp; integrating FIO Send to bring better usability to their 1.5+ million global users.
+
+With FIO Send, Bitget users will be able to withdraw any coin/token using a human-readable FIO Crypto Handle. https://t.co/fJxgQpxpwv",58,4,18,2021-12-07
+1389,2021-12-08 13:05:11+00:00,1468567331009961996,joinFIO,"Join our managing director, @LukeStokes, at @CoinAgenda for his talk on FIO Protocol &amp; how FIO is improving better crypto usability to drive global mass adoption!
+
+⏰ 3:30 PM AST, Dec 8th
+🗺️ Miramar Events Center, San Juan, Puerto Rico
+🎟️ Tickets: https://t.co/M50Jt1ZRkN https://t.co/WKy6n5zLBm",28,2,6,2021-12-08
+1391,2021-12-09 15:49:35+00:00,1468971092102447120,joinFIO,"At @CoinAgenda, @Geoffreymccabe &amp; @bensig joined our managing director, @LukeStokes, for a panel discussion on the future of crypto, stablecoins, and Latin America! https://t.co/sn7bJzmIp5",27,2,2,2021-12-09
+1393,2021-12-10 18:12:10+00:00,1469369364206034947,joinFIO,"Have questions about what we're building at FIO?
+
+Join us for a biannual Community Call: an in-depth look into how we're establishing FIO Protocol into an industry-standard usability solution!
+
+🗓️ Dec 16, 2021
+⏰ 07:00 PT | 10:00 ET
+
+Grab your seat on ▶️ https://t.co/a2m9MEp0KL https://t.co/xJ7xYJ0Qrq",44,11,12,2021-12-10
+1395,2021-12-14 12:34:07+00:00,1470733840649842697,joinFIO,"ICYMI: Make sure to register for our biannual Community Call to learn what's up &amp; what's coming next to FIO Protocol!
+
+💫 Registration Link: https://t.co/4i2W2SMi2T https://t.co/St6mIZPpGT",13,1,3,2021-12-14
+1397,2021-12-15 17:18:07+00:00,1471167702366662657,joinFIO,"🔥 $FIO is now available on @BitForexcom 🔥
+
+Thrilled to announce $FIO token has been listed on BitForex under the FIO/USDT trading pair, introducing FIO to more than 5 million BitForex's global users!
+
+▶️ Start Trading: https://t.co/61bVEZzdpN https://t.co/9MafJp1Mqo",46,11,13,2021-12-15
+1398,2021-12-16 13:15:03+00:00,1471468920586526725,joinFIO,"Our official Discord community is a great place to discuss everything #FIO, meet the FIO Protocol team, and have fun with spicy memes!
+
+⚡ Join us: https://t.co/vjUER1G2fd https://t.co/ELAm3tYwNA",14,2,3,2021-12-16
+1402,2021-12-17 17:20:19+00:00,1471893030114234373,joinFIO,"""High gas fees certainly are a problem for crypto usage within e-commerce. However, I do think we will find solutions such as second layers like the bitcoin Lightning network or ZK snarks and optimistic rollups for Ethereum,"" shares @LukeStokes!
+
+https://t.co/tuV8TkHhMo",18,4,3,2021-12-17
+1403,2021-12-19 18:35:08+00:00,1472636634956926976,joinFIO,ICYMI: Your FIO Crypto Handles are now yours for life. No more renewal fees or expiration dates! 👌,46,3,10,2021-12-19
+1404,2021-12-20 19:30:24+00:00,1473012930308452366,joinFIO,"🎉 Upcoming Listing + Integration on @BitwellGlobal 🎉
+
+BitWell will be listing $FIO token &amp; integrating FIO Send to improve the crypto usability of their global users! 
+
+With FIO Send integration, BitWell users will be able to send any coin or token to a FIO Crypto Handle. https://t.co/V3L2lo7IuD",42,4,8,2021-12-20
+1405,2021-12-21 15:08:45+00:00,1473309473582182401,joinFIO,"7️⃣ Upcoming $FIO listing &amp; FIO Send Integration on @BitwellGlobal.
+
+https://t.co/dz7aiBjJqj",11,1,4,2021-12-21
+1413,2021-12-22 13:11:09+00:00,1473642262902890498,joinFIO,"Missed attending our In-depth Community Update Call? We've got you covered.
+
+Watch the recording where our team shared updates on:
+▫️ Mission &amp; Vision
+▫️ Finances
+▫️ Market Opportunity &amp; Growth to Date
+▫️ New FIO Dashboard Demo
+▫️ LIVE Q &amp; A, and more
+
+📺 https://t.co/O5tnaSFDP3 https://t.co/5duepyUWa4",31,3,8,2021-12-22
+1414,2021-12-23 15:22:00+00:00,1474037581004238848,joinFIO,"This season, treat yourselves with a 𝗙𝗜𝗢 𝗖𝗿𝘆𝗽𝘁𝗼 𝗛𝗮𝗻𝗱𝗹𝗲, and replace your long &amp; boring wallet addresses! 🎁",35,3,3,2021-12-23
+1416,2021-12-24 14:02:36+00:00,1474379986651987999,joinFIO,"FIO Crypto Handle makes sending, receiving &amp; requesting any coin or token simple &amp; joyful, and eliminates the need to copy-paste complex public keys!
+
+Here's how you can easily create a unique crypto handle (username@whitebitfio) on @WhiteBit for FREE: https://t.co/V3S665k9cy https://t.co/7cbx2qMvmw",39,5,11,2021-12-24
+1417,2021-12-25 11:15:02+00:00,1474700208479080450,joinFIO,Merry Christmas from all of us at FIO Protocol. Happy Holidays! 🎄 https://t.co/3XS0f9alu0,60,9,4,2021-12-25
+1418,2021-12-27 10:15:02+00:00,1475409882522267649,joinFIO,"Join #FIOfam on Telegram and let's discuss all things #FIO!
+
+💊 For Discussions: https://t.co/lDRvLeDklZ 
+💊 For Official Announcements: https://t.co/qxmKkuGxqQ https://t.co/oQtsljAjzC",31,3,5,2021-12-27
+1419,2021-12-28 05:01:47+00:00,1475693437517062146,joinFIO,"💥 Did you notice FIO has been on a listing &amp; integration spree?
+
+Just in the last few months, we have been 𝗹𝗶𝘀𝘁𝗲𝗱/𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗲𝗱 𝗶𝗻𝘁𝗼 𝟭𝟬+ 𝘄𝗮𝗹𝗹𝗲𝘁𝘀 &amp; 𝗲𝘅𝗰𝗵𝗮𝗻𝗴𝗲𝘀... bringing better crypto usability to global users!",58,8,16,2021-12-28
+1421,2021-12-29 17:46:04+00:00,1476248163237380098,joinFIO,"🔥 Upcoming Integration: @Koinbazar
+
+Excited to share Koinbazar will be integrating FIO Send feature.
+
+With a FIO Send integration, Koinbazar users will be able to send any coin/token to a human-readable FIO Crypto Handle, eliminating the need to copy-paste long wallet addresses. https://t.co/4sVc4gM6fE",37,3,8,2021-12-29
+1423,2021-12-30 14:02:04+00:00,1476554182391996430,joinFIO,"Depositing any coin or token to @WhiteBit is now easier than ever using a FIO Crypto Handle, thanks to FIO Request! 👌
+
+No more copy-pasting long &amp; boring complex public addresses.
+
+▶️ Watch a quick guide by our in-house crypto-coach @blockchaynwayne: https://t.co/DjBKR4rh5j https://t.co/eAFieXVqNC",37,1,3,2021-12-30
+1424,2021-12-31 18:50:03+00:00,1476989043585945603,joinFIO,"𝙷𝙰𝙿𝙿𝚈     𝙽𝙴𝚆     𝚈𝙴𝙰𝚁
+
+┏━━┓┏━━┓┏━━┓┏━━┓
+┗━┓┃┃┏┓┃┗━┓┃┗━┓┃
+┏━┛┃┃┃┃┃┏━┛┃┏━┛┃
+┃┏━┛┃┃┃┃┃┏━┛┃┏━┛
+┃┗━┓┃┗┛┃┃┗━┓┃┗━┓
+┗━━┛┗━━┛┗━━┛┗━━┛
+
+𝙵𝚁𝙾𝙼     𝙵𝙸𝙾     𝙿𝚁𝙾𝚃𝙾𝙲𝙾𝙻 https://t.co/jJlP3g8ACH",58,7,14,2021-12-31
+1426,2022-01-01 15:12:56+00:00,1477296790588170241,joinFIO,"⛅ ☁ ☁  ☁  🚁   ✈
+🏢🏤_🏬___/ |_\🏫🏢🌳🌳
+_____🚋_🚗__🚕____________
+🏡⁣🏥🏦  /   |🚖\ 🏠🌳🏡
+🏡🏡🏪 /    | 🚘\ 🏪🏨
+💒 🏨 /  gm, 2022  \ 🏡🏩",49,11,4,2022-01-01
+1427,2022-01-03 18:02:42+00:00,1478064291085381635,joinFIO,"Bitcoin introduced sound money to the world.
+FIO introduced a sound way to send, receive, &amp; request Bitcoin!
+
+Bitcoin 🤝 FIO
+
+Happy Birthday, #Bitcoin
+
+---
+Learn more 🔀 https://t.co/Y4MW7INxDc",40,4,10,2022-01-03
+1428,2022-01-05 11:42:29+00:00,1478693380347469825,joinFIO,"Be excited. Soon, you'll be able to put your $FIO to work for you!
+
+Learn more ⤵️ https://t.co/fKW7gPvLSg",56,4,13,2022-01-05
+1430,2022-01-06 09:11:26+00:00,1479017757576347652,joinFIO,"What is FIO?
+ 
+❌ Not a standalone wallet
+☑️ Usability solution, a data bridge across all the chains 
+☑️ Can be integrated into any wallet or exchange
+☑️ Enables an easier way to send, receive, &amp; request any crypto
+
+Ask your devs about FIO Protocol today!
+
+https://t.co/gFjj4eVt8f",31,2,10,2022-01-06
+1431,2022-01-07 17:02:40+00:00,1479498733775728651,joinFIO,"🚨 FIO &amp; GSR are excited to work together to enhance the robustness of the $FIO utility token in the market &amp; improve crypto usability!
+
+Founded in 2013, GSR has provided liquidity to over 130 protocols &amp; integrated w/ 60 trading venues.
+
+More on this ⤵️ https://t.co/K7gxxKriKy",48,2,14,2022-01-07
+1432,2022-01-11 09:41:30+00:00,1480837260916314113,joinFIO,"🎉 Upcoming Full Integration &amp; Listing on @MEXC_Global
+
+We're thrilled to welcome MEXC to the FIO ecosystem as MEXC will be fully integrating FIO Protocol &amp; listing $FIO to improve the crypto usability of their 6M global users!
+
+More in the blog or a 🧵
+https://t.co/HvkHJsePtV",46,5,11,2022-01-11
+1436,2022-01-12 16:49:37+00:00,1481307390268289024,joinFIO,"@First_RepIy @WietseWind Not yet. We'll update on our socials once the integration is completed &amp; LIVE!
+
+Make sure to follow us at @joinFIO!",1,0,0,2022-01-12
+1442,2022-01-13 05:30:02+00:00,1481498753056260098,joinFIO,"@XcelPayWallet @XcelDefi Reminder: The 1st round of the giveaway starts on the 14th. 
+
+To enter to win in round 1, simply register a FREE FIO Crypto Handle in the @XcelPayWallet between Jan 14-18!
+
+Learn how to create your own custom @𝘅𝗰𝗲𝗹𝗽𝗮𝘆 crypto handle ⤵️ https://t.co/yYGv0RC7av",30,4,9,2022-01-13
+1443,2022-01-14 15:14:41+00:00,1482008272299339776,joinFIO,"Okay, @Tesla made it easier to buy merch with $DOGE!
+
+Now, @ElonMusk should make it easier to receive $DOGE by accepting $DOGE directly with a FIO Crypto Handle. 🧠 https://t.co/xPN8r3Ub2d",62,6,14,2022-01-14
+1448,2022-01-17 17:10:13+00:00,1483124512577122307,joinFIO,@rxxddy 🧠 🤯,2,0,0,2022-01-17
+1453,2022-01-18 18:56:40+00:00,1483513688292491265,joinFIO,"7/ Be sure to subscribe to FIO Staking updates to stay informed on the Staking Activation countdown, the launch of FIO Staking in Edge Wallet, and progress against FIO Staking integration across additional platforms!
+
+FIO Staking Updates ➡️ https://t.co/PPxqKsGyCF",17,1,3,2022-01-18
+1461,2022-01-19 21:15:14+00:00,1483910947488296967,joinFIO,"🥁 DRUM ROLL 🥁
+
+Congratulations to the 20 round 1 winners of our $FIO + $XLD giveaway! 🧵
+
+Winners, keep an eye on your @XcelPayWallet - you've got 100 $FIO &amp; 200 $XLD incoming🥳
+
+⏳Up next, round 2... https://t.co/9le9HgZs3K",25,4,14,2022-01-19
+1465,2022-01-21 21:00:19+00:00,1484631968826355714,joinFIO,"💥 Update: Integration Complete
+
+@ONTOWallet's 700K+ global users can now create their own @𝗼𝗻𝘁𝗼 FIO Crypto Handle &amp; use it to easily send/receive any crypto. Goodbye long wallet addresses!
+
+Psst... ONTO Wallet also completed $FIO token listing.
+
+More: https://t.co/KZ9oveckpm https://t.co/dlJf2SisLU",28,7,10,2022-01-21
+1466,2022-01-24 17:07:45+00:00,1485660607449759744,joinFIO,"$FIO + $XLD Round 2 Giveaway Winners, part 2:
+
+sadyalunda@xcelpay | ordo@xcelpay
+marcgd@xcelpay | kk93@xcelpay
+metaversexld@xcelpay | cbit@xcelpay
+arifhidyawan@xcelpay | sharad@xcelpay
+daries@xcelpay | kunal2001@xcelpay",2,0,1,2022-01-24
+1470,2022-01-25 14:25:24+00:00,1485982139334201346,joinFIO,"FIO Address has a new name ⏭️ 𝗙𝗜𝗢 𝗖𝗿𝘆𝗽𝘁𝗼 𝗛𝗮𝗻𝗱𝗹𝗲
+
+We're officially sunsetting the use of FIO Address &amp; FIO Name, and are actively replacing those legacy terms with the community-supported term: FIO Crypto Handle!
+
+https://t.co/w5xJGSdTpD",33,2,8,2022-01-25
+1471,2022-01-26 04:31:26+00:00,1486195051038650370,joinFIO,"Catch our conceptual co-founder, @davidmgold, for an AMA in @XcelPayWallet's TG group.
+
+⏰ 11:30 EST / 9:30 MT, Jan 26
+📍 https://t.co/S8zym3ndxs
+🏆 10 questions during the AMA win a share of 1000 $FIO + 2000 $XLD 
+
+Get a FIO Crypto Handle to participate: https://t.co/ItiUPq12ti https://t.co/NrnnWsbNlf",19,4,6,2022-01-26
+1474,2022-01-27 17:08:08+00:00,1486747865921691651,joinFIO,"🔥 Upcoming Integration on @Talken_
+
+Talken, Korea's first multi-chain NFT wallet with over 4 million users, has partnered with FIO &amp; will be soon integrating FIO NFT Signatures + FIO Send into their platform.
+
+📘 More on this partnership: https://t.co/GJBzuHmU1T",28,1,9,2022-01-27
+1477,2022-01-28 06:18:39+00:00,1486946808039636992,joinFIO,"⬛⬛⬛⬛⬛⬛⬛⬛⬛
+🟦🟦🟦⬛🟦⬛🟦🟦🟦
+🟦⬛⬛⬛🟦⬛🟦⬛🟦
+🟦🟦🟦⬛🟦⬛🟦⬛🟦
+🟦⬛⬛⬛🟦⬛🟦⬛🟦
+🟦⬛⬛⬛🟦⬛🟦🟦🟦
+⬛⬛⬛⬛⬛⬛⬛⬛⬛
+
+Not Wordle, just $FIO",32,3,6,2022-01-28
+1479,2022-01-29 14:48:10+00:00,1487437417024212999,joinFIO,"""The FIO protocol is enabling artists to sign their work with an easily readable address that acts as a unique signature for their work, hence preventing NFT forgeries,"" @LukeStokes shares how blockchain can assure authenticity! https://t.co/SqKGGvURfd",29,1,10,2022-01-29
+1480,2022-01-30 16:21:09+00:00,1487823207465828354,joinFIO,"@impfact1 @EdgeWallet Right now, you can stake via Anchor Wallet. 
+
+Watch this video to learn how to stake ⤵️ https://t.co/kOWo0sECkb",1,1,0,2022-01-30
+1484,2022-01-31 14:02:25+00:00,1488150681576001541,joinFIO,"Sending any coin or token from the @EdgeWallet using FIO Crypto Handle is simple &amp; easy, thanks to FIO Send. 👌
+
+Bye, bye to your old habit of copy-pasting long &amp; complex wallet addresses.
+
+📺 Quick guide on how to use FIO Send in Edge: https://t.co/cCd21l5rV6 https://t.co/OIWI9Vx38M",15,2,4,2022-01-31
+1486,2022-02-01 14:11:02+00:00,1488515237909303303,joinFIO,"$FIO ❌ $XLD Round 3 AMA + Giveaway Winners ⤵️
+
+▫️ yousef@xcelpay 
+▫️ lapso@xcelpay 
+▫️ ozkozan@xcelpay 
+▫️ cudosinichi9999@xcelpay 
+▫️ boomsele02@xcelpay 
+▫️ unglhuc@xcelpay 
+▫️ masteryi1976@xcelpay 
+▫️ sanjeev@xcelpay 
+▫️ logus767@xcelpay",9,2,4,2022-02-01
+1488,2022-02-02 16:09:25+00:00,1488907417941585920,joinFIO,"Yay, FIO Send integration is LIVE on @XummWallet 💥
+
+We're excited to share XUMM users can now easily send $XRP &amp; any #XRP Ledger-issued tokens to a human-readable FIO Crypto Handle, without ever having to copy-paste long addresses again!
+
+Learn how to use FIO Send in XUMM ⤵️ https://t.co/kwXoY2L3CK",105,5,22,2022-02-02
+1491,2022-02-03 05:48:13+00:00,1489113474374553601,joinFIO,@Internacion_1 @XummWallet @xcelpay @edge @EdgeWallet @XcelPayWallet @GuardaWallet @WhiteBit Because @XcelPayWallet doesn't support $XRP or XRP Ledger-issued tokens at the moment.,1,1,0,2022-02-03
+1493,2022-02-04 16:10:49+00:00,1489632545319055365,joinFIO,"$FIO Staking is now LIVE in @EdgeWallet 💰
+
+Yes, now the Edge users can stake $FIO tokens in a few simple steps, support the network, put their $FIO to work, and earn rewards!
+
+Download or Update⏬ https://t.co/jqp2I9Z96F
+Learn how to stake in Edge ⤵️ https://t.co/ZsZ51Qhsm8",36,9,15,2022-02-04
+1496,2022-02-05 07:04:20+00:00,1489857405181575170,joinFIO,"@RupeshParmarX Hey there, yes, you need to withdraw using FIO network to your @EdgeWallet FIO address, and stake them to enjoy rewards.",0,0,0,2022-02-05
+1497,2022-02-06 16:30:17+00:00,1490362218361147392,joinFIO,"ICYMI: Some major updates in the last few weeks ⤵️
+
+☑️ $FIO Staking live in Anchor Wallet &amp; @EdgeWallet
+☑️ FIO Address is now FIO Crypto Handle
+☑️ No more renewal fees or expiration dates for FIO Crypto Handles
+☑️ Partnered w/ @GSR_io, @MEXC_Global
+☑️ Integration into @XummWallet",28,3,12,2022-02-06
+1499,2022-02-07 06:07:23+00:00,1490567849399980032,joinFIO,@ldu882211 @EdgeWallet It takes 7 days for tokens to unlock after unstaking!,1,1,0,2022-02-07
+1502,2022-02-08 20:58:00+00:00,1491154367151767552,joinFIO,"🚨 HAPPENING NOW: FIO x @EdgeWallet AMA 🚨
+
+Join the AMA in our Telegram group to learn more about $FIO Staking in Edge &amp; enter to win prizes!
+
+https://t.co/lDRvLeDSbx https://t.co/mrKD1MnnSq",14,2,1,2022-02-08
+1508,2022-02-09 16:30:21+00:00,1491449399586611205,joinFIO,"@pedarkhanD @EdgeWallet Do you mean APR and rewards?
+
+If yes, after the Staking Activation — which is set for Feb 22!",1,1,0,2022-02-09
+1512,2022-02-10 06:48:32+00:00,1491665370750406657,joinFIO,"🥁 DRUMROLL 🥁
+
+Congratulations to the winners of our FIO ❌ @EdgeWallet AMA giveaway.
+
+Thank you to all who participated! Winners, check your wallets — $FIO prizes have been sent directly to your FIO Crypto Handles 👇 https://t.co/mrKD1MEqUq",16,2,2,2022-02-10
+1515,2022-02-11 19:47:14+00:00,1492223725504057344,joinFIO,"⏳Last day to enter the #FIOStaking x @Edgewallet 12000 token giveaway!
+
+Details👇 in 🧵 https://t.co/oaA6mAqags",18,3,8,2022-02-11
+1517,2022-02-13 14:17:04+00:00,1492865410630176773,joinFIO,"Not sure what $FIO token utilities are?  
+
+$FIO is used for ⤵️
+
+🔹 FIO Crypto Handle &amp; Domain registration fees
+🔹 Transaction fees
+🔹 On-chain governance
+🔹 Staking and earning rewards",38,3,11,2022-02-13
+1520,2022-02-14 13:42:22+00:00,1493219065821020167,joinFIO,"Gifting crypto &gt; Gifting flowers
+
+So why not install FIO-enabled wallets, and gift your loved ones some #BTC to get started with crypto. 
+
+Make sure to help them set up a free FIO Crypto Handle here: https://t.co/ItiUPq12ti
+
+#HappyValentinesDay 💙",26,2,10,2022-02-14
+1521,2022-02-15 16:39:30+00:00,1493626031739002887,joinFIO,"💥 NEW PARTNERSHIP ALERT 💥 
+
+We're thrilled to announce our partnership with @Moonstake — the top #10 global staking provider w/ $1.8 billion TVL!
+
+Moonstake will soon join as an official FIO Block Producer &amp; enable $FIO Staking in their wallet.
+
+🔖 More: https://t.co/oSzsyB4OWd https://t.co/jPCFMDSRWL",37,11,13,2022-02-15
+1522,2022-02-16 14:59:08+00:00,1493963162005426177,joinFIO,"┻┳|
+┳┻|
+┳┻|
+┻┳|
+┻┳|
+┳┻|
+┳┻|
+┻┳|
+┳┻| __
+┻┳| •.•)  𝑃𝑠𝑠𝑡... 𝑡ℎ𝑒𝑟𝑒 𝑎𝑟𝑒 𝑛𝑜 𝑟𝑒𝑛𝑒𝑤𝑎𝑙 𝑓𝑒𝑒𝑠 𝑓𝑜𝑟
+┳┻|⊂ﾉ  𝐹𝐼𝑂 𝐶𝑟𝑦𝑝𝑡𝑜 𝐻𝑎𝑛𝑑𝑙𝑒𝑠 𝑎𝑛𝑦𝑚𝑜𝑟𝑒!
+┻┳|'",16,1,5,2022-02-16
+1525,2022-02-17 08:51:29+00:00,1494233025378275330,joinFIO,"@MZouakh @EdgeWallet Congrats, @MZouak! 
+
+Just noticed you've already staked that 200 $FIO prize in @EdgeWallet to earn some more rewards — like a true DeFi user &amp; #FIOfam 🥳",1,1,0,2022-02-17
+1528,2022-02-18 14:19:48+00:00,1494678038671343624,joinFIO,"@lucasmtny Hey Lucas, we're speaking at #ETHDenver tomorrow. 
+
+We'd love to catch up and discuss crypto usability, solutions to the NFT Forgeries problem, and Web3 in general. Feel free to drop by our booth on the second floor!",0,0,0,2022-02-18
+1529,2022-02-19 15:34:02+00:00,1495059105370697730,joinFIO,"Attending #ETHDenver?
+
+Catch our managing director, @LukeStokes, today for a panel discussion on ""The Road to Mass Adoption"" at  4 PM MT!
+
+Panel ⤵️
+@LukeStokes
+@FBrinkkemper (@oasisdotapp)
+@manasilvora  (@SkynetLabs)
+@MichelleAbbs (@metagoodnft)
+@shiralazar (mod @EthereumDenver) https://t.co/QePXUT3Wix",69,6,20,2022-02-19
+1530,2022-02-20 06:53:47+00:00,1495290570238877700,joinFIO,"@torsh977 Or, get a human-readable FIO Crypto Handle for yourself and recommend it to your friends. This will minimize (or possibly, eliminate) the risk of sending crypto to the wrong address!
+
+Get started here: https://t.co/ItiUPqi5vi",0,0,0,2022-02-20
+1531,2022-02-21 18:58:16+00:00,1495835281123328000,joinFIO,"FIO ❌ @EdgeofNFT Giveaway
+
+In collab w/ @EdgeofNFT, we're giving away a total of 5000 $FIO!
+
+Participate to win ⤵️
+
+🔁 RT &amp; LIKE
+👾 Create a FIO Crypto Handle, if you don't have one already: https://t.co/ItiUPq12ti
+🐾 Follow the steps here: https://t.co/AsYRjBdwmB
+
+Ends on 04/07 https://t.co/aa6pfD4JcO",120,14,104,2022-02-21
+1533,2022-02-22 16:22:45+00:00,1496158531266879491,joinFIO,"MEGA PARTNERSHIP ALERT
+
+We're beyond excited to announce our partnership w/ @BitcoinCom—the platform w/ 28.1 million wallets!
+
+https://t.co/DRjKVpEe0b has integrated FIO Send to make sending crypto easier than ever with a human-readable FIO Crypto Handle.
+
+https://t.co/aK3oB0Pldh",73,6,28,2022-02-22
+1535,2022-02-23 10:20:39+00:00,1496429793340170242,joinFIO,"💥 $FIO Staking Live in Tribe Wallet
+
+We're delighted to welcome Tribe Wallet in the FIO ecosystem as the 4th platform to enable FIO Staking!
+
+Now the wallet users can create a FIO Crypto Handle, receive $FIO, &amp; stake them to start earning rewards.
+
+More: https://t.co/kpZxqnuDsP https://t.co/65zgXUqi6M",23,2,7,2022-02-23
+1538,2022-02-24 14:05:52+00:00,1496848856696246275,joinFIO,"🚨 HAPPENING NOW: FIO x @GuardaWallet LIVE AMA on YouTube
+
+Join here: https://t.co/47UOQVms33
+
+Ask your questions, and stand a chance to win a share of 5000 $FIO! https://t.co/wwJYdhiYjb",16,0,2,2022-02-24
+1539,2022-02-25 15:02:37+00:00,1497225527068745733,joinFIO,"💥 New Integration: @Coinhub_Wallet 
+
+FIO Send has been integrated into Coinhub, making it easier for the wallet users to send any crypto to a human-readable FIO Crypto Handle!
+
+Download Coinhub: https://t.co/UAcy6Lga6W
+More on this integration: https://t.co/sHzzQIEK8t https://t.co/H3QC9Db0UF",14,2,5,2022-02-25
+1541,2022-02-28 09:25:15+00:00,1498227790780383235,joinFIO,"💥 Upcoming Integration: @MoonXBT_Global 
+
+MoonXBT, a trading platform serving 200+ countries, will soon be integrating FIO Send to enable an easier way to withdraw any crypto from their platform to a human-readable FIO Crypto Handle (e.g. jane@wallet)!
+
+https://t.co/mtbrL2liV0",16,1,6,2022-02-28
+1544,2022-03-01 05:36:31+00:00,1498532614843473923,joinFIO,"@emrekucukboz After unstaking, your tokens are locked for 7 days. During this period, you can't use the locked funds to stake again!
+
+However, what's your FIO Crypto Handle?",0,1,0,2022-03-01
+1548,2022-03-02 06:12:07+00:00,1498903962577039361,joinFIO,"Over 22.5 million $FIO tokens have already been staked in just 42 days since the $FIO Staking launch!
+
+Start earning rewards now: https://t.co/PPxqKsXBEF
+
+Hit 💙 if you are already staking your $FIO!",41,2,10,2022-03-02
+1549,2022-03-03 04:47:19+00:00,1499245009588998147,joinFIO,"🚨 Don't forget to participate in our another ongoing giveaway in collaboration with @EdgeofNFT.
+
+Make sure to follow the steps mentioned below, and you will be entered to win a share of 5000 $FIO! https://t.co/qvZLcfoGds",16,0,8,2022-03-03
+1553,2022-03-04 13:49:00+00:00,1499743715153248257,joinFIO,"Wondering what the real use cases of the FIO Protocol are?
+
+Hear our managing director, @LukeStokes, explaining the use cases in our recent FIO ❌ @GuardaWallet AMA with @GregGrigorev &amp; @memesandblocks!
+
+Watch the full AMA here: https://t.co/47UOQVms33 https://t.co/ewrll8KcC7",26,1,14,2022-03-04
+1554,2022-03-05 15:27:45+00:00,1500130955423789063,joinFIO,"In our recent FIO ❌ @GuardaWallet AMA, @LukeStokes sat down with @GregGrigorev &amp; @memesandblocks and shared how FIO is going to improve the human-readable experience in the Metaverse &amp; Web 3.
+
+Watch the full AMA here: https://t.co/47UOQV5p13 https://t.co/KSPbsdv0e8",24,1,9,2022-03-05
+1555,2022-03-06 04:54:38+00:00,1500334013906829316,joinFIO,"The $FIO Staking launch on @Moonstake Giveaway ends tomorrow - March 7th.
+
+Participate now and enter to win a share of 12,500 $FIO!
+
+RT &amp; follow the steps 👇👇👇 https://t.co/ykc4FeXdXo",28,4,13,2022-03-06
+1557,2022-03-07 13:38:33+00:00,1500828248519098369,joinFIO,"FIO Staking is a great way to support the network &amp; participate in on-chain governance all while putting your $FIO to work &amp; earning rewards!
+
+@LukeStokes shares how FIO Staking works in FIO x @GuardaWallet AMA w/ @GregGrigorev &amp; @memesandblocks
+
+Full AMA: https://t.co/47UOQV5p13 https://t.co/Lbh13edTzi",17,2,6,2022-03-07
+1560,2022-03-08 15:46:49+00:00,1501222919032442880,joinFIO,Happy Women's Day to all the incredible women out there 💙 https://t.co/83velabjeF,15,1,1,2022-03-08
+1562,2022-03-09 15:54:47+00:00,1501587310022107138,joinFIO,"It's predicted that crypto will hit 1 billion users within the next 5 years!
+
+Well, FIO's here to make onboarding easier &amp; bring better crypto usability to all these users.
+
+FIO is ready 💫 https://t.co/dvjeWtHgui",37,3,22,2022-03-09
+1564,2022-03-10 12:08:49+00:00,1501892833032417283,joinFIO,"@VelmaTheRight You can check the accrued rewards here: https://t.co/TWIzMjlVF2
+
+You will receive the rewards 7 days after you unstake the tokens!",1,0,0,2022-03-10
+1567,2022-03-11 18:45:51+00:00,1502355136995545089,joinFIO,"💥 FIO Send is live on @EllipalWallet 
+
+Rejoice, Ellipal users! Now you can send any cryptocurrency using a human-readable FIO Crypto Handle (e.g. jane@wallet). No more worrying about sending crypto to the wrong address!
+
+Get a crypto handle for FREE: https://t.co/ItiUPq12ti https://t.co/NTic8hWh1M",26,3,13,2022-03-11
+1568,2022-03-13 05:30:04+00:00,1502879644525428743,joinFIO,"Crypto transactions don't have to be stressful, get a FIO Crypto Handle &amp; chill.
+
+🎐 https://t.co/ItiUPq12ti https://t.co/5xHG07UN5T",34,2,7,2022-03-13
+1571,2022-03-14 15:42:00+00:00,1503396032012759040,joinFIO,"🥳 Upcoming Integration: @myDopamineApp
+
+Excited to announce we've teamed up w/ Dopamine to integrate FIO Send into their wallet!
+
+FIO Send will enable a better way of sending crypto for 1+ million Dopamine users with a FIO Crypto Handle (e.g.jane@wallet)!
+https://t.co/kGqHxWUkS4",21,3,5,2022-03-14
+1572,2022-03-15 10:02:25+00:00,1503672960154206210,joinFIO,"Get geared up —FIO in collab w/ our partner, @ONTOWallet, is hosting a mega giveaway!
+
+Events:
+🔽 Flaunt your FIO Crypto Handle
+☑️ Flex Your $FIO
+🪙 Flash Your Best AMA Questions
+
+Prize: 25000 FIO
+Duration: 03/16 - 04/01
+Full details: https://t.co/I0sKPn4bgG
+
+RT if you're excited https://t.co/i86kTlilpl",55,12,28,2022-03-15
+1575,2022-03-16 04:25:09+00:00,1503950472151199744,joinFIO,"@Z61SQUAD You can do more than just laugh; learn a lesson, get a human-readable 𝗙𝗜𝗢 𝗖𝗿𝘆𝗽𝘁𝗼 𝗛𝗮𝗻𝗱𝗹𝗲 (e.g. z61@squad) and never worry about sending crypto to the wrong address again!
+
+☑️ https://t.co/ItiUPq12ti",1,0,1,2022-03-16
+1577,2022-03-17 14:10:00+00:00,1504460042568814594,joinFIO,"FIO Send is now live on @AAXExchange 🎉
+
+Hooray, AAX has partnered with FIO &amp; has integrated FIO Send into their platform!
+
+Now, 2+ million AAX users can easily withdraw any cryptocurrency using a human-readable FIO Crypto Handle (e.g. jane@wallet)!
+
+More: https://t.co/DKvsFLJpQP https://t.co/yFdoPyM2Hz",28,3,12,2022-03-17
+1581,2022-03-18 13:12:25+00:00,1504807941224173578,joinFIO,"Don't miss out on the chance to win a share of 10,000 $FIO in the FIO ❌ @ONTOWallet's ""Flaunt Your FIO Crypto Handle"" Giveaway!
+
+Full details: https://t.co/Ff8mlS5DYT
+
+🔁 RT &amp; Download https://t.co/uo8ReJSblA now
+⤵️ Follow the steps mentioned below to participate  👇 https://t.co/A7o2mdGjuP",35,7,17,2022-03-18
+1582,2022-03-19 18:51:52+00:00,1505255753783066624,joinFIO,"Creating an @opera FIO Crypto Handle &amp; getting started w/ #web3 is easy ⤵️
+
+1️⃣ Open Opera browser for Android
+2️⃣ Click on the O icon at the bottom right of the screen
+3️⃣ Proceed to Settings
+4️⃣ Click on Crypto Wallet
+5️⃣ Register FIO Crypto Handle
+
+Download: https://t.co/ttDYoX2PnQ https://t.co/C5H0kaiYp6",28,3,10,2022-03-19
+1583,2022-03-20 03:08:28+00:00,1505380725683789824,joinFIO,"Our in-house crypto coach, @blockchaynwayne, spreading the word about FIO and how FIO makes crypto easier for everyone at Wealth Explosion 2022 in Miami, FL! https://t.co/56ZexJ1rqi",47,4,13,2022-03-20
+1585,2022-03-21 15:29:45+00:00,1505929665084821505,joinFIO,"🥳 New Week, New Giveaway
+
+Celebrating FIO Staking launch on @Moonstake w/ another 12,500 $FIO giveaway!
+
+To Participate &amp; Win:
+
+🔁 RT &amp; Follow @joinFIO + @Moonstake
+⏬ Download https://t.co/BGVRnmUKTw
+💥 Complete the form: https://t.co/jiqLQpwgS7
+
+100 Winners / Ends on April 4 https://t.co/SFOSdM2EjS",440,119,418,2022-03-21
+1587,2022-03-22 07:51:33+00:00,1506176743757185030,joinFIO,"Curious to learn what new features, developments &amp; upgrades we are working on at FIO?
+
+Head over to the FIO Improvements Proposals (FIPs) GitHub page &amp; find it yourselves 😁
+
+🪴 https://t.co/VMcVG58YUr
+
+Moreover, FIO as a DAC, the #FIOfam can review the FIPs and provide feedback!",22,2,8,2022-03-22
+1589,2022-03-23 05:42:46+00:00,1506506719920529415,joinFIO,"With the current 7-day APR hovering 𝗼𝘃𝗲𝗿 𝟳𝟵.𝟭%, there has never been a more perfect day to get started with $FIO Staking and earn rewards!
+
+🥩 Stake now: https://t.co/PPxqKsGyCF https://t.co/f58ezrtI5H",29,2,5,2022-03-23
+1591,2022-03-24 10:17:50+00:00,1506938330172489731,joinFIO,"Congratulations to our friends at @BitcoinCom for the successful launch of $VERSE, the new utility &amp; rewards token that will power the https://t.co/DRjKVpnaYb ecosystem! 🧑‍🚀 https://t.co/OIFECvo0X5",19,2,5,2022-03-24
+1595,2022-03-25 05:04:45+00:00,1507221930843475974,joinFIO,"🚨 Upcoming Integration: @CypheriumChain
+
+We're excited to announce FIO has teamed up w/ Cypherium to integrate FIO Send into its ecosystem!
+
+Soon, Cypherium wallet users will be able to send $CPH to FIO-enabled wallets using a FIO Crypto handle!
+
+More: https://t.co/Z1wp3DWd2W https://t.co/y03sOS7mjE",42,2,20,2022-03-25
+1598,2022-03-26 09:58:10+00:00,1507658157581307907,joinFIO,@CoinomiWallet gm ☕,1,0,0,2022-03-26
+1602,2022-03-28 06:21:26+00:00,1508328389543084046,joinFIO,"Join us on Telegram and let's discuss all things #FIO!
+
+💊 For Discussions: https://t.co/lDRvLeDSbx 
+💊 For Official Announcements: https://t.co/qxmKkuH5go https://t.co/ox92qAIl1V",21,5,7,2022-03-28
+1603,2022-03-29 12:49:11+00:00,1508788360709517320,joinFIO,"Benefits of integrating the FIO Protocol into wallets &amp; exchanges: 
+
+☑️ Enhanced user exp. &amp; decreased support costs
+☑️ Income generation 
+☑️ Receive integration grant of up to $500K
+☑️ Grow user base through FIO marketing programs
+
+Learn how to integrate: https://t.co/P1c9P9UIey",29,2,7,2022-03-29
+1605,2022-03-30 13:11:40+00:00,1509156403843194889,joinFIO,"Fun &amp; giveaways never stop around here at FIO...
+
+Participate &amp; win up to 3000 $FIO 🙀
+
+🔁 RT &amp; Download https://t.co/uo8ReK9enA
+🕹️ Get a FIO Crypto Handle in @ONTOWallet
+⛳️ Enter here: https://t.co/CR3akHc4Zm
+
+Prizes:
+🥇 3000 FIO
+🥈 2000 FIO
+🥉 1000 FIO
+
+1000 winners, Ends 04/06 https://t.co/Bjvvk53AYF",216,51,174,2022-03-30
+1606,2022-03-31 11:17:42+00:00,1509490113138417665,joinFIO,"Learn how FIO's partnership with @ONTOWallet is helping improve crypto usability, and win prizes!
+
+Join our conceptual cofounder, @davidmgold, for an AMA:
+⏰ 14:00 UTC, April 1st
+📍 https://t.co/HZRxGOT75X
+🏆 300 $FIO each, 10 winners
+
+Enter for prizes: https://t.co/BiQ5ApRClv https://t.co/9EXP3JeNUG",48,31,34,2022-03-31
+1608,2022-04-01 15:16:54+00:00,1509912695583100931,joinFIO,"🎉  🎉 $FIO is now available on @MEXC_Global
+
+The $FIO Listing Kickstarter on MEXC was hugely successful, with over 10.6M votes!
+
+Now, 6+ million MEXC users have direct access to buy $FIO &amp; utilize it to explore the FIO ecosystem!
+
+🛒 Trade FIO/USDT: https://t.co/O2c7QCj0g1 https://t.co/I7XswOVXKT",95,21,27,2022-04-01
+1612,2022-04-03 15:32:35+00:00,1510641418175348738,joinFIO,"🎊 12,500 $FIO Giveaway
+
+Our 2nd giveaway in collaboration w/ @Moonstake ends in less than 24 hrs!
+
+Don't miss out on the chance to win a share of 12,500 $FIO!
+
+🔁 RT &amp; Follow @joinFIO + @moonstake
+⏬ Download https://t.co/BGVRnnbNVw
+💥 Complete the form: https://t.co/jiqLQpNjU7 https://t.co/EqbFY6ylCz",307,128,260,2022-04-03
+1613,2022-04-04 16:51:01+00:00,1511023545026899974,joinFIO,"🙌 Thrilled to announce FIO has teamed up w/ @JUP_Project to integrate FIO Send into their wallet!
+
+Soon, Jupiter wallet users will never have to worry about sending crypto to the wrong address. Thanks to human-readable FIO Crypto Handle &amp; FIO Send!
+
+More: https://t.co/XFGa8vMzQN https://t.co/FIEUlKXN80",61,5,23,2022-04-04
+1615,2022-04-05 16:52:21+00:00,1511386269145657345,joinFIO,"@bloktopianista Yeah, super invincible @bloktopianista 💪 💯",1,0,0,2022-04-05
+1619,2022-04-06 14:34:05+00:00,1511713863393165312,joinFIO,"@cwarzel Yeah, the crypto industry really needs a usability layer like the FIO Protocol to make crypto easily accessible for everyone!
+
+One of the most common complexities is long alphanumeric wallet addresses, which we are trying to solve with FIO's human-readable crypto handles! 😊",0,0,0,2022-04-06
+1624,2022-04-07 14:00:32+00:00,1512067806405148681,joinFIO,"@alberto_cr2 Congrats on winning, @alberto_cr2! 🙌",1,0,1,2022-04-07
+1632,2022-04-08 15:05:28+00:00,1512446533261664258,joinFIO,"FIO team at #Bitcoin2022!
+
+#Bitcoin | @TheBitcoinConf https://t.co/Xkwvr8Vdvc",31,4,7,2022-04-08
+1638,2022-04-10 15:23:52+00:00,1513175939261231104,joinFIO,"We're ready at #Blockchain2022!
+
+Be sure to swing by the booth, meet the team, grab some #FIO swags, and let's 𝗨𝗡𝗙*𝗖𝗞 𝗬𝗢𝗨𝗥 𝗖𝗥𝗬𝗣𝗧𝗢!
+
+#Block22Miami | @blockconference https://t.co/4idSqwp3P2",44,2,10,2022-04-10
+1640,2022-04-11 20:41:53+00:00,1513618359828422658,joinFIO,"Sending any cryptocurrency from @InfinityWallet to any FIO-enabled wallet exchange, or platform just got a lot easier using a human-readable FIO Crypto Handle. Thanks to the FIO Send integration!
+
+Find out how to use the feature on Infinity Wallet: https://t.co/x0vpP6N54j https://t.co/aZNZBejdo5",29,1,12,2022-04-11
+1644,2022-04-12 05:15:07+00:00,1513747518277898243,joinFIO,"🥁 DRUM ROLL 🥁 
+
+Congratulations to all the 1003 winners of the 30,000 $FIO giveaway!
+
+Check your wallet, you have $FIO tokens waiting for you! 😁
+
+📃 List: https://t.co/6UagMTgITX
+
+Thanks to our wallet partner, @ONTOWallet, for this amazing giveaway collaboration! 🙏 https://t.co/YrmllsIBbt",29,4,13,2022-04-12
+1647,2022-04-13 04:00:41+00:00,1514091175577235460,joinFIO,"Over 250,000 @opera FIO Crypto Handles have been registered, with 8,000+ daily registrations and 25,000+ monthly active handles!
+
+Congratulations to us &amp; our friends at @Opera on hitting this milestone! 🥳🎊
+
+#️⃣ More detailed stats here: https://t.co/rmo9ojvT2I https://t.co/NS7gwJGmuE",46,2,19,2022-04-13
+1649,2022-04-14 07:53:11+00:00,1514512072503037953,joinFIO,"Don't miss out on the chance to win a share of 20,000 $FIO!
+
+To Participate 👇
+
+⛳️ Follow @joinFIO + @AAXExchange
+🔁 RT with #AAXlistsFIO &amp; tag 3 friends
+☑️ Fill out the form: https://t.co/laisyZSvM4
+
+500 Winners, Ends in 4 days!
+
+More giveaways coming up: https://t.co/vhQG9r6Dtf https://t.co/5yQLwKyMN7",33,4,12,2022-04-14
+1650,2022-04-15 15:00:09+00:00,1514981912506351616,joinFIO,"To celebrate the $FIO listing on AAX, we're giving away a total of 100,000 FIO to top 100 traders!
+
+🔁 RT + Follow @joinFIO &amp; @AAXExchange
+🕹️ Trade FIO on AAX: https://t.co/XMxSgre0LT
+
+Top #3 Prizes:
+🥇 15000 FIO
+🥈 10000 FIO
+🥉 5000 FIO
+
+Full details: https://t.co/ZUasnyA5vN https://t.co/ty89NGtA1C",53,7,23,2022-04-15
+1654,2022-04-16 04:17:10+00:00,1515182487965618178,joinFIO,"Subscribe to FIO Fixed Savings &amp; Share 80,000 FIO
+
+To celebrate the $FIO listing on @AAXExchange, we're giving away a total of 80,000 $FIO to Fixed Saving subscribers!
+
+☑️ Learn how to subscribe: https://t.co/dmC0DHt98t
+☑️ Details: https://t.co/ZUasnyA5vN
+
+Win up to 1000 $FIO! https://t.co/ybzNRu5PWT",57,4,14,2022-04-16
+1655,2022-04-17 17:26:42+00:00,1515743569922961411,joinFIO,FIO team wishes a Happy #Easter to everyone celebrating around the world! https://t.co/dF6Wl2q7c9,27,1,3,2022-04-17
+1658,2022-04-18 05:29:04+00:00,1515925358754770944,joinFIO,"The giveaways, in collab w/ @AAXExchange, end in less than 4 hrs!
+
+Don't miss out on the chance to win a share of 200000 $FIO.
+
+☑️ Giveaway 1: https://t.co/5yQLwKyMN7
+
+☑️ Giveaway 2: https://t.co/Ia1Z3fs8Ce
+
+☑️ Giveaway 3: https://t.co/awn4OiAYkw
+
+Details: https://t.co/ZUasnyA5vN",27,3,5,2022-04-18
+1659,2022-04-19 04:57:02+00:00,1516279685646209025,joinFIO,"@eggduardo_nft @nftnow Get yourself a FIO Crypto Handle and win over that fear! 😉
+
+↪️ https://t.co/ItiUPqi5vi",0,0,0,2022-04-19
+1665,2022-04-20 16:52:12+00:00,1516822048097685511,joinFIO,"🎊🎊🎊 MEGA PARTNERSHIP w/ @BINANCE 
+
+Hello, 90 million Binance users, now you can deposit &amp; 𝘀𝘁𝗮𝗸𝗲 $𝗙𝗜𝗢 for 30, 60, or 90 days, &amp; enjoy up to 107.69% APY on Binance!
+
+To celebrate this mega integration, we're giving away 400,000 $FIO!
+
+🥩 Details: https://t.co/1GGtYOQb32 https://t.co/eOo1agiCPN",84,8,29,2022-04-20
+1666,2022-04-21 13:57:41+00:00,1517140520987811843,joinFIO,"fact of the day!!!
+
+gm, #FIOfam ☕ https://t.co/5iuXpmaM0a",52,3,10,2022-04-21
+1670,2022-04-22 13:39:49+00:00,1517498409095114752,joinFIO,"gm, and happy earth day 🌍",55,5,7,2022-04-22
+1671,2022-04-23 15:39:43+00:00,1517890971798749185,joinFIO,"💰💰 150,000 $FIO Staking Giveaway
+
+The first 1,000 new Locked Staking users on @Binance will get to win a share of 150,000 $FIO!
+
+☑️ Go to https://t.co/GqxL6K3BnZ
+☑️ Subscribe (Stake) a minimum of 600 FIO in FIO Locked Staking products
+
+Details: https://t.co/DODUQOsQbR https://t.co/BICc6mDBcs",61,7,19,2022-04-23
+1672,2022-04-25 08:55:49+00:00,1518514104738009089,joinFIO,"🧠Did you know?
+
+The FIO Domain owner can change their domain to ""Public"", which would allow anyone w/ a FIO private key to register a crypto handle on the domain.
+
+Find your fav public domain (@moon, @hodl, @wallet) &amp; register a unique crypto handle now!
+
+https://t.co/zdFuN5ETbr",27,2,6,2022-04-25
+1675,2022-04-26 15:32:37+00:00,1518976348466810881,joinFIO,"🥁 DRUM ROLL 🥁 
+
+Congratulations to all the 1660 winners of #AAXlistsFIO giveaways!
+
+📃 List: https://t.co/wfp68B5j4A
+
+Winners check your FIO wallet on @AAXExchange, you have $FIO rewards waiting for you!
+
+Also, keep an eye out, we have more giveaways &amp; events coming up! https://t.co/5yQLwKyMN7",27,5,9,2022-04-26
+1677,2022-04-27 06:01:02+00:00,1519194895243628545,joinFIO,"ICYMI: You can now stake $FIO on @Binance and enjoy up to 107.69% APY!
+
+☑️ Staking Duration: 30, 60, or 90 days
+☑️ Promo Ends on 04/30 at 11:59 AM (UTC)
+
+Full Details: https://t.co/DODUQObeNh
+
+Buy or Deposit your $FIO &amp; Stake Now! https://t.co/SR7uMb8t1e https://t.co/VoEtZ8BYbN",32,1,10,2022-04-27
+1680,2022-04-28 02:46:38+00:00,1519508359031840769,joinFIO,"Hit ❤️ and comment ""Yes"" if you are already staking $FIO on @Binance!",108,51,15,2022-04-28
+1682,2022-04-29 08:26:00+00:00,1519956150283694080,joinFIO,"🎊 3000 $FIO Giveaway 🎊
+
+Don't miss out on the chance to win a share of 3000 $FIO in our #FIOQuizwithMoonstake giveaway!
+
+To Win:
+1️⃣ RT + Follow @joinFIO &amp; @moonstake
+2️⃣ Download https://t.co/BGVRnnbNVw
+3️⃣ Fill out the form: https://t.co/N1GywxtoBS
+
+25 Winners, Ends on May 4th https://t.co/EwdnYO8RIK",40,4,19,2022-04-29
+1683,2022-04-30 04:49:31+00:00,1520264057848094720,joinFIO,"Bitcoin@moon is a cool crypto handle, right? 😎
+
+Well, register your own @𝗺𝗼𝗼𝗻 cool crypto handle on the FIO Dashboard.
+
+🛹 https://t.co/dGM7TPa1Sg
+
+Psst... there are @𝗵𝗼𝗱𝗹, @𝘄𝗮𝗹𝗹𝗲𝘁, or custom domains too to select from!",29,6,7,2022-04-30
+1684,2022-05-01 15:52:37+00:00,1520793319755763712,joinFIO,"gm, and Happy International Workers' Day to all the workers around the world... especially our FIO team 👏💪
+
+Celebrate this day by submitting a Worker Proposal to join the #FIO team and help us make crypto fun &amp; simple!
+
+🌱 https://t.co/xxTXcvUlqu",30,1,5,2022-05-01
+1685,2022-05-02 16:07:58+00:00,1521159572647464961,joinFIO,"FIO 🤝 WalletSwap
+
+WalletSwap has integrated a few more FIO features! Now the wallet users can:
+
+☑️ Purchase custom FIO domains &amp; create their own crypto handles
+☑️ Create a @walletswap crypto handle for FREE
+☑️ Use it to send &amp; receive any crypto
+
+More: https://t.co/sqRs1nUQw5 https://t.co/m5hnjEezWa",98,15,42,2022-05-02
+1686,2022-05-03 18:57:54+00:00,1521564724680605696,joinFIO,"We're excited to share FIO is featured in @MessariCrypto's Research Report!
+
+Learn about FIO Protocol in depth, its core features, and the way each feature contributes to building a more usable crypto future.
+
+📘 Read: https://t.co/Q5rswMQaJY https://t.co/zw4KNzVS3G https://t.co/8Dq1ocAF5d",28,1,13,2022-05-03
+1688,2022-05-05 03:05:23+00:00,1522049792238813191,joinFIO,"Use a crypto handle and get the $FIO force on your side!
+
+May the Fourth be with you! 🌌
+
+---
+#StarWars #Web3 #Cryptocurrencies https://t.co/oPuX9Jlzgh",39,4,5,2022-05-05
+1692,2022-05-06 13:30:08+00:00,1522569403782418435,joinFIO,"We're excited to share $FIO has been listed under FIO/USDT on @MEXC_Global Margin Trading with 4x leverage long &amp; short!
+
+🛒 Trade: https://t.co/N28UwgBUR2
+
+Details: https://t.co/T3otK9amt9 https://t.co/1FVFlcZgw5",58,3,27,2022-05-06
+1693,2022-05-07 16:45:20+00:00,1522980916385415168,joinFIO,"If FIO becomes the industry standard for crypto usability (which we will), here's an est. of FIO's economic value in 5 yrs:
+
+☑️ At 30% adoption: $7.92 B
+☑️ At 100% adoption: $26.4 B
+
+Read @MessariCrypto's report &amp; learn how FIO can bring better usability: https://t.co/Q5rswMQaJY https://t.co/NyMhxChM1w",44,1,16,2022-05-07
+1694,2022-05-08 15:01:21+00:00,1523317135904100353,joinFIO,"gm, and #FIOfam wishes a very Happy Mother's Day to all the incredible moms out there🌸❤️ https://t.co/uUvjvdozdg",34,1,9,2022-05-08
+1695,2022-05-09 16:01:31+00:00,1523694665006030851,joinFIO,"Create your own cool crypto handle on @WalletSwap (such as cool@walletswap), and use it to send &amp; receive any cryptocurrency!
+
+WalletSwap users now never have to worry about sending crypto to the wrong address.
+
+📺 Watch how to set up a crypto handle: https://t.co/Db0JMHY5UG https://t.co/d0sDygMFF2",73,6,37,2022-05-09
+1696,2022-05-10 06:56:13+00:00,1523919823654522880,joinFIO,"🥁🥁 DRUM ROLL 🥁🥁
+
+Congratulations to all the winners of our ""FIO Quiz with @Moonstake"" giveaway.
+
+📃 List: https://t.co/NITDX0W6Yz
+
+Rewards have been distributed to the winners. Please check your wallet!
+
+Don't forget, you can earn more rewards by staking the $FIO prize!!! https://t.co/EwdnYOr0WS https://t.co/DceoFsh3P4",20,2,7,2022-05-10
+1698,2022-05-11 14:36:44+00:00,1524398103490854912,joinFIO,"We've seen a steady inflow of new Crypto Handle registrations. There are over 704,000 FIO Crypto Handle registrations, out of which over 459,000 are presently active!
+
+Check @MessariCrypto's Research Report, and learn more about FIO &amp; our growth: https://t.co/Q5rswMQaJY https://t.co/bIkkxVc3lB",37,12,15,2022-05-11
+1699,2022-05-14 04:10:25+00:00,1525327650981842944,joinFIO,"Start using a crypto handle, and stop losing!
+
+⚓ Get yours here: https://t.co/ItiUPq12ti https://t.co/S8S1XJflxU",42,7,13,2022-05-14
+1700,2022-05-15 18:43:55+00:00,1525909862458478593,joinFIO,"Doesn't matter whether NFT sales are up or down... It's always the right time to get an #NFT with a use case like a FIO Crypto Handle, the original NFT!
+
+↪️ Grab your unique crypto handle NFT here: https://t.co/qd5XPvpkwf",29,4,6,2022-05-15
+1701,2022-05-16 13:54:22+00:00,1526199379706941440,joinFIO,"In case you missed it, your crypto handles never expire. They are now yours for life!
+
+Thanks to FIP-31!
+
+And yeah, gm, frens 💙☕",46,2,6,2022-05-16
+1702,2022-05-17 16:54:53+00:00,1526607197303721984,joinFIO,"🎉🎉 Upcoming Integration: @Mexo_io
+
+We are excited to announce that FIO has teamed up with Mexo to integrate FIO Send into the exchange to allow users to easily send any cryptocurrency in a process as easy and simple as sending an email.
+
+↪️ Full details: https://t.co/gYIn4qaqNW https://t.co/9ZLiogEiDZ",48,6,12,2022-05-17
+1703,2022-05-18 02:02:48+00:00,1526745087094706176,joinFIO,"Almost 50,000 @𝗴𝘂𝗮𝗿𝗱𝗮 crypto handle registrations 🤯🤯🤯
+
+Only 98 more to go!!!
+
+Download @GuardaWallet and go get your cool @𝗴𝘂𝗮𝗿𝗱𝗮 crypto handle for FREE: https://t.co/u3STn12fBR",28,2,11,2022-05-18
+1706,2022-05-19 10:40:39+00:00,1527237795244556288,joinFIO,"Since our launch in 2020, FIO has been integrated (&amp; is being integrated) into 58 platforms (incl. top tier exchanges, wallets, payments, &amp; NFT marketplaces) to enable better usability!
+
+↪️Read @MessariCrypto's report to learn how FIO's driving adoption: https://t.co/Q5rswMQaJY https://t.co/ttbOpKcSjV",47,7,16,2022-05-19
+1710,2022-05-20 14:52:30+00:00,1527663560184446977,joinFIO,"@HappyCryptoGuy And we 💙 you, #FIOfam!",4,0,1,2022-05-20
+1711,2022-05-21 15:17:45+00:00,1528032302500302850,joinFIO,"yeah, that's a fact 👌 https://t.co/KRh1aFXEyK",42,1,11,2022-05-21
+1712,2022-05-22 15:53:37+00:00,1528403719754510337,joinFIO,"On this day in 2010, Jeremy Sturdivant accepted the offer of 10,000 #Bitcoin for two pizzas, valued at around $41 back then!
+
+Happy #BitcoinPizzaDay 🍕 https://t.co/rdbcBPt0XY",35,3,7,2022-05-22
+1713,2022-05-23 16:41:37+00:00,1528778187500843009,joinFIO,"FIO offers three core functionalities to improve usability:
+1️⃣ crypto handles
+2️⃣ requests
+3️⃣ data
+
+Learn more about FIO &amp; how it enables crypto adoption through better usability: https://t.co/Q5rswMQaJY
+
+Visualization of how FIO works using these core features ⤵️ https://t.co/1vj3GosuNb",32,2,11,2022-05-23
+1714,2022-05-24 15:58:34+00:00,1529129737968226304,joinFIO,"For the uninitiated, watch this clip to learn what the FIO Protocol is 👇👇👇
+
+#UnFckYourCrypto https://t.co/kvYXc9Jeiq",39,3,10,2022-05-24
+1716,2022-05-25 16:35:03+00:00,1529501310394912773,joinFIO,"🎉 Upcoming Integration + Listing: @SimpleHold
+
+We are excited to announce that FIO has teamed up w/ SimpleHold to list $FIO &amp; integrate FIO Send!
+
+Soon, the wallet users will never have to worry about sending crypto to the wrong address!
+
+Details: https://t.co/kVKRh6LOlO https://t.co/lfp0ULpYrB",33,1,9,2022-05-25
+1717,2022-05-26 15:02:03+00:00,1529840294690050048,joinFIO,"gm, $FIO stakers ☕
+
+𝗥𝗲𝗺𝗶𝗻𝗱𝗲𝗿: Right now, you can earn 34.27% APR on your staked $FIO!
+
+🥩Stake to earn now: https://t.co/GwuqpxY4ow",40,2,8,2022-05-26
+1718,2022-05-27 13:15:03+00:00,1530175753127600130,joinFIO,"🎊🎊 Over 50,000 @𝗴𝘂𝗮𝗿𝗱𝗮 crypto handles have been registered now!
+
+Congratulations to our partner, @GuardaWallet, on hitting this amazing milestone!
+
+If you haven't already, download Guarda Wallet &amp; go get a cool @𝗴𝘂𝗮𝗿𝗱𝗮 crypto handle for FREE: https://t.co/092yGCtzUS https://t.co/0upcxaW8Qq",33,7,10,2022-05-27
+1720,2022-05-29 15:21:37+00:00,1530932378775932929,joinFIO,"Adil (@thee_alienn) talked about the importance of FIO Domains, how FIO NFT Signatures help creators &amp; collectors protect themselves from NFT forgeries, and crypto in general at the FIO event in Florianópolis, Brazil 🇧🇷! https://t.co/sMmJ8wzM7u",40,3,8,2022-05-29
+1721,2022-05-30 15:23:24+00:00,1531295216715587588,joinFIO,"We're now on Instagram! Follow us there &amp; start your week with fun videos &amp; memes 😎 
+
+📸 https://t.co/V4Qjq1tk96 https://t.co/hGCDtw3J7h",40,1,5,2022-05-30
+1722,2022-05-31 04:22:23+00:00,1531491254848344065,joinFIO,"Just unf*ck it already 😎
+
+#UnFckYourCrypto https://t.co/ZfkB7CZaJB",42,4,8,2022-05-31
+1727,2022-06-01 16:47:34+00:00,1532041172184875009,joinFIO,"Participate in the $FIO Staking Tournament to win a share of 100K FIO!
+
+🔁 RT &amp; follow @joinFIO+@moonstake 
+⤵️ Download https://t.co/BGVRnmUKTw
+🥩 Stake $FIO
+✍️ Fill form: https://t.co/rjzE5nRe3Y
+
+Stakers w/ the highest $FIO staked will be the winners of the 1st, 2nd &amp; 3rd prizes https://t.co/rIIbRBIzxQ",78,6,61,2022-06-01
+1729,2022-06-02 13:01:23+00:00,1532346641843634176,joinFIO,@Mr_andoek @moonstake The Public Key,0,0,0,2022-06-02
+1731,2022-06-03 02:42:36+00:00,1532553308262789120,joinFIO,"Less than 800 registrations to go for 300,000 @opera crypto handle registrations! 😎
+
+Can we hit that milestone by June 3rd? 🤔",43,6,10,2022-06-03
+1733,2022-06-04 04:08:24+00:00,1532937285108629504,joinFIO,"300,000+ @opera crypto handle registrations 🤯
+
+Yeah, we did it!
+
+Congratulations to us &amp; our partner, @Opera, on hitting this milestone 🎉
+
+⤵️ Download Opera for Android, grab a unique @opera crypto handle for FREE, &amp; say goodbye to long wallet addresses: https://t.co/JPzxbfB4PX https://t.co/cg31wP7H0o https://t.co/PZiuGCmZEW",37,4,18,2022-06-04
+1734,2022-06-05 07:57:13+00:00,1533357256607408129,joinFIO,"ICYMI: We're giving away 100,000 FIO in our $FIO Staking Tournament in collaboration with Moonstake!
+
+You can win up to 20,000 FIO! 
+
+Steps 👇
+
+🔁 RT &amp; follow @joinFIO+@moonstake 
+⤵️ Download https://t.co/BGVRnmUKTw
+🥩 Stake $FIO
+✍️ Fill form: https://t.co/rjzE5nRe3Y
+
+#giveaway https://t.co/D1vRvpGJYG",30,4,12,2022-06-05
+1735,2022-06-06 13:44:40+00:00,1533807086387494912,joinFIO,"Start using a crypto handle, and never worry about remembering the network to use or sending crypto to the wrong address!
+
+FIO fixes this 👌😎 https://t.co/c2JDhUU2bE",42,3,6,2022-06-06
+1737,2022-06-07 08:45:08+00:00,1534094094808453121,joinFIO,"@mycointainercom Congratulations, and with the upcoming FIO Protocol integration, the numbers are gonna go only up &amp; up 😁",4,0,0,2022-06-07
+1740,2022-06-08 04:20:34+00:00,1534389900854042624,joinFIO,"PayPal enabled crypto transfers (#BTC, $ETH, $LTC &amp; $BCH) to external wallets &amp; exchanges. That's great!
+
+Now the next step for @PayPal should be to make crypto transfers easier &amp; fun for their users... by integrating FIO Protocol and enabling crypto handle creation &amp; FIO Send 😎",63,8,17,2022-06-08
+1745,2022-06-09 23:20:00+00:00,1535039034908631041,joinFIO,"ICYMI: We're giving away 100,000 FIO in our $FIO Staking Tournament in collaboration with Moonstake!
+
+You can win up to 20,000 FIO! 
+
+Steps 👇
+🔁 RT &amp; follow @joinFIO + @moonstake 
+⤵️ Download https://t.co/BGVRnmUd3Y
+🥩 Stake $FIO
+✍️ Fill form: https://t.co/rjzE5nQGeq
+
+#giveaway https://t.co/D1vRvpGc98",19,3,6,2022-06-09
+1749,2022-06-10 18:13:44+00:00,1535324347711520768,joinFIO,"#Web5, here we come 😏",32,1,2,2022-06-10
+1751,2022-06-11 05:13:57+00:00,1535490496683880448,joinFIO,FIO team (@blockchaynwayne &amp; Micah) with @SecuXwallet at #Consensus2022! https://t.co/trIT9vrdEv,25,2,2,2022-06-11
+1756,2022-06-12 04:09:50+00:00,1535836750249345024,joinFIO,"Enjoying the @Binance dinner party at #Consensus2022!
+
+#UnFckYourCrypto 😎 https://t.co/lGvz5Ftucf",16,0,4,2022-06-12
+1759,2022-06-13 07:05:52+00:00,1536243437376532482,joinFIO,"FIO team wrapping up the #Consensus2022 🍜🍷
+
+📸: @KaitieZhee, @blockchaynwayne, Micah, Mac, Ren, and joined by @_cryptochelsea https://t.co/JyUaIgEIiJ",45,4,8,2022-06-13
+1760,2022-06-14 17:26:04+00:00,1536761906874454016,joinFIO,"🚨🚨 100,000 $FIO Staking Tournament ends in a day
+
+Download @Moonstake, stake $FIO, and fill out the form to win up to 20,000 $FIO!
+
+📃 Form link: https://t.co/rjzE5nRe3Y
+
+Stakers with the highest $FIO staked will be the winners of the 1st, 2nd &amp; 3rd prizes!
+
+Steps to win 👇👇👇 https://t.co/D1vRvpGJYG",25,3,4,2022-06-14
+1763,2022-06-16 15:33:32+00:00,1537458360030986240,joinFIO,📢 PSA: Get a crypto handle &amp; unf*ck your crypto! https://t.co/4mqy78OldE,35,3,8,2022-06-16
+1764,2022-06-17 01:50:05+00:00,1537613521998843904,joinFIO,"Delicious update... But the MetaMask users could rest their stress of sending crypto to the wrong address away too if @MetaMask integrated the FIO Protocol.
+
+Just saying, you know 😉 https://t.co/2jHa0rr2Ok",38,6,10,2022-06-17
+1767,2022-06-18 04:51:05+00:00,1538021458513137664,joinFIO,"Now is the right time to #UnFckYourCrypto! Get a cool crypto handle to get started!
+
+📸: @blockchaynwayne at #Consensus2022 by @CoinDesk! https://t.co/UoiUemVd1M",36,0,5,2022-06-18
+1768,2022-06-19 12:19:17+00:00,1538496638037409792,joinFIO,"Join our updated Discord server, and let's discuss everything FIO, NFTs, DAOs, and crypto in general!
+
+👾 https://t.co/vjUER1GA4L
+
+P.S. We have a new FIO DAO category and channels. https://t.co/UGl37MYnsW",32,6,4,2022-06-19
+1769,2022-06-20 18:15:07+00:00,1538948577019699200,joinFIO,"We're at @NFT_NYC 🎨🖼️
+
+Meet our team, and let's talk about how you can unf*ck your NFTs with FIO!
+
+At #NFTNYC2022: @ashc0in, @KaitieZhee, @blockchaynwayne, Emily, Micah, and Chris https://t.co/g3jLkeYQza",35,0,7,2022-06-20
+1770,2022-06-21 05:19:34+00:00,1539115791081422848,joinFIO,"Something fun is coming up in collaboration with @Opera &amp; @Opera_Crypto!
+
+Stay tuned!
+
+👀 Psst, download Opera for Android (https://t.co/JPzxbfB4PX) and register an @opera crypto handle to get a head start!",45,1,8,2022-06-21
+1774,2022-06-22 13:59:54+00:00,1539609126120341510,joinFIO,"➕ A tweet thread to help you to understand what the FIO NFT Signature solution is &amp; how it works ⤵️
+
+Try the feature: https://t.co/fGosi2oVYA
+
+https://t.co/Ex575C1O96",18,1,7,2022-06-22
+1776,2022-06-23 20:52:16+00:00,1540075287949737984,joinFIO,"Yeah, let's ""UNF*CK YOUR NFT!"" 
+
+ ☑️ https://t.co/hxToYsoJDh
+
+#NFTNYC2022 | @NFT_NYC https://t.co/s28zNwRj6p",30,0,3,2022-06-23
+1781,2022-06-24 16:16:16+00:00,1540368217650401281,joinFIO,"Don't miss out on the chance to win a share of 60,000 $FIO!
+
+Participate in the giveaway in collaboration w/ Opera.
+
+☑️ Download https://t.co/bHHTQm5B0E
+☑️ Create an @opera crypto handle (if you don't have one already)
+☑️ Enter here: https://t.co/0O5yJHHGLD
+
+RT the quote tweet 👇 https://t.co/ZH71Q1L1Cl",38,3,10,2022-06-24
+1782,2022-06-25 17:33:02+00:00,1540749923519709185,joinFIO,"Brings back to your senses...
+
+#UnFckYourCrypto https://t.co/E87kRREdPE",44,1,9,2022-06-25
+1783,2022-06-26 16:53:24+00:00,1541102340228665344,joinFIO,"Reminder: Requesting any crypto with a crypto handle is as easy as requesting money with @PayPal or @Venmo!
+
+☑️ Download any wallet that supports FIO Request &amp; try it out now: https://t.co/kPtL1XrrUv",35,3,5,2022-06-26
+1785,2022-06-27 04:06:13+00:00,1541271657012408320,joinFIO,"Hit ❤️ if you are using a crypto handle in @opera to send &amp; receive any crypto!
+
+P.S. Over 321,000 @opera crypto handles have been registered 🤯
+
+@Opera_Crypto | #UnFckYourCrypto",65,11,12,2022-06-27
+1787,2022-06-28 18:28:51+00:00,1541851133324541956,joinFIO,"Hey crypto infls, the good thing is, we have a human-readable FIO Crypto Handle now, which replaces long wallet addresses!
+
+You never have to worry about sending crypto to the wrong address or the wrong network again!
+
+https://t.co/ItiUPq0uDK
+
+@mphodagada |@GBallarani |@mattunchi https://t.co/jf1BgkCogx",23,2,5,2022-06-28
+1790,2022-06-29 13:57:18+00:00,1542145186972987395,joinFIO,"Save your other half from disappointment, help them get a crypto handle now ⤵️⤵️⤵️
+
+https://t.co/ItiUPq12ti",18,1,4,2022-06-29
+1795,2022-06-30 13:46:25+00:00,1542504834808840203,joinFIO,"it's always a good morning in the #FIO family...
+
+gm, #FIOfam ☕",49,9,9,2022-06-30
+1797,2022-07-01 15:15:10+00:00,1542889558299521025,joinFIO,"Join Brazil's biggest crypto event and talk crypto all day in ""Floripa Crypto Day"" powered by FIO!
+
+🗓️ July 2nd, 2022
+📍 Florianópolis, Brazil
+
+Find the industry-leading projects there: @EdgeWallet, @BraveNewCoin, @Pollum_io, @easycrypto, and more https://t.co/Yyz5VojGI3",32,1,7,2022-07-01
+1798,2022-07-02 03:50:39+00:00,1543079680693403648,joinFIO,"🥳🥳🥳 60,000 $FIO Giveaway
+
+Win up to 1000 FIO in our ongoing FIO x Opera Giveaway!
+
+☑️ Download https://t.co/xfajCi3Tmd
+☑️ Create an @opera crypto handle (if you don't have one already)
+☑️ Enter here: https://t.co/0O5yJHHGLD
+
+Ends on July 5th!
+
+RT the quote tweet 👇 https://t.co/ZH71Q1L1Cl",34,12,12,2022-07-02
+1799,2022-07-03 16:45:40+00:00,1543637107100762112,joinFIO,"(R to L): Adil, our growth marketing manager, with Daria, and @Criptonizando at the ""Floripa Crypto Day"" event powered by FIO! https://t.co/WREa0Kqq9J",29,2,7,2022-07-03
+1801,2022-07-04 17:02:02+00:00,1544003615177728002,joinFIO,"FIO family wishes a very happy 4th of July to everyone celebrating today 🇺🇸 🎇
+
+#FourthofJuly2022 https://t.co/BZVlO69gS1",26,1,3,2022-07-04
+1803,2022-07-05 14:29:45+00:00,1544327680136744960,joinFIO,"You know you can make our growth marketing manager, Adil (@__the__alien__), happy by just following us on Instagram 😁
+
+📷 https://t.co/x1PTNv2HPx
+
+— at Floripa Crypto Day, Brazil https://t.co/PISRCTpMz0",31,2,4,2022-07-05
+1805,2022-07-06 16:13:53+00:00,1544716271958335494,joinFIO,"We're excited to announce our new integration partner, @SecuXwallet!
+
+SecuX users will soon be able to:
+☑️ Register a crypto handle
+🕶️ Send, receive, &amp; request any crypto using it instead of long wallet addresses
+🥩 Stake $FIO to earn rewards
+
+Details: https://t.co/KjsqA7qX1U https://t.co/8swSKx46c0",33,5,5,2022-07-06
+1806,2022-07-11 19:10:00+00:00,1546572531276337152,joinFIO,"Complete steps to participate via WhatsApp ⤵️
+
+☑️ On WhatsApp, active Alty Wallet here: https://t.co/7YIXq7cWct
+☑️ Enter a username
+☑️ Reply yes to confirm the registration of your crypto handle
+
+🗓️ July 11 to July 16, 2022
+🔢 Number of winners: 45",55,7,23,2022-07-11
+1811,2022-07-12 04:02:31+00:00,1546706544225824769,joinFIO,"🥁 And we have our winners 🥁 
+
+Congratulations to 510 winners of our FIO x @Opera giveaway!
+
+Check your wallets in the Opera browser, rewards have been sent to your crypto handles!
+
+📃 List: https://t.co/KWFhTCYyoW https://t.co/ZH71Q1L1Cl",39,5,11,2022-07-12
+1814,2022-07-13 17:37:11+00:00,1547273950128128000,joinFIO,"9️⃣ Home of countless tech companies, start-ups, &amp; innovation hubs, Floripa is commonly known as the Silicon Valley of Brazil!
+
+And with that in mind, rest assured that the next editions of Floripa Crypto Day will be even better &amp; bigger!
+
+https://t.co/onh7SV2flp",10,1,3,2022-07-13
+1823,2022-07-14 18:12:22+00:00,1547645193553588224,joinFIO,"FIO features that are live in @WalletSwap ⤵️⤵️⤵️
+
+1️⃣ FIO Crypto Handle Registration
+2⃣ FIO Domain Registration
+3⃣ FIO Send &amp; Receive
+4⃣ FIO Request
+
+WalletSwap users can now ditch long &amp; boring wallet addresses, and improve their crypto experience with the FIO Protocol!",29,2,4,2022-07-14
+1827,2022-07-15 03:07:40+00:00,1547779905840361472,joinFIO,"The number of #BTC addresses ever created surpassed the one billion mark!
+
+Bullish about crypto usability protocol — like FIO Protocol 😉 — that improves the crypto experience and makes onboarding a lot easier!
+
+1 billion #Bitcoin addresses = 1 billion crypto handles soon 😁 https://t.co/83vrwGhsBM",36,1,5,2022-07-15
+1829,2022-07-16 03:09:23+00:00,1548142724448387072,joinFIO,"Don't miss out on a chance to win a share of 45,000 $FIO in our FIO x @AltyChatBot giveaway!
+
+You can win up to 1000 FIO!
+
+Full giveaway details: https://t.co/JctPRZaEbq
+
+RT &amp; LIKE the quote tweet 👇👇👇 https://t.co/GKVz3ZJzIs",52,5,17,2022-07-16
+1831,2022-07-17 14:05:49+00:00,1548670311109111810,joinFIO,When someone says they don't need a crypto handle! https://t.co/fDFAfZ4ak0,30,5,8,2022-07-17
+1832,2022-07-18 15:05:35+00:00,1549047738276663296,joinFIO,"Another Week, Another Giveaway
+
+🫰 Request $FIO to win a share of 45,000 FIO in our giveaway in collaboration w/ @AltyChatBot
+
+To win:
+☑️ RT &amp; LIKE
+☑️ Open Alty Wallet on TG or WhatsApp
+☑️ Use the command: /request join@fio 1000 fio
+
+Details: https://t.co/CAHrEiTT1g https://t.co/POCYeUSPf2",190,80,151,2022-07-18
+1835,2022-07-19 12:51:19+00:00,1549376335675793410,joinFIO,"🙌🙌  #SOLfam, rejoice. Your favorite Solana wallet, @Solareum_Wallet, is 🔜 getting supercharged w/ FIO Send!
+
+Soon you'll be able to send tokens w/ a human-readable crypto handle &amp; never have to worry about sending crypto to the wrong address!
+
+Details: https://t.co/fksoSoK3TK https://t.co/DKC8zNVKpX",44,5,14,2022-07-19
+1836,2022-07-20 02:50:10+00:00,1549587440490663937,joinFIO,"In case you didn't know we're on TikTok now!
+
+Go, follow us, and check out our fun videos!
+
+🎶 https://t.co/tFFYQbblHA https://t.co/694QNGbiMf",39,4,13,2022-07-20
+1838,2022-07-21 16:14:56+00:00,1550152355689238528,joinFIO,"Have questions about what we're building at FIO?
+
+Join us for a biannual Community Call: an in-depth look into how we're establishing FIO Protocol into an industry-standard usability solution!
+
+🗓️ July 28, 2022
+⏰ 10:00 ET / 14:00 GMT
+
+Grab your seat here: https://t.co/nCnqfNmSBO https://t.co/Ub8UAUQJg1",24,3,7,2022-07-21
+1840,2022-07-22 02:53:16+00:00,1550312997452906496,joinFIO,"Participating in a giveaway can't get any easier than this!
+
+Just request &amp; win up to 1000 FIO!
+
+☑️ Open Alty Wallet on TG or WhatsApp
+☑️ Use the command: /request join@fio 1000 fio
+
+Full details: https://t.co/CAHrEiTT1g
+
+RT the quote tweet 👇👇👇 https://t.co/WYa4YPUqUS",31,5,14,2022-07-22
+1841,2022-07-23 14:05:08+00:00,1550844463991312385,joinFIO,#FIO + #Bitcoin = A match made on the blockchain 👌,45,2,7,2022-07-23
+1842,2022-07-24 03:00:49+00:00,1551039670569631744,joinFIO,"Sending crypto from @Eidoo_io just got a lot easier!
+
+Thanks to FIO Send, never type or copy-paste long wallet addresses now! Send crypto to a human-readable crypto handle (e.g., jane@wallet)!
+
+Watch how easy it is to send crypto in @Eidoo_io now ⤵️⤵️ ⤵️
+
+https://t.co/yQlQZT7dfW",26,5,7,2022-07-24
+1843,2022-07-25 10:02:41+00:00,1551508228101783552,joinFIO,"🎁 FIO Quiz with Moonstake #2
+
+In collaboration w/ our staking partner, @Moonstake, we're giving away a total of 3000 $FIO to 25 winners!
+
+To Win:
+1️⃣ RT + Follow @joinFIO &amp; @Moonstake
+2️⃣ Download https://t.co/Hvv4EO88DG
+3️⃣ Fill out the form: https://t.co/2mAD0kcsZA
+
+Ends on 08/08 https://t.co/qo9db23zrL",445,81,412,2022-07-25
+1846,2022-07-26 12:37:00+00:00,1551909447915950081,joinFIO,"🥁 DRUM ROLLS 🥁 
+
+Congratulations to all the 45 winners of our FIO x @AltyChatBot Giveaway #1!
+
+Check your Alty wallet; 1000 $FIO tokens have been sent to your @alty crypto handle!
+
+📃 List: https://t.co/2GGj724gk0
+
+Don't forget to participate in our multiple ongoing giveaways! https://t.co/GKVz3ZJzIs",25,6,4,2022-07-26
+1848,2022-07-27 07:42:31+00:00,1552197730004799488,joinFIO,"And we have our winners 🥳
+
+Congrats to all the 45 winners of the FIO x @AltyChatBot Giveaway #2!
+
+Check your Alty wallet; 1000 $FIO tokens have been sent to your crypto handle!
+
+📃https://t.co/2FmpnFLpk6
+
+Thanks to all who participated! FYI, we have other ongoing giveaways too! https://t.co/WYa4YPUqUS",23,2,7,2022-07-27
+1850,2022-07-28 13:38:34+00:00,1552649719071244289,joinFIO,"gm, #FIOfam ☕
+
+Excited about the biannual Community Update that's happening in 30 mins?
+
+Get your questions ready! Our team will be answering them!
+
+Register your seats: https://t.co/nCnqfNnqrm https://t.co/XgUB1Z94kf",16,1,6,2022-07-28
+1853,2022-07-29 13:36:50+00:00,1553011670364323840,joinFIO,"@d1m9enG @Guga_everstake @joinFIO_ @lukestokes @Trim_Bot @BBACKMAL @EOS_Bees @EOSBeesESP @EosTurkiye @bywirenews Since it's a biannual Community Update, the next one will be at the end of 2022!
+
+Make sure to follow us and subscribe to our newsletter to stay updated!",4,1,1,2022-07-29
+1856,2022-07-30 13:42:58+00:00,1553375601490362370,joinFIO,"DAOs are all about community, friendship &amp; fam!
+
+FIO DAO (FIO Protocol) wishes a very #HappyFriendshipDay to all of our #FIOfam 💙✌️
+
+gm ☕ https://t.co/StUqBBKQhw",42,3,6,2022-07-30
+1857,2022-07-31 18:05:47+00:00,1553804130082525184,joinFIO,"Micah representing and spreading the word about FIO at @NFT_Expoverse 💎
+
+#UnFckYourCrypto | #NFTExpoverse https://t.co/rUGV5kdWgC",25,5,5,2022-07-31
+1858,2022-08-02 09:30:49+00:00,1554399309642498048,joinFIO,"Don't forget to participate in our ongoing quiz to win a share of 3000 $FIO!
+
+To Win:
+1️⃣ Follow @joinFIO &amp; @moonstake
+2️⃣ Download https://t.co/BGVRnmUKTw
+3️⃣ Fill out the form: https://t.co/2mAD0kcsZA
+
+RT the quote tweet below ⤵️⤵️⤵️ https://t.co/pp16OEHTn0",100,5,88,2022-08-02
+1859,2022-08-03 13:46:57+00:00,1554826157849300992,joinFIO,".@CakeWallet recently completed the FIO Send integration into their wallet!
+
+Watch how easy it is now to send #BTC, $XMR, $LTC, and $XHV to a human-readable crypto handle (e.g., cake@wallet) instead of long wallet addresses ⤵️⤵️⤵️
+
+https://t.co/r4saeFc8pl",117,40,44,2022-08-03
+1862,2022-08-04 04:24:43+00:00,1555047053805617152,joinFIO,"🎊🎊 The winners are in!
+
+Congratulations to all the winners of the FIO x @AltyChatBot AMA 🎊🎊
+
+1000 $FIO tokens have been sent to your Alty wallet.
+
+Thanks for participating in the AMA and your amazing questions.
+
+RT if you're one of the winners 😁 ⤵️ https://t.co/y5KH2C7MtN",17,5,5,2022-08-04
+1867,2022-08-05 13:30:40+00:00,1555546833262452736,joinFIO,"Missed attending our in-depth Community Update Call? We've got you covered 🫂
+
+Watch the recording where our team shared updates on:
+▫️ Mission &amp; Vision
+▫️ Introducing FIO DAO
+▫️ Market Opportunity &amp; Growth to Date
+▫️ FIO Dashboard Demo, and more
+
+▶️ https://t.co/UYFSxc3doY https://t.co/F2uI8x5NfQ",30,2,7,2022-08-05
+1869,2022-08-07 16:34:48+00:00,1556317946967891971,joinFIO,"Our Head of BD, @blockchaynwayne, shared FIO's key wins in 2022 and the growth to date in our recent Community Update Call!
+
+Full recording: https://t.co/tHVN3qEgt4
+
+Watch the clip to learn about our progress in 2022 so far  ⤵️⤵️⤵️ https://t.co/5kcMNzW3US",21,3,4,2022-08-07
+1870,2022-08-08 13:13:59+00:00,1556629798596014080,joinFIO,"it's gm o'clock 🕒
+
+gm, #FIOfam ☕",23,0,2,2022-08-08
+1871,2022-08-09 14:04:06+00:00,1557004797869432832,joinFIO,"The weekly Floripa Crypto Meetup, powered by FIO, is back!
+
+If you're in Florianópolis, Brazil, you don't want to miss this event. It's going to be fun meeting &amp; networking with awesome people working in the industry!
+
+🗓️ Aug 11th,7PM GMT -3
+🕹️ RSVP: https://t.co/ePqpAnuiaK https://t.co/lPHLhuA6iV",26,2,3,2022-08-09
+1872,2022-08-10 09:23:28+00:00,1557296563009032193,joinFIO,"We're excited to welcome our newest exchange partner, @Deepcoin_global 🎉🎉🎉
+
+$FIO has been listed on Deepcoin under the FIO/USDT pair, introducing one of the easiest ways to buy &amp; sell $FIO to their 1+ million users w/ 0% spot trading fees!
+
+🛍️ Sign up: https://t.co/syZ2EYUEUf https://t.co/ei9vQuEaeD",27,5,4,2022-08-10
+1874,2022-08-11 07:55:40+00:00,1557636854685769728,joinFIO,"🥁 DRUM ROLL 🥁 
+
+Congratulations to all the winners of the FIO Quiz with Moonstake #2 giveaway!
+
+📃 List: https://t.co/dy8mEGSg9K
+
+$FIO tokens have been sent to your wallet. Thanks for participating in the quiz! https://t.co/pp16OEHTn0",15,2,1,2022-08-11
+1876,2022-08-12 14:02:02+00:00,1558091441192243200,joinFIO,https://t.co/D7a0FPmJ9h,16,8,4,2022-08-12
+1879,2022-08-13 11:15:08+00:00,1558411826815279104,joinFIO,"https://t.co/SxPTq9Ov69 recently integrated FIO Send into their wallet, making sending $XMR easier than ever!
+
+Watch the guide to learn how @MoneroCom wallet users can now send $XMR to a human-readable crypto handle (e.g., monero@wallet) instead of a long wallet address ⤵️⤵️ https://t.co/X7DkOElQ8M",37,1,10,2022-08-13
+1880,2022-08-14 19:01:44+00:00,1558891639791550465,joinFIO,"avoid being a disappointment, just get a FIO Crypto Handle 🆗 https://t.co/a61EgfT40Q",29,8,5,2022-08-14
+1881,2022-08-15 14:15:45+00:00,1559182056252272640,joinFIO,@LoadedCro LFG 🤝,1,0,0,2022-08-15
+1886,2022-08-17 14:32:15+00:00,1559910987570024449,joinFIO,"Join our Head of BD, @blockchaynwayne, for an AMA in @HuobiGlobal's TG group to discuss everything $FIO &amp; crypto in general, and win prizes!
+
+🗓️ 08/18, 11:00 UTC
+📍 https://t.co/nqoTvuUIbh
+🎁 27,000 $FIO
+
+RT &amp; complete the form to win more rewards: https://t.co/nI4y7Waa0C https://t.co/jrRUJw09Of",45,8,15,2022-08-17
+1887,2022-08-18 11:06:53+00:00,1560221692685074433,joinFIO,"🚨 HAPPENING NOW: FIO x @HuobiGlobal AMA
+
+Join our Head of BD, @blockchaynwayne, to learn what's up &amp; what's coming next at FIO!
+
+And yeah, you can win $FIO for asking questions in the live AMA!
+
+🎙️ https://t.co/ljyyO4NuQm https://t.co/gxmuU2tazo",17,8,2,2022-08-18
+1888,2022-08-19 05:59:00+00:00,1560506597247311877,joinFIO,"It's FRIDAY... time for another ""Crypto &amp; Chill"" Twitter Space with our FIO team 🙌
+
+Join us at 10 AM ET as we'll be discussing all things $FIO, the latest happenings in the blockchain space, and crypto &amp; #NFT in general!
+
+Set a reminder now: https://t.co/CBxsIKdRdg",20,7,7,2022-08-19
+1891,2022-08-20 05:45:17+00:00,1560865532664238081,joinFIO,"@_Sm0k1nJ03_ @TheChad_isGood @Findora When compared to ENS, FIO distinguishes itself by being more than just a wallet naming service. FIO offers payment request functionality, encrypted payment data, &amp; NFT signatures!
+
+More on @MessariCrypto's Research Report: https://t.co/L8bIHcI5jE
+
+Here's a graphical depiction ⤵️ https://t.co/kgcD045F49",2,2,2,2022-08-20
+1894,2022-08-21 01:43:31+00:00,1561167077456883712,joinFIO,"@NerdyAnalysis Well, to avoid this from happening ever again, get a crypto handle (like crypto@nerd) for you &amp; your lawyer!
+
+Either send crypto directly to their crypto handle or ask them to request payment to your crypto handle. It's all simple &amp; easy!
+
+Get started: https://t.co/ItiUPq12ti",0,0,0,2022-08-21
+1896,2022-08-22 11:34:18+00:00,1561678141566947329,joinFIO,"Core features of the FIO Protocol (that are live today) ⤵️⤵️⤵️
+
+☑️ FIO Crypto Handle
+☑️ FIO Request
+☑️ FIO Data
+☑️ FIO NFT Signatures
+
+Watch the Community Update recording to learn more what's FIO &amp; our progresses so far: https://t.co/tHVN3qEgt4 https://t.co/rZhxzyAusa",22,2,7,2022-08-22
+1898,2022-08-23 14:55:25+00:00,1562091144410005505,joinFIO,"FIO joins hands w/ @zelcore_io to bring a better #web3 for everyone.
+
+With the FIO Protocol integration, Zelcore users now can:
+☑️ Create custom human-readable crypto handles (e.g. name@domain)
+▶️ Use it to send &amp; receive any crypto
+🛒 Trade $FIO
+
+More: https://t.co/KsD4VXDIxf https://t.co/SQxthoXKcW",65,5,19,2022-08-23
+1900,2022-08-24 13:39:37+00:00,1562434457088688130,joinFIO,@zelcore_io LFG 🫱🏼‍🫲🏽💙,1,0,0,2022-08-24
+1902,2022-08-25 15:23:37+00:00,1562823014399766529,joinFIO,"FIO partners w/ @ioPayWallet by @ioTeX_io to bring better crypto usability &amp; improved #web3 to all!
+
+With the integration, soon ioPay users can:
+☑️ Register custom domains &amp; crypto handles (e.g., best@iopay)
+🫂 Use it to send &amp; receive any crypto
+
+Details: https://t.co/tcAuiTj7tu https://t.co/trtpzKjKma",41,5,15,2022-08-25
+1903,2022-08-26 10:38:46+00:00,1563113717662769152,joinFIO,"Tune in today @ 10AM EST for a Twitter Space w/ our Strategic Partnerships, @KaitieZhee, and @SecuXwallet's Marketing &amp; PR, Alice Chang!
+
+We'll be talking all things $FIO, how the FIO integration enhances SecuX's user experience, and more!
+
+Set a reminder: https://t.co/IrbkTEIvkX https://t.co/8o60sivzoZ",33,3,7,2022-08-26
+1906,2022-08-27 14:30:48+00:00,1563534498356072453,joinFIO,"ICYMI: $FIO Staking is now live on @MycointainerCom. This means you can participate in the FIO network governance &amp; stake $FIO to earn passive rewards!
+
+Not sure how to proceed? 
+
+▶️ Watch this guide: https://t.co/mhyWqjE5rz
+
+Put your $FIO to work, and enjoy the weekend 💙 https://t.co/8AWmxwbFMr",23,4,3,2022-08-27
+1907,2022-08-29 17:58:39+00:00,1564311583429251072,joinFIO,"We're now verified on #CMCCommunity 🎉🎉
+
+Follow us to stay informed on all things $FIO: https://t.co/GotL4fESR2 https://t.co/icM8RYxjXk",31,3,7,2022-08-29
+1908,2022-08-30 15:00:41+00:00,1564629182985928705,joinFIO,"We introduced FIO DAO in our July Community Update. Here's a depiction of how a submitted worker proposal is approved by the DAO!
+
+Watch Pawel (@pmmmm) explain this in the recording: https://t.co/BS0MY82b1I https://t.co/bVHZuGkuhi",16,1,4,2022-08-30
+1909,2022-08-31 17:57:35+00:00,1565036091840684032,joinFIO,"$FIO Trading Competition on @XTexchange 🪅
+
+To celebrate the $FIO listing on @XTexchange, in collab w/ them, we're giving away 60,000 FIO!
+
+To win:
+☑️ RT &amp; LIKE
+☑️ Buy $FIO on @XTexchange
+☑️ Trade $FIO. The more you trade, the higher the chances.
+
+Details: https://t.co/F3xZvINujW https://t.co/AIeTlOQQHX",19,6,6,2022-08-31
+1910,2022-09-01 14:47:26+00:00,1565350624719384580,joinFIO,"Watch how to sign #NFTs on @AirNFTs using FIO NFT Signatures: https://t.co/XjfBoVR517
+
+Full details in our blog post ⤵️ 
+
+https://t.co/1gp7MOydCr",8,0,1,2022-09-01
+1919,2022-09-02 23:27:37+00:00,1565843920722034691,joinFIO,Usability,21,1,5,2022-09-02
+1933,2022-09-03 14:52:29+00:00,1566076670934929408,joinFIO,"@EdgeWallet gm, gm, gm 🫂",1,0,0,2022-09-03
+1937,2022-09-05 12:28:27+00:00,1566765199293497344,joinFIO,"$FIO Listing #Giveaway 🎊
+
+In collaboration w/ our exchange partner, @XTexchange, we're giving away a total of 20,000 FIO to 100 winners!
+
+☑️ RT &amp; LIKE
+☑️ Register a crypto handle on https://t.co/h2v7NZXuo2
+☑️ Watch: https://t.co/TIm3CoDlI3
+
+Details: https://t.co/uYD8dkUIgI https://t.co/UJnXe8cWsG",126,48,104,2022-09-05
+1939,2022-09-07 05:05:00+00:00,1567378376520007680,joinFIO,". @VitalikButerin, FYI, at FIO Protocol, users can lock down any length domain for 100 years for just $4000! https://t.co/1JQdYmfGGr https://t.co/gj94Wp2qUR",21,0,3,2022-09-07
+1941,2022-09-08 03:42:57+00:00,1567720116393242624,joinFIO,"Trade &amp; Win $FIO
+
+ICYMI: Participate in our ongoing trading competition in collaboration @XTexchange 🎊
+
+☑️ Buy $FIO on https://t.co/h2v7NZGrm2
+☑️ Trade $FIO. The more you trade, the higher the chances!
+
+Details: https://t.co/F3xZvJ5Dy4 https://t.co/M3qml2ESJT",13,0,2,2022-09-08
+1944,2022-09-09 19:01:33+00:00,1568313676603473924,joinFIO,https://t.co/nNAnjDXWfO,10,3,3,2022-09-09
+1949,2022-09-10 05:15:10+00:00,1568468101246640128,joinFIO,"In an interview w/ @Dukascopy_TV, our Head of BD, @blockchaynwayne, shared ⤵️
+
+1️⃣ What FIO is
+2️⃣ How FIO brings a better crypto &amp; #web3 experience to drive mass adoption
+3️⃣ How FIO NFT Signatures prevent NFT forgeries &amp; protect permanence, &amp; more
+
+Watch: https://t.co/5r5LiJHwf2 https://t.co/KV6FKB3v6l",26,7,11,2022-09-10
+1950,2022-09-12 14:39:58+00:00,1569335011291320321,joinFIO,"gm. #FIOfam ☕ 
+
+Let's start this week with a bang 💥💥💥",35,7,5,2022-09-12
+1951,2022-09-13 10:43:34+00:00,1569637909636222978,joinFIO,"Not sure what $FIO token use cases are?  
+
+$FIO is used for ⤵️
+
+🔹 FIO Crypto Handle &amp; Domain registration fees
+🔹 Transaction fees
+🔹 On-chain governance
+🔹 Staking &amp; earning rewards https://t.co/dPiT4MIDTY",29,1,3,2022-09-13
+1952,2022-09-14 02:35:37+00:00,1569877498045042689,joinFIO,"Register &amp; Win $FIO
+
+Don't miss out on a chance to win a share of 20,000 $FIO in our giveaway in collaboration with @XTexchange!
+
+☑️ Register a crypto handle on https://t.co/h2v7NZGrm2
+☑️ Watch: https://t.co/J2BfgoZjla
+
+Full details: https://t.co/uYD8dlcRuQ
+
+RT the tweet 👇👇👇 https://t.co/440r7ft1rz",14,4,4,2022-09-14
+1957,2022-09-15 13:45:54+00:00,1570408568037445638,joinFIO,"gm, #web3 citizens, we've figured it out for you all 😉 
+
+#UnFuckYourCrypto https://t.co/1uNssbzKty",27,1,3,2022-09-15
+1959,2022-09-16 19:00:20+00:00,1570850088406360064,joinFIO,https://t.co/Z0LawDlNUd,14,3,4,2022-09-16
+1963,2022-09-17 04:31:23+00:00,1570993796195975174,joinFIO,"That's why we're here for you, @LayahHeilpern... to save you from a ""mini heart attack!""
+
+Get your own human-readable crypto handle &amp; use it instead of long addresses to send &amp; receive any crypto: https://t.co/ItiUPq12ti
+
+NGL, layah@heilpern sounds like a great crypto handle 😉 https://t.co/EvHwQTft7c",17,0,2,2022-09-17
+1965,2022-09-18 14:31:51+00:00,1571507295938543616,joinFIO,"Did you know that once the ""FIO Domain NFT Wrapping"" upgrade goes live, you'll be able to list, buy &amp; sell FIO Domains on NFT marketplaces such as @OpenSea?
+
+The wrapping upgrade is expected to be completed by Q4 2022!
+
+💡 Learn more: https://t.co/X6JBvpJGbE",20,2,5,2022-09-18
+1966,2022-09-19 13:40:31+00:00,1571856766031499264,joinFIO,@GuardaWallet gm ♾️,1,0,0,2022-09-19
+1968,2022-09-20 14:03:32+00:00,1572224945450778624,joinFIO,"@GuardaWallet @PaulFintech gm, and HBD @PaulFintech 🥳🎈 https://t.co/BLdf9aUAuM",1,0,0,2022-09-20
+1970,2022-09-21 14:47:16+00:00,1572598338591289347,joinFIO,"FIO is helping facilitate disaster relief funds to the island of Puerto Rico 🇵🇷 that was devastated by #HurricaneFiona
+
+FIO users can donate $USDT, $USDC &amp; $ETH to “donate@puertoricodao” where 100% of crypto donations will go to the local community transparently #HelpPRwithCrypto https://t.co/zv2vHG91qc",26,2,10,2022-09-21
+1973,2022-09-22 08:36:32+00:00,1572867432376860673,joinFIO,"@BTC_Archive gm, fren 🫂☕",3,1,0,2022-09-22
+1980,2022-09-23 17:25:53+00:00,1573363035246366720,joinFIO,"🫂 FIO Fam Feature #3
+
+Meet our Social Media Content Creator, Ren!
+
+Ren has such an interesting background outside of crypto and brings us some great, funny &amp; entertaining videos that are also educational. 
+
+Learn more about Ren &amp; what she does for FIO: https://t.co/GmXz8wh52v https://t.co/gjOUWxdqrW",23,2,6,2022-09-23

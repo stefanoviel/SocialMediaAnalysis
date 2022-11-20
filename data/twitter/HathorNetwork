@@ -1,0 +1,2800 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-03 14:22:07+00:00,1213103248216854528,HathorNetwork,"After 16 months of development, we are going to launch Hathor's mainnet. The launch is going to happen today at 18:15, celebrating Bitcoin's mainnet 11th anniversary.
+
+Launch Date: Jan 3rd, 2020 at 18:15 UTC
+Location: Hathor's Discord
+
+https://t.co/q4zqhkyHF2",10,1,3,2020-01-03
+6,2020-01-05 01:07:29+00:00,1213628049239035904,HathorNetwork,"Mainnet’s hashrate is quite stable. Big miners had some problems, and the hashrate plummet (around hour 13). The network recovered correctly, and the miners quickly resumed. https://t.co/iMd4VKRrU6",8,0,0,2020-01-05
+7,2020-01-13 21:20:14+00:00,1216832351747084288,HathorNetwork,What is Hathor (HTR) and how to mine it? - Thanos - Medium https://t.co/cjKcmam8sf,5,0,1,2020-01-13
+8,2020-01-20 15:23:38+00:00,1219279322189615104,HathorNetwork,"Hathor, a primeira DATP original brasileira – Uma primeira análise - Blog da XDEX https://t.co/EMPtK25wu8",3,0,0,2020-01-20
+9,2020-01-24 13:54:24+00:00,1220706420745740288,HathorNetwork,"Release of Hathor Full-Node v0.30.0. It basically has improvements on the API.
+
+https://t.co/4tyq3UjYri",2,0,0,2020-01-24
+11,2020-01-27 23:01:18+00:00,1221931213566377986,HathorNetwork,"Release of Hathor Wallet Desktop v0.12.0.
+
+You can download it here: https://t.co/6Kri5UHMU3",4,1,1,2020-01-27
+12,2020-03-08 12:31:34+00:00,1236630641069961216,HathorNetwork,"Now it's super easy to mine on Hathor Network!
+
+We've just released a public server for merged mining. Just point any sha256 miner to it and start earning HTR.
+
+Read more about it on the link. We also included a section on using Mining Rig Rentals (MRR).
+
+https://t.co/eOCbOtSJZn",4,0,1,2020-03-08
+13,2020-04-01 01:16:27+00:00,1245158047707619328,HathorNetwork,"Hathor's mainnet is running for almost 3 months. \o/
+
+https://t.co/J7eVPOLRo7",3,0,0,2020-04-01
+14,2020-04-02 00:34:14+00:00,1245509811287908352,HathorNetwork,"Quick guide on mining Hathor. Start mining HTR in less than 10 minutes! #Blockchain #mining 
+
+https://t.co/lGmDb3IyuF",9,0,0,2020-04-02
+15,2020-04-03 20:05:33+00:00,1246166970581438464,HathorNetwork,"Today we celebrate the 3rd month of Hathor’s mainnet! Join our communities and contribute! #Hathor #Blockchain #DAG  
+
+https://t.co/HYz13V7jau",3,0,1,2020-04-03
+16,2020-04-06 15:59:17+00:00,1247192162430672897,HathorNetwork,"Can Hathor reach 100,000 transactions per second?! Check it out in our new post on cryptocurrencies scalability and decentralization. #Blockchain #DAG #Scalability
+
+https://t.co/t4XjhsFTAN",4,0,0,2020-04-06
+17,2020-04-10 15:46:20+00:00,1248638453643759616,HathorNetwork,"Did you know that Hathor Wallet Headless support running multiple wallets at once? It is useful for many use cases, mining pools, and exchange integration. Check out our new post to understand how it works. 
+
+https://t.co/haUnRmVdYg",5,0,1,2020-04-10
+18,2020-06-21 20:09:47+00:00,1274796678126526464,HathorNetwork,"Hi everyone! We, the Hathor team, have been very quiet for the last few months. We've been working hard to improve things on the tech and business sides but haven't been giving you much feedback.",14,2,1,2020-06-21
+20,2020-06-25 02:33:11+00:00,1275980326897020931,HathorNetwork,"We just got listed on CoinMarketCap. \o/
+
+https://t.co/SPqkpH69qV",17,2,3,2020-06-25
+21,2020-07-04 18:57:34+00:00,1279489545491279872,HathorNetwork,"Yesterday we celebrated 6 months since mainnet launch. Thanks to the community for their support.
+
+📈 Here is a 20-second video showing the hash rate evolution since the beginning. Thanks, miners! ⛏️
+
+#cryptocurrency #blockchain #hathor https://t.co/ZfqqLjP58f",41,3,8,2020-07-04
+22,2020-07-08 18:16:23+00:00,1280928733130403840,HathorNetwork,"Besides being super easy to create your token on Hathor Network, you can now easily create a customized app to improve the experience of your token users!
+
+Check out this step-by-step tutorial. It's fast and straightforward! #hathor #cryptocurrency
+
+https://t.co/bC0tYV5vyf",29,4,7,2020-07-08
+23,2020-07-28 18:23:56+00:00,1288178392223768576,HathorNetwork,"We are pleased to announce that Gabriel Aleixo was hired by Hathor Labs to work full time on Business Development and Crypto Research.
+
+Welcome aboard, @aleixooo!
+
+#Hathor #Blockchain 
+
+https://t.co/44s9F0GJgw",25,1,4,2020-07-28
+24,2020-08-11 17:45:53+00:00,1293242246792269824,HathorNetwork,"We are pleased to announce Jun Capital as our most recent strategic advisors.
+
+This partnership is focused on accelerating Hathor's presence in the Asian market, including exchanges, key opinion leaders, and crypto communities.
+
+https://t.co/z69KGCZtgM",106,4,35,2020-08-11
+25,2020-08-24 20:54:43+00:00,1298000809008017408,HathorNetwork,@coinballers To infinity and beyond? Couple exahashes soon wouldn't hurt...,20,1,3,2020-08-24
+27,2020-08-25 13:46:37+00:00,1298255462199042055,HathorNetwork,"Did you know that not only you can create your own tokens in minutes with Hathor Network, but also build a fully-functioning custom wallet for them? Feeless and fast transactions for everyone. 
+
+https://t.co/bC0tYV5vyf",71,3,26,2020-08-25
+28,2020-08-26 17:45:01+00:00,1298677846521647104,HathorNetwork,I can feel the power! https://t.co/tU5Ohbs0YG,32,4,6,2020-08-26
+29,2020-08-27 00:58:48+00:00,1298787012737105921,HathorNetwork,@MiddleChildPabk Just checked here and everything seems fine! Team will send you a DM in Telegram to help you solve any issue.,7,3,0,2020-08-27
+31,2020-08-30 01:44:41+00:00,1299885721285779458,HathorNetwork,It feels so nice to be part of the Exahash club! A huge thank you to all our miners and supporters. https://t.co/zNRBsBVtuI,65,1,20,2020-08-30
+32,2020-09-02 13:26:40+00:00,1301149545578082305,HathorNetwork,"There are a few companies worldwide building the token infrastructure for their more complex projects on top of Hathor Network. We should expect some of them to be publicly released soon, serving as a powerful showcase for our core tech capabilities. #TokenizeEverything",106,7,43,2020-09-02
+33,2020-09-03 21:12:14+00:00,1301629097211240450,HathorNetwork,"If you happened to miss the last conversation with our CEO Marcelo Brogliato in the official Hathor Network Telegram group, don't worry! @BlockUnify have you covered.
+
+https://t.co/R5zSWNmQP5
+
+#Scalability #TokenizeEverything #NanoContracts #SideDAGs",31,0,7,2020-09-03
+34,2020-09-16 10:25:51+00:00,1306177472938078209,HathorNetwork,Welcome aboard @hettalentctc and all the TRG Capital (https://t.co/9UFJBcO53d) partners! It is a strong pleasure to count on you to make Hathor grow even faster. Long-term supporters with a strategic view like yours and years of experience in the market are essential. Cheers! https://t.co/bXLo9IH3Y5,58,4,21,2020-09-16
+35,2020-09-24 18:27:09+00:00,1309197698243923975,HathorNetwork,"First $HTR listing! Thanks guys! 
+
+For more information, please check our press release: https://t.co/zZsFBjF3jr https://t.co/VdV9Hjahys",102,7,30,2020-09-24
+36,2020-09-30 11:42:05+00:00,1311270087551332354,HathorNetwork,Scalability and usability are key elements for blockchain mass adoption. #TokenizeEverything https://t.co/hdCqbqrUMX,61,1,11,2020-09-30
+37,2020-10-02 18:34:26+00:00,1312098634356289536,HathorNetwork,Thanks @CryptoRank_io for this great overview of Hathor! https://t.co/nNpagMiPJU,29,2,4,2020-10-02
+38,2020-10-10 21:07:13+00:00,1315036184721195009,HathorNetwork,See you all soon! https://t.co/HyRKBg1CeJ,49,2,16,2020-10-10
+39,2020-10-11 21:11:34+00:00,1315399669699272704,HathorNetwork,"We are happy to announce that Hathor Token Economics is publicly available.
+
+We would like to remind you of our AMA with tehMoonwalkeRs next Monday (October 12th) at 9am PDT. Prepare your questions and we will talk to you soon!
+
+Link for the document: https://t.co/nz8JN2qnjT",119,7,56,2020-10-11
+40,2020-10-19 18:16:31+00:00,1318254717235994624,HathorNetwork,The Hathor team will be hosting an AMA in our Telegram channel (https://t.co/fVNolSJfXA) on Tuesday (October 20) at 8pm UTC. We look forward to this opportunity to answer all your questions!,49,2,18,2020-10-19
+41,2020-10-20 21:30:47+00:00,1318665993196064768,HathorNetwork,"Thanks for the great interview, @gustavocscunha! It will truly open the minds of many to Hathor, especially in Brazil's vibrant crypto community. https://t.co/No8jPbBuwu",31,1,6,2020-10-20
+42,2020-10-29 20:57:03+00:00,1321918997634420739,HathorNetwork,"We are pleased to announce Kyle Chassé (@kyle_chasse) as our new strategic advisor.
+
+He is joining our Advisory Board in order to increase community growth, brand awareness and marketing efforts.
+
+Full announcement: https://t.co/IU8ab4vp4T",66,3,15,2020-10-29
+43,2020-11-10 12:14:15+00:00,1326136085655773185,HathorNetwork,"Hathor Labs is pleased to announce that our team has grown and we are adding Guto Martino (@gutomartino) as our Marketing Manager.
+
+With big plans on our pipeline, this is the right time to bring someone to guide our Communication &amp; Marketing strategies.
+
+https://t.co/yqM8lzGwqh",82,3,13,2020-11-10
+44,2020-11-15 12:47:05+00:00,1327956287569670154,HathorNetwork,"We are pleased to announce that This Week in Hathor is back with the newest updates on Hathor Network. 
+#hathornetwork #hathor $htr
+
+https://t.co/oyiw3f36OP",82,2,26,2020-11-15
+46,2020-11-16 17:37:47+00:00,1328391831080628224,HathorNetwork,"Did you enjoy the new format of our ""This Week in Hathor”?
+
+https://t.co/oyiw3f36OP",45,4,5,2020-11-16
+47,2020-11-17 18:04:15+00:00,1328760877487677450,HathorNetwork,"@msbrogli @exame Future of Money is one of the most important events about Blockchain and Cryptoassets in Brazil.
+
+The 2020 edition brings names like @cz_binance , @tyler @cameron and companies like Libra, Oracle, IBM through October til November. 
+
+https://t.co/TWrYjR3mY0",28,1,3,2020-11-17
+49,2020-11-18 19:48:34+00:00,1329149519125245966,HathorNetwork,"Following our Introduction series on new team member, this time we are talking about Andre Abadesso, core developer for Hathor Network.
+
+#hathornetwork #hathorlabs
+
+https://t.co/fqqyJtPQBG",70,2,17,2020-11-18
+50,2020-11-19 14:49:22+00:00,1329436610279198723,HathorNetwork,"We loved this video made by our #community member @iammycatmia 
+#hathornetwork #hathor
+
+https://t.co/qKfFSz7e35",41,0,5,2020-11-19
+51,2020-11-23 00:02:25+00:00,1330662953704632320,HathorNetwork,"Our latest edition of This Week in Hathor is out!
+
+https://t.co/qmjSBqnF6E",64,1,19,2020-11-23
+52,2020-11-25 12:57:07+00:00,1331582688906670085,HathorNetwork,"As you may know, our team is growing in 2020. We are pleased to introduce Natan Camargos as our Front End Dev.
+
+He will be focused on wallet and explorer development for https://t.co/zp5lNtyK2M. Welcome, Natan!
+
+https://t.co/Ho8HtVicpi",63,2,8,2020-11-25
+53,2020-11-30 12:08:34+00:00,1333382410206056448,HathorNetwork,"For the first stage, we are mapping the skills of our members.
+
+Interest in joining us? Check for some info on the form below.
+
+ https://t.co/MT33s8CVCS",54,2,10,2020-11-30
+56,2020-12-07 23:45:58+00:00,1336094634485932033,HathorNetwork,"Our This Week in Hathor of the 7th of December is finally out.
+
+https://t.co/4kO4UDovNs",65,4,12,2020-12-07
+58,2020-12-14 00:11:08+00:00,1338275291370827777,HathorNetwork,"We love our community!
+
+We are super happy that @EyeofCyber wrote a great article about Hathor Network. https://t.co/xlVnDEIqsv",37,2,3,2020-12-14
+61,2020-12-16 15:54:02+00:00,1339237358818881536,HathorNetwork,"We had early this week a new release to our desktop wallet, aimed on improving the UX/UI.
+
+One of our core devs Pedro Ferreira wrote about it on our medium publication.
+
+#hathor #hathornetwork $htr
+
+https://t.co/VZTXwBbhhk",49,2,10,2020-12-16
+63,2020-12-18 18:57:54+00:00,1340008406669778950,HathorNetwork,"Great article by our community member @trondbjoroy on Hathor Network. #hathor #hathornetwork
+
+""Hathor — bringing blockchain to the masses?""
+
+https://t.co/bB3ren8UbY",80,1,14,2020-12-18
+64,2020-12-22 20:37:01+00:00,1341482899133100034,HathorNetwork,"Our last This Week in Hathor from 2020 is out.
+
+Halving, Audits, Wallet - we have it covered here.
+
+https://t.co/I5zn0RiqMP",70,3,13,2020-12-22
+65,2020-12-26 00:35:04+00:00,1342629971127377921,HathorNetwork,"Join Hathor Labs for a AMA session with @SPECTREGRP this Sunday on their Telegram channel!
+
++ giveaway of 2x 500 HTR on Gleam
+- The two best questions during the AMA will receive 500 HTR each.
+
+📅Sunday 27th
+📍SPECTRE GRP CHAT
+⏰ 10 AM CEST/ 3PM UTC
+
+https://t.co/RU8a6LJJsM https://t.co/qVd6StwohA",103,1,86,2020-12-26
+67,2020-12-27 13:09:48+00:00,1343182294337597440,HathorNetwork,"There is still time to join us on our first AMA with the @SPECTREGRP.
+
++ Promo on Gleam for 2x 500 HTR
++ Giveaway of 500 HTR for the two best questions in the AMA https://t.co/I03zLwgId0",61,8,6,2020-12-27
+68,2020-12-31 21:00:13+00:00,1344750227270623233,HathorNetwork,"Some news for Hathor 2021: Yan Martins is our new CEO as Marcelo Brogliato is transitioning to the CTO position.
+
+Hathor would like especially to thank our community for the support. 
+
+Expect great things happening this year.
+
+https://t.co/Kta0p05KwD",68,0,7,2020-12-31
+69,2021-01-01 15:43:41+00:00,1345032957719937025,HathorNetwork,"On the 4th of January 2021, Hathor will join @kucoincom for an AMA session to celebrate our listing in the exchange.
+
+We are also doing a 2k HTR giveaway!
+More info here: https://t.co/YxKbjAjS57
+
+#hathor #hathornetwork #KuCoin #AMA https://t.co/ywO3ojegCe",181,13,156,2021-01-01
+72,2021-01-02 04:13:08+00:00,1345221561981280257,HathorNetwork,"@BlockUnify @kucoincom We are also hosting a promo for the AMA
+
+https://t.co/xk6PZIU6CF",15,0,1,2021-01-02
+73,2021-01-03 13:26:29+00:00,1345723206523641857,HathorNetwork,"Hathor &lt; &gt; KuCoin AMA
+
+📅 Monday 4th January 2020
+📍 @kucoincom Global - https://t.co/ESoekDcakC
+⏰ 6 PM UTC +8 (Singapore) | 10 AM UTC (London) https://t.co/FdUWbg8XWJ",64,3,13,2021-01-03
+77,2021-01-04 15:15:40+00:00,1346113073183154176,HathorNetwork,"3/ In case you have been affected and the problems persist, please contact Kucoin support at https://t.co/RSMDDdTtc0
+
+Hathor &amp; Kucoin are working side by side to solve this situation as fast as possible.
+Thank you.",18,4,0,2021-01-04
+82,2021-01-05 05:23:11+00:00,1346326354804011010,HathorNetwork,"Celebrating our first halving!
+As of today, inflation on the network is reduced by half and 32 HTR will be minted per block instead of 64.
+
+The next halving is scheduled for January 2022 and we have an article coming up soon.
+
+Happy halving, everyone!
+#hathor $htr https://t.co/ANO1zKyfsR",379,18,120,2021-01-05
+85,2021-01-11 17:08:16+00:00,1348678125304033283,HathorNetwork,"Livecoin published an article in Portuguese about Hathor Network yesterday.
+
+""Hathor was listed in one of the biggest exchanges in the World"".
+
+https://t.co/NQEwZeJWkZ",99,1,18,2021-01-11
+86,2021-01-14 15:31:15+00:00,1349740873513377797,HathorNetwork,Our friends at @htrfdt are looking for Shopify users for their pilot program for e-commerce. #buildonHathor https://t.co/4Cy6iln1Th,128,5,40,2021-01-14
+87,2021-01-17 12:35:46+00:00,1350783874104782850,HathorNetwork,"Thanks to @Coindab_com for listing Hathor Network.
+
+This is a list of cryptocurrency projects that have source code of the main components written from the ground up: e.g., no fork, no clone, and not built on top of a specific project such as bitcoin.
+
+https://t.co/NvuGPhoj9O",152,2,34,2021-01-17
+89,2021-01-18 16:12:45+00:00,1351200865898606594,HathorNetwork,"Do you run an e-commerce platform and would like to leverage Hathor´s easy tokenization tools to grow your business?
+
+Follow @htrfdt and apply now to the pilot program. #buildonhathor #easytokenization #blockchainadoption https://t.co/Fjo1ig5hfz",148,1,42,2021-01-18
+90,2021-01-19 15:54:33+00:00,1351558675593375752,HathorNetwork,"Hathor Snapshot #1 is out!
+Snapshot is an update of This Week in Hathor in a newsletter format. Enjoy!
+
+https://t.co/CskNMfo1b8",160,5,52,2021-01-19
+92,2021-01-20 20:12:41+00:00,1351986022083665923,HathorNetwork,"The event starts on the 21st of January at 21:00 Beijing time.
+
+To watch it you need to scan the QR code to download “Bishijie” APP, then go to the “live broadcasting” part https://t.co/mLF8cA1xhq",27,1,2,2021-01-20
+100,2021-01-21 11:12:17+00:00,1352212415006576642,HathorNetwork,"We are glad to announce that $HTR is listed on @coinspotau , Australia´s leading crypto on-ramp exchange. #hathor #hathornetwork https://t.co/YbOHH5SyNb",331,14,75,2021-01-21
+106,2021-01-27 21:21:10+00:00,1354539972032933893,HathorNetwork,"On January 3rd, 2025, Hathor Labs will re-evaluate these vaulted tokens, and, in case they are no longer needed for the ecosystem's growth and support, they may also be put out of circulation partially or entirely.",49,2,6,2021-01-27
+112,2021-01-28 18:59:44+00:00,1354866770276986886,HathorNetwork,Follow @htrfdt for all the updates on #hathorswap development https://t.co/hk9ca34c1K,68,0,13,2021-01-28
+113,2021-01-29 11:41:55+00:00,1355118974678269953,HathorNetwork,"As of today, our information on @coingecko is updated with market cap, circulating supply and total supply.
+
+A special thank you to the CoinGecko team for making it happen in such a short notice. https://t.co/STqUM8UyH4",304,11,62,2021-01-29
+117,2021-02-02 18:12:37+00:00,1356666850860531713,HathorNetwork,"On our Telegram: should our community members be called Hathorians or Hathletes?
+
+Join us here and cast your vote👇
+
+https://t.co/fVNolT0Rma",66,21,11,2021-02-02
+118,2021-02-03 16:18:00+00:00,1357000392312303616,HathorNetwork,"Our community member @trondbjoroy has been following us for quite some time and published this great piece about our yearly plans.
+
+“The Bullish Case for @HathorNetwork and @htrfdt “
+
+https://t.co/It6iUE1O6J",202,12,65,2021-02-03
+120,2021-02-05 15:54:40+00:00,1357719296906940416,HathorNetwork,@EtienneTRGC @akashnet_ @BosonProtocol @DAOfiDEX @emoney_com @Fuse_network @kava_labs @litentry @MantaNetwork @MANTRADAO @oropocket @razor_network @ReefDeFi @seascapenetwork @sifchain @StaFi_Protocol @tidaldefi Hathor Network ✌️,31,0,1,2021-02-05
+121,2021-02-06 12:34:59+00:00,1358031433395273731,HathorNetwork,"Welcome onboard, Cyber! 
+Are you a writer who wants to contribute with Hathor Network? 
+
+👉 Slide into @EyeofCyber ‘s DM ✍️ https://t.co/rRwNSC7tvR",96,0,14,2021-02-06
+123,2021-02-08 16:53:08+00:00,1358821176034922496,HathorNetwork,"For our Turkish community members: Hathor was featured today on ⁦@koinsaaticom⁩ $HTR #hathornetwork
+
+Hathor (HTR) Kendi Boğa Koşusunu Yapabilir mi? - KoinSaati https://t.co/UuRWSxg3m4",105,2,24,2021-02-08
+124,2021-02-10 10:00:01+00:00,1359441984826523655,HathorNetwork,"Happy Lunar New Year! 
+Hathor was invited by @kucoincom for the red envelope celebrating the year of the Ox!  
+
+Retweet this image and tag 3 friends for a chance to win 500 HTR! 10 lucky winners will be selected by Kucoin.
+
+The promo follows on our TG
+👉 https://t.co/fVNolT0Rma https://t.co/R1cRFpwkmj",361,327,283,2021-02-10
+125,2021-02-11 21:21:33+00:00,1359975889862356992,HathorNetwork,"As of today, you can read about $HTR ‘s circulation supply and market cap on ⁦@CoinMarketCap⁩ . #hathornetwork
+
+Hathor price today, HTR marketcap, chart, and info | CoinMarketCap https://t.co/SPqkpGOyzn",243,9,63,2021-02-11
+128,2021-02-15 16:11:16+00:00,1361347354721476613,HathorNetwork,"#BuildonHathor
+
+https://t.co/6dlPaM8WLQ",34,1,8,2021-02-15
+132,2021-02-17 17:52:52+00:00,1362097696790700035,HathorNetwork,"From @Cointelegraph : Hathor announces partnership with @hoprnet .
+
+More information on our Medium soon.
+
+https://t.co/2yw943Qifp",398,25,138,2021-02-17
+133,2021-02-19 21:08:04+00:00,1362871598030741506,HathorNetwork,"Hathor &lt; &gt; HOPR
+Cointelegraph AMA Session 
+
+Join us on Monday for a video live session with @hoprnet on @Cointelegraph on our partnership 🤝
+
+📍Cointelegraph’s YouTube channel
+🗓Monday, Feb. 22n
+⏰2 pm Central Europe Time.
+
+https://t.co/7ZyWu3sktk",287,12,76,2021-02-19
+134,2021-02-20 17:16:26+00:00,1363175694000410636,HathorNetwork,"Amazing thread by @trondbjoroy on how we want to address the UX problem for new entrees on Hathor Network.
+
+Absolutely worth reading below 👇 https://t.co/4ULYHSViVW",120,3,27,2021-02-20
+135,2021-02-22 04:44:58+00:00,1363711356709568516,HathorNetwork,Deposits and Withdrawal on @kucoincom should be normalized within the next hours. https://t.co/LhY6aRWlUi,151,4,19,2021-02-22
+141,2021-02-24 18:09:50+00:00,1364638681370402817,HathorNetwork,"Thanks to @Cointelegraph for this article about @HathorNetwork  &lt; &gt; @hoprnet  partnership.
+
+Stay tuned. #Hathor #Hopr $HTR
+
+https://t.co/CYYYUKhwRV",310,5,98,2021-02-24
+142,2021-02-25 12:19:01+00:00,1364912787168894983,HathorNetwork,"Exciting times for Hathor Network: our first article published in korean 🇰🇷 
+
+감사합니다 
+
+$HTR #Hathor 
+
+https://t.co/i4cOM39hfF",210,5,36,2021-02-25
+145,2021-03-01 16:42:00+00:00,1366428520063389699,HathorNetwork,@5MantraLRW @trondbjoroy We already accomplished that in January 2020.,3,1,0,2021-03-01
+150,2021-03-02 10:09:30+00:00,1366692131650342912,HathorNetwork,"HTR/BTC trading pair is available for trading on @kucoincom 
+
+$HTR
+
+https://t.co/N5QUd5Bxw0 https://t.co/Wfj4Ls75lA",271,6,60,2021-03-02
+153,2021-03-05 12:12:19+00:00,1367810201903116288,HathorNetwork,"For our Russian community 🇷🇺
+
+https://t.co/Ss5sUY5kHu",74,1,12,2021-03-05
+154,2021-03-09 15:02:20+00:00,1369302538495926277,HathorNetwork,"🇮🇳A CALL TO OUR INDIA COMMUNITY MEMBERS 🇮🇳
+
+#HathorNetwork is pleased to support the community-led initiative by @SatishK1133 for a local branch!
+
+We are also looking for a freelancer English-Hindi translator. 
+
+Join us on Telegram now 👇 $htr
+https://t.co/X9QLciiuBa https://t.co/0ONRujmqbo",183,4,30,2021-03-09
+155,2021-03-10 19:47:10+00:00,1369736607213977602,HathorNetwork,"Em português: estamos com nosso programa de Grants aberto. 
+
+Desenvolvedores, fundadores de startups de blockchain: juntem-se a nós! #hathor $htr
+
+https://t.co/uGJG1lHfPb",107,3,16,2021-03-10
+156,2021-03-13 00:42:28+00:00,1370535698147647491,HathorNetwork,"1/2
+Hello community,
+
+We are pleased to announce  ""The 7 days of Hathor"" bounty campaign which will run for the next 7 days.
+
+For the next 7 days, we will tweet a task that needs to be completed within 24hrs. 
+
+Each day we will provide the rules and prize money for the daily task",248,11,51,2021-03-13
+159,2021-03-14 01:53:37+00:00,1370915993694957568,HathorNetwork,"🎉Day 2 in the 7 days of Hathor🎉
+
+For todays task
+""Name 2 potential usecases for Hathor Network""
+
+Prize-$250 worth of Hathor tokens
+
+To enter
+✅Comment your answer below
+✅Like &amp; Retweet
+
+Rules 
+1 One entry per person
+2 Must Like &amp; Retweet
+
+The winner will be drawn in 24 hours https://t.co/584JtHl0Wi",521,408,322,2021-03-14
+161,2021-03-15 01:33:41+00:00,1371273361523843072,HathorNetwork,"🎉Day 3 in the 7 days of Hathor🎉
+
+Todays task
+""What type of coin would you make on Hathor Network &amp; what would it be used for?
+
+Prize-$250 worth of $HTR
+
+To enter
+✅Comment your answer below
+✅Like &amp; Retweet
+
+Rules 
+1 One entry per person
+2 Like &amp; Retweet
+
+Winner drawn in 24 hrs https://t.co/k3ZPSqqSha",419,265,241,2021-03-15
+164,2021-03-16 02:10:52+00:00,1371645110220300289,HathorNetwork,"Thank you to everyone who participated in day 3 of The 7 days of Hathor, so many great ideas!
+
+Todays winner of $250 worth of Hathor tokens is @XBTWolf congrats! 
+Please DM our partners @BlockUnify on Twitter to claim your prize.
+
+Stay tuned for day 4's task https://t.co/owUGUktezi",102,4,13,2021-03-16
+168,2021-03-17 01:51:37+00:00,1372002651420856320,HathorNetwork,"1/2 
+🎉Day 5 of the 7 days of Hathor🎉
+
+Todays task..
+""Incorporate the words Hathor Network into your daily life""
+
+Prize-$350 worth of Hathor
+
+To enter
+✅Attach the entry in the comments below
+✅Like &amp; Retweet
+
+Rules 
+Must be your own creation
+
+Winner will be drawn in 24 hours https://t.co/ewpO4X6Bof",183,62,73,2021-03-17
+172,2021-03-18 01:34:59+00:00,1372360855501762562,HathorNetwork,"Thank you to everyone who participated in day 5 of The 7 days of Hathor, some great entries.
+Todays winner of $250 worth of Hathor tokens is @g_noy17 congrats! 
+Please DM our partners @BlockUnify on Twitter to claim 
+your prize.
+
+@CryptoHomestead also DM BlockUnify, thank you https://t.co/Irw6W3yN5t",78,4,8,2021-03-18
+174,2021-03-19 01:19:14+00:00,1372719277715849217,HathorNetwork,"Thank you to everyone who participated in day 6 of The 7 days of Hathor.
+
+Todays winner of $250 worth of Hathor tokens is @cryptocathor congrats! 
+Please DM our partners @BlockUnify on Twitter to claim your prize.
+
+Stay tuned for day 7's final task. https://t.co/ozLStDnal1",90,1,15,2021-03-19
+176,2021-03-20 13:29:47+00:00,1373265516639363077,HathorNetwork,"Thank you to everyone who participated in day 7 of The 7 days of Hathor.
+
+Todays winner of $500 worth of Hathor tokens is @Imperi1_may congrats! 
+Please DM our partners @BlockUnify on Twitter to claim your prize https://t.co/CnZrutipT3",135,8,22,2021-03-20
+178,2021-03-28 14:00:53+00:00,1376172446265524224,HathorNetwork,Another excellent thread from @trondbjoroy 👇 https://t.co/x88uWAxUY1,119,1,22,2021-03-28
+179,2021-03-31 16:09:20+00:00,1377291934885150721,HathorNetwork,"Like many in the ecosystem, Andrés strives to help build a world of decentralization, economies of equal-access, open-source development, and efficient financial systems.
+
+Twitter: https://t.co/nQcaguFhKg
+LinkedIn: https://t.co/p9KC3iuwYb",34,0,0,2021-03-31
+183,2021-04-02 13:21:03+00:00,1377974360129044480,HathorNetwork,Kudos to our Turkish Community https://t.co/x9mPgLODPK,164,5,23,2021-04-02
+185,2021-04-04 20:59:20+00:00,1378814465932677133,HathorNetwork,"Sunday reading: What is Hathor Network?
+
+Follow @trondbjoroy ´s first article for our Medium Publication to get a grip of basic concepts about our Network.
+#hathornetwork $HTR
+
+https://t.co/xvtOzaFDoT",198,6,44,2021-04-04
+186,2021-04-05 12:44:12+00:00,1379052248110661634,HathorNetwork,"We extended the deadline for applications for our Grant Program in one week.
+
+Apply until the 11th of April 2021 to bring your ideas to life using #hathornetwork $HTR
+https://t.co/gCLVpwXkN4 https://t.co/mk3fkUAFyi",243,10,52,2021-04-05
+187,2021-04-06 21:56:08+00:00,1379553536510414852,HathorNetwork,"Progress in the making @htrfdt 
+#htrfdt #hathornetwork $HTR https://t.co/QLryLyUNgv",246,4,56,2021-04-06
+188,2021-04-07 12:00:42+00:00,1379766079807967237,HathorNetwork,"New Article on our Medium: Merged Mining is one of the most important features for Hathor Network.
+
+In this article, @trondbjoroy explains how does Merged Mining ⛏️ works and how #hathornetwork leverages this tech to secure our PoW network. #Hathor $HTR
+
+https://t.co/oeECmsxZMa",233,3,72,2021-04-07
+189,2021-04-09 16:00:13+00:00,1380551129864536065,HathorNetwork,"Hathor Labs is thrilled to announce a partnership with @ankr to provide full nodes for #dApp builders to bring their ideas to life on the network.
+
+Find out more about the partnership in our Medium. 👇
+https://t.co/cRx4G6a7UC
+
+#HathorNetwork #ANKR $HTR $ANKR https://t.co/p9PTCEcL23",692,40,198,2021-04-09
+191,2021-04-12 00:39:21+00:00,1381406550099693573,HathorNetwork,"Applications for the first Hathor Network Grant Program officially closed.
+
+Stay tuned for the next steps #hathornetwork $HTR",256,6,30,2021-04-12
+194,2021-04-13 22:54:19+00:00,1382104891322212354,HathorNetwork,"Our mission on Hathor Network is to make blockchain usage as simple as possible for developers and end users alike
+
+Want to know more? 👇$HTR
+
+https://t.co/XX1NWhvzeu",373,9,97,2021-04-13
+195,2021-04-14 01:36:40+00:00,1382145749408964611,HathorNetwork,#BuildonHathor $HTR https://t.co/1O5l7bZioq,182,2,22,2021-04-14
+196,2021-04-15 21:40:51+00:00,1382811181849718787,HathorNetwork,"Next Tuesday 20th of April 2PM UTC:
+
+Join us for an AMA session with @_obiyankenobi (@HathorNetwork CEO) and @coinmetro_kevin (@CoinMetro CEO) on our Youtube channel!
+
+You can set a reminder for the event here 👇
+https://t.co/32pqxaMRKU https://t.co/iUG0xkFnNA",160,16,75,2021-04-15
+199,2021-04-16 12:56:33+00:00,1383041622808612865,HathorNetwork,"Hathor Network´s mission is to make blockchain usage as simple as possible for developers and end-users alike.
+
+""Blockchain is hard for developers and everyday users. Is it getting any easier? - on @Cointelegraph ""
+
+https://t.co/csyup3QXzf",214,12,49,2021-04-16
+201,2021-04-17 17:12:11+00:00,1383468345966489601,HathorNetwork,"To celebrate #HathorNetwork ´s new listing with @CoinMetro, we will host a live event on Tuesday with Yan Martins and Kevin Murcko on our Youtube Channel.
+
+Want to win some $HTR? 
+Join our promo below and send us your best questions for the event 👇
+
+https://t.co/7JKn2OAJ43",235,1,42,2021-04-17
+203,2021-04-18 22:50:56+00:00,1383915982968672268,HathorNetwork,"""Merged mining is essentially a mechanism that enables mining more than one cryptocurrency without requiring additional PoW effort.
+It lets miners use their computational power to mine blocks on multiple chains at the same time through Auxiliary Proof of Work (AuxPoW). """,51,1,6,2021-04-18
+206,2021-04-20 13:31:30+00:00,1384499969781084162,HathorNetwork,"And it is a wrap! Thank you all who participated in our promo and congratulations to the winners
+- @OliverGonzalezL 
+- @DanielK41799704
+- @bmcordeiro 
+- @violetapch 
+
+https://t.co/7JKn2Oj8cv",144,4,19,2021-04-20
+208,2021-04-27 14:54:18+00:00,1387057522436018179,HathorNetwork,"New look. 👀
+Who´s there? $HTR https://t.co/uNFdGddyj8",616,32,120,2021-04-27
+210,2021-04-28 01:54:20+00:00,1387223625477001219,HathorNetwork,"Quer saber mais sobre a #HathorNetwork?
+Visite nossa landing page com mais informações a respeito do projeto e junte-se à nossa comunidade.
+
+#ConversacomBial #blockchainbrasil #criptomoedas 
+
+https://t.co/DZWLo6rZVN",87,1,5,2021-04-28
+212,2021-05-02 00:28:54+00:00,1388651677100789762,HathorNetwork,"Our interview conducted by @Andres_S_Aldaco  with @htrfdt is out! 
+#HathorNetwork $HTR https://t.co/hMmckyy3rt",119,1,19,2021-05-02
+213,2021-05-04 22:14:40+00:00,1389705062193246210,HathorNetwork,"#HathorNetwork aims to be the easiest-to-use blockchain architecture for developers and end-users alike.
+
+Find more about our architecture and features on this Medium article. $HTR
+
+https://t.co/xvtOzaFDoT",521,10,125,2021-05-04
+215,2021-05-06 01:39:13+00:00,1390118923845111809,HathorNetwork,"📣 Hathor Snapshot #3 is out! 📣
+Our community love letter is back to review what happened and bringing some news: Hathor is growing (again) and we have a sneak peek of our first big use case coming out this year.
+
+#Hathor #HathorNetwork $HTR
+
+https://t.co/xnzLMx8Ez2",385,14,95,2021-05-06
+217,2021-05-07 00:26:36+00:00,1390463039791579139,HathorNetwork,"@MeM0ney @CactusCryptoX this is what we've been up to recently and there's much more to come 🎉
+
+https://t.co/xnzLMx8Ez2",2,0,1,2021-05-07
+218,2021-05-09 16:16:09+00:00,1391426775348023303,HathorNetwork,"The concept of #mergedmining isn’t new.
+It’s actually almost as old as Bitcoin itself: In a Bitcoin forum thread from 2010, Satoshi Nakamoto first talked about the possibility:
+
+https://t.co/z1ms3D4kZD",15,1,2,2021-05-09
+225,2021-05-10 12:54:41+00:00,1391738463465115652,HathorNetwork,https://t.co/GPoXiy3dCZ https://t.co/fMg6mWXXoW,51,2,8,2021-05-10
+229,2021-05-11 00:34:51+00:00,1391914665190608898,HathorNetwork,@ellen_canto9 @coin_trends @hathor @f2pool_official and we are eternally grateful to the community :),0,0,0,2021-05-11
+230,2021-05-12 03:41:06+00:00,1392323923467980806,HathorNetwork,"Sneak peek from @htrfdt 💚💜
+#HathorchromeExtension
+https://t.co/FfGsHY5Yvc",267,14,64,2021-05-12
+231,2021-05-13 12:53:52+00:00,1392825422321266691,HathorNetwork,"Community Program Liftoff 🚀
+
+We’re rapidly expanding and the time has come to unite our fellow Hathorians!
+
+Become an Ambassador or Community Leader and contribute to the future of the program while earning rewards! 
+
+Catch all the details here 👇
+https://t.co/bR9Zzg5mcx",326,19,88,2021-05-13
+239,2021-05-15 01:38:45+00:00,1393380296377217027,HathorNetwork,"@HathorBrasil @kopkokaio Exatamente. A Hathor usa SHA256.
+Além disso, Ethereum está migrando pra PoS.",3,0,0,2021-05-15
+241,2021-05-17 14:00:16+00:00,1394291683144183816,HathorNetwork,"RT @HathorNetwork: Lanzamiento del Programa de Comunidad🚀
+Conviértete en Embajador o Leader de Comunidad y contribuye al futuro del programa mientras obtienes recompensas
+Conoce todos lo detalles aqui👇
+https://t.co/bR9Zzg5mcx https://t.co/4lF1xj4sFu https://t.co/jd4dJwYl06",88,3,12,2021-05-17
+242,2021-05-18 10:00:18+00:00,1394593681055920130,HathorNetwork,"RT @HathorNetwork: запуск программы сообщества 🚀 🇷🇺🇺🇦
+Станьте  Послом или Лидером сообщества чтобы внести свой вклад в будущее программы, получая при этом вознаграждения! 
+
+Все подробности здесь 👇
+https://t.co/bR9Zzg5mcx https://t.co/E8pa8aB1KX",79,0,4,2021-05-18
+244,2021-05-19 14:48:31+00:00,1395028602966663182,HathorNetwork,".@AscendEX and Hathor Labs also launched a promotional event with 15,000 USDT worth of token rewards!
+
+Users with a total Trading Volume (Buy + Sell)  ≥ 300 of $HTR will have a chance to share 15k USDT worth of token rewards per trading volume ranking.
+https://t.co/YJXN7XMC3L https://t.co/5v7pBkdyrE",137,2,28,2021-05-19
+250,2021-05-20 12:42:39+00:00,1395359311589777414,HathorNetwork,"On @bitcoinist : $HTR Listing on @AscendEX_Global
+#hathor #HathorNetwork 
+
+https://t.co/gnRLoBSyqZ",186,3,38,2021-05-20
+251,2021-05-21 12:40:02+00:00,1395721043499696130,HathorNetwork,"Thank you @Cointelegraph for a shoutout  on our partnership with @f2pool_official , one of the biggest #bitcoin mining pools, bringing a whole new level of security to #HathorNetwork.
+
+#Hathor #F2Pool #MergedMining  
+
+https://t.co/PkuCAuEyIY",276,16,59,2021-05-21
+259,2021-05-22 16:42:20+00:00,1396144407397773313,HathorNetwork,"Happy #Bitcoin pizza day!
+
+On this day back in 2014, our one and only #OG BizDev @aleixooo was kicking off the Bitcoin Hub at @ITSriodejaneiro . 
+
+#hathor #hathornetwork $HTR https://t.co/TkXZ3DkNQ2",174,9,22,2021-05-22
+261,2021-05-23 22:29:02+00:00,1396594044944457736,HathorNetwork,"Our Community Program is still open!
+Want to be part of making #Hathor the easiest to use blockchain for devs and end users alike?
+
+Apply now! 👇 $HTR #HathorNetwork
+
+https://t.co/BFss6Cxn0M",126,2,25,2021-05-23
+262,2021-05-24 15:00:17+00:00,1396843501053218817,HathorNetwork,"Be sure to read this great article by @Phemex_official which explains  what #Hathor is and what we're building
+
+https://t.co/PSmApyyz6O
+
+#HathorNetwork #cryptonews #cryptocurrency #cryptolife #bitcoin #ethereum #eth #btc #satoshi #dag #blockchain #nanocontracts #crypto $htr",169,3,61,2021-05-24
+264,2021-05-25 05:55:59+00:00,1397068910583767041,HathorNetwork,"@RafaelL31181188 You can apply right here  :)
+
+https://t.co/TzHT1fRKfS",0,0,0,2021-05-25
+272,2021-05-26 05:00:11+00:00,1397417257198886917,HathorNetwork,"🇨🇳 Hathor 将打破区块链世界中的 ""不可能三角""？🇨🇳
+
+阅读 @Jinse_Finance 提供的这篇很棒的文章 
+
+https://t.co/JzYnxiz0as https://t.co/N5r9JfhvQB",112,4,17,2021-05-26
+274,2021-05-29 20:11:01+00:00,1398733640423641088,HathorNetwork,"@mindfulpenguin @MarcDeMesel @Wault_Finance @SushiSwap @1inchNetwork learn more about $HTR on our medium :) 
+
+https://t.co/fZcceuSrem",3,0,1,2021-05-29
+275,2021-05-30 23:16:04+00:00,1399142596497264640,HathorNetwork,Soon $HTR https://t.co/D9xFg03vzB,257,5,19,2021-05-30
+276,2021-06-01 18:00:11+00:00,1399787876280381443,HathorNetwork,"We are super glad to show the results from our first Grant Program, which led to our new initiative: Hathor Grants Boost.
+
+Find out more on the report by our BizDev @aleixooo 
+#hathor #hathornetwork $HTR #hathorlabs
+
+https://t.co/SVY1NbAj2G",220,5,51,2021-06-01
+281,2021-06-03 13:36:16+00:00,1400446236029865990,HathorNetwork,@thedannyphant0m @solana Challenge Accepted,1,0,1,2021-06-03
+283,2021-06-04 01:27:06+00:00,1400625124877946887,HathorNetwork,"Introducing Hathor Green
+
+#hathor #hathornetwork $HTR
+
+https://t.co/EghvLKFltG",346,7,85,2021-06-04
+286,2021-06-06 15:50:02+00:00,1401567062149959686,HathorNetwork,"📣 Social Media Manager wanted! 📣
+
+Hathor Labs is looking for a full-time Social Media Manager.
+If you are a high-skilled pilot and with proven record, apply now!
+
+https://t.co/GWXFOgdaHu
+
+#hathor #hathornetwork $HTR #socialmediamanager #jobopportunity #applynow",174,7,32,2021-06-06
+291,2021-06-08 00:22:07+00:00,1402058320802893824,HathorNetwork,@crypto_bern be sure to tag someone that could fit the profile :),22,0,1,2021-06-08
+293,2021-06-09 19:05:16+00:00,1402703361359613955,HathorNetwork,"@felipeneto Seja bem vindo, @felipeneto e Play9.
+Primeira de muitas! #HathorNetwork $HTR",101,0,1,2021-06-09
+299,2021-06-10 00:47:26+00:00,1402789468432703489,HathorNetwork,"Join us tomorrow 10th of June 3 PM CET  for an AMA session for the launch of https://t.co/umoTLj1sPh on @Cointelegraph 
+
+#HathorNetwork #Hathor $HTR
+
+https://t.co/WYCC3T4Ede https://t.co/KeZsQ9vpW1",151,3,31,2021-06-10
+305,2021-06-11 15:56:36+00:00,1403380653807255554,HathorNetwork,"The #Hathor community program results are in!
+
+Learn more about the program and meet the first batch new members of the community from around the world!
+
+https://t.co/PX0Zi7DBGK
+
+$HTR #HTR  #HathorNetwork #crypto #cryptocurrency #bitcoin #cryptonews #btc",140,1,27,2021-06-11
+306,2021-06-12 17:33:48+00:00,1403767503956885505,HathorNetwork,"Hathor Green is an initiative from #HathorNetwork to encourage the use of #renewableenergy for #Bitcoin mining. 🌱⛏️
+Learn more! 
+#Hathor $HTR #F2Pool #Bitcoin
+https://t.co/SvdLusrKOk",189,4,39,2021-06-12
+308,2021-06-13 17:37:09+00:00,1404130735242498049,HathorNetwork,"Seja oficialmente bem-vindo, @HathorBrasil
+ 
+#HathorBrasil #Hathor $HTR #HathorNetwork 🇧🇷 🇵🇹 https://t.co/eRriKY2cSj",55,1,2,2021-06-13
+311,2021-06-16 14:23:33+00:00,1405169176357097482,HathorNetwork,"🇵🇹 🇧🇷 #HathorNetwork was also featured today at @exame about the #HathorGreen initiative - Brazilian blockchain pays bonus for sustainable #bitcoin mining #Hathor $HTR
+
+Blockchain brasileiro paga bônus por mineração de bitcoin sustentável 
+https://t.co/gM7iMymV4a",100,2,18,2021-06-16
+313,2021-06-17 15:15:00+00:00,1405544512793956358,HathorNetwork,"Our community is expanding rapidly and now we would like to welcome you to our new official French Community discussion group! 
+
+Bonjour à tous, Hathoriens ! Nous sommes heureux de vous accueillir au sein de ce nouveau cannal! @HathorFrance
+
+https://t.co/cdnFLjbHtq",123,1,17,2021-06-17
+314,2021-06-18 15:59:49+00:00,1405918181244510210,HathorNetwork,"We want to  welcome all Turkish speaking Hathorians to our Telegram channel that we are now making official
+
+Tüm Türkçe konuşan Hathorianları şimdi resmi hale getireceğimiz Telegram kanalımıza bekliyoruz!
+
+https://t.co/ALDX5dM1MV",70,0,6,2021-06-18
+316,2021-06-19 14:57:57+00:00,1406264997559341069,HathorNetwork,"https://t.co/qYkYqSLHuS | Encouraging renewable energy for #Bitcoin Mining
+#hathor #HathorNetwork $HTR
+https://t.co/YYnwkEEs3m",150,4,26,2021-06-19
+317,2021-06-20 13:41:00+00:00,1406608022219149312,HathorNetwork,"Here’s a new piece from @felipeneto ‘s collection on https://t.co/tcHHpg0fkp
+
+Did you know that you can also see the card info and artwork through our BlockExplorer? #donttrustverify #hathorNetwork #hathor #play9 #felipeneto $HTR
+
+👉 https://t.co/iZM2XOQDyQ https://t.co/D83jveXteT",106,2,21,2021-06-20
+318,2021-06-22 13:32:23+00:00,1407330627486167048,HathorNetwork,"🇧🇷🇵🇹 Super entrevista dada pelo @msbrogli , CTO da @HathorNetwork, no programa #Blocktalks @blockdropspod do @mauriciomagaldi 
+#Hathor #HathorNetwork #BlockchainBrasil $HTR
+
+https://t.co/SvH3ntZuY0",44,0,9,2021-06-22
+320,2021-06-23 13:02:51+00:00,1407685586362802181,HathorNetwork,"Hathor Green | Encouraging renewable energy for #Bitcoin Mining
+#Hathor #HathorNetwork $HTR
+https://t.co/LCR2z8UMEo",161,2,28,2021-06-23
+321,2021-06-24 15:50:02+00:00,1408090046742286341,HathorNetwork,"📣 Hathor Network joins the @MessariCrypto Registry 📣
+
+Read more on our #Medium page!
+#HathorNetwork #Hathor $HTR
+
+https://t.co/ibFuqFIHRt",172,1,38,2021-06-24
+322,2021-06-25 20:05:45+00:00,1408516786966908931,HathorNetwork,"Did you know that Hathor Network is the only #blockchain encouraging #Bitcoin miners that use #renewableenergy? 
+
+Learn more about #HathorGreen now! 🌱⛏️
+#HathorNetwork #Hathor #GreenMining #mergedmining
+https://t.co/iJubYLvNdq https://t.co/05K3hDDoU3",285,11,84,2021-06-25
+324,2021-06-27 13:26:04+00:00,1409140978133442564,HathorNetwork,"Congratulations @felipeneto e #9Block for launching the first Brazilian NFT platform #Hathor #HathorNetwork #BuildonHathor $HTR
+
+https://t.co/wDqrThcEDY https://t.co/ZnEfcwhgV7",149,4,25,2021-06-27
+325,2021-06-29 15:24:05+00:00,1409895456088498178,HathorNetwork,"Did you know that Hathor Network is the first #blockchain encouraging #Bitcoin miners that use #renewableenergy? 
+
+Learn more at https://t.co/umoTLj1sPh 🌱
+#Hathor #HathorNetwork $HTR https://t.co/e82INJz9ro",278,21,66,2021-06-29
+327,2021-06-30 20:36:17+00:00,1410336409546801152,HathorNetwork,We will release as soon as possible an article on our #Medium with more in-depth clarification.,21,0,0,2021-06-30
+329,2021-07-01 15:07:30+00:00,1410616054703824907,HathorNetwork,"Happy Canada Day! 
+
+Joyeuse journée du Canada! Sur le point de profiter d'un week-end bien mérité ? Pourquoi ne pas en profiter pour venir découvrir Hathor Network, et toutes les nouveautés que nous développons? #CanadaDay2021 #Cryptocurency $HTR 
+
+https://t.co/cdnFLjbHtq https://t.co/un0IFU4s9U",88,2,8,2021-07-01
+330,2021-07-05 12:58:38+00:00,1412033176269111301,HathorNetwork,"🇧🇷 🇵🇹 Hathor Labs no @valorinveste:  Gabriel Aleixo (BizDev) fala um pouco sobre os números do mercado de #NFT e o lançamento da #9Block utilizando a @HathorNetwork 
+#Hathor #HathorNetwork $HTR
+
+https://t.co/FEPvuPs0YL",82,1,12,2021-07-05
+331,2021-07-06 15:22:08+00:00,1412431679646486538,HathorNetwork,We love community initiatives! 😊 $HTR https://t.co/mP6qoqpMIf,106,1,6,2021-07-06
+332,2021-07-07 12:54:41+00:00,1412756960349413378,HathorNetwork,"For the curious cats out there: some screenshots from #HathorSwap, courtesy from our friends of @htrfdt
+
+#buildonHathor $HTR #HathorNetwork #Hathor https://t.co/1xfwwkAnoF",140,4,26,2021-07-07
+333,2021-07-08 17:40:55+00:00,1413191381221314564,HathorNetwork,"🇫🇷 Bonsoir, Paris! 🇫🇷 
+We are hosting a #HathorNetwork satellite event during the #EthCC run together with our @HathorFrance community members on the 22nd July.
+
+Grab one of the tickets here and à bientôt!  👇 #Hathor $HTR
+https://t.co/cYdSMnoiga",104,3,22,2021-07-08
+334,2021-07-09 03:38:46+00:00,1413341835343314954,HathorNetwork,"@Coltcivers @mistergreensky @HathorFrance Our event is free and you do not need a ticket for EthCC!
+
+But spaces are limited due to covid restrictions and we are asking for everyone to register and arrive early, as we need to follow the venue’s rules.",2,0,0,2021-07-09
+338,2021-07-10 12:05:01+00:00,1413831622873554944,HathorNetwork,"Dear Community: #Hathor Snapshot 5 is out!
+
+- Hathor Green 
+- #9Block NFT Platform
+- #EthCC Satellite Event 
+- @MessariCrypto registry
+- Partnership with #Liqi
+- ... and more!
+https://t.co/fAPYBu4i0l
+
+#HathorNetwork $HTR",237,8,55,2021-07-10
+341,2021-07-11 15:38:41+00:00,1414247781183655939,HathorNetwork,"Did you know that Hathor Network launched a program encouraging #Bitcoin miners that use #renewableenergy? 
+
+Learn more at https://t.co/umoTLj1sPh 🌱
+#Hathor #HathorNetwork $HTR https://t.co/UtlYg9NLNB",323,19,80,2021-07-11
+342,2021-07-12 11:44:00+00:00,1414551111919443971,HathorNetwork,"Dear Community: #Hathor Snapshot 5 is out!
+
+- Hathor Green 
+- #9Block NFT Platform
+- #EthCC Satellite Event 
+- @MessariCrypto registry
+- Partnership with #Liqi
+- ... and more!
+https://t.co/fAPYBu4i0l
+
+#HathorNetwork $HTR",183,2,40,2021-07-12
+344,2021-07-13 17:07:25+00:00,1414994887100010497,HathorNetwork,Great article @KoinSaati! Make sure to check it out if you're new to Hathor Network and part of our Turkish Community. https://t.co/ryQaC46GNU,98,0,14,2021-07-13
+349,2021-07-14 07:30:03+00:00,1415211979103473668,HathorNetwork,"🎮  Game designers, UNITE  🕹️ 
+
+Shoutout to our #community member Mauricio Nunes who integrated the @unity3d game engine with @HathorNetwork . Game developers can now add microtransactions using custom tokens or the $HTR.
+
+👾 https://t.co/3pdq14hSLD 👾
+#HathorNetwork #Hatho",230,6,64,2021-07-14
+350,2021-07-15 12:57:00+00:00,1415656647133995010,HathorNetwork,"🇫🇷 One week to go! 🇫🇷 
+Join us for a #HathorNetwork satellite event during the #EthCC to meet our @HathorFrance community members.
+
+Grab one of the tickets here👇 #Hathor $HTR
+https://t.co/cYdSMnoiga",84,2,12,2021-07-15
+352,2021-07-16 09:25:00+00:00,1415965683091902473,HathorNetwork,"🎮  Game designers, UNITE  🕹️ 
+
+Shoutout to our #community member Mauricio Nunes who integrated the @unity3d game engine with @HathorNetwork . Game developers can now add microtransactions using custom tokens or the $HTR.
+
+👾 https://t.co/3pdq14hSLD 👾
+#HathorNetwork #Hatho",153,3,28,2021-07-16
+353,2021-07-18 16:50:40+00:00,1416802611072733190,HathorNetwork,"#Hiring - We are looking for a Head of #Design to join Hathor Network and Labs to guide the #creative department in-house!
+
+Apply now:
+👔 LinkedIn 👉 https://t.co/Wnz6CIfKvp
+🎨 Behance 👉 https://t.co/8l6B1Orxb2
+#hathorNetwork #remotework #graphicdesign #opentowork #Hathor $HTR https://t.co/IB2D9MZ0gH",172,6,29,2021-07-18
+354,2021-07-19 14:13:02+00:00,1417125331908059138,HathorNetwork,"#Hiring - We are looking for a Head of #Design to join Hathor Network and Labs to guide the #creative department in-house!
+
+Apply now on 🎨 Behance 👉 https://t.co/8l6B1Orxb2
+#hathorNetwork #remotework #graphicdesign #opentowork #Hathor $HTR https://t.co/ln1lmdFRvZ",94,1,13,2021-07-19
+356,2021-07-20 11:58:29+00:00,1417453856666144769,HathorNetwork,"@bernardofusato @Andres_S_Aldaco @EthCCWeek @HathorLabs Noted, @bernardofusato 👍",2,0,0,2021-07-20
+360,2021-07-21 21:39:02+00:00,1417962345641414664,HathorNetwork,"A very special THANK YOU for our 30K followers on Twitter. 🤩 
+
+And we are just about to get started! 🚀 
+#Hathor #HathorNetwork 
+#BuildonHathor $HTR https://t.co/LkPRCntybE",328,10,38,2021-07-21
+361,2021-07-22 12:47:05+00:00,1418190864929759234,HathorNetwork,"🇫🇷 Bonjour, Paris 🇫🇷 
+Getting ready for the #HathorNetwork @EthCC Satellite Event with our friends from  @trgcapi @EtienneTRGC
+#Hathor #BuildOnHathor $HTR #EthCC https://t.co/UtOHOyxoxC",151,4,17,2021-07-22
+369,2021-07-29 22:41:01+00:00,1420877047950364674,HathorNetwork,"🇧🇷 🇵🇹  Live com a Mercurius Crypto
+
+Yan Martins (CEO @HathorLabs) participa de uma live com a Mercurius falando sobre a #HathorNetwork e objetivos de 2021! 
+Vem junto!
+
+🔔 Lembrete: https://t.co/96h7BIX8YD
+📅  30 de Julho
+⏰ 18:00 GMT-3
+#Hathor #mercurius #mercuriuscrypto  $HTR https://t.co/sNHDU0lYQB",108,2,20,2021-07-29
+370,2021-07-30 12:17:51+00:00,1421082608755220481,HathorNetwork,"@chuckapeville @KycryptoC @terra_money Beautifully made, Chuck 👍",16,0,0,2021-07-30
+372,2021-07-31 15:32:03+00:00,1421493871192723459,HathorNetwork,"Shoutout to @SatishK1133 and our #HathorNetwork India Community 🇮🇳 
+#Hathor $HTR
+
+Give them a follow here 👇 https://t.co/aryB5WXSk8",126,5,15,2021-07-31
+374,2021-08-03 16:30:07+00:00,1422595645123203072,HathorNetwork,Join us tomorrow on our #Discord for a 1 on 1 with our head of BizDev: Sebastian Guerrero! He’ll be giving our followers an overview of the use cases being built on our network and taking questions from the community after. ⚙️⚒ https://t.co/uI1oCTfMIM https://t.co/RCWiWb84Xz,131,2,30,2021-08-03
+375,2021-08-04 20:16:33+00:00,1423015017318920197,HathorNetwork,"Our first 100k is a defining milestone 🙌 
+the next 100k will be quicker than ever! 🏃‍♂️ 
+https://t.co/lHRopUVqow
+
+#BlockchainMadeEasy ✅ 
+#Hathor #HathorNetwork $HTR https://t.co/iLzMBzrXIp",333,9,62,2021-08-04
+378,2021-08-05 02:29:12+00:00,1423108799292923907,HathorNetwork,@MistrBeard We loved it @MistrBeard!,4,1,0,2021-08-05
+379,2021-08-07 23:11:53+00:00,1424146307363614720,HathorNetwork,"For the #NFT collectors out there: here’s a new drop just released on #9block using #HathorNetwork
+
+https://t.co/AuTftGq4IW
+#buildOnHathor #Hathor $HTR https://t.co/597FXYgFDU",185,10,37,2021-08-07
+381,2021-08-08 03:57:38+00:00,1424218219284467717,HathorNetwork,"@21Lucc1 @maros2710 @htrfdt You can buy the $HTR at Kucoin, AscendEX, Coinmetro, Qtrade and Vitex",9,1,0,2021-08-08
+383,2021-08-09 15:41:58+00:00,1424757857254354950,HathorNetwork,A huge thanks to everyone that was able to meet with us and share a good chat in Paris! We are aware of growing COVID restrictions and we want to continue to organize these as safely as possible for our community. Can’t wait to meet you all! $HTR #ethcc #Paris https://t.co/YCb167MKKt,210,3,27,2021-08-09
+384,2021-08-10 13:26:01+00:00,1425086034056986625,HathorNetwork,"New exchange alert! 🚨 
+We are proud to announce our token listing on @coinexcom ✅ 
+Active pairs: HTR/USDT &amp; HTR/BTC 
+Trading is now live at: https://t.co/romz3Y452w
+#HathorNetwork #Hathor $HTR https://t.co/Td7lUfbTH0",295,8,61,2021-08-10
+385,2021-08-11 17:00:31+00:00,1425502401264500736,HathorNetwork,"#Hathor Snapshot 6 is now live! 
+
+- New Listing on @CoinExCom
+- 100k transactions!
+- Unity Integration
+- EthCC Paris 
+- Use Case Live Q&amp;A
+- NFT Creation
+
+Full article below 👇 
+https://t.co/tDCLSys0wB
+
+#BlockchainMadeEasy ✅  #HathorNetwork $HTR",324,9,73,2021-08-11
+386,2021-08-12 17:32:50+00:00,1425872921482903553,HathorNetwork,"Influencers and Social tokens? 
+Let´s go!
+
+Hathor Labs developed together with the #Os3Sócios channel a 3-part series about blockchain for the #GenZ.
+
+Here is the third and final part of the series in 🇧🇷🇵🇹
+#hathor #socialtokens #HathorNetwork https://t.co/URVKKWIjPM",130,1,21,2021-08-12
+387,2021-08-14 21:10:47+00:00,1426652544785424389,HathorNetwork,"@ledgermex Seems to be working fine on our end. There are newer versions available: 
+Safari (14.1.2) / Big Sur (11.5.2) Try and update 👍",3,0,0,2021-08-14
+388,2021-08-15 05:08:00+00:00,1426772643148148737,HathorNetwork,@felipeneto 👋 @felipeneto $HTR,11,0,2,2021-08-15
+389,2021-08-17 15:52:30+00:00,1427659610278727684,HathorNetwork,"Join us on Thursday at 18:00 GMT on our Discord for a stacked Q&amp;A with the team at @HTRFDT 🛠
+This is not one to be missed.
+#BuildOnHathor #Hathor
+#BlockchainMadeEasy $HTR https://t.co/3G8Bwfeehw",202,3,39,2021-08-17
+392,2021-08-18 11:00:20+00:00,1427948471542243331,HathorNetwork,"Join us tomorrow at 18:00 GMT on our Discord for a stacked Q&amp;A with the team at @HTRFDT 🛠
+This is not one to be missed.
+🔗  https://t.co/ozShR0PqRc
+#BuildOnHathor #Hathor
+#BlockchainMadeEasy $HTR https://t.co/50CIw7chty",167,2,30,2021-08-18
+393,2021-08-19 17:57:58+00:00,1428415961217093641,HathorNetwork,"Our second Q&amp;A session, this time with our friends at 
+@htrfdt is starting right now!
+
+Join us on Discord to hear Matt and Chris discussing crypto, blockchain, enterprise adoption and to find out more about what they are building on #HathorNetwork $HTR
+
+👾 https://t.co/dQYpzXLfhI https://t.co/hYTyUeLfzY",152,6,25,2021-08-19
+395,2021-08-20 15:08:14+00:00,1428735636081684486,HathorNetwork,"We are excited for the future of blockchain technology being used within the gaming industry! 🎮
+
+This is a reality now that the $HTR token can be integrated with the 
+Unity game engine! 👾
+
+What features do you want to see?
+
+Tell us your suggestions👇
+https://t.co/n1VMNooHBU",630,36,154,2021-08-20
+397,2021-08-22 19:38:41+00:00,1429528471680823296,HathorNetwork,"@Georgeeeboyy217 $HTR token is available on the following exchanges: KuCoin, AscendEx, CoinMetro and CoinEx",9,1,1,2021-08-22
+398,2021-08-23 16:58:01+00:00,1429850424631234562,HathorNetwork,"@trondbjoroy Coinbase Commerce is also accepted for BTC, ETH and LTC",11,0,2,2021-08-23
+399,2021-08-25 15:03:41+00:00,1430546427961303041,HathorNetwork,"@AHB72037020 You can get information and download the Hathor Wallet here:
+https://t.co/g1uFfLFkmR
+
+Once downloaded, there are steps in the journey to help secure your wallet 👍",1,0,0,2021-08-25
+402,2021-08-26 13:08:14+00:00,1430879762847879170,HathorNetwork,"Hathor Sessions Vol 1 is now live!
+
+In case you missed our buzzing Q&amp;A with Chris and Mat from @htrfdt
+
+You can now read the transcript which covers the discussion and get inside the mind of the developers 🧠 🛠
+
+Read here👇
+https://t.co/XCHEm127pg
+
+#BuildOnHathor #HathorSessions",168,5,35,2021-08-26
+404,2021-08-27 16:23:31+00:00,1431291297000722432,HathorNetwork,"Happy Friday!
+
+""Teamwork makes the dream work""
+
+As always our team gets together to wrap up the week, as you can see we are growing pretty quick!
+
+Enjoy your weekend 👋
+
+#HathorNetwork #BlockchainMadeEasy $HTR https://t.co/2TGKlyVnSU",212,6,27,2021-08-27
+412,2021-08-28 21:22:23+00:00,1431728896764952579,HathorNetwork,"@Dr_Bennett @AdamHODL The environment is important 🌱
+
+Check out https://t.co/umoTLj1sPh, one of the first initiatives in the industry to encourage renewable energy practices for #Bitcoin and $HTR merged mining.",29,0,3,2021-08-28
+413,2021-08-30 10:20:03+00:00,1432286990402310145,HathorNetwork,"@banglasteve @KianuPicanto @htrfdt For clarification, we have no affiliation with HathorPunks. This is an unofficial project built on Hathor Network",5,0,0,2021-08-30
+416,2021-08-31 13:32:01+00:00,1432697685329469443,HathorNetwork,"An article on how the MSWC are using #Blockchain to tackle traditional commodity finance in Agriculture 👨‍🌾 
+
+Farmers can access loans against their commodities within 24 hours instead of 7 days ⌛ 🇮🇳 
+
+Read here👇
+https://t.co/SKZaKkVGPS
+
+#BlockchainMadeEasy #Agriculture $HTR",157,5,34,2021-08-31
+417,2021-09-01 17:43:00+00:00,1433123236045262851,HathorNetwork,"Hathor Network was created to provide a simplified #blockchain framework suitable for developers and end-users alike while being fast, cheap and scalable.
+
+Simply get some $HTR, mint and distribute your own custom tokens instantly ⚡📱
+
+#HathorNetwork 🌎
+#BlockchainMadeEasy https://t.co/A0oHonGXnQ",499,19,165,2021-09-01
+418,2021-09-02 09:58:58+00:00,1433368848011497475,HathorNetwork,"#OnThisDay we celebrated over 
+115 custom tokens being minted.
+
+One year on, this number is incalculable and growing 🤯
+
+To mint a token, simply convert 
+1 $HTR into 100 (Anything) 🧠 💡
+
+Watch our tutorial👇
+https://t.co/hrnHcGJy6X
+
+#BlockchainMadeEasy #ThrowbackThursday",266,7,57,2021-09-02
+421,2021-09-03 09:33:01+00:00,1433724702388801537,HathorNetwork,"Our communities are growing and we have more languages available! 🌎
+
+Join them below👇
+
+🇧🇷  https://t.co/J6NLYXyK8L
+🇪🇸  https://t.co/vKSNtTP6nP
+🇫🇷  https://t.co/cdnFLjtiS0
+🇹🇷  https://t.co/ALDX5dM1MV
+🇮🇳  https://t.co/WwYSgStIQT
+🇷🇺  https://t.co/hu6HZVMLzR
+
+#HathorNetwork $HTR https://t.co/naYGTZ3jqk",176,6,37,2021-09-03
+423,2021-09-04 16:01:39+00:00,1434184893035130883,HathorNetwork,"Hathor Network was created to provide a simplified #blockchain framework suitable for developers and end-users alike while being fast, cheap and scalable.
+
+Get some $HTR, mint and distribute your own custom tokens instantly and with no costs⚡
+
+#HathorNetwork #BlockchainMadeEasy https://t.co/mXSgKmfd5v",446,8,122,2021-09-04
+424,2021-09-06 13:54:02+00:00,1434877554419175432,HathorNetwork,"An article by @DallasBizNews on the future of real estate tokenization 🏠
+
+""The biggest benefits to real estate tokenization is the ability to reduce investment ticket sizes from $50,000 to $10.""
+
+Article below👇
+https://t.co/wkMgoldQHO
+
+#BlockchainMadeEasy 
+#RealEstate $HTR",170,6,41,2021-09-06
+425,2021-09-07 13:15:02+00:00,1435230127332503555,HathorNetwork,"https://t.co/umoTLj1sPh is one of the first initiatives in the industry to incentivize miners who use clean energy on their #Bitcoin and $HTR merged mining operations.
+
+Watch our explainer 👇
+https://t.co/t1PVya2egF
+
+#HathorGreen #MergedMining #RenewableEnergy",210,6,42,2021-09-07
+426,2021-09-08 12:00:27+00:00,1435573744597192710,HathorNetwork,"New use case! 🚨
+
+Databoi is an artificial intelligence app that tracks, monitors and certifies cattle! 🐄
+
+Built for banks, farmers and investors. It will revolutionalize #agriculture in Brazil 🇧🇷 🚜
+
+🔗 https://t.co/UJBztN6amV
+
+#BuildOnHathor
+#BlockchainMadeEasy
+#Agritech $HTR",335,15,88,2021-09-08
+427,2021-09-09 19:58:17+00:00,1436056384102096900,HathorNetwork,@SimpleSwap_io 👀,4,0,0,2021-09-09
+432,2021-09-10 09:35:01+00:00,1436261922014474278,HathorNetwork,"Have you seen the community-built initiative @JITSwap?
+
+It allows you to swap between cryptocurrencies fast ⚡️
+
+Website below👇
+https://t.co/JRzRlrLNuV
+
+Please DYOR before using any unofficial projects.
+
+#BuildOnHathor $HTR
+#BlockchainMadeEasy
+#CommunityBuilt https://t.co/VYUYolrd1L",148,4,22,2021-09-10
+434,2021-09-12 15:58:26+00:00,1437083190494179338,HathorNetwork,"Hathor Network was created to provide a simplified #blockchain framework suitable for developers and end-users alike while being fast, cheap and scalable.
+
+Simply get some $HTR, mint and distribute your own custom tokens instantly ⚡📲
+
+#HathorNetwork 🌎
+#BlockchainMadeEasy https://t.co/FzFXkscR9H",373,12,89,2021-09-12
+435,2021-09-13 14:07:01+00:00,1437417538460209157,HathorNetwork,"Check out @analyticsinme's article on Blockchain and AI resolving issues in the #music industry 🎶
+
+- Fair royalty payments 🤝
+- Prevent fake concert tickets 🎫 
+- Compensate all contributors 🎤 🎸
+
+Read more👇
+https://t.co/zH8Ku2djcx
+
+#BlockchainMadeEasy
+#BuildOnHathor $HTR",126,1,18,2021-09-13
+436,2021-09-14 13:29:03+00:00,1437770370535276555,HathorNetwork,"Have you seen the community-built Hathor Faucet? 🚰
+
+This was developed through our Grant Progam by a community member 🛠
+
+Simply enter your #Hathor wallet address, receive some $HTR and
+mint your own custom tokens!
+
+🔗 https://t.co/r8snmlDHp7
+
+#BuildOnHathor
+#CommunityBuilt https://t.co/wMxi72yg74",170,8,42,2021-09-14
+438,2021-09-15 09:34:01+00:00,1438073612284669955,HathorNetwork,"Hathor Network celebrates 
+1000 Youtube subscribers! 🎥 🎉
+
+Thank you all for being a part of our growing community 🌎
+
+Subscribe to our channel for important updates and tutorials👇
+
+🔗 https://t.co/IWnitLRCqy
+
+#Community #YouTube
+#BlockchainMadeEasy
+#BuildOnHathor $HTR https://t.co/PzPDJcmUxa",189,7,21,2021-09-15
+440,2021-09-16 12:40:00+00:00,1438482804313034754,HathorNetwork,"Check out https://t.co/UJBztN6amV 🐄
+
+An artificial intelligence app that tracks, monitors and certifies cattle! 
+
+Did you know that an ox's fingerprint is on its muzzle? It's digital identity never changes. 🐮 🧬
+
+Built on Hathor Network ✅
+
+#BuildOnHathor
+#Agritech #Hathor $HTR",156,8,33,2021-09-16
+441,2021-09-17 14:08:01+00:00,1438867341811589126,HathorNetwork,"Merged mining is a mechanism that enables mining more than one cryptocurrency without requiring additional PoW effort ⛏
+
+Why is this important and how do you get started?
+
+Find out more👇
+https://t.co/uriEPlJ6Wx
+
+#MergedMining #Bitcoin
+#BlockchainMadeEasy $HTR",179,1,32,2021-09-17
+442,2021-09-18 15:26:17+00:00,1439249423750549507,HathorNetwork,"Are you following us on @YouTube ?
+#Hathor #HathorNetwork $HTR https://t.co/8ttPVYVFJu",165,7,23,2021-09-18
+443,2021-09-19 15:50:02+00:00,1439617787668967428,HathorNetwork,"Check out Hathor 101 📖
+
+This article was written to be less technical and more easy-to-read for anybody to understand what can be achieved in our ecosystem 🌎
+
+Read here 👇
+https://t.co/KCagIHYkym
+
+#BlockchainMadeEasy
+#BuildOnHathor $HTR",313,7,73,2021-09-19
+444,2021-09-20 16:33:01+00:00,1439990994531934218,HathorNetwork,"Check out this article by crypto native @trondbjoroy 📝
+
+He discusses mass adoption, #nocode, mint/melt and why our ecosystem is one of the safest and most transparent layer 1's available 🌎
+
+Read here👇
+https://t.co/Cfg0Uy2sUn
+
+#BlockchainMadeEasy
+#BuildOnHathor $HTR",140,13,31,2021-09-20
+445,2021-09-21 09:32:01+00:00,1440247434177769474,HathorNetwork,"Last month:
+
+""Our first 100k transactions are a defining milestone, our next 100k will be quicker than ever!""
+
+We have just hit 150k transactions 🤯
+
+#BlockchainMadeEasy
+#BuildOnHathor $HTR https://t.co/dNpxzly0xp",409,9,88,2021-09-21
+446,2021-09-22 12:00:02+00:00,1440647073125130243,HathorNetwork,"Love gaming? 🕹
+
+We want to hear from you!
+
+Whether you are working, building or a gaming enthusiast, tell us what you would like to see in the world of blockchain with gaming 🌎 🎮
+
+Form below👇
+https://t.co/YYy2xIEl9f
+
+#BlockchainMadeEasy
+#BlockchainGaming $HTR",173,12,40,2021-09-22
+448,2021-09-23 19:52:31+00:00,1441128365595918345,HathorNetwork,https://t.co/6BPbzEh0hq,33,0,3,2021-09-23
+459,2021-09-24 20:40:54+00:00,1441502928326459396,HathorNetwork,"In case you didn't know 👀
+
+Hathor Network x @Ledger 
+
+Walkthrough below👇
+https://t.co/JUeqBkesvt
+
+#BlockchainMadeEasy
+#Ledger $HTR https://t.co/nnh23H3kZ7",279,6,33,2021-09-24
+463,2021-09-26 12:39:00+00:00,1442106430279069700,HathorNetwork,"We join the top projects in crypto by integrating with @Ledger, the leading hardware wallet in the industry 🔐🌎
+
+Read our walkthrough on how to connect your Ledger Nano X or S with Hathor Network👇
+https://t.co/JUeqBkw3U3
+
+#BlockchainMadeEasy 
+#Hathor #Ledger $HTR",204,6,35,2021-09-26
+464,2021-09-27 16:13:00+00:00,1442522671732994050,HathorNetwork,"Save the date! ⏰
+
+🗓 Thursday at 2:00 PM UTC
+🎙 AMA with @GutoMartino 
+
+#BlockchainMadeEasy $HTR https://t.co/0bXkSuBIv8",111,4,19,2021-09-27
+465,2021-09-28 13:34:01+00:00,1442845050623385609,HathorNetwork,"@JITSwap is a community-built project.
+
+It allows you to swap between cryptocurrencies fast 💨 
+
+Check it out👇
+https://t.co/JRzRlrLNuV
+
+Please DYOR before using any unofficial projects.
+
+#BuildOnHathor #CommunityBuilt #BlockchainMadeEasy $HTR https://t.co/bj7VrInyAZ",9,1,2,2021-09-28
+468,2021-09-29 12:00:57+00:00,1443184017017393152,HathorNetwork,"Tomorrow our BizDev @aleixooo joins @lemos_ronaldo
+ (@ITSriodejaneiro), Ednilson Martiniano (@ubuntuLasthub), Fabiana Topini + Leonardo Chain (Rennó Penteado) to talk about the legal aspects of #blockchain in Brazil and Hathor Network. $HTR
+
+The event will be free and in 🇵🇹🇧🇷 👇 https://t.co/gp15a6Q1Ob",110,9,19,2021-09-29
+470,2021-09-30 13:53:06+00:00,1443574630761918469,HathorNetwork,"#KuCoinCryptoFriday is here 🎉
+
+Crypto Friday is an event that is not to be missed!
+12 days of fun initiatives by @kucoincom, no matter where you are in the world, get involved! 🌎
+
+What are you waiting for?👇
+https://t.co/b4JK5cjHnX
+
+#KuCoinTurns4 #MOVING4WARD $HTR https://t.co/ZBKpnW9lqi",105,7,19,2021-09-30
+472,2021-10-01 22:23:09+00:00,1444065376023859208,HathorNetwork,"Hathor Tech Tracking Q3/2021 📊 
+
+In this series, we recap our dev operations throughout the last quarter and present them in a technical and transparent breakdown.
+
+Full article below 👇 
+https://t.co/BZRixLjSDf
+#HathorTechTracking #Hathor
+#BlockchainMadeEasy $HTR",337,13,88,2021-10-01
+474,2021-10-02 17:12:14+00:00,1444349518598770692,HathorNetwork,https://t.co/ysF1IWLr4V,71,1,2,2021-10-02
+478,2021-10-03 12:18:00+00:00,1444637860037120009,HathorNetwork,"Hathor Tech Tracking is an article that shares the deliverables of our tech team, recapping the last quarter 🛠
+
+Q3/2021 focused on our network security, infrastructure, NFT tools, and Ledger ✅
+
+Read below👇
+https://t.co/BZRixLjSDf
+
+#HathorTechTracking
+#BlockchainMadeEasy $HTR",210,8,61,2021-10-03
+479,2021-10-04 11:38:01+00:00,1444990186291609608,HathorNetwork,"Community is everything 🤝 🌎
+
+Join our growing Discord for regular Q&amp;A's and community initiatives 🎳
+
+Whether it's mining, #NFTs or socializing in our international channels 🇧🇷🇹🇷🇫🇷🇪🇸🇮🇳🇷🇺
+
+Come and mingle👇
+https://t.co/XTSmcchjNu
+
+#BlockchainMadeEasy
+#Community #Discord $HTR https://t.co/nWqWYfJzdX",126,3,17,2021-10-04
+480,2021-10-05 13:09:01+00:00,1445375472544751619,HathorNetwork,"Did you know Hathor is a member of the @CryptoClimAcc? 🌱
+
+The CCA plans to decarbonize the entire crypto industry. This treaty aligns with our clean energy program https://t.co/umoTLj1sPh ♻️
+
+Read more👇
+https://t.co/XPgN2eTPbl
+
+#RenewableEnergy 
+#HathorGreen $HTR",159,6,32,2021-10-05
+482,2021-10-06 15:30:35+00:00,1445773488564752390,HathorNetwork,"How Hathor Network Scales 🔎
+
+An overview on how we achieved scalability by mixing #Blockchain and #DAG infrastructure 🧬
+
+Full video below👇
+https://t.co/sHps9j88xX
+
+#BuildonHathor $HTR
+#BlockchainMadeEasy https://t.co/JDo1GMj1Nn",324,9,99,2021-10-06
+484,2021-10-07 10:33:18+00:00,1446061063699566594,HathorNetwork,@TraderTamer @Ledger Glad you sorted it out 🤝,1,0,0,2021-10-07
+486,2021-10-08 17:27:51+00:00,1446527773858742276,HathorNetwork,"Our Co-Founder and CTO @msbrogli just released an article explaining everything related to the scalability of the public Tx Mining Service.
+
+Past, present and future ✅
+
+Read below👇
+https://t.co/aSWIkuG0FB
+
+#BlockchainMadeEasy
+#BuildOnHathor 
+#NFTs $HTR",165,6,42,2021-10-08
+487,2021-10-09 20:01:03+00:00,1446928719394840578,HathorNetwork,"Join our growing Discord for regular Q&amp;A's and community initiatives!
+
+Whether it's mining, #NFTs or socializing in our international channels  👇
+https://t.co/XTSmcchjNu
+
+#BlockchainMadeEasy
+#Community #Discord $HTR https://t.co/A3vHQDboQv",40,1,3,2021-10-09
+495,2021-10-10 00:29:21+00:00,1446996235223719936,HathorNetwork,"@Andres_S_Aldaco Great job, @Andres_S_Aldaco 👍",7,1,1,2021-10-10
+497,2021-10-11 16:11:08+00:00,1447595633158856705,HathorNetwork,"@Cointelegraph discusses the need for #NFTs to be user-friendly for first-time buyers 🙋‍♂️
+
+""In order to sustain the growth of NFTs, it is important that new buyers aren’t deterred from purchasing NFTs due to high gas fees.""
+
+🔗 https://t.co/WVZiucsag9
+
+#BuildOnHathor #Feeless $HTR",29,0,4,2021-10-11
+498,2021-10-12 13:25:00+00:00,1447916213397512208,HathorNetwork,"Have you seen our AMA with @hoprnet? 🎥
+
+Bringing level-zero privacy to our fast and scalable transactions is preparing the ecosystem for the next growth wave of privacy-aware individuals and compliance-driven corporations 🔐
+
+🔗 https://t.co/IaVcKSg84l
+
+#BlockchainMadeEasy $HTR",129,3,21,2021-10-12
+499,2021-10-13 21:32:01+00:00,1448401161409728515,HathorNetwork,"@EAIL100 @WhaleOnTheMoon8 Check out our medium👇
+https://t.co/fZcceuSrem
+
+Use cases are usually mentioned in our monthly Snapshot 🤝",1,0,0,2021-10-13
+502,2021-10-14 19:12:10+00:00,1448728353838702593,HathorNetwork,"Just in from @Cointelegraph! 🗞 
+
+Hathor Network is partnering with @SimplexCC to provide a fiat on and off-ramp with a Visa debit card 💳
+
+Article below👇
+https://t.co/QRdsaci4n9
+
+#BlockchainMadeEasy
+#Fintech $HTR",700,34,223,2021-10-14
+506,2021-10-15 14:00:09+00:00,1449012220231397380,HathorNetwork,"In case you missed it👇
+
+Hathor Network x @SimplexCC 
+Visa integrated debit card 💳 🎉
+
+#BlockchainMadeEasy 
+#Fintech $HTR https://t.co/AaTtUZ6AQh",155,2,29,2021-10-15
+520,2021-10-16 12:16:00+00:00,1449348399640236032,HathorNetwork,"Our CMO @gutomartino talks with Joe from @BullFlagGroup about our ecosystem 🌎
+
+From use cases to community initiatives, this is a great discussion!
+
+Watch below 🎥
+https://t.co/Rxw6bdJR4N
+
+#BlockchainMadeEasy 
+#BuildOnHathor $HTR",110,1,23,2021-10-16
+522,2021-10-17 12:11:00+00:00,1449709528719708160,HathorNetwork,"Looking for a Sunday read? 📖
+
+Our Snapshot covers many exciting updates unfolding on our network 🌎
+
+Such as use cases, tech updates, milestones, listings and many more!
+
+Have a read👇
+https://t.co/ReuoYckZAO
+
+#BlockchainMadeEasy
+#BuildOnHathor $HTR",107,5,24,2021-10-17
+524,2021-10-18 11:19:02+00:00,1450058837197795333,HathorNetwork,"Watch our official explainer on how we tackle scalability issues in blockchain with #DAG 🧬
+
+Find out what happens when Alice sends 1 $BTC vs 1 $HTR to Bob 📲
+
+Full video below👇
+https://t.co/sHps9jpJWx
+
+#BlockchainMadeEasy
+#BuildOnHathor #Blockchain
+#HathorNetwork #Bitcoin https://t.co/27Thk519OG",264,8,81,2021-10-18
+525,2021-10-19 16:54:55+00:00,1450505753652076551,HathorNetwork,"Tune in tommorow at 2PM UTC 
+For our AMA on @Cointelegraph with @SimplexCC🎙
+
+Subscribe to the event now👇
+https://t.co/CJqvHEmEw9
+
+#BlockchainMadeEasy
+#BuildOnHathor $HTR https://t.co/jmtjwmsQF9",173,5,32,2021-10-19
+528,2021-10-20 07:55:01+00:00,1450732270348906496,HathorNetwork,"We are hours away from our AMA with @SimplexCC on @Cointelegraph 🎤
+
+🗓 Today
+🕑 2 PM UTC
+
+Subscribe to the event👇
+https://t.co/CJqvHEmEw9
+
+#BlockchainMadeEasy
+#BuildOnHathor $HTR https://t.co/af4MV3Lnn0",162,4,34,2021-10-20
+534,2021-10-21 22:36:34+00:00,1451316508597137410,HathorNetwork,"@hanseaticeth @Ledger We are sending it directly from our Lisbon office.
+They all came from Ledger to us.",8,1,1,2021-10-21
+539,2021-10-22 09:31:00+00:00,1451481202670645249,HathorNetwork,Enter our giveaway to win an exclusive Hathor branded Ledger Nano S 🎁👇 https://t.co/Mi1RcUx4uk,81,4,8,2021-10-22
+541,2021-10-23 00:12:39+00:00,1451703075148910592,HathorNetwork,"Enter our giveaway below👇 to win an exclusive Hathor branded @Ledger 🎉
+
+You can now store your $HTR on the world's leading hardware wallet 🌎 https://t.co/Mi1RcUx4uk",111,4,17,2021-10-23
+544,2021-10-24 20:00:07+00:00,1452364299222016009,HathorNetwork,"Giveaway ends in 24 hours 🚨⏳
+
+#BlockchainMadeEasy $HTR https://t.co/Mi1RcUx4uk",70,3,10,2021-10-24
+548,2021-10-25 08:00:07+00:00,1452545494174011394,HathorNetwork,"Our giveaway ends in 12 hours! ⏳
+
+Win a Hathor @Ledger Nano S 🎁
+
+Enter below!👇
+https://t.co/swdMoNj0tN
+
+#BlockchainMadeEasy
+#Ledger #Giveaway $HTR https://t.co/8elraTeLYV",90,4,11,2021-10-25
+554,2021-10-26 09:25:03+00:00,1452929255034310663,HathorNetwork,"Our infrastructure solves artificial bottleneck issues such as:
+
+- Long confirmation times 🕑
+- High transaction fees 💸
+
+How? Blockchain + #DAG 🧬
+
+Watch our explainer👇
+https://t.co/sHps9jpJWx 
+
+#BlockchainMadeEasy
+#BuildOnHathor $HTR https://t.co/NlYNI0pjhA",266,4,70,2021-10-26
+558,2021-10-27 12:00:35+00:00,1453330783624642563,HathorNetwork,"What a beauty 😍
+
+The all-new Hathor VISA Debit card 💳
+
+#BlockchainMadeEasy 
+#ComingSoon $HTR https://t.co/qDCIRxiZ1m",462,18,90,2021-10-27
+560,2021-10-28 15:00:40+00:00,1453738492945653760,HathorNetwork,"Databoi is an AI app that tracks, monitors and certifies cattle 🐄📱
+
+The ox's fingerprint is on its muzzle, by taking an image of it, Its digital identity can be stored on the #blockchain 🐮🧬
+
+Built on Hathor Network ✅
+
+Learn more👇
+https://t.co/UJBztN6amV
+
+#BuildOnHathor $HTR https://t.co/BXS2vBInCp",170,8,35,2021-10-28
+562,2021-10-29 09:29:01+00:00,1454017416133029896,HathorNetwork,"Our first #HathorSessions with our friends @chrisdefour and @diabmat from @htrfdt was an insightful discussion with the community🎙
+
+If you missed it, we created a transcript of some of the subjects covered below👇
+https://t.co/XCHEm127pg
+
+#BlockchainMadeEasy
+#BuildOnHathor $HTR https://t.co/s3S8gJvNy5",138,4,23,2021-10-29
+563,2021-10-30 12:16:01+00:00,1454421832543711232,HathorNetwork,"Love gaming? 🕹
+
+The community built @unity game engine plugin enables game developers to integrate their creations with Hathor Network's $HTR for in-game micro-transactions 🎮
+
+Article below👇
+https://t.co/3pdq14hSLD
+
+#BlockchainMadeEasy 
+#CommunityBuilt
+#BuildOnHathor https://t.co/5aXfvi169c",270,10,70,2021-10-30
+564,2021-10-31 12:30:04+00:00,1454787758015275009,HathorNetwork,"👻 Happy Hathorween! 🎃
+
+#BlockchainMadeEasy 
+#Halloween $HTR https://t.co/NKKCVQJHkL",143,7,13,2021-10-31
+566,2021-11-01 09:18:18+00:00,1455101883203325952,HathorNetwork,@levi_alterman @godeLives They're cool right?! - They were only made to celebrate our integration :),4,1,0,2021-11-01
+569,2021-11-02 13:10:01+00:00,1455522587707154434,HathorNetwork,"Our global community is growing! 🌎
+
+Join them below👇
+🌐  https://t.co/epHx4OOlkM
+🇧🇷  https://t.co/J6NLYXyK8L
+🇪🇸  https://t.co/vKSNtTP6nP
+🇫🇷  https://t.co/cdnFLjtiS0
+🇹🇷  https://t.co/ALDX5dM1MV
+🇮🇳  https://t.co/WwYSgStIQT
+🇷🇺  https://t.co/hu6HZVMLzR
+
+#BlockchainMadeEasy $HTR https://t.co/6GQpB2d2By",110,5,17,2021-11-02
+571,2021-11-03 22:30:04+00:00,1456025914370887687,HathorNetwork,"Check out our AMA with @SimplexCC on @Cointelegraph for everything you need to know about the new
+Hathor VISA integrated debit card 💳
+
+Watch below👇
+https://t.co/4G9FDaP28o
+
+#BlockchainMadeEasy 
+#AMA #Fintech $HTR https://t.co/rzh4OcdUSd",190,0,29,2021-11-03
+573,2021-11-04 15:58:00+00:00,1456289636653977603,HathorNetwork,"This article by @TodayNft discusses our infrastructure, its ease of use, and showcases a few of the #NFT projects being built on our network by our talented community 🎨 🤝
+
+Article below👇
+https://t.co/go5ygPiNdL
+
+#BlockchainMadeEasy 
+#Community #NFTs $HTR",144,6,30,2021-11-04
+575,2021-11-05 09:52:01+00:00,1456559921990877193,HathorNetwork,"┏━━┓┏━━┓┏━━┓┏━━┓
+┗━┓┃┃┏┓┃┗━┓┃┗━┓┃
+┏━┛┃┃┃┃┃┏━┛┃┏━┛┃
+
+ 2 months until January Halving! 🎉
+
+┃┏━┛┃┃┃┃┃┏━┛┃┏━┛
+┃┗━┓┃┗┛┃┃┗━┓┃┗━┓
+┗━━┛┗━━┛┗━━┛┗━━┛
+
+#BlockchainMadeEasy $HTR https://t.co/R1lvJpdslo",511,16,112,2021-11-05
+577,2021-11-06 17:20:03+00:00,1457035060947861510,HathorNetwork,"Presenting.. 🥁
+
+Hathor Theme Week #1 - #NFTs 🎨
+
+Save the date! 🗓
+15th - 19th November 2021
+
+#BlockchainMadeEasy
+#HathorThemeWeek 
+#NFT $HTR https://t.co/egxHSdB5K6",337,12,72,2021-11-06
+578,2021-11-07 12:37:01+00:00,1457326219461025799,HathorNetwork,"Our latest Medium article showcases the newest version of our desktop wallet with NFT functionality (v0.21.1)
+
+You can now mint and store your #NFTs on the Hathor Wallet 🎨
+
+Article below 📖
+https://t.co/myeYsGujBa
+
+#BlockchainMadeEasy
+#BuildOnHathor $HTR https://t.co/xFzfdT5dOc",388,11,85,2021-11-07
+579,2021-11-08 17:38:46+00:00,1457764547385864205,HathorNetwork,"For those of you who missed it, you can now mint and store your #NFTs on the Hathor Desktop Wallet 🎉 
+
+Check out the Medium article in the tweet below👇
+
+#BlockchainMadeEasy $HTR https://t.co/sKyBajjenz",209,4,41,2021-11-08
+581,2021-11-09 17:50:02+00:00,1458129769497772033,HathorNetwork,"We recently announced that #NFTs can be minted and stored on the Hathor Desktop Wallet 🎨
+
+You can now watch the walkthrough on our Youtube, link below👇
+
+🎥 https://t.co/tCTA4M2Y0u
+
+#BlockchainMadeEasy
+#BuildOnHathor $HTR",280,7,60,2021-11-09
+583,2021-11-10 14:58:43+00:00,1458449044620161026,HathorNetwork,"250k Transactions! 🎉
+
+With the adoption and growth on our network, 1M is around the corner 🚀
+
+Transaction tally👇
+https://t.co/ue2CVtpzWF 
+
+#BlockchainMadeEasy $HTR https://t.co/q2igl8inI8",487,10,87,2021-11-10
+585,2021-11-11 15:46:36+00:00,1458823481622241288,HathorNetwork,"Mint and store your #NFTs on the Hathor Desktop Wallet 🎨
+
+Our latest Medium article showcases the entire process ✅
+
+Read below ⬇️
+https://t.co/myeYsGujBa
+
+#BlockchainMadeEasy
+#BuildOnHathor $HTR https://t.co/xOCr4jV90n",230,5,51,2021-11-11
+586,2021-11-12 11:37:05+00:00,1459123078894600197,HathorNetwork,"Just a few days away! 🥳
+
+#BlockchainMadeEasy 
+#HathorThemeWeek $HTR https://t.co/RgImjlf5vy",184,3,25,2021-11-12
+589,2021-11-13 16:48:02+00:00,1459563717771907080,HathorNetwork,"1000 Instagram Followers! 🥳
+
+Follow our Instagram👇
+https://t.co/3gP6pbisvz
+
+#BlockchainMadeEasy $HTR https://t.co/zPvCL0ANtY",377,20,52,2021-11-13
+590,2021-11-14 17:32:55+00:00,1459937400826826756,HathorNetwork,"Our Medium article and AMA details everything about the upcoming Hathor Visa Debit Card 💳
+
+Read below 📚
+https://t.co/JZ2zbpxzUM
+
+Watch AMA 🎥
+https://t.co/4G9FDaP28o
+
+#BlockchainMadeEasy
+#BuildOnHathor $HTR https://t.co/MPnCup0SO0",402,12,84,2021-11-14
+591,2021-11-15 15:04:49+00:00,1460262517209505800,HathorNetwork,"If you thought gas fees were bad, listing fees also apply if you want to list your #NFT on a marketplace 🛒
+
+NFT listing cost (Current standard)
+$30-$50
+
+Listing cost at @HathorMarketPlace
+$0.00
+
+This is just 1 of many community built projects 🤝
+ 
+#BuildOnHathor https://t.co/EA7cOPf3R1",59,3,6,2021-11-15
+609,2021-11-16 11:02:30+00:00,1460563925892751369,HathorNetwork,"Day 2 of #NFT Week! 🎨
+
+Our competition will be announced shortly 👀🔥
+
+In the meantime, if you haven't seen our thread from Day 1 of NFT Week, check it out ⤵
+
+#HathorThemeWeek $HTR https://t.co/AmP8Y5TUdK",113,1,24,2021-11-16
+612,2021-11-17 15:34:03+00:00,1460994649225576451,HathorNetwork,"Join the Meme War on Discord and be in with a chance to win our Mystery NFT🔮
+
+Venue: https://t.co/B9nLTNdAe7
+
+#HathorThemeWeek $HTR https://t.co/ZbRFWWARGd",63,1,3,2021-11-17
+613,2021-11-18 22:04:47+00:00,1461455368429654018,HathorNetwork,"Hathor Theme Week #1 - NFT's 🎨
+ 
+Day #4 - Article 📚
+
+NFTs on Hathor: Breaking the Barriers
+
+Read now👇
+https://t.co/1NiescaYLn
+
+#BlockchainMadeEasy
+#HathorThemeWeek
+#BuildOnHathor
+#NFT #NFTs $HTR https://t.co/o7JJk0gwnd",150,6,27,2021-11-18
+619,2021-11-19 10:17:00+00:00,1461639638997770240,HathorNetwork,"Our Meme War has ended! ⌛️ 
+
+We will be announcing the 3 winners and a preview of our Mystery #NFT later today! 🔮 👀
+
+In the meantime check out our article on Medium dedicated to this week ⤵️
+
+#HathorThemeWeek $HTR https://t.co/sPhN08Tnd4",121,7,10,2021-11-19
+622,2021-11-20 12:16:01+00:00,1462031976790171654,HathorNetwork,"Can't wait for this one! ⏳
+
+The all-new Hathor VISA Debit card 🎁
+
+Article below👇
+https://t.co/JZ2zbpxzUM
+
+#BlockchainMadeEasy $HTR https://t.co/SxS8f13UiP",569,18,127,2021-11-20
+623,2021-11-21 12:36:01+00:00,1462399397413761026,HathorNetwork,"Sunday is for unwinding 📕😌
+
+Check out our latest article:
+
+NFTs on Hathor: Breaking the Barriers
+
+🔗 https://t.co/1NiescaYLn
+
+#BlockchainMadeEasy #NFTs $HTR https://t.co/BIidz63pvZ",199,4,37,2021-11-21
+624,2021-11-22 12:45:00+00:00,1462764049062580226,HathorNetwork,"NFT Week was a blast! 🥳
+
+Some of the highlights: 
+
+- Hathor Sessions🎙
+- Meme War on Discord ⚔️
+- Hathor Network's First NFT Prize! 🎁 
+
+Want to learn more about NFTs? 🎨
+
+Check out our #NFT Thread ⬇️
+
+#HathorThemeWeek $HTR https://t.co/AmP8Y5TUdK",143,3,19,2021-11-22
+626,2021-11-23 13:27:05+00:00,1463137024584601612,HathorNetwork,"Our infrastructure solves architectural bottleneck issues such as:
+
+- Long confirmation times ⏰
+- High gas fees 💰
+
+Q: How? 🤔 
+A: Blockchain + #DAG 🧬
+
+Watch our explainer ⤵️
+https://t.co/sHps9jpJWx 
+
+#BlockchainMadeEasy $HTR https://t.co/XvW8cDmnVK",310,6,83,2021-11-23
+628,2021-11-24 14:17:01+00:00,1463511979499433996,HathorNetwork,"A week ago, we interviewed 23 NFT projects building on our ecosystem🎙
+
+From a marketplace 🛒, to implementing play-to-earn 🎮 and some awesome collectibles ⚾️, the possibilities are endless! 🧠
+
+NFT Article 📚
+https://t.co/1NiescaYLn
+
+#HathorSessions 
+#Discord #NFTs $HTR https://t.co/Z5S2BlxIXu",277,7,67,2021-11-24
+629,2021-11-25 20:36:04+00:00,1463969759465197577,HathorNetwork,"Want to build on Hathor Network? 🛠
+
+Why not start by creating an NFT? 👾
+
+We have created a written and visual guide for you, available on our Medium and Youtube ⤵️
+
+📙 Medium - https://t.co/2FbygXzU6Z
+📹 Youtube - https://t.co/tCTA4M2Y0u
+
+#BlockchainMadeEasy #NFTs $HTR",181,5,41,2021-11-25
+631,2021-11-26 12:06:00+00:00,1464203783366451211,HathorNetwork,"Happy Friday Community! 👋
+
+We can confirm as of yesterday, KuCoin have opened $HTR Deposit and Withdrawal Services ✅
+
+Announcement👇
+🔗 https://t.co/vldHsQmgx3
+
+#HathorNetwork #KuCoin",316,14,45,2021-11-26
+634,2021-11-27 11:57:01+00:00,1464563910246379527,HathorNetwork,"Waiting for the Hathor Visa card? 💳
+
+Watch our AMA with @SimplexCC which discusses our partnership, 
+fiat on-ramp and the debit card ⬇
+
+🔗 https://t.co/4G9FDaP28o
+
+#BlockchainMadeEasy 
+#AMA #Fintech $HTR https://t.co/kb7TpgO1kK",228,8,36,2021-11-27
+635,2021-11-28 12:11:01+00:00,1464929822019571712,HathorNetwork,"What is Merged Mining? ⛏
+
+How does it work? ⚙️
+
+Check out our Medium article on everything you need to know ⤵️
+
+📘 https://t.co/uriEPlJEM5
+
+#BlockchainMadeEasy 
+#MergedMining $HTR https://t.co/iPCRbl0J1s",165,3,37,2021-11-28
+636,2021-11-29 11:17:01+00:00,1465278620851654662,HathorNetwork,"┏━━┓┏━━┓┏━━┓┏━━┓
+┗━┓┃┃┏┓┃┗━┓┃┗━┓┃
+┏━┛┃┃┃┃┃┏━┛┃┏━┛┃
+
+   Under 40 days until Halving! 🎉
+
+┃┏━┛┃┃┃┃┃┏━┛┃┏━┛
+┃┗━┓┃┗┛┃┃┗━┓┃┗━┓
+┗━━┛┗━━┛┗━━┛┗━━┛
+
+https://t.co/S3JdpUVwnN
+
+#HathorHalving $HTR https://t.co/dFyjsjFjUU",497,14,113,2021-11-29
+640,2021-11-30 13:57:01+00:00,1465681275763707909,HathorNetwork,"Well, 300k transactions happened in a blink of an eye!💨
+
+You can keep track of our statistics such as transaction tally or hash rate by visiting our explorer ⬇️
+
+🔗 https://t.co/ue2CVtpzWF 
+
+#BlockchainMadeEasy $HTR https://t.co/cIbSce99yK",382,10,67,2021-11-30
+642,2021-12-01 00:06:54+00:00,1465834757426712576,HathorNetwork,"Fifty, Thousand. Followers. 🤯
+
+Yes. 50K Twitter Followers! 🎉
+
+A round of applause to every single one of you, from community member to ecosystem builder, we appreciate you all! 👏
+
+#BlockchainMadeEasy ✅
+
+$HTR https://t.co/uqd8exZWAl",540,19,94,2021-12-01
+644,2021-12-02 17:59:26+00:00,1466467054765154311,HathorNetwork,@CryptoSparky01 🤝,13,0,0,2021-12-02
+648,2021-12-03 14:00:36+00:00,1466769338812313600,HathorNetwork,"LOVE this! 🎥
+
+The @auscryptoshow breaks down some of the community built #NFT projects and Use cases being built on our ecosystem 🌐
+
+Watch now👇
+https://t.co/9wRDbr6tTf
+
+#BlockchainMadeEasy $HTR",138,11,27,2021-12-03
+650,2021-12-04 10:53:02+00:00,1467084525356339204,HathorNetwork,"Shopping for gifts this weekend? 🛒
+
+Check out @HathorMerch Store 👕
+
+Available to our global community 🌎
+
+Visit https://t.co/AuQDvQD1ff now! 🛍
+
+#BlockchainMadeEasy $HTR https://t.co/8JGZMcqtbj",106,5,11,2021-12-04
+651,2021-12-05 12:16:01+00:00,1467467796099575810,HathorNetwork,"We were featured on @bitcoinist! 📰
+
+""Miners can mine $HTR on F2Pool and Poolin, two of the most popular mining pools on the #Bitcoin network. The $HTR mining rewards will be halved from Jan 2022, from 32 to 16 tokens per block.""
+
+👉 https://t.co/E2mKCyyO8O
+
+#BlockchainMadeEasy https://t.co/mk6uxFGn9J",309,11,76,2021-12-05
+652,2021-12-06 15:42:11+00:00,1467882067451068421,HathorNetwork,"New exchange! 📣
+
+$HTR is listing on @BitrueOfficial! 🎉
+
+🗓 Live from 10:00am UTC on Dec 7
+
+📭 Deposits are open!
+
+More info 👉 https://t.co/0nThIcw58O
+
+#BlockchainMadeEasy https://t.co/trsQMopq3r",461,28,97,2021-12-06
+654,2021-12-07 17:46:16+00:00,1468275681444442120,HathorNetwork,"Thanks to @aleixooo ,  #HathorNetwork was mentioned today on @CNNBrasil in an article about #tokenization and #cryptocurrencies.
+
+You can read the article written in Portuguese below 
+#Hathor $HTR 🇧🇷🇵🇹 https://t.co/HDwrz6cf3a",165,1,21,2021-12-07
+657,2021-12-08 19:22:45+00:00,1468662350744068108,HathorNetwork,"Hathor Halving is in 30 days! 🚨
+
+Block rewards: 32 to 16 $HTR ✅
+
+Let the countdown begin👇
+https://t.co/S3JdpUVwnN
+
+#HathorHalving https://t.co/aK1hWQL0vY",655,44,174,2021-12-08
+659,2021-12-09 12:35:01+00:00,1468922130632957955,HathorNetwork,"Official t-shirts now available! ✅
+
+Check out @HathorMerch Store 👕
+
+Order yours today👇 
+https://t.co/AuQDvQD1ff 
+
+#BlockchainMadeEasy $HTR https://t.co/ZKeIhMdjrt",152,9,19,2021-12-09
+661,2021-12-10 14:23:01+00:00,1469311696439238665,HathorNetwork,"Article by https://t.co/IMFT3bxoYE @BTCTN 🗞
+
+""An innovative blockchain project.""
+
+Read now👇 
+https://t.co/pfAWu4dSR2
+
+#BlockchainMadeEasy $HTR https://t.co/QHTwpzseja",275,6,88,2021-12-10
+662,2021-12-12 12:13:01+00:00,1470003756133670914,HathorNetwork,"Article by https://t.co/THKbQSSpDi 🚨
+
+""Several new #blockchain protocols have sprung up in recent years to offer an alternative, and Hathor has proven to be a popular option among developers and end-users.""
+
+Read now ⬇️
+https://t.co/7ZAyZgA12H
+
+#BlockchainMadeEasy $HTR https://t.co/r3wqt8hb2k",260,7,66,2021-12-12
+663,2021-12-13 12:39:01+00:00,1470372686987726852,HathorNetwork,"Article by https://t.co/tR8iZfI6Dm 🚨
+
+""Hathor’s central goal is to build a blockchain ecosystem where anyone can build within minutes.""
+
+Full article ⬇️
+https://t.co/tGOurpQzPi
+
+#BlockchainMadeEasy $HTR https://t.co/VeJveiDFY8",236,4,60,2021-12-13
+665,2021-12-14 13:06:01+00:00,1470741869827338243,HathorNetwork,"Featured on @MICKYNewsOz 🗞
+
+""Leading the next generation #blockchain movement."" 
+
+Article below👇
+https://t.co/5B84M4wOGb
+
+#BlockchainMadeEasy $HTR https://t.co/Xpx4BndfQL",169,1,40,2021-12-14
+667,2021-12-15 12:42:01+00:00,1471098216447885312,HathorNetwork,"Article live on @YahooFinance 🚨
+
+""Hathor Network Launches #NFT Functionality on Hathor Desktop Wallet."" ✅
+
+Read now ⬇️
+https://t.co/hE8dC6DIUm
+
+#BlockchainMadeEasy $HTR https://t.co/B1Ne5ILacy",361,23,107,2021-12-15
+668,2021-12-16 13:34:16+00:00,1471473754366779395,HathorNetwork,"Featured on @Blockonomi 👈
+
+""Exciting future ahead."" 🌎
+
+Article below ⬇️
+https://t.co/mKOaMFB9D9
+
+#BlockchainMadeEasy $HTR https://t.co/2q8DCWPgRm",234,8,57,2021-12-16
+670,2021-12-17 12:05:01+00:00,1471813683248566279,HathorNetwork,"New drop! 🚨
+
+9Block have released a new #NFT collection, celebrating the history of the biggest eSports award in Latin America 🎮 🌎
+
+Live now👇
+https://t.co/EksqeUfoaz
+
+#BlockchainMadeEasy $HTR https://t.co/Ikyid3aUsX",192,1,28,2021-12-17
+672,2021-12-18 12:19:01+00:00,1472179592370835470,HathorNetwork,"A piece by @Beincrypto 
+
+""Hathor Network: Building Next-Generation Blockchain For Web 3.0""
+
+Article 🗞
+https://t.co/dYwxVtnLnb
+
+#BlockchainMadeEasy $HTR https://t.co/g3a35QlGR9",311,10,77,2021-12-18
+674,2021-12-19 12:14:01+00:00,1472540722607927296,HathorNetwork,"Article by @MktsInsider 
+
+""Solving the Trilemma problem."" ✅
+
+👉 https://t.co/0BIeIZljaO
+
+#BlockchainMadeEasy $HTR https://t.co/4JsxAWjHbX",347,10,80,2021-12-19
+675,2021-12-20 22:57:01+00:00,1473064925723516929,HathorNetwork,"Article from @coinquora_ ⬇
+
+""A debit card in collaboration with @SimplexCC and its token $HTR is integrated within leading hardware platform @Ledger.""
+
+Read more👇
+https://t.co/wGTgYZnAw9
+
+#BlockchainMadeEasy $HTR https://t.co/ydlzZXXI9f",251,4,69,2021-12-20
+678,2021-12-21 03:26:27+00:00,1473132733027303426,HathorNetwork,"📣Calling all Hathorians! 📣
+
+We need 10 million votes⁩ to get the $HTR listed on ⁦@gate_io⁩!
+
+Voting starts at 4 am UK 21st Dec 2021 and goes until 2 am UK 22nd Dec!
+#Hathor #HathorNetwork #gateio  https://t.co/PxLxoIPZlX",552,37,152,2021-12-21
+689,2021-12-22 17:43:02+00:00,1473710685754429449,HathorNetwork,"Check out our latest Medium post about $HTR listing on @gate_io ✅
+
+Read now 📙
+https://t.co/28esMuV3Wo
+
+#HathorNetwork #Gateio $HTR $GT https://t.co/TId9TulGvT",340,13,62,2021-12-22
+696,2021-12-23 21:00:29+00:00,1474122765355606016,HathorNetwork,"Hathor Halving is in 15 days! 🚀
+
+Block rewards: From 32 to 16 $HTR 
+
+Countdown with us ⤵️
+https://t.co/S3JdpUVwnN
+
+#HathorHalving https://t.co/D0Mofw3hIy",428,18,84,2021-12-23
+702,2021-12-24 09:30:03+00:00,1474311398721212417,HathorNetwork,"By @CoinSpeaker 📕
+
+""Hathor is one of the few blockchain protocols that use Merged mining. It enables the mining of more than one cryptocurrency without requiring additional proof-of-work effort.""
+
+Full article ➡ https://t.co/dBWmukSPX0
+
+#BlockchainMadeEasy $HTR https://t.co/EAkt3kMOdZ",207,8,37,2021-12-24
+704,2021-12-25 12:00:34+00:00,1474711666675929097,HathorNetwork,"🎉 Happy HODL'days! 🎄
+
+#BlockchainMadeEasy $HTR https://t.co/LADAz4DNxH",424,10,60,2021-12-25
+705,2021-12-26 12:20:01+00:00,1475078946526007299,HathorNetwork,"Food coma this weekend? 😌 
+
+Kick back, relax and have a read 📗👇
+
+""Projects and Individuals can create their tokens within minutes without any coding requirements.""
+
+Read now👇
+https://t.co/2E5uTi7uzg
+
+#BlockchainMadeEasy $HTR https://t.co/7ma440VSmg",299,6,67,2021-12-26
+706,2021-12-27 20:00:34+00:00,1475557235606622216,HathorNetwork,"It's almost here! ⏳
+
+The all-new Hathor VISA Debit card 💳
+
+Full details ➡ https://t.co/JZ2zbpxzUM
+
+#BlockchainMadeEasy $HTR https://t.co/Ft54IsP14G",704,26,166,2021-12-27
+709,2021-12-28 21:00:12+00:00,1475934631514054656,HathorNetwork,"Hathor Halving is in 10 days! ✅
+
+Block rewards: From 32 to 16 $HTR 
+
+Countdown with us ⤵️
+https://t.co/S3JdpUVwnN
+
+#HathorHalving https://t.co/32tdIVKvTh",499,19,119,2021-12-28
+711,2021-12-29 10:00:04+00:00,1476130893299335168,HathorNetwork,"Giveaway by @gate_io! 🎁
+
+Full details on how you can enter ⬇️
+
+#HathorNetwork #Gateio $HTR $GT https://t.co/KaBlTMjq09",159,9,31,2021-12-29
+713,2021-12-30 11:00:06+00:00,1476508387252781059,HathorNetwork,"Trading Competition by @Gate_io! 🥳
+
+⏰ Ends Jan 6th, 11:00am UTC ⏰
+
+Full details below ⬇
+
+#HathorNetwork #Gateio $HTR $GT https://t.co/NKlOBx3Wyf",96,1,13,2021-12-30
+716,2021-12-31 17:00:33+00:00,1476961486094413829,HathorNetwork,"1. #Goodbye2021 ✅
+2. #Hello2022 🎉
+3. #HathorHalving in 7 days! 🚀
+
+The countdown begins ⏳
+https://t.co/S3JdpUVwnN
+
+#BlockchainMadeEasy $HTR https://t.co/HURh2mMDGn",416,20,93,2021-12-31
+718,2022-01-01 00:00:38+00:00,1477067204898304014,HathorNetwork,"🎊 Happy New Year 2022! 🎉
+
+Thank you to our global community, partners and ecosystem builders 🤝 
+
+Wishing you all an amazing year! 🎉
+
+#Goodbye2021 #Hello2022 $HTR https://t.co/mSiCG8j5Pl",409,15,66,2022-01-01
+720,2022-01-02 12:15:01+00:00,1477614403122089989,HathorNetwork,"Article by @MarketWatch ✅
+
+""Hathor has developed an innovative blockchain architecture.""
+
+Full article👇
+https://t.co/VPQvHuv3lM
+
+#BlockchainMadeEasy $HTR https://t.co/8Al7bATkw0",359,10,75,2022-01-02
+723,2022-01-03 20:00:32+00:00,1478093943040528396,HathorNetwork,"4 days until #HathorHalving! ⏳
+
+Countdown with us ⬇️
+https://t.co/S3JdpUVwnN
+
+#BlockchainMadeEasy $HTR https://t.co/MiQKu4gzEr",531,13,134,2022-01-03
+731,2022-01-04 01:09:25+00:00,1478171676122693637,HathorNetwork,"No team member, admin or moderator will EVER ask you for your password’s, private keys or ask for funds to be sent to any kind of wallet.
+
+Please be safe out there. $HTR",100,1,8,2022-01-04
+736,2022-01-05 20:25:35+00:00,1478825024714854400,HathorNetwork,"2 days until #HathorHalving! 🤯
+
+Countdown below👇
+https://t.co/S3JdpUVwnN
+
+#BlockchainMadeEasy $HTR https://t.co/IilF8dcC0E",381,15,70,2022-01-05
+739,2022-01-06 13:20:16+00:00,1479080377847324676,HathorNetwork,"Seen Hathor Talks yet? 💬
+
+This is a two-part series giving a full introduction on Hathor Network ✅ 
+
+Part 1 available now!👇
+
+#BlockchainMadeEasy $HTR https://t.co/ZCgYWzXpAX",168,4,30,2022-01-06
+741,2022-01-07 21:15:37+00:00,1479562390337380361,HathorNetwork,"First block post Halving! 
+
+https://t.co/JdCi0MjnUT
+
+#HathorHalving $HTR https://t.co/ifQZnsCHmM",295,5,61,2022-01-07
+754,2022-01-08 19:00:07+00:00,1479890678876364802,HathorNetwork,"HODL &amp; Earn by @Gate_io is live! 🚨
+
+🔒 Lock $HTR to Earn👇
+
+Full details ⬇️
+https://t.co/vY3AXURx8J
+
+#BlockchainMadeEasy $HTR https://t.co/BOyrgZyAXg",212,26,29,2022-01-08
+756,2022-01-09 12:18:01+00:00,1480151872900059140,HathorNetwork,"Interested in making your own #NFT?
+
+We have guides available for you on our Medium and Youtube ⤵️
+
+📚 Medium - https://t.co/2FbygXzU6Z
+📹 Youtube - https://t.co/tCTA4M2Y0u
+
+#BlockchainMadeEasy $HTR https://t.co/Ooco2kfsYU",248,15,55,2022-01-09
+757,2022-01-10 18:00:32+00:00,1480600458255384579,HathorNetwork,"Want a full introduction into Hathor?
+
+Hathor Talks is a two-part series presented by our CTO &amp; Co-founder: 
+Dr Marcelo Brogliato 💬
+
+Watch here ➡ https://t.co/1XMudjhCSY
+
+#BlockchainMadeEasy $HTR https://t.co/YwTzjw151I",222,7,36,2022-01-10
+759,2022-01-11 09:50:42+00:00,1480839575190880256,HathorNetwork,"Not long left! 🤯
+
+The all-new Hathor VISA Debit card 🥳
+
+More details 👉 https://t.co/JZ2zbpxzUM
+
+#BlockchainMadeEasy $HTR https://t.co/YVSjHvRMgw",628,24,139,2022-01-11
+762,2022-01-12 09:53:31+00:00,1481202672766173189,HathorNetwork,"Trade $HTR on @Gate_io ✅
+
+Join 6M+ weekly visitors and take part in over $1B of daily volume! 🚀
+
+Trade here ➡ https://t.co/cu6W3Qn7xf
+
+#BlockchainMadeEasy $HTR https://t.co/rjalIhQpNL",309,11,56,2022-01-12
+765,2022-01-13 09:08:25+00:00,1481553710132215810,HathorNetwork,"#ThrowbackThursday!
+
+Watch our AMA with @hoprnet🎙
+
+Bringing level-zero privacy to our transactions is preparing the ecosystem for the next wave of privacy-aware individuals and compliance-driven corporations.
+
+Watch here 👉 https://t.co/IaVcKSg84l
+
+#BlockchainMadeEasy $HTR https://t.co/byynl5TIEL",158,5,23,2022-01-13
+766,2022-01-14 12:00:16+00:00,1481959345181048832,HathorNetwork,"A week since our #HathorHalving 🪚
+
+Block rewards halved: 32 to 16 $HTR
+
+In a years time it will be 8 ✅
+
+Want to learn more? - Thread below👇 https://t.co/ivJ6wEM8jN",280,11,45,2022-01-14
+768,2022-01-15 15:25:11+00:00,1482373305084563456,HathorNetwork,"Hathor Network's
+Community Survey 2022 ✍️
+
+We want to gather your valuable feedback as we kickstart 2022 ✅
+
+Survey below👇
+https://t.co/UFaehWKUoC
+
+#BlockchainMadeEasy $HTR https://t.co/xmNDrrQQX0",279,18,54,2022-01-15
+769,2022-01-16 17:34:01+00:00,1482768114651648005,HathorNetwork,"2022 is here ✅
+
+New year 🎉, New goals 🧠
+
+Interested in making your own #NFT?
+
+We have guides available for you on our Medium and Youtube ⤵️
+
+📙 Medium - https://t.co/2FbygXzU6Z
+🎥 Youtube - https://t.co/tCTA4M2Y0u
+
+#BlockchainMadeEasy $HTR https://t.co/KGGFDCLKJS",292,14,62,2022-01-16
+770,2022-01-17 18:00:38+00:00,1483137199243776000,HathorNetwork,"We Halved! 🪚
+
+The Annual #HathorHalving reduces the issuance rate of newly mined tokens during the first 3 years.
+
+8 $HTR per block is next ✅
+
+More Info 👉 https://t.co/gaCL2I9z8A
+
+#BlockchainMadeEasy $HTR https://t.co/o9kfg8flOo",367,15,53,2022-01-17
+772,2022-01-18 15:14:41+00:00,1483457826970382340,HathorNetwork,"The Community Survey is ending! 🚨
+
+Contribute to the kickstart of 2022 ✅
+
+🗓 Ends Tomorrow at 5:00 PM UTC
+
+Fill Survey here 👉 https://t.co/kyAHLOpX7N
+
+#BlockchainMadeEasy $HTR https://t.co/19cyJJMOY1",71,5,10,2022-01-18
+774,2022-01-19 09:36:00+00:00,1483734981017063425,HathorNetwork,"The Community Survey is closing ⌛️
+
+We would love to hear your thoughts on how we can improve at Hathor Network 📝
+
+Survey 👉 https://t.co/UFaehWKUoC
+
+#BlockchainMadeEasy $HTR https://t.co/19cyJJMOY1",114,5,13,2022-01-19
+776,2022-01-20 10:00:14+00:00,1484103467992064002,HathorNetwork,"Follow our Instagram! 🤳
+
+Updates available on our Stories ✅
+
+Follow here 👉 https://t.co/3gP6pbisvz
+
+#BlockchainMadeEasy $HTR https://t.co/NEcdP78a01",120,7,16,2022-01-20
+778,2022-01-21 15:34:24+00:00,1484549950004469772,HathorNetwork,"Twitter launches NFT profile pictures 🤯
+
+(They are hexagon-shaped ⬣)
+
+Thread 🧵
+
+$HTR https://t.co/dcU6gd3Ibq",116,10,14,2022-01-21
+781,2022-01-22 19:19:30+00:00,1484968985787613188,HathorNetwork,"Join our Discord Community 💬
+
+Enter here ➡ https://t.co/XTSmcchjNu
+
+#BlockchainMadeEasy $HTR https://t.co/RoWmN2a9Qq",114,3,11,2022-01-22
+782,2022-01-23 21:50:28+00:00,1485369365621059600,HathorNetwork,"Read our Medium article about the upcoming Hathor VISA Debit card 💳
+
+Article here ➡ https://t.co/JZ2zbpxzUM
+
+#BlockchainMadeEasy $HTR https://t.co/pB3fSkGRYC",338,22,60,2022-01-23
+783,2022-01-24 16:50:33+00:00,1485656276218617856,HathorNetwork,"Hathor Talks is a two-part series Introducing Hathor Network.
+
+Presented to students from @MIT 
+
+Full Webinar ➡ https://t.co/1XMudjhCSY
+
+#BlockchainMadeEasy $HTR https://t.co/lUlqe96Pun",170,8,37,2022-01-24
+784,2022-01-25 13:39:37+00:00,1485970617706950660,HathorNetwork,"$HTR is listed on @BitKanOfficial ✔️
+
+Over 1000+ currencies available across 8 exchanges with 1 account.
+
+Trade now ➡ https://t.co/9QEw7h3Xnp
+
+#BlockchainMadeEasy $HTR https://t.co/MZ1yHucWpC",383,32,73,2022-01-25
+786,2022-01-26 17:16:58+00:00,1486387700106252300,HathorNetwork,"Want to learn more about Hathor?
+
+Watch our official explainer on how we tackle scalability issues in #Blockchain with #DAG
+
+Full video: https://t.co/sHps9jpJWx
+
+#BlockchainMadeEasy $HTR https://t.co/vWEkiW9qXt",267,12,53,2022-01-26
+788,2022-01-27 16:43:09+00:00,1486741580191047682,HathorNetwork,"What is Merged Mining?
+
+A mechanism that enables the mining of more than one cryptocurrency without requiring extra PoW effort.
+
+Learn more: https://t.co/uriEPlJ6Wx
+
+#BlockchainMadeEasy $HTR https://t.co/uuC6ru6501",189,6,32,2022-01-27
+790,2022-01-28 10:00:41+00:00,1487002684162990082,HathorNetwork,"500k transactions!
+
+Thank you to our global community and ecosystem builders 🤝
+
+Follow the count: https://t.co/ue2CVtpzWF
+
+#BlockchainMadeEasy $HTR https://t.co/kvxxrTlcto",432,16,90,2022-01-28
+791,2022-01-29 15:43:04+00:00,1487451235967975431,HathorNetwork,"$HTR is available on @Gate_io
+
+Trade here: https://t.co/cu6W3Qn7xf
+
+#BlockchainMadeEasy $HTR https://t.co/vXcP6ZouPT",522,35,65,2022-01-29
+792,2022-01-30 18:37:02+00:00,1487857400572956673,HathorNetwork,"To keep track of our statistics such as transaction amount, blocks created and hash rate, visit our Explorer ↓ 
+
+🔗 https://t.co/ue2CVtpzWF
+
+#BlockchainMadeEasy $HTR https://t.co/QjP8OQQ5De",155,6,18,2022-01-30
+793,2022-01-31 17:25:19+00:00,1488201742311436290,HathorNetwork,"Happy Lunar New Year 🧧
+
+#BlockchainMadeEasy $HTR https://t.co/73BY6snlnj",320,9,26,2022-01-31
+794,2022-02-01 17:52:58+00:00,1488571087344570372,HathorNetwork,"Have you read about the community built @unity integration?
+
+Gaming developers can integrate $HTR for in-game micro-transactions.
+
+Full article: https://t.co/vjmdRYpjWk
+
+#BlockchainMadeEasy #BuildOnHathor $HTR https://t.co/cYF8N1EhGb",353,23,82,2022-02-01
+795,2022-02-02 18:57:10+00:00,1488949631962783744,HathorNetwork,"There is a website impersonating Hathor Network and asking for user funds. This is a scam 🚫
+
+There are no ongoing airdrops.
+
+#BlockchainMadeEasy $HTR",238,8,54,2022-02-02
+796,2022-02-03 19:18:25+00:00,1489317369809969155,HathorNetwork,"Presenting: KickOff Music 🎶
+
+A platform creating innovative digital experiences in the music industry through NFTs and Fan Tokens.
+
+Article by @CointimesNews↓ 
+https://t.co/BMWXDIgWVe
+
+#BuildOnHathor #NFTs $HTR https://t.co/wUoTFiaGx3",222,12,43,2022-02-03
+798,2022-02-04 17:42:25+00:00,1489655595527458824,HathorNetwork,"Join our Discord Community 💬
+
+Enter here: https://t.co/XTSmcchjNu
+
+#BlockchainMadeEasy $HTR https://t.co/VHOkKKdhoO",118,6,24,2022-02-04
+799,2022-02-05 13:32:01+00:00,1489954970967453697,HathorNetwork,"📢 Attention please 📢
+We´ve been made aware by community members that a project is issuing a 1 USD token on Hathor.
+
+There is no custodian or legacy bank institution officially issuing any backed stablecoin on Hathor.
+
+Do your own research before buying any digital asset. $HTR",340,1,86,2022-02-05
+803,2022-02-06 12:07:23+00:00,1490296058332782599,HathorNetwork,"Visit them here: https://t.co/n8uZx1Q2Qn 
+
+#BlockchainMadeEasy $HTR https://t.co/XnzvtPZ5OA",49,2,10,2022-02-06
+805,2022-02-07 17:43:59+00:00,1490743153766375433,HathorNetwork,"What a beauty.
+
+#BlockchainMadeEasy #DAG $HTR https://t.co/QOsvTFqAa4",211,10,35,2022-02-07
+806,2022-02-09 19:02:14+00:00,1491487621108928516,HathorNetwork,"v0.21.2 of our wallet is live. 
+
+This update includes new features and fixes, download the latest version on GitHub: https://t.co/gZ1ZKnZvDa
+
+#BlockchainMadeEasy $HTR",266,13,63,2022-02-09
+808,2022-02-10 18:42:24+00:00,1491845020323926021,HathorNetwork,"Check out @MusicKickoff built on Hathor.
+
+More info: https://t.co/DFgRGDd4Rx
+
+#BlockchainMadeEasy $HTR https://t.co/UwlruJUru4",77,1,15,2022-02-10
+809,2022-02-11 13:04:16+00:00,1492122311599734788,HathorNetwork,"Thanks for the video @shotsbymatta 
+
+https://t.co/nU7wtnZenR
+
+#BlockchainMadeEasy $HTR",133,7,25,2022-02-11
+811,2022-02-14 12:23:13+00:00,1493199147599605764,HathorNetwork,"We announced a new functionality allowing users to purchase $HTR without an exchange.
+
+Let's explore: 
+What is a Fiat On-ramp?
+ 
+Thread 🧵 $HTR https://t.co/tVXmJ8BqlX",481,17,114,2022-02-14
+818,2022-02-16 13:40:09+00:00,1493943283365650432,HathorNetwork,"Using your credit or debit card, you can now purchase $HTR and send them directly to your Hathor wallet. 
+
+Orders are processed by our partner @SimplexCC 
+
+Visit here: https://t.co/oyba8XeSvl
+
+#BlockchainMadeEasy $HTR https://t.co/VlLXmbl7lg",203,15,43,2022-02-16
+819,2022-02-18 18:48:17+00:00,1494745602252591105,HathorNetwork,"How does Hathor scale?
+
+Our official explainer showcases how Hathor tackles scalability issues in Blockchain with DAG.
+
+Full video: https://t.co/sHps9jpJWx
+
+#BlockchainMadeEasy $HTR https://t.co/KjslAqI5e9",216,13,54,2022-02-18
+820,2022-02-21 15:37:16+00:00,1495784694520164354,HathorNetwork,"Please be cautious of impersonators.
+
+Whether it be a core team member, or an admin, we will never DM you first or ask for funds.
+
+#BlockchainMadeEasy $HTR",138,8,23,2022-02-21
+821,2022-02-23 12:40:21+00:00,1496464947630465026,HathorNetwork,"$HTR has been added to @kucoincom's Isolated Margin Trading platform.
+
+More info: https://t.co/XR3froE0Qa
+
+#BlockchainMadeEasy $HTR https://t.co/jV32O40Fd5",204,14,39,2022-02-23
+822,2022-02-25 10:47:40+00:00,1497161365135503399,HathorNetwork,"Our Fiat On-ramp functionality is live.
+
+Read our thread below to learn more ↓
+
+#BlockchainMadeEasy $HTR https://t.co/k5SIFYwLlh",187,18,38,2022-02-25
+823,2022-02-28 22:46:36+00:00,1498429455076839429,HathorNetwork,"Introducing our #Gitbook 📖
+
+A collaborative documentation space for ecosystem contributors.
+
+Visit here: https://t.co/I7ID36E97U
+
+#BuildOnHathor $HTR https://t.co/emZz5Zp8Xc",195,5,47,2022-02-28
+828,2022-03-01 18:05:10+00:00,1498721020567556098,HathorNetwork,"$HTR accessible to everyone, everywhere.
+
+Buy HTR without an exchange ↓
+https://t.co/tVV5hkWSCH
+
+#BlockchainMadeEasy #BuildOnHathor https://t.co/d51LXORD3F",162,8,42,2022-03-01
+829,2022-03-02 18:52:21+00:00,1499095280742023174,HathorNetwork,"Dear Community,
+ 
+Here is the Letter to the Community 2021 by @msbrogli ✉️
+ 
+Highlighting the milestones of 2021 paving the way for 2022, the year of use cases, and new tools to support the builders behind them.
+
+Read here: https://t.co/thhVik687c
+
+#BlockchainMadeEasy $HTR https://t.co/6b4seTbxth",297,27,78,2022-03-02
+834,2022-03-03 18:43:36+00:00,1499455464823787527,HathorNetwork,"Notes and limitations ↓
+
+#BlockchainMadeEasy $HTR https://t.co/RfEhVJJxoa",44,1,9,2022-03-03
+837,2022-03-04 11:51:23+00:00,1499714114997960707,HathorNetwork,"Article by @vestorportal ↓
+
+#BlockchainMadeEasy $HTR https://t.co/TlmUdYJOKA",93,5,12,2022-03-04
+838,2022-03-07 10:22:06+00:00,1500778810777690113,HathorNetwork,"Have you seen Hathor's Gitbook?
+
+A collaborative documentation space for ecosystem contributors.
+
+Visit here: https://t.co/3fgPlNi5b6
+Gitbook explained: https://t.co/MegLwDo7lg
+
+#BuildOnHathor $HTR https://t.co/6umy1xAqxh",143,7,33,2022-03-07
+839,2022-03-08 13:04:37+00:00,1501182098073399298,HathorNetwork,"Watch Lesson 1/2 at @MIT 
+
+Introduction about Hathor Network
+
+Available here: https://t.co/7ScDN2kgrt
+
+#BlockchainMadeEasy $HTR https://t.co/y2oc6Igk5Z",121,5,28,2022-03-08
+840,2022-03-09 12:50:30+00:00,1501540932214472705,HathorNetwork,"Reach out to @trondbjoroy if you’re currently/considering to build something on Hathor, and you believe Nano Contracts are needed to fulfill your vision⁠. ↓
+
+#BuildOnHathor $HTR https://t.co/ZdO1LWb335",116,7,23,2022-03-09
+842,2022-03-11 13:49:02+00:00,1502280438764683276,HathorNetwork,"Store and send both #NFTs &amp; custom tokens using your @Ledger wallet 🔒
+
+Walkthrough: https://t.co/vzZHuxQyla
+
+#BlockchainMadeEasy $HTR https://t.co/miOlO7sDXR",126,2,21,2022-03-11
+843,2022-03-14 18:17:22+00:00,1503435131859742726,HathorNetwork,"Buy $HTR without an exchange.
+
+Check out our fiat on-ramp ↓
+https://t.co/oyba8XeSvl
+
+#BlockchainMadeEasy $HTR https://t.co/u0UwHCtiy9",235,14,37,2022-03-14
+845,2022-03-15 15:38:03+00:00,1503757427581374469,HathorNetwork,"Lesson 2/2 at @MIT out now!
+
+Introduction about Hathor Network
+
+Watch here: https://t.co/k29q9fa7Vr
+
+#BlockchainMadeEasy $HTR https://t.co/4KuN5SnZaV",156,5,43,2022-03-15
+847,2022-03-16 17:07:10+00:00,1504142240968499204,HathorNetwork,"To summarize, we are one of the few blockchain networks to be legally used for emitting Security Tokens.
+ 
+Others such as Ethereum, Tezos, Stellar, and a few more that follow different countries' legislation.
+ 
+Article below👇
+https://t.co/61ZD4BOnrd
+ 
+#BlockchainMadeEasy $HTR https://t.co/9Xf34LpnMR",136,7,29,2022-03-16
+856,2022-03-17 11:13:59+00:00,1504415748659240960,HathorNetwork,@BitrueOfficial @coingecko Congrats!,10,0,0,2022-03-17
+857,2022-03-18 13:27:15+00:00,1504811670782287909,HathorNetwork,"Building on Hathor? 🛠
+
+Please fill out this form if you’re currently/considering building an application on Hathor which will require Nano Contracts.
+
+Tell us here: https://t.co/0g669XeYi3
+
+#BuildOnHathor $HTR https://t.co/ae3hA0oIKS",264,10,69,2022-03-18
+858,2022-03-21 15:05:25+00:00,1505923539949531140,HathorNetwork,"Lesson 2/2 at @MIT now available.
+
+Inside a blockchain:
+Bitcoin, Ethereum, and Hathor 
+
+Watch here → https://t.co/7XVbyo8l3E
+
+#BlockchainMadeEasy 
+$BTC $ETH $HTR https://t.co/HimT9f8SAd",180,4,42,2022-03-21
+859,2022-03-22 16:31:52+00:00,1506307686060670977,HathorNetwork,"Running a full node?
+
+Guides are available on our Gitbook.
+
+Visit here: https://t.co/3fgPlNi5b6
+
+#BlockchainMadeEasy $HTR https://t.co/cGSls1beOl",177,7,33,2022-03-22
+860,2022-03-24 15:55:08+00:00,1507023214286934018,HathorNetwork,@BarryFried1 🤝,18,2,0,2022-03-24
+862,2022-03-25 12:11:05+00:00,1507329220623716379,HathorNetwork,"Security Token Offerings (STOs) were recently approved on Hathor.
+
+What is an STO? / Why is it important?
+
+Read below ↓
+
+#BlockchainMadeEasy $HTR https://t.co/YWiJG7Hk2w",192,4,39,2022-03-25
+863,2022-03-28 21:14:56+00:00,1508553249003028487,HathorNetwork,"Did you know with a Fiat On-ramp you can buy $HTR without an exchange?
+
+Fiat On-ramp: https://t.co/hXgHlJ653k
+Learn more: https://t.co/7XS87XeCTj
+
+#BlockchainMadeEasy 
+#BuildOnHathor $HTR https://t.co/faqtlxp3n9",188,7,44,2022-03-28
+864,2022-03-29 17:38:21+00:00,1508861129396658182,HathorNetwork,"Updates to the desktop and mobile wallets have been released.
+
+This release fixes a couple of minor bugs and prepares the wallets for an upcoming multisig feature in the headless wallet. More info on that soon.
+
+Please update your wallets ↓
+
+https://t.co/UvZR0TCnoL
+
+$HTR https://t.co/WdQ0PfNU36",266,11,58,2022-03-29
+867,2022-03-30 16:17:39+00:00,1509203210904481797,HathorNetwork,"What is Directed Acyclic Graph?
+
+Learn about it on our Gitbook 📖
+
+Visit here: https://t.co/1EeDFD2ZMf
+
+#BlockchainMadeEasy #DAG $HTR https://t.co/42naOhEk0E",169,18,38,2022-03-30
+868,2022-04-01 09:10:15+00:00,1509820426146529298,HathorNetwork,"Time for an update 🔋
+
+Our latest release prepares the wallets for an upcoming multisig feature in the headless wallet
+
+Check it out and update if you haven’t already ↓
+
+$HTR https://t.co/00tKXLBR4P",180,3,30,2022-04-01
+873,2022-04-04 12:50:30+00:00,1510963019219673091,HathorNetwork,"Building on Hathor?
+
+Please fill out this form if you’re currently/considering building an application on Hathor which will require Nano Contracts.
+
+Tell us here: https://t.co/0g669XeYi3
+
+#BuildOnHathor $HTR https://t.co/6Df7Prt0S6",298,13,64,2022-04-04
+874,2022-04-05 11:57:38+00:00,1511312102539112461,HathorNetwork,"How does Hathor scale? 
+
+Our official explainer showcases how Hathor tackles scalability issues in Blockchain with DAG.
+
+Full video 👉 https://t.co/sHps9jpJWx
+
+#BlockchainMadeEasy $HTR https://t.co/Utxh52OPvq",267,13,82,2022-04-05
+875,2022-04-06 09:32:15+00:00,1511637902861742083,HathorNetwork,"A reminder for anyone running our Headless Wallet, 
+
+From April 11th it will no longer support Node.js v8.
+
+Read our Thread for more info ↓
+
+$HTR https://t.co/D5dXVXr2zh",101,3,16,2022-04-06
+876,2022-04-09 11:03:17+00:00,1512747974182510592,HathorNetwork,"We are pleased to release the @HathorLabs 2021 Annual Report.
+
+For downloading the report in PDF format, please refer to our Medium.
+
+Read here: https://t.co/1hnbHJPbLq
+
+#BlockchainMadeEasy $HTR https://t.co/w9wcbNZKIp",230,23,56,2022-04-09
+878,2022-04-10 13:46:29+00:00,1513151435726327811,HathorNetwork,"As of tomorrow, our Headless Wallet will no longer support 
+
+Node.js v8. Read our thread for more info👇
+
+#BlockchainMadeEasy $HTR https://t.co/D5dXVXr2zh",81,6,19,2022-04-10
+879,2022-04-11 12:26:41+00:00,1513493738173210627,HathorNetwork,"The @HathorLabs Annual Report is a comprehensive report on Hathor’s company-wide operations and growth throughout the past year.
+
+Read here: https://t.co/FA11WfZhql
+
+#BlockchainMadeEasy $HTR https://t.co/Xd8XKUHQ2W",117,12,27,2022-04-11
+880,2022-04-13 12:23:44+00:00,1514217771609038850,HathorNetwork,"Our Gitbook offers a collaborative documentation space for ecosystem contributors.
+
+Visit here: https://t.co/3fgPlNi5b6
+Gitbook explained: https://t.co/MegLwDo7lg
+
+#BuildOnHathor $HTR https://t.co/zwQ7DbtBM3",182,8,32,2022-04-13
+881,2022-04-14 23:38:41+00:00,1514750016824520706,HathorNetwork,@gutomartino @AprendaComTC 🤝,14,0,0,2022-04-14
+882,2022-04-15 16:00:34+00:00,1514997116753661958,HathorNetwork,"$HTR is now available on @Transak_
+ 
+Users worldwide can now purchase $HTR using their debit/credit cards, bank transfer, and Apple Pay 📲
+
+Available here: https://t.co/7Oa66sQfZv
+Medium article: https://t.co/weK668YnI1
+
+#BlockchainMadeEasy #Transak https://t.co/OqGdkGVeSx",403,35,113,2022-04-15
+883,2022-04-18 16:00:41+00:00,1516084310352310279,HathorNetwork,"Purchase $HTR using Apple Pay ✅
+
+Powered by @transak_ ⚡️
+
+Available here: https://t.co/7Oa66sQfZv
+More information: https://t.co/weK668YnI1
+
+#BlockchainMadeEasy #Transak https://t.co/NFTnfluNsi",214,12,56,2022-04-18
+884,2022-04-19 13:33:57+00:00,1516409769749327873,HathorNetwork,"Our recent partnership with @transak_ is a Fiat On-ramp, it’s purpose is to offer users/institution’s worldwide various ways to purchase $HTR
+
+Our thread below explains it’s further ↓
+
+#BlockchainMadeEasy $HTR https://t.co/k5SIFYwLlh",187,6,32,2022-04-19
+885,2022-04-20 12:39:57+00:00,1516758570095812615,HathorNetwork,"What is Directed Acyclic Graph?
+
+Learn about it on our Gitbook 📗
+
+Visit here: https://t.co/1EeDFD2ZMf
+
+#BlockchainMadeEasy #DAG $HTR https://t.co/D8VST3zrx1",143,11,28,2022-04-20
+886,2022-04-22 11:59:09+00:00,1517473076686077955,HathorNetwork,"Buy $HTR with Apple Pay 📲
+
+Powered by @transak_ 🔋
+
+Purchase here: https://t.co/7Oa66sQfZv
+Medium article: https://t.co/weK668YnI1
+
+#BlockchainMadeEasy 
+#FiatOnRamp #Transak https://t.co/A0zwqLNopw",324,21,77,2022-04-22
+887,2022-04-25 13:20:25+00:00,1518580690920656896,HathorNetwork,"Watch our @MIT Lectures 🎓
+
+This 2-part series covers an introduction into Hathor Network, as well as a deep dive into blockchain featuring #Bitcoin and #Ethereum.
+
+Watch here: https://t.co/7ScDN2kgrt
+
+#BlockchainMadeEasy $HTR https://t.co/e8WsAY8fXi",126,12,26,2022-04-25
+888,2022-04-26 11:40:09+00:00,1518917845828128773,HathorNetwork,"750k Transactions! ✅
+
+Keep track of transaction tally and other statistics here: https://t.co/ue2CVtpzWF
+
+#BlockchainMadeEasy $HTR https://t.co/Tn9ygvxYLQ",357,21,56,2022-04-26
+889,2022-04-27 08:59:51+00:00,1519239895365173248,HathorNetwork,"Please be cautious of scams 🚨
+
+There are websites and social channels impersonating Hathor Network and asking for user funds.
+
+There are no ongoing airdrops 🚫
+
+#BlockchainMadeEasy $HTR",117,9,23,2022-04-27
+895,2022-04-29 15:47:07+00:00,1520067159799570432,HathorNetwork,"Our transaction growth👇
+
+#BlockchainMadeEasy $HTR https://t.co/5KF5OEzoF6",151,8,17,2022-04-29
+896,2022-05-03 17:26:16+00:00,1521541663700799490,HathorNetwork,"FAO Use cases, on May 23rd we will introduce rate limits on the public tx mining service, capping it at 20 requests per minute.
+
+If you require more, we can provide you with an API key that will give you custom limits.
+
+Read the thread below for more info ↓
+
+#BuildOnHathor $HTR https://t.co/QPPj89Xh2p",96,5,14,2022-05-03
+897,2022-05-04 19:31:51+00:00,1521935657584799748,HathorNetwork,"Congratulations due to a great community initiative 👏
+
+#BlockchainMadeEasy $HTR https://t.co/EMb1uNQUCC",147,9,18,2022-05-04
+898,2022-05-06 20:10:45+00:00,1522670220669857793,HathorNetwork,"Our Principle Product Manager @trondbjoroy sheds more light on the recent transaction mining service update👇
+
+#BuildOnHathor $HTR https://t.co/Z3bpEDgQPs",80,1,10,2022-05-06
+900,2022-05-09 14:23:56+00:00,1523670105288491009,HathorNetwork,"The latest edition of Hathor Snapshot is out now👇
+
+#BlockchainMadeEasy $HTR https://t.co/eZwWZBLBmU",90,4,13,2022-05-09
+901,2022-05-10 18:16:30+00:00,1524091021704974336,HathorNetwork,"Tomorrow @CathorCoin will be hosting an AMA on Twitter Spaces🎙
+
+Join in with our Lead Community Manager @Andres_S_Aldaco and earn $CTHOR just by listening in!
+
+#BlockchainMadeEasy $HTR https://t.co/aRiKS79bFG",98,10,17,2022-05-10
+902,2022-05-11 19:07:13+00:00,1524466170878902272,HathorNetwork,"Tune in later for @CathorCoin’s AMA with our Lead Community Manager @Andres_S_Aldaco!🎙
+
+Set a reminder below ↓ 
+
+#BlockchainMadeEasy $HTR https://t.co/HCXllQHuCU",52,0,7,2022-05-11
+903,2022-05-12 18:43:56+00:00,1524822700602146817,HathorNetwork,"Using a digital wallet can be a challenging task for first-timers in the blockchain.
+
+In this article, our Product Manager @trondbjoroy shares 12 crucial steps users should follow to keep their funds safe and secure.
+
+Read here: https://t.co/yBKBzxpufS
+
+#BlockchainMadeEasy $HTR https://t.co/3233y10xua",122,2,20,2022-05-12
+904,2022-05-13 20:16:07+00:00,1525208288253591552,HathorNetwork,"We are hiring! 📢
+
+We're looking for a Product Designer to join our team, they will work closely with our Product Managers and Engineers to help make the best user experience for our users.
+
+Apply here: https://t.co/YEZMMfXtFH
+
+#BlockchainMadeEasy $HTR https://t.co/QXQI7PvIal",186,6,38,2022-05-13
+905,2022-05-15 23:07:49+00:00,1525976272534380549,HathorNetwork,"The @HathorLabs 2022 Q1 report is now available to read on our Medium.
+
+Recap the first quarter of 2022 and get an insight into Hathor’s company-wide operations and deliverables.
+
+Read here: https://t.co/2LjHLgaUeu
+
+#BlockchainMadeEasy $HTR https://t.co/MY0xn9CtFG",209,25,49,2022-05-15
+906,2022-05-18 17:22:17+00:00,1526976479137083392,HathorNetwork,"Take a few minutes to read our recent article on security recommendations for the Hathor Wallet 🔒
+
+Not following these best practices increases the risk of losing access to your funds.
+
+#BlockchainMadeEasy $HTR https://t.co/KEWZAJBhkp",94,2,16,2022-05-18
+907,2022-05-20 17:16:34+00:00,1527699819355156481,HathorNetwork,"Read our quarterly report below summarizing all the development on Hathor for Q1 2022.
+
+Read here: https://t.co/aFybWrPvHX
+
+#BlockchainMadeEasy $HTR https://t.co/ERH4SDm8yM",84,2,16,2022-05-20
+908,2022-05-22 18:13:51+00:00,1528439011031011329,HathorNetwork,"#OnThisDay, A man bought 2 pizza’s for 10,000 $BTC, making it the most expensive pizza in history 🍕
+
+As bizarre as it sounds, this occasion will always be remembered as one of the first purchases using this revolutionary technology 👏
+
+Happy #BitcoinPizzaDay2022! $HTR https://t.co/GxfHtg9BLy",81,9,8,2022-05-22
+909,2022-05-23 15:38:42+00:00,1528762352191131650,HathorNetwork,"This week, the winners of our 2021 Grant Program @WorkAxle will be at @UNLEASHgroup event in Vegas 🇺🇸
+
+They will be showcasing their rewards &amp; recognition module powered by @HathorNetwork 🔋
+
+Learn more here: https://t.co/QpBoMYfdk3
+
+#BlockchainMadeEasy #HR #EmployeeBenefits $HTR",105,4,22,2022-05-23
+910,2022-05-24 15:17:57+00:00,1529119520375427075,HathorNetwork,"New Explorer Features!
+
+We are currently building new features for the Hathor Explorer.
+
+The first addition is a new token page where users can view and search all custom tokens &amp; #NFTs created on the network. 
+
+Details in video ↓
+https://t.co/aSwF38GadU
+
+#BuildOnHathor $HTR https://t.co/w0t4k5qXho",134,9,31,2022-05-24
+913,2022-05-26 10:35:08+00:00,1529773122412494848,HathorNetwork,"Our Grant Program winners @WorkAxle are live at #UNLEASHAmerica @UNLEASHgroup talking about #Web3 and the use case for #blockchain in HR 📂
+
+If you are around, visit booth #217 and ask @diabmat about their Recognition &amp; Rewards solution built on Hathor.
+
+#BuildOnHathor #HR $HTR https://t.co/EiIj6gKFVu",100,5,21,2022-05-26
+914,2022-05-30 14:58:24+00:00,1531288925825810433,HathorNetwork,"Our Security Token Offerings thread breaks down the difference between #STOs and #ICOs, its streamlined offering compared to traditional securities and its all-round benefits.
+
+Read below ↓
+
+#BlockchainMadeEasy #STOs $HTR https://t.co/YWiJG7Hk2w",113,11,33,2022-05-30
+915,2022-06-01 19:31:28+00:00,1532082422682091520,HathorNetwork,". @Itau is one of the largest banks in the Brazilian private sector with a history going back 95 years.
+
+Learn more about them here 👇
+https://t.co/RZFBV6fZzr",94,4,14,2022-06-01
+921,2022-06-02 12:27:39+00:00,1532338151296991233,HathorNetwork,@koin_milyoner @Andres_S_Aldaco Teşekkürler!,15,0,0,2022-06-02
+926,2022-06-03 16:41:59+00:00,1532764543360851970,HathorNetwork,"Notes and limitations:
+
+1. Make sure you have the latest app version installed (v0.18.0)
+2. Make sure your device supports biometry
+3. In your phone settings, check that the app is allowed to access biometry
+
+Need help? Please visit our discord: https://t.co/cvtgPZpMYe
+
+$HTR https://t.co/Lbdoo52Dq5",31,1,5,2022-06-03
+927,2022-06-06 15:47:26+00:00,1533837981232111616,HathorNetwork,"Have you subscribed to our official newsletter?
+
+Simply go to our profile, and hit the subscribe button 👆
+
+#BlockchainMadeEasy $HTR https://t.co/0ImsIvHEzh",96,3,14,2022-06-06
+929,2022-06-07 19:58:46+00:00,1534263619977981953,HathorNetwork,"We are pleased to announce the Enhanced NFT Metadata Standard!
+
+With the growth of NFT use cases on Hathor came new opportunities in our ecosystem. We are introducing NFT royalty functionality for creators 🎨
+
+Read here: https://t.co/MkIxPqlsRs
+
+#BlockchainMadeEasy #NFTs $HTR https://t.co/wUV0n7k0Su",227,10,62,2022-06-07
+930,2022-06-08 21:55:02+00:00,1534655265961820162,HathorNetwork,"AMA begins in 5 minutes!🎙
+
+Join here: https://t.co/S7Jx6RsDc5
+
+#BlockchainMadeEasy $HTR https://t.co/1KujCjzrcF",60,5,6,2022-06-08
+938,2022-06-09 13:00:29+00:00,1534883131106500615,HathorNetwork,"$HTR has been listed on one of Brazil's leading exchanges 🇧🇷
+
+A week after the launch of Brazil's first regulated STO platform, built on Hathor and regulated by the CVM ✅
+
+Learn about @Tokenizadora on @leiamoneytimes: https://t.co/dFhHZEIUhw
+
+#BlockchainMadeEasy #STOs https://t.co/um9YHSNKPC",153,2,33,2022-06-09
+940,2022-06-10 13:24:47+00:00,1535251631800999941,HathorNetwork,"This week we introduced NFT royalty functionality for creators 🎨
+
+For more information about the new Enhanced NFT Metadata Standard, read our Article: https://t.co/MkIxPqlsRs
+
+#BlockchainMadeEasy #NFTs $HTR https://t.co/nzHaKJBjI1",93,4,18,2022-06-10
+942,2022-06-13 13:51:30+00:00,1536345519210999814,HathorNetwork,"HTR is available on @Foxbit ✅
+
+Learn more about this listing and it's activities in the article below ↓
+
+🪧 More details: https://t.co/8yeT0yoIMn
+🪧 Trade now: https://t.co/8Vxtwk6YUe
+
+#BlockchainMadeEasy $HTR https://t.co/SCIv8dUXGo",109,6,14,2022-06-13
+943,2022-06-14 15:02:57+00:00,1536725888435425287,HathorNetwork,"Wallet Explained ✔️
+
+If you’re new to crypto &amp; Hathor, you may have noticed your wallet having several different addresses for sending and receiving funds.
+
+Hathor Wallet is a Hierarchical Deterministic (HD) wallet, in this thread we cover some facts ↓
+
+#BlockchainMadeEasy $HTR https://t.co/4uSfDfGn6Y",148,7,24,2022-06-14
+949,2022-06-15 17:41:27+00:00,1537128166354984962,HathorNetwork,"To get started, you can download our wallet here ↓
+
+🔗 https://t.co/UvZR0TkMxd
+
+#BlockchainMadeEasy $HTR",29,2,3,2022-06-15
+952,2022-06-16 19:04:08+00:00,1537511360346693632,HathorNetwork,"Did you know Brazil's 1st regulated tokenized securities trading platform was built on Hathor Network?
+
+Learn about @tokenizadora here: https://t.co/4oDKvWIFEk
+
+#BlockchainMadeEasy #STOs $HTR https://t.co/EfaU8BUlem",180,9,39,2022-06-16
+953,2022-06-18 09:00:07+00:00,1538084130818236416,HathorNetwork,"The Hathor Visa Debit Card is now available to Pre-order! 🥳
+
+We are thrilled to join forces with @SimplexCC &amp; @Visa to bring users a seamless way to spend their $HTR anywhere in the world 🌎
+
+Pre-order now 👉 https://t.co/BvSyJo9Pbs
+
+#BlockchainMadeEasy $HTR https://t.co/eQjjlaTywi",345,65,94,2022-06-18
+954,2022-06-19 13:41:01+00:00,1538517210330710016,HathorNetwork,"$HTR is available on @Foxbit! 🦊
+
+Foxbit have assisted with over 20 Billion Reais worth of trades! 🇧🇷
+
+Trade here: https://t.co/8VxtwjPo2G
+
+#BlockchainMadeEasy $HTR https://t.co/5t8byNyWaf",155,7,20,2022-06-19
+955,2022-06-20 10:26:52+00:00,1538830737213952001,HathorNetwork,"@SimplexCC @Visa Thank you!
+
+It’s almost time! ⌛️",8,1,0,2022-06-20
+957,2022-06-21 19:31:18+00:00,1539330134267805698,HathorNetwork,"Multisig support is now available in the latest version of our Hathor Headless Wallet ✔️
+
+This article gives an introduction to multisig, implementation resources and its capabilities.
+
+Read here: https://t.co/bsvgZBKDQb
+
+#BuildOnHathor $HTR https://t.co/r7pD04dYL1",130,5,28,2022-06-21
+959,2022-06-22 19:34:36+00:00,1539693354308571136,HathorNetwork,"Hathor's Visa Debit Card is now available to Pre-order ✔️
+
+Powered by @SimplexCC &amp; @Visa 🔋
+
+Pre-order here: https://t.co/BvSyJo9Pbs
+
+#BlockchainMadeEasy $HTR https://t.co/q49vkUKwA1",168,6,35,2022-06-22
+960,2022-06-24 14:21:04+00:00,1540339226629345282,HathorNetwork,"We recently introduced NFT royalty functionality for creators 🖌
+
+For more information about the new Enhanced NFT Metadata Standard, read here: https://t.co/MkIxPqlsRs
+
+#BlockchainMadeEasy #NFTs $HTR https://t.co/1tmFDJYwyz",99,8,10,2022-06-24
+961,2022-06-27 21:31:37+00:00,1541534744126672899,HathorNetwork,"Trade $HTR on @Foxbit! 🦊
+
+Foxbit is one of Brazil’s leading exchanges, established back in 2014, they have assisted with over 20 Billion Reais worth of trades to date 🇧🇷
+
+Trade here: https://t.co/qViLrXrRXA
+
+#BlockchainMadeEasy $HTR https://t.co/Qo69nHyA8c",130,4,15,2022-06-27
+962,2022-06-28 15:53:10+00:00,1541811957447147525,HathorNetwork,"Statistics page update ✔️
+
+We are introducing a new way for our users to dive into historical blockchain data, dating back to the genesis block on January 3rd 2020, to now 🗓️
+
+Walkthrough: https://t.co/0CZj9xMrGE
+Statistics page: https://t.co/lHRopUVqow
+
+#BlockchainMadeEasy $HTR https://t.co/SqnNdhM5ze",113,4,21,2022-06-28
+964,2022-06-30 10:23:23+00:00,1542453737750515712,HathorNetwork,"Hathor's Visa Debit Card is coming! 
+
+Powered by @SimplexCC &amp; @Visa ⚡️
+
+Pre-order here: https://t.co/BvSyJo9Pbs
+
+#BlockchainMadeEasy $HTR https://t.co/kaYnLYTshn",152,12,25,2022-06-30
+965,2022-07-01 19:55:59+00:00,1542960226130960387,HathorNetwork,"Historical blockchain data is now available, dating back to the genesis block on January 3rd 2020 ✔️
+
+Learn more below👇
+
+#BlockchainMadeEasy $HTR https://t.co/ymQFWKwsIx",121,14,13,2022-07-01
+966,2022-07-04 19:14:39+00:00,1544036988013223936,HathorNetwork,"Want to learn more about Hathor?
+
+Our Gitbook offers a collaborative documentation space for ecosystem contributors and our community 📖
+
+Visit here: https://t.co/1EeDFD2ZMf
+
+#BlockchainMadeEasy #DAG $HTR https://t.co/UfddSWzRKb",121,6,23,2022-07-04
+967,2022-07-05 22:19:26+00:00,1544445880064958465,HathorNetwork,"We are pleased to announce Hathor's new CMO, 
+Diego Guareschi!
+
+Diego has managed top-ranked brands at a C-Level, occupying several regional &amp; global positions.
+ 
+His business expertise &amp; strategic vision will help scale Hathor’s awareness globally.
+
+#BlockchainMadeEasy $HTR https://t.co/FR0pUUSYPQ",328,24,62,2022-07-05
+968,2022-07-07 14:43:35+00:00,1545055937483771904,HathorNetwork,"An amazing event by @NFT_RIO_!
+
+Our CEO Yan Martins discusses the possibilities of blockchain &amp; #NFTs with a great panel of speakers 🇧🇷
+
+This event was a first in Brazil, bringing artists &amp; collectors together to celebrate #NFT culture 🌏
+
+#BlockchainMadeEasy $HTR https://t.co/eGGPCGB6PV",137,5,26,2022-07-07
+969,2022-07-08 16:45:34+00:00,1545449020025458689,HathorNetwork,"Masters of #Web3 Podcast is out!🎙 
+
+An episode addressing the complexity of #blockchain scalability with our CEO, Yan Martins &amp; host @megdematteo! 
+
+A podcast series by our fiat on-ramp provider @transak_⚡️
+
+Listen here: https://t.co/x9JxdFCN5b
+
+#BlockchainMadeEasy $HTR https://t.co/MvnnBs7CII",119,27,25,2022-07-08
+970,2022-07-12 13:12:07+00:00,1546844855707500546,HathorNetwork,"We have released a new version of our full node which will benefit use cases and anyone running a full node.
+
+1. This release adds a new UTXO API that lets you list all UTXOs available for a specific address.
+
+Continued ⬇️
+
+#BlockchainMadeEasy $HTR https://t.co/5DcCXj1HYD",143,4,31,2022-07-12
+973,2022-07-14 15:11:13+00:00,1547599604912246792,HathorNetwork,"We have added a Token Balances page on the Hathor Explorer ✔️
+
+View the addresses associated with any custom token on the network. See their balances, TX history &amp; which holds the most of a specific token.
+
+Walkthrough: https://t.co/zbpZwMp4Qp
+
+#BlockchainMadeEasy $HTR https://t.co/5focSFxoCg",111,6,18,2022-07-14
+974,2022-07-18 08:56:41+00:00,1548954902755528705,HathorNetwork,"It's almost time! ⌛️
+
+Hathor's Debit Card is almost here! Powered by @SimplexCC &amp; @Visa ⚡️
+
+Pre-order now 👉 https://t.co/BvSyJo9Pbs
+
+#BlockchainMadeEasy $HTR https://t.co/Dm5twm8hSG",194,10,40,2022-07-18
+975,2022-07-19 15:33:58+00:00,1549417270702755846,HathorNetwork,"We are pleased to announce Hathor's new Head of Global Business Development, Leandro Pereira!
+
+Leandro has worked in Blockchain &amp; #Web3 since 2019, he is experienced in detecting the most relevant trends &amp; creating business cases for innovative products.
+
+#BlockchainMadeEasy $HTR https://t.co/Fc2EZ0vPTK",331,41,66,2022-07-19
+976,2022-07-21 21:19:51+00:00,1550229090627641345,HathorNetwork,"We are excited about Leandro’s arrival, we will continue to hire experienced professionals to join Hathor’s core team ✔️
+
+P.S We are announcing another hire very soon 😉
+
+#BuildOnHathor $HTR",164,7,19,2022-07-21
+977,2022-07-22 13:32:01+00:00,1550473744447053824,HathorNetwork,"Have you listened to @transak_'s Masters of #Web3 podcast?🎙
+
+This episode is about addressing the complexity of #blockchain scalability.
+
+📸: A quote from our CEO, Yan Martins
+
+Listen now: https://t.co/x9JxdFCN5b
+
+#BlockchainMadeEasy $HTR https://t.co/28l9Laz8lp",84,21,11,2022-07-22
+978,2022-07-26 14:37:00+00:00,1551939650100543489,HathorNetwork,"Multisig support was recently made available in the latest version of our Hathor Headless Wallet ✅
+
+Want to learn more about Multisig?
+
+Read here: https://t.co/Sl5Xmp73uk
+
+#BlockchainMadeEasy $HTR https://t.co/YHFVBqmeOq",117,2,15,2022-07-26
+979,2022-07-27 19:40:47+00:00,1552378485787791360,HathorNetwork,"Are you an NFT creator? 🎨
+
+We recently added royalty support 💰
+
+Learn more 👉 https://t.co/MkIxPqlsRs
+
+#BuildOnHathor #NFTs $HTR https://t.co/Sk8ylVofLc",110,4,25,2022-07-27
+980,2022-07-29 13:22:32+00:00,1553008072339120129,HathorNetwork,"A great thread by team member: @trondbjoroy ✔️
+
+#BuildOnHathor $HTR https://t.co/Awr8uYp4iP",126,9,29,2022-07-29
+981,2022-08-02 13:31:56+00:00,1554459988369743872,HathorNetwork,"Also, all newly created #NFTs will now show up in the NFT section automatically.
+
+In the Hathor Explorer it will display as an #NFT &amp; no longer as a normal custom token.
+
+Update your Desktop Wallet here: 
+https://t.co/cwYgrBKtzK
+
+#BlockchainMadeEasy $HTR",49,2,8,2022-08-02
+984,2022-08-03 17:50:35+00:00,1554887467525963776,HathorNetwork,"Community Satisfaction Survey 📝
+
+Hathorians! Your suggestions and feedback are important to our growth. Please take a few minutes to complete this survey, and let's build together ✅
+
+Take part here 👉 https://t.co/wP6WPCu0Zg
+
+#BlockchainMadeEasy $HTR https://t.co/tsMZKl66gk",138,42,25,2022-08-03
+985,2022-08-04 18:47:13+00:00,1555264107150020608,HathorNetwork,"We have a new payment method available for our community in Brazil, you can now buy $HTR with Pix! 📲 🇧🇷
+
+Purchase here: https://t.co/MTnndXPSf5
+Powered by @transak
+
+#BlockchainMadeEasy #Pix https://t.co/I60oevChfm",164,6,27,2022-08-04
+986,2022-08-05 21:43:25+00:00,1555670840137711619,HathorNetwork,"Hathorians! 📢
+
+Please subscribe to our Official Telegram Announcements Channel!
+
+Subscribe 👉 https://t.co/hasAgOWe87
+
+#BlockchainMadeEasy $HTR",87,15,9,2022-08-05
+988,2022-08-09 13:29:20+00:00,1556996050375909376,HathorNetwork,"The @HathorLabs Q2 report is out!
+
+An insight into Hathor’s operations and milestones for Q2 2022 ✔️
+
+Read here: https://t.co/bUFo1f1WMj
+
+#BlockchainMadeEasy $HTR https://t.co/AkCug9a2DL",303,72,90,2022-08-09
+989,2022-08-11 11:53:24+00:00,1557696681696706560,HathorNetwork,"Our leadership team will be answering questions about the Hathor Q2 2022 Report 📄
+
+You can ask a question in this form:
+https://t.co/scu5WeCpjy
+
+The form closes at 5pm UTC ⏳
+
+#BlockchainMadeEasy $HTR",123,18,25,2022-08-11
+991,2022-08-16 17:10:51+00:00,1559588512340611073,HathorNetwork,"Our Head of Global BD, Leandro Pereira, will be joining a tokenization panel at The Decentralized Future event at @pucriooficial 🇧🇷
+
+🗓 Thursday, 18th August
+
+#BlockchainMadeEasy $HTR https://t.co/Lc4Q1aUylL",109,3,16,2022-08-16
+993,2022-08-17 18:32:53+00:00,1559971544914436096,HathorNetwork,"Join us for a webinar with @compassuol and learn how blockchain technology can create opportunities for businesses ✔️
+
+Register here: https://t.co/xQ7lbVOFYO
+
+#BlockchainMadeEasy $HTR https://t.co/yLa3DBiEt9",62,5,14,2022-08-17
+995,2022-08-18 12:29:13+00:00,1560242412018192384,HathorNetwork,"We are live! ✅
+
+Watch here: https://t.co/nhAZw04mPz
+
+#BlockchainMadeEasy $HTR https://t.co/GxuZp3iXTk",18,0,2,2022-08-18
+997,2022-08-19 20:09:35+00:00,1560720656131653632,HathorNetwork,"Leadership Forum is coming! 🎥
+
+Episode 1. We will be answering your questions about the Q2 Report ✅
+
+Subscribe here: https://t.co/aCRWrWQuXp
+
+#BlockchainMadeEasy $HTR https://t.co/yr56jd5JOk",113,13,25,2022-08-19
+998,2022-08-23 15:07:02+00:00,1562094068686942209,HathorNetwork,"Leadership Forum is live! 🚨
+
+Episode 1. Hathor's CEO, Yan Martins answers the communities questions about the Q2'22 Report ✔️
+
+Watch here 👉 https://t.co/n4AiCmoEY9
+
+#BlockchainMadeEasy $HTR https://t.co/GDz04zx7Nr",107,5,17,2022-08-23
+999,2022-08-24 14:17:54+00:00,1562444087839453184,HathorNetwork,"We are now live! 🚨
+
+You can still register and participate in this event with @compassuol here: https://t.co/NMRaaHyWSP
+
+*Event is in Portuguese*
+
+#BlockchainMadeEasy $HTR https://t.co/KsOwRMPFiZ https://t.co/4Aj7O6kxHr",50,2,15,2022-08-24
+1001,2022-08-25 14:44:23+00:00,1562813141310124035,HathorNetwork,"What is a Nano Contract and how does it differ from a Smart Contract?
+
+Full episode 👉 https://t.co/n4AiCmGOch
+
+#BuildOnHathor $HTR https://t.co/jpk3BZeeHU",139,5,35,2022-08-25
+1003,2022-08-26 14:59:44+00:00,1563179391869337602,HathorNetwork,"Explorer update ✔️
+
+We have removed the “Too many transactions” message that users would get when looking up a “big” address on the explorer. 
+
+The details will now be displayed no matter how many tokens and transactions are registered on the address.
+
+#BlockchainMadeEasy $HTR https://t.co/T6woB3YcnZ",82,3,15,2022-08-26
+1005,2022-08-29 11:13:53+00:00,1564209719920807937,HathorNetwork,"Nano Contracts are live on Testnet ✔️ 
+
+""Our priority is the users safety."" 🔐
+
+Watch here 👉 https://t.co/n4AiCmGgmJ
+
+#BuildOnHathor $HTR https://t.co/oG0DOlyFCy",274,13,70,2022-08-29
+1008,2022-08-30 19:11:28+00:00,1564692294237917185,HathorNetwork,"An STO platform on Hathor ✅
+
+""Only a few chains have this"" 🚀
+
+Full video 👉 https://t.co/n4AiCmGgmJ
+
+#BlockchainMadeEasy $HTR https://t.co/lRWEqfxKkI",139,5,34,2022-08-30
+1009,2022-08-31 19:11:04+00:00,1565054582799179779,HathorNetwork,"Onboarding all types of developers ✔️
+ 
+Full video 👉 https://t.co/8OA2h86jUW
+
+#BuildOnHathor #Web3 $HTR https://t.co/6EBKODvSZ2",117,5,20,2022-08-31
+1010,2022-09-01 16:23:31+00:00,1565374806270296068,HathorNetwork,"#HathorFacts ✍️
+ 
+NFT Royalties come to Hathor! 🖌💰
+
+Full article 👉 https://t.co/MkIxPqlsRs
+
+#BlockchainMadeEasy #NFTs $HTR https://t.co/lR067Petn3",136,2,30,2022-09-01
+1011,2022-09-02 19:39:36+00:00,1565786538310500352,HathorNetwork,"We're at @blockchain_rio! 🇧🇷
+
+Leandro from Biz Dev joins a panel to talk about Hathor's value proposition
+
+#BlockchainMadeEasy $HTR https://t.co/K1VSDZarzh",173,11,35,2022-09-02
+1012,2022-09-06 16:47:51+00:00,1567192867835154435,HathorNetwork,"Our webinar with @compassuol is now available with subtitles! 🎥
+
+Learn how blockchain technology can create opportunities for businesses ✔️
+
+Watch here: https://t.co/YUzP7PRZgT
+
+#BlockchainMadeEasy $HTR",74,2,19,2022-09-06
+1013,2022-09-07 17:54:02+00:00,1567571912422834178,HathorNetwork,"@GabrielDiLemos @f2pool_official Not our hashrate, but hashrate growth in general 🌱
+
+You can track our hashrate statistics here:
+https://t.co/lHRopUVqow",2,1,0,2022-09-07
+1016,2022-09-08 15:24:47+00:00,1567896740824489984,HathorNetwork,"#HathorFacts ✍️
+ 
+Hathor is one of a few chains that have a running STO Platform ✅ 
+
+Learn more here: https://t.co/rH0GpDO6PQ
+
+#BlockchainMadeEasy #STOs $HTR https://t.co/9V4lR2WOak",144,4,38,2022-09-08
+1017,2022-09-09 10:51:52+00:00,1568190444382601218,HathorNetwork,"Product Authenticity ✅
+
+Blockchain technology could be used for consumers to verify their products authenticity on chain 🔍
+
+Let's dive in deeper ⬇️
+
+#BlockchainMadeEasy $HTR https://t.co/yPaXpeIKmr",169,13,33,2022-09-09
+1023,2022-09-12 18:56:09+00:00,1569399481291915267,HathorNetwork,"Join our Discord Community! 💬
+
+Enter here 👉 https://t.co/XTSmcchjNu
+
+#Blockchain #Community $HTR https://t.co/1ixKeIxG4s",84,6,17,2022-09-12
+1024,2022-09-13 15:17:58+00:00,1569706962056609803,HathorNetwork,"Want to learn more? 🧠
+
+Watch the full webinar with @compassuol on our YouTube
+
+Watch here 👉 https://t.co/DD9HxiS7hJ
+
+#BlockchainMadeEasy $HTR",36,5,9,2022-09-13
+1032,2022-09-14 18:33:53+00:00,1570118657136787458,HathorNetwork,"Origin of goods ✔️
+
+Blockchain technology could be used to trace a products origins from production chain to the shelf 🛒
+
+Full webinar 👉 https://t.co/QpeEA27m7F
+
+#BuildOnHathor $HTR https://t.co/bhVfoMyyNg",146,4,30,2022-09-14
+1034,2022-09-15 19:32:47+00:00,1570495866233884672,HathorNetwork,"#HathorFacts ✍️
+ 
+Oracles submit information from the real world to the network to interact with Nano Contracts ✔️
+
+Learn more 👉 https://t.co/n4AiCmGgmJ
+
+#NanoContracts $HTR https://t.co/wstR7BiXeR",152,7,31,2022-09-15
+1035,2022-09-16 15:48:39+00:00,1570801847023157249,HathorNetwork,"This article covers 12 crucial steps users should follow to keep their funds safe and secure 🔐
+
+You should never share your seed phrase with anybody or between different wallets and devices 🚫
+
+Read here 👉 https://t.co/tZlwvyaeMH
+
+#BlockchainMadeEasy $HTR https://t.co/6gmdDDPDz9",122,31,29,2022-09-16
+1036,2022-09-19 19:24:47+00:00,1571943404258447368,HathorNetwork,"We participated at one of the largest private sector CIOs forums in Brazil!
+
+With over 150 CIOs present, our leadership team showcased how Hathor and blockchain technology could help solve many problems within their industries.
+
+#BlockchainMadeEasy $HTR https://t.co/yHPNETrK7s",253,13,59,2022-09-19
+1037,2022-09-20 16:05:59+00:00,1572255760389734401,HathorNetwork,"The event will be in Portuguese 🇧🇷
+
+English subtitles will be available at a later date 🇬🇧
+
+#BlockchainMadeEasy $HTR",31,1,5,2022-09-20
+1039,2022-09-21 18:22:41+00:00,1572652551295889409,HathorNetwork,"Presenting.. Hathor Heroes! 🚀
+ 
+A community spotlight for projects &amp; individuals that contribute to the adoption of Hathor Network ✅
+ 
+Our first edition features one of our early community contributors, the one and only @CathorCoin! 🐱
+ 
+Let's dive in! ⬇️
+ 
+#HathorHeroes $HTR https://t.co/OWkL9IyRV1",154,6,27,2022-09-21
+1047,2022-09-22 10:28:31+00:00,1572895613393539073,HathorNetwork,@CathorCoin @one_humbled 🙌,7,0,0,2022-09-22
+1049,2022-09-23 13:40:38+00:00,1573306349026709504,HathorNetwork,@CathorCoin 🐱💜,9,0,0,2022-09-23

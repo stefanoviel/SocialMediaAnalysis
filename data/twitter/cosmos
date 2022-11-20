@@ -1,0 +1,2743 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-06 23:24:58+00:00,1214327024883384321,cosmos,"Join Federico Kunze (@fekunze), Software Developer at @tendermint_team, Jan 11, in a @BTChile event in Santiago, Chile, to learn about IBC and Cosmos SDK in Spanish.
+
+Reserve your spot here 📆: https://t.co/4iitin8zXj
+
+Use code 'COSMOS' for 30% off the ticket price 🤑",40,1,11,2020-01-06
+1,2020-01-07 18:00:32+00:00,1214607764904906752,cosmos,"This week on https://t.co/OJjrBDMkNz, Riad Wahby joins @chjango &amp; @cwgoes to jam about GooSig, a ZK-proof, to enable privacy-preserving airdrops. Tune in for this +more resources for verifiable computation from the vantage point of a cryptographer.
+
+🎙️: https://t.co/xVpGBuxLaI https://t.co/DceaL9nm26",38,0,11,2020-01-07
+2,2020-01-08 18:00:23+00:00,1214970117634895872,cosmos,"CosmWasm enables WASM VMs to be built with Cosmos SDK.
+
+📢ATTN: Rust developers, new tutorials are up, courtesy of Ethan Frey from Confio &amp; lead engineer @regen_network to get started with your blockchain app.
+
+🎥: https://t.co/bR2tMtEAaz
+🎥: https://t.co/4RibtEfWur https://t.co/nieDFkuAbN",41,0,13,2020-01-08
+4,2020-01-09 17:30:40+00:00,1215325026183983104,cosmos,"Kick off the New Year strong at the 1st GoDays meetup of the year.
+
+RSVP 📆: https://t.co/qdoTgYeze0
+
+And if that's not enough fun for you, join @billyrennekamp for a ""Digital Scarcity and Gaming in Golang"" workshop.
+
+RSVP 🛠️: https://t.co/1giU7Hrs2J https://t.co/yxOrmSRS62",40,4,14,2020-01-09
+5,2020-01-16 01:50:03+00:00,1217625026192642049,cosmos,"🚨ATTN: all IBC implementers!
+
+IBC Ecosystem WG call is happening tomorrow at 17:00 CET. If you are interested in using or contributing to IBC development, add agenda items for discussion on this week's call here 👉https://t.co/9QEUbPIdtE
+
+Zoom link 🎥 https://t.co/AMXiBOAM9H https://t.co/O0CR4IdIBk",60,1,26,2020-01-16
+6,2020-01-17 21:00:02+00:00,1218276816974204930,cosmos,"Smart Contracts enable logic to be built into an agreement on chain as opposed to a simple payment transaction. CosmWasm, a go-to multiple chain Smart Contract tool-set, can be built into any chain that has been created using Cosmos SDK.
+🔖https://t.co/DjWIFeAjgK https://t.co/YXHZRjzxaZ",63,4,20,2020-01-17
+7,2020-01-21 01:00:22+00:00,1219424463017717761,cosmos,"If you are building a dedicated network beyond Ethereum but still want to utilize the EVM, an easy way to do so is to use the Cosmos SDK &amp; the Ethermint Module built by @ChainSafeth.
+
+Join our Feb 12th workshop at @EthereumDenver to learn how.
+🔖: https://t.co/JmGstTEcaz https://t.co/q1QH7uqULm",63,2,19,2020-01-21
+8,2020-01-22 18:00:17+00:00,1220043522079895552,cosmos,"🚨 Attn. ATOM stakers:
+Proposal #23 by @Ether_Gavin for the first spend from the community pool is in voting period. 5250 $ATOMs are requested for the creation of the first Governance Working Group. Delegators have until 29 Jan to cast their vote.
+Details📃https://t.co/xwfxxln8cj https://t.co/CijQJ9IiRh",25,0,6,2020-01-22
+9,2020-01-23 22:30:16+00:00,1220473854222655491,cosmos,"Zoe, the platform developped by @agoric provides an innovative, safer approach for building &amp; interacting with smart contracts.
+Find out how Zoe's new feature, “payout liveness”, ensures that a payout happens, independent of any misbehavior.
+🔖 https://t.co/0jpytoWQaZ https://t.co/7zYq3v4Qyc",40,0,9,2020-01-23
+10,2020-01-24 21:00:10+00:00,1220813567315841024,cosmos,"Since Cosmos Hub launched on 13th March last year, we went through 2 upgrades, each of which making the network restart at height 0. 
+Check out the 🗄️ of the previous Cosmos Hub 1 &amp; 2 provided by @interchain_io, @bigdipperlive &amp; @HubbleAlert here 🔍 https://t.co/CerOiG9gf4 https://t.co/wJUlpiPrGk",47,0,9,2020-01-24
+11,2020-01-28 20:19:12+00:00,1222252808998719488,cosmos,"Until IBC idea came to life, blockchains were seen as isolated protocols w/ no ability to exchange data trustlessly. 
+Today, due to its potential use-case, IBC could be a game changer—particularly to Enterprise.
+
+@PersistenceOne explains why:
+🔖: https://t.co/PAEDHQoTwS https://t.co/3epTmnSvij",53,0,11,2020-01-28
+12,2020-01-29 19:52:09+00:00,1222608390624509952,cosmos,"🚨ATTN: all IBC implementers!
+
+IBC Ecosystem WG call is happening on 30th Jan at 17:00 CET. If you are interested in using or contributing to IBC development, add agenda items for discussion on this week's call here 👉https://t.co/BmCL2uRVgs
+
+Zoom link 🎥https://t.co/5lIp8yaqjV https://t.co/grQPXa3CuS",38,1,11,2020-01-29
+13,2020-02-02 09:50:24+00:00,1223906504576851968,cosmos,"Don't have time to follow every new thing that springs up in the Cosmos ecosystem? We've got you covered w/ our monthly Cosmos Hub &amp; Spoke newsletter, now served directly on the Cosmos website newsletter page.
+
+Your Sunday morning January retro is here 🔖 https://t.co/ryDWtG0fM1 https://t.co/eLkBc2aKjR",48,0,12,2020-02-02
+14,2020-02-03 21:00:11+00:00,1224437447850786816,cosmos,"If you're attending @EthereumDenver BUIDL Week, join us for an Ethermint Workshop at 2pm on 2/12. In this hands-on instructional sesh taught by @billyrennekamp, you'll dabble w/ Cosmos SDK's Ethermint Module and build an NFT burner chain.
+
+RSVP here 📆: https://t.co/caVNl6Hglz https://t.co/69Gcmd1vfM",37,0,11,2020-02-03
+15,2020-02-06 22:31:23+00:00,1225547564033990656,cosmos,"Adding WebAssembly to the Cosmos SDK allows software written in many languages to run securely on a blockchain. Excited about implementing CosmWasm?
+
+Here is a walkthrough by Ethan Frey on how to build your own custom CosmWasm smart contract 👇
+🎥: https://t.co/viUtgajCoO https://t.co/66jxCpzetT",36,1,9,2020-02-06
+17,2020-02-08 21:00:01+00:00,1226249347647639552,cosmos,"Cosmos community continues to grow, mature &amp; expand driven by the collaborative efforts of its contributors. Today, @awrelllRo puts up 10K DAI💰 bounty for creating a MVP @ZcashFoundation Zone on @cosmos.
+
+What will you build? #WWYB
+🛠️ https://t.co/uDlOD4wtZ9",85,4,22,2020-02-08
+18,2020-02-10 21:00:22+00:00,1226974210272190466,cosmos,"Curious to discover what is new in Cosmos Hub, what are the key metrics and quick takes of January?
+
+Check out the latest report with insights from community pool spending to GOZ 
+&amp; IBC updates by @Ether_Gavin from @FigmentNetworks.
+
+🔖 https://t.co/Fw64vjIPZX https://t.co/wSYOamXrkl",47,0,13,2020-02-10
+19,2020-02-11 17:47:50+00:00,1227288147777773569,cosmos,"Did you know? 💡
+
+The 1st #IBC tx was executed by @PersistenceOne whereby they split up storage &amp; tx handling into 2 distinct zones—then made them talk—effectively increasing throughput.
+
+Use cases like these will emerge as we build the Interchain. #WWYB?
+
+https://t.co/6sLg4UAB7c https://t.co/9DQZ5sZO6w",88,2,27,2020-02-11
+20,2020-02-13 02:05:57+00:00,1227775889167060993,cosmos,"🚨ATTN: all IBC implementers!
+
+IBC Ecosystem WG call is happening on 13th Feb at 17:00 CET. If you are interested in using or contributing to IBC development, add agenda items for discussion on this week's call here 👉https://t.co/CCeQ6JAhAM
+
+Zoom link 🎥https://t.co/qj2XmDfQ0B https://t.co/JBIRhD9zWE",33,1,10,2020-02-13
+21,2020-02-14 21:00:35+00:00,1228423817908903942,cosmos,"https://t.co/iJlLqHOfVW is a Cosmos validator operated by @stakedotfish. $ATOM holders can delegate to support projects that contribute to the Cosmos ecosystem. Find out why @EverettProtocol was selected among one of the 1st teams to receive this grant.
+🔖 https://t.co/eZdDMSt6OD https://t.co/aph6XbW8wY",46,1,10,2020-02-14
+22,2020-02-17 23:16:12+00:00,1229545110011990016,cosmos,"And that's a wrap! Thanks @EthereumDenver for having us at #ETHDenver this year✌🏽👨🏽‍🚀
+
+A quick summary of the hackathon from a Cosmonaut's perspective 👇 https://t.co/hNF1AfdauQ",68,2,14,2020-02-17
+27,2020-02-18 18:00:56+00:00,1229828157534023688,cosmos,"🚨ATTN: all users!
+Gaia v2.0.6 release is out!🥁
+it includes the Cosmos SDK version bumped to v0.37.7 together with some minor event fixes. Check them out here!👇
+⚙️Gaia Release https://t.co/RDDvVlaSVM
+⚙️SDK Release: https://t.co/IxV4XjGLdh",43,0,12,2020-02-18
+28,2020-02-19 18:45:19+00:00,1230201714696802307,cosmos,"Say hellooo to my little chain.
+
+A #burnerchain 🔥⛓️ is a low-security, disposable chain that may be used to interact w/ EVM-based networks, eg @Ethereum. Comes w/ a set of modules:
+
+🛠️ Staking, Auth, Bank, Slashing
+🐖 Peggy (new!)
+
+Burn, baby, burn 🔥
+⚙️ https://t.co/uLTsrKH4qy https://t.co/lQobFA7RyW",86,5,19,2020-02-19
+30,2020-02-20 17:30:14+00:00,1230545208418406401,cosmos,"Wasmd is live 🚀
+
+Wasmd is a Cosmos SDK-based appchain developed by Ethan Frey of @regen_network, which supports CosmWasm contracts. You can now import x/wasm, and w/ a few lines in app.go, enable smart contracts on your custom blockchain.
+
+#WWYB?
+🔖https://t.co/wLefRabqPa https://t.co/3VdB7d73AY",81,0,24,2020-02-20
+31,2020-02-24 19:43:16+00:00,1232028238198661120,cosmos,"@loanem10 @ethereum No, it's a scam. There's an ongoing phishing attempt. Do not take the bait! https://t.co/RlIdhX9Spg, @CosmosAirdropBot, and @CosmosOfficial are scams!",0,0,0,2020-02-24
+35,2020-02-25 05:49:16+00:00,1232180741905084416,cosmos,"@ryanbkc1 ‼️ Beware of scams. There's an ongoing phishing attempt. Do not take the bait! https://t.co/RlIdhX9Spg, @CosmosAirdropBot, and @CosmosOfficial are scams!",1,1,0,2020-02-25
+36,2020-02-26 06:45:16+00:00,1232557225052274688,cosmos,"📳 New Notification 📳
+
+A quick update about #IBC 🌐
+
+We have identified an issue in the way keys 🗝️ are serialised for Merkle proofs and are testing a fix. 
+
+🔗: https://t.co/X1mQoghsA9",47,2,11,2020-02-26
+40,2020-02-27 18:19:56+00:00,1233094429419982848,cosmos,"📳 New notification 📳
+
+Another quick update about #IBC 🌐
+
+#IBC team is working around the clock on debugging the proof issue that was encountered 🚧https://t.co/X1mQofZRIB. Check out further updates about this here 🏗️ https://t.co/IT4DQLrzPl. https://t.co/vGPMV42fPK",23,1,4,2020-02-27
+41,2020-02-28 21:01:03+00:00,1233497365295894530,cosmos,"Don't have time to follow every new thing that springs up in the Cosmos ecosystem? We've got you covered w/ our monthly Cosmos Hub &amp; Spoke newsletter, now served directly on the Cosmos website newsletter page.
+Your February edition is now hot and ready!
+🔖https://t.co/p7EF7Ejixl https://t.co/I7TaUc97EG",44,0,8,2020-02-28
+42,2020-02-29 03:53:08+00:00,1233601066492522497,cosmos,"@itmilkyway @BinanceAmerica Tendermint CEO did not exit Cosmos. Tendermint's previous CTO is running Interchain Foundation, the foundation responsible for ensuring the Cosmos vision succeeds.",6,1,1,2020-02-29
+43,2020-03-01 21:00:21+00:00,1234221963603824644,cosmos,"Curious to find out what's going on in the #IBC world and how close we are to enabling interoperability across different blockchains? 
+Watch February 13th's recording of the IBC Ecosystem WG call to find out.
+
+🎥https://t.co/QzRrGnbE1P https://t.co/17F6Ktm4B9",43,0,6,2020-03-01
+44,2020-03-02 20:52:44+00:00,1234582433216905216,cosmos,@BandDisciple @tendermint_team @BandProtocol Of course!,4,1,1,2020-03-02
+46,2020-03-03 07:00:05+00:00,1234735278830620672,cosmos,"Cosmos is in Paris 🗼for @EthCC_:
+
+📌Mar 4, 2:20-3:00PM—CosmWasm workshop for building smart contracts in Rust, by DevRels Engineer @mark0baricevic
+📌Mar 5, 1:55-2:15PM—IBC for @ethereum 2.0, by #IBC Lead Researcher @cwgoes
+
+Agenda 🗓️ https://t.co/UPke4C0uqx https://t.co/qGZ2hpHaJA",24,0,7,2020-03-03
+48,2020-03-05 19:47:49+00:00,1235653262386155521,cosmos,"Just dropped: Inter-Blockchain Communication for ETH 2.0, by @cwgoes 👇
+
+#IBC #ETH2 #EthCC2020 #EthCC @EthCC_
+
+https://t.co/B7qPVn162x",53,5,16,2020-03-05
+51,2020-03-06 21:00:10+00:00,1236033858136666112,cosmos,"Connecting blockchains is at the heart of IBC interoperability. Watch the panel on the current state of the Staking Industry and Interoperability at The Garage in Paris 🚗 - with @gautier_md @bneiluj @antoineherzog @EdouardL and @plaurent789.
+
+🎥🇫🇷 https://t.co/2kFT4gkiBb https://t.co/VEDJwFSZLg",20,0,5,2020-03-06
+52,2020-03-07 21:00:16+00:00,1236396268416622597,cosmos,"Wanna find out how Cosmos Hub validators' voting power distribution has evolved in the last year?
+Check out @POSBakerz latest analysis of the @cosmosvalidator ecosystem, 8 months after their first one and see how the Hub's structure changed since then. 
+🔖https://t.co/8nxsuKjlQu https://t.co/p7wtnE2YJJ",45,1,9,2020-03-07
+53,2020-03-09 21:42:17+00:00,1237131621050003456,cosmos,"🚨Attn: 📢 RIOT channels moved to DISCORD 📢 
+Communication happening in the @cosmos RIOT channels was moved in the new COSMOS channels on DISCORD.
+Come and find everything you need inside #technicals, #validators, #GoZ, #CosmosSDK, #IBC and more.
+👉 https://t.co/iGO2cytvtT",26,2,7,2020-03-09
+54,2020-03-10 05:00:04+00:00,1237241792875069442,cosmos,"First biweekly community call of @cosmwasm is scheduled for Tue, March 10th at 10am CET (9am UTC).
+Join and find out about recent updates and roadmap and how you can build Cosmos SDK compatible smart contracts.
+Zoom link 🎥 https://t.co/im2bVmSEat
+⚙️https://t.co/C6HNZt2pyE https://t.co/ydYt3WbUOW",15,2,2,2020-03-10
+56,2020-03-11 18:00:14+00:00,1237800514861105153,cosmos,"🚨CosmWasm 0.7 Released🚨
+The new @CosmWasm release represents the first step to provide the best full-stack solution for smart contract development.
+Start writing you own blockchain agnostic smart contracts compatible w/ @Cosmos SDK today!
+Details here 🔖https://t.co/FT60upEvTY https://t.co/MUDfkSwIAq",36,0,12,2020-03-11
+57,2020-03-12 18:16:28+00:00,1238166987169202177,cosmos,"Let's meet IRITA!🖐️
+
+Powered by @tendermint_team,  @Cosmos SDK &amp; @irisnetwork Service, IRITA is the first consortium blockchain product in @cosmos that is ready to go to production.
+Start building your next-generation distributed business apps today👇
+🔖https://t.co/2oxOJiVHt3 https://t.co/CPZsewv4p8",48,1,13,2020-03-12
+58,2020-03-13 18:41:55+00:00,1238535778180804608,cosmos,@dadv333 @adriana_kalpa @tendermint_team @interchain_io She was,0,0,0,2020-03-13
+61,2020-03-16 21:42:03+00:00,1239668276105543688,cosmos,"🚨ATTN: Everyone!🚨
+
+The #IBC demo is up-and-running with real light clients, real proofs, end-to-end handshakes and working token transfers.🚀🛰️
+
+Check out the code &amp; try it out yourself at ⚒️⚙️ https://t.co/jPw0zpmBbj https://t.co/ha5FLS3Cue",235,16,99,2020-03-16
+62,2020-03-17 20:30:25+00:00,1240012638123417607,cosmos,"🎙️https://t.co/qkKlIkAUXP new release🎙️
+
+In this week's episode, @cwgoes &amp; @chjango interview Ryan King f/ @foamspace a/ Kepler, the #Tendermint Haskell ABCI &amp; how they're using #IBC to exchange real-time location tracking across #blockchains 🛰️ 
+🎙️https://t.co/VKOa8dv9rQ https://t.co/YgGJtFSNoC",30,0,9,2020-03-17
+63,2020-03-18 20:22:43+00:00,1240373085678772226,cosmos,"🔭Product highlight: @CosmWasm 
+
+CosmWasm is a secure &amp; interoperable multi-chain smart contracts tool that enables WebAssembly VMs to be plugged🔌 into the Cosmos SDK.
+Check out team's 1st community call and get familiar w/ their recent progress here👇🎥https://t.co/jodtzBASQj https://t.co/O46t6q29FZ",32,0,8,2020-03-18
+64,2020-03-19 20:15:53+00:00,1240733753884004354,cosmos,"ETHDenver2020 was a blast📸🎇. Did you enjoy it? We sure did.🏹
+
+👥 over 1000 participants
+✍️ about 110 submitted projects
+🛠️ more than 50 workshops
+🗣️ over 30 side events during #BUIDL Week 2020 
+
+Here's a short retrospective of the event 👉🎥 https://t.co/TUx8J04dWl https://t.co/GLoRRpXNIM",141,7,97,2020-03-19
+65,2020-03-20 20:10:44+00:00,1241094847190179841,cosmos,"📡New video release: latest #IBC call⛓️
+
+Are you curious to find out what's going on in the #IBC 🌐 and how close we are to enabling interoperability across different blockchains? 
+Watch March 13th's recording of the IBC Ecosystem WG call to find out.
+
+🎥https://t.co/UBrRcq8dT0 https://t.co/VUUrbSwJfX",42,1,17,2020-03-20
+66,2020-03-23 21:08:34+00:00,1242196563310661640,cosmos,"📢 @CosmWasm community call 👥
+ 
+Next call is scheduled for 🕔Tuesday, March 24 at 6 PM CET.
+Join and find out about recent updates, current roadmap and how you can build Cosmos SDK compatible smart contracts.
+Zoom link 🎥 https://t.co/fG8kk2074b
+Details 📝https://t.co/FEB7X4RGCK https://t.co/iyzwiIjtpy",23,0,7,2020-03-23
+67,2020-03-24 18:17:19+00:00,1242515855998627840,cosmos,"📢 Next call: Liquid Staking WG by @ChorusOne 👥
+ 
+When🕔: Wed, March 25 at 4 PM CET.
+Topic: How staked assets can be tokenized and the implications on the sustainability of the Internet of Blockchains.
+Zoom link 🎥https://t.co/Ye3eUC8ZS7
+Details 📝https://t.co/N6TEOaVJjx https://t.co/VGKjXeaLHX",18,1,6,2020-03-24
+68,2020-03-25 19:38:56+00:00,1242898781462544384,cosmos,"📢Are you ready for a full #IBC day on 26th March? 🌐 
+
+Topic📌: updates on the #IBC relayer demo w/ @jack_zampolin 
+Hour⏱️: 16.00 CET
+🎥 https://t.co/PHGWum9Hxp
+
+Topic📌: #IBC ecosystem call w/ @cwgoes discussing all things #IBC
+Hour⏱️: 17.00 CET
+🎥https://t.co/TutN8mgPAD https://t.co/7EmNMryITE",95,3,46,2020-03-25
+69,2020-03-30 15:56:47+00:00,1244654817672380416,cosmos,"🎙️https://t.co/qkKlIkAUXP new release🎙️
+
+In this week's ep, @cwgoes &amp; @chjango interview Andreas Antonopoulos @aantonop a/ the future of the cryptocurrency industry amidst an ongoing pandemic &amp; the beginnings of a worldwide recession.
+Recording here🎙️https://t.co/8oy92k6cgL https://t.co/U1E6r3g00C",33,0,15,2020-03-30
+70,2020-03-31 17:00:04+00:00,1245033130219757570,cosmos,"📡New video release: latest #IBC call⛓️
+
+With Game of Zones right around the corner, how close are we to enabling interoperability across different blockchains? 
+Watch March 26th's recording of the #IBC Ecosystem WG call to find out.
+
+🎥https://t.co/xeZSY2QN5l https://t.co/bdlcCbf2uA",23,0,7,2020-03-31
+71,2020-04-01 17:44:40+00:00,1245406741589876741,cosmos,"What are you doing this April? Come join our @gitcoin Hackathon and win over $24k in total prizes!👇
+WWYB⚒️ apps using @Cosmos SDK, IBC, @agoric ’s SDK &amp; @BandProtocol 
+Dates 📆 April 20th to May 11th
+Register here 📝https://t.co/1i6UXUZy1j
+Details 🔖https://t.co/djgROm6xdg https://t.co/IJP9B5deqc",87,0,38,2020-04-01
+72,2020-04-03 01:00:04+00:00,1245878701272838145,cosmos,"🖐️Meet Dynamic #IBC (dIBC) by @agoric 
+
+#dIBC uses a smart contract or VM platform to deploy new contracts that support new protocols without having to wait for chain upgrades. 
+Read all about why #dIBC is critical to the growth of the #IBC here👇https://t.co/xW3UkKcGpE https://t.co/fI76hbfAxL",48,0,15,2020-04-03
+73,2020-04-06 19:03:37+00:00,1247238548555776003,cosmos,"Don't have time to follow every new thing that springs up in the Cosmos ecosystem? We've got you covered w/ our monthly Cosmos Hub &amp; Spoke newsletter, now served directly on the Cosmos website newsletter page.
+Your March edition is now hot and ready!🔥
+🔖https://t.co/J8WtYF8Dzl https://t.co/NzJaBGgCQo",58,0,16,2020-04-06
+74,2020-04-07 18:00:41+00:00,1247585100939870209,cosmos,"📢Engineering Updates
+
+We are excited to announce the launch of our new Engineering newsletter! 🚀
+Now you can get all the updates directly from the website 
+👉https://t.co/FeM7cJZfB1 
+Let us know your product updates to feature them in our next edition.
+🔖https://t.co/NdA6PgJKHC https://t.co/y3TwMmkMij",48,0,17,2020-04-07
+75,2020-04-08 22:46:16+00:00,1248019357633933312,cosmos,"The wait is over! #GameofZones is here! 🚀🏹
+
+🏆 GoZ start date: May 1st
+💰 100,000 $ATOM prize pool (subject to increase to 200,000 ATOM)
+
+📝 Volunteer as tribute now: https://t.co/ItPoDDJuWq
+
+📆 Registrations are open until April 25th https://t.co/Xz5SUliBr0",164,11,68,2020-04-08
+76,2020-04-13 20:00:21+00:00,1249789543747923975,cosmos,"Meet Cosmic Compass (or CoCo)🖐️
+
+@CosmicCompassIO is a network navigator for devs &amp; account holders to access data via APIs/Apps on supported blockchain networks.
+#CoCoEAP's early versions now support @Cosmos, @sentinel_co &amp; @likecoin.
+Give it a try 👉 https://t.co/FGcSCQZrhO https://t.co/P9rlaFwOht",50,1,24,2020-04-13
+77,2020-04-15 14:26:51+00:00,1250430389555884032,cosmos,"🏹Game of Zones 🏹
+
+Join @CosmosDevs today for a double AMA session ⏱️9 AM PST &amp; 6 PM PST on their Twitch channel to get all your questions answered about all things Game of Zones including current testnets, IBC or GOZ prize distribution.
+Tune in here 🎥https://t.co/eQGg3fVS6y https://t.co/DNpWw0bRN1",19,1,4,2020-04-15
+79,2020-04-16 22:03:41+00:00,1250907742849634304,cosmos,"📡New video release: latest #IBC call⛓️
+
+With Game of Zones right around the corner, how close are we to enabling interoperability across different blockchains? 
+Tune in to watch the April 9th's recording of the #IBC Ecosystem WG call to find out.
+
+🎥 https://t.co/iH6vOAIxJh https://t.co/bsGDWnHVER",24,0,9,2020-04-16
+80,2020-04-19 15:51:19+00:00,1251901198904541184,cosmos,"📢Calling all @gitcoin Hackathon participants!⚔️
+
+Last day to register for the @gitcoin online Hackathon organized by @cosmos @agoric &amp; @BandProtocol !🖍️https://t.co/0n35YFfBV3
+
+Want to take a sneak peek at the challenges? Check out the details👇
+🎥https://t.co/WUzpcuj66a https://t.co/2NAzgDJ61R",25,1,14,2020-04-19
+81,2020-04-20 15:00:10+00:00,1252250713452929030,cosmos,"📢Attn: all #GameOfZones participants!🏹
+
+How prepared are you for the upcoming #GameOfZones competition?⚔️
+Tune in for the latest Q&amp;A session prepared by @CosmosDevs to learn about all things GOZ👇
+🎥https://t.co/7X6AMun8Cw
+
+Have you registered yet?🖍️https://t.co/c2FrZj4lWA https://t.co/KGxp8lF3Ek",18,0,5,2020-04-20
+82,2020-04-21 00:39:45+00:00,1252396569749409793,cosmos,"BandProtocol is a decentralized cross-chain oracle working closely w/ @Cosmos to drive the creation of interoperable #DeFi apps.
+Check out their guide on how to build #DeFi using @BandProtocol's oracle &amp; Cosmos #IBC for the upcoming @gitcoin Hackathon! 
+🔖https://t.co/URM01SgwU7 https://t.co/RAt70dtB8C",88,0,33,2020-04-21
+84,2020-04-22 19:37:37+00:00,1253045310982696963,cosmos,"🔉 Attn: the @Cosmos Cross-Chain Virtual Hackathon has just started! 
+⚔️https://t.co/FQgh6TAZUc
+
+Have you checked out the prizes and challenges put out by the @cosmos team? 
+Here is a comprehensive breakdown of our $15,000 pool prize paid in #ATOM👇
+🏆 https://t.co/ZNsVzAQBmV https://t.co/q6hjJX04xq",50,1,24,2020-04-22
+85,2020-04-23 18:08:33+00:00,1253385287432101888,cosmos,"📢Virtual Conference
+
+Do you long for the days when you were going from one @cosmos conference to another?
+With that thought in mind, @cosmos is hosting an online conference  at Consensus:Distributed  in its “Foundations” segment on May 12th.
+
+Join here🔖https://t.co/zq4ivclIa2 https://t.co/u9sYUfX5hO",23,0,10,2020-04-23
+86,2020-04-24 13:10:00+00:00,1253672539290832897,cosmos,"⚒️#IBC workshop &amp; @cosmos office hours
+
+Join @cosmos today in two back to back events held under the @gitcoin Hackathon.
+🕕 7am PST, 10am EST @cwgoes #IBC workshop
+🕖 8am PST, 11am EST @mark0baricevic @cosmos office hours
+
+Add the Gitcoin calendar here 👉https://t.co/ZNZOvLcZpK https://t.co/xVKfMs8KKD",44,0,21,2020-04-24
+87,2020-04-27 21:22:11+00:00,1254883566409994244,cosmos,"Don't have time to follow every new thing that springs up in the Cosmos ecosystem? We've got you covered w/ our monthly Cosmos Hub &amp; Spoke newsletter, now served directly on the Cosmos website newsletter page.
+Check out the news in April's edition!🔥
+🔖 https://t.co/7G0kVFijcR https://t.co/FC9LnKGpKi",34,0,10,2020-04-27
+88,2020-04-29 19:27:34+00:00,1255579498453614595,cosmos,"⚔️ Launch of #gameofzones comes ~ 48h! Are you ready? 🏹  
+
+Here are some resources prepared by @CosmosDevs to make sure you are covered! Give them a read👇
+📌4 things teams must do by 4/30 🔖https://t.co/glhyqFm1uw
+📌what you need to know to win #GOZ 🔖https://t.co/q5YIfkCRZO https://t.co/xql1C7Ce4y",33,0,11,2020-04-29
+89,2020-05-01 14:27:16+00:00,1256228702599417859,cosmos,"📢11 days left in the Cross Chain Hackathon by @cosmos , @agoric &amp; @BandProtocol.
+Judges🎓 @jaesustein @cwgoes @billyrennekamp @DeanTribble @nomorebear 
+
+Have you provided updates on your project? 📝https://t.co/Rq8ANr5FQt
+Win some t-shirts if you tell us what you’re cooking 👕👕 https://t.co/OxYtRMRWh1",37,3,19,2020-05-01
+90,2020-05-02 23:24:42+00:00,1256726338918064142,cosmos,"📢 Introducing "" Code With Us""🎓
+
+A live, interactive workshop program, brought to you by @cosmos, designed to educate and provide real-time practice to developers in the community.
+Join us and let's code together!💻👇
+📝 https://t.co/LQ8cCsYso7
+Sign up 📫 https://t.co/GA4rWTBH0S https://t.co/SzmYDGaztd",59,2,25,2020-05-02
+91,2020-05-04 11:44:22+00:00,1257274867885490178,cosmos,"📢#GameOfZones update 🏹
+
+🔜Game of Zones starts of Wednesday, May 6th, pending 24h of testnet stability! ⏱
+
+Prepare your engines and get ready for the battle of the year! ⚔️
+Details provided by @CosmosDevs team here👇
+📝 https://t.co/H2Xo7RbZYN 
+
+⏩https://t.co/13n0HJZkRm https://t.co/L5BOp6hlNs",28,0,11,2020-05-04
+93,2020-05-06 20:15:36+00:00,1258128300309991426,cosmos,"📡 #IBC ecosystem working group call 🌐
+
+With Game of Zones starting today🏹, how close are we to enabling interoperability across different blockchains? 
+Tune in tomorrow, 7th of May at 17:00 CET to find out.
+
+Agenda 📝https://t.co/fcE3KiScFL
+Zoom link 🎥 https://t.co/phGNGO432S https://t.co/0bNqy8pXz1",47,0,15,2020-05-06
+94,2020-05-08 01:22:46+00:00,1258567991635185665,cosmos,"🏹Having trouble navigating through different scripts for #GOZ and feel like you could use some help? Here it is👇
+💻https://t.co/yc7Zh6atXD by @PersistenceOne 
+💻https://t.co/GbLYLoKDWT by @Asmodat 
+💻https://t.co/RhL9krnz93 by @P2Pvalidator 
+💻https://t.co/86nBMmccp8 by @zcpeng https://t.co/ohA6lZH5U3",36,0,15,2020-05-08
+97,2020-05-11 12:17:56+00:00,1259820030881157122,cosmos,"📢 ""Code with us"" launches today 🔥
+
+This Monday at 10 am PST / 1pm EST / 7pm CET the ""Code with us"" workshop program by @cosmos goes live!
+Come and join @billyrennekamp in live coding the “Scavenger Hunt Tutorial”! 👇
+📝 https://t.co/Bbsjr4YWIm
+Sign up 📫 https://t.co/ExQFE7S5sO https://t.co/fZsdWkkFLE",23,0,12,2020-05-11
+100,2020-05-12 01:25:47+00:00,1260018301599506437,cosmos,"📢 Gitcoin Cross-Chain Hackathon updates
+
+Over 30+ teams are working on projects for the Gitcoin cross-chain hackathon! 
+We're seeing stablecoins, cross-chain transfer solutions, new Cosmos SDK modules, IBC explorers &amp; more. What are you building? 🏗️
+✍️https://t.co/kfD1M3S3SU https://t.co/4aXFX2BUru",29,0,9,2020-05-12
+102,2020-05-13 21:17:39+00:00,1260680631450771460,cosmos,"One of the goals of #GOZ is to test the #IBC protocol &amp; to fix the vulnerabilities found on the way.
+Check out latest updates by:
+🎯Interchain GmbH's team - technical notes on the latest #GOZ bug fix https://t.co/uW7xNPjBr1
+🎯@CosmosDevs - phase 1b updates https://t.co/Eyv5pnZAxI https://t.co/wDVG3iwLL3",33,0,8,2020-05-13
+103,2020-05-14 14:36:39+00:00,1260942102806114304,cosmos,"🛰“Code with us” 1st workshop goes live!🚀
+
+Tune in to watch @billyrennekamp go through an online working session of the “Scavenger Hunt Tutorial”!👇
+
+Want to participate to our next one held by @sunnya97 on the 26th?📝https://t.co/6KMoAFMG91
+Sign up here📫https://t.co/QlgUr2lAmm https://t.co/HJ9FbcpgdR",30,0,10,2020-05-14
+105,2020-05-15 18:42:55+00:00,1261366468698087425,cosmos,"📢 New @cosmos Hub proposal 
+
+Proposal: integration of @CosmWasm w/ @cosmoshub by adding support for smart contracts
+By: Ethan Frey,  https://t.co/A1Do4zATLZ 
+Timeline⏳ 2-4 months 
+Amount: 25,000 #Atoms 
+
+Full proposal here: https://t.co/ViDTMqus6J
+
+🗳️Cosmonauts, time to vote! https://t.co/pi6PEvOw8u",52,0,16,2020-05-15
+106,2020-05-16 21:59:12+00:00,1261778249325195270,cosmos,"📢 48 hours left for the Cross-Chain Hackathon with @Cosmos, @agoric &amp; @BandProtocol ! 
+
+Make sure to submit your application by 5pm PST, 8pm EST on Monday, May 18th! 
+🎓Judging will be done by @cwgoes @billyrennekamp @DeanTribble @nomorebear &amp; @sunnya97 
+
+https://t.co/XWzQE3N9PC https://t.co/ys3zWOyFp3",68,3,21,2020-05-16
+107,2020-05-17 16:42:05+00:00,1262060834680983553,cosmos,"📢https://t.co/qkKlIkAUXP episode #6
+
+Tune in the latest interview with @ttk314 &amp; @JTremback f/ @AltheaNetwork discussing about wireless, community-owned decentralized internet infrastructure and the work on Althea Peggy.
+Hosts🗣️ @chjango &amp; @cwgoes 
+
+🎙️https://t.co/ORDWnKcpIm https://t.co/tiMCDj8aqU",54,1,17,2020-05-17
+108,2020-05-18 20:00:14+00:00,1262473089906081792,cosmos,"📡 @interchain_io 's grant program for @cosmos is open 🎉
+
+Requests for funding💰 grants, service agreements &amp; investments
+Categories📜 Engineering/Product, Research &amp; Community/Social Good
+Submit applications here ✏️https://t.co/KmllJs73Tm
+
+Details 👉 https://t.co/I4HtMylrx0 https://t.co/eKkYgO7jUM",44,0,13,2020-05-18
+109,2020-05-20 20:18:08+00:00,1263202370399453185,cosmos,"🧑‍💻How excited are you about the ""Code with us"" program?
+ 
+Make sure to stay up to date by following the Code-with-us webpage.
+We will be posting recordings of the past workshops as well as details of the upcoming ones.
+Happy coding cosmonauts!🧑‍🚀
+🖥️ https://t.co/sJEeCGtymn https://t.co/5c1HFo1fm6",38,1,15,2020-05-20
+110,2020-05-21 13:11:14+00:00,1263457324133466113,cosmos,"📡  Calling our @cosmos Spanish community
+
+Today at 18:00 PM (Spain time)/ 7:00 PM EEST/ 9:00 AM PST @wimel85 f/ @DelegaNetworks &amp; @Der_Fredy f/ @DragonStake invite you to learn all the ins and outs about being an active @cosmos delegator.
+Details here🗓️ https://t.co/FgAV2tEC9v https://t.co/qjyHxSBzrk",37,0,13,2020-05-21
+111,2020-05-22 09:06:33+00:00,1263758135535251458,cosmos,"📡 Announcing the winners of @gitcoin's Hackathon
+
+The Cross-Chain Virtual Hackathon by @cosmos, @agoric &amp; @BandProtocol is officially over! 
+Are you curious to find out what the winning teams have built?🛠️
+Tune in this Friday at 9 AM PST to find out!
+🎥 https://t.co/hNFEL8cFs4 https://t.co/7tj9Dvdi5J",46,1,8,2020-05-22
+112,2020-05-23 14:14:55+00:00,1264198125125873664,cosmos,"🖥️ What are you doing this Tuesday?
+
+Come join @sunnya97 @ 10am PDT / 7pm CEST to learn how to change lower level functionality of transactions in the @cosmos SDK, to turn on and off different tx types, change the fee payer &amp; create antehandler modules.
+
+https://t.co/gmQjEnQeQu https://t.co/rLGx1bqsPg",63,1,12,2020-05-23
+113,2020-05-25 19:16:28+00:00,1264998789825179648,cosmos,"CoinPriceBet 🎲🎰
+
+A prediction market on the Cosmos SDK. Sources price data from @BandProtocol using IBC, built by @vbstreetz.
+
+💡 Think: @AugurProject + IBC!
+
+https://t.co/0I70j62hIO https://t.co/LBY66T3EQE",20,2,6,2020-05-25
+124,2020-05-26 19:29:44+00:00,1265364514716950535,cosmos,"Congratulations to @web3foundation &amp; @ParityTech on the mainnet launch of @polkadotnetwork. 
+
+Let's make blockchain interoperability happen 🚀 https://t.co/SgqEyUjT6K",166,2,31,2020-05-26
+125,2020-05-27 12:31:30+00:00,1265621649795186694,cosmos,"📡 Want to keep up with the vibrant @cosmos ecosystem &amp; not miss any event that enters the stratosphere?
+No worries, now you can!
+
+Pop by https://t.co/3sdtTNgcbQ &amp; get your daily digest for @cosmos events. Everything you need from livestreams, workshops, AMAs or talks is here!🚀 https://t.co/hEgRl9emOo",44,0,5,2020-05-27
+126,2020-05-28 16:30:40+00:00,1266044228817297408,cosmos,"📡 Cosmos Unchained series by @cosmos 
+
+Episode #1
+Ever wondered what the differences b/w @cosmos and @tezos are? 
+
+Join @chjango, @sunnya97, @arthurB and @breitwoman on Tuesday, June 2nd at 7pm PDT, 10pm EST for a virtual meetup to find out.
+Signup here👉 https://t.co/Nci497mshx https://t.co/j0kMchJa1W",61,2,19,2020-05-28
+127,2020-05-31 00:17:57+00:00,1266886600589377536,cosmos,"Cosmos Network congratulates @SpaceX &amp; @elonmusk for sending their first @NASA astronauts into space 🚀
+
+This is the kind of thing you'd expect when you invest in builders 💪 https://t.co/l35nZyTzTs",72,1,14,2020-05-31
+128,2020-06-01 10:44:04+00:00,1267406554090872834,cosmos,"🗣️ Introducing #CosmosAMA
+
+#1: Cyber Congress &amp; the decentralized #Google 
+
+Join @cosmos today @ 8 PM CEST/ 11 AM PDT for a fire talk w/ @cyber_devs on the Cyber project, their @cosmos history, the vision for the Great Web aka Web3 &amp; #prop26.
+TG channel👉https://t.co/iH4hh8AN3j https://t.co/L4yc1m5aOR",69,2,28,2020-06-01
+129,2020-06-02 12:26:24+00:00,1267794694790094850,cosmos,"📡 Cosmos Hub &amp; Spoke monthly newsletter is here 🎉
+
+Catch up with the latest developments, events and news happening in @cosmos directly in your inbox.
+
+Browse through May's edition here👉 https://t.co/hPadekK7Ye and sign up to not miss a beat👉 https://t.co/wUXo6bq96T https://t.co/HUjoCrv6b9",41,0,12,2020-06-02
+130,2020-06-04 11:00:10+00:00,1268497768156446720,cosmos,"📡Cosmos Unchained series by @cosmos 
+
+Episode #2
+What are the differences and similarities between @Cosmos and @Ethereum 2.0?
+
+Join @chjango, @sunnya97 and @dannyryan on Tuesday, June 16th at 4pm PDT, 7pm EST, to find out!
+
+Sign up here 👉 https://t.co/N2STRwm5AA https://t.co/DcPpUiROUI",69,4,24,2020-06-04
+131,2020-06-09 10:34:05+00:00,1270303145470689280,cosmos,"💻 Replay: Code with Us
+
+Did you miss the Code with Us session w/ @sunnya97 on how to change lower level functionality of transactions in the SDK, to turn on &amp; off different tx types, change the fee payer or create antehandler modules?
+Watch the rec here 🎥https://t.co/cIJDApDa6V https://t.co/XnRcbk6Zc3",32,1,8,2020-06-09
+132,2020-06-10 20:30:00+00:00,1270815500617109504,cosmos,"🛰️  Replay: Cosmos Unchained #1 Cosmos vs Tezos
+
+In this episode,  @chjango and @sunnya97 challenged @arthurB and @breitwoman to explore the design architecture, key features, and the vision of both @Cosmos and @Tezos.
+
+Find the recording here 👉 🎥https://t.co/X1ogyAx5we https://t.co/HkjEkQ9GtJ",53,2,10,2020-06-10
+133,2020-06-11 17:16:33+00:00,1271129204478926849,cosmos,"💻 Ready for a new Code with Us workshop?
+
+Come join @alessiotreglia on 15th June at 11am PDT / 8pm CEST  to learn how to effectively debug Cosmos SDK apps. 
+You will get a general overview on debuggers &amp; how to configure them to work with Go data types.
+
+https://t.co/dnm2HelAGz https://t.co/XG34UJoq9E",32,1,13,2020-06-11
+134,2020-06-14 15:48:33+00:00,1272194220992970752,cosmos,"📡 Building for Interoperability in Web 3 - Diffusion Digital
+
+Watch @cwgoes, @marksammiller, @theo_turner and @aronvanammers discussing  #interoperability and how #IBC enables that at latest @OVioHQ Diffusion event.
+
+🎥 https://t.co/cpZas1LQdV https://t.co/vgAnfoP2As",53,1,17,2020-06-14
+135,2020-06-15 20:50:38+00:00,1272632632753434628,cosmos,"🔭 Join @cosmosindia_ on Thursday, June 18 at 7:30 PM GMT+5:30 for a journey into @cosmos in their first #KnowCosmosBetter meetup. 
+During this session they will be talking to @terra_money on stablecoins, #CHAI dapp &amp; blockchain economy.
+Registration 👉 https://t.co/HCAIclA4lT https://t.co/Ncd3q0Z4PC",51,0,17,2020-06-15
+136,2020-06-16 15:45:43+00:00,1272918285890265095,cosmos,"🛰️ #CosmWasm community call
+
+This Tuesday, June 16th at 6pm CEST (1600 UTC, 9am PDT), join Ethan Frey on a new @CosmWasm call discussing the implementation of #CosmWasm 1.0 &amp; the plans around building #CosmJS standard library.
+
+Join in 15 min 🎥 https://t.co/oWrJ8QkCuL https://t.co/VRVoF3GZcE",27,0,6,2020-06-16
+138,2020-06-17 11:00:51+00:00,1273208982035972096,cosmos,"🔊 #CosmosAMA #2 with @AtomicWallet 
+
+Join us for a new #CosmosAMA session on the 18th June at 04:30 PM UTC to discuss non-custodial wallets, decentralized staking, #ATOM, rewards &amp; more.
+
+🗣️https://t.co/iH4hh8AN3j
+
+Add your questions to this tweet for a chance at the prize!👇 https://t.co/b7hJXDvY9l",198,345,95,2020-06-17
+140,2020-06-18 13:48:05+00:00,1273613456038670336,cosmos,"📡 #IBC Ecosystem call
+
+In just a few hours, at 8am PDT / 5 PM CEST,  join Cosmos developers to watch a live relayer demo presentation.
+You will get the chance to ask #IBC engineers anything and everything about #IBC.
+
+Event details 👉 https://t.co/7UOataEoKq https://t.co/R7BejYCx9p",37,2,9,2020-06-18
+141,2020-06-19 10:48:41+00:00,1273930698785726464,cosmos,"💻 Ready for a new Code with Us workshop?
+
+Come join @alessiotreglia on 22nd June at 10am PDT / 7pm CEST  to learn how to effectively debug Cosmos SDK apps. 
+You will get a general overview on debuggers &amp; how to configure them to work with Go data types.
+
+https://t.co/xgSm4NDTop https://t.co/cSYe5v1eqq",24,0,9,2020-06-19
+142,2020-06-22 21:32:49+00:00,1275179963717746695,cosmos,"🔊 Stargate upgrade is coming to @cosmos!
+
+* Inter-Blockchain Communication (IBC)🚀
+* Protobuf Migration —performance increase &amp; better UIs
+* State Sync —minutes to sync new nodes
+* Full-Featured Light Clients
+* Chain Upgrade Module 
+
+Art by @Ether_Gavin 📝https://t.co/OCmeZBisbI https://t.co/fvKGsV4Z4j",204,15,75,2020-06-22
+143,2020-06-23 19:07:06+00:00,1275505678191394816,cosmos,"💻 Replay: Code with Us
+
+Did you miss the Code with Us session with @alessiotreglia &amp; @jonathangimeno 
+on debugging Cosmos SDK apps?
+Watch the replay to get a general overview on debuggers &amp; how to configure them to work with Go data types.
+
+🎥 https://t.co/IKPSjvn0ne https://t.co/22DExo9cbI",28,0,5,2020-06-23
+144,2020-06-24 13:23:32+00:00,1275781607039946752,cosmos,"""Ethereum is like Manhattan, while Cosmos is the house in the suburbs"" original quote by @licuende 
+
+Find out more on the architectural decisions behind Cosmos &amp; ETH 2.0 and how the roomy Cosmos suburb can complement the crowded @Ethereum Manhattan here 🎥https://t.co/NFHQswISEz https://t.co/RrfrdArh8N",65,1,16,2020-06-24
+145,2020-06-25 11:25:07+00:00,1276114192244903936,cosmos,"🔭 Fungible staking-derivatives by @sunnya97 
+
+As exchange validators introduce trading on staked atoms, trustless derivatives created for staked atoms on any validator will allow non-custodial validators to remain competitive.
+
+Watch presentation here 🎥 https://t.co/NFzoHWkcDM https://t.co/KfAEcimaS9",48,2,9,2020-06-25
+146,2020-06-26 10:47:36+00:00,1276467138669285377,cosmos,"📡  #CosmosAMA w/ Sunny Aggarwal
+
+Join @sunnya97 on June 30th @ 11AM PDT on Reddit for a live Q&amp;A and get his thoughts on @Cosmos, #IBC, #Stargate &amp; more!
+
+Start adding your questions here 👉 https://t.co/B1fbt50MJ1 for a chance to win $500 in Atoms, courtesy of @tendermint_team. https://t.co/I8aFjECI42",57,5,22,2020-06-26
+147,2020-06-28 15:46:08+00:00,1277267045021888513,cosmos,"💻 Join us this Monday on a new session from the Code with Us series at 1am PDT / 10am CEST.
+You will learn from Ethan Frey | @cosmwasm how to add advanced functionality, like minting, burning and bonding curves to a base ERC20-like contract.
+
+Join here 👉https://t.co/UBp2MHPm1d https://t.co/K5q27UBLKY",42,2,11,2020-06-28
+148,2020-06-29 09:22:40+00:00,1277532929728679936,cosmos,"📡 Stargate is the biggest event in the Cosmos ecosystem since the launch of the Cosmos Hub.
+
+Check out this Q &amp; A with @dogemos and @zmanian to better understand what to expect next and what Stargate upgrade means for the Cosmos ecosystem.
+
+🎥 https://t.co/cMdXf4xV3K https://t.co/mpqQ3jiYyK",61,0,23,2020-06-29
+149,2020-06-30 16:10:17+00:00,1277997899612291074,cosmos,"Are you ready for a fire chat w/ @sunnya97 in the upcoming #CosmosAMA?🔥
+
+Over 150 Questions have been added to the thread here 👉https://t.co/B1fbt50MJ1
+
+Will your Q be among those that @sunnya97 will choose to answer?
+
+Join us on the https://t.co/DDR15Va1Sl LIVE starting in 2h! https://t.co/Swv2NXZMCY",42,22,12,2020-06-30
+150,2020-07-02 13:52:20+00:00,1278687955180302337,cosmos,"📡 #IBC Ecosystem Call replay
+
+Tune in to watch the latest updates on :
+🔭 Stargate Upgrade and what it means for #IBC and @cosmos
+🌐 #IBC after #GameofZones and latest developments on #IBC 1.0 
+🔐 different security models and scenarios 
+
+🎥 https://t.co/NuSa9YiUmZ https://t.co/Lznn0anRSy",31,0,7,2020-07-02
+151,2020-07-03 16:43:44+00:00,1279093480405565440,cosmos,"🌊 Liquid Staking Deep Dive
+
+Join us on Tuesday, July 7th, at 10 am PDT/7 pm CEST for a live virtual debate a/ on-chain staked assets w/ @tarunchitra, @billyrennekamp, @crainbf, @interchain_io, @sunnya97, @barnabee &amp; @hxrts.
+
+Subscribe to @cosmos YouTube 🎥https://t.co/vFkIQ97gBb https://t.co/aAbLumSBZI",42,0,19,2020-07-03
+152,2020-07-04 22:39:00+00:00,1279545271068721152,cosmos,"For the full list of Cosmos Unchained clips, visit us on YouTube ▶️ https://t.co/8578NML2kA
+
+Be sure to subscribe to keep up with the latest in Cosmos 👨🏽‍🚀👩🏼‍🚀👨🏻‍🚀👩🏿‍🚀👨🏾‍🚀",18,0,5,2020-07-04
+163,2020-07-06 13:46:05+00:00,1280135934953095168,cosmos,"🔎 Is @cosmos the project that solves the scalability + security + decentralization  blockchain trilemma all at the same time?
+
+Press play &amp; listen to @sunnya97 answering this question and many others in our last #CosmosAMA.
+
+Subscribe to @cosmos youtube 🎥https://t.co/qoSJPUZS2U https://t.co/tQT4XWIWkr",59,1,15,2020-07-06
+165,2020-07-07 17:28:43+00:00,1280554353053614080,cosmos,"🗞️ Cosmos Hub &amp; Spoke newsletter is out!
+
+What's covered?
+📌 Stargate Upgrade
+📌Tendermint Inc's new CEO &amp; Board of Directors 
+📌 Interchain accounts &amp; its role in bringing practical composability
+📌 A deep dive into liquid staking
+
+Give it a read here 👉https://t.co/7vhurJKuCM https://t.co/a03iU6GKmM",43,0,18,2020-07-07
+168,2020-07-08 19:55:29+00:00,1280953674370560000,cosmos,"🌊 Did you miss the Liquid Staking Deep Dive debate a/ on-chain staked assets? 
+
+We've got you! 🤝 Here are the main topics that we went through:
+👉 Staking is Defi
+👉 Security tradeoffs
+👉Additional Utility
+👉Avoiding Centralized Staking 
+
+Watch replay 🎥 https://t.co/lzLpEwQ7Za https://t.co/mrtf8Dq64B",46,0,12,2020-07-08
+169,2020-07-09 13:59:44+00:00,1281226534133563400,cosmos,"📡5h to go for the Ethereum Peggy Showdown!
+
+Join @chjango, Greg Markou, @ttk314, and @cwgoes to discuss the different approaches that #IBC, #Peggy &amp; #ChainBridge have towards interoperability with @ethereum.
+
+Register here 👉https://t.co/i4MhLyzhNz https://t.co/NAJf4mQaU2",47,0,13,2020-07-09
+172,2020-07-10 20:29:33+00:00,1281687022932037633,cosmos,"🗣️What are the different mechanisms that #IBC, #Peggy and #Chainbridge implement for cross-chain interoperability?
+
+Find this and more in the latest Cosmos Unchained meetup 👇
+Replay here 🎥 https://t.co/FIik8cZ1Ky https://t.co/RTQ1jEF5dZ",44,2,16,2020-07-10
+173,2020-07-13 19:54:55+00:00,1282765469376798721,cosmos,"📡 Stargate proposal is LIVE 🚀
+
+The #CosmosHub4 upgrade prop is signaling the following implementations:
+● Inter-Blockchain Communication (IBC)​ 
+● Protobuf Migration​ 
+● State Sync​ 
+● Full-Featured Light Clients
+● Chain Upgrade Module​ 
+
+Details 👉 https://t.co/6fsA4Evct7 https://t.co/C9HWQSfCU9",88,2,32,2020-07-13
+174,2020-07-15 19:58:04+00:00,1283491039882416129,cosmos,"📡 Cosmos Engineering newsletter is here!
+
+What we covered: #Stargate Upgrade, #Launchpad, Tendermint Core, Cosmos SDK, #IBC &amp; #CosmWasm
+Check out these amazing community contributions in the June &amp; July edition 👉https://t.co/1aCJfB0a6h
+Sign up here ✍️ https://t.co/VIA8BbekjI https://t.co/L3rF7g7C11",50,0,17,2020-07-15
+177,2020-07-16 21:27:58+00:00,1283876050661969921,cosmos,"🌐 Preparing for #IBC 1.0
+
+Inter-Blockchain Communication, the flagship cross-chain protocol for an interoperability standard, is launching soon 🥁🚀
+Read about what's next on the roadmap prior to #IBC deployment in an overview by IBC lead dev @cwgoes  👉https://t.co/sGK4RwRuCo https://t.co/BbVH2BhBWH",166,5,62,2020-07-16
+178,2020-07-17 10:18:31+00:00,1284069967307198464,cosmos,"What does the Stargate upgrade mean for the Cosmos ecosystem? 🔍
+Here are the four key improvements brought on by this upcoming upgrade 👇
+1/6 https://t.co/bavd17OACF",191,7,76,2020-07-17
+184,2020-07-19 09:26:34+00:00,1284781668327460866,cosmos,"💻 Are you ready for the next Code with Us workshop?
+
+Come join @elizabethereum from @ChainSafeth on 21th July at 1pm PDT / 10pm CEST to learn how to set up an @Ethermint development environment and use @Ethereum tooling on Ethermint!
+Sign up here  👉 https://t.co/5zcFTDafER https://t.co/DOKeRMIx6l",64,4,17,2020-07-19
+185,2020-07-20 11:26:01+00:00,1285174117180768256,cosmos,"🔊 #CosmosAMA w/ @regen_network 
+
+Join us for a new #CosmosAMA on July 23rd at 9:30am PDT to discuss Regen's work in regenerating the world's ecosystems &amp; more.
+
+🗣️https://t.co/iH4hh8AN3j
+
+Add the questions you have for @regen_network to this tweet for a chance at the prize!👇 https://t.co/0DUmTHXtNP",82,112,42,2020-07-20
+187,2020-07-21 18:00:27+00:00,1285635766018768896,cosmos,"👨‍💻📣 2h to go for the Code with Us workshop!
+
+Join @elizabethereum f/ @ChainSafeth to learn how to 
+use @Ethereum tooling on @Ethermint!
+Sign up here 👉https://t.co/5zcFTDafER
+
+Want to know more about @ethermint 's current development? Check out the thread
+https://t.co/bM3SvgarLr https://t.co/ikKFleGL9e",43,0,10,2020-07-21
+189,2020-07-22 21:09:22+00:00,1286045698081816578,cosmos,"📡  Cosmos community is on fire 🚀
+
+Want to keep up with the vibrant Cosmos ecosystem and  know when all our community events &amp; meetups are happening?
+Make sure you regularly check the events page on @cosmos website to get your daily dose of excitement 👉 https://t.co/nIAI9Vlw7p https://t.co/jnBFmjHYJp",55,0,16,2020-07-22
+190,2020-07-23 14:37:51+00:00,1286309556377747457,cosmos,"📣 2h to go for the #CosmosAMA w/ @regen_network 
+
+Come join us in 2h on @cosmos telegram channel https://t.co/iH4hh8AN3j for our discussion with @regen_network🌱.
+Did you add the questions you have for the team?❓
+
+Make sure you do✍️ and come join our LIVE AMA!
+See you there!🗣️ https://t.co/7HSQejxJ69",26,0,7,2020-07-23
+191,2020-07-24 17:48:25+00:00,1286719900661227521,cosmos,"💻 Replay: Code with Us
+
+Did you miss the Code with Us workshop w/ @elizabethereum from @ChainSafeth on how to set up an @Ethermint development environment and use @Ethereum tooling on Ethermint ?
+No worries, we've got you! 🤝 Watch the recording here 🎥 https://t.co/KSKhHTgYBU https://t.co/hvSv26fbdd",51,1,14,2020-07-24
+193,2020-07-26 03:50:16+00:00,1287233751471316992,cosmos,"📡 Cosmos India Ambassadors launch new @cosmosindia_ meetup series 
+
+First meetup of #ByCommunityForCommunity series will kickstart with the session on ‘Digital Signatures and Address Generation in Blockchain’ by Mudit Marda on July, 26.
+
+Join here 👉 https://t.co/zSW08oY1AT https://t.co/axt44f6bvc",36,1,12,2020-07-26
+194,2020-07-28 00:22:58+00:00,1287906359195860997,cosmos,"👨🏻‍💻 Code with Us: Create your first @Cosmos app
+
+On 31st July at 9am GMT+5 come join @fadeev from @tendermint_team and try out Starport CLI, a tool that allows you to scaffold &amp; launch a Cosmos application in minutes.
+
+Curious already? Sign up here 👉 https://t.co/udpvstUzvA https://t.co/HL8GPwtYFc",38,0,7,2020-07-28
+196,2020-07-30 10:44:25+00:00,1288787524660404224,cosmos,"🗣️ Centralization of VP amongst a small set of validators can harm the network due to increased risks of censorship, liveness failure or fork attacks.
+
+Participate in the proportional slashing discussion by @sunnya97 that tries to mitigate these risks 👉https://t.co/l6csCwbT1u https://t.co/SmiMBhlUK2",55,1,11,2020-07-30
+198,2020-07-31 03:35:25+00:00,1289041953687048194,cosmos,"👨🏻‍💻 Code with Us: create your first @cosmos app!
+
+Starting in 30 min!
+
+Join here 🎥https://t.co/BYdDa0aiiB https://t.co/j5zlA9kvJP",37,0,10,2020-07-31
+199,2020-08-03 10:49:27+00:00,1290238346644664320,cosmos,"👨🏻‍💻 Code with Us : Cross chain NFT
+
+On Aug 4th at 6:00pm EEST come join @Saisunkari19 and @svabhishek and learn how to set up a Cosmos SDK based chain, install an NFT module &amp; use Cosmos #IBC to mint a custom NFT.
+Register here 👉 https://t.co/1Gce0ytZQG https://t.co/HA2MRNhOlK",56,0,15,2020-08-03
+200,2020-08-04 09:38:56+00:00,1290582987780874241,cosmos,"🔊 #BinanceAMA with @chjango 
+
+Join us for a new #AMA on Aug 7th at 11 am PDT on @binance Nigeria telegram channel 🗣️ https://t.co/tXSj9bs0MD on a journey about all things @cosmos.
+
+Add the questions you have for @chjango to this tweet for a chance at the prize!👇 https://t.co/dSjwmZb0et",79,35,25,2020-08-04
+203,2020-08-06 18:22:15+00:00,1291439457565114373,cosmos,"📽️ Cosmos Unchained: Ethermint vs. Avalanche
+
+Join us on Aug 13 at 9:30am PDT/ 12:30pm EST, for a live meetup with @chjango, @billyrennekamp, and @el33th4xor to discuss the differences b/w @cosmos's @ethermint and Ava's @avalancheavax.
+
+Register here 👉https://t.co/kI6xDURoO7 https://t.co/D8PGm41mu2",77,2,26,2020-08-06
+204,2020-08-10 11:23:22+00:00,1292783595480915970,cosmos,"👨🏻‍💻 Code with Us replay
+
+Join @fadeev from @tendermint_team in building a simple poll application based on Cosmos SDK using Starport CLI. This allows users to create polls, cast votes &amp; see the results in a browser-based UI.
+
+Watch the rec. here 🎥 https://t.co/1gcQzFh76S https://t.co/LrcxatNe2C",43,1,7,2020-08-10
+205,2020-08-12 19:37:09+00:00,1293632633650503680,cosmos,"👨🏻‍💻 Code with Us replay
+
+Did you miss the last Code with Us workshop with @Saisunkari19 and @svabhishek on how to set up a Cosmos SDK based chain, install an NFT module &amp; use Cosmos #IBC to mint a custom NFT?
+
+No worries, watch the recording here 🎥https://t.co/hjABjhJG05 https://t.co/OicBJUccF6",37,0,8,2020-08-12
+206,2020-08-13 07:12:36+00:00,1293807650417893387,cosmos,"📽️Cosmos Unchained: Ethermint vs. Avalanche
+
+Join us today at 9:30am PDT/ 12:30pm EST, for a live meetup with @billyrennekamp, @zmanian, and @el33th4xor to discuss the differences b/w @cosmos's @ethermint and Ava's @avalancheavax.
+
+Save your seat now 👉https://t.co/kI6xDURoO7 https://t.co/EPgA9NMUX6",157,4,22,2020-08-13
+208,2020-08-17 20:06:00+00:00,1295451833817862152,cosmos,"⚛️ Stargate latest updates ⚛️
+     ✅ Tendermint team has completed all the tests &amp; integration milestones for Stargate! https://t.co/FpYT206aBE 🚀
+     ✅ keys are being collected from @cosmos validators for the first public integration testnet https://t.co/mJy8XvZzdl https://t.co/VC9JcXC3ls",89,4,23,2020-08-17
+209,2020-08-18 14:39:11+00:00,1295731976129978377,cosmos,"📡 CosmWasm, the multi-chain smart contract platform for @cosmos, has launched its governance-permissioned public testnet, GaiaFlex.
+Read a/ what GaiaFlex bring to Cosmos 👉 https://t.co/1DcWzqXaCO &amp; revisit the community calls to catch up with the work 🎥 https://t.co/F248E3tjTY https://t.co/42WYtQ3GYi",61,2,19,2020-08-18
+210,2020-08-20 15:27:36+00:00,1296468935697629184,cosmos,"🔭 With a public testnet scheduled to run in Nov 2020 and an @AltheaNetwork mainnet deployed with Peggy scheduled for Jan 2021, what else is there in store for Peggy, the @ethereum &lt;-&gt; @cosmos bridge?
+Find out this &amp; more in the first Peggy standup call 🎥 https://t.co/123WeksUg6 https://t.co/jgJGX5DMT3",120,2,32,2020-08-20
+211,2020-08-21 21:51:48+00:00,1296928010629713923,cosmos,"📡 Cosmos Unchained: Bitcoin Peggy Showdown
+
+On 28th Aug at 2 PM PDT come join @chjango, @mhluongo, @mappum and @_prestwich for a discussion about @Bitcoin pegs: what is currently available and what is the future of Bitcoin pegging.
+
+Sign up here 👉 https://t.co/9XQ3IgCJw2 https://t.co/BsgnJtnnym",75,2,21,2020-08-21
+213,2020-08-24 14:34:52+00:00,1297905217728663554,cosmos,"Cosmos has been busy working on 🏗:
+🌐 IBC https://t.co/stwyne1w6w
+⚛️ Stargate https://t.co/iqReSGBYsb
+🌉 @ethereum bridge https://t.co/6nCo48TneP
+📝 smart contracts https://t.co/dyUPCT299S
+⚙️ @ethereum VM https://t.co/K1AbmLgbEk
+💫 Starport https://t.co/yBKutbnToi
+
+Onwards🔥 https://t.co/cguNLysBeU",154,11,57,2020-08-24
+214,2020-08-26 01:54:20+00:00,1298438599579443200,cosmos,"📡 Cosmos Community SDK Development Call
+
+On Aug 26 at 10:00 AM PDT come join @regen_network team for their monthly Cosmos SDK Community call in which they will be reviewing the technical roadmap and get feedback from the community. 
+
+Join meeting here 🎥 https://t.co/saAaiaQfAP https://t.co/exT4LBWMTN",38,0,7,2020-08-26
+215,2020-08-27 14:30:38+00:00,1298991314428551170,cosmos,"📡  Validators assemble! 👨🏻‍💻
+
+We have begun collecting keys from @cosmosvalidator for the Stargate-1 testnet, the first public integration of the Stargate upgrade for the @cosmoshub.🚀
+If you want to participate, make sure to submit your PR here 👉https://t.co/5JOwcLppdc https://t.co/DPAGjf8eCI",70,0,18,2020-08-27
+218,2020-08-28 16:19:31+00:00,1299381104948981766,cosmos,"👨🏻‍💻 Code with Us - Front end name service application
+
+On Aug 31st at 8pm EEST, come join @billyrennekamp to learn how to build front ends that interact with Cosmos SDK apps using the Name Service application as the running backend.
+Register here 👉 https://t.co/UijGc4qTRH https://t.co/NIyXzvH3YS",37,0,6,2020-08-28
+221,2020-08-31 12:22:16+00:00,1300408564750716930,cosmos,"🔉Today at 7am PDT join @AltheaNetwork dev team for the latest updates regarding Peggy, the Cosmos &lt;-&gt; Ethereum bridge. ⛩️
+The team will be providing details on their work on Peggy and will be offering help for onboarding new developers.
+Join here 🎥 https://t.co/TthGx9DAmU https://t.co/6iJ3iXbiTc",40,0,17,2020-08-31
+224,2020-09-01 19:29:33+00:00,1300878478548533256,cosmos,"👨‍💻 Did you miss the last Code with Us workshop that was hosted by @billyrennekamp yesterday?
+No worries, here is the replay! 👇📽️https://t.co/dmWbffBE3b
+
+Make sure to press play to learn how to build front ends that interact with Cosmos SDK applications. 🏗️ https://t.co/pA1pZIvFfs",23,1,3,2020-09-01
+225,2020-09-02 13:36:08+00:00,1301151926084677638,cosmos,"📞 Today at 11am PDT join @AltheaNetwork on a discussion a/ bringing Peggy, the @ethereum &lt;-&gt; @cosmos bridge, onto @cosmoshub.
+ 🎥 https://t.co/omYynbBefx
+
+Learn the design decisions that motivated the @unifidao proposal here👇
+📌https://t.co/0CHSPC5EAe
+📌https://t.co/HwNqOODJbI https://t.co/O0wQP7aeYy",30,0,9,2020-09-02
+227,2020-09-05 14:27:03+00:00,1302251906518126592,cosmos,"🔊HackAtom India: Build the Cosmos is here! 🥳
+
+The first @Cosmos virtual hackathon for developers in India to begin their journey into the @Cosmos ecosystem, has opened registrations!
+
+Main themes:
+📌#DeFi
+📌Interoperability
+📌Open Innovation
+
+Apply now 👉https://t.co/z1v61UG3wX https://t.co/JnCRolvQDn",55,3,19,2020-09-05
+228,2020-09-07 09:02:05+00:00,1302894900124495877,cosmos,"📡 AMA with @HuobiAfrica 
+
+On Sept 11th at 7 pm WAT / 11 am PDT come join @chjango on a journey about all things Cosmos.
+
+💰300$ in #Atoms provided by Tendermint
+Join  👉 https://t.co/nFZOWOuY5e
+
+Add the questions you have for @chjango to this thread for a chance at the prize! 👇 https://t.co/LN7OzRJdrH",43,70,16,2020-09-07
+229,2020-09-08 21:23:57+00:00,1303443983184596992,cosmos,"📡  Cosmos Unchained: DEXs vs CEXs
+
+On Sept 23 at 3pm PDT come join @ErikVoorhees | @ShapeShift_io , @shaunbconway | @ixoworld and @chjango | @cosmos | @tendermint_team to discuss the differences b/w decentralized &amp; centralized exchanges.
+
+Register here  👉https://t.co/HeBW4owhgS https://t.co/REYsHg0i2d",41,1,9,2020-09-08
+231,2020-09-09 10:14:53+00:00,1303637995011084290,cosmos,"👨🏻‍💻 Code with Us - Building a Composable #DeFi Contract
+
+On Sept 11th at 6:30pm EEST @kate_sills from @agoric will walk you through building an “over-the-counter” market maker by combining DeFi legos to rapidly produce a new DeFi dapp.
+
+Sign up here 👉https://t.co/lRLgqyKrI4 https://t.co/REyRFDBQu3",51,1,13,2020-09-09
+233,2020-09-10 15:02:16+00:00,1304072705952624642,cosmos,"📡 Stargate AMA coming soon in 1h! 🥁
+
+Today at 16:00 UTC (9am PT / 12pm ET / 6pm CET) come join @cwgoes, @_tessr and @zmanian on an AMA about all things Stargate, organized by @StakingHub.
+
+Location 👉 https://t.co/epO81kYIcu 
+Add your questions here 👉 https://t.co/mAhqn8BZom https://t.co/XOEsJ04gLT",40,1,5,2020-09-10
+234,2020-09-11 12:01:32+00:00,1304389613595787264,cosmos,"🔊 AMA with @HuobiAfrica coming today!
+ 
+Last chance to add your questions for @chjango ! Go to the thread and ask away!👇
+
+💰300$ in #Atoms provided by Tendermint for the participants
+Join here 👉 https://t.co/nFZOWOuY5e https://t.co/2iHKQCXjFK",14,1,3,2020-09-11
+237,2020-09-13 18:51:46+00:00,1305217625711087617,cosmos,"Telegram winners for best asked questions - pool prize 90$ 
+
+📌Nickkiii
+📌Temidayo16
+📌Capcosmos
+📌MagnatBTC
+📌Abimbola221
+📌EnajiteNg x2 
+📌Idee01
+📌CryptoZaratustra
+
+Next👇",7,1,0,2020-09-13
+240,2020-09-14 08:39:58+00:00,1305426050751565825,cosmos,"📞 Today at 9 am PDT join the dev standup for the Peggy project, the @Cosmos &lt;-&gt; @Ethereum bridge, lead by the @AltheaNetwork Peggy dev team. 
+
+ 🎥 https://t.co/GUB7PGqL75
+
+This week's main topic: 📌end-to-end operation of the validator set update flow
+https://t.co/HCiqUI9STG https://t.co/Ks8mljaMdj",42,0,12,2020-09-14
+242,2020-09-16 22:08:28+00:00,1306354289544015872,cosmos,"🛰️ Cosmos Space Station paging Mission Control 📡
+
+T-minus 29 days to HackAtom V
+
+Program set to beam worldwide, over every timezone, in multiple languages.
+
+Are you ready, Cosmonaut?
+
+👨‍🚀👩‍🚀 Enlist 👉 https://t.co/VSEB4yNfbZ
+
+#hackathon #cosmosisworldwide https://t.co/iqh2bBwyA0",183,15,67,2020-09-16
+243,2020-09-17 14:02:29+00:00,1306594377909714945,cosmos,"🔑 Security incident report
+
+⚠️ Reported issue 👉 Security breach: takeover of https://t.co/fnQZLigB5C subdomain which affected our DNS. 
+
+✅ Action completed 👉 The DNS record has been removed.
+
+Read the detailed report by @alessiotreglia here 👉 https://t.co/nZv2OI2Tnc https://t.co/99G6HniMxc",19,0,7,2020-09-17
+244,2020-09-18 22:30:46+00:00,1307084679888207877,cosmos,"Cosmos Unchained is closing out its season finale with a bang 💥🧨
+
+Join @ErikVoorhees, @SBF_Alameda, @zhusu, @chjango and @sunnya97 for a CeFi vs DeFi party 🥳🎈🎉
+
+🗓️ Wednesday, Sept 23 11pm UTC https://t.co/hpUFDAbErJ
+
+Party on, Garth 🤘 https://t.co/gUdOEcyTto",79,5,24,2020-09-18
+245,2020-09-22 18:53:55+00:00,1308479656190857216,cosmos,"On the topic of #DeFi in Cosmos:
+
+A thought piece by @bond_dog51 on distribution curves, a new cryptoeconomic primitive designed to modify behavior in bonding curves
+
+It explores equilibriums &amp; design. Things get interesting when factoring in staking 🥩
+
+📌https://t.co/pfvZKONTjW",26,0,7,2020-09-22
+246,2020-09-23 23:02:34+00:00,1308904618672431106,cosmos,Cosmos Unchained Season Finale: DeFi vs CeFi Party! https://t.co/14rdjruidU,36,2,9,2020-09-23
+250,2020-09-24 19:03:45+00:00,1309206907169599488,cosmos,'The Future of the Cosmos Hub' Community Call #2 https://t.co/0kQKg2PHJ8,43,2,5,2020-09-24
+251,2020-09-25 20:21:23+00:00,1309588835203010561,cosmos,"🔊 Akash Network Mainnet launch! 🚀
+
+Congratulations to the entire team from @akashnet_  and their great community for a successful decentralized mainnet launch! 
+
+Akash DeCloud, staking and governance operations are now here https://t.co/LMZKTmOjnT 🥳 https://t.co/fKKiByvrUh",27,2,12,2020-09-25
+252,2020-09-29 20:30:28+00:00,1311040670753316865,cosmos,"📢 Test the Stargate!
+
+Hey you wallets, explorers, exchanges &amp; validators, are you Stargate ready? 💪 
+Confirm your readiness for Cosmos Stargate-3 Testnet 👉 https://t.co/G7LdVQKYzW to be featured on the Stargate Wall of Fame!
+
+Read a/ what you need to do https://t.co/Li9K2urnCN https://t.co/r7zSVXdetc",50,1,16,2020-09-29
+253,2020-09-30 16:27:28+00:00,1311341904840318976,cosmos,"🔊 Cosmos Community-SDK Development Call 
+
+Come join @regen_network in 30 min for a new edition of the monthly Cosmos-SDK Community call!
+
+The team will review the technical roadmap and get feedback from the community.
+
+👩🏻‍💻👨🏽‍💻Details to join 👉https://t.co/o7jmHFclEU https://t.co/lgeu06Fmif",21,0,4,2020-09-30
+255,2020-10-01 18:04:47+00:00,1311728782399680513,cosmos,"📡 Rosetta API, an open-source spec &amp; set of tools developed by @Coinbase, makes integration with blockchains simpler, faster &amp; more reliable by establishing a standard API.
+Read how you can enable a standard API to your @cosmossdk app by @jonathangimeno 👉https://t.co/4v1D4WyfR8 https://t.co/qkOCyyumQU",61,0,18,2020-10-01
+257,2020-10-02 14:09:45+00:00,1312032025692512257,cosmos,"📡 AMA w/ Vietnam Blockchain Community
+
+On Oct 5th at 8 pm PDT come join @chjango on an AMA about Cosmos with @kyle_vbc.
+
+💰300$ in #Atoms provided by Tendermint
+Join  👉 https://t.co/fAdEl0JCEV
+
+Add the questions you have for @chjango to this thread for a chance at the prize! 👇 https://t.co/jFlvE2ijpG",75,202,46,2020-10-02
+258,2020-10-06 22:52:42+00:00,1313613179570839557,cosmos,"📞 Agoric Community Call 🎲
+
+Tap into @agoric's JavaScript smart contract platform to build, deploy and operate your own dApps &amp; DeFi Markets.
+Learn more in their 1st community call 👇
+⏰ Oct 7th @ 6pm UTC+2
+☎️ https://t.co/u1OVaRrh5i
+Start building 🏗 https://t.co/pWNgZ2mOT7 https://t.co/NA66LoTNNR",20,0,8,2020-10-06
+259,2020-10-08 13:26:04+00:00,1314195358369677318,cosmos,"📡 Stargate Bug Bounty Program
+
+With the Stargate testnet release candidate ready to be launched, Cosmos announces the Stargate Bug Bounty Program to help identify critical bugs in the software release.
+
+Read more a/ it and how you can get involved here 👉https://t.co/FSKrOlyv66 https://t.co/oo7UpajWNy",60,3,15,2020-10-08
+261,2020-10-09 21:36:20+00:00,1314681126179479552,cosmos,"🔊 Hackatom V 🤝 Cosmos store
+
+Hackatom V fever is here! 👨‍🚀
+Register now and get a $5 gift card on the Cosmos store to use for your favorite @cosmos swag!
+Sign up 👉https://t.co/KgeSkCZ7Si ✍️
+Browse through the store 👉https://t.co/WhxmMk9RMp 🛍
+Limited 🔢 first 300 signups https://t.co/zyCheFkUNM",13,0,4,2020-10-09
+262,2020-10-10 16:56:55+00:00,1314973193833242627,cosmos,"📡 AMA w/ Binance South Africa
+
+On Oct 13th at 12 pm PDT come join @chjango on an AMA about Cosmos with @BinanceAfrica .
+
+💰300$ in #Atoms provided by Tendermint
+Join  👉 https://t.co/r3YqJXhblc
+
+Add the questions you have for @chjango to this thread for a chance at the prize! 👇 https://t.co/PeCAerHWyD",80,171,33,2020-10-10
+263,2020-10-11 20:58:06+00:00,1315396279841759233,cosmos,"Telegram winners -Cosmos Quiz-pool prize 100$ 🤑
+📌Ferlee
+📌Kathdm
+📌mrdarkest
+📌chesleypey
+📌infinite_crypto
+📌mrbut88
+📌moon258
+📌Hoang_NamV
+📌soltower
+📌rollker
+
+Be there for the next #CosmosAMA! 🚀",4,1,0,2020-10-11
+268,2020-10-12 16:02:04+00:00,1315684169041817603,cosmos,"🎙https://t.co/8y8PKwhJ9w new episode
+
+On October 12th at 12 PM PDT come join @chjango and @cwgoes on a new https://t.co/8y8PKwhJ9w episode with @tarunchitra from @gauntletnetwork on a conversation about Staking Derivates.
+
+🎥 Join live here  👉 https://t.co/KZjWLM5Wws https://t.co/UOXVTsSu9J",26,1,7,2020-10-12
+270,2020-10-13 23:47:23+00:00,1316163656657272839,cosmos,"👨🏻‍💻 Code with Us: Proof of Authority SDK Module
+
+On Oct 15th @ 11:00am PDT come join Paddy McHale, Protocol Dev at @tendermint_team, to learn how to swap out the Staking consensus Module in the Cosmos SDK in favor of a Proof of Authority one.
+Sign up 👉https://t.co/O7YDV3GS2X https://t.co/cmIa15LMN6",27,2,5,2020-10-13
+271,2020-10-14 17:11:05+00:00,1316426311448002560,cosmos,"📡  7 teams, One goal: The Stargate Upgrade!
+
+Shipping complex software in coordination with various organizations can become challenging, but @cosmos teams have successfully worked together and launched the final version of the Stargate Upgrade! 🚀
+
+✍️ https://t.co/7TIGjpsrO3 https://t.co/czYmW7wWeB",114,1,31,2020-10-14
+273,2020-10-15 01:48:53+00:00,1316556618776018944,cosmos,"Brent leads strategy @tendermint_team. He guides strategic investments &amp; Cosmos ecosystem dev. Brent contributed to Ethereum as an early @Consensys employee &amp; is an advocate of DeFi in Cosmos.
+
+Brent is judging HackAtom V. Ask him Q's about DeFi
+
+Register: https://t.co/VSEB4yNfbZ https://t.co/dImEe258Oy https://t.co/yEs7UA43r7",19,0,2,2020-10-15
+278,2020-10-16 22:30:31+00:00,1317231475041841152,cosmos,"Ethan Buchman is CEO @informalinc, co-founder of Cosmos &amp; @tendermint_team &amp; is VP @interchain_io. He's driven to empower humans with new ways to coordinate and reach agreement at scale.
+
+@buchmanster is judging HackAtom V. Ask him about dist. systems!
+
+👉 https://t.co/VSEB4yNfbZ https://t.co/CIh4ymjc2V https://t.co/xXqyhfDDZz",16,1,2,2020-10-16
+287,2020-10-17 08:26:05+00:00,1317381356880527360,cosmos,"📢 HackAtom V workshop: Starport (Russian)
+
+✍️ Создать блокчейн за 5 минут с помощью Starport
+🗓 Oct 17th, 1 PM MSK
+👨‍🚀@fadeev @tendermint_team 
+📌 Создай блокчейн для доказательства существования файла с помощью Starport
+
+Join live workshop here 🎥 https://t.co/NHRUDXn5WD https://t.co/d27A9jA02H https://t.co/9tdbNGxt7m",16,0,9,2020-10-17
+292,2020-10-18 01:03:05+00:00,1317632258963111936,cosmos,"📢  HackAtom V workshop: Starport (Chinese)
+
+✍️ Starport—5分钟搭建区块链
+🗓 Oct 18th, 2PM CST
+👨‍🚀 Da Huo 霍达 @irisnetwork 
+📌 使用Starport工具快速搭建区块链
+
+📌 https://t.co/nOR36Rl4ZM
+📌 https://t.co/yBKutbnToi
+
+在这里加入现场研讨会 🎥 https://t.co/0kUFBbwwOY
+
+#HackAtomV https://t.co/agxkrrZ8lU",20,0,8,2020-10-18
+295,2020-10-19 22:05:41+00:00,1318312389343924225,cosmos,"⚔️Cosmoshub-test-stargate 
+Coming soon 🔜
+As Stargate introduces new command lines, REST architecture &amp; many more breaking changes, it is crucial that validators are familiar with the upgrade process so all @cosmoshub validators are encouraged to join this upcoming testnet! 🚀",4,0,3,2020-10-19
+304,2020-10-21 17:13:29+00:00,1318963632227713024,cosmos,"⚙️ The goal of simulations is to detect failures that could halt a chain and provide as much detail as possible, such as log files and the application state at which a failure occurred.
+Read why and how we are testing Stargate with software simulations 👉https://t.co/nj7sgph1h4 https://t.co/AhvjU7bkb6",39,0,11,2020-10-21
+305,2020-10-22 13:54:56+00:00,1319276052154249216,cosmos,"☎️ #HackAtomV Office Hours w/ @agoric 
+
+For all the coders out there building their #DeFi dApps in Cosmos for #HackAtomV using @agoric Alpha, come over #HackAtomV @cosmos discord channel today during 9am PDT -12pm PDT &amp; get your questions answered.
+
+Join https://t.co/fuwAhNKDdJ https://t.co/sZUL3BP5Mz",16,0,5,2020-10-22
+306,2020-10-23 17:21:45+00:00,1319690487373193216,cosmos,"📢  HackAtom V workshop: Cosmovisor
+
+✍️ On-chain upgrades
+🗓 Oct 23th, 6PM UTC
+👨‍🚀 @sarenspeaks @tendermint_team 
+📌 Learn how to configure on-chain upgrades using the upgrade module &amp; cosmovisor
+
+Join workshop 🎥https://t.co/jEOB7VKS9W
+📌 https://t.co/edRjOE35CC
+#HackAtomV https://t.co/I3A7nSJZZY",26,0,4,2020-10-23
+307,2020-10-26 14:11:11+00:00,1320729691628687360,cosmos,"🎓 #HackAtomV mentors 🎓
+
+We're in the last week of #HackAtomV and the submission term is just 5 days away!
+If you need help in getting your project across the finish line, head over @cosmos Discord channel, connect with the mentors &amp; ask them for help!
+👉 https://t.co/fuwAhNt2mb https://t.co/b7OQ6BMMYU",45,1,12,2020-10-26
+308,2020-10-28 20:16:08+00:00,1321546312228261888,cosmos,"✍️ To all the teams working hard to finalize their #HackAtomV project, we have a surprise in store for you! ⭐️
+For each viable working product submission sent until 7:00pm UTC Oct 30, we will be awarding each team with a $50 card to spend on swag on https://t.co/CnY8XO6k5a 🛍 https://t.co/Ux3egAoUEP",24,1,1,2020-10-28
+310,2020-10-29 19:03:50+00:00,1321890503416254466,cosmos,"We are starting now!
+
+Join @dogemos , @Ether_Gavin , @serejandmyself , @sunnya97 &amp; Ethan Frey to discuss @cosmoshub's funding mechanisms and the role of governance👇
+🎥https://t.co/o7bb6hLq4z https://t.co/1xUnnSNsCV",21,1,2,2020-10-29
+313,2020-10-30 19:09:23+00:00,1322254289033695232,cosmos,"🏆Community Choice Award - Most likes on Devpost submission by 8 PM (UTC), Nov 6th – awarded to one project.
+⭐️ $3,000 in ATOMs https://t.co/kOZ56yzJcu",5,0,0,2020-10-30
+319,2020-11-02 11:57:31+00:00,1323232769925959684,cosmos,"👨🏻‍💻 Code with Us: Create your own Automated Market-Maker
+
+On Nov 3rd at 17:00 CET come join @shaunbconway | @ixoworld &amp; @MiguelDingli | @Simply_VC to learn how to make your own Automated Market-Maker, using the new Cosmos SDK Bonds Module.
+
+Sign up 👉 https://t.co/hWREoYv3Ig https://t.co/qMpLKRWOGo",24,2,6,2020-11-02
+320,2020-11-03 12:43:34+00:00,1323606745000890368,cosmos,"🗳 Community Choice Award Vote
+
+HackAtomV has ended! ⭐️
+Now it's your chance to vote for your favorite submission! The project which receives the most likes on Devpost by 8 PM (UTC), Nov 6th, wins the community choice award of $3,000. 💰
+ Vote here  👉 https://t.co/athww7mRhy https://t.co/eculEKKW3H",17,1,2,2020-11-03
+324,2020-11-04 16:25:55+00:00,1324025090791661568,cosmos,"⭐️ Meet the Cosmos India #HackAtom winners! ⭐️
+
+Event's details on the winning teams and the projects they have built, in @PersistenceOne's recap here 👇 https://t.co/VHkglwt5Yr",15,0,2,2020-11-04
+326,2020-11-05 23:16:39+00:00,1324490844729184256,cosmos,"🗣 Cosmos AMA w/ @binance Cameroun
+
+On Nov 10th at 10 pm PDT join @chjango on an AMA a/ Cosmos w/ @binance Cameroun.
+
+💰300$ in #Atoms provided by Tendermint
+Join  👉 https://t.co/yAITMWKBit
+
+Add the questions you have for @chjango to this thread for a chance at the prize! 👇👇 https://t.co/kXDENaoHEG",48,46,14,2020-11-05
+327,2020-11-06 17:03:57+00:00,1324759436741795841,cosmos,"🔊 @ethermint Supports Web3 Personal API
+
+For Ethereum keys and signing to be compatible with @ethermint, a Web3 Personal API needed to be implemented in #Ethermint.
+
+Read more about @ChainSafeth’s work on this and why this is so important  for @cosmos  👉 https://t.co/L7liNudIDg https://t.co/WW0ZfK21oU",58,1,23,2020-11-06
+328,2020-11-09 15:40:30+00:00,1325825600880324608,cosmos,@catdotfish @luniehq https://t.co/vb77moUGl2,2,0,0,2020-11-09
+331,2020-11-10 13:29:19+00:00,1326154973848219648,cosmos,"🗳 Time to cast your vote for #Prop30 !
+
+Proposal to ""Adjust Blocks Per Year to 4.36M"", submitted by @buchmanster | @CephalopodEquip on @cryptojoedirtay's draft, will make the new $ATOM issuance rate calibrated to the reported inflation one.
+
+Details ✍️ https://t.co/MOTrBHqmyu https://t.co/x5cMlhaqtK",36,1,7,2020-11-10
+332,2020-11-13 19:27:20+00:00,1327332235096231939,cosmos,"👨🏻‍💻 Code with Us: Distributing your blockchain as Hardware
+
+On Nov 16th at 10 am PDT @gadikian will show you how to use the device image generation features in #Starport to cheaply, widely and securely distribute your blockchain apps.
+
+Sign up 👉 https://t.co/ZnbuFprKlf https://t.co/LcuNLgU4c1",23,1,10,2020-11-13
+333,2020-11-16 17:54:32+00:00,1328396045102051329,cosmos,"👨🏻‍💻 Code with Us: Distributing your blockchain as Hardware
+
+We are starting in 5 min! Join us live here 🎥 https://t.co/jTNI5P6sMv https://t.co/pxG5AXxVBo",17,0,2,2020-11-16
+337,2020-11-17 22:46:48+00:00,1328831983858966530,cosmos,"🔊CosmosHub Stargate Testnet is here!
+
+⚠️Attention all validators⚠️
+We will open up a 48h window for the @cosmosvalidator who did not submit a replacement key for the Hub's testnet to provide one.
+
+⚠️ We will only be swapping consensus keys; operator keys must be mainnet keys. 👇 https://t.co/QvNtUOVhI9",42,1,9,2020-11-17
+339,2020-11-18 22:50:24+00:00,1329195280722501643,cosmos,"👨🏻‍💻 Submit your replacement keys for the cosmoshub-test-stargate-b!
+
+⚠️Attention all @cosmoshub validators⚠️
+The 48h window for submitting your replacement key is opening now and closes Nov 20th, 11 PM UTC!
+Here are the final instructions on how to join! 👇
+https://t.co/oHyBqN45fb https://t.co/3Df5I2Yhsm",69,4,30,2020-11-18
+341,2020-11-19 22:06:58+00:00,1329546735593590784,cosmos,"@cjremus @zmanian @meanderto @cosmoshub Yes, this is particularly designed for Cosmos Hub's validators. See details of all Stargate testnets here 👉 https://t.co/iqReSGBYsb",0,0,0,2020-11-19
+343,2020-11-22 09:02:13+00:00,1330436409895903235,cosmos,"🔊 cosmoshub-test-stargate-c has started! 
+
+⚠️Attention all @cosmoshub validators! The genesis for the Hub's Stargate testnet has been published! 
+👉https://t.co/ASunCLj7JW 
+👉https://t.co/oHyBqN45fb
+
+@cosmosvalidator start your engines and signal your participation here👇 https://t.co/mztZesDzPr",83,27,18,2020-11-22
+344,2020-11-23 15:00:36+00:00,1330888991554547716,cosmos,"🎙 https://t.co/qkKlIkAUXP: Ethermint
+
+This Wed, tune in a new https://t.co/qkKlIkAUXP episode to find out what's @ethermint's current development and what comes next.
+⭐️ Guests: Aidan Hyman &amp; Colin Schwarz @ChainSafeth 
+🗓 Nov 25th, 12:30pm EST
+🎥 Join https://t.co/D29QSkz83e https://t.co/dl7uK6Xu7u",23,3,8,2020-11-23
+345,2020-11-24 18:36:35+00:00,1331305730960465931,cosmos,"⚠️Attention all Cosmos Hub validators⚠️
+We are now at 63% voting power and waiting for some more validators to join to reach the consensus of 66.67%. 
+Did you submit a replacement key &amp; did not come online? That means we are waiting for you! Instructions 👉https://t.co/oHyBqN45fb https://t.co/IvUJo8BomD",30,0,7,2020-11-24
+346,2020-11-25 23:12:15+00:00,1331737492987518979,cosmos,"🔊 @cosmossdk v0.39.2 has been released!
+Update your #launchpad projects for some nice additions!
+👉 denom custom validation
+👉Tendermint v0.33.9
+👉 Extended build information and output
+
+Check out the blog post with the full list of updates here
+https://t.co/Girpo23dsp https://t.co/lsEliopWyX",39,0,5,2020-11-25
+352,2020-11-26 22:56:59+00:00,1332096038262497283,cosmos,"🔊The Lunie Light wallet for @cosmoshub is here!
+Try it out with your @cosmoskeplr wallet or @Ledger device now!
+👉https://t.co/FvlZZzqJnj
+
+Read a/ its features &amp; the work that @tendermint_team, @interchain_io &amp; @luniehq did to support the #Atom holders 📝https://t.co/oPs7GhaQzg https://t.co/sqEP8EjzSQ",45,1,8,2020-11-26
+355,2020-11-27 13:02:00+00:00,1332308695234076677,cosmos,"🔊Big Bang Testnet-2
+
+Attention all validators! The Big Bang Testnet, the community-led testnet aimed at the wider Cosmos ecosystem &amp; independent zone developers is restarting.
+Instructions 👉https://t.co/OrqQK96of4
+🧱Halt-time setting: 1606489200
+🗓Fri, 27 Nov, 15UTC
+Join now!🚀 https://t.co/5QDHcAffY2",58,4,22,2020-11-27
+356,2020-12-01 02:26:50+00:00,1333598401838133248,cosmos,"Hey $ATOM holders! Are you interested in voting on @sikkatech's Prop 31 and 32, concerning Governance Split Votes? @lukitsbrian just deployed an update to Lunie that enables voting on proposals. Have your voice heard now:
+
+📜 https://t.co/r0LTNmYk2P
+📜 https://t.co/Dm3VdqPY9g",41,3,9,2020-12-01
+358,2020-12-02 15:52:42+00:00,1334163591101034496,cosmos,"🔊 During Dec 2nd-4th, make sure you join the CSCON[0] conference by @ChainSafeth to meet the devs working to bring Web3 to the mainstream.
+Special participation of Core @cosmos Builders from @informalinc, @interchain_io &amp; @tendermint_team.
+
+🎟Free Tickets https://t.co/mVykD9svuN https://t.co/DpZsyGOKZ1",26,0,6,2020-12-02
+359,2020-12-04 22:22:18+00:00,1334986413629173763,cosmos,"👨🏻‍💻 Code with Us workshop:  How to Build More Secure dApps with Secret Network
+
+On Dec 8th at 5PM UTC make sure you join @SecretNetwork team on a new Code with Us workshop to learn how to build a Secret Voting dApp from A to Z.  
+
+Register here 👉https://t.co/QE5Wvjbq1i https://t.co/TkcIvHGiPW",49,4,23,2020-12-04
+360,2020-12-08 17:10:20+00:00,1336357454058283008,cosmos,"🎥 Code with Us workshop with Secret Network is live! 🚀
+How to Build More Secure dApps with @SecretNetwork.
+
+Join the team to learn how to build a Secret Voting dApp from A to Z.
+Join us here now 👉 https://t.co/w6tMkDY0Yz https://t.co/s4KUG4OPrg",33,2,5,2020-12-08
+365,2020-12-11 18:29:40+00:00,1337464583200583681,cosmos,"🚀#HackAtomV brought together teams from all over the world that submitted projects like Balancer-like pools, API Tools, games, supply management &amp; NFT Marketplaces. 
+
+Learn more about the winning projects &amp; the @tendermint_team's fellows grantees here👇
+https://t.co/pPu6gJHltV https://t.co/4BGyaSH1fr",20,0,3,2020-12-11
+366,2020-12-12 16:31:01+00:00,1337797112235487234,cosmos,"🗣 Going live in 3,2,1! 🚀
+
+The most expected @Cosmos Conference of the year is finally here! 🚦
+Catch a glimpse into the future of Cosmos by joining us at Interchain Conversations II on Dec 12th-13th.
+Did you register yet? Get your free ticket now 👇
+https://t.co/PYLtJlQX77 https://t.co/msfnIzxWAS",68,4,13,2020-12-12
+367,2020-12-13 02:58:56+00:00,1337955134366691330,cosmos,"We're just warming up! 🚀
+⭐️ Interchain standards
+⭐️The Role Of End-User Apps 
+⭐️Interchain Services- the ""HTTP"" of Blockchains
+⭐️Interchain accounts &amp; Keplr wallet
+⭐️Secure Enclave Signing w/ the Tendermint KMS
+⭐️Decentralized Social Networks 
+Tune in 🎥 https://t.co/Z7733YLbkf https://t.co/lrNuuqrZSI",10,0,4,2020-12-13
+368,2020-12-14 22:15:46+00:00,1338608646238973952,cosmos,@CryptoREI Youtube full playlist coming up soon🔥,0,0,0,2020-12-14
+369,2020-12-15 16:04:45+00:00,1338877665730830338,cosmos,"Phase 2️⃣:
+A 2nd parameter change proposal must be passed by t/ Hub's governance in order to activate cross-chain transfers &amp; it will be up to governance to decide when they are ready. Once activated, IBC transfers are completely permissionless.
+
+See you on the other side of #IBC!",43,0,9,2020-12-15
+374,2020-12-18 11:56:22+00:00,1339902322198114308,cosmos,"🛠 Cosmos Engineering Updates 🛠
+
+Get a glimpse of the latest developments updates from different projects working on various parts of the @Cosmos stack.
+This edition: #Stargate, #IBC, #Tendermint @cosmossdk , #Peggy, @CosmWasm , #Starport, @ethermint 👇
+📰https://t.co/kHb2hRqfik https://t.co/y0oGtO5JLo",60,3,20,2020-12-18
+375,2020-12-31 18:40:36+00:00,1344715093825761283,cosmos,"In 2020, we've seen how @cosmos became more user friendly, embraced a flexible dev environment &amp; made the final steps towards the Internet of Blockchains!
+2020 was the year things got built. 2021 is when these things will shine💫
+Happy New Year cosmonauts!
+https://t.co/urIMBtzHaf https://t.co/LGsQqzFC2u",198,17,53,2020-12-31
+376,2021-01-04 21:53:47+00:00,1346213262094987271,cosmos,"🔊 Proposal #33 🌔Luna Mission: Funding #ATOM 
+
+In an effort to increase awareness of the value proposition of the $ATOM, the community proposes an allocation of 129,208 $ATOM from the community pool to fund educative initiatives.
+Join the discusssions👇
+https://t.co/bHcg1Xg9Y1 https://t.co/uMZB7Yg3em",117,4,41,2021-01-04
+377,2021-01-05 11:51:47+00:00,1346424150844432384,cosmos,"🔊 Introducing Peggy by @sifchain 
+
+Sifchain, a cryptocurrency exchange protocol built on Cosmos SDK, has successfully deployed a Peggy ( @Cosmos &lt;&gt; @Ethereum bridge) on its testnet.🚀
+
+Peggy’s implementation 👉 https://t.co/HdC77LHBsB
+Details 👉 https://t.co/Gwybn6YFfI https://t.co/rtapCUwCT3",107,3,46,2021-01-05
+381,2021-01-06 12:24:21+00:00,1346794734170361861,cosmos,"🔊Proposal #34 🌔Luna Mission: Funding #ATOM is in the deposit period!
+
+Attention: Proposal #34 for funding $Atom awareness initiatives is live!
+Step 1: deposit $Atoms to reach the min deposit of 512 $Atoms 💰
+Step 2: vote 🗳
+
+Review the details here: 👇
+https://t.co/ZcDhEhPRhy https://t.co/ogrFX6bQtn https://t.co/xsdw4cFuT5",55,1,12,2021-01-06
+382,2021-01-08 12:55:27+00:00,1347527337433296896,cosmos,"Status update? 🧮
+🚀 Mainnet 70
+📝 Proof Of Concept 50
+⚙️ Development 45
+⚔️ Testnet 32
+ ⚒ Beta 5
+✍️ Alpha 1
+
+🧐 Get inspired 👉
+ https://t.co/KNUMJ2widV
+
+⚒ Start building 👉https://t.co/Ms5hTx20S4
+
+💰 Need funding? Apply here 👇 
+https://t.co/gIiED3Mlzc
+https://t.co/RexMkTRaJJ",44,1,11,2021-01-08
+385,2021-01-09 19:35:43+00:00,1347990456605540354,cosmos,"Congratulations to all the contributors that throughout the years, made this vision possible! 🙏
+Cosmos would not be here today without all of your help!
+
+👉 First Github commit: June 2016, release Aug 2016 https://t.co/PuGv6goihZ
+
+👉 First Tweet: Nov 2016
+https://t.co/X1CbzXZlD1",77,8,16,2021-01-09
+388,2021-01-11 23:52:23+00:00,1348779823787859971,cosmos,"⚛️🐃 About @unifidao 🐃⚛️
+Bringing #DeFi to Cosmos Network
+
+Are you a Cosmos project or intend to support one?
+This is the place!
+
+📜UniFi DAO Manifesto
+https://t.co/7MesXgIHP0
+🌐Website
+https://t.co/PRbKwsY9EC
+💬Telegram
+https://t.co/OPnB0B5M5l
+🖋Sign Up
+https://t.co/8tbwMYim32",21,0,4,2021-01-11
+392,2021-01-12 22:35:27+00:00,1349122848607129601,cosmos,"Stargate upgrade: Time to Vote! 🗳
+
+🚨Attention all @cosmoshub validators and delegators🚨
+  
+The proposal for Cosmos Hub to upgrade to Stargate is live! 🚀
+
+⏰Details: Cosmoshub-3 to upgrade to Cosmoshub-4 on Thursday, Jan 28th at 06:00 UTC
+
+Read #prop35: https://t.co/UckmUQZplI https://t.co/EneCm65ya9",99,3,31,2021-01-12
+394,2021-01-13 15:44:56+00:00,1349381926243733505,cosmos,"The InterNFT Working Group is drafting a set of Interchain standards for Non-fungible Tokens w/ the mission to make NFTs interoperable across multiple blockchain and to enable ownership, control &amp; rights management of NFT metadata.
+Progress report here 👉 https://t.co/mVGaM43lJv https://t.co/2eDZ8C7sUS",94,1,29,2021-01-13
+395,2021-01-14 00:04:27+00:00,1349507636199358464,cosmos,"🔊 On Jan 15th @ 9:30 AM PT join the @akashnet_ CEO @gregosuri for an AMA on the @cosmos TG https://t.co/iH4hh8AN3j to talk a/ the decentralized cloud computing marketplace they are building on @cosmos, their incentivize testnets results &amp; more.
+Add your Qs for the team here!👇💰 https://t.co/ACy7SXAYgU",126,490,52,2021-01-14
+398,2021-01-20 15:58:22+00:00,1351922024843767808,cosmos,"🔊 New Cosmos SDK, Gaia and Tendermint releases are out!
+
+All chains currently running on Cosmos SDK v0.40 &amp; Tendermint Core v0.34.0 - v0.34.2 are adviced to upgrade! 
+
+‼️For the #Stargate Upgrade, Cosmos Hub Validators should choose Gaia v3.0.1 or later.
+
+Get the releases 👇 https://t.co/vOO7xCEbck",91,0,34,2021-01-20
+400,2021-01-24 15:55:32+00:00,1353370860095217664,cosmos,"🔊Proposal #36: Good things take time
+
+Stargate dev team has been hard at work in making sure the #Stargate Upgrade is a success.
+As per the latest testnets, the team is recommending that the CosmosHub reschedule the upgrade to Feb 18th as to include an improved user experience👇 https://t.co/5i9G2nK6Ve",189,13,56,2021-01-24
+403,2021-01-26 14:05:33+00:00,1354067959573057536,cosmos,"‼️If you are aware of such scammers, please REPORT them!
+
+@telegram we ask for your assistance in blocking the  https://t.co/EeZU5OEajq [slash] CosmosNetworkAtom channel as this is a scam trying to use t/ @cosmos brand for illicit activities.
+
+Always reach out to admins for help!",13,0,1,2021-01-26
+406,2021-01-27 11:21:33+00:00,1354389075101437955,cosmos,"‼️ Attention all Cosmos Hub validators‼️
+
+This is a reminder that the #Stargate Upgrade for the @cosmoshub initially planned for Jan 28th, was postponed until Feb 18th, according to governance #Proposal 36.
+
+For more details make sure you read 👉 https://t.co/DvmHYP2ONl https://t.co/w1dIAAYeof",87,3,26,2021-01-27
+409,2021-01-28 21:40:33+00:00,1354907237974732803,cosmos,"🔊 Proposal #37: Stargate Upgrade for Cosmos Hub!
+
+Good things take time or second time is a charm! 🙏
+
+The Stargate Upgrade proposal for Cosmos Hub to upgrade to Stargate is here!
+
+Date: 18th Feb 🚀
+Destination: Internet of Blockchains!
+
+Cast your vote  👉https://t.co/YmQWo9474R https://t.co/EnN3HEdQyB",225,13,94,2021-01-28
+410,2021-01-31 13:51:21+00:00,1355876325077045257,cosmos,"🔊 On Feb 3rd at 7 AM PT join the @emoney_com founder @mdyring for an AMA on the @cosmos TG https://t.co/iH4hh8jbEJ to talk about e-Money stablecoins, how they will seamlessly integrate fiat currencies into the Cosmos ecosystem &amp; more.
+Add your questions for the team here!👇💰 https://t.co/ZXKspyeAyT",130,265,38,2021-01-31
+411,2021-02-04 15:58:08+00:00,1357357784245932033,cosmos,"March 13th 2019, the day the Cosmos Hub was born!
+
+Since then CosmosHub-1, CosmosHub-2 &amp; CosmosHub-3 chains have been producing millions of blocks.
+
+This week, CosmosHub-3 chain hit a record of five million blocks being the longest CosmosHub chain since the mainnet went live. 🚀 https://t.co/7KfluVp6lM",181,4,52,2021-02-04
+412,2021-02-05 02:08:30+00:00,1357511388047036418,cosmos,"🔊 On Feb 5th at 2:20pm UTC+4 watch @fadeev, Director of Developer Experience at @tendermint_team, give an introductory talk in Russian about Tendermint, Cosmos SDK, IBC &amp; Starport during Блокчейн технологии — 2021.
+
+🌐 https://t.co/rVI3hrVpf7
+
+📝 Agenda https://t.co/vVVFE2BcDP https://t.co/czcvdIq6YU",71,1,15,2021-02-05
+413,2021-02-06 16:09:36+00:00,1358085445003988993,cosmos,"Stargate Upgrade, T-12 days!
+
+✅ significant performance improvements to blockchains built w/ Cosmos SDK
+✅ the biggest event since the launch of the Cosmos Hub
+✅ The Cosmos Hub is the 1st blockchain to support IBC in production
+
+Are you ready for the Internet of Blockchains? 🚀 https://t.co/FPoCIdMhSc",595,31,202,2021-02-06
+414,2021-02-09 12:40:31+00:00,1359119991300382720,cosmos,"🔊 Join us today at 1:20pm EST for the ""War &amp; Peace: The Multi-Chain Reality"" panel @EthereumDenver with @twobitidiot @MessariCrypto, @billyrennekamp @cosmos, @artazor @parsiq_net, @ASvanevik @NEARProtocol, @PAMauric @ParityTech, &amp; @mhluongo @thesis_co
+
+🎥 https://t.co/12f79VhEdM https://t.co/40fKQS8eSe",96,3,28,2021-02-09
+415,2021-02-10 16:12:23+00:00,1359535694759223305,cosmos,"How does it work ? 👇
+
+The liquidity module enables any user to create a liquidity pool with a pair of tokens, provide liquidity by depositing reserve tokens into the liquidity pool, and trade tokens using the liquidity pool.
+
+https://t.co/48AgDpPaiR",43,1,7,2021-02-10
+419,2021-02-12 18:13:53+00:00,1360291046631079943,cosmos,"🔊Time to code: New Gaia tutorial 🎉
+
+👩🏼‍🚀Developers or Service operators on the Cosmos Hub
+
+Learn how to spin up a local Gaia 4.0.0 testnet, use #CosmJS and send tokens on your own testnet #blockchain with #JavaScript in this tutorial by @ToschDev 👇
+
+⚒ https://t.co/BvQluOuYG9",135,5,58,2021-02-12
+420,2021-02-15 16:00:02+00:00,1361344527601176578,cosmos,"🏆 Prizes &amp; Categories
+20K USD valued in ATOMs from the Interchain Foundation + extra prizes for sponsored tasks provided by projects within the @cosmos ecosystem.
+
+🦄 Unicorn Prize: IBC &amp; DeFi
+🐱 Kitty Prize: IBC &amp; NFT
+🦊 Fox Prize: IBC infrastructure
+👥 Community Choice Award",43,1,8,2021-02-15
+426,2021-02-16 22:40:01+00:00,1361807573280776206,cosmos,"🚀 Cosmos, a 5 year journey into Stargate!
+
+The Stargate Launch coming on Cosmos Hub on Feb 18th gives birth to the Internet of Blockchains and the start of a new paradigm into the crypto space.
+
+Cosmos, we are Stargate ready! 🔥
+
+🗓 Mark the date  👉 Thursday 18th Feb 6AM UTC https://t.co/lLZ9EdELCP",1168,52,394,2021-02-16
+427,2021-02-17 10:26:20+00:00,1361985325069979650,cosmos,"🔊The Stargate Launch party 🎉
+
+The Stargate event is one for the history books. 
+
+On Feb 18 at 5:45AM UTC, join us live for the biggest event in the ecosystem since the launch of the Cosmos Hub, the Stargate Upgrade!
+
+Register and get your free seat now 👉https://t.co/NnrMYUCX0g https://t.co/aw8iSTBwlR",561,17,181,2021-02-17
+431,2021-02-18 02:49:15+00:00,1362232683888336897,cosmos,"📡 T-3h!
+
+Hope to see all of you to our Stargate Launch Party coming up in 3 hours! 
+
+Sign up for free here 🎥 https://t.co/NnrMYUCX0g https://t.co/DlqIaxxSEL",179,9,35,2021-02-18
+439,2021-02-19 17:26:11+00:00,1362815757093076997,cosmos,"🔊 Stargate is here! Let's bring the Internet of Blockchains to life! 🚀
+
+Are you one of the 200+ @cosmos projects which is implementing #IBC?
+Drop your message in this thread and confirm you are part of the revolution.
+
+How powerful is the Cosmos ecosystem?
+
+Join the #IBCGang👇 https://t.co/XAqScQf927",504,80,118,2021-02-19
+440,2021-02-22 16:27:11+00:00,1363888073457741826,cosmos,"We also want to remind you to NOT:
+❌ share your seed phrase with anyone
+❌ trust messages that requests you to verify your account by sending $ATOMs
+❌ join groups that promise airdrops 
+❌ click on non-official external links to sync your wallet
+
+Stay Safe everyone!
+
+🚨🚨🚨🚨🚨",95,7,17,2021-02-22
+442,2021-02-23 09:39:28+00:00,1364147856366592001,cosmos,"👨🏻‍💻 Code with Us: CosmWasm &amp; IBC cross chain contracts
+
+On Feb 24th at 2 pm UTC join the @CosmWasm team to learn the potential of IBC-integrated CosmWasm and what two different smart contracts on different chains can do with each other.
+
+Register here 👉https://t.co/BD0APwtqJS https://t.co/rtRJv6Jjcz",197,4,52,2021-02-23
+444,2021-02-24 08:21:10+00:00,1364490542097330182,cosmos,🔊 Updates from @imTokenOfficial for the $ATOM users! https://t.co/qaXgd9xzzF,65,1,8,2021-02-24
+448,2021-02-25 16:54:35+00:00,1364982133572386822,cosmos,"🔊 Congratulations to @irisnetwork for being the first mainnet establishing an IBC connection with @cosmos Hub!
+
+ 🎉$IRIS is coming to @cosmoshub 🎉
+
+ Welcome to the Internet of Blockchains!
+
+1 Mainnet done, 200+ to go! 👇
+
+https://t.co/blIES7iJyP https://t.co/ckvuFQss5w",194,6,49,2021-02-25
+450,2021-02-26 12:20:12+00:00,1365275469063553025,cosmos,"🚨 Scam alert 🚨
+
+Attention @cosmos community! There's a new scammer in town and it goes by the name of https://cosmoschain [dot] network/.
+
+Do not fall for their tricks! Remember that the official website for @cosmos is https://t.co/VMSN7ddZD2 !
+
+Stay safe out there! 🙏 https://t.co/mG5AxGKoOD",216,5,70,2021-02-26
+451,2021-03-01 13:43:25+00:00,1366383575633920010,cosmos,"🔊 @akashnet_  MAINNET 2 Pre-Launch Event happening on Friday March 5th 5PM UTC!
+Don't miss out! 👇 https://t.co/WksKSXtHvZ",200,6,56,2021-03-01
+453,2021-03-03 22:34:12+00:00,1367241927280713730,cosmos,"🔊Signal proposal: Gravity DEX on the Cosmos Hub
+
+ATTN @cosmos community of $Atom delegators &amp; validators, the governance proposal to add the Gravity DEX onto Cosmos Hub is live!
+
+🗳Play with the DEMO at https://t.co/TcUmHsLELV and vote until March 17th!
+
+https://t.co/rhbdc6QDEr https://t.co/lPOC1w2tiF",364,31,139,2021-03-03
+454,2021-03-05 18:18:12+00:00,1367902278481551361,cosmos,"🔊Catch @cosmos Co-Founder and @informalinc CEO, 
+@buchmanster on @APompliano podcast in a discussion about @cosmos and sustainable economic systems:
+- localism
+- sovereignty
+- interoperability
+- proof of stake
+- why standardization is so important
+Listen🎙https://t.co/j5eUAo4H83 https://t.co/oEIDplIoXC",189,6,42,2021-03-05
+455,2021-03-08 17:56:49+00:00,1368984062485032962,cosmos,"🔊 Congratulations to @akashnet_ team and community for a successful #AkashMAINNET2 launch!
+
+The mainnet is compatible with the #Stargate Cosmos SDK v0.41.0 and enables #IBC functionality!🎉
+ 
+Welcome to the Internet of Blockchains!
+
+Another Mainnet done, 200+ to go! 👇
+#IBCGang https://t.co/zIAdOHVmvU",257,6,61,2021-03-08
+456,2021-03-09 20:08:42+00:00,1369379640603774980,cosmos,"⚠️Attention all Cosmos Hub Validators⚠️
+
+🚨A critical security vulnerability has been identified in Gaia v4.0.x. that requires your full cooperation.
+
+JOIN US ASAP on https://t.co/Hx4PECqACF Cosmos✅validators-verified to coordinate w/ @shahankhatch.
+User funds are NOT at risk 🙏 https://t.co/eN5Ye47PjE",147,17,43,2021-03-09
+457,2021-03-10 19:44:07+00:00,1369735841220882433,cosmos,"🚨 Attention all Cosmos Hub Validators!
+
+The Gaia release v4.1.0 is out! Time to start upgrading your nodes!
+https://t.co/BBRyVb8aCf
+
+You don't need to update alone! Head over to the Cosmos Discord #validators-verified channel and coordinate with the other validators. https://t.co/BVflBUB0CV",180,5,41,2021-03-10
+461,2021-03-12 11:06:25+00:00,1370330331748917250,cosmos,"🔊 HackAtom RU: Meet the judges
+
+🎓 Sergey Simanovsky @serejandmyself 
+
+Manager of looking busy at @cosmos_voice. Stubborn decentralization maximalist. 'In the blocks' since 2011. Ecosystem developer and a rejected writer.
+
+Sign up 👉https://t.co/Ejz7ZbH23w
+
+💰 $43,000 prize pool https://t.co/TNs1lBXuly",66,1,11,2021-03-12
+468,2021-03-13 00:50:49+00:00,1370537798294462466,cosmos,"Once cross-chain transfers are enabled, IBC transfers are completely permissionless.
+
+IBC is a protocol for authenticated messages passing b/w heterogeneous sovereign blockchains that requires trusting the chains on both sides of the connection to operate w/ their security model.",51,1,9,2021-03-13
+474,2021-03-15 21:26:04+00:00,1371573435948802054,cosmos,"👨🏻‍💻How do you get from an idea to an industry leading software that powers over USD 60 billion in assets across 200+ chains and become the second most active ecosystem on Github following @ethereum, with over 1300 repos?
+
+Here is Cosmos's GitHub story and how history looks like 👇 https://t.co/DYsED5T4dV https://t.co/vHEVjhDQQz",396,14,150,2021-03-15
+483,2021-03-18 15:39:59+00:00,1372573505762516995,cosmos,"🔊 HackAtom RU is on!
+
+💰 $45,000 prize pool in $ATOMs &amp; other tokens
+
+👨🏻‍💻 Reminder: This hackathon is for both Russian &amp; English speakers. Everything will be available in both languages so all hackers can participate! 
+
+Check the full details &amp; register 👉https://t.co/CsBS5CcyRD https://t.co/Smx1tJTEej",124,7,32,2021-03-18
+485,2021-03-21 13:42:55+00:00,1373631206399561728,cosmos,"🎉 MEME Contest by @ATOMCosmonauts ! 🎉
+
+Cosmonauts, prepare your best memes! 👇
+
+$ATOM ⚛️ MEME Campaign 2021 part of #prop34 LUNA Mission 🌓 https://t.co/Vtl0iRhTtW",151,8,34,2021-03-21
+486,2021-03-22 15:14:22+00:00,1374016611468853250,cosmos,"👨🏻‍💻 HackAtom RU workshop!
+
+In 1h from now join us in a new HackAtom RU workshop with Yuiry Savchecnko from @everstake_pool to learn how to use @CosmWasm while building the Terra Wormhole bridge!
+
+Watch live here🎥 https://t.co/TSc66asqBr https://t.co/LtPdo8oCWs",67,0,15,2021-03-22
+488,2021-03-23 20:22:28+00:00,1374456532620832770,cosmos,"🔊 Without further ado, let's meet our community contributors! 👇
+
+https://t.co/OaEHkkMHAF
+
+A big shoutout goes to our incredible cosmonauts, for the amazing work they have done in Q3 and Q4 2020!
+
+Hurry up and submit your application for Q1 2021 👉https://t.co/gIiED43WqK https://t.co/mRQtg1wfNd",111,0,29,2021-03-23
+489,2021-03-24 13:32:33+00:00,1374715763408445445,cosmos,"🏗Time to build!
+👨🏻‍💻Interchain Exchange tutorial by @ratgh and @ToschDev
+
+The Interchain Exchange is a Cosmos SDK module that allows you to create, buy and sell orders in b/w blockchains. Learn how to swap tokens from one blockchain to another using #IBC.
+
+https://t.co/qygEe5Qb2R https://t.co/q5N6s7TGZA",136,5,40,2021-03-24
+491,2021-03-25 18:08:05+00:00,1375147490723381252,cosmos,https://t.co/zitFJXeqNb with @Sentinel_co live! https://t.co/pIJxCcFD78,124,4,32,2021-03-25
+495,2021-03-26 09:54:04+00:00,1375385555987537923,cosmos,"T-3 days! 🌐
+
+The world is waking up to an interchain future and the road to it runs through Cosmos.
+Inter-blockchain communication transfers are coming to @cosmos in T-3 days.
+
+👉 https://t.co/C8pDBniZDp
+
+#IBC #interchain https://t.co/FU7chB379c",441,22,104,2021-03-26
+497,2021-03-27 21:24:24+00:00,1375921673040498702,cosmos,"🔊HackAtom RU: last day to submit your project!
+
+ Bounties and tasks 👇
+
+🦄 Agoric Unicorn Task by @agoric 
+💰Amount: $2000 USD in ATOMs 
+Build a DeFi contract with oracles on Agoric.
+See full details 👉 https://t.co/rZMQ6UACJm https://t.co/AZ3xJFj96Y",30,1,3,2021-03-27
+510,2021-03-28 23:56:43+00:00,1376322390037254144,cosmos,"🔊 T-1 day!
+
+The Cosmos Hub is a port city, with trade routes to the largest blockchain economies. It’s a city that’s enriched by connection, supporting those with whom it connects.
+
+On March 29th the Cosmos Hub unlocks #IBC transfers and opens up its port to the Interchain! https://t.co/pKk32DpJjR",332,12,77,2021-03-28
+511,2021-03-29 12:09:51+00:00,1376506890847391753,cosmos,"🔊 #IBC is here! 
+
+March 29th 2021, the day the Interchain era began! https://t.co/kiDhRvXZ7F",254,8,66,2021-03-29
+524,2021-03-30 19:51:56+00:00,1376985563409039364,cosmos,"🔊 Governance proposal in discussion @ethermint GTM!
+
+To advance the @ethermint codebase to an EVM-compatible @Cosmos chain, @fekunze is launching a proposal to the $ATOM holders to support @ethermint's Go-To-Market plan.
+
+Discuss the proposal here 👉https://t.co/iri8kojQxi https://t.co/2v1ueuVx58 https://t.co/PdpNlep6tE",99,2,20,2021-03-30
+526,2021-03-31 18:18:20+00:00,1377324398730956800,cosmos,"🔊 Last 2 h to vote!
+
+You've seen the HackAtom RU projects, now it's time to vote for your favorite one under the community award!
+
+Demos🎥 https://t.co/WlFtBp0NBW
+
+Browse through the submissions 👉 https://t.co/z0SUW1j3dC and add your vote!
+
+💰 Winner gets $1000 USD in ATOMs.",66,0,9,2021-03-31
+530,2021-04-01 17:10:51+00:00,1377669801867419660,cosmos,"🔊 A new governance proposal by @B__Harvest &amp; @tendermint_team is up for discussion!
+
+The request is for the $ATOM holders to allocate 5,000 Atoms from the community pool as prize funds for the Gravity DeX Incentivized Testnet.
+
+Discuss the proposal here 👉https://t.co/Gq255z8oBz https://t.co/9VoPehFEn0",178,5,38,2021-04-01
+531,2021-04-02 12:50:15+00:00,1377966607557885955,cosmos,"👨🏻‍💻 HackAtom RU closing ceremony!
+
+Today at 7 PM MSK/ 4 PM UTC join us for the HackAtom RU grand finale. 
+We will make a retrospective of the hackathon and present the winners and the projects they have built with @cosmos.
+
+Do not miss out 🎥 https://t.co/PQovBAmvB7 https://t.co/WiLPnRMQf5",96,1,16,2021-04-02
+533,2021-04-07 20:41:19+00:00,1379897093951787020,cosmos,"🌌 Announcing the Gravity DEX Testnet Competition! 🌌
+
+Gravity DEX enables trades between any two Cosmos tokens -- a $90 billion market including $ATOM, $BNB, $LUNA and $CRO -- or any tokens beyond the ecosystem.
+
+Let's bring #DeFi to @Cosmos 🧵 👇
+
+https://t.co/9sHakcQPsn",674,33,263,2021-04-07
+539,2021-04-08 19:05:34+00:00,1380235387075985415,cosmos,"🔊https://t.co/C2SoawqDnj Ep. #15 Akash live now
+
+Join @chjango &amp; @cwgoes on a new episode of https://t.co/C2SoawqDnj with Akash Network to discuss how they are taking on AWS with decentralized cloud computing.
+
+https://t.co/9HnLyC42O5 via @YouTube",96,2,20,2021-04-08
+540,2021-04-09 10:47:36+00:00,1380472458751438849,cosmos,"🔊 HackAtom RU 2021 winners
+
+HackAtom RU, our 2 weeks @cosmos hackathon, zeroed-in on DeFi infrastructure, solutions, tools, NFTs, and other areas of DeFi, all with a pinch of IBC and a twist of Cosmos-SDK!
+
+Now, let's beat the drums &amp; meet the winners 🏆 https://t.co/ZPhzYPmLPV https://t.co/Q0fHh4PQpS",99,1,19,2021-04-09
+541,2021-04-12 10:33:26+00:00,1381556057651175424,cosmos,"We are a family of 100,000 followers! 🙏
+Thank you all for being here!
+
+Let's keep building! 👉 https://t.co/VMSN7ddZD2 https://t.co/OCWCbl1yan",406,18,77,2021-04-12
+542,2021-04-13 13:33:26+00:00,1381963742930333707,cosmos,"🔊 Gravity DEX testnet: registration opens in 7 Days!
+
+The Gravity DEX trading competition starts in 7 days with a ~$200,000 prize pool in ATOM &amp; 10 other @Cosmos tokens.
+
+Sign up to receive Cosmos updates and to be notified when the registration starts 👉 https://t.co/v9ojAyJ1cc",328,14,101,2021-04-13
+543,2021-04-14 17:05:57+00:00,1382379610445389824,cosmos,"🔊 BlockDown 4.0 Conference - #DeFi Panel
+
+Don't miss Hyung Lee from @B__Harvest speak at the BlockDown 4.0 conference on a discussion about ""DeFi's Newest Waves"" on April 15th, 5:05 PM CET.
+
+✏️ Register for your free ticket here 👉https://t.co/xvx62NP1ku https://t.co/8B3WavtSMO",89,2,21,2021-04-14
+544,2021-04-15 10:59:54+00:00,1382649879483322370,cosmos,"Top @cosmos memes of the day! 🤪
+Check out @ATOMCosmonauts for your daily dose of memes! https://t.co/8lARMDMOGo",94,0,23,2021-04-15
+547,2021-04-16 11:24:04+00:00,1383018348406059009,cosmos,"🗣 Watch @zcpeng speak at the 🇪🇺European Blockchain Convention🇪🇺 in “Building A New Internet: The Bold Plan To Decentralize The Web“ panel discussion alongside speakers from Brave, Chainsafe, and Polkadot.
+
+📆April 16th, 3:30 PM CET
+
+✏️Register here: https://t.co/7kXExaPS60 https://t.co/ASZrh0EUvG",70,2,15,2021-04-16
+549,2021-04-19 12:20:37+00:00,1384119743720742915,cosmos,"🔊 Gravity DEX Prize Budget- Proposal 45
+
+Gravity DEX team submitted a formal proposal to allocate 5000 $ATOM from the Cosmos Hub community pool as prize money for the testnet competition.
+
+Last 4 days to cast your vote 👉https://t.co/pBwnh3xtJa
+
+Details 👉https://t.co/v9ojAyJ1cc https://t.co/4dyO5zgYmK",137,2,33,2021-04-19
+551,2021-04-21 12:47:23+00:00,1384851256670396420,cosmos,"Every participant will receive testnet tokens totalling 10,000 USD in $ATOM &amp; 10,000 USD each in 3 randomly selected assets. During the competition, participants can:
+
+☑️ Deposit tokens into pools to earn rewards
+☑️ Trade tokens with the aim of maximizing their return",37,1,2,2021-04-21
+558,2021-04-23 21:10:28+00:00,1385702637853679620,cosmos,"🏛 Governance proposal🏛
+
+Proposal #46 is requesting a timeline extension of Prop #34 Luna Mission to allow the spend of the initial budget &amp; allocate existing funds for additional $ATOM marketing priorities. 
+Proposal 👉 https://t.co/pLWvRnYX03
+
+Report 👇 https://t.co/arA6IOEHu3 https://t.co/VgvbtW10vB",194,6,38,2021-04-23
+559,2021-04-24 16:02:05+00:00,1385987416121565186,cosmos,"🔊 @akashnet_ welcome to the Interchain!
+
+Akash is the third @cosmos chain to enable #IBC transfers and second one to connect to the Cosmos Hub.
+
+The #IBC era is here!
+
+#IBCGang https://t.co/eY7DMWGdJf",334,8,71,2021-04-24
+560,2021-04-29 13:43:12+00:00,1387764406738640900,cosmos,"🔊 Registrations for the Gravity DEX testnet competition with over $200,000 prize pool on the line are closing in 20 hours! 
+Swap, pool, and arb with the best traders, and help bring interchain DeFi one step closer to Cosmos. 
+
+Sign up now 👉 https://t.co/v9ojAyrqkE https://t.co/ScHxfIZraG",10729,2774,6079,2021-04-29
+561,2021-05-01 16:57:16+00:00,1388538021239267336,cosmos,"🔊BREAKING NEWS: 25,000+ users have registered for the Gravity DEX incentivized testnet🚨
+
+Players will compete over a $200k prize pool of $ATOM and 12 sponsor tokens. The top ⅓ will receive prizes, so 8,000+ people have a chance to win! 
+
+Competition starts May 4. Get details⬇️ https://t.co/WD2wdQAPUp",516,29,175,2021-05-01
+569,2021-05-03 16:38:46+00:00,1389258139170746369,cosmos,"15/ The Cosmos Hub is a service provider to the chains that connect to it. 🤝 As more chains enable IBC, the ⚛️ community will create value-add services with incentives for sovereign chains to connect to the Hub and transfer assets to it—driving value for the $ATOM token. 👏⬇️",34,1,4,2021-05-03
+594,2021-05-04 16:50:26+00:00,1389623463019794437,cosmos,"Read the proposal  👉 https://t.co/pLWvRnYX03
+
+Review the marketing spend report 👉 https://t.co/arA6IOEHu3
+
+‼️Last 3 days to vote.
+Make sure you cast your vote until 7 May 2021, 11:12:26 pm UTC.",44,2,14,2021-05-04
+599,2021-05-06 00:59:52+00:00,1390109023597383682,cosmos,"🔊 The Gravity DEX Testnet is off to an amazing start with over 21,775 participants!
+
+As we have received reports that some of you haven't been able to participate due to unavailable tokens in your account, we are pushing a soft fork at 01:00 UTC to load the missing balances.👇 https://t.co/fNlzltq9On",241,16,54,2021-05-06
+604,2021-05-07 10:52:36+00:00,1390620576969015297,cosmos,"✍️ SOFT FORK IMPLEMENTATION
+Some players who qualified during registration were unable to participate as their testnet tokens were not loaded in their accounts. To resolve this bug, the team pushed a successful soft fork at 01:00 UTC May 6 to load the missing balances.",8,0,2,2021-05-07
+615,2021-05-09 10:57:42+00:00,1391346634500546560,cosmos,"🔊 Attention all Gravity DEX participants
+
+An event meant to encourage players to provide liquidity to pools is coming out today at 15 UTC!
+Make sure you find the trading volume boosted pools, and deposit into them to take advantage of this!
+
+Prepare 👉https://t.co/78CgnSOSsm https://t.co/sdBF4c9LIw",188,18,49,2021-05-09
+616,2021-05-10 22:01:08+00:00,1391875982584336389,cosmos,"🔊 Attention all Gravity DEX participants
+
+We are entering the last two hours of the Gravity DEX testnet competition! ⏰
+Make sure you get your trades in before the time runs out!
+
+May the best traders win 👉 https://t.co/YZnTKYHDTY https://t.co/dWVmxaU23p",149,15,23,2021-05-10
+617,2021-05-11 02:19:21+00:00,1391940966030905344,cosmos,"Over 21,775 people competed in the Gravity DEX Incentivized Testnet, executing 715,030 transactions that generated ~ 900 Million trading volume and almost 190 Million as TLV in pool investments!
+
+Thank you everyone and stay tuned! 
+
+⭐️ Gravity DEX, coming soon to Cosmos Hub! ⭐️ https://t.co/oYGpIJ8Psh",169,8,34,2021-05-11
+620,2021-05-12 21:46:21+00:00,1392597039003979778,cosmos,"8/ ✔️ Improved Order Execution ✔️ 
+
+On Uniswap, as orders are executed sequentially, skilled traders can pay more gas to ensure that their order goes through first. Gravity DEX uses batch execution to remove the possibility of front-running or price manipulation. 💪 ⬇️",63,1,7,2021-05-12
+635,2021-05-13 00:38:49+00:00,1392640438385926155,cosmos,@elonmusk Cosmos is here.,1477,45,184,2021-05-13
+636,2021-05-17 15:26:59+00:00,1394313507634561028,cosmos,"🏛 Governance proposal🏛
+
+New governance @cosmoshub proposal #47 is requesting to decrease the requirement for proposal deposits from currently 512 ATOM to 64 ATOM as to allow governance activity from smaller holders.
+https://t.co/r6yNw4R4i0
+
+Details 👉https://t.co/WHxfSvEhN5 https://t.co/MGu5QChvFo",239,16,54,2021-05-17
+637,2021-05-19 17:37:02+00:00,1395071011545092096,cosmos,"🔊 Last week the Gravity DEX testnet competition wrapped up — and now the results are in! Some key stats: 
+👾11,324 active traders
+🚀715,030 transactions
+💰$189,730,297 as total locked value in pool investments 
+📈900,414,409 trading volume 
+
+Read more: https://t.co/mi2LI5PVRG👇 https://t.co/DNH8DNYaRa",263,23,110,2021-05-19
+642,2021-05-20 14:43:46+00:00,1395389793987698691,cosmos,"💰Special Ruffle💰
+
+Fill in &amp; submit the Survey by May 31st, 12PM UTC to participate in a ruffle that will award 50 $ATOM to one of the participants, prize offered by the Interchain GmbH Team!
+
+💎 Tendermint, the gold standard for #PoS consensus algorithms https://t.co/YsUPgllrny",53,1,10,2021-05-20
+644,2021-05-21 13:37:39+00:00,1395735540461416448,cosmos,"🔊 DeFi is coming to the Cosmos (ATOM) network via ‘Gravity’: the combination of the most advanced interchain DEX, Gravity DEX, and the most secure decentralized bridge to Ethereum, Gravity Bridge
+
+Read the full article 👉 https://t.co/e1jUXKKxgA by @cryptoslate",495,20,138,2021-05-21
+645,2021-05-22 12:50:31+00:00,1396086070417178625,cosmos,"🔊 We are a family of 150,000 👩🏼‍🚀👨‍🚀 !
+
+Thank you all for being here! Let's keep building! 🏗 https://t.co/GMIz6sOOa1",469,20,72,2021-05-22
+646,2021-05-25 12:38:19+00:00,1397170160188993542,cosmos,"🔊 HackAtom HCMC goes online!
+
+Attention all hackers from @Cosmos and beyond! The HackAtom HCMC @cosmos hackathon opens up the registrations for everyone all around the world!
+
+Apply by May 31st for a chance to win part of the 20,000$ prize pool in $ATOM👇
+https://t.co/ebJkPxLzBk https://t.co/VmI30X3lmO",154,7,41,2021-05-25
+652,2021-05-26 16:18:03+00:00,1397587847272599555,cosmos,"🔊 @PersistenceOne welcome to the Interchain!
+
+Congratulations to Persistence team for enabling #IBC transfers and for connecting to the Cosmos Hub.
+
+The #IBC era is here!
+
+#IBCGang
+
+Discover the Interchain 👉 https://t.co/D58EpFsJru https://t.co/j4sXw3k7S2",191,3,44,2021-05-26
+654,2021-05-27 15:03:56+00:00,1397931585387864066,cosmos,Cosmos uses a PoS consensus mechanism relying on our Tendermint Core engine to achieve high performance with a low carbon footprint. We enable blockchains to scale and connect through our groundbreaking IBC protocol. 🚀 Read more about that here 👉 https://t.co/oErDD8xYjm ⬇️,31,2,6,2021-05-27
+666,2021-06-01 15:50:16+00:00,1399755184117530634,cosmos,"🏛 Governance proposal🏛
+
+The @cosmoshub governance signaling proposal draft 
+by @AltheaNetwork for the activation of the Gravity Bridge module onto the Cosmos Hub is here!
+
+The $ATOM community is requested to read the proposal &amp; share their feedback 👉 https://t.co/VRBNPI7Gif https://t.co/oPk7k5DJkS",224,7,70,2021-06-01
+668,2021-06-02 10:57:30+00:00,1400043893350146050,cosmos,"🔊 With the first interchain decentralized exchange, Gravity DEX, built by @B__Harvest &amp; @tendermint_team, and a decentralized &amp; secure bridge to @Ethereum, Gravity Bridge, built by @AltheaNetwork, Cosmos is set to accelerate DeFi growth.
+
+📰@CoinRivet 
+https://t.co/VvmiSyQznS",355,34,109,2021-06-02
+669,2021-06-04 13:53:46+00:00,1400813026954055687,cosmos,"🏛Governance Proposal #48🏛
+
+New @cosmoshub proposal to increase the inflation rate change variable as for the network to better protect itself against unbondings &amp; react faster when $ATOM bonding ratio drops below the 66% goal is in voting period!
+
+Vote👇
+https://t.co/1NXHjXdADH https://t.co/DmZdgd5U3l",199,12,73,2021-06-04
+670,2021-06-09 15:06:46+00:00,1402643338038235140,cosmos,"💻 HackAtom HCMC Workshop
+
+On June 10th at 1:00 PM UTC join Deepanshu Tripathi, @deepanshutr, CTO and Co-founder @PersistenceOne in the first Cosmos HackAtom HCMC virtual workshop 👇
+
+🏗 No-Code NFT implementation using InterNFT Standard
+
+Join the event 📹 https://t.co/0HmjyqnrGG https://t.co/ssqbD67i2w",134,8,27,2021-06-09
+671,2021-06-11 21:48:08+00:00,1403469120318939136,cosmos,"🎞 Video Contest ~ Discover @Cosmos 
+
+👩‍🎨 Use your creativity &amp; talent to produce high-quality educational videos.
+📝 Theme: @cosmoshub &amp; $ATOM, at the heart of the Interchain
+💰 Prize pool: 5000 $ATOM
+
+How to Participate 👇
+https://t.co/WUQSEQ8Uwi
+
+⭐️Initiative funded by Prop 46 https://t.co/PV9op6pmek",226,10,94,2021-06-11
+673,2021-06-14 20:43:24+00:00,1404539995160035332,cosmos,"🏛 Governance proposal  #49🏛
+
+👩🏼‍🚀👨‍🚀 Attention $ATOM community
+
+The proposal regarding the activation of the Gravity Bridge module, the Ethereum &lt;&gt; Cosmos bridge built by the @AltheaNetwork, onto the Cosmos Hub is live in deposit period.
+
+Prepare to vote 👇https://t.co/Frp5thtkNk https://t.co/Jmo1ZmaZQR",333,13,83,2021-06-14
+674,2021-06-15 08:56:35+00:00,1404724508456538114,cosmos,"💻 HackAtom HCMC Workshop
+
+On June 15th at 1:00 PM UTC join William Chen, @terra_money 's Dev Relations Lead on a guided walkthrough to learn how to build all the parts around a large-scale Terra Dapp, using a basic contract. 
+
+🏗 Zero to Dapp with Terra
+
+https://t.co/FMNWGaMZo2 https://t.co/utfa40yvVg",124,3,23,2021-06-15
+678,2021-06-16 16:39:55+00:00,1405203497986019341,cosmos,"🔊 LIVE NOW 📹
+
+🎙Fire DeFi Summit Fire🎙
+
+Fireside Chat w/ Peng Zhong 
+
+https://t.co/XuU2BkhNlX https://t.co/EaFnJALwrQ",69,1,13,2021-06-16
+680,2021-06-17 23:21:44+00:00,1405667003583582209,cosmos,"🔊 @regen_network welcome to the Interchain! 🎉
+
+With each new interchain connection, the Cosmos Hub is reaching new levels of scalability and utility.
+
+The #IBC era has just begun!
+
+Meet the #IBCGang👇
+$ATOM $IRIS $AKT $DVPN $XPRT $CRO $REGEN https://t.co/J5IWw5euMy https://t.co/LOM0ykyzLK",216,8,48,2021-06-17
+688,2021-06-18 08:09:42+00:00,1405799871257448449,cosmos,"🔊 Cosmos HackAtom HCMC opening ceremony 🎉
+
+Today at 8PM ( GMT+7) join the opening ceremony of HackAtom HCMC organized in partnership with @kryptoseoul!
+Come meet the judges, mentors, learn about the challenges and event's schedule!
+
+Watch live here 📹 https://t.co/ZCZR5REdNA https://t.co/RKUJSRddPf",124,6,23,2021-06-18
+689,2021-06-19 11:59:46+00:00,1406220156020350981,cosmos,""" We are more than excited to be able to share the $REGEN token with the broader @cosmos community"" @regen_network 
+
+From the @regen_network community to the @cosmos $ATOM community! 🤝
+
+The power of the Interchain! https://t.co/4TteECv8GF",126,9,28,2021-06-19
+692,2021-06-21 11:47:53+00:00,1406941943427485696,cosmos,"💻 HackATOM HCMC Workshop 
+
+🏗 @CosmWasm/ CosmJS: from zero to hero 
+
+Tomorrow, June 22 at 1PM UTC join Orkun and Abel to learn how to develop a basic ""ping-pong"" smart contract using rust, and a front-end dApp that interacts with the smart contract. 
+
+📹 https://t.co/N0ezk15bXh https://t.co/MjqQ2KS3ds",87,2,19,2021-06-21
+694,2021-06-24 11:33:46+00:00,1408025551785402371,cosmos,"💻 HackATOM HCMC Workshop 
+
+Introduction to Building Blockchain with Starport
+
+Today at 1PM UTC join @fadeev to learn the basics of creating a new chain, scaffolding queries, messages and the main features Starport offers for blockchains developers.
+
+🎥 https://t.co/khVSj3hdda https://t.co/S9Y0fg8T74",87,4,23,2021-06-24
+695,2021-06-25 12:03:53+00:00,1408395522130550790,cosmos,"Many developers still hold the belief that building a blockchain is hard. And that's probably because it used to be. 
+But with Starport, building an application-specific blockchain on @cosmos is as easy as writing a smart contract.
+
+A @hackernoon article 👉https://t.co/MpG8hWsnnk",249,14,69,2021-06-25
+696,2021-06-27 23:34:52+00:00,1409294188294946817,cosmos,"COSMOS Hub has just passed over👥 100,000 $ATOM delegators and 330,000 $ATOM accounts ⚛️.
+
+View the complete stats by @Cosmosscan here 👉 https://t.co/ojDCbQ2Aqo https://t.co/gJGs1vFCe3",404,18,86,2021-06-27
+697,2021-06-28 18:16:08+00:00,1409576363477155841,cosmos,"🏛 Gravity DEX proposal is here🏛
+
+The proposal to adopt the Gravity DEX protocol onto the Cosmos Hub is in voting period!
+
+$ATOM holders, time to vote! 👇
+
+https://t.co/NqBvqb1PNF
+
+Excited yet? Here is what you need to know about the Gravity DEX protocol👉https://t.co/8g31Emmi69 https://t.co/CIpLp5hYUG https://t.co/QVcuAFVgOQ",231,17,58,2021-06-28
+699,2021-06-29 18:45:38+00:00,1409946177408225286,cosmos,"👩🏻‍💻Code with Us Workshop👨🏻‍💻
+
+🏗 Dive into Starport, IBC &amp; Gravity DEX Protocol
+
+Developers, on July 1st at 5PM UTC, join us for a walkthrough on how to create your blockchain using Starport and make use of the Gravity DeX Protocol.
+
+Join the workshop here 📹 https://t.co/lxa0TadHF8 https://t.co/8VOdygopwK",140,10,27,2021-06-29
+700,2021-06-30 21:56:17+00:00,1410356544068333570,cosmos,"🔊Congratulations to @starname_me for joining Stargate!
+
+Welcome to the Internet of Blockchains powered by @cosmos ! https://t.co/Xj6DWw72KS",133,2,19,2021-06-30
+701,2021-07-01 20:16:16+00:00,1410693761529700353,cosmos,"🏛 Cosmos Hub governance proposal #50 🏛
+
+In preparation for the Gravity DEX protocol going live on Cosmos Hub, the $ATOM delegators are requested to vote for extending the block capacity of the Hub to allow a higher amount of transactions. 
+
+Details 👉https://t.co/hJQ6g4KdFO https://t.co/jwMwG1aYXL",188,8,29,2021-07-01
+702,2021-07-03 13:03:20+00:00,1411309585344966663,cosmos,"🎉 Live now for the HackAtom HCMC Demo Day and Closing Ceremony 🎉
+
+Tune in on the @cosmos youtube channel to watch live who are the new cosmonauts within @cosmos and what they have built 🎥 https://t.co/JM06IcYOHW https://t.co/uhP93tXzjb",164,9,28,2021-07-03
+704,2021-07-08 22:09:43+00:00,1413259026012454918,cosmos,"👩🏻‍💻 [Code with Us Series]👨🏽‍💻
+
+🌌 Dive into Starport, IBC &amp; Gravity DEX Protocol thanks to the replay of the last workshop with @fadeev &amp; @ToschDev | @tendermint_team
+
+📹  https://t.co/ucHwa1Ggtx
+
+Subscribe to not miss the next @cosmos workshops! 👇
+https://t.co/Vwc4WLhNwK https://t.co/Ar8rJL8A2G",84,2,20,2021-07-08
+705,2021-07-09 09:02:44+00:00,1413423364895608837,cosmos,"📹 #IBC Explained to Cosmonauts Series
+
+🌌@cosmos is an interchain universe still largely unexplored.
+👩🏼‍🚀👨‍🚀With @jack_zampolin &amp; @charleenfei as co-pilots, let’s dive into the Internet of Blockchains via the new #IBC calls
+
+Tune on July 9th at 4pm UTC 📹
+https://t.co/U4hdVrCWxK https://t.co/2zCagDhDbo",213,5,69,2021-07-09
+708,2021-07-11 10:44:21+00:00,1414173713096921092,cosmos,"🔊 To achieve the Interchain Sustainability mission, @interchain_io &amp; @ixoworld are implementing a multi-year program of R&amp;D, advocacy and strategic collaborations, together with @informalinc, @regen_network, @block_science and others.
+
+Read all about it👉 https://t.co/ziK2G7AZxO",165,4,36,2021-07-11
+709,2021-07-12 19:20:39+00:00,1414666028890656782,cosmos,"⚛️🏆 HackATOM HCMC 🏆⚛️ 
+Congratulations to the Winners!
+
+Our latest #IBC &amp; #DeFi @hack4atom was a blast!
+Time to meet the winners:
+🥇Interstellar
+🥈CertX
+🥉 NFTStays &amp; Bifrost
+and learn about their incredible @cosmos projects from @lukitsbrian's post!
+https://t.co/EBqdSdkpm6 https://t.co/CbyUIA9kvC",101,2,21,2021-07-12
+711,2021-07-13 18:01:23+00:00,1415008470382809096,cosmos,"We are live now!
+
+Gravity DEX Keynote by @zcpeng! https://t.co/DHOLlrZ14c",258,7,58,2021-07-13
+725,2021-07-16 15:48:06+00:00,1416062090054340618,cosmos,"🏛️Cosmos Hub Governance🏛️
+
+Proposal #52 [ $ATOM 🤝 @osmosiszone ] is now in Voting Period!
+
+Proposal by @SikkaTech is requesting the allocation of 100k $ATOM from the Cosmos Hub Community Pool for supporting ATOM Liquidity Incentives on Osmosis DEX.👇
+
+https://t.co/SPiGqwk8im https://t.co/q11f9ZBDWE",182,13,40,2021-07-16
+726,2021-07-20 22:04:52+00:00,1417606459941167106,cosmos,"⚛️ Cosmos is coming to ETHCC ⚛️
+
+Are you at the @EthCC conference in Paris? 
+✔️YES   ✖️NO
+Here is your chance to meet our Cosmonauts and attend their talks!
+
+If you cannot make it, connect to #EthCC Interspace for the Livestream!
+https://t.co/gTa5YAL6Gs
+👇
+https://t.co/M783Cm1Js4",122,4,27,2021-07-20
+728,2021-07-22 14:37:22+00:00,1418218616508403719,cosmos,"🔊 @cosmos 🤝 @BandProtocol integration
+
+The Band Oracle has been integrated into Cosmos, through @StarportHQ, to further the realization of the Internet of Blockchains.
+
+https://t.co/eDvAj78luB https://t.co/XSjEQB1eBe",521,24,102,2021-07-22
+729,2021-07-29 13:12:30+00:00,1420733974004051968,cosmos,"🔊 IBC Explained to Cosmonauts
+👩🏻‍🚀👨🏾‍🚀 with @charleenfei &amp; @fekunze
+
+Episode 2 focus:
+✅ How IBC &amp; Relayers work
+✅ Getting Started with Interchain Transfers 
+✅ IBC goes mainstream
+✅ @ethermint, Cøsmos’s EVM
+💬AMA time!
+
+Join July 30, 8am UTC 📹 https://t.co/Fc9Imewvtu https://t.co/R986nCe8in",148,4,38,2021-07-29
+730,2021-07-30 18:46:15+00:00,1421180356741537793,cosmos,"📹 Cosmos Video contest is on till August 31st! 🚀
+
+Cosmonauts, as per your request, we are extending the  contest to allow you more time to submit your @cosmos video!
+
+🌌 Theme: Discover Cosmos Hub &amp; $ATOM 
+💰 Total prize pool: 5000 $ATOM
+
+Participate 👉 https://t.co/WUQSEQ8Uwi",151,16,43,2021-07-30
+731,2021-08-03 13:44:18+00:00,1422553917985013765,cosmos,"📽️ Cosmos Replay
+
+[How the Inter-Blockchain Communication Standard Is Shaping an Interoperable Future]
+
+‍At her @EthCC talk @charleenfei, IBC product lead, talks about:
+🚀 Swaps between Sovereign Blockchains
+⚛️ IBC as a universal standard
+...and more!
+https://t.co/6xHzTpFsFi https://t.co/Hhhx6dFZNX",117,5,33,2021-08-03
+732,2021-08-05 12:52:24+00:00,1423265634138402818,cosmos,"Cosmos Community Contributor
+👨🏼‍🚀 @Cryptocito🎖️
+
+Stay updated with the most exciting Cosmos news by watching the latest interviews:
+⚛️ @zmanian|IBC
+⚛️ @fekunze|Ethermint
+⚛️ @buchmanster|Cosmos Vision
+⚛️ @alessiotreglia|Cosmos Cash
+and more!
+👉 https://t.co/ZMtfdObj2g",145,15,33,2021-08-05
+733,2021-08-06 11:31:41+00:00,1423607708788330496,cosmos,"🔊 For our Russian-speaking community, watch @fadeev speak at the Forklog Alt Season 2021 conference on an all things Cosmos. 
+If you're new to blockchain, here is your chance for a glimpse into the interoperable future designed by Cosmos.
+Go to⏯1:50:00📹 https://t.co/VHsdPhtOSb https://t.co/BE4y1UXZvJ",95,6,24,2021-08-06
+734,2021-08-16 18:25:48+00:00,1427335802187665412,cosmos,"🔊 Calling all Cosmos contributors
+
+Are you passionate about @cosmos but don't know how to become an active part of the Internet of Blockchains?
+We've got you covered!
+
+👩🏻‍🚀👨🏽‍🚀 Discover how to become a real Cosmonaut by @soniasinglas 👇
+
+https://t.co/Mw4QEZFOKK https://t.co/GckOjnNKPP",186,12,49,2021-08-16
+735,2021-08-18 19:41:14+00:00,1428079562987085838,cosmos,"Now you can seamlessly swap and pool via the first user interface that gives access to the Gravity DEX protocol.
+
+Available on Emeris beta today: $ATOM $IRIS $REGEN $XPRT $AKT $CRO $ION $OSMO $DVPN https://t.co/YwEHcD0kN4",131,5,26,2021-08-18
+737,2021-08-20 10:26:53+00:00,1428664829099876356,cosmos,"🔊 Your project deserves its own blockchain
+
+🛰️ Starport is the all-in-one platform by @cosmos that allows devs to build, launch &amp; run any crypto app on a sovereign blockchain. Today at 6:15 pm UTC, watch @fadeev interview w/ @Benzinga, to learn more.
+
+📽️ https://t.co/qHDYsil01i https://t.co/2FbcHhOkc5",220,9,50,2021-08-20
+738,2021-08-23 15:55:16+00:00,1429834634863550467,cosmos,"🚀 Bitcoin #BTC is coming to #Cosmos! 
+
+@inter_btc is building an #IBC bridge to enable any IBC compatible chain to access trustless Bitcoin. This exciting step will help Cosmos grow the #DeFi sector &amp; improve inter-blockchain collaboration. 
+🤩 Read more:
+https://t.co/wonb7l0q8W https://t.co/REDoB2Pb4n",789,54,228,2021-08-23
+739,2021-08-24 18:59:10+00:00,1430243301656080397,cosmos,"Get ready:
+🛰️#cosmosDeFi is going to land at @CoinDesk TV [First Mover] tomorrow!
+
+Don't miss @zcpeng | @tendermintHQ CEO talking about #GravityDEX, @emerisHQ and the future of #DeFi in Cosmos!
+
+⏰August 25 at 9am ET / 1pm UTC
+👇🏻Link to the Livestream
+https://t.co/4QSP8G2M7k https://t.co/eX2hL5EtFF",291,19,86,2021-08-24
+740,2021-08-26 20:40:43+00:00,1430993635504500740,cosmos,"The Cosmos talk was recheduled for the next week!
+We'll provide the details of the new live soon, so don't forget to keep an eye on Cosmos' handle:
+this and much more coming in the next few days 👀 https://t.co/tgRZKpQPtt",134,3,34,2021-08-26
+742,2021-08-27 12:51:31+00:00,1431237941687422982,cosmos,"🌠 Another shining star joins us:
+Welcome to the #IBCgang, @sifchain!
+
+🤝 The value that Sifchain brings to the cosmos ecosystem is undeniable, and we look forward to building an exciting interchain future together!
+
+$ATOM $ROWAN $IRIS $AKT $CRO $OSMO $ION $DVPN $XPRT $REGEN $IOV https://t.co/gP8Ek3buRE",293,13,59,2021-08-27
+743,2021-08-28 15:53:16+00:00,1431646068589088778,cosmos,"⚛️Cosmos x Blockchain NYC🗽
+          Community Meetup
+
+This exclusive online event will provide an overview of cosmos and its cutting-edge real-world applications from Corporate, Community &amp; Technical perspectives.
+
+📅 Sept 8 &amp; 15, 8-10pm UTC
+
+🖊Sign up
+https://t.co/mmuOjcCpeo https://t.co/8KeMmerggs",223,3,57,2021-08-28
+744,2021-08-30 19:49:54+00:00,1432430396696899584,cosmos,"🌌Emeris is shaped to be the #crosschain interface that will enable users a seamless &amp; borderless #DeFi experience.
+
+But how will @emerisHQ revolutionize the way we interact with #crypto? 
+How does this impact the entire Ecosystem &amp; $ATOM stakeholders?
+
+💡https://t.co/kawngpNP4W https://t.co/aAUACfKxcU",312,13,82,2021-08-30
+746,2021-08-31 12:29:55+00:00,1432682060683091975,cosmos,"🏄‍♂️Cosmos is surfing the #DeFi wave thanks to pioneering projects as #GravityDEX, @osmosiszone, @sifchain, #Coinswap, and all the #DEXes part of the ecosystem.
+
+💥Find out in this POMP episode with @zcpeng how to get ready for the #cosmosDeFi explosion!
+
+🎙https://t.co/w2L2ggC1OF https://t.co/SEH5UZM4tr",272,8,75,2021-08-31
+750,2021-09-01 20:47:17+00:00,1433169612196155403,cosmos,"🚀Cosmos Core Teams started a journey to push communication with $ATOM holders to the next level:
+What better way to kick off than a @Cryptocito interview &amp; a Q&amp;A with the Cosmos Hub Lead @billyrennekamp?
+
+Looking forward to your questions &amp; feedback to improve together ⚛️after⚛️ https://t.co/3Mk99cQeH7",351,19,82,2021-09-01
+753,2021-09-06 21:54:16+00:00,1434998409233059841,cosmos,"🎖Meet Bianjie🎖
+Cosmos Grantee of @interchain_io
+In a cosmos of talented contributors, today we turn the spotlight on the team behind successful projects such as @irisnetwork and @IRITAchain, Bianjie!
+
+Learn more about their contribution to @cosmos here
+
+https://t.co/DfO9i3nn3t https://t.co/2EFIoeAFGn",149,1,37,2021-09-06
+756,2021-09-07 07:56:54+00:00,1435150067913142275,cosmos,"🔥LIVE NOW!
+
+https://t.co/lWwCr1qLmu https://t.co/4glch2Qy4n",111,0,24,2021-09-07
+758,2021-09-08 10:56:37+00:00,1435557683701092353,cosmos,"⚛️Cosmos x Blockchain NYC🗽
+          Community Meetup
+
+Discover cosmos and its real-world applications from Corporate, Community &amp; Technical perspectives!
+
+📅 TODAY at 8pm UTC
+
+👨‍🚀Speakers
+@ToschDev EcoDev Manager
+@Ali_the_Curios DevRel
+
+🖊Sign up
+https://t.co/nAU19yw19I https://t.co/rf6tifWvMq",117,1,25,2021-09-08
+761,2021-09-09 14:32:25+00:00,1435974377707909134,cosmos,"👩🏻‍💻[Code with Us Series]👨🏻‍💻
+
+Learn how an independent app written in GO can be connected to a Blockchain with the recordings of the latest @Ali_the_Curios &amp; @ToschDev workshop!
+🎞https://t.co/44J5kdhse5
+
+Don't miss the next session: sign up now!
+👉🏽https://t.co/Vwc4WLhNwK https://t.co/MR4jp8xASm",131,4,25,2021-09-09
+762,2021-09-10 08:15:14+00:00,1436241844258627584,cosmos,"📣 News from @cosmos
+
+Do Kwon | Terraform Labs has announced Project Dawn, a $150M funding initiative to support Cosmos Core tech such as @cosmossdk, @Tendermint_Core, and @CosmWasm.
+
+https://t.co/16n5kF8OMr
+
+@cosmos 🤝 @terra_money
+From builders to builders https://t.co/YOrKz4bTcu",392,15,103,2021-09-10
+763,2021-09-11 00:19:21+00:00,1436484472938143751,cosmos,"Desmos, welcome to @cosmos!🚀
+
+Congratulations to @DesmosNetwork and the entire 
+@forbole team for a successful mainnet launch!
+
+https://t.co/uEj02z4H2X https://t.co/V6oQrAlnns",298,12,57,2021-09-11
+765,2021-09-14 16:12:23+00:00,1437811473305247750,cosmos,"Want to see what's hot right now in the #DeFi landscape?
+🔥The made~in~cosmos #DEXs!
+
+Meet
+• Gravity DEX protocol | @cosmoshub via @emerisHQ
+• Coinswap | @irisnetwork
+• Osmosis | @osmosiszone
+• Sifchain | @sifchain
+
+and get ready for the #IBCgang Era!
+https://t.co/qrWauQRA3f https://t.co/4par6czimb",359,14,110,2021-09-14
+766,2021-09-15 12:00:42+00:00,1438110522944237572,cosmos,"⚛️Cosmos x Blockchain NYC🗽
+          Community Meetup
+
+Discover how to build your own decentralized exchange and liquidity pools using Cosmos stack!
+
+📆TODAY at 8pm UTC
+
+👨‍🚀Speakers
+@ToschDev|EcoDev Manager
+@Ali_the_Curios|DevRel
+
+🖊Sign up
+https://t.co/oCcGixdvax https://t.co/vDD6kXKB8j",185,5,38,2021-09-15
+767,2021-09-16 15:01:09+00:00,1438518324262944769,cosmos,"🚨ONE HOUR TO GO🚨
+
+Join the Community AMA with one of the protagonists of the Cosmos ecosystem development, @jack_zampolin!
+
+https://t.co/QqgTTsaqTG https://t.co/GPuLNlQdaa",115,5,20,2021-09-16
+768,2021-09-17 21:32:39+00:00,1438979236895862786,cosmos,"⚛️Cosmos Core Teams take🎙
+@MessariCrypto #Mainnet2021
+
+[Proof of Work: Cosmos]
+⏰Sept 21 | 11:20AM EDT
+Join the talk with @zmanian | Co-Founder at @sommfinance about Cosmos #IBC adoption, @keplrwallet, #CosmosFI, and dive into the hottest Proof of Stake ever! https://t.co/T7BA3fF4ey",81,3,10,2021-09-17
+774,2021-09-21 17:29:11+00:00,1440367518032429060,cosmos,"🍻 Attention all developers: #OctoberCodefest is here!
+
+Dive into a one month-long virtual coding event to celebrate open-source software development and expand the Cosmos community!
+🗓️1-31 October 2021
+📣Full Announcement &amp; Rules
+https://t.co/Bm6qrUdM2p
+An event by @tendermintHQ https://t.co/K8MMkrw2Zk",272,14,72,2021-09-21
+775,2021-09-22 22:14:51+00:00,1440801797308780554,cosmos,"Cosmos #IBC, is the first industry-leading protocol that allows a reliable, ordered, and authenticated communication b/w heterogeneous blockchains.
+With already 13 interconnected blockchains &amp; over 20 that announced integration by end of Q4, #IBC adoption is just getting started. https://t.co/YutTeCHRxQ",456,10,108,2021-09-22
+776,2021-09-23 12:19:35+00:00,1441014379131068417,cosmos,"e-Money welcome to Cosmos #IBCgang! 🚀
+
+For an update on #IBC enabled Cosmos chains, check https://t.co/wXoiU4PIV3, the place where the Internet of Blockchains lives!
+@MapOfZones @emoney_com https://t.co/hvlngTlWpZ",370,18,87,2021-09-23
+780,2021-09-25 15:38:23+00:00,1441789185376071682,cosmos,"👩🏻‍🚀👨🏽‍🚀Cosmonauts,
+Did you want cosmos in prime time?
+Fasten your seatbelts:
+Sunday, Sept 26 tune in to @newsmax|@NewToTheStreet at 10am EST and take off with @zcpeng|@tendermintHQ to discover the latest #WEB3 trend.
+Pss...it's @cosmos of course
+
+👇🏻Livestream
+https://t.co/TCUKuK2BYz https://t.co/jd2OPzfFwB",182,8,37,2021-09-25
+782,2021-09-28 10:00:01+00:00,1442791197588738048,cosmos,"Welcome to the #IBCgang @ixoworld!
+
+We are very excited to have in our ecosystem a project so dedicated to regenerative #DeFi &amp; that is leading the @interchain_io Sustainability Mission 👇🏻
+https://t.co/ziK2G7AZxO
+
+🤝let's build a better future together. https://t.co/TO4PZphVA1",204,4,49,2021-09-28
+783,2021-09-29 08:51:37+00:00,1443136371162558464,cosmos,"👩🏻‍🚀👨🏽‍🚀Cosmonauts are always at the forefront of supporting talents via Cosmos Hub Community Pool funds:
+Don't miss the latest Community events sponsored!
+
+[Privacy in Cosmos]
+📅Today - Online
+https://t.co/SBNY7fKgxk
+
+[Cosmoverse 2021]
+📅Nov 5 - Hybrid
+https://t.co/AadUpAmIRs https://t.co/Uymum21caC",144,6,33,2021-09-29
+784,2021-09-30 16:04:08+00:00,1443607604010303494,cosmos,🚨Live in 1 hour!🚨 https://t.co/KWVxL4MCfQ,93,3,15,2021-09-30
+788,2021-10-01 16:42:50+00:00,1443979730303295505,cosmos,"Juno, welcome to @cosmos! 🚀
+
+Juno is an interoperable smart contract network built using @cosmos and @StarportHQ.
+
+Learn more 👉 https://t.co/d3zPY4SQF0
+@JunoNetwork https://t.co/Vh3Ftbvi5s",349,5,73,2021-10-01
+791,2021-10-02 12:26:26+00:00,1444277594766069762,cosmos,"Cosmos, Internet of Blockchains.
+
+@cosmos Hub, @regen_network , @PersistenceOne , @osmosiszone , @akashnet_ , @cryptocom , @Sentinel_co  , @microtick_zone , @irisnetwork , @starname_me , @sifchain , @emoney_com  , @ixoworld , @JunoNetwork  
+
+#IBCGang 
+https://t.co/wXoiU4PIV3 https://t.co/Q9SBflAjjU",606,32,139,2021-10-02
+792,2021-10-04 18:20:21+00:00,1445091437717118978,cosmos,"Cosmos guarantees access to #IBCgang chains &amp; beyond, but there is more:
+🌱1 Seed Phrase
+🗝Multiple Keys
+⛓Multiple Chains
+👥Separate Identities
+
+Prepare yourself for a new level of #privacy thanks to the [Cosmos Derivation Path upgrade] by @confio_tech!
+https://t.co/bq0xMusRwi https://t.co/izTMABLwgP",317,10,68,2021-10-04
+793,2021-10-05 18:36:05+00:00,1445457783994814474,cosmos,"📣Calling All Builders!
+
+Don’t miss the opportunity to interact with the best Devs from @tendermintHQ without filters via the new Starport Community Calls!
+
+👇🏻Full Announcement
+https://t.co/ZVNzE25Lqx
+
+@StarportHQ:
+Everything you need to Build Your Own Chain from 0 to #IBCgang https://t.co/fKtno25B53",194,7,48,2021-10-05
+796,2021-10-07 14:04:26+00:00,1446114194667950090,cosmos,"🍻Cosmos #OctoberCodefest🍻
+
+Did you miss the Opening Ceremony with @ToschDev &amp; @soniasinglas?
+😎Don't worry, we got it covered!
+Watch the replay of the event and dive into the celebration of #OpenSource contributions by @cosmos &amp; @tendermintHQ!
+🎞https://t.co/ImSlTvzS5P https://t.co/23yJC6L6Zu",66,2,18,2021-10-07
+799,2021-10-08 12:55:34+00:00,1446459252265177088,cosmos,🚨 Live in 5’ minutes 🚨 https://t.co/3u9fKWR2O5,137,9,17,2021-10-08
+803,2021-10-11 20:38:00+00:00,1447662790798364672,cosmos,"📣 Calling ALL Developers
+
+Are You Ready for the Biggest HackAtom in Cosmos History?
+🚀 #HackAtomVI by @StarportHQ
+🏆 Prize Pool: $1,000,000 in $ATOM
+🗓 1 month virtual participation
+👤 Opening Ceremony: Nov 11th, Lisbon (In-person)
+
+Come &amp; build with us 👉https://t.co/rh5PZlrd0s https://t.co/PedK8DPRRK",468,35,174,2021-10-11
+804,2021-10-12 16:32:04+00:00,1447963289133146123,cosmos,"👩🏻‍🚀 Cosmos AMA Alert 👨🏽‍🚀
+
+Cosmonauts, join the community AMA with @ericinjective|Co-founder &amp; CEO of @InjectiveLabs!
+
+Ask Eric anything about
+💎 Injective Tokenomics
+📡 Upcoming #IBC connections
+⚙️ What comes next?
+
+Save the Date:
+Oct 14th, 5PM UTC
+🎟https://t.co/BXzDfeuoBn https://t.co/uXd6U186xj",308,12,56,2021-10-12
+805,2021-10-13 16:04:07+00:00,1448318641347436544,cosmos,"👩🏽‍🚀Introducing #HackAtomVI👨🏻‍🚀
+The Biggest Hackathon in Cosmos History with $1,000,000 of $ATOM in Prizes!
+
+Would you like to have an anticipation of the exciting things to come?
+🔑 Key Dates
+🕹 Challenges
+💃🏻 Side Events
+...and much more in our blogpost!
+👇🏻 https://t.co/Yz6c0MyLCw https://t.co/kiS2uexR9E",232,4,47,2021-10-13
+806,2021-10-14 21:03:09+00:00,1448756282605846538,cosmos,"🍿&lt;Codefest&gt; #github labels are popping!
+Cosmos Hub &amp; SDK
+@StarportHQ
+@PersistenceOne
+@CosmWasm
+@OmniFlixNetwork
+@irisnetwork
+@akashnet_
+@JunoNetwork
+@Sentinel_co
+@sifchain
+@ixoworld
+@likecoin
+Contribute to your fav cosmos project &amp; join #OctoberCodefest🍻
+https://t.co/Bm6qrUvnqZ https://t.co/TYyc9zLHvS",147,2,26,2021-10-14
+810,2021-10-15 08:08:48+00:00,1448923801459232786,cosmos,"👩🏻‍🚀👨🏽‍🚀Cosmonauts,
+Two must-attend community events are coming up:
+
+• the Rise of Cosmos | @PersistenceOne
+Oct 22nd ~ virtual 
+https://t.co/7UcruCSHSj
+
+• Cosmoverse | @Cryptocito &amp; @defitimes
+Nov 5-6 ~ in-person in Lisbon
+virtual event by @OmniFlixNetwork
+https://t.co/AadUpAmIRs https://t.co/aoICZtF2Yw",199,8,37,2021-10-15
+813,2021-10-18 16:29:26+00:00,1450136954209767429,cosmos,"Incoming Transmission Detected: 
+#CosmosSignal 
+
+Status: Finalizing...
+[🟥🟧🟧🟨🟨🟨🟨⬜️]
+
+Launch: 
+Oct 19th, 4pm UTC
+
+Note from the Operator:
+&lt;You thought you knew Cosmos, but what you've seen so far is nothing compared to what's coming.&gt;
+
+Tune in 📹 https://t.co/5pVXVG5uRv https://t.co/7cHmjBowKm",1055,72,343,2021-10-18
+814,2021-10-19 16:35:45+00:00,1450500930819006467,cosmos,"It's the Dawn of a New Era for Cosmos.
+ 
+Introducing #CosmosSignal,
+Our All-New Quarterly Keynote
+
+Read our Recap:
+https://t.co/Zdxnoq39Yy
+ 
+🔭 Q4 2021 Focus:
+• @emerisHQ
+• @StarportHQ
+• @FortePlatform
+• @terra_money
+• @InjectiveLabs
+• Interchain Security
+• @SaganNetwork https://t.co/7JG9Mac2Zt",466,18,126,2021-10-19
+827,2021-10-20 17:56:02+00:00,1450883522349211648,cosmos,"👩🏻‍🚀 Cosmos AMA Alert 👨🏽‍🚀
+
+Cosmonauts, join on Friday the Interview with Karim, CEO, and Stéphane, Product Manager of @starname_me!
+
+Ask them anything about:
+💎 Tokenomics 
+📲 App features
+💫 Roadmap &amp; what comes next?
+
+⏰October 22nd at 5PM UTC! 
+
+🎟️Sign up
+https://t.co/yBDJUcWBi7 https://t.co/GBCn1SEHui",173,12,34,2021-10-20
+828,2021-10-21 17:03:30+00:00,1451232689856593932,cosmos,"🚀IBC is Enabled on Terra!
+
+@terra_money with its ecosystem worth more than $18 Billion just joined the #IBCgang, enhancing trading on Cosmos DEXs for $LUNA &amp; $UST, the 5th-largest fiat-pegged stablecoin.
+
+Terra, Welcome to the Internet of Blockchains!
+
+https://t.co/yMSum0PHHj",1564,40,423,2021-10-21
+830,2021-10-22 12:51:01+00:00,1451531537254649861,cosmos,"⚛️ Cosmos AMA ⚛️
+
+💬 Replay 
+Did you miss @zcpeng's Community interview about #CosmosSignal, @emerisHQ, @StarportHQ and more?
+We got you covered!
+https://t.co/KktjwfQZhT
+
+...and don't miss today's AMA with @starname_me team 
+🚀https://t.co/XXHA1wFof2",112,4,20,2021-10-22
+832,2021-10-23 10:14:23+00:00,1451854505922994181,cosmos,"If you're in Berlin you can't miss the much-awaited #HackAtomVI Warmup Event!
+
+📍 Spielfeld Digital Hub, Berlin
+⏰ Oct 29th, doors opening at 5:30 CET
+🎙️ Amazing Speakers as Tobias &amp; Har Preet | @tendermintHQ and Aditya |@interchain_io 
+
+🎟️Register Now!
+https://t.co/3y13FqUhms https://t.co/orCxR0v55q",250,21,72,2021-10-23
+834,2021-10-26 18:36:11+00:00,1453067951909883912,cosmos,"👩🏻‍🚀 Cosmos AMA Alert 👨🏽‍🚀
+
+On October 27th join the community AMA with @JazearBrooks | @sifchain Founder and Lead Developer of @sifchain
+
+Ask Jazear anything about:
+⭐ SIFChain Tokenomics
+⚙ SIFchain on IBC &amp; DEX Integrations
+🌉 OMNI EVM Bridge
+
+🎟https://t.co/TxCOzmykyZ https://t.co/W8JGj2a8kb",240,11,47,2021-10-26
+837,2021-10-27 22:10:36+00:00,1453484299311849472,cosmos,"🔌Starport ~ A Plugin System
+
+A program like Starport can definitely benefit from a flexible plugin system that will allow developers to add functionality to Starport on the fly. 
+Your challenge is to build one!
+
+💎#HackAtomVI challenge brought to you by @StarportHQ https://t.co/aN7flUsMqt",39,1,4,2021-10-27
+845,2021-10-28 17:10:03+00:00,1453771051121496069,cosmos,"Developers, it’s time to build!
+ 
+🟢REGISTRATIONS ARE NOW OPEN🟢
+           👉🏻https://t.co/7jbXaADkUm👈🏻
+ 
+With a Prizepool of $1 Million in $ATOM, the Biggest HackAtom in Cosmos History is here!
+ 
+👩🏻‍🚀Need support or info?
+Ask inside the #HackAtomVI channels
+https://t.co/1dXMcBlhZ4 https://t.co/7DdnLAj7fL",44,2,4,2021-10-28
+853,2021-10-29 17:42:00+00:00,1454141482508734472,cosmos,"🔊 BitSong, welcome to the #IBCGang ! 🚀
+
+@BitSongOfficial https://t.co/DdNL2nQid2",225,2,39,2021-10-29
+871,2021-10-30 15:53:51+00:00,1454476651274907651,cosmos,"🕵️‍♂️Starship ~ Secret Network
+ 
+Hackers have to build a game on Secret Network using @CosmWasm, Secret #NFTs, and on-chain randomness.
+ 
+🥈 #HackAtomVI challenge brought to you by @SecretNetwork https://t.co/sayUrWjphL",146,3,18,2021-10-30
+876,2021-10-31 09:06:30+00:00,1454736527821623297,cosmos,"💻 #HackAtomVI Category
+End-User Apps ~ Solar Prize
+💰 Prize Pool $200K
+ 
+🔭 Focus:
+Build applications that make features more accessible or provide a more intuitive experience for end-users.
+ 
+Register Now [https://t.co/7jbXaADkUm]
+...and Dive into the Challenges👇🏻 https://t.co/HnTWl1dg35",141,7,22,2021-10-31
+882,2021-11-02 16:47:08+00:00,1455577225466679297,cosmos,"🔊 Stargaze, welcome to the #IBCGang ! 🚀
+
+With this latest addition, @StargazeZone becomes the 20th @cosmos chain to enable #IBC and join the Internet of Blockchains!
+
+Check https://t.co/wXoiU4PIV3 for complete stats on #IBC chains, transactions and #IBC transfers! 
+@MapOfZones https://t.co/6um1As093g",207,7,39,2021-11-02
+887,2021-11-03 17:09:04+00:00,1455945134340808711,cosmos,"🔊 Cosmoverse Community Conference, T-2 days!
+
+Cosmonauts, are you ready? 🎉
+
+Check out the program by @CccLisbon here 👉 https://t.co/1zHuuW404w https://t.co/EPz8xZbChh",171,8,32,2021-11-03
+889,2021-11-04 16:15:00+00:00,1456293913824739335,cosmos,"📣 Calling All Developers!
+
+Join us for the Opening Ceremony of the Biggest Hack $ATOM ever, #HackAtomVI!
+
+📍Lisbon
+November 11th
+⏰ 8:30 AM – 6:00 PM UTC
+
+There will be many workshops in between to get everyone warmed up, don’t miss it!
+
+🎟Limited Tickets
+https://t.co/KzGNyY6wSZ https://t.co/pwF1o1s0eW",346,17,63,2021-11-04
+890,2021-11-05 18:04:30+00:00,1456683857000992773,cosmos,"🔊 #Cosmoverse is trending! 🚀
+
+Contribute and spread the word about the Cosmos Community Conference by using the #Cosmoverse #hastag! 
+
+Watch it live here 📹 https://t.co/OzyD3bSdqB 
+
+@CccLisbon by @Cryptocito and @defitimes https://t.co/2HanAbr79v",265,20,67,2021-11-05
+893,2021-11-06 10:20:55+00:00,1456929581068439553,cosmos,"⚛️ #Cosmoverse Day 2 has just kicked off, and promises to be even better than the first one!
+Outstanding speakers and the best of Cosmos all in one stage!
+
+🎙 Watch @OmniFlixNetwork Livestream 
+https://t.co/Bz2yfBHJfL
+
+🧑🏻‍🚀 Read more about Day One Opening 
+https://t.co/hZ3dG9sR21 https://t.co/axTx6FR6K9",276,19,54,2021-11-06
+894,2021-11-09 11:56:56+00:00,1458040907312283648,cosmos,"#HackAtomVI Opening Ceremony
+⚛️Media Partner Announcement🎙
+
+We’re proud to announce the collaboration with @OmniFlixNetwork team, that will provide the best #metaverse experience to Cosmonauts and help spread content including 1:1 interviews with Cosmos Masterminds! https://t.co/faN8VVYyYV",287,21,67,2021-11-09
+897,2021-11-10 17:19:36+00:00,1458484497662550021,cosmos,"🧪 Osmosis Challenge ~ Osmosis
+
+Hackers have to build something cool with Osmosis.
+Bonus points if ION will be incorporated into the project 🧿
+
+🥈#HackAtomVI challenge brought to you by @osmosiszone Community Pool https://t.co/0bUX1a0S29",317,10,50,2021-11-10
+905,2021-11-11 07:19:26+00:00,1458695849828040704,cosmos,"👩‍🚀👨‍🚀Cosmonauts,
+Today is #HackAtomVI Opening Ceremony day!
+
+• Keynotes from Cosmos’s Masterminds
+• Workshops with the Best Core Devs
+...and more!
+
+📍Lisbon (in-person) 9AM GMT
+https://t.co/KzGNyY6wSZ
+
+💻Youtube (livestream) 10AM GMT
+https://t.co/w4Zc8deVPa https://t.co/zaMD5VGjqb",237,20,43,2021-11-11
+907,2021-11-15 22:43:41+00:00,1460377996972511234,cosmos,"Ki Foundation, welcome to #IBCGang ! 🚀
+
+@Ki_Foundation https://t.co/2E3ftws772",222,7,41,2021-11-15
+909,2021-11-16 20:45:48+00:00,1460710717267533827,cosmos,"🎞 #HackAtomVI Workshop Replay
+
+👨‍🚀👩🏼‍🚀Tutors
+Likhita Polavarapu | @vitwit_
+Amaury Martiny | @regen_network
+
+Learn how Cosmos-SDK x/authz &amp; x/feegrant modules work and integrate them into a blockchain app to add benefits for your Cosmos-SDK based chain users!
+https://t.co/6lcjYesy7n https://t.co/m02GHAo0uk",98,6,16,2021-11-16
+910,2021-11-17 20:09:05+00:00,1461063866385895435,cosmos,"👨🏻‍💻 HackAtom VI workshop
+
+🗓 Friday, Nov 19th 3pm UTC
+👨‍🚀 @andynogdev | @informalinc 
+
+Learn how a relayer, such as Hermes, is a critical part of the infrastructure of the Interchain acting like the IBC ""messenger"".
+
+Join 👉 https://t.co/6xNtmF8CF3
+View 📹 https://t.co/woCM0Wn34j https://t.co/VyM47xw61Q",130,5,27,2021-11-17
+912,2021-11-18 02:13:19+00:00,1461155529561104391,cosmos,"We are 250,000 Cosmonauts here! 🚀
+Thank you all for being part of @cosmos! 
+
+The road to 1 million followers supports the vision of 1 million @cosmos blockchains! Together we will make this happen!
+
+Onwards! 👨‍🚀👩🏼‍🚀 https://t.co/Lk6R6n9L5k",531,21,91,2021-11-18
+914,2021-11-20 13:06:04+00:00,1462044573484695558,cosmos,"⚛️ #HackAtomVI 💡
+Brainstorming Session
+
+Are you hacking on the @JunoNetwork+https://t.co/iJlLqHOfVW challenge?
+If yes, we've got you covered!
+
+Ask @dimiandre Anything about the challenge &amp; brainstorm together about winning solutions!
+
+⏰ Nov 22•4pm UTC
+📽️https://t.co/6xNtmF8CF3 https://t.co/vs8YVxOcl3",177,4,34,2021-11-20
+915,2021-11-22 01:44:51+00:00,1462597913968848903,cosmos,""" By leveraging a highly trusted and used platform such as Cosmos to move @zcash to proof of stake, we would immediately realize the benefit of cross-chain interoperability with other projects participating on the platform""
+
+📝 https://t.co/az0aFPLbzL
+
+📰 https://t.co/C5Vq4jcaEn",699,22,156,2021-11-22
+918,2021-11-23 16:55:38+00:00,1463189509361872909,cosmos,"⚛️ #HackAtomVI 💡
+Brainstorming Session
+
+Are you hacking on the @SecretNetwork challenge?
+If yes, we've got you covered!
+
+Ask @assafmo Anything about Secret's Gaming challenge &amp; brainstorm together about winning solutions!
+
+⏰ TODAY Nov 23 • 6pm UTC
+💻https://t.co/6xNtmF8CF3 https://t.co/tkT8CIGgeY",197,6,37,2021-11-23
+927,2021-11-24 17:51:21+00:00,1463565917544194052,cosmos,"⚛️ #HackAtomVI 💡
+Brainstorming Session
+
+Are you hacking on the @pylonstech challenges?
+If yes, we've got you covered!
+
+Ask Mijolae &amp; Alex Anything about Pylons’s challenges &amp; brainstorm together about winning solutions!
+
+⏰TODAY Nov 24 • 7pm UTC
+💻https://t.co/6xNtmF8CF3 https://t.co/eoooFZq5q4",98,1,24,2021-11-24
+932,2021-11-25 12:57:55+00:00,1463854462980788232,cosmos,"⚛️ #HackAtomVI 💡
+Brainstorming Session
+⏰NOW Nov 25 • 1pm UTC
+
+Are you hacking on the @StarportHQ challenge?
+If yes, we've got you covered!
+
+Ask @fadeev about Starport's challenge &amp; brainstorm together about winning solutions!
+
+💻https://t.co/6xNtmF8CF3 https://t.co/OLNsQ4mJYP",95,2,20,2021-11-25
+935,2021-11-26 10:49:59+00:00,1464184653984714755,cosmos,"🚨Breaking News🚨
+
+📢#NFTs Travel from Cosmos-SDK-based WenChang Chain to #Ethereum for the First Time through #IBCGang Member @irisnetwork!
+
+Read more about the 1st NFT #IBC transaction between 4 chains &amp; the cutting-edge technology that made it possible:
+https://t.co/dC66PYDHYQ https://t.co/YKvQXF1cjc",471,16,99,2021-11-26
+936,2021-11-28 10:48:20+00:00,1464909015608135682,cosmos,"🔭Interchain Security: From One Chain to Many
+
+""Interchain Security will allow $ATOM holders to earn staking rewards on a large number of Cosmos chains, just by staking their $ATOM ""
+
+Read latest @informalinc's update on this and what it means for the Hub https://t.co/EmovQyKpG5 https://t.co/phfCgYl8Pg",503,45,199,2021-11-28
+939,2021-11-29 15:33:27+00:00,1465343154509467650,cosmos,"⚛️🏛Cosmos Gov🏛⚛️
+ 🟢 VOTING PERIOD 🟢
+
+Proposal #59 • Software Upgrade
+https://t.co/0qrxF5oHhy
+By voting [YES] to this proposal, you approve of executing the Vega Upgrade on the Cosmos Hub at block 8695000!
+
+Cast Your Vote via:
+💻 @keplrwallet
+📱 @IBCwallet 
+📱 @WalletRainbow https://t.co/Y9W7afdAND",298,15,70,2021-11-29
+943,2021-11-30 10:24:34+00:00,1465627807904641027,cosmos,"👨🏻‍💻 #HackAtom VI workshop
+⏰ Nov 30th, 12:00 UTC
+👨‍🚀 Noam Cohen @interchain_io 
+
+In this workshop, you'll dive deep into the brand new Cosmos Academy and learn how you can get started in creating your own chain from scratch using @StarportHQ.
+
+Join 📹 https://t.co/6xNtmF8CF3 https://t.co/KuNwKbsxkv",156,9,31,2021-11-30
+945,2021-12-01 11:59:39+00:00,1466014124597514241,cosmos,"👩🏻‍🚀👨🏻‍🚀Cosmonauts, 
+Let's Write Cosmos's History Together!
+
+The ever-expanding Interchain Ecosystem is made of Stars, be part of it by adding yours to the @cosmoshub repo!
+⭐️Log-in/Create a #github account
+⭐️Go to https://t.co/eSSNuBSKCu
+⭐️Click on the [Star] button on the top-right https://t.co/Tw9KkS2q5B https://t.co/1IiYg9UZZd",143,18,20,2021-12-01
+947,2021-12-02 16:22:04+00:00,1466442552052260867,cosmos,"Comdex, welcome to @cosmos and to the #IBCGang ! 🚀
+https://t.co/wXoiU4PIV3 @MapOfZones @ComdexOfficial 
+
+Explore the Cosmos ecosystem of 261 apps and services built on Cosmos 👉 https://t.co/vvyY5wz5Rn https://t.co/7e6BS4OyR8",205,7,33,2021-12-02
+950,2021-12-07 12:40:31+00:00,1468198736828538884,cosmos,"🔊 Attention: #HackAtomVI participants!
+
+You have less than 30 hours to submit your HackAtom VI project !
+
+Checklist:
+👨🏻‍💻 Have you added your code?
+📹 Has your presentation video been fully uploaded?
+
+🏃🏻‍♀️🏃🏻‍♂️Hurry up and press that submit button! 👇
+https://t.co/IsCXLFwpYG https://t.co/2waXhCVxje",140,5,33,2021-12-07
+952,2021-12-08 15:26:20+00:00,1468602852826353667,cosmos,"Q: How does the future look like?
+
+"" We get a multi-rollup future for Ethereum - the Cosmos multi–chain vision, but on top of a base layer providing data availability &amp; shared security"" @VitalikButerin shares his views on the @ethereum roadmap. https://t.co/0dojxoYEnp
+
+A: Cosmos.",415,26,109,2021-12-08
+953,2021-12-09 13:19:22+00:00,1468933291768176642,cosmos,"🔊 Interchain Already Worth $60B+
+
+In just 8 months since IBC launched, 25 chains worth $60B+ combined have joined the #IBCGang sending over 5.8M transactions! Plus, in 2022, Cosmos will connect to Bitcoin, Polkadot, Celo, Hyperledger &amp; more through IBC! 👇https://t.co/LINYI29VIP https://t.co/MG3Zo4Bims",915,87,347,2021-12-09
+955,2021-12-10 21:48:12+00:00,1469423729419735050,cosmos,"🔭 Connecting Cosmos to Ethereum
+
+Looking for exciting news from the Ecosystem?
+Find out the latest about the Gravity Bridge Chain developed by @AltheaNetwork in this blog post by @DeborahSimpier! 
+🌉 https://t.co/VvhrGq30We https://t.co/DsI1GY96Ir",558,21,147,2021-12-10
+957,2021-12-11 11:43:18+00:00,1469633890956546048,cosmos,"🌐 The IBC protocol is being adopted worldwide by more and more leading companies.
+We are grateful to @datachain_en for being valuable ambassadors and key contributors.
+We also thank @interchain_io for constantly supporting and encouraging research and adoption of the Interchain. https://t.co/lM8Ri6hMrv https://t.co/AxubNZWqZJ",275,9,65,2021-12-11
+959,2021-12-13 19:17:06+00:00,1470472866403606528,cosmos,"🎓 #HackAtom VI Board Judge spotlight
+
+Billy Rennekamp is the Cosmos Hub Product Lead at the @interchain_io. Other projects that he has contributed to include Ethereum, Gnosis, Aragon &amp; Relevant.
+Find @billyrennekamp working on the Cosmos Hub Roadmap 2.0 👇https://t.co/cjCiiE7ndq https://t.co/I4VxpOpgvV",122,3,27,2021-12-13
+962,2021-12-14 21:21:40+00:00,1470866602518368264,cosmos,"⚛️Cosmos 2021  ~ Rewind⏪
+A Look Back on an Interstellar Year
+
+Cosmonauts, this has been a year to remember:
+•IBC Launch
+•Whitepaper Completion
+•Cosmos #DeFi
+•Bridges to #Ethereum
+•#Airdrops
+...and more in our Recap Article by @christinacomben 
+⏯️ https://t.co/R3HdyzlGfe https://t.co/RmOdLuBsOS",310,13,70,2021-12-14
+969,2021-12-15 07:45:05+00:00,1471023492460072961,cosmos,"🎓 #HackAtom VI Board Judge spotlight
+
+Ethan is a co-founder of Tendermint and Cosmos projects, and continues to be actively involved in their development. @buchmanster is @informalinc CEO a company focused on verifiable distributed systems &amp; orgs, including formal verification. https://t.co/2OQoqdFTQc",112,6,19,2021-12-15
+975,2021-12-16 00:00:04+00:00,1471268854299041793,cosmos,"🎓 #HackAtom VI Board Judge spotlight
+
+A core Cosmos contributor, Sunny Aggarwal started his work as a Research Scientist on Tendermint BFT.
+Today, @sunnya97 is a Co-Founder &amp; one of the lead architects of Osmosis Labs, a dev team building the @osmosiszone DEX on the Cosmos SDK. https://t.co/oTz0Ulbkvi",200,21,31,2021-12-16
+977,2021-12-20 16:08:14+00:00,1472962052771753985,cosmos,"🔊 #HackAtom VI winners 🎉
+
+HackAtom VI has come to an end! With a record of 1960 sign-ups and 103 projects submitted, we are excited to present you the winners!
+
+🏆 https://t.co/agCxi3et90
+
+We look forward to seeing you all at the next HackAtom in 2022! 🚀 https://t.co/B9ZKOVOo0J",222,30,48,2021-12-20
+978,2021-12-23 16:02:15+00:00,1474047709753622538,cosmos,"2021 has been an interstellar year for Cosmos!🚀
+
+But we’re only at the start of this amazing journey w/ so many exciting plans on the horizon &amp; plenty of developments already in the pipeline for 2022.
+
+Check out the highlights &amp; prepare for what's coming
+https://t.co/VUA730PAH6 https://t.co/x7xto37WvK",2301,584,1045,2021-12-23
+979,2021-12-25 19:50:17+00:00,1474829874963656708,cosmos,"To the creators, the thinkers, the builders, the community, and to each and every one of you who have been with us from the beginning, following &amp; supporting us along the way, while we build the future of tomorrow...we wish you all Merry Christmas! 
+May the Cosmos be with you!✨ https://t.co/5NPopsl60i",776,53,102,2021-12-25
+980,2021-12-28 11:57:27+00:00,1475798042695585796,cosmos,"The value of a network lies in the number of its dapps.
+#CosmosFacts
+
+https://t.co/vvyY5wz5Rn https://t.co/vfI2MOfpbr",1216,119,237,2021-12-28
+981,2021-12-30 12:20:19+00:00,1476528574744219652,cosmos,"Cosmos is the only cross-chain ecosystem in the world that uses an interoperability standard.
+#CosmosFacts
+
+https://t.co/HwBEUuchyP https://t.co/9b9YRyLfVS",754,55,149,2021-12-30
+982,2022-01-01 01:17:06+00:00,1477086444745330688,cosmos,"Happy New Year cosmonauts! 🎊
+
+Thank you for the support and for helping us bring the Internet of Blockchains to life! We could not have done this without you!
+2021, you've been great!
+
+2️⃣0️⃣2️⃣2️⃣, we are ready!🚀 https://t.co/o1Fr474ExZ",936,61,158,2022-01-01
+984,2022-01-03 10:13:58+00:00,1477946331222134784,cosmos,"IBC is the only live interoperability standard to connect blockchains together, supporting a shared economy of 75 billions USD. 
+#CosmosFacts
+
+https://t.co/HwBEUuchyP https://t.co/EOt7biF9PT",877,57,180,2022-01-03
+985,2022-01-06 11:03:39+00:00,1479045995648499715,cosmos,"The estimated yearly consumption of a Cosmos-based blockchain is less than the energy consumed by Bitcoin in a single day.
+#CosmosFacts
+
+https://t.co/tzFfh3c3ID https://t.co/HWcZcJdM2D",980,53,258,2022-01-06
+987,2022-01-09 14:15:46+00:00,1480181506316419078,cosmos,"Cosmos is one of the few networks that has delivered on their original whitepaper. Inter-blockchain communication protocol, #IBC, was the last piece to complete its interoperability vision. Today Cosmos is working on Cosmos Hub roadmap 2.0.
+#CosmosFacts
+
+https://t.co/U2yhYEHGCI https://t.co/uRJKL90n2v",1223,66,284,2022-01-09
+988,2022-01-10 20:16:05+00:00,1480634573134438400,cosmos,"Thank you all for being part of Cosmos! 
+
+We are over 300,000 Cosmonauts here and growing by the day!
+
+The Internet of Blockchains is here! 🚀
+
+&gt;&gt;&gt;&gt;&gt;&gt; https://t.co/wXoiU4PIV3 &lt;&lt;&lt;&lt;&lt;&lt; https://t.co/j92tfql1Sl",899,64,145,2022-01-10
+989,2022-01-12 19:12:58+00:00,1481343465476792322,cosmos,"🔊New bridge b/w @harmonyprotocol 🤝 @cosmos by @datachain_en 
+
+The bridge will make it possible to move assets on Harmony to Cosmos IBC-enabled blockchains and vice versa. With the IBC protocol, the bridge is built using trustless intermediaries to achieve interoperability.
+👇 https://t.co/BfIFoIflWZ",951,47,204,2022-01-12
+990,2022-01-13 11:04:32+00:00,1481582932229869570,cosmos,"Today, join us for a new edition of “Privacy in Cosmos"", brought to you by the @ZKValidator with support from the Cosmos Hub &amp; @zeroknowledgefm.
+
+⏰16:30 UTC
+
+Speakers: @CelestiaOrg, @gravity_bridge, @EvmosOrg, @agoric, @axelarcore, @sommfinance &amp; more.
+
+https://t.co/SyJ54sFKoN",406,42,82,2022-01-13
+991,2022-01-14 09:36:21+00:00,1481923127605145602,cosmos,"“Interchain security, the ability to use one staking token across multiple networks to secure those networks"" began testing end of 2021.
+
+Read about the innovation that will allow Cosmos Hub to “rent” security to other chains in an article by @Blockworks_ 
+https://t.co/09nlFbLmsT",708,45,187,2022-01-14
+992,2022-01-15 09:18:34+00:00,1482281042061172736,cosmos,"🔊Liquidity Staking Module is coming to Cosmos! 
+
+🎯 Liquid Staking will give additional functionality to the staked chain assets, meaning that $ATOM will be able to issue a staking derivative without needing to unbond/redelegate.
+
+Learn more 👉https://t.co/UXnqHahwL6 by @zmanian https://t.co/onKfCSldoW",788,65,165,2022-01-15
+993,2022-01-18 10:33:35+00:00,1483387084014596102,cosmos,"👩🏼‍🚀Cosmos AMA Alert 👩🏼‍🚀
+
+Cosmonauts, on 21st Jan at 1 AM UTC, join the Community AMA on @0xCarbon with @ivan_switcheo | Co-Founder of @SwitcheoLabs !
+Ask Ivan anything about:
+💰How Carbon will reward users
+⚙️ Tokenomics &amp; Integrations
+🚀Roadmap
+
+Sign Up 👉 https://t.co/WGEuG7VUrM",391,46,94,2022-01-18
+994,2022-01-20 18:31:35+00:00,1484232154468995081,cosmos,"Kava, welcome to Cosmos #IBCGang!
+
+https://t.co/LMKCwh4wxr
+
+@kava_platform https://t.co/s4GWZZ5ie8 https://t.co/fqP9KQ0oma",436,35,75,2022-01-20
+995,2022-01-28 18:51:23+00:00,1487136239354626057,cosmos,"Cosmos is working to solve one of the toughest problems in crypto: allowing blockchains to communicate with each other and share data. 
+
+Read @buchmanster interview in @financialpost on Cosmos, #IBC and his vision for the future of blockchains👇
+https://t.co/axIflofRZf https://t.co/UPHPo1E7m9",333,18,77,2022-01-28
+996,2022-01-29 10:02:22+00:00,1487365492838912001,cosmos,"Desmos welcome to Cosmos #IBC! 🚀
+
+@DesmosNetwork 
+
+#IBC stats:
+✨ ~ 5.4M #IBC transactions a month
+✨ 32 connected #IBC chains
+
+More info at https://t.co/wXoiU4PIV3 @MapOfZones https://t.co/ZCUgdw6QUM",317,26,69,2022-01-29
+997,2022-01-31 10:18:55+00:00,1488094435078549508,cosmos,"Gravity Bridge, welcome to Cosmos #IBC! 🚀
+
+@gravity_bridge @MapOfZones #IBCGang https://t.co/KNkhuThNm1",385,17,86,2022-01-31
+998,2022-02-02 21:53:43+00:00,1488994061843406857,cosmos,"Interchain Security is Coming to Cosmos 🚀
+
+The first overview of the Interchain Security, Cosmos-specific category of Shared Security that uses #IBC - the Inter-Blockchain Communication protocol, by @informalinc is here! 
+
+Check it out 👇 https://t.co/ngdGO2RkpJ",555,34,144,2022-02-02
+999,2022-02-03 18:02:06+00:00,1489298161059471361,cosmos,"🔊 Testnets coming to Cosmos🚀
+
+Testnets are vital to success and Cosmos chains run them before mainnet launch to try new features, stress-test their networks &amp; ensure stable validator setups. 
+
+Check out some of the most exciting ones coming up in H1 2022
+https://t.co/4cdJYTc7L6 https://t.co/GkDxRvXUBB",817,34,242,2022-02-03
+1000,2022-02-08 12:32:12+00:00,1491027081848758276,cosmos,"Sommfinance, welcome to @cosmos #IBCGang! 🚀
+
+@sommfinance @MapOfZones 
+   &gt;&gt; https://t.co/wXoiU57jMB &lt;&lt; https://t.co/wwiEg40pL5",292,20,61,2022-02-08
+1001,2022-02-09 08:50:06+00:00,1491333574800572416,cosmos,"🔊 Attention Cosmos Builders
+
+The end of life for the Cosmos SDK v0.42 (Stargate version) happens today. In order to ensure development continuity, make sure you upgrade to Cosmos SDK v0.44 or v0.45 as soon as possible. 
+https://t.co/2L7JfpBVi1
+
+Questions https://t.co/2BFZhDZ5He https://t.co/dzDCIFX0o8",374,15,100,2022-02-09
+1003,2022-02-15 21:29:14+00:00,1493698944467181573,cosmos,"Umee, congratulations on a succesful mainnet launch! 🚀
+
+Welcome to Cosmos #IBCGang ! ⚛️🌐
+https://t.co/BZlPgDwh3t @Umee_CrossChain https://t.co/XpDwJ3xpjF",480,34,94,2022-02-15
+1005,2022-02-21 20:51:24+00:00,1495863750951321600,cosmos,"Thank you Tendermint team for all the wonderful work so far in building the Cosmos brand and community. 
+Looking forward to a new chapter under the guidance of @interchain_io . https://t.co/xtQ6ED38ns",231,13,70,2022-02-21
+1006,2022-02-22 18:43:48+00:00,1496194025073827850,cosmos,"🔊 Interchain Accounts have landed in Cosmos! 
+
+This next exciting interaction of #IBC allows blockchains to control entire accounts on other chains &amp; brings composability &amp; interoperability that is so much needed in Cosmos DeFi!
+Read more about it here 👇 https://t.co/hb7z3COSfd https://t.co/gYnilfCk3H",640,24,220,2022-02-22
+1007,2022-02-25 13:15:06+00:00,1497198471962574880,cosmos,"🛠 Code with us workshop
+⚙️ Starport: A Scavenger Hunt Tutorial
+🗓 28th Feb, 18pm UTC
+
+Learn how to build a working game by implementing custom logic in the @StarportHQ CLI commands &amp; using an escrow account to store tokens.
+👨‍🚀 @Ali_the_Curios 
+Register 👉 https://t.co/qPFrWpZ8sP https://t.co/Zhb2ZDbQvc",206,24,74,2022-02-25
+1009,2022-02-28 17:53:32+00:00,1498355705463681032,cosmos,"🔊 Starting in 10 minutes! 🚀
+
+🛠 Code with us workshop
+⚙️ Starport: A Scavenger Hunt Tutorial
+
+Join now 👉 https://t.co/qPFrWpZ8sP https://t.co/82PhYfvgQJ",118,16,35,2022-02-28
+1010,2022-03-02 20:47:49+00:00,1499124340444610570,cosmos,"🔊 Gravity Bridge Chain update
+
+Discover the latest info on @gravity_bridge brought to you by @DeborahSimpier and get insight into:
+✨Gravity Bridge milestones
+✨What Is Gravity Bridge and how it works
+✨Gravity allocation, sustainability &amp; Cosmos Growth
+https://t.co/n7ngKv7Foa https://t.co/NStPZxfZT4",222,21,56,2022-03-02
+1011,2022-03-03 10:23:31+00:00,1499329614795182083,cosmos,"🛠 Code with us workshop
+⚙️ Create Your Own CosmWasm dApps and NFTs 
+🗓 3rd March, 3 pm UTC
+
+Learn how to create smart contracts using the @archwayHQ developer CLI, build your own dApp frontend and transfer NFT collection smart contracts.
+
+Register 👉 https://t.co/ysP4JLrNXJ https://t.co/g3sTOd4rpn",246,23,86,2022-03-03
+1012,2022-03-04 10:22:33+00:00,1499691759630229521,cosmos,"Evmos, congratulations on a successful mainnet launch!
+
+Welcome to @cosmos #IBCGang ! 🚀
+@EvmosOrg 
+
+https://t.co/OE63iGDBjQ https://t.co/Gyr6TnBXxD",456,41,90,2022-03-04
+1013,2022-03-11 13:18:23+00:00,1502272725972361219,cosmos,"Cosmos Hub validators, get ready! 🚀
+
+Theta testnet is scheduled for March 17th! 
+
+What will we be testing?
+👉 Cosmos SDK v0.45.1
+👉 Interchain Account Module
+👉 IBC v3.0.0 and more
+
+Details https://t.co/KWegL14VCv
+
+Stay tuned for more updates and instructions! 👨‍🚀👩🏼‍🚀 https://t.co/AyfHyiw4Ag",372,45,118,2022-03-11
+1014,2022-03-23 13:52:18+00:00,1506629914283417607,cosmos,"👨🏽‍🚀#IBCGang is taking over #AvalancheSummit
+
+Watch the replay of [Mapping the Interoperability Landscape] in which @billyrennekamp,  @cosmoshub Lead @ Interchain GmbH, explains why #IBC is the future we've all been waiting for!
+
+Press ⏯ at min 0:42:37
+https://t.co/Y6XLUkdHQC",124,23,30,2022-03-23
+1015,2022-03-24 18:11:10+00:00,1507057450750550020,cosmos,"📡 Proposal #62 to move Gravity DEX protocol to a separate chain
+
+Find out a/ Crescent Network @CrescentHub and how @B__Harvest plans to migrate Gravity DEX from Cosmos Hub to provide more options &amp; flexibility to the project.
+
+https://t.co/FGqvmYhFZu
+
+🗳 https://t.co/lzPKTeuUat https://t.co/5L7yxorciQ",245,23,64,2022-03-24
+1016,2022-03-25 19:52:18+00:00,1507445289417940993,cosmos,"🔊 The governance on-chain proposal #65 to adopt the first release for Theta upgrade for the @cosmoshub mainnet is in voting period!
+
+✨upgrade cosmos-sdk to v0.45.1
+✨upgrade ibc-go module to v3.0.0
+✨add interchain account module 
+✨and more
+
+Vote now 👉 https://t.co/HJMXJXrGz1 https://t.co/Kbq0sfezZM",413,98,156,2022-03-25
+1017,2022-04-07 17:09:57+00:00,1512115472904474624,cosmos,"Cosmos Hub Proposal #65 [Theta]
+is still in VOTING PERIOD 🗳
+With 90k addresses voting this is a new all-time high for Cosmos Governance!
+👨‍🚀👩🏼‍🚀 Are you ready to write history with us?
+Vote now with your favorite Cosmos Wallet before April 8 at 12:13 UTC!
+https://t.co/HJMXJXrGz1",93,8,10,2022-04-07
+1020,2022-04-08 12:15:26+00:00,1512403742943031300,cosmos,"⚛️ Road to #ThetaUpgrade
+
+Cosmonauts, in preparation for the @cosmoshub upgrade scheduled for April 12 our incredible #IBC product Lead @charleenfei has prepared a FAQ for you, outlining why you should be so excited for the advent of #InterchainAccounts!
+🚀https://t.co/Y4nPvc3z55 https://t.co/4aSUQXNZPy",364,15,111,2022-04-08
+1021,2022-04-12 20:20:04+00:00,1513975258520473604,cosmos,"🔊 Cosmos Hub Theta upgrade ✅
+
+Congratulations to the Cosmos developers and validators for a successful and smooth upgrade which brings:
+👉SDK v0.45.1
+👉#IBC v3.0.0
+👉Interchain Accounts 
+
+Learn more a/ Interchain Accounts and their role in the Interchain https://t.co/Y4nPvc3z55 https://t.co/996b7ABQB2",498,31,143,2022-04-12
+1022,2022-04-14 09:33:47+00:00,1514537389393387522,cosmos,"Crescent, congratulations for a successful mainnet launch! 🚀
+
+Welcome to Cosmos, #IBCGang ! 🌐⚛️
+
+https://t.co/PyQ6jBiuvr 
+@CrescentHub https://t.co/EL5OSKsdA7",340,29,75,2022-04-14
+1023,2022-04-20 19:16:55+00:00,1516858469894262791,cosmos,"⚛️ The Inter-blockchain Communication [#IBC] Protocol, Cosmos Signature Gem that allows seamless #CrossChain interactions, is becoming a critical player in the enterprise space.
+@datachain_en, @interchain_io grantee, explains why in their latest article 👇
+https://t.co/zvVGopnzvl https://t.co/dWwGZ4PtO1",351,40,89,2022-04-20
+1024,2022-05-11 15:14:22+00:00,1524407573604188162,cosmos,"Staking in the Cosmos network is accessible, simple and rewarding— join the community, secure consensus, govern the network. 
+
+Learn how staking in Cosmos makes the ecosystem more secure and the different solutions you can use for that 👉 https://t.co/oaIuNmdOt7 https://t.co/FO4QGhDxFq",286,34,56,2022-05-11
+1025,2022-05-13 21:03:05+00:00,1525220107793928192,cosmos,"8) Moving forward, the community is getting together to leverage @cosmos governance to continue to support the incredibly passionate and talented group of developers to continue what they do best: innovate. Stay tuned. 🙏",288,33,24,2022-05-13
+1033,2022-05-17 09:54:01+00:00,1526501284123226112,cosmos,"The @KYVENetwork is migrating from an EVM-based chain to @cosmossdk for greater flexibility and scale. Read how KYVE’s Layer 1 requirements were satisfied by Cosmos SDK’s secure, modular, composable framework 👇
+https://t.co/8vcQieqRx1 https://t.co/FQsTnjC7Fj",475,73,143,2022-05-17
+1034,2022-06-22 17:09:14+00:00,1539656770406125569,cosmos,"Cosmonauts, we're welcoming @ThatKevinSmith to the ecosystem w/a Cosmos community Q&amp;A on @interchainfm. Indie filmmakers &amp; Hollywood alike are realizing IBC ecosystem's potential to home their movie NFTs.
+🗓 June 23rd, starting @ 6pm UTC
+Watch it live 📹https://t.co/XjQXgLzmQr",156,23,33,2022-06-22
+1036,2022-06-28 08:35:31+00:00,1541701819726012417,cosmos,"🔊 Developers, it's time for HackATOM Seoul! 👨🏻‍💻👩‍💻
+
+#HackATOM is back and will be in-person this July! 
+Dive into this blog post to learn all the details behind the hackathon competition, challenges, amazing workshops and building with Cosmos. 
+
+Register 👉 https://t.co/lC62jDFuHL",619,288,327,2022-06-28
+1037,2022-06-29 11:59:01+00:00,1542115417317117957,cosmos,"📝 The Inter-Blockchain Communication (IBC) 🌐 protocol provides a wealth of benefits, one being that it's more secure.
+
+Discover what the IBC protocol is, how it works and the problems it solves in this blog post 👇
+https://t.co/b48MMEf9BQ",272,39,81,2022-06-29
+1038,2022-07-01 13:43:07+00:00,1542866393418420224,cosmos,"Composable’s @unchained_event is happening today!
+All star lineup including @confio_tech, @CelestiaOrg, @cosmossdk, @cosmosibc, @anomanetwork &amp; more! We’ll also be sharing a demonstration of interoperability between Cosmos &lt;&gt; Polkadot using IBC.
+
+Watch 📹 https://t.co/lHicgymOPL",191,47,50,2022-07-01
+1039,2022-07-15 13:37:28+00:00,1547938400862232585,cosmos,"🔊 HackATOM is just two weeks away! 👨🏻‍💻👩‍💻
+
+Join us in Seoul to build with Cosmos and compete in challenges surrounding interoperability, Interchain Security and more, for a chance to win $ATOM, $JUNO and $OSMO prizes. 
+
+Find out more 👉 https://t.co/edBhuSx5Ks https://t.co/8xBqrE3ZnW",133,27,45,2022-07-15
+1040,2022-07-19 20:36:31+00:00,1549493408586207233,cosmos,"⚛️ #HackATOM Seoul 🇰🇷
+
+The projects entering the competition will be judged on the following criteria: execution, code quality, innovation, technical documentation and usability, utility, and competitiveness. Meet the industry-leading judges! https://t.co/JJRq7VZPnZ",155,11,41,2022-07-19
+1045,2022-07-20 18:08:27+00:00,1549818535425310722,cosmos,"⚛️ #HackATOM Seoul🇰🇷
+
+👩‍🚀👨‍🚀 Cosmonauts, be sure to attend Cosmos-Con, at HackATOM Seoul 2022, next week. 
+
+Hackers, join HackATOM to win over $600k in Interchain Tokens, as well as other prizes! 
+
+Don’t miss out, register now! 👇
+https://t.co/lC62jDFuHL",52,3,5,2022-07-20
+1051,2022-07-21 18:28:15+00:00,1550185903695577091,cosmos,"6. @EvmosOrg Track: Solidity-related challenge
+
+🚀Mission:
+We are calling upon all #Ethereum and #solidity developers to deploy and develop on Evmos.
+
+🥇USD $30k in #EVMOS
+🥈USD $10k in #EVMOS (seven winners) https://t.co/wEfitHoAED",45,2,4,2022-07-21
+1062,2022-07-22 16:50:36+00:00,1550523717691768836,cosmos,"Just one week till ⚛️ #HackATOM Seoul🇰🇷
+
+Whether you want to hack or attend Cosmos-Con with the 30+ Cosmos OGs, be sure to register ASAP. 
+
+Here’s what we have in-store for you, including an exclusive workshop! 🔥🧵 https://t.co/kLut11LazQ",131,7,31,2022-07-22
+1069,2022-07-23 17:37:01+00:00,1550897786966753280,cosmos,"👩‍🚀👨‍🚀 Cosmonauts, be sure to attend Cosmos-Con, at HackATOM Seoul 2022, next week!
+
+Hackers, join HackATOM to win over $600k in Interchain Tokens, as well as other prizes!
+https://t.co/4p0Zj4WtSq
+
+Don’t miss out, register now! 👇
+https://t.co/lC62jDFuHL",57,8,6,2022-07-23
+1079,2022-07-28 14:52:39+00:00,1552668362714628096,cosmos,"Calling all Cosmos developers and builders! ⚛️
+
+Take on the challenge of competing in this year's HackATOM competition! Compete in challenges surrounding interoperability, Interchain Security and more. 👇 https://t.co/608rIxgknw",179,18,44,2022-07-28
+1081,2022-07-29 10:01:22+00:00,1552957447668736001,cosmos,"🔊 HackATOM is live! 
+
+Unable to attend HackATOM in-person? You can still see all the action and won't miss out! See the talks, workshops and competition take place live.
+Watch the livestream here now 👇
+📹 https://t.co/0Sm1EeGsNb",155,9,37,2022-07-29
+1082,2022-08-02 16:47:26+00:00,1554509190131027970,cosmos,"Don't miss this session at 11:30AM with Nik Kunkel (@MakerDAO), Marek (@CeloOrg), Dean Tribble, @DeanTribble (@Agoric), Josh (@OriginProtocol) moderated by Sam Kessler, @skesslr on Aug 5 and a 4:50PM panel with Ava Sun Yin from Anomas!
+
+View the schedule: https://t.co/edBhuSfuSU https://t.co/d3WO5RFtFf",25,4,7,2022-08-02
+1088,2022-08-10 18:05:32+00:00,1557427944196227072,cosmos,"10/
+The @EVMOSOrg track received great submissions. The three that won are:
+1st - the Davinci team stunned the judges with a sleek interface. https://t.co/9oeXjypfKZ",40,4,5,2022-08-10
+1104,2022-08-16 17:56:37+00:00,1559600027542048769,cosmos,"The trustless IBC bridge between @cosmos and @harmonyprotocol is now live on testnet:
+the Interchain is becoming unstoppable, thank you @datachain_en for your efforts in expanding our ecosystem https://t.co/DWmLlfmKTW",211,24,58,2022-08-16
+1105,2022-08-23 16:49:45+00:00,1562119918019018755,cosmos,5/ We look forward to announcing the recipient teams in Medellin at @CosmoverseHQ! 🇨🇴,54,1,5,2022-08-23
+1110,2022-08-30 19:18:01+00:00,1564693944792915974,cosmos,"Applications are open for the Interchain Developer Academy! 
+
+🎆 Level up your Cosmos expertise in 7 weeks
+
+🎆 Gain the skills to build your own application
+
+🎆 Earn a certificate of completion from @interchain_io 
+
+More info about how to apply here 👇🏾
+
+https://t.co/EgrxG4Q3Ib https://t.co/akYC4YT7hh",226,62,56,2022-08-30
+1111,2022-09-01 14:00:21+00:00,1565338774162182146,cosmos,"The first cohort of the Interchain Developer Academy has graduated! 🧑🏽‍🎓 
+
+After a 7-week journey, they’ve earned their certificate and are about to start exploring roles and projects in Cosmos.
+
+Could you be next? Applications are open for the next cohort! https://t.co/EgrxG4ysjB https://t.co/KwtGwS459C",150,9,46,2022-09-01
+1112,2022-09-02 18:05:22+00:00,1565762824491569152,cosmos,sovereignty,303,25,53,2022-09-02
+1113,2022-09-05 05:30:09+00:00,1566659931826442240,cosmos,"Are you a dev who’s passionate about Cosmos?
+
+⚛️Interchain Developer Academy ⚛️ is now open for applications!
+
+This is the first training program that takes you from web2 to #IBC!
+
+Apply here ➡️ https://t.co/EgrxG4QBxJ https://t.co/LgGQEgGeo9",229,16,51,2022-09-05
+1114,2022-09-08 06:20:55+00:00,1567759870367252480,cosmos,"If you have #coding experience and are curious to join the #Blockchain space, check out the Interchain Developer Academy. 
+
+A free, 7-week, online training program to master the Cosmos stack. 
+
+Limited places. Apply here 👇🏾
+
+https://t.co/EgrxG4QBxJ",156,13,37,2022-09-08
+1116,2022-09-09 17:45:52+00:00,1568294630751608832,cosmos,"3/
+In @Delphi_Digital’s blog, they describe in detail why the #Cosmos ecosystem has the technology, capability, and the capacity to host the Interchain vision for app-specific sovereign #blockchains 
+
+https://t.co/SMMwCFKvhD",63,2,8,2022-09-09

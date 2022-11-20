@@ -1,0 +1,626 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2021-01-25 18:03:07+00:00,1353765356926595074,ribbonfinance,France will never be the same,77,7,4,2021-01-25
+1,2021-01-26 09:26:00+00:00,1353997609329942529,ribbonfinance,We don't have a token on mainnet at this point. Don't get scammed!,30,2,4,2021-01-26
+2,2021-02-02 17:25:42+00:00,1356655043123019776,ribbonfinance,.@ribbonfinance x @HegicOptions x @opyn_  is the collaboration you never realized you needed https://t.co/PyOkaPLldr,183,15,23,2021-02-02
+6,2021-02-11 18:22:37+00:00,1359930856643710985,ribbonfinance,"We have a new logo! 
+
+(•_•) 
+( •_•)&gt;⌐■-■ 
+(⌐■_■) https://t.co/0J2bCzAuHg",39,3,3,2021-02-11
+8,2021-02-13 23:34:48+00:00,1360734197497888771,ribbonfinance,tfw you are deploying a contract to mainnet https://t.co/3FPpVcZnyT,38,3,4,2021-02-13
+9,2021-02-15 19:26:40+00:00,1361396528116563970,ribbonfinance,@lay2000lbs 🙏 means a lot coming from the creator of @PoolTogether_,3,0,0,2021-02-15
+22,2021-02-16 01:57:26+00:00,1361494867269062657,ribbonfinance,@jerrysun_ before end of Q1,1,0,0,2021-02-16
+24,2021-02-20 03:14:08+00:00,1362963719521783809,ribbonfinance,@classygustav @opyn_ @NFTX_ @larvalabs We approve 👍,1,0,0,2021-02-20
+25,2021-02-21 23:41:39+00:00,1363635025384792066,ribbonfinance,Someone has made a fake Ribbon Finance token on BSC. That's not us! We don't have a token on any blockchain.,20,0,1,2021-02-21
+26,2021-03-01 14:22:55+00:00,1366393515287203842,ribbonfinance,This is what the Ribbon smart contracts look like on the inside https://t.co/TeMnyjsTUp,35,1,4,2021-03-01
+27,2021-03-05 01:15:23+00:00,1367644879392825347,ribbonfinance,"@KadenZipfel ok, @ribbonfinance NFT coming soon 😎",3,0,0,2021-03-05
+29,2021-03-06 14:49:57+00:00,1368212259227512833,ribbonfinance,"@DeFi_Dad @krugman25 @zes_eth thanks! we are really still in alpha mode, but launching the flagship product (passive yield-generation through option selling) in a month or so",12,2,1,2021-03-06
+31,2021-03-11 18:50:37+00:00,1370084764645007364,ribbonfinance,"An in-depth look into Ribbon's next product: Option Vaults
+
+https://t.co/ZtZ9KO4dho",102,3,21,2021-03-11
+32,2021-03-17 17:01:17+00:00,1372231576189288455,ribbonfinance,"Although we have presented a few example strategies here, we expect the community to come up with more sophisticated strategies over time that do even better. 
+
+Ribbon provides the smart contract infrastructure for talented quants to create financial tools of the future 🎀",3,1,0,2021-03-17
+46,2021-03-18 16:04:49+00:00,1372579754881208331,ribbonfinance,fresh coat of paint 🎀 https://t.co/qbsswoYI5N,68,6,3,2021-03-18
+49,2021-03-19 14:36:59+00:00,1372920038043361284,ribbonfinance,"@CryptoMaestro @KnifeTipper our new product Theta Vault will have *significantly* lower gas fees. 
+
+only need to deposit + withdraw from the vault, and each one is approx the gas of 1 uniswap tx",7,0,0,2021-03-19
+51,2021-03-22 12:08:41+00:00,1373969880412782598,ribbonfinance,"We're hiring fullstack and Solidity engineers! Read more here https://t.co/wo0aRUuv4k
+
+DM us if you think you'd be a good fit ✨ https://t.co/c41qmAXK6C",23,2,3,2021-03-22
+53,2021-03-31 14:54:54+00:00,1377273202154606597,ribbonfinance,"Want to test out our Theta Vault on Kovan with our brand new UI? 
+
+Join our Discord for the link 👇
+https://t.co/UTL7lwy6HW https://t.co/wTWZBQLiYt",25,1,7,2021-03-31
+55,2021-04-06 09:56:02+00:00,1379372318607171584,ribbonfinance,"@0x_vadym @tomhschmidt yield first. principal protection later. 
+
+🦍",1,1,0,2021-04-06
+56,2021-04-07 01:23:59+00:00,1379605841318445060,ribbonfinance,Who wants to be the second? https://t.co/v7IGhfWSqV,48,6,3,2021-04-07
+57,2021-04-08 12:39:29+00:00,1380138225751195654,ribbonfinance,Monday https://t.co/tMMngLISQl,44,1,2,2021-04-08
+58,2021-04-10 23:46:44+00:00,1381030918941515782,ribbonfinance,@hotnewcrypto @bluekirbyfi we approve of this message,3,0,0,2021-04-10
+59,2021-04-12 16:37:51+00:00,1381647766296932358,ribbonfinance,"Today we are launching the Theta Vaults, a new type of yield product that generates yields through an automated options strategy. Read more here 👇
+
+https://t.co/u6hMP3Jua3",233,5,55,2021-04-12
+66,2021-04-13 00:29:37+00:00,1381766487493464067,ribbonfinance,"@frankthespankt1 yep, the ETH options market was not very liquid beyond that. 
+
+the strategy actually works better in a flat or down market, because the risk of exercise is much lower than in a bull market. 🎀",0,1,0,2021-04-13
+69,2021-04-16 17:13:09+00:00,1383106199051235330,ribbonfinance,"@_pirateat40 @opyn_ minting and trading OTC, they dont land on Opyn books. 
+
+that's how Ribbon works at the moment",1,0,0,2021-04-16
+74,2021-04-20 00:12:19+00:00,1384298850370740231,ribbonfinance,We help you earn yields *and* save gas. 💸⛽️ https://t.co/ofF3EBOqV0,15,0,1,2021-04-20
+75,2021-04-23 15:18:50+00:00,1385614144351653893,ribbonfinance,"Theta Vault Week 2 Update:
+
+💸  Last week options expired out of the money, vault collected premiums for free 
+
+👨‍👩‍👧‍👦 Total depositors: 122 addresses
+
+🤑 Vault sold $2.7k strike ETH Call for next week, pocketing 0.66% yield (~30+% APY)
+
+📈 Total premiums earned: 8.58 ETH (~$20k)",46,1,3,2021-04-23
+78,2021-04-27 15:50:27+00:00,1387071654476529666,ribbonfinance,Looks like the Theta Vault is about to have another week of +25% in USD terms but still down in ETH terms https://t.co/kGzLA9Lq7e,15,2,1,2021-04-27
+84,2021-04-28 17:53:26+00:00,1387464992379785223,ribbonfinance,@0WolfofCrypto0 Come back tomorrow!,2,1,0,2021-04-28
+89,2021-04-29 10:33:37+00:00,1387716694928470017,ribbonfinance,@CryptoMaestro https://t.co/SEOlzYbHms,6,1,0,2021-04-29
+91,2021-05-02 13:14:54+00:00,1388844447589408769,ribbonfinance,"@Beept4lk @ogiberstein badger APYs are high because of $BADGER incentives, our vaults currently are unincentivized and the yield comes from option selling.",3,1,0,2021-05-02
+92,2021-05-06 14:09:31+00:00,1390307746059198472,ribbonfinance,"We are excited to announce that we are raising the WBTC Theta Vault cap from 100 → 250 WBTC 🤑
+
+The vault hit capacity within ~1 hour when we launched it last week, so we are opening it up to more people today.
+
+#Bitcoin https://t.co/y7LrAgJJxe",50,2,9,2021-05-06
+93,2021-05-07 20:24:55+00:00,1390764604272300038,ribbonfinance,"@xkarga00 agreed, was trying to keep it to 280 characters 😅
+
+going forward will either do a screenshot of a post, or a longer thread. thx for the suggestion!",1,1,0,2021-05-07
+102,2021-05-11 12:07:38+00:00,1392089010869243906,ribbonfinance,"Today, we are excited to launch our latest product line: Puts Theta Vaults 🎉
+
+This lets users automatically sell put options on assets, which can be a highly profitable strategy if they believe that the asset is going to go up.
+
+We are starting with a Puts Theta Vault on $ETH 👇 https://t.co/AoZc0XFt5h",82,5,18,2021-05-11
+104,2021-05-14 13:54:04+00:00,1393202960394596354,ribbonfinance,"Weekly Performance of WBTC Theta Vault:
+
+💸 The vault sold the $65k strike Call and BTC expired at $50.1k, so the options expired out of the money. The vault earned ~0.32% (~16% APY) of yield!
+
+📈 BTCUSD is down -10%, but the vault is up in BTC-terms. Great way to stack sats 💰",14,1,2,2021-05-14
+107,2021-05-17 10:48:49+00:00,1394243504323313664,ribbonfinance,Love to see it 🎀 https://t.co/Cxka9VzbVW,11,0,1,2021-05-17
+108,2021-05-18 11:56:28+00:00,1394622917099536384,ribbonfinance,One of the best in-depth reviews of what we do! 👇 https://t.co/blc6WaXIUn,24,0,4,2021-05-18
+109,2021-05-21 17:17:29+00:00,1395790865335980034,ribbonfinance,@ClemensWittmann Forging diamond hands within the community,1,0,0,2021-05-21
+115,2021-05-22 22:56:18+00:00,1396238521149632517,ribbonfinance,"@dumbcontract2 @NaniXBT ah, my bad!",1,0,0,2021-05-22
+117,2021-05-24 13:36:38+00:00,1396822449036070915,ribbonfinance,"Excellent post for @MessariCrypto subs about what Ribbon does and what the future could look like, written by the one and only @A_Beasant 👇 https://t.co/j1JVNkv2gx",7,0,1,2021-05-24
+118,2021-05-25 16:30:30+00:00,1397228592631791619,ribbonfinance,"@MrGondee Distribution was only for Hegic LPs, not option buyers unfortunately.",0,0,0,2021-05-25
+129,2021-05-26 15:56:06+00:00,1397582324213161999,ribbonfinance,"@MeWantStocks hey! do you mind joining the discord and asking the question, would love to answer you there so other people can see too 😀",1,1,0,2021-05-26
+132,2021-05-27 14:16:29+00:00,1397919641641443329,ribbonfinance,"Lastly, we set aside 16% of the Airdrop to the Ribbon Discord community members. 
+
+Instead of simply getting people to ""drop their Ethereum address"", we filtered all the users who had sent at least 5 messages in the Discord and sent them a form to input their address.",11,1,0,2021-05-27
+147,2021-05-28 13:19:08+00:00,1398267598580682752,ribbonfinance,https://t.co/fO58T1X3IB,3,0,0,2021-05-28
+154,2021-05-29 16:16:30+00:00,1398674619247308808,ribbonfinance,"@zmanian @ameensol Ribbon only lets you sell calls and puts right now, not buy. 
+
+Also only has fixed strategies so not ideal for individual use cases of hedging LP. 
+
+At least right now",5,2,0,2021-05-29
+155,2021-05-30 12:12:53+00:00,1398975699919282181,ribbonfinance,"@Howard_Pen3 Wow awesome, can you send the link?",0,1,0,2021-05-30
+156,2021-06-02 13:35:17+00:00,1400083602654773248,ribbonfinance,"@DAOJonesCartel that is the current case so far. think it can be pretty sustainable since we are not incentivizing the products through yield farming. 
+
+bear in mind that you *can* lose BTC in the strategy if BTC pumps extremely hard in a short period of time. this is the risk of covered calls.",2,1,0,2021-06-02
+158,2021-06-03 17:39:15+00:00,1400507386708828160,ribbonfinance,"Ribbon Governance Proposal (RGP-1) has officially been passed and executed! 
+
+Read here for a short writeup about the vote and execution of the proposal. 
+
+https://t.co/mk2QA2mt7R",46,1,4,2021-06-03
+159,2021-06-04 12:36:05+00:00,1400793478179721218,ribbonfinance,"Weekly Performance of ETH Theta Vault:
+
+💸 The vault sold the $3.5k Strike Call and ETH expired at ~$2.6k, so the options expired out of the money. The vault earned ~0.47% (~27% APY) of yield!
+
+Another fantastic week for this vault 🤑",38,1,2,2021-06-04
+163,2021-06-07 12:19:42+00:00,1401876518352130048,ribbonfinance,@bhsuperman @miyuki_crypto Yes,0,1,0,2021-06-07
+164,2021-06-11 13:12:25+00:00,1403339339019476993,ribbonfinance,"RGP-2: Liquidity Mining Program is now live on Snapshot! Please signal for/against if you are a RBN holder 🎀
+
+https://t.co/d1abjnPTQx https://t.co/DVKPVHqbS3",49,1,11,2021-06-11
+169,2021-06-12 13:14:23+00:00,1403702222094012421,ribbonfinance,"@crypt0native you should be able to! might be a bug, can you post in #support in Discord?",0,1,0,2021-06-12
+171,2021-06-15 13:01:56+00:00,1404786252604493829,ribbonfinance,"@atvanguard @OpethFinance We are also building #2. We call them ""long vol vaults"" that are coming in v2",8,1,0,2021-06-15
+172,2021-06-16 13:36:51+00:00,1405157426253467655,ribbonfinance,"The program officially starts on Friday, Jun 18 2021 10:30:00 GMT+0000, and vault depositors will be eligible to earn RBN if they stake their vault deposit tokens. 
+
+To be eligible for the first week of rewards, you need to have staked your vault deposit tokens by June 18th.",3,1,1,2021-06-16
+173,2021-06-17 14:29:26+00:00,1405533047215120397,ribbonfinance,"🚨 Reminder that if you are a Ribbon depositor, you have until Friday 1030am UTC to stake to be eligible for the first week's rewards 
+
+Go to https://t.co/XgULXQFavd to start staking!",22,3,4,2021-06-17
+174,2021-06-18 12:57:10+00:00,1405872214453391360,ribbonfinance,https://t.co/4tg5gWlbHq,3,1,0,2021-06-18
+181,2021-06-20 18:41:40+00:00,1406683687245254657,ribbonfinance,"@Spaztasticz @thibauld The ETH and WBTC vaults are profitable, you’re looking at the USDC put selling vault that got rekt one week when ETH drew down 60%. Has been profitable every other week.",1,0,0,2021-06-20
+182,2021-06-21 16:41:31+00:00,1407015835814838272,ribbonfinance,"We are on @zerion_io! 
+
+If you are already a user, this is a super simple way to track your positions or deposit more assets. https://t.co/WdMoRuuJCe",43,1,5,2021-06-21
+183,2021-06-22 20:05:41+00:00,1407429606550933504,ribbonfinance,@farokh @sergitosergito This is not an ad.,1,1,0,2021-06-22
+184,2021-06-25 16:37:03+00:00,1408464266668265478,ribbonfinance,@0xngmi @cryptolight6 Yes,3,1,0,2021-06-25
+193,2021-07-02 12:42:45+00:00,1410942018352828420,ribbonfinance,"Weekly Performance of ETH Theta Vault:
+
+📈 The vault sold the $2.4k Strike Call and ETH expired at ~$2.06k, so the options expired out of the money. The vault earned ~0.19% (~10% APY) of yield in ETH
+
+Another great week for stacking ETH!",27,0,0,2021-07-02
+200,2021-07-07 19:10:25+00:00,1412851517745512453,ribbonfinance,"We proposed RGP-2.1, a proposal raise the vault caps by 25% as part of the last week of the Liquidity Mining Program. 
+
+Please signal your preference by voting here:
+https://t.co/HyGKbHv8Ak",43,1,8,2021-07-07
+201,2021-07-08 12:23:01+00:00,1413111376067940357,ribbonfinance,"The latest RGP has passed (and was the most contentious vote to date!)
+
+Hence, we will be raising the vault caps by 25% today at 2pm UTC https://t.co/UWOnIk9dP3",39,1,3,2021-07-08
+202,2021-07-09 12:28:17+00:00,1413475089597845504,ribbonfinance,https://t.co/ylcKWnQbnz,0,1,0,2021-07-09
+209,2021-07-14 14:15:36+00:00,1415314037181763586,ribbonfinance,@Chiefpreneur @iearnfinance you can't at the moment.,0,2,0,2021-07-14
+227,2021-07-16 12:39:12+00:00,1416014552081346561,ribbonfinance,https://t.co/0gKHCzzZAV,4,4,0,2021-07-16
+238,2021-07-17 08:50:19+00:00,1416319342367621121,ribbonfinance,https://t.co/ESfxlNzUcV https://t.co/S5PmAahNJf,46,0,3,2021-07-17
+239,2021-07-19 10:41:36+00:00,1417072123286261765,ribbonfinance,"Over the next week, we will be collecting data about the success of the Liquidity Mining program (e.g number of new users, number of new RBN holders, growth in assets, etc.) and will be publishing a retrospective on the experiment. 
+
+Stay tuned!",14,1,2,2021-07-19
+241,2021-07-20 09:22:52+00:00,1417414694961299458,ribbonfinance,"@charlestrussel Remember that there are risks associated with this strategy. If ETH goes below the strike price, you can lose money!",6,3,0,2021-07-20
+242,2021-07-23 13:45:44+00:00,1418568010437115905,ribbonfinance,https://t.co/QUdvftn4Gz,3,1,0,2021-07-23
+258,2021-07-29 18:19:52+00:00,1420811326608318468,ribbonfinance,"We just published RGP-2.2  Returning Forfeited Staking Rewards. 
+
+This is a proposal to redistribute ""forfeited"" staking rewards to all participants in the Liquidity Mining program pro-rata.
+
+TLDR: All participants in the LM get more RBN. 
+
+https://t.co/cbKGvNqeSL",55,1,8,2021-07-29
+259,2021-07-30 20:01:18+00:00,1421199242140520449,ribbonfinance,"Breakdown of Reward Distribution in ETH Covered Call Vault:
+
+Num of stayers: 562
+Num of early withdrawers: 29
+Average: 5447.15
+Median: 667.54
+Max: 300346.60
+Min: 0.67",1,1,0,2021-07-30
+286,2021-08-01 20:50:46+00:00,1421936467593551874,ribbonfinance,@thisisindeed @juliankoh That's what the exit fee is for!,1,1,0,2021-08-01
+287,2021-08-02 14:25:55+00:00,1422202001891467264,ribbonfinance,"We proposed RGP-2.2, a proposal to return forfeited staking rewards to stakers in the RGP program. 
+
+Please signal your preference by voting here:
+https://t.co/INEvCd3Vjw",23,0,5,2021-08-02
+288,2021-08-04 22:27:01+00:00,1423047850993373185,ribbonfinance,"@n_feghali @0xSisyphus Yield farming is reliant on coin incentives, which is great when coins are going up! But when coin prices collapse, these ""farms"" have significantly lower yield. 
+
+Options strategies are much more sustainable because they persist throughout bull/bear markets.",1,0,0,2021-08-04
+289,2021-08-06 14:15:19+00:00,1423648888901324806,ribbonfinance,@gerovich oops......,3,0,0,2021-08-06
+299,2021-08-13 10:22:23+00:00,1426126982832697344,ribbonfinance,"Weekly Performance of ETH Theta Vault:
+
+📈 The vault sold the $3500 Strike Call and ETH expired at $3227, so the options expired out of the money. The vault earned ~0.2% (~10.9% APY) of yield in ETH
+
+Another great week for stacking ETH!",27,1,1,2021-08-13
+306,2021-08-17 14:02:55+00:00,1427632033107517441,ribbonfinance,@raise_exception working on it!,4,0,0,2021-08-17
+313,2021-08-19 09:44:43+00:00,1428291829527719950,ribbonfinance,"@DaveETHER_eth @VirtualBacon1 Please read the blog post!
+
+We will not be rolling over funds from that vault into new contracts this week, so you can transfer for free on Friday onwards https://t.co/OxHBsCbNiE",0,0,0,2021-08-19
+314,2021-08-20 11:52:28+00:00,1428686367991681032,ribbonfinance,"Weekly Performance of ETH Theta Vault:
+
+📈 The vault sold the $3900 Strike Call and ETH expired at $3213, so the options expired out of the money. The vault earned ~0.34% (~19.3% APY) of yield in ETH
+
+Another great week for stacking ETH!",25,0,3,2021-08-20
+321,2021-08-23 18:56:56+00:00,1429880352777150478,ribbonfinance,@charlestrussel 🙏 wagmi,3,0,0,2021-08-23
+328,2021-08-24 09:29:49+00:00,1430100021228277761,ribbonfinance,@guil_lambert was just an example! could see how the opposite strategy would be better,0,1,0,2021-08-24
+329,2021-08-27 13:03:34+00:00,1431240975301574665,ribbonfinance,"Weekly Performance of ETH Theta Vault:
+
+📈 The vault sold the $3800 Strike Call and ETH expired at $3126, so the options expired out of the money. The vault earned ~0.3% (~16.9% APY) of yield in ETH
+
+Another great week for stacking ETH!",17,1,0,2021-08-27
+336,2021-08-28 13:12:58+00:00,1431605728670896132,ribbonfinance,@raise_exception 🙏,1,0,0,2021-08-28
+337,2021-08-30 19:31:33+00:00,1432425778600456195,ribbonfinance,"In the lead up to Ribbon V2, we're releasing a series of blog posts that do a deep dive into how each new big feature works. 
+
+Today, we explain how Algorithmic Strike Selection works 🤖📈
+
+https://t.co/r2T8tcunZB",93,1,17,2021-08-30
+339,2021-08-31 16:14:02+00:00,1432738461317017607,ribbonfinance,https://t.co/ti1i5OlY7u,102,22,8,2021-08-31
+341,2021-09-01 21:26:12+00:00,1433179406667816963,ribbonfinance,@theyieldfox V2 will allow anyone to buy the options :),0,0,0,2021-09-01
+342,2021-09-03 10:28:49+00:00,1433738746122416146,ribbonfinance,https://t.co/T5gfS8NmhQ,40,3,0,2021-09-03
+350,2021-09-08 20:39:47+00:00,1435704439487307780,ribbonfinance,They start to lose money if ETH dips below $3300 this by Friday,7,0,0,2021-09-08
+354,2021-09-09 15:35:10+00:00,1435990170818523139,ribbonfinance,Orange line go up 📈 https://t.co/qa2DhRTNUW,25,1,2,2021-09-09
+355,2021-09-10 10:22:01+00:00,1436273749758709768,ribbonfinance,"Weekly Performance of ETH Theta Vault:
+
+📈 The vault sold the $4800 Strike Call and ETH expired at $3405, so the options expired out of the money. The vault earned ~0.47% (~27.6% APY) of yield in ETH
+
+Another great week for stacking ETH!",10,2,0,2021-09-10
+364,2021-09-13 21:31:26+00:00,1437529379945451524,ribbonfinance,"To start using the V2 vaults, go to our website here: https://t.co/4QJ5CZ9cKg
+
+To read more, see our blog post here: 
+https://t.co/N6DMHR0dQo",21,2,4,2021-09-13
+371,2021-09-16 19:22:48+00:00,1438584169286836230,ribbonfinance,"One of the most powerful aspects of making the Ribbon vaults purely algorithmic is that you can take advantage of composability and build products on top.
+
+The first example: ""Meta Vaults"" 👇 https://t.co/Ag9RmN7XAb",26,2,3,2021-09-16
+372,2021-09-17 16:33:42+00:00,1438904003526631426,ribbonfinance,"Today is the first week of Ribbon V2 vaults in production. These vaults are designed to be fully algorithmic, including the strike selection and option sales. 
+
+So, how did it do?👇",99,2,22,2021-09-17
+385,2021-09-18 01:36:21+00:00,1439040565149065217,ribbonfinance,@mTesla_ no staking yet!,0,1,0,2021-09-18
+386,2021-09-21 16:17:18+00:00,1440349427756007433,ribbonfinance,"@santiagoroel @AaveAave we are going to do that 
+
+https://t.co/q6SycLcY3q",10,0,1,2021-09-21
+387,2021-09-22 14:57:28+00:00,1440691725102579718,ribbonfinance,Imagine not having a #wen channel in your Discord,46,7,3,2021-09-22
+388,2021-09-23 22:16:14+00:00,1441164532802469893,ribbonfinance,"The first ever (!!) protection market for Ribbon Vaults is now live
+
+Head over to @cozyfinance to get protection on your V2 ETH Covered Call vaults https://t.co/q5BNPzyQWR",32,2,4,2021-09-23
+391,2021-09-24 14:22:30+00:00,1441407701859258376,ribbonfinance,"@CryptoCounter3 over 13,000 eth puts",1,0,0,2021-09-24
+399,2021-09-25 00:46:02+00:00,1441564617055035393,ribbonfinance,"This week was our second week of Ribbon V2 Vaults in production.
+
+How well did the autonomous system perform?
+
+👇🧵",47,1,6,2021-09-25
+407,2021-10-01 13:45:23+00:00,1443935074639044613,ribbonfinance,https://t.co/SlObkEmZPy,3,2,1,2021-10-01
+414,2021-10-02 17:05:01+00:00,1444347700313567232,ribbonfinance,"Yesterday we the second week of Ribbon V2 vaults in production. 
+
+How did the vaults do? 
+
+A quick thread👇",70,2,9,2021-10-02
+422,2021-10-07 16:38:45+00:00,1446153030215380998,ribbonfinance,@celiawan2 Yes.,5,1,0,2021-10-07
+431,2021-10-11 22:52:20+00:00,1447696599199752199,ribbonfinance,"@PodsFinance Congrats on this, seriously 🥂",14,0,0,2021-10-11
+432,2021-10-14 13:35:37+00:00,1448643657842659337,ribbonfinance,"For our latest governance proposal (RGP-5), we built a new @SnapshotLabs Strategy that allows Uni V3 LPs (and those who staked their NFT position in the @Uniswap Staker contract) to vote as well
+
+LPs are voters too 🤝
+
+https://t.co/KKdytwhCq4",66,4,9,2021-10-14
+434,2021-10-15 12:26:28+00:00,1448988643025162246,ribbonfinance,https://t.co/h4l6cdaF1E,8,1,1,2021-10-15
+442,2021-10-22 19:32:51+00:00,1451632662402121731,ribbonfinance,We tend to agree https://t.co/E7Gp4q7kB4,80,5,1,2021-10-22
+443,2021-10-29 11:23:05+00:00,1454046122159206402,ribbonfinance,"Weekly Performance of ETH Theta Vault:
+
+📈 The vault sold the $5000 Strike Call and ETH expired at $4.3k, so the options expired out of the money. The vault earned ~0.41% (~23.7% APY) of yield in ETH
+
+Another great week for stacking ETH!",22,0,1,2021-10-29
+448,2021-10-31 01:53:23+00:00,1454627529491316737,ribbonfinance,"Ribbon Vault TEL (total ETH locked) and TDL (total dollars locked) are ATH 
+
+This is real growth, not just asset appreciation https://t.co/1GPZf1m4K4",106,3,13,2021-10-31
+450,2021-11-02 05:16:26+00:00,1455403404566560769,ribbonfinance,"To learn more about Ribbon Treasury or sign up as a pilot partner, please read this blog post:
+
+https://t.co/Qom30tV5v2",35,1,0,2021-11-02
+456,2021-11-04 08:01:20+00:00,1456169680415035395,ribbonfinance,"Today we are super excited to launch our first non-
+BTC/ETH Vault — an @AaveAave Covered Call vault 
+
+This lets users generate high yield on their $AAVE by selling call options 
+
+👻 x 🎀 https://t.co/PEPBP64k8u",172,5,26,2021-11-04
+461,2021-11-05 10:41:16+00:00,1456572316368859148,ribbonfinance,"We will be closing the contracts and rollover the funds into the new contracts on Monday, 10AM UTC. 
+
+We apologize for the inconvenience!",12,1,0,2021-11-05
+463,2021-11-06 04:47:07+00:00,1456845579506442243,ribbonfinance,@AkademiaHash @IcedKnife soon ser,3,0,0,2021-11-06
+464,2021-11-08 12:55:02+00:00,1457693142874931203,ribbonfinance,"Lots of migrations from V1 -&gt; V2 in the ETH Theta Vault!
+
+The V2 ETH vaults are now 2x the size of the V1 vaults (13k vs 6.2k ETH) https://t.co/czlZmBlONk",17,1,2,2021-11-08
+470,2021-11-10 16:50:38+00:00,1458477208717062144,ribbonfinance,"We are excited to announce our latest Ribbon Vault, an ETH Covered Call vault that uses @LidoFinance's stETH as collateral.
+
+This lets users earn yield from ETH2 staking *and* covered call yield at the same time 🎀 https://t.co/dCAx848nrD",253,10,46,2021-11-10
+472,2021-11-18 10:46:45+00:00,1461284735716528131,ribbonfinance,"Today we are unveiling a new plan for RBN tokenomics, which we call Ribbonomics
+
+This plan presents a roadmap for how RBN can be more deeply integrated within the Ribbon ecosystem
+
+👇 https://t.co/C7QJw6dE3a",249,7,56,2021-11-18
+481,2021-11-23 15:02:27+00:00,1463161024295624704,ribbonfinance,"We recently found a small accounting bug in the Ribbon V2 contracts that charged users an additional week of fees when they were not supposed to be. 
+
+We just reimbursed all affected users 👇
+
+https://t.co/rOQ0LaWduw",47,1,2,2021-11-23
+484,2021-11-24 14:30:10+00:00,1463515289912418304,ribbonfinance,"@LidoFinance To read more, see this blog post first: 
+https://t.co/h3eC50LCSI",18,0,2,2021-11-24
+486,2021-11-25 07:48:18+00:00,1463776543100997632,ribbonfinance,"In case you missed it, you can deposit ETH *or* stETH directly into the new Ribbon stETH vault!
+
+Make your staked ETH productive and earn double yields 💸
+
+https://t.co/Il7smkt0L0 https://t.co/AI3GhDFWxC",105,6,8,2021-11-25
+487,2021-11-30 03:58:11+00:00,1465530571711340548,ribbonfinance,"Do any DAOs already use @ribbonfinance vaults? 
+
+Please DM! We would love to feature you on our website",66,5,8,2021-11-30
+488,2021-12-07 15:06:02+00:00,1468235358810869767,ribbonfinance,"We welcome fellow 🦑 to the Ribbon fam
+
+Hoping more DAOs follow @SquidDao's footsteps and recognize that selling vol for yield can be easy and an important part of any DAO treasury's portfolio 🎀 https://t.co/5aFVSxEHjP",101,4,20,2021-12-07
+489,2021-12-08 10:33:02+00:00,1468529042366545920,ribbonfinance,"The Ribbon stETH Vault has been a huge hit so far!
+
+1,000 ETH Capacity was filled immediately
+
+We are now raising the vault cap of the stETH vault to 10,000 ETH 🎀 https://t.co/Pk1JqMZMRh",88,4,19,2021-12-08
+492,2021-12-13 15:35:52+00:00,1470417193997275139,ribbonfinance,👀 something exciting coming soon https://t.co/LZ5GMTnnuH,95,4,9,2021-12-13
+493,2021-12-15 15:43:55+00:00,1471143994163798017,ribbonfinance,"To learn more, read our blog post here:
+
+https://t.co/XZrje1NSBE",42,5,4,2021-12-15
+498,2021-12-16 07:29:13+00:00,1471381886065057793,ribbonfinance,how it started vs how it's going https://t.co/H4W0Bw3g1B,173,11,7,2021-12-16
+499,2021-12-22 13:34:20+00:00,1473648100547837953,ribbonfinance,https://t.co/PJqep1E6FC,30,6,5,2021-12-22
+501,2021-12-23 06:54:57+00:00,1473909978998403073,ribbonfinance,@safetyth1rd hi,38,3,0,2021-12-23
+502,2021-12-31 08:01:03+00:00,1476825715752730624,ribbonfinance,"To celebrate the New Year, we are raising the vault capacity for 2 of our vaults:
+
+stETH Covered Call: 10k -&gt; 50k
+AVAX Covered Call: 100k -&gt; 500k
+
+🎀",105,4,13,2021-12-31
+505,2022-01-03 08:29:50+00:00,1477920124019834880,ribbonfinance,"🚨 Reminder to migrate your positions by Friday from V1 to V2 to be eligible for this week’s yield! 🚨
+
+You will be levied exit fees if you withdraw your funds from V1, but migrating from V1 -&gt; V2 is fee-free (other than gas fees)",66,9,10,2022-01-03
+506,2022-01-04 16:05:02+00:00,1478397065659138050,ribbonfinance,"📅  Mark your calendars, we are going to be doing a Ribbon town hall at 4pm UTC / 11am EST on Thursday (13th January)
+
+We are going to talk about Ribbon’s roadmap and focus for the year 🎀
+
+This will be happening on our Discord, so please join our Discord: https://t.co/ykKaNQw09i",69,7,11,2022-01-04
+507,2022-01-05 06:48:26+00:00,1478619381710340101,ribbonfinance,"🚨 Another reminder to migrate your positions by Friday from V1 to V2 to be eligible for this week’s yield! 🚨 
+
+There's over $60m USDC, 2.5k ETH, and 100 BTC sitting in our V1 vaults! 💸
+
+Migrating from V1 -&gt; V2 is fee-free (other than gas fees)",44,12,5,2022-01-05
+508,2022-01-11 02:59:45+00:00,1480736156794851330,ribbonfinance,Cozy protecc https://t.co/FNoKtEaexw,54,10,8,2022-01-11
+509,2022-01-13 05:22:23+00:00,1481496828642467841,ribbonfinance,Reminder that Ribbon's first town hall will be happening TODAY in a few hours! https://t.co/d9itlcJI06,39,5,6,2022-01-13
+513,2022-01-21 15:14:53+00:00,1484545038889938945,ribbonfinance,Soon. 🤫 https://t.co/RTJKFwIDjN,332,14,53,2022-01-21
+514,2022-02-10 15:02:21+00:00,1491789641543942146,ribbonfinance,https://t.co/QJ7rlchUiQ,18,1,1,2022-02-10
+519,2022-02-11 16:05:42+00:00,1492167974689832963,ribbonfinance,@0xadepti @kenchangh uwu,9,0,2,2022-02-11
+526,2022-02-16 14:12:59+00:00,1493951547939561478,ribbonfinance,Our co-founder @juliankoh spoke at the Solana Hacker House in Singapore on “Future of DeFi” with crypto options chads @tradeparadigm @Tristan0x @dariussitzl https://t.co/qpbiLGo6HO,84,1,10,2022-02-16
+527,2022-02-17 16:51:22+00:00,1494353792162095116,ribbonfinance,@Svenoptikon @ZetaMarkets What is the issue?,0,1,0,2022-02-17
+532,2022-02-18 01:33:41+00:00,1494485236964478976,ribbonfinance,@neon___glow @CraigBurel @ZetaMarkets Follow your heart anon,5,0,0,2022-02-18
+533,2022-02-20 03:22:20+00:00,1495237355678363650,ribbonfinance,"Last Friday, we had a bug in our Auction Frontend that led to some auction participants failing to bid.
+
+Because of this, the auction ended up settling at much lower than ""fair market price"". 
+
+We have put up a proposal to reimburse users from the DAO 👇 https://t.co/tfbFQ698Im",26,1,2,2022-02-20
+535,2022-02-22 07:41:06+00:00,1496027253259763712,ribbonfinance,"We've been getting a ton of great feedback for RGP-9: Ribbonomics from the community
+
+We've made two edits to the proposal, and you can find it the changes here: https://t.co/tXofkbO20M",39,4,2,2022-02-22
+537,2022-02-24 11:38:35+00:00,1496811794345578498,ribbonfinance,@0xperp @APOideas @opyn_ @GammaStrategies @enzymefinance @nntaleb We have that written already ;),2,1,0,2022-02-24
+538,2022-02-28 14:17:20+00:00,1498301297107542018,ribbonfinance,"Users can also ""early unlock"" their RBN tokens, even if they had committed to a longer lock. 
+
+However, this comes with a penalty. This penalty gets redistributed back to other users who are locked.
+
+💎🙌 https://t.co/MBBCg5Sp0B",13,2,1,2022-02-28
+543,2022-03-01 15:26:44+00:00,1498681149794758656,ribbonfinance,"Today we're very excited to bring to you 2 new launches on @avalancheavax 
+
+First up, a new vault in partnership with @BenqiFinance: sAVAX Vaults #Avalanche 
+
+Users can earn both AVAX Staking yield + Ribbon yield at the same time 👇 https://t.co/ZbjMwqpxGf",288,9,77,2022-03-01
+546,2022-03-06 04:45:34+00:00,1500331730690994176,ribbonfinance,"Casual 8,000 eth deposit 🤑 https://t.co/on1G5745sS",33,3,0,2022-03-06
+547,2022-03-07 07:24:14+00:00,1500734049660272640,ribbonfinance,"TLDR: 
+- Distribution of 250k RBN a week
+- You can get a boost for locking RBN
+- When you stake your vault token, it gets held on the Gauge contract and you will receive RBN for being staked",20,0,1,2022-03-07
+549,2022-03-10 02:27:44+00:00,1501746599009320960,ribbonfinance,"Today, we have another exciting governance proposal. 👇
+
+TL;DR: we are proposing partnering with @GammaStrategies to seed a rETH-ETH pool to create liquidity for the ETH Covered Call Vault share. This makes it ✨ composable ✨ with the rest of DeFi
+
+https://t.co/A0V2GWcZsJ",59,1,15,2022-03-10
+550,2022-03-17 08:30:52+00:00,1504374696191610883,ribbonfinance,"New RGP-12 proposal regarding Ribbon protocol revenue — which asset would you want to receive it in? 
+
+Snapshot expires in 36 hours👇 
+
+https://t.co/crGtNW9YBJ",17,2,1,2022-03-17
+551,2022-03-20 18:50:14+00:00,1505617729180606465,ribbonfinance,"$APE vault is now open for business 🦍
+
+https://t.co/XB5gUcJKKI https://t.co/o33M5Fd1Ve",93,1,8,2022-03-20
+552,2022-03-21 12:55:26+00:00,1505890830795653121,ribbonfinance,https://t.co/yf8nIIJQbd,62,2,5,2022-03-21
+553,2022-03-22 13:29:08+00:00,1506261696431730694,ribbonfinance,"If you are interested to learn more, check out our careers page below👇 
+
+https://t.co/rWqDVVlefn",17,1,0,2022-03-22
+558,2022-03-23 08:42:07+00:00,1506551856541097991,ribbonfinance,"Our co-founder @juliankoh spoke at the @avalancheavax summit today alongside @joshua_j_lim, @GenesisTrading and @Micki_ShortVol 
+
+Come meet our team at the venue today for some Ribbon merch 🎀 https://t.co/wpZGUoL4oD",61,7,3,2022-03-23
+559,2022-04-01 16:53:20+00:00,1509936963633168400,ribbonfinance,@0xPonzu 🫡,2,0,0,2022-04-01
+572,2022-04-08 09:06:22+00:00,1512356164951965699,ribbonfinance,@getderb soon™️,4,1,0,2022-04-08
+582,2022-04-09 09:56:52+00:00,1512731261181181954,ribbonfinance,"Our SOL vault has been quietly growing, and is now almost at capacity! 🤫
+
+Currently sitting at ~45K SOL (~$5m)",40,2,2,2022-04-09
+583,2022-04-10 10:08:54+00:00,1513096677531725826,ribbonfinance,Our gauge voting is now live - https://t.co/pBbyoaBw1g,11,1,1,2022-04-10
+584,2022-04-11 15:21:15+00:00,1513537670370463745,ribbonfinance,"🎀 &lt;&gt; 🦋
+ 
+We’re excited to be a launch partner for the Hidden Hand bribe marketplace!
+ 
+veRBN holders are now able to get bribed for their vote on where to direct RBN emissions with boosting coming soon™️
+ 
+Start staking &amp; locking your $RBN here - https://t.co/0Rg8pJOiRe https://t.co/XOP9M89BaC",174,7,22,2022-04-11
+586,2022-04-12 16:31:57+00:00,1513917852419457026,ribbonfinance,&gt; they don’t know https://t.co/SCRLdvO2Ce,21,0,4,2022-04-12
+588,2022-04-13 08:43:08+00:00,1514162258066083843,ribbonfinance,"@defihotaf Yes, veRBN contracts and gauges have been deployed. Check out our governance portal here - https://t.co/0Rg8pJw9D6",1,0,0,2022-04-13
+591,2022-04-15 10:29:02+00:00,1514913684262637568,ribbonfinance,"Weekly Performance of $APE Covered Call Vault: 
+
+The vault sold the $14 Strike Call and expired at ~$12. The vault earned ~0.42% (~24.3% APY) of yield.",5,0,0,2022-04-15
+600,2022-04-19 08:50:17+00:00,1516338383022264321,ribbonfinance,@juliankoh 👀,13,1,0,2022-04-19
+603,2022-04-21 07:36:11+00:00,1517044510554947584,ribbonfinance,"By letting users borrow USDC against their Ribbon Vault positions, they can unlock immensely greater capital efficiency, enabling a bunch of new use cases 🤯
+
+- Levered covered calls
+- Vertical spreads
+- Short strangle
+- Delta neutral positions",42,1,2,2022-04-21
+605,2022-04-22 09:33:33+00:00,1517436433807867904,ribbonfinance,"Weekly Performance of $AAVE Covered Call Vault: 
+
+The vault sold the $210 Strike Call and expired at ~$174. This week the yield earned increased to ~0.64% (~39.34% APY).",6,1,0,2022-04-22
+615,2022-04-23 01:12:31+00:00,1517672732254556161,ribbonfinance,"If you own Ohm, vote for this proposal to whitelist Ribbon as a yield source for OlympusDAO 👇👇 https://t.co/cUI4g4VdpN",18,3,5,2022-04-23
+616,2022-04-28 09:10:29+00:00,1519604958382854144,ribbonfinance,@neon___glow Yes,1,0,0,2022-04-28
+624,2022-04-29 14:51:37+00:00,1520053195665510400,ribbonfinance,"Weekly Performance of $SOL Covered Call Vault: 
+
+The vault sold the $120 Strike Call and expired at ~$97. The vault earned ~0.41% (~23.71% APY) of yield in SOL.",3,1,0,2022-04-29
+633,2022-05-03 05:30:26+00:00,1521361519270760448,ribbonfinance,"Protocol revenue split is now LIVE! As per RGP-13, RBN lockers are eligible to earn 50% of revenue that is generated by the protocol.
+
+Claim your rewards and lock $RBN today 👇
+https://t.co/56JlRcAGxA",107,4,18,2022-05-03
+635,2022-05-06 12:05:31+00:00,1522548108021932032,ribbonfinance,"Weekly Performance of $AAVE Covered Call Vault: 
+
+The vault sold the $195 Strike Call and expired at ~$139. The vault earned ~0.30% (~16.86% APY) of yield.",1,1,1,2022-05-06
+645,2022-05-12 02:54:00+00:00,1524583644576182272,ribbonfinance,"Currently, we offer one flagship product, which is the ability to sell options against a treasury's assets. 
+
+Our goal is for Ribbon Treasury to be the one-stop shop for treasury strategies for all protocols, and this partnership opens up the range of our offering significantly",12,1,0,2022-05-12
+648,2022-05-13 19:32:38+00:00,1525197343989055492,ribbonfinance,"As we wrap up this wild week, we wanted to share a 🎀 recap of our vault’s performance. 
+
+Here’s our summary 👇 https://t.co/YPWpqE41xB",29,1,4,2022-05-13
+657,2022-05-17 08:25:46+00:00,1526479075379847170,ribbonfinance,"Today, we are excited to release our latest governance proposal: RGP-17: Ribbon Bond Issuance
+
+This outlines a proposal for the Ribbon DAO to raise $3m on-chain through issuing bonds
+
+Join the discussion here 👇
+
+https://t.co/OCr4lFGYyM",39,4,9,2022-05-17
+658,2022-05-18 15:39:30+00:00,1526950615770963968,ribbonfinance,Users will be able to access their funds when the options expire on Friday.,6,0,0,2022-05-18
+660,2022-05-19 16:16:30+00:00,1527322313305497600,ribbonfinance,https://t.co/6TYUe15qM7 https://t.co/j5uf2SPQ30,29,1,0,2022-05-19
+661,2022-05-20 03:34:43+00:00,1527492990721175553,ribbonfinance,"Epoch 4 gauge voting is now live 🔥
+
+veRBN holders can vote on the rewards distribution here 👇https://t.co/6sRbmXkX0K",10,0,2,2022-05-20
+662,2022-05-21 12:21:09+00:00,1527987860489793536,ribbonfinance,"Weekly Performance of $AVAX Put Selling Vault: 
+
+The vault sold the $20 Strike Put on AVAX and expired at ~$30. The vault earned ~0.05% (~2.63% APY) of yield with no drawdown this week.",5,1,0,2022-05-21
+672,2022-05-24 05:15:46+00:00,1528967975822233601,ribbonfinance,"@cryptonacks @redactedcartel No hack here, see this tweet https://t.co/XABeeHy8dq",2,3,0,2022-05-24
+674,2022-05-27 09:12:17+00:00,1530114659222597632,ribbonfinance,"Another week, another 🎀 recap. Read along for a summary of our performance 👇 https://t.co/cvfwLBChFc",25,2,2,2022-05-27
+683,2022-06-03 04:25:26+00:00,1532579184945598464,ribbonfinance,"veRBN holders can now vote on epoch 5 gauge weights! 
+
+Vote on the weight of rewards distribution to each gauge here 👇
+https://t.co/AGdLjexGmZ",17,0,2,2022-06-03
+693,2022-06-04 04:44:06+00:00,1532946272578990080,ribbonfinance,"As per RGP-19, we have deposited 15K LDO in bribes for the stETH vault. 
+
+Vote on https://t.co/Yf0tJjR47P to earn bribe rewards!",22,0,3,2022-06-04
+694,2022-06-06 15:01:33+00:00,1533826431540531201,ribbonfinance,"It’s LIVE 🎉 
+
+We’re excited to announce that veRBN holders can now get bribed for delegating boosts! 
+
+Check out our step by step guide 👇https://t.co/f3YhxQh96r https://t.co/Ha7LqslTlZ",21,1,5,2022-06-06
+695,2022-06-08 13:05:34+00:00,1534522021882695681,ribbonfinance,"Today, we’re launching Ribbon Research 🎀
+
+Our blog will feature an array of topics such as market analysis, options education, DeFi innovation and house all things Ribbon Finance.
+
+We’re excited to work with our community - reach out to collab!
+
+https://t.co/H1kiEFzLMo",61,4,7,2022-06-08
+697,2022-06-10 08:43:11+00:00,1535180766040031233,ribbonfinance,"Weekly Performance of $SOL Covered Call Vault: 
+
+The vault sold the $48 Strike Call and expired at ~$40.30. The vault earned ~0.44% (~25.65% APY) of yield in SOL.",2,1,0,2022-06-10
+705,2022-06-16 19:09:54+00:00,1537512811546693632,ribbonfinance,"In times of high Volatility, constructing a Strangle position can be a powerful Options Strategy.
+
+@researchvariant breaks it down in our most recent blog post.
+
+Read more here 👇
+https://t.co/63gZsMUkD3",22,0,2,2022-06-16
+707,2022-06-17 10:30:54+00:00,1537744588386881536,ribbonfinance,"Weekly Performance of $SOL Covered Call Vault: 
+
+The vault sold the $48 Strike Call and expired at ~$31.56. The vault earned ~0.55% (~33% APY) of yield in SOL.",6,1,2,2022-06-17
+716,2022-06-20 12:48:08+00:00,1538866287274647552,ribbonfinance,"We’re excited to host our second Ribbon 🎀 Townhall tomorrow at 2pm UTC / 10pm SGT. 
+
+Tune in our Discord for an update on what we’ve been working on, our upcoming plans, and an AMA with the team!
+
+Join us here 👇
+https://t.co/Nfnc3CN3zb",13,1,2,2022-06-20
+718,2022-06-21 13:08:03+00:00,1539233688394706944,ribbonfinance,Our Townhall is starting in ~1 hr - don't forget to join🎙️ https://t.co/6a4QejXQMB,14,1,2,2022-06-21
+719,2022-06-23 10:53:50+00:00,1539924685315403778,ribbonfinance,"29 April Expiry:
+
+The vault sold the $5.90 Strike Call and earned ~11.58% of yield in $USDC. 499,396 $PERP was rolled over and earned $57.8k in premium.",4,1,0,2022-06-23
+729,2022-06-24 09:35:13+00:00,1540267288825176064,ribbonfinance,"Weekly Performance of $SOL Covered Call Vault: 
+
+The vault sold the $45 Strike Call and expired at ~$38.33. The vault earned ~0.40% (~23.07% APY) of yield in SOL.",2,1,0,2022-06-24
+738,2022-06-30 08:15:31+00:00,1542421558777393152,ribbonfinance,"Our co-founder and CEO @juliankoh recently sat down with @ResearchVariant for an insightful interview. 
+
+Make sure to read it here 👇
+https://t.co/xntjaauDOl",50,13,6,2022-06-30
+739,2022-07-01 02:51:21+00:00,1542702367283351552,ribbonfinance,"veRBN holders can now vote on epoch 7 gauge weights!  
+
+Vote on the weight of rewards distribution here ⬇️
+https://t.co/MHzBRIh7GC",17,0,1,2022-07-01
+750,2022-07-05 08:04:43+00:00,1544230783077912576,ribbonfinance,We are temporarily pausing the $AVAX put selling vault until we have at least $1M notional. Users will be able to access their funds when the options expire this Friday.,15,5,4,2022-07-05
+751,2022-07-07 06:39:14+00:00,1544934043732414464,ribbonfinance,"We just updated how we process $ETH deployed into the $stETH vault.
+
+When depositing, we will automatically swap the $ETH into $stETH on @CurveFinance instead of @LidoFinance for a better rate.
+
+Users will now get an additional ~3% in comparison to depositing in Lido directly. https://t.co/I5LJyPWXZG",65,4,6,2022-07-07
+752,2022-07-08 12:10:41+00:00,1545379843079999488,ribbonfinance,"Weekly Performance of $SOL Covered Call Vault: 
+
+The vault sold the $42 Strike Call and expired at ~$37.49. The vault earned ~0.61% (~37.20% APY) of yield in SOL.",5,2,0,2022-07-08
+761,2022-07-13 04:36:34+00:00,1547077500215341056,ribbonfinance,"We’re excited to onboard our latest Treasury Partner @BalancerLabs 🎉  
+
+Since passing their gov proposal, Balancer sold their first Covered Call with a 3 week tenor. The spot price was $4.9 and the vault sold the $6.3 Strike Call and earned ~$20k on ~200k $BAL (~2% in yield).",74,29,8,2022-07-13
+764,2022-07-15 12:17:09+00:00,1547918185885605888,ribbonfinance,"Weekly Performance of $AAVE Covered Call Vault: 
+
+The vault sold the $85 Strike Call and expired in the money at ~$91. The vault earned ~1.05% (~72.14% APY) of yield but had a drawdown of ~6%.",2,1,0,2022-07-15
+773,2022-07-20 04:49:23+00:00,1549617441491152901,ribbonfinance,Run it back turbo https://t.co/bIfysd1L7U,31,6,4,2022-07-20
+774,2022-07-21 11:22:59+00:00,1550078884774785025,ribbonfinance,"In our latest Ribbon Research article @ResearchVariant breaks down the Options Greek Vega - a tool used to measure Volatility. 
+
+Read it here👇
+https://t.co/Fgo5Q4lywb",12,1,1,2022-07-21
+775,2022-07-22 09:51:57+00:00,1550418362542333953,ribbonfinance,"Weekly Performance of $SOL Covered Call Vault: 
+
+The vault sold the $46 Strike Call and expired at ~$43.06. The vault earned ~0.87% (~56.90% APY) of yield in SOL.",5,1,0,2022-07-22
+784,2022-07-31 00:56:11+00:00,1553545021722611712,ribbonfinance,"All of our options that the vault sold expired out of the money with no drawdowns this week  🎉
+
+Read along for this week’s 🎀 recap on our performance. 👇 https://t.co/uQKGfhYZjj",39,4,6,2022-07-31
+793,2022-08-01 03:19:55+00:00,1553943583862190081,ribbonfinance,"Epoch 8 gauge weight voting is live! 
+
+veRBN can vote on the weight of rewards distribution here - https://t.co/fNLcla3Moh",12,2,0,2022-08-01
+794,2022-08-02 02:47:34+00:00,1554297826846183424,ribbonfinance,"We have a new proposal: RGP-22: Ribbon Bond OTC
+
+tl;dr: we are proposing to allow bondholders to OTC their bonds with us for principal + interest earned up until time of swap. 
+
+to read the full proposal, see here:
+https://t.co/JnhaQjWzxI",23,13,6,2022-08-02
+795,2022-08-04 01:09:28+00:00,1554997916795748352,ribbonfinance,@0xDeCeFi https://t.co/MvNT7noKyA,0,1,0,2022-08-04
+796,2022-08-05 16:58:05+00:00,1555599030637379584,ribbonfinance,"We just paid out another great week of yields! All of our options that the vault sold expired out of the money! 🎉
+
+Read along for the 🎀 recap https://t.co/pynpU5S4xD",30,4,3,2022-08-05
+804,2022-08-08 16:42:14+00:00,1556682207778902017,ribbonfinance,"Vote for RGP22 is now live
+
+https://t.co/xurhZDE9A8 https://t.co/QcNawmbk20",8,3,0,2022-08-08
+805,2022-08-11 11:07:23+00:00,1557685101470765058,ribbonfinance,"Assuming snapshot process passes, we will post signed RBN BOND / USDC airswap links on the governance forum. All bond holders stay tuned! 
+
+Interest rate calculation methodology 👇
+
+https://t.co/rjPiU656st https://t.co/QcNawmbk20",6,3,1,2022-08-11
+806,2022-08-12 00:14:52+00:00,1557883277494689794,ribbonfinance,🧙🏼‍♂️ 🤝 🎀 https://t.co/vRRlAg3y7C,31,2,5,2022-08-12
+807,2022-08-13 14:10:55+00:00,1558456066861678592,ribbonfinance,"Weekly Performance of $stETH Covered Call Vault: 
+
+The vault sold the $2,000 Strike Call and expired at ~$1,889.19. The vault earned ~0.49% (~29.01% APY) of yield in ETH. 
+
+The stETH vault also earned an additional 3.9% APY from @LidoFinance staking yields.",2,0,0,2022-08-13
+818,2022-08-16 17:44:00+00:00,1559596853993537536,ribbonfinance,"As per RGP-22, the OTC Swap links are now live! Links are posted here 👇 https://t.co/QcNawlUh00",10,3,2,2022-08-16
+821,2022-08-17 16:04:08+00:00,1559934108704223232,ribbonfinance,"Ribbon Earn is an extremely complementary product to Ribbon Vaults. If users have a view on markets, Ribbon Vaults can help users express that view through covered calls or secured puts strategy. 
+
+Otherwise, Ribbon Earn is a safer yield alternative 📈",13,1,0,2022-08-17
+826,2022-08-19 15:45:45+00:00,1560654259103735810,ribbonfinance,"Weekly Performance of $stETH Covered Call Vault: 
+
+The vault sold the $2,200 Strike Call and expired at ~$1,744.80. The vault earned ~0.60% (~36.49% APY) of yield in ETH. 
+
+The stETH vault also earned an additional 3.9% APY from @LidoFinance staking yields.",5,1,0,2022-08-19
+839,2022-08-22 17:36:37+00:00,1561769324540563456,ribbonfinance,he knows https://t.co/Eid9hyandL,19,2,2,2022-08-22
+840,2022-08-24 23:35:50+00:00,1562584497673371648,ribbonfinance,"We’re thrilled to announce that we reached our capacity of $2.5m USDC on our first Ribbon Earn vault 🎉
+
+Stay tuned for the next epoch!",46,6,3,2022-08-24
+849,2022-08-25 09:51:32+00:00,1562739444171812866,ribbonfinance,"@KorraLeg they will, soon",4,1,1,2022-08-25
+852,2022-08-26 15:56:36+00:00,1563193702943961089,ribbonfinance,"Weekly Performance of $rETH Covered Call Vault: 
+
+The vault sold the $2,100 Strike Call and expired at ~$1,660.70. The vault earned ~0.46% (~26.95% APY) of yield in ETH.",5,1,0,2022-08-26
+862,2022-08-27 04:11:18+00:00,1563378597288480769,ribbonfinance,"Ribbon breaks down the vault size into multiple chunks, then auctions them off on 
+@tradeparadigm
+ in multiple blind auctions.
+
+This leaks less information about the bidding levels, and creates more price competition between bidders. 
+
+Hence better execution, and more yield.",10,0,1,2022-08-27
+865,2022-08-30 06:11:55+00:00,1564496114320936965,ribbonfinance,"We are hiring 2 more people to join Ribbon and help to take us to the next level 
+
+- Solidity Engineer 🖥️
+- Growth Lead 📈
+
+See more details here 👇",26,2,2,2022-08-30
+868,2022-08-31 04:09:37+00:00,1564827725629575168,ribbonfinance,@JasonYanowitz we're down to come on the pod to talk about points b and c 🎀,1,0,0,2022-08-31
+869,2022-09-01 17:19:42+00:00,1565388942521819136,ribbonfinance,"In our latest blog post @ResearchVariant breaks down the strategy behind our new principal protected product, R-EARN. 
+
+Read it here 👇
+https://t.co/ml7DHTBAgQ",26,4,5,2022-09-01
+870,2022-09-02 08:21:47+00:00,1565615962115624961,ribbonfinance,We are excited to continue to be long-term partners with @tradeparadigm and combine our products with their platform for best price discovery and execution 💥,11,0,1,2022-09-02
+881,2022-09-04 04:22:16+00:00,1566280458614190080,ribbonfinance,"Weekly Performance of $rETH Covered Call Vault: 
+
+The vault sold the $1,950 Strike Call and expired at ~$1,593.66. The vault earned ~0.48% (~28.27% APY) of yield in ETH.",6,1,1,2022-09-04
+890,2022-09-05 13:11:21+00:00,1566775998430859269,ribbonfinance,"Our Townhall starts in ~ 1 hour! 
+
+Tune in our Discord to learn more about our latest product Ribbon Earn and an AMA with the team 🔊 
+
+https://t.co/OeJA7F0r1T",8,3,2,2022-09-05
+891,2022-09-09 11:27:50+00:00,1568199495355367425,ribbonfinance,"The first Ribbon Earn trade was extremely successful! 
+
+Users earned an additional 34bps from the options purchased this week, thanks to intra-week volatility. This represents ~18% APR.
+
+Thanks for the trade @OrBit_Markets!💥 https://t.co/yBl6axpjE1",21,3,5,2022-09-09
+903,2022-09-10 12:10:32+00:00,1568572630822977537,ribbonfinance,"Someone deposited 100,000 AVAX (~$2m) into Ribbon's AVAX Covered Call vault a few days ago 👀👀
+
+Might be one of the biggest deposits in the AVAX vault, ever. 
+
+https://t.co/SQPavngi7Q",21,4,4,2022-09-10
+904,2022-09-12 09:51:57+00:00,1569262531398766592,ribbonfinance,@chudnovglavniy 👀,6,0,0,2022-09-12
+905,2022-09-14 15:43:36+00:00,1570075802469019657,ribbonfinance,"Today, we are extremely excited to announce Ribbon Lend — Ribbon's expansion into the credit market. 
+
+👇 https://t.co/M3W8m9ymfO",296,49,60,2022-09-14
+912,2022-09-16 15:48:01+00:00,1570801691372703744,ribbonfinance,"Weekly Performance of $stETH Covered Call Vault: 
+
+The vault sold the $2,200 Strike Call and expired at ~$1471.50. The vault earned ~0.38% (~21.80% APY) of yield in ETH. 
+
+The stETH vault also earned an additional 4.0% APY from @LidoFinance staking yields.",4,1,0,2022-09-16
+922,2022-09-19 06:36:33+00:00,1571750071691268096,ribbonfinance,"If you're an institutional trading firm and are interested in becoming a borrower on Ribbon Lend, please reach out to us! We'll be opening the doors to the next cohort of borrowers next month ✨",4,1,0,2022-09-19
+929,2022-09-20 06:05:50+00:00,1572104728070463488,ribbonfinance,"New governance proposal: RGP-24 👇
+ 
+This proposes splitting the existing emissions to Ribbon Lend to bootstrap the new product, based on TVL growth. 
+
+https://t.co/EOhd3BsKxR",10,1,3,2022-09-20
+930,2022-09-23 13:16:58+00:00,1573300391537672194,ribbonfinance,"Weekly Performance of $AVAX Covered Call Vaults: 
+
+The AVAX vault sold the $22 Strike Call and expired at ~$17.83. The vault earned ~0.51% (~30.28% APY) of yield.
+
+The sAVAX vault earned ~0.52% (~30.96% APY) of yield and 7.20% APY from depositing the collateral into @BenqiFinance",8,3,4,2022-09-23

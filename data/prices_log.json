@@ -1,0 +1,2333 @@
+{
+    "polkadot": [
+        {
+            "query": "polkadot",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "shiba inu": [
+        {
+            "query": "shiba inu",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "dai": [
+        {
+            "query": "dai",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "polygon": [
+        {
+            "query": "polygon",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "lido staked ether": [
+        {
+            "query": "lido staked ether",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "tron": [
+        {
+            "query": "tron",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "avalanche": [
+        {
+            "query": "avalanche",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "uniswap": [
+        {
+            "query": "uniswap",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "wrapped bitcoin": [
+        {
+            "query": "wrapped bitcoin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "okb": [
+        {
+            "query": "okb",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "solana": [
+        {
+            "query": "solana",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ethereum": [
+        {
+            "query": "ethereum",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "tether": [
+        {
+            "query": "tether",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "bnb": [
+        {
+            "query": "bnb",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "usd coin": [
+        {
+            "query": "usd coin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "xrp": [
+        {
+            "query": "xrp",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "binance usd": [
+        {
+            "query": "binance usd",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "cardano": [
+        {
+            "query": "cardano",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "dogecoin": [
+        {
+            "query": "dogecoin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "leo token": [
+        {
+            "query": "leo token",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "litecoin": [
+        {
+            "query": "litecoin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "cosmos hub": [
+        {
+            "query": "cosmos hub",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "chainlink": [
+        {
+            "query": "chainlink",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ethereum classic": [
+        {
+            "query": "ethereum classic",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ftx": [
+        {
+            "query": "ftx",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "stellar": [
+        {
+            "query": "stellar",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "near protocol": [
+        {
+            "query": "near protocol",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "cronos": [
+        {
+            "query": "cronos",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "monero": [
+        {
+            "query": "monero",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "bitcoin": [
+        {
+            "query": "bitcoin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "marinade staked sol": [
+        {
+            "query": "marinade staked sol",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "lido staked sol": [
+        {
+            "query": "lido staked sol",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "solend": [
+        {
+            "query": "solend",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "solve": [
+        {
+            "query": "solve",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "stepn green satoshi token on solana": [
+        {
+            "query": "stepn green satoshi token on solana",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "solanium": [
+        {
+            "query": "solanium",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "socean staked sol": [
+        {
+            "query": "socean staked sol",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "solcial": [
+        {
+            "query": "solcial",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "solace": [
+        {
+            "query": "solace",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "solchicks": [
+        {
+            "query": "solchicks",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "solrise finance": [
+        {
+            "query": "solrise finance",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "oxbull solana": [
+        {
+            "query": "oxbull solana",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "0x": [
+        {
+            "query": "0x",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "district0x": [
+        {
+            "query": "district0x",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "c0x": [
+        {
+            "query": "c0x",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "0xbitcoin": [
+        {
+            "query": "0xbitcoin",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "bitcoin cash": [
+        {
+            "query": "bitcoin cash",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "bitcoin sv": [
+        {
+            "query": "bitcoin sv",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "bittorrent": [
+        {
+            "query": "bittorrent",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "bitdao": [
+        {
+            "query": "bitdao",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "bitcoin gold": [
+        {
+            "query": "bitcoin gold",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "bitgert": [
+        {
+            "query": "bitgert",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "bitkub coin": [
+        {
+            "query": "bitkub coin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "bitcicoin": [
+        {
+            "query": "bitcicoin",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "bit2me": [
+        {
+            "query": "bit2me",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "bitcoin diamond": [
+        {
+            "query": "bitcoin diamond",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "bitmart": [
+        {
+            "query": "bitmart",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "bitshares": [
+        {
+            "query": "bitshares",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "bitrue coin": [
+        {
+            "query": "bitrue coin",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "new bitshares": [
+        {
+            "query": "new bitshares",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "badger interest bearing bitcoin": [
+        {
+            "query": "badger interest bearing bitcoin",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "bitcoin pro": [
+        {
+            "query": "bitcoin pro",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "hotbit": [
+        {
+            "query": "hotbit",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "bitkan": [
+        {
+            "query": "bitkan",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "bitcoin 2": [
+        {
+            "query": "bitcoin 2",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "bitcny": [
+        {
+            "query": "bitcny",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "bitnautic": [
+        {
+            "query": "bitnautic",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "probit": [
+        {
+            "query": "probit",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "bitcoinz": [
+        {
+            "query": "bitcoinz",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "digitalbits": [
+        {
+            "query": "digitalbits",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "bitcoinstaking": [
+        {
+            "query": "bitcoinstaking",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "bitsong": [
+        {
+            "query": "bitsong",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "bitcore": [
+        {
+            "query": "bitcore",
+            "start": "2008-01-01",
+            "end": "2022-11-16"
+        }
+    ],
+    "algorand": [
+        {
+            "query": "algorand",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "terra luna classic": [
+        {
+            "query": "terra luna classic",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "quant": [
+        {
+            "query": "quant",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "flow": [
+        {
+            "query": "flow",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "vechain": [
+        {
+            "query": "vechain",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "apecoin": [
+        {
+            "query": "apecoin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "filecoin": [
+        {
+            "query": "filecoin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "internet computer": [
+        {
+            "query": "internet computer",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "chain": [
+        {
+            "query": "chain",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "hedera": [
+        {
+            "query": "hedera",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "frax": [
+        {
+            "query": "frax",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "elrond": [
+        {
+            "query": "elrond",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "tezos": [
+        {
+            "query": "tezos",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "decentraland": [
+        {
+            "query": "decentraland",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "the sandbox": [
+        {
+            "query": "the sandbox",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "eos": [
+        {
+            "query": "eos",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "chiliz": [
+        {
+            "query": "chiliz",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "axie infinity": [
+        {
+            "query": "axie infinity",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "aave": [
+        {
+            "query": "aave",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "theta network": [
+        {
+            "query": "theta network",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "lido dao": [
+        {
+            "query": "lido dao",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "cusdc": [
+        {
+            "query": "cusdc",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "pax dollar": [
+        {
+            "query": "pax dollar",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "kucoin": [
+        {
+            "query": "kucoin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "trueusd": [
+        {
+            "query": "trueusd",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ecash": [
+        {
+            "query": "ecash",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "usdd": [
+        {
+            "query": "usdd",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "iota": [
+        {
+            "query": "iota",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "maker": [
+        {
+            "query": "maker",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "the graph": [
+        {
+            "query": "the graph",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "zcash": [
+        {
+            "query": "zcash",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "tokenize xchange": [
+        {
+            "query": "tokenize xchange",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "helium": [
+        {
+            "query": "helium",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "pancakeswap": [
+        {
+            "query": "pancakeswap",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "gate": [
+        {
+            "query": "gate",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "neo": [
+        {
+            "query": "neo",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "cdai": [
+        {
+            "query": "cdai",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "radix": [
+        {
+            "query": "radix",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "klaytn": [
+        {
+            "query": "klaytn",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "celsius network": [
+        {
+            "query": "celsius network",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "fantom": [
+        {
+            "query": "fantom",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "synthetix network": [
+        {
+            "query": "synthetix network",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ceth": [
+        {
+            "query": "ceth",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "huobi": [
+        {
+            "query": "huobi",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "pax gold": [
+        {
+            "query": "pax gold",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "osmosis": [
+        {
+            "query": "osmosis",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "nexo": [
+        {
+            "query": "nexo",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "thorchain": [
+        {
+            "query": "thorchain",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "arweave": [
+        {
+            "query": "arweave",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "zilliqa": [
+        {
+            "query": "zilliqa",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "rocket pool": [
+        {
+            "query": "rocket pool",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "basic attention": [
+        {
+            "query": "basic attention",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "dash": [
+        {
+            "query": "dash",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "enjin coin": [
+        {
+            "query": "enjin coin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "evmos": [
+        {
+            "query": "evmos",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "kava": [
+        {
+            "query": "kava",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "stacks": [
+        {
+            "query": "stacks",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "xdc network": [
+        {
+            "query": "xdc network",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ravencoin": [
+        {
+            "query": "ravencoin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "tether gold": [
+        {
+            "query": "tether gold",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "defichain": [
+        {
+            "query": "defichain",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "terra": [
+        {
+            "query": "terra",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ethereum name service": [
+        {
+            "query": "ethereum name service",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "mina protocol": [
+        {
+            "query": "mina protocol",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "compound": [
+        {
+            "query": "compound",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "reserve rights": [
+        {
+            "query": "reserve rights",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "kusama": [
+        {
+            "query": "kusama",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "amp": [
+        {
+            "query": "amp",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "waves": [
+        {
+            "query": "waves",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "decred": [
+        {
+            "query": "decred",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "trust wallet": [
+        {
+            "query": "trust wallet",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "stepn": [
+        {
+            "query": "stepn",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "convex finance": [
+        {
+            "query": "convex finance",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "cusdt": [
+        {
+            "query": "cusdt",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "loopring": [
+        {
+            "query": "loopring",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "nem": [
+        {
+            "query": "nem",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "celo": [
+        {
+            "query": "celo",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "holo": [
+        {
+            "query": "holo",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ecomi": [
+        {
+            "query": "ecomi",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "curve dao": [
+        {
+            "query": "curve dao",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "1inch": [
+        {
+            "query": "1inch",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "maiar dex": [
+        {
+            "query": "maiar dex",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "gmx": [
+        {
+            "query": "gmx",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "gemini dollar": [
+        {
+            "query": "gemini dollar",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "casper network": [
+        {
+            "query": "casper network",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "gnosis": [
+        {
+            "query": "gnosis",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "gala": [
+        {
+            "query": "gala",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "frax share": [
+        {
+            "query": "frax share",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "theta fuel": [
+        {
+            "query": "theta fuel",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "oasis network": [
+        {
+            "query": "oasis network",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "terraclassicusd": [
+        {
+            "query": "terraclassicusd",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "qtum": [
+        {
+            "query": "qtum",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "nexus mutual": [
+        {
+            "query": "nexus mutual",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "serum": [
+        {
+            "query": "serum",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "iost": [
+        {
+            "query": "iost",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "iotex": [
+        {
+            "query": "iotex",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "kadena": [
+        {
+            "query": "kadena",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "safemoon [old]": [
+        {
+            "query": "safemoon [old]",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "olympus": [
+        {
+            "query": "olympus",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "golem": [
+        {
+            "query": "golem",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "yearn.finance": [
+        {
+            "query": "yearn.finance",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "huobi btc": [
+        {
+            "query": "huobi btc",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ankr": [
+        {
+            "query": "ankr",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "livepeer": [
+        {
+            "query": "livepeer",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "convex crv": [
+        {
+            "query": "convex crv",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "harmony": [
+        {
+            "query": "harmony",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "okc": [
+        {
+            "query": "okc",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "tenset": [
+        {
+            "query": "tenset",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "omg network": [
+        {
+            "query": "omg network",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "flux": [
+        {
+            "query": "flux",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "juno": [
+        {
+            "query": "juno",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "synapse": [
+        {
+            "query": "synapse",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "polymath": [
+        {
+            "query": "polymath",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "baby doge coin": [
+        {
+            "query": "baby doge coin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "escoin": [
+        {
+            "query": "escoin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "just": [
+        {
+            "query": "just",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "constellation": [
+        {
+            "query": "constellation",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "sushi": [
+        {
+            "query": "sushi",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "icon": [
+        {
+            "query": "icon",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "magic internet money": [
+        {
+            "query": "magic internet money",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "euro tether": [
+        {
+            "query": "euro tether",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ontology": [
+        {
+            "query": "ontology",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "nucypher": [
+        {
+            "query": "nucypher",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "rocket pool eth": [
+        {
+            "query": "rocket pool eth",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "merit circle": [
+        {
+            "query": "merit circle",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "tamadoge": [
+        {
+            "query": "tamadoge",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "balancer": [
+        {
+            "query": "balancer",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "wax": [
+        {
+            "query": "wax",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "optimism": [
+        {
+            "query": "optimism",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "moonbeam": [
+        {
+            "query": "moonbeam",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "immutable x": [
+        {
+            "query": "immutable x",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "link": [
+        {
+            "query": "link",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "horizen": [
+        {
+            "query": "horizen",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "hive": [
+        {
+            "query": "hive",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "audius": [
+        {
+            "query": "audius",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "siacoin": [
+        {
+            "query": "siacoin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "coinmetro": [
+        {
+            "query": "coinmetro",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "sxp": [
+        {
+            "query": "sxp",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "chia": [
+        {
+            "query": "chia",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "swissborg": [
+        {
+            "query": "swissborg",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "alchemix usd": [
+        {
+            "query": "alchemix usd",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "liquity usd": [
+        {
+            "query": "liquity usd",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "songbird": [
+        {
+            "query": "songbird",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "secret": [
+        {
+            "query": "secret",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ergo": [
+        {
+            "query": "ergo",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "energy web": [
+        {
+            "query": "energy web",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "mxc": [
+        {
+            "query": "mxc",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "woo network": [
+        {
+            "query": "woo network",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "decentralized social": [
+        {
+            "query": "decentralized social",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "safemoon": [
+        {
+            "query": "safemoon",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "dao maker": [
+        {
+            "query": "dao maker",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "dydx": [
+        {
+            "query": "dydx",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "voyager vgx": [
+        {
+            "query": "voyager vgx",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "vvs finance": [
+        {
+            "query": "vvs finance",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "uma": [
+        {
+            "query": "uma",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "skale": [
+        {
+            "query": "skale",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "playdapp": [
+        {
+            "query": "playdapp",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "render": [
+        {
+            "query": "render",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "digibyte": [
+        {
+            "query": "digibyte",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "apenft": [
+        {
+            "query": "apenft",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "coinex": [
+        {
+            "query": "coinex",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "injective": [
+        {
+            "query": "injective",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "lisk": [
+        {
+            "query": "lisk",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "dogelon mars": [
+        {
+            "query": "dogelon mars",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "astar": [
+        {
+            "query": "astar",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "coti": [
+        {
+            "query": "coti",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ribbon finance": [
+        {
+            "query": "ribbon finance",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "smooth love potion": [
+        {
+            "query": "smooth love potion",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "function x": [
+        {
+            "query": "function x",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "nervos network": [
+        {
+            "query": "nervos network",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ren": [
+        {
+            "query": "ren",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "pundi x": [
+        {
+            "query": "pundi x",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "neutrino usd": [
+        {
+            "query": "neutrino usd",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "velas": [
+        {
+            "query": "velas",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "coin of the champions": [
+        {
+            "query": "coin of the champions",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "stasis euro": [
+        {
+            "query": "stasis euro",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "looksrare": [
+        {
+            "query": "looksrare",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "kirobo": [
+        {
+            "query": "kirobo",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ceek smart vr": [
+        {
+            "query": "ceek smart vr",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "kyber network crystal": [
+        {
+            "query": "kyber network crystal",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "bytecoin": [
+        {
+            "query": "bytecoin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "constitutiondao": [
+        {
+            "query": "constitutiondao",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "dejitaru tsuka": [
+        {
+            "query": "dejitaru tsuka",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "api3": [
+        {
+            "query": "api3",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "maple": [
+        {
+            "query": "maple",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "status": [
+        {
+            "query": "status",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "syscoin": [
+        {
+            "query": "syscoin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "metis": [
+        {
+            "query": "metis",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "nano": [
+        {
+            "query": "nano",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "platoncoin": [
+        {
+            "query": "platoncoin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "medibloc": [
+        {
+            "query": "medibloc",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "orbs": [
+        {
+            "query": "orbs",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "spell": [
+        {
+            "query": "spell",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "usdx": [
+        {
+            "query": "usdx",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "uquid coin": [
+        {
+            "query": "uquid coin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "civic": [
+        {
+            "query": "civic",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "prom": [
+        {
+            "query": "prom",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "mobox": [
+        {
+            "query": "mobox",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "acala": [
+        {
+            "query": "acala",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "poollotto.finance": [
+        {
+            "query": "poollotto.finance",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "templedao": [
+        {
+            "query": "templedao",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "mvl": [
+        {
+            "query": "mvl",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "veritaseum": [
+        {
+            "query": "veritaseum",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "boba network": [
+        {
+            "query": "boba network",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "titanswap": [
+        {
+            "query": "titanswap",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "reef": [
+        {
+            "query": "reef",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "tribe": [
+        {
+            "query": "tribe",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "vulcan forged": [
+        {
+            "query": "vulcan forged",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "wrapped centrifuge": [
+        {
+            "query": "wrapped centrifuge",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "winklink": [
+        {
+            "query": "winklink",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "btse token": [
+        {
+            "query": "btse token",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "my neighbor alice": [
+        {
+            "query": "my neighbor alice",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "galxe": [
+        {
+            "query": "galxe",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ardor": [
+        {
+            "query": "ardor",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "centrifuge": [
+        {
+            "query": "centrifuge",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "radio caca": [
+        {
+            "query": "radio caca",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "e-radix": [
+        {
+            "query": "e-radix",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "wazirx": [
+        {
+            "query": "wazirx",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "coin98": [
+        {
+            "query": "coin98",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ultra": [
+        {
+            "query": "ultra",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "iexec rlc": [
+        {
+            "query": "iexec rlc",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "mx": [
+        {
+            "query": "mx",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "kujira": [
+        {
+            "query": "kujira",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "dent": [
+        {
+            "query": "dent",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "chromia": [
+        {
+            "query": "chromia",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "cartesi": [
+        {
+            "query": "cartesi",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "numeraire": [
+        {
+            "query": "numeraire",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "celer network": [
+        {
+            "query": "celer network",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "conflux": [
+        {
+            "query": "conflux",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "pocket network": [
+        {
+            "query": "pocket network",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "radicle": [
+        {
+            "query": "radicle",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "steem": [
+        {
+            "query": "steem",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "benqi liquid staked avax": [
+        {
+            "query": "benqi liquid staked avax",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ascendex": [
+        {
+            "query": "ascendex",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "manifold finance": [
+        {
+            "query": "manifold finance",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "bone shibaswap": [
+        {
+            "query": "bone shibaswap",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "dkargo": [
+        {
+            "query": "dkargo",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "xyo network": [
+        {
+            "query": "xyo network",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "biswap": [
+        {
+            "query": "biswap",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "seth2": [
+        {
+            "query": "seth2",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "power ledger": [
+        {
+            "query": "power ledger",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "bancor network": [
+        {
+            "query": "bancor network",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "persistence": [
+        {
+            "query": "persistence",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "biconomy": [
+        {
+            "query": "biconomy",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "request": [
+        {
+            "query": "request",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "raydium": [
+        {
+            "query": "raydium",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "hxro": [
+        {
+            "query": "hxro",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "magic": [
+        {
+            "query": "magic",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "ssv network": [
+        {
+            "query": "ssv network",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "gains farm": [
+        {
+            "query": "gains farm",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "husd": [
+        {
+            "query": "husd",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "plex": [
+        {
+            "query": "plex",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "telcoin": [
+        {
+            "query": "telcoin",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "vethor": [
+        {
+            "query": "vethor",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "keep network": [
+        {
+            "query": "keep network",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "sweatcoin - sweat economy": [
+        {
+            "query": "sweatcoin - sweat economy",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "pirate chain": [
+        {
+            "query": "pirate chain",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "decimal": [
+        {
+            "query": "decimal",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "flexusd": [
+        {
+            "query": "flexusd",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ],
+    "fun": [
+        {
+            "query": "fun",
+            "start": "2008-01-01",
+            "end": "2022-11-20"
+        }
+    ]
+}

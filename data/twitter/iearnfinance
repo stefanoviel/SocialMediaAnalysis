@@ -1,0 +1,2594 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-02-03 22:55:17+00:00,1224466417040232449,iearnfinance,https://t.co/c4WRWeU8tt for yields and stuff. I really don't know how to twitter...,5,2,1,2020-02-03
+1,2020-02-04 04:51:37+00:00,1224556088181153797,iearnfinance,"https://t.co/BAcrlUTqrQ updated;
+
+Live on-chain rates from;
+
+@UniswapExchange 
+@compoundfinance 
+@bzxHQ 
+@AaveAave 
+@ddexio2018 
+@LendfMe 
+
+Including real-time on-chain APR calculator for your investment sum for;
+
+$DAI, $TUSD, $USDC, $USDT, $ETH and more. https://t.co/SdO6LvfoFR",27,2,7,2020-02-04
+2,2020-02-05 00:50:46+00:00,1224857863962558464,iearnfinance,"Daily APR https://t.co/BAcrlUTqrQ
+
+$DAI 8.75% dominated by @bzxHQ. Static since they introduced 9% fixed rate, they own it.
+
+@USDC  ~4% @compoundfinance and @dydxprotocol fighting over dominance.
+
+$USDT comfy at 20.75% at @AaveAave (insane)
+
+@CurveFinance $DAI strong at 9.11% https://t.co/dtadzP8Wx2",7,2,2,2020-02-05
+6,2020-02-06 03:39:39+00:00,1225262752261758976,iearnfinance,"https://t.co/BAcrlUTqrQ updated
+
+Now includes APY (realized) profits from uniswap year-to-date, and https://t.co/c4WRWeU8tt year-to-date adjusted.
+
+https://t.co/c4WRWeU8tt APY to-date adjusted to annualized:
+
+$DAI 9.38%
+$USDC 7.25%
+$USDT 13.96%
+$SUSD 13.54%
+DAI-USDT 14.84% https://t.co/bPkmt3r8EK",11,1,2,2020-02-06
+11,2020-02-07 20:30:49+00:00,1225879610274938880,iearnfinance,"Daily APR (APY) update https://t.co/BAcrlUTqrQ
+
+$DAI 9.74% (11.57%) @compoundfinance 
+$USDC 17.23% (9.76%) @AaveAave 
+$USDT 5.91% (14.63%) @ddexio2018 
+DAI-USDC 17.85% (15.11%) @CurveFinance 
+$BTC 0.84% (1.93%) @bzxHQ https://t.co/bpm2OiwhEA",2,0,1,2020-02-07
+15,2020-02-08 01:51:24+00:00,1225960286961561600,iearnfinance,What has https://t.co/c4WRWeU8tt achieved in the last 14 days since launch? https://t.co/KsoiCpnJWc,10,1,2,2020-02-08
+17,2020-02-09 01:03:11+00:00,1226310541817217025,iearnfinance,"@LoanScan_io @CryptoToit @BeTheb0x @tcbean @staked_us @RoboForYield @compoundfinance @bzxHQ @defipulse @AndreCronjeTech Any link to an application we need to submit? Or do we send an email to contact@loanscan.io?
+
+:D",1,1,0,2020-02-09
+21,2020-02-10 14:29:11+00:00,1226875766027145217,iearnfinance,"@cryptoDevTrader @hellodapper Hey @cryptoDevTrader, what error message are you receiving?",0,1,0,2020-02-10
+27,2020-02-11 17:29:30+00:00,1227283531883253760,iearnfinance,"Daily APR (APY) https://t.co/c4WRWeCxBV
+
+$DAI 11.82% (11.64%) @AaveAave 
+$USDC 12.99% (8.41%) @AaveAave 
+$USDT 4.77% (12.92%) @ddexio2018 
+sUSD 8.65% (11.99%) @AaveAave 
+wBTC 0.84% (2.00%) @bzxHQ 
+
+AUM: $953,164.00 https://t.co/9uPGfG03y1",9,0,2,2020-02-11
+30,2020-02-12 15:19:59+00:00,1227613326890405889,iearnfinance,"@Bancor bounty to integrate liquidity pools into https://t.co/c4WRWeCxBV @EthereumDenver &lt;3
+
+https://t.co/wgkulpLTvs",7,0,3,2020-02-12
+35,2020-02-13 00:34:47+00:00,1227752944898052096,iearnfinance,"Daily APY https://t.co/BAcrlUBPAi
+
+$DAI 11.40% @bzxHQ 
+$USDC 8.25% @compoundfinance 
+$USDT 14.90% @AaveAave 
+$SUSD 22.58% @AaveAave 
+$TUSD 3.94% @AaveAave 
+$WBTC 1.92% @bzxHQ 
+
+AUM $1,021,906 https://t.co/pbTInsQhcj",2,0,0,2020-02-13
+38,2020-02-14 11:04:25+00:00,1228273785054343168,iearnfinance,"@cryptoDevTrader @CurveFinance @1inchExchange @paraswap ""Coming soon""",3,0,0,2020-02-14
+50,2020-02-15 17:07:34+00:00,1228727565612965888,iearnfinance,Just going to leave this here; https://t.co/oKXu67XivC,10,1,2,2020-02-15
+64,2020-02-16 08:14:02+00:00,1228955683594395648,iearnfinance,"Just found this tx in the wild;
+
+""From 0x: Exchange v3"" @0xProject did you guys just ninja integrate @iearnfinance &amp; @CurveFinance https://t.co/v9BOkIsmLA pool? https://t.co/sieCgnwZq1",29,2,3,2020-02-16
+73,2020-02-17 16:20:51+00:00,1229440580721270788,iearnfinance,"@DegenSpartan @dydxprotocol Docs are very outdated currently, will review them this week. DSR is integrated into https://t.co/NPClQOdj5O and via https://t.co/HQDZSCINqR in https://t.co/b4NstlqRV0, so no reason to direct integrate. That's how @compoundfinance and @bzxHQ keep their rates so high.",2,1,0,2020-02-17
+82,2020-02-18 05:09:00+00:00,1229633894615592960,iearnfinance,"Are you in https://t.co/mgpVERBABy earning 12.54%? Want to be in https://t.co/v9BOkIsmLA earning 15.77%? If you swap from https://t.co/mgpVERBABy to https://t.co/v9BOkIsmLA you actually end up with more $
+
+$100.23 Curve in, $100.48 Curve out. 1 click
+
+https://t.co/rIbfSiTH01 https://t.co/SlpFzUt33U",10,2,2,2020-02-18
+113,2020-02-19 23:53:03+00:00,1230279158963548161,iearnfinance,@Rewkang @compoundfinance https://t.co/v9BOkIsmLA (biggest pool) is via @iearnfinance for yield interest.,0,1,0,2020-02-19
+136,2020-02-20 16:43:18+00:00,1230533395450601472,iearnfinance,"How much does a $800k on-chain $USDC to $DAI trade cost?
+
+$2.50 at 6 gwei.
+
+https://t.co/rkbDDOTDV7 https://t.co/Ix9M4Fwioh",15,2,6,2020-02-20
+146,2020-02-21 18:07:24+00:00,1230916949695180801,iearnfinance,"Twitter analytics;
+
+28 days; https://t.co/RRLDXlIyel",5,2,1,2020-02-21
+169,2020-02-22 09:43:08+00:00,1231152433121910784,iearnfinance,@lalleclausen @opyn_ Sold out. ~$100k cover sold. LP rewards 6% on ETH. Busy sourcing more insurers.,1,0,0,2020-02-22
+197,2020-02-23 15:02:16+00:00,1231595133017128961,iearnfinance,"@DefiCustody @MakerDAO @blocklytics @Bancor Yes it is! Secured the ad spot and the #4 spot. Liked it so much, we put it there twice.",2,0,0,2020-02-23
+225,2020-02-24 16:17:11+00:00,1231976377177583617,iearnfinance,"https://t.co/c4WRWeCxBV $7,240,787 🥳
+https://t.co/v9BOkIsmLA $6,389,417 🔥",12,0,2,2020-02-24
+231,2020-02-25 03:40:52+00:00,1232148430425903104,iearnfinance,"Daily APR (APY) https://t.co/c4WRWeCxBV
+
+$DAI 9.69% (11.57%) @dydxprotocol 
+$USDC 5.92% (9.98%) @dydxprotocol 
+$USDT 29.29% (13.50%) @AaveAave 🔥
+$TUSD 1.17% (6.24%) @AaveAave 
+
+https://t.co/v9BOkIsmLA (22.42%) @CurveFinance 🔥 https://t.co/rqTxIQMjRo",21,2,3,2020-02-25
+247,2020-02-26 09:54:23+00:00,1232604817710862336,iearnfinance,"https://t.co/c4WRWeCxBV analytics;
+
+27 Jan 2020 ~ https://t.co/c4WRWeCxBV released
+12 Feb 2020 ~ https://t.co/v9BOkIsmLA released
+
+Peak traffic ~ 18 Feb 2020 ~ 26,206 requests
+Average traffic ~ 23,024 requests per day
+
+https://t.co/b3GEHFXgJs @DuneAnalytics https://t.co/uxHckzkzio",1,0,1,2020-02-26
+256,2020-02-27 02:21:17+00:00,1232853177952866305,iearnfinance,"$1,000,000 DAI = $1,001,776.64 USDT
+
+Exchange rate 1.0018
+
+o.O
+
+@1inchExchange @CurveFinance https://t.co/pjmaI0SwAi",21,2,5,2020-02-27
+259,2020-02-28 13:24:23+00:00,1233382441789919232,iearnfinance,"@MartinRVillalba $BUSD does not currently generate yield. We preemptively added it for when interest options become available on-chain. For now, it's technically dragging down the aggregate pool. And should only be used if in conjunction with https://t.co/Cmw5L6PA9o",2,0,0,2020-02-28
+269,2020-02-29 03:17:46+00:00,1233592166938763265,iearnfinance,@iamcrowne @CurveFinance 0% it has no lending providers currently. Will track its APY once included.,0,0,0,2020-02-29
+282,2020-03-01 05:34:00+00:00,1233988840995590146,iearnfinance,"@StittsHappening https://t.co/sihw7saozc pool is looking good as well;
+
+11.07%, no $USDT required :D https://t.co/fWt8nKOWA2",1,0,0,2020-03-01
+288,2020-03-02 04:48:17+00:00,1234339724287971330,iearnfinance,"Daily APY https://t.co/c4WRWeCxBV
+
+$DAI 11.84%
+$USDC 10.26%
+$USDT $14.43% 
+$TUSD 6.77%
+
+https://t.co/Cmw5L6PA9o 16.00% 🔥
+https://t.co/v9BOkIsmLA 15.41% https://t.co/SkgrDfq3Z7",9,0,1,2020-03-02
+290,2020-03-03 03:14:53+00:00,1234678606007132161,iearnfinance,@intocryptoast The website will remain indefinitely. But I do encourage others to also host a version. Will deploy an IPFS gateway as well.,12,1,0,2020-03-03
+295,2020-03-04 05:44:33+00:00,1235078660337684483,iearnfinance,"-Analytics-
+
+https://t.co/b3GEHFXgJs
+https://t.co/fHjeqwmc4Y
+
+-Wallets-
+
+https://t.co/JNMypUycvJ
+https://t.co/AgXGsPnb5n
+
+-Web-
+
+https://t.co/c4WRWeCxBV
+
+-Curve-
+
+https://t.co/v9BOkIsmLA
+https://t.co/Cmw5L6PA9o
+
+-Trade-
+
+https://t.co/BCuxzMqg5Q
+https://t.co/xDhZjoEp95 https://t.co/mzZvVYZi0F",53,3,12,2020-03-04
+297,2020-03-05 03:59:31+00:00,1235414614080458752,iearnfinance,"Daily APY https://t.co/c4WRWeCxBV
+
+$DAI 11.86%
+$USDC 10.57%
+$USDT 14.58%
+$TUSD 7.19%
+
+https://t.co/v9BOkIsmLA 22.23% 🔥
+https://t.co/Cmw5L6PA9o 14.81%",19,2,3,2020-03-05
+298,2020-03-06 04:04:07+00:00,1235778158168805376,iearnfinance,"Daily APY https://t.co/c4WRWeCxBV
+
+$DAI 11.77%
+$USDC 10.83%
+$USDT 15.45% 🔥
+$TUSD 7.45%
+
+https://t.co/v9BOkIsmLA 14.06%
+https://t.co/Cmw5L6PA9o 10.13%",16,1,2,2020-03-06
+300,2020-03-07 05:23:06+00:00,1236160422274834433,iearnfinance,"Daily APY https://t.co/c4WRWeCxBV
+
+$DAI 11.57%
+$USDC 10.68%
+$USDT 15.76%
+$TUSD 7.31%
+$BUSD 0.00%
+
+https://t.co/v9BOkIsmLA 18.62% 🔥
+https://t.co/Cmw5L6PA9o 16.05%",9,0,1,2020-03-07
+301,2020-03-08 05:44:23+00:00,1236528166195220480,iearnfinance,"Daily APY https://t.co/c4WRWeU8tt
+
+$DAI 11.60%
+$USDC 10.61%
+$USDT 16.00% 🔥
+$TUSD 7.26%
+
+https://t.co/v9BOkIJXD8 19.49% 🔥
+https://t.co/Cmw5L77b0W 14.75%",12,0,1,2020-03-08
+303,2020-03-09 02:33:05+00:00,1236842415685861378,iearnfinance,"Daily APY https://t.co/c4WRWeCxBV
+
+$DAI 11.53%
+$USDC 10.61%
+$USDT 16.13% 🔥
+$TUSD 7.34%
+
+https://t.co/v9BOkIsmLA 17.92% 🔥
+https://t.co/Cmw5L6PA9o 13.56%",18,4,2,2020-03-09
+304,2020-03-10 03:41:19+00:00,1237221973576605696,iearnfinance,"Daily APY https://t.co/c4WRWeCxBV
+
+$DAI 11.27%
+$USDC 10.35%
+$USDT 15.90% 🔥
+$TUSD 7.18%
+
+https://t.co/v9BOkIsmLA 14.66%
+https://t.co/Cmw5L6PA9o 12.60%",12,0,1,2020-03-10
+306,2020-03-11 07:40:20+00:00,1237644512190779395,iearnfinance,"APY increase detected https://t.co/c4WRWeCxBV
+
+$DAI 45.62% 🔥
+$sUSD 18.39% https://t.co/XYwK5J32zx",16,3,2,2020-03-11
+309,2020-03-12 03:56:15+00:00,1237950508196933632,iearnfinance,"Daily APY https://t.co/c4WRWeCxBV
+
+$DAI 15.65% 🔥
+$USDC 10.40%
+$USDT 16.33% 🔥
+$TUSD 6.99%
+$sUSD 3.50%
+
+https://t.co/v9BOkIsmLA 15.77% 🔥
+https://t.co/Cmw5L6PA9o 10.62%
+https://t.co/pcsRhxrZOs 13.07%",22,1,3,2020-03-12
+312,2020-03-13 02:27:26+00:00,1238290543983067136,iearnfinance,"Daily APY https://t.co/c4WRWeCxBV
+
+$DAI 47.68% 🔥
+$USDC 10.04%
+$USDT 15.60% 🔥
+$TUSD 6.98%
+$sUSD 6.34%
+
+https://t.co/v9BOkIsmLA 22.06% 🔥
+https://t.co/Cmw5L6PA9o 13.90%
+https://t.co/pcsRhxrZOs 19.04% 🔥",2,1,1,2020-03-13
+313,2020-03-14 04:58:05+00:00,1238690842300342272,iearnfinance,"Daily APY https://t.co/c4WRWeCxBV
+
+$DAI 11.96%
+$USDC 10.00%
+$USDT 19.46% 🔥
+$TUSD 6.85%
+$sUSD 6.27%
+
+https://t.co/sihw7saozc 47.73% 🔥
+https://t.co/mgpVERBABy 17.23%
+https://t.co/v9BOkIsmLA 32.49% 🔥
+https://t.co/Cmw5L6PA9o 16.94%
+$sUSD https://t.co/pcsRhxrZOs 20.07% 🔥",12,0,1,2020-03-14
+314,2020-03-15 04:33:53+00:00,1239047142670508033,iearnfinance,"Daily APY https://t.co/c4WRWeCxBV
+
+$DAI 24.26% 🔥
+$USDC 9.78%
+$USDT 16.18% 🔥
+$TUSD 6.64%
+$sUSD 6.18%
+
+https://t.co/sihw7saozc 12.75%
+https://t.co/mgpVERBABy 7.36%
+https://t.co/v9BOkIsmLA 17.03% 🔥
+https://t.co/Cmw5L6PA9o 14.06%
+$sUSD https://t.co/pcsRhxrZOs 10.06%",10,1,3,2020-03-15
+315,2020-03-16 02:33:28+00:00,1239379224965910531,iearnfinance,"Daily APY https://t.co/c4WRWeCxBV
+
+$DAI 11.92%
+$USDC 9.61%
+$USDT 15.79%
+$TUSD 6.45%
+$sUSD 2.99%
+
+https://t.co/sihw7saozc 10.81%
+https://t.co/mgpVERBABy 8.95%
+https://t.co/v9BOkIsmLA 7.89%
+https://t.co/Cmw5L6PA9o 8.96%
+https://t.co/pcsRhxrZOs 4.62%",9,0,4,2020-03-16
+316,2020-03-17 10:57:03+00:00,1239868345421307906,iearnfinance,"https://t.co/bvEnLFc4Cg
+
+Liquidations made simple for @AaveAave 
+
+Minimum profit set to 0.6 ETH. Anything less won't display. https://t.co/eL7suOumlU",90,3,18,2020-03-17
+318,2020-03-18 17:24:03+00:00,1240328123146788864,iearnfinance,"Deployed
+https://t.co/c4WRWeCxBV ~ Maximize yield for stable coins
+https://t.co/YoTroG3qTJ ~ 5x $DAI short positions
+https://t.co/bvEnLFc4Cg ~ 0 Capital liquidations
+https://t.co/pcsRhxrZOs ~ $sUSD https://t.co/07sw1g336W
+
+Pending
+https://t.co/Pl8Qw3kA6W ~ 1000x leverage trades",81,7,14,2020-03-18
+322,2020-03-19 02:29:02+00:00,1240465271598481409,iearnfinance,"Daily APY https://t.co/c4WRWeCxBV
+
+$DAI 6.69%
+$USDC 2.67%
+$USDT 3.51%
+$TUSD 0.30%
+$sUSD 0.14%
+
+https://t.co/sihw7saozc 6.51%
+https://t.co/mgpVERBABy 3.48%
+https://t.co/v9BOkIsmLA 7.03%
+https://t.co/Cmw5L6PA9o 6.20%
+$sUSD https://t.co/pcsRhxrZOs 3.86%",10,1,2,2020-03-19
+324,2020-03-26 15:43:03+00:00,1243201808870367237,iearnfinance,"Daily APY https://t.co/c4WRWeCxBV
+
+$DAI 4.19%
+$USDC 2.31%
+$USDT 2.72%
+$TUSD 0.62%
+$sUSD 0.72%
+
+$BUSD 1.02%
+
+https://t.co/sihw7saozc 1.17%
+https://t.co/mgpVERBABy 1.09%
+https://t.co/v9BOkIsmLA 3.94%
+https://t.co/Cmw5L6PA9o 4.79%
+$sUSD https://t.co/pcsRhxrZOs 1.32%",5,2,0,2020-03-26
+325,2020-03-28 04:48:04+00:00,1243761753839808512,iearnfinance,"Daily APY https://t.co/c4WRWeCxBV
+
+$DAI 3.14%
+$USDC 2.05%
+$USDT 2.38%
+$TUSD 0.75%
+$sUSD 0.33%
+$BUSD 0.32%
+
+https://t.co/sihw7saozc 2.38%
+https://t.co/mgpVERBABy 1.83%
+https://t.co/v9BOkIsmLA 3.77%
+https://t.co/Cmw5L6PA9o 5.50%
+$sUSD https://t.co/pcsRhxrZOs 2.02%",9,1,2,2020-03-28
+326,2020-05-12 10:27:52+00:00,1260154721148588040,iearnfinance,"https://t.co/c4WRWeCxBV updated.
+
+@compoundfinance $USDT added to $yUSDT https://t.co/LdXCdyA2Mq",56,6,5,2020-05-12
+327,2020-06-24 08:34:43+00:00,1275708921949360129,iearnfinance,"https://t.co/Tm4Su0BzFk
+
+New strategies soon to follow.",151,9,13,2020-06-24
+330,2020-07-01 10:41:57+00:00,1278277657042567171,iearnfinance,https://t.co/ASgbJuIh61,3,1,0,2020-07-01
+334,2020-07-03 16:24:05+00:00,1279088532796162049,iearnfinance,https://t.co/DO1da0eEjw,25,0,1,2020-07-03
+335,2020-07-04 13:17:22+00:00,1279403931957854213,iearnfinance,"One of the first undercollateralized loans from @AaveAave 
+
+Borrower provided no collateral to borrow, purely based on social reputation.
+
+More details to follow. https://t.co/DfRvd6QrKN",263,18,43,2020-07-04
+337,2020-07-12 13:18:10+00:00,1282303236096118784,iearnfinance,"@SergeyGoncharov @AaveAave This wasn't the plan, but yes, we can tokenize the positions so that this would be possible. Will add it!",24,0,0,2020-07-12
+340,2020-07-15 15:03:02+00:00,1283416791440592899,iearnfinance,Yield Stable Coins #103 https://t.co/WKHyrfio7A,46,4,13,2020-07-15
+344,2020-07-16 12:59:02+00:00,1283747971893428224,iearnfinance,https://t.co/mP4xEeEBEM https://t.co/rPf7DhTxjj,102,8,15,2020-07-16
+345,2020-07-17 08:14:58+00:00,1284038873492922369,iearnfinance,$YFI https://t.co/ekYr9ixccE,60,3,9,2020-07-17
+349,2020-07-18 13:00:12+00:00,1284473043339878400,iearnfinance,"Extremely well written article on $YFI
+
+https://t.co/urfZlgzhiS
+
+Much better than what we wrote...",144,5,38,2020-07-18
+361,2020-07-19 15:43:05+00:00,1284876423468064769,iearnfinance,"Pool #3 0x3A22dF48d84957F907e67F4313E3D43179040d6E
+Balancer Pool 0x95C4B6C7CfF608c0CA048df8b81a484aA377172B",37,11,7,2020-07-19
+369,2020-07-20 11:04:28+00:00,1285168694029627393,iearnfinance,"https://t.co/W4Qyh1pOSf updated
+
+Includes minimum requirement checks before you can stake YFI to collect fees. https://t.co/fg9Rl5aRsW",42,9,2,2020-07-20
+385,2020-07-21 12:58:34+00:00,1285559794741411842,iearnfinance,"https://t.co/Tm4Su0BzFk updated
+
+Pool and Cover disabled
+
+Dead links to iearn updated to yearn
+
+Updates on yleverage and iborrow to follow https://t.co/wByWmU0qP2",62,6,8,2020-07-21
+393,2020-07-22 16:52:21+00:00,1285981018730778624,iearnfinance,@GroundFrost @DeFi_Dad @BalancerLabs @UniswapProtocol It was a celebratory tweet for our first governance proposal passing...,8,2,0,2020-07-22
+405,2020-07-23 15:59:48+00:00,1286330180211036162,iearnfinance,"@definoob This is what https://t.co/Tm4Su0BzFk base layer does. Deposits are relatively cheap, but withdrawals are still expensive, due to all the underlying actions (from lenders and other providers). So we need to include a minimum float for smaller withdrawals.",21,1,1,2020-07-23
+420,2020-07-24 12:58:24+00:00,1286646917728997376,iearnfinance,"YIP 12: reducing the quorum for accepting proposal
+
+Proposal to reduce the quorum from 33% to 20% to help make governance a bit smoother. Participate for this one!
+
+https://t.co/UimpaRCyzY",61,2,6,2020-07-24
+433,2020-07-25 07:34:15+00:00,1286927729930248192,iearnfinance,"A quick primer to some of our new followers.
+
+Everything in our ecosystem is mutable and decided on via governance. Including YFI emission schedule.
+
+Get the detail on https://t.co/LkIPJgs9DB
+Join the conversation on https://t.co/PgFoWVgFZW
+Vote on https://t.co/W4Qyh1pOSf",72,1,7,2020-07-25
+443,2020-07-26 01:03:57+00:00,1287191896692011013,iearnfinance,"Community engagement still on the rise
+
+https://t.co/PgFoWVgFZW https://t.co/RydrvibzOZ",102,4,9,2020-07-26
+452,2020-07-27 03:17:45+00:00,1287587957336084482,iearnfinance,https://t.co/PgFoWVgFZW is close to reaching its monthly page view limit (after 5 days). We have requested an upgrade. This upgrade will take roughly 10 minutes and the forum will go into read only mode. We will notify as soon as the upgrade occurs. https://t.co/2yDpWL84nr,89,1,6,2020-07-27
+453,2020-07-28 11:23:03+00:00,1288072474551357445,iearnfinance,Upgrade completed. Enjoy the discussions!,19,0,2,2020-07-28
+461,2020-07-29 08:35:12+00:00,1288392619958173698,iearnfinance,"https://t.co/Tm4Su0BzFk small updated
+
+Vaults now show your value in underlying $USDC",88,3,8,2020-07-29
+462,2020-07-30 02:13:33+00:00,1288658961286258694,iearnfinance,"https://t.co/Tm4Su0BzFk APR snapshot @ block 10558213 measured from block 10532757
+
+DAI 9.62%
+USDC 4.41%
+USDT 5.95%
+TUSD 4.62%
+sUSD 5.33%
+https://t.co/15ymmpD1Xy 8.52%
+yVault 95%",108,5,13,2020-07-30
+465,2020-07-31 16:35:32+00:00,1289238276147036160,iearnfinance,"https://t.co/Tm4Su0jYgK updated
+
+New vault added for yCRV (output token from https://t.co/15ymmpUCP6)
+
+Disclaimers
+
+- Highly experimental, do not use unless you reviewed the contracts
+- 0.5% withdrawal fee
+- Do not risk your funds
+
+APR 193.04% measured @ 10568447 from 10559467 https://t.co/lMTCSbY2fu",146,19,27,2020-07-31
+466,2020-08-01 11:03:29+00:00,1289517101099622402,iearnfinance,https://t.co/Q0E9jLMPcE,251,40,43,2020-08-01
+469,2020-08-02 02:24:13+00:00,1289748808746688512,iearnfinance,"YIP 30: YFI Inflation Schedule
+
+Vote End: 10577393
+Quorum: 82.39%
+For: 38.74%
+Against 61.26%
+
+Looks like the token holders are against any further token issuance. https://t.co/dnQrhoI1Ef",121,9,21,2020-08-02
+472,2020-08-03 06:24:33+00:00,1290171679918915585,iearnfinance,"https://t.co/Tm4Su0BzFk stats
+
+-Yearn-
+DAI 5.18%
+USDC 2.32%
+USDT 1.72%
+TUSD 0.11%
+sUSD 3.23%
+https://t.co/15ymmpD1Xy 4.32%
+
+-Vaults-
+yUSDC 20.17%
+yCRV 25.13% https://t.co/Kp6Wz7jobs",46,4,5,2020-08-03
+473,2020-08-04 11:16:41+00:00,1290607584265854976,iearnfinance,"@APETOGETHER @DegenSpartan Next YIP proposal, to add the next delegated vault, will be opened soon after LINK vault has been made public. 
+
+Can start a discussion so long on https://t.co/PgFoWVgFZW",2,0,0,2020-08-04
+483,2020-08-05 00:51:29+00:00,1290812637119500288,iearnfinance,"https://t.co/Tm4Su0BzFk stats
+
+-Yearn-
+DAI 4.30%
+USDC 5.61%
+USDT 2.18%
+TUSD 0.15%
+sUSD 3.25%
+BUSD 7.25%
+https://t.co/15ymmpD1Xy 2.32%
+https://t.co/jQtziUlEsg 7.39%
+
+-Vaults-
+yUSDC 35.23%
+yCRV 37.89%
+
+-TVL-
+$163,660,974
+
+-Rewards-
+$521 https://t.co/M1VCdS5Me5",45,5,9,2020-08-05
+488,2020-08-06 11:39:49+00:00,1291338185356845058,iearnfinance,"https://t.co/hHZTAKGK2d progress update
+
+Measured @ 10605980 from 10603823
+
+Credit $89,377.17
+Debt $89,370.75
+
+Credit growing at 8.07%
+
+Will continue monitoring, we suggest a proposal to decrease the insurance fund from 0.5% to 0.1%
+
+Difference will be redistributed to LPs https://t.co/sNIKTWCtC4",52,4,5,2020-08-06
+492,2020-08-07 02:23:29+00:00,1291560565505236997,iearnfinance,"https://t.co/rM7yp0knAs launched
+
+Credit delegation built on @AaveAave 
+
+LPs create vaults and assign credit
+Borrowers can draw their credit line
+
+Credit delegation supports smart contract to smart contract. Delegate to a yVault and farm yield with the borrowing asset you prefer https://t.co/oTJjkdoAy5",313,16,72,2020-08-07
+494,2020-08-09 06:22:40+00:00,1292345535479853058,iearnfinance,"https://t.co/Lg7agcVZco yaLINK stats
+
+Request for review, do not use unless testing
+
+| Block | getPricePerFullShare |
+| 10599617 | 1 |
+| 10599617 | 1.011326647 |
+
+APR 13.97%
+
+-Purchases (LINK)-
+
+07/08 58.2
+07/08 27.7
+08/08 38
+09/08 38.5
+
+$1,698 market bought, $1,100 buffer",68,6,7,2020-08-09
+500,2020-08-10 19:25:02+00:00,1292904810493206531,iearnfinance,"100% community built resources, and sites we use daily.
+
+https://t.co/0DG3AAjYqE
+
+https://t.co/ysNL2Rfyc8
+
+https://t.co/tPEe2Af0kN
+
+https://t.co/rsrTjkEwoJ https://t.co/o4BSrkogVA",217,2,46,2020-08-10
+505,2020-08-12 11:12:02+00:00,1293505519869722624,iearnfinance,"""Daily"" APY is the new ""circulating"" vs ""fully diluted"" metric
+
+We have been guilty of reporting this
+
+https://t.co/Tm4Su0BzFk reports;
+
+Interest Rate (currently earned)
+Annual Yield (growth YTD)
+
+100% ""daily"" APY is 0.27% 24 hour growth.
+
+Any other metrics we should use instead? https://t.co/Rd9UoOGQpK",65,3,10,2020-08-12
+506,2020-08-13 04:53:17+00:00,1293772592004976641,iearnfinance,"https://t.co/0DG3AAjYqE
+
+Disclaimer, this site is not maintained by us.
+
+The data reports daily % growth annualized.
+
+aLINK has a 0.5% insurance ""fee"" (this is returned when it is outperformed) https://t.co/vzJFufZ5uM",48,4,9,2020-08-13
+513,2020-08-14 04:34:42+00:00,1294130300310691841,iearnfinance,"Congratulations to @CurveFinance for their launch of the $CRV DAO token!
+
+The vaults are not currently farming $CRV as it has not yet met our liquidity requirement, if you wish to farm, please unstake and stake on https://t.co/qt77GGuGC7 https://t.co/ShHR6s2YMh",132,6,19,2020-08-14
+517,2020-08-15 06:02:16+00:00,1294514728669253633,iearnfinance,"-YIP 36: System rewards as operational capital-
+
+YIP 36 reached quorum and was voted ""for""
+
+Treasury cap $500,000.00
+
+To track current fees and growth;
+
+https://t.co/vu6NlADcJJ
+
+Historic transactions;
+
+https://t.co/nsg5pLctI3 https://t.co/jdm7txpm8u",72,2,12,2020-08-15
+518,2020-08-16 11:38:57+00:00,1294961843665068032,iearnfinance,"Signalling request on https://t.co/ZyeQxIUZDZ
+
+@CurveFinance have released further information on their CRV rewards boost. https://t.co/iwFG6Gwm4h
+
+This will allow yVault to earn 2.5x more CRV if approved",118,15,25,2020-08-16
+524,2020-08-17 07:47:57+00:00,1295266098959519746,iearnfinance,"Reminder;
+
+You can purchase smart contract cover from @NexusMutual 
+
+Stay safe https://t.co/ZS3STzKKL7",106,3,23,2020-08-17
+527,2020-08-18 04:46:53+00:00,1295582920841793537,iearnfinance,"Update on treasury;
+
+https://t.co/BnVyrNpY5x https://t.co/YYFTls9cpo https://t.co/3ZLpyvJ6i9",90,5,12,2020-08-18
+529,2020-08-19 16:09:17+00:00,1296117040047108096,iearnfinance,"YIP 38: Distribute Balancer Rewards
+
+$BAL as part of operational capital.
+
+Vote here https://t.co/x4YwIJa7P2
+
+https://t.co/30kINxmC0r",54,4,8,2020-08-19
+539,2020-08-20 09:31:43+00:00,1296379374925754368,iearnfinance,"yYFI vault update;
+
+yVault has been live for less than 5 hours, already $7,252 worth of YFI bought off the market.
+
+Highly unsustainable APY of 71.24% currently, do not expect this to maintain. https://t.co/rDFh2OK05N https://t.co/rhjDgpaCca",111,15,19,2020-08-20
+544,2020-08-21 10:22:25+00:00,1296754521155215360,iearnfinance,"$999,954,123.7 TVL https://t.co/3EoqtRjogM https://t.co/DEPoToMxFv",62,1,5,2020-08-21
+551,2020-08-22 01:56:09+00:00,1296989502821601281,iearnfinance,.@kermankohli has one of the best abilities to communicate complex systems in simple terms. Great explainer on v2 yVaults. @kermankohli will also be launching their own product that we are very excited about. https://t.co/ntiGDbSTDF,92,3,27,2020-08-22
+559,2020-08-23 11:21:03+00:00,1297494053592932352,iearnfinance,"https://t.co/uzIwKG4oml
+
+See proposals, status, top voters, and more.
+
+No idea who added this, but thank you! https://t.co/aor9zeKUeq",102,4,14,2020-08-23
+566,2020-08-24 02:02:56+00:00,1297715989619015680,iearnfinance,"Such amazing infographics from @DeFinnTheFarmer
+
+Will add all these to the faq pages! https://t.co/Nk4BLLlMQi",81,2,15,2020-08-24
+570,2020-08-25 16:58:51+00:00,1298303842296135680,iearnfinance,"Proposal from @StaniKulechov @AaveAave;
+
+Add new yVaults with Credit Delegation to Increase ROI
+
+Vote: https://t.co/UQXdOEFfcC
+
+Discuss: https://t.co/5wSXpQDeBA",111,5,18,2020-08-25
+576,2020-08-26 15:57:22+00:00,1298650755407151104,iearnfinance,https://t.co/swAOtIvIYW,270,16,80,2020-08-26
+586,2020-08-27 05:43:18+00:00,1298858608533397504,iearnfinance,"https://t.co/yxugnnkm93 allows governance to adjust https://t.co/07sw1g336W pool rewards every week.
+
+Discuss which pools should be prioritized and in what weights; https://t.co/5dJjgQBHYV
+
+Once decided, these will stay default until adjusted by another proposal https://t.co/MaHbovn8Kg",47,2,9,2020-08-27
+588,2020-08-28 03:35:53+00:00,1299188929225207809,iearnfinance,"https://t.co/Tm4Su0BzFk stats;
+
+TVL $1,121,332,233
+
+-vaults-
+
+YFI 9.96%
+https://t.co/15ymmpD1Xy LP 94.09%
+https://t.co/jQtziUlEsg LP 44.56%
+https://t.co/QgK6b8keEe 40.99%
+DAI 46.67%
+TUSD 24.54%
+USDC 24.28%
+USDT 35.58%
+
+https://t.co/JiHslRvOmq
+https://t.co/hA3FjMmHrr https://t.co/XX1XUQzP03",141,12,33,2020-08-28
+589,2020-08-29 09:57:48+00:00,1299647430540042240,iearnfinance,"https://t.co/enY8w7wIwG preview;
+
+We are finalizing testing and practical walkthroughs, then we will open up to a limited user base. https://t.co/Y1TExgirM6",399,24,87,2020-08-29
+591,2020-08-30 16:20:57+00:00,1300106240186609665,iearnfinance,"Forum poll to select which covers to include for https://t.co/enY8w7wIwG;
+
+https://t.co/1PETBEuMzj",98,8,16,2020-08-30
+595,2020-08-31 02:49:19+00:00,1300264376662929409,iearnfinance,"Should an admin fee be introduced to @CurveFinance ?
+
+Additional rewards for veCRV 
+Decreased rewards for LPs
+
+Vote to indicate how https://t.co/Tm4Su0BzFk should cast its delegated vote.
+
+YFI proxy vote; https://t.co/VJOnGMIYw1
+
+CRV vote; https://t.co/Bd0CBdTEfJ",66,1,12,2020-08-31
+601,2020-09-01 04:14:06+00:00,1300648099992547329,iearnfinance,"https://t.co/enY8w7wIwG stats;
+
+10 policies taken out so far;
+
+Total cover $954,000 https://t.co/RHsvEtcVcx",173,10,38,2020-09-01
+603,2020-09-02 16:47:30+00:00,1301200087268446209,iearnfinance,"Amazing independent audit. Not only code, but coverage, documentation, and more. 
+
+Read up @DefiSafety for more details https://t.co/r3xfoS4dmn",208,16,39,2020-09-02
+606,2020-09-03 15:55:30+00:00,1301549387278159873,iearnfinance,"https://t.co/hHZTAKGK2d update;
+
+Deposits to yETH have been paused. ~70m DAI minted. Withdrawals unaffected. We will allow deposits again in the future. For now this is a high enough cap to balance between best profits and best risk adjustment. https://t.co/te0Z2g6z7G",614,41,102,2020-09-03
+608,2020-09-04 04:25:17+00:00,1301738076247592960,iearnfinance,yETH vault inner workings explained https://t.co/3d3lr4uv4q,607,23,158,2020-09-04
+611,2020-09-06 07:54:46+00:00,1302515572555608064,iearnfinance,"https://t.co/enY8w7wIwG stats;
+
+21 policies bought;
+$2,758,500 insured; https://t.co/ON97ythKz0",134,3,33,2020-09-06
+619,2020-09-07 08:38:09+00:00,1302888876302913536,iearnfinance,"https://t.co/Tm4Su0BzFk has expanded;
+
+-Ops-
+@bantg 
+@milkyklim 
+@tracheopteryx 
+
+-Protocol-
+@orbxball 
+@fubuloubu 
+
+-Comms-
+@learn2yearn 
+DarkGhosty
+@thegismar 
+@fameal 
+
+Follow them for details and insights into https://t.co/Tm4Su0BzFk",685,42,92,2020-09-07
+623,2020-09-09 04:15:35+00:00,1303547575564480512,iearnfinance,"The Yearn Team Is Growing:
+
+-ops-
+@Substreight 
+FugginNoob
+Lux
+
+-dev-
+@grahamu 
+x48
+@devops199fan 
+
+-ux/content-
+iTo
+@DeFinnTheFarmer
+Gum / Buddyart
+Freezer
+Dennison Bertram
+@CL207 
+
+https://t.co/uKkJIXap5d https://t.co/Yr35Iav9Zo",201,14,31,2020-09-09
+624,2020-09-10 13:55:22+00:00,1304055870687506440,iearnfinance,"Introducing StableCredit, a new protocol for decentralized lending, stablecoins, and AMMs. https://t.co/Cuoo2OMi5H",1009,57,250,2020-09-10
+625,2020-09-11 17:09:27+00:00,1304467102120718341,iearnfinance,"View https://t.co/enY8w7wIwG cover amounts by covered contract.
+
+Amazing work as always @statsfinance https://t.co/mW4EQbEdUA",56,6,10,2020-09-11
+626,2020-09-14 11:58:49+00:00,1305476091918901249,iearnfinance,"StableCreditProtocol v1 supports any of the following @chainlink assets as collateral;
+
+- LINK
+- MKR
+- REN
+- SNX
+- YFI 
+
+- DAI
+- SUSD
+- TUSD
+- USDC
+- USDT
+
+- renBTC
+- wBTC
+
+Open alpha will start this week.",688,28,145,2020-09-14
+628,2020-09-15 01:39:00+00:00,1305682498337337345,iearnfinance,"Over $1,000,000 paid out in fees to governance participants https://t.co/y8nc08tgFh",464,13,69,2020-09-15
+630,2020-09-17 08:32:04+00:00,1306511223832432641,iearnfinance,"MIP10c3-SP10 Proposal: YFIUSD Oracle (Collateral Onboarding Oracle Assessment)
+
+https://t.co/pQC1en4v4L",87,2,24,2020-09-17
+633,2020-09-18 08:00:21+00:00,1306865631652962304,iearnfinance,"https://t.co/Tm4Su0BzFk updated;
+
+Removed 1 day APY values. 
+
+From feedback received it was clear it was confusing users.
+
+With current gas prices some yield only occur &gt; 24 hours. So any given time slice might show 0%
+
+We recommend monitoring &gt; 1 month. https://t.co/8yex78sMlF",156,22,28,2020-09-18
+634,2020-09-29 17:19:53+00:00,1310992710107570176,iearnfinance,"We are currently processing refunds related to $EMN. More information can be found in the thread below. 
+
+An update will be given in the near future when refunds are sent out. https://t.co/zBqoHVkTyP",188,23,35,2020-09-29
+635,2020-09-30 20:35:51+00:00,1311404414842875905,iearnfinance,"@Your_Trillness Funds were sent to the Yearn multi-sig, and they are now being returned to affected users.
+
+$EMN is not an official Yearn release.",2,1,0,2020-09-30
+639,2020-10-01 01:36:14+00:00,1311480007622111236,iearnfinance,"Members of the Yearn developer team will be featured on #ETHOnline discussing yVaults and how to build new strategies on Yearn. 
+
+Watch live tomorrow 10/1 at 1pm ET. 
+
+https://t.co/zUv8SaOloI",169,10,38,2020-10-01
+642,2020-10-02 16:19:09+00:00,1312064589299953666,iearnfinance,"Stay updated on Yearn Governance with this weekly roundup by @yfi_nomad.
+
+https://t.co/vfPYkoYq2W",116,13,26,2020-10-02
+643,2020-10-03 05:40:14+00:00,1312266187028549632,iearnfinance,"@patrick_oshag We'd be happy to answer any questions you may have, or discuss anything related to Yearn further.
+
+Some resources:
+https://t.co/VLwvftBKTe
+https://t.co/zAVj0VyIBY
+https://t.co/UkkaS07GYb
+https://t.co/JiHslRvOmq
+
+Governance Forum:
+https://t.co/8zce0Kwf3l",41,2,4,2020-10-03
+644,2020-10-04 23:31:59+00:00,1312898289646223360,iearnfinance,Vaults v2 are coming. Stay tuned. https://t.co/TIaBRIqHl9,420,34,78,2020-10-04
+645,2020-10-05 16:07:01+00:00,1313148697543356416,iearnfinance,"Check out our latest State of the Vaults created by @dudesahn 
+
+https://t.co/96H7tmOO9b",195,16,50,2020-10-05
+648,2020-10-06 07:08:03+00:00,1313375452417974273,iearnfinance,"YFI risk evaluation for onboarding it as MakerDAO collateral prepared by @MonetSupply 
+https://t.co/u1s7MluBtU",156,15,38,2020-10-06
+649,2020-10-08 17:07:08+00:00,1314250990921510912,iearnfinance,"Proposal to create a Code of Conduct to help nurture the community &amp; define fair moderation practices. 
+
+https://t.co/ngW3OAgHIC",133,25,26,2020-10-08
+655,2020-10-11 19:55:21+00:00,1315380488236744705,iearnfinance,@bantg @emilianobonassi Migration process has completed. No action is required from users.,62,1,3,2020-10-11
+656,2020-10-12 01:44:43+00:00,1315468408742273024,iearnfinance,"Our latest Yearn Finance weekly newsletter has been published.
+
+https://t.co/Uc4o62I2Lp",197,19,43,2020-10-12
+657,2020-10-14 19:00:48+00:00,1316453922987339776,iearnfinance,"https://t.co/zzYFgoinf4
+
+Provides you with an ROI calculation per yVault. Input your wallet address and select the applicable vault to see your ROI.
+
+Credits to community member @rrridges",161,8,32,2020-10-14
+659,2020-10-15 14:00:31+00:00,1316740742660853763,iearnfinance,"We'd like to remind everyone that the competition is now live!
+
+Please tweet your submissions with the hashtag #yRari to @iearnfinance and @rariblecom and by following the instructions in the tweet below. 
+
+The winner will receive 2,000 yUSD. https://t.co/XgVU2oeSv0",86,12,19,2020-10-15
+661,2020-10-16 14:23:20+00:00,1317108872016965632,iearnfinance,On-going testing (on Ropsten) of Yearn v2 vaults. We are testing the ability for a single vault to simultaneously fund 3 different strategies. https://t.co/PVdqJPfxg0,289,18,56,2020-10-16
+665,2020-10-19 01:11:59+00:00,1317996885303529476,iearnfinance,"Read our latest weekly Newsletter.
+
+💠 What is Yearn Finance?
+
+💠 yInsure Artwork Submissions
+
+💠 Bug Bounty Program
+
+💠 Impermanent Loss Insurance
+
+And more. Read &amp; Subscribe below.
+
+https://t.co/YK1iDBhHOp",100,6,34,2020-10-19
+666,2020-10-20 14:45:57+00:00,1318564117251158016,iearnfinance,"Did you know we have a  Telegram updates channel? Join below and stay informed.
+https://t.co/jVTWJl5Auu
+
+Other communication avenues.
+Discord: https://t.co/iR6moo0Rfy
+Telegram: https://t.co/gOUWmjhsWz
+Reddit: https://t.co/Bx0FtUtE0j
+Governance: https://t.co/8zce0KNPUT",34,0,4,2020-10-20
+669,2020-10-21 15:29:59+00:00,1318937582525423616,iearnfinance,"A promising new levered $DAI strategy to farm $COMP on @compoundfinance is currently being tested. 
+
+This strategy was proposed by a community member, and we encourage individuals to propose ideas for new strategies on our governance forum. 
+
+https://t.co/8zce0Kwf3l https://t.co/tprmObQttc",173,9,29,2020-10-21
+670,2020-10-23 14:58:02+00:00,1319654318107201536,iearnfinance,"Weekly governance roundup by Yearn Communications member @yfi_nomad.
+
+Be sure to read and subscribe to stay up to date with Yearn governance proposals. https://t.co/k2vku8hXwC",46,3,6,2020-10-23
+673,2020-10-24 18:31:09+00:00,1320070338999443458,iearnfinance,"Weekly State of the Vaults is out!
+
+https://t.co/KMj0k52Cnh",149,17,23,2020-10-24
+674,2020-10-25 17:34:05+00:00,1320418365664563203,iearnfinance,"We would like to remind everyone that we are hosting our 2nd AMA this Tuesday, October 27th at 16:00 UTC on our discord channel. 
+
+You can also submit one question using this google form. 
+
+https://t.co/5apkcjWAN4",90,10,17,2020-10-25
+676,2020-10-26 09:30:00+00:00,1320658931731984386,iearnfinance,"Early AM CEST we noticed a large volume, and APY increase coinciding with a TVL decrease. Investigation showed this was due to increased trading activity and withdrawals related to Harvest Finance. All systems are unaffected.",164,14,20,2020-10-26
+677,2020-10-27 20:06:59+00:00,1321181622461452289,iearnfinance,"We held our 2nd AMA today, if you missed it you can check out this recap below.
+
+👇👇 https://t.co/OaDyelYXPj",46,8,5,2020-10-27
+678,2020-10-28 14:45:54+00:00,1321463205311488000,iearnfinance,"We are pleased to announce the winners of our ETHOnline hackathon.
+
+🥇1st prize: 2,500 yUSD
+Hegic Vault
+https://t.co/izI1B1wk8q
+Authors: @Macarse @mattdwest 
+
+🥈2nd prize: 1,500 yUSD
+Tokenlog
+https://t.co/eCl3AGJSVL
+Author: @wslyvh 
+
+Congrats to the winners!",151,42,22,2020-10-28
+680,2020-10-30 18:02:33+00:00,1322237470369525761,iearnfinance,"Below is a link to a discussion regarding a potential change to how governance earnings are distributed. Currently, they are sent to $YFI stakeholders.  
+
+We encourage you to join the discussion on the governance forum. 
+
+https://t.co/P2crEpSE7X",108,8,12,2020-10-30
+683,2020-11-01 14:53:23+00:00,1322914638506414081,iearnfinance,"1/ Our goal is to attract and retain the best developers in DeFi to work in the Yearn ecosystem.
+
+Some developers have expressed concern that Strategist fees (0.5%) are not sufficient to align long-term incentives.",172,11,20,2020-11-01
+686,2020-11-03 02:45:24+00:00,1323456213254811651,iearnfinance,"A new proposal has been posted on the governance forum to restructure fees.
+
+We encourage you to read the proposal and join the discussion.
+
+https://t.co/baX89gjLV6 https://t.co/14b5sQq4UZ",58,12,8,2020-11-03
+687,2020-11-04 11:19:42+00:00,1323948030584791040,iearnfinance,We are thrilled to announce that Yearn yVaults are now integrated into Frontier's interface. https://t.co/vQjABPDhZj,178,23,34,2020-11-04
+688,2020-11-06 17:26:09+00:00,1324765026062802945,iearnfinance,"Happy Friday everyone! Time for our weekly governance roundup. 
+
+A lot of new and important governance proposals have been introduced this past week and are still being discussed. 
+
+Check out our summary below and get involved on the governance forum to make your voice heard. https://t.co/FCLyGrMh6R",67,7,8,2020-11-06
+689,2020-11-07 15:21:36+00:00,1325096068862763014,iearnfinance,"We would like to remind everyone that we have a vote regarding changing the fee structure for v2 yVaults. 
+
+Key Changes: 
+ - Eliminate withdrawal fees
+ - 2% Management fee on AUM
+ - 20% Performance Fee (50/50 split between Strategist &amp; Yearn Governance)
+
+https://t.co/Xj43vfYpeB",154,7,34,2020-11-07
+691,2020-11-08 23:29:26+00:00,1325581222253191169,iearnfinance,"Read and subscribe to our weekly newsletter.
+
+💠 Two Active Votes on Snapshot
+
+💠 New veCRV “Backscratcher” is Live
+
+💠 Testing for Several New yVaults
+
+💠 Audit Completed by MixBytes
+
+https://t.co/kUTqxFvv1n",73,7,20,2020-11-08
+692,2020-11-09 18:19:54+00:00,1325865714985672704,iearnfinance,"YIP-52: Revamp the Performance fee split for yVaults. 
+
+This YIP would split the 20% performance fee 50/50 between Yearn governance and Strategists. 
+
+This vote is binding and now live on Snapshot. 
+
+https://t.co/CorjcEqxgJ",64,4,13,2020-11-09
+694,2020-11-10 21:30:00+00:00,1326275942705106944,iearnfinance,"YIP-51 has passed, which removed yVault withdrawal fees and changes the fee structure to be a 2% Management fee and a 20% Performance fee on profits. 
+
+https://t.co/Xj43vfYpeB
+
+We would like to remind everyone that YIP-52 is still actively being voted.
+
+https://t.co/CorjcE8VS9",163,14,39,2020-11-10
+695,2020-11-11 20:28:30+00:00,1326622852485795840,iearnfinance,"Check out YIP-53 a proposal to establish yAcademy, which will create a security auditor team focused on Yearn's smart contracts. 
+
+Voting is now live on Snapshot until November 14th. https://t.co/nwzzcBXSsW",122,2,21,2020-11-11
+699,2020-11-12 17:01:13+00:00,1326933077239754755,iearnfinance,"Activity on the governance forum is alive and kicking.
+
+Two new proposals have been submitted today.
+
+https://t.co/Z6rQSSCDjS
+
+https://t.co/UuGUJ0qWVo",57,3,6,2020-11-12
+700,2020-11-13 13:15:01+00:00,1327238538480463878,iearnfinance,"A vote on the MakerDao governance forum to increase the debt ceiling for $YFI, which has nearly achieved full utilization already. https://t.co/Uu2CdTV94A",103,3,10,2020-11-13
+702,2020-11-15 20:25:49+00:00,1328071728858271744,iearnfinance,"YIP-54: Formalize Operations Funding has officially passed.
+
+Effective with the introduction of v2 yVaults, 50% of treasury fees will be distributed to an Operations Fund and the remaining 50% to $YFI stakers. 
+
+Full details below:
+https://t.co/U7bmslompG",137,8,22,2020-11-15
+703,2020-11-16 00:03:21+00:00,1328126475518816257,iearnfinance,"A lot of changes in the Yearn ecosystem this past week. Check out our weekly newsletter.
+
+💠 Four Important YIPs Have Passed
+
+💠 YFI Accepted as Collateral on MakerDAO
+
+💠 Yearn x Hegic: Binary Options
+
+💠 Airdrop for Yearn Governance Participants
+
+https://t.co/FIO6gJWYxh",100,1,21,2020-11-16
+704,2020-11-17 17:05:46+00:00,1328746161038036999,iearnfinance,"YIP-55: Formalize the YIP Introduction &amp; Voting Process has been submitted to Snapshot and voting is now live.
+
+This YIP would clearly define the YIP introduction, deliberation, and implementation process.
+
+Voting ends on November 22nd.
+
+https://t.co/rbch7NWwC9",41,2,10,2020-11-17
+706,2020-11-20 21:34:15+00:00,1329900893232275456,iearnfinance,"We announced previously that $YFI has been added as collateral to the @MakerDAO CDP ecosystem. Overwhelmingly, the 7m DAI debt ceiling for $YFI was quickly hit.
+
+A new executive vote to raise the $YFI debt ceiling to 20m DAI is now live.
+
+https://t.co/Mptdn8x4jr https://t.co/XnLKSValuR",181,10,29,2020-11-20
+707,2020-11-21 18:41:58+00:00,1330219921058500608,iearnfinance,"We would like to remind everyone that YIP-55 is still being voted on.
+
+Voting concludes in approximately 23 hours on November 23rd.
+
+See the full details of the proposal below.
+
+https://t.co/rbch7NWwC9",50,3,9,2020-11-21
+709,2020-11-23 00:46:19+00:00,1330674001694351363,iearnfinance,"Check out our weekly newsletter to stay updated with the Yearn ecosystem:
+
+💠 An Introduction to Yearn 2.0 yVaults 
+
+💠 YIP-55: Formalize the YIP Introduction &amp; Voting Process Passed
+
+💠 YFI Debt Ceiling Increase Vote 
+
+💠 Feel the Yearn 2 App Released
+
+https://t.co/iL5Bb2XZyc",73,4,12,2020-11-23
+712,2020-11-24 13:08:03+00:00,1331223053896880128,iearnfinance,"@picklefinance 4/ 
+- Gauge deposit, withdrawal, performance, and protocol fees go to DILL holders.
+- A new token, CORNICHON, tracks losses from the recent Evil Jar exploit, distributed proportionally to victims of the attack.",13,1,4,2020-11-24
+717,2020-11-25 15:45:30+00:00,1331625066426150913,iearnfinance,".@Bancor is conducting a vote to add two more tokens as part of the Liquidity Mining rewards for Bancor v2.1.
+
+$YFI is among the potential new tokens that will be added. We encourage you vote for $YFI. 
+
+👇👇 https://t.co/JpQhxyCbJS",133,7,16,2020-11-25
+721,2020-11-26 18:02:48+00:00,1332022004967325696,iearnfinance,"The Yearn ecosystem is built upon composability, and this translates towards our collaborative development ethos and culture. 
+
+We encourage DeFi developers to collaborate with *all* developers working in our ecosystem, including Andre. https://t.co/oSXHJ8LFMP",151,2,16,2020-11-26
+724,2020-11-27 16:09:19+00:00,1332355834647519232,iearnfinance,"Our 3rd Ask Me Anything is now live on our discord channel! 
+
+This month we have @tascha_panpan from @AlphaFinanceLab as a special guest discussing their YFI/ETH LP pool.
+
+Come join and ask us your questions.
+
+https://t.co/q5xKDbZRfn",34,3,5,2020-11-27
+727,2020-11-28 15:44:22+00:00,1332711941740109825,iearnfinance,"Check out the Yearn governance post regarding the recently announced @CoverProtocol &amp; Yearn collaboration.
+
+https://t.co/O3qCFx9Bh0",98,3,22,2020-11-28
+729,2020-11-29 03:59:00+00:00,1332896821593706496,iearnfinance,"That's right we are just getting started...
+
+New Yearn v2 yVault diagrams and additional details coming soon. https://t.co/oORR5eyPKC",128,6,15,2020-11-29
+730,2020-11-30 01:56:34+00:00,1333228395199606790,iearnfinance,"It has been an incredibly exciting and eventful week in the Yearn ecosystem. Read &amp; subscribe to our newsletter to stay informed!
+
+💠 Yearn Merges With C.R.E.A.M
+
+💠 Yearn &amp; Pickle Form Symbiotic Relationship
+
+💠 Yearn &amp; Cover Merger
+
+💠 PowerPool Integrates YFI",195,6,31,2020-11-30
+736,2020-12-01 17:04:15+00:00,1333819208841523200,iearnfinance,"Congratulations to the Ethereum developer community on a successful launch of the Beacon Chain!
+
+Yearn is built upon composability and collaboration. We strive to create innovative products that add value and strengthen DeFi and the *entire* crypto ecosystem. 
+
+🚀🚀🚀",400,4,23,2020-12-01
+737,2020-12-02 16:07:09+00:00,1334167227944349696,iearnfinance,"$YFI is leading the vote to be one of the next two tokens to receive $BNT liquidity mining rewards.
+
+Be sure to vote for $YFI if you have not already. https://t.co/RgpZvWNAJ1",91,3,9,2020-12-02
+738,2020-12-03 22:24:54+00:00,1334624680003702785,iearnfinance,"Join the future.
+
+🚀🚀🚀 https://t.co/nC9eeiRSqt",163,7,13,2020-12-03
+744,2020-12-04 23:17:15+00:00,1335000242064936965,iearnfinance,"There have been several new partnerships or synergies formed in the Yearn ecosystem recently.
+
+@NomadYFI will be publishing a weekly newsletter covering updates related to partners in the Yearn ecosystem.
+
+Be sure to subscribe and read the first publication.
+
+👇👇 https://t.co/A55uX8VZKJ",51,1,8,2020-12-04
+745,2020-12-06 15:42:45+00:00,1335610638354305031,iearnfinance,👀 https://t.co/5DfzZ7kH3h,147,3,17,2020-12-06
+746,2020-12-07 02:04:22+00:00,1335767075957207044,iearnfinance,"This week's newsletter is packed with excited updates in the Yearn ecosystem. 💪 
+
+💠 Yearn x SushiSwap 
+
+💠 Yearn x Akropolis 
+
+💠 Keep3r Scaling With Chainlink 
+
+💠 Bancor Liquidity Mining Program
+
+Read &amp; Subscribe to stay informed!
+
+🚀🚀
+
+https://t.co/FK6IHgI8AF",141,2,22,2020-12-07
+747,2020-12-09 23:35:53+00:00,1336816871811608577,iearnfinance,And we are happy to have you within our ecosystem and supporting DeFi overall. https://t.co/U9MfIGIY3U,173,4,19,2020-12-09
+749,2020-12-10 16:49:11+00:00,1337076908022968326,iearnfinance,".@0xBoxer has created a very informative @DuneAnalytics dashboard for the YFI token.
+
+You can see YFI balances held between governance staking, exchanges, AAVE, MakerDAO, and other protocols within DeFi.
+
+We suggest you take a look. Great work @0xBoxer!
+
+https://t.co/3jHl5xyfpB",122,9,16,2020-12-10
+752,2020-12-12 19:34:18+00:00,1337843237101457409,iearnfinance,"Les dernieres infos sur les vaults
+
+🥖 🇫🇷 https://t.co/B6epU9MQjn",43,5,4,2020-12-12
+753,2020-12-14 03:30:23+00:00,1338325438146469888,iearnfinance,"Read &amp; subscribe to our weekly newsletter covering all things happening in the Yearn ecosystem.
+
+💠 Curve Admin Fee Distribution
+
+💠 Initial UI Implementations of COVER &amp; C.R.E.A.M
+
+💠 Yearn Quarterly Financial Report
+
+💠 Launch of the YETI Token
+
+https://t.co/4Db2lgoFDf",109,6,20,2020-12-14
+754,2020-12-15 18:12:52+00:00,1338909907580571651,iearnfinance,"A new GUSD/3Crv yVault has been added to our vaults offering on https://t.co/DH1QgGMuMF
+
+Please be aware that this pool is brand new, as such no APY estimate is currently available. https://t.co/S8q2wvTzv4",70,4,8,2020-12-15
+755,2020-12-16 15:45:56+00:00,1339235317476433924,iearnfinance,"$BTC just surpassed its all time high and the future couldn't be brighter for #DeFi and the wider cryptocurrency community.
+
+Congratulations to all the developers, builders, hodlers, and supporters!
+
+Here's to a innovative and successful 2021.
+
+Cheers!
+
+✨🚀🚀🌑",682,21,83,2020-12-16
+757,2020-12-19 15:47:54+00:00,1340322979620655104,iearnfinance,Happy yMas and Happy Holidays to all of our friends and collaborators in the crypto community! https://t.co/wVPcVa1ywf,90,5,5,2020-12-19
+758,2020-12-20 23:29:42+00:00,1340801581105737730,iearnfinance,"Stay up to date and informed on everything in the Yearn ecosystem with our Newsletter.
+
+💠 Two New yVaults Deployed
+
+💠 Launch of the ytVault Registry
+
+💠 New Proposal to Create the ASSY Index
+
+💠 Yearn Founder Named DeFi Person of the Year
+
+https://t.co/yWMjaIehCV",87,3,14,2020-12-20
+759,2020-12-23 19:59:35+00:00,1341835868009603074,iearnfinance,"We would like to wish everyone a Happy Holidays and Happy yMas from the Yearn community and on behalf of all partners in the Yearn ecosystem!
+
+The future is looking very bright and exciting. 🚀🚀✨🌑
+
+$YFI $AKRO $COVER $CREAM $KP3R $PICKLE $SUSHI https://t.co/VQQ2llzjTt",416,24,64,2020-12-23
+760,2021-01-09 05:42:02+00:00,1347780650200346624,iearnfinance,"Yearn Vaults v0.3.0 ""Strelka"" release
+
+https://t.co/NJidpYD9Cn",217,15,31,2021-01-09
+762,2021-01-11 02:04:22+00:00,1348450651219619843,iearnfinance,"Read our weekly newsletter covering updates in the Yearn ecosystem:
+
+💠 Alpha Homora &amp; Yearn Finance Leveraged yVaults
+
+💠 Impermanent Loss Protection &amp; Single-Sided LP Solution Being Tested
+
+💠 yVault Alert Bot
+
+💠 Yearn v2 2/3 Audits Completed
+
+https://t.co/g2UcT8o81O",269,28,61,2021-01-11
+763,2021-01-14 13:10:05+00:00,1349705345690726402,iearnfinance,"A new mUSD yVault is now live on our website. 
+
+This vault deposits mUSD into the mUSD &amp; 3Pool liquidity pool on @CurveFinance.
+
+https://t.co/DH1QgGMuMF https://t.co/8FbzRaiTnP",188,8,29,2021-01-14
+769,2021-01-16 16:57:35+00:00,1350487372480335872,iearnfinance,"BABY: Buyback and Build Yearn YIP is now live on Snapshot.
+
+You can read the full description and vote on this YIP using the link provided below.
+
+https://t.co/w1UCtCBKdY",252,12,46,2021-01-16
+771,2021-01-18 19:03:16+00:00,1351243781048250376,iearnfinance,"Yearn weekly Newsletter. 📰
+
+💠 Deliberation to Mint More YFI to Contributors
+
+💠 BABY: Buyback and Build Yearn YIP Voting is Live
+
+💠 Curve Swaps: Permissionless Stablecoin Pools
+
+💠 Single-Sided Liquidity Provisioning &amp; IL Hedge Being Tested
+
+https://t.co/QcTrkiHtOH",72,7,10,2021-01-18
+773,2021-01-19 23:22:55+00:00,1351671508263972864,iearnfinance,"USDC, DAI, and HEGIC v2 yVaults are live on our site.
+
+You can access these vaults using the link below.
+
+https://t.co/DH1QgGMuMF",217,15,30,2021-01-19
+776,2021-01-20 00:43:05+00:00,1351691684757839873,iearnfinance,"Yearn contributor token allocation discussions are on-going on our governance forum. @dudesahn  has compiled data of team token allocations for other protocols in DeFi.
+
+We encourage you to join the discussion and participate in governance.
+
+https://t.co/GT4dp3Slen",97,4,17,2021-01-20
+780,2021-01-21 17:48:37+00:00,1352312156004495363,iearnfinance,"Zerion has integrated our newly launched v2 yVaults into their platform.
+
+Check out details below.
+
+👇 https://t.co/h8uDR2zzcs",76,4,10,2021-01-21
+782,2021-01-22 19:28:07+00:00,1352699582384365568,iearnfinance,Reminder that you can transition from v1 USDC and DAI yVaults to v2 of these respective yVaults without paying any withdrawal fees. https://t.co/aDwmbISI76,62,10,7,2021-01-22
+783,2021-01-25 17:57:58+00:00,1353764060463030272,iearnfinance,"Read &amp; subscribe to our weekly newsletter:
+
+💠 Yearn v2 Has Launched
+
+💠 Proposal to Mint Additional YFI Voting Expected this Week
+
+💠 BABY: Buyback &amp; Build Yearn Proposal Has Passed
+
+💠 Two New PowerPool Indices
+
+https://t.co/0B62pcL0pW",75,9,18,2021-01-25
+784,2021-01-28 23:30:50+00:00,1354934994670678025,iearnfinance,"@MakerDAO @CurveFinance 3/ Withdrawal fees have been temporarily waived until further notice, and only a 5% fee on subsidized gas costs remains. You can access this vault at https://t.co/DH1QgGMuMF",45,3,5,2021-01-28
+788,2021-01-29 15:18:31+00:00,1355173486789070853,iearnfinance,"We will be having our next AMA Wednesday, February 3rd at 4pm UTC on our discord server. @tascha_panpan from @AlphaFinanceLab will be joining us as a special guest to briefly discuss their upcoming v2 YFI/ETH pool and ibYFI product.
+
+See you there!!
+
+https://t.co/N6wOyMPvvM",74,7,14,2021-01-29
+789,2021-02-01 22:20:53+00:00,1356366939355025410,iearnfinance,"Read &amp; subscribe to our weekly newsletter.
+
+💠YIP-57: Funding Yearn's Future Voting is Live
+
+💠Relaunch of Our v1 WETH yVault 
+
+💠Thirteen New yVaults are Live
+
+💠ASSY Index is Live
+
+https://t.co/Bq5ExOd9OG",55,3,15,2021-02-01
+790,2021-02-02 18:39:31+00:00,1356673618185515008,iearnfinance,"YIP-57: Funding Yearn's Future has passed with 83.46% of the eligible vote in favor. This YIP is now official and binding. More details will be shared in the future.
+
+A complete description of this YIP can be found below. 
+
+https://t.co/umzNPL1GnX",155,13,27,2021-02-02
+793,2021-02-03 13:59:33+00:00,1356965554117091328,iearnfinance,"@tascha_panpan @AlphaFinanceLab A reminder we will be having an AMA today at 4pm UTC, in approximately 2 hours from now.
+
+https://t.co/STWOe1CxXi",26,3,4,2021-02-03
+794,2021-02-04 22:09:42+00:00,1357451290561937408,iearnfinance,We have noticed the v1 yDAI vault has suffered an exploit. The exploit has been mitigated. Full report to follow.,1203,246,345,2021-02-04
+795,2021-02-06 01:48:44+00:00,1357868798796324864,iearnfinance,"yveCRV vault is back – this time with 🍣 on top. 
+
+https://t.co/fNa5Et9ROK https://t.co/KFnDzPcFKm",150,6,21,2021-02-06
+796,2021-02-07 06:27:08+00:00,1358301247837716482,iearnfinance,"In general, investing in Yearn is at your own risk. If you wish to protect yourself from exploits of external protocols in the future, please consider purchasing insurance for your deposits from Cover or Nexus mutual.",120,14,20,2021-02-07
+798,2021-02-08 13:20:46+00:00,1358767732599250944,iearnfinance,Recent yv2 pool issue doesn’t affect any of yearn vaults. Funds are safe. https://t.co/WcNx73T85l,86,7,16,2021-02-08
+801,2021-02-09 01:13:01+00:00,1358946974238662656,iearnfinance,🦙🍣🥒: yveCRV-ETH pickle jar is live! Get yveCRV at https://t.co/fNa5Et9ROK and enjoy sushi and pickle rewards. https://t.co/RDxHykXNCy,28,2,7,2021-02-09
+807,2021-02-11 01:01:34+00:00,1359668870588620804,iearnfinance,"Happy Chinese New Year from your friends at Yearn and on behalf of all Yearn ecosystem partners! 🎊
+
+h/t @bigba_daboom @Zemm_NFT https://t.co/hhpq3SsOGj",362,17,71,2021-02-11
+808,2021-02-12 22:11:29+00:00,1360350840343650309,iearnfinance,"Per YIP-57: Funding Yearn's Future a Compensation Working Group has been established to allocate up to 2,333 YFI to retain key contributors. 
+
+More details of these retention packages can be found in the governance post below. 
+
+https://t.co/lvItZymq0S",68,4,12,2021-02-12
+809,2021-02-14 18:14:34+00:00,1361015994530029573,iearnfinance,"@SushiSwap @picklefinance A reminder that the Pickle Jar for the SushiSwap yveCRV-WETH LP token is earning approximately 162% APY with the help of 🍣 and 🥒 rewards from Yearn ecosystem partners.
+
+A step-by-step guide to deposit into this Jar is in the screenshot above. https://t.co/1ZiRyF4JCQ",115,5,27,2021-02-14
+810,2021-02-15 21:42:39+00:00,1361430749015117830,iearnfinance,"A new potential YIP is up for discussion on our governance forum about temporarily extending the multi-sig empowerment.
+
+We encourage you to join the discussion. 
+
+https://t.co/N4iWsGfdoi",51,2,17,2021-02-15
+811,2021-02-16 00:56:18+00:00,1361479481395929090,iearnfinance,"We are pleased to announce our v2 WBTC yVault deposit limit has been raised from 14 to 21 WBTC.
+
+You can access this yVault in the link below!
+
+https://t.co/DH1QgGMuMF",107,8,25,2021-02-16
+813,2021-02-17 18:09:43+00:00,1362101940809834499,iearnfinance,"Yearn v2 USDC and DAI yVault APYs are now displayed on @coingecko's Earn section. These vaults are earning approximately 24% and 17% APY, respectively.
+
+Special thanks to the @coingecko team. You can deposit using the link below. 
+
+https://t.co/DH1QgGMuMF
+
+https://t.co/uxyej7Yn9N https://t.co/0tpAROFkvy",170,9,43,2021-02-17
+814,2021-02-18 19:21:35+00:00,1362482412551364609,iearnfinance,👀 https://t.co/Vkg0Sj8ALl,136,10,20,2021-02-18
+815,2021-02-19 20:47:12+00:00,1362866346044907521,iearnfinance,"YIP-59: Temporarily Extend Multisig Empowerment vote is live on Snapshot.
+
+This YIP would extend multisig empowerment for an additional 3 months (EOM May 2021). You can read the full description of this YIP and vote using the link below.
+
+https://t.co/cWb7rIWIKA",22,1,7,2021-02-19
+816,2021-02-21 21:23:40+00:00,1363600298686742531,iearnfinance,"Our v2 yVaults are able to employ up to 20 strategies per vault. The v2 USDC yVault is running three different strategies concurrently and is yielding 21.8% APY.
+
+You can deposit into the v2 USDC yVault, and all our other vaults using the link below.
+
+https://t.co/DH1QgGMuMF",211,10,28,2021-02-21
+817,2021-02-22 19:16:22+00:00,1363930650835890181,iearnfinance,"Yearn has submitted an ARC to disable YFI borrowing in @AaveAave, secure a fixed interest rate and enable native credit delegation to Yearn Vaults.
+https://t.co/3hLxzCOxb1",184,9,37,2021-02-22
+818,2021-02-24 18:25:13+00:00,1364642555380588563,iearnfinance,"YIP-59: Temporarily Extend Multi-sig Empowerment has passed with unanimous support, and is now effective.
+
+The multi-sig is now empowered for an additional three months until the end of May. 
+
+https://t.co/cWb7rIWIKA",49,5,5,2021-02-24
+820,2021-02-25 19:02:35+00:00,1365014346473091075,iearnfinance,"Our yVault for the DUSD/3Pool on @CurveFinance is currently earning 98% APY. Our depositors are able to achieve a higher return due to periodic compounding of both $CRV and $DFD.  
+
+You can deposit to this yVault using the link below.
+
+https://t.co/DH1QgGMuMF https://t.co/qrftXQYI7P",117,7,26,2021-02-25
+821,2021-02-26 16:44:09+00:00,1365341895212343297,iearnfinance,"Yearn yVault Top Performers 🏆
+Top Stablecoin APYs:
+🥇 DUSD: 85.13%
+🥈 sAave: 62.95%
+🥉 sUSD: 57.26%
+
+Top BTC and ETH APYs:
+🥇 ankrETH: 382%
+🥈 stETH: 51.65%
+🥉 PBTC: 31.42%
+
+Hon. Mentions🎗: EURS 57%, USDN and Aave 54%, GUSD 49%
+
+Find them all here: 
+https://t.co/hHZTAKGK2d",140,15,39,2021-02-26
+822,2021-02-27 15:53:09+00:00,1365691451313688577,iearnfinance,"Yearn Partner Roundup #7
+
+💠 Onsen Round 2: New pairs and a revised allocation point system
+
+💠 wETH -&gt; wFTM cross-chain swaps using @SushiSwap
+
+💠 @CreamdotFinance Treasury Management plan announcement
+
+💠 Credit Default Swaps (CDS) from @CoverProtocol
+
+https://t.co/MSqImBIwBh",129,5,28,2021-02-27
+823,2021-02-28 14:54:43+00:00,1366039131315462146,iearnfinance,"This week's Yearn State of the Vaults 🏦
+
+💠 A new @CurveFinance Vault for the sAAVE pool
+
+💠 Testing a cross-chain yVault on @FantomFDN 😲
+
+💠 Experimental $UNI vault in @PoolTogether_ 🧪
+
+Including latest APYs of all yVaults below 👇
+
+https://t.co/mhRlnrMNmu",399,49,108,2021-02-28
+824,2021-03-01 20:43:20+00:00,1366489253476196353,iearnfinance,"Yearn Vault Top Performers 🏆
+Stablecoin Pool APYs:
+🥇 DUSD: 60.46%
+🥈 EURS: 59.31%
+🥉 sUSD: 53.92%
+
+BTC and ETH APYs:
+🥇 sETH: 38.91%
+🥈 ankrETH: 35.81%
+🥉 PBTC: 31.09%
+
+Hon. Mentions🎗: USDN and AAVE 50%, BUSD 47%
+
+Find them all here: https://t.co/hHZTAKGK2d",143,6,26,2021-03-01
+825,2021-03-03 14:02:22+00:00,1367113121312219142,iearnfinance,"Check out this week's newsletter 📰
+
+💠 YIP-59: Temporarily Extend Multi-sig Empowerment Has Passed
+
+💠 v2 yETH Vault Has Launched
+
+💠 Yearn Exceeds $1b in TVL
+
+💠 v2 yDAI Deposit Limit Increased
+
+👇
+https://t.co/ZzSVCuqJQT",93,1,15,2021-03-03
+826,2021-03-04 16:20:20+00:00,1367510231434080257,iearnfinance,"12/ If you are interested in partnering with us, we’d love to hear from you! 👏 Please reach out to us here: https://t.co/RCahjw1yPQ
+
+Let’s build the future of finance together. 🚀 🚀",93,7,14,2021-03-04
+838,2021-03-05 16:13:53+00:00,1367870994514329601,iearnfinance,"Yearn Vault Top Performers 🏆
+Stablecoin Pool APYs:
+🥇 EURS: 56.94% 
+🥈 sAAVE: 56.48% 
+🥉DUSD: 50.93% 
+
+BTC and ETH APYs:
+🥇 sETH: 46.88%
+🥈 stETH: 34.67%
+🥉 oBTC: 31.73%
+
+Find them all here: 
+https://t.co/DH1QgGMuMF",41,6,8,2021-03-05
+841,2021-03-06 22:04:59+00:00,1368321737331445763,iearnfinance,"Stay up to date with our yVaults in this week's State of the Vaults 🏦
+
+💠 Two new strategies added to our v2 yDAI vault
+
+💠 Release of our v2 yETH vault 🚀 
+
+And more including detailed strategies of each vault and APYs!
+
+Read below. 👇
+https://t.co/gxMJM9CUOo",73,9,13,2021-03-06
+842,2021-03-08 01:16:30+00:00,1368732325253636098,iearnfinance,"Check out the weekly Yearn newsletter 📰
+
+💠 Introducing the Yearn Partners Program
+
+💠 Yearn Has Deposited into Yearn
+
+💠 Benefits of Yearn yVaults
+
+💠 Yearn Lazy Ape Has Launched
+
+And more below 👇
+
+https://t.co/UdemH2VqmS",58,2,11,2021-03-08
+848,2021-03-09 03:23:25+00:00,1369126653381738496,iearnfinance,"Yearn Vault Top Performers 🏆
+Stablecoin Pool APYs:
+🥇 USDP: 109.66% 
+🥈 DUSD: 59.71%
+🥉 GUSD: 55.75%
+
+BTC and ETH APYs:
+🥇 sETH: 42.72%
+🥈 pBTC: 37.74%
+🥉 stETH: 33.77%
+
+All other asset APYs:
+🥇 YFI v2: 206.39%
+🥈 crvLINK: 67.88%
+
+Find them all here: 
+https://t.co/hHZTAKGK2d",104,5,20,2021-03-09
+852,2021-03-10 20:21:50+00:00,1369745330309378048,iearnfinance,"Earn HIGHER yield on your $YFI with v2 yVaults! 🔥
+
+Our v2 vaults are more advanced 🧠 and lucrative 💰 than our v1 vaults. To make migration easy, we are introducing a 1-click migration 🤩 starting with our YFI vault.
+
+Migrate Today! 💪
+
+https://t.co/fJmyHNzFZv https://t.co/PEa7MZrG4C",260,21,45,2021-03-10
+853,2021-03-11 21:48:52+00:00,1370129621434392578,iearnfinance,"Earn yield on your $1INCH today! 🚀
+
+Our v2 $1INCH yVault is now live and currently earning 27.12% APY. 🤑
+
+Deposit below and start earning! 🔥
+
+https://t.co/VFDKlyQlSF",320,26,53,2021-03-11
+854,2021-03-12 19:55:28+00:00,1370463473151393799,iearnfinance,"Want to see what is happening under the hood at Yearn? 🕵️
+
+Check out our newly launched dashboard at https://t.co/yNBZE0aWe9. 👀
+
+Track Vaults, Iron Bank, and more! This dashboard gives the most accurate measurement of TVL for all of Yearn products. 🔥
+
+https://t.co/yNBZE0aWe9",256,14,51,2021-03-12
+857,2021-03-14 23:27:30+00:00,1371241608390320135,iearnfinance,"Be sure to read this week's Yearn newsletter 📰
+
+💠 Introducing Coordinape
+
+💠 Launch of Several New yVaults
+
+💠 New Zap for the yveCRV-ETH Pickle Farm
+
+💠 https://t.co/zCS2mKgn1p: A New Monitoring Dashboard
+
+And more inside! 🚀
+
+https://t.co/Hw4NEtZ8s2",149,12,32,2021-03-14
+858,2021-03-16 13:09:41+00:00,1371810906875817992,iearnfinance,"Check out this insightful article by @Gemini that covers Yearn and our yVaults. 🤓
+
+Our goal at Yearn is to make DeFi simple! ✔️
+
+https://t.co/4V87akLHvN",129,3,24,2021-03-16
+860,2021-03-17 21:36:12+00:00,1372300762605355014,iearnfinance,"@zapper_fi @CurveFinance 8/ In the past, one equation ruled all others:
+
+The yield farmer with ridiculous amounts of free time = the yield farmer with the most beautiful, bountiful crops. 🧑‍🌾
+
+Today, the equation changes for good
+
+Check it out at https://t.co/hHZTAKGK2d or @zapper_fi!",93,10,2,2021-03-17
+869,2021-03-19 16:28:23+00:00,1372948071915606022,iearnfinance,"Stay informed with the Yearn ecosystem by reading our weekly Partner Roundup 🤝
+
+💠 @MakerDAO greenlight poll for xSUSHI is live.
+
+💠 @SushiSwap planning to launch on @avalancheavax
+
+💠 5 new Pickle Jars went live
+
+https://t.co/3xxUj7QTTU",166,7,19,2021-03-19
+870,2021-03-20 18:17:44+00:00,1373337979402424326,iearnfinance,"Join the Yearn Lazy Ape Index with 1-click. 🔥
+
+The YLA is a diversified cash flow generating index of several v1 vault LP tokens. YLA/USDC pool on @SushiSwap is earning 40% in 🍣 + ~30% APY from the vaults. 
+
+Deposit with 1-click below.  👇
+
+https://t.co/X28pfxjhAq https://t.co/PymX6dwNkK",325,17,42,2021-03-20
+871,2021-03-21 13:56:02+00:00,1373634508323454977,iearnfinance,"In this week's State of the Vaults 🏦
+
+💠 Zap into yVaults with @zapper_fi
+
+💠 TVL for v2 vaults is exploding
+
+💠 YFI vault gets a new strategy utilizing @MakerDAO
+
+And more! 
+
+https://t.co/BbJAOjp7Vs",79,2,13,2021-03-21
+872,2021-03-23 03:20:44+00:00,1374199405306388481,iearnfinance,"Yearn Vault Top Performers 🏆
+Stablecoin Pool APYs:
+🥇 DUSD: 39.96% 
+🥈 USDP: 37.89%
+🥉 USDN: 35.63%
+
+BTC and ETH APYs:
+🥇 oBTC: 28.22%
+🥈 pBTC: 27.15%
+🥉 stETH: 25.52%
+
+All other asset APYs:
+🥇 YFI: 37.30%
+🥈 crvLINK: 21.15%
+
+Find them all here: 
+https://t.co/hHZTAKGK2d",127,8,15,2021-03-23
+875,2021-03-24 18:03:29+00:00,1374783946995732488,iearnfinance,"The new space supports vote delegation. You can set it up here to vote from a hot wallet while keeping your precious YFI safe.
+
+https://t.co/zV0loHxKdO",27,1,1,2021-03-24
+877,2021-03-26 15:17:21+00:00,1375466910385586186,iearnfinance,"Yearn Vault Top Performers 🏆
+Stablecoin Pool APYs:
+🥇 USDP: 50.49% 
+🥈 DUSD: 45.69%
+🥉 sUSD: 36.75%
+
+BTC and ETH APYs:
+🥇 oBTC: 35.61%
+🥈 stETH: 25.90%
+🥉 sETH: 24.92%
+
+All other asset APYs:
+🥇 YFI: 32.82%
+🥈 crvLINK: 29.17%
+
+Find them all here: 
+https://t.co/hHZTAKGK2d",78,7,10,2021-03-26
+880,2021-03-27 17:53:45+00:00,1375868658401042437,iearnfinance,"Check out this week's State of the Vaults 🏦
+
+💠 New Iron Bank yVault launched
+
+💠 Yearn TVL at All Time High
+
+💠 New $YFI strategy deployed
+
+And more inside! 
+
+https://t.co/1hu2tmutA5",136,5,35,2021-03-27
+881,2021-03-29 05:20:40+00:00,1376403916670308352,iearnfinance,"Read &amp; subscribe to this week's newsletter 📰
+
+💠 Yearn TVL All Time High &amp; Release of https://t.co/ts4Dkqc5SZ
+
+💠 Launch of the Iron Bank yVault
+
+💠 Governance Discussion Over EPS Airdrop
+
+💠 Second Epoch of Coordinape Commenced
+
+And more inside! 🚀
+
+https://t.co/a3vkQ4B7DC",87,3,18,2021-03-29
+882,2021-03-30 15:06:12+00:00,1376913656735219716,iearnfinance,"@CurveFinance 9/ Now, you might ask why would you lock your $CRV with Yearn instead of on your own? Simple. It is because you receive the admin fees from Yearn’s share of locked $CRV. Yearn now has over 11m veCRV locked in the “Backscratcher”.",21,4,0,2021-03-30
+895,2021-04-02 14:41:15+00:00,1377994544021704706,iearnfinance,"Yearn Vault Top Performers 🏆
+Stablecoin Pool APYs:
+🥇 USDN: 90.21% 
+🥈 IB: 64.51%
+🥉 USDP: 60.24%
+
+BTC and ETH APYs:
+🥇 PBTC: 32.12%
+🥈 oBTC: 30.49%
+🥉 StETH: 27.49%
+
+All other asset APYs:
+🥇 YFI: 26.60%
+🥈 crvLINK: 19.90%
+
+Find them all here: 
+https://t.co/hHZTAKGK2d",59,6,9,2021-04-02
+897,2021-04-03 18:29:52+00:00,1378414462668005385,iearnfinance,"Yearn TVL has seen an explosive growth in recent months, and we are thrilled to announce we have exceeded $2b in TVL across all of our products. 🚀
+
+You can view accurate TVL metrics at https://t.co/ts4Dkqc5SZ. 🧪 https://t.co/0yairNfmF9",313,9,53,2021-04-03
+898,2021-04-04 01:47:01+00:00,1378524478150426632,iearnfinance,"Stay up to date with yVaults with our weekly State of the Vaults 🏦
+
+💠 Introducing the Iron Bank yVault
+
+💠 From bank account to Yearn vaults with @Dharma_HQ
+
+💠 New yVault strategies
+
+and more inside! 
+
+https://t.co/XPc9bzcXri",84,5,19,2021-04-04
+899,2021-04-05 15:02:30+00:00,1379087055347720197,iearnfinance,"We are publishing a weekly yVault report to give more transparency into the performance of our vaults. ✔️
+
+This past week depositors earned 76% of the revenue generated from our vaults. 💰
+
+Our top performing vault is yvUSDN earning ~73% APY. 🔥
+
+https://t.co/DH1QgGMuMF https://t.co/dG2Q3c30NB",262,10,56,2021-04-05
+900,2021-04-08 02:32:42+00:00,1379985525042520067,iearnfinance,"YIP-60: Airdrops to Yearn Vaults voting is now live on our Snapshot. This YIP formalizes how airdrops to Yearn vaults are handled.  
+
+You can read the full description of this YIP using the link below.
+
+https://t.co/HdAjKMLfg5
+
+Voting concludes on April 12th.",100,14,11,2021-04-08
+901,2021-04-10 18:35:01+00:00,1380952474127859712,iearnfinance,"Check out this week's Yearn State of the Vaults 🏦
+
+💠 Yearn TVL exceeds $2.5b
+
+💠 v2 yVault tokens on @CreamdotFinance
+
+💠 New weekly yVault report
+
+And more inside!
+
+https://t.co/dgb37jCbab",88,4,13,2021-04-10
+902,2021-04-12 14:57:56+00:00,1381622618621677569,iearnfinance,"In this week's, Yearn newsletter 📰
+
+💠 Yearn TVL Has Exceeded $2.5b
+
+💠 Launch of Our Weekly yVault Report
+
+💠 YIP-60: Airdrops To Yearn Vaults Voting is Live
+
+💠 Yearn Strategists Find the Opportunities For You
+
+🚀
+
+https://t.co/IJwxlYX9Px",68,8,14,2021-04-12
+903,2021-04-13 02:16:49+00:00,1381793464216653830,iearnfinance,"Check out our weekly yVault report. 🔎
+
+Depositors are earning over 74% of the revenue earned by our vaults.
+
+Our yvUSDP vault is our highest yielding vault earning an estimated 43% APY. 🔥
+
+👇 https://t.co/9PuKYPMBQo",122,6,22,2021-04-13
+904,2021-04-14 15:04:06+00:00,1382348946215993347,iearnfinance,We are pleased to announce that Yearn Treasury will be conducting a Gnosis auction to purchase additional $YFI as part of our Buy Back and Build (BABY) YIP. We have earmarked 300k USDC for this auction to purchase $YFI under $45k. Below is a link to the auction. 🤝 https://t.co/UqVJMUMT1r,150,6,24,2021-04-14
+905,2021-04-15 12:22:25+00:00,1382670645553729536,iearnfinance,"A new discussion is on our forum regarding a potential YIP establishing Governance 2.0. 
+
+This YIP aims to formalize Yearn's operational governance and creates new autonomous contributor teams (""yTeams"")
+
+Join the discussion using the link below.  
+
+https://t.co/GPPqK52TyA",148,8,18,2021-04-15
+906,2021-04-16 21:05:04+00:00,1383164561507893254,iearnfinance,"Yearn has placed another auction to buy back YFI for up to 404,790 DAI per YFI.
+
+https://t.co/Jmse44PywC https://t.co/gjBFmuN6wU",204,7,28,2021-04-16
+907,2021-04-17 14:40:23+00:00,1383430143977222158,iearnfinance,"Today we are migrating our sBTC yVault from v1 to v2 to earn you higher yield! 🚀
+
+v2 will earn depositors more money 💸 and is more advanced! 🧠
+
+Withdrawal fees related to the migration are waived, but only for a LIMITED time, so migrate now below! 👍
+
+https://t.co/ipwocoSHGR",137,8,21,2021-04-17
+908,2021-04-18 15:05:20+00:00,1383798810715955215,iearnfinance,"Yearn has purchased an additional 27.97 YFI for $1.164 million at an average price of $41,621 per YFI.
+
+These buybacks are done as per YIP-56. More details can be found on the forum:
+https://t.co/JOdazAzypx https://t.co/3h5B0QGo2M",756,27,100,2021-04-18
+909,2021-04-19 18:36:00+00:00,1384214211568439304,iearnfinance,"In this week's Yearn newsletter 📰
+
+💠 Yearn Has Purchased An Additional 29.97 YFI For $1.1m
+
+💠 Total Value Locked Has Surpass $3b
+
+💠 Discussion On Our Forum Regarding Governance 2.0
+
+💠 Badger WBTC Vault Powered By Yearn
+
+And more! 🚀
+
+https://t.co/Q92pYcxYQy",77,8,10,2021-04-19
+910,2021-04-20 12:01:22+00:00,1384477286213242882,iearnfinance,"YIP-61: Governance 2.0 voting is live
+
+https://t.co/Z55VjBtBeT
+
+Read the full proposal here
+https://t.co/BEZZCzgRnx https://t.co/MuRftqSZ2y",99,11,19,2021-04-20
+911,2021-04-22 19:27:54+00:00,1385314437440102404,iearnfinance,"We are migrating our crvSAAVE yVault from v1 to v2 to earn you higher yield! 🚀
+
+v2 will earn depositors more money 💸 and is more advanced! 🧠
+
+Withdrawal fees related to the migration are waived, but only for a LIMITED time, so migrate now! 👍
+
+https://t.co/S07lcvma1H",93,8,12,2021-04-22
+912,2021-04-26 22:42:32+00:00,1386812969150042113,iearnfinance,"@NexusMutual Let Yearn do it for you, so you can focus on your core business. As of today, Yearn yVaults are earning up to 58% APY. 
+
+https://t.co/DH1QgGMuMF",40,2,5,2021-04-26
+913,2021-04-27 02:08:19+00:00,1386864759069454336,iearnfinance,"We are pleased to share our quarterly report for Q1 2021. 
+
+This report has not been audited by a professional accounting firm. The report is for informational purposes only and should not be used for financial, investment, or advice of any kind.
+
+🚀
+
+ https://t.co/wlHfINbSGJ",469,28,85,2021-04-27
+915,2021-04-30 14:08:07+00:00,1388133065931825161,iearnfinance,"@SushiSwap 6/ Deposit to yvBOOST today and start earning yield! 👇 
+
+https://t.co/aofCKE2R55",25,7,1,2021-04-30
+921,2021-05-01 21:33:23+00:00,1388607509460656135,iearnfinance,"Our new crvFRAX vault is live on our website! 🚀
+
+This is a v2 vault with a 2% management fee and 20% performance fee, there is no withdrawal fee. You can zap into this vault directly from our UI thanks to our integration with @zapper_fi
+
+https://t.co/IdlhBkVu9d",116,10,33,2021-05-01
+922,2021-05-03 16:28:34+00:00,1389255574982909955,iearnfinance,"Our crvLUSD yVault is live earning 46% APY! 🚀
+
+The vault earns $CRV and for a limited time $LQTY rewards. v2 vaults charge a 2% management fee and 20% performance fee, no withdrawal fee. Deposit now to earn extra $LQTY rewards for the next 4 weeks! 🔥
+
+https://t.co/DH1QgGMuMF",150,17,24,2021-05-03
+923,2021-05-05 16:42:54+00:00,1389983956435705856,iearnfinance,"Stay up to date with Yearn with our weekly newsletter 📰
+
+💠 TVL Has Exceeded $3.3b
+
+💠 Introducing yvBOOST
+
+💠 Deposit Caps Lifted for Yearn &amp; @BadgerDAO WBTC Vault
+
+💠 Several New yVaults Launched
+
+And more inside! 🚀
+
+https://t.co/LISInjWxDH",89,5,10,2021-05-05
+924,2021-05-06 12:22:12+00:00,1390280738474430465,iearnfinance,"What can you do with YFI?
+
+A comprehensive guide is now available on our forum.
+
+https://t.co/PVvBDNRG8Z",217,8,39,2021-05-06
+925,2021-05-08 06:44:12+00:00,1390920451870822404,iearnfinance,"It took Yearn 226 days to go from $1B to $2B TVL.
+
+The next doubling only took 32 days.
+
+Thanks to everyone in our community for your trust and continuous support. You are yAmazing! https://t.co/mSeZgm1xMo",880,22,103,2021-05-08
+927,2021-05-09 14:11:55+00:00,1391395511337472006,iearnfinance,"Yearn has paid over $5 million in rewards to our yBrain Strategists, who work day and night to bring you the freshest and juiciest yields. https://t.co/UMVw4NXMVY",461,21,43,2021-05-09
+928,2021-05-12 04:32:50+00:00,1392336944181432320,iearnfinance,"In this week's Yearn newsletter 📰
+
+💠 Yearn TVL Has Surpassed $4b
+
+💠 Introducing Woofy: A Blue Dog Companion to YFI
+
+💠 How to Utilize Your YFI Token
+
+💠 Strategists Have Been Paid $5m in 2021 YTD
+
+https://t.co/bUiDfvtknh",218,12,45,2021-05-12
+930,2021-05-14 17:41:08+00:00,1393260100538626054,iearnfinance,https://t.co/YLlA5DUYlW,31,3,1,2021-05-14
+932,2021-05-15 05:01:29+00:00,1393431318436909057,iearnfinance,"A reminder that we are migrating several vaults from to v1 to v2. 👍
+
+Withdrawal fees related to migration are waived, but only for a LIMITED time so migrate ASAP! ✔️",137,17,12,2021-05-15
+934,2021-05-16 22:15:25+00:00,1394053903612792834,iearnfinance,"Yearn has purchased an additional 8.15 YFI for $408K at an average price of $50,121 per YFI. https://t.co/lfZJJSlQsx",852,34,79,2021-05-16
+935,2021-05-17 17:57:40+00:00,1394351428257341450,iearnfinance,"Yearn Vaults v0.4.0 ""Kusachka"" code has been released.
+
+https://t.co/m65gg8Qo67 https://t.co/PKfECgcJyw",224,13,33,2021-05-17
+936,2021-05-18 18:14:03+00:00,1394717937018175488,iearnfinance,"Holders of yvCurve-IronBank, yvCurve-sETH, and yvCurve-stETH can now borrow up to 60% of their value on @CreamdotFinance. 
+https://t.co/A0a6U89sQN
+
+You can deposit to these v2 Yearn vaults here.
+https://t.co/DH1QgH45Ed
+
+C.R.E.A.M governance vote: 
+https://t.co/E6QeGyMdKa",124,6,26,2021-05-18
+937,2021-05-19 15:43:45+00:00,1395042501963272201,iearnfinance,"Yearn has purchased an additional 21.35 YFI for $1.02 million at an average price of $47,976 per YFI. https://t.co/cHQcKfzcAX",777,49,82,2021-05-19
+939,2021-05-20 16:21:01+00:00,1395414265834745866,iearnfinance,"Why?
+
+1/ Weekly claims will be handled automatically, so $SNX stakers don't have to do them by hand
+
+2/ Claims are done in a batch, which lowers the gas costs dramatically (recent claim txs have cost stakers $200+)",100,2,3,2021-05-20
+948,2021-05-24 18:15:02+00:00,1396892511025565696,iearnfinance,"YIP-62: Change Two Multisig Signers is now live on our Snapshot. 
+
+Voting concludes May 29th and the results will be binding.
+
+You can read the full description for this YIP and vote using the link below. 
+
+https://t.co/HTkVUEA3uD",59,7,8,2021-05-24
+949,2021-05-26 18:57:32+00:00,1397627983272103936,iearnfinance,"We will be having our next AMA this Friday at 5pm UTC on our discord server.
+
+Join us on Friday!
+
+https://t.co/4vuxkDAO7b",75,6,11,2021-05-26
+950,2021-05-27 16:17:29+00:00,1397950091613249545,iearnfinance,"Read our weekly newsletter to stay up to date with Yearn 📰
+
+💠 Yearn Has Purchased An Additional 21.35 YFI For $1.02M
+
+💠 YIP-62: Change Two Multisig Signers Voting Is Live
+
+💠 Synthetix Vault Released
+
+💠 Collateral Factor Of 3 yVault Tokens Increased
+
+https://t.co/bt93Eu6pZT",53,7,12,2021-05-27
+951,2021-05-29 16:53:26+00:00,1398683914642890753,iearnfinance,"Yearn has purchased and locked 1.42 million CRV. This will increase both the boost of all Curve vaults and the yveCRV/yvBOOST rewards, earning depositors a higher APY.
+
+https://t.co/dfxIAn4UJU https://t.co/nEMdsTYH1m",575,24,70,2021-05-29
+952,2021-06-01 17:51:41+00:00,1399785739341099008,iearnfinance,"Check out this week's Yearn newsletter 🏦
+
+💠 Yearn Has Purchased And Locked 1.42M CRV
+
+💠 Cumulative Protocol Revenue Reaches $22M
+
+💠 Yearn V2 Vaults Have Produced Over $50M In Revenue For Users
+
+💠 Forum Proposal: Own The Land On Which We Operate
+
+https://t.co/dA6ZJ9HdFs",70,6,9,2021-06-01
+953,2021-06-04 23:08:29+00:00,1400952628390109188,iearnfinance,https://t.co/EJCIipPsrh,764,38,48,2021-06-04
+955,2021-06-05 08:46:26+00:00,1401098072172728325,iearnfinance,https://t.co/uHvvtlBDSG,809,69,59,2021-06-05
+957,2021-06-07 20:52:07+00:00,1402005473994416136,iearnfinance,"@chainlink @CreamdotFinance @AaveAave @VesperFi Welcome, Marines. Let us do the work so you don't have to.
+
+The gates are open: https://t.co/iSEw7RPlqz
+
+What are you waiting for? https://t.co/HSRdiB9pFp",475,31,53,2021-06-07
+969,2021-06-08 06:44:57+00:00,1402154662686560256,iearnfinance,https://t.co/IPdimTLHKk,748,13,58,2021-06-08
+971,2021-06-10 01:32:53+00:00,1402800907541258241,iearnfinance,"Read this week's Yearn newsletter 🏦 
+
+💠 Yearn Partners Have Earned $564K
+
+💠 SEBA Bank A Publishes Report On Yearn
+
+💠 C.R.E.A.M Finance Lists Two yVault Tokens
+
+💠 MakerDAO’s Lower Stability Fees Benefit Yearn Strategies
+
+And more inside! 🚀
+
+https://t.co/0osFs1Ipfx",74,20,13,2021-06-10
+972,2021-06-13 02:11:33+00:00,1403897801893892096,iearnfinance,"And that means Yearn could become as big as the Internet of Value itself. Like blockchains, it could come to underlie all financial flows -- all value flows.",134,8,14,2021-06-13
+977,2021-06-15 19:03:01+00:00,1404877121797996552,iearnfinance,"Read this week's Yearn newsletter 📰
+
+💠 Yearn TVL Has Surpassed $5b
+
+💠 New LINK Vault Released
+
+💠 Advanced Curve Gauge Voting Strategy
+
+💠 May Protocol Revenue Reaches $10m
+
+And more inside! 🚀
+
+https://t.co/ptbMUHMlSZ",90,6,12,2021-06-15
+978,2021-06-16 19:34:51+00:00,1405247518678654977,iearnfinance,"We are excited to announce the launch of our new and improved ETH yVault!
+
+This vault improves on our existing v2 yvETH vault by adding additional features. It incorporates the latest version of Vyper, more robust security, MEV protection, and is more sophisticated overall.",549,41,239,2021-06-16
+982,2021-06-21 11:35:36+00:00,1406938849440305154,iearnfinance,"Yearn has purchased and locked 1.414 million CRV, bringing our total veCRV to over 20 million. Enjoy the increased boost of all Curve vaults and 1.57x the baseline yveCRV and yvBOOST rewards.
+
+https://t.co/cHpysamShl https://t.co/zma3DhAP6r",447,13,53,2021-06-21
+983,2021-06-23 13:56:32+00:00,1407699094651510786,iearnfinance,"Find out the latest news with Yearn in our weekly newsletter 📰
+
+💠 Yearn Has Purchased And Locked 1.41m CRV
+
+💠 ETH yVault Gets An Upgrade
+
+💠 Introducing yTeam Signers
+
+💠 Cumulative Protocol Revenue Exceeds $27m
+
+🚀
+
+https://t.co/9JIhE5Mmsx",55,2,11,2021-06-23
+984,2021-06-24 14:26:21+00:00,1408068987221536775,iearnfinance,"We are proud to announce the launch of our newest yVault: crvTricrypto. 🔥
+
+This vault is based on Curve's new tricrypto pool consisting of BTC, ETH, and USDT. Our standard fees apply, 2% management fee and 20% performance fee on profits generated. There are no withdrawal fees.",269,18,31,2021-06-24
+986,2021-06-26 19:44:08+00:00,1408873734224728064,iearnfinance,"We've identified a double fee issue that affected some users in v1 vaults, namely WETH, USDC, DAI, TUSD, USDT, crvmUSD.
+
+All users have been reimbursed.
+
+https://t.co/Gmw9Em8apg
+
+https://t.co/3WqvFJCLEk",243,13,27,2021-06-26
+987,2021-07-02 17:00:34+00:00,1411006899298861061,iearnfinance,We've given @gigaWoofy a makeover and created a limited series of 6 WOOFY NFTs that launches today. https://t.co/26sU8tLwdD,270,21,35,2021-07-02
+992,2021-07-05 14:47:19+00:00,1412060527593988096,iearnfinance,"Check out our weekly newsletter 🏦
+
+💠 New crvTricrypto yVault Released
+
+💠 WOOFY Receives A Makeover
+
+💠 Yearn’s Revenue Per Employee Vs. TradFi 
+
+💠 PowerPool’s YLA Gets An Upgrade
+
+And more inside! 🚀
+
+https://t.co/zNPWhsTESd",48,8,13,2021-07-05
+993,2021-07-12 17:05:40+00:00,1414632059348426755,iearnfinance,"This week's Yearn newsletter 📰
+
+💠 Cumulative Protocol Revenue Reaches $30m
+
+💠 Synthetix Adds The SNX yVault To Their Interface
+
+💠 SEBA Bank Mentions Yearn In A Report
+
+💠Claim Your Rewards From YFI Staking
+
+and more inside! 🚀
+
+https://t.co/KG8p2JJtKA",72,10,12,2021-07-12
+994,2021-07-17 08:03:47+00:00,1416307631212228610,iearnfinance,👀 https://t.co/6Kxe48BLeo,501,20,44,2021-07-17
+995,2021-07-19 10:33:02+00:00,1417069966877249541,iearnfinance,https://t.co/k2eVbN3MsD,276,9,26,2021-07-19
+996,2021-07-20 10:57:48+00:00,1417438588309020699,iearnfinance,https://t.co/BNiT8qdqKp,224,15,15,2021-07-20
+998,2021-07-28 09:13:03+00:00,1420311329974464515,iearnfinance,"Migrate or Die
+
+Yearn v1 vaults have served everyone as a reliable source of yield for almost a year, but now the time has come to say goodbye.
+
+All old vaults have been harvested one last time and divested from the strategies. 
+
+You can migrate to v2 at any time without fees. https://t.co/5CFHLl9ANE",211,13,34,2021-07-28
+1000,2021-07-29 15:47:26+00:00,1420772966200135685,iearnfinance,"Today we invite you to celebrate the first year of Yearn with The Blue Pill, a spiritual guide for the past, present and future of Yearn. A beautifully-typeset book is available to our 13,500 most loyal supporters.
+
+https://t.co/gq0BhSnWNd https://t.co/kYgUVhbMcm",608,35,123,2021-07-29
+1007,2021-08-02 22:09:57+00:00,1422318780944838665,iearnfinance,"Last week we announced The Blue Pill book and gave early Yearn supporters a first look via a limited series of NFTs. 
+
+Today we invite everyone to experience The Blue Pill:
+
+https://t.co/ojo5QWrqhw https://t.co/G0LvWzr5z9",215,10,55,2021-08-02
+1008,2021-08-03 15:18:10+00:00,1422577540103905280,iearnfinance,"Take a peek at the 42nd edition of the Yearn Newsletter 📰
+
+💠 The Yearn Blue Pill
+
+💠 Woofy Week 11 Snapshot
+
+💠 Migrate Or Die
+
+💠 New Curve Gauge Voting Strategy
+
+and more! 👇
+
+https://t.co/SvFF6qTyBq",40,4,6,2021-08-03
+1009,2021-08-06 14:04:16+00:00,1423646106035105794,iearnfinance,"YIP-63: Fund Builder-First Legal Activism DAO
+
+The proposal has entered a voting phase.
+
+🗳 Cast your vote on Snapshot
+https://t.co/ill7uaRBwz
+
+📓 Read more in the discussion thread
+https://t.co/vEIn4PDDc3",120,4,32,2021-08-06
+1010,2021-08-11 15:03:07+00:00,1425472853940518921,iearnfinance,"In this week's Yearn newsletter 📰
+
+💠 YIP-63: Fund Builder-First Legal Activism DAO Passed
+
+💠 Alchemix Migrates to Yearn v2
+
+💠 YFI Added To Compound Finance
+
+💠 Swap Between Yearn Vaults In One Transaction
+
+and more inside! 👇
+
+https://t.co/OLVBNfLgGr",45,4,10,2021-08-11
+1011,2021-08-12 15:21:12+00:00,1425839793183723528,iearnfinance,"📢 Yearn User Survey
+
+Please take a few minutes to complete this survey and help shape future Yearn products and features:
+
+https://t.co/VNrUxIKaEE",76,11,27,2021-08-12
+1012,2021-08-14 13:25:58+00:00,1426535572647120902,iearnfinance,"Yearn has transferred 1,000,000 DAI to a multisig controlled by Yearn, @CurveFinance, @LidoFinance and @LeXpunK_DAO.
+
+https://t.co/1OT5Z2YRSB
+
+Learn more here
+https://t.co/vEIn4PDDc3",115,5,20,2021-08-14
+1013,2021-08-18 16:15:59+00:00,1428027909655056387,iearnfinance,Tune in to Trach talking DAOs: https://t.co/ltOjKQtTsm,44,11,2,2021-08-18
+1014,2021-08-23 15:27:50+00:00,1429827728438697991,iearnfinance,"Four new yVaults are now live on our UI. Deposit today and earn yield on your $AAVE, $COMP, $TUSD, and $SUSHI.
+
+DeFi made simple. 🚀
+
+https://t.co/DH1QgGMuMF https://t.co/S07EK88QNF",242,25,39,2021-08-23
+1016,2021-08-25 21:27:59+00:00,1430643141619576832,iearnfinance,"Re-Introducing https://t.co/cHFkuqvaxY, now with simple migration to the best yield available. Migrate from AAVE and Compound to Yearn Finance in a few clicks, with no fees.
+
+Sorry Stani
+
+https://t.co/6sEELT6x9v https://t.co/7MbeWC9U6b",224,17,43,2021-08-25
+1017,2021-08-30 17:02:00+00:00,1432388142921703432,iearnfinance,"Grants to builders like @atlantis0x are core to Yearn's strategy to constantly evolve and keep making DeFi simple. 
+
+Building something next level and want to connect with us? Visit:
+https://t.co/Su024r6xWk",28,3,4,2021-08-30
+1023,2021-09-01 04:00:21+00:00,1432916208429400067,iearnfinance,"Ahem.
+
+A month has passed and some of you still have holdings sitting idle in v1 vaults.
+
+Come now, migrate to v2. Don't make us send the bunny after you. https://t.co/L79fVEaRuF",145,14,15,2021-09-01
+1024,2021-09-02 17:28:30+00:00,1433481975411642370,iearnfinance,"In this week's Yearn newsletter 📰
+
+💠 YIP-63 Approved
+
+💠 Product User Survey
+
+💠 Introducing Four New yVaults
+
+💠 Yearn Integrated In DeFi Saver
+
+and more inside! 👇
+
+https://t.co/lbGBHAFS6S",39,4,11,2021-09-02
+1025,2021-09-07 12:57:47+00:00,1435225785565163524,iearnfinance,"Check out this week's Yearn newsletter 📰
+
+💠 YFI And ALPHA Liquidity Providers Eligible For A Special NFT
+
+💠 Reminder To Migrate To V2
+
+💠 How To Swap Into Yearn Vaults
+
+💠 Cumulative Protocol Revenue Reaches $39M
+
+and more inside! 
+
+https://t.co/kLDg9fR2sL",40,3,9,2021-09-07
+1026,2021-09-09 20:24:43+00:00,1436063036469497856,iearnfinance,https://t.co/lPOsy9i2GQ,68,4,3,2021-09-09
+1040,2021-09-10 12:15:00+00:00,1436302183545196546,iearnfinance,"Yearn is supporting @ETHGlobal and #ETHOnline, offering $4,000 in pool prizes for hackers and, most importantly, an opportunity to collaborate further and build new stuff with us.
+
+Hurry up and apply! 
+Applications close September 13th at https://t.co/1GzDkPH2Dq",42,0,12,2021-09-10
+1042,2021-09-14 15:47:36+00:00,1437805237260197889,iearnfinance,"This week's Yearn State of the Vaults 🏦
+
+💠 Behind the Scenes at Yearn
+
+💠 Primer on the yBOOST Vault
+
+💠 Yearn Quarterly Financial Report
+
+💠 Cumulative Protocol Revenue Reaches $41M
+
+and more inside! 
+
+https://t.co/K3zuTOwRiX",42,7,7,2021-09-14
+1043,2021-09-16 21:54:45+00:00,1438622408903036963,iearnfinance,Check out https://t.co/hEVzLGbOsI and let us know your feedback on discord. 🔵,34,1,3,2021-09-16
+1047,2021-09-18 14:40:24+00:00,1439237879369187339,iearnfinance,"Read this important disclaimer before interacting with Yearn
+
+https://t.co/dfumOLMxvJ https://t.co/hGAFgAo1uO",783,44,104,2021-09-18
+1048,2021-09-22 19:21:41+00:00,1440758214794960905,iearnfinance,"Introducing the LABS section on https://t.co/hEVzLGbOsI
+
+This is where the (black?) magic happens
+
+Let’s take a look at these new vaults👇 https://t.co/1IPU6BL5Dx",262,4,34,2021-09-22
+1052,2021-09-23 23:17:23+00:00,1441179921523507200,iearnfinance,"Yearn Fundamentals Dashboard on Token Terminal
+
+Our friends at @tokenterminal now track fundamental metrics of YFI such as supply-side and protocol revenues, P/S and P/E ratios, annualized capital deployed.
+
+https://t.co/f8Uy4AoF7d https://t.co/uN0CNQEB4R",124,10,27,2021-09-23
+1053,2021-09-27 16:45:34+00:00,1442530866580709376,iearnfinance,"Two more days, hunters: https://t.co/P1IW6PU1v0",30,7,4,2021-09-27
+1054,2021-09-29 18:47:43+00:00,1443286381669670916,iearnfinance,👀 https://t.co/VFKk0ltdIB,70,5,9,2021-09-29
+1055,2021-09-30 02:59:45+00:00,1443410207648985088,iearnfinance,"Stay up to date with Yearn in this week's Newsletter 📰
+
+💠 Introducing V3 of Yearn's UI
+
+💠 Check Out the New Labs Section
+
+💠 Yearn Has Purchased $320k YFI in September
+
+💠 Cumulative Protocol Revenue Reaches $43m
+
+and more inside! 
+
+https://t.co/endUjs39EJ",67,12,14,2021-09-30
+1056,2021-10-04 21:47:10+00:00,1445143482830446600,iearnfinance,"This is why crypto will change the world. 
+
+It kills shadows.
+
+Yearn’s super coders are 🌞.
+
+Everything’s on-chain with hooman-readable labels. 
+
+Transparency verified ✅
+
+Let’s take a look at just how transparent Yearn is 👇 https://t.co/pVHfV6RhEi",404,7,76,2021-10-04
+1064,2021-10-05 06:55:00+00:00,1445281348676161536,iearnfinance,"New on MEW: Integrated Yearn vaults. 
+
+The team @myetherwallet put together this handy guide to entering vaults right from the MEW wallet app: https://t.co/N8kGgK332l",53,3,8,2021-10-05
+1065,2021-10-06 17:19:15+00:00,1445800834353139723,iearnfinance,"What if the most radical component of Yearn isn’t the yield machine, after all? 
+
+The machine is a technical apparatus constructed of code.
+
+It cannot exist without its network of hearts and minds.",91,3,11,2021-10-06
+1074,2021-10-07 22:37:17+00:00,1446243257336229912,iearnfinance,"The Realm of Multichain beckons.
+
+And Yearn has heeded the call. 📯
+
+Today, we go multichain with the launch of Iron Bank Fantom and the first Fantom vaults on https://t.co/hEVzLGbOsI🧵 https://t.co/IaAtDqdkYi",1255,55,307,2021-10-07
+1081,2021-10-12 02:05:26+00:00,1447745192430391303,iearnfinance,"Check out this week's Yearn newsletter 📰
+
+💠 Yearn Goes Multichain with Fantom
+
+💠 Yearn Reaches $5B TVL (Again)
+
+💠 How You Can Contribute to Yearn
+
+💠 Call for Ideas: YFI Tokenomics Revamp
+
+https://t.co/8yvKTPixMu",216,11,50,2021-10-12
+1083,2021-10-14 22:09:36+00:00,1448773005551804429,iearnfinance,"Nobody expects Yearn on Polygon
+
+Tesseract is the first project hatched from YFI Combinator, our newest early-stage incubator. It leverages the expertise amassed at Yearn to bring the best yields to a wider audience.
+
+https://t.co/pULbnE1pnu
+
+https://t.co/uyWbiyLAGl",567,20,108,2021-10-14
+1086,2021-10-16 00:46:02+00:00,1449174764241801220,iearnfinance,Yearn alumni is running for Congress 👀 https://t.co/b8qraj8jtr,286,9,40,2021-10-16
+1087,2021-10-19 20:36:18+00:00,1450561465463672832,iearnfinance,"yAcademy's first block has just ended! 
+
+If you're an aspiring auditor or solidity developer and weren't able to get in this block, you can apply to join our next group of Fellows here:
+
+https://t.co/cFe3LTZ7mJ https://t.co/x6yFAqRd48",33,9,3,2021-10-19
+1088,2021-10-20 14:35:09+00:00,1450832968612675598,iearnfinance,"Are you in Lisbon this week?
+Join us for coffee on Friday:
+
+https://t.co/EspYbIiaGM",63,15,9,2021-10-20
+1089,2021-10-27 16:27:09+00:00,1453397867675201537,iearnfinance,"Yearn products are not affected by Cream Finance attack.
+
+Our engineers are assisting Cream with investigation of the exploit.",417,10,44,2021-10-27
+1092,2021-10-28 06:28:26+00:00,1453609583272996865,iearnfinance,"A few days ago Yearn devs saved @robo_vault from losing $50 million
+
+https://t.co/AO2ts8exW9 https://t.co/9kQLtBE97Y",421,22,61,2021-10-28
+1096,2021-10-29 14:28:26+00:00,1454092767580327938,iearnfinance,"Yearn devs have been in war rooms with Aave and Cream from the start working together. We are assisting with identifying and fixing several issues. If you think we are at war, throw away your newspapers. https://t.co/dqtdVL5Xfa",491,22,47,2021-10-29
+1097,2021-10-30 10:20:32+00:00,1454392769238208512,iearnfinance,"Yearn is a network of real people. Passionate, intense, dedicated, sincere, and autonomous contributors who care deeply about our industry, protocols, teams, users, partners, and even competitors. We debate in the open and care for the space as a whole. https://t.co/1YdFYAUvUz",849,50,97,2021-10-30
+1098,2021-11-01 18:45:57+00:00,1455244736730648576,iearnfinance,"Yearning for Yearn by @MessariCrypto
+
+https://t.co/Bze0uCmI5b https://t.co/W5Tqy8phjH",159,17,24,2021-11-01
+1099,2021-11-05 23:07:55+00:00,1456760214481358848,iearnfinance,"Apologies to @MoTomiWasTaken for getting your handle wrong, and thanks for creating the 6B TVL NFT 🙏",13,4,2,2021-11-05
+1104,2021-11-10 21:02:32+00:00,1458540603084476417,iearnfinance,"Yearn's tokenomics working group is hosting an open community discussion on the future of YFI tokenomics.
+
+Step behind the blue curtain with us Friday at 5pm UTC on this Discord stage: https://t.co/ROd7Ux1T3a",78,7,15,2021-11-10
+1105,2021-11-12 16:05:30+00:00,1459190628403671041,iearnfinance,In just under an hour (5pm UTC) join us on discord for a community discussion of YFI tokenomics: https://t.co/bin6WiMoUt,40,3,6,2021-11-12
+1107,2021-11-13 23:04:07+00:00,1459658364837896192,iearnfinance,"Yearn Millennium Prize
+
+Write a strategy which consistently and safely earns 40% APY on $300 million or 12% on $1 billion for a month and you'll earn $1 million in monthly strategist fees.
+
+If you pull this off, Yearn would also match and reward you with a prize of $1 million. https://t.co/UxcQbLBLtD",1218,115,208,2021-11-13
+1109,2021-11-14 17:00:02+00:00,1459929124076670976,iearnfinance,"Fixed Forex Zaps
+
+We have collaborated with @zapper_fi, so Yearn users can zap into @thekeep3r Fixed Forex vaults with almost any token in your wallet. 
+
+Earn compounding yield natively on AUD, CHF, EUR, GBP, JPY, KRW (and ZAR soon) at https://t.co/IeVkhkTKxN.
+
+🔵 ⚡️ 🤖 https://t.co/zSDgPvHcDx",331,25,67,2021-11-14
+1110,2021-11-16 01:50:29+00:00,1460425008191311877,iearnfinance,"How to protect @gnosisSafe transactions from third-party executors, MEV searchers and even from uncle blocks?
+
+@Skeletor_Space unveils Stealth Safe Guard in the new Yearn Engineering blog.
+
+https://t.co/WJZMPMZxFZ https://t.co/YXS6gtBCMq",110,1,20,2021-11-16
+1111,2021-11-17 17:16:51+00:00,1461020521311907840,iearnfinance,"Check out the latest Yearn newsletter 📰
+
+💠 Yearn Tokenomics Revamp
+
+💠 Yearn Millennium Prize
+
+💠 Yearn Total Value Locked Reaches $6B
+
+💠 YFI Combinator’s First Project: Tesseract
+
+and much more inside! 
+
+https://t.co/VltF1lAjgs",41,3,11,2021-11-17
+1113,2021-11-21 08:00:01+00:00,1462329942478229508,iearnfinance,"YIP-64: Adjust fees on non-stablecoin yVaults
+
+The proposal has entered a voting phase.
+
+🗳 Cast your vote on Snapshot
+https://t.co/G439EJZHuf
+
+📓 Learn more in the discussion thread
+https://t.co/bXxFzekozl",53,14,10,2021-11-21
+1114,2021-11-24 20:38:22+00:00,1463607948916187137,iearnfinance,"Yearn Docs
+
+Several months ago Yearn contributors set out to rewrite our docs to make them friendly and approachable.
+
+The completely refreshed docs are here to guide users, devs, partners, and to feed your curiosity with many previously unseen entries. 
+
+https://t.co/VLwvftBKTe",108,4,20,2021-11-24
+1116,2021-11-26 17:13:57+00:00,1464281284272918532,iearnfinance,"🚫 YIP-64: Adjust fees on non-stablecoin yVaults was rejected in the voting with 64.84% against.
+
+https://t.co/G439EJI6CH",31,8,3,2021-11-26
+1117,2021-11-30 17:32:33+00:00,1465735514410012673,iearnfinance,"Join us this Thursday at 2pm UTC for a discussion of Yearn strategies, generating yield at scale, and more with @saltyfacu @0xWeaver and guests https://t.co/CuTy4SAl8y",154,22,33,2021-11-30
+1118,2021-12-02 13:50:32+00:00,1466404419147161615,iearnfinance,starting in 10 minutes: https://t.co/lOoRSc17dm,26,10,6,2021-12-02
+1119,2021-12-09 14:40:17+00:00,1468953652584976384,iearnfinance,👀 https://t.co/nhwF1GtMh8,157,12,13,2021-12-09
+1120,2021-12-10 03:32:25+00:00,1469147968112496640,iearnfinance,"🗳 A snapshot poll is live to gauge support for community proposals on YFI tokenomics.
+
+Vote here: https://t.co/EVmEC3gzKX
+
+Thank you to all in the community who have contributed. An update from the working group, haiku included, can be found here: https://t.co/j93OjD8BIj",72,13,21,2021-12-10
+1121,2021-12-11 17:28:24+00:00,1469720735761551361,iearnfinance,"Read the latest Yearn newsletter 📰
+
+💠 New Yearn UI
+
+💠 YFI Tokenomics Update Proposal
+
+💠 Updated Yearn Docs
+
+💠YIP-64 Fails To Meet Quorum
+
+and more inside!
+
+https://t.co/XC9hrIEUkA",79,4,15,2021-12-11
+1122,2021-12-13 00:26:15+00:00,1470188281887440899,iearnfinance,"🗳 YFI tokenomics poll has ended with xYFI as the leading option
+
+https://t.co/PNwUFwRmVc
+
+h/t @Fin4Dao for all the facilitation work https://t.co/Q41QfPO2U7",91,15,16,2021-12-13
+1123,2021-12-15 21:16:49+00:00,1471227770772594688,iearnfinance,https://t.co/FWsk0L3v2L,659,60,51,2021-12-15
+1124,2021-12-16 15:47:30+00:00,1471507285016866822,iearnfinance,"Now that the Treasury has more than $45 million saved up and with earnings stronger than ever, expect much more aggressive buybacks. What will you do anon?
+
+2/",155,16,15,2021-12-16
+1125,2021-12-17 20:05:24+00:00,1471934573223321604,iearnfinance,https://t.co/WqoK6HA43t,409,34,37,2021-12-17
+1126,2021-12-18 18:35:16+00:00,1472274281694482432,iearnfinance,"Proposal: Evolve YFI Tokenomics
+
+https://t.co/OSP6bVsn8s",319,12,50,2021-12-18
+1127,2021-12-19 16:32:17+00:00,1472605715864952832,iearnfinance,https://t.co/7l8KThhkgo,328,20,30,2021-12-19
+1128,2021-12-20 03:53:59+00:00,1472777271706632194,iearnfinance,"YFI — Reborn As A Black Hole
+
+https://t.co/mUZbpzmQbw",583,29,121,2021-12-20
+1129,2021-12-22 16:30:41+00:00,1473692478213603341,iearnfinance,"Get in on @ProjectGalaxyHQ's Holiday Treasure Hunt and grab this Yearn Holiday Card NFT, just for being a Yearn Newsletter subscriber. Info 👇 https://t.co/NKD373jDmY https://t.co/2i4Aqd3ewM",64,20,15,2021-12-22
+1133,2021-12-23 06:54:07+00:00,1473909768041476097,iearnfinance,"[Proposal] Mean - DCA Buyback Pilot Program 
+
+https://t.co/4SooRUE8jm",83,7,21,2021-12-23
+1135,2021-12-25 04:40:46+00:00,1474600987914608649,iearnfinance,"Yearn has received a 1M FTM grant from @FantomFDN
+
+We didn't dump, over 90% was donated to the FTM vault. Other vaults got a proportional donation for an immediate 1% increase in value.
+
+This grant is the first of many, we will continue receiving more as we hit TVL goals. https://t.co/sUF1hYIEIn",762,35,105,2021-12-25
+1136,2022-01-03 19:03:26+00:00,1478079574231687173,iearnfinance,"Stay up to date with Yearn with our latest Newsletter 📰
+
+💠YIP-65 Has Passed
+
+💠[Proposal] Mean - DCA Buyback Pilot Program
+
+💠Reflecting on Yearn
+
+💠Yearn Has Received a 1M FTM Grant From the Fantom Foundation
+
+https://t.co/hiEK2LY3b3",149,15,26,2022-01-03
+1137,2022-01-07 18:33:44+00:00,1479521651947708416,iearnfinance,"Welcome to 2022, anon. The donations continue.
+
+Yearn has received another grant from @FantomFDN 
+
+Once again, we don't dump. 208,333 FTM have been donated, with 90%+ to the FTM vault and a proportional donation to other Fantom vaults. 
+
+We will continue this with future grants. https://t.co/E5io0lt8ea",593,24,84,2022-01-07
+1144,2022-01-12 15:56:27+00:00,1481294008173346818,iearnfinance,"Check out our latest newsletter 📰
+
+💠 Transparency at Yearn
+
+💠 Yearn Web Updates
+
+💠 Register for the Next Iteration of yAcademyDAO
+
+💠 Yearn Has Received An Additional 1M FTM Grant From the Fantom Foundation
+
+https://t.co/WTDYZnI4jw",63,6,13,2022-01-12
+1145,2022-01-13 17:29:07+00:00,1481679717577093122,iearnfinance,👀 https://t.co/uPheZsazuW,52,11,5,2022-01-13
+1151,2022-01-14 04:10:40+00:00,1481841169122291716,iearnfinance,"24 hours on and Bionic Woofy's vaults are delivering the yield 
+
+Earn up to 46% on stablecoins, 36% on WBTC, and 26% on WETH
+
+Most of the Fantom vaults utilize folding on @Screamdotsh, with @GeistFinance and @TarotFinance strategies arriving imminently
+
+What's your move? https://t.co/24ovZzri8S https://t.co/7kksEwqeN7",205,26,47,2022-01-14
+1152,2022-01-19 00:47:23+00:00,1483601950444642305,iearnfinance,"What are Yearn Vaults and how do they work?
+
+What are strategies and how do Yearn strategists build them?
+
+Get schooled on all this and more by @MarcoWorms 
+
+https://t.co/rdntZO4Vgi",105,3,21,2022-01-19
+1154,2022-01-20 16:50:20+00:00,1484206670347522051,iearnfinance,"Check out our latest newsletter 📰
+
+🔵  Introducing Seven New Fantom Vaults
+
+🔵  New Curve Vaults Live
+
+🔵  Yearn Web Updates
+
+🔵  Yearn Finance Vaults: Knockin’ on DeFi’s Door
+
+https://t.co/R4r87CT64y",81,3,17,2022-01-20
+1155,2022-01-21 16:57:40+00:00,1484570907041357828,iearnfinance,"The vampires have descended upon Fantom.
+
+They come hungry and eager to capitalize on @AndreCronjeTech &amp; @danielesesta's new project Solidly (ve3)... for they know that Solidly will airdrop to the Top 20 projects by TVL on Fantom this Sunday
+
+More 👇👇👇
+
+https://t.co/V0XsZ3VTDp",135,5,37,2022-01-21
+1159,2022-01-22 02:19:47+00:00,1484712367665528833,iearnfinance,"No bridging back from Fantom, anon.
+
+Tuck your holdings into a comfy https://t.co/l0286uZlFN vault.
+
+Yearn fetches the best yield across 0xDAO, veDAO, Scream, Curve, Beets, Tarot, and beyond. We'll be by your side long after the vampwars become another page in a history manga. https://t.co/zIerOHHJUW",591,39,112,2022-01-22
+1160,2022-01-25 19:58:39+00:00,1486066004639686657,iearnfinance,"Yearn TVL on Fantom is up 56%+ in the past 24 hours, blowing right past $1B.
+
+Probably nothing. https://t.co/kuCTEFo1U2",805,45,133,2022-01-25
+1161,2022-01-26 21:28:20+00:00,1486450959723155474,iearnfinance,"Yearn has purchased an additional 127.9 YFI from an open market for $3.9 million. This signifies another 0.34% of supply you can never acquire*, anon.
+
+The buybacks are so strong, they are getting an anime adaptation!
+
+* unless you come join Yearn and earn it by contributing. https://t.co/7w03jKmGoD",343,22,57,2022-01-26
+1162,2022-01-27 01:22:48+00:00,1486509965372100617,iearnfinance,"Check out our latest newsletter 📰
+
+🔵  Yearn TVL on Fantom Reaches $1B
+
+🔵  Fantom Ecosystem Spotlight - Yearn
+
+🔵  Yearn Web Updates
+
+🔵  Yearn Finance Explained
+
+https://t.co/7Vm0iGtkm6",61,4,15,2022-01-27
+1163,2022-01-30 01:07:30+00:00,1487593280107732994,iearnfinance,"Want even more YFI buybacks, anon?
+
+What if Yearn's compensation system leveraged the new YFI tokenomics outlined in YIP-65?
+
+What if every time a Yearn team member gets paid they can allocate up to 100% to be used to buy and lock veYFI? 🧵👇",159,10,17,2022-01-30
+1166,2022-02-02 19:32:05+00:00,1488958421982330880,iearnfinance,"In his last article you learned how Yearn vaults and strategies are built. 
+
+Now learn how new strategies are vetted and endorsed in the latest piece penned by @MarcoWorms with help from Yearn dev @wavey0x 
+
+https://t.co/HkqxiwImL8 https://t.co/KEsDpTF8Hk",82,11,13,2022-02-02
+1169,2022-02-05 21:30:00+00:00,1490075258862374918,iearnfinance,"YIP-66: Streamlining contributor compensation
+
+The proposal has entered a voting phase.
+
+🗳 Cast your vote on Snapshot
+https://t.co/qe2Z4AQiar
+
+📘 Read the full text and learn more on the forum
+https://t.co/XLKKmemfpP",72,7,19,2022-02-05
+1170,2022-02-11 23:14:24+00:00,1492275858337325059,iearnfinance,"We are looking forward to building alongside the thousands attending @EthereumDenver this year! 
+
+Interested in joining the Yearn community of contributors? 
+
+Stop by our booth and ask us about our culture, open contributor roles, and more! #ETHDenver
+
+https://t.co/Bsxv3UxwDG",88,8,18,2022-02-11
+1171,2022-02-14 19:10:27+00:00,1493301630606868481,iearnfinance,"not sure what to do for valentine's day?
+why not teach your crush about crypto
+
+send them a card to show you're thinking of them https://t.co/ad2eZFGvad",60,2,8,2022-02-14
+1181,2022-02-15 02:37:39+00:00,1493414170754265096,iearnfinance,"Who's in Denver? Come buidl with @iearnfinance, a DeFi sponsor @EthereumDenver. 
+
+This week, yearn contributors will be leading workshops, talks, and panels.
+
+📆 here's our events schedule for #ETHDenver📆 
+
+if you can't make it in person, be sure to check out the livestream💻 https://t.co/eKpVv0PiLQ",78,3,20,2022-02-15
+1182,2022-02-16 06:08:09+00:00,1493829533727956993,iearnfinance,"Stay up to date with our weekly newsletter 📰
+
+💠 YIP-66 Has Passed 
+
+💠 Yearn Web Update
+
+💠 Yearn at ETHDenver
+
+💠 Security at Yearn
+
+and more inside! 🚀
+
+https://t.co/pl4Q14DCkW",37,6,6,2022-02-16
+1184,2022-02-17 16:43:51+00:00,1494351900229218311,iearnfinance,"We're excited to be on the ground @EthereumDenver
+
+Be sure to stop by the yearn booth, check out some of the talks by yearn contributors, and explore our bounties! 
+
+Can’t wait to see you all there 💙
+
+https://t.co/5kBPsTuUyc",38,5,10,2022-02-17
+1186,2022-02-21 21:39:55+00:00,1495875961400745987,iearnfinance,"Pillows are safu
+Waifu is safu
+
+Make yield, not war https://t.co/1RCEQmQ1VA",283,30,47,2022-02-21
+1187,2022-02-23 20:27:17+00:00,1496582458380226562,iearnfinance,"P.S. twitter didn't like our step 2 tweet, which was:
+
+2.  Bridge tokens from Ethereum to your Arbitrum wallet 
+
+(alternatively, you can withdraw Arbitrum Ethereum directly from Binance or FTX)",42,5,1,2022-02-23
+1197,2022-02-25 15:20:51+00:00,1497230114274353153,iearnfinance,"Clarifying 2020 Mergers; An Independent Iron Bank
+
+A joint announcement from Yearn Finance, SushiSwap, C.R.E.A.M. Finance, Akropolis, Pickle Finance, and Iron Bank
+
+https://t.co/OEgq41vvtN",156,46,42,2022-02-25
+1198,2022-03-02 18:00:45+00:00,1499082295151521792,iearnfinance,"With 300+ smart contracts on mainnet + billions in TVL, Yearn's vaults and strategies are critical infra for all of DeFi.
+
+It wouldn't be possible without best-in-class dev tooling from @TenderlyApp. Here's how we've teamed up to grow further and faster:
+
+https://t.co/crAn0eAiEp",169,6,31,2022-03-02
+1200,2022-03-07 20:26:47+00:00,1500930987278028804,iearnfinance,"Similarly, wallet providers like @steakwallet have Yearn deposits directly integrated into their apps. https://t.co/Q8IzNyZXjz",16,4,0,2022-03-07
+1209,2022-03-08 23:20:20+00:00,1501337046614482944,iearnfinance,"Check out our weekly newsletter 📰
+
+💠 Yearn on Arbitrum
+
+💠 Yearn Security Review
+
+💠 Clarifying 2020 Mergers
+
+💠 Diving Into Yearn's Metrics
+
+and more inside! 🚀 
+
+https://t.co/FwyNrcSQiL",78,14,12,2022-03-08
+1210,2022-03-09 18:49:18+00:00,1501631226574036992,iearnfinance,"Voting is now live for YIP 67: Contribute to the Nomic Foundation
+
+🗳 Cast your vote on Snapshot: https://t.co/WJxIGz2L4D
+
+📘 Read the full text and learn more on the forum: https://t.co/fe45cmiFkL",30,7,6,2022-03-09
+1211,2022-03-10 01:54:42+00:00,1501738281976967170,iearnfinance,"We are pleased to share our quarterly report for Q3-21. This report has not been audited by a professional accounting firm and is for informational purposes only.
+
+https://t.co/vbn8389B7p",124,22,26,2022-03-10
+1212,2022-03-12 16:46:26+00:00,1502687471011729411,iearnfinance,👀 https://t.co/SXo78x7hpS,36,14,3,2022-03-12
+1213,2022-03-21 20:45:33+00:00,1506009139834544129,iearnfinance,"Law students have adderall. Yearn strategists have @TenderlyApp.
+
+With monitoring, alerting, debugging and incident analysis tools, @TenderlyApp turns hardcore DeFi users everywhere into superhumans.
+
+But it’s so simple, anyone can use it…
+
+🧵👇 https://t.co/MrHu0Qmy2s",104,6,31,2022-03-21
+1216,2022-03-22 23:58:06+00:00,1506419982212554754,iearnfinance,"Or you can enter Curve Rocket Pool manually by:
+
+1️⃣ Depositing Rocket Pool ETH (rETH) + Lido stETH (wstETH) on Curve.
+
+2️⃣ Depositing your rETH+wstETH LP tokens on Yearn.
+
+Embark now: https://t.co/iWK2KQFpTA
+
+💙",54,8,5,2022-03-22
+1220,2022-03-23 20:40:34+00:00,1506732659984109570,iearnfinance,👀 https://t.co/7j7jT0YqU1,63,11,9,2022-03-23
+1221,2022-03-30 04:05:09+00:00,1509018870039949315,iearnfinance,"@iearnfinance contributors are in the City of Gold from March 29-31 for @ETHDubaiConf
+
+@saltyfacu is facilitating an all-day workshop on March 30th on writing strategies for yearn vaults. 
+
+learn more about what we'll be up during out time in Dubai below!
+
+https://t.co/77ptrfocob https://t.co/vv7pkcxYZI",46,2,11,2022-03-30
+1223,2022-03-31 20:53:02+00:00,1509634901917638657,iearnfinance,"Doers contribute with more regularity
+
+They help orchestrate all the moving pieces of the grand machine
+
+They’re not employees
+
+But rather they’re what the name describes: they’re Doers",14,2,0,2022-03-31
+1239,2022-04-04 20:45:13+00:00,1511082482757681160,iearnfinance,"The grand vision 👁️ of Web3 is an internet (and financial system) that’s never down, never censored, &amp; accessible to all.
+
+Blockchains + self-hosting help make that possible. Curious how you can use Yearn, Uniswap and other Web3 apps without touching their websites?
+
+🧵👇",450,26,113,2022-04-04
+1244,2022-04-05 20:42:40+00:00,1511444229486170115,iearnfinance,"7/ Ready to join the Great Vault Standardization? 
+
+Check out @joey__santoro’s 🧵 for more details and a baseline implementation by @transmissions11
+
+The future is composable 
+
+💙 
+
+https://t.co/WKgh6XDG5V",211,7,11,2022-04-05
+1252,2022-04-06 09:47:44+00:00,1511641798661316612,iearnfinance,"Check out our latest Yearn newsletter 📰
+
+💠Introducing Our Newest and Most Powerful Vault
+
+💠Talking Strategies with Facu at ETHDubai
+
+💠Joining the Yearn DAO: Onboarding
+
+💠How Yearn Uses Tenderly
+
+https://t.co/XNO5FZao2r",40,8,10,2022-04-06
+1254,2022-04-07 15:31:07+00:00,1512090602929860608,iearnfinance,"7/ Want more Yearning for Yearn?
+
+👇 https://t.co/Bze0uCmI5b",6,2,0,2022-04-07
+1261,2022-04-08 17:04:15+00:00,1512476427408531467,iearnfinance,"Heed the call &amp; come w us to the ERC-4626 promised land, anons 
+
+via @CoinDesk: https://t.co/kWB15zfS15 https://t.co/6wGoJRj01J",121,10,22,2022-04-08
+1268,2022-04-12 16:46:10+00:00,1513921428516605954,iearnfinance,"Tomorrow:
+
+Be ready to vote for Yearn to be a part of the Arbitrum Odyssey
+
+Full details below on this collab between @arbitrum @ProjectGalaxyHQ @ratwell0x https://t.co/hDiTGxu2Qa",34,4,2,2022-04-12
+1271,2022-04-13 15:51:39+00:00,1514270097950400514,iearnfinance,"“u up?” Sam asks.
+
+Fuuucck me.
+
+Heart thumping. Skin clammy. A billion dollars on the line and tiny needles prickling up your spine.",32,3,0,2022-04-13
+1278,2022-04-14 00:27:00+00:00,1514399787931652098,iearnfinance,👀 https://t.co/7f45eZp9cU,12,3,1,2022-04-14
+1280,2022-04-15 13:40:11+00:00,1514961787069902865,iearnfinance,"new look site, now live
+https://t.co/oegGXXHJIx https://t.co/1s2P9n5yTS",106,10,13,2022-04-15
+1281,2022-04-16 03:33:06+00:00,1515171398313938944,iearnfinance,"Join us for War Room Games:
+
+Participants will be divided into teams.
+
+An exploit report will be delivered. 
+
+With the help of veteran devs from Yearn and @TenderlyApp, you will try to save funds, patch contracts, and keep your cool in swirling chaos. 👇 https://t.co/NG6XLYTJpv",64,8,16,2022-04-16
+1282,2022-04-19 11:55:24+00:00,1516384968527826960,iearnfinance,"Tune in Tuesday April 19 at 2:20pm CET to listen to @defiginger's talk on compensation within a DAO at @TheDAOist_ #GGG22  @EFDevconnect
+
+https://t.co/1ut8J2NNvB https://t.co/VTvZJtTShc",24,2,8,2022-04-19
+1286,2022-04-20 13:47:42+00:00,1516775618301550594,iearnfinance,Let the War Room Games begin! https://t.co/ZftgE38MoP,42,4,4,2022-04-20
+1289,2022-04-21 18:46:20+00:00,1517213158968111106,iearnfinance,"New Yearn data aggregations at @DuneAnalytics 💙 
+
+Here's a list of all new things you can query for:
+
+🔹 harvests
+🔹 deployments
+🔹 transactions
+🔹 contract_tokens
+🔹 contract_strategy
+🔹 v2_deployments
+
+Fiddle with them all at https://t.co/Dd70QSQfHX https://t.co/kYkEUZXrwG",50,7,8,2022-04-21
+1294,2022-04-22 14:00:20+00:00,1517503572757434369,iearnfinance,"Whitehats play a pivotal role in the security ecosystem. @storming0x is joining other security gigabrains to discuss 
+whitehats and the bounties that incentivize them. 
+
+📍 Mainnet Room #TrustX
+⏱️ April 22, 17:35- 18:20 CET
+
+Tune in 👇 https://t.co/rmFnkTA3Ls https://t.co/H4gUS16GDd",19,2,4,2022-04-22
+1298,2022-04-23 04:19:14+00:00,1517719724590776323,iearnfinance,"Are you hacking at #ETHAmsterdam? 
+
+Yearn is offering $4,000 in prizes🏆 There is no better time than the present to build on Yearn!
+
+Tune in to our workshop to learn how to build and profit on Yearn Vaults. 
+
+📍Room 8 (Berlagezaal)
+🕰️ 12:30- 1:00 CET
+💻 https://t.co/eWoeWFRyIx https://t.co/h772j0AmMB",30,5,6,2022-04-23
+1300,2022-04-24 12:15:07+00:00,1518201870413664256,iearnfinance,"What an amazing two days its been! Thanks to everyone who hacked on @iearnfinance @EthAmsterdam. Excited to see what you built! 
+
+Missed the hackathon but still interested in building on yearn?
+
+Check out our guide on how to get started 👉🏻
+https://t.co/hZe6S1MtS4 https://t.co/Mru30vEUC2",39,3,4,2022-04-24
+1305,2022-04-25 00:45:19+00:00,1518390663355768833,iearnfinance,"At Eth Amsterdam, the most mind expanding drug you can take is the blue pill.
+
+Find the bunny: https://t.co/8jn1COJ5nx https://t.co/mciXefgFCE",58,16,7,2022-04-25
+1306,2022-04-29 02:57:19+00:00,1519873433659527169,iearnfinance,👀 https://t.co/81HrQx2UjL,51,8,9,2022-04-29
+1307,2022-05-02 20:32:10+00:00,1521226061987549184,iearnfinance,"from @Skeletor_Space at the @Maven11Capital @hiframework DeFi event
+
+to @defiginger at @TheDAOist_ GGG
+
+to War Room Games with @TenderlyApp 
+
+to @storming0x @thesecureum
+
+Yearn had an epic week @EFdevconnect
+
+👀 recordings and more in this lookback:
+
+https://t.co/wsJPpI3VFL",44,1,10,2022-05-02
+1310,2022-05-03 14:56:40+00:00,1521504016802492417,iearnfinance,"The v3 upgrade is the biggest collection of updates in Yearn history. 
+
+With junior tranches, modularization, composable yield-bearing tokens and a more accessible programming language, v3 will pour rocket fuel on Yearn's ability to innovate.",70,1,4,2022-05-03
+1321,2022-05-04 20:31:57+00:00,1521950781292822530,iearnfinance,💙 https://t.co/mZpNwp4Zq8,24,1,4,2022-05-04
+1330,2022-05-05 02:08:05+00:00,1522035372317822976,iearnfinance,@shanvasion @emilianobonassi @saltyfacu @storming0x @_farrahmay @Skeletor_Space 🥰,1,0,0,2022-05-05
+1333,2022-05-06 13:55:45+00:00,1522575850570452992,iearnfinance,"HackMoney starts in ~3 hrs.
+
+Do you have what you need to start hacking, anon?
+
+Here are a few gifts from your super shadowy pals at Yearn to get you set up to shred.
+
+🎁👇",65,6,15,2022-05-06
+1338,2022-05-07 15:17:03+00:00,1522958699496546306,iearnfinance,🔰,73,11,9,2022-05-07
+1339,2022-05-08 22:10:05+00:00,1523425028162785281,iearnfinance,"Goblin town or the Citadel? 
+
+Wherever we’re going, relax and earn yield
+
+Go to https://t.co/iWK2KQFpTA https://t.co/OgMpH6AnId",79,6,9,2022-05-08
+1340,2022-05-09 14:40:52+00:00,1523674367766327296,iearnfinance,"Introducing a new feature to Yearn's website that increases security against ""man-in-the-middle"" attacks: the Allowlist ☑️
+
+We wrote a detailed guide on how we built Yearn's allowlist contracts so other protocols can do it as well! 💙
+
+https://t.co/Q1EROohZWf",73,4,14,2022-05-09
+1341,2022-05-10 10:54:28+00:00,1523979781179678722,iearnfinance,"We’re giving away $4k in prizes at #HackMoney2022, the month-long hackathon currently underway!
+
+If you want to build something on yearn, make sure to join the Discord to connect with the team! 
+
+Shoot us a message if you have questions or need ideas. We'd be glad to help!🤗 https://t.co/6dR9YC5KBo",40,5,13,2022-05-10
+1344,2022-05-11 20:46:55+00:00,1524491263344533506,iearnfinance,"Are you hacking at #HackMoney2022?
+
+Don't forget to squeeze some time for the live workshop by @Skeletor_Space where he will breakdown how to build on Yearn Vaults! 
+
+🗓️May 12 2022
+🕰️ 14:00 - 14:30 UTC
+
+👉 👉 https://t.co/3tnYakDZgu",18,8,6,2022-05-11
+1349,2022-05-13 00:45:32+00:00,1524913700334731264,iearnfinance,"Teamwork makes the LPwork. 
+
+We’ve worked with @LidoFinance to create a new vault for LPs in Lido’s new concentrated stETH pool. 
+
+More liquidity, more ETH yield, more 🤝
+
+Find it here: https://t.co/pQM0iypQ6j https://t.co/1fFZ4Egdqg",139,6,43,2022-05-13
+1350,2022-05-14 18:34:48+00:00,1525545176831127552,iearnfinance,👀 https://t.co/j2eReFrTrC,22,1,0,2022-05-14
+1352,2022-05-16 23:21:53+00:00,1526342202036715524,iearnfinance,We are proud to share that Yearn is now 100%… whatever this is. https://t.co/0Ao10FUOWp,471,24,51,2022-05-16
+1353,2022-05-17 10:09:46+00:00,1526505247258161152,iearnfinance,"We heard some people are selling.
+
+Great, because we’re buying.
+
+https://t.co/WIGJpfFkXp
+
+Read more: https://t.co/oaBrBrXAJl https://t.co/uBwmLktIk8",207,17,35,2022-05-17
+1355,2022-05-19 20:00:57+00:00,1527378796621352980,iearnfinance,@ChrisBlec We weren't there,88,0,1,2022-05-19
+1360,2022-05-20 16:13:27+00:00,1527683933780856834,iearnfinance,"at Yearn, ""If something can be built or done to improve operations, I just signal my intentions and then just do it.""
+
+-@omgcorn
+
+Get to know Corn in the latest installment of People of Yearn: https://t.co/LDojWza0qq",37,3,6,2022-05-20
+1362,2022-05-21 05:10:04+00:00,1527879377890922496,iearnfinance,"Those leftover tokens from that DAO you joined that was going to remake Jurassic Park. No… not the film, the actual park.
+
+Sigh… yes, you can zap it. https://t.co/8YQr7iAeYB",27,1,2,2022-05-21
+1369,2022-05-24 22:05:23+00:00,1529222050237165568,iearnfinance,"ready to go deeper down the yearn v3 rabbit hole, anon?
+
+let @jmonteer23 show you the way: https://t.co/J7qQ0KBS9N",40,8,8,2022-05-24
+1370,2022-05-25 17:10:21+00:00,1529510191917674500,iearnfinance,"Another great @ETHGlobal hackathon comes to an end!
+
+Congrats to the teams who integrated with Yearn and built a range of innovative products and tools.
+
+Check out our prize winners that will be announced today at 4pm UTC!
+
+https://t.co/LLaSXSTkPr https://t.co/PBAiaCD0wd",24,2,2,2022-05-25
+1371,2022-05-26 20:24:13+00:00,1529921369575673861,iearnfinance,"Yearn’s Q4 ‘21 report is finally out, sorry for the 5 month delay. 
+
+We’re all busy here building the future of france, so no one has time to rewrite the dec 2021 press release. We’re sure it all still applies.
+
+https://t.co/wGjwHS1We2 https://t.co/CaSSo2814T",730,107,60,2022-05-26
+1372,2022-05-27 13:17:39+00:00,1530176409557209088,iearnfinance,"Yearn will continue to stay close to the situation, and will evaluate providing liquidity according to our risk parameters. No action is required from users. More details will be shared in a full disclosure once Scream markets have been returned to normal operations.",35,6,4,2022-05-27
+1379,2022-06-01 17:30:23+00:00,1532051948270194689,iearnfinance,5. Meritocracy https://t.co/xLPCIZkcDe,24,1,1,2022-06-01
+1389,2022-06-02 13:09:31+00:00,1532348687980060673,iearnfinance,"Us: hey check out our new logo
+
+All of CT: https://t.co/eQm1jD0fSu",67,12,4,2022-06-02
+1391,2022-06-03 16:14:41+00:00,1532757675813085187,iearnfinance,@AlchemixFi 🥲,35,4,1,2022-06-03
+1392,2022-06-05 21:05:04+00:00,1533555526302412802,iearnfinance,"Watch the stream here: https://t.co/jRayJ3YjVl
+
+No games, no politics debate bros, no hot tub waifus (yet), just hard work. https://t.co/RsCHkPYhc7",208,10,36,2022-06-05
+1393,2022-06-07 01:09:44+00:00,1533979488245239808,iearnfinance,"Did coinbase just call us popular? Blushes.
+
+You can now use Yearn directly through coinbase wallet, no connect prompts, and zero clicks required (apologies to fans of clicking). https://t.co/tshHYHypd2",157,19,19,2022-06-07
+1395,2022-06-09 14:53:04+00:00,1534911463189626881,iearnfinance,"no cap mandatory merch for any conference
+
+find it tomorrow at @ethprague @element_fi booth https://t.co/cjQ4B6ZG0B",80,20,13,2022-06-09
+1396,2022-06-10 14:10:51+00:00,1535263227189383169,iearnfinance,"code is stable, but marketing is unpredictable (in a cool way) — someone at @ethprague probably",31,7,3,2022-06-10
+1402,2022-06-12 15:11:43+00:00,1536003318132228098,iearnfinance,"DeFi with nothing to hide.
+
+You can now see all budget requests publicly. We believe transparency is the best method for accountability and long term DAO health.
+
+https://t.co/a5CgsgV6Ra https://t.co/CwOJQsbypJ",170,14,21,2022-06-12
+1403,2022-06-13 19:28:38+00:00,1536430360283828224,iearnfinance,"You dump. We buy.
+
+Our buybacks dumb robot has become sentient and started buying YFI at 100k DAI per week. What could it mean?
+
+https://t.co/GYJZ4okbKB https://t.co/g7pux5akyd",240,29,34,2022-06-13
+1404,2022-06-16 19:58:13+00:00,1537524972503109632,iearnfinance,"Here's one we made earlier:
+https://t.co/5WQkGV5c0H
+
+And here's everything you need to get forking:
+https://t.co/pZhKp5wwvg",35,4,2,2022-06-16
+1411,2022-06-17 08:10:00+00:00,1537709128788848640,iearnfinance,"YIP-69: Reduce and cap fees through yRates
+
+🗳 Vote now on Snapshot
+https://t.co/7sqSMxiWPO",41,18,10,2022-06-17
+1412,2022-06-21 18:36:57+00:00,1539316460472115200,iearnfinance,"yBudget Update: Bear Minimum Comp
+https://t.co/bOwQN51q4P https://t.co/iGcL0PSPP8",95,37,7,2022-06-21
+1413,2022-07-05 19:49:09+00:00,1544408057152782338,iearnfinance,"Rare traits!
+1/1s!
+Floor sweep!
+
+NFT projects, now that we have your attention, we have a proposal. Our discord doesn’t have 10,000 krazy koalas, just the world’s best DeFi devs. Team up?
+
+We’re proud to launch https://t.co/uRKEvaJ1eZ, a treasury creation tool for NFT projects. https://t.co/ipF9aithmG",159,37,33,2022-07-05
+1417,2022-07-11 13:29:54+00:00,1546486944770785283,iearnfinance,"DeFi, but run through a global brand agency 🤮 https://t.co/Fpi7eSy0sp",471,49,54,2022-07-11
+1418,2022-07-12 14:58:09+00:00,1546871543023779842,iearnfinance,*Saylor voice* there is no second best https://t.co/BLo70xcHyD,39,22,6,2022-07-12
+1419,2022-07-17 16:03:33+00:00,1548699939403927552,iearnfinance,Built different. Happy 2nd birthday YFI! https://t.co/IIrElf7MqY,308,23,39,2022-07-17
+1420,2022-07-18 14:43:10+00:00,1549042096375357441,iearnfinance,"If you’re at @EthCC tomorrow, swing by the @DeFiSaver booth on the 5th floor. Limited supply so hurry 👀 https://t.co/5OZaLXxWa6",99,25,12,2022-07-18
+1422,2022-07-22 09:56:12+00:00,1550419432933056512,iearnfinance,"When you don't control your money, you live at the whim of those who do. https://t.co/RUC9xqKb6b",298,31,75,2022-07-22
+1425,2022-07-25 09:46:40+00:00,1551504197744566272,iearnfinance,"First they ignore you. 
+Then they laugh at you. 
+Then they advertise for you. 
+Then you win.
+
+https://t.co/H3khKI3lRx",169,24,25,2022-07-25
+1426,2022-07-26 17:09:56+00:00,1551978135553544192,iearnfinance,"web2: you pay KMPG millions of dollars to audit you. 
+
+web3: nice people on twitter audit you for fun. https://t.co/JeVF0171DC",139,36,24,2022-07-26
+1427,2022-08-08 19:24:16+00:00,1556722982768328710,iearnfinance,https://t.co/G85CrkRrip,444,31,84,2022-08-08
+1428,2022-08-11 11:43:47+00:00,1557694260908113920,iearnfinance,"The dictionary may define it as not taking a stance, but right now a stance is exactly what we need to take. https://t.co/sMQTt4i0bV",70,13,7,2022-08-11
+1429,2022-08-12 14:06:23+00:00,1558092535226159105,iearnfinance,yearn condemns the arrest of a tornado cash developer by dutch authorities https://t.co/Lwojfq6kHy,1148,39,239,2022-08-12
+1430,2022-08-13 14:34:27+00:00,1558461987197173763,iearnfinance,"Data, based. Subgraphs let devs and users query blockchain data. Read on for more. 
+
+https://t.co/DUovA1tnOm",118,19,21,2022-08-13
+1431,2022-08-15 13:42:57+00:00,1559173802386391041,iearnfinance,"Censored front end in the streets, decentralized back end in the sheets. A timely reminder on the importance of web3 self hosting.
+
+https://t.co/UjP5r7424S",218,24,57,2022-08-15
+1432,2022-08-17 13:49:34+00:00,1559900245194047490,iearnfinance,"Legend has it that Yearn’s first logo was created in paint.
+
+Our new rebrand has been months in the making, built by a distributed team of creatives.
+
+See how we pulled consistency from chaos, and wrangled our headless org into a new singular brand.
+
+https://t.co/kv4QoTV3kN",107,45,25,2022-08-17
+1439,2022-08-27 13:43:31+00:00,1563522602400124932,iearnfinance,"Apply at https://t.co/1GzDkPZbRy but don’t wait; registration closes on Aug. 30th. 
+
+For more info, check out our medium post.
+
+https://t.co/D8yc6AuqTi",27,3,4,2022-08-27
+1443,2022-09-01 05:57:06+00:00,1565217164122103809,iearnfinance,"Fee lovers, look away now. 
+
+We’re cutting management fees on key vaults like ETH, USDC, DAI, and more. 
+
+Cutting fees is part of a longer term product vision to keep building innovative automated products that focus on performance. At least until the smart contracts unionise. https://t.co/JNcwB5J1s4",404,23,51,2022-09-01
+1446,2022-09-05 17:43:25+00:00,1566844463263223809,iearnfinance,"Yearn World is:
+
+a) an amusement park where giant waifus roam the land.
+
+b) an alien planet where yield prospectors dig for yield.
+
+c) a directory of everything built on yearn. 
+
+https://t.co/PKOdURcYoK",104,42,25,2022-09-05
+1447,2022-09-14 20:03:12+00:00,1570141134357233664,iearnfinance,"Privacy lovers, you can now deposit directly from Aztec’s ZK rollup into Yearn’s Dai and Eth vaults.  
+
+Discover shielded DeFi at https://t.co/FAEnnU0mG1
+
+To celebrate the power of privacy, we thought we’d *alter* some movies by taking the privacy away. https://t.co/wLkFDLN2ME",140,15,34,2022-09-14
+1451,2022-09-19 18:57:36+00:00,1571936564007026692,iearnfinance,"YIP-70: ApeWorX &lt;&gt; Yearn Partnership
+
+Voting on this proposal is now active. 
+
+🗳 Cast your vote on Snapshot
+https://t.co/pXJLIvNHm1",42,10,7,2022-09-19
+1452,2022-09-21 17:35:38+00:00,1572640709584506880,iearnfinance,"Tell me someone knows something, without telling me they know something... https://t.co/8rBA2T5H1Y",93,7,20,2022-09-21
+1453,2022-09-23 16:15:00+00:00,1573345195692855297,iearnfinance,"An important vote to ensure yCRV has its liquidity home on Curve (where it belongs). 🗳️
+
+https://t.co/RBhXAZUUZ5 https://t.co/0Dk4pvThMs",73,5,18,2022-09-23

@@ -1,0 +1,899 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-01 21:41:58+00:00,1212489164706459648,nashsocial,Happy New Year! #TrustYourselves #Nash https://t.co/Dz4yBjiWMF,282,5,40,2020-01-01
+1,2020-01-03 14:42:45+00:00,1213108439322370055,nashsocial,"The votes are in and “Relax! I'm safe with #Nash” crushed our #ProofOfKeys poll. Spread the word that Nash lets you trade, pay and invest without ever taking control of your money. #bitcoin #TrustYourselves https://t.co/Crl16dQtMn",263,14,76,2020-01-03
+2,2020-01-06 13:57:23+00:00,1214184187781173248,nashsocial,"To obtain higher trading limits on Nash, you’ll need to pass an identity check (KYC). Our mobile app makes the process quick and easy. Follow this guide to find out more! #Nash #TrustYourselves https://t.co/TBFSFEiWEe",181,31,38,2020-01-06
+3,2020-01-08 19:08:31+00:00,1214987262150283267,nashsocial,"At Moonlight’s request, we have paused all Moonlight (LX) markets and ask users to withdraw their LX from the trading contract. All open orders have been canceled.",110,17,18,2020-01-08
+4,2020-01-21 19:39:06+00:00,1219706003027001344,nashsocial,In 2019 Nash successfully launched our industry-leading cross-chain technology and released the first key elements of our platform. Read more about our developments here: https://t.co/O5Tq797uXQ #Nash #TrustYourselves $BTC https://t.co/vL7aLACk89,307,15,78,2020-01-21
+5,2020-01-24 09:08:17+00:00,1220634414616645633,nashsocial,"You can stake Nash Exchange tokens (NEX) to receive a share of revenue from our exchange. If you’re new to Nash, follow this tutorial to learn how to transfer your tokens and create a stake! #Nash #TrustYourselves https://t.co/WKZACtEl33",234,21,58,2020-01-24
+6,2020-01-25 18:55:40+00:00,1221144623252459521,nashsocial,"This new year will be the lunar year of the rat, representing wealth and surplus. We wish all a happy and prosperous year! #Nash #CNY https://t.co/MFWIAC68Ux",229,11,34,2020-01-25
+7,2020-01-28 20:07:04+00:00,1222249756262653952,nashsocial,Nash is proud to celebrate #DataPrivacyDay. We believe in preserving privacy by respecting user data and never exploiting it. #Nash #TrustYourselves https://t.co/jScYyJtnTz,224,14,46,2020-01-28
+8,2020-01-29 19:43:39+00:00,1222606248706744332,nashsocial,Save the date! Our quarterly report and AMA for Q4 2019 will be streamed online on 7 February at 18:00 UTC. We’ll post the link here shortly before the event. Head to the Nash Community to ask your questions! https://t.co/Ih12nrKajj #Nash #TrustYourselves https://t.co/2h4e5Ms1pB,246,12,63,2020-01-29
+10,2020-02-06 09:49:08+00:00,1225355736290648065,nashsocial,"Nash Mobile just got even faster! What’s more, you can now view your profile in a range of national currencies. #Nash #TrustYourselves #DeFi https://t.co/c0KmZdR8m3",273,10,68,2020-02-06
+11,2020-02-07 17:50:06+00:00,1225839162814758913,nashsocial,Our quarterly report is about to begin! Click here to view the livestream: https://t.co/zEdhUlcSm8 #Nash #TrustYourselves #DeFi,176,14,49,2020-02-07
+14,2020-02-14 10:17:05+00:00,1228261872312487936,nashsocial,Our latest mobile upgrade lets @NEO_Blockchain holders claim their GAS! Download the app here: https://t.co/En6lYXrDko #Nash #TrustYourselves #NEO https://t.co/utPZDmcHrq,333,18,82,2020-02-14
+16,2020-02-20 22:26:13+00:00,1230619693720928259,nashsocial,USDC markets are now available in Europe! Nash users in European jurisdictions can enjoy fully compliant trading against a stablecoin. #Nash #TrustYourselves $USDC https://t.co/y2OoXR1yKA,515,47,159,2020-02-20
+18,2020-02-25 11:20:25+00:00,1232264078569156616,nashsocial,"Fiat ramps are back in Europe, with higher limits, more countries and more currencies supported! #Nash #TrustYourselves $BTC $ETH $NEO $USDC $BAT $LNK $ZRX https://t.co/1fvMAP6REj",415,40,105,2020-02-25
+19,2020-02-27 12:38:25+00:00,1233008484582674433,nashsocial,"Nash Mobile gives you simple, secure access to our funds management tools for Bitcoin, Ethereum and NEO. Send and request payments via QR code, track the market or verify your identity for the Nash Exchange. Get it here: https://t.co/VErhBC4M8J #Nash #TrustYourselves https://t.co/zGsDttPeaY",284,12,74,2020-02-27
+20,2020-03-10 16:30:22+00:00,1237415511136370690,nashsocial,"Looking for an all-in-one wallet that’s both simple and secure? The Nash mobile app is the answer! Send and request funds with QR codes, monitor your portfolio and complete identity verification for the Nash Exchange. Get it here: https://t.co/En6lYXrDko #Nash #TrustYourselves https://t.co/b7sCIrplob",236,12,55,2020-03-10
+21,2020-03-14 12:16:45+00:00,1238801236037599235,nashsocial,Nash entered maintenance yesterday following interaction issues with our third-party Kafka provider. Recovery is expected within 2 hours. Protections against these errors have now been deployed. We’ll provide another update in 1 hour.,147,23,18,2020-03-14
+23,2020-03-16 21:24:25+00:00,1239663838523465734,nashsocial,"Our API keys based on secure multi-party computation (MPC) are now open for public testing on https://t.co/Ed9biEKn3I. The updated TypeScript SDK can be installed with ""yarn add @neon-exchange/api-client-typescript-mpc"".
+We reward responsible disclosure at bugbounty@nash.io.",244,6,56,2020-03-16
+25,2020-03-18 21:08:14+00:00,1240384542629863424,nashsocial,"We have received a status update from @carbon_money: “In light of the evolving Covid-19 situation and increased disruptions and volatility in the markets, we are suspending liquidity for our onramp tentatively until the end of Q2.”",112,8,13,2020-03-18
+27,2020-03-29 19:30:07+00:00,1244346115270508546,nashsocial,The first version of our Bitcoin trading protocol with secure multi-party computation (MPC) API keys is now open for public testing on https://t.co/BBx7VUzoau. For security vulnerabilities we reward responsible disclosure at bugbounty@nash.io.,355,23,109,2020-03-29
+29,2020-04-03 18:36:42+00:00,1246144614152785921,nashsocial,"Our new #DeFi API keys are now live! These keys offer the protections institutional and algorithmic traders need. Powered by secure multi-party computation (MPC), they are another first for a cryptocurrency exchange. Adapt your bots! #Nash #TrustYourselves https://t.co/mjBbEzMYwy",404,26,140,2020-04-03
+30,2020-04-08 17:28:02+00:00,1247939270578503682,nashsocial,"Nash is the first cryptocurrency exchange to use secure multi-party computation (MPC) for API keys. Unlike existing DEXes, you don't need to grant unlimited access to your funds by using your private key. With Nash, you can whitelist addresses! #Nash #TrustYourselves https://t.co/SAjxBTyw20",380,10,113,2020-04-08
+31,2020-04-16 15:40:05+00:00,1250811206883053574,nashsocial,Save the date! Our quarterly report and AMA for Q1 2020 will be streamed online on 24 April at 18:00 UTC. We’ll post the link here shortly before the event. Head to the Nash Community to ask your questions: https://t.co/uCAdD4Shhj #Nash #TrustYourselves https://t.co/rm7H07SmaL,286,23,76,2020-04-16
+32,2020-04-21 20:28:48+00:00,1252695806278279169,nashsocial,Thanks to @Nasdaq #TradeTalks for speaking to Nash co-founder Ethan Fast (@unignorant) about the future of blockchain and why #Nash is important. The full interview is now available here: https://t.co/ThRM7Hu66C,263,14,67,2020-04-21
+34,2020-04-22 10:39:08+00:00,1252909796463968257,nashsocial,Don’t forget – our Q1 report is this Friday at 18:00 UTC. You still have until tonight to post questions on our community forum! #Nash #TrustYourselves https://t.co/uCAdD4Shhj,208,3,52,2020-04-22
+36,2020-04-24 17:50:02+00:00,1253743014251565061,nashsocial,Our Q1 quarterly report is about to begin! Click here to view the livestream:  https://t.co/Z4PPGclkKk,223,13,56,2020-04-24
+37,2020-04-29 19:51:02+00:00,1255585402079117316,nashsocial,Nash recently made our client protocol and SDK public on GitLab. Our open-source ethos shows our commitment to transparency and innovation around the Nash platform. Read more about our strategy here! #Nash #TrustYourselves https://t.co/6Pao80COZk,357,11,103,2020-04-29
+38,2020-04-30 11:15:02+00:00,1255817934758449157,nashsocial,The latest Nash mobile release lets you send funds to and from our exchange trading contract! Get it now for Android and iOS: https://t.co/En6lYXrDko #Nash #TrustYourselves https://t.co/URJWqQraas,311,14,81,2020-04-30
+40,2020-05-01 12:10:36+00:00,1256194307909996544,nashsocial,"Here’s a sneak preview of our new website, aimed at both personal and business users. We’ve redesigned the site to sell the advantages of Nash as clearly as possible! #Nash #TrustYourselves https://t.co/XT0TE1sBUm",439,27,129,2020-05-01
+41,2020-05-04 18:04:02+00:00,1257370413857898496,nashsocial,"Nash is the first cryptocurrency exchange to offer APIs based on secure multi-party computation (MPC). Enjoy high-performance, low-latency algorithmic trading with address whitelisting – while maintaining custody of your assets! #Nash #TrustYourselves https://t.co/TcUUHtS3yi",318,8,99,2020-05-04
+42,2020-05-07 19:34:04+00:00,1258480234938150923,nashsocial,"Our mobile app is fast, smooth and secure. Download it here and access your Nash account anywhere: https://t.co/VErhBC4M8J #Nash #TrustYourselves https://t.co/WqEMEnW3Bw",289,13,86,2020-05-07
+43,2020-05-08 15:54:35+00:00,1258787391575339011,nashsocial,Nash will be delisting Red Pulse (PHX) on Monday 11 May given its liquidity constraints.,181,21,23,2020-05-08
+46,2020-05-09 13:16:33+00:00,1259110006978490368,nashsocial,"Thanks to @Brad_Laurie for another in-depth interview with #Nash co-founder Fabio Canesin. Watch here for the latest on our achievements so far and upcoming plans, including a USDT/USDC market and MPC-secured user wallets! #TrustYourselves https://t.co/9p0C80GmtV",304,11,90,2020-05-09
+47,2020-05-10 14:42:03+00:00,1259493912378572801,nashsocial,Happy #MothersDay to all the wonderful moms around the world – and a special shout out to those who support #Nash #CryptoMom #TrustYourselves https://t.co/ZaDv6qf5FK,221,8,24,2020-05-10
+48,2020-05-12 13:53:01+00:00,1260206346085060608,nashsocial,"With our products taking shape, Nash is gradually shifting our focus to growth. Letting new users create accounts on our mobile app is key. We’ll then bring even more features to mobile, including trading and staking! #Nash #TrustYourselves https://t.co/Fa62xYjRax",401,18,107,2020-05-12
+49,2020-05-14 16:30:19+00:00,1260970708915666947,nashsocial,Get ready for Nash fiat ramps! Users in the EU will be able to purchase digital assets directly from Nash – both through our mobile app and on our web platform. #Nash #TrustYourselves https://t.co/GfM9F5cDi9,543,59,181,2020-05-14
+50,2020-05-19 15:26:05+00:00,1262766483417042944,nashsocial,"Nash is working on three major targets for achieving General Availability (GA): our own fiat ramp, an improved transfer procedure to and from our trading contracts, and simple Tier 2 KYC. #Nash #TrustYourselves https://t.co/NzxFWZKH5I",386,23,119,2020-05-19
+51,2020-05-20 18:18:59+00:00,1263172383369764866,nashsocial,"Blockchain promotes capital freedom, driving growth by making investment more efficient. But we should also consider “service freedom” – the freedom of those producing goods and offering services. #Nash #TrustYourselves  https://t.co/wOEyX4ywNI",276,13,67,2020-05-20
+52,2020-05-21 13:59:04+00:00,1263469359609122817,nashsocial,"If you missed our Q1 2020 report, you can find a summary here, covering major upgrades like MPC-based API keys and Bitcoin trading, as well as constant improvements to platform UX. #Nash #TrustYourselves  https://t.co/H96TlHkOyx",208,8,52,2020-05-21
+54,2020-05-23 12:59:47+00:00,1264179216041508865,nashsocial,We will be performing maintenance in the next couple hours. During this time an update will be deployed to the matching engine.,226,11,38,2020-05-23
+55,2020-05-27 20:22:05+00:00,1265740078560804866,nashsocial,"Thanks to our new protocol, we are the first exchange to offer safe Bitcoin trading with order books that can rival the speed of centralized exchanges. #TrustYourselves #Nash $BTC #Bitcoin https://t.co/irAZwnMkIR",527,30,191,2020-05-27
+56,2020-05-29 18:53:02+00:00,1266442443039420417,nashsocial,#TrustYourselves by using the Nash Exchange to export the cryptocurrency data you need this tax season. Visit https://t.co/QjdgtCoBpu to get started! #TaxSeason #Cryptocurrency #Nash https://t.co/zwpl8wWWqs,282,5,69,2020-05-29
+57,2020-06-01 15:31:18+00:00,1267478840844193792,nashsocial,"Safe Bitcoin trading on Nash is a huge step forward: no wrapped tokens, but real Bitcoin traded on lightning-fast markets with liquid order books! Why risk leaving funds on a centralized exchange? #Nash #TrustYourselves $BTC #Bitcoin https://t.co/P3VYyPFgW2",425,21,155,2020-06-01
+58,2020-06-02 11:40:27+00:00,1267783132650094594,nashsocial,Step by step… #Nash #TrustYourselves https://t.co/oLPH0oDYTd,588,57,194,2020-06-02
+59,2020-06-03 18:29:31+00:00,1268248464707723265,nashsocial,"For those seeking arbitrage opportunities, Nash is now pleased to offer a USDT/USDC market. #Nash #TrustYourselves $USDT $USDC https://t.co/oe1aCRhrxD",429,18,120,2020-06-03
+60,2020-06-04 13:58:38+00:00,1268542683506753536,nashsocial,"Thanks to our great community for finishing draft translations of Nash into Czech, German and Italian! Dutch and French are coming on nicely too. To help translate Nash into your language, visit our GitHub repo here: https://t.co/C22UfsvOPM #Nash #TrustYourselves https://t.co/pxwsjRhAaa",254,8,55,2020-06-04
+62,2020-06-05 08:06:07+00:00,1268816355849056256,nashsocial,Taxes can be overwhelming but they don’t have to be. Generate your crypto tax information within the Nash Exchange dashboard today! #TrustYourselves #Taxes #Nash https://t.co/CnbDlZTRfX,275,4,62,2020-06-05
+63,2020-06-06 05:31:57+00:00,1269139947174481921,nashsocial,Due to Google Cloud resources issues on region us-central-b we are currently under maintenance. We are working on solutions and expect to return as soon as possible.,144,15,17,2020-06-06
+64,2020-06-11 18:52:07+00:00,1271153256207712256,nashsocial,"Digital assets can be lucrative for traders and investors, but don't forget how blockchain can benefit everyone! Borderlessness, increased access to financial services and fair monetary policy help normal people – not just ""whales""! #TrustYourselves #Nash https://t.co/wTxrllrvRJ",279,11,76,2020-06-11
+66,2020-06-12 15:52:17+00:00,1271470388250382337,nashsocial,"Nash is pleased to announce the listing of the @AragonProject, a platform for helping online communities organize through DAOs. Our ANT/BTC market is now live! https://t.co/PuiE9CqvB8 #Nash #TrustYourselves $BTC $ANT https://t.co/cBby8HKgcy",398,18,95,2020-06-12
+67,2020-06-15 13:46:14+00:00,1272525827285098498,nashsocial,"“The safest, fastest platform for digital assets” – Nash is proud to unveil our new website, with pages for both personal and business users. We hope you feel inspired to share it! #Nash #TrustYourselves https://t.co/b5pIogEeJV",324,11,108,2020-06-15
+68,2020-06-17 19:07:25+00:00,1273331430936981504,nashsocial,You can now sign up for Nash using our mobile app! It's also possible to use the app as your 2FA code generator. Get it here! https://t.co/QjdgtCoBpu #Nash #TrustYourselves https://t.co/vQtSkoNexA,327,20,89,2020-06-17
+69,2020-06-18 18:22:11+00:00,1273682436342403073,nashsocial,Nash believes digital assets can change people's lives for the better – and we're building products to make them accessible to everyone. A shared purpose is essential to a healthy company culture and key to our team's success. #TrustYourselves #Nash https://t.co/2Gw0j6tN5e,298,11,82,2020-06-18
+70,2020-06-20 09:41:51+00:00,1274276265319706625,nashsocial,"Thanks to @Nasdaq #TradeTalks and @JillMalandrino for hosting Nash co-founder Ethan Fast. Hear about non-custodial Bitcoin trading and our upcoming fiat ramp, Nash Cash, here! #Nash #TrustYourselves https://t.co/vTmPMfaDzc",271,11,67,2020-06-20
+71,2020-06-23 13:19:31+00:00,1275418206245720064,nashsocial,Nash will be collaborating with Elrond to add ERD to our revolutionary cross-chain BTC and USDC markets. #Nash #TrustYourselves $ERD https://t.co/DxlzLIfdOd,471,8,132,2020-06-23
+72,2020-06-24 14:13:03+00:00,1275794066505183233,nashsocial,"When our fiat ramp Nash Cash launches, Nash users in the EU will be able to buy digital assets via SEPA transfer at a 0% fee – from both our web platform and mobile app! #Nash #TrustYourselves https://t.co/TiiSCApFhm",507,44,153,2020-06-24
+73,2020-06-25 17:10:43+00:00,1276201164774813703,nashsocial,Nash came from the blockchain community. We know that a strong community offering feedback and support is essential to our success. Read more about why you're so important here! #TrustYourselves #Nash  https://t.co/0tvBSa3Gw0,273,10,64,2020-06-25
+74,2020-06-30 15:21:43+00:00,1277985677481836544,nashsocial,"On 1 July at 18:00 UTC Nash will switch to our new fee schedule! Maker fees will remain 0%, while taker fees will be based only on individual user volume, not relative to the exchange total. Read more here:  #TrustYourselves #Nash https://t.co/6wsw12bPmi",345,17,102,2020-06-30
+75,2020-07-02 09:40:20+00:00,1278624538746634246,nashsocial,"Nash is pleased to announce that we will be listing @NovemGold's NNN token, which represents the ownership of real gold on the NEO blockchain. Our NNN/USDC market will go live this Friday! #Nash #TrustYourselves $NNN https://t.co/4FqJilkYAi",285,15,76,2020-07-02
+77,2020-07-03 14:26:00+00:00,1279058818756993024,nashsocial,Our AMA with @NovemGold will now take place at 15:00 UTC today! https://t.co/QjtB4MVzuo,148,2,38,2020-07-03
+79,2020-07-08 10:45:05+00:00,1280815163201990656,nashsocial,Our mobile app now lets you make simple trades on the go! Get it here https://t.co/QjdgtCoBpu #Nash #TrustYourselves https://t.co/24Bfp9wqQF,389,20,112,2020-07-08
+81,2020-07-10 16:24:07+00:00,1281625255992340482,nashsocial,"Centralized exchanges are insecure, not transparent and hinder blockchain adoption. Nash has an unrivalled security profile, is transparent and compliant, and continues to innovate to make blockchain accessible.  #Nash #TrustYourselves https://t.co/e7WDgYp8am",357,23,104,2020-07-10
+82,2020-07-14 12:30:58+00:00,1283016135043092486,nashsocial,"Our API keys use secure multi-party computation to create multiple keys with address whitelists. On other non-custodial exchanges, a single key controls all assets, which isn't acceptable for institutional users. Read more here! #Nash #TrustYourselves https://t.co/mjBbEzMYwy",271,9,69,2020-07-14
+84,2020-07-15 18:26:39+00:00,1283468034519314436,nashsocial,"Updates from today’s deploy:
+
+✅ Status indicator for maintenance
+⏩ Faster loading times
+🔧 New tooltip design
+📑 Merchant signup flow for Nash Pay
+📬 Further work on notifications system
+
+ #Nash #TrustYourselves",291,21,77,2020-07-15
+85,2020-07-17 18:19:21+00:00,1284190972855881729,nashsocial,Our latest mobile update brings faster navigation and lets you sign in using a pin code! Get it here: https://t.co/QjdgtCoBpu #Nash #TrustYourselves,350,18,94,2020-07-17
+86,2020-07-22 19:16:06+00:00,1286017192828350464,nashsocial,"Today’s updates:
+
+🕯️More candle intervals
+📨 Email notifications for API keys
+📃Improved ETH transfer history
+🇫🇷 French translation
+❗Install app prompts on mobile
+🔧Improved maintenance messages
+💚Support for migrated NEP-5 tokens
+✔️New ETH gas price logic
+#Nash #TrustYourselves",323,18,78,2020-07-22
+87,2020-07-28 09:36:41+00:00,1288045704703770627,nashsocial,Our mobile app is now integrated with @WalletConnect. Connect your Nash wallet securely to other DeFi dapps and more! Download the latest version here: https://t.co/QjdgtCoBpu #Nash #TrustYourselves https://t.co/6kjFkF9N4E,358,21,113,2020-07-28
+88,2020-07-29 12:49:12+00:00,1288456542883328000,nashsocial,Our new Telegram channel will help Nash reach new users. Read more about why we're expanding our official community platforms here. #Nash #TrustYourselves https://t.co/T7i3bPYjYe,270,11,86,2020-07-29
+91,2020-07-30 14:40:08+00:00,1288846847138770949,nashsocial,"@CoinMarketCap, we would like to register two employees with the domain name @nash.io to manage Nash's self-reporting dashboard on CoinMarketCap.",42,3,4,2020-07-30
+93,2020-08-03 18:20:05+00:00,1290351748826181633,nashsocial,"Nash is launching a podcast! Starting this Thursday, 'Beyond the Chain' gathers experts from our team and guests to discuss blockchain technology and its wider impact. Read more and listen to the trailer here! #TrustYourselves #Nash #BeyondTheChain https://t.co/GJHng2j0Sz",356,18,94,2020-08-03
+94,2020-08-04 12:19:06+00:00,1290623294945861633,nashsocial,"Are you ready for our new podcast, 'Beyond the Chain'? Hear a sneak preview of the first episode and subscribe at https://t.co/OVFjPEtOla! #Nash #TrustYourselves https://t.co/PY6TE5r3Ql",264,15,51,2020-08-04
+95,2020-08-05 14:32:15+00:00,1291019190439206913,nashsocial,"Nash is sponsoring a new open source unified API for high performance trading. With a core in Rust and future wrappers in Java, Python, JS and C#. Another step in our mission to bring decentralized finance to everyone. #nash $NEX #DeFi #TrustYourselves
+
+https://t.co/VL2cl7zOqr",297,9,83,2020-08-05
+97,2020-08-06 17:16:14+00:00,1291422847257239554,nashsocial,"In our first episode, Nash co-founder Ethan Fast and cryptographer Robert Annessi discuss API secrets, multi-party computation in a non-custodial environment and more! Listen on your podcast app or at https://t.co/OVFjPEtOla #Nash #TrustYourselves #BeyondTheChain https://t.co/7oxG1EQZkc",246,4,65,2020-08-06
+99,2020-08-10 16:18:49+00:00,1292857946997694467,nashsocial,The Nash Paid Market Makers program will connect small-to-medium-sized professional market makers to the non-custodial future of markets and trading! #Nash $NEX #DeFi #TrustYourselves https://t.co/amBeGkwZlg,326,9,102,2020-08-10
+100,2020-08-11 15:34:12+00:00,1293209106145304576,nashsocial,Join OriginTrail founder @DrevZiga for an AMA in our official Telegram channel https://t.co/0eY7KMNAuG starting at 18:00 UTC today! #Nash #TrustYourselves $TRAC $NEX @origin_trail https://t.co/dI98TXJXBC,244,10,70,2020-08-11
+102,2020-08-12 20:56:44+00:00,1293652665029873670,nashsocial,"Today’s update:
+ 
+📈 Improvements to TradingView charts
+💰 Add $ERD, $FTM and $COMP tokens
+📊 Improvements to markets page
+💸 Improvements to $ETH gas fee computation
+👪 Better to support for congested networks
+🎑 Several NashPay updates
+
+#Nash #TrustYourselves #DeFi $NEX",459,25,119,2020-08-12
+103,2020-08-13 19:14:49+00:00,1293989402159587329,nashsocial,"The Nash mobile app is integrated with @WalletConnect, letting users link their wallets securely to dapps with just a QR code. Read more about why accessibility and security are crucial for growing the DeFi ecosystem. #TrustYourselves #Nash $ETH #DeFi  https://t.co/6LzTtuoqu3",321,7,79,2020-08-13
+104,2020-08-17 21:39:32+00:00,1295475373178748928,nashsocial,Listen to a preview of this week's fantastic episode of #BeyondTheChain! A huge thank you to Jeff Bussgang (@bussgang) for the deep dive into product/market fit. #Nash #TrustYourselves https://t.co/9lyrhODVqj,230,3,46,2020-08-17
+105,2020-08-20 17:14:49+00:00,1296495920373268480,nashsocial,"Future update tweets will be on Thursdays! Today’s update:
+
+⛽ Claim GAS without NEO in wallet
+📈 Improve real-time 24h data on Markets page
+🕯 Full history for 1d/1w/1M candles
+🔐 Support for MPC user wallets (TBA)
+💶 Nash Pay merchant system
+
+#Nash #TrustYourselves #DeFi $NEX",275,9,69,2020-08-20
+107,2020-08-24 22:13:06+00:00,1298020536681930752,nashsocial,"Did you miss episode two of #BeyondTheChain last week? Here's a taste of the full show, which you can listen to at https://t.co/OVFjPEtOla! #Nash #TrustYourselves https://t.co/xpCrPmoDRK",173,5,31,2020-08-24
+108,2020-08-27 17:27:47+00:00,1299035896113758209,nashsocial,"Yesterday’s update:
+
+🇨🇳 Better support for Chinese wallet users
+🧾 New design for staking statements
+🧮 Orderbook hover state to sum orders
+🌐 Update translations
+💵 Show transaction fees
+✨ Support new tokens in wallet
+🟢 Backend support for neo-go
+
+#Nash #TrustYourselves $NEX",260,18,51,2020-08-27
+109,2020-09-01 20:40:03+00:00,1300896221616320512,nashsocial,"Listen to a preview of this week's episode of #BeyondTheChain with the Settlement and Funds team, co-founder Thomas Saunders and backend developer Jan Huwald. #Nash #TrustYourselves https://t.co/nuN6IraSCK",174,23,27,2020-09-01
+110,2020-09-03 20:25:28+00:00,1301617328006877189,nashsocial,Nash is proud to launch our new Affiliates program – with 50% more commission than competing public programs! Existing referrals from our 2019 giveaway count towards Affiliates. Learn more here: https://t.co/xieWFO227k #Nash #TrustYourselves $NEX $BTC $ETH https://t.co/sfrwvGsEoV,272,29,89,2020-09-03
+113,2020-09-07 13:40:03+00:00,1302964854131773440,nashsocial,"Check out Nash Affiliates, our new referral program! Existing referrals from our 2019 giveaway also count. Affiliates pays 50% more commission than rival public programs and has a simple, transparent structure. Read more here! #TrustYourselves #Nash $NEX https://t.co/5qzoKSqRfI",266,5,78,2020-09-07
+114,2020-09-09 20:28:00+00:00,1303792292533276673,nashsocial,"Nash launched on mainnet one year ago, showcasing the use of cross-chain state channels. Since then, we've broken new ground with non-custodial Bitcoin order books, decentralized APIs and 20ms order placement! More is on the way. #TrustYourselves $NEX  https://t.co/pQHukjzMai",349,24,97,2020-09-09
+115,2020-09-11 13:56:36+00:00,1304418570550554626,nashsocial,"This week’s update:
+
+💲 Real-time $ value updates
+🗠  Work on new Funds page, TBA
+🤝 New Affiliates portal/page
+🛑 Market order wash-trading protection
+👻 Remove old signature/timestamp API fields
+🛡️ Improve replay protection
+🖌️ Several UX fixes
+
+#Nash #TrustYourselves #DeFi $NEX",205,3,35,2020-09-11
+118,2020-09-14 17:24:42+00:00,1305558103199539201,nashsocial,“A strong candidate for the title of true DeFi leader.” Thanks to @crypto_rand for this in-depth report on Nash! #Nash #TrustYourselves $NEX https://t.co/sV5QJoicu4,394,14,112,2020-09-14
+119,2020-09-15 17:10:05+00:00,1305916812027146241,nashsocial,"Nash Cash is live in Europe! You can now buy and sell USDC with zero-fee SEPA transfers and 24-hour delivery of assets, credited directly to your trading contract balance. More coins are coming! #Nash #TrustYourselves $NEX https://t.co/bsnpmmfOed",538,37,184,2020-09-15
+120,2020-09-16 07:37:05+00:00,1306134998907604992,nashsocial,Listen to a preview of this week's fantastic episode of #BeyondTheChain! A huge thank you to Beniamin (@beniaminmincu) for the deep dive into sharding and Elrond (@ElrondNetwork). #Nash #TrustYourselves https://t.co/gZQO2I4bPw,215,4,60,2020-09-16
+122,2020-09-17 08:19:33+00:00,1306508073918517249,nashsocial,"As a global company, Nash is committed to providing 24h support to customers around the world. We are looking for a support agent able to work UTC+8 hours. Applicants from the Nash community will be preferred! https://t.co/kslid9w21I",187,4,43,2020-09-17
+128,2020-09-18 10:56:02+00:00,1306909841995292672,nashsocial,Nash lets you trade crypto at lightning speed without taking control of your funds! Our MPC-powered APIs even offer hardware-grade security. Check out our Product Hunt page to learn more and talk about Nash with others! #Nash #TrustYourselves $NEX https://t.co/NOzZysxv2U,265,8,61,2020-09-18
+130,2020-09-24 22:04:36+00:00,1309252421940633601,nashsocial,"This week’s update:
+
+💹 Improvements to market metrics
+💤 Fix auto logout switch
+💡 Nash Cash Improvements
+🌐 Localization improvements
+🤲 Show ERC20 state channels on transfers
+🆕 Initial services for new AML system.
+
+#Nash #TrustYourselves #DeFi $NEX",228,3,40,2020-09-24
+132,2020-09-27 10:40:08+00:00,1310167333462302720,nashsocial,We want to bring decentralized finance to everyone and are happy to celebrate the diversity of our community. Your translations are helping us reach our goal! #TrustYourselves #EuropeanDayofLanguages https://t.co/Bj0AY38iPj,251,9,32,2020-09-27
+133,2020-09-29 19:26:27+00:00,1311024558686851079,nashsocial,"Order processing, latency and determinism are a few of the subjects in the upcoming episode of #BeyondTheChain, with co-founder Luciano Engle and backend engineer Alan Peabody. #Nash #TrustYourselves $NEX https://t.co/r8xmmR8PF6",179,4,38,2020-09-29
+134,2020-09-30 16:24:55+00:00,1311341265292754945,nashsocial,"The following markets will be discontinued today. All orders on these will be canceled.
+
+LINK/ETH
+ZRX/ETH
+GUARD/ETH
+BAT/ETH
+QNT/USDC
+GUARD/NEO
+BAT/NEO
+ZRX/NEO",130,20,16,2020-09-30
+135,2020-10-01 16:11:00+00:00,1311700151258537988,nashsocial,"Our beta liquidity mining program will launch today, 1 October, at midnight UTC. Trade over $10,000 per day for a portion of a 100,000 NEX reward! NEX stakers will be given a volume multiplier. Read the details here. #TrustYourselves #Nash $NEX https://t.co/iavQwxorwx",286,11,88,2020-10-01
+137,2020-10-02 15:03:31+00:00,1312045554948603906,nashsocial,"This week’s update:
+
+🥩 Stake completion notification after release
+🔂 Add ability to update an order
+🧰 Fiat ramp improvements
+⚙️ General fixes
+🔧 Backend Erlang and Elixir updates
+🖥️ Vertical monitors support
+🔗 New Nash Link and NEX pages
+ 
+#Nash #TrustYourselves #DeFi $NEX",199,5,39,2020-10-02
+139,2020-10-05 17:19:03+00:00,1313166827397275648,nashsocial,Think you have what it takes to inspire a sell-out swag store opening? On 6 October the Nash swag design contest begins! The winning design will be featured in the Nash swag store. Max two entries per person. May the most popular designs win! Entry link will be posted tomorrow. https://t.co/M8LwEZMq8B,217,9,53,2020-10-05
+140,2020-10-06 11:49:00+00:00,1313446154219257856,nashsocial,Let's go! The swag design contest is live and you can enter up to two designs. Don't forget to check the design specifications. The winning design will feature on swag in the Nash store! https://t.co/CbWNT3rMFw https://t.co/6On59hGsX5,170,5,31,2020-10-06
+141,2020-10-08 14:55:41+00:00,1314217911641231360,nashsocial,"Our liquidity mining beta enters its second week tomorrow and Gunbot (@Gunthy_Official) is adding 100,000 GUNTHY tokens to the existing 100,000 NEX prize pool! Learn more here. #TrustYourselves #Nash $NEX $GUNTHY https://t.co/6Sk42YLZVJ",260,5,72,2020-10-08
+143,2020-10-09 16:39:02+00:00,1314606306225987584,nashsocial,The results from Week 1 of our liquidity mining beta are up on https://t.co/3Qylao8hKC! Congratulations to the winners. This is just the start – the program runs for four more weeks! #Nash #TrustYourselves $NEX,174,5,32,2020-10-09
+144,2020-10-10 16:03:51+00:00,1314959840654045184,nashsocial,Nash is three years old today and growing fast! We hope you'll join us to celebrate at our online H1 report later. #Nash #TrustYourselves $NEX https://t.co/TyYy3xZooa,313,15,63,2020-10-10
+146,2020-10-11 19:04:23+00:00,1315367663103889408,nashsocial,Get your designs in! The #Nash swag design contest ends Monday at 11:59 UTC!  We love seeing your creativity because of course you #TrustYourselves – enter here: https://t.co/CbWNT3rMFw https://t.co/Oi1nTVjlwd,147,7,22,2020-10-11
+147,2020-10-12 16:45:41+00:00,1315695142393741313,nashsocial,"Didn't have time to watch our H1 report? You can find a summary here, covering major releases like MPC-based API keys and Bitcoin trading, as well as Nash's plans for growing our business and expanding our products! #TrustYourselves #Nash $NEX https://t.co/zTPi9F2Je7",184,3,36,2020-10-12
+149,2020-10-13 17:31:06+00:00,1316068959901319169,nashsocial,"Nash is the safest orderbook-based exchange. It is non-custodial, meaning only you control your funds. Encryption takes place in your browser, so your private keys never approach our servers. See how simple #blockchain can be at https://t.co/O59mZpu52Q! #TrustYourselves $BTC $ETH https://t.co/M90x8S7Y1l",252,5,65,2020-10-13
+152,2020-10-14 14:51:05+00:00,1316391081177747459,nashsocial,"Nash Link, our solution for merchants, is now live! We handle blockchain integration and eliminate risk associated with #cryptocurrency payments. Read about how traditional payments compare and why Nash Link is the future! #TrustYourselves $NEX #ecommerce https://t.co/EsEpJylBgF",374,28,126,2020-10-14
+154,2020-10-15 13:02:05+00:00,1316726037133357058,nashsocial,Thanks to participants in the Nash swag design competition – the winners from each category will be announced on 17 October and showcased in the Nash Store! Winners and the two runners-up from each category will also receive a Nash swag kit. #TrustYourselves https://t.co/oVsLBkEKm3,161,1,23,2020-10-15
+158,2020-10-16 21:55:05+00:00,1317222558916370434,nashsocial,"Nash provides all the tools traders need in one simple, easy-to-use package. Bring up indicators and place conditional orders to suit your strategy. See how simple trading #Bitcoin trustlessly can be at https://t.co/O59mZpu52Q! #TrustYourselves #DeFi #blockchain $ETH $NEO $BTC https://t.co/JuPmnDXdqs",282,4,64,2020-10-16
+159,2020-10-17 20:51:06+00:00,1317568843506765824,nashsocial,"Nash is the best choice for algorithmic traders. Our API keys are secured by multi-party computation, letting you whitelist addresses. Combined with non-custodial architecture, this gives Nash an unrivalled security profile! Get started at https://t.co/O59mZpu52Q #TrustYourselves https://t.co/Vekf2m3CQX",236,5,54,2020-10-17
+161,2020-10-18 18:47:03+00:00,1317900016476893186,nashsocial,"Nash has been hand-translated by humans, thanks to our great community! Want to contribute translations? Check out our repo here: https://t.co/C22UfsvOPM #Nash #TrustYourselves",188,1,32,2020-10-18
+162,2020-10-19 20:05:02+00:00,1318282027607707651,nashsocial,"Nash Affiliates is ideal for users, influencers and developers. Just share your referral code or use our mobile app to invite your contacts easily! https://t.co/YmFnOsS2UF #Nash #TrustYourselves #NashAffiliates https://t.co/FN18vOPBlQ",211,4,40,2020-10-19
+164,2020-10-20 14:01:02+00:00,1318552812096245763,nashsocial,Another step forward thanks to our community – over $2 million daily volume! Keep building at https://t.co/O59mZpu52Q #Nash #TrustYourselves $NEX $BTC #ETH #Definews  #Cryptocurrencies #Blockchain #Blockchaintechnology https://t.co/oMMlPpAprR,303,11,72,2020-10-20
+169,2020-10-21 13:02:03+00:00,1318900356403834880,nashsocial,"We believe all exchange tokens are securities. We broke new ground by registering $NEX officially, protecting our investors from market manipulation and offering guarantees in the case of future regulation. Read about the process: https://t.co/oHLgf4veRe  #TrustYourselves #Nash",324,6,69,2020-10-21
+171,2020-10-22 15:27:06+00:00,1319299248098316296,nashsocial,"Earn 50% more commission than in competing programs with Nash Affiliates – just share your referral code to get started or use the simple ""Invite"" function on our mobile app under ""Contacts""! https://t.co/QLvDD9EMVn #Nash #TrustYourselves #NashAffiliates https://t.co/myeWvFx6G3",168,3,29,2020-10-22
+175,2020-10-23 22:50:32+00:00,1319773230325026817,nashsocial,Nash Affiliates has a simple structure and no social media tracking. Use our mobile app to invite your contacts or share your code manually online! https://t.co/QLvDD9EMVn #Nash #TrustYourselves #NashAffiliates #Crypto https://t.co/iFiLSisAaj,160,2,26,2020-10-23
+180,2020-10-24 17:28:27+00:00,1320054560325500939,nashsocial,"Earn 50% more commission than in competing programs with Nash Affiliates – just share your referral code to get started or use the simple ""Invite"" function on our mobile app under ""Contacts""! https://t.co/QLvDD9EMVn #Nash #TrustYourselves #NashAffiliates #Crypto https://t.co/ACPosxwNVd",178,4,37,2020-10-24
+182,2020-10-25 17:26:01+00:00,1320416336330280960,nashsocial,"The $NEX token sale was a fair lottery, designed to give back to the #crypto community. Everyone had a chance to contribute, not just a few large investors. We're grateful for your support, with ~15.5 million NEX now staked! #TrustYourselves #Nash",315,12,39,2020-10-25
+184,2020-10-26 18:31:05+00:00,1320795101187244032,nashsocial,"Running bots is a great way to explore #crypto trading and earn $NEX in our liquidity mining program. Read our article for tips on getting started! Don't forget, #Nash is the only non-custodial exchange that's safe for bot trading. #DeFi #TradingBot https://t.co/iavQwxorwx",205,3,34,2020-10-26
+185,2020-10-27 12:48:07+00:00,1321071177184530432,nashsocial,"Nash doesn't take up an API slot on Gunbot (@Gunthy_Official), the most popular #crypto trading #bot – and we're the only non-custodial exchange to be integrated! Read more about why #Gunbot users should check out #Nash! #TrustYourselves $NEX $GUNTHY https://t.co/84ZLEHgono",180,3,40,2020-10-27
+188,2020-10-28 11:15:02+00:00,1321410138801135618,nashsocial,"Nash's non-custodial #crypto exchange and decentralized API keys offer an unparalleled security profile: for the first time in the #trading industry, funds are not at risk if both your and our servers are compromised! Read more. #TrustYourselves $NEX #DeFi
+https://t.co/mjBbEzMYwy",228,5,45,2020-10-28
+189,2020-10-29 18:17:49+00:00,1321878925748903936,nashsocial,"With order placement and cancelation times under 20ms, #Nash is by far the fastest non-custodial #crypto exchange. Don't sacrifice security for speed and functionality when you trade #Bitcoin – sign up here! https://t.co/QjdgtCoBpu #TrustYourselves #DeFi #TradingBot $BTC $ETH",244,7,49,2020-10-29
+191,2020-10-30 20:38:37+00:00,1322276745525997568,nashsocial,The results from Week 4 of our liquidity mining beta are up here: https://t.co/zStg3CXhQ6 Congratulations to the winners. The program runs for one more week! It's never too late to join! #Nash $NEX #Trading https://t.co/7tKm4B0qrX,127,0,16,2020-10-30
+193,2020-10-31 14:28:13+00:00,1322545918571401218,nashsocial,"Receive daily payouts with #Nash Affiliates! There is no minimum payout size and our performance-tracking portal is fully transparent. Inviting friends couldn't be easier – just use ""Contacts"" on our mobile app! https://t.co/cleOrfGtcr #TrustYourselves #NashAffiliates",170,2,28,2020-10-31
+194,2020-11-01 12:28:29+00:00,1322878175861493760,nashsocial,"Nash Affiliates is designed so you qualify for our higher 25% tier faster! We track the total taker volume of all your referrals. Use ""Contacts"" on our mobile app to invite your friends – or share your code online! https://t.co/QLvDD9EMVn #Nash #TrustYourselves #NashAffiliates https://t.co/wAiCD7V2Nt",188,3,34,2020-11-01
+195,2020-11-02 16:47:16+00:00,1323305687787646976,nashsocial,"E-Crypto News (@cryptonews_e) spoke to @kelloggfairbank from Nash about crypto payments, regulation and the future of the space. Learn more about why merchants will want to use Nash Link! #Nash #TrustYourselves #crypto #payments #blockchain $NEX https://t.co/aeikKSlK8s",175,2,33,2020-11-02
+198,2020-11-03 14:45:57+00:00,1323637545671020546,nashsocial,"We've almost reached 16 million staked $NEX tokens! Our mobile app now makes it even easier to manage your stakes and receive #crypto dividends in $BTC, $ETH and more. Get it here: https://t.co/QjdgtCoBpu #TrustYourselves https://t.co/ao4QORCZR9",238,3,45,2020-11-03
+201,2020-11-04 09:53:27+00:00,1323926325200117760,nashsocial,Get set up with your Nash mobile wallet and start enjoying all the security benefits of self-custody. All decryption takes place on your phone – your keys never come near our servers! Get the app here: https://t.co/QjdgtCoBpu #Nash #TrustYourselves #blockchain #DeFi $BTC $ETH https://t.co/2RbhpxgOW6,235,7,49,2020-11-04
+203,2020-11-05 09:39:04+00:00,1324285090306969602,nashsocial,We've optimized our trading interface for mobile! See how easy it is to check the market and place a trade – wherever you are. Get it here: https://t.co/QjdgtCoBpu #Nash #TrustYourselves #blockchain #DeFi $BTC $ETH https://t.co/ocxXp502eo,242,15,42,2020-11-05
+206,2020-11-06 09:23:02+00:00,1324643446406205441,nashsocial,Want to trade with higher limits? Our mobile app makes it easy to verify your identity. Scan your documents and you'll be ready to go in five minutes! Get the app here: https://t.co/QjdgtCoBpu #Nash #TrustYourselves #blockchain #DeFi $BTC $ETH https://t.co/nSlmPJyTbh,168,7,26,2020-11-06
+208,2020-11-09 16:40:24+00:00,1325840675930329090,nashsocial,"Nash Cash is the best choice for buying #crypto in Europe, with absolutely no transaction fees and rapid delivery times! 
+
+Get started at https://t.co/221NTLV9EV!
+
+#Nash #TrustYourselves #DeFi #blockchain https://t.co/chpA3UtQVY",225,8,52,2020-11-09
+209,2020-11-10 13:55:04+00:00,1326161456090533888,nashsocial,"Buy #crypto with Nash Cash and your funds go directly to a wallet only you control. Purchases are credited to your trading channel balance for use on our exchange, helping you save on #blockchain fees! Get started at https://t.co/QjdgtCoBpu #Nash #TrustYourselves #DeFi https://t.co/RJJWNYJQmV",230,9,48,2020-11-10
+210,2020-11-11 18:25:36+00:00,1326591923092664322,nashsocial,"On the next episode of Beyond the Chain we join Anita Posch (@AnitaPosch) host of @BitcoinUndCo_ podcast to talk about financial inclusion, democratizing #bitcoin and more! #TrustYourselves #blockchaineducation #crypto https://t.co/YNEzmNkA18",120,1,17,2020-11-11
+213,2020-11-12 18:12:06+00:00,1326950916210257921,nashsocial,"This week, host Chris Fenwick is joined by #Nash co-founder Ethan Fast and author and podcast host Anita Posch (@anitaposch). You don't want to miss their discussion about #Bitcoin use in Africa, financial inclusion worldwide and more! Listen here: https://t.co/mO7EFUkFMR",123,1,17,2020-11-12
+215,2020-11-13 16:56:59+00:00,1327294399743729664,nashsocial,Nash takes legal compliance seriously to guarantee the security of our business for investors and inspire confidence in our users. The Nash Cash exchange bureau is regulated by the FMA of Liechtenstein. #Nash #TrustYourselves #blockchain #crypto #DeFi https://t.co/mOyPIjmQa6,230,3,38,2020-11-13
+216,2020-11-14 16:01:25+00:00,1327642802981842952,nashsocial,"Nash offers first-rate customer support. Our agents respond quickly to chats and tickets, solving over 80% of issues in a single reply and with a satisfaction rate over 98%! Create an account today to buy and trade $BTC and $ETH at https://t.co/QjdgtCoBpu #CustomerSuccess #DeFi https://t.co/PLPVhSqt43",209,13,26,2020-11-14
+217,2020-11-15 15:37:47+00:00,1327999245849403392,nashsocial,Thanks to all the #Nash community members who've offered feedback on our interfaces and done user interviews with our designers. Your input is helping us make our products the best they can be! Check out our latest mobile app at https://t.co/QjdgtCoBpu #TrustYourselves $NEX,207,4,25,2020-11-15
+218,2020-11-16 15:16:53+00:00,1328356370660384777,nashsocial,"The Nash swag store is now open – with payments available through Nash Link! Our solution for merchants is free, requires no #blockchain integration and offers protection against market risk. Learn more and check out our store here! https://t.co/wcjYOFYekt #TrustYourselves #Nash",201,2,35,2020-11-16
+220,2020-11-17 19:19:05+00:00,1328779712966094852,nashsocial,"Nash Link is designed to make accepting #crypto as easy as possible for merchants. We're happy to publish our Python SDK, offering another simple integration option: https://t.co/lVmaMYI9wP #Nash #TrustYourselves #fintech",219,2,35,2020-11-17
+221,2020-11-18 13:48:35+00:00,1329058927321997314,nashsocial,"Our @PrestaShop plugin for Nash Link is now available, letting merchants integrate within minutes and start accepting #crypto payments! https://t.co/oy1tTHc3MS #Nash #TrustYourselves #fintech",229,15,43,2020-11-18
+222,2020-11-19 08:45:01+00:00,1329344920344268801,nashsocial,"We've upgraded our client protocols to generate signatures with secure multi-party computation, the technology behind our decentralized API keys. Nash #blockchain wallets can now offer hardware-level security at no cost! Read more. #Nash #TrustYourselves https://t.co/odawmZV9iM",345,22,79,2020-11-19
+223,2020-11-20 16:37:17+00:00,1329826156930101251,nashsocial,"Nash is now the safest platform for connecting to #dapps, thanks to multi-party computation on mobile! Rather than give a browser extension access to your private key, use @WalletConnect on our Android app. Read more! https://t.co/HztwDqU2M0 $NEX #TrustYourselves #Nash #DeFi",233,4,45,2020-11-20
+225,2020-11-21 14:24:39+00:00,1330155165807226887,nashsocial,"Attention developers – our #Rust and #Python SDKs are now available! Want to build an app on top of Nash or set up a trading bot? Get started here: https://t.co/yOxZmMAbaU
+
+$NEX #TrustYourselves #Nash #DeFi #crypto #blockchain #tradingbot",203,3,34,2020-11-21
+226,2020-11-22 11:32:31+00:00,1330474233785413632,nashsocial,"Are you a Java developer? Our #Java SDK is now available on the OpenLimits GitHub! Start building your Nash app or #tradingbot here: https://t.co/9QgEoepZUj
+
+$NEX #TrustYourselves #Nash #DeFi #crypto #blockchain",178,2,26,2020-11-22
+227,2020-11-23 18:50:02+00:00,1330946727386472450,nashsocial,"Accept #Bitcoin with Nash Link and you'll receive the exact price you specified in €, £ or $, with no transaction fees. Learn more on @ProductHunt and join in the conversation!
+
+https://t.co/43rXdvAJxy
+
+$NEX #fintech #crypto #ecommerce https://t.co/D4B4d68lOD",226,4,47,2020-11-23
+232,2020-11-24 06:00:14+00:00,1331115388273352704,nashsocial,"Accept #Bitcoin, receive cash – we handle the blockchain for free. Learn more about Nash Link, our solution for merchants, on @ProductHunt and feel free to leave your comments!
+
+https://t.co/43rXdvAJxy
+
+$NEX #fintech #ecommerce #crypto https://t.co/FoLwsJGS4r",216,0,37,2020-11-24
+234,2020-11-25 17:03:09+00:00,1331644605008375810,nashsocial,"No blockchain integration is required when you accept #crypto with Nash Link! Check out our #ecommerce solution on @ProductHunt:
+
+https://t.co/43rXdvAJxy
+
+@WooCommerce @PrestaShop @magento #Python #JavaScript #PHP $NEX #fintech #Bitcoin https://t.co/Kopz7z7UHs",248,3,50,2020-11-25
+236,2020-11-26 14:25:09+00:00,1331967231278899200,nashsocial,"Nash Link helps both customers and merchants save on fees – there's nothing better than 0%! Learn about the best way to accept #Bitcoin on @ProductHunt:
+
+https://t.co/43rXdvAJxy
+
+$NEX #Nash #TrustYourselves #fintech #crypto #ecommerce https://t.co/hojcFEXT9O",190,3,34,2020-11-26
+237,2020-11-27 14:18:34+00:00,1332327963686264836,nashsocial,"This week on Beyond the Chain, we talk to Nash Chief Design Officer Nathaniel Walpole and UX designer Erika Truscott, who discuss the nuances of designing for the blockchain space. Listen here! 
+
+https://t.co/cyy1009gbx
+
+$NEX #Nash #fintech #Bitcoin #ecommerce #design #DeFi",146,2,23,2020-11-27
+239,2020-11-30 15:14:39+00:00,1333429239920685056,nashsocial,"Nash’s @kelloggfairbank discusses @PayPal’s recent move into the #crypto space and how it could transform #blockchain into a trillion-dollar industry. Read more in @altswatchnews!
+
+https://t.co/yAoL5E0Rf6
+
+#Nash #TrustYourselves #fintech #DeFi",176,1,34,2020-11-30
+240,2020-12-01 14:04:37+00:00,1333774003132125185,nashsocial,"Nash is the only exchange that lets you trade real #Bitcoin you own on performant markets with order books! Why settle for less?
+
+Create an account today at https://t.co/221NTLV9EV!
+
+#Nash #TrustYourselves #blockchain #DeFi #cryptocurrency #crypto $BTC https://t.co/8jHUPGI5pr",250,5,41,2020-12-01
+242,2020-12-03 17:11:40+00:00,1334545851251904516,nashsocial,"We’re running our first trading competition: Nash League! Trade more to unlock larger prize pools, up to $1,000,000! Compete solo or join a squad to improve your chances, with bonus prizes for each new volume level. Learn more! https://t.co/wh8ZwEezba $NEX #crypto #blockchain",361,46,97,2020-12-03
+243,2020-12-04 11:03:48+00:00,1334815661739139075,nashsocial,"We’ve increased our trading limits! Tier 0 users can now enjoy 5x daily trading limits, while KYC’d users see their limits increase 10x. Complete Tier 1 KYC and you can trade up to $500,000 on Nash per day! Read more here. https://t.co/jfZqKfCpFS $NEX #TrustYourselves #Nash",267,16,44,2020-12-04
+246,2020-12-05 12:41:01+00:00,1335202516695457793,nashsocial,"Transferring #crypto on Nash just got even smoother! Our new transfer window lets you choose your network gas fee and makes it easy to send funds to our trading state channels – now called ""Nash Channels"". Check it out on https://t.co/O59mZpu52Q! #blockchain #Nash $NEX https://t.co/unee71U8dT",255,10,38,2020-12-05
+247,2020-12-06 13:42:03+00:00,1335580262940499975,nashsocial,"We're excited about our partnership with Tuned! Read more below in @BanklessTimes – and think about joining the Tuned squad in Nash League to compete for a share of up to $1,000,000: https://t.co/ISiG80k3pd
+
+https://t.co/osR55a0eNx
+
+#blockchain #crypto #trading #Nash $NEX",262,10,45,2020-12-06
+248,2020-12-07 15:01:40+00:00,1335962690142003207,nashsocial,"You could win $250 if you start trading #crypto on Nash! Join after 1 December and trade $1,000 to be eligible for our “Rookie” prizes – part of the #NashLeague prize pool, which could hit $1,000,000!
+
+Learn more: https://t.co/siSPJgg883
+
+$NEX #Bitcoin #Nash https://t.co/wfkgdlGH0Z",201,4,49,2020-12-07
+249,2020-12-08 09:49:04+00:00,1336246407653695494,nashsocial,"Captain a #NashLeague squad and receive a guaranteed 10% of any prize you win, plus your share as a trader! Want to mobilize a trading community?
+
+Learn more: https://t.co/qkMeHwxHLe
+
+#Nash $NEX #Bitcoin #crypto
+
+Here are breakdowns for our top prize pool: https://t.co/Kx7g3DWSDy",183,6,34,2020-12-08
+250,2020-12-09 17:06:30+00:00,1336718880325181440,nashsocial,"#NashLeague begins on 15 December, with up to $1,000,000 in prizes for top traders! 50% of prizes go to Squads, giving everyone a chance. 30% are for Solo, 10% Profit/Loss and 10% Specials.
+
+Sign up and learn more at https://t.co/fCAhb83klS
+
+#Nash $NEX #Bitcoin #crypto https://t.co/Yl5CW5qQwg",186,7,31,2020-12-09
+252,2020-12-10 09:44:17+00:00,1336969979779018752,nashsocial,"The most skilled traders don't necessarily have the most capital. #NashLeague will award Profit/Loss prizes for the best overall % gains! Everyone is eligible – both Solo and Squad players.
+
+Sign up and learn more at https://t.co/fCAhb83klS
+
+#Nash $NEX #Bitcoin #crypto #Trading https://t.co/vl0Tfr6rjH",166,5,29,2020-12-10
+254,2020-12-11 19:21:21+00:00,1337477589053698048,nashsocial,"The Nash Exchange token (NEX) is now also on Ethereum! Our bridge between the #NEO and #Ethereum blockchains lets holders swap their $NEX from one chain to the other, extending secondary market reach. Learn more: https://t.co/CSJT1AIhKv #Nash #TrustYourselves $NEO $ETH #crypto",431,28,100,2020-12-11
+258,2020-12-14 14:44:59+00:00,1338495206308634628,nashsocial,"Nash is now integrated with @marginsoftware, an easy-to-use #trading terminal with indicators and automated bots! 
+
+Margin’s #Nash terminal is free and can be downloaded here: https://t.co/n5EcY4RQXd
+
+Join Margin’s #NashLeague squad: https://t.co/zpZDFZno2x
+
+$NEX #Bitcoin #crypto",242,2,34,2020-12-14
+262,2020-12-15 09:50:40+00:00,1338783527433867267,nashsocial,"The NOIA Network is now known as Syntropy. The $NOIA token will remain the same, so no token swap is required. Read more details here. https://t.co/s9aFCRfkGk",154,3,15,2020-12-15
+265,2020-12-16 11:38:56+00:00,1339173159342395393,nashsocial,"We’re on the way to unlocking the first #NashLeague prize pool! When each pool unlocks, we’ll give out prizes for special achievements, including $250 “Rookie” prizes for new users. https://t.co/w2yuF6aa6X
+
+Get started: https://t.co/Aj7tZLuvRE
+
+$NEX #Bitcoin #crypto #trading",175,3,26,2020-12-16
+266,2020-12-17 12:32:12+00:00,1339548951536685061,nashsocial,"Just a few days remain to join or captain a #NashLeague squad! Registrations close on 22 December. 
+
+Choose your squad and start trading here: https://t.co/HynpB8F8qQ
+
+#Nash $NEX #Bitcoin #crypto #trading
+
+Here are breakdowns for our top prize pool: https://t.co/De1bEIaupj",162,1,27,2020-12-17
+267,2020-12-18 09:36:26+00:00,1339867104976244739,nashsocial,"Great new video by @TheCryptoLark discussing new $NEX secondary markets on #Ethereum, thanks to our token bridge!
+
+Swap NEX between NEO and Ethereum from your Portfolio page on our web and mobile apps!
+
+https://t.co/tB29wdI8MI #Nash #NEO $NEO $ETH #crypto #blockchain #DeFi",234,9,43,2020-12-18
+269,2020-12-21 16:55:07+00:00,1341064670388641800,nashsocial,"Nash traders have already completed over 50% of the volume to unlock our first #NashLeague prize pool! Check out more stats from the first week below.
+
+Sign up and get trading: https://t.co/LAiqh59kAI
+
+#Bitcoin #crypto #blockchain #trading $NEX https://t.co/LKQsPka9kF",186,1,31,2020-12-21
+270,2020-12-22 17:57:39+00:00,1341442792757878791,nashsocial,"This is your last chance to join a #NashLeague squad! Registrations close tonight at 23:59:59 UTC.
+
+Check out our squad profiles: https://t.co/q5wAKlTSEo
+
+Start trading: https://t.co/HynpB8F8qQ
+
+#Nash $NEX #Bitcoin #crypto #trading
+
+Here are breakdowns for our top prize pool: https://t.co/IPYRjAs5Cv",144,4,26,2020-12-22
+271,2020-12-23 13:44:27+00:00,1341741463789580289,nashsocial,"Congratulations to all #NashLeague traders – you've blown past $30 million exchange volume and are well on the way to unlocking our first prize pool!
+
+Check your progress and get trading: https://t.co/fCAhb83klS
+
+#Bitcoin #crypto #blockchain #trading $NEX https://t.co/qukwtgVqfN",207,3,33,2020-12-23
+272,2020-12-24 11:19:05+00:00,1342067267027279874,nashsocial,"Proud of your Nash League squad? Then pick up some custom swag in the Nash Store! All payments are made with #Bitcoin via Nash Link. https://t.co/lTfoNr0ym3
+
+Check your #NashLeague progress and get trading: https://t.co/fCAhb83klS
+
+#crypto #blockchain #trading $NEX #Nash https://t.co/XEaTfGiZtc",128,4,13,2020-12-24
+273,2020-12-25 12:35:02+00:00,1342448768034230272,nashsocial,"Merry Christmas to Nash family members around the world! We hope you can do something special with your #Bitcoin dividends.
+
+#Nash #TrustYourselves $NEX https://t.co/cZXIH4H2tD",242,7,30,2020-12-25
+274,2020-12-28 17:18:34+00:00,1343607285277487104,nashsocial,"Nash League remains lively during the holiday season, with just over $6 million volume remaining to unlock our first prize pool! Check out the latest stats below.
+
+Sign up and trade: https://t.co/LAiqh59kAI
+
+#Bitcoin #crypto #blockchain #trading $NEX https://t.co/EIPKq9OzBg",163,1,23,2020-12-28
+275,2020-12-29 20:41:13+00:00,1344020671584755713,nashsocial,"Nash League awards Profit/Loss prizes for the best overall % gains! Everyone is eligible – both Solo and Squad players. Have you found a successful strategy?
+
+Sign up and trade: https://t.co/LAiqh59kAI
+
+#Nash $NEX #Bitcoin #crypto https://t.co/GXesQjLutp",143,5,19,2020-12-29
+276,2020-12-30 14:22:25+00:00,1344287730474381317,nashsocial,"Pick up some custom team swag in the Nash Store! All payments are made with #Bitcoin via Nash Link: https://t.co/f4rebRmAx4
+
+Check your #NashLeague progress and get trading: https://t.co/Aj7tZLuvRE
+
+#crypto #blockchain #trading $NEX #Nash https://t.co/ZDKaBwovKw",91,3,8,2020-12-30
+277,2020-12-31 18:37:01+00:00,1344714190120955904,nashsocial,"Happy New Year to everyone in the Nash community! We’re looking forward to an exciting 2021, with new products, programs and partners continuing our growth trajectory and empowering more people to hold the keys to their assets. #Nash #TrustYourselves https://t.co/AwjRilHypc",278,12,35,2020-12-31
+278,2021-01-01 16:29:32+00:00,1345044498687152128,nashsocial,"Season 1 of #NashLeague has passed the halfway mark, with under $2 million volume left to unlock our first prize pool!
+
+Unlock those prizes here: https://t.co/HynpB8F8qQ
+
+#Bitcoin #crypto #blockchain #trading $NEX https://t.co/uz4Oo3e6Mz",133,2,16,2021-01-01
+279,2021-01-04 11:10:49+00:00,1346051451668353025,nashsocial,"Congratulations! 🎉 You’ve unlocked the first #NashLeague prize pool! Are you ready for Level 2? Just 50% more volume will unlock a prize fund almost twice the size!
+
+Keep trading: https://t.co/HynpB8F8qQ
+
+#Bitcoin #crypto #blockchain #trading $NEX https://t.co/reECovPfB2",216,3,32,2021-01-04
+280,2021-01-05 16:03:53+00:00,1346487592808812544,nashsocial,"Congratulations to our first Rookie winners, who all receive a $250 prize! Winners will be notified by email.
+
+Keep trading and unlock more Rookie prizes at Level 2: https://t.co/HynpB8F8qQ
+
+#NashLeague #Bitcoin #crypto #blockchain #trading $NEX https://t.co/plWfyA3lEN",147,3,19,2021-01-05
+281,2021-01-06 10:45:10+00:00,1346769773015805952,nashsocial,"Two new $250 special prizes will be awarded this week!
+
+🚀 Highest daily volume from a Tier 0 user on Friday 8 January
+🚀 Highest daily volume from a Tier 1 user on Friday 8 January
+
+Trade here: https://t.co/HynpB8F8qQ
+
+#NashLeague #Bitcoin #crypto #blockchain #trading $NEX",146,5,21,2021-01-06
+282,2021-01-07 13:19:37+00:00,1347171028867362817,nashsocial,"Two $250 special prizes this week go to the biggest Tier 0 and Tier 1 traders tomorrow. Volume starts counting at 00:00:01 UTC on Friday 8 January!
+
+Trade here: https://t.co/HynpB8F8qQ
+
+#NashLeague #Bitcoin #crypto #blockchain #trading $NEX",93,2,9,2021-01-07
+283,2021-01-08 11:57:24+00:00,1347512729041567745,nashsocial,"Nice presentation of Nash Cash by @TheCryptoLark in his latest video. European users can purchase $USDC for euros at a 0% fee, then buy #Bitcoin or #Ethereum on our non-custodial exchange!
+
+https://t.co/LFqvpBMUj0 #Nash #NEO $NEO $ETH $BTC #crypto #blockchain #DeFi",218,11,50,2021-01-08
+285,2021-01-09 22:59:02+00:00,1348041622358011906,nashsocial,"@elonmusk @benmezrich Hey Elon, we’d love to help you sell Teslas for #Bitcoin via Nash Link!",329,12,70,2021-01-09
+287,2021-01-11 10:19:49+00:00,1348575333126189057,nashsocial,"Nash Link now supports both personal and business accounts, so anyone can generate #Bitcoin invoices and receive a fixed cash sum! If you’re a freelancer or just want the easiest way to accept $BTC, sign up here: https://t.co/XyqGNacONi
+
+#ecommerce #defi #payments #Nash $NEX",281,12,67,2021-01-11
+290,2021-01-12 09:03:33+00:00,1348918527030341632,nashsocial,"Nash League is entering its final sprint – and we’re offering a $1,500 special prize to the highest volume trader this week, between Monday and the competition end on Friday 15 January!
+
+Trade here: https://t.co/HynpB8F8qQ
+
+#Bitcoin #crypto #blockchain #trading $NEX https://t.co/MpGdxvFFbe",155,3,17,2021-01-12
+291,2021-01-13 11:31:18+00:00,1349318097052839936,nashsocial,"Could you win the Nash League final sprint? We’re offering $1,500 to the highest volume trader this week, between Monday and the competition end on Friday 15 January.
+
+Trade here: https://t.co/HynpB8F8qQ
+
+#Bitcoin #crypto #blockchain #trading $NEX https://t.co/gyTmRLwyOx",115,0,24,2021-01-13
+293,2021-01-14 11:00:40+00:00,1349672776777527296,nashsocial,"Congratulations to our Level 2 Rookie winners, who all receive a $250 prize! Winners will be notified by email.
+
+Keep trading and compete for our $1,500 ""final sprint"" prize here: https://t.co/HynpB8F8qQ
+
+#NashLeague #Bitcoin #crypto #blockchain #trading $NEX https://t.co/CiAK0Ihu0F",121,1,13,2021-01-14
+294,2021-01-15 11:37:40+00:00,1350044475947704321,nashsocial,"It’s the final day of #NashLeague – and it's not too late to improve your spot within your team or race for our $1,500 final sprint prize!
+
+Trade and check your prizes here: https://t.co/HynpB8F8qQ
+
+#Bitcoin #crypto #blockchain #trading $NEX https://t.co/weVeUvdVpM",131,1,12,2021-01-15
+295,2021-01-16 15:06:05+00:00,1350459315526782979,nashsocial,"Looks like our awesome community has been fighting for us in the @AltsWars – but there’s still time to join the battle if you want to support team $NEX!
+
+#Nash #TrustYourselves https://t.co/2Z1QIxT0Ay",133,5,18,2021-01-16
+296,2021-01-18 12:57:31+00:00,1351151735608369159,nashsocial,"Nash is sponsoring the North American #Bitcoin Conference, which will take place online, 28–29 January 2021. If you want to hear about some of the most exciting projects for 2021, just fill out a short survey and we’ll get you a ticket! 
+
+Learn more here: https://t.co/zfdjq5zpE1",205,4,38,2021-01-18
+298,2021-01-19 13:47:07+00:00,1351526603868794881,nashsocial,Want to carry out a quick swap? Check out this preview of our new assets pages – soon you'll be able to access our simplified exchange UI direct from a widget! #Nash $NEX #TrustYourselves https://t.co/KusCKLLM0n,210,14,40,2021-01-19
+301,2021-01-20 11:32:12+00:00,1351855041133621248,nashsocial,"The Nash Exchange token ($NEX) is unique. As a registered security, it’s the only fully compliant exchange token – and offers holders up to a 75% share of #Nash’s revenue! 
+
+Read more about the importance of NEX’s legal status: https://t.co/gM7aqEqAqo
+
+#crypto #blockchain #DeFi https://t.co/WSvTxXYRh7",343,34,117,2021-01-20
+305,2021-01-21 09:55:41+00:00,1352193139306602496,nashsocial,"Squad registration for #NashLeague Season 2 begins tomorrow! We're awarding $10,000 in new prizes for every $10M exchange volume. Join a squad for the chance to win two prizes – the more volume you make, the bigger your share!
+
+Read more: https://t.co/dWzB5dPWgJ
+
+#Bitcoin #crypto https://t.co/fOy1lcgKPf",151,1,29,2021-01-21
+307,2021-01-22 08:59:14+00:00,1352541321802747905,nashsocial,"Squad registration is now open for #NashLeague Season 2! Everyone is already competing solo, but join a squad and you can win an additional prize. Check out our squad prizes below!
+
+Join a squad here: https://t.co/HynpB8F8qQ
+
+#Bitcoin #crypto #blockchain #trading $NEX https://t.co/kd2FMmdpmk",157,3,29,2021-01-22
+309,2021-01-23 09:56:42+00:00,1352918171116838913,nashsocial,"Nice write up of Nash as the No.1 #Ethereum wallet! Security policies powered by multi-party computation really set #Nash apart, giving hardware-level safety at no cost. 
+
+https://t.co/1xzjNSrZVF
+
+$NEX $ETH #TrustYourselves #crypto #blockchain",248,7,63,2021-01-23
+310,2021-01-25 11:06:18+00:00,1353660462601293824,nashsocial,"Season 2 of #NashLeague starts tomorrow! Each week, our top 100 new users get a share of 1,000 $NEX tokens – in addition to their Solo and Squad prizes!
+
+Sign up and start trading here: https://t.co/HynpB8F8qQ
+
+#Nash #TrustYourselves #Bitcoin $BTC #crypto #blockchain #DeFi https://t.co/Z1USEnaXW5",171,1,42,2021-01-25
+311,2021-01-26 08:22:24+00:00,1353981600736956416,nashsocial,"Nash League Season 2 is here! The prize pool increases by $10,000 for every $10 million volume generated. Increase your share just by trading more on #Nash – and win a second prize by joining a squad!
+
+Sign up and trade: https://t.co/HynpB8F8qQ
+
+#Bitcoin $BTC #crypto #blockchain https://t.co/QAUNBY9Fes",171,5,32,2021-01-26
+313,2021-01-27 18:14:37+00:00,1354493026404605955,nashsocial,"Today’s update:
+
+💰 Nash League Season 1 prize payout
+🔧 Improve BTC and ETH personal → external fee calculation
+📃 Add ability to export detailed staking reports
+📈 Save Trading View chart data in user account
+
+#Nash #TrustYourselves $NEX",161,0,27,2021-01-27
+315,2021-01-28 12:23:53+00:00,1354767150301507586,nashsocial,"There’s one week left to join a Nash League squad and have the chance of winning a second prize! Everything is still to play for – and our top prize pools award the first three squads.
+
+Sign up and trade here: https://t.co/HynpB8F8qQ
+
+#Nash $NEX #Bitcoin $BTC #crypto #blockchain https://t.co/q1dajQnewJ",122,3,22,2021-01-28
+317,2021-01-29 11:26:33+00:00,1355115111028023299,nashsocial,"Thanks to @TheCryptoLark for a great #NashLeague shoutout! $10,000 in new prizes unlock with every $10M volume.
+
+Our top 100 new users get a cut of 1,000 $NEX tokens each week, offering up to a 75% share of Nash’s revenue!
+
+https://t.co/gEM4KBQNUh
+
+#Bitcoin #crypto #blockchain",169,3,38,2021-01-29
+322,2021-02-02 09:04:32+00:00,1356528920062029824,nashsocial,"Level 2 unlocked! #NashLeague traders have already doubled the prizepool – and there's plenty more to come. $10,000 more unlocks with every $10M volume.
+
+Check your stats and trade here: https://t.co/HynpB8F8qQ
+
+#Bitcoin #crypto #blockchain #trading https://t.co/6SnNBjGc1E",150,3,26,2021-02-02
+324,2021-02-03 17:01:46+00:00,1357011409519935488,nashsocial,"Ethereum just hit a new all-time high of $1,600! You can buy or sell $ETH through Nash at 0% fees here: https://t.co/221NTLV9EV
+#Ethereum #blockchain #crypto https://t.co/WOknWNJiVK",225,4,45,2021-02-03
+326,2021-02-05 21:59:33+00:00,1357811123978985472,nashsocial,"Level 3 of #NashLeague has unlocked, with $30M volume so far! Another $10M volume will unlock Level 4 and a new prize for the squad in second place.
+
+Check your stats and trade here: https://t.co/HynpB8F8qQ
+
+#Bitcoin #Ethereum #crypto #blockchain #trading https://t.co/I8REvzTjEp",144,9,21,2021-02-05
+327,2021-02-08 18:44:34+00:00,1358849217251409933,nashsocial,Nash’s strategy for 2021 will focus on bringing new retail users to crypto. We aim to offer fiat ramps for many new assets at market-leading rates and neobank services like a crypto card and savings account ‒ all on mobile and secured by MPC! Read more. https://t.co/odUnplSwR7,420,44,130,2021-02-08
+328,2021-02-09 16:14:37+00:00,1359173870650068992,nashsocial,"Week 2 of #NashLeague Season 2 has seen even more prizes unlocked! Check out the latest stats below.
+
+Keep trading here and unlock Level 4: https://t.co/HynpB8F8qQ
+
+#Bitcoin #crypto #blockchain #trading https://t.co/GJPX8Dtvua",111,2,16,2021-02-09
+331,2021-02-10 08:41:00+00:00,1359422100990222336,nashsocial,"@elonmusk @freewalletorg True! The safest software wallets don't use your key for signing transactions. Heard of multi-party computation?
+https://t.co/FXqpTJ0wdJ",353,14,74,2021-02-10
+332,2021-02-11 07:21:10+00:00,1359764397372174337,nashsocial,"@iamDCinvestor @Gemini @coinbase @krakenfx @loopringorg @optimismPBC @zksync @tyler @cameron @brian_armstrong @jespow There's already a cross-chain L2 exchange that can match the performance of these CEXes, with native Bitcoin trading: Nash.
+
+Learn more: https://t.co/TKweE4iKXD
+
+Sign up: https://t.co/b5pIogEeJV",146,6,31,2021-02-11
+341,2021-02-12 11:52:25+00:00,1360195050102210560,nashsocial,"The world has become more aware of crypto security thanks to @elonmusk: https://t.co/m2uEtKZ7ja
+
+Read about how Nash uses advanced encryption to make crypto wallets even safer: https://t.co/FXqpTJ0wdJ
+
+#Bitcoin #crypto #blockchain #Nash $NEX",310,13,76,2021-02-12
+342,2021-02-15 13:19:27+00:00,1361304116883054594,nashsocial,"Check out the latest stats for Week 3 of #NashLeague Season 2. Less than $1M remains to unlock Level 5!
+
+Keep trading here: https://t.co/HynpB8F8qQ
+
+#Bitcoin #crypto #blockchain #trading https://t.co/GKjbRKiH4V",139,5,21,2021-02-15
+343,2021-02-16 10:21:45+00:00,1361621781803581440,nashsocial,"Level 5 of #NashLeague has unlocked🎉 $50M total exchange volume means $50,000 in prizes going to all solo participants and our top teams!
+
+Keep trading here to unlock more rewards at Level 6: https://t.co/HynpB8F8qQ
+
+#Bitcoin #Ethereum #crypto #blockchain #trading https://t.co/MER6b05RK2",151,0,19,2021-02-16
+344,2021-02-17 11:18:24+00:00,1361998429245886469,nashsocial,"Head of Global Business Development at Nash @kelloggfairbank will be holding an AMA in the @GainsAssociates Telegram tomorrow at 17:00 UTC – and 150 $NEX tokens are available for participants!
+
+See you there. https://t.co/fxuAzbXW9B",161,1,30,2021-02-17
+345,2021-02-18 16:58:53+00:00,1362446502778580992,nashsocial,Our AMA and quiz with @kelloggfairbank in the @GainsAssociates Telegram is about to begin! Join here: https://t.co/PaQ2T7MrGF,112,2,21,2021-02-18
+346,2021-02-19 15:40:56+00:00,1362789270830919685,nashsocial,"Nash is sponsoring @TheconferenceE DeFi conference on 5 March. Head of BD @kelloggfairbank will speak in the “Crypto world” panel at 11:10 CET on our plans for 2021, including fiat gateways for third parties and some big partnership news! Register here: https://t.co/ZPu9LIhmix",258,16,67,2021-02-19
+348,2021-02-21 15:08:52+00:00,1363505977560080384,nashsocial,"Congratulations! Level 6 of #NashLeague has unlocked!
+
+As the competition enters its final week, will traders be able to unlock $70,000 in prizes at Level 7, including a third squad prize?
+
+Keep trading here: https://t.co/HynpB8F8qQ
+
+#Bitcoin #Ethereum #crypto #blockchain https://t.co/KWZ9ugwc8s",176,2,28,2021-02-21
+349,2021-02-22 17:42:14+00:00,1363906959787913218,nashsocial,"Check out the stats for Week 4 of #NashLeague Season 2! In the final week of the competition, just $6M more volume will unlock prizes for the third-place squad.
+
+Keep trading here: https://t.co/HynpB8F8qQ
+
+#Bitcoin #crypto #blockchain #trading https://t.co/H92u06g67F",118,4,16,2021-02-22
+350,2021-02-24 14:03:21+00:00,1364576653381402624,nashsocial,"Level 7 of #NashLeague has unlocked with $70M volume! Our top 3 squads all receive prizes.
+
+Don’t forget, rewards are distributed proportionally, so you can still increase your share by trading more.
+
+Trade here: https://t.co/HynpB8F8qQ
+
+#Bitcoin #Ethereum #crypto #blockchain https://t.co/7DuHyujWhJ",145,4,14,2021-02-24
+351,2021-02-26 16:07:55+00:00,1365332776472485891,nashsocial,"Join the waiting list for your Nash debit card! You’ll be able to access your Nash checking account and spend your crypto anywhere, earning rewards on every transaction. Coming Q4 2021.
+
+https://t.co/Ncu9BT9knJ
+
+#cryptobank #Nash $NEX #DeFi #Bitcoin https://t.co/8UVjQ8sfTM",326,22,87,2021-02-26
+352,2021-03-01 10:39:50+00:00,1366337374901440512,nashsocial,"Nash customers who use @RevolutApp can now buy crypto instantly at 0% fees! Check out the video below to see how it works.
+
+Download the Nash app here: https://t.co/221NTLV9EV
+
+#Bitcoin #Ethereum #crypto #InstaBuy #Nash $NEX https://t.co/gZs0TRrZaB",425,52,136,2021-03-01
+353,2021-03-02 10:47:39+00:00,1366701729270611971,nashsocial,"Friday 5 March is @TheconferenceE – #DeFi Edition.
+
+11:40 CET: Nash joins Kraken and Bitstamp for a panel discussion.
+
+12:30 CET: @kelloggfairbank presents our vision for a seamless bridge between fiat and DeFi.
+
+You don’t want to miss this! Sign up here: https://t.co/ZPu9LIhmix",236,7,47,2021-03-02
+354,2021-03-03 19:51:07+00:00,1367200887681273857,nashsocial,"Here are the final stats for #NashLeague Season 2. Congratulations to all the winners!
+
+Season 3 of Nash League will begin next Tuesday, 9 March, with the same rules and rewards as Season 2.
+
+#Bitcoin #Ethereum #crypto #blockchain #trading https://t.co/G55uhtK9TF",171,6,24,2021-03-03
+355,2021-03-04 13:49:33+00:00,1367472281765613570,nashsocial,"Nash League Season 3 begins on 9 March 2021! We go forward with the same prize structure, unlocking $10,000 in new prizes for every $10 million volume. Read more: https://t.co/Wa2CuO5jww
+
+Team registration begins 5 March here: https://t.co/HynpB8nx2g
+
+#Bitcoin #crypto #trading",134,1,25,2021-03-04
+356,2021-03-05 11:51:06+00:00,1367804862856052736,nashsocial,"Aave will be one of Nash’s first fiat gateway integrations. Our third-party gateways offer considerable savings over competitors, who charge significant fees or mark up asset prices. Check it out! 5/6 https://t.co/4RKhO5B8mJ",221,8,39,2021-03-05
+363,2021-03-08 09:50:45+00:00,1368861740193230849,nashsocial,"Season 3 of the Nash League trading competition starts tomorrow, showcasing our Layer 2 exchange. Nash offers great liquidity on our main L2 order books, which are natively cross-chain and offer CEX-level performance.
+
+Learn more about #NashLeague here: https://t.co/Wa2CuNNIEY https://t.co/K6RSMsVu9B",196,1,48,2021-03-08
+364,2021-03-09 10:47:29+00:00,1369238403745726467,nashsocial,"As Nash expands our services this year, $NEX stakers will receive a share of our new revenue streams. Learn more about the Nash Exchange token (NEX) in this thread, including the easiest ways to invest! 👇👇👇 1/4
+
+#crypto #blockchain #DeFi https://t.co/1sEMnUQSBR",494,17,174,2021-03-09
+369,2021-03-10 18:09:43+00:00,1369712082342588421,nashsocial,"Nash will be delisting the following markets next Wednesday, 17 March 2021. Please make sure to close your orders and move funds to your personal wallet.
+
+GAS/NEO
+BAT/USD
+NEO/ETH
+GUNTHY/BTC",156,12,21,2021-03-10
+370,2021-03-13 12:24:31+00:00,1370712373137436676,nashsocial,"Congratulations! Season 3 of #NashLeague has already unlocked Level 2, with $20,000 in prizes awarded for $20M volume so far.
+
+Nash’s orderbooks can support large trades without major slippage.
+
+Compete here: https://t.co/HynpB8F8qQ
+
+#Bitcoin #Ethereum #crypto #blockchain https://t.co/QH0e6Ohtm3",219,6,46,2021-03-13
+371,2021-03-15 14:51:09+00:00,1371474053110857728,nashsocial,"Check out the stats for Week 1 of #NashLeague Season 3!
+
+Each week, we’re awarding 1,000 $NEX tokens to our top new users. 
+
+Sign up and trade here: https://t.co/HynpB8F8qQ
+
+#Bitcoin #crypto #blockchain #trading https://t.co/gn3OyiTbnx",147,0,18,2021-03-15
+373,2021-03-17 14:55:33+00:00,1372199934368350216,nashsocial,"Nash is excited to offer our fiat gateway services to @AaveAave, making it easy for users to buy #crypto within Aave’s platform at the best rates. With just 1% fees, no markup and no fees hidden in “network costs”, Nash is the best fiat gateway choice for businesses. https://t.co/KTMFf1EJgn",478,35,134,2021-03-17
+374,2021-03-22 11:33:31+00:00,1373961033304391682,nashsocial,"Level 3 of #NashLeague Season 3 has been unlocked, with $30,000 in prizes awarded for $30M volume.
+
+Today is the last day to join a squad and win a second prize – only 12 hours remain to sign up!
+
+Join a squad here: https://t.co/HynpB8F8qQ
+
+#Bitcoin #Ethereum #crypto #blockchain https://t.co/jUvXHwQZTJ",140,1,22,2021-03-22
+376,2021-03-23 11:29:11+00:00,1374322330483228676,nashsocial,"Here are the latest stats for #NashLeague Season 3!
+
+Are you new to Nash? Then you could win a special ""Rookie"" prize! Each week, 1,000 $NEX tokens are awarded to our top new users.
+
+Sign up and trade: https://t.co/HynpB8F8qQ
+
+#Bitcoin #crypto #blockchain #trading https://t.co/m5mqc7JKzd",136,1,17,2021-03-23
+377,2021-03-29 11:51:57+00:00,1376502384503951361,nashsocial,"Nash users can now buy $BTC, $ETH, $USDC and $AAVE and receive their assets directly in their personal wallets. These new markets charge just 1% fees and avoid costs for exiting state channels. See our fee table below. 2/2
+
+#Bitcoin #Ethereum #crypto https://t.co/iKSclJVDm6",228,3,55,2021-03-29
+379,2021-03-31 12:14:53+00:00,1377232932922925059,nashsocial,"For those who missed it, here’s a transcript of our AMA with @GainsAssociates from 18 February. This is a great introduction to #Nash for new followers! 
+
+$NEX #crypto #DeFi #blockchain https://t.co/wgbr7sUVDF",146,0,31,2021-03-31
+381,2021-04-02 10:51:47+00:00,1377936797326540800,nashsocial,"Nash is integrating with Polygon (@0xPolygon), formerly known as Matic! Polygon is a scaling solution for #Ethereum that is being adopted widely. Nash will list the $MATIC token and integrate our fiat gateway with the Polygon network. Read more! 👇 1/4
+
+https://t.co/lvKszrVLll",631,35,180,2021-04-02
+385,2021-04-06 11:14:31+00:00,1379392067923759105,nashsocial,"Level 5 of #NashLeague Season 3 has been unlocked, with $50,000 in prizes awarded for $50M volume.
+
+Season 3 ends tonight at midnight UTC. Keep trading till then and you can still increase your prize share!
+
+https://t.co/HynpB8F8qQ
+
+#Bitcoin #Ethereum #crypto #blockchain https://t.co/HW6J3cg0vJ",148,7,17,2021-04-06
+386,2021-04-07 17:51:06+00:00,1379854257113997315,nashsocial,Nash will be hosting quarterly AMAs on our community forum. The Q1 2021 AMA thread is open for your questions! We’ll lock the thread on Wednesday 14 April and post our answers over the following days. Check it out here: https://t.co/eBo7I7RhBS,205,1,43,2021-04-07
+387,2021-04-08 13:48:59+00:00,1380155715889823748,nashsocial,"The final stats for Season 3 of Nash League are in!
+
+A total of $50,000 in prizes have been awarded to our top traders, as well as 4,000 $NEX tokens to the most active new users.
+
+Congratulations all our winners!
+
+#Bitcoin #Ethereum #crypto #blockchain https://t.co/rfCT5mLexk",155,3,18,2021-04-08
+388,2021-04-14 08:17:45+00:00,1382246684600721413,nashsocial,"The Nash app now supports @WalletConnect for both iOS and Android! This makes Nash the safest way to connect to #dapps, with all transactions signed using multi-party computation, unlike browser wallets that use your full private key. Learn more: https://t.co/HztwDqU2M0",275,9,71,2021-04-14
+389,2021-04-15 17:07:48+00:00,1382742463677411328,nashsocial,"We are currently experiencing issues with ETH transfers following a technical issue with the Ethereum blockchain, which is undergoing its Berlin upgrade. We expect this to be resolved today.  https://t.co/I7ayZpOOJP",88,7,4,2021-04-15
+390,2021-04-19 11:43:03+00:00,1384110289709191181,nashsocial,"20 million $NEX tokens have now been staked! Congrats to our community🔥
+
+Remember, NEX stakers will also receive dividends from our new 2021 products, including:
+🏦 Fiat gateways
+💶 Earnings accounts
+💳 Debit cards
+
+Read more about NEX here: https://t.co/rLRl7MO4Vq https://t.co/6qQpLl6MTK",310,18,84,2021-04-19
+391,2021-04-20 17:08:57+00:00,1384554694341582853,nashsocial,Nash is featured among the top 50 European #crypto companies by @Cledara! #DeFi  https://t.co/dN2KKTA6Pi,271,12,65,2021-04-20
+392,2021-04-27 11:50:07+00:00,1387011171266531333,nashsocial,"Nash has integrated markets from @Uniswap, @SushiSwap and #DeFiSwap into our app. Select your market provider under “Exchange” to trade popular #Ethereum tokens directly from your wallet with a single click!
+
+Get the app here: https://t.co/Y9jeEMOAOi https://t.co/lmKNlmNCgr",449,29,141,2021-04-27
+393,2021-04-30 13:40:11+00:00,1388126034135035908,nashsocial,"Four new coins have been added to our integrated DEX markets:
+
+Polygon $MATIC @0xPolygon
+Keep Network $KEEP @keep_project
+Vesper $VSP @VesperFi
+Perpetual Protocol $PERP @perpprotocol
+
+Download the Nash app here: https://t.co/Y9jeEMOAOi",355,22,84,2021-04-30
+394,2021-05-05 08:09:15+00:00,1389854692046475270,nashsocial,"Nash is integrating with @terra_money! The Terra blockchain hosts stablecoins pegged to many global currencies, collateralized by its native $LUNA token. Terra’s stablecoins power payments, earnings and investment apps like Chai, Anchor and Mirror. https://t.co/Pdoetp4iEi 1/2",706,32,197,2021-05-05
+396,2021-05-14 14:52:08+00:00,1393217570858315783,nashsocial,We are pleased to announce the appointment of @kelloggfairbank as CEO of Nash. Kellogg has distinguished himself as Head of Business Development. His industry expertise and knowledge of our products make him the ideal person to lead us forward. Read more: https://t.co/yUWNYCI6MN,406,41,89,2021-05-14
+397,2021-05-20 13:48:44+00:00,1395375945255632898,nashsocial,"You can now sell #crypto directly from your personal wallet on Nash! Get the Nash app and enjoy the simplest way to cash out gains, at market-leading rates: https://t.co/Y9jeEMOAOi
+
+#Bitcoin #Ethereum #NEO #Aave $BTC $ETH $NEO $AAVE https://t.co/3DycjKcwG1",292,20,76,2021-05-20
+398,2021-05-21 09:31:37+00:00,1395673627694182407,nashsocial,"You can now earn 5 $NEX tokens for every friend you invite to Nash – and your friend can earn 5 NEX too!
+
+1) Invite a friend
+2) They make a #crypto purchase over €100
+3) You each receive 5 NEX
+
+Download the latest version of the Nash app to get started: https://t.co/Y9jeEMOAOi https://t.co/rLtJJhObVZ",234,15,59,2021-05-21
+399,2021-05-24 10:57:00+00:00,1396782277720481798,nashsocial,"Join @kelloggfairbank and the Nash team in the AMA Lovers Club Telegram this Wednesday, 26 May at 8:00 UTC! We’ll be answering your questions and spreading the word about Nash. https://t.co/NT1XTZD4yM",143,3,28,2021-05-24
+401,2021-05-26 07:38:25+00:00,1397457079795920896,nashsocial,Our AMA will be starting soon at 8:00 UTC. Don’t miss it! https://t.co/NT1XTZD4yM,117,0,11,2021-05-26
+403,2021-06-03 11:08:40+00:00,1400409093286895617,nashsocial,"⚡AVAILABLE NOW⚡
+
+Search through #DeFi token markets on Nash to find the coins you want to trade – we’ll execute your swap on whichever exchange offers the best rate! Powered by @1inchNetwork.
+
+Download the Nash app here: https://t.co/Y9jeEMOAOi
+
+https://t.co/26o1JvBwxI",315,17,88,2021-06-03
+404,2021-06-08 13:27:02+00:00,1402255850580885507,nashsocial,"Did you know Nash is on Facebook? Follow our page and share the latest news with your friends! 💙
+https://t.co/6D29nVBDk5",109,6,19,2021-06-08
+405,2021-06-22 08:43:42+00:00,1407257979431305218,nashsocial,Multi-party computation (MPC) offers major improvements to non-custodial wallet security and lets decentralized exchanges offer traders API keys with security policies. Read our research team’s technical paper on Nash’s MPC implementation here: https://t.co/RylGraR37e,208,7,48,2021-06-22
+406,2021-06-25 13:00:21+00:00,1408409732545720320,nashsocial,"Nash is releasing first-of-its-kind earnings product that builds on @AaveAave and makes it as easy as possible for anyone to enter the #DeFi space! Learn how it works here, and check out the thread below. 👇 1/4
+
+https://t.co/unvftJcVqp",303,24,101,2021-06-25
+409,2021-06-28 06:34:13+00:00,1409399720259293187,nashsocial,Happy Pride Day! 🏳️‍🌈,88,13,6,2021-06-28
+410,2021-07-08 14:27:50+00:00,1413142789559181320,nashsocial,"@RyanSAdams The @nashsocial wallet is secured by multi-party computation, has an integrated fiat ramp in Europe and sports great UX, guaranteeing the best price on DEXes by routing through @1inch. Check it out: https://t.co/3HzULS0wtP",105,4,28,2021-07-08
+411,2021-07-20 13:19:17+00:00,1417474191633403907,nashsocial,"Nash CEO @kelloggfairbank spoke to the @PaymentGenes “Voices in Payments” podcast. Check it out to hear about how #blockchain and #DeFi will shape the future of finance, and why Nash is positioning itself to be the ultimate gateway to the space. 🚀
+
+https://t.co/0yV6896Uks",196,7,50,2021-07-20
+412,2021-08-02 14:46:27+00:00,1422207169097838602,nashsocial,"@arcanebear Sound like @nashsocial will get there first – with non-custodial earnings, MPC-secured crypto wallets, and a real bank account direct in the platform! New website up soon, but check out the proposal here:
+https://t.co/odUnplSwR7",136,6,28,2021-08-02
+413,2021-08-16 13:15:22+00:00,1427257679576244228,nashsocial,"📈 Nash Earnings is now live on our mobile app! 📈
+
+How many 💶 will you be adding?",238,35,84,2021-08-16
+414,2021-08-26 15:02:03+00:00,1430908407062618112,nashsocial,"Today, we’d love to hear about what’s important to you when choosing a crypto bank.",75,27,18,2021-08-26
+415,2021-08-27 13:30:31+00:00,1431247759877738500,nashsocial,"Nash product strategy ✍️
+Importance of digital wallets ☝️
+The future of crypto 💡
+
+This conversation between @Blockchance_ and Nash CEO @kelloggfairbank covers it all!
+
+https://t.co/cUSgNuxE5y",203,4,53,2021-08-27
+416,2021-08-30 13:49:46+00:00,1432339764615827457,nashsocial,"@patrick_oshag @rainbowdotme Let’s talk✌️
+https://t.co/FXqpTJ0wdJ",133,4,28,2021-08-30
+417,2021-09-03 14:40:52+00:00,1433802178339164160,nashsocial,"When you first hear about Nash Earnings…
+#DeFi #crypto https://t.co/FXCz9jfHID",183,14,42,2021-09-03
+418,2021-09-09 15:54:30+00:00,1435995035107999747,nashsocial,"Nash is pleased to announce our integration with @WOOnetwork! They will be providing deep liquidity on our Layer-2 exchange, offering lower slippage and tighter spreads. We are also listing the $WOO token on our fiat gateway. Read our profile of WOO here: https://t.co/24HAlXOkoH",449,22,108,2021-09-09
+419,2021-09-10 12:47:03+00:00,1436310251515621409,nashsocial,#NGMI https://t.co/7XcJ3RWxE1,126,11,20,2021-09-10
+424,2021-09-13 12:33:09+00:00,1437393916916011009,nashsocial,"We‘ve set up a dedicated status page to keep you informed of any technical issues with Nash services.
+
+Check it out here: https://t.co/8Zw1Sl74VJ",166,8,28,2021-09-13
+426,2021-09-17 14:26:20+00:00,1438871949267120139,nashsocial,"👀 TNW #sweepstake 👀 
+
+Join us on 1 October at 14:00 CET to discuss crypto-based earnings. Here’s how to enter to win free digital passes to @thenextweb...
+
+👋Follow @nashsocial &amp; @kelloggfairbank 
+
+💬Mention @nashsocial in a post
+
+🛑Ends 09/24
+
+#techevent #meetus #tnwconference https://t.co/Tro1Fe8QFN",129,3,30,2021-09-17
+427,2021-09-27 10:18:20+00:00,1442433415798738944,nashsocial,"🚀Avalanche is now available on Nash!🚀
+Nash has integrated @avalancheavax C-Chain and now offers:
+
+⚡️Fiat gateway to buy and sell $AVAX tokens
+🔒Non-custodial $AVAX wallets secured by multi-party computation
+
+Read our profile of Avalanche here: https://t.co/XAh1nznqIu https://t.co/id1PNcuqAo",647,27,152,2021-09-27
+428,2021-09-29 12:42:26+00:00,1443194457269153795,nashsocial,"👋Say hello to our new CMO Marc Vekemans and our new COO Rob Farmer!
+
+We’re thrilled to welcome Marc as our new Chief Marketing Officer overseeing our global brand, product and performance marketing, and Rob as our Chief Operating Officer keeping us all ship-shape. 🚢 https://t.co/vDGZIMltgp",205,14,33,2021-09-29
+430,2021-09-30 09:25:49+00:00,1443507366394306566,nashsocial,"Nash CEO Kellogg Fairbank (@kelloggfairbank) will be presenting crypto-based earnings on 1 October at 2:00 CET at @thenextweb. 🚀
+
+Don’t miss it!
+
+For a free digital pass to the conference 🎉👇
+https://t.co/RiGVIqOwgf https://t.co/evahzh32Lm",133,4,33,2021-09-30
+431,2021-10-01 06:48:51+00:00,1443830251767934982,nashsocial,"Nash joined #Avalanche $AVAX on Telegram yesterday to explain our vision for the world’s number one personal finance app, combining cash 💶 and crypto 🚀 seamlessly!
+
+👀 Check out the recap here: https://t.co/K7F0jFQhzp",183,9,45,2021-10-01
+432,2021-10-05 13:01:56+00:00,1445373690464645121,nashsocial,"Nash CEO @kelloggfairbank will be speaking at Coin Nations Summit 2021. 
+
+Visit the site below to catch his talk and learn more about crypto-based earnings.
+
+Sign up for tickets here👉https://t.co/k8XN4xLLBf
+#DeFi #crypto #digitalcurrency https://t.co/0uRL3wVja7",156,9,34,2021-10-05
+433,2021-10-07 13:02:16+00:00,1446098549280755715,nashsocial,"Nash CEO @kelloggfairbank is among the speakers at @HollandFinTech. 
+
+Don’t miss out because they have a lot to say on various #fintech and #crypto topics!
+
+Find out more and register here 👉https://t.co/PnDZvv4Rn6 https://t.co/demKwxK3Vg",113,1,28,2021-10-07
+434,2021-10-08 14:01:50+00:00,1446475928528371719,nashsocial,"Have a great weekend, Nash Earners!🍻 https://t.co/Fw5WstjRGp",118,26,12,2021-10-08
+435,2021-10-15 10:20:47+00:00,1448957016249151491,nashsocial,"Don’t miss Nash at Coin Nations Summit today!
+
+18:00 CET: @kelloggfairbank, CEO at Nash, presents our vision for the future of crypto-based earnings.
+
+Watch here: https://t.co/vT0C2oKGdv https://t.co/MUcAXjQV7M",122,1,20,2021-10-15
+436,2021-10-18 15:42:47+00:00,1450125213140664325,nashsocial,What was the first thing you ever bought with crypto?🚀,82,52,10,2021-10-18
+437,2021-10-20 12:20:24+00:00,1450799059258728458,nashsocial,Eat. Sleep. Crypto. Repeat.,133,18,13,2021-10-20
+438,2021-10-22 11:59:15+00:00,1451518508576215040,nashsocial,"We’re bridging the gap between traditional and decentralized finance so anyone can enjoy the new financial opportunities offered by crypto. 🚀
+
+👀 Read about us in @blockdata_tech's research report about the intersection of traditional finance and DeFi ⬇️
+https://t.co/h1IEo0amWw https://t.co/5EkGrvt1YI",210,12,53,2021-10-22
+439,2021-11-01 14:48:37+00:00,1455185013599784969,nashsocial,"Nash recently expanded our business leadership team, appointing CMO Marc Vekemans and our COO Robin Farmer. With the new team in place, we’ve set out our vision and strategy for the coming months. Read the latest update on Nash here: https://t.co/dexWb4VFwT",194,26,40,2021-11-01
+440,2021-11-05 14:46:36+00:00,1456634054799933442,nashsocial,Your balance on Nash earnings compounds every Ethereum block – that's every 10–20 seconds https://t.co/Xx3Zu1b5RB,100,13,13,2021-11-05
+441,2021-11-10 16:02:57+00:00,1458465207097954305,nashsocial,"Next Wednesday 17 November 2021, Nash will be discontinuing the following markets on our Layer-2 exchange: NOIA/BTC, NOIA/USDC and LINK/USDC. Open orders will be canceled. It will remain possible to withdraw funds from NOIA and LINK state channels after markets close.",42,15,3,2021-11-10
+442,2021-11-16 11:41:44+00:00,1460573797208178690,nashsocial,"Interest rates across Europe are at record lows, making it harder for regular people to save money. Check out our deep dive to learn how we got here – and why crypto-powered earnings solutions like Nash’s can help!
+
+https://t.co/cYJzgEytt2
+
+#interestrates #DeFi $NEX",171,15,60,2021-11-16
+443,2021-12-01 14:15:17+00:00,1466048260393607178,nashsocial,"📣 Don't miss Nash CEO @kelloggfairbank's upcoming talk: 'Crypto earnings marketplaces: The future of saving'  
+
+This Friday @Blockchance_ 11:45 AM-12:00 PM CET. Get your tickets here👇
+https://t.co/83cAS3iTou
+
+#PositiveFuture #BCE2021 #BLOCKCHANCE https://t.co/fEF38HcLZf",109,2,34,2021-12-01
+444,2021-12-03 11:20:12+00:00,1466728972679622658,nashsocial,"📣 Stay tuned for more from @kelloggfairbank in the Merkur room panel discussion @Blockchance_, starting now.",50,0,5,2021-12-03
+446,2021-12-06 15:01:02+00:00,1467871711861301249,nashsocial,"Nash has upgraded our KYC system to stay at the forefront of compliance and guarantee scalability for millions of new users, including an automated flow for Tier 2 limits on mobile.
+
+Please update your app and declare a source of funds to keep using Earnings and our fiat gateway.",112,0,21,2021-12-06
+447,2021-12-07 09:31:01+00:00,1468151047113822209,nashsocial,"2021 is almost over, but Nash still has plenty in store! We’ll be launching new payment methods and pilot marketing in the Netherlands, and announcing plans for integrating $NEX with our new products. Read more about our plans for December here: https://t.co/Ua1Qgg4eDo",187,10,49,2021-12-07
+449,2021-12-10 09:02:24+00:00,1469231009862406144,nashsocial,"📣 Nash CEO @kelloggfairbank will give an exclusive live webinar today at · 11:30 AM CET · for #DutchBlockchainWeek - Don't miss it! 
+
+#DBW21 @BCNLfoundation
+ 
+RSVP to join 👇
+https://t.co/V1GM5jfKLH",108,6,27,2021-12-10
+451,2021-12-14 09:22:40+00:00,1470685663020335107,nashsocial,"Nash has redesigned the $NEX token to integrate it with our new products:
+
+💰 Profit share from all core services
+📈 Fee reductions and interest rate boosts
+🎁 Unlock special promotions
+📱 Simple UX for newbies
+🤝 Earnings referral program
+
+Read more here!
+https://t.co/amgbAGCOEs",237,1,68,2021-12-14
+453,2021-12-24 09:59:27+00:00,1474318798304034832,nashsocial,Answers to AMA questions are now up on our community forum. Check out the thread here: https://t.co/eP1fzNeadj,36,0,5,2021-12-24
+454,2022-02-08 10:15:09+00:00,1490992591910887431,nashsocial,"Nash users in the #Netherlands can now pay instantly with iDEAL. Buy #Bitcoin or add funds to your crypto-powered #DeFi earnings in under a minute!
+
+Stay tuned for more instant payment methods across Europe soon, including credit cards, Google Pay and Apple Pay. https://t.co/MQN7TqyNdW",262,32,73,2022-02-08
+455,2022-03-18 13:16:38+00:00,1504808999451074561,nashsocial,"🎉 Nash has won Best #DeFi Marketplace at the Fintech Breakthrough Awards 2022!
+
+With Nash, anyone can save money faster with high-interest platforms like @anchor_protocol and @AaveAave. Add funds straight from your existing bank account!
+
+https://t.co/8yqQHJkWAL @FinTech_Awards",141,2,42,2022-03-18
+457,2022-03-22 08:11:08+00:00,1506181669715427330,nashsocial,"Nash is pleased to announce the integration of Anchor ⚓ into our earnings product. You can now add funds to the @anchor_protocol directly from your bank account and earn a stable 13.5% return on your savings! 📈 Learn more here: https://t.co/eFS758mZc7
+
+@terra_money $NEX #DeFi",206,12,59,2022-03-22
+458,2022-04-11 13:35:06+00:00,1513510955740708868,nashsocial,"Let your #money do more work in less time. Crypto earnings on Nash offer interest rates of 13.5%. That’s way ahead of #savings with traditional banks.
+
+Get the app and add funds instantly from your existing bank account: https://t.co/hY9nS8nqvW https://t.co/Cfe2LtDpoM",152,3,44,2022-04-11
+459,2022-04-12 09:43:31+00:00,1513815066692497414,nashsocial,Nash makes #crypto simple. Our app is built on that principle. We offer two main ways to grow your #money with crypto: earnings and investments. Let’s explore the differences – and help you choose which is best for you. https://t.co/i75NEliq9f,159,4,49,2022-04-12
+460,2022-04-18 10:02:48+00:00,1515994243159969800,nashsocial,"Nash is the modern way to grow your #money. Earn up to 13.5% interest on your #savings, powered by #crypto, or invest in thousands of tokens – stored in our ultra-secure wallet.
+
+Get the app here: https://t.co/NpS35Lf8UB https://t.co/Lf8yMSXtvR",123,2,30,2022-04-18
+461,2022-04-25 13:33:27+00:00,1518583971348635651,nashsocial,"Nash is a great choice to buy #crypto in the #Netherlands 🇳🇱 with instant purchases through iDEAL.
+
+You always control your funds, and they’re protected by advanced encryption in our ultra-safe wallet. 
+
+Get the app here: https://t.co/xeEJzuYz1e https://t.co/cnOz1HlqVg",114,5,33,2022-04-25
+462,2022-04-29 08:36:00+00:00,1519958668984344576,nashsocial,"Compounding interest could supercharge your #savings!
+
+Save €6,000 each year, at a rate of 13.5% compounded annually, and in 15 years you could have almost €300,000. It would take 24 years for €1,000,000.
+
+Let's explore how compounding interest works. https://t.co/XRiqF2jAki",108,4,24,2022-04-29
+463,2022-05-02 10:00:01+00:00,1521066976063414274,nashsocial,"The earlier you start #saving, the more time compound interest has to work. With rates up to 13.5%, Nash is a the modern way to grow your #money.
+
+Get the app here: https://t.co/m9hUpaP5BQ https://t.co/8xlx5MMONX",112,3,26,2022-05-02
+464,2022-05-12 13:45:54+00:00,1524747699735699456,nashsocial,"With Nash, you’re always in control of your #crypto. No matter what happens to us, that money is yours, and you can access it even if we’re offline. How’s that for #security? 
+
+https://t.co/asK2yjLhJH",142,3,39,2022-05-12
+465,2022-05-13 09:56:48+00:00,1525052431645777921,nashsocial,Dollar-cost averaging is a simple #investment concept that can seriously build your wealth over time. And it’s almost like it was made for #crypto. Read more here: https://t.co/t7gULatb1P,79,4,20,2022-05-13
+466,2022-05-16 10:03:40+00:00,1526141323513831425,nashsocial,"Nash is bringing Web 3.0 to the masses. It’s already here, but most people don’t know it yet. They feel it’s too much effort to get involved. We’re rethinking the UX around #crypto and #DeFi to make them part of your everyday life.
+
+Get the app here: https://t.co/rK6oyvIjSS https://t.co/2IdM19xe2o",130,7,38,2022-05-16
+467,2022-05-17 12:33:26+00:00,1526541401911136263,nashsocial,"📣 We’re hiring! Nash is looking for a Senior Product Designer to work from our Amsterdam office. This is your chance to get into #crypto, #blockchain, #Web3 and take our UX to the next level. Check out and share here: https://t.co/S0gntUx00B",78,4,20,2022-05-17
+468,2022-05-19 07:52:59+00:00,1527195600575418369,nashsocial,"📣 We’re hiring! Nash is looking for a Frontend Developer (react-native) to work remotely. This is a great chance to get involved with #crypto, #blockchain and #Web3. Check it out here: https://t.co/o4HIxPOVOl",68,4,13,2022-05-19
+469,2022-05-23 10:00:03+00:00,1528677127331188736,nashsocial,"There’s no easier way to access #crypto and #DeFi than Nash. Connect your existing bank account with iDEAL and add funds instantly. The best bit? You always remain in control of your coins.
+
+Get the app here: https://t.co/71wghyCNhE https://t.co/LzXg0eLtch",105,11,26,2022-05-23
+470,2022-05-31 12:51:44+00:00,1531619436171501569,nashsocial,Meet the new Nash. Fresh but familiar. Striking but trustworthy. Smart but welcoming. We’re here for everyone who wants to make their money move the modern way – with crypto and cash side by side. Check out our new brand and get a taste of the future. https://t.co/XGAKHa73Be,204,122,87,2022-05-31
+471,2022-06-02 12:43:02+00:00,1532342022236930049,nashsocial,"Nash CEO @kelloggfairbank will be attending #Money2020EU next week in Amsterdam. Looking forward to spreading the word about Nash among those in the industry 🚀
+
+https://t.co/3g6aGkzcku https://t.co/NuPbFByslA",88,1,15,2022-06-02
+472,2022-06-13 10:21:21+00:00,1536292633655791616,nashsocial,Want to stay in control of your funds while you earn interest? #Crypto earnings on Nash are fully self-custodial and secured by multi-party computation. Translation: A super safe wallet where we can’t block your access. https://t.co/rhH9wxyz2d,100,6,28,2022-06-13
+473,2022-06-17 08:00:01+00:00,1537706617038417920,nashsocial,"🎁 To mark our integration with @0xPolygon, Nash is giving away $MATIC tokens! Receive one free MATIC token when you spend €100 or more on any Polygon-based crypto asset. Who feels like trading #crypto on Polygon exchanges? https://t.co/m2uCj64Y52",98,2,26,2022-06-17
+474,2022-06-20 09:20:10+00:00,1538813952867635201,nashsocial,"Join us today for an AMA in https://t.co/moQsBvzGew, starting 3pm CET! https://t.co/vbMshW0fPl",63,1,13,2022-06-20
+476,2022-07-04 12:30:41+00:00,1543935327567593472,nashsocial,"Customers are losing funds on centralized platforms, which highlights the importance of self-custody in #crypto.
+
+Nash is built around self-custody. We can’t lock your funds, and our wallets lead the space with state-of-the-art encryption. https://t.co/9xUSjm0rkT",134,5,49,2022-07-04
+477,2022-07-08 11:20:17+00:00,1545367161090211840,nashsocial,"This is exactly what Nash is doing. We make crypto self-custody feel as simple as the intuitive tools offered by traditional banking apps. We don’t compromise on security. Your assets are always yours, and we cannot lock them. Learn more at https://t.co/b5pIogEeJV.",71,2,9,2022-07-08
+483,2022-07-14 10:58:35+00:00,1547536026947706881,nashsocial,"The current #crypto market changes nothing about the long-term potential of #DeFi.
+
+https://t.co/bsuquBlGrZ",74,2,16,2022-07-14
+484,2022-07-18 08:00:01+00:00,1548940639508828161,nashsocial,"With Nash you can buy #crypto in the #Netherlands 🇳🇱 instantly through iDEAL. Our fees are just 1%, and you always control your funds in our ultra-safe wallet. 
+
+Get the app here: https://t.co/Hstwd0fa8r https://t.co/LV3zLIqLam",99,3,36,2022-07-18
+485,2022-07-25 08:00:00+00:00,1551477351346831360,nashsocial,"Nash lets you grow your #money faster than a bank savings account, with higher interest rates powered by #crypto protocols.
+
+Get the app and add funds instantly from your existing bank account: https://t.co/llmrTaHbR4 https://t.co/5f6Za6lx30",72,6,13,2022-07-25
+486,2022-07-27 10:26:00+00:00,1552238868673576966,nashsocial,"Across Europe #inflation is on the rise. Prices are increasing and money is losing its value. What are the ways to use #investments to protect your savings and grow your wealth? Check out our guide to #crypto and more traditional options here.
+https://t.co/32dPumgwZ2",80,7,20,2022-07-27
+487,2022-08-01 08:00:01+00:00,1554014070633889793,nashsocial,"Nash is the easiest way to access #crypto and #DeFi. Connect your existing bank account with iDEAL, then add funds to high-interest earnings or buy #Bitcoin in a couple of taps.
+
+Get the app here: https://t.co/eDCRYjdFDY https://t.co/oLWmpnU4ci",90,5,16,2022-08-01
+488,2022-08-08 08:00:02+00:00,1556550790495571969,nashsocial,"Nash lets you grow your #money the modern way – with #crypto. Earn top interest rates on your #savings or invest in over 1,500 tokens, stored in our ultra-secure wallet.
+
+Get the app here: https://t.co/GCtUSZVl7k https://t.co/DMDJgczdNh",74,6,15,2022-08-08
+489,2022-08-09 08:00:00+00:00,1556913170824003584,nashsocial,What kind of investment is #cryptocurrency? Is it taken seriously? And can it help protect your #savings from inflation? Learn more in our handy guide. https://t.co/0LRn0lslIi,65,4,15,2022-08-09
+490,2022-08-11 11:36:01+00:00,1557692309680144384,nashsocial,"When a computer solves a puzzle, it can record a bundle of transactions to the chain within a single “block”. Solving these puzzles secures the chain. How? It’s quite simple, really.",21,1,2,2022-08-11
+502,2022-08-15 08:00:01+00:00,1559087501431787522,nashsocial,"Nash is rethinking the experience of #DeFi. Add funds to #crypto protocols straight from your existing bank account. No complex #blockchain transactions required. The best bit? We can never lock your funds. You’re always in control.
+
+Get the app here: https://t.co/uWE3M3Jt0A https://t.co/OVQR77Sreb",95,9,18,2022-08-15
+503,2022-08-16 09:31:00+00:00,1559472787777101827,nashsocial,"#Cryptocurrency is an investment for the long term. Day-to-day price action can be exciting for traders, but normal people are best thinking further ahead. So what are the best ways to build a long-term #crypto portfolio? Read our guide here. https://t.co/T6esmkv7Nh",66,2,10,2022-08-16
+504,2022-08-18 11:16:05+00:00,1560224005679992840,nashsocial,"3) Algorithmically. In this case, assets may not be backed at all. Their value is determined by adjustments to the currency supply. So far, this approach is still to prove reliable, with Terra’s unbacked $UST stablecoin imploding just a few weeks ago.",13,1,2,2022-08-18
+514,2022-08-23 08:00:01+00:00,1561986603274362883,nashsocial,"Staking #crypto on proof-of-stake chains is another way to earn money on your #investments. If you hold crypto long-term, why not put it to work? Read our guide to crypto staking here.
+
+https://t.co/sbAjrI02T5",57,6,13,2022-08-23
+515,2022-08-30 08:00:18+00:00,1564523392073596928,nashsocial,"Stablecoins are essential for decentralized #crypto trading. But how do they actually work? What keeps them stable? Check out our guide to learn more.
+
+https://t.co/JrrgNRriXI https://t.co/HhHxvEdx4s",48,2,7,2022-08-30
+516,2022-09-05 12:32:08+00:00,1566766125811208192,nashsocial,"Going further, blockchains could also be used to store information about your identity, allowing you to verify who you are without giving control of that data over to a single party.",18,1,0,2022-09-05
+527,2022-09-13 08:00:02+00:00,1569596755376803843,nashsocial,"#Crypto is a high-risk, high-reward #investment. But what can you do to mitigate your risks? Creating a balanced portfolio following simple rules like “80/20” is one way to protect yourself in a volatile marketplace. Learn more in our guide. https://t.co/iDo2RBP4FR",49,10,9,2022-09-13
+528,2022-09-14 08:00:02+00:00,1569959140260208641,nashsocial,"Nash is pleased to announce our integration with NEO3 @Neo_Blockchain
+
+You can now buy $NEO at market-leading rates and claim $GAS on the #NEO3 blockchain, all securely in your Nash self-custody wallet.
+
+Get the app here:
+https://t.co/HcA8hvXiWd https://t.co/SEDH4j5cmp",156,26,40,2022-09-14

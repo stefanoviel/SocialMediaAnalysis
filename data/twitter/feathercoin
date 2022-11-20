@@ -1,0 +1,233 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-20 22:04:17+00:00,1219380150820921344,Feathercoin,"Some Feathercoin clients are getting stuck, if your client is stuck please update to 0.18.2 available from the GitHub release page. https://t.co/B4IGKjQkMO #feathercoin",18,0,8,2020-01-20
+1,2020-02-12 17:34:18+00:00,1227647127385407488,Feathercoin,"Feathercoin 0.18.3 is released, but only creates a new testnet to be used for testing OmniLayer integration. If you are not planning on paricipating in testnet then there's no need to update. https://t.co/1dNhFm8d8R #feathercoin #omnicore #omnilayer
+
+@coinkit_
+ mon 2 200 $ftc",87,14,142,2020-02-12
+3,2020-02-18 15:19:12+00:00,1229787457719357442,Feathercoin,"OmniLayer for Feathercoin progressing on testnet. Created two smart properties Feather and FeatherT (test token), sent 100 FeatherT from one address to another, GUI displayed Omni TXs related to the addresses it holds. #feathercoin #omnilayer #omnicore
+
+@coinkit_ mon 2 100 $ftc https://t.co/RdSvRgH7Z2",56,5,91,2020-02-18
+4,2020-04-12 14:50:18+00:00,1249349127621795841,Feathercoin,"@yueyanbao You’re free to list me without even asking. If you need technical support, the forum on https://t.co/cdT1ZylWsA is your best bet.
+
+Happy Easter!",0,1,0,2020-04-12
+5,2020-04-16 11:20:33+00:00,1250745891901882369,Feathercoin,"Happy 7th Birthday Feathercoin. We launched in 2013, which makes us one of the older altcoins and one of the very few, from that time, that is keeping up-to-date with the latest upstream developments. 0.19 client will be available soon.
+
+@coinkit_ mon 5 200 $ftc",85,20,137,2020-04-16
+6,2020-08-06 16:27:35+00:00,1291410602779385857,Feathercoin,"Mandatory: Feathercoin 0.19 is out and considered mandatory due to changes to automatic checkpointing (ACP). The previous system is not 100% compatible with the new version, failure to update could leave users on the wrong chain in.
+
+https://t.co/tnVCIHID6d",37,2,15,2020-08-06
+9,2020-08-10 07:32:35+00:00,1292725518245285888,Feathercoin,"Mandatory update for Feathercoin. Asking everyone to upgrade their version of Feathercoin to 0.19.1 or one of the following updated versions if a legacy version is required: 0.13.3, 0.16.4, 0.17.1 and 0.18.4. #feathercoin #ftc https://t.co/tnVCIHID6d",13,0,9,2020-08-10
+10,2020-09-03 08:35:55+00:00,1301438765269909505,Feathercoin,"@coinkit_
+ mon 4 200 $ftc https://t.co/9ksNNhq02X",45,5,103,2020-09-03
+11,2020-10-29 14:45:28+00:00,1321825485706448897,Feathercoin,OmniFeather is progressing. C++ and Python unit tests are all updated and pass as expected. Last hurdle is porting the OmniJ testing framework before launch can be planned. #feathercoin #ftc,26,0,10,2020-10-29
+12,2020-11-12 13:39:39+00:00,1326882351796813824,Feathercoin,"OmniFeather now available. This adds OmniLayer to Feathercoin, the first non-Bitcoin blockchain to add it. The layer activates on block 3,454,000 (~9th Dec), tokens can then be created and traded on the native DEx. #feathercoin
+
+https://t.co/YE0OZP9rMP
+
+@coinkit_ mon 5 400 $ftc",93,76,252,2020-11-12
+13,2020-11-13 10:14:22+00:00,1327193080047538176,Feathercoin,"@coinut_exchange @WilliamMcGirr See the release here for OmniLayer for Feathercoin. This adds the same asset layer to Feathercoin that is host to assets like Maidsafe and Tether on Bitcoin. #feathercoin
+
+https://t.co/YfQ1wg4ILG",6,0,0,2020-11-13
+14,2020-11-16 16:59:40+00:00,1328382239781089280,Feathercoin,"OmniFeather website now live with usage guides, additional guides added soon.
+
+33,232 blocks until OmniLayer for Feathercoin is activated.
+
+https://t.co/QqA87NWUwX
+
+@coinkit_ mon 4 200 $ftc",71,11,122,2020-11-16
+15,2020-11-19 17:39:57+00:00,1329479541820100611,Feathercoin,OmniFeather Guide - Create a smart property with a fixed supply #feathercoin #ftc https://t.co/v9x5aKiqmE,16,1,8,2020-11-19
+16,2020-11-25 17:07:14+00:00,1331645633128706048,Feathercoin,"OmniFeather introductory video.
+
+https://t.co/fD8Xppr2Di
+
+#feathercoin #ftc #omnifeather
+
+@coinkit_ mon 5 380 $ftc",88,20,230,2020-11-25
+17,2021-01-22 08:28:25+00:00,1352533567339966470,Feathercoin,#feathercoin is happy to present you its 2021 #roadmap. Join the $ftc community today ! https://t.co/y4JU57soVz,11,1,5,2021-01-22
+21,2021-01-23 19:22:43+00:00,1353060611395964928,Feathercoin,Thank you #bittrex for supporting #feathercoin since 2014! $ftc https://t.co/CIUabfkwQs,21,1,8,2021-01-23
+24,2021-01-24 11:16:32+00:00,1353300648586973184,Feathercoin,In 2013 #feathercoin was on 6th place by Market Cap during 18 weeks while #bitcoin #litecoin and #ripple at the podium. $ftc #altseason https://t.co/rBG9xRQfAg,25,5,8,2021-01-24
+28,2021-01-25 08:59:37+00:00,1353628580304007168,Feathercoin,"We wish the whole #feathercoin community a very good day.
+You are already 21,600 Twitter followers and it is growing!
+THANK YOU
+$ftc #altseason https://t.co/mgtSwIrZ0r",27,2,8,2021-01-25
+30,2021-01-27 08:23:07+00:00,1354344172568924160,Feathercoin,"In crypto, #marketcap is even more important than #price. #feathercoin is valued more than $3 millions. $ftc #altseason https://t.co/6hOUnlxWDI",11,1,7,2021-01-27
+31,2021-01-28 17:59:15+00:00,1354851547608440834,Feathercoin,#feathercoin is on a free market. Even more than the big names of crypto. $ftc #freemarket #altseason https://t.co/MqqPpShxPK,17,2,7,2021-01-28
+33,2021-01-29 08:43:03+00:00,1355073962728972288,Feathercoin,https://t.co/deu4RwCjIc,11,0,6,2021-01-29
+35,2021-01-30 12:03:50+00:00,1355486879597146114,Feathercoin,#feathercoin news feed will be soon available on @blockfolio. $ftc #altseason https://t.co/Lmuqx5whZ0,16,1,6,2021-01-30
+39,2021-01-31 09:24:28+00:00,1355809160596574208,Feathercoin,Join the #feathercoin conversation today. $ftc #altseason @twitter @telegram @instagram https://t.co/i1hNfqCRtx,15,1,7,2021-01-31
+41,2021-02-03 13:06:10+00:00,1356952118696030209,Feathercoin,https://t.co/wRy9kaZZ4V,11,0,5,2021-02-03
+43,2021-02-04 12:55:14+00:00,1357311754422923270,Feathercoin,https://t.co/ofZea161L3,4,1,3,2021-02-04
+46,2021-02-05 12:53:33+00:00,1357673717338357762,Feathercoin,#feathercoin has a wide adoption. 30+ countries on the wallets map. $ftc #altseason #international https://t.co/P2XRhIY1Vp,19,2,8,2021-02-05
+48,2021-02-06 12:50:34+00:00,1358035353622482944,Feathercoin,"Since 2013 @bushstar, the founder of #feathercoin is leading Feathercoin Developement. 2021 will bring New features such as #NFT support on #omnifeather layer. $ftc #altseason https://t.co/i73g4CZkpM",22,1,9,2021-02-06
+50,2021-02-10 14:43:24+00:00,1359513301529600003,Feathercoin,#feathercoin $USD price on February 10th over the last 4 years. #powerofcycles $ftc #altseason https://t.co/gOufVRcKHg,16,0,6,2021-02-10
+51,2021-02-15 15:53:48+00:00,1361342956666462211,Feathercoin,How are you protecting your #wealth against #inflation ? Join the #feathercoin community today. $ftc #altseason https://t.co/EvrC9fYmRi,24,0,9,2021-02-15
+52,2021-02-16 17:54:21+00:00,1361735682675208193,Feathercoin,#feathercoin #github account has been officially verified. We are preparing a wider #recognition. $ftc #altseason https://t.co/aS6Xg2lQh5,33,0,11,2021-02-16
+53,2021-02-17 12:16:11+00:00,1362012967873740801,Feathercoin,"Join the #feathercoin #telegram #community today ! 100 FTC in total will be rained everyday to the 20 most active users.
+
+https://t.co/qpDsuKt140.
+
+$ftc #altseason #Bitcoin https://t.co/ziXVxmyLFh",22,2,9,2021-02-17
+54,2021-02-18 15:00:03+00:00,1362416594396266501,Feathercoin,"100 Feathercoin will be rained daily on the top 20 currently active Telegram users for the next 29 days. Join now to participate.
+
+https://t.co/qpDsuKt140
+
+#feathercoin #Bitcoin #altseason #telegram
+
+@coinkit_ mon 2 200 $ftc",58,6,87,2021-02-18
+55,2021-02-20 13:00:47+00:00,1363111354832461826,Feathercoin,"The #feathercoin team is happy to present the updated 2021 #roadmap. #NFT coming sooner. Core Wallet will skip #bitcoin 0.20 updating to 0.21 and many more!
+
+Join our #telegram #community
+
+https://t.co/qpDsuKt140
+
+Daily giveaway of 100 $ftc
+
+#altseason #altcoin https://t.co/TSPedWzLlu",35,0,18,2021-02-20
+56,2021-02-24 15:50:12+00:00,1364603544590950406,Feathercoin,#NFT coming soon. See the latest details provided by @bushstar. Join us https://t.co/d3g6LOrwni. $ftc #altseason #bitcoin #omnilayer https://t.co/a93uJP1EyH,14,1,6,2021-02-24
+60,2021-03-06 11:09:52+00:00,1368156871761268736,Feathercoin,"Do you know that #Feathercoin could be traded on @AtomicDEX ?
+AtomicDEX is a secure wallet and non-custodial decentralized exchange. No KYC; secure swap with #Bitcoin, #Litecoin, #Ethereum and many more. https://t.co/BxscjIXGZr https://t.co/hSrsKNpSqC",50,1,21,2021-03-06
+61,2021-03-07 15:13:19+00:00,1368580526840279042,Feathercoin,"#NFT available in TEST! Another great step for the #feathercoin ecosystem. Thank you @bushstar.
+$ftc #altseason https://t.co/COZvjrNhuM",24,1,10,2021-03-07
+62,2021-03-14 08:57:20+00:00,1371022622083969029,Feathercoin,"Feathercoin adds Non-Fungible Token support on OmniFeather, the asset layer that runs on top of the Feathercoin blockchain. This feature becomes active in approx. 4 weeks time on block 3,624,000.
+
+https://t.co/n7ac9I9fpl
+
+@coinkit_ mon 2 400 $ftc",153,24,258,2021-03-14
+64,2021-04-16 06:23:47+00:00,1382942780067086339,Feathercoin,"Happy 8th Birthday Feathercoin
+
+#feathercoin #omnifeather #omnilayer
+
+@coinkit_ mon 2 150 $ftc https://t.co/mCPQwA24uB",87,24,127,2021-04-16
+65,2021-05-06 16:11:27+00:00,1390338429834211329,Feathercoin,"CoinKit launches a mobile wallet that supports Feathercoin, available on iOS and Android. #feathercoin https://t.co/4wYqRH2GB3",20,1,8,2021-05-06
+66,2021-05-16 11:05:26+00:00,1393885298036199424,Feathercoin,"API now available for OmniFeather allowing sites and services to integrate OmniFeather tokens.
+
+https://t.co/9GuTNAAVm6
+
+#feathercoin #omnilayer",30,2,8,2021-05-16
+67,2021-05-29 10:49:38+00:00,1398592363900059653,Feathercoin,"OmniFeather 0.9.2 has been released with several improvements to NFT handing, couple of bug fixes and removal of the hard coded asset Feather for improved compatibility with external libs and services. #feathercoin #nft #bitcoin
+
+https://t.co/wzKXX4s58p",34,2,9,2021-05-29
+68,2021-08-01 07:36:15+00:00,1421736519354785794,Feathercoin,"The second #halving in #feathercoin history is coming soon. Stay tuned.
+
+#FTC #altcoin https://t.co/Z64ihjAIoh",31,2,14,2021-08-01
+70,2021-08-04 12:20:41+00:00,1422895262482288643,Feathercoin,"Do you know that unlike #bitcoin, #BSV and many other coins, #feathercoin is protected against 51% attack?
+
+#ftc $ftc #51attack #attack https://t.co/sriUTJ23PA",30,1,9,2021-08-04
+71,2021-08-05 17:15:47+00:00,1423331915734601728,Feathercoin,"Updated #feathercoin roadmap is out!
+Omnifeather explorer will be released very soon.
+Core Wallet will go straight to V0.22 including #bitcoin #taproot feature.
+
+🪶🪶🪶Exciting times ahead!🪶🪶🪶
+
+Thank you @bushstar for the amazing work.
+
+$ftc #ftc #altcoins https://t.co/zEAz7SHLX4",32,2,14,2021-08-05
+72,2021-08-08 07:35:08+00:00,1424272952393179141,Feathercoin,@64thDimension @get_delta We will be looking at it! Thank you @64thDimension,0,0,0,2021-08-08
+73,2021-08-20 17:21:48+00:00,1428769249468862472,Feathercoin,"@BakedLiger Hey, join our telegram channel get support: https://t.co/qpDsuKt140",0,0,0,2021-08-20
+74,2021-08-21 19:46:02+00:00,1429167931443879938,Feathercoin,"Dear #Feathercoin community 🪶🪶🪶
+
+Our second #halving will happen in 64 days and the team is very excited.
+
+Join us on Telegram to follow the latest news from inside our community driven #altcoin.
+
+https://t.co/qpDsuKt140
+
+$ftc #ftc #bitcoin #altseason https://t.co/krEQ6cksc1",38,2,16,2021-08-21
+75,2021-09-25 14:31:25+00:00,1441772331072991237,Feathercoin,"A gentle reminder to the #cryptocommunity 🚀
+
+The #feathercoin 🪶second #halving ⛏️will happen in just 1 month.
+
+Join us on Telegram to follow the latest news from inside our community driven #altcoin.
+
+https://t.co/qpDsuKt140
+
+$ftc #ftc #bitcoin #altseason https://t.co/AmKdN3u6IC",40,45,13,2021-09-25
+76,2021-10-15 19:32:51+00:00,1449095949482176515,Feathercoin,"#Feathercoin #Halving Day -10.
+
+Our second halving since 2013! ⛏️⛏️
+
+Join our community today and live with us those 10 amazing days!
+
+$ftc #bitcoin #litecoin #omnifeather https://t.co/lNzAwv8Myn",25,2,19,2021-10-15
+77,2021-10-16 16:27:50+00:00,1449411773455548416,Feathercoin,"251,467,038 $FTC already mined out of a maximum of 336,000,000.
+
+9 days before the second Feathercoin #halving. ⛏️⛏️
+
+$ftc #bitcoin #omnifeather https://t.co/1pRgkQxM5X",26,3,13,2021-10-16
+78,2021-10-17 14:14:20+00:00,1449740564426014720,Feathercoin,"74.86% #feathercoin already mined.
+Meaning 85 Million $FTC remaining for #miners.
+
+8 days before the second Feathercoin #halving. ⛏️⛏️
+
+$ftc #bitcoin #omnifeather
+
+@BittrexExchange @Crex_24 @EdgeWallet @binance 
+@coinbase @bitfinex https://t.co/kCz7Rmnjzz",27,1,12,2021-10-17
+79,2021-10-18 19:01:47+00:00,1450175291750506500,Feathercoin,"#Feathercoin hashrate was 3.276 GH/s in average over the last year.
+Equivalent to 1250 #Nvidia 2080Ti.
+
+🔊7 days before the second #halving. ⛏️⛏️
+
+$ftc #bitcoin #omnifeather
+
+@BittrexExchange @Crex_24 @EdgeWallet @binance @bitfinex @nvidia
+
+@coinkit_ mon 2 200 $ftc https://t.co/SA7mZJ1UA9",109,27,184,2021-10-18
+80,2021-10-19 17:50:27+00:00,1450519729328869379,Feathercoin,"83,999,920 $FTC is the total of #feathercoin mined at a rate of 40 FTC per minute.
+
+🔊6⃣ days before the second #halving. ⛏️⛏️
+
+$ftc #bitcoin #omnifeather #altcoins 
+
+@BittrexExchange @Crex_24 @EdgeWallet @binance @coinbase @bitfinex 
+
+@coinkit_ mon 2 200 https://t.co/pWGX3HBH5w",45,4,53,2021-10-19
+82,2021-10-20 14:59:06+00:00,1450838993994670082,Feathercoin,"We celebrate #bitcoin #alltimehigh just 5⃣ days before #feathercoin #halving. ⛏️⛏️
+
+$ftc #altcoins #omnifeather #altseason
+
+@BittrexExchange @Crex_24 @EdgeWallet @binance @bitfinex
+
+@coinkit_  mon 2 200 $ftc https://t.co/QGbll6686N",84,30,115,2021-10-20
+83,2021-10-21 08:48:21+00:00,1451108079848853507,Feathercoin,"The average #feathercoin block time is 62.5 seconds.
+After #halving ~27,700 FTC will be created per day for a current value of 729$ per day. ⛏️⛏️
+
+$ftc #altcoins #omnifeather #altseason
+
+@BittrexExchange @Crex_24 @EdgeWallet @binance @bitfinex
+
+@coinkit_ mon 2 200 $ftc https://t.co/Rcob3cAGoh",74,10,187,2021-10-21
+84,2021-10-22 09:00:32+00:00,1451473535193567264,Feathercoin,"Last #feathercoin #halving was on July 10th 2017.
+#hashrate fallen by 50% over the next few days.
+(from 3 GH to 1.5 GH)
+What about next week? ⛏️⛏️⛏️
+
+$ftc #altcoins #omnifeather #altseason
+
+@BittrexExchange @Crex_24 @EdgeWallet @binance @bitfinex
+
+@coinkit_ mon 2 200 $ftc https://t.co/84a6s9j7u5",89,20,192,2021-10-22
+85,2021-10-23 07:15:37+00:00,1451809521635110913,Feathercoin,"84 Million is the total of #Feathercoin remaining to mine after the #halving.
+This is the same number as the total of FTC mined since the last halving. ⛏️⛏️
+
+$ftc #altcoins #omnilayer #altseason
+
+@BittrexExchange @Crex_24 @EdgeWallet @binance @bitfinex
+
+@coinkit_ mon 2 200 $ftc https://t.co/vjPcKSK2a9",87,19,158,2021-10-23
+86,2021-10-25 05:10:02+00:00,1452502693314977795,Feathercoin,"HAPPY #Feathercoin  #Halving 🎉🎉🎉
+
+🪶🪶🪶   🪶🪶🪶
+          🪶   🪶     🪶
+🪶🪶🪶   🪶     🪶
+🪶             🪶      🪶
+🪶🪶🪶   🪶🪶🪶
+
+20 $FTC per block going forward!
+@bushstar 
+#ftc #altcoin #bitcoin #altseason
+
+@coinkit_ mon 2 200 $ftc",140,26,162,2021-10-25
+87,2021-12-03 07:02:43+00:00,1466664176445636609,Feathercoin,"Bittrex has just opened a new Tether pair for Feathercoin (FTC-USDT) 
+
+https://t.co/AzmhRnMzdm #feathercoin",36,14,9,2021-12-03

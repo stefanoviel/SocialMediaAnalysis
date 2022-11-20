@@ -1,0 +1,47 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2021-01-15 17:11:44+00:00,1350128549043253248,Sia__Foundation,@SiaStats @SiaTechHQ Thanks @SiaStats for putting this valuable educational resource on the fork together 🙏,7,0,0,2021-01-15
+1,2021-05-17 23:36:15+00:00,1394436635614400514,Sia__Foundation,"Sia is building the leading #decentralized #cloudstorage platform for the world. With partners like @StoreWiseHQ, @Filebase, and @SkynetLabs- what could you build on a free internet?",164,5,34,2021-05-17
+2,2021-06-05 19:09:59+00:00,1401254996977586179,Sia__Foundation,"Great analysis and visualization from SiaStats, as usual. 🙂 So far, it seems the only significant impact of this attack has been to demonstrate the resilience of the network and the strength of the Sia community! https://t.co/FeZN2aZuaj",216,1,56,2021-06-05
+3,2021-06-11 16:25:16+00:00,1403387868089782274,Sia__Foundation,Great to see more people getting on board! https://t.co/Yyx70LGFsq,120,3,31,2021-06-11
+4,2021-06-15 15:02:16+00:00,1404816532056707074,Sia__Foundation,"Yesterday at 4:00PM ET the Sia network surpassed 1.00 PB of used storage. Thanks to the hard work and dedication from everyone on the @Sia__Foundation and @SkynetLabs teams, as well as our other partners! Here's to a great future and towards our next goal: 100 PB! https://t.co/MUECKtiBHL",286,19,70,2021-06-15
+5,2021-06-22 17:06:55+00:00,1407384616336609281,Sia__Foundation,"A slightly-less-technical summary of Luke's recent blog post :)
+https://t.co/kjl4kxAW5Y",53,1,13,2021-06-22
+6,2021-07-01 17:45:29+00:00,1410655814294118403,Sia__Foundation,Our Q2 report is now available: https://t.co/9zrEKMIkf0,127,3,30,2021-07-01
+7,2021-07-09 22:32:08+00:00,1413627053539270658,Sia__Foundation,@gitcoin now supports Sia! Participating projects can now pay bounties for PRs and bug reports in Siacoin :) https://t.co/qSR56OnsCj,70,1,22,2021-07-09
+8,2021-08-04 20:18:53+00:00,1423015604118827016,Sia__Foundation,"A congressional bill has been proposed which substantially inhibits the ability of developers to build #cryptocurrency applications and #dapps from the US.
+Call your rep. using the instruction below. https://t.co/scjNr8Fjyl",54,3,17,2021-08-04
+9,2021-08-21 18:06:18+00:00,1429142835735957507,Sia__Foundation,We're excited to see what David and the Skynet team are building with the technology that Sia enables! https://t.co/XglskZmKIV,110,4,23,2021-08-21
+11,2021-09-16 16:10:49+00:00,1438535854960566274,Sia__Foundation,@Ed_Cravo Hello! We hire both US and International employees!,0,0,0,2021-09-16
+16,2021-09-19 20:25:57+00:00,1439687225206349826,Sia__Foundation,"@GmiSystem @Steven_McKie @SkynetLabs @DavidVorick @HNSOSS Yep, we're working on revamping the website right now so some small things are a bit out of date and inaccurate.",3,1,0,2021-09-19
+17,2021-09-20 09:13:13+00:00,1439880316781486084,Sia__Foundation,@cryptorianpanda Ledger Live integration is decided solely by Ledger themselves,1,2,0,2021-09-20
+21,2021-09-21 22:15:25+00:00,1440439550120116231,Sia__Foundation,"Sia 1.5.7 is out now with scalability improvements for hosts, an updated peer list to improve the initial syncing experience, and various other fixes. Update your wallets and hosts now from our official site at https://t.co/j1mRCiynDr or from our GitHub at https://t.co/pqTY585IXH",97,4,22,2021-09-21
+22,2021-10-02 02:17:11+00:00,1444124269970141190,Sia__Foundation,Our 2021 Q3 Transparency Report has been published! https://t.co/cnKpn6Hx0B,103,5,20,2021-10-02
+23,2021-10-19 23:00:16+00:00,1450597695383654404,Sia__Foundation,There's an exciting guest post by Robin Letourneur from @arzenHQ on our blog that gives you a step-by-step on how you can use Arzen to build #NFS datastores for #vSphere HA clusters on #Sia. You can read more here: https://t.co/ln2IPCrbwa,77,5,13,2021-10-19
+24,2021-11-18 02:35:57+00:00,1461161225585414147,Sia__Foundation,"We are still accepting applications for our Developer Evangelist position!
+Your role will help support developers building projects on Sia and communicate the power of the Sia platform to the world
+Apply at https://t.co/WOJnyZBbqW",124,6,24,2021-11-18
+25,2021-11-21 07:25:48+00:00,1462321331534536704,Sia__Foundation,Sia has just passed 2PB of used #decentralized #cloudstorage! 🚀 Just 5 months ago we passed our first PB. You can see more #Sia statistics at https://t.co/SY7X0fnI7S https://t.co/XZvtFFdFuV,485,44,127,2021-11-21
+26,2021-11-22 16:39:42+00:00,1462823111410204682,Sia__Foundation,"@jgarzik @DavidVorick (1/2) We're glad you agree! I can answer some of your questions, but the Skynet team will know better.
+1: At one point we knew of 10 public portals, though some are offline now. The private portal count is unknowable
+2: Profitability is based on the operator's business strategy",39,1,2,2021-11-22
+29,2021-11-25 00:30:22+00:00,1463666334600937477,Sia__Foundation,"@StuartReid1929 @nlauchande @NosibleAI @Filebase Hello!
+According to https://t.co/Mzfqtvginq we're currently at about 5PB available with even more available as ""shadow"" capacity, based on how Available Capacity fluctuates in sync with Used Capacity.",18,1,4,2021-11-25
+30,2021-12-26 15:39:59+00:00,1475129270729125904,Sia__Foundation,Happy Holidays from the Sia Team to you and your families! https://t.co/svCzLVxkyz,204,15,22,2021-12-26
+31,2022-01-02 03:50:21+00:00,1477487401253715969,Sia__Foundation,Happy New Year from the Sia Team! Our 2021-Q4 report is now available at https://t.co/DcNQACrPBr https://t.co/acrYaESnF8,180,20,30,2022-01-02
+32,2022-01-19 18:49:33+00:00,1483874285643091971,Sia__Foundation,"@serioushodler 6 of the 10 pairs listed are BNB coin pairs, this is not a Siacoin problem. ETH is listed 3 times, guess they're doing worse than we are?",2,0,1,2022-01-19
+33,2022-01-24 18:00:24+00:00,1485673858036346886,Sia__Foundation,"@web3index Thank you for adding us!
+And thanks to @SiaStats for putting the work in to get it done!",43,0,5,2022-01-24
+34,2022-02-17 18:15:16+00:00,1494374904686333953,Sia__Foundation,"With all the initial feedback and discussion taken into account, we've posted an update regarding the Foundation's Budget plans for the next 4 years:
+https://t.co/zAZuHtP3Lx",63,9,10,2022-02-17
+35,2022-03-31 18:29:20+00:00,1509598737089372160,Sia__Foundation,"We just released Embarcadero, a tool for conducting trustless #Siafund &lt;-&gt; #Siacoin swaps. Check out our blog post about it! https://t.co/H06Pj24wJn",109,11,26,2022-03-31
+36,2022-04-01 19:12:39+00:00,1509972025258954762,Sia__Foundation,"Our 2022 Q1 Transparency Report has been published!
+https://t.co/HRFpgrzNUU",80,6,21,2022-04-01
+37,2022-05-07 00:57:48+00:00,1522742461990383619,Sia__Foundation,"We just updated and refreshed our #website with a new design that draws from both retro computing and the natural world. @alexfreska spearheaded this project and did an outstanding job!
+Check it out at https://t.co/7sjFEGPg71",161,30,30,2022-05-07
+38,2022-06-04 03:42:08+00:00,1532930677930328065,Sia__Foundation,Sia has launched v1.5.8 which fixes a few key issues like contract lock-ups and enables IP blocking. You can download the latest version from https://t.co/DCLHpsOVIH and read the full changelog here: https://t.co/VrXJ80HaCi,70,3,15,2022-06-04
+39,2022-06-07 10:22:19+00:00,1534118548003606531,Sia__Foundation,"The #Sia network passed 3000 TB of used #cloud #storage this morning! With a growing 7500 TB of capacity, and v2.0 with #Utreexo well underway, we're excited to continue this growth in the second half of this year! https://t.co/mdaIZfxGF9",345,15,81,2022-06-07
+45,2022-07-02 13:00:02+00:00,1543217935820492800,Sia__Foundation,Our 2022 Q2 Transparency Report has been published! Lots of updates and news this quarter! https://t.co/as1KfPeys2,50,8,3,2022-07-02
+46,2022-08-13 01:05:25+00:00,1558258386449453056,Sia__Foundation,"This is disheartening news- the team at Skynet Labs has worked incredibly hard, and their impact on the Sia ecosystem as a whole is immeasurable. We'll be working with Skynet Labs to ease this transition and keep talent within the ecosystem. https://t.co/qmheUxWZUQ",76,18,17,2022-08-13
+48,2022-08-26 03:53:06+00:00,1563011629523951616,Sia__Foundation,"Great news for hosts! Today we began our main-net stress tests for the #Sia v2 renter module. This will be a continuous, long-term test as we aim to evaluate its scaling performance.",113,5,21,2022-08-26
+50,2022-08-29 19:42:16+00:00,1564337658511474689,Sia__Foundation,@xinvestorcom 🎉,5,1,0,2022-08-29
+51,2022-09-07 20:37:20+00:00,1567613006888009728,Sia__Foundation,"A warm welcome to Steve as he joins the #SiaFoundation! Previously having worked with #Sia at Nebulous before it became Skynet Labs, we're excited to have his experience on the team!",70,7,10,2022-09-07

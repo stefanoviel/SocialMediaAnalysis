@@ -1,0 +1,670 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-08 10:29:23+00:00,1214856619340812294,raiden_network,"Happy New Year to all! A new episode of the Raiden Pulse covering what we’ve been up to over the last two months is now out.
+
+https://t.co/h5rBWxD74n",28,1,13,2020-01-08
+1,2020-01-13 11:56:52+00:00,1216690573479960576,raiden_network,"We're celebrating the 100th issue of our weekly update format this week. 🎉 Thank you for your great on-going contributions @B0R444 &amp; @mat77ias! 🖤
+As always, hop over to Reddit to find...
++ Summary of lastest Raiden Pulse 
++ Development updates
+and more.
+https://t.co/fVoZlx7JT2",23,2,10,2020-01-13
+2,2020-01-20 13:43:47+00:00,1219254196983287810,raiden_network,"Check out the latest weekly Raiden update on Reddit, this time featuring...
++ Raiden community updates: @exchange_union releases XUD v1.0.0-beta
++ Development updates: optimizing client sync times, new services version, light client progress
+https://t.co/VlQwTTxN5m",23,0,8,2020-01-20
+3,2020-01-27 15:37:37+00:00,1221819555632291840,raiden_network,"Raiden's Weekly Development Update 102 is live on Reddit!
+This week the dev team worked on...
+⏳ Synchronization improvements
+📨 Improved handling of protocol messages
+📝 Upgrading Raiden client, services &amp; light client to latest Raiden Contracts, v0.35.0.
+https://t.co/yZwMdKYIQw",15,0,6,2020-01-27
+4,2020-02-03 10:37:55+00:00,1224280851804053504,raiden_network,"Raiden's Weekly Development Update 103 is live on Reddit!
+This week the team worked on...
+🗒️ Expanding logging
+⛓️Improving testing infrastructure
+📊Profiling tools 
+https://t.co/3sheeRqsFQ",21,2,8,2020-02-03
+5,2020-02-10 15:26:19+00:00,1226890142205534209,raiden_network,"A new Monday calls for a new Raiden update on Reddit! 
+This time featuring...
+🧪🔮 Intro to Raiden's testing infrastructure &amp; the Scenario Player
+🔊Intro to the Echo Node
+🪐 Development towards Alderaan milestone
+📲 Light Client updates &amp; optimizations
+https://t.co/K3umktCNvP",18,1,4,2020-02-10
+6,2020-02-17 18:30:33+00:00,1229473221042483207,raiden_network,"New week, new Raiden Weekly 💪
+This weekly features...
+🌜Niglty builds
+✨WebUI improvements
+🎤EthCC coming up
+https://t.co/1AjFCVAbWv",11,0,3,2020-02-17
+7,2020-02-24 12:20:19+00:00,1231916765229264896,raiden_network,"Last Raiden Weekly of February is out. This week featuring
+📚 Web3 library updates
+💎 UI updates
+🖤 General client quality of life improvements
+🐛 Continued bug fixing
+https://t.co/UcjIlObLdo",18,1,6,2020-02-24
+8,2020-03-02 14:04:20+00:00,1234479656096665600,raiden_network,"We're on our way to @EthCC_! We're looking forward to seeing old friends, as well as making new ones. 🖤
+On Thursday morning at 09.30 @kelsos86 and @_czepluch will be doing a workshop around the Raiden Light Client. Come check it out! 💪🎤",20,0,7,2020-03-02
+9,2020-03-04 15:46:13+00:00,1235230070832353290,raiden_network,"Don't forget that @_czepluch and @kelsos86 are doing a light client workshop at @EthCC_ tomorrow at 09.30 in Pontoise. It might be early, but we promise that we will be showing some interesting things and make it worth your while if you manage to get out of bed! 🕤",13,0,9,2020-03-04
+10,2020-03-05 08:30:04+00:00,1235482697927208960,raiden_network,We're about to start our hands on workshop for the Raiden Light Client in the Pontoise room at @EthCC_. There are nice croissants and coffee available just outside the room!,22,4,6,2020-03-05
+11,2020-03-09 12:03:27+00:00,1236985951337033728,raiden_network,"Check out the new Raiden Weekly! This week with main focus on...
+🎤EthCC workshop 
+🗒️ Scenario player improvements
+https://t.co/P07JXJC7bm",9,0,2,2020-03-09
+13,2020-03-16 12:34:00+00:00,1239530352626085888,raiden_network,"Monday means a new Raiden Weekly. This week's post covers...
+📑 Summary of the tenth Raiden Pulse
+📝 Refactoring of the Scenario Player
+We hope you're all staying healthy and taking your precautions in these trying times! 🖤
+https://t.co/7yMdEwijmg",10,1,4,2020-03-16
+14,2020-03-23 11:44:26+00:00,1242054597616832513,raiden_network,We had a lot of fun at #ETHVR0 yesterday! @_czepluch gave a presentation that showed the light client running on a smart phone through @metamask_io. Thanks for a cool venue and event @ethereumvr! Recording of the event is available here: https://t.co/2DOp6Lf8rg,20,2,9,2020-03-23
+15,2020-03-30 15:20:29+00:00,1244645682612445185,raiden_network,"New Raiden Weekly is out. This week covering:
+🚥 Easy hub integration in the Light Client
+⚠️ Release Candidate 3 has been released for Alderaan
+https://t.co/CtlblG3lLW",12,0,5,2020-03-30
+17,2020-04-03 11:01:38+00:00,1246030089747398657,raiden_network,"We are very excited to not only speak at, but also to sponsor #noncon2020. A big thanks to the organizers for getting everything planned and ready in such a short period of time!
+Catch @_czepluch presenting about Raiden on Saturday at 15:10 GMT+2
+https://t.co/cBNtneE3TB",17,0,9,2020-04-03
+18,2020-04-04 12:04:02+00:00,1246408183486263297,raiden_network,"In just one hour, Jacob will be presenting in the Parallel Society room at #noncon2020. Talk starts at 15.10 CEST. 
+https://t.co/RPzxg3dvB8",13,0,2,2020-04-04
+19,2020-04-06 13:49:20+00:00,1247159456821121024,raiden_network,"The Raiden Trust announced it’s first grant of 100k USD worth of RDN to PISA (@anydotcrypto).
+https://t.co/DGuGAnK0aY",27,1,8,2020-04-06
+20,2020-04-20 12:30:36+00:00,1252213075769544705,raiden_network,"Raiden Weekly 114 is out. This week covering:
+🛡️ Alderaan test plan underway
+🐞 Bugs are being fixed, which results in new RCs
+🍃 Light client progress for receiving and mediating transfers
+https://t.co/houTrsEdkC",14,0,5,2020-04-20
+21,2020-04-23 13:14:07+00:00,1253311188009734144,raiden_network,Watch or re-watch Jacob's presentation from #noncon2020 ! https://t.co/AialKtvqVj,7,0,3,2020-04-23
+22,2020-04-27 11:41:29+00:00,1254737427794669569,raiden_network,"Raiden Weekly #115 is out. This week featuring:
+🚢 RC testing towards Alderaan mainnet release continues
+🏎️ New Light Client release with fast WebRTC transport layer
+🧙‍♂️ Raiden Wizard improvements for Alderaan
+
+https://t.co/7MEkJkxTBO",12,0,4,2020-04-27
+23,2020-05-04 11:45:43+00:00,1257275209335418881,raiden_network,"It's Monday, which means a new Raiden Weekly is out! This week covering:
+🌕 More testing towards Alderaan
+🧙 Continued improvements to the Raiden Wizard
+🔎 Monitoring Service integration in the Light Client
+https://t.co/5ht0J5IrpN",16,1,7,2020-05-04
+24,2020-05-08 10:20:53+00:00,1258703410553131008,raiden_network,Raiden Pulse for March and April is out: https://t.co/WF6vEdL9Ts,17,0,6,2020-05-08
+25,2020-05-11 13:57:30+00:00,1259845087393169411,raiden_network,"It's a new week and Raiden Weekly #117 is out. This week covering:
+🆕 Raiden Pulse #11
+⛰️ Increased client robustness for chain congestion and unstable gas prices
+⚗️ Experimental features added to new light client testnet release
+https://t.co/apm5hmraCW",14,0,4,2020-05-11
+26,2020-05-18 11:45:43+00:00,1262348639483158529,raiden_network,"Monday means a new Raiden Weekly. Raiden Weekly #118 features:
+🚦 API endpoint for properly shutting down Raiden
+🧙‍♀️ Raiden Wizard is being polished
+🧚‍♂️ New Light Client testnet release
+https://t.co/v0zC5BouVe",14,0,3,2020-05-18
+27,2020-05-25 12:19:38+00:00,1264893887946072065,raiden_network,"Another Monday means another Raiden Weekly. This week featuring:
+👷‍♀️ More mainnet testing
+📝 Updating docs and specification
+💫 The Raiden Wizard refactoring is close to completion
+https://t.co/w5MBv0pGTq",16,0,6,2020-05-25
+28,2020-05-27 15:36:38+00:00,1265668242632253442,raiden_network,The Alderaan release of the Raiden Network is now deployed to the Ethereum mainnet! Take a look at the release blogpost for a detailed explanation of new features since the last mainnet release and how to get started with Raiden: https://t.co/N2vcrA7yoF,217,40,66,2020-05-27
+29,2020-05-29 11:54:40+00:00,1266337159792992256,raiden_network,💪DAI Token Network: Participate in the DAI network to send DAI quickly and without having to pay the on-chain transaction fees. Check out the current stats for the DAI network here: https://t.co/n41wAkevui,15,1,3,2020-05-29
+38,2020-06-04 14:25:55+00:00,1268549547900514304,raiden_network,"Raiden be presenting at @cognition_x on June the 9th at 18.00 London time (UTC +1). We'll be talking about how users don't have to worry about high gas prices, when using Raiden for transfers. Links to the stream, will be shared when available. https://t.co/ZNev6OL2If",26,0,10,2020-06-04
+39,2020-06-05 12:36:56+00:00,1268884510076264448,raiden_network,"Blogpost describing the Bug Bounty for the Alderaan release of the Raiden Network. A total worth of $200,000 has been put in the bounties pot! https://t.co/gdX98ez9nR",19,0,8,2020-06-05
+40,2020-06-08 14:01:06+00:00,1269992853595475968,raiden_network,"New Monday, new Raiden Weekly. Raiden Weekly 121 is out. This week featuring:
+🗣️ Dominik will present at CogX
+🐞 Blogpost about the Alderaan bug bounty has been released
+⛲ New WebUI is being tested
+🍃 Light client continues work towards mainnet
+https://t.co/cr9JCNus6w",27,1,10,2020-06-08
+41,2020-06-09 15:58:36+00:00,1270384811627216907,raiden_network,@Domi20003 @cognition_x Live stream will be available here: https://t.co/2fBeDXO9hQ,12,1,3,2020-06-09
+43,2020-06-12 14:33:39+00:00,1271450598555160577,raiden_network,"On Monday the Protect Privacy @gitcoin hackathon starts. Raiden will participate with two interesting bounties. For a sneak peak of what the bounties will be, take a look at https://t.co/wiBB3tHaBV and https://t.co/RjJICFUItg. 
+Sign-up here: https://t.co/tDLUgCSah5 💪🖤",19,0,7,2020-06-12
+45,2020-06-15 10:19:04+00:00,1272473692321320962,raiden_network,"Yet another Raiden Weekly is out. This week featuring:
+⛓️ CogX presentation summary and link to presentation
+💻 Raiden is sponsoring the Gitcoin Protect Privacy hackathon
+🏎️ WebRTC specification for the Raiden Python Client
+https://t.co/Qpi4193z9u",22,2,11,2020-06-15
+48,2020-06-16 15:29:24+00:00,1272914178290987008,raiden_network,"In ~2.5 hours (20:00 CEST / 2PM EST) we will do a brief workshop for anyone interested on hacking on Raiden for the @gitcoin #ProtectPrivacy hackathon. RSVP: https://t.co/uAFdRrPbSt
+See the available bounties here: https://t.co/EuOptDO3Ty",12,0,6,2020-06-16
+49,2020-06-18 15:12:28+00:00,1273634694400270336,raiden_network,"We just released Raiden v1.1.0 ""The Sun Prince"", which introduces a brand new version of the WebUI. Download the release here: https://t.co/2cSnCcj4PG
+To update, just download and run the new version. No other actions required. 💪🖤💻 https://t.co/7EG8zTRFyq",66,3,18,2020-06-18
+50,2020-06-19 11:59:41+00:00,1273948567099641857,raiden_network,Boris gets it! You too should go check out the bounties and get started hacking on Raiden! https://t.co/9ZVN0vxSWF,16,0,4,2020-06-19
+51,2020-06-23 10:16:42+00:00,1275372200032428033,raiden_network,"New Raiden Weekly is out. We're at issue 123 and this week is about:
+⚒️ Gitcoin hackathon is on the way. See active bounties for Raiden here: https://t.co/EuOptDO3Ty
+😎 Raiden v1.1.0 ""The Sun Prince"" was released, introducing the brand new WebUI 2.0.
+📡 WebRTC work continues",35,0,13,2020-06-23
+52,2020-06-26 12:38:24+00:00,1276495024759463936,raiden_network,"In case you missed it, we released a brand new WebUI for Raiden last week. We've created a small blogpost to give you a quick overview of what's new 💫 🆕 🖤 https://t.co/dx2GOj0NKw",32,2,8,2020-06-26
+53,2020-06-29 13:11:05+00:00,1277590410714587138,raiden_network,"It's Monday, which means it's time for another Raiden Weekly. Update 124 features:
+💫 New WebUI blogpost
+📡 Continued WebRTC work
+🔨 RSB maintenance release
+https://t.co/YFN05XHbDt",26,1,7,2020-06-29
+54,2020-07-02 15:38:22+00:00,1278714641376514048,raiden_network,We decided to join in on the bake-off fun: https://t.co/U7FBSQCrsR,30,2,9,2020-07-02
+55,2020-07-06 13:53:43+00:00,1280137855969476609,raiden_network,"A new Raiden Weekly Update is out on this fine Monday. This week featuring:
+🏎️ Raiden is participating in the Reddit Scaling Bake-Off
+🍃 Further light client development progress
+https://t.co/X9iO7lZIyP",26,0,8,2020-07-06
+56,2020-07-08 16:22:32+00:00,1280900083786137601,raiden_network,Another two months have gone by. Here's a digest of what happened since April in the Raiden Project. Spoiler alert 🚨 We've been busy! https://t.co/lsFApYmKX4,36,2,12,2020-07-08
+57,2020-07-20 11:23:29+00:00,1285173480154071041,raiden_network,"A new Monday means a new Raiden Weekly. Issue 127 covers:
+🆕 Stakenet overview
+🤖 The Juggernaut light client release
+🍰 Reddit Bake-Off updates
+https://t.co/OQ2DgtcBvu",113,6,50,2020-07-20
+58,2020-07-22 14:23:21+00:00,1285943519807508480,raiden_network,The Protect Privacy @gitcoin hackathon has concluded and we're happy to announce the two winners of the Raiden bounties! Thanks to all who participated. Details about the winning submissions follow below.,33,1,9,2020-07-22
+62,2020-07-23 11:57:11+00:00,1286269124537192449,raiden_network,"The Wolpertinger is here! We have released version 1.1.1 of the Raiden client. The new version includes:
+💫 Updated the WebUI version
+📡 Add `/contracts` endpoint
+📉 Add minimum required balance for MonitorRequest
+🐜 Some bugs were fixed
+https://t.co/BS0NQIv0X2",55,4,12,2020-07-23
+63,2020-07-27 12:57:35+00:00,1287733877495267328,raiden_network,"It's the last Monday of July and the Raiden Weekly Update 128 is out. This week featuring:
+🏅Protect Privacy Gitcoin hackathon winners
+🐇The ""Wolpertinger"" v1.1.1 Raiden Client release is out
+🍰Reddit Scaling Bake-Off work continues
+https://t.co/NNIrwHsjA3",32,1,8,2020-07-27
+64,2020-08-03 11:31:25+00:00,1290248907608514560,raiden_network,"It's time for the weekly Raiden update. Issue 129 features:
+🍰Reddit Scaling Bake-Off submission
+🎐Further Light Client development and testing
+💪Stay tuned for more Scaling Bake-Off content
+https://t.co/THHk5QyRdv",38,0,7,2020-08-03
+66,2020-08-13 12:28:00+00:00,1293887023888162821,raiden_network,"To get started building on Raiden, check out the documentation here: https://t.co/wb1R1o9kfg. If you need support or help with integrating Raiden into your project or dApp contact us here on twitter or at contact [at] raiden [dot] network.",32,2,4,2020-08-13
+68,2020-08-17 13:00:41+00:00,1295344800154214400,raiden_network,"There's a fresh Raiden Weekly out. Issue 131 covers:
+🌍 RaidenMap explorer release
+📆 Planning of future work for the Raiden Client
+🛠️ Maintenance and refactoring in the wake of the Reddit challenge
+https://t.co/wRUHuMSgzH",57,4,14,2020-08-17
+69,2020-08-24 12:44:36+00:00,1297877469278679041,raiden_network,"Monday means that there's a new Raiden Weekly out! Issue 132 covers:
+🤝 Stakenet updates
+🔨 Raiden Client refactorings
+🎐New Light Client release
+https://t.co/Vh785uD7Wd",154,11,63,2020-08-24
+70,2020-08-31 10:53:59+00:00,1300386343751647234,raiden_network,"The last Monday of August is upon us. And also, there's a new Raiden Weekly. This week covering:
+🏎️ Continued WebRTC work to speed up transfers
+🚀 Better event filtering for faster startup
+💡 External feature requests
+https://t.co/6YjM4j2viR",55,2,13,2020-08-31
+71,2020-09-03 11:55:55+00:00,1301489093902303233,raiden_network,"Get up to date with everything that happened in the Raiden project during the last two months! Raiden Pulse for July and August is out! 💪🖤🤖
+https://t.co/88bg8RZN01",55,2,14,2020-09-03
+72,2020-09-07 12:24:39+00:00,1302945879679266816,raiden_network,"Another version of the Raiden Weekly is out. Raiden Weekly number 134 covers:
+📜 Raiden Pulse 13 recap
+🥅 Next development goals
+🚸 Cross Token Network Payments 
+https://t.co/XZ0vN9ZWUZ",36,3,9,2020-09-07
+73,2020-09-08 11:02:33+00:00,1303287603438006272,raiden_network,"@0xDegen @AnettRolikova That's right. @AnettRolikova , please don't hesitate to reach out!",2,0,0,2020-09-08
+74,2020-09-14 12:17:00+00:00,1305480665635475456,raiden_network,"Raiden Weekly issue 135 is out. This week featuring:
+🔨 WebRTC development updates
+⛓️Cross Token Network Payments
+💻 Overview of new projects building on Raiden
+https://t.co/WAMKkHK2lI",13,2,3,2020-09-14
+76,2020-09-28 10:09:06+00:00,1310521909591801856,raiden_network,We're very excited to be sponsoring the ETHOnline hackathon. We are ready to support you and we are looking forward to seeing what cool hacks will be built on Raiden. Find out more about the hackathon here: https://t.co/pvNdNHljBB and stay tuned for details on prizes!,38,1,7,2020-09-28
+78,2020-09-30 14:01:09+00:00,1311305082227621888,raiden_network,We have created https://t.co/BkEX6UNQtg that makes it easy to try out a Raiden full node. The node is run on goerli in a hosted environment and allows people to try out Raiden without any Ethereum or web3 infrastructure. To learn more read this guide: https://t.co/a0hFpRC2U9,55,3,12,2020-09-30
+79,2020-10-02 10:15:53+00:00,1311973169771753472,raiden_network,"On Monday, October 5th, 17.00 CEST, the Raiden workshop for the ETHOnline hackathon will take place. You should definitely drop by if you're interested in hacking on Raiden! We look forward to see you. 💪🖤💻
+https://t.co/ljAjnJ6cZw",24,2,10,2020-10-02
+80,2020-10-05 10:55:49+00:00,1313070381239066624,raiden_network,"A new Raiden Weekly is out. Issue 138 focus on:
+🤓 Raiden workshop and hackathon at ETHOnline
+🆕 New ""try Raiden"" tool for easily trying out Raiden
+🧙‍♀️ New Raiden Wizard release for Goerli
+https://t.co/xGcNpGoPWj",26,2,8,2020-10-05
+81,2020-10-13 11:31:31+00:00,1315978469940097026,raiden_network,"Check out the latest Raiden Weekly! Update 139 covers:
+▶ ETHOnline Raiden workshop is online
+🔃 Raiden services are now compatible with the latest Synapse version
+🎉 New features and functionalities are coming soon!
+https://t.co/sdfS0hXHUx",22,2,5,2020-10-13
+82,2020-10-20 14:38:15+00:00,1318562177658376193,raiden_network,"Latest Raiden Weekly is out! Update 140 covers:
+📈 New development milestones
+🔎 Preparation for the release of version 1.2.0
+🎯 New projects joined the Raiden grant program
+https://t.co/dYB60AOoNO",15,1,3,2020-10-20
+83,2020-10-21 09:10:06+00:00,1318841982446407682,raiden_network,Come and join us at @BlockDownConf on October 23! Jacob @_czepluch  will take part in a panel discussion about DeFi's scaling problem. A deep dive into L2 scaling solutions to be expected! The full agenda of the conference you can find here https://t.co/mKXprBvarO https://t.co/6PST0v4Tgl,23,2,5,2020-10-21
+84,2020-10-27 14:55:11+00:00,1321103154763747328,raiden_network,"Raiden Weekly Update 141 is out! It covers:
+🤓 Raiden at @BlockDownConf
+🚀 New testnet release of the Raiden Light Client version v0.12.0
+⚙ Updates in the dApp
+https://t.co/3CXpu2IKIh",12,1,3,2020-10-27
+85,2020-10-29 13:07:28+00:00,1321800820116103174,raiden_network,"Check out this talk by Dominik @Domi20003 from the Raiden team for @EntEthAlliance! In this video, Dominik describes what issues Raiden solves and not only explains the technology in detail, but also gives a hands-on presentation https://t.co/jwMXcW8TEw",14,6,4,2020-10-29
+86,2020-11-02 12:13:01+00:00,1323236672457289728,raiden_network,"To read about the project in detail and to see a demo checkout: https://t.co/5sVeD2QK0t
+@infura_io @QuikNode @nodesmith @AnyblockTools @AlchemyPlatform @Amberdataio @graphprotocol this might be interesting for you guys to take a look at!",18,1,4,2020-11-02
+88,2020-11-03 09:30:21+00:00,1323558121319616512,raiden_network,"In case you missed Jacob’s @_czepluch recent talk on DeFi’s scaling problem at @BlockDownConf, you can watch it here https://t.co/IzlbHpAI9l
+#BlockDown2020",15,0,3,2020-11-03
+89,2020-11-10 10:02:53+00:00,1326103023609925632,raiden_network,"We have released Raiden v1.2.0  ""Tristan da Cunha""! This version introduces a couple of stability features and some bug fixes.
+📲 Matrix toDevice message support reduces overhead
+🧠 Synapse 1.19 compatibility 
+🔄 Channel capabilities support
+https://t.co/pEoblRqpyn",29,5,12,2020-11-10
+91,2020-11-11 13:13:09+00:00,1326513294052646919,raiden_network,"We're happy to sponsor the Encode Hack Club @encodeclub hackathon and are looking forward to seeing the hacks that will be built using Raiden.
+https://t.co/b6dUslGT0F",25,1,6,2020-11-11
+92,2020-11-16 09:56:35+00:00,1328275766342201344,raiden_network,"Stay informed and read about what happened in the Raiden project within the last two months! Raiden Pulse #14 is out ⚡
+https://t.co/2ysd3cY9fz",63,3,18,2020-11-16
+93,2020-11-17 12:58:32+00:00,1328683942405431298,raiden_network,"It's time for a new Raiden Weekly! The update #144 covers: 
+🔎  Overview of the Raiden client 1.2.0 - “Alderaan - Tristan da Cunha”
+🕹️Details on participation in Encode Hack Club hackathon 
+🆕 Development progress
+https://t.co/LtItg0D69G",14,1,3,2020-11-17
+94,2020-11-24 10:56:34+00:00,1331189963187163138,raiden_network,"New Raiden Weekly is out! The update 145 covers :
+💬 Release of the Raiden Pulse #14
+🤓 Update on the Raiden team
+💻 Progress towards implementing Windows support 
+https://t.co/Cr64N0GcFI",20,1,5,2020-11-24
+96,2020-12-08 14:59:38+00:00,1336324565824225280,raiden_network,"Here is the new Raiden Weekly! Update 147 covers:
+🤖 Progress towards the release of the Raiden client v1.3 
+🖥️ Updated WebUI (v1.1.1) 
+⏳ Stability of the light client SDK
+https://t.co/gcnXYjteAE",19,3,1,2020-12-08
+97,2020-12-16 12:39:42+00:00,1339188450680037381,raiden_network,"The latest Raiden Weekly is out! The Update 148 covers:
+🤖 Priorities of the Raiden development team
+📈 Progress towards the the release v1.3 (Bespin)
+💡 Updates on the Light Client
+
+https://t.co/QljWUfG2tZ",17,1,2,2020-12-16
+99,2020-12-18 15:35:13+00:00,1339957398103060481,raiden_network,"A little reminder for those who missed our latest demo 👀 Read this article and learn how to build a pay-per-use paywall on top of Raiden. And don’t hesitate to check out the code, link in the post 🔎 
+https://t.co/jOhRim5NA8",31,4,11,2020-12-18
+100,2020-12-21 15:06:51+00:00,1341037421346103296,raiden_network,"It's the last Monday before Christmas and there's a new Raiden Pulse out. Version 149 covers:
+🏗️ Paywall demo built on Raiden
+🐞 Progress on Matrix presence bug
+🛩️ Continued work toward light client mainnet release
+https://t.co/IGENTIuhgE",21,3,2,2020-12-21
+101,2020-12-28 16:02:53+00:00,1343588240868188163,raiden_network,"Check out the last Raiden Weekly in 2020! Update 150 covers: 
+⛓️ Development progress of this year
+💃 Events we took part in
+🎮 Demos of 2020
+https://t.co/sfjYbqVJ2T",19,1,2,2020-12-28
+102,2021-01-04 15:17:03+00:00,1346113419116769282,raiden_network,"Happy New Year to everyone! We're excited to see where 2021 will take the Ethereum space! The first Raiden Weekly of 2021 is out. Weekly 151 covers:
+🔮 A look into the priorities of 2021
+🖤 Raiden adoption
+🚀 Expected releases in the near future
+https://t.co/6YTC0apbBU",25,2,6,2021-01-04
+103,2021-01-13 14:13:50+00:00,1349359002090659841,raiden_network,"We are happy to share the Weekly Update 152! The update covers:
+🔗 Progress towards the mainnet release for the Raiden Light Client
+🛠 Bugs fixing
+📃 Advancement of the Bespin milestone
+https://t.co/UMo8kEYXW3",24,2,2,2021-01-13
+104,2021-01-19 13:49:36+00:00,1351527228409073664,raiden_network,"The latest Raiden Weekly is out! Update 153 covers: 
+🏃 Last steps before the Bespin release
+📑 Progress towards the Light Client release
+👨‍💻 Remaining tasks
+https://t.co/b3U0Mzp29F",31,2,4,2021-01-19
+105,2021-01-26 14:28:23+00:00,1354073707174645761,raiden_network,"A new Raiden Weekly Update is out. In number 154 you find:
+🔎 Overview of useful Raiden resources for people new to Raiden
+🏗️ Continued progress towards the Bespin release for the Python Client
+🪶 Work on getting the Light Client ready for mainnet release
+https://t.co/Taz0Jn70mR",28,1,4,2021-01-26
+106,2021-02-02 12:03:45+00:00,1356574022687932418,raiden_network,"The new weekly is out! The update 155 covers: 
+💸 The grant given to  @FinanceFlows by the @raiden_trust
+🤓 Raiden at the Hello Digital Money event organized by @h3lloevent 
+🛠️ Development progress towards the Raiden Client and Light Client releases 
+https://t.co/Ol6nQdxQtG",33,3,9,2021-02-02
+107,2021-02-03 13:54:09+00:00,1356964195124846593,raiden_network,"We are happy to share the 15th edition of the Raiden Pulse! Check out what happened in Raiden within the last 3 months 🤖
+https://t.co/6xhQ8EuXJb",36,2,8,2021-02-03
+108,2021-02-15 15:43:16+00:00,1361340306919153666,raiden_network,"Check out the new Raiden Weekly. Update 157 covers:
+🔝 The priorities of the dev team
+✔️ Progress of the Light Client and Raiden Client teams 
+📥 Discussion regarding the Matrix transport layer integration 
+https://t.co/OhyK2NNgFU",30,0,7,2021-02-15
+109,2021-02-23 15:01:00+00:00,1364228775014203400,raiden_network,"Here is the new Raiden Weekly! Update 158 covers:  
+⚙️Changes to the Matrix transport layer
+✔️Documentation update
+📈Progress of the Light Client team 
+https://t.co/XqGZVZNojK",26,1,6,2021-02-23
+110,2021-03-09 12:38:06+00:00,1369266244138983426,raiden_network,"It's time for the new Raiden Weekly! Update 160 covers:
+📈 Matrix transport layer refactoring for the Raiden Client
+🆕 Two new features added to the Light Client 
+🔧 DApp bug fixing
+https://t.co/wGt9cRW8eb",39,1,9,2021-03-09
+111,2021-03-24 12:25:40+00:00,1374698930542366726,raiden_network,"Raiden Weekly number 162 is out. This week covers:
+✅ Progress on refactoring the transport layer in the python client
+💰Proportional fees PR almost ready for review in the light client
+🏗️ New features added to the light client
+https://t.co/VnroedPFB0",31,1,5,2021-03-24
+112,2021-03-29 10:07:26+00:00,1376476083441270784,raiden_network,"@marrtintintin When you use a Raiden node to make ERC20 transfers you do them off-chain payment channels and thus avoid the gas fees. You do however need to open these channels and deposit in them, which costs gas, since it's on-chain.",3,3,0,2021-03-29
+114,2021-04-06 14:22:58+00:00,1379439491648225283,raiden_network,"Happy Easter 🐰 A new Raiden weekly is out. Version 164 covers:
+🏹 New Light Client release called The Supreme Archer
+🌱 Some general spring cleaning across repos
+📦 Continued work on transport layer refactoring
+https://t.co/IAXgND4AI0",25,1,4,2021-04-06
+115,2021-04-08 14:04:51+00:00,1380159711383801857,raiden_network,"Raiden Pulse 16 for February and March is out. Go ahead and check the latest updates to the project 💪🚀🖤
+https://t.co/canlxdWfMM",31,3,7,2021-04-08
+116,2021-04-12 12:08:17+00:00,1381579926604812288,raiden_network,"It's Monday and that means that a new Raiden Weekly is out. Issue 165 covers:
+🖤 Recap of Raiden Pulse 16
+🛠️ Sponsoring the Scaling Ethereum Hackathon
+💪 Development updates
+https://t.co/VVkxWt9s0h",22,1,3,2021-04-12
+117,2021-04-13 15:08:06+00:00,1381987567294418945,raiden_network,Do not hesitate to reach out to us with ideas and questions in the official Discord for the hackathon or in the github issue listed above. We're looking forward to see what you will build! 🏗️🔧⚙️🪚,15,1,3,2021-04-13
+122,2021-04-14 13:46:11+00:00,1382329339690299402,raiden_network,"Don't forget that today at 1800 UTC / 2000 CEST, one of our devs, André, will do a workshop. It is an introduction to the Raiden Light Client SDK for hackers participating in the Scaling Ethereum Hackathon by @ETHGlobal ! https://t.co/1lzspJc9sK",29,1,7,2021-04-14
+124,2021-04-19 12:45:58+00:00,1384126123613646862,raiden_network,"Raiden Weekly number 166 covers:
+👩🏼‍💻 Scaling Ethereum Hackathon resources and participation
+🚛 Matrix transport refactoring is done
+🧪 Testing prior to mainnet releases has begun
+https://t.co/4c96rVwucD",24,2,6,2021-04-19
+125,2021-04-20 10:44:13+00:00,1384457873296662529,raiden_network,"In case you missed the Raiden workshop for the Scaling Ethereum hackathon, you can check it out here: https://t.co/1lzspJc9sK 
+It's very easy to get started building using the light client SDK and we're looking forward to see what you're going to build with it!",23,1,7,2021-04-20
+126,2021-04-26 15:47:44+00:00,1386708582255759367,raiden_network,"It's Monday and that means that another Raiden Weekly is out. Update 167 covers:
+✅ Scenario runs are green for the Python client
+🧪 Bespin alpha release testing to begin
+🌐 Matrix transport support in Light Client
+https://t.co/KPHgPRFC9N",28,3,7,2021-04-26
+127,2021-05-03 10:54:18+00:00,1389171452847394817,raiden_network,There's still one week left of the @ETHGlobal Scaling Ethereum hackathon. This means you still have plenty of time to get hacking on Raiden. Check this tweet for the challenges and prizes available: https://t.co/dcSMLMdz3V,22,3,5,2021-05-03
+129,2021-05-04 09:52:09+00:00,1389518197909606400,raiden_network,"May the Fourth be with you and check out the new Raiden Weekly. Update 168 covers:
+✨ Pre-release of Bespin for testing purposes
+🔌 Wallet Connect support for the Light Client
+🐛 Minor bug discovered during testing and a fix is on its way
+https://t.co/fi878a8oJE",25,3,4,2021-05-04
+130,2021-05-10 13:41:37+00:00,1391750272171577349,raiden_network,"Update 169 of the Raiden Weekly is out. This issue covers:
+👷 Testing of the Bespin alpha release is going well
+🍃 Light client is getting ready for mainnet and is seeing improvements to WebRTC
+⚖️ Scaling Ethereum hackathon is ending
+https://t.co/jzcz1M2aHh",36,1,9,2021-05-10
+131,2021-05-20 13:13:18+00:00,1395367027280433157,raiden_network,"Raiden weekly number 170 is out! This issue covers:
+⚖️ Scaling Ethereum hackathon winner (Raiden on Optimism)
+✨ New Bespin release candidate
+📦 New Raiden Service Bundle release
+https://t.co/LUAQvwmGqx",25,1,5,2021-05-20
+132,2021-05-25 16:46:23+00:00,1397232591149977614,raiden_network,"Raiden Weekly Update 171 is out and this week it covers:
+✨ Another alpha release for Bespin before mainnet release
+🚀 Light client is being prepared for mainnet release
+✅ Mainnet testing is being prepared for RSB and WebUI
+https://t.co/wU8z3XvEiD",18,3,1,2021-05-25
+133,2021-06-08 12:37:53+00:00,1402243484191428610,raiden_network,"We have a new Raiden Weekly ready for you! 🖤 Update 173 covers:
+🔨 Mainnet testing continues and another critical bug was identified and fixed
+🏗️ Another RC was released for testing
+💎 Optimisations were made for the light client dApp
+https://t.co/QQgsuv9VMk",19,4,3,2021-06-08
+134,2021-06-09 09:54:00+00:00,1402564629994299392,raiden_network,"Bespin brings major improvements to reliability and performance. The transport layer has been refactored to no longer use Matrix rooms, which resulted in the increased reliability and perfomance.",12,2,1,2021-06-09
+138,2021-06-16 13:17:57+00:00,1405152668016857089,raiden_network,The Ashvini release is a Typescript implementation of the Raiden Network that runs in any Ethereum enabled browser. It offers an SDK that makes it very easy to integrate Raiden into any dApp for fast and cheap ERC-20 transfers.,15,3,2,2021-06-16
+141,2021-06-28 14:13:00+00:00,1409515176768966657,raiden_network,"Raiden Weekly 176 is out. This version covers:
+🚉 Continued efforts on support WebRTC after the Bespin release
+🤝 Work on adding cooperative settle to both clients
+🐛 Fixing minor bugs discovered in the light client after mainnet release
+https://t.co/Osicd7U6aC",19,5,5,2021-06-28
+142,2021-07-05 15:21:53+00:00,1412069228472111113,raiden_network,@cryptochad1337 Let us know if we can be of any help !,2,0,0,2021-07-05
+144,2021-07-06 14:39:50+00:00,1412421032745570317,raiden_network,"You have been waiting for it: Our Pulse blogpost covering the last 3 months is published 🥳
+More info about major news and hot updates right here 🔥👇
+https://t.co/cjqeCWjDKO",19,2,5,2021-07-06
+145,2021-07-13 14:30:33+00:00,1414955412814712843,raiden_network,"Have you read about our new Bespin release yet? 🚀
+
+Check out all you need to know about the latest Mainnet launch of the Raiden Python Client right below 👇
+
+https://t.co/UfrwUPN7Oy",16,3,5,2021-07-13
+146,2021-07-14 08:42:48+00:00,1415230285302669316,raiden_network,"A new Raiden Weekly has been posted. Version 178 covers:
+🔮 Raiden Pulse for April, May and June
+🚧 Development towards the next milestone continues
+🇫🇷 Remember to drop by the booth and workshop at @EthCC 
+https://t.co/1ffHFgeZ2D",15,0,3,2021-07-14
+147,2021-07-19 15:30:33+00:00,1417144836692619270,raiden_network,"No more waiting !
+@EthCC starts tomorrow 🙌
+
+Come and visit us at our booth! We have some nice things for you there 😎",20,3,3,2021-07-19
+148,2021-07-20 12:08:10+00:00,1417456295909728265,raiden_network,"Make sure to drop by our booth at @EthCC to get some cool swag and don't forget to claim your @poapxyz !
+
+How?
+
+1st POAP: Come by our booth for a chat
+2nd POAP: Attend our workshop on Thursday
+
+See you there 🤓 https://t.co/GQlI672Rku",12,1,3,2021-07-20
+149,2021-07-21 13:54:52+00:00,1417845535042588682,raiden_network,"Chat &amp; enjoy a refreshing beer with the Raiden team!
+
+Meet us on the 3rd Floor, Salon Saint-Victor.
+
+First come, first served 🍻 https://t.co/2iXymmbDTy",17,2,5,2021-07-21
+150,2021-07-22 08:00:54+00:00,1418118843327815684,raiden_network,"Save the date 📆
+
+Scaling payments with Raiden - Workshop at @EthCC Paris. 
+
+🕐 Today , 1:25 pm
+📍Bièvre (+2 floor)
+
+See you there 👀",31,2,6,2021-07-22
+152,2021-07-27 17:02:07+00:00,1420066984742502408,raiden_network,"Our new community updates are out 🥳
+This 180th Raiden weekly covers: 
+
+🇫🇷 Raiden x EthCC Paris
+💻 Raiden SDK workshop at EthCC
+❌Removal of token deposit limits
+
+https://t.co/QhhLvEG1Dy",20,2,2,2021-07-27
+153,2021-07-28 07:56:01+00:00,1420291942936719363,raiden_network,"@Jake65205859 @EthCC Hi Jerry, you can always contact us via DM!",0,1,0,2021-07-28
+155,2021-08-03 13:45:55+00:00,1422554325486907394,raiden_network,"Our Raiden weekly is out 👍 
+Issue 181 covers: 
+⬆️ Preparing Raiden smart contracts for the Coruscant milestone
+🤝Completed cooperative settlement
+✅ Further optimizations
+
+https://t.co/EkwIhxODkx",18,4,3,2021-08-03
+156,2021-08-04 14:02:13+00:00,1422920814085779465,raiden_network,"To our German-speaking community📣
+
+Have you already read the Raiden interview with @blockchainwelt? 
+
+It covers following topics:
+
+⚙️ Mechanisms of Raiden simply explained 
+🌐 Advantages of Raiden and best use cases
+⏩ insights about the future of Raiden
+
+https://t.co/1g0cMVrP7F",27,6,9,2021-08-04
+157,2021-08-11 08:43:39+00:00,1425377361021779971,raiden_network,"Do not miss out on the 182nd edition of our Raiden weeklies! 🔥
+
+This update covers: 
+📄 Smart Contract releases for the Coruscant milestone
+✅ Further WebRTC optimizations 
+⚙️Metamask integration in the WebUI
+
+https://t.co/MRB4GhC0R9",25,5,4,2021-08-11
+158,2021-08-18 10:08:28+00:00,1427935420881543168,raiden_network,"Our new weekly update is out 🎉
+This version covers: 
+🚦Light Client testnet pre-release supporting cooperative settlement
+⚙️ Further progress on the Python Client towards the Coruscant release
+⚡️RSBs progress towards supporting the new changes
+https://t.co/fuyO5wY8bJ",23,3,2,2021-08-18
+159,2021-08-26 09:52:22+00:00,1430830470703591432,raiden_network,"You've been waiting for it👏
+The 184th edition of our weeklies is out and covers: 
+
+✅The testnet version for the Raiden Client is ready too
+⚙️Further improvements on the WebRTC layer 
+❗️The usage of the new Versions 2.x require preliminary user input
+
+https://t.co/QCyjpsIYAR",24,2,4,2021-08-26
+160,2021-09-01 11:24:42+00:00,1433028036547465217,raiden_network,"Read about some exciting news in our 185th weekly community update 🔥
+In a snapshot: 
+🐛Progression on bug fixes related to the Coruscant Mainnet release
+🧪Feature testing and adaption to the new contract releases 
+🗞Analysis about deploying on roll-ups
+
+https://t.co/2lAmkxF5g1",24,0,3,2021-09-01
+161,2021-09-03 13:08:00+00:00,1433778805248831492,raiden_network,"The 18th edition of our bi-monthly Raiden Pulse is out👏
+
+Get an overview of what happened in the past 2 months!
+
+https://t.co/BdJttQ9an9",23,2,8,2021-09-03
+162,2021-09-10 09:23:57+00:00,1436259136090648607,raiden_network,"Weekly update 186 is out🔥
+It covers: 
+
+💥 The 18th edition of the Raiden Pulse
+⚙️ The release candidates were introduced
+🎉 Thank you Raideneers for participating in our feedback survey
+
+https://t.co/VssFOioufd",18,5,6,2021-09-10
+164,2021-09-17 15:32:37+00:00,1438888629636640780,raiden_network,"Don't miss out on the 187th edition of our weekly updates 🤩
+What it covers: 
+🧪Ongoing Mainnet testing, no bugs reported so far
+💵 The exciting new quick pay feature
+🔬Research on Arbitrum deployment: Started testing a basic version of smart contracts
+
+https://t.co/RlwIehqxe8",27,4,3,2021-09-17
+165,2021-09-24 14:31:15+00:00,1441409902178488326,raiden_network,More information about currently open channels will follow 🔜,15,0,4,2021-09-24
+167,2021-10-04 10:41:26+00:00,1444975947304800257,raiden_network,"Have you read the latest update this weekend?💥
+Edition 189 covers: 
+📱UX/UI testing of the Raiden dApp
+🧪Still ongoing testing phase before Mainnet release
+🔬Progress on the Arbitrum deployment research
+
+https://t.co/bzDKJd8Xcl",22,3,7,2021-10-04
+168,2021-10-05 17:26:51+00:00,1445440360470093824,raiden_network,"Announcement🚨
+
+You might have heard it: The new smart contracts to be deployed on mainnet soon are not backwards compatible. 
+
+To be safe and before upgrading your Raiden Clients, we advise to withdraw your tokens from your channels until October 15th.  
+
+https://t.co/zaAULdTMzF",32,13,5,2021-10-05
+169,2021-10-06 09:10:25+00:00,1445677817807585287,raiden_network,"If you want to withdraw your tokens without closing 👇
+
+https://t.co/hkP8l5ecq4",4,1,2,2021-10-06
+171,2021-10-14 11:01:22+00:00,1448604840687439873,raiden_network,"@crainbf @TuurDemeester Raiden has been on mainnet since 2018 and will be feature complete with the next mainnet release. 
+
+The Raiden team contacted numerous wallet providers and payment use cases over the years.
+There is no adoption because there is not yet demand for P2P payments on Ethereum.",2,0,0,2021-10-14
+173,2021-10-15 12:00:21+00:00,1448982073860136969,raiden_network,"The 190th edition of our weekly updates is out 😎
+Key takeaways: 
+🔙The new smart contracts are not backwards compatible
+⤴️Withdraw your tokens from your channels if needed 
+🧪Manual testing before Mainnet release
+
+https://t.co/g5XTd55tI5",30,3,8,2021-10-15
+174,2021-11-04 15:19:12+00:00,1456279870305185792,raiden_network,"This week's community update is out💥
+The 192nd edit covers:
+👀Additional cost transparency in the quick pay feature
+📈Raiden Pulse upcoming for more updates 
+🇵🇹Team members attending ETH Lisbon 
+
+https://t.co/rfVSZ8ep0n",28,6,5,2021-11-04
+175,2021-11-15 15:26:30+00:00,1460267974917509124,raiden_network,"The 19th edition of the #RaidenPulse is out 🔥
+All the latest updates to the project in a 3 min read👇
+
+https://t.co/ApDSQWb7nU",54,43,15,2021-11-15
+176,2021-12-01 14:03:00+00:00,1466045169363558401,raiden_network,"@Br3ttLand Hi Brett, 
+The Raiden Network has not been abandoned. We're working towards the next mainnet release and that is not the only update coming up. 🔜
+
+I highly encourage checking out our GitHub repository here: https://t.co/C0nOLTpAtM",7,3,1,2021-12-01
+178,2021-12-30 15:11:29+00:00,1476571651856912387,raiden_network,Reducing specific usage barriers: On- and Offboarding cost reduction planned for January 2022 📆,23,0,3,2021-12-30
+180,2021-12-31 15:20:59+00:00,1476936427032260614,raiden_network,The Raiden Team wishes you all a happy new year 2022🎉,30,7,3,2021-12-31
+182,2022-01-03 15:01:28+00:00,1478018682584453120,raiden_network,"Subsecond transfers ⚡️
+Optimizing 🕐 
+
+#RaidenNetwork #RaidenProtocol https://t.co/UXr1JpoHOR",43,7,14,2022-01-03
+183,2022-01-04 11:19:20+00:00,1478325168091058179,raiden_network,"Get an overview of all the essential links in 1 click via our new @Linktree_ 🖱
+
+#RaidenNetwork https://t.co/OTULENNfdJ",22,1,6,2022-01-04
+186,2022-01-05 15:01:32+00:00,1478743474493177860,raiden_network,"Smoother channel closing and settling 👥
+Optimizing 🕐 +⛽️
+
+#RaidenNetwork #RaidenProtocol https://t.co/4QWGYbqaZP",24,4,9,2022-01-05
+188,2022-01-10 15:49:27+00:00,1480567470674956289,raiden_network,"1/3 Key takeaway
+
+The Raiden protocol is now stable, has reached highest performance and is feature-complete. 
+Want to build on it? Apply via @raiden_trust!",13,1,4,2022-01-10
+191,2022-01-18 10:52:31+00:00,1483391849830273029,raiden_network,"Boris is back with weekly updates 🔥
+The 193rd edition covers: 
+⏮Recap of mainnet releases: from Bespin to Coruscant &amp; Krittika
+🎉Feature completeness with the Coruscant &amp; Krittika mainnet releases
+⏭Next focus: Ecosystem growth and onboarding communities
+https://t.co/K7n4zRNjjj",29,4,11,2022-01-18
+192,2022-02-08 17:39:44+00:00,1491104472088875012,raiden_network,"@danielb85458125 As much as we like to celebrate, we're not sure about which anniversary you're referring to...
+If we're looking back at the very first Raiden release, it happened in summer 2016 😀🎉",2,1,0,2022-02-08
+195,2022-03-10 08:30:51+00:00,1501837977210793984,raiden_network,"@Lungucostin1 No, we are progressing and there will be updates soon :)",6,1,1,2022-03-10
+196,2022-03-11 15:01:32+00:00,1502298686184988681,raiden_network,"💥 WANTED💥
+
+Motivated #communitymanager, having experience in building and growing communities.
+
+✅  Ownership over community-related projects
+✅  Welcoming new, creative ideas 
+✅  Help on strategic topics 
+✅  Content creation
+
+Join our team 👇
+
+https://t.co/N5LFVWLwMV",23,6,7,2022-03-11
+198,2022-03-24 14:38:38+00:00,1507003965321318405,raiden_network,"5/5
+We believe there are still use cases where payment channels can shine. Moving forward, we will work on reducing setup costs and finding our niche market.",15,1,6,2022-03-24
+204,2022-03-25 09:23:58+00:00,1507287164987617290,raiden_network,@josephdkirby7 The job ad is no longer active. We found a match⚡️,3,0,1,2022-03-25
+205,2022-03-28 14:41:52+00:00,1508454330411761685,raiden_network,@leo_hio There might be in the future,1,1,1,2022-03-28
+207,2022-04-11 13:44:34+00:00,1513513340739411971,raiden_network,"Let's talk! Come and meet our new Community Manager on Discord 🎉
+
+https://t.co/Pm6EgDE843",9,3,4,2022-04-11
+212,2022-04-29 09:51:14+00:00,1519977600004853760,raiden_network,"1/2 Pssst.....
+
+Something biiiig is in the making for the #RaidenNetwork 👀 https://t.co/MUKnCTlrRf",33,10,8,2022-04-29
+215,2022-05-03 14:00:33+00:00,1521489896317325317,raiden_network,Time to reveal...👀 https://t.co/GReUUduOd7,54,6,20,2022-05-03
+225,2022-05-12 16:49:38+00:00,1524793938279800832,raiden_network,Use Raiden on @arbitrum ⚡️ https://t.co/WyVJO6eiog,28,3,6,2022-05-12
+226,2022-05-20 13:46:24+00:00,1527646926161825793,raiden_network,"One-time setup costs, then granting close to free off-chain #P2P transfers⚡️
+That makes it increasingly relevant to use Raiden over other existing scaling solutions for high-frequency micro transfers",16,1,2,2022-05-20
+228,2022-05-24 15:55:46+00:00,1529129034206040065,raiden_network,"Resuming the #RaidenPulse ▶️
+
+We are back, #Raideneers! This time around with a new format: Quarterly updates covering all sorts of updates across strategy, product, community and team.
+
+Same but different. #RaidenNetwork Q1 news in a 5-minute read 👇
+
+https://t.co/JSdjiRlQ4X",45,77,12,2022-05-24
+229,2022-06-15 16:55:11+00:00,1537116522925199360,raiden_network,"You asked for it, here you have it 🎉
+
+The #RaidenTeam put together a step-by-step tutorial on how to set up a Raiden node on @arbitrum 👇
+
+https://t.co/Y6Rb81zLq9",28,9,9,2022-06-15
+232,2022-06-27 11:33:45+00:00,1541384282891063297,raiden_network,"Node is running… ⚙️Nodes are the core part of the #RaidenNetwork. Among other services, they perform transfer mediation to get tokens from A to B using the fastest possible way. In return, they collect mediation fees. 💸 https://t.co/pWMxS8WZPv",19,9,4,2022-06-27
+234,2022-06-30 13:36:48+00:00,1542502413537447938,raiden_network,"Raiden is a community-oriented project, so your opinion matters the most! Share your thoughts on our latest YouTube video about setting up nodes by taking this quick survey 👉https://t.co/7U9vhkbvUk https://t.co/LHBxOfz0SO",13,4,4,2022-06-30
+235,2022-07-04 11:43:50+00:00,1543923534984093696,raiden_network,"Raiden x @ArbitrumOne is a huge milestone, both from a viability and dev perspective. Following your request for educational content, we want to offer to hold a dev-centric event: a hands-on workshop, Q&amp;A, or a mix of both. Do you want a dev event for Raiden on Arbitrum?",16,4,5,2022-07-04
+236,2022-07-14 12:48:52+00:00,1547563782003519492,raiden_network,"The majority has it 🎉 The community voted to have a tech-focused event, and we're happy to cater 🤩 Keep your eyes peeled for the updates! 👀 Join our Discord to stay up-to-date on upcoming votings and events 👉
+https://t.co/Yg9AvdMmgs
+
+#RaidenNetwork #TechAMA https://t.co/DFqg1jB7b6 https://t.co/Y3Qe1mA7SY",12,2,2,2022-07-14
+237,2022-07-20 14:00:01+00:00,1549756013628329986,raiden_network,@Pierre_Christen Check you messages 🦾,1,0,0,2022-07-20
+243,2022-08-12 17:21:55+00:00,1558141745317158912,raiden_network,It is well-suited for those who want to take a quick look into the #RaidenNetwork capabilities without any technical knowledge! Try the Raiden dApp here 👉 https://t.co/r2BMjfjLL6,7,0,2,2022-08-12
+247,2022-08-18 12:29:04+00:00,1560242371857719297,raiden_network,"It's time for a new #RaidenPulse edition 🎉
+
+Fresh Q2 news, delivered from us to ✨ you ✨. A crispy 5-minute read for a complete overview of strategy, product, and community. 
+
+https://t.co/s27ttUke1Q",31,21,8,2022-08-18
+253,2022-08-22 16:06:23+00:00,1561746613504299011,raiden_network,"@abc00731 1/3 Light Client needs to communicate with the blockchain somehow, as well as with other peers; the blockchain part is done with any ETH provider available which is compatible with web3/ETH-JSON-RPC API.",1,0,0,2022-08-22
+256,2022-08-26 12:30:00+00:00,1563141710569385985,raiden_network,"In Q2, we did two user-facing updates: 
+1️⃣ Kiss manual RSB config goodbye! Now a compatible server will be picked up by default 
+2️⃣ #LightClientCLI now has a WebUI interface, making running nodes even easier
+
+More product &amp; strategy updates in #RaidenPulse https://t.co/FKjZKLyGyX",15,0,4,2022-08-26
+257,2022-08-30 15:57:02+00:00,1564643364011638784,raiden_network,"The outlined mediation fee design covers a range of fee models based on varying needs. Take a more technical look at meditation fees here. 👇
+
+https://t.co/piwL1umlEE",2,0,1,2022-08-30
+264,2022-08-31 12:30:00+00:00,1564953651377872897,raiden_network,"Raiden is a community-led project, and launching Discord helped us to:
+
+Reduce response time by 50% 🔻
+Achieve +30% growth monthly 📈
+Find a better connection to our community members ❤️
+
+Read more in the latest #RaidenPulse https://t.co/FKjZKLyGyX",23,4,8,2022-08-31
+265,2022-09-06 10:27:16+00:00,1567097092518076418,raiden_network,"To all Raiden contributors, you can now get your GitPOAP 🎉 https://t.co/o6FqmOpYpI",14,4,4,2022-09-06
+266,2022-09-09 12:25:16+00:00,1568213952101814272,raiden_network,"You asked for it, you get it! 🎉
+
+We are happy to announce that on September 13th we will be hosting a Tech #AMA on Discord. Save the date:
+
+📆 13th September 2022
+
+🕐 3:00pm GMT 
+(11:00am NYC - 5:00pm CET - 11:00pm China)
+
+📍Raiden Discord
+
+More info in the thread below👇 https://t.co/CUjmqjtiPS",17,8,5,2022-09-09
+269,2022-09-13 14:13:38+00:00,1569690772144005127,raiden_network,"Don't forget, the Raiden Tech AMA starts in 45 minutes!
+
+Be sure to slide on to the #raiden-tech-ama channel in our Discord!
+
+https://t.co/Pm6EgDE843 https://t.co/m98wVwSCnn",9,1,3,2022-09-13
+271,2022-09-14 12:31:30+00:00,1570027457620725760,raiden_network,"Last night's discussion was AMAzing! 🙌
+Thanks to everyone who joined our Tech AMA.
+
+Topics included:
+
+💰 Micropayments
+🤖 IOT and M2M
+⚡ Raiden &lt;&gt; Lightning Interop
+⬅️➡️ Rollup &lt;&gt; Rollup Transfers
+⛓️ I-Blockchain
+And much more!
+
+Read the full text at https://t.co/oGs2b22DAU.",14,1,4,2022-09-14
+272,2022-09-15 12:03:10+00:00,1570382717962821637,raiden_network,"What a day! The first commit to the Raiden code base was made seven years ago today! ⚡️
+
+Crazy journey, and there's more to share today!
+
+https://t.co/Hn486t6Wid",16,0,4,2022-09-15
+274,2022-09-16 13:23:37+00:00,1570765349657935873,raiden_network,"In order to ensure that Raiden community governance votes reflect the will of the community, the Raiden Trust and brainbot labs will not participate in voting.
+
+5/6",7,1,2,2022-09-16
+280,2022-09-20 16:47:40+00:00,1572266250998358017,raiden_network,"We want to ensure that you can actively participate in the Raiden Forum. So click below and vote on: 
+
+How familiar are you with @discourse already? 
+
+Join the #general channel on the #Raiden @discord  to vote 👇
+https://t.co/Xx7v7MS2bV https://t.co/6SantPy2Ry",15,3,7,2022-09-20

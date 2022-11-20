@@ -1,0 +1,1219 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-12-04 06:40:32+00:00,1334749410245267458,PremiaFinance,"@DegenSpartan Great Points. A Protocol that allowed underwriting of options contracts, that were freely tradable in a secondary market until expiration, with strategies built on top of said protocol for different risk profiles ex: single side, offset IL for LPs, etc would be attractive to you?",23,1,1,2020-12-04
+1,2020-12-14 06:09:01+00:00,1338365357644378115,PremiaFinance,Core functionality of Minting and Secondary Market Orderbook is complete and unit tests passed. Additional details on upcoming release date of these features (Phase 1) to be announced soon. https://t.co/XimJDprNVk,34,0,4,2020-12-14
+2,2020-12-20 18:32:37+00:00,1340726818777616389,PremiaFinance,"Want to learn more of what Premia has to offer?  We have created a community Discord, please swing by, ask questions, chat with developers, and help shape the product! https://t.co/EN2zOiRKUG",21,1,4,2020-12-20
+3,2020-12-22 18:52:31+00:00,1341456602453299200,PremiaFinance,"As Premia's feature set at Launch will orbit Options  Writing/Trading/Exercising we have introduced a referral mechanism into our Core offering to reduce Fees. Fees will be reduced permanently for those who utilize, as well as a portion of each ...(continued 1/2) https://t.co/N3RcrDbA1W",26,1,4,2020-12-22
+5,2020-12-24 21:47:50+00:00,1342225498252869633,PremiaFinance,"One Advantage of Premia over other like protocols will be the use of the ERC1155 token standard.  Why does this create an edge you may ask? Details can be found here!
+👇
+https://t.co/XSbMXFQknz",61,0,10,2020-12-24
+6,2020-12-28 02:29:25+00:00,1343383522619232256,PremiaFinance,"Want an overview of how writing &amp; exercising will work?!
+Check out a detailed writeup of the process for Covered Calls!  Tomorrow a thorough explanation of Puts!
+👇
+https://t.co/DNnaGwVFLj",28,1,2,2020-12-28
+7,2020-12-29 04:43:23+00:00,1343779627051995137,PremiaFinance,"As Promised - A Detailed Explanation of Writing &amp; Exercising Put Contracts via Premia.
+Find Out More Below!
+👇👇👇
+https://t.co/oFYUx26uZQ",35,1,6,2020-12-29
+8,2021-01-18 06:26:47+00:00,1351053403397500930,PremiaFinance,@DeFiGod1 Just a few 𝑜𝓅𝓉𝒾𝑜𝓃𝓈 that will be available at launch. https://t.co/3UsM5Qsbw8,27,1,0,2021-01-18
+10,2021-01-20 17:42:42+00:00,1351948280058429441,PremiaFinance,"Contracts submitted, @LumyoDev is now 𝘰𝘧𝘧𝘪𝘤𝘪𝘢𝘭𝘭𝘺 allowed to sleep. Front End &amp; Subgraph completion next.
+After a few months in full time development great to finally hit the home stretch! 😤 https://t.co/NciaN5MAtN",31,2,6,2021-01-20
+11,2021-01-24 01:59:23+00:00,1353160437387300864,PremiaFinance,"@EatCookCryptos @basedkarbon Tentative End of Month or First Week of February.  Depends on Audit Completion &amp; Changes, as well as finalization of the web3 enabled site.  Entire team is in sprint mode, will provide update when we are confident on timing.  It will last 7 days though, so plenty of time.",2,0,0,2021-01-24
+12,2021-01-29 02:11:24+00:00,1354975403115380736,PremiaFinance,"Audit is complete. We welcome you to check out the results!
+Contracts Passed with no Issues Identified ✅
+Will provide a confirmed launch date in the coming days!
+Thanks again @SolidityFinance, it was a pleasure to work with your professional team🥳
+👇👇👇
+https://t.co/d4rf9OucT2 https://t.co/B2IMDGiH3X",38,2,6,2021-01-29
+13,2021-02-04 04:17:37+00:00,1357181491881467904,PremiaFinance,"Flash Exercise - In the event a user wants to exercise, however does not hold the necessary tokens, Premia allows for Flash Exercising! Find out more Below.
+
+*Note: At Launch @SushiSwap will be the default router used, however any router is supported
+👇
+https://t.co/xJcYwpFmaP",60,3,11,2021-02-04
+14,2021-02-05 15:14:53+00:00,1357709287967973383,PremiaFinance,"As we begin deploying contracts on Mainnet, a favorable launch was important to us, thus we asked @marenaltman to help with a preferable deployment time.  She did not disappoint and happy to say @LumyoDev was able to nail the launch time of the $PREMIA Token! Thanks again Maren! https://t.co/hwcqoKIHK6",59,7,9,2021-02-05
+16,2021-02-07 03:20:53+00:00,1358254375840358400,PremiaFinance,Discuss https://t.co/D9BiqN1tvR,130,22,15,2021-02-07
+20,2021-02-09 21:29:36+00:00,1359253136871886848,PremiaFinance,🚨Site Functionality has been restored🚨,15,3,1,2021-02-09
+23,2021-02-10 01:59:46+00:00,1359321126594224129,PremiaFinance,@Raxmumo Sushiswap and tentatively Monday.,0,2,0,2021-02-10
+25,2021-02-12 01:33:56+00:00,1360039401615626242,PremiaFinance,@Chilllltrades Badger is already live on Premia https://t.co/qUB9bT03I1,4,1,0,2021-02-12
+27,2021-02-14 02:15:29+00:00,1360774635508224008,PremiaFinance,@RedfieldProctor In order to maximize gas savings it is accrued for you on all Buys/Sells.  We will enable a claim button on the UI for uPremia prior to launching so that all users can claim and stake.,6,1,0,2021-02-14
+30,2021-02-15 03:47:41+00:00,1361160225345007624,PremiaFinance,"Bonding Curve &amp; Staking Pages Page have now been published to the site - As well as Coin Gecko Listing.
+https://t.co/y7c1QlMxPf https://t.co/pNJZDgOCDV",119,8,27,2021-02-15
+38,2021-02-16 17:45:42+00:00,1361733508549341184,PremiaFinance,"The Proposal currently is sitting with 99.9% support, thus happy to say that the txn to push the allocation change has been done, and fees converted to &gt;100k $Premia and distributed to staking users. A UI update to display xPremia:Premia amount will be completed today.",57,5,5,2021-02-16
+43,2021-02-18 04:29:02+00:00,1362257794104107009,PremiaFinance,"Today we have added $COVER Options to the Premia Platform! 🎉🥳
+Cover Protocol provides peer to peer coverage for many DeFi Tokens and the Premian Republic can't wait for the coming v2 launch! To find out more about their unique solution make sure to check out @CoverProtocol! https://t.co/FH46ExF5Cp",90,3,17,2021-02-18
+44,2021-02-19 19:56:22+00:00,1362853554508034048,PremiaFinance,"The process to test contracts on #BSC has already begun.  #BSC not only allows for low cost transactions, it has numerous pegged tokens that are not readily available on other chains ( $BNB, $DOT, $EOS, $XTZ, $LTC, $XRP, $FIL, etc ) Stay Tuned for updates on progress coming soon. https://t.co/rENXNwjVDQ",105,3,34,2021-02-19
+48,2021-02-21 08:03:44+00:00,1363398991631761412,PremiaFinance,"$PREMIA is now officially supported on https://t.co/9blCETwhH3 for tracking and exchange! 🥳
+
+Big thank you to the @zerion_io team for making this happen so quickly! https://t.co/XcB6SQ45NL",102,9,18,2021-02-21
+50,2021-02-22 05:41:50+00:00,1363725668056358912,PremiaFinance,"Coverage via @CoverProtocol is now available!
+Get Coverage Here: https://t.co/rqo6XR8xcX
+Flash Swap Coverage is enabled, make sure to read the Medium article below to understand how Flash Swap Coverage works! https://t.co/nfDQCQvcaS",83,2,27,2021-02-22
+51,2021-02-23 01:46:27+00:00,1364028820144025600,PremiaFinance,"As the Community voted to pass the Amendment to Interaction Mining (Prop 2), all necessary steps were completed yesterday to mitigate this change.  Also as a token of good faith, all emissions were purchased off the market over the last 24 hours 🙏",54,2,7,2021-02-23
+53,2021-02-25 04:35:41+00:00,1364796182111744002,PremiaFinance,"$PREMIA is now on the $SUSHI Onsen Menu!
+Find out more Below! https://t.co/w20AN0kzu3 https://t.co/Es2OAemnEI",99,4,30,2021-02-25
+54,2021-03-05 21:36:41+00:00,1367952231035703307,PremiaFinance,"𝐏𝐫𝐞𝐦𝐢𝐚 𝐀𝐌𝐌 &amp; 𝐌𝐞𝐭𝐚 𝐕𝐚𝐮𝐥𝐭𝐬 🤖 ⚖️
+
+See how $Premia plans to enable liquidity providers to earn yield by providing traders the options they are looking for at fair prices
+https://t.co/G4VytHuCNV",97,4,26,2021-03-05
+55,2021-03-09 01:56:49+00:00,1369104856951164935,PremiaFinance,"Premia is now supported on https://t.co/p05fier34W
+
+This gives $PREMIA tokens the ability to move cross-chain from $ETH to $BSC seamlessly which will bring full functionality to the Premia marketplace.
+
+Staking on BSC coming soon
+
+Big thanks to @AnyswapNetwork @AndreCronjeTech 🤝 https://t.co/HFycxyUjfE",153,20,43,2021-03-09
+57,2021-03-11 05:01:01+00:00,1369875990495834112,PremiaFinance,"Secondary Audit is officially complete! 
+
+it was a pleasure to work with the @certik_io team and we thank them for taking the time to thoroughly go through our contracts. 
+
+Audit report below👇👇👇
+https://t.co/7GCV6SkM5p",78,3,18,2021-03-11
+58,2021-03-15 06:00:09+00:00,1371340420001697794,PremiaFinance,"Did you know that $PREMIA utilizes the ERC1155 standard for options minting?
+
+“Does that mean the options are #NFTs?”
+
+Not exactly. Learn more about this token standard and our strategic choice below 👇 
+https://t.co/rIdGyU6kYl",81,3,19,2021-03-15
+59,2021-03-16 01:42:57+00:00,1371638083582574598,PremiaFinance,@DefiStalker @dExplain_com staking is currently available at https://t.co/PDmF3Mw5ql,2,1,0,2021-03-16
+62,2021-03-17 19:04:25+00:00,1372262563019436037,PremiaFinance,"Are options uncharted territory to you? 
+
+The team at $PREMIA put together a detailed article explaining how to write and exercise call options to take the mystery out of trading on the premia marketplace. 
+
+Check it out below👇 
+https://t.co/A2pcSWvK5Y",70,7,17,2021-03-17
+63,2021-03-18 00:29:41+00:00,1372344420998189056,PremiaFinance,"To compliment the above article, we also have a comprehensive article describing writing/exercising covered puts on $PREMIA 
+https://t.co/XwXtXZMd1n",20,0,2,2021-03-18
+64,2021-03-22 00:39:07+00:00,1373796345069330434,PremiaFinance,"AMM &amp; Meta Vault contracts getting wrapped up. 
+
+Submitting for audits soon. https://t.co/HS1vl9zKBY",88,2,19,2021-03-22
+65,2021-03-26 19:01:47+00:00,1375523390941978630,PremiaFinance,"$Premia is looking to whitelist more assets! 
+
+If there’s an ERC20 or BEP20 token you’d like to see listed, put up a proposal at https://t.co/LMKSo05UzD and drop into our discord to tell us more about it!
+https://t.co/Mj6kdbxhgx",60,5,12,2021-03-26
+66,2021-03-30 03:54:34+00:00,1376744634177687552,PremiaFinance,"Are you a designer or developer looking for remote work in decentralized finance?  
+
+$Premia is currently hiring experienced and qualified individuals so send us an email to dev(@)premia[.]finance to learn more!",52,2,6,2021-03-30
+67,2021-03-31 17:48:55+00:00,1377316995495030785,PremiaFinance,"@zabami @DonYakka Meta Vaults, AMM, and potentially keep3r release in the coming weeks.",4,1,1,2021-03-31
+68,2021-04-05 00:41:58+00:00,1378870495454638080,PremiaFinance,Happy holidays from the Premian Republic! 💎,40,3,1,2021-04-05
+69,2021-04-06 14:42:37+00:00,1379444437709885444,PremiaFinance,"Like a coffee shop for giants, big things are brewing. 
+
+Premia 💎",98,7,10,2021-04-06
+70,2021-04-08 22:05:07+00:00,1380280573650997250,PremiaFinance,"@zabami It means Premia options can be used to hedge and maximize your opportunities in the market. 
+
+Soon to be much easier with our AMM",2,1,1,2021-04-08
+72,2021-04-09 15:26:36+00:00,1380542670465024003,PremiaFinance,𝕋𝕙𝕖 ℙ𝕠𝕠𝕝 𝕎𝕚𝕝𝕝 𝔹𝕖 ℂ𝕠𝕞𝕗𝕠𝕣𝕥𝕒𝕓𝕝𝕖 https://t.co/rdoR6YD9qu,65,7,4,2021-04-09
+84,2021-04-10 20:11:52+00:00,1380976849455579140,PremiaFinance,"@DxDetective @AlchemixFi The LP who underwrote the option will get the full amount of collateral in the strike denomination, and the user who flash exercised the option will retain the profit from selling the collateral at the current market price.
+
+So no need to let your ITM options sit idle 💰🤝",1,1,0,2021-04-10
+88,2021-04-11 15:47:55+00:00,1381272811684171778,PremiaFinance,💎💎💎 https://t.co/wG0SRRXZAE,45,3,1,2021-04-11
+90,2021-04-12 20:14:25+00:00,1381702265451511812,PremiaFinance,"Scenario #3 
+
+You’re not farming $cake at all in this scenario but you’re bullish on it.
+
+You might find it less capital intensive to buy calls for $cake than to deploy the capital necessary to farm it. https://t.co/cOwVxE1izy",9,1,0,2021-04-12
+102,2021-04-13 12:20:41+00:00,1381945435447771138,PremiaFinance,"“There are platforms building composability into their modus operandi — Premia — a platform that allows users to create and trade options for a range of supported cryptocurrencies as Lego-like ERC1155 tokens, which can be used in external DeFi apps.”
+
+👀
+
+https://t.co/l48DchdIJK",29,3,8,2021-04-13
+104,2021-04-14 22:51:24+00:00,1382466547109789697,PremiaFinance,"ICYMI
+
+There's now a dashboard on the marketplace so you no longer need to connect your wallet to see open orders 👏💎 https://t.co/ynZbd9qX62",25,4,6,2021-04-14
+105,2021-04-15 01:03:03+00:00,1382499676042199040,PremiaFinance,😳 https://t.co/1qggGkXVzz,22,7,0,2021-04-15
+107,2021-04-18 04:14:47+00:00,1383635092807974912,PremiaFinance,"The Premia team would like to thank @RulerProtocol for enabling this market.
+
+This allows Premia holders to unlock access to additional liquidity without reducing their Premia position 💯💎",11,1,0,2021-04-18
+119,2021-04-19 01:45:52+00:00,1383960006312095758,PremiaFinance,"💎🤝📏
+
+The xPremia market is now live on @RulerProtocol 🔥
+
+Users can begin providing liquidity to the xPremia market at https://t.co/Jo9R8ndFjr
+
+Rewards will go live at 10:00 AM UTC on April 20th
+
+6,250 $premia and 17 $ruler will be distributed weekly to LPs
+
+Happy farming ✌️",38,3,8,2021-04-19
+120,2021-04-20 23:43:06+00:00,1384653885931986944,PremiaFinance,Right now you can borrow DAI against your xpremia for only 4.58% APY and no risk of liquidation on @RulerProtocol 📏 https://t.co/rEu0NpPsyD,32,1,6,2021-04-20
+121,2021-04-21 01:41:18+00:00,1384683631940096000,PremiaFinance,"💎 👨‍💻 Premia Web Updates 👨‍💻💎
+
+✍️ Descriptions and option titles have been added to all transactions and transaction notifications 
+
+🧵 thread 🧵 https://t.co/vd6gPgYm4p",33,1,4,2021-04-21
+125,2021-04-23 09:06:12+00:00,1385520370137112577,PremiaFinance,"@Coin98Analytics @cz_binance @coin98_wallet @JulSwap @pNetworkDeFi @macaronswap @mywishplatform @CryptoRubic @CueProtocol @PancakeSwap @Helmet_insure You forgot Premia 😉💎
+
+#BSC",2,0,0,2021-04-23
+126,2021-04-24 18:30:38+00:00,1386024800624197635,PremiaFinance,$ALCX options now available on $PREMIA 🧙‍♂️💎 https://t.co/0nCZ98hz2c https://t.co/o7POdHG8LW,28,1,3,2021-04-24
+133,2021-04-26 23:36:56+00:00,1386826658443837441,PremiaFinance,"ICYMI new UI updates occurred this weekend on the $Premia Marketplace! 
+
+- Open Interest &amp; Volume charts added to the pairs and individual pairs summary pages.
+
+- Modal for viewing all token approvals, accessible from the settings icon on the wallet.
+
+More updates coming soon! 💎 https://t.co/HuFOLk7BkX",50,3,13,2021-04-26
+134,2021-04-28 00:47:57+00:00,1387206921770438660,PremiaFinance,"More UI updates have been released on the Premia Marketplace! 💎 
+
+The order book now shows the Break-Even price for each bid, as well as ask price, to make payoff scenarios more clear to all users. $PREMIA https://t.co/pwkcrQNaFC",41,1,8,2021-04-28
+135,2021-04-29 23:17:13+00:00,1387908861550632960,PremiaFinance,Is mobile your preferred device to use for trading? $PREMIA now offers an optimized experience for mobile devices on both the $ETH and $BSC marketplaces! https://t.co/XVBGTtmfAO,29,1,4,2021-04-29
+136,2021-04-30 16:07:47+00:00,1388163181105778692,PremiaFinance,Remember to join our Discord at 17 UTC today for our community call! https://t.co/bH08DgJaLY,14,1,2,2021-04-30
+138,2021-05-03 02:39:38+00:00,1389046963962880004,PremiaFinance,"How is the DeFi Landscape Shaping Up in 2021? $PREMIA 
+https://t.co/kdxqRPTnje",27,2,6,2021-05-03
+139,2021-05-06 13:54:57+00:00,1390304079830831105,PremiaFinance,"“Now, projects such as $Premia Finance are bringing options to the DeFi markets.”
+https://t.co/fEggaHG8cr",36,4,9,2021-05-06
+140,2021-05-09 17:39:01+00:00,1391447630815899649,PremiaFinance,@AlchemixFi @RulerProtocol @RariCapital @marginswap @MUSTCometh @0xPolygon You can also hedge or lever your $ALCX position on Premia :),18,0,2,2021-05-09
+141,2021-05-10 02:14:01+00:00,1391577235199565824,PremiaFinance,"“Early pioneers such as $Hegic and $Potion introduced the concept of tokenized options traded in pools.  However, the recent launch of $Premia Finance is worth noting in any discussion about the development of options trading…”
+https://t.co/taV0Jc6bf7",32,1,6,2021-05-10
+143,2021-05-12 03:25:27+00:00,1392319984798474241,PremiaFinance,"Crypto Options Trading: What you need to know $PREMIA 
+https://t.co/52784rhqfW",19,0,3,2021-05-12
+144,2021-05-13 16:30:13+00:00,1392879867117588483,PremiaFinance,"“Premia stands out from centralized derivatives trading platforms in that it not only supports options for assets that are not found anywhere else, but also provides the option to create custom options contract”
+
+💎💪
+
+https://t.co/w0p5kxqf8h",22,0,9,2021-05-13
+145,2021-05-17 15:43:26+00:00,1394317645802086411,PremiaFinance,"Tough week huh?
+
+Let’s talk about how you can use Premia options to hedge risk
+
+💎👉Thread👈💎",44,1,9,2021-05-17
+155,2021-05-19 04:28:18+00:00,1394872519761571841,PremiaFinance,"Premia has been Pentacled on @pentacleAI ⭐️ 
+
+Big thank you to @0xpentacle &amp; @0x4C756B65 for the addition! https://t.co/0dhzYOXlOE",23,0,3,2021-05-19
+156,2021-05-21 03:13:14+00:00,1395578404234317825,PremiaFinance,"“ $Premia, one of the most advanced DeFi options trading solutions, is quickly gaining popularity among traders looking to either hedge their positions using options, or simply profit when a cryptocurrency dips or crashes…”
+https://t.co/wUnSvbAErw",28,5,5,2021-05-21
+162,2021-05-24 14:58:29+00:00,1396843047992897541,PremiaFinance,"“With decentralized options markets like $Premia, users can now easily hedge their positions… which can spell the difference between an accomplished vs a struggling trader. ”
+https://t.co/bVvMp1ZwZe",16,0,1,2021-05-24
+164,2021-05-27 23:53:48+00:00,1398064929924583424,PremiaFinance,@krugman25 @SlopeOfHope https://t.co/IeeNtMOC5E,3,0,1,2021-05-27
+165,2021-05-28 22:03:51+00:00,1398399647027187719,PremiaFinance,"“Until recently, traders have been restricted to trading only the limited range of options contracts that were made available on cex’s… but now, are beginning to leverage platforms like $Premia to create their own unique decentralized options contracts”
+https://t.co/jTEQCQnYPl",23,0,5,2021-05-28
+166,2021-05-31 15:42:00+00:00,1399390714774134788,PremiaFinance,"“Premia Finance intends to change the economic landscape through its decentralized financial protocol...
+
+Premia permits the creation and trade of options at a variety of strike prices , with any expiration date, and in any platform-supported token.”
+
+https://t.co/IEXc4Qz7ck",31,0,6,2021-05-31
+167,2021-06-01 14:17:46+00:00,1399731906497941509,PremiaFinance,"“Premia allows traders to create their own call and put options for whichever cryptocurrency they choose — effectively allowing them to speculate on the price movement of a range of ERC-20 DeFi assets without limitations.”
+
+https://t.co/wzYs6QtL2I",19,0,4,2021-06-01
+168,2021-06-02 18:19:22+00:00,1400155093023006724,PremiaFinance,"Join us for a community call on June 11 @ 18:00 UTC as we unveil...
+
+🤩 Completely refreshed UI
+💱 Options AMM 
+🤑 Interest yielding vaults
+
+You won’t want to miss it, add it to your calendar:
+https://t.co/qGOMgSxCSv https://t.co/oZbtucouZF",36,0,13,2021-06-02
+169,2021-06-03 20:45:34+00:00,1400554272543100937,PremiaFinance,"As Premia continues building out infrastructure to support a more robust multichain experience, we’re excited to announce our partnership with @AnyswapNetwork !
+
+$PREMIA is now supported on $ETH $BSC &amp; $FTM via AnySwap’s bridge. More networks to come soon! https://t.co/u0LWzub4qA",77,1,19,2021-06-03
+170,2021-06-04 03:03:39+00:00,1400649420002181122,PremiaFinance,"Sneak peak of the new dashboard ui 👀
+
+If you haven’t saved the date yet, mark your calendars to join us on June 11th @ 18 utc as we unveil our v2 $Premia redesign, options dex, vaults, and more!  
+https://t.co/qGOMgSxCSv https://t.co/5uwNFFUsFY",49,1,11,2021-06-04
+173,2021-06-05 17:44:32+00:00,1401233492541837318,PremiaFinance,"What’s this?
+
+Interest yielding vaults in a completely new UI for the Premia options AMM
+
+All will be revealed June 11 @ 18:00 UTC
+
+👉 https://t.co/M80YQUi0UB 👈 https://t.co/p1Gs0pgmEo",43,0,11,2021-06-05
+174,2021-06-06 21:49:18+00:00,1401657475057737731,PremiaFinance,"Did any Premia fam go to Miami?
+
+Share highlights 👇👇👇",15,0,1,2021-06-06
+175,2021-06-07 16:32:08+00:00,1401940044663898115,PremiaFinance,"“Premia Finance is one platform offering opportunities for traders looking to hedge risk. 
+
+Premia users can mint (write) customized call and put options for various assets, setting the strike price, expiration date, and asset quantity.”
+
+💎💎💎
+
+https://t.co/U67Ta3KES9",15,0,4,2021-06-07
+176,2021-06-08 00:00:52+00:00,1402052974906650629,PremiaFinance,"Have you saved the date yet?
+
+This Friday June 11 @ 18:00 UTC
+
+The Premia Community Call 
+
+Be there or be 🟫
+
+https://t.co/M80YQUi0UB https://t.co/V0asubNU0O",25,2,7,2021-06-08
+177,2021-06-09 03:56:49+00:00,1402474741873643520,PremiaFinance,"New look, new amm, new vaults, same $premia. 
+
+Join us as we give a deep dive into all of the changes coming to the platform on June 11 @ 18:00 UTC
+
+💎 https://t.co/M80YQUi0UB 💎 https://t.co/OPwhvfU6Kh",26,4,7,2021-06-09
+178,2021-06-10 19:26:10+00:00,1403071005439016964,PremiaFinance,"The time is *almost* upon us. 
+
+The long awaited community call where Premia 2.0 will be unveiled is tomorrow. 
+
+Are you ready?
+
+📆https://t.co/M80YQUi0UB📆 https://t.co/JBSZFCzZ54",25,2,8,2021-06-10
+180,2021-06-11 02:50:24+00:00,1403182801168519173,PremiaFinance,💎 ℙ𝕣𝕖𝕞𝕚𝕒 𝟚.𝟘 𝕊𝕠𝕠𝕟 💎 https://t.co/qI4iVhgWwM,56,1,11,2021-06-11
+183,2021-06-13 16:20:04+00:00,1404111335286358017,PremiaFinance,"Premia crew 🗣
+
+2 new governance proposals are live at https://t.co/Qx23s98OIi
+
+Supported Assets for Economic Audit
+And 
+Economic Audit Prize Denomination
+
+This is in regards to the upcoming trading competition on Premia 2.0 so please vote 🗳",29,0,7,2021-06-13
+184,2021-06-14 19:00:28+00:00,1404514088684818438,PremiaFinance,"Premia 2.0 🤔
+
+What’s it all about?
+
+Want to read into the technicals under the hood of our peer2pool protocol?
+
+Check out our Gitbook for all the deets 💎
+https://t.co/dOf2qOcoBO",27,1,11,2021-06-14
+185,2021-06-16 00:00:14+00:00,1404951917613158404,PremiaFinance,"Save the date and join us in Discord on Friday, June 18th @ 18 UTC!
+
+We’ll be sharing a presentation and answering questions about our v2 during our Research Showcase and AMA 💎 https://t.co/2fJcg1k69E",14,0,4,2021-06-16
+187,2021-06-17 19:07:45+00:00,1405603087599951873,PremiaFinance,"In it for the tech? 
+
+Join us tomorrow for a presentation on the team’s research that went into the soon to be released version 2 of the $PREMIA platform! https://t.co/LQfgYdwdW8",25,2,8,2021-06-17
+189,2021-06-18 19:26:12+00:00,1405970117943599111,PremiaFinance,"Thank you to everyone who joined us today! 
+
+If you missed our last two presentations, they can be found at the YouTube links below:
+
+💎 V2 Reveal:
+https://t.co/tv9LRyRyYO
+
+⚙️ AMM &amp; Pool Architecture:
+https://t.co/bsYw4a7LCr",17,0,7,2021-06-18
+194,2021-06-20 16:03:42+00:00,1406643932826636289,PremiaFinance,@Mattw_luxl Ping us on discord,1,1,0,2021-06-20
+200,2021-06-21 20:23:29+00:00,1407071699317792769,PremiaFinance,"𝗧𝗿𝗮𝗱𝗶𝗻𝗴 𝗖𝗼𝗺𝗽𝗲𝘁𝗶𝘁𝗶𝗼𝗻 💱
+
+$𝟭𝟱𝟬𝗞 𝗗𝗔𝗜 𝗣𝗿𝗶𝘇𝗲 𝗣𝗼𝗼𝗹 🔥🤑
+
+𝗝𝘂𝗻𝗲 𝟮𝟯 📆
+
+https://t.co/oBlYwTmcpL 🙌 https://t.co/TPBTsPbwRi",38,1,12,2021-06-21
+201,2021-06-22 23:15:47+00:00,1407477444324569091,PremiaFinance,Big thank you to the $DPI team for adding $PREMIA to the #Defi list! 💎 https://t.co/zGQEWZDGeT https://t.co/TFbxZDIr7K,28,0,9,2021-06-22
+202,2021-06-23 21:52:57+00:00,1407818986536984579,PremiaFinance,"current whitelist includes the following airdrop lists and holders:
+https://t.co/rdhMhqKKpG",5,0,0,2021-06-23
+209,2021-06-24 19:02:15+00:00,1408138418891206658,PremiaFinance,"The https://t.co/oBlYwTmcpL trading competition kicked off yesterday, but is still open to new participants! 
+
+If you’d like to help us test our v2 platform and take a chance at winning up to 100k in $DAI, reach out to us in discord! https://t.co/Zx2kk9TaDB",21,1,7,2021-06-24
+210,2021-06-25 03:32:53+00:00,1408266921385017353,PremiaFinance,"The game is afoot
+
+We’ve seen a few screenshots of gains already 👀
+
+What’re you waiting for?
+Join the trading competition for a chance to win $100k from the $150k DAI pool
+
+https://t.co/fl2D0fz1RN https://t.co/8NuyO2g2o4",14,0,5,2021-06-25
+212,2021-06-26 01:43:23+00:00,1408601754976112647,PremiaFinance,"How’re our trading competition participants doing after today?
+
+Were you hedged?
+
+If you haven’t joined the competition, check it out https://t.co/oBlYwTmcpL",16,0,3,2021-06-26
+214,2021-06-27 14:06:05+00:00,1409151050238545929,PremiaFinance,"The $150,000 DAI prize pool is still up for grabs!
+
+With 16 days left in the Premia Trading Competition, it’s anyone’s game. 
+
+https://t.co/fl2D0fz1RN 🤝 https://t.co/fzeHFYVlRw",11,0,6,2021-06-27
+215,2021-06-28 17:51:05+00:00,1409570058981068806,PremiaFinance,"The Premia Discord server has a new look 🔥
+New server emojis 😍
+But the same great community 🤝
+
+Join https://t.co/78TQeElKZw https://t.co/gFwHikY0yo",15,0,3,2021-06-28
+216,2021-06-29 16:23:28+00:00,1409910397751152642,PremiaFinance,"There’s still 14 days left in the Premia Trading Competition 
+
+$150,000 in DAI up for grabs
+
+Get in and start trading
+
+https://t.co/oBlYwTmcpL https://t.co/UIxpXXFOD2",13,1,4,2021-06-29
+217,2021-06-30 19:32:09+00:00,1410320272041861123,PremiaFinance,"The Premia Trading Competition is live!
+
+- on Rinkeby testnet 
+- we provide you with the testnet tokens to trade with
+- zero gas costs
+
+The only thing required is your trading expertise.
+
+You’ve got nothing to lose and $100k DAI to gain 🔥
+
+👉https://t.co/oBlYwTmcpL👈 https://t.co/z0Iho9ECvd",14,0,9,2021-06-30
+219,2021-07-01 21:16:55+00:00,1410709024593547268,PremiaFinance,"You have everything to gain and nothing to lose!
+
+Can you out trade everyone and walk away with the $100k grand prize?
+
+Trading Competition is live on https://t.co/fl2D0fz1RN on Rinkeby testnet 🤝 https://t.co/JZbuZ99Ts6",19,0,7,2021-07-01
+220,2021-07-02 17:28:11+00:00,1411013849361399808,PremiaFinance,"@0xElm0 @ThetaTendies It’s completely free to you too, Tendies. Pop into our discord and contact @C0inAlchemist. He’ll get you set up with testnet tokens if you’d like to participate
+https://t.co/fVPyaSUu5H",4,1,0,2021-07-02
+221,2021-07-05 06:52:17+00:00,1411940982178955264,PremiaFinance,"The https://t.co/oBlYwTmcpL trading competition is still free to join via whitelisting with over 1 week left!
+
+150K $DAI prize pool for the top 3💰 
+
+Not whitelisted? Reach out in discord: https://t.co/fVPyaSUu5H",12,1,8,2021-07-05
+222,2021-07-06 00:54:09+00:00,1412213244429844480,PremiaFinance,"A new Core proposal is live! 💎
+
+If you're a $PREMIA holder, visit the link below and cast your vote on whether or not the trading competition should be extended:
+https://t.co/Wa6tnco1kB https://t.co/w2kfLrMhlg",12,0,6,2021-07-06
+224,2021-07-07 17:56:56+00:00,1412833024559955968,PremiaFinance,"🗳Attention $PREMIA holders 🗳
+
+The proposal to extend the trading competition ends tomorrow. 
+
+This vote would add an additional 10 days to the competition. 
+
+Cast your vote here 🤝
+https://t.co/Wa6tnco1kB https://t.co/Uy7nr41CCx",15,0,8,2021-07-07
+225,2021-07-08 22:46:23+00:00,1413268251384164355,PremiaFinance,"The Community Has Spoken! 💎
+
+Premia's trading competition will be extended by 10 days, giving participants a full 30 days of trading.
+
+Not on the $premia whitelist? Hop into our discord and speak with a team member @ https://t.co/fVPyaSUu5H https://t.co/KH1JXEtrKo",11,0,3,2021-07-08
+226,2021-07-09 03:56:49+00:00,1413346375836880896,PremiaFinance,"It’s that time again! 
+
+Join us at 18 UTC in discord for our monthly community call to learn more about what’s coming up next for $PREMIA 💎 https://t.co/KXowJTqtu2",14,1,4,2021-07-09
+229,2021-07-11 02:17:19+00:00,1414046112059740163,PremiaFinance,"One exciting new feature coming to the $PREMIA platform with the V2 launch is our in-app exchange feature!💱
+
+Utilizing 0x routing, Premia will always offer the best rate available out of the aggregated DEX's (29 by default) for the selected asset pair.💎 https://t.co/2Rt5etP8en",28,0,7,2021-07-11
+231,2021-07-13 18:27:05+00:00,1415014939098558464,PremiaFinance,"The Premia Trading Competition is roaring along with $6.1m in value traded across 571 options with the top 20 traders profiting $144k 😱
+
+Let’s dig in… https://t.co/bmhKeeCaQH",35,4,12,2021-07-13
+235,2021-07-15 23:34:32+00:00,1415817086224457736,PremiaFinance,"We're coming down to the final week of our trading competition! 💎
+
+In 7 days, 3 participants will take home a piece of the 150k $DAI prize pool. Not whitelisted and interested in taking a shot? Reach out in discord @ https://t.co/fVPyaSUu5H https://t.co/8UVM8lyupq",27,2,9,2021-07-15
+237,2021-07-17 00:26:07+00:00,1416192456337633286,PremiaFinance,"There’s still over 6 days left to try your luck at winning a piece of the 150,000 $DAI prize pool! 
+
+- Completely free
+- Tokens provided
+- Upto 100k and NFT’s in prizes
+
+💎 Find out more at https://t.co/oBlYwTmcpL 💎 https://t.co/aMYoAYmlhr",14,0,4,2021-07-17
+238,2021-07-18 02:30:54+00:00,1416586246701424641,PremiaFinance,"Missed our last community call?
+
+We’ve got you covered with a recap
+
+Find out what we’ve learned from the trading competition so far, how we’re preparing for mainnet launch, and what the future holds for Premia 💎
+
+https://t.co/E5NCsBeyA0",13,0,6,2021-07-18
+241,2021-07-19 03:35:43+00:00,1416964946307559425,PremiaFinance,@StinkyRico @basedkarbon sent,1,0,0,2021-07-19
+242,2021-07-20 00:19:06+00:00,1417277852756623363,PremiaFinance,"Just 3 days left before the most skilled trader in the Premia Trading Competition takes home the grand prize of $100k $DAI from the $150k prize pool 🔥
+
+With some volatility, it’s still anybody’s game 😏
+
+Join the action on Rinkeby at https://t.co/oBlYwTmcpL 💎 https://t.co/kb1I5Xui1a",11,1,4,2021-07-20
+244,2021-07-21 03:52:42+00:00,1417693993157148674,PremiaFinance,Going live in 10 minutes! 💎 https://t.co/fAM16s5dMR,8,0,0,2021-07-21
+246,2021-07-22 16:48:14+00:00,1418251552507277318,PremiaFinance,"We are in the home stretch 😬
+
+Only 24 hours left in the Premia Trading Competition.
+
+Who will win the grand prize of $100,000 DAI?
+
+Who will be the runner ups to win DAI and NFTs?
+
+Get your final trades in at https://t.co/oBlYwTmcpL 💎 https://t.co/K6dXikLuSR",8,0,3,2021-07-22
+247,2021-07-23 18:25:42+00:00,1418638469857959938,PremiaFinance,"Today is the final day of the $PREMIA trading competition!
+
+Adjust your positions and make your final trades at https://t.co/oBlYwTmcpL for the chance to win up to 100K in $DAI 💎 https://t.co/LhBKvpog5v",12,0,4,2021-07-23
+248,2021-07-24 03:10:39+00:00,1418770575498088451,PremiaFinance,"We truly appreciate everyone who took part in the $Premia trading competition over the last 30 days!
+
+Your participation was invaluable to our V2 evolution and we will be releasing a behavioral stability audit summary soon to share all that was learned during the event.💎 https://t.co/FLBS0u75h4",21,1,1,2021-07-24
+249,2021-07-28 19:43:34+00:00,1420470001631481858,PremiaFinance,This Friday the $PREMIA Trading Competition winners will be announced along with the release of our behavioral stability audit summary and an article detailing some exciting new features to come! https://t.co/V6tzclVMUR,18,0,2,2021-07-28
+250,2021-07-30 19:38:02+00:00,1421193385218560005,PremiaFinance,https://t.co/XIbNx0mseo,17,1,2,2021-07-30
+251,2021-07-31 18:53:53+00:00,1421544664587460609,PremiaFinance,"“I don’t always hedge against my positions but when I do, I prefer Premia’s fully collateralized on-chain options.” https://t.co/sBZC3xOSAR",17,1,3,2021-07-31
+253,2021-08-01 06:30:23+00:00,1421719943251468292,PremiaFinance,"Congratulations to the top 3 placers from our trading competition!
+
+All prizes have now been sent and we look forward to seeing you put your skills to work on mainnet!
+
+1st place:
+https://t.co/3IViGNB61o
+
+2nd place:
+https://t.co/8jkCPw3QiO
+
+3rd place: 
+https://t.co/OkIMDGa15E https://t.co/xWLt0vKUbA",12,0,2,2021-08-01
+254,2021-08-03 15:04:04+00:00,1422573991928209412,PremiaFinance,@brypto_ @0xTomoyo @mikedemarais @statelayer @gadikian @HegicOptions @AlchemixFi Bless you,1,0,0,2021-08-03
+256,2021-08-04 17:42:08+00:00,1422976160015831043,PremiaFinance,"How’re you celebrating EIP-1559?
+
+Describe the perfect ethereum party 
+🎉🤓🥂 https://t.co/pEJmTvxqzB",11,2,1,2021-08-04
+257,2021-08-05 17:44:57+00:00,1423339253413593095,PremiaFinance,Wow! Huge congratulations from the Premia team on the raise 💎 https://t.co/20TXrCDOay,17,0,10,2021-08-05
+258,2021-08-07 00:59:52+00:00,1423811092711624706,PremiaFinance,"Premia is proud to support Ethereum scaling solutions. 
+
+Today we're happy to announce we've made an important first step towards Premia being on L2 by bridging the $PREMIA token to @arbitrum  🌉
+
+May your transactions be fast, cheap, and secure. Let’s do this 🤝 https://t.co/a1a5VJjwGh",43,2,7,2021-08-07
+259,2021-08-10 22:39:22+00:00,1425225287520817157,PremiaFinance,"We Like the Art!
+
+Proud to support @iannocent, who created the teams profile pictures, by purchasing the below on @makersplaceco - make sure to follow! https://t.co/KEIoU82Sfl",46,5,3,2021-08-10
+262,2021-08-12 07:09:58+00:00,1425716170414567424,PremiaFinance,@MasterGrimaldi Happy to have you back. 🤝,1,0,1,2021-08-12
+264,2021-08-13 16:40:34+00:00,1426222155461709832,PremiaFinance,"We’ll be going live in just over an hour! 
+
+Join us at 18 UTC today for our monthly community call in Discord @ https://t.co/fVPyaSUu5H https://t.co/g2dykMlJmH",7,0,2,2021-08-13
+266,2021-08-15 21:01:40+00:00,1427012637297152005,PremiaFinance,"Missed our community call on Friday? 
+
+No worries, we’ve got you covered! 
+
+With V2 just around the corner there’s a lot we unpacked in our last presentation. Video below and a summary article coming out shortly 🤝 
+https://t.co/RTaNzJiRSR",12,0,4,2021-08-15
+267,2021-08-18 23:30:13+00:00,1428137186017386497,PremiaFinance,"Premia V2 is almost here! 
+
+If you haven’t yet, be sure to read over our documentation to understand the key problems Premia solves compared to other peer2pool options protocols 💎 
+https://t.co/k06Sd1kS8B",21,1,7,2021-08-18
+268,2021-08-20 18:59:47+00:00,1428793906955751424,PremiaFinance,"Missed last week’s community call?
+
+Get up to speed on the latest happenings with Premia as we move closer and closer to Premia v2 on main net 💎💪
+
+https://t.co/0IqYL8SRXK",10,0,6,2021-08-20
+269,2021-08-23 22:56:13+00:00,1429940570743611400,PremiaFinance,"Premia V2 is coming with a fresh new look and feel! 💎
+
+With the help of our community and amazing development &amp; design teams, we’re excited to soon release the most seamless options experience in defi!
+
+Get a sneak peak at https://t.co/oBlYwTmcpL https://t.co/ZYaEIoBhhD",26,1,11,2021-08-23
+270,2021-08-25 16:00:20+00:00,1430560685721800704,PremiaFinance,"“The DeFi market has evolved to feature a wide range of decentralized financial services… DeFi protocols such as Premia Finance, a next-generation DeFi platform allows users to create customizable call and put options.”
+https://t.co/4ybYfHiXIm",13,0,5,2021-08-25
+271,2021-08-27 01:04:53+00:00,1431060112324579328,PremiaFinance,"Continuing on from V1, Premia V2 will also be supported on multiple networks shortly after launch.
+
+We’re excited for Layer 2’s and Premia’s multichain future! 💎 https://t.co/zvcapszxTb",24,0,8,2021-08-27
+272,2021-08-28 03:30:45+00:00,1431459210169049091,PremiaFinance,"Premia V2 has been designed to cater to devices of all sizes giving users easy access to their positions whether at home, or on the go.
+
+Check out our improved design at https://t.co/oBlYwTmcpL and drop us some feedback in discord while we await audits to complete! https://t.co/Xd1Tg1JqCV",20,1,7,2021-08-28
+273,2021-08-29 07:16:13+00:00,1431878336641388550,PremiaFinance,Testing some things while waiting for audits. Potentially promising https://t.co/qznXfDuBff,93,4,17,2021-08-29
+274,2021-08-30 01:30:59+00:00,1432153845128474626,PremiaFinance,Enhance. https://t.co/bDGRrDuBne https://t.co/KjQatrJnMZ,24,1,3,2021-08-30
+276,2021-08-31 14:40:10+00:00,1432714836002197508,PremiaFinance,"“With Premia helping users speculate on various DeFi assets, hedge their risks, earn a yield on their assets and protect against market volatility, it stands out as an extraordinarily capable platform for budding and expert traders alike.”
+https://t.co/iEpQwVJPlW",11,0,4,2021-08-31
+277,2021-09-02 01:30:38+00:00,1433240920716201985,PremiaFinance,"Another new feature coming with V2 is our next generation dex aggregator. 
+
+Swap seamlessly between assets directly on Premia with the option
+to customize slippage, transaction deadlines, as well as source pairs from upto almost 30 dex’s! https://t.co/53CWTLeMzX",26,0,7,2021-09-02
+279,2021-09-04 05:15:45+00:00,1434022347984474114,PremiaFinance,"Adding on from this, Premia’s dex aggregator featured in V2 will utilize @0xProject and allow for any custom token address to be added, as well as the ability to choose from a collection of popular token lists! https://t.co/yhWwU8Z7lY https://t.co/Fcr3aga1a2",36,4,13,2021-09-04
+283,2021-09-07 02:27:09+00:00,1435067082215940096,PremiaFinance,"3 days left to vote on the latest core proposal! If you’re a $Premia holder, visit the link below to cast your vote: https://t.co/bkuzIuJqQl https://t.co/Uk5NUwWN2n",14,0,4,2021-09-07
+284,2021-09-08 17:43:50+00:00,1435660162019303429,PremiaFinance,"The Premia v2 launch is right around the corner 👀💎
+
+Get a full rundown of all the new features in our latest article.
+
+Get ready, get hyped 🤝
+
+https://t.co/nBLtpTEDHE",42,2,10,2021-09-08
+286,2021-09-10 16:30:16+00:00,1436366422876241920,PremiaFinance,"We’re happy to announce that the latest core proposal to dismantle the bonding curve closed yesterday and passed with 100% support!
+
+V2 mainnet is almost here💎 https://t.co/sy1XGeLFVG",15,1,6,2021-09-10
+287,2021-09-11 22:45:11+00:00,1436823163376177152,PremiaFinance,"A new community proposal has been published to express the desire to have $Premia join Nexus Mutual's shield mining program to bootstrap a Premia coverage pool!
+
+Voting closes on September 15th:
+https://t.co/4oZDV2Dcu1",19,1,3,2021-09-11
+288,2021-09-13 19:58:39+00:00,1437506029286301701,PremiaFinance,"💎 Attention Voters 💎 
+
+A new community proposal has been published with the intent to gather support for Premia to create a Safety Module as a capital backstop in the case of a financial shortfall event.
+
+This proposal can be found at the link below👇
+https://t.co/TTfNTCYJEW…",8,0,1,2021-09-13
+289,2021-09-15 23:55:34+00:00,1438290428068044803,PremiaFinance,"The community proposal has closed with almost 99% in support for Premia to join Nexus’s shield mining program.
+
+Excellent job putting this together @Krugman25 🤝 https://t.co/sLawQeqUiF https://t.co/wAKBmXBZmY",8,0,2,2021-09-15
+291,2021-09-17 00:13:52+00:00,1438657419442368515,PremiaFinance,"It’s that time again! 
+
+Join us in discord tomorrow for our monthly community call  @ 18utc 💎 https://t.co/itMF5U7AKJ",9,0,3,2021-09-17
+293,2021-09-21 18:52:03+00:00,1440388372913012736,PremiaFinance,"Missed our community call this past weekend? 
+
+Not a problem, we’ve got you covered! 💎 
+https://t.co/5hteszIADr",22,0,6,2021-09-21
+294,2021-09-25 21:44:03+00:00,1441881209659740161,PremiaFinance,"New to Premia v2 mainnet launch will be something we like to call Smart Deposit.
+
+Users can take advantage of the Smart Deposit interface to auto swap from any asset they want to the required asset for a pool,  never having to leave the platform if you need to swap assets! https://t.co/NDXhEm2NJZ",30,1,8,2021-09-25
+295,2021-09-29 04:05:49+00:00,1443064446734249984,PremiaFinance,It’s gotten better. More on this coming October 7th https://t.co/oEjdaoWOaW,14,0,3,2021-09-29
+297,2021-10-02 21:43:25+00:00,1444417762047238148,PremiaFinance,"LPs will be incentivized by both option premiums and Premia tokens from our liquidity mining program.
+
+So when we launch Premia v2, please pull up a seat at the LP table and feast on the rewards from our carefully crafted artisanal Options AMM Liquidity Mining Program 😋💵🍽",12,1,0,2021-10-02
+301,2021-10-03 22:01:55+00:00,1444784808765399046,PremiaFinance,"So your computer doesn’t end up looking like this 😖
+
+Premia DEX Swaps - just one of the many little ways we’re trying to make your experience smoother in Premia v2 🤝 https://t.co/5zeKlVTbQE",13,0,0,2021-10-03
+304,2021-10-05 02:05:22+00:00,1445208460300333060,PremiaFinance,"With Premia v2, you’ll be able to swap coin $wtever directly into your selected option position easily in one transaction.
+
+This feature is new on mainnet launch, you’ll be able to swap from any asset you own into any pool or option on the platform.",11,1,0,2021-10-05
+308,2021-10-06 01:04:40+00:00,1445555574859395080,PremiaFinance,"“Option Positions as NFTs?”
+
+Yes! Inspired by Uniswap v3, Premia positions will be represented by NFTs which allow a user to transfer or sell their Premia option positions without closing out the underlying option. https://t.co/h84rj6CVK4",56,1,9,2021-10-06
+310,2021-10-07 13:01:17+00:00,1446098303771463684,PremiaFinance,"We are excited to announce that we will be launching our Implied Volatility Oracle through the use of @chainlink nodes. This means bringing our options volatility data on-chain for the entire DeFi market!
+
+Check out the article below to learn more 👇 
+https://t.co/kksYml3cOY",254,8,45,2021-10-07
+311,2021-10-08 22:37:38+00:00,1446605736767860740,PremiaFinance,"What will the Premia v2 peer to pool architecture do for you?
+
+The AMM will allow for better price execution on option trades as liquidity providers (LPs) and traders utilize the c-value &amp; converge on a fair market price for options
+
+Better for traders
+Better for LPs
+A win win 🤝 https://t.co/1rZLOsSfEO",30,0,5,2021-10-08
+312,2021-10-11 16:30:35+00:00,1447600525696974854,PremiaFinance,"How will option pricing work in Premia V2? 
+
+Premia is taking a different approach to pool-to-peer options and introducing an innovative liquidity sensitive pricing model with built-in market adjustment mechanisms. 💎
+https://t.co/GIh8gKeD5n",42,1,14,2021-10-11
+313,2021-10-12 23:31:40+00:00,1448068884377088010,PremiaFinance,"Join us in Discord this Friday, October 15th @ 18 UTC for our monthly community presentation and Q&amp;A!
+
+https://t.co/WqROPeEUDO💎 https://t.co/Hc8cr038Zl",23,0,10,2021-10-12
+314,2021-10-13 17:23:59+00:00,1448338740112396291,PremiaFinance,"Attention $Premia holders:
+
+A new community proposal has been published to gauge support for community proposal creation compensation.
+
+Voting closes on October 17th @ 17 UTC 💎 
+
+https://t.co/4XKSPzwwYN https://t.co/aYcpU6hUzy",27,1,6,2021-10-13
+315,2021-10-14 23:30:12+00:00,1448793289537228805,PremiaFinance,"Tomorrow is the day!
+
+Community call at 18 UTC in our Discord voice channel: https://t.co/WqROPeEUDO
+
+We’re looking forward to seeing you there! https://t.co/n7J5zuT9sM",23,0,6,2021-10-14
+316,2021-10-15 15:31:15+00:00,1449035149044297731,PremiaFinance,"💎COMMUNITY CALL TODAY💎 
+
+Join us @ 18 UTC in Discord voice to learn more about the latest developments coming to Premia! 
+
+https://t.co/WqROPeEUDO https://t.co/kQDLkDCT16",24,0,8,2021-10-15
+320,2021-10-17 00:00:03+00:00,1449525579032760324,PremiaFinance,"Missed the community call yesterday? No worries, we’ve got you covered! 
+
+Catch up on the latest here: https://t.co/1eGrpQzrxI https://t.co/HyJB32FOG9",21,1,6,2021-10-17
+321,2021-10-18 23:02:20+00:00,1450235831202062336,PremiaFinance,"With V2 less than two weeks away, we gave our docs a massive over-haul adding all new info for launch!
+
+Drop us some feedback in Discord. We'd love to simplify &amp; improve anything we can! 💎 
+https://t.co/dOf2qOcoBO",44,3,8,2021-10-18
+322,2021-10-19 01:03:56+00:00,1450266429945679874,PremiaFinance,@EatCookCryptos hey! you can find that on the v1 interface at https://t.co/0oycBuBYpN,1,0,0,2021-10-19
+323,2021-10-20 14:03:41+00:00,1450825050223939589,PremiaFinance,"Premia is excited to announce that we’re integrating both @chainlink Keepers and Price Feeds in V2!
+
+Learn more about how we’ll be utilizing each below 👇 
+https://t.co/U1Zq8ZCtRR",90,0,14,2021-10-20
+325,2021-10-21 14:12:32+00:00,1451189664635768839,PremiaFinance,"@githux Great question, Chris. Yes, v2 is live on rinkeby if you’d like to test it",1,1,0,2021-10-21
+326,2021-10-22 00:14:52+00:00,1451341248590057472,PremiaFinance,@bitcoinPalmer @DeFi_Dad @basedkarbon @C0inAlchemist Genetic Lottery Winner,8,1,0,2021-10-22
+327,2021-10-23 06:01:02+00:00,1451790752212717573,PremiaFinance,"Premia community, a new proposal is upon us.💎 
+
+This proposal is to gauge support for implementing protocol-owned-liquidity mining through the @OlympusDAO bond program, Olympus Pro. 
+
+Voting closes on October 26th @ 6 UTC. 
+https://t.co/vev3Y79nYT",141,6,24,2021-10-23
+328,2021-10-25 21:26:48+00:00,1452748502723973121,PremiaFinance,"Only one week to go... 
+
+Get hyped!
+
+Premia v2 🔜 https://t.co/JCZq810jRh",81,1,19,2021-10-25
+329,2021-10-26 01:45:41+00:00,1452813653867208709,PremiaFinance,@DPWalkerJr @sayinshallah https://t.co/KzgieKQGvT,1,0,0,2021-10-26
+330,2021-10-27 18:06:46+00:00,1453422936585555974,PremiaFinance,"No IL with our single-sided option pools 🤝
+
+LP’s in Premia v2 will enjoy option premiums and rewards without the (impermanent) loss
+
+Get ready to put that WBTC, WETH, LINK, and DAI to work ⛏
+
+Coming November 1st 💎🥂 https://t.co/0cC1BYXdwr",65,0,13,2021-10-27
+331,2021-10-28 19:21:58+00:00,1453804253127008256,PremiaFinance,"What is Nexus Mutual?
+
+Nexus Mutual is an Ethereum-based risk-sharing platform that offers risk-cover instruments called ‘Mutuals’. At its core, Nexus Mutual utilizes community governance by pooling members funds &amp; using those funds to offer protection products.",9,1,0,2021-10-28
+343,2021-10-29 18:24:14+00:00,1454152108580777986,PremiaFinance,"Finally there’s a way to flex on normies and let them know you’re killing it with DeFi options on-chain
+
+The Premia Merch Store is now live 🔥💎
+
+Head over to https://t.co/8zhURIYbOT and get some fresh swag https://t.co/cNTrwfuIZa",35,3,6,2021-10-29
+344,2021-10-30 23:27:20+00:00,1454590777150087168,PremiaFinance,@redhookandbook @screentimes 🤝,2,0,0,2021-10-30
+350,2021-10-31 00:30:41+00:00,1454606716373553152,PremiaFinance,"At Premia v2 mainnet launch on Monday, our pools will be initially capped at $1M per pool
+
+6 pools:
+WBTC
+DAI (wbtc put pool)
+WETH
+DAI (weth put pool)
+LINK
+DAI (link put pool)
+
+These caps help us scale v2 liquidity safely &amp; securely
+
+So get your chips up and be ready Monday 🤝💎🤝 https://t.co/XjcNpbTMg7",44,2,6,2021-10-31
+353,2021-11-01 23:19:27+00:00,1455313569105514505,PremiaFinance,"Smart deposits as well as single sided options pools are now live for $WBTC , $WETH, $LINK. &amp; $DAI.
+
+Take advantage of earning premiums along side of yield in $PREMIA now @ https://t.co/oBlYwTmcpL 💎 https://t.co/vswxgxMZKV",54,6,13,2021-11-01
+365,2021-11-02 18:25:57+00:00,1455602091754500105,PremiaFinance,@0xAppodial Appreciate the feedback. Premia plans to launch on L2 in the coming weeks as well as additional evm compatible networks after,6,1,0,2021-11-02
+367,2021-11-03 20:14:22+00:00,1455991763244552193,PremiaFinance,"We’ve raised the cap on our WETH pool from $1M to $5M since the pool filled and we reached a 50% utilization rate. 
+
+If you didn’t get in the WETH pool before, there’s room now 🦍💎
+
+👉 https://t.co/4xpHKEqYv3👈",35,1,8,2021-11-03
+368,2021-11-04 20:55:24+00:00,1456364477486620677,PremiaFinance,"Premia fam 💎 
+
+We’re excited to announce that Premia’s Shield Mining Campaign is now live on @NexusMutual 🐢 
+
+15000 $PREMIA is currently available to risk accessors who stake $NXM against Premia!
+
+Learn more here 👇 
+https://t.co/MmZbZimoIH https://t.co/3GNMBTTBmh",37,0,6,2021-11-04
+369,2021-11-06 20:32:04+00:00,1457083383662657536,PremiaFinance,🤝 shop is live at https://t.co/dkVLkqcchA 💎 https://t.co/dBjVxhQxPm,17,2,1,2021-11-06
+370,2021-11-07 02:30:21+00:00,1457173548288540672,PremiaFinance,"We like the Diamonds 💎
+
+A deep dive into Premia's decision to utilize EIP-2535 Diamond Proxies as part of the core $Premia architecture, both in terms of technical implications and user experience.
+https://t.co/AWTJGsWVvZ",52,2,12,2021-11-07
+372,2021-11-08 00:14:51+00:00,1457501834483015683,PremiaFinance,@Snips_eth 🤝,3,0,0,2021-11-08
+375,2021-11-09 19:19:11+00:00,1458152203911376900,PremiaFinance,The @OlympusDAO Gods have given their blessings and $PREMIA liquidity mining via bonding is now available on Olympus Pro at https://t.co/NuU7xicj34 💎 https://t.co/xloYJFXJfB,191,3,24,2021-11-09
+377,2021-11-10 20:22:14+00:00,1458530460154351623,PremiaFinance,"And we are live! 💎
+
+Tune in here: https://t.co/2cV503Dma3 https://t.co/tQ6Ra8IbhA",15,0,3,2021-11-10
+381,2021-11-11 03:34:38+00:00,1458639275432550402,PremiaFinance,"What's a C-Value? 
+
+Learn about Premia's liquidity-sensitive pricing mechanism that ensures buyers and sellers are able to trade at a fair, market-driven prices on $premia 💎https://t.co/u97PNHLgkq",38,0,7,2021-11-11
+390,2021-11-12 22:20:22+00:00,1459284966114832391,PremiaFinance,@CRYPTOK1RK Looking fresh,1,1,0,2021-11-12
+394,2021-11-13 04:50:31+00:00,1459383148970754048,PremiaFinance,"After over two successful weeks in action and almost 5 million of tvl in the call and put pools on $Premia, the system is ready for the next stage of growth.
+
+All caps have been lifted on the $WBTC, $WETH, #LINK, &amp; $DAI pools to 5 million notional each! 💎 https://t.co/SIW60XcNI6",50,0,9,2021-11-13
+395,2021-11-14 03:45:20+00:00,1459729134062432261,PremiaFinance,"Couldn't make it to the community call yesterday? 
+
+No worries, we’ve got you covered! 💎
+
+Check out what we've been up to at $Premia as well as what's soon to come here👇:
+https://t.co/9eoJPuWiKM https://t.co/IPvlWwaaIC",24,2,1,2021-11-14
+397,2021-11-16 00:31:09+00:00,1460405043094560772,PremiaFinance,"Looking for a place to park some stablecoins?
+
+Providing $DAI to the put pools on $Premia is currently yielding between ~90% &amp; ~125% apr! 💎 https://t.co/dZRMxdREPB",66,3,12,2021-11-16
+398,2021-11-17 00:55:18+00:00,1460773507302838274,PremiaFinance,"Orange coin down.
+
+Protect yourself against downside risk as well as take advantage of discounts to other top exchanges like Deribit (almost 20% right now) with options on $Premia 💎 https://t.co/PjIzEL0Wan",51,10,12,2021-11-17
+399,2021-11-18 22:10:52+00:00,1461456903146557446,PremiaFinance,"Where are our Link Marines at?
+
+Premia currently offers the most liquid, fairly priced options market for $LINK as the first defi token available with a synthetic ivol surface on $Premia. 
+
+Hedge your positions today with calls or puts @ https://t.co/Ef9vd4GELh ⛓️💎 https://t.co/1eWCi7Ssbt",32,1,4,2021-11-18
+404,2021-11-19 19:25:07+00:00,1461777577023094790,PremiaFinance,"Let’s take a look at yields on Premia today 👀
+
+32% APR on WETH
+54% APR on WBTC
+55% APR on LINK
+As high as 107% APR on DAI (in the LINK put pool)
+
+What’re you waiting for?
+
+https://t.co/4xpHKEqYv3",40,5,4,2021-11-19
+407,2021-11-20 03:02:15+00:00,1461892620288942080,PremiaFinance,"The researchers at $Premia are proud to release their first primer on the architecture and design of our Options AMM, Implied Volatility Surface, and C-level pricing. 
+
+Enjoy! 💎
+https://t.co/L5M6TMB3EX https://t.co/eIuo0oOTzn",272,116,47,2021-11-20
+411,2021-11-22 21:31:08+00:00,1462896453609795590,PremiaFinance,"Don't let your assets sit idle, anon.
+
+Single sided $WBTC / $DAI pools on $Premia are currently providing over 50% apr with only a 24hr minimum lock on deposits 💎 https://t.co/Y8LZGMerGL",46,5,11,2021-11-22
+412,2021-11-23 02:34:30+00:00,1462972797597200387,PremiaFinance,"🌾🚜  ATTN yield farmers 🌾🚜
+
+Everything you need to know about Premia Pools: 
+Yields 
+Impermanent loss
+Risk and reward
+
+If you’ve seen us posting things like 51% in the WBTC pool but wanted to learn more before depositing, here’s the scoop 
+👇👇👇
+https://t.co/5oYmLvcZ6W",42,0,13,2021-11-23
+415,2021-11-24 14:55:54+00:00,1463521764164702214,PremiaFinance,gm fellow option enjoyers https://t.co/uZVCC3ZkDI,50,4,4,2021-11-24
+417,2021-11-25 21:31:17+00:00,1463983656670740481,PremiaFinance,Next Tuesday $Premia will be going live on Arbitrum. Buckle up https://t.co/RIwWQudeDb,227,8,32,2021-11-25
+418,2021-11-26 07:03:45+00:00,1464127720498028561,PremiaFinance,"💎 Attention $Premia holders 💎
+
+A Core proposal has been published to implement a new emission scheme for liquidity providers to compliment the Arbitrum launch.
+
+Voting closes on October 29th @ 7:00 UTC 
+https://t.co/J6ZObV7lRZ",32,4,4,2021-11-26
+422,2021-11-27 19:02:55+00:00,1464671094292496390,PremiaFinance,"Learn more about $Premia with our latest appearance on the @cryptonary Podcast 🎧
+
+Recording is now live below👇
+https://t.co/qFuvS7Ri90 https://t.co/n0nAwljnr0",29,0,7,2021-11-27
+423,2021-11-28 03:50:04+00:00,1464803755585679361,PremiaFinance,"When covered call and put selling strategies? Now.
+
+$Premia currently offers covered call and put selling strategies for $ETH, $wBTC, and $LINK on Ethereum mainnet (and Arbitrum Nov. 30th). 💎
+
+Estimated pool yields at this time range from 90-180%
+https://t.co/5oYmLvcZ6W https://t.co/4gzsOF1AML",50,3,10,2021-11-28
+426,2021-11-29 20:45:44+00:00,1465421742793543680,PremiaFinance,"We are often asked what differentiates $Premia from other options protocols.
+
+While there are many comparison charts which focus on easily gamed metrics, such as whale liquidity tricks, we wanted to show the details that matter: the technology. https://t.co/mG9GnmJCBS",143,17,32,2021-11-29
+430,2021-11-30 02:15:32+00:00,1465504739009998848,PremiaFinance,"We hope that you’re ready for the @arbitrum launch! 
+
+Join us for a pre-launch Spaces at 7p UTC where the $Premia team will be covering what to expect on deployment as well as some future features we’re excited L2 will enable 💎
+https://t.co/lcUzYLdl0A https://t.co/upBrEEN1R9",169,5,20,2021-11-30
+434,2021-12-01 22:21:14+00:00,1466170551161049096,PremiaFinance,"Ah the joys of L2 decentralized options 
+
+Hedge in a moment’s notice at your desired strike and expiration https://t.co/y26xfbznRr",29,0,2,2021-12-01
+441,2021-12-02 00:01:10+00:00,1466195702585954311,PremiaFinance,"Got the Omicron scares? Hedge with puts on Premia
+
+Think the market will shake it off? Maybe pick up some calls.
+
+Or get comfy in our pools and start earning yield on WBTC, WETH, LINK, or DAI
+
+👇👇👇https://t.co/AqQLrQ8Es0",23,0,3,2021-12-02
+444,2021-12-05 18:37:10+00:00,1467563713989337090,PremiaFinance,"Since launching Premia pools on @arbitrum, Premia TVL is up 169% in 5 days 👑
+
+Get cozy in our pools and start earning yield on WETH, WBTC, LINK, and DAI
+
+👉 https://t.co/4xpHKEqYv3 https://t.co/G6hdge1nlU",55,1,16,2021-12-05
+445,2021-12-06 20:52:10+00:00,1467960077676072966,PremiaFinance,"💎 Premia Holders💎
+
+A new Core Proposal has been published to modify the pool weights for Liquidity Mining, based on pool utilization!
+
+Voting ends on December 8th 22 UTC
+https://t.co/nFEHVy0FRB https://t.co/YCWJIeoh04",23,2,2,2021-12-06
+446,2021-12-07 23:14:25+00:00,1468358262315790336,PremiaFinance,"LP's are still seeing an estimated return of over 200% in the single-sided $wETH call pool on @arbitrum as the c-level had adjusted to 1.89!
+
+This pricing function assists in incentivizing more deposits to take advantage of the higher returns from options sold at these prices 💎 https://t.co/s04OX4VeKd",38,0,3,2021-12-07
+448,2021-12-08 21:46:00+00:00,1468698400010948613,PremiaFinance,"With almost one week in action on @arbitrum and the $wETH call pool on $Premia consistently reaching near cap and high utilization, the time has come to lift the caps!
+
+The $wETH call pool has now been raised to 2000 $wETH 💎
+
+Join us @ https://t.co/XyfqqjDIhf https://t.co/NFZ2gHS6H3",39,0,6,2021-12-08
+449,2021-12-09 20:39:06+00:00,1469043954716971017,PremiaFinance,"The proposal to modify pool weights for Liquidity Mining based on pool utilization has passed and been implemented!
+
+Take advantage of earning additional rewards when providing liquidity to both the $wETH call and put pools on $Premia 💎 https://t.co/KjsMO25CrN",23,0,2,2021-12-09
+451,2021-12-10 19:04:31+00:00,1469382535947956227,PremiaFinance,"Going live at the link below in just a few moments 
+https://t.co/uGqRFevM9y https://t.co/M3dQxgDKUv",12,0,1,2021-12-10
+455,2021-12-11 18:47:43+00:00,1469740697817391120,PremiaFinance,"Attention $Premia holders:
+
+Due to an issue with the voting proxy, the core proposal to migrate 9.5% of the current Ethereum mainnet liquidity on @SushiSwap to Arbitrum has been republished!
+
+Voting ends on December 13th at 17:30 UTC 👇
+https://t.co/ZfhVqzG98M",20,1,1,2021-12-11
+457,2021-12-12 00:30:56+00:00,1469827073254608899,PremiaFinance,"The $wBTC call and put pools are currently estimating over 50% returns for underwriters while at the same time providing between 12% and 25% market discounts to option purchasers on @arbitrum!
+
+Take advantage of options for $wBTC, $wETH, and $LINK @ https://t.co/ftNMl01end 💎 https://t.co/qFscNhR7pz",25,3,5,2021-12-12
+458,2021-12-13 01:16:58+00:00,1470201045179674624,PremiaFinance,"&gt;It's real
+
+$wETH LP's are seeing an estimated return of over 160% in the call pool and option purchasers up to 25% market discounts at these levels on $Premia! 💎 https://t.co/INt42Wyu0V https://t.co/yECUMRCuVL",31,1,7,2021-12-13
+459,2021-12-14 00:56:07+00:00,1470558184368652290,PremiaFinance,"There were more puts traded today than any other day in history!
+
+Take advantage of puts for $wETH, $wBTC, or $LINK available anywhere from 8-30% below the most liquid options markets, or go against the herd with calls at 5-20% below market on $Premia 💎 https://t.co/pZfpdAmp3g",33,2,4,2021-12-14
+460,2021-12-15 04:46:17+00:00,1470978497665544195,PremiaFinance,"$ETH is down over 15% since the beginning of the month. 
+
+Hedge against potential downside risk with $wETH puts on $Premia, discounted over 20% below the most liquid options exchanges at these levels 💎 https://t.co/VkBLCmUlbm",45,0,6,2021-12-15
+462,2021-12-16 00:00:19+00:00,1471268919096881164,PremiaFinance,@c0inalchemist Big if true.,7,0,0,2021-12-16
+464,2021-12-17 15:01:53+00:00,1471858193659797504,PremiaFinance,"Hedge against potential further downside at $Premia.
+
+Put options for $wETH are currently available at over a 5% discount to the most popular options markets 💎 https://t.co/gaL2mTaohJ",30,1,2,2021-12-17
+466,2021-12-19 18:30:01+00:00,1472635347741954056,PremiaFinance,We had an excellent time getting to know the @cryptonary team and recording with them 🤝 https://t.co/lcP24mthkN,19,0,3,2021-12-19
+470,2021-12-20 19:09:34+00:00,1473007689026482411,PremiaFinance,"Hedges:
+They’re not just for yards
+
+Place your EOY / New Years bets with calls and puts at https://t.co/VdOWl0UeFI 🎅",22,0,4,2021-12-20
+471,2021-12-21 00:19:01+00:00,1473085564345802752,PremiaFinance,"$ETH is still in a range, but ranges can’t last forever…can they?
+
+Luckily Premia has $WETH options 🤝
+
+What strike and expiration date would you go for right now? Calls or puts? https://t.co/UtYEq5wkQV",26,5,3,2021-12-21
+472,2021-12-22 19:11:56+00:00,1473733059631620101,PremiaFinance,"Whether bullish or bearish going into Q1 2022, find best-in-class pricing for options on $Premia.
+
+$wETH calls and puts are available at these levels for up to 30% lower than the most liquid options markets💎 https://t.co/gUZzla8dsr",34,1,5,2021-12-22
+473,2021-12-23 22:39:11+00:00,1474147604678258692,PremiaFinance,"$BTC is up over 5% on the week! 
+
+Take advantage of $wBTC calls on @arbitrum that are discounted over 10% below the most liquid options markets at these prices 💎 https://t.co/7uuAtjZoLD",25,0,5,2021-12-23
+474,2021-12-24 18:10:40+00:00,1474442418221199366,PremiaFinance,"Tis Christmas Eve and your last chance to buy calls before Santa comes down the chimney
+
+Do you bullieve in the Santa Claus pump?
+
+Calls &amp; puts available on $weth, $wbtc, and $link at https://t.co/9oS2SPfSlZ 🎅 https://t.co/AScsQqX8Ot",25,1,4,2021-12-24
+475,2021-12-25 14:41:26+00:00,1474752150286876684,PremiaFinance,Merry Christmas to everyone in the Premia fam! https://t.co/SRsUFZ8iQC,51,1,4,2021-12-25
+477,2021-12-27 22:02:00+00:00,1475587796358340610,PremiaFinance,"Holiday weekend updates:
+
+💎 Pool caps raised to $20 million
+
+🤖 Auto-exercising of expired options enabled 
+
+🔮 $PREMIA staking UI updated to display rewards more granularly and in real time as well as an APR
+
+💧Staking rewards now drip continuously https://t.co/Nmd1JziGes",55,1,7,2021-12-27
+478,2021-12-29 23:48:38+00:00,1476339406621581318,PremiaFinance,"Put options for $wETH &amp; $wBTC are currently available at an average discount of 10% below the most liquid options markets!
+
+Hedge against potential further downside with puts at $Premia 💎 https://t.co/dPEz79e2pa",24,0,1,2021-12-29
+479,2021-12-31 23:06:44+00:00,1477053640502349826,PremiaFinance,"We’re proud of all we’ve accomplished in 2021 with launching Premia, our organic growth, our innovations &amp; our community
+
+Thank you all for being a part of Premia in 2021 and we hope you’ve got some good New Year’s resolutions like:
+“Hedge more using Premia”
+
+Happy New Year’s Eve https://t.co/BUO3ZSRPkt",40,2,4,2021-12-31
+480,2022-01-01 15:06:37+00:00,1477295199994974211,PremiaFinance,"@CanteringClark Hi sir
+
+Might we interest you in some New Year’s options or perhaps an single sided pool position earning above-market yields? https://t.co/LFLoHmztAk",19,3,0,2022-01-01
+483,2022-01-02 15:51:52+00:00,1477668977975468034,PremiaFinance,"@Kindie_eth @arbitrum @GMX_IO Bonjour, avez-vous utilisé Premia sur Arbitrum ?",11,1,0,2022-01-02
+484,2022-01-04 04:56:08+00:00,1478228733324582916,PremiaFinance,"$wBTC calls and puts on @arbitrum are available for almost 25% below the most popular options exchanges.
+
+Take advantage of discounts on options like this for $wETH and $LINK also at https://t.co/ftNMl01end 💎 https://t.co/2QVxR6vQf4",37,1,8,2022-01-04
+485,2022-01-08 01:07:33+00:00,1479620757772771329,PremiaFinance,"Put options for $wETH are currently available at over 20% below the most liquid options markets!
+
+Hedge against potential further downside with puts at $Premia 💎 https://t.co/3EYbXo3aBZ",107,21,77,2022-01-08
+486,2022-01-11 01:58:42+00:00,1480720796213518338,PremiaFinance,"It’s that time again! 
+
+Join us at 19 UTC this Friday for our monthly community call to learn more about what’s coming up in Q1 for $PREMIA 💎 https://t.co/hovlYFrgsX",28,0,8,2022-01-11
+487,2022-01-12 03:36:38+00:00,1481107826349068294,PremiaFinance,"Is it ogre?
+Is the cat dead?
+
+Take advantage of Put pricing 8% below market rate to hedge against further downside.
+
+Near-the-money ($3200 strike) puts for expiration 1 week from now are available for ~$115 per ETH
+
+Breakeven at ~$3085 and it's all profit from there on down👇📉💸 https://t.co/AzoiSfeGAo",33,1,6,2022-01-12
+490,2022-01-13 02:40:12+00:00,1481456012381110272,PremiaFinance,"Bullish on $BTC?     🍯🦡
+
+Take advantage of $WBTC call pricing 13.5% below market 🔥🤝
+
+Call options with a $46150 strike expiring in one week are trading at $662 per $WBTC
+
+Find the strike and expiration that works best for you
+👉 https://t.co/AqQLrQ8Es0 💎 https://t.co/e4tTcTANEt",38,8,7,2022-01-13
+491,2022-01-14 17:00:04+00:00,1482034795353985028,PremiaFinance,"We’ll be going live in just a couple of hours!
+
+Join us at 19 UTC for our monthly community call to get some insight into what’s coming in Q1 💎 https://t.co/WqROPeEUDO https://t.co/EtGGzZg2FY",18,0,5,2022-01-14
+492,2022-01-16 00:23:47+00:00,1482508848963411971,PremiaFinance,"Premia by the numbers ✨💎
+
+Treasury $51M
+Market cap $38.6M
+Treasury is 98.63% non native tokens
+41.7% of the circulating supply is staked
+TVL on Ethereum continues to rise even since launching Premia on Arbirrum
+
+Dashboard courtesy of @Krugman25
+
+https://t.co/0ZN1hIGtpA",63,3,16,2022-01-16
+495,2022-01-17 19:19:53+00:00,1483157145550004227,PremiaFinance,@HentaiMatter @tbr90 @TheThorLady @Uniswap @MakerDAO @Synthetix @OlympusDAO @CurveFinance @fraxfinance @THORChain 🙌,2,1,0,2022-01-17
+497,2022-01-19 23:48:12+00:00,1483949445289025538,PremiaFinance,"🦍 Attention Degens 🦍
+
+The $WETH pool on Arbitrum is currently at 90% utilization with Calls priced 33.5% above market rates 😱
+
+LPs are currently earning 67.58% APR in $WETH from option premiums &amp; an additional 13.49% in $premia rewards
+
+Deposit $WETH 👉 https://t.co/4xpHKEqYv3 https://t.co/osUgx5CH6Q",28,0,4,2022-01-19
+499,2022-01-20 00:49:13+00:00,1483964799180587013,PremiaFinance,"💎 LINK MARINES 💎
+
+The $LINK pool on Ethereum is at 92% utilization with Calls priced a whopping 99.7% above market rates 🥵
+
+LPs are currently earning 28.21% APR in $LINK from option premiums &amp; an additional 18.25% in $premia rewards
+
+Deposit $LINK 👉 https://t.co/4xpHKEqYv3 https://t.co/g6BaMF1aKY",20,0,4,2022-01-20
+501,2022-01-21 18:23:28+00:00,1484592499175866375,PremiaFinance,"$ETH is down over 15% this week 👀
+
+Hedge your risk of further downside with $wETH puts at Premia. Currently available for almost 15% below the most liquid options markets 💎 https://t.co/uYT9sl4HXH",22,2,6,2022-01-21
+502,2022-01-22 18:37:39+00:00,1484958454745899015,PremiaFinance,"Let's not forget about L2!
+
+Single-sided $wETH LP's on @arbitrum are seeing estimated returns of over 100% with deposits at these price levels 💪 https://t.co/j62daAUMKQ",13,0,1,2022-01-22
+506,2022-01-24 18:03:13+00:00,1485674563480530946,PremiaFinance,"It’s happening. 
+
+Today. Two new markets on Premia 💎
+
+$ALCX / $DAI  &amp;  $alETH / $alUSD https://t.co/ykKHPcYwxZ",72,3,16,2022-01-24
+507,2022-01-25 17:59:33+00:00,1486036029375090690,PremiaFinance,@TealFinance @AlchemixFi Appreciate it! Please reach out if there are any questions that you have regarding ivol/pricing data,3,0,0,2022-01-25
+511,2022-01-26 00:48:13+00:00,1486138875017764864,PremiaFinance,"Utilization of the $wETH call and put pools has reached over 90% on @arbitrum!
+
+LP's underwriting options at these price levels are receiving premiums between 120-163% above external market rates 🔥 https://t.co/RugEqxWai7",48,2,4,2022-01-26
+515,2022-01-28 22:25:58+00:00,1487190241781948423,PremiaFinance,"Fees from @arbitrum have been collected and 15700 $PREMIA were distributed to the staking contract. 
+
+Premia stakers should now see an increased APR present on the staking page 🥩 
+https://t.co/JuA605qVNY",25,2,0,2022-01-28
+517,2022-01-29 04:30:19+00:00,1487281931091853314,PremiaFinance,"Self-repaying option POOLs? 
+
+Learn more about the addition of the two new @AlchemixFi markets in our latest blog article 💎
+https://t.co/wP7KqGgmF4",60,2,11,2022-01-29
+519,2022-01-30 17:42:42+00:00,1487843730690547713,PremiaFinance,@DeFi_Dad 🤝🤝🤝,4,0,0,2022-01-30
+520,2022-02-01 04:55:59+00:00,1488375555716120576,PremiaFinance,"Premia is gearing up to deliver a brand new way to dive deep into our platform analytics!💎
+
+Features including:
+- Historical Volume &amp; TVL Charts
+- Individual Pool &amp; Token Insights
+- Option Insights (such as Greeks, Historical Price Chart, Holders, TVL, P&amp;L)
+- Transaction History https://t.co/pWVw194z0O",79,1,11,2022-02-01
+521,2022-02-02 02:19:16+00:00,1488698502011973633,PremiaFinance,"ICYMI 
+
+@0xFrame wallet is now supported on $Premia! 💎 https://t.co/Fl1by31Y4d",40,2,4,2022-02-02
+522,2022-02-03 00:35:46+00:00,1489034844994621442,PremiaFinance,"Fun fact: Options on Premia can be purchased with any erc20 token!
+
+Don't see your token on the list? Not a problem. Add custom token lists or individual tokens directly from the 
+""⚙️Manage token list"" menu 💎 https://t.co/41g5vM2Ft2",31,2,5,2022-02-03
+523,2022-02-04 03:11:49+00:00,1489436502262120453,PremiaFinance,"We recently highlighted how any erc20 token could be used to purchase options on $Premia, but did you know that any erc20 token could be used to deposit into the LP pools?
+
+Simply click on the token drop-down menu to select assets as well as import and manage token lists 💎 https://t.co/dMThxUOVGa",44,4,8,2022-02-04
+527,2022-02-05 23:39:07+00:00,1490107752001249283,PremiaFinance,@stones_gilbert Ser? We don’t have any NFTs,2,1,0,2022-02-05
+535,2022-02-06 01:05:06+00:00,1490129389618614273,PremiaFinance,"@stones_gilbert = )  all positions on premia are erc1155’s and represented by an nft. You can find them on supporting marketplaces such as looks rare, opensea, and rarible. 
+
+for example:
+https://t.co/B3mdPXthhN",0,0,0,2022-02-06
+537,2022-02-07 18:57:01+00:00,1490761536427765760,PremiaFinance,"Have we mentioned lately that Premia is also on arbitrum?
+
+https://t.co/ftNMl01end https://t.co/H0pwRGydzG",24,0,0,2022-02-07
+541,2022-02-08 22:43:43+00:00,1491180973236834309,PremiaFinance,"The $Premia Analytics Dashboard is here 💎 
+
+Get key insights into pools, tokens, and options on Premia. 
+
+Check it out on both #Ethereum &amp; @arbitrum at https://t.co/skjNNwpK06 https://t.co/XmzM0HzuEv",61,1,17,2022-02-08
+542,2022-02-10 02:29:27+00:00,1491600167044358144,PremiaFinance,"@schwabbyboo We’re also on arbitrum! 
+
+Fees are low and transactions near instant",2,0,0,2022-02-10
+544,2022-02-11 18:40:34+00:00,1492206944173506562,PremiaFinance,"It’s almost time!
+
+Catch our monthly community presentation at 7p UTC on YouTube followed by a Q&amp;A in Discord 💎https://t.co/WqROPenjfe https://t.co/WkDdkjqMkO",12,0,1,2022-02-11
+546,2022-02-12 21:06:10+00:00,1492605976692027393,PremiaFinance,"Not everything is more expensive on L1.
+
+Call options for $wETH on mainnet are currently available at almost 30% below the most liquid options markets! 💎 https://t.co/jJTgm52STX",24,0,4,2022-02-12
+547,2022-02-15 04:59:45+00:00,1493449933734563841,PremiaFinance,Soon™️ https://t.co/0ClBYJWkbQ,96,6,16,2022-02-15
+549,2022-02-16 22:16:00+00:00,1494073101176483843,PremiaFinance,"2022 is going to be a big year for Premia. Join us in changing the way people trade options. 
+
+Earn more, risk less with $Premia 💎 https://t.co/Z7zqyZTBhm",167,11,40,2022-02-16
+552,2022-02-17 15:14:48+00:00,1494329490649993228,PremiaFinance,@crypto_maxi_ Definitely. We’ll have someone contact you to schedule something next week 🤝,2,1,0,2022-02-17
+553,2022-02-20 22:15:05+00:00,1495522420136247296,PremiaFinance,@YettyWapp Love it. Would you rather see crv or a vecrv market though?,2,1,0,2022-02-20
+560,2022-02-23 01:46:45+00:00,1496300464807321601,PremiaFinance,Let’s do it 💎 https://t.co/PZVKr7dGJ6,3,0,0,2022-02-23
+564,2022-02-24 03:30:19+00:00,1496688918070243332,PremiaFinance,"💎 Attention Premia Holders 💎
+
+A new Core proposal has been published! 
+
+This proposal is to gauge support for Premia’s first grant applicant to build vaults that enable anyone to create strategies atop Premia.
+
+Voting ends on February 26th @ 17 UTC 
+https://t.co/SVGcH4VGNc",14,0,1,2022-02-24
+566,2022-02-25 20:51:05+00:00,1497313221123837959,PremiaFinance,"$YFI / $DAI markets for @iearnfinance are now live on Ethereum mainnet and @arbitrum 💎
+
+The wait is over, anon https://t.co/Xyfqqjm6SF
+
+$wETH $wBTC $LINK $ALCX $YFI https://t.co/0rY4aGdxpn",94,8,31,2022-02-25
+567,2022-02-26 19:09:07+00:00,1497649948548022272,PremiaFinance,Yields on $YFI call and put pools 👀 https://t.co/3i4PjPMHur,28,2,4,2022-02-26
+568,2022-02-27 18:39:22+00:00,1498004849832701963,PremiaFinance,@SoLambos We never said no Solana 😏,4,1,0,2022-02-27
+570,2022-02-28 20:37:32+00:00,1498396976722976771,PremiaFinance,"💎 Premia Holders 💎
+
+Don't forget to vote on the recently published proposal to gauge support on the current emissions allocated to the new $YFI / $DAI markets on mainnet and @arbitrum! 
+
+Voting ends March 1st @ 9a UTC 
+https://t.co/jEPLfZmjT0 https://t.co/Ta6kA4hoDc",15,1,4,2022-02-28
+571,2022-03-01 23:18:18+00:00,1498799820286345223,PremiaFinance,@schwabbyboo Thank you 🤝,2,0,0,2022-03-01
+572,2022-03-04 14:19:00+00:00,1499751266402111494,PremiaFinance,"Let’s check in on some Premia option prices on the Ethereum network this morning:
+
+$WETH calls 16.5% below market
+$LINK calls 30% below market
+$LINK puts 17.2% below market
+$YFI puts 30% below market
+
+gm https://t.co/UepXUDEGgD",31,2,8,2022-03-04
+574,2022-03-06 15:49:30+00:00,1500498816151269377,PremiaFinance,"gm
+
+it’s a lovely day to hedge with options",24,1,1,2022-03-06
+575,2022-03-07 17:47:14+00:00,1500890835293982721,PremiaFinance,Did you hedge anon? https://t.co/WDOuikeYT7,19,1,2,2022-03-07
+577,2022-03-09 19:39:56+00:00,1501643971902128129,PremiaFinance,"Put options for $alETH are currently available at over a 20% discount to other top option markets 👀
+
+Hedge with puts at $Premia for $wETH $wBTC $LINK $ALCX $YFI on mainnet and @arbitrum 💎 https://t.co/MzIHt7jKx8",18,0,5,2022-03-09
+578,2022-03-10 21:18:41+00:00,1502031210226274312,PremiaFinance,It’s still a beautiful day to hedge with options https://t.co/WDOuikeYT7,14,1,3,2022-03-10
+579,2022-03-12 17:25:06+00:00,1502697203692982272,PremiaFinance,Sir https://t.co/aUfZb7FfWE,16,1,3,2022-03-12
+580,2022-03-13 15:56:04+00:00,1503037184013656066,PremiaFinance,"@0x_bear Assume good price, devs did something",2,1,0,2022-03-13
+582,2022-03-14 15:11:47+00:00,1503388426430726147,PremiaFinance,"gm Premians…? 
+Premiaers? 
+Premions? 
+Preminions? 
+
+I’m really not sure what the best term would be. Open to suggestions here.",15,8,0,2022-03-14
+586,2022-03-19 00:34:56+00:00,1504979699704999936,PremiaFinance,"Bullish again, anons?
+
+Calls on $wETH are over 12% below market rate on @arbitrum 👀
+
+Take advantage of other below market premiums right now for $YFI &amp; $LINK as well @ https://t.co/Ef9vd4GELh https://t.co/rAFMqWaNeG",16,0,3,2022-03-19
+588,2022-03-21 18:50:53+00:00,1505980280452132867,PremiaFinance,Which asset would you like to see added to Premia next?,20,6,7,2022-03-21
+591,2022-03-23 15:58:04+00:00,1506661566904782851,PremiaFinance,"gm, Premia implemented Interest Based Utilization Fee and Sell Feature. Read and share our post below ⬇️
+https://t.co/sZwImyHP9p",27,1,8,2022-03-23
+592,2022-03-24 16:01:34+00:00,1507024835490332678,PremiaFinance,"With the release of the Sell Feature and Utilization Fee we are also removing pool caps. There is no limit for your funds in our pools any more. Welcome, anons! 👍 https://t.co/fYCsBjItY2",39,2,6,2022-03-24
+593,2022-03-25 13:47:35+00:00,1507353505299902475,PremiaFinance,"Hey, anons! $LUNA is live on https://t.co/ftNMl01end!😍
+Really happy to have @terra_money coin in our platform
+Go, go, go, check it out! 👍
+#DeFi https://t.co/rzwP8Ax3LA",36,0,6,2022-03-25
+594,2022-03-26 13:53:23+00:00,1507717351021719557,PremiaFinance,"Tweet &amp; bet credit @AlgodTrading, @stablekwon, @cobie, @GiganticRebirth 🤝
+
+Now there’s an easier way to speculate on the future price of $LUNA instead of having @cobie hold all the money. https://t.co/Sp6jZIZGPG",14,1,1,2022-03-26
+595,2022-03-28 16:40:53+00:00,1508484279298400267,PremiaFinance,"We’re doing an AMA with the @ConcaveFi team on March 30th at 1pm EST 📆
+
+Drop your questions for the Concave and Premia team in the replies to this post 🤝 https://t.co/upT2cQnq4T",42,5,17,2022-03-28
+597,2022-03-29 12:36:00+00:00,1508785041815617539,PremiaFinance,"LPs, you can enable market-making on Premia now by toggling the switch and potentially earn additional income 👍 https://t.co/1Mm7sc1iMd https://t.co/sbz6KJzWuz",8,1,0,2022-03-29
+601,2022-03-30 18:30:28+00:00,1509236633295544334,PremiaFinance,"$Premia and @ConcaveFi AMA session 👀
+⬇️⬇️⬇️
+https://t.co/SLAQtTPiUU",10,2,2,2022-03-30
+602,2022-03-31 17:36:49+00:00,1509585522360045572,PremiaFinance,"A binary option is an option in which the full payoff is known in advance and only earned if the strike price is surpassed, otherwise, nothing is payed to the option holder on exercise 🧐",10,1,0,2022-03-31
+604,2022-04-01 18:24:33+00:00,1509959921361727493,PremiaFinance,"Anons, $Premia Community Call soon. We will provide details closer to the event. Set a reminder 😎 https://t.co/2vVpzqhs8R",17,0,2,2022-04-01
+605,2022-04-02 17:35:43+00:00,1510310019807555594,PremiaFinance,"Do you know what $Premia is? Stay with us, we will explain 👍
+Wanna try? https://t.co/AqQLrQ8Es0 https://t.co/LNQWp45mpx",21,2,9,2022-04-02
+606,2022-04-04 10:40:19+00:00,1510930257280393224,PremiaFinance,"Attention LPs and users.
+You can now lock up (https://t.co/AhiIDBGDIY) your xPremia to get discount on the fees you pay.",12,1,0,2022-04-04
+610,2022-04-05 20:51:08+00:00,1511446361350320129,PremiaFinance,"Each asset pair has 2 pools in $Premia: a Call pool and a Put pool. Calls pools are underwritten in the underlying asset (WBTC, ETH, etc.) and puts pools are underwritten in stablecoins (DAI, USDC, etc.).
+#DeFi https://t.co/c8gGlOxHpo",12,1,3,2022-04-05
+612,2022-04-06 20:48:07+00:00,1511807991804309510,PremiaFinance,"This implies much higher pool capital utilization (100% at the limit), which in turn translates to higher average returns to LPs without increased prices for buyers.
+Trade options here: https://t.co/wf7XwNSony",5,0,0,2022-04-06
+618,2022-04-07 21:56:55+00:00,1512187692120948741,PremiaFinance,"$Premia ensures fair accounting for LPs, depending on when they got in the pool and how long their capital has been deployed. LPs can withdraw their funds at any time after the initial 24h lock.
+Try $Premia: https://t.co/4xpHKEqYv3 https://t.co/WweBasOzUk",19,1,3,2022-04-07
+620,2022-04-08 14:11:47+00:00,1512433023907737602,PremiaFinance,"Hey, Anons! 🔥🔥🔥
+We have our Community call in 5 hours. 
+Link for the stream: https://t.co/XQJ6RyTfzS 
+You may ask all questions in our Discord server: https://t.co/WqROPeEUDO https://t.co/xOmFnlmroE",8,0,2,2022-04-08
+627,2022-04-11 21:13:14+00:00,1513626248572018693,PremiaFinance,"You can purchase #options with custom strike prices and maturity dates =&gt; the best way to hedge or arbitrage your positions 🔥🔥🔥
+Try $Premia: https://t.co/wf7XwNSony
+#DeFi https://t.co/vbn6nF3QGD",11,1,4,2022-04-11
+630,2022-04-12 17:58:18+00:00,1513939582026461192,PremiaFinance,"There is a great initiative by @arbitrum. Read the Medium article, $Premia takes part. Please, support us 😎 https://t.co/plMMkoMFDB",12,0,2,2022-04-12
+632,2022-04-13 12:59:18+00:00,1514226723449188358,PremiaFinance,"Hey, guys! If there is anyone at Paris Blockchain Week Summit (#PBWS2022) and wants to talk right now, dm us here or in Discord 👍",6,0,0,2022-04-13
+638,2022-04-14 14:12:39+00:00,1514607572031979532,PremiaFinance,"Frens! Support us in #SnapShot 
+Link ⬇️⬇️⬇️
+https://t.co/NoXI1Uaobc https://t.co/hRF2LKUs54",10,0,2,2022-04-14
+644,2022-04-15 18:03:49+00:00,1515028134961328143,PremiaFinance,"Hey, Anons! The first official New $Premia v3 teaser is live!🔥🔥🔥
+Check it out now⬇️⬇️⬇️
+https://t.co/B8l38uHlPK",43,1,11,2022-04-15
+645,2022-04-16 17:07:24+00:00,1515376323971137538,PremiaFinance,"1/3 $Premia pools allow you to maintain exposure to the assets of your choice, while earning market competitive yield in the form of Premia and deposited token. You can provide liquidity to WBTC, WETH, LINK, LUNA, YFI, ALCX, DAI and earn yield in that token plus Premia tokens. https://t.co/btSvVIwjvM",11,3,1,2022-04-16
+648,2022-04-19 10:10:38+00:00,1516358602516316162,PremiaFinance,"4/4 So, LP’s could potentially collect premiums for several positions in the same amount of time they previously would have only collected fees for a single position.",6,0,0,2022-04-19
+653,2022-04-21 18:44:57+00:00,1517212810010316803,PremiaFinance,Hey! What is the next chain $Premia launches? Any ideas?😎,20,15,1,2022-04-21
+654,2022-04-25 20:48:38+00:00,1518693491387346945,PremiaFinance,"Hey, Anons!
+
+We are thrilled to announce the upcoming AMA session with @FantomFDN.
+
+Date and time: April 28th, 18:00 UTC
+
+Twitter Spaces link: https://t.co/7ytqtN4S5T
+
+Leave your questions in comments⬇️⬇️⬇️ https://t.co/I5bjh48UYY",188,15,26,2022-04-25
+656,2022-04-26 04:08:14+00:00,1518804118462205953,PremiaFinance,☢️┻┳💎 https://t.co/S445Cus8j0,14,0,4,2022-04-26
+657,2022-04-27 09:41:24+00:00,1519250352062832640,PremiaFinance,"New Core proposal live!👀
+
+$Premia holders and LPs! Go vote on the latest core proposal to incentivize Fantom (#FTM) liquidity pools on launch.
+
+https://t.co/D83CDATy2k",68,5,9,2022-04-27
+659,2022-04-28 17:56:05+00:00,1519737229291048960,PremiaFinance,"$Premia is live! Join our AMA with @FantomFDN.
+⬇️⬇️⬇️
+https://t.co/7ytqtMNgHj",83,8,9,2022-04-28
+663,2022-04-30 15:10:42+00:00,1520420385455583234,PremiaFinance,"Hey, Anons. Reminder to you. 
+$Premia is live on #Fantom. 
+Check low gas fees now. 
+Go trade #options.
+Do not forget to switch your chain.
+⬇️⬇️⬇️
+https://t.co/wf7XwNSony https://t.co/fF8LAs1860",17,0,1,2022-04-30
+665,2022-05-02 12:17:45+00:00,1521101635661058048,PremiaFinance,"Hey, anons!
+Here is the first very basic and easy explainer about #options trading. We plan to publish a set of such articles for you. Learn and #trade options with $Premia.
+Ask questions in comments here or in Discord.
+⬇️⬇️⬇️
+https://t.co/pl54OpEo0j",11,1,2,2022-05-02
+666,2022-05-03 20:20:40+00:00,1521585555481546763,PremiaFinance,"Looking to earn some extra yield on your assets?
+$Premia has recently collected ~$45.6k fees on Arbitrum:
+https://t.co/cniPAmKTRJ",10,1,0,2022-05-03
+670,2022-05-04 08:25:25+00:00,1521767942228172802,PremiaFinance,What network do you want $Premia to launch on next?,50,19,15,2022-05-04
+671,2022-05-05 11:43:05+00:00,1522180074748928002,PremiaFinance,"Anons, $ALCX, $LUNA, $LINK, $WETH call options are significantly below market. Good opportunity to trade on https://t.co/wf7XwNSony 👍 https://t.co/pEnvFf5Ccm",15,1,3,2022-05-05
+674,2022-05-06 15:23:19+00:00,1522597885858222081,PremiaFinance,"$Premia launched on @FantomFDN  on April 26th. TVL is going up, volume is exploding!
+Have you traded options yet on #FTM? Check them at Premia!
+Trade on: https://t.co/wf7XwNSony
+Platform analytics: https://t.co/KbGhmcJrua https://t.co/nRtkoeI9Cj",31,32,5,2022-05-06
+676,2022-05-07 18:10:25+00:00,1523002328978452481,PremiaFinance,"$Premia Community Call Summary April 8th. A bit late, agree. Will do better next time👍
+
+https://t.co/6FVpnckWv7",12,1,3,2022-05-07
+679,2022-05-08 21:27:07+00:00,1523414217499774976,PremiaFinance,@TealFinance Yep! you can sell back to the pool or on supporting secondary markets such as @LooksRareNFT,1,1,0,2022-05-08
+680,2022-05-09 14:19:16+00:00,1523668933529661442,PremiaFinance,"Hey, anons! Do not forget we're running the meme competition. Read the quoted thread to participate🧐 https://t.co/to3XKvEpJc",9,2,2,2022-05-09
+681,2022-05-11 10:31:36+00:00,1524336414116265984,PremiaFinance,"In preparation of v3, $Premia's landing page is getting a fresh UI overhaul! We’re excited to share it with everyone soon. If you have ideas, feedback, or comments please let us know and just maybe your idea will be integrated! 😉",29,1,5,2022-05-11
+682,2022-05-12 15:11:38+00:00,1524769275835301889,PremiaFinance,"4/5
+0x25431341a5800759268a6ac1d3cd91c029d7d9ca 
+0x6255cb7a706314835a22889500c8d55130912926 
+0x5d0ac389c669d6efe3ba96b9878d8156f180c539 
+0x7905c68385b6919d8ae2ffb90fbf2c3c5c218de4
+Please, reach out in Twitter dm or Discord.",8,1,0,2022-05-12
+687,2022-05-13 17:25:21+00:00,1525165314396377088,PremiaFinance,"Reminder, we are running a giveaway, anons! Don't forget to participate by simply liking and retweeting any post from the quoted thread👍🏼 https://t.co/U6fYJ576Mw https://t.co/VV41WJl5FV",17,1,4,2022-05-13
+688,2022-05-16 21:52:25+00:00,1526319685402238977,PremiaFinance,"Attention $Premia Users!
+Due to the recent events with the Terra network new purchases and deposits for $wLuna markets will be disabled from our front end on May 20th at 17 UTC.",14,2,1,2022-05-16
+689,2022-05-18 13:21:10+00:00,1526915800556240898,PremiaFinance,"Wonderful Premia community!👀
+Thank you for such a great involvement in our #meme competition. We have received 120+ memes. That is awesome! Please, go to #announcements to our Discord. We have just announced the winners. Stay tuned for the upcoming activities we are preparing🔥 https://t.co/to3XKvmORE",17,0,0,2022-05-18
+690,2022-05-19 17:11:09+00:00,1527336065995923480,PremiaFinance,"Anons, we have recently partnered with @Knox_finance! Knox is building options vaults that will run strategies atop $Premia. Follow their socials to keep updated on the product they are working on! 🔥 https://t.co/pS28DPvPCL",20,1,5,2022-05-19
+691,2022-05-21 21:36:53+00:00,1528127715286581249,PremiaFinance,"Check out this Premia platform overview from @Ceazor7 we found accidentally! We've sent the creator 1500 PREMIA as a thank you for this valuable Premia content.
+Are you a creator? Share you content &amp; tag $PREMIA! We'll continue to support the best.
+https://t.co/dArzdHfpXw",27,3,2,2022-05-21
+693,2022-05-24 17:57:11+00:00,1529159591212326912,PremiaFinance,"We are looking for a #DeFi content / copy writer.
+Please, apply here https://t.co/Ortbx6L4ij",9,0,1,2022-05-24
+696,2022-05-26 21:35:44+00:00,1529939365450883072,PremiaFinance,"Hey, anons!
+Interested in learning about market volatility? 
+We've just released an easy-to-read and educational article about market volatility 😃 
+Have questions? Hop into our Discord and chat with the team.
+try trading options @ https://t.co/wf7XwNSony
+https://t.co/QU49DIx5pJ",26,1,6,2022-05-26
+697,2022-05-28 16:11:03+00:00,1530582433464188930,PremiaFinance,"🚨 New update 🚨 
+
+You can now view/monitor options pricing data without needing to connect your wallet on $Premia!👍
+Check it out and trade some options @ https://t.co/Ef9vd4GELh https://t.co/9jl6dkJwNK",26,0,3,2022-05-28
+698,2022-05-30 17:54:14+00:00,1531333175263301633,PremiaFinance,"psssst LPs… 
+
+Stay tuned for a new feature release tomorrow tailored just for you 💎",29,0,5,2022-05-30
+699,2022-06-01 19:49:07+00:00,1532086860880695297,PremiaFinance,"These new features make it easy for users to see all changes to their portfolio over time. 
+Users receive notifications when their liquidity is updated within a pool, and can see all of their current and past positions in the new Underwritten Options table.",9,0,0,2022-06-01
+701,2022-06-08 15:01:05+00:00,1534551092339646464,PremiaFinance,"With Premia live on Ethereum, Arbitrum, and Fantom - let’s take a moment to talk about third party bridge integration and bridge risks.
+
+Here’s everything you need to know so you can chain hop with confidence
+💎🤝👇
+
+https://t.co/oeX7Wo9KR8",20,0,3,2022-06-08
+702,2022-06-15 17:09:08+00:00,1537120030495735809,PremiaFinance,"Markets are down but we haven’t stopped building!
+
+Join us at 19 UTC this Friday for our bi-monthly community call to learn more about what we’ve been working on for $PREMIA behind the scenes💎 https://t.co/e4i5lwZxhX",22,1,4,2022-06-15
+703,2022-06-16 18:56:15+00:00,1537509374423449600,PremiaFinance,"The days of trusting centralized entities to custody your funds are over.
+
+Premia has been quietly building and facilitating approximately one million in notional volume daily. We’re not stopping here.
+
+Join us @ https://t.co/ftNMl01end 💎",26,0,5,2022-06-16
+704,2022-06-17 00:45:55+00:00,1537597373224042501,PremiaFinance,"Join us tomorrow in Discord at 19 UTC where we’ll be streaming a presentation and taking questions for our bi-monthly community call! 
+
+Be sure to tune in! $Premia V3 is under active development and we’ve got a lot to unpack for everyone 💎 https://t.co/WjgilJ2urq",18,1,0,2022-06-17
+706,2022-06-18 15:39:24+00:00,1538184612601548802,PremiaFinance,$Premia holders 👀 https://t.co/lKTDW6uOEZ,12,3,0,2022-06-18
+707,2022-06-23 15:08:58+00:00,1539988891826098178,PremiaFinance,"Missed our community call last week?
+
+Get caught up on all things Premia with our summary.
+
+We discussed:
+🛠 Building in a bear market
+🧐 Research updates
+👨‍💻 Platform updates
+🪙 vePremia tokenomics
+🔮 Premia v3
+
+Check it out 👇
+https://t.co/Viz0Dp4F6j",17,1,6,2022-06-23
+708,2022-06-26 02:40:12+00:00,1540887623245373441,PremiaFinance,"New UI update! 
+
+Token selectors across the application have been updated to give more detailed information on specific pools, options, as well as enable quicker viewing of supported assets 💎 https://t.co/Qch0aUyBCh",30,3,7,2022-06-26
+709,2022-06-27 22:26:37+00:00,1541548583182376966,PremiaFinance,"The c-levels associated to Premia's pools are constantly adjusting, right now incentivizing LPs to take advantage of the above-market premiums from options sold at these levels for many of the top assets available on the market💎 https://t.co/miCQ6r9NBK",7,2,0,2022-06-27
+710,2022-06-30 19:58:04+00:00,1542598365065641989,PremiaFinance,"Premia is excited to share that in collaboration with @GenesisVol, Premia IVOL data is now live and available on GVol2.0!
+
+All users with a balance of 1200 $PREMIA on mainnet can connect their wallet to take advantage of some of the premium web features @ https://t.co/sh0hdck4Ys https://t.co/3tcni1z27J",28,3,9,2022-06-30
+711,2022-07-03 16:45:12+00:00,1543636992164040706,PremiaFinance,"Soon we will be switching over to vePREMIA tokenomics 👨‍🔬
+
+We break down our new tokenomics model in this article 
+
+Check it out 🤝
+
+https://t.co/bQ0Ye7Q03W",77,11,16,2022-07-03
+712,2022-07-09 17:16:31+00:00,1545819196977823746,PremiaFinance,This week $Premia crossed a huge milestone with passing over $100 million in notional volume traded on @arbitrum! https://t.co/Q7JId9LjpE,53,2,8,2022-07-09
+714,2022-07-11 19:35:35+00:00,1546578973114646528,PremiaFinance,"Another milestone crossed this weekend for $Premia, passing over $150 million in notional volume across all networks! 
+
+Trade options, hedge risk @ https://t.co/ftNMl01end 💎 https://t.co/LnhnIjOJM9",24,2,2,2022-07-11
+715,2022-07-25 08:51:43+00:00,1551490367857610752,PremiaFinance,@nkheight @friktion_labs 🤝,4,0,0,2022-07-25
+716,2022-08-04 12:30:02+00:00,1555169187462631424,PremiaFinance,free alpha 🔴 https://t.co/VeHY8qs6bc,21,2,5,2022-08-04
+719,2022-08-05 19:26:31+00:00,1555636388036431873,PremiaFinance,"✨🔴 Premia is now live on @optimismFND 🔴✨
+
+💎 Deposit $wETH, $OP or $USDC to earn $PREMIA + potential premiums!
+
+📖 Read here to learn more about our OP deployment: https://t.co/SZ5IVuBv7Q https://t.co/qpZfUcKULe",62,5,9,2022-08-05
+720,2022-08-06 18:35:18+00:00,1555985885383888897,PremiaFinance,"Alongside our @optimismFND deployment, Premia has partnered with @SocketDotTech to enhance our in-app bridging experience!
+
+Bridge between any supported network w/ the best route, and swap assets seamlessly in a few clicks @ https://t.co/ftNMl0iPeL on the Bridge &amp; Swap tab 💎 https://t.co/ZUUoO2Y2BW",34,4,8,2022-08-06
+721,2022-08-07 08:48:31+00:00,1556200603470032896,PremiaFinance,"Cheap OPtions, OPtimistic returns https://t.co/pzfJipfnEi",32,4,8,2022-08-07
+722,2022-08-09 21:23:52+00:00,1557115471798960134,PremiaFinance,$PREMIA is now live on @optimismFND bridge 💎 https://t.co/Z1xxmfnB8p,36,2,5,2022-08-09
+723,2022-08-10 18:50:25+00:00,1557439239398326273,PremiaFinance,"It's almost that time again!
+
+Join us @ 19 UTC this Friday for our bi-monthly community call to learn more about our research, $Premia v3 progress, partnerships/integrations we're interested in, and much more! 💎 https://t.co/yqsPqQpUPV",20,3,4,2022-08-10
+725,2022-08-12 00:24:25+00:00,1557885683523534851,PremiaFinance,Set your reminders— tomorrow we’ll be streaming our bi-monthly community call @ 19utc and hosting a q&amp;a to follow!  https://t.co/WqROPeEUDO https://t.co/o5Vjsh2nHP,19,2,3,2022-08-12
+727,2022-08-16 15:36:51+00:00,1559564854461087746,PremiaFinance,Oh my https://t.co/WU33GltaGy,16,2,1,2022-08-16
+728,2022-08-25 18:35:22+00:00,1562871272266432514,PremiaFinance,"We heard ""real yield"" is the new thing https://t.co/hzybOC8DHT",48,4,6,2022-08-25
+729,2022-08-28 04:50:56+00:00,1563750959053930497,PremiaFinance,"Is it all ogre or are we due for some short-term relief soon, anon? 
+
+Find the strike and expiration that works best for you @ https://t.co/ftNMl01end https://t.co/8DknYn2L1Z",18,1,1,2022-08-28
+730,2022-09-01 01:54:53+00:00,1565156205181501441,PremiaFinance,"Want to get a deeper look into what's happening on Premia?
+
+Find information on volume, token data, individual options, option pools, pnl, greeks, and so much more @ https://t.co/skjNNwpcay 💎 https://t.co/Xt16AvCQkm",22,2,4,2022-09-01
+731,2022-09-03 16:48:53+00:00,1566105966470483969,PremiaFinance,Someone’s feeling bullish https://t.co/yFl2kiRWB4,21,7,3,2022-09-03
+733,2022-09-05 18:29:23+00:00,1566856031896047620,PremiaFinance,"Have you ever wanted to deposit into a liquidity pool but didn’t have the specified token(s)? 
+
+On $Premia, it doesn’t matter what tokens you hold! Deposit ANY erc20 token into ANY pool and let us worry about the swapping behind the scenes @ https://t.co/ftNMl01end 💎 https://t.co/28sCMvbV6B",34,4,5,2022-09-05
+734,2022-09-07 18:25:57+00:00,1567579943994884097,PremiaFinance,"Turn here, anon 💎 https://t.co/dS5J6OB1CY https://t.co/aOQKHdaYf2",39,3,14,2022-09-07
+736,2022-09-08 20:50:27+00:00,1567978697520517126,PremiaFinance,"We call it shipping and dripping. 🚢➡️💧
+
+Knox vaults coming soon to https://t.co/oBlYwTmcpL https://t.co/cyLfHBjH92 https://t.co/EEBei3xeIY",47,2,15,2022-09-08
+737,2022-09-09 16:44:08+00:00,1568279097603915777,PremiaFinance,"Bridge and swap your favorite assets to/from any supported network with your preference of highest return, fastest bridge, or lowest gas fees seamlessly on https://t.co/ftNMl01McL, thanks to https://t.co/GY8t42WaOm! https://t.co/Rur9C3LHg3 https://t.co/5nfeLenwkY",17,2,1,2022-09-09
+740,2022-09-11 03:00:55+00:00,1568796703767105536,PremiaFinance,"As Premia began expanding to new networks, we knew we needed more than just your average bridge to provide the best experience to our users.
+
+Check out our latest blog article to learn how to use Premia's bridge and features made possible by @SocketDotTech
+https://t.co/oPtHJWyFCe",36,5,7,2022-09-11
+741,2022-09-14 21:17:52+00:00,1570159924293795840,PremiaFinance,"Attention Premia users: 
+Specific L2 bridge routing will be temporarily disabled prior to the merge. Our partner @SocketDotTech will continue to be operational for bridge routes that aren't impacted at that time.
+
+More details can be found in this blog: https://t.co/zBWAJoPmES",10,5,0,2022-09-14
+743,2022-09-15 17:33:59+00:00,1570465969428103168,PremiaFinance,We're picturing this... and it looks fantastic https://t.co/dos9DQgom8,17,1,1,2022-09-15
+744,2022-09-16 17:30:53+00:00,1570827577807474690,PremiaFinance,"Flexible, automated option vault strategies with the ability to withdrawal at anytime. 
+
+Coming very soon 💎 https://t.co/bfZpHTDJ3d",25,1,6,2022-09-16
+745,2022-09-21 18:11:47+00:00,1572649810754416643,PremiaFinance,"Ant hedged, be like ant https://t.co/AnN2vC90ZN",5,0,0,2022-09-21
+751,2022-09-22 10:47:22+00:00,1572900354940981248,PremiaFinance,@ZurichCrypto 🤝,1,0,0,2022-09-22
+755,2022-09-23 15:21:52+00:00,1573331823278571521,PremiaFinance,@ZurichCrypto 🤝,2,0,0,2022-09-23

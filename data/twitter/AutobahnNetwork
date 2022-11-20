@@ -1,0 +1,2643 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-01 14:26:42+00:00,1212379624795181056,AutobahnNetwork,"Due to legal changes in Germany, we also had to reduce the limit for buying $MTXLT on our website without KYC to $2,000.",23,1,9,2020-01-01
+1,2020-01-02 11:31:18+00:00,1212697874087260160,AutobahnNetwork,"Hello from Hamburg ☀ We've prepared another survey for you. This time with a small $MTXLT giveaway. Looking forward to your contributions!❔
+https://t.co/44TWcEHH42",78,38,61,2020-01-02
+2,2020-01-04 09:36:01+00:00,1213393639063400448,AutobahnNetwork,"Thanks to our community member Ivan for writing a review about Tixl on Medium 🙏 Let's leave him some claps and follows 🙌
+https://t.co/mfQbR1NybZ",45,4,20,2020-01-04
+3,2020-01-05 15:11:56+00:00,1213840561288994821,AutobahnNetwork,⭐️Tixl is one of the default @coinstats_ favorites⭐️ https://t.co/i3L3SjcKj2,38,2,15,2020-01-05
+5,2020-01-07 16:15:09+00:00,1214581244899540992,AutobahnNetwork,"New Medium post online 🙌
+https://t.co/83YYL0N03w",31,0,13,2020-01-07
+6,2020-01-08 18:13:39+00:00,1214973456326053889,AutobahnNetwork,"We are happy to announce that our next big Status Update #4 is available on Medium 🙌 Check it out if you want to know our plans for 2020!
+https://t.co/YQ3b1cq4QO",57,2,34,2020-01-08
+7,2020-01-09 13:15:49+00:00,1215260890414698496,AutobahnNetwork,Our latest status update has made it into the handpicked news of @coinstats_ 🥰 https://t.co/o2Su42s2y3,32,3,11,2020-01-09
+8,2020-01-11 15:56:45+00:00,1216026164961083392,AutobahnNetwork,@strehldev working on some key sharing math. Tixl second layer solution in the making... 🤓 https://t.co/QaKOJPQGbN,27,2,13,2020-01-11
+9,2020-01-13 12:02:35+00:00,1216692012528939010,AutobahnNetwork,"Thanks to @btcecho for interviewing our founder @eichinger_c about Tixl and privacy coins in general 🙌
+https://t.co/lSF7rs250Q",46,2,25,2020-01-13
+10,2020-01-15 16:37:38+00:00,1217486005755875337,AutobahnNetwork,"Want to know more about Tixl as an investment? We highly recommend the @blockfyre  Report as a great package of information provided by a third party 🔎
+https://t.co/kw9SR3lC0n",24,1,14,2020-01-15
+11,2020-01-16 15:24:36+00:00,1217830013979983872,AutobahnNetwork,"- WebSockets are used for faster communication of the ledger with the web wallet. (release with 2.0)
+- The tx hashes are now shown in the wallet, so txs can be tracked on the explorer. For visual distinction of the hashes, we show an emoji version ⛵️🐺🇩🇪 (release with 2.0) (2) ⬇️",17,1,2,2020-01-16
+14,2020-01-20 11:24:54+00:00,1219219242819706881,AutobahnNetwork,"For our Spanish speaking followers: Tech on Catalina chose Tixl as one of her favorite altcoins for 2020 🇪🇸
+
+https://t.co/04MLqYyVyb",21,1,9,2020-01-20
+15,2020-01-27 19:21:11+00:00,1221875818743435265,AutobahnNetwork,"When you hear nothing and why you shouldn't worry. An article about the times where we are working hard in the background 🛠
+https://t.co/cvhAvD1nAQ",27,2,17,2020-01-27
+16,2020-01-30 16:07:45+00:00,1222914304166584323,AutobahnNetwork,"🤓 Developer Update 👨‍💻 (1/2)
+++++++++++++++++++
+- We did a big refactoring of our ledger workflow code so that the same API is used in the browser and on the nodes
+- Shorter addresses have been implemented, which enables us to do a lot of new features soon",21,3,9,2020-01-30
+18,2020-02-11 09:20:49+00:00,1227160550808989696,AutobahnNetwork,"New article on Medium: Token Sale Enhancement 🗞
+https://t.co/7HRiamH5jp",15,1,5,2020-02-11
+19,2020-02-14 10:42:39+00:00,1228268306710323201,AutobahnNetwork,"After announcing Tixl as a second-layer solution for $BTC in our latest status update, we did now revamp our website 🎨
+https://t.co/50Gt42UDjy",39,2,11,2020-02-14
+20,2020-02-19 09:39:41+00:00,1230064400054308866,AutobahnNetwork,"Let's vote for $MTXLT to get it listed in Atomic!
+https://t.co/5AI7VoYreg",29,3,16,2020-02-19
+21,2020-02-21 14:18:14+00:00,1230859276878589953,AutobahnNetwork,"Our Testnet has been running solid for 1,122,222 slots aka 5,611,110 seconds aka 65 days 💪
+https://t.co/JHDSEdl976 https://t.co/xXsTDQ60DE",32,2,12,2020-02-21
+22,2020-02-25 16:04:06+00:00,1232335470459281408,AutobahnNetwork,Making good progress on the frontend of our second layer solution for $BTC 💪 https://t.co/dWIovm6bQ1,36,5,13,2020-02-25
+23,2020-02-27 15:10:07+00:00,1233046660017803267,AutobahnNetwork,"- The tixl ledger has been modified to allow for other asset types
+- Stealth chains are now used by the web wallet",15,0,2,2020-02-27
+26,2020-02-28 14:25:00+00:00,1233397695219367938,AutobahnNetwork,Thank you for your support. Tixl will be added to Atomic Wallet soon 🎉 https://t.co/tD9MgmBlbE,37,4,11,2020-02-28
+27,2020-03-04 13:29:11+00:00,1235195587957575680,AutobahnNetwork,"We are already looking forward to the first BTC transactions on the Tixl Ledger ⚡️
+#Bitcoin #digitalassets #LightningNetwork https://t.co/IBz5muc5Lj",54,13,20,2020-03-04
+28,2020-03-06 13:42:45+00:00,1235923775130132480,AutobahnNetwork,"We just finished our 48 hours „Send BTC through the Tixl Network"" hackathon and came very close to a working Testnet. We'll continue our work at the weekend to deliver a showcase as soon as possible 💪⚡️ #LightningNetwork #Bitcoin $BTC $MTXLT",33,0,13,2020-03-06
+29,2020-03-10 09:43:18+00:00,1237313068226318336,AutobahnNetwork,"We are proud that Ivan on Tech selected Tixl as one of his Top Altcoins for 2020 🥰
+https://t.co/tzTeyNDJKp",27,3,13,2020-03-10
+30,2020-03-13 06:25:06+00:00,1238350353864650753,AutobahnNetwork,#Bitcoin on steroids 🚀 This week we made the first BTC transactions on the Tixl Network 🙌🏼 https://t.co/cTygPusmDe,53,9,20,2020-03-13
+31,2020-03-14 14:28:23+00:00,1238834362897944576,AutobahnNetwork,"@MrCaptainFuture It will be part of the Testnet ""Blankenese"" Release. The release date is not scheduled yet.",5,0,1,2020-03-14
+33,2020-03-18 10:05:06+00:00,1240217656415760384,AutobahnNetwork,An update for our fellow Hodlers Club members 🙌 The first distribution of staking rewards will take place on April 15. You'll be able to check the amounts that will be distributed on your account page of our website a few days before 🔎,36,3,15,2020-03-18
+34,2020-03-19 16:30:23+00:00,1240677007073009664,AutobahnNetwork,"A quick update on the next phase of our token sale ℹ️
+https://t.co/3uTuEgtjWb",20,3,8,2020-03-19
+35,2020-03-20 15:56:43+00:00,1241030920917807106,AutobahnNetwork,"We wrote an article about the FATF recommendations and privacy coins. It was now published on @CoinMarketCap. Especially in these challenging times, it's important that we keep an eye on our privacy 👁🔐
+https://t.co/vf5hZupZHY",22,2,7,2020-03-20
+37,2020-03-22 15:52:45+00:00,1241754698412986368,AutobahnNetwork,A few weeks ago we asked for creative ideas to boost our Social Reward Program starting on April 1. We picked 6 ideas that we didn't have on our agenda and will reward each idea with 0.1 $MTXLT. The following BNB addresses will receive the reward next week or earlier 💌,17,2,6,2020-03-22
+39,2020-03-25 13:28:16+00:00,1242805500372291585,AutobahnNetwork,"Tixl and other @Binance Chain Alliance companies will join hands in the fight against the #COVID19 pandemic.
+Our donation will be used to help regions that have been drastically affected.
+Together, we’ll get through these difficult times 🙏🏽 https://t.co/PmNveOUiyf",34,4,17,2020-03-25
+40,2020-03-30 15:24:05+00:00,1244646588682776580,AutobahnNetwork,We are excited to join @blockfolio Signal to keep you updated on our latest project updates 🙌 #Blockfolio #BlockfolioSignal https://t.co/q62EM84j4Z,48,5,21,2020-03-30
+41,2020-04-02 14:21:35+00:00,1245718022234558464,AutobahnNetwork,"The first quarter of our Social Reward Program just started. Join the program and earn $MTXLT today 💪 Yesterday's Medium post explains everything you must know 🗞
+https://t.co/4TN2hTl1dJ",30,2,15,2020-04-02
+42,2020-04-03 17:33:34+00:00,1246128724958994436,AutobahnNetwork,"The first 10 $MTXLT Ambassadors have joined our Social Reward Program 🙌 New Program features coming soon 💪
+https://t.co/4TN2hTl1dJ",25,6,11,2020-04-03
+44,2020-04-05 17:26:24+00:00,1246851694656401409,AutobahnNetwork,"We just released a new activity for our Social Reward Program. Ambassadors will now also earn points for following certain Twitter accounts 🏅
+https://t.co/4TN2hTl1dJ",22,2,10,2020-04-05
+45,2020-04-07 22:46:55+00:00,1247657132863913986,AutobahnNetwork,"Didn't hear about our Social Reward Program yet? Check the new article by @DailyChainNews and find out 🗞
+https://t.co/5EPwPKdJYe",24,0,16,2020-04-07
+46,2020-04-08 11:35:14+00:00,1247850484477636608,AutobahnNetwork,"🤓 Developer Update 👨‍💻
+++++++++++++++++++
+💲In the last weeks, we focused on the development of our second layer solution for $BTC.
+🛣 We built features to get BTC in and out of the Autobahn Network (name of our second layer solution).
+💅 The wallet UX has been further improved.",35,2,20,2020-04-08
+47,2020-04-09 18:55:42+00:00,1248323720327946241,AutobahnNetwork,Just before the Easter weekend we deployed another activity for our Social Reward Program 🐰 Retweets will now also be rewarded ✅ Also stay tuned for our new Medium post about our Second Layer solution being published tomorrow 🗞,35,0,22,2020-04-09
+48,2020-04-10 13:23:50+00:00,1248602590939467777,AutobahnNetwork,"We are excited to give you an update about our Second Layer solution 🤩 We have decided to call it the ""Autobahn Network"" 🏎
+#AutobahnNetwork #Bitcoin
+https://t.co/WYEtAFelnp",49,6,28,2020-04-10
+50,2020-04-12 12:06:10+00:00,1249307820610248704,AutobahnNetwork,We wish you all a Happy Easter 🐰 Enjoy the time at home and stay healthy. We start this long weekend with the implementation of a leaderboard for our Social Reward Program 🙌,32,3,16,2020-04-12
+51,2020-04-14 09:22:56+00:00,1249991521014874112,AutobahnNetwork,Working on the Hodlers Club reward payouts. Website update incoming today 💪,32,3,17,2020-04-14
+53,2020-04-15 12:22:37+00:00,1250399126610743296,AutobahnNetwork,"After the Easter weekend, you can now send us some ""eggs"" in the form of $BAT tokens to further support the project 🐣
+Use our Ref link if you want to try @brave: https://t.co/qly8A9QgeW",36,3,19,2020-04-15
+54,2020-04-17 18:57:31+00:00,1251223280331169794,AutobahnNetwork,"This week we deployed another feature for our Social Reward Program. As a $MTXLT ambassador you can now like ""auto like"" Tweets made by us and earn points even more easy 😎 https://t.co/qQ525D4i4b",27,6,14,2020-04-17
+55,2020-04-18 11:20:43+00:00,1251470711715217408,AutobahnNetwork,"After yesterday's late-night coding session, we are proud to present the first version of our Social Reward Program Leaderboard today 😎 Can you make it into the Top10 by the end of June? 🤗 https://t.co/1vd4HfZDw1",35,4,22,2020-04-18
+56,2020-04-19 15:48:31+00:00,1251900493456179200,AutobahnNetwork,"Still looking for something to read on your Sunday in home quarantine? 📚 We invite you to read about some technical details behind the Autobahn Network 🏎 #Bitcoin #AutobahnNetwork $MTXLT
+https://t.co/GwcVQLNrW8",51,1,24,2020-04-19
+57,2020-04-21 12:28:32+00:00,1252574942471819264,AutobahnNetwork,CleverCryptoDog maintains the lead in our Social Reward Program 🏎 Can you catch up with him? 😉 @CleverCryptoDog $MTXLT #Tixl https://t.co/Rd9Djm2hsE,40,4,18,2020-04-21
+58,2020-04-22 09:30:50+00:00,1252892609028263936,AutobahnNetwork,"Our Autobahn Network is powered by $MTXLT and enables fast, cheap and private transactions for $BTC. Read more in the article by @DailyChainNews 📚
+https://t.co/lu9HgNHMzQ",42,0,21,2020-04-22
+59,2020-04-24 18:19:58+00:00,1253750547372486662,AutobahnNetwork,"🤓 Developer Update 👨‍💻
+++++++++++++++++++
+💅 We did a lot of fixes and improvements in the Wallet UI (again).
+⚙️ The wallet was refactored to use a web worker for crypto related methods.
+💪 A big refactoring our our main component is in progress, increasing the overall stability.",48,1,26,2020-04-24
+60,2020-04-27 15:19:45+00:00,1254792357834305538,AutobahnNetwork,"Last week, we rolled out auto-retweets for our Social Reward Program 💪 On our agenda this week: Rewarding people who tag friends on certain tweets to spread the word about Tixl even further 📢
+https://t.co/jmfVFHxmE8",54,5,26,2020-04-27
+61,2020-04-28 16:40:50+00:00,1255175150393311232,AutobahnNetwork,We'll be launching the new #AutobahnNetwork Website soon 💪 Today we are proud to share the Autobahn Network logo with you 🎨 https://t.co/1xxcJl379l,47,4,25,2020-04-28
+62,2020-04-29 14:19:04+00:00,1255501859957153792,AutobahnNetwork,Raise your hand if you are as excited as we are about the upcoming release of the #AutobahnNetwork website? 🙋🏽‍♂️ https://t.co/O7O2KRUgwA,50,16,26,2020-04-29
+63,2020-04-30 14:39:50+00:00,1255869475716562944,AutobahnNetwork,"Sneak peek of our #Bitcoin transfer feature included in our upcoming ""Blankenese"" release 🤫 First internal testings have been completed. Now working on some final bugfixes before the launch 💪 #AutobahnNetwork will allow high-speed $BTC transactions fueled by $MTXLT 😎 https://t.co/gF45IOrBjI",78,9,43,2020-04-30
+65,2020-05-02 14:08:59+00:00,1256586486700523520,AutobahnNetwork,"Want to add some Social Reward Program Points to your score? Contribute to our social reach and tweet something informative about Tixl! 📚 You'll earn points depending on the likes and retweets 📈 Explore our two new activities 🔎
+https://t.co/6Nvr0yp0iy",35,3,18,2020-05-02
+66,2020-05-05 11:17:17+00:00,1257630442599190528,AutobahnNetwork,There are plenty of use cases for the #AutobahnNetwork! $MTXLT is the flagship and can be transferred with zero fees 💸 This is a preview of our upcoming Autobahn Network website 🙌 https://t.co/OkUeHNflsb,40,1,26,2020-05-05
+67,2020-05-06 15:22:28+00:00,1258054530060759041,AutobahnNetwork,"The Autobahn Network will allow sending $BTC fast, cheap and private 😎 Do you have any ideas for some nice hashtags around our platform? #AutobahnNetwork and #BTCFastlane are not enough 🙅‍♂️ Comment your creative hashtag ideas below ⬇️",34,15,20,2020-05-06
+68,2020-05-07 15:19:24+00:00,1258416145578823681,AutobahnNetwork,"Something for our German followers 🇩🇪 An article about Bitcoin and Tixl in the ""Hamburg Unternehmer Magazin"" 🗞 This link leads you straight to the magazine: https://t.co/LgUhGGXkeu https://t.co/yXVXOIqm1T",37,4,21,2020-05-07
+69,2020-05-08 16:13:21+00:00,1258792111215988736,AutobahnNetwork,"It's done: The #AutobahnNetwork website is online 🥳 We hope you like it as much as we do 🙌🏼 
+Next stop on our roadmap: Release of the Testnet ""Blankenese"" 🤙🏽
+https://t.co/0rVkO1H2Hx",50,7,25,2020-05-08
+70,2020-05-14 14:39:53+00:00,1260942916987609088,AutobahnNetwork,First slide of our #AutobahnNetwork pitch deck we've sent to institutional investors. To all hodlers: Cross your fingers for our Series A 🤞 $MTXLT #BTCFastlane https://t.co/fgisVaxA5H,40,0,25,2020-05-14
+71,2020-05-16 19:13:04+00:00,1261736440679092226,AutobahnNetwork,"We've just published some modifications to the Social Reward Program. Also a new activity has been added ➕ New chances to boost your points in the second half of the current Social Reward Program quarter 🧑‍💻 
+https://t.co/6Nvr0yp0iy",48,0,22,2020-05-16
+72,2020-05-19 11:40:49+00:00,1262709791773929473,AutobahnNetwork,"Found ourselves in an article on @FXstreetNews from April this year 🗞 Always great to stumble upon news about your own project 🤩
+https://t.co/JTM2eabxKB",58,1,28,2020-05-19
+73,2020-05-20 13:16:47+00:00,1263096331867951104,AutobahnNetwork,"We've got some exciting news today 🙌 The #AutobahnNetwork Testnet will launch on May 27th at 3pm CEST ⏰ The release will have the codename ""Blankenese"" named after the beautiful district of Hamburg 🏙 More updates around the release will follow over the next few days. https://t.co/rsPOPkS9T9",44,3,28,2020-05-20
+74,2020-05-24 08:45:53+00:00,1264477707968151552,AutobahnNetwork,"Stay tuned for our June AMA about the launch of our Testnet version ""Blankenese"". @eichinger_c and @sebgronewold will answer your questions about the #AutobahnNetwork and the future of Tixl 🙌 #BTCFastLane #Bitcoin200mph
+https://t.co/kkwzfpgCh4 https://t.co/iRyu5TqPPN",47,3,27,2020-05-24
+75,2020-05-27 12:57:22+00:00,1265628161372491776,AutobahnNetwork,"To celebrate the #AutobahnNetwork Testnet we came up with a small competition for you 🥳
+Every Tx signature has an emoji hash for quick identification (🇩🇪🏎🤩). The first person who creates a $BTC SEND Tx with according emoji hash and tweet the Tx signature will receive $MTXLT 🤑 https://t.co/E07FOGFsWf",87,44,43,2020-05-27
+81,2020-05-28 12:50:39+00:00,1265988860577755136,AutobahnNetwork,🏎 https://t.co/C64Hp0KKAC,25,1,6,2020-05-28
+85,2020-05-29 09:47:08+00:00,1266305061770063873,AutobahnNetwork,"Curious what is contained by our Testnet version ""Blankenese""? Find out by reading our new Medium post 🗞
+https://t.co/6fdruuklHU",33,0,24,2020-05-29
+89,2020-06-02 12:41:13+00:00,1267798422796537857,AutobahnNetwork,"Stay tuned for our June AMA about the launch of our Testnet version ""Blankenese"" 🙌🏼
+@eichinger_c and @sebgronewold will answer your questions about the #AutobahnNetwork and the future of Tixl 🔮
+#BTCFastLane #Bitcoin200mph
+https://t.co/kkwzfpgCh4 https://t.co/8p4cUhwJ3F",39,5,25,2020-06-02
+90,2020-06-03 12:57:36+00:00,1268164936443867138,AutobahnNetwork,"We will be live in 3 minutes answering your questions about $MTXLT 🙌
+https://t.co/UYlHJsuqdm",30,0,18,2020-06-03
+93,2020-06-05 14:55:54+00:00,1268919481839083520,AutobahnNetwork,We want to thank you for joining our AMA on Wednesday 🙏 It was really fun to talk to the community about what's next for $MTXLT and the #AutobahnNetwork. Have a nice weekend everyone 🙌 https://t.co/L2hj3yMagL,39,3,24,2020-06-05
+94,2020-06-06 10:04:26+00:00,1269208521050120192,AutobahnNetwork,"Have you already checked out our latest Social Reward update? Refer another user joining the social reward program 🙌🏼 Only three spots left with an additional AMA bonus. You should become a Tixl Ambassador?
+https://t.co/jmfVFHxmE8",44,2,24,2020-06-06
+96,2020-06-09 17:04:37+00:00,1270401423927390208,AutobahnNetwork,"The development of our Autobahn Wallet App will be open source from the beginning 👨🏽‍💻 We will really start with the development within the next days 🤓
+https://t.co/eJiKsakT3m",50,3,26,2020-06-09
+97,2020-06-10 15:46:44+00:00,1270744215451062285,AutobahnNetwork,"Your #Bitcoin in the fast lane. The #AutobahnNetwork by @tixlcurrency provides the ability to use any cryptocurrency, including Bitcoin, as an efficient and effective means of real-world payment.
+#BTCFastLane #Bitcoin200mph
+Website: https://t.co/0rVkO1H2Hx https://t.co/r6SVo1WXhe",52,2,36,2020-06-10
+98,2020-06-11 08:32:22+00:00,1270997291646713862,AutobahnNetwork,@eichinger_c was on an interview with @unclebobcrypto  about $MTXLT and the #AutobahnNetwork. Check out their conversation and good luck for the giveaway 🍀 https://t.co/PMnL8PIA2g,33,0,14,2020-06-11
+99,2020-06-12 15:13:16+00:00,1271460566633193473,AutobahnNetwork,"Have you already spotted our latest Social Reward Program activity ""Tag someone who could be interested in a tweet from @tixlcurrency""? 👯‍♀️
+https://t.co/jmfVFHxmE8",38,0,23,2020-06-12
+100,2020-06-15 14:31:44+00:00,1272537276665520128,AutobahnNetwork,Our follower base on Blockfolio is growing 📈 Thanks to @blockfolio for providing such an awesome channel for informing crypto communities 🤩 https://t.co/swD9StrIYx,44,1,22,2020-06-15
+102,2020-06-17 15:39:33+00:00,1273279120798109696,AutobahnNetwork,The major Tixl Status Update #5 will be released this weekend 🥳 Looking forward to sharing our plans with you 🙌,46,3,26,2020-06-17
+103,2020-06-18 20:36:52+00:00,1273716330177466373,AutobahnNetwork,"🤓 +++ Developer Update +++ 👨‍💻 (1/2)
+- Some bugfixes after the Blankenese release
+- Refactoring of the wallet, so that transaction handling is more flexible and can be used as a module
+- Basic Setup for the Autobahn Wallet App",35,2,22,2020-06-18
+104,2020-06-21 09:34:37+00:00,1274636835768152064,AutobahnNetwork,"The sun is shining in Hamburg today ☀️ Best time to grab a coffee and to read our newest major Status Update #5 🗞
+https://t.co/2aO323pCDq",94,4,44,2020-06-21
+105,2020-06-25 07:56:53+00:00,1276061788229046272,AutobahnNetwork,Starting into today's product brainstorming workshop for the first use case based on the upcoming Alphanet 💪☀️,41,3,25,2020-06-25
+106,2020-06-26 12:48:55+00:00,1276497670245359616,AutobahnNetwork,"🤓 +++ Developer Update +++ 👨‍💻
+- We improved the concept of multi transactions to make them more simple
+- Refactored some pieces that get in touch with multi transactions to solve unwanted side effects
+- The validation in validator nodes has been refactored to become more modular",38,1,23,2020-06-26
+107,2020-06-29 11:49:45+00:00,1277569946470486016,AutobahnNetwork,"This week's schedule:
+- Finishing the accounting for last year's crypto transactions 🙄
+- Starting Q2 of the Social Reward Program 📈
+- Coding on the Autobahn Wallet App and Alphanet 🤓
+- Different business calls with uncertain output 🤞",44,1,24,2020-06-29
+108,2020-06-30 14:32:52+00:00,1277973381049024517,AutobahnNetwork,Working on the Social Reward Program Q1 -&gt; Q2 transition 💪,35,0,22,2020-06-30
+109,2020-07-03 14:14:17+00:00,1279055867179085826,AutobahnNetwork,This week's focus was on finding the best app ideas for Alphanet. We are doing intensive research to avoid going into the wrong direction. Our goal is to show traction for our Bitcoin scaling solution asap! 💪 https://t.co/NZLbprVxkR,47,4,25,2020-07-03
+110,2020-07-07 23:11:42+00:00,1280640665202941952,AutobahnNetwork,Late night coding session in progress 👨‍💻🌔 Website update coming soon 💪,36,0,22,2020-07-07
+112,2020-07-09 07:18:08+00:00,1281125470080245760,AutobahnNetwork,"I wonder how long @VitalikButerin has been following our project Tixl to copy the name of the new #Ethereum Testnet ""Altona"" from us 🧐 https://t.co/16wCQ9bADl",45,4,25,2020-07-09
+115,2020-07-12 17:55:53+00:00,1282373126286970884,AutobahnNetwork,"Tixl website + Autobahn Network website have been updated 🙌 Medium post about our next steps on the road to Alphanet coming next week 🗞
+https://t.co/T35OvUt1xU",61,1,31,2020-07-12
+116,2020-07-13 17:03:07+00:00,1282722236978405381,AutobahnNetwork,"In co-existence with our $MTXLT BEP-2 token, $MTXLT will soon be available as ERC-20 on Ethereum 💪 Find out more in our latest blog post 🗞
+https://t.co/qoN2k4mwEb",57,4,32,2020-07-13
+117,2020-07-14 12:31:29+00:00,1283016266832371716,AutobahnNetwork,"@CoinMarketCap, we would like to register one https://t.co/fmMGIG8RIq email to manage Tixl's self-reporting dashboard on CoinMarketCap.",22,0,3,2020-07-14
+118,2020-07-18 11:49:14+00:00,1284455185537028096,AutobahnNetwork,Making progress on the web wallet UI/UX redesign for #AutobahnNetwork 🤩 https://t.co/fLpQqeFfb4,76,1,36,2020-07-18
+119,2020-07-24 05:14:16+00:00,1286530114654818304,AutobahnNetwork,@knuxel @LayahHeilpern 🏎🏎🏎 https://t.co/gd6eYIUMQ6,21,0,3,2020-07-24
+120,2020-07-29 16:20:02+00:00,1288509600250114048,AutobahnNetwork,"You are new to Tixl and wonder about the low supply and our tokenomics? 🤔 We provide an explanation in our latest Medium update 🗞
+https://t.co/HT3Q6O74wr",87,2,43,2020-07-29
+121,2020-08-03 16:00:24+00:00,1290316596498571264,AutobahnNetwork,"Tixl $ETH Roadmap 🚀🌕
+-------------------------
+🌱 ERC-20 minting
+↔️ BEP-2 / ERC-20 Bridge 
+🦄 #Uniswap
+📚 Staking 
+🍾 Exchange Listings
+🤝 Smart Contracts for $MTXLT
+💵 Fiat to Crypto Onramp
+♥️ ERC-20 support on the #AutobahnNetwork 
+https://t.co/j4smB1J6uJ",106,6,49,2020-08-03
+122,2020-08-06 16:44:17+00:00,1291414806109605888,AutobahnNetwork,"Proud to announce our strategic partnership with @FerrumNetwork 🤩 $MTXLT $FRM
+https://t.co/JUACiI97lB",249,5,110,2020-08-06
+124,2020-08-10 14:36:00+00:00,1292832071841390592,AutobahnNetwork,"How would you call the ""Social Reward Program"" if you had to find a fancier name for it? 🤔 https://t.co/tQ0DZiwUrp",101,12,46,2020-08-10
+126,2020-08-19 09:54:44+00:00,1296022781012869121,AutobahnNetwork,"BIG UPDATE to our successful Social Reward Program (which pays you $MTXLT as a thank you):
+
+👨‍🚀 New Name: Tixl Astronauts Club
+🚀 Open for more people: No KYC / MTXLT required
+💸 More rewards incl. YouTube, Medium, etc.
+
+Details: https://t.co/i2LcV8SJDx
+#MTXLT #TixlAstronauts",2326,614,2294,2020-08-19
+128,2020-08-20 13:38:48+00:00,1296441557479034888,AutobahnNetwork,"Currently negotiating with real (paying!) clients who love Tixl (which crypto project earns real money in such an early stadium 😉?). 
+
+💰 Revenues = Money for Marketing, Product or Token Burn
+
+✊ that we can announce exciting news soon. Stay tuned!
+
+#MTXLT",397,34,179,2020-08-20
+129,2020-08-21 15:45:48+00:00,1296835903101571077,AutobahnNetwork,Today we sat together with our advisors to decide about the Tixl roadmap for the next two years 💪 Website update and #Uniswap listing coming soon. $MTXLT https://t.co/wY8A3hs0Yw,552,25,305,2020-08-21
+130,2020-08-22 13:24:55+00:00,1297162837413056514,AutobahnNetwork,"Wow, this is great, guys! Since Wednesday 38 new Tixl Astronauts joined the Club (https://t.co/uqBUEx4fMm). We just want to say Thank you for your great support. We already have an awesome community!!
+
+Here’s the current leaderboard 💰💸:
+
+$MTXLT #Uniswap #MoreExcitingNewsSoon https://t.co/MpKRd1B7n4",901,65,553,2020-08-22
+131,2020-08-23 15:35:20+00:00,1297558046814724096,AutobahnNetwork,"Currently also working on our wallet redesign for the Autobahn Network. This will be so much more userfriendly 🚀.
+
+$MTXLT #AutobahnNetwork https://t.co/vqJS9DoXu5",607,68,378,2020-08-23
+132,2020-08-24 10:01:19+00:00,1297836377212682240,AutobahnNetwork,"Good morning folks ☀️ Due to the insane spike of registrations for our Tixl Astronauts Club over the weekend, approvals are paused and will be resumed after we've optimized our internal processes. Approved accounts will receive an email soon 📩",278,36,164,2020-08-24
+135,2020-08-25 06:34:25+00:00,1298146695151222785,AutobahnNetwork,"New TIXL partnership: Moonrock Capital 🚀
+
+For details please see: https://t.co/InoC9rGXLz
+
+$TXL $MTXLT",212,21,139,2020-08-25
+137,2020-08-26 16:09:33+00:00,1298653819572826116,AutobahnNetwork,"Exciting: Smart Contract Audit is in progress already. 
+
+We will announce the exact Uniswap Listing Date on Monday, 31 August 2020.
+
+$TXL soon on #Uniswap https://t.co/9n3oQXSfie",230,21,148,2020-08-26
+138,2020-08-27 17:34:23+00:00,1299037559104983046,AutobahnNetwork,"DEV BOUNTY: We wanna speed up the development of the Autobahn &amp; have 2 tasks open for bounty!
+
+Required is a deep understanding of how BTC transactions are built/signed &amp; JS/Typescript knowledge. Should take less than 1 day. Well compensated.
+
+https://t.co/EhyWb2BxAc
+
+#btc #devs",165,6,117,2020-08-27
+139,2020-08-28 15:30:46+00:00,1299368838488784896,AutobahnNetwork,"As we received a lot of questions regarding the token split: The value of your tokens does not change as the % of your holdings relative to the total supply remains the same!
+
+For every MTXLT you own today, you will get 1'000 TXL.
+1 MTXLT at $100 equals 1'000 TXL at $0,1!
+
+$TXL",237,13,171,2020-08-28
+140,2020-08-29 15:22:49+00:00,1299729224656449537,AutobahnNetwork,"Looking forward to our #Unifyre listing as soon as our ERC20 token is out 💪
+
+$MTXLT soon becomes $TXL. #Uniswap",155,8,100,2020-08-29
+141,2020-08-30 18:49:01+00:00,1300143501926182915,AutobahnNetwork,"Today, we are working on real-time BTC transactions for the Autobahn Network. The speed is getting better and better 🏎
+
+$TXL $MTXLT #AutobahnNetwork",155,13,99,2020-08-30
+142,2020-08-31 15:37:34+00:00,1300457712803876864,AutobahnNetwork,"Update about what milestones we achieved last week:
+
+⛓ Prepared &amp; announced token split
+🧐 Finished Smart Contract Audit
+🏎 Got closer to Autobahn Network SDK release
+
+Up next:
+👨‍💻 Smart Contract Deployment
+🙋‍♂️ Onboarding new dev: Finn
+🦄 Uniswap Prep (date published today)
+
+$TXL",132,4,89,2020-08-31
+144,2020-09-01 17:37:01+00:00,1300850161686642689,AutobahnNetwork,"Here’s an explanation about how the upcoming migration from $MTXLT to $TXL works for Probit users: https://t.co/tuSRGIhdUu 
+
+👋 Bye MTXLT on September 9
+🙋‍♂️ Welcome TXL on September 10
+
+The official announcement from Probit can be found here: https://t.co/fIgBh7gGlL",121,5,73,2020-09-01
+145,2020-09-02 16:56:25+00:00,1301202329673371661,AutobahnNetwork,"Preparing everything for #Uniswap on the 9th of September: We just deployed the $TXL Smart Contract on Ethereum ⛓
+
+This is the address: https://t.co/Gwk0XDpVc9
+
+Please be aware of scammers: All projects on #Uniswap and other ETH exchanges that have a different address are #SCAM!",97,2,65,2020-09-02
+146,2020-09-03 14:15:54+00:00,1301524324344619009,AutobahnNetwork,@TheCryptomaniax @eichinger_c https://t.co/6W46R80N7J,33,0,2,2020-09-03
+148,2020-09-04 16:57:12+00:00,1301927302578819072,AutobahnNetwork,"Only 5 days left until Uniswap Listing and ERC-20/BEP-2 Bridge 🚀
+
+$TXL on #Uniswap",148,7,71,2020-09-04
+149,2020-09-05 14:12:46+00:00,1302248309810237441,AutobahnNetwork,"As you know, $TXL will be introduced soon (https://t.co/hP4Im7Z5wI). For those of you who haven’t experienced a token split:
+
+Apple &amp; Tesla just did it: https://t.co/XEB02vzGRx
+
+And Polkadot just did it: https://t.co/ZwRVN7H6bL",93,3,49,2020-09-05
+150,2020-09-06 18:48:52+00:00,1302680180469755904,AutobahnNetwork,"Sunday evening night shift - working on the new Tixl Website.
+
+Update coming next week ☺️
+
+$TXL",134,9,53,2020-09-06
+151,2020-09-07 12:30:10+00:00,1302947265498288130,AutobahnNetwork,"Update about what milestones we achieved last week:
+
+👨‍💻 Deployed Smart Contract
+🙋‍♂️ Onboarded Finn as new developer
+🎯 Finished marketing planning
+
+Up next:
+
+🎉 New Website Launch
+🦄 Uniswap $TXL Listing: September 9, 4pm UTC
+⛓ BEP-2 &lt;-&gt; ERC-20 Token Bridge",104,2,45,2020-09-07
+152,2020-09-08 16:07:48+00:00,1303364424393252864,AutobahnNetwork,T-1: $TXL on Uniswap in 24 hours: tomorrow at 4pm UTC 🦄 https://t.co/1baHY2EMyh,116,3,48,2020-09-08
+154,2020-09-09 08:59:25+00:00,1303619006750953472,AutobahnNetwork,"7 hours to go: $TXL on Uniswap today at 4pm UTC 🦄
+
+https://t.co/CeNp698H6T",92,1,35,2020-09-09
+158,2020-09-10 13:19:34+00:00,1304046863096729600,AutobahnNetwork,"2 x 5,000 TXL (currently $1,500) Trading-Competition for all Uniswap traders between today 1PM UTC and the 19th of September.
+
+Either provide a certain liquidity to the Uniswap pool or trade a certain amount of $TXL to participate.
+
+Here are the details: https://t.co/1piY3j81TK",109,10,55,2020-09-10
+160,2020-09-11 16:38:21+00:00,1304459276040241152,AutobahnNetwork,"CONFIRMED: Tixl earns first revenues!
+
+✅ 1 customer signed
+🤝 negotiating with 2 companies
+🚀 Sales &amp; Marketing haven't even started
+
+More Revenues mean:
+➡️more development, more marketing and/or more token burn!
+
+Details: https://t.co/nxOKOriXer",127,15,51,2020-09-11
+161,2020-09-12 13:54:06+00:00,1304780330021384194,AutobahnNetwork,"$TXL is now also listed on @CoinMarketCap, @coingecko and @livecoinwatch 🔥 
+
+https://t.co/htULgtoVOr",104,5,41,2020-09-12
+162,2020-09-14 16:12:08+00:00,1305539841619304450,AutobahnNetwork,"Update about what milestones we achieved last week:
+
+⛓ Token Split &amp; Bridge
+🦄 Uniswap, Coingecko &amp; CoinMarketCap $TXL Listing
+🎉 New Website Launch
+👨‍💻 Connected Tixl Wallet to Autobahn SDK
+
+Up next:
+
+🏎 Next Autobahn Network Sprint
+🧐 Dev Recruiting
+↔️ Finalize Swap DEX Concept",84,6,38,2020-09-14
+163,2020-09-18 16:22:56+00:00,1306992111208759296,AutobahnNetwork,"In the current phase, all our devs are hard working to deliver all $TXL #DeFi products as fast as possible.
+
+If you wanna follow us on Github (https://t.co/joNruP31ie), you can already see some hints where we are going (once we pushed new stuff from our private repositories). https://t.co/fmIVoqu7KG",83,1,36,2020-09-18
+164,2020-09-21 13:53:39+00:00,1308041707259342855,AutobahnNetwork,@mellicrypto Thanks a lot for the info! Forwarded to our devs already; this shouldnt be the case. The testnet is fully up and running 🤔,31,0,1,2020-09-21
+166,2020-09-22 15:12:14+00:00,1308423870404325377,AutobahnNetwork,"$TXL Founder Update AMA live on YouTube!
+
+When?
+This Thursday, Sept 24, @4PM UTC
+
+Topic?
+Tixl's new roadmap and vision re. the DeFi Ecosystem (with Swap DEX, DeFi SDK, etc.)
+
+Set an event reminder &amp; join here to ask any TXL question: https://t.co/sOj5kJixSh",73,2,33,2020-09-22
+168,2020-09-23 14:09:26+00:00,1308770453343875077,AutobahnNetwork,"BIG NEWS coming soon: Check out https://t.co/nygojSaCu2 
+
+There might be another Tixl product in preparation expanding the $TXL DeFi Ecosystem 😉
+
+Join our Tixl Founder Youtube Live AMA tomorrow, 4PM UTC: https://t.co/sOj5kJixSh",94,3,44,2020-09-23
+169,2020-09-24 15:00:00+00:00,1309145565419233281,AutobahnNetwork,Youtube Live AMA in 1 hour. Meet the $TXL founders @sebgronewold and @eichinger_c! https://t.co/m1UnLaCquy,58,0,24,2020-09-24
+171,2020-09-25 09:01:49+00:00,1309417814105772032,AutobahnNetwork,Thanks to @Bilaxy_exchange for listing $TXL 🙌🥳 https://t.co/iI0VlZ2rBG,80,2,28,2020-09-25
+173,2020-09-28 15:14:03+00:00,1310598655523643392,AutobahnNetwork,"Update about what milestones we achieved last week:
+
+⁉️ Update AMA
+ℹ️ Finalized https://t.co/f3dMpDXIJA Concept
+↔️ $TXL Listing Bilaxy
+
+Up next:
+
+💅 Web Wallet Redesign Release
+🤝 Partnership Negotiations
+🤓 Publish Tokenomics Website for maximum transparency",77,1,32,2020-09-28
+174,2020-09-30 16:00:13+00:00,1311335048965128198,AutobahnNetwork,"Send/Tip $TXL to anybody: TXL is listed on @cctip_io from now on.
+
+Example: 
+The first 100 retweets of this post get a random share of 50 TXL: @cctip_io draw 50 TXL 100 https://t.co/ol1NpeQ9Eu",199,59,190,2020-09-30
+175,2020-10-02 15:53:26+00:00,1312058115794391042,AutobahnNetwork,"Here’s an updated version of our subpage to see the latest $TXL tokenomics: https://t.co/IpN0KZ1b4u
+
+🔒 Long time locks for total supply
+
+🔒 Founder Wallets fully locked until mid 2021 with only 1% monthly release thereafter (until 2029)
+
+✅ Detailed planning for all future costs",78,0,34,2020-10-02
+176,2020-10-05 15:51:10+00:00,1313144710832304130,AutobahnNetwork,"Update about what milestones we achieved last week:
+
+🤝 Network Partnership Deal (more info soon)
+👨‍💻 Internal https://t.co/f3dMpDXIJA Release
+⛓ First draft of ETH Gateway
+
+Up next:
+
+📣 Marketing Workshop
+🤝 Partnership Announcement
+✅ Fix final bugs for Webwallet Release
+
+$TXL",82,4,30,2020-10-05
+177,2020-10-06 06:23:49+00:00,1313364318986133504,AutobahnNetwork,@djmconst Hey David. We have a Telegram group for those kind of questions. Feel free to ask anything there: https://t.co/tixGXVUt7L,31,0,0,2020-10-06
+178,2020-10-09 13:05:36+00:00,1314552593427959810,AutobahnNetwork,"We’re very proud to announce our new partnership for network interoperability and infrastructure with @Meter_IO 🤩
+
+Read more in our Medium article here: https://t.co/h6mv4am4qh
+
+$TXL $MTRG $MTR",96,5,43,2020-10-09
+179,2020-10-12 16:48:22+00:00,1315695820310753281,AutobahnNetwork,@respawnedtrader with @Meter_IO. You have all the details here: https://t.co/h6mv4am4qh,34,0,2,2020-10-12
+181,2020-10-14 16:26:59+00:00,1316415214225686528,AutobahnNetwork,"Exciting news: First token burns 🔥
+
+In the Tixl Ecosystem, multiple products create value for $TXL. One part is that product revenues will partially be used for Buy Backs &amp; Burns.
+
+With $TXL being a deflationary token, we burned the first tokens:
+
+https://t.co/ZYxX1AWvFK",82,6,30,2020-10-14
+182,2020-10-15 16:30:18+00:00,1316778437328146433,AutobahnNetwork,"Claiming test tokens for testnets can be a pain 🤕
+
+We just open-sourced another small side project, the Faucet Bot.
+
+It's a Telegram bot using the Tixl SDK for getting test $TXL: https://t.co/6C1reD57lw. 
+
+Type /start &amp; enter your Tixl Wallet address (https://t.co/prf0oX4TtO)!",59,6,14,2020-10-15
+183,2020-10-16 12:57:31+00:00,1317087275403063297,AutobahnNetwork,"The Tixl SDK is out 🎉🥳
+
+The first products using the SDK already are the Tixl Wallet and the Faucet Bot. The Tixl Exchange will be connected soon...
+
+For a tech documentation, please check out https://t.co/PJYAgOLABj. 
+
+SDK use cases you can find here: https://t.co/rFtZV9eXrs",72,1,26,2020-10-16
+184,2020-10-19 16:30:36+00:00,1318228064321626113,AutobahnNetwork,"Update about what milestones we achieved last week:
+
+🏎 Released 1st version of SDK
+💅 Released ""Cranz"" webwallet
+🔥 1st $TXL token burns completed
+
+Up next:
+
+👨‍💻 https://t.co/f3dMpDXIJA Go-to-Market workshop
+👨‍🚀 Tixl Astronauts Club Restart
+⛓ $TXL on Binance Smart Chain? https://t.co/q6xoSnPJa2",62,2,24,2020-10-19
+185,2020-10-21 16:46:44+00:00,1318956897576361984,AutobahnNetwork,"We promised to open-source more and more of our technology over time. At some point, the whole Autobahn Network and Tixl Ecosystem will be open-source.
+
+For all developers, here's the next part we just open-sourced: The Tixl Types: https://t.co/JzYwpRqa6L
+
+$TXL",66,2,18,2020-10-21
+186,2020-10-22 12:50:13+00:00,1319259764673699840,AutobahnNetwork,"Our new network and infrastructure partner @Meter_io invited us to do an AMA in the Meter Telegram group. 
+
+Join us &amp; ask questions about Tixl, Meter &amp; the partnership!
+
+Today at 4PM UTC
+
+https://t.co/cfdnUxvHOY
+
+$TXL https://t.co/EP0t8Uj60j",67,0,17,2020-10-22
+187,2020-10-26 15:44:22+00:00,1320753143806939137,AutobahnNetwork,"This week it's time for a more detailed update!
+
+Products until the end of the year:
+
+🏎 Autobahn Network Alphanet
+🏦 Production-ready, optimized Tixl Wallet
+↔️ 1st Version Tixl Exchange
+🤓 1st Version Tixl Finance
+⛓ Updated Tixl SDK
+
+Details 👉 https://t.co/D5jFRxprod",77,1,32,2020-10-26
+188,2020-10-29 16:24:04+00:00,1321850298630025216,AutobahnNetwork,"👨‍💻 👨‍💻 👨‍💻 👨‍💻 👨‍💻
+
+Today, we are busy doing a https://t.co/f3dMpDXIJA Hackathon in our offices in Hamburg (plus some devs remote).
+
+@eichinger_c and Leif are currently coding smart filters for fundamental crypto analyses...
+
+$TXL https://t.co/fcQYeWimyE",76,1,33,2020-10-29
+189,2020-10-30 13:56:05+00:00,1322175443986980867,AutobahnNetwork,"After incorporating all your feedbacks (thank you!), the Tixl Astronauts Club Q4 period officially started! 💪
+
+To receive Q3 rewards, please provide your ETH address until Nov 6, 2020: https://t.co/uqBUEx4fMm!
+
+All changes &amp; details are explained here: https://t.co/K9bOSI040u",91,23,44,2020-10-30
+190,2020-11-02 08:38:04+00:00,1323182577809793025,AutobahnNetwork,"@MTixler Hey @MTixler. Thanks for your message. 1. No, you have to be approved first. Your account is still under review (we received many applications. 2. yes, everything is checked by the Twitter API.",34,0,0,2020-11-02
+192,2020-11-06 17:09:15+00:00,1324760773298708481,AutobahnNetwork,"Our Tixl Astronauts Club lets you earn $TXL for supporting us on Twitter.
+
+If you believe in $TXL as a long-term project as much as we do, apply for the Club (https://t.co/uqBUEx4fMm) &amp; share quality content!
+
+In the last quarter, these were the TXL amounts our members received: https://t.co/uxCVEjxE1D",68,7,34,2020-11-06
+193,2020-11-09 18:16:16+00:00,1325864801604677633,AutobahnNetwork,"Update about what milestones we achieved last week: 
+
+📂 Deployment &amp; integration of public ledger
+👨‍💻 Payloads added &amp; wallet fixes
+👷‍♂️ Prepared production environment of wallet
+
+Up next:
+
+🕵️‍♂️ Extension of the secret sharing service
+📈 Tixl Finance alpha tests
+🏦 BEP-20 Prep
+
+$TXL https://t.co/uEhNFtw7Nr",72,3,41,2020-11-09
+194,2020-11-11 15:19:48+00:00,1326545167516532736,AutobahnNetwork,"In December, Tixl &amp; its $TXL token will leave the childhood phase 💪
+
+With our 1st version of products being released, we prepare everything for the launch. 
+
+https://t.co/GUQ5W4G9BB became https://t.co/bfjhuRoQ8B, we are now @TixlOrg &amp; the logo changed 💅 More updates soon!",74,4,37,2020-11-11
+195,2020-11-15 16:31:05+00:00,1328012656243060736,AutobahnNetwork,"Sunday https://t.co/f3dMpDXIJA Hackathon at @TixlOrg headquarter in Hamburg.
+
+We are making very good progress 💪
+
+Happy Sunday everybody!
+
+$TXL https://t.co/pXIzHHwo7B",99,5,46,2020-11-15
+196,2020-11-16 16:40:31+00:00,1328377417484935173,AutobahnNetwork,"Update about what milestones we achieved last week: 
+
+🙇‍♂️ Tixl Finance Hackathon (Tixl Score)
+👨‍💻 Prepare Autobahn data structure for minimum fees
+💅 Domain change and logo update
+
+Up next:
+
+🧐 Update PoW
+📈 Tixl Finance 2nd test round
+⛓ Bridge Development BEP-20 Support
+
+$TXL https://t.co/1Ibvd1O6tJ",78,7,37,2020-11-16
+197,2020-11-19 17:34:17+00:00,1329478112359354368,AutobahnNetwork,"Tixl Wallet getting ready for the December Autobahn Network Release  🥳 $BTC $TXL
+
+#AutobahnNetworkComingSoon https://t.co/wMhnElR13m",74,1,31,2020-11-19
+198,2020-11-23 17:35:40+00:00,1330928011814850561,AutobahnNetwork,"Update about what milestones we achieved last week: 
+
+🧐 Beta Test $BTC Autobahn
+📈 Slippage Data for Tixl Finance
+🌎 Tixl Finance Post-v1 Features
+
+Up next:
+
+🧐 Final Tests $BTC Autobahn
+🔢 Tixl &amp; Sentiment Score Tixl Finance
+📣 Note to Recipient to $BTC Send Txs
+
+$TXL https://t.co/QQEQnZEH0Y",66,1,28,2020-11-23
+199,2020-11-25 17:49:52+00:00,1331656361294311430,AutobahnNetwork,"It's getting real. Tixl's #Mainnet is coming.
+
+We wanted to release #Alphanet in December; but as the development is ahead of time, this will be #Mainnet v0.1 🚀
+
+First supported coin will be $BTC. Send $BTC instantly &amp; with 0! network fees!
+
+YouTube AMA: https://t.co/QOQC4mUX0g",89,4,35,2020-11-25
+200,2020-11-30 19:06:25+00:00,1333487565702356992,AutobahnNetwork,"Update about what milestones we achieved last week: 
+
+✅ Testing Autobahn Test $BTC
+🧐 Testing Autobahn Real $BTC
+📣 Marketing Negotiations
+
+Up next:
+
+🤓 Connection Autobahn SDK
+👨‍💻 Deployment Autobahn Production
+💥 Marketing Set-up
+
+$TXL https://t.co/OdQPTlyXbF",67,0,27,2020-11-30
+201,2020-12-01 18:23:34+00:00,1333839171430002696,AutobahnNetwork,"Check out this article about $BTC network fees. Thanks @DailyChainNews 🙏
+
+https://t.co/8ACteHWWJb
+
+Launching this coming Sunday: Tixl´s Autobahn Network v0.1 and Tixl Wallet! Send $BTC instantly and without network fees on the German Autobahn Network!",78,0,36,2020-12-01
+202,2020-12-04 17:35:56+00:00,1334914345659232256,AutobahnNetwork,"🎉 Tixl´s Autobahn Network Mainnet v0.1 launching this Sunday at 4pm UTC.
+
+Current $BTC network fees: $7.50. With long sending times.
+
+$BTC transaction fees with the Autobahn: $0.00! 
+
+Speed: instant.
+
+Join our YouTube AMA on Monday at 5PM UTC: https://t.co/QOQC4mUX0g
+
+$TXL",57,1,33,2020-12-04
+203,2020-12-05 16:01:03+00:00,1335252857797349378,AutobahnNetwork,"⏰ 24 hours and Tixl´s Autobahn Network Mainnet v0.1 goes live. Send $BTC instantly &amp; with 0 network fees starting tomorrow
+
+If you want to learn more about Tixl´s Autobahn Network Launch, join our YouTube AMA with our founders on Monday at 5PM UTC.
+
+https://t.co/QOQC4mUX0g
+
+$TXL",75,2,37,2020-12-05
+204,2020-12-07 14:23:23+00:00,1335953055314046977,AutobahnNetwork,"Update about what milestones we achieved last week: 
+
+🚀 Tixl´s Autobahn Network Mainnet v0.1 Launch
+💵 Tixl Wallet Launch
+💅 Updated Website Launch
+
+Up next:
+
+↔️ Discussions re: Exchange Autobahn Network
+⛓ Bridge Developments
+📈 Tixl Finance Launch Prep
+
+$TXL https://t.co/qKlfCpKrqy",57,1,31,2020-12-07
+207,2020-12-08 18:06:28+00:00,1336371584416821251,AutobahnNetwork,"Here´s a first screenshot of what https://t.co/f3dMpDXIJA will be...
+
+📈 Unique slippage data
+🤖 AI-powered Scores
+👨‍👩‍👧‍👦 Community driven
+💥 Self-service project onboarding &amp; changes via Github
+
+and much more...
+
+Sign up on https://t.co/f3dMpDXIJA to get notified about the launch! https://t.co/OUQA8ePmxy",73,4,29,2020-12-08
+208,2020-12-11 16:39:09+00:00,1337436770712084481,AutobahnNetwork,"🚀 326 $BTC send transactions were already executed on Tixl's Autobahn Network.
+
+💰 That equals more than $1.5k in network fees saved.
+
+⏰ And saved hours of confirmation time.
+
+Try out the speed &amp; 0 cost of $BTC transactions with your friends: https://t.co/6MWjR0cn4P",74,0,32,2020-12-11
+209,2020-12-14 19:10:51+00:00,1338562113204346881,AutobahnNetwork,"Update about what milestones we achieved last week:
+
+📣 Kick-off 1st Marketing Campaigns
+💅 Add-ons Website
+💲Optimizations Tixl Wallet
+
+Up next:
+
+👨‍💻 ERC-20 Preparation
+↔️ DEX Preparations
+⛓ Bridge Preparations https://t.co/vmWTe7OpDb",58,0,24,2020-12-14
+210,2020-12-18 15:44:21+00:00,1339959695155613702,AutobahnNetwork,"More and more users start using Tixl's Autobahn Network with small amounts. Beginning of this week we crossed the $1k mark in $BTC deposits 💪
+
+Try it out yourself: https://t.co/6MWjR0cn4P and send $BTC to your friends - instantly and without fees.
+
+$TXL and #ERC20 coming soon https://t.co/odQBflVe78",55,2,21,2020-12-18
+211,2020-12-21 18:24:24+00:00,1341087136204910592,AutobahnNetwork,"Update about what milestones we achieved last week: 
+👨‍👩‍👧‍👦 Send to Friends Feature in Wallet
+📈 @tixlfinance launch planning
+⛓ Building ERC-20 API
+
+Up next: 
+👀 Strategy Preparations for 2021
+👨‍💻 Dev Planning Q1 2021
+🎄 Christmas Break
+
+$TXL https://t.co/EyOrspzemY",53,0,25,2020-12-21
+212,2020-12-24 15:01:39+00:00,1342123277402124288,AutobahnNetwork,"🎄 We have a Tixl X-mas gift for our community 🎁
+🎉 $TXL was listed on @transak_finance this week
+💳 You can buy TXL with a credit card or bank transfer
+🦄 TXL are internally bought from the open market (Uniswap)
+https://t.co/oUP6lfjyYm",63,0,25,2020-12-24
+214,2020-12-25 13:55:07+00:00,1342468922302410752,AutobahnNetwork,"Merry TiX-mas everyone🎄
+https://t.co/oUP6lfjyYm",58,0,22,2020-12-25
+215,2020-12-29 08:37:53+00:00,1343838639420289024,AutobahnNetwork,"Update about what milestones we achieved last week: 
+🎉 Remote Christmas Get-together 
+🔋 Recharging batteries in Christmas break
+👀 Strategy &amp; Dev Workshops
+
+Up next: 
+💻 Feature Definition ERC-20
+👩‍🏫 Recruiting Preparations
+📣 Q1 Marketing Coordination
+
+$TXL https://t.co/296FWQuTIl",55,0,25,2020-12-29
+216,2021-01-01 11:45:51+00:00,1344973107921096704,AutobahnNetwork,"2020 was great. 2021 will be even better. With Tixl's Autobahn Mainnet being live, we can start building $TXL DeFi products on top of it.
+
+Stay tuned for many improvements and new products!
+
+🎉 Happy new Year everybody! We are looking forward to a very exciting 2021 with you!",65,0,29,2021-01-01
+217,2021-01-04 18:58:35+00:00,1346169170627592195,AutobahnNetwork,"Update about what milestones we achieved last week:
+
+🥳 New Years Break
+🤓 2021 Prep Workshops Part I
+💰 Wallet Update with Free Satoshi Claim for Testing before Deposit
+
+Up next:
+
+🤓 2021 Prep Workshops Part II
+💬 Integrate Telegram into Wallet
+📈 Tixl Finance launch prep
+
+$TXL https://t.co/sudFSXrwtL",61,2,23,2021-01-04
+218,2021-01-06 19:03:59+00:00,1346895304726085633,AutobahnNetwork,"🤓 You tell us, we listen...and improve our products. 
+THANK YOU for all your feedbacks!!
+
+To test the 0 fees &amp; instant $BTC transactions before depositing, you wanted some Satoshis. From now on, you can claim some real Sats for testing. Just go to $BTC on https://t.co/6MWjR0cn4P",57,3,26,2021-01-06
+219,2021-01-08 14:31:26+00:00,1347551489556946947,AutobahnNetwork,"Re. Binance DEX &amp; our old MTXLT token
+
+✅ Delisting Binance DEX initiated
+⛓ Bridge MTXLT → TXL remains. TXL → MTXLT will close now
+⏰ Hodlers Club Members should NOT swap (will be possible later)
+⏰ Binance Smart Chain soon
+
+All hodlers: No need to swap; you can do that later.",55,4,23,2021-01-08
+221,2021-01-11 19:02:51+00:00,1348706957746704392,AutobahnNetwork,"Update about what milestones we achieved last week:
+
+👨‍👩‍👧‍👦 Team Retro
+👀 Dev Recruiting
+👨‍💻 Set up environment for native Wallet App
+
+Up next:
+
+📣 Marketing Start new countries
+🎉 https://t.co/f3dMpDXIJA signups only pre-launch
+🤓 DApps on Autobahn strategy kick off
+
+$TXL https://t.co/fv2dfUFD9C",59,1,26,2021-01-11
+222,2021-01-18 19:34:03+00:00,1351251527479005187,AutobahnNetwork,"Check out the latest banner ad of Tixl on reddit; great artwork of our chief animation designer Tim! 🙏
+
+https://t.co/nxN2VcGKjR https://t.co/ozLGzhT3vi",56,3,27,2021-01-18
+224,2021-01-25 13:50:21+00:00,1353701745629790209,AutobahnNetwork,"Update about what milestones we achieved last week:
+
+📰 PR Strategy
+📣 February Marketing Planning
+📈 Exchange evaluation
+
+Up next:
+
+⛓ ERC20 progress Autobahn
+🚀 Launch of partner project https://t.co/f3dMpDXIJA
+👩‍❤️‍👨 Set up wallet referral systems
+
+$TXL https://t.co/PgzL3iBFqT",66,2,30,2021-01-25
+225,2021-01-29 16:10:58+00:00,1355186684229545989,AutobahnNetwork,"Thanks to GameStop, @reddit, all the hedge funds, @elonmusk and $BTC.
+
+This is the ideal setting for what news we have beginning of next week...more info soon on https://t.co/oUP6lfjyYm
+
+Happy Weekend!
+
+$TXL",75,7,35,2021-01-29
+226,2021-02-01 17:05:45+00:00,1356287637150175234,AutobahnNetwork,"Update about what milestones we achieved last week:
+
+📰 PR work
+📣 Set up different ad formats
+🤝 Community building in multiple countries
+
+Up next:
+
+🤓 Recruiting Marketing Team
+⛓ ERC20 progress Autobahn
+👀 Game-changing Autobahn announcement
+
+$TXL https://t.co/YzVpIWZmdh",78,2,30,2021-02-01
+227,2021-02-03 16:44:16+00:00,1357007002736734213,AutobahnNetwork,"👀 Tixl's ultimate goal?
+
+All tokens on a single high-performing network. 
+For a new era of DeFi, payments &amp; banking.
+
+See our latest announcement about Tixl's interoperable Smart Contracts &amp; dApps on @YahooFinance 
+
+👇👇👇
+
+https://t.co/91qM1bmSUb 
+
+$TXL",79,3,34,2021-02-03
+228,2021-02-05 13:29:36+00:00,1357682791253704706,AutobahnNetwork,"Interoperability becomes THE topic of 2021, for DeFi and all other blockchain solutions.
+
+THANK YOU for believing in German Engineering and joining our mission!
+
+👉 https://t.co/J90VI4THfD",106,9,49,2021-02-05
+229,2021-02-08 14:22:26+00:00,1358783250446049280,AutobahnNetwork,"Bitcoin's average transaction fee: $13.50.
+
+With Tesla buying $BTC, transaction fees will continue to rise.
+
+Guess where $BTC transaction fees are 0 and transfers are instant? 👉 https://t.co/6MWjR0cn4P
+
+Image: Ycharts https://t.co/Qvbh4XnyL9",108,3,45,2021-02-08
+232,2021-02-09 17:56:03+00:00,1359199394961240068,AutobahnNetwork,"BREAKING:
+
+We will soon introduce a new use case for our $TXL token:
+
+💰💰💰 Staking
+
+Start will be together with a new core product we will be launching soon. The details cannot be fully disclosed yet…but the wait will be worth it!
+
+https://t.co/DOB7oJ6ZOQ",142,18,57,2021-02-09
+233,2021-02-10 19:01:13+00:00,1359578183838892036,AutobahnNetwork,"⏰ 1995 - Internet is only a trend
+⏰ 2006 - Facebook is only for students
+⏰ 2019 - Tiktok is only for dance
+⏰ 2020 - Autobahn is only for cars
+🚀 2021 - $TXL
+
+Try out instant 0! fee $BTC transactions in the Tixl Wallet already. More coming soon.
+
+https://t.co/oUP6lfjyYm",124,6,51,2021-02-10
+234,2021-02-11 18:12:43+00:00,1359928368557400066,AutobahnNetwork,"Yesterday's gas or network fees:
+
+$BTC: $25.30 per transaction
+$ETH: $22.05 per transaction
+
+$BTC in Tixl Wallet: $0.00 per transaction
+$ETH in Tixl Wallet: coming soon with $0.00 per transaction
+
+$TXL https://t.co/99n9Tvvf9s",136,6,55,2021-02-11
+235,2021-02-15 16:57:23+00:00,1361358961442754562,AutobahnNetwork,"Update about what milestones we achieved last week: 
+
+🧐 Metamask #ERC20 Deposits Tixl Wallet
+⛓ DEX Discussions
+👨‍💻 One more developer onboarded
+
+Up next: 
+
+📣 March Marketing Prep
+💰 Staking Prep
+🔥 Another major announcement
+
+$TXL https://t.co/xi5dRUGwT5",110,3,51,2021-02-15
+236,2021-02-17 16:59:50+00:00,1362084350167244801,AutobahnNetwork,"🔥🔥🔥
+
+We are thrilled to announce that given the recent good progress we have been making, we can do a major $TXL token burn.
+
+This Saturday, we will be burning 33% of our total supply - from 900m to 600m TXL.
+
+Read more about the Why and How: https://t.co/5Uyj8I8xIW",148,24,64,2021-02-17
+237,2021-02-18 16:25:56+00:00,1362438207158300672,AutobahnNetwork,"Imagine swapping $BTC to $ETH to $DOT to any other chain instantly and without substantial fees.
+
+That’s full interoperability. Welcome to the Tixl Vision 👀🚀
+
+$TXL
+
+Image credit goes to Matt Noble. Thanks! https://t.co/TTZrUeE9KT",131,9,57,2021-02-18
+238,2021-02-20 18:21:24+00:00,1363192043812569089,AutobahnNetwork,"🔥 It just happened. We burnt 33% of our total supply.
+
+$TXL's new total supply is now 600m, coming down from 900m.
+
+Here's the burn transaction: https://t.co/zZcZDVWP5u https://t.co/BYh9PwB1P0",117,14,53,2021-02-20
+239,2021-02-22 16:11:15+00:00,1363884064357376000,AutobahnNetwork,"Update about what milestones we achieved last week: 
+
+💰 First successful ETH deposits in Tixl Wallet
+⛓ DEX Workshops 
+🔥 33% Token Burn
+
+Up next: 
+
+📣 Onboarding 2 Marketing Managers
+💬 Final testing Telegram feature in Tixl Wallet
+™️ Brand strategy for a new Tixl product
+
+$TXL https://t.co/YfQNmjKwkz",101,5,47,2021-02-22
+240,2021-02-24 16:57:06+00:00,1364620378648301569,AutobahnNetwork,"Wallet Update soon 🚀
+
+We are very excited to announce a brand-new feature in the Tixl Wallet soon! $TXL 
+
+Send Tokens to any Telegram Contact with just 1-Click! 🙌
+
+Learn More 👇
+
+https://t.co/exZBnSJYBW https://t.co/Ntyp8CeLEH",124,8,45,2021-02-24
+241,2021-02-25 16:55:54+00:00,1364982464586928133,AutobahnNetwork,"Did you see what we achieved today? 😎
+
+Thanks for the $TXL support 🚀
+
+Make sure to not miss our coming news and join our Telegram Announcement Channel:
+
+https://t.co/Gedu8EHct2 https://t.co/cvT8Jh4ssT",100,2,32,2021-02-25
+242,2021-02-26 15:55:00+00:00,1365329525995888642,AutobahnNetwork,How the $TXL technology will make your life easy 😉 https://t.co/OohhTb0tn5,148,10,53,2021-02-26
+243,2021-03-01 14:05:32+00:00,1366389142205169671,AutobahnNetwork,"@cryptoart3d Hello :) Yes, if you log out for security reasons you have to re-enter your seed phrase to log in. However, we are working on other solutions like a native Tixl Wallet App or a password log-in. 
+And we recommend storing the phrase in a safe place 🙂",47,1,0,2021-03-01
+245,2021-03-02 15:55:00+00:00,1366779077454086150,AutobahnNetwork,"We’re excited to introduce the “Tuesday TIXL Explained Series”, on which we’ll be explaining some important terminology and tools surrounding #crypto, #blockchain and Tixl. Starting with our history! 🚀 $TXL https://t.co/WJeRRQBGA8",109,3,36,2021-03-02
+248,2021-03-03 15:55:34+00:00,1367141610652381184,AutobahnNetwork,"BIG NEWS!
+
+Excited to announce that Tixl will be launching on @PancakeSwap! 🥞🚀
+
+➡️ What to expect from this delicious mix?
+
+$TXL on #BSC with lower tx fees than on #Uniswap!
+
+👀 Listing date soon!
+
+Read more: https://t.co/93Nd7fEvW1
+
+Don't miss it: https://t.co/Gedu8EHct2 https://t.co/MTwluFi4bA",137,13,49,2021-03-03
+249,2021-03-04 16:24:16+00:00,1367511221071712259,AutobahnNetwork,@sebgronewold 🚀,62,0,5,2021-03-04
+252,2021-03-05 15:59:05+00:00,1367867267745251328,AutobahnNetwork,"💥 @PancakeSwap Pre-Launch Lottery 📢 2,000 $TXL
+
+1⃣Follow @tixlorg
+2⃣Join https://t.co/aeXFKZaiYV
+3⃣Join https://t.co/Gedu8EHct2
+4⃣Subscribe to the Newsletter
+5⃣Like &amp; retweet this tweet
+6⃣Tag 2 friends: you will share the prize with them! 💰
+
+➡️ Rules: https://t.co/ofBn8jeZrW https://t.co/awxt0UF39h",309,252,204,2021-03-05
+253,2021-03-06 12:59:00+00:00,1368184337087217664,AutobahnNetwork,"What’s better than pancakes on a Saturday morning? 🥞☕
+
+You got it: $TXL on @PancakeSwap soon 🚀
+
+If you missed this week’s great news, just click here: https://t.co/93Nd7fEvW1",180,7,53,2021-03-06
+254,2021-03-08 13:59:00+00:00,1368924212195299332,AutobahnNetwork,"On today's #InternationalWomensDay, we wanna emphasize: #ITISAWOMANTHING.
+
+Crypto is a woman thing too! Tixl supports women getting and evolving in the crypto space.
+
+ #internationalwomensday2021 #IWD2021 https://t.co/5QUJbWnRzD",89,6,32,2021-03-08
+256,2021-03-09 15:55:00+00:00,1369315792559370241,AutobahnNetwork,"It is time for our Tuesday TIXL Explained Series! 💥
+
+What would you like to see here next week? Share your question with us! $TXL https://t.co/PyEWncX1S3",95,3,33,2021-03-09
+259,2021-03-10 15:59:00+00:00,1369679187062136832,AutobahnNetwork,"💥 Only 24 hours to go until $TXL will be listed on @pancakeswap.
+
+🗓️ Launch Day: Thursday, March 11th 
+⏰ Launch Time: 04:00 PM UTC
+ 
+Here we go! Let's get the Syrup in. 🥞 https://t.co/nubKIRozBi",117,9,46,2021-03-10
+261,2021-03-11 08:18:40+00:00,1369925729312464896,AutobahnNetwork,"@bar7ek1 @PancakeSwap Hii 🙂You can convert your MTXLT to TXL via https://t.co/gcryFqgcHH
+
+For a detailed explanation: https://t.co/BvH89Bf9Mf 
+
+Best wishes from Hamburg!",45,1,1,2021-03-11
+264,2021-03-12 08:22:35+00:00,1370289100813647878,AutobahnNetwork,"@Trinity_CBN @PancakeSwap Hiii!!! We cannot disclose that; but the ultimate goal of every project is to be listed on those exchanges. So we are working hard to make that happen asap. 😉
+Happy Friday!!",49,0,1,2021-03-12
+265,2021-03-15 10:53:27+00:00,1371414232944754698,AutobahnNetwork,"@_B_Stevens_ @PancakeSwap Hello! Just zoom out a bit to see the difference between TXL and BTC 😉
+We are ramping up our PR slowly, TIXL is a long term project. And the token burn was done to have a long term effect, not a short term one. Have a nice week!!",47,1,1,2021-03-15
+271,2021-03-16 15:57:02+00:00,1371853019407642626,AutobahnNetwork,"@ShareStocky @PancakeSwap Hello :)
+In this post we can find everything! 
+
+https://t.co/Yg5bDEydPH",49,1,1,2021-03-16
+278,2021-03-17 19:20:52+00:00,1372266704554889219,AutobahnNetwork,"@CryptoLaureys Hi!! YES!
+https://t.co/6yqKM9mOmh :D",49,1,1,2021-03-17
+283,2021-03-18 08:40:26+00:00,1372467921344212993,AutobahnNetwork,"@_B_Stevens_ Hiii Ben!!! :) The two reasons are written in the image of the poster. 😉
+But, we love your suggestions! :D 
+Who knows, maybe it will turn into a post? 😉
+
+Have a nice day!!",50,1,2,2021-03-18
+287,2021-03-19 16:56:15+00:00,1372955085857251328,AutobahnNetwork,"Would you rather spend your money on digital arts or increase your exposure in DeFi?
+
+#NFT vs. #DeFi 
+
+BTW: Tixl's Autobahn Network will be able to serve both worlds in the future 😉 $TXL",96,2,36,2021-03-19
+288,2021-03-22 08:36:56+00:00,1373916591990177793,AutobahnNetwork,@MrMeier9 @PancakeSwap Hello! We cannot disclose that; but the ultimate goal of every project is to be listed on those exchanges. So we are working hard to make that happen asap. Have a nice week. 😉,59,0,1,2021-03-22
+291,2021-03-23 16:00:39+00:00,1374390645884784657,AutobahnNetwork,"🔥 HOT NEWS 🔥
+
+Tixl is licensing its ERC20 &lt;-&gt; BEP20 bridge to other projects &amp; already onboarded @YOPfi as the first using project.
+
+This is just the beginning! 🤝👀 The cooperation &amp; license will benefit $TXL holders.
+
+Read more 👉 https://t.co/KNckFBy2bv https://t.co/53kidJoWL5",144,4,50,2021-03-23
+294,2021-03-24 15:57:00+00:00,1374752113864114176,AutobahnNetwork,"Yesterday we announced our partnership with @YOPfi as the first project that will be using the Tixl Bridge 🎉
+
+Which project do you want to join our Tixl universe next? 👇
+
+$TXL",125,17,40,2021-03-24
+295,2021-03-25 16:57:02+00:00,1375129609692446726,AutobahnNetwork,"THREAD
+
+1/
+
+Usually transactions in other networks are either expensive, slow or not interoperable. The $TXL Autobahn Network will solve all of these barriers.
+
+How?
+By employing the most sophisticated technologies that have emerged from the #blockchain world over recent year 👇 https://t.co/HT4nIWy11Q",137,5,51,2021-03-25
+300,2021-03-26 17:01:30+00:00,1375493122088665095,AutobahnNetwork,"As might have seen, many #crypto Twitter accounts are being deleted for no reason! 🤔
+
+So... To be on the safe side &amp; get our breaking news always in real-time, join our $TXL Telegram channel &amp; group:
+
+➡️https://t.co/Gedu8EHct2
+➡️https://t.co/aeXFKZaiYV",91,2,38,2021-03-26
+303,2021-03-29 14:55:21+00:00,1376548537496911874,AutobahnNetwork,"Update last week: 
+ 
+👛 More Bug Fixings ERC20 Wallet
+🚀 Marketing Plan for April
+⛓️ 1st Project using our BEP20 Bridge 
+ 
+Up next: 
+
+🌐 Kickoff Marketing South America 
+👀 DEX Workshops
+⛓️ Chat with more potential Bridge Clients 
+
+More details 👉 https://t.co/Gedu8EHct2 https://t.co/fsAgJYYlQT",113,6,37,2021-03-29
+304,2021-03-30 15:55:00+00:00,1376925937598484483,AutobahnNetwork,"Have you ever wondered why TIXL is a non-profit organization?
+ 
+$TXL https://t.co/NJRk6Tiku5",135,1,39,2021-03-30
+305,2021-03-31 15:56:03+00:00,1377288591118753794,AutobahnNetwork,"🔥 EVERYTHING IS PREPARED
+
+⛓️ The Tixl Cross-Chain Bridge for other projects is online ⛓️
+
+👉👉 https://t.co/RSZ3bZ31oc 👈👈
+
+Many projects already asked for it &amp; we did it! 💥
+
+If you know other projects in need for an ERC20/BEP20 bridge, let us know.
+
+$TXL https://t.co/jCrFUPFz6W",142,7,52,2021-03-31
+306,2021-04-02 14:00:02+00:00,1377984171696648194,AutobahnNetwork,"TIXL Easter Egg Hunt 🐰 Participate &amp; Win 100 $TXL
+
+Part (1/4)
+Find the Tixl eggs hidden in this post!
+Afterwards, continue the hunt: @maxmuelk, @sebgronewold, @eichinger_c.
+
+The sum of all the eggs found is the correct answer that you have to submit here: https://t.co/VaZ4IENFSR https://t.co/g9UthK4oGx",97,14,36,2021-04-02
+308,2021-04-03 12:10:37+00:00,1378319023037935620,AutobahnNetwork,"@arif09374331 @maxmuelk @sebgronewold @eichinger_c Hello, the Egg Hunt ends:
+🗓️ Monday, April 5th, ⏰ 05:00 PM UTC
+And the payout will be done in the following days. Happy Easter!",50,0,2,2021-04-03
+309,2021-04-04 14:54:27+00:00,1378722639024361475,AutobahnNetwork,"What's the Bunny bringing for me on Easter Day? 🐰
+
+Happy Easter Sunday!
+
+P.S. Have you already participated in our Easter Egg Hunt? 🐇 Check in previous tweets! $TXL",81,1,29,2021-04-04
+310,2021-04-05 12:58:00+00:00,1379055721258475521,AutobahnNetwork,"🐰 Happy Easter Monday from the Tixl Team in Germany!
+
+Reminder: Today is the last chance to participate in our Egg hunt and your chance to win 100 $TXL
+
+FYI: Our weekly update will be published tomorrow after the Easter holiday. https://t.co/3LMVqLik6h",94,1,33,2021-04-05
+312,2021-04-06 08:14:16+00:00,1379346705418760193,AutobahnNetwork,"@tomas_jehlicka Hello, good morning! We are already working on it. 
+You can also join our Tixl Support Telegram group, there the admins are giving updates. 
+
+https://t.co/af66ejWWHq
+
+Have a nice day!",52,1,3,2021-04-06
+315,2021-04-07 07:33:12+00:00,1379698757919510529,AutobahnNetwork,"@BlackLivemond Hiii :) No! We are working on it.
+And, as soon as we have 100%, we will share here!
+Have a nice day. 😉",50,0,3,2021-04-07
+318,2021-04-09 14:59:07+00:00,1380535753046945794,AutobahnNetwork,"As @eichinger_c says, 2021 will be an important year for $TXL, with a lot of development.
+
+Our team is working hard 💪 &amp; we are looking forward to share each step with our community! 🚀 https://t.co/6IqlBJT4OF",100,4,37,2021-04-09
+320,2021-04-12 19:45:17+00:00,1381694931983597570,AutobahnNetwork,@crypto_studentt ☀️☀️☀️,54,0,3,2021-04-12
+326,2021-04-13 05:14:09+00:00,1381838094471684100,AutobahnNetwork,"Really looking forward to building great solutions together @Dashpay 🚀
+
+$DASH x $TXL https://t.co/M5lL1FnWvf",132,6,52,2021-04-13
+330,2021-04-14 15:32:12+00:00,1382356018403901441,AutobahnNetwork,@LuisDePessoaSa2 @AlexjuTxl @YOPfi @Dashpay Hii!! There’s a certain business model included in the bridge that benefits all TXL holders. We will explain that in detail soon. 😉 Have a nice day!!!!,56,2,4,2021-04-14
+332,2021-04-15 10:10:35+00:00,1382637470009987074,AutobahnNetwork,@Tedete1 Yes 😉,53,1,3,2021-04-15
+333,2021-04-16 13:55:16+00:00,1383056401455517697,AutobahnNetwork,"What excites you most about $TXL in 2021? 🚀🚀
+
+Happy Weekend!",83,4,30,2021-04-16
+334,2021-04-19 15:58:57+00:00,1384174688050376710,AutobahnNetwork,"Tixl Weekly Update: 
+ 
+✅ TVL Bridge &gt; $4,000,000
+✅ ERC20 from Testnet to Mainnet
+✅ $TXL Benefits in Cross-Chain Bridge
+
+Currently working on:
+
+🤸 Preparing Wallet Community Test
+👥 Hiring Biz Dev Manager
+⛓ Onboarding new projects for Bridge
+
+More 👉 https://t.co/Gedu8EpB4s https://t.co/586jtbYqHp",106,4,40,2021-04-19
+335,2021-04-20 17:59:00+00:00,1384567288410648580,AutobahnNetwork,"Grab your glasses &amp; pay attention, it's time for TIXL Explained Series!
+
+Today we will talk about $TXL being a deflationary asset. As it's a long topic, we tried keeping our thoughts short. https://t.co/nW2qAw4asv",106,3,40,2021-04-20
+338,2021-04-22 15:55:49+00:00,1385261065517289473,AutobahnNetwork,"Who wants to test the ETH, ERC20 &amp; Telegram-Integration of the Tixl Wallet? 🚀
+
+As promised, in a small test, we are giving 10 more users the chance to test 👇
+
+Comment here with your Telegram username &amp; we'll get in touch probably next week (not 100% ready yet). https://t.co/tv8JUObO0D",121,52,41,2021-04-22
+339,2021-04-23 13:56:46+00:00,1385593493578567683,AutobahnNetwork,"Have you ever explained $TXL to someone? 🤩
+
+Enjoy your weekend! Ideal chance to tell your friends 😉",71,6,33,2021-04-23
+340,2021-04-26 15:55:35+00:00,1386710556023918593,AutobahnNetwork,"Tixl Weekly Update:
+ 
+✅ Fix one very annoying Wallet bug
+✅ Wallet UX Improvements
+✅ Prepared Wallet Referral Rewards
+
+Currently working on:
+
+💪 Finally setting up Wallet Community Test 😉
+⛓ Cross-Chain Bridge v2.0
+🤝 Partnership Analyses
+
+More 👉 https://t.co/Gedu8EHct2 https://t.co/xMa2r3x7u9",106,5,39,2021-04-26
+341,2021-04-27 15:29:20+00:00,1387066337898475521,AutobahnNetwork,"👨‍🚀 To all Tixl Astronaut Club Members who help to create awareness on Twitter in return for $TXL:
+
+For more fairness, we changed activity points!
+Quality comments on tweets from our bot in these  channels are rewarded the best:
+
+https://t.co/CAJXoH7jIH
+https://t.co/ziYVoP4BKl https://t.co/nVKvEiDLZU",81,1,36,2021-04-27
+344,2021-04-28 09:57:45+00:00,1387345283412111363,AutobahnNetwork,"🔥 STAKING DETAILS 🔥
+
+The update everyone has been waiting for is here! ​🎉
+Today we are proud to present our Staking Concept - an innovative solution with benefits that reinforces Tixl's vision.
+
+How, when, why? Check out our new article:
+https://t.co/J4UHgo2yBW https://t.co/yeLppGigKp",120,7,50,2021-04-28
+349,2021-04-29 16:27:13+00:00,1387805680636153859,AutobahnNetwork,"A nice example of how to easily explain $TXL to your friends from the non-crypto world 🤓
+
+Now it's your turn, how would you explain TIXL to your grandparents in 2 sentences? 👇 https://t.co/OtYGr8at07",109,2,43,2021-04-29
+350,2021-04-30 15:59:00+00:00,1388160968182538243,AutobahnNetwork,"Join the $TXL Telegram channels to get our latest news in real-time &amp; discuss 😎
+
+Announcements: https://t.co/Gedu8EpB4s
+Discussion Group: https://t.co/aeXFKZrTQt
+
+We also have specific language groups (not all hosted by us). Drop your flag 👇 &amp; we will send you the link 😉 https://t.co/fQUQ1qf39f",102,1,37,2021-04-30
+351,2021-05-01 10:00:00+00:00,1388433013227229186,AutobahnNetwork,"Hey all, the Tixl Wallet test went really well! 🚀
+
+It was an exciting &amp; busy week for our team.
+We are already working on the feedback. Thank you all for your support! 💪
+
+$TXL
+
+We are counting days until the public launch 😎",150,4,47,2021-05-01
+352,2021-05-03 14:57:09+00:00,1389232565710737411,AutobahnNetwork,"Tixl Weekly Update: 
+
+✅ Successful Community ERC20 &amp; Telegram Test
+✅ Staking Concept Intro
+✅ @Polkamonorg Partnership + $TXL NFT 
+
+Currently working on: 
+
+👛 Fix Community Test Wallet bugs
+🗣️ Marketing &amp; Biz Dev Interviews
+🎊 Exchange Negotiations
+
+👉 https://t.co/Gedu8EHct2 https://t.co/YK2oL9rWji",102,3,41,2021-05-03
+353,2021-05-04 09:28:08+00:00,1389512155976945665,AutobahnNetwork,@CullenRamin Hey :) We cannot disclose that; but the ultimate goal of every project is to be listed on those exchanges. So we are working hard to make that happen asap. Have a nice day!,54,0,3,2021-05-04
+355,2021-05-05 10:31:34+00:00,1389890506939944960,AutobahnNetwork,"@Away89349840 We do not make price predictions and we do not talk on this matter here. Volatility is part of the market! Be sure our team is working hard to bring value to $TXL. 💪
+Feel free to join this Telegram Group (Tixl trading) - https://t.co/cPKmliTZfi. There they talk about prices :)",53,0,2,2021-05-05
+359,2021-05-06 14:58:00+00:00,1390319944206794752,AutobahnNetwork,"SPOILER ALERT 🔥
+
+Do you agree that copying crypto addresses can sometimes be annoying? 💤 
+Not anymore! Our Tixl Wallet update  for ETH, ERC20 &amp; Telegram Support is coming! 
+
+🖱️  1-Click-to-send to any contact! 
+We are looking forward to enjoying instant transfers with 0 fees. https://t.co/Pjps00WylK",148,7,57,2021-05-06
+360,2021-05-07 14:59:00+00:00,1390682583629971462,AutobahnNetwork,"Check out this image of the Tixl Ecosystem and imagine the endless opportunities with next-generation interoperable dApps on our Autobahn Network.
+
+We're working 24/7 to get there soon. 🚀
+
+Happy Weekend! https://t.co/4Ky7qRiTsm",121,3,44,2021-05-07
+361,2021-05-10 14:55:33+00:00,1391768881698586629,AutobahnNetwork,"Tixl Weekly Update: 
+
+✅ Bridge decentralized
+✅ Improve ERC20 Wallet UX
+✅ Planned Brave Ads for ERC20 Launch
+
+Currently working on: 
+
+🚀 Start with Wallet Tests on Mainnet
+💡 Product Ideas from Community Survey
+⛓ Smart Contracts Platform
+
+More 👉 https://t.co/Gedu8EHct2 https://t.co/ddp5uhJdXe",123,4,49,2021-05-10
+362,2021-05-11 14:55:45+00:00,1392131317492600832,AutobahnNetwork,"Tixl Explained Series Time ⏰
+Let's talk about NFTs 🔥
+
+What would you like to see here next week?
+Share your thoughts with us! 💭 https://t.co/bAXiob3dVD",97,2,38,2021-05-11
+364,2021-05-12 16:12:57+00:00,1392513133911097346,AutobahnNetwork,"Our partner @PolkamonOrg will be using Tixl's decentralized https://t.co/xKXB6Qt7er very soon.
+More and more projects coming 🚀
+
+Does your project want to be the next one? 
+
+Fill out this form and we'll get you listed: https://t.co/OwWpsOpwZG https://t.co/DwYk7JQqT9",106,0,40,2021-05-12
+365,2021-05-13 15:55:00+00:00,1392871003823296516,AutobahnNetwork,"After announcing our partnership with @Polkamonorg (👉 https://t.co/4f8UjPPCC1), today we are excited to welcome them on the #BSC side of the Crypto Space.
+
+Thanks for choosing our decentralized ERC20 &lt;-&gt; BEP20 https://t.co/xKXB6QbvPR! 
+
+We are ready to welcome more projects 🚀 https://t.co/WEcIehtZUA",181,8,60,2021-05-13
+366,2021-05-14 15:55:00+00:00,1393233391936413704,AutobahnNetwork,"New series here? We present Tixl in numbers 🤓💥
+
+Some interesting facts when you tell your friends about Tixl on the weekend! Next week we will have more!  
+
+Enjoy your weekend! https://t.co/Z9aBX1yxft",121,4,41,2021-05-14
+367,2021-05-17 07:07:07+00:00,1394187710114435076,AutobahnNetwork,@EasyTiTi We cannot disclose that; but the ultimate goal of every project is to be listed on those exchanges. So we are working hard to make that happen asap. :),54,0,4,2021-05-17
+370,2021-05-18 15:57:18+00:00,1394683523693432833,AutobahnNetwork,"Hey @elonmusk! Are you looking for a more energy-efficient solution for @Tesla? It's time for us to talk 😏
+
+Check out our Tixl Explained Series &amp; why Tixl's Autobahn can be superior in terms of energy consumption! ⚡ https://t.co/Y7OlsuxrJW",156,9,58,2021-05-18
+371,2021-05-19 16:29:00+00:00,1395053887380410372,AutobahnNetwork,"We can't wait to launch the new version of ERC20 Wallet with Telegram. 
+
+While we finish some details, more spoilers here 👀
+Have you seen it? ETH and ERC20 tokens. And $TXL 🔥 
+
+That means all of those tokens can be sent instantly &amp; with no gas fees on the Autobahn Network. https://t.co/zsqIU2LdfQ",146,6,65,2021-05-19
+372,2021-05-20 11:55:23+00:00,1395347418238144516,AutobahnNetwork,"Welcome @UpfireHQ on the #BSC side of the crypto world! Happy you joined with using Tixl's Cross-Chain Bridge.
+
+@allotherERC20projects: Here are 4 reasons why you should also use it 😉
+
+✔️ Decentralized
+✔️ Speed
+✔️ Easy to use
+✔️ German Engineering
+
+👉 https://t.co/q5yoQlVFTj https://t.co/oYgPhxQs8Y",129,3,43,2021-05-20
+373,2021-05-21 15:55:00+00:00,1395770106706157569,AutobahnNetwork,"Do you remember our last week's look into the Tixl stats? This week, we want to update you on some current numbers around our $TXL token.
+
+Are you already one of the 7.415? 
+
+Happy Weekend! https://t.co/kT4zwfqL1f",113,5,43,2021-05-21
+375,2021-05-24 09:10:15+00:00,1396755412175794181,AutobahnNetwork,"Exciting week ahead? YES &amp; FOR SURE! 🚀
+
+Are you curious? Stay tuned! Our weekly update will be published tomorrow after today's public holiday in Germany.
+
+Great week to everybody. 
+
+$TXL",104,5,34,2021-05-24
+376,2021-05-25 16:55:00+00:00,1397234757717483522,AutobahnNetwork,"Paying a fee for a service is nothing new. In crypto, however, as the number of DeFi users has soared since 2020, growing congestion is leading to skyrocketing gas fees... Can you imagine having to pay $400 for a $10 transaction? 🤔
+
+It's time for TIXL Explained Series! https://t.co/yJGURsVxwZ",122,3,43,2021-05-25
+378,2021-05-27 13:00:01+00:00,1397900397956808706,AutobahnNetwork,"It's time for AMA with our partner project @diadata_org
+
+Thursday, June 3
+
+DIA @ Tixl: 3 PM UTC 👉 https://t.co/aeXFKZaiYV
+Tixl @ DIA: 4 PM UTC 👉 https://t.co/V7WA1zlGfk
+
+Do you have questions? Drop here 👇
+
+$TXL $DIA https://t.co/ceiPMhmQ6N",119,31,44,2021-05-27
+383,2021-05-28 15:55:00+00:00,1398306821752848388,AutobahnNetwork,"Days like the recent ones can be hard to handle...
+What do you think is the best way to deal with it? 👇
+
+Happy Weekend!
+
+A) Stop checking the portfolio every 5 min🕊️
+B) Panic sell 🙈
+C) Find the ones to blame 😤
+D) Count the days for Tixl adoption
+E) Other (comment)",103,9,31,2021-05-28
+384,2021-06-01 08:16:33+00:00,1399641001942208516,AutobahnNetwork,"@ExplorerDavid @DIAdata_org Hi! Tixl builds a single high-performance network for a new era of DeFi, payments &amp; banking. At the core is the interoperable layer 1 Autobahn Network with instant &amp; minimal-fee-transactions for any transfer of data, not just digital assets or tokens.
+
+👉 https://t.co/K776b0zpad",56,2,3,2021-06-01
+387,2021-06-02 14:58:11+00:00,1400104463403204610,AutobahnNetwork,"💣 BIG NEWS
+
+🔥 We are thrilled to announce that a first, truly unique new DEX committed to utilize Tixl's Autobahn Network: @SchnitzelSwap
+
+Imagine interoperable, tiny-fee DEX trading &amp; what effect that has on the amount of network transactions
+
+Details👇 https://t.co/Rfx5rFmEKJ",143,13,54,2021-06-02
+389,2021-06-03 13:59:00+00:00,1400451956422938624,AutobahnNetwork,"Join us in 1 hour at 3 PM UTC, we're jumping in for an AMA with @diadata_org 💥
+
+🔹 Place to be 👉 https://t.co/aeXFKZaiYV
+🔹 Right afterwards, at 4 PM UTC, AMA about TIXL  👉 https://t.co/V7WA1zlGfk 
+
+It's going to great, so don't miss it! 😎 $TXL https://t.co/fxWqXPwdsj",78,0,27,2021-06-03
+392,2021-06-04 14:00:01+00:00,1400814600451510272,AutobahnNetwork,"🔥 TVL GROWTH MORE THAN 50% 🔥
+
+The Total Value Locked in our Cross-Chain Bridge has already surpassed the amount of 6m dollars (despite the $ values going down due to market correction) &amp; it's growing 🚀
+Thank you! More projects will be onboarded soon!
+👉 https://t.co/xKXB6Qt7er https://t.co/XZt8WdOeLY",113,2,43,2021-06-04
+393,2021-06-05 16:00:02+00:00,1401207192779300864,AutobahnNetwork,"In case you didn't have a chance to join our AMA with our technology partner @DIAdata_org, we've got you covered 😏
+
+Here is the transcript of all the questions we answered, check it out 👇 More AMAs to come in the next days and weeks!
+
+https://t.co/mnLf3jtTUV",87,1,30,2021-06-05
+394,2021-06-06 16:00:01+00:00,1401569574152192002,AutobahnNetwork,"Long-term investor at night vs Day traders at night.
+What kind of astronaut are you? Share &amp; comment!
+
+P.S. Discipline is key. If you have a strategy, stick to it.
+This protects you from irrational decisions &amp; ensures a good night’s sleep.
+
+$TXL #tixlweekendfun https://t.co/PzD6Sewuui",114,7,36,2021-06-06
+395,2021-06-07 08:00:56+00:00,1401811400243171332,AutobahnNetwork,"@Chid_Agon @SchnitzelSwap Hiii!! Due to the fact that TXL is still a small project, it's highly volatile. Chart-wise it generally behaves like most low-cap projects where larger trades made by whales have a bigger influence on the price than with a large-cap project. Have a nice day!",55,0,2,2021-06-07
+397,2021-06-08 14:59:00+00:00,1402278995601739776,AutobahnNetwork,"Overall, Decentralized Finance (DeFi) made significant progress in 2021, but challenges remain ahead. Interoperability is the key to DeFi’s long-term success, check out why in our Tixl's Explain Series. https://t.co/vvYvIzwfJy",86,0,28,2021-06-08
+399,2021-06-09 13:58:48+00:00,1402626233712644101,AutobahnNetwork,"We interrupt your feed with a big announcement - $TXL will get a network farm in @SchnitzelSwap! 👨‍🌾
+
+💥 $STZL / $TXL farm with an increased multiplier as Tixl will be a network provider!
+
+🚜 Let's get ready!
+
+What are you waiting for? Read the details 👇 https://t.co/51vAIXq80d",80,0,26,2021-06-09
+400,2021-06-10 15:28:00+00:00,1403011069421969414,AutobahnNetwork,"Our Tixl guide explaining the project &amp; how to buy $TXL in an easy &amp; cheap way is available now in 2 new languages.
+
+🌐 Dutch: https://t.co/N6bEkBHfcX
+🌐 Polish: https://t.co/fZV2SjDUcY
+
+Thanks $TXL community! Would you like to translate to your language? Let us know! https://t.co/M50kyUL1IR",61,3,17,2021-06-10
+401,2021-06-11 14:00:00+00:00,1403351312205549569,AutobahnNetwork,"After the recent #crypto market events, I felt my blood pressure rising. I went to the doctor and found out that everything is fine, my blood is $TXL blue 💙 
+
+#longterminvestor
+#tixlweekendfun https://t.co/K2OZoc6gAr",71,4,22,2021-06-11
+403,2021-06-13 15:28:12+00:00,1404098284713656321,AutobahnNetwork,"We think about connecting more networks to our Cross-Chain Bridge - the gateway to interoperability &amp; Tixl's Autobahn Network in the future. 
+
+Which network do you think should get connected to our Cross-Chain Bridge? 🚀 Choose below &amp; help us to share!
+
+https://t.co/a0cc93nUfk",52,8,17,2021-06-13
+405,2021-06-14 17:58:56+00:00,1404498604572745729,AutobahnNetwork,"🎉🎉 v0.2 Launch 🎉🎉
+
+🎉🎉 Autobahn &amp; Wallet ready for ETH/ERC 20 🎉🎉
+
+⏳ The countdown started, 3️⃣ days!
+🗓️ Save the date: June 17th, 3 PM UTC
+🔹 Final preparations, launch, party 🍾
+
+Be ready!!! $TXL https://t.co/V9zhsOZXxJ",101,7,37,2021-06-14
+413,2021-06-15 15:55:56+00:00,1404830039032700930,AutobahnNetwork,"In the interest of your own $TXL investment, we'd appreciate any Astronaut's continuous high quality support on Twitter - while we will invest the tokens and time in our core products and YouTube, Twitter and other campaigns.
+
+Thread 3/3",37,1,3,2021-06-15
+417,2021-06-17 14:00:01+00:00,1405525645292150784,AutobahnNetwork,"⏰ Tic-Tac, Tic-Tac!
+
+ARE YOU READY?
+🎉 v0.2
+🎉 Autobahn &amp; Wallet ready for ETH/ERC 20
+
+⏳ Countdown alert, 1️⃣ hour! 
+🗓️ June 17th, 3 PM UTC
+
+$TXL https://t.co/skHEYdJgUc",73,2,27,2021-06-17
+420,2021-06-18 14:25:16+00:00,1405894384797818882,AutobahnNetwork,"Good $TXL read for this Friday! 🙂
+
+Thank you all for an amazing week 🚀 and if you haven't had the opportunity yet, be sure to experience the Tixl Wallet v0.2.
+
+Happy Weekend! https://t.co/0cthJvbrl6",70,0,19,2021-06-18
+421,2021-06-19 14:00:00+00:00,1406250416430403593,AutobahnNetwork,"Truths are truths... 
+
+#cryptoinvestor
+#tixlweekendfun https://t.co/88FTx7LrpO",75,0,25,2021-06-19
+422,2021-06-20 15:30:49+00:00,1406635659587170304,AutobahnNetwork,"Have you tested the newly released ETH and ERC20 Tixl Wallet with Telegram Support?
+
+$TXL",56,2,19,2021-06-20
+423,2021-06-21 16:04:25+00:00,1407006502884347905,AutobahnNetwork,"Get ready for an amazing AMA on @TwitterSpaces! 🚀
+
+🔹 We’re going live with our partner @polychainmon next Tuesday at 2 PM UTC.
+
+🎉 During the AMA, we'll announce a rare NFT giveaway!
+
+🔹 You can already drop your question here 👇
+
+We look forward to seeing you there! $TXL $PMON https://t.co/dLRuyZh2aF",56,4,18,2021-06-21
+429,2021-06-22 08:28:12+00:00,1407254080330862594,AutobahnNetwork,"@asscror2 @TwitterSpaces The official date is still unannounced.
+Stay alert! We are working hard to offer it as soon as possible! 🚀",22,0,0,2021-06-22
+431,2021-06-23 09:11:51+00:00,1407627451509919754,AutobahnNetwork,"@cemkelesssss Hey, the official date is still unannounced.
+Stay alert! We are working hard to offer it as soon as possible. 🚀",25,1,0,2021-06-23
+435,2021-06-24 16:30:00+00:00,1408100102980485125,AutobahnNetwork,"Interested in joining more focused discussions? Join our Discord; we optimized the channels.
+
+✔️ Speak with the core community, developers &amp; the team
+✔️ Share your ideas
+✔️ Be part of the Tixl community 
+
+Come and say hi! 👋
+
+https://t.co/rtvEVWuIQa https://t.co/9Blp6QKypE",70,0,20,2021-06-24
+436,2021-06-25 15:00:00+00:00,1408439843525328900,AutobahnNetwork,"Turn 🔔 notifications 🔛 and set the reminder!
+
+We’re going live in a nice AMA with a rare NFT Giveaway with @polychainmon next Tuesday, June 29.
+
+Our very first @TwitterSpaces session! To participate use your mobile! 📱
+
+See you there! 🙌
+
+https://t.co/gTVNw6Xlek",69,3,22,2021-06-25
+437,2021-06-26 14:00:00+00:00,1408787130181206017,AutobahnNetwork,"No bugs!
+No tricks! 
+
+BTC, ETH and ERC20 can be sent instantly and with no gas/network fees on the Autobahn! 
+
+You are reading right! 
+
+Tag a friend who needs to know this!
+
+#tixlweekendfun
+#crypto https://t.co/2bskeu5o97",142,12,47,2021-06-26
+438,2021-06-27 10:56:35+00:00,1409103359202795521,AutobahnNetwork,"@Samy73395631 @iam_cLMS @Samysoyk Yes, that is planned. Any network can be connected to the Autobahn Network. But not as a next step.
+
+If you bridge more TXL, the fees dont increase proportionally. Or you buy TXL ERC20. Gas fees are very low right now.",28,0,0,2021-06-27
+439,2021-06-28 16:00:02+00:00,1409542113512001539,AutobahnNetwork,"Tixl Weekly Update:
+
+✅ Roadmap update
+✅ @tribeonedefi on Tixl Bridge. TVL 🔥
+✅ Hired Smart Contract dev
+
+Currently working on:
+
+🤝 AMA @polychainmon &amp; NFT prize
+⛓️ Cross-Chain Bridge &amp; Staking update
+👛 More Wallet tokens
+
+ More 👉 https://t.co/Gedu8EHct2
+
+$TXL https://t.co/KM20ns6NpS",79,1,30,2021-06-28
+440,2021-06-29 14:50:00+00:00,1409886875930611712,AutobahnNetwork,"💥 NFT GIVEAWAY
+
+As a thank you to the communities of our partnership AMA, we are giving away a @polychainmon NFT in Tixl blue 🔷
+
+1. Follow @tixlorg &amp; @polychainmon
+2. Like &amp; do a quoted retweet with a learning from the AMA
+
+🏆 Random winner will be announced in 24h! https://t.co/lwkBUSWtZ4",86,9,26,2021-06-29
+443,2021-06-30 14:30:13+00:00,1410244285748944898,AutobahnNetwork,"It's time to reveal the winner of our amazing AMA with @polychainmon giveaway 🐑✨
+
+The lucky winner who followed all the rules &amp; was randomly chosen is: 
+
+@RRJordi9
+
+Congratulations! We will send you a Twitter DM now! Thank you all for participating. https://t.co/bdVOg19ulf",41,2,6,2021-06-30
+446,2021-07-01 13:59:46+00:00,1410599010730012679,AutobahnNetwork,"Today we welcome @UnitedCrowd_com to our decentralized ERC20↔️BEP20 Cross-Chain Bridge 🤜🤛💥 
+
+https://t.co/xKXB6QbvPR
+
+Happy to see more projects realizing the benefits of interoperability by using @tixlorg.
+
+$TXL https://t.co/Lm6VoWcOex",65,3,23,2021-07-01
+448,2021-07-02 16:00:02+00:00,1410991664995266560,AutobahnNetwork,"Missed the $TXL x $PMON AMA about the partnership &amp; roadmap?
+
+Here is the Recap of Tuesday's AMA with @polychainmon on @TwitterSpaces.
+
+Check it out 👇 
+https://t.co/MulRyxwggs",55,0,12,2021-07-02
+450,2021-07-04 13:30:00+00:00,1411678684046630918,AutobahnNetwork,"This decade many investors will declare independence in terms of financial freedom. Join the HODL movement to not just be a tourist.
+
+#tixlweekendfun
+#longterminvestors https://t.co/Bp7bb0Vg9n",58,5,12,2021-07-04
+451,2021-07-05 07:58:23+00:00,1411957616897626112,AutobahnNetwork,"@ragingpanda_sa Hey!!! Yes, we will add more ERC20 tokens and networks over the coming weeks and months. Stay tuned. 🚀",1,0,0,2021-07-05
+453,2021-07-06 15:00:00+00:00,1412426107782004736,AutobahnNetwork,"Our Wallet competition is getting closer and closer ⚽🤑
+
+Join our Telegram Announcement Group and keep an eye on our social media, the competition will last only 24 hours. $TXL
+
+https://t.co/Gedu8EpB4s",34,0,6,2021-07-06
+455,2021-07-07 14:08:42+00:00,1412775586691489798,AutobahnNetwork,"In exactly one week we will have a major AMA with the founders live on Youtube 🚀
+
+🗣 @sebgronewold &amp; @eichinger_c will talk about what happened in the first half of 2021 &amp; what Tixl's roadmap is 🗣
+
+🔹Date: July 14 
+🔹Time: 1:00 PM UTC
+🔹Place: https://t.co/4Y5fEBo6Mk
+
+$TXL https://t.co/ITXdE3HeWr",56,1,18,2021-07-07
+458,2021-07-08 13:59:17+00:00,1413135605374980107,AutobahnNetwork,"🎉 IT'S TIME FOR #EURO2020 COMPETITION!
+
+With every send transaction in the #TixlWallet v0.2, you get a signature with an emoji hash. Everyone who has one or more of the emojis below in the Tx signature will receive $TXL 💰
+
+Read all the rules 🔽
+Thread (1/2) https://t.co/5p1OPudFzV",47,19,22,2021-07-08
+461,2021-07-09 14:00:22+00:00,1413498265203470336,AutobahnNetwork,"The #EURO2020 Tixl Wallet competition is over!
+In 24h we had more than 2,000 send transactions on Tixl's Autobahn Network 👏
+
+💰 That equals more than $4,800 in $ETH gas fees saved. 
+
+And we had 9 lucky winners 🍀 congratulations.
+The prizes will be sent out in $TXL next week!",52,0,9,2021-07-09
+462,2021-07-10 14:37:00+00:00,1413869870588993536,AutobahnNetwork,"And how about you?! If you could take something into space, what would you put on your rocket? 🚀
+
+Keep an eye out, we'll be following this space mission 🪐 closely and sharing more with you 👀
+
+#TixlWeekendFun https://t.co/OYRs0eXdDp",49,5,13,2021-07-10
+463,2021-07-12 12:21:56+00:00,1414560656548827137,AutobahnNetwork,@aericWEB3 💪🚀,2,0,0,2021-07-12
+464,2021-07-13 13:00:01+00:00,1414932628369723392,AutobahnNetwork,"⏰ 24h ALERT!
+
+Our YouTube Live AMA with the founders
+@sebgronewold &amp; @eichinger_c is getting closer! 
+
+🔹 Date: July 14 
+🔹 Time: 1:00 PM UTC 
+🔹 Place: https://t.co/4Y5fEBo6Mk
+
+$TXL https://t.co/63kCj2uXxE",34,0,14,2021-07-13
+466,2021-07-14 12:06:40+00:00,1415281589731344388,AutobahnNetwork,"⏰⏰⏰
+
+Our YouTube Live AMA with the founders @sebgronewold &amp; @eichinger_c is in 1 hour! 
+
+Looking forward to having a great conversation about what happened in the first half of the year 2021 &amp; what our roadmap is! 🚀
+
+🔹 https://t.co/4Y5fEBo6Mk
+
+$TXL https://t.co/O6BdWCRaYl",45,0,10,2021-07-14
+469,2021-07-15 14:48:15+00:00,1415684641852297227,AutobahnNetwork,"Last week, $LINK &amp; $PMON got whitelisted in Tixl's Autobahn Network for instant &amp; free txs (with Telegram) 🚀
+
+💭 Which partner coin shall be next? 
+
+If you have suggestions, leave a comment &amp; we'll analyze this token's volume &amp; use cases &amp; consider it for the coming weeks.",41,5,5,2021-07-15
+471,2021-07-16 14:01:35+00:00,1416035287101231107,AutobahnNetwork,"🔥 TVL 🔥
+
+Thanks to our strong community &amp; the many projects that already trust us! We reached more than $13m #TVL in our https://t.co/xKXB6Qt7er
+
+The numbers are growing fast &amp; this is just the beginning 🚀
+
+We don't stop until the whole world is connected &amp; #interoperable! https://t.co/EotlwhE2kY",49,0,11,2021-07-16
+472,2021-07-17 14:32:00+00:00,1416405327617032196,AutobahnNetwork,"Usually, transactions in other networks are either expensive, slow, or not interoperable. The $TXL Autobahn Network will solve all of these barriers 💪 New times are coming!
+
+#TixlWeekendFun https://t.co/0zgzYuAEB7",57,2,10,2021-07-17
+473,2021-07-18 14:34:00+00:00,1416768218635640832,AutobahnNetwork,"Have you read our partnership announcement with @Stasisnet this week? 👇
+
+ https://t.co/ZdbjyMWIew 
+
+We are very thankful for getting the trust of the project responsible for the largest € Stablecoin with over $100m in MC 💪
+
+🎉 All the details about the partnership #giveaway 👇",46,2,12,2021-07-18
+474,2021-07-20 15:47:51+00:00,1417511580099567618,AutobahnNetwork,"Liquidity pools are one of the foundational technologies behind the current #DeFi ecosystem and also this week's topic in today's Tixl Explained Series!
+
+Tag a friend who is starting to invest in crypto &amp; needs to know more about it. https://t.co/QfUuvggcWu",52,2,7,2021-07-20
+475,2021-07-21 16:40:00+00:00,1417887091002802187,AutobahnNetwork,"TGR (Tixl Global Reserve) Update:
+
+The 12.5 $BTC @tixlorg is holding as a liquidity reserve will be moved to @NexoFinance - to earn passive income and increase our funding.
+
+https://t.co/P3tLN10Duw",43,1,11,2021-07-21
+477,2021-07-22 14:59:53+00:00,1418224285999452175,AutobahnNetwork,"It's #TixlGrowthDay 🎉
+
+Our partner's $DIA plus $UNI got whitelisted in Tixl's Autobahn Network. As of now, they are available in the Tixl Wallet v0.2. Send $DIA &amp; $UNI without fees &amp; with 1-Click via Telegram. https://t.co/rL1GHeR6u5",114,6,23,2021-07-22
+478,2021-07-24 14:00:01+00:00,1418933996692590596,AutobahnNetwork,"Two #entrepreneurs.
+Two #crypto enthusiasts.
+
+But only one promoting a token with a real use case! 
+
+Drop 💠 if you agree!
+
+#TixlWeekendFun https://t.co/ZGTNMCRuBb",80,10,10,2021-07-24
+479,2021-07-25 15:01:00+00:00,1419311728777650183,AutobahnNetwork,"Hit like if you have already read our H1 2021 report!
+If not, click here now 👉 https://t.co/MD3MIdnPyJ.
+
+Definitely a must-read!
+
+$TXL",59,3,7,2021-07-25
+480,2021-07-26 15:57:43+00:00,1419688392221237250,AutobahnNetwork,"Tixl Weekly Update:
+
+✅ $DIA &amp; $UNI in Autobahn
+✅ @UnitedCrowd_com partnership 
+✅ 4.237 Autobahn send tx
+
+Currently working on:
+
+🤝 Partnering with DeInsurance project
+💥 Deploy Test dApps in Testnet
+👀 Prep for bull market comeback
+
+👉 https://t.co/Gedu8EHct2 https://t.co/2iG1VwTD7R",61,2,20,2021-07-26
+482,2021-07-27 15:15:28+00:00,1420040143831027712,AutobahnNetwork,#DeFi has been one of the primary drivers of the cryptocurrency market in 2020 &amp; 2021. Our Tixl Explained Series today covers this topic. https://t.co/UgWiwrBC2w,48,6,16,2021-07-27
+483,2021-07-28 17:00:01+00:00,1420428846302601216,AutobahnNetwork,"$TXL 🤝 $UNO
+
+@unoreinsure is going to bring insurance to DeFi &amp; blockchain-based systems &amp; the Tixl Autobahn is gonna make it even bigger through interoperability. 
+
+Read now how this partnership will open another big window: https://t.co/OoW8eWy8Ds https://t.co/KWkpqcmCqq",67,2,18,2021-07-28
+485,2021-07-29 14:43:24+00:00,1420756852208377871,AutobahnNetwork,"@EasyTiTi @unoreinsure Soon 🤩 Join our Announcement Channel to find out first hand when it becomes available!
+
+https://t.co/Gedu8EpB4s
+
+Have a nice day!",1,1,0,2021-07-29
+486,2021-07-30 13:46:58+00:00,1421105038693388290,AutobahnNetwork,"@crypto_studentt The bubbling minds of our team are always working. After the recent months, we are happy to finally come back for a little to our working habits. Changing workplaces occasionally to bring new ideas 😉",4,0,0,2021-07-30
+490,2021-07-31 14:00:01+00:00,1421470708723421184,AutobahnNetwork,"What is the future? Old-school banks or crypto? 
+
+🚀 or 🚲? 
+
+#TixlWeekendFun https://t.co/0aVl4xgopE",71,3,15,2021-07-31
+491,2021-08-02 06:56:32+00:00,1422088910629445635,AutobahnNetwork,"@AhmedAl34046770 Hii! The wallet was not audited yet, so that disclaimer is necessary. In case you have more questions, pls join: https://t.co/af66ejWWHq",1,1,1,2021-08-02
+493,2021-08-03 14:39:53+00:00,1422567904386691073,AutobahnNetwork,"Our community means A LOT to us and as we are growing and preparing for the next major milestones, we are working on launching 2 new programs for you!
+
+🔷 Tixl Ambassador Program (TAP)
+🔷 Tixl Grant Program (TGP)
+
+Stay tuned and check back soon! $TXL",55,4,19,2021-08-03
+495,2021-08-04 07:21:38+00:00,1422820006501441539,AutobahnNetwork,@AhmedAl34046770 Thank you for your feedback. We will soon release more details about the programs and you will be able to understand our strategy 😉Have a nice day!,0,1,0,2021-08-04
+499,2021-08-05 14:59:23+00:00,1423297590766964743,AutobahnNetwork,"Recently, $UNI &amp; $DIA got whitelisted in Tixl's Autobahn Network for instant &amp; free txs (with Telegram). 
+
+Now it's your turn to decide again!
+In addition to one other big token, which stablecoin shall be next?",94,31,44,2021-08-05
+500,2021-08-06 14:00:08+00:00,1423645065101127684,AutobahnNetwork,"💰 $1,000 Referral Prize 💰
+
+What are you waiting for? Read the rules and participate now! 
+
+🚀 $TXL https://t.co/PQQbE6mduL",32,3,8,2021-08-06
+501,2021-08-07 14:00:00+00:00,1424007420800548871,AutobahnNetwork,"When Tixl participates in the Olympics, you already know what our race will be like, right?! 
+
+Technology + interoperability + innovation + real use case = 🥇
+
+$TXL #TixlWeekendFun https://t.co/hqx4m4xSNu",94,8,21,2021-08-07
+502,2021-08-08 14:31:00+00:00,1424377608767164421,AutobahnNetwork,"Today is the last day of the Olympics and we want to congratulate all the outstanding athletes!
+
+As we saw quite some new disciplines this year, we are dreaming to have e-sports on Tixl's Autobahn one day 💨
+
+How about you?
+
+#Olympics #Tokyo2020",56,3,6,2021-08-08
+503,2021-08-09 15:00:03+00:00,1424747309414326274,AutobahnNetwork,"Tixl Weekly Update:
+
+✅ Security improvements Cross-Chain Bridge
+✅ DeFi 2.0 campaigns
+✅ Strategy workshops
+
+Currently working on:
+
+🗣️ Cross-Chain Bridge Discord AMA
+🤩 $UST &amp; $👀 in Autobahn
+🚀 $TXL on @0xPolygon
+
+More details 👉 https://t.co/Gedu8EpB4s https://t.co/ZRKIVxdqwn",61,2,20,2021-08-09
+504,2021-08-10 07:55:07+00:00,1425002759703646209,AutobahnNetwork,"@RJRCrypto @0xPolygon Hi :) you can join here pls:
+https://t.co/qNCEtKclqG
+
+An exclusive Telegram group just to talk about the Cross-Chain Bridge and transactions.",2,1,1,2021-08-10
+507,2021-08-11 13:30:49+00:00,1425449629240463360,AutobahnNetwork,"Our Wallet competition is over!
+
+THANKS to all the participants; a lot of transactions happened 🤩 
+
+20 lucky ones have already received their $50 in $TXL in the Tixl Wallet 🚀 Stay tuned and spread your happiness!",35,4,9,2021-08-11
+511,2021-08-12 07:54:01+00:00,1425727257574793218,AutobahnNetwork,@original_erik Yes :) we will share here soon! Have a nice day.,1,1,0,2021-08-12
+515,2021-08-13 16:00:02+00:00,1426211955392475140,AutobahnNetwork,"We are very happy &amp; truly grateful for all your support, $TXL community. You motivate us every day 🚀
+To further involve more &amp; more community members we'll launch our 2 new programs earlier than it was planned:
+Tixl Ambassador Program (TAP)
+Tixl Grant Program (TGP)
+Details soon! https://t.co/AqsBiTCTGu",87,4,15,2021-08-13
+517,2021-08-14 14:26:00+00:00,1426550677627494402,AutobahnNetwork,"RUN!
+
+$TXL #TixlWeekendFun https://t.co/Y20lEAw2XN",65,2,10,2021-08-14
+518,2021-08-16 15:00:09+00:00,1427284048582483969,AutobahnNetwork,"Tixl Weekly Update:
+
+✅ Cross-Chain Bridge AMA
+✅ $UST &amp; $MATIC in Autobahn
+✅ TVL &gt; $30m
+
+Currently working on:
+
+⭐ Ambassador &amp; Grant Program launch
+⛓️ Frontend Cross-Chain Bridge V2.0
+🔥 Evaluating @0xPolygon DEXs &amp; Farms
+
+More details 👉 https://t.co/Gedu8EHct2 https://t.co/penKWEGW8u",59,4,15,2021-08-16
+520,2021-08-17 14:59:21+00:00,1427646235834523652,AutobahnNetwork,"One of the most popular metrics for #DeFi is the TVL (Total Value Locked). You have probably seen this acronym around here in our tweets, right? 😉
+
+Today we will explain in detail what it means. Check out our Tuesday Tixl Explained Series! https://t.co/aio1ge4Ksa",52,1,6,2021-08-17
+522,2021-08-18 11:58:22+00:00,1427963075106332673,AutobahnNetwork,"@_iniubong 🤔 It seems to be working here...
+You can join our Telegram group for Support, and report your problem there. Our team will help you! Have a nice day.
+
+https://t.co/af66ejWWHq",1,0,0,2021-08-18
+524,2021-08-19 14:00:01+00:00,1428356079050797057,AutobahnNetwork,"🔷 This is your chance to become part of the Tixl team and/or get rewarded for your work 💪 $TXL
+
+Haven’t filled out the form yet?
+Now is the (right) moment ✅
+
+👑 TAP - https://t.co/zyW6anP0WR
+The form will be closed on Monday (1st round)! ⏰
+
+⭐ TGP - https://t.co/6SMnWASXlo https://t.co/7RS2VMHD36",45,2,6,2021-08-19
+525,2021-08-20 14:00:48+00:00,1428718662588981252,AutobahnNetwork,Get ready to mint yours this year 🔥 https://t.co/rn0aYJLqlj,44,3,6,2021-08-20
+526,2021-08-21 15:00:01+00:00,1429095954980872198,AutobahnNetwork,"And... IT'S SOLD! 💰
+
+$TXL #TixlWeekendFun https://t.co/sfpbc5mhff",68,4,5,2021-08-21
+527,2021-08-22 14:28:10+00:00,1429450325988151297,AutobahnNetwork,"Last call 📣
+
+👑 Apply now for the Tixl Ambassador Program on https://t.co/zyW6anP0WR
+⭐ Or apply for the Tixl Grant Program on https://t.co/6SMnWASXlo
+
+$TXL https://t.co/rVEyFxtZej",34,0,7,2021-08-22
+528,2021-08-23 16:10:05+00:00,1429838361599094785,AutobahnNetwork,@daniel_q_s We cannot disclose that; but the ultimate goal of every project is to be listed on those exchanges. So we are working hard to make that happen asap. Have a nice day!,1,1,0,2021-08-23
+532,2021-08-24 14:15:48+00:00,1430171990359433222,AutobahnNetwork,"@MSc_ney Hey :) How are you?
+Here is our last update about Staking $TXL: 
+https://t.co/wiSB8WLKfb
+
+🔷 Join our Telegram Announcement Channel, and receive our news first hand: https://t.co/Gedu8EHct2",1,0,0,2021-08-24
+534,2021-08-25 14:04:43+00:00,1430531588702539778,AutobahnNetwork,"New series: Guess, whose CV is this? 🤔
+
+He got fast &amp; logical thinking, loves programming &amp; is an expert in blockchain technology. With more than 10 years of coding experience, he has been working at TIXL for over 2 years!
+
+Tip: https://t.co/DWoy06sAfg. Information Systems🧑‍💻",28,0,4,2021-08-25
+535,2021-08-26 13:58:20+00:00,1430892371957280780,AutobahnNetwork,"If you selected Bernd in our new series ""Whose CV is this?"" yesterday, you got it right! ✔️💯
+
+Get to know Tixl's CTO @strehldev a little better 🙂
+
+$TXL https://t.co/PpW5NKiXzv",47,2,3,2021-08-26
+537,2021-08-27 13:30:39+00:00,1431247792471781380,AutobahnNetwork,"Today we want you to get to know the $TXL project, team &amp; its culture a bit better.
+
+Amongst others, we live:
+🔹 Inclusivity
+🔹 Entrepreneurial mindset
+🔹 Clear communication
+🔹 Innovation
+🔹 Structured processes
+🔹 Positive energy
+
+Learn more👇
+https://t.co/qECpqEDL0s",64,1,18,2021-08-27
+538,2021-08-28 15:02:00+00:00,1431633168017379328,AutobahnNetwork,"As the launch of the NFT support inside Tixl's Cross-Chain Bridge is also getting closer, we wanna ask you to explain what NFT stands for!!!
+
+❗Only WRONG answers, starting now! 👇
+
+$TXL #TixlWeekendFun",48,10,9,2021-08-28
+539,2021-08-30 14:40:50+00:00,1432352615560527881,AutobahnNetwork,"@JmlMajico @SchnitzelSwap Hey :) We cannot disclose that; but the ultimate goal of every project is to be listed on those exchanges. So we are working hard to make that happen asap.
+
+To make sure you receive our news firsthand, pls join: https://t.co/aeXFKZaiYV",2,0,0,2021-08-30
+542,2021-08-31 14:44:53+00:00,1432716025418629134,AutobahnNetwork,"#Crypto vs #Stocks: What’s the difference when investing &amp; trading? 
+
+The cryptocurrency market differs from traditional markets in many ways –  from market maturity, ownership to regulation, fees &amp; volatility.
+
+Check out today's Tixl Explained Series! https://t.co/w4ZgFGFGgi",54,1,13,2021-08-31
+544,2021-09-01 14:47:14+00:00,1433079004664320000,AutobahnNetwork,"📈 The #NFT industry is booming &amp; we wouldn't be Tixl if we wouldn't be reacting quickly to any new market dynamics. 
+
+Counting days to launch Tixl’s Cross-Chain Bridge v2.0 with NFT Support 🚀
+
+✔️ NFTs will be whitelisted &amp; minted as “Bridged Collections” on the other networks.",84,4,15,2021-09-01
+548,2021-09-02 14:12:51+00:00,1433432738292371463,AutobahnNetwork,"@Mr__Parente Yes :) We started with Ethereum and Binance Smart Chain as we wanted a decentralized solution to bridge our ERC20 token over to Binance Smart Chain. However, this was just the start of the journey. 🚀",3,2,0,2021-09-02
+550,2021-09-04 14:39:00+00:00,1434164094312009733,AutobahnNetwork,"People have to learn to sometimes say NO❗
+
+For example:
+
+Do you have enough Tixl token?
+No! I want more 😍 $TXL
+
+Easy, right? #ThePowerOfNo
+
+#TixlWeekendFun",104,14,20,2021-09-04
+551,2021-09-06 15:01:17+00:00,1434894477861302275,AutobahnNetwork,"Tixl Weekly Update:
+
+✅ CCB v2.0 SC Audit without major findings!
+✅ $100k+ collected fees in CCB
+✅ Marketing Strategy CCB v2.0
+
+Currently working on:
+
+🔥 More Bridge clients
+🤝 Evaluating ecosystem partnerships
+⛓️ Last pieces for the Bridge v2.0
+
+👉 https://t.co/Gedu8EHct2 https://t.co/noS0dhMnPD",87,8,29,2021-09-06
+554,2021-09-07 15:58:55+00:00,1435271368925450241,AutobahnNetwork,"Tixl Tuesday Explained Series is here to support you on your crypto journey 🚀
+
+In case you're new, take a look at the content of the last few weeks: https://t.co/5SNOAiibol
+
+Today's topic: Token vs. Coin. Find out about the core differences! https://t.co/7yQJzFxont",38,5,10,2021-09-07
+558,2021-09-08 15:24:54+00:00,1435625197231611906,AutobahnNetwork,@skaver0 👀,2,0,0,2021-09-08
+561,2021-09-09 08:08:56+00:00,1435877871717867523,AutobahnNetwork,"Thank you @IncomeSharks; we are working hard every day!
+
+Currently finalizing Cross-Chain Bridge v2.0 with Self-Listings, Liquidity Pools &amp; Mining, Staking/Farming, Stablecoin Support, NFT Support…and much more 🚀 https://t.co/PGpca0B8Ac",90,4,33,2021-09-09
+565,2021-09-10 14:00:02+00:00,1436328617747701761,AutobahnNetwork,"Tixl already supports up to 13 languages with official communities! 🌐 
+
+WE ARE HAPPY TO HAVE NATIVES FROM ALL OVER THE WORLD IN OUR COMMUNITY 🚀 $TXL
+
+Join one of the language groups here: https://t.co/zhEoq6XHFj https://t.co/89EqAEpeTW",55,1,12,2021-09-10
+566,2021-09-11 14:00:00+00:00,1436690995605803014,AutobahnNetwork,"BIG NEWS! We are going to the jungle 🌴 
+
+A $TXL farm &amp; pool will launch on @ape_swap TOMORROW! 🍌🐵
+
+Launch Day: Sunday, September 12th
+Launch Time: 06:00 PM UTC 
+
+Are you ready? https://t.co/5k70HVYqm5",88,5,20,2021-09-11
+568,2021-09-12 18:00:27+00:00,1437113893214695425,AutobahnNetwork,"TODAY $TXL ENTERS THE JUNGLE 🌴
+📈 We just got farm &amp; pool listed on @Ape_Swap
+
+Harvest high APRs:
+Stake $TXL- $BNB LPs to earn $BANANA
+Stake $BANANA to earn $TXL
+
+🍌 https://t.co/7qPFDFjsFV https://t.co/g0jcay1bOr",82,10,26,2021-09-12
+569,2021-09-13 14:03:52+00:00,1437416744642035713,AutobahnNetwork,@polychainmon @BrokoliNetwork This match is 🔥🚀💥,9,0,1,2021-09-13
+571,2021-09-14 15:01:35+00:00,1437793656887513097,AutobahnNetwork,"DCA? 🤔 If you're new to #crypto, you are probably being loaded with new terms and especially with acronyms 😅
+
+🤓 Here's a short summary to help you get started with another acronym! Check out our Tuesday Tixl Explained Series.
+
+$TXL https://t.co/foSSNQ5sYx",56,1,11,2021-09-14
+575,2021-09-15 15:00:01+00:00,1438155651688058888,AutobahnNetwork,"🗞️ Missed this week's newsletter?
+
+Subscribe now so that never happens again! 💌
+
+✔️ Weekly update
+✔️ Big product updates &amp; announcements
+✔️ No spam
+
+👉 https://t.co/BC4ONfNA3s https://t.co/aveaJwQ8Sv",41,2,9,2021-09-15
+576,2021-09-16 13:00:02+00:00,1438487843245105161,AutobahnNetwork,"We're up to something nice with @ternoa_, the 1st blockchain dedicated to data encryption &amp; transmission using #NFT time capsules.
+
+🚀 $TXL 🤝 $CAPS 🚀
+
+Interoperability, technology, visibility &amp; a lot more! 🔥
+Stay tuned! https://t.co/h83BrP6Qt3",127,11,35,2021-09-16
+579,2021-09-17 07:02:33+00:00,1438760268583079938,AutobahnNetwork,@DiegoQuast @Ternoa_ We will have a complete Medium Post about this partnership 🚀,4,0,0,2021-09-17
+582,2021-09-18 13:29:00+00:00,1439219908374638594,AutobahnNetwork,"Which long-term tokens will make you drink beer on the moon in 10 years?
+
+Drop your comments below 👇
+
+#TixlWeekendFun https://t.co/JxWxDVZbyn",69,15,13,2021-09-18
+583,2021-09-20 07:16:02+00:00,1439850823236919297,AutobahnNetwork,"@TheCrypto_Dude Stake will be released soon 🚀
+Please join: https://t.co/Gedu8EHct2 to get all our updates first hand.",0,0,0,2021-09-20
+585,2021-09-21 15:26:00+00:00,1440336516878790670,AutobahnNetwork,"Tixl Explained Series is here to make your #Crypto journey easier!
+
+Get ready for bridging as this is &amp; will be a major part of crypto!
+
+To start: A blockchain #bridge is a connection that allows the transfer of tokens from one chain to another; a bridge connects the two worlds. https://t.co/1bf8uZqsVq",67,5,20,2021-09-21
+586,2021-09-22 15:06:35+00:00,1440694017931370498,AutobahnNetwork,"Guess, whose CV is this?
+
+He has a business &amp; finance background.
+He's a very structured person and loves fast innovation.
+He has a huge knowledge of and passion for all matters DeFi 🚀
+
+Tip: He has 15 years of experience in tech &amp; blockchain!",31,1,6,2021-09-22
+587,2021-09-23 08:28:20+00:00,1440956181917413376,AutobahnNetwork,"🍌 for breakfast with very attractive APYs!!
+
+▪️ $TXL Farm
+Stake $TXL-$BNB LPs to earn $BANANA
+📈 Current APR: 161.97%
+📈 Current APY: 403.33%
+
+▪️ Banana Pool
+Stake $BANANA to earn $TXL
+📈 Current APR: 107.15%
+📈 Current APY: 191.49%
+
+Join: https://t.co/8XfsgJKYOt https://t.co/4vQvDT8Hxr",34,3,9,2021-09-23
+589,2021-09-24 13:24:29+00:00,1441393101059203074,AutobahnNetwork,"With #crypto still being in its infancy, people get attracted who are willing to take a risk &amp; want to make a difference.
+
+Some of the $TXL team members shared why they got into it &amp; what drives them to work so hard to make a difference with the project.
+https://t.co/SihHEbJ0ua",69,2,24,2021-09-24
+590,2021-09-25 14:00:02+00:00,1441764433177370631,AutobahnNetwork,"Retweet if you can relate!
+ 
+$TXL #TixlWeekendFun https://t.co/7WiZnIz8aL",60,3,29,2021-09-25
+591,2021-09-27 15:02:09+00:00,1442504843650686978,AutobahnNetwork,"Tixl Weekly Update:
+
+✅ Test implementation started
+✅ Deployed Bridge contracts on #BSC
+✅ 5k tx inside the Bridge
+
+Currently working on:
+
+🔒 Move the Bridge launch to Q4 due to security improvements
+⛓️ $BRIDGE token preparations
+👑 Ambassador onboarding
+
+https://t.co/Gedu8EpB4s https://t.co/lR5YRdDjFo",64,3,24,2021-09-27
+592,2021-09-28 12:36:36+00:00,1442830602688999426,AutobahnNetwork,"@ParTkzn Hi :)
+
+In our last AMA, @eichinger_c explained how $BRIDGE token will work.
+
+You can check it here: https://t.co/fRwznVzpFo
+
+Or if you prefer, today there is a chat on Tixl's Telegram. The team will be online to answer questions at 3 PM UTC ➡️ https://t.co/aeXFKZaiYV",2,0,0,2021-09-28
+595,2021-09-29 15:01:15+00:00,1443229391799083014,AutobahnNetwork,"👑 Tixl Ambassadors!
+
+Today, it’s a privilege to introduce our four Ambassadors that were selected in the 1st batch — exceptional individuals who are driving the adoption of $TXL. 2nd batch soon!
+
+Welcome Diego, Erik, Salar &amp; Timo! 🎉
+Get to know them now: https://t.co/3o8JJxVtnH",52,2,15,2021-09-29
+596,2021-09-30 15:00:02+00:00,1443591472268333056,AutobahnNetwork,"A bridge in crypto is the same as in the physical world. They connect 2 distinct locations/communities so that traffic/resources can move freely.
+
+Wanna know more? 💡
+
+Learn how Tixl's #CrossChainBridge will work in the Tixl Explained Series:
+
+https://t.co/KbUUpCdzqH",44,1,12,2021-09-30
+597,2021-10-01 15:01:00+00:00,1443954104187834368,AutobahnNetwork,"Like this tweet if you will explain to a family member or a friend how important it is to connect blockchains.
+
+Retweet if you think like us that the blockchain connecting market will eventually be bigger than stand-alone blockchains.
+
+Happy Weekend! $TXL
+
+#CrossChainBridge",77,3,36,2021-10-01
+598,2021-10-02 14:05:00+00:00,1444302398814519300,AutobahnNetwork,"We highly suggest you follow the arrows and retweet this post 😜
+
+#TixlWeekendFun https://t.co/EMqYTcea8Z",62,5,28,2021-10-02
+599,2021-10-04 15:03:08+00:00,1445041805951655951,AutobahnNetwork,"Tixl Weekly Update:
+
+✅ Ambassadors Kick-off
+✅ Internal Bridge Frontend Hackathon
+✅ UI for Liquidity &amp; Reward Pools
+
+Currently working on:
+
+🔢 $BRIDGE Tokenomics
+📖 Bridge GitBook
+👨‍💻 Deploy readjusted Bridge code to Testnet
+
+More details 👉 https://t.co/Gedu8EHct2 https://t.co/o09teeNuYU",45,1,15,2021-10-04
+601,2021-10-05 15:33:26+00:00,1445411819657510918,AutobahnNetwork,"Bridges became a target for hackers since they usually require tokens (that should be bridged into another network) to be locked in one (or several) of their smart contracts.
+Tixl Explained Series explains how we are securing our #CrossChainBridge v2.0
+
+🔗 https://t.co/obpNCRuIrC",50,3,21,2021-10-05
+602,2021-10-06 14:53:02+00:00,1445764040853123081,AutobahnNetwork,"Guess, whose CV is this? 💥
+
+He has a degree in Business Informatics, learned blockchain development all by himself &amp; feels that blockchain technology has the potential to significantly change the world. 🚀",29,2,4,2021-10-06
+603,2021-10-07 14:00:00+00:00,1446113082284118016,AutobahnNetwork,"Today we are happy to introduce our Blockchain Engineer Daniel.
+
+He joined the $TXL team this year and won everyone over with his friendliness &amp; willingness to learn! 🚀
+
+He's currently working with the Dev team to release our #CrossChainBridge v2.0 as soon as possible 💥 https://t.co/oWNoyDRTH1",61,5,11,2021-10-07
+605,2021-10-08 15:00:00+00:00,1446490569178431495,AutobahnNetwork,"More than 6 thousand transactions have been done on https://t.co/xKXB6QbvPR 🚀
+
+And we just keep working every day to make an even more positive impact &amp; launch the Cross-Chain Bridge v2.0...because interoperability is the most crucial part of crypto's long-term success! ✔️ https://t.co/Uy46jnuiS6",54,3,16,2021-10-08
+606,2021-10-09 14:00:02+00:00,1446837864877101056,AutobahnNetwork,"Retweet if you would choose the ⬅️💠 side as well!
+
+$TXL #TixlWeekendFun https://t.co/seFUx0ZUSV",86,7,44,2021-10-09
+607,2021-10-11 15:01:11+00:00,1447578027702030337,AutobahnNetwork,"Tixl Weekly Update:
+
+✅ Deployed Bridge contracts on Testnets
+✅ Fixed MetaMask in Testnet
+✅ Bridge Teaser
+
+Currently working on:
+
+⛏ Start minting $BRIDGE Testnet tokens
+🤝 Coordinating with existing &amp; new Bridge projects
+🚀 Growth Hacking
+
+👉 https://t.co/Gedu8EHct2 https://t.co/ScMYXnAPwu",59,3,19,2021-10-11
+608,2021-10-12 15:00:01+00:00,1447940123010613249,AutobahnNetwork,"There are 2 general stages of a token's life-cycle: #Inflationary &amp; #Deflationary.
+
+Deflationary tokens decrease in supply &amp; inflationary tokens increase in circulating supply, over time.
+
+Curious to learn more? Keep reading this week's Tixl Explained Series below! 🤓 https://t.co/pbP69R5Fcf",56,0,19,2021-10-12
+609,2021-10-14 15:00:04+00:00,1448664913283457040,AutobahnNetwork,"As the perfect #NFT use case, the gaming industry is undergoing its biggest evolution, shifting from entertainment to a play-to-earn model where players can buy &amp; sell digital assets traded as NFTs.
+
+Well, the #CrossChainBridge v2.0 with NFT support is getting ready for this.",81,2,28,2021-10-14
+610,2021-10-15 14:06:22+00:00,1449013787575586820,AutobahnNetwork,"Are you passionate about #crypto &amp; #blockchain? Or know somebody who is?
+
+Tixl is growing and we are looking for two more developers 💥
+
+Help us deliver #Tixl's vision faster &amp; apply yourself or please tell your friends!
+
+👉 Details &amp; application: https://t.co/CAsfMsNASy https://t.co/mr2LZwSuGT",46,2,17,2021-10-15
+612,2021-10-16 14:00:00+00:00,1449374573196161035,AutobahnNetwork,"We are pretty sure you all know people who get afraid of the first market correction after they finally join #Crypto!
+
+$TXL #TixlWeekendFun https://t.co/7qvRZCwCLd",55,2,12,2021-10-16
+613,2021-10-18 15:02:26+00:00,1450115058562908162,AutobahnNetwork,"Tixl Weekly Update:
+
+✅ Frontend Bridge v2.0 at 98%
+✅ Tested all Bridge features; no major bugs
+✅ Speech at @CryptoRockstar2
+
+Currently working on:
+
+💻 Hiring developers
+🤸‍♂️ Closed Beta Test on Testnet
+🇵🇹 In Lisbon to attend Blockchain Conferences
+
+ 👉 https://t.co/Gedu8EHct2 https://t.co/Bh3BEjDz0r",76,7,24,2021-10-18
+615,2021-10-19 14:49:51+00:00,1450474280450461711,AutobahnNetwork,"🔥 Another Tuesday, another Tixl Explained Series!
+
+We create this content to your #Crypto journey easier. Let us know your questions &amp; what you would like us to explain in the coming weeks! 👇
+
+$TXL https://t.co/SMqUQm6axx",58,4,21,2021-10-19
+617,2021-10-20 14:10:56+00:00,1450826873945083915,AutobahnNetwork,"Guess, whose CV is this? 💥
+
+He has an entrepreneurial mindset, and is an expert in translating mathematically defined cryptography to source code!
+
+Tip: M. Sc. Software Engineering Leadership.",34,1,6,2021-10-20
+620,2021-10-21 15:53:44+00:00,1451215133284438028,AutobahnNetwork,"If you selected Christian in our quiz ""Whose CV is this?"", you got it right! 🚀
+
+Get to know a little more about Tixl's Co-Founder, @eichinger_c!
+
+💬 Would you like to chat with him or @sebgronewold? Join our Telegram, they're usually online on Tuesdays: https://t.co/aeXFKZaiYV https://t.co/iYsgITQgqW",53,2,10,2021-10-21
+621,2021-10-22 14:00:01+00:00,1451548904563089427,AutobahnNetwork,"#CrossChainBridge v2.0 💥
+ 
+That’s it, that’s all you need to know.
+
+Buckle up, the official release date will be announced soon 🚀 https://t.co/DPoYopQ8Ug",145,21,58,2021-10-22
+622,2021-10-23 14:08:00+00:00,1451913298400534537,AutobahnNetwork,"That's health focus, right?
+
+Like &amp; retweet if you can relate.
+
+$TXL #TixlWeekendFun https://t.co/6rBUaOpK5Y",97,5,20,2021-10-23
+623,2021-10-25 14:03:23+00:00,1452636914524332033,AutobahnNetwork,"This week will be 🔥! To start, we present the $BRIDGE token design from our #CrossChainBridge.
+
+💰 The $BRIDGE token is purely a farm token.
+Understand how farming works here: https://t.co/AaYEQvUxlC https://t.co/I2NxgNIx5C",105,7,41,2021-10-25
+627,2021-10-26 16:02:00+00:00,1453029153289248781,AutobahnNetwork,"🎉 Bridgings + DeFi in the Cross-Chain Bridge v2.0! 
+
+⏳ The countdown started, 3️⃣ days!
+🗓 Mark the date: October 29th, 2021
+
+🔥 Be ready to: Bridge first tokens &amp; NFTs &amp; provide liquidity &amp; earn rewards on a security-focused &amp; user-friendly platform.
+
+#CrossChainBridge $TXL https://t.co/7QZB0uU3rL",92,4,35,2021-10-26
+630,2021-10-27 15:00:03+00:00,1453375949127442432,AutobahnNetwork,"🔥 Are you guys ready? 🔥
+
+With the soft-launch of the #CrossChainBridge v2.0 we will offer something special for all #NFT bridgings 👀 
+
+$TXL https://t.co/tsiCLFe92I",88,10,24,2021-10-27
+632,2021-10-28 14:59:32+00:00,1453738207904866318,AutobahnNetwork,"🍣 We hope that everyone has their soy sauce handy, because $TXL will be available on @0xPolygon and listed on @SushiSwap tomorrow!
+
+Tomorrow the day will be 🔥 and we couldn’t be more excited about this! 
+
+#CrossChainBridge #SushiSwap #Polygon https://t.co/vsgv4oiSMh",135,17,56,2021-10-28
+634,2021-10-30 10:30:29+00:00,1454395276656062466,AutobahnNetwork,"Cross-Chain Bridge Launch Update:
+
+An issue with the USDT contract &amp; how the Bridge handles tokens was leading to different deployment problems yesterday night. After everything is fixed here, we will go on with the remaining launch procedure.
+
+We‘ll keep you updated in Telegram!",73,2,17,2021-10-30
+636,2021-10-31 10:51:39+00:00,1454762989882593281,AutobahnNetwork,"Here's another super hot news of the week 🔥!
+
+📣 We are thrilled to announce that $TXL is available on @0xPolygon &amp; listed on @SushiSwap.
+
+🍣 Hashis ready? So let's go!!!
+
+🔗 Read everything here: https://t.co/lOu1yKTLEP https://t.co/28yS9QtW9j",116,8,44,2021-10-31
+638,2021-11-01 16:33:45+00:00,1455211468706783232,AutobahnNetwork,"Tixl Weekly Update:
+
+✅ New https://t.co/8q8zI2x1de launch
+✅ $TXL on @0xPolygon &amp; listed on @SushiSwap 
+✅ Bridge TVL almost $100m
+
+Currently working on:
+
+💻 Fix minor Bridge bugs
+📈 Increase deposit limits
+🐞 $100k Bug Bounty Program
+
+More  👉 https://t.co/Gedu8EHct2 https://t.co/uEolqQSDp6",70,4,24,2021-11-01
+640,2021-11-02 16:04:34+00:00,1455566513767862274,AutobahnNetwork,"In the coming weeks, our Tuesday Explained Series summarizes parts of the #CrossChainBridge. Today: How do the Liquidity Pools work?
+
+Spoiler: The #CrossChainBridge liquidity pools are single-asset liquidity pools without any impermanent loss risk!
+
+Read: https://t.co/GbnTkCntWg https://t.co/wWQ3YrB2uS",72,2,28,2021-11-02
+642,2021-11-03 08:58:32+00:00,1455821685530234881,AutobahnNetwork,@GamyFi_HQ @ethereum @BinanceChain @0xPolygon 🔥🔥🔥,4,0,1,2021-11-03
+648,2021-11-04 09:31:38+00:00,1456192404499927042,AutobahnNetwork,"💥 Great news!
+
+@Polychainmon is listed on the https://t.co/8q8zI2x1de 🚀 with 1st liquidity on #ETH, #BSC &amp; #Polygon.
+
+1️⃣ Bridge $PMON
+2️⃣ Provide more $PMON liquidity without impermanent loss &amp; earn $PMON rewards in the Liquidity Mining Pool
+3️⃣ Yield farm $BRIDGE or other tokens https://t.co/KZHPtzXFgb",78,2,30,2021-11-04
+651,2021-11-05 16:10:00+00:00,1456655043222859778,AutobahnNetwork,"Did you select Dominik in our quiz ""Whose CV is this?"" yesterday?
+So, you got it right! ✔️
+
+Dominik joined the $TXL team this year 🚀 and currently is in Lisbon for the 
+@solana Breakpoint conference. https://t.co/SXgHQq3lFp",52,3,14,2021-11-05
+652,2021-11-06 15:09:00+00:00,1457002079763959811,AutobahnNetwork,"In case you wanna smile &amp; get to know all the bridge &amp; DeFi features: https://t.co/8q8zI2x1de
+
+$TXL #TixlWeekendFun https://t.co/PFGMF13Kcp",63,8,16,2021-11-06
+653,2021-11-08 20:18:42+00:00,1457804796791042054,AutobahnNetwork,"@OmerKhar Hey :)
+You found a bug?
+Please report it via support ticket (https://t.co/ue2Qql4Bh9) in the following manner:
+
+- Where is the bug located?
+- What kind of bug is it?
+- Which wallet did you use?
+Please provide screenshots for more detailed information
+
+Thank you in advance!",2,0,0,2021-11-08
+661,2021-11-09 10:38:34+00:00,1458021188723253252,AutobahnNetwork,"💥 NEW FARM 💥
+
+Check out the newest $BRIDGE Farm on #Ethereum!
+
+Provide $BRIDGE liquidity without impermanent loss risk &amp; stake your BRIDGE-LPs to get an APR of 1,017.16% 🔥
+
+👉 https://t.co/8q8zI2x1de
+
+Retweet if you think the Cross-Chain Bridge got the best #yieldfarming! https://t.co/Uh2a11oI8V",88,5,40,2021-11-09
+666,2021-11-10 15:00:01+00:00,1458449373206093830,AutobahnNetwork,"Everyone can list a token on @Uniswap, @SushiSwap, @PancakeSwap and DEXs.
+
+https://t.co/8q8zI2x1de supports the same self-listings:
+
+🏠 Projects can provide 1st bridging liquidity
+👉 You can provide initial liquidity
+👨‍👩‍👧‍👦 Anybody &amp; a community together can do so. Tell them 📣 https://t.co/PPV1S0gFJm",73,1,31,2021-11-10
+668,2021-11-11 09:18:51+00:00,1458725901760438276,AutobahnNetwork,@UltiArena 🔥🔥🔥,4,0,0,2021-11-11
+670,2021-11-12 14:57:54+00:00,1459173615606370325,AutobahnNetwork,"💡 Test your knowledge
+
+In the https://t.co/8q8zI2x1de you can ________. Find out on https://t.co/lxpW41gJI3!
+
+#CrossChainBridge #ETH #BSC #POLYGON",51,3,14,2021-11-12
+675,2021-11-13 13:33:55+00:00,1459514868957163531,AutobahnNetwork,"The $BRIDGE buying pressure on #ETH side seems unstoppable - with low $BRIDGE liquidity.
+To incentivize $BRIDGE Farming &amp; enable bridgings again (as we slowly move out of soft launch phase), the #ETH multiplier got increased from 0.5x to 1.0x.
+APRs back to 325% 💰 https://t.co/XGVUzUIXTl",81,4,23,2021-11-13
+677,2021-11-15 10:32:07+00:00,1460193890196242434,AutobahnNetwork,"🔥 @MoonieNFT is now listed on the https://t.co/8q8zI2x1de 🚀 Get ready to...
+
+1️⃣ Bridge $MNY ➡️ #ETH, #BSC &amp; #POLYGON
+2️⃣ Provide more $MNY liquidity without impermanent loss &amp; earn $MNY rewards in the Liquidity Mining Pool
+3️⃣ Yield farm $BRIDGE or other tokens https://t.co/CaDPXYrJ6O",76,2,23,2021-11-15
+684,2021-11-16 16:22:14+00:00,1460644387742965763,AutobahnNetwork,"Liquidity Pools ✔️
+Liquidity Mining Pools ✔️
+
+💡 So in today's Tixl Tuesday Explained series it's time to go even further &amp; understand how BRIDGE Farms work.
+
+Dive into this topic here: https://t.co/bP41kZChdJ https://t.co/ugADCadfWu",64,2,16,2021-11-16
+688,2021-11-17 08:55:06+00:00,1460894254318903303,AutobahnNetwork,"@Denis303hot @RoshanK12070307 Soon the limits of the deposit will be increased.
+Stay tuned :)
+https://t.co/8q8zI2x1de",2,0,0,2021-11-17
+697,2021-11-18 15:22:16+00:00,1461354075115511815,AutobahnNetwork,"Guess, whose CV is this? 👀
+
+He has an entrepreneurial mindset, vast #NFT knowledge &amp; started to study alternative consensus algorithms early in 2017 when Proof of Work was still state of the art. 
+
+Tip: https://t.co/DWoy06aYQG. Software Engineering Leadership.",31,0,12,2021-11-18
+699,2021-11-19 15:08:12+00:00,1461712923143905292,AutobahnNetwork,"Here's @sebgronewold's profile 💻🛹 $TXL
+
+💬 Would you like to chat with him or @eichinger_c? They're usually online on Tuesdays on our Telegram: https://t.co/aeXFKZaiYV
+
+We are coming to the end of our team presentation series, how did you like it? Share your insights with us! https://t.co/kW6wRMurWK",60,4,15,2021-11-19
+700,2021-11-21 17:35:00+00:00,1462474639888633857,AutobahnNetwork,"🔈 Hey, join the $TXL team, we are still #hiring!
+
+🔹 Jr. Marketing Managers;
+🔹 Senior Blockchain Engineers;
+🔹 Senior Full-Stack Devs with Frontend Focus; 
+
+🖥️ Full-Remote or on-site in Hamburg
+
+Apply or please share with your friends! 
+
+Details: https://t.co/CAsfMsvZtY",60,3,23,2021-11-21
+701,2021-11-22 09:08:58+00:00,1462709679184912388,AutobahnNetwork,@SKindawi Exchange listings are done under a non-disclosure agreement. Everything is confidential until a mutual agreement is reached. We cannot confirm any exchange listing. But it is every project’s ultimate goal to get listed on as many tier 1 exchanges as possible. :),2,0,1,2021-11-22
+704,2021-11-23 15:16:46+00:00,1463164629006364683,AutobahnNetwork,"👀 Psst, have you seen that the APRs are shown in the https://t.co/8q8zI2x1de frontend now?
+
+💥 119% from adding TXL liquidity on Polygon &amp; staking TXL-LPs in Farm
+💥 21% from staking earned $BRIDGE in $TXL Reward Pool afterwards
+
+TOTAL 140%
+
+💙 &amp; 🔄 if you’re ready to earn more!",62,3,20,2021-11-23
+706,2021-11-24 14:59:59+00:00,1463522794629697537,AutobahnNetwork,"💥 The wait is over! The 1st Black Friday is coming at https://t.co/8q8zI2x1de 🎉
+
+👀 Deposit Limit Increases
+👀 $10,000 Extra $TXL rewards for $BRIDGE Stakers in the TXL Reward Pool (1/3 per chain).
+
+More details: https://t.co/Gedu8EHct2 https://t.co/IriDgmaq0T",60,3,19,2021-11-24
+710,2021-11-25 15:33:49+00:00,1463893694717829122,AutobahnNetwork,"💥 #CrossChainBridge Black Friday!
+
+👀 Deposit Limit Increases
+👀 $10,000 Extra $TXL rewards for $BRIDGE Stakers in the $TXL Reward Pool (1/3 per chain). Whoever has $BRIDGE staked in the $TXL Reward Pool at the exact time when we send the TXL rewards gets their part 🚀 https://t.co/al3kYY1ObF",56,5,20,2021-11-25
+711,2021-11-26 16:33:40+00:00,1464271143142137857,AutobahnNetwork,"💥 It's happening!!!
+
+▪️ https://t.co/8q8zI2x1de BLACK FRIDAY!
+
+🔥 We just increased deposit limits by 2m TXL on #ETH &amp; #BSC. Stake now!
+🔥 We just sent $10,000 worth of $TXL into the TXL Reward Pools (1/3 per chain).
+
+Happy harvesting $BRIDGE Stakers. https://t.co/hSZjiPlWXw",55,5,17,2021-11-26
+719,2021-11-27 15:05:00+00:00,1464611218690248704,AutobahnNetwork,"Yesterday on our https://t.co/8q8zI2fpOE we had:
+
+✅ Deposit limits increased by 2m TXL on #ETH &amp; #BSC.
+✅ $10,000 worth of $TXL into the TXL Reward Pools. 
+
+How did you like our first #BlackFriday?
+
+$TXL #TixlWeekendFun https://t.co/Yk8m3DD1HP",53,6,14,2021-11-27
+720,2021-11-28 12:04:03+00:00,1464928070054391816,AutobahnNetwork,@Hhai99 Please join our support: https://t.co/Na4emSNEAP,0,0,0,2021-11-28
+723,2021-11-29 15:51:57+00:00,1465347808341499913,AutobahnNetwork,@Asogabe Hey :) Please join our support: https://t.co/Na4emSNEAP,0,0,1,2021-11-29
+728,2021-11-30 16:00:02+00:00,1465712230981197827,AutobahnNetwork,"#Metaverse is THE hot topic! Especially after Zuckerberg decided to bet big on it. 
+
+So let's learn more about this topic in our Tixl Tuesday Explained Series!
+
+Check our summary &amp; understand how the need for communication between Blockchains will be important in the Metaverse. https://t.co/RBYBq6iBto",61,4,19,2021-11-30
+731,2021-12-01 14:08:44+00:00,1466046610861924353,AutobahnNetwork,"⏰ The clock is ticking...
+The first Bridge Insights on Discord starts in 2 hours!
+
+Bridge Insights is our weekly chat event about certain https://t.co/8q8zI2x1de topics. Today we will be talking about Liquidity Mining Pools!
+
+Join us here at 4 PM UTC: https://t.co/DA9sSDnr6P https://t.co/XIaxAKgx4L",44,3,10,2021-12-01
+733,2021-12-02 14:08:25+00:00,1466408918532378624,AutobahnNetwork,"👀 Guess, whose CV is this?
+
+This person is from the creative team, working with content production &amp; social media strategies for over 10 years.
+
+He/She has a degree in Design and Technology and post-graduation in Digital Marketing.",26,4,6,2021-12-02
+737,2021-12-03 12:14:39+00:00,1466742677559549958,AutobahnNetwork,"@Foufighter19731 Hiii, gradually it is happening, more tokens are being added and the deposit limits are being increased :)",1,0,0,2021-12-03
+740,2021-12-04 15:58:00+00:00,1467161270990393347,AutobahnNetwork,"💭 Chart Prices 💭
+
+Who can relate to this reality?
+
+$TXL #TixlWeekendFun https://t.co/NaR1QAEyup",52,5,15,2021-12-04
+741,2021-12-06 16:01:09+00:00,1467886840233484288,AutobahnNetwork,"Tixl Weekly Update:
+
+✅ $10k project referral program
+✅ Weekly $USDC volume &gt; $1m
+✅ 1st Bridge Insights in Discord
+
+Currently working on:
+
+👨‍💻 Prep new networks, $USDT &amp; native tokens
+📊 1st dashboard for Bridge KPIs
+💥 YouTube live AMA (Dec 16, 4PM UTC)
+
+https://t.co/Gedu8EHct2 https://t.co/UdfGsYfaNd",52,11,14,2021-12-06
+742,2021-12-07 15:59:31+00:00,1468248818944720908,AutobahnNetwork,"Transaction &amp; protocol fees can be vital for the success of a project. @Uniswap for example takes 0.3% per swap to distribute back rewards for liquidity providers.
+
+Check out our newest Tixl Tuesday Explained Series! 
+
+🔗 https://t.co/8q8zI2x1de
+📚 https://t.co/lxpW41gJI3 https://t.co/TMEKEuRwfv",50,2,12,2021-12-07
+745,2021-12-08 11:09:43+00:00,1468538276185350146,AutobahnNetwork,@aboAyoub199 Hey :) Exchange listings are done under a non-disclosure agreement. Everything is confidential until a mutual agreement is reached. We cannot confirm any exchange listing. But it is every project’s ultimate goal to get listed on as many tier 1 exchanges as possible.,1,0,0,2021-12-08
+749,2021-12-09 14:59:06+00:00,1468958388352479246,AutobahnNetwork,"In one week we will have a major AMA with the founders live on YouTube.
+
+@sebgronewold &amp; @eichinger_c will recap 2021 &amp; talk about what 2022 will have in store for Tixl. Join our AMA!
+
+🔹 Date: December 16 
+🔹 Time: 4 PM UTC
+🔹 Place: https://t.co/WkKNM7Fvra https://t.co/uuhs1iLMw9",48,2,16,2021-12-09
+751,2021-12-10 15:02:00+00:00,1469321506048163854,AutobahnNetwork,"Testimonial from a happy Cross-Chain Bridge user:
+
+""I earned a few $PMON from the https://t.co/8q8zI2x1de Reward Pool &amp; decided to buy 6 boosters from @polychainmon! I've got one NFT with a floor price of 2.75 $BNB.""
+
+Reward Pools can offer high APRs &amp; long-term passive income.",47,4,11,2021-12-10
+752,2021-12-13 17:08:49+00:00,1470440585119084551,AutobahnNetwork,"This Wednesday we will have an unmissable chat about the https://t.co/8q8zI2x1de Reward Pools.
+
+This will be our 3rd #BridgeInsights within #Discord &amp; we look forward to everyone's participation!
+
+Event link: https://t.co/Jrzvr9Sjwa
+
+See you there 👋 $TXL $BRIDGE https://t.co/hl8YZfCL1q",34,1,8,2021-12-13
+755,2021-12-14 18:28:40+00:00,1470823065915465728,AutobahnNetwork,"#NFTs face similar challenges as (fungible) tokens: there are products &amp; use cases for NFTs on various networks.
+
+Due to the growing trading volume, the bridging for NFTs has also been implemented in the https://t.co/8q8zI2x1de &amp; is today's Tixl Tuesday Explained Series topic. https://t.co/hu2Nc1HJU9",41,1,11,2021-12-14
+756,2021-12-15 16:56:22+00:00,1471162229198311441,AutobahnNetwork,"⏰ 1 DAY ALERT!
+
+Our YouTube Live AMA with the $TXL Founders @sebgronewold &amp; @eichinger_c is getting closer!
+
+Join to get news about 2022 🔥
+
+🔹 Date: December 16 
+🔹 Time: 4 PM UTC
+🔹 Place: https://t.co/WkKNM7X6PK",37,3,11,2021-12-15
+758,2021-12-16 14:09:29+00:00,1471482616104857605,AutobahnNetwork,"Yesterday's #BridgeInsights was about Reward Pools, catch up now!
+
+#RewardPools are the way the https://t.co/8q8zI2x1de distributes the majority of bridging fees: 70% of the fees collected from bridgings. 🔥
+
+https://t.co/t3cJRDWVj9",26,1,6,2021-12-16
+761,2021-12-17 14:21:18+00:00,1471847979560669184,AutobahnNetwork,"Thanks to everyone who attended our #AMA yesterday, we are looking forward to the next one! 🤩
+
+In case you missed it, we've got you the full AMA recap here.
+https://t.co/zW59nidxxg",33,3,4,2021-12-17
+762,2021-12-19 15:44:00+00:00,1472593565905788934,AutobahnNetwork,"💥 Let's grow $BRIDGE and $TXL together! 
+
+Participate in our program with rewards of up to $10,000 per project.
+
+👇 Click below on the link and find out now how to join.
+
+💙 Share the program with friends.
+
+https://t.co/mLlEzbStBp",49,0,16,2021-12-19
+763,2021-12-20 15:45:50+00:00,1472956414901563393,AutobahnNetwork,"Tixl Weekly Update:
+
+✅ 2022 Roadmap Workshop
+✅ YouTube live AMA
+✅ Bridge testing for ETH
+
+Currently working on:
+
+🎄 Christmas Lottery
+🔥 Autobahn Network details
+💻 Go-Live ETH &amp; USDT 
+
+More 👉 https://t.co/VbK0VC5H6a https://t.co/Vh2F5HDd7A",37,4,8,2021-12-20
+767,2021-12-21 15:30:00+00:00,1473314818820091904,AutobahnNetwork,"🔊 Attention students: we are hiring!
+
+The need for Interoperability is growing &amp; so is Tixl. The dev team is looking for new colleagues!
+
+Apply yourself or please share with your friends!
+
+If this doesn't fit: We are also hiring other roles on https://t.co/CAsfMsNASy
+
+$TXL https://t.co/pjCsmEHsoq",40,3,13,2021-12-21
+771,2021-12-22 21:08:23+00:00,1473762363690176536,AutobahnNetwork,"🎵 All we want for Christmas is $TXL 🎵
+
+It's not too late to put one more thing on your wish list.
+
+#tixlchristmasfun https://t.co/oLMYZJkrBm",44,4,9,2021-12-22
+772,2021-12-23 14:50:07+00:00,1474029559284645889,AutobahnNetwork,"🎄 Christmas Lottery
+
+To celebrate Christmas, Tixl Santa has prepared 10 gifts of $200 in $BRIDGE!
+
+The more you bridge inside https://t.co/8q8zI2x1de, the higher are your chances of receiving a 🎁
+
+Details + participation form in our Discord Ann. Channel: https://t.co/UUGkQPld2H https://t.co/p4mantvfoU",55,5,21,2021-12-23
+775,2021-12-25 09:00:00+00:00,1474666223174512642,AutobahnNetwork,"･ ｡
+ ☆∴｡　*
+　･ﾟ*｡★･
+　　･ *ﾟ｡　　 *
+　 ･ ﾟ*｡･ﾟ★｡
+　　　☆ﾟ･｡°*. ﾟ
+*　　ﾟ｡·*･｡ ﾟ*
+　　　ﾟ *.｡☆｡★　･
+　　* ☆ ｡･ﾟ*.｡ https://t.co/P928csAJ1a",52,1,11,2021-12-25
+776,2021-12-27 16:00:01+00:00,1475496699019685890,AutobahnNetwork,"Dear Tixl Community,
+
+Thank you for being part of this journey. It is time to reflect &amp; recharge batteries for 2022.
+
+This week there will be no Weekly but we have one request: Please help us improve the Weekly &amp; answer our form 👉 https://t.co/QE9vze2HPR
+
+Best wishes! 🕊️",40,1,5,2021-12-27
+777,2021-12-28 16:10:00+00:00,1475861599856381958,AutobahnNetwork,"Interested in joining more focused discussions?
+Join our #Discord; we optimized the channels.
+
+ 🔹 Speak with the core community, developers &amp; the team
+ 🔹 Share your ideas
+ 🔹 Be part of the $TXL and $BRIDGE community
+
+Come and say hi: https://t.co/rtvEVWMjHI",33,2,6,2021-12-28
+778,2021-12-31 16:58:00+00:00,1476960842931335169,AutobahnNetwork,"🌟 We wish you all a great New Year's Eve and a New Year filled with: Health, success, happiness, and #bullmarket! https://t.co/LKtzZahSSK",49,2,8,2021-12-31
+779,2022-01-01 13:01:00+00:00,1477263588200910851,AutobahnNetwork,"New year, the same goal - become a space leader in smart bridging technologies and low-fee, high-speed, scalable &amp; decentralized networks 🚀
+
+Happy new year!
+
+$TXL $BRIDGE",71,4,13,2022-01-01
+780,2022-01-02 16:02:00+00:00,1477671526006673409,AutobahnNetwork,"Start the year with some 💰: Join our Project Referral Program with rewards up to $10k per project!
+
+💥 The advantages projects get from listing a token on the #CrossChainBridge: https://t.co/uHxtkeiLGB
+
+💥 Everything about the Program: https://t.co/mLlEzbStBp",33,0,7,2022-01-02
+781,2022-01-03 23:04:53+00:00,1478140335096311808,AutobahnNetwork,@CRCortez1 Hey :) Please join our support: https://t.co/Na4emSNEAP,0,0,0,2022-01-03
+785,2022-01-04 15:03:03+00:00,1478381466535047172,AutobahnNetwork,"As #Crypto becomes more mainstream, unfortunately, scamming becomes more popular.
+
+Here are some tips to help protect yourself &amp; keep your crypto safe 🔒
+
+Check out today's Tixl Explained Series: https://t.co/j0Wj5Ahl3Y",36,3,10,2022-01-04
+787,2022-01-05 15:35:37+00:00,1478752049282039817,AutobahnNetwork,"With a brand new year getting started it is time to review, prepare &amp; step bravely into 2022! $TXL 🚀
+
+As a start, we want to share some of our team's thoughts &amp; wishes for the coming year: https://t.co/dYZLiDqWDA
+
+💭 How about yours?",55,3,10,2022-01-05
+788,2022-01-07 16:01:06+00:00,1479483239169466378,AutobahnNetwork,"As the market evolves, we see more #blockchains taking a big lead in the space. #ETH #Polygon #BSC all have benefits.
+
+To benefit the most you need to conduct transactions across chains.
+
+#CrossChainBridge has this goal: move any token to almost any network 💥",57,3,10,2022-01-07
+789,2022-01-09 13:51:07+00:00,1480175305134387201,AutobahnNetwork,"@makadara2011 Hi, did you have your problem solved? :)",0,0,0,2022-01-09
+790,2022-01-10 15:31:09+00:00,1480562864163336195,AutobahnNetwork,"Tixl Weekly Update:
+
+✅ USDT withdrawal fix
+✅ Bridge ERC20 contract upgrade
+✅ 2022 H1 strategy
+
+Currently working on:
+
+🧑‍🌾 $BRIDGE Farms on #BSC &amp; #POLYGON
+🔥 Buy Back &amp; Burn interface
+🎨 NFT UI improvements
+
+More 👉 https://t.co/VbK0VC5H6a https://t.co/08Qi8jGDmF",46,4,15,2022-01-10
+792,2022-01-11 15:58:51+00:00,1480932224866430990,AutobahnNetwork,"Recently, we announced that we plan to launch the #AutobahnNetwork as an Optimistic Rollup or L2.
+
+Hearing this for the first time? 🤔
+Tixl Tuesday Explained Series has got you covered!
+
+Here’s what you need to know about our primary USPs 👇
+https://t.co/TKWD0TCfj1",43,1,12,2022-01-11
+793,2022-01-12 14:11:52+00:00,1481267689276465152,AutobahnNetwork,"NEW BRIDGE FEATURES 💥
+
+Live now on https://t.co/8q8zI2x1de
+
+🔥 $TXL Buy Back &amp; Burn. Trigger the swap of bridging fees to TXL &amp; burn them
+🎨 NFT Select UI
+
+Read more: https://t.co/VbK0VC5H6a
+
+... 2022 has just started and our team is at full speed 🚀 https://t.co/OaAYEG4LrB",58,2,19,2022-01-12
+794,2022-01-13 15:59:10+00:00,1481657081799217158,AutobahnNetwork,"https://t.co/8q8zI2fpOE allows assets to be listed in a permissionless way!
+
+Similar to #Uniswap &amp; other DEXs, projects or anybody just need to add the 1st liquidity on each side &amp; do 1 #bridge transaction.
+
+Find the advantages for projects &amp; details here: https://t.co/RdVf43FYHr https://t.co/q7hyuw7VTU",66,5,30,2022-01-13
+795,2022-01-14 12:16:17+00:00,1481963379388526592,AutobahnNetwork,"You’ve asked for it, &amp; here it is!
+
+We’ve prepared a tutorial explaining how you can bridge your tokens from #ETH 🔄 #BSC 🔄 #POLYGON in just a few steps on https://t.co/8q8zI2x1de.
+
+👉 https://t.co/dpjqza8kqw
+
+Would you like more tutorials about #CrossChainBridge? Let us know 👇",51,4,17,2022-01-14
+798,2022-01-17 18:20:06+00:00,1483142100405395461,AutobahnNetwork,"We are happy to share an update covering our achievements in H2 2021 &amp; let you know about upcoming plans!
+
+If 2021 was the year of preparation &amp; fast-paced developments, 2022 will be the year we turn up the dial to 110%  -  to make it the year of delivery!
+https://t.co/hODQySBerp",52,4,14,2022-01-17
+801,2022-01-18 14:08:42+00:00,1483441220827418630,AutobahnNetwork,@IncomeSharks We DM you :),6,1,0,2022-01-18
+804,2022-01-19 16:30:01+00:00,1483839169277353989,AutobahnNetwork,"🔊 #CrossChainBridge Trigger Fee Distribution!
+
+To optimize the gas costs on https://t.co/8q8zI2x1de, we updated the BridgeERC20 contract in December 2021! 🚀
+
+🔗 Find all the details about this update here: https://t.co/BEw3p3Vz0O",43,1,10,2022-01-19
+805,2022-01-21 11:38:47+00:00,1484490654415736842,AutobahnNetwork,"Currently, https://t.co/8q8zI2x1de supports 3 popular EVM compatible blockchains: #Ethereum #BSC &amp; #Polygon, with many more to come 🚀
+
+And YOU get to decide which will be the next network added to #CrossChainBridge.
+
+Vote &amp; be a part of our interoperable journey.
+
+$AVAX $FTM",51,6,14,2022-01-21
+806,2022-01-24 12:44:02+00:00,1485594242080813061,AutobahnNetwork,@Agung87563144 Exchange listings are done under a non-disclosure agreement. Everything is confidential until a mutual agreement is reached. We cannot confirm any exchange listing. But it is every project’s ultimate goal to get listed on as many tier 1 exchanges as possible.,0,0,0,2022-01-24
+810,2022-01-25 10:16:40+00:00,1485919542501064706,AutobahnNetwork,"@One56Raz A teaser will be published soon, as will the roadmap :)",1,0,0,2022-01-25
+812,2022-01-26 15:02:40+00:00,1486353903524495362,AutobahnNetwork,"🔊 New socials for @CCB_Bridge
+
+We’re changing the way we keep you updated about each token &amp; product.
+
+From now on, we will have one channel dedicated to #CrossChainBridge &amp; another one for Tixl, which will focus on the #AutobahnNetwork.
+
+✌️ Be sure to follow both! https://t.co/nv16joKYQ1",55,3,18,2022-01-26
+813,2022-01-27 14:24:54+00:00,1486706786455355394,AutobahnNetwork,"@One56Raz @CCB_Bridge Maybe you can start here: https://t.co/dQfIBEbHmb
+Have a nice day!",1,0,0,2022-01-27
+814,2022-01-28 14:38:42+00:00,1487072649994022914,AutobahnNetwork,"BIG NEWS! 💥
+
+The #AutobahnNetwork will start as the very first L2 Rollup for #BinanceSmartChain.
+
+All the gaming &amp; NFT projects on BSC need the 1st BSC Scaling Solution in the crypto market, so here we are.
+
+🔗 Launch roadmap &amp; much more: https://t.co/OuXxxTpfgZ",144,25,52,2022-01-28
+815,2022-01-31 18:11:58+00:00,1488213481690218503,AutobahnNetwork,"2022 has started faster than ever; besides a lot of progress with the #AutobahnNetwork, we have brought a huge amount of new talent into our team.
+
+Our goals are ambitious, so there is nothing better than having brilliant minds on board! Get to know them 👇https://t.co/swiUzUbA0S",65,5,15,2022-01-31
+817,2022-02-01 12:05:56+00:00,1488483754712702980,AutobahnNetwork,"🔷 Tixl Founder Chat every Tuesday at 4 PM UTC with @sebgronewold.
+Join: https://t.co/21yoWHYMQu
+
+⛓️ Cross-Chain Bridge Founder Chat every Tuesday at 4:30 PM UTC with @eichinger_c.
+Join: https://t.co/q01EBG6ucM https://t.co/OaTGbHhYf2",36,1,9,2022-02-01
+820,2022-02-03 14:04:58+00:00,1489238485852733445,AutobahnNetwork,"#AutobahnNetwork development status update 🏎️💨
+
+✔️ L2 for #BSC fully deployed on #BSC mainnet for internal usage
+✔️ Deployed a swap DEX, take a peek
+🔜 Private Canary Network testing exclusive for $TXL Community
+
+Who's joining? https://t.co/RhBTl927FB",80,13,27,2022-02-03
+821,2022-02-04 11:04:38+00:00,1489555492938604547,AutobahnNetwork,"@ChainlinkQuant We don't have a separate audit yet, as we rely on forked codebase. However, we should get an audit in the future 😀",0,0,0,2022-02-04
+823,2022-02-07 17:57:58+00:00,1490746673236267016,AutobahnNetwork,"We are 100% certain that, eventually, most EVM chains will need a scaling layer. Right now, this is the missing piece.
+
+The #AutobahnNetwork will provide that scaling solution in a form of an Optimistic Rollup that can be connected to any layer 1 or 2 🔥
+
+https://t.co/OuXxxTpfgZ",72,1,20,2022-02-07
+824,2022-02-08 15:19:53+00:00,1491069278199902209,AutobahnNetwork,"#AutobahnNetwork Weekly Update:
+
+✅ L2 for #BSC fully deployed on #BSC mainnet
+✅ Deployed a DEX on the Canary Network
+
+Currently working on:
+
+💻 Preparing deployment for $TXL Community testing
+💡 New website design concept
+
+Founder Q&amp;A today 4PM UTC: https://t.co/VbK0VC6eVI https://t.co/S0uehxLpf4",57,6,15,2022-02-08
+825,2022-02-11 14:36:00+00:00,1492145398126833665,AutobahnNetwork,"🔐 SECURITY TIPS 
+
+👉 Always double-check the username of an admin to make sure it’s legitimate 
+
+👉 An admin will never PM you first
+
+👉 On TL change privacy settings not to be added to groups/be called by strangers
+
+👉 NEVER PROVIDE PRIVATE KEY/TOKENS TO ANYONE",34,0,10,2022-02-11
+827,2022-02-14 17:12:10+00:00,1493271865011363842,AutobahnNetwork,"Some 💙 in our feed!
+
+Happy Valentine's Day &amp; thanks for always being there alongside us. 
+
+Join $TXL Discord: https://t.co/rtvEVWuIQa https://t.co/vG2g7UPuj7",60,6,13,2022-02-14
+828,2022-02-15 15:45:11+00:00,1493612363077066762,AutobahnNetwork,"#AutobahnNetwork Weekly Update:
+
+✅ Strategic launch workshop
+✅ Gas-oracle adjustments for #BSC
+
+Currently working on:
+
+✍️ GitBook documentation
+🔥 $TXL Community testing
+
+Founder Q&amp;A today 4PM UTC: https://t.co/VbK0VC5H6a https://t.co/GpA4kRYOEv",38,1,9,2022-02-15
+829,2022-02-17 14:18:00+00:00,1494315195296100356,AutobahnNetwork,"🔷 Hey $TXL Community,
+
+#AutobahnNetwork Private Canary testing part 1 is here 🎉
+
+Who is ready to deploy contracts or use some that other people from our Community deployed?
+
+Access here &amp; fill out to be whitelisted: https://t.co/JFYZvfmsYp https://t.co/kBMz1uO8RU",52,2,12,2022-02-17
+830,2022-02-21 17:43:56+00:00,1495816574330146819,AutobahnNetwork,"Last chance to join #AutobahnNetwork Private Canary testing part 1.
+
+Do you want to deploy contracts or use some that other people from our Community deployed? 👉 Access here &amp; fill out to be whitelisted: https://t.co/JFYZvfmsYp https://t.co/6ChkjoQ2ja",37,0,7,2022-02-21
+831,2022-02-22 14:41:48+00:00,1496133123226091524,AutobahnNetwork,@sebgronewold 🚀🚀🚀,11,0,1,2022-02-22
+833,2022-02-23 16:48:03+00:00,1496527285209505796,AutobahnNetwork,"It’s become clear to us (&amp; actually most of the crypto projects) that Discord is a lot better for building communities, combining elements of group chats &amp; forums - in a very structured way.
+
+👉 https://t.co/rtvEVWuIQa
+
+Here are 10 advantages &amp; benefits of Discord.
+
+Thread (1/6) https://t.co/iRlEh1trZZ",39,3,8,2022-02-23
+838,2022-02-24 10:55:10+00:00,1496800868812922880,AutobahnNetwork,"The #AutobahnNetwork Private Canary testing part 1 is about to start 🚀
+
+❗ Please make sure that you have already joined our channel on Discord, so we can add you to the secret test group 👉 https://t.co/rtvEVWuIQa",32,2,6,2022-02-24
+839,2022-02-25 12:00:03+00:00,1497179581903556609,AutobahnNetwork,"What is this? 👀
+
+Drop your guess here 👇 https://t.co/rODzazamWo",61,22,11,2022-02-25
+840,2022-02-28 18:07:00+00:00,1498359091890212870,AutobahnNetwork,"Starting the week with more spoilers. Who's curious about what's to come?
+Keep an eye on our social media tomorrow. https://t.co/dudgvbYF7g",61,5,8,2022-02-28
+842,2022-03-01 14:08:20+00:00,1498661418954076165,AutobahnNetwork,"💥 Are you ready to take off? 💥
+
+Tixl is now Autobahn Network!
+
+We are thrilled to announce that today, as part of our growth strategy, we are rebranding &amp; releasing a new logo and a brand new website.
+
+$TXL will remain the core token.
+
+🔗 Read on: https://t.co/6e7WdVnseH https://t.co/3TMYAtyCcN",143,43,42,2022-03-01
+845,2022-03-03 16:49:06+00:00,1499426653549776899,AutobahnNetwork,"@leifericl @polychainmon @0xPolygon @BNBCHAIN @ethereum @arbitrum @optimismPBC L2 for @BNBCHAIN to reduce BSC gas fees by 95%?
+-&gt; @AutobahnNetwork",11,1,1,2022-03-03
+847,2022-03-04 14:01:00+00:00,1499746735878516736,AutobahnNetwork,"Did you follow all the news this week? 🔥
+The Autobahn Canary Network is live for whitelisted developers &amp; contracts are already being deployed.
+
+🔜 The whitelist will open to all developers from DeFi, GameFi or NFT projects on @BNBCHAIN.
+Pre-sign-up here: https://t.co/rXUrYjAOBS https://t.co/TkBClgjGAZ",40,3,11,2022-03-04
+848,2022-03-07 17:55:22+00:00,1500892879962660865,AutobahnNetwork,"Building to provide fast and straightforward scaling solutions to projects on BNB to keep gas costs low, and increase the productivity and longevity of the BNB Smart Chain base layer.
+
+🔗 https://t.co/MNUcBv2jak https://t.co/LDy68fCrUx",52,27,18,2022-03-07
+849,2022-03-08 14:48:02+00:00,1501208123750686729,AutobahnNetwork,"Remember today and always to celebrate and honor all the amazing women you have in your life.
+
+Happy International #WomensDay! https://t.co/AY9OwCf104",20,0,4,2022-03-08
+851,2022-03-09 13:21:53+00:00,1501548832492072964,AutobahnNetwork,"🇺🇦 Help Ukraine!
+ 
+We at #AutobahnNetwork are taking action today to support the people of Ukraine, we encourage you to join us.
+ 
+Donate till March 16th and receive 10% in $TXL Cashback via the Autobahn Network once it is live.
+ 
+👉 Participate: https://t.co/sOZNNJvOEG https://t.co/LikjWEqNqT",39,5,13,2022-03-09
+852,2022-03-10 13:40:12+00:00,1501915830661046274,AutobahnNetwork,"We adjusted the TXL circ supply on ETH.
+
+Nothing changed; we just incorporated the TXL that can potentially come from our old MTXLT token on ETH.
+No need to sum up TXL ERC20 + MTXLT BEP2 anymore; now, the circ supply on ETH is the only source of truth.
+
+🔗 https://t.co/Y3gvWF4pIm",32,7,6,2022-03-10
+853,2022-03-11 13:59:30+00:00,1502283073383276554,AutobahnNetwork,"🔊 Live AMA with @polychainmon 
+
+Join our talk on Twitter Spaces about Scaling @BNBCHAIN - Unleashing the Potential of Games &amp; NFTs.
+
+📅 Wednesday, March 16 at 15:30pm UTC
+💰 Giveaway: top 3 live questions win $150 in $TXL &amp; $150 in $PMON
+
+🔔 Reminder:  https://t.co/Tpd82XOq9F https://t.co/TrFVMXagT0",234,39,86,2022-03-11
+854,2022-03-15 16:00:42+00:00,1503763125069352965,AutobahnNetwork,"#AutobahnNetwork Weekly Update:
+
+✅ Donation campaign for Ukraine
+✅ New explorer for the Canary
+
+Currently working on:
+
+🗣️ Live AMA with @polychainmon (Mar 16, 15:30 PM UTC)
+🖥️ Integrating infrastructure providers
+
+Founder Q&amp;A today 4 PM UTC https://t.co/VbK0VC5H6a https://t.co/WpPPKfFUzV",27,1,5,2022-03-15
+855,2022-03-16 16:42:22+00:00,1504136001345794054,AutobahnNetwork,"Dear @AutobahnNetwork &amp; @polychainmon Communities
+
+During today’s AMA we encountered technical problems and were unfortunately forced to cancel the AMA.
+
+We will reschedule for the coming week(s) 🙌
+Hope to see you all there and thanks for your understanding.",41,2,10,2022-03-16
+856,2022-03-17 13:14:59+00:00,1504446198081536006,AutobahnNetwork,"IT'S CONFIRMED 🥳
+No $TXL deposit limits anymore!
+
+🔥 Stake $TXL without impermanent loss on #ETH, #BNBCHAIN and #POLYGON.
+
+🔗 https://t.co/8q8zI2x1de https://t.co/IXKzCRp2hS",41,2,12,2022-03-17
+857,2022-03-18 10:53:07+00:00,1504772885273063436,AutobahnNetwork,"Just to reinforce our view that @BNBCHAIN needs scaling!
+
+BSC gas fees are already too high for many dApps with high transaction volumes. With greater adoption, this will only get worse.
+
+💡 Scaling is needed to regain speed &amp; decrease gas costs by 95%.
+
+#autobahnnetwork https://t.co/R8VFUwCAz2",43,2,16,2022-03-18
+858,2022-03-21 17:57:15+00:00,1505966782493900802,AutobahnNetwork,"🔊 Our Live AMA with @polychainmon will be this week!
+ 
+Join our talk about Scaling @BNBCHAIN - Unleashing the Potential of Games &amp; NFTs.
+
+📅 Wednesday, March 23 at 15:30 PM UTC
+💰 Giveaway: top 3 live questions win $150 in $TXL &amp; $150 in $PMON
+
+🔔 https://t.co/xBL7tNDydY",42,2,12,2022-03-21
+859,2022-03-22 09:26:09+00:00,1506200550467063817,AutobahnNetwork,@FrancescoCiull4 ⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️,2,0,0,2022-03-22
+861,2022-03-23 14:38:01+00:00,1506641422631452675,AutobahnNetwork,"⏰ Our AMA with @polychainmon will start in 1 hour!
+ 
+Join our talk about Scaling @BNBCHAIN - Unleashing the Potential of Games &amp; NFTs.
+
+📅 Wednesday, March 23 at 15:30pm UTC
+💰 Giveaway: top 3 live questions win $150 in $TXL &amp; $150 in $PMON
+
+https://t.co/xBL7tNDydY",24,3,8,2022-03-23
+865,2022-03-24 13:44:16+00:00,1506990284416110592,AutobahnNetwork,"🔊 Today we are thrilled to announce our partnership with @UmbNetwork, a decentralized oracle sharing the same values as #AutobahnNetwork.
+
+To truly utilize a fully decentralized network, partnerships with external companies are essential.
+
+🔗 Learn more: https://t.co/7I0sEsBTmb",83,1,25,2022-03-24
+867,2022-03-28 16:33:36+00:00,1508482450019737606,AutobahnNetwork,"#AutobahnNetwork unique characteristics for @BNBCHAIN dApps
+
+1️⃣ 95% lower gas fees
+2️⃣ High-speed transactions
+3️⃣ L2 decentralization
+4️⃣ Maximum security
+
+🔗 Learn more: https://t.co/qsACSeVkvp https://t.co/LbndqkWcM9",52,7,20,2022-03-28
+868,2022-03-29 14:50:35+00:00,1508818912351334405,AutobahnNetwork,"#AutobahnNetwork Weekly Update:
+
+✅ @UmbNetwork partnership announcement
+✅ @polychainmon Twitter Spaces AMA
+
+Currently working on:
+
+🚗 1st NFT collection
+💥 @BNBCHAIN networking on #BinanceBlockchainWeek 
+
+Founder Q&amp;A today 3 PM UTC https://t.co/VbK0VC5H6a https://t.co/Xz7TgMlSRw",38,3,9,2022-03-29
+870,2022-03-30 15:31:43+00:00,1509191649003556868,AutobahnNetwork,"In case you didn't have a chance to join our AMA with @polychainmon, we've got you covered 😏
+
+Here is the transcript of all the questions we answered, check it out.
+More AMAs to come in the next days and weeks!
+
+https://t.co/77fEmnmhC8",38,0,9,2022-03-30
+871,2022-03-31 14:37:20+00:00,1509540353778532360,AutobahnNetwork,"🔉 Live AMA with @UmbNetwork 
+ 
+Join us next week on Twitter Spaces to talk about this partnership &amp; the progress of our work together.
+
+📅 Tuesday, April 5 at 3 PM UTC
+🔔 Set a reminder: https://t.co/caVXzMI6zP https://t.co/FidCR3znfi",64,1,14,2022-03-31
+872,2022-04-01 16:09:37+00:00,1509925962951053317,AutobahnNetwork,"Nice quote from @healthy_pockets' top 4 #Altcoins YouTube video!
+
+📺 Watch it here in Spanish: https://t.co/3MjlQvg9Up
+🔗 Learn more about #AutobahnNetwork: https://t.co/jGzL8MCdGu
+💬 Join our Community: https://t.co/rtvEVWuIQa https://t.co/4Q5r1u9PsQ",42,1,16,2022-04-01
+873,2022-04-04 17:06:25+00:00,1511027422283681802,AutobahnNetwork,"💥 Our Live AMA with @UmbNetwork will be tomorrow.
+
+Our Co-Founder @eichinger_c and Umbrella's Network president @J0HNCHEN are looking forward to having a cool chat. Don't miss it!
+
+🗓️ Tuesday, April 5 at 3 PM UTC
+🔔 Reminder: https://t.co/caVXzMI6zP",31,2,10,2022-04-04
+874,2022-04-05 14:00:02+00:00,1511342905532682242,AutobahnNetwork,"⏰ Our AMA with @UmbNetwork on Twitter Spaces will start in one hour!
+
+We’re looking forward to having a nice chat about our partnership.
+
+🗓️ Tuesday, April 5 at 3 PM UTC
+🔔 Reminder: https://t.co/caVXzMqvbf",18,0,5,2022-04-05
+876,2022-04-07 15:46:07+00:00,1512094376176017421,AutobahnNetwork,"Autobahn Network is launching before the @BNBCHAIN becomes even more congested &amp; expensive.
+
+Today, the average transaction already costs around $0.40. A transaction with the #AutobahnNetwork Optimistic Rollup is expected to be 95% cheaper, at around $0.0175 💥
+
+Source: YCharts https://t.co/TawLMXijXf",63,5,17,2022-04-07
+877,2022-04-11 18:58:17+00:00,1513592287049175051,AutobahnNetwork,"The documentation for the launch of our Grant Program is getting ready 🔥 
+
+Developers and projects can expect highly attractive TXL Rewards.
+
+🔗 Interested in the program? You can sign-up here: https://t.co/RlCP4TBRo6 https://t.co/wx5D4TbM40",40,0,12,2022-04-11
+878,2022-04-12 14:39:09+00:00,1513889463834972161,AutobahnNetwork,"#AutobahnNetwork Weekly Update:
+
+✅ @UmbNetwork AMA
+✅ Documentation for Grant &amp; Bug Bounty Program
+
+Currently working on:
+
+💻 Explorer update to support smart contracts verification
+✍️ GitBook documentation updates
+
+Founder Q&amp;A today 3 PM UTC https://t.co/VbK0VC5H6a https://t.co/AqtLiwWsnQ",33,0,11,2022-04-12
+879,2022-04-14 15:03:36+00:00,1514620390424915973,AutobahnNetwork,"Easter Giveaway on Discord 🥚🐣🍫
+
+🗓️ Participate until 18 April
+💰 $100 in TXL (total prize)
+
+Join our channel on Discord and see how to participate: https://t.co/bySjrxTgfZ https://t.co/UCBY60EyyI",27,3,8,2022-04-14
+881,2022-04-17 11:06:00+00:00,1515647761001193474,AutobahnNetwork,"Happy Easter everyone, from the whole #AutobahnNetwork team! 🐰🍫🥚 https://t.co/x9gtTsMFKG",41,4,5,2022-04-17
+882,2022-04-22 13:37:50+00:00,1517497911319355393,AutobahnNetwork,"Monthly Development Update 🏎️
+
+Check out below to stay up-to-date with all of the latest developments in the #AutobahnNetwork and what to expect in the coming months.
+
+Busy but exciting times ahead! 🚀
+https://t.co/HrugL9SJ4f",37,5,12,2022-04-22
+883,2022-04-26 14:26:55+00:00,1518959815061553152,AutobahnNetwork,"📍 ROADMAP DETAILS
+
+We have just posted more details about our Roadmap in our Discord, check it out: https://t.co/kMqOlA7fQI
+
+This year will be full of exciting features &amp; hard work to make $TXL the best it can be!
+
+For more details join our Discord founder Q&amp;A today at 3 PM UTC. https://t.co/bwtAV4Gvsc",52,31,21,2022-04-26
+885,2022-04-29 10:28:14+00:00,1519986910403473408,AutobahnNetwork,"The Autobahn Network Canary sequencer and RPC will be down for maintenance starting from today.
+
+▪️ The max. downtime will be 7 days (168 hours).
+🥳 The reason for the downtime is that the network gas token will be replaced from BNB to $TXL. https://t.co/MNBCrlC9Rt",45,7,12,2022-04-29
+886,2022-05-04 17:31:15+00:00,1521905308884480000,AutobahnNetwork,#AutobahnNetwork 💥 https://t.co/6dC91jW1qZ,29,3,5,2022-05-04
+887,2022-05-10 12:50:17+00:00,1524008928035618817,AutobahnNetwork,"Be part of our Community and join Discord! ✨
+
+Every Tuesday at 3 PM UTC our Q&amp;A takes place there with @0xseb0zz, co-founder of #AutobahnNetwork.
+
+🔗 https://t.co/rtvEVWuIQa https://t.co/BwPBIpsTBr",29,2,7,2022-05-10
+888,2022-05-20 13:10:50+00:00,1527637976477483008,AutobahnNetwork,"Autobahn Network Update 🏎️
+
+1️⃣ Status Quo
+2️⃣ NFT Collection Launch
+3️⃣ Next up
+
+Check out below all of the latest developments in the #AutobahnNetwork and what to expect next.
+
+🔗 https://t.co/cRQAJme76s https://t.co/epNSg9Nwmd",47,6,12,2022-05-20
+889,2022-05-24 14:02:45+00:00,1529100594820091904,AutobahnNetwork,"Let's talk about this and many other topics!
+👉Join our weekly founder chat with @0xseb0zz in Discord – every Tuesday at 3 PM UTC.
+
+🔗 https://t.co/rtvEVWuIQa https://t.co/dVEU7stjbj",22,2,7,2022-05-24
+890,2022-05-31 14:02:09+00:00,1531637156946518016,AutobahnNetwork,"Join our weekly Q&amp;A with @0xseb0zz on Discord!
+
+🕒 Every Tuesday at 3 PM UTC 
+🔗 https://t.co/Z5qpg2Mb75",11,7,5,2022-05-31
+891,2022-06-02 14:21:50+00:00,1532366885169336321,AutobahnNetwork,"Which types of dApps would you like to see deployed on the Autobahn Network?
+1⃣Marketplaces
+2⃣Exchanges
+3⃣Games
+4⃣Other, comment 👇",38,27,14,2022-06-02
+892,2022-06-16 14:49:08+00:00,1537447185272303617,AutobahnNetwork,"As we are approaching the first projects deploying on the #AutobahnNetwork L2, we will be shutting down the old Tixl Wallet on June 30th.
+
+⚠️ All users with funds still deposited in the old Tixl Wallet: Please withdraw or migrate your funds.
+
+Details 👇
+https://t.co/Dj02EAIvCK",42,13,7,2022-06-16
+893,2022-06-17 07:36:01+00:00,1537700578784051200,AutobahnNetwork,"@ismtr @RashidH35858347 Hey, you don't need to do anything!
+
+You only need to do something if you have tokens in the Tixl Wallet.",1,1,0,2022-06-17
+895,2022-06-28 10:40:25+00:00,1541733251185840129,AutobahnNetwork,"Reminder: As we are approaching the first projects deploying on the #AutobahnNetwork L2, we will be shutting down the old Tixl Wallet on June 30th.
+
+⚠️ All users with funds still deposited in the old Tixl Wallet: Please withdraw or migrate your funds.
+
+https://t.co/Dj02EAqULc",19,4,3,2022-06-28
+896,2022-06-30 10:11:50+00:00,1542450832616079360,AutobahnNetwork,"Dear Community,
+
+You can already use the migration funds option to get your funds plus some TXL to cover gas airdropped in the new Autobahn Network.
+
+Please do the following steps between June 30th, and July 31, 2022.
+https://t.co/Dj02EAqULc",28,8,7,2022-06-30
+897,2022-07-01 15:58:18+00:00,1542900410498834434,AutobahnNetwork,@KingNftCrypto You do not need to do anything :),2,0,0,2022-07-01
+898,2022-07-15 07:59:26+00:00,1547853329803276288,AutobahnNetwork,"Dear Community, 
+
+⚠️ Since some members were facing issues migrating from the old Tixl wallet to the new Autobahn Network, we kindly ask everyone to follow again the steps described in this article: https://t.co/riFVxfiiwx
+
+🙏 Thanks for your cooperation!",18,4,8,2022-07-15
+899,2022-08-29 15:53:40+00:00,1564280129249050630,AutobahnNetwork,"Dear #TXL Community,
+
+The airdrop of Autobahn Network funds has been successfully completed ✅
+
+If you have questions, feel free to ask our Community Managers: https://t.co/rtvEVWuIQa
+
+🔜 More good news will be shared with our Community!",20,9,6,2022-08-29

@@ -1,0 +1,452 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-10-21 03:04:22+00:00,1318749945734844416,saffronfinance_,https://t.co/MMOAGzpHaf is live 🥵 https://t.co/YRU1StC2Qz,2,0,1,2020-10-21
+1,2020-10-31 09:40:15+00:00,1322473449953087489,saffronfinance_,https://t.co/FH0isiKeYb,15,1,2,2020-10-31
+3,2020-11-01 13:47:19+00:00,1322898013518520320,saffronfinance_,https://t.co/ZVcQiEzTWk,1,0,0,2020-11-01
+7,2020-11-02 14:36:20+00:00,1323272735972302848,saffronfinance_,Saffron now has a https://t.co/Mq2yBmw0m6 tag on @etherscan https://t.co/IXnemgTE88 https://t.co/Ul1BXhSBk2,8,1,1,2020-11-02
+8,2020-11-10 20:05:26+00:00,1326254661884645380,saffronfinance_,Tranche balancing algorithm simulation added to GitHub: https://t.co/LLXdSD7jAF,8,0,3,2020-11-10
+9,2020-11-11 16:58:36+00:00,1326570030792925193,saffronfinance_,"TVL update: nearly $17,000,000 after 10 days
+#saffron #defi https://t.co/SnI1kUT7Hb",10,1,4,2020-11-11
+10,2020-11-15 05:35:57+00:00,1327847786923089920,saffronfinance_,"Epoch 0 is coming to an end soon! Adding liquidity to the pool has been shut down in preparation for epoch 1. 
+
+Adding liquidity in epoch 1 to the DAI pool and SFI/ETH AMM liquidity pool will be switched on at 14:00 UTC.
+
+See you in the next epoch!",22,1,4,2020-11-15
+12,2020-11-18 02:09:31+00:00,1328883000818462721,saffronfinance_,"Learn more about Saffron on CoinMarketCap's newly-added page for https://t.co/MMOAGzpHaf: 
+
+https://t.co/p0im6LjCn5 https://t.co/qniKVTYu70",14,1,3,2020-11-18
+13,2020-11-21 00:51:13+00:00,1329950461504462854,saffronfinance_,The web3 app for Saffron at https://t.co/uaB3qG8Cs4 has been updated with graphs and individual TVL reports for each pool and tranche https://t.co/rWIqkKiHYP,29,2,5,2020-11-21
+15,2020-11-26 03:26:10+00:00,1331801395041890305,saffronfinance_,Thank you to @btse_insights for the fantastic AMA! Great things are on the horizon!,18,1,3,2020-11-26
+16,2020-11-29 09:48:45+00:00,1332984839058976769,saffronfinance_,"Epoch 2
+2020-11-29 14:00 UTC
+https://t.co/xfVPZnE7DJ https://t.co/rwGnmOJ6F9",35,5,5,2020-11-29
+18,2020-11-30 01:17:52+00:00,1333218658701758464,saffronfinance_,"As some of you may be aware it's been a crazy weekend for $SFI ♨️, but we have some exciting news to share &amp; more. 
+
+We've answered the questions you've submitted in today's AMA with @psykeeper_. You can find it here: https://t.co/vnlCuRHtam",23,1,7,2020-11-30
+19,2020-12-02 03:36:52+00:00,1333978411983917057,saffronfinance_,"For full transparency, we will be making the Epoch1 FundRescue GitHub repo public, and offering a 10 SFI bounty for any bug or issue that could lead to  unexpected loss of user funds. The next steps are:
+
+1. Review code
+2. Test on mainnet 
+3. Execute on mainnet early tomorrow",23,3,1,2020-12-02
+22,2020-12-03 18:00:36+00:00,1334558165044695044,saffronfinance_,@TheCryptoFool APY on the dashboard may be incorrect! We're working on fixing our front-end display,2,2,0,2020-12-03
+23,2020-12-04 20:45:17+00:00,1334961998455574530,saffronfinance_,"Saffron Epoch 1 Recovery
+
+https://t.co/JxZQ11XDKX",50,3,4,2020-12-04
+24,2020-12-05 16:34:42+00:00,1335261324302028802,saffronfinance_,In case you missed it - @BTSEcom is doubling the yield on the new Saffron SFI/BTSE pool in epoch 2 as an introductory reward for participating in the new pool! Read more about the BTSE promotional reward here: https://t.co/gVUT3RrewX https://t.co/WfN3x4wyWO,19,0,3,2020-12-05
+25,2020-12-13 20:59:25+00:00,1338227044732325889,saffronfinance_,"New Medium Article 📚
+
+Transcript from the @DefiOmega AMA with @psykeeper_  
+
+https://t.co/SlJGmp2e8C",33,2,4,2020-12-13
+26,2020-12-15 06:09:23+00:00,1338727836253892609,saffronfinance_,"The ibETH/ALPHA pool is now live ♨️
+
+Please see the add liquidity page at https://t.co/2I7L4t3iQ0 to access the pool 
+
+In addition, the dashboard has been updated, and now reflects all deposited token balances",22,1,3,2020-12-15
+27,2020-12-16 15:05:16+00:00,1339225085849251844,saffronfinance_,We're expanding our team! 👩🏼‍🌾🧑🏾‍💻👩🏻‍💼 Check out the recent job listing for Saffron here: https://t.co/swe43lVl7K,21,1,2,2020-12-16
+28,2020-12-17 03:43:36+00:00,1339415926760992769,saffronfinance_,SFI is now available on Dharma! Download the @dharma_hq mobile app from the App Store or Google Play or check out the SFI page on their webapp here: https://t.co/TOt8RM1co4,36,0,4,2020-12-17
+30,2020-12-20 17:33:30+00:00,1340711940344188930,saffronfinance_,https://t.co/ezxIsdoSWk,22,1,1,2020-12-20
+31,2020-12-21 13:59:05+00:00,1341020367817744385,saffronfinance_,"Saffron Long Term Commitment
+♨️ We've raised $1,000,000 for protocol development
+♨️ We're locking up to 10,000 SFI in a 1-year contract
+
+https://t.co/m4SbQNtWVY",79,9,20,2020-12-21
+33,2020-12-27 20:45:54+00:00,1343297075153403906,saffronfinance_,"Saffron Epoch 4 ♨️
+https://t.co/O6nosu8WQE",35,2,4,2020-12-27
+34,2020-12-29 20:35:41+00:00,1344019277955923968,saffronfinance_,We've added a Google form for you to anonymously submit your questions for the AMA this weekend! Looking forward to hearing all of the feedback! https://t.co/vMRUKyUdIG,13,0,3,2020-12-29
+35,2020-12-30 04:17:42+00:00,1344135548768825345,saffronfinance_,The selection of liquidity options on https://t.co/p2GCrWYL6x has grown from a single Saffron adapter for DAI into an ecosystem of multiple adapters and pools https://t.co/pk4bW1YmQO,38,2,6,2020-12-30
+37,2021-01-01 00:18:08+00:00,1344800035146510337,saffronfinance_,"As we say goodbye to 2020, Saffron Finance takes a look back on how far we've come since November! https://t.co/CbNxwWlBWa",35,7,7,2021-01-01
+38,2021-01-03 17:58:32+00:00,1345791670462406656,saffronfinance_,"Don't forget to join our Discord, where you can get in touch with our developers, discuss governance, submit your feedback, and contribute content and ideas to Saffron Finance! https://t.co/vnlCuRHtam https://t.co/uLzoHIC5uT",19,0,4,2021-01-03
+39,2021-01-04 16:00:00+00:00,1346124228672835584,saffronfinance_,"Good morning #SaffronSoldiers , out of all of our liquidity pools - which ones are your favorite? https://t.co/gQlygzYLxR",16,1,0,2021-01-04
+40,2021-01-05 21:32:07+00:00,1346570195112964096,saffronfinance_,Which DeFi protocols would you like to see integrated into Saffron? Let us know here! https://t.co/WeoQAy8ncN,25,21,3,2021-01-05
+41,2021-01-10 18:41:02+00:00,1348339081995051008,saffronfinance_,"Epoch 5 is off to a great start! If you have two minutes to spare this afternoon, we'd love to hear feedback on your experience with Saffron Finance so far. https://t.co/WeoQAy8ncN",11,1,3,2021-01-10
+42,2021-01-14 19:26:46+00:00,1349800143659421696,saffronfinance_,"Saffron Weekly 1/14/21 talks about multisig, #SushiSwap, and the new wrapped #Monero liquidity pool coming in Epoch 6! https://t.co/AIT5JWSQTJ",11,1,3,2021-01-14
+43,2021-01-15 19:45:14+00:00,1350167175714234369,saffronfinance_,"We had the honor of being featured on #CoinGecko 's yearly report! Check out pages 21 &amp; 25, where they talk about Saffron Finance in their summary of the DeFi ecosystem. It’s an honor to be mentioned alongside all of these other amazing DeFi protocols! https://t.co/xixHzLilqI https://t.co/OdJGyp8OLi",35,0,5,2021-01-15
+44,2021-01-22 00:07:42+00:00,1352407556229103616,saffronfinance_,"This Sunday, rSFI will finally become eligible for 1:1 redemption to SFI on Saffron. Thank you for your patience! https://t.co/KLAzQLwhcp",25,1,1,2021-01-22
+45,2021-01-24 13:47:45+00:00,1353338702819422209,saffronfinance_,"Get ready for Saffron: epoch 6 ♨️♨️♨️
+
+https://t.co/cqWiCg5jK1",56,3,17,2021-01-24
+50,2021-01-25 05:30:38+00:00,1353575987989147648,saffronfinance_,"$SFI has now officially been added to the @TrustWalletApp universal token list. Check out on logo on @UniswapProtocol !
+https://t.co/r2Ho9F3MOG https://t.co/tvmxsmDRpF",50,3,6,2021-01-25
+51,2021-01-26 22:59:47+00:00,1354202404347117569,saffronfinance_,♨️🟨 https://t.co/R22vozAWvh,66,7,10,2021-01-26
+52,2021-01-28 22:27:57+00:00,1354919166017462274,saffronfinance_,We've come a long way in just three short months. Which liquidity pool of ours do you like using the most? #ThrowbackThursday https://t.co/Y0cXHLJs6a,42,2,8,2021-01-28
+54,2021-01-29 23:52:43+00:00,1355302887639932930,saffronfinance_,"Looking at some of the feedback this Friday, we wanted to extend an invite to all of our users to help shape Saffron's future this Sunday at 11am EST! https://t.co/Dizi6SgTFG",24,0,3,2021-01-29
+55,2021-01-30 15:29:43+00:00,1355538692274876418,saffronfinance_,"Coming up in our UI/UX update:
+♨️ New wallet options
+♨️ Dark mode
+♨️ Cleaner dashboard page https://t.co/k1bO7656KN",46,2,2,2021-01-30
+56,2021-02-04 01:23:30+00:00,1357137673312419840,saffronfinance_,"This week's Saffron Weekly covers our recent Delphi Podcast interview, UI/UX updates, Epoch 7, and more! https://t.co/vu0QJqRlrZ",14,0,2,2021-02-04
+61,2021-02-05 19:56:32+00:00,1357780167255588864,saffronfinance_,"With our easy-to-use web app and the creation of education initiatives like Saffron Academy, we aim to make decentralized finance more accessible to the average user. $SFI #SaffronFinance https://t.co/QJ80uSyq5m",37,2,5,2021-02-05
+62,2021-02-06 17:24:32+00:00,1358104303223906306,saffronfinance_,"You asked, we listened. Mobile re-design for Saffron web3 https://t.co/EXiMdQbCnC",67,4,8,2021-02-06
+63,2021-02-08 20:57:34+00:00,1358882687356960778,saffronfinance_,"It's that time again - we're collecting feedback from our users! Don't forget that we add new liquidity pools based on the suggestions we receive, so if you have a great idea for an addition to Saffron Finance we'd love to hear it! https://t.co/PB2usSODaV",11,0,1,2021-02-08
+64,2021-02-09 23:14:49+00:00,1359279616557543432,saffronfinance_,"We’ve distributed SUSHI rewards from the @SushiSwap Onsen program to SFI/ETH Sushi LPs in our epoch 6 Sushi pool. Remember -  LPs must stake their SFI/ETH Sushi LP tokens on Saffron Finance to be eligible for earning SUSHI. 
+♨️♨️ https://t.co/CCOsPQinXT https://t.co/O6b4pyHpry",19,2,3,2021-02-09
+65,2021-02-11 15:07:30+00:00,1359881755398930434,saffronfinance_,"For #ThrowbackThursday , we'd like to highlight this amazing article by @MessariCrypto that beautifully lays out our history, our roadmap, and our tech. Check it out! https://t.co/q9Ystvz5F4",28,1,6,2021-02-11
+66,2021-02-13 01:44:13+00:00,1360404376607739907,saffronfinance_,We know #gasfees have gotten crazy lately with #Ethereum ! We hear our community loud and clear and we're doing our best to optimize every aspect of Saffron Finance for our users! https://t.co/xVk2L02eIX,50,1,8,2021-02-13
+67,2021-02-15 16:22:41+00:00,1361350229010874372,saffronfinance_,Don't forget - this week is the LAST week you can submit questions to @psykeeper_ and the team for our February live AMA. We can't wait to see you all again! https://t.co/L5TsHs75Kr https://t.co/IMVi4cXYd0,17,0,3,2021-02-15
+68,2021-02-17 16:41:45+00:00,1362079803340427267,saffronfinance_,"Saffron is growing - and growing fast! To learn more about joining a liquidity pool, follow this link to the Saffron Academy tutorial! https://t.co/OIoYoCwI5T https://t.co/jAxlQf7LM2",19,2,1,2021-02-17
+69,2021-02-18 15:48:52+00:00,1362428878753513480,saffronfinance_,This Thursday we're throwing it back to a tweet thread by @mrjasonchoi around when Saffron Finance first launched. We've come quite a long ways since then! https://t.co/ppCpyE6e2z,29,0,5,2021-02-18
+70,2021-02-19 19:13:36+00:00,1362842791538286598,saffronfinance_,"You may already follow us on @saffronfinance_  , but make sure to check out our Discord, Medium, and Telegram socials to stay on top of all of our latest information! https://t.co/VJS9hDYc38 https://t.co/fKvQuFlwaK",18,0,2,2021-02-19
+71,2021-02-21 14:07:35+00:00,1363490554240258053,saffronfinance_,"Welcome to epoch 8 ♨️
+
+https://t.co/2I7L4t3iQ0",37,0,4,2021-02-21
+72,2021-02-22 17:05:30+00:00,1363897718754713600,saffronfinance_,"SFI is catching on like wildfire! We've increased our total wallet holders from 2,000 to over 5,800 in just the last three weeks! https://t.co/w3Loh3XJA6 https://t.co/4gCU5SVYPn",35,4,9,2021-02-22
+73,2021-02-23 00:31:44+00:00,1364010017507201025,saffronfinance_,"Saffron Announces 6 of 9 Multisig Security Upgrade with 
+@psykeeper_  , @tomhschmidt , @Melt_Dem , @KyleSamani , @WarcMeinstein , @KerveCapital ,  @iamdonho , @psyguySFI , and more!
+
+♨️🔑🔒
+
+https://t.co/m9Gr3SQ9lc",64,5,13,2021-02-23
+75,2021-02-24 19:44:49+00:00,1364662585765806083,saffronfinance_,"https://t.co/0QoLfn72L5 Saffron Weekly (2/24/21) covers Epoch 8, Saffron V2, Multisig 6/9, BSC AMA, and more! $SFI",21,1,6,2021-02-24
+76,2021-03-01 12:26:44+00:00,1366364277972602882,saffronfinance_,"The Saffron Finance WeChat group is live ♨️💬
+
+If you are a community member from China or want to communicate through Wechat, add @psykeeper_ via WeChat ID: psykeeper_SFI
+
+Looking forward to seeing everyone there 😄 https://t.co/4igCqGE4u8",39,2,5,2021-03-01
+78,2021-03-02 18:01:49+00:00,1366810992966066191,saffronfinance_,"There is a Saffron Town Hall happening this Thursday starting at 16:00 UTC! Make sure to hop into our Discord to participate - main topics of discussion are going to be: V2 Pools, Snapshot page, and $SFI rewards ongoing. https://t.co/tGhDu9NzGK",28,2,5,2021-03-02
+80,2021-03-03 16:13:07+00:00,1367146024565882880,saffronfinance_,"Saffron Weekly (3/03/21) covers our V2 Open Beta, upcoming Town Hall, and a fun new way to engage our community! https://t.co/ggJ2zkMlxT",22,2,4,2021-03-03
+81,2021-03-04 15:01:01+00:00,1367490269663395844,saffronfinance_,"Don't forget! In just one hour from now (16:00 UTC) we'll be holding a Saffron Town Hall - discussing SFI rewards ongoing, our Snapshot page, and V2 pools on our Discord. We can't wait to see you guys there! https://t.co/7W94mLMz5d https://t.co/m83p8BmGb1",23,0,3,2021-03-04
+83,2021-03-05 16:40:01+00:00,1367877572361654275,saffronfinance_,Thank you for everyone who participated yesterday in the Saffron Town Hall! For many people - even if they were just lurking - it was their first time participating in a governance discussion! We're making great strides towards being more engaging towards new community members. https://t.co/QRhWmLiDm6,27,0,5,2021-03-05
+84,2021-03-08 14:42:10+00:00,1368935075308535818,saffronfinance_,@ShiliangTang @mrblocktw @DEFI_NEO,6,0,0,2021-03-08
+93,2021-03-09 15:49:36+00:00,1369314436343881735,saffronfinance_,"Beta testing of Saffron V2 on BSC continues! In the open beta, there are now three tranches to choose from when adding liquidity. If you're interested in helping us test out the next evolution of $SFI , fill out this form to gain access! https://t.co/vNLxLqjfzB https://t.co/0opMN48Gby",65,6,12,2021-03-09
+95,2021-03-10 22:25:14+00:00,1369776386857111554,saffronfinance_,"https://t.co/4FjqcnEjMN Saffron Weekly (3/10/21) talks about Epoch 9, our new partnerships, contest winners, and more!",18,2,6,2021-03-10
+96,2021-03-11 15:52:35+00:00,1370039961886593029,saffronfinance_,Haven't seen Saffron Academy for a while? That's because we're undergoing a massive overhaul of the program! You'll be able to see the fruits of our labor next week. https://t.co/9vCCJJEymY,27,2,8,2021-03-11
+97,2021-03-12 02:34:37+00:00,1370201533128802311,saffronfinance_,"What? 9000?!
+
+Thank you Saffron community for helping us pass this milestone of 9,000 Twitter followers
+
+♨️♨️♨️♨️♨️♨️♨️♨️♨️ https://t.co/fdMDokvoFb",56,7,6,2021-03-12
+99,2021-03-13 03:06:20+00:00,1370571905074405379,saffronfinance_,"Saffron UI/UX Update
+♨️7 new wallet options
+♨️Dark mode
+♨️Enhanced dashboard
+♨️More detailed liquidity pages
+
+Coming soon 👇 https://t.co/HV7QtUAUCj",118,7,22,2021-03-13
+100,2021-03-14 15:04:47+00:00,1371115095477125129,saffronfinance_,Saffron Town Hall is live! ♨️https://t.co/vPNmWOvZCs,31,4,6,2021-03-14
+101,2021-03-15 16:42:26+00:00,1371502056243134464,saffronfinance_,Saffron Academy is back and we have a massive content lineup coming out over next few months! Check out our introduction video and let us know what you think! https://t.co/Pz0RN1V2W7,58,6,13,2021-03-15
+102,2021-03-18 15:32:01+00:00,1372571500948172802,saffronfinance_,"With an exciting new lineup of partnerships announced last week, this #ThrowbackThursday let's look back on our first partnership announcement with @AlphaFinanceLab https://t.co/kqLZSvOw9K",54,1,16,2021-03-18
+104,2021-03-19 14:48:32+00:00,1372922944016506889,saffronfinance_,Here’s one of the highlights of Sunday's Town Hall - thank you to everyone who participated! https://t.co/3rodg9TLjj,29,2,7,2021-03-19
+105,2021-03-21 14:05:07+00:00,1373636793581645826,saffronfinance_,"Welcome to Saffron: Epoch 10 ♨️
+
+https://t.co/fJcgmtrnZh",48,4,8,2021-03-21
+106,2021-03-23 20:01:15+00:00,1374451193028603917,saffronfinance_,Our amazing partnership with @RariCapital is a great example on how Saffron is composable with other DeFi protocols. You can read Rari's announcement of our partnership here: https://t.co/cPc3HvAAbg We're all excited to see what the future holds!,105,5,15,2021-03-23
+107,2021-03-24 19:59:50+00:00,1374813223908675589,saffronfinance_,"https://t.co/ndyCQ7icR0 Saffron Weekly (3/24/21) covers governance voting, @psykeeper_ 's media tour, and gives a shoutout to @blockcanela 's fantastic explanation of how $SFI 's tranching works.",17,7,4,2021-03-24
+108,2021-03-25 15:24:04+00:00,1375106214061862912,saffronfinance_,"Yesterday's Saffron Weekly marks its sixteenth issue since it began in December. We hope you continue to enjoy looking forward to them each week! You can view the archive of every Weekly on our subreddit here: https://t.co/muC9BJCai2 . While you're there, make sure you subscribe!",17,4,3,2021-03-25
+109,2021-03-28 21:46:17+00:00,1376289567200907277,saffronfinance_,We're holding our next Saffron Town Hall this Tuesday (3/30) kicking off at 16:00 UTC and lasting throughout the day on our Discord. We'll be discussing a bunch of exciting topics so make sure to stop by! https://t.co/VJS9hDYc38 https://t.co/pZB69adeC4,34,4,5,2021-03-28
+110,2021-03-30 16:00:02+00:00,1376927205247307786,saffronfinance_,Saffron Town Hall is live! Come and join the discussion! https://t.co/vnlCuRHtam,11,2,3,2021-03-30
+115,2021-03-31 19:53:25+00:00,1377348326262202377,saffronfinance_,"Saffron Weekly (3/31/21) discusses our upcoming appearance on @theBlockcrunch , $SFI approaching 7,000 unique wallets, town hall governance, and more! https://t.co/FZfol7kq6V",18,4,2,2021-03-31
+116,2021-04-01 17:11:18+00:00,1377669914270523394,saffronfinance_,"In our newest Saffron Academy tutorial, Dingo walks us through how to stake $SFI and gives out some tips on $ETH gas fees. https://t.co/tkLhGd6SnS",20,2,6,2021-04-01
+118,2021-04-04 14:07:43+00:00,1378710878938398725,saffronfinance_,"Welcome to Saffron epoch 11 ♨️
+
+https://t.co/fJcgmtrnZh",28,2,8,2021-04-04
+119,2021-04-05 19:10:44+00:00,1379149525298905105,saffronfinance_,"Saffron welcomes a crucial oracle integration into its tranched yield products - @chainlink Price Feed
+
+♨️ Saffron WBTC pool now has price protection
+♨️ Liquidity mining is enhanced by oracle data
+♨️ Chainlink oracles will be integrated into Saffron V2 https://t.co/oiqzjFVf3k",39,0,8,2021-04-05
+120,2021-04-07 20:30:16+00:00,1379894315913244672,saffronfinance_,"Saffron Weekly (4/07/21) covers @chainlink integration, $SFI 's impending listing on @CreamdotFinance , next week's Discourse launch, and much more!  https://t.co/lssZX8kSU6",23,2,4,2021-04-07
+121,2021-04-08 14:31:45+00:00,1380166478612344841,saffronfinance_,"Saffron plays an important role in DeFi risk management: ""...if users think that Iron Bank debt is riskier (especially at the upper end of its possible leverage, up to 95x), Saffron has the infrastructure to support that."" @CreamdotFinance @Cointelegraph @Blockanalia https://t.co/uad9Z5aFMQ",51,1,12,2021-04-08
+122,2021-04-09 15:19:44+00:00,1380540942948708354,saffronfinance_,"In this week's Saffron Academy video, we go outside the box and talk about @RariCapital 's new open interest rate protocol Fuse - and give a tutorial on how to use it! $SFI $RGT https://t.co/ZMbSwobQM9",55,3,10,2021-04-09
+123,2021-04-12 16:22:02+00:00,1381643783754895366,saffronfinance_,"As of April 12, 2021 over 10,750 unique wallets hold $SFI - a 60% increase from 30 days ago. We're incredibly excited for our continued growth and can't wait to see where we'll be in May!",58,4,9,2021-04-12
+124,2021-04-14 19:00:17+00:00,1382408383060393985,saffronfinance_,Saffron Weekly (4/14/21) is out! Let's take a dive into what it covers: https://t.co/RZWFXZyUrn,15,1,2,2021-04-14
+129,2021-04-15 17:32:30+00:00,1382748679195529223,saffronfinance_,"In honor of our new snapshot governance rolling out tomorrow, let's take a look back on our first governance discussion on Discord! November seems like a lifetime ago! $SFI https://t.co/3duewxecX8",25,5,2,2021-04-15
+130,2021-04-18 15:45:42+00:00,1383808969085308946,saffronfinance_,"Epoch 12 begins today with a continuation of the
+ @chainlink enabled WBTC price protection reward pool♨️ https://t.co/ckhuvhJ10l",17,3,4,2021-04-18
+131,2021-04-20 18:05:23+00:00,1384568895076544516,saffronfinance_,Our $SFI Staking Pool had a USD value of $2.55 million during epoch 11. For this current epoch? That value is currently sitting at over $5 million USD. https://t.co/oQhIJWu2Sa,25,1,4,2021-04-20
+133,2021-04-21 19:07:28+00:00,1384946907018059782,saffronfinance_,"@hosseeb @dragonfly_cap Lastly, we're also rolling out a new survey for all of the new users that have joined since February! Keep your eyes peeled for it on Friday!",4,0,1,2021-04-21
+136,2021-04-22 17:26:42+00:00,1385283934905376770,saffronfinance_,"In honor of our new snapshot governance system launching Friday, let's look back on the first discussion we had using our old format on Discord. Check back tomorrow for our big launch! https://t.co/XU5rxTnASf",15,0,1,2021-04-22
+137,2021-04-23 17:36:55+00:00,1385648895456423936,saffronfinance_,"Our new Snapshot governance system is live! Read more about it here, watch the Saffron Academy tutorial, and check out the proposals that are already underway. It's time for the community to shape the future of $SFI https://t.co/nnTeW24Etz https://t.co/8DblcgxNmw",28,2,6,2021-04-23
+138,2021-04-28 23:23:58+00:00,1387548172323627008,saffronfinance_,"We go in-depth and talk about $SFI being listed on @gate_io and @CreamdotFinance , and how we're incredibly excited to welcome new users into the Saffron Finance ecosystem!",12,1,1,2021-04-28
+141,2021-05-02 15:54:13+00:00,1388884540001865730,saffronfinance_,Epoch 13 has begun!,53,10,4,2021-05-02
+142,2021-05-03 16:25:43+00:00,1389254855638802435,saffronfinance_,"Don't forget to fill out our Q2 feedback survey if you haven't already - every bit of feedback helps us improve $SFI immensely. If you have a spare 60 seconds today, we'd love to hear your thoughts! https://t.co/Atd6rTfkHR",22,2,2,2021-05-03
+143,2021-05-04 14:03:22+00:00,1389581419542982659,saffronfinance_,"The second episode of Saffron Academy Podcast is out on iTunes and Spotify! We interview @benjaminsimon97 , a researcher and investment associate at @MechanismCap , and talk about how to get started in the industry, philanthropy, $SFI , and so much more! https://t.co/42zlA5tvW0",35,7,4,2021-05-04
+144,2021-05-05 17:37:16+00:00,1389997636388859910,saffronfinance_,"Happy Cinco de Mayo! Saffron Weekly 5/05/21 is here and features a sneak peek into our new Saffron Academy website, this week's governance at a glance, our newest podcast episode, feedback form, and more! $SFI https://t.co/hwVpcKZD0b",21,5,3,2021-05-05
+145,2021-05-07 16:55:43+00:00,1390711956353556481,saffronfinance_,"@winnie_crypto @benjaminsimon97 @MechanismCap Hi Winnie, you can find transcriptions (when they are complete) on our website, here is an example link, and attached image of how to navigate there: https://t.co/ui8j6VMr7v https://t.co/mPsQXbHmxy",2,1,1,2021-05-07
+147,2021-05-08 02:26:17+00:00,1390855543275859969,saffronfinance_,"@TrnThXunHoi1 Hi Trần, please see this video to learn how to use our web3 app (https://t.co/DGr55vP7Af) to stake SFI:
+
+https://t.co/tkLhGd6SnS",1,1,0,2021-05-08
+148,2021-05-10 16:25:29+00:00,1391791512267235332,saffronfinance_,"The Saffron Academy Podcast approaches 500 downloads after just two episodes. Thank you again to @hosseeb and @benjaminsimon97 for being amazing guests. We have a great lineup this year! If you've liked our two interviews so far, please rate us on iTunes! https://t.co/EWAjoF7Y6T",37,3,8,2021-05-10
+149,2021-05-11 19:08:43+00:00,1392194977543987200,saffronfinance_,"We now have two proposals that have made it to the final stage of our governance process! Throughout this week users will be able to vote yay or nay using their SFI! To look at the details of these proposals, please visit our Discourse forum at https://t.co/JzQ3ueB4ZC",30,3,4,2021-05-11
+150,2021-05-12 22:26:42+00:00,1392607189618106369,saffronfinance_,"https://t.co/nNy8mbtXyE Saffron Weekly (5/12/21) covers our recent listing on @enzymefinance and recaps our current governance process, podcast, feedback form, and more!",20,3,2,2021-05-12
+151,2021-05-17 18:30:00+00:00,1394359565404213251,saffronfinance_,"If you have a spare 60 seconds, please take the time to fill out our survey on what we can do to improve our protocol! https://t.co/Atd6rTfkHR $SFI",20,6,4,2021-05-17
+152,2021-05-18 17:15:00+00:00,1394703075064041475,saffronfinance_,"Hey everyone it's Tuesday and the Saffron team is continuing to expand! This episode of the Saffron Academy Podcast will introduce Zack - the newest member of our marketing team! 
+https://t.co/EWAjoF7Y6T",32,6,2,2021-05-18
+153,2021-05-19 03:36:46+00:00,1394859549849497600,saffronfinance_,Composable finance features make all DeFi protocols inherently stronger - and more versatile - by enabling access to unique instruments and tools for deploying capital https://t.co/0SePST1D15,30,3,6,2021-05-19
+155,2021-05-22 15:16:50+00:00,1396122892149067778,saffronfinance_,Dingo makes an impromptu video talking about the recent market volatility and the Saffron community: https://t.co/sasm3zPZMN,42,8,6,2021-05-22
+156,2021-05-25 23:22:29+00:00,1397332273238794246,saffronfinance_,"Saffron Finance has joined the DeFi Decathlon! Submit your memes to @APWineFinance and you'll have opportunities to win $SFI and more! For full contest details, read here: https://t.co/GB8UBIYr8X https://t.co/mmwqReB0El",56,6,9,2021-05-25
+157,2021-05-26 20:23:52+00:00,1397649709230141441,saffronfinance_,"Saffron Weekly (5/26/21) highlights $SFI being featured the latest report on DeFi from @Wharton and the World Economic Forum ( @wef ) , @cryptomanran 's bullish $SFI segment on Crypto Banter, the @APWineFinance meme contest, and more! https://t.co/vzotJoVc2m",43,0,6,2021-05-26
+158,2021-05-28 20:50:49+00:00,1398381265464741896,saffronfinance_,Our latest governance proposal is now live on Snapshot - should $SFI deploy on @0xPolygon ? View the proposal information and vote here: https://t.co/aN5d2rc619,66,6,9,2021-05-28
+159,2021-05-30 14:54:04+00:00,1399016262496313355,saffronfinance_,"Epoch 15 has begun!
+
+https://t.co/fJcgmtrnZh",44,2,8,2021-05-30
+161,2021-06-01 16:55:45+00:00,1399771663735083013,saffronfinance_,"Saffron Academy Podcast Episode 3 is out on iTunes and Spotify! In this episode, we had the honor of interviewing Mike Hendley from @DefiOmega ! Zack and Mike talk about DeFiOmega's founding, $SFI long term predictions, and much more! https://t.co/X8l1nwuWh2",26,3,4,2021-06-01
+162,2021-06-04 21:04:02+00:00,1400921309496938503,saffronfinance_,"In honor of the largest crypto gathering in history, $SFI is giving away a Saffron-themed, commemorative Bitcoin Miami 2021 NFT to anyone who signs up and provides their ETH address through June 6th! Get yours here: https://t.co/qD8vs65pQP #Bitcoin2021 #BitcoinMiami https://t.co/3SomeC3nIL",68,12,21,2021-06-04
+164,2021-06-10 17:53:08+00:00,1403047595052838921,saffronfinance_,"Here's a little preview of the limited edition, Miami-themed, Saffron Finance NFT that we're giving away to commemorate #BitcoinMiami2021 . To get the full sized NFT without the watermark, users will have until 11:59pm EST this Sunday to sign up. https://t.co/qD8vs65pQP https://t.co/gsuKhC2GhR",42,4,13,2021-06-10
+165,2021-06-11 19:18:19+00:00,1403431417774755843,saffronfinance_,"As we near the end of Q2, don't forget to fill out our feedback form! We value the community's thoughts and input immensely - it'll only take you sixty seconds!  https://t.co/Atd6rTfkHR",24,1,3,2021-06-11
+166,2021-06-13 14:16:26+00:00,1404080225005228035,saffronfinance_,"Saffron epoch 16 begins today, and we're kicking it off with a Saffron V2 development update from @psykeeper_  ♨️♨️♨️
+
+https://t.co/ZCcf01NGgM",24,3,5,2021-06-13
+167,2021-06-14 17:30:40+00:00,1404491491372896256,saffronfinance_,Submissions for the NFT have closed! We will begin distribution shortly. Thank you to everyone who signed up to receive it!,41,6,8,2021-06-14
+168,2021-06-15 18:36:32+00:00,1404870454117113862,saffronfinance_,What kind of guests do you want to see on future episodes of the Saffron Academy Podcast? Investors? Analysts? Developers? Traders? Let us know below! https://t.co/Ahgr6UJuEo,24,8,3,2021-06-15
+169,2021-06-17 13:54:31+00:00,1405524259246546949,saffronfinance_,"In case you missed it yesterday, Zack is back with another Weekly Roundup for $SFI ! Check out the full article here: https://t.co/ainM2YnJX1 https://t.co/GHTTMd1qL8",28,1,5,2021-06-17
+170,2021-06-18 18:33:03+00:00,1405956740580089858,saffronfinance_,"As Q2 draws to a close, it's time to go over some of the stats collected over the past few months. According to our survey data, nearly 1 in 3 of our users have participated in a governance discussion using either our Discourse platform (https://t.co/Ch3saY1YJv) or Discord! $SFI https://t.co/EvdabFsqhi",26,5,2,2021-06-18
+171,2021-06-19 15:45:00+00:00,1406276838805041153,saffronfinance_,"The limited edition Saffron Finance Bitcoin Miami 2021 NFTs have been distributed. If you signed up during the promotional period and for some reason you didn't receive it, please contact Dingo on Telegram or Discord. Thanks everyone! $SFI  https://t.co/VIxNppLt8s",39,14,1,2021-06-19
+172,2021-06-22 15:43:13+00:00,1407363553909170177,saffronfinance_,"This week on the Saffron Academy Podcast, we interview the legendary @Melt_Dem and discuss her thoughts on $SFI , Elon Musk, El Salvador adopting Bitcoin, the recent market moves, and so much more! https://t.co/kahFXIO6WF",29,4,7,2021-06-22
+173,2021-07-01 13:20:02+00:00,1410589011379433473,saffronfinance_,"A fashionably late Dingo brings us the Saffron Weekly (6/30/21) - where we talk about the $SFI V1 Redesign, Saffron Academy Youtube, Q3 Feedback Survey, and more! https://t.co/HtoBrDh62d",19,7,2,2021-07-01
+174,2021-07-02 14:59:22+00:00,1410976396017647617,saffronfinance_,@Melt_Dem @wef @Wharton @Cambridge_Uni @AaveAave @PayPal @TheBitcoinConf @Quantstamp These are just a few of the incredible things that have happened in just the past month. To get the complete picture head on over to our Medium account where every Wednesday we deliver weekly updates on what's happening with Saffron and our industry! https://t.co/OVSQ1SEXgm,11,0,2,2021-07-02
+180,2021-07-05 17:02:24+00:00,1412094523908448263,saffronfinance_,"In our newest Saffron Academy video, Dingo walks us through our V1 Redesign! https://t.co/5FNhxgzJTN $SFI",29,6,4,2021-07-05
+181,2021-07-07 16:43:41+00:00,1412814588731592708,saffronfinance_,"Saffron Weekly (7/07/21) covers our Saffron Finance V1 Redesign, Saffron Academy Podcast passes 1,000 downloads, a $SFI FAQ document being developed, our new town hall next weekend, and more!  https://t.co/FZ2IYYYvcE https://t.co/INMKNuaaR6",28,2,5,2021-07-07
+182,2021-07-09 17:06:55+00:00,1413545211041615879,saffronfinance_,"As we get closer to V2, make sure to check out our new feedback survey for Q3 here! https://t.co/tnVSHlCvsh",22,3,5,2021-07-09
+183,2021-07-11 14:06:34+00:00,1414224599416442885,saffronfinance_,"Welcome to Saffron: epoch 18 ♨️
+
+This epoch will include a new UI upgrade, development updates, and new governance proposals to vote on!
+
+https://t.co/fJcgmtrnZh",30,0,4,2021-07-11
+184,2021-07-12 16:03:30+00:00,1414616415059992576,saffronfinance_,"Happy Monday! In this week's Saffron Academy video, Dingo explains what impermanent loss is and provides us with an easy-to-understand example using $SFI and $USDC https://t.co/AOsJgVudxS",20,3,5,2021-07-12
+185,2021-07-13 19:53:51+00:00,1415036773596647424,saffronfinance_,"As we get closer to the launch of V2, we'll be featuring a three part series where each week we'll preview a different aspect of Saffron V2. Tomorrow we'll be taking a look at our new UI and talking about some of the design decisions we made for the upcoming overhaul! $SFI",41,1,6,2021-07-13
+186,2021-07-14 18:19:58+00:00,1415375534083674115,saffronfinance_,"Last but certainly not least, we also take a look at our new integration with @solana and the exciting ways it's going to be impacting Saffron Finance in the future. Exciting times ahead!",22,3,4,2021-07-14
+190,2021-07-15 17:11:45+00:00,1415720756600877056,saffronfinance_,"Piggybacking off of yesterday's V2 UI walkthrough, here's a preview of the app's dark mode for those who requested it. Make sure to check back next Wednesday when we go over V2's Roadmap in our three part series! $SFI https://t.co/TEDRbDIuxR",29,7,9,2021-07-15
+191,2021-07-16 20:24:25+00:00,1416131630222151680,saffronfinance_,"As we close out the week, if you have a spare minute we'd love to hear your feedback on using our protocol! https://t.co/709l7FXZ8x",19,1,3,2021-07-16
+193,2021-07-17 15:34:09+00:00,1416420968105381891,saffronfinance_,"Join us in our telegram for a live AMA with Psykeeper this afternoon at 12:00pm EST! 
+
+https://t.co/CXvYP2yzCa",15,1,0,2021-07-17
+194,2021-07-19 15:14:51+00:00,1417140886903853059,saffronfinance_,"Happy Monday! Missed our Town Hall meeting on Saturday? We've got you covered - here's a transcript of everything our users asked Psykeeper about from V2, to investors, to the long term tokenomics, and more! If you're HODLing $SFI you need to read this! https://t.co/JFUaD40uu0",26,3,4,2021-07-19
+195,2021-07-21 20:27:27+00:00,1417944330363416577,saffronfinance_,"Saffron Weekly (7/21/21) continues our three part preview of Saffron V2 by giving an overview of our development roadmap for the rest of this year - including new features, new product offerings, further $SFI expansion, and a little bit of a surprise! https://t.co/ioJHHBM5RK https://t.co/sE70MsvVLR",39,0,6,2021-07-21
+196,2021-07-22 19:30:30+00:00,1418292387063943175,saffronfinance_,This week's top pool is the $DAI / $RGT adapted tranche pool generating 107.25% APY! Runners up for this week are $SFI / $ETH at 62.18% APY and $DAI / $COMP at 56.45% APY. Make your deposits today at https://t.co/2I7L4t3iQ0 https://t.co/1FTtn8hMux,37,1,7,2021-07-22
+197,2021-07-23 23:57:28+00:00,1418721958087254026,saffronfinance_,"Our three part preview series on Saffron V2 concludes next Wednesday, finishing up with a deep dive into the more technical aspects of what we've outlined the past two weeks! How are you guys enjoying it so far? What features are you excited for the most?",38,6,8,2021-07-23
+198,2021-07-25 14:50:59+00:00,1419309208193863683,saffronfinance_,"Epoch 19 has begun ♨️
+
+https://t.co/fJcgmtrnZh",34,1,2,2021-07-25
+199,2021-07-26 18:12:03+00:00,1419722197376110594,saffronfinance_,"This week concludes our 3 part preview series into Saffron V2, which will start to roll out in Q3. Check back on Wednesday for the final piece. For those just tuning in, check out our V2 Roadmap here: https://t.co/ioJHHBM5RK",21,2,3,2021-07-26
+200,2021-07-28 22:28:15+00:00,1420511445394018309,saffronfinance_,"Saffron Weekly (07/28/21) concludes our V2 preview series, takes a look at the upcoming Saffron Academy Podcast episode with @0xPolygon , and has an important message for our community. https://t.co/TrxcPNZRoz https://t.co/HnKK8Jhc32",19,2,3,2021-07-28
+201,2021-07-29 16:00:00+00:00,1420776128403283970,saffronfinance_,"The newest episode of the Saffron Academy Podcast is out, featuring @0xPolygon 's own @khamzah22 . We talk about what DeFi will look like going forward, scalability, NFT gaming, Polygon Studios, and more! Check it out on iTunes and Spotify! https://t.co/wOA0gOjQIZ",31,3,4,2021-07-29
+205,2021-07-30 17:54:26+00:00,1421167313169092614,saffronfinance_,"Dingo will be sitting down with the co-founder of #Solana for the next Saffron Academy Podcast episode to discuss the high performance blockchain, @Solana 's relationship with $SFI , and more! Is there any specific burning question the Saffron community would like answered?",59,3,5,2021-07-30
+206,2021-08-02 20:11:21+00:00,1422288935116476429,saffronfinance_,Happy Monday and happy August! This month will be a phenomenal one for $SFI as we've got some great features and partnerships rolling out in the coming weeks. Keep your eyes peeled for the #Solana episode featuring Dingo and Anatoly Yakovenko next week!,67,3,10,2021-08-02
+207,2021-08-04 20:29:42+00:00,1423018327765622787,saffronfinance_,"Saffron Weekly (08/04/21) talks about Smart Contract Summit #1, our upcoming interview with #Solana , an upcoming episode featuring one of the biggest DEXs 
+😉, ways to protect yourself against imposter groups, and more! https://t.co/WXGvEEbC6V $SFI #SmartCon",31,2,5,2021-08-04
+208,2021-08-06 18:35:26+00:00,1423714349194035211,saffronfinance_,"In honor of our collaboration with @DinoSwapHQ , Dingo has a step by step tutorial on how to join the @0xPolygon network, bridge $SFI, and take advantage of the new farms on offer (P.S. check out the Jurassic Pools using $DINO!).
+
+https://t.co/9YX8ie8gC4 https://t.co/B7ycJR6AVb",79,9,18,2021-08-06
+209,2021-08-07 14:25:31+00:00,1424013843760570373,saffronfinance_,"Hey everyone - our newest Saffron Academy video walks us through using @DinoSwapHQ , goes over how to easily transfer your ERC-20 tokens to @0xPolygon , and how to add the $MATIC network to your MetaMask. Check it out! 
+
+https://t.co/BFUgw2HU9e",32,4,3,2021-08-07
+210,2021-08-08 15:08:13+00:00,1424386976514551811,saffronfinance_,"Welcome to epoch 20 ♨️
+
+https://t.co/fJcgmtrnZh",45,2,6,2021-08-08
+211,2021-08-09 17:42:21+00:00,1424788151856467968,saffronfinance_,"Just in case you missed it, here's a catchup from Zack summarizing last week's Saffron Weekly (note that the #Solana podcast will be dropping tomorrow). https://t.co/lpyEvoOIQX",36,1,2,2021-08-09
+212,2021-08-10 19:12:15+00:00,1425173165001564165,saffronfinance_,"On this episode of the Saffron Academy Podcast, Dingo interviews Solana Labs CEO/Founder @aeyakovenko . We take a deep dive on all things #Solana - why $SOL is catching on, Proof-of-History, Ultima Online (?), and more! Now available on iTunes and Spotify https://t.co/XeLS6WKhkG",41,0,6,2021-08-10
+213,2021-08-11 21:06:33+00:00,1425564315663339522,saffronfinance_,"@cryptocom @Bancor @DinoSwapHQ Another AMA Town Hall event is happening this Saturday, August 14th at 12:00pm EST on our Telegram - which you can find here: https://t.co/CXvYP2yzCa",13,1,3,2021-08-11
+219,2021-08-12 17:38:48+00:00,1425874424260071430,saffronfinance_,"Check out our newest Academy video, where Zack welcomes our new users and explains some of the robust features Saffron Finance offers, how our tranching system works, and why our protocol appeals to DeFi users. $SFI 
+
+https://t.co/lvMWBxjag2",23,1,4,2021-08-12
+220,2021-08-13 20:27:05+00:00,1426279161891594240,saffronfinance_,What do you think about $SFI over the past few weeks? Let us know how we're doing so far by filling out our quarterly feedback survey! https://t.co/VMTNC1JFUf,21,5,3,2021-08-13
+221,2021-08-14 14:35:18+00:00,1426553019714449408,saffronfinance_,"As a reminder, our live town hall AMA with Psykeeper is happening today from 12:00pm EST to 1:00pm EST! Join us on telegram to participate! https://t.co/CXvYP2yzCa",24,7,5,2021-08-14
+222,2021-08-16 18:07:50+00:00,1427331279960293378,saffronfinance_,Don't forget to voice your support today for the Bancor proposal to whitelist $SFI $BNT https://t.co/UeYqppFUGh https://t.co/zPIerSI0RV,67,5,11,2021-08-16
+223,2021-08-17 19:47:43+00:00,1427718804298153984,saffronfinance_,"For those who missed our live town hall last weekend, here is the transcript! Psykeeper and Dingo answer questions about Saffron V2, Saffron V3 (?!), government regulations, and more! 
+https://t.co/WMkosA8zfu",28,4,5,2021-08-17
+224,2021-08-18 20:07:03+00:00,1428086059741614081,saffronfinance_,Saffron Weekly (8/18/21) covers our upcoming community art event for #SaffronSwag and lots more! Here's Zack with the Roundup! https://t.co/BH2bBjJJys https://t.co/aPyjDeKe3q,22,3,1,2021-08-18
+227,2021-08-19 20:56:07+00:00,1428460795088699393,saffronfinance_,We've started August off with an exciting whirlwind of news for Saffron! How are we doing so far? Let us know here: https://t.co/709l7FGnJX,27,2,0,2021-08-19
+229,2021-08-22 10:15:41+00:00,1429386787533770759,saffronfinance_,"Saffron V2: everything you need to know about our next major update ♨️
+
+https://t.co/DfemZ8PT85",77,9,11,2021-08-22
+231,2021-08-23 16:05:06+00:00,1429837107711905799,saffronfinance_,Announcing the Saffron Finance Art Contest! Check out the rules here and come up with your very own $SFI design! https://t.co/M4H52iToc7 https://t.co/cpeVSVVSXk,24,2,3,2021-08-23
+232,2021-08-24 17:23:27+00:00,1430219212786606080,saffronfinance_,"In the latest Saffron Academy Podcast episode, we interview @0xMaki , the co-founder of @SushiSwap . We discuss the incredible journey of SushiSwap, being on the frontier of DeFi, why Americans are being uniquely excluded from crypto, and more! Tune in!
+https://t.co/Ksux7BK1db",27,2,4,2021-08-24
+234,2021-08-25 17:43:41+00:00,1430586693485305860,saffronfinance_,Saffron Weekly (8/25/21) covers the transition for Saffron V1 to Saffron V2! This is a momentous occasion for the team and a long time coming! https://t.co/3Ziy5rHSqM https://t.co/cWZc4voZhL,19,3,2,2021-08-25
+238,2021-08-26 20:17:09+00:00,1430987703605202956,saffronfinance_,Don't forget to sign up for our limited editon NFT for our transition from V1 to V2 - in less than a week entries will be closed. Time is running out to claim yours! https://t.co/5JvpHRdJ4G,20,2,2,2021-08-26
+239,2021-08-30 18:09:00+00:00,1432405005252931588,saffronfinance_,There's less than 48 hours left to claim your free End of V1 NFT! Sign up today! https://t.co/NZLVPfZ1EP,30,4,7,2021-08-30
+240,2021-09-01 17:26:48+00:00,1433119160490467338,saffronfinance_,"Saffron Weekly (09/01/21) gives a brief update on V2's audits, NFT giveaway, our upcoming Saffron Academy Podcast episode, looking into $FTM and $AVAX expansion, and more! https://t.co/x9JPevO4Xa",28,3,2,2021-09-01
+241,2021-09-02 20:07:45+00:00,1433522051705360390,saffronfinance_,"Signups are closed for the limited edition ""End of V1"" NFT! We will begin distributing them this weekend. Thank you to everyone who participated!",27,4,1,2021-09-02
+242,2021-09-03 20:32:31+00:00,1433890674227744773,saffronfinance_,Want to design the next Saffron t-shirt and have a shot at winning $SFI and more? Check out our latest art contest! https://t.co/M4H52iToc7,27,6,4,2021-09-03
+243,2021-09-07 16:48:22+00:00,1435283813739814915,saffronfinance_,"Due to high gas fees, we'll be distributing the end of V1 NFTs throughout this week. We appreciate your patience!",30,5,3,2021-09-07
+244,2021-09-08 18:27:04+00:00,1435671041368526850,saffronfinance_,"On this week's Saffron Academy Podcast episode, Zack interviews @MBRichardson87 - the Head of Research from @Bancor . They discuss what spurred Mark's career change to crypto, the past and future of $BNT, $SFI 's recent whitelisting, &amp; more! Check it out! https://t.co/SRMz8SFZae",30,1,3,2021-09-08
+249,2021-09-10 15:34:36+00:00,1436352416027496458,saffronfinance_,Don't forget that we've extended our art contest deadline to September 20th! Check out more information and ways to participate here: https://t.co/M4H52iToc7,12,2,2,2021-09-10
+250,2021-09-13 16:28:14+00:00,1437453076697341969,saffronfinance_,Happy Monday everyone! All Saffron Staking V2 audits have now concluded - no high severity issues have been found. https://t.co/UE5yjs7uui,63,10,16,2021-09-13
+251,2021-09-15 18:29:07+00:00,1438208273069625351,saffronfinance_,"Saffron Weekly (9/15/21) covers the completion of the audits for Saffron Staking V2. In addition we recap the distribution for the ""End of V1"" NFT and talk a bit about the Saffron Art Contest. https://t.co/4oN5H0zKfJ",19,2,4,2021-09-15
+254,2021-09-17 17:17:31+00:00,1438915030309871616,saffronfinance_,This is the LAST weekend to get your entries in for our art contest! We've received some amazing submissions so far! Submit yours and win $SFI ! https://t.co/M4H52iToc7,10,3,1,2021-09-17
+256,2021-09-20 17:35:50+00:00,1440006802901458946,saffronfinance_,Submission for the Saffron Art Contest are now closed! Thank you to everyone who participated. Check out the Weekly this upcoming Wednesday to see what designs are advancing to the next round!,17,2,1,2021-09-20
+257,2021-09-21 19:38:03+00:00,1440399946990059528,saffronfinance_,"As Q3 draws to a close, don't forget to fill out our feedback survey! https://t.co/709l7FGnJX",12,3,1,2021-09-21
+258,2021-09-22 20:42:13+00:00,1440778482875711495,saffronfinance_,"Saffron Weekly (9/22/21) covers our Saffron Staking V2 Open Beta test on Rinkeby, the Saffron Art Contest Finalists, Saffron Finance's new way of onboarding users, and our Q3 survey. Check it out! https://t.co/upuz7EjdEg https://t.co/iMo5m05szh",13,4,2,2021-09-22
+259,2021-09-23 16:14:26+00:00,1441073482582970375,saffronfinance_,"The final phase of voting for the Saffron Art Contest is live and runs until September 28, 2021 @ 12pm EST! Vote using your $SFI here: https://t.co/Wy3KrxBivr https://t.co/4w5Xz93tTr",13,3,3,2021-09-23
+260,2021-09-24 17:26:30+00:00,1441454006753239042,saffronfinance_,"We have new proposals for Saffron governance to discuss and vote on, check them out here: https://t.co/yGxjIhDGP2",20,2,2,2021-09-24
+261,2021-09-27 15:51:44+00:00,1442517322292350986,saffronfinance_,Happy Monday! We've had our latest marketing proposal pass temperature check and move on into consensus check. Vote now using your $SFI here: https://t.co/4kJaq7YlsW,25,1,2,2021-09-27
+263,2021-09-28 15:26:14+00:00,1442873290423341060,saffronfinance_,"Saffron Staking V2 audit is now complete ♨️
+
+The ongoing Rinkeby beta test of Saffron Staking V2 and thorough audits from firms like @Quantstamp are critical steps toward achieving a bug-free and user-friendly staking experience on mainnet launch ✅ https://t.co/bkXxAJavNW",45,4,11,2021-09-28
+266,2021-09-29 17:57:40+00:00,1443273788871913483,saffronfinance_,"Our Saffron Staking V2 beta test is still in progress, and participants will get a limited edition NFT for testing! Here's everything you need to know to get started today: https://t.co/T0AACT9wKp",12,1,1,2021-09-29
+270,2021-09-30 17:46:30+00:00,1443633365761019907,saffronfinance_,This is the last day to vote for our latest marketing governance proposal! Check it out here and use your $SFI to participate! https://t.co/4kJaq8fWRw,16,2,2,2021-09-30
+271,2021-10-01 19:34:53+00:00,1444023030024441860,saffronfinance_,"We're currently discussing Saffron Staking V2 parameters in governance, come help shape the future of Saffron Finance and $SFI by weighing in here: https://t.co/kReKjrksKs",25,2,5,2021-10-01
+272,2021-10-04 14:33:01+00:00,1445034226085077006,saffronfinance_,Good morning! We'll be sitting down with @pangolindex later this afternoon for the next episode of the Saffron Academy. Have any burning questions you'd like to ask about Pangolin or the Avalanche ecosystem? Let us know and we'll read them on air!,49,4,7,2021-10-04
+273,2021-10-05 19:07:57+00:00,1445465802799345665,saffronfinance_,What kinds of questions would you like to see featured in our Q4 feedback survey? Let us know in the comments below:,12,11,1,2021-10-05
+274,2021-10-06 19:38:06+00:00,1445835779805089798,saffronfinance_,"Saffron Weekly (10/06/21) announces the upcoming release of our newest Academy episode featuring the brilliant minds behind @pangolindex - the premiere DEX on $AVAX . In addition, $SFI 's open beta has surpassed 2,000 signups and we're awarding new NFTs! https://t.co/qNgPWq19fO https://t.co/2kDCGhfpWc",31,3,2,2021-10-06
+275,2021-10-07 19:06:15+00:00,1446190148924936194,saffronfinance_,"On this week's episode of the Saffron Academy Podcast, Dingo sits down with Justin and Leo - the minds behind @pangolindex on $AVAX to talk about the decentralized exchange, Pangolin's 2022 roadmap, DeFi &amp; traditional investors, Avalanche Rush, &amp; more! https://t.co/frZVSW3L1a",29,2,5,2021-10-07
+276,2021-10-08 17:12:02+00:00,1446523793002962987,saffronfinance_,We'll be holding an AMA tomorrow with Psykeeper on Saffron Finance's Telegram from 6pm EST to 7pm EST! Got any burning questions about Saffron and V2? Make sure to join our Telegram here: https://t.co/CXvYP2yzCa,12,4,1,2021-10-08
+277,2021-10-09 14:53:28+00:00,1446851313434865671,saffronfinance_,"Don't forget, we're holding an AMA on our Telegram today at 6pm EST with Psykeeper! Tune in here: https://t.co/CXvYP2yzCa",11,3,0,2021-10-09
+279,2021-10-10 15:14:15+00:00,1447218930783825927,saffronfinance_,"If you submitted a t-shirt design for the Saffron Art Contest, check your email! We'll be coordinating the airdrop of the limited edition NFT to everyone who made a submission. Thank you again to everyone who participated!",13,7,4,2021-10-10
+280,2021-10-11 17:30:23+00:00,1447615578584276994,saffronfinance_,"In case you missed the AMA this weekend, the transcription is live now! We revealed Saffron Staking V2's targeted release date, talk about legal governance, attracting traditional investors, and more. Thanks to everyone for participating! $SFI  https://t.co/jUpdgCjEV3",23,3,6,2021-10-11
+281,2021-10-13 18:20:02+00:00,1448352845825183748,saffronfinance_,"Saffron Weekly (10/13/21) covers the target release date for Saffron Staking V2, a new testing version for the Open Beta V2, the new grant Saffron has received to develop on @Neo_Blockchain , our Q4 feedback survey, and more! https://t.co/CNo03qKJTh",21,1,5,2021-10-13
+282,2021-10-15 19:22:35+00:00,1449093362720649217,saffronfinance_,We’ll be distributing the NFT rewards for the art contest over the weekend! If you participated be sure to keep an eye on your wallet for it! 😉,24,3,1,2021-10-15
+283,2021-10-18 12:30:00+00:00,1450076697777393667,saffronfinance_,"gm everyone, it's going to be a fantastic week for $SFI :)",111,22,17,2021-10-18
+284,2021-10-22 20:32:40+00:00,1451647717839671308,saffronfinance_,Saffron Staking V2 is live! Check out this recap video here: https://t.co/sPvZBB5Pct,19,0,7,2021-10-22
+286,2021-10-24 10:28:02+00:00,1452220331104538629,saffronfinance_,"Saffron Staking V2 liquidity mining has begun
+♨️♨️♨️
+https://t.co/fJcgmtrnZh",38,7,8,2021-10-24
+287,2021-10-25 14:32:50+00:00,1452644323355471884,saffronfinance_,How are you enjoying Saffron Staking V2 so far? This is just the first step of our broader rollout of V2 for Saffron as we continue to build and prepare for the launch of our flagship tranche product. $SFI,53,6,8,2021-10-25
+289,2021-11-01 12:23:34+00:00,1455148509624143874,saffronfinance_,Gm! This Wednesday Dingo returns on camera to talk about the top five things you may not know about Saffron Staking V2!,29,5,5,2021-11-01
+290,2021-11-03 21:05:48+00:00,1456004709052030978,saffronfinance_,"Saffron Weekly (11/03/21) covers the upcoming Academy video that goes into a deeper dive on Saffron Staking V2, Polygon Mainnet, the Saffron Academy Podcast resuming, and more! $SFI $MATIC https://t.co/qfwIvEBHDp",27,0,5,2021-11-03
+291,2021-11-04 17:25:31+00:00,1456311659149025286,saffronfinance_,There's a bit of a spooky surprise coming for a very select few Saffron users - stay tuned for Dingo's video on Friday 😉,32,4,2,2021-11-04
+292,2021-11-05 22:31:52+00:00,1456751144076816384,saffronfinance_,"Discussion regarding the Saffron V2 tranche system is underway in our community channel with contributors using the live Saffron V2 smart contracts on Polygon mainnet to test yield opportunities and mechanics of our new DeFi primitive
+
+Join here:
+https://t.co/dWEJREuHtF",34,4,5,2021-11-05
+293,2021-11-09 18:52:36+00:00,1458145514508140546,saffronfinance_,Dingo returns and walks us through the top 5 things users should know about Saffron Staking V2 in the newest Saffron Academy video. $SFI https://t.co/PZugF0jvI8,36,4,11,2021-11-09
+294,2021-11-10 14:11:45+00:00,1458437223481761798,saffronfinance_,Gm! Psykeeper is having a live AMA about Saffron Finance with @Neo_Blockchain right now! Feel free to join us https://t.co/ETfD1YT95h  $SFI $NEO,48,4,7,2021-11-10
+296,2021-11-11 15:15:58+00:00,1458815773808410626,saffronfinance_,"Gm! Thank you for the great responses to our latest Academy video. What other videos would you like to see? The scope doesn't have to just be limited to tutorials; we can do explainers, talk about DeFi concepts, do a deeper dive into $SFI 's tranche system, and more!",33,4,0,2021-11-11
+298,2021-11-12 20:51:24+00:00,1459262575464570887,saffronfinance_,"@Leaninvestment2 Hey @leaninvestment2 , we just launched Saffron Staking V2 on the 20th - and we're rolling out a lot more in the coming months. You can find out more information here: https://t.co/FhWgJZPAJ6",1,2,0,2021-11-12
+300,2021-11-15 16:47:37+00:00,1460288388200902662,saffronfinance_,"Good morning all past and present $SFI holders, did you happen to notice anything special airdropped to your wallet over the weekend? Perhaps a new NFT? Dingo will have more information on what tens of thousands of DeFi users just received in a new Academy video later this week!",53,19,3,2021-11-15
+301,2021-11-16 17:35:13+00:00,1460662755372015624,saffronfinance_,Looking for a refresher on what to expect from Saffron V2 going forward into 2022? Check out our roadmap that we outlined over the summer: https://t.co/ioJHHBM5RK,20,0,3,2021-11-16
+302,2021-11-17 20:42:14+00:00,1461072209997451269,saffronfinance_,"Saffron Weekly (11/17/21) covers our new website launch, our upcoming whitepaper, our new interactive welcome packet NFT for holders of $SFI, and more! https://t.co/gzfRzof2dn",23,3,2,2021-11-17
+303,2021-11-18 17:27:53+00:00,1461385687928868868,saffronfinance_,"In our latest Academy video, Dingo walks us through how to stake $SFI on V2. https://t.co/8wMLn6UAP5",18,1,0,2021-11-18
+305,2021-11-19 14:59:52+00:00,1461710824733659142,saffronfinance_,Happy Friday! As we alluded to in the Weekly we've got some great things coming in the next few days - don't forget to fill out our quarterly feedback survey here: https://t.co/z7s2kL2qhK,17,1,1,2021-11-19
+307,2021-11-22 17:42:30+00:00,1462838916743299072,saffronfinance_,"Happy Monday! Don't forget to check out our AMA with #KCC tomorrow at 2:00pm UTC on the KCC English Telegram. The prize pool for the event is $1,000! https://t.co/6pi1kBkF4K https://t.co/OeRYh5yR3G",18,2,3,2021-11-22
+308,2021-11-23 14:00:55+00:00,1463145542746267652,saffronfinance_,Psykeeper's AMA with @KCCOfficialTW starts now! Join us here: https://t.co/GZPBJk1SYR #KCC,14,0,1,2021-11-23
+309,2021-11-24 19:30:45+00:00,1463590933501521922,saffronfinance_,"Dingo walks us through the new Saffron Finance Welcome Packet - the NFT that was airdropped to nearly 30,000 past and present holders of $SFI . https://t.co/4IL73WgeRC",23,4,2,2021-11-24
+311,2021-11-28 15:52:12+00:00,1464985486439682051,saffronfinance_,Missed our AMA with #KCC ? Don't forget to check out the recap on @KCCOfficialTW 's medium here: https://t.co/vnOHChGa9T,18,1,1,2021-11-28
+312,2021-11-29 16:17:22+00:00,1465354208295673863,saffronfinance_,"Gm! The prizes for the $SFI and #KCC AMA have been distributed. Thank you to @KCCOfficialTW for hosting the event. If you have not received rewards and believe you are eligible, please email dingo@saffron.finance",25,1,1,2021-11-29
+313,2021-11-30 20:37:04+00:00,1465781950250196994,saffronfinance_,"In our latest Saffron Academy video, Dingo walks new users through joining a liquidity pool on our new https://t.co/MMOAGzpHaf V2 experience $SFI https://t.co/L10XeUEOhP",14,1,3,2021-11-30
+314,2021-12-01 17:43:06+00:00,1466100558490927104,saffronfinance_,Dingo walks us through how to stake your $SFI in our newest Academy video https://t.co/ggNIWK994g,15,0,0,2021-12-01
+316,2021-12-02 20:35:56+00:00,1466506442123452424,saffronfinance_,"As we close out the year, don't forget to fill out our feedback survey for Q4: https://t.co/z7s2kL2qhK",7,4,0,2021-12-02
+317,2021-12-03 21:06:40+00:00,1466876561517391875,saffronfinance_,We'll be airdropping this special Thanksgiving themed Saffron NFT to anyone who interacted with our protocol ( https://t.co/MMOAGzpHaf ) from 11/22 to 11/29.  Keep your eyes peeled for more future opportunities to unlock more hidden NFTs with $SFI . https://t.co/SVA0DBFkHi,32,7,10,2021-12-03
+318,2021-12-06 21:49:46+00:00,1467974573887045635,saffronfinance_,"Happy Monday! We've got a busy week ahead of us - including distributing the latest NFT, audit progress updates, new AMAs, and a few additional small surprises! It'll be a jam packed Saffron Weekly this Wednesday, so don't miss out!",40,5,4,2021-12-06
+319,2021-12-07 22:16:42+00:00,1468343738892230660,saffronfinance_,We're incredibly excited to be linking up with other financial and blockchain industry leaders at @RealVision 's The Takeover in Las Vegas later this week. Dingo will be giving away a few fun prizes to $SFI hodlers as well! More details to come!,49,2,7,2021-12-07
+320,2021-12-09 20:23:45+00:00,1469040088742985731,saffronfinance_,"Saffron Weekly (12/09/21) covers Saffron Finance's attendance of The Takeover by @RealVision , a limited edition NFT that we'll be giving away to commemorate the event, our upcoming AMA with @MojitoSwap , audit updates, and more! $SFI https://t.co/8WjXSkMB0H",20,2,2,2021-12-09
+321,2021-12-10 17:11:01+00:00,1469353976415993858,saffronfinance_,"Just like we did for Bitcoin Miami, we’re giving away a free commemorative NFT for the Saffron Finance community during @RealVision ’s The Takeover. Signups are open to everyone until 12:01am PST on December 13th. #vegastakeover https://t.co/laChI5uKKC https://t.co/lrufPgRX2F",32,0,5,2021-12-10
+322,2021-12-11 17:37:07+00:00,1469722929411751939,saffronfinance_,"As we enter the final weeks of Q4, we'd love it if you guys would take some time to fill out our feedback survey: https://t.co/z7s2kLk19i",19,2,1,2021-12-11
+323,2021-12-13 02:43:07+00:00,1470222725012602882,saffronfinance_,As a reminder for Saffron community users - tonight is the LAST night to sign up to get our limited edition NFT of Saffron Finance attending The Takeover. https://t.co/laChI5uKKC,28,2,4,2021-12-13
+325,2021-12-15 21:57:42+00:00,1471238060553736193,saffronfinance_,"Saffron Weekly (12/15/21) covers our community attending The Takeover - a private blockchain conference in Las Vegas, our AMA with @MojitoSwap , NFT distribution, the upcoming launch of our first audited partner pool on @kucoincom , and more! https://t.co/VHu8JBcPun",15,2,1,2021-12-15
+326,2021-12-17 19:27:09+00:00,1471924948516093953,saffronfinance_,This past year has been such an exciting time for Saffron and DeFi innovation. Let's take a look back at some of the early episodes of the Saffron Academy podcast - thank you to @hosseeb for kicking off our series with such an amazing first episode. https://t.co/DDxJJO6Wtl,11,2,2,2021-12-17
+327,2021-12-20 06:14:03+00:00,1472812523758014464,saffronfinance_,"Saffron Staking V2 has deployed on NEO3 Testnet
+
+https://t.co/IqI3wobL6M
+
+@Neo_Blockchain fans: join the Telegram group above to follow the progress of the Saffron Protocol and new DeFi yield opportunities on NEO3 
+
+Currently supporting the @NEOLine20 wallet",68,7,16,2021-12-20
+329,2021-12-23 22:58:03+00:00,1474152352202600449,saffronfinance_,"Saffron Weekly (12/23/21) covers our deployment on the @Neo_Blockchain Testnet, NFT distribution for the two major community events this last month, our 2021 recap next week, projection for the finished @zokyo_io audit, and more! Merry Christmas everyone! https://t.co/jVZoQYpQp4",25,4,4,2021-12-23
+330,2021-12-24 18:55:39+00:00,1474453735535517697,saffronfinance_,Happy Holidays! The Thanksgiving NFT is being distributed to everyone who interacted with the Saffron Finance protocol from 11/21 to 11/28. Enjoy! https://t.co/7dN01bsq66,25,3,2,2021-12-24
+331,2021-12-27 17:30:15+00:00,1475519407484985354,saffronfinance_,Welcome to the last week of 2021! What's one thing you're excited about in crypto going into 2022?,26,12,3,2021-12-27
+332,2021-12-28 14:30:43+00:00,1475836616275021833,saffronfinance_,Like we did with Bitcoin Miami and other industry events that we've attended throughout the year - anyone in the Saffron community who signed up during our time at Real Vision's The Takeover has received a Saffron-themed commemorative NFT https://t.co/e6jDiVuQoD,28,2,2,2021-12-28
+333,2021-12-29 21:01:29+00:00,1476297343112826888,saffronfinance_,"Saffron Weekly (12/29/21) finishes out the year with talking about $SFI plans for 2022, our upcoming roadmap for next year, your chance to win a Saffron-themed Christmas NFT, and more! https://t.co/XWegnEwga8",33,12,4,2021-12-29
+334,2022-01-03 18:51:02+00:00,1478076451991785473,saffronfinance_,"As we return to the office, we're excited to start tackling the new year. Here's one last quick plug for our 2021 feedback survey before we close submissions - make sure to let us know what you've enjoyed about $SFI and what we can improve on in 2022! https://t.co/z7s2kL2qhK",30,7,1,2022-01-03
+335,2022-01-05 20:05:48+00:00,1478820042854866952,saffronfinance_,"Saffron Weekly (1/05/22) rings in the new year by announcing the Saffron Gives initiative, $SFI 's participation in the @Neo_Blockchain blindbox giveaway, NFT distribution, Zokyo audits, and more! https://t.co/sWqQCNSfkB",64,7,17,2022-01-05
+336,2022-01-06 21:45:23+00:00,1479207492920000517,saffronfinance_,"Don't forget to participate in  @Neo_Blockchain 's Neoverse NFT Blindbox giveaway, you’ll be able to participate by joining the https://t.co/hWCVpfT127 beta and interacting with our app. We're giving away 30 N3 Collector’s Edition NFTs! More details: https://t.co/sWqQCNSfkB",36,8,5,2022-01-06
+337,2022-01-10 15:11:26+00:00,1480557902826020864,saffronfinance_,"GM! Everyone who has submitted feedback so far will receive a @Neo_Blockchain Neoverse NFT Blindbox when the giveaway concludes! We have 10 blindboxes still up for grabs, simply join the https://t.co/hWCVpfT127 beta and try and break stuff! More details: https://t.co/sWqQCNSfkB",32,3,6,2022-01-10
+338,2022-01-13 21:43:03+00:00,1481743620936015872,saffronfinance_,"We have a new governance proposal up from the @Bancor team to promote an ongoing partnership between our two governance communities, check it out here: https://t.co/f5u8n28ioo  $SFI $BNT",70,4,19,2022-01-13
+339,2022-01-16 21:17:05+00:00,1482824249308024832,saffronfinance_,"The proposal to activate LM rewards on the SFI-BNT pool is now live! If you're a holder of $BNT , head on over to https://t.co/Zdq9e1Zl3W to vote!",39,6,8,2022-01-16
+340,2022-01-24 16:27:58+00:00,1485650595193278464,saffronfinance_,"New consensus check regarding the Saffron treasury and LM rewards for SFI on Bancor: https://t.co/H9Idp6IUzb
+
+Voting power on this initiative is boosted by staking SFI thanks to the new Saffron V2 snapshot strategy",21,2,4,2022-01-24
+341,2022-01-27 00:37:23+00:00,1486498535927341057,saffronfinance_,"In the latest Saffron Academy tutorial video, Zack walks users through the process of bridging their SFI tokens over to the Kucoin Community Chain @KCCOfficialTW  network, and how to join a liquidity pool on MojitoSwap @MojitoSwap 
+
+https://t.co/7mqFmUKQN8",36,3,12,2022-01-27
+342,2022-01-31 09:03:57+00:00,1488075568331567105,saffronfinance_,"""Overnight we secured 40% of the SFI liquidity on-chain"" - Mark Richardson, Product Architect &amp; Head of Research at Bancor, chatting about Saffron on the FTM Alerts Live Stream @Bancor @MBRichardson87 @FantomFDN @FTMAlerts 
+
+https://t.co/HFIHxWD0wP",34,0,11,2022-01-31
+343,2022-02-02 19:32:51+00:00,1488958615025340420,saffronfinance_,"Hackathons are an effective way to give developers and builders the community and resources needed to build web3, DAO, gaming, and DeFi applications. Learn more about the newly announced @solana Riptide hackathon below:
+#hackathon #Riptide #web3 https://t.co/BGszjmuj1e",20,0,4,2022-02-02
+344,2022-02-08 23:48:52+00:00,1491197369857318913,saffronfinance_,Saffron V2 will be going live this week on the #KCC network! Follow our feed and @KCCOfficialTW for news and updates. https://t.co/tSy2pWVRvD,58,3,15,2022-02-08
+345,2022-02-11 19:42:39+00:00,1492222569356972036,saffronfinance_,What questions would you like to see featured in our upcoming Q1 2022 Feedback Survey? Let us know here: https://t.co/OzZ63k6nf7,26,4,4,2022-02-11
+346,2022-02-15 17:59:10+00:00,1493646078322913293,saffronfinance_,"If you'd like to try out the new site, check out our new UI, and see what we're up to regarding new development please check the V2 beta testing group here: https://t.co/Ogh0MgPHM2",25,1,5,2022-02-15
+347,2022-02-16 23:11:39+00:00,1494087106158899200,saffronfinance_,"Saffron Weekly (02/16/22) covers our first experimental pool on Harmony, our Q1 2022 feedback form, and more! https://t.co/cW9XTRcfKa",20,3,4,2022-02-16
+348,2022-02-21 17:34:48+00:00,1495814276191293452,saffronfinance_,"As the team returns from #ETHDenver2022, we’re excited to return to buidl-ing! We’ll be rolling out a few new Saffron initiatives over the coming weeks, stay tuned!",43,4,6,2022-02-21
+349,2022-02-24 20:28:19+00:00,1496945105273606144,saffronfinance_,Saffron V2 is coming soon to @harmonyprotocol ! https://t.co/iPjtW0NCMv,40,9,11,2022-02-24
+350,2022-03-01 17:36:53+00:00,1498713901541777408,saffronfinance_,"As we get ready to finalize our Q1 2022 feedback survey, we'd like your input on any additional questions or prompts you'd like to see us collect from our users! https://t.co/a81BZgGUru",15,5,3,2022-03-01
+351,2022-03-04 16:55:20+00:00,1499790606779965452,saffronfinance_,Saffron V2 is coming soon to #KCC ! https://t.co/JMhQV2adVi,40,3,7,2022-03-04
+352,2022-03-08 21:14:52+00:00,1501305472581832709,saffronfinance_,We have a new Temperature Check proposal in governance that highlights a perfect use case for Saffron Finance's insurance tranching mechanism and demonstrates the necessity of our protocol. Check out the discussion here: https://t.co/eXDGO262iR,23,0,3,2022-03-08
+353,2022-03-09 22:11:36+00:00,1501682139364012041,saffronfinance_,"Saffron Weekly (03/09/22) details $SFI joining the @DigitalChamber - the leading trade association representing digital asset and blockchain industry. In addition, we discuss our most recent governance proposal, our upcoming town hall, $KCC , and more! https://t.co/Qxe7Vl2t7L",27,3,6,2022-03-09
+354,2022-03-10 19:56:28+00:00,1502010520542588939,saffronfinance_,"Our latest governance Temperature Check has passed and will proceed to Consensus Check, join the discussion here: https://t.co/omQHvsjWV5",22,2,2,2022-03-10
+355,2022-03-11 22:15:32+00:00,1502407905651445760,saffronfinance_,"Happy Friday! It'll be a busy week next week as we take a deeper dive into Saffron Academy for 2022, talk about an upcoming integration, put our latest governance proposal to a snapshot vote, launch our newest survey, and more! Stay tuned!",34,7,6,2022-03-11
+356,2022-03-16 02:08:39+00:00,1503916120075554820,saffronfinance_,Our newest Consensus Check is now live! Check it out here and vote using your $SFI :   https://t.co/JHO7oJ9cRB,18,5,4,2022-03-16
+358,2022-03-18 16:12:56+00:00,1504853368908439555,saffronfinance_,Only a few days remain in our latest snapshot governance poll! Make sure to vote using your $SFI ! https://t.co/yLVlmzeKlQ,23,0,2,2022-03-18
+360,2022-03-22 15:39:43+00:00,1506294562372919299,saffronfinance_,"In response to the broken HLY contract, here are detailed instructions as part of our governance proposal to recover all funds from users who joined the beta HLY/WONE pool. Funds held in Saffron are protected from external DeFi application failures. https://t.co/Cy00wcPUP0",25,5,4,2022-03-22
+361,2022-03-23 21:30:40+00:00,1506745267357421574,saffronfinance_,Happy Wednesday! Here is the updated recovery URL with instructions for those that joined the HLY/WONE pool: https://t.co/Cy00wcPUP0,17,0,3,2022-03-23
+362,2022-03-24 21:30:52+00:00,1507107704615092237,saffronfinance_,"Saffron Weekly (3/24/22) covers tomorrow's launch of Saffron V2 on $KCC , our new website rollout, Academy component, our upcoming town hall this Sunday, recovery instructions for HLY/WONE participants, and more! https://t.co/4KyPU6eONl",30,1,5,2022-03-24
+363,2022-03-25 16:29:23+00:00,1507394223166869507,saffronfinance_,https://t.co/xfVPZnE7DJ,32,0,5,2022-03-25
+364,2022-03-26 03:29:07+00:00,1507560249833758727,saffronfinance_,"Saffron V2 has been deployed to the KCC network. There are four available covered pools for @MojitoSwap LP positions ♨️
+
+@KCCOfficialTW
+
+https://t.co/XsWZ8fIhM0",44,5,7,2022-03-26
+365,2022-03-27 15:35:41+00:00,1508105484083122177,saffronfinance_,"Our March Town Hall will begin in 25 minutes at 12pm EST and last for one hour! Ask @psykeeper_ and the Saffron team your burning questions here about V2, the future of Saffron, and more! Join us on Telegram here! https://t.co/CXvYP2yzCa",29,7,6,2022-03-27
+366,2022-03-28 12:11:08+00:00,1508416394559381512,saffronfinance_,Check out our newest Saffron Academy tutorial - using Saffron V2 on $KCC ! https://t.co/e3G93wJeLo,29,8,4,2022-03-28
+367,2022-04-06 18:05:51+00:00,1511767154198208527,saffronfinance_,"Saffron Weekly (4/06/22) covers our new website, upcoming whitepaper, recaps our Town Hall last week, and introduces our first feedback forum of 2022! https://t.co/lm9mgPcXU8",17,2,2,2022-04-06
+369,2022-04-07 15:05:20+00:00,1512084112521138179,saffronfinance_,"It's another year and that means we're giving away another free NFT in honor of #BitcoinMiami @thebitcoinconf , but only for the next week! Want to claim yours? Read on! https://t.co/C6Gn36K7Lz https://t.co/RsT0zuBdIB",25,8,6,2022-04-07
+370,2022-04-11 17:26:42+00:00,1513569242775535619,saffronfinance_,"Happy Monday! We'll be launching our new Saffron Academy website this Thursday, look forward to our preview in the Saffron Weekly! $SFI",34,12,7,2022-04-11
+371,2022-04-14 19:40:04+00:00,1514689969641639949,saffronfinance_,Saffron Academy has launched! Check out the new website here: https://t.co/0Zccalwaz3,25,14,2,2022-04-14
+372,2022-04-15 20:43:10+00:00,1515068235955191809,saffronfinance_,Don't forget to fill out our feedback survey and let us know what chains you'd like us to build on next! https://t.co/IVqIBOdaXt,19,13,2,2022-04-15
+373,2022-04-27 09:00:43+00:00,1519240111107579904,saffronfinance_,"The KCC Unicorn Contest continues this week with an event for all Saffron users on https://t.co/VQmM3PRLrh 
+
+To enter the event:
+1. Join the senior tranche (covered farming) on any Saffron pool via the link above
+2. Follow @KCCOfficialTW on Twitter https://t.co/ceXsUcHSg7",27,2,6,2022-04-27
+375,2022-05-04 17:13:34+00:00,1521900858199445504,saffronfinance_,"This week, our Saffron Weekly will be published on Thursday! Be sure to tune in for exciting news on new bridges and much more!",23,4,2,2022-05-04
+376,2022-05-05 21:58:12+00:00,1522334876887826432,saffronfinance_,"Saffron Weekly (05/05/22) covers our partnerships with @pangolindex and @kuswapfinance , our Twitter Spaces with @elk_finance tomorrow, the continuation of the $KCC Unicorn Contest, $SFI becoming a @SynapseProtocol xAsset, and more! https://t.co/jWKIKjje1E",15,5,4,2022-05-05
+377,2022-05-06 07:13:50+00:00,1522474703792885762,saffronfinance_,"The KCC Unicorn Contest begins today with an event for all Saffron users on https://t.co/VQmM3PRLrh 
+
+To enter the event:
+1. Join the senior tranche on any Saffron pool via https://t.co/rpnZvm3OqN with at least $100 worth of LP token
+2. Follow @KCCOfficialTW on Twitter",64,15,27,2022-05-06
+379,2022-05-09 14:51:10+00:00,1523676961666707457,saffronfinance_,"We're incredibly excited about our $PNG / $SFI Super Farm available now on @pangolindex , one of Saffron Finance's newest partners! Check it out here: https://t.co/NPLVSVv0Yo https://t.co/iH2XPxxOCY",36,5,11,2022-05-09
+380,2022-05-11 18:52:01+00:00,1524462347879960577,saffronfinance_,"Our planned live date for the dual farm ( $SFI / $ELK) in partnership with @elk_finance launches this Friday, May 13th on Avalanche ElkDEX! https://t.co/tU6sLHKT5f",34,1,13,2022-05-11
+381,2022-05-12 15:19:49+00:00,1524771331727896577,saffronfinance_,"Saffron Weekly (05/12/22) talks about the recent stock/crypto market downturn, features a brief AMA with Psykeeper, showcases our new UI, talks about our partnerships with @elk_finance and @kucoincom , and more! https://t.co/CDGQZj9lAN",13,1,2,2022-05-12
+384,2022-05-13 11:39:16+00:00,1525078218461663232,saffronfinance_,"Vote for Saffron♨️
+
+https://t.co/YefkkzmFye https://t.co/nzqceBAEXt",27,8,3,2022-05-13
+386,2022-05-16 16:49:09+00:00,1526243366765268993,saffronfinance_,Happy Monday! We're beginning a new initiative with Saffron where our individual developers will give the community updates on what they're currently building for our protocol. This week Turpintinz is updating us on the auto-compounding feature here: https://t.co/r4PmCOCgSA,15,3,1,2022-05-16
+387,2022-05-18 21:48:07+00:00,1527043380311646210,saffronfinance_,"Saffron Weekly (05/18/22) covers our recent @TrustWallet integration, recaps our new partnerships with @elk_finance and @pangolindex , announces the date &amp; time for the upcoming May Town Hall, and more! https://t.co/zBUk1wuYae",21,0,2,2022-05-18
+388,2022-05-20 17:05:57+00:00,1527697145565937669,saffronfinance_,"Our May Town Hall will be hosted on Telegram (and mirrored on Discord) Sunday, May 29th at 12pm EST. There we'll answer all your questions about our recent partnerships, upcoming integrations, V2, and more! Make sure to tune in here: https://t.co/CXvYP2yzCa https://t.co/wuqOeZoBgV",20,4,2,2022-05-20
+389,2022-05-23 21:11:03+00:00,1528845992912625665,saffronfinance_,Happy Monday! Saffron developer Turpintinz updates us on his progress on the auto-compounding feature as well as the @BadgerDAO integration! Feel free to ask him any additional questions here: https://t.co/qPVGi0x60U,11,0,3,2022-05-23
+391,2022-05-25 23:34:44+00:00,1529606924454461440,saffronfinance_,"This week's Saffron Weekly will be posted this Thursday as some of our team are still returning from the DC Blockchain Summit 2022, hosted by the @digitalchamber . We appreciate your patience.",20,0,1,2022-05-25
+392,2022-05-27 14:10:31+00:00,1530189712782249985,saffronfinance_,"Saffron Weekly (5/27/22) features Dingo giving his thoughts on attending the #DCBlockchainSummit , hosted by the @DigitalChamber , and congratulates the $SFI dev team on winning ""Most Innovative Technology"" Award from @kucoincom 's Unicorn Contest  https://t.co/Mld5jyLbD0",36,6,9,2022-05-27
+393,2022-05-28 23:28:40+00:00,1530692564575305729,saffronfinance_,Don't forget to join us for our Town Hall tomorrow on Telegram at 12pm EST: https://t.co/CXvYP2yzCa,24,1,2,2022-05-28
+394,2022-05-31 19:59:49+00:00,1531727166454616065,saffronfinance_,"The transcript of our May Town Hall is now live on Medium! We answer your questions about the unique features of $SFI , building our treasury, whitepaper, and more! https://t.co/4l8sNnBX6I",20,1,5,2022-05-31
+395,2022-06-03 17:42:45+00:00,1532779837328334857,saffronfinance_,"Saffron Weekly (6/03/22) recaps our May Town Hall, announces our newest hire and addition to the Saffron team, outlines Saffron Summer, and more! https://t.co/pQ0waPPRrT",19,3,5,2022-06-03
+396,2022-06-06 19:35:35+00:00,1533895396279439361,saffronfinance_,Happy Monday - don't forget to check out @gate_io 's interview with @psykeeper_ if you haven't already. https://t.co/KXhZVkTBkh,18,1,3,2022-06-06
+397,2022-06-07 22:37:38+00:00,1534303599513292806,saffronfinance_,Our new writer Plum’s first blog post is live! Check it out here on our Saffron Academy website: https://t.co/qRQjdg48d8,20,4,2,2022-06-07
+398,2022-06-08 20:32:29+00:00,1534634493189017600,saffronfinance_,Check out developer Turpintinz’ most recent update with our Saffron-Badger integration here: https://t.co/EAvHqcWopA,10,3,0,2022-06-08
+399,2022-06-09 22:31:53+00:00,1535026925852413964,saffronfinance_,"Saffron Weekly (6/09/22) welcomes Plum's new series Understanding DeFi, recaps @psykeeper_ 's interviews with @gate_io and @SmartEconomyPod , showcases a new Saffron Academy tutorial, and more! https://t.co/Q4etZvYf3F",15,5,2,2022-06-09
+400,2022-06-10 22:08:34+00:00,1535383448990400514,saffronfinance_,Check out our latest Saffron Academy video where we guide users through the process of bridging their $SFI to the @avalancheavax network using @multichainxyz https://t.co/V45CUaf4bc,111,11,43,2022-06-10
+401,2022-06-14 12:50:41+00:00,1536692601650298880,saffronfinance_,Turpintinz updates us on the Badger-Saffron integration. Check out his progress here: https://t.co/qAr3zTz7uY,13,1,0,2022-06-14
+402,2022-06-16 15:18:08+00:00,1537454484745486337,saffronfinance_,"Saffron Weekly (06/16/22) teases the next article in Plum's new series ""Understanding DeFi"", we hear an update from Turpintinz &amp; the dev team, we talk a bit about our Saffron V2 whitepaper, and more! https://t.co/JWtGpiLwHO",15,3,1,2022-06-16
+403,2022-06-21 22:30:24+00:00,1539375210121424896,saffronfinance_,We start this week off with another development update from Turpintinz (and a little anecdote from his volunteer work for Juneteenth and how it relates to DeFi) - check it out on our Telegram here: https://t.co/qu7TB3xv5w,18,0,3,2022-06-21
+404,2022-06-23 21:21:47+00:00,1540082717563310081,saffronfinance_,"Saffron Weekly (06/23/22) highlights Turpintinz' development update, our whitepaper, upcoming experimental pools, Saffron Finance website redesign, and more! https://t.co/4WIbM470H7",23,3,3,2022-06-23
+405,2022-06-27 23:32:25+00:00,1541565143544242176,saffronfinance_,"Turpintinz is back with another developer update this week, take a look on our Discord here! https://t.co/QQUcxaoEoU",15,2,2,2022-06-27
+406,2022-07-06 20:36:53+00:00,1544782460143054849,saffronfinance_,"Saffron Weekly (07/06/22) shares updates from our development and research teams, details plans for our next town hall later this summer, and more! https://t.co/Wo6qEzqq9M",16,0,2,2022-07-06
+407,2022-07-07 18:40:10+00:00,1545115474907635714,saffronfinance_,"In our latest Saffron Academy tutorial video, Zack walks us through how to join the $ELK / $SFI farm on @avalancheavax https://t.co/WTBg4Acq70",13,0,1,2022-07-07
+408,2022-07-11 17:22:26+00:00,1546545461183619072,saffronfinance_,Happy Monday! Turpintinz has another development update for us on our Discord. Read more here: https://t.co/xg3NqJuD9m,10,3,1,2022-07-11
+409,2022-07-15 17:49:36+00:00,1548001851257171971,saffronfinance_,"In case you missed it, Saffron developers have been posting weekly updates in Telegram. Check out the latest update by turpintinz here: https://t.co/WdkkfGh5GO",19,0,3,2022-07-15
+410,2022-07-18 17:20:14+00:00,1549081622896529408,saffronfinance_,Turpintinz updates us with his progress on with the Badger DAO integration. Read more here: https://t.co/eSoHMXt0eu,17,3,2,2022-07-18
+411,2022-07-21 17:36:32+00:00,1550172891374882817,saffronfinance_,"Tomorrow's weekly will be focused around each of our departments giving our users updates on what they've been working on, where they're currently at, and what to expect in the future.",19,4,2,2022-07-21
+412,2022-07-22 18:30:05+00:00,1550548753001525248,saffronfinance_,"Saffron Weekly (07/22/22) features updates from our research team, design team, UI/UX team, development team, and announces Tiramisu. https://t.co/NNHdKBHotK",15,1,1,2022-07-22
+413,2022-07-23 14:09:00+00:00,1550845439003566083,saffronfinance_,"We had a lot of exciting updates from the Saffron team this week, so let's dive in 👇",21,2,4,2022-07-23
+419,2022-07-25 17:01:40+00:00,1551613667308818432,saffronfinance_,"In case you missed it last week, here's an in-depth preview of Saffron's newest upcoming product, Tiramisu - https://t.co/7aDDXOtlVZ",17,0,3,2022-07-25
+421,2022-07-27 21:25:58+00:00,1552404956652531712,saffronfinance_,"Saffron Weekly (07/27/22) recaps our announcement with @kogecoin , gives us updates from Turpintinz and Psykeeper, dives into more Tiramisu information, and more! https://t.co/jlFrJPbumE",13,0,1,2022-07-27
+422,2022-07-28 15:07:31+00:00,1552672102141988864,saffronfinance_,"For those that missed the update last week, our landing page redesign is complete and we are currently in the internal testing phase to find/fix any bugs the team comes across with the UI. Read more of our design updates here: https://t.co/NNHdKBHotK",12,0,4,2022-07-28
+423,2022-07-29 15:41:38+00:00,1553043078826672128,saffronfinance_,"Looking for more information on Saffron's future interest rate swap instrument, Tiramisu? Check out @psykeeper_ 's write-up here: https://t.co/7aDDXObL4r",15,2,1,2022-07-29
+424,2022-08-01 20:02:56+00:00,1554195999291318272,saffronfinance_,$Koge represents the first step in expanding the Saffron ecosystem at large and we’re excited to welcome the community with our recent announcement of maintaining KogeFarm @kogecoin https://t.co/92iyYQLErQ,16,1,1,2022-08-01
+425,2022-08-02 18:42:36+00:00,1554538172230549504,saffronfinance_,Check out Turpintinz' most recent Saffron development update here: https://t.co/FaCpZIK0FG,19,1,2,2022-08-02
+426,2022-08-08 14:00:14+00:00,1556641436891840513,saffronfinance_,"Saffron's new vault product, based on Uniswap V3, is launching in phases as it undergoes audits.
+
+Vaults are able to be adapted to any Uniswap V3 pool. Capped vaults will be deployed first, and upon completion of several audits, vaults will be uncapped. 
+
+https://t.co/AVxCUfRA2f",26,9,7,2022-08-08
+427,2022-08-17 17:55:00+00:00,1559962008660807680,saffronfinance_,"Turpintinz gives us another developer update on the Badger DAO integration, check it out on our Telegram! https://t.co/YKDUOt2WwX",14,4,2,2022-08-17
+428,2022-08-18 15:27:59+00:00,1560287398772236288,saffronfinance_,"Saffron Weekly (08/18/22) updates us on our V2 audit, progress on our @kogecoin hand-off, developer update, and more! https://t.co/8gGE5y1HLn",13,5,2,2022-08-18
+429,2022-08-23 17:57:41+00:00,1562137010533552129,saffronfinance_,Check out our latest developer update from Turpintinz on our Discord here: https://t.co/03EZvGKsAB,6,6,2,2022-08-23
+430,2022-08-29 18:47:52+00:00,1564323970307870721,saffronfinance_,We're currently in the process of recording episodes for Season 2 of the Saffron Academy Podcast. Have someone in mind that you'd like us to have on the show? Drop an email to dingo@saffron.finance and we'll make it happen. https://t.co/EWAjoFpyYr,13,5,3,2022-08-29
+431,2022-08-30 15:53:51+00:00,1564642562207469568,saffronfinance_,"@VeChain_is_King We had representatives from Saffron attend the DC Blockchain Summit, hosted by the @DigitalChamber , to get a read on what regulators from the SEC, CFTC, and other government committees think about the future of crypto. Read about our impressions here: https://t.co/Mld5jz2Muy",0,0,0,2022-08-30
+432,2022-09-02 16:19:11+00:00,1565736103012868096,saffronfinance_,"Saffron Weekly (09/02/22) talks about our @Quantstamp audit of Saffron V2, our current $SFI staking rewards for V2, governance, a developer update from @psykeeper_ , and more! https://t.co/fuC3ND13WZ",12,4,4,2022-09-02
+433,2022-09-08 18:25:58+00:00,1567942337384300555,saffronfinance_,"Saffron Weekly (09/08/22) discusses an important new @kogecoin proposal, a new $SFI staking rewards proposal, town hall, and more! https://t.co/dn2fnQrAsr",15,1,5,2022-09-08
+434,2022-09-09 15:06:32+00:00,1568254535293960194,saffronfinance_,"The most recent proposal in our governance forum about renewing Saffron V2 staking rewards is now live, join the discussion here: https://t.co/JFvRiqdHho",12,3,5,2022-09-09
+435,2022-09-14 17:43:01+00:00,1570105852543250433,saffronfinance_,"While our audits are still in progress for V2, you can check out most recent developer update on our Telegram here: https://t.co/1Dzesz905y",10,6,5,2022-09-14
+436,2022-09-16 17:44:23+00:00,1570830973687717892,saffronfinance_,"Saffron Weekly (09/16/22) announces the upcoming @kogecoin Town Hall, draws attention to the new Saffron staking rewards proposal, provides a few developer updates, and more! https://t.co/jMWc6M5RBX",7,4,2,2022-09-16

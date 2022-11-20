@@ -1,0 +1,1343 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-14 18:04:57+00:00,1217145592012582912,keep_project,"🔎 Curious about tBTC?
+
+⛓️ tBTC is a Bitcoin bridge bringing DeFi to to the next level
+
+👇 Read up on for the latest on tBTC development!
+
+https://t.co/USTpygop3L",43,2,13,2020-01-14
+1,2020-01-16 14:58:17+00:00,1217823390876229634,keep_project,"In December we shipped Keep's random beacon to Ropsten &amp; more! 🎉
+
+Read on to see our 2019 in review 👀 &gt;&gt;&gt;
+
+https://t.co/6p57Hg1gsC",15,0,2,2020-01-16
+2,2020-01-22 18:02:12+00:00,1220044004626259969,keep_project,"Cross-chain collaboration is the future, join us! 
+
+Introducing the Cross-Chain Group, a working group for multiple chains to come together and 
+
+🔍Identify common problems
+
+📚Collaborate on research
+
+👨‍💻Build solutions that benefit the entire industry
+
+https://t.co/c38ksiU1o0",32,2,7,2020-01-22
+3,2020-01-24 01:15:04+00:00,1220515328242921474,keep_project,@badcryptobitch @bmc_ @PhABCD @ljxie @maurelian_ https://t.co/8GMGGvxMJd,3,0,0,2020-01-24
+6,2020-02-11 18:12:14+00:00,1227294285210542082,keep_project,"@fireintheslums Yep, just not as the basis for a decentralized, censorship-resistant network!",0,1,0,2020-02-11
+14,2020-02-12 00:28:16+00:00,1227388919228108802,keep_project,@fireintheslums It's not because we're not working on it. Using TEEs as a second layer of signing defense is on our roadmap. It's just not the linchpin to our trust model,0,1,0,2020-02-12
+17,2020-02-14 15:13:05+00:00,1228336364141383680,keep_project,At @EthereumDenver and want to build Bitcoin DeFi? Hit us up so we can speed you up! #tBTC https://t.co/N2qUNnRHJF,3,0,1,2020-02-14
+21,2020-02-15 20:17:51+00:00,1228775449863630848,keep_project,"Want to add BTC directly to your Ethereum dApp?
+
+We've got you covered. Announcing tbtc.js
+
+https://t.co/VGABz6mB74
+
+#tbtc #ETHDenver",5,1,2,2020-02-15
+23,2020-02-16 22:25:22+00:00,1229169927900151808,keep_project,"We had 3 great #tBTC and @compoundfinance bounty submissions at #ETHDenver.... Judging is underway, stay tuned for the 'Best Bitcoin to DeFi Experience'
+
+https://t.co/k8q5WLmOFu https://t.co/UZIO5Nej2N",14,0,4,2020-02-16
+25,2020-02-18 22:18:05+00:00,1229892870414491654,keep_project,@BobMcElrath 🤣 whatever supports your narrative!,3,1,0,2020-02-18
+27,2020-02-19 11:08:41+00:00,1230086799642550274,keep_project,"@BobMcElrath You seem to want people to just be experimenting, but that's not all that is happening here.
+
+A USD loan against your BTC via @MakerDAO is a big, new thing.",0,1,0,2020-02-19
+31,2020-02-20 22:01:29+00:00,1230613467633246208,keep_project,"@JBmastercrypto @ChrisBlec @renprotocol tBTC is based on peer reviewed MPC, and is still resilient if it fails. Ren is using a novel, untested algo.
+
+If you want depositor safety first, more collateral and tested algos are the way to go. If you want capital efficiency at the expense of depositor safety, choose Ren.",1,0,0,2020-02-20
+37,2020-02-21 21:00:01+00:00,1230960388545634310,keep_project,@bitdvd @WllCCX @ChrisBlec @JBmastercrypto @renprotocol @multicoincap The token isn't strong or safe by itself. Additional collateral protects depositors. That's exactly why we didn't follow this design - it's dangerous.,0,0,0,2020-02-21
+63,2020-02-22 00:34:36+00:00,1231014390301896706,keep_project,🤣 https://t.co/h7JyyzCAU0,3,0,0,2020-02-22
+64,2020-02-26 16:20:16+00:00,1232701926946394112,keep_project,"Congratulations to the winners of the @keep_project @compoundfinance bounty at @EthereumDenver! We had 3 great projects hack on the tBTC &amp; Compound bounty to create the Best Bitcoin to DeFi Experience.
+
+https://t.co/ZT2uhD4mg4",21,1,5,2020-02-26
+67,2020-02-27 22:01:01+00:00,1233150067856429057,keep_project,@caiovicentino Can you share a screens? We migrated the off-chain testnet recently 🤔 cc @SloanThompson,1,1,0,2020-02-27
+69,2020-02-28 01:19:02+00:00,1233199900319334400,keep_project,"@caiovicentino @SloanThompson You, sir, are a hero. Infrastructure hiccup on our end if you want to give it another try.
+
+Also, we can help live in Discord https://t.co/dTta7bD2RO",1,1,1,2020-02-28
+70,2020-03-02 18:11:25+00:00,1234541839157518337,keep_project,"We know you've been waiting to find out more about #tBTC, so we've put together a tBTC 101 blog post for you. Study up and get ready for our mainnet launch coming soon!
+
+🚀
+
+https://t.co/ueMKcOq1No",70,3,23,2020-03-02
+73,2020-03-03 00:43:51+00:00,1234640598155636736,keep_project,"@j6sp5r @ChrisBlec No, they out up 50% each for 150% total.",1,0,0,2020-03-03
+74,2020-03-05 16:27:05+00:00,1235602745190535169,keep_project,"""There's a clear need on Ethereum for better collateral, and a clear need on #Bitcoin for greater functionality and the opportunity for yield.""
+
+#tBTC is coming to fill both needs. Find out why in a manifesto from @mhluongo 
+
+https://t.co/BKLKsg1IU4",13,0,4,2020-03-05
+75,2020-03-06 18:57:51+00:00,1236003073669107714,keep_project,@interestingpost @JGJ1337 @pTokens_io 🤗,0,0,0,2020-03-06
+79,2020-03-09 16:43:16+00:00,1237056369578201090,keep_project,"“We should collaborate more, and this is a great collaboration… I definitely think people should check it out” - @DavidJNage speaking about #tBTC on the Base Layer podcast.
+
+We love to collaborate, and our github repos are here: https://t.co/PvtGOMXtC1 https://t.co/2y9gjVQRLG",6,0,1,2020-03-09
+80,2020-03-12 22:27:43+00:00,1238230218155966468,keep_project,"We’ve been moving to open-source as much of our libraries as possible, and today we released one more - the reference dApp for tBTC is now open on our github. 
+
+We hope this simplifies integration processes for using #tBTC across the entire dApp space. 
+
+https://t.co/HgY1ul100u",14,0,5,2020-03-12
+81,2020-03-25 19:23:07+00:00,1242894801705582592,keep_project,@TheYesserMan321 @raykov_krasimir @ChrisBlec @renprotocol Monero's PoW makes trustless sidechain support on Ethereum tricky,0,0,0,2020-03-25
+82,2020-03-26 15:20:52+00:00,1243196224917983233,keep_project,@zmanian ❤️,0,0,0,2020-03-26
+84,2020-03-27 20:54:00+00:00,1243642451925118976,keep_project,@zooko 🙇‍♂️,0,0,0,2020-03-27
+85,2020-03-29 21:40:57+00:00,1244379040535937026,keep_project,"@AlexMasmej @renprotocol We're also a bridge, we just rely on Ethereum for consensus rather than an additional layer or trusted federation.",2,0,0,2020-03-29
+87,2020-03-30 17:08:00+00:00,1244672737236443143,keep_project,@BlockchainBard @LebedevAP @renprotocol Thank you meme lord.,0,0,0,2020-03-30
+122,2020-04-01 17:09:02+00:00,1245397774323060736,keep_project,@LebedevAP Not sure what you mean about KYC?,0,1,0,2020-04-01
+132,2020-04-02 18:24:18+00:00,1245779103380377601,keep_project,"Exciting news: #tBTC will launch on April 27th! 🎉
+
+Thank you @bloomberg and @mattleising for telling the story. We can't wait to bring #BTC to #Ethereum. 
+
+https://t.co/D10VsDlpwF",34,1,12,2020-04-02
+135,2020-04-04 04:29:56+00:00,1246293903919243265,keep_project,"@digital_monad @dergigi @renprotocol @pTokens_io Become less ""lesser known"" by the day
+
+https://t.co/D10VsDlpwF",0,0,0,2020-04-04
+137,2020-04-05 21:11:01+00:00,1246908224797884416,keep_project,"@amcassetti @LebedevAP @AlexMasmej @renprotocol Checking in- we've fixed both the flappy test (an inconsistent testnet migration) and wider TLS, and finished addressing all audit recommendations. Thanks for the bug report, and hope you had a productive week!",3,1,0,2020-04-05
+138,2020-04-06 18:40:01+00:00,1247232611354886145,keep_project,@theswampgirlUSA @HegicOptions @renprotocol April 27th,1,0,0,2020-04-06
+144,2020-04-07 17:22:48+00:00,1247575567916044290,keep_project,@hasufl @Lsquaredleland The NFT before a deposit is confirmed (and after if you want your particular UTXO back),2,0,0,2020-04-07
+146,2020-04-09 21:15:29+00:00,1248358896676339713,keep_project,"So I guess @mhluongo is giving away KEEP for anyone who stakes on testnet with a Raspberry Pi? 🤷‍♂️
+
+If that's you get in there https://t.co/yFAUT8ChWs https://t.co/IGT7F5ZC2X",8,1,3,2020-04-09
+148,2020-04-10 22:27:33+00:00,1248739422096576513,keep_project,@myfitnessblog @DLewis77777 @kaiynne @PieDAO_DeFi @renprotocol @synthetix_io 😂,2,0,0,2020-04-10
+150,2020-04-14 22:46:52+00:00,1250193834207780867,keep_project,"Want to learn more about the June 8th stakedrop 🥩🪂and start Playing for Keeps ♠️ ? 
+
+Join our Discord: https://t.co/BVWUBBBaFs",5,0,0,2020-04-14
+155,2020-04-15 17:09:32+00:00,1250471331826675712,keep_project,@Krzyszt51912412 We're on mainnet on two weeks 😘,0,0,0,2020-04-15
+185,2020-04-16 01:08:44+00:00,1250591925771608064,keep_project,"@Gildarsh Come hang out on our Discord, we're all helping each other! https://t.co/UCjkmWu3RR",1,0,0,2020-04-16
+189,2020-04-17 19:59:21+00:00,1251238841819770884,keep_project,"Have you been wondering why we’ve been so excited about #tBTC? 🤩
+
+It’s because the system demonstrates the capabilities of Keeps to enable public blockchain interactivity with private data, and the random beacon used to select signers.
+
+Read more here: https://t.co/A31BLhGvrK",9,0,1,2020-04-17
+192,2020-04-18 11:33:55+00:00,1251474032580530176,keep_project,"@fidmatt ECDSA first! After the tBTC release we'll be doing some cleanup, including a better keep abstraction, BLS keeps, and likely an ""echo"" keep for dead man switches!",1,0,0,2020-04-18
+193,2020-04-19 10:38:43+00:00,1251822530660388864,keep_project,@Krzyszt51912412 Of course it's a federated peg. Not sure you're familiar with the literature here?,1,1,0,2020-04-19
+200,2020-04-22 21:44:40+00:00,1253077285009272833,keep_project,@ICO_Analytics @polkadotnetwork @solana @EthereumNetw @NuCypher @CeloOrg @SkaleNetwork @dfinity @CodaProtocol @harmonyprotocol @chainlink @maticnetwork @BisonTrails @polychainlabs @POSBakerz @StakeWithUs @HashQuark @StakeCapital Haven't checked in with @ChorusOne in a bit either,0,0,0,2020-04-22
+204,2020-04-23 15:36:37+00:00,1253347048491008006,keep_project,@Kevinarthur08 @CxDefi @KrutLara 😎,0,0,0,2020-04-23
+205,2020-04-24 01:02:21+00:00,1253489422500270082,keep_project,@jonathantallen1 @mhluongo ♥️,1,0,0,2020-04-24
+206,2020-04-29 17:41:38+00:00,1255552839977439234,keep_project,@deversifi 💕,1,1,0,2020-04-29
+212,2020-04-30 16:19:06+00:00,1255894457066668032,keep_project,"@PierrickGT @MakerDAO @compoundfinance @BisonTrails @staked_us @FigmentNetworks @getnuo @SetProtocol @RadarRelay @argentHQ @deversifi Depends on the project. tBTC is an open source protocol, so ""partnering"" doesn't make a ton of sense. Most of these teams are integrating at or shortly after launch",1,0,0,2020-04-30
+214,2020-05-01 03:11:03+00:00,1256058526885122051,keep_project,@OliviaLovenmark @krakenfx @krakenfx we'd love to chat sometime about a decentralized alternative!,5,1,0,2020-05-01
+218,2020-05-03 13:14:04+00:00,1256935056721002498,keep_project,@udiWertheimer @ercwl Are we Udi Approved ™️?,0,0,0,2020-05-03
+219,2020-05-04 18:35:57+00:00,1257378446776336385,keep_project,"Announcing another killer team joining the Keep &amp; tBTC fam, @BisonTrails is supporting the Keep network's random beacon launch &amp; KEEP staking this week! 💪😎 https://t.co/hl6XyWaeAd",8,1,3,2020-05-04
+221,2020-05-05 15:35:46+00:00,1257695489627164673,keep_project,"@Krzyszt51912412 @renprotocol @defiprime @defipulse @MakerDAO We'd love a pull request to update the docs! You can see in the Ropsten dApp that there's no a bond though
+
+https://t.co/214tyDIWFB",0,3,0,2020-05-05
+226,2020-05-06 21:08:14+00:00,1258141547540951044,keep_project,"@bitnonymous @Krzyszt51912412 @renprotocol @defiprime @defipulse @MakerDAO Here you go 🤸‍♂️
+
+https://t.co/r4NZ3KDH8C",0,0,0,2020-05-06
+241,2020-05-07 19:36:55+00:00,1258480954668199937,keep_project,@btsfav @NickPJackman @kermankohli @LocalCryptosEN @DiegoDiSilv89 @renprotocol @WrappedBTC @jelly_swap Some people care about taxes 🤷‍♂️,0,1,0,2020-05-07
+250,2020-05-08 11:49:52+00:00,1258725803082350592,keep_project,"@btsfav @NickPJackman @kermankohli @LocalCryptosEN @DiegoDiSilv89 @renprotocol @WrappedBTC @jelly_swap If you bought BTC at a dollar and sell it at $100 you owe on $99 in gains. Wrapping and unwrapping might be considered ""disposal"" by the IRS and co and trigger cap gains. It's a while new world",0,1,0,2020-05-08
+252,2020-05-12 16:58:59+00:00,1260253147873914881,keep_project,"Wondering what exactly Playing for Keeps is? Or how to get your hands on KEEP tokens? 
+
+We’ve got the answers, along with entry flow, prize details and judges! Guest appearances from @zmanian, @spencernoon and @ViktorBunin! 🥳
+
+https://t.co/k9t4TBM4Y1",10,0,5,2020-05-12
+255,2020-05-13 18:09:04+00:00,1260633171869216768,keep_project,"The relay is anchored to Bitcoin block 629,999. Why? Block 629,999 is the last block before the halving. Here's the coinbase data, included by F2Pool when they mined the block.
+
+https://t.co/NunWl0k3Ul https://t.co/UBLi3BTR2A",3,1,0,2020-05-13
+274,2020-05-14 02:31:37+00:00,1260759641673342981,keep_project,🤓/😎 https://t.co/urK6TYvePI,2,0,0,2020-05-14
+277,2020-05-15 23:33:56+00:00,1261439703770976257,keep_project,@dmihal It sort of works now. Don't say we didn't warn you son,4,0,0,2020-05-15
+285,2020-05-16 12:13:18+00:00,1261630805534740483,keep_project,"@dmihal @lemiscate That's exactly what's happening.
+
+@lemiscate we can probably get your deposit going again, the dApp just doesn't have a good memory yet
+
+The Discord is https://t.co/g29bKmKb9T",3,0,0,2020-05-16
+288,2020-05-17 23:48:43+00:00,1262168201766600704,keep_project,Bitcoin is DeFi. https://t.co/dNzbX0jmmj,13,0,0,2020-05-17
+296,2020-05-18 20:41:42+00:00,1262483525187645440,keep_project,"We're working on a detailed post-mortem explaining the facts and circumstances that led to this emergency action, and expect to share early tomorrow. We're incredibly grateful to the community for your support, and will keep you updated.",12,1,0,2020-05-18
+310,2020-05-19 00:00:54+00:00,1262533655827812352,keep_project,"@notgrubles @udiWertheimer You might've missed it in the thread- we'd already scheduled a second audit with @trailofbits, coincidentally starting today.
+
+We plan to redeploy the contracts. We can't upgrade the original, all we can do is educate people not to use them.",1,0,0,2020-05-19
+317,2020-05-20 04:43:08+00:00,1262967066069524490,keep_project,"@zackvoell @bitmaster177 @theinstagibbs @udiWertheimer Feedback appreciated. We're also in the market for BTC-focused auditors for round 3.
+
+https://t.co/ruGJPHKnPe",2,1,0,2020-05-20
+319,2020-05-22 14:28:12+00:00,1263839079361372164,keep_project,"Security is our top priority building #tBTC.🔐
+
+That's why we're moving to a release candidate model for #tBTC, hard capping total deposited #BTC, &amp; will remove the red lever after 12 months of incident-free contracts.
+
+Read more here👇
+https://t.co/0Y7UcrNO1S",34,1,13,2020-05-22
+320,2020-05-26 14:05:00+00:00,1265282792989966337,keep_project,"There are a few #bitcoin cross-chain bridges in progress... but only one that will let you stake #ETH and #earn work tokens required for signing. That's #tBTC, and the Stakedrop period for ETH starts June 8th. Sign up for the virtual event:
+https://t.co/aWBiSskRWc",9,0,0,2020-05-26
+322,2020-05-27 12:24:44+00:00,1265619947486687232,keep_project,"@CryptoBasel @devops199fan @samczsun @trailofbits It has- results 👇. Audits don't mean ""bug free"", that a huge misconception in the space.
+
+https://t.co/azIyomHXYi
+
+This is audit 2 of 3.",1,1,0,2020-05-27
+324,2020-05-28 18:30:00+00:00,1266074258788270080,keep_project,"Have you joined our virtual event yet? We’ll be giving full details on how you can stake your #ETH and earn KEEP for helping to bring #BTC to Ethereum with #tBTC.
+https://t.co/aWBiSs3h4E",9,0,2,2020-05-28
+326,2020-05-29 19:19:00+00:00,1266448976926191616,keep_project,"Are the awards for Playing for Keeps big? Let’s just say the top prizes could significantly increase the use of your John Hancock… 😏
+
+That’s right, you could get enough KEEP to be a signer in mainnet #tBTC just by participating in Playing for Keeps. ✍️
+
+https://t.co/k9t4TBM4Y1",8,1,0,2020-05-29
+329,2020-05-30 21:47:00+00:00,1266848610257219585,keep_project,"☔️ If you make it to our Discord channel, we hope you're ready for a storm. We're making it rain KEEP tokens for community contributions! ☔️
+
+We're giving away enough KEEP to become a mainnet #tBTC signer... 🤑
+
+Come see what we're talking about https://t.co/kBnpSBTqUe",7,0,1,2020-05-30
+330,2020-06-01 21:14:00+00:00,1267565081119744001,keep_project,"Things you could do to earn KEEP in Playing for Keeps:
+✅Design swag mockups 👕
+✅Test tBTC and DEX functionality 🤝
+✅Write an extension for the Keep Dashboard 💻
+✅Create animations 🐭
+✅User testing and feedback 🧪
+❌Cash in on that Victory Royale 🥇
+
+https://t.co/k9t4TButzr",5,1,2,2020-06-01
+332,2020-06-02 20:20:00+00:00,1267913879453122560,keep_project,"Signers for #tBTC normally need our KEEP work token to enter the system. We’re allowing #ETH only signers with KEEP tokens awarded for staking during our Stakedrop period. It all starts on June 8th:
+https://t.co/aWBiSs3h4E",13,0,1,2020-06-02
+334,2020-06-03 15:03:00+00:00,1268196492159922185,keep_project,"Why are we giving away so many KEEP tokens during our Playing for Keeps testnet game? We want to ensure that signing groups are decentralized &amp; community members can easily get significant skin in the game. You don’t need our permission, contribute today!
+
+https://t.co/k9t4TBM4Y1",11,1,2,2020-06-03
+335,2020-06-04 03:01:35+00:00,1268377328918331397,keep_project,Top 5 😎 https://t.co/YyyKSLCyWP,15,2,5,2020-06-04
+339,2020-06-05 20:07:43+00:00,1268997954611884035,keep_project,"What are we building for? The protection of everyone's rights, everywhere.
+
+https://t.co/nIT03MmWo8",16,1,5,2020-06-05
+342,2020-06-08 17:20:36+00:00,1270043061813477381,keep_project,@martinkrung The last large private sale tranche was $7.7M for $0.12 / token. That number above was what was awarded in Playing for Keeps in May.,1,0,0,2020-06-08
+345,2020-06-09 00:08:43+00:00,1270145765999095809,keep_project,@mhluongo @wolfmtl @staked_us @BisonTrails @FigmentNetworks We're also happy to help in Discord! https://t.co/e7zbGDgSGl,1,0,0,2020-06-09
+347,2020-06-10 21:02:36+00:00,1270823705531187201,keep_project,@artlimber @NukeManDan @jaybowles_ @Ben_Longstaff 🙌,2,0,0,2020-06-10
+350,2020-06-11 18:12:44+00:00,1271143344371126272,keep_project,"We appreciate the nod from Coinbase- great to see the team's hard work recognized.
+
+No need to wait, though- join the stakedrop, earn $KEEP, and help us bring Bitcoin to Ethereum. #tBTC
+
+https://t.co/WGAi9Rw0rF https://t.co/6OHaWF7UJO",47,1,14,2020-06-11
+351,2020-06-12 22:21:10+00:00,1271568251424854016,keep_project,"@antiprosynth @chrisdbarnett @graemeblackwood @argentHQ Saying a bridge makes an asset less safe is misunderstanding the difference between asset and technology.
+
+Do BTC on an exchange trade lower than those off exchange? It's the same asset regardless.",1,1,0,2020-06-12
+354,2020-06-13 14:30:53+00:00,1271812290640326656,keep_project,"@JuergenStrobel @CryptoToit @taha_zafar12 @koeppelmann @renprotocol We come close- every deposit has 3 randomly chosen signers that each have a key shard. They're bonded 150% in ETH to avoid theft, and SPV proofs are show funds in and out 
+
+If you're an auditor or researcher, we're always interested in more review from Bitcoiners.",1,1,0,2020-06-13
+355,2020-06-16 00:02:48+00:00,1272680992084500481,keep_project,"Just in time for the stakedrop, KEEP is now supported by @CoinbaseCustody!
+
+Want to learn to stake and earn $KEEP? Visit https://t.co/WGAi9Rw0rF to get the rundown, and https://t.co/Bx75zHiHMP to join the community 🤗",33,0,11,2020-06-16
+358,2020-06-17 01:09:22+00:00,1273060130494398465,keep_project,"If you missed the crowdcast event live, you can still tune into the recording at https://t.co/aWBiSskRWc",3,0,0,2020-06-17
+360,2020-06-18 17:15:03+00:00,1273665543208415233,keep_project,"We're excited to have @spencernoon joining us to judge the June Playing for Keeps submissions! ♠️ 
+
+🕛Spencer is interested in seeing tools and analytics that help understand the health of the network. Want more detail? Check it out: 👇
+
+https://t.co/Q9X7gkIEvt",18,0,7,2020-06-18
+361,2020-06-22 18:49:37+00:00,1275138891599818753,keep_project,"@Bitcoinpalmer If it's this token contract, then yes! If not, then no.
+
+https://t.co/Bz7BEHw5Vl",1,1,0,2020-06-22
+363,2020-06-25 16:33:43+00:00,1276191857446395904,keep_project,We're excited to work with the @anchorage team to bring $KEEP support to their products! We can't wait to see stake delegation and earning directly from custody 🤯🚀 https://t.co/wLXcTa2Fv6,23,1,6,2020-06-25
+364,2020-06-26 21:16:48+00:00,1276625484361740288,keep_project,@hasufl @SomsenRuben @NotASithLord @NotASithLord  Have some pie 🥧 👉 https://t.co/twESj51aG5,0,0,0,2020-06-26
+365,2020-06-27 01:43:18+00:00,1276692549110050818,keep_project,@_prestwich @zeropassio @Blockstream 😊,1,0,0,2020-06-27
+368,2020-06-28 11:29:36+00:00,1277202484310749189,keep_project,"Number go up 📈 😎
+
+https://t.co/g5hioS01kQ",13,1,3,2020-06-28
+370,2020-06-29 20:57:20+00:00,1277707750261350401,keep_project,"“DeFi’s increasing complexity is beginning to expose the inadequacies of cold storage custody and manual human operation” - @diogomonica 
+
+We agree, and are excited to have @Anchorage supporting $KEEP bridging #BTC and #ETH. 
+
+https://t.co/wP78OP9GxI",18,0,6,2020-06-29
+371,2020-07-01 18:50:07+00:00,1278400507715952642,keep_project,Oh! #bitcoin #ethereum 👨‍❤️‍💋‍👨 https://t.co/78cMbW6S6F,10,0,1,2020-07-01
+372,2020-07-02 17:54:21+00:00,1278748861000007681,keep_project,"@art3xin @__svvurve Join our Discord, we're helping people troubleshoot live!
+
+https://t.co/Bx75zHiHMP",1,0,0,2020-07-02
+373,2020-07-06 16:36:17+00:00,1280178769182015493,keep_project,@devops199fan @fcmartinelli @mikeraymcdonald @compoundfinance @synthetix_io @Instadapp @thorchain_org ❤️,2,0,0,2020-07-06
+376,2020-07-07 21:40:10+00:00,1280617629498126337,keep_project,"@BitStern @ICODrops Probably the stakedrop / ETH staking. We were loosely planning to flip the switch tomorrow, though we'll be pushing it out for a tBTC bounty program launch",2,0,0,2020-07-07
+382,2020-07-08 20:45:56+00:00,1280966369106853889,keep_project,@BatmanDeFi @avalancheavax @NexusMutual @AmpleforthOrg @HughKarp You've won a thing on Discord but we can't find your new username! DM us?,0,0,0,2020-07-08
+384,2020-07-09 14:20:41+00:00,1281231807292289024,keep_project,"This month the prize pool was 2 million KEEP. There were a number of great contributions this month, over 300 entries, &amp; over 100 community members received prizes of 5k+ KEEP.
+
+Check out the results and how to get your entry in for July in our blog post: https://t.co/ze3IyzsTcq",13,2,6,2020-07-09
+386,2020-07-10 00:01:23+00:00,1281377944229879809,keep_project,@BatmanDeFi @avalancheavax 😄,0,0,0,2020-07-10
+387,2020-07-13 17:58:16+00:00,1282736115909365761,keep_project,@devops199fan 🧐,1,0,0,2020-07-13
+390,2020-07-16 16:42:18+00:00,1283804160002076676,keep_project,"@z0rk11 @MessariCrypto https://t.co/D3mOlsb6B5
+
+☝️where you want to watch",1,0,0,2020-07-16
+399,2020-07-17 18:34:12+00:00,1284194708449828866,keep_project,"July’s Playing for Keeps Judge is @BisonTrails’ @ViktorBunin. Viktor is approaching the entries from an infrastructure perspective. 
+
+A few things he'd like to see this month:
+- @graphprotocol subgraphs 📈
+- Node management tools 🛠️
+- Network event alerts 🚨
+- Documentation 📜",20,2,7,2020-07-17
+401,2020-07-21 00:17:53+00:00,1285368364500738051,keep_project,@Kevinarthur08 @BisonTrails @zengmi2140 Never change! 😘,0,0,0,2020-07-21
+403,2020-07-22 20:15:06+00:00,1286032040811352070,keep_project,@devops199fan @spencernoon @OurNetwork__ @Instadapp @PoolTogether_ @NexusMutual @opyn_ @thrilok_kumar @jonitzler @lay2000lbs @richardchen39 @snarkyzk 🥰,1,0,0,2020-07-22
+404,2020-07-24 16:34:18+00:00,1286701251980337154,keep_project,"While #tBTC is our flagship open-source project, Keep has a number of other exciting use cases. ⚒️
+
+@veradittakit of @panteracapital breaks down the serious need for privacy on public chains, how Keep works, and some of the use cases it unlocks.
+
+https://t.co/P4RklxCx3l",14,0,2,2020-07-24
+405,2020-07-25 15:26:33+00:00,1287046588410613761,keep_project,"Interested in Keep's token grants? The community has built an explorer!
+
+https://t.co/7oeMKCdPs0
+
+You can follow the team and early purchasers, as well as grants from Playing for Keeps.
+
+Learn more in our transparency report
+
+https://t.co/4GuZk4k0B0",17,0,5,2020-07-25
+406,2020-07-26 23:49:42+00:00,1287535596030885888,keep_project,"@JonGalt14 @defiprime @MakerDAO @compoundfinance @BisonTrails @staked_us @FigmentNetworks @getnuo @SetProtocol @RadarRelay @argentHQ @deversifi We did our best to make sure there was a strong argument against disposal, in the jurisdictions with which we are familiar. You can deposit for a TDT and lend it, getting back the ""same"" BTC- strong stuff.
+
+That's the best we can offer without crossing the line, unfortunately.",1,1,0,2020-07-26
+408,2020-07-28 14:28:22+00:00,1288119110417575936,keep_project,"#Millennials are increasingly turning to banking alternatives and opting for financial tools that better fit their needs. 
+
+@mhluongo describes for @coindesk how doing so is reshaping the #future of money, and strengthening #DeFi, and reducing middlemen.
+
+https://t.co/Mo0NWzeFJd",19,0,7,2020-07-28
+409,2020-07-29 01:47:56+00:00,1288290128377643008,keep_project,@alterkahn It's Happening!!!,1,1,0,2020-07-29
+412,2020-08-06 16:36:45+00:00,1291412910477127680,keep_project,@CarlGocht ⌚⌚⌚,1,1,0,2020-08-06
+413,2020-08-08 19:34:49+00:00,1292182495467798528,keep_project,@soymustafa @mhluongo @stocktoflow @liamzebedee Please check out the transparency report and Messari disclosures.,0,0,0,2020-08-08
+418,2020-08-10 21:20:32+00:00,1292933877066018830,keep_project,"Check out https://t.co/Ud8IklaVZW - a site dedicated to the winners of Playing for Keeps so far!
+
+4 more days to qualify for this month's Playing for Keeps, where another 2M $KEEP will be won by the community to help bootstrap the network.
+
+Get involved! https://t.co/Bx75zHiHMP",18,0,5,2020-08-10
+419,2020-08-11 02:52:27+00:00,1293017404549865472,keep_project,"@cryptoisback @AlexMasmej @renprotocol @lightcoin wrote.a thing
+
+https://t.co/75pSdTFWvO",2,1,1,2020-08-11
+420,2020-08-17 11:21:57+00:00,1295319952325578752,keep_project,@IvanOnTech Will do :),1,0,0,2020-08-17
+423,2020-08-18 16:24:09+00:00,1295758393928491008,keep_project,"@BaRenProphet @aliatiia_ @renprotocol It was audited, but audits aren't a guarantee of safety. The issue was found by our team, and we paused deposits 2.5 hours after noticing an issue.",2,2,0,2020-08-18
+426,2020-08-20 20:56:24+00:00,1296551681597911040,keep_project,"There were a ton of GREAT community contributions this month - the full list of 150+ winners is in our Discord announcements channel at https://t.co/Bx75zH16of.
+
+Join us to get your entry in for our upcoming Playing for Keeps round &amp; watch for info leaks on our community quest 🕵️",6,0,0,2020-08-20
+431,2020-08-21 02:43:24+00:00,1296639006378270720,keep_project,"@sitonakamoto @ViktorBunin @BisonTrails We don't want you to buy it. Earn it.
+
+4500 users and growing on Discord 📈
+Community has won over 8M KEEP so far for contributions across translations, design,  tech.
+Another 25% of the supply going out in the public stakedrop.
+
+No need to buy anything 😄",3,1,0,2020-08-21
+432,2020-08-25 15:57:41+00:00,1298288445610229765,keep_project,"The stake drop, obviously. https://t.co/TqCPJdJARU",21,1,7,2020-08-25
+433,2020-08-26 23:34:28+00:00,1298765787658948608,keep_project,"@CryptoloJ @renprotocol No need to partner- these protocols are all permissionless, right?",0,1,0,2020-08-26
+434,2020-08-27 16:32:09+00:00,1299021897062121473,keep_project,"@Crypto__Ronin @RedBookOwl @ChrisBlec @BitGo @renprotocol @pTokens_io It wasn't hacked- our team found an issue and paused new deposits. No depositor funds  were at risk, and no funds were lost.
+
+Here are the details!
+
+https://t.co/hUV2YxMFkE",0,1,0,2020-08-27
+436,2020-08-28 22:51:55+00:00,1299479855684300807,keep_project,@BlockchainBard 🤔 not certain reducing the signer set to 5 team members is a good idea,1,1,0,2020-08-28
+442,2020-08-29 17:28:19+00:00,1299760806620532736,keep_project,"@Crypto__Ronin @renprotocol Hadn't seen this, we'll give it a read.",1,0,0,2020-08-29
+443,2020-08-30 19:34:49+00:00,1300155029307961344,keep_project,"@Coinsandtoken @dawinchi_0 Not sure what you're on about here, but if you want to join us and Play for Keeps, check out the Discord! https://t.co/e7zbGDgSGl",0,0,0,2020-08-30
+444,2020-08-31 15:51:23+00:00,1300461188489318401,keep_project,"@etiennexyz We're a quiet bunch 😄
+
+The Discord is hopping though. https://t.co/e7zbGDgSGl",1,0,0,2020-08-31
+446,2020-09-01 02:36:57+00:00,1300623652308779010,keep_project,@r3lik @TrustlessState @VitalikButerin Hi 👋,6,1,0,2020-09-01
+449,2020-09-02 12:46:43+00:00,1301139490912849921,keep_project,@factcheckmypost @22loops @RyanWatkins_ @renprotocol @MessariCrypto Now do Liquid!,0,0,0,2020-09-02
+451,2020-09-03 21:51:00+00:00,1301638851312705537,keep_project,"@MacRondy Maybe this helps?
+
+https://t.co/j9MhKTqpig",1,0,0,2020-09-03
+453,2020-09-10 15:09:51+00:00,1304074617351475200,keep_project,"We were stoked to be part of Southeast Asia #DeFi Week last month! 
+
+@CReckhow and @jasonchewyl talked KEEP + #tBTC, our community incentives: PFK and Stakedrop, and how running nodes could earn you KEEP!
+
+Check out the replay at: https://t.co/7DEeI5FROs",14,0,3,2020-09-10
+455,2020-09-16 19:27:31+00:00,1306313784693346306,keep_project,@Hardcorecoin 🤑,1,0,0,2020-09-16
+460,2020-09-18 22:32:07+00:00,1307085016887894019,keep_project,"Our guest judge for September's Playing For Keeps is @_prestwich! We asked him what he'd be interested in seeing contributed this month (It's pretty #BTC focused!)
+
+Check out the blog post here:
+https://t.co/5fxOXe3tLb",28,1,6,2020-09-18
+466,2020-09-19 22:26:09+00:00,1307445906661355522,keep_project,@Bitcoinnwise @TrustlessState @PeterMcCormack 👋,19,2,1,2020-09-19
+467,2020-09-20 17:23:22+00:00,1307732093703729156,keep_project,@thechaz @AlexSaundersAU @PeterMcCormack @WrappedBTC @synthetix_io @PieDAO_DeFi @renprotocol Yes.,1,1,0,2020-09-20
+469,2020-09-22 18:50:54+00:00,1308478900843012097,keep_project,"@DegenSpartan @AKon14496207 @ChainLinkGod @1inchExchange @CurveFinance @UniswapProtocol But yeah, it's nice to have a new undistributed token for times like this.",0,0,0,2020-09-22
+477,2020-09-23 19:58:11+00:00,1308858217309536257,keep_project,@Kevinarthur08 @Krzyszt51912412 Thanks! Looks like we're at 5.2k ETH bonded now so we have more room to grow,0,0,0,2020-09-23
+493,2020-09-24 17:35:11+00:00,1309184621385576448,keep_project,@DZack23 Well we had to leave something for v2 😂,2,1,0,2020-09-24
+496,2020-09-25 01:28:16+00:00,1309303677006610435,keep_project,"@RenIsLyfe @zhusu @greenheapXBT @tBTC_project That chart has a mistaken query by a community member- @jonitzler fixed it. tBTC has stayed &gt;130% ETH collateralization for the fallback security bonds since rc.1's launch.
+
+Is this 90% undercollateralized network chart also a mistake? It says ""secure""? 🧐 https://t.co/yigiVrGdhy",12,2,1,2020-09-25
+503,2020-09-26 13:47:55+00:00,1309852200584318977,keep_project,@patrickpray @DegenSpartan @TornadoCash @renprotocol @tBTC_project @Liquality_io @jelly_swap @thorchain_org We've got 5 and 10 BTC lot sizes... but yeah please don't bridge your tainted coins 😅,0,1,0,2020-09-26
+505,2020-09-27 02:12:37+00:00,1310039613076054016,keep_project,@JBmastercrypto @patrickpray @DegenSpartan @TornadoCash @renprotocol @tBTC_project @Liquality_io @jelly_swap @thorchain_org So does Coinbase.,0,2,0,2020-09-27
+511,2020-09-29 02:40:05+00:00,1310771301620092930,keep_project,@DorKonforty @BatmanDeFi I believe that's per week.,0,0,0,2020-09-29
+514,2020-09-30 10:52:04+00:00,1311257497471156230,keep_project,@zksync 😎,1,0,0,2020-09-30
+515,2020-10-01 14:18:02+00:00,1311671721125122049,keep_project,"tBTC is already useful for Ethereum DeFi, and we are excited to announce our second integration is scalable, EVM compatible, and mobile first. #Bitcoin holders will soon have access to @CeloOrg using tBTC.
+
+https://t.co/p3IVaFUnF7",81,0,28,2020-10-01
+524,2020-10-02 18:45:19+00:00,1312101371835940864,keep_project,@AdamDraper 😎,10,0,0,2020-10-02
+529,2020-10-04 15:00:47+00:00,1312769643237572608,keep_project,"@GeistLight @cyber_hokie @gr0kch8n @ercwl @wycdd @Obstropolos @the_matter_labs TDTs are the IDs for UTXOs, yes. Fungible TBTC are not UTXOs, but they're backed and exchangeable for TDTs",0,0,0,2020-10-04
+530,2020-10-05 19:56:04+00:00,1313206340647518208,keep_project,@ChainLinkGod @big_linkie @renprotocol @chainlink Planning to add more options in v2. Cross-chain assets like $LINK would be a good fit since they're more likely to be available on new sidechains.,2,1,0,2020-10-05
+539,2020-10-07 17:04:11+00:00,1313887859896590336,keep_project,"Custody support for $tBTC has been added by @Gemini. Users may now store and manage their tBTC tokens here: https://t.co/OirK43TD6b
+
+For more information: https://t.co/TjUeRNCTzI",38,8,6,2020-10-07
+540,2020-10-08 01:03:39+00:00,1314008522091364352,keep_project,"@BatmanDeFi @reachlang @Algorand Will it? Curious, it seems like different chains can offer users different trade-offs?",2,0,0,2020-10-08
+541,2020-10-11 23:45:31+00:00,1315438412112048128,keep_project,@hellomoon54321 @charlie_eth @AaveAave @iearnfinance @bneiluj This is alarmist. It's an intentional protocol design choice that's relevant for signers competing for rewards- not users.,1,0,0,2020-10-11
+542,2020-10-12 16:11:37+00:00,1315686569341259776,keep_project,@rayjtong @PetrieKayleigh @krugman25 Discussion going on on the @NexusMutual Discord. Looks like the last week's payout is first-come-first-serve.,1,1,0,2020-10-12
+543,2020-10-13 15:55:44+00:00,1316044960010039296,keep_project,"What's that? KEEP on @ProjectSerum?
+
+👀
+
+https://t.co/D0Em4STsqG",19,0,7,2020-10-13
+544,2020-10-14 11:30:27+00:00,1316340590771154944,keep_project,@strudelfinance @mhluongo @CeloOrg @summa_one Why not both?,0,1,0,2020-10-14
+547,2020-10-15 19:01:23+00:00,1316816457389334528,keep_project,"Emerido for https://t.co/6fWvJuFzPI, an excellent dashboard for tBTC deposits!
+
+Chang for making tBTC on zkSync happen. All holders of the torch thank you! 🔥🙏
+
+Chandru for https://t.co/XhuH6Wgjk5, bot work, and Uniswap markets!",6,1,1,2020-10-15
+553,2020-10-18 11:02:44+00:00,1317783164132200450,keep_project,@santimentfeed @kinsnifa @PhilCrypto77 @Multi_Exchange @zer0sumgame1 @DeFiRate @decentralistdan @TotleCrypto @Coin98Analytics @wersus32 This is incorrect. The tBTC rc.1 has a supply cap for 5 more weeks.,2,0,0,2020-10-18
+557,2020-10-22 16:17:04+00:00,1319311820579012613,keep_project,@SquanchyTrades @Jaygold09708393 @CurveFinance Then no need to use any of these pools :),0,1,0,2020-10-22
+561,2020-10-23 23:13:00+00:00,1319778882325778432,keep_project,"@JonGalt14 @sserrano44 Each platform has their own way of reporting, but usually there are two components
+
+1) ""Natural"" yield, eg fees from people using the exchange you're an LP for
+
+2) And liquidity incentives, like those offered by @SushiSwap and @CurveFinance in their native token",1,1,0,2020-10-23
+565,2020-10-26 11:20:42+00:00,1320686790982905856,keep_project,"@sakulstra @chalten97 @CurveFinance @harvest_finance https://t.co/XhuH6WxUIF and a number of others. 5.3k has been minted, 4.4k redeemed",2,0,0,2020-10-26
+567,2020-10-29 15:35:09+00:00,1321837988838576128,keep_project,"@TomZarebczan @renprotocol @WrappedBTC Check out this post by @lightcoin for a third-party technical take.
+
+https://t.co/oImwcIlkDb",2,1,0,2020-10-29
+570,2020-11-03 14:40:40+00:00,1323636216877690881,keep_project,@eip1559 @mhluongo No.,1,1,0,2020-11-03
+573,2020-11-05 18:50:44+00:00,1324423924268949505,keep_project,"Is your #BTC still sitting on the sidelines of DeFi? 🧘
+As the price moves moonward, make sure you are able to make your BTC work for you and earn returns using @tBTC_project  with this guide from @DefiantNews and @CReckhow:
+https://t.co/9HWjEC6XMM",20,0,11,2020-11-05
+574,2020-11-07 20:35:30+00:00,1325175062866120705,keep_project,@TheCoindicator 80k,0,1,0,2020-11-07
+575,2020-11-08 13:07:03+00:00,1325424596145889281,keep_project,"@DefiLlama @thorchain_org @harvest_finance @picklefinance @HegicOptions Looks great, and it's not even including the ETH or KEEP behind tBTC 😎
+
+https://t.co/XhuH6WxUIF",3,0,0,2020-11-08
+576,2020-11-09 22:01:03+00:00,1325921368337215488,keep_project,"The stakedrop rewards contracts have launched on mainnet! 25% of the token supply can be earned by stakers operating tBTC.
+
+If you want to stake and own part of the network, join us.
+
+https://t.co/e7zbGDgSGl https://t.co/kPB0Altkve",11,2,4,2020-11-09
+578,2020-11-11 01:44:01+00:00,1326339869199757314,keep_project,@TheoRochaix @harvest_finance The APY does the work,0,0,0,2020-11-11
+579,2020-11-12 19:59:00+00:00,1326977816882262021,keep_project,"Bitcoin on Ethereum is exploding right along with the market 🚀
+
+The growth of @tBTC_project is no coincidence - the supply cap lifts soon, and bitcoiners recognize that for safe access to stacking sats using DeFi, tBTC is the best trustless option.
+https://t.co/0VcyoMWnQT",23,0,3,2020-11-12
+581,2020-11-15 12:06:34+00:00,1327946089518018561,keep_project,@skumbagt @SwerveFinance @tBTC_project Best BTC APY on Curve right now @SwerveFinance 🤷,3,0,0,2020-11-15
+583,2020-11-16 21:48:45+00:00,1328454987786010625,keep_project,"Our community is pretty amazing - we have seen builders come together to create tooling and other outstanding contributions to both Keep and @tBTC_project.
+There are tons of hidden gems on Discord, but we want to show off a bit - check out these projects!
+
+https://t.co/YuiJxPqLoa",40,0,13,2020-11-16
+584,2020-11-19 15:28:49+00:00,1329446540809793538,keep_project,"This great piece from @OKExInsights breaks down tokenized #BTC options with insights from @CReckhow.
+
+We agree - @tBTC_project is most focused on the ethos defining aspects of security and decentralization, and things are only getting started 🚀
+
+https://t.co/8fL2Hy0VU2",13,1,3,2020-11-19
+587,2020-11-20 21:04:35+00:00,1329893425584345088,keep_project,"@ildidetka created an awesome tBTC browser extension based on another community project @KeepScan!
+
+https://t.co/P41SeN3oJU",5,1,2,2020-11-20
+593,2020-11-23 18:20:20+00:00,1330939253455458306,keep_project,@iamDCinvestor 👋,3,0,0,2020-11-23
+594,2020-11-24 14:22:19+00:00,1331241744533434376,keep_project,"@l100000003 @_WhenMoon_ @krakenfx @AragonProject @kusamanetwork We don't give investment advice, but on the tech side BSV is dangerous — easy to 51% attack, which is why it's been delisted on so many exchanges. Be careful.",0,0,0,2020-11-24
+600,2020-11-25 18:43:07+00:00,1331669764004044807,keep_project,@JK_CBC Unsubscribe,0,0,0,2020-11-25
+601,2020-11-27 17:16:25+00:00,1332372719241990150,keep_project,"KEEP is officially listed on @krakenfx 🥳
+
+🟢Live deposits and withdraws 
+💲Trading pairs for USD, EUR, XBT and ETH 
+
+More details on accessing KEEP on Kraken ➡️
+https://t.co/zt9kkRiVDg",34,1,11,2020-11-27
+602,2020-11-29 12:50:00+00:00,1333030449657077761,keep_project,"@yaseen889 Follow the incentives. All of the liquidity is in @CurveFinance.
+
+We don't run tBTC bots or participate directly in the market, but if the community has a proposal or wants to organize, that would be great.",0,0,0,2020-11-29
+604,2020-11-30 14:42:22+00:00,1333421114123546627,keep_project,"@nahuus123 @krakensupport Confirmed, the token is a supply peg, not a price peg — as we can see from the books on Kraken now 🙂",1,1,0,2020-11-30
+606,2020-12-03 17:37:46+00:00,1334552418470813698,keep_project,"@yaseen889 @tBTC_project Of course, but there's no decentralized solution yet. There are two projects working on staking pools now, but they won't be ready for at least a month.",1,0,0,2020-12-03
+615,2020-12-04 01:27:37+00:00,1334670660191260682,keep_project,@BroBanker @statelayer @mhluongo @Bankroll_Status Is this ... Tron?,0,2,0,2020-12-04
+617,2020-12-07 16:30:56+00:00,1335985152447680513,keep_project,"Keep is sponsoring the @gitcoin Grants R8 Hackathon! The 50k KEEP grand prize bounty looks for:
+
+1️⃣Keep stake pooling 
+2️⃣Tools to make staking set up easier
+3️⃣Redeem service: liquidation prevention
+
+More info ➡️ https://t.co/lbuSnQqvM7",28,1,11,2020-12-07
+618,2020-12-09 23:44:34+00:00,1336819056628862978,keep_project,@Phuocloccapital The team doesn't have half the token supply to burn.,1,0,0,2020-12-09
+622,2020-12-11 01:00:26+00:00,1337200535959728129,keep_project,Neat addition to your hackathon toolkit. Would be amazing to see this used in the @gitcoin KEEP / tBTC hackathon submissions! https://t.co/Ps0ICIx5GK,14,1,3,2020-12-11
+623,2020-12-12 05:11:15+00:00,1337626043293765632,keep_project,@DegenSpartan @statelayer @renprotocol @thorchain_org Soon ™️,1,0,0,2020-12-12
+624,2020-12-14 02:22:26+00:00,1338308337683881989,keep_project,"@yaseen889 @tBTC_project That's hasn't been the case with a number of other high yield opportunities, but you're welcome to not participate if the risk isn't right for you.",1,0,0,2020-12-14
+628,2020-12-15 20:53:42+00:00,1338950382391865346,keep_project,"@SquanchyTrades @cryptocrs @jonathantallen1 If you're okay with a centralized option, than's fine.",0,1,0,2020-12-15
+635,2020-12-16 00:28:32+00:00,1339004449507991558,keep_project,@AFDudley0 @roasbeef @tarunchitra Very interested.,4,1,0,2020-12-16
+639,2020-12-17 19:25:02+00:00,1339652847219208192,keep_project,@JBmastercrypto @Krzyszt51912412 @renprotocol @defiprime @defipulse @MakerDAO Cool! Don't love the trust requirement but the lower fees are nice.,0,2,0,2020-12-17
+640,2020-12-18 19:00:07+00:00,1340008961748193280,keep_project,"Keep bounty winners for the @gitcoin G8 Hackathon are in! Congrats to: 
+
+🥇50K KEEP - benlongstaff, Keep Collateral
+🥈20K KEEP - hurek, PEEKER_bot
+🥈20K KEEP - masaun, Keep Stake Pooling 
+
+Winning submissions ➡️ https://t.co/lbuSnQqvM7",18,2,6,2020-12-18
+642,2020-12-19 02:46:59+00:00,1340126451471970304,keep_project,"@AlexT16075417 @CurveFinance We're on Curve!
+
+https://t.co/V3DG4VTz88",5,0,0,2020-12-19
+644,2020-12-22 00:13:16+00:00,1341174931971780609,keep_project,0️⃣⚡😎 https://t.co/8quKFNRLtS,9,1,2,2020-12-22
+647,2020-12-24 20:55:03+00:00,1342212214195970051,keep_project,@SquanchyTrades What is it that @udiWertheimer says? Have fun staying poor?,0,0,0,2020-12-24
+656,2020-12-25 22:20:00+00:00,1342595977895677954,keep_project,@dnkta @lopp We'll get there @lopp.,2,0,0,2020-12-25
+657,2020-12-29 17:20:51+00:00,1343970246458277888,keep_project,"@AlexeyZhuravle4 So that weapon... sort of looks like...
+
+Anyone? Anyone else? Just me?",1,1,0,2020-12-29
+658,2020-12-31 18:25:50+00:00,1344711379043950599,keep_project,@G0Kst @tBTC_project Rewards to operate a node weren't paused. Liquidity rewards needed a refresh from a multisig,0,1,0,2020-12-31
+659,2021-01-01 20:12:16+00:00,1345100550715682822,keep_project,"@hellomoon54321 @BatmanDeFi The flipside of not allowing undercollateralization — when there's not enough ETH bonded in tBTC, you can't mint. Not good UX.
+
+We've got something on the way that we believe addresses both safety and scalability, but in the meantime you can make gobs staking if you have ETH",0,0,0,2021-01-01
+663,2021-01-02 18:14:49+00:00,1345433381811712004,keep_project,"@ethAtStake If you hold onto them and your deposit is redeemed, you earn a rebate on your minting fees in TBTC.
+
+The minting fee right now is low, so it really depends on how much you minted.",0,1,0,2021-01-02
+665,2021-01-04 19:11:43+00:00,1346172473906065409,keep_project,"@STAKINGSEUSS @BatmanDeFi @renprotocol @Wing_Finance Who cares? WBTC is all over DeFi and is safer to hold.
+
+The team is quietly building to take on WBTC, without sacrificing censorship resistance and custodying ourselves, ala Ren.",0,0,0,2021-01-04
+668,2021-01-05 02:52:16+00:00,1346288374886379520,keep_project,"@_pirateat40 @BatmanDeFi @iearnfinance @AndreCronjeTech @bantg @mhluongo ETH goes up relative to KEEP, APY goes down, and vice versa. The emissions will be high for a while longer",2,1,0,2021-01-05
+672,2021-01-06 05:40:20+00:00,1346693058868486144,keep_project,@desoods1 SCAM,0,0,0,2021-01-06
+673,2021-01-12 17:00:00+00:00,1349038430861238273,keep_project,"PFK contribution #95: Keep Node Box
+
+@graemeblackwood created this machined aluminum case for a Raspberry Pi Keep node. Created in Solidworks to standard book dimensions with venting, so your operational node can blend right into your bookshelf. 📕
+
+https://t.co/QTkyxTuUpq",12,0,3,2021-01-12
+675,2021-01-13 03:10:53+00:00,1349192165029777408,keep_project,@MajorCryptoNews @AmandaCassatt You're welcome to ask them!,0,0,0,2021-01-13
+677,2021-01-14 15:57:48+00:00,1349747551927468032,keep_project,"@BatmanDeFi @renprotocol We've got a solution for this dropping soon 😃
+
+Let's avoid going brrrrrrr",2,0,0,2021-01-14
+681,2021-01-15 16:00:01+00:00,1350110499745091584,keep_project,"Playing for Keeps contribution #246: The Original Quest
+
+Dice approached us with a cicada-style quest we hosted on Discord. It brought in several new members with cryptography xp, and was a really clever puzzle that led questers through various community locations. 🕵️‍♀️
+
+#BEF",6,1,1,2021-01-15
+682,2021-01-17 15:49:31+00:00,1350832631978582020,keep_project,"@KaptichLouis Hey! We don't run Uniswap or provide any sort of support, but the community on Discord can help!
+
+https://t.co/e7zbGDgSGl",0,0,0,2021-01-17
+689,2021-01-19 20:25:12+00:00,1351626787881533440,keep_project,"We also love to see new teams jumping in with new tooling - exactly what @ChronoLogicETH did with their automated redemption system. We've awarded a KEEP grant to support the team in building this important piece of infrastructure. 
+
+https://t.co/X3tUPbajL9",12,1,6,2021-01-19
+695,2021-01-21 14:42:38+00:00,1352265353599086597,keep_project,"@FewtureFinance @Moneyguy87 @BadgerDAO If you don't care about physical settlement, you already have that with sBTC.",0,0,0,2021-01-21
+701,2021-01-22 17:55:50+00:00,1352676360376860672,keep_project,"We put together a guide to accessing KEEP, providing liquidity, and staking with a provider or on your own. 📖
+
+If you've been interested in staking KEEP or running a node to help run tBTC and earn rewards, have a look and see if staking is right for you!
+
+https://t.co/8BYWZWpybJ",33,1,14,2021-01-22
+702,2021-01-23 16:00:01+00:00,1353009601613070336,keep_project,"Community Member @evandro_saturn has started producing a development update for the network and community. Check out the first issue, and let him know if you have anything to add for episode 2!
+👩‍💻👨‍💻
+
+https://t.co/RXtuH2ltgp https://t.co/qbewXjRQW7",23,2,3,2021-01-23
+704,2021-01-26 18:14:17+00:00,1354130557035294720,keep_project,"We're moving tBTC contract governance to our community. Our first community election has wrapped up, and we have 8 community members stepping up to take on a role as a community multi-sig. 🔐
+
+Join the community and see what else is happening at https://t.co/Bx75zHiHMP",15,2,2,2021-01-26
+707,2021-01-27 04:02:10+00:00,1354278502019833859,keep_project,"@thorchain_org Hm, you can replace it with an ETHBTC auction pretty easily, or even Uniswap TWAP if you want.
+
+You'll like the next release.",10,1,0,2021-01-27
+713,2021-01-28 15:16:05+00:00,1354810484441014276,keep_project,"Keep Community Dev Workshop #1 is Friday Jan. 29th at 3pm EST 🤩
+
+1⃣Overview of allthekeeps and the subgraph
+2⃣Adding a feature to the subgraph based on Keep smart contracts
+3⃣Adding a feature to allthekeeps
+
+Join us on Discord for the link to join ➡️ https://t.co/Bx75zH16of",9,1,3,2021-01-28
+716,2021-01-29 14:00:10+00:00,1355153766492868612,keep_project,"Yet another strong week for Keep 💪
+
+This week's community built issue of Keep Network Dev Updates by @evandro_saturn is live:
+
+🏊‍♂️KEEP-Only Staking Pool Progress
+👨‍🏭First Keep Community Dev Workshop
+💸Staking Guides 
+
+Full article ➡️ https://t.co/vRL0O1g0rf",28,1,10,2021-01-29
+719,2021-01-31 21:27:29+00:00,1355991115174916102,keep_project,"@FewtureFinance @saddlefinance https://t.co/cdf1fWBjoO should explain it. If you're still confused, you come chat with us on Discord and we'll have you up and running! https://t.co/Bx75zHiHMP",1,0,0,2021-01-31
+720,2021-02-01 20:10:42+00:00,1356334180674789378,keep_project,"Rewards update 🚨
+
+4,535,161 KEEP in rewards was distributed to our users for the most recent staking interval. Claim yours on the Keep Token Dashboard. 
+
+Want to earn staking rewards with us? Check out the Keep staking docs to get started 👇
+
+https://t.co/aqc5aKUOvi",15,1,4,2021-02-01
+722,2021-02-02 03:42:07+00:00,1356447781565693953,keep_project,@MajorCryptoNews We've crossed peak emission. Slowing down from here on out.,2,0,0,2021-02-02
+724,2021-02-03 02:24:35+00:00,1356790658418245633,keep_project,"@MajorCryptoNews Doesn't appear to be the case 🤷
+
+Regardless, we'll keep on building.",1,0,0,2021-02-03
+725,2021-02-04 16:17:51+00:00,1357362742500478976,keep_project,"@dnkta @scott_lew_is @defipulse $280M and counting.
+
+https://t.co/4X495wIjTb",3,0,0,2021-02-04
+726,2021-02-08 17:45:18+00:00,1358834303229124616,keep_project,"The following rewards were distributed 🧑‍🚀🚨
+
+✅ The most recent staking interval 
+✅ Keep Community @decentraland meetups
+✅ A batch of mega-PfK winners 
+✅ tBTC Ropsten testnet challenge winners
+
+Join us on Discord for more opportunities to earn 👇
+
+https://t.co/Bx75zHiHMP",16,0,6,2021-02-08
+728,2021-02-09 14:47:38+00:00,1359151979298185222,keep_project,"Today at 1:20pm EST our founder @mhluongo is speaking on the @EthereumDenver panel “War &amp; Peace: The Multi-Chain Reality” with @MessariCrypto, @cosmos, @parsiq_net, @NEARProtocol, and @ParityTech 👏🎙️
+
+Join us here ➡️ https://t.co/XKYSFRb2sh",32,1,10,2021-02-09
+729,2021-02-10 21:39:55+00:00,1359618121028546564,keep_project,The dashboard is back 💪,12,0,0,2021-02-10
+735,2021-02-11 19:54:09+00:00,1359953894357540868,keep_project,"@DigiClemR It's under the Liquidity section of our token dashboard 👇
+
+https://t.co/nbipmva6IC",0,0,0,2021-02-11
+737,2021-02-12 00:25:35+00:00,1360022201374806020,keep_project,"The Keep community continues to support the recently launched KEEP-only staking pool which has already successfully drawn many new users into our ecosystem 🤩
+
+Our friend @cryptocrs built a step by step guide on how to use the new pool 👏
+
+https://t.co/fd0BDkHxoe",25,0,9,2021-02-12
+738,2021-02-13 16:55:18+00:00,1360633658542067720,keep_project,"@luckydo89387437 @evandro_saturn The team can't comment on CEX listings. Exchanges can choose to list or not freely. Definitely recommend joining us on Discord for this type of discussion with our community 💪
+
+https://t.co/Bx75zHiHMP",0,3,0,2021-02-13
+739,2021-02-14 13:53:14+00:00,1360950230527709184,keep_project,@zui08114 @nahuus123 It's not 2017 — we don't have to update a whitepaper to ship code!,1,1,0,2021-02-14
+741,2021-02-17 21:24:39+00:00,1362150994482663425,keep_project,"Keep v1 community governance is underway! We transferred ownership of the tBTC v1 contracts to our community multisig. This is a major step towards empowering our community for the long-run 💪
+
+Full details on our governance system and how to get involved:
+https://t.co/1TMhJe9enf",45,2,19,2021-02-17
+743,2021-02-19 12:18:30+00:00,1362738326718005254,keep_project,@BatmanDeFi @ethereum We'll get there!,0,0,0,2021-02-19
+746,2021-02-20 01:16:27+00:00,1362934105009250311,keep_project,@corolari @saddlefinance Good catch! Miscommunication on our part.,0,0,0,2021-02-20
+748,2021-02-22 19:10:09+00:00,1363929087677464577,keep_project,"Introducing the Keep Community Fellowships and Developer Grants Program! 
+
+🚘Accelerating adoption of the Keep and tBTC ecosystem 
+👷Continuing to build with our community
+💰2M KEEP allocated for Wave 1
+
+Learn more and apply👇
+
+https://t.co/Ai9hEiTEbf https://t.co/Djxv3hdNSf",23,0,7,2021-02-22
+751,2021-02-23 14:49:34+00:00,1364225894785585157,keep_project,@TheReal_DeFi @krakenfx Not at the moment. The entire process for staking KEEP is described here - https://t.co/roOuALtbz9. Let us know if you have any questions on how to get started 🙂,1,0,0,2021-02-23
+752,2021-02-24 00:10:35+00:00,1364367081244868619,keep_project,"Our community has proposed reducing current staking emissions to increase the allocation for @tBTC_project v2.
+
+1⃣Reduce rewards by 30% for next 6 months 
+2⃣Cut all rewards after 2022 to 0
+3⃣Save 50M KEEP in funds for launching v2
+
+Read the full KIP👇
+
+https://t.co/c6W5MgeHd7",37,3,10,2021-02-24
+753,2021-02-26 15:01:30+00:00,1365316064977039362,keep_project,"Rewards update 🚨
+
+The following liquidity rewards were distributed today:
+
+✅ Uniswap TBTC/ETH - 25k KEEP
+✅ Uniswap KEEP/ETH - 170k KEEP
+✅ Uniswap KEEP/TBTC - 100k KEEP
+✅ @saddlefinance BTC - 250k KEEP 
+ 
+Claim rewards on the Keep Token Dashboard👇
+
+https://t.co/nbipmva6IC",27,1,9,2021-02-26
+756,2021-03-01 14:30:01+00:00,1366395305437069314,keep_project,@mirzerin Contact a Community Manager on Discord if you have an issue with the verification system. We have a Telegram channel here - https://t.co/sQDs1DLeOg,0,0,0,2021-03-01
+759,2021-03-02 21:00:16+00:00,1366855902272368640,keep_project,"📢KIP-003 passed via a Keep Community Multisig vote.
+
+As a result this is the last week for incentives on the Uniswap KEEP / TBTC liquidity pool. Final rewards will be distributed on Friday March, 5th. 
+
+Get involved with Keep governance👇
+
+https://t.co/hQe0HGfUIJ",15,0,3,2021-03-02
+760,2021-03-04 16:42:00+00:00,1367515682267680769,keep_project,"@DigiClemR This is not on the roadmap. Recommend getting involved with our community and governance system. Join us on Discord for more details 👇
+
+https://t.co/Bx75zHiHMP",1,0,0,2021-03-04
+761,2021-03-05 19:44:42+00:00,1367924049800814592,keep_project,"Keep liquidity rewards are topped-up 🤩
+
+The distribution for this week:
+
+25K KEEP to Uniswap TBTC / ETH
+170K KEEP to Uniswap KEEP / ETH 
+250K KEEP to @saddlefinance 
+
+Reminder that our community voted to remove Uniswap KEEP / TBTC incentives which went into effect as of today.",16,3,4,2021-03-05
+763,2021-03-07 13:30:06+00:00,1368554554464350211,keep_project,We did that 😄 https://t.co/hagZD5vpiu,47,0,5,2021-03-07
+764,2021-03-08 22:01:07+00:00,1369045543306092547,keep_project,@FzCrypto @ljxie The first step in the proposed implementation plan is a new staking contract that supports both Keep and Nu as work tokens. If the proposal is passed by both communities there could be a new token but that is up to the potential new DAO and governance system to decide.,4,1,0,2021-03-08
+774,2021-03-09 15:25:20+00:00,1369308326241181703,keep_project,"We are holding a Keep Community Wide Call to discuss the @NuCypher hard merge proposal with @mhluongo and @dougvk 💪
+
+🗓️ Wednesday March 10th at 1:30pm EST
+❓ AMA for our community to ask any #CodenameKEANU questions
+
+Link to join👇
+
+https://t.co/Bx75zHiHMP",39,2,10,2021-03-09
+777,2021-03-10 17:30:27+00:00,1369702200788848640,keep_project,"A Keep Wide Community Call to discuss the @NuCypher hard merge proposal with @mhluongo and @dougvk starts in one hour at 1:30pm EST 🚨
+
+Join us on Discord for the call link👇
+
+https://t.co/Bx75zHiHMP",33,0,8,2021-03-10
+780,2021-03-11 20:39:47+00:00,1370112237537538060,keep_project,@LawLingo @TigerWallStree @NuCypher For the new token?,0,1,0,2021-03-11
+789,2021-03-12 21:07:15+00:00,1370481536185872390,keep_project,@AndyM28670136 @NuCypher The first step in the proposed phased implementation plan is a new staking contract that accepts both KEEP and NU as work tokens. There could be another token. This would be up for both communities to decide. Stay connected with both projects for more detail on this 👌,2,0,0,2021-03-12
+798,2021-03-14 03:21:07+00:00,1370938010485858306,keep_project,"Interested in using KEEP on @CreamdotFinance? Check out this proposal from the community and share your thoughts!
+
+https://t.co/wUv5zvqXrY",33,3,9,2021-03-14
+800,2021-03-15 13:55:17+00:00,1371459993229275141,keep_project,"@ThinhLe63664993 @KyrosVentures @polkastarter @PancakeSwap @Chromia @TomoChainANN Hello 👋. We have a great global community and want to invite you to join us on Discord - 
+
+https://t.co/Bx75zHiHMP",1,1,0,2021-03-15
+802,2021-03-16 01:37:47+00:00,1371636780966027265,keep_project,@cuihuabin5789 @NuCypher The team isn't involved with exchange listing decisions but you can contact Coinbase and ask,0,1,0,2021-03-16
+803,2021-03-17 15:55:50+00:00,1372215104901681154,keep_project,@BOY80238511 @NuCypher The team isn't involved with listing decisions but you can contact exchanges directly🙂 https://t.co/JrCB3gXDbR,0,1,0,2021-03-17
+807,2021-03-19 22:25:21+00:00,1373037908454748161,keep_project,"Snapshot results are in! Stakers voted 100% in favor, with over 22M KEEP represented. The KEEP staking emissions change proposal has moved onto the Keep Community Multisig for ratification🗳️
+
+You can verify results and details on the snapshot page here: https://t.co/5aZWXwhq21",34,4,8,2021-03-19
+809,2021-03-20 17:59:00+00:00,1373333264283361281,keep_project,"@CBarraford @TheRuneRanger @renprotocol @thorchain_org On the contrary, tBTC *only* focuses on Bitcoin, and brings Bitcoin to an actual functioning DeFi ecosystem.",0,1,0,2021-03-20
+814,2021-03-21 19:59:46+00:00,1373726047485710336,keep_project,"After several rounds of signaling the Keep Community Multisig passed the KEEP staking emissions change proposal! 
+
+The new community built emissions schedule will be implemented next week at Stakedrop Interval 20 🙌
+
+Get involved with Keep governance👇
+
+https://t.co/Bx75zHiHMP",30,0,7,2021-03-21
+815,2021-03-23 00:21:40+00:00,1374154341485965312,keep_project,"Our community elected to start with a general yes or no hard merge vote to:
+
+1️⃣ Conduct the vote in a reasonable timeline
+2️⃣ Provide needed clarity to both communities on if the hard merge will pass
+3️⃣ Give our communities time to work together on final implementation details",12,1,1,2021-03-23
+823,2021-03-24 17:33:55+00:00,1374776504270327808,keep_project,"@JayStanaford @ViktorBunin @AndyM28670136 @NuCypher If the proposal passes in both communities our groups will begin working together to build out the final hard merge implementation details. Definitely recommend getting directly involved in this discussion👇
+
+https://t.co/X4WuNnu7GW
+
+https://t.co/TrXnm7RlgY",8,2,1,2021-03-24
+824,2021-03-25 21:48:52+00:00,1375203053423497217,keep_project,"@YtpEmil @NuCypher If you are a staker, it let's you vote. All off-chain, no funds are moved.",1,0,0,2021-03-25
+826,2021-03-26 14:24:37+00:00,1375453641939816450,keep_project,"@chukwumalijem1 @NuCypher It's safe to hold. This is a process that will take a while, and include upgrade paths for all holders.",0,0,0,2021-03-26
+829,2021-03-29 19:42:33+00:00,1376620817262411776,keep_project,"Whether you’re a #DeFi newbie or a seasoned yield farmer, @zapper_fi has the tools you need. 🧰
+
+Luckily for our community, those tools now include the ability to zap into $KEEP and $tBTC liquidity pools. ⚡
+
+https://t.co/fm9jBXnmDS",40,5,12,2021-03-29
+832,2021-04-02 17:30:02+00:00,1378037016797962241,keep_project,"We're developing tBTC V2 in public - join us in building or participating in essential governance decisions.
+
+Our community is on Discord - https://t.co/Bx75zH16of",12,1,0,2021-04-02
+837,2021-04-05 01:17:50+00:00,1378879519751278593,keep_project,"@ThorChad @THORChain @terra_money @NuCypher It seems like you might misunderstand this model.
+
+An honest majority assumption doesn't mean actors aren't malicious. It means assuming that most aren't — the same assumption that powers Tendermint and a variety of other consensus protocols.",0,2,0,2021-04-05
+841,2021-04-06 00:06:59+00:00,1379224075596308480,keep_project,"👨‍🌾 Yield Farmers 📢
+@vfat12 can now be used to monitor your KEEP gains. Interact with &amp; monitor your APR's in any of the following pools directly from the interface:
+
+- KEEP-Only
+- KEEP-WETH UNI LP
+- TBTC-WETH UNI LP 
+- saddleTWRenSBTC 
+
+Available at https://t.co/WT14cPjJBl",29,0,5,2021-04-06
+844,2021-04-13 20:30:45+00:00,1382068764997390337,keep_project,"Interested in the details, have questions about the proposal, or want to get into the discussion? Head over to Keep forum and get involved:
+
+https://t.co/PpyT8lt6Dw",11,1,0,2021-04-13
+846,2021-04-14 12:41:47+00:00,1382313131066675204,keep_project,"@Moik31581571 @NuCypher Here's where we are in the process
+
+https://t.co/Q3zSlEoJF3
+
+... and here's a new proposal for a novel token for the combined network.
+
+https://t.co/0cwzWs00mA",0,0,0,2021-04-14
+849,2021-04-15 00:53:57+00:00,1382497386174541827,keep_project,"@JGJ1337 @renprotocol @deversifi @loopringorg @Uniswap We're exploring @arbitrum @optimismPBC and @zksync for tBTC v2.
+
+You should be able to being your collateral anywhere.",3,0,0,2021-04-15
+853,2021-04-16 02:11:25+00:00,1382879270133977090,keep_project,"@iloveblockchain @jgarzik @tarheelblueboy @bloqinc You can read about the security model here.
+
+https://t.co/9D86aF8KBG",1,1,0,2021-04-16
+856,2021-04-20 16:04:45+00:00,1384538539682062343,keep_project,@zui08114 @NuCypher They can go to @krakenfx!,2,1,0,2021-04-20
+858,2021-04-22 18:47:32+00:00,1385304278210916360,keep_project,@FewtureFinance @saddlefinance Check out @vfat12! https://t.co/DjfQoRNRVp,1,0,0,2021-04-22
+859,2021-04-27 17:02:46+00:00,1387089852034809856,keep_project,"A new challenger appears! 
+
+A KEaNU hard-merge joint proposal has been published on the forum by @nahuus123 @evandro_saturn, @chalten97, and @corolari.
+
+Goals:
+- Bootstrap tBTC V2 🥾
+- Reward active &amp; past participation 👷‍♂️👷‍♀️
+- Build up DAO treasury 🏰💰
+
+https://t.co/Ito7AboIxZ",29,2,9,2021-04-27
+861,2021-04-29 21:42:15+00:00,1387884964365012995,keep_project,"We've got a special edition drop with @cryptokickers that we'll be giving to several community members. 👟👀
+
+To qualify:
+- participate in the KEANU proposal discussions on the forum: https://t.co/ndxK23F6ax
+- Join the @keep_project + @NuCypher community call tomorrow at 12PM EST https://t.co/oqXJKskKZd",35,2,12,2021-04-29
+863,2021-04-30 14:26:39+00:00,1388137730559852553,keep_project,@THakhunts @nashsocial @0xPolygon @VesperFi @perpprotocol #KeepGoing 🔥,3,0,0,2021-04-30
+865,2021-05-01 01:51:38+00:00,1388310109844131845,keep_project,@V__1337 @MessariCrypto @1inchNetwork @multicoincap @PanteraCapital @paradigm @placeholdervc @Polkadot 👀,0,0,0,2021-05-01
+866,2021-05-02 20:27:32+00:00,1388953324955836421,keep_project,@alphaguy_crypto @alexeiZamyatin @InterlayHQ @WrappedBTC @HBTC_Official @pNetworkDeFi @renprotocol Getting ready to ship that on Ethereum 😎,1,2,0,2021-05-02
+867,2021-05-04 22:12:01+00:00,1389704394833219585,keep_project,"Two major community grants now shipping 🚢
+
+@ChronoLogicETH created the liquidation-avoidance tool https://t.co/2olYbNJzvq
+
+@Ben_Longstaff has taken on the Governance Coordinator Fellowship, and is helping to energize and steward the governance process.
+
+https://t.co/n8H1hCPZT2",20,4,9,2021-05-04
+869,2021-05-05 20:47:55+00:00,1390045615174787094,keep_project,"Thanks to all who participated in the KEANU community calls from the Keep and @NuCypher communities. We announced an NFT giveaway from @cryptokickers for getting active on the forums and joining the call. 👟
+
+The winners of each 1/1 grail are:
+
+👀👀👀
+
+1/4 https://t.co/sudiETeJdu",51,2,8,2021-05-05
+872,2021-05-08 18:59:14+00:00,1391105430668124173,keep_project,"@ChadwickVonApe @Alex_Cote1 @NuCypher @CryptoStache @cryptokickers No comment on exchanges. Right now our communities are working on a final combined proposal for the hard merge. A vote in both communities will happen shortly after. Join our community on Discord to get involved🔥- 
+
+https://t.co/uwNNxUcdKZ
+https://t.co/8rHSfA3ICR",4,0,0,2021-05-08
+873,2021-05-10 13:48:01+00:00,1391751884201943040,keep_project,"The second community Lunch and Learn chat in our Discord server is this Wednesday May 12th at 1pm EST! 🥪 + 📚
+
+Drop by again &amp; chat about where you’re using tBTC &amp; KEEP, or if you've got other fresh farming tips.
+
+https://t.co/uwNNxUcdKZ",5,0,5,2021-05-10
+874,2021-05-11 21:03:58+00:00,1392223983622254592,keep_project,"The T6 Token Proposal is now live for discussion on our forum. The KEANU process only moves forward with community engagement, so thank you to everyone who has contributed so far! 💪
+
+If you'd like to contribute to the current proposal, add your thoughts: https://t.co/pvLkREGsyy",59,5,21,2021-05-11
+876,2021-05-12 16:00:17+00:00,1392509947015991312,keep_project,"The next Keep Community Lunch and Learn starts today at 1pm EST in our Discord server ⚔️ 
+
+Community is discussing the t6 @NuCypher hard merge proposal authored by @Ben_Longstaff and @ViktorBunin. 
+
+Join us to chat about the most recent hard merge info👇
+
+https://t.co/0S6nXMxSG5 https://t.co/ku018hajXQ",21,3,5,2021-05-12
+878,2021-05-13 04:02:38+00:00,1392691732161220612,keep_project,"@ljxie @john_c_palmer @_Dave__White_ @NuCypher Thanks @ljxie!
+
+@_Dave__White_ we've been working on a hard merge with @NuCypher for a while, would love your thoughts. Here are the original and latest community proposals
+
+https://t.co/X4WuNnu7GW
+https://t.co/pvLkREoRH0",6,1,1,2021-05-13
+880,2021-05-16 18:15:17+00:00,1393993472550522890,keep_project,@unmask2405 @chalten97 @NuCypher Should be resolved shortly.,0,1,0,2021-05-16
+882,2021-05-17 20:14:09+00:00,1394385775496777729,keep_project,"Join us at the next Keep Lunch and Learn on Discord this Wednesday at 1pm EST to discuss tBTC v1.5 and Coverage Pools with our community.
+
+Our Discord server can be found at https://t.co/Bx75zHiHMP",8,0,0,2021-05-17
+890,2021-05-19 16:00:22+00:00,1395046682992250884,keep_project,"The next Keep Community Lunch and Learn starts today at 1pm EST in our Discord server ⚔️
+
+Our community will be discussing all things tBTC v1.5 and coverage pools 👀
+
+Join us for more info on these upcoming major project milestones 👇
+
+https://t.co/Bx75zHiHMP https://t.co/OktndjLGx3",9,2,1,2021-05-19
+891,2021-05-20 15:36:03+00:00,1395402952752472066,keep_project,"@ErinDana @Figment_io @NuCypher Part of the design goal in all of the proposals is to not leave any token holders behind! With that in mind we always recommend staking and can help you get started in our Discord 👇
+
+https://t.co/Bx75zHiHMP",4,0,0,2021-05-20
+895,2021-05-21 17:06:30+00:00,1395788103412076547,keep_project,"@txcryptogoddess @ODT_Newton @NuCypher This is true. To learn more about the real Keanu👇
+
+https://t.co/hQe0HGfUIJ
+https://t.co/WcJ85rXiDa https://t.co/ExA3j1qcGH",2,0,1,2021-05-21
+897,2021-05-24 18:35:03+00:00,1396897551324909569,keep_project,"There is a new proposal to add KEEP to @RariCapital Fuse pool 3 supported by @corolari. This would make Rari the first lending protocol to integrate KEEP.
+
+Add your voice - drop in &amp; show your support for integrating KEEP! Get involved at: https://t.co/MybPZP4SfK",46,3,11,2021-05-24
+898,2021-05-25 22:01:05+00:00,1397311788090236928,keep_project,"A second community written blog post exploring the importance of coverage pools to tBTC v1.5
+
+⚠Reduce liquidation risk
+⚖Reduce Collateral req's
+💰Earn KEEP rewards
+
+Have questions? Ask the authors who have done the deep dive - @chalten97 &amp; @nahuus123 
+
+https://t.co/V76kmY0kkW",14,1,8,2021-05-25
+899,2021-05-29 20:55:23+00:00,1398744804910116871,keep_project,"@RobbyLight2 @NuCypher Both teams and communities believe that this will be a net win, but it's a new thing and will take time for everyone to digest.",3,1,1,2021-05-29
+905,2021-06-02 03:40:48+00:00,1399933996583247874,keep_project,@Mahelx @NuCypher Lol we were here first,1,1,1,2021-06-02
+911,2021-06-03 03:36:49+00:00,1400295380559011844,keep_project,"@MrsNUBooty @ChadwickVonApe @NuCypher @CoinbasePro @coinbase Early days, but it *looks* like wrapping NU or KEEP to T will allow easier staking and node operation than either token today.
+
+And anyone already staking either of those can also stake T via an adapter.",2,0,2,2021-06-03
+912,2021-06-04 18:45:34+00:00,1400886461663092736,keep_project,"We've hashed out several versions of proposals, received advice from third-parties, engaged extensively with the Keep and @NuCypher communities - it's now time we take the KEANU rc0 proposal to a snapshot vote.
+
+🗳 The vote opens today - get involved at
+https://t.co/RHHpULc9zU https://t.co/TxirRLjkTX",68,3,19,2021-06-04
+916,2021-06-05 00:55:00+00:00,1400979434774142978,keep_project,@Brunogu88874464 @NuCypher @MrsNUBooty The vote is going on now 😀,2,1,0,2021-06-05
+917,2021-06-07 10:45:00+00:00,1401852688619421701,keep_project,@MisterB7G Not at all. The latest refresh was just delayed over the weekend due to team travel.,0,1,0,2021-06-07
+918,2021-06-08 20:35:25+00:00,1402363657099505666,keep_project,"Don’t forget that the KEANU snapshot is currently live, and open until Friday. If you are an active staker on the network, make sure to head to the snapshot page and vote 🗳
+
+https://t.co/RHHpULc9zU",11,2,1,2021-06-08
+925,2021-06-09 15:40:09+00:00,1402651740508409856,keep_project,"@FlyByWire11 @NuCypher One of the design goals for our community proposals was ""no token holder left behind"". Your total amount of upgraded tokens is determined by a token factor which takes into account the allocated supply of both networks.",6,1,4,2021-06-09
+928,2021-06-10 20:13:54+00:00,1403083020416917505,keep_project,"A new challenger appears! 💥
+
+There's less than 24 hours left to participate in the KEANU Keep-staker snapshot, and a single no vote has turned up!
+
+Do you agree or disagree w/ the direction of the KEANU hard merge? Make sure to vote before the deadline!
+
+https://t.co/RHHpULc9zU https://t.co/xtIOA6I3YQ",33,2,9,2021-06-10
+930,2021-06-11 21:36:20+00:00,1403466150768373762,keep_project,"The KEANU snapshot on the rc0 proposal has passed in both the Keep and @NuCypher communities. Thanks to everyone who participated!
+
+https://t.co/RHHpULc9zU https://t.co/8SZXh6yoeh",41,1,11,2021-06-11
+933,2021-06-13 12:26:05+00:00,1404052451754450944,keep_project,"@Harden_thebeard @NuCypher If you want the T token, you should hold NU or KEEP to wrap. Those who wrap first and stake will be the first to get T rewards.",0,1,0,2021-06-13
+936,2021-06-14 21:15:21+00:00,1404548037100326914,keep_project,@Humphre00101184 @NuCypher 👍,0,0,0,2021-06-14
+942,2021-06-15 01:14:50+00:00,1404608302063968256,keep_project,@selfsearching @captain_badax @NuCypher @coinbase You can wrap to T the same way any other holder might.,0,0,0,2021-06-15
+949,2021-06-16 22:02:40+00:00,1405284720271781889,keep_project,"""The merger, nicknamed Keanu in homage to “The Matrix,” would mark an historic moment for the blockchain industry. ... Many observers expected mergers would be inevitable, but no one knew exactly what form they would take.""
+
+🙌🙌🙌
+
+https://t.co/Rvtu2P8MZj",60,7,12,2021-06-16
+953,2021-06-17 18:24:46+00:00,1405592270225686533,keep_project,@ViktorBunin 🥰🥰🥰,3,0,0,2021-06-17
+954,2021-06-18 18:13:43+00:00,1405951876542001154,keep_project,"Another massive win for the Keep Community! 💪
+
+We know many in our community had been appealing directly to @binance to list KEEP for trade, and they have now answered that call and listed KEEP with BTC, BNB, BUSD, and USDT pairs.
+
+https://t.co/soG5lihdpO",48,15,11,2021-06-18
+956,2021-06-20 21:28:38+00:00,1406725706026045442,keep_project,"@AhmetCa82967032 @webmasts1 95% down! ... from what? Max price with a market has been $1.50, you're reading a bad number off CMC.
+
+Please, please research projects you want to get involved with. Best of luck.",1,3,0,2021-06-20
+959,2021-06-22 16:19:05+00:00,1407372580428865536,keep_project,"@rmartinez710 @CryptoAngel21 @lionhartvision @TKviljus @evandro_saturn @CoinbasePro @binance We're in it for the long haul.
+
+@RemindMe_OfThis in 12 months",8,2,2,2021-06-22
+961,2021-06-24 15:59:37+00:00,1408092455321276423,keep_project,"On June 28th 11am EST, @figment_io’s @stakinghub will host @dougvk and @maclanewilkison from @nucypher to chat about the KEANU merger, and what that will mean moving forward.
+
+Have questions that you want asked? You can add them to the list here: https://t.co/r7Fccw4NPy https://t.co/mKRrm0ek3A",51,1,14,2021-06-24
+962,2021-06-27 00:59:44+00:00,1408953158328537089,keep_project,"@rmartinez710 @GodsoeJosh @CryptoAngel21 @lionhartvision @TKviljus @evandro_saturn @CoinbasePro @binance @RemindMe_OfThis The devs haven't ""rug pulled"" and an asset can't be down more than 100%. 🌠
+
+https://t.co/YV2SseLcG2",6,1,0,2021-06-27
+963,2021-06-28 02:13:40+00:00,1409334149610151941,keep_project,"@adMINHistrator @NuCypher @StakingHub @MacLaneWilkison @dougvk Here's the winning proposal. KEEP and NU can both be wrapped to get T, with the amount depending on a token factor frozen shortly before the T launch.
+
+Note it's not based on price, but ""owned"" supply, which is in flux until the merge.
+
+https://t.co/XYfv2PZtWD",5,0,5,2021-06-28
+969,2021-06-30 16:43:52+00:00,1410277919394463749,keep_project,"Thanks to everyone who joined the community call on Discord today! Great discussion and feedback on coverage pools!
+
+Did you miss this one? Watch for the next community call, drop in and participate, and we'll get you a @poapxyz verifying your community involvement! 🏅",40,0,5,2021-06-30
+970,2021-07-01 18:29:14+00:00,1410666825872904195,keep_project,"KEEP stakers run the Keep network - a decentralized threshold cryptography platform. 
+
+Greater access to the work token brings the goal of ecosystem-wide decentralized private computation closer to reality 🔒
+
+How has it become more accessible? 
+Read more:
+https://t.co/etN1TL4J4b",54,5,23,2021-07-01
+972,2021-07-02 14:17:47+00:00,1410965930797158401,keep_project,"@0xFarms @NuCypher @AlexanderFisher No. Keanu is a codename that was adopted by both of our communities 🙂. The actual name for the upgraded network will be different. If you want to get involved in that discuss join us on Discord - 
+
+https://t.co/Bx75zHiHMP 
+https://t.co/YYQrwzDXoR",7,0,3,2021-07-02
+973,2021-07-08 22:07:00+00:00,1413258342290526210,keep_project,"Our team recently pushed a website update at https://t.co/qVYwX5lrfU. In our latest blog post, we go into the changes, the user feedback from our community that was integrated, as well as some of the behind the scenes design work. 🖌
+
+Check it out at:
+https://t.co/f9dEVzCDdR",34,0,11,2021-07-08
+974,2021-07-12 12:28:49+00:00,1414562387777163265,keep_project,"@LittyBitty555 @NuCypher It's already underway! There is a rough community built roadmap on the initial rc0 proposal on our forums. Next up is DAO. Join us on Discord for the community wide discussion 👇
+
+https://t.co/Bx75zHiHMP",7,0,3,2021-07-12
+975,2021-07-16 20:03:10+00:00,1416126280123117568,keep_project,"The DAO proposal for the upgraded Threshold Network with @nucypher is now live and open for discussion.
+
+Highlights:
+- Bicameral design to integrate token holders &amp; stakers in the DAO 💰🥩
+- Council created from Keep &amp; @NuCypher communities 🤜🤛
+- Proposal flow 📜",54,2,14,2021-07-16
+977,2021-07-20 21:38:18+00:00,1417599775927685129,keep_project,"@thatboicandy @mhluongo @piotrdyraga We'll see how exchanges decide to handle the merge. After the launch as a holder, you can always withdraw and upgrade whenever you'd like though.",5,0,2,2021-07-20
+982,2021-07-21 14:19:25+00:00,1417851713365610496,keep_project,@monieguy @mhluongo @piotrdyraga Yes. There will be a new T token that is obtainable by wrapping current KEEP or NU tokens,2,1,0,2021-07-21
+985,2021-07-22 19:42:33+00:00,1418295419398930433,keep_project,@GodsoeJosh 👀,0,0,0,2021-07-22
+990,2021-07-23 16:02:16+00:00,1418602370645336065,keep_project,@karammilka Not sure we are following your point here but happy that you have Keep in your name!,0,2,0,2021-07-23
+996,2021-07-26 21:42:38+00:00,1419775193459920897,keep_project,@camillionaire_m @cleanunicorn @sasha_tanase 🏆,2,0,0,2021-07-26
+997,2021-07-27 16:55:23+00:00,1420065289425801216,keep_project,"@Tom00003341 @mhdempsey @NuCypher Already underway. Recent updates include:
+
+1⃣Threshold Network is name of upgraded network
+2⃣Threshold Network community forums with DAO proposal 
+3⃣More detail on KEEP/NU transition into T 
+
+More exciting updates en route. All being built in public 👇
+https://t.co/KB95BUQo5P",6,1,4,2021-07-27
+999,2021-07-28 22:41:36+00:00,1420514806600142848,keep_project,"Join the next Keep community call this Friday at 10am EST on Discord. We'll be discussing the proposed shift of incentives:
+
+✂ ETH/TBTC (25K KEEP)
+v1 TBTC pools⏭v2 TBTC pool (250K KEEP)
+KEEP-only pool⏭Coverage Pool (200K KEEP)
+ETH/TBTC🔀Various pools
+
+https://t.co/wBSA8BE8xH",30,5,13,2021-07-28
+1001,2021-07-29 17:21:10+00:00,1420796555246899203,keep_project,@AdemYlmaz221 ❔,0,1,0,2021-07-29
+1002,2021-07-30 20:59:23+00:00,1421213858849492999,keep_project,@investglobal_io @YouTube @defipulse @juicynfts @HegicOptions @perpprotocol @Cointelegraph @decryptmedia @CoinMarketCap If you end up doing that Keep / tBTC deep dive and have any questions let us know 🙌,2,1,0,2021-07-30
+1003,2021-08-02 20:18:30+00:00,1422290734099714051,keep_project,@mohits274 @mhluongo @NuCypher There will be an opt-in wrap mechanism for upgrading into the new T token from KEEP or Nu. The exact amount of T you get as a result is determined by a token factor 👇 https://t.co/ruNJWIor7x,6,2,2,2021-08-02
+1004,2021-08-03 23:01:41+00:00,1422694190102851585,keep_project,"A second proposal for shifting incentives to support the coverage pools &amp; tBTC v2 launches has been posted by @evandro_saturn. The proposal is similar to the first, but maintains current incentives to the TBTC/ETH pool. 
+
+Have thoughts? Get involved at
+
+https://t.co/gsjINB0tRS",33,3,14,2021-08-03
+1006,2021-08-06 11:54:49+00:00,1423613529886806020,keep_project,"🧠😎
+
+https://t.co/Ojb8AdJ9Is",22,2,6,2021-08-06
+1007,2021-08-10 20:02:14+00:00,1425185741487869953,keep_project,@ApsimDavid @punk4464 @RyanWatkins_ We found the issue and took care of it. No exploits so far 🤞 working hard to keep it that way every day.,0,1,0,2021-08-10
+1008,2021-08-13 16:56:39+00:00,1426226202386313218,keep_project,Sorry guys! World's second-ever token 'merger' is still cool though 😀 https://t.co/SeuT5tn3SS,69,9,18,2021-08-13
+1009,2021-08-14 00:03:21+00:00,1426333587671027718,keep_project,@lamedude6969 🧂🧂🧂,4,0,1,2021-08-14
+1010,2021-08-16 23:40:10+00:00,1427414913358696451,keep_project,"The Threshold DAO proposal v2 is now up on the Threshold Network Forum.
+
+After community discussion &amp; a review of the required modifications to the Governor Bravo contracts, there are a couple of alterations to the v1 proposal. https://t.co/8StjDXHcjs",36,3,12,2021-08-16
+1012,2021-08-17 00:26:06+00:00,1427426472977907714,keep_project,"@DrManhattan777 @Baltodannz @NuCypher Here's the GitHub, where you can follow the merge contracts. Note that the T token is coming along, the DAO is close but not finished, and both are awaiting audit
+
+https://t.co/rcKr56LieR",8,1,3,2021-08-17
+1015,2021-08-19 20:27:31+00:00,1428453598128742401,keep_project,"@mhluongo is speaking today at WorldFestival: The Center of World Innovation by @worldfestivalhq. Tune in at 5pm ET for a discussion on Putting the ""Decentralized"" in DeFi - How to Build Decentralized Finance Projects. Tickets are on us 💚👇
+
+https://t.co/eSpA9ZBbhN",5,0,1,2021-08-19
+1018,2021-08-22 18:03:46+00:00,1429504586323267585,keep_project,@janklimo @Crypto_Dep @LidoFinance @BadgerDAO @harvest_finance @CurveFinance @CreamdotFinance @Barn_Bridge @idlefinance @ndxfi @1inch @picklefinance This chart is from 6 months ago 😁,2,1,0,2021-08-22
+1019,2021-08-23 16:05:32+00:00,1429837217208414220,keep_project,"@garypoints @equalligy Don't send this rando a message, seems sus",0,0,0,2021-08-23
+1021,2021-08-25 11:51:07+00:00,1430497969275539456,keep_project,"@webmasts1 @NuCypher @MrsNUBooty What is likely the final proposal for the DAO is going up for a vote. There was some back and forth around permissions per app which will likely get moved to a later discussion.
+
+https://t.co/FwDDPzHRpX",5,0,1,2021-08-25
+1022,2021-08-26 23:57:34+00:00,1431043173778874375,keep_project,"🥩If you are currently staking, the shifts to be aware of are:
+- 250K KEEP rewards moving from v1 TBTC stableswap pools to v2 TBTC stableswap Saddle pool
+- 200K KEEP-only pool rewards moving to Coverage Pools
+- Current incentives of 25k KEEPs weekly in TBTC/ETH pool maintained",12,3,2,2021-08-26
+1023,2021-08-27 11:43:11+00:00,1431220746550980610,keep_project,"@GodsoeJosh The KEEP-only pool is moving to coverage pools soon. If you're a node operator, nothing changes.",0,1,0,2021-08-27
+1024,2021-08-30 16:09:06+00:00,1432374830599389190,keep_project,@muneeb @Mehran8282 @bcmakes @jiceman @RampNetwork @nimiq @bisq_network @LocalBitcoins @ArkadikoFinance 💯,0,0,0,2021-08-30
+1031,2021-08-31 11:36:12+00:00,1432668541396951040,keep_project,@bcmakes @Mehran8282 @jiceman @RampNetwork @nimiq @bisq_network @LocalBitcoins Bingo.,0,0,0,2021-08-31
+1032,2021-09-07 21:10:39+00:00,1435349819053182976,keep_project,"With this proposal passed, the Threshold DAO can be initialized and begin the work of governing the new Threshold Network.
+
+The original DAO v2 proposal has been amended on the main discussion thread on the forum: https://t.co/Hd7yDlxoVT",19,2,6,2021-09-07
+1035,2021-09-15 16:24:47+00:00,1438176983867789316,keep_project,"Given the community discussion that has informed this proposal and edits, There are only two options:
+- Yes, I support the proposal 
+- No, I do not support the proposal 
+
+🗣🗳✍
+
+The snapshot will be open for 10 days, but we encourage the community to voice their support early!",18,1,6,2021-09-15
+1037,2021-09-17 21:09:40+00:00,1438973451197292546,keep_project,"Want a chance to check out product alpha and give feedback? Check out the opportunity from @sasha_tanase.
+👇 https://t.co/3bgQxGDyaL",16,2,5,2021-09-17
+1038,2021-09-23 22:40:57+00:00,1441170749612380168,keep_project,"Our most recent blog is a restatement of our commitment to decentralization through code + math.
+
+When a system is built to be verifiably decentralized, it’s an expression of code as free speech. It’s outside the reach of physical, technological, or jurisdictional interference.",90,7,26,2021-09-23
+1040,2021-09-26 22:24:28+00:00,1442253767009882112,keep_project,"@MoregraceO @MrsNUBooty @NuCypher @TheTNetwork By default, nothing! The merge is an opt-in upgrade. If holders want to continue on their original networks, they can... or they can upgrade, wrapping their KEEP or NU for T.
+
+We'll announce when those contracts go live and holders can wrap and stake.",1,0,0,2021-09-26
+1041,2021-09-28 01:53:05+00:00,1442668655662227456,keep_project,"@MoregraceO @perimetr228 @NuCypher You don't need to do anything. The upgrade is opt-in. Once the contracts go live, you can stick with what you have, upgrade them on-chain, or ask @binance if they plan to support an on-exchange upgrade.",3,0,0,2021-09-28
+1042,2021-10-01 16:49:59+00:00,1443981529638739999,keep_project,@weibiao616 @NuCypher Yes! Upgrading to T in the future will happen by wrapping KEEP or NU 😎,5,1,0,2021-10-01
+1043,2021-10-04 19:17:52+00:00,1445105910469308424,keep_project,@Niunai131 @MrsNUBooty Do you mean tBTC v2?,1,1,0,2021-10-04
+1048,2021-10-06 14:38:01+00:00,1445760261357387781,keep_project,"Join us for a Threshold wide community call this Thursday October 7th (tomorrow) at 2pm ET directly in the Threshold Discord server 👑
+
+1⃣ Project and merge updates 
+2⃣ Arj's Threshold inflation proposal 
+3⃣ Community AMA at the end
+
+POAPs? Yes.
+
+https://t.co/NapYPYTmCw",29,3,6,2021-10-06
+1050,2021-10-07 17:09:59+00:00,1446160889741197317,keep_project,"@karltorrybaby It is well underway and we build in public. You can follow along with progress directly in the Threshold Discord server 👇
+
+https://t.co/NapYPYBLKY",1,0,1,2021-10-07
+1053,2021-10-08 16:35:34+00:00,1446514615819522055,keep_project,"If you want a guide through our new tools, check out this guide from Chandru:
+https://t.co/cK72RiJSAD",22,2,2,2021-10-08
+1055,2021-10-09 01:27:38+00:00,1446648514843451397,keep_project,"@chocorin4 @ZenGo @tBTC_project Yes please! We're in a couple token lists.
+
+https://t.co/6s0EqGQV23",2,1,0,2021-10-09
+1056,2021-10-10 21:30:58+00:00,1447313733798309894,keep_project,@nxm704 @dougvk @MacLaneWilkison @NuCypher @defipulse The audit will be announced when it's done. There's not a merge snapshot though... KEEP and NU holders will be able to freely upgrade to T based on a fixed rate.,0,2,0,2021-10-10
+1057,2021-10-11 16:49:58+00:00,1447605404062584839,keep_project,@karltorrybaby @nxm704 @dougvk @MacLaneWilkison @NuCypher @defipulse The upgraded token is not live yet but you will be able to wrap existing KEEP into T directly on the Keep Dashboard 👑,0,1,0,2021-10-11
+1059,2021-10-15 14:13:05+00:00,1449015476819046400,keep_project,"The @mstable_ proposal to add a tBTC v2 Feeder pool passed with 100% approval 👑🚨
+
+More info on deployment of the new pool will be shared next week. 
+
+In the meantime, join us and @NuCypher today at 3pm ET for a tBTC v2 AMA in the mStable discord server.",125,8,25,2021-10-15
+1060,2021-10-16 00:15:36+00:00,1449167103525888004,keep_project,"@HMAbdou @coefficientvc @NuCypher @MacLaneWilkison @mhluongo Take censorship-resistant loans against your BTC, options, physical settlement. All of DeFi should be Bitcoin-compatible without sacrificing your ownership.",14,2,6,2021-10-16
+1062,2021-10-18 16:03:17+00:00,1450130371958517766,keep_project,"📢 Governance Alert 
+
+There is a new proposal on the Keep forum to extend staking rewards authored by community og Agoristen. 
+
+Thoughts? Get involved in the discussion before it reaches a community multisig vote here 💭✏️👇
+
+https://t.co/6xgekD7doK",35,1,9,2021-10-18
+1063,2021-10-20 17:28:34+00:00,1450876611583168513,keep_project,"📢 Governance Update 
+
+After detailed community discussion the proposal to lower tBTC collateral ratios and turn on the Coverage Pool risk manager has reached a Keep Community Multisig Vote.
+
+👀👇 
+
+https://t.co/ls9DutQmUS",40,5,5,2021-10-20
+1064,2021-10-21 16:16:28+00:00,1451220852012429317,keep_project,"Reminder! There is a Threshodler Community Ambassador Call today at 3pm ET in the Threshold Discord server ☎️
+
+Come through to ask questions about our @NuCypher protocol merge, find out how to get involved with the ambassador group or just to hangout 👇
+
+https://t.co/XkIFeeSt77",60,11,8,2021-10-21
+1065,2021-10-25 00:50:52+00:00,1452437469601935366,keep_project,"@steelers_felix @Artualist @NuCypher We're all over Discord, and the entire dev process is public. Join Discrod, join the next community call.",7,3,6,2021-10-25
+1067,2021-10-26 09:55:30+00:00,1452936919235629056,keep_project,"A proposal to extend stakedrop rewards until March was ratified by the Keep Community Multisig 👑
+
+Interested in the extended allocations? Check out the new schedule in the Threshold server 👇
+
+https://t.co/nE8Ss46RvA
+
+P.S. November's stakedrop rewards did not change.",31,13,11,2021-10-26
+1069,2021-10-27 16:03:39+00:00,1453391957045268490,keep_project,@Techyishguy Best of luck.,0,2,0,2021-10-27
+1071,2021-10-28 10:10:58+00:00,1453665588287508486,keep_project,"Frens. The next Threshodler Community Ambassador Call with @NuCypher is today at 3pm ET in the Threshold server. 
+
+Come through to degen, ask questions or find out how to get more involved in the community. 
+
+☎️👇
+
+https://t.co/wzaZ28qQl0",34,12,7,2021-10-28
+1072,2021-10-30 17:20:39+00:00,1454498497529532416,keep_project,"@MrsNUBooty @coinplazaa @NuCypher Both teams have been working on T and tBTC v2. 
+
+It's a lot of code for a ""rumor"" 😅 You're welcome to follow along on GitHub!",11,3,2,2021-10-30
+1074,2021-11-01 14:58:26+00:00,1455187482413309953,keep_project,"The Keep Community Snapshot for Threshold's Reward Mechanism: StableYield+ is now live 👀
+
+Check out the proposal and vote👇
+
+https://t.co/X7xfJE1UUa",40,5,8,2021-11-01
+1076,2021-11-03 03:45:36+00:00,1455742934830272513,keep_project,@ZubaRodriguez @NuCypher @SkillWalletID Weird take.,1,1,1,2021-11-03
+1079,2021-11-06 21:50:33+00:00,1457103132102639621,keep_project,@coinplazaa @TheTNetwork @JessisThoughts @NuCypher No one is trying to distract anyone... it appears you're confuse Your questions have been answered a few times now.,2,2,0,2021-11-06
+1080,2021-11-07 22:11:49+00:00,1457470874983010309,keep_project,@NuCypher @david__nunez @MrsNUBooty @Carusory @TheTNetwork Rekt omg,20,1,3,2021-11-07
+1081,2021-11-10 12:54:37+00:00,1458417815308877827,keep_project,"Reminder 🚨- the @mstable_ mBTC/tBTCv2 Feeder Pool is live and replacing the old mBTC/tBTC Feeder Pool.
+
+Migrate mBTC and tBTC to continue receiving MTA rewards 🔑
+
+How did this happen? What comes next? 👀👇
+
+https://t.co/7TI6r6z07J",53,7,12,2021-11-10
+1082,2021-11-12 22:23:19+00:00,1459285705398620164,keep_project,"Join guild, build out Threshold with your community, earn KEEP.
+
+Sound good? For more detail and to join a guild hit up the Threshold server👇
+
+https://t.co/wzaZ28qQl0",22,0,3,2021-11-12
+1085,2021-11-13 20:29:39+00:00,1459619488131960835,keep_project,@NuCypher_HODL @MrsNUBooty @NuCypher @TheTNetwork https://t.co/vjJlQeqzK4,20,0,4,2021-11-13
+1089,2021-11-15 18:33:16+00:00,1460314976330076167,keep_project,"@capricornbybir1 @MrsNUBooty @Hamza21775060 @TheTNetwork @NuCypher Check this out ser 👇
+
+https://t.co/NFmkJoQDDs",3,0,0,2021-11-15
+1090,2021-11-16 11:48:09+00:00,1460575414234099720,keep_project,"Threshold community builds 🧱. Two community organized hangouts today:
+
+1⃣ Pre DAO treasury management brainstorm at 9am ET 
+
+2⃣ Integrations guild sync at 10am ET 
+
+👷‍♂️👇
+
+https://t.co/bsAQ6ojKun",23,1,3,2021-11-16
+1091,2021-11-18 00:34:02+00:00,1461130541051297792,keep_project,@TMarketingGuild @NuCypher @TheTNetwork @MrsNUBooty @NuCypherKeeper @theThodl @JessisThoughts @Weedzykun @eastban120 @joey__santoro @jai_bhavnani we forgive you 🤣,9,0,1,2021-11-18
+1092,2021-11-23 16:59:52+00:00,1463190574874472453,keep_project,"A Threshold Network-Level Emergency Security Developer Multisig proposal hit the forum 🧙‍♀️
+
+Check it out and let us know what you think before this reaches community snapshots.
+
+👀👇
+
+https://t.co/tSEpSJH9q8",30,4,7,2021-11-23
+1095,2021-11-29 15:13:36+00:00,1465338160444018691,keep_project,"A 7 day Keep Community Snapshot for the Threshold Network-Level Emergency Security Developer Multisig (ESDM) Proposal starts today at 10:30am ET 👀🧙‍♀️
+
+Review the full proposal and vote👇
+
+https://t.co/psJqD67NYg",38,3,10,2021-11-29
+1096,2021-11-30 15:37:18+00:00,1465706512437825539,keep_project,"There is another community lead @TMarketingGuild  Hangout today at 3pm ET in the voice channel on our server 💎
+
+Join guild, build Threshold with your community, earn Keep👇
+
+https://t.co/juwlkLHZ2j",31,4,3,2021-11-30
+1097,2021-12-06 16:31:14+00:00,1467894411623346178,keep_project,"A clean, new Threshold website is now live 👏
+
+It includes a Threshold native blog with an inaugural post entitled ""What is Threshold?"" ready to check out. 
+
+https://t.co/d7uDnOAb1z",31,0,1,2021-12-06
+1102,2021-12-09 15:49:02+00:00,1468970953233207302,keep_project,"Head over to the Threshold forum for a more detailed overview of the Threshold Council election process and to submit a community nomination👇
+
+https://t.co/u6UZ6pLlpg",5,0,0,2021-12-09
+1107,2021-12-16 15:16:14+00:00,1471499414397063174,keep_project,"Many high quality individuals have been nominated to represent the Keep and @NuCypher communities on the inaugural Threshold Council 💜
+
+Tomorrow is the last day to formally accept a nomination on our forum👇
+
+https://t.co/u6UZ6pLlpg",24,1,1,2021-12-16
+1108,2021-12-22 01:31:10+00:00,1473466106987917315,keep_project,@TallyCash keepnetwork.eth,10,1,4,2021-12-22
+1109,2021-12-23 19:35:01+00:00,1474101255203131397,keep_project,@GodsoeJosh @NuCypher @lakejynch You could have nominated yourself on the Threshold forum😁,1,1,0,2021-12-23
+1115,2021-12-24 14:25:43+00:00,1474385807465226244,keep_project,@hhhhgassx @MrsNUBooty @NuCypher Looks like a scam. Please report it.,2,0,0,2021-12-24
+1116,2021-12-27 19:17:00+00:00,1475546271503032325,keep_project,"@5krin5hatz @MacLaneWilkison Join a Threshold Guild and earn KEEP for contributing to our DAO 👀
+
+https://t.co/wzaZ28qQl0",5,0,2,2021-12-27
+1117,2021-12-30 21:51:56+00:00,1476672425043574792,keep_project,"Wen T? Soon.👀👀
+
+A major milestone for the world's first decentralized protocol merger rapidly approaches. 
+
+Congrats to @Ben_Longstaff @evandro_saturn @eastban120 @naxsun3301 for being elected to represent Keep on the Threshold council 🧙‍♀️",43,2,12,2021-12-30
+1120,2021-12-31 17:22:55+00:00,1476967112589594625,keep_project,"Do not send KEEP to the newly deployed vending machine contract 🚨
+
+This is not the correct wrap process (soon to be live), you will not receive T and the tokens are not recoverable.",45,5,16,2021-12-31
+1129,2022-01-01 20:31:12+00:00,1477376883985723397,keep_project,"The Threshold Council has crushed it and officially minted the first 10B T tokens. 
+
+https://t.co/hgU62CgeWv
+
+Last step is the council transferring T to vending machine contracts (in progress). Once that happens wrapping is live. 
+
+🙂🙃🙂",29,0,4,2022-01-01
+1134,2022-01-02 18:20:33+00:00,1477706395843796997,keep_project,"@nightmare5566 @binance Wrapping. Is. Live. Check out this absolute heat 👇
+
+https://t.co/GVXdwnHHGt
+
+That is up to Binance, we don't actively chase exchange listings.",3,1,1,2022-01-02
+1141,2022-01-03 20:09:55+00:00,1478096303712358401,keep_project,@RussellThunder_ @NuCypher @CurveFinance @TheTNetwork @nous_eth The token factors are fixed. What you'd get from wrapping NU to T today is the same as next week or next year.,2,2,0,2022-01-03
+1146,2022-01-04 22:44:17+00:00,1478497540123340806,keep_project,@cornichon999 Really? It should be updated. Try clearing cache or switching browsers.,0,0,0,2022-01-04
+1152,2022-01-06 17:08:50+00:00,1479137898050080775,keep_project,"@MrsNUBooty @ArtofExitScam @TMarketingGuild @crycrytop @NuCypher @TheTNetwork @B1GB0YMAX Confirmed, if you didn't wrap you can't unwrap.",4,1,0,2022-01-06
+1154,2022-01-07 19:04:15+00:00,1479529330543935495,keep_project,"Don't miss the next Threshold DAO Treasury Management Task Force sync on Jan. 11th at 8:30am ET hosted by @eastban120 ☕️
+
+Liquidity provisioning, mega bootstrap meta DAO proposal, treasury swaps, rare alpha 🕵️‍♂️
+
+What. the.. is a mega bootstrap meta DAO proposal? 
+
+Come find out.",33,1,4,2022-01-07
+1155,2022-01-10 16:27:15+00:00,1480576984006770695,keep_project,"Farming with tBTC? 
+
+The community built https://t.co/ZXDZhgtH9l tool was updated to reflect our recently passed governance proposal to switch weekly KEEP incentives to the new @saddlefinance tBTC v2 metapool v2.
+
+💪🧑‍🌾👏",20,1,7,2022-01-10
+1156,2022-01-11 19:50:00+00:00,1480990395823763469,keep_project,"Dec. @TMarketingGuild and @Integrating_T rewards are allocated and are gearing up for distribution ⚙️.
+
+Pop into the Threshold server to see if you earned KEEP this time 👀. 
+
+https://t.co/HoTZqnzn68
+
+Starting with Jan. Threshold Guild rewards doubled 📈.",21,1,5,2022-01-11
+1158,2022-01-13 19:59:31+00:00,1481717566120808459,keep_project,"This week's @TMarketingGuild T party is kicking off in our server hosted by @MrsNUBooty 🍵🥳
+
+Drop in to chat all things Threshold growth, Threshold marketing and (of course) fire T memes. 
+
+https://t.co/HoTZqnzn68",15,0,2,2022-01-13
+1159,2022-01-15 17:17:24+00:00,1482401542254776327,keep_project,"@DavidwRankin The community is working on it.
+
+https://t.co/uFKsj1YddP",3,1,0,2022-01-15
+1160,2022-01-18 16:09:09+00:00,1483471532479467521,keep_project,"Plans are in motion for the Threshold Treasury Task Force🏃‍♂️
+
+Yesterday, our community council deposited ~$20M of protocol owned liquidity into the @CurveFinance T / ETH pool and staked the LP tokens into Convex.",37,1,10,2022-01-18
+1162,2022-01-19 21:10:22+00:00,1483909723007209473,keep_project,@NuCypher @VotiumProtocol Overheard from @Integrating_T that T is whitelisted👀,7,2,0,2022-01-19
+1163,2022-01-20 19:30:48+00:00,1484247054062919689,keep_project,"The @TheTNetwork Jan. Community Wide Call starts in 30m in our server ☎️
+
+Join us for dev updates on T staking &amp; rewards, updates from each division within our DAO (marketing, treasury, integrations) and much more. 
+
+See you there 🙂
+
+https://t.co/HoTZqnzn68 
+
+P.S. yes poaps",7,1,3,2022-01-20
+1165,2022-01-24 17:20:27+00:00,1485663800653197318,keep_project,"The @TheTNetwork Council executed 3.5M T in bribes on @VotiumProtocol for this round of @CurveFinance gauge weight 👀🗳️
+
+https://t.co/RAXkC6I4BM
+
+This was a result of @Ben_Longstaff 's proposal to repurpose a portion of KEEP liquidity incentives passing.",28,0,7,2022-01-24
+1166,2022-01-26 19:34:31+00:00,1486422316707983362,keep_project,"The @TheTNetwork Treasury Task Force spun out into the DAOs third official guild - the Treasury Guild🧃
+
+Recently the guild supplied t / eth liquidity, executed votium governance incentives, drafted a DAO budget, with more plans ready. 
+
+What's next?👇
+
+https://t.co/HoTZqnzn68",25,0,8,2022-01-26
+1167,2022-01-27 16:57:29+00:00,1486745187317690372,keep_project,"A proposal to build more POL hit the @TheTNetwork forum authored by @Ben_Longstaff and the Threshold Treasury Guild🧃
+
+1) Partner with @OlympusDAO Pro on a pilot bond program 
+
+2) An OTC DAO purchase of $1.5M - $2M in t / eth @CurveFinance liquidity 
+
+https://t.co/6bqBAtQ3vk",20,1,8,2022-01-27
+1168,2022-02-04 22:56:47+00:00,1489734710720966664,keep_project,"T staking and the Threshold Dashboard are. both. now. live 🥳🥩.
+
+Head to the new dashboard to stake liquid T or upgrade KEEP to T. 
+
+https://t.co/SkaBbyKZAD",28,1,6,2022-02-04
+1171,2022-02-06 16:14:23+00:00,1490358216945016835,keep_project,"Trust math, not hardware.
+
+https://t.co/zhpdMJhCMO",29,0,16,2022-02-06
+1172,2022-02-08 14:43:03+00:00,1491060007630442497,keep_project,"This is the last grace period interval for KEEP incentives on the KEEP / ETH Uniswap pool 👀
+
+The community voted to repurpose those liquidity incentives towards the T / ETH Curve pool 🧃
+
+Check out this new blog post for more detail 👇
+
+https://t.co/HddCiTnc0b",16,2,6,2022-02-08
+1173,2022-02-09 23:13:02+00:00,1491550737855361027,keep_project,"@RicNP @TheTNetwork @binance @NuCypher That's a personal choice! If you're holding longer term and/or planning to stake, and gas doesn't cost too much, converting yourself is probably the way to go.",0,2,0,2022-02-09
+1175,2022-02-11 16:05:16+00:00,1492167865771909134,keep_project,"The first @TheTNetwork DAO treasury swap proposal with @mstable_ hit the forum authored by @Ben_Longstaff in collab with the @theTtreasury guild.
+
+There are many mutual benefits to this swap so check out the full details before it moves to a snapshot 👇
+
+https://t.co/xH6Yn1O1N6",28,1,4,2022-02-11
+1176,2022-02-12 16:00:32+00:00,1492529058457866243,keep_project,"The vision for tBTC v2 in 2022 is 💪
+
+Check out why and how tBTC v2 will be the first non-custodial solution to bridge BTC to Ethereum at scale.
+
+Plus, more chains incoming? 👇
+
+https://t.co/fBiOu2GZ7m",40,3,12,2022-02-12
+1178,2022-02-14 18:05:39+00:00,1493285322007855106,keep_project,"Check out @beau_shinkle 's @EthereumDenver 🗻 video presentation on building a trustless cross chain bridge 🌉 with @TheTNetwork 👇
+
+https://t.co/oxXdBK5Zm0",13,2,1,2022-02-14
+1180,2022-02-15 13:55:54+00:00,1493584859016609798,keep_project,@AlawwiS @NuCypher https://t.co/pBHOJlnGJ5,3,1,0,2022-02-15
+1183,2022-02-17 17:07:16+00:00,1494357793117069331,keep_project,"The @TheTNetwork community put two more governance proposals up to snapshots both authored by @Ben_Longstaff. 
+
+💸 Treasury swap with @mstable_  
+
+⚒️ Funding proposal to develop thUSD 
+
+Vote here👇
+
+https://t.co/5nvcoSZ3WP",32,0,9,2022-02-17
+1184,2022-02-25 04:13:56+00:00,1497062282634878977,keep_project,"$T is now live on @binance! The merge with @NuCypher to create @TheTNetwork was consummated on-chain. Awesome to see centralized exchanges catching on as well!
+
+https://t.co/Q1c8kNXq6O https://t.co/Pfg28ZwqQT",87,17,22,2022-02-25
+1188,2022-02-27 18:15:18+00:00,1497998793995816961,keep_project,"A new @TheTNetwork DAO proposal to fund the front end development of thUSD hit our forum authored by @evandro_saturn 💪
+
+Let the T community know what you think before this proposal reaches a snapshot 📸
+
+https://t.co/mmVAFI3XR6",24,3,6,2022-02-27
+1189,2022-02-28 19:05:33+00:00,1498373828883451912,keep_project,"A proposal to bootstrap all three @TheTNetwork DAO Guilds onchain through a grant-based multisig committee system hit the forum 🤝
+
+The proposal results in more scalable decision making and treasury capital deployment capability for the DAO.  
+
+https://t.co/bupSmyA85X",49,4,18,2022-02-28
+1190,2022-03-01 17:14:26+00:00,1498708250778296322,keep_project,"Legacy KEEP stakes can now upgrade to participate in @TheTNetwork by heading over to the Keep Token Dashboard 🥳
+
+Legacy stakers have until the end of March to upgrade to be eligible for initial T rewards. 
+
+Full guide on process 👇
+
+https://t.co/pUTd9EIXcs",32,5,11,2022-03-01
+1193,2022-03-02 01:56:30+00:00,1498839634448637954,keep_project,"@Krallburdaa @TheTNetwork You don't need to do any of that. You can use Ledger directly in MetaMask, no need to transfer funds back and forth. And if the upgrade isn't worthwhile, don't go through with it... there's no deadline at all.",0,4,0,2022-03-02
+1195,2022-03-08 17:21:15+00:00,1501246683639947268,keep_project,"The current round of @TheTNetwork governance proposal voting ends today🗳️
+
+If you haven't already - head over to our snapshot space to vote👇
+
+ https://t.co/dNVPXUvpNZ",33,2,10,2022-03-08
+1196,2022-03-09 14:55:53+00:00,1501572489243250696,keep_project,"All four @TheTNetwork governance proposals up on snapshot passed 📸
+
+1) The DAO bootstrap proposal
+2) Discretionary budget for @TMarketingGuild 
+3) Funding request for thUSD front end development
+4) @binance Learn &amp; Earn 2.0 
+
+Results verifiable👇
+
+https://t.co/5nvcoSHt5h",24,0,9,2022-03-09
+1197,2022-03-11 22:17:42+00:00,1502408449409310722,keep_project,@NuCypher Oh we'd never forget! 😅💐😅💐,7,0,0,2022-03-11
+1198,2022-03-14 15:22:16+00:00,1503391065105178635,keep_project,"A @saddlefinance tBTC metapool rewards proposal moved to a Keep Community Multisig vote.
+
+LPs review this proposal! 
+
+👉 If passed action is required, but rewards will be issued in both T and SDL instead of just KEEP or SDL🤝
+
+https://t.co/cfBm4gPZYD",12,1,3,2022-03-14
+1200,2022-03-23 13:57:08+00:00,1506631134158929927,keep_project,"⏰ Reminder that Friday brings changes to @saddlefinance tBTC metapool v2 rewards. 
+
+Migrate LP tokens to the new rewards contract through the Saddle dashboard to earn rewards in both T and SDL. 
+
+T top ups are now executed by the @TheTNetwork DAO. 
+
+https://t.co/Kk0dC8LhTO",20,1,8,2022-03-23
+1201,2022-03-25 13:54:57+00:00,1507355356997029890,keep_project,"Start incentivizing liquidity to the tBTC v2 @CurveFinance pool? 👀
+
+LakeLaogai and the @theTtreasury dropped a new proposal to do it ✅
+
+Check it out and let the @TheTNetwork DAO know what you think 🔎
+
+https://t.co/qftwyN00je",33,6,13,2022-03-25
+1202,2022-03-31 18:23:41+00:00,1509597313781612551,keep_project,"The @TheTNetwork proposal to begin incentivizing liquidity to the tBTC v2 @CurveFinance pool just reached a snapshot. 
+
+Time. To. Vote 🗳️✅👇
+
+https://t.co/7rfnR2PGwC
+
+This proposal was authored by members of the @theTtreasury guild.",14,2,6,2022-03-31
+1203,2022-04-27 14:43:51+00:00,1519326464923119616,keep_project,@mrsThreshold @eastban120 😢,4,0,0,2022-04-27
+1204,2022-05-12 13:29:10+00:00,1524743485764558848,keep_project,"The @TheTNetwork is already up to 90+ nodes👀
+
+A few important changes to the staking rewards proposal:
+
+1) The bonus deadline is extended to June 1st 
+2) The bonus percent is increased to 3% 
+
+The proposal will move to a snapshot vote tomorrow for DAO validation 📸",22,1,7,2022-05-12
+1206,2022-05-13 17:43:51+00:00,1525169969650098177,keep_project,"There is a new 5 day snapshot up for the @TheTNetwork  DAO 📸
+
+This proposal is to validate the Threshold staking migration bonus, that bonus criteria, the bonus deadline and an initial stable yield. 
+
+Vooote here👇
+
+https://t.co/yUWioXlS33",21,0,6,2022-05-13
+1207,2022-05-20 16:02:42+00:00,1527681227007873024,keep_project,"The tBTC v2 launch approaches 👑
+
+🚀  Pending problems in audit, mainnet launch is in August.
+🧪  During August and September @TheTNetwork DAO will be gradually releasing and testing functionalities. 
+
+Head👇for more detailed intel.
+
+https://t.co/NaBWmik1HX",50,2,18,2022-05-20
+1208,2022-05-25 16:40:32+00:00,1529502689779908608,keep_project,"New release 🟣: @TheTNetwork Dashboard v1.1.0 
+
+🃏 Staking cards 
+🌊 New unstaking flow for T and legacy NU/KEEP
+✅ Staking bonus eligibility check as per the recent Threshold DAO vote 
+
+Check it out 👇
+
+https://t.co/yLvVU38tAk",12,0,4,2022-05-25
+1209,2022-05-31 16:15:54+00:00,1531670817171456000,keep_project,"@TheTNetwork DAO is building 🧱
+
+🔐 Another tBTC v2 security audit kicked off with Trail of Bits. 
+
+🧈 A new Threshold website dropped. It features Governance, Threshold Guilds and DAO committee members. Looks rare.
+
+🚢 Keep Dashboard v1.19.0 shipped.
+
+https://t.co/d7uDnOAb1z",27,0,7,2022-05-31
+1210,2022-06-01 17:13:31+00:00,1532047703810756610,keep_project,"A good day for threshold cryptography, init? 
+
+The @TheTNetwork DAO's staking bonus deadline passed. We ✈️ to ~200 stakes and 167 independent nodes. 
+
+Cheers to the many DAO contributors for making this happen 👏",22,4,8,2022-06-01
+1213,2022-06-09 18:24:26+00:00,1534964652311990273,keep_project,"tBTC v2 launch is coming and the @TheTNetwork DAO is working together to prepare 💜.
+
+The deadline for DAO members to proposal alternative tBTC v1 to tBTC v2 migration plans is this Monday EOD. 
+
+This will be followed by a discord discussion on Tuesday at 10am ET.",33,3,12,2022-06-09
+1215,2022-06-21 17:43:42+00:00,1539303057254752257,keep_project,"🚨There will be a @TheTNetwork Community Wide Call this Friday the 24th at 3pm ET ☎️
+
+The topic? An AMA on all things tBTC v2.
+
+Drop your questions in the calls-chat channel ahead of time. Don’t miss this one!
+
+https://t.co/xOcIXi6v4d",16,0,6,2022-06-21
+1219,2022-06-22 17:28:04+00:00,1539661512557854720,keep_project,"Proud to announce that we have a tBTC v1 to v2 migration plan. @TheTNetwork 🥳
+
+Check out our announcement for more details about the first step:
+
+https://t.co/gSJJ8Xblrb",19,0,5,2022-06-22
+1220,2022-06-24 15:37:12+00:00,1540358388508508160,keep_project,"There's still time to drop your questions for Beau in the calls-chat channel! 
+
+https://t.co/8sUhQRsNb5",8,3,1,2022-06-24
+1221,2022-06-27 15:30:39+00:00,1541443900027682816,keep_project,"@juani_martinez The Threshold Marketing Guild is on Discord 👇
+
+https://t.co/HoTZqnzn68",1,0,0,2022-06-27
+1222,2022-07-14 15:16:47+00:00,1547601005226762243,keep_project,"REMINDER: You now have 6 days left until the deadline for earning 0.75% monthly on your tBTC v2. To learn how to mint v2, check out this link: https://t.co/9n5xlXhqv3
+#tbtc",12,0,5,2022-07-14
+1223,2022-07-15 08:27:03+00:00,1547860282126397441,keep_project,"The #tBTC v2 timeline presentation is happening today at 10am EST/4pm CEST. Don't miss it!
+
+https://t.co/xOcIXio5VL",9,3,1,2022-07-15
+1224,2022-07-18 15:56:02+00:00,1549060435902595074,keep_project,"Last week, we shared the updated #tBTC v2 timeline at the DAO-wide call. As promised, we are now sharing the updated timeline blog post and current KEEP OKRs for the quarter. One quick updated date is the launch of the staking client which will happen on September 15th. (1/3)",18,11,5,2022-07-18
+1227,2022-07-21 12:51:36+00:00,1550101184962301955,keep_project,"An important new proposal on rules governing 
+@TheTNetwork committee elections dropped by nous is live on the forum. Highly encourage everyone to check it out and share your thoughts and feedback. https://t.co/RsEsGxEBFX",14,5,5,2022-07-21
+1228,2022-07-28 11:47:22+00:00,1552621736146964481,keep_project,"Flowdock to Discord or: How I Learned to Stop Worrying and Love Bishop by @beau_shinkle 
+
+https://t.co/owB6p4k4Wb",18,9,4,2022-07-28

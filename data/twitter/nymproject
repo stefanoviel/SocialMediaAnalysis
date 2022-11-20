@@ -1,0 +1,2467 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-02 15:32:02+00:00,1212758455011823618,nymproject,"Happy New Years from the NYM team. Begin the year 2020 on the right track by taking the steps to ending mass surveillance by running an alpha testnet node for the NYM network.
+
+https://t.co/yzqcNtXtIF https://t.co/HS7KhWzPVa",8,1,3,2020-01-02
+1,2020-01-04 11:42:22+00:00,1213425433582145546,nymproject,"On genesis day, we launched our alpha testnet for the NYM mixnet. A censorship-resistant and decentralized anonymous overlay network is the natural complement to cryptocurrency. 
+
+Take the steps to ending mass surveillance by running a validator node.
+https://t.co/kgLvLf8vtu",32,0,12,2020-01-04
+2,2020-01-06 15:06:50+00:00,1214201663550038016,nymproject,"How mixnets compare to Tor and VPNs.
+
+The NYM mixnet addresses the vulnerabilities for traffic analysis that the others do not by adding timing obfuscation, cover traffic, and multiple hops.
+
+Learn more on how NYM is working to solve the privacy problem: https://t.co/kgLvLf8vtu https://t.co/WNiIf1OFyj",28,0,8,2020-01-06
+3,2020-01-07 14:47:47+00:00,1214559257678344201,nymproject,"We have released version 0.2.0 of the mixnode, the NYM client, and the provider.
+
+Client: https://t.co/ImiSb40aT9
+
+Mixnode: https://t.co/1KTEA9VKwG
+
+Provider:
+https://t.co/XF8fl8lDgp",26,2,6,2020-01-07
+5,2020-01-08 13:48:25+00:00,1214906705730916354,nymproject,"For an overview on the basics of privacy tech, how mixnets function, and a workshop with the NYM team. Watch this recorded session with @futurechimp and @aniampiotrowska from @EFDevcon.
+
+https://t.co/7vvHGDqFak",17,0,11,2020-01-08
+6,2020-01-09 19:55:34+00:00,1215361490984697856,nymproject,"To achieve traffic analysis resistance against global network adversaries, the NYM mixnet generates cover traffic in the form of loop messages. 
+
+The traffic loops strengthen anonymity and measure sender and receiver unobservability. https://t.co/QyYA2snYae",12,1,5,2020-01-09
+8,2020-01-13 15:09:24+00:00,1216739026704773121,nymproject,"In order to be anonymous when using a mixnet, you must be indistinguishable amongst a group of users; the larger the group, the better the privacy. https://t.co/UKW8n8xDYe",20,1,6,2020-01-13
+10,2020-01-14 16:03:09+00:00,1217114939778916355,nymproject,"As long as there's enough traffic flowing through the mixnodes, even an attacker who can record the entire internet will not be able to trace the packet flow through the Nym mixnet.
+
+#AnonymityInNumbers https://t.co/frzwEXDSjj",9,0,3,2020-01-14
+11,2020-01-16 14:04:34+00:00,1217809874295427072,nymproject,"Thank you to everyone who attended our first meetup in Neuchatel, Switzerland where @claudsdayz and @futurechimp presented the alpha of the Nym Mixnet.
+
+We look forward to future development towards privacy enhancing technology with our Community.
+
+#AnonymityInNumbers https://t.co/ycYZygXXeT",20,0,6,2020-01-16
+12,2020-01-17 18:56:31+00:00,1218245733616406529,nymproject,"Version 0.3.2 of the Nym mix node has been released and we have officially routed our first mixnet packets on the testnet as of today.
+
+#PrivacyViaComputing
+
+https://t.co/hkFnJNf6Bx",19,0,4,2020-01-17
+16,2020-01-21 09:38:09+00:00,1219554766369492992,nymproject,"We're in Davos for #wef20 to share with all audiences the potential of privacy tech and how Nym is a missing, crucial part to the financial and cryptographic revolution.
+
+Join our telegram group to reach out to meet up with our team.
+https://t.co/fgwNnVBzxn https://t.co/u5cYVmiMqv",11,0,4,2020-01-21
+17,2020-01-22 12:17:32+00:00,1219957266998317056,nymproject,"""The 2020s will be the decade of privacy.""
+-@harryhalpin https://t.co/KePnlRsAP0",32,1,10,2020-01-22
+18,2020-01-27 13:13:46+00:00,1221783358189064192,nymproject,"Stefan Steinert (@ststefa) is the first non-Nym testnet operator to route a Sphinx packet on the Nym mixnet. 
+🌐🌐🌐
+
+Join our community to be a part of the next generation of privacy technology.
+
+https://t.co/1ItVNtbqgs
+https://t.co/fgwNnVBzxn https://t.co/DTVPGUgZJd",11,0,2,2020-01-27
+19,2020-01-28 12:55:33+00:00,1222141159943954433,nymproject,"On #DataPrivacyDay2020, the Nym team is working to develop privacy enhancing technology that can enable a safer environment for our thoughts, ideas, and collaboration on the collective cyber mind called the Internet.
+https://t.co/b5yFNcqU9u https://t.co/3Ch7baVN8e",13,1,5,2020-01-28
+21,2020-01-29 09:38:08+00:00,1222453864760143872,nymproject,"Version 0.4.0 of the Nym mixnet has been released. This update is primarily focused with keeping the network healthy and running.
+
+https://t.co/Hp5izuUETO",15,0,4,2020-01-29
+22,2020-02-01 13:30:51+00:00,1223599594245890050,nymproject,"Watch @theog__ give a presentation on an introduction to the Nym network at the @BerlinMeetup.
+
+#AnonymityInNumbers
+
+https://t.co/gLdTLr2suG",9,0,4,2020-02-01
+23,2020-02-03 13:40:07+00:00,1224326702358200320,nymproject,"Privacy is a holistic property of a system. It depends on levels beyond the blockchain (layer 1) but also the network level (layer 0) and applications (layer 2).
+
+Learn how zKSnarks are not enough, and how the Nym network provides privacy at all layers.
+https://t.co/Uu3L0gLOJk",11,0,2,2020-02-03
+24,2020-02-05 14:04:05+00:00,1225057509062430720,nymproject,"If you're in Switzerland, trek over to Neuchatel to watch @harryhalpin pitch Nym at the Horizon 2020 ICT Work Programme on February 7th! 
+https://t.co/UuEgcML8DE",6,1,2,2020-02-05
+25,2020-02-10 15:40:41+00:00,1226893761038385154,nymproject,Preserving privacy and control over your data in the virtual realm is preserving your virtual identity. https://t.co/2ThMVqv6Gz,24,3,17,2020-02-10
+29,2020-02-11 13:29:19+00:00,1227223089815212045,nymproject,"Sphinx: The anonymous data format behind Lightning and Nym
+https://t.co/m5bBjOYOPu
+#NYM #LightningNetwork",30,1,11,2020-02-11
+30,2020-02-14 18:32:56+00:00,1228386660926181376,nymproject,"Nym will be at #ETHDenver today. To contact the team to meet up and and learn more about mixnets, message us on Telegram. https://t.co/fgwNnVTaoV https://t.co/b5X7hm07cc",9,0,2,2020-02-14
+31,2020-02-17 18:04:14+00:00,1229466601579335680,nymproject,"Nym CTO Dave Hrycyszyn on how to defeat pervasive online network surveillance: 
+- make all traffic look the same 
+- re-order traffic 
+- generate fake cover traffic 
+... i.e. just use #nym ! #privacy @futurechimp https://t.co/ITGOEQZ6ES",13,0,1,2020-02-17
+32,2020-02-18 18:06:25+00:00,1229829538449776640,nymproject,"The Lightning Network uses Sphinx, the same packet format as the Nym mixnet, but does so in a way that violates its ability to give transactions privacy.
+
+Nym could enable private transactions on the Lightning Network, learn more here:
+https://t.co/akjlKnRd4s",19,0,7,2020-02-18
+33,2020-02-23 22:31:56+00:00,1231708296005832705,nymproject,"Follow @futurechimp's lucid introduction to mixnets for your Sunday evening read.
+
+https://t.co/H1L5w4hEqF",12,0,2,2020-02-23
+34,2020-02-24 21:53:26+00:00,1232060994240729088,nymproject,"Using four decades of studied techniques, Nym is the first to hit the sweet spot by providing an anonymous communication system that offers scalability, strong anonymity, and low-latency.
+
+Read a deep dive on how by @aniampiotrowska
+
+https://t.co/ZsgwULMCig",12,0,5,2020-02-24
+35,2020-02-25 00:27:38+00:00,1232099800352296960,nymproject,@SCBuergel Anonymity loves company.,3,0,1,2020-02-25
+36,2020-02-28 20:50:25+00:00,1233494688436563969,nymproject,"The Nym mixnet provides decentralized network-level privacy, and does so in way that incentivizes node operators. 
+
+To learn how the next generation of privacy solutions uses cryptoeconomics to achieve a sustainable communications network, attend @harryhalpin's talk at @EthCC_ https://t.co/C4Cgd6k5kR",22,1,8,2020-02-28
+37,2020-03-01 18:10:29+00:00,1234179214451994626,nymproject,"We agree.
+The missing component within the Ethereum ecosystem for privacy technology is coverage at the network layer.
+
+The Nym network fills in this missing piece while being more secure than a VPN and Tor.
+
+View our docs for our alpha testnet:
+https://t.co/Syv2ey2Xqh https://t.co/SIqrs5MWPG",7,1,2,2020-03-01
+39,2020-03-03 10:28:27+00:00,1234787717998956544,nymproject,@harryhalpin Talking at @EthCC_ about how to decentralize network level privacy. #ETHcc #Privacy https://t.co/eFl4qdiUta,2,1,3,2020-03-03
+40,2020-03-04 10:57:00+00:00,1235157287993577472,nymproject,What is unlinkablity? @harryhalpin talks about the need for network level privacy at @EthCC_ #ETH #BTC #EthCC https://t.co/3NxUHFQMuP,7,0,3,2020-03-04
+41,2020-03-05 12:00:01+00:00,1235535533880692739,nymproject,"Watch Harry Halpin from @nymproject on @MoneroTalk
+about Crypto-Anarchism, NYM and Monero https://t.co/Ss5PdN6mOQ #Monero #Privacy #VPN #TOR",8,0,2,2020-03-05
+42,2020-03-06 12:56:25+00:00,1235912115728404481,nymproject,"@mileschet @harryhalpin @EthCC_ We stand together! 
+#anonymityinnumbers",0,0,0,2020-03-06
+45,2020-03-08 14:26:00+00:00,1236659436032348160,nymproject,"Listen to Privacy in the Age of Surveillance Capitalism, with Nym's Claudia Diaz @relaychain https://t.co/PKFNqrg96w  #privacy #surveillancecapitalism #tor #vpn",8,0,5,2020-03-08
+46,2020-03-09 14:28:00+00:00,1237022327432454149,nymproject,How does Nym compare to Tor? #TOR #VPN #Privacy https://t.co/TkuJegZj6v https://t.co/KojtxgBok6,3,0,0,2020-03-09
+47,2020-03-10 13:17:33+00:00,1237366985517826056,nymproject,@CryptoHitchiker @sqcrypto and network level privacy,0,0,0,2020-03-10
+50,2020-03-11 14:33:00+00:00,1237748361522003969,nymproject,"How does Nym compare to I2P?
+https://t.co/GCBVX1rd50
+#VPN #Monero #Privacy #I2P https://t.co/CJ0tIZyoME",3,0,0,2020-03-11
+52,2020-03-12 14:36:00+00:00,1238111504043577344,nymproject,"Sphinx: The anonymous data format behind Lightning and Nym
+https://t.co/akjlKnzCcU
+#Bitcoin #LightningNetwork #Privacy https://t.co/QRHsM1Lmx7",8,0,4,2020-03-12
+54,2020-03-13 14:40:00+00:00,1238474898626031617,nymproject,How does Nym compare to Facebook Connect? https://t.co/GCBVX1rd50 #Facebook #Libra #Privacy https://t.co/AY51dLPy44,4,1,0,2020-03-13
+55,2020-03-14 14:42:00+00:00,1238837789761761281,nymproject,"Facebook's Libra has big plans for you @GQMagazine 
+https://t.co/GVpv6rXCvv #Facebook #Libra #Privacy https://t.co/tYuHxeyWyZ",4,0,1,2020-03-14
+56,2020-03-16 09:09:57+00:00,1239479004505260032,nymproject,@bus1nessrasta Thanks for the support!,1,0,0,2020-03-16
+59,2020-03-17 13:25:39+00:00,1239905739096887296,nymproject,"#EarnItAct is the type of anti #privacy law that goverments will try to push through during the #Carona crisis. https://t.co/MQ0Q9WR5Xc
+This is why we need privacy tech like NYM more than ever before. https://t.co/GCBVX1rd50",8,0,8,2020-03-17
+60,2020-03-18 13:00:44+00:00,1240261858487144450,nymproject,"Not all Sphinx pakets are created equal. https://t.co/c221wOrtGZ…
+#privacy #LightningNetwork #bitcoin #eth https://t.co/RbGjm8VtKe",3,0,3,2020-03-18
+62,2020-03-19 08:02:41+00:00,1240549237374550016,nymproject,"the Nym mixnet deploys a stratified topology, which as research has shown, is optimal for #anonymity and scalability #privacy #bitcoin #eth 
+https://t.co/ZsgwULv1qI https://t.co/C35wtkaezv",9,0,4,2020-03-19
+64,2020-03-21 08:18:07+00:00,1241277897580650496,nymproject,"""In this time of crisis, we face two particularly important choices. The first is between totalitarian surveillance and citizen empowerment. The second is between nationalist isolation and global solidarity."" @harari_yuval
+https://t.co/biOkDgH3Gi
+#Covid_19 #privacy",12,1,6,2020-03-21
+65,2020-03-22 15:48:38+00:00,1241753661879050242,nymproject,"Protecting Civil Liberties during a public health crisis by @EFF
+https://t.co/X1WKstIqn5
+#covid19 #Privacy",1,0,0,2020-03-22
+66,2020-03-23 17:34:00+00:00,1242142565966675969,nymproject,"Any #cryptocurrency can be wraped in Nym to provide payment to service providers in a crypto currency of their choice. 
+#privacy https://t.co/iCziixuljG",7,1,3,2020-03-23
+68,2020-03-24 12:08:07+00:00,1242422941582794753,nymproject,"BRACE YOURSELVES 
+
+NYM PUBLIC TESTNET IS COMING
+
+Telegram: https://t.co/jZhrGB4O50
+Web: https://t.co/GCBVX1rd50
+Twitter: @nymproject 
+
+#Privacy #Tor #VPN #COVID19 #Bitcoin #ETH #Monero https://t.co/thMwoiYN0x",15,0,4,2020-03-24
+69,2020-03-25 07:22:11+00:00,1242713373562806272,nymproject,"NYM CTO Dave Hrycyszyn makes selective disclosure blind issuance cryptographic credentials a lot sexier than they initially sound.
+@futurechimp 
+https://t.co/LS0KLvUttN #Privacy #Bitcoin #ethereum #Tor #VPN https://t.co/B8LICoFC83",9,0,2,2020-03-25
+71,2020-03-26 09:25:32+00:00,1243106803430424576,nymproject,"""When governments seize emergency powers, they never give them up"" @harryhalpin @Cointelegraph 
+https://t.co/WlmZ0qgomL #COVID19 #Privacy #EarnItAct #Encryption #Tor #VPN https://t.co/AzXW2mAMPz",58,3,20,2020-03-26
+74,2020-03-27 15:42:52+00:00,1243564149625573379,nymproject,"Check out the NYM youtube channel. You might be suprised what you find..... 
+Subscribe: https://t.co/aJRsiIDeC3  #Privacy #Bitcoin #Ethereum  #Tor #Loopix #VPN https://t.co/nboTKUhaz3",12,0,5,2020-03-27
+76,2020-03-29 12:01:44+00:00,1244233275188678657,nymproject,"""The problem with the way the internet infrastructure is built today is that it is not built for privacy, one could even say that it is built for surveillance.""  Claudia Diaz  NYM Chief Scientist https://t.co/DX8kRYnjUw https://t.co/47CE4Es621",8,0,1,2020-03-29
+77,2020-03-30 11:18:38+00:00,1244584819578875904,nymproject,"Remember pre #COVID19 events with a lot of people? Check out @harryhalpin  Speaking at the Critical Decentralisation Cluster #36c3 #Monero #Bitcoin #Privacy https://t.co/XYHaDBgNgo
+Subscribe to the NYM Youtube channel: https://t.co/aJRsiIDeC3 https://t.co/wHoFrW3BUx",9,1,2,2020-03-30
+78,2020-03-31 13:45:40+00:00,1244984208747040768,nymproject,"Check out @aniampiotrowska
+and @harryhalpin discussing Loopix part of the underlying technology of @nymproject on the Wasabi Research Club @nopara73 https://t.co/aKCfrnc4da #Privacy #Bitcoin #Tor #VPN",11,0,2,2020-03-31
+80,2020-04-01 09:51:09+00:00,1245287578238148608,nymproject,@ghostintheDAO What April fools? https://t.co/bgFCyOTMME,5,1,0,2020-04-01
+81,2020-04-02 08:17:54+00:00,1245626497588551681,nymproject,"work by NYM of Head of Research @aniampiotrowska  along with 
+George Kappos, @sanket1729 @sr_gi @socrates1024  ,Sarah Meiklejohn  was featured in  in this weeks @zkCapital
+ This Week in Blockchain Research!
+Have a look here: https://t.co/U9sRHklgen #LightningNetwork
+#Bitcoin https://t.co/vQglOvu5zo",13,0,2,2020-04-02
+82,2020-04-03 08:50:45+00:00,1245997152125554688,nymproject,"#Zksnarks is not enough. Gobal passive adversary can monitor the entire #ETH network harvesting metadata. By supporting the NYM  gitcoin grant you are supporting the development of network level privacy for all #dApps https://t.co/0szAkJxyDG
+@owocki #gitcoin https://t.co/14TlDRgoro",8,0,2,2020-04-03
+85,2020-04-06 13:33:34+00:00,1247155488107581441,nymproject,"Watch NYM Chief Scientist Claudia Diaz talk about ""The challenge of being anonymous on the Internet"" a talk from 2018 and still very relevant today. #VPN #TOR #Privacy #COVID19
+https://t.co/db4mQY1FQE https://t.co/7DsjUTHfJc",9,0,0,2020-04-06
+87,2020-04-07 10:11:05+00:00,1247466920733036544,nymproject,The Nym project is making all its resources and mixnet available for privacy-enhanced #COVID tracking and we welcome all interested developers join us: Keybase: https://t.co/5FmW1IBO2w Telegram: https://t.co/jZhrGB4O50 Documentation: https://t.co/EypWrDy3NR #Privacy #Datenschutz,10,0,5,2020-04-07
+88,2020-04-08 16:28:17+00:00,1247924236209061890,nymproject,There  is still time left to build network level privacy that can be used for all #dapps . In the post #COVID age #privacy will matter more than ever before. Take action and get your funds matched at our #Gitcoin grant: https://t.co/0szAkJxyDG Thanks to @exiledsurfer @quijote30,8,0,3,2020-04-08
+89,2020-04-09 20:56:20+00:00,1248354079883100161,nymproject,The testnet launch is now live in Vietnamese! https://t.co/9YfVUPOB4N https://t.co/qJKMz90HAS,4,0,1,2020-04-09
+93,2020-04-10 10:29:22+00:00,1248558685024124933,nymproject,There is also an Indonesian thread at bitcointalk: https://t.co/dvF0WuVh71,2,0,0,2020-04-10
+96,2020-04-11 15:09:23+00:00,1248991542842400768,nymproject,Thanks to all our grassroots supporters at @gitcoin - we got even more donations this round than last time!  https://t.co/0szAkJxyDG,4,0,0,2020-04-11
+98,2020-04-13 07:21:07+00:00,1249598475639181312,nymproject,币安生态隐私项目 Nym 开启「混合网络」用户测试 - 链闻 ChainNews https://t.co/ht1qujXbJR via @ChainNewscom,6,0,2,2020-04-13
+101,2020-04-14 16:53:43+00:00,1250104962509606917,nymproject,"VPNs, Tor, I2P — how does Nym compare?https://t.co/Rfp1muKnnp #TOR #I2P #Loki #VPN #dVPN #cVPN",20,1,11,2020-04-14
+102,2020-04-15 14:14:00+00:00,1250427154820562948,nymproject,"NYM Chief Scientist @claudsdayz talks about mixnets #privacy as well as PEPP-PT and DP3T  #COVID https://t.co/H1AVQzpOoT
+@zeroknowledgefm",8,0,2,2020-04-15
+104,2020-04-17 11:38:35+00:00,1251112818323177474,nymproject,"Decentralized Protocol Removed From EU Contact Tracing Website Without Notice 
+https://t.co/aStsuEM6eu #COVID19 #Datenschutz #Privacy https://t.co/lYdga5Y4di",5,0,2,2020-04-17
+105,2020-04-18 07:44:23+00:00,1251416268969779200,nymproject,"@Modewei88 @YAPGlobalTeam @Cointelegraph Have a look at the documentation here: https://t.co/mKkqteAIoK
+
+Thanks",0,1,0,2020-04-18
+107,2020-04-20 10:31:44+00:00,1252183158918918146,nymproject,"The @nymproject is proud to join France's foremost startup program, the Founders Program at @joinstationf!
+
+Listen to the podcast, hosted by none other than @roxannevarza, about how Europe is building a privacy-first ecosystem to rival Silicon Valley!
+
+https://t.co/UCh8l5EVw5 https://t.co/0mRttKrkHx",12,1,3,2020-04-20
+108,2020-04-22 11:10:33+00:00,1252917702559137793,nymproject,"the cypherpunk trifecta: network-level privacy, uncensorable electronic cash and a way to prove things anonymously https://t.co/G9MP3Iev63 #Bitcoin #Privacy",9,1,1,2020-04-22
+109,2020-04-23 10:06:23+00:00,1253263943314931713,nymproject,"Are you a developer working on a #COVID tracker? Check this out-&gt;
+Sphinx + WebAssembly for coronavirus tracking app privacy
+https://t.co/gHV5jLssKR
+#Covid19 #Privacy #Datenschutz",8,0,6,2020-04-23
+111,2020-04-24 10:03:45+00:00,1253625669331947520,nymproject,"We'll be mentoing volunteers on how #DP3T, #Robertprotocol, and other corona contact tracing efforts work TODAY as part of @EthTurin at 14:00 CET. Come along!  Check out the 'mentoring' track in Discord. 
+https://t.co/VvbuSuksgp",5,0,0,2020-04-24
+113,2020-04-29 18:51:29+00:00,1255570418527883266,nymproject,Our first ever @nymproject AMA with CEO @harryhalpin will happen tomorrow (April 30th) at 8:00 PM with Blockchain Nigeria! Global South First! @BlockchainNG https://t.co/R2ZSCWsVft,9,0,1,2020-04-29
+115,2020-05-03 16:16:35+00:00,1256980985041883137,nymproject,"Follow this important tweet-storm by our new COO @alexis_roussel - he got the ""right to digital integrity"" added to the Cantonal Constitution! https://t.co/B6mFjSa7Ve",5,0,1,2020-05-03
+116,2020-05-04 20:22:23+00:00,1257405233967370242,nymproject,"In 30 minutes, CEO @harryhalpin will be discussing ""What Layer One Solutions All Get Wrong About Privacy""? Any guess for what that could be! Get tickets and join here at https://t.co/VL3U4ydbrw",7,3,2,2020-05-04
+117,2020-05-05 10:02:43+00:00,1257611674107944962,nymproject,Бизнес по видеочату: как переход в онлайн отразился на биткоин-компаниях https://t.co/K4vqegE89O @ForkLog #bitcoin #COVID19,2,0,0,2020-05-05
+118,2020-05-06 18:07:44+00:00,1258096120200388614,nymproject,"Debate between @harryhalpin and @shivmalik on ""Data Ownership vs. Privacy"" at @ReadyLayerOne starting now! https://t.co/hU8Jxqn9Jv",6,1,1,2020-05-06
+119,2020-05-10 21:39:10+00:00,1259598880964034563,nymproject,Are you a Masters student at @Haute_Ecole_Arc  in #Neuchâtel looking for a thesis topic? Join us for your masters thesis in  blockchain and privacy! https://t.co/hzxQEjvMA3,3,0,1,2020-05-10
+120,2020-05-11 19:15:41+00:00,1259925163359055872,nymproject,"In three hours (Midnight CET/10 UTC/6 PM EST) at @CoinDesk's Consensus,  after Neal Ferguson, our CEO @harryhalpin joins Nadine Strossen of @aclu and Steven of @OrchidProtocol on ""Privacy vs the Public Good"" Registration is free! Code: consensusdistributed https://t.co/ZTE0vQsURr",2,0,1,2020-05-11
+122,2020-05-12 16:06:24+00:00,1260239915780132865,nymproject,"@njal_la @ZcashFoundation @ElectricCoinCo @mullvad @torproject @Tails_live @alexis_roussel @theog__ @harryhalpin If you can, come early to see @elenita_tweets talk on ""None of Your Business: Why Our New Virtual Lives Need Crypto Privacy"" to get you ready to install your @zecwallet if you haven't already done so! 
+
+See you soon!",4,1,0,2020-05-12
+128,2020-05-13 12:39:06+00:00,1260550133470695427,nymproject,Best background at #ConsensusDistributed  @harryhalpin @BLR13 #zcash #privacy #bitcoin #monero https://t.co/EpGvJgI2Lp,9,0,0,2020-05-13
+129,2020-05-15 10:38:08+00:00,1261244465949401089,nymproject,"Harry Halpin  talking about the Canton of Neuchâtel:
+https://t.co/RtD4gTlCHY
+en français: https://t.co/lUEtUi0Z1V
+#Swiss #Neuchatel #Privacy",6,0,1,2020-05-15
+130,2020-05-17 16:38:45+00:00,1262059997049094152,nymproject,"Comment la blockchain sauvera la vie privée?
+
+Les nouvelles en français sur la création de mixnets par le même mouvement cypherpunk qui a créé Bitcoin! Audjourd'hui @nymproject poursuit la vision d'un réseau mondial privé et anonyme: 
+ @CoinTribune
+
+https://t.co/30Jxowgbks",3,0,1,2020-05-17
+131,2020-05-23 15:42:51+00:00,1264220253615263746,nymproject,"Do not forget to join our telegram, https://t.co/jZhrGB4O50 #privacy",4,0,1,2020-05-23
+132,2020-05-25 18:29:11+00:00,1264986888634589186,nymproject,"Although Nym is based in Neuchatel and has not chosen to base themselves in Zug like many other ""blockchain not bitcoin"" projects, we look forward to virtually meeting all of ""Cryptovalley""!  
+
+Get ready to roll #Cryptovalley... https://t.co/lKnhD6KLt2",8,0,0,2020-05-25
+134,2020-05-26 11:15:51+00:00,1265240225233715200,nymproject,"Not a good sign for #Zug and #Cryptovalley - but we are still proud to be presenting our technical work on Nym at the premierCryptovalley conference on June 15th! 
+
+Should our home of Neuchatel call itself #Cryptolake? 
+
+https://t.co/LcbmXQuX1F",3,0,0,2020-05-26
+135,2020-05-27 18:41:38+00:00,1265714798966210561,nymproject,"Congratulations to our advisor @carmelatroncoso and @EPFL_en for leading the technical development of #DP3T - now live for testing, supported by Google and Apple, and soon all of Switzerland! https://t.co/0XjhhrVv0y https://t.co/gZGb0wxkJw",6,0,1,2020-05-27
+136,2020-05-29 17:59:41+00:00,1266429016799666178,nymproject,"We'll be running a workshop on COMPLETE ANONYMITY online this Sunday May 31st 18:00 GMT, with rewards in your favorite privacy-enhanced crypto, VPN, and more! Just sign up here to get the secret invite: https://t.co/0d33yWhETv",10,0,4,2020-05-29
+137,2020-06-01 13:28:20+00:00,1267447894220685312,nymproject,"We are in solidarity with the protests in the streets of the USA against the murder of #GeorgeFloyd and thousands like him by racist US police. 
+
+We provide tools to help the oppressed against the information asymmetry in the hands of the oppressors. #BlackLivesMatter https://t.co/8uOCbx0nvf",7,0,1,2020-06-01
+138,2020-06-02 18:52:38+00:00,1267891892538298370,nymproject,"Francophones, notre COO @alexis_roussel
+discutera ce soir de la protection des données sur la télévision suisse!
+https://t.co/dtNKnLFFKM",6,0,0,2020-06-02
+140,2020-06-03 09:23:23+00:00,1268111026630860805,nymproject,"We're proud to be the portfolio feature of @BinanceLabs this month - @Binance supports privacy during these turbulent times!
+
+ And definitely check out ""The Culture Code"" - one of @cz_binance's book recommendations and of ours too! https://t.co/CZJPoorXzN",12,2,4,2020-06-03
+141,2020-06-04 21:53:30+00:00,1268662185980571654,nymproject,Glad to see Bitcoin has noticed that network attacks on its p2p layer can be fatal and impossible to notice - and the fix in Core is just a bandaid. This is why Bitcoin needs the @nymproject mix-net more than ever!! https://t.co/KIefv6MGhG,8,0,2,2020-06-04
+142,2020-06-05 10:44:40+00:00,1268856258708361217,nymproject,"We'd like to announce that the Nym community has just set-up their own Telegram channel to help people install Nym mix-nodes! 
+
+Join here: https://t.co/t7wtOM8wPC
+
+Thanks to awesome community members Hans and Sanny! Let's start the mixnode install party!! https://t.co/GwLzRdQA7Z",20,0,7,2020-06-05
+143,2020-06-07 20:15:02+00:00,1269724568459120641,nymproject,"@cburniske @lightcoin @torproject @signalapp @telegram @ElectricCoinCo @decredproject @the_matter_labs @aztec @OrchidProtocol @aztecprotocol Despite a lack of incentives  and developer tooling...
+
+Projects like @torproject and us work on ""layer 0"", the network-layer. 
+
+@ElectricCoinCo shows it can be on ""layer 1"", the blockchain.
+
+@signalapp shows it can be done on the app layer. 
+
+And many more will follow we hope!",3,0,0,2020-06-07
+145,2020-06-08 16:09:33+00:00,1270025178647597056,nymproject,"Get ready to rumble!! Starting in 5 minutes everyone - everyone in our community chat just got free tickets,  and you can still register here for free!! https://t.co/A3kqFeKTfs https://t.co/3RvFMo5Bt4",2,0,0,2020-06-08
+147,2020-06-09 09:52:52+00:00,1270292773091135488,nymproject,"Maureen's talk will cover the history of hacking and politics, from MIT AI Lab to Chaos Computer Club to blockchain technology! 
+
+And the legacy of the original cypherpunks from Hughes to Assange - and to Danezis - we proud to bear carry forward at @nymproject https://t.co/nem1QwIRx9",4,0,0,2020-06-09
+148,2020-06-10 11:41:26+00:00,1270682480543248386,nymproject,"Today, we turned on access to the Nym testnet for developers by releasing a working ""mix gateway"", similar to a Tor entry point. Overnight, 141 clients registered. 
+
+We have no idea who these people are, as it should be! 
+
+Developer tutorials coming soon!
+
+https://t.co/X31yT6C870",8,1,1,2020-06-10
+149,2020-06-11 18:38:10+00:00,1271149743608139778,nymproject,"Without a mixnet, it's not REALLY private:  ""That sentiment was echoed by former bitcoin core contributor Gavin Andresen in a November blog post on Tornado Cash, highlighting additional measures such as IP-address masking that most users don’t consider""  https://t.co/hzAHc4lqBJ",4,0,1,2020-06-11
+151,2020-06-12 12:19:54+00:00,1271416939274022913,nymproject,"The founding story of @nymproject's project to bring absolute privacy to the Web via mixnets - and it's ""complicated"" relationship with Libra's @GDanezis - is out!
+
+Featuring @futurechimp  @harryhalpin @claudsdayz @aniampiotrowska @BenLaurie and a guest appearance by @torproject! https://t.co/GizEamSO4h",14,0,5,2020-06-12
+152,2020-06-15 20:58:13+00:00,1272634539647664128,nymproject,"Our CEO @harryhalpin presented our upcoming work on ""Nym Credentials: Privacy-Enhanced Decentralized Identity with Blockchains""  at the virtual @thecryptovalley conference! 
+
+Videos of academic track online:
+https://t.co/BpSiLzxaRU https://t.co/4pC3JScv9F",9,0,3,2020-06-15
+153,2020-06-16 22:54:36+00:00,1273026216489111553,nymproject,"We look forward to seeing everyone in (hopefully Lucerne!) at the next #Cryptovalley conference!
+
+Do ask questions on the presentation by @harryhalpin in the comments of the Youtube section - more big news on which major L1 will be adopting Nym Credentials coming soon!! https://t.co/8Yg6cbF4Ry",5,0,2,2020-06-16
+154,2020-06-17 09:46:08+00:00,1273190179336073216,nymproject,"The NYM Gitcoin grant is LIVE: https://t.co/0szAkJxyDG
+
+We need network level privacy for all txs, dapps and communitcation. 
+
+If you think that zksnarks and onchain privacy is enough, watch this presentation: https://t.co/Uu3L0gLOJk
+
+#gitcoin #privacy https://t.co/54AQavnSvx",10,0,2,2020-06-17
+155,2020-06-21 19:48:43+00:00,1274791378409664513,nymproject,"@ChrisBlec @AriDavidPaul This doesnt only apply to #DeFi but all crypto tx, dapps and sidechains, without network level privacy what are we building? #privacy",1,0,0,2020-06-21
+156,2020-06-27 14:02:54+00:00,1276878675452010496,nymproject,@DragongrassNL @harryhalpin Thank you a lot for your support. There is no publicly available timeline for the public token. There is a testnet and active development. Join us on telegram or keybase: https://t.co/fgwNnVBzxn  https://t.co/uGWAwnx8jj and read our docs https://t.co/WGnbAjsiGR,2,0,0,2020-06-27
+158,2020-06-28 18:49:11+00:00,1277313111490539527,nymproject,"We're featured in @binance's June newsletter in English as their featured project: ""Nym provides privacy at the network layer for any blockchain or app.”"" 
+
+https://t.co/RCiBvh1XV8",10,2,6,2020-06-28
+160,2020-06-30 11:42:20+00:00,1277930465022947333,nymproject,"We've delayed the workshop one day (till 13:00 Wedensday) to get some of supporters setup with servers. 
+
+We want to make it possible to run a mix node to fight for privacy even if you aren't a command-line wizard!",3,0,1,2020-06-30
+162,2020-07-03 09:05:31+00:00,1278978163293466625,nymproject,"Last chance to support NYM at the gitcoin matching round: 1 DAI contrabution can make a difference due to quadratic funding.
+https://t.co/0szAkJxyDG
+#ETH #Gitcoin #Privacy",3,0,2,2020-07-03
+163,2020-07-08 12:00:29+00:00,1280834136593268744,nymproject,"Happening TODAY @aniampiotrowska will be presenting ""Building private future for the internet with the Nym mixnet"".at 17:00 UTC (18:00 London/19:00 CET). Live stream and decentralized chat details here: https://t.co/WhsNDv27JM",14,0,3,2020-07-08
+164,2020-07-13 11:05:33+00:00,1282632250954309632,nymproject,"Our CEO @harryhalpin will be discussing how we need ""full stack"" privacy from the browser to the packets on the wire with @nymproject tomorrow at @binance's ""Off the Charts"" conference! 
+
+How many exchanges will stand up for user privacy? #BinanceTurns3 https://t.co/8jv3jfsY16",10,1,6,2020-07-13
+166,2020-07-14 10:40:20+00:00,1282988292934336513,nymproject,"In the spirit of @elonmusk, get ready for the panel on defending our digital privac with @harryhalpin of @nymproject and @BrendanEich of @brave at 4:20 TODAY! https://t.co/cWXeflmSqs",9,0,4,2020-07-14
+169,2020-07-15 19:51:11+00:00,1283489305676177409,nymproject,"The @binance twitter just got hacked! Don't give money to scammers ... and don't invest in scams either!!
+
+   https://t.co/Pbnf0YQwcH",3,0,0,2020-07-15
+170,2020-07-17 12:00:01+00:00,1284095507976065024,nymproject,"We're going to have an testing session with a new Android messenger (made by the community!) for our open testnet next week, with shielded ZEC rewards! 
+
+If you want to join, please fill this form out so we know what OS you and other details to help us! https://t.co/5QhOS6GW8a",6,0,2,2020-07-17
+171,2020-07-21 11:37:34+00:00,1285539410369548288,nymproject,"Join @nymproject's  at @rightscon for ""Resisting Cybercolonialism and Authoritarianism with Privacy Technology"" 12:30 ET Friday July 31 with  Guatemalan human rights lawyer @avilarenata,  @alexis_roussel  Roberto Milscheto! 
+
+LAST DAY TO REGISTER FOR FREE: https://t.co/iXl3VUOWVm",13,0,4,2020-07-21
+172,2020-07-23 11:34:04+00:00,1286263306697740288,nymproject,"NYM Head of Research @aniampiotrowska will be speaking at - Hackers On Planet Earth 2020 - ""Resistance to NSA-Level Global Adversaries With the Nym MixNet""
+July 25th 1800 CET https://t.co/RAQh9sY4SH Register Now-&gt; https://t.co/I3ZYDEKqbX
+@hopeconf #hopeconf",9,0,2,2020-07-23
+173,2020-07-25 12:21:58+00:00,1287000134757363712,nymproject,"TODAY come to free @hope2020 talk on mixnets by @aniampiotrowska!! 
+
+In a few hours, we'll explain how VPNs and even Tor can be attacked by an adversary that monitors the whole network (hint hint NSA), and how Nym prevents  these attacks! At 16:00 GMT!
+
+https://t.co/RAQh9sY4SH https://t.co/UKJALyQIx6",10,0,5,2020-07-25
+174,2020-07-26 07:25:56+00:00,1287288025488162816,nymproject,"""Is it more safe to trust a random group of people with your app than a single third party? For decentralization to work, we need stronger accountability. Most of what I see in the blockchain space is decentralization theatre."" @harryhalpin @Cointelegraph 
+https://t.co/OOjNRoBjNx",6,2,2,2020-07-26
+175,2020-07-28 06:14:25+00:00,1287994805096796160,nymproject,"NYM head researcher Ania Piotrowska was part of the Matrix — Open Tech will Save us meetup
+Check out the replay here: 
+https://t.co/TYoS9nAxv6
+#Privacy #Mixnet https://t.co/oTPy6xRvyF",4,0,1,2020-07-28
+176,2020-07-29 11:20:30+00:00,1288434219119783936,nymproject,"“Nym Credentials: Privacy-Preserving Decentralized Identity with Blockchains”
+NYM CEO Harry Halpin at the Crypto Valley Conference
+https://t.co/8ZErn8d6cu
+#Privacy #Blockchain #Mixnet",3,0,0,2020-07-29
+177,2020-07-30 05:48:00+00:00,1288712931010588674,nymproject,"Watch the replay of the panel: Freedom and Civic Duties: How to beat surveillance capitalism and reclaim your privacy at Cogx 
+
+https://t.co/fbrsUgYTGv #Privacy #Mixnet",3,0,0,2020-07-30
+178,2020-07-31 16:13:42+00:00,1289232780690255872,nymproject,"Get ready to discuss how privacy-enhanced technologies like Tor and mixnets are needed in the fight against cyber-colonialism! Panel with @avilarenata @alexis_roussel
+starting now!
+
+Livestreaming from #RightsCon @rightson
+
+https://t.co/Gccx30wIvY",3,1,3,2020-07-31
+181,2020-08-01 09:23:09+00:00,1289491849862733824,nymproject,"There is currently no NYM token in existence that is associated to @nymproject https://t.co/GCBVX1INWy 
+Any tokens trading on @UniswapProtocol or other DEX´s or exchanges are not associated with NYM. Please do your own research and beware of scams. #ETH #Privacy",13,2,5,2020-08-01
+182,2020-08-02 12:17:21+00:00,1289898078246334466,nymproject,"In case you missed it check out Harry Halpin´s talk from Read Layer One “Why Layer One Solutions All Get Privacy Wrong”
+https://t.co/N1wLl9OCty
+#Privacy #ETH #BTC #XMR #ZEC https://t.co/pLeCIhHtI5",5,0,0,2020-08-02
+183,2020-08-03 12:57:23+00:00,1290270539139952640,nymproject,"Almost a year ago @harryhalpin gave a talk at the CCC Camp:
+
+Fighting back against Libra - Decentralizing Facebook Connect
+
+Watch the replay here: 
+https://t.co/vUwuVKYN7d
+#DeFi #Privacy #Facebook #Libra",6,1,1,2020-08-03
+184,2020-08-04 09:37:41+00:00,1290582673325461504,nymproject,"We can not depend on governments to fund #privacy tools. #signal #tor #tails 
+https://t.co/scI8qxlJg5",10,1,4,2020-08-04
+186,2020-08-07 11:04:29+00:00,1291691679318249473,nymproject,We would like to congratulate our head of research @aniampiotrowska on passing her PhD viva!,20,1,2,2020-08-07
+187,2020-08-10 07:58:12+00:00,1292731961342124033,nymproject,"In case you missed it:
+
+""Rightscon: Resisting cybercolonialism and authoritarianism with privacy technology""
+
+Watch the replay here: https://t.co/B1y4LqKyrc
+Do not forget to subscribe to the NYM youtube
+
+@harryhalpin @avilarenata @alexis_roussel 
+#Privacy #Surveillance #TOR #VPN",7,0,2,2020-08-10
+188,2020-08-12 12:16:02+00:00,1293521623178510338,nymproject,"CODE IS A WEAPON
+
+In the era of ubiquitous #surveillance and globally-banked cryptocurrency projects like Facebook's #Libra, how can cryptoanarchists fight back? 
+Watch the video here from #HCPP19 ttps://youtu.be/6FwVH3hZUyk",4,3,0,2020-08-12
+192,2020-08-13 17:51:51+00:00,1293968523472109576,nymproject,"The NYM community is stronger than ever. There is a community run help chat to help people get started with running a mixnode on our #mixnet testnet-
+https://t.co/t7wtOM8wPC
+Our general NYM chat: https://t.co/fgwNnVBzxn and announcement channel: https://t.co/xRKaRfgZSA #Privacy https://t.co/TghmAnad1T",6,1,1,2020-08-13
+193,2020-08-14 14:59:41+00:00,1294287584965861378,nymproject,Is the #LightningNetwork private? What kind of metadata can global network adversaries harvest from the network? Watch NYM Chief Scientist Claudia Diaz speak @LNconf https://t.co/KDahcam3mz,3,0,0,2020-08-14
+194,2020-08-15 09:08:44+00:00,1294561651425980416,nymproject,"Congrats @NagatoDharma! Welcome to the mixnet testnet, our first node from Greece!
+
+https://t.co/VFVgvs96D1",9,2,3,2020-08-15
+196,2020-08-16 17:07:28+00:00,1295044519067627520,nymproject,"#BinanceTurns3 Panel ""Mission Critical: Maintaining User Privacy and Shielding User Data"" with @peter_demeo @BrendanEich and @harryhalpin https://t.co/eHXZRygmhY @binance #privacy #surveillance #bitcoin #ethereum",3,0,0,2020-08-16
+197,2020-08-18 12:32:27+00:00,1295700083665756160,nymproject,"As the world continues to unravel, Nym is preparing a simple to use SOCKS5 client to allow easy application integration to the growing Nym #mixnet testnet. -&gt;&gt; Join the testnet: https://t.co/zTTitVtwd5 
+keybase: https://t.co/5FmW1IBO2w #bitcoin #ethereum #privacy",10,0,1,2020-08-18
+198,2020-08-20 07:28:03+00:00,1296348254741954560,nymproject,"#Futureproof is just around the cornder on Aug 23rd : NYM CEO Harry Halpin will be speaking on
+“The History and Future of How Governments Censor Crypto” @DystopiaLabs #Mixnet #Privacy #Surveillance https://t.co/8qtx5iNkwJ",11,1,2,2020-08-20
+200,2020-08-21 19:20:04+00:00,1296889829179957249,nymproject,"NYM Chief Scientist @claudsdayz will be presenting ""Introduction to network anonymity and mixnets"" at the 2020 Summer School on Cyber &amp; Computer Security on Sept. 20th Register Now: https://t.co/TntRQQT0l5… #Mixnet #Privacy #Surveillance https://t.co/GFNJjAllya",6,0,1,2020-08-21
+201,2020-08-22 11:56:10+00:00,1297140502085677056,nymproject,"In this article about taking Bitcoin back to its subversive roots, @lunar_mining says she is running a Nym node! Congratulations for joining the mixnet testnet!!
+
+https://t.co/ajd147iDuj",21,4,10,2020-08-22
+203,2020-08-23 10:26:07+00:00,1297480231956209664,nymproject,"@jemenger @lunar_mining @ethstatus There have been some extensive discussions between @ethstatus and us for integration. Vac provides a better p2p layer, and Nym adds, well, anonymity optionally if a Status user wants it.",1,0,0,2020-08-23
+207,2020-08-24 10:42:17+00:00,1297846686132457475,nymproject,"""The problem with the way that the online infrastructure is built today is that it is not built for privacy, one could even say it is built for surveillance."" Claudia Diaz - Chief Scientist NYM
+https://t.co/DX8kRYnjUw
+Join us -&gt; https://t.co/jZhrGB4O50
+#privacy #bitcoin #ethereum",13,1,3,2020-08-24
+208,2020-08-25 07:09:54+00:00,1298155627903176706,nymproject,"NYM has been awarded a grant to add Coconut Anonymous Credentials to the Cosmos SDK from @interchain_io
+Read more about Coconut selective disclosure credentials here: https://t.co/N9qN1xRxQ5
+Join us in Telegram: https://t.co/jZhrGB4O50
+#Privacy #Cosmos https://t.co/2SJakxLSL4",43,0,9,2020-08-25
+209,2020-08-26 11:57:02+00:00,1298590271576444928,nymproject,"Without network level privacy, global passive adversaries (NSA) can harvest critical metadata on all #cryptocurrency transactions. Join us in our mission to create a generic #mixnet to mix them ALL! 
+Telegram: https://t.co/jZhrGB4O50
+Keybase: https://t.co/5FmW1IBO2w #Privacy https://t.co/nXJh5g39QZ",5,5,0,2020-08-26
+210,2020-08-27 06:06:57+00:00,1298864559600668672,nymproject,"@Stevegriffin80 @UniswapProtocol Please join the ANN channel 
+https://t.co/CBbZ1ISlun to get the lastest information.",0,0,0,2020-08-27
+211,2020-08-28 12:05:20+00:00,1299317138864340993,nymproject,"Today, @nymproject is on the ground in Frankfur at @UNCHAIN_Con. 
+
+Our @theog__ can talk about Nym, and we just got Bitcoin with Confidential Transactions working thanks to our new SOCKS5 proxy. Coming to your wallet soon! https://t.co/YcZaqjdAJf",9,1,3,2020-08-28
+212,2020-08-29 12:18:21+00:00,1299682801223184384,nymproject,"Laws will not protect you. 
+
+Laws are built by the powerful, for the powerful. To defend their interests. Any law will be enforced and can be  violated at will when convenient. 
+
+Only technology protect you from surveillance. https://t.co/dK2PIaUL9t",13,2,2,2020-08-29
+213,2020-08-31 10:47:14+00:00,1300384647315152898,nymproject,Check out the Wasabi research club 13 that covers - NYM &amp; Loopix https://t.co/uIRPbrIKJN #bitcoin #privacy #mixnet  @nopara73,4,0,1,2020-08-31
+214,2020-09-02 12:15:34+00:00,1301131651850948609,nymproject,"A new podcast on the Nym mixnet with @anathaCEO, with a focus on the big picture of why privacy matters in a world that is melting down...
+
+AND the details of how to integrate a wallet to Nym using SOCKS5!
+
+https://t.co/xSeLKAPCzr",8,0,4,2020-09-02
+215,2020-09-04 07:15:52+00:00,1301781007385931776,nymproject,"Listen to @harryhalpin on A Rock Uncovered with @DidierBorel1 ""A lot of people think incorrectly that #bitcoin is private""
+https://t.co/niczYLRczc 
+#Privacy #Switzerland https://t.co/WHOphXN8hm",7,0,4,2020-09-04
+217,2020-09-05 15:37:11+00:00,1302269553578307586,nymproject,"Join the NYM #Mixnet testnet. Soon with SOCK5 that allows you to route #Bitcoin tx through the mixnet! Quickstart: https://t.co/CLUblbJEiO
+Node Support Chat:: https://t.co/t7wtOM8wPC
+NYM Telegram: https://t.co/jZhrGB4O50
+#Privacy https://t.co/8MDWXbtp3P",14,0,4,2020-09-05
+218,2020-09-06 19:28:27+00:00,1302690141799096324,nymproject,"Register for the online CyberSecurity Summer School, starting tomorrow!
+
+Nym Scientist @claudsdayz is on Thursday Sept 10 on ""Introduction to network anonymity and mixnets""
+
+https://t.co/YiAbKdRZof",6,0,3,2020-09-06
+219,2020-09-07 12:37:08+00:00,1302949018977406979,nymproject,"An introduction to NYM https://t.co/gLdTLr2suG
+Get ready for the incentived #mixnet testnet: https://t.co/CLUblbJEiO
+https://t.co/t7wtOM8wPC
+#Privacy",10,0,1,2020-09-07
+220,2020-09-08 13:20:14+00:00,1303322252637802498,nymproject,We at @nymproject are happy to be teaming up with @interchain_io to bring privacy to the #Cosmos ecosystem! https://t.co/LWMhcHTYUe,48,4,16,2020-09-08
+222,2020-09-09 17:30:11+00:00,1303747542434357248,nymproject,"@FunkNoobDentist Thanks, for the support!! More interesting things to come shortly...",1,0,0,2020-09-09
+224,2020-09-10 09:57:27+00:00,1303995996884668416,nymproject,"Our chief scientist @claudsdayz is NOW giving her workshop at the 2020 Privacy Summer School as ""Introduction to network anonymity and mixnets""! 
+
+""Traffic analysis, not cryptanalysis, is the backbone of communications intelligence."" Diffie and Landau
+
+https://t.co/RcjcDnBfBC https://t.co/GIraXqPLLi",7,0,2,2020-09-10
+227,2020-09-11 10:49:23+00:00,1304371456437104642,nymproject,"Overnight, we have gone over 100 nodes! However, if you setup a node you will get in queue, as unstable or down nodes will be kicked off of the mixnet!",13,0,3,2020-09-11
+229,2020-09-12 11:02:11+00:00,1304737062034305024,nymproject,"""Nym’s SOCKS5 architecture made adding Blockstream Green wallet support easy, and we’ll keep an eye on the project with a view to adding standalone support in the future” cypherpunk CEO @adam3us of @Blockstream on @nymproject
+
+NSA-proof BTC privacy coming!
+https://t.co/yiUg00mlfq",34,3,6,2020-09-12
+231,2020-09-13 16:06:10+00:00,1305175952381669384,nymproject,"Do you want to work on anonymous communication while pursuing your degree and getting paid? 
+
+We now have official internship programs with @MIT and @EPFL! Get in touch if you are a MIT or EPFL computer science student and want a paid internship!
+
+https://t.co/0R3qm9QFOs",17,0,7,2020-09-13
+232,2020-09-15 18:13:56+00:00,1305932882838540288,nymproject,"The NYMPH mixnet testnet news is now in Russian in @forklogmedia!
+
+We're happy to see nodes up all over the world for our testnet.
+
+https://t.co/qO1v0EqlYi",9,0,3,2020-09-15
+234,2020-09-16 00:42:07+00:00,1306030571005542401,nymproject,"Now it appears our mixnet and NYMPH are in the Chinese blockchain media. 
+
+Let's get more mix nodes going in Asia!
+
+https://t.co/etVCgmHDTN",11,0,2,2020-09-16
+237,2020-09-17 14:20:30+00:00,1306598912560513024,nymproject,"Streaming a 1080 HD video over the NYM #Mixnet Testnet. https://t.co/lZfFoxRKYO
+Join us in telegram: https://t.co/jZhrGANcGq #Bitcoin #Privacy #Ethereum #Monero",12,3,2,2020-09-17
+238,2020-09-21 07:32:14+00:00,1307945720234770432,nymproject,"""You are not anonymous on Tor"" in a new story by @BTCTN shows 
+
+While Tor is still the best there is for web browsing, and we're still working on SURBs for sender/receiver anonymity, if you want anonymity against powerful third parties, test Nym out!
+
+https://t.co/iVJGnq8Oev",10,0,3,2020-09-21
+239,2020-09-22 08:45:40+00:00,1308326588728123392,nymproject,@claudsdayz @magicalcrypto @Excellion Thanks for the swag! https://t.co/CqjCS2QnBC,7,1,0,2020-09-22
+244,2020-09-25 08:59:20+00:00,1309417187858354184,nymproject,"NYM Chief Scientist Claudia Diaz  on the podcast Academia Blockchain “Experta en Criptografía — Mixnets — Tor y Privacidad” En español https://t.co/ga3saYE2XK @aca_blockchain
+#Mixnet #Privacy #Bitcoin https://t.co/RUQAyuol3F",3,0,2,2020-09-25
+246,2020-09-28 07:20:15+00:00,1310479416993239041,nymproject,"NYM CEO Harry Halpin and COO Alexis Roussel will be presenting the NYM incentived mixnet with reputation scores at #HCPP2020
+The event will be in person and online -get your tickets here: https://t.co/EuruDm429r
+@Paralelni_polis https://t.co/Kiw9CCuEkC",17,0,10,2020-09-28
+248,2020-09-29 19:57:35+00:00,1311032395500589057,nymproject,"Both @harryhalpin and other members of the @nymproject team will be at HCPP!
+
+We'll in in masks, but @frankbraun and the @TheRealSmuggler we're wearing masks before it was cool, so we're not going to let COVID19 stop the world's leading cryptoanarchist gathering! https://t.co/hbNmwAmeru",5,0,0,2020-09-29
+249,2020-10-02 11:06:22+00:00,1311985873827885056,nymproject,"France's greatest philosopher of technology and critic of the ""short termism"" of Silicon Valley was part of the European research that proceeded Nym's founding. 
+
+Before COVID19 and his death, he even meet with @harryhalpin and @Narodism to discuss the future of the internet. https://t.co/yn97vXq8IQ",5,0,1,2020-10-02
+251,2020-10-04 09:03:01+00:00,1312679608081420288,nymproject,"Nym AMA between @harryhalpin and @ethstatus at @Paralelni_polis starting now! 
+
+@jarradhope was one of our earliest supporters! 
+
+https://t.co/IqmNGiKeat",10,0,1,2020-10-04
+253,2020-10-05 14:21:47+00:00,1313122216213700609,nymproject,"@jokosuband @theog__ @CryptoNews_Indo @BecekYuli @MGergaji @SubandJack We aren't looking for investors right now. 
+
+We are looking for users and people to run nodes. We have 100s of nodes but we need nodes globally, including in Indonesia. People that run nodes in the testnet are rewarded in Bitcoin.",1,1,0,2020-10-05
+258,2020-10-06 06:25:50+00:00,1313364826635280384,nymproject,"@Raju42000 @CryptoNews_Indo @DimasBangbroz69 @Mdjahir83828963 @eleyas_official @nipon0616 We want to concentrate our efforts in countries like Indonesia.
+
+ Asia has such huge growth and creative people that are left out of Silicon Valley just because they aren't American. We will not touch the USA and support you. That's our strategy.",1,0,0,2020-10-06
+270,2020-10-07 09:59:38+00:00,1313781018114043904,nymproject,"""It is up to us to chart the new waters, draw the maps, tell the stories and build the tools that will shape our future for lifetimes to come. Our time is now. Ready or not the digital totality is upon us."" @Paralelni_polis @wilderko #HCPP20 https://t.co/tT6s7OCVpR",14,0,8,2020-10-07
+272,2020-10-12 16:57:42+00:00,1315698167363629056,nymproject,"In one month we got to 1/10th the size of the @torproject. There is a future for mix-nets!
+
+Join us in creating a privacy framework for asynchronous, message-based traffic that can resist even NSA traffic surveillance! https://t.co/w2krkXfOhc",18,1,8,2020-10-12
+274,2020-10-13 19:11:37+00:00,1316094255560089601,nymproject,"@mbrochh @harryhalpin @Blockstream @bigmagicdao @Liquid_BTC @ZcashFoundation We also discussed with @ethereum, but they decided to go with an abandoned mixnet codebase that doesn't actually provide any real protection. Our take is the Ethereum Foundation are nice but clueless.",0,1,0,2020-10-13
+281,2020-10-14 10:47:21+00:00,1316329741255954432,nymproject,"There are currently over 500 mixnodes on the NYM #Mixnet Testnet! Read more about it here: https://t.co/C1RwINdHGG
+Check out the dashboard: https://t.co/YG6KBRQTnE https://t.co/2w5VcqBw3W",11,0,1,2020-10-14
+284,2020-10-17 11:29:10+00:00,1317427428046868483,nymproject,Join @claudsdayz and @harryhalpin at the ZKP &amp; Privacy Summit on Oct 19th! Sign up now! &gt;&gt;&gt; https://t.co/SQrcY8aJZA #Privacy #Mixnets @DystopiaLabs https://t.co/JzHXJ7N9gN,17,0,6,2020-10-17
+285,2020-10-18 20:16:29+00:00,1317922520633348096,nymproject,NYM is a #Mixnet but that is not all....  Read about Coconut Credentials and why selective disclosure credentials are so sexy: &gt;&gt;&gt; https://t.co/N9qN1xRxQ5 #Privacy https://t.co/Fj6NmfAwLn,14,0,2,2020-10-18
+288,2020-10-19 08:00:36+00:00,1318099717620928513,nymproject,"The @nymproject mixnet now has over 700 nodes in the testnet ... expect the next phase of our testnet to be announced NEXT WEEK. 
+
+While the world has entered unprecedented turmoil, stay calm and keep mixing!",16,0,4,2020-10-19
+289,2020-10-21 07:56:36+00:00,1318823486408765440,nymproject,We want to thank @DystopiaLabs for having @harryhalpin and @claudsdayz speak at the ZKP privacy summit. Join us as we continue the discussion about how Zero Knowledge Proofs are not enough and why we need network level privacy in our telegram&gt;&gt;&gt; https://t.co/jZhrGB4O50 #privacy https://t.co/Av0zntQxyu,11,0,0,2020-10-21
+290,2020-10-23 21:01:28+00:00,1319745781247709185,nymproject,"The State and Future of Anonymous DeFi 
+https://t.co/u8ypMN7Txt
+@defiantnews #DeFi #Privacy #ETH  #XMR #BTC https://t.co/we6omrWJYf",10,1,2,2020-10-23
+292,2020-10-25 07:15:11+00:00,1320262613746487299,nymproject,"In case you missed it watch the replay of @harryhalpin speaking at the ZKP #Privacy Summit ""Holistic Privacy: Why Zero-Knowledge Proofs are Not Enough"" &gt;&gt; https://t.co/jBPvGOUiVd #DeFi #SNARKS #XMR #BTC https://t.co/xl8QubgKEN",5,0,1,2020-10-25
+293,2020-10-27 07:41:22+00:00,1320993978590908416,nymproject,NYM community manager @theog__ will be judging the Human #Defi HAECK hackathon. Over 16k USD in prizes! He is openly bias to #privacy and intergrating the NYM testnet  &gt;&gt;Read More here: https://t.co/la8plq1Oq5 @aeternity https://t.co/7uDenprNMl,9,0,1,2020-10-27
+294,2020-10-28 10:24:07+00:00,1321397324732649472,nymproject,"The NYM #Mixnet Testnet now has over 700 nodes! Join us and earn NYMPH testnet token! 
+Docs: https://t.co/VtipnBmIoW
+Node Help Chat: https://t.co/t7wtOM8wPC
+Telegram: https://t.co/jZhrGB4O50
+
+#Prrivacy #BTC #XMR #ETH https://t.co/TJlgZmyAON",8,0,4,2020-10-28
+295,2020-10-29 14:17:33+00:00,1321818460435918850,nymproject,@DystopiaLabs @beamprivacy @Paralelni_polis @aeternity @DefiantNews @CoinDesk @magicalcrypto,1,0,0,2020-10-29
+296,2020-10-30 10:09:30+00:00,1322118421157392390,nymproject,Want to talk about #Privacy and #Mixnets ? Meet @theog__ at the Crypto Assets Conference today in Frankfurt @crypto_cac #CAC2020 #Bitcoin #DeFi https://t.co/NiLJymr8jx,4,0,1,2020-10-30
+298,2020-11-01 18:00:34+00:00,1322961745695092739,nymproject,https://t.co/xCwI9q3v2W,12,1,2,2020-11-01
+300,2020-11-03 09:31:20+00:00,1323558367588208642,nymproject,"我们有一个NYM微信！
+高隐私平台Nym 爱好者社群
+#Mixnet #Validator #Privacy #VPN #Tor https://t.co/49uOj3en8a",2,2,1,2020-11-03
+302,2020-11-04 13:16:31+00:00,1323977425370447872,nymproject,@claudsdayz @TrustValleyCH Someone has to defend our Swiss data centres and mix networking can be used to defend the digital sovereignty of smaller countries from the NSA :),4,0,1,2020-11-04
+305,2020-11-05 14:17:16+00:00,1324355101809659906,nymproject,"Remember, remember the fifth of November! 
+
+Last year on this day, we published our litepaper. Over the last year, we built the code for the world's first and now LARGEST working mixnet with almost 900 mix node!!
+
+https://t.co/b5yFNcqU9u
+
+. https://t.co/H3JxyJMUKA",16,0,2,2020-11-05
+309,2020-11-06 17:12:32+00:00,1324761596653051905,nymproject,"项目动向 | 隐私基础设施 Nym 与多家 Staking 提供商达成合作
+https://t.co/FtIEy7OhCT
+我们正在成长-超过800个节点是TESTNET的一部分！
+
+！谢谢！
+
+加入测试网
+文件：https：//nymtech.net/docs/
+注册您的节点以获取奖励：https://t.co/YW3EovodRD
+节点帮助聊天：https：//t.me/nymchan_help_chat",3,0,0,2020-11-06
+310,2020-11-07 08:51:47+00:00,1324997966411800577,nymproject,"THIS IS 900!  - OVER 900 NODES ARE PART OF THE TESTNET!
+THE MIXING PHALANX CAN NOT BE DEFEATED!
+Join the testnet and get NYMPH
+Docs: https://t.co/yzqcNtFSR7
+Register your node for rewards: https://t.co/YW3Eov6D05
+Node Help Chat: https://t.co/t7wtOM8wPC
+#Privacy #Mixnet #Bitcoin https://t.co/PReQ8Y70bU",12,0,2,2020-11-07
+313,2020-11-08 21:44:39+00:00,1325554853440069639,nymproject,"@musalbas Yes, that is  @Liquid_BTC. It's a very pragmatic design for exchanges, and in our experience is pretty damn close to instant. Not sure why all exchanges aren't on it, it can handle other assets besides BTC.",7,0,3,2020-11-08
+317,2020-11-09 12:10:26+00:00,1325772735079985154,nymproject,"Our COO @alexis_roussel
+will be presenting the ""right to digital integrity"" at the United Nations Internet Governance Forum on November 17th with : Alexander Isavnin, Jesslyn Radack and hosted by @ppinternational #IGF2020
+
+https://t.co/IMuIQCfD42",11,0,6,2020-11-09
+319,2020-11-10 11:00:33+00:00,1326117538137333760,nymproject,"Council of Europe Draft Seeks to Bypass Encryption ! 
+
+The Council of Europe doesn't pass laws, but...
+
+We need strong privacy tools now than ever! 
+
+https://t.co/cUIlYYTBFY
+
+Join Us
+Telegram: https:/t.me/nymchan
+Web: https://t.co/TkuJegZj6v
+
+#Privacy #E2EE #Mixnet #Bitcoin",7,0,1,2020-11-10
+322,2020-11-12 19:43:36+00:00,1326973943270543367,nymproject,"As part of @TrustValleyCH, @nymproject is teaming up with the one and only @veorq of @taurusgroup_ch - who you may know from the BLAKE hash functions to his book ""Serious Cryptography"" - to make sure our crypto is the best of the best. 
+
+https://t.co/91GQtThcq1",18,0,3,2020-11-12
+323,2020-11-13 08:57:03+00:00,1327173621622730752,nymproject,"In a short period of time the NYM testnet has reached over 1000 Nodes. Tor has about 7000 nodes, when do you think the NYM testnet will have more nodes than Tor? 
+Join the NYM testnet!
+
+Docs:
+https://t.co/yzqcNtFSR7
+
+Node Help Chat: https://t.co/t7wtOM8wPC
+#Mixnet #Privacy #BTC https://t.co/NjX90WRG2Q",5,0,0,2020-11-13
+325,2020-11-14 14:41:01+00:00,1327622571945234436,nymproject,Learn how protocols like the @nymproject mixnet and @OrchidProtocol's dVPN are increasingly necessary with democracy being under assault on Nov 18th! https://t.co/MRCfuTP7CW,9,0,2,2020-11-14
+329,2020-11-15 13:51:16+00:00,1327972440442593280,nymproject,"Hey everyone, thanks for helping us out with the 0.9 UPGRADE last Friday to the Nym, where now the validators have fully decentralized the network.
+
+We have MORE THAN A 1000 MIX NODES over the weekend upgraded!
+
+https://t.co/k7avY8bPN4 https://t.co/9ZmH3cPwxh",7,1,1,2020-11-15
+331,2020-11-16 11:06:53+00:00,1328293455840366592,nymproject,"Get ready for Suisse Romande's #TrustValley effort to meet the ICO haven of #Cryptovalley in Zug over in German-speaking Switzerland this November 19th.
+
+We are building real privacy built on running code in Rust, just say no to scammy pump and dumps!
+
+https://t.co/5EeTaARXkx",7,1,2,2020-11-16
+332,2020-11-17 13:16:30+00:00,1328688463760257024,nymproject,"Today at the United Nations Internet Governance Forum, our COO @alexis_roussel is presenting on his concept of a  ""right to digital integrity""! 
+
+Thanks to the Canton of Valais for making it a reality and @ppsfr @ppinternational. Expect your right to digital integrity to spread! https://t.co/dlTog8oMAG",11,1,3,2020-11-17
+333,2020-11-18 16:33:59+00:00,1329100552219848712,nymproject,"NYM Chief Scientist  Claudia Diaz will be part of LaBitConf 2020  ! 
+@laBITconf #Bitcoin #Privacy #Mixnet https://t.co/7jQ4b1hk05",5,0,0,2020-11-18
+334,2020-11-19 15:50:23+00:00,1329451964510433282,nymproject,"We are 1200 mix nodes! This makes us the largest decentralized privacy project after Tor and Monero - and the LARGEST privacy cryptocurrency testnet ever.
+
+Blog post on rewards and next steps coming soon!
+
+Keep calm, keep mixing, and keep HODLING Bitcoiin! https://t.co/HUERwJNIuS",10,0,2,2020-11-19
+335,2020-11-20 16:25:09+00:00,1329823104093347842,nymproject,"""Can Web3 Help Democracy"" with Harry Halpin (Nym CEO), Cory Doctorow, Vinay Gupta, Seven Waterhouse, and Arwen Smith @cognition_x @leashless @deseventral #Privacy #VPN #Mixnet  Watch Here &gt;&gt;&gt; https://t.co/StL8KxR4MB https://t.co/oZNRLvwdBF",10,0,3,2020-11-20
+336,2020-11-21 22:14:07+00:00,1330273312056995843,nymproject,"To all the Chinese Nym community members, we're doing a panel on the rebirth of cypherpunk in China tomorrow at CAA with @frankbraun, @TheRealSmuggler, and  @suji_yan @realmaskbook! 
+
+Link to register (online and inperson, with Chinese live translation):
+
+https://t.co/oxwwMks5d8 https://t.co/d1DENXA1O0",10,1,3,2020-11-21
+337,2020-11-22 20:01:26+00:00,1330602308753895429,nymproject,"Up next is @aniampiotrowska TOMORROW at ZK Summit, presenting ""Nym: Combining mixnet and anonymous credentials to protect privacy"" thanks to @interchain_io! 
+
+Register now to catch her talk and how Nym fits in with the zk-landscape!
+
+https://t.co/o0WdKd9Whk",3,0,2,2020-11-22
+340,2020-11-23 14:43:50+00:00,1330884770876719104,nymproject,"1352 NODES ARE A PART OF THE NYM TESTNET! As the Greek Phalanx worked together to form a impenetrable defense, so do the mixnodes work together to defend your privacy. 
+
+Join the testnet 
+Docs: https://t.co/EypWrDgsph
+
+Register your node for rewards: https://t.co/YW3EovodRD https://t.co/MDcCXb3GBh",6,1,0,2020-11-23
+342,2020-11-25 07:54:09+00:00,1331506445985189888,nymproject,"TODAY WIN NYMPH AT THE TELEGRAM QUIZ!
+1600 CET ! 
+There will be ONE question, the first person to get it right wins 5 NYMPH!
+
+You must be in our telegram chat  https://t.co/jZhrGB4O50
+
+Stay tuned for more chances to win NYMPH this Friday!
+#Privacy #LiquidNetwork $NYMPH #Mixnet https://t.co/Jf5klsJbao",2,0,1,2020-11-25
+343,2020-11-26 19:21:00+00:00,1332041685606522882,nymproject,"Presented @nextleap2020 at ""Digital Society, Identity and Privacy"" to the European Commission, which showed protecting metadata is a high priority in places like Syria, but where both users and devs are confused by Tor, led to  @nymproject's mixnet. 
+
+https://t.co/Kjc4pliP25",2,1,0,2020-11-26
+345,2020-11-27 08:02:10+00:00,1332233238069338115,nymproject,"Twitter Contest WIN 50 NYMPH
+
+-Describe the NYM mixnet in one tweet- 
+
+Best tweet wins
+
+#RULES
+-Follow @nymproject
+-RT this tweet
+-Include #Mixnet #Privacy
+-Post your tweet in the telegram chat https://t.co/jZhrGB4O50
+
+The contest ends on November 30 00:01 CET https://t.co/jlmPZj2JTY",13,5,5,2020-11-27
+347,2020-11-30 14:22:14+00:00,1333416049484701703,nymproject,"The Nym network went up to 12,000 nodes yesterday, thanks to an overeager participant,. Our infrastructure handled DOUBLE the number of nodes of Tor.
+
+Now, we're back to our real network size at 1600, growing larger everyday! NYMPH have been sent on Liquid!!",16,1,3,2020-11-30
+349,2020-12-01 09:13:05+00:00,1333700638623084553,nymproject,WINNER OF THE $NYMPH Twitter contest #Privacy #Mixnet https://t.co/ndVGYpREbV,7,0,1,2020-12-01
+350,2020-12-02 10:22:59+00:00,1334080617378701314,nymproject,"NYMPH QUIZ
+
+On what two levels does NYM provide privacy protection?
+
+Tweet the answer with hashtags #privacy #mixnet at @nymproject
+Follow @nymproject
+Post the tweet in the telegram chat https://t.co/jZhrGB4O50
+
+A random winner will be chosen by 11:11 CET 03.12.2020
+#Mixnet",2,1,0,2020-12-02
+351,2020-12-04 09:04:03+00:00,1334785526583398400,nymproject,"NETWORK UPDATE  THREAD 
+
+Fellow Nymsters! 
+
+On Monday the 7th, we will be turning the network monitor back on to continue with the incentivized testnet and keep the nodes mixing in the Nym mixnet.",6,1,1,2020-12-04
+363,2020-12-08 08:16:58+00:00,1336223230592421888,nymproject,Blockchain-Based Immunity Passports Don’t Resolve Core Privacy Issues https://t.co/74btLsrbDr #Privacy #Blockchain #Mixnet #Covid,4,0,1,2020-12-08
+364,2020-12-09 15:21:27+00:00,1336692443446697984,nymproject,Sometimes being a privacy extremist is hard. YOU ARE NOT ALONE! Join us in telegram: https://t.co/jZhrGB4O50 #Mixnet #Privacy #VPN #TOR #ETH #BTC #Monero #Zcash @Harrythehorse8 https://t.co/eZCLSeJGZy,12,1,6,2020-12-09
+366,2020-12-10 12:12:48+00:00,1337007354576056324,nymproject,"As part of @stationf, we're going to point out that ZKPs by themselves are a fairly fragile cryptographic construction that can't actually ""beat"" surveillance capitalism, as ALL your network metadata is still exposed.  
+
+It's amateur to even claim this @PBWSummit @LabosNomades https://t.co/XYkBl7MpDQ",2,0,1,2020-12-10
+368,2020-12-11 12:14:55+00:00,1337370274656825344,nymproject,"A lot of people that join our telegram chat ask ""is NYM better than TOR?"" or ""can I use a VPN with NYM?"" in this blogpost by our Head of Research @aniampiotrowska you can find out how NYM compares to #TOR #VPN #dVPN and networks like $Loki https://t.co/ntGNjyNVE2 https://t.co/o5gzItI9Kt",14,0,7,2020-12-11
+369,2020-12-12 07:32:10+00:00,1337661508420071428,nymproject,"#RULES
+You must be following @nymproject
+
+You must retweet https://t.co/H1V5kQN0iC
+
+You must include hashtags #Mixnet #Privacy
+
+Must be in our telegram https://t.co/jZhrGB4O50
+Must post your tweet in the telegram chat
+
+The contest starts now and ends on Dec 15th 00:01 CET",1,1,0,2020-12-12
+371,2020-12-16 07:51:27+00:00,1339115911282880512,nymproject,"...and @Liquid_BTC supports our tokenized mixnode reputation scores with NYMPH. 
+
+Now, we're moving to start investigating #lightning integration next ... watch this space for better network privacy for Bitcoin transactions! https://t.co/pSHGDlUldf",2,0,0,2020-12-16
+372,2020-12-17 22:58:16+00:00,1339706505453592576,nymproject,"We're back to 1500 mix nodes after forcing IPv4 and removing duplicate nodes. So, HOW BIG SHOULD NYM GO? 
+
+How many mix nodes do we need?",2,0,0,2020-12-17
+373,2020-12-21 17:42:26+00:00,1341076578160226304,nymproject,"Join our telegram to find out how you can earn $NYMPH rewards in our latest youtube challenge. https://t.co/jZhrGB4O50 
+#Privacy #Mixnet #Monero #Bitcoin https://t.co/dJrJpruGEL",7,0,1,2020-12-21
+375,2020-12-22 11:01:00+00:00,1341337939574358017,nymproject,"Almost one year ago the NYM testnet was launched at #36c3 Watch @harryhalpin talk at the Critical Decentralisation Cluster: https://t.co/YWdFlvKSgS 
+Join us in telegram: https://t.co/jZhrGANcGq #Mixnet #Monero #Bitcoin #Privacy https://t.co/yWeX1lNsuY",6,1,2,2020-12-22
+376,2020-12-23 11:08:00+00:00,1341702088888225792,nymproject,"Does anyone in here drink water?
+@theog__ ""Introduction to NYM"" https://t.co/gLdTLrk3me
+Join us in telegram: https://t.co/jZhrGANcGq 
+#Privacy #Mixnet #Bitcoin #ETH #Monero",4,0,1,2020-12-23
+378,2020-12-25 18:40:41+00:00,1342540785175191552,nymproject,"During these holidays, let's make sure not to share any data with third parties. https://t.co/hl2ID1KxMp",25,0,3,2020-12-25
+379,2020-12-26 11:28:00+00:00,1342794285360402434,nymproject,"""The goal of the Nym mixnet is to protect both the content and metadata of users’ communication, thus ensuring that users are unlinkable to their transactions and access to services"" Read More: https://t.co/JOcSrzAFOO Join us in telegram: https://t.co/jZhrGANcGq #Privacy",4,0,0,2020-12-26
+380,2020-12-27 11:47:00+00:00,1343161454841704454,nymproject,"""Multi-hop VPN routing makes strides towards obfuscation of the information about users’ activities/ it is not yet enough to resist the traffic analysis attacks"" Read more: https://t.co/ntGNjyNVE2  
+Join us in telegram: https://t.co/jZhrGB4O50 #dVPN #Tor #I2P  #Privacy #Mixnet https://t.co/ojSOoLqZAL",0,0,0,2020-12-27
+381,2020-12-28 11:56:00+00:00,1343526107631546368,nymproject,"What are ""Single-Use Reply Blocks""? Read about them here: https://t.co/JOcSrzj4Xg 
+Join us in telegram: https://t.co/jZhrGB4O50 
+#Privacy #Sphinx #LightningNetwork #Mixnet #NSA https://t.co/b7YFdPE7N2",2,0,1,2020-12-28
+382,2020-12-31 22:20:21+00:00,1344770396059385856,nymproject,"What was your favorite Nym-related talk or blogpost, or moment running Nym of 2020, and what are you looking forward in 2021 as the year of the plague comes to its end?",3,1,0,2020-12-31
+383,2021-01-03 19:24:05+00:00,1345813200466370561,nymproject,"Happy New Years! We'd like to thank everyone who saw us through the testnet last year - already now larger than almost any other testnet - and this year we are going to launch main-net!
+
+The hacker wars have just begun...",21,0,1,2021-01-03
+384,2021-01-04 08:36:39+00:00,1346012653915877376,nymproject,"Калейдоскоп событий: какой след в истории криптовалют оставил 2020 год
+https://t.co/3VtWqWy5ck #privacy #mixnet https://t.co/YSpHR5QEIT",0,0,1,2021-01-04
+386,2021-01-05 03:32:12+00:00,1346298424681893888,nymproject,"As one of the OG cypherpunks, Assange was always a supporter of work on mixnets and bullish on Bitcoin 
+
+Now, we hope Switzerland can offer Julian asylum and defend his press freedom!
+
+Although the weather is perhaps warmer in Mexico :) https://t.co/utLrxE9De5",4,0,1,2021-01-05
+387,2021-01-06 09:55:35+00:00,1346757296924327937,nymproject,"Read More: https://t.co/JOcSrzj4Xg
+Join us in Telegram: https://t.co/jZhrGB4O50 #Mixnet #Privacy #Bitcoin #Monero #Ethereum  #VPN #Tor https://t.co/H3HD2D9203",3,0,1,2021-01-06
+388,2021-01-07 01:12:57+00:00,1346988159259660289,nymproject,"The US empire is ending. The law cannot save itself, much less you. We will need cryptography to preserve our privacy and rights as the United States unravels.
+
+https://t.co/iVnyDOGOgp",9,1,4,2021-01-07
+389,2021-01-10 10:57:57+00:00,1348222540657942528,nymproject,"""The problem with the online infrastructure that is built today
+is that it is not built for privacy, one could even argue that it is built for surveillance"" 
+https://t.co/DX8kRYnjUw
+Join us in Telegram: https://t.co/jZhrGB4O50 #Privacy #Signal #Tor #VPN #BTC https://t.co/WHmhu49ecM",5,1,1,2021-01-10
+391,2021-01-11 00:56:10+00:00,1348433486517035008,nymproject,"The directory authority nodes in Tor are semi-centralized, and so ripe for attack. 
+
+This is why Nym puts our consensus document on a blockchain, and we hope Tor does so too! https://t.co/IIUOVhYvEz",6,1,2,2021-01-11
+392,2021-01-13 05:03:04+00:00,1349220394583154689,nymproject,"@workingjubilee @urza_cc We use Liquid for our tokenized mix reputation, and Tendermint for replication of the network consensus documents - and BITCOIN as payment, as it's hard money. 
+
+It doesn't work to use Bitcoin for replicating storing large chunks of arbitrary data via OP_RETURN.",1,0,0,2021-01-13
+393,2021-01-14 08:38:22+00:00,1349636966837579778,nymproject,"The power of Facebook derives from its control over your digital identity, people are slowly waking up to this and leaving #Whatsapp #Facebook #Twitter Watch ""Fighting back against Libra - Decentralizing #acebook Connect"" from Chaos Communication Camp 2019
+https://t.co/vUwuVKYN7d https://t.co/PDdwecPeh3",1,0,4,2021-01-14
+395,2021-01-15 16:24:26+00:00,1350116641850458112,nymproject,"You won't even believe where we've got plans to put servers! 
+
+And if we're successful, you'll never know. 
+
+Although we may drop a cool story or two if we get pirates or private armies defending them.. https://t.co/05GXrIrLyW",18,0,4,2021-01-15
+396,2021-01-18 10:25:36+00:00,1351113505110450176,nymproject,"Check out the Wasabi Research Club #13 -and find out how Loopix &amp; Nym work to hide your metadata @wasabiwallet
+https://t.co/uIRPbrIKJN #Privacy  #Bitcoin https://t.co/v7AoxJwO6o",2,0,1,2021-01-18
+397,2021-01-19 16:47:50+00:00,1351572084829409282,nymproject,"We're thrilled to be joining @openwebfounders with our early supporters at @sarcophagusio - we'll be working on getting privacy to have just as much traction as TLS!
+
+Jump into this call in a few minutes if you want to chat with @harryhalpin, and the rest.
+https://t.co/djDFLMYIs3",9,0,4,2021-01-19
+398,2021-01-20 16:57:55+00:00,1351937011393900551,nymproject,"Yo, someone just shared this in our Telegram channel. Did @elonmusk just delete? https://t.co/WPgy37PwMS",19,3,2,2021-01-20
+399,2021-01-21 16:46:53+00:00,1352296619581054978,nymproject,"#BurnieSanders running NYM
+#Privacy #Mixnet 
+https://t.co/jZhrGB4O50 https://t.co/nCoquvmhdR",5,0,0,2021-01-21
+401,2021-01-25 07:23:30+00:00,1353604391174070272,nymproject,"Check out NYM  ""Digital integrity of the human person, a new fundamental right"" https://t.co/AsmYbMXwx4 #Privacy #Mixnet #Bitcoin #Surveillance #MetaData https://t.co/vFkyJKKGSE",8,0,2,2021-01-25
+402,2021-01-27 01:07:34+00:00,1354234561283108870,nymproject,"Thanks to @neha for this session tomorrow on our cryptoeconomics, and remember that Nym can take on paid internships for MIT blockchain hackers... hint hint @MITBitcoinClub :) https://t.co/DPTXNiObo9",2,0,0,2021-01-27
+403,2021-01-29 02:02:21+00:00,1354973123142168580,nymproject,"Long live #wallstbets! Death to the corrupt banking system! And make hedge funds CRY.
+
+And one day this will have to be decentralized, private, and censorship-resistant. Just sayin.
+
+https://t.co/kD8kQdHSBK",4,0,1,2021-01-29
+404,2021-01-30 16:47:47+00:00,1355558337069330436,nymproject,"The future is now. Intellectual-Yet-Idiots doing ""aesthetics"" or ""critical media theory"" so 1960s. Real radicals are holding it down on the Internet and causing more damage to big banks than any tenured ""radical"" academic. 
+
+We actually think Debord would agree. https://t.co/02NdYjs6Jb",13,0,1,2021-01-30
+405,2021-02-03 10:56:22+00:00,1356919453020209158,nymproject,"""the topology of Nym mixnet offers both strong anonymity and scalability""  Read More: How Nym improves on traditional mixnet designs?
+https://t.co/ZsgwULv1qI #Mixnet #Elixxir #Tor #Privacy https://t.co/JY0vkUDMn4",3,0,0,2021-02-03
+410,2021-02-07 08:20:49+00:00,1358329859806748673,nymproject,"Where is the #Privacy? 
+
+Join our Telegram https://t.co/jZhrGB4O50 
+
+#Mixnet #Tor #VPN #Bitcoin https://t.co/zoR7Y0EY50",4,1,1,2021-02-07
+412,2021-02-08 10:18:28+00:00,1358721855893422082,nymproject,"@AlexDcrypto @meme_berlin you can message @theogoodman on telegram, add him to you contacts, reduce your privacy settings so that you can be added to groups and maybe it will work.",1,0,0,2021-02-08
+413,2021-02-10 16:04:43+00:00,1359533766121844740,nymproject,$NYMPH printer go BRRRRR?  Find out more in our telegram: https://t.co/jZhrGB4O50 #Privacy #Mixnet https://t.co/h3nmiX60YZ,2,1,0,2021-02-10
+414,2021-02-12 23:53:35+00:00,1360376534754873350,nymproject,"Happy Lunar New Years! 牛年大吉！
+
+It's the year of the BULL RUN!!! 
+
+In celebration, Nym will be coming to Asia as soon as border situation allows! https://t.co/HNx0mvUUhJ",6,0,1,2021-02-12
+415,2021-02-16 09:00:55+00:00,1361601439328595972,nymproject,"#dapps with onchain privacy vs. dapps with network level privacy #Ethereum #NEAR #matic #SecretNetwork #Mixnet #Privacy 
+https://t.co/jZhrGB4O50 https://t.co/AFqybtaeRL",8,1,0,2021-02-16
+416,2021-02-17 13:20:32+00:00,1362029164333776897,nymproject,"Why we need Network Level Privacy -  Harry Haplin´s talk at the Critical Decentralisation Cluster #36c3
+http:/youtu.be/-ToiJfmfLs0
+#Monero #Bitcoin #Privacy #Mixnet https://t.co/6IMlOPZa80",3,0,0,2021-02-17
+417,2021-02-18 16:32:50+00:00,1362439946561335301,nymproject,"THE WHITEPAPER IS COMING
+
+To be the first to read the whitepaper make sure to sign up to our newsletter at: https://t.co/GCBVX1rd50 and join https://t.co/CBbZ1ISlun &amp; https://t.co/jZhrGB4O50
+
+#Mixnet #Privacy #Bitcoin #Monero #ETH https://t.co/oAyJDYMwW7",20,0,7,2021-02-18
+418,2021-02-24 01:01:04+00:00,1364379787444314115,nymproject,"We onboarded a new @EPFL masters today and another intern soon. 
+
+In fact, @MIT will even pay for remote internships (hint hint @MITBitcoinClub)! 
+
+We'll demand lots of work, but there is nothing more noble than fighting for the future of privacy. https://t.co/NMF5EKqN1V",5,0,1,2021-02-24
+419,2021-02-26 21:21:56+00:00,1365411801043787782,nymproject,"Nym, the world’s first generic incentivised #mixnet releases its whitepaper #Privacy #Tor #VPN #Monero #Zcash #Bitcoin https://t.co/ElbFCNlcLu
+@cmodenews",9,1,3,2021-02-26
+430,2021-02-27 00:33:01+00:00,1365459889548582913,nymproject,"People are asking ""how do I invest"" in Telegram. Sorry, we aren't running a ERC20 ICO now, unlike certain other scams that claim to be ""mixnets.""
+
+If you NEED A TOKEN, we do support the work of @realmaskbook as 1) their code works and 2) token is free.
+
+https://t.co/vA8MMxuSB4",50,2,6,2021-02-27
+434,2021-02-28 08:29:28+00:00,1365942180876083204,nymproject,"NYM Head of Research @aniampiotrowska is co-author of the paper ""An Empirical Analysis of Privacy in the Lightning Network"" it will be presented on Monday @16:15 at the Financial Cryptography and Data Security Summit 2021 
+Register Here: https://t.co/XKjRbj7QLJ
+#LightningNetwork https://t.co/cPH80eyduJ",10,0,2,2021-02-28
+435,2021-03-01 07:49:07+00:00,1366294414654664706,nymproject,"NYM Chief Scientist @claudsdayz is Co-Chair of the Financial Cryptography and Data Security Summit 2021 from today March 1st to March 5th 
+Register Here: https://t.co/XKjRbj7QLJ
+#Privacy #Cryptography #Mixnets #LightningNetwork https://t.co/9Rk3ozxHU5",16,0,5,2021-03-01
+440,2021-03-02 09:57:57+00:00,1366689223466758144,nymproject,"NYM COO @alexis_roussel is part of the #Bitcoin VOICE PAPER! Have a listen: https://t.co/Cq4jFgw0wD
+https://t.co/xdei7z3SI9
+#Bitcoin https://t.co/cFiUPqr0sF",4,0,2,2021-03-02
+442,2021-03-03 17:27:30+00:00,1367164744864567297,nymproject,"@harryhalpin Whitfield Diffe answered questions over traffic analysis while drinking rum - he promised to be at the next Financial Crypto in 2022 in Grenada to take questions live! #FC21
+
+Read the classic paper on ""New Directions in Cryptography"" that started it all!
+https://t.co/rI19NWMq1Q",1,0,1,2021-03-03
+448,2021-03-04 18:46:11+00:00,1367546935255572481,nymproject,"Look who also is reading the whitepaper.
+
+Could mixnets be the future of Lightning privacy?
+
+https://t.co/G4ojbo1m1Y https://t.co/ZCIKVc5pUR",38,0,2,2021-03-04
+449,2021-03-05 19:17:35+00:00,1367917225387130894,nymproject,"@mmviii_2008 It gives you network level privacy, which includes third party listening. It does not have anything to do with what happens onchain. Feel free to join our telegram: https://t.co/jZhrGB4O50 we would love to have you.",0,0,0,2021-03-05
+450,2021-03-06 10:39:02+00:00,1368149113099935744,nymproject,"The Anonymity trilemma: Scalability, Anonymity, and Latency - Find out which #mixnet  is the most scalable and anonymous in @aniampiotrowska s emperical study: 
+https://t.co/LqoN0dQ8u5 https://t.co/BHPJ3jkYxw",25,1,6,2021-03-06
+452,2021-03-08 14:20:01+00:00,1368929500273270788,nymproject,"What is NYM? Check out the tallk by @theog__  ""Introduction to NYM"" https://t.co/GS0pqSL0dv 
+#Mixnet #Privacy #Bitcoin #Ethereum",8,0,2,2021-03-08
+453,2021-03-09 09:28:46+00:00,1369218595687968769,nymproject,"Sending #bitcoin over the NYM #Mixnet - using @Blockstream Green and @ElectrumWallet with socks 5
+https://t.co/LiSJx5IFpS
+
+#Privacy #Tor #Vpn 
+
+Join us in telegram: https://t.co/jZhrGB4O50 https://t.co/726NVWUzVE",9,0,0,2021-03-09
+454,2021-03-11 13:17:51+00:00,1370001020164640768,nymproject,You can download the #Bitcoin #Whitepaper here: https://t.co/uGhybcB4gU,17,0,0,2021-03-11
+455,2021-03-12 22:33:07+00:00,1370503148595511303,nymproject,"Any privacy and crypto fans in Ukraine? Our COO @alexis_roussel is speaking at @BlockchainUA IN PERSON on March 26!
+
+https://t.co/qzuShlv8be
+
+Anyone want to go on a trip to see this statue of anarchist Nestor Makhno afterwards? https://t.co/oW2wksY7Jg",5,0,3,2021-03-12
+456,2021-03-16 21:48:47+00:00,1371941539082027014,nymproject,"Will Privacy be the next wave after NFTs and DeFi? 
+
+YOU BETTER BELIEVE IT. 
+
+Make sure to attend this remarkable event with our friends at @openwebfounders to get a sneak peak at our demo of the new next-generation Nym mixnet, with added scalability! https://t.co/1FbKjKj09k",15,1,3,2021-03-16
+457,2021-03-18 12:28:11+00:00,1372525237632401412,nymproject,"Our CEO @harryhalpin pushes back on European Commision plans to add a blockchain-based global identity system via vaccine passports: ""Technologically there’s ways to prove test results digitally without involving any global identity at all"" in @TechCrunch https://t.co/rOZo2yzGJc",18,3,13,2021-03-18
+458,2021-03-22 19:19:25+00:00,1374078280639320066,nymproject,"Tomorrow, our CEO @harryhalpin is joining a panel with at @OrchidProtocol's Priv8 conference on ""Building Your Own Internet"" to discuss mass surveillance, right before the keynote by @Snowden!
+
+With @leashless @AdrianaHamacher and more!
+
+Register for FREE https://t.co/91MbOHm7R5 https://t.co/fd8DyE5hdZ",41,1,10,2021-03-22
+459,2021-03-23 16:52:37+00:00,1374403722470518798,nymproject,"Come for the panel with @nymproject and @jorrgeRibs on mesh-networking - and stay to ask questions of @Snowden!!
+
+Starting in about 30 minutes!! https://t.co/jDIabrVdbs",9,0,1,2021-03-23
+461,2021-03-24 09:02:15+00:00,1374647741159194627,nymproject,"Want a job working to stop mass surveillance? Know Rust? Tired of working for civil society organizations on US State Dept. funding? Bored of scam blockchain projects and want to do something meaningful with your life?
+
+Apply for a job at NYM!
+
+https://t.co/AEi5ENaAUY",42,0,13,2021-03-24
+462,2021-03-29 12:12:21+00:00,1376507519581962243,nymproject,"At Magical Crypto Friends VR, NYM Chief Scientist Claudia Diaz gave the talk “Why we need network level privacy”. In case you missed it you can watch the replay, no VR headset required! https://t.co/saud2LDnXk #privacy #mixnet #bitcoin https://t.co/dFt1HzIK0E",10,0,4,2021-03-29
+464,2021-03-31 15:52:42+00:00,1377287746323120128,nymproject,"@MLescrauwaet @pythianism FYI @moxie is following @nymproject's work. However, our preference would be to see Signal themselves adopt a mixnet and people can use Signal with mixnet for additional metadata protection. However, we do not have our own free-standing chat app.",0,0,0,2021-03-31
+465,2021-04-01 23:54:59+00:00,1377771504985894916,nymproject,"You know @nymproject is going to be big when someone from @chainlink is discussing a partnership for the next generation of privacy-enhanced oracles...
+
+You heard it here first...https://t.co/a4RvRgTY4M",24,2,1,2021-04-01
+469,2021-04-07 21:55:24+00:00,1379915739830890501,nymproject,"While some cryptosites that pump tokens of dubious value didn't have the guts to publish this,  @BitcoinMagazine put forward this article by Assange's brother @GabrielShipton on the importance of Assange's case to Bitcoin: https://t.co/WUx9kM7XcE",5,0,4,2021-04-07
+470,2021-04-13 09:27:24+00:00,1381901827403362304,nymproject,"What do YOU think will happen by end of the month?
+
+Will Nym's mix nodes exceed the number of Tor's nodes following the testnet cap removal?
+
+Join the @openwebfounders prediction market:
+
+https://t.co/KbJnBtKJD2 https://t.co/pvYvif0cpM",39,0,13,2021-04-13
+471,2021-04-14 09:56:04+00:00,1382271426678435841,nymproject,"Today, @nymproject will be announcing the new UNCAPPED testnet, codenamed FINNEY after the great cypherpunk. 
+
+Our CEO @harryhalpin will be live at the @openwebfounders Demo Day today and will show off some of the new changes - expect lots of news soon: https://t.co/bzCzIoTc5n https://t.co/eHKZIwwwfH",51,2,16,2021-04-14
+472,2021-04-15 07:03:34+00:00,1382590406823718916,nymproject,Finny Testnet onboarding will start at 11am today for people that ran nodes in our past testnet at 11am CET on Thursday April 22nd everyone else can join. Testnet Finney will run until Thursday May 22nd - Are you ready? https://t.co/j6KDKHAKC3 #Mixnet #Privacy #Tor #VPN,22,1,4,2021-04-15
+473,2021-04-16 10:21:43+00:00,1383002658823364610,nymproject,"To everyone that has an app running on the previous Nym testnet (https://t.co/q0c4Xfbx6j) please get ready to move your app to the new FINNEY testnet (https://t.co/am0ZfFTqmj). 
+
+Everyone has ONE WEEK before we turn the old mixnet off.
+
+Let the UPGRADE BEGIN! https://t.co/Ed6lyAH2L5",12,0,1,2021-04-16
+475,2021-04-20 12:24:13+00:00,1384483039250685959,nymproject,"#Doge transactions wow
+#Doge transactions via #Tor wow privacy
+#Doge transactions via the NYM #Mixnet WOW MUCH #PRIVACY https://t.co/9ClfUVQ2fq",20,2,1,2021-04-20
+476,2021-04-21 21:15:05+00:00,1384979025433698308,nymproject,"We spent all last week letting the participants in our previous testnet first dibs in getting into the new Finney testnet.
+
+Over 500 mix nodes, more than 1/3, of our previous testnet upgrading!
+
+Let's see how many people jump on the Nym train tomorrow!
+
+https://t.co/q0c4Xfbx6j https://t.co/ADWI3y6ifP",21,2,9,2021-04-21
+479,2021-04-22 16:37:07+00:00,1385271458432233484,nymproject,"The Nym incentized ""Finney"" testnet mixnet approaches 1000 mix nodes on Day One of removing cap!
+
+Long live Hal Finney! Long the cypherpunks, short the ruling elite!
+
+Voronoi diagram in memoriam of Hal by @0x53746566616E https://t.co/3w4ymnSDdQ",45,0,10,2021-04-22
+480,2021-04-23 11:25:03+00:00,1385555311004721160,nymproject,"Set up a tent and join the Nym mix-net party! 
+
+If you are struggling to explain to your friends what you are doing, send them Dave's simple storm-trooper and beer tent explanation of mixnets: 
+https://t.co/H1L5w4zfPf https://t.co/0HB8FgCHSs",13,1,0,2021-04-23
+483,2021-04-24 09:30:07+00:00,1385888777781002241,nymproject,"Just started a Nym mix node?
+
+Learn more about how Nym improves on traditional mix-net designs:  
+
+https://t.co/ZsgwULv1qI",15,0,2,2021-04-24
+484,2021-04-25 23:09:23+00:00,1386457338572427264,nymproject,"The Finney testnet will reactivate it's HALbot tomorrow to let new mix nodes join the mixnet!
+
+BE PREPARED! Join https://t.co/fgwNnVBzxn and follow the pinned instructions! https://t.co/A0MvWA2ngS",6,0,1,2021-04-25
+485,2021-04-26 09:25:17+00:00,1386612334869766148,nymproject,"For and by our Chinese friends - here is an instruction video for the Finney testnet published on Bilibili 
+💗
+https://t.co/2BCxvG55Mk",4,0,0,2021-04-26
+491,2021-04-27 01:28:40+00:00,1386854780593655813,nymproject,"The Finney testnet was open for one day - and we are now over 1500 mix nodes strong!
+
+How long should we keep the mixnet testnet open, and how high should we try to go?
+
+AND ITS NOT TOO LATE TO JUMP ON THE MIXNET! https://t.co/GrxqIcrdKw",12,1,2,2021-04-27
+497,2021-04-28 08:38:52+00:00,1387325431972499456,nymproject,"... for and by our Chinese community - a step by step guide on how to set up a node - for non technical people:
+https://t.co/jnuRdcLFuG
+💖",4,1,1,2021-04-28
+499,2021-04-30 12:20:02+00:00,1388105866134659077,nymproject,"Loyal tricksters, testers and friends who upgraded their old nodes and joined Finney in the first week might look to find a little token of our appreciation...
+
+https://t.co/N4luZbhvkI",16,0,2,2021-04-30
+501,2021-05-04 08:12:39+00:00,1389493161727303683,nymproject,"Notre COO, @alexis_roussel de Nym Technologies, à la télévision publique suisse (RTS) expliquant  le ""phénomène des cryptomonnaies, avec en vedette le bitcoin""
+
+https://t.co/7oC0B5sgIH https://t.co/wB06OMRVrZ",13,1,4,2021-05-04
+503,2021-05-05 09:20:04+00:00,1389872515112181760,nymproject,"""Nym might have started where the cypherpunks left off  -  with the need for privacy  -  but the ability to combine privacy with anonymous credentials is the real game changer.""
+
+Nym's new Writer and Strategist @jayapapaya explains her reasons for joining:
+https://t.co/gI1zZbjOlS",32,0,7,2021-05-05
+506,2021-05-06 08:27:20+00:00,1390221631969185794,nymproject,We have surpassed 3000 mixnodes people! https://t.co/WxzWwW8IDy,45,3,6,2021-05-06
+512,2021-05-07 11:18:07+00:00,1390626999027261440,nymproject,And in the meantime - here are the troubleshooting docs: https://t.co/937zJHoTmd,5,0,0,2021-05-07
+516,2021-05-10 12:52:04+00:00,1391737803378200577,nymproject,"We will soon be testing 'delegated staking' - nodes can delegate their stake to those providing excellent mixing - distributing reputation and earning rewards
+
+So don't worry too much if you have started a node and feel you are in over your head! 
+
+You can still stake and 'earn'.",20,1,1,2021-05-10
+517,2021-05-11 09:20:59+00:00,1392047070886912002,nymproject,"T H E   N Y M    N E T W O R K
+
+n e x t  g e n e r a t i o n  o f  p r i v a c y  i n f r a s t r u c t u r e 
+
+We have had more than 10k unique downloads of our whitepaper so far. 
+
+Read it here: https://t.co/KiFlC9TH8w",48,1,6,2021-05-11
+518,2021-05-12 12:28:09+00:00,1392456562732584963,nymproject,"Friends, we are at a rate of about a hundred new testnet mixnodes per day 🌟
+
+We are now working with you all to achieve a level of *quality of service* before we start testing delegated staking and more... 
+
+Explore the network here: https://t.co/am0ZfFTqmj https://t.co/BlNqHdFqoK",23,0,8,2021-05-12
+520,2021-05-13 08:51:21+00:00,1392764391855173634,nymproject,"Infrastructure for a privacy-preserving internet
+
+https://t.co/JhCdqeFxWH",30,0,2,2021-05-13
+524,2021-05-14 11:15:32+00:00,1393163063256301575,nymproject,"@0WolfofCrypto0 Join us on Telegram 
+https://t.co/6VYI3aE0Jp",1,1,0,2021-05-14
+530,2021-05-17 10:22:24+00:00,1394236854417907713,nymproject,"Universal ID is mainly a government and corporate need. *People* however just need the associated rights. 
+
+That is why Nym enables anonymous credentials, not universal ID which poses a security and ethical risk.
+
+Nym's @jayapapaya  at NGI policy forum on Self-sovereign identity. https://t.co/pnsR6M5IPt",34,0,14,2021-05-17
+533,2021-05-18 14:17:32+00:00,1394658416136761346,nymproject,"@DonNelo6 We are currently running the testnet and have had our public token launch yet - stay tuned... and join us in our Telegram channel... 
+https://t.co/fgwNnVBzxn",1,2,0,2021-05-18
+538,2021-05-19 11:07:54+00:00,1394973079063912451,nymproject,"#FinneyUpdate
+
+Friends, we are now running regular monitoring of the performance of our Finney mixnodes. 
+
+Have a look - here is how you can check your nodes performance:
+
+https://t.co/70CQ6Xj1ox 
+
+And here is how to get the history of your node:
+https://t.co/O3TpqPJ15U https://t.co/m7RfEZqYyX",17,0,2,2021-05-19
+541,2021-05-20 11:15:37+00:00,1395337412646211589,nymproject,"Nym COO @alexis_roussel  will be speaking a the AIBC in Dubai - speaking on new businessmodels for sustaining our decentralised mixnet
+
+- reach out if you are around and want to meet https://t.co/R9D4uX2zwg",15,0,3,2021-05-20
+544,2021-05-21 20:17:27+00:00,1395836155648675843,nymproject,"The number of mix nodes has officially hit 5000!!! 
+
+Forget the market going up and down. That is superficial. The POWER of cryptographiy and privacy is growing by the day!
+
+Anyone else want to be fed some HAL? https://t.co/te9RvCjG2H",31,2,4,2021-05-21
+545,2021-05-22 22:54:13+00:00,1396237995481739265,nymproject,"The FINNEY testnet is getting hot!
+
+More and more people are noticing, like @crypto_ninjas. 
+
+Who wants to be use Nym to be a privacy ninja, to be an invisible warrior?
+
+https://t.co/TLDb7RtcmP",27,1,4,2021-05-22
+546,2021-05-24 09:04:09+00:00,1396753878079660036,nymproject,"Crypto reporter reports on testnet #Finney and Nym: 
+""Resistant to Federal Standard Surveillance Systems""
+
+https://t.co/cISg9fe8kx https://t.co/CJjBWtGY7y",21,1,2,2021-05-24
+547,2021-05-25 12:39:46+00:00,1397170527777722369,nymproject,"""Privacy is the power to selectively reveal oneself to the world.""
+Hughes, 1993
+
+- - -  Take your vitamins, read the classics  - - -
+
+'A Cypherpunks Manifesto'
+https://t.co/Spp06ZW11C",34,0,9,2021-05-25
+550,2021-05-26 08:52:06+00:00,1397475621681385473,nymproject,We won a prize - AIBC Blockchain Solution of 2021 https://t.co/UApfXYEe3e,74,5,8,2021-05-26
+555,2021-05-27 09:41:24+00:00,1397850413769146370,nymproject,"In case anyone doubted the need for Nym.
+
+...powers will be granted to th secretary of state as to what content falls under content moderation requirements. ""The bill, shockingly, allows th secretary of state to make those decisions for political reasons.""
+https://t.co/HDFuOxjLa5",27,0,6,2021-05-27
+556,2021-05-28 11:34:51+00:00,1398241355751694336,nymproject,"For our German speaking friends - 
+
+Nym co-founder @harryhalpin  in an interview with the @1E9tech community about the history of cryptoanarchism and the struggle for digital privacy
+
+https://t.co/VRh101pgI9",6,0,1,2021-05-28
+557,2021-05-30 14:05:28+00:00,1399004034988654592,nymproject,"Our award from Dubai has found their way back home office to Neuchatel, Switzerland! https://t.co/LWUjCp1BW5",33,3,2,2021-05-30
+559,2021-06-02 11:08:12+00:00,1400046586084929543,nymproject,"""Nym offers a positive relation between privacy and
+scalability: the more users join the network, the better the privacy and performance trade-offs for all users""
+
+#NymWhitepaperQuotes",23,0,2,2021-06-02
+560,2021-06-03 16:08:46+00:00,1400484615400431616,nymproject,"#TestnetFinney has grown to more than 6500 nodes !
+
+💥
+
+https://t.co/am0ZfFTqmj https://t.co/SN12JtL9TL",27,1,7,2021-06-03
+561,2021-06-04 05:12:33+00:00,1400681858782961664,nymproject,"We are a proud sponsor of @TheBitcoinConf - the first step of freedom is free money, and then the second step is a private internet!
+
+https://t.co/Gzqw9Df9GP https://t.co/4m5d8Sotzx",13,0,1,2021-06-04
+565,2021-06-05 09:25:02+00:00,1401107788026236929,nymproject,"""Anonymity 
+loves 
+company, 
+meaning that the strength of anonymity properties is dependent on the number of users in the system.""
+💕 
+#NymWhitepaperQuotes",28,1,5,2021-06-05
+567,2021-06-06 00:25:02+00:00,1401334278030569474,nymproject,"""Mix nodes get their name from the fact that they ""mix"" messages before sending them on.""
+💫
+""The Nym mixnet has a layered network topology, where mix nodes are arranged into layers ... shown optimal for privacy, scalability and ease of analysis.""
+😵
+#NymWhitepaperQuotes",18,0,0,2021-06-06
+568,2021-06-07 00:06:53+00:00,1401692099599376388,nymproject,"Reply if you want a limited edition @nymproject shirt and are near the Bitcoin conference venue - there's a few left for anyone that got really wasted and missed their airplane.
+
+Cute dog not included! https://t.co/AYSR2ORN1p",17,2,0,2021-06-07
+570,2021-06-08 13:26:21+00:00,1402255678962601986,nymproject,"So, big tech company Apple is responding to popular demand for privacy and building their own Tor-like relay system. 
+
+It will help protect your webbrowsing, but it won't help protect you from Apple...
+
+#DecentraliseEverything",35,0,7,2021-06-08
+572,2021-06-09 12:56:23+00:00,1402610527877148685,nymproject,"""Privacy must be understood as a holistic property because leakage of information in one layer of a system can undermine the privacy provided by even the most advanced cryptographic protocols in another layer.""
+
+#NymWhitepaperQuotes",19,2,3,2021-06-09
+575,2021-06-10 11:06:37+00:00,1402945289217007621,nymproject,"Keep your heads cool in the hot buzz abt Bitcoin and Lightning Network being adopted by more or less authoritarian governments.
+
+Read an analysis of privacy in the Lightning network by @aniampiotrowska Nym Head of Research + friends
+
+https://t.co/ANVQ6w3QXG
+
+#DecentraliseThePower",15,1,1,2021-06-10
+577,2021-06-11 14:58:51+00:00,1403366121886134275,nymproject,"Our Finney testnet is contributing directly to scientific advancements --&gt; real world testing of 'VerLoc'
+
+Verifiable location uses speed of light to check the real locations of nodes running the network!
+
+Read the work by @blister_green and @claudsdayz : https://t.co/VFTCkL0y7A https://t.co/xEMIo0sveX",27,0,10,2021-06-11
+578,2021-06-14 11:12:45+00:00,1404396385785495555,nymproject,"""The tide is turning due to popular discontent against mass surveillance and the new possibilities opened by Bitcoin for creating incentive mechanisms that enable a network to cooperate and self-sustain.""
+
+#NymWhitepaperQuotes",16,0,3,2021-06-14
+579,2021-06-15 18:50:54+00:00,1404874070576058375,nymproject,"Mixnets have deep roots in cypherpunk history:
+
+""The mixnet concept was proposed by Chaum in the early 1980s [16] and early deployments include
+the Cypherpunk remailers (first developed by Eric Hughes and Hal Finney)""
+
+#NymWhitepaperQuotes",25,0,0,2021-06-15
+580,2021-06-16 10:34:29+00:00,1405111531256299520,nymproject,"""Surveillance capitalism unilaterally claims human experience as free raw material for translation into behavioral data.""
+- Zuboff
+
+Mass surveillance extracts data about our present lives in order to control our future. 
+
+Join the resistance.",23,2,3,2021-06-16
+581,2021-06-17 18:33:23+00:00,1405594440597655553,nymproject,"Sign up, friends! 
+June 30th, 4.30 pm BST
+https://t.co/khArOC7CXV",7,0,0,2021-06-17
+585,2021-06-18 12:15:00+00:00,1405861605225766917,nymproject,"Freshen your understanding of 'holistic privacy'  from this old DevCon talk https://t.co/zh1tjvdZvP
+
+- and get a preview of Nym CTO Dave Hrycyszyn who will be speaking on Cosmos and privacy later this month. Here speaking here alongside Nym Head of Research Ania Piotrowska...",14,1,1,2021-06-18
+586,2021-06-21 14:22:31+00:00,1406980858687459328,nymproject,"""Hiding who messages whom is a necessary mixnet property in terms of metadata protection – but it is not always sufficient to prevent surveillance. Adversaries can still observe the volume and timing of sent and received messages over time..."" 
+
+#NymWhitepaperQuotes",13,0,0,2021-06-21
+587,2021-06-22 10:44:59+00:00,1407288502321041410,nymproject,"@CharlesMesh @RiccardoMasutti Thanks for pointing to our documentation @RiccardoMasutti !
+
+Also feel free to join the Nym Node set-up help chat --&gt;  https://t.co/t7wtOM8wPC
+
+And/or general Nym chat --&gt;  https://t.co/fgwNnVBzxn",0,0,0,2021-06-22
+588,2021-06-23 11:50:11+00:00,1407667296605200385,nymproject,"Friends, we are excited to release a Go and Rust implementation of Coconut!
+
+The Coconut protocol in Nym enables selective disclosure of credentials.
+
+This is a powerful and important step towards strengthening our digital rights through cryptography.
+
+https://t.co/EP2YeNNBZC",32,0,9,2021-06-23
+589,2021-06-25 10:40:56+00:00,1408374647117291523,nymproject,"""Privacy for end users, transparency for the infrastructure.""
+
+- The cypherpunk approach to privacy in the age of decentralised networks. 
+
+Read more in this latest piece by Nym writer and strategist @jayapapaya 
+
+https://t.co/0KbWLeErTR",27,0,6,2021-06-25
+590,2021-06-29 10:54:22+00:00,1409827578840444937,nymproject,"Human Rights Watch reports: Germany's new federal police law allows intercepting communications of “persons against whom no suspicion of a crime has yet been established”
+
+Meanwhile, Nym testnet nodes in germany are at 2653 and counting...
+
+https://t.co/4cFIr9JWbP",18,1,2,2021-06-29
+591,2021-06-30 16:57:43+00:00,1410281405754527745,nymproject,"We are pretty excited about a future with Nym Coconut credentials available to the entire Cosmos ecosystem
+
+ ✨ https://t.co/pajH1g6H8f",27,1,3,2021-06-30
+596,2021-07-01 13:20:27+00:00,1410589114479616001,nymproject,"We are decentralising and scaling privacy infrastructure to meet global surveillance and security challenges
+
+https://t.co/2ea8L5isYd",44,3,7,2021-07-01
+599,2021-07-02 08:05:29+00:00,1410872238824472576,nymproject,"기존 익명 네트워크의 단점을 크게 개선한 프라이버시 인프라스트럭쳐 Nym과 그 테스트넷 'Finney'
+
+https://t.co/Sk6tRQ9LWu",6,0,0,2021-07-02
+601,2021-07-05 10:22:38+00:00,1411993919416569857,nymproject,"Mass data extraction ⇝ profiling ⇝ targeting ⇝ CONTROL
+
+Nym → privacy as commons ⇉ data as choice ⇶ FREEDOM",22,0,4,2021-07-05
+603,2021-07-06 14:11:53+00:00,1412414000613269520,nymproject,"In the words of @SarahJamieLewis 
+""The idea that systems should be deliberately designed or engineered to make them vulnerable to surveillance is, just simply, a harmful, blatantly authoritarian idea that we need to grow out of""
+
+ The resistance continues.
+https://t.co/EPEf5JhE8t",33,0,11,2021-07-06
+604,2021-07-07 10:02:37+00:00,1412713655926415361,nymproject,"@__Raphanus @CryptoTweetie @apotheon @session_app Signal and Nym are two different layers - Nym provides metadata protection at the network layer, which Signal doesn't.  So you would do Signal video calls OVER Nym - or any other video-chat application",2,0,0,2021-07-07
+606,2021-07-08 17:32:03+00:00,1413189148584861696,nymproject,"Together ""...those politically philosophically and technically involved with the internet, we can really bring humanity forward. This is a very big project and crypto anarchists are at the front line.""
+
+1E9 magazine interview with Nym CEO  @harryhalpin
+
+https://t.co/NAN6YMOs23",20,0,8,2021-07-08
+607,2021-07-09 17:35:35+00:00,1413552424690671616,nymproject,"Nym is nearing the size of Bitcoin and Ethereum in number of mix nodes! Thanks @openwebfounders
+for all the support!
+
+https://t.co/DBAxz9gC2x",28,1,4,2021-07-09
+608,2021-07-11 22:38:29+00:00,1414353430659969030,nymproject,@t1213121okok @openwebfounders The eternal question.,1,0,0,2021-07-11
+609,2021-07-13 08:35:51+00:00,1414866147657359360,nymproject,"Check out NYM Chief Scientist Claudia Diaz in VR @magicalcrypto
+https://t.co/jmUj7Rh9fs #bitcoin #privacy #nym #tor https://t.co/mzy1mov9Os",15,0,2,2021-07-13
+610,2021-07-14 14:06:47+00:00,1415311818944307204,nymproject,"WE ARE INTERNATIONAL!
+Join us in Telegram Chat:
+
+English https://t.co/jZhrGB4O50
+Russian https://t.co/pgSKmjKbhe
+Chinese https://t.co/29QupDCjag
+Turkish https://t.co/Y9kbHYoR2V
+
+#Privacy #NYM #Bitcoin #Tor #Vpn https://t.co/y7V1p9bUla",17,1,3,2021-07-14
+611,2021-07-15 08:31:46+00:00,1415589897604304900,nymproject,@duong2024 We are not ignoring you! In fact there is an AMA on monday in https://t.co/Yw5KbAnDzz,2,1,0,2021-07-15
+614,2021-07-17 12:54:55+00:00,1416380897046245376,nymproject,"We are very proud to announce a successful funding round with some great partners!
+https://t.co/c0bSSQkXZs",121,67,32,2021-07-17
+615,2021-07-19 14:38:50+00:00,1417131825105932293,nymproject,"✨
+https://t.co/rbq2qIQ42X",19,1,0,2021-07-19
+618,2021-07-20 09:01:37+00:00,1417409347106267137,nymproject,"We love this. 
+Our aim is to build a global privacy commons - with the help of our friends across the world who share this mission.
+https://t.co/CK96ypsZ6l",13,0,1,2021-07-20
+624,2021-07-21 13:55:42+00:00,1417845746456580098,nymproject,"Join the countdown to Milhon launch in our Telegram channel! 
+
+https://t.co/CtLhySFcOp",12,0,0,2021-07-21
+630,2021-07-22 08:52:27+00:00,1418131819027906563,nymproject,"@jochemin We will send enough to cover gas fees to you and others in that situation! But friends, it will be next week.
+
+&lt;3",2,1,0,2021-07-22
+633,2021-07-23 09:56:47+00:00,1418510395753521153,nymproject,"We'd like to thank everyone that helped along the way, especially our pre-seed investors - especially @eblockventures with the Go-to-Market, @BinanceLabs for their incubator, @1kxnetwork for being risk-takers, @TrustValleyCH for Swiss connections, and OF COURSE @openwebfounders! https://t.co/MsqmqNlLER",34,2,7,2021-07-23
+634,2021-07-26 12:35:25+00:00,1419637481381765124,nymproject,"Section 6 of the Nym whitepaper describes our cryptoeconomics...
+
+Read up on it if you are curious what we are building and testing in the current Milhon testnet! Starting with Delegated Staking for signalling reputation amongst stakeholders.
+
+https://t.co/KiFlC9TH8w",21,0,5,2021-07-26
+636,2021-07-28 14:47:32+00:00,1420395502491901952,nymproject,"Have a look and forward to all your shadowy, talented friends:
+https://t.co/y2gNDzbqJN
+https://t.co/2nxVCGvE3F",15,0,1,2021-07-28
+638,2021-07-29 16:53:58+00:00,1420789709480005632,nymproject,"News link for our Spanish speaking friends across the world --&gt;
+
+https://t.co/VgVyMT1GqX",17,0,4,2021-07-29
+639,2021-07-30 12:07:33+00:00,1421080018961244162,nymproject,"Without privacy, people and societies cannot develop, change and grow freely. 
+
+Instead, targeting, manipulation and capture of our collective future become the norm, whether through overt oppression or by more subtle means.
+
+Join us in building a global privacy infrastructure.",25,1,7,2021-07-30
+642,2021-07-31 10:45:24+00:00,1421421734721425413,nymproject,"Many people have been buidling their own Loopix-style mixnets (mostly using Go code  we abandoned for Rust) and have been asking for a simulator.
+Our Head of Research, @aniampiotrowska, has released not just her code, but a paper on the mixnet simulator.
+
+https://t.co/hPIhahzMpb https://t.co/XtG3yVE7J5",32,1,5,2021-07-31
+644,2021-08-02 14:30:35+00:00,1422203177651392512,nymproject,"-  The Nym Network  -  
+The Next Generation of Privacy Infrastructure
+
+Our whitepaper written by @claudsdayz @harryhalpin @sol3gga  has had over 15k unique downloads!
+
+Read it: 
+https://t.co/QzWpqxslLI",34,0,9,2021-08-02
+645,2021-08-03 19:32:38+00:00,1422641577567129605,nymproject,"Our aim is privacy as a public good infrastructure. 
+
+""Greater scale should mean greater good as valued by an increasingly wider set of people: the creation of positive externalities.""
+
+Excellent text defining the criteria of Web 3 public goods. Read it:
+https://t.co/B5dfz9lPwK",25,0,9,2021-08-03
+647,2021-08-04 08:08:44+00:00,1422831859097014276,nymproject,@block3232 Delegators are also getting rewarded!,0,0,0,2021-08-04
+648,2021-08-05 11:05:18+00:00,1423238679317864449,nymproject,"@nichnachnoch @will_harborne @zooko @aztecnetwork @TornadoCash It is a move to be able to argue that privacy is protected while still allowing for mass data harvesting, processing and targeting - protecting the FB biz model.
+
+@jayapapaya from Nym wrote about this issue with ZKP in 
+""crypto-politics, an update"" --&gt; https://t.co/gVVuX4KSG4",1,0,0,2021-08-05
+650,2021-08-09 14:53:50+00:00,1424745742703419395,nymproject,@MadAdm88 Validators will soon be permissionless...,1,0,0,2021-08-09
+654,2021-08-10 13:59:56+00:00,1425094566185680902,nymproject,Mixnodes are doing a fantastic job in Milhon. Lets keep DECENTRALISING 💕 and get a Nym node up in every country! 💥 https://t.co/oqFFYhLaRF,26,1,6,2021-08-10
+655,2021-08-11 13:08:55+00:00,1425444117962764290,nymproject,"Good privacy
+Good community
+Good art
+... on the Nym delegation channel https://t.co/BNO8tdzzog https://t.co/WemiZfBVpR",21,1,5,2021-08-11
+657,2021-08-12 08:38:02+00:00,1425738334605819907,nymproject,"Good morning!
+Good privacy, good art -
+- by our community of mixnodes. showing lost-in-the-pattern, lost-in-the-crowd privacy!
+
+#PrivacyLovesCompany
+
+Your internet traffic is mixed with others and made indistinguishable. 
+
+Read our simple mixnet explainer:
+https://t.co/H1L5w4zfPf https://t.co/lixlewdFgi",17,0,3,2021-08-12
+659,2021-08-13 08:11:53+00:00,1426094141214183434,nymproject,"Mark the diary for the 26th of August and tune in to hear @harryhalpin discuss privacy, polkadot and defi
+✨
+https://t.co/irKGuvRJbD",17,0,2,2021-08-13
+661,2021-08-16 15:17:20+00:00,1427288372951883782,nymproject,"Introduction to NYM
+
+https://t.co/gLdTLr2suG
+
+#Privacy #NYM #TOR #I2P #Bitcoin https://t.co/NsmLlammNi",21,0,5,2021-08-16
+662,2021-08-19 21:57:37+00:00,1428476271491788805,nymproject,"Thanks to @DystopiaLabs for uploading the video """"Holistic Privacy: Why Zero-Knowledge Proofs Are Not Enough."" with @harryhalpin #Privacy #Zcash https://t.co/7K43GCedm6",17,0,3,2021-08-19
+664,2021-08-20 07:30:33+00:00,1428620452512079878,nymproject,"Check out Alexis Roussel, COO of Nym at AIBC Summit Dubai. He explains some use cases of NYM and what the difference between a mixnet and a #VPN is. 
+
+Watch Here: https://t.co/gwEgUoRxxc
+
+#Privacy #Tor #NYM https://t.co/bzUX2uKQ0T",12,1,4,2021-08-20
+665,2021-08-22 07:24:07+00:00,1429343609246076928,nymproject,Register for NYM COO @alexis_roussel ´s  presentation about Digitial Integritiy that takes place tomorrow 23.08! https://t.co/ygBfDtZYpL https://t.co/zRzDTPK9tq,12,0,2,2021-08-22
+666,2021-08-23 15:02:47+00:00,1429821427692228614,nymproject,"NYM Project ou le dernier rempart pour votre vie privée ? (Discussion avec Alexis Roussel) 
+https://t.co/raIaVvQ2kJ #Privacy #NYM #TOR #VPN #Bitcoin https://t.co/mUeLziWY6w",19,0,4,2021-08-23
+667,2021-08-25 12:33:15+00:00,1430508568814424064,nymproject,"Read about Chelsea Manning and NYM working together! #Privacy #NYM #TOR #VPN #Bitcoin 
+
+&gt;&gt;&gt;https://t.co/5NsGBsztWO https://t.co/U7LHqXsD0u",83,2,33,2021-08-25
+670,2021-08-31 09:37:38+00:00,1432638702652637185,nymproject,"For our Thai-speaking friends
+💗
+
+step-by-step together we are building a global alliance for privacy.
+
+https://t.co/uREhvfOr6C",15,0,0,2021-08-31
+672,2021-09-01 11:11:41+00:00,1433024760519200774,nymproject,"#Nym
+#GlobalPrivacyCommons 
+#NYMPrivacyCoin
+#ComingSoon https://t.co/F0HNgZdW78",42,2,8,2021-09-01
+673,2021-09-02 08:58:28+00:00,1433353623564603392,nymproject,"For the skeptics and enthusiasts alike - to be clear - we are designing and developing the NYM utility token and our tokenomics 
+
+---&gt; to achieve a sustainable, non-advertising business model for privacy! &lt;----
+
+#NYMtoken",40,2,5,2021-09-02
+674,2021-09-06 09:22:27+00:00,1434809209594515458,nymproject,"Privacy needs decentralisation.
+""It makes it a cooperation between us and the authorities asking. We can make an ethical decision to help across multiple jurisdictions.""
+Excellent thread on @ProtonMail by @brokep 
+https://t.co/CxpJfhzJOT",32,0,7,2021-09-06
+675,2021-09-07 08:18:39+00:00,1435155539126886400,nymproject,"What @evacide says! This is for those of you wondering what metadata is, why E2E encryption will not save you, and why our focus in Nym is to protect the metadata of traffic at the network layer.
+
+https://t.co/JRYp03K1h6",15,0,1,2021-09-07
+678,2021-09-08 16:22:18+00:00,1435639641206665224,nymproject,"Why does privacy has to be usable to save lives? 
+
+Why Nym supports holistic privacy and not just zero-knowledge proofs on-chain? 
+
+Why we started as a for-profit company and not a non-profit?
+
+Tune into @zeroknowledgefm where the one and only @AnnaRRose interviews @harryhalpin! https://t.co/hj1QjDomaX",20,0,5,2021-09-08
+679,2021-09-09 11:44:55+00:00,1435932226093527043,nymproject,"#NFT action in our Telegram channel - for Nym OGs!
+
+This will be an edition of 21 marking our key milestones so far
+#OldSchoolVibes
+
+Join: https://t.co/fgwNnVBzxn https://t.co/AbZWT2B5rF",20,1,2,2021-09-09
+681,2021-09-13 09:29:38+00:00,1437347731459149838,nymproject,"Nym explainer by our friends at @BigcoinCapital - for our Vietnamese speaking friends across the world
+
+BUIDL
+#GlobalPrivacyCommunity
+#PrivacyGoingGlobal
+
+https://t.co/S0HdOkbHIS",15,1,2,2021-09-13
+682,2021-09-14 03:53:48+00:00,1437625603709186050,nymproject,@CypherpunkGuild https://t.co/V5dnmmxn54,0,1,0,2021-09-14
+683,2021-09-15 13:35:58+00:00,1438134500052058121,nymproject,"We are looking forward to sharing some exciting tokenomics with you in the next days !
+
+#NYMtokenomics
+#NYMprivacy
+#EndSurveillanceBizModels https://t.co/bSNLMBdcT1",58,1,10,2021-09-15
+684,2021-09-16 08:04:05+00:00,1438413363810349060,nymproject,"A good introduction to Nym, what we are building and where we are headed.
+
+- Thanks @CoinCodex  !
+
+https://t.co/R4Qi5XkwtC",39,0,9,2021-09-16
+685,2021-09-17 10:26:34+00:00,1438811612836663297,nymproject,"Privacy is about creating the conditions for people and organisations to have a real chance to make decisions about who and under what conditions someone can use their data. 
+
+Another good review of our vision and architecture: 
+https://t.co/6T7ZqYzseA",33,1,9,2021-09-17
+686,2021-09-21 10:56:57+00:00,1440268806669037574,nymproject,"@d99e280d1bb0f47 @harryhalpin Businesses and products already exist, we are here to add privacy to these. What is inspiring is to see how they are forced to adapt...  surveillance-based businessmodels and products will have no choice but to be transformed. And a new internet will be born.
+
+More inspiring?",0,0,0,2021-09-21
+690,2021-09-22 15:44:30+00:00,1440703558739918861,nymproject,"Heed friends - there can be no ""self-sovereignty"", ""data sovereignty"" or ""digital sovereignty"" without privacy first. 
+
+Secure your network layer.
+
+#BUIDL
+#NextGenInternet
+#NymPrivacy https://t.co/6ZjHNMe5Ja",35,3,6,2021-09-22
+692,2021-09-23 12:48:20+00:00,1441021612929728512,nymproject,"What is Nym? 
+
+There has been high demand for an English language explainer video - and here it is friends!
+
+#NextGenerationPrivacy
+
+https://t.co/K4EYARs6zw",44,2,15,2021-09-23
+693,2021-09-24 14:45:57+00:00,1441413601982500877,nymproject,"Ppl seem to be a little impatient, so here's a quick summary of the Road to Mainnet:
+
+-Launch of Network+Block Explorers and web wallet ✔
+-Proof of Mixing and delegated staking mechanism ✔
+-Onboarding Validators and Gateways☐
+-Nym cryptoeconomics☐
+-Nym credentials☐
+
+MAINNET!",46,3,7,2021-09-24
+694,2021-09-25 08:05:02+00:00,1441675094380613633,nymproject,"@maxkeiser interviewing @alexis_roussel  of Nym
+
+--&gt; about the digital integrity of the human person&lt;--
+
+https://t.co/mvf6uQ4rne",27,5,9,2021-09-25
+695,2021-09-27 12:25:02+00:00,1442465303011766272,nymproject,"""...outrageous our government would contemplate kidnapping or assassinating somebody w/out judicial process simply because he published truthful information"" Pollack, Assange’s U.S. lawyer
+
+Transparency for the powerful, privacy for the rest of us 🔥
+
+https://t.co/2NzbbnDUnd",24,0,4,2021-09-27
+698,2021-09-28 10:45:42+00:00,1442802693903462406,nymproject,"&gt; Big Minds Sharing their Vision on the Future of AI &lt;
+
+Nym Chief Scientist @claudsdayz will be speaking at this online DEXA Panel tomorrow.
+
+And yes, privacy has everything to do with this. It will shape society's relationship to AIs in fundamental ways.
+
+https://t.co/qB0iIrVB1T",22,0,5,2021-09-28
+700,2021-10-01 08:27:15+00:00,1443855012392734721,nymproject,"@seotut The token has not been launched for public sale yet - we will announce all the details soon, so stay tuned.
+Here, 
+
+or on our Telegram https://t.co/fgwNnVBzxn, 
+
+or sign up for the newsletter (scroll down) https://t.co/dcZxOXUnsD",0,0,0,2021-10-01
+703,2021-10-02 08:30:03+00:00,1444218106679812096,nymproject,"Read this very cool paper on using the speed of light to verify node locations. 
+Important for example for ensuring geographical decentralisation
+VerLoc - by @blister_green and @claudsdayz congratulations! 
+https://t.co/4U0vkDv8CT",32,0,5,2021-10-02
+704,2021-10-05 09:46:16+00:00,1445324451751550977,nymproject,"New docs just went live, find out how to run Nym nodes: 
+
+https://t.co/aBq0XN1yZL
+
+#NymNetworkActors
+#GlobalPrivacyNetwork
+#BUIDL",26,1,6,2021-10-05
+708,2021-10-06 10:36:51+00:00,1445699566955745281,nymproject,"Privacy is undermined by pervasive data collection and centralized monopolies, preventing innovative services and platforms from arising. Yet the tide is turning due to popular discontent against mass surveillance... 
+#NymWhitepaperQuotes
+
+https://t.co/KiFlCabi04",35,1,8,2021-10-06
+709,2021-10-07 23:50:51+00:00,1446261773447880704,nymproject,"CHAOS IS A LADDER
+
+Read more from our CEO @harryhalpin on how the global crisis over Facebook and the future of the Internet is an opportunity for decentraization and Switzerland in @dgt_switzerland!
+
+https://t.co/8crEq5rJlw https://t.co/HmzPkm6u2l",25,0,4,2021-10-07
+711,2021-10-10 11:01:42+00:00,1447155372662398981,nymproject,"For our French speaking friends across the world
+
+https://t.co/FlumW4DclF",85,1,13,2021-10-10
+712,2021-10-11 12:39:45+00:00,1447542435798781961,nymproject,"Having a great time discussing the future of @Liquid_BTC with the rest of the community - while we aren't doing much right now as we are focusing on our own code, expect announcements on future support for Liquid-enabled wallets in the future. Keep those $NYMPH!",31,2,3,2021-10-11
+713,2021-10-12 09:16:24+00:00,1447853651389714434,nymproject,https://t.co/Y5j9TotfH2,68,2,14,2021-10-12
+715,2021-10-13 14:58:05+00:00,1448302022797795328,nymproject,"#PrivacySticker
+#PrintReady
+#Nym https://t.co/KRNYHE56WT",30,0,4,2021-10-13
+716,2021-10-14 08:14:48+00:00,1448562921085317120,nymproject,"Upcoming AMA with our Head of Growth - Shane Qiu - hosted by @BtaVentures organised by our Vietnamese community !
+https://t.co/Jz9JxTMhdi",22,0,4,2021-10-14
+718,2021-10-15 08:00:21+00:00,1448921674536177668,nymproject,"""Staking, in the form of bonding a stake (node operators), and delegating a stake (users), provides important information security, governance and economic features to the Nym system.""
+
+https://t.co/R1K9MxKvMN",32,0,3,2021-10-15
+719,2021-10-18 08:18:03+00:00,1450013290449543168,nymproject,"Privacy - not surveillance - should be the default of our digital lives
+#GlobalPrivacyInfrastructure
+#Layer0Privacy
+https://t.co/nGlu4UTavT",37,0,8,2021-10-18
+720,2021-10-19 17:08:10+00:00,1450509086555058189,nymproject,"We have surpassed 10k followers - Nymsters across the world unite!
+
+#PrivacyToTheMoon https://t.co/KGhpt4tL8w",60,2,11,2021-10-19
+723,2021-10-20 10:00:38+00:00,1450763883359186944,nymproject,"We are looking forward to discussing Nym and surveillance-proof businessmodels at...
+
+https://t.co/Ia8LW70Wd2
+Thursday, 12.10 CET - online
+
+#DecidimFest21
+#PrivacyTokenomics",15,0,1,2021-10-20
+725,2021-10-21 08:00:58+00:00,1451096156881174533,nymproject,"Happy #GlobalEncryptionDay!
+
+https://t.co/RVYD8tgjWv
+
+From the cryptowars and cypherpunks to today - the struggle for a civilian internet safe from the prying eyes of military and corporations continues
+
+...now add a mixnet to that to keep your metadata safe too!",32,0,9,2021-10-21
+727,2021-10-22 12:04:44+00:00,1451519890498723854,nymproject,"The Nym team has expanded A LOT since the summer! 
+
+Join us as we welcome our new team members who will assist us in shaping the next generation of global privacy infrastructure -
+
+- starting with four fantastic people 🚀 https://t.co/MuoM03pu5v",49,1,3,2021-10-22
+728,2021-10-23 10:52:20+00:00,1451864060081983491,nymproject,@Kripto_maniac Send theogoodman your polygon address on telegram,1,0,0,2021-10-23
+731,2021-10-25 15:27:57+00:00,1452658196074704902,nymproject,"Got to have team t-shirts for the first face-to-face team meeting of our newly expanded team!
+
+#NymPrivacy
+#NymMerch https://t.co/t5XHCDv66I",58,10,4,2021-10-25
+732,2021-10-26 14:28:10+00:00,1453005538430701573,nymproject,@pio_taras From the website - we will announce here and in Telegram when the full collection is ready for orders!,0,1,0,2021-10-26
+737,2021-10-28 16:00:02+00:00,1453753433257807873,nymproject,"Milestone - bandwidth credentials up and running! 
+
+First message sent using bandwidth credentials through the mixnet from Keybase...
+
+#NymBUIDL
+#NymDemo
+#NymTeamGetaway https://t.co/ihxj0KwUAu",34,3,1,2021-10-28
+739,2021-10-30 16:43:12+00:00,1454489071145955333,nymproject,"What's Meta - how about the Zuck going after your METAdata. 
+
+Facebook on the Metaverse is just a surveillance panopticon, but in VR.
+
+Yet the Web 3.0 version without privacy is an accidental panopticon that Facebook will just datamine anyways unless there's privacy built in. https://t.co/AJOUIYQe0m",48,3,6,2021-10-30
+740,2021-11-01 12:57:54+00:00,1455157148464427011,nymproject,@luhanyi3 very soon.,0,0,0,2021-11-01
+743,2021-11-02 09:10:03+00:00,1455462195018489856,nymproject,"@alexis_roussel is giving a talk on #Nym tomorrow at https://t.co/dNplzqVNMW 
+
+#Nym
+#GlobalDecentralisedPrivacy https://t.co/uyMoMKRG8H",3,0,0,2021-11-02
+744,2021-11-03 13:33:21+00:00,1455890846981795843,nymproject,"New month, new team members! 
+
+Join us as we welcome our new team members who will assist us in shaping the next generation of global privacy infrastructure   
+
+- starting with four fantastic people  🚀 https://t.co/25uy37IcFR",41,2,5,2021-11-03
+746,2021-11-04 15:49:38+00:00,1456287530039513101,nymproject,"Follow the rabbit deep into the Nym mixnet... read all about mixnodes and what they do to secure unlinkability and privacy in the Nym mixnet.
+
+#Mixnodes
+#Unlinkability
+#GlobalPrivacyNetwork
+
+https://t.co/NWPM6RCJPf",36,1,11,2021-11-04
+749,2021-11-05 23:05:32+00:00,1456759615102803969,nymproject,"@harryhalpin @rphilos ""It is the first round of an ontological conflict between the forms-of-life of the Internet and the pre-Internet institutions that are unravelling around us.""
+
+https://t.co/Jz1hNtX2Lb",16,0,2,2021-11-05
+764,2021-11-07 19:40:24+00:00,1457432767340367874,nymproject,"Watch our COO @alexis_roussel give one of the best lectures on what Nym is doing at @blockchain_ua's conference in Kyiv last week! See you next year in Odessa we hope!!
+
+https://t.co/mUDRwFQTVH https://t.co/al72ChfZ5n",49,1,11,2021-11-07
+765,2021-11-08 14:19:18+00:00,1457714347271131142,nymproject,"Warm welcome to the 1 and only @xychelsea who has joined as an expert advisor to conduct a security audit on our mixnet! She is keenly aware of the capabilities and kinds of attacks by large-scale adversaries, and will be a huge help in identifying any limitations of the design. https://t.co/ct1HVMDQxr",115,4,15,2021-11-08
+766,2021-11-09 09:55:58+00:00,1458010467503329281,nymproject,"Join us in Barcelona for an evening of privacy, anonymity and zero-knowledge proofs
+
+Dec 9th, 2021 at @AKASHAworldBCN 
+#Nym
+#DarkRenaissance
+
+https://t.co/QOvBJQvIDf",39,0,7,2021-11-09
+767,2021-11-10 15:22:27+00:00,1458455014985318405,nymproject,"Proud to release open source code for the world's first Mixnet Explorer!
+
+An essential tool for decentralised quality control and security auditing. 
+
+""Transparency for the infrastructure, privacy for the end user!""
+
+#NymMixnet
+#PrivacyInfrastructure
+
+https://t.co/MwoH24alxe https://t.co/4V50fZ5HXE",59,2,8,2021-11-10
+771,2021-11-11 15:00:42+00:00,1458811930127314949,nymproject,"Our #HackAtom challenge launches now! 
+
+End-user App category: to build Eternity Service 2.0 - private cloud file storage and a GUI accessed through our mixnet...
+
+https://t.co/5vrGYwSbSt https://t.co/qWyWpMyL4N",39,1,10,2021-11-11
+775,2021-11-12 12:05:43+00:00,1459130281361821699,nymproject,@Almutasemalhaj Coming soon...,2,0,1,2021-11-12
+783,2021-11-15 15:57:23+00:00,1460275747969503236,nymproject,Update on scam: we've found this SCAM project copying us. We're NOT connected to them. Please be cautious. https://t.co/qxpRaSXcCM,40,0,8,2021-11-15
+786,2021-11-17 12:25:00+00:00,1460947076469112834,nymproject,"""Nym’s latest round signals the growing interest in privacy preserving technologies, no longer a niche avail of the paranoid and the criminal. 
+And the world at large is paying attention.""
+
+#Nym
+#NextGenPrivacy
+
+Forbes reports:
+https://t.co/lGpFrB6WJX",234,14,67,2021-11-17
+791,2021-11-18 12:11:38+00:00,1461306099446034434,nymproject,"And it is official! Read the @a16z Nym investment thesis by @alive_eth and @guywuolletjr 
+
+#DecentralisedGlobalPrivacy
+#PrivacyToTheMoon
+#Nym
+
+https://t.co/aPXDmWAYzu",117,6,32,2021-11-18
+793,2021-11-19 14:40:41+00:00,1461705998821953540,nymproject,4/4 Otherwise the week has been full of improvements on our existing reward scheme and preparations for some exciting upcoming developments… #DevUpdate,24,0,2,2021-11-19
+799,2021-11-21 11:07:40+00:00,1462377167241850883,nymproject,"Want to know what's going on at the @nymproject? 
+
+Come Tuesday, 8:00 PM Singapore time to catch up with the Nym Chinese Community  for an AMA with  @theog__ in https://t.co/KEimbdbOCe !
+
+Lots of news on the roadmap and the @DCGco /@a16z funding! https://t.co/2Q1ETWIxKz",44,1,6,2021-11-21
+800,2021-11-22 08:00:19+00:00,1462692404163756033,nymproject,"Good morning and we have some big weeks ahead!
+Nym and Web3 AMA with @theog__ and our Chinese community tomorrow, to hear more...
+https://t.co/bivhmYTCtU https://t.co/PyhU7zfjRc",34,1,8,2021-11-22
+803,2021-11-23 14:52:10+00:00,1463158437316018182,nymproject,"We're proud at @nymproject to be joining the Center for Digital Trust @C4DT_EPFL at EPFL as an associate partner! 
+
+We've got exciting news on work with @ICepfl interns coming soon very soon as well...
+
+https://t.co/j4S1sQtYwC",43,1,15,2021-11-23
+808,2021-11-24 15:28:35+00:00,1463529989622611968,nymproject,"Privacy is simply mapping what we are used to in our real world communication to the internet.
+
+@harryhalpin on privacy.
+
+#NymMixnet
+#GlobalDecentralisedPrivacy https://t.co/YBNVgoOi9G",104,5,26,2021-11-24
+810,2021-11-25 11:19:08+00:00,1463829601294196736,nymproject,"@theog__ heading in the direction of @CoinFestUK ...
+
+#Nym
+#GlobalDecentralisedPrivacy
+#NextGenerationPrivacy https://t.co/EYbwTMcAvV",3,1,1,2021-11-25
+812,2021-11-26 15:52:55+00:00,1464260890434416648,nymproject,"5/5 Otherwise we’ve done stability improvements in mix node bonding and the validator API
+#DevUpdate",18,1,4,2021-11-26
+819,2021-11-30 09:44:35+00:00,1465617748768313347,nymproject,"We couldn't agree more. Make surveillance economically unfeasible! 
+
+Our tokenomics is all coded up and we cannot wait to share a paper with you all in the very near future...
+
+#Nym
+#SurveillanceFreeBizModel
+
+https://t.co/SUnoAen5EL https://t.co/jjrFHx9Ajo",49,1,9,2021-11-30
+823,2021-12-01 12:30:51+00:00,1466021979681603588,nymproject,"A pleasure to be interviewed by Token Economist in Japan! 
+
+#Nym
+#NymJapan
+#GlobalDecentralisedPrivacy
+
+One for our Japanese speaking friends across the world: 
+
+https://t.co/UPFk7Wild8",27,0,6,2021-12-01
+826,2021-12-02 16:34:11+00:00,1466445600417853451,nymproject,"We are looking foward to another event this evening on Megatrends in Blockchain
+
+Hosted by @SwissMBAs where  @alexis_roussel will be talking about Nym.
+
+https://t.co/z8DV5WeJj9",24,1,4,2021-12-02
+829,2021-12-03 09:33:52+00:00,1466702213171003394,nymproject,"Watch @sol3gga talk through the reward sharing scheme that Nym cryptoeconomics builds on!
+Talk from yesterday is up and available at: https://t.co/u3N1eD0wW9
+#Nym
+#RewardPrivacyNotSurveillance
+https://t.co/d4UjSmvEGW",25,0,4,2021-12-03
+837,2021-12-04 15:15:09+00:00,1467150490765045765,nymproject,"Tech companies are waking up to the fact that people want privacy. 
+
+You might have heard promises of ""end-to-end encryption"" which will protect the content of your messages, but NOT THE METADATA:
+when, how often you are txting someone, device, filetype...
+
+#MetadataSurveillance https://t.co/Lt5S4FPzYx",70,2,13,2021-12-04
+838,2021-12-06 16:00:49+00:00,1467886755206549512,nymproject,"Privacy should be an infrastructural default, not something we desperately click into existence through cookie settings.
+
+@jayapapaya on how web2 continues shameless surveillance habits despite the European GDPR - and what can be done about it...
+
+https://t.co/LcxelmavR4",39,0,15,2021-12-06
+839,2021-12-07 13:15:02+00:00,1468207423613804549,nymproject,"Friends, we are happy to announce that Nym merchandise is now available to order! Give the gift of privacy, not surveillance this holiday season °○☆•°♡■☆ ...or just go get yourself some good t-shirts and hoodies! 
+
+https://t.co/Z36Eb9v1v3 https://t.co/EcGEAj6V0G",82,5,14,2021-12-07
+840,2021-12-08 12:36:12+00:00,1468560039556403203,nymproject,"@tw_tter @harryhalpin @epicenterbtc Hi Friederike -- yes, we would be happy to come on, although Harry has already done one episode https://t.co/IlHTjiSCci  
+could join again, potentially with or replaced by Nym Chief Scientist Claudia Diaz or Nym CSO Jaya Klara Brekke! 
+https://t.co/vT68bjq1u3",1,2,0,2021-12-08
+842,2021-12-09 10:23:12+00:00,1468888955542245378,nymproject,"@LeTooth_ Delivers to China, yes, but not sure how express these days!",0,1,0,2021-12-09
+844,2021-12-10 10:20:01+00:00,1469250544384585732,nymproject,We want to thank you for showing up for our event yesterday with https://t.co/2Dqgvuq4Gs in Barcelona. Here are some pictures 📷 https://t.co/e6RjgFPvAh,64,5,10,2021-12-10
+852,2021-12-13 14:25:59+00:00,1470399606009827333,nymproject,@Sim_alam83 @Sim_alam83 seems you are on the right channel to know it ones we have news ;),1,0,0,2021-12-13
+854,2021-12-16 17:12:03+00:00,1471528563857838081,nymproject,Here's a short interview at the https://t.co/dNplzqVNMW event from @RytaDeCrypt with our COO @alexis_roussel Check it out on our Youtube channel: https://t.co/26c6dB1yeD,22,0,2,2021-12-16
+855,2021-12-17 13:00:45+00:00,1471827709823172618,nymproject,"Gratulations to the winners of the Nym's #HackAtom challenge. Saleel S created the first working user app! 
+🥇 place 
+Saleel S
+NymDrive    
+https://t.co/0Y4Kcr7YuQ    
+https://t.co/Ov6wEReErA
+Second place in thread https://t.co/W6oKcXnpnv",46,2,10,2021-12-17
+864,2021-12-20 12:37:00+00:00,1472908894053748748,nymproject,"To our Spanish speaking community: thread 
+Queridos Cosmonautas 🧑‍🚀 esta tarde a las 16:30 CET tenemos una entrevista con @claudsdayz explicando todo sobre @NYMproject en nuestra Cosmos familia, no te lo pierdas hoy en https://t.co/S3gBjgozmb.",26,2,7,2021-12-20
+868,2021-12-21 17:28:05+00:00,1473344537456259079,nymproject,"Announcement 📢 
+
+Nym Sandbox, our permanent testnet is out! Read our blog to see what's new, the vision going forward and how you can test things out!
+
+https://t.co/Tft0TTfgWd https://t.co/H368Zz9w2K",115,4,30,2021-12-21
+869,2021-12-24 14:12:46+00:00,1474382547941482497,nymproject,"Friends, we wish you all happy holidays and hope you enjoy this time with your family and friends. Stay safe. https://t.co/yddAWExQvh",78,4,4,2021-12-24
+870,2021-12-29 15:05:37+00:00,1476207787403325443,nymproject,"Word of the day: 'unobservability' 
+
+means that the adversary cannot even determine whether the user is sending any message at all, or just being idle. Unobservability conceals the activity patterns of users and adds idle
+users to the anonymity set. More info -&gt; white paper 3.5",62,3,16,2021-12-29
+871,2021-12-31 10:30:07+00:00,1476863229829783589,nymproject,"Friends, we wish you all a happy 2022 with full of health, joy, success and privacy! We'll have a lot to share with you in the new year and are grateful you joined us on this journey. 
+Stay safe. https://t.co/kqJ7MQXsEo",85,1,14,2021-12-31
+874,2022-01-03 15:27:00+00:00,1478025105745735683,nymproject,"Our CEO @harryhalpin did a great interview with @TBSocialist about Privacy, mix nets and much more. Have a look into it 🎧 🔈 https://t.co/roL6c291tM",42,1,7,2022-01-03
+875,2022-01-04 13:57:33+00:00,1478364984069472261,nymproject,"The awareness and community around Nym continues to grow globally - an article for our Ukrainian speaking friends across the world!
+
+#NymUkrainian
+#GlobalDecentralisedPrivacy
+
+https://t.co/kyB11mIiFB",41,6,8,2022-01-04
+876,2022-01-05 09:10:00+00:00,1478655006517694467,nymproject,What to understand more about Nym Mixnet? Our Chief Scientist @claudsdayz did a very insightful podcast with @DidierBorel1 from The Swiss Road To Crypto. Check in out below 🎧 👂 https://t.co/pkstNRzGJl,35,1,10,2022-01-05
+878,2022-01-06 12:14:50+00:00,1479063911215374336,nymproject,"Protecting privacy is an intervention into relationships of power.
+
+Ppl often think either everything or nothing is private. To address power, we need to be smarter and instead continue the tradition of the cypherpunk: transparency for the powerful and privacy for the rest of us!",65,2,19,2022-01-06
+883,2022-01-07 12:54:30+00:00,1479436278412283912,nymproject,"5/7 The mixnet smart contract has been updated to make queries easier as well as adjustments to how active/rewarded sets of mixnodes are determined.
+#NymMixnet #Rewards #SmartContracts #Auditing #MainnetPrep",5,1,0,2022-01-07
+897,2022-01-09 16:43:53+00:00,1480218784128540675,nymproject,"Bonjour! Nym is front-page of the local newspaper in Neuchatel as the ""the hour of truth"" for Bitcoin arrives - excellent coverage of the emergence of Neuchatel as a hub of crypto in Switzerland to compete with ""Cryptovalley"" in Zug.
+
+(Paywalled sadly!): https://t.co/GNPBhXXhNp https://t.co/ofROp08xcg",62,3,7,2022-01-09
+899,2022-01-10 14:30:04+00:00,1480547492483715077,nymproject,"Major privacy issues are looming in Web3 - welcome reflections by @moxie
+""...write traffic is obviously already public on the blockchain, but these companies also have visibility into almost all read requests from almost all users in almost all dApps."" 
+https://t.co/8LpgPkIojG",45,0,10,2022-01-10
+900,2022-01-11 11:47:00+00:00,1480868845535563782,nymproject,"Pleased to publish our security analysis of Coconut credentials! 
+
+By Nym Cryptographer Alfredo Rial and Head of Research @aniampiotrowska 
+https://t.co/J7JIcKH3uX
+
+#CoconutCreds
+#ApplicationLayerPrivacy",64,2,14,2022-01-11
+903,2022-01-12 18:37:18+00:00,1481334489272004614,nymproject,"Why is Ethereum so full of scams?
+
+ Please DO NOT SEND ANY Ethereum to these scammers for fake ERC20 NYM via websites like ""nymtech....sale""
+
+We will announce our registered public offering when it is approved and not via some shady website asking for ETH.",78,7,9,2022-01-12
+904,2022-01-13 00:40:57+00:00,1481426002421157889,nymproject,@benandcryptos Currently NYM does not exist. We have testnet tokens on Liquid and Cosmos (as we needed Web Assembly to execute the reward-sharing scheme in Section 6 of whitepaper).,5,0,0,2022-01-13
+906,2022-01-14 14:06:04+00:00,1481991005465419778,nymproject,"4/5 Once the endpoints are ready the mix node status, saturation and estimated rewards will be visible in both the Network Explorer and the Nym wallet.
+#NymMixnet #Rewards #MainnetPrep",23,1,4,2022-01-14
+912,2022-01-15 14:00:27+00:00,1482351979024334852,nymproject,"So many new followers recently! Some of you might be wondering - how can I understand Nym better? The whitepaper gives an overview of the architecture, thinking and aims that drive our work.
+https://t.co/KiFlC9TH8w 
+
+Chinese community translation: https://t.co/SipDTSATrC",57,0,16,2022-01-15
+913,2022-01-16 14:58:00+00:00,1482728852589883396,nymproject,"Nym - preventing mass surveillance at the network layer.
+https://t.co/IXvKnBjlCe",71,2,18,2022-01-16
+914,2022-01-17 18:28:01+00:00,1483144091328294916,nymproject,"Privacy privacy privacy. 
+
+One of the many pictures from our community with our https://t.co/jWAuDaR2d5 merchandise. 
+All profits go to https://t.co/nDAC6uDjko 
+
+Check out our https://t.co/mRaPCJ2uxt now for your own hoodie or t-shirt! https://t.co/srQba5BzC7",86,4,15,2022-01-17
+915,2022-01-19 09:30:02+00:00,1483733479540113414,nymproject,"📢  Announcement - Introducing the Nym mainnet blockchain 📢  
+
+Our Cosmos-based blockchain ‘Nyx’ is up and running! And not only that, we have opened it up for smart contract uploads --&gt;
+
+Read more: https://t.co/5ErlVjw42e
+
+#Nym #Mainnetlaunch #Nyx #Blockchain #SmartContracts",385,39,109,2022-01-19
+918,2022-01-20 09:00:09+00:00,1484088346964021249,nymproject,"Excited to announce our partnership with Swisscom - old guard of networking who clearly understands the future of networks: decentralized with privacy first. 
+
+With Nym ""Swisscom is underlining its mission to partner with the most ambitious projects...""
+💥
+https://t.co/8qPKVfud59 https://t.co/8thBou180n",119,0,18,2022-01-20
+919,2022-01-21 14:45:39+00:00,1484537680943890435,nymproject,"5/5 Last but not least, earlier this week we introduced our mainnet Cosmos-based Blockchain ‘Nyx’, which is up and running and open for smart contracts uploads.
+More info: https://t.co/5ErlVjw42e 
+#Nym #Mainnetlaunch #Nyx #Blockchain #SmartContracts",29,1,3,2022-01-21
+926,2022-01-23 12:00:05+00:00,1485220791163707392,nymproject,"What do mixnets really do for a bitcoin or crypto transaction? Take a Sunday break from the charts, read an article and get educated instead! 
+
+Written up by @harryhalpin and @aniampiotrowska of Nym --&gt;
+
+https://t.co/NLWLcoZqlC",76,0,21,2022-01-23
+927,2022-01-24 11:00:07+00:00,1485568088288464897,nymproject,"...""What your data body says about you is more real than what you say about yourself. The data body is the body by which you are judged in society, and the body which dictactes your status in the world.""
+- Critical Art Ensemble
+
+#Nym
+#CounterSurveillance
+
+https://t.co/JkELI3QddF",42,0,7,2022-01-24
+928,2022-01-25 10:35:18+00:00,1485924229149302792,nymproject,"We are happy to have @xychelsea on our team! Find out what she's up to in her interview with @coindesk over the state of privacy!
+
+""You have to build privacy into the infrastructure. I've been saying this for years.""
+
+https://t.co/VqBCjitWzV",134,2,23,2022-01-25
+929,2022-01-26 13:36:01+00:00,1486332097715482624,nymproject,"Announcing Nym docs in Chinese!
+https://t.co/K4pg2dSz7q
+
+A huge thank you to @myz12371 for the translations
+
+发布Nym中文文档，非常感谢 @ myz12371 提供的翻译
+
+♡ https://t.co/KBsqmBEr9V",78,2,5,2022-01-26
+930,2022-01-28 19:25:19+00:00,1487144778936553476,nymproject,https://t.co/LjXPBeCtVG,30,1,1,2022-01-28
+943,2022-01-30 22:53:13+00:00,1487921873321185282,nymproject,"Want to learn more about @nymproject in detail, including its technical features, details of the founding of Nym, how mixnets work, why we got @a16z backing, and current thinking towards the future?
+
+Listen to @sethforprivacy for a great interview!
+
+https://t.co/LmJeZnFpaV",73,1,12,2022-01-30
+944,2022-01-31 10:30:03+00:00,1488097235275558913,nymproject,"Read up on deanonymization attacks on cryptocurrencies - 
+
+some of the important research behind why cryptocurrencies urgently need network layer privacy protections!
+
+by Piyush Kumar Sharma, Devashish Gosain and Nym Chief Scientist @claudsdayz 
+https://t.co/kuBgH1choO",94,1,32,2022-01-31
+945,2022-02-01 10:45:01+00:00,1488463390150438916,nymproject,"Introducing the NYM token 
+
+- the new economic model for privacy -
+
+The token grants access to the decentralised mixnet; rewards mix nodes providing privacy; and allows token holders to assign reputation to mix nodes providing good quality of service
+
+https://t.co/mKt5FWYQ3s",209,16,53,2022-02-01
+948,2022-02-03 13:22:21+00:00,1489227762456043522,nymproject,@saqoducuxuce @dacheng01 Have patience as we work through the support tickets - many people are having similar issues.,0,1,0,2022-02-03
+954,2022-02-04 15:15:58+00:00,1489618740442501126,nymproject,"Watch out for fake accounts trying to scam you!
+
+please report and block ---&gt; @nymproject_ (see the additional underscore) 
+
+The only sources of truth for Nym are :
+https://t.co/GCBVX1rd50
+https://t.co/ZAxOVVGE3K
+https://t.co/fgwNnVBzxn",58,2,11,2022-02-04
+957,2022-02-05 12:29:00+00:00,1489939111683276804,nymproject,"Watch out for fake accounts trying to scam you!
+
+Help us to please report and block ---&gt; @Nymprojects
+
+ (see the additional ""s"") 
+
+The only sources of truth for Nym are :
+https://t.co/GCBVX1rd50
+https://t.co/ZAxOVVGE3K
+https://t.co/fgwNnVBzxn",71,4,14,2022-02-05
+960,2022-02-07 10:12:01+00:00,1490629415876890624,nymproject,"Learn more about the NYM token and how it is used to ensure decentralisation and incentivise privacy in the mixnet--&gt;
+
+https://t.co/coQaM07oPf
+
+And be careful of scams! The only sources of truth for Nym are:
+https://t.co/GCBVX1rd50
+https://t.co/ZAxOVVGE3K
+https://t.co/fgwNnVBzxn https://t.co/HNAtKntPT5",100,2,28,2022-02-07
+962,2022-02-08 12:05:00+00:00,1491020235838742537,nymproject,"Its time to mobilise a coalition for privacy as a cornerstone of the future internet - join us --&gt;
+https://t.co/GaxBP2kUo7",105,3,21,2022-02-08
+964,2022-02-09 17:30:07+00:00,1491464439094259718,nymproject,"...and the NYM token sale will open in 30min on CoinList💥
+
+NYM tokens facilitate decentralisation of the Nym mixnet, rewarding and incentivising nodes to provide a high quality of service. 
+
+A big step in decentralising the Nym privacy mixnet!
+
+#GlobalDecentralisedPrivacy https://t.co/YfZhCo06yJ",139,22,23,2022-02-09
+972,2022-02-10 08:41:01+00:00,1491693675994357760,nymproject,"🤩  30k followers! 💥 
+
+We want to thank everyone of you for your support and trust in Nym. 
+
+We are just getting started 🚀 https://t.co/OhB338ufay",189,8,23,2022-02-10
+976,2022-02-14 22:42:10+00:00,1493354909105799172,nymproject,"Watch out for fake accounts trying to scam you!
+
+Help us! Report and block ---&gt; @nymproject_aid
+
+ (see the additional ""_aid"") 
+
+The only sources of truth for Nym are :
+https://t.co/GCBVX1rd50
+https://t.co/ZAxOVVGE3K
+https://t.co/fgwNnVBzxn",55,5,8,2022-02-14
+977,2022-02-15 19:01:05+00:00,1493661661940658188,nymproject,@JMarkparton Stay tuned and keep following us.,1,0,0,2022-02-15
+984,2022-02-16 10:46:33+00:00,1493899593519611909,nymproject,"@MetaVersemain hello, 
+
+the whitelisting happened few weeks ago. The NYM Token sale is already completed and sold out. 
+
+Keep on following us for more info on next steps. 
+Best,
+Nym",1,0,0,2022-02-16
+986,2022-02-17 09:17:46+00:00,1494239638445305858,nymproject,"@luhanyi3 Hello, 
+
+Yes, testnet rewards should be distributed before the mainnet launches. 
+
+Best,
+Nym",1,1,0,2022-02-17
+989,2022-02-18 10:00:10+00:00,1494612699589845009,nymproject,"The Necessity of Privacy on Web3! 
+Watch a recording of this live panel moderated by Kenny Li, with Nym CSO @jayapapaya and a growing privacy alliance, including
+@shumochu from @MantaNetwork
+@l_woetzel from @SecretNetwork
+@marvin_tong from @PhalaNetwork
+
+https://t.co/vkAmTPOYdj https://t.co/Ibs2PQbsK1",117,2,28,2022-02-18
+993,2022-02-21 14:38:31+00:00,1495769910030573571,nymproject,@Mallardshead @xychelsea Hello @Mallardshead please read here why NYM token is needed and it's purpose: https://t.co/N2vbpzIry7,0,1,0,2022-02-21
+996,2022-02-23 14:18:10+00:00,1496489566362116100,nymproject,"When we were forming @nymproject, we chose Neuchâtel because we liked the Swiss approach to crypto ... but everyone we met from Zug was a second-rate 'crypto' scam artist. We're still in Neuchâtel: Come meet us in person at any of the local 'beer-to-beers' meetups every Thursday! https://t.co/MLVXApo1Dx",99,3,17,2022-02-23
+997,2022-02-24 08:14:02+00:00,1496760315090190340,nymproject,"@18576375539l @harryhalpin @TheVladCostea Hello, 
+
+the priority list is handled by CoinList and due to a high number of registrations not everybody could make it to buy NYM. There will be new opportunities in the future. And as Harry mentioned already, testnet rewards do not require CoinList.",0,0,0,2022-02-24
+999,2022-02-25 15:22:00+00:00,1497230404927041537,nymproject,"@MCli13717828 @harryhalpin @CoinList Sorry to hear that. Always reach out to the team/project before making some decisions. There are a lot of scams, sadly. 
+
+Best, 
+Nym",0,0,0,2022-02-25
+1007,2022-02-28 09:34:36+00:00,1498230141994123268,nymproject,"@qWMVIWLUcahO9eI @CoinList Hello, 
+
+Sadly we don't have any control or influence on that. That is completely up to CoinList. Please get in touch with them for more information. 
+
+Best, 
+Nym",2,0,0,2022-02-28
+1008,2022-03-01 13:08:02+00:00,1498646241378541570,nymproject,"You don't want to miss the panel discussion of our CSO @jayapapaya on 3rd of March about 'Privacy as a core-value for web3' at the WAM
+
+Register now: https://t.co/fQ33E8zlfZ https://t.co/0FOBF3UeNL",91,3,14,2022-03-01
+1010,2022-03-02 10:18:56+00:00,1498966075064598529,nymproject,"@harryhalpin @TrustValleyCH @BinanceLabs @1kxnetwork @polychaincap @DCGco @a16z Also workshop is free and online, but you need to register before it starts on 16:00 CET!",36,2,9,2022-03-02
+1012,2022-03-03 15:43:58+00:00,1499410259928133637,nymproject,@little_cabbage7 @0xFunda @harryhalpin @TrustValleyCH @BinanceLabs @1kxnetwork @polychaincap @DCGco @a16z No this is not our official token.,0,1,0,2022-03-03
+1019,2022-03-04 10:57:18+00:00,1499700505219588099,nymproject,@GGatsby10 @MuteDialog @lawmaster @hoprnet @MesonMixnet ✍️,0,0,0,2022-03-04
+1020,2022-03-05 19:45:02+00:00,1500195702596673539,nymproject,"There is no ""good"" surveillance. The problem is that powerful surveillance is getting cheaper. Nym solves that. 
+@xychelsea at #FIFDH https://t.co/guSiFqoem8
+https://t.co/Ngw1cBPq4U https://t.co/cu7jzk3fUe",91,3,26,2022-03-05
+1021,2022-03-06 18:43:00+00:00,1500542479988318211,nymproject,"Chelsea Manning will be in discussion with Professor @carmelatroncoso about 'The future of data and the privacy and security of data in wartime', 
+When: Monday the 7th of March
+Where: The Rolex Learning Center (online as well)
+@EPFL_en
+@TrustValleyCH
+https://t.co/I13TXIdZwj",92,2,30,2022-03-06
+1022,2022-03-07 17:31:38+00:00,1500886908620189697,nymproject,".... With Tor, user's have to install all these things, we need to make that experience better, so it is simply in any app that you are already using.'",12,1,3,2022-03-07
+1034,2022-03-08 09:17:00+00:00,1501124817365479426,nymproject,"It's International women’s day so let's not beat around the bush!
+Hire women more,
+pay
+cite
+follow 
+and support women more- 
+and listen to this panel w Chief Scientist @claudsdayz, @Cvandeheyning and Karine Goris on cybersecurity as a career path for women
+https://t.co/NsfpTxUxCR",74,1,17,2022-03-08
+1035,2022-03-10 09:51:39+00:00,1501858313088245761,nymproject,You can't have a bandwidth market that doesn't open you up to potential problems and even liability without network-level privacy. See everyone today at 3:00 CET! https://t.co/UsUpYopfCG,79,2,20,2022-03-10
+1038,2022-03-11 15:39:03+00:00,1502308124534968330,nymproject,"@LoneWhiteWolFFF hi, public sale with Coinlist is completed so it will be the second one.",2,3,0,2022-03-11
+1042,2022-03-12 19:34:44+00:00,1502729827761152016,nymproject,@LoneWhiteWolFFF Soon. Keep following us ;),2,0,0,2022-03-12
+1043,2022-03-13 10:00:07+00:00,1502947604849733632,nymproject,"This past week we had the pleasure of welcoming our colleague Chelsea Manning for a visit to Nym Swiss HQ. Meanwhile our attention was peeled on the latest nation state agression. Chelsea's final interview while here-on internet privacy and war in Ukraine:
+https://t.co/qA3fb7KpZT https://t.co/9g3qB7FKma",110,4,15,2022-03-13
+1044,2022-03-14 09:47:14+00:00,1503306753156521985,nymproject,"@rewildingplanet @LoneWhiteWolFFF Hello, we can't say the exact date of new opportunities but keep following us here and you will not miss it.",2,1,0,2022-03-14
+1046,2022-03-15 16:47:25+00:00,1503774884484292609,nymproject,@DefuseSec @ZemoApp @Matthew_C_Beck Thanks for sharing! We agree ;),2,0,0,2022-03-15
+1047,2022-03-16 13:55:17+00:00,1504093949866262530,nymproject,"@0MSZQrDuTkAZtYv No, we only work with Coinlist until now.",0,0,0,2022-03-16
+1049,2022-03-17 12:40:06+00:00,1504437419780853772,nymproject,".
+.
+.
+what do you think of the new Nym poster designs... https://t.co/odDwOw3TjT",346,55,46,2022-03-17
+1050,2022-03-20 12:12:04+00:00,1505517526008086529,nymproject,"As the Nym mixnet gets ready to launch, we've been listening to the community of mix node runners - we want them ready to go on Day to provide privacy to our users.
+
+Get ready for news this week for those mix node runners in the Milhon/Finney testnet that missed out of CoinList!",224,16,41,2022-03-20
+1051,2022-03-22 22:29:40+00:00,1506397727919329286,nymproject,"Exciting news 📢 
+The paper on ""Mixnet optimization methods"" by Iness Ben Guirat @InessBeng and our Chief Scientist Claudia Diaz @claudsdayz has been accepted to PETS 2022!
+
+Learn more about the paper: 
+https://t.co/Uer9Dq6yEC… 
+
+@PET_Symposium #popets #Mixnet https://t.co/f2me3ZXCyu",144,6,32,2022-03-22
+1054,2022-03-24 10:40:01+00:00,1506943914267357191,nymproject,"Nym is at https://t.co/Vy5X17jAvg 
+
+We will be doing a deep dive on Nym on Friday at 5pm...come find us!
+#InsomniHack",182,14,40,2022-03-24
+1055,2022-03-25 15:41:01+00:00,1507382051212869636,nymproject,Tune in NOW to listen to our CTO @futurechimp and the @vegaprotocol talking about Privacy. https://t.co/hcezYmH8tk,121,5,27,2022-03-25
+1056,2022-03-27 19:20:34+00:00,1508162078581874691,nymproject,@Interes68303268 Soon more info about that. Also consider following us on telegram: https://t.co/fgwNnVBzxn,1,0,0,2022-03-27
+1057,2022-03-28 08:02:10+00:00,1508353743582121986,nymproject,@OzznEsm @testnetrun you are welcome :) and keep following us because...,2,0,0,2022-03-28
+1062,2022-03-29 07:15:42+00:00,1508704436318842884,nymproject,@HeartNey Very soon more information on that.,2,1,0,2022-03-29
+1064,2022-03-31 13:11:00+00:00,1509518626587648004,nymproject,"Privacy will be the new communications paradigm!
+
+Find us in Amsterdam April 19th during Devconnect, discussing the next generation of global and decentralised privacy infrastructures.
+
+With: @anomanetwork @Maven11Capital @DuskFoundation @gensynai 
+
+https://t.co/Eh3v2vTn0w",155,5,38,2022-03-31
+1069,2022-04-01 17:45:28+00:00,1509950086452756483,nymproject,"@mohamme97215580 @ebethbarnes @Figment_io If you took part in the Coinlist sale and were able to buy NYM token you should have received more information from Coinlist. If you have more question, please reach out to them as Coinlist is the platform were you bought the token. 
+Best, 
+Nym",1,1,0,2022-04-01
+1071,2022-04-03 19:45:43+00:00,1510705124041277448,nymproject,"If Nym was going to host a launch party, who should be invited? Who would be the best keynote speaker? 
+
+(outside of the Nym team of course!)",279,123,37,2022-04-03
+1072,2022-04-04 19:29:25+00:00,1511063409047056386,nymproject,"@tuan_oppa We are doing our best, trust us.",0,0,0,2022-04-04
+1080,2022-04-05 15:23:27+00:00,1511363898791845893,nymproject,"@NguyenV15200574 Hello, if you were in the CoinList sale, you have received information why it is delayed.",0,2,0,2022-04-05
+1082,2022-04-06 07:42:58+00:00,1511610402035142664,nymproject,"@eyupgulmez Hello. People effected by delay receive the reason in the email from CoinList. If you are one of those, please read the email.",0,0,0,2022-04-06
+1086,2022-04-07 18:50:30+00:00,1512140776599437317,nymproject,@jmahap28 @keplrwallet Soon.,2,0,0,2022-04-07
+1090,2022-04-08 15:14:45+00:00,1512448871636602886,nymproject,@fardarter @krisnova exactly! find out more in this blog post of us: https://t.co/N2vbpzIry7,3,1,0,2022-04-08
+1091,2022-04-09 09:30:01+00:00,1512724503163457541,nymproject,"Congratulations to the winners!
+ #TrustValleyCH #CyberSecurity
+https://t.co/eOxGS56odA",131,8,24,2022-04-09
+1093,2022-04-11 10:55:35+00:00,1513470813181288452,nymproject,@oldtoraeth @SubQueryNetwork I hope you are as excited as we are 🙂 ?,3,2,0,2022-04-11
+1098,2022-04-12 18:39:49+00:00,1513950028200648708,nymproject,@CarlaJo78400553 @Snowden 💪,1,0,0,2022-04-12
+1100,2022-04-13 08:40:01+00:00,1514161472926105600,nymproject,"Nym set up at #PBWS2022! 
+
+Come say hello and at 14:40 today @jayapapaya will be speaking on the panel: 
+
+Blockchain - How the technology could be used for privacy https://t.co/PzcW8r3irC",264,26,42,2022-04-13
+1108,2022-04-14 18:30:34+00:00,1514672478060269574,nymproject,@alexanderaals I think this telegram channel could be useful for that: https://t.co/uv7dkJhjHZ,2,1,0,2022-04-14
+1116,2022-04-15 10:05:33+00:00,1514907773401772038,nymproject,"Have any questions about @nymproject! Now is the time for our first post-launch AMA hosted by our long-time supporter @HuobiGlobal at 11:00 UTC - in one hour!!
+
+Just the TG here to ask questions: https://t.co/l1jsF4i2RR https://t.co/ima7XEcEKw",216,34,37,2022-04-15
+1118,2022-04-16 18:42:02+00:00,1515400138134638598,nymproject,@CertiKAlert Note we reported this Pancakeswap scam to @binance immediately upon discovering it.,4,1,0,2022-04-16
+1121,2022-04-17 19:35:49+00:00,1515776063409905674,nymproject,"Hey everyone, want to make a guess about the new partners and advisors that Nym will announce this week?
+
+Hint, hint: Look at who our CEO @harryhalpin has been working with over the last few years!",323,35,63,2022-04-17
+1122,2022-04-18 12:23:56+00:00,1516029764208934918,nymproject,Thanks @CoinerElectra for subtitling this video about @nymproject in Chinese! We won't forget your hard work and thanks so much for spreading the news about Nym to Asia. https://t.co/0TgroZInkN,136,5,25,2022-04-18
+1124,2022-04-19 08:55:00+00:00,1516339571709128709,nymproject,"Privacy will be the new communications paradigm!
+
+Find us today in Amsterdam during Devconnect, discussing the next generation of global and decentralised privacy infrastructures.
+
+More info: 
+https://t.co/lJZErwDqD4
+
+With: 
+@anomanetwork @Maven11Capital @DuskFoundation @gensynai",241,18,57,2022-04-19
+1131,2022-04-20 15:20:02+00:00,1516798854884122634,nymproject,"Nym is more than a global mixnet for network layer privacy - listen in from a recent talk where @_wjth goes over Coconut: anonymous credentials on the blockchain!
+
+https://t.co/chkddiCdR7 https://t.co/yAjLVxUvNg",159,15,29,2022-04-20
+1132,2022-04-21 16:27:01+00:00,1517178101062590466,nymproject,"Are you excited about transferring your NYM ERC20 to NYM Cosmos for bonding or delegating in Nym mainnet using via Gravity Bridge? 
+Our team has created this blogpost and tutorial video for you. 
+
+Check out now our blogpost ⤵️ 
+https://t.co/8ZsXGMBI47 https://t.co/enO1roHey1",207,28,41,2022-04-21
+1134,2022-04-22 17:45:09+00:00,1517560151821197312,nymproject,"We're thrilled to have Aggelos Kiayias (@sol3gga) from @Cardano/@EdinburghUni, @GDanezis of @uclisec/@Mysten_Labs (ex-@Meta), @bpreneel1 of @CosicBe, and @BenLaurie of @Google on board!
+
+https://t.co/qZHAIFALXG
+
+Up next - guess who are our partners and first round of grants to? https://t.co/c9uodQh439",386,42,59,2022-04-22
+1135,2022-04-24 09:15:03+00:00,1518156556742897664,nymproject,"@Vlad74935500 @Dotcryptodomai1 @nym Vlad, we don't know why your are so emotional, if there's something you would like to know or share with us, please do contact us via direct message. 
+
+But please stop spreading false information, Nym's team is only getting bigger. 
+
+Have a nice day. 
+Nym team",3,0,0,2022-04-24
+1138,2022-04-25 08:26:48+00:00,1518506802157080577,nymproject,@DUYDO8668 @sol3gga @Cardano @EdinburghUni @GDanezis @uclisec @Mysten_Labs @Meta @bpreneel1 @CosicBe @BenLaurie @Google Did you try to reach out to @CoinListSupport ?,0,1,0,2022-04-25
+1139,2022-04-26 09:35:00+00:00,1518886352867184641,nymproject,"What does the blockchain do in the Nym privacy system? 
+
+CTO Dave Hrycyszyn explains, emphasising  the importance for a global infrastructure to be able to rapidly scale up as well as down. 
+
+https://t.co/bLODNSTjOn",151,25,20,2022-04-26
+1140,2022-04-27 16:53:00+00:00,1519358966106673154,nymproject,"In our scientific advisors, we have people from @Google, former @Facebook researchers, @Cardano and more. Any guesses on who gets next round of grants to improve and build on the Nym mixnet? 
+
+https://t.co/rktVg2H1M6",117,8,26,2022-04-27
+1145,2022-04-28 09:11:00+00:00,1519605088288923649,nymproject,"Hang in there - we are working on an easier way to transfer your ERC20 NYM to native NYM tokens so you can start staking in the Nym network!
+
+If you are feeling adventurous and want to take a journey through the cosmos follow these steps:
+https://t.co/8ZsXGMBI47",154,13,33,2022-04-28
+1150,2022-04-29 10:00:04+00:00,1519979822155456515,nymproject,"The token economics that powers the Nym global privacy system is activating and NYM tokens are now live on markets.
+
+Join and ask CEO @harryhalpin anything about this global incentivised privacy system - AMA with @okx 5th of May
+
+#Privacy #Mixnet #NYMtoken
+https://t.co/PMdq50icAW",121,9,24,2022-04-29
+1152,2022-04-30 10:20:00+00:00,1520347228761636865,nymproject,"Staking in Nym - Chief scientist @claudsdayz gives an overview of Nym token economics
+
+https://t.co/yETDHjWlir",122,29,23,2022-04-30
+1154,2022-05-02 10:51:59+00:00,1521080052607242240,nymproject,"Everyone is terrified of VCs ""dumping"" on projects - but in the case of NYM, the VCs from our previous rounds are doubling down on their support of privacy with a $300 million dev fund for developers to build on top of mixnets! 
+
+Details to apply soon!
+ 
+https://t.co/Qr6UltAg5m https://t.co/rScyHuzl6d",356,28,97,2022-05-02
+1156,2022-05-03 15:20:24+00:00,1521509988379860994,nymproject,"What exchange will support $NYM next? 
+
+Any guesses?",384,176,51,2022-05-03
+1158,2022-05-04 07:10:00+00:00,1521748966253248514,nymproject,"Just one more reason why we are doing what we are doing.
+
+#Solidarity #US #TransRightsAreHumanRights #WomensRights
+https://t.co/Qd3lLY0AmO",127,7,25,2022-05-04
+1160,2022-05-05 08:00:06+00:00,1522123961399717888,nymproject,"Nym is just one part of a much bigger privacy ecosystem, and we want to ensure that we contribute to making that ecosystem grow. 
+
+Read about our recent grantees and upcoming $300M Nym Innovation Fund. Application process will be announced soon.
+https://t.co/SXX0c2dW4d",180,12,46,2022-05-05
+1161,2022-05-06 11:10:00+00:00,1522534140113035264,nymproject,"""Anonymous credentials on the blockchain"" 
+- watch the recording of a recent event with Max Hampshire, Nym Developer Relations, presenting Nym and Nyx at the Privacy in Cosmos event in Amsterdam 
+https://t.co/pg4tBJTc7p",72,5,19,2022-05-06
+1164,2022-05-07 16:00:29+00:00,1522969629395927040,nymproject,"Pleased to be supporting the Pacific Northwest Rural Broadband Alliance with a recent community grant! The are doing great work to close the digital divide - and ensuring privacy while doing so.
+
+Read more: https://t.co/mhC5T5KWJU",127,5,25,2022-05-07
+1165,2022-05-08 12:25:05+00:00,1523277810562781184,nymproject,Can you guess what the APY of staking $NYM could be?,197,90,28,2022-05-08
+1166,2022-05-09 11:30:04+00:00,1523626352095772675,nymproject,"When working on the Nym mixnet reward sharing scheme, Chief Scientist @claudsdayz developed a simulator to test the Nym mixnet reward sharing scheme under non-equilibrium circumstances. 
+
+This post links to the simulator and describes some of the results!
+https://t.co/d5ieHiyEEP https://t.co/PZz7umWG0V",115,6,31,2022-05-09
+1167,2022-05-10 18:00:30+00:00,1524086996368596992,nymproject,"Throwback from @PBWSummit!
+ 
+Enjoy this recording of the panel, with Nym Chief Strategy Officer @jayapapaya, @menzel_clayton and an ex-DEA officer 🎬🍿
+ 
+Topic: ""Blockchain: How the technology could be used for #privacy""
+ 
+https://t.co/EAqOkRrkST",75,5,13,2022-05-10
+1169,2022-05-11 07:15:00+00:00,1524286939171631108,nymproject,"Keep steady out there people, it can be a rough ride sometimes - but we are here for the long term.
+
+Together we are building the next generation of digital life, with privacy as the default enabling a meaningful data economy. 
+
+This is the future.",181,26,24,2022-05-11
+1174,2022-05-12 16:10:04+00:00,1524783980410724355,nymproject,"Here are some freshly updated simulation results on mixnet APY for the first few months with real world NYM token supply!
+
+https://t.co/Ntews5Rh9V",103,13,25,2022-05-12
+1176,2022-05-13 10:55:00+00:00,1525067080130756609,nymproject,"@claudsdayz and @jayapapaya will be hosting a stellar panel with @avilarenata CEO @OKFN
+@CarissaVeliz of @UniofOxford
+and @xychelsea who needs no further introduction 
+
+- discussing decentralisation as a pathway to privacy.
+
+25th May, 10:30 CET #CPDP2022 
+https://t.co/iB58ZhQ31E",10,0,4,2022-05-13
+1178,2022-05-16 08:25:01+00:00,1526116498871304192,nymproject,"Learn all about bonding and delegating stake in the Nym mixnet and how it incentivises good privacy protections!
+
+Join our community Call on Nym token economics w one of the authors of the whitepaper @claudsdayz
+
+Friday 20th of May, 9am UTC  https://t.co/fgwNnVBzxn https://t.co/laNCoFxJDc",96,7,27,2022-05-16
+1179,2022-05-17 19:00:30+00:00,1526638810888560640,nymproject,"""Beyond issues of  #privacy and  #dataprotection, it is of vital importance to explore central themes affecting today's digital society in the wider context of pre-existing power relations..."" @euobs
+
+...including the economic dynamics of surveillance #Nym
+https://t.co/TratT2LIuV",80,4,15,2022-05-17
+1180,2022-05-18 15:40:03+00:00,1526950752987623426,nymproject,"Will you be in Brussels on the 22nd of May? 
+ 
+@xychelsea, @harryhalpin, and @bpreneel1 will be opening the #CPDP2022 this year followed by a stellar panel organised by @BPrivacyHub
+
+Open doors - cocktails afterward are on us!
+https://t.co/SCV6dL8XIm https://t.co/MW6gHWXV6W",83,3,18,2022-05-18
+1181,2022-05-19 13:37:03+00:00,1527282185358946304,nymproject,"Community Call and AMA with Claudia Diaz tomorrow at 9am UTC!
+
+Learn all about the Nym mixnet reward sharing scheme: mixmining, staking in Nym and how it contributes to privacy!
+
+Have a chance at asking Claudia anything - add #tokenecon to your question: https://t.co/fgwNnVC7mV https://t.co/DfNhX78BhA",54,3,13,2022-05-19
+1189,2022-05-20 10:34:00+00:00,1527598509083475969,nymproject,"Don't know what mix node to delegate your stake to? 
+
+Read here for guidance and how to explore the global community of Nym mix nodes that you can support in return for a share of rewards!
+
+#MeetTheMixnode
+#NymRewardSharing
+
+https://t.co/AxD9isvSub",78,6,17,2022-05-20
+1192,2022-05-21 16:20:01+00:00,1528047974785372161,nymproject,"Tomorrow @xychelsea @harryhalpin and @bpreneel1 will launch #CPDP2022 discussing what is really at stake when it comes to privacy today. 
+
+Organised with @BPrivacyHub
+
+Open to the public!
+Area42, Brussels 18:00
+
+Cocktails and conversation after.
+https://t.co/SCV6dL8XIm",88,3,11,2022-05-21
+1193,2022-05-22 16:40:01+00:00,1528415397225037830,nymproject,"Computers Privacy and Data Protection conference opening now in Brussels with a discussion between @xychelsea @harryhalpin and @bpreneel1 titled Privacy Against Power - right now on current threats to privacy, including client side scanning https://t.co/7oJy8kUrSW",125,4,20,2022-05-22
+1197,2022-05-23 14:37:03+00:00,1528746837108195331,nymproject,"Nym booth fully set up at the #CPDP2022 - come by and say hello!
+
+#Mixnet
+#DecentralisedPrivacy https://t.co/ilsamDK7nD",107,2,23,2022-05-23
+1198,2022-05-24 12:15:02+00:00,1529073484781035520,nymproject,".@_wjth and @jayapapaya will be running a workshop tomorrow, Wednesday at 2:15 pm at  https://t.co/z44EKssYe9: “Deep-dive into Nym the decentralized and incentivized global privacy system’!
+
+See you there. #CPDP2022 https://t.co/g0gb99jcaz",63,1,12,2022-05-24
+1202,2022-05-25 14:50:02+00:00,1529474880596545544,nymproject,"NYM is live on spacestation! An easy interface to transfer your ERC20 tokens to native NYM and start bonding and delegating!
+https://t.co/GJLWoLwxUr
+
+Read more...
+https://t.co/y30D0H2VVm",68,1,17,2022-05-25
+1203,2022-05-26 09:50:17+00:00,1529761836073201665,nymproject,"Everyone in our Chinese community - make sure to make this Twitter Spaces event for the latest breaking news on $NYM, including how to move tokens to stake! And wen... https://t.co/X7HElTiIFO",56,6,6,2022-05-26
+1209,2022-05-27 15:21:28+00:00,1530207565157650432,nymproject,"If there's any country in the world where cryptocurrency makes sense right now given hyperinflation, it's Lebanon #NymHackathon is  @harryhalpin @Narodism @AzadBijan and more! 
+
+We'll be here all weekend! #CryptoForLebanon https://t.co/NiSIGizCqL",52,1,4,2022-05-27
+1212,2022-05-29 10:17:49+00:00,1530855925267013633,nymproject,"Today, at 5:00 PM tune into to see what all the young hackers at the #hackathon in @BeirutDigitalD created at #CryptoForLebanon
+
+ The fiat currency of Lebanon, $LBP, did a $UST after the election :) Now it appears to be doing Terra 2.0...
+
+https://t.co/kGy9iC9s9B https://t.co/e0XdFeY1EY",69,5,11,2022-05-29
+1213,2022-05-30 13:00:47+00:00,1531259325372669952,nymproject,"We are at this years #RightsCon2022 where @xychelsea and @harryhalpin will be in conversation with @melissakchan
+
+Join us at https://t.co/uTJCGKbEDg",49,1,5,2022-05-30
+1215,2022-05-31 09:48:38+00:00,1531573357338148864,nymproject,"We are very excited to partner with @CosmostationVD! The Cosmostation @IBCwallet  now supports $NYM and the Nyx chain. 
+
+Get the @IBCwallet for mobile here:
+https://t.co/4VFTtwubfE
+
+More info here:
+https://t.co/kCErGJAnbf https://t.co/8KDUzk1Ofe",76,0,12,2022-05-31
+1217,2022-06-02 07:15:01+00:00,1532259473812869121,nymproject,"Today marks half a decade for @okx - we wish them a happy 5th birthday! 🎉 🎈 
+
+Join the treasure hunt in @cryptovoxels:
+https://t.co/TD0azvSAo9
+
+@balancersmoon",41,1,4,2022-06-02
+1219,2022-06-05 20:41:33+00:00,1533549609582309377,nymproject,"Come dance with the devil too!
+
+ Join @xychelsea and the rest of the Nym team in the fight for global privacy by getting involved - lots of news this month for mix node runners, gateways, and apps!
+
+Coverage from @POLITICOEurope 
+https://t.co/uOsL2cLZyU",62,3,11,2022-06-05
+1220,2022-06-06 09:40:00+00:00,1533745514042298369,nymproject,"At Cambridge University tomorrow, 2pm BST, the one and only Chief Scientist @claudsdayz will present the Nym reward sharing scheme for mixnets!
+
+#TokenEcon
+#mixnets
+#NYM
+
+https://t.co/NlL2jNwgTR",59,2,11,2022-06-06
+1224,2022-06-07 18:00:30+00:00,1534233855154061315,nymproject,"Watch last nights #RightsCon chat with @melissakchan @xychelsea and @harryhalpin
+
+After some initial noise disturbance they went into the big the questions:
+
+- global incentivization
+- SEC
+- preventing centralisation
+- sybil attacks
+- relationship to Tor
+
+https://t.co/wn9ZS9ZejX",52,3,8,2022-06-07
+1227,2022-06-08 16:40:29+00:00,1534576104509517824,nymproject,"See you at our Spanish #AMA next Monday with @claudsdayz, hosted by @CoinExSpanish! https://t.co/g2PrIu6fxn",51,0,8,2022-06-08
+1228,2022-06-09 08:24:42+00:00,1534813725923983360,nymproject,See you all there! https://t.co/9aldlC4Uln,71,3,14,2022-06-09
+1233,2022-06-10 10:30:02+00:00,1535207655274385410,nymproject,"How does Nym fit into the broader ecosystem? 
+
+As layer 0 privacy for any web2 or web3 message-based application.
+
+Read this short blogpost on how and why
+---&gt; privacy loves company
+
+https://t.co/tnqaFi2LQO https://t.co/GdJ3gGSzhT",89,7,17,2022-06-10
+1234,2022-06-12 11:02:46+00:00,1535940669780393984,nymproject,"Things are getting serious around Nyx: How to further decentralize the ""directory authority"" of the Nym mixnet while keeping security! 
+
+Our @harryhalpin is discussing these open issues of combining a proof-of-work mixnet with staking at tomorrow's workshop - livestream is free! https://t.co/ghfoRBKkdJ",65,2,8,2022-06-12
+1235,2022-06-13 08:17:58+00:00,1536261585156689920,nymproject,Join the @OKX_Ventures #AMA with @shaneqiuu! Details below. https://t.co/mV4bh7abQy,72,6,15,2022-06-13
+1236,2022-06-14 14:47:52+00:00,1536722091763912705,nymproject,@Alon8664 @kucoincom What is the issue exactly?,0,1,0,2022-06-14
+1242,2022-06-15 10:03:01+00:00,1537012794989723650,nymproject,"Reminder: AMA with @shaneqiuu (Asia Head of Growth) &amp; @OKX_Ventures starting now! 
+
+Join here ➡️ https://t.co/QtxhI4HFMt https://t.co/jxuCcijzf4",46,1,9,2022-06-15
+1244,2022-06-16 20:18:41+00:00,1537530122240249857,nymproject,"Join now - @ghappour
+ is speaking live with @Ukraine_DAO on the threat models of communications in Ukraine. 
+
+Ghappour's legal career has included the cases of Guantanamo detainees, Ross Ulbrich, Barret Brown and Nym colleague Chelsea Manning https://t.co/dPT7vL5wRz",27,4,4,2022-06-16
+1253,2022-06-17 09:00:05+00:00,1537721734144696321,nymproject,"Tomorrow is @MoneroKon and of course we will be there - @_wjth ( Developer Relations at Nym) will be giving the first lightning session at at 11:15 ( UTC+1 )!
+
+Come by to catch up with Max!
+
+#MoneroKon2022",48,4,7,2022-06-17
+1256,2022-06-18 07:31:00+00:00,1538061701232345088,nymproject,"Watch the livestream from Monerokon! 
+
+Nym developer relations Max is presenting at
+11:15 ( UTC+1 )
+
+https://t.co/atr3eR9On0",40,2,7,2022-06-18
+1257,2022-06-19 15:40:43+00:00,1538547330449870848,nymproject,"The crypto-market may have crashed but we at @nymproject are still hiring like its DeFi summer - getting ready for privacy summer soon! 
+
+In fact, we are closing hiring on a few positions - anyone want to guess who we hired and what they will be doing?",108,10,10,2022-06-19
+1258,2022-06-21 08:14:57+00:00,1539159926781665280,nymproject,"Are you running a Nym mix node and want to attract delegators? 
+
+Long time contributors to the Nym network and community @NodesGuru have launched their delegators program! 
+
+Find out more...
+
+#NymCommunity
+#PrivacyLovesCompany
+
+https://t.co/qXCaznvHdx",58,6,11,2022-06-21
+1260,2022-06-22 15:07:21+00:00,1539626100342546432,nymproject,"Still building, still smiling.
+
+#NYM 
+#infrastructure
+#decentralization
+#PrivacyByDefault https://t.co/gAN0is2fKY",136,12,22,2022-06-22
+1261,2022-06-23 07:29:37+00:00,1539873295985680384,nymproject,"@moneyhippie You seem to have wrong information friend. 
+
+The initial supply was distributed via a public sale. And a smaller amount was distributed to the thousands of nodes that had been running our permissionless testnets.",1,1,0,2022-06-23
+1267,2022-06-24 18:06:21+00:00,1540395920684097538,nymproject,@DanielBuchli Is your mix node on or perhaps having problems mixing (firewall)? Do check on Node setup channel in Telegram https://t.co/t7wtOM8wPC or in Discord.,0,1,0,2022-06-24
+1269,2022-06-27 11:07:03+00:00,1541377565532774401,nymproject,"Long time node operators and all round OG supporters of Nym @NodesGuru are hosting an AMA today -
+
+Join to listen to Nym developer relations Max Hampshire on how to start building privacy enhanced apps on Nym!
+
+3pm CEST
+https://t.co/6QjsUtght8
+
+https://t.co/BFcwYvfyyH",57,7,4,2022-06-27
+1270,2022-06-28 14:48:44+00:00,1541795741701636097,nymproject,"Nym sponsored a hackathon in Beirut last month in the midst of a major ongoing financial crisis. 
+
+Solidarity and support to the talented students of Suliman S. Olayan School of Business and those struggling in Lebanon right now. https://t.co/jBCoPMFGCX",78,2,12,2022-06-28
+1271,2022-06-29 13:45:47+00:00,1542142286678597632,nymproject,@rx48124894 @NodesGuru coming soon!,1,0,0,2022-06-29
+1273,2022-06-30 17:00:37+00:00,1542553708176752640,nymproject,"Trust is key. By delegating to a mix node you pledge your trust in it. Delegations secure the Nym network! Each week we spotlight 3 nodes from around the  🌏  you can trust!
+
+#MeetTheMixnode #GlobalNymCommunity
+
+(Delegate? https://t.co/lF8yfdWUcH
+https://t.co/L4l695I2Pm)
+
+🧵 1/5",57,4,9,2022-06-30
+1278,2022-07-01 11:49:37+00:00,1542837826458456064,nymproject,"How blockchain is allowing new business models that are not driven by surveillance - 
+
+@alexis_roussel is presenting today @MaastrichtU for the Advanced Master in Privacy, Cybersecurity and Data Management",69,1,12,2022-07-01
+1280,2022-07-02 20:52:35+00:00,1543336860298231808,nymproject,"@BNPParibas Not not only is he a financial wizard, but he also has a Ph.D. in mixnets from @Cambridge_Uni!
+
+Andrei's published ground-breaking papers on measuring and attacking anonymity systems, working with Nym co-founders @GDanezis and @claudsdayz. 
+
+See his Ph.D.!
+https://t.co/yAJXi3NCP7",46,2,2,2022-07-02
+1283,2022-07-03 14:00:13+00:00,1543595470982979586,nymproject,"While surveillance tech like @meta and @coinbase are bleeding jobs and retracting hires, we're hiring for the next PRIVACY summer!
+
+Email jobs@nymtech.net if you want to join PR/Comms or even as CMO.
+
+Our hire of Andrei as CFO getting some attention...
+https://t.co/8RaLmeEbF2",90,8,20,2022-07-03
+1284,2022-07-04 16:20:16+00:00,1543993104243605507,nymproject,"Our old friends at @NodesGuru have just announced the winners of their Nym delegations program! 
+
+Congrats to all who made it on the list, the competition was fierce. 
+
+Thanks to @NodesGuru for their continued support of the #GlobalNymCommunity! https://t.co/RYiT3xqLJo",57,2,6,2022-07-04
+1287,2022-07-05 13:41:51+00:00,1544315623580237826,nymproject,Who are the most famous privacy advocates and developers that you'd like to hear speak to us?,79,22,5,2022-07-05
+1291,2022-07-06 11:16:47+00:00,1544641506283343872,nymproject,"Why do we do this? Because privacy is the basis of human rights, human dignity and security. https://t.co/fHIIAN7BK0",48,1,10,2022-07-06
+1294,2022-07-07 10:08:43+00:00,1544986763889983489,nymproject,"Does blockchain have a usecase beyond financial speculation you ask? 🤔
+
+Have a look at what Starling Lab, @FilFoundation and @Ukraine_DAO are up to 🔥
+
+The tooling to securely gather/ authenticate/ store evidence is only getting more important!
+
+https://t.co/ra3ljQepwW",45,3,9,2022-07-07
+1300,2022-07-08 08:54:40+00:00,1545330514567069696,nymproject,"What is going on in the world? Are we headed for a recession? Where is the bottom? What is happening in the crypto market?
+
+Today we'll be back with another community call, featuring Nym's new CFO Andrei Serjantov!
+🕔14:00 UTC
+
+https://t.co/FzDvoP4qvJ
+
+See you on the Nym stage!",48,3,9,2022-07-08
+1302,2022-07-09 15:04:18+00:00,1545785926470848512,nymproject,"n case you missed our chat with our CFO Andrei Serjantov, worry not - we've got you covered. 
+
+https://t.co/QTSx2w2o30
+
+To tune in live to to our next community call, join the Nym community Discord server!
+
+(link in bio)",61,7,10,2022-07-09
+1303,2022-07-10 11:10:08+00:00,1546089381722824704,nymproject,"@puzzlepunk2 For the time being, one can get $NYM on Kraken and not go through the bridge as well!",0,1,0,2022-07-10
+1306,2022-07-11 21:56:49+00:00,1546614513419558914,nymproject,"See our ""right click save kinda guy"" CEO @harryhalpin interview @ThatKevinSmith (aka Silent Bob!) on privacy and using NFTs to democratize film-making with @chjango!
+
+https://t.co/Z60eNq83Id",39,3,6,2022-07-11
+1309,2022-07-12 08:57:36+00:00,1546780807511040000,nymproject,"Don't give complete strangers a ""God View"" into your every movement - make privacy the default 💥
+
+https://t.co/vSBc21UrFx
+
+https://t.co/17TiqKxfNI",30,1,11,2022-07-12
+1316,2022-07-13 19:07:17+00:00,1547296623872675843,nymproject,"Network Requesters are the first type of Nym Service Provider node - connecting the core privacy infrastructure to user-facing applications. 
+
+Read all about them and stay tuned for upcoming grants for running one!
+
+https://t.co/wWvD5uoB95",48,3,14,2022-07-13
+1320,2022-07-14 08:44:57+00:00,1547502397144137728,nymproject,"We at @nymproject are proud publication sponsors of @PET_Symposium - letting the best academic privacy conference in the world put its publications online for FREE!
+
+https://t.co/yeIRSLKYfj
+
+Our CFO Andrei Serjantov in on advisory board too and in Sydney now with @session_app CTO https://t.co/IroCRsPxrV",42,3,10,2022-07-14
+1327,2022-07-15 10:50:44+00:00,1547896441804247041,nymproject,"Metadata is the language of machines, and most surveillance today uses machine learning - THAT is why metadata protection is so important for privacy!
+
+🔥
+
+Nym Chief Scientist Claudia Diaz explains...
+https://t.co/cdv86pDSKk",29,0,6,2022-07-15
+1331,2022-07-16 05:01:03+00:00,1548170827203391488,nymproject,Wen governance token airdrop?,114,21,15,2022-07-16
+1333,2022-07-17 13:52:33+00:00,1548666969716654081,nymproject,"What kind of apps do YOU want to see running on the Nym mixnet?
+
+We've seen Signal, Telegram, Keybase, Electrum ... what else?
+
+You have 10 more days to apply to Shipyard to get funding to do it too!
+
+https://t.co/O3fHZfQTIb",69,8,11,2022-07-17
+1334,2022-07-18 11:48:13+00:00,1548998068451819522,nymproject,"There is simply no way a government or a company can resist the temptation to pry.
+
+If infrastructure allows for surveillance it WILL be used for surveillance.
+
+It is time to make that technically impossible and economically unfeasible.
+
+#privacy
+#dignity
+#freedom",98,3,17,2022-07-18
+1335,2022-07-19 14:01:12+00:00,1549393922639765510,nymproject,"Nym wallet 1.0.7 is out - now with Dark Mode🔥
+
+The open source wallet provides an easy interface to bond a gateway or mix node or to stake NYM tokens 👾✨
+
+Learn more:
+https://t.co/5hBCVIqEi4",78,5,17,2022-07-19
+1337,2022-07-20 09:55:30+00:00,1549694481234100226,nymproject,"Today, the data economy = surveillance economy.
+
+Data brokers harvest location data from app devs and sell it to the military, intelligence, and law enforcement agencies.
+
+Read how this #surveillance partnership works and What to do about it!👀⤵️
+
+https://t.co/sCgkgtgJ1K",51,3,14,2022-07-20
+1338,2022-07-21 16:28:47+00:00,1550155840820314112,nymproject,"#NoPrivacyNoFreedom, indeed!
+
+Can't wait to see you at @hopeconf tomorrow!  
+
+@lrettig @ghappour @88crypt https://t.co/zsCvedRMUY",31,2,4,2022-07-21
+1344,2022-07-22 12:05:20+00:00,1550451928328454144,nymproject,"Meet core developer Bogdan and be the first to hear about a new easy to use way to run your apps over the mixnet...
+
+Community call at 14:00 UTC today --&gt; https://t.co/FzDvoP4qvJ
+
+Every week we also invite a node operator to #MeetTheMixnode
+
+#Nym
+#Community
+#PrivacyLovesCompany https://t.co/gngvy5qQzV",42,0,7,2022-07-22
+1347,2022-07-24 08:57:25+00:00,1551129414368477184,nymproject,"LIVE in Munich  Nym's @xychelsea (online) will be presenting with Nym COO @alexis_roussel (live) why startups should be creating a surveillance-free internet!!
+
+Also come see the legendary father of mixnets @chaumdotcom from @elixxir_io! 
+
+Details here:
+https://t.co/I0zC8vJYJQ",40,0,8,2022-07-24
+1350,2022-07-25 14:00:32+00:00,1551568084313546752,nymproject,"Yes! NymConnect has launched to make it as easy as possible to privacy-enhance your apps - starting with the Electrum wallet beta release💥
+
+How to set up NymConnect with Electrum (literally takes two minutes) 🥷:  https://t.co/3Fu7AYsczJ
+
+https://t.co/IgF96CjjIz",56,0,14,2022-07-25
+1352,2022-07-26 15:55:23+00:00,1551959375522271232,nymproject,"⏰ we are starting soon! 
+
+Join us to discuss the importance of #privacy with @SecretNetwork and other privacy-focused projects in the Web3 space. 
+
+https://t.co/0N57srgjiG https://t.co/uaTt6qcPDu",35,0,3,2022-07-26
+1355,2022-07-27 09:00:09+00:00,1552217267156443139,nymproject,"Nym Developer Relations are here to help you through the grants program and grow a thriving developer ecosystem - beginning with Privacy Enhanced Applications (PEApps)! 
+
+Grants: https://t.co/mGKtrYiDLc
+Nym docs: https://t.co/QUqBhShM7F
+
+#BUIDL
+#PEApps
+
+https://t.co/KV93SbKCqM",47,0,4,2022-07-27
+1358,2022-07-28 08:10:01+00:00,1552567035435143168,nymproject,"Nym is heading to BIP001 (Partisan Edition) in Ukraine to support the local community in these difficult times! 🇺🇦
+
+Tomorrow @alexis_roussel will give a presentation on the topic: ""Mixnets, the right to anonymity, and the future of democracy""
+
+Join us! 
+➡️https://t.co/ekeEdyUh6M https://t.co/4ndS2kjwtt",61,4,9,2022-07-28
+1361,2022-07-29 14:40:46+00:00,1553027761383636994,nymproject,"For Team Nym this summer has been hot in more ways than one!
+
+We were focused on building and continued our efforts to contribute to the global privacy conversation both online and in person.
+
+Check out a roundup of Nym’s #privacy summer:
+
+https://t.co/Qf3c1b7d3o",49,4,7,2022-07-29
+1368,2022-07-30 14:00:28+00:00,1553380005299748864,nymproject,"Yes - today's communications infrastructures have been designed against you. Time to cast them to the sea, join the Nym Shipyard and rebuild! 
+
+Snowden joined as special guest at the Nym launch with @harryhalpin - watch the recap: https://t.co/6xegeInorh
+
+https://t.co/fFUJU6d6AR",58,9,10,2022-07-30
+1369,2022-07-31 14:00:15+00:00,1553742339763478529,nymproject,"Nym is a privacy infrastructure that can protect against nation level surveillance. 
+
+@Snowden joined for when Nym went live this spring, saying decentralisation and privacy technology brings hope and more...
+
+Full recording: https://t.co/7NfrzXYdEF
+Recap: https://t.co/6xegeInorh",107,3,26,2022-07-31
+1370,2022-08-01 10:18:01+00:00,1554048799718445056,nymproject,"We were happy to be able to attend BIP001 in Ukraine, the local community really needs support now! 🇺🇦
+
+@alexis_roussel gave a presentation there on the future of #democracy and #privacy in the basement of a 10th century castle, with air raid sirens going off outside. https://t.co/Trs3VUSrrt",85,4,14,2022-08-01
+1374,2022-08-02 15:29:02+00:00,1554489459277762560,nymproject,"Meet Alfredo Rial - our Cryptographer! 
+
+Alfredo's research focuses on protocols that protect user #privacy, such as credentials and anonymous e-cash. 
+
+He has a Ph.D. in Cryptography &amp; working experience at Microsoft Research Cambridge, IBM Research Zürich and more
+
+#MeetTeamNym https://t.co/vvPsnpW82l",79,4,10,2022-08-02
+1376,2022-08-03 14:00:33+00:00,1554829577175703552,nymproject,"Why privacy ✨
+Why decentralisation ♻️
+Why Nym 💥
+
+Harry Halpin explains...
+https://t.co/oAPDxMEY2R",75,3,16,2022-08-03
+1378,2022-08-04 10:08:41+00:00,1555133615104839684,nymproject,"Thanks @CoinJournal for spreading the word about our one-button privacy enhancer, #NymConnect!
+
+Privacy by Default is The Future!
+
+https://t.co/9NneSZlua9",59,2,9,2022-08-04
+1380,2022-08-05 13:00:31+00:00,1555539244600401925,nymproject,"⏰ Our #CommunityCall with Alfredo starts in 1 hour. Come hang out with us!
+
+See you on the Nym stage!
+
+https://t.co/FzDvoP4qvJ https://t.co/hN0HQv0cRO",30,2,10,2022-08-05
+1385,2022-08-08 14:14:21+00:00,1556644989140074496,nymproject,"🇧🇷 🇵🇹 🇨🇻 🇸🇹 🇲🇿 🇲🇴 🇬🇼 🇹🇱 🇦🇴 
+Hoje estamos lançando o grupo oficial da nossa comunidade em Português! Nos vemos lá.
+
+https://t.co/OccQu20jnB",39,1,10,2022-08-08
+1387,2022-08-09 10:24:34+00:00,1556949549624819712,nymproject,"You and us both, @SecretNetwork!
+
+#privacy is normal. https://t.co/WR0hQr4gCL",55,7,8,2022-08-09
+1390,2022-08-10 11:23:01+00:00,1557326649670107137,nymproject,"Meet Jack Wolff - our Head of People Operations!
+
+Jack has been in the tech space for 4 years, after spending 8 years in an elite British Army unit.
+
+His combined experience sourcing the best candidates and people skills bring a lot of value to the Nym Team! 
+
+#MeetTeamNym https://t.co/ITPh4ODhUj",70,4,11,2022-08-10
+1391,2022-08-11 07:21:02+00:00,1557628141522374657,nymproject,With the recent sanctions against @TornadoCash a precedent has been with important implications to #privacy - and we need to talk about that. Join us today for the conversation with @MantaNetwork and @SecretNetwork. https://t.co/vm4xJDSvOp,66,4,14,2022-08-11
+1399,2022-08-12 13:00:31+00:00,1558075963279347713,nymproject,"⏰ Our #CommunityCall with Jack starts in 1 hour. Come hang out with us! 
+
+See you on the Nym stage!
+
+https://t.co/FzDvoP4qvJ https://t.co/VXlU6j7J6b",32,12,2,2022-08-12
+1400,2022-08-16 15:45:05+00:00,1559566925558124548,nymproject,"Using #bitcoin privately is possible!
+
+Check out this amazing guide by @BitcoinMagazine available in different languages about how you can maximize your bitcoin’s #privacy and make sure you are safe when you send and receive #BTC:
+
+https://t.co/fYrU3cDBIz",67,4,17,2022-08-16
+1401,2022-08-17 07:26:47+00:00,1559803915100725248,nymproject,"Web3 is the new frontline of #privacy.
+
+Is it private? 🔒
+
+Spoiler: it is not. 🔓
+
+Can we make it private?
+
+Spoiler: yes, we can.
+
+What will it take?
+
+https://t.co/XzXytc2sfz
+
+@MantaNetwork @SecretNetwork @aztecnetwork https://t.co/HoM3MmOdxp",190,23,56,2022-08-17
+1402,2022-08-18 09:29:01+00:00,1560197062926499840,nymproject,"Meet @alexis_roussel, our Chief Operating Officer!
+
+Former president of the Pirate Party of Switzerland and co-author of 'Our precious digital integrity', Alexis holds a Masters in Technology Public Law. He also served as an E-Governance Specialist for the UN.
+
+#MeetTeamNym https://t.co/BfRBFygkX5",71,3,15,2022-08-18
+1410,2022-08-19 13:00:28+00:00,1560612665025781760,nymproject,"⏰Our community call with Nym COO @alexis_roussel is starting in an hour! 
+
+Alexis (literally) wrote the book on digital integrity - we'll chat about that, the future of democracy, and more. 
+
+See you in an hour at the Nym Stage!
+
+https://t.co/FzDvoP4qvJ https://t.co/JByLjd7JKV",30,0,5,2022-08-19
+1412,2022-08-20 20:21:47+00:00,1561086110956240897,nymproject,"Not even a war can stop a #Nymhackathon!
+
+After our first hackathon in Kyiv this February was cancelled by the invasion of Ukraine... WE'RE BACK! 
+
+Nym is joining @KyivTechSummit  with @NEARProtocol  @Ukraine_DAO and more. 
+
+https://t.co/H7SiW4YJri
+
+See you online .. and in Kyiv! https://t.co/17g14Sx1mI",83,8,28,2022-08-20
+1413,2022-08-24 08:15:51+00:00,1562352976005853185,nymproject,We are excited too @KyivTechSummit! https://t.co/tNikCqUNKH,70,3,11,2022-08-24
+1415,2022-08-25 13:29:06+00:00,1562794195042963456,nymproject,"Meet @ghappour - our Chief Legal Officer!
+
+He built law clinics at UT Austin &amp; the UC Hastings to provide support in federal criminal national security &amp; hacking cases. 
+
+He litigated the first criminal trial to challenge the NSA's mass metadata collection under the #PatriotAct. https://t.co/Z8E11Wivxs",53,2,5,2022-08-25
+1423,2022-08-26 13:48:13+00:00,1563161393616289802,nymproject,"Anonymity is core to the Cypherpunk vision. 
+
+At Nym we are working hard to bring this vision to reality!
+
+Stay tuned for an interview with Nym COO @alexis_roussel on Privacy &amp; Bitcoin.
+
+#SurfinBitcoin22 #Bitcoin #privacy 
+@SurfinBitcoin https://t.co/XlTNjDmR1E",78,11,13,2022-08-26
+1425,2022-08-27 01:13:49+00:00,1563333932095279104,nymproject,"All mix node runners, get off of Hetzner as soon as possible and on to more crypto-friendly servers. In all cases, decentralize! https://t.co/TZo7Vgr3yZ",51,9,13,2022-08-27
+1426,2022-08-29 18:53:55+00:00,1564325491309514754,nymproject,"To our German-speaking community from 1E9tech, here's an interview with @xychelsea auf Deutsch on her work with @nymproject to create an  internet that makes mass surveillance impossible - and the plan to make Nym as easy as ""plug and play"" next!
+
+https://t.co/MYMRnfKzh8",50,7,13,2022-08-29
+1427,2022-08-31 10:06:24+00:00,1564917512478904320,nymproject,"An attack on privacy in payments is an attack on democracy 🔥
+
+In the current climate it is rare to find a policy maker and central banker come out and say it!
+
+Nym is thrilled to welcome @ecuarauz as Special Advisor on global payments and Latin America!
+
+https://t.co/NGoC3lZsN7",298,3,161,2022-08-31
+1430,2022-09-01 16:19:50+00:00,1565373879614406658,nymproject,"@ecuarauz Contrary to most in government, @ecuarauz is a strong advocate for the benefits of free and open source software. 
+
+As Minister of Knowledge and Human Talent, he transitioned the Ecuadorian ministry’s internal systems from closed software systems.",9,1,1,2022-09-01
+1438,2022-09-02 11:21:45+00:00,1565661251337854978,nymproject,Anon,77,8,4,2022-09-02
+1439,2022-09-03 17:49:23+00:00,1566121191613546498,nymproject,"If you are rocking out at #BH2022 in Riga this weekend, make sure to talk to our COO @alexis_roussel there to see a demo of the Nym mixnet with @ElectrumWallet - and now with @Liquid_BTC support for extra privacy! 
+
+https://t.co/3Fu7AYsczJ",74,3,14,2022-09-03
+1441,2022-09-04 09:28:33+00:00,1566357540446916608,nymproject,"Nym team will also be contributing from afar! Speaking at @KyivTechSummit:
+
+@ghappour Nym legal counsel &amp; Associate Professor of Law @BU_Law 
+
+Few have such significant track record in defending human rights and hackers🔥
+
+#Hack4Ukraine #KTS2022_Speakers
+
+https://t.co/2Bnkyg9ZxA",45,3,8,2022-09-04
+1443,2022-09-05 16:09:53+00:00,1566820925697396738,nymproject,"@KyivTechSummit @IPFS @Filecoin Nym provides privacy and anonymity at the network layer - being a decentralised mixnet and able to withstand nation level adversaries observing the whole network. 🕵️
+ 
+@IPFS &amp; @Filecoin provide persistent, decentralised file storage - a natural fit for us to join forces.💥
+🪡 3/4",26,1,3,2022-09-05
+1454,2022-09-06 11:52:24+00:00,1567118517660434434,nymproject,"Lots of crypto projects are all hype, but no substance. 
+
+We at @nymproject are number one in github commits - and we're just starting.
+
+The Nym wallet and Nym Connect are just the beginning. #JustNymIt https://t.co/HqDgJcpHAM",108,13,26,2022-09-06
+1456,2022-09-07 16:40:15+00:00,1567553344775782412,nymproject,Privacy loves company! We are proud to have @Filecoin &amp; @IPFS as partners in our AnonDrop challenge at the @KyivTechSummit hackathon happening now. AnonDrop will secure the privacy + anonymity of people documenting  human rights violations. To the hackers working on this - LFG! https://t.co/q6SnKG0ikB,103,2,27,2022-09-07
+1457,2022-09-08 17:39:44+00:00,1567930701273513991,nymproject,"🇮🇩 Meet @NODERS_TEAM: https://t.co/3ntHOW2KdY
+ 
+''We believe that Nym is a fundamentally important project that can bring real value to the world. Not only to the crypto space but the internet itself. ''
+
+https://t.co/Y3MXGjv5Ha
+
+🧵 3/4",12,1,2,2022-09-08
+1461,2022-09-09 09:41:17+00:00,1568172683992436736,nymproject,"@cronokirby @L0GYKAL @levs57 Yep, we use dummy traffic to secure privacy and anonymity. It is there to ensure that people's messages are ""lost in the crowd"" even when there is low actual user traffic!
+
+#PrivacyLovesCompany",2,1,0,2022-09-09
+1464,2022-09-11 00:02:31+00:00,1568751806737707008,nymproject,"For everyone in Switzerland, @xychelsea is giving a talk - and DJ'ing a party! - in solidarity with Swiss hacker maia arson crimew who is threatened with extradition to the USA for hacktivism on Sept 17th next week! 
+
+https://t.co/H1FK7toFHO",41,4,6,2022-09-11
+1465,2022-09-12 13:48:19+00:00,1569322012723511296,nymproject,"What a week at @KyivTechSummit! Nym's @jayapapaya &amp; @alexis_roussel traveled to Kyiv as sponsors, speakers and to support our Ukrainian friends.
+Honoured to meet Vice Prime Minister @FedorovMykhailo along with @VitalikButerin, the hacker teams, @cryptodrftng + all organisers. https://t.co/zDuO5P8Yef",166,5,26,2022-09-12
+1467,2022-09-13 10:56:08+00:00,1569641070878662657,nymproject,"Join @jayapapaya &amp; @xychelsea at @ETHBerlin this Sunday! Excited to have @provenauthority chat with them about:
+
+💡urgency of privacy 
+💡cypherpunk vision
+💡future vision for privacy
+💡the Merge + privacy issues 
+
+This fireside chat will be 🔥 https://t.co/a8a8ILQubz",62,4,9,2022-09-13
+1468,2022-09-14 13:27:45+00:00,1570041615879643139,nymproject,"The Nym team is on the ground at #BinanceBlockchainWeek including our CFO Andrei Serjantov @cryptohog10. 🇫🇷
+
+Great to start off the event hearing from @cz_binance and @jnbarrot! 
+
+Come say hi if you see us! 👋 https://t.co/gs3AGecBZu",65,8,16,2022-09-14
+1470,2022-09-15 17:28:59+00:00,1570464709425479680,nymproject,"🇨🇦 Meet: https://t.co/PvgjY7ljOz '
+
+'Our aim of running a mix node is to support Nym, the most sophisticated privacy infrastructure. We started in the testnet and now we are here to continue the support in the mainnet.'' 
+
+https://t.co/V98Lcwt7sL
+
+🧵3/4",13,2,1,2022-09-15
+1475,2022-09-16 08:47:04+00:00,1570695755442135044,nymproject,"Meet @jayapapaya - our Chief Strategy Officer!
+
+🌟Fellow @JWI_Berlin
+🌟Expert advisor @EU_Commission 
+🌟Researcher on privacy &amp; political economies of decentralised technology
+
+☎️Join our community call today with her!☎️
+
+📅Friday, 16 Sept
+⏰14:00 UTC
+📍https://t.co/FzDvoP4qvJ https://t.co/iEio3EPO4o",60,3,8,2022-09-16
+1480,2022-09-17 10:30:02+00:00,1571084053427941383,nymproject,"Happy @ETHBerlin weekend! Don't miss tomorrow's fireside chat with our very own @xychelsea and @jayapapaya at 3.15 pm. Moderated by @provenauthority, expect a 🔥session on our vision, the urgency of #privacy and privacy issues in the #ETHMerge amongst others! ⚡️ https://t.co/MLMRsmgHCN",61,0,13,2022-09-17
+1481,2022-09-18 09:58:34+00:00,1571438522573410304,nymproject,"Nym is a mixnet. 
+
+The mixnet protects the privacy of communications flowing through networks. 
+
+It makes sure no one can snoop and analyse communication patterns.
+
+Nym works for any chain or application.
+
+Find out more https://t.co/h4zsmtdD7N
+
+#Mixnet
+#PrivacyLovesCompany",75,3,22,2022-09-18
+1483,2022-09-19 14:00:36+00:00,1571861822348689413,nymproject,"""The vision of digital integrity is represented by the extremely strong protection of personal data."" our COO @alexis_roussel joined the @RadioTeleSuisse debate panel on protection of minors in the video game industry. 
+
+Watch (video in French): https://t.co/E0aJI8l1wn",46,1,12,2022-09-19
+1484,2022-09-20 14:20:01+00:00,1572229093252530176,nymproject,"Looking forward to this Friday at Shanghai International Blockchain Week! Our CEO @harryhalpin will speak on the #Blockchain Data Security &amp; #Privacy panel alongside @o1_labs CEO @etekis, @SECBIT_IO &amp; @SlowMist_Team. Join the livestream at 15h20 UTC+8: https://t.co/NhODsV6M5o https://t.co/50FRQ1ZWRa",30,0,9,2022-09-20
+1486,2022-09-21 17:02:08+00:00,1572632279272329229,nymproject,"ICYMI: ""The surveillance system is in the entire financial system... our credit card movements, monitoring of SWIFT transactions and the US government’s ability to monitor electronic addresses, even on the blockchain.” @ecuarauz on @FortuneMagazine
+
+https://t.co/7t5iyoOlCw",38,2,12,2022-09-21
+1487,2022-09-22 17:19:12+00:00,1572998964026421250,nymproject,"🇩🇪Meet: https://t.co/D6KBbxY1Cd
+
+''Hi! We share Nym's core privacy values. Please delegate to our trusted mix node, professionally run by our experienced devops team. 24/7 Monitoring and maintenance guaranteed.''
+
+https://t.co/4G4zvoLqSj
+
+🧵4/5",8,2,1,2022-09-22
+1494,2022-09-23 10:17:00+00:00,1573255099929006081,nymproject,"Our CSO @jayapapaya is joining the @HuobiGlobal AMA today together with @joinFIO! 🗣️
+
+Get your questions ready and join us 👇 https://t.co/VYkFYablXU",53,1,12,2022-09-23

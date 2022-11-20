@@ -1,0 +1,448 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-02 15:08:12+00:00,1212752459237642242,decredproject,"New episode of Decred in Depth is out now!
+
+@matheusd_tech talks about getting into #LightningNetwork through his work on ticket-splitting, the epic task of porting @lightning lnd to Decred (eased by btcd basis), and the privacy implications of LN.
+
+https://t.co/VcW627QhSz https://t.co/0kqBLUUAJr",51,2,18,2020-01-02
+1,2020-01-08 16:04:34+00:00,1214940969457598469,decredproject,"""I'm not convinced that a council of self-interested companies can do money better than a decentralized system, [...] The only way to really get there is to empower the individuals to have some base-level sovereignty.""
+— @AkinSawyerr, Decred https://t.co/6D6idj4x9W",34,0,8,2020-01-08
+2,2020-01-09 22:08:27+00:00,1215394930987761664,decredproject,"December's issue of the Decred Journal is out now!
+
+Check it out for news about v1.5 network upgrade progress, live nodes on mainnet #LightningNetwork, TinyDecred #Python toolkit being funded for ongoing development, and all the usual updates.
+
+https://t.co/ihfPo7WrcF https://t.co/RPBIfApgfU",51,2,26,2020-01-09
+3,2020-01-15 18:10:23+00:00,1217509346667585536,decredproject,"Decred is sound money. It’s secure, adaptable, and sustainable, and offers features such as #LightningNetwork, #privacy, and a forthcoming #DEX. 
+With so much going on, we added a section to the docs to get you #Decreducated. https://t.co/20GYPd09Ey",89,0,29,2020-01-15
+4,2020-01-16 18:30:04+00:00,1217876687716855808,decredproject,"A vote to change the consensus rules starts in ~7 hours (~Jan 17 01:00 UTC). Set your solo and/or VSP voting preferences: https://t.co/xymYwGAMvi 
+
+Proposed changes to block header commitments will increase security, improve efficiency (mobile use), and enable future scalability. https://t.co/Ye5arZyOuS",48,3,18,2020-01-16
+5,2020-01-17 15:35:23+00:00,1218195115379953666,decredproject,"""One of the big challenges you see across Africa is governance. And wherever you have weak governance you have more transaction costs. We believe that cryptocurrencies and crypto networks will have a lot of applications across Africa."" https://t.co/L4XqU7FFU7",35,0,8,2020-01-17
+6,2020-01-22 14:17:08+00:00,1219987362287177730,decredproject,"New episode of Decred in Depth is out now!
+
+@PermabullNino discusses the Politeia proposal process and his ongoing work analyzing ticket movements on the Decred chain, introducing concepts like TVWAP and Hodler conversion rates.
+
+https://t.co/0SCesI7AnJ https://t.co/6By6v3gGRg",43,2,13,2020-01-22
+7,2020-01-28 21:31:23+00:00,1222270972587319296,decredproject,"Voting on the DCP-0005 block header commitments consensus change is approaching the halfway point. So far it's 60% voting in favor and 40% abstaining, with a few stray tickets voting no. Looking good for those block header commitments!
+
+https://t.co/weioVFuCx1 https://t.co/Ck0fZqYftu",47,1,12,2020-01-28
+8,2020-01-30 20:24:04+00:00,1222978810511077389,decredproject,"Version 1.5.1 of Decrediton and the Decred CLI tools are ready for download. This release includes minor fixes and improvements.
+Update and stay on the cutting edge.
+https://t.co/t6Sbhj40j7
+
+You can view the full release notes at https://t.co/TQ9shoZIyT https://t.co/d90ZgcMMzB",72,5,18,2020-01-30
+9,2020-02-02 13:50:57+00:00,1223967043172622336,decredproject,"New episode of Decred in Depth is out now!
+
+@Ammarooni talks about Toronto's rich #Crypto history, the tokenomics of $DCR, $BTC and $ETH, and considers Decred as an infrastructure provider, productive asset and economic breakthrough.
+
+https://t.co/KuFmNAXMNe https://t.co/ywNQsTe7dy",61,4,19,2020-02-02
+10,2020-02-06 15:28:15+00:00,1225441079341834240,decredproject,"Canada - https://t.co/nwfcSSrQsi
+
+Chicago - https://t.co/mDv0nk9uE8…/status/1222974385415499777
+
+Mexico - https://t.co/6Z8iygi9MF
+
+Morocco - https://t.co/WC3YKN0KrR
+
+Nigeria - https://t.co/niD5DpJomJ",12,0,3,2020-02-06
+13,2020-02-08 21:20:51+00:00,1226254591240671232,decredproject,"January's issue of the Decred Journal is out now!
+
+Read all about the v1.5.1 minor update, an active month on Politeia with 6 proposals, and preparations for the #DecredGlobalMeetup to mark 4 years of uninterrupted $DCR service on Feb 8 - that's today!
+
+https://t.co/r2bXb5jIEG https://t.co/amZBqu7woV",47,1,18,2020-02-08
+14,2020-02-13 23:22:06+00:00,1228097040867045376,decredproject,"The DCP0005 vote is almost over! https://t.co/weioVFuCx1
+
+It demonstrates #Decred's unique upgrading mechanism which allows consensus rules to be changed across the entire network in a coordinated fashion. No need for community-splitting hard forks. #SoundGovernance",51,0,14,2020-02-13
+15,2020-02-14 18:12:04+00:00,1228381408026034178,decredproject,"DCP0005 to enable block header commitments was approved with 99.94% support! 22,006 tickets voted yes, 13 voted no. Enhanced SPV security incoming in 28 days when the lock in period is up.
+
+Any nodes that aren't at least v1.5 will be forked off the network at that time! https://t.co/JHi8xEvQ6b",98,8,24,2020-02-14
+16,2020-02-18 14:15:12+00:00,1229771350383964161,decredproject,"New episode of Decred in Depth is out now!
+
+@elianhuesca talks about life on the road representing Decred all over LATAM, different use cases in different places, and a strategy for accentuating the tropical contingent of the global Decred community.
+
+https://t.co/vIOONpLwyZ https://t.co/TeFzQS5Vv7",39,1,12,2020-02-18
+17,2020-02-23 20:26:18+00:00,1231676678868492288,decredproject,Decred community members @AkinSawyerr and @elianhuesca talk about cryptocurrency adoption around the world. https://t.co/tYNThwSjnB,37,1,10,2020-02-23
+18,2020-02-26 20:37:46+00:00,1232766730382008322,decredproject,Users of @telegram can now follow https://t.co/cpysG7CK86 to keep up to date with all the latest Decred happenings...,23,0,8,2020-02-26
+20,2020-03-03 14:48:15+00:00,1234853096033050627,decredproject,"The first episode of the Decred in Depth Round Up is out now!
+
+Join @_Checkmatey_ , @PermabullNino and @MisterBlack5150 for a discussion of blockchain funding and security, 51% attacks, and their latest projects.
+
+https://t.co/bMe1yQpOP6 https://t.co/xPdiCao9RK",39,1,9,2020-03-03
+21,2020-03-04 22:01:33+00:00,1235324528940773376,decredproject,"https://t.co/Fh5gwFoLju has been revamped:
+    • New visual aesthetic
+    • New explainer video
+    • New subpages to detail Decred’s:
+        ◦ History
+        ◦ Security
+        ◦ Adaptability
+        ◦ Sustainability",93,4,29,2020-03-04
+22,2020-03-16 17:54:10+00:00,1239610926883573760,decredproject,"New episode of Decred in Depth is out now!
+
+@Leorzhang talks about @IterativeCap's focus on Proof of Work mining, gives a first hand account of mining economics, and considers the benefits of a hybrid PoS component and formal stakeholder decision-making.
+
+ https://t.co/NIudUaatP5 https://t.co/yY4nUuxmOG",33,1,13,2020-03-16
+23,2020-04-01 17:16:57+00:00,1245399765489254400,decredproject,"New Politeia proposal and consensus vote forthcoming:
+
+DCP-0006 Social Media Governance.
+This will use a mix of signals from Reddit, Twitter and GitHub to algorithmically compute the optimal solutions using AI.
+
+Which signal do you think should be given the strongest weight?",28,7,0,2020-04-01
+25,2020-04-08 00:58:42+00:00,1247690295409545223,decredproject,"New episode of Decred in Depth is out now!
+
+@coveryfire7777 talks about his Politeia-approved video production effort, the recent US and BR marketing proposals, and the importance of getting the word out about Decred.
+
+https://t.co/49pUjCK0RE",34,1,12,2020-04-08
+27,2020-04-13 17:42:28+00:00,1249754844258357254,decredproject,"We're very pleased to announce that Decred is now available through @metalpaysme.
+
+Americans now have a quick and convenient way to acquire $DCR using $USD.
+
+https://t.co/r4bgoDAH3f https://t.co/iycnXo30yV",115,7,31,2020-04-13
+28,2020-04-14 04:21:57+00:00,1249915775575621633,decredproject,"Decred project lead @behindtext shares insights w/ @btcinchina on how crypto assets like Decred are ideal safe-haven and offer a better way of organizing labor.
+
+""What is certain is that the ability to work on remote is rapidly becoming more important...""
+
+https://t.co/coZILOaLsR",48,0,9,2020-04-14
+29,2020-05-01 21:32:15+00:00,1256335650552287233,decredproject,"New episode of Decred in Depth is out now!
+
+@cburniske of @placeholdervc talks about recent developments, why Decred HAS (Hypersecure Adaptable Sustainable) it, opportunities for dcrdex and Politeia to expand the Decred ecosystem, and much more!
+
+https://t.co/WkDg1nLQjR",76,5,21,2020-05-01
+31,2020-05-09 04:41:06+00:00,1258980288941654016,decredproject,"""Institutions will come when the financial infrastructure and size make Bitcoin an invest-able asset class. The halving likely has little to do with this."" @_Checkmatey_ https://t.co/C7KrlFTn6I",29,0,9,2020-05-09
+33,2020-05-11 17:34:13+00:00,1259899627941363715,decredproject,"It's 24 hours (1330 EST) until Decred's Foundations hour at #ConsensusDistributed kicks off!
+
+Sign up at this link to watch the program live and participate in Q&amp;A.
+
+https://t.co/Idcepbcj9d
+
+Details in the thread below. https://t.co/RQ8GhyqKeC",56,3,22,2020-05-11
+40,2020-05-12 17:35:48+00:00,1260262413749846018,decredproject,This is live now. https://t.co/V4FXcSzQby,29,0,8,2020-05-12
+42,2020-05-13 14:56:41+00:00,1260584756292603906,decredproject,"@coveryfire7777 @lukebp_ @matheusd_tech @blockchainbuck @chappjc Mixing things up a bit, @_Checkmatey_ talks about his favorite DCR metrics on Trade Secrets. This extended version includes an extra 20 minutes that was squeezed out of the broadcast edition, including some discussion with @RichardRed0x.
+https://t.co/h7xDThVzQa",18,1,4,2020-05-13
+46,2020-05-28 19:19:13+00:00,1266086642806403072,decredproject,Achievement unlocked! New way to purchase $DCR. 💳 https://t.co/HHMM0Gv30J,85,2,16,2020-05-28
+47,2020-05-29 20:15:46+00:00,1266463264415854594,decredproject,"Decred's Foundations program from #consensusdistributed is now available in full via @CoinDesk:
+https://t.co/aY1IPbN2Pm
+
+This includes the Q&amp;A with @LucasNuzzi at the end, which was not available on YouTube previously.",36,1,11,2020-05-29
+48,2020-06-02 18:31:00+00:00,1267886448923074563,decredproject,"New episode of Decred in Depth is out!
+
+@raedahgroup talks about years working on Decred, from contributing to DCP-0001 and dcrdata, to newer projects like mobile wallets, forming a group with African and Asian devs, and the new @planetdecred proposal.
+
+https://t.co/8FUogYs0VY https://t.co/3JmOubbZhA",50,2,18,2020-06-02
+49,2020-06-11 19:22:29+00:00,1271160896610537476,decredproject,"With Decred DEX now in operation on testnet, it's a great time to listen to Ep. 24 of Decred in Depth with @blockchainbuck and @chappjc, where they discuss the dcrdex philosophy of helping traders to find each other and letting atomic swaps do the rest.
+
+https://t.co/I0uXzwDzEK https://t.co/PGeuNCZcwI",60,1,22,2020-06-11
+50,2020-06-15 16:12:39+00:00,1272562677127266304,decredproject,"New episode of Decred in Depth is out now!
+
+Join @monsieurbulb, @AkinSawyerr and @_Checkmatey_ as they present and discuss their takes on what the Decred project is about, how to grow the community, and where the demand for DCR comes from.
+
+https://t.co/S8jMfdEZAW https://t.co/xrAYMHIBLI",45,2,16,2020-06-15
+51,2020-07-02 15:59:36+00:00,1278719985595154433,decredproject,"New episode of Decred in Depth is out now!
+
+@behindtext gives an introduction to the Federal Reserve, its origins, methods, and top bailouts - casting Decred as an effort to un-rig the game. United States' varied responses to #COVID19 are also considered.
+
+https://t.co/xJFX5SbRoI https://t.co/9T67KF4aNX",40,1,16,2020-07-02
+52,2020-07-03 19:00:15+00:00,1279127834137636866,decredproject,"Announcing dcrros:
+@decredproject's implementation of @coinbase's Rosetta API.
+
+Teams can now access Decred's chain using this standardized spec and quickly integrate $DCR into their projects.
+
+Check it out at https://t.co/cQVxxcB7yv",140,6,38,2020-07-03
+54,2020-07-08 16:21:36+00:00,1280899847151849473,decredproject,"""For the moment, the sell side of the market is driven by speculators, but this can only go on for so long."" -- @behindtext, Decred Project Lead https://t.co/mXUQIu7wjT",43,1,11,2020-07-08
+55,2020-07-16 18:46:46+00:00,1283835482250543105,decredproject,"In this episode of #DecredinDepth @_Checkmatey_ and @PermabullNino talk shop about #Decred fundamentals, the rigged economic system, inspired by @behindtext's piece on the topic and update the community on the progress of their individual proposals. Enjoy!
+https://t.co/Zl43IBYyZr",46,0,15,2020-07-16
+56,2020-07-30 13:31:15+00:00,1288829513057607680,decredproject,$DCR/USDT pair now available at @binance https://t.co/EzSVpeKgos,57,0,12,2020-07-30
+57,2020-08-02 16:21:31+00:00,1289959523289972738,decredproject,"New episode of Decred in Depth is out now!
+
+@Ammarooni is back to talk about inflationary monetary policy through history, the search for ways to store value, and the ways in which Decred builds on Bitcoin's value proposition.
+
+https://t.co/3UmoeprFrs",46,1,16,2020-08-02
+58,2020-08-28 21:09:37+00:00,1299454110559866880,decredproject,"We're releasing Decred v1.5.2 to address a recently discovered issue that could under certain circumstances allow for nodes to be hit with a denial of service attack. People running their own nodes as well as Proof-of-Work miners are advised to upgrade.
+
+https://t.co/OK6ssiaYzF",97,4,38,2020-08-28
+59,2020-09-12 02:16:14+00:00,1304604704022949889,decredproject,"August's issue of the Decred Journal is out now!
+
+v1.5.2 was released to address a DoS vector, Treasury decentralization PR got reviewed, Politeia is getting a tlog refactoring, and dcrdex and vspd are getting tested.
+
+https://t.co/4fw9Eqvpq5 https://t.co/ZvrbzDpAdO",59,1,24,2020-09-12
+60,2020-09-15 18:05:29+00:00,1305930753671299072,decredproject,"New episode of Decred in Depth is out now!
+
+@davesaddress and zohand of the @DecredAustralia team join @MisterBlack5150 to talk about their experiences presenting Decred to various audiences - what sticks, and what misses.
+
+https://t.co/ayCdCqlNJ7",41,2,14,2020-09-15
+61,2020-10-02 20:28:31+00:00,1312127342945292288,decredproject,"New Decred in Depth podcast is out now!
+
+@LindseyMelissaM gives her take on the role of PR, her experience of working with Decred's community and going through the proposal process, and strategies for raising the project's profile.
+
+https://t.co/lQOwNU3rCZ",34,0,11,2020-10-02
+62,2020-10-11 03:58:11+00:00,1315139607802056704,decredproject,"September's issue of the Decred Journal is out now!
+
+The decentralize Treasury spending PR is merged, dcrdex is facilitating mainnet swaps, https://t.co/xQzfEro8Rf and https://t.co/jl65TGTSFR launched, and we've got an RFP going.
+
+https://t.co/l99PwPz4mR https://t.co/0kBkS2nnsT",61,7,22,2020-10-11
+63,2020-10-16 19:46:08+00:00,1317190105916936195,decredproject,"New episode of Decred in Depth!
+
+@svitekpavel discusses the issue of content distribution - quality content that isn't being widely seen. This episode was recorded hours before Pavel's https://t.co/mfoaVi4Vfo proposal finished voting (it just passed).
+
+https://t.co/OPH8g2Bj4s",40,0,17,2020-10-16
+64,2020-10-19 18:03:17+00:00,1318251386430214145,decredproject,"@withdecred Shout-outs to some relatively new Decred community content contributors:
+
+@DecredSociety published ""Why I Decred"" (https://t.co/DRZJRl92Fg).
+
+@decredcitizen put out 3 new videos: https://t.co/QuIGu6MbaE
+
+@stakedpodcast produced 4 new pods: https://t.co/i3arpECaCs",21,2,5,2020-10-19
+75,2020-10-21 19:32:20+00:00,1318998573975994373,decredproject,"DCRDEX, a new kind of #DEX and a better way to trade, is live on mainnet with an initial release.
+
+* You stay in control of your money.
+* We protect your privacy.
+* No trading fees.
+* No frontrunning.
+* No gatekeepers.
+
+Find out more at https://t.co/hqNQ5JLEpl https://t.co/RumqTFQtG2",236,26,88,2020-10-21
+76,2020-10-23 19:22:47+00:00,1319720945972633600,decredproject,"To celebrate the release of #DCRDEX @GhostWridah has dropped another dope beat to bump while you wait for your nodes to sync.
+Introducing: Decred DEX Flow.
+
+https://t.co/toOT95qsWw",78,7,24,2020-10-23
+77,2020-11-06 11:25:24+00:00,1324674240268898304,decredproject,"Metric Update: The Decred network just processed it's 500,000th block! https://t.co/ybMUSO80Xc",83,2,23,2020-11-06
+78,2020-11-12 18:09:15+00:00,1326950200129191938,decredproject,Also available on Publish0x: https://t.co/z6OEdLzl2L,22,0,2,2020-11-12
+82,2021-01-10 21:33:05+00:00,1348382377127665665,decredproject,"Are you a #Decred fan?
+Do you use @signalapp?
+
+Then show your love for @dcrstakey with this special $DCR #Stakey sticker pack! 🎟️🪙
+
+https://t.co/PESx7OkrDt https://t.co/dFJ9VnHZy9",91,3,20,2021-01-10
+83,2021-01-25 16:07:17+00:00,1353736208065638401,decredproject,"We're pleased to announce that #Decred v1.6 has been released.
+
+Now with:
+
+🪙 A new consensus vote to #decentralize the Decred Treasury.
+🎟️ Streamlined and private staking.
+🔒 #Private transactions in Decrediton.
+⚡️ #Lightning Network integration.
+
+https://t.co/gSkMqTUF3k https://t.co/DBY3NjiLsM",453,94,191,2021-01-25
+85,2021-02-03 00:57:12+00:00,1356768668538011651,decredproject,"Decred is excited to announce our first listing on an African exchange.
+
+Now users of @firstkudiapp's First Kudi Pro will be able to trade $DCR using the Nigerian Naira.
+
+https://t.co/rkurAOijsQ https://t.co/9ckyXGBAJ9",138,8,41,2021-02-03
+86,2021-02-10 16:33:13+00:00,1359540936640987141,decredproject,"January's issue of the Decred Journal is out now!
+
+v1.6 release was the highlight of a month in which PoS participation and ticket price continued their uptrend - now Politeia participation is in the 50-70% range regularly and breaking turnout records. 🍿
+
+https://t.co/Mh3Uan6BfE https://t.co/xEk9IPs0ZY",59,5,22,2021-02-10
+87,2021-02-11 20:01:54+00:00,1359955845405171712,decredproject,"This issue has been edited to improve upon the description of DCRDEX and to use StakeShuffle as the name for the DCR mixing technique that is now available in Decrediton.
+
+To see specific changes check out the diff for the commit:
+https://t.co/Nyvs6FQC3m",15,0,2,2021-02-11
+88,2021-02-23 16:33:05+00:00,1364251945830072320,decredproject,"Curious about #Decred?
+
+Good news, we're holding an AMA today on r/CryptoCurrency touching on privacy, DAOs, Lightning Network, DEX, and anything else that might tickle your fancy.
+
+So join us, and we'll answer all your burning questions!
+
+https://t.co/fucFB54aw3 https://t.co/4xZCYr0bL7",131,2,51,2021-02-23
+89,2021-02-24 18:02:24+00:00,1364636813168693252,decredproject,"Decred v1.6.1 software is out now! 
+
+This release improves the VSP ticket buying experience for Decrediton users, adds a block voting policy through which voters can force PoW miners to upgrade, plus some other improvements like Chinese interface text.
+
+https://t.co/gSkMqTUF3k",109,3,33,2021-02-24
+90,2021-03-13 19:48:49+00:00,1370824186831241222,decredproject,"Calling all #Decred stakeholders.
+
+The vote to decentralize the Decred Treasury (DCP-0006) has commenced.
+
+Set your voting preference in your wallet and put stakeholders in control of Decred's $100M+ treasury.
+
+Follow the action here:
+https://t.co/weioVFuCx1",99,2,37,2021-03-13
+91,2021-03-14 16:22:30+00:00,1371134653780869128,decredproject,"February's issue of Decred Journal is out now!
+
+v1.6.1 was released, with UX improvements around staking and mixing and a new voting policy which withholds rewards from miners who don't upgrade. Also new PoS participation and StakeShuffle mixing highs!
+
+https://t.co/z707P9q4J1 https://t.co/IIvC9g5qqV",77,4,30,2021-03-14
+92,2021-03-16 20:47:28+00:00,1371926108216688646,decredproject,"While you're voting on the new consensus agenda why not hop over to Politeia and renew the contract for the janitors who make Decred's chat and social media platforms such a pleasant place.
+
+https://t.co/MrE5dA9HHD",58,1,10,2021-03-16
+93,2021-04-09 22:16:05+00:00,1380645719464378368,decredproject,"Decred v1.6.2 software has been released. This incremental update improves performance around mixing and VSP tickets. 
+
+https://t.co/xTGJE2C6WU",84,3,24,2021-04-09
+96,2021-04-10 22:17:00+00:00,1381008337878269955,decredproject,"@fdroidorg And for those still on Google:
+
+https://t.co/b15XdtOuRS",15,1,1,2021-04-10
+103,2021-04-13 17:24:32+00:00,1382021899568439298,decredproject,"Decred Journal is also on @publish0x, where last time around your frantic smashing of the like button earned the team $3.62. The team would like to convey that this money will all be spent on bison treats, so it's for a good cause!
+
+https://t.co/Ut0bLVnbch",18,0,3,2021-04-13
+104,2021-05-10 22:09:00+00:00,1391877959410233344,decredproject,"If you use the command line tools to solo vote please set your preference in the following manner:
+
+dcrctl --wallet settreasurypolicy ""03f6e7041f1cf51ee10e0a01cd2b0385ce3cd9debaabb2296f7e9dee9329da946c"" ""yes or no""",16,1,3,2021-05-10
+107,2021-05-12 20:34:20+00:00,1392578914799718403,decredproject,"April Decred Journal is out!
+
+Check out the detailed report on development, network and social stats, ecosystem growth and new media content.
+
+https://t.co/kX2LJgvNOS https://t.co/rbfpD2CQh7",42,2,17,2021-05-12
+109,2021-06-30 02:17:06+00:00,1410059789535793154,decredproject,"We are very happy to announce Decred is now available on @WazirXIndia.
+
+This is our first listing in India and will allow users to trade DCR using Indian rupees. https://t.co/XrqaVETotc",107,7,31,2021-06-30
+110,2021-07-06 05:00:16+00:00,1412275178810322944,decredproject,Also available on YouTube: https://t.co/tcoZ5U5nE4 https://t.co/2Tu4OVgCvX,27,3,8,2021-07-06
+111,2021-07-14 20:42:23+00:00,1415411376806408192,decredproject,"The original and minimalist version of the Journal can be found on @github Pages: https://t.co/2G5a4mNOod
+
+And another mirror is at @publish0x: https://t.co/fEv6aKvR8e",10,1,4,2021-07-14
+112,2021-07-30 17:32:47+00:00,1421161865946845185,decredproject,Decred developer @lukebp_ spoke to @braindrainomar about the recently passed politeia vote on auto ticket revocation and Decred's ability to keep evolving. https://t.co/vCNqOSusqJ,41,2,11,2021-07-30
+113,2021-08-05 21:11:34+00:00,1423391253895524357,decredproject,"A wild fiat pairing appears!
+
+@bitfinex users can now trade DCR using USD. https://t.co/IYjej4BgYv",80,3,17,2021-08-05
+115,2021-08-12 16:51:33+00:00,1425862533404110849,decredproject,"https://t.co/8i3EGuDxh0 Exchange (@BitcoinComExch) has recently listed Decred and enables users to trade against BTC, ETH, and USDT. https://t.co/YCmr5ZWMu5",71,5,20,2021-08-12
+116,2021-11-01 19:35:52+00:00,1455257302253068302,decredproject,"“Decred Reaches Governance Milestone of 77% Voter Participation” via @crowdfundinside @braindrainomar
+
+“This development has come when Decred is marking three years since Politeia’s launch”
+
+https://t.co/a7XLomRteM
+
+#cryptonews #crypto #cryptocurrency",72,5,20,2021-11-01
+117,2021-11-05 19:55:23+00:00,1456711763651608581,decredproject,"Jake Yocom-Piatt (@behindtext) talks to @Benzinga about the fundamentals of #Decred, marketing, and future plans.
+
+https://t.co/uMXMSozsOJ",81,8,21,2021-11-05
+118,2021-11-12 19:40:27+00:00,1459244721017081860,decredproject,"Even though @Ammarooni's proposal failed to get the funding from the #DAO Treasury, the #Decred community has crowdfunded it in under 12 hours. Shows what a truly passionate community is capable of and we've only just begun. 
+
+Congratulations! https://t.co/DjB8bcYuxw",95,5,23,2021-11-12
+119,2021-11-16 21:01:47+00:00,1460714741781995522,decredproject,"Looking to chat with other members of the decentralized bison herd?
+
+Join the #Decred Telegram community at https://t.co/mTHr7yAQZ8
+
+🦬 🦬 🦬",50,4,12,2021-11-16
+120,2021-11-20 15:04:58+00:00,1462074497901776898,decredproject,"In October, the share of #Decred StakeShuffle mixed and unspent coins made a new ATH of 54.36% of the supply, or 7.34 million DCR. #crypto #privacy https://t.co/iroWID4Gpr",38,7,7,2021-11-20
+121,2021-12-18 03:47:37+00:00,1472050896951517186,decredproject,"Currently tspends can only be voted on by solo stakers, VSP support is in the pipeline to allow Decrediton users to participate.",26,6,5,2021-12-18
+127,2021-12-30 23:20:31+00:00,1476694717727485959,decredproject,"A great way to cap off an exciting year, the first decentralized TreasurySpend paying Decred contractors was included in block 619776.
+
+🎉 🦬 🦬 🦬
+
+https://t.co/0Hiad0Ez6z https://t.co/liyVuYjBYB",99,18,28,2021-12-30
+128,2022-01-05 18:06:44+00:00,1478790081821515780,decredproject,"Feel brave enough to lead the herd?
+Try out Decred v1.7 RC1 ""Based Bison""!
+
+https://t.co/Lk09c0IhTA https://t.co/1qhuSkcPis",131,30,45,2022-01-05
+132,2022-01-12 21:48:58+00:00,1481382722543267841,decredproject,"Last one to upgrade gets the horns!
+
+You can see all the details and download the new binaries here:
+
+https://t.co/8DwduheLIn https://t.co/SHPPXxGTU7",34,7,2,2022-01-12
+134,2022-01-14 19:29:23+00:00,1482072371460816896,decredproject,"Put down that game controller 🎮️ and hop on the Decred Discord server to see what makes us even more exciting than battling 8-bit aliens.
+
+👾 👾 👾
+
+https://t.co/U7CYdhe3wu",56,8,11,2022-01-14
+135,2022-01-19 22:30:24+00:00,1483929866609307652,decredproject,"You can find all the details and download the binaries here:
+
+https://t.co/CpR08Urw9r https://t.co/xS89sESDjV",25,6,1,2022-01-19
+140,2022-01-24 16:01:13+00:00,1485643861342965767,decredproject,"Decred v1.7.0 ""Based Bison"" has now been released.
+Everyone should upgrade their software at their earliest convenience to make sure they don't get left behind by the herd, and so we can begin voting as soon as possible.
+
+https://t.co/0BA4M0QyrT https://t.co/KiDlieYOmR",234,280,94,2022-01-24
+143,2022-01-25 19:03:50+00:00,1486052206096887813,decredproject,"“Decred Announces System Improvements, Including Quantum Computing Protection, in v1.7” via @crowdfundinside @TonyZerucha
+
+https://t.co/UKG27cknJk
+
+#cryptonews #crypto #cryptocurrency",66,7,16,2022-01-25
+145,2022-01-27 18:26:57+00:00,1486767702077280270,decredproject,"You can't spell ""decentralized"" without 🇩 🇨 🇷.
+That's why we run our own @matrixdotorg home server and @element_hq instance.
+
+So our community can be totally out of control just the way we like it. 🍿🍿🍿
+
+Join the party! 🎉 🦬
+
+https://t.co/6mg7RhbJsx",79,7,25,2022-01-27
+146,2022-02-08 01:30:39+00:00,1490860595247476737,decredproject,"Upgrading will not activate the change in PoW rewards, it will only allow the consensus votes to take place.
+
+Please read the release notes for all the details:
+https://t.co/v8itGlIR2Q",23,6,4,2022-02-08
+151,2022-02-17 21:48:09+00:00,1494428480783671299,decredproject,"A few bugs have been trampled under hoof and Decred v1.7.1 has now been released.
+Decrediton users will be pleased to know that automatic ticket buying will now work as expected.
+Read all the details in the release notes and update now.
+
+https://t.co/RDFg5aGb7P",63,6,19,2022-02-17
+152,2022-02-18 20:43:31+00:00,1494774602521878532,decredproject,"You can always opt to use an exchange that never takes custody of your coins and makes use of atomic swaps.
+
+No middle men or intermediary tokens required.
+
+Now built right in to Decred's GUI wallet Decrediton.
+
+https://t.co/t6Sbhj40j7 https://t.co/3KMYaeObO8",75,7,25,2022-02-18
+154,2022-02-23 21:57:22+00:00,1496605127746203649,decredproject,"It's time for stakeholders to vote on another Decred Treasury spend.
+
+https://t.co/GIUGh5b53O
+
+If you have already set your tspend policy in the past you are not required to do anything, unless you wish to change it.",25,6,4,2022-02-23
+157,2022-02-25 20:59:32+00:00,1497315346667220994,decredproject,"The time for Decred stakeholders to vote on 4 new consensus changes is rapidly approaching.
+
+You can review all the relevant DCPs which are linked at https://t.co/weioVFuCx1.",45,5,13,2022-02-25
+160,2022-03-11 19:18:46+00:00,1502363418812104711,decredproject,"Tallying begins at block 641,152. If quorum is met the agendas that pass will lock in at block 649,216, and the new rules will activate at block 657,280.
+
+https://t.co/weioVFuCx1
+
+A summary of the proposed consensus changes and links to their respective DCPs are included below:",18,1,1,2022-03-11
+166,2022-03-29 14:00:01+00:00,1508806184010014723,decredproject,"The Decred Network is a little more than halfway through the voting process on 4 consensus changes.
+
+Dear stakeholders, set your voting preferences if you haven't yet.
+
+Voting ends at block 649215 and approved changes activate at block 657280, about a month after voting ends. https://t.co/2oz1w1QKUD",52,7,19,2022-03-29
+167,2022-04-25 21:29:42+00:00,1518703824176914433,decredproject,"New consensus rules activate in less than 2 weeks (at block 657280)!
+
+Remember to upgrade your wallets and nodes before then, or you'll be forked off the network.
+
+The most recent release is available here:
+https://t.co/t6Sbhj40j7",55,9,15,2022-04-25
+169,2022-05-11 16:45:54+00:00,1524430609543831553,decredproject,"Decred v1.7.2 has been released.
+
+https://t.co/qwSazmsfOY
+
+- Decrediton (GUI) users are now able to approve or deny Decred treasury transactions from the governance page.",76,6,22,2022-05-11
+173,2022-05-17 15:55:03+00:00,1526592139861401600,decredproject,"- A privacy tease of work that has begun on making the mixing process peer-to-peer.
+
+- Many software updates and enhancements.",24,0,2,2022-05-17
+174,2022-05-22 17:38:30+00:00,1528430113355878401,decredproject,"Decrediton v1.7.3 has been released addressing a couple issues.
+
+- Users can now properly set their voting preference for Decred's decentralized treasury spends.
+
+- A bug affecting older versions of macOS was also fixed.
+
+https://t.co/lodfYQ9ypj",41,1,15,2022-05-22
+175,2022-06-20 20:28:26+00:00,1538982128511229952,decredproject,"May issue of Decred Journal is out!
+
+What a month. Four consensus upgrades went live, four software releases + GoDCR mainnet launch, Decred Magazine, four new proposals, a dramatic hashrate drop, massive ticket revocation, and more.
+
+https://t.co/EErZNid8rI https://t.co/zCXmwe8EDE",39,10,9,2022-06-20
+176,2022-06-21 17:26:56+00:00,1539298838455918595,decredproject,"The Journal is now also published on Decred Magazine:
+
+https://t.co/Oxto0cSbGb",14,1,1,2022-06-21
+177,2022-07-10 17:26:56+00:00,1546184205964640262,decredproject,"Decred News Update - First DAO Payout w/ new rules, DEX Solidity Contract Audit, Mixing ATH &amp; More!
+
+https://t.co/R1ppecumIA",28,3,2,2022-07-10
+178,2022-07-14 21:01:52+00:00,1547687847938834433,decredproject,[Also available on YouTube: https://t.co/C6IZuoUWKf] https://t.co/Ak27QY6r7g,6,4,0,2022-07-14
+179,2022-07-15 21:47:58+00:00,1548061836955639818,decredproject,"June issue of Decred Journal is out!
+
+Voting on treasury spends is back, seven proposals on Politeia, DCRDEX Ethereum smart contract audit, two exchange listings, a regular bison dev update, and more.
+
+https://t.co/bbxbrcrgIH",31,6,11,2022-07-15
+180,2022-08-06 18:11:23+00:00,1555979868164210691,decredproject,"Decred News Update - Development Work Surging Across Many Repos - LN, DCRDEX, Politeia, DAO &amp; More
+
+https://t.co/ckZs5ASs3u",49,7,11,2022-08-06
+181,2022-08-17 22:09:58+00:00,1560026172553154562,decredproject,"Decred Journal – July 2022 is here!
+
+DCRDEX added support for new type of Bitcoin wallet, Politeia is getting close to a new release, @behindtext mentioned in an interview something big is coming that makes use of Lightning Network.
+
+https://t.co/rEGCyoe1yq",46,12,12,2022-08-17
+182,2022-09-08 20:25:25+00:00,1567972395432148992,decredproject,"Decred Monthly Recap - New Website, Dev Updates, Politeia 1.4.0, Articles + Interviews &amp; More!
+
+https://t.co/rYscZLRwFU",35,6,10,2022-09-08
+183,2022-09-15 18:42:03+00:00,1570483098361679872,decredproject,".@blockchainbuck talks all things DCRDEX, Lightning Network and decentralization in an interview with @JasonHartmanROI @AuthorityMgzine
+
+https://t.co/DOxf5bSEj5",53,7,16,2022-09-15
+184,2022-09-16 20:38:31+00:00,1570874796489179137,decredproject,"Decred Journal - August 2022 is out!
+
+Decred is in full build mode but where to start! An overhaul of the https://t.co/Fh5gwFpj92 website? Politeia new release? A massive upgrade for DCRDEX?
+
+Or the many fixes and improvements...
+
+Don't wonder, read up!
+
+https://t.co/pMuAOm3Nsg",40,7,13,2022-09-16

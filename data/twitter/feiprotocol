@@ -1,0 +1,504 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2021-01-06 00:47:07+00:00,1346619267752443904,feiprotocol,This is the $FEI 🌲,120,28,11,2021-01-06
+15,2021-01-07 15:24:09+00:00,1347202371475001344,feiprotocol,"Fei is NOT another clone of an existing stablecoin. Completely new mechanism designed for scalability, liquidity, fairness, and low volatility 🌲",55,4,4,2021-01-07
+17,2021-01-09 16:01:48+00:00,1347936622319308800,feiprotocol,@FeiStrife New model that is better than existing! More details coming very soon,2,0,0,2021-01-09
+18,2021-01-11 21:08:45+00:00,1348738642227785730,feiprotocol,"Fei is a next generation stablecoin protocol. We are stoked to share this with the DeFi community! 🌲
+https://t.co/WOWUcNIbGv",317,20,44,2021-01-11
+24,2021-01-12 05:49:34+00:00,1348869712160059392,feiprotocol,@AlexMasmej Long $ALEX,4,0,0,2021-01-12
+32,2021-01-13 02:44:15+00:00,1349185461000916992,feiprotocol,👀 https://t.co/h6yhdSTIhD,14,1,0,2021-01-13
+33,2021-01-15 17:33:02+00:00,1350133907664977921,feiprotocol,"Unofficial meme lord of Fei Protocol is: @zelibob85173333  
+
+Any challengers? (Also, read the white paper 😂) https://t.co/SgdAbajjbA",20,1,0,2021-01-15
+37,2021-01-16 00:47:05+00:00,1350243140003741697,feiprotocol,hello DeFi tribe 💚 https://t.co/4PLFsCEk5N,21,0,0,2021-01-16
+38,2021-01-18 01:31:53+00:00,1350979188539404300,feiprotocol,@a_kirillo Yes! As long as the net paid after burn incentives is &gt; outstanding FEI. Can be undercollateralized and still fully solvent based on this principle. The white paper has a more thorough analysis at the end,1,0,0,2021-01-18
+39,2021-01-19 15:35:52+00:00,1351553971907817472,feiprotocol,Great way to learn about us! Especially for auditory learners 🌲 https://t.co/NZzYPpkSRE,25,1,2,2021-01-19
+40,2021-01-21 15:03:07+00:00,1352270505873530880,feiprotocol,Fei Protocol is halfway done with our @OpenZeppelin audit! More info on the team and Genesis coming soon 💚👀,94,2,4,2021-01-21
+41,2021-01-26 18:40:07+00:00,1354137055509377024,feiprotocol,Apparently they seeded well known accounts with some tokens to fake pro-rata shares. Stay alert and check your bots,9,0,1,2021-01-26
+42,2021-02-02 19:29:47+00:00,1356686268197871617,feiprotocol,Well done research piece by Eden @TheBlock__  on our protocol! https://t.co/nVYWUS3uu0,35,1,2,2021-02-02
+43,2021-02-09 19:54:13+00:00,1359229133146869760,feiprotocol,@Cryptogossip1 open to all eth wallets!,6,0,0,2021-02-09
+44,2021-03-15 23:16:21+00:00,1371601192040550403,feiprotocol,"5/5 The protocol code is private until launch, so links currently do not work. At launch, we will publish the audit reports and bug bounties and enhance developer documentation. We welcome all community feedback and suggestions to improve our documentation",27,2,0,2021-03-15
+47,2021-03-20 17:14:01+00:00,1373321943374467076,feiprotocol,"1/2 Fei Protocol is ready for launch! We’re excited for mainnet, but want to take time to gather feedback and engage with the community 💚 For this reason we are pushing back Genesis until March 31",337,49,67,2021-03-20
+49,2021-03-26 17:22:42+00:00,1375498459160080387,feiprotocol,"1/8 Fei Protocol uses experimental stability mechanisms to maintain its peg. As a user it is important to understand how these work:
+
+💰Direct Incentives🔥
+🔃Reweights
+⚡️Arbitrage https://t.co/NUnljF0aEh",138,1,24,2021-03-26
+56,2021-03-27 17:48:16+00:00,1375867281205387267,feiprotocol,The Fei Labs team will be on Clubhouse in ~ 10 minutes! Join us! https://t.co/mVcNJBPGuq,36,10,0,2021-03-27
+57,2021-03-29 19:55:16+00:00,1376624015209504769,feiprotocol,Beware of the burn🔥 https://t.co/i5x3xTLWDZ,50,5,5,2021-03-29
+58,2021-03-31 19:59:28+00:00,1377349850614788098,feiprotocol,"Due to the high traffic on https://t.co/kgHY9EphzM we are experiencing issues with @WalletConnect
+
+If you are experiencing issues, please try again later when the traffic on the site is lower.  In the meantime, @MetaMask continues to work.",52,11,2,2021-03-31
+64,2021-04-02 19:00:03+00:00,1378059671378878466,feiprotocol,"With the amount of $ETH currently raised, all participants will get $FEI at a $1.01 price and a $TRIBE airdrop🌲",100,14,9,2021-04-02
+67,2021-04-03 19:13:50+00:00,1378425528051466247,feiprotocol,"Fei Protocol Genesis has officially ended! Thank you to everyone who contributed to a successful Genesis period in bootstrapping the $FEI stablecoin and $TRIBE governance token 🌲 
+
+Lets recap ➡️",325,117,38,2021-04-03
+70,2021-04-05 19:03:20+00:00,1379147662629380097,feiprotocol,$TRIBE staking rewards are underway. This provides a way to productively deploy $FEI and $TRIBE 👩‍🌾,137,45,15,2021-04-05
+71,2021-04-06 15:20:27+00:00,1379453958352031746,feiprotocol,"🚨 We have patched a vulnerability found in the incentive calculation of Fei:
+
+➡️ We are shutting down all minting rewards on FEI
+➡️ Trades will go through as normal
+➡️ The burn will still be applied
+➡️ We are working on a fix to turn rewards back on 
+
+More information to come",239,87,43,2021-04-06
+72,2021-04-07 23:02:08+00:00,1379932534876762112,feiprotocol,"We appreciate the overwhelming support Fei has received from the community and will continue to share frequent updates. We look forward to continuing to work together to make Fei a decentralized, liquid, and scalable stablecoin🌲",55,9,1,2021-04-07
+79,2021-04-10 03:53:48+00:00,1380730710059675652,feiprotocol,"The Tribe community, with support from the founding team, is enthusiastically considering proposals that reward loyal $TRIBE holders with a much larger percentage of the protocol that will vest over time.",58,7,2,2021-04-10
+82,2021-04-20 23:06:45+00:00,1384644737190174720,feiprotocol,"This proposal is designed to reduce post-Genesis FEI sell pressure. The purpose is to get closer to the peg, while the fixes to the direct incentives mechanism are re-audited, and ready to deploy.",6,2,1,2021-04-20
+86,2021-04-21 01:15:17+00:00,1384677083851362305,feiprotocol,"@Daniel104403 After FIP-2, the plan is to reinstate the incentives system: Re-enable reweights with a fixed cadence. Complete the audit on proposed fixes for direct incentives &amp; Deep integration of FEI into DeFi and diversification of PCV by deploying it productively to support the peg",0,0,0,2021-04-21
+90,2021-04-23 23:14:21+00:00,1385733815541272576,feiprotocol,"The increased staking rewards should go into effect on Monday, May 3 
+
+The implementation will have TRIBE rewards at 3x for the first 3 weeks then 2x after that over the current release schedule
+
+We will have a step-by-step guide available",22,3,2,2021-04-23
+93,2021-04-27 09:02:50+00:00,1386969073427226628,feiprotocol,"🗳 Voting lasts ~36 hours
+
+⏳ Timelock - If the vote succeeds, the proposed code will be executed ~24 hours later",13,0,1,2021-04-27
+94,2021-04-28 21:28:02+00:00,1387518998858723328,feiprotocol,"FIP-2 has passed the on-chain DAO vote. This change will allow FEI redemption at $0.95 and increased FEI-TRIBE staking rewards.
+
+The proposal will be executed tomorrow (Thursday, April 29th) at 2:25pm PT.",55,3,13,2021-04-28
+97,2021-04-29 22:05:44+00:00,1387890870746234880,feiprotocol,FIP-2 was designed to allow peg stabilization mechanisms to operate with a floor of $0.95 once restored and to increase the collateral ratio.,15,1,1,2021-04-29
+99,2021-05-02 23:29:55+00:00,1388999220229664770,feiprotocol,"The proposal enables reweights to be simpler, intuitive and regular, and sets the expectation that deviations from the peg will soon be corrected by the protocol.
+
+Faster reweight cadences also allow faster relief of any remaining sell pressure.",1,2,0,2021-05-02
+102,2021-05-03 01:51:39+00:00,1389034889199030277,feiprotocol,"Rewards for staking FEI-TRIBE Uniswap LP tokens have been doubled to 200M TRIBE over two years. The pool will see the following increases:
+
+➡️ May 3 - May 24: ~3.3x rewards
+➡️ From May 25: 2x rewards",28,2,4,2021-05-03
+103,2021-05-13 22:00:49+00:00,1392963064459272192,feiprotocol,We appreciate the community's support as we navigate through these early challenges🙏🌲,20,2,2,2021-05-13
+107,2021-05-15 20:50:48+00:00,1393670219814510595,feiprotocol,"The DAO proposal for on-chain voting for updating the bonding curve allocation will be submitted at 10am PT tomorrow, May 16 🌲",43,1,6,2021-05-15
+108,2021-05-17 05:59:17+00:00,1394170639972327424,feiprotocol,A new Fei Improvement Proposal is now live! FIP-5 proposes that ETH used to buy FEI from the protocol will go to the stabilizer instead of as liquidity to the ETH-FEI pair 📝,22,1,3,2021-05-17
+112,2021-05-18 18:56:31+00:00,1394728624406765568,feiprotocol,"Thanks to all who pushed this forward! 
+
+As a reminder, FIP-3 to reinstate reweights on a regular cadence, will be submitted to the DAO on Thursday, May 20th",4,2,0,2021-05-18
+114,2021-05-19 19:21:44+00:00,1395097359105761280,feiprotocol,"If the proposal passes, it will be executed on Sunday May 23rd at approximately 11am PT.
+
+This proposal will reinstate the peg mechanism and clear the path for popular community proposals like PCV diversification! 🌲",8,1,1,2021-05-19
+116,2021-05-20 17:05:18+00:00,1395425413506105345,feiprotocol,"1/2
+Fei Improvement Proposal 3 has been submitted to the DAO to reinstate reweights on a 4 hour cadence. 
+
+It enables reweights to be simpler, intuitive and regular, and sets the expectation that deviations from the peg will soon be corrected by the protocol🌲",38,1,1,2021-05-20
+117,2021-05-22 18:52:08+00:00,1396177074163916807,feiprotocol,"The vote for regular reweights has passed! 
+
+Starting tomorrow at 11:30am PT reweights will trigger after every 4 hours when below the peg🌲
+
+Thank you to all the community members who participated in the conversation and voted on this proposal",35,2,6,2021-05-22
+118,2021-05-23 18:54:18+00:00,1396540004151840772,feiprotocol,"Included parameter changes:
+
+➡️Set reweight frequency to 4 hours
+➡️Lower the min distance below peg for a reweight from 1% to 0.5%
+➡️Lower reweight keeper reward to 200 FEI",10,1,1,2021-05-23
+120,2021-05-29 21:55:13+00:00,1398759860645158913,feiprotocol,"We are excited to announce the newest member of the Fei team! 
+
+We believe that Storm will fill a vital role in helping to make FEI The Stablecoin for DeFi! https://t.co/qJXcXj4idn",76,10,6,2021-05-29
+121,2021-06-01 23:43:53+00:00,1399874374589550592,feiprotocol,. @parsec_finance is a great place to view the $FEI peg recovery and see reweights in action 🌲 https://t.co/xCYoX1tAjI,65,1,11,2021-06-01
+122,2021-06-03 23:08:55+00:00,1400590350276722689,feiprotocol,$FEI/ETH and $TRIBE/ETH oracles from @chainlink are already in use in the Fuse pools on @RariCapital 🤝,27,1,5,2021-06-03
+123,2021-06-09 19:57:23+00:00,1402716473995317252,feiprotocol,"Check out the medium-term roadmap on the forum! In it, we discuss a protocol upgrade, core lending integrations and the other coming initiatives:
+
+https://t.co/rvsih9h6DG",31,2,8,2021-06-09
+125,2021-06-10 19:59:42+00:00,1403079447654191104,feiprotocol,"Fei-Rari Integration snapshot vote is now live 👇
+@RariCapital 🤝 
+
+https://t.co/h3dwnhkYoH",52,1,11,2021-06-10
+128,2021-06-11 16:44:55+00:00,1403392813451005952,feiprotocol,New core lending integration for $FEI at https://t.co/ErOuzh7pd9 https://t.co/RfHfcDXmcx,55,3,9,2021-06-11
+129,2021-06-14 01:20:34+00:00,1404247359379296257,feiprotocol,"On-chain voting to further our partnership with @RariCapital will be submitted at 10 am PT tomorrow and voting will start 12 hrs later
+
+If passed, this would be the first DAO-owned Fuse pool! We are excited to initiate the on-chain vote on this DAO to DAO integration 🏎️🌲 https://t.co/QMux66ASH7",69,5,14,2021-06-14
+130,2021-06-15 23:16:48+00:00,1404940986438938625,feiprotocol,"The recent snapshot vote to use @Chainlink as our primary ETH/USD oracle confirms community support, and the proposal has been submitted to the DAO as FIP-8. Voting will take place ~10pm Pacific Time tonight.",411,12,43,2021-06-15
+132,2021-06-16 23:20:54+00:00,1405304406514356231,feiprotocol,Thanks to all who pushed this forward!! This is the first of many DAO to DAO proposals and we could not be more excited to further partner with the @RariCapital community 🏎🌲,23,1,2,2021-06-16
+136,2021-06-18 18:05:23+00:00,1405949781944397826,feiprotocol,"FIP-7 Fei-Rari Integration has been executed! @RariCapital 
+
+The Fei DAO is now the admin of Fuse pool 8 and 10M $FEI has been supplied to bootstrap liquidity for borrowers.",42,2,9,2021-06-18
+140,2021-06-24 22:27:38+00:00,1408190102728151042,feiprotocol,👇@biancoresearch knows DeFi https://t.co/XFso9blegF,11,0,3,2021-06-24
+141,2021-06-25 00:04:10+00:00,1408214399735660545,feiprotocol,$FEI 👀🌲👻 https://t.co/OgfQg7dQu8,34,1,7,2021-06-25
+143,2021-06-30 22:13:46+00:00,1410360941250682884,feiprotocol,Check out this proposal to add $TRIBE incentives to the pool: https://t.co/qhnI6dMLWO,10,0,1,2021-06-30
+144,2021-07-02 16:12:41+00:00,1410994849898057729,feiprotocol,"Tribe Community member @eswak submitted FIP-9 for the Fei DAO to buy 10,000 stETH on @LidoFinance, and voting is now live! 🌲",36,2,2,2021-07-02
+146,2021-07-04 23:04:12+00:00,1411823185624846336,feiprotocol,"The proposal just executed. Fei Protocol is now the proud owner of 10,000 $stETH 🚀",28,2,3,2021-07-04
+148,2021-07-07 03:24:28+00:00,1412613457665425413,feiprotocol,"Vote and discuss here 👇
+￼
+🗳: https://t.co/3wGja3LVSv
+
+🗣:  https://t.co/tozzrnisGg",6,0,1,2021-07-07
+150,2021-07-09 16:32:06+00:00,1413536449954295810,feiprotocol,$FEI and $TRIBE are live on Kashi! 🌲🤝🍣 https://t.co/ju8qTuEdLT,36,0,8,2021-07-09
+152,2021-07-10 19:49:49+00:00,1413948595804413955,feiprotocol,The DAO proposal to add 2M TRIBE incentives to the @saddlefinance D4 pool has passed and will be executed after the 24hr time lock.,27,2,5,2021-07-10
+155,2021-07-14 02:23:49+00:00,1415134910260473856,feiprotocol,"FEI is starting to integrate across DeFi and we are excited to continue to build with the Tribe Community! We have heard the community expressing interest in Fei NFTs so 
+we’ve partnered with @illuviumio for a giveaway! https://t.co/TcYij2HNgc",49,5,11,2021-07-14
+158,2021-07-15 21:12:09+00:00,1415781255149359109,feiprotocol,@tfxxgh It’s live now! Provide liquidity https://t.co/2KJGyYt3A0                and stake here https://t.co/i0l3wwW3vH,0,0,0,2021-07-15
+160,2021-07-16 01:07:05+00:00,1415840378666684420,feiprotocol,"Rewards are live on the @saddlefinance D4 Pool!
+
+Learn how to earn $TRIBE, $FXS, $ALCX, and $LQTY rewards 👇
+
+https://t.co/vOwWQ7leVw",21,0,5,2021-07-16
+162,2021-07-18 01:14:04+00:00,1416566911760957444,feiprotocol,"We updated the interest rate models on the FeiRari Fuse pool. Very low borrow % APR on 10M $FEI liquidity 👀
+
+https://t.co/dvdbKefIlq @RariCapital https://t.co/jboshEeyqL",41,0,10,2021-07-18
+163,2021-07-19 17:24:56+00:00,1417173625346707458,feiprotocol,"The Tribe Community and the Fei Core Team support this proposal with @Bancor, and on boarding $TRIBE would benefit our mutual users, communities, LPs, and increase trading volume on Bancor.
+
+We appreciate the support of @PrimalGlenn and the Bancor community!",16,1,3,2021-07-19
+165,2021-07-20 17:12:28+00:00,1417532875394666496,feiprotocol,We’ll be seeding some $FEI liquidity soon 🌲 🤝 🦉 https://t.co/rR2nV9O83c,36,1,9,2021-07-20
+168,2021-07-26 13:00:20+00:00,1419643750352031745,feiprotocol,The proposal passed to whitelist #TRIBE on @Bancor! Single sided #TRIBE staking coming soon 🌲,10,0,3,2021-07-26
+169,2021-07-30 20:19:28+00:00,1421203811561992192,feiprotocol,$FEI on UniV3 thanks to @gelatonetwork 🍦 🌲 https://t.co/pqUOlVk2Hm,26,1,6,2021-07-30
+170,2021-08-01 04:13:54+00:00,1421685596196507654,feiprotocol,"A BIG vote is live to seed 19M $FEI liquidity across 
+* @CreamdotFinance, 
+* @RariCapital Fuse pools for @indexcoop,  @OlympusDAO, @harvest_finance, @Tetranode, @ChainLinkGod    
+* @SushiSwap Kashi pairs for $ETH, $TRIBE, $xSUSHI and $DPI
+
+Quite the line-up 🔥",84,2,13,2021-08-01
+174,2021-08-02 20:13:33+00:00,1422289489938944009,feiprotocol,"The vote to seed lending liquidity (FIP-13) passed! It will be executed at 11am PT 🌲
+
+Get ready to have FEI borrow liquidity all over the place",17,0,7,2021-08-02
+175,2021-08-04 05:17:03+00:00,1422788650207641600,feiprotocol,"$FEI is the #1 most borrowed asset on @RariCapital, and is in 4 of the 5 top pairs on Kashi by @SushiSwap 
+
+These deployments will generate yields for the protocol, bootstrap FEI interest rate markets, and support $FEI as the highly liquid and decentralized stablecoin for DeFi 🌲",22,1,9,2021-08-04
+182,2021-08-07 16:00:47+00:00,1424037818179801088,feiprotocol,"1/ Vote live to add an @indexcoop $DPI bonding curve for purchasing $FEI with 10M subsidized 👀
+
+🗳️ https://t.co/OHmASFGc8k",32,2,7,2021-08-07
+187,2021-08-09 04:02:03+00:00,1424581719261208587,feiprotocol,The vote to add a $DPI bonding curve passed! It should execute tomorrow at 2 AM UTC,9,0,3,2021-08-09
+191,2021-08-10 03:11:23+00:00,1424931355339550723,feiprotocol,"The $DPI PCV raised will be split 90% between a @SushiSwap  $DPI - $FEI pool and 10% to the @indexcoop Fuse Pool on @RariCapital 
+
+Check it our here 👇
+https://t.co/00dKDVlVPo",16,0,3,2021-08-10
+194,2021-08-18 15:50:39+00:00,1428021532190670848,feiprotocol,"The on-chain DAO Vote to open a bonding curve for $DAI with a target scale and cap of 50M is now live!
+
+New bonding curves offer Fei Protocol a way to:
+✅ Supply liquidity with the raised asset
+✅ Earn Yield
+✅ Grow Protocol Controlled Value (PCV)",25,4,8,2021-08-18
+197,2021-08-19 22:24:37+00:00,1428483066507403266,feiprotocol,"There was a bug in the @voteWithTally governance UI, but, we are confident that this has not affected the intended outcome of any proposals, especially because we use @SnapshotLabs to gather consensus in the community before making an on-chain proposal. https://t.co/s0m3aq1SVu",11,2,2,2021-08-19
+203,2021-08-24 23:08:55+00:00,1430306153188184064,feiprotocol,"And $TRIBE will be listed on @KuCoin! 
+
+https://t.co/UTjqyhUdfm",35,0,8,2021-08-24
+207,2021-08-25 20:19:38+00:00,1430625938438377472,feiprotocol,Read more on our forum: https://t.co/xIEdPvZ57p,8,0,2,2021-08-25
+210,2021-08-28 00:37:31+00:00,1431415612899614723,feiprotocol,"We are excited to announce the Fei Grants program!
+
+Check out the announcement post here👇https://t.co/LAzxdjByWP https://t.co/U8CUjSX1iA",48,8,11,2021-08-28
+216,2021-08-29 17:07:53+00:00,1432027238031978500,feiprotocol,"Our First Tribal Gathering will be held on Tuesday, August 31 at 10am PT. See you there! 🌲
+
+🗓️: https://t.co/LxTMY0Pbys https://t.co/wk0lVbD1xG",23,3,3,2021-08-29
+217,2021-08-31 16:49:47+00:00,1432747454726696960,feiprotocol,The Tribal Gathering will start in our discord in 10 minutes! https://t.co/nusP6IJd4K,22,5,5,2021-08-31
+221,2021-09-02 17:32:19+00:00,1433482936360181773,feiprotocol,"The TribalChief staking rewards upgrade has just been proposed on-chain!
+
+🗳️https://t.co/cOKU4CMRr9 
+
+Voting will be live in 10 hours and last for 36 hours 🌲",16,1,6,2021-09-02
+227,2021-09-03 19:13:25+00:00,1433870765674438689,feiprotocol,"Reminder: if the TribalChief staking rewards upgrade passes, existing $FEI - $TRIBE LP stakers will need to start migrating funds at 12pm PT / 7pm UTC on Sunday Sept 5 to continue earning $TRIBE rewards 🌲 https://t.co/lLiYmH5Ghz",20,6,8,2021-09-03
+228,2021-09-06 23:16:03+00:00,1435018990988890115,feiprotocol,"Lastly, FeiRari should have TRIBE single-sided rewards as soon as the capability is added to Fuse. We'll keep you posted on that front as we get more info 🌲",4,0,1,2021-09-06
+234,2021-09-07 00:11:21+00:00,1435032906691342338,feiprotocol,Rock party 🪨🌲🗿 https://t.co/OdBY4gzZsW,20,6,4,2021-09-07
+235,2021-09-08 17:25:45+00:00,1435655609894903811,feiprotocol,Join us at 5PM PT/12AM UTC today on twitter spaces with @RariCapital! https://t.co/jZ5MYvrWtt,7,0,3,2021-09-08
+236,2021-09-09 23:43:02+00:00,1436112945335857170,feiprotocol,"Join us @ the Bowery Hotel from 6pm-10pm on September 19 in NYC... Invite only, DM for password 🥳👇
+
+https://t.co/D68JqHSjtP",12,0,3,2021-09-09
+238,2021-09-10 22:45:32+00:00,1436460861216878602,feiprotocol,"We are very pleased to announce the latest addition to the Fei Labs team, Caleb🌲 https://t.co/slpBArL7jA",34,3,6,2021-09-10
+242,2021-09-11 00:00:00+00:00,1436479603413897220,feiprotocol,"$TRIBE was recently added to two @RariCapital Fuse pools. This is great signaling for the Tribe! Check them out 👇
+
+@Tetranode's Pool 6
+https://t.co/Wwag87if3E
+
+@ChainLinkGod's Pool 7
+https://t.co/gZN52EFDQY",61,1,8,2021-09-11
+243,2021-09-13 19:55:13+00:00,1437505164076744708,feiprotocol,"Let's add $FEI to @AaveAave V2 and continue to support true decentralization! 🤝
+
+🗳 Vote is live: https://t.co/y9EDgdKIhb",56,2,9,2021-09-13
+249,2021-09-14 23:32:53+00:00,1437922330458550272,feiprotocol,"@vndc_official By the way, direct incentives are not implemented in the protocol anymore and you are using the wrong logo for $TRIBE .. Here are our brand assets https://t.co/v7k5qvcB9D",2,1,1,2021-09-14
+250,2021-09-15 01:55:04+00:00,1437958113873649666,feiprotocol,The rocks will save us 🪨 🌲 https://t.co/Vi1sv1sGGK,28,7,7,2021-09-15
+251,2021-09-16 22:39:53+00:00,1438633769053786114,feiprotocol,"There is currently a vote up to refund 400 FEI to all users who transition before Sept 30!
+
+https://t.co/kqFvMB03QD",10,0,5,2021-09-16
+255,2021-09-17 19:30:30+00:00,1438948497621864448,feiprotocol,"We 💚 @AaveAave !
+
+Great analysis by Anjan about the current and future synergies between our communities 👇 https://t.co/cyZZKzkkCN",29,0,4,2021-09-17
+256,2021-09-19 17:58:21+00:00,1439650080525467652,feiprotocol,"$FEI passed the listing vote and will be added to @AaveAave tomorrow 💥
+
+This is a HUGE milestone for Fei Protocol. Soon DeFi users can borrow FEI against any of the ~20 liquid collateral tokens on Aave 👀
+
+What does this mean for Fei? 👇",159,3,36,2021-09-19
+261,2021-09-20 17:03:34+00:00,1439998681122369539,feiprotocol,"There are still 10 more days to migrate staking rewards and earn the 400 FEI gas refund!
+
+Head to https://t.co/8sCsIV7BiG to migrate
+
+Current APR over 40% on $220m of TVL 🤯 https://t.co/xVXB1BRmdC",20,3,5,2021-09-20
+263,2021-09-22 02:57:33+00:00,1440510550069243918,feiprotocol,"A vote to seed 25m FEI liquidity and add TRIBE incentives for borrowing on @AaveAave has been submitted! 
+
+🗳️ https://t.co/ebcAl5LK2Q
+
+Voting will be live in about 8 hours 🔥 https://t.co/UItFrjVIJ3",32,3,9,2021-09-22
+264,2021-09-24 19:08:55+00:00,1441479778490454022,feiprotocol,"Vote to raise bonding curve capacity and tighten the FEI redemption spread to 0.5%!
+
+🗳️https://t.co/1eDmzMIi2O
+
+It increases capacity for:
+1⃣ @indexcoop @defipulse DPI to 50m
+2⃣ @MakerDAO DAI to 150m
+3⃣ @reflexerfinance RAI to 20m
+
+This furthers PCV growth and diversification🌲",33,1,7,2021-09-24
+265,2021-09-25 22:30:08+00:00,1441892805832441860,feiprotocol,"You can see APR and claim rewards on https://t.co/qhkLB3HR4k
+
+We’re working with the Aave community to get rewards APR displayed on the Aave site, which will hopefully go live this week!",15,1,3,2021-09-25
+267,2021-09-26 16:35:18+00:00,1442165895481085952,feiprotocol,$TRIBE single-sided staking 🔜 ™️ https://t.co/qfIaOacpO6,45,4,11,2021-09-26
+268,2021-09-28 18:55:01+00:00,1442925833111277570,feiprotocol,This @gelatonetwork integration is SWEET🍦😋 https://t.co/W1G3P8rmzJ,28,2,6,2021-09-28
+270,2021-10-05 21:14:09+00:00,1445497562618728461,feiprotocol,We look forward to discussing Fei v2 and more with the wider community! See you there 🌲,6,0,2,2021-10-05
+279,2021-10-06 23:18:14+00:00,1445891177463488518,feiprotocol,Balancer makes this MUCH easier 💪 https://t.co/qhUMFMgl1y,23,0,5,2021-10-06
+288,2021-10-07 19:28:38+00:00,1446195781916971008,feiprotocol,@0xTitus @Barn_Bridge @ErinDana 👀,1,0,0,2021-10-07
+291,2021-10-08 23:47:56+00:00,1446623427649945603,feiprotocol,"$TRIBE rewards will start today!
+
+The Fei DAO was the first DAO to actively manage a Fuse pool and now the first to provide liquidity mining incentives. 
+
+Rewards are looking pretty good 👀
+
+Check it out 👇
+
+https://t.co/kgHY9EphzM",16,2,5,2021-10-08
+295,2021-10-09 18:53:28+00:00,1446911710024011776,feiprotocol,"@r3marqable @RariCapital APR should be correct, we will check with Rari team now",5,1,0,2021-10-09
+297,2021-10-11 15:49:11+00:00,1447590109348388869,feiprotocol,@pierslomax1 @RariCapital Yes!,0,0,0,2021-10-11
+298,2021-10-14 17:19:20+00:00,1448699957737754626,feiprotocol,@h4ki_ No one cheated anyone! Please go to https://t.co/7e8bj1JgbA to redeem. Feel free to dm for assistance,0,0,0,2021-10-14
+299,2021-10-16 20:20:20+00:00,1449470286160482304,feiprotocol,"1M $FEI now available in each of @gelatonetwork and @NFTX_ Fuse Pools on @RariCapital! 
+
+Go get that liquidity 🌊 https://t.co/WMG0WbzD0J",88,8,12,2021-10-16
+302,2021-10-17 21:32:48+00:00,1449850908376846337,feiprotocol,@delitzer @META_DREAMER @BalancerLabs Who me?,2,0,0,2021-10-17
+303,2021-10-18 16:51:37+00:00,1450142535217598464,feiprotocol,What are YOU doing with your $TRIBE rewards? 👀 https://t.co/8nccGbnvPe,12,2,2,2021-10-18
+304,2021-10-19 01:40:08+00:00,1450275540225511426,feiprotocol,"Fei Protocol is partnering with @OndoFinance to provide the cheapest liquidity in DeFi: Liquidity as a Service (LaaS)🤝
+
+Check out this overview of DeFi liquidity by Joey to see where this service fits: https://t.co/lWaMJxIjOP",44,3,14,2021-10-19
+308,2021-10-20 16:42:00+00:00,1450864892815175682,feiprotocol,"Go get that Idle yield 🔥
+
+Excited to be have $FEI integrated with this awesome protocol! https://t.co/RIGHUML0dh",39,0,7,2021-10-20
+309,2021-10-21 17:49:54+00:00,1451244366001967105,feiprotocol,"Reach out to be part of the limited launch group🚀👇
+
+https://t.co/KJZR87YV3h",5,0,1,2021-10-21
+311,2021-10-22 02:28:12+00:00,1451374802921406469,feiprotocol,30k 👀,40,3,2,2021-10-22
+314,2021-10-27 20:01:54+00:00,1453451913702219785,feiprotocol,"@CreamdotFinance suffered an exploit earlier today, which included a $FEI market as well. 
+
+This will not disrupt the FEI peg or protocol mechanisms due to diversified PCV deployment strategies Fei Protocol utilizes.",10,1,2,2021-10-27
+319,2021-10-29 15:18:19+00:00,1454105321698250756,feiprotocol,@Fernjosh1 Works fine for me!,1,1,0,2021-10-29
+322,2021-10-30 00:34:47+00:00,1454245360423948288,feiprotocol,"- $TRIBE buy backs coming as soon as next week
+- Migration gas refund
+- Single side TRIBE staking on @RariCapital Fuse",13,1,6,2021-10-30
+326,2021-10-31 18:50:34+00:00,1454883512851451913,feiprotocol,🥳 @ShapeShift_io $FOX holders can now access 1 million $FEI of liquidity in the Fox and Frens @RariCapital Fuse pool 🤝 https://t.co/m7VhkzM3Ur,60,2,23,2021-10-31
+327,2021-11-01 00:32:15+00:00,1454969499204022275,feiprotocol,1m FEI seed liquidity coming tomorrow 👀 https://t.co/6potHb6kby,13,1,5,2021-11-01
+331,2021-11-03 17:08:01+00:00,1455944868174319623,feiprotocol,"We are pleased to announce our newest hire, @eswak
+
+Erwan is an experienced solidity developer who had previously built rovers to go to Mars!  
+
+Erwan has been involved and contributed to Fei Protocol since its launch, and we could not be more excited to have him join the team. https://t.co/J2CfsgIlXu",43,3,7,2021-11-03
+332,2021-11-04 01:45:10+00:00,1456075013732253706,feiprotocol,"15 minutes until the Tribal Gathering! See you in discord...
+
+👇
+
+https://t.co/7qJvdNeToa",8,0,3,2021-11-04
+336,2021-11-05 22:43:59+00:00,1456754192668786690,feiprotocol,"v2 Dec 15th, $TRIBE buy backs launch today💸 
+
+https://t.co/NXUmRyjbKE",39,1,11,2021-11-05
+340,2021-11-06 18:00:00+00:00,1457045114879037445,feiprotocol,"🌲There is still 3 weeks left for submissions for Batch 1 of the Fei Grants Program🌱
+ 
+Apply here:
+https://t.co/VrhsdndIcF",26,1,8,2021-11-06
+341,2021-11-08 15:16:33+00:00,1457728754776559626,feiprotocol,@guneetkochar https://t.co/8zThygwM5M 🤝,0,1,0,2021-11-08
+342,2021-11-09 03:05:03+00:00,1457907058460614672,feiprotocol,"Big proposal from @OneTrueKirk to have Fei as a strategic launch partner and stakeholder!
+
+DAO 2 DAO is the future 🤝 https://t.co/hY7DKui0pL",26,1,5,2021-11-09
+349,2021-11-12 22:15:55+00:00,1459283845979639808,feiprotocol,"The Tribe just allocated 10,000 ETH (~$46m) to the @TokenReactor $tWETH pool 💥
+
+If $TRIBE gets a reactor in C.O.R.E. 2, Fei Protocol will seed 6m TRIBE (~$8m) in a treasury swap 🤝
+
+$TOKE holders, you know what to do 😏 https://t.co/dQeVCWWXWW",127,9,21,2021-11-12
+351,2021-11-13 03:09:12+00:00,1459357650521497604,feiprotocol,"In a few hours, ~$3M in $TRIBE buybacks will start per week (20% APR of Protocol Equity) 🎆
+
+$TRIBE buybacks run through @BalancerLabs Liquidity Bootstrapping Pools 👇
+
+https://t.co/agcEXyHamT",23,2,2,2021-11-13
+354,2021-11-15 06:49:30+00:00,1460137870119751682,feiprotocol,@DefiMoon 👀 https://t.co/sNFXnT4zFJ,5,0,2,2021-11-15
+356,2021-11-16 19:42:46+00:00,1460694856930496514,feiprotocol,"$RGT 🤝 $TRIBE
+
+Lets discuss the potential of a joint merge!
+
+Tribe forum: https://t.co/D5yul5C7bw
+
+Rari forum: https://t.co/p0t3rGbgq1 https://t.co/sAaLBHEKTs",98,13,19,2021-11-16
+357,2021-11-18 04:56:55+00:00,1461196698462552068,feiprotocol,@fraxfinance @ConvexFinance @AlchemixFi Rock party! 🪨 🤝,15,0,2,2021-11-18
+358,2021-11-19 00:29:11+00:00,1461491708848340994,feiprotocol,"Join the FeiRari Town Hall 👇
+
+https://t.co/kq57QgUCW2",19,2,6,2021-11-19
+359,2021-11-24 17:00:06+00:00,1463553019979595781,feiprotocol,Excited to partner with Balancer on Fei v2 and beyond 🚀 https://t.co/XXUQ8ECCvf,20,1,8,2021-11-24
+364,2021-11-30 16:29:31+00:00,1465719651841753088,feiprotocol,"Join us today at 11am PT for a community call with @OndoFinance and our Laa$ (Liquidity-as-a-Service) partner @groprotocol! We will be on discord to answer any questions the community might have about our $100M launch
+
+https://t.co/7qJvdMXiwC
+
+https://t.co/vDZxumiHFa",24,0,7,2021-11-30
+367,2021-12-02 19:32:57+00:00,1466490589038485506,feiprotocol,"Check out the November version of the Fei Newsletter 👇
+
+https://t.co/xNWJ0FxXkp
+
+Highlights include: 
+
+➡️ $100M Laa$ launch
+➡️ Fei &lt;&gt; Rari Token Merge
+➡️ End of Grants Batch #1
+➡️ $TRIBE buybacks",27,0,4,2021-12-02
+368,2021-12-11 23:44:15+00:00,1469815321892515842,feiprotocol,"🚨 This likely affects holders of G-UNI DAI-FEI. 
+
+Revoke ERC-20 approvals before taking any other action. Funds held in the contract are not affected by the vulnerability but approvals are affected. https://t.co/HWn3NCOjte",28,0,5,2021-12-11
+369,2021-12-14 02:43:27+00:00,1470585194604158978,feiprotocol,"If you have interacted with Sorbet Finance with G-UNI, make sure you revoke ERC-20 approvals ASAP. More info below 👇 https://t.co/TNtWEExEZ1",17,1,5,2021-12-14
+371,2021-12-17 01:28:53+00:00,1471653595162419202,feiprotocol,"Fei v2 IS HERE💥
+
+⚖️1:1 redeemability 
+💪Fully decentralized PCV
+📈Massive $TRIBE incentive alignment",103,4,19,2021-12-17
+377,2021-12-18 21:09:30+00:00,1472313092604239872,feiprotocol,"Cross-DAO voting of epic proportions begins now 💥
+
+Vote on the historic FeiRari proposals here ⏬
+🏎️  Rari - https://t.co/nf5coOoTTB 
+
+🌲 Fei - https://t.co/4ZjqL1rfzw",67,2,15,2021-12-18
+378,2021-12-20 01:08:38+00:00,1472735662298202114,feiprotocol,"Fei v2 is live with a massive upgrade to the protocol! 💥
+
+⚖️ 1:1 redeemability 
+💪 Fully decentralized PCV
+📈 Massive $TRIBE incentive alignment
+
+This is just the beginning, a big year ahead for the Tribe! https://t.co/guoRB6I4cJ",73,5,19,2021-12-20
+380,2021-12-21 01:28:53+00:00,1473103143953068033,feiprotocol,"Check out the new look 👇
+
+https://t.co/QxgGm92OJu https://t.co/WFw1vtCIo8 https://t.co/oCQ7XHytIZ",52,7,8,2021-12-21
+381,2021-12-22 07:46:15+00:00,1473560501506302022,feiprotocol,Monumental day for the Tribe! https://t.co/HD38dDK9K5,45,0,10,2021-12-22
+382,2021-12-23 19:56:57+00:00,1474106774793818114,feiprotocol,$RGT -&gt; $TRIBE exchange starts in less than 2 hours 🤯 https://t.co/jQS0Ze2MCB,75,3,16,2021-12-23
+385,2021-12-24 15:38:46+00:00,1474404190881345540,feiprotocol,@leevide1 @gelatonetwork @davesaidthat_,2,0,0,2021-12-24
+386,2022-01-01 16:51:34+00:00,1477321612701495296,feiprotocol,"This year we want to make it as easy as possible for DAOs to get liquidity 💥 
+
+LaaS, Fuse, Vaults, and new products on the way 👀
+
+What are your goals for 2022??",98,5,12,2022-01-01
+387,2022-01-04 03:09:12+00:00,1478201820698660870,feiprotocol,"We are moving ALL $TRIBE liquidity mining rewards to Fuse over the next month 🤯
+
+This is the first of many tight integrations between Fei and Rari to expect after the merger 👀
+
+Here are all the benefits of this move 👇",132,10,25,2022-01-04
+392,2022-01-10 04:47:38+00:00,1480400918365437953,feiprotocol,"Hop into the FeiRari 🏎
+
+https://t.co/Us8DUCSpNy https://t.co/tko3BSspne",22,2,0,2022-01-10
+393,2022-01-11 05:39:23+00:00,1480776330039873539,feiprotocol,"Get your $CRV and $CVX ready degens 😏
+
+https://t.co/nwNDzhaFyS
+
+@CurveFinance @ConvexFinance https://t.co/Rhux1TT5mH",258,17,42,2022-01-11
+396,2022-01-12 04:37:16+00:00,1481123085386272769,feiprotocol,"@news_of_bsc Great article! You describe old Fei v1 mechanisms in it though. Check out v2! 👇 
+
+https://t.co/bbq1CZdGXE",3,0,0,2022-01-12
+397,2022-01-14 18:31:09+00:00,1482057717879554049,feiprotocol,"You can also borrow $FEI on @AaveAave to earn $TRIBE rewards 
+
+https://t.co/qhkLB3ZssU",6,0,1,2022-01-14
+399,2022-01-15 00:10:09+00:00,1482143028974219265,feiprotocol,🤝💚 https://t.co/VTar2Ct3mN,47,4,9,2022-01-15
+400,2022-01-20 04:03:59+00:00,1484013812944543749,feiprotocol,"Liquidity is King 👑
+
+https://t.co/KvuIbxi1bm",44,1,5,2022-01-20
+402,2022-01-22 22:49:02+00:00,1485021716409556995,feiprotocol,"Lets make the most out of our Curve liquidity 💪
+
+Go vote! https://t.co/mDWqBs7Lnv",20,0,3,2022-01-22
+404,2022-01-23 04:00:09+00:00,1485100012216324097,feiprotocol,The Tribe sticks together 💚 https://t.co/ESq5988Kyb,30,0,2,2022-01-23
+405,2022-01-28 23:13:48+00:00,1487202277718781952,feiprotocol,"Tribe Turbo: the evolution of credit and lending in DeFi
+
+https://t.co/Th8GOERVmp",121,4,18,2022-01-28
+410,2022-01-29 04:36:05+00:00,1487283384292622337,feiprotocol,Big vote all! Get your $COMP ready 👀 https://t.co/idW6OQdQfO,41,0,6,2022-01-29
+411,2022-02-01 00:21:20+00:00,1488306435553312770,feiprotocol,$FEI is now collateral on @AaveAave 🔥 https://t.co/3eZO2iPdHj,171,1,15,2022-02-01
+412,2022-02-03 09:01:08+00:00,1489162026207248396,feiprotocol,"The Tribe community hit another milestone 
+
+The vote passed to add $FEI to 
+@compoundfinance
+
+https://t.co/mT46EHpG9a https://t.co/rh1hkb5P3t",131,19,19,2022-02-03
+413,2022-02-06 19:23:41+00:00,1490405859578433539,feiprotocol,📢📢📢 https://t.co/UM4UCJT2v0,24,0,3,2022-02-06
+414,2022-02-10 02:17:27+00:00,1491597147858354178,feiprotocol,"All $TRIBE rewards are now pointing to FeiRari Fuse Pool 8 🔥
+
+Borrow $FEI against your LP while farming 💪 
+
+Over 300m in the pool, and nearly 200 more waiting to migrate 👀
+
+Go migrate or join the pool! 
+
+https://t.co/qhkLB3HR4k",55,2,6,2022-02-10
+415,2022-02-11 20:07:50+00:00,1492228909424787458,feiprotocol,"Join us for the next Tribal Gathering to discuss how the Tribe DAO is planning to enhance DAO governance through Liquid Representative Democracy 🤯
+
+Wen: Monday, February 14 at 7pm PT
+
+Where: https://t.co/7qJvdNeToa",26,1,8,2022-02-11
+417,2022-02-14 02:24:19+00:00,1493048428942659585,feiprotocol,"You: watches the SuperBowl 🥱
+
+The Tribe: increases cash flow by $3m per year 😏
+
+How? Resupply 30m @CurveFinance d3 LP tokens on @RariCapital Fuse into @ConvexFinance for 10% APR 🤑",61,2,6,2022-02-14
+419,2022-02-15 01:22:10+00:00,1493395177355956225,feiprotocol,"Join us soon (7pm PT) in discord for our Tribal Gathering to discuss how the Tribe DAO is planning to enhance DAO governance through Liquid Representative Democracy  👇
+
+https://t.co/7qJvdNeToa",9,0,4,2022-02-15
+420,2022-02-18 20:17:26+00:00,1494768038511480835,feiprotocol,"YOU DEGENS SOLD US OUT. We love you. See you tonight!
+
+https://t.co/jM9nPvrElv",30,2,5,2022-02-18
+421,2022-02-22 23:38:49+00:00,1496268270583877633,feiprotocol,"Our devs are 🔥🔥🔥🔥🔥
+
+@sdalcega @notnotstorm @kryptoklob @ElliotCryptoRev @eswak @tom_waite_ @joey__santoro https://t.co/DktGX4et7z",40,6,5,2022-02-22
+422,2022-03-09 20:32:41+00:00,1501657247163641860,feiprotocol,"If this initial snapshot passes, the election process for the Tribal Council will begin, which will be a subsequent snapshot vote.
+
+🗳️ Go vote on this historic proposal! https://t.co/oWzHDPDvtn",9,0,0,2022-03-09
+430,2022-03-10 07:14:10+00:00,1501818680237182976,feiprotocol,@synthetix_io Can’t wait to see this! Does it have any “optimistic” mechanisms (timelock + veto)?,1,0,0,2022-03-10
+431,2022-03-17 00:29:56+00:00,1504253666483531784,feiprotocol,"5 Million $FEI is now available for borrow on @compoundfinance 💥
+
+https://t.co/FqJ6XaFCu6 https://t.co/xPBcoH4pnF",44,2,4,2022-03-17
+432,2022-03-22 21:56:55+00:00,1506389487131127809,feiprotocol,"Stablecoin liquidity = minimized borrow rates for @ConvexFinance / @CurveFinance farmers in Fuse pool #156 where you can borrow against your positions while also continuing to earn rewards 🤑
+
+https://t.co/V1uVoyjWRl https://t.co/lA9Twr6dLN",16,2,4,2022-03-22
+434,2022-03-23 02:00:15+00:00,1506450721083846660,feiprotocol,"Tokenomics revamp discussion is up on the forum 
+
+https://t.co/2mM3rGGIdt",17,0,0,2022-03-23
+441,2022-03-24 22:49:32+00:00,1507127504850415618,feiprotocol,"xTRIBE evolution of TRIBE tokenomics.
+More here 👇
+
+https://t.co/oqNxjP9Dvw",9,0,3,2022-03-24
+445,2022-03-29 03:12:02+00:00,1508643115904602115,feiprotocol,"Join us tomorrow for an AMA style Tribal Gathering on Turbo and $xTRIBE at 10am PT in the Fei Protocol Discord! 👇
+
+https://t.co/7qJvdNeToa",32,1,15,2022-03-29
+448,2022-04-01 04:31:52+00:00,1509750370301403142,feiprotocol,"$TRIBE is now listed on Kraken 
+
+👀 https://t.co/xsaAxRzsac",29,2,3,2022-04-01
+449,2022-04-03 00:11:44+00:00,1510409681696567296,feiprotocol,@Justice80327376 Yes $TRIBE is the governance token of Fei and @RariCapital,1,0,0,2022-04-03
+450,2022-04-13 15:00:26+00:00,1514257208170622979,feiprotocol,"Interested in participating in Tribe Turbo? Reach out on discord in #Turbo
+
+https://t.co/m1Kg0ZFesM",7,0,0,2022-04-13
+456,2022-04-20 20:00:24+00:00,1516869413437382657,feiprotocol,"Get whitelisted 
+
+https://t.co/eqUwJJ15Nz
+
+and earn revenue ✅",7,0,0,2022-04-20
+458,2022-04-21 12:02:48+00:00,1517111609629552641,feiprotocol,"$xTRIBE code review contest with @code4rena is now live!
+
+Get to it, anon https://t.co/5GwUo21ShS",19,1,6,2022-04-21
+461,2022-04-22 08:00:02+00:00,1517412902164000768,feiprotocol,"GM ETHAmsterdam
+
+Come hack with @tom_waite_ … Tribe DAO prizes for:
+
+🚀 Best use of Tribe Turbo
+🛠 Best use of ERC 4626
+🎡 Best use of FlyWheel V2
+
+Start building the future of DeFi today 4:30pm rm#5",21,6,4,2022-04-22
+463,2022-04-30 10:08:53+00:00,1520344430242254849,feiprotocol,"We are aware of an exploit on various Rari Fuse pools. We have identified the root cause and paused all borrowing to mitigate further damage.
+
+To the exploiter, please accept a $10m bounty and no questions asked if you return the remaining user funds.",1221,162,306,2022-04-30
+466,2022-06-08 21:00:45+00:00,1534641604144910338,feiprotocol,🚀🤝 https://t.co/S8Ym8C7uzh,17,3,4,2022-06-08
+467,2022-06-11 13:02:24+00:00,1535608387290947584,feiprotocol,"TRIBE incentives have now been discontinued across the Tribe ecosystem to:
+💎 preserve protocol equity
+🤝 end farm and dump strategies
+📈 reduce costs to refocus on real growth and utility
+
+All planned incentives are now in the treasury for future Tribe ecosystem initiatives",39,11,5,2022-06-11
+469,2022-06-13 17:01:17+00:00,1536393282204315649,feiprotocol,"90% of the 190m circulating FEI backed 1:1 by stable assets, primarily DAI and LUSD with the remainder well overcollateralized by 30,000 ETH and 50,000 stETH
+
+Smart contract risk has been minimized, with primary exposure being Compound, Aave, Balancer, Liquity, and Lido",78,6,17,2022-06-13
+471,2022-06-14 23:02:22+00:00,1536846535979192320,feiprotocol,"The ""TIP-112: Fuse Repayment Next Steps"" vote goes live at 4pm PT tomorrow June 15
+
+Be sure to delegate your TRIBE to be eligible to vote: https://t.co/xI7lfsILhb",25,18,4,2022-06-14
+472,2022-06-15 23:09:13+00:00,1537210650081931265,feiprotocol,"This vote is live for 48 hours
+
+Go vote on Tally here: https://t.co/0TKXcTAa76 https://t.co/p0MG4QhQwD",39,61,10,2022-06-15
+473,2022-09-09 20:01:10+00:00,1568328679960498176,feiprotocol,"The @code4rena Audit Contest begins NOW for 3 days!
+
+The code in scope would be proposed for Full Fuse Hack Payment, 1:1 DAI wrapping of FEI, and TRIBE pro rata redemption of PCV.
+
+Happy 🪲 hunting: https://t.co/XJ11QUIYv2 https://t.co/gVhOySlbeQ",29,10,9,2022-09-09

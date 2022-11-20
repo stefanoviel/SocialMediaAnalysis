@@ -1,0 +1,1867 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-01 03:05:03+00:00,1212208082807246850,Quantstamp,"While many of us are familiar that the DAO exploit was caused by what is known as a ""Re-Entrancy Attack""...
+
+What exactly is a re-entracy vulnerability? 
+How does it work, and how can it be prevented?
+
+Senior Research Engineer Martin Derka explains 🧠
+https://t.co/nrBSWHgp6F",20,1,4,2020-01-01
+1,2020-01-03 19:00:54+00:00,1213173407962976257,Quantstamp,"In his latest @Forbes article, Quantstamp CEO Richard Ma explores how the supply chain sector is using blockchain to tackle long-standing issues around efficiency, information sharing and traceability.
+
+https://t.co/yOMEi2oWrv",27,1,5,2020-01-03
+2,2020-01-06 19:26:59+00:00,1214267134605287424,Quantstamp,"Quantstamp Senior Copywriter Danger Zhang has been completing each tutorial, chapter by chapter of Mastering Ethereum recently. 
+
+Follow along on his journey, @aantonop is! https://t.co/BM4QBtl1F1",26,0,4,2020-01-06
+3,2020-01-07 21:04:25+00:00,1214654041008959488,Quantstamp,Quantstamp secures the money legos 🔒 https://t.co/Eb4HQHDDkd,27,0,3,2020-01-07
+4,2020-01-10 00:48:36+00:00,1215435237238308864,Quantstamp,"Releasing a book, launching the Bounty Protocol, expanding into new markets…it was a great year! ✨ Learn more about some of the projects we worked on and milestones we reached in 2019.
+
+https://t.co/8eHv65FyCj",25,0,9,2020-01-10
+5,2020-01-13 13:48:58+00:00,1216718785895206912,Quantstamp,"We've been super busy enabling the future of #DeFi. Here are some of our favorite teams (@MakerDAO, @RampNetwork, @PoolTogether_ , @kava_labs). 
+
+Get in touch if you are a DeFi pioneer!
+
+https://t.co/xLlnG2eLGu",48,1,12,2020-01-13
+7,2020-01-20 17:24:06+00:00,1219309641215045636,Quantstamp,"Read our latest post and learn about the cutting edge of DeFi with our friends @RampNetwork, @PoolTogether_, @kava_labs and @MakerDAO. 
+
+https://t.co/xLlnG2eLGu",27,2,9,2020-01-20
+9,2020-01-21 01:56:12+00:00,1219438515781390337,Quantstamp,"In our audit of @omise_go’s More Viable Plasma we attempted to answer these questions:
+
+🕵🏼‍♀️Can financial interactions with the OMG Network be disrupted?
+🦹🏼‍♂️Can users safely leave if there is a malicious owner?
+
+For More 👇🏽https://t.co/nSKQaVrSrS",32,0,9,2020-01-21
+10,2020-01-22 00:07:02+00:00,1219773429144006656,Quantstamp,"Crypto's potential impact in places like Africa 🌍 is still underexplored.
+
+We were happy to help secure NGNT for @BuyCoins, a Nigerian cryptocurrency exchange.
+
+The digital Naira token is pegged 1:1 to the Naira, and uses @gsn_alliance to abstract away gas. https://t.co/Hc9vipoUPw",31,1,8,2020-01-22
+11,2020-01-23 20:07:10+00:00,1220437839818653697,Quantstamp,"In this post, we cover some of our favorite projects that are pushing the boundaries of the #DeFi ecosystem with our friends @MakerDAO. 
+ 
+🏦 @RampNetwork's fiat-to-crypto work 
+🎉 @PoolTogether_'s no-loss-lottery 
+🐙 @kava_labs leveraging #BTC in DeFi
+
+https://t.co/xLlnG2wn54",31,0,10,2020-01-23
+12,2020-01-24 01:08:55+00:00,1220513780037087232,Quantstamp,"@OKDunc Exchanges like @binance, DeFi projects like @MakerDAO, @compoundfinance and @PoolTogether_, and security audits - there’s a continuous stream of companies needing audits for all these use cases",6,0,0,2020-01-24
+15,2020-01-26 00:08:55+00:00,1221223453132345344,Quantstamp,"2019 was a great year for Quantstamp!
+
+📘 Published Fundamentals of Smart Contract Security
+🏦 Moving DeFi Forward
+🛡 Latest Release of the Quantstamp Decentralized Security Network
+🤖 Bounty Protocol
+🛬 New Markets: Dubai &amp; Japan
+
+https://t.co/8eHv65FyCj",30,0,13,2020-01-26
+16,2020-01-27 16:47:20+00:00,1221837102305947648,Quantstamp,"We enjoyed working with @omise_go to enhance the security of their latest plasma implementation, More Viable Plasma. 
+
+Their latest implementation features enhancements to user experience 👩‍💻. 
+
+Read the post below to learn more 👇.
+
+https://t.co/74tNuIf8pg",60,1,16,2020-01-27
+17,2020-01-28 04:35:43+00:00,1222015371059683328,Quantstamp,"We’re excited to announce that Quantstamp is off to SXSW in Austin 💥 We’ll be pitching against four other finalists in the #Blockchain category. 
+
+See you there! #sxswpitch @sxsw https://t.co/ScuSthYEyV",26,3,7,2020-01-28
+21,2020-01-29 21:54:06+00:00,1222639076551118848,Quantstamp,"Want to plant a tree for free 🌳 ?
+
+@rDAI_dao - a project we audited recently -  is now powering rTrees.
+
+rTrees lets you plant trees without spending money by leveraging interest generated from cryptocurrency sitting in your wallet.
+
+Find out more at: @rTreesDapp https://t.co/HJl8Fbxno9",28,0,10,2020-01-29
+23,2020-01-31 19:00:53+00:00,1223320264139624448,Quantstamp,"This is a great round up of the latest happenings with #Ethereum’s PoS migration plans. 👉🏽https://t.co/yqbkU1Ijdf
+ 
+⛽️*Temporary* increase in gas costs
+🥩Stake-based consensus mechanism
+🚄Higher throughput
+🛡Enhanced security 
+🧰New cross-shard services",21,1,3,2020-01-31
+25,2020-02-05 01:38:39+00:00,1224869914927755264,Quantstamp,"The Smart Contract Security Alliance recently sat down with @AmeerRosic founder and educator at @Blockgks to learn how the industry has evolved, and where the industry is headed.
+
+Read the full feature 👇🏽
+https://t.co/gHVklZlm9W https://t.co/yj5n3sy0PK",11,0,5,2020-02-05
+27,2020-02-06 21:38:56+00:00,1225534365666611202,Quantstamp,We are so excited for next week! #cantwait https://t.co/L1PpMuUxX2,23,0,7,2020-02-06
+30,2020-02-07 19:52:39+00:00,1225870004416987136,Quantstamp,"Here’s what’s been going on at Quantstamp in January:
+
+🛡️ Securing OmiseGo Plasma MoreVP 
+🏆 SXSW Pitch Finalist 
+🎸 Working with DeFi rockstars 
+⛰️ ETHDenver upcoming 
+
+Read more 👇
+https://t.co/EgP2VC64jp",18,0,3,2020-02-07
+31,2020-02-10 18:26:18+00:00,1226935437714804737,Quantstamp,"Fascinating episode of @POVCryptoPod. 
+
+@gitcoin is using novel techniques to grow the open-source economy. 
+
+Developers deserve to get paid when they add value to the ecosystem!  🤑🤑🤑 https://t.co/I3eZiR2NCR",15,0,5,2020-02-10
+32,2020-02-11 17:57:07+00:00,1227290480339120128,Quantstamp,"Logging into Ethereum apps is a snap with @authereum!
+
+Was an absolute pleasure working with the team. https://t.co/tDSByUlSv3",27,0,8,2020-02-11
+33,2020-02-12 21:57:13+00:00,1227713291105034247,Quantstamp,"Want to earn 10.08% APR on your DAI? 💵
+@idlefinance makes it easy.
+
+Rather than having to hunt around for the best rates, https://t.co/bv62Z4PNJR does it for you.
+
+Check it out: https://t.co/ESWnwJqVH4 
+
+#SecuredByQuantstamp https://t.co/FFqyqyhPaS",16,1,5,2020-02-12
+35,2020-02-13 23:38:32+00:00,1228101176735875072,Quantstamp,"Want to earn 10% APR? 💵
+@idlefinance makes it easy.
+
+Rather than having to hunt around for the best yield on stablecoins, Idle Finance does it for you.
+
+Check it out: https://t.co/ESWnwJIwyC 
+
+#SecuredByQuantstamp #DeFi https://t.co/sQdqGodeGq",23,2,3,2020-02-13
+36,2020-02-14 21:04:28+00:00,1228424793948426240,Quantstamp,"It's February 14th - a special day...
+
+That's right, its the start of @EthereumDenver! 🏔️
+
+3 days of nonstop #ethereum hacking, #crypto talks, events, and interactive experiences. 💻👱🧘‍♂️🎮
+
+Check out the full schedule of events:
+https://t.co/BQIVZMmTTr",12,0,6,2020-02-14
+38,2020-02-15 22:49:32+00:00,1228813621817331712,Quantstamp,With the Bufficorn at ⁦@EthereumDenver⁩ https://t.co/hyvWcUaC8Y,10,0,2,2020-02-15
+55,2020-02-16 17:45:22+00:00,1229099465622966273,Quantstamp,"The Quantstamp Money Legos team! 
+
+#secureDeFi #moneylegos #ETHDenver https://t.co/Ebd0o5qEz7",11,0,1,2020-02-16
+59,2020-02-17 16:41:43+00:00,1229445835827449857,Quantstamp,"FYI
+
+https://t.co/u9F7v4oHDl",8,0,2,2020-02-17
+60,2020-02-18 23:56:20+00:00,1229917597258248192,Quantstamp,Quantstamp's Julian Martinez(@jmartinez_43 ) educated developers last week @DeveloperWeek on the challenges and opportunities in #blockchainsecurity https://t.co/4RzWQL8oHX,17,0,3,2020-02-18
+62,2020-02-19 16:47:52+00:00,1230172157155500033,Quantstamp,@RampNetwork @imTokenOfficial The Quantstamp team members frequently discuss how amazing this money lego is.,1,0,0,2020-02-19
+64,2020-02-20 18:29:42+00:00,1230560173007130626,Quantstamp,"Big thank you to @TrustlessState &amp; @ck_SNARKs for having CEO Richard Ma on @POVCryptoPod
+
+It was a pleasure sharing thoughts on security, #DeFi, &amp; recent flash attacks on Ethereum. #MoneyLegos
+
+Listen on Desktop 👇🏽
+https://t.co/eCwsU5xFo0
+
+Apple Podcast👇🏽
+https://t.co/uoqaLGaHPl https://t.co/WTyLM7T7Wt",9,0,3,2020-02-20
+67,2020-02-22 18:01:21+00:00,1231277814982365184,Quantstamp,Props to https://t.co/ESWnwJqVH4 for the quick and effective communication. Helping users navigate low liquidity events is a great use case for a DeFi rebalancer. We’re proud to stand behind them. https://t.co/BdjmHHzUPh,14,1,1,2020-02-22
+68,2020-02-24 22:58:25+00:00,1232077347924275201,Quantstamp,"Haven't had time to listen to our appearance on @POVCryptoPod yet?
+
+@CryptoAmb has you covered. 
+
+Check out this nice summary of our CEO Richard Ma's analysis of the recent #Defi attacks:
+
+https://t.co/QW1H2jzfUe",20,1,9,2020-02-24
+69,2020-02-27 17:26:58+00:00,1233081098801823744,Quantstamp,"In our latest post, we concisely provide readers with insightful info about the bZx hacks. 🏃‍♀️💨
+
+https://t.co/eVddTyaGhA",12,0,4,2020-02-27
+71,2020-02-28 17:13:56+00:00,1233440208634302464,Quantstamp,"Fact #1 - The 1st attack used Tornado Cash to stay anonymous. 
+
+https://t.co/eVddTyaGhA",6,0,4,2020-02-28
+73,2020-02-29 17:33:46+00:00,1233807586152988672,Quantstamp,Send @PoolTogether_ tickets to your friends and family! 😁 https://t.co/NYDHJ8wZyR,19,0,2,2020-02-29
+74,2020-03-02 18:32:01+00:00,1234547023329648646,Quantstamp,"Loving this meme from reddit user blockstasy.
+
+Remember to practice safe #blockchain!
+
+https://t.co/ppro96ruly https://t.co/VyftL6e0D2",9,0,2,2020-03-02
+75,2020-03-03 02:16:09+00:00,1234663823048507394,Quantstamp,Congrats! 👏🎉😁 https://t.co/LmgNAL8NBP,19,0,2,2020-03-03
+77,2020-03-04 22:25:50+00:00,1235330641157394433,Quantstamp,"Recent attacks on #DeFi applications are testing the resiliency of this nascent industry. 
+
+Our CEO Richard Ma weighs in in this article on the risks and rewards in Decentralized Finance .
+
+https://t.co/z8WL86tr3r",12,0,3,2020-03-04
+78,2020-03-05 16:38:14+00:00,1235605549464481792,Quantstamp,"What are the implications on immutability with CREATE2?
+
+Come join Senior Software Engineer Alex Murashkin in room ""Bièvre"" closing out the security tract for @EthCC_!
+
+Find the live stream 👇🏽
+https://t.co/bYJr9BT09X https://t.co/CIbl4lIFYc",17,2,5,2020-03-05
+79,2020-03-06 23:35:27+00:00,1236072934420054016,Quantstamp,Spend 10 minutes of dev time to massively improve your DeFi apps UX with @RampNetwork! 🥳 https://t.co/N3k8CVbv0J,7,0,0,2020-03-06
+85,2020-03-10 03:44:58+00:00,1237222893630586882,Quantstamp,"Looking to develop on #blockchain applications?
+
+Check out our book on secure smart contract development📙
+
+https://t.co/YCqjTny3Ed https://t.co/tMS0bqjLuc",17,1,4,2020-03-10
+87,2020-03-11 21:35:51+00:00,1237854775196041218,Quantstamp,"Blockchain is transforming and reshaping the transportation industry. ✨ Check out Richard Ma's latest @Forbes article to learn how some of the world's most innovative mobility companies are leveraging this technology. 👇🏼
+https://t.co/hptBMVzpD2",16,1,1,2020-03-11
+89,2020-03-13 20:34:58+00:00,1238564229013295104,Quantstamp,"🛡️Quantstamp plans to participate in a meaningful size in the upcoming @MakerDAO backstop auction.
+
+❤️As a key part of the DeFi infrastructure and friend, we will support them in this time of need.",24,1,5,2020-03-13
+92,2020-03-16 19:15:40+00:00,1239631437919211520,Quantstamp,https://t.co/sOvxdISDrz,3,1,0,2020-03-16
+98,2020-03-17 04:18:54+00:00,1239768145365090305,Quantstamp,"Washing hands isn't just for the bathroom - With #coronavirus going around, it's a good idea to wash your hands much more frequently   🧼👏
+
+If you don't have soap and water, using hand sanitizer is also a good idea.
+
+Check out more tips from the WHO at https://t.co/1sJ15TWAVo https://t.co/Uni4rK8HDL",9,0,3,2020-03-17
+101,2020-03-18 00:07:56+00:00,1240067375497506816,Quantstamp,"Dabbing isn't just for millenials
+
+Covering your cough or sneeze with a flexed elbow, tissue, or facemask(if available in your area) keeps you from spreading #coronavirus and also helps keep your hands clean.
+
+Learn more at https://t.co/1sJ15TWAVo https://t.co/3tIdi5QSex",8,0,0,2020-03-18
+103,2020-03-19 15:32:26+00:00,1240662423297601542,Quantstamp,We are proud sponsors of @POVCryptoPod. Team members @jmartinez_43 and @safetyth1rd are avid listeners of the show! 😎 https://t.co/RCRXfotq8h,9,0,3,2020-03-19
+108,2020-03-23 15:27:59+00:00,1242110853119385602,Quantstamp,"This week's Customer Spotlight goes to @multisHQ! 🌐🏦
+
+Multis is advancing the DeFi ecosystem by creating the premiere business-friendly gateway to the DeFi banking experience. Learn more about Multis on the Customer Spotlight section of our homepage. 
+
+https://t.co/KQaBuBSktT",17,0,5,2020-03-23
+109,2020-03-25 15:00:07+00:00,1242828615122911232,Quantstamp,"This week, our inaugural Customer Spotlight went to @multisHQ! 🎉🍾
+
+Multis integrates the best DeFi banking has to offer with traditional business workflows such as spending approval workflows and policies, worker allowances, and payroll.
+
+https://t.co/cV1SQ3jA2a",9,0,1,2020-03-25
+111,2020-03-26 20:49:31+00:00,1243278934411624448,Quantstamp,"Take part in a #VirtualWorkshop with Dr. Sebastian Banescu!
+
+Learn about “Blockchain and Smart Contract Security in Practice” with the #WAMIII Virtual Talk Series at @IEEESA about wearables, medical #IoT Interoperability, and Intelligence
+
+🛡🚑 https://t.co/iULgO1bq6P",13,1,4,2020-03-26
+113,2020-03-27 14:58:41+00:00,1243553032043782145,Quantstamp,"As members of the IEEE P2418.6 standards development working group, we are committed to  helping bring blockchain cybersecurity standards to healthcare.",4,0,0,2020-03-27
+117,2020-03-30 15:01:43+00:00,1244640957699698688,Quantstamp,"In order to secure DeFi, you need to understand market dynamics. ⚖️🛡
+
+In this series, we revisit the 1st bZx hack with a focus on the economics behind the attack. 
+
+https://t.co/TchTu7HvRX",2,0,0,2020-03-30
+119,2020-03-31 15:11:18+00:00,1245005757222752256,Quantstamp,"We’re proud to join the MyID Alliance, a Digital ID initiative by ICONLOOP(@helloiconworld)
+
+ 
+
+As more and more of our daily interactions move online, Digital IDs like MyID will be a key part of that.  
+
+👱
+
+https://t.co/ZJhMu5m3GV",110,2,30,2020-03-31
+120,2020-04-01 00:07:55+00:00,1245140800150765568,Quantstamp,"Behind on your DeFi reading? 📚🤓
+Keep your time in #quarantine productive by putting this on your reading list.
+
+https://t.co/lamFwXkgwd",13,0,3,2020-04-01
+122,2020-04-03 17:23:19+00:00,1246126146737123329,Quantstamp,Amazing progress from the @idlefinance team. https://t.co/3blXoyjG1O,17,0,4,2020-04-03
+125,2020-04-05 16:59:41+00:00,1246844974492246020,Quantstamp,Congratulations on the progress @DegensBet!! https://t.co/YtBg9sNadK,4,1,0,2020-04-05
+126,2020-04-06 18:53:08+00:00,1247235911479418882,Quantstamp,"Are you interested in securing your DeFi project, but feel like you don't know enough about the process? 🛡🌐
+
+This post is for you! 
+https://t.co/gzPa3iYocQ",14,0,2,2020-04-06
+128,2020-04-09 13:57:53+00:00,1248248774335418368,Quantstamp,"Despite Black Thursday last month, @La_Cuen of @CoinDesk points to the increased excitement around #DeFi and stablecoins. 
+
+“Generally speaking, lending and borrowing are here to stay.”
+Quoted, Quantstamp CEO Richard Ma
+
+Read the full article 👇🏽
+https://t.co/0FZDsI3oY6",8,0,3,2020-04-09
+129,2020-04-10 00:34:59+00:00,1248409103082217475,Quantstamp,"Quantstamp helped secure the DAI Backstop Syndicate and provide Smart Contract Coverage Warranty via Chainproof, with technical support from @MakerDAO.
+
+#DeFi community keeping the DAI safe, was 
+emergent community governance seen in action!
+#inspiring 
+
+https://t.co/jGI8VFgbOr",17,0,6,2020-04-10
+133,2020-04-12 07:03:12+00:00,1249231579190362113,Quantstamp,"Join Quantstamp, @Binance and numerous other companies who have already pledged their support in the fight against COVID-19
+
+#blockchainforgood #cryptoagainstCOVID
+
+Donate Now 📮👉🏽 https://t.co/SBIsEwtQHW",13,1,1,2020-04-12
+135,2020-04-14 07:42:11+00:00,1249966162525351936,Quantstamp,"@Ethereum_France delivered a truly wonderful event last month. #ETHCC has consistently been the event of the spring calendar for cutting edge Ethereum and Blockchain research. 
+
+Always a pleasure seeing old friends and making new ones.
+@EthCC_",6,1,0,2020-04-14
+141,2020-04-15 19:01:54+00:00,1250499609287409664,Quantstamp,"Quantstamp Senior Research Engineer Sebastian Banescu (@banescusebi) will present ""Detecting DoS vulnerabilities caused by gas limits with fuzzing"" at the #SoliditySummit on the 30th of April at 3:05 PM CEST. 🖥
+
+The Solidity Summit is organized by @solidity_lang. https://t.co/OolEOxt8wk",23,0,4,2020-04-15
+143,2020-04-16 21:05:11+00:00,1250893020184170496,Quantstamp,"@m2jr We are going deep in cyber security insurance for blockchain, and built one of the first actuarial pricing models for the space",0,0,0,2020-04-16
+145,2020-04-17 18:00:45+00:00,1251208993793544195,Quantstamp,"Truly inspiring seeing the #DeFi community stabilize the ecosystem forming the #DAI Backstop Syndicate. https://t.co/Me4qXEQE5K
+
+Quantstamp provided smart contract coverage warranty via Chainproof, and helped secure the Backstop Contract. ☂️🛡📮 
+https://t.co/4nCCS8Av2Q https://t.co/KmUhT61qPz",13,0,2,2020-04-17
+146,2020-04-19 23:13:07+00:00,1252012382177693696,Quantstamp,@MyCrypto @tayvano_ How the company acts during an audit to address or dismiss issues is an important warning sign. Be extra careful of projects seeking a quick check mark without taking their security auditor’s feedback seriously. Overconfidence and rapid deployment to mainnet are also red flags.,11,1,4,2020-04-19
+148,2020-04-20 09:02:21+00:00,1252160664618991617,Quantstamp,"Great, easy to understand explanation of re-entrancy attacks🦹‍♂️
+
+This type of attack was used in both attacks this weekend; the Uniswap ERC777 attack on Saturday and the dForce/lendf.me attack yesterday. https://t.co/QNErztIjnY",11,0,4,2020-04-20
+152,2020-04-21 08:09:54+00:00,1252509856029765635,Quantstamp,"Interested in learning more about re-entrancy attacks - the same attack used by the dForce hacker?
+
+Senior Research Engineer Martin Derka breaks it down for you👇
+https://t.co/nrBSWHgp6F",18,0,6,2020-04-21
+155,2020-04-22 19:03:23+00:00,1253036695320170496,Quantstamp,"Quantstamp Senior Research Engineer Sebastian Banescu (@banescusebi) will present ""Detecting DoS vulnerabilities caused by gas limits with fuzzing"" at the #SoliditySummit on the 30th of this month.
+
+We are looking forward to your virtual presentation! 🖥 😎 https://t.co/Kz7Apr3zDt",16,0,4,2020-04-22
+156,2020-04-23 15:24:57+00:00,1253344115871281153,Quantstamp,"The @dForcenet / https://t.co/CTVjzUjC9e hacker stole over 24 million USD worth of digital assets this weekend, but we can still learn from these mistakes. 
+
+Learn how reentrancy was used and revisit developer best practices in the post below. 🛡🌐🏦 
+
+https://t.co/0emcRWpXdP",11,3,8,2020-04-23
+157,2020-04-24 17:50:04+00:00,1253743022807924737,Quantstamp,"Public service announcement:
+Over 160,000 Nintendo accounts have been compromised. Please use strong, uniquely generated passwords for each account along with a password manager, and run a scan to remove weak and duplicated passwords.
+
+https://t.co/k6iz4ohwKM",12,0,7,2020-04-24
+158,2020-04-26 01:35:08+00:00,1254222449341640704,Quantstamp,Move Slow and Test Things.,19,1,0,2020-04-26
+159,2020-04-27 03:37:18+00:00,1254615579333472257,Quantstamp,"@aparnalocked @OpenZeppelin @trailofbits We like this resource by @ConsenSysAudits 
+https://t.co/cCMxF5m8vs
+
+It's clean, well-maintained, and provides a good resource for developers.",5,1,2,2020-04-27
+161,2020-04-28 15:10:19+00:00,1255152371815989252,Quantstamp,"DAI is one of the building blocks of #DeFi, but do you know:
+
+-The inspiration for DAI
+-The purpose of Multiple Collateral DAI
+-Maker Foundation’s plans to dissolve  
+
+Find out in this insightful episode of @POVCryptoPod with MakerDAO founder @RuneKek
+
+https://t.co/iEfO5bNhgy",9,0,3,2020-04-28
+163,2020-04-29 01:25:42+00:00,1255307239235125248,Quantstamp,"ETH 2.0 is the most highly anticipated launch this year. 
+
+We look forward to auditing Prysmatic Lab’s ETH 2.0 Client and helping Ethereum grow to the next level. https://t.co/kTMC74qfbh",77,4,19,2020-04-29
+164,2020-04-30 20:21:39+00:00,1255955496881795073,Quantstamp,"With the loyalty management market expected to be worth $10.9 billion by 2024, ""doing it right"" is crucial.
+
+In his latest @Forbes article, Richard Ma shares how blockchain can bring more transparency and efficiency to the customer experience. 💫
+
+https://t.co/ugurm5zwhf",25,1,9,2020-04-30
+165,2020-05-01 04:20:08+00:00,1256075910844870656,Quantstamp,"Don't get hacked.
+
+Make sure to use strong, unique passwords on all your online accounts.
+
+The easiest way to do this is through a password manager such as DashLane, 1Pass, Keeper, etc.
+
+https://t.co/7n0o92vdCx",13,0,5,2020-05-01
+166,2020-05-02 18:14:20+00:00,1256648231410208770,Quantstamp,@mathew_phil Smart contract verification at https://t.co/JT12WNFNrh,0,0,0,2020-05-02
+167,2020-05-03 18:10:23+00:00,1257009624470949891,Quantstamp,"PSA: For crypto startups encountering difficulties with revenue, layoffs, or fundraising during this challenging time, we recommend researching these resources from @JFDIaccountants. They can help you to find programs that you're eligible for.
+
+https://t.co/1cWn3eh3xq",7,0,1,2020-05-03
+170,2020-05-04 07:39:31+00:00,1257213251315613696,Quantstamp,"A great episode of POVCrypto w/@VitalikButerin  which we sponsored
+
+@POVCryptoPod is one of the best Podcasts in industry .
+
+@TrustlessState  and @ck_SNARKs do a great job with their guests, asking questions both Bitcoiners and Etherians care about. https://t.co/mNrxvsOTyx",19,1,3,2020-05-04
+173,2020-05-05 16:51:48+00:00,1257714623748485120,Quantstamp,"Loyalty programs are a strategic investment that companies can't afford to overlook. 💳
+
+In his latest @Forbes article, Richard Ma explains how blockchain has the potential to improve loyalty programs for both companies and consumers.
+
+https://t.co/Z1dpYQgTeD",20,0,2,2020-05-05
+176,2020-05-06 17:00:07+00:00,1258079106714959872,Quantstamp,"In case you missed it, here is Senior Research Engineer Sebastian Banescu's (@banescusebi) presentation on ""Detecting DoS vulnerabilities caused by gas limits via fuzzing"" last week at the #SoliditySummit organized by @solidity_lang. 🖥 🤓
+https://t.co/3FXfLgokfg",7,0,2,2020-05-06
+178,2020-05-08 15:03:34+00:00,1258774551535763456,Quantstamp,"""Quantstamp is a blockchain security company whose mission is to facilitate the mainstream adoption of blockchain applications by providing state-of-the-art security services."" 
+
+CEO Richard Ma in his interview with The Cryptonomist (@Cryptonomist_en)🎙.
+https://t.co/BnoHjmD0Ob",18,0,6,2020-05-08
+180,2020-05-11 15:04:51+00:00,1259862037301264384,Quantstamp,"""Lately, we’ve been doing a lot of work for the DeFi market... The DeFi projects we’ve been securing are creating new ways of using and thinking about money.""
+
+CEO Richard Ma in his latest interview with The Cryptonomist (@Cryptonomist_en) 🎙.
+https://t.co/u0f3bYN9a5",18,0,3,2020-05-11
+181,2020-05-12 01:03:33+00:00,1260012704682569730,Quantstamp,"Our first Prysm Eth2 Validator Node is running on Topaz Testnet and it's racking up the GöETH 💰 
+
+It was easy to setup and resilient to network failures. 💪 https://t.co/APZ3zEcUPb",24,0,1,2020-05-12
+182,2020-05-15 02:41:10+00:00,1261124436993990656,Quantstamp,"Happy to help, good luck with the launch!! https://t.co/M2z5Eo85rL",19,0,1,2020-05-15
+183,2020-05-18 18:44:12+00:00,1262453953771511810,Quantstamp,"At #ETHDenver 2019, we created an ETH 2.0 beacon chain simulator. Read the post below to discover what we learned at the time. 📚
+https://t.co/gWAYvkVpmo",20,1,5,2020-05-18
+184,2020-05-19 14:45:49+00:00,1262756350683000838,Quantstamp,"FYI
+
+https://t.co/qwoXeTjbQI",5,0,0,2020-05-19
+188,2020-05-20 23:21:06+00:00,1263248415082897408,Quantstamp,"Loyalty programs are a strategic investment that companies can't afford to overlook. 💳 
+
+In his latest @Forbes article, Richard Ma explains how blockchain has the potential to improve loyalty programs for both companies and consumers.
+
+https://t.co/nmyEzNy7Nm",13,0,0,2020-05-20
+192,2020-05-21 15:04:30+00:00,1263485829479088129,Quantstamp,"Don’t be the next project to get hacked! Quality test suites have high ROI when it comes to  enhancing smart contract security. 
+
+Learn how to create a quality test suite in the post below. 🧪 🛡
+https://t.co/11vm9Uy8uu",15,0,2,2020-05-21
+194,2020-05-22 18:04:47+00:00,1263893585231073283,Quantstamp,"With the loyalty management market expected to be worth $10.9 billion by 2024, ""doing it right"" is crucial. 
+
+In his latest @Forbes article, Richard Ma shares how blockchain can bring more transparency and efficiency to the customer experience.
+
+https://t.co/XCxE1PnYOS",7,0,1,2020-05-22
+197,2020-05-25 15:00:08+00:00,1264934279194312710,Quantstamp,"Not all test suites are created equal. 100% coverage is not enough. 
+
+Learn how to create a quality test suite in the post below. 🧪 🛡
+https://t.co/bYXLSiiovg",23,0,4,2020-05-25
+198,2020-05-27 21:05:12+00:00,1265750928293916673,Quantstamp,"“There are only 35 countries in the world w/ a population of 40 M+. There are now 40 M ETH addresses. ETH is now more widely used money than 80% of countries around the world.”
+
+Said @JohnLilic in recent piece from @CoinTelegraph #Ethereum #ETH2
+
+https://t.co/AQD8pFhJki",21,1,4,2020-05-27
+200,2020-05-28 16:05:56+00:00,1266038001932488704,Quantstamp,"Want to learn how to be an ETH 2.0 Validator? 🌐
+
+Our latest article explains how to setup a @prylabs ETH 2.0 Validator on Topaz Testnet 🔶
+
+Practice setting up a validator without risking real funds, and help contribute to the testing of ETH 2.0! 
+
+https://t.co/09E8kbx1Og",33,1,11,2020-05-28
+202,2020-05-29 05:16:30+00:00,1266236954028371971,Quantstamp,3 Days left! https://t.co/srkm6plHkv,22,1,4,2020-05-29
+203,2020-05-30 00:14:46+00:00,1266523409757827072,Quantstamp,Submissions will close May 31st at 11:59 ET,4,0,0,2020-05-30
+204,2020-06-01 16:57:16+00:00,1267500475005485058,Quantstamp,"This week's Customer Spotlight goes to @buycoins_africa, a Nigerian cryptocurrency exchange that not only sells cryptocurrencies, but uses public blockchains to solve real world problems.
+
+Customers also ❤️ them because of their great customer service.",64,1,22,2020-06-01
+205,2020-06-02 08:08:21+00:00,1267729754200739840,Quantstamp,"More details about Martinet's project here:
+
+https://t.co/7ssUGgIyrV",5,0,0,2020-06-02
+208,2020-06-03 15:02:08+00:00,1268196272931921921,Quantstamp,"Here's what happened at Quantstamp in May:
+
+Auditing ETH 2.0 🔶
+
+Gitcoin NYBW Hackathon 🏙️
+
+Solidity Summit 💻
+
+Read more 👇
+
+https://t.co/A1bZWsFmZA",18,0,5,2020-06-03
+210,2020-06-04 14:57:43+00:00,1268557549868945408,Quantstamp,"Quantstamp congratulates @martinetlee for being a finalist at @ETHGlobal’s #HackMoney. 🎉
+
+He modified @trufflesuite to be able to copy the state of mainnet DeFi contracts into a local blockchain and then modify storage at will. 
+
+This is ideal for testing DeFi composability.",13,3,0,2020-06-04
+215,2020-06-05 16:04:24+00:00,1268936719208009730,Quantstamp,"Quantstamp Research Engineer Martinet Lee (@martinetlee) unlocked GodMode for test environments. 🧪
+
+He can copy the state of mainnet contracts into a local blockchain and then modify contract code and storage at will.
+
+Check out the repo. 👇
+https://t.co/R7PNOscZd9",11,0,0,2020-06-05
+217,2020-06-06 03:00:42+00:00,1269101884096290818,Quantstamp,"This week we are spotlighting @buycoins_africa, a Nigerian cryptocurrency exchange that not only sells cryptocurrencies, but uses public blockchains to solve real world problems.
+
+They created NGNT, a stablecoin tied to the Naira, Nigeria’s national currency. ⚖️",88,2,24,2020-06-06
+218,2020-06-08 07:46:21+00:00,1269898544409767941,Quantstamp,"It's hard to keep up with the firehose of DeFi projects ... 
+
+Unless you subscribe to the Defiant. 📰
+
+@CamiRusso  does an excellent job rounding up the news you should know, and everything cool that's happening in this ever-evolving space. https://t.co/niXU5q6vXW",33,2,6,2020-06-08
+220,2020-06-09 12:56:09+00:00,1270338895255724032,Quantstamp,Quantstamp is proud to be auditing the Prysmatic Labs Ethereum 2.0 Client.,17,0,1,2020-06-09
+222,2020-06-10 18:56:37+00:00,1270792001089228800,Quantstamp,"Great to see such efforts toward easy-to-use user experience tools for #Ethereum.
+
+Congrats to @Alchemy for releasing this. https://t.co/f34m4YRaLr",8,1,0,2020-06-10
+223,2020-06-12 07:26:07+00:00,1271343003722907648,Quantstamp,"Onward! 🦄
+@PryLabs introduces the Onyx Test Network targeting v0.12.1 of the official @ethereum 2.0 specification aimed to be the final, non-trivial spec update before mainnet for phase 0.
+
+Now multiclient ready!💥 https://t.co/c7l24ZeRjS",9,0,0,2020-06-12
+228,2020-06-14 20:27:54+00:00,1272264524587053058,Quantstamp,"Congratulations to Prysmatic Labs (@prylabs) for the successful genesis of the Onyx ETH 2.0 testnet!
+
+Onyx is using the ETH 2.0 specification that is aimed to be used in mainnet. We are getting close. https://t.co/KtSv2wHvn1",61,1,16,2020-06-14
+229,2020-06-17 18:26:30+00:00,1273321135548043269,Quantstamp,"Quantstamp is mentioned in @CoinTelegraph today! We're proud to have partnered with the World Economic Forum @wef to explore how blockchain technology can prevent corruption in public procurement. 🔐 
+
+Read more 👇🏼
+https://t.co/rkkHCI2mbQ",28,0,11,2020-06-17
+231,2020-06-18 14:54:43+00:00,1273630228095528960,Quantstamp,"Is Ethereum 2.0 just a speed upgrade for Ethereum?
+
+Will there be a new token for ETH 2.0?
+
+Find out the answers to these questions and more 👇
+
+https://t.co/PBsRtc40XP",16,0,6,2020-06-18
+234,2020-06-20 05:36:32+00:00,1274214530424299520,Quantstamp,FYI https://t.co/DxzBWPp99g,14,0,3,2020-06-20
+235,2020-06-22 14:39:23+00:00,1275075920584306695,Quantstamp,"A bug was found &amp; fixed recently affecting some Argent Wallets.
+
+Argent addressed the issue promptly, making sure users weren't affected. 
+
+Great job by @openzeppelin in finding the bug.
+
+Great example by @argentHQ of how to run a bug bounty program &amp; handle incidents. https://t.co/KyOGAfSFW2",16,0,4,2020-06-22
+236,2020-06-23 15:29:51+00:00,1275451008437477376,Quantstamp,"Check out this recent update from Prysmatic Labs (@prylabs) to learn about the latest in ETH 2.0 development and how Quantstamp is involved. 😁
+
+https://t.co/gnLegzag62",16,1,3,2020-06-23
+238,2020-06-24 14:01:06+00:00,1275791060938211329,Quantstamp,"Did you know that Prysmatic Labs (@prylabs) controls less than 20% of the Onyx ETH 2.0 testnet? 👏
+
+Community involvement in testnets is an important prerequisite for a successful Beacon Chain launch.",28,0,7,2020-06-24
+239,2020-06-25 15:21:03+00:00,1276173569232236549,Quantstamp,"Quantstamp CEO Richard Ma talks about the growth, challenges and impacts of Central Bank Digital Currencies in his latest @Forbes article.
+
+https://t.co/tpWBN6kLDI",17,1,2,2020-06-25
+242,2020-06-26 17:46:59+00:00,1276572679521202176,Quantstamp,"Discussions around the EVM opcodes CREATE2 and SELFDESTRUCT have been highlighted by Independent Researcher Alexey Akhunov @realLedgerwatch
+
+To understand some context, check out Quantstamp Research Engineer Alex Murashkin presenting at the last ETHCC
+
+https://t.co/pFvoQDPYlW",10,1,1,2020-06-26
+244,2020-06-28 01:30:57+00:00,1277051831210905601,Quantstamp,@Jason We’re the 1%,6,0,0,2020-06-28
+246,2020-06-29 07:09:36+00:00,1277499444020170752,Quantstamp,FYI https://t.co/3PvRSDXCf5,11,0,4,2020-06-29
+249,2020-06-30 16:15:21+00:00,1277999174718537731,Quantstamp,"Premiering now: Ethereum 2.0 Phase 0 Mainnet Launch - What to Expect with Dr Kacper Bak and @mikojava
+https://t.co/LtSCmcAuMN",28,0,13,2020-06-30
+251,2020-07-01 18:20:02+00:00,1278392936774823936,Quantstamp,"ETH 2.0 development update:
+
+#Ethereum core developers released a new ETH 2.0 testnet, Altona. 🧪
+
+Altona is a dev-focused multi-client testnet that is consistently finalizing Epochs. https://t.co/bVJl7gaO3B",34,0,12,2020-07-01
+252,2020-07-02 15:14:32+00:00,1278708644645724160,Quantstamp,"ETH 2.0 near-term development goals 🎯
+
+1️⃣ Find bugs that arise in multi-client testnets with Altona.
+2️⃣ Achieve stability in the Altona testnet.
+3️⃣ Launch community focused testnet.
+4️⃣ Achieve stability in the community testnet.",15,0,3,2020-07-02
+255,2020-07-03 17:20:17+00:00,1279102678476324865,Quantstamp,"Clarity @blockstack Hackathon (Part 2) has just ended! We’re busy judging!
+
+Good luck to all of the hackers who participated.
+Really happy to be a community partner.
+https://t.co/zUIbJi59MG",14,1,3,2020-07-03
+258,2020-07-06 14:52:07+00:00,1280152551946502145,Quantstamp,"A timely scaling solution considering that high gas fees are becoming the new normal. ⛽️📈 
+
+Congratulations @SkaleNetwork! 🎉 https://t.co/FZHVhmXiOC",9,0,3,2020-07-06
+263,2020-07-07 03:59:33+00:00,1280350716322648064,Quantstamp,"DeFi meets time travel
+
+88MPH lets you get interest up front 
+
+Your money travels back from the future 🏎️🔥
+
+Secured by Quantstamp https://t.co/PxHCTcBvQT",21,0,6,2020-07-07
+268,2020-07-08 22:01:57+00:00,1280985499159519232,Quantstamp,"Join us at @unitize2020 on July 9 at 9 pm PT, where Richard Ma will be talking DeFi: its potential to change the world, some of the challenges we're facing, and what the future holds for the DeFi space.
+
+Full Schedule: https://t.co/86C61519TP https://t.co/N5OJckyicq",11,0,0,2020-07-08
+274,2020-07-09 22:12:03+00:00,1281350431810244613,Quantstamp,"The ETH 2.0 Research Team is hosting a Reddit AMA.
+
+They will answer questions tomorrow, but you can post questions now. 😎 https://t.co/854F3g0uaP",20,0,6,2020-07-09
+275,2020-07-10 17:10:08+00:00,1281636836188749825,Quantstamp,"Reddit AMA by Ethereum 2.0 Research Team is live 🎙
+
+https://t.co/LA3NnnJl3i",6,0,2,2020-07-10
+277,2020-07-14 02:33:04+00:00,1282865670330318848,Quantstamp,"Congrats to all of the winners of last month’s Clarity Hackathon from @Blockstack.
+
+We were delighted to be on hand to help with the judging.
+Check out what took first prize! 🎉🏆
+https://t.co/bYAXfG9kDp",14,0,2,2020-07-14
+278,2020-07-15 21:40:43+00:00,1283516871300378624,Quantstamp,"@MrBeastYT PSA Do not send any Bitcoin to this address.
+This is a scam
+https://t.co/XSX2mFxilx",1,0,0,2020-07-15
+290,2020-07-16 18:55:49+00:00,1283837761808728064,Quantstamp,"High gas fees ⛽️ is becoming the new norm. 
+Luckily, @SkaleNetwork created a solution. 😎
+
+https://t.co/dNjVZXreZK",19,0,7,2020-07-16
+293,2020-07-20 03:48:20+00:00,1285058935318167552,Quantstamp,"Automated strategies are profitable,
+
+but previously limited to sophisticated coders.
+
+KeeperDAO allows anyone to participate. 
+
+#SecuredByQuantstamp https://t.co/Jq67Ir6ym6",24,3,5,2020-07-20
+296,2020-07-21 14:42:24+00:00,1285585926475767808,Quantstamp,"Everyone's farming yield these days.
+
+But the fields are more dangerous than they appear.
+
+Before rushing to stack that yield, make sure you brush up on Farming Safety with our latest article:
+
+https://t.co/GiJ1m3qgwK",17,0,4,2020-07-21
+299,2020-07-22 18:59:36+00:00,1286013040849117184,Quantstamp,Our xDai audit report is listed on Etherscan.  🙌 https://t.co/PS3TPzG6uf,28,2,5,2020-07-22
+301,2020-07-23 21:27:39+00:00,1286412687958618113,Quantstamp,"Tune in tomorrow for 'Women in Ethereum' by @ETHPlanet🌏 and the @EthCatHerders🐈🤠.
+
+Communications Manager @Jayeharrill will share her thoughts about the future of DeFi among a series of lightning talks with talented women in the #Ethereum space.
+
+https://t.co/tDblfJVj9J",19,0,3,2020-07-23
+304,2020-07-24 02:41:44+00:00,1286491727927185416,Quantstamp,"Yield Farming brings rewards
+
+But also risk:
+-Liquidation Risk
+-Impermanent Loss
+-Smart Contract Risk
+
+Learn how to protect yourself in our latest post:
+https://t.co/GiJ1m3qgwK",29,1,9,2020-07-24
+308,2020-07-25 05:50:52+00:00,1286901711399866368,Quantstamp,"@wysiecrypto @iearnfinance The review was done with the knowledge and cooperation of @iearnfinance community members and developers.
+
+https://t.co/xdQ9YBa2FY",7,0,0,2020-07-25
+312,2020-07-27 18:25:24+00:00,1287816372903264256,Quantstamp,"Our latest Customer Spotlight goes to @0xHorizonGames! 🕹🎮
+
+Horizon Games is building infrastructure that provides you with true ownership over digital items.",11,0,0,2020-07-27
+313,2020-07-28 16:50:43+00:00,1288154933024481280,Quantstamp,"Congratulations to @Mainframe_HQ, @PaulRBerg and @SablierHQ on the acquisition! Two great teams combine. 👏👏
+
+Paul has joined Mainframe as head of development. https://t.co/3eci1ovj8G",46,2,4,2020-07-28
+314,2020-07-29 22:09:35+00:00,1288597566527926273,Quantstamp,"@InputOutputHK @Cardano There is a lot more in the works. Congrats on today!
+We are thrilled to be auditing such an excellent codebase.
+https://t.co/en072siZ7G",15,1,4,2020-07-29
+320,2020-07-30 21:01:50+00:00,1288942906183573504,Quantstamp,"Honored to be recognized as one of the industry’s leading smart contract audit services in this recent report from European Think Tank @dGenOrg. 
+
+Sponsored by @AaveAave, it covers use cases, risks, and impacts of DeFi over the next decade. ✨
+
+https://t.co/4Tn4ougRch",22,2,4,2020-07-30
+323,2020-08-04 15:26:24+00:00,1290670430840164352,Quantstamp,"Medalla 🏅, the ""official"" community ETH 2.0 testnet, is live and finalizing epochs. 
+
+5 clients are running on this testnet including:
+     Prysm by @prylabs 
+     Lodestar by @ChainSafeth 
+     Teku by @Consensys 
+     Nimbus by @ethstatus  and
+     Lighthouse by @sigp_io https://t.co/uyA8coPRxA",62,2,13,2020-08-04
+327,2020-08-05 00:27:24+00:00,1290806578174558210,Quantstamp,"🛡️ Helping Secure @Cardano, @avalancheavax  
+📝 @iearnfinance security review 
+⛽️ Saving Gas with @SkaleNetwork
+👨‍🌾 Yield Farming Safety 
+
+Here's what happened at Quantstamp in July
+
+https://t.co/p2MWMISqzH",29,1,6,2020-08-05
+329,2020-08-06 01:59:29+00:00,1291192136839266304,Quantstamp,"We are very excited to be supporting this year’s 
+Blockchain Village at @defcon 
+
+Join our Research Engineers 🚨 https://t.co/qnhh5OzZxE
+Poming Lee Fri Aug 7, 3:30 pm PT
+@banescusebi Sat Aug 8, 2:00 pm PT
+@martinetlee Sun Aug 9, 10:00 am PT
+https://t.co/Ke7uvDzxHw
+@BCOSvillage https://t.co/POKFPS6JVy",25,2,8,2020-08-06
+331,2020-08-07 19:02:04+00:00,1291811869007605760,Quantstamp,"Watch all of the blockchain village streams 🦑 https://t.co/5hJ8oUSvnX
+
+All weekend long!
+@BCOSvillage @defcon",7,0,1,2020-08-07
+332,2020-08-09 12:01:21+00:00,1292430765544767488,Quantstamp,"Join Communications Manager @JayeHarrill along with @UniswapProtocol’s @haydenzadams and Lawyer @Natarajan at @EDCON_Official for a conversation about #DeFi hosted by @coingecko cofounder @tmlee.
+
+Today 10 am EST 🧱🛡
+https://t.co/bhFfLYnIPD
+
+Register 👉 https://t.co/215UpxHoxk https://t.co/EfWqzzFUWM",17,2,5,2020-08-09
+334,2020-08-11 19:29:10+00:00,1293268236943806466,Quantstamp,👀 https://t.co/KauL9ksQ7A,12,1,1,2020-08-11
+335,2020-08-12 18:40:43+00:00,1293618433943375872,Quantstamp,🍠 PSA: https://t.co/wsY0OzrPiy,14,0,0,2020-08-12
+336,2020-08-13 20:48:29+00:00,1294012972986073088,Quantstamp,Ethereum gas prices are exploding 💥 https://t.co/k55nbAabBd,16,1,3,2020-08-13
+338,2020-08-14 14:02:49+00:00,1294273274830925825,Quantstamp,"Happy to have audited @CurveFinance's liquidity mining contracts for CurveDAO.
+
+Audit Report: https://t.co/Fl7tjso5l9 https://t.co/TACcAFgl6m",32,3,6,2020-08-14
+340,2020-08-18 16:13:44+00:00,1295755771951460352,Quantstamp,"We're happy to have audited Curve's Liquidity Mining Contracts
+
+@CurveFinance  is an advanced DEX which features low slippage stable asset swaps.
+
+We helped make sure CurveDAO is ready to take them to the next stage.
+
+https://t.co/3Xxefcl6my",241,12,44,2020-08-18
+341,2020-08-19 15:34:20+00:00,1296108243035414528,Quantstamp,"Quantstamp is proud to have helped secure @avalancheavax, a Layer 1 decentralized network aiming to bring #DeFi to global finance institutions. 🌐
+
+Learn more in the post below 👇🏽
+https://t.co/mjSNvVJrk4",188,2,34,2020-08-19
+344,2020-08-20 14:53:04+00:00,1296460247113052161,Quantstamp,"Just 3 months ago, the majority of the value locked in DeFi was focused in Maker. Now that value is spreading out. https://t.co/CsCOT3sNpf",80,3,8,2020-08-20
+346,2020-08-21 14:00:12+00:00,1296809331455864832,Quantstamp,Congrats on the OMG Network USDT launch! 🎊🎉 @omgnetworkhq is a very experienced team with amazing people https://t.co/eVR2pMtE6w,46,1,4,2020-08-21
+347,2020-08-25 15:04:22+00:00,1298275030283911168,Quantstamp,"🤖 DeFi applications continue to push the automation and decentralization of finance at an aggressive pace. 
+
+In this post, we describe how @CurveFinance, @iearnfinance and @Keeper_DAO contribute to a hyper-liquid future. 💧
+https://t.co/6srVHHoCms",143,8,38,2020-08-25
+348,2020-08-27 20:57:17+00:00,1299088621769830400,Quantstamp,"It's been a milestone year for #stablecoins. Learn more about some of the stablecoins we've secured that are changing the future of our financial system. 🛡️✨
+
+https://t.co/A45kIPYSQs",31,2,7,2020-08-27
+350,2020-08-28 23:41:26+00:00,1299492317909323776,Quantstamp,"Congratulations to @idexio for leading the #DeFi space in releasing IDEX2.0 with a more traditional security approach.
+
+We found they had very high levels of code coverage, documentation and addressed all of our concerns. 🛡⚖️
+
+https://t.co/3ooOVLt3fb",28,0,6,2020-08-28
+355,2020-08-31 16:21:15+00:00,1300468704379985920,Quantstamp,"At Quantstamp, we often say “It’s 1994,” comparing the current state of blockchain tech to the early internet.
+
+Although we can't predict what the future holds for us, it is hard to imagine a future where traditional finance will ever be the same. 🏦 🌐
+https://t.co/6srVHHoCms",73,5,26,2020-08-31
+359,2020-09-01 20:57:33+00:00,1300900628181299200,Quantstamp,"September 17th we’re hosting with @ihavecred a get together with 6 ETH2 client dev teams over wine! 🍷
+
+Get your tickets today!
+https://t.co/YpsVgS4Wp2",26,3,7,2020-09-01
+363,2020-09-02 22:09:01+00:00,1301280997925740546,Quantstamp,"Finding #4 from SushiToken.sol 🎣
+Severity: Low
+
+_moveDelegates() may not behave correctly after token transfers.",16,1,0,2020-09-02
+381,2020-09-03 03:03:47+00:00,1301355178713522177,Quantstamp,@NomiChef Not an audit :),19,1,1,2020-09-03
+385,2020-09-04 21:15:51+00:00,1301992396838842369,Quantstamp,"@money_burger @trailofbits @peckshield @OpenZeppelin @Consensys @certik_io 2020, the year of food audits",6,1,2,2020-09-04
+387,2020-09-10 15:59:48+00:00,1304087184329248768,Quantstamp,"The potential for #DeFi to change the world is undeniable, but tackling security issues is crucial for continued growth. 🛡️
+
+Learn more in the latest @Forbes article by Quantstamp CEO Richard Ma.
+
+https://t.co/RZNQDE8khp",33,1,7,2020-09-10
+391,2020-09-16 14:51:42+00:00,1306244375022678019,Quantstamp,"Tomorrow, Quantstamp and @ihaveCred are hosting Wine Not Talk About Ethereum 2.0? 🍷
+
+Hear the perspectives of representatives from 6 different client teams as they discuss the future of ETH 2.0.
+
+Come join us 🙂
+https://t.co/YpsVgS4Wp2",27,1,4,2020-09-16
+392,2020-09-17 15:56:31+00:00,1306623075232829440,Quantstamp,"Testing is an undervalued security tool in DeFi. 🧪
+
+Learn more about this high ROI skill from the team auditing ETH 2.0.
+https://t.co/5EuvkPFOIa",34,4,6,2020-09-17
+394,2020-09-18 00:05:26+00:00,1306746116151492608,Quantstamp,"🎼 🎻 
+
+""The ETH2 Beacon Chain is more like the conductor of an orchestra than a metronome."" - the paraphrased words of @benjaminion_xyz",2,0,0,2020-09-18
+395,2020-09-21 15:05:17+00:00,1308059733631234049,Quantstamp,"Quantstamp has audited @Binance Smart Chain, the latest of several Layer 1 blockchains audited by Quantstamp. ⛓🛡
+https://t.co/Q3eamdBROp",44,2,9,2020-09-21
+396,2020-09-22 16:09:57+00:00,1308438394448486401,Quantstamp,"As #DeFi continues to evolve, DeFi aggregators are emerging as a strong trend. 
+
+As user-facing products built on decentralized infrastructure, they unlock the potential for higher yields and a better user experience. ✨
+
+https://t.co/KI3CmzsDX1",18,1,1,2020-09-22
+398,2020-09-23 15:53:55+00:00,1308796746735050752,Quantstamp,"ETH 2.0 updates:
+
+🎯 On target for 2020 launch!
+✅ Medalla testnet consistently finalizing epochs
+🧪 New testnet to practice ETH 2.0 genesis
+
+For details on ETH 2.0 progress, check out the Ethereum Foundation Blog 👇
+https://t.co/XumbNyykzm",35,0,8,2020-09-23
+399,2020-09-30 15:39:37+00:00,1311329862393630720,Quantstamp,"🖼 @SuperRare_co, a marketplace for digital art, recently completed an audit with us.
+
+Our audit included the contracts that tie NFT artworks to their owners and manage the bidding and sale process in the digital art auctions.",55,1,9,2020-09-30
+400,2020-10-01 15:03:00+00:00,1311683038409940992,Quantstamp,"⛽️️@biconomy, a gas relayer service simplifying web3 user experiences through meta transactions, recently completed an audit with us.
+
+We audited the smart contracts that allow any application to enable native meta transactions.",20,0,4,2020-10-01
+402,2020-10-06 18:43:08+00:00,1313550372498108416,Quantstamp,"Quantstamp's Chainproof, a smart contract warrantee system 🛡, was highlighted in the article below written by our friends @LinumLabs. Read the article below to learn more about Chainproof and the importance of smart contract audits:
+https://t.co/67y7tvcp3I",14,0,4,2020-10-06
+405,2020-10-07 16:08:41+00:00,1313873892101042178,Quantstamp,Recent Ethereum gas price volatility. https://t.co/0Wa6cpK2yr,6,1,4,2020-10-07
+406,2020-10-08 16:37:05+00:00,1314243427115048961,Quantstamp,"🔐  DeFi Hacks
+⛓️  Securing @Binance Smart Chain
+🛡️  2nd ETH2 Audit in Progress: Teku by @Consensys
+📅  MoneyDance and LA Blockchain Week
+
+Here's what happened at Quantstamp in September 👇
+
+https://t.co/ffllP60BUH",26,2,4,2020-10-08
+407,2020-10-16 07:34:12+00:00,1317005912305958913,Quantstamp,@cryptogeorge_1 We confirm that we received the codebase. The audit engagement has not started yet.,33,4,2,2020-10-16
+408,2020-10-17 16:04:29+00:00,1317496717344829440,Quantstamp,"Join Quantstamp CEO Richard Ma at #Liquidity2020 for a 30 min session on Sunday, October 18 at 5 pm PT.
+
+""The Future is Still DeFi"" 🏗️ ✨
+
+Learn about this year's biggest hacks, exciting projects, and what's next for the DeFi space.
+
+Register here:
+https://t.co/FcUex5Wjxk",20,1,6,2020-10-17
+410,2020-10-19 00:01:47+00:00,1317979218953711616,Quantstamp,"Happening now: ""The Future is Still DeFi"" at #Liquidity2020
+
+Join Quantstamp CEO Richard Ma at 5 pm PT to learn about some recent hacks, exciting projects, and new developments in #DeFi 🏗️✨
+
+https://t.co/fZLFnBjQzE",9,1,1,2020-10-19
+411,2020-10-20 15:16:48+00:00,1318571877212712962,Quantstamp,"The possibility of a bug slipping through audited code is never zero. Learn what Quantstamp and other industry leaders are doing to mitigate this risk. 🛡
+https://t.co/50lS15y5Pk",21,1,3,2020-10-20
+412,2020-10-21 15:28:57+00:00,1318937323334103041,Quantstamp,"⚖️ RAI by @reflexerfinance is an asset in development designed to make DeFi resilient to market volatility and reduce the likelihood of black swan events.
+
+We are currently auditing components of RAI.",30,0,9,2020-10-21
+413,2020-10-22 13:51:47+00:00,1319275259204227072,Quantstamp,"Teller Protocol by @useteller is designed to provide unsecured loans on Ethereum using consumer data to evaluate risk.
+
+@useteller is a client of Quantstamp 🛡",35,3,7,2020-10-22
+414,2020-10-23 21:19:31+00:00,1319750324052131840,Quantstamp,"We are in the process of auditing @auric_network 🔍
+
+Auric is a synthetic asset that tracks the market price of gold using an elastic supply. Our audit includes the farming contracts.",41,5,7,2020-10-23
+416,2020-10-27 15:00:04+00:00,1321104384558723073,Quantstamp,"If you missed #Liquidity2020 live last week, all talks are now available online.
+
+Check out Quantstamp's session on Day 3: 
+""The Future is Still DeFi"" 🏗️✨ https://t.co/AunjEWV4tV",14,1,3,2020-10-27
+418,2020-10-28 20:18:10+00:00,1321546821827637249,Quantstamp,"Quantstamp has now completed our audit of @Aavegotchi's ghst-staking repository. 🛡️
+
+Powered by @aaveaave, they're bringing the concept of DeFi staking to NFT collectibles.",51,9,6,2020-10-28
+419,2020-10-29 14:17:50+00:00,1321818531395108864,Quantstamp,"Interested in the future of stablecoins? ⚖️
+
+@hashgraph and Quantstamp are building the standard in stablecoin security to make it easy for any enterprise to safely integrate Hedera Hashgraph stablecoins into any platform.
+https://t.co/b5yyu75iDM",87,6,22,2020-10-29
+420,2020-10-30 03:56:09+00:00,1322024465400696834,Quantstamp,"We completed our audit of @auric_network. Check out the full audit report in the link below! 🛡
+https://t.co/ImqNpsb2NC",39,6,4,2020-10-30
+423,2020-11-02 18:06:41+00:00,1323325675621638144,Quantstamp,"Thanks to everyone who joined us at #Liquidity2020.
+
+If you missed out, you can find Richard's session on our YouTube channel:
+
+""The Future is Still DeFi"" 🏗️✨
+
+https://t.co/AutwQkuFrC",12,1,1,2020-11-02
+424,2020-11-03 16:00:15+00:00,1323656243295055872,Quantstamp,"Quantstamp is auditing an update of @poanetwork's TokenBridge contracts. 
+
+POA Network provides fast and inexpensive transactions by creating bridges that transfer value between blockchain networks. We work together frequently 🤝",28,3,3,2020-11-03
+425,2020-11-04 17:07:30+00:00,1324035554946641920,Quantstamp,"The deposit contract initiating the ETH 2.0 Phase 0 launch process is now live 🎉 🍾
+
+Quantstamp is proud to have contributed to ETH 2.0 development through our 2 audits of client implementations. https://t.co/NDnXW1Pvvd",69,5,11,2020-11-04
+426,2020-11-05 17:53:10+00:00,1324409435779837952,Quantstamp,"MicroStrategy made headlines as the first publicly-traded company to make #Bitcoin part of its capital allocation strategy, and others have since followed.
+
+Learn how current economic conditions and Bitcoin's unique properties drove these decisions.
+
+https://t.co/u62RPNyitN https://t.co/0ZbD4IBlny",23,0,6,2020-11-05
+428,2020-11-10 16:03:17+00:00,1326193721927372800,Quantstamp,"Quantstamp is auditing @lidofinance smart contracts.
+
+Lido aims to make ether staked in the ETH 2.0 Beacon Chain liquid for stakers who use their platform 💧",48,3,7,2020-11-10
+429,2020-11-12 17:02:21+00:00,1326933362783604736,Quantstamp,"🛡️ Audit of Ethereum 2.0 Client Teku
+🏦 Blockchain Insurance
+🌐 Joining Open DeFi
+📰 Virtual Events &amp; Media Coverage
+
+Here's what happened at Quantstamp in October 👇🏽
+
+https://t.co/rLb1c1X2aS",33,4,12,2020-11-12
+430,2020-11-18 01:28:26+00:00,1328872660156043264,Quantstamp,"@sawinyh (1/2) Although we audited 88mph in June, their codebase has changed significantly since then. The exploit occurred in codebase updates that were not audited by Quantstamp.",1,1,0,2020-11-18
+433,2020-11-23 21:52:06+00:00,1330992546529509377,Quantstamp,"Quantstamp audited @PEAKDEFI.
+
+https://t.co/9L9DBfqhcM https://t.co/kAVcxeF378",39,8,14,2020-11-23
+436,2020-11-24 03:34:30+00:00,1331078713694433281,Quantstamp,@raulitojordan @preston_vanloon @terencechain @n1shantd @prylabs One of the dream teams in the Ethereum community. Such a strong and creative team. So excited for you guys!!,5,0,0,2020-11-24
+441,2020-11-25 17:11:08+00:00,1331646615371673600,Quantstamp,The Beacon Chain is the heart of ETH 2.0. Shards will eventually coordinate and finalize data via the Beacon Chain. https://t.co/DH9wX2z5xU,68,1,17,2020-11-25
+442,2020-11-26 20:48:31+00:00,1332063709016059905,Quantstamp,"Quantstamp audited @idlefinance's new liquidity mining program and reward distribution mechanism 🛡
+
+The IDLE token distribution mechanism is now live and includes retroactive rewards for early liquidity providers.
+
+https://t.co/Z5phvCIitW
+https://t.co/oUyWSfDzl2 https://t.co/AwOQJoWRHI",34,1,11,2020-11-26
+444,2020-12-01 12:03:23+00:00,1333743495891222529,Quantstamp,"The ETH 2.0 Beacon Chain is finally live!!!  🎉  🎊
+
+Read this post to get results of the launch and learn about the future of ETH 2.0 development.
+https://t.co/RzijdJDT5Z",50,1,10,2020-12-01
+449,2020-12-02 20:51:07+00:00,1334238690990764033,Quantstamp,"Quantstamp audited two separate Ethereum 2.0 clients: Teku by @Consensys and Prysm by @prylabs 🛡
+
+We look forward to continue working with developers in order to secure the next stages of Ethereum 2.0 🤝",32,1,5,2020-12-02
+450,2020-12-03 18:32:07+00:00,1334566098901954560,Quantstamp,"Quantstamp CEO Richard Ma is now an NFT! The COVID-19 Relief Auction by @LABlockchainSmt, @GivebackHeroes and @OpenSea is donating 100% of proceeds to first responders + frontline workers.
+
+View all 265 NFTs and bid on your favorite speaker collectible 👇
+
+https://t.co/vBbW9zOeYV",8,1,1,2020-12-03
+451,2020-12-04 18:43:19+00:00,1334931304358395905,Quantstamp,"We audited the @WrappedFIL token. 
+
+Wrapped Filecoin introduces Filecoin liquidity into Ethereum markets 💧 https://t.co/W3yTGfquPM",26,0,8,2020-12-04
+454,2020-12-05 15:29:36+00:00,1335244940914245632,Quantstamp,"⚖️ @gauntletnetwork proposed updates to @compoundfinance smart contracts that would extend governance capabilities. 
+
+These updates were audited by Quantstamp 🛡
+
+https://t.co/dgKhyWMSXM",45,2,12,2020-12-05
+455,2020-12-06 22:14:22+00:00,1335709192150077441,Quantstamp,"The proposal to add the ability for Compound Governance to pay protocol contributors in COMP is now live! 📄
+https://t.co/WjUJIzb0lI",6,1,1,2020-12-06
+457,2020-12-07 21:39:22+00:00,1336062772535304197,Quantstamp,"Eth2 Validator Update for both @prylabs and @Teku_ConsenSys!!! 🦄
+
+Read the thread for information about possible required updates.
+
+Learn more about Ethereum 2.0 👇
+https://t.co/RRFLKPg0r9",4,1,2,2020-12-07
+461,2020-12-08 00:10:57+00:00,1336100921508499457,Quantstamp,"Idle just crossed the 50M TVL mark.
+Big congratulations to the whole team! 🧊
+
+@idlefinance https://t.co/sMw1POt7rj",14,0,1,2020-12-08
+463,2020-12-10 23:56:48+00:00,1337184522291408902,Quantstamp,"@ChantingCryptos No, this is not an authentic audit report.",0,0,0,2020-12-10
+464,2020-12-11 23:21:37+00:00,1337538057382195200,Quantstamp,"After 11 days post launch the numbers are staggering.
+Eth 2 now has over 1 billion USD in committed value! 🎉 😮
+
+- Over 900k ETH staked
+- Over 300k ETH in a two week queue to stake
+https://t.co/fweHMupced",13,1,5,2020-12-11
+469,2020-12-12 22:19:10+00:00,1337884727638962176,Quantstamp,"PSA: 
+
+Someone delegated 200k COMP to the CAP but didnt vote on the @compoundfinance proposal 32 yet. If you delegated to the CAP, you would need to vote as well, delegating != voting.
+
+Vote here:
+https://t.co/IdfUU9JUJP",13,1,2,2020-12-12
+470,2020-12-13 01:05:57+00:00,1337926699594391553,Quantstamp,"🏦 @RariCapital allows users to earn yield at their own risk tolerance. 
+
+Audited by Quantstamp 🛡
+
+Check out their latest announcements 👇
+https://t.co/P6vprmZoIv",10,2,2,2020-12-13
+471,2020-12-14 18:00:25+00:00,1338544389111476225,Quantstamp,"🎉  ETH 2.0 Beacon Chain Launch
+🛡️  @compoundfinance and @idlefinance audits
+🔎  Security retainer with @CelsiusNetwork
+
+Here’s what happened at Quantstamp in November. 👇🏽
+
+https://t.co/KdoNVQ1AbW",14,1,2,2020-12-14
+473,2020-12-15 17:00:03+00:00,1338891584746622976,Quantstamp,"From gaming to real estate, Ethereum’s rapidly growing #NFT ecosystem is gaining some serious traction.
+
+Learn about some of the projects driving a new digital economy. ✨
+
+@aavegotchi @AxieInfinity @opensea @0xHorizonGames @SuperRare @uplandme @ourZORA 
+
+https://t.co/wU8TpAKfG2",68,5,17,2020-12-15
+477,2020-12-16 22:54:25+00:00,1339343148988866562,Quantstamp,"(1/2) 🎮 @AxieInfinity markets are thriving.
+
+Over 300k USD worth of sales last week 😲
+https://t.co/AmxPqX7rhM",9,2,2,2020-12-16
+479,2020-12-17 18:57:02+00:00,1339645797462241281,Quantstamp,"Quantstamp is in the process of auditing Alpha Homora, a protocol for leveraging your position in yield farming pools by @AlphaFinanceLab. 📜 ✨",27,1,2,2020-12-17
+481,2020-12-19 00:13:54+00:00,1340087927750070272,Quantstamp,"Listen to @cryptexfinance discuss TCAP in this podcast. The Cryptex team includes @preston_vanloon from Prysmatic Labs, the developers of the Prysm ETH 2.0 client. 
+https://t.co/GqD5MNV3jT",7,1,3,2020-12-19
+484,2020-12-21 15:46:21+00:00,1341047364446896132,Quantstamp,"We are proud to have participated in @idlefinance governance. 
+
+Idle Improvement Proposal #1 successfully passed! 🎉 https://t.co/4iyTuwS8Vt",13,1,2,2020-12-21
+485,2020-12-29 02:24:08+00:00,1343744581007933440,Quantstamp,"We are excited to be reviewing @snow_swap's contracts. You can find our initial security review here 🔍https://t.co/ZiZ7k7vlDi 
+
+They will be undergoing a full audit in the new year 🛡",42,3,6,2020-12-29
+486,2021-01-05 15:44:55+00:00,1346482821838192640,Quantstamp,"We secure the assets and infrastructure of your digital nation 🛡 ☑️
+
+Learn about the many things we accomplished in 2020 👇
+https://t.co/DSM5A1HNh4",43,14,13,2021-01-05
+487,2021-01-06 23:29:12+00:00,1346962049457274881,Quantstamp,"Congratulations to the whole cryptocurrency industry
+on surpassing 1Trillion in global market cap! 📈
+It has been our deepest pleasure to work alongside everyone.
+
+🚀 Here’s to the future of finance!!! 🌽🦄🍱 https://t.co/qzIx6UMBm4",45,4,10,2021-01-06
+488,2021-01-07 21:07:12+00:00,1347288702482075648,Quantstamp,"(10/11) In addition to auditing ETH 2.0 clients, we also audited @lidofinance's smart contracts.  
+
+Lido makes ether staked in the ETH 2.0 Beacon Chain liquid for stakers who use their platform 💧
+
+They just went live this week! 
+https://t.co/sKm07qvurs",10,1,1,2021-01-07
+499,2021-01-12 16:03:13+00:00,1349024142029430790,Quantstamp,"(1/2) Interested in CBDCs? 🏦
+
+Quantstamp is contributing to a World Economic Forum (@wef) working group that aims to help policymakers and central banks understand the critical issues involved with developing a central bank digital currency 👇
+https://t.co/p5FBgUmwQJ",31,2,6,2021-01-12
+503,2021-01-15 20:41:49+00:00,1350181417095933954,Quantstamp,"On the latest episode of Crypto Unstacked, Quantstamp CEO Richard Ma discusses early trends from various #DeFi, Layer 1 and #NFT audits, economic attacks of 2020, insurance, and more. #CUPofCrypto
+
+Listen here 🎧 ✨
+
+https://t.co/ScNMlr1l0C",19,4,6,2021-01-15
+504,2021-01-19 17:44:31+00:00,1351586349002838016,Quantstamp,"We have completed our audit of @ourZORA.
+
+Zora is building tools for creators to issue tokens around their creative practices, transferring power from corporations and platforms back to artists. 🏗️ 🎨 ✨
+
+https://t.co/LIisCzpbzl",32,1,5,2021-01-19
+505,2021-01-20 18:13:31+00:00,1351956034609319939,Quantstamp,"Quantstamp is collaborating with big names like @Ford, @Honda and @USAA to develop standards for smart mobility blockchain adoption🚘🚦 https://t.co/RbQYPrVf6v",44,4,11,2021-01-20
+506,2021-01-21 20:12:37+00:00,1352348393675214848,Quantstamp,"RAI is designed to be protected from drastic market shock.
+
+With minimized governance, the free-floating RAI by @reflexerfinance is a paradigm shift in stabilized cryptocurrencies; expected to launch later this quarter. 🦦 
+
+Check out the updates here. 🐬
+https://t.co/rbSA4aNdE7",22,0,6,2021-01-21
+510,2021-01-23 00:02:27+00:00,1352768623895482368,Quantstamp,"The @niftygateway @Beeple drop all purchased for
+2.2 million USD by @metapurse was a new NFT sales record! 🎨💰
+
+With 1.8 Million followers on Insta, beeple_crap is world renowned and this collection is now fractionalized allowing many users to own a piece of NFT history! 🧩 https://t.co/H0POMaJd6N",14,0,4,2021-01-23
+513,2021-01-25 16:34:16+00:00,1353742995086950400,Quantstamp,https://t.co/YqhG0FbZ11,3,0,1,2021-01-25
+514,2021-01-26 20:38:29+00:00,1354166844400099329,Quantstamp,"All systems go on the proposed upgrade! 🌊
+
+With the addition to the @Maker DAO Dai Peg Stability Module, $DAI is soon expected to be better than ever!
+
+Check out the very first security review coordinated via DAO governance deliberation! 🤸🏽‍♀️
+https://t.co/Tw73dTUYM8",21,1,3,2021-01-26
+515,2021-01-28 20:06:43+00:00,1354883626706620416,Quantstamp,"Mainstream adoption is ongoing 🎟
+
+@reddit announces partnership with @ethereum in order to develop scaling technology and contribute to the broader Ethereum ecosystem. 
+
+https://t.co/Uoy5jSrtT1",30,1,12,2021-01-28
+516,2021-01-29 00:38:21+00:00,1354951985795985409,Quantstamp,We’ll be hanging out on the digital dance floor 💃🏾 https://t.co/NACcSHUUe8,5,0,2,2021-01-29
+518,2021-02-02 15:51:01+00:00,1356631217777618946,Quantstamp,"(1/7) Quantstamp provides blockchain expertise to global consortiums building the infrastructure of tomorrow 🏗
+
+We are proud members of @dltMOBI along with @Ford, @Honda, @USAA, @IBM, @Hyperledger, @inside_r3 and many others.
+
+https://t.co/UvKk38iVto",18,2,5,2021-02-02
+525,2021-02-03 17:24:39+00:00,1357017166961205248,Quantstamp,"✨ Out of the @defipulse Top 10, we’ve secured around $11-12B out of $20B in value
+🛡️ Audits for @reflexerfinance, @ourzora + @CryptexFinance
+💵 Contributing to a @wef working group on issues around CBDCs
+
+Here's what happened at Quantstamp in January 👇🏽
+https://t.co/dRXrunpVhF",34,2,9,2021-02-03
+528,2021-02-04 19:34:14+00:00,1357412166937178112,Quantstamp,"Upcoming project 👇🏽
+
+Quantstamp will be auditing @CoverProtocol, a peer-to-peer coverage market. https://t.co/v0dsSTJAGF",84,3,20,2021-02-04
+529,2021-02-05 00:09:49+00:00,1357481520152236032,Quantstamp,"(4/4) 🌎 @terra_money recently launched @mirror_protocol, a synthetic assets protocol, and will soon launch @anchor_protocol, a low-volatility savings protocol.
+
+We are currently auditing @anchor_protocol smart contracts🛡",19,0,1,2021-02-05
+533,2021-02-06 04:21:33+00:00,1357907257250377733,Quantstamp,"Happy @EthereumDenver everyone!
+We’re proud to help present the DJ Chill Room.
+Find us around the virtual venue!
+
+https://t.co/clKEg1Eu4U 🥳 https://t.co/KNDqXyuoJr",21,0,4,2021-02-06
+537,2021-02-09 02:16:19+00:00,1358962905618784257,Quantstamp,"We have completed our security review of the @yaxis_project Metavault v2.
+
+Security review report is live here: https://t.co/lVlefmdpVx
+
+Good luck with the launch!",81,5,22,2021-02-09
+538,2021-02-10 23:43:26+00:00,1359649205111820293,Quantstamp,"Huge congratulations to @AxieInfinity on their recent milestone. 🎉
+
+Axie Infinity, an Ethereum-based blockchain game, incentivizes users to both play and build out the platform they’re participating in.
+https://t.co/hAJUW41TCw",16,0,1,2021-02-10
+539,2021-02-11 19:22:05+00:00,1359945823866421250,Quantstamp,"We recently audited the staking and governance contracts for @Barn_Bridge, a tokenized risk protocol for hedging yield sensitivity and market price. 🛡️",97,1,21,2021-02-11
+546,2021-02-12 16:42:13+00:00,1360267980282634240,Quantstamp,"1 year later 🤯  It's Friday + #ETHDenver and close to $40B TVL in #DeFi 🚀🚀🚀
+
+https://t.co/m7Yks0bmEH",35,6,10,2021-02-12
+547,2021-02-16 22:04:45+00:00,1361798700578742272,Quantstamp,Special mention: @PallerJohn @Sim_Pop @blondontherun @shannonewing @jwaup @mattdlockyer @mmjustin,14,2,0,2021-02-16
+549,2021-02-17 18:03:38+00:00,1362100409683218434,Quantstamp,"Quantstamp recently audited some updated functionality in the Sequence Smart Wallet, which handles in-game assets for Skyweaver, a digital trading card game by @0xHorizonGames. 🕹️ ✨",39,3,7,2021-02-17
+551,2021-02-18 16:08:24+00:00,1362433795786305538,Quantstamp,"🏀 @nba_topshot recently sold a @KingJames highlight as a digital collectible for over 70k USD. 
+
+NBA Top Shot is powered by NFTs on the @flow_blockchain, officially licensed by the @NBA and was created by @dapperlabs. 
+https://t.co/FiqPObvnew",22,1,3,2021-02-18
+552,2021-02-19 18:45:50+00:00,1362835802137366529,Quantstamp,Reviewing an exciting product from the minds of @tenxwallet 👀,37,8,10,2021-02-19
+554,2021-02-22 17:01:38+00:00,1363896745520898049,Quantstamp,"Diamond hands, short squeezes, bailouts—these terms became mainstream last month as the story of a grassroots Reddit community disrupting a powerful hedge fund went viral. 💎📉🏦
+
+But beyond the headlines, there's a strong and compelling case for #DeFi.
+
+https://t.co/mrRc4zRMdF",32,11,8,2021-02-22
+556,2021-02-23 14:48:08+00:00,1364225536306778113,Quantstamp,"(8/13) Fast settlement is one of the killer features of blockchain technology.
+
+When you wire money across the globe 🌏, it generally takes several days to process. When you send ether across the globe, it settles in minutes. 💨",3,1,0,2021-02-23
+570,2021-02-24 22:17:40+00:00,1364701051450912770,Quantstamp,DeFi fixes this! #Gamestop #DeFi 💎🤲🏼 https://t.co/iU0e0cUOUO https://t.co/vaWHzmM7Z8,20,0,5,2021-02-24
+571,2021-02-25 23:08:17+00:00,1365076177220636673,Quantstamp,"Sign up for our monthly newsletter and stay ""in the know!""
+https://t.co/eviEuMcpN5 👈📬",7,1,2,2021-02-25
+572,2021-03-02 16:21:29+00:00,1366785743796936706,Quantstamp,"Prediction 🔮
+
+Risk tranching protocols will be one of the next big #DeFi trends to emerge, giving DeFi borrowers access to fixed-interest loans for the first time.
+
+1 of 4 👇",64,3,13,2021-03-02
+577,2021-03-03 20:30:02+00:00,1367210680454029316,Quantstamp,"ERC-721 is the most adopted standard for NFTs. ✍️🏼☑️
+
+We recently worked with @hedera on a specification of an ERC-721-like #NFT for the Hedera Consensus Service.",237,12,60,2021-03-03
+579,2021-03-04 15:12:38+00:00,1367493191793053699,Quantstamp,"Quantstamp has also worked with @MakerDAO to provide security services for its grant recipients including @SablierHQ, @PoolTogether_ and @RampNetwork 🤝
+
+3 of 3",10,0,0,2021-03-04
+582,2021-03-05 19:40:17+00:00,1367922936959574017,Quantstamp,"🎖@BitwiseInvest has achieved a significant milestone in the blockchain industry: an index fund that provides TradFi investors with exposure to #DeFi. 
+
+https://t.co/aYRPw1Q4Wm
+
+(1/2)",18,4,5,2021-03-05
+584,2021-03-09 16:30:22+00:00,1369324692083982340,Quantstamp,"Quantstamp is honored to have secured the smart contracts involved in tokenizing one of the most valuable art projects in the #NFT space: the @beeple B.20 ✨🔥
+https://t.co/LPAEUn9RvV",88,7,27,2021-03-09
+585,2021-03-10 15:25:32+00:00,1369670765184917511,Quantstamp,"Quantstamp audited the first regulated Japanese yen stablecoin issued by a subsidiary of GMO Internet Group 🇯🇵
+
+1/2
+https://t.co/RNg3G2XbCS",78,7,21,2021-03-10
+587,2021-03-11 19:56:15+00:00,1370101282254381057,Quantstamp,"Congratulations @beeple 👏
+
+Beeple's NFT, The First 5000 Days, just sold at Christie's for $69.3M! 🤯✨
+
+Quantstamp secured the Beeple B.20 and we are honored to have been part of this amazing journey.",69,3,11,2021-03-11
+589,2021-03-12 01:59:50+00:00,1370192781356851208,Quantstamp,"We were talking about NFT marketplaces before they were popular!
+
+Join our mailing list to keep up with the latest from Quantstamp. 📫
+https://t.co/eviEuMcpN5",66,3,11,2021-03-12
+590,2021-03-15 21:29:31+00:00,1371574305033613313,Quantstamp,"So you’re a struggling artist?
+Learn how to sell your art digitally in 2021. 🎨🖥
+
+This beginner level tutorial will get you started today!
+#RareDigital #NFT #Ethereum 
+https://t.co/CziHauim2a",41,5,8,2021-03-15
+591,2021-03-16 14:55:09+00:00,1371837445675888646,Quantstamp,"🥇@MakerDAO played a foundational role in DeFi and continues to demonstrate itself as a leader today.
+
+Quantstamp is proud to have audited Liquidations 2.0 (MIP 45), a proposed upgrade, and the Dai Peg Stability Module for the Maker ecosystem 🛡
+https://t.co/pGFEeW8fh5",43,1,7,2021-03-16
+594,2021-03-17 20:32:44+00:00,1372284790536335363,Quantstamp,"Quantstamp is conducting a security review of Cadence, @flow_blockchain’s new smart contract language that is similar in many ways to Move, Libra's programming language.
+
+2/4",25,2,5,2021-03-17
+603,2021-03-18 19:55:04+00:00,1372637697148260352,Quantstamp,"Looking to sell your art as NFTs?
+Follow this thread and learn! 🎨
+
+Beginners start here 👇 https://t.co/CziHauim2a
+1 / 6",19,2,4,2021-03-18
+609,2021-03-22 19:18:06+00:00,1374077945598201856,Quantstamp,"Liquidations 2.0:
+
+📸 enables flash loan liquidations
+🧱 allows keepers to leverage all available liquidity with single block composability
+https://t.co/pGFEeVQDSv",18,1,2,2021-03-22
+612,2021-03-23 23:22:42+00:00,1374501890646405120,Quantstamp,"Coming Q3 2021, the first AAA gaming title built on blockchain using Unreal Engine 4.
+
+💜 Battle for ETH in a play to earn model
+🎴 Collect rare NFT creatures
+
+Quantstamp has secured their ERC20 and access control contracts. 
+
+Check out @illuviumio 👾
+https://t.co/HAOL9BRXvg",114,4,26,2021-03-23
+613,2021-03-25 22:15:45+00:00,1375209820303724547,Quantstamp,"With BTC liquidity coming to L2 via @optimismPBC, @SaddleFinance lets you trade and earn with pegged-value crypto assets. 🐎
+
+Quantstamp is excited to help secure the VirtualSwap and SynthSwapper contracts. 🛡
+
+1/3",39,3,10,2021-03-25
+616,2021-03-29 16:06:07+00:00,1376566350278053890,Quantstamp,"NFTs are a hot topic, but their non-fungible nature means they aren't easily transferable, and value can be difficult to determine—until now.
+
+Learn how #NFT index funds are unlocking liquidity, accessibility, &amp; sustainable options for NFT owners. 💧🚀✨
+
+https://t.co/K0arUIQRa2",59,5,22,2021-03-29
+617,2021-03-30 16:06:33+00:00,1376928844674834435,Quantstamp,"Quantstamp audited @BitGo’s Ethereum multisignature wallets🛡
+
+Learn more about BitGo’s custodial services, publicly traded companies making large purchases of digital assets, and where we think traditional finance is headed 🏦
+https://t.co/5UGh3AYAEj",62,1,11,2021-03-30
+618,2021-03-31 16:23:38+00:00,1377295533518118920,Quantstamp,"🎧 Join us on Clubhouse today at 1:15 pm PT/4:15 pm ET! Min Kim (@minittowinit) will be hosting an #OpenFi session along with Quantstamp CEO Richard Ma and @avalabsofficial President John Wu (@john1wu).
+
+https://t.co/yvgnC6boUT",31,0,9,2021-03-31
+621,2021-04-01 15:20:17+00:00,1377641977009766402,Quantstamp,"We would like to congratulate @dapperlabs for their investment round of $305 million which includes investments from Michael Jordan, other NBA athletes and @a16z🎉👏🥳
+
+1/5 https://t.co/xEW5DjwEs7",131,3,22,2021-04-01
+623,2021-04-06 20:13:34+00:00,1379527722184056834,Quantstamp,"Big congratulations to @Casper_Network on their successful mainnet launch. 
+In this phase, Quantstamp is looking at their token transfer, mint and auction contracts.
+
+Later we will look at their execution engine. 🛡
+https://t.co/4wobIqU4XX",40,2,8,2021-04-06
+626,2021-04-07 13:56:05+00:00,1379795115078778882,Quantstamp,"💧 Index funds unlocking liquidity for #NFT owners
+📒 @Visa settling transactions on Ethereum
+🛡 Auditing @flow_blockchain, @illuviumio and Fuse (@RariCapital)
+🎨 A Beginner's Guide to Selling Art in 2021
+
+Here's what happened at Quantstamp in March👇
+
+https://t.co/pC5SFLzXyw",84,22,24,2021-04-07
+627,2021-04-13 16:58:41+00:00,1382015396992143365,Quantstamp,"@DigitalDoji @CheezeWisard @investvoyager The certificate is available here:
+https://t.co/abwVyK8vGC",43,2,6,2021-04-13
+629,2021-04-19 15:22:45+00:00,1384165579125186562,Quantstamp,"Quantstamp audited @tezos domain names🌐
+
+Tezos Domains allows users to choose human readable names for their Tezos wallet addresses. 
+
+1/4",124,5,38,2021-04-19
+634,2021-04-20 17:27:42+00:00,1384559414401650689,Quantstamp,"Why does #NFT art have value?
+The recent explosion in interest of NFTs by predominantly new adopters of blockchain begs the question, why?
+
+Here is our take👇🎨
+https://t.co/0UrdJmtuNJ",15,2,4,2021-04-20
+638,2021-04-21 17:00:57+00:00,1384915070086434824,Quantstamp,"Quantstamp recently audited a new specification for @compoundfinance🛡️
+
+This patch introduces fixed-period vesting for COMP rewards, letting the protocol pay non-liquidity providers in an incentive-aligned way⏲️💸",37,2,7,2021-04-21
+639,2021-04-22 16:58:47+00:00,1385276911186677760,Quantstamp,☔️@CoverProtocol is a peer-to-peer market for liquidity providers to purchase coverage against smart contract risk for their investments in various DeFi protocols.🛡,52,3,8,2021-04-22
+641,2021-04-26 14:49:37+00:00,1386693956394655756,Quantstamp,"Liquidations 2.0💧, audited by Quantstamp, is now live on @MakerDAO protocol for the LINK-A collateral type 🎉
+https://t.co/pGFEeVQDSv",42,0,10,2021-04-26
+642,2021-04-27 16:10:41+00:00,1387076744037896193,Quantstamp,"Quantstamp audited @idlefinance’s flashloan integrations and other improvements to the protocol ⚡️
+
+Idle allows users to earn yield on digital assets using automated strategies that rebalance assets between several DeFi protocols so that users can earn the best yield 🤖🏦
+
+1/2",46,3,12,2021-04-27
+644,2021-04-28 21:10:43+00:00,1387514637705310212,Quantstamp,"We have completed a security review for @MonteCarloDEX🛡️
+
+MCDEX is a fully decentralized perpetual swap exchange, where anyone can create any perpetual market⚒️📊",52,3,1,2021-04-28
+648,2021-05-05 15:36:14+00:00,1389967178011594759,Quantstamp,"As #NFTs unlock true digital ownership for players, Ethereum scaling solutions are setting the stage for major growth🎮🔥
+
+From digital pets to sidechains, learn about some of the teams leading the charge👇
+
+https://t.co/W3DB5i4wWm",90,11,23,2021-05-05
+650,2021-05-10 13:00:01+00:00,1391739807068565504,Quantstamp,"Many predators lurk in Ethereum’s dark forest 🌘🌳
+
+Learn how KeeperDAO hides miner extractable value (MEV) by creating games that ensure users, bots and protocols stand more to gain by cooperating than competing ♖ ♜
+https://t.co/3jlCsp3hRM",130,4,32,2021-05-10
+651,2021-05-11 15:58:19+00:00,1392147062418927622,Quantstamp,"🚀 DeFi growth continues to skyrocket
+🛡️ Audits for @makerdao @compoundfinance @idlefinance @coverprotocol and more
+⚡️ Discussing flashloan attacks + defense @eth_taipei 
+
+Here's what happened at Quantstamp in April👇
+https://t.co/og7TQbcL8n",49,14,8,2021-05-11
+654,2021-05-14 18:17:03+00:00,1393269142157942785,Quantstamp,"@cz_binance @binance Hello @cz_binance, if you can check dm",30,0,3,2021-05-14
+655,2021-05-19 18:43:32+00:00,1395087743399514114,Quantstamp,"This Wharton University of Pennsylvania paper demystifying DeFi in collaboration with the World Economic Forum was reviewed by Research Engineer @banescusebi PhD. 
+
+Read about:
+⚙️ DeFi services
+⚖️ Structures in DeFi
+⏩ Emerging developments
+
+@wef
+https://t.co/3GCnmh9jfm",27,2,8,2021-05-19
+657,2021-05-25 17:12:45+00:00,1397239224768811009,Quantstamp,"Quantstamp completed an audit of Timeswap ⏳
+
+Timeswap is a fixed maturity lending and borrowing protocol in development by @TimeswapLabs that is designed to work without oracles or liquidators and have collateralization ratios that are market driven.",29,3,1,2021-05-25
+658,2021-05-26 15:29:37+00:00,1397575661062033408,Quantstamp,"Derivatives are a crucial part of a mature financial system🔑
+
+In #DeFi, brokers aren't required and settlement happens on-chain. Making these tools accessible to a global, decentralized community could unlock new levels of innovation and explosive growth this year.",40,7,9,2021-05-26
+660,2021-05-27 15:59:38+00:00,1397945601954877443,Quantstamp,"Quantstamp recently audited the @xtokenmarket lending contracts🛡️
+
+xToken is a decentralized lending protocol that offers passive, efficient ERC-20 staking strategies: users can stake DeFi tokens and rewards are auto compounded to the xToken🪴📈",49,3,9,2021-05-27
+662,2021-06-02 17:06:54+00:00,1400136857917087745,Quantstamp,"Catch much of the Quantstamp team down in Miami this week for #Bitcoin 2021! 🧡
+
+Hope to see family new and old at the beach. 🏝
+@TheBitcoinConf https://t.co/AlR0Kjt8nV",28,5,4,2021-06-02
+663,2021-06-07 14:54:50+00:00,1401915560565170182,Quantstamp,"Crypto lending 2.0 is in development 🏦 🌐
+
+Learn how protocols like @useteller, @AlkemiNetwork and @maplefinance are taking lending to the next level by offering unsecured loans, bridging CeFi to DeFi and lending to crypto institutions.
+https://t.co/nHCvymEpYn",67,6,20,2021-06-07
+664,2021-06-09 15:30:34+00:00,1402649328628342790,Quantstamp,"While #DeFi's variable interest rates have made it challenging to manage risk exposure, tranching and fixed-yield products are changing this✨⚖️
+
+Meet some of the protocols leading the way:
+
+@Barn_Bridge @saffronfinance_ @naos_finance @pendle_fi @88mphapp
+
+https://t.co/uZ91plQ9Cz",101,9,24,2021-06-09
+667,2021-06-10 20:10:50+00:00,1403082248023273473,Quantstamp,"Blockchain tech can play a huge role in the future of mobility by eliminating data silos, reducing reliance on third parties, automating processes, and providing data transparency for relevant stakeholders.
+
+4 of 4",10,0,1,2021-06-10
+672,2021-06-11 01:50:42+00:00,1403167776580071435,Quantstamp,"We're happy to announce that Quantstamp is now integrated with @CoinMarketCap!
+
+#CoinMarketCap users can now easily access #Quantstamp security audit reports directly from the metrics page of each project👇 https://t.co/gAOgBJ1sHp",336,54,112,2021-06-11
+673,2021-06-14 15:03:14+00:00,1404454389100605446,Quantstamp,"Quantstamp audited ICHI protocol's ichi-oneToken repository at commit 09fca74 and 11c210e.
+
+ICHI (@ichifarm) enables cryptocurrency communities to create and govern their own stablecoin.
+
+Learn more in the post below 👇
+https://t.co/PdGBamQfht",31,3,10,2021-06-14
+675,2021-06-15 15:45:35+00:00,1404827434764013568,Quantstamp,"While getting an audit or security review is never a guarantee that the code is error-free, it is a crucial step in mitigating risk 🛡️",3,1,0,2021-06-15
+701,2021-06-16 15:11:11+00:00,1405181165204430857,Quantstamp,"Quantstamp audited @naos_finance’s NAOS-Formation repository at commit 19f4967 and c12527.
+
+NAOS Finance enables the origination and funding of loans between DeFi lenders and SME borrowers without traditional intermediaries.
+
+Check out the report 👇📝
+https://t.co/OStbf2HJPn",18,3,5,2021-06-16
+702,2021-06-17 14:46:57+00:00,1405537454979883027,Quantstamp,"Read the latest standards here 👇
+https://t.co/O347a9BOr1
+
+4 of 4",3,1,0,2021-06-17
+706,2021-06-18 01:25:49+00:00,1405698230600433667,Quantstamp,"New developer learning solidity?
+Win $200k in prizes at the summer’s largest DeFi hackathon. @ETHGlobal
+
+Apply to #HackMoney2021, applications close tonight.
+
+https://t.co/mttZ8kFSiL 👈 https://t.co/bL2aRvdyIK",18,1,3,2021-06-18
+707,2021-06-21 15:11:07+00:00,1406993088686424064,Quantstamp,"Quantstamp audited @QredoNetwork’s qredo-token repository at commit 67ce8d3.
+
+Qredo Network seeks to bring deep liquidity and capital efficiency to the custody of digital assets 💧
+
+Read full audit report below 📝
+https://t.co/sFdDRX26ew",18,3,5,2021-06-21
+709,2021-06-22 20:48:45+00:00,1407440445412683778,Quantstamp,@TheLAOOfficial Interested,2,1,0,2021-06-22
+710,2021-06-23 14:07:18+00:00,1407701802519203843,Quantstamp,"Do you have lots of crypto locked up in DeFi? 🤑
+
+If the DeFi apps you use received audits, did you check out the reports? 🤔
+
+Learn the basics of how to read a Quantstamp audit report below 👇
+https://t.co/HSMALwXuXc",38,5,9,2021-06-23
+712,2021-06-28 14:13:53+00:00,1409515400996417541,Quantstamp,"🎉@RariCapital’s DAO voted to enter a 1 year retainer agreement with Quantstamp, the leader in blockchain security 🥳
+
+https://t.co/4JWcGO9BBu
+This is significant for a number of reasons 👇",47,2,6,2021-06-28
+717,2021-06-29 17:01:53+00:00,1409920066020208645,Quantstamp,"Quantstamp is pleased to sponsor the current cohort of DLT Talents, an 18-week mentoring program to empower female talent in the blockchain space🏗️✨
+
+@DltTalents @fsblockchain
+
+https://t.co/2xiSzPktwW",21,4,5,2021-06-29
+719,2021-07-07 18:06:30+00:00,1412835430077132802,Quantstamp,"Defending against #DeFi hacks and exploits, notable audits, the new Quantstamp seal, and a packed event calendar 🛡️🏗️✨
+
+Here's what happened at Quantstamp in June 👇
+https://t.co/lP5zGhSJJq",27,6,5,2021-07-07
+720,2021-07-12 16:50:49+00:00,1414628323611734019,Quantstamp,"Quantstamp audited @CoinviseCo’s coinvise-contracts repository at commit d0c58fc and b5f5c1f.
+
+Coinvise helps creators and communities build open economies by allowing them to create, collect and earn social tokens and NFTs 🌐⚖️
+https://t.co/GV0Xo7CLkj",18,1,5,2021-07-12
+721,2021-07-13 19:38:06+00:00,1415032808536383489,Quantstamp,"CEO Richard Ma will present Surviving DeFi: How to Prevent Economic Attacks at ETHecolé in Paris 🇫🇷 on July 21st! 🎙
+
+He will evaluate the effectiveness of strategies used by DeFi protocols in attempt to protect themselves from flash loan attacks ⚡️
+https://t.co/p1rj9Y7h7d https://t.co/yJZjX7BfyV",13,2,5,2021-07-13
+725,2021-07-14 17:16:42+00:00,1415359611566104577,Quantstamp,"Mark your calendar 🗓️
+
+On July 20 at 2 pm, don't miss ""Lessons learned from over 300 security audits"" at @EthCC by Sebastian Banescu (@banescusebi), Research Engineer at Quantstamp 💻🛡️ https://t.co/wfC2aCvx5c",28,2,5,2021-07-14
+726,2021-07-15 16:16:58+00:00,1415706970338717697,Quantstamp,"Coming to @EthCC? 🇫🇷
+
+On July 21, join us across the street at Café Saint-Victor for some wine and good company while celebrating the launch of Quantstamp Germany 🍷🥳
+
+Details and tickets here:
+https://t.co/Mp9zznU5z0 https://t.co/W48awNhPd1",11,2,1,2021-07-15
+727,2021-07-16 15:33:34+00:00,1416058434345050113,Quantstamp,"🇫🇷 Attending @EthCC? On July 20 at 2 pm Paris time, Research Engineer Sebastian Banescu (@banescusebi) will be presenting:
+
+""Lessons learned from over 300 security audits""
+
+Don't miss this session! 🛡️✨ https://t.co/18v1bpzxW8",10,3,3,2021-07-16
+728,2021-07-20 11:59:52+00:00,1417454206097657861,Quantstamp,"We will be presenting now live at ETHCC in the Monge room, on “Lessons learned from over 300 security audits”. https://t.co/qXBoavii8V",13,1,4,2021-07-20
+733,2021-07-21 09:22:19+00:00,1417776946994302976,Quantstamp,"Happening now 🎙️
+
+CEO Richard Ma presenting at ETHecolé 🇫🇷
+
+""Surviving DeFi: How to Prevent Economic Attacks""
+
+Effective defense techniques and best practices to avoid being the target of a flash loan attack 🛡⚡️
+
+#EthCC",16,0,5,2021-07-21
+735,2021-07-22 02:09:41+00:00,1418030456088322051,Quantstamp,@fsblockchain @MastercardDE Insightful panel!,1,1,0,2021-07-22
+737,2021-07-26 14:42:26+00:00,1419669446885404672,Quantstamp,"Quantstamp audited SEXP’s sexp-binary-options repository at commit c6e1cb8 and 1ce0875.
+
+@getsexp is a @tezos based synthetic asset exchange. 
+
+Read the full audit report below 📝
+https://t.co/ibi1n7c0tt",45,0,14,2021-07-26
+739,2021-07-27 18:25:27+00:00,1420087956736446464,Quantstamp,"The DLT Talents program hosted an all women’s panel on #stablecoins as a part of the Frankfurt School of Blockchain last week exploring regulation in the US and Europe. 🏦
+
+@fsblockchain @mastercardDE @DltTalents
+https://t.co/zAltd7jBfq",11,0,4,2021-07-27
+740,2021-07-28 15:57:07+00:00,1420413014478524418,Quantstamp,"Quantstamp audited MCDEX’s mai-protocol-v3 repository at commit 50fb550 and edf2053.
+
+@MonteCarloDEX is a protocol for perpetual swaps built on @arbitrum, an optimistic rollup built to scale Ethereum by @OffchainLabs.
+
+Read the full audit report below 📝
+https://t.co/trgTuhA7dN",28,0,3,2021-07-28
+743,2021-07-29 15:57:30+00:00,1420775498896969730,Quantstamp,"Hosted by the Ethereum Enterprise Alliance, 
+Senior Security Researcher Martin Derka and a panel of fellow luminaries discuss the realities and challenges of the ever evolving blockchain security space.
+
+@EntEthAlliance
+https://t.co/BhT51QxGWN",23,1,4,2021-07-29
+745,2021-08-02 14:45:42+00:00,1422206983889833984,Quantstamp,"Quantstamp audited Reflexer's geb-lender-first-resort repository at commit 6945d87.
+
+@reflexerfinance is building RAI, the first non pegged, stable asset which is only backed by ETH ⚖️
+
+Read the full audit report below 📝
+https://t.co/CgYGbUUUTV",37,2,7,2021-08-02
+747,2021-08-03 16:59:32+00:00,1422603048581406724,Quantstamp,"Quantstamp audited API3’s api3-dao repository at commit 283e6ba and d3db4e7.
+
+@API3DAO aims to develop APIs that meet the strict decentralization requirements of Web 3.0 without employing third-party intermediaries 🌐
+
+Read the full audit report below 📝
+https://t.co/TA2NYPnYlF",85,5,24,2021-08-03
+749,2021-08-04 14:59:55+00:00,1422935336309583874,Quantstamp,"🇫🇷 Participating in @EthCC in Paris
+🇩🇪 Quantstamp Germany has launched—and we're hiring!
+🗓️ A calendar packed with events + audits
+
+Here's what happened at Quantstamp in July 👇🏽
+https://t.co/g8obAiUG7F",31,12,10,2021-08-04
+751,2021-08-05 16:33:18+00:00,1423321223858049026,Quantstamp,"Quantstamp audited Flow’s flow-core-contracts at commit 81b75f1 submitted by @dapperlabs 
+
+Dapper Labs is the #NFT company behind @nbatopshot 🏀 and @CryptoKitties 🐈, and a key contributor to the @flow_blockchain 🌊
+
+Read the full audit report below:
+https://t.co/zSdsk324IC",87,8,19,2021-08-05
+753,2021-08-23 14:30:27+00:00,1429813291430211594,Quantstamp,"Quantstamp audited the goodghosting-smart-contracts repository at commit f1729c4 and 5e2eb63. 
+
+@goodghosting is a social DeFi pool that rewards regular saving 🤑
+
+Check out the full audit report below 📝
+https://t.co/r6LO0fesVK",32,4,6,2021-08-23
+754,2021-08-24 15:13:39+00:00,1430186550919315462,Quantstamp,Quantstamp is hiring a fulltime NFT analyst. Fun job diving deep into NFTs with a 6 figure salary. Apply with @cryptoed https://t.co/FWSzM7DcgP,53,1,20,2021-08-24
+755,2021-08-25 22:45:06+00:00,1430662545824698373,Quantstamp,"🎨Quantstamp is hiring a fulltime NFT analyst. Fun job diving deep into NFTs with a 6 figure salary.
+
+✨Retweets will be randomly selected to win a @ParallelNFT Star Chart, on Sep 1.
+
+🏹Successful referrals for a hire will earn an @AxieInfinity team! Apply with @cryptoed https://t.co/FWSzM7DcgP",278,43,242,2021-08-25
+756,2021-08-30 14:40:20+00:00,1432352492138815493,Quantstamp,"Quantstamp audited SuperRare’s rarest-token repository at commit at 8c5abd3 and 50bafc8.
+
+@SuperRare is a CryptoArt market that recently released the $RARE curation token 🎨
+
+Read the full audit report below 📝
+https://t.co/j3gjo1UvkN",38,8,8,2021-08-30
+760,2021-08-31 16:42:07+00:00,1432745526814932994,Quantstamp,"Quantstamp audited @BadgerDAO’s ibBTC repository at commit 6860dd8 and 3cad810.
+
+BadgerDAO builds products that bring BTC to DeFi 🦡
+
+Read the full audit report below 📝
+https://t.co/lpZeyGV6Nk",56,2,11,2021-08-31
+761,2021-09-01 15:26:47+00:00,1433088956791328775,Quantstamp,🌐 @API3DAO received 2 badges in their latest audit report: the “All Branches Covered” badge and the “All Issues Addressed” badge. https://t.co/0bo70m3DOn,65,2,15,2021-09-01
+764,2021-09-07 16:30:09+00:00,1435279231353643017,Quantstamp,"Indexes are an essential component of any advanced market, giving investors exposure to an entire sector by investing in a single asset 🏗️
+
+In #DeFi, they are not only efficient but affordable and permissionless as well 🔑✨",16,2,5,2021-09-07
+766,2021-09-09 14:51:20+00:00,1435979138750291972,Quantstamp,"@ParallelNFT @AxieInfinity @cryptoed And the winner is @LocoMottion2! 🎉
+
+Please follow us back and DM us your Ethereum address!",10,3,3,2021-09-09
+768,2021-09-13 15:00:14+00:00,1437430931548098564,Quantstamp,"Excited to see everyone in NYC Sept 20-22 for @MessariCrypto's annual summit #Mainnet2021! 
+
+Grab a pass today to get access to 150+ speakers, including Quantstamp CEO Richard Ma, and a stacked agenda of keynotes, panel discussions &amp; interactive demos 💫
+
+https://t.co/5ncpS6MJ7I https://t.co/O8SJwCOxNm",38,6,8,2021-09-13
+769,2021-09-16 23:21:17+00:00,1438644186572537860,Quantstamp,@MariaShen @0xJim @mikedemarais Sounds fun we’ll come along,2,0,0,2021-09-16
+770,2021-09-17 20:10:08+00:00,1438958470779207681,Quantstamp,"Join us for a great panel at #Mainnet2021 on September 20! Moderated by Quantstamp CEO Richard Ma, we'll be discussing standardization within the NFT space 📚
+
+Panelists include @anettrolikova from @EthMagicians, @pooja_eth from @ProtocolLabs and @simondlr from @un_frontier ✨ https://t.co/0Pr1PEnQJU",45,4,9,2021-09-17
+772,2021-09-20 16:00:01+00:00,1439982688224485382,Quantstamp,"Quantstamp audited Tokemak’s tokemak-smart-contracts at commit 8f33ff8 and 1dc68ff. 
+
+@TokenReactor aims to bring sustainable liquidity to DeFi 💧
+
+Read the full audit report below 📝
+https://t.co/r1Y8356s4G",45,3,8,2021-09-20
+776,2021-09-21 15:00:04+00:00,1440329989828878336,Quantstamp,"🎉 🥇 @LocoMottion2 is the winner of our recent retweet contest!
+
+She won a @ParallelNFT Star Chart ⭐️
+
+Congrats on the cool NFT!
+https://t.co/sGkLgkRYDo",13,1,1,2021-09-21
+780,2021-09-22 15:01:02+00:00,1440692620078899225,Quantstamp,"Quantstamp is hiring!
+
+We're looking for a DeFi Accountant ✨
+
+Skip the traditional career path and join us on the frontlines of #DeFi, Yield Farming, NFTs and blockchain transactions.
+
+Get more info and apply here 👇
+https://t.co/guWqBUYmGT",15,1,3,2021-09-22
+785,2021-09-28 13:00:02+00:00,1442836500052430855,Quantstamp,"Quantstamp audited Saffron's saffron-staking-v2 repository at commit a1c08f0 and a673974. 
+
+@saffronfinance_ is an asset collateralization and customized risk protocol for DeFi. 
+
+Read the full audit report below 📝
+https://t.co/XUOEYcsmmR",41,3,10,2021-09-28
+787,2021-09-29 02:40:12+00:00,1443042899466153986,Quantstamp,Join us tomorrow at 9:30am pacific! https://t.co/Ul8UZgDnxV,22,0,7,2021-09-29
+789,2021-10-06 17:17:04+00:00,1445800285830479882,Quantstamp,"Dapper Labs recently announced an NFT deal with the @NFL to create collectible video highlights for fans 🏈
+
+@dapperlabs is also the team behind @nbatopshot, which already has over 700 million USD worth of NFT sales.
+https://t.co/OvI2RaUbj0 https://t.co/vwINCSrORB",18,1,2,2021-10-06
+790,2021-10-07 17:09:41+00:00,1446160813824348160,Quantstamp,"This month is #CyberSecurityMonth! 🎉🍾
+
+To celebrate, we will slowly release a large Twitter thread with security tips for navigating the cryptocurrency space.
+
+Check out the first tip below 👇",64,3,10,2021-10-07
+794,2021-10-08 17:36:41+00:00,1446529996407783432,Quantstamp,"@PopsicleFinance Quantstamp audited Popsicle Finance's PopsicleV3Optimizer at commit d151377 and 540b63f. 
+
+@PopsicleFinance 🍭 is a multichain yield optimization platform for Liquidity Providers 💧
+
+Read the full audit report below 📝
+https://t.co/molmAfJsj1",18,1,2,2021-10-08
+795,2021-10-11 15:00:02+00:00,1447577740639563776,Quantstamp,"🌿 The Quantstamp team continues to grow (and we're still hiring!)
+🛡️ Gearing up to audit @Solana's core infrastructure
+💫 Event season kicks off
+
+Here's what happened at Quantstamp in September 👇
+https://t.co/fiQpmgeALm",17,0,3,2021-10-11
+799,2021-10-12 22:43:06+00:00,1448056662682529792,Quantstamp,"This announcement comes only 42 days after the launch of Arbitrum One 🤯
+
+Having already reached $1.8B TVL, it will be exciting to see the impact this upgrade has on the ecosystem.
+
+Congrats to the entire team on this exciting development 👏🏽",17,0,1,2021-10-12
+803,2021-10-13 14:02:36+00:00,1448288061511536654,Quantstamp,"Backing up your private keys 🔑
+
+If you manage your cryptocurrency through a browser wallet like MetaMask or a hardware wallet like Ledger, make sure to safely back up your keys.
+
+#CyberSecurityMonth
+(continued) 👇",13,2,4,2021-10-13
+806,2021-10-15 23:25:07+00:00,1449154401537462276,Quantstamp,"We are sponsoring the @MercedesAMG car driven by @MaroEngel in the 2021 Indianapolis 8 Hours, an endurance race taking place this Sunday.
+
+Our logo looks great on the car! 🏎 💨 https://t.co/9boRrS5Mcl",102,9,21,2021-10-15
+809,2021-10-16 21:45:16+00:00,1449491660874862593,Quantstamp,"🥇 @craftbamboo set the quickest time in the qualifying round today! 
+
+Tomorrow is the big day for the official race in the #indy8hr! 🏁🏎💨
+ 
+@amgmotorsport @IntercontGTC https://t.co/Hi7pnw5G20",21,0,2,2021-10-16
+810,2021-10-18 13:20:48+00:00,1450089480703160321,Quantstamp,"We’re in Lisboa! 🇵🇹
+
+Catch Day 1 of @0xliscon Oct 20th with us!
+10am - 2:30pm, we're helping with the “Layers, Future, Vibes” series on the main stage.
+
+Watch luminaries like @Sim_Pop, @prestwich, @makoto_inoue, @yanivgraph and more.
+
+Full agenda here 👇
+https://t.co/ADmyQN84Gp",27,2,3,2021-10-18
+812,2021-10-20 13:27:11+00:00,1450815865922981890,Quantstamp,"Quantstamp audited the Firestarter-Finance/contracts repository at commit eb96d7b and 79f72eb.
+
+@firestarter_fi is a launchpad for initial metaverse offerings 🔥🔥🔥
+
+Check out the full audit report below 📝
+https://t.co/OAVI5uO1Wy",72,1,13,2021-10-20
+815,2021-10-21 14:08:48+00:00,1451188724419555338,Quantstamp,"We audited a diff of @reflexerfinance’s curve-contract repo at commit a6a29eb and 3104128 and the curve-factory repo at commit 1bf4af5 and 854c210.
+
+These contracts are related to the RAI-3pool metapool opening on Curve 🗿
+
+Check out the audit report 📝
+https://t.co/I6LOk9oN3H",32,5,6,2021-10-21
+816,2021-10-28 11:00:00+00:00,1453677926759665669,Quantstamp,"We know how to Tuna Party! 🐟🍣
+
+The Quantstamp team had lots of fun in Portugal 🇵🇹🍾
+
+Don't miss out on the next party! https://t.co/S5pJA6Ggrm",28,5,2,2021-10-28
+819,2021-10-29 14:52:17+00:00,1454098768987451401,Quantstamp,"Fake tokens on DEXs 🎭
+
+Scammers frequently list fake tokens on DEXs in order to get you to buy them by accident. 
+
+#CyberSecurityMonth
+(continued)",7,1,1,2021-10-29
+823,2021-11-02 16:46:53+00:00,1455577164116480000,Quantstamp,"Quantstamp is looking for an Ops Specialist who can help optimize and streamline day-to-day activities for our newly launched entity in Germany 🇩🇪
+
+Details here 👇
+https://t.co/kH6Iwt49i9 https://t.co/yjoZdyaELy",23,1,4,2021-11-02
+825,2021-11-03 17:30:10+00:00,1455950443306045444,Quantstamp,"Happening tonight! 
+
+Join us for an evening of NFTs, social impact + music at @0xFest 🖼🌈🎧
+
+Quantstamp is proud to support this great event along with an amazing lineup of sponsors.
+
+Tickets here👇🏼
+
+https://t.co/Am4SAhFTAR",18,3,4,2021-11-03
+826,2021-11-06 17:25:54+00:00,1457036530904559618,Quantstamp,"Our audit certificate made an appearance on a review of @FODLfi from @DefiantNews 📝
+
+FODL is a product of the @0x_b1 team 👹
+https://t.co/33iERqBeY5",43,3,11,2021-11-06
+827,2021-11-09 12:00:02+00:00,1458041688207892482,Quantstamp,"Scaling is crucial for Ethereum to reach its full potential.
+
+With $5B TVL in the Layer 2 landscape, meet some of the scaling solutions leading the way 🚀
+
+@arbitrum @optimismPBC @StarkWareLtd @dydxprotocol @deversifi @Immutable @0xPolygonHermez
+
+https://t.co/UdYXVaUvcl",35,8,4,2021-11-09
+828,2021-11-10 16:21:00+00:00,1458469753497038856,Quantstamp,"Quantstamp audited the vault and parimutuel program in the Hedgehog repo at commit 53b3b12 and b9d905e.
+
+@HedgehogMarket offers no-loss prediction markets on @Solana 🏈 💰 🎮
+
+Check out the full audit report below 📝
+https://t.co/DKATKLD3Ru",34,4,5,2021-11-10
+830,2021-11-15 12:00:01+00:00,1460216010359910400,Quantstamp,"Mainstream adoption of cryptocurrency and blockchain technology is happening now! 🚀🚀🚀
+
+Read this blog post to learn how companies like @Visa, @stripe, @ChristiesInc, the @NBA and @budweiserusa are entering the fold 😎
+https://t.co/QhtTVT8EQN",45,12,13,2021-11-15
+831,2021-11-16 16:14:32+00:00,1460642450481893384,Quantstamp,"Back when our in-house NFT expert @TheMatticusFits was learning the ropes, NFTs clicked for him after reading this post by @opensea 📕
+
+Check it out below:
+https://t.co/5Ji9JfqpDn",17,1,5,2021-11-16
+833,2021-11-18 00:15:19+00:00,1461125831414059008,Quantstamp,"Quantstamp audited @saddlefinance’s saddle-token repo at commit 96295e8 and 617d17f. 
+
+These contracts pertain to the retroactive vesting of the SDL token. 
+
+Read the full report below 📝
+https://t.co/1r7XQZFW3w",30,1,2,2021-11-18
+836,2021-11-22 19:19:57+00:00,1462863441039740929,Quantstamp,"Thank you to everyone who participated in #hackatum (@hackatum) 2021 this weekend! It was a record-breaking year for submissions and Quantstamp was honored to participate🛡️🔥
+
+Congratulations to the winners! https://t.co/w4L0TQI8IU",24,1,4,2021-11-22
+837,2021-11-23 17:02:44+00:00,1463191294516158467,Quantstamp,"Recently released by the @wef: Digital Currency Governance Consortium White Paper Series 📰
+
+Co-authored by Sebastian Banescu, Senior Research Engineer at Quantstamp, the series aims to equip policymakers with info around #CBDC and #stablecoins.
+
+More👇
+https://t.co/40IUiu8Cxv",25,5,13,2021-11-23
+838,2021-11-29 12:00:00+00:00,1465289437932179458,Quantstamp,"🚀 @dapperlabs is catapulting blockchain into the mainstream with NFT powered platforms like @nbatopshot and now has their sights set on DAOs 🎯
+
+Learn more about the achievements and leadership of Dapper Labs in the post below 👇
+https://t.co/SsgOgjPnfm",147,12,33,2021-11-29
+839,2021-12-02 12:00:02+00:00,1466376611960217603,Quantstamp,"The inaugural Crypto Dodgeball tournament starts today! 🎉🥈🥇🥉🍾
+
+Over $5000 in prizes 🤑
+
+Register below and join us in Miami at 11:30 AM EST at Jose Marti Gym. 
+
+#ArtBaselMiamiBeach2021
+https://t.co/bsC595tfRa",13,1,2,2021-12-02
+840,2021-12-06 16:10:19+00:00,1467889148820213760,Quantstamp,Securing the Metaverse 🪐👾🛡 https://t.co/3lzn2P6sZJ,83,7,14,2021-12-06
+841,2021-12-07 15:00:03+00:00,1468233850966798336,Quantstamp,"🚀@dapperlabs attributes their success to having fun with things that people already love and building communities around fandom.
+
+Read more about Dapper's leadership in the post below👇
+https://t.co/SsgOgjPnfm",15,2,2,2021-12-07
+842,2021-12-08 15:57:52+00:00,1468610792010354692,Quantstamp,"🚀 NFT and L2 growth continues
+🛡 Auditing @HedgehogMarket, @idexio and @saddlefinance
+🏗 Collaborating with @WEF
+👾 A successful hackathon
+
+Here's what happened at Quantstamp in November👇🏼
+https://t.co/2EuvxrAQmW",28,4,9,2021-12-08
+843,2021-12-09 16:00:03+00:00,1468973727291371523,Quantstamp,"Quantstamp completed a diff audit of NAOS Finance's NAOS-Formation repo between commits c125272 and c1404ec.
+
+@naos_finance enables the origination and funding of loans between DeFi lenders and SME borrowers without traditional intermediaries.
+
+Report👇
+https://t.co/5sL6vPgmEt",28,2,2,2021-12-09
+844,2021-12-13 09:35:57+00:00,1470326617058816001,Quantstamp,"🍱 Posted a short proposal to bring in the founders of @Clipper_DEX to help @SushiSwap with building, organization, and more:
+
+🍣 https://t.co/lKm3dZtHOD",38,2,6,2021-12-13
+845,2021-12-14 16:30:02+00:00,1470793210733629442,Quantstamp,"After a record-setting NFT-collateralized loan was obtained earlier this year, various other protocols have emerged 🛠️
+
+Learn how the financialization of NFTs is unlocking endless use cases for these previously illiquid assets 📈
+
+https://t.co/7dINDYJ8Ky",43,18,8,2021-12-14
+846,2021-12-21 20:06:19+00:00,1473384358145040384,Quantstamp,@alphaK3Y @poolsharks_nft @certik_io @rv_inc We did not audit Visor,3,1,0,2021-12-21
+847,2021-12-24 18:01:18+00:00,1474440060237799425,Quantstamp,"Quantstamp audited Astar Network’s Astar repository at commit 6d8c38a.
+
+@AstarNetwork is a smart contract hub on @polkadot 🏗🚀
+
+Check out the audit report below 👇🏽
+https://t.co/wiW7IVjt0T",70,16,13,2021-12-24
+848,2022-01-11 17:01:06+00:00,1480947892453994498,Quantstamp,"Securing the metaverse, the explosion of NFTs, L2 scaling, and a rapidly growing team 👾💥
+
+A look back over the past year and some of the amazing projects on our journey to secure the decentralized web 🛡️🌐
+
+https://t.co/E0MQ3k5Qla",107,24,21,2022-01-11
+849,2022-01-18 18:45:41+00:00,1483510925042847744,Quantstamp,"Giving @KavitaGupta19 lots of love during this difficult time. She’s one of the hardest working people and helped build Consensys Ventures, and it’s unfortunate that she was not paid from her share of the fund for her years of work. We hope that this can come to a fair conclusion https://t.co/3lsJscGWBf",37,5,3,2022-01-18
+850,2022-01-19 14:09:51+00:00,1483803896208183300,Quantstamp,"Quantstamp audited @makersplaceco’s collection repository at commit 22adc58 and cb123b6. 
+
+MakersPlace is a digital art market that verifies 3rd party collections 🖼
+
+View the audit report below 📝
+https://t.co/0Xm87bfGIJ",36,6,8,2022-01-19
+851,2022-01-24 14:00:00+00:00,1485613356522291207,Quantstamp,"Quantstamp audited two repos for Rengo Labs: casperswap-core at commit 3069edd and casperswap-router at commit 9f464a6.
+
+Rengo Labs is creating and powering DEXes on the @Casper_Network.
+
+Check out the audit report below:
+https://t.co/FnDr468Cgg",109,10,30,2022-01-24
+852,2022-02-08 18:05:46+00:00,1491111022962573312,Quantstamp,"Who's going to be at @EthereumDenver? 👀
+
+The Quantstamp team will be there and we’re looking forward to catching up with everyone! 
+
+https://t.co/ZnR2sOcFc8",26,5,8,2022-02-08
+854,2022-02-09 17:20:40+00:00,1491462065059291136,Quantstamp,"ETHDenver is coming up quickly, with festivities and #BUIDLWeek kicking off February 11! Who’s joining us in Colorado?
+
+#THISISTHEGWEI",58,10,6,2022-02-09
+855,2022-02-10 19:24:54+00:00,1491855714163183622,Quantstamp,"📈 NFT growth on Ethereum
+🛡️ Audits for @AstarNetwork, @makersplaceco, @naos_finance, @Casper_Network and more
+🦄 Preparing for @EthereumDenver 
+
+Here's what happened at Quantstamp in January 👇
+https://t.co/jyqPydWvVn",93,25,28,2022-02-10
+856,2022-02-15 18:36:31+00:00,1493655478874046464,Quantstamp,"We're at @EthereumDenver! Stop by to see us on the Top BUIDL Floor at the Mirus Art Gallery or stop by booth P25 across from the beanbags. 
+
+https://t.co/AsT4ihRXS9",39,6,5,2022-02-15
+857,2022-02-16 17:11:14+00:00,1493996402090905603,Quantstamp,"Gm! If you have a volunteer ticket, here’s your friendly reminder to grab a coffee and head over to help make @EthereumDenver a success ☕ 🥳
+
+With ~15k attendees and a lot of new faces this year, your role is critical!",31,1,4,2022-02-16
+859,2022-02-17 20:53:55+00:00,1494414833994846215,Quantstamp,"Join us tomorrow, February 18 at 9 AM (Gravity Stage) where Martin Derka, Senior Research Engineer at Quantstamp will present
+
+The Proper Treatment of Randomness 🎲
+
+#ETHDenver",20,2,8,2022-02-17
+860,2022-02-18 02:58:29+00:00,1494506577725902850,Quantstamp,"Happening now 🔊
+
+Quantstamp CEO Richard Ma on the main stage at @EthereumDenver https://t.co/DIyO58zQm5",50,2,6,2022-02-18
+864,2022-02-19 16:35:00+00:00,1495074448231206922,Quantstamp,"Happening now on the Laser Stage 📢
+
+Martin Derka, Senior Research Engineer at Quantstamp, presenting
+
+Not Quite Water Under the Bridge: Review of Cross-Chain Bridge Hacks
+
+#ETHDenver",35,2,6,2022-02-19
+869,2022-02-20 01:52:10+00:00,1495214663470096388,Quantstamp,We are actively investigating and a team of auditors are working to help https://t.co/W6wpZhOmxc,36,1,11,2022-02-20
+873,2022-02-24 03:41:14+00:00,1496691665389633547,Quantstamp,@obnty @WatanabeSota @NextWebCapital Congratulations @obnty and @WatanabeSota!!,3,1,0,2022-02-24
+874,2022-03-07 20:35:22+00:00,1500933146363133956,Quantstamp,"ICYMI: Dr. Sebastian Banescu (@banescusebi), Senior Research Engineer + Country Manager for Germany at Quantstamp, recently participated in the Crypto Valley Association's #CVAvirtualseries launch event:
+
+The Smart Contract Secure Development Lifecycle 🛡️
+https://t.co/NjmYffX7JC",30,4,9,2022-03-07
+877,2022-03-08 17:00:02+00:00,1501241344081240068,Quantstamp,"🦄 Record-setting attendance at @EthereumDenver
+🛡️ Securing @MiniNations, @GeltFinance @hashflownetwork, @keeper_dao and more
+⏱️ Ethereum scaling developments
+
+Here's what happened at Quantstamp in February 👇🏽
+
+https://t.co/OLH04RhGbl",40,8,13,2022-03-08
+878,2022-03-10 20:20:12+00:00,1502016493235499018,Quantstamp,"We're now listed on the bounty submission page 🎉
+
+Submit your hacks for Quantstamp's bounty for the virtual #BUIDLathon until March 21 at 8am MT!
+
+Details here: https://t.co/Fdfp0zZiHt https://t.co/q1Cpj5C93P",29,12,8,2022-03-10
+879,2022-03-18 22:12:51+00:00,1504943943989006341,Quantstamp,"Don't forget 👇🏻
+
+You have until Monday, March 21 @ 9 am MT to submit your hacks for Quantstamp's bounty! 🛡️
+
+Details here: https://t.co/Fdfp0zHHPV",25,5,6,2022-03-18
+880,2022-03-20 22:55:34+00:00,1505679470988087296,Quantstamp,"Final reminder!
+
+You have until Monday, March 21 @ 8 am MT to submit your hacks for Quantstamp's bounty for the virtual #BUIDLathon 🛡️
+
+Details below 👇
+https://t.co/Fdfp0zHHPV",28,4,6,2022-03-20
+881,2022-03-22 18:50:54+00:00,1506342672977612802,Quantstamp,"Welcome to Barcelona!
+
+Come join us with @GSR_io, @joinrepublic and @NestedFi for some delicious tapas and drinks! 🍷
+
+#AvalancheSummit
+https://t.co/Zx4X7QURaj",46,3,11,2022-03-22
+882,2022-03-29 17:27:44+00:00,1508858456975024133,Quantstamp,"Bridge hacks continue to be a huge issue 🚨
+
+Check out a recent presentation from @EthereumDenver by Dr. Martin Derka, Senior Research Engineer at Quantstamp, covering some of the risks and vulnerabilities with bridges:
+
+https://t.co/vrhhfv7PQ9 https://t.co/yQnPqJ9w8u",42,8,13,2022-03-29
+883,2022-04-04 10:59:00+00:00,1510934956981174273,Quantstamp,"Tomorrow, Quantstamp is releasing the 1st episode of Curated, a brand new podcast hosted by our NFT team! 🎙
+ 
+Our hosts, Tyler and @sabsnft, will discuss everything web3 with the people making it happen 🌐
+
+Our 1st episode will feature the one and only @META_DREAMER ☁️",57,3,13,2022-04-04
+885,2022-04-05 11:00:01+00:00,1511297602163159046,Quantstamp,"Our inaugural episode of Curated is live! 🎉
+
+In episode 1, @META_DREAMER, the founder of @TheMetaFactory, discusses why legacy brands wont be the ones to pioneer the metaverse with hosts, Tyler and @sabsnft.
+
+Join us as we peer into the future 👩‍🚀 🪐 
+https://t.co/pn8cYhyeLu https://t.co/ZnO6BtIWDA",42,0,14,2022-04-05
+886,2022-04-07 10:59:00+00:00,1512022120578138116,Quantstamp,"🧑‍🚀 🌐 🪐
+
+@META_DREAMER shares a hot take on BAYC’s new metaverse project in our 1st episode of Curated 🔥
+
+Curated is hosted by @sabsnft and Tyler, members of Quantstamp’s NFT team.
+
+https://t.co/pn8cYhgDTW https://t.co/ym2K9BZ0vZ",29,3,7,2022-04-07
+887,2022-04-09 19:42:36+00:00,1512878665993887744,Quantstamp,"We'll be in Paris this coming week for @PBWSummit and we are hiring! 
+
+Stop by our booth to say hi and find out more about working at Quantstamp🛡️
+
+https://t.co/7i1kZ0vZn6",32,3,7,2022-04-09
+888,2022-04-12 14:41:13+00:00,1513889984973004817,Quantstamp,"Book a spot below, then stop by to see Martinet at the Quantstamp booth at Palais Brongniart during your scheduled time 🛡️🛠️
+
+https://t.co/yPueil09me",8,1,0,2022-04-12
+891,2022-04-13 05:25:22+00:00,1514112488543039494,Quantstamp,"We're here in Paris! 🇫🇷
+
+Today and tomorrow, stop by our booth at Palais Brongniart to learn more about our current opportunities. 
+
+#PBWS22 #WeAreHiring https://t.co/e312en9A0f",23,2,4,2022-04-13
+897,2022-04-14 07:32:09+00:00,1514506782630203394,Quantstamp,"We are here again today at Palais Brongniart in Paris and #WeAreHiring! 🇫🇷
+
+Stop by our booth to chat with our team and learn more about our current opportunities. 
+
+#PBWS22 https://t.co/4tGAmb98jy",49,3,6,2022-04-14
+899,2022-04-15 21:50:21+00:00,1515085144352198657,Quantstamp,"Excited about the @moonbirds_xyz drop? 🌔 🦉
+
+In the latest episode of Curated, Brenden @mulligan, creator of @PREMINT_NFT, discusses brainstorming the Moonbirds whitelist with the Moonbirds team.
+
+Check the clip below 👇
+https://t.co/Zz6fqZZFNN https://t.co/wZQwZqjD2b",25,0,5,2022-04-15
+900,2022-04-20 07:00:00+00:00,1516673018809880576,Quantstamp,"Don't miss this great panel on Thursday from 6:25 - 6:55 CEST:
+
+What the Hack: Hacks, Failures &amp; The Ways to Avoid Them 🛡️
+
+Quantstamp Senior Research Engineer Sebi Banescu (@banescusebi) will be joined by Jason Jiang from @CertiKTech and Nick Vasilich from @harmonyprotocol",31,1,6,2022-04-20
+902,2022-04-21 20:02:28+00:00,1517232320855482368,Quantstamp,"In Ep 3 of Curated, hosts @sabsnft and Tyler interview @jordanfried, the owner of https://t.co/e395VcFzxf 🎙
+
+In the clip below, @jordanfried discusses his purchase of https://t.co/e395VcFzxf 🎬
+
+Full episode drops tomorrow at 7 am ET on our Twitter! https://t.co/6plyc9xMUk",17,2,5,2022-04-21
+903,2022-04-22 11:00:01+00:00,1517458194666196992,Quantstamp,"Ep 3 of Curated is live 🚀
+
+Hosts @sabsnft and Tyler interview @jordanfried, owner of https://t.co/e395VcFzxf, and discuss:
+
+💧 the https://t.co/skXPvERZOf genesis drop
+💰 purchasing https://t.co/e395VcFzxf 
+💪 big backers like @balajis 
+
+🎙 https://t.co/xTymWdGIMc https://t.co/ML657Y4QRb",38,0,10,2022-04-22
+905,2022-04-26 20:06:37+00:00,1519045302866558980,Quantstamp,@cz_binance Let’s go!!,13,0,1,2022-04-26
+907,2022-04-27 04:12:14+00:00,1519167512847339520,Quantstamp,"Quantstamp is pleased to be a gold sponsor of @BSidesMunich, taking place May 15-16, 2022 💥
+
+#BSidesMunich22 https://t.co/m6pStXLrIn",26,3,2,2022-04-27
+910,2022-04-28 11:00:00+00:00,1519632518663745536,Quantstamp,"Ep 4 of Curated is live 📺
+
+Hosts @sabsnft and Tyler interview @Zeneca_33 and discuss: 
+
+💻 The infamous Zeneca Spreadsheets
+
+🧑‍🏫 Zen Academy and his other projects
+
+🕒 Why he works in US time but lives in Europe 
+
+🎙 https://t.co/WTZ83GYikH https://t.co/550Z4BrorG",50,0,9,2022-04-28
+911,2022-05-04 17:20:46+00:00,1521902668125327361,Quantstamp,"Bullish on Creative Commons Zero (CC0)? 
+
+So is @Zeneca_33 🚀
+
+In the latest episode of Curated, Zeneca discusses the synergy between CC0 and crypto, and why he thinks it is the next evolution of intellectual property rights.  
+
+🎙 Full episode ➡️ https://t.co/h4i1mORwE0 https://t.co/XmeNb54FYR",17,1,3,2022-05-04
+912,2022-05-06 11:00:01+00:00,1522531626969796608,Quantstamp,"Ep. 5 of Curated is live 🎙
+
+@NFTommo, the creator of @wgmiio, discusses his widely used and innovative NFT portfolio analytics tool that even takes NFT traits into consideration to accurately price NFTs beyond just the floor price ‼️
+
+📺 https://t.co/l2Nu9OILD5 https://t.co/1PYUryJdgd",31,2,11,2022-05-06
+913,2022-05-09 22:59:55+00:00,1523799957962391555,Quantstamp,"On the latest Ep. of Curated, 
+
+@wgmiio founder Thomas Mancini (@NFTommo) describes the urgency behind purchasing The Golden Bird 🐥, his current PFP and one of 3 floor price @moonbirds he was considering at the time.
+
+📺 Full Episode ➡️ https://t.co/l2Nu9P0URd https://t.co/JKPEQyVund",21,1,13,2022-05-09
+914,2022-05-10 16:08:20+00:00,1524058766336925696,Quantstamp,"🛡️ Audits for @makersplace, @playmythical, @Treasure_DAO and more
+💫 Launching a podcast and @NFT_Combinator
+🎙️ Presenting at @PBWSummit, #Devconnect and @ETHportland
+
+Here’s what happened at Quantstamp in April 👇🏻
+https://t.co/rMkedRj4l2",11,2,2,2022-05-10
+915,2022-05-11 16:03:31+00:00,1524419943894175745,Quantstamp,"Every day, DeFi users rely on bridges to move millions in assets from one chain to another. But this convenience comes with risk ⚖️
+
+In our latest post, we cover cross-chain bridge hacks and some attack vectors that make bridges especially vulnerable 🔓
+
+https://t.co/7rVQBdVGVI",50,69,14,2022-05-11
+916,2022-05-12 11:00:02+00:00,1524705958517100544,Quantstamp,"We audited @lifiprotocol's lifinance/contracts repo at commit 7a4a667 and 1e6e555 🔍
+
+https://t.co/gUdsYG8P0w is a bridge and DEX aggregator helping protocols offer cross-chain swaps and more. 
+
+For info on audit scope and results, view the full report 👇
+https://t.co/QiYI3cpxYr",47,3,10,2022-05-12
+917,2022-05-13 22:00:00+00:00,1525234431308378114,Quantstamp,"Ep 6 of Curated is live 🎙
+
+Hosts @sabsnft and Tyler interview actor, filmmaker, and NFT artist @davidbianchi and discuss: 
+
+🖼 long-form digital art
+🧑‍🎨 how social change fits into web3  
+🕌 the merging of tech, finance, culture and art
+
+📺 Watch Now ➡️https://t.co/SITvxIXoNm https://t.co/Cxh1lz24u6",17,1,4,2022-05-13
+918,2022-05-16 21:01:10+00:00,1526306787451777024,Quantstamp,"Thanks again to everyone who participated today! Quantstamp was honored to be a gold sponsor ✨
+
+Interested in joining the team? Learn more at https://t.co/XAXne0rKI3 
+
+#WeAreHiring https://t.co/8UOskjgGYB",18,1,0,2022-05-16
+921,2022-05-17 14:41:48+00:00,1526573705467502593,Quantstamp,"NFTs are distribution networks. 
+
+Multimedia crypto artist, actor and filmmaker @davidbianchi discusses why this is part of a new renaissance: a marriage of tech, finance, culture and art 🏯 https://t.co/01ijyg2fYT",14,0,2,2022-05-17
+923,2022-05-19 18:12:28+00:00,1527351495686967321,Quantstamp,"We audited files in @CryptexFinance's governance-staking repo at commit 76961ae. 
+
+For info on audit scope and results, view the full report 👇
+https://t.co/qVPMvCrKTM",30,0,7,2022-05-19
+926,2022-05-20 17:35:25+00:00,1527704559816019968,Quantstamp,@ReeseW @EvaLongoria @SofiaVergara @ParisHilton @meta_angels @sabsnft,3,0,0,2022-05-20
+928,2022-06-01 11:00:02+00:00,1531953716164796418,Quantstamp,"Our new Customer Spotlight goes out to @Treasure_DAO 🎉 🥳 🎊
+
+TreasureDAO is building a composable metaverse powered by the convergence of DeFi, NFTs and gaming.
+
+Be the next player shaping the metaverse at https://t.co/nwyliGkhn1!",13,11,1,2022-06-01
+929,2022-06-03 16:09:57+00:00,1532756482814578690,Quantstamp,"Was @garyvee’s #VeeCon worth it?
+
+@sabsnft visits @Veecon with Quantstamp’s newest team member and videographer @andrewsnts  to make use of the @veefriends utility. 
+
+Reporting back via this week’s Team Edition of Curated. 
+
+📺 https://t.co/dag6e3QjnX https://t.co/jrUDYhEUGq",13,11,2,2022-06-03
+930,2022-06-08 00:20:59+00:00,1534329607205359618,Quantstamp,"Interested in building stories with your NFTs?
+
+In the latest episode of Curated, we chat about what that might look like.
+
+Check out Ep. 8 with @jtwald, founder of @storyverse_xyz, @playco &amp; prev founder of @zynga
+https://t.co/ZHyFH59Zk9 https://t.co/6lUYXxH3wH",30,2,11,2022-06-08
+932,2022-06-09 15:26:52+00:00,1534919967769907201,Quantstamp,"We audited @nomadxyz_'s monorepo at commit 17f0557 and the zodiac-module-nomad repo at commits d887024, 482c1e2, and 93daaf9. 
+
+Nomad is a cross-chain communication protocol that is optimistic ⛓💌
+
+For audit scope and results, view the full report 📝
+https://t.co/AxbUwMSRPT",36,5,9,2022-06-09
+936,2022-06-10 13:12:10+00:00,1535248456754790403,Quantstamp,"Last call! There are still a few tickets available for the Quantstamp community to join us on Saturday night ✨
+
+Co-hosted with the Delta Blockchain Fund, we're celebrating with music, drinks and donuts to wrap up a great week 🎙️🍸🍩
+
+#Consensus2022
+
+https://t.co/J7LXaJfGru https://t.co/DJwJSLmtN8",8,0,0,2022-06-10
+937,2022-06-11 22:16:07+00:00,1535747735328116739,Quantstamp,"RSVPs close soon! Join us tonight for live music, drinks + donuts to wrap up Consensus 🍸🍩🎙️
+
+- Jo James
+- Dave Orr Band with Keith Sanders
+- Stevie Redstone 
+- DJ AJ
+
+https://t.co/J7LXaJfGru https://t.co/ycj8jmv1CE",12,5,4,2022-06-11
+938,2022-06-15 02:55:12+00:00,1536905133824655360,Quantstamp,@zhusu 🫡,8,1,0,2022-06-15
+939,2022-06-17 14:51:03+00:00,1537810059102769158,Quantstamp,".@Inverted888 gives us an inside view of the @CyberKongz team, their vision for the metaverse, how they plan their IRL events, and more!
+
+All on the latest episode of Curated.
+📺 Watch Now ➡️ https://t.co/iW3bfnXeG9 https://t.co/2xePonT1N4",42,9,17,2022-06-17
+941,2022-06-19 22:09:03+00:00,1538645060203446273,Quantstamp,"Quantstamp is growing and actively hiring! 
+
+We’re hiring engineers to help secure the best companies in Web3. 
+
+We’re also hiring and building across business development, operations, PR, and infrastructure.
+
+https://t.co/rPm6J27ibk",34,14,6,2022-06-19
+942,2022-06-20 23:28:38+00:00,1539027475522633728,Quantstamp,"If you’re attending #NFTNYC2022, you may have spotted something familiar on the streets today 👀 https://t.co/wATbOHzVkl",55,24,4,2022-06-20
+943,2022-06-24 17:44:13+00:00,1540390352137248769,Quantstamp,"Want to know more about the first-ever @meta_angels, web3 accelerator?
+
+This week on Curated we have @XXfounder speaking about the @AngelLabsIO cohort and the unique projects that are emerging from it.
+
+📺 Watch it here: https://t.co/k8BUnTAlad https://t.co/UpmVVotvX3",19,34,4,2022-06-24
+944,2022-07-02 15:05:00+00:00,1543249385621962752,Quantstamp,"Watch Quantstamp Managing Director Don Ho discuss the future of DeFi with Ankitt Guar (Founder and CEO of @EasyfiNetwork) and Michael So (Co-founder of @okra_finance) at @DcentralCon Austin 2022 📺
+
+https://t.co/4TQTZNt1pL",15,12,3,2022-07-02
+945,2022-07-07 16:29:51+00:00,1545082678168338432,Quantstamp,"🏆 Ethereum gets closer to mainnet merge
+🎮 Auditing @arcade_xyz, @MetacraftCC, @playSHRAPNEL and more
+🥳 Hosting events, catching up with the community and participating at #Consensus2022 and @NFT_NYC
+
+Here’s what happened at Quantstamp in June 👇
+https://t.co/p4Z6MttVaw",19,26,3,2022-07-07
+946,2022-07-08 11:00:03+00:00,1545362068789817345,Quantstamp,"An Inclusiverse for creators and collectors who build, collaborate, discover and embrace #web3? 👀
+
+We’re here for it!
+
+This week on Curated we have @Debsoon co-founder of @thehugXYZ and that’s exactly what they’re doing.
+
+@sabsnft #Curated
+https://t.co/ICTlylBguD https://t.co/0FdSqUOrA9",11,9,1,2022-07-08
+947,2022-07-15 21:51:35+00:00,1548062750139506689,Quantstamp,"@josephdelong We can help to audit it, often we help early stage startups in exchange for equity",5,0,0,2022-07-15
+958,2022-07-18 15:48:35+00:00,1549058561036148739,Quantstamp,"We’re here in Paris! 🇫🇷
+
+Tomorrow or Wednesday, stop by our booth on the 3rd floor to say hi and catch up with the Quantstamp team!",29,2,6,2022-07-18
+959,2022-07-19 18:15:27+00:00,1549457910052306945,Quantstamp,"If you’re attending #EthCC, join us on Thursday from 7 to 10 pm for a fun dance night to close out our Secret Café 💃
+
+A relaxed and creative atmosphere, open bar, and music from a local jazz band 🍸🎧
+
+Register here 👇
+https://t.co/ooX0zlb2mC https://t.co/KDFIjyBzic",10,0,2,2022-07-19
+963,2022-07-20 06:54:39+00:00,1549648968501673986,Quantstamp,"Book a spot below, then stop by today or tomorrow to see Martin at the Secret Café!
+
+📍 2 Rue des Anglais, 75005 Paris, France
+
+https://t.co/gsbIfHdhb4",5,0,1,2022-07-20
+966,2022-07-21 12:05:42+00:00,1550089633194819587,Quantstamp,"Happening tonight: Nuit de la danse secrète 💃
+
+Join us from 7 to 10 pm at the Secret Café in the charming Latin Quarter for a fun and relaxing night!
+
+Open bar, great atmosphere, and jazz music from a local band 🍷🎷
+
+#EthCC
+
+https://t.co/ooX0zlb2mC",10,1,2,2022-07-21
+969,2022-08-02 06:09:06+00:00,1554348545812996096,Quantstamp,"It is important to note that the faulty logic appeared in the commit https://t.co/jMiD0FrrlD, which was not part of the Quantstamp audit.",14,4,3,2022-08-02
+984,2022-08-07 13:17:19+00:00,1556268250761113602,Quantstamp,"We apologize for our previous tweet. 
+
+The person who posted did so independently, and making light of this situation doesn’t reflect our values.
+
+We’re here for our friends at @nomadxyz_, and our team has been working hard to review their implementation ahead of the updates.",42,39,4,2022-08-07
+988,2022-08-11 17:34:48+00:00,1557782597555474432,Quantstamp,"🥳 Launch of @ChainproofDAI, the world’s first regulated smart contract insurer
+🛡️ Audits for @Algem_io, @weareflowcarbon, @SiloFinance and more
+🇫🇷 Participating at @EthCC
+💻 Hiring for multiple positions
+
+Here’s what happened at Quantstamp in July 👇
+https://t.co/qsn6sffzWm",35,63,8,2022-08-11
+989,2022-08-24 18:28:24+00:00,1562507130929758208,Quantstamp,"#8. On episode 5 @NFTommo, founder of https://t.co/wb8isbM52r tools, shared what data sets NFT traders should be looking at to assess healthy projects 👇 https://t.co/0C4hyqIzNo",6,1,0,2022-08-24
+1002,2022-08-26 19:35:56+00:00,1563248901653921792,Quantstamp,"Dr. Jan Gorzny, Head of L2 Scaling at Quantstamp, will be participating on a panel at the first annual @summit_defi at Stanford Blockchain Week.
+
+Flash Loans in the Wild: An Analysis of Attacks &amp; Possible Mitigations
+
+📍 Mildred Berg Hall
+⏰ Saturday, August 27 @ 1:05 pm PT",25,7,5,2022-08-26
+1003,2022-09-02 23:22:18+00:00,1565842583699333120,Quantstamp,"Stay at our Hacker House with us during #ETHBerlin! 🇩🇪
+
+Hack alongside the Quantstamp team, and meet stellar founders and developers🧑‍💻
+
+Did we mention housing and meals will be taken care of for you? 🍳
+
+Apply before Monday 🗓
+https://t.co/xdaYP1AcCS",21,28,4,2022-09-02
+1004,2022-09-04 20:00:00+00:00,1566516449866354688,Quantstamp,"Interested in applying to our #ETHBerlin hacker house? 
+
+The deadline is end-of-day tomorrow 🗓
+
+Hack with the team, meet leaders in web3 and stay 15 minutes from the ETHBerlin venue! 
+https://t.co/xdaYP1iBLk",12,8,3,2022-09-04
+1005,2022-09-07 18:14:11+00:00,1567576982199881728,Quantstamp,"Last Thursday, Mohammad Jahanara, Research Engineer at Quantstamp (@MMJahanara) presented “The Why, How, and What of Zero-Knowledge Proofs” at @EthVancouver 🔐🧩
+
+Thank you to everyone who was able to join! https://t.co/HrB72vobAW",11,10,2,2022-09-07
+1006,2022-09-12 15:42:19+00:00,1569350705215066113,Quantstamp,"If you're attending @dappcon_berlin, join Quantstamp and @TenderlyApp to test your skills in a web3 war room workshop amid the chaos of the merge! 🛠️🛡️
+
+Learn more and register below 👇
+
+https://t.co/1BKrPyg4bZ",14,5,6,2022-09-12
+1007,2022-09-13 16:40:06+00:00,1569727633705025536,Quantstamp,"Implementations of these systems are complex, so there is no one rule that fits every situation.
+
+Some bridges and rollups may not be impacted at all, so we recommend users go through each project’s official channel to ask about the post-merge situation.",0,1,0,2022-09-13
+1024,2022-09-15 20:16:05+00:00,1570506762511589376,Quantstamp,🏆 3rd prize went to @MarkuSchick (@IncrementHQ) and @jasoonsmythe (@float_shipping) 👏 https://t.co/dCxFFyd42n,2,1,0,2022-09-15
+1031,2022-09-19 20:35:05+00:00,1571961096965332992,Quantstamp,"More announcements coming soon about our upcoming hacker houses, so be on the lookout for updates on the next location 💥",10,1,0,2022-09-19
+1033,2022-09-20 18:44:23+00:00,1572295625915662338,Quantstamp,"Saying goodbye after a few amazing days at @ETHBerlin @FactoryBerlin ✨
+
+We had a blast this year and were honored to spend a few days with some of the best hackers in the space. Looking forward to next time! https://t.co/MyKoT3SYU5",23,6,6,2022-09-20
+1034,2022-09-23 15:19:00+00:00,1573331102542237698,Quantstamp,"If you’re headed to Singapore for Token 2049, join Quantstamp, @storyverse_xyz and @theworkdao on September 28 at Cé La Vi for an amazing sunset party on the 57th floor of Marina Bay Sands! https://t.co/v2XrD8o7oE",24,6,8,2022-09-23

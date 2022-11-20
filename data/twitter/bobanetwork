@@ -1,0 +1,1467 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-07 04:33:04+00:00,1214404562074750976,bobanetwork,"https://t.co/uqeM9VQoZi……
+
+#Blockchain Team Update 34: We deployed an environment against mainnet and successfully performed a transaction lifecycle test (deposit, transact, start exit). This is the OMG Network’s first mainnet transaction!#omgnetwork #omisego #privatemainnet",193,17,59,2020-01-07
+1,2020-01-08 05:19:19+00:00,1214778588139929600,bobanetwork,"https://t.co/vFMfzamBsN
+
+While keeping up with each other’s work is easy when you’re based in our Bangkok office, how do we keep our remote employees up to speed? Especially when they’re spread across three different time zones?",69,11,19,2020-01-08
+2,2020-01-18 04:33:59+00:00,1218391057433448454,bobanetwork,"OMG Network is happy to announce that Quantstamp have completed the security audit of More Viable Plasma (More VP). #omisego #omgnetwork #quantstamp #networkaudit #securityaudit
+
+https://t.co/mlDFbMYLBI",249,10,64,2020-01-18
+3,2020-01-21 04:49:37+00:00,1219482155492888578,bobanetwork,"https://t.co/uIUWzPsajR
+
+“What I want to talk about today is how we can use the business plan as a strategic tool to drive enterprise-adoption of any technology — especially blockchain.” - Alexei Schaller, Head of Commercial Units.",60,6,17,2020-01-21
+4,2020-01-22 08:23:04+00:00,1219898258610245632,bobanetwork,"@TechnikoArt Hi @TechnikoArt. 
+Our website is https://t.co/971kmadFUW",2,1,0,2020-01-22
+5,2020-01-23 04:48:02+00:00,1220206533658570752,bobanetwork,"https://t.co/FA6yJChCOX
+
+#Blockchain Team Update 35: “We’re excited to release our services to the public as soon as we can.” #omgnetwork #omisego #blockchain #blockchainupdate",74,3,29,2020-01-23
+9,2020-02-03 02:28:54+00:00,1224157787350978561,bobanetwork,"For our first AMA of the year we invited our CTO, Kasima, and CEO, Vansa, to respond to community questions around the (1) audits, (2) business-adoption, and (3) public release of the OMG Network. #omisego #omgnetwork #moreviableplasma #plasma #mainnet
+
+https://t.co/uWfIgn39FQ",90,8,25,2020-02-03
+10,2020-02-07 07:31:23+00:00,1225683457944088577,bobanetwork,"The positives we took from the audits were how efficiently the team was able to resolve issues. And the fact that there were no major findings around our protocols that we didn’t know about. #omisego #omgnetwork #audits #morevp
+
+https://t.co/FjYxb6lr4P",102,4,23,2020-02-07
+11,2020-02-14 02:44:11+00:00,1228147897931141120,bobanetwork,"We spent the day alongside 8,000 other devs at Developer Week in SF! Especially happy to attend the BlockDev Conference to contribute to the discussion surrounding decentralization, blockchain security, and off-chain payments. 🖥️ #sfdevweek #sfblockdev #omisego #omgnetwork https://t.co/EFQ0kfqKIb",93,2,25,2020-02-14
+12,2020-02-17 02:35:55+00:00,1229232982239498240,bobanetwork,"To understand more about what is, and why we conducted a #SmartContract audit, we sit down #Quantstamp security engineer, Kacper. #omgnetwork #omisego #security #audit
+
+https://t.co/ip5S7SBkGn",87,2,27,2020-02-17
+13,2020-02-20 14:01:23+00:00,1230492647883599875,bobanetwork,"#OMGNetwork Sr. Engineer Unnawut is on a panel alongside Clayton R.(@makerDAO), Soravis S.(@bandprotocol), and Nattapon N.(@KULAPofficial ) to answer questions on the #DeFi landscape &amp; its future! 
+
+Stay tuned for a blog in the near future 👐 https://t.co/rVTXMrBLZZ",77,9,14,2020-02-20
+15,2020-03-03 17:33:24+00:00,1234894658892754945,bobanetwork,"(1/3)The beginning of March brings good news! You’re invited to explore our newest public testnet: OMG Network V1. Deployed with our audited root chain contracts, this testing environment is the closest you can get to being on Ethereum Mainnet.#omgnetwork
+
+https://t.co/zAl7WXD3tg",118,11,32,2020-03-03
+18,2020-03-10 03:47:58+00:00,1237223647317614592,bobanetwork,"(1/2) Late last week, we discovered a critical bug in our root chain plasma-contracts v1.0.3. We've already merged a fix and will release more details once we complete validation.",57,3,13,2020-03-10
+21,2020-03-12 12:37:03+00:00,1238081568616280064,bobanetwork,"We're happy to announce that our testnet is updated and back up and running after an hour of downtime. Note, that contract addresses have changed but APIs and API end-points haven't. #omgnetwork #testnet #ropsten https://t.co/LLciWbqc2M",66,1,11,2020-03-12
+22,2020-03-13 08:52:16+00:00,1238387387807322112,bobanetwork,"Announcement: Ropsten, the Ethereum testnet that the OMG Network V1 Testnet is deployed on, has stopped producing blocks. Note that during this time our testnet services may be interrupted. We will continue to monitor and provide updates as the situation develops. #omgnetwork",45,5,10,2020-03-13
+25,2020-03-14 11:09:00+00:00,1238784189006106625,bobanetwork,"Final Update: Ropsten and OMG Network V1 are back in business! Blocks 16,000 and 17,000 are submitted. And deposits, transfers and exits are fully functional. #omgnetwork #ropsten",81,6,17,2020-03-14
+26,2020-04-04 09:03:09+00:00,1246362659785568257,bobanetwork,We're at number 8! #omisego #omgnetwork #toperc20 https://t.co/h16whq3nri,141,12,24,2020-04-04
+27,2020-04-07 09:01:18+00:00,1247449361232982016,bobanetwork,@curvegridinc 👏🥳 https://t.co/JXEAAguc2g,11,1,3,2020-04-07
+29,2020-04-12 09:31:08+00:00,1249268805034848257,bobanetwork,"Indeed we have😀! Find out what we've been up to here: https://t.co/Puit4vAz6x or visit our documentation site for more technical details: https://t.co/4q5Bss4TXU
+#omisego #omgnetwork #morevp https://t.co/j6wWjQvU4f",120,7,24,2020-04-12
+30,2020-04-28 11:35:16+00:00,1255098250614489088,bobanetwork,"""The building blocks for a decentralized technology solution include a blockchain platform like the OMG Network, smart contracts to manage data and business logic, existing enterprise systems, and MultiBaas, which ties together the various components."" @curvegridinc 💪 https://t.co/LfLpQH1Elq",80,4,19,2020-04-28
+32,2020-05-05 16:07:14+00:00,1257703409244712961,bobanetwork,"In honor of #GivingTuesday please consider donating to support the 850+ children at the Father Ray Foundation. They urgently need donations to carry them through these difficult times. 
+
+Donate #crypto directly at https://t.co/QNkuE8jYdV #givingtuesdaynow @FrRayPattaya",44,5,8,2020-05-05
+33,2020-05-15 14:46:26+00:00,1261306954019934211,bobanetwork,"@curvegridinc 's MultiBaas extends the reach of Plasma through support for enterprise and multisig wallets, as well as connections to data analysis tools and spreadsheets. #omgnetwork #curvegrid #multibaas #omisego
+https://t.co/iTOYtH23ox",58,0,15,2020-05-15
+34,2020-05-16 04:55:12+00:00,1261520552793182210,bobanetwork,"There’s always room for improvement at OmiseGO, so we’re back with more updates to our documentation site! https://t.co/u527rduzd9
+#omisego #omgnetwork #docsite #dapps",111,8,22,2020-05-16
+36,2020-05-28 05:00:00+00:00,1265870414921830401,bobanetwork,"We will be at #Mainnet2020 by @MessariCrypto happening virtually on June 1-3! Catch #OmiseGO CTO, @kasima for his keynote and Q&amp;A session on Monday (June 1), 19:40 EDT. For more info, check out: https://t.co/NUi9UCyq09 https://t.co/VDXMLkpYSG",142,3,35,2020-05-28
+38,2020-05-31 10:00:01+00:00,1267033078930853888,bobanetwork,Meet our team at our virtual expo booth at #Mainnet2020 by @MessariCrypto! We've planned out some exciting sessions that you wouldn't want to miss out on. Keep the schedule card below handy. See you there! https://t.co/NUi9UCyq09 https://t.co/pZY3X1c38T,125,6,24,2020-05-31
+39,2020-06-01 23:20:26+00:00,1267596899822915584,bobanetwork,Our Proof of Work Session is happening in 20 minutes at #Mainnet2020 @MessariCrypto Don't miss out! #OMGNetwork https://t.co/T3l0nSFutS,39,2,3,2020-06-01
+51,2020-06-02 11:05:33+00:00,1267774349869608961,bobanetwork,"If we want to see blockchain truly become the backbone of future finance, then a scaling solution like #OMGNetwork is a necessary piece of the puzzle. Here's why: https://t.co/6aM1GaywBF",84,3,13,2020-06-02
+59,2020-06-03 10:00:53+00:00,1268120462116044800,bobanetwork,Who are some of the launch partners? Are there any use-cases you’ve mapped out? What About Staking? #OMGNetwork CEO @Vansa_OMG answers all these questions and more in an interview with Alex from @NuggetsNewsAU https://t.co/ZexrRMJ7su,100,3,14,2020-06-03
+61,2020-06-04 09:13:58+00:00,1268471042261037057,bobanetwork,"@semenov_roman_ Apologies, this was an oversight in our deployment process. We're currently working on getting our contracts verified. It's taking some time, given the code structure of the framework.🙏",0,0,0,2020-06-04
+62,2020-06-10 12:31:41+00:00,1270695127984623625,bobanetwork,"Each network or currency has its own blockchain explorer that comes with its own set of features. For the #OMGNetwork, we have the OMG Blockchain Explorer (OMGBE). Learn more about it here: https://t.co/fycvV1EBwk",96,2,18,2020-06-10
+64,2020-06-14 09:10:42+00:00,1272094101911945216,bobanetwork,"Nearly two months from the March 12th Crypto Market Crash, @bitfinex /@Tether_to  and us dissect what happened, discuss what the uptick of #USDt transactions means for Ethereum, and hint at where the OMG Network can fit in. #omgnetwork #ethereum #bitfinex
+
+https://t.co/uz1wW2bwHI",163,7,38,2020-06-14
+65,2020-06-17 10:30:00+00:00,1273201220497272833,bobanetwork,"The OMG Network bug bounty program rewards researchers up to $25,000 for finding security vulnerabilities on the OMG Network! Learn more about it here: https://t.co/8562fILlGr",122,5,24,2020-06-17
+66,2020-06-22 05:30:04+00:00,1274937680233664512,bobanetwork,"Glad to announce that we're open-sourcing our developer portal. Starting today you can contribute to our docs, code samples, and tutorials to improve the integration process. 
+
+Visit and make an impact right away! https://t.co/Jn64Muw7V7",129,0,15,2020-06-22
+68,2020-06-29 12:30:01+00:00,1277580078516514816,bobanetwork,"Just under a full month since we deployed our OMG Network V1 Mainnet Beta, and we've got Bitfinex on our side! Here's exactly how we'll help them reduce Ethereum congestion for cheaper and faster transactions. https://t.co/ENXGdOOz40",168,10,40,2020-06-29
+69,2020-06-30 13:00:00+00:00,1277950012547313665,bobanetwork,A detailed study of the March 12th Crypto Market crash and how the #OMGNetwork can prevent it in the future. https://t.co/uz1wW2t86i,105,2,20,2020-06-30
+70,2020-07-01 11:42:06+00:00,1278292796433039365,bobanetwork,"We sit down with our CEO, @Vansa_OMG and CTO, @kasima to get their thoughts on what’s next for #OMGNetwork, the challenges they anticipate, and exciting business opportunities we can explore. Check it out here: https://t.co/x3hYddepus",97,4,14,2020-07-01
+72,2020-07-02 13:00:00+00:00,1278674787116687361,bobanetwork,"Ever wondered about OMG Network's average block times, hash rates, and transaction rates? We've got you covered with the OMGBE, click to learn more. https://t.co/fycvV1EBwk",81,3,18,2020-07-02
+73,2020-07-07 05:30:01+00:00,1280373485458452481,bobanetwork,We ❤️ our OMG Network community! Glad to get to know them better with these Fireside Chats @omg_pool 🎉 https://t.co/Nr2DijHLvZ,59,0,6,2020-07-07
+75,2020-07-08 10:32:01+00:00,1280811871629709312,bobanetwork,"Trustlesness is an important part of blockchain design, but a blockchain is truly trustless when the ecosystem surrounding it is. In this article, we talk about what makes the #OMGNetwork trustless, and explore how it is the key to enterprise adoption. https://t.co/XAqeBjaUNM",95,3,20,2020-07-08
+76,2020-07-09 10:00:38+00:00,1281166361432129536,bobanetwork,Want to learn more about what the #OMGNetwork team is up to and get a quick rundown of our plans for the rest of 2020?  @Vansa_OMG's got you covered in her interview with @thecapital_io! https://t.co/cYxRTZNRor,87,5,20,2020-07-09
+77,2020-07-13 14:00:41+00:00,1282676324683976704,bobanetwork,Our community 🤝 memes. Introducing #mememonday! A weekly competition where we pick out the best meme about OMG Network and share it with you to brighten your Monday just a little. 🤩 https://t.co/SJhhz9tcTO,45,5,2,2020-07-13
+81,2020-07-20 14:00:01+00:00,1285212873594208256,bobanetwork,Check out this week's #OMGmememonday pick!🦎 https://t.co/fozyIt4gKL,65,3,7,2020-07-20
+82,2020-07-22 05:00:00+00:00,1285801748372885504,bobanetwork,"Exploring the key differences between the #OMGNetwork 's Plasma Childchain vs Sidechain -- from tradeoffs, and optimizations to security mechanisms. Read about it here: https://t.co/8xw7hCG844",90,2,21,2020-07-22
+83,2020-07-31 03:01:49+00:00,1289033499228491779,bobanetwork,Ethereum turned 5 today 🥳 Just five years old and already scaling thousands of tps! What's your favorite #Ethereum memory so far?,135,14,9,2020-07-31
+86,2020-08-02 11:31:01+00:00,1289886418324471808,bobanetwork,ICYMI: The Community Points Engine powered by OMG Network is a Chrome Extension that works on the r/omgnetwork subreddit and allows users to transfer community points for FREE. 🤠 Want to learn more? Join our virtual demo on Monday! https://t.co/rEkOF9ExD2,158,7,36,2020-08-02
+87,2020-08-03 13:02:56+00:00,1290271938074611713,bobanetwork,Join us in an hour for the CPE Virtual Demo on Youtube and our Live AMA on our Subreddit! Learn more about how the Community Points Engine (CPE) works and ask us all the questions you have about it at r/omgnetwork 👀 See you in a bit! https://t.co/U60InaNwuZ,46,0,8,2020-08-03
+91,2020-08-05 11:05:01+00:00,1290967036441567233,bobanetwork,"The #OMGNetwork is built on our implementation of Plasma called MoreViable Plasma. This is an iteration of the base Plasma solution called MinimumViable Plasma. 
+
+While both versions share similarities, we’d like to discuss what separates them! ⤵️ https://t.co/rCZ0FAtjvY",132,6,23,2020-08-05
+92,2020-08-06 10:30:09+00:00,1291320650808930305,bobanetwork,"👀 Wanted: Senior Blockchain Engineer
+👨🏻‍💻 Qualifications: #elixirlang #erlang 
+💯 Reward: Build real, impactful solutions at the forefront of blockchain, work with a global team, set your own schedule, work remotely, and lots more!
+
+Apply now! #OMGNetwork https://t.co/84J2Tk5JTq",56,0,8,2020-08-06
+93,2020-08-09 04:35:17+00:00,1292318510983643136,bobanetwork,Come and meet us at #EDCON2020! Pop by our virtual chat booth from Aug 9-11. See you there 👀 https://t.co/gWnjxLxHto,75,2,12,2020-08-09
+94,2020-08-10 07:00:01+00:00,1292717319593103362,bobanetwork,"Yup. That's us, a trustless L2 solution. 🙋🏻‍♂️ #OMGNetwork But ICYMI, you can read about it here: https://t.co/ENXGdOOz40 https://t.co/miotaT2J5J",132,2,22,2020-08-10
+96,2020-08-11 10:00:03+00:00,1293125017627004931,bobanetwork,"Learn about what we do, what we have been up to and why you should have joined us yesterday at our #EDCON2020 session with Victoria: What's Up With #OMGNetwork? happening today, 2pm EDT. See you there! For more info, check out https://t.co/2wXNZglDch https://t.co/y4GhYOQVN1",59,3,4,2020-08-11
+97,2020-08-12 12:46:31+00:00,1293529294832988160,bobanetwork,@golemproject https://t.co/mX6Zjw7kca,25,1,0,2020-08-12
+102,2020-08-13 10:14:01+00:00,1293853305110777858,bobanetwork,"Missed our live Community Points Engine AMA? No worries, we’ve got you covered with a compilation of all the best questions and answers from the session here: https://t.co/nseYG3dfVf",71,4,17,2020-08-13
+103,2020-08-14 07:00:06+00:00,1294166892115046400,bobanetwork,"Webinar coming your way: Catch @curvegridinc on August 28, Friday, 19:00 JST to learn about how #OMGNetwork CPE back-end works! Sign up now: https://t.co/z8aYh67CwJ https://t.co/tuaocq9syL",68,2,17,2020-08-14
+104,2020-08-17 07:07:58+00:00,1295256035490500608,bobanetwork,"Ever wondered how @OMGNetworkHQ plans to onboard exchanges, market makers, and build an ecosystem that resolves Ethereum congestion? Ask Stephen (@smcnamara), our COO, in this AMA with @HuobiGlobal! #OMGNetwork #Huobi https://t.co/3xsCjBoZ3m",188,3,43,2020-08-17
+106,2020-08-18 05:02:31+00:00,1295586855719784460,bobanetwork,"If you haven't yet: Here’s your chance to ask Stephen (@smcnamara), our COO, any questions you have regarding our announcements and future plans! Last day to ask: https://t.co/JiCZ5y7Kiu",81,2,14,2020-08-18
+109,2020-08-19 05:01:18+00:00,1295948936763584512,bobanetwork,"Speaking of our CPE, sign up to learn how the extension works in this exclusive webinar from @curvegridinc  —  we might just have a surprise in store for you at the event 😉 Seats are limited! Secure yours now: https://t.co/z8aYh67CwJ",78,1,10,2020-08-19
+115,2020-08-20 12:45:35+00:00,1296428163749289985,bobanetwork,"We hope you enjoyed the OMG x Huobi AMA 😎
+
+UP NEXT: What does the future of #Ethereum look like? How soon can OMG Network solve #EthereumCongestion? Will we ever see low gas fees again? 
+
+Register now to get all your burning Qs answered by Vansa, Kasima, and Stephen tomorrow! https://t.co/iYiijbN5gE",116,5,18,2020-08-20
+121,2020-08-21 09:35:43+00:00,1296742770896445440,bobanetwork,4) Is the #OMGNetwork safe? Yes! We’ve been audited twice by industry-leading firms @Consensys and @Quantstamp. Here’s an article about why that matters: https://t.co/SuCT7cFqtC,68,2,8,2020-08-21
+134,2020-08-22 11:34:07+00:00,1297134955596664835,bobanetwork,@HighGwei https://t.co/LM5NaS0TNB,1,0,0,2020-08-22
+135,2020-08-24 05:50:43+00:00,1297773310428684288,bobanetwork,@AlexSaundersAU Plosma to the rescue https://t.co/JBOldWr6Jp,16,0,3,2020-08-24
+137,2020-08-25 05:52:13+00:00,1298136076272513024,bobanetwork,Happening this Friday with @curvegridinc!😎 Sign up here: https://t.co/9UsFeE40Be https://t.co/S32MQupQz0,97,1,15,2020-08-25
+139,2020-08-27 09:10:56+00:00,1298910859339739136,bobanetwork,The @curvegridinc x @omgnetworkhq webinar on The Supply Side of the Community Points Engine is happening tomorrow! Learn more about the #MultiBaas and the process of building the #CPE 🪨🦎 Sign up now: https://t.co/9UsFeE40Be https://t.co/zTLmsiNrCE,96,1,18,2020-08-27
+142,2020-08-28 12:19:00+00:00,1299320576906010624,bobanetwork,"Thank you for joining us!🔥
+
+If you're interested in learning more about the CPE, you may check out: https://t.co/rEkOF9W91C
+
+Or maybe you want to learn more about the #MultiBaas? Follow @curvegridinc here on Twitter and check out their website https://t.co/bhdy4JDoMI https://t.co/bZwwAVlmzg",47,1,7,2020-08-28
+145,2020-08-31 10:40:14+00:00,1300382887154454528,bobanetwork,"With @Tether_to 's integration complete, Vansa, Stephen, and Kasima discuss what's next for us at OMG Network. #ethereum #layer2 #bitfinex #usdt #omgnetwork 
+
+https://t.co/JXB7Lr4rcu",157,5,27,2020-08-31
+146,2020-09-01 10:26:28+00:00,1300741807714656258,bobanetwork,@imTokenOfficial @bigmagicdao @BTCCATTRADER https://t.co/mypAEbe8N7,2,0,0,2020-09-01
+150,2020-09-02 03:40:21+00:00,1301001995558490112,bobanetwork,@AlexSaundersAU @HamEggsnSam @raiden_network @loopringorg @StarkWareLtd @fuellabs_ @zksync @optimismPBC @maticnetwork @xdaichain Yup. @AlexSaundersAU is right! Check out this short clip to understand how we're solving this issue @HamEggsnSam  https://t.co/csGB8AzFdT,21,1,2,2020-09-02
+153,2020-09-03 07:45:12+00:00,1301426000119689219,bobanetwork,"“Back in 2017, Cryptokitties was the first big event that brought up the need for Layer-2 solutions. Fast forward to 2020, Ethereum congestion is a sustained issue.” Watch the full session here: https://t.co/SxW5EuSlWC https://t.co/LZVKiN7M1U",122,6,19,2020-09-03
+154,2020-09-08 02:26:05+00:00,1303157631704608769,bobanetwork,"If exchanges could retain the same security guarantees as the system they use today, with no changes in control or privacy, and benefit from faster and cheaper transactions, why would they not integrate with the OMG Network? Watch it here: https://t.co/5wxCXXHgsk https://t.co/Xfl7BgQDwv",143,7,31,2020-09-08
+155,2020-09-09 10:40:26+00:00,1303644424900153344,bobanetwork,Here's to always improving! Thank you to fellow salamander @realfakedoris for collecting transaction history and building a real-time ROCKs leaderboard with our @reddit CPE! Check out where you stand here: https://t.co/58SSkkTFkt,119,4,15,2020-09-09
+157,2020-09-10 00:25:32+00:00,1303852069569265665,bobanetwork,@cz_binance https://t.co/QICorXmvn2,87,8,11,2020-09-10
+158,2020-09-14 03:32:55+00:00,1305348777599889409,bobanetwork,"📢 An open call to all exchanges: Integrate with the #OMGNetwork in 7 simple steps! Reduce #Ethereum congestion, lower gas fees, and boost transaction speeds for happier users! https://t.co/wqCFYVMXFc",364,14,107,2020-09-14
+159,2020-09-15 08:31:20+00:00,1305786264319176705,bobanetwork,"Salamanders! Thank you for using the @reddit CPE so far, we're overwhelmed by your support 💗 With the latest CPE update, we're introducing 3 (cute) new flairs for you to purchase and display: SOONALISA, Skateboarder, and the WAVE! WOOOO!
+
+Download CPE: https://t.co/16kypVOugd https://t.co/vpNwRPb3wc",79,6,10,2020-09-15
+160,2020-09-16 11:02:53+00:00,1306186792995975168,bobanetwork,Stephen and Kasima discuss essential vs accidental complexity and provide a brief insight into OMG Network's 3-pronged infrastructure! Watch here: https://t.co/WNynJefDcL https://t.co/HGHLWf9YjF,102,10,13,2020-09-16
+161,2020-09-21 13:00:34+00:00,1308028348132589570,bobanetwork,Grab a cup of coffee or a glass of wine (depending on where you are in the world) and watch @GOSOLOTV @BrentHirose interview @omgnetworkhq CEO @Vansa_OMG here: https://t.co/j2Zcukn2Lz https://t.co/c5mGeQYh81,65,4,10,2020-09-21
+163,2020-09-22 11:05:00+00:00,1308361653260443650,bobanetwork,"Read as our VP of Product and Marketing, Connie Kwan (@Conniekwan_), explains how upcoming exchanges integrating with the OMG Network will reduce gas fee and propel Ethereum into real-world adoption. (Spoiler: It all started with one support ticket) https://t.co/Ytg4tHNwzE",185,9,55,2020-09-22
+164,2020-09-23 05:31:27+00:00,1308640097386991623,bobanetwork,"Ever wonder what goes on behind the scenes when an exchange like #bitfinex integrates with the #OMGNetwork? It’s a little tech-y, but our tech writer @dmitrydao makes it easy! https://t.co/wqCFYVMXFc",141,9,20,2020-09-23
+165,2020-09-25 07:10:05+00:00,1309389694254211073,bobanetwork,"After our webinar with @curvegridinc, a lot of you showed interest in the project that made building @omgnetwork's @Reddit #CPE so efficient. Here's a quick overview of what #Curvegrid is all about and how they can help you build on the blockchain! https://t.co/elZ3lXStmK",104,2,16,2020-09-25
+166,2020-09-28 12:33:27+00:00,1310558238903951362,bobanetwork,"""MultiBaas is a blockchain middleware solution focused on enterprise. We aim to solve the technical complexity that comes with building on the blockchain."" - @danielbriskin, @curvegridinc Watch the full highlight here: https://t.co/elZ3lXStmK https://t.co/Ml8sK1PRTG",59,1,12,2020-09-28
+177,2020-09-29 03:20:11+00:00,1310781389504040960,bobanetwork,"Think of #OMGNetwork as a super-highway built on top of Ethereum Road, with Bitfinex being the first stop. As we add more stops by integrating with more exchanges, we’ll have an interconnected super-highway primed to reduce Ethereum congestion and crypto exchange fees (toll). https://t.co/q3MmRJVtut",207,6,31,2020-09-29
+181,2020-09-30 04:31:20+00:00,1311161684631797760,bobanetwork,"""The @reddit CPE dashboard we helped build alongside the @omgnetworkhq team is an authenticated dApp that bridges the gap between Ethereum and #OMGNetwork. Instead of interacting with two different blockchain nodes, you have one smooth interface to work it all from"" @curvegridinc https://t.co/UnpZ4FsWSi",95,4,15,2020-09-30
+183,2020-10-01 10:31:38+00:00,1311614745263271937,bobanetwork,"Hey! Have you seen the demo of how the back-end of our @reddit Community Points Engine works yet? If not, here you go!😉 @curvegridinc https://t.co/ekhgrxRKmC",96,3,16,2020-10-01
+184,2020-10-02 11:00:20+00:00,1311984354403340288,bobanetwork,"What is OMG Network’s business strategy? We’ll let #OMGNetwork CEO, @Vansa_OMG explain 🤩 https://t.co/F0B53VBcFO",150,5,21,2020-10-02
+185,2020-10-05 05:00:08+00:00,1312980870651731969,bobanetwork,"It’s technical, but it’s worth it! Learn what Javascripts were used to build the @reddit Community Points Engine and discover how @curvegrid got up to speed with integrating with the #OMGNetwork https://t.co/L9NGD5NdEv",78,5,9,2020-10-05
+187,2020-10-06 08:31:20+00:00,1313396411438829570,bobanetwork,"We’ve compiled and transcribed the highlights of the #OMGNetwork x @curvegridinc webinar into one mega-blog post. So if you’re more of a reader, head on over to the link below: https://t.co/GBGOGAdFSc",100,3,20,2020-10-06
+188,2020-10-07 11:04:58+00:00,1313797459903086592,bobanetwork,".#ETHBKK2020 is back as we celebrate the spirit of collaboration within the Ethereum ecosystem with @AtatoThailand @kaleido_io @Consensys @ethereum and more! 🥳
+
+Sign up now and secure your spot for this free virtual event happening on October 29, 2020 🇹🇭 https://t.co/UUyuvJkdzn",60,2,9,2020-10-07
+190,2020-10-08 02:57:05+00:00,1314037068067086336,bobanetwork,"@sandeepnailwal @Omise @maticnetwork No hard feelings taken, but came here to point out our handle is @omgnetworkhq. Not going to comment on token price.",22,3,1,2020-10-08
+191,2020-10-12 09:10:49+00:00,1315580674284253184,bobanetwork,👆🏼Heads up! There will be a few minutes of downtime on the OMG Network integration environment as we restart services at 11am UTC +1. Thank you for your patience! 🙏🏼,98,7,11,2020-10-12
+194,2020-10-14 11:08:38+00:00,1316335099340709888,bobanetwork,"2 weeks left until #ETHBKK2020!🇹🇭 
+
+#OMGNetwork Software Engineer &amp; Technical Product Manager, @unnawut will be discussing the local ecosystem with @AtatoThailand and @KULAPofficial on their Thailand Blockchain Scene panel.
+
+Secure your pass here now: https://t.co/UUyuvJkdzn https://t.co/04xHFJKVCw",66,2,9,2020-10-14
+196,2020-10-15 13:34:42+00:00,1316734244664692737,bobanetwork,@MrBiscu07277565 @rocks_omg @LeaksBlockchain @Vansa_OMG @maticnetwork @XDai https://t.co/XTDfAZi5tq,13,0,0,2020-10-15
+200,2020-10-16 12:33:29+00:00,1317081225803124736,bobanetwork,Enterprises would find value in interacting with a public chain for the following reasons: https://t.co/yz9Uc9ll6D,108,3,22,2020-10-16
+201,2020-10-19 11:00:40+00:00,1318145032226971648,bobanetwork,"Hey, you! 👋🏼
+
+Ethereum gas fees hit different nowadays, but @omgnetworkhq's got a way to cut fees to 1/3rd! Want to know more? 
+
+Catch @kasima at the @golemproject Layer 2 Panel tomorrow alongside @zksync @loopringorg and @optimismPBC 🥳 
+
+Sign up now: https://t.co/MQwJPSMgeJ",124,5,19,2020-10-19
+202,2020-10-21 08:32:00+00:00,1318832395114610688,bobanetwork,"If you enjoyed yesterday's panel with our CTO @kasima, be sure to catch him on the 29th of October at #ETHBKK 🇹🇭 
+
+Join us and our friends from @MakerDAO and @BandProtocol as we chat about the DeFi space! 
+
+Sign up now: https://t.co/UUyuvJkdzn https://t.co/oEoQ3i3RYK",64,1,10,2020-10-21
+203,2020-10-22 05:00:50+00:00,1319141643312713728,bobanetwork,https://t.co/M0rzfIGoOi https://t.co/CoaOF9ZjUx,140,5,12,2020-10-22
+204,2020-10-26 12:30:28+00:00,1320704345277562881,bobanetwork,"Given Ropsten's recent issues with block production and submission, @omgnetworkhq's test environment is switching to Rinkeby. Here's what that means for you:",64,6,6,2020-10-26
+207,2020-10-28 10:00:30+00:00,1321391382737510402,bobanetwork,"Join us tomorrow at #ETHBKK2020!🇹🇭 From talks around DeFi to checking in on how the local Ethereum community is doing - we've got it all lined up for you. 
+
+If you haven't yet, sign up now: https://t.co/UUyuvJkdzn https://t.co/rZLsx5cGC0",65,0,7,2020-10-28
+208,2020-10-29 09:15:17+00:00,1321742391569604608,bobanetwork,"Don't forget to catch @kasima at #ETHBKK2020 Decentralized Finance Panel happening in 15 minutes!
+
+Hop on over: https://t.co/UUyuvJkdzn https://t.co/rZLsx5cGC0",47,2,2,2020-10-29
+211,2020-11-02 13:15:00+00:00,1323252269001834497,bobanetwork,"A recent survey revealed that 70% of central banks are currently exploring the use of CBDCs. Here's why plasma is the infrastructure banks can use to take the ""money of the future"" from research to reality: https://t.co/ww7cUV74hD",170,7,29,2020-11-02
+213,2020-11-03 11:30:00+00:00,1323588232949362689,bobanetwork,"""Why's #OMGNetwork talking about #CBDC?"" Well, we'll tell you why in our webinar on the 12th of November!🤠 Register now, limited seats only: https://t.co/7SuIqGzgnB https://t.co/e0y4D5wWDv",128,8,16,2020-11-03
+214,2020-11-04 11:00:00+00:00,1323943072015683584,bobanetwork,"We made a video on how CBDC Powered by Plasma Works, but why do banks need it? Sign up for our webinar ""Why Blockchain For CBDC?"" on 12th November, register here: https://t.co/7SuIqGzgnB
+
+https://t.co/CCFlg8AHur",71,3,10,2020-11-04
+215,2020-11-06 00:44:57+00:00,1324513063320477696,bobanetwork,@weshowells @omise_go Alive. We've moved to @omgnetworkhq,3,0,0,2020-11-06
+216,2020-11-09 10:00:24+00:00,1325740011203997699,bobanetwork,We've got a few seats left for this Thursday's CBDC webinar! Register now at: https://t.co/7SuIqGQRMb https://t.co/B5TZg0kMhp,53,1,7,2020-11-09
+219,2020-11-10 11:00:01+00:00,1326117400530575360,bobanetwork,"📢Delighted to announce the #OMGNetwork Engineering blog! Expect everything from highly technical write-ups, to “day in the life’s,” to posts about our engineering processes.🥳
+
+https://t.co/Tbkr4letTe https://t.co/GiMnSaAFj1",97,6,11,2020-11-10
+220,2020-11-11 12:30:00+00:00,1326502437469839361,bobanetwork,"Heads up everyone, the Infura outage is affecting our child chain services. We are currently unable to submit new blocks to Ethereum. Services are able to provide block and exit data. All funds are safe and can always be exited. #omgnetworkhq #trustlessness",80,8,6,2020-11-11
+223,2020-11-12 07:32:02+00:00,1326789839677771776,bobanetwork,"OMG Network Senior Blockchain Developer, @ino_murko, will be judging in @blockstack Stacks 2.0 #HackDefi. We're excited to see what you build!
+
+For more information, you may check: https://t.co/HidV4HB3QW",45,0,4,2020-11-12
+227,2020-11-13 09:05:15+00:00,1327175682460270592,bobanetwork,"Today, we say goodbye to our #Ropsten environment and hello to a more stable #Rinkeby testnet! 🤠 Learn how to re-deploy the various components of the #OMGNetwork like the Childchain, Watcher, and more here: https://t.co/7lwqCA06f7",89,2,8,2020-11-13
+228,2020-11-16 11:30:00+00:00,1328299275458064387,bobanetwork,Why now? Why now for #CBDC and why now for #ethereum #plasma technology? Here's why: https://t.co/iXVMPlgLx2,113,5,18,2020-11-16
+229,2020-11-18 13:00:01+00:00,1329046706378264578,bobanetwork,"Compared to traditional financial networks, blockchains enable high speed, low-cost transactions. But there are 3 other reasons the blockchain is suited for #CBDC, so let’s explore that 👇:
+
+https://t.co/Yb25amZiQD",83,6,9,2020-11-18
+234,2020-11-19 11:20:00+00:00,1329383921407066112,bobanetwork,"Missed our @Ledger integration announcement? All good! Go here: https://t.co/j2ddjQBzEj 
+
+For good measure, here's what our Director of Engineering, Thibault Denizet, had to say about it. 😁 https://t.co/A6j9W2ztWM",97,5,11,2020-11-19
+235,2020-11-20 11:45:00+00:00,1329752600598646784,bobanetwork,"With the ability to handle high transaction volumes and scale as needed, the plasma blockchain protocol can support the CBDC transaction needs of today and tomorrow.💵
+https://t.co/ZRONDgMJIz",123,8,9,2020-11-20
+236,2020-11-23 11:33:00+00:00,1330836744489431040,bobanetwork,"Erica and Kasima answer all your technical and non-technical questions about blockchain for Central Bank Digital Currency. #omgnetwork #blockchain #cbdc
+
+Watch: https://t.co/8bqcNfuOKz",91,1,12,2020-11-23
+237,2020-11-24 12:00:00+00:00,1331205928985702400,bobanetwork,Learn More 👉: https://t.co/Bvq9mdUpqt https://t.co/SJzPMFHTKv,74,3,5,2020-11-24
+238,2020-11-25 12:28:00+00:00,1331575361172172800,bobanetwork,"Watch ""Why Plasma For CBDC?"" Here: https://t.co/ajbmhZq5jC https://t.co/80sO6n1sa0",88,4,6,2020-11-25
+239,2020-11-30 12:00:02+00:00,1333380263695380481,bobanetwork,"🤠If you're more of a binge-watcher then kick back, relax, and enjoy the full webinar on ""Why Blockchain For Central Bank Digital Currency (CBDC)?"" Here: https://t.co/8ZhTSwg2wW",84,5,8,2020-11-30
+240,2020-12-01 12:22:12+00:00,1333748229754667009,bobanetwork,Congratulations Ethereum! https://t.co/hDjTT0nNq3,186,2,6,2020-12-01
+242,2020-12-04 03:55:51+00:00,1334707965933195265,bobanetwork,"Today, @genesisblockhk acquires OMG Network. We’ll work together to grow our ecosystem and accelerate the adoption of OMG Network as the value transfer layer for #Ethereum!
+https://t.co/dHF49qzDqE",324,50,59,2020-12-04
+244,2020-12-06 12:30:00+00:00,1335562131559870465,bobanetwork,"We know you have questions about @genesisblockhk and what's next for OMG Network so Clement Ip (Co-Founder, Genesis Block) will be on @boxmining's live stream to answer them!
+
+😁Set a reminder for Monday, 7th of December: https://t.co/OTN2IEGM4y",133,7,14,2020-12-06
+245,2020-12-07 03:05:19+00:00,1335782411418750977,bobanetwork,"Happening Now🚨 Clement Ip from @genesisblockhk sits down with @boxmining to discuss opportunities ahead for both OMG Network and GBV.
+
+https://t.co/OTN2IEpaFY",97,4,11,2020-12-07
+246,2020-12-09 12:07:01+00:00,1336643513392320512,bobanetwork,The $OMG token is now available for purchase on the largest crypto ATM network in Asia! Find out more: https://t.co/tlrTm0BvJb,201,7,34,2020-12-09
+247,2020-12-12 09:37:19+00:00,1337693002559451136,bobanetwork,"Who here uses @RevolutApp? See you there.
+
+Love, $OMG
+
+https://t.co/ptTUyyhl4a",106,3,13,2020-12-12
+248,2020-12-14 15:00:01+00:00,1338498987393859584,bobanetwork,"Our community mentioned wanting a video on how to use Coinhere ATMs to buy $OMG tokens, so we put this together! 🤓 #omgnetwork #coinhere https://t.co/Cpyv6UTtSB",114,6,18,2020-12-14
+251,2020-12-15 02:00:00+00:00,1338665076983676928,bobanetwork,"With over 3.3 billion loyalty points accounts as of 2014, large incentives exist for optimizing this industry. Here's how blockchain can be the catalyst for change. #omgnetwork #blockchain #loyaltypoints
+
+https://t.co/FF99p1Xkt2",127,17,18,2020-12-15
+252,2020-12-29 08:01:10+00:00,1343829397736812545,bobanetwork,@shogun8661 Happy holidays @shogun8661,5,1,0,2020-12-29
+253,2020-12-31 01:15:30+00:00,1344452085434126336,bobanetwork,@stbemi12 @shogun8661 Happy holidays,1,1,0,2020-12-31
+256,2021-01-01 03:06:09+00:00,1344842321171337217,bobanetwork,@MarcelLeon21 The official docs site is https://t.co/HRQ9wp2Fvp,0,1,0,2021-01-01
+259,2021-01-08 10:13:54+00:00,1347486682942083075,bobanetwork,Want to earn interest on your $OMG or collateralize it? Vote for us to allow $OMG to be eligible for collateral for CREAM! https://t.co/mpz7hAukh4,190,15,25,2021-01-08
+260,2021-01-11 05:39:43+00:00,1348504845460807680,bobanetwork,Loan back the $OMG token and earn interest on it or use it as security to withdraw other assets! Only 2 hours left to vote for us to be eligible for collateral on #CREAM. 😇 https://t.co/WjTnIX3w35,98,1,7,2021-01-11
+261,2021-01-15 03:15:51+00:00,1349918191116451840,bobanetwork,"PSA: There are scams using the OMG Network name and logo promising monetary incentives. Be cautious of these fraudulent activities. All official announcements can be found on our blog, Telegram, and Twitter @omgnetworkhq.",99,19,15,2021-01-15
+262,2021-01-25 11:30:00+00:00,1353666426368782336,bobanetwork,ICYMI: You can now earn interest by supplying $OMG or use $OMG as collateral to withdraw other assets on @CreamdotFinance! 😇(visit: https://t.co/qNNYExB61J) https://t.co/W0IrREyntR,169,13,32,2021-01-25
+263,2021-01-28 18:12:26+00:00,1354854867001434113,bobanetwork,"Pleased to be added to the @CFBenchmarks family of indices. Our inclusion will provide an accurate, institutional-grade solution of OMG/USD prices and enable the $OMG token to be included in a wider range of financial and derivative products! https://t.co/pYOZm3B6pr",115,9,15,2021-01-28
+264,2021-01-29 04:24:24+00:00,1355008872742748163,bobanetwork,#woo https://t.co/U76V2Oo2tD https://t.co/dR9NkzjBjW,142,10,29,2021-01-29
+267,2021-02-01 03:18:29+00:00,1356079448844460035,bobanetwork,Never too late to re-share this one 👀! #omgnetwork #genesisblockhk https://t.co/T84iVPxJDc,183,20,45,2021-02-01
+268,2021-02-04 05:58:30+00:00,1357206881589104641,bobanetwork,"OMG Network is delighted to partner with @enyaai to enable a new generation of decentralized apps that are both censorship-resistant and privacy-preserving! #omgnetwork #enya 
+https://t.co/jIkTBIFRtT",318,77,83,2021-02-04
+270,2021-02-05 10:31:16+00:00,1357637912116948994,bobanetwork,@NiemiVille_ @genesisblockhk Hi @NiemiVille_. I think we have a few in inventory. Could you DM us here?,4,3,0,2021-02-05
+272,2021-02-06 13:00:00+00:00,1358037730488295424,bobanetwork,👀 https://t.co/4Oc4afDILC,248,16,33,2021-02-06
+273,2021-02-08 11:10:00+00:00,1358734821959241731,bobanetwork,@blockfolio - we appreciate the mention! 😇https://t.co/56w01gMaK0,22,0,5,2021-02-08
+274,2021-02-10 03:22:55+00:00,1359342052496920580,bobanetwork,🎉🎉Delighted to have you onboard! #WOOOO in the chat? https://t.co/kzkwFCi84U https://t.co/VLLfebc2sR,135,17,24,2021-02-10
+275,2021-02-11 01:32:28+00:00,1359676645804711941,bobanetwork,@iamDCinvestor @Gemini @coinbase @krakenfx @loopringorg @optimismPBC @zksync @tyler @cameron @brian_armstrong @jespow .@bitfinex did it. https://t.co/8Bx8wa6pll,15,1,3,2021-02-11
+276,2021-02-16 11:05:00+00:00,1361632666785902592,bobanetwork,Alan Chiu (CEO &amp; Co-Founder) of https://t.co/frFmur3p44 answers questions from the OMG Network community about the goal of the partnership and how data privacy and security can benefit the blockchain. https://t.co/xis5lQAvbS,133,13,27,2021-02-16
+277,2021-02-17 13:00:00+00:00,1362023994979807233,bobanetwork,Catch the entire Enya x OMG Network AMA here! https://t.co/xq1MupqXjW https://t.co/TtzfFZwJ7A,108,17,18,2021-02-17
+278,2021-02-18 13:30:00+00:00,1362393933788172292,bobanetwork,"We think Alan's answer to ""How will data privacy and security benefit from the blockchain? And why is it important?"" deserved some shine of it's own!
+
+Catch the Enya x OMG Network AMA here: https://t.co/rOrDWDtnjG https://t.co/uidFRrLOgF",134,7,33,2021-02-18
+279,2021-02-19 03:50:41+00:00,1362610532537094148,bobanetwork,"Whether you already know the ins-and-outs of the OMG Network or you’re just getting started, we think this article on @Gemini’s new website, #Cryptopedia offers a great overview of what we do! Check it out: https://t.co/YAwAziI6ZW",130,16,28,2021-02-19
+280,2021-02-22 13:00:01+00:00,1363835938875404288,bobanetwork,"If you haven't already, catch part 1 of the AMA here: https://t.co/lD8SJGWvLY
+
+Part 2 drops soon! 💙 https://t.co/0NxHY4R75w",74,10,10,2021-02-22
+281,2021-02-23 11:05:00+00:00,1364169382063054856,bobanetwork,"Alan tackles questions about use-case and Jan demo's Hashcast - a secure communication, storage, and messaging application built to help co-ordinate atomic swaps on OMG Network's plasma!
+https://t.co/bcjQwvFwZv",90,8,16,2021-02-23
+283,2021-02-24 11:00:01+00:00,1364530514821083139,bobanetwork,"Make co-ordinating atomic swaps easy with an all-in-one general communication, messaging, and storage app built on OMG Network's plasma. Everyone, meet #hashcast!
+
+Watch: https://t.co/mwpB9i4i2c",156,9,40,2021-02-24
+284,2021-02-25 13:30:00+00:00,1364930647576436736,bobanetwork,"How we're feeling after DEMO-ing a brand new application on OMG Network's plasma!  #hashcast meet #hashcat 
+
+Catch the full demo here: https://t.co/mwpB9i4i2c https://t.co/dxiB33Ob7t",198,17,30,2021-02-25
+285,2021-03-01 13:30:00+00:00,1366380200129273867,bobanetwork,"Say hello to our first engineering update! In this edition, we talk about Hashcast, Atomic Swaps, and offer updates on OMG Network Childchain V2. ☺️ https://t.co/HY4nbRJA6K",223,17,54,2021-03-01
+286,2021-03-04 13:50:00+00:00,1367472395968208900,bobanetwork,"Missed the engineering update couple of days back? No worries! Here's a summary of all the new features we're adding to Childchain V2 🎉
+
+There's a lot more in the pipeline so we recommend reading the blog post here! 👀https://t.co/HY4nbS1bvk https://t.co/7rxGnVbOcM",123,8,23,2021-03-04
+287,2021-03-05 01:41:37+00:00,1367651481361412098,bobanetwork,"@HughJaynus424 @VitalikButerin Fun fact, this almost happened. But plasma is not tech that any one project can claim.",9,0,0,2021-03-05
+294,2021-03-08 13:00:00+00:00,1368909365340733440,bobanetwork,"We spoke about #Hashcast and #Quasar last week - here's why the two matter and what they mean for you 👀
+
+Credit to $OMG community member TXH for writing this blog!
+https://t.co/EvQ6JiIhPd",189,13,46,2021-03-08
+295,2021-03-11 13:00:00+00:00,1369996528430026758,bobanetwork,"With the many Layer-2 solutions around, it's easy to get lost in the subtleties between all the tech. So who better  than @VitalikButerin to explain how OMG Network's #plasma works! 😎
+https://t.co/0l4Gcaueuh",192,16,36,2021-03-11
+296,2021-03-14 09:08:20+00:00,1371025393147211780,bobanetwork,@instyle91 @NiemiVille_ Be careful what you wish for,6,0,0,2021-03-14
+297,2021-03-15 13:00:01+00:00,1371446086347395074,bobanetwork,"On this week's edition of #mememonday,  OMG Network community member omgodess explains #hashcast and #quasar through ancient English architecture 🤓.
+
+Technical details here with more to come this week: https://t.co/HY4nbS1bvk https://t.co/qPAUOS2Mnw",118,6,20,2021-03-15
+298,2021-03-19 13:00:01+00:00,1372895635284852740,bobanetwork,"Engineering update tl;dr:
+📢*NEW* A limit order Decentralized Exchange: Public beta launch imminent!
+👷A fast exit solution for Plasma + Inter-chain value transfers: Under audit
+✅dApp to coordinate Atomic Swaps: Public beta
+https://t.co/lJba2vA4ra",269,26,66,2021-03-19
+299,2021-03-21 04:27:42+00:00,1373491483337105412,bobanetwork,@ercwl Hi @ercwl. Let us know if you have any questions and we can point you to the right channels.,7,3,0,2021-03-21
+305,2021-03-22 19:02:44+00:00,1374074078982643712,bobanetwork,"#mememonday 🐱A cute list of features we're building for Hashcast (dApp) and Varna (a DEX that prevents frontrunning)!   
+
+Cred: community mem(e)ber TheOneThatNose for the submission. 😎 
+
+📢Details: https://t.co/mjOY6xWAek
+
+#omgnetwork #enyaai https://t.co/NUeOAntyoC",119,7,18,2021-03-22
+306,2021-03-23 12:56:52+00:00,1374344396770996225,bobanetwork,"1/5 - The #OMG and #Enyaai team is building #Varna, a DEX that prevents frontrunning. But what is frontrunning and why is stopping it important? 👇",197,8,31,2021-03-23
+311,2021-03-25 13:00:02+00:00,1375069969340276741,bobanetwork,"A quick recap of our latest engineering update incase you didn't catch it! #omgnetwork #enyaai #defi😉
+
+Read More: https://t.co/mjOY6xWAek https://t.co/Fg7zxZHly2",199,27,42,2021-03-25
+313,2021-03-29 13:00:00+00:00,1376519510182739973,bobanetwork,"#mememonday Did you hear? OMG Network is testing a fast exit solution that'll allow users to withdraw their funds from Layer-2 to Layer-1 - without having to wait for the 2-week ""exit period."" Here's how we're feeling about it 😎
+
+Details: https://t.co/mjOY6yebCU
+
+Cred: DarealX https://t.co/e5wy1qd6sR",247,16,43,2021-03-29
+314,2021-03-30 12:59:16+00:00,1376881715872899074,bobanetwork,"(1/5) The #OMGNetwork is best known as an Ethereum scaling solution that benefits from Ethereum’s security guarantees. However, the dApps that @enyaai are building on the #OMGNetwork show that OMG isn’t ‘just a scaling solution.’",178,7,36,2021-03-30
+319,2021-03-31 01:24:56+00:00,1377069366903152643,bobanetwork,@donald_junkins @enyaai The market understands that Ethereum needs to scale and the market has not yet decided how it will be done. Watch this space.,13,0,0,2021-03-31
+320,2021-04-01 13:00:03+00:00,1377606686509314048,bobanetwork,Short and sweet update on OMG Network's and @Enyaai 's Quasar 😎 #omgnetwork #enya #quasar  #NotAprilFools https://t.co/wVJMHs9GMX,201,11,34,2021-04-01
+321,2021-04-02 13:00:02+00:00,1377969070633459717,bobanetwork,"""What does #hashcast do and why is it a significant development for the #OMGnetwork developer ecosystem? 🤔"" 
+
+Find out in the video below!😉 #omgnetwork #hashcast #enyaai
+
+https://t.co/ILwYRUxgti",146,16,26,2021-04-02
+322,2021-04-05 13:30:00+00:00,1379063777421783041,bobanetwork,"#mememonday
+✅Development? Speedy.
+✅New Products? In Beta.
+✅Fast Exit Problem? Solving it.
+
+Creds: Xneth
+ 
+#omgnetworkhq #enyaai #quasar #ethereum https://t.co/8ZAUfM83X7",157,9,21,2021-04-05
+323,2021-04-06 13:30:00+00:00,1379426163026714633,bobanetwork,"An excellent overview by community member TXH about how our latest dApps will benefit the OMG Network and, ultimately, our end-users! #omgnetwork #enyaai #hashcast #varna #quasar #ethereum
+
+https://t.co/Q5xYN3NGHq",181,9,46,2021-04-06
+324,2021-04-07 05:40:15+00:00,1379670333024690177,bobanetwork,"(4/4) 現在以下3つの新製品も開発中です！
+a）Varna：DEX
+b）Hashcastキャスト：PlasmaでのメッセージングdApp
+c）Quasar：高速終了ソリューション https://t.co/r5OaaM4NJe",47,1,5,2021-04-07
+328,2021-04-09 13:30:01+00:00,1380513329160982531,bobanetwork,"Awesome chat in our Telegram group today about how OMG Network x Enya’s Varna (DEX) keeps your order private and prevents frontrunning! 
+
+Props to TXH for the simple explanation. 
+
+Join our TG for discussion and memes..mostly memes: https://t.co/nGYM6dpeSN https://t.co/THkxYmmpR4",128,8,33,2021-04-09
+329,2021-04-12 13:00:00+00:00,1381592940703850496,bobanetwork,"#mememonday POV: You're a bot trying to frontrun an order on Varna 🧐
+
+Creds: @NiemiVille_ 
+
+#omgnetwork #varna #enyaai #quasar #hashcast https://t.co/m7y0o9elx0",105,7,16,2021-04-12
+330,2021-04-13 03:00:01+00:00,1381804338952163334,bobanetwork,Wishing you all a very happy Songkran and Thai New Year! Have a safe one. 🥳 #omgnetwork https://t.co/kBR2kx6uth,112,11,12,2021-04-13
+333,2021-04-15 13:00:00+00:00,1382680104896110598,bobanetwork,"Observation:
+
+As the number of Layer-1s and Layer-2s grow, it becomes increasingly important to be able to move funds across chains. 
+
+The work we've done on Quasar will be helpful here.
+
+Learn: https://t.co/IuKF31Sits",158,7,39,2021-04-15
+334,2021-04-19 13:00:00+00:00,1384129657289670658,bobanetwork,"#mememonday 🚧 Bridging Layer-2s on the way...👷
+
+#omgnetwork #enyaai #ethereum #quasar https://t.co/WAHZAmPt8B",149,12,30,2021-04-19
+335,2021-04-20 13:23:23+00:00,1384497929637883911,bobanetwork,"@Vettelismo Love you too. 😘 
+- OMG Marketing Team",3,1,0,2021-04-20
+340,2021-04-22 17:38:55+00:00,1385287011280384004,bobanetwork,"There's a lot to discuss and we wouldn't want you to miss it... 👀
+
+➡️: https://t.co/Wq758fICzT
+
+📳P.S.: We're working on a link for Android users. https://t.co/COZtFh6x0I",96,8,21,2021-04-22
+341,2021-04-23 13:18:19+00:00,1385583818363478024,bobanetwork,"👋Android users: we will upload the event to our YouTube as soon as it ends. We couldn't find a safe and reliable way to stream the session, sorry about that!
+
+YouTube: https://t.co/nP5aM5NIQq",31,0,4,2021-04-23
+348,2021-04-26 13:37:42+00:00,1386675858870394880,bobanetwork,"Missed the clubhouse session last week? We've got you covered with info on Quasar, Varna, and Biz Dev stuff 😉
+
+https://t.co/BZdCHPhI7Y",107,6,12,2021-04-26
+351,2021-04-27 13:00:00+00:00,1387028760277438464,bobanetwork,"Exciting times ahead!
+
+What is OMG Network x Enya's Quasar? 👇
+https://t.co/0P87bDsY3O https://t.co/7M2PgujwXL",143,17,28,2021-04-27
+352,2021-04-28 01:27:09+00:00,1387216784961335296,bobanetwork,"@akomarov @ASvanevik In case you missed it. We also spoke directly with Alex, so unsure why he’s not acknowledged that https://t.co/KUq7kq40WC",1,3,0,2021-04-28
+355,2021-04-29 05:28:19+00:00,1387639865030873088,bobanetwork,"@akomarov @ASvanevik Yes and yes. If you'd like to learn more, we invite you to join our developer channel: https://t.co/mDHZGyf39R",1,1,1,2021-04-29
+358,2021-04-30 11:54:29+00:00,1388099436367122433,bobanetwork,(3/4) Imagine connecting arbitrary off-chain compute with decentralized apps running on Ethereum. That’s why we need to augment Ethereum and bridge these gaps. https://t.co/mw9TDGtZ26,76,2,10,2021-04-30
+362,2021-05-01 09:15:12+00:00,1388421738820620290,bobanetwork,@akomarov @ASvanevik I'll DM you 👍,0,1,0,2021-05-01
+365,2021-05-04 13:11:18+00:00,1389568318697209858,bobanetwork,@JayBey410 https://t.co/WEPpu4gY7x,2,0,0,2021-05-04
+366,2021-05-06 13:05:41+00:00,1390291679500853257,bobanetwork,@tradertroy888 @sssebs @ZebraTechnology @Jaguar @LandRover @DellTech @ST_World @ObjectMgmtGroup https://t.co/fBCXsopfkE,8,0,0,2021-05-06
+367,2021-05-10 23:23:32+00:00,1391896719701409794,bobanetwork,@buildOMG @enyaai @genesisblockhk 👀,4,0,0,2021-05-10
+368,2021-05-11 16:41:47+00:00,1392158003034349569,bobanetwork,"@The_Shark_7 @optimismPBC @arbitrum Down the road, there will be a few things that distinguish OMGX from other OR solutions. More immediately the two things that stand out: 
+
+- Community-focused: Open for study and development
+- OMG token to power the network. 
+
+https://t.co/VdwcUAla9T",4,1,0,2021-05-11
+375,2021-05-12 06:56:25+00:00,1392373079095975936,bobanetwork,@CryptoMoodys Thanks @CryptoMoodys. Let us know if you have any questions,0,0,0,2021-05-12
+379,2021-05-13 07:41:44+00:00,1392746868359106560,bobanetwork,@warrenscohn007 @buildOMG https://t.co/vGMA7BKWpv,3,0,0,2021-05-13
+382,2021-05-14 17:17:57+00:00,1393254268287684611,bobanetwork,@GoPickUpCoin #OmiseWho?,0,0,0,2021-05-14
+389,2021-05-15 03:41:47+00:00,1393411260960579587,bobanetwork,"""Developers have told us they want to stay on #Ethereum, but they are hurting from high gas fees. As a layer 2 platform, #OMGX gives developers the security of Ethereum at lower gas fees, and a future that lets them build more sophisticated dapps.""
+
+https://t.co/qsbZiwCKfQ",269,17,47,2021-05-15
+392,2021-05-16 06:07:40+00:00,1393810362030460932,bobanetwork,"@GombeRakshith @ukolodny @0xPolygon ✅ OMG Network is a plasma, #notasidechain
+✅ OMGX Network is an optimistic rollup, #notasidechain
+
+https://t.co/c24XOdL2vY",0,2,0,2021-05-16
+395,2021-05-17 10:44:36+00:00,1394242442442907649,bobanetwork,"If the benefits of operating L2s only accrue to VCs and a few lucky people, then censorship resistance and resilience are in jeopardy. As the only tokenized EVM-compatible #L2, OMG is in a position to use our token responsibly for the long-term sustainability of the network. $OMG",167,7,23,2021-05-17
+397,2021-05-19 08:01:10+00:00,1394926089055522816,bobanetwork,@Marian73461034 OMG Plasma has been on mainnet since June 2020. OMGX is our new optimistic rollup platform,3,0,0,2021-05-19
+398,2021-05-20 22:23:30+00:00,1395505488196825091,bobanetwork,@hoardexchange Congrats @hoardexchange! Our optimistic rollup is ready when you are. https://t.co/m1m85DGDMo,15,0,0,2021-05-20
+401,2021-05-21 13:44:46+00:00,1395737334029557767,bobanetwork,"@FlappySocks @RevolutApp Appreciate the mention, but you can already find $OMG on Revolut (in some jurisdictions).",6,0,0,2021-05-21
+402,2021-05-22 06:44:05+00:00,1395993852352237570,bobanetwork,"@boxmining We’ll raise your double, $OMG is tripling down",20,4,1,2021-05-22
+404,2021-05-26 12:51:55+00:00,1397535970770128909,bobanetwork,"✅ OMG Plasma L2
+✅ OMGX Optimistic Rollup L2
+✅ Fast on/off ramps
+✅ Tokenized ecosystem
+✅ Secured by #Ethereum
+
+$OMG is ready 👍 https://t.co/5rZN4woW87",171,12,34,2021-05-26
+406,2021-05-27 09:15:11+00:00,1397843819018657794,bobanetwork,@certik_io 2021: Layer 2s,8,0,0,2021-05-27
+407,2021-05-29 03:57:04+00:00,1398488536219754496,bobanetwork,"@safetyth1rd OMG shipped the first L2 (plasma) almost exactly a year ago. It’s been running without downtime since. We’re on schedule to ship OMGX, an Optimistic Rollup, to run parallel with OMG Plasma.",9,1,1,2021-05-29
+409,2021-05-31 07:31:27+00:00,1399267264466092032,bobanetwork,"@jzlegion h/t https://t.co/NE0gfDvjzX
+
+Optimistic
+- @Arbitrum 
+- @optimismPBC 
+- @omgnetworkhq 
+
+ZK
+- @aztecnetwork 
+- @hermez_network 
+- @loopringorg 
+- @StarkWareLtd 
+- @zksync 
+
+Plasma
+- @GluonNetwork 
+- @omgnetworkhq 
+- @0xPolygon 
+
+Sidechain
+- @0xPolygon 
+- @SkaleNetwork 
+- @xdaichain",82,8,32,2021-05-31
+411,2021-06-01 04:24:37+00:00,1399582633173000192,bobanetwork,"@LefterisJP @tobowers Plasma never died, it only needed a fast exit solution. OMG Quasar does that. The audit is complete. 
+
+Prepare for the $OMG bridge between our Gen 1 plasma and our Gen 2 rollup.",30,0,5,2021-06-01
+424,2021-06-02 11:26:07+00:00,1400051094651170818,bobanetwork,@DorIan05618952 @arbitrum @cartesiproject @optimismPBC @fuellabs_ @aztecnetwork @hermez_network @loopringorg @StarkWareLtd @zksync @GluonNetwork @0xPolygon @CelerNetwork https://t.co/JcvMUM64da,1,1,0,2021-06-02
+430,2021-06-03 10:08:33+00:00,1400393963073277964,bobanetwork,@L2Omgx June 4-5. @alanchiu will be there repping $OMG #omgx https://t.co/0pqceR6i8W,4,0,0,2021-06-03
+431,2021-06-04 07:07:29+00:00,1400710784141848577,bobanetwork,@L2Omgx @alanchiu @JanLiphardt @gbv_john @optimismPBC @arbitrum https://t.co/5bkeRzNY5Q,4,0,0,2021-06-04
+432,2021-06-05 06:04:25+00:00,1401057302052950021,bobanetwork,@RyanSAdams .@bitfinex allows withdrawals to OMG Plasma L2 and Hermez L2,19,1,0,2021-06-05
+434,2021-06-07 05:22:42+00:00,1401771579713888256,bobanetwork,"Why Coalescence Matters in #DeFi, Not Composability 
+
+https://t.co/yDJsgQUoqs",85,3,12,2021-06-07
+436,2021-06-08 03:31:48+00:00,1402106056277323782,bobanetwork,"What is OMGX? 
+
+How does it compare to other optimistic rollups?
+...
+@AlanChiu and @JanLiphardt respond to your questions.
+
+https://t.co/rdIJFslTLo",113,8,23,2021-06-08
+438,2021-06-09 16:50:12+00:00,1402669367863570434,bobanetwork,"$OMG is the second-most distributed ERC20 token.
+
+And the only token to power two Layer 2 networks: OMG Plasma and OMGX Optimistic Rollup. https://t.co/QDrVldzkm6",139,5,30,2021-06-09
+440,2021-06-10 02:43:49+00:00,1402818758347952128,bobanetwork,"@oliveropitz @alanchiu @OMGxDEV Dear #ChicoCrypto and @BlockchainLeaks,
+
+We are an Optimistic Rollup L2 and a Plasma L2 with a token that is distributed to ~700K addresses. Incentivized community liquidity pools and fast on/off ramps are our thing.
+
+♥️ $OMG
+
+https://t.co/EWcsND4ylO",12,0,3,2021-06-10
+444,2021-06-11 08:01:35+00:00,1403261115518263298,bobanetwork,"""A Non-Technical Introduction to Rollups"" 
+written by @benjaminsimon97 
+
+https://t.co/7kksOKkOY1",52,2,1,2021-06-11
+447,2021-06-13 12:45:31+00:00,1404057343411638274,bobanetwork,"@aubetony We posted a transcript of the most recent audio chat with the leadership team to our blog. 
+
+Most of the FAQs asked by the community are answered there:
+
+https://t.co/rdIJFslTLo",2,1,0,2021-06-13
+449,2021-06-14 14:35:45+00:00,1404447473507069955,bobanetwork,@LionTrader48 @AllisonReichel My biggest fear is replying to someone and then seeing my reply used as a copy pasta,12,0,0,2021-06-14
+450,2021-06-15 03:00:20+00:00,1404634854973530112,bobanetwork,"A lot of work has gone into reducing the exit window from Plasma L2 to Ethereum. We're happy to announce that the Quasar audit is complete! 🔐✅
+
+Join Alan on the @CertiK_io LIVE Showcase AMA this Thursday 17th to hear more about: Quasar, OMG Plasma and OMGX Optimistic Rollup. https://t.co/g7ViAqTerm",125,9,19,2021-06-15
+451,2021-06-17 20:06:53+00:00,1405617968243822593,bobanetwork,"You don't want to miss @alanchiu on the @CertiK_io LIVE Showcase AMA today, 6PM EST. Hear more about:
+
+👉 Quasar
+👉 OMG Plasma
+👉 OMGX Optimistic Rollup
+
+Set a Youtube reminder now: https://t.co/L6Z5WWjssE https://t.co/WmyYlqEekw",56,3,13,2021-06-17
+453,2021-06-19 06:26:38+00:00,1406136323191152640,bobanetwork,"@Alex44321535 @AlexSaundersAU @0xPolygon The OMGX Optimistic Rollup will not be centralized:
+
+https://t.co/uaDjcUbTnz",6,1,0,2021-06-19
+460,2021-06-27 05:05:29+00:00,1409015000987963394,bobanetwork,"OMG offers your dapp not one, but two L2s: OMG Plasma and OMGX Optimistic Rollup. Contact us to migrate today! https://t.co/NZMTmRGmFL",125,8,26,2021-06-27
+461,2021-06-28 04:03:54+00:00,1409361891332263937,bobanetwork,"@HuobiGlobal OMG offers two flavors.
+Plasma and Optimistic Rollup.
+https://t.co/zzPIgy4OB9
+https://t.co/rMvC8CKvF6",80,3,9,2021-06-28
+462,2021-06-30 04:37:07+00:00,1410095026642714627,bobanetwork,@morales_eth @Cryptoshack14 @davidgokhshtein @0xPolygon https://t.co/1WWsFndeVC,5,1,0,2021-06-30
+464,2021-07-01 03:20:13+00:00,1410438064518819842,bobanetwork,"Greetings from your engineering team 👋
+
+We've been hard at work the last few weeks to get many basic pieces for OMGX Optimistic Rollup into place and stable. Find out what we've been up to in our latest engineering update:
+
+https://t.co/ui9QQfYQA0",103,13,18,2021-07-01
+466,2021-07-02 14:58:34+00:00,1410976197471653889,bobanetwork,"@KNC_Knews @maxxcab Nah, but if it makes you feel better https://t.co/Yf6eQ6P4ZT",4,0,0,2021-07-02
+467,2021-07-06 14:45:35+00:00,1412422481873358859,bobanetwork,@WadsworthP https://t.co/EBHW7PizXd,2,1,0,2021-07-06
+468,2021-07-07 14:06:03+00:00,1412774917955670022,bobanetwork,Happening now! Join Alan Chiu and Zaki Manian @zmanian as they discuss L2 Optimistic Rollups https://t.co/lQ8MlUrpTA,53,0,9,2021-07-07
+469,2021-07-28 05:30:55+00:00,1420255426680037384,bobanetwork,How many #Ethereum Layer 2s can you find on this list? https://t.co/OYDa1DBEos,95,14,9,2021-07-28
+471,2021-08-14 06:31:04+00:00,1426431155859968003,bobanetwork,@b05crypto @sassal0x @haydenzadams DM sent. Looking forward to it https://t.co/lzNJFXE3EK,7,0,1,2021-08-14
+475,2021-08-19 14:20:39+00:00,1428361270709800970,bobanetwork,"OMGX is now Boba!
+
+Big update coming in a few minutes...
+
+#optimistic #rollups",127,23,24,2021-08-19
+480,2021-08-20 00:06:55+00:00,1428508808825896960,bobanetwork,@josephdelong https://t.co/BiUdGrgSOV,15,1,0,2021-08-20
+481,2021-08-21 03:32:42+00:00,1428922983855255554,bobanetwork,@josephdelong https://t.co/BPuXlaibmG,10,0,1,2021-08-21
+482,2021-08-24 13:50:05+00:00,1430165520096145414,bobanetwork,@SirKaoPad @mitchbooy @ETHBobarian @enyaai @gbvofficial @alanchiu looks that way,7,0,0,2021-08-24
+483,2021-08-25 12:19:18+00:00,1430505061705158656,bobanetwork,@paoloardoino gm,10,1,0,2021-08-25
+484,2021-09-01 22:03:18+00:00,1433188743913951233,bobanetwork,Thank you for the article @Altcoinbuzzio 🙌 https://t.co/lWh4AqMHvf,47,5,1,2021-09-01
+485,2021-09-02 01:17:29+00:00,1433237613096288256,bobanetwork,@ethstatus @optimismPBC https://t.co/iLZGEYtWnp,16,0,1,2021-09-02
+486,2021-09-06 01:34:51+00:00,1434691534050381830,bobanetwork,@melabeeofficial @supercise1 https://t.co/p6Ps3tQOxe,5,0,0,2021-09-06
+487,2021-09-09 05:26:25+00:00,1435836971700482050,bobanetwork,@optimismPBC Let's put one on together!,43,2,6,2021-09-09
+488,2021-09-14 14:28:16+00:00,1437785273086140418,bobanetwork,Join @alanchiu and @zukoboba in the @CryptoDiffer Telegram in 30 mins! ⏱ https://t.co/n7gNPxdwHZ,66,7,9,2021-09-14
+489,2021-09-20 15:07:07+00:00,1439969375801384965,bobanetwork,"Tune in at 6:30 PM ET to watch our Founder and CEO @alanchiu talk more about our launch LIVE on @bobanetwork at the Boba Network Launch Party in NYC!
+
+🧋🧋🧋
+
+Read more at https://t.co/4C1vukvqNB https://t.co/LzbLFKAw49",110,9,32,2021-09-20
+492,2021-09-21 03:39:18+00:00,1440158668830306308,bobanetwork,@SajawalOnTech Bobarians unite https://t.co/ZPmxSJpd3B,6,2,1,2021-09-21
+494,2021-09-22 22:50:15+00:00,1440810703686758400,bobanetwork,@crypto_fruit @StaniKulechov 👀,1,0,0,2021-09-22
+495,2021-09-24 15:02:22+00:00,1441417734672240644,bobanetwork,$OMG on @WOOnetwork! Woohoo! https://t.co/0IDRGkIzbG,129,4,25,2021-09-24
+497,2021-10-01 06:19:20+00:00,1443822821612818435,bobanetwork,"We've got $BOBA Token Airdrop details for $OMG Holders! Also, be sure to read about the early bird bridging bonus! Check it out! https://t.co/Sd3B1GTaxa https://t.co/tzTEedWO3Q",733,240,250,2021-10-01
+498,2021-10-05 17:01:19+00:00,1445433933043171329,bobanetwork,"We hope you’re all as excited as we are..
+
+Announcing @WOOnetwork as the next exchange to support our Airdrop! Woo-hoo! 🎉
+
+Read more at https://t.co/COHCThhp6E
+
+#BobaEnya #Ethereum #EnyaAI #Bobanetwork #announce #woonetwork #partnerships #crypto #blockchain",338,43,76,2021-10-05
+499,2021-10-15 19:33:27+00:00,1449096100028157956,bobanetwork,"Mark your calendars, bobarians 📅 Our snapshot date is taking place in a little over a month:
+
+Snapshot date: Nov. 12
+Airdrop date: Nov. 19
+
+Read all about it at https://t.co/Sd3B1GTaxa
+
+Countdown to snapshot: https://t.co/JvpFncUtT5",143,30,43,2021-10-15
+500,2021-10-18 18:28:16+00:00,1450166856937922562,bobanetwork,"Have questions about the upcoming $BOBA aidrop? 
+Want to know about when and how it will work?
+
+We have all the answers for you right here!
+👉 Visit https://t.co/Sd3B1GTaxa to learn more.
+👉Countdown to snapshot: https://t.co/JvpFncUtT5",99,32,30,2021-10-18
+501,2021-10-20 18:37:27+00:00,1450893947287474178,bobanetwork,"➡️ICYMI: $OMG token holders will receive an extra 5% $BOBA if they bridge their $OMG to https://t.co/dFLS4s6EvY
+
+Learn more about our snapshot and aidrop to follow: https://t.co/Sd3B1GTaxa 
+
+Countdown to snapshot: https://t.co/JvpFncUtT5",125,18,37,2021-10-20
+502,2021-10-21 18:15:32+00:00,1451250817156018176,bobanetwork,"We're happy to answer any questions about our snapshot date and upcoming airdrop over in Discord:
+
+https://t.co/Wha5DD38pH 
+
+👉Aidrop info: https://t.co/Sd3B1GTaxa 
+
+👉Countdown to snapshot: https://t.co/JvpFncUtT5",74,20,15,2021-10-21
+503,2021-10-22 20:22:22+00:00,1451645122265845762,bobanetwork,"We're very excited to announce that we plan on launching OVM 2.0 on https://t.co/dFLS4s6EvY Mainnet on Thursday Oct. 28!
+
+🧋🚀🧋🚀",191,21,42,2021-10-22
+504,2021-10-23 02:20:56+00:00,1451735360657035264,bobanetwork,"We're less than 1 month away from our Nov 12 snapshot date!
+
+Bridge your $OMG to Boba Network before the snapshot so you can receive 5% extra $BOBA!
+
+Read more at https://t.co/Sd3B1HaLVK
+
+Countdown to snapshot: https://t.co/JvpFndc5hF",113,27,30,2021-10-23
+505,2021-10-25 18:14:14+00:00,1452700043090096129,bobanetwork,"Qualify for the $BOBA airdrop by:
+1. Bridging $OMG to Boba Network before the snapshot date and get 5% bonus tokens
+2. Bridging $OMG after the snapshot date
+3. Hold $OMG on a participating exchange
+
+Details: https://t.co/Sd3B1GTaxa
+Countdown to snapshot: https://t.co/JvpFncUtT5",84,18,38,2021-10-25
+509,2021-10-26 18:59:37+00:00,1453073848971128837,bobanetwork,"(Air)Drop it like it's hot 🔥
+
+Users that bridge their $OMG to Boba Network before Nov.12 will receive 5% bonus tokens 👀
+
+Learn how to bridge your wallets by reading more at https://t.co/Sd3B1GTaxa
+
+Countdown to snapshot: https://t.co/JvpFncUtT5",74,12,16,2021-10-26
+510,2021-10-27 18:46:07+00:00,1453432840574492673,bobanetwork,"November 12 is getting closer and closer... are you ready Bobarians?
+
+Bridge your $OMG to Boba Network before the snapshot date on November 12 and receive 5% bonus tokens 🙌
+
+Learn more at https://t.co/Sd3B1GTaxa
+ 
+Countdown to snapshot: https://t.co/JvpFncUtT5",69,8,15,2021-10-27
+514,2021-10-28 21:11:46+00:00,1453831884329209861,bobanetwork,"The Boba Party is just getting started 🎉
+
+We’re excited to have @MXC_Global @aexplus and @BigONEexchange supporting the airdrop.
+
+Our snapshot date of November 12th is just around the corner!",86,11,10,2021-10-28
+517,2021-10-29 17:51:34+00:00,1454143887333679109,bobanetwork,Everyone's getting in on $BOBA! Glad to have our friends at @gmo_coin @gate_io and @bitbank_inc supporting the airdrop. Our snapshot date Nov 12th is just around the corner!! 🗓️,114,20,21,2021-10-29
+519,2021-11-01 16:17:05+00:00,1455207274478112772,bobanetwork,"Happy snapshot + Airdrop month, Bobarians! 
+
+We’re thrilled to have @HanbitcoKr as the next exchange to support the $BOBA Airdrop 🙌 
+
+Read more at https://t.co/khWXOQlDAE https://t.co/xzf9U8lJ7U",113,14,21,2021-11-01
+522,2021-11-03 04:00:38+00:00,1455746717681217536,bobanetwork,Our first AMM is live! Excited to brew up some tea (extra sweet) with a side of swaps with @oolongswap https://t.co/4dutizPnNg,107,14,19,2021-11-03
+525,2021-11-04 23:06:02+00:00,1456397353796005895,bobanetwork,"Rebalancing of L2 ETH, USDC, and DAI completed. Gateway will be back up soon. OMG rebalancing scheduled for Nov. 5, 21:00 UTC. Thanks to all the Bobarians for bearing with us!",114,10,15,2021-11-04
+529,2021-11-05 16:34:48+00:00,1456661287140691974,bobanetwork,"Time really flies ⏰ can you believe our snapshot is already happening next week on Nov.12?
+
+Visit https://t.co/UYISrGtfNP for details on the upcoming Airdrop, a guide on how to bridge your wallets, and more.
+
+Countdown to snapshot: https://t.co/JvpFncUtT5",90,3,23,2021-11-05
+533,2021-11-08 02:41:37+00:00,1457538770438295555,bobanetwork,🦙 Track the awesome growth of DeFi on Boba Network with our friends @DefiLlama 🦙 https://t.co/dHwgpbIzMc,99,4,15,2021-11-08
+536,2021-11-09 17:09:29+00:00,1458119564466683906,bobanetwork,"Tune in TODAY to watch our Founder and CEO 
+@alanchiu's interview streamed at the Digital Currency Summit!
+
+⏰: 12:40 P.M. PST
+
+Watch here 👇👇👇https://t.co/dKDYI8QlL8",55,1,13,2021-11-09
+539,2021-11-10 20:15:50+00:00,1458528848769781764,bobanetwork,"For the $BOBA airdrop, be advised that transactions initiated ten minutes or less before the snapshot may not be included. The snapshot L1 &amp; L2 blocks (and timestamps) will be announced ~2 minutes after the snapshot. At that time (snapshot + 2 min), the snapshot will be complete.",136,21,29,2021-11-10
+543,2021-11-11 00:01:44+00:00,1458585701004369921,bobanetwork,"We're only 24 hours away from our snapshot! I hope all the #Bobarians are ready...
+
+Haven't bridged your OMG yet??? Do ASAP to make sure you get some of that delicious $BOBA. (Bridge before the snapshot and get 5% bonus!)
+
+https://t.co/J9nT0UeaRV",152,26,36,2021-11-11
+546,2021-11-12 00:04:02+00:00,1458948664395771906,bobanetwork,"The $BOBA snapshot time has passed—now it’s only a matter of time until you get a taste of $BOBA!!
+
+L1 Ethereum Snapshot Block: 13597967
+L2 Boba Network Snapshot Block: 15354
+
+We’re excited kickstart our community #Bobarians when the token drops next week, on Nov 19th.",202,51,40,2021-11-12
+549,2021-11-15 21:57:36+00:00,1460366397402345473,bobanetwork,Bringing assets to Boba Network gets easier and easier! @SynapseProtocol joins us as our newest bridge. Come join the best bubble tea party in crypto! https://t.co/XRruqlwWjO,98,5,21,2021-11-15
+550,2021-11-17 17:32:05+00:00,1461024356641882112,bobanetwork,"ICYMI: Any $OMG bridged from L1 to Boba Network after the snapshot will still qualify for the $BOBA airdrop if they have not already received the airdrop on a participating exchange and are moved onto L2 for up to 1 year after the snapshot date
+
+Details: https://t.co/s7YZMSqkHX",66,18,13,2021-11-17
+553,2021-11-18 18:22:49+00:00,1461399511733993474,bobanetwork,"The recent RPC issues are now resolved with upgrades. Thank you for your patience. We hope you are excited about the upcoming $BOBA airdrop!! 
+
+For details please check: https://t.co/sYuSm7vvnG",72,21,5,2021-11-18
+554,2021-11-19 00:23:05+00:00,1461490174899097601,bobanetwork,Trade BOBA now on @FTX_Official !! https://t.co/pzGRPgM8TA,117,12,17,2021-11-19
+560,2021-11-20 07:46:22+00:00,1461964119607705603,bobanetwork,"One of the drawbacks of optimistic rollups is the 7-day wait on withdrawal. That's why we built the Boba native fast bridge. 
+
+So, how fast is it? 
+
+For most users, ~5 min.
+For almost all users, &lt;10 min. 
+
+On avg 2,000x faster than 7 days!
+
+#ethereum #layer2 #bobanetwork $BOBA https://t.co/oWc8KhlBvK",187,55,36,2021-11-20
+561,2021-11-23 22:17:57+00:00,1463270625288413186,bobanetwork,"Awesome growth is happening on Boba! Bridge today and get involved in the sweetest community in crypto
+
+https://t.co/J9nT0UeaRV https://t.co/xeviaWVKag",114,44,22,2021-11-23
+562,2021-11-26 21:38:50+00:00,1464347941322305536,bobanetwork,👀 https://t.co/bSK5R95kCL,94,14,8,2021-11-26
+563,2021-11-27 21:59:05+00:00,1464715426948997121,bobanetwork,Block explorer has been restored.,43,10,4,2021-11-27
+569,2021-11-30 18:04:48+00:00,1465743632833519621,bobanetwork,"The fast bridges will be upgraded today from UTC 20:00 and 23:00. Fees will be dynamic to incentivize staking into low balance pools. APR for the L1 BOBA, ETH, and OMG pool staking will increase significantly.  Fast bridge functionality will not be available during the upgrade.",113,18,18,2021-11-30
+571,2021-12-02 04:24:52+00:00,1466262064431697927,bobanetwork,Love the art--#Bobarians are making some pretty cool stuff!! https://t.co/ienw9bBm0f,113,21,18,2021-12-02
+573,2021-12-03 19:20:22+00:00,1466849810007347207,bobanetwork,Rinkeby is down now for regenesis and upgrades - will be back up in 3 hours from now. Thanks for your patience.,70,23,3,2021-12-03
+574,2021-12-06 23:43:44+00:00,1468003252734025731,bobanetwork,The Boba DAO is now live! Use your $BOBA tokens to create and vote on proposals as well as delegate votes to other members of the Boba community. Our community members have worked so hard to help us get here and this is only the first step. Check it out at https://t.co/J9nT0UeaRV,202,26,31,2021-12-06
+575,2021-12-09 00:29:03+00:00,1468739434921148417,bobanetwork,"We're excited to announce the launch of our Ecosystem page! Come check out all the awesome things you can do on Boba Network, from DEXs to Bridging to NFTs to Dashboards--the Boba community just won't stop 🧋🚀
+
+https://t.co/W6mHZlgknK",162,39,43,2021-12-09
+576,2021-12-10 19:04:44+00:00,1469382590549221376,bobanetwork,"gm #Bobarians, have you checked out our new ecosystem page? This page features links to all of the projects on Boba Network including:
+
+🫖 @oolongswap
+🔁 @anyswap
+🐵 @ape_board
+🍵 @zenchafinance
+
+..and so much more!! Visit https://t.co/W6mHZlgknK to get started",73,9,19,2021-12-10
+579,2021-12-12 19:17:02+00:00,1470110463706820610,bobanetwork,👀 Seems like everyone's going nuts for Boba Network @ThetaNuts https://t.co/ivKqTKG9m7,66,12,10,2021-12-12
+581,2021-12-14 17:32:11+00:00,1470808851448360962,bobanetwork,"Boba mainnet will be unavailable for approximately 10 minutes today, starting 18:00 UTC, for a L2Geth upgrade.",38,9,3,2021-12-14
+583,2021-12-15 22:23:06+00:00,1471244450877820936,bobanetwork,"Start farming CELR in the BOBA/USDC Pool on cBridge by our friends @CelerNetwork!! Go check it out and start farming on Boba
+
+https://t.co/HzTjx8cPoL",47,13,10,2021-12-15
+585,2021-12-16 17:30:42+00:00,1471533256478658566,bobanetwork,@ThetaNuts is coming to Boba Network very very soon!! What more could you want for the holidays than some of the best yields on ETH coming to Boba? https://t.co/PmTunSbStu,2,0,0,2021-12-16
+586,2021-12-20 16:31:51+00:00,1472967997614538752,bobanetwork,"Come join the discussion as we look to work with our friends @Bancor--this will be a great partnership to grow both of our communities!
+
+https://t.co/yboYJ32wIE",74,9,17,2021-12-20
+589,2021-12-21 19:43:53+00:00,1473378711869165570,bobanetwork,"We're excited to announce that @alanchiu will be doing an AMA with  @ThetaNuts on Boba Network on Friday at 00:00 UTC on the Boba Telegram! We'd love to include some community questions, comment your questions in the thread below and mark your calendars! https://t.co/7ubUZeavOY",69,16,13,2021-12-21
+590,2021-12-22 17:59:48+00:00,1473714906725859329,bobanetwork,👀 @CyberDA0 and @oolongswap are on 🔥--you don't want to miss this!! https://t.co/8pRZtMzY4a,63,12,14,2021-12-22
+591,2021-12-23 17:07:17+00:00,1474064077009809410,bobanetwork,The engineering team has been busy--and this is only the beginning! https://t.co/27XSRotYUt,72,14,6,2021-12-23
+592,2021-12-24 00:08:53+00:00,1474170176224391184,bobanetwork,"@ThetaNuts AMA is happening right now in telegram, hop in and hear from @alanchiu and 0xUsagi
+
+https://t.co/7ubUZeavOY",8,1,1,2021-12-24
+593,2021-12-30 23:16:58+00:00,1476693825917636608,bobanetwork,"#Bobarians in Korea! $BOBA going live on @BithumbOfficial today! 🧋🇰🇷🚀
+
+https://t.co/5ioWruGnsh https://t.co/0HPzKEXnOT",85,15,12,2021-12-30
+594,2022-01-04 04:14:17+00:00,1478218201494294528,bobanetwork,"1\ Introducing Boba's WAGMI incentive program for builders and developers. In collaboration with @UMAprotocol, we will be distributing WAGMI options on $BOBA token to promising projects building on Boba. 
+🧵on this below:",290,12,75,2022-01-04
+602,2022-01-06 18:59:56+00:00,1479165857959841797,bobanetwork,#Bobarians show some love to our friends at @ConnextNetwork !! https://t.co/ZZBdUuv6eY,39,3,6,2022-01-06
+604,2022-01-07 17:17:33+00:00,1479502479096090626,bobanetwork,"Listen to @alanchiu speaking at the @blocklikecom The Layer2 Pop event next week! Tune in on Jan 11th at 7pm UTC+8 to hear more about Boba Network, Layer 2 Trends, and hybrid compute https://t.co/6mnbmHHH7E",100,18,32,2022-01-07
+605,2022-01-10 05:07:39+00:00,1480405956911529988,bobanetwork,Lots of exciting things coming down the pipeline...get ready for #L222 https://t.co/rMnYx695jb,112,10,24,2022-01-10
+606,2022-01-11 05:49:50+00:00,1480778960946425856,bobanetwork,"Thanks for the shoutout @boxmining ! A great explanation of the Boba and the L2 space, check it out:
+https://t.co/LTA4X3YL0U https://t.co/UvIFoP1NQn",60,10,15,2022-01-11
+607,2022-01-12 03:26:44+00:00,1481105334588559360,bobanetwork,"Tired of those ETH Gas fees killing your margin? Gas just got even cheaper on Boba Network! Swaps &amp; transfers cheaper than ever, bridge some ETH and get started in minutes at https://t.co/J9nT0TWA0n https://t.co/MFy1w1w4pz",195,22,46,2022-01-12
+609,2022-01-15 01:55:04+00:00,1482169432709341186,bobanetwork,@tofuNFT has launched on Boba as our first NFT marketplace!! Go trade your favorite @BobaPunks and @BobaApes with the rest of the #Bobarians https://t.co/EVvJK10E4V,20,3,4,2022-01-15
+610,2022-01-18 04:31:43+00:00,1483296018233888772,bobanetwork,"Missed out on the minting of awesome NFT projects like @BobaPunks ? Head on over to @tofuNFT and check out Boba Network's first NFT marketplace! #Bobarians #L222 
+
+Throw a pic of your favorite punk in the thread 👇
+
+https://t.co/kxIFtx2aPa",59,9,13,2022-01-18
+612,2022-01-21 06:03:00+00:00,1484406154012860417,bobanetwork,"Hey #Bobarians! 
+
+Our founder @alanchiu will be speaking at Web 3.0 Conference 2022 hosted by @TechCircus_
+
+Visit https://t.co/mmdiChG6CV to attend!
+
+BTW, we got you!
+
+Use the discount code to attend for free:
+
+SPEAKER
+
+#WAGMI $BOBA #LAYER2 #L222 https://t.co/gQQGI95egB",73,5,23,2022-01-21
+614,2022-01-24 17:04:28+00:00,1485659780278468615,bobanetwork,"@UMAprotocol Remember—the higher the TVL of Boba Network, the more your WAGMI will be worth! So get your friends, family, and fellow degens onto Boba in February to maximize everyone’s option value. WAGMI #bobarians!!",26,1,4,2022-01-24
+618,2022-01-25 00:35:32+00:00,1485773294351667209,bobanetwork,"Hey #Bobarians! 
+
+With all the great developments and things being released recently, you may have missed that we released @gnosisSafe on @bobanetwork a few days ago. 
+
+Head to https://t.co/eVFW4MT4Qx to create a safe and securely manage your assets today.",55,4,13,2022-01-25
+624,2022-01-26 08:00:02+00:00,1486247543931559939,bobanetwork,"Hey #Bobarians
+
+We are thrilled to announce that we have partnered with @PolyNetwork2
+
+#PolyNetwork will provide a direct bridge from #BOBA network to #ETH.
+
+Here’s the link to try out #PolyBridge: 
+
+https://t.co/COd0vOCGN8
+
+$BOBA #PolyNetwork https://t.co/q50k3o9lWd",101,5,24,2022-01-26
+625,2022-01-31 03:14:04+00:00,1487987519761178626,bobanetwork,"We are excited what we can brew with @boba_brewery, our first launchpad! https://t.co/hlbh0RmSZj",64,3,14,2022-01-31
+627,2022-02-01 09:24:40+00:00,1488443170698502145,bobanetwork,"7\ @dominationfi is the world’s first decentralized exchange for dominance trading, i.e. BTC dominance in the crypto market",14,1,4,2022-02-01
+640,2022-02-02 01:08:06+00:00,1488680593227399168,bobanetwork,"Hey #Bobarians
+
+@BodhFinance, a lending protocol in Boba network, will be launching soon!
+
+Try out their test net by visiting here:
+https://t.co/RfcBqBZSrc 
+
+#WAGMI $BOBA #L222 #Bodh",49,2,8,2022-02-02
+641,2022-02-03 06:17:33+00:00,1489120857842765831,bobanetwork,"Hey #Bobarians
+
+We are going to delay WAGMI. 
+
+We want to ensure that the WAGMI incentives are easier to comeby due to the recent market downturn by changing the lower bound TVL from 400M to 300M.
+
+Good things take time! 
+
+#WAGMI $BOBA #L222",71,11,6,2022-02-03
+642,2022-02-05 17:50:23+00:00,1490019988417228805,bobanetwork,WAGMIv0--start farming today!! 🧋🧋 https://t.co/xbXu0oBZpY,50,4,14,2022-02-05
+643,2022-02-06 19:19:06+00:00,1490404704072855554,bobanetwork,"GM Anon
+Another Day, Another Farm 🤝
+#BobaNetwork #L222 #Soon https://t.co/MNEKfCR7vw",47,1,12,2022-02-06
+644,2022-02-07 17:01:23+00:00,1490732432596733955,bobanetwork,"GM Bobarians,
+
+We are happy to announce @xdaoapp's successful deployment on Boba Network. 
+Frens 🤝 https://t.co/TWMuSt3zMW",60,4,13,2022-02-07
+646,2022-02-08 06:52:08+00:00,1490941500565245954,bobanetwork,"Dear Anon,
+iykyk 
+#BobaWagmi #BobaNetwork https://t.co/ypvA7z9L1V",44,6,10,2022-02-08
+647,2022-02-10 05:00:01+00:00,1491638059401687041,bobanetwork,"GM frens, 
+We would like to welcome @BodhFinance to Boba Bar, Boba Network's accelerator program! 
+The first decentralized non custodial money market on Boba -- Lend or borrow assets including $Boba as collateral! 
+https://t.co/OqtnxnChz8 #BobaAccelerator #BobaFamily #BobaNetwork https://t.co/sjYZXgj62R",49,2,16,2022-02-10
+650,2022-02-12 19:58:53+00:00,1492589042889900043,bobanetwork,"Oops, Bodh is not part of WAGMI *yet* but we're clearly talking about it ;)",8,0,1,2022-02-12
+662,2022-02-14 01:48:12+00:00,1493039340368572418,bobanetwork,"GM frens
+
+Gas fees on Boba have been reduced by 50% 🤝 https://t.co/Zk5X6vIP9g",103,10,28,2022-02-14
+666,2022-02-15 23:15:00+00:00,1493725560052191232,bobanetwork,"Still haven't checked out our new engineering update? 👀
+
+New roadmap, Turing, WAGMIv0, and much more on the Boba blog! 📰
+
+https://t.co/mWqk4iSD3z",49,2,15,2022-02-15
+678,2022-02-16 01:00:00+00:00,1493751983899127808,bobanetwork,"Gm
+Wednesday evening is a perfect time for Twitter Spaces - join us and @dominationfi tomorrow at 5PM PST. 
+#BobaWagmi #BobaNetwork
+https://t.co/DsNnfjf6EV",38,2,11,2022-02-16
+681,2022-02-17 19:04:46+00:00,1494387364944355336,bobanetwork,3) Our L2TGeth (Turing Geth) includes a caching and gasEstimation system to provide better performance under load.,4,1,0,2022-02-17
+692,2022-02-18 00:00:00+00:00,1494461661142347783,bobanetwork,"If you would like to create your own NFT's using Turing  to generate random attributes, here is a simple howto to get you started! https://t.co/vorBppFA6A
+Tag us with your unique NFTs!
+#BobaNetwork #BuidlBoba",41,1,8,2022-02-18
+694,2022-02-19 01:06:48+00:00,1494840859849895940,bobanetwork,"Gm Frens
+🎉Neat summary for all those joining the #BobaNetwork family🎉
+#L222 https://t.co/Ef8BadziFC",64,3,17,2022-02-19
+696,2022-02-20 15:03:04+00:00,1495413701675044873,bobanetwork,👀 👀 https://t.co/WXD1K5UOLt,33,1,6,2022-02-20
+697,2022-02-21 17:33:44+00:00,1495814004735946754,bobanetwork,Boba 🤝 Across Bridgooor Partner https://t.co/z4Pd5W8QOW,41,3,8,2022-02-21
+698,2022-02-22 22:30:23+00:00,1496251047635042309,bobanetwork,"4/ The Boba team is working around the clock to bring you state-of-the-art technological solutions, coupled with best user experience possible.
+
+Review our latest Engineering update on the Boba blog here: https://t.co/CCVh5rgq5M",14,0,1,2022-02-22
+704,2022-02-23 02:53:14+00:00,1496317195076395008,bobanetwork,👀🚀🚀 https://t.co/TOtrwfssow,31,2,4,2022-02-23
+706,2022-02-24 15:46:43+00:00,1496874239567093764,bobanetwork,"👀 Amazing analysis by @kootsZhin in which he dissects the utilities of Turing on #BobaNetwork 🌐
+
+Gigabrain work by the Devs, @JanLiphardt and @alanchiu 💻
+
+#BobaNetwork #BuidlBoba https://t.co/R5IdZAuhFw",29,1,7,2022-02-24
+707,2022-02-25 03:03:41+00:00,1497044602141831168,bobanetwork,📣Check out @TaroFinance with their in-depth explanation of their DeFi platform 👀 https://t.co/EJxIDvjlXd,23,1,3,2022-02-25
+709,2022-02-26 22:59:02+00:00,1497707807503568897,bobanetwork,"WAGMI v1 starts on March 1, but with some added goodies, like v0 but on steroids
+
+First, to our existing v0 cohort @OolongSwap @ZenchaFinance @BreederDodo &amp; @dominationfi, we've added 5 new partners: @BodhFinance @CelerNetwork @AcrossProtocol @SynapseProtocol and @wepiggydotcom",44,6,12,2022-02-26
+723,2022-02-28 22:38:48+00:00,1498427495284043776,bobanetwork,"As we go through iterations of WAGMI, the parameters and amount of $Boba will be adjusted every month based on its previous performance, new partners, dApps, and new users",7,0,1,2022-02-28
+730,2022-03-01 01:48:16+00:00,1498475172738658304,bobanetwork,🗓️Mark your calendar! Join @zukoboba &amp; @boba_brewery and engage with us to have a chance to earn $BRE and $Boba tokens 💸 Best question/engagement wins! https://t.co/YCML8N5Ydq,22,2,5,2022-03-01
+736,2022-03-02 19:35:51+00:00,1499106230006022144,bobanetwork,PSA: This only applies to those who provided liquidity on @dominationfi,5,0,0,2022-03-02
+744,2022-03-03 02:55:28+00:00,1499216861249949696,bobanetwork,https://t.co/NhPEqCe5mo https://t.co/PGqx8dVkNt,23,2,3,2022-03-03
+750,2022-03-04 22:04:00+00:00,1499868286179176448,bobanetwork,"🔥Tomorrow our AMA spaces will go live with our WAGMI partners! 🔥
+All questions will be valid for the 💰$500 rewards! Join our https://t.co/byO1yRAUo3 and Ask Away under Community --&gt; AMA Questions
+#BobaWagmi #BobaNetwork 
+
+https://t.co/E3U1ZN7jIq",41,0,14,2022-03-04
+757,2022-03-05 22:25:30+00:00,1500236083841306624,bobanetwork,"🧵In fact, you can call any off-chain RPC endpoint. What you run there could be anything you want: as simple as generating a random number, or as complex as a machine learning trained model.",4,1,0,2022-03-05
+772,2022-03-06 23:31:16+00:00,1500615024544411657,bobanetwork,"🥳Gm Frens 
+Take a peek at our CEO @alanchiu 's interview with @CryptoStanford  to get a closer look at his life and the future of #BobaNetwork! 🚀
+
+We are all gonna make it!🔥 #BobaWagmi https://t.co/Y3XuZxEUVG",25,0,5,2022-03-06
+780,2022-03-07 16:17:11+00:00,1500868171280093196,bobanetwork,@nateliason @crypto_raiders @market_xyz Wen Boba? 👀,0,1,0,2022-03-07
+792,2022-03-08 22:04:50+00:00,1501318047948165124,bobanetwork,"🚀DODO's WAGMI pools has started! 
+Enjoy rewards for providing Liquidity 🥳
+
+Read about their participating pools! ⬇️ https://t.co/pZcSOzbL5j",21,0,6,2022-03-08
+802,2022-03-09 02:02:00+00:00,1501377732403474432,bobanetwork,"🗓️6 days till we pick the winners!
+Huuuuge #giveaway to the community 🎁
+🪂 We'll #airdrop WAGMI to the winning giga brains who participate
+#Early 🔥
+
+#BobaNetwork #BuidlBoba $BOBA https://t.co/6IyUvY6k3l",28,4,12,2022-03-09
+808,2022-03-10 13:07:41+00:00,1501907646118600706,bobanetwork,"@sverck1 @tapioca_dao In the works, we'll keep you posted! ✌️",4,0,0,2022-03-10
+816,2022-03-11 02:32:40+00:00,1502110227524890625,bobanetwork,"CT,
+We're Hiring! 
+👀We are looking for those who are driven, have good work ethic, integrity and desire to work with an amazing team!⚒️💪
+#BuidlBoba #BobaNetwork
+
+Apply Here!👇
+https://t.co/J2JKmRA8xx
+
+🚀Get your chance to work with our giga chads! https://t.co/KdYXhvdMQ2",19,2,3,2022-03-11
+823,2022-03-12 18:43:21+00:00,1502716893299286018,bobanetwork,"Who doesn't love some IL-free opportunities!? 💰
+Oolong Lending #Soon
+
+🎉Get started on mining for some sweet WAGMI tokens! ⛏️ 
+#BobaNetwork #BobaWagmi #StillEarly https://t.co/FsztftqAPs",33,4,8,2022-03-12
+826,2022-03-13 02:01:00+00:00,1502827032241180674,bobanetwork,"🎉Enjoy some high yields 🧑‍🌾on @BreederDodo! Bridge over assets to #BobaNetwork and start liquidity mining with $BOBA and stables or $ETH 
+https://t.co/J9nT0TWA0n
+#StillEarly
+#BobaWagmi https://t.co/R8OrpQIK3k",42,2,14,2022-03-13
+830,2022-03-14 06:55:41+00:00,1503263578509352966,bobanetwork,"🚀We are now listed on @bitbank_inc ! 
+We have an easy how-to 👇https://t.co/TNc7cZwseO
+
+Welcome to the Boba Family!
+#BobaNetwork #BuidlBoba https://t.co/rIGMVfmcaK",40,3,10,2022-03-14
+837,2022-03-15 19:48:00+00:00,1503820327209644041,bobanetwork,"If you are a @HuobiGlobal user, don't miss out on 200% APY! 💰 Earn $BOBA by depositing your tokens 🏦
+Bridge over your gains to Boba Network to reap more rewards! WAGMI tokens are up for grabs! 
+
+https://t.co/SYjqrNjU8W",24,0,5,2022-03-15
+844,2022-03-16 01:21:46+00:00,1503904321733242882,bobanetwork,@icebergy_ Turing on Mainnet 🤷🏻‍♂️,1,0,0,2022-03-16
+854,2022-03-17 21:55:44+00:00,1504577247348416520,bobanetwork,https://t.co/EGZTRmD9Qg,51,4,13,2022-03-17
+863,2022-03-18 17:52:14+00:00,1504878356327985153,bobanetwork,"@kelvinfichter We have fast withdrawal from minutes to a couple of hours due to our community liquidity pools that allows to bypass the challenge period 💪 https://t.co/dFLS4soNK6
+#BobaNetwork",3,0,0,2022-03-18
+870,2022-03-19 16:12:21+00:00,1505215608924778501,bobanetwork,"Become a liquidity providooor at @OolongSwap and earn over 100%+ APY 🔥
+https://t.co/WEbVQVEqLb
+
+Earn $WAGMIv1 Tokens to redeem $BOBA
+#BobaNetwork #BobaWagmi https://t.co/m0UY9dFB59",61,1,16,2022-03-19
+874,2022-03-20 17:28:00+00:00,1505597034144821253,bobanetwork,"Words from our CEO to those starting or wanting to buidl on web3 💪 At Boba Network, we are all passionate to make it the best🔥
+
+#BobaNetwork #BuidlBoba https://t.co/MK47gwAzSD",57,3,11,2022-03-20
+875,2022-03-21 22:55:02+00:00,1506041721670578189,bobanetwork,"Leila from @boba_brewery sees a bright future for women in the web3 industry ✨🧋
+
+#BuidlBoba #BobaNetwork #BobaBrewery #WomensHistoryMonth https://t.co/wK2PVlemO8",33,3,11,2022-03-21
+883,2022-03-22 04:02:03+00:00,1506118987058343941,bobanetwork,Curious on what our first #launchpad on Boba Network has in store for all of us 👀 https://t.co/T2ESfch6JO,43,4,5,2022-03-22
+888,2022-03-23 13:26:48+00:00,1506623498348896260,bobanetwork,Looking for work in crypto? https://t.co/yDRJBovmG4,20,1,3,2022-03-23
+892,2022-03-24 18:33:33+00:00,1507063084610834432,bobanetwork,@iamtheonertr yesserrr,1,0,0,2022-03-24
+898,2022-03-25 02:28:00+00:00,1507182483648917535,bobanetwork,This is a very close race! Vote and make yourself heard! https://t.co/lVXssTsI7r,22,1,1,2022-03-25
+906,2022-03-26 23:13:52+00:00,1507858404319977473,bobanetwork,"Make sure to convert the mint time to your local time zone. 
+
+UTC: 28th March at 12:00AM
+ET: 27th March at 8:00PM 
+EU: 28th March at 1:00AM
+China: 28th March at 8:00AM
+
+Or sign-up on Discord to see it in your local time 👇
+https://t.co/qVG6vhSKPs",22,3,3,2022-03-26
+910,2022-03-27 17:29:40+00:00,1508134170379182085,bobanetwork,"🧋The moment you’ve all been waiting for is finally here! 
+
+In less than 7 hours you will be able to mint your $BOBA Turing Monster. Mint link is dropping on Discord at 4PM PST, or one hour before the mint time.
+
+👉  Join our Discord at https://t.co/yfzNA37Pl3 https://t.co/GH0IccbDVR",49,4,17,2022-03-27
+914,2022-03-28 14:46:37+00:00,1508455525947777027,bobanetwork,"Look at @BeamerBridge power sliding onto #Rinkeby 🏎️
+
+Transfer directly from L2 to L2 with the security of #Ethereum🔒
+
+• Live on testnet 🧪
+• Bridge between $BOBA and $METIS 🌉
+• NO SLIPPAGE 😲
+• @optimismPBC and @arbitrum soon ™️
+
+⬇️Details and Roadmap⬇️ https://t.co/wftPCydTep https://t.co/YIbtW2HZlU",53,1,12,2022-03-28
+923,2022-03-29 18:02:25+00:00,1508867185439084545,bobanetwork,Would have to guess that Discord is probably the best place to be if we were to ever use these for something fun... https://t.co/XpJ3wLiDcS https://t.co/L8KXRN79Bl,30,2,6,2022-03-29
+933,2022-03-30 22:50:28+00:00,1509302065733902338,bobanetwork,"👑 Introducing the Bobarian of the Month Award!
+
+Starting April, we're on the hunt for the most valuable $BOBA community member. No sign-up req'd. Simply be the best community member you can be &amp; you'll be in the running for a host of prizes!
+
+Learn more👇
+https://t.co/jksfiQaZb5",67,10,16,2022-03-30
+943,2022-03-31 20:00:18+00:00,1509621629822795777,bobanetwork,"Check for announcements from our partners to see what kind of spice they'll be bringing to the table🔥
+@OolongSwap 
+@dominationfi 
+@BodhFinance 
+@ThetanutsFi 
+@SatisDEX  
+@CelerNetwork 
+@AcrossProtocol",20,4,1,2022-03-31
+950,2022-04-01 16:59:55+00:00,1509938621549211653,bobanetwork,"🗓️Today is the first day of WAGMIv2! 
+
+Participate to earn v2 tokens, redeemable for 1 $BOBA each🪙 Upto $3,000,000 up for grabs!
+
+Join our Discord: https://t.co/yfzNA37Pl3
+
+Read more below👇 https://t.co/EkVvFM6uUG",37,1,7,2022-04-01
+955,2022-04-02 22:54:32+00:00,1510390251449204739,bobanetwork,"And with that, #WAGMI v2 is underway🏁
+
+Up to $3,000,000 worth of $BOBA rewards are up for grabs this month 💰
+
+Get a headstart on the competition with an early launch at @OolongSwap 🚀 https://t.co/o89p6L8oxV",56,3,9,2022-04-02
+959,2022-04-03 13:03:01+00:00,1510603778936000516,bobanetwork,"Now @SatisDEX joins the #WAGMI fun with THREE trading competitions 🏆3️⃣🏆
+
+https://t.co/YlWjWjF57b is taking over #L22022 as the world's first multichain order book derivatives DEX, unlocking new ways for you to manage your on-chain crypto assets.
+
+👇 For more details 👇 https://t.co/i92HB7SH3F",31,0,10,2022-04-03
+968,2022-04-04 19:24:51+00:00,1511062260818407424,bobanetwork,"🗓️Still haven't checked out our BBA hackathon? You've got 8 more days to do so-
+
+What does BBA stand for?
+""BOBA 🫂BUNDLR 🫂ARWEAVE"" or simply ""Best BHackathon Aever"" 
+
+Click Below to code 💰 into your wallet
+https://t.co/VGB6lmuiBL https://t.co/izrcja2RbC",41,3,7,2022-04-04
+975,2022-04-05 16:35:56+00:00,1511382136825126919,bobanetwork,@Tree_of_Alpha @bobadegen 😂,5,1,0,2022-04-05
+990,2022-04-06 20:28:00+00:00,1511802926293032961,bobanetwork,"Trading Competition seems to be popular 🚀
+
+Sned it higher to share a prize pool of 200,000 WAGMI tokens. Over $550,000 up for grabs-
+
+Head over to @OolongSwap and participate today! https://t.co/MMJvwsuVRF",78,5,24,2022-04-06
+995,2022-04-07 22:35:08+00:00,1512197309337067524,bobanetwork,"You're invited: join us tomorrow for our hackathon kickoff event with @JanLiphardt @iambytedust hosted by Steve Ngok from @DoraHacks
+
+Time: April 8th, 6pm PST (9am UTC+8)
+
+YouTube: https://t.co/wTQ3t4E5S7
+
+Binance Live: https://t.co/l9Br7kZXLB
+
+--Hackathon info in quoted thread-- https://t.co/RViomd9WNh https://t.co/zPrabeSaK5",82,5,38,2022-04-07
+1003,2022-04-08 16:49:00+00:00,1512472589158924290,bobanetwork,"Gm Bobarians! We’ll be running a mini-game in our discord 🤖Come join us and learn more about $BOBA and have fun with our community!
+
+🗓️Date: Friday, April 8th at 8 p.m ET 
+💰Prize pool: 200 $BOBA Tokens
+🏠Place: https://t.co/Wha5DD38pH https://t.co/SOtAGNlZ2g",55,7,17,2022-04-08
+1013,2022-04-09 15:42:00+00:00,1512818115641446401,bobanetwork,"Boba🧋 &amp; @ofrfund 🥃 - name a better Sunday combo!
+
+Alongside interesting information, we'll be also giving out a couple of $BOBA tokens for the most curious ones! 👀
+
+Find more details in the thread below &amp; see you on #OFRTalk Spaces! 🎙 https://t.co/ZcsEoKvjLB",43,3,13,2022-04-09
+1018,2022-04-10 22:49:32+00:00,1513288097231908867,bobanetwork,"Provide liquidity and earn 150%+ wagmi tokens! 
+1 $WAGMI = 1 $BOBA 🔥
+@dominationfi 
+
+Easy way to earn yield and get it airdropped in May🗓️
+
+#BobaNetwork #BobaWAGMI https://t.co/Ib8X0HhxrL",76,8,28,2022-04-10
+1024,2022-04-11 23:51:39+00:00,1513666116073127937,bobanetwork,"🤯2M before all your Oolong WAGMI trading competition tokens turn 2X
+@OolongSwap 
+
+Sned it to the moon frens 🌑 https://t.co/cIda0RzfZS",46,6,17,2022-04-11
+1031,2022-04-12 04:40:18+00:00,1513738758666915840,bobanetwork,"@CelerNetwork is live for WAGMIv2! 
+
+Provide liquidity for bridgooors 🌉 and earn dual yields 💰
+
+⛏Mining has never been easier- Only on @bobanetwork https://t.co/607LR0zQSU",30,1,4,2022-04-12
+1034,2022-04-13 00:00:59+00:00,1514030853965291521,bobanetwork,"We are ready anon!
+
+$1 million left for all trading competition reward tokens to 2x 🚀
+
+Easiest % gain to date 🦾 https://t.co/tUXOcmdwZz",53,1,22,2022-04-13
+1042,2022-04-14 17:58:50+00:00,1514664491610370058,bobanetwork,"@symbiosis_fi is now part of the WAGMI Cohort! 
+
+Provide stable pairs liquidity in either Ethereum or BSC and get over 100% APY💎
+
+Life does not get sweeter than this🚀
+
+Check out the pools below! 👇 https://t.co/8FBxkSOnKG",60,5,21,2022-04-14
+1049,2022-04-15 23:59:44+00:00,1515117700871163906,bobanetwork,Starting in 1 minute! 🚀 https://t.co/TwvSGKsTzc,16,1,1,2022-04-15
+1055,2022-04-16 00:28:00+00:00,1515124815098617857,bobanetwork,"Want to know what the Boba Team will be doing during DevConnect?
+
+Come find us at any of the events or booths! We would love to meet our fellow Bobarians 🦾
+
+Read more at: https://t.co/aTUYbzRv9x",34,3,2,2022-04-16
+1059,2022-04-17 20:55:00+00:00,1515795987633160199,bobanetwork,"Farms with over 160%-373% APR 🔥
+
+Doesn't get better than this 🚀
+
+Hop into #BobaNetwork and farm $WAGMI @OolongSwap https://t.co/gbKectQQpv",71,1,26,2022-04-17
+1064,2022-04-18 17:08:46+00:00,1516101442850983940,bobanetwork,"We didn't plan for a runner-up but just had to reward a $5k 2nd prize to @realsoptq, the creator of DeCloud!
+
+DeCloud presents a POC that can allow users to interact with Arweave with just their BOBA wallet, powered by Bundlr Network. https://t.co/JZ24fVg31P",17,1,6,2022-04-18
+1077,2022-04-19 23:10:00+00:00,1516554737369366528,bobanetwork,"As the day comes to a close @EFDevconnect, the Boba Team is preparing for tomorrow! 
+
+@alanchiu will be speaking tomorrow on ""What's Next for Web3 Infrastructure"" @ TheNextWeb Amsterdam City
+
+We'll host a Boba Cocktail party for people to unwind &amp; enjoy the vibes😎 https://t.co/QjwcXae6Sa",67,3,20,2022-04-19
+1084,2022-04-20 22:30:14+00:00,1516907119278129153,bobanetwork,"After getting hyped, the Boba Team headed off to our Cocktail Party to kick back and enjoy Boba vibes🔥
+
+One of our fellow for Bobarian of the Month runner-up @mitchbooy joined us for this awesome night 😎
+
+Come say hello and enjoy Boba's unique mixed drink! https://t.co/s6juqUQoiA https://t.co/gKq1n3WGRz",114,8,46,2022-04-20
+1096,2022-04-21 20:15:06+00:00,1517235499093659648,bobanetwork,"Introducing @DaoMedieval, the coolest new #NFT game coming to $BOBA
+
+Will you be a peaceful farmer, a sturdy knight, or a clever thief?
+
+Gather your friends and work together to upgrade your party, protect your resources, and grow your power.
+
+The quest begins May 2022...
+⚔ https://t.co/d2Oa5nrZmt",63,2,25,2022-04-21
+1102,2022-04-22 23:50:28+00:00,1517652085453455361,bobanetwork,"10 minutes till we begin :) 
+
+We will start on discord 👇
+https://t.co/YFrk3iAyhN https://t.co/sUdgOOalkq",17,1,2,2022-04-22
+1126,2022-04-23 23:45:55+00:00,1518013328278269952,bobanetwork,"It’s 1:45AM 🕰 in Amsterdam
+
+💻 Hackers are competing at ETH Amsterdam to get a chance for some sweet $BOBA 
+
+Crypto doesn’t sleep 😴 https://t.co/o0D8WARp8H",73,4,25,2022-04-23
+1133,2022-04-24 08:05:27+00:00,1518139040494768128,bobanetwork,"12/ Goooood morning Amsterdam - the last day of #ETHAmsterdam hackathon is here and our amazing hackers are already presenting their work! 👏
+
+We're so excited seeing all these great ideas being pitched here! The future is definitely 🧋 #BuildonBoba #DeployonBoba https://t.co/NCEw6gvE3Y",30,2,8,2022-04-24
+1144,2022-04-25 18:40:42+00:00,1518661293967908868,bobanetwork,"To close out the week in Amsterdam, we sponsored the big hackathon - the winners are listed downthread here!
+
+https://t.co/uDLKBduzwT",6,1,0,2022-04-25
+1160,2022-04-26 22:01:27+00:00,1519074200371097606,bobanetwork,"We’re expecting a great week @CryptoBahamas! 
+
+We’ll close out the week with an awesome party with Boba on the Beach! 🏖
+
+Kick back, enjoy the vibes, great drinks, and great people 😎 https://t.co/vtblMjlpM6",61,1,25,2022-04-26
+1164,2022-04-27 19:06:49+00:00,1519392641644904448,bobanetwork,We're thinking about starting a @tiktok_us to post @alanchiu #BTS dance videos. Should we do it??,74,12,28,2022-04-27
+1167,2022-04-28 00:10:40+00:00,1519469108051382273,bobanetwork,"Congratulations @OolongSwap for breaking 100MM!
+
+Super close race for the top spot!  🏇
+
+#WAGMIv2 https://t.co/CTyyrc6nLs",63,6,10,2022-04-28
+1172,2022-04-29 14:21:47+00:00,1520045688398176257,bobanetwork,@alanchiu @VioletAbtahi,4,0,0,2022-04-29
+1182,2022-04-30 18:26:13+00:00,1520469589854851072,bobanetwork,"🧋Boba Network’s takes on @CryptoBahamas! 🏖
+
+You do not want to miss the next Boba Party! 🪅
+
+🎥Here’s a snippet of a night to remember! https://t.co/efUnrTTY5W",58,9,13,2022-04-30
+1184,2022-05-01 22:04:00+00:00,1520886782333648896,bobanetwork,"Gm frens!🌄
+
+WAGMIv3 is here! We are changing few of our cohort partners and more! There are a few changes from v2 to v3 so make sure you keep up to date 😎
+
+Follow our partners to see how they will participate this month
+
+Read more 👇
+https://t.co/2OeAVboZ3H",66,21,18,2022-05-01
+1185,2022-05-02 00:39:00+00:00,1520925789058859009,bobanetwork,"We're happy to announce @OlympusDAO joining the Boba Ecosystem! 
+
+Olympus is building OHM, a community-owned, decentralized and censorship-resistant reserve currency that is deeply liquid, asset-backed, and used widely across Web3.
+
+Welcome to Boba! 🎉 https://t.co/6MZaISirCS",168,15,53,2022-05-02
+1191,2022-05-03 16:12:27+00:00,1521523090118828034,bobanetwork,@symbiosis_fi 🤝,2,0,0,2022-05-03
+1195,2022-05-04 14:50:15+00:00,1521864791085699074,bobanetwork,"You have heard about the Hybrid Compute - but have you really heard about Hybrid Compute? 👀
+
+Take a deep dive into Hybrid Compute with 
+@bkiepuszewski and learn more about the how Boba Network helps you connect outside APIs with your smart contract! 🧋🎉 https://t.co/9UIlyqSMFp",33,4,10,2022-05-04
+1200,2022-05-05 22:22:50+00:00,1522341076052422661,bobanetwork,"Say, what's Boba up to these days? 🗓
+
+Oh, nothing much - just going to @Permissionless to enjoy the sun &amp; hang out with #Web3 people from around the globe! ☀️ 
+
+Want to learn more about Boba at Permissionless 2022? Check out our new blog post here!
+
+https://t.co/qCNkzciwvo",51,3,22,2022-05-05
+1206,2022-05-06 14:45:07+00:00,1522588275952738308,bobanetwork,🎡Calling all Rotatooors! @symbiosis_fi  is offering liquidity mining rewards for stables. Check out their pools here 👇https://t.co/AjEShBM7WT https://t.co/MH4nEEtD1S,19,2,2,2022-05-06
+1218,2022-05-07 15:24:19+00:00,1522960524941533185,bobanetwork,"Turing Hybrid Compute can be integrated with any of these 7 ideas! 
+
+Be part of the beginning and join us as we innovate the space 🚀 https://t.co/REeQcyCZ4G",37,2,10,2022-05-07
+1219,2022-05-08 01:23:08+00:00,1523111224862408707,bobanetwork,"Boba Network had a great month for April! 
+
+A lot of things have happened and while we go through this shaky market, we will keep on working 🔥 
+
+Keep an eye out for the month of May 👀
+
+Read More 👇
+https://t.co/XhiV4CsJvX",77,7,30,2022-05-08
+1223,2022-05-09 17:13:20+00:00,1523712736227885056,bobanetwork,"Boba Network is listed on #kucoin, so we're celebrating with an #airdrop to KuCoin users! 
+
+If you held $OMG in your @kucoincom wallet on Nov. 12, 2021, you should have some $BOBA coming your way 🧋
+
+Check out the post below for complete details 👇
+
+https://t.co/5AB3UgCHuX",78,6,35,2022-05-09
+1226,2022-05-10 01:29:11+00:00,1523837522199031809,bobanetwork,"Let's take a poll!
+
+Boba Tea or Regular Tea",12,5,2,2022-05-10
+1236,2022-05-11 21:32:55+00:00,1524502839267012608,bobanetwork,"@justtruth19 @Permissionless @alanchiu kek, come park your stables over here and we’ll take good care of you ser",4,1,0,2022-05-11
+1243,2022-05-12 01:23:23+00:00,1524560840237535237,bobanetwork,"Bear Market seems to be here. However, we've got our engines running are not stopping 🦾
+
+This is the time to build: L2 Rollathon w/ @gitcoin
+
+Join us to create the new standard 🚀 https://t.co/4GQKST4XBa",73,1,26,2022-05-12
+1250,2022-05-13 23:46:28+00:00,1525261225533186048,bobanetwork,"One week left for the Dorahacks Global Hackathon!
+
+Come join us today 💪$100K in prizes to be claimed 🚀
+
+Comment below 👇 on your favorite contenders!
+https://t.co/oyG9OuJP7l",26,2,3,2022-05-13
+1256,2022-05-14 15:54:10+00:00,1525504753676918784,bobanetwork,"Gm frens,
+
+Will you be attending @Permissionless?",5,4,2,2022-05-14
+1259,2022-05-15 21:55:25+00:00,1525958054281285632,bobanetwork,"Supply $SHIBUI + $USDT and farm over at @shibuidao 🧑‍🌾
+
+Read more below
+https://t.co/a1M0RxBZnB",13,0,3,2022-05-15
+1269,2022-05-16 21:15:55+00:00,1526310502103670786,bobanetwork,"1) We brought along some frens! These adorable little bobas were just too cute to leave back in Cali, so they're visiting Florida for the first time! 
+
+See if you can find them around the convention center playing their favorite game - hide and seek 🙈🔍 https://t.co/hfAE7EUrWs",31,1,6,2022-05-16
+1277,2022-05-17 04:27:32+00:00,1526419122187280384,bobanetwork,"If you answered yes to the question 👇 
+
+We challenge you to build with us! The possibilities are endless with hybrid compute 🚀
+
+Check out our hackathons!
+
+Dorahacks
+https://t.co/oyG9Ov1qvV
+&amp;
+Gitcoin
+https://t.co/gmWThodVlI",9,1,3,2022-05-17
+1284,2022-05-18 20:36:41+00:00,1527025401029136385,bobanetwork,@khoagomonkey @AaveAave @giddydefi @Permissionless https://t.co/jG1s2KeopV,2,1,0,2022-05-18
+1298,2022-05-19 17:47:30+00:00,1527345213236473857,bobanetwork,It might not be hyperbolic to say boba hide and seek is the highlight of the conference https://t.co/CPRKSmGKDz,20,2,1,2022-05-19
+1304,2022-05-20 11:52:58+00:00,1527618382622867456,bobanetwork,"🥁 It’s time to compete in our Community Weekly Quiz #6 in Discord. Learn, have fun and earn some $BOBA 
+
+🗓️ Date: Friday, May 20th at 5 p.m. PST
+🧋 Prize pool: 250 $BOBA
+ 
+How to participate:
+♻️ Retweet &amp; Like
+🔀 Join us: https://t.co/Wha5DCLxy9 https://t.co/THW8wP2WVY",31,6,16,2022-05-20
+1310,2022-05-21 17:46:00+00:00,1528069611450642432,bobanetwork,Amazing roundup by our community member @omg_its_pepe! https://t.co/UKneXMkbi5,38,2,17,2022-05-21
+1313,2022-05-23 19:50:44+00:00,1528825778246254592,bobanetwork,"Boba is taking on @wef! 
+
+If you are in @Davos, Switzerland, stop by and listen in to our amazing COO @VioletAbtahi speak in ""The opportunities for women and impact in Digital Art space"" @ May 25th, 16:00 CET
+
+Don't miss out and tune in! Read more below 👇
+https://t.co/QQSCrVjmro",54,0,15,2022-05-23
+1319,2022-05-24 23:20:00+00:00,1529240829390364674,bobanetwork,"Reminder frens, Boba's one &amp; only @VioletAbtahi is taking the stage at @Davos for the @wef! 
+
+Tune in as she discusses ""The opportunities for women and impact in digital art space"" with amazing panelists
+May 25th @ 18:00 CET
+
+Make sure to register here 👇
+https://t.co/QQSCrV1LzQ https://t.co/NF0jAXMDKe",77,4,34,2022-05-24
+1334,2022-05-25 04:13:12+00:00,1529314617943396352,bobanetwork,@sunnya97 We are welcoming projects with open arms and assistance ❤️,0,0,0,2022-05-25
+1336,2022-05-26 17:39:08+00:00,1529879822176030721,bobanetwork,"6/ We'll be gearing up to attend multiple events across the globe - from @consensus2022 to @EthPrague and many more!
+
+Stay tuned to our social media accounts for more info in the following days! 💪 https://t.co/JmWcWmFIaA",15,2,3,2022-05-26
+1348,2022-05-27 19:14:51+00:00,1530266298461982720,bobanetwork,"Let's take a poll! 
+
+Which one are you?👶🧑🧓",30,8,9,2022-05-27
+1356,2022-05-28 22:04:32+00:00,1530671388104658949,bobanetwork,"Gm 🌞
+
+Is there a sector of web3 you would like to see more in Boba Network?",70,10,42,2022-05-28
+1357,2022-05-29 19:59:08+00:00,1531002220556083200,bobanetwork,"Gm
+
+During this bear market, we at Boba Network r taking our community's input to improve &amp; cater to our users better. We want to hear your feedback &amp; here's your chance!
+
+Fill this form to get involved 👇
+https://t.co/tAvDPRCoH6
+
+We will pick at random for some limtd ed merch 👀 https://t.co/gv9tbLovH7",108,27,48,2022-05-29
+1359,2022-05-30 22:51:41+00:00,1531408033015746560,bobanetwork,"For those attending Consensus and want to be whitelisted for a party, fill out this form and you may get something from Boba Network airdropped 👀👀
+
+This is the new form 👇
+https://t.co/oZQFxwPOq4",73,4,22,2022-05-30
+1362,2022-05-31 13:18:08+00:00,1531626080418910208,bobanetwork,@AcrossProtocol Can't wait!,6,0,1,2022-05-31
+1365,2022-06-01 21:01:00+00:00,1532104951274434560,bobanetwork,"Bobarians attending @consensus2022 can claim a Boba NFT to come to Elysium by @KaratDao! 
+
+You will get the NFT airdropped and will be your entry pass 🎫
+
+Read more 👇
+https://t.co/bWphNWrMfx https://t.co/7qvcHag8Gg",95,6,36,2022-06-01
+1368,2022-06-02 21:54:14+00:00,1532480737563271181,bobanetwork,"Multichain execution layer?
+
+The first Layer 2 working with multiple EVM compatible blockchains. 
+
+We're bringing immediate performance improvements, augmented functions like Hybrid Compute, and unifying chains to provide a seamless user experience. 
+
+https://t.co/wrZMX0OaVw",74,2,25,2022-06-02
+1377,2022-06-03 22:29:00+00:00,1532851873966718977,bobanetwork,"Want to know more behind the team building Boba? 😎
+
+Our team will be attending @consensus2022 so come by and meet us! 🫂
+
+https://t.co/DN884vwsNe",45,2,13,2022-06-03
+1385,2022-06-04 22:41:29+00:00,1533217403382865920,bobanetwork,"solocarrie#5937 please join our discord https://t.co/YFrk3iAyhN, and reach out to us :)",11,2,4,2022-06-04
+1387,2022-06-05 17:45:56+00:00,1533505415220060160,bobanetwork,"Our Boba Global Hackathon is live with over 60+ buidls! 
+
+Join us as we build the next-gen ecosystem on 
+Boba Network 💪
+Create to Innovate
+https://t.co/oyG9OuJP7l
+
+🗓️Submit by June 20th, 2022",108,5,43,2022-06-05
+1391,2022-06-06 21:01:00+00:00,1533916891605082112,bobanetwork,"For all those newcomers joining Boba Network,
+
+You can change your fees from $ETH to $BOBA
+Using $BOBA will get you a 25% discount on all transactions! 🚀
+
+Watch this simple How-To to change your fees 👇 https://t.co/2eUzcRYEbu",119,14,43,2022-06-06
+1392,2022-06-07 21:43:14+00:00,1534289907136573440,bobanetwork,Register Here: https://t.co/kv0zHFe3Ye and feel free to invite a friend! https://t.co/lERi09cclD,149,9,40,2022-06-07
+1398,2022-06-08 14:50:04+00:00,1534548320919572480,bobanetwork,@SatorSAO We will have a booth at Consensus as well! Feel free to stop by 🤝,2,0,0,2022-06-08
+1401,2022-06-09 21:59:40+00:00,1535018818141147142,bobanetwork,"How would a Boba-sponsored hackathon look like without...? Yes, you guessed it - without the Boba swag!
+
+We've got some goodies for the hackers &amp; other attendees of #ETHPrague - drop by, look for Boba team members, get your swag! ✌️ https://t.co/l0cu7sWGv3",44,2,15,2022-06-09
+1408,2022-06-10 02:56:08+00:00,1535093428064854028,bobanetwork,It seems like @BillGates is a fan of @bobanetwork 👀 https://t.co/TVhZt8y6SS,90,11,22,2022-06-10
+1417,2022-06-11 06:46:28+00:00,1535513781631168512,bobanetwork,"Consensus Day 2 Roundup 
+
+100 plushies
+100 boba teas
+9 meetings
+7 interviews
+1 AMAZING party with @BundlrNetwork
+
+Let's do it again tomorrow",46,5,14,2022-06-11
+1419,2022-06-14 23:14:17+00:00,1536849538731761664,bobanetwork,"Bear market means it's time for heads-down building.
+
+We're looking to fill multiple roles! If you're passionate about scaling blockchains and creating an interoperable future, come join our amazing team!
+https://t.co/J2JKmRhZjp https://t.co/1uvRabNzGX",85,6,37,2022-06-14
+1425,2022-06-15 15:55:48+00:00,1537101575025438720,bobanetwork,"Let's keep building and making Boba Network better 💪
+
+We have gotten great feedback from our community and want to extend it to more people! 
+
+Be part of the change! 👇
+https://t.co/DPdBwmRcDz",67,6,30,2022-06-15
+1428,2022-06-16 17:17:18+00:00,1537484473419280385,bobanetwork,"Boba Network is taking on @ETHNewYork 🌃
+
+Come hack away to get a chance at the prize pool of $20,000! We'll have a booth with goodies 😉 Come chat with us and learn more about Boba Network!
+Stay tuned for more information 😎 https://t.co/TUqDq35j4f",48,2,15,2022-06-16
+1430,2022-06-17 23:42:22+00:00,1537943766476001280,bobanetwork,"🗓️3 more days to submit your hackathon buidls!
+
+Check out the 74 submissions and comment below which ones you are rooting for 🚀
+https://t.co/oyG9OuJP7l
+
+Let's build Boba together ⚒️🫂",56,9,23,2022-06-17
+1435,2022-06-20 14:40:03+00:00,1538894453116657669,bobanetwork,"Join us on the discussion about scaling, multichain &amp; DeFi with @defislate ⛓️
+
+We're live now with @KevinRiedl5 - click here for the Spaces!🎙️
+
+https://t.co/IMJuVr1boQ",39,6,9,2022-06-20
+1438,2022-06-21 15:25:25+00:00,1539268259354009600,bobanetwork,"We will be kicking things off for Boba Network at @ETHNewYork with a Keynote Discussion! 🥳
+
+Come by on the 24th of June at 7PM EST before hacking away 💻 https://t.co/LKRAwUKLDm",76,6,28,2022-06-21
+1442,2022-06-22 15:29:57+00:00,1539631785998524418,bobanetwork,"Gm, lets take a poll 
+
+Hot take: There won’t be one chain to rule them all but many sector-specific chains",72,9,34,2022-06-22
+1445,2022-06-23 23:29:00+00:00,1540114729900728320,bobanetwork,"@alanchiu @ETHNewYork The most wanted item in every event, Boba Plushies! 
+They will be available at the booth along with limited edition swag!
+
+Come by and snatch them before they go! https://t.co/MWzvlKASXR",87,3,22,2022-06-23
+1448,2022-06-24 17:52:23+00:00,1540392404640968709,bobanetwork,"Calling all Devs at @ETHNewYork, come hack away for Boba Network &amp; aim to get a piece of the $20,000 pool! 
+
+#Buidl to create new dApps and tools with Hybrid Compute! Explore your limitless possibilities 💪
+
+Read more 👇 @ETHGlobal 
+https://t.co/QVC0sSUQ9c https://t.co/haDEeuNXMl",65,4,22,2022-06-24
+1450,2022-06-27 16:29:34+00:00,1541458730763419649,bobanetwork,"Welcome to the Boba Team! 
+
+Mitchell has started as part of our community and has been instrumental in some of the changes that you see now at Boba Network. We are happy to have him join us and improve Boba Network together! 
+#CommunityMatters https://t.co/yxphVLUcGD",84,10,32,2022-06-27
+1452,2022-06-28 22:27:38+00:00,1541911226992562176,bobanetwork,"A timeless quote by @alanchiu, CEO, that will hold true regardless of market action. 
+
+Boba Network is a perfect blend of technology and community 💪 https://t.co/Rh7DCYyUWm",165,5,74,2022-06-28
+1456,2022-06-29 20:16:47+00:00,1542240687076175872,bobanetwork,"Join us for our webinar on multichain!
+Tune in to @alanchiu @michaelfkong @derekyoo @ino_at_boba discuss the future of scaling 🎢
+
+Wen: July 14th, 7PM UTC
+Sign-up below 👇
+https://t.co/K5gCtisVMC https://t.co/m91zvAhnno",210,8,115,2022-06-29
+1458,2022-06-30 16:08:34+00:00,1542540607649828864,bobanetwork,"Boba is live! The wait is over, you can now trade $BOBA on @CoinbaseExch 💪 https://t.co/DKe1tZOknA",126,14,53,2022-06-30
+1460,2022-07-01 22:45:37+00:00,1543002915392040965,bobanetwork,@Obongxyprone Went above and beyond ser 🔥,1,3,1,2022-07-01
+1464,2022-07-03 22:15:10+00:00,1543720030809968640,bobanetwork,"Meet our European team going to @eth_barcelona! 
+
+Grab yourself a pair of t-shirts and boba drinks 🧋 and talk to our team members to learn more about Boba Network 🔥 https://t.co/rD4iafJz8I",115,12,49,2022-07-03
+1465,2022-07-05 19:34:57+00:00,1544404484792602624,bobanetwork,"We've heard our community! 
+See what's been happening behind the scenes at Boba Network 🚀 We've compiled the most important improvements that you'll experience as a user.
+
+Read More 👇
+https://t.co/R2RKkxuxBa",67,1,28,2022-07-05
+1468,2022-07-06 17:29:18+00:00,1544735251196366848,bobanetwork,https://t.co/6241eEoMMr,68,3,22,2022-07-06
+1475,2022-07-07 22:39:00+00:00,1545175577199398913,bobanetwork,"Unwind from the conference with us! 
+
+We will be closing down @eth_barcelona with a party at the convention centre 🥳
+
+Join the Boba team in a night of fun 🌃 https://t.co/ql11zcqEBV",72,8,24,2022-07-07
+1478,2022-07-08 02:34:43+00:00,1545234896636878849,bobanetwork,"A fellow Bobarian has been working behind the scenes to get @zerion_io integrated with Boba Network! 
+
+Thank you to all community members for going above and beyond for Boba Network 💪
+
+Show your support!👇https://t.co/cZokXF79wE",92,10,30,2022-07-08
+1483,2022-07-11 17:33:01+00:00,1546548125019488257,bobanetwork,"Knowledge is invaluable.
+
+That's why we keep delivering with educational pieces for our community and anyone new to the world of blockchain 💪
+
+Read about ""What is web3"" with Boba Learn!
+https://t.co/3yEmHDM9Uk",105,7,46,2022-07-11
+1485,2022-07-12 14:59:58+00:00,1546871996277030912,bobanetwork,"1/ We are delighted to announce that @DIAdata_org has integrated its open-source oracle infrastructure with the Boba Network's testnet! 🎉🚀
+
+You are probably wondering what this partnership mean for users of Boba Network?🤝 https://t.co/ORDmgttWxj",142,6,41,2022-07-12
+1490,2022-07-13 21:57:14+00:00,1547339395656601600,bobanetwork,@kennethusoro Medium didn't seem to support it. But here's the link ser -https://t.co/6oTipyYj8f,3,0,0,2022-07-13
+1496,2022-07-14 16:29:30+00:00,1547619304438255619,bobanetwork,"Boba Network is going to @EthCC 
+
+Come meet the team! Hear the mission and vision of Boba Network from @alanchiu and @VioletAbtahi 🚀
+
+If any Bobarians are going, we encourage you to come see us! https://t.co/kVTGLEgFht",47,5,20,2022-07-14
+1498,2022-07-15 00:40:00+00:00,1547742742750674944,bobanetwork,"Sign up to be part of the Boba 🤝 Moonbeam hack challenge! 
+
+⚒️Get creative, innovate, and create a dapp on Bobabeam! All ideas are welcome and encouraged 
+
+Check out the notion page for more information on how to get started
+https://t.co/LPxOpsjtVP https://t.co/gmqZzLL01B",42,6,18,2022-07-15
+1504,2022-07-18 19:52:38+00:00,1549119978242187264,bobanetwork,"And we're done: the scheduled upgrade was successful, and we're back to business as usual! 💪
+
+Thanks to our engineering team and thanks to our users for their patience! ✨🧋 https://t.co/qnHvMKar7k",23,2,0,2022-07-18
+1508,2022-07-19 12:59:57+00:00,1549378509554028544,bobanetwork,"We can confirm: it's hot &amp; sunny in Paris @EthCC ☀️
+
+What's up? Nothing much - just chilling, listening to @alanchiu &amp; the team talking about ETH scalability at @Ledger , having a good time in general! 🙌 https://t.co/Xzrmq6SCzf",39,6,4,2022-07-19
+1512,2022-07-20 15:58:27+00:00,1549785820722212865,bobanetwork,"Boba is officially in India Blockchain Week! 
+
+Boba is going global to share the capabilities of Hybrid Compute and the future of the Network 💪
+
+Let us know if you would like to meet us by filling out this form 👇
+https://t.co/gdoboXLaPl https://t.co/FBc2Wli1rp",37,0,15,2022-07-20
+1515,2022-07-21 17:07:33+00:00,1550165598130188289,bobanetwork,Day 2 of @EthCC! Massive thank you to everyone who came and spoke with @alanchiu and got to know more about #BobaNetwork 🔥 https://t.co/UQ2zBCATxR,63,12,13,2022-07-21
+1517,2022-07-22 15:26:03+00:00,1550502440893423617,bobanetwork,@CelerNetwork Congratulations 🔥,5,0,0,2022-07-22
+1520,2022-07-23 00:07:23+00:00,1550633639817330688,bobanetwork,"Unlimited possibilities for Boba Network 🚀
+
+""We are working with one of the top universities in the world to create NFTs that represent degrees granted by that university."" @alanchiu
+
+Read More👇
+https://t.co/hMB3osUdV9 https://t.co/SPBf2q1qv6",47,8,7,2022-07-23
+1522,2022-07-24 18:33:16+00:00,1551274331694452738,bobanetwork,"Join us for an AMA to reveal the winners for the Boba Network x @DoraHacks hackathon! 
+
+Live at 8AM PST / 15:00UTC on 07/25
+Save the date👇
+https://t.co/NW0hyFMfqD",44,4,14,2022-07-24
+1523,2022-07-25 19:39:02+00:00,1551653267880349696,bobanetwork,"@alanchiu If you missed it on @SIRIUSXM, you can always tune in to the recorded version of ""Stanford Pathfinders"" on @ApplePodcasts! 
+
+Listen here 👇
+https://t.co/Z2TXAhktJM",19,1,4,2022-07-25
+1528,2022-07-26 20:20:07+00:00,1552025996806606848,bobanetwork,"Some of the applications in BobaLaunch include token creation, token vesting, IDO launchpad, Decentralized gaming, Dex, token staking, and a lottery platform.",13,0,1,2022-07-26
+1541,2022-07-27 20:53:12+00:00,1552396710801854464,bobanetwork,"@quizarenaio is a decentralized learning platform &amp; ecosystem that ultimately adds social value and impact on improving the quality of life for everyone through: Quiz Arena Quiz game, Quiz Arena Academy, and QuizArea EduDAO",17,0,0,2022-07-27
+1548,2022-07-28 19:20:50+00:00,1552735853067116544,bobanetwork,"BobaID uses Turing to connect to a smart contract using oAuth. This connection can be integrated into other dapps such as NFT minting contracts or anything else that needs sybil protection
+2/2",4,1,0,2022-07-28
+1558,2022-07-29 16:08:41+00:00,1553049882998370305,bobanetwork,@stake_and_eggs Great read ser 🔥,2,1,0,2022-07-29
+1561,2022-08-01 21:02:52+00:00,1554211084042584064,bobanetwork,"Welcome @bridgenetwork0x! 
+
+Bridge Network is a suite of cross-chain tools, oriented toward seamless transactions between blockchain ecosystems.
+
+They are working on enabling moving native assets, NFTs and connecting various blockchains in a quick and easy way. https://t.co/4B0oL8Byix",52,4,20,2022-08-01
+1566,2022-08-02 00:19:03+00:00,1554260455429791749,bobanetwork,"🦸‍♂️Bobarians unite!🦹 
+The new Bobarian of the Month came down to a tight race but ultimately, one had to be chosen 👑
+
+Read up on the latest Bobarian of the Month for the month of July! 🔥
+https://t.co/mawUPDcWE0",47,2,13,2022-08-02
+1570,2022-08-03 18:42:38+00:00,1554900566827941888,bobanetwork,"To those attending @eth_seoul_, Boba Network will be attending! Enya's CEO @alanchiu and COO @VioletAbtahi are enroute! 
+
+Meet us there! #BobaGlobal https://t.co/k0MZhLKGVL",44,7,18,2022-08-03
+1571,2022-08-04 05:43:46+00:00,1555066948026740736,bobanetwork,@myetherwallet @Web3foundation @ParityTech Congratulations! 🥳,4,1,0,2022-08-04
+1576,2022-08-05 22:55:06+00:00,1555688879889346560,bobanetwork,"Come find and speak to us at @eth_seoul_! 
+
+Enya's CEO and Co-founder @alanchiu and COO @VioletAbtahi are attending 🔥
+Get involved with Boba network today 🧋 https://t.co/dVsPvyyVNm",53,6,17,2022-08-05
+1581,2022-08-08 23:39:05+00:00,1556787109595271169,bobanetwork,"Boba Network will be supporting #TheMerge on Ethereum and not Ethereum PoW.
+
+As you may know, Boba Network is and will continue building upon Ethereum through our engineering efforts and future endeavors.
+
+Stay tuned for more information 😎 https://t.co/PyovEQRx3I",63,4,17,2022-08-08
+1585,2022-08-09 20:01:43+00:00,1557094797403230209,bobanetwork,"We're excited to announce a special round for our Level 3 ""Kid Bobarian"" NFT with @DappBackHQ!
+
+There'll be a raffle for a share of 3,000 $BOBA tokens for a select number of users that complete and mint the Level 3 NFT! 
+
+Get Started 👉 https://t.co/ardccULrRC
+🧵/x https://t.co/AKXYdeaaKm",1681,71,1285,2022-08-09
+1588,2022-08-10 16:37:35+00:00,1557405811210461184,bobanetwork,"2 days before the end of the Boba x @MoonbeamNetwork hack challenge! 
+
+Submit your projects by 12th of August 11:59 pm UTC to get a chance for the prize! 
+
+Find more information 👇
+https://t.co/LPxOpsB4Nn",45,0,12,2022-08-10
+1589,2022-08-11 01:55:42+00:00,1557546267051323393,bobanetwork,"One step closer to #TheMerge 🚀
+
+Congratulations to everyone involved for successfully merging Goerli testnet into PoS! #Ethereum
+
+The Merge is imminent 🔥 https://t.co/zxu8W0TcJP",91,3,21,2022-08-11
+1590,2022-08-12 22:49:57+00:00,1558224297939722241,bobanetwork,"As we develop this together with members of our community, we will be able to accommodate those who are curious about blockchain and missing out due to language barriers
+
+In the future, we will support different languages as we grow together 💪",21,0,0,2022-08-12
+1596,2022-08-15 21:31:29+00:00,1559291714858151937,bobanetwork,"If you are new to Boba Network, using $BOBA as your fee of choice, you get a 25% discount on all transactions! 
+
+All you have to do is follow these simple steps 👇 https://t.co/Gte2FcMbag",74,15,16,2022-08-15
+1598,2022-08-16 17:16:16+00:00,1559589874532945920,bobanetwork,"Thank you everyone who submitted their project to the Boba x @MoonbeamNetwork hack challenge 🚀
+
+We'll review the submissions this week and will be announcing the winners afterwards 💪 https://t.co/N9F28dpXZ2",63,8,14,2022-08-16
+1599,2022-08-17 04:18:31+00:00,1559756536976515072,bobanetwork,👀👀 https://t.co/1NB1y5JD48,68,9,15,2022-08-17
+1600,2022-08-18 16:16:37+00:00,1560299637780598784,bobanetwork,Congratulations @KoyoFinance on the first gasless swapping protocol on Boba Network! https://t.co/ZgdwQZJiB1,34,13,11,2022-08-18
+1601,2022-08-19 19:44:06+00:00,1560714240758910976,bobanetwork,"Come join our Boba x @MoonbeamNetwork Hack challenge winners announcement! 
+
+We'll be joined by @blendorsefaj and @KevinKNeilson from Moonbeam!
+
+Set your reminder 👇https://t.co/TVLxx26b3f https://t.co/Zhpj4sG3oQ",102,7,13,2022-08-19
+1604,2022-08-21 03:10:58+00:00,1561189085170896896,bobanetwork,"Don't forget to join Boba Hall this monday at 9AM PST! 
+
+Set your reminder 👇
+https://t.co/rZjv1fP7Ac https://t.co/Qa9jMkhVcO",43,13,13,2022-08-21
+1605,2022-08-22 15:59:54+00:00,1561744983769591808,bobanetwork,We are live! https://t.co/3Xx0oJw4Be,35,3,6,2022-08-22
+1606,2022-08-23 18:16:15+00:00,1562141686490284033,bobanetwork,"Don't forget to join the Hack Challenge winners AMA with @MoonbeamNetwork! 🧋x🌕
+
+You can set your reminder by clicking below👇
+https://t.co/TVLxx26b3f https://t.co/eyAT5Od1HM",113,8,19,2022-08-23
+1607,2022-08-24 15:30:51+00:00,1562462448413655041,bobanetwork,4/ @KoyoFinance is a next-gen AMM protocol in the Boba ecosystem with plans to expand to Moonbeam &amp; Moonriver. It's a DEX that minimizes losses from swaps between assets of equal value whilst offering liq providers the choice between pools with multiple tokens of varying weights,15,2,2,2022-08-24
+1614,2022-08-25 15:43:35+00:00,1562828039842512896,bobanetwork,$BOBA is now available on @krakenfx! https://t.co/z5l9eINdk4,61,7,14,2022-08-25
+1616,2022-08-26 01:08:53+00:00,1562970304342675456,bobanetwork,"Boba Network is at @gamescom! 
+
+Come find @bobasi_ lurking at the event and learn more about the Boba Network its game enhancing capabilities  💪 https://t.co/2J8RWvfka9",49,6,10,2022-08-26
+1619,2022-08-27 16:00:02+00:00,1563556956438253568,bobanetwork,"Two days to go 👀
+
+Comment below on what you think it might be 👇 https://t.co/BCFCOt5wIJ",79,22,17,2022-08-27
+1620,2022-08-28 19:52:26+00:00,1563977828357484545,bobanetwork,@KoyoFinance Looking forward to it 🔥,2,1,0,2022-08-28
+1622,2022-08-29 17:00:07+00:00,1564296851947339777,bobanetwork,"Engineering roadmap for 2022-2023 🚀
+
+Boba Network is adapting newer technologies, working on core infrastructure, and giving back to the open source community. 
+
+
+
+You can read more about the engineering roadmap
+https://t.co/96CsoGgf50
+
+Threadooor 🧵",145,110,53,2022-08-29
+1629,2022-08-30 17:00:00+00:00,1564659211157520384,bobanetwork,"ICYMI: Boba Network's Engineering Roadmap is here! A lot of the focus will be towards improving the current infrastructure while setting up for the future 💪 
+
+In addition to infra upgrades, a multi-chain world is emphasized 👀 and token utility upgrades in the works. https://t.co/qmoRcVUbm7",31,5,9,2022-08-30
+1631,2022-08-31 16:00:05+00:00,1565006519468298242,bobanetwork,"Come join @blendorsefaj and @wsdt_eth on the upcoming Engineering AMA discussing the roadmap and the future of Boba Network 💪
+
+Save the date 🗓️
+https://t.co/H3aQuTvCUL https://t.co/7z6tzJxjZb",36,3,11,2022-08-31
+1632,2022-09-01 20:39:41+00:00,1565439269673480193,bobanetwork,"How to build using Hybrid Compute? 
+https://t.co/bbIoAYLC5C",6,1,2,2022-09-01
+1639,2022-09-02 15:00:04+00:00,1565716191347412992,bobanetwork,"Guess who 🧐
+
+Comment below 👇 https://t.co/D6vgIC4kVC",60,9,14,2022-09-02
+1642,2022-09-03 18:51:01+00:00,1566136701348564993,bobanetwork,"If you missed the Engineering AMA, feel free to listen in on the recording 🎧 https://t.co/C0UKZQlgw2",34,5,13,2022-09-03
+1643,2022-09-05 14:06:46+00:00,1566789940477698048,bobanetwork,"We're happy to announce Boba Network's security audit by @ZOKYO_io passed with no critical issues! 
+
+🔒Boba Network values security to protect users and developers alike 
+
+Audit Report 👇
+https://t.co/qgEt7Flhp4 https://t.co/dUx977Hmnl",54,5,14,2022-09-05
+1645,2022-09-06 18:00:16+00:00,1567211090752454657,bobanetwork,"Sushi is a decentralized trading platform and one of the most popular DeFi dapp on Ethereum with over $1.5 billion liquidity. Boba users will be able explore the following Sushi products:
+
+Legacy swap
+Kashi
+Bentobox
+Furo",24,1,5,2022-09-06
+1647,2022-09-07 21:45:21+00:00,1567630123205279744,bobanetwork,"Boba Network will be at @themetaweek! 
+
+🗓️ September 11-14
+🏨 Grand Hyatt Dubai
+
+We'll have a booth with some goodies 🧋👕 for you
+Fill out this form to get in touch or come by the booth!
+https://t.co/c5gZwUtZd8 https://t.co/V2DEFImGf6",39,6,8,2022-09-07
+1650,2022-09-09 15:00:07+00:00,1568252921330176000,bobanetwork,https://t.co/bDTdyAMDfm,21,9,7,2022-09-09
+1656,2022-09-10 22:09:04+00:00,1568723258530471936,bobanetwork,"Boba Hall is back!
+
+🗓️ Sept 12, 9AM PST
+🤖 Discord
+
+Everyone can participate, we give you a platform to make yourself heard. If you have questions about veTokenomics or anything else relating to the team or future, get your questions ready! 
+https://t.co/weQbpasmMr https://t.co/JTv1Ny9bN4",55,11,9,2022-09-10
+1657,2022-09-12 22:27:45+00:00,1569452733757018113,bobanetwork,"After the launch of the new veTokenomics proposal, we've gathered the most common questions and answered them for our community 🚀
+
+https://t.co/tRnzrEeVWu
+
+If you have more questions, feel free to reach out!",42,10,11,2022-09-12
+1659,2022-09-13 16:29:59+00:00,1569725088387465216,bobanetwork,"Have you tried Metaforra, the first phone app deployed on Boba Network? 📲 🎮
+
+What are your thoughts on it? https://t.co/jqjv2tYuzU",41,4,12,2022-09-13
+1664,2022-09-14 17:58:12+00:00,1570109674795696128,bobanetwork,https://t.co/Av4I7YfPv3,30,8,9,2022-09-14
+1666,2022-09-15 17:15:30+00:00,1570461316417986563,bobanetwork,"Are you ready for an AMA with @metaforra_com ? 🙌
+
+Join @blendorsefaj and Arthur &amp; Anuar from Metaforra in a discussion about games, blockchains, and much more!
+
+Join the convo here 👇 https://t.co/Ln6U7t619U https://t.co/mvDsmtPeyp",37,4,17,2022-09-15
+1671,2022-09-16 15:02:57+00:00,1570790348364054530,bobanetwork,https://t.co/RhuIIHyoeG,20,7,4,2022-09-16
+1676,2022-09-20 19:15:00+00:00,1572303329195073539,bobanetwork,"Hm, we bet you're wondering what we have in store for you… 👀 https://t.co/V71XQHaW45",64,14,11,2022-09-20
+1678,2022-09-21 16:02:25+00:00,1572617252809080833,bobanetwork,"3/ While Sushi will be deploying their Legacy Swap on Boba AVAX L2, EvoVerses’ will be joining with their 3D PvP gameplay, powered by the Unreal Engine 5 &amp; #HybridCompute to help the game scale and reach its full potential! 🙌",48,1,7,2022-09-21
+1683,2022-09-22 10:21:18+00:00,1572893794957131780,bobanetwork,2/ Click here to set a reminder for the Spaces: https://t.co/lvEHLgqUsZ,18,0,1,2022-09-22
+1685,2022-09-23 14:02:15+00:00,1573311786077634561,bobanetwork,https://t.co/lvEHLgqUsZ,22,3,3,2022-09-23

@@ -1,0 +1,16 @@
+rename variable, name should explain what they do 
+rename function, name should be a verb, function should do one thing, 15 lines ish
+no abbrevation, few comments
+don't add features along the way, keep your goal clear. 
+
+What is my goal now? I think twitter data isn't enough, you should have data from different sources. 
+My goal is still the same: try to interpret social media in order to explain price variation in micro caps
+It's a cool idea, it's hard, but everything worth doing is hard. You haven't touched the code for a while, 
+next time you review the code and you start from there. 
+You first make the code clean and working and then you start doing the data analysis. 
+
+download twitter
+individual querry
+find the pump of each coin 
+
+return db of pump size, days 

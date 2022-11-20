@@ -1,0 +1,920 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-07-18 13:38:41+00:00,1284482725978628096,Rook,"KeeperDAO v1 is live! 
+
+https://t.co/WKBpR8rKPr",148,6,44,2020-07-18
+8,2020-07-19 15:19:09+00:00,1284870400095084545,Rook,"@LanrayIge @zhusu The more ETH you stake into the LP contract, the more of the share profit you will receive. kETH will not = ETH locked because of the profit.  And also because when new people deposit after profit is generated, the ratio of kETH - ETH makes the numbers change again.",0,0,0,2020-07-19
+11,2020-07-24 00:10:43+00:00,1286453722394968066,Rook,"@mattytay @zhusu For competing actors outside of KeeperDAO / those that do not cooperate, they face a punitive grim-trigger strategy which erases all profitability. This essentially acts as a ""win together or lose forever"" signal, encouraging GTO play. Will be writing more about this!",1,0,0,2020-07-24
+14,2020-07-27 06:59:41+00:00,1287643808314753024,Rook,"1) By incentivizing collaboration, KeeperDAO is able to avoid the wastefulness of gas wars, and maximize profits for everyone involved. 
+
+And for those that do not cooperate, its grim-triggering strategy is guaranteed to erase all profitability.
+
+https://t.co/EzJTXdCFG6",79,2,19,2020-07-27
+16,2020-07-28 00:55:02+00:00,1287914428881461248,Rook,"@josebaredes Gas is not paid by LPs / the DAO, its paid by individual keepers. We'll be launching a mining program which incentivizes both LPs and keepers, where you can think of the token incentive as the gas rebate, of sorts. We'll be releasing more info as we go on the full incentives :]",0,0,0,2020-07-28
+17,2020-07-29 10:42:29+00:00,1288424650595119104,Rook,"@hilmarxo In the article we do make the assumption that if keepers part of the pool react in time, a competitor would not lose money. Generally this would not be the case, since a competitor  still pays the gas for their losing/reverted transaction.",0,0,0,2020-07-29
+18,2020-07-30 09:36:19+00:00,1288770386595700736,Rook,"KeeperDAO now has a public dashboard on @DuneAnalytics thanks to @eliasimos! Follow and track:
+
+- Pool size and # unique depositors
+- # of active keepers
+- Total deposits and withdrawals
+- kTokens over time
+- Flash loan volume
+
+Dashboard: https://t.co/EofHn1JdJA https://t.co/EFCNQfRxYg",35,3,3,2020-07-30
+19,2020-07-31 10:40:09+00:00,1289148840679895040,Rook,"We are hiring!
+
+https://t.co/jHrjbJcDGY",35,3,6,2020-07-31
+21,2020-08-01 05:18:25+00:00,1289430261004767234,Rook,"Updated high-level wiki is up, and now includes an example of a simple keeper that integrates with KeeperDAO. Checkout the commented code for more information:
+
+https://t.co/qc6MjjFgJ1",26,2,4,2020-08-01
+23,2020-08-04 09:41:15+00:00,1290583569128022017,Rook,中文版已发布👀 https://t.co/CcVLWaHKya,17,5,1,2020-08-04
+24,2020-08-31 12:32:27+00:00,1300411127109541889,Rook,"In Chess, castling is the only way in which a player can move two pieces at the same time. By doing so, it moves the King to a safer position, and moves the rook to a more active position. If DeFi is chess, then liquidators/keepers are Rooks.",70,4,8,2020-08-31
+25,2020-10-31 02:09:32+00:00,1322360022555242496,Rook,"There is no official KeeperDAO token released yet - do not buy any already circulating tokens labelled as ""KeeperDAO"" or ""https://t.co/Wpy1PiLXRY (KDAO)"", they are copycat scam tokens. Anyone can create their own token and Uniswap listing.",16,3,5,2020-10-31
+27,2020-11-02 08:22:41+00:00,1323178706760724485,Rook,"This article introduces our native token, ROOK, its role in the protocol, and the initial ecosystem rewards program, which begins on November 3 UTC 07:00!
+
+https://t.co/3NeUA4upg0",105,6,22,2020-11-02
+29,2020-11-03 14:38:00+00:00,1323635545675755532,Rook,@ServeItRaw https://t.co/U8rW48Qj4N,1,0,0,2020-11-03
+36,2020-11-04 11:52:24+00:00,1323956256499888129,Rook,More here: https://t.co/IB8FtbyLqx,2,0,0,2020-11-04
+46,2020-11-05 05:55:38+00:00,1324228860800503814,Rook,"Take your arbitrage, liquidation, and tailgating operations to the next level with arbitrage mining. Not only will you be rewarded for the hard work that you’re already doing, but you’ll be participating in the very first trading pool on Ethereum.
+
+https://t.co/RPeD6C2PbQ",566,47,412,2020-11-05
+48,2020-11-06 13:48:18+00:00,1324710202868813825,Rook,"I stay on sixty-four squares, while controlling the center
+Trading space for material, the mempool I enter
+It's calculated by movement, from pushed pieces
+Advances in development, once the $rook reaches https://t.co/BcZOwuEb6l",19,3,1,2020-11-06
+58,2020-11-10 12:33:00+00:00,1326140801945018370,Rook,"$Rook style is immensely strong, and immune to nearly any weapon. When it's properly used, it's almost invincible.",7,3,0,2020-11-10
+62,2020-11-11 23:54:40+00:00,1326674737326555136,Rook,@Chad_Capital https://t.co/yjuD39Y2ka,0,0,0,2020-11-11
+64,2020-11-13 02:29:57+00:00,1327076204529078272,Rook,@feelthecrypto https://t.co/gbKLWuCDpw,0,0,0,2020-11-13
+66,2020-11-14 02:12:43+00:00,1327434253764874242,Rook,"“Even the best grandmasters in the world have had to work hard to acquire the technique of $rook endings.”
+
+- Paul Keres",32,3,2,2020-11-14
+67,2020-11-15 12:25:09+00:00,1327950767123120130,Rook,All keeper-generated yield now feeds into a new multi-sig which has accrued &gt;$136k in earnings at a current run rate of ~$40k/day. The Incentive Game will give $ROOK holders governance over these funds. https://t.co/cTi9qVlXhM,87,5,15,2020-11-15
+68,2020-11-16 00:16:05+00:00,1328129679484588034,Rook,https://t.co/4Doy40ec8s,30,1,2,2020-11-16
+72,2020-11-17 01:44:08+00:00,1328514223073161216,Rook,"@bennyj504 @zapper_fi Your ROOK is still there, just an UI issues, being resolved",2,1,0,2020-11-17
+74,2020-11-18 09:57:20+00:00,1329000730749898759,Rook,@DeBankDeFi @ChainLinkGod @tzhen @etcmining @AboutDefi @ethereumita @Overall_Finance @DefiTurkey @CamiRusso @bneiluj @TheBlock__ Well done! https://t.co/qywx1r53AO,3,0,0,2020-11-18
+75,2020-11-19 06:10:22+00:00,1329306001950998532,Rook,https://t.co/vROtt0UZLy,46,4,3,2020-11-19
+79,2020-11-20 14:52:35+00:00,1329799808706510849,Rook,"Current LPs are earning between 40-55% APY on https://t.co/n3cDm1PGgN. There is a deposit fee of 64bps, aimed incentivizing sticky liquidity / disincentivizing pool hopping. This fee goes to existing LPs pro rata to their pool ownership, on top of $ROOK distributions. https://t.co/UiMXcbS0A4",83,7,11,2020-11-20
+90,2020-11-21 06:19:06+00:00,1330032973077417985,Rook,"8) KeeperDAO is an economic experiment. Join our discord server to participate in the discussion:
+
+https://t.co/yv6LxtLcwO",7,1,1,2020-11-21
+123,2020-11-23 02:15:36+00:00,1330696472334008322,Rook,Chess is hot right now https://t.co/K2VDssHWDa,60,4,4,2020-11-23
+124,2020-11-30 03:32:42+00:00,1333252587806547968,Rook,@bennyj504 @noahseidman You may have forgotten to count your $ROOK LP rewards,2,1,0,2020-11-30
+126,2020-12-01 22:55:33+00:00,1333907617932984321,Rook,@stof_en_muziek You will need to “add custom token” in metamask in order to see your claimed tokens,0,0,0,2020-12-01
+127,2020-12-04 01:15:32+00:00,1334667622596526080,Rook,That’s the spirit! https://t.co/eWWzgpopcG,39,0,0,2020-12-04
+128,2020-12-12 03:33:39+00:00,1337601481818574848,Rook,@BachvietT This is fake / not maintained by us,1,0,1,2020-12-12
+129,2020-12-23 03:39:15+00:00,1341589158347698176,Rook,@DeFiFrog @LanrayIge It didn’t - what you’re referrring to is the $-equivalent value subject to the price feed the platform is using for USDC (which seems to be fetching a price just below par),4,0,1,2020-12-23
+130,2021-01-03 12:26:33+00:00,1345708124284456961,Rook,"Treasury balance has surpassed $7.5mm!
+
+https://t.co/HHld3HwGEf https://t.co/EvDCvWtqf0",90,3,17,2021-01-03
+133,2021-01-19 07:10:25+00:00,1351426773326594048,Rook,"Locked and caged in
+We're sworn representatives, reacting like made men
+Strive for wives, nine lives and lies
+Max buy and enjoy the highs, what https://t.co/3WIVM2a9kt",117,1,11,2021-01-19
+136,2021-01-20 04:12:42+00:00,1351744434581344256,Rook,Chess not checkers,336,25,30,2021-01-20
+137,2021-01-21 01:24:57+00:00,1352064607565697024,Rook,@ReliableNarr Permanent gains only,3,1,0,2021-01-21
+141,2021-01-22 11:57:08+00:00,1352586088951336961,Rook,@HuongDa86813854 No,0,0,0,2021-01-22
+142,2021-01-23 12:31:58+00:00,1352957245122695169,Rook,@caibird123 Legend,0,1,0,2021-01-23
+143,2021-01-24 11:20:43+00:00,1353301700874919936,Rook,Midgame. https://t.co/xBUWE9qm0J,45,1,0,2021-01-24
+146,2021-01-25 09:20:37+00:00,1353633866511093761,Rook,@chessninja @CBSSports Chad,4,0,0,2021-01-25
+147,2021-01-30 08:30:27+00:00,1355433180900241408,Rook,3/ Liquidity providers do not need to take further action.,21,2,0,2021-01-30
+150,2021-02-03 03:04:44+00:00,1356800763863961601,Rook,"1/ As we near the end of the Liquidity &amp; Arbitrage Mining program, we are introducing KeeperDAO’s forthcoming developments to the community. https://t.co/K2M4eDtpE5",352,21,80,2021-02-03
+154,2021-02-04 10:17:26+00:00,1357272041305513984,Rook,♟️The Hiding Game is now live ♟️ https://t.co/GuLtrg4Hnq https://t.co/duzUjOnLva,346,74,69,2021-02-04
+155,2021-02-05 05:42:49+00:00,1357565321196969984,Rook,Few https://t.co/kSok2wmyvJ,298,11,54,2021-02-05
+157,2021-02-09 14:35:58+00:00,1359149045416132615,Rook,The queen is the most valuable piece in chess. But nothing beats double rooks https://t.co/zeJq9ugWOk,294,14,26,2021-02-09
+159,2021-02-11 12:47:27+00:00,1359846512293863426,Rook,@DocOFunk Castle,2,1,0,2021-02-11
+160,2021-02-12 11:29:10+00:00,1360189196074315779,Rook,@ConvexMonster @bftzhang @0xttk Not that you'd want to promote into anything else anyways,4,0,0,2021-02-12
+162,2021-02-13 15:33:25+00:00,1360613052878491648,Rook,"Impressive. 
+Very nice. 
+
+Let's see Paul Allen's $rook. https://t.co/4KVXkhjinQ",188,5,14,2021-02-13
+164,2021-02-15 03:29:53+00:00,1361155745333473286,Rook,"“In the medieval shatranj, the $rook symbolized a chariot. The Persian word rukh means ""chariot"", and the corresponding piece in the original Indian version, chaturanga, has the name ratha (meaning ""chariot"").” https://t.co/O3xwjGWtoY",90,4,10,2021-02-15
+167,2021-02-19 04:20:36+00:00,1362618062092918784,Rook,"My double $rook attack keep cemetaries packed
+Of keepers who think it ain't like that
+Villains are gunned down like being run down with mad trucks
+The gas struck, blundered, then you call it bad luck https://t.co/Ll76kSGcgt",193,26,18,2021-02-19
+169,2021-02-22 06:09:13+00:00,1363732558588964872,Rook,What are the best opening moves? https://t.co/t9SHgM6xsN,234,40,21,2021-02-22
+170,2021-03-02 13:05:07+00:00,1366736327106945031,Rook,"A great paper shedding light on the MEV extraction DeFi users are exposed to via front-running/back-running/sandwhich attacks and more. What if there was a way to redistribute these gains back to users?
+
+https://t.co/tNvKDYfeju",151,9,28,2021-03-02
+171,2021-03-03 03:53:50+00:00,1366959977462599682,Rook,@DontBuyMeme @0x_b1 @samjackgilmore Beautiful,11,0,1,2021-03-03
+172,2021-03-08 08:38:47+00:00,1368843629112881156,Rook,@ConvexMonster From one of the largest mining pools https://t.co/qQCW95mMFZ,92,5,11,2021-03-08
+173,2021-03-20 01:27:46+00:00,1373083812628852741,Rook,"7) This also eliminates gas wars, puts money back into their pockets, and aligns incentives between users and keepers. KeeperDAO is not in the business of competing for MEV in the wild, but hiding and redistributing it. https://t.co/f3Lt0djwhI",45,1,2,2021-03-20
+181,2021-04-01 02:36:08+00:00,1377449672671776772,Rook,March Development Update https://t.co/o3Itl5Kluw,196,19,33,2021-04-01
+183,2021-04-07 05:28:00+00:00,1379667253822545925,Rook,&gt;$50mm https://t.co/08PSTVkL6A,149,5,17,2021-04-07
+184,2021-04-12 12:18:27+00:00,1381582485683757056,Rook,"9) KeeperDAO is needed to align the rewards of MEV with the value creators. From the perspective of the users and searchers, KeeperDAO redistributes this MEV back to their pockets.",98,1,7,2021-04-12
+193,2021-04-14 00:50:50+00:00,1382134216322736133,Rook,&gt;$60mm https://t.co/GV6MrNxKHx,175,3,23,2021-04-14
+194,2021-04-17 03:50:05+00:00,1383266488975462404,Rook,&gt;$69.42mm https://t.co/U8wegSCIZm,240,11,27,2021-04-17
+197,2021-04-27 23:51:11+00:00,1387192633458532352,Rook,"Hiding Game user volume in USD:
+Last 30 days = $79,643,316
+Last 7 days = $26,273,380",161,7,13,2021-04-27
+198,2021-05-01 08:16:23+00:00,1388406934538125314,Rook,"Check out our April Development Update to see what the team has been up to!
+
+https://t.co/Oy2xsLv2OX",140,8,25,2021-05-01
+199,2021-05-02 16:46:50+00:00,1388897781885005830,Rook,"@ultrasoundponzi Really? Sir, that's a rookie question.",4,0,0,2021-05-02
+203,2021-05-03 16:50:45+00:00,1389261156724842501,Rook,&gt;$90mm 🤯 https://t.co/rdTrBF2nxK,100,4,12,2021-05-03
+204,2021-05-05 03:42:26+00:00,1389787545282641920,Rook,"Coordination is coming... if you are an experienced trader, market maker, or liquidator and have not already reached out to join the KeeperDAO Coordination Game and Hiding Game, send us a DM or reach out on Discord to discuss onboarding. https://t.co/eaTuJizf1S",152,5,13,2021-05-05
+206,2021-05-10 15:17:11+00:00,1391774324437098503,Rook,".@Quantstamp recently completed its audit of our new product, kCompound. https://t.co/AUoKT25jwP",115,2,19,2021-05-10
+207,2021-05-12 19:14:04+00:00,1392558714394009604,Rook,"ACT III is beginning today. 
+
+Join the Discord to see what is new.
+
+https://t.co/LMbjj1sbuM",58,0,9,2021-05-12
+210,2021-05-13 07:50:03+00:00,1392748963128774659,Rook,Coinbase Custody now supports $ROOK ♖ https://t.co/TpN5veZJNV,224,5,17,2021-05-13
+211,2021-05-14 13:54:16+00:00,1393203008108851208,Rook,"The current KeeperDAO treasury:
+
+11,758.016 WETH
+11,548.730 ETH
+134.803 renBTC
+4,369,935.238 USDC
+4,126,100.070 DAI
+3,615.468 ROOK accumulated from the old LP contracts to date",75,6,9,2021-05-14
+215,2021-05-20 14:44:14+00:00,1395389909188300806,Rook,Almost $13mm worth of orders executed through the Hiding Game yesterday! 🚀🚀🚀 https://t.co/jT6Kidiehv,124,4,9,2021-05-20
+216,2021-05-23 17:10:59+00:00,1396514004663635972,Rook,@Tetranode @RariCapital If you have any other tokens that you would like the Hiding Game to support let us know!,22,2,3,2021-05-23
+219,2021-05-26 12:43:16+00:00,1397533796514230272,Rook,KeeperDAO has now been added to @HuobiWallet https://t.co/wtKlavupQT,92,2,12,2021-05-26
+221,2021-05-27 18:17:53+00:00,1397980391655362560,Rook,"Introducing our roadmap for ACT III: Decentralisation
+
+https://t.co/RVj3I0rCny",170,7,22,2021-05-27
+223,2021-05-28 04:32:09+00:00,1398134978446168067,Rook,"@Tetranode Currently not possible, we will look to add that functionality in the next UI refresh.",19,0,0,2021-05-28
+224,2021-05-31 12:25:25+00:00,1399341241117011969,Rook,"New ATH number of user orders filled through the Hiding Game in a day, with 321. Over $12mm of trading volume. 
+
+We have just deployed a new more gas-efficient trading contract. 
+
+Trade today at: https://t.co/GuLtrg4Hnq https://t.co/9IgJFx15mJ",85,2,11,2021-05-31
+226,2021-06-01 12:07:56+00:00,1399699232638992386,Rook,"The May Development Update covers what the core team and our amazing community has been up to!
+
+https://t.co/a9pY2Aigcw",98,3,11,2021-06-01
+227,2021-06-04 06:01:41+00:00,1400694224652169217,Rook,"Romania
+Oman
+...
+
+Damn there's only 1 country beginning with O 🥺",51,10,1,2021-06-04
+228,2021-06-11 14:12:29+00:00,1403354452719902720,Rook,"kCompound v2 is coming 24th June, along with Hiding Game vaults!
+
+Find out more:https://t.co/LMbjj1sbuM",48,3,5,2021-06-11
+229,2021-06-16 07:45:52+00:00,1405069097298055173,Rook,"Hey Solidity devs! 
+
+KD Labs is excited to introduce our first Solidity challenge, kAave! If you have Solidity chops, check it out. Prizes totaling 40 ROOK accompanied + an opportunity to interview to join KeeperDAO full-time.
+ 
+https://t.co/u71vz8sfe1",92,6,9,2021-06-16
+230,2021-06-17 05:47:30+00:00,1405401698177196038,Rook,"The KeeperDAO Treasury has completed a buyback of 6776 ROOK on the open market, executed through the Hiding Game. 
+
+A total of 7664 ROOK has been sent back to Treasury.
+
+Read more details here:
+https://t.co/LMbjj1sbuM",66,3,4,2021-06-17
+231,2021-06-20 05:26:09+00:00,1406483486777565184,Rook,"Wow we already have TWO winners for our kAave Solidity Contest! Each have earned interviews to join the KeeperDAO core team.
+
+🥇 25 $ROOK (ramenforbreakfast)
+🥈 15 $ROOK (exeggcute)
+
+Thank you to all who submitted their work to our contest. Keep an eye out for our next challenge!",29,0,1,2021-06-20
+232,2021-06-23 16:35:02+00:00,1407738981924544513,Rook,"KeeperDAO Liquidity Providers, we will be upgrading our LiquidityPool to make it more modular and ready for kCompound v2. This will be an automatic migration. 
+
+If you don't want to participate, you have at least 24 hours to remove your assets.
+
+Read more: https://t.co/iHV0TzVau7",43,1,3,2021-06-23
+233,2021-06-24 20:35:21+00:00,1408161846209642499,Rook,"The Hiding Game, our gas-free limit order DEX that rewards you $ROOK, now includes:
+
+• More customisable limit order time frame
+• Set Price to Market Price button
+• More information from your wallet
+• Live dollar equivalency of both sides of the trade https://t.co/b0xtvzg70I",41,3,5,2021-06-24
+240,2021-06-25 03:25:49+00:00,1408265143369142272,Rook,"@Tetranode @RariCapital bet those fills look even better with the new UI
+
+https://t.co/GuLtrg4Hnq https://t.co/17SGvg3naH",21,1,0,2021-06-25
+241,2021-06-29 17:42:52+00:00,1409930380291936257,Rook,"Our friends at Bancor have proposed to increase the size of the ROOK/BNT liquidity pool.
+
+This will open more space to stake ROOK and earn yield in Bancor's single-sided, IL-protected ROOK/BNT liquidity pool.
+
+Vote here before the July 1 deadline! https://t.co/92SdGcIOPC",66,2,8,2021-06-29
+242,2021-07-01 19:15:32+00:00,1410678477741707266,Rook,"Our very own Joey Zacherl will be discussing the MEV re-distribution game and how KeeperDAO is addressing this, with @tomhschmidt, @IvanBogatyy, @yaron_velner, and @uriklarman at the @ETHGlobal https://t.co/C6vwQE2wOF Summit.
+
+Tune in at 5:40pm ET here: https://t.co/LOtEBtBK0Z https://t.co/rBNT3902F3",38,1,5,2021-07-01
+243,2021-07-07 17:22:20+00:00,1412824314504650752,Rook,"Check out our June Development Update to see what the team and community has been up to!
+https://t.co/DDzdM90nQN",63,1,9,2021-07-07
+244,2021-07-08 16:43:39+00:00,1413176967822598151,Rook,"We are currently investigating an issue where a user order is preventing other user orders from being filled. In the meantime, we have cleared the HidingBook's orderbook to remove orders causing the same issue. Another announcement will be made when the issue has been resolved.",31,2,2,2021-07-08
+245,2021-07-09 13:25:55+00:00,1413489593551183887,Rook,The issue has been resolved and the Hiding Game is now operating as usual!,21,1,0,2021-07-09
+246,2021-07-19 18:44:43+00:00,1417193702636736515,Rook,"JITU, the backbone of our new liquidation engine, protects capital for users and provides more flexibility than any other borrowing protocol in DeFi. https://t.co/moMZhKkuKl",30,1,1,2021-07-19
+251,2021-07-20 16:22:43+00:00,1417520356839985156,Rook,"Just over two hours until ROOK rewards go live for Hiding Vault loans. 
+
+Take out a loan now to make sure you are earning interest, COMP, and ROOK from the first block onwards.
+
+https://t.co/TbJAovmwHA https://t.co/8IAx7wlndH",61,1,9,2021-07-20
+254,2021-07-22 17:00:03+00:00,1418254524515508228,Rook,"We have surpassed $100,000,000 in total assets being protected in Hiding Vaults.
+
+Migrate your position from @compoundfinance, or open a new position using our app. 
+
+https://t.co/TbJAovE86a https://t.co/h5lwEqVkdI",75,6,12,2021-07-22
+255,2021-07-26 03:56:40+00:00,1419506933761908739,Rook,"Despite Ethereum's upcoming iterations, MEV activity is here to stay and KeeperDAO aims to mitigate it from the application level. https://t.co/nsEUvjjqJM",60,0,7,2021-07-26
+256,2021-07-30 03:43:27+00:00,1420953157253746691,Rook,"We are launching KeeperDAO Community Calls! 
+
+Our first topic will be on MEV hiding, botting, and reorgs featuring our very own Joey Zacherl and Nathan Worsley. 
+
+To learn more about KeeperDAO Community Calls check us out on Discord: https://t.co/cYYTagLXTa https://t.co/wZ6DyoJrmO",42,0,5,2021-07-30
+257,2021-07-31 05:02:38+00:00,1421335473071423492,Rook,"6/6 That's the right solution. And we know it's possible, because we're building it right now.
+
+♜♜♜",34,0,3,2021-07-31
+263,2021-08-01 04:57:05+00:00,1421696462849646597,Rook,"Check out our July Development Update to see what the team and community has been up to!
+https://t.co/GrFwIWEjZe",59,1,11,2021-08-01
+265,2021-08-02 16:13:27+00:00,1422229065046511624,Rook,"Today, we formally announce a monumental expansion of the KeeperDAO ecosystem: KeeperDAO Labs.
+
+Within this ever-evolving virtual tinker-station, we are building the future of KeeperDAO and DeFi. Read more:
+
+https://t.co/l1zsCQdn46
+
+♜♜♜",56,0,10,2021-08-02
+267,2021-08-04 14:57:54+00:00,1422934826261254151,Rook,"Today is our first KeeperDAO Community Call, featuring a conversation on MEV, botting, and reorgs with JZ and @NathanWorsley_ 
+
+Join us on Discord Stages in a little over 60 minutes (4PM UTC)!
+
+https://t.co/Vcr1Y1Y0Ee",37,3,3,2021-08-04
+269,2021-08-05 22:36:58+00:00,1423412745391599618,Rook,".@Quantstamp has recently completed its audit of the latest version of our Liquidity Pool (JITU) and Hiding Vault contracts. 
+
+We are pleased with the results: zero high or medium risk issues were found. 
+
+Click below to read their report:
+https://t.co/AvfqVo0ADK",47,2,5,2021-08-05
+271,2021-08-06 17:53:43+00:00,1423703849450151936,Rook,"The Labs team is excited to unveil a completely redesigned homepage to be more aligned with the modern ethos of KeeperDAO! 
+
+Discover DeFi Utopia:
+
+https://t.co/EDjTVNot8I",38,0,6,2021-08-06
+272,2021-08-09 06:21:42+00:00,1424616862751485960,Rook,"We are sunsetting the legacy Liquidity Pool UI ( https://t.co/kMnkyfoipn) which interacts with the old LP pools. The interface will be deprecated next week on August 15.
+
+Afterwards, you will still be able to interact with the contract directly to move funds.",16,2,1,2021-08-09
+274,2021-08-12 20:58:35+00:00,1425924698110525442,Rook,"Introducing KeeperDAO Act IV: Coordination
+
+https://t.co/C1hFVVOOsJ",86,2,19,2021-08-12
+275,2021-08-18 23:11:15+00:00,1428132412811202563,Rook,"We are excited to announce the second KeeperDAO Community Call!
+
+Join us on 8/25 at 1PM PST (8PM UTC) to talk about our upcoming governance launch, featuring the co-leaders of KeeperDAO Labs, @0x81B and @0x_lapras. 
+
+Submit your questions here: https://t.co/9nNWiatnDH https://t.co/g1aYNHPb1H",28,1,3,2021-08-18
+276,2021-08-25 03:29:18+00:00,1430371680635940867,Rook,"Future Sophons &amp; DeFi Natives,
+
+We invite you to read our Governance Beigepaper, which is a great primer before tomorrow's KDCC on Governance.
+
+https://t.co/dNpmiz0Iul
+
+This lays the foundations for KeeperDAO Improvement Proposals, which will commence next week!
+
+♜♜♜ https://t.co/rJCGeXDNkA",38,0,10,2021-08-25
+278,2021-08-26 19:06:38+00:00,1430969956305276928,Rook,".@CoinMarketCap, we would like to register two https://t.co/EDjTVNot8I emails to manage KeeperDAO's self-reporting dashboard on CoinMarketCap.",23,0,0,2021-08-26
+280,2021-08-29 23:49:12+00:00,1432128232573194241,Rook,"@yallah_halim Your ROOK Rewards are still available in the normal app: https://t.co/n3cDm1PGgN. Click your address in the top to see the Claim option. 
+
+Feel free to reach out to us on discord if you need more assistance.",0,0,0,2021-08-29
+281,2021-09-01 15:52:10+00:00,1433095344309432322,Rook,"Check out our August Development Update to see what the team and community have been up to!
+
+https://t.co/vSuhZDX59F",33,0,4,2021-09-01
+282,2021-09-02 19:16:34+00:00,1433509171035443234,Rook,@_Abhishek_rana Please visit https://t.co/8vZ0icHRBM,0,1,0,2021-09-02
+283,2021-09-06 19:53:08+00:00,1434967926587625472,Rook,"What is KeeperDAO trying to accomplish?
+
+DAO members @0x_tommy and @0x81B outline KeeperDAO's mission, values, and founding principles here:
+
+https://t.co/fXRhAmQ75F",39,0,4,2021-09-06
+284,2021-09-08 19:15:43+00:00,1435683284424400897,Rook,"KeeperDAO Governance is now live! Everybody now has the chance to help steer, grow, sustain, and manage KeeperDAO. 
+
+Join us by drafting or commenting on KIPs and sharing your ideas in the Discord and our Governance Forum. The future is in your hands!
+
+https://t.co/AJD09V7fmI https://t.co/kfOWcymM6l",77,2,15,2021-09-08
+285,2021-09-14 06:21:59+00:00,1437662896146706432,Rook,"The Core Team has just sent 50,000 ROOK to the DAO Treasury 👀
+
+This transaction instantly increased the Net Asset Value of the DAO Treasury by ~9.5%.
+
+What will you do with 50,000 more ROOK, Governors?
+
+TX Hash: https://t.co/UkFaXhw6xq",62,4,5,2021-09-14
+286,2021-09-16 18:15:58+00:00,1438567352514203659,Rook,"Two months ago, @AshiqAmien of @iosiro_security uncovered a vulnerability in a Hiding Vault contract. No funds were lost &amp; the issue was patched immediately.
+
+Disclosure was delayed until the full scope was known, to protect other protocols at risk. 
+
+https://t.co/MYgdTr8KH5",24,2,2,2021-09-16
+287,2021-09-22 20:36:27+00:00,1440777030769934355,Rook,"We are #26 on @defipulse's TVL ranking!
+
+Our page on Defi Pulse has been updated with our current TVL and all our important information, links, and audits. 
+
+Check out the updates here: https://t.co/gs78l7ICF6",44,3,12,2021-09-22
+288,2021-09-28 17:36:41+00:00,1442906117932142595,Rook,"Tomorrow, Sept 29 at 1PM PST (8PM UTC), we will host a special community call on the first days of governance. 
+
+We will recap key events, lessons learned, and host an open forum for all KIPs to give our community a chance to voice opinions. 
+
+Discord: https://t.co/D8T9HoLLFh https://t.co/HVJKD3oCG2",16,1,1,2021-09-28
+289,2021-10-01 00:55:20+00:00,1443741285609664518,Rook,"Check out our September Development Update to see what the team and community has been up to!
+
+https://t.co/B8gBwZQr5J",23,0,7,2021-10-01
+290,2021-10-02 18:01:12+00:00,1444361839987539974,Rook,"Claiming COMP has temporarily been disabled by Compound due to the recent bug in the Comptroller as a result of Proposal 062. 
+
+We are disabling the ""Claim COMP"" function in our Vaults UI until this has been patched. All other Vault functionality will remain operational.",13,0,0,2021-10-02
+291,2021-10-04 21:41:18+00:00,1445142004669714437,Rook,"Voting on KIP-0 and KIP-1 is now LIVE and will run for 7 days.
+
+KIP-0: https://t.co/4ECMFcZEIQ
+
+KIP-1: https://t.co/M4i4MvTd97
+
+Please vote 'No objection' if you have no objections. This helps us demonstrate a high degree of support for these initial KIPs.",10,0,2,2021-10-04
+292,2021-10-09 00:02:11+00:00,1446627011925975043,Rook,"We are excited @ASvanevik, CEO of @nansen_ai will be speaking at the 4th KeeperDAO Community Call! 
+
+He'll join @0x81B and @KeeperDetz to discuss 'Finding Alpha On Chain'. 
+
+You won't want to miss this. 
+
+More Info: https://t.co/3vGeYkNRMw https://t.co/rrARP5XVjf",29,1,5,2021-10-09
+293,2021-10-11 23:28:39+00:00,1447705739015847942,Rook,"Objection voting on KIP-0 and KIP-1 has concluded and both have PASSED!
+
+Snapshot:
+
+KIP-0: https://t.co/4ECMFcZEIQ
+
+KIP-1: https://t.co/M4i4MvTd97",24,1,1,2021-10-11
+294,2021-10-12 02:37:49+00:00,1447753341975494656,Rook,"With kip-0 and kip-1 passing without a single objection, it's clear the community is eager to put the $50,000,000 of eth in the treasury to work https://t.co/F4sdi3Xohm",35,3,0,2021-10-12
+295,2021-10-13 03:37:45+00:00,1448130812776357891,Rook,"The KeeperDAO treasury has $88 million of $eth, $btc, &amp; stables - the third most liquid non-native treasury in crypto.
+
+Oh, and the first governance KIPs passed yesterday, giving ROOK holders the rights to said treasury...
+
+https://t.co/BvifMh82yc",60,3,7,2021-10-13
+296,2021-10-14 05:55:17+00:00,1448527812134985731,Rook,gm https://t.co/CCNxp2aeqZ,24,1,1,2021-10-14
+299,2021-10-16 16:16:25+00:00,1449408899958800384,Rook,"@bryptocapital • this kip was proposed by a community member
+• there is another proposal moving through the pipeline for providing liquidity with rook the treasury already holds (https://t.co/IpMeqZfASh)",4,1,1,2021-10-16
+305,2021-10-18 02:18:59+00:00,1449922931321040896,Rook,@ASvanevik $rook https://t.co/6BiXMMZwt3,41,0,2,2021-10-18
+306,2021-10-19 08:20:49+00:00,1450376375882321922,Rook,It’s a value add if you give the MEV back to the users’ who create the opportunities. https://t.co/1BGcDUVuC8,32,0,1,2021-10-19
+307,2021-10-20 19:29:03+00:00,1450906932739383302,Rook,"@pythianism Hey Vance, this is one of the issues we are solving at KeeperDAO by creating a decentralized Keeper Economy. Our team will follow up with you in DM's with more information.",30,1,5,2021-10-20
+314,2021-10-21 18:59:29+00:00,1451261878320041997,Rook,"@0xMasterOf33 Hello fren. OHM is now live on https://t.co/ndx7jpxMS8 🌋
+
+cc @OlympusDAO",42,3,6,2021-10-21
+316,2021-10-22 22:57:33+00:00,1451684176017575936,Rook,"KIP-2 has taken effect as of block 13468134, slashing Hiding Vault emissions 75%!
+
+Yes, that means over 1200 ROOK will be taken out of circulation per week. https://t.co/WhLBzNSckY",82,3,10,2021-10-22
+321,2021-10-23 18:33:10+00:00,1451980030326685702,Rook,https://t.co/dVYouPvNsa,14,1,1,2021-10-23
+323,2021-10-24 19:48:23+00:00,1452361346696110080,Rook,"@namelsBIank @CryptoMessiah sit tight, resolving now 🤣",0,0,0,2021-10-24
+326,2021-10-25 01:02:34+00:00,1452440414116462592,Rook,"@DrGorilla_md After a bit of debate, we've decided we'll allow OpenGSN. Great question and good luck!",3,1,0,2021-10-25
+327,2021-10-26 20:52:30+00:00,1453102259965861888,Rook,We're happy to report this issue is fixed. Thank you for your patience all 🙇‍♂️ https://t.co/yEUu0G7aLe,16,2,0,2021-10-26
+335,2021-10-28 18:56:36+00:00,1453797868112777220,Rook,"Reminder - In just over an hour, @maplefinance @Maven11Capital and @bankless_dao will be joining @KeeperDetz on our Discord stage for the fifth KeeperDAO Community Call. 
+
+See you all there!
+
+Discord: https://t.co/Tn50Gm2JOe",12,0,1,2021-10-28
+336,2021-10-29 21:48:30+00:00,1454203516071780356,Rook,"KIP-4's first weekly buy back and burn was completed 3 hours ago...
+
+1,192.4 ROOK (~$345,000 USD) ripped out of supply and sent to the inferno
+
+https://t.co/lBtYVLnRvk https://t.co/wfiTLLwJgT",85,5,10,2021-10-29
+340,2021-10-31 22:57:42+00:00,1454945707383668741,Rook,"• ROOK buy back &amp; burns are ~1x a week
+• The size is based on net revenue (~$300k/week atm)
+• Set to last until Coordination Game is live https://t.co/I7pnNn0Jm1",33,2,4,2021-10-31
+342,2021-11-01 23:35:06+00:00,1455317506613149698,Rook,Today marks one year since the launch of ROOK. Thank you to everyone who has been a part of this journey. We cannot wait to see what year two brings! https://t.co/iiPpzkN9iL,99,8,9,2021-11-01
+343,2021-11-02 20:45:09+00:00,1455637123344650240,Rook,"@lord_mev @0xFarms Can you DM us the TX info. This 100% should not (can not) have happened. 
+
+It's possible there was a race condition where the cancel was not confirmed before the Keeper filled the order. We will look into this, for sure",2,0,0,2021-11-02
+347,2021-11-04 07:03:44+00:00,1456155184715927552,Rook,"Today, KeeperDAO and @WOONetwork are happy to share news of a budding and symbiotic relationship. 
+
+This relationship will be ribbon-cut with ROOK trading going live on Woo X @ 6 AM UTC (in 1 hour)!
+
+Read more about our collaborations:
+https://t.co/9Lb0KC9BE0 https://t.co/GYDwKIY3QM",152,1,28,2021-11-04
+350,2021-11-05 15:57:38+00:00,1456651932123099140,Rook,"KeeperDAO Town Hall #3 is starting in just a few minutes, you can join here:
+
+https://t.co/xTPl1sctqx",11,1,1,2021-11-05
+351,2021-11-11 14:43:14+00:00,1458807537168306185,Rook,"For more information about using the Hiding Game, including a detailed walkthrough and limit order strategies, check out the full guide:
+
+https://t.co/1yx30hFmg7",4,1,0,2021-11-11
+370,2021-11-12 20:27:38+00:00,1459256595737714689,Rook,"At KeeperDAO, we protect users from these predatory bots. 
+
+Learn how the Hiding Game can keep your trades from being exploited:
+https://t.co/1yx30hnLoz https://t.co/6rPLwjQt9K",16,1,2,2021-11-12
+376,2021-11-13 00:00:00+00:00,1459310040553115652,Rook,"This week’s $ROOK buyback and burn has been completed with 1,278.6 ROOK ($294,641.82) being incinerated.
+ 
+https://t.co/5pZ60IddKK https://t.co/9j3gVUBDyl",34,1,3,2021-11-13
+378,2021-11-14 22:06:08+00:00,1460006160174489605,Rook,"We are very excited to be part of this cohort and partner with @OlympusDAO! 
+
+Be sure to catch @0x81B representing @Keeper_DAO on the AMA on Thursday.
+
+(♜,♜) https://t.co/rJU1XSYJz2",35,2,7,2021-11-14
+379,2021-11-17 18:38:36+00:00,1461041094213439497,Rook,"Our $ROOK - $wETH bonds on #Olympus Pro are live! 
+
+Be sure to join the $OHM AMA in the @OlympusDAO discord tomorrow at 8 AM PST / 4 PM UTC to hear @0x81B discuss $ROOK x $OHM and the latest at @Keeper_DAO 
+
+https://t.co/KwJPWNBRVk https://t.co/Ta9e9LtUWe",60,3,5,2021-11-17
+380,2021-11-18 18:42:01+00:00,1461404341080895490,Rook,"Thank you to @OlympusDAO and the entire $OHM community for hosting @0x81B on todays AMA.
+
+It was an absolute pleasure to discuss the future of KeeperDAO with you... (3,3)!
+
+You can listen to the conversation at:
+https://t.co/2SDwKw8KG5",39,1,1,2021-11-18
+381,2021-11-19 17:31:28+00:00,1461748975380439042,Rook,"Not to get all sappy, but we are excited to share that 3.5M USDC has been poured into @Maven11Capital's pool on @maplefinance. 
+
+We are currently tapping just shy of 30% APY from the pool, which can be viewed at https://t.co/y1rbrn7vkh https://t.co/5QMjlGFSv5",57,4,10,2021-11-19
+382,2021-11-22 22:13:35+00:00,1462907136619466754,Rook,"Another week brings another burn, with 1,807.98 $ROOK ($285,726.45) thrown into the furnace.
+
+https://t.co/1wz8jqcAjg https://t.co/N2u2rfBFUz",52,5,4,2021-11-22
+383,2021-11-27 20:00:28+00:00,1464685574535720969,Rook,"Join us on November 30th at 6 PM UTC as we host our first Twitter Spaces AMA alongside @Bridge_Mutual. 
+
+Topics include KeeperDAO's Coverage Pool, buying coverage for $ROOK, and how our community can generate value through Bridge Mutual. 
+
+We look forward to seeing you there!",61,7,16,2021-11-27
+384,2021-11-30 17:12:24+00:00,1465730445736222723,Rook,"In less than an hour, we’re hosting our first Twitter Spaces AMA!
+
+Join us at 1PM EST, and drop any question you have for the $BMI team in the comments👇 
+
+https://t.co/sWYT5SJ31V",25,4,2,2021-11-30
+385,2021-12-02 23:55:05+00:00,1466556556967772168,Rook,"Check out our November Development Update to see what the team and community have been up to!
+
+https://t.co/YinS5VyexA",14,2,2,2021-12-02
+386,2021-12-06 17:04:10+00:00,1467902699496779780,Rook,"The latest buyback has nuked 2,187 $ROOK ($330,789.71) from existence.
+
+https://t.co/8UPdc2ALAw https://t.co/9H5KBFkIzq",36,4,3,2021-12-06
+387,2021-12-22 21:51:08+00:00,1473773121224196106,Rook,"We will be releasing more information surrounding the economics and design of the Coordination Game over the upcoming weeks. If you are interested in participating as a Market Maker or Keeper, or want to learn more, join us at https://t.co/5wQpS43hDC!",19,0,0,2021-12-22
+391,2021-12-23 19:40:16+00:00,1474102578887618567,Rook,"Are you a Market Maker who is interested in participating in the Pilot Program or would like additional information? 
+
+Please reach out to us via Twitter or by email at kd@keeperdao.com.
+
+https://t.co/m5LlJoKwzP",10,0,2,2021-12-23
+398,2022-01-01 04:59:00+00:00,1477142289210351618,Rook,Happy New Year!,37,6,1,2022-01-01
+399,2022-01-04 22:26:31+00:00,1478493067585929216,Rook,"KIP-12 is currently submitted to our governance forums as a draft for comment before moving to a snapshot vote.
+
+We encourage everyone in our community to join the discussion around this KIP!
+
+https://t.co/dyJORGsdxR",9,1,0,2022-01-04
+404,2022-01-05 18:52:41+00:00,1478801642917187591,Rook,"A buyback and burn of 1,962.6 $ROOK ($329,030.23) was just completed, with an additional
+1,870.53 ROOK ($313,594.68) from the previous buyback also being burnt.
+
+https://t.co/YgrRlwXiqh
+
+https://t.co/q5u6dW0339 https://t.co/DJcGf7pRcV",35,4,3,2022-01-05
+405,2022-01-06 14:02:49+00:00,1479091086589108231,Rook,"KIP-12 is now LIVE for objection voting:
+
+https://t.co/auhD0qFrMO
+
+Voting runs until 23:00 UTC Saturday, January 8",9,0,1,2022-01-06
+406,2022-01-08 23:29:33+00:00,1479958484628213762,Rook,"KIP-12 voting has concluded with 0 objections and over 19k ROOK in support. 
+
+Please join us in congratulating our new leadership team of @0x81B and JZ as KeeperDAO's first CEO and CTO, respectively. 
+
+Congratulations Hazard and JZ! https://t.co/5sDfzJOe60",47,2,4,2022-01-08
+407,2022-01-12 21:02:44+00:00,1481371086503788555,Rook,"You can find more information on the economics of the Coordination Game at:
+https://t.co/BiDXUmUAmN",9,0,0,2022-01-12
+418,2022-01-13 20:28:30+00:00,1481724858828566530,Rook,"How about we do a little onboarding? @0x81B is moving fast to grow the team that will scale our Coordination Layer across all of DeFi.
+
+Over the next few days, we'll be introducing some big new additions. Let's get started! https://t.co/mhL7IitKfa",25,0,1,2022-01-13
+421,2022-01-14 19:18:38+00:00,1482069667657228293,Rook,"Coordination is coming to @bprotocoleth.
+
+Read the full details here: https://t.co/s7Rqai72sj https://t.co/U1EOqLOMsL https://t.co/o1RKsMDMrW",27,0,4,2022-01-14
+427,2022-01-17 18:18:22+00:00,1483141661484097537,Rook,"Daddy’s home!
+
+Excited to announce KeeperDAO’s new Treasury Specialist, DaddyMatty.
+
+A corporate mergers and acquisitions specialist, Matt will use his experience to identify and forge new strategic partnerships for KeeperDAO, while ensuring the growth of our $100M treasury. https://t.co/a3JJtNFOto",19,2,2,2022-01-17
+429,2022-01-18 22:21:23+00:00,1483565208232673282,Rook,"Imagine that!
+
+Excited to announce KeeperDAO's new MEV Research Partners @imagine_mev, @0xcuriousrabbit, @BehelitK et al.
+
+One of the most successful MEV teams in the world, they're joining KeeperDAO to help make the Coordination Layer the most advanced execution network in DeFi. https://t.co/G8CWCc9YOP",62,2,7,2022-01-18
+431,2022-01-24 22:58:59+00:00,1485748996467482624,Rook,"Want to solve hard problems, build more efficient markets, and work at the frontier of decentralized finance?
+
+As part of our scaling efforts we’ve just launched our job board and are hiring for 20+ roles:
+https://t.co/4a8FeXhMAj",36,3,6,2022-01-24
+435,2022-01-26 17:19:22+00:00,1486388307416301572,Rook,We will be hosting a KeeperDAO Community Call this Thursday at 6PM UTC where JZ will discuss CG Development and a coordinated future. https://t.co/5fI7Cok0RR,10,1,0,2022-01-26
+439,2022-01-27 15:45:51+00:00,1486727160119185421,Rook,"Join us for a special KeeperDAO Community Call at 6PM UTC today for a comprehensive look into the Coordination Game with our CTO, JZ. 
+
+You won't want to miss it.
+
+https://t.co/2J6tBfEVhT https://t.co/YzYwy8yf8f",14,1,1,2022-01-27
+440,2022-01-31 22:28:22+00:00,1488278007097798662,Rook,"Join us for another KeeperDAO Community Call this Thursday at 6PM UTC. 
+
+We will be hosting @MBRichardson87, Head of Research at @Bancor, and you won't want to miss it.
+
+https://t.co/2J6tBfWwGt https://t.co/gANNeufoaz",45,1,12,2022-01-31
+441,2022-02-02 20:00:04+00:00,1488965460641165317,Rook,"By coordinating position updates with our network of keepers, Gamma’s Hypervisors will more fully capture the value created by their own rebalances...",9,1,0,2022-02-02
+449,2022-02-04 02:03:59+00:00,1489419434523602944,Rook,"As of today we have reached a critical milestone in Coordination Game rollout. 
+
+Multiple Keepers are now integrating and will soon be testing infrastructure on mainnet.
+
+As we all know, the Coordination Game tokenomics are a complete overhaul of the status quo.",57,1,6,2022-02-04
+458,2022-02-05 15:28:56+00:00,1489984394899210241,Rook,"Reminder: The Hiding Game emissions will end with block 1419334. At that block, we will reset the Hiding Book, and all outstanding orders will be cancelled.
+
+https://t.co/VZXNctUjrM https://t.co/1WTKeWLx6p",11,0,1,2022-02-05
+459,2022-02-07 20:53:15+00:00,1490790785310240776,Rook,"You are cordially invited to join us this Thursday at 8PM UTC for a Community Call hosted by 
+@KeeperDetz.
+
+The @maplefinance team will be stopping by for an AMA right in our very own Discord server. Be there!
+
+https://t.co/2J6tBfWwGt https://t.co/4tOZVynrDl",19,2,5,2022-02-07
+460,2022-02-08 21:55:41+00:00,1491168887119187968,Rook,"KIP-14 is now LIVE for objection voting:
+
+Allocate $5,000,000 in stablecoins to act as a traveling liquidation backstop for B.Protocol B.AMMs
+
+https://t.co/zDBmsnmKRN
+
+Voting runs until 5:00 PM UTC on Friday 11 February.",7,1,0,2022-02-08
+461,2022-02-10 16:51:29+00:00,1491817104995143680,Rook,"Going to @EthereumDenver? 
+
+Don't miss out on the Boomer Nation networking event co-hosted by: 
+
+@bprotocoleth | @MEVprotection | @UMAprotocol | @paraswap | @immunefi | @gnosischain | @Keeper_DAO 
+ 
+Wed. 2/16 | 11AM-1PM | Mirus Gallery
+
+RSVP: 👇
+https://t.co/A02vJ6gw2u",17,2,0,2022-02-10
+462,2022-02-26 16:31:37+00:00,1497610310898925568,Rook,"KIP-15 and KIP-16 are now LIVE for objection voting:
+
+KIP-15: KeeperDAO Labs Budget March-June 2022
+
+https://t.co/IKHWOINRP7
+
+KIP-16: Sunset the Hiding Vaults product
+
+https://t.co/Vj7sXXrgBN
+
+Voting runs until 8:00 PM UTC on Monday 28 February.",11,1,2,2022-02-26
+463,2022-02-28 21:50:10+00:00,1498415256225341441,Rook,"Check out the KeeperDAO Act V Recap, including:
+
+ 🦾 Development Updates
+ 💸 KIPs and Treasury Investments
+ 💱 DAO changes
+ 📝 Ecosystem Coordination
+
+Full recap: https://t.co/Q5ZRR2OXO9",18,2,4,2022-02-28
+464,2022-03-01 19:20:48+00:00,1498740054071693312,Rook,"Catalog, a revolutionary new cross-chain trading system secured by the power of Ren, is coordinating with KeeperDAO.
+
+https://t.co/tRCq5SgnW3
+
+🧵⤵️ https://t.co/fo9nEswZQ7",113,4,52,2022-03-01
+473,2022-03-04 17:30:10+00:00,1499799373286420488,Rook,"Ash appears!
+
+We are excited to announce @leveredlong1, KeeperDAO’s new Frontend Engineer. 
+
+An application engineer interested in service automation and MEV, Ash received a community grant in Oct ‘21 to help build our metrics dashboard, before starting work on the Trade v3 app. https://t.co/xVg3eEnyPC",23,2,1,2022-03-04
+475,2022-03-07 21:28:39+00:00,1500946553766350850,Rook,"Gman is on the scene!
+ 
+KeeperDAO’s newest DeFi Engineer, @0xGman, is a builder and a breaker:
+
+""I got into cyber security after I found out I like breaking things, and I've always loved DeFi due to its security, resiliency, and ability to align incentives."" https://t.co/VCvaCWNKcB",16,1,1,2022-03-07
+477,2022-03-11 20:53:09+00:00,1502387170518224913,Rook,These orders are protected from MEV and every time your order fills you earn $ROOK from arbitrage profits that the Coordination Protocol shares with you automatically.,11,1,2,2022-03-11
+488,2022-03-15 20:37:09+00:00,1503832695926886405,Rook,"We’d like to extend you an invitation to join us this Thursday at 8PM UTC for the next Community Call hosted by our very own @KeeperDetz.
+
+The @tallycash team will be stopping by our Discord server to discuss building the Web3 wallet for the open internet. See you there! https://t.co/zsZC11GbVy",16,0,1,2022-03-15
+489,2022-03-18 17:51:38+00:00,1504878205827784712,Rook,"Zubair has landed!
+
+Excited to announce @ChaudhryZubair, KeeperDAO’s new backend engineer.
+
+Zubair is a detail-oriented engineer with more than 10 years experience creating high-performance systems and algorithms for demanding development environments, most recently at PIMCO. https://t.co/GF1p4n6Cni",11,2,1,2022-03-18
+491,2022-03-21 20:17:42+00:00,1506002130217410567,Rook,"Dean is on the scene!
+ 
+KeeperDAO’s new Marketing Director brings his ad agency experience and former accredited financial markets trading career.
+
+""If you missed the 90's dot-com boom, here's your 2nd chance. DeFi is the future.
+
+All welcome. Let's connect!""- @Deanonomics https://t.co/ykQcfbF6pk",17,0,0,2022-03-21
+492,2022-03-22 18:23:16+00:00,1506335720717406225,Rook,"Stile was drawn to KeeperDAO’s vision of a secure, egalitarian, and profitable network for all.
+
+His first goal here is ""to harness data and engineering to build a trading app unrivaled anywhere in DeFi."" We like the sound of that!
+
+Welcome Stile!",8,2,0,2022-03-22
+494,2022-03-23 15:46:49+00:00,1506658733639749651,Rook,ANNOUNCEMENT: @BastionTrading joins @Keeper_DAO's #CoordinationGame as a dedicated market maker. https://t.co/h6J2rvpjmr,20,2,3,2022-03-23
+498,2022-03-31 19:29:09+00:00,1509613790890971142,Rook,"Voting will run for 3 days, ending at 4:00 PM UTC (12:00 PM EST) on Sunday, 3 April. 
+
+For more information surrounding these KIPs and the governance process, please join the official KeeperDAO Discord at https://t.co/5wQpS43hDC",8,1,0,2022-03-31
+503,2022-04-01 14:00:40+00:00,1509893513751760903,Rook,"Through the #CoordinationGame, market makers like Amber Group are able to access the whole spectrum of liquidity - both on and off-chain, through a single, easy integration.",7,1,1,2022-04-01
+506,2022-04-04 16:39:46+00:00,1511020716107444235,Rook,"Voting for KIPs 17, 18, and 19 concluded yesterday, with all three KIPs passing with no objections. For a more detailed look at the KIPs, check out the thread below!
+https://t.co/zF2Nj8KFhH
+🧵⤵️",5,2,1,2022-04-04
+510,2022-04-06 15:12:40+00:00,1511723573093801990,Rook,"Perry is here!
+
+Meet Perry, @Keeper_DAO's new product engineer.
+
+Perry is a backend software engineer who brings his experience from AWS to leverage cloud compute technologies to design and create available backend services for our products. https://t.co/T70q5x9GzH",16,1,1,2022-04-06
+511,2022-04-07 15:36:44+00:00,1512092017257549827,Rook,"On your marks, get set.. Marko!
+
+Meet @markoxvee, KeeperDAO’s new Product Designer. 
+
+With a decade of hands-on experience over entire product development cycles, Marko will help @Keeper_DAO create meaningful experiences, seamless interactions, and effective design that converts. https://t.co/baGULTppQX",17,1,1,2022-04-07
+512,2022-04-11 19:03:10+00:00,1513593516718501891,Rook,"They become the third market marker, along with @BastionTrading and @ambergroup_io, to participate in the Coordination Game, which grants access to liquidity of on-chain and off-chain markets through a single, easy integration.",8,0,1,2022-04-11
+515,2022-04-15 17:43:57+00:00,1515023135422230528,Rook,"KeeperDAO’s Sophons have recommended ADOPT for KIP-20 and KIP-21. Voting is now live at https://t.co/zF2Nj8KFhH!
+
+KIP-20: Fund an R&amp;D grant to study a dedicated arbitrage service for TWAMM
+
+KIP-21: Extend KIP-12 until the end of Q2 2022
+
+Voting ends at 1:00 PM EST on April 18th.",7,0,0,2022-04-15
+516,2022-04-21 00:27:07+00:00,1516936535148433408,Rook,https://t.co/7X7Z1xDvV8,57,6,17,2022-04-21
+517,2022-04-22 01:38:16+00:00,1517316824848756737,Rook,"Patch Notes
+- Coordination Engine is now live
+- KeeperDAO is now Rook
+- $ROOK is now deflationary
+- Every trade on https://t.co/2hr6dstZLu now gets you $ROOK from MEV
+- You can now stake your $ROOK for more $ROOK in the app
+
+https://t.co/ziLJIjBazA https://t.co/klaYen9D1F",102,13,26,2022-04-22
+521,2022-04-23 00:47:06+00:00,1517666338033963008,Rook,"@TrustlessState @EFDevconnect Yes to this: MEV! 
+Well said @TrustlessState
+
+MEV has now surpassed +$1 billion and it's not coming from thin air (check your pockets).",2,0,0,2022-04-23
+523,2022-04-24 14:19:16+00:00,1518233113373159425,Rook,"We've seen over 141K $ROOK staked in less than 72 hours. 
+
+Let's kick it up a notch.
+
+Introducing the Staking Boost Program:
+
+https://t.co/8Ir7LacrlH
+
+Stake $ROOK here: https://t.co/inSbsZIjIn https://t.co/1t6rVkVema",45,0,4,2022-04-24
+525,2022-04-25 23:25:25+00:00,1518732943723704320,Rook,"Catch up on all the breakthrough new tech and tokenomics released by the @Rook Labs team this week.
+
+Then try it yourself - https://t.co/2hr6dstZLu
+
+https://t.co/BhbCkkP09Z",154,21,26,2022-04-25
+531,2022-04-26 11:53:44+00:00,1518921266874523654,Rook,@dayofthetech https://t.co/Q7P8skuSVv,1,0,0,2022-04-26
+532,2022-04-27 21:32:56+00:00,1519429411774386176,Rook,"24 hours left to stake your $ROOK before the deposit fee is turned on.
+
+Are you rookpilled yet? https://t.co/oaDv8OqxDW",39,2,5,2022-04-27
+534,2022-05-02 20:22:28+00:00,1521223618331557889,Rook,"Interested in joining our galaxy-brained team and help shape the future of blockchain transactions with us?
+
+Check out our open roles here:
+https://t.co/LHwEj9vKYo",5,0,0,2022-05-02
+538,2022-05-04 18:33:18+00:00,1521920923615604738,Rook,"Join us tomorrow for an AMA with @PrimalGlenn from @Bancor to hear about their upcoming v3 launch and single-sided $ROOK staking. 
+
+⏰  3 PM EST / 12 PM PST
+
+📍Rook Discord
+
+🔗 https://t.co/Kcmnjx8Qfp",25,1,11,2022-05-04
+539,2022-05-07 07:15:44+00:00,1522837570161643521,Rook,"$100M on-chain with #ZeroSlippage and #ZeroGas?
+
+...
+
+...",60,6,8,2022-05-07
+540,2022-05-10 19:20:08+00:00,1524107035612172288,Rook,"Meet Birdman, our new Sr Frontend Engineer!
+
+Former-ornithologist-turned-frontend-engineering-superstar, Birdman's mission is simple: 
+
+“To establish Rook’s frontend trading platform as the best in web3.”
+
+↓ https://t.co/arjRQJPtnO",17,1,0,2022-05-10
+543,2022-05-11 14:33:03+00:00,1524397178021715968,Rook,"Are you also an accomplished academic, ready to swap the dusty halls of your university library for the buzz of working in web3?
+
+Come join Rook Labs in our mission to improve on-chain transactions. 
+
+Check out our open roles here:
+
+https://t.co/LHwEj9vKYo
+
+#web3 #DeFi",2,0,0,2022-05-11
+547,2022-05-13 20:18:20+00:00,1525208845240283141,Rook,"Ever wondered how a billion dollar wallet trades on-chain?
+
+This thread follows one anonymous whale through a complex $110M trade, and boils everything down into strategies that can help you guys save on gas and get better execution.
+
+🧵 🐳 https://t.co/tW9jcGsi1I",1719,77,378,2022-05-13
+551,2022-05-23 23:49:41+00:00,1528885911307493377,Rook,"We’re stoked to win a C.o.R.E.3 Tokemak reactor! More liquidity = good for $ROOK.
+
+Congrats to our cohort @BreederDodo @redactedcartel @SiloFinance @BitDAO_Official and shoutout to the @TokenReactor team.
+
+Thanks to all who voted for us (👀@AlchemixFi), big things in the works! https://t.co/3vgT1FphOS",63,3,9,2022-05-23
+552,2022-05-25 18:16:29+00:00,1529526835477811200,Rook,"Meet @GuardAOR, our new Legal Strategy Specialist.
+
+Guard is a lawyer and legal scholar with a PhD from the University of Oxford, where he taught law for five years, focusing on contracts and trusts. 
+
+↓ https://t.co/5B3xkGmCUp",15,2,0,2022-05-25
+554,2022-05-31 15:19:39+00:00,1531656659340169217,Rook,"It turned out the whale was right (they often are) — and their new order was filled a few hours later, saving them 73 WETH, and earning 210 $ROOK of MEV.
+
+Trade on Rook where you get gasless orders &amp; cancels and get paid to trade. https://t.co/2hr6dstZLu",20,0,2,2022-05-31
+557,2022-06-01 10:00:09+00:00,1531938642804891650,Rook,"Meet @StefChiorboli, our new People Operations Lead!
+
+Stef joined Rook Labs earlier this month, and is working on helping us provide our contributors with a quality of life that's unrivaled in DeFi.
+
+↓ https://t.co/yYX5EdU51C",19,2,0,2022-06-01
+559,2022-06-09 15:39:25+00:00,1534923124780589056,Rook,"New research ✨📝 from our own @jwindawi on how blockchains are recombining with core institutions to create Digital Economies and Extra-Instititional Trust.
+
+Check it out! 👇 https://t.co/OnlyiH4Z87",21,0,5,2022-06-09
+560,2022-06-10 19:50:55+00:00,1535348806518050816,Rook,"$ROOK is now live on @Bancor 3! 
+
+LP with:
+
+💧 Single-Sided Liquidity
+⚡️ Instant Impermanent Loss Protection
+💰 Auto-compounding returns
+💪 Help $ROOK build healthy liquidity
+🌱 Sustainable yields
+
+Deposit now: https://t.co/3Ya7yfe2iN
+
+Staking guide: https://t.co/aQHnsWH80A https://t.co/0Eh52TC2SN",52,2,16,2022-06-10
+561,2022-06-14 10:00:26+00:00,1536649759812792320,Rook,"@Uniswap But this unlucky trader wasn't using Rook! They were trading in the wild. So all their MEV ended up in the pocket of the market maker on the Rook orderbook.
+
+Fortunately for them, the market maker was VolleyFire, founded by @Rook CTO Joey Zacherl",13,1,0,2022-06-14
+569,2022-06-15 16:12:51+00:00,1537105868231102464,Rook,"Our treasury is ready to deploy over $16M in stablecoins that were parked in our LPs.
+
+Are you a protocol looking for a strategic investment or interested in having our assets staked on your app? 
+
+Join our discord or DM us today. We'd love to coordinate. https://t.co/n2GTPBp1a2",53,9,11,2022-06-15
+570,2022-06-20 16:56:39+00:00,1538928827757432838,Rook,"The Sophons have reached consensus on a recommendation to adopt KIP-24: Strategic Use of ETH for Yield Generation. 
+
+Voting is now live on Snapshot at this link: 
+https://t.co/9VcIfyRZby
+
+The vote will run for three days, until noon EST (6PM UTC) on June 23.",14,1,0,2022-06-20
+573,2022-06-21 15:36:36+00:00,1539271071219826691,Rook,"A $15,000 fat-finger mistake usually means you're REKT.
+
+But check out how Rook saved a trader from himself and how you can sleep easy by setting your bids on https://t.co/2hr6dscoTW https://t.co/HJJFPb1YXD",17,0,5,2022-06-21
+574,2022-06-23 19:00:05+00:00,1540047055950733313,Rook,"Who doesn’t want extra $$$?
+
+This user's $USDC/$WETH trade earned an extra $542.93 of #MEV paid in $ROOK thanks to a Keeper's creative order routing.
+
+Start earning from your orders at https://t.co/2hr6dstZLu
+
+Tx details: https://t.co/lQjfJm7bIB
+Keeper: @imagine_mev https://t.co/dTJyXXCzjC",27,0,7,2022-06-23
+580,2022-06-28 21:15:29+00:00,1541893071582859264,Rook,"Catch up on today's Treasury Tuesday call:
+
+📰 DeFi current events
+🗺️ Treasury Charter
+💸 Stablecoin Deployment
+
+https://t.co/ph9NM9gxC4",12,0,1,2022-06-28
+581,2022-06-29 20:59:42+00:00,1542251486394155009,Rook,"Catch up on today's Governance Workshop call:
+
+🔬 Proposal Reviews
+🏦 Internal and External DAO structures
+🤝 Measuring Consensus
+
+https://t.co/PTJoETFENe",10,0,0,2022-06-29
+582,2022-07-01 14:18:05+00:00,1542875189402148864,Rook,"Everyone is welcome to join us today for a pair of sessions with contributors from Rook Labs covering everything in the Q2 report, taking questions, and hanging out.
+
+Q2 Report - Engineering; 11AM EDT, 3PM UTC
+Q2 Report - Operations; 3PM EDT, 7PM UTC
+ 
+https://t.co/iazppQHjwj",10,0,1,2022-07-01
+585,2022-07-06 01:40:28+00:00,1544496472128778242,Rook,@indexcoop @schorgie30 @DaddyMattyETH https://t.co/Be4cSFQbzv,3,0,0,2022-07-06
+591,2022-07-07 16:45:43+00:00,1545086670516748288,Rook,"Thanks for the shoutout @Sam_Bronstein! Our team has made a commitment to increased transparency and quality risk management not just for the DAO's assets, but in all aspects of operations.
+
+Interested in learning more about @Rook? Join our Discord: https://t.co/Q7P8skuSVv https://t.co/0vBcOuxyCb",11,1,0,2022-07-07
+593,2022-07-08 18:20:45+00:00,1545472974219710464,Rook,"Wednesday's Governance Workshop was a lively one.
+
+We'll be continuing that discussion and more at our weekly Town Hall in less than an hour (3 PM EDT). See you in the Discord! https://t.co/Q7P8skdhwV
+
+Get the lowdown on KIP-21 and the Gov Workshop here:
+https://t.co/Hu3oPhsOhQ",8,2,0,2022-07-08
+596,2022-07-12 17:41:53+00:00,1546912745617969152,Rook,"If we let the traditional #PFOF model get a foothold in #DeFi it will be catastrophic. 💥💥💥
+
+Listen to @0x81B discuss this on the @PoolTogether_ podcast. https://t.co/An5OpyQtXJ",29,2,7,2022-07-12
+598,2022-07-14 16:00:25+00:00,1547611986732560388,Rook,"@0x81B @PoolTogether_ Learn more about how Rook is enabling DePFOF here:
+https://t.co/kJcBoDqs8z",8,0,1,2022-07-14
+600,2022-08-03 19:00:20+00:00,1554905020058898432,Rook,"#Ethereum users, there's a bunch of money being taken out of your pockets and you don't even know it.
+
+That's not good user experience, right?
+
+Catch @0x81B talking to @IanAndrewsDC on the @chainalysis podcast here: https://t.co/wxRjyO7RTE
+
+#MEV #Rook https://t.co/Ti0XYwsRmo",15,0,7,2022-08-03
+601,2022-08-04 21:41:56+00:00,1555308077984800768,Rook,"@jwindawi led our Workshop yesterday where discussion revolved around edge cases of reconciliation.
+
+We'll have an open floor this Friday at 3pm EST after our Status Update for more analysis.
+
+Make your voice heard at our next Workshop 8/17 at 3pm EST!
+
+https://t.co/D57GgTa3zA",1,0,0,2022-08-04
+603,2022-08-08 16:00:28+00:00,1556671695980638209,Rook,"Did you miss our very own @0x81B on the @chainalysis podcast talking about #Rook and #MEV?
+
+Full episode and timestamps here: https://t.co/wxRjyO7RTE",20,0,1,2022-08-08
+604,2022-08-10 20:20:15+00:00,1557461849225846784,Rook,"At our weekly Treasury Tuesday, @DaddyMattyETH covered:
+
+- Recent KIPs
+
+- The impacts of #TheMerge and the recent #TornadoCash sanctions
+
+- Our upcoming Treasury Management Framework
+
+https://t.co/R7cIYNsjKV",7,1,2,2022-08-10
+605,2022-08-12 19:45:29+00:00,1558177874795909120,Rook,"Rook will have a scheduled downtime for maintenance on Saturday, August 13 starting at 4 PM UTC.
+
+The downtime should take about 2 hours.",9,2,1,2022-08-12
+606,2022-08-15 19:31:29+00:00,1559261514267168768,Rook,"Recent news have you worried about your #stablecoin holdings?
+
+Might be time to diversify.
+
+Lucky for you, Rook Trade is ideal for 1-1 stablecoin trades.
+
+Check out these huge examples from the past month…
+
+🧵",35,10,10,2022-08-15
+612,2022-08-18 17:48:55+00:00,1560322868080103425,Rook,"At the Governance Workshop yesterday, @jwindawi led analysis on:
+
+- Sophon requirements and term lengths
+- Token weighting
+- Fast track solutions for gov emergencies
+
+Join us Friday at 3pm EST for our Status Update
+&amp; Tuesday 3pm EST for Treasury Tuesday
+
+https://t.co/hta2pySw5S",5,2,2,2022-08-18
+613,2022-08-19 20:29:42+00:00,1560725718824169473,Rook,"Ever wondered what you could do with a money printer? 💸💸💸
+
+Learn about the history of MEV from @Rook Co-founder Joey Zacherl's presentation at @DeFi_Conference
+
+https://t.co/CGcqSssuB4",24,3,9,2022-08-19
+614,2022-08-23 17:17:38+00:00,1562126931704762368,Rook,"Wondering what our #DAO has been up to?
+
+Check out our recent Status Update hosted by @Keeperdetz
+
+And don't miss our events this week:
+Treasury Tuesday - Today at 3pm EST
+Office Hours - Wednesday 3pm EST
+
+See you there!
+
+https://t.co/omYiJtGFwz",15,2,1,2022-08-23
+615,2022-08-24 19:07:15+00:00,1562516908254998528,Rook,"Wondering what our #Treasury has been up to?
+
+Check out this thriller hosted by @DaddyMattyETH 
+
+Join the next Treasury Tuesday on 8/30 at 3pm EDT
+
+See you there!
+https://t.co/PKGbwKKqus",4,1,0,2022-08-24
+616,2022-08-25 20:38:17+00:00,1562902202514935810,Rook,"Check out Joey Zacherl opening up @DeFi_Conference with his crowd-pleasing rundown of the past, present, and future of #MEV.
+
+Bet there's some alpha about #Rook in there too...
+
+https://t.co/ix9UIpXOw4",16,1,2,2022-08-25
+617,2022-08-26 20:02:59+00:00,1563255710036545537,Rook,"Everyone is getting their order flow #REKT by #MEV.
+
+❌ Traders
+❌ Whales
+❌ DAOs
+❌ DEX Aggregators
+❌ Blockchain Infrastructure Providers
+
+That includes you. ☠️☠️☠️
+
+@Rook enables you to own your order flow.
+
+@DeFi_Conference https://t.co/zJ0E2w2Dza",26,4,8,2022-08-26
+618,2022-08-30 19:20:38+00:00,1564694604418797569,Rook,"Solving #MEV is like ""solving"" gravity. It's not going anywhere.
+
+We need to harness it and provide value to the people generating it.
+
+@Rook CTO Joey Zacherl speaking @DeFi_Conference https://t.co/CONxvG60Da",23,3,6,2022-08-30
+620,2022-08-31 15:43:27+00:00,1565002332521185280,Rook,"Join our AMA with the KIP Draft Authors at the Governance Workshop today, 3pm EDT!
+
+Please bring your questions or submit them on https://t.co/2L1mj9VQdm to make your voice heard.
+
+And don't miss the Rook DAO Status Update at 3pm EDT this Friday.",2,0,0,2022-08-31
+622,2022-09-01 19:00:19+00:00,1565414266261278720,Rook,"The status quo of #MEV isn't giving you what you deserve.
+
+#Rook is giving MEV back to the user who generates it (you) by redistributing it from the application layer.
+
+We can even use cool tools like 🤖#Flashbots seamlessly. We're all stronger together.
+
+@DeFi_Conference https://t.co/s4uegFGJZU",16,0,1,2022-09-01
+623,2022-09-06 18:18:04+00:00,1567215570315284480,Rook,"Missed our Status Update this past Friday? We have a recap just for you. 
+
+A hint of what our DAO has been up to:
+- Swap Protocol on Testnet
+- TxRelay and DEX integrations
+- Auction filters to our API and UI
+
+Events this week:
+- Treasury Tuesday 3pm EDT 
+
+https://t.co/UrwhqbwtOc",14,2,1,2022-09-06
+624,2022-09-07 18:22:30+00:00,1567579075237265408,Rook,"Our recent Treasury Tuesday was full of juicy information:
+
+- Recently passed proposals
+- The Free Float DAI proposal from Rune
+- An initial Treasury Management Framework Draft 
+
+Want to collaborate? Join Office Hours today at 3pm EDT in the Rook Discord.
+
+https://t.co/WoEyggwuE4",4,3,2,2022-09-07
+625,2022-09-08 20:00:27+00:00,1567966113950203904,Rook,"Plenty more in the pipeline where that came from.
+
+But for now go get hands-on with the next generation of DEX and see for yourself.
+
+https://t.co/2hr6dscWJu",7,0,0,2022-09-08
+635,2022-09-15 20:48:43+00:00,1570514974262579200,Rook,"At our workshop yesterday, hosted by @jwindawi, we began reshaping the process to onboard Sophons.
+
+Want to contribute too? Join us at these upcoming meetings in the Discord:
+
+Status Update - Friday 3PM EDT
+Treasury - Tuesday 3PM EDT
+
+https://t.co/Y1w5Ey6vwM",7,0,0,2022-09-15
+636,2022-09-16 17:00:11+00:00,1570819852071477249,Rook,"We have two active votes in their final ~24 hours of voting, so check them out and vote if you haven’t already!
+
+https://t.co/zF2Nj8Ld7f https://t.co/f7uvWXWP99",3,1,1,2022-09-16
+639,2022-09-19 17:00:22+00:00,1571907058538262528,Rook,"Our Status Update on Friday covered all DAO activities the past two weeks which included updates on our Swap Protocol development, improvements made to the API, &amp; compensation design.
+
+Events this week:
+Treasury - Tues 3PM EDT
+Office Hours - Wed 3PM EDT
+
+https://t.co/z0w54LTGhz",5,1,1,2022-09-19
+641,2022-09-20 21:45:35+00:00,1572341223834423296,Rook,"Today's Treasury Tuesday covered:
+
+- ETH tranche deployment
+- Initial reports on KIP-30 for the community
+- The Treasury Management Framework
+
+Hosted by @slurperinoo
+
+Check out the full recap here:
+https://t.co/b5vfMfrd69",3,1,0,2022-09-20
+642,2022-09-22 14:37:20+00:00,1572958228002250754,Rook,"""One of the most stand out counterexamples, Rook has an incredibly diverse treasury with its top 5 holdings having a 30% share or less. This kind of runway will help Rook continue to operate into the future and survive downturns, bear markets, and black swan events."" https://t.co/nodtIkmgGJ",15,2,1,2022-09-22

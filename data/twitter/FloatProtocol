@@ -1,0 +1,370 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2021-01-17 17:04:56+00:00,1350851610675703811,FloatProtocol,Building the native currency of web3 🧙‍♂️. More info soon.,3,1,0,2021-01-17
+1,2021-01-25 21:44:55+00:00,1353821175525363712,FloatProtocol,"FLOAT is a completely different kind of stablecoin. Instead of being pegged to one value, it is designed to 'float' over time as demand for both itself and crypto changes.
+
+Here is a thread about why this is needed: 👇 (1/5)",12,2,2,2021-01-25
+6,2021-01-27 21:12:56+00:00,1354537902332588041,FloatProtocol,"The dollar is a symbol of traditional, centralised finance and its value system.
+
+Crypto needs a symbol of stability that is decentralised and underpinned by its own value system. https://t.co/aqSvQmgKwP",7,1,0,2021-01-27
+7,2021-01-28 22:58:38+00:00,1354926890918830083,FloatProtocol,"The very word 'stablecoin' implies being 'stable' relative to something we care about. 
+
+The question is, what do we care about?",4,1,0,2021-01-28
+11,2021-01-30 01:27:48+00:00,1355326815640965121,FloatProtocol,"As you can see, FLOAT is not designed to hold a certain value in $ but rather be a less volatile representation of the crypto economy",1,0,0,2021-01-30
+17,2021-01-31 18:07:02+00:00,1355940669651619840,FloatProtocol,"The ratio between the value of the Vault and the total value of FLOAT at target price is called the Vault Factor. Therefore, at the beginning, the Vault factor should equal 100%. In general (until changed by a governance vote), the Target Vault Factor will be 100%.",0,1,0,2021-01-31
+29,2021-02-01 22:45:10+00:00,1356373051345141761,FloatProtocol,More details to come in the coming days 🤘,1,0,0,2021-02-01
+34,2021-02-02 17:14:08+00:00,1356652133450407936,FloatProtocol,"With FLOAT, it will sometimes be necessary to stabilise the price if it is away from Target Price... (1/2)",1,1,0,2021-02-02
+36,2021-02-03 18:54:47+00:00,1357039849539325955,FloatProtocol,"To buy the available FLOAT, arbitragers must pay in a blend of ETH and BANK.
+
+In general, if the Vault Factor were at target (100%) we would take the Target Price in cryptocurrencies and the extra amount above the Target in BANK tokens.
+
+(4/7)",0,1,0,2021-02-03
+47,2021-02-04 20:24:00+00:00,1357424688381755393,FloatProtocol,"The BANK used to buy FLOAT is minted ex nihilo (meaning this will decrease the price of BANK, ceteris paribus).
+
+(10/10)",0,0,0,2021-02-04
+57,2021-02-07 22:03:22+00:00,1358536859413053441,FloatProtocol,For more details about the democratic launch and protocol - https://t.co/G3ZWOITKdv,0,0,0,2021-02-07
+66,2021-02-11 12:46:00+00:00,1359846147267981315,FloatProtocol,"We often get asked: is FLOAT a stablecoin? 
+
+The short answer is: not really! The long answer is complicated, time for a thread 👇",14,2,1,2021-02-11
+73,2021-02-12 18:25:06+00:00,1360293869645160449,FloatProtocol,"Bitcoin might be a medium of exchange some day, but today it's mostly an investment asset.
+
+In contrast, Float is something you can price your goods in that also protects your purchasing power. https://t.co/olPtj9cJy3",6,1,0,2021-02-12
+74,2021-02-14 23:25:34+00:00,1361094261773582338,FloatProtocol,"For every BANK token you own (either in your wallet, earned from the staking contract or staked in the uniswap pool), you will receive 1 vote.
+
+The vote will start 10pm UTC on Monday 15th February and end at 10pm UTC Wednesday 17th February,",0,1,0,2021-02-14
+82,2021-02-15 22:04:59+00:00,1361436371953594376,FloatProtocol,"The snapshot vote on expanding the whitelist as part of the BANK distribution is now live:
+
+https://t.co/MhDBdGcnpv",11,1,0,2021-02-15
+84,2021-02-16 23:09:29+00:00,1361814991565967365,FloatProtocol,"As our snapshot vote (https://t.co/NB4l3cFCX8) on expanding the initial whitelist continues, we're up to over 35% of BANK participating in the Snapshot vote in the first day! Excellent to see such a high voter turnout compared to the average in the space. 
+
+Some more info here 👇",4,1,0,2021-02-16
+87,2021-02-17 22:31:40+00:00,1362167858986430467,FloatProtocol,"The ayes have it with a 37% turnout.
+
+Yes: 55.56%
+No: 44.44%
+
+We will be expanding the whitelist to include governance participants from 6 new protocols. This will go live from 10pm UTC on Sunday 21st February!
+
+https://t.co/MhDBdGcnpv",8,2,0,2021-02-17
+88,2021-02-21 00:47:26+00:00,1363289190943842304,FloatProtocol,Slowly...then suddenly. https://t.co/dDEasTi7Kh,14,1,2,2021-02-21
+91,2021-02-22 21:35:03+00:00,1363965553522712588,FloatProtocol,We are looking forward to presenting publicly for the first time at this event and answering questions. https://t.co/Zc3v1FdN2x,28,0,5,2021-02-22
+92,2021-02-24 01:55:24+00:00,1364393460971827200,FloatProtocol,"🙏 Delighted that our first public presentation ended well by winning the audience vote and taking 3rd overall!
+
+Check out the video to see Paul M introduce the protocol.
+
+https://t.co/e59ulMznca https://t.co/GfHtPCJPgF",17,0,1,2021-02-24
+93,2021-02-25 00:29:38+00:00,1364734261958483971,FloatProtocol,"More and more people are discovering that crypto needs its own, bespoke denomination. It's what drives us to build FLOAT. https://t.co/WSzUcpLheV",23,0,6,2021-02-25
+94,2021-03-02 23:57:27+00:00,1366900489233776645,FloatProtocol,"Why should your stable crypto be devalued because of TradFi?
+
+https://t.co/RcB84ZPmXo",7,0,0,2021-03-02
+95,2021-03-03 21:49:18+00:00,1367230627712552960,FloatProtocol,Certainly a renaissance on the way but fiat-pegged stablecoins are leading us to murky waters. We think crypto can do better. Looking forward to Part 2 😉 https://t.co/MmfHzTKoHL,18,1,5,2021-03-03
+97,2021-03-05 22:23:01+00:00,1367963890978537472,FloatProtocol,https://t.co/Yp1KRakf1b is now our primary domain - we're going all in with @FleekHQ as our main gateway to @IPFS,25,3,9,2021-03-05
+98,2021-03-06 18:29:54+00:00,1368267613915262981,FloatProtocol,"@gabrielhaines @MonetSupply Fair from the outset, but more than a fork",14,0,2,2021-03-06
+100,2021-03-07 12:56:58+00:00,1368546213004509185,FloatProtocol,"We want the Protocol to run by its actual users, particularly those who are engaged and active. https://t.co/nI1HxPqylO",23,0,4,2021-03-07
+101,2021-03-08 20:57:51+00:00,1369029621883232257,FloatProtocol,"All's fair in love and crypto, except when it comes to launches. 
+
+Over 1798 have participated in our democratic launch so far. Here's why we chose the route we did and our thoughts on VC-funded launches too. https://t.co/vcvQe8JCTy",67,3,12,2021-03-08
+102,2021-03-09 17:56:16+00:00,1369346312890630151,FloatProtocol,It's nice to have issues when you grow too fast. Hot-fix in place on https://t.co/Yp1KRakf1b cascading out to other IPFS gateways at the moment. https://t.co/ZX8TmJbNFy,21,0,4,2021-03-09
+105,2021-03-10 22:11:12+00:00,1369772854632476677,FloatProtocol,"Demos cratos: your say, your vote, your BANK power.
+
+Join the forum and vote on Float Protocol governance now https://t.co/Pl6U27W0BG",25,1,5,2021-03-10
+106,2021-03-11 14:55:44+00:00,1370025655123906566,FloatProtocol,"Reminder! Our first community call is today. They are open to all and hosted by our friends @encodeclub. We will give an intro to the Protocol, a development update, discuss the upcoming 2nd Phase of BANK distribution plus a Q&amp;A. See you at 20:00 GMT
+https://t.co/tH9IMMULNB",22,2,4,2021-03-11
+107,2021-03-12 23:19:01+00:00,1370514697531895816,FloatProtocol,"Transcript and video now available for the first Float Protocol Community Call from Thurs 11th March!
+
+Check-out deepfake Beatles talking about the Protocol, impending launch and answering your questions.
+
+https://t.co/1kHQCF3QBN",19,3,5,2021-03-12
+110,2021-03-13 21:55:24+00:00,1370856043421560839,FloatProtocol,We wanted to have a multiple choice governance vote but sadly @SnapshotLabs  doesn't support that yet. So we forked snapshot to make it happen --&gt; Scattershot 🙂 https://t.co/3e5D1Pdeup,98,6,9,2021-03-13
+112,2021-03-14 23:03:52+00:00,1371235659676024847,FloatProtocol,Voting is live now for Phase 2 pools on Scattershot - A fork of Snapshot that you can pick more than one option with - Vote now! https://t.co/oO2yvxEIWk https://t.co/BObBv0R9pz,45,5,8,2021-03-14
+113,2021-03-15 19:05:52+00:00,1371538153841041412,FloatProtocol,"Don't forget, you can choose more than one option using Scattershot 😉",11,1,1,2021-03-15
+116,2021-03-16 23:28:21+00:00,1371966598119047173,FloatProtocol,"""One of the most beautiful things about crypto is the energy of decentralised community to support a network for both the benefit of others and oneself in the same action. It is this spirit that motivates everything we do at Float Protocol.""
+
+https://t.co/ETVj69BSOD",40,1,8,2021-03-16
+117,2021-03-17 22:09:07+00:00,1372309045864960004,FloatProtocol,@defi_kvn Hey Kevin - if you pm us on telegram (https://t.co/Z2kT4yGLHu) or discord (https://t.co/3H7CPCwWkU) we can look into this more closely for you,1,1,0,2021-03-17
+119,2021-03-18 12:56:46+00:00,1372532431069253636,FloatProtocol,"Scattershot is a hit. The majority of BANKers have already voted. Get your say in quick, voting closes tonight.
+
+https://t.co/oO2yvxEIWk",19,4,3,2021-03-18
+125,2021-03-19 22:26:02+00:00,1373038079649460224,FloatProtocol,"How does FLOAT compare to RAI (@reflexerfinance) and FEI (@feiprotocol)?
+
+It's a question we get asked all the time so we wrote an article answering it in full👇
+
+https://t.co/o2i7O5d9Kn",158,10,47,2021-03-19
+126,2021-03-20 21:27:48+00:00,1373385810746224642,FloatProtocol,"Phase 2 contracts have been deployed. Take a look here before the rewards start on Sunday the 21st of March at 10pm UTC.
+
+https://t.co/xhqx3m1D2O
+
+https://t.co/5Mpjd2kPTl",52,2,14,2021-03-20
+127,2021-03-21 18:19:08+00:00,1373700721158262786,FloatProtocol,"Phase 2 BANK rewards begin at 10pm UTC - get your stake in early with the updated UI:
+
+https://t.co/Yj0A6UNc4m",79,2,13,2021-03-21
+129,2021-03-22 10:40:17+00:00,1373947633513947136,FloatProtocol,"Just to reiterate, to engage in Phase 2 pools please head over to:
+
+https://t.co/Z6ys4S6B8t",21,3,2,2021-03-22
+131,2021-03-24 22:17:43+00:00,1374847926913142787,FloatProtocol,"Our first community proposal. End Phase 2 early, introduce Phase 3 which will last 6 weeks and only contain BANK-ETH SLP pool. Make your voice heard. Vote now on Scattershot: https://t.co/R8iwBmyv0F",66,8,12,2021-03-24
+133,2021-03-25 19:45:37+00:00,1375172033911386117,FloatProtocol,"Community call starting in 15 minutes. Sign up here:
+https://t.co/HleABRIs8V",16,0,4,2021-03-25
+134,2021-03-26 14:47:54+00:00,1375459500380069892,FloatProtocol,Strawberry fields forever 🏦 https://t.co/a0obpLzTRI,27,1,4,2021-03-26
+135,2021-03-28 18:08:07+00:00,1376234664868843520,FloatProtocol,"Phase 3 of BANK distribution starts in 4 hours. Here is what you need to know including the remaining pools and the distribution schedule for the next 6 weeks. 
+
+https://t.co/gdFUipsFrj",49,3,5,2021-03-28
+137,2021-04-01 20:40:59+00:00,1377722685661282306,FloatProtocol,"A bit of light-hearted fun on this day of jokes.
+
+Find BANK 😉 https://t.co/2LNN19mpN2",14,0,1,2021-04-01
+138,2021-04-04 22:03:37+00:00,1378830643921104897,FloatProtocol,Fresh BANK rewards prepared for the week as the 3rd Phase of BANK distribution continues at: https://t.co/Ge4G7wZD6m,18,0,5,2021-04-04
+141,2021-04-08 19:49:05+00:00,1380246339901083658,FloatProtocol,"Two of our band members are now on twitter:
+
+Paul M (@0x9Bf6) and John L (@0xBeB4)
+
+Give them a follow🤘 https://t.co/MF2G6TDngH",17,0,5,2021-04-08
+142,2021-04-13 16:29:14+00:00,1382007984281247748,FloatProtocol,Democracy and good governance are very important to us. Read here as we clarify the procedure to take part in demos kratos on Float Protocol. https://t.co/E5yQScsk7b,8,0,5,2021-04-13
+144,2021-04-14 16:14:12+00:00,1382366588184240131,FloatProtocol,"As Coinbase goes public, a reminder that crypto has not truly disrupted 'money'. Dollars aren't the answer. Digital dollars aren't the answer. ETH isn't the answer. The answer is yet to come.",60,5,10,2021-04-14
+146,2021-04-15 20:11:07+00:00,1382788600358694922,FloatProtocol,"Just to update everyone. Code is with the auditors over the next few weeks as per our Phase 3 roadmap. Watch this space for more announcements, including strategic partnerships, as we gear up for launch. 👀",38,2,5,2021-04-15
+147,2021-04-20 22:02:04+00:00,1384628460828696576,FloatProtocol,"We are changing a signer of our multi-sig, replacing one team member as a signer with @encodeclub. Read here as we discuss good governance of the Protocol moving forward. 
+
+https://t.co/10OFDL3iXP",26,0,5,2021-04-20
+148,2021-04-23 17:48:59+00:00,1385651931591413766,FloatProtocol,It’s time. After many requests we now have a Chinese Telegram group. Join here: https://t.co/Y7FgwQdy8f,11,3,1,2021-04-23
+149,2021-04-29 14:03:11+00:00,1387769433335140355,FloatProtocol,The initial minting ceremony of $FLOAT is right around the corner. Get ready. https://t.co/sPisZ3sZFd,15,0,2,2021-04-29
+150,2021-04-30 20:08:03+00:00,1388223643587682307,FloatProtocol,A brief history of $BANK distribution thus far https://t.co/hJBoA6pUCl,37,0,7,2021-04-30
+151,2021-05-01 20:00:01+00:00,1388584010838945792,FloatProtocol,More than a governance token - $BANK https://t.co/Sx285HIIP5,44,1,9,2021-05-01
+152,2021-05-05 18:34:48+00:00,1390012117890347009,FloatProtocol,2/ You can get a physical feel of our Dutch auctions and see how the $FLOAT price changes over time with real historical Ethereum price data of your choosing. Watch how $FLOAT and $BANK perform in various market conditions.,6,1,0,2021-05-05
+155,2021-05-09 22:02:05+00:00,1391513831172620288,FloatProtocol,"To buy FLOAT, you must first stake in the new BANK-only pool anytime from now, Sun 9th May, till Sat 15th May at 10pm UTC.
+
+This pool receives 400 BANK a week in rewards for 5 weeks (until Sunday 7th June at 10pm UTC).",2,1,0,2021-05-09
+156,2021-05-13 13:17:44+00:00,1392831425972424706,FloatProtocol,"""The lesson is that nothing lasts forever. The prudent should be preparing for the next monetary order, with all signs pointing to decentralized finance using a stablecoin as its reserve currency."" https://t.co/0hJe9V2qex",18,0,4,2021-05-13
+157,2021-05-14 14:06:45+00:00,1393206149160243202,FloatProtocol,First Dutch Auction starts on Sunday at 10pm UTC. We will get to use #Chainlink in action. https://t.co/KyCQfu5Xlz,52,0,7,2021-05-14
+158,2021-05-15 19:12:03+00:00,1393645370257903623,FloatProtocol,Last 3 hours to take part in Genesis. First Auction starts on Sunday at 10pm UTC. https://t.co/pA39k1Tbna,12,0,3,2021-05-15
+160,2021-05-16 23:14:36+00:00,1394068797703737347,FloatProtocol,The first auction is over. Success! $FLOAT price corrected to the nearest penny and someone made a cheeky profit arbitraging. Get ready for the next Dutch Auction. https://t.co/FxsGBO8Ga8,25,0,1,2021-05-16
+167,2021-05-17 20:58:06+00:00,1394396835964506117,FloatProtocol,"So what was the take-home profit for the last Dutch Auction?
+Well all except 1 participant (😬) made at least 5% profit. 
+
+💰 $39,122.31 for &lt;150 blocks of work.
+
+Next auction is in 1hr 25mins - a $WETH only auction so should be even easier to jump in. https://t.co/78KqYB8ZO6",8,0,0,2021-05-17
+170,2021-05-18 22:48:28+00:00,1394786994975301633,FloatProtocol,5% profit on 25 ETH - not bad at all. https://t.co/AMg7QkaVN9,15,2,1,2021-05-18
+172,2021-05-19 23:13:22+00:00,1395155650267779074,FloatProtocol,"$FLOAT has now fully corrected to target price - and the auction hasn't even needed to start! We're starting the transition into on-demand auctions with 24hr cooldown period. Anyone can start the auction, at any time. https://t.co/AHvGEesRRx",13,1,0,2021-05-19
+176,2021-05-20 20:47:56+00:00,1395481438800293889,FloatProtocol,"Looks like the $ pegged stablecoin market is going to get interesting. CBDCs are coming; and they're not going to be afraid to step on toes.
+
+Losing the peg and starting to $FLOAT is the way forward. https://t.co/tmHr9x8WKC",15,1,3,2021-05-20
+177,2021-05-22 16:27:08+00:00,1396140580980264960,FloatProtocol,"The auction opportunity once again ensured that we returned to target price. It's a magic combo:
+1) Profit for Arbitrageurs
+2) Profit for the Protocol's Basket
+3) A stable asset for FLOAT holders",3,0,0,2021-05-22
+178,2021-06-12 13:39:44+00:00,1403708601265446912,FloatProtocol,"@_cooin_ @AndreCronjeTech @newmichwill https://t.co/nEjNx1ozUG
+
+Is the link if you're curious - was great to create something a bit special with @observablehq.",3,0,0,2021-06-12
+180,2021-06-14 09:16:21+00:00,1404367094347612164,FloatProtocol,"What makes $FLOAT different from a diversified portfolio of stables + ETH?
+
+It's all in the target price👇",23,2,2,2021-06-14
+184,2021-06-17 13:06:38+00:00,1405512210084945929,FloatProtocol,"9/ Ditching the 1$ peg:
+1) Mitigates the impact of a bank run
+2) Ensures the protocol can always recover
+3) Allows you to benefit from market movements
+
+In return for these properties, you get a new ""risk"":
+Your stablecoin can move down as well as up.",7,1,1,2021-06-17
+191,2021-06-25 20:22:13+00:00,1408520931295871003,FloatProtocol,"@cunninghamkaito @OlympusDAO @AmpleforthOrg Absolute agree. What is your opinion on sticking to a $1 peg? The fact is that 1$ today != 1$ month from now.
+
+We felt that the only way to truly be ""stable"" is to lose the peg; and you actually gain more by doing so.",1,0,0,2021-06-25
+193,2021-06-28 15:48:16+00:00,1409539152056569858,FloatProtocol,"Join the discussion! The Basket is getting ready to generate some yield 🌱
+
+https://t.co/LK7H2ROoWq",8,1,1,2021-06-28
+195,2021-06-29 18:44:57+00:00,1409946002421858305,FloatProtocol,"⚽️ or 🟣? Well, @FloatProtocol just scored.
+
+In 150 blocks:
+📈Boosted the basket by 5% (+100 ETH)
+🟣144k new FLOAT
+⚡️3 @dydxprotocol flash loans
+💰1.1% pure profit for the Protocol (🔼basket factor)
+🤖How? #flashbots #MEV via our Dutch Auctions https://t.co/rWNanmIJus",23,2,3,2021-06-29
+197,2021-07-06 21:04:27+00:00,1412517825466580993,FloatProtocol,"Is it time to put the Basket to work? Have your say on what ETH pegged yield earning assets should be added to the Basket. Your $BANK, your say, your power.
+
+https://t.co/iJ2C73NgqV",3,1,2,2021-07-06
+198,2021-07-08 12:00:13+00:00,1413105641581842436,FloatProtocol,"@TokenInsight @feiprotocol @BasisCash @emptysetsquad Hey! Think you've got that TVL wrong - that sharp drop off seems to align with our new pool release.
+
+How are you calculating it? For instance if you're using the website it only include Staking TVL on the Staking page, not all value locked (and that is at minimum $12.52M)",0,1,0,2021-07-08
+199,2021-07-09 18:51:02+00:00,1413571412841873408,FloatProtocol,"Phase 4, what's next? Let's talk about it
+
+👉 https://t.co/GB8lCzWgLY",5,0,2,2021-07-09
+200,2021-07-11 13:08:36+00:00,1414210014894600196,FloatProtocol,"@TokenInsight @feiprotocol @BasisCash @emptysetsquad @DeBankDeFi You're also missing the primary basket:
+
+1/ ETH Basket - $3.7m https://t.co/cgfH38ZjHU",0,0,0,2021-07-11
+201,2021-07-12 09:11:40+00:00,1414512772633800706,FloatProtocol,Join the discussion on the next set of rewards for the FLOAT-ETH pool https://t.co/FQFuyCo4vA,7,0,2,2021-07-12
+202,2021-07-14 22:39:06+00:00,1415440747277561857,FloatProtocol,The diversification of the treasury will aid with potential integrations further down the line and allow the Protocol to hire and incentivise Community members as we grow towards becoming the unit of account of the DeFi economy. ✌,1,0,0,2021-07-14
+207,2021-07-15 00:33:13+00:00,1415469464385097729,FloatProtocol,"🏦After diligent discussion on the Forum here is the moment you have been waiting for this week. Time to vote on the Phase 4 (III) pools and rewards 👇
+https://t.co/Jt43MFwEY2",1,1,0,2021-07-15
+208,2021-07-18 20:53:46+00:00,1416863791707471872,FloatProtocol,"🏦🧙👩‍🌾 Governance Galore, basket bags, building new pools, and treasury diversification 👀👀👀. Catch up below👇
+
+https://t.co/GfyoQ5lMmA",4,0,0,2021-07-18
+209,2021-07-20 23:43:29+00:00,1417631276727738369,FloatProtocol,"🏦🏦🔨🔨🔨🔑🔑🔑
+
+Vote on mutisig signers and asset allocation of the treasury live now 👇
+
+https://t.co/dy8fmNBtUs",10,1,0,2021-07-20
+210,2021-07-22 20:28:40+00:00,1418307027907010569,FloatProtocol,Don't forget to vote! https://t.co/hM7PVmSsMa,3,0,1,2021-07-22
+211,2021-07-25 21:41:03+00:00,1419412405705232387,FloatProtocol,"Update on Phase 4 (III) 👇
+
+https://t.co/EXWzICO6OR",11,2,0,2021-07-25
+212,2021-07-31 19:15:00+00:00,1421549976778420228,FloatProtocol,"Phase 4 (III) - make ready! incl. FLOAT-USDC uniswap v3 with @gelatonetwork 
+
+https://t.co/mZgmKnRJH0",21,1,4,2021-07-31
+213,2021-08-02 00:38:24+00:00,1421993751967379462,FloatProtocol,Phase 4 is a go https://t.co/GG06ctWbe1,19,0,2,2021-08-02
+214,2021-08-04 23:21:38+00:00,1423061596507676678,FloatProtocol,"FLOAT/USDC @Uniswap V3 0.05% Pool is getting incentivised tomorrow at 10pm UTC.
+
+Here are four reasons we are excited: 👇 https://t.co/gMu1bVhrRS",13,2,5,2021-08-04
+220,2021-08-05 23:49:05+00:00,1423430894170296323,FloatProtocol,$BANK ster status unlocked 😉,2,1,0,2021-08-05
+226,2021-08-14 20:44:56+00:00,1426646038518108169,FloatProtocol,"Quick update. Quick catchup. Read on below👇
+
+https://t.co/kywZu7KCTm",5,0,0,2021-08-14
+227,2021-08-20 16:53:06+00:00,1428762023618306055,FloatProtocol,"Phase 4 (III) rewards and Remuneration. Have your say. Use your $BANK POWER:
+
+https://t.co/Lcu2sWOWQZ
+
+https://t.co/80MOpUVMJ7 https://t.co/DMYna2dhym",5,2,1,2021-08-20
+228,2021-08-23 19:39:50+00:00,1429891149641228289,FloatProtocol,"wen @RariCapital? Join the discussion here:
+
+https://t.co/MStJLZfbB5 https://t.co/PrKLiw1JZX",5,0,0,2021-08-23
+229,2021-08-31 16:00:01+00:00,1432734933425049600,FloatProtocol,"Glad to be joining the ""Algo Money"" webinar hosted by @Re7Capital. Tune in on the 9th of September to learn more about the future of stablecoins at https://t.co/LgmETfVxXh https://t.co/h2e476Am8v",5,0,0,2021-08-31
+230,2021-09-06 19:17:27+00:00,1434958946968784899,FloatProtocol,"Time to start voting on @RariCapital Fuse, let's get FLOAT and BANK lending and borrowing 🙂 https://t.co/DceRtuQNne https://t.co/NGrWjqkEuc",3,0,0,2021-09-06
+231,2021-09-07 18:39:28+00:00,1435311773024935938,FloatProtocol,"We're also looking forward to integrating $FLOAT with other pools such as @OlympusDAO's following their Pool Party community call alongside @RariCapital, @AlchemixFi and @reflexerfinance.",2,1,0,2021-09-07
+238,2021-09-08 21:05:45+00:00,1435710974275854348,FloatProtocol,Don't forget to join us at 5PM PT/12AM UTC today on twitter spaces with @RariCapital ! https://t.co/4qGWW2mEt0,2,0,0,2021-09-08
+240,2021-09-09 11:00:02+00:00,1435920929738014726,FloatProtocol,"Almost time for a very special webinar with @Re7Capital. Tune in at 7AM PT/2PM UTC later today here:
+
+https://t.co/LgmETgd8OP https://t.co/pqwYWyo4oi",2,0,0,2021-09-09
+242,2021-09-12 19:51:04+00:00,1437141730558726154,FloatProtocol,"The multiplier pools have performed very well and the long-term stakers have enjoyed some juicy rewards. Check out the details below👇
+
+https://t.co/6oB1TAc0ES",2,0,0,2021-09-12
+243,2021-09-13 17:16:22+00:00,1437465186978439173,FloatProtocol,"The G-UNI USDC/FLOAT token has been verified on @zerion_io ☑️
+
+https://t.co/pTaqvYh4Q9",2,0,0,2021-09-13
+244,2021-09-18 20:17:41+00:00,1439322756294791168,FloatProtocol,"Important one here: Vote on Phase 4(III) rewards &amp; FIP 013 Bond Pilot with @OlympusDAO👇
+
+https://t.co/i5crrWrqcR",88,3,20,2021-09-18
+245,2021-09-20 20:24:56+00:00,1440049357915443205,FloatProtocol,"Lets talk rewards: Vote on BANK rewards for the BANK-ETH sLP Pool if the Bond Pilot with @OlympusDAO  is approved👇  
+
+https://t.co/gvDiP10Vc5",1,1,1,2021-09-20
+246,2021-09-24 09:00:50+00:00,1441326750219202567,FloatProtocol,"We are excited to finally reveal that we will be one of the flagship partners for Olympus Pro. Learn more about it at @OlympusDAO’s FOHMO 3 event on Sept 24 - 26. #FOHMO3
+
+Join the #FOHMO3-PreParty channel in the Olympus discord for the full agenda at https://t.co/goK2ZXKjEk https://t.co/8yXVgp6fim",185,4,31,2021-09-24
+247,2021-09-27 09:52:43+00:00,1442426972114542595,FloatProtocol,Great to see hackers getting their hands on $FLOAT https://t.co/iOrTJX1fXk,16,0,2,2021-09-27
+248,2021-09-29 21:33:47+00:00,1443328173731680258,FloatProtocol,"Thank you @santiagoroel, @0xMaki, @StaniKulechov, @ana_andrianova, @crypto_han, @eblockventures, @Re7Capital, @FreddieFarmer, @katyaandme, @ivailoj, @TheLAOOfficial, @lyuben, @VENTURE_DAO, @sereja_chan and @devops199fan!
+
+Read more 👇
+https://t.co/63EQkvTNTx",122,4,30,2021-09-29
+250,2021-10-02 16:09:16+00:00,1444333673604583426,FloatProtocol,"Our AMA with @OlympusDAO is starting in a couple of minutes. Tune in below 👇
+
+https://t.co/dERGrVpEGp https://t.co/CcNBDiDROc",7,0,1,2021-10-02
+253,2021-10-04 10:58:42+00:00,1444980290078842887,FloatProtocol,"Meme competition alert! 🚨
+
+We are celebrating the bonds launch via @OlympusDAO with a 10 BANK reward for the best FLOAT meme EVERY week of Uptober! 📈
+
+✅ Tag $BANK $FLOAT @FloatProtocol 
+🏦 10 BANK for winners
+🌊 100 FLOAT for a random retweet of the winning meme 
+
+(1/2) https://t.co/qa6XdXPRG3",102,117,64,2021-10-04
+255,2021-10-05 10:38:41+00:00,1445337639595433992,FloatProtocol,"This is it.
+
+This is why decentralization matters.
+
+The bigger a USD stablecoin gets - the harder the regulators will go after it.
+
+$FLOAT is #DeFiMoney - decentralized and non-dollar pegged.
+
+Decentralize. Adapt. Overcome. Float.
+
+https://t.co/EXQK3LIQ8F",45,1,15,2021-10-05
+256,2021-10-10 12:53:29+00:00,1447183505444704260,FloatProtocol,@CuanTerus100x and @readonlytext - please DM us so that we can distribute the rewards.,7,2,1,2021-10-10
+257,2021-10-11 22:45:47+00:00,1447694951173836801,FloatProtocol,"There's some juicy discount on our $BANK bonds to take advantage of over at @OlympusDAO Pro.
+
+Check it out here:
+https://t.co/bfLq9M9bzz https://t.co/OhitlJrLUK",25,0,8,2021-10-11
+258,2021-10-12 16:02:01+00:00,1447955727826489344,FloatProtocol,"Where we're going we won't be needing a peg!
+
+Read up on what makes Float #DeFiMoney.
+
+https://t.co/72AiOlkPMg",27,0,10,2021-10-12
+259,2021-10-17 13:30:24+00:00,1449729509796818952,FloatProtocol,@HawRieke and @MariaMi33157087 - please DM us so that we can distribute the rewards.,5,1,0,2021-10-17
+261,2021-10-24 17:43:19+00:00,1452329874954362881,FloatProtocol,@Dank12ey and @dedekaqilla - please DM us so that we can distribute the rewards.,3,0,0,2021-10-24
+262,2021-10-25 20:02:52+00:00,1452727379667861505,FloatProtocol,Both $Float and $Bank have been officially integrated on @NomicsFinance🤝 https://t.co/hBBAzfN0NW,11,1,4,2021-10-25
+263,2021-10-26 07:35:17+00:00,1452901633357225986,FloatProtocol,"The rewards for the USDC/FLOAT pool have been changed to 20 $BANK as per thе snapshot proposal.
+
+Check below for further details 👇
+https://t.co/Yd24Xu6Up0",8,0,1,2021-10-26
+265,2021-10-28 16:00:00+00:00,1453753426626551808,FloatProtocol,"Very happy to announce that both $FLOAT and $BANK have now been integrated on @SablierHQ!
+
+You can now stream your payments directly though their app or @gnosisSafe.
+
+Check out Sablier below:
+https://t.co/5PURtnkM7T https://t.co/IH01Mz9rN1",22,1,2,2021-10-28
+266,2021-10-31 14:04:15+00:00,1454811459607797768,FloatProtocol,"Congrats @ArcherBTC and @Nadya74966001 for winning the final prizes of our meme competition!
+
+Send us a message and we'll sort out the rewards. https://t.co/wu9qt1xd3C",12,1,2,2021-10-31
+267,2021-11-08 17:23:00+00:00,1457760576885698563,FloatProtocol,Soon. Very soon. https://t.co/plFp48q7G3,85,14,14,2021-11-08
+268,2021-11-14 19:00:01+00:00,1459959319496216576,FloatProtocol,"New bonds incoming!
+
+We will be discussing everything you need to know with @OlympusDAO and @VisorFinance.
+
+Join the Olympus discord below to tune in:
+https://t.co/4DBIH0fn7H https://t.co/wMrfjXBeOe",187,7,26,2021-11-14
+269,2021-11-23 22:50:04+00:00,1463278705342562311,FloatProtocol,"💰We've seeded our Rari Fuse pool with $100k DAI and $100k ETH as voted in [FIP 015].
+
+Deposit and borrow via pool 90 below👇
+https://t.co/f0qiXKdeOc",16,3,2,2021-11-23
+270,2021-11-24 22:41:02+00:00,1463638819278925827,FloatProtocol,"📈 Our $BANK-ETH bonds via @OlympusDAO have been renewed for a second round!
+
+⌛️ Up next: $FLOAT-ETH bonds!
+
+Head over to Olympus Pro to check the current discounts:
+https://t.co/bfLq9M9bzz",8,0,1,2021-11-24
+271,2021-12-01 23:59:19+00:00,1466195236229722113,FloatProtocol,👀 https://t.co/v2Ct7lQeL2,10,1,1,2021-12-01
+272,2021-12-04 14:57:56+00:00,1467146157008773127,FloatProtocol,"How does 279% APR sound?
+
+Juicy, right?
+
+$FLOAT/ETH is now live on $SUSHI Onsen🍣 https://t.co/Ce6grnsGUB",23,3,4,2021-12-04
+273,2021-12-12 01:24:40+00:00,1469840593719336961,FloatProtocol,"For those of you that have interacted with the Sorbet Finance UI in order to participate in our G-UNI USDC/FLOAT pool, please follow the steps listed below. https://t.co/WzqkgDtw7k",7,2,4,2021-12-12
+274,2021-12-18 20:02:32+00:00,1472296240067092480,FloatProtocol,"Our FLOAT-ETH bonds via @OlympusDAO and @VisorFinance are now live!
+
+Not sure how to take advantage of the discounted $FLOAT rewards?
+
+Follow the instructions below on how to bond 👇 https://t.co/E9Sh08HduN",82,6,24,2021-12-18
+280,2022-01-12 11:35:40+00:00,1481228380343316481,FloatProtocol,🤝🔜👀 https://t.co/hffBhTCi5Y,40,4,12,2022-01-12
+281,2022-01-14 22:13:24+00:00,1482113645903446019,FloatProtocol,"Our @RariCapital pool just experienced effects from a weak oracle.
+
+We're looking into the issue and will update with more information shortly.
+
+Primarily protocol owned liquidity was affected.",34,3,4,2022-01-14
+282,2022-01-15 02:58:06+00:00,1482185293021204481,FloatProtocol,@RariCapital https://t.co/9g501vA4qL,7,2,0,2022-01-15
+297,2022-02-01 21:22:20+00:00,1488623776115970052,FloatProtocol,"The results from our 2nd audit performed by @CertiKTech are in!
+
+Spoiler alert - it's all good 👍
+
+If you want to know more, check our medium post below 👇
+https://t.co/FjKV8ZDRI4 https://t.co/IIRbaFJUyU",20,5,3,2022-02-01
+298,2022-05-10 14:07:00+00:00,1524028234312167425,FloatProtocol,The legendary @el33th4xor basically describing what Float is and why it matters for the web3 economy https://t.co/bLHuD1Oy2c,10,1,2,2022-05-10
+300,2022-06-08 14:02:08+00:00,1534536254708236293,FloatProtocol,Always on the lookout for talented devs! https://t.co/tQ4Kukbzp9,9,2,3,2022-06-08
+301,2022-06-16 16:23:16+00:00,1537470878782464004,FloatProtocol,"🚨 Be careful everyone - a fake telegram channel has surfaced spreading lots of fake information.
+
+Please make sure all your information is coming from our official telegram channel shared below 👇
+
+https://t.co/Z2kT4yGLHu",2,0,0,2022-06-16
+302,2022-08-09 08:18:22+00:00,1556917792317767680,FloatProtocol,"The core of web3's premise is decentralization.
+
+And yet the majority of the money legos we build and interact with are centralized.
+
+Float has been addressing this issue for over an year now.
+
+Here's how and why it matters to you 🫵 🧵",14,2,4,2022-08-09
+307,2022-08-10 10:10:34+00:00,1557308414245707778,FloatProtocol,"Every few months we get to have an event that makes Float's fundamentals start to resonate stronger and stronger within the web3 community.
+
+There will be more of these.",13,3,1,2022-08-10
+308,2022-08-11 07:41:54+00:00,1557633391960494080,FloatProtocol,"Float is a must have for every protocol that values decentralization and treasury diversification.
+
+✅ Decentralized
+✅ Volatility resistant
+✅ Battle tested",11,1,2,2022-08-11
+309,2022-08-12 07:30:47+00:00,1557992980358774784,FloatProtocol,"Considering switching to ETH, then losing the peg...
+
+Sounds familiar, doesn't it.
+
+Auctions next? https://t.co/wjmvHU9YeW",16,12,4,2022-08-12

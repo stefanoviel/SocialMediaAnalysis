@@ -1,0 +1,1571 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-02-11 15:17:30+00:00,1227250313339342849,mstable_,"Today, we announce mStable - a protocol for unifying and securing tokenised assets on Ethereum https://t.co/FQZPBDcpmR. The team at mStable has been working hard for the past year and are excited to share this with you all!",69,2,21,2020-02-11
+4,2020-02-14 22:07:45+00:00,1228440720266158087,mstable_,"mStable is at #ETHDenver. DMs open, let's chat!",5,0,1,2020-02-14
+5,2020-02-19 18:51:11+00:00,1230203189867106305,mstable_,.@jronsim is attending the Stanford Blockchain Conference today. DMs are open,4,0,0,2020-02-19
+6,2020-02-24 11:18:02+00:00,1231901090653888512,mstable_,@TrustlessState @CurveFinance Late to the party here. Super excited to see more innovation in this area with @CurveFinance and others...the more smart minds that look at this problem-set the better!,0,0,0,2020-02-24
+7,2020-02-26 14:50:20+00:00,1232679295094607872,mstable_,@Alexintosh @coffeenaping @antiprosynth @bzxHQ We're currently doing internal testing. We'll be keeping people updated here as we approach launch!,1,0,0,2020-02-26
+8,2020-05-29 13:23:09+00:00,1266359424068640769,mstable_,Fin/ mStable's contracts have been professionally audited but be aware this remains a beta launch so use at your own risk.,7,1,0,2020-05-29
+13,2020-05-30 11:12:46+00:00,1266689000909103105,mstable_,"@George_harrap @sassal0x mStable caps collateral asset risk with max weights and multi-redemption; lending is diversified across multiple lenders; later, the Meta token insures against permanent loss. Check out https://t.co/VANjYBZGZd for more details!",0,1,0,2020-05-30
+15,2020-05-31 07:59:12+00:00,1267002676933308417,mstable_,@cryptophilip Cool video!,1,0,0,2020-05-31
+17,2020-06-03 03:56:53+00:00,1268028857988182019,mstable_,Get yourself a CEO who leads from the front (and also pays himself peanuts) 🥜🥜 https://t.co/XTLM6m2VpJ,2,0,0,2020-06-03
+22,2020-06-05 07:28:47+00:00,1268806962667347968,mstable_,@gcolthup @Mine_Digital @jronsim @phenrikand @tomnashflex @richwgalvin @BAMartelly @Mcmike313 @Kevinohara95 Appreciate your support Grant!,1,0,0,2020-06-05
+26,2020-06-08 09:39:24+00:00,1269926994063396864,mstable_,"We've updated our UX in response to user feedback. Single asset redemptions are now live, and are more gas efficient than the forced multi-redemption from before. Credit to our resident wizard @JamesLefrere. Check it out 👇 https://t.co/rxtKvEr8qU",21,1,1,2020-06-08
+27,2020-06-09 05:47:20+00:00,1270230983145435136,mstable_,"@CurveFinance @defiprime @sassal0x mUSD APY derives from three sources: all collateral assets are lent out, at this stage on Compound/AAVE + all swap fees x savings utilization rate (i.e. the amount of mUSD in the savings contract vs in the wild). That's it! Nothing complicated.",6,1,0,2020-06-09
+31,2020-06-10 11:48:00+00:00,1270684133468110848,mstable_,"Another day another UX tweak, this time it’s custom minting 💸
+
+Whereas before you could only mint mUSD with a single asset, or with all assets together, you can now turn your stablecoins to mUSD in any combination you like. Thanks to those who gave us feedback! https://t.co/VNvRGXw734",15,2,2,2020-06-10
+32,2020-06-12 12:09:51+00:00,1271414409563234304,mstable_,"1/ To celebrate @mStable_'s beta launch, we're offering low fee stablecoin trading on our zero slippage swap product! Fees have been temporarily reduced from 30 basis points to 2.5 basis points. 
+
+Get started: https://t.co/pD4h8xEXKy
+
+More details: https://t.co/yOcwvt90pC",51,4,14,2020-06-12
+42,2020-06-13 02:25:58+00:00,1271629855939952641,mstable_,"@Alexintosh @CurveFinance Note that fee doesn't tell the full story: our bonding curve is constant sum, i.e. 1 for 1 sc swapping, always. Price diff btw stablecoins cd be 200 bps or more, that combined with zero slippage, makes a trade on mStable sometimes profitable w 50bps fee or more",5,1,0,2020-06-13
+45,2020-06-14 18:45:23+00:00,1272238724944809984,mstable_,@hedgedhog7 24hr is below :),1,1,0,2020-06-14
+48,2020-06-15 07:04:08+00:00,1272424634546155520,mstable_,"So far over US$220k in swaps today! 
+
+Still on our low 2.5 bps fee - https://t.co/pD4h8xEXKy",17,0,2,2020-06-15
+50,2020-06-16 02:13:24+00:00,1272713858856017921,mstable_,1/ We've noticed a minor front end bug that is not allowing mUSD redemption through the application. Please note that anyone can still redeem directly with the contracts. All contracts are working as normal and funds are safe.,12,1,6,2020-06-16
+55,2020-06-17 12:12:06+00:00,1273226914421850113,mstable_,🔥 400k in swaps in the past 24hrs 🔥,19,1,3,2020-06-17
+58,2020-06-18 00:47:57+00:00,1273417132265500672,mstable_,"@camilleblanc We're right there with you @camilleblanc, the end state for mStable has lower weightings which will likely contain an implicit minimum weighting. While AUM is small, we don't want to constrain users on minting. 
+We'll be moving the basket in that direction in future.",1,0,0,2020-06-18
+62,2020-06-19 04:10:11+00:00,1273830414063243265,mstable_,"24hr mUSD APY: 28.65% 👀
+24hr 1:1 swaps at 2.5bps: 300k 
+
+👉https://t.co/aLx10Xe7wl",13,0,2,2020-06-19
+63,2020-06-20 05:52:27+00:00,1274218535107981316,mstable_,"In times of stablecoin price fluctuation, larger swap volumes feed into our APY for mUSD savers, boosting return. 
+
+With over $850k in swaps done in the last 24hrs, we’ve had a bumper day today! https://t.co/QhrG3CguRF",24,1,7,2020-06-20
+66,2020-06-22 12:21:21+00:00,1275041182142222336,mstable_,PS/ $MTA governance is still a way off but rewards are coming very soon. You'll be able to stack all your bales of yield in mStable #yieldfarming 😉,7,1,0,2020-06-22
+73,2020-06-24 01:22:39+00:00,1275600191286988800,mstable_,@imleanh_ Soon! 😏,6,0,0,2020-06-24
+75,2020-06-26 14:21:10+00:00,1276520885977935872,mstable_,3M 🚀,38,2,3,2020-06-26
+83,2020-06-27 01:07:50+00:00,1276683626143338496,mstable_,"@devops199fan *Currently 4,466,532.93 is earning interest on Compound and AAVE. 698,826.41 is receiving that interest in SAVE. A large amount of mUSD on is on Balancer etc. 
+*Yesterday &gt;2M in swap volume earning 10bps of fees which all is going to savers ⚡️",21,1,7,2020-06-27
+86,2020-06-28 01:11:46+00:00,1277047001369075719,mstable_,@finer9 @CoinbaseWallet Very soon!,2,1,0,2020-06-28
+91,2020-06-29 01:08:36+00:00,1277408595651424256,mstable_,"mUSD/USDC is now the 4th largest @BalancerLabs pool &amp; 2nd largest $BAL earning pool! 
+
+74% ROL in $BAL + your share of 50k $MTA/week return + pool fees ⚡️
+
+👉https://t.co/X3ekjkpwJ6",60,3,10,2020-06-29
+93,2020-06-30 03:44:19+00:00,1277810169049575424,mstable_,"@DeFi_Dad @BanklessHQ Cool vid, thanks @DeFi_Dad!",5,1,0,2020-06-30
+95,2020-07-01 11:42:00+00:00,1278292768620711936,mstable_,"What have our devs been upto this month? Quite alot it turns out 🧙‍♂️
+https://t.co/oqVysyAI81",25,1,4,2020-07-01
+96,2020-07-02 02:35:07+00:00,1278517531041382400,mstable_,"mStable now on @defipulse's DeFi List - next stop rankings! 
+
+https://t.co/0yYtnoVezP",45,0,7,2020-07-02
+97,2020-07-03 12:12:53+00:00,1279025319563816960,mstable_,"1/ Today, we're excited to launch a 2nd opportunity for yield farmers: mUSD/WETH pool on Balancer!
+
+50,000 $MTA will be distributed to liquidity providers in this pool each week for the next three weeks.
+
+Get started: https://t.co/MnnynKQeqU
+
+Learn more: https://t.co/U9Jknzn72L",52,2,12,2020-07-03
+102,2020-07-04 11:57:00+00:00,1279383707028054018,mstable_,"mStable governance in action today: we have lowered max weights across all basket assets to 55%, meaning that USDT can now be redeemed for no fees whilst its overweight ⚖️ https://t.co/hH814WZTGy",31,3,3,2020-07-04
+103,2020-07-05 01:51:23+00:00,1279593686221742081,mstable_,@KaiAnsaari Did you try single asset redeem?,0,0,0,2020-07-05
+105,2020-07-08 12:31:08+00:00,1280841851377872897,mstable_,2/ We are creating this liquidity pool to continue to build out a distributed community of Meta Governors and to start the market that enables mStable’s mUSD re-collateralisation process.,7,1,0,2020-07-08
+108,2020-07-09 11:09:00+00:00,1281183566743908352,mstable_,"EARN is coming soon to the mStable app.
+
+View all of our active Meta reward pools, and see how much you've earned yield farming. Here's a sneak peek 👀 https://t.co/CMauDA6TAp",52,1,6,2020-07-09
+109,2020-07-10 07:54:50+00:00,1281497093501145088,mstable_,"Week 2 of our Ecosystem reward allocations are up! 100,000 Meta given out for liquidity contributions to our mUSD&lt;&gt;USDC and mUSD&lt;&gt;WETH pools on Balancer. 
+Find them here 👇
+https://t.co/eB5jlC3iN1",28,0,5,2020-07-10
+110,2020-07-12 02:27:18+00:00,1282139439511175169,mstable_,🚀🚀 https://t.co/rfjScbRUpH,78,2,6,2020-07-12
+112,2020-07-14 13:07:00+00:00,1283025201941241857,mstable_,"We've increased our bug bounty amounts. Check out our new payouts matrix, which now goes to $25,000+ 💰🪲 https://t.co/bWjzn33OPL",27,2,4,2020-07-14
+114,2020-07-15 04:58:28+00:00,1283264646405746688,mstable_,"1/ Recent events have revealed a mismatch in incentives between some actors in a Balancer/Uniswap pool launch and the long-term interests of a protocol and its users.
+
+After team &amp; community review, the MTA Genesis will be marginally delayed. 
+
+Learn more: https://t.co/fKMz1Adw9m",129,11,21,2020-07-15
+117,2020-07-16 19:29:21+00:00,1283846201339568128,mstable_,Proud to be #12 on DeFi Pulse! https://t.co/SZ7bgkNZNx,36,2,5,2020-07-16
+122,2020-07-17 08:35:15+00:00,1284043977411293184,mstable_,"We've released a step by step guide on how to participate in the upcoming Meta Genesis Event. Find everything you need to know about MTA, the auction, and the Mesa platform built on Gnosis Protocol here!
+
+https://t.co/sWfqPDGMfK",71,5,20,2020-07-17
+127,2020-07-18 14:36:32+00:00,1284497285028605953,mstable_,"❗️❗️1) The Mesa order solver has gotten stuck trying to match up today's orders for the auction.
+The Gnosis team are prioritising the MTA mUSD pair for the solver. It has not yet submitted a price solution for MTA.",70,21,16,2020-07-18
+137,2020-07-19 08:44:46+00:00,1284771148547284997,mstable_,"250,000 MTA in Ecosystem Rewards for our USDC and WETH Balancer pools have been distributed.
+
+Next week, our new MTA/mUSD pool will be getting a bumper reward allocation of 75,000 MTA on top of our existing pools. Contribute liquidity and farm a slice!
+🌾Ⓜ️🌾",47,6,10,2020-07-19
+138,2020-07-20 08:13:49+00:00,1285125747451944960,mstable_,Great team &amp; much needed product. We at mStable are super excited about dHedge💪🚀 https://t.co/rw86v0uSrF,34,1,5,2020-07-20
+139,2020-07-21 12:05:00+00:00,1285546314059505664,mstable_,@mehmetozgur1980 Circa - that is approximately. We wrote that as the price of MTA changes,0,0,0,2020-07-21
+140,2020-07-22 04:19:40+00:00,1285791599100866560,mstable_,"5/ We hope that despite our failings in the past 24hrs, the MTA community feel reassured that these actions confirm that the mStable team and investors are fully committed to our community over the long-term.
+
+- @jronsim - lead &amp; co-founder, @mstable_",12,3,1,2020-07-22
+145,2020-07-23 10:19:29+00:00,1286244534901329920,mstable_,@JHancock @bneiluj @CurveFinance @iearnfinance Who in our team responded the competitor comment out of interest?,1,1,0,2020-07-23
+147,2020-07-24 12:38:40+00:00,1286641952495218688,mstable_,"Week 4 MTA reward details for the mUSD/USDC, 
+ mUSD/WETH and mUSD/MTA Balancer pools are now live.
+
+https://t.co/eB5jlCkUbB",48,2,8,2020-07-24
+149,2020-07-26 06:46:25+00:00,1287278079778254848,mstable_,@econoar Yes,20,2,0,2020-07-26
+151,2020-07-30 05:57:42+00:00,1288715370182742016,mstable_,고마워! https://t.co/ultV7yGGHi,59,2,4,2020-07-30
+152,2020-07-31 12:25:46+00:00,1289175420181438464,mstable_,"Week 5 MTA reward details for the mUSD/USDC, mUSD/WETH and mUSD/MTA Balancer pools are now live.
+
+https://t.co/eB5jlC3iN1",48,1,5,2020-07-31
+154,2020-08-02 10:43:54+00:00,1289874558531461120,mstable_,"Ahead of the launch of mStable Earn tomorrow, we've moved a small amount of $MTA to seed a 95/5 mUSD&lt;&gt;MTA Balancer pool. https://t.co/pebebwSGhO
+
+In addition to this, 325,000 MTA in ecosystem rewards will be airdropped to users for weeks 4 &amp; 5 in the next 24 hours! 💸",106,7,18,2020-08-02
+155,2020-08-03 13:31:48+00:00,1290279201027760128,mstable_,EARN is LIVE! https://t.co/aVm0Ur4RnO,238,8,55,2020-08-03
+159,2020-08-06 15:22:42+00:00,1291394274307842050,mstable_,Thanks for the write up! @blockandchain https://t.co/Jla2iElYd3,42,1,5,2020-08-06
+160,2020-08-07 17:57:06+00:00,1291795518776107008,mstable_,PSA: Unfortunately the mStable app frontend is inaccessible at the moment because of a cloud hosting issue. We are working to resolve this as quickly as possible. Funds are of course safe. Thank you for your patience.,41,9,5,2020-08-07
+164,2020-08-09 09:25:18+00:00,1292391495950008320,mstable_,$0 to $70m in 10 weeks 🚀 https://t.co/DQFF9k6QvC,218,8,23,2020-08-09
+166,2020-08-10 12:34:52+00:00,1292801589065977856,mstable_,"We have just funded this week's mStable EARN pools!🧑‍🌾⚡️
+
+100,000 MTA up for grabs spread between these pools: 
+
+* mUSD &lt;&gt; USDC: 15k MTA
+* mUSD &lt;&gt; WETH: 20k MTA
+* mUSD &lt;&gt; MTA 20/80: 15k MTA
+* mUSD &lt;&gt; MTA 95/5: 25k MTA 
+* MTA &lt;&gt; ETH: 25k MTA
+
+👉https://t.co/PIhjUL1ugM",77,2,14,2020-08-10
+167,2020-08-11 13:06:07+00:00,1293171841058721794,mstable_,"We are happy to announce a resolution to a (non critical) bug bounty submission from @DevanPurhar 
+
+Thanks for helping to make mStable more secure Devan!
+
+https://t.co/NpHTQoKqWv",50,0,9,2020-08-11
+169,2020-08-12 10:52:46+00:00,1293500672013479939,mstable_,mUSD SAVE APY 🔥 https://t.co/iUpofCIyjX,97,9,18,2020-08-12
+174,2020-08-13 07:09:40+00:00,1293806914065895424,mstable_,@lleanyx You balance updates everytime someone deposits into the SAVE contract,1,1,0,2020-08-13
+176,2020-08-17 12:18:24+00:00,1295334161599758336,mstable_,"A new EARN pool is live! Is a 95/5 MTA mUSD Balancer pool what you've been waiting for to start yield farming on mStable? The wait is over 👀
+https://t.co/VXzehvmh3z",66,5,8,2020-08-17
+178,2020-08-24 12:37:36+00:00,1297875707473821702,mstable_,This week's EARN pools have been funded with another 100k MTA of fresh rewards! ☑️🤑,46,2,6,2020-08-24
+181,2020-08-27 11:56:19+00:00,1298952482354331648,mstable_,"Want to learn more about upcoming Meta staking? Read our COO's thoughts here, and hop into our discord to join the discussion 📊📜
+https://t.co/8XQLbZmUAi",73,4,11,2020-08-27
+182,2020-08-31 09:05:56+00:00,1300359155136499713,mstable_,Thank you @HuobiGlobal for the listing! $MTA ⚡ https://t.co/5htZraoKgu,88,4,11,2020-08-31
+183,2020-09-04 15:23:17+00:00,1301903667965161474,mstable_,https://t.co/SCWCtlwaCT,17,1,3,2020-09-04
+185,2020-09-10 08:34:47+00:00,1303975192780103680,mstable_,We've just awarded our in-house R&amp;D polymath @onurhsolmaz a Fields Medal for Chadmatics. Specifically for eminence in Mechanism Design. Some exciting changes are coming soon to mStable 🏅👀 https://t.co/1lmQoFPZBi,61,4,4,2020-09-10
+187,2020-09-11 16:21:36+00:00,1304455058810167298,mstable_,"We are excited to launch the mStable Governance Forum! 
+
+This is where proposals will go for formal discussion, after being surfaced on our Discord. 
+
+Learn more: https://t.co/05tlLMJhV7
+
+Get started: https://t.co/sv9Xo2lT4v",47,1,10,2020-09-11
+188,2020-09-15 16:34:39+00:00,1305907895989612551,mstable_,"mStable's first Community Calls are taking place 17 Sep for USA/Euro timezones, and 18 Sep for Asia/Pacific timezones. 
+
+Please join us for team, product &amp; #governance updates, and ability to ask questions live.
+
+Details here: https://t.co/ZwxATGZdV5
+
+$META",24,4,6,2020-09-15
+189,2020-09-16 03:27:32+00:00,1306072200886222853,mstable_,"Our first Community Calls are happening Sep 17 for USA/Euro timezones, and Sep 18 for Asia/Pacific timezones. 
+
+Please join us for team, product &amp; $META #governance updates, and ability to ask questions live!
+
+Details on how to register and join at https://t.co/ZwxATGZdV5.",26,5,8,2020-09-16
+190,2020-09-18 20:54:58+00:00,1307060567883100161,mstable_,"@DefiMoon @FTX_Official Quite right. I'm doing that now. 
+^DS",0,0,0,2020-09-18
+194,2020-09-22 02:25:14+00:00,1308230848827752450,mstable_,"@polakenzen @The3D_ @AaveAave There is no relation between Aave's team and mStable's team. Our technology works together, but that's about it. :) 
+^DS",5,2,0,2020-09-22
+199,2020-09-23 17:22:49+00:00,1308819120146845702,mstable_,"Thank you @coinmonks for including mStable in their list of 10 promising projects in the #DeFi world!
+
+https://t.co/mjRp28fGWq
+
+$META",41,1,6,2020-09-23
+200,2020-09-24 23:38:39+00:00,1309276090234531840,mstable_,"mStable Co-Founder @jronsim is speaking this weekend at @REIMAGINE_2020's v3.0 DeFi event! He joins speakers from Nervos, SKALE and others.
+
+You can catch James on 26 Sep at 3:45 Pacific / 10:45pm UTC.
+
+Schedule - https://t.co/VDourY9byj
+Live Feed - https://t.co/lQaNVovSvi",29,5,8,2020-09-24
+203,2020-09-25 18:40:00+00:00,1309563318173011968,mstable_,"Earlier today @CoinDCX listed MTA with three trading pairs: BTC, ETH and USDT.
+
+USDT - https://t.co/f7ANhXt1ka
+ETH - https://t.co/OevLWcHxGl
+BTC - https://t.co/3u7Z7z9pso
+
+Thanks CoinDCX for including MTA in DeFi Week. $META",20,1,5,2020-09-25
+216,2020-09-28 21:14:16+00:00,1310689304247705607,mstable_,@MiikaWarsell You will be able to claim and re-stake your claimed MTA. Whether that uses more gas to process the transaction will be seen once we launch the feature.,0,0,0,2020-09-28
+218,2020-09-30 21:13:00+00:00,1311413761341894659,mstable_,"Thanks to @REIMAGINE_2020 for having James Simpson speak at their v3.0: WTFi is #DeFi? event. 
+
+For anyone that missed the interview, you can catch it here!
+
+https://t.co/oVrCzgTYyb",11,0,4,2020-09-30
+225,2020-10-01 10:12:00+00:00,1311609803215527936,mstable_,"Check out Alex's monthly development update to get a taste of what's happening behind the scenes at mStable. 
+
+https://t.co/yUWBbNa018",34,5,8,2020-10-01
+228,2020-10-03 01:38:48+00:00,1312205427925368832,mstable_,"Big thanks to the @CurveFinance community for voting in favour of CIP #21! We look forward to seeing mUSD added as a meta pool. 
+
+#CRV $META $CRV #governance #DeFi",134,13,16,2020-10-03
+231,2020-10-05 18:03:08+00:00,1313177921511665667,mstable_,"Did you know mStable is a liquidity source for @matchaxyz? 
+
+mStable's logo is now featured prominently on the latest refresh of Matcha's website. 
+
+You can use their DEX aggregator now at https://t.co/3CQeGxlWb6. https://t.co/IOz4ikhd17",38,0,6,2020-10-05
+232,2020-10-06 16:48:28+00:00,1313521515950944256,mstable_,"We also seek your votes on a proposal regarding an EARN pool.
+
+Should the 95/5 MTA/mUSD EARN pool be retired?
+https://t.co/VnjHzTlZHM
+
+No arguments in favour of keeping the pool have been voiced up until this point.",0,2,0,2020-10-06
+243,2020-10-07 16:22:54+00:00,1313877470723166209,mstable_,"Why we forked @CurveFinance's math for #voting weights
+
+https://t.co/oTrpGA7AY6
+
+A new post from Lead Developer Alex Scott on mStable's attempt to achieve efficient protocol #governance with committed long term actors.
+
+#DeFi /cc @AragonProject",78,11,17,2020-10-07
+246,2020-10-08 00:51:47+00:00,1314005534173990912,mstable_,"Have you voted in our first on-chain polls? You can find them all on Snapshot at https://t.co/gSDHbOaGxC.
+
+Items up for voting include whether to:
+
+1. Add sUSD to the mUSD basket
+2. Whether to wind down the 95/5 MTA/mUSD EARN pool
+
+Additional questions for each item also.",32,2,2,2020-10-08
+248,2020-10-09 13:15:16+00:00,1314555027751567361,mstable_,"US$320k in fees generated on mUSD SWAP since launch c. 4 months ago.
+
+100% of fees go to users in mUSD SAVE, along with all interest earned on @compoundfinance  &amp; @AaveAave https://t.co/BjKtmiMwAm",61,3,13,2020-10-09
+249,2020-10-10 02:23:20+00:00,1314753350081171457,mstable_,"Our first five polls, voted on exclusively by $MTA stakers, are closing soon.
+
+Visit https://t.co/Uu8vcauvBb to read the proposals and weigh in. 
+
+#defi #governance $META $mUSD",11,0,3,2020-10-10
+250,2020-10-12 22:40:00+00:00,1315784309933039621,mstable_,"Active Signal activated on this forum thread proposing to add $PAX, $BUSD and/or $HUSD to the $mUSD basket of assets.
+
+https://t.co/9BaRGZAtPA
+
+Please review the thread, weigh in, and vote on the poll. Let's find out whether you feel this should go to a #governance vote. #DeFi",32,1,3,2020-10-12
+257,2020-10-13 02:04:00+00:00,1315835648541040645,mstable_,"mStable's community voted to retire the 95/5 MTA/mUSD EARN pool immediately and reallocate the MTA rewards to #staking.
+
+This is complete and Stake is now emitting 40K MTA per week.
+Poll 3 - https://t.co/VnjHzT4ojc
+Poll 4 - https://t.co/euaeHlFGCw
+Poll 5 - https://t.co/Uu8vcaM6sJ",12,1,2,2020-10-13
+261,2020-10-14 12:38:14+00:00,1316357648653180930,mstable_,+39% TVL growth in October 🚀 https://t.co/p3Lrj6ASl0,19,0,3,2020-10-14
+262,2020-10-15 16:10:47+00:00,1316773524917424128,mstable_,"For the $Meta community, mStable's MTA Emission Spotlight for October 2020:
+
+https://t.co/vLpXzmpYfR
+
+#defi #governance",16,1,6,2020-10-15
+268,2020-10-16 02:43:26+00:00,1316932735747895298,mstable_,"We're going to do a series of tweets looking back at the past few months since launch. mStable and the protocol have grown significantly since launch, and we're excited to share just how far we've come in a short amount of time.",25,3,6,2020-10-16
+275,2020-10-17 00:54:14+00:00,1317267642596663303,mstable_,"Back on 10 October, there was an absolutely MASSIVE swap on mStable worth over $14,000,000! $USDT was swapped for $TUSD in one fell swoop. https://t.co/IRcKAi6m8j",12,1,3,2020-10-17
+277,2020-10-19 16:53:17+00:00,1318233769934049285,mstable_,"Average APY for lending assets on Compound is just 2%, with Uniswap being an outlier at 12.51% APY.
+
+Most banks are offering 1 - 2% on savings accounts at best. 
+
+mStable SAVE has a 7 day average APY of 10.99%, is backed by multiple stablecoins and is available globally.",9,1,4,2020-10-19
+278,2020-10-20 08:30:00+00:00,1318469504431579136,mstable_,".@opendaoprotocol is bridging real world assets to DeFi. Lenders on the OPM can now lend mUSD against real world and on-chain collateral such as listed shares, liquidity pool positions and soon, real estate. Head over to the https://t.co/LFmr8YdzLM to start earning! https://t.co/ip1wbn1poV",50,3,12,2020-10-20
+279,2020-10-21 13:54:46+00:00,1318913621947187200,mstable_,@njt62490 Great question! Yes they are. :),0,0,0,2020-10-21
+281,2020-10-22 13:15:00+00:00,1319266002576707584,mstable_,"You can now trade Meta at the best price in a tap, thanks to @argenthq’s new launch!
+
+https://t.co/6QRNDhvytx",51,8,6,2020-10-22
+285,2020-10-23 10:39:00+00:00,1319589130817490945,mstable_,"The @CurveFinance mUSD/3pool is now available via EARN!
+
+https://t.co/jalXhocPDS
+
+The APY displayed does excludes yield APY and CRV APY, which can be checked at https://t.co/IadMu5XTze. https://t.co/n528jxHWfZ",16,0,5,2020-10-23
+289,2020-10-26 20:17:09+00:00,1320821793528176640,mstable_,"mStable's next community call is taking place 29 October 2020 at 13:30 UTC. Register today to hear core team updates, product updates, and the proposal roadmap. A live question and answer period will also take place!
+
+https://t.co/uwL5R5MTHZ https://t.co/cThHfYRMZa",9,3,5,2020-10-26
+293,2020-10-28 16:04:02+00:00,1321482868636483584,mstable_,"There's still time to sign up for tomorrow's mStable community call. Lots to talk about, open Q&amp;A with the community via chat and video. 
+
+https://t.co/uwL5R5MTHZ
+
+We start at 9:30am Eastern / 13:30 UTC / 21:30 Beijing.",7,0,2,2020-10-28
+294,2020-10-29 11:58:55+00:00,1321783572634705920,mstable_,"Today, the mStable core team ratified this decision by MTA Governors. Anyone can now mint mUSD and enter the mStable ecosystem with sUSD 🎊
+
+sUSD will begin with a max weight of 40%. Thanks to all MTA Governors that participated in this vote! 
+
+@synthetix_io $SNX https://t.co/vCWQJlx0Wq",166,4,25,2020-10-29
+295,2020-10-30 12:50:40+00:00,1322158980576235522,mstable_,"In response to the latest #governance proposals, the Liquidator as detailed in MIP 2 (mStable Improvement Proposal) went live yesterday.
+
+https://t.co/vLCqo9gGoK",19,1,6,2020-10-30
+298,2020-10-31 11:40:26+00:00,1322503696354283524,mstable_,"Today marks the launch of a new website for mStable, and the beginning of making #DeFi more accessible than ever before. 
+
+Check it out now: https://t.co/VE4VYdPhFa",87,2,23,2020-10-31
+300,2020-11-01 08:14:00+00:00,1322814131095916544,mstable_,"Lead Developer @alsco77 has submitted two MIPs:
+
+MIP-3 would add caching to two smart contracts, dramatically reducing Gas across MINT &amp; SWAP: https://t.co/XYMFZW8s5w
+
+MIP-4 would batch yield collection for SAVE, reducing Gas by ~50%: https://t.co/7vXtzecDN1
+
+Please review!",74,0,10,2020-11-01
+301,2020-11-02 15:38:10+00:00,1323288297804910594,mstable_,"1. MIP-3: Should a cache be added to mUSD?
+2. MIP-4: Should the lending market interest be batched to reduce gas costs?
+3. Should the 5 MTA/95 mUSD EARN pool be retired?
+4. Over what timeframe should the 5 MTA/95 mUSD EARN pool be retired?",4,1,1,2020-11-02
+304,2020-11-03 15:51:22+00:00,1323654007601139712,mstable_,"New Guide on Interacting with EARN #liquidity pools, featuring @zapper_fi 
+
+https://t.co/5moo06EIk9
+
+Making #DeFi accessible to all.",29,1,9,2020-11-03
+305,2020-11-04 02:47:01+00:00,1323819007485583360,mstable_,@SanchitDawar3 Just click the Apply Now button and it should launch your email client and insert the correct email address. :) It's jobs@mstable.org.,0,0,0,2020-11-04
+306,2020-11-06 20:31:44+00:00,1324811729356918784,mstable_,"mStable's October community call is now available. It had to be re-recorded due to technical issues with the first attempt.
+
+- YouTube: https://t.co/XXEnAlWbBY
+
+- @LBRYcom: https://t.co/tTF3M4CxbA
+
+Would love to hear thoughts on the #roadmap! 
+#DeFi #governance",17,1,3,2020-11-06
+307,2020-11-07 18:36:53+00:00,1325145213854048256,mstable_,"Less than 24 hours left to cast your vote in this cycle, $META Governors!
+
+https://t.co/gSDHbNT592
+
+Proposals like MIP-3, MIP-4 (both centred on reducing Gas fees), and the 5 $MTA/95 $mUSD EARN pool up for voting.",10,0,2,2020-11-07
+308,2020-11-09 19:23:26+00:00,1325881704876281856,mstable_,"THREAD:
+
+Co-Founder @jronsim has produced a deep dive on mStable's immediate roadmap over the next three months including a novel AMM upgrade, mBTC, $MTA's #tokenomics, and more.
+
+Learn more: https://t.co/6iq1ceBEo1",40,3,9,2020-11-09
+314,2020-11-11 23:00:01+00:00,1326660985197899778,mstable_,"MTA Governors voted to re-allocate the rewards for the 5 $META / 95 $mUSD EARN pool to other, existing EARN pools.
+
+Please join this discussion to help determine which options should be put to a vote during the next #governance cycle:
+
+https://t.co/eljHtdD4fP
+
+#defi",8,0,1,2020-11-11
+318,2020-11-12 16:44:00+00:00,1326928742862757890,mstable_,"Correction: the AMA is happening at 15:00 UTC, not 17:00 UTC. Our apologies. https://t.co/3o6Y75vev3",6,0,2,2020-11-12
+320,2020-11-13 13:57:07+00:00,1327249135829876738,mstable_,"The AMA with @AlphaFinanceLab starts in just 1 hour! Join now to participate and possibly walk away with some brand new mStable swag. 😉
+
+https://t.co/STNmdJlz2K",16,1,5,2020-11-13
+321,2020-11-16 18:03:47+00:00,1328398373553139714,mstable_,"2.  Should $DAI be temporarily removed from the $mUSD basket?
+
+Reasons for this poll are provided, and are tied back to a forum thread.
+
+Voting closes 22 November at 18:00 UTC! #DeFi #governance",9,1,1,2020-11-16
+322,2020-11-17 19:33:26+00:00,1328783321774645249,mstable_,"Have you voted in mStable's latest #governance polls yet?
+
+1. Where to re-allocate the 5 MTA/95 mUSD EARN pool rewards
+
+2. Whether to temporarily removing $DAI from the $mUSD basket
+
+You have until 22 November at 19:00 UTC to get your #vote in!",12,0,1,2020-11-17
+324,2020-11-19 22:43:00+00:00,1329555803783589889,mstable_,"mStable co-founder @jronsim participated in an #AMA with @acdx_io back in September. You can catch the replay on @PeriscopeCo!
+
+https://t.co/5KwL34Pb5B
+
+#DeFi $mUSD $META",13,0,2,2020-11-19
+328,2020-11-20 15:45:18+00:00,1329813073192947712,mstable_,Catch @jronsim on OpenDAO's latest #DeFi Founders #AMA! https://t.co/rY1GXSVLfL,7,0,1,2020-11-20
+330,2020-11-22 15:40:06+00:00,1330536543027679232,mstable_,"This is the @1inchExchange effect. 
+
+SWAP + 1inch = 💪
+
+You benefit by depositing $mUSD into SAVE. 
+
+#defi #composability https://t.co/IXM0Re9ZQI",49,1,6,2020-11-22
+331,2020-11-23 15:39:45+00:00,1330898840480854019,mstable_,"The average SAVE APY the past 7 days is 20.94% 💪 🔥
+
+The simplest #DeFi product in the industry can provide high #yield.
+
+Mint some $mUSD and deposit it into SAVE to start earning now.
+
+https://t.co/2teH2k3ZDT https://t.co/SQljB9WgYm",29,5,3,2020-11-23
+334,2020-11-24 00:35:00+00:00,1331033541224800256,mstable_,"[Active Signal] 
+
+Looking for more community feedback on this proposal in the mStable forum:
+
+Make SAVE Composable
+
+https://t.co/I4s9ZmWjGf
+
+#DeFi #APY",6,0,3,2020-11-24
+336,2020-11-25 17:50:15+00:00,1331656460254720001,mstable_,"New video Guide - How to Obtain mUSD.
+
+Learn how to mint mUSD, or swap for it on platforms like @CurveFinancial, @UniswapProtocol and @matchaxyz.
+
+- On YouTube: https://t.co/It1ze4Mzj8
+- On @LBRYio: https://t.co/9MqsMFwo17",9,0,2,2020-11-25
+338,2020-11-26 19:43:47+00:00,1332047417601101824,mstable_,"You can now get mStable news through @get_delta! 
+
+Just add $mUSD or $MTA and you will be notified of announcements, integrations, new mAssets and more through Delta's iOS and Android apps.
+
+👉 Download the app here: https://t.co/PlolRi8UXT",13,0,1,2020-11-26
+340,2020-11-30 18:07:27+00:00,1333472726749745153,mstable_,"A highly sought after mStable Guide has been added:
+
+#Staking MTA
+
+Discover the prerequisites, process, and benefits to staking $META now.
+
+https://t.co/5hXk3cmZNz",20,2,2,2020-11-30
+341,2020-12-01 16:37:10+00:00,1333812393282035718,mstable_,"Ratifying the most recent governance votes, $DAI has been temporarily removed from the $mUSD basket. 
+
+Remaining bAssets include $TUSD, $USDT, $USDC and $sUSD.
+
+https://t.co/Xyfo7Cor2D",14,2,1,2020-12-01
+344,2020-12-02 04:06:59+00:00,1333985992617897984,mstable_,"mStable's November Development update is now available.
+
+Work on MIPs 3 and 4, the new #AMM, $mBTC, more wallet support, enhanced analytics via @graphprotocol, and more.
+
+https://t.co/vf01AYftn0
+
+#DeFi $mUSD",41,4,7,2020-12-02
+345,2020-12-07 18:03:55+00:00,1336008554696892423,mstable_,"The genesis team looks forward to receiving feedback on this first step towards making SAVE composable. If consensus is reached, $MTA Governors can anticipate a Snapshot poll going live 14 December. Review and discuss here:
+
+👉 https://t.co/IeDIKUTj6a",9,0,1,2020-12-07
+354,2020-12-08 17:19:51+00:00,1336359850771685378,mstable_,"MIP-5 introduces 3 changes that could bring immediate changes all SAVE users can benefit from, along with the larger DeFi ecosystem:
+
+- Tokenise SAVE
+- Enhance Capital Efficiency
+- $ymUSD Deposit Box, with a Boost for $META Stakers
+
+More here:
+👉 https://t.co/IeDIKUTj6a",23,1,2,2020-12-08
+356,2020-12-09 09:49:00+00:00,1336608777580269568,mstable_,"SAVE's average daily APY over the past 30 days is 12.29%. This is the power of pairing earnings from lending platforms, SWAP fees, and liquidating platform tokens — all streamed to Savers. #DeFi's most accessible, reliable and high-yielding product. 
+
+https://t.co/2teH2k3ZDT https://t.co/UlYUN6mdPB",43,0,6,2020-12-09
+358,2020-12-10 11:20:19+00:00,1336994148021309442,mstable_,"mStable's end of year community call is getting under way in just 10 minutes!
+
+Join the Discord server now, where the genesis team will broadcast in the 'live' channel.
+
+https://t.co/7kbpBqGM4T
+
+Team and product updates, MIP-5 discussion, and open Q&amp;A.
+
+$META #DeFi #mUSD",9,0,3,2020-12-10
+360,2020-12-14 17:40:02+00:00,1338539256038510594,mstable_,"4. A proposal from @rabbithole_gg to fund an educational campaign on their platform in Q1 2021.
+
+https://t.co/BitJn7NI43
+
+Feel free to ask questions and discuss on Discord, Telegram or the forum. Happy voting! #defi #governance",5,0,2,2020-12-14
+364,2020-12-15 14:29:54+00:00,1338853794885545985,mstable_,"The AMA is getting underway in 1 minute!
+
+https://t.co/owoElKsy4B https://t.co/dKUcBdpY9l",4,0,2,2020-12-15
+366,2020-12-17 18:52:46+00:00,1339644723032633346,mstable_,"mStable's genesis team recently held an AMA in its Telegram group to respond to questions from the $META community! 
+
+Check out this recap with full responses from James, Alex and Onur captured:
+
+https://t.co/fH4KJwOR2Q
+
+#DeFi $mUSD $mBTC",10,0,1,2020-12-17
+372,2020-12-21 17:14:28+00:00,1341069540445315075,mstable_,"@richwgalvin 4. Should mStable fund an educational campaign on @RabbitHole_gg?
+
+Yes - 99.28%
+No - .72%
+
+https://t.co/BitJn7NI43
+
+Thanks to all $Meta governors for voting! #DeFi #governance $mUSD $imUSD",3,1,2,2020-12-21
+375,2020-12-23 15:23:09+00:00,1341766301719670785,mstable_,"The average 30 day APY in mStable SAVE is sitting at 29.86%. This is the power of combining earnings from lending platforms, SWAP fees, and liquidating platform tokens — all streamed to Savers. #DeFi's most accessible, reliable and high-yielding USD-based product. https://t.co/G8UGDu6uRs",39,3,10,2020-12-23
+377,2020-12-24 13:25:00+00:00,1342098953941086208,mstable_,"You can now watch the replay of mStable Community Call 004! The genesis team discussed progress on recent MIPs, current MIPs in development, the new incentivized constant sum market maker (ICSMM), and governance proposals.
+
+https://t.co/Z7gcWxW0k6",9,1,2,2020-12-24
+378,2020-12-25 03:24:08+00:00,1342310128729661440,mstable_,"Thanks to mStable's community, SAVE v2 was conceived and approved. It should launch in January alongside $imUSD, mStable's new interest-bearing token, allowing for new strategies to earn even more yield on stablecoins.
+
+$mBTC will come shortly after. 2021 looks exciting to us!",38,3,12,2020-12-25
+380,2020-12-29 22:25:43+00:00,1344046970298642437,mstable_,Congrats to the Opyn team on launching v2! https://t.co/nV9lSuVNtQ,14,0,2,2020-12-29
+381,2021-01-02 19:20:02+00:00,1345449794618224641,mstable_,"106% SAVE APY today. 
+
+What are your stablecoins doing?
+
+https://t.co/2teH2k3ZDT 
+
+#DeFi #yieldFarming https://t.co/H3QEe1K1RP",40,3,11,2021-01-02
+382,2021-01-05 16:30:12+00:00,1346494214570450944,mstable_,"October saw mStable join Messari's Disclosures Registry. mStable also sponsored @ETHGlobal's ETHOnline hackathon, and began producing more educational content to help bring more people into #DeFi. 8/11
+
+https://t.co/WJudAh0tvA",5,1,1,2021-01-05
+394,2021-01-06 16:13:14+00:00,1346852335545409536,mstable_,"Back in October, two MIPs were created around gas reductions for minting &amp; redeeming mUSD, swapping bAssets, and SAVE deposits. 
+
+mStable is happy to announce both MIPs have been deployed to the mainnet!
+
+For more details, check the full announcement:
+
+https://t.co/NXhbB3dVWX 1/4",14,2,4,2021-01-06
+398,2021-01-07 23:15:59+00:00,1347321110459650050,mstable_,"Wanna find out more? Check out ours and other Defi bounties below!
+
+https://t.co/PcDPqNFLX3",2,0,1,2021-01-07
+401,2021-01-14 17:56:05+00:00,1349777321314684928,mstable_,"As you vote on adding $PAX to the $mUSD basket of assets, and consolidating all unallocated $Meta to the mStable #DAO, now is a good time to also discuss MIP-6 for $mBTC.
+
+https://t.co/bgOvkyZsjg",10,2,2,2021-01-14
+402,2021-01-15 19:18:05+00:00,1350160343620837378,mstable_,"mUSD SAVE v2 is launching next Monday, 18 January!
+
+Please note that v2 will require a migration - an assistant and a how to guide will be made available 
+
+SAVE v2 includes the launch of the imUSD token - a tokenised mUSD SAVE that you can use throughout DeFi 🚀",77,1,24,2021-01-15
+404,2021-01-16 13:04:09+00:00,1350428629264642048,mstable_,"@itamarl @osarrouy @argentHQ Our users would love access to mUSD SAVE on Argent - currently offering 39% mUSD APY https://t.co/GeHxWeYprg 
+
+v2 coming out on Monday!",5,1,1,2021-01-16
+405,2021-01-18 20:16:59+00:00,1351262330127065088,mstable_,"@tomasz_swaczyna @Mstable 1. You must deposit funds into SAVE in order to earn yield
+2. Yes
+3. The APY will be live roughly 24 hours after launch
+4. Maximizing SAVE v2 = deposit into SAVE, stake MTA, and deposit imUSD into the vault.",0,2,0,2021-01-18
+414,2021-01-19 15:00:16+00:00,1351545015928037378,mstable_,"Watch @sassal0x break down SAVE v2 the way only Sassal can.
+
+https://t.co/o3nAHz18zO",26,2,4,2021-01-19
+417,2021-01-20 19:54:00+00:00,1351981321220812800,mstable_,"mStable genesis team is happy to share @certikorg's audit of SAVE v2.
+
+PDF here:
+https://t.co/9CbtLjblBx
+
+Added to their GitHub repo of reports here:
+https://t.co/V9XPSjH8bt",21,1,2,2021-01-20
+421,2021-01-21 15:27:54+00:00,1352276744515022848,mstable_,mBTC IS COMING https://t.co/TFyADeYZc4,393,34,68,2021-01-21
+423,2021-01-22 01:14:05+00:00,1352424260095119361,mstable_,@OrganicMedsCA @icebergy_ 65% https://t.co/D4DGHOvuuI,2,2,0,2021-01-22
+425,2021-01-24 18:40:22+00:00,1353412345423409152,mstable_,"@SkysLightEye Interest is earned in Save the same way it was before -- lending platform earnings, and protocol fees. You can also deposit your imUSD into the Vault and earn MTA.",0,0,0,2021-01-24
+427,2021-01-25 08:08:57+00:00,1353615829108219904,mstable_,MTA pair soon to be on @SushiSwap Onsen 🍣🍣🤩 https://t.co/e4Qf5cAb5l,62,4,11,2021-01-25
+429,2021-01-26 19:04:48+00:00,1354143269450625026,mstable_,"3/ The mStableDAO is proposing to allocate a weekly MTA reward to an mBTC Earn pool.
+
+https://t.co/9oKa5jEMY0
+
+Two polls linked in the forum post: EARN pool location, and MTA reward amount.",6,1,0,2021-01-26
+437,2021-01-27 01:35:17+00:00,1354241534632349702,mstable_,"Join mStable's genesis team for Community Call 005 on:
+
+- January 28, 2021
+- 06:00 EST | 12:00 CET | 19:00 Beijing
+- Live channel at https://t.co/7kbpBqGM4T
+
+Discussions include SAVE v2, $mBTC, the new AMM, and a special guest chat. We will also take questions from the community! https://t.co/OU49NWrPbo",15,1,4,2021-01-27
+439,2021-01-28 10:55:23+00:00,1354744879163830272,mstable_,"This month's Community Call starts in just a few minutes!
+
+Join our Discord server and connect to the 'live' channel to participate.
+
+https://t.co/7kbpBqGM4T",9,1,3,2021-01-28
+441,2021-01-30 05:51:48+00:00,1355393253621772289,mstable_,"You have until January 31, 2021 at 6:00 AM EST / 12:00 PM CET to vote in the latest governance polls.
+
+https://t.co/gSDHbOaGxC
+
+Let us know if you think $mBTC should launch, whether to migrate some $MTA rewards to a @SushiSwap pool, and more.",20,2,3,2021-01-30
+442,2021-01-31 13:47:14+00:00,1355875288366915585,mstable_,"Community Call 005 recording is now available!
+
+YT: https://t.co/MH2RiXvW7h
+@LBRYio: https://t.co/ko4FW146U7
+
+Launch of Save v2, update on mBTC, chat with the CEO of @immunefi, updates made to the protocol and dApp, and a look at recent governance &amp; staking statistics all shared.",18,2,2,2021-01-31
+444,2021-02-02 02:59:06+00:00,1356436957254078464,mstable_,"$MTA been added to @indexcoop's $DPI! 🙌
+
+The index has stringent requirements and showcases the best #DeFi has to offer. mStable is honoured to have MTA included in this @SetProtocol set. 
+
+The index includes $UNI, $COMP, $AAVE and others.
+
+https://t.co/BoH0q28bEw",138,6,23,2021-02-02
+445,2021-02-03 05:02:06+00:00,1356830296881135616,mstable_,"5. PDP11: MIP-6: mBTC &amp; Upgraded AMM
+Winning option was Yes, with 100% of the vote.
+
+6. PDP12: Which bAssets should be included in the mBTC basket?
+Winning options were $wBTC, $sBTC, $renBTC &amp; $bBTC.
+
+You can review all polls on our Snapshot instance. Thanks for voting!",12,0,1,2021-02-03
+449,2021-02-04 14:08:41+00:00,1357330238754160645,mstable_,Who wouldn't want such an #NFT 🤓 https://t.co/nQ2KQfEHko,10,2,1,2021-02-04
+452,2021-02-08 08:44:53+00:00,1358698302192160769,mstable_,"@russian_market Best market for MTA is on Uniswap. For centralised exchange, Huobi or FTX. Thanks for your interest!",7,1,0,2021-02-08
+454,2021-02-09 18:02:37+00:00,1359201049333161984,mstable_,AMA is on now! https://t.co/1kRVNMQELQ,10,0,1,2021-02-09
+458,2021-02-10 19:00:23+00:00,1359577973708513285,mstable_,"mStable kicked off its new, monthly AMA series with open Q&amp;A focused on $mBTC and its upcoming launch.
+
+https://t.co/kMtlqlBdto
+
+Topics covered also include Save APY, $imUSD and how the AMM proposed in MIP-7 works!",45,3,6,2021-02-10
+461,2021-02-11 01:29:53+00:00,1359675994387468288,mstable_,"🚨 We have been notified of a fraudulent mStable-branded website with a link to ""Download Appv2"".
+
+This is a fake website distributing malware. Do not download any .exe or other binary files. 
+
+https://t.co/U8kAKfmilB and https://t.co/oYFkTE7d8a are the only legitimate domains.",18,0,6,2021-02-11
+462,2021-02-12 15:04:57+00:00,1360243500529442816,mstable_,"We are excited to announce the launch of mStable's second mAsset, mBTC!
+
+Get started:
+
+https://t.co/nyeunT3Ddj
+
+Learn more:
+
+https://t.co/DILnSpJMAp",319,21,86,2021-02-12
+466,2021-02-15 18:22:20+00:00,1361380337243283457,mstable_,Proud to be part of the #GoodFi movement in #DeFi 💪 https://t.co/V4nrzNk0ih,41,12,6,2021-02-15
+467,2021-02-16 09:43:35+00:00,1361612179959644160,mstable_,We support the implementation of EIP-1559 to improve the user experience of Ethereum network transactions. https://t.co/PV5Ez39eS6 #supportEIP1559 #Ethereum,211,10,32,2021-02-16
+469,2021-02-18 17:41:31+00:00,1362457230512160770,mstable_,it is a love affair now😍 https://t.co/qa7qnyAGEo,52,6,9,2021-02-18
+473,2021-02-19 15:45:57+00:00,1362790533148651524,mstable_,"@Oneluckybat You can withdraw the MTA at any time, but you lose your voting rights if you do.",1,0,0,2021-02-19
+474,2021-02-20 15:43:59+00:00,1363152425918599168,mstable_,"@sanctuslacobus Please join the Discord server and we can get you in touch with the developers directly and get you what you need. Thanks! 
+
+https://t.co/7kbpBqGM4T",1,0,0,2021-02-20
+475,2021-02-22 20:11:38+00:00,1363944559160483841,mstable_,@SkysLightEye Could you please send us a screenshot in private?,0,0,0,2021-02-22
+477,2021-02-23 09:39:57+00:00,1364147978953351171,mstable_,"*our second meta-stablecoin. 
+
+The metal stuff will come later 🪙😏",20,1,1,2021-02-23
+480,2021-02-24 13:30:00+00:00,1364568260297990147,mstable_,"Join us this Thursday 25th at 11:00 CET | 17:00 CET for the #community call 006 w/ our friends @1inchExchange 
+
+View from the top, $mBTC talk, guest interview and Q&amp;A
+
+See you on the Live channel at https://t.co/XxSAEBp3q2 https://t.co/Kv7CVm5E8z",71,4,13,2021-02-24
+483,2021-02-25 20:49:47+00:00,1365041325276622854,mstable_,"Power to the GoodFi Alliance with @RadixCrypto @AaveAave @MessariCrypto @chainlink 
+
+https://t.co/TWGu7JfGwT @Cointelegraph #DeFi",13,3,3,2021-02-25
+488,2021-02-26 02:44:31+00:00,1365130593478922241,mstable_,"We love sushi, and we love it that mBTC is one of the options available for Onsen Round 2.
+
+Jump into the pool and earn some rewards! $MTA $SUSHI 🧖 https://t.co/8BXR97l3Qu",34,3,5,2021-02-26
+491,2021-03-03 04:18:04+00:00,1366966078736244737,mstable_,@sassal0x @intocryptoverse Just wait till you can add mETH to that list...,29,3,1,2021-03-03
+495,2021-03-04 14:27:58+00:00,1367481950601117698,mstable_,"Community Call 006 recording now available, feat special guest Kirill Kuznetcov of @1inchExchange.
+
+- YouTube: https://t.co/6HbNjtjOl8
+- @LBRYio: https://t.co/bGLCnYCRrz
+
+Genesis team discussed launch of $mBTC, governance items up for discussion, and addition of new team member!",12,1,4,2021-03-04
+499,2021-03-06 07:24:29+00:00,1368100155556204545,mstable_,Big-brain thread from one of our best👇 https://t.co/bbx9tq0oaI,45,8,14,2021-03-06
+500,2021-03-08 18:07:11+00:00,1368986672310984704,mstable_,"Snapshot poll posted by mStable protocolDAO representative on: 
+
+- Increasing Save liquidator's weekly $USD contribution
+
+https://t.co/U7eTNsG0dj #DeFi #Governance",24,6,18,2021-03-08
+501,2021-03-09 16:38:56+00:00,1369326851525668878,mstable_,"Buy Back and Make + Feeder Pools AMA 
+
+Tomorrow, March 10th, at 10 AM EST | 4pm CET 
+
+Join us on discord, general channel: https://t.co/XxSAEBp3q2  #DeFi #AMA https://t.co/AX8ocE9SGA",34,8,14,2021-03-09
+505,2021-03-10 03:24:54+00:00,1369489414238314502,mstable_,"🎉 $60,000,000 TVL
+
+Mint the best risk-minimised, capital efficient, pegged-value crypto assets in #DeFi 👇
+
+$mUSD $mBTC
+
+https://t.co/5yl4aqEGUr https://t.co/y9xUzV6CzN",68,9,31,2021-03-10
+507,2021-03-11 14:13:54+00:00,1370015126615588869,mstable_,"$MTA governors vote here: 
+
+➡️ https://t.co/yvwpxmXIJV",7,0,9,2021-03-11
+510,2021-03-12 14:36:12+00:00,1370383125696540689,mstable_,"Mint $imUSD from your stablecoins
+
+Earn ~15% APY
+
+Deposit $imUSD into 
+@arcxmoney, mint STABLEx
+
+Swap STABLEx for $USDC, mint $imUSD 🤯
+
+The future of France.
+
+#DeFi",46,10,21,2021-03-12
+512,2021-03-13 11:00:00+00:00,1370691105931419655,mstable_,"🎨 We made a minor visual refresh to our homepage featuring daily APY, mBTC stats and more!
+
+Check it out ➡️ https://t.co/VE4VYdxGgA https://t.co/3494zZuCrq",29,2,7,2021-03-13
+514,2021-03-14 02:35:00+00:00,1370926405697953794,mstable_,mVINE https://t.co/148lmQ7BpB,56,2,8,2021-03-14
+515,2021-03-15 00:00:01+00:00,1371249789954842625,mstable_,"Proposal PDP17 mUSD StableSwap implementation is now up for voting!
+
+⏰ Vote closes 18 Mar 2021.
+
+$MTA governors vote here 👇
+
+https://t.co/G66IG4zT10 https://t.co/MoTKXOGArI",44,1,5,2021-03-15
+517,2021-03-16 00:00:01+00:00,1371612179405754370,mstable_,"Proposal MDP 18.1 Swiss Association funding - MTA is now up for voting!
+
+⏰ Vote closes 20 Mar 2021.
+
+$MTA governors vote here 👇
+
+https://t.co/8ZmpyjFuC1 https://t.co/T3sEfcZo8r",14,1,3,2021-03-16
+520,2021-03-17 06:00:00+00:00,1372065161062793216,mstable_,"PDP15 Buyback &amp; Make pool creation proposal successfully passed by $MTA governors! ⚖️
+
+✅ 10% of mStable’s system revenue will be diverted to the Buyback and Make pool. https://t.co/X4voFoV1Gf",44,4,8,2021-03-17
+523,2021-03-18 15:50:15+00:00,1372576088723963904,mstable_,@enzymefinance @AaveAave 🔥🔥,7,0,0,2021-03-18
+525,2021-03-19 02:15:37+00:00,1372733469701197824,mstable_,"@defipulse Turned your crypto assets into more capital efficient ones, with composable yield opportunities across DeFi in a decentralized and non-custodial manner!",18,0,2,2021-03-19
+527,2021-03-21 03:41:02+00:00,1373479738556116997,mstable_,"$mUSD upgrade and migration will be happening next Monday 22nd March! ⏰
+
+The newly upgraded bonding curve will be able to flexibly target bAsset weights, guarantee a minimum amount of liquidity, be more composable and likely increase swap volumes.
+
+https://t.co/U2YXydDVlB",49,3,9,2021-03-21
+533,2021-03-22 03:52:50+00:00,1373845096685178886,mstable_,"2/ MCCP-4: MTA rewards emission overhaul
+
+Major revamp to MTA emission bringing all the incentives “in-house” to create better circular effects, reduce MTA sell pressure and maximise TVL.
+
+https://t.co/A8CELoBa0U",12,0,3,2021-03-22
+537,2021-03-23 01:26:28+00:00,1374170649715822596,mstable_,"⚠️ Our $mUSD migration and upgrade is underway! 
+
+Mint, swap and redemption functionality is blocked on the mStable app at the moment as the team works on the upgrade. 
+
+We expect everything to be normal in the next 24 hours as the last of liquidity transfers across 🌊. https://t.co/DDoHYZPfff",21,0,2,2021-03-23
+544,2021-03-24 03:29:39+00:00,1374564039162884099,mstable_,"3/ MCCP-4 does not propose changes to the MTA assigned to Staking rewards or MTA/ETH pool.
+
+Instead, it proposes that mStable stops incentivising liquidity on third party protocols and focus entirely on Feeder Pools, potentially leveraging &amp; giving more fees to mAsset SAVE.",9,2,0,2021-03-24
+553,2021-03-25 06:55:32+00:00,1374978237890109440,mstable_,@gitcoin @HardhatHQ @PaulRBerg @SablierHQ @jobsincrypto @DefiSafety 1/ They have all helped us through building some of the most magical products or offering the best services that we could have asked for.,11,1,1,2021-03-25
+556,2021-03-27 03:57:55+00:00,1375658317050126337,mstable_,"We've begun our buybacks.
+
+First of many.
+
+Up only.
+
+https://t.co/KNRpSYRZNU https://t.co/WYh1aqxekx",88,2,15,2021-03-27
+558,2021-03-30 22:12:57+00:00,1377021053365579781,mstable_,"⚠️⚠️⚠️ A fake telegram group ""mStable Official Community"" with the same name as the official group is inviting people and redirecting them to an airdrop branded page. Asking for users to contribute MTA for receiving even more MTA. THIS IS A SCAM. ⚠️⚠️⚠️",32,1,6,2021-03-30
+562,2021-03-31 09:53:55+00:00,1377197455058477057,mstable_,Feeder pools UI in our staging environment 👀 https://t.co/h53z47e486,49,1,5,2021-03-31
+570,2021-04-01 03:42:26+00:00,1377466359605460997,mstable_,Guess what’s next? 👀 https://t.co/2dbXuqxqFp,34,4,3,2021-04-01
+572,2021-04-02 14:53:01+00:00,1377997502205419523,mstable_,"Two proposals about MTA liquidity pools are up for voting!
+
+⏰ Vote closes 6 April 2021.
+
+$MTA governors vote thread 👇",15,1,3,2021-04-02
+580,2021-04-03 16:20:18+00:00,1378381855565615106,mstable_,"$mUSD Feeder Pools: https://t.co/7BwyQQ5tlC
+
+$mBTC Feeder Pools: https://t.co/ODMm8j3jOw",6,0,1,2021-04-03
+584,2021-04-04 17:25:34+00:00,1378760671748182017,mstable_,"Feeder Pools provide an entirely new environment to scale mStable and generate new opportunities for users, savers, liquidity providers, governors and more.
+
+Thread 👇",35,1,11,2021-04-04
+592,2021-04-06 05:03:46+00:00,1379298766071590912,mstable_,"📖 Read our feeder pool guide: https://t.co/fcT3txlK9W
+
+➡️ mUSD fPool: https://t.co/7BwyQQ5tlC
+
+➡️ mBTC fPool: https://t.co/ODMm8j3jOw",11,0,1,2021-04-06
+595,2021-04-07 04:23:07+00:00,1379650923635478531,mstable_,"A guide to contributing liquidity into our new $mBTC feeder pools on mStable, earning swap fees and $MTA rewards with low impermanent loss risk.
+
+Thread 👇 https://t.co/M0RQWZF9I4",46,3,7,2021-04-07
+603,2021-04-08 12:30:16+00:00,1380135905395056641,mstable_,"MDP-20.1 and MDP-20.2 proposals successfully passed by $MTA governors! ⚖️
+
+✅ mStableDAO will use funds to create a liquid MTA/DAI pool on Uniswap.
+✅ Weekly MTA rewards to the MTA/WETH Uniswap pool be reduced to 5K $MTA https://t.co/hR9pUO93d3",24,2,2,2021-04-08
+605,2021-04-09 14:59:26+00:00,1380535833581641728,mstable_,🎮 https://t.co/SmNHhVXL1f,24,0,5,2021-04-09
+607,2021-04-10 05:47:53+00:00,1380759418850054145,mstable_,"Phenomenal growth in liquidity for our $mUSD and $mBTC Feeder Pools since launch with more than US$25m locked! 🎉
+
+https://t.co/7BwyQQ5tlC https://t.co/NUVPCz4dmc",51,4,7,2021-04-10
+609,2021-04-12 15:06:51+00:00,1381624865447239680,mstable_,"7/ The mStable Genesis team were unable to source 10m sUSD easily, as the cost of swapping incurred through slippage would have left the mUSD basket materially undercollateralised.",6,1,0,2021-04-12
+624,2021-04-13 15:16:28+00:00,1381989671148789760,mstable_,👀 https://t.co/fgGduy5WXQ,21,3,3,2021-04-13
+625,2021-04-14 14:03:33+00:00,1382333710956044291,mstable_,mDOS https://t.co/jxQClzLuv3,145,13,31,2021-04-14
+626,2021-04-15 10:50:34+00:00,1382647532703019008,mstable_,"7/ With this new dynamic reward distribution model, we aim to accelerate the growth of high-performing pools through automatic incentives, and remove ourselves from the decision-making process.",6,0,1,2021-04-15
+635,2021-04-16 11:32:00+00:00,1383020344361902080,mstable_,"☎️ Don’t miss today’s community call!
+
+➡️ A special guest @MihailoBjelic from Polygon
+➡️ mStable Community NFTs with @LeaFilipo 
+➡️ Feeder Pools
+➡️ Upcoming releases and collaboration 
+
+🙌🙌 https://t.co/2ar9g8t620",34,0,11,2021-04-16
+639,2021-04-18 16:11:12+00:00,1383815386588532738,mstable_,"⏰ Our @Bancor proposal is expected to appear on Snapshot for voting on Monday 19, April 2021 at 12:00 pm UTC.
+
+https://t.co/5HFw6kQg48 https://t.co/A3jS0xBwcr",47,1,10,2021-04-18
+640,2021-04-19 18:12:26+00:00,1384208281573285895,mstable_,"Metanauts, 2 more days to cast your vote!👀🔥 https://t.co/8IGWP7aeq8",13,1,2,2021-04-19
+650,2021-04-20 13:07:58+00:00,1384494049357295619,mstable_,"If you're a developer and familiar with ERC-721, ERC-1155 and #NFTs drop us a DM! 📥",21,0,5,2021-04-20
+653,2021-04-21 15:47:46+00:00,1384896652050325511,mstable_,"A new milestone for $mUSD - a stablecoin for #DeFi
+
+➡️ Diversified collateral $USDC $USDT $DAI $sUSD
+➡️ Fully backed on-chain
+➡️ Composable and robust
+➡️ Interest-bearing $imUSD
+
+Learn more in our docs 👇 
+https://t.co/67yU2E5LHK https://t.co/psUzOebXru",28,3,5,2021-04-21
+654,2021-04-22 04:41:44+00:00,1385091425499447296,mstable_,"Why mStable’s Save 💰 is the best savings product in #DeFi
+
+Thread 👇🏻",73,2,16,2021-04-22
+664,2021-04-23 12:05:04+00:00,1385565384439255043,mstable_,Sneak peek 👀 https://t.co/hUlUb7laFM,589,23,83,2021-04-23
+667,2021-04-25 05:56:01+00:00,1386197284665266178,mstable_,"While gas prices on Ethereum are low over the weekend, it might be great time to Save with DeFi's most attractive savings account 💵. https://t.co/2KRzY2X0at",34,0,3,2021-04-25
+668,2021-04-26 19:04:16+00:00,1386758040335142922,mstable_,"5/  Join our community on discord here 👇
+
+https://t.co/bkgVlKdhzT
+
+We'd love your feedback!",16,0,1,2021-04-26
+674,2021-04-27 13:59:40+00:00,1387043775780818948,mstable_,"✅ More than 18.7m $mUSD minted from 500+ mints
+
+✅ US$1.1m in swap volume generating US$2.8K in fees to Savers
+
+And it's still day one. https://t.co/YNluHbp1mk",44,3,9,2021-04-27
+678,2021-04-28 10:10:35+00:00,1387348509532168192,mstable_,"1m of $MTA liquidity has just been contributed to the $BNT / $MTA pool on @Bancor by the mStableDAO 💰
+
+https://t.co/oL3xff4MSQ https://t.co/u54sh7e19Z",68,6,14,2021-04-28
+680,2021-04-29 07:27:11+00:00,1387669779582832641,mstable_,"We almost missed this one 👀
+
+Crypto markets never sleep, and soon equity markets won't either. Congrats @synthetix_io team! https://t.co/2qv5oaYvx7",38,0,1,2021-04-29
+681,2021-04-30 00:32:05+00:00,1387927703412641792,mstable_,$mUSD now supported on @dHedgeOrg Fox Swap for even cheaper entry and exit for investors 🔥 https://t.co/UDUWJuPsI7,28,0,7,2021-04-30
+684,2021-05-03 12:00:02+00:00,1389187994414944259,mstable_,"PDP 21 Migrate DAI and WBTC to Aave v2 up for voting!
+
+⏰ Vote closes 7 May 2021.
+
+$MTA governors vote here 👇
+
+https://t.co/NDsJljbGec https://t.co/OsCyHmjLoE",23,2,6,2021-05-03
+688,2021-05-04 09:51:21+00:00,1389517999313276928,mstable_,"Why meta assets make better assets.
+
+Thread 👇",78,3,14,2021-05-04
+696,2021-05-05 15:04:47+00:00,1389959262638465027,mstable_,"We love seeing protocols like @RariCapital integrating their products into ours. 
+
+Secure, high yielding and dependable 💯 https://t.co/l5OSg8plsl",65,6,15,2021-05-05
+697,2021-05-08 18:38:26+00:00,1391100196197601289,mstable_,"PDP 21 Migrate DAI and WBTC to Aave v2 successfully passed by $MTA governors! ⚖️
+
+✅ DAI and WBTC in mStable will be migrated to Aave v2, increasing the overall yield on interest bearing mAssets 💰 https://t.co/pQxO18VdGB",19,3,2,2021-05-08
+698,2021-05-10 00:59:53+00:00,1391558578662637568,mstable_,"@MapleLeafCap mStable Feeder Pools 23%-76% APY or mStable Save 10%-30% APY 
+
+https://t.co/7BwyQQ5tlC
+https://t.co/CBqdNm6V9i",5,0,1,2021-05-10
+699,2021-05-11 03:36:00+00:00,1391960253923696643,mstable_,"Looking for yields on your stablecoins? 
+
+Here's a quick overview on where to earn yields on mStable with our meta stablecoin $mUSD. https://t.co/vY0wQdYYOE",50,1,14,2021-05-11
+700,2021-05-12 11:03:19+00:00,1392435213980995587,mstable_,"Mint, Swap and Redeem mAssets through the simplified Forge interface.
+
+https://t.co/5yl4aqEGUr https://t.co/4gLsvr34cp",34,3,8,2021-05-12
+701,2021-05-13 15:23:23+00:00,1392863046582767618,mstable_,Spotify for DeFi investments! https://t.co/OWcLro2KIQ,11,0,2,2021-05-13
+702,2021-05-14 02:29:35+00:00,1393030704326348809,mstable_,"$17K waiting to be deposited into our buyback and make pool 👀.
+
+https://t.co/PbMWXfP2EJ",23,0,1,2021-05-14
+704,2021-05-15 02:46:40+00:00,1393397389386416129,mstable_,"We have refreshed the app to make it much easier to navigate! 🎉
+
+⚙️ Network switching is now consolidated under the gear icon
+
+🌎 Explore mStable Assets and opportunities in the new account modal
+
+📱More mobile friendly!
+
+https://t.co/5yl4aqEGUr https://t.co/pCImhrBHtL",39,7,6,2021-05-15
+705,2021-05-17 12:44:37+00:00,1394272645156261897,mstable_,"Whether you are long #Bitcoin or taking shelter in stablecoins, mStable offers the best passive savings account in #DeFi with high native yields.
+
+https://t.co/VE4VYdxGgA https://t.co/glb8ndO5ro",43,6,10,2021-05-17
+706,2021-05-18 18:04:02+00:00,1394715417893957636,mstable_,"Two new proposals up on the Forum 🗳
+
+➡️ Increase the capital efficiency of $mUSD in the Feeder Pools by depositing it into @CreamdotFinance Iron Bank
+
+▶️ Reducing mStable’s swap fee of mAssets from 0.06% to 0.02%",27,2,3,2021-05-18
+709,2021-05-21 07:44:28+00:00,1395646661137879041,mstable_,"The first of a two-part series on decentralising mStable.
+
+https://t.co/Uo2fLmbF2a",36,0,12,2021-05-21
+710,2021-05-23 03:13:23+00:00,1396303214488608771,mstable_,Over 7 million in swaps yesterday giving Savers a great boost in yields. https://t.co/4itcT33eiX,44,1,2,2021-05-23
+711,2021-05-24 06:09:03+00:00,1396709812067471369,mstable_,"We are hiring! 
+
+Doesn’t matter where you are in the world, come build with us across marketing, engineering, growth and community 🔥
+
+All roles fully remote and well-paid. https://t.co/aj9kquukli",63,3,5,2021-05-24
+712,2021-05-25 05:31:36+00:00,1397062777257160706,mstable_,"Two new proposals now up for voting!
+
+➡️ PDP 22: Reduce Swap Fees to Bootstrap Users
+➡️ PDP 23: Deposit $mUSD from Feeder Pools into the Iron Bank
+
+⏰ Vote closes 29 May 2021.
+
+$MTA governors vote here 👇
+https://t.co/QJzGcnrdHM",19,1,0,2021-05-25
+713,2021-05-27 13:18:16+00:00,1397904991986196480,mstable_,"1 year ago, our first mAsset $mUSD went live on Ethereum! 🎉
+
+https://t.co/VKJ50aXpRp https://t.co/z6S0XU4tgs",36,4,4,2021-05-27
+714,2021-05-31 04:04:09+00:00,1399215093280251907,mstable_,"PDP 22 and PDP 23 have been successfully passed by $MTA governors! ⚖️
+
+✅ mStable's swap fees will be lowered to 0.02%
+
+✅ $mUSD from the Feeder Pools into @CreamdotFinance’s Iron Bank in order to increase the utilization and APY of Feeder Pools https://t.co/R4Ut5iWPkQ",22,0,4,2021-05-31
+715,2021-06-01 05:33:05+00:00,1399599864955097090,mstable_,"Congratulations to @mStats4 on receiving an mStable grant 🎉! 
+
+We support those who contribute to building out the mStable protocol and ecosystem.
+
+A revamped and renewed GrantsDAO is coming soon!",24,2,0,2021-06-01
+718,2021-06-02 08:49:56+00:00,1400011788851183616,mstable_,"mStable GrantsDAO Formation &amp; Initial Funding up for voting!
+
+⏰ Vote closes 4 June 2021.
+
+$MTA governors vote here 👇
+https://t.co/7p4S20Ggnj",14,0,2,2021-06-02
+720,2021-06-07 01:44:41+00:00,1401716712278347778,mstable_,"This is just the beginning - we'll be issuing more badges in future for everything from community call attendance to governance participation.
+
+Thanks to the @poapxyz team for letting us issue the first ever animated POAPs too 🔥",9,0,0,2021-06-07
+723,2021-06-08 13:12:47+00:00,1402252268120928259,mstable_,"Proposal to launch liquidity mining on @0xPolygon
+
+https://t.co/k7vXcZGwPY",58,2,7,2021-06-08
+724,2021-06-10 08:48:38+00:00,1402910565501046787,mstable_,Another BIG swap day with more than US$12.6m in swaps for $mUSD 🎉 https://t.co/ZZ1ZQFXWsw,24,1,5,2021-06-10
+725,2021-06-14 02:16:28+00:00,1404261427167174658,mstable_,"Things you can do with 10 Gwei gas:
+
+▶️ Deposit into mStable Save (~10-20% APY)
+▶️ Provide liquidity in Feeder Pools (~15%-55% APY)
+▶️ Swap between pegged assets with the lowest fees
+▶️ Collect and claim rewards
+
+https://t.co/r9rj6sC6MN",18,0,2,2021-06-14
+726,2021-06-15 14:09:34+00:00,1404803272188346384,mstable_,"mStable is excited to announce our insurance partnership with @insur_ace - a leading decentralized insurance protocol providing reliable, robust and secure DeFi insurance services to the DeFi users.
+
+https://t.co/V7igTKMSkZ",44,1,6,2021-06-15
+730,2021-06-16 16:55:25+00:00,1405207396390113281,mstable_,"mStable's mission is to create a safe haven for wealth in DeFi, and @graphprotocol is an integral part of the infrastructure that will get us there. https://t.co/8RCZy5TUao",27,2,3,2021-06-16
+732,2021-06-17 14:48:52+00:00,1405537936230150150,mstable_,"We have a growing and global community of governors and #Metanauts helping steer the protocol.
+
+👩‍🚀 $MTA https://t.co/FO9oz7lHc6",20,1,2,2021-06-17
+733,2021-06-18 13:34:10+00:00,1405881524373712902,mstable_,"Our goal when building mStable has always been security.
+
+$mUSD is a stablecoin with diversification properties, 1:1 backed completely on-chain with use cases for composable yield, allowing for greater capital efficiency.
+
+Learn more: https://t.co/7n1fpyU68b",29,1,2,2021-06-18
+735,2021-06-22 14:18:15+00:00,1407342169514516489,mstable_,"Still pretty stable.
+
+~11% APY on stablecoins
+
+$USDT $USDC $BUSD $GUSD $DAI $sUSD $mUSD https://t.co/I8HHrUOeYQ",33,2,3,2021-06-22
+737,2021-06-23 10:30:05+00:00,1407647139514122243,mstable_,"The mStableDAO has successfully has migrated its MTA/DAI liquidity from @Uniswap V2 to V3.
+
+https://t.co/hAvG0DIQGi",20,1,2,2021-06-23
+739,2021-06-24 12:00:00+00:00,1408032155813482500,mstable_,"Lots of exciting stuff coming up for our current development sprint 🔥
+
+➡️ $mUSD Feeder Pools on @0xPolygon with @fraxfinance $FRAX @AlchemixFi $alUSD
+➡️ $mETH spec and MIP
+➡️ Staking V2 spec and MIP
+➡️ @RariCapital Fuse Pool 
+➡️ @PoolTogether_ integration
+
+and more!",49,4,12,2021-06-24
+740,2021-06-28 12:32:51+00:00,1409489975297511432,mstable_,"@AlchemixFi 2/ PDP 26 Add Frax/mUSD Feeder Pool on Polygon
+
+Should the @fraxfinance Frax/mUSD Feeder Pool be added to mStable on Polygon?
+
+https://t.co/SRBuiCEe4l",6,1,0,2021-06-28
+744,2021-06-29 14:16:46+00:00,1409878512803225601,mstable_,"@insur_ace Alternatively, you can swap tokens for $mUSD using DEX aggregators like @paraswap 
+
+https://t.co/6M9aIrNXGq",7,0,1,2021-06-29
+749,2021-06-30 00:30:49+00:00,1410033045822873603,mstable_,"We are now live on @boardroom_info 🎊
+
+📪 $MTA governors can view, vote, and engage with active and completed proposals on the Boardroom App https://t.co/MocuRQZvEh",19,1,3,2021-06-30
+753,2021-07-02 01:59:26+00:00,1410780122202841092,mstable_,"For those that missed our Community Call, a recording is available on YouTube! 
+
+https://t.co/Y3eDrNdSAE",5,0,1,2021-07-02
+754,2021-07-05 03:38:00+00:00,1411892088313049092,mstable_,Thanks @poapxyz team for letting us issue our animated POAPs early 😉 https://t.co/fU0PXRJZak,8,1,0,2021-07-05
+755,2021-07-06 16:35:07+00:00,1412450044339376129,mstable_,"Users can mint $mUSD from supported stablecoins $USDC $DAI and $USDT, deposit into mStable Save and earn yield compounded automatically.",13,2,0,2021-07-06
+765,2021-07-09 01:32:47+00:00,1413310128095252480,mstable_,"Couldn’t make our community call?
+
+We’ve got you covered - here’s a recap 👇🏻
+
+https://t.co/rcEz2CkgLf",16,1,1,2021-07-09
+766,2021-07-11 01:59:38+00:00,1414041663534555140,mstable_,"Looking for a safe place to earn yields?  @defipulse got it covered.
+
+“Now not only can you use mStable super affordably on Polygon, you can also safely farm dual $MTA and $MATIC rewards via mStable’s Save app — a passive savings account for DeFi!” https://t.co/yiM6c8o343",23,5,6,2021-07-11
+767,2021-07-12 03:33:17+00:00,1414427618854592513,mstable_,We previously described how the process would work in this thread. https://t.co/4IT1vx8kek,6,1,0,2021-07-12
+770,2021-07-13 13:07:26+00:00,1414934493077508097,mstable_,"The alUSD/mUSD Feeder Pool is incentivised with ~20,000 MTA weekly and joins two existing Feeder Pools with @Gemini $GUSD and @binance $BUSD https://t.co/JBrTa8XHIF",14,2,1,2021-07-13
+779,2021-07-18 08:25:19+00:00,1416675438714228739,mstable_,"Reminder that the proposal Creation and funding of the mStableDAO Funding subDAO is up for voting!
+
+⏰ Vote closes 22 July 2021
+
+$MTA governors please cast your vote. https://t.co/4uZXXMRy0r",12,1,1,2021-07-18
+781,2021-07-22 10:59:58+00:00,1418163905768034305,mstable_,"We've published a new subgraph on @graphprotocol mainnet for our Feeder Pools and Vaults on #Ethereum. $GRT holders are invited to curate! 👩‍🚀
+
+https://t.co/ez9dQEmGG1",76,4,9,2021-07-22
+782,2021-07-23 01:02:24+00:00,1418375912278478849,mstable_,"🎁🎊Attention🎊🎁
+We've got a surprise for anyone who joins our Discord in the next *24 hours*!
+
+To enter:
+1. Join our Discord
+2. Find the special codeword in #announcements
+3. DM POAPbot
+
+Anyone who claims this POAP can enter our raffle for a chance to win merch &amp; fun prizes!🎉",55,3,42,2021-07-23
+785,2021-07-24 06:21:38+00:00,1418818638543532034,mstable_,"@duong2024 @Crypto_Texan @unvetica @jwpeddington @0xpenguin0x No problem! Check our discord #annoucements for more details. If you won a prize, you should receive an email shortly :)",1,0,1,2021-07-24
+790,2021-07-26 10:35:44+00:00,1419607360348192768,mstable_,$ALCX rewards for the $alUSD / $mUSD Feeder Pool is up! 🔥 https://t.co/c1npr8fQn4,30,1,4,2021-07-26
+791,2021-07-28 00:09:30+00:00,1420174539355430914,mstable_,"☎️🐵 Join us for an exciting Community Call tomorrow with Zakku from @coordinape 🐵☎️
+
+Zakku will be giving a demo of Coordinape, taking questions, and exploring how we can leverage their platform in mStable
+
+Time - July 28 at 930pm PT
+
+See you in discord!
+https://t.co/CgCcSJc9uK",17,0,5,2021-07-28
+794,2021-07-29 04:54:46+00:00,1420608717947502595,mstable_,"We’re live with @fifthworldzach ☎️🤝🐵
+
+https://t.co/bEm3AAidKm https://t.co/dHd5PvpTPM",7,0,0,2021-07-29
+795,2021-08-02 16:15:52+00:00,1422229674302709767,mstable_,"We can take a dynamic approach on whether to use SafeSnap in a proposal or the traditional approach of on-chain execution via the multi-sig. 
+
+The mStableDAO signer group currently possesses the power to veto any resolved answer of a proposal during the 7-day cooldown period.",3,1,0,2021-08-02
+803,2021-08-08 04:42:00+00:00,1424229381283536896,mstable_,"We've got a fresh coat of paint for our landing page! 🎨
+
+https://t.co/VE4VYdxGgA https://t.co/9Wl6EFij3P",56,2,7,2021-08-08
+804,2021-08-09 14:19:35+00:00,1424737124322926594,mstable_,"We have a vote on @RariCapital to whitelist the mStable ProtocolDAO as a Pool Creator to add mStable's mAssets and interest-bearing assets into a dedicated Fuse pool of its own.
+
+https://t.co/7f3nf3pKrv",32,0,3,2021-08-09
+805,2021-08-10 07:22:15+00:00,1424994486354997249,mstable_,We are proposing the formation of an Asset Management subDAO to more effectively deploy our treasury. https://t.co/UDL2d2CdHk,17,1,1,2021-08-10
+807,2021-08-12 05:51:39+00:00,1425696464005566464,mstable_,Go give @camsoulsby a follow!,6,0,0,2021-08-12
+809,2021-08-16 09:13:12+00:00,1427196734841659393,mstable_,"2️⃣ proposals up for voting!
+
+https://t.co/KCCPr0dgqt https://t.co/QHI0uDkm83",14,4,2,2021-08-16
+810,2021-08-18 07:25:57+00:00,1427894522302787586,mstable_,"Here’s a handy guide to contribute liquidity in the mUSD/FRAX Feeder Pool
+
+https://t.co/Zo5shBi7qj",15,4,0,2021-08-18
+812,2021-08-23 09:00:30+00:00,1429730253690195969,mstable_,"PDP 28 Reward distribution for weeks 35-41 is now up for voting!
+
+⏰ Vote closes 27 Aug 2021",3,2,0,2021-08-23
+814,2021-08-24 13:51:10+00:00,1430165789542387724,mstable_,"2 proposals up for voting!
+
+➡️ PDP 22 BadgerDAO Loan for Bootstrapping Vault Boost
+➡️ Cat Herder Full-Time Role Upgrade https://t.co/njY0Ct53w2",14,3,2,2021-08-24
+816,2021-08-25 14:13:56+00:00,1430533907435249675,mstable_,It’s fee collection time from our Feeder Pools on the mainnet! https://t.co/26exEcJDOS,14,2,1,2021-08-25
+818,2021-08-26 04:59:54+00:00,1430756868784197636,mstable_,We’re live on Discord dropping alpha and discussing staking v2! 🎉 https://t.co/yKi0NqgXRr,14,1,0,2021-08-26
+820,2021-08-31 12:26:00+00:00,1432681071779352577,mstable_,"A proposal on mStable’s Staking V2 is out 👀
+
+A thread on its key mechanics 👇🏻 https://t.co/Y0sq84SoEv",16,2,3,2021-08-31
+821,2021-09-01 10:50:50+00:00,1433019512677277708,mstable_,@Gemini $GUSD and @HuobiGlobal $HBTC have been key contributors of Feeder Pools swap volumes. https://t.co/n7Xe0RKTpw,10,1,0,2021-09-01
+823,2021-09-03 05:05:17+00:00,1433657325680672771,mstable_,"We are excited to announce that we have officially onboarded our #metanauts to @coordinape 👨‍🚀🤝🐵
+
+To learn more about Coordinape and how we plan to use it, please check out our new blogpost 👇
+
+https://t.co/YslTp13D32",26,3,4,2021-09-03
+824,2021-09-06 12:33:41+00:00,1434857335663448066,mstable_,"PDP 29 Staking V2 is now up for voting!
+
+This proposal seeks to improve the staking and community experience and increase value for stakers in the long term and opens up the possibility to integrate a gauge system for reward distribution.
+
+⏰ Vote closes 11 Sep 2021 https://t.co/A9BaZPszun",15,2,3,2021-09-06
+826,2021-09-09 14:44:24+00:00,1435977393928212489,mstable_,"Shoutout to the @DeBankDeFi team for swiftly integrating mStable Feeder Pools on @0xPolygon.
+
+This now means both Save and Pools in Polygon can be tracked! https://t.co/CCg05l10Gx",19,11,2,2021-09-09
+827,2021-09-15 00:10:11+00:00,1437931716430245889,mstable_,"gm
+
+This is mission control. Prepare to launch… Staking v2 👀🚀 https://t.co/GIDgQH2VIk",64,2,10,2021-09-15
+831,2021-09-17 23:59:26+00:00,1439016176416268289,mstable_,"🚨🎊🎁 We’re live on YouTube for our Staking V2 Launch Party! 🚨🎊🎁
+
+https://t.co/gDJRQvaHUo",21,2,0,2021-09-17
+839,2021-09-18 01:28:31+00:00,1439038593100435460,mstable_,@andreujuanc Thanks for joining the party! Tag Penguin in Discord and he’ll airdrop you some MTA 👀,5,1,0,2021-09-18
+840,2021-09-22 16:15:58+00:00,1440711479750058000,mstable_,"📣Announcement📣 
+
+The #mStable Fuse Pool is now live. Fuse is the first truly open interest rate protocol.
+
+Fuse lets you or your DAO lend or borrow against all of the mStable assets 🔥🔥🔥
+
+https://t.co/bdzYXpfA0f https://t.co/g7eqWg0w15",34,4,3,2021-09-22
+841,2021-09-29 15:53:44+00:00,1443242598311677952,mstable_,Our Asset Management subDAO has successfully deployed the tokens from MDP23 &amp; MDP24 in the respective @BalancerLabs and @ConvexFinance pools. https://t.co/nWUNlYaQUF,6,1,0,2021-09-29
+843,2021-10-05 05:52:51+00:00,1445265707453743105,mstable_,"Not sure where to start?
+
+High yielding savings accounts powered by the mStable AMM 👀 https://t.co/Axe9EpWGR1",14,3,0,2021-10-05
+845,2021-10-06 12:34:49+00:00,1445729256563118080,mstable_,"There are 9 days left for stakers to migrate to staking v2 and earn a permanent 1.25x boost! 
+
+61.1% of stakers have already migrated 📈
+https://t.co/BEZbvDfAk4
+
+For an in-depth guide on how to migrate, please check out this article 👇 
+https://t.co/g3ACu64jC9",9,0,1,2021-10-06
+846,2021-10-12 15:20:45+00:00,1447945342281035779,mstable_,"With the planned introduction of permissionless feeder pools on #mStable in the coming months, @ClochardTheo shares a useful intro about why they will be such an important addition to the platform 📈 https://t.co/Tbp7ZqmoOa",12,0,0,2021-10-12
+848,2021-10-13 11:30:00+00:00,1448249660913569794,mstable_,"⚠️Deadline Approaching⚠️
+
+The final opportunity for stakers to migrate to staking v2 and earn a permanent 1.25x boost is fast approaching.
+
+The quest closes TODAY at 1 am GMT
+
+For an in-depth guide on how to migrate, please check out this article ⏬
+
+https://t.co/g3ACu64jC9",11,1,1,2021-10-13
+849,2021-10-15 15:10:01+00:00,1449029803114434606,mstable_,"📣Announcement📣
+
+We're proud to announce our partnership🤝 with @BadgerDAO This mutually beneficial DAO to DAO loan is the first of its kind!
+
+Check out all the details below ⬇️ https://t.co/ftl4Zj3KxT",27,1,4,2021-10-15
+850,2021-10-18 09:14:24+00:00,1450027472481832965,mstable_,"We’re proud to announce a partnership 🤝 with @VisorFinance enabling management of treasury assets and $MTA - $ETH liquidity positions on @Uniswap v3.
+
+Enjoy benefits like increased capital efficiency, less slippage, and the ability to generate yield on #mStable treasury assets. https://t.co/AloiIrMvWT",117,6,18,2021-10-18
+851,2021-10-19 10:54:17+00:00,1450414995716681732,mstable_,"1/2 Proposals are up for vote 
+@mstable_
+:
+
+PDP 32: Add mUSD/RAI Feeder Pool
+First of its kind! 
+@reflexerfinance
+
+PDP 33: Bribe centric config set
+mStable entering the game
+
+👇  Links below  👇 https://t.co/c7yN9ra9zd",19,1,0,2021-10-19
+853,2021-10-21 11:01:18+00:00,1451141541016256517,mstable_,"Join us tomorrow (Oct 22nd) at 8:00 am UTC⏰for an AMA🤔with @reflexerfinance on the #mStable Discord server. 
+
+Invite here ➡️ https://t.co/klyJh25njH https://t.co/jWXgc6gKfr",19,0,2,2021-10-21
+854,2021-10-25 11:09:11+00:00,1452593073146540036,mstable_,"🚨mStable joins the Tally 10th Community Call🚨
+
+@TallyCash is a community controlled and operated Web 3 wallet
+
+Featuring @ClochardTheo + @dimsomedim from #mstable as guest speakers
+
+👉 With plenty of time for Q&amp;A
+
+October 29th, 2 pm ET
+Hope to see you there! https://t.co/httj3KM363",17,2,4,2021-10-25
+857,2021-10-26 10:40:04+00:00,1452948137040039943,mstable_,Great thread by @0xderc on how the @BadgerDAO  mBTC vaults work. Start earning a yield from your idle $BTC 💸 ⏬ https://t.co/NGk1kYtsk6,7,0,0,2021-10-26
+860,2021-10-28 09:40:13+00:00,1453657850983636994,mstable_,🤝 https://t.co/z5chBUIn8d,9,0,0,2021-10-28
+862,2021-10-29 14:03:25+00:00,1454086474983411720,mstable_,"📣 Integration Announcement📣 
+
+We're proud to announce #mStable as an out of the box integration on the private beta of @simpleFi_🐋
+
+SimpleFi is working to build DeFi's most powerful analytics tool to track your investments. 
+
+Check out more below⬇️ https://t.co/InKrRKRsfW",16,1,2,2021-10-29
+863,2021-11-01 11:56:06+00:00,1455141597125955586,mstable_,"We are proud to announce that the new @NuCypher X @keep_project Threshold Network mBTC/tBTCv2 Feeder Pool is now live 🎉 and replaces the current mBTC/tBTC Feeder Pool
+
+💰Migrate $mBTC and $tBTC to continue to receive $MTA rewards
+
+Find out more ⬇️
+
+https://t.co/RiysDqkK9b",85,3,17,2021-11-01
+864,2021-11-03 08:59:26+00:00,1455821913121513473,mstable_,"3/3
+Prizes and rewards:
+- Anyone that submits an entry on Discord and Twitter will earn an exclusive POAP
+- Top three memes win 69 MTA each!
+- First place winner will get a custom mStable Staking V2 NFT (only 10 in existence) 😲
+
+The competition ends in 72 hours...",8,1,0,2021-11-03
+868,2021-11-04 15:36:12+00:00,1456284148214140930,mstable_,"We have a highly entertaining call scheduled for⏰ November 5th at 8am UTC⏰ featuring members of @atlantis0x a virtual lightweight metaverse.
+
+You might even get a POAP for attending!😲
+
+RSVP on the link below ⬇️
+https://t.co/ac7uZkUWmh https://t.co/h8ATSHoPaq",28,2,3,2021-11-04
+869,2021-11-08 09:27:27+00:00,1457640903854596097,mstable_,"📌 New proposals up for voting!
+
+➡️ TDP26 - Uniswap V3 Liquidity Deployment
+➡️ PDP36 - Updated proposal workflow
+➡️ PDP37 - Community signer election https://t.co/VNp0FkDSBs",15,2,2,2021-11-08
+870,2021-11-11 20:23:23+00:00,1458893135665369095,mstable_,"In this month's newsletter📰
+
+➡️ Released Staking V2
+➡️ TVL close to 200m USD
+➡️ Metanaut factions + a project bounty list
+➡️ Community call with @Gelt - a startup building on mStable
+➡️ Released our Q3 Treasury Report
+➡️ Unveiled our Q4 roadmap
++ more 👇
+
+https://t.co/bLQyyimpF8",70,2,52,2021-11-11
+871,2021-11-12 18:30:00+00:00,1459226991706742786,mstable_,👀 https://t.co/8gjCXX0juz,25,2,1,2021-11-12
+872,2021-11-13 17:33:00+00:00,1459575033563598859,mstable_,"In case you missed this month's mStable community updates 🙌
+
+➡️ https://t.co/JkXb7Z8g6K",8,1,0,2021-11-13
+873,2021-11-15 10:51:19+00:00,1460198721371598850,mstable_,"mStable is excited to partner with @OlympusDAO and join the newest cohort for protocol-owned liquidity.
+
+Users will be able to obtain $MTA at a discount through bonds on Olympus Pro 🤝. https://t.co/4F7486g8Qa",79,1,13,2021-11-15
+875,2021-11-16 17:54:35+00:00,1460667629740302337,mstable_,Read the guide: https://t.co/x9bQ0ljGCm,9,0,0,2021-11-16
+886,2021-11-17 09:02:31+00:00,1460896117529321474,mstable_,"Our ProtocolDAO and TreasuryDAO are now opening seats for community multi-sig signers!
+
+Metanauts assemble ⚡️ https://t.co/AiKzsZfh9K",17,0,1,2021-11-17
+889,2021-11-18 09:49:41+00:00,1461270374453166083,mstable_,"We have partnered with @idlefinance on a matching bounty to develop a strategy for Idle Perpetual Yield Tranches supporting mStable Save.
+
+Receive up to $3500 in $IDLE + $3500 in $MTA depending on completeness 💻.
+
+Details👇
+https://t.co/5Z0i9catoU https://t.co/3Wz1sAFRiy",60,1,31,2021-11-18
+890,2021-11-19 01:53:04+00:00,1461512819233284101,mstable_,mUSD/USD now available for full trading on Coinbase Pro. https://t.co/lxetglGCgY,47,6,7,2021-11-19
+892,2021-11-23 03:49:17+00:00,1462991618496098309,mstable_,"We are hosting an AMA and Walkthrough on $MTA bonds and Olympus Pro tomorrow! 
+
+⏰ Happening on November 24th at 7am UTC. Head over to our Discord to RSVP! https://t.co/m8oCtRZcEO",26,3,4,2021-11-23
+893,2021-11-24 06:44:03+00:00,1463397988194086913,mstable_,Join us for our AMA in 15 minutes! 🔥 https://t.co/u1tkpEHR5t,14,0,1,2021-11-24
+895,2021-11-25 11:29:00+00:00,1463832084460367877,mstable_,"For those who missed the AMA with OlympusDAO, here's a link to the recording!
+
+🎥 https://t.co/ghWg042EGl https://t.co/GVEEbJl8Ia",14,1,1,2021-11-25
+899,2021-11-26 05:14:32+00:00,1464100234347175942,mstable_,"Join us tomorrow, November 27 at 4am UTC on Discord for our weekly Friday Hangout! 🍻
+
+Hear from our Community Signer applicants as we beef up for elections starting on Monday!",14,1,1,2021-11-26
+901,2021-11-27 06:28:21+00:00,1464481201314414598,mstable_,"Our next Community Call with @ethhead3 - CatHerder for the  @mStablegrants - will be held on 30 November at 8pm UTC! 🗓
+
+Join us in Discord
+▶️ https://t.co/WeB59RmBke",15,1,3,2021-11-27
+902,2021-11-29 02:20:48+00:00,1465143677131448322,mstable_,"🛠️ We've launched a the #mstable-updates channel on Discord!
+
+Active governors can obtain the mGovernors role and be notified for our weekly governance updates.
+
+https://t.co/WeB59RmBke https://t.co/y9CIH8iMXi",22,0,2,2021-11-29
+904,2021-11-30 02:13:07+00:00,1465504131439730694,mstable_,"@ethhead3 @mStablegrants 2/ We will dive into the world of mStable's GrantsDAO, and share some exciting news and updates on everything that's been going on behind the scenes!
+
+There will be a colorful POAP for anyone who joins this call!",8,0,0,2021-11-30
+906,2021-12-01 01:56:00+00:00,1465862210421362692,mstable_,"We are now electing signers for the mStable ProtocolDAO and TreasuryDAO from the community! 
+
+This is another major step to decentralize the protocol. More information in the thread below. 👇 https://t.co/lIXs0cMHzQ",12,1,1,2021-12-01
+907,2021-12-02 14:58:42+00:00,1466421573016039437,mstable_,"mStable is about to release its version of the Gauge controller, which will dictate rewards distribution over the next 5 years (~35m $MTA).",2,1,0,2021-12-02
+917,2021-12-03 15:25:42+00:00,1466790755909857284,mstable_,"5/ $RAI is a fully decentralised asset fully backed by $ETH. In addition, this Feeder Pool represents the first asset pair at mStable that trades a non pegged asset with a pegged one, opening up new asset possibilities for the future.",5,3,1,2021-12-03
+926,2021-12-04 03:40:43+00:00,1466975727698411521,mstable_,"@apyfinance x @mstable_ 
+
+APY Finance has integrated mStable’s Curve-mUSD pool within their yield farming portfolio, offering the best risk-adjusted yield and diversification benefits for depositors. https://t.co/Mm4oWOi7lo",76,3,35,2021-12-04
+927,2021-12-05 02:36:02+00:00,1467321839386988547,mstable_,"📺 Our AMA with Symphony is available to watch on YouTube! 
+
+https://t.co/kagmUZY2re https://t.co/FK2XoJHUoz",17,0,2,2021-12-05
+928,2021-12-06 09:00:15+00:00,1467780916969836551,mstable_,"As part of @gitcoin GR12, we have collaborated with @realMaskNetwork on an exciting new bounty! 🛠️ 
+
+💰 Help us bring our high-yield savings account to the masses! 
+⏰ Bounty closes in 11 days! 
+
+https://t.co/FkbImbnExX",19,0,5,2021-12-06
+929,2021-12-07 17:43:50+00:00,1468275067616260103,mstable_,The mStable integration bounty with @realMaskNetwork is live on @gitcoin! https://t.co/Ourp6ol9uT,5,0,1,2021-12-07
+936,2021-12-09 17:00:46+00:00,1468989005307920386,mstable_,"12/ For any questions that you might have, come join us on Discord!
+
+💬https://t.co/2pFJ6nQpH3",2,1,0,2021-12-09
+950,2021-12-10 05:03:09+00:00,1469170798996779011,mstable_,"10/ For more info:
+
+📖Learn more from our docs:
+https://t.co/7n1fpyU68b
+💬Join us on Discord:
+https://t.co/WeB59RmBke
+🏛️Participate in governance:
+https://t.co/KCCPr0dgqt",5,0,0,2021-12-10
+965,2021-12-11 15:13:02+00:00,1469686672761573383,mstable_,You can now buy $mUSD on Coinbase https://t.co/5PA9vQXfMS,14,0,0,2021-12-11
+966,2021-12-12 05:29:26+00:00,1469902189816520707,mstable_,View and adjust the distribution here: https://t.co/8t4h8nQKRA,9,1,1,2021-12-12
+968,2021-12-14 02:33:10+00:00,1470582607465172992,mstable_,"Emissions Controller Launch Party and AMA is now up on YouTube! 🎉
+
+For those that missed it, check it out below 👇
+https://t.co/ypkYfxPZC9 https://t.co/IKiZpl4w1K",9,0,2,2021-12-14
+971,2021-12-16 09:12:33+00:00,1471407891596804097,mstable_,"mStable launches mUSD/FEI Feeder Pool
+
+@mstable_ 🤝@feiprotocol
+
+https://t.co/dhtiWlHe82",31,1,4,2021-12-16
+978,2021-12-17 15:29:37+00:00,1471865171295367170,mstable_,"We just wrapped up an exciting month of November, check out our November Community Update 🎉
+
+https://t.co/5d7nShv7V2",15,1,3,2021-12-17
+979,2021-12-22 09:10:11+00:00,1473581625241866241,mstable_,mStable Save $imUSD topping the stablecoin yield list for Other Stablecoin Platforms 👀 https://t.co/UqUnbGgzit,19,2,4,2021-12-22
+981,2021-12-24 11:00:02+00:00,1474334045043630089,mstable_,"$MTA emissions for Epoch 2 of the Emissions Controller is now live! 🙌
+
+164,395 $MTA to be distributed this week across Vaults, Feeder Pools, and the ecosystem.
+
+This week, the $imUSD Vault on @0xPolygon got a boost in emissions 🎉 https://t.co/ISzUmsgxTf",26,2,4,2021-12-24
+982,2021-12-30 18:50:38+00:00,1476626802516783105,mstable_,⚡ Lightning quick deposits into mStable Save now available with @DeFiSaver Smart Savings 🥳 https://t.co/a80frV5OZQ,29,1,1,2021-12-30
+985,2021-12-31 14:07:31+00:00,1476917939810955264,mstable_,"Introducing the mStable Dashboard 🎉
+
+https://t.co/GfBUfZF7aL",31,4,4,2021-12-31
+987,2022-01-05 08:44:14+00:00,1478648521209221128,mstable_,"We are super excited to have completed the token swap with @BalancerLabs. 
+
+334,000 $MTA staked and voting for Balancer pools via the Emissions Controller each week 🔥
+
+https://t.co/xGMeEiGtFJ https://t.co/BgTa79QVXS",32,2,5,2022-01-05
+988,2022-01-08 03:49:11+00:00,1479661435000999946,mstable_,"Votium bribe is 🆙 
+
+100% directed by $MTA holders voting on the Emissions Controller. 
+
+https://t.co/KPfqrYOnG5",24,0,5,2022-01-08
+989,2022-01-12 23:59:39+00:00,1481415610328576001,mstable_,DeFi yields everywhere 👀 https://t.co/2j7ZBDbfjz,10,0,1,2022-01-12
+992,2022-01-13 04:59:38+00:00,1481491105376268289,mstable_,"We have got a bounty to get mStable integrated with Aztec Connect allowing users to mint $mUSD and Save directly from L2 🤝
+
+Details in the link below 🙌 https://t.co/4qSfIpUtaE",12,0,2,2022-01-13
+996,2022-01-19 13:10:26+00:00,1483788943518998543,mstable_,"$IDLE and $stkIDLE holders can vote for the mUSDCrv pool to be integrated into @idlefinance PYT using Convex as the underlying yield source.
+
+👉 More info here: https://t.co/SNgImnNXS4 https://t.co/MkrTuqkUeI",24,0,4,2022-01-19
+997,2022-01-20 08:00:01+00:00,1484073211457323011,mstable_,"A new @VesperFi proposal on our forums 👀
+
+Vesper would create a vaMUSD pool that accepts mStable deposits, which are converted to mUSD-CRV liquidity and staked on Convex, with rewards auto-compounding on behalf of the user.
+
+https://t.co/xCawHCEerb",25,0,3,2022-01-20
+999,2022-01-22 02:30:19+00:00,1484715016578560002,mstable_,Good day for Savers 👀 https://t.co/BHwlchaLkU,20,0,2,2022-01-22
+1001,2022-01-25 04:38:24+00:00,1485834414072680452,mstable_,"MIP 25: Save Unwrapper is up for voting! 🗳 
+
+Proposal to upgrade the smart contracts to allow single-transaction deposits and withdraws from any stablecoin on mStable directly into and from imUSD and the imUSD vault.
+
+https://t.co/4o203XtLji",12,0,2,2022-01-25
+1002,2022-01-28 15:44:33+00:00,1487089221689286656,mstable_,Help us get into the top 5!,8,0,1,2022-01-28
+1004,2022-01-30 04:29:06+00:00,1487644013796593666,mstable_,Slowly… then all at once https://t.co/sp9U8V69hm,26,1,4,2022-01-30
+1006,2022-01-31 11:06:57+00:00,1488106524916711433,mstable_,"We are excited to be hosting another AMA with our friends at @NexusMutual!
+
+The goal is to explore Nexus Mutual and dive deeper into their Nexus Embassy program.
+
+⏰ Happening on Wednesday February 2nd 3pm UTC at our Discord.
+
+📞 https://t.co/2pFJ6nzmF3",22,0,7,2022-01-31
+1007,2022-02-01 05:36:57+00:00,1488385862992023552,mstable_,"If you are agile, have experience working in #DeFi and love working at a competitive cadence, we are looking for someone like you in our new Operations role!
+
+Check out the role below 👇 https://t.co/V9mNehsCNH",12,1,2,2022-02-01
+1008,2022-02-04 05:40:33+00:00,1489473934332669953,mstable_,"Video is up! Watch it here 👇
+ 
+https://t.co/JAst0pcOgX https://t.co/iR8gZmyDqa",11,0,1,2022-02-04
+1010,2022-02-07 14:33:23+00:00,1490695190138716162,mstable_,We are super pumped to be partnering with the phenomenal @0xPolygon team to build the best savings layer for #DeFi in a low-cost and accessible manner. https://t.co/MKdWuJXgWD,58,3,8,2022-02-07
+1011,2022-02-08 15:51:55+00:00,1491077338926559234,mstable_,Soon you can bank in the $MTA verse https://t.co/CAGjbsjflt,52,1,7,2022-02-08
+1012,2022-02-10 08:00:00+00:00,1491683354147758082,mstable_,"This week's MTA distribution by the Emissions Controller calculated from the votes of staked MTA.
+
+This week's revenue was made up of
+- 3,276 MTA from Mainnet mUSD over the last week
+- 28,784 MTA from Polygon mUSD over the last 7 weeks
+
+https://t.co/8t4h8nza02 https://t.co/HKJCkoptw8",14,0,0,2022-02-10
+1014,2022-02-11 14:35:03+00:00,1492145161115402241,mstable_,"The pool fees for the $MTA pool on @Bancor has now been raised from 0.3% to 1% - increasing yields for the LPs in the pool.
+
+https://t.co/iuqCRRa7a6",15,0,0,2022-02-11
+1015,2022-02-14 13:39:59+00:00,1493218464278118410,mstable_,"👀
+
+https://t.co/nCmX917I6R",11,0,2,2022-02-14
+1016,2022-02-16 14:05:47+00:00,1493949732951302149,mstable_,"Our inaugural #FridaySpaceTalk with @Keeper_DAO will be held this Friday on Twitter Spaces! 
+
+Join us as we dig deeper into KeeperDAO's Coordination Game, discuss the current proposal on our forum and explore treasury diversification ideas. https://t.co/cQrPLndaEy",21,1,3,2022-02-16
+1018,2022-02-17 19:15:31+00:00,1494390069796421634,mstable_,"A new forum post from @idlefinance preparing the incoming launch of two Perpetual Yield Tranches products using mUSD and Save is up for comment.
+Adding two dials to the mStable Emission Controller would enable potential MTA weekly incentives
+
+MTA wars.
+ 
+https://t.co/y1PM6M0fI3",23,1,4,2022-02-17
+1019,2022-02-18 08:48:46+00:00,1494594730268807173,mstable_,"Our inaugural #FridaySpaceTalk with @Keeper_DAO will be held today on Twitter Spaces 4PM CET 
+
+Join @dimsomedim @0xloth and @0x81B to dig deeper into KeeperDAO's Coordination Game and discuss current proposals.
+
+https://t.co/k2HPdTykrr",18,1,3,2022-02-18
+1022,2022-02-21 10:08:51+00:00,1495702048461189124,mstable_,"@0xPolygon @GeltFinance @zyieldfinance @mStablegrants 9/ Interested to build with us?
+
+📝 Apply through the Build with mStable Save on Polygon Application Form.
+
+https://t.co/D5Q13xJdwt",8,0,1,2022-02-21
+1032,2022-02-22 16:51:50+00:00,1496165850495459333,mstable_,"@GammaStrategies @OndoFinance @ConvexFinance 12/ 2022 is a looking to be an exciting year for mStable from both a product and governance perspective. 
+
+The TreasuryDAO is focused on optimising the treasury to ensure protocol sustainability in both bull and bear markets and continuously maximise value for $MTA stakers.",4,0,0,2022-02-22
+1044,2022-02-24 17:02:26+00:00,1496893291950112771,mstable_,"Here are this week's $MTA distributions calculated from the votes of staked MTA.
+
+https://t.co/8t4h8nzHPA https://t.co/Qr1WpaNjxs",9,1,2,2022-02-24
+1047,2022-02-25 02:21:56+00:00,1497034096857743360,mstable_,The vote is ending today 👀 https://t.co/kj1DI1jKsk,4,0,1,2022-02-25
+1048,2022-02-28 22:51:32+00:00,1498430699132661763,mstable_,"@mstable_  is in the last @0xPolygon  weekly digest
+Projects building on top of the best savings layer on @0xPolygon have a unique opportunity https://t.co/TDLNclXkjT",5,0,1,2022-02-28
+1058,2022-03-01 11:20:52+00:00,1498619271848644610,mstable_,@Definews_Info @UMAprotocol @KyberNetwork @terra_money @thorchain_org @DeFi_JUST Is 0% growth losing? Inflation hit?,1,0,1,2022-03-01
+1061,2022-03-02 17:04:37+00:00,1499068168995803137,mstable_,We're live on Discord with @epnsproject https://t.co/rr4AOfVhyF,8,0,4,2022-03-02
+1063,2022-03-03 18:29:40+00:00,1499451960755462158,mstable_,"Tomorrow at 4pm, the second episode of Friday Space Talk will take place with @idlefinance
+Expect an in-depth conversation about the Idle Protocol, ongoing partnerships and governance mechanics https://t.co/AGlZjBVDFE",7,1,3,2022-03-03
+1064,2022-03-04 11:33:12+00:00,1499709539016445955,mstable_,"S01E02 of FridaySpaceTalk in 4hours on Twitter Spaces with @dimsomedim @0xloth @OpenBitLab 
+Join us to hear more about @idlefinance and explore the ongoing partnerships between the two protocols https://t.co/hbNZLihqZd",12,0,3,2022-03-04
+1067,2022-03-05 14:51:28+00:00,1500121824759549956,mstable_,"mStable is collaborating with @VesperFi on a new $mUSD Orbit pool with triple rewards!
+
+https://t.co/W41PxgiZNd",17,1,4,2022-03-05
+1068,2022-03-11 16:00:38+00:00,1502313558444584967,mstable_,"Please find the recording of our latest AMA with @DeFiSaver 
+@_nikolajankovic from DeFi Saver introduces us to the project and how it can allow users to interact with multiple DeFi products while saving on gas fees and enabling automation. 
+https://t.co/3DHjlSxIa8",18,2,1,2022-03-11
+1069,2022-03-14 17:00:01+00:00,1503415667084517377,mstable_,"Our third episode of #FridaySpaceTalk will be held this Friday with our friends at @VesperFi!
+
+Join @0xloth @dimsomedim and @jeffthedunker as we dive deeper into Vesper Pools, incentives and more. https://t.co/Nd2rQZH4q5",16,1,3,2022-03-14
+1070,2022-03-15 09:26:00+00:00,1503663795331342336,mstable_,"mStable v2 and the future of mStable is taking shape
+
+Join the team this Thursday (17th of March) at 04:00PM CET for The Road to v2 Community Call Kickoff on the @mstable_ Discord. 
+This call will be starting a series of 30-minute weekly community calls about v2 latest updates https://t.co/nqdjtCAleh",17,0,3,2022-03-15
+1072,2022-03-16 17:26:47+00:00,1504147179245654024,mstable_,"""MEV is the potential price tag of an invisible transaction"" 
+@0x81B from @Keeper_DAO  on mStable first Friday Space Talk with @0xloth and @dimsomedim 
+
+In case you missed it, find the recording of this amazing conversation (with timestamps) below 
+
+https://t.co/ApCsM7xOgS",8,1,2,2022-03-16
+1075,2022-03-17 09:41:09+00:00,1504392385245163521,mstable_,Join the team today at 04:00PM CET for The Road to v2 Community Call Kickoff on the @mstable_ Discord https://t.co/qqpd6xphvk,13,0,2,2022-03-17
+1076,2022-03-18 08:25:09+00:00,1504735646560276484,mstable_,"In a few hours, join us as we dig into @VesperFi and explore broader DeFi areas
+2PM CET on Twitter Spaces https://t.co/16mkWBSiWR",3,0,1,2022-03-18
+1079,2022-03-20 04:34:50+00:00,1505402461460533249,mstable_,👀 https://t.co/sPd2ynY3v0,14,1,3,2022-03-20
+1080,2022-03-21 10:07:22+00:00,1505848533089685506,mstable_,Deposit your USD with @GeltFinance and enjoy seamless yields on your deposits 🥳 https://t.co/bUFeXAK4Rx,9,0,2,2022-03-21
+1082,2022-03-22 13:53:01+00:00,1506267708895031301,mstable_,"6/ Check out our website to learn more!
+
+https://t.co/VE4VYdxGgA https://t.co/hWrJzSbcLJ",1,0,1,2022-03-22
+1088,2022-03-23 13:50:55+00:00,1506629567267569668,mstable_,"We just shipped a couple of protocol updates featuring our new Save Unwrapper with improvements on both user and developer experience ✨
+
+Read more 👇🧵
+https://t.co/bhv6sYUMrh",20,2,5,2022-03-23
+1096,2022-03-24 17:02:14+00:00,1507040100878020608,mstable_,"@groprotocol Deposit with @groprotocol 
+
+➡️ https://t.co/B2MKw2zFPX",7,0,1,2022-03-24
+1101,2022-03-25 09:09:11+00:00,1507283443461378049,mstable_,"""Creating an optimized, transparent, composable, diversifiable &amp; dynamic yield framework""
+@dimsomedim during mStable last V2 governance update
+
+In case you missed it, please find the recording of this  second V2 conversation (with timestamps) below
+https://t.co/sAF8LqXuRp",8,0,2,2022-03-25
+1102,2022-03-27 14:39:47+00:00,1508091416882610177,mstable_,"Wave goodbye to your bank! 👋 
+
+mStable enables everyone to experience the power of #DeFi and earn yield! 💰
+
+➡️ https://t.co/DQuMSbnjSs https://t.co/TueHxCXxhB",16,1,3,2022-03-27
+1103,2022-03-28 12:23:29+00:00,1508419502652145667,mstable_,"2/ $MTA voters, vote using the link below 👇
+
+https://t.co/r92A5i7hyE",4,0,1,2022-03-28
+1107,2022-03-29 08:59:05+00:00,1508730452030652416,mstable_,Special thanks to @okilo_ for this amazing initative!,4,1,0,2022-03-29
+1110,2022-03-30 16:00:11+00:00,1509198812765511682,mstable_,"To be notified of these updates, please follow the mstable-updates channel in Discord. Special thanks to our resident mStableDAO CatHerder @mZero2nine who's providing these governance updates on a weekly basis.
+
+https://t.co/2pFJ6nQpH3",3,0,1,2022-03-30
+1123,2022-03-31 12:10:37+00:00,1509503430955524104,mstable_,"mStable hosted its weekly community update ""Behind the Scenes - the @avalancheavax Summit"" yesterday on its Discord
+60+ people attended
+
+In case you missed it, please find below the recording hashed out with timestamps.
+https://t.co/IRAjoruKOn",13,0,1,2022-03-31
+1124,2022-04-01 15:11:25+00:00,1509911318534713352,mstable_,"Introducing...
+
+$mADA https://t.co/sVhqZ83ThX",18,6,3,2022-04-01
+1132,2022-04-04 11:43:27+00:00,1510946143987171330,mstable_,"mStableDAO Governance updates featuring
+
+⚫ Pre-approve BPT Locking &amp; Voting for veBAL
+⚫ Extend the BPT staking approval to more protocols
+⚫ Q1 Signer Rotation &amp; Offboarding Clause
+
+https://t.co/hbCZWhROw0",13,0,2,2022-04-04
+1134,2022-04-05 08:14:54+00:00,1511256048073678852,mstable_,"H-1 
+mStable will host a new AMA with the amazing @Abachi_io  team
+
+Join us on Discord for a deep dive on @Abachi_io, discuss current partnerships and more open-ended DeFi topics https://t.co/GvGGswcYSv",8,0,3,2022-04-05
+1136,2022-04-06 11:32:35+00:00,1511668186957377537,mstable_,"Our Road to V2 - Session 3 ⚒ call will be held later today at 2PM UTC!
+
+See you in Discord 🥳☎️",13,1,2,2022-04-06
+1144,2022-04-08 09:32:07+00:00,1512362642773524492,mstable_,"@mstable_ hosted its weekly community update ""Road to v2 Session 3"" on Wednesday on its Discord
+80+ people attended (33% participation increase from the last one)
+
+In case you missed it, please find below the recording hashed out with timestamps
+https://t.co/3xUYhl9kj3",12,0,1,2022-04-08
+1146,2022-04-10 05:37:55+00:00,1513028482389123073,mstable_,We are super excited to partner with @0xPolygon as a grants partner to supercharge the ecosystem for growth. https://t.co/D3CtvVRYCV,83,0,13,2022-04-10
+1147,2022-04-11 16:17:49+00:00,1513551905028710404,mstable_,"Our next episode of #FridaySpaceTalk will be held this Friday with our special guest @nvy_0x from @DefiSafety.
+
+Join us as we discuss about transparency in #DeFi and more. 
+
+📅 Friday April 15
+⏰ 4PM CET / 2PM UTC https://t.co/MDEveHOhdw",14,1,2,2022-04-11
+1148,2022-04-12 10:39:48+00:00,1513829230542426112,mstable_,"mStable Governance Updates — 13 April 2022
+
+Here’s the latest edition of governance updates from the engine room.
+
+🧵",13,1,1,2022-04-12
+1156,2022-04-13 07:46:04+00:00,1514147897037754372,mstable_,"mStable is proud to annouce the fifth episode of its #FridaySpaceTalk series, held this Friday starring @DefiSafety 
+
+@nvy_0x will join @mstable_ for a deep dive on transparency &amp; open-ended DeFi topics
+
+https://t.co/JW5IPDyU2e",14,0,4,2022-04-13
+1157,2022-04-15 13:21:37+00:00,1514957116494204928,mstable_,"In case you missed our fourth episode of #FridaySpaceTalk, held last Friday with @groprotocol 
+@charliem2161, @0xloth &amp; @dimsomedim dived deep into the Gro protocol and yield mechanics in DeFi
+
+Please find below the recording of this amazing conversation
+https://t.co/r2ndbg8INd",10,0,2,2022-04-15
+1160,2022-04-19 14:15:52+00:00,1516420321145987088,mstable_,"mStable Governance Updates — 19 April 2022
+
+Here’s the latest edition of governance updates from the engine room.
+
+🧵",11,1,1,2022-04-19
+1172,2022-04-20 11:00:06+00:00,1516733440875397121,mstable_,"6/ mStable will co-sponsor projects building on mStable on Polygon with the Polygon team. 
+
+A number of projects have already started on this initiative, including Overnight Finance and @2piNetwork.
+
+https://t.co/4WbQpeyN4I",5,1,0,2022-04-20
+1181,2022-04-21 16:11:41+00:00,1517174240860000263,mstable_,"We are hosting our Community Call from Amsterdam tomorrow, 22 April 2022 at 4PM CET.
+
+Join us as we discuss #ETHAmsterdam, #devconnect and more! See you there! https://t.co/u2ir00cVjv",16,7,3,2022-04-21
+1184,2022-04-22 08:29:20+00:00,1517420274953891840,mstable_,"A reminder that we will be live from ETH Amsterdam later today 🥳 
+
+We'll also give you an inside look at the ETH Amsterdam Convention. 
+
+A special POAP will be claimable for this event 👀 https://t.co/ZU6AabYf7b",9,0,1,2022-04-22
+1185,2022-04-23 17:15:00+00:00,1517914951691620359,mstable_,"Join us for an #AMA with our friends at @zyieldfinance this Tuesday, 26 April at 2PM UTC! 
+
+Learn more about how they are making investing in DeFi simple and what sets them apart. RSVP in the link below! https://t.co/nJjygSaUeA",10,2,2,2022-04-23
+1187,2022-04-25 21:47:18+00:00,1518708255261966342,mstable_,"@mstable_ crew had a blast in Amsterdam attending @EFDevconnect and validating its V2 ideas
+
+In case you missed the team's take on this beautiful event, please find below the recording of this amazing open-ended conversation
+
+https://t.co/tA8s4MZ2aW",7,0,1,2022-04-25
+1199,2022-04-26 11:24:37+00:00,1518913937601077248,mstable_,A gentle reminder about our #AMA later today with our friends at @zyieldfinance 🥳 https://t.co/e7tHpJhniB,5,1,2,2022-04-26
+1208,2022-04-28 09:00:07+00:00,1519602349886500866,mstable_,"Here are this week's $MTA distributions calculated from the votes of staked MTA.
+
+https://t.co/8t4h8nQKRA https://t.co/3JWp4R2nsU",6,1,1,2022-04-28
+1212,2022-05-02 13:09:57+00:00,1521114772254515201,mstable_,"Join us to celebrate the @GeltFinance V3 launch with an #AMA 🚀
+
+🗓️Thursday, 5 May 2022
+⏰ 12 PM EST / 4PM UTC
+
+We will be live on Discord with Gelt co-founders @itsJeremiahS, @yuryoparin, and VP of Blockchain Engineering Csongor Bokay, co-hosted with @NexusMutual. https://t.co/K0b5Q8HblF",16,1,5,2022-05-02
+1216,2022-05-03 13:58:38+00:00,1521489410872774657,mstable_,"mStable is proud to annouce the sixth episode of its #FridaySpaceTalk series, held this Friday starring @NotionalFinance 
+
+@teddywoodward will join @mstable_ for a deep dive on fixed-rate lending &amp; open-ended DeFi topics https://t.co/mYZAWiWs7Z",12,1,3,2022-05-03
+1217,2022-05-04 16:23:52+00:00,1521888350843863040,mstable_,We are starting soon! 👀 https://t.co/j8590zp7PW,4,0,1,2022-05-04
+1226,2022-05-05 17:00:11+00:00,1522259878810734592,mstable_,"10/ ERC-4626 standardises DeFi Vaults with standard functions like mint, deposit and balances, ensuring composability between the vault tokens of different protocols. Extending this concept, we can build generalised Vaults that are fully compatible with similar Vaults in DeFi.",4,1,1,2022-05-05
+1241,2022-05-06 13:20:06+00:00,1522566879021346817,mstable_,"The 6th episode of the #FridaySpaceTalk series will be held in less than an hour, starring @NotionalFinance 
+
+@teddywoodward will join @mstable_ for a deep dive on fixed-rate lending &amp; open-ended DeFi topics
+https://t.co/4MLV9WSYJi",8,0,2,2022-05-06
+1243,2022-05-09 05:02:43+00:00,1523528871605260291,mstable_,"Join us and @minkeapp with an #AMA session 🚀 with @vancityreyes, CEO and Co-Founder of Minke.
+
+Learn about Minke, their savings app powered by DeFi in the Apple Store Minke that gives you direct access to protocols like mStable.
+
+🗓️Wednesday, 11 May 2022
+⏰ 4 PM EST / 2PM UTC https://t.co/GP6IfOVWhO",14,1,6,2022-05-09
+1245,2022-05-10 18:05:07+00:00,1524088155468664836,mstable_,"ERC-4626 Meta Vaults are coming to mStable
+
+In case you missed our latest governance call or want to give it a second listen, feel free to revisit the concept pioneered by the @mstable_ team with this recording hashed out with timestamps
+
+https://t.co/qCUYC8ucBM",17,1,1,2022-05-10
+1246,2022-05-11 11:43:37+00:00,1524354535455850499,mstable_,🤝 https://t.co/ncOsBTHXWd,11,0,1,2022-05-11
+1249,2022-05-13 16:53:51+00:00,1525157386146574337,mstable_,"@CurveFinance @coinbase 11/ The protocol and all $mUSD collateral assets are functioning as normal - this was done because the ProtocolDAO wanted to be as protective and conservative as possible.
+
+The $mUSD basket is currently well balanced. https://t.co/jTTQxL7060",6,1,0,2022-05-13
+1265,2022-05-14 04:05:37+00:00,1525326442678353921,mstable_,$sUSD lending interest on @AaveAave 👀 https://t.co/9VnWDW9uE2,12,1,2,2022-05-14
+1266,2022-05-17 15:40:20+00:00,1526588437309947904,mstable_,"@idlefinance The strategy invests in @ConvexFinance MUSD3CRV and automatically compounds $CRV and $CVX tokens.
+
+➡️ https://t.co/vpCVWvEgF4 https://t.co/nMSOXi5GHM",12,1,2,2022-05-17
+1271,2022-05-19 04:00:04+00:00,1527136982786142208,mstable_,$MTA distributions for this week calculated from the votes of staked MTA. https://t.co/CH0tSlOn9Q,12,5,1,2022-05-19
+1275,2022-05-20 08:49:42+00:00,1527572262089523201,mstable_,"The 7th episode of the #FridaySpaceTalk series will be held in a few hours, starring @Crypto_Texan from @0xPolygon 
+Join @dimsomedim &amp; @0xloth  for a deep dive on his crypto journey, Polygon &amp; open-ended DeFi topics
+
+https://t.co/iRbOlszbPO",10,0,5,2022-05-20
+1277,2022-05-23 03:00:08+00:00,1528571452672184320,mstable_,"8/ With ERC-4626, protocols such as lending, staking and yield farming vaults and aggregators can just integrate a single consistent interface, reducing integration complexity and reducing costs.",11,1,1,2022-05-23
+1291,2022-05-25 16:11:12+00:00,1529495305317765125,mstable_,"@minkeapp is a Savings App built on IOS powered by @mstable_'s Save  among others
+ Their @ProductHunt 's launch is live https://t.co/VK6ZRF3t7e",5,1,0,2022-05-25
+1292,2022-05-27 09:00:04+00:00,1530111585426952192,mstable_,"Join us for #FridaySpaceTalk with our friends @jonwu_ and @lisacuesta from @aztecnetwork - we'll chat about Web 3.0,  private blockchains and how privacy is core to what Aztec is building.
+
+📅 Friday, 3 June 2022
+⏰ 4PM CET / 2PM UTC https://t.co/eSQ1qSfVqX",31,2,7,2022-05-27
+1294,2022-05-28 16:12:32+00:00,1530582808116154369,mstable_,"6/ With the upgraded Save contract, mStable is one of the first protocols to support this standard on Ethereum mainnet. 
+
+This is just the beginning of a more exciting future where we further embrace this standard towards a more composable yield infrastructure.",7,1,1,2022-05-28
+1301,2022-06-02 17:06:13+00:00,1532408255770939392,mstable_,Join us tomorrow at #FridaySpaceTalk with our friends from @aztecnetwork! https://t.co/EbK438Xmyp,6,1,3,2022-06-02
+1302,2022-06-03 11:00:57+00:00,1532678720472944643,mstable_,"Make sure you join us for #FridaySpaceTalk with @jonwu_ and @lisacuesta from @aztecnetwork - 
+Incoming conversation about Web 3.0,  private blockchains and how privacy is core to what Aztec is building.
+
+https://t.co/toDfCLw4lk",31,1,7,2022-06-03
+1306,2022-06-06 16:26:39+00:00,1533847851603660800,mstable_,"Join us for an exciting #AMA session 🚀with @atlantis0x.
+
+Atlantis World is building the Web 3 social metaverse by connecting Web3 with social, gaming and education in a lightweight virtual world.
+
+🗓️Wednesday, 8 June 2022
+⏰ 4 PM EST / 2PM UTC https://t.co/xd0Cclla2b",21,1,6,2022-06-06
+1308,2022-06-07 17:00:04+00:00,1534218647970885632,mstable_,"Earn up to 400 $MTA for providing your feedback and help us to make #DeFi and our V2 better! 
+
+Fill out this quick questionnaire and get a chance to win $MTA: https://t.co/KyylezUSwU",11,1,2,2022-06-07
+1317,2022-06-08 14:54:44+00:00,1534549491638206464,mstable_,We are live! https://t.co/09jBTbkKYi,6,0,1,2022-06-08
+1318,2022-06-09 14:41:45+00:00,1534908613021511680,mstable_,"$MTA distributions this week calculated from the votes of staked MTA. 
+
+https://t.co/8t4h8nQKRA https://t.co/in15IbOeLC",9,1,2,2022-06-09
+1321,2022-06-15 16:47:35+00:00,1537114609600983040,mstable_,📈 https://t.co/xaPWxFsla1,8,0,2,2022-06-15
+1323,2022-06-16 14:54:21+00:00,1537448499888807937,mstable_,"@Rook @AaveAave @compoundfinance @DefiSafety Beyond this, mStable and Rook teams are partnering beyond Treasury Diversification, discussions are being held on the product side with the prospect of using a custom mStable AMM pool designed by Rook.",5,0,1,2022-06-16
+1335,2022-06-17 09:00:05+00:00,1537721733267877888,mstable_,"3/ [RFC] Acquire FXS, CVX, and CRV for Long Term Health of mUSD
+
+• https://t.co/Y1Brt2XFlx
+• Acquire FXS, CVX, and CRV in order to gain governance power of the dials to directly benefit the treasury and mStable users in perpetuity",2,1,1,2022-06-17
+1346,2022-06-19 15:01:19+00:00,1538537415094042624,mstable_,"This analysis from @chainbound_ puts mStable Save $imUSD as one of the most active ERC-4626 Vaults on @0xPolygon!
+
+https://t.co/WdgbRBne8h",10,0,3,2022-06-19
+1347,2022-06-20 17:23:47+00:00,1538935657019584512,mstable_,"ERC-4626 serves both protocols and users:
+
+The market for independent strategists and protocol strategists have a huge amount of creativity that we currently see as untapped because of the high cost of creation and distribution of yield-bearing vaults.",1,1,0,2022-06-20
+1364,2022-06-21 14:15:27+00:00,1539250648570634240,mstable_,"@AaveAave @compoundfinance 8/ For more information, please check out our docs:
+
+📄 https://t.co/Dya1m0b18E",5,0,1,2022-06-21
+1372,2022-06-26 07:06:46+00:00,1540954709040586752,mstable_,"$MTA distributions this week calculated from the votes of staked MTA. 
+
+https://t.co/8t4h8nQKRA https://t.co/biHsjFpcGC",5,2,0,2022-06-26
+1375,2022-06-27 14:04:58+00:00,1541422338758963200,mstable_,"7/ As always, do check out the Discord for the latest updates! Special thanks to @mZero2nine from the mStableDAO for compiling these updates. Join us for our upcoming community call for an early look on what we're building 👀",2,0,1,2022-06-27
+1386,2022-06-28 17:40:19+00:00,1541838920815722496,mstable_,@dimsomedim &amp; @0xloth from @mstable_ will be on @0xCoinshift's stage this Thursday to discuss V2 incoming product line and what it could mean for DAOs https://t.co/MIMIhUiYoI,5,0,2,2022-06-28
+1387,2022-06-29 16:24:36+00:00,1542182254251630592,mstable_,@iearnfinance @storming0x @devan_non 9/ mStable is currently developing a library of yield building blocks that will eventually become public goods.,5,1,1,2022-06-29
+1398,2022-07-01 17:00:05+00:00,1542915959731544064,mstable_,"5,774 mUSD was collect in fees from Mainnet mUSD over the last week. 2,887 was sent to Treasury and the other half bought 9,081 MTA for MTA and mBPT stakers.",3,1,0,2022-07-01
+1402,2022-07-04 16:42:44+00:00,1543998755459936256,mstable_,"mStable Governance Updates — 4 July 2022
+
+Here’s the latest edition of governance updates from the engine room.
+
+🧵",8,1,1,2022-07-04
+1411,2022-07-05 17:21:05+00:00,1544370797686321152,mstable_,"mStable has entered its next chapter - new products, refreshed tokenomics, a more efficient DAO, and an expanded and more empowered core contributor group.
+
+Read @0xApricity's vision for mStable's future.
+
+https://t.co/vQrtbOJay5",13,1,4,2022-07-05
+1420,2022-07-09 13:22:32+00:00,1545760314624380928,mstable_,Private DeFi powered by @aztecnetwork coming to @mstable_ soon 👀 https://t.co/9c4NVqUYQX,26,0,2,2022-07-09
+1425,2022-07-12 09:00:02+00:00,1546781417626955777,mstable_,"mStable &amp; @minkeapp Game Night
+
+We will play a few fun games from the JackBox Party Pack 8. All you need to play is your phone! There will be POAPs, MTA giveaways, tons of laughs and more.
+
+When: July 15 8am EST/2pm CET/11pm AEDT 
+Where: https://t.co/98ARKOb517",4,1,0,2022-07-12
+1432,2022-07-13 15:28:00+00:00,1547241441415483392,mstable_,"Deposit here: https://t.co/gnAWzfaHd9
+Learn more: https://t.co/Dya1m0sC0c",2,0,0,2022-07-13
+1437,2022-07-14 08:34:37+00:00,1547499798609432576,mstable_,Check out our collaborative article about saving with @GeltFinance and @mstable_ 👀 https://t.co/1OdKsFvw5U,11,0,2,2022-07-14
+1438,2022-07-18 14:57:17+00:00,1549045648695037955,mstable_,"The blog post about the above can be found on Medium:
+
+https://t.co/iY2tHj95lB",1,1,0,2022-07-18
+1446,2022-07-19 15:38:10+00:00,1549418328271175680,mstable_,"Voters are now voting that the TreasuryDAO gets 23% of weekly emissions, reallocating capital back to the protocol. https://t.co/clvNoqDOr5",9,1,3,2022-07-19
+1447,2022-07-22 15:11:22+00:00,1550498744852172801,mstable_,We now have 4 out of the 6 required applicants nominated for the ProtocolDAO and 3 out of 6 required applicants nominated for the TreasuryDAO https://t.co/JvSrkydAZl,9,1,2,2022-07-22
+1449,2022-07-23 15:12:51+00:00,1550861506794758144,mstable_,"Here's this week's $MTA distributions calculated from the votes of staked MTA.
+
+https://t.co/8t4h8nQKRA https://t.co/jQ2t2OqfaR",7,1,1,2022-07-23
+1451,2022-07-28 14:50:50+00:00,1552667904872566784,mstable_,Look who’s on @coinstats Earn 👀 https://t.co/tfqgbKH5UC,20,4,6,2022-07-28
+1454,2022-07-30 13:45:04+00:00,1553376131788599297,mstable_,"Your last chance to get nominations into both the ProtocolDAO and the TreasuryDAO. 
+
+We'll be closing applications on Monday as we reached quorum over the weekend. https://t.co/60X8eoaEju",6,1,2,2022-07-30
+1455,2022-08-02 14:43:13+00:00,1554477925998948353,mstable_,"Our August Governance call is starting soon.
+
+Come join and get the most up-to-date information on the subDAO restructure, signer application process, and other topics.",6,0,2,2022-08-02
+1457,2022-08-03 15:17:49+00:00,1554849023483203584,mstable_,mStable’s integration with Boardroom is another step forward for tracking and staying up to date on mStable’s governance.,6,0,0,2022-08-03
+1462,2022-08-05 16:49:39+00:00,1555596908059508736,mstable_,"Here's this week's $MTA distributions calculated from the votes of staked MTA.
+
+https://t.co/8t4h8nQKRA https://t.co/Tnl4Q46En8",4,2,1,2022-08-05
+1464,2022-08-08 17:02:25+00:00,1556687285462044672,mstable_,"7/ [COMMUNITY CALL]
+
+Our Community Call will be happening this Thursday on Discord. We will be sharing more details about our brand new suite of products that are going to hit the DeFi ecosystem. Stay tuned.",2,1,0,2022-08-08
+1474,2022-08-09 15:40:58+00:00,1557029177404325888,mstable_,"Join us for our Community Call on Thursday as we share exciting progress about mStable V2 and Meta Vault development with a sneak peak at the UI.
+
+📅 11 August 2022
+⏰ 4PM UTC | 6PM CET https://t.co/PPBhjsLxNL",17,6,5,2022-08-09
+1477,2022-08-10 16:27:24+00:00,1557403251053539328,mstable_,Less than 24 hours to go! ⏰ https://t.co/dnsP0icbUO,4,1,2,2022-08-10
+1478,2022-08-11 16:25:30+00:00,1557765158532878336,mstable_,Meta Vaults 👀 https://t.co/Lumt8UzUbC,10,1,2,2022-08-11
+1479,2022-08-12 15:41:39+00:00,1558116511046602754,mstable_,"📁 TreasuryDAO Results: 
+https://t.co/AQmTzuKEy3…
+
+📁 ProtocolDAO Results: https://t.co/AQmTzuKEy3…
+
+Winners have one week from today to formally accept their election, as otherwise they will automatically forfeit their place in the DAO.",3,0,1,2022-08-12
+1482,2022-08-15 14:50:55+00:00,1559190906946744321,mstable_,"[COMMUNITY CALL]
+Our monthly call will be held on the 6th of September, at 4PM UTC. The agenda includes discussing about mStable Governance, DAOs, and a new way to move the wider mStable treasury management forward in an inclusive and decentralized manner.",2,1,0,2022-08-15
+1491,2022-08-18 14:32:13+00:00,1560273364941344768,mstable_,"1,308 mUSD was collect in fees from Mainnet mUSD over the last week and 5,126 mUSD was collected from Polygon mUSD over the last 4 months.
+
+3,217 mUSD was sent to Treasury and the other half bought 20,202 MTA for MTA and mBPT stakers.",3,0,0,2022-08-18
+1493,2022-08-28 09:03:13+00:00,1563814448980144128,mstable_,MCCP 24: Reduce weekly MTA emissions has passed and is about to be executed - this will reduce the emissions of the Emissions Controller by 45% and extend the emissions schedule from 6 years to 12. https://t.co/37v8zehhjE,12,3,1,2022-08-28
+1495,2022-08-30 16:37:15+00:00,1564653484779401221,mstable_,Find out more about Yield bearing tokens and ERC-4626 Tokenised Vault Standard with @dimsomedim in this short video https://t.co/j41LuLm15y,6,1,2,2022-08-30
+1496,2022-09-02 13:19:03+00:00,1565690772670017536,mstable_,savings,21,2,3,2022-09-02
+1497,2022-09-05 15:31:43+00:00,1566811321214988288,mstable_,"8/ As always, do check out the Discord for the latest updates! Special thanks to @mZero2nine from the mStableDAO for compiling these updates. Join us for our upcoming community call for an early look on what we're building 👀",1,0,0,2022-09-05
+1507,2022-09-06 10:35:29+00:00,1567099159290978305,mstable_,mLlama powering our salaries 🤝 https://t.co/h26K18K8iB,7,3,4,2022-09-06
+1509,2022-09-09 17:34:55+00:00,1568291876448665600,mstable_,"4/ Multi-strategy composability
+
+Long spot ETH and short ETH-perps for a delta neutral strategy. Composable vaults take in ETH as the deposit asset and magically create a non-custodial position for you that's delta neutral. 
+
+One position. Unlimited possibilities.",2,1,0,2022-09-09
+1516,2022-09-13 16:15:59+00:00,1569721565792849920,mstable_,It's Merge week! 🎉,6,2,0,2022-09-13
+1522,2022-09-15 15:08:47+00:00,1570429429888978947,mstable_,The future of $MTA will look different from the past. https://t.co/JTaiVkBqCf,7,1,2,2022-09-15
+1523,2022-09-16 18:25:59+00:00,1570841442125508609,mstable_,Our legacy withdrawal widget is now integrated into the main app. https://t.co/9QxzHLbuJ2,3,0,2,2022-09-16
+1525,2022-09-19 15:04:45+00:00,1571877964874391552,mstable_,"mStable Governance Updates — 19 September 2022
+
+Here’s the latest edition of governance updates from the engine room.
+
+🧵",3,2,1,2022-09-19
+1532,2022-09-20 15:00:16+00:00,1572239222651887617,mstable_,"7/ The newly established ecosystem subDAO will sunset the grants program and replace it with a dedicated Dework Bounty Board managed by 2 of our community members which will provide greater control over deliverables, goals, and any associated compensation.",1,1,0,2022-09-20
+1544,2022-09-23 08:45:56+00:00,1573232183858593793,mstable_,mStable is proudly sponsoring @ETHLisbon Hackhaton happening in just about a month https://t.co/vKMxkqu4g5,14,2,6,2022-09-23

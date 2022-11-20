@@ -1,0 +1,610 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-01 07:55:39+00:00,1212281217472589824,MarlinProtocol,"A new year, a new decade. 
+
+Change is the only constant. 
+
+Keep #buidling https://t.co/TbA3YNGHtH",15,0,2,2020-01-01
+1,2020-01-25 07:02:04+00:00,1220965040368410624,MarlinProtocol,Wishing everyone a Prosperous and Happy Lunar New Year!!  🎉🎊 https://t.co/FCMGfKpCB6,7,0,0,2020-01-25
+2,2020-02-10 08:14:08+00:00,1226781380035543041,MarlinProtocol,Glad to see an increasing interest in #layer0 https://t.co/PF2vjK6LG6,10,0,0,2020-02-10
+3,2020-02-13 17:03:20+00:00,1228001724603879424,MarlinProtocol,"Layer 0? Gossip? P2P? 🤔 How's it even relevant to blockchains? Here is an extremely lucid and illustrative piece introducing the unglamorous underbelly!
+
+Revamped website and docs up too ✨
+
+https://t.co/7jUUb05sKV https://t.co/9Zcam6GHzG",46,8,12,2020-02-13
+4,2020-02-19 05:34:57+00:00,1230002814274830336,MarlinProtocol,"1/ Introducing the first post in a series dedicated to byzantine-resistant networking protocols. 
+
+- Blockchains are P2P networks.
+
+- Bandwidth of untrusted miners and full nodes is used to propagate information through the network to keep it in sync.
+
+https://t.co/rh8nYslCM1",19,6,1,2020-02-19
+10,2020-02-29 06:47:04+00:00,1233644840056786946,MarlinProtocol,"A lot happening! Here’s a summary of our dev and community updates for February 2020! 
+
+Missed our previous monthly updates? Check out our blog for more! 🧐
+
+https://t.co/tc53dmmFPC",8,2,2,2020-02-29
+11,2020-03-02 05:06:18+00:00,1234344258393366529,MarlinProtocol,"Here’s a translated version of our Marlin for the uninitiated post for our Chinese community! 🇨🇳
+
+Covers #layer0 and where we fit in.
+
+https://t.co/0ctC7goEu3",4,0,0,2020-03-02
+13,2020-03-04 05:28:32+00:00,1235074626004254721,MarlinProtocol,A historic moment indeed!! https://t.co/CLRBeY9gIX,10,1,1,2020-03-04
+15,2020-03-09 19:51:40+00:00,1237103779914199041,MarlinProtocol,"Figure how to find abusive images/videos from encrypted media or halt end-to-end encryption? 
+
+https://t.co/QXH506yWzk",8,0,1,2020-03-09
+16,2020-03-17 05:44:48+00:00,1239789765760700417,MarlinProtocol,"Great initiative @binance and @WazirXIndia. India is definitely brimming with talent. Can't wait to see what we #buidl next!
+
+https://t.co/9vTPJUrFKe",15,1,3,2020-03-17
+17,2020-03-18 16:36:14+00:00,1240316091357773824,MarlinProtocol,"What’s all the fuss around #layer0? 🤔
+
+We cover some of the security and scaling challenges in improving #P2P networking in this presentation! 
+
+https://t.co/tvzsp0KCEa",5,3,0,2020-03-18
+18,2020-03-19 10:38:14+00:00,1240588385971929088,MarlinProtocol,@GeorgeAsankomah There has been no public sale yet. Any details regarding this will be shared our official channels so please do make sure you're following us to stay updated! 😀,1,1,0,2020-03-19
+19,2020-03-21 09:47:47+00:00,1241300463128956928,MarlinProtocol,"A simple tutorial for Go developers who wish to wrap C libraries using CGo. 
+
+https://t.co/wBn23dSLy3",7,0,0,2020-03-21
+20,2020-03-31 06:14:20+00:00,1244870628189941760,MarlinProtocol,"Hope everyone is staying safe! We’re working from home and making progress as usual! 
+
+Here’s the latest!
+
+https://t.co/ynljio5zIR",11,2,1,2020-03-31
+21,2020-04-30 14:55:48+00:00,1255873492823597058,MarlinProtocol,"We're back with another monthly update and making progress as usual!
+
+https://t.co/HjbuILRAel",5,0,0,2020-04-30
+22,2020-05-05 17:31:57+00:00,1257724729537884161,MarlinProtocol,"@IvanGBi @daviddias @jasnell @protocollabs Ah yes! @DavidDias we're also working on modelling gossip as is implemented in blockchains &amp; experimenting w incentive driven propagation, spam prevention, security quantification etc which seem relevant to your work at ResNet Labs. Could you DM us the best way to connect?",1,1,1,2020-05-05
+23,2020-06-01 09:57:39+00:00,1267394873222729728,MarlinProtocol,"It’s monthly update time! Hard to believe that we’re halfway through 2020 already!
+
+Here’s the latest dev and community updates for May 2020! 
+
+https://t.co/4iPslFLOYa",7,0,0,2020-06-01
+24,2020-06-26 05:47:26+00:00,1276391601560891392,MarlinProtocol,"""Interpreting the p2p topology design problem as an instance of multi-armed bandit problem is a key novelty of our paper and, to our best knowledge, has not been proposed before"" - But we did 🤨
+
+https://t.co/nqfYEtKfYs https://t.co/utwSBYbz1g",7,0,1,2020-06-26
+27,2020-07-08 16:26:29+00:00,1280901078565875718,MarlinProtocol,"Propagation delays, message drops, round trips? 🧐Making networking issues now a remnant of the past. Introducing OpenWeaver, a blockchain-agnostic relay network, your hedge against network centralization. https://t.co/l9r1ZJFEoq",39,6,11,2020-07-08
+29,2020-08-04 10:26:23+00:00,1290594927802347522,MarlinProtocol,"Though EIP 1559 helps in adjusting the capacity of blocks to increase throughput during demand spikes by borrowing block space from future blocks, it is unclear if EIP 1559 alone can help with the high gas prices in the Ethereum network.",14,0,6,2020-08-04
+30,2020-08-06 14:13:20+00:00,1291376816247025664,MarlinProtocol,OpenWeaver can help traders be at the top of it all in such Gas Price Auctions! https://t.co/uwjWig7X3l,8,0,2,2020-08-06
+31,2020-08-08 11:56:10+00:00,1292067075872022528,MarlinProtocol,@chandresh1091 We agree!! 😀 https://t.co/h2YatuFSWg,5,0,1,2020-08-08
+32,2020-08-10 11:03:02+00:00,1292778478656344066,MarlinProtocol,@Bitcoinpalmer Hey! Check out: https://t.co/hkb4F82LRj and join our discord channel (https://t.co/TeHzzXpJpo) for help!,0,0,0,2020-08-10
+34,2020-08-24 09:22:06+00:00,1297826508174549000,MarlinProtocol,"Elated to be partnering with @binance in the launch of the Build for Bharat, a 3-month hackathon &amp; accelerator program to further innovation and drive adoption in the Indian ecosystem.
+
+Joined by @googlecloud @maticnetwork @BandProtocol @WazirXIndia @ankr
+
+https://t.co/76UR9xG5O2",26,2,5,2020-08-24
+35,2020-09-04 10:12:06+00:00,1301825356752539648,MarlinProtocol,"Join us in welcoming Utsav!
+
+A 2019 ICPC world finalist, he will be working on building a high-performance userspace networking stack, systems-level development, solving unique P2P networking problems &amp; anything he can get his hands on!
+
+https://t.co/VG32xwu2JG",7,0,1,2020-09-04
+36,2020-09-15 17:53:41+00:00,1305927785014231040,MarlinProtocol,"As data security and privacy concerns mount, it’s only a matter of time before trusted third parties make way for decentralized communication and storage. 
+
+We're already at the crossroads.
+
+https://t.co/HVfe7Uu6Oi",9,1,3,2020-09-15
+37,2020-10-02 06:43:59+00:00,1311919841872211969,MarlinProtocol,"The alliance grows!
+
+@CeloOrg is hosting Celo Camp, an 8-week virtual incubator where developers, designers, and dreamers come together to build a financial system that creates conditions of prosperity for all. Apply by October 5th ➡️ https://t.co/Gqm7RTglDL #celocamp",6,0,0,2020-10-02
+38,2020-10-07 09:05:15+00:00,1313767334541172736,MarlinProtocol,"Happening in 2 days. Don't forget to register!
+
+See you there!! https://t.co/JbFL2RIJjr",8,0,2,2020-10-07
+39,2020-10-14 19:20:36+00:00,1316458904163811328,MarlinProtocol,Cool! https://t.co/SvB8BbK7hY,5,0,1,2020-10-14
+40,2020-10-16 09:01:51+00:00,1317027967181103106,MarlinProtocol,"6/ Numerous Graph nodes don't radically increase the network's security. The cost of attack is primarily the stake put by a response's indexer. Effectively, the network is heavily redundant, costly to operate, geographically concentrated w security of ~1 node.",3,1,0,2020-10-16
+50,2020-10-17 11:48:19+00:00,1317432247297871872,MarlinProtocol,"1/ Here’s our second post on byzantine-resistant networking protocols feat. Secure Message Transmission (SMT), one of the cornerstones in building open decentralized P2P networks like Marlin.
+
+https://t.co/0vIAmOEbPf",11,1,3,2020-10-17
+53,2020-10-20 07:58:44+00:00,1318461634084560896,MarlinProtocol,"10/ We’ve showcased Marlin Cache at ETHOnline with $5000 in hack rewards for devs building with it. Check out the Cache’s explainer video and live demo! 
+
+https://t.co/cSQyFfBw7K",5,0,0,2020-10-20
+55,2020-10-22 17:46:41+00:00,1319334372722446336,MarlinProtocol,"Showcased Marlin Cache at the ETHOnline Hackathon and Summit, @ETHGlobal’s biggest event of the year, awarding $5k in hack rewards to the best teams who build using it
+
+Learn more by watching our live demo &amp; 3-min integration video with the Graph &amp; Infura
+
+https://t.co/Wry3RZMGSR",18,0,9,2020-10-22
+56,2020-10-24 11:27:56+00:00,1319963833088102400,MarlinProtocol,"The🐈is out of the bag - Marlin is launching in the coming weeks! In the meantime, here’s a short recap of what we’ve been up to since we got started!
+
+https://t.co/crDrQXrj3w",20,2,7,2020-10-24
+57,2020-10-29 09:00:06+00:00,1321738570089062401,MarlinProtocol,@pablopacitor @P2Pvalidator @tezos @cosmos @irisnetwork @Polkadot That's right. A post with details of our updated token structure will be coming out soon. It's a bit more interesting that a simple change of names.,2,0,0,2020-10-29
+59,2020-11-01 15:15:07+00:00,1322920107744530432,MarlinProtocol,"Congratulations to all the participants &amp; winners at ETHOnline! 🥳
+
+Special shout out to the winners of our hack rewards for their implementation of Marlin Cache! 👇
+
+Most compelling DeFi Project: @PooledLoan DeFi Chit Fund
+Runner Up #1: @SighFinance
+Runner Up #2: @CrocoFinance https://t.co/FOsTdFp2rX",12,0,2,2020-11-01
+60,2020-11-04 10:34:59+00:00,1323936775027351552,MarlinProtocol,@TheScarceBoy @P2Pvalidator @tezos @cosmos @irisnetwork @Polkadot Hi @TheScarceBoy! You'll also have to bond your addresses to an ETH address. A detailed blog post with necessary steps will be shared soon. 🙂,1,1,0,2020-11-04
+61,2020-11-06 15:10:35+00:00,1324730908432191488,MarlinProtocol,"FlowMint’s coming up &amp; early participants are in for a treat! 
+
+Lucky delegators will mint a custom-designed limited edition NFT tailored to their favorite chain. 🎨
+
+Where do we put it up? @opensea @SuperRare_co @rariblecom @mintbase 🤔 https://t.co/iXduTuJuNS",14,2,5,2020-11-06
+62,2020-11-08 19:32:45+00:00,1325521660196294661,MarlinProtocol,"The eggnet has proved to be a great way for the community to learn about Marlin. A common feedback has been that it's difficult to setup nodes and run various components. 
+
+Today, we introduce marlinctl to simplify the onboarding process!
+
+https://t.co/VIlrSZTyHu",14,0,4,2020-11-08
+63,2020-11-19 06:43:11+00:00,1329314259940089862,MarlinProtocol,"@Makedeng Hi there! I checked with my colleagues. No such communication was issued. If you've received such an email, please forward it to us at info@marlin.pro.",0,1,0,2020-11-19
+65,2020-12-10 13:23:25+00:00,1337025126269743104,MarlinProtocol,"[15/x]
+
+Detailed instructions for @NEARProtocol NEAR holders to participate in Marlin FlowMint!
+
+https://t.co/k4yBs8ggGy",14,1,1,2020-12-10
+81,2020-12-13 15:14:50+00:00,1338140328616808448,MarlinProtocol,"After some sleepless nights with @FantomFDN, happy to share that $FTM holders can also participate in FlowMint. FTM validators should register ASAP. Delegators of such validators will be able to claim a share of 20% MPOND in the StakeDrop starting Dec 14!
+
+https://t.co/5MJuWez4Oz",96,9,23,2020-12-13
+84,2020-12-14 12:24:24+00:00,1338459827740299265,MarlinProtocol,"Google decided to shut down today to announce the arrival of decentralized web
+
+Marlin FlowMint
+
+Starts 9pm PT tonight https://t.co/LLePMFon5k",10,0,2,2020-12-14
+87,2020-12-15 05:00:58+00:00,1338710619122323457,MarlinProtocol,"FlowMint is live. Dive in! 🤿
+
+Where: https://t.co/lN9kMun8Fh
+
+What: A 20% token distribution of #MPOND in a cross-chain stakedrop over 24 months 👀
+
+Who: @cosmos @irisnetwork @maticnetwork @NEARProtocol @Polkadot @binance #BSC with many more to be added 💯
+
+When: Now!",44,3,15,2020-12-15
+89,2020-12-18 11:02:30+00:00,1339888767600128000,MarlinProtocol,@CryptoMakers Account had gotten suspended 2 days back :( All good now!,1,1,0,2020-12-18
+91,2020-12-19 07:54:21+00:00,1340203804780707840,MarlinProtocol,"FlowMint crossed $90m in total stake bonded from delegators of validators running Marlin gateways on @Polkadot @NEARProtocol @FantomFDN @cosmos @BinanceChain @maticnetwork @irisnetwork
+
+20% of genesis MPond to be distributed over 24 months to protocol communities adopting Marlin https://t.co/3VgGEbmz7y",71,7,22,2020-12-19
+92,2020-12-21 05:37:47+00:00,1340894211629977600,MarlinProtocol,"@HarrisonOjimma You can participate via FlowMint and earn MPond. More information here 👇
+
+https://t.co/zoneADmAmH",0,0,0,2020-12-21
+97,2020-12-23 22:59:10+00:00,1341881059797962752,MarlinProtocol,"Introducing the POND DAO 🐳
+
+You’ll soon be able to:
+🥩 Stake both POND &amp; MPond
+⚖️ Participate in governance with MPond
+🌉 Convert from POND to MPond to become part of DAO
+🗣 Make proposals and decide on the network's future
+🐋 Update gauges for FlowMint
+
+https://t.co/WUft0Sl57F",154,4,42,2020-12-23
+98,2020-12-26 18:02:46+00:00,1342893631586234369,MarlinProtocol,"Over $140m in total stake bonded on FlowMint. 🤩
+
+Delegators of whitelisted validators running Marlin gateways earn $MPond
+
+⏲ 24-month stakedrop
+💰 20% of genesis MPond
+🛡 Stake directly on your native chain
+🔓 No additional lock-ups https://t.co/3MiCiAATP1",87,8,22,2020-12-26
+99,2020-12-27 08:19:03+00:00,1343109125341933568,MarlinProtocol,@GiulioRebuffo Replied you on discord.,0,0,0,2020-12-27
+100,2020-12-28 12:14:39+00:00,1343530801896386561,MarlinProtocol,"@thrash_273 @Polkadot @NEARProtocol @FantomFDN @cosmos @BinanceChain @maticnetwork @irisnetwork Hop onto our Discord so we can help out. 🙂
+
+https://t.co/B1Wm1nOhz7",1,1,0,2020-12-28
+101,2021-01-03 05:53:24+00:00,1345609184943849472,MarlinProtocol,"@polaris36441734 Hi there, our discord seems to be working fine. 
+
+https://t.co/eUTJ0au7aS",2,1,2,2021-01-03
+102,2021-01-06 14:37:25+00:00,1346828221766131713,MarlinProtocol,@yaseen889 @ICO_Analytics It does!,6,1,4,2021-01-06
+104,2021-01-07 06:48:43+00:00,1347072655141134338,MarlinProtocol,"@MichelParreno Hi there, you need to be connected to the Matic Mainnet Network on Metamask. That should solve this.",6,0,5,2021-01-07
+105,2021-01-08 09:49:21+00:00,1347480503478218752,MarlinProtocol,"🖥️ Multi-config instances on the same machine
+🧊 Freeze prod version to prevent auto-updates
+🔍 Integrity verification of binaries
+🔧 Custom update policies
+📓 Better logging and debugging support",25,1,8,2021-01-08
+106,2021-01-18 15:48:37+00:00,1351194794878504966,MarlinProtocol,"Absolutely ❤️ the support that the @Polkadot community is showing us! 
+
+Participation by DOT stakers and validators in Marlin FlowMint has reached record highs! 🔥
+
+💰 +$339m in total DOT bonded
+🧙 100+ validators
+
+Stake $DOT. Earn $MPond. 💯 https://t.co/5BljbOjiok",199,18,51,2021-01-18
+108,2021-01-25 07:40:45+00:00,1353608733192937472,MarlinProtocol,@KingsFantom @Polkadot @BinanceChain @cosmos @FantomFDN @irisnetwork @maticnetwork @NEARProtocol Added this in. Apologies for the delay.,7,1,6,2021-01-25
+109,2021-01-26 13:31:07+00:00,1354059292924473350,MarlinProtocol,"5/ Solve Scalability Trilemma 
+
+Marlin's layer 0 network scaling protocol will allow it to have a larger validator network without limiting block times. This addresses the most pressing concerns of decentralized economy: Scalability, Security and Decentralization.",25,1,7,2021-01-26
+115,2021-02-01 09:56:35+00:00,1356179632605655040,MarlinProtocol,"We are excited to announce our recent milestones at Marlin. 
+
+Have a detailed look at our first dev and community updates for the year. 
+
+2021 has just begun and we are exploring endless possibilities to drive adoption.
+
+Dive into more details: https://t.co/p21F6RKfg2",117,49,54,2021-02-01
+116,2021-02-03 06:36:47+00:00,1356854124608774151,MarlinProtocol,"📢 Excited for Roshan's keynote session at the #BinanceBlockchainWeek.
+
+Topic: The POND below the Bluesky
+
+Intrigued? Join us today (Feb 3) at 10:45am UTC to hear more about all things layer-0! 
+
+Register at https://t.co/OaSHhhMxKG https://t.co/QOqCi0hyRd",104,24,41,2021-02-03
+118,2021-02-07 14:09:15+00:00,1358417543803801603,MarlinProtocol,"@Diego53342147 @fdiato You need to be on Matic Mainnet on Metamask when trying to connect to FlowMint. Hop onto our Discord server if you require any assistance. 
+
+https://t.co/eUTJ0au7aS",0,1,0,2021-02-07
+119,2021-02-08 04:57:31+00:00,1358641086248361985,MarlinProtocol,@fdiato @Diego53342147 A Custom RPC needs to added for Matic Network on MetaMask. Could you join our Discord server so we could guide you? Thanks. 🙂,3,0,1,2021-02-08
+120,2021-02-09 12:00:35+00:00,1359109939982004242,MarlinProtocol,"4/ 🌏 The partnership will make Marlin's node development process more affordable and allow easy deployment across geographies.
+
+As more gateways are deployed, there will be an influx of new Ethereum, Cosmos, Polkadot nodes that interact with Marlin, increasing network effects.",40,2,19,2021-02-09
+124,2021-02-11 12:03:07+00:00,1359835352957997058,MarlinProtocol,"1/ 🤝 We’re delighted to announce our partnership with @InjectiveLabs, a Layer 2 protocol that gives traders unparalleled access to new decentralized derivatives markets.
+
+Marlin will help increase throughput and trading speeds of the Injective DEX.
+
+https://t.co/qxTX4SEqca",224,17,71,2021-02-11
+130,2021-02-15 10:56:02+00:00,1361268021642203142,MarlinProtocol,"With so much happening, we’re moving to biweekly updates going forward to keep everyone updated on all things technical and community-related!
+
+https://t.co/A5NZhhqDhj",103,12,33,2021-02-15
+131,2021-02-17 16:25:52+00:00,1362075804071436291,MarlinProtocol,8/ 👀 There’s no difference between self-staking or external delegations in Marlin. Every cluster only receives delegations from holders of eligible tokens which includes POND and MPond initially.,22,2,7,2021-02-17
+142,2021-02-18 14:49:09+00:00,1362413854479716356,MarlinProtocol,"📣 We’re looking for enthusiastic and creative individuals to join the Marlin Navy Ambassador Program.
+
+🌊 Dive straight into the depths and join us in our mission to create a fully decentralized economy.
+
+Apply here: https://t.co/xDi6ffXDFw
+
+https://t.co/YsDiLbOqdn",69,10,29,2021-02-18
+144,2021-02-20 10:01:54+00:00,1363066339116666880,MarlinProtocol,"All the best to the final 8 at the #BuildforBharat demo day! 
+
+We'll be joining the panel discussion on 'DeFi in India: from Seed to Giant sequoia'.
+
+Event starts in 30 minutes. https://t.co/Wyc5rABznG",81,6,28,2021-02-20
+145,2021-02-24 10:05:06+00:00,1364516695604256777,MarlinProtocol,"⚡️ Have you applied for the Marlin Navy Ambassador Program yet?
+
+This is the final reminder, so don't miss out on the expedition of a lifetime. Apply now to become an active proponent of Marlin to drive DeFi. 🚀✨
+
+Sign up: https://t.co/SdXhMcaNds https://t.co/NcUgGZyAXc",63,11,19,2021-02-24
+146,2021-02-26 07:13:02+00:00,1365198171593318401,MarlinProtocol,"@Vi2zle This might be what you're looking for. 😉
+
+https://t.co/HEqJLAfC7j",7,0,3,2021-02-26
+147,2021-03-01 10:34:03+00:00,1366335920408989698,MarlinProtocol,"⚖️ New subgraph for governance was developed and is in the final testing phase before release.
+
+⚓️ Announced the Marlin Navy Ambassador Program.
+
+🤓 Released the geek's guide to the Larvanet’s economics.",38,4,14,2021-03-01
+149,2021-03-07 12:38:23+00:00,1368541539572404226,MarlinProtocol,"Staking is LIVE! 
+
+Here’s a comprehensive guide on how to stake and delegate your $POND &amp; $MPond. 
+
+https://t.co/rbyUSa0xu3",189,33,63,2021-03-07
+150,2021-03-17 09:05:03+00:00,1372111730113802243,MarlinProtocol,"Here’s a quick recap of everything that unfolded during the first half of March! 
+
+Highlights: 
+
+💯Staking went live. Cluster operators include @P2Pvalidator, @infstones, @Stakely_io, @AuditOne_, @HashQuark &amp; more.
+
+✅ Listings on @binance and @CoinDCX 
+
+https://t.co/G39AdUefh8",124,17,44,2021-03-17
+152,2021-04-02 09:11:40+00:00,1377911601819381761,MarlinProtocol,"Updates for the second half of March! 
+
+Highlights: 
+
+🤝 Announced partner sale with @cerenetwork
+✅ Isolated margin trading enabled on @binance
+📃 Deployed new sub-graph covering the MPond token contract and the governance mechanisms.
+
+https://t.co/DLdHImDyRF",144,19,53,2021-04-02
+154,2021-04-16 15:46:19+00:00,1383084348992147466,MarlinProtocol,"Here are the latest developments for the first half of April!
+
+Highlights:
+
+🤓 Our Ethereum relay network successfully upgraded itself to the Berlin hard fork without interruptions.
+
+💯 NEAR, IRISnet and Cosmos gates have been integrated with marlinctl.
+
+https://t.co/xJMqlNZE15",150,16,45,2021-04-16
+156,2021-04-28 07:29:52+00:00,1387308067608424449,MarlinProtocol,"🌊 FlowMint rewards will be limited to delegators of validators who install the gateway starting mid-May.
+
+⚖️ A governance proposal needs to be passed to divert a % of the staking rewards from delegators and operators who serve ETH towards Cosmos.",40,1,5,2021-04-28
+159,2021-05-02 11:25:31+00:00,1388816921001304064,MarlinProtocol,"Here’s what went down during the second half of April! 
+
+Highlights:
+
+👀 Announced the availability of the Marlin gateway &amp; relay for @cosmos.
+
+🕸️ OpenWeaver now has relays for Cosmos, IRISnet and Polkadot.
+
+https://t.co/Vvpa0QyLmc",138,15,35,2021-05-02
+161,2021-05-14 10:15:29+00:00,1393147950960812033,MarlinProtocol,👀 https://t.co/iX7BwQOfCO,434,66,111,2021-05-14
+162,2021-05-20 13:19:52+00:00,1395368680679084032,MarlinProtocol,"The next integration in our layer 0 blockchain agnostic protocol is here! 🐟
+
+With smooth sailing for @ethereum on our Larvanet for 4+ months and the @cosmos testnet underway, it's finally time to release the Marlin gateway and relays for @Polkadot.
+
+https://t.co/VvzJsvvXMA",119,14,36,2021-05-20
+165,2021-05-21 09:08:12+00:00,1395667732004106250,MarlinProtocol,"Here are the latest updates for the first half of May!
+
+Highlights:
+
+✅ Released the Marlin gateway &amp; relay for @Polkadot 
+
+🛠️ Set up testnets for ETH, Cosmos &amp; Polkadot for operators to test without having to stake MPond. Will be public in a few days.
+
+https://t.co/YSbRBrKJoF",96,13,30,2021-05-21
+168,2021-05-26 06:40:21+00:00,1397442464244322305,MarlinProtocol,"@MrhCrypto @BitcoinComExch Yes, you can transfer and stake from MetaMask! 😀",2,1,1,2021-05-26
+169,2021-06-01 13:04:21+00:00,1399713430462816262,MarlinProtocol,"Launching Lagoon, a full-fledged testnet environment for operators on the Marlin network!
+
+Highlights:
+
+🔍 Lagoon is an isolated lookalike of the Larvanet staking platform.
+
+🛡️ Backed by a separate set of tokens &amp; staking contracts on the Kovan network.
+
+https://t.co/zd1s1vmkzi",112,10,29,2021-06-01
+171,2021-06-03 16:15:15+00:00,1400486245348777991,MarlinProtocol,"Delighted to share that $POND can now be collateralized to mint USDP on @unitprotocol 🦆
+
+Use the USDP to make payments, exchange to other stable coins (USDT, USDC, DAI), buy ETH/BTC, or add liquidity on @CurveFinance to farm $CRV.
+
+https://t.co/6x5ncQ0Bp2",93,7,24,2021-06-03
+174,2021-06-04 11:10:12+00:00,1400771863710605312,MarlinProtocol,"✅ Ethereum gateways have been updated to support the eth/65 wire protocol.
+
+👀 POND and MPond staking stats reached a new ATH. Choose from +50 cluster operators to delegate to.",44,0,6,2021-06-04
+176,2021-06-20 12:56:57+00:00,1406596934547251204,MarlinProtocol,"An artist's rendition of POND -&gt; dark forest 🤔
+
+Credits: @latchon (telegram) 👏 https://t.co/Q7OGtHeTuc",91,6,10,2021-06-20
+177,2021-06-21 07:20:21+00:00,1406874614299389956,MarlinProtocol,"Updates for the first half of June are here!
+
+Highlights:
+
+💰 Binance Liquid Swap opened the POND/BUSD Liquidity Pool.
+
+👀 Collateralize $POND &amp; mint USDP on @unitprotocol. Exchange to other stable coins or add liquidity on @CurveFinance to farm CRV.
+
+https://t.co/CeXGOSOe4I",72,5,20,2021-06-21
+179,2021-07-01 16:18:06+00:00,1410633822819946504,MarlinProtocol,"5/5 We can’t wait to unveil the next iteration of FlowMint. 
+
+Stay tuned! https://t.co/Qu4fOhmR6d",34,2,6,2021-07-01
+185,2021-07-06 07:59:15+00:00,1412320223986737152,MarlinProtocol,"PSA - We've acquired https://t.co/KdxTRkoRB9. Expect any new email communications to originate from the new domain. Nevertheless, beware of spoofing and contact info@marlin.pro in case of suspicious messages.",42,3,13,2021-07-06
+186,2021-07-07 06:33:45+00:00,1412661094439473153,MarlinProtocol,"Here are the latest developments for the second half of June!
+
+🎯Staking contracts were upgraded with new stash mgmt features &amp; gas optimizations. UI integration is in development.
+
+🥩 Staking subgraph has been updated to incorporate the above features.
+
+https://t.co/QcjE0K3Ds5",61,8,19,2021-07-07
+188,2021-07-21 09:21:08+00:00,1417776646032003073,MarlinProtocol,"Our updates for the first half of July are here!
+
+Highlights:
+
+⚡️ Onboarded @CloqueFinance, a physically-settled futures protocol for blockspace/hashpower.
+
+🧐 The bridge contract was updated to take MPond locked in the staking contract into account.
+
+https://t.co/pYLpSl9qkz",58,6,11,2021-07-21
+190,2021-08-04 15:30:51+00:00,1422943119427850247,MarlinProtocol,"Excited to announce that OpenWeaver is now available for @0xPolygon with FlowMint 2.0!
+
+🕸️ With OpenWeaver, block producers and full nodes in the Polygon network can send and receive large blocks at latencies close to physical limits.
+
+https://t.co/PSv55t0aMz",106,15,33,2021-08-04
+192,2021-08-07 12:28:25+00:00,1423984371883593729,MarlinProtocol,"👀 Revamped staking portal is undergoing testing. The updated UI will include new features such as canceling undelegations/redelegations and splitting/merging stashes. 
+
+🤓 The Ethereum gateway has been rewritten using structopt to bring it in line with other chains.",41,1,10,2021-08-07
+194,2021-08-13 06:37:31+00:00,1426070391999451138,MarlinProtocol,"We've come a long way. Yet, our journey has just begun.
+
+Thank you for the continuous support! ❤️ https://t.co/EGKXlpRfyt",173,16,28,2021-08-13
+195,2021-08-19 14:43:57+00:00,1428367135827382289,MarlinProtocol,"1) ATTN MPond holders: Discussions on the first few governance proposals would be going live soon and would subsequently be pushed for an on-chain vote. 
+
+In order to vote, you're required to set up your voting account prior to the proposal being pushed on-chain.",59,4,14,2021-08-19
+203,2021-08-20 16:28:15+00:00,1428755771903201290,MarlinProtocol,"🤝 The collaboration will help leverage and utilize Common Protocol's seamless UI &amp; platform, taking Marlin to the next level to better engage our community.
+
+⚖️ Proposals have already been put up on the forum and we invite you to join the discussion.",36,1,4,2021-08-20
+205,2021-08-22 10:40:16+00:00,1429392975184896001,MarlinProtocol,"Here are the latest updates for the first half of August! 
+
+Highlights:
+
+🕸️ Launched OpenWeaver for @0xPolygon with FlowMint 2.0
+
+🌉 Bridge UI is live. 
+
+🤓 Spam prevention RPC calls have been integrated into the Polygon gateway.
+
+https://t.co/Bckir7UkaZ",114,15,30,2021-08-22
+207,2021-08-26 13:06:47+00:00,1430879397301547016,MarlinProtocol,"⚖️ Our governance proposal is up for vote!
+
+What: Staking undelegation time for MPond/POND is 30 days. Proposal is to reduce it to 7 days.
+
+Starts: Now
+
+Ends: In 72 hrs
+
+Who: MPond holders who've set up voting or staking can vote.
+
+https://t.co/vdzrNlgSMm
+
+https://t.co/Ys7QJaWF4y",108,8,21,2021-08-26
+208,2021-08-30 07:03:41+00:00,1432237570218418176,MarlinProtocol,"Update: The proposal has passed and will go into effect at around 12 noon UTC, Aug 31",62,10,16,2021-08-30
+209,2021-09-06 11:30:40+00:00,1434841475884335108,MarlinProtocol,"🗳️ Two governance proposals are up for vote!
+
+⚖️ Rebalance the reward distribution formula for POND and MPond delegators. 
+
+Details: https://t.co/i4RmdFnkJl
+
+Vote: https://t.co/iowacEUGlL",88,14,27,2021-09-06
+211,2021-09-07 06:35:02+00:00,1435129466506792961,MarlinProtocol,"5/ Instructions for validators to install the gateway to enable communication between mev-bor and the Marlin relay can be found in our docs 👇
+
+https://t.co/6D8bM6PiWV",34,2,8,2021-09-07
+218,2021-09-08 10:24:57+00:00,1435549712266924036,MarlinProtocol,"Here are the latest updates for the second half of August!
+
+Highlights:
+
+⚖️ Governance proposal to reduce the staking undelegation time was put into effect.
+
+🤓 Created mev-bor, a fork of bor with bundle handling similar to mev-geth.
+
+https://t.co/isdcGkJ42s",83,7,24,2021-09-08
+221,2021-09-10 14:34:06+00:00,1436337191341355010,MarlinProtocol,"Update: 
+
+✅ Proposal to change the MPond-POND bridge parameters has passed and will come into effect around 10am UTC tomorrow. 
+
+❌ Proposal to rebalance the reward distribution formula has not passed due to insufficient votes.",65,13,14,2021-09-10
+222,2021-09-21 13:16:07+00:00,1440303829589762048,MarlinProtocol,"Updates for the first half of September are here!
+
+Highlights: 
+
+👀 Introduced MEV support for @0xPolygon.
+
+📜 Contracts are being deployed and tested on Arbitrum. We are still working out what a potential migration would look like.
+
+https://t.co/mDearPE7Dt",112,19,36,2021-09-21
+225,2021-10-08 09:09:02+00:00,1446402244014792709,MarlinProtocol,"Updates for the second half of September are here!
+
+Highlights:
+
+🌉 Bridge requests are now cancellable in the UI.
+
+🤓 Added a State entity to the bridge subgraph to query system parameters without having to use other services like Infura.
+
+https://t.co/ARDr6Tf07V",96,19,26,2021-10-08
+232,2021-10-21 14:07:11+00:00,1451188318809387013,MarlinProtocol,"Updates for the first half of October are here!
+
+Highlights:
+
+✅ Introduced Loki, a dedicated Polygon MEV testnet for validators to smoothly transition to mev-bor on mainnet.
+
+👀 Implemented the upgraded staking UI with new features and bug fixes.
+
+https://t.co/vHWMH0cpge",101,13,30,2021-10-21
+235,2021-10-22 10:33:53+00:00,1451497029062987780,MarlinProtocol,"Our staking portal has a new UI + some feature additions!
+
+https://t.co/EOft2koX6l 
+
+Some stats: 
+
+🥩 Staking has been live for +7 months.
+
+💯 +110 validators joined the Marlin network &amp; run gateways for ETH.
+
+🔥 +80M $POND &amp; +773 $MPond staked currently.
+
+https://t.co/9q6OdUG0tn",140,20,35,2021-10-22
+239,2021-11-07 08:43:31+00:00,1457267458268532741,MarlinProtocol,"🧠 Updated dependencies of OpenWeaver and pulled in the critical patch we contributed to libuv that eliminates packet drops within libuv in some scenarios.
+
+🔥 Optimized gas usage when merging stashes.",69,2,9,2021-11-07
+242,2021-11-08 11:29:03+00:00,1457671503445643277,MarlinProtocol,What does the $POND community prefer?,177,51,30,2021-11-08
+243,2021-11-20 14:05:55+00:00,1462059636933021702,MarlinProtocol,"Updates for the first half of November are here! 
+
+Highlights:
+
+🤓 Our testing environment and the associated subgraphs have been migrated to Rinkeby from Kovan to prepare for integration testing with Arbitrum next week.
+ 
+https://t.co/7WKNyBmttg",199,33,41,2021-11-20
+246,2021-12-07 06:49:18+00:00,1468110351916933122,MarlinProtocol,"👀 MEV data on Polygon for most of 2021 has been backfilled on our dashboard, showing around $37.8M extracted in DEX arbitrages alone. Work is underway to incorporate more protocols.
+
+🤓 Our mev-inspect-py fork has been updated to the new async architecture on upstream.",87,17,17,2021-12-07
+249,2021-12-23 10:53:19+00:00,1473969964394573824,MarlinProtocol,"🤓 Cluster operators will need to register on the Arbitrum staking portal before staking goes live in order to continue receiving tickets and rewards.
+
+👋 Reach out to us on Discord (https://t.co/TeHzzXpJpo) in case you have queries/require assistance.",37,3,5,2021-12-23
+253,2021-12-24 11:53:08+00:00,1474347407869497347,MarlinProtocol,"Updates for the first half of December are here! 
+
+Highlights:
+
+🌉 Add bridging functionality to StakeManager.
+
+💯 Staking subgraph has been updated to track bridged stashes.
+
+https://t.co/dW8NWqp8Yy",123,24,39,2021-12-24
+256,2022-01-01 03:50:00+00:00,1477124925831921666,MarlinProtocol,"🕸️ OpenWeaver for Polygon.
+
+🔆 Block producers &amp; full nodes in the Polygon network can send &amp; receive large blocks at latencies close to physical limits.
+
+😲 Provides DeFi traders, arbitrage &amp; liquidation bots near immediate access to the txn mempool.
+
+https://t.co/n4X6qUgYYB",16,2,4,2022-01-01
+270,2022-01-10 15:23:10+00:00,1480560856136314886,MarlinProtocol,"Updates for the second half of December are here! 
+
+Highlights:
+
+🐟 Began migration of the Marlin Network from Ethereum to Arbitrum.
+
+✅ Deployed the token, staking and governance subgraphs on Arbitrum.
+
+https://t.co/7C0TkZ6872",98,9,29,2022-01-10
+275,2022-01-12 07:45:44+00:00,1481170516216266756,MarlinProtocol,"🗓️ Supragya is presenting a case study of MEV on Low-Fee Chains at the Flashbots event tomorrow! 
+
+Specifically, MEV extraction on @0xPolygon in 2021, including a focus on adversarial &amp; non-adversarial spamming activity &amp; how such activities exist on other low-fee chains. https://t.co/rmCbikHYoB",109,10,33,2022-01-12
+276,2022-01-24 10:58:21+00:00,1485567644283539456,MarlinProtocol,"Updates for the first half of January are here! 
+
+Highlights:
+
+👀 The relay network switched to using the staking contracts on Arbitrum. 
+
+📢 Operators/Delegators need to register/migrate to the Arbitrum staking portal to continue earning rewards.
+
+https://t.co/cAMUtiggxV",127,25,35,2022-01-24
+279,2022-01-31 17:17:37+00:00,1488199804190478337,MarlinProtocol,"Wishing everyone a Happy Chinese New Year! 
+
+#YearOfTheTiger https://t.co/uo7BAUiwdq",127,19,19,2022-01-31
+280,2022-02-09 11:02:12+00:00,1491366819776839689,MarlinProtocol,"Updates for the second half of January are here! 
+
+Highlights:
+
+✅ Added support for the POND/MPond token bridge to be two-way, enabling bridging from Arbitrum back to Ethereum. The UI is currently under testing and will be released once done.
+
+https://t.co/iHIGxRHWUi",121,30,27,2022-02-09
+283,2022-02-14 17:29:28+00:00,1493276216274546688,MarlinProtocol,"For DApps: DApps which would benefit from the ability to prioritize transactions or use a private relay are invited to reach out to us to explore integration possibilities!
+
+The Flashbots relay on Polygon will go live on Feb 21st once spam &amp; DoS protection is made more robust.",47,4,9,2022-02-14
+288,2022-02-16 19:54:38+00:00,1494037525026988041,MarlinProtocol,"@Cneal42327343 @granmaziusklein @nobodyrado @0xPolygonToday 1) The node is a 0 commission node 2) Both MATIC delegators to the node &amp; POND delegators to Marlin relays receive a share of the MEV revenue which is in addition to the staking rewards MATIC delegators otherwise receive. So, no, 'marlin guys' aren't keeping any money or interest",13,4,0,2022-02-16
+289,2022-02-21 15:13:36+00:00,1495778741414473732,MarlinProtocol,"The Flashbots relay on @0xPolygon is live!
+
+Bundles can be sent to https://t.co/GDpF9bnsz4. Blocks produced by validator 106 (https://t.co/zOF2Gjv7fm) will be following the Flashbots spec.
+
+The node produces around 8% of the blocks in the Polygon POS network. https://t.co/JcMPTG9Z97",108,15,24,2022-02-21
+292,2022-02-24 12:39:26+00:00,1496827105899782146,MarlinProtocol,"Updates for the first half of February are here! 
+
+Highlights:
+
+⚡️ Deployed the Flashbots relay &amp; successfully landed multiple bundles on Polygon using our custom bribe contract.
+
+https://t.co/WyhPZh51Hz",83,25,16,2022-02-24
+296,2022-03-01 07:04:48+00:00,1498554831837011968,MarlinProtocol,"Reach out on Discord to hop aboard.
+
+https://t.co/TeHzzXHkNY",33,2,6,2022-03-01
+301,2022-03-10 11:20:48+00:00,1501880745698238468,MarlinProtocol,"Updates for the second half of February are here! 
+
+Highlights:
+
+⚡️ Deployed and launched the Flashbots relay for Polygon to enable searchers to send bundles to validators.
+
+🔍 Added a Prometheus endpoint to mev-relay to track key metrics.
+
+$POND #Marlin
+
+https://t.co/qkOanNzwCr",118,25,22,2022-03-10
+304,2022-03-18 10:58:49+00:00,1504774319691468801,MarlinProtocol,"Earlier this year, the Marlin network successfully migrated from @ethereum to @arbitrum.
+
+To ensure a smooth transition, the token bridges were initially one-way. Starting today, $POND &amp; $MPond on Arbitrum can be bridged back to Ethereum.
+
+Guide 👇
+
+https://t.co/st6PoYqX8d",188,22,32,2022-03-18
+305,2022-03-20 14:39:19+00:00,1505554585062195200,MarlinProtocol,"1/ $850k+ arbitrage extracted on @0xPolygon in a single block when a smart contract was exploited on @MonoXFinance on 30 Nov 2021.
+
+Hacks are terrible. However, bots don't discriminate &amp; are monitoring the mempool 24/7 looking for arbitrage opportunities.
+
+#MEV #DeFi
+
+A thread 🧵",111,14,15,2022-03-20
+310,2022-03-24 15:41:55+00:00,1507019888623173633,MarlinProtocol,"🔗 Released POND -&gt; MPond bridge on Arbitrum.
+
+⚙️ Added hardhat based deployment scripts for the bridge contracts.
+
+📊 Developed a monitoring framework for tracking Flashbots bundles included on Polygon. Currently building a dashboard to expose this data in an accessible way. https://t.co/xpgCVtFMth",52,17,2,2022-03-24
+313,2022-04-19 08:33:35+00:00,1516334182842220546,MarlinProtocol,Try erigon? https://t.co/jdlz8kA0i8,36,14,4,2022-04-19
+317,2022-04-25 09:26:11+00:00,1518521744927215616,MarlinProtocol,"Stay tuned! 🐟
+
+#builtonmarlin https://t.co/RaO0lQdks8",288,88,50,2022-04-25
+318,2022-05-04 09:29:00+00:00,1521783945570013186,MarlinProtocol,7/ An additional guarantee of using Flashbots is that transactions that revert are not included in the block. So any failures in not making it into the top &lt;X&gt; txns of a block would not lead to any loss in funds for users (barring uncles) unlike mempool gas wars.,10,2,0,2022-05-04
+327,2022-05-25 09:20:36+00:00,1529391974562004992,MarlinProtocol,"6/In a competitive environment, the majority of such profits go to miners as each bot tries to capture the opportunity from a competing bot. Such value that only miners can capture thanks to their monopoly in including, excluding or reordering txns within the block is called MEV. https://t.co/VzmYAxrpso",19,6,1,2022-05-25
+334,2022-05-30 12:19:48+00:00,1531249012330090497,MarlinProtocol,"1/ In today’s episode of #MEVexplained, we’re exploring a simple but effective form of MEV called 'Arbitrage' which, according to Flashbots, accounts for +99% of MEV on Ethereum and is an area of interest for us. 😉
+
+To understand what MEV is, visit:
+
+https://t.co/sQRDLl6YZy",101,17,20,2022-05-30
+341,2022-06-13 12:18:40+00:00,1536322158158352386,MarlinProtocol,"/7 Liquidations contd.:
+
+...collateral's value (say $100) &amp; loan ($66.66).
+
+So, bots search the mempool for loans close to liquidation &amp; compete with each other to be the first txn in the block to pay back the loan by increasing the tip (up to liquidation fee) to the miner. https://t.co/zHH9YctY6e",22,1,1,2022-06-13
+349,2022-06-28 12:15:03+00:00,1541757067299618816,MarlinProtocol,"1/ Next up on #MEVexplained – Sandwich trading, an MEV opportunity made possible by searchers/bots who keep a watchful eye on the mempool for DEX trades to profit from the potential slippage.",96,71,17,2022-06-28
+357,2022-07-20 08:06:37+00:00,1549667076930945024,MarlinProtocol,8/ We expect the upgrade to be strictly optional. Not all nodes in the network would be required to support the additional features which come with more hardware requirements. Over the coming weeks we’ll be sharing detailed specs of the design which will be followed by a testnet.,70,12,6,2022-07-20
+365,2022-08-17 12:33:58+00:00,1559881220112236546,MarlinProtocol,"Enclaves are a powerful primitive that have a variety of applications in blockchain, healthcare and medical research, finance, mobility, etc. 
+
+What are they and why is it relevant? Vikram covers that and more in this guest post here 👇
+
+https://t.co/p6q45fQelk",85,35,18,2022-08-17
+366,2022-08-27 10:48:14+00:00,1563478489197469697,MarlinProtocol,"PSA: Ethereum-Arbitrum bridge
+
+Arbitrum is rolling out its Nitro upgrade in the coming week. As a result, the Ethereum-Arbitrum bridge will be temporarily affected until Sep 5.",69,82,7,2022-08-27
+367,2022-09-23 09:37:46+00:00,1573245229347610626,MarlinProtocol,"Given most large validators operate nodes in clusters across different data centers, gateway operators can also run managed services for several staking companies by installing nodes at different facilities.
+
+Gateway: https://t.co/ZPh2gm4Ojp",24,1,2,2022-09-23

@@ -1,0 +1,575 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-08-27 09:22:08+00:00,1298913679660871680,FlamingoFinance,@OldLeek The first product will launch in mid-Sep. Stay tuned!,1,0,0,2020-08-27
+1,2020-09-09 14:47:25+00:00,1303706583138934786,FlamingoFinance,@iammichaelpole Detailed guide will be released for “Mint Rush” week very soon. Stay tuned!,3,1,0,2020-09-09
+3,2020-09-10 03:53:36+00:00,1303904430429929472,FlamingoFinance,Flamingo smart contracts are being audited by PeckShield @peckshield. https://t.co/kOyTDIQG6K,68,3,11,2020-09-10
+4,2020-09-16 09:44:54+00:00,1306167166664765440,FlamingoFinance,@Zaheer99741986 @Andrey10200093 More details will be released very soon.,2,0,0,2020-09-16
+14,2020-09-17 15:05:19+00:00,1306610188368052225,FlamingoFinance,@DoctorDeFi If only @Twitter let us edit the tweets!,1,0,0,2020-09-17
+31,2020-09-18 14:31:22+00:00,1306964033665261568,FlamingoFinance,@bee_buz It’ll be included in the guide to be released soon. Thank you.,0,0,0,2020-09-18
+39,2020-09-20 16:53:08+00:00,1307724487618564096,FlamingoFinance,@franhky269 We’ll release a detailed guide on that soon.,1,0,0,2020-09-20
+42,2020-09-21 11:01:50+00:00,1307998464794488835,FlamingoFinance,. @dahongfei will be joining our Discord AMA in 3 hours. Get your questions ready and set the alarm clock! https://t.co/x2eoM4ajhq,43,0,9,2020-09-21
+46,2020-09-22 02:34:53+00:00,1308233275505139712,FlamingoFinance,"Here is a full recap of yesterday’s $FLM Discord AMA with @dahongfei. We had a blast!
+Thanks to @neoeconomyio for compiling it for everyone!
+
+https://t.co/CFivZI5IH0
+
+Make sure to join our Discord if you don’t wanna miss the next session: https://t.co/Z6bhm6q8mv",63,5,17,2020-09-22
+48,2020-09-23 14:35:11+00:00,1308776934982053889,FlamingoFinance,@Sohailb23811031 Nope. The token is not released. Any sale is a scam.,4,1,0,2020-09-23
+58,2020-09-24 15:07:47+00:00,1309147524029124610,FlamingoFinance,"It’s been 24h since #Flamincome and Wrapper launched, and the total inflow value has surpassed $100,000,000 USD despite we are still waiting for the #MintRush 🚀. 
+
+🙇A big Thank You to the the overwhelming support and encouragement from our global 🦩community.
+
+Big day tomorrow! https://t.co/51zhhzsSFF",216,41,44,2020-09-24
+59,2020-09-25 08:26:27+00:00,1309408912689344512,FlamingoFinance,This is how it looks like 5 hours before the #MintRush…$FLM https://t.co/TaXYO0WyCC,156,29,28,2020-09-25
+65,2020-09-26 05:02:59+00:00,1309720099356512258,FlamingoFinance,"Announcement regarding the refund of withdraw fees on Flamincome.
+
+https://t.co/PnYrIRIuXm",31,4,4,2020-09-26
+68,2020-09-27 15:30:18+00:00,1310240356961722368,FlamingoFinance,"The announcement regarding claiming $FLM from Vault V2. 
+
+https://t.co/hY5PuyAeyC",44,9,7,2020-09-27
+75,2020-09-28 02:20:57+00:00,1310404098055761920,FlamingoFinance,The total value locked participating in Flamincome/Flamingo has surpassed 1.6 billion USD. $FLM https://t.co/JrMgU8LxEQ,383,112,89,2020-09-28
+76,2020-09-29 07:00:55+00:00,1310836940921425920,FlamingoFinance,The refund of USDT withdraw fees (for withdraws before UTC 16:00 26 Sep as earlier announced) is now completed. Affected users may check transaction details here: https://t.co/ZGOm6PUmNG https://t.co/GpZMfpJj7w,51,29,8,2020-09-29
+77,2020-09-30 04:30:51+00:00,1311161564515377152,FlamingoFinance,"Mint Rush will end on Wednesday, 09/30/2020 UTC 11:00 as previously planned. 
+
+The team has decided to launch Mint Rush 2 to thank our community members for their support while also testing Swap components to ensure an optimized user experience. 
+
+https://t.co/KNl4xUobV7",147,51,32,2020-09-30
+80,2020-10-04 13:05:06+00:00,1312740528878886916,FlamingoFinance,"Distribution of the 493,540 FLM will start on 2020 October 4 UTC 15:00.
+
+https://t.co/lvxt7PwkUo",154,61,26,2020-10-04
+82,2020-10-07 16:23:18+00:00,1313877573978349568,FlamingoFinance,"Confused about crosschain assets, wrapped assets, f-assets and n-assets? We have prepared a guide for all Flamincome/Flamingo users.
+
+https://t.co/DFyHUsKmUF",57,21,10,2020-10-07
+88,2020-10-14 10:14:33+00:00,1316321489122070528,FlamingoFinance,"Here are the latest updates on:
+👉Swap highlights;
+👉FLM release schedule;
+👉Upcoming Swap optimizations.
+https://t.co/MVBj0aOyHw",114,25,29,2020-10-14
+89,2020-10-15 09:18:35+00:00,1316669792980353024,FlamingoFinance,"The Trading Router is now live on Swap.
+
+“When a user wants to trade A to C without sufficient liquidity in the pool, or the relevant pool has not yet been established, the trading router will automatically search for an optimal trading route to execute the trade.” https://t.co/bCom5wtmay",136,26,14,2020-10-15
+90,2020-10-16 14:39:56+00:00,1317113049082335234,FlamingoFinance,"As promised, we have made improvements over the Swap analytics. You may now check for liquidity, volume and fees for all pools.
+https://t.co/rTIZcRNVhd",96,15,12,2020-10-16
+91,2020-10-18 04:03:32+00:00,1317677668205174784,FlamingoFinance,Dear users please beware of similar scams. The method to identify a scammer is to check the URL address. https://t.co/DZID2QATYp,39,16,11,2020-10-18
+92,2020-10-22 02:22:57+00:00,1319101910222135296,FlamingoFinance,"@LoL_CooLMaN Hey, regarding your question. If you can click on 'View Analytics' under 'Pool'. You will find prospective earnings for providing liquidity in the top pairs.",0,0,0,2020-10-22
+95,2020-10-27 04:03:32+00:00,1320939159620497409,FlamingoFinance,"Check out the revamped Analytics page for Swap: 
+👉 https://t.co/rTIZcRNVhd https://t.co/nIOFstWWKN",78,50,10,2020-10-27
+96,2020-10-29 09:22:09+00:00,1321744119408943104,FlamingoFinance,"@deancan yes, and you can find our latest progress update on our  website: https://t.co/MVBj0aOyHw",3,3,0,2020-10-29
+98,2020-11-02 04:33:59+00:00,1323121151535534080,FlamingoFinance,Welcome @O3_Labs to our Discord group. Check the original post for rewards before the AMA! https://t.co/8A47bfIchk,52,19,9,2020-11-02
+99,2020-11-04 10:05:52+00:00,1323929449738366977,FlamingoFinance,"AMA session, coming in 3 hours!
+On Discord Channel: https://t.co/3wj6gZQHuD https://t.co/2Z0lhTT9SF",38,8,4,2020-11-04
+100,2020-11-05 10:22:18+00:00,1324295969635065856,FlamingoFinance,"In order to accelerate the decentralization of #Flamincome governance, the team will launch the distribution of of $FLAG - the governance token of Flamincome. The first governance proposal from the team will come a month later.
+
+https://t.co/qXxlFTvsSL",56,28,12,2020-11-05
+102,2020-11-10 09:17:57+00:00,1326091718555361280,FlamingoFinance,"A new trading pair $SWTH/nNEO will be launched in Swap on 11/11/2020. 
+
+Flamingo users could trade between the pair and earn $FLM rewards by providing liquidity to the pair.
+
+$SWTH is the governance token of @SwitcheoNetwork. 
+
+https://t.co/QtsXH0yQ7U",102,21,25,2020-11-10
+104,2020-11-11 09:16:10+00:00,1326453654354718720,FlamingoFinance,"The new $SWTH/nNEO Swap pool is now live!
+
+Staking rewards for FLP-SWTH-nNEO will be released in less than 4 hours.
+
+@SwitcheoNetwork https://t.co/aJ2n4kZwVI",77,12,18,2020-11-11
+105,2020-11-12 02:07:41+00:00,1326708210334535680,FlamingoFinance,"@CryptoFunzy FLM is NEP-5 token, and you can use Neoline or O3 wallet to store it.",0,1,0,2020-11-12
+106,2020-11-26 10:05:21+00:00,1331901851013320704,FlamingoFinance,"So🦩 meets #Thanksgiving!
+
+It has been 2 months since the very beginning. We are thrilled by all the trust and companionship shared in the community. 
+
+“Thank you” is something we say not only on Thanksgiving but all through the journey. https://t.co/R0NwAdmMR2",69,18,6,2020-11-26
+107,2020-11-27 10:20:39+00:00,1332268088675368960,FlamingoFinance,"Flamingo/Flamincome Progress Update 
+
+Key takeaways:
+- #Flamincome team is working on a solution to restore the price pegging of n-assets.
+- Perp will beta launch in mid-Dec, with a trading competition.
+- First governance proposal vote to begin 1st Dec.
+
+https://t.co/7wsBm124mq",81,18,25,2020-11-27
+108,2020-12-01 06:49:50+00:00,1333664584981377024,FlamingoFinance,"😊It's the first day of December!
+🗳️With Perp beta launch in the pipeline, the team has proposed the first-ever #FIP to let the community decide on the rewards for the #PerpTradingCompetition, after Perp beta launch.
+
+https://t.co/3BxpnRMiQz",57,12,20,2020-12-01
+109,2020-12-02 08:19:19+00:00,1334049493126299656,FlamingoFinance,"The vote is now live! https://t.co/444JtAduIb
+For or Against? https://t.co/DooEqQxr9H",31,7,2,2020-12-02
+110,2020-12-03 04:03:04+00:00,1334347393861476355,FlamingoFinance,"We've also updated the FAQ section for details regarding how to vote for governance proposals: 
+
+https://t.co/SqNjv0k9KE https://t.co/8oXGIBpZEQ",33,9,2,2020-12-03
+111,2020-12-08 02:07:17+00:00,1336130196383002625,FlamingoFinance,"@markjeffrey Did you receive more tokens for the other asset in the pair? Yes, you could see a small impermanent loss when price changes.",1,2,0,2020-12-08
+112,2020-12-23 10:16:37+00:00,1341689160675938305,FlamingoFinance,"Flamingo progress update:
+
+- $FLM to be released per current schedule until Perp launch.
+- Perp Trading Competition launching soon, details will be released next week.
+- $GAS will not be used for trading competition rewards, new proposal to follow.
+
+https://t.co/5EaqRnzXWy",106,33,19,2020-12-23
+113,2021-01-04 09:28:17+00:00,1346025648779743233,FlamingoFinance,"A fresh start for the new year - The Flamingo Perp Trading Competition is here!
+
+📅 Jan 8 - Jan 22
+🏅️100,000 FLM to be won
+✍️ Join our Discord group to apply (link in bio)
+
+https://t.co/jqNPFybeYC",105,17,19,2021-01-04
+114,2021-01-06 04:11:48+00:00,1346670779002359809,FlamingoFinance,"The Flamingo Litepaper is now updated with more details on Perp!
+
+Be sure to take a look and join our Discord group to participate in the Trading Competition! 
+
+https://t.co/HAAvq3CJpk",84,10,11,2021-01-06
+115,2021-01-07 10:35:30+00:00,1347129730160476162,FlamingoFinance,"24hrs to the Flamingo Perp Trading Competition! 
+Have you applied? https://t.co/Zn2Sb9kBol",47,6,7,2021-01-07
+116,2021-01-08 08:58:06+00:00,1347467603447451650,FlamingoFinance,"Have you received your PMU (Perp Mock USDT)? 👀
+
+Perp Trading Competition participants may now check your PMU balance on Neo browsers! (Asset: cf0bec047573d2b5f4b99a5f6655226e0fb5f7f9)",45,19,8,2021-01-08
+118,2021-01-11 09:34:58+00:00,1348564045306085376,FlamingoFinance,"Day 3 into the #PerpTradingCompetition, what’s your PnL?
+
+More than 400 participants already contributed to ~$200 million trading volume (in USD). The team has also recognized various areas for improvement and already working on them.
+
+Application is still open, join the game.🤟",72,18,10,2021-01-11
+119,2021-01-14 03:57:12+00:00,1349566209369415684,FlamingoFinance,"Application for the #PerpTradingCompetition closes in 6 hrs, last chance to join! Competition runs til 22 Jan. https://t.co/Zn2Sb9kBol",42,4,5,2021-01-14
+120,2021-01-19 08:28:42+00:00,1351446474949763073,FlamingoFinance,"3 more days to go for the #PerpTradingCompetition, we’d like to thank all community members for the generous support and feedback.
+
+Several bugs and UI inefficiencies have already been  discovered and the team is currently working on various improvements.
+
+https://t.co/0l1k5f2F0O",87,8,18,2021-01-19
+121,2021-01-21 08:09:04+00:00,1352166309321076736,FlamingoFinance,"The #PerpTradingCompetition will conclude UTC 10:00 01/22/2021. 
+
+Please be sure to close all positions (regardless of the margin) in order to be included in the final ranking.
+
+The team will verify the ranking after the competition concludes and announce the results after.",53,4,2,2021-01-21
+122,2021-01-25 10:27:15+00:00,1353650633836912640,FlamingoFinance,"The winners are now in for the Flamingo #PerpTradingCompetition!
+
+The team would like to once again thank all community members for your great support of the event, please stay tuned for more updates!
+
+https://t.co/ItwrLqLVaf",59,6,8,2021-01-25
+123,2021-01-28 02:09:29+00:00,1354612532728614913,FlamingoFinance,"A preview of what’s coming up: Separate governance proposals will be put up for voting on Flamingo and Flamincome for the redesign of the asset flow to allow greater interoperability without affecting the price peg between assets.
+
+More info in the thread 👇 https://t.co/guu75sWCjr",49,2,9,2021-01-28
+125,2021-02-01 09:21:19+00:00,1356170757466771457,FlamingoFinance,Vote for FIP#2 is live now at https://t.co/444JtAduIb! https://t.co/fSSucbbWz6,64,8,17,2021-02-01
+129,2021-02-02 10:01:53+00:00,1356543355014901761,FlamingoFinance,"Questions about FIP#2? 
+
+Join us this Thursday for a special AMA with our product lead Gao Yuan, to understand in depth about the proposed asset flow redesign, and get your own questions answered during the session!
+
+⏰ 4 Feb, 9-10 pm (U+8)
+📍Flamingo Discord (Link in bio) https://t.co/TPO5h3d6fw",79,4,22,2021-02-02
+130,2021-02-04 07:54:08+00:00,1357235979908575232,FlamingoFinance,"Looking forward to more asset liquidity and dynamics when the updated design is implemented. 
+
+https://t.co/V7qKuMrDML",139,28,38,2021-02-04
+132,2021-02-05 04:21:47+00:00,1357544928927121409,FlamingoFinance,"Thank you everyone for attending our Discord AMA earlier on! Superb session interacting with everyone and answering your questions.
+
+If you weren’t able to make it, below is a transcript for reference: 
+
+https://t.co/NqplfTUEfh",138,14,22,2021-02-05
+133,2021-02-08 02:51:09+00:00,1358609281071812611,FlamingoFinance,Looks like we can start coding now…😎 https://t.co/5TzIEmb0Sk,182,14,27,2021-02-08
+135,2021-02-09 06:03:28+00:00,1359020070840635394,FlamingoFinance,"🎉🎉🎉 A huge thank you for every $FLM community member, FIP#2 is now officially passed! 
+
+Please stay tuned for more updates regarding the development and migration process.
+
+In the meantime, you may check out what to expect in this redesign: https://t.co/gMPytetlFo https://t.co/uw7TqOtyqN",218,21,40,2021-02-09
+137,2021-02-13 17:10:29+00:00,1360637482140803072,FlamingoFinance,We achieved 2 milestones in Jan 2021 by successfully concluding the #PerpTradingCompetition and launching FIP#2: Redesign of the Flamingo asset flow. https://t.co/KvjilJCJKi,123,22,21,2021-02-13
+138,2021-03-04 06:04:07+00:00,1367355151887962113,FlamingoFinance,"Have you migrated your assets? 
+
+Be sure to check the How-To here for:
+👉Guide on the UI
+👉Clarification on withdrawal fees of y/x/f-assets from Flamincome and Flamingo.
+
+https://t.co/pp0pXrUGGX",88,5,25,2021-03-04
+139,2021-03-05 08:26:48+00:00,1367753449585057792,FlamingoFinance,"🦩Proud to be a member of this fast-growing family!
+Future possibilities are just beyond imagination. https://t.co/37meYJG839",175,14,27,2021-03-05
+140,2021-03-12 10:11:15+00:00,1370316449496006662,FlamingoFinance,"Sorry for the delay, the migration for $USDT and $WBTC related assets is live now. 
+
+$FLM staking rewards will start approximately an hour later. https://t.co/kTsEyeT7mv",119,29,11,2021-03-12
+141,2021-04-06 08:33:34+00:00,1379351564993789953,FlamingoFinance,"Following features are now live:
+
+👉 $GAS/cGAS conversion in Wrapper;
+👉 @WalletConnect integration.
+
+Please stay tuned for more updates soon.",211,17,45,2021-04-06
+142,2021-04-07 07:49:31+00:00,1379702865296379907,FlamingoFinance,"Thanks to the support from the community, we’ve come so far. 
+
+Next, to transform Flamingo into a more community-driven project, we look forward to work closely with an independent team to drive the long-term innovation and development the project. 
+
+https://t.co/t4O8wGTNnn",226,20,49,2021-04-07
+143,2021-04-08 05:51:41+00:00,1380035601320214531,FlamingoFinance,"@Lisanul_Gayb Thank you for your reply. The team has a continuous marketing plan to go with releases and proposals. Also, marketing and operations are key areas the future independent project team is going to focus on, as per planned out in the open letter.",1,0,0,2021-04-08
+145,2021-04-13 09:05:39+00:00,1381896354264322053,FlamingoFinance,"Have a vision building the #DeFi world? 
+
+Talk to us via contact@flamingo.finance to introduce your team around following pointers and let us envision the future Flamingo together! https://t.co/XCnJo7yY8q",218,27,41,2021-04-13
+146,2021-04-15 09:18:06+00:00,1382624260338843654,FlamingoFinance,"FIP#3 status Update:
+1/4
+👉 Thank you for the active participation, we are getting very close to pass FIP#3, while the vote for FIP#3 is still on going as the ending block height has not been reached.",90,4,13,2021-04-15
+150,2021-04-16 14:40:53+00:00,1383067878669225986,FlamingoFinance,"FIP#3 is now officially passed!
+
+The new distribution schedule is also live for all pools in Vault, including the new cGAS/nNEO pool. 
+
+Halving of $FLM release rate will kick in a week later. 
+
+Thank you again for all the support. https://t.co/DyOrmXheap",274,23,53,2021-04-16
+151,2021-04-21 06:25:04+00:00,1384755042603835396,FlamingoFinance,"Here is an invitation from our friends at @O3_Labs!
+
+Join our AMA tomorrow on Flamingo Discord to find out how will the new initiative #O3Swap benefit the Flamingo community and how could you participate in its launch activities.✌️
+
+See you all soon. https://t.co/2cOYqsRY9k",156,7,32,2021-04-21
+152,2021-04-22 08:18:07+00:00,1385145882601947141,FlamingoFinance,"As per FIP#3, the halving of $FLM release rate is now completed.",181,38,28,2021-04-22
+153,2021-05-06 08:11:04+00:00,1390217537493737472,FlamingoFinance,"The 2nd Perp Trading Competition is coming!
+
+🙋‍♂️ Everyone is welcomed to join our Discord group and apply before May 10th, 2021 08:00 UTC.
+
+📅 Competition will run from May 12th, 2021 08:00 UTC — May 26th, 2021 08:00 UTC.
+
+👇 Find out more: https://t.co/0rKtkjGXkC",172,36,32,2021-05-06
+154,2021-05-10 10:16:04+00:00,1391698547674779649,FlamingoFinance,"Thank you all the enthusiasm towards the 2nd Perp Trading Competition.
+
+The application is now closed. The team is sending $PMU2 (the testing token) to all valid addresses.
+
+Get ready for the game!",140,17,17,2021-05-10
+155,2021-05-12 08:21:33+00:00,1392394503642750977,FlamingoFinance,Game on 💪 #PerpTradingCompetition https://t.co/h1hgLoet7D,203,64,41,2021-05-12
+156,2021-05-17 06:43:09+00:00,1394181676792651782,FlamingoFinance,Looking forward to building a more interoperable #DeFi world with #PolyNetwork! https://t.co/pHMqU6sxsn,143,13,34,2021-05-17
+157,2021-05-25 08:06:05+00:00,1397101652469903360,FlamingoFinance,"✌️24 hrs to go till we conclude the 2nd #Perp Trading Competition, what’s your ranking on the leaderboard?
+
+⚠️ All participants, please be sure to close all your positions and withdraw all margins to the registered address.⚠️
+
+The final results will be announced afterwards. https://t.co/deoRA5ExKj",78,1,15,2021-05-25
+158,2021-05-26 09:54:46+00:00,1397491391035449344,FlamingoFinance,"As the 2nd Perp Trade Competition concluded successfully, we’d like to thank for everyone’s support and participation. 
+
+It’s been a fun ride while the system was under significant tests during extreme market conditions.
+
+The team will now verify all valid winners, stay tuned!",105,4,16,2021-05-26
+160,2021-05-27 08:06:57+00:00,1397826646304903168,FlamingoFinance,🎉What an achievement! It's an honor to grow together with the #PolyNetwork. https://t.co/pFN7g5BQ5N,91,1,13,2021-05-27
+162,2021-05-28 03:47:45+00:00,1398123804354777088,FlamingoFinance,"🤝 We’d like to collaborate thoroughly with any independent team candidate to ensure a successful handover. As one of the candidates,@mymingofinance team is showing some really promising progress. Check out their product if you haven’t! https://t.co/nj5epl7TD3",115,32,26,2021-05-28
+163,2021-07-26 13:06:29+00:00,1419645297802694658,FlamingoFinance,"We have been actively testing on the N3 TestNet and look forward to bringing our users onboard the N3 MainNet.
+
+Find out more information about N3 launch via the link: https://t.co/0FrZIrbkqT https://t.co/iizbKR7kdz",246,29,58,2021-07-26
+164,2021-08-26 09:46:55+00:00,1430829099409235974,FlamingoFinance,"📢Please be noted that the cross-chain functions on Flamingo are now fully restored. If you encountered any further questions, please join the Flamingo discord (https://t.co/Z6bhm6q8mv) and seek for further help. https://t.co/FwTBnTIKJG",168,51,27,2021-08-26
+165,2021-10-12 11:00:46+00:00,1447879914934439942,FlamingoFinance,"🔈 In response to the local regulatory requirements for the industry, the https://t.co/77ae0UavjJ website will cease to provide services for users with IP addresses from Mainland China. For more help, please go to the official discord group: https://t.co/32VwdHIX0A https://t.co/ah42krEfPq",85,23,14,2021-10-12
+166,2021-10-22 15:23:15+00:00,1451569849361068033,FlamingoFinance,Don't miss out our AMA! We will answer your questions here! 📢 https://t.co/oGB1eO0KiK,149,7,23,2021-10-22
+167,2021-10-25 09:09:24+00:00,1452562928067088395,FlamingoFinance,"The N3 version of Flamingo will have a ""one-stop shop"" to manage all your assets called Asset Actions. You can open this widget from anywhere in the new Flamingo UI for quick actions 🙂 It will include smart actions like SmartStake and PoolSwap 🦩💯 $FLM on $NEO blockchain. https://t.co/ltq3RKPJde",404,39,74,2021-10-25
+169,2021-10-26 09:26:45+00:00,1452929685529190405,FlamingoFinance,"Who is ready for today's 🦩 AMA? 
+
+Join here: https://t.co/nvIebi4IhA",154,8,18,2021-10-26
+171,2021-10-27 10:44:02+00:00,1453311522952863749,FlamingoFinance,We hope you will join our AMA tomorrow!🎤The AMA will be hosted on our Discord server: https://t.co/Z6bhm68xuX See you there! 🦩 $NEO $FLM https://t.co/w7ZvMfwqOd,178,18,30,2021-10-27
+172,2021-10-29 09:12:40+00:00,1454013305077567490,FlamingoFinance,"🦩 We are currently updating and migrating our DNS, the website can be out of reach for some moments 💚",110,16,11,2021-10-29
+175,2021-11-02 19:48:14+00:00,1455622801944158210,FlamingoFinance,"Did you miss last week's live session? No problem! Dylan from @NEOnewstoday will host a live podcast on our Discord channel tomorrow 🎙️😁 Join the flamboyance! 🦩https://t.co/XngsaSIXbR
+
+If you can't make it, NNT will release the podcast next week. $FLM $NEO https://t.co/ngweOJEz0l",131,6,21,2021-11-02
+177,2021-11-03 14:56:53+00:00,1455911865863839752,FlamingoFinance,Join is in the Community Lagoon on Discord in 5 minutes where @GrabowskiDylan will host a live podcast for @NEOnewstoday 🎙️😁🦩 https://t.co/Z7SJaOiM7F https://t.co/GzVCSgGlXu,104,4,14,2021-11-03
+178,2021-11-06 12:33:40+00:00,1456962988880113666,FlamingoFinance,😎 The Flamingo's has landed in Lisbon for Web Summit 2021 🌍 Join us later today on @Cointelegraph's live stream where @real_Mr_google will join in on the panel 🦩😁 Live stream link: https://t.co/qNpp1GTKDL https://t.co/2q9VF03LLT,223,20,31,2021-11-06
+180,2021-11-08 15:09:28+00:00,1457726973518692355,FlamingoFinance,@bsc_daily @PancakeSwap @aleph_im @graphprotocol @tribeonedefi @koinosnetwork @_hamster_coin @BreederDodo @opulousapp @kittycaketoken We appreciate the ranking and good faith 😁 But remember that we are built and running on the @Neo_Blockchain 😎🦩 A lot of exciting new features are coming as we soon migrate to the new and powerful Neo N3 blockchain! 💪🥳 $NEO $FLM,128,8,27,2021-11-08
+182,2021-11-09 18:58:34+00:00,1458147015112773640,FlamingoFinance,"Did you miss the live podcast on Discord? No worries, you can catch it here 👇👇 https://t.co/KpcsytaPXW",124,10,22,2021-11-09
+184,2021-11-23 20:29:21+00:00,1463243293429534725,FlamingoFinance,@BCClub2 @Neo_Blockchain The move will happen over a month and the minting will over that month shift from N2 to N3. More info about this in the coming days 🦩,12,1,1,2021-11-23
+186,2021-11-24 11:47:07+00:00,1463474258659758081,FlamingoFinance,"@YieldlyFinance 🦩 Cool mascot! We at @FlamingoFinance really like it! - maybe we can do some cross-chain together sometime? 🦩 our DMs are open, and so is our discord! 
+https://t.co/IvhmkbQIQK",52,1,7,2021-11-24
+187,2021-11-26 19:30:57+00:00,1464315761745403910,FlamingoFinance,"What do Flamingo-Flamingo coins look like? 👀
+Cutest girl ever! 
+
+(This is not paid influencer promotion, since we don't do that 🦩) 
+
+https://t.co/TEF4ngNsyL",99,6,22,2021-11-26
+188,2021-11-28 15:40:34+00:00,1464982556059779076,FlamingoFinance,"Almost, just ✌️days left! Then Flamingo will start migrating from Neo Legacy to Neo N3! Check out our migration video🤓
+
+https://t.co/e3ck8jHpGD
+
+#flamingo #flm #neo #n3 #defi #blockchain",217,17,44,2021-11-28
+190,2021-12-01 22:00:12+00:00,1466165260344336390,FlamingoFinance,"Staking is now available on Flamingo N3! 
+Minting will start between 08.00 and 09.00 (UTC) Friday, December 3rd.🎉 🎉
+
+#blockchain #NEO #FLM #DeFi https://t.co/tHbhGnfGmj",250,51,50,2021-12-01
+191,2021-12-03 08:07:32+00:00,1466680486395265026,FlamingoFinance,"The first phase of the minting migration on Flamingo N3 has started! There will be three phases, a total of 30 days, in which all minted FLM will eventually be distributed on N3.
+
+#flamingo #flm #neo #n3 #defi #blockchain https://t.co/ptI4t1U71H",424,43,89,2021-12-03
+192,2021-12-06 19:41:36+00:00,1467942318254825482,FlamingoFinance,"We would love to meet you on our Discord server:
+https://t.co/6vE1Vjh7mN 🦩🦩
+
+#blockchain #DeFi #FLM #Discord https://t.co/dkbM2bNhkT",139,9,29,2021-12-06
+193,2021-12-10 23:26:12+00:00,1469448393097424904,FlamingoFinance,"@0xfreed0m We are done with the implementation, we are just waiting for the next release of NEON as it has some new features that we need to be able to use it 🦩",5,1,0,2021-12-10
+196,2021-12-13 08:27:26+00:00,1470309372903497728,FlamingoFinance,"🎉Now 50% of the mining has moved to Neo N3💚
+Join us on https://t.co/Gm3iMVA2cs 🥳 https://t.co/0lzWUJLXZB",221,26,54,2021-12-13
+199,2021-12-15 18:44:31+00:00,1471189442337681409,FlamingoFinance,"Come join our new community @telegram!🦩
+
+https://t.co/bZPmClA2m3 https://t.co/Hg3i3CcjCr",104,6,19,2021-12-15
+200,2021-12-17 21:13:58+00:00,1471951829881835521,FlamingoFinance,@real_Mr_google @DashboardNeo https://t.co/BbDJh31ALm,13,1,0,2021-12-17
+201,2021-12-22 17:35:46+00:00,1473708855540563975,FlamingoFinance,"We are giving away 2⃣0⃣0⃣ Blind boxes that we got from @Neo_Blockchain! Come join us!
+
+#blockchain #DeFi
+
+https://t.co/0MOqJJKhxD",158,10,44,2021-12-22
+202,2021-12-23 08:11:31+00:00,1473929246812872704,FlamingoFinance,"🎉Now 75% of the mining has moved to Neo N3 💚
+Join us on https://t.co/Gm3iMVA2cs 🥳 https://t.co/TH1sBggLbU",133,12,29,2021-12-23
+204,2021-12-24 09:12:08+00:00,1474306889253113857,FlamingoFinance,"🎅🎁Here is our Christmas present to you! 
+The easiest way to keep track of your holdings, rewards, and everything else 🦩  related.
+
+👉 Download it now on the App Store or Google Play!
+ 
+https://t.co/98sjIAtdRz
+
+https://t.co/NufqjhjBRB
+
+#flamingo #flm #neo #n3 #defi #blockchain https://t.co/qYsMhUyaqz",188,12,51,2021-12-24
+207,2021-12-27 22:56:48+00:00,1475601587611607049,FlamingoFinance,"📸 We’ve taken a snapshot of all $FLM transactions on @ghostmarketio and drawn four lucky winners!
+
+🦩 NgFm...QqTP
+🦩 NgzL...w1DQ
+🦩 NiDZ...PB8L
+🦩 Ndc3...JyYf
+
+👉 Contact us on Discord to claim your prize!
+
+#flamingo #flm #neo #n3 #defi #nft #contest #blockchain https://t.co/QOdzQsxFNe",106,9,22,2021-12-27
+208,2021-12-28 12:52:03+00:00,1475811785777324035,FlamingoFinance,📈Analytics is now live on https://t.co/dqCawslacq! https://t.co/xftuatnrmR,128,7,29,2021-12-28
+209,2021-12-29 20:11:21+00:00,1476284725559975936,FlamingoFinance,@DashboardNeo https://t.co/MKAxgwnEkh,21,3,0,2021-12-29
+210,2021-12-30 15:44:59+00:00,1476580082517000193,FlamingoFinance,"🦩 IDO is now live on https://t.co/dqCawslacq!
+The first project starts in January next year 🥳
+
+#blockchain #DeFi #IDO 
+
+https://t.co/2Vrzq7FjwB",232,18,71,2021-12-30
+211,2021-12-31 11:10:28+00:00,1476873384361406467,FlamingoFinance,@KacperSuperson Yes! But the prices are currently shown in USD. When you checkout you will pay with $FLM 🦩,6,0,0,2021-12-31
+213,2022-01-01 12:55:27+00:00,1477262191212609538,FlamingoFinance,"Status 2021:
+✅All tasks on Roadmap (And more)
+
+https://t.co/e0b8WUq0Ph",122,5,27,2022-01-01
+214,2022-01-02 08:06:04+00:00,1477551755948965888,FlamingoFinance,💯Flamingo is now fully migrated to @Neo_Blockchain  N3! 🎉 https://t.co/hly3bP6sUa,333,35,70,2022-01-02
+215,2022-01-03 08:04:42+00:00,1477913796333219843,FlamingoFinance,"Did you know you can buy $flm merch with $flm?
+And get it all free by entering this contest? 🎉🦩
+
+https://t.co/vYUoEWq6ve
+
+#blockchain #DeFi #contest #flamingo #flm #defi #merch 
+
+https://t.co/mKEhnKqGJH",118,13,30,2022-01-03
+217,2022-01-05 15:12:29+00:00,1478746229525917697,FlamingoFinance,"Our good friends over at @OKEx are now live with N3 Flamingo 🦩🎉
+
+#DeFi #blockchain $flm #flm https://t.co/1F07c6ibSV",198,17,38,2022-01-05
+218,2022-01-08 12:04:19+00:00,1479786040630161418,FlamingoFinance,"🎤 Live AMA with @ghostmarketio founder, Vincent Geneste, about the upcoming IDO!
+
+🗓️ Monday, Jan. 10, 2022, 7:00 PM UTC.
+
+📌 Flamingo Finance Discord - Community-Lagoon (https://t.co/6vE1Vjh7mN).
+
+🏆 Giving away: 10 x 300 $GM!
+
+#flamingo #flm #defi #ghostmarket #ido #neo #NFTs https://t.co/zJuKMlMWFi",114,4,32,2022-01-08
+219,2022-01-10 10:01:52+00:00,1480479999425662978,FlamingoFinance,🥳@ghostmarketio is open on https://t.co/dqCawslacq 🦩 https://t.co/tOc4jlPtTC,219,24,53,2022-01-10
+220,2022-01-14 20:21:06+00:00,1482085387841556487,FlamingoFinance,"Would you look at those stats?😮🦩 The interest in our IDO and the GhostMarket token has been amazing!🥳If you missed it, you can buy $GM in the public sale or in our new FLM-GM pool opening soon: https://t.co/Gm3iMVA2cs
+
+#flamingo #flm #defi #ghostmarket #ido #neo #nft https://t.co/dXZHAHGxRC",182,9,48,2022-01-14
+221,2022-01-16 16:44:59+00:00,1482755773964988428,FlamingoFinance,"The public sale for @ghostmarketio IDO is right around the corner!💯Almost all tokens sold out during the presale, so not much left.😮🥳Take a look at the video to see how to claim your token and how to buy what is left.
+
+#flamingo #flm #defi #ghostmarket #ido #neo #nft https://t.co/EUAnqliz8J",104,2,18,2022-01-16
+225,2022-01-17 08:03:27+00:00,1482986915397877760,FlamingoFinance,"📢 200 Neoverse Blind Boxes have been divided over the contest’s Top 50!
+
+🏆 Congratulations to all winners, you've all will receive 4 Blind Boxes!
+
+#flamingo #flm #neo #n3 #neoverse #defi #nft #contest #blockchain https://t.co/EXvw7fU9Ix",124,13,41,2022-01-17
+227,2022-01-18 09:00:15+00:00,1483363595769597960,FlamingoFinance,"Share Article Link - Tweet Text:
+After a successful IDO, we are now ready to launch a brand new pool on Flamingo: FLP-FLM-GM. The pool goes live Tuesday, Jan. 18, 2022 at 09:00 UTC. Rewards will start Wednesday, Jan. 19, 2022 at 09:00 UTC.
+
+👉 https://t.co/OAXNcXfesf",126,17,46,2022-01-18
+228,2022-02-01 10:27:38+00:00,1488459016057638914,FlamingoFinance,"📢 A new version of the Neo Ledger app is now live on Ledger Live.
+
+🦩 To use Flamingo with Ledger you need to update your NEO app on your Ledger. Once it is updated you can use NEON wallet + Ledger on Flamingo.
+
+📃 How to Update: https://t.co/FDnaUhi0D2
+
+#flamingo #ledger https://t.co/uWq5z7nYDe",110,13,23,2022-02-01
+229,2022-02-03 08:55:51+00:00,1489160695962906630,FlamingoFinance,"🎤 Join our Live Auction at the Lagoon! We’ll chat about the latest Flamingo updates and the Save the Flamingos charity NFT series.
+
+🗓️ Today, Feb. 3, 2022, 14:00 UTC.
+
+📌 Flamingo Finance Discord - Community-Lagoon (https://t.co/6vE1Vjh7mN).
+
+#Flamingo $FLM $NEO #N3 #DeFi https://t.co/T0g7L7IXK1",76,14,17,2022-02-03
+230,2022-02-12 09:49:12+00:00,1492435611076153348,FlamingoFinance,@MegaOasis_nft It seems like every day more exciting stuff is coming to @Neo_Blockchain 😃 Looking forward to the launch! 🥳,25,1,2,2022-02-12
+232,2022-02-16 10:40:44+00:00,1493898131813158912,FlamingoFinance,"🎉 Milestone! Since Flamingo Finance migrated to @Neo_Blockchain N3, there have already been more than 1⃣0⃣0⃣0⃣0⃣0⃣ swaps!
+
+🦩 Discover how easy DeFi can be at https://t.co/4webqA1Bd0
+
+#Flamingo #FLM $FLM #NEO $NEO #N3 #DeFi #Blockchain https://t.co/e0G48iftiG",150,12,37,2022-02-16
+233,2022-02-17 10:41:31+00:00,1494260715665903617,FlamingoFinance,👀 Nice! https://t.co/tYMJRJlwBc,84,1,14,2022-02-17
+234,2022-02-18 15:15:21+00:00,1494692014725767169,FlamingoFinance,"👀Coming soon to your favorite DEX!
+
+Happy weekend 🦩🥞
+
+#blockchain #flm #cryptocurrency #pancakes https://t.co/VdGNbAY4Hx",162,14,35,2022-02-18
+235,2022-02-21 20:10:38+00:00,1495853492740763652,FlamingoFinance,@rendongliu https://t.co/Fke2cWKXDl,6,1,2,2022-02-21
+236,2022-03-04 08:41:44+00:00,1499666388830543875,FlamingoFinance,"📊 Flamingo Trade Metrics - February 2022. 
+
+👀 A brief insight into the trade transactions that have taken place on Flamingo in February.
+
+#Flamingo #FLM $FLM #NEO $NEO #N3 #DeFi #Blockchain https://t.co/AwqYUOHh6L",106,13,21,2022-03-04
+237,2022-03-11 09:03:33+00:00,1502208596339265537,FlamingoFinance,"📢 Minting rewards for our newly released FLM-SWTH pool are now live and distribution has started!
+
+#Flamingo #FLM $FLM #NEO $NEO #N3 #SWTH $SWTH #DeFi #Blockchain https://t.co/DV2sLLCxJE",101,14,21,2022-03-11
+238,2022-03-18 14:31:52+00:00,1504827935433310217,FlamingoFinance,"📊 Flamingo Pool Metrics - FLP-FLM-fCAKE
+
+👀 Check out the metrics for the FLP-FLM-fCAKE pool, which released just three weeks ago.
+
+#Flamingo #FLM $FLM #NEO $NEO $CAKE #N3 #DeFi #Blockchain https://t.co/cqKRPiTGSF",90,10,18,2022-03-18
+240,2022-03-23 15:08:46+00:00,1506649158819713033,FlamingoFinance,👀 https://t.co/hqGjcJBUif,43,2,6,2022-03-23
+241,2022-03-30 19:46:49+00:00,1509255846315843588,FlamingoFinance,🦩 Reversepools have shown us how revolutionary they are in such a short time! 🔥🔥🔥 https://t.co/eDdfQMrn2X,94,5,26,2022-03-30
+242,2022-04-04 16:30:13+00:00,1511018311135510532,FlamingoFinance,"📊 Flamingo Trade Metrics - March 2022
+
+👀 A quick look into the trade transactions that took place on Flamingo during March.
+
+#Flamingo #FLM $FLM #NEO $NEO #N3 #DeFi #Blockchain #Crypto #Trading https://t.co/QlMTKelBkA",109,22,24,2022-04-04
+243,2022-04-11 16:45:00+00:00,1513558745753677825,FlamingoFinance,"🦩 Flamingo Hodler Program Benefits
+
+💡 Did you know can tip NEP-17 tokens to other members in the Flamingo Hodler Program? This even works across multiple participating Discord servers within the Neo community!
+
+#Flamingo #FLM $FLM #NEO $NEO #N3 #DeFi #Blockchain #Crypto https://t.co/9rEpDPBA0x",83,6,22,2022-04-11
+244,2022-04-13 18:25:00+00:00,1514308687367528449,FlamingoFinance,"📢 Something exciting is flying our way!
+
+We are launching the brand-new FLP-FLM-WING liquidity pool on Flamingo this Friday, April 15, 2022!
+
+Stay tuned for more details.
+
+@Wing_Finance #FlamingoWing #Flamingo $FLM #Wing $WING #NEO #N3 #Ontology #DeFi #Crypto #Blockchain https://t.co/Ea17IEm3Kz",142,13,46,2022-04-13
+245,2022-04-16 17:24:31+00:00,1515380630565097473,FlamingoFinance,"We will have an AMA with the Turkish community at 18:00 UTC today. Come join us at @eness_turann's Discord server: https://t.co/DEUidJ4sgx
+
+#FLM #Defi #Crypto #AMA https://t.co/PhGukW5ZlQ",91,11,16,2022-04-16
+246,2022-04-18 07:27:59+00:00,1515955283956322306,FlamingoFinance,"👇 @binance now supports Neo N3 FLM 🥳🦩
+
+#binanace #flm #DeF https://t.co/9IVBQc0YXB",194,14,46,2022-04-18
+247,2022-05-04 09:47:57+00:00,1521788714250379264,FlamingoFinance,"🎤 Join the Live AMA with Atherton Hoge from @Wing_Finance and Flamingo’s very own @Jobsters1!
+
+🗓️ Saturday, May 7, 2022, 9:00 AM UTC.
+
+📌 Twitter Spaces: https://t.co/24fTMo83X6
+
+🏆 Giving away: $100 FLM + WING!
+
+#Flamingo #FLM #Wing $FLM $WING #DeFi #AMA #Crypto https://t.co/VWfM6u5Hct",73,9,20,2022-05-04
+248,2022-05-06 09:00:03+00:00,1522501433555243010,FlamingoFinance,"📢 Don't forget to join us tomorrow for the AMA with Atherton Hoge from @Wing_Finance and Flamingo’s very own @Jobsters1!
+
+🗓️ Saturday, May 7, 2022, 9:00 AM UTC.
+
+📌 Twitter Spaces: https://t.co/24fTMnQsyw
+
+🏆 Giving away: $100 FLM + WING!
+
+#Flamingo #FLM #Wing $FLM $WING #AMA",47,2,12,2022-05-06
+249,2022-05-11 16:30:00+00:00,1524426608660131841,FlamingoFinance,"📊 Flamingo Trade Metrics - April 2022
+
+👀 A quick look into the trade transactions that took place on Flamingo during April.
+
+#Flamingo #FLM $FLM #NEO $NEO #N3 #DeFi #Blockchain #Crypto #Trading https://t.co/gI5oVWjPsM",83,6,17,2022-05-11
+250,2022-06-03 08:00:00+00:00,1532633185292541952,FlamingoFinance,"📊 Flamingo Trade Metrics - May 2022
+
+👀 A quick look into the trade transactions that took place on Flamingo during May.
+
+#Flamingo #FLM $FLM #NEO $NEO #N3 #DeFi #Blockchain #Crypto #Trading #CryptoTrading https://t.co/RaM5P0hrZP",76,17,17,2022-06-03
+251,2022-06-12 11:11:37+00:00,1535942895001341953,FlamingoFinance,@DeFibooker @TimJoHo https://t.co/NESEreREe0,1,0,0,2022-06-12
+252,2022-06-13 12:04:00+00:00,1536318465576927239,FlamingoFinance,"Or on Flamingo:
+https://t.co/ctVVL61AtX",36,3,2,2022-06-13
+253,2022-06-21 13:18:12+00:00,1539236243048890368,FlamingoFinance,"📢 Flamingo Finance has absorbed Lyrebird Finance and the teams are set to launch FLD, a new stablecoin on Flamingo. All details can be found in the article below.
+
+👉 Read more: https://t.co/oy7AJr8OpS
+
+#Flamingo #Lyrebird #FLM $FLM #FLD $FLD #Stablecoin #DeFi",96,9,26,2022-06-21
+254,2022-06-22 14:38:16+00:00,1539618781529530368,FlamingoFinance,"📢 We’re thrilled to announce a month-long $SOM Trading Competition, exclusively for members of Flamingo’s FLM Hodler Program!
+
+🗓️ Starts: June 24, 2022, 10:00 UTC.
+
+🏆 Competition Details: https://t.co/gQgTUwDsaQ
+
+#Flamingo $FLM #DeFi $SOM #Crypto #Trading #TradingCompetition",51,5,15,2022-06-22
+255,2022-06-23 15:30:33+00:00,1539994324557041664,FlamingoFinance,"📢 You can now easily gain insight on both your past claim and trade transactions with our newly released Claim History and Trade History features.
+
+👉 Check it out at https://t.co/77ae0UavjJ!
+
+#Flamingo #NewFeatures #ClaimHistory #TradeHistory #CryptoTrading #DeFi #Blockchain https://t.co/jzBa7EEikZ",71,6,22,2022-06-23
+256,2022-06-24 10:00:00+00:00,1540273529513340928,FlamingoFinance,"📢 The $SOM Trading Competition has just begun! Make sure you’re a member of Flamingo’s FLM Hodler Program in order to participate.
+
+🏆 Competition Details: https://t.co/gQgTUwlQMg
+
+#Flamingo $FLM #DeFi $SOM #Crypto #Trading #TradingCompetition https://t.co/Hp2OnFcjSI",55,11,17,2022-06-24
+257,2022-06-28 12:01:24+00:00,1541753630201634816,FlamingoFinance,"🎉 Hey Flamingos, it is finally here! 
+
+📱 You are now able to use Flamingo Finance on your mobile devices using the OneGate App!
+
+👉 Read more: https://t.co/Mu9Sw88lrJ
+
+@OneGateSpace #Flamingo #FLM $FLM #DeFi #Staking #Trading #Yield #DApps #Mobile #Crypto #Blockchain",98,25,34,2022-06-28
+258,2022-07-01 10:00:03+00:00,1542810254056062976,FlamingoFinance,"📢 The $SOM Trading Competition is in full swing!
+Luckily there are 3 weeks left, so make sure to participate as there is a total prize pool of 30,000,000 $SOM!
+
+🏆 Competition Details: https://t.co/gQgTUwDsaQ
+
+#Flamingo $FLM #DeFi $SOM #Crypto #Trading #TradingCompetition https://t.co/HIV8a5QQl2",34,6,5,2022-07-01
+259,2022-07-04 10:00:02+00:00,1543897416050655232,FlamingoFinance,"📊 Flamingo Trade Metrics - June 2022
+
+👀 We’ve experience some great trading volume during June. Lets have a look at the trade transaction statistics!
+
+#Flamingo #FLM $FLM #NEO $NEO #N3 #DeFi #Blockchain #Crypto #Trading https://t.co/odzqdBRwGg",75,6,22,2022-07-04
+260,2022-07-08 10:00:02+00:00,1545346965042450432,FlamingoFinance,"📢 Flamingos! We’re currently half way through the $SOM Trading Competition. With 2 weeks remaining, make sure to trade $SOM for a chance to win a share of 30,000,000 $SOM.
+
+🏆 Competition Details: https://t.co/gQgTUwlQMg
+
+#Flamingo $FLM $SOM #Crypto #Trading #TradingCompetition https://t.co/dYS05LBbBq",42,5,12,2022-07-08
+261,2022-07-15 10:00:00+00:00,1547883671755010050,FlamingoFinance,"📢 The end of the $SOM Trading Competition is slowly approaching! There's only 7 days left, so make sure to participate as there is a total prize pool of 30,000,000 $SOM!
+
+🏆 Competition Details: https://t.co/gQgTUwlQMg
+
+#Flamingo $FLM $SOM #Crypto #Trading #TradingCompetition https://t.co/o5YKuk3ROQ",55,6,15,2022-07-15
+262,2022-07-21 10:00:03+00:00,1550058011380563969,FlamingoFinance,"📢 Flamingos! There is only 1 day left to participate in the $SOM Trading Competition.
+
+🏆 Competition Details: https://t.co/gQgTUwDsaQ
+
+#Flamingo $FLM #DeFi $SOM #Crypto #Trading #TradingCompetition https://t.co/LAOjUBpwT7",49,0,11,2022-07-21
+263,2022-07-22 10:00:01+00:00,1550420389926502401,FlamingoFinance,"📢 The $SOM Trading Competition has come to an end, thank you to all who participated!
+
+🏆 The winners will be announced on our Discord and prizes will be sent out shortly.
+
+#Flamingo $FLM #DeFi $SOM #Crypto #Trading #TradingCompetition https://t.co/UGUSYaCIG0",64,10,10,2022-07-22
+265,2022-08-01 08:19:36+00:00,1554019000853663744,FlamingoFinance,"In case you missed it: You can now buy crypto using your credit card on Flamingo! Our on-ramp partner https://t.co/IFiK8V4JDV just added $FLM support! Will you be buying more $FLM?
+
+#flamingo #flm #defi #neo #nft #crypto #blockchain https://t.co/fmuSDxW4X8",71,10,15,2022-08-01
+268,2022-08-07 11:25:58+00:00,1556240228305756160,FlamingoFinance,"🦩 Hey Flamingos! Monday, August 8th at 08.00 UTC the exit fee for the Flamingo FLUND will increase to 2% due to the FLUND's massive success and to protect long-term FLM holders.
+
+👉 Read more: https://t.co/pf4Jf6EO17
+
+#Flamingo #Flund $FLM #SingleStake #Staking #DeFi #Crypto https://t.co/Ize5VtlHn0",90,11,15,2022-08-07
+269,2022-08-08 06:57:39+00:00,1556535093069549570,FlamingoFinance,"🦩 Are you ready to join us for some cross-chain craziness with the Poly Network Voyage 2nd Anniversary event?
+
+🗓️ August 8, 2022 at 03:00 UTC - September 8, 2022 at 03:00 UTC.
+
+🏆 Giving away: $1,000 in $FLM!
+
+👉 Read more: https://t.co/LittaciT8y
+
+#Flamingo #PolyNetwork #DeFi",72,6,21,2022-08-08
+270,2022-08-09 07:21:29+00:00,1556903475576856576,FlamingoFinance,"We wish @PolyNetwork2 a happy 2nd anniversary 🍾
+
+Remember to join our collaborated #PolyNetworkVoyage event! 🎁 There will be prizes to will from both PolyNetwork and #Flamingo. Check our Medium or their Tweet-storm for more info.
+
+https://t.co/Littac1hJY
+
+$FLM #NFTs #Web3 https://t.co/CKXU0oUlNv",43,8,8,2022-08-09
+271,2022-08-18 03:00:01+00:00,1560099169712230401,FlamingoFinance,"🏆 There's just three weeks left in the Poly Network Voyage 2nd Anniversary event! With $1,000 FLM in prizes, make sure to participate by initiating cross-chain transactions on Flamingo.
+
+👉 Event details: https://t.co/Littac1hJY
+
+#Flamingo #PolyNetwork #CrossChain #DeFi #Crypto https://t.co/TbJPyRAoc7",63,18,13,2022-08-18
+272,2022-08-25 03:00:02+00:00,1562635887992774656,FlamingoFinance,"🏆 There's just two weeks left in the Poly Network Voyage 2nd Anniversary event! With $1,000 FLM in prizes, make sure to participate by initiating cross-chain transactions on Flamingo.
+
+👉 Event details: https://t.co/LittaciT8y
+
+#Flamingo #PolyNetwork #CrossChain #DeFi #Crypto https://t.co/tzsi0NZvZ7",55,21,11,2022-08-25
+273,2022-09-01 03:00:00+00:00,1565172594659282946,FlamingoFinance,"🏆 There's just one week left in the Poly Network Voyage 2nd Anniversary event! With $1,000 FLM in prizes, make sure to participate by initiating cross-chain transactions on Flamingo.
+
+👉 Event details: https://t.co/LittaciT8y
+
+#Flamingo #PolyNetwork #CrossChain #DeFi #Crypto https://t.co/71XxOd1eB1",54,10,13,2022-09-01
+279,2022-09-02 06:30:00+00:00,1565587828586659840,FlamingoFinance,"📊 Flamingo Trade Metrics - August 2022
+
+👀 A quick look into the trade transactions that took place on Flamingo during August.
+
+#Flamingo #FLM $FLM #NEO $NEO #N3 #DeFi #Blockchain #Crypto #Trading https://t.co/fHdg2VvJbY",86,10,15,2022-09-02
+281,2022-09-09 07:35:08+00:00,1568140937930358785,FlamingoFinance,"📢Cross chain for Ethereum assets on Flamingo will be suspended for a short while during the #ETHMerge. This is because we use @PolyNetwork2 for cross chain and they will do som maintenance in the merge period. 
+
+Please follow @PolyNetwork2 for more detailed info: https://t.co/EFHEeq6Y9U",38,6,5,2022-09-09
+282,2022-09-13 12:39:38+00:00,1569667116642537473,FlamingoFinance,"📢 After a full month of cross-chain craziness, the Poly Network Voyage 2nd Anniversary Event has come to an end.
+
+🏆 All prize winners have been announced on our Discord!
+
+🦩 Flamingo Finance Discord: https://t.co/i6nE2PUkY5
+
+#Flamingo #PolyNetwork #CrossChain #DeFi #Crypto https://t.co/eDojaO3jdU",54,17,7,2022-09-13

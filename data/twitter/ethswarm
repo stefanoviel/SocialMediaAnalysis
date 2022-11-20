@@ -1,0 +1,969 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-13 12:00:03+00:00,1216691373769924608,ethswarm,"If #Ethereum is the world’s computer, then #EthSwarm is the world’s hard disk. Read @jmohamedzahoor's blog post about Swarm architecture: 
+https://t.co/SQfxyFVl5i https://t.co/286o9yByTv",43,0,15,2020-01-13
+1,2020-01-30 12:53:08+00:00,1222865327916244993,ethswarm,Swarm 0.5.5 has been released. See the list of changes at: https://t.co/7AhBmkMUJR #ethswarm #ethereum #NewRelease,21,0,14,2020-01-30
+2,2020-02-05 16:16:21+00:00,1225090795121926145,ethswarm,#Ethswarm #feeds allow having a static reference to a changing content and to do transactions without using the #blockchain. Watch @epiclabs_io's Alejandro talking about his POC project built with feeds. #ethereum https://t.co/0Yr8cLcKqD,11,1,7,2020-02-05
+3,2020-02-06 16:08:06+00:00,1225451105905250304,ethswarm,@jcksie a swarm of snowflakes &lt;3,1,0,0,2020-02-06
+4,2020-02-11 15:15:17+00:00,1227249753597059073,ethswarm,"Swarm 0.5.6 released! This release is geared towards addressing the security issue found in the ENS registry. Read more:
+https://t.co/UMUNH6n1FU",10,0,7,2020-02-11
+5,2020-02-12 17:28:42+00:00,1227645720448163845,ethswarm,What is file #persistence and why it is important in a #decentralized system? Watch @nagydanya's talk about Persistency on #ethswarm https://t.co/e2P0Co0BIQ #Ethereum,6,0,3,2020-02-12
+6,2020-02-13 15:38:31+00:00,1227980376116748288,ethswarm,"Let's meet at #EthCC! #ethswarm will be giving two talks with milestone announcements. Read all the details: 
+https://t.co/RaSGtHpCws #Ethereum",10,0,5,2020-02-13
+7,2020-02-14 15:31:16+00:00,1228340939590176768,ethswarm,"#persistency is key when it comes to the #ethswarm #mvp. Here is the latest on the topic: 
+https://t.co/F7cg4hU7dW
+If you are interested in more details, make sure to catch @jssr's talk at #EthCC! #Ethereum",6,0,4,2020-02-14
+8,2020-02-16 13:07:55+00:00,1229029642931142656,ethswarm,"It's been almost a year, @EthCC_  starts in 15 days! #ethswarm has come a long way since, we are preparing with 2 talks by @nagydanya and @jssr on #ethswarm #MVP, file #persistence, file pinning, single-sign-on, and more. #ethcc #Ethereum 
+https://t.co/KeqU7Iemct",4,0,3,2020-02-16
+9,2020-02-17 13:36:30+00:00,1229399224632123392,ethswarm,"Updates, tutorials, talks and more on the #ethswarm YouTube channel. See for yourself and don't forget to subscribe &lt;3 
+https://t.co/NuU4AZb0gA #Ethereum",6,0,4,2020-02-17
+10,2020-02-19 14:01:39+00:00,1230130328989323265,ethswarm,"#ethswarm is now one step closer to host fully #decentralized #DApps! Local file pinning enables devs to run a Swarm node that is reachable by users via a gateway. Read @jmohamedzahoor's blog about the details, tutorial coming later this week! #Ethereum   
+https://t.co/MWfgcRdLYq",19,0,11,2020-02-19
+11,2020-02-21 16:10:09+00:00,1230887443370565632,ethswarm,Watch @jmohamedzahoor's tutorial on file pinning in #ethswarm! More exciting features are on the way... @EthCC_  #Ethereum   https://t.co/T7SY87BGhq,4,0,2,2020-02-21
+13,2020-02-22 11:08:02+00:00,1231173797660778496,ethswarm,@MekyleLogen Hello! Please pm your email address and we’ll invite you to our dev channels on Mattermost ❤️,1,0,0,2020-02-22
+15,2020-02-26 13:37:54+00:00,1232661067693797377,ethswarm,#ethswarm #MVP is here! #DApp developers now can focus on developing their application with the confidence that their DApp will become truly unstoppable with the launch of Swarm 1.0. Details: https://t.co/5m0e414XZv #Ethereum,56,1,33,2020-02-26
+16,2020-02-27 10:09:03+00:00,1232970896027066369,ethswarm,"@ParallelePolis @EthTurin You are safe with us, so as your data &lt;3",1,0,0,2020-02-27
+19,2020-03-03 19:21:25+00:00,1234921839954145283,ethswarm,Vive la @EthCC_ ! Time to meet old friends and make some new ones. Don't miss #ethswarm's talks: @nagydanya on Wednesday about #Decentralized User Account Management and @jssr on Thursday with super exciting announcements. See you soon! https://t.co/WMzUCaMlCE,6,0,3,2020-03-03
+20,2020-03-04 13:25:33+00:00,1235194672605212674,ethswarm,"#ethswarm's February development update is here! Sweeter than honey better than money, read all: 
+https://t.co/V4ndqbQS2I #Ethereum #BookOfSwarm",49,4,26,2020-03-04
+23,2020-03-05 13:53:17+00:00,1235564041919217664,ethswarm,watch @jssr's talk now: https://t.co/vXyjwF1UBU #EthCC2020 #ethcc3 #ethswarm,4,1,0,2020-03-05
+25,2020-03-06 14:43:51+00:00,1235939151943475205,ethswarm,"Save the date, on 23rd March #ethswarm is coming to #Barcelona! Program and details coming soon. Thank you for our friends at @caelumlabs for having us &lt;3 #Ethereum #meetup https://t.co/ek8Ty5W6dW",25,1,12,2020-03-06
+26,2020-03-09 15:54:17+00:00,1237044041323347973,ethswarm,"Thank you for @EthCC_  for having us, it was an honour as always. Special shout out and kudos to @jdetychey :) See you guys next year &lt;3 #EthCC2020 #ethswarm https://t.co/xbY8uRQtTm",6,0,2,2020-03-09
+27,2020-03-11 11:45:45+00:00,1237706271073107969,ethswarm,"Get ready for #unstoppable #DApps! Watch #ethswarm's latest update, let's make the world computer reality together. #WeAreSwarm #BookOfSwarm #ethereum 
+https://t.co/fPOpcW9IEU",11,0,3,2020-03-11
+28,2020-03-17 13:20:59+00:00,1239904566193373186,ethswarm,We have to postpone our 23rd March #Barcelona #meetup because of #voldemort. This week's #ethswarm #hackweek that was planned to take place in Mallorca is happening online. Update and videos of talks are coming soon. &lt;3,7,0,4,2020-03-17
+29,2020-03-18 13:50:45+00:00,1240274446839095299,ethswarm,@ParallelePolis Get ready for @zeligf's virtual update about #ethswarm and some super exciting announcements! #ethereum,0,0,2,2020-03-18
+30,2020-03-23 12:43:43+00:00,1242069513006387201,ethswarm,"Enter the Secret World of Acronyms, Riddles and Mnemonics &amp; take a deep dive into the tech stack that enables to #buidl the #Unstoppable future. #BookOfSwarm #Ethereum #ethswarm
+https://t.co/ORmJztq5Di",13,0,5,2020-03-23
+31,2020-03-27 11:30:22+00:00,1243500605164969984,ethswarm,"Enter S.W.A.R.M., the Secret World of Acronyms, Riddles and Mnemonics. 1, 2, ready, Go! R.A.C.E. at https://t.co/T3FzfrYr1J @hendriksenrinke in the pole position!",9,0,6,2020-03-27
+32,2020-03-30 13:27:16+00:00,1244617189086330880,ethswarm,@rif_os @IPFSbot Read more about #ethswarm incentives at https://t.co/T3FzfrYr1J &lt;3 #ethereum #BUIDL,0,0,0,2020-03-30
+33,2020-04-01 15:45:24+00:00,1245376729205661696,ethswarm,Breaking news: AWS announcing partnership with Swarm https://t.co/vvkQDDRm6w,40,3,10,2020-04-01
+35,2020-04-03 10:53:25+00:00,1246028022651727872,ethswarm,"We are maintaining a strong pace to move #ethswarm from the MVP phase through to the Alpha release. Read our latest dev update to find out more #Ethereum 
+https://t.co/bHSFqGucsJ",29,1,11,2020-04-03
+36,2020-04-06 14:55:15+00:00,1247176046950125568,ethswarm,"A sovereign digital society needs #decentralised #storage. We are working hard to move #ethswarm from MVP to Alpha. Show some love and donate at #Gitcoin or share our campaign &lt;3 #Ethereum 
+
+https://t.co/sMYyItoxGb",15,0,14,2020-04-06
+37,2020-04-09 23:59:01+00:00,1248400051166052352,ethswarm,#Web3 can only be done together. This is why we just supported @ethnimbus with their #Gitcoin campaign on working on Ethereum 2.0 client. Show some love -&gt; https://t.co/enzEFLCcY8 #PLUR,3,0,1,2020-04-09
+60,2020-04-10 02:13:01+00:00,1248433773797978113,ethswarm,#Web3 can only be done together. This is why we supported @evan_van_ness with his #Gitcoin campaign on publishing one of the best Ethereum news sources. Show some love -&gt; https://t.co/gtXLAgEmAT #PLUR,2,0,0,2020-04-10
+66,2020-04-22 14:20:16+00:00,1252965446464258051,ethswarm,"Acronyms have utmost importance at #ethswarm land. Learn about the rules and solve the riddles of #decentralized storage with the blueprint of the #web3. Teaser content from #BookOfSwarm is out on our blog! #Ethereum
+
+https://t.co/ZgiClBAM2a",14,1,16,2020-04-22
+67,2020-05-06 12:57:12+00:00,1258017975862517761,ethswarm,"#ethswarm's latest development update is out, read it on our blog: https://t.co/Tdpw1tjfPM #ethereum",24,0,13,2020-05-06
+68,2020-05-12 15:12:37+00:00,1260226381360893957,ethswarm,"If #Ethereum is the #worldcomputer's CPU then #ethswarm is the hard disc. Read about Swarm’s decentralized storage model and its inception in our latest blog. #BookOfSwarm
+
+https://t.co/PAi96US0kM",29,0,12,2020-05-12
+69,2020-05-15 13:46:08+00:00,1261291778973601792,ethswarm,&lt;3 #nobullshit #StartBuidlingNow https://t.co/7gFRJyizyF,6,0,1,2020-05-15
+70,2020-05-27 09:50:18+00:00,1265581082499481600,ethswarm,"#ethswarm is the only self-sustaining #decentralised #storage with #incentives that enable #persistent and #trustless storage. The result is more than storage, it's the future backend of humanity’s information. Read more in our blog series #BookOfSwarm https://t.co/UX6KwVjD7w",19,0,10,2020-05-27
+71,2020-06-05 10:39:00+00:00,1268854829964824577,ethswarm,"Read our May Development Update here: 
+https://t.co/0CwCWWMR0l #ethswarm #Ethereum &lt;3",9,0,7,2020-06-05
+72,2020-06-11 16:53:44+00:00,1271123463047127048,ethswarm,"It's time to talk...
+https://t.co/1kqFTwbXbf",88,8,44,2020-06-11
+73,2020-06-15 12:54:30+00:00,1272512807217639425,ethswarm,"Join the Swarm Alpha Online Event on June 29th, 20:00 CEST -- Collect a special Swarm NFT, get info about BZZ token, Alpha release, grants for #dApp devs and more... RSVP:
+https://t.co/g9SV5gzQFm #ethswarm #Ethereum",26,0,17,2020-06-15
+74,2020-06-18 17:21:35+00:00,1273667186012364800,ethswarm,"#AMA: Give us your best shot! Post your questions on Reddit, and we'll answer all at the Swarm Alpha Launch online event on 29th June. Talk soon &lt;3 #ethswarm #ethereum https://t.co/kbo3zGTwvj",8,0,7,2020-06-18
+75,2020-06-23 10:11:03+00:00,1275370779195117574,ethswarm,The Swarm is unstoppable -- RSVP to our next event and release the Bees! https://t.co/g9SV5gzQFm #ethswarm #Ethereum https://t.co/ddT3vV6clb,18,0,9,2020-06-23
+76,2020-06-24 14:54:26+00:00,1275804481662443526,ethswarm,A shout out to all the lovely #decentralized projects and #DApp developers: #ethswarm is announcing #ecosystem #grants at our next online event. Please join us and spread the love https://t.co/g9SV5gzQFm &lt;3 #Ethereum,40,2,15,2020-06-24
+79,2020-06-25 14:01:59+00:00,1276153669025779712,ethswarm,"The Book of Swarm is a deep dive into the #ethswarm protocol. We invite everyone to comment, try the implementations and prove or disprove any of the materials presented. Read more: 
+
+https://t.co/AMeciJkleF #Ethereum",28,0,8,2020-06-25
+81,2020-06-27 14:11:05+00:00,1276880736461750273,ethswarm,"If you could ask the #ethswarm team one question Monday evening at the Swarm Alpha Launch event, what would it be? #ReleaseTheBees #Ethereum",13,4,7,2020-06-27
+84,2020-06-28 14:20:05+00:00,1277245389930999808,ethswarm,At the #ethswarm Alpha Launch event we will have a panel with dApp developers. What do you think are the most important dApps in the decentralized space at the moment? #ReleaseTheBees #Ethereum RSVP: https://t.co/8KDGOK61P5 https://t.co/6BrMKJBcv3,6,0,3,2020-06-28
+87,2020-06-29 10:00:19+00:00,1277542404976005120,ethswarm,The #ethswarm Alpha Launch event will feature an AMA with the team. Ask your questions on the Reddit thread! #ReleaseTheBees #Ethereum https://t.co/kbo3zGTwvj,8,0,3,2020-06-29
+94,2020-06-30 14:24:36+00:00,1277971299810201605,ethswarm,Thank you for coming to the #ethswarm Alpha Launch event yesterday. It was amazing to see this great community. Videos of talks and recap are coming soon. Let's continue the conversation in the Swarm Orange Lounge! Join here: https://t.co/SurVwXAL8U #Ethereum,12,0,2,2020-06-30
+95,2020-07-07 15:47:10+00:00,1280528794000986112,ethswarm,"#ethswarm's June's Development Update is out, so as the Bee :) 
+
+Enjoy!                
+      __
+     (   y--.
+      \ _\/_,'
+--(""))))))=
+     &lt; &gt; &gt;
+
+#Ethereum
+https://t.co/5QaKEViL4v",11,2,6,2020-07-07
+96,2020-07-08 15:30:09+00:00,1280886902040735744,ethswarm,"A super cool demo by the amazing @etclabs team on how to install and run an #ethswarm Bee node. Enjoy :) #Ethereum 
+https://t.co/yPTQgJebk0",28,0,15,2020-07-08
+97,2020-07-10 14:26:14+00:00,1281595591844397057,ethswarm,"@gnidan @AFDudley0 @trufflesuite Super excited to read this, @HendriksenRinke will reach out to discuss potential collaboration &lt;3
+
+                .' '.             __
+       .        .   .           (__\_
+        .         .         . -{{_(|8)
+           ' .  . ' ' .  . '     (__/",2,0,0,2020-07-10
+98,2020-07-15 09:43:16+00:00,1283336318022496256,ethswarm,"#Unstoppable apps need unstoppable organizations -- here are all the announcements from the #ethswarm Alpha event. #grants #WeAreAllSwarm #Ethereum 
+
+https://t.co/OJpRt3agTw",17,1,10,2020-07-15
+100,2020-07-16 10:34:26+00:00,1283711582397247488,ethswarm,The first biweekly Swarm Open Hours is coming up today at 1700 CET. Join us via https://t.co/EAdVy1hDC0 where @HendriksenRinke will be answering all of your questions about #ethswarm and the Bee client. Hope to see you there! #WeAreAllSwarm #Ethereum,7,0,4,2020-07-16
+102,2020-07-23 08:28:30+00:00,1286216608608858112,ethswarm,"Early to dev, early to grant. Apply for #ethswarm grants until the end of July here: https://t.co/Fqhs6QwYBy Give us your best (moon)shot! #WeAreAllSwarm #Ethereum",8,0,5,2020-07-23
+103,2020-07-27 10:19:26+00:00,1287694076993835008,ethswarm,"#Web3 can only be done together. We would love to see your dapp on Swarm, check out our grants program! Apply for #ethswarm grants until the end of July here: https://t.co/Fqhs6QwYBy #WeAreAllSwarm #Ethereum RT for karma",11,0,5,2020-07-27
+104,2020-08-10 12:34:12+00:00,1292801421121851393,ethswarm,Come together at the Swarm Beta launch on September 28th. RSVP here: https://t.co/ApqampnniH #ethswarm #ethereum,21,0,12,2020-08-10
+105,2020-08-11 09:39:29+00:00,1293119839884709889,ethswarm,Check out #ethswarm's latest development update here:  https://t.co/CXFaXli530 #Ethereum,13,1,8,2020-08-11
+106,2020-08-13 12:27:13+00:00,1293886827582062595,ethswarm,"Join the #ethswarm Open Hours at 1700 CET today. @HendriksenRinke will be hosting this session and answer all your questions. See you soon, join link: https://t.co/EAdVy1hDC0",7,0,3,2020-08-13
+107,2020-08-27 13:16:46+00:00,1298972726334550016,ethswarm,We are honoured to have the amazing @etclabs supporting #ethswarm on its way to realizing the vision of the world computer. Read all details about the collaboration on the blog. #Ethereum #ComeTogether https://t.co/X7wqm7oUHh,33,1,15,2020-08-27
+109,2020-08-31 16:19:17+00:00,1300468211507433474,ethswarm,"#ethswarm Bee v0.2.0 is live! Read all details about the new features in the #ReleaseNotes
+https://t.co/lIptD9nq2n #Ethereum",24,0,13,2020-08-31
+110,2020-09-03 10:29:16+00:00,1301467290937024514,ethswarm,"First #ethswarm grants are out, see the results on our blog:
+https://t.co/KlrfM4sVaV #Ethereum",21,1,11,2020-09-03
+111,2020-09-07 15:34:30+00:00,1302993653821067265,ethswarm,"#ethswarm's latest development update is out, read the details on our blog: 
+https://t.co/Dt1UDY2Jde #Ethereum",30,1,16,2020-09-07
+112,2020-09-10 14:42:08+00:00,1304067639816466434,ethswarm,"Join the #ethswarm Open Hours at 1700 CET today. The one and only Dan Nickless is going to be hosting this session. See you soon, join link: https://t.co/EAdVy1hDC0",3,0,1,2020-09-10
+113,2020-09-14 23:59:01+00:00,1305657334060941312,ethswarm,13/18 Art is timeless and inspires new ideas.@egorkraft is preparing an art installation called “Twelve nodes of Fair data principles” to start discussions about shared ethical values of the fair data economy. Congratulations. More info: https://t.co/OCsVtUmvMj #WeAreAllSwarm,5,0,0,2020-09-14
+127,2020-09-15 15:46:14+00:00,1305895711758835714,ethswarm,"Privacy - content on #ethswarm can be encrypted before it's sent to the network. In order to retrieve the plain text, the swarm address, as well as the decryption key must be provided. This is just one of the many new #swarmbeta features. See the demo: https://t.co/OlIfHeq5xJ",9,2,5,2020-09-15
+133,2020-09-16 13:20:14+00:00,1306221355738767361,ethswarm,Join us on 28th Sept at 11:00 CET for a workshop on #ethswarm basics. By the end of this session you will install and start your own Bee node and launch your own #unstoppable website on Swarm. RSVP here: https://t.co/ApqampnniH #Ethereum,6,0,3,2020-09-16
+134,2020-09-21 11:51:31+00:00,1308010967704403971,ethswarm,"One week to go till #ethswarm's next milestone: #ComeTogether on 28th Sept at the Swarm Beta online event for a full day of swarming! Workshops, second wave of Swarm grants, ecosystem demos and much more. RSVP: https://t.co/ApqampnniH #Ethereum #WeAreAllSwarm",15,1,11,2020-09-21
+136,2020-09-22 12:30:56+00:00,1308383276336324612,ethswarm,"If your interest is spiked when hearing about self-sovereign data, running web3 nodes, the world computer and safeguarding privacy, join us at #ethswarm's Beta release event on 28th Sept! Read more: https://t.co/U7IPAoCWas #Ethereum",14,0,6,2020-09-22
+138,2020-09-23 14:10:12+00:00,1308770647817023488,ethswarm,Data #Persistence: Global pinning has been added to #ethswarm Beta. This feature makes the local pinners of content discoverable and offers a recovery protocol for data chunks if they are not available in the neighbourhood they originally belong to. https://t.co/pNi2IJ9oo9,10,0,4,2020-09-23
+139,2020-09-24 12:50:58+00:00,1309113095785242625,ethswarm,"Do you want to learn how to run your own #ethswarm node and how to upload your first unstoppable, censorship-resistant website? Join us at the “Swarm Fundamentals” workshop on 28th Sept at 11:00 CET as part of the Swarm Beta launch event. Details: https://t.co/utZT1P0dfo",2,0,2,2020-09-24
+143,2020-09-25 18:36:45+00:00,1309562500648783874,ethswarm,"#ComeTogether --- here is the full program of the Swarm Beta Launch event on Monday 28th September. Hope to see you there &lt;3 #ethswarm #Ethereum 
+https://t.co/zSxYwPVBbl",10,1,9,2020-09-25
+144,2020-09-27 16:27:28+00:00,1310254740736016391,ethswarm,"The #ethswarm team is super excited about the Swarm Beta Release event, hope you are too. Come together tomorrow from 11:00 CET! Tune in to https://t.co/ZWwvZKJn2S for thematic music. #Ethereum #WeAreAllSwarm https://t.co/px2LekCkZd",3,0,2,2020-09-27
+145,2020-09-28 17:36:26+00:00,1310634486028218369,ethswarm,Join the #ethswarm Beta Release event where Daniel A Nagy is presenting about the idea of deleting files from Swarm #HappeningNow https://t.co/oUE65mqvXn https://t.co/21j6gMzO13,8,0,1,2020-09-28
+151,2020-09-30 14:42:28+00:00,1311315481203273730,ethswarm,"#ethswarm Beta #ReleaseNotes available here:
+
+https://t.co/Nf7qAvK3LG",10,1,1,2020-09-30
+152,2020-10-02 14:15:26+00:00,1312033455459500035,ethswarm,#ethswarm Beta AKA Bee’s third release marks a major milestone. #dapp Developers can now unleash rich applications over Swarm with a good balance of performance and security. Watch the #demo and read the full article: https://t.co/OxY4GDozj9 #Ethereum,5,0,5,2020-10-02
+153,2020-10-06 11:19:38+00:00,1313438765449388032,ethswarm,😍 👏 Get your copy here: https://t.co/zTislFvabb #BookOfSwarm #ethswarm #WeAreAllSwarm https://t.co/LjTegfE0je,11,1,3,2020-10-06
+154,2020-10-07 15:08:19+00:00,1313858701204357121,ethswarm,Please update your #ethswarm nodes with the Beta patch release (v0.3.1) to ensure stable performance. More info: https://t.co/WMUgIUe5TO,4,0,0,2020-10-07
+155,2020-10-16 10:13:00+00:00,1317045874929913856,ethswarm,#Web3 can only be done together. Congratulations to @Filecoin for going live! This is an important step towards the vision that we all share. #Ethereum #WeAreAllSwarm,33,1,5,2020-10-16
+156,2020-10-19 13:40:30+00:00,1318185258555158528,ethswarm,"To be successful in an uprising ecosystem you must be either smart or early. Preferably both. Since we know you are smart, you will probably want to be amongst the first to build on #ethswarm. Start building now and you will be supported with a grant.  https://t.co/3bhXtxq9MA",18,0,15,2020-10-19
+157,2020-10-22 14:03:09+00:00,1319278121724432388,ethswarm,"Join the #ethswarm Open Hours with 
+@HendriksenRinke at 1700 CET today and have all your questions answered about Swarm and the Bee client. See you soon, join link: https://t.co/EAdVy1zety #Ethereum",3,0,1,2020-10-22
+159,2020-10-29 11:23:17+00:00,1321774602016727040,ethswarm,"Watch the latest #workshop on #ethswarm fundamentals! Swarm theory and vision are explained by @HendriksenRinke, practical part is presented by @janosguljas, where you will learn how to install your own Bee node and upload your first unstoppable website. https://t.co/ig6NXnMqub",4,0,3,2020-10-29
+160,2020-11-02 13:12:33+00:00,1323251653391298561,ethswarm,"@FairDataSociety is all about ethics in dApp development. Watch their practical presentation from Swarm Beta Event on how to use the FairOS libraries to put your dApp on #ethswarm. 
+
+https://t.co/QXPgxXMG30
+
+#ethereum",0,0,0,2020-11-02
+161,2020-11-05 15:55:13+00:00,1324379751763660800,ethswarm,"Join the #ethswarm Open Hours with @HendriksenRinke at 17:00 CET today and have all your questions about Swarm and the Bee client answered. See you soon, join link: https://t.co/EAdVy1hDC0 
+
+#Ethereum",1,0,0,2020-11-05
+163,2020-11-06 12:09:20+00:00,1324685293623136256,ethswarm,"#ethswarm is #hiring! We are looking for Go developers and a Cloud Operations Engineer to join our team. Read the details on our blog:
+
+https://t.co/o5WY68Bieq 
+
+To apply please send your CV to talent@ethswarm.org.
+Please RT for good karma &lt;3
+
+#Ethereum",16,0,13,2020-11-06
+164,2020-11-07 14:50:00+00:00,1325088115334107138,ethswarm,"Your turn! Test your ideas and start earning gBZZ with the #ethwarm Live release happening on 24.11.2020. What that means and what shiny, new, and polished features this release has will be presented at the live event taking place the same day. More info: https://t.co/K2e3yLFqgb",5,0,4,2020-11-07
+165,2020-11-08 14:55:00+00:00,1325451761407021060,ethswarm,"#ethswarm Live release has all of the high-level features of Swarm 1.0 in place. And with it also the possibility to “make money”. Well, not yet real money, as we're talking about gBZZ, but it will serve as a simulation for you to test your dApp ideas on. https://t.co/K2e3yLFqgb",5,0,1,2020-11-08
+166,2020-11-12 19:00:00+00:00,1326962971365531648,ethswarm,"“This time, the event is all about Respect. Respect for the ecosystem, dApp developers, and all the projects that create the future of decentralised storage.” said @jssr, #ethswarm Ops. RSVP to the Swarm Live release event and listen to what he has to say. https://t.co/OY5O7cy5q6",1,0,1,2020-11-12
+167,2020-11-15 15:00:01+00:00,1327989739874443264,ethswarm,"“With Bee running on @DAppNode, every node operator has an easy inroad to the #ethswarm network. I’ll be showing how easy it is to run your own Bee.” (Eduardo Antuña Díez, DAppNode Project Lead). RSVP to the Swarm Live release event to hear him speak. https://t.co/OY5O7cgu1w",10,1,6,2020-11-15
+168,2020-11-18 19:00:00+00:00,1329137298244476928,ethswarm,"24.11.2020 is just around the corner and with it the fancy, new Swarm Live release. Increased performance, more stability, and nicely polished features are just a few qualities that prove things are going in the right direction. https://t.co/zAwG0v3kzp",14,1,7,2020-11-18
+170,2020-11-19 19:00:01+00:00,1329499691369852930,ethswarm,Bee Product Owner @HendriksenRinke will explain Swarm incentives in detail. Did you already RSVP to the #ethswarm Live event? Make sure you don’t miss what he has to say. Mark the date in your calendar - 24 November 2020. https://t.co/zAwG0vkVXZ,5,0,3,2020-11-19
+172,2020-11-20 18:00:00+00:00,1329846974779174912,ethswarm,There’s nothing more elegant than installing your #ethswarm Bee node with @DAppNode. If you want to see how - RSVP to the Swarm Live event on 24 November 2020 and listen to Eduardo Antuña Díez explain the process in detail. https://t.co/zAwG0vkVXZ,2,0,2,2020-11-20
+173,2020-11-24 15:38:39+00:00,1331260951446872070,ethswarm,"Right now: We are announcing the 3rd wave of Swarm grants. Grab this opportunity, fund your awesome project idea and join the Swarm network in its early stages. Tune into the Swarm Live event! https://t.co/fsKWLP24XF",2,0,0,2020-11-24
+184,2020-12-01 19:00:01+00:00,1333848345450692608,ethswarm,"#ethswarm Live has increased stability, improved performance, and has all the high-level features of Swarm 1.0. Read the Swarm Live release event recap or watch the recording to learn all the details! https://t.co/U6hfuJ41oS",3,0,2,2020-12-01
+185,2020-12-04 14:59:12+00:00,1334874903493955585,ethswarm,"By 25 January 2021, the cluster of nodes running the old #ethswarm network maintained by the Swarm team will be brought offline. Those running services on the old testnet are encouraged to arrange for an immediate migration to the new Bee client. https://t.co/DMa2QsRp5O",3,0,2,2020-12-04
+187,2020-12-05 18:50:45+00:00,1335295562363654145,ethswarm,"All the hard work in the last few months has paid off. The mechanics of the #ethswarm incentives are completed. @HendriksenRinke explains how the puzzle was falling into place in this video from the Swarm Live event. https://t.co/AfSXrESQDM
+#Ethereum",1,0,0,2020-12-05
+188,2020-12-06 12:00:00+00:00,1335554584283144194,ethswarm,"Improved performance, more stability, and polished features are just a few of the things #ethswarm Live release has to offer. What is new in this release was explained in detail by Janos Guljaš at the Swarm Live event. You can watch his presentation here: https://t.co/4CvNiP4WtN",1,0,0,2020-12-06
+191,2020-12-08 15:04:19+00:00,1336325740845887488,ethswarm,"Vero Estrada-Galiñanes will explain the benefits distributed storage can bring to research.
+
+#MyDataOnline2020 #ethswarm  #ethereum",0,1,0,2020-12-08
+199,2020-12-10 07:45:00+00:00,1336939959887015937,ethswarm,"The “Future of Data Sovereignty” session at the @mydataorg conference starts in 1 hour. Stay informed about the importance of data sovereignty, get inspired about the need for it, and learn about existing solutions. https://t.co/W8eXlMaTUx
+
+#ethswarm #ethereum #MyDataOnline2020",2,0,0,2020-12-10
+200,2020-12-14 15:31:15+00:00,1338506847280656389,ethswarm,"Bee-clef is a newly released package by the #ethswarm team, which works together with the Bee node to increase the security and interoperability of your Swarm account. If you are running a Bee node, it's recommended to install bee-clef first and Bee after. https://t.co/auwXcl3mAx",21,0,3,2020-12-14
+201,2020-12-17 13:07:08+00:00,1339557743565414402,ethswarm,"We made 3 essential improvements to the Bee client. Please visit the release notes for more info: https://t.co/meuxRJXR5A
+
+#Ethereum #ethswarm",3,0,0,2020-12-17
+203,2021-01-05 19:00:01+00:00,1346531920021078016,ethswarm,"#ethswarm is hiring! Join the team creating the future of decentralised storage and communication. See our #Jobs page for details, RT for karma tokens ❤️ https://t.co/WT31H9Uxd4
+#Ethereum #GoLang",8,1,10,2021-01-05
+204,2021-01-08 17:00:01+00:00,1347588882993451014,ethswarm,"We are happy to announce @FairDataSociety’s Liberate Data Week that will happen on 8-14 February. See the why, the when, and the how here: https://t.co/DF4lC8QVKz
+ 
+#Etehreum #Ethswarm",11,0,9,2021-01-08
+206,2021-01-09 15:11:00+00:00,1347923835505364998,ethswarm,"@FairDataSociety is an ecosystem initiative working towards self-sovereign data commons, guided by the community’s ethical principles. Read about how this initiative is supported by #ethswarm on our blog. https://t.co/DF4lC98wC7",0,0,0,2021-01-09
+207,2021-01-10 15:36:00+00:00,1348292514818764801,ethswarm,"#ethswarm is hiring! Join the team creating the future of decentralised storage and communication. See our #Jobs page for details, RT for karma tokens ❤️ https://t.co/WT31Hac8BE
+#Ethereum #GoLang",9,1,6,2021-01-10
+208,2021-01-12 10:36:00+00:00,1348941792897605635,ethswarm,"#ethswarm is hiring! Join the team creating the future of decentralised storage and communication. See our #Jobs page for details, RT for karma tokens ❤️ https://t.co/WT31Hac8BE
+#Ethereum #GoLang",11,0,6,2021-01-12
+210,2021-01-14 15:04:56+00:00,1349734249688043520,ethswarm,"Join the #ethswarm Open Hours with 
+@HendriksenRinke
+ at 17:00 CET today and have all your questions about Swarm and the Bee client answered. See you soon, join link: https://t.co/EAdVy1zety",0,0,0,2021-01-14
+212,2021-01-15 18:04:35+00:00,1350141848497623041,ethswarm,"Swarm uses bandwidth incentives to enable the upload and download of data. As Bee nodes communicate with each other to facilitate the private and secure uploading of content, they keep score of consumed and received bandwidth. https://t.co/cvrFDzRNk1",3,0,1,2021-01-15
+213,2021-01-16 15:25:00+00:00,1350464073645789184,ethswarm,"The #ethswarm network is growing larger day by day and the number of nodes is growing. While this is good for the network, it is also good for you, especially if you join early and have a data-rich and well-connected node when Swarm launches on mainnet. https://t.co/nFbatiZpQp",5,1,2,2021-01-16
+215,2021-01-18 16:03:28+00:00,1351198529780379650,ethswarm,"@dixon_siu Full time preferred for current openings, but since we are rapidly growing it’s still worth to get in touch with us to be amongst the first who hear about new opportunities",0,0,0,2021-01-18
+216,2021-01-19 14:20:00+00:00,1351534879884910595,ethswarm,Swarm's storage space is limited by the sum of the storage contribution of all nodes to the network. The postage stamp system allocates the right to write to #ethswarm optimally by attaching a cost to uploading data to the network. Learn more in the blog. https://t.co/cvrFDzRNk1,2,0,3,2021-01-19
+217,2021-01-20 15:50:00+00:00,1351919917075816449,ethswarm,"Don’t miss the Liberate Data Week, a hackathon and event week organised for #ethswarm by @FairDataSociety. The program is almost done, and it will contain a lot of interesting talks, demos, and workshops. A valuable announcement will be made too. https://t.co/4jy2koja0f",7,0,5,2021-01-20
+218,2021-01-21 14:51:00+00:00,1352267456723632130,ethswarm,"Build your first thin dApp on #ethswarm via Fairdrive at the Liberate Data Week hackathon. The best 3 projects will be rewarded with BZZ. Also, a valuable announcement will be made. Read more about the event here. https://t.co/4jy2koja0f
+ 
+#Ethereum",8,0,4,2021-01-21
+219,2021-01-22 11:22:59+00:00,1352577496173174784,ethswarm,We are heading towards Swarm 1.0 at lightning speed. Here is yet another #ethswarm release (v 0.4.2) and here are the release notes. https://t.co/Vs4w0iusBa,11,1,4,2021-01-22
+221,2021-01-23 13:51:00+00:00,1352977132759072768,ethswarm,"- You are a social media manager.
+- You know everything about blockchain.
+- You follow #ethswarm and you are in love with our mission.
+- If you answered yes, then don’t miss the opportunity to join our team.  
+https://t.co/susjxW9HAE
+ 
+#Ethereum",2,0,3,2021-01-23
+222,2021-01-24 15:52:00+00:00,1353369971296882690,ethswarm,"We are looking for an experienced social media manager who knows their blockchain and follows #ethswarm closely. If you feel you would fit in, then we are inviting you to join our dream team and help us change the world. More info here: https://t.co/susjxW9HAE
+ 
+#Ethereum",2,0,0,2021-01-24
+223,2021-01-27 14:44:31+00:00,1354440152731545602,ethswarm,"@energonx aims to build a fair hydrogen location-aware trading platform that provides a set of easy-to-use and transparent services for its members. It’s engineered from the ground up with security, efficiency, speed, and scalability in mind. They'll store their data on #ethswarm",3,0,0,2021-01-27
+230,2021-01-28 13:46:30+00:00,1354787939172151299,ethswarm,Join the team creating the future of decentralised storage and communication -- #ethswarm is looking for a Social Media / Community Manager https://t.co/jWko3Jx5Ef,6,1,0,2021-01-28
+231,2021-01-29 10:55:00+00:00,1355107168249372672,ethswarm,"The goal of the event is for participants to learn how to install their own Bee node, discuss fair-data-related topics, and understand Swarm incentives and how these can benefit dApp developers by plugging into #ethswarm in its early stages. Read more: https://t.co/5uDHqkICz3",6,0,4,2021-01-29
+232,2021-02-05 12:45:26+00:00,1357671676213932034,ethswarm,@ChainSafeth @web3_js You will be able to find bee-js documentation at https://t.co/JiaInHn23W,2,0,0,2021-02-05
+234,2021-02-06 16:22:00+00:00,1358088563406106627,ethswarm,"If you encounter problems registering for the Liberate Data Week hackathon, it may be because you are using @brave browser. Please bear with us, Mailchimp is not compatible with it, so please use another browser. We will move away from Mailchimp soon. https://t.co/3PtmOiXdnN",2,0,0,2021-02-06
+235,2021-02-08 15:09:34+00:00,1358795111677755394,ethswarm,"Swarm is about to take a giant step closer to the mainnet release by deploying a new release of #ethswarm. The upcoming release (Tuesday, 9 February, 09:00 CET) includes, among others, an integration with Bzzaar (on Goerli). Read more about this here: https://t.co/7tPtZPgYkA",13,1,9,2021-02-08
+237,2021-02-09 07:00:00+00:00,1359034296833617922,ethswarm,"With the new #ethswarm release, some crucial changes will be made. The most important thing to understand is that the integration of Bzzaar requires a new token. Since Bee nodes can only accept one token, this will have some consequences. Read more here: https://t.co/7tPtZPgYkA",7,0,2,2021-02-09
+240,2021-02-10 13:59:39+00:00,1359502290340638721,ethswarm,Liberate Data Week - Bee day https://t.co/fhIqkY9hP0,6,0,6,2021-02-10
+242,2021-02-11 13:51:39+00:00,1359862665162719237,ethswarm,"Don’t forget that we changed the links for the hackathon events. Check your email for the new link or sign up for the hacktahon if you want to join us. Today’s event is starting now.  https://t.co/VUsE9dZMNi
+
+#Ethereum #etswarm",2,0,0,2021-02-11
+247,2021-02-12 09:49:00+00:00,1360163989066371075,ethswarm,"With the new Bee release, some crucial changes have been made. The most important thing to understand is that the newly integrated Bzzaar works with a new testnet token. Since Bee nodes can only accept one token, this will have some consequences. https://t.co/tDS7Bu4Knb",4,0,1,2021-02-12
+249,2021-02-13 06:05:53+00:00,1360470228434620416,ethswarm,"@rif_os @RSKsmart @GabrielKurman You can register for the event on the link below:
+https://t.co/3PtmOiXdnN",0,0,0,2021-02-13
+251,2021-02-14 15:01:09+00:00,1360967319057358859,ethswarm,Liberate Data Week - Demos &amp; Presentations by the teams https://t.co/YRLRQIEjww,15,1,15,2021-02-14
+253,2021-02-15 19:02:31+00:00,1361390449370537986,ethswarm,"@Michko36281380 You don't need a strong technical background to run a Bee node.
+You can follow the instructions on our docs
+https://t.co/T0dra4zkxP",1,1,0,2021-02-15
+254,2021-02-19 12:18:48+00:00,1362738401942863873,ethswarm,"Don’t miss @zeligf’s talk at the H3LLO DECENTRALIZATION conference on 22 February 2021. Check out their awesome agenda here: https://t.co/E1dVJR7tF3 and register for free here: https://t.co/TZOKstFbyT 
+ 
+#Ethereum #ethswarm https://t.co/49fkaZUSe4",5,1,1,2021-02-19
+255,2021-02-20 12:39:00+00:00,1363105873938182148,ethswarm,We were amazed by the participation at last week’s hackathon. So many people are engaged with what we are doing and people get really creative when they are inventing new projects on top of #ethswarm. https://t.co/wQyIyyxWZ3,6,2,1,2021-02-20
+256,2021-02-21 12:39:00+00:00,1363468261669617666,ethswarm,"We saw the @openstreetmap come to life on #ethswarm, working like a dream using FairOS, and we saw really cool and practical dApps (like https://t.co/xUVlT77WR3) come to life at the Liberate Data Week hackathon. Here is a short recap of the happening:  https://t.co/wQyIyygm7v",9,1,1,2021-02-21
+257,2021-02-22 12:39:00+00:00,1363830649564647429,ethswarm,"Our ecosystem is growing rapidly and we are happy with how things are progressing. As we approach #ethswarm 1.0, the ecosystem is one of the things that we are working hard on and things could not look brighter at this point. Read the hackathon recap blog: https://t.co/wQyIyygm7v",7,0,2,2021-02-22
+258,2021-02-23 12:40:00+00:00,1364193288979439624,ethswarm,"The dApp that won the hearts of most of the hackathon jury is a really neat, practical one: meet https://t.co/xUVlT77WR3, a censorship-resistant, easy-to-use publishing tool on #ethswarm. Thanks to @petenickless, you can start using it right away.
+ 
+#Ethereum",6,1,2,2021-02-23
+259,2021-02-26 12:47:05+00:00,1365282237294522370,ethswarm,"#ethswarm network is on the rise. Hundreds of new Bee nodes are popping up every day. Here is a map of geographical locations so far. Join the network in its early stages! We are all Swarm! 
+ 
+#Ethereum https://t.co/nNtPdflhO5",53,2,19,2021-02-26
+262,2021-02-28 15:12:00+00:00,1366043480363917312,ethswarm,"There are still a few job positions open. Don’t miss out, apply asap and join our wonderful team on our mission to change the world as we know it. ;) See the jobs here: https://t.co/MqCVedrt6f 
+ 
+#ethswarm #Ethereum",9,0,5,2021-02-28
+263,2021-03-01 09:13:00+00:00,1366315523001098241,ethswarm,"#SouthAmerica where are your #ethswarm Bee nodes? True decentralization cannot happen unless all continents are included. Join us! We are all Swarm! https://t.co/PhHwn255JG 
+ 
+#Brazil  #Colombia  #Argentina  #BoliviaDigital #Ecuador  #Paraguay  #Peru  #Venezuela https://t.co/XPbgaOEmJD",12,2,3,2021-03-01
+265,2021-03-02 14:27:00+00:00,1366756932455985160,ethswarm,"@cxm92269326 All #ethswarm comms channels are moving to #Discord. 
+We have support channels in English, Chinese and Russian language.
+
+Please join us via this link: https://t.co/xQbU97kPZU 
+
+#Ethereum",0,0,0,2021-03-02
+267,2021-03-04 12:24:26+00:00,1367450863627874307,ethswarm,"FYI - the #ethswarm v 0.5.2 release is out and it includes two essential patches: 1.) Disk I/O is reduced by configuring LevelDB more efficiently, and 2.) Set the payment-threshold field as a copy, instead of a reference.
+ 
+#Ethereum",8,0,2,2021-03-04
+269,2021-03-05 09:03:07+00:00,1367762589074284546,ethswarm,"The FriDAI brunch with @kingflurkel has just started. The topic of their discussion is “The Road Ahead to Making Web3.0 Mainstream”. Tune in here: https://t.co/wiVHcgmxhw 
+
+#Ethereum #ethswarm",7,1,2,2021-03-05
+271,2021-03-08 12:46:00+00:00,1368905841307394057,ethswarm,"Only one month after our alpha release, we are happy to announce the beta release of Bee-js. It is a Javascript library that exposes the #ethswarm’s Bee functionalities and makes it easy to use in web projects. Read more about the beta release here: https://t.co/O5iCpUXhqm",3,0,4,2021-03-08
+273,2021-03-10 06:15:37+00:00,1369532373214363650,ethswarm,@FrankNi0x71 We have a fantastic support team ready to answer this question and more on Discord: https://t.co/919oNLgz5X,0,0,0,2021-03-10
+274,2021-03-11 16:41:00+00:00,1370052144385060865,ethswarm,"The #ethswarm #airdrop has been going on for a while now and we are happy to see so many new Bee nodes popping up every day. However, judging by the number of questions received, there are still a lot of things people don’t understand. Here's the FAQ blog: https://t.co/PLTpanpds8",8,1,6,2021-03-11
+276,2021-03-12 10:04:36+00:00,1370314776644059141,ethswarm,"@travisherron You can also find support for running Bee on DAppNode on the DappNode Discord server:
+https://t.co/Uzd9Pg4zZU",0,0,0,2021-03-12
+279,2021-03-14 16:42:00+00:00,1371139559690412035,ethswarm,"Make sure you don’t miss the @golemproject's Web 3.0 Party on Monday, 15 March 2021, at 16:00 CET. #ethswarm will also be there, represented by @kingflurkel, in the company of @graphprotocol, @radicle, @0xPolygon, and @MPtherealMVP. Register here: https://t.co/XW7LdH5Pa6",56,2,14,2021-03-14
+280,2021-03-15 13:41:44+00:00,1371456583738261505,ethswarm,"@newssssyyyy We have a fantastic support team ready to answer this question and more on Discord:
+
+https://t.co/np6Mh8enOI",0,0,0,2021-03-15
+282,2021-03-22 13:40:28+00:00,1373992978864353297,ethswarm,"Here’s a cute, practical thin dApp on #ethswarm, built using FairOS. With it, you can send instant, private, and censorship-resistant messages via Swarm. We hope you will enjoy Pastebee as much as we do. https://t.co/j3I41zJ3Z6
+ 
+#Ethereum",18,0,4,2021-03-22
+283,2021-03-23 17:00:02+00:00,1374405590450008081,ethswarm,"There are several ways to install and run a Bee node, but one of the more convenient ways is to use @dappnode. In this video presentation, you will learn how to run your Bee node in a matter of minutes. Join us! We are all Swarm. https://t.co/4L1I3iG04h
+ 
+#Ethereum",7,0,3,2021-03-23
+284,2021-03-24 19:00:01+00:00,1374798174066405380,ethswarm,"Hey #Africa! We don’t see any #ethswarm Bee nodes on your continent. Join us! Here’s a video tutorial on how to install and run a Bee node. https://t.co/4L1I3iG04h
+ 
+#Ethereum https://t.co/5hRMBMUrEQ",8,1,6,2021-03-24
+285,2021-03-25 16:02:00+00:00,1375115760465420293,ethswarm,"Hey, #SouthAmerica! Where are your #ethswarm Bee nodes? Join forces with the rest of the world in the decentralized storage revolution. Installing and running a Bee node is easy. Here is a quick how-to video: https://t.co/4L1I3iG04h
+ 
+#Ethereum",4,0,3,2021-03-25
+286,2021-03-27 16:21:00+00:00,1375845317099196423,ethswarm,"In the past few weeks, we’ve been releasing tutorials on various ways to install your Bee node. Now it’s time to take a deeper look and show you how you can cash out your gBZZ cheques. Here's an easy-to-understand video tutorial by @vojtechsimetka. https://t.co/Wrv2FKTxWl",15,2,5,2021-03-27
+287,2021-03-28 15:21:00+00:00,1376192605633933312,ethswarm,"New #ethswarm patch release: Improved performance, bug fixes, and more. Version 0.5.3 has quite a few improvements. Please read the full release notes here: https://t.co/PTNY9PVNg1 
+ 
+#Ethereum",11,1,3,2021-03-28
+288,2021-04-01 09:39:48+00:00,1377556292915630086,ethswarm,"#ethswarm Bee-js v0.7.0 has been released. Bee-js is a #Javascript library that exposes Bee functionalities and makes it easy to use in dApps and js/ts projects. Read the release notes and get up to date with the recent changes. https://t.co/BFiuEzo0On 
+
+#Ethereum",19,0,6,2021-04-01
+290,2021-04-02 10:00:01+00:00,1377923766240567297,ethswarm,"Important changes are coming up for #ethswarm Bee node operators. Please follow our social media closely (or sign up for our newsletter) to stay informed about the upgrades and changes you will need to make on your nodes to ensure proper functioning.
+ 
+#Ethereum",10,2,4,2021-04-02
+291,2021-04-03 09:15:09+00:00,1378274866701406208,ethswarm,"An important #ethswarm release is coming up soon. After this new release, no new features will be added. The dev team will focus solely on bug fixes, performance, and stability improvements. We are now getting ready for Swarm 1.0 release. 1/2",35,2,9,2021-04-03
+293,2021-04-04 10:04:00+00:00,1378649545278509065,ethswarm,"The new #ethswarm release will soon be ready. Some important changes are coming, too. If you are running a Bee node, please follow our tech support channels closely for important information on how to update your nodes.
+ 
+#Ethereum",21,4,6,2021-04-04
+294,2021-04-05 11:38:50+00:00,1379035798494937091,ethswarm,"@AlexanderFisher Thanks for letting us know, we will check it out and fix it. 
+Please try this one: https://t.co/ZzwC1Hz8Zr",1,0,0,2021-04-05
+295,2021-04-09 16:37:00+00:00,1380560386018082818,ethswarm,March was as busy at #ethswarm as always. The team was focused on bug fixes and performance enhancements. A new version of Swarm and a new version of Bee-js were released too. Read about all that in detail in the monthly development update – March 2021. https://t.co/0BuzTbdgTt,13,1,4,2021-04-09
+296,2021-04-10 13:10:00+00:00,1380870680665751556,ethswarm,"Have you tried out Pastebee dApp yet? A cute and practical paste bin dApp built on top of #ethswarm that came as one of the results of the February hackathon. Here is a short video demo of the dApp, but you can also just start using it yourself: https://t.co/Khhy1r5603 
+#Ethereum",13,1,7,2021-04-10
+297,2021-04-11 13:13:00+00:00,1381233823371862016,ethswarm,"Did you know that you can download videos from #YouTube and upload them to #ethswarm? And thanks to this dApp, it has never been easier either. But there's more: you can easily insert videos from Swarm to the YouTube search results, too. See the demo here: https://t.co/bnWTLn06QR",13,1,7,2021-04-11
+298,2021-04-12 13:14:00+00:00,1381596463021486085,ethswarm,"You can use Fairdrive to build thin dApps on top of Swarm. If you missed the February hackathon, here is a link to the event recordings. Watch Kent explain how it all works and start using the knowledge right away. Enjoy!  https://t.co/qnJrsIWziR
+ 
+#Ethereum",8,1,4,2021-04-12
+299,2021-04-22 12:25:30+00:00,1385208137007910915,ethswarm,"Yay! We just released #ethswarm bee-js 0.8.1! There have been some notable changes, too. See the full list of changes and all relevant links here: https://t.co/qX8zLgOcM0
+ 
+#Ethereum",23,4,9,2021-04-22
+300,2021-04-27 12:32:49+00:00,1387021917710962688,ethswarm,"Join us today at 15:00 CET for a demo of the upcoming #ethswarm v0.6.0 release featuring Postage Stamps, Light Node mode, and more! You must update your node software in order to stay in the swarm. You can watch the live stream here: https://t.co/SnRbhMvFFx 
+#Ethereum",7,2,3,2021-04-27
+301,2021-04-29 11:15:39+00:00,1387727274431107074,ethswarm,We are excited to share a series of research papers for the Data Futures Lab by @mozilla Insights that maps and explains a growing ecosystem for what they call ‘alternative data governance’ initiatives. 1/3,9,2,5,2021-04-29
+304,2021-04-30 12:21:00+00:00,1388106106694742017,ethswarm,"We have reached an important milestone! We now have more than 50k Bee nodes running on testnet. This is way more than we had hoped for at this stage of the project and we are grateful for all the support shown. We are all Swarm!
+
+#ethswarm #Ethereum https://t.co/GnqSZ3fPIP",32,9,15,2021-04-30
+305,2021-05-03 09:50:29+00:00,1389155393830637568,ethswarm,@Chaos6174 In the Bee Dashboard in settings change the API URL and DEBUG API URL to the adequate endpoints on your VPS. Don't forget to enable CORS. 1/2,1,1,0,2021-05-03
+307,2021-05-12 14:00:00+00:00,1392479675264507910,ethswarm,"Data is the “new oil” of the digital economy, and increasingly so. @BitcoinSuisseAG compares the main decentralized storage projects in their latest blog, #ethswarm is of course among them. You can read the blog here: https://t.co/11Qj03eXPH
+ 
+#Ethereum",30,21,13,2021-05-12
+308,2021-05-17 17:31:33+00:00,1394344855271313415,ethswarm,"In case you missed the live demo presentation of the new release, you can rewatch it on Youtube:
+https://t.co/18UZxBas0w 3/3",9,2,3,2021-05-17
+317,2021-05-18 17:21:07+00:00,1394704617355857924,ethswarm,#DYOR and be careful out there. 5/5,13,4,1,2021-05-18
+322,2021-05-20 06:39:10+00:00,1395267841432109060,ethswarm,@HBTC_Russia @BHEXOfficial BZZ token is not deployed yet! Swarm Foundation is not aware of this listing and has not endorsed or discussed any exchanges with regards to BZZ listing. Follow our communications via our channels on https://t.co/Llr35JfoC5 #DYOR,2,0,0,2021-05-20
+323,2021-05-30 05:07:17+00:00,1398868594822426629,ethswarm,We are getting closer to mainnet launch; BZZ token has not been deployed or distributed yet. Private buyers are not allowed to pledge the token before mainnet launch. 1/5,44,20,12,2021-05-30
+327,2021-06-05 11:45:07+00:00,1401143042380374018,ethswarm,"Dear #ethswarm followers, please be careful:
+
+- BZZ token has not been deployed yet
+- In case of questions or doubt, please refer to channels listed on the website https://t.co/K4W3qC5tZx
+- The only legit way to buy BZZ at the public sale is via @CoinList
+
+#Ethereum",63,28,13,2021-06-05
+328,2021-06-07 13:10:02+00:00,1401889185435467777,ethswarm,"Dear #ethswarm followers, please be careful:
+
+- BZZ token has not been deployed yet
+- In case of questions or doubt, please refer to channels listed on the website https://t.co/K4W3qC5tZx
+- The only legit way to buy BZZ at the public sale is via 
+@CoinList
+
+#Ethereum",73,35,19,2021-06-07
+329,2021-06-14 15:00:00+00:00,1404453575305093127,ethswarm,"The #ethswarm token sale starts in 2 hours. If you have registered for the sale, get ready to join the sale in time.
+ 
+#Ethereum",66,15,14,2021-06-14
+333,2021-06-17 11:29:57+00:00,1405487877165834249,ethswarm,"You are invited to join a live technical AMA session with #ethswarm developers where they will answer all tech-related questions about running a Bee node. The AMA will take place tomorrow (18 June 2021) at 13:00 CET. 
+More info here: 
+https://t.co/nNtDRovI7m 
+
+#Ethereum",59,18,15,2021-06-17
+334,2021-06-20 19:26:38+00:00,1406695001346748419,ethswarm,"Upgrade instructions are found in our documentation: https://t.co/mB27fEijoT (3/4) 
+
+#Ethereum",14,3,2,2021-06-20
+339,2021-06-21 21:02:21+00:00,1407081480371773442,ethswarm,"It’s now official! Swarm 1.0 is live on #mainnet. Congratulations to the entire Swarm team for the hard work and dedication. Now it’s celebration time. https://t.co/BVKcGsRqMq  
+
+#Ethereum #ethswarm",402,169,83,2021-06-21
+341,2021-06-23 18:00:00+00:00,1407760365111287808,ethswarm,"Swarm network has its own bonding curve. The curve was activated at the price of 1.92 DAI/BZZ with a collateral of 4.7M DAI. Right now the curve has more than 32 million DAI for a BZZ price of approximately 14.2 DAI/BZZ. Check it out here: https://t.co/VNKzsmR1sp
+ 
+#Ethereum",92,36,21,2021-06-23
+343,2021-06-30 16:00:01+00:00,1410266886265257990,ethswarm,"Bee nodes generate a lot of transactions. To make this efficient and scalable, #ethswarm has opted for xDAI as a sidechain. When a Bee running on the mainnet deploys a chequebook, this happens on xDAI. When node operators cash out cheques, they get xBZZ. https://t.co/3Cx10YrDDx",79,14,19,2021-06-30
+345,2021-07-02 12:24:00+00:00,1410937297063788548,ethswarm,Bee nodes generate a lot of transactions. Therefore #ethswarm opted to use #xDAI as a scaling solution. Users who start Bee nodes will need some xDAI to do so. How it all comes together is described in more detail here: https://t.co/3Cx10YrDDx,63,14,15,2021-07-02
+346,2021-07-09 16:46:54+00:00,1413540175439966211,ethswarm,@CoinMarketCap please approve our account for self-reporting and editing of the @ethswarm listing on your website. The email used for creating the account is comms@ethswarm.org. Thank you.,33,2,5,2021-07-09
+347,2021-07-12 12:22:04+00:00,1414560690925416455,ethswarm,"Only 10 hours remaining to cash your cheques! You need to cash your testnet node’s cheques before Midnight CET tonight so you will be able to find out whether you have received any cheques from the Trusted nodes to be eligible for the #airdrop!  https://t.co/KINRWbjmp3
+
+#ethswarm",40,10,7,2021-07-12
+348,2021-07-18 10:46:00+00:00,1416710840343011334,ethswarm,"One of the latest editions to #ethswarm is a web UI for configuring and running Bee nodes. This practical and easy-to-use Bee Dashboard makes it easy to see the status of your nodes, BZZ accounting, postage stamps, and more. See the demo here: https://t.co/gBr91zMk9V 
+ 
+#Ethereum",74,11,11,2021-07-18
+349,2021-07-19 14:00:00+00:00,1417122051891113985,ethswarm,"Don’t miss @jssr’s talk at #EthCC in Paris. He will explain how #ethswarm is tackling the questions of privacy, data interoperability, and data sovereignty. His talk is on 22 July at 10:45 AM (main stage). See the @EthCC agenda here:  https://t.co/Y9aehZUjRy
+ 
+#Ethereum",40,7,5,2021-07-19
+353,2021-07-20 10:47:00+00:00,1417435868009156613,ethswarm,"The easy-to-use web-based #ethswarm Gateway lets users share and access files with ease, even if they don't run their own Bee node. This service is under development and provided for testing purposes only. Therefore, it is limited to 10 MB files. https://t.co/GTpeFAugqQ
+#Ethereum",49,8,8,2021-07-20
+356,2021-07-21 10:48:00+00:00,1417798507373776899,ethswarm,"Swarm-cli is a command line tool to manage a Bee node and interact with the #ethswarm network. Although the basic functionality is similar to Bee Dashboard, this tool was created for enabling automation and for users who prefer the command line over web-based UIs.
+ 
+#Ethereum https://t.co/8oGzWOeQ0c",81,8,9,2021-07-21
+357,2021-07-22 08:50:47+00:00,1418131397001334784,ethswarm,"@jssr is live now at #ethcc on the main stage. He is explaining how #ethswarm is tackling the questions of privacy, data interoperability, and data sovereignty. 
+If you are not in Paris then watch the live stream here:
+https://t.co/KhTRrvUGVT",4,1,2,2021-07-22
+358,2021-07-25 05:04:20+00:00,1419161575022338049,ethswarm,@ProSuja https://t.co/oj1KuHiihr,0,0,0,2021-07-25
+359,2021-07-31 11:10:15+00:00,1421427984834211844,ethswarm,"Good news! #ethswarm CLI and Bee JS are updated! Working with Swarm just got even easier. 
+
+Check the release notes: 
+- Swarm CLI: https://t.co/2JrqYkEJZB
+- BeeJS: https://t.co/ynpkSaIfMp
+ 
+#Ethereum",156,63,34,2021-07-31
+360,2021-08-06 16:35:09+00:00,1423684077194985473,ethswarm,#ethswarm is organizing a Swarm Summer School with 5 days of intense learning and workshops. Mark the dates: 23rd till 27th August 2021. You will learn everything you need to start building your #dApp on top of Swarm. Sign up now. Seats are limited. https://t.co/mgyrT6buTO,78,30,24,2021-08-06
+361,2021-08-11 14:13:59+00:00,1425460490902425602,ethswarm,"July was paved with learning for the #ethswarm team. Swarm was deployed to the mainnet for the first time and close observation on performance, bugs, and stability was needed to make sure everything is working as it should. More on happening in July here:  https://t.co/KyJ7AjbPxi",46,14,9,2021-08-11
+362,2021-08-13 17:02:57+00:00,1426227788583944208,ethswarm,"Run a testnet node and join our Bee Testers group on Discord for a sneak peek at new features, bug fixes, performance enhancements! Install and run your #ethswarm testnet node and help test the new release candidate before it goes to the mainnet. https://t.co/2b7LoNIYxa
+#Ethereum",61,30,7,2021-08-13
+363,2021-08-16 16:53:06+00:00,1427312471874867200,ethswarm,"Don’t miss the online Swarm Summer School (23 to 27 August 2021). Get ready for 5 days of intensive learning &amp; workshops, where you can take your #ethswarm skills to another level. Sign up and see you at the school. https://t.co/EfYcsBJpoV 
+ 
+#ethereum",44,21,6,2021-08-16
+364,2021-08-20 16:52:18+00:00,1428761823189295109,ethswarm,Our digital integrity should be a fundamental right protecting our freedom in the digital world. Join @alexis_roussel this Monday to hear why buidlers need to care. Register now: https://t.co/deAzGFfM5c #SwarmSummerSchool #Ethereum #fairdata #privacy #PLUR,49,17,9,2021-08-20
+365,2021-08-27 11:44:31+00:00,1431221080916647939,ethswarm,Swarm’s decentralisation project is key to establishing the first ever fully decentralised operational system that could revolutionise the way art is consumed and exchanged. 3/3,24,0,6,2021-08-27
+374,2021-08-29 08:45:41+00:00,1431900853506613249,ethswarm,"The Swarm Association would like to thank all the presenters who made this school possible. Most of the talks and workshops were recorded and are now available to watch on YouTube. 2/2
+ 
+https://t.co/13FjmYsBUM 
+ 
+#Ethereum #ethswarm",18,0,2,2021-08-29
+376,2021-09-01 12:03:50+00:00,1433037883196203008,ethswarm,"Missed the #SwarmSummerSchool? Here you can re-watch @zeligf’s talk where he explains the vision of #ethswarm, how the main Swarm features work, the incentives, and what’s in store for the future. https://t.co/VIpf0LkVkG 
+ 
+#Ethereum",40,0,3,2021-09-01
+377,2021-09-20 14:53:38+00:00,1439965983582695424,ethswarm,"9/14 There's going to be a more direct incentivization for miners, by the introduction of the postage lottery: information for the system that fairly reallocates the postage stamp revenue and rewards the store nodes according to their contribution to the global storage. https://t.co/XzLUrthSfS",8,1,0,2021-09-20
+391,2021-10-01 13:22:55+00:00,1443929421585522688,ethswarm,"Early this year, Swarm Foundation commissioned @cure53berlin to conduct a source code audit of Bee and the Swarm smart contract suite. The audit identified 12 security-relevant risks with varying severity levels which have now been addressed and resolved.
+
+https://t.co/6pfaKMB6B6",64,19,10,2021-10-01
+392,2021-10-15 11:12:45+00:00,1448970092780347392,ethswarm,As from 1.2.0 nodes query each other to make sure they're connected to a fully synced blockchain. The next version will enforce this behaviour. Please update your nodes as soon as possible to stay connected to the swarm!,53,25,13,2021-10-15
+393,2021-10-28 11:56:34+00:00,1453692161740914704,ethswarm,The Swarm Foundation is proud to announce the release of Bee 1.3.0 🎉. This release focuses on improvements to network reliability and the push sync protocol. As this includes breaking protocol changes you *must* update your nodes *now* in order to stay part of the network.,91,54,24,2021-10-28
+394,2021-11-05 09:31:51+00:00,1456554844840411144,ethswarm,"Special thanks to community members who translate materials in various languages and diversify the swarm even more.
+If you are deploying efforts to translate swarm’s docs in your language, get in touch with us. We would love to hear about you and your community.",19,6,2,2021-11-05
+396,2021-11-16 14:00:57+00:00,1460608832166674433,ethswarm,"⚠️  Important! ⚠️ 
+
+Make sure to update your xDai nodes for the London hardfork so your Swarm nodes remain functional.
+
+@OpenEthereumOrg and @nethermindeth released required versions 11 days ago.
+More information on how to upgrade: https://t.co/pIpHfePyOD",31,23,11,2021-11-16
+397,2021-11-22 20:31:41+00:00,1462881494431678472,ethswarm,"The Swarm is moving on 
+🤖 Node operators don't be left behind 
+📖 Read Elad's latest blog post to learn more about the recent updates from the Bee team and why you must update your nodes now to stay part of the network. 
+https://t.co/HKOYDaa2pS https://t.co/iA3POo3lQ9",31,17,11,2021-11-22
+398,2021-11-26 12:36:15+00:00,1464211395239723010,ethswarm,"The #ethswarm Bee Team is proud to announce a new release - Bee v1.4.0. It includes a major change to the protocol behavior and improves network resilience significantly. You must update your nodes or they will no longer be part of the network.
+https://t.co/EEwK7uu8az",35,25,12,2021-11-26
+399,2021-12-09 17:04:18+00:00,1468989895393828865,ethswarm,"The #ethswarm Bee Team is proud to announce a new release - Bee v1.4.1. 
+Please update your nodes as soon as possible to benefit from bug-fixes, protocol improvements and much more!
+
+https://t.co/xX7yUM2Ley",32,13,7,2021-12-09
+400,2021-12-13 10:00:52+00:00,1470332887832616963,ethswarm,"Swarm Foundation is proud to share its tech team’s internal agenda for the next 12 months. Get to know the first milestones on https://t.co/lhupYV9yIu and join our Discord server to stay in the know for future milestones.
+
+#ethereum #swarm",101,61,22,2021-12-13
+401,2021-12-15 12:52:51+00:00,1471100944775532550,ethswarm,"Gather, Swarm! Join the winter solstice event to celebrate a successful end of the year with the #ethswarm team! There’s much to celebrate and even more to look forward to. More info will follow soon. 
+
+Don’t forget to RSVP to the event. https://t.co/NocLP4XZ7u",22,5,5,2021-12-15
+403,2021-12-21 18:05:11+00:00,1473353871900790798,ethswarm,"The official part is over and thank you to all who attended! We can now enjoy ourselves in a more relaxed setting in Gather Town. Stroll around, talk to the team and each other, or explore. Enjoy your evening.
+ 
+#ethswarm #Ethereum",24,13,6,2021-12-21
+414,2021-12-24 10:12:56+00:00,1474322188710916100,ethswarm,"The Swarm network is starting to fill up, and the price of storage is thus increasing.
+Top up your postage stamps to ensure your content is retained by Swarm! 
+Find out how in the Bee Docs: https://t.co/Pf0tICDBbI",28,4,8,2021-12-24
+417,2022-01-07 12:40:23+00:00,1479432726981890052,ethswarm,"Winamp now lives in #ethswarm and has superpowers that take it beyond a mere music player! Think a #decentralised community streaming service, a powerful voice for artists in oppressive regimes, an NFT or... There are no limits. 
+Read more:
+https://t.co/2ZJor7zT5K",69,9,20,2022-01-07
+418,2022-01-13 10:14:37+00:00,1481570371195355137,ethswarm,"Join the team creating the future of decentralised storage and communication #ethswarm
+
+To read more about the available positions and apply, follow the link below: 
+https://t.co/0psJIE7KhO",36,10,11,2022-01-13
+419,2022-01-31 09:01:12+00:00,1488074875990421506,ethswarm,"Here is a nice and short explanation of what #ethswarm is, how Bee nodes behave and how it all comes together. The text is a recap of @Eknir's talk at last years EthCC. It's a recommended read for people who are less technical and want a brief overview.
+
+https://t.co/dOqEXVCp4N",44,7,16,2022-01-31
+420,2022-02-09 08:00:02+00:00,1491320976927498246,ethswarm,"Development Update — December 2021 &amp; January 2022 
+
+Read the post for all the latest news, events, and updates on #ethswarm 👇
+
+https://t.co/3IljrYiyGv",27,3,9,2022-02-09
+421,2022-02-10 15:34:52+00:00,1491797826065502222,ethswarm,"v1.4.2 &amp; v1.4.3 are now live 🎉
+
+There are no breaking changes, but it's strongly advised that you update your nodes as soon as possible to take advantage of new features, fixes, and other improvements. 
+
+Full details:
+https://t.co/ZjC5NcV3vw
+https://t.co/kZbmuXw7KX",27,5,6,2022-02-10
+422,2022-02-14 12:40:30+00:00,1493203496954433539,ethswarm,Join @NordicGame &amp; #ethswarm at #WeAreMillions https://t.co/ONd2Ot4mOe,25,1,6,2022-02-14
+424,2022-02-15 09:37:14+00:00,1493519761292115968,ethswarm,"An introduction to #ethswarm by @thebojda
+
+Learn about the unique features of Swarm and what makes it different from other storage solutions 👇 https://t.co/QnuphhKUOc",31,3,9,2022-02-15
+425,2022-02-17 08:41:15+00:00,1494230451359293441,ethswarm,"Join #WeAreMillions, join the Resistance https://t.co/kCkAZh6jQI",23,0,4,2022-02-17
+427,2022-02-18 20:30:00+00:00,1494771201826181120,ethswarm,"""We’re in the final stages of writing FairOS running in WASM. This means client side FairOS can interact with bees on local networks or over gateways. Apps can use Swarm storage as a directory/file system seamlessly."" - @AngelaVitzthum #EthDenver #ethswarm",30,3,12,2022-02-18
+434,2022-02-19 19:27:42+00:00,1495117910876073987,ethswarm,"1/5 Milestone 1: Host Unstoppable &amp; Immutable Content on Swarm 
+
+""Upload &amp; download content such as websites or even NFT meta-data that is optimized and more importantly reliable. This body of work is implemented across all Swarm products""@AngelaVitzthum #EthDenver #ethswarm",38,10,11,2022-02-19
+439,2022-02-21 11:14:00+00:00,1495718441633951744,ethswarm,"To fully understand Swarm, you need to understand Swarm's bandwidth incentives.
+
+In this blog post, @EknirNL, from Swarm's research team,  gives you a better understanding of why Swarm works the way it does.
+
+A must read for node operators &amp; Swarm users 🐝
+https://t.co/Tx4wHrpOGs",25,5,12,2022-02-21
+440,2022-02-22 10:30:00+00:00,1496069756364865539,ethswarm,Game #devs share your games with us at #WeAreMillions https://t.co/rKZS93AxmR,15,2,6,2022-02-22
+441,2022-02-23 10:15:00+00:00,1496428370090995716,ethswarm,"With the Ethereum blockchain as the CPU of the world computer, Swarm is best thought of as its """"hard disk"""". - Viktor Trón (@zelig), Team Lead at Swarm
+
+Read on 👇
+https://t.co/F3TT8xRbuY",49,14,16,2022-02-23
+442,2022-03-01 09:12:22+00:00,1498586937430532097,ethswarm,"Don't miss the opening day today starting at 17:00 CET 
+
+#WeAreMillions https://t.co/e7eEzVO1GU",16,1,3,2022-03-01
+443,2022-03-02 12:27:59+00:00,1498998551682166789,ethswarm,"#ethswarm's tech lead @zeligf will be taking the digital stage first at 17:00 CET with his talk ""Swarm as a platform for a self-sovereign digital society."" https://t.co/yjYma9vGnd",15,2,4,2022-03-02
+446,2022-03-03 17:05:26+00:00,1499430762357170180,ethswarm,"""Privacy is a long term investment. It has a cost and just like freedom, freedom isn't free"" - @jbaylina at #WeAreMillions Privacy as a core value of #Web3 Panel
+
+Live now: https://t.co/Vd4rmdUuTQ",17,2,7,2022-03-03
+453,2022-03-04 12:57:06+00:00,1499730654631759876,ethswarm,"Musicians don't be left behind. Embrace #web3
+
+#WeAreMillions https://t.co/vczb9BYKlX",23,1,5,2022-03-04
+454,2022-03-07 14:18:02+00:00,1500838184523079688,ethswarm,"#WeAreMillions bounties
+
+Here's one for the #devs: Best Web2 App Using Swarm Decentralized Storage
+
+This challenge is about porting or developing a new web2 app, to use Swarm decentralized storage for its backend
+
+Full details: https://t.co/BOMA76cYFP",22,2,8,2022-03-07
+455,2022-03-08 12:09:09+00:00,1501168139161198596,ethswarm,"#WAM Bounties 
+
+Here's a bounty for the artists
+
+Publish your art on Swarm. This can be an image, song, or video that reflects the state of the relevant issues in the world, society or even technology.
+
+Full details: https://t.co/hX84PNxoOs",14,1,4,2022-03-08
+458,2022-03-09 13:57:20+00:00,1501557751444656134,ethswarm,"#WAM Bounty of the day 
+
+Best Upload Of Wikipedia Mirror To Swarm
+
+For this bounty, the challenge is to create a read only version of Wikimedia on #ethswarm
+
+Full details:https://t.co/WvaSmDQU0e",9,1,4,2022-03-09
+460,2022-03-10 14:25:38+00:00,1501927261800333320,ethswarm,"#WAM Bounty of the day 
+
+Best game using #ethswarm storage
+
+This challenge entails making a game or extending an existing one during the #WeAreMillions #hackathon, to use Swarm decentralised storage as the backend storage
+
+Full details 👇
+https://t.co/Dj859NmM3y",15,2,4,2022-03-10
+462,2022-03-12 13:59:09+00:00,1502645372082176008,ethswarm,"#WAM Bounty of the day 
+
+Best Demonstration Of Data Interoperability Using #Ethswarm Decentralised Storage
+
+This challenge entails convincingly demonstrating an interoperable use of data stored on Swarm
+
+Full details 👇
+https://t.co/a9FtvPDje1",25,4,7,2022-03-12
+463,2022-03-14 11:27:05+00:00,1503331879134638080,ethswarm,"Want to learn more about how to operate a bee node?
+
+The #ethswarm team will be hosting a workshop at the #WeAreMillions #hackathon to teach you how to run your bee node 🐝
+
+⏰ Begins 17:30 CET / 12:30 ET
+
+Watch live 👉 https://t.co/Mmn3Dyxdhu",22,2,10,2022-03-14
+465,2022-03-17 11:59:02+00:00,1504427084524965891,ethswarm,"#WAM Bounty
+
+Most Inspiring Game Using Resistance
+
+This challenge is about building a game using the NFTs minted inside Resistance - demonstrating openness and interoperability
+
+Full details 👇
+https://t.co/b6NRHzIt7T",9,0,3,2022-03-17
+467,2022-03-18 08:31:12+00:00,1504737168031469592,ethswarm,"Remember the old school mp3s? If you do, then there's a good chance you know Winamp.
+
+Winamp's back, but with new powers on #ethswarm
+
+New Winamp is decentralised and censorship-resistant. It's now an unstoppable #DAPP living on Swarm. 
+
+Read on 👇
+https://t.co/RtW2yToTsE",33,3,10,2022-03-18
+469,2022-03-21 10:37:20+00:00,1505856076595539975,ethswarm,"The Winners of the @gitcoin #WeAreMillions #Hackathon bounties will be announced today at the #WAM closing event: Exit through the DAO
+
+⏰ 18:00 CET / 13:00 ET
+
+Watch live 👉 https://t.co/bjy7mDyS4E https://t.co/vWfWvrQmL1",26,3,7,2022-03-21
+470,2022-03-24 12:22:27+00:00,1506969690953949185,ethswarm,"Hacking with Swarm and Bee-js 🐝
+
+Although the #ethswarm ecosystem is young, there are still plenty of cool utilities, apps, and uses cases for Swarm
+
+Such as using Swarm for storing app logs
+
+Read on to learn about more ways you can hack with Swarm
+
+https://t.co/KXFyG5hIv6",22,7,9,2022-03-24
+471,2022-03-25 07:56:13+00:00,1507265082354511873,ethswarm,"Bee-js v3.3.2 release: supports Bee version 1.5.0, small improvements &amp; bug fixes
+
+🔌Node endpoint
+Ultra-light mode has been added to the existing BeeModes.
+
+🧱EcmaScript Modules
+Resolves some of the reported issues &amp; broken builds
+
+Full details: https://t.co/PxC0zM13Op",27,6,11,2022-03-25
+472,2022-04-04 13:12:35+00:00,1510968576106237965,ethswarm,"What issues are decentralised storage solutions facing? What is your plan to make data unstoppable? 
+
+Gregor (@jssr) answers these questions and more in his interview with @CoinCodex
+
+Read the full interview: https://t.co/cQHfz9oyi1""",38,10,12,2022-04-04
+473,2022-04-06 06:43:13+00:00,1511595364759052289,ethswarm,"Monthly Development Update — March 2022
+
+Stay up to date with what's happening with #ethswarm
+
+See what each track has been up to in the full update 👇
+
+https://t.co/9KpiKPGsOe",20,7,5,2022-04-06
+476,2022-04-07 14:58:26+00:00,1512082376049901570,ethswarm,"The #ethswarm Bee team is proud to announce the latest release: V1.5 
+
+🐝 v1.5 introduces an entirely new data storage format called 'Sharky' 
+
+⚠️ No breaking changes. Your data will automatically be migrated to the new client
+
+Full update notes:
+https://t.co/uOJ5YiWoC7",31,7,12,2022-04-07
+477,2022-04-08 09:44:36+00:00,1512365784504442884,ethswarm,"#WAM Run your Bee node 
+
+At the recent #WAM #hackathon #ethswarm team member gave a preview of the upcoming Light Bee Node—which makes it effortless for anyone to set up and run a Swarm node
+
+Watch the full clip to learn more
+https://t.co/iI9t0wypqA",19,6,9,2022-04-08
+478,2022-04-11 10:12:56+00:00,1513460079445659655,ethswarm,"ICYMI: Don't be left behind. Upgrade your Bee nodes as soon as possible.
+
+Existing data must be migrated to the 1.5 client. This will happen automatically but may require extra space. 
+
+If you need any assistance, join the discord community  — https://t.co/hjIdPRqbma https://t.co/1nlEhHqV5J",23,1,5,2022-04-11
+479,2022-04-13 13:52:22+00:00,1514240076926132226,ethswarm,"A new version (3.3.4) of #ethswarm bee-js was released! 🐝
+
+This is a small patch release that brings support for the new Bee 1.5.1 release and two small bug fixes 🧰
+
+Read the full notes: https://t.co/pbamXNBbGY",21,5,8,2022-04-13
+480,2022-04-21 08:55:56+00:00,1517064583130886144,ethswarm,"Permissionless publishing and decentralised front-ends: Host unstoppable content on Swarm 💾
+
+Make your content censorship-resistant with #ethswarm 🐝
+
+Learn how you can host your own website on Swarm &amp; more 
+👉 https://t.co/iI9t0wypqA",29,3,10,2022-04-21
+481,2022-04-27 13:27:39+00:00,1519307287705395200,ethswarm,"An old but gold interview with #ethswarm team lead @zeligf from #devcon 2016! 
+
+Viktor shares how he got involved with #Ethereum, how his time at the Ethereum Foundation gave birth to the idea of #ethswarm, and much more 
+
+Watch the full interviews:
+https://t.co/7eectU4cRj",18,10,6,2022-04-27
+482,2022-05-03 17:10:34+00:00,1521537714142814208,ethswarm,"April's Monthly Development Update will be coming soon. In the meantime, catch up on what happened in March 👇 👇 https://t.co/7FlGXJnoYM",16,1,7,2022-05-03
+483,2022-05-05 13:30:55+00:00,1522207211484708866,ethswarm,"#ethswarm's tech lead @zeligf's interview with @hackernoon—The Future of the Internet: Privacy, Censorship, and Equality 
+
+Viktor shares his insights on Swarm &amp; how #ethswarm is crucial for the future of the decentralized internet
+
+Read the full article👇
+https://t.co/4kLGIXdk98""",22,6,14,2022-05-05
+484,2022-05-06 11:00:46+00:00,1522531814908248066,ethswarm,"Software Developer (Go, Kubernetes, Grafana) Swarm Research Team: The research team is looking for an all-round technical profile
+ 
+To apply 👉 https://t.co/swtMPWP4kN",4,0,3,2022-05-06
+493,2022-05-10 07:34:14+00:00,1523929391595667457,ethswarm,"#ethswarm co-founder Daniel Nagy's interview with @bitcoinist—Decentralised Data Storage: A Fairer Economy for Web 3.0
+
+How Swarm can provide the infrastructure for #web3, what makes Swarm stand out from other decentralised projects &amp; much more 
+
+Read 👇
+https://t.co/wmYKbSu9OQ",16,3,9,2022-05-10
+494,2022-05-12 08:10:53+00:00,1524663388730765312,ethswarm,Join #ethswarm co-founder @zeligf alongside other founders for a rare live conversation about all things #web3 &amp; decentralised storage https://t.co/YztuggHcr8,17,3,7,2022-05-12
+495,2022-05-13 14:28:33+00:00,1525120819197886465,ethswarm,"New and Improved Bee UX Coming Q2
+
+Check out this new blog post for an overview of Swarm Foundation's upcoming goals and the current status of each goal 
+
+https://t.co/W8Q6Mt0cCH",16,4,7,2022-05-13
+496,2022-05-17 11:19:42+00:00,1526522843672023040,ethswarm,"⚠️ The Bee team has just released Bee v1.6! Please update your nodes! ⚠️
+
+You will need to resync your blockchain after installing this version, so please let it run and do not interrupt it.
+
+Read the full blog post 👇
+https://t.co/WDpCMmYRMk",17,2,7,2022-05-17
+499,2022-05-19 14:30:00+00:00,1527295511710994442,ethswarm,"📣 Starting in 30 minutes!! ➡️ #SwarmCommunityTalks storage incentives AMA
+
+Join the AMA here 👇
+https://t.co/1aDv63yUYs",12,1,6,2022-05-19
+502,2022-05-20 10:58:04+00:00,1527604563406102528,ethswarm,"New version of Bee-js was released (4.0.0)!
+
+This release brings several new features &amp; fixes to Debug API in Bee 1.6.
+
+💮 ENS support
+🗂 Get Feed's specific updates
+🧰 New method: Bee.isFeedRetrievable()
+⚠ BREAKING CHANGES
+
+And more. Read the release 👇 https://t.co/fZrIodbqlt",26,0,8,2022-05-20
+503,2022-05-27 10:43:53+00:00,1530137709007839236,ethswarm,"New and improved #ethswarm Bee documentation 
+
+As the Swarm Foundation continues to improve the Swarm network, its documentation is also being updated. It's an ongoing process to ensure that the documentation is always up-to-date.
+
+Read the doc 👉 https://t.co/vSMUAtS86Q",19,4,9,2022-05-27
+504,2022-05-30 12:39:56+00:00,1531254081423036421,ethswarm,"New version of Bee-js was released v4.1.0
+
+This release includes many new features and improvements as well as fixes for several bugs
+
+✅ verified the support for Node 18
+⏳ New option waitForUsable
+🔐 Wallet endpoint support
+
+Read the full release notes
+https://t.co/GP5LdfTG3j",25,1,8,2022-05-30
+505,2022-06-02 10:16:18+00:00,1532305096872280073,ethswarm,"The Bee team has just released V1.6.1 🐝
+
+🧰 This new release has multiple fixes
+🚫 No breaking changes
+
+You can read the full release notes here 👇
+ https://t.co/zhEMvpN2f7",19,1,8,2022-06-02
+506,2022-06-03 09:51:18+00:00,1532661194758230019,ethswarm,"Come join the Swarm Foundation team for an evening of pizza, drinks and discussions about #web3 decentralised web storage🐝
+
+Tuesday - June 7, 6 PM, Paralelní Polis, Prague
+
+#ETHPrague https://t.co/ESeIiVGJhA",24,2,7,2022-06-03
+507,2022-06-05 19:10:24+00:00,1533526669050400768,ethswarm,"Swarm Foundation meetup at @EthPrague
+
+@vojtechsimetka will speak on Decentralised Storage, Swarm and Web 3.0
+
+ After the talk, there will be an informal get-together with members of Swarm Foundation in a nearby pub
+
+🗓️ June 7, 6 PM
+📍 Paralelní Polis
+https://t.co/O24bHyCm8R",19,0,5,2022-06-05
+508,2022-06-06 14:50:27+00:00,1533823640344616962,ethswarm,The first #WAM Session is happening today! https://t.co/T8gMF607pV,13,1,5,2022-06-06
+509,2022-06-07 13:54:46+00:00,1534172014122082309,ethswarm,"Meetup in Prague is happening today 
+
+@vojtechsimetka from Swarm Foundation will give a talk — Decentralised Storage, Swarm &amp; Web 3.0
+
+After the talk, there will be an informal get-together with Swarm Foundation members in a nearby pub
+
+🗓️Today 18:00-19:30
+https://t.co/O24bHyCm8R",15,1,5,2022-06-07
+511,2022-06-08 11:42:58+00:00,1534501232810803200,ethswarm,Let's make #Wikipedia unstoppable https://t.co/bXO67lqpts,20,0,5,2022-06-08
+514,2022-06-10 10:01:23+00:00,1535200445538390016,ethswarm,"1/2 Join us on 21 June 2022 at 16:00 CET at an online event and share the excitement as we gather to announce a special release that will mark a major stepping stone for the #ethswarm network.
+ 
+#ethprague #Ethereum",30,2,10,2022-06-10
+516,2022-06-11 09:02:52+00:00,1535548108901388288,ethswarm,"Today at #EthPrague, Daniel Nagy, Swarm Foundation's chief scientist,will be speaking about—Incentives for Decentralised Storage #ethswarm
+
+Daniel will discuss a proposed solution for EVM-based blockchains
+
+🗓️17:00-17:20 CET
+📍@ethprague @Paralelni_polis",18,1,7,2022-06-11
+519,2022-06-12 08:28:58+00:00,1535901962629173249,ethswarm,"Viktor Tron (@zeligf), the project lead at Swarm Foundation, is speaking at #EthPrague today about the Data Economy 
+
+⏰11:30 - 12:00 CET
+📍@ethprague @Paralelni_polis Institute of Cryptoanarchy",31,38,6,2022-06-12
+521,2022-06-16 13:43:17+00:00,1537430614999085064,ethswarm,"Onwards, Swarm!—programme &amp; schedule
+
+Everything is ready for the Onwards, Swarm! event on 21 June 2022. Watch the YouTube livestream at 16:00 CET for the latest updates on the Swarm network
+
+Click the link below for details about the programme &amp; schedule
+https://t.co/MjJPrQHMNu",12,0,4,2022-06-16
+522,2022-06-20 07:50:25+00:00,1538791366406414338,ethswarm,"Onwards, Swarm! 🐝
+
+Tomorrow will be a big day, with lots of exciting announcements.
+
+🗓️ 21 June 
+⏰ 16:00 CET
+
+Add the event to your calendar: https://t.co/cdMTqAyDgJ
+
+Schedule 👇 https://t.co/8kecfT8ASm",19,5,3,2022-06-20
+525,2022-06-21 09:45:04+00:00,1539182605697884160,ethswarm,"Today’s the day — Onwards, Swarm! 🐝
+
+A lot of cool stuff to expect, including an important stepping stone on #ethswarm’s journey and a 50k #DAI prize announcement.
+
+⏰ 16:00 CET 
+Don't miss the event. Add it to your calendar now: https://t.co/cdMTqAQe8h https://t.co/vD7j1CorKr",18,2,6,2022-06-21
+530,2022-06-22 10:32:22+00:00,1539556897463930880,ethswarm,"@goldbxing Thanks for your feedback. Are you in the Discord community?  You can get direct support from the devs there https://t.co/tG6crQYYKh
+
+Please keep in mind that this is the beta version. It's not the final version.",0,2,0,2022-06-22
+534,2022-06-23 03:26:24+00:00,1539812085982547970,ethswarm,"1/ Why Swarm Desktop (Beta)?
+
+Read on 🧵👇 https://t.co/bb4VGJyl0e",35,2,17,2022-06-23
+542,2022-06-27 11:16:11+00:00,1541379862815854592,ethswarm,"Missed Onwards, Swarm!? 
+
+Watch the full event on YouTube. Each section is timestamped.
+
+• Desktop App presentation 
+• Demo
+• Fair Data Protocol presentation
+• FDP Ecosystem 
+• We Are Millions
+• #Wikipedia On Swarm 
+• Fireside chat @zeligf @jssr
+
+https://t.co/6TmdRDkCCq",20,0,7,2022-06-27
+543,2022-06-28 09:46:59+00:00,1541719804788490240,ethswarm,"How to upload data to the Swarm network using Swarm Desktop (Beta) 🐝 💾
+
+• What are postages stamps
+• How to buy postage stamps 
+• How to upload data to Swarm
+
+Learn how easy it is to upload data to Swarm 👇
+https://t.co/78b8gk9rFL",16,0,6,2022-06-28
+544,2022-06-29 02:55:13+00:00,1541978565511905280,ethswarm,"If you have any questions or need assistance with Swarm Desktop (Beta), please join the Swarm Discord server. The team is always happy to help.
+
+https://t.co/nPoB9GRc7O",15,1,4,2022-06-29
+546,2022-06-30 01:38:54+00:00,1542321748502163459,ethswarm,"New Bee Release 🐝
+
+The Bee team is excited to announce the latest release v1.6.2. This release consists of some new features, performance recalibrations and bug fixes. 
+
+For full details: https://t.co/rAm5R4Dl8L",29,0,7,2022-06-30
+550,2022-07-01 09:00:26+00:00,1542795253643907072,ethswarm,@NikosFotiou5 Staking isn't being worked on. You can view the Swarm Foundation's milestone here. https://t.co/FCIMDBNpZD,0,0,0,2022-07-01
+552,2022-07-03 10:08:22+00:00,1543537125571715072,ethswarm,"The June Monthly Development Update is coming soon! But if you haven't read the May update yet, check it out now and stay up to date with #ethswarm 🐝💾 
+
+https://t.co/RkRlembxYF",17,1,3,2022-07-03
+553,2022-07-04 02:54:10+00:00,1543790241810485248,ethswarm,"@zcoin19 @vojtechsimetka Swarm is still alive, growing, and building! Web3 needs decentralised storage. The plan is for Dapps to use Swarm for decentralised storage.",1,1,0,2022-07-04
+554,2022-07-05 11:43:10+00:00,1544285755328974849,ethswarm,"If you're interested in following Swarm's development closely, you can follow Ethersphere on Github. 
+
+https://t.co/oN2bkRw0tn",23,3,6,2022-07-05
+555,2022-07-06 02:05:54+00:00,1544502872057909248,ethswarm,@goldbxing It's being worked on.,0,3,0,2022-07-06
+558,2022-07-07 13:22:00+00:00,1545035405510475777,ethswarm,"Monthly Development Update —June 2022
+
+Swarm Desktop (Beta) release went hand in hand with other tracks' continuous hard work. Bee Track is already up to its 1.6.2 version of the Bee client &amp; there's great news from the Research Track!
+
+Read the update 👇
+https://t.co/d3Cznd46Q1",19,0,5,2022-07-07
+559,2022-07-08 14:38:33+00:00,1545417057998495744,ethswarm,"Swarm, for everyone 🐝💾
+
+It's now easier than ever to join the Swarm network
+
+Set up a lightweight Swarm node on your computer in just a few clicks
+
+Install Swarm Desktop (Beta): https://t.co/RuuKh5yBuq",20,3,5,2022-07-08
+560,2022-07-10 13:48:04+00:00,1546129127492976641,ethswarm,"Help shape Swarm Desktop (Beta) 🐝 💾
+
+Community feedback is important. Join the Swarm Discord &amp; let us know about your experience with Swarm Desktop (Beta) &amp; how it could be improved 
+
+👉 https://t.co/uXwxYs94Lk https://t.co/4JfFF0Vcrg",10,2,5,2022-07-10
+561,2022-07-11 02:50:07+00:00,1546325937905537024,ethswarm,@toygirl6280 Many people have already installed it. Swarm Desktop (Beta) is one of the simplest ways to join web3!,1,0,0,2022-07-11
+564,2022-07-13 16:20:46+00:00,1547254719084904448,ethswarm,Devs contribute to the future of decentralised storage 🐝💾 https://t.co/3hsPHzBRQ9,13,0,6,2022-07-13
+566,2022-07-16 15:21:32+00:00,1548326977882320899,ethswarm,"Do you want to make an impact in #web3? Join the team creating the future of decentralised storage &amp; communication #ethswarm 🐝 💾
+
+Check out the full list of open positions below!
+https://t.co/0psJIDQ8Te",24,4,9,2022-07-16
+567,2022-07-19 10:51:30+00:00,1549346185520959488,ethswarm,"@DeLaRumpSteak @mp3sdoteth @ensdomains @BloomCapital_ There are a few open positions.
+https://t.co/0psJIDQ8Te",1,1,0,2022-07-19
+568,2022-07-21 10:11:22+00:00,1550060860110155776,ethswarm,"New Bee Release V1.6.3 🐝
+
+This release is mostly a patch release to fix some mainnet issues related to high CPU consumption of Bee nodes. Bee client now uses go1.18. 
+
+For full details, read the full release: 
+https://t.co/zqGsAcqwDn",14,0,6,2022-07-21
+570,2022-07-23 14:30:24+00:00,1550850825123086336,ethswarm,"Report Bugs 
+
+If you're having issues with your Bee node, get in touch with the Swarm Foundation 🐝
+
+Join the Swarm Discord and leave a message in the node-operators channel
+
+https://t.co/lpa0fYgqKn",9,1,3,2022-07-23
+571,2022-07-26 14:45:52+00:00,1551941878790049792,ethswarm,"User feedback—Swarm Desktop (Beta) 🐝💾
+
+Inside Swarm Desktop (Beta), there's an option to send feedback. Open Swarm Desktop (Beta), and on the bottom left-hand corner click ""Send feedback""
+
+Let us know what you think about Swarm Desktop (Beta) and how it could be improved!",19,4,5,2022-07-26
+572,2022-07-27 08:18:48+00:00,1552206859574001664,ethswarm,@goldbxing Do you mean storage incentives? The team's working hard on it!,2,0,0,2022-07-27
+575,2022-07-28 10:01:17+00:00,1552595038000930816,ethswarm,Tune in today to get the latest updates from the Swarm Foundation 🐝 https://t.co/5i2L0j66L8,8,1,2,2022-07-28
+576,2022-08-04 13:56:26+00:00,1555190930688610307,ethswarm,"The community helps make Swarm Desktop (Beta) better
+
+Based on feedback from the community, the installation flow has already been improved, and the team has added an automatic update feature 
+
+More updates to come. Keep giving feedback! https://t.co/TYvTTRMHFL",11,1,3,2022-08-04
+577,2022-08-05 14:40:46+00:00,1555564476363329537,ethswarm,"Monthly Development Update — July 2022
+
+July has been one of the busiest months this year for all tracks involved in the development of the Swarm network and its ecosystem
+
+Read the full updates from each track 👇
+https://t.co/hbhgqMs5V0",17,0,5,2022-08-05
+578,2022-08-08 03:05:31+00:00,1556476673016893440,ethswarm,Your feedback improves Swarm 🐝 https://t.co/LZoXQPSt28,11,1,2,2022-08-08
+580,2022-08-09 02:25:05+00:00,1556828884745998336,ethswarm,@StackDotMoney The Reddit link on your page is incorrect. It should be https://t.co/WsYBUuzyt3,1,0,0,2022-08-09
+581,2022-08-10 14:34:34+00:00,1557374855082692609,ethswarm,"Are you new to #ethswarm? 
+
+To get started with your Bee node and join the Swarm, read through the Bee documentation
+https://t.co/4Z38FjCsSU",13,3,5,2022-08-10
+582,2022-08-11 05:28:07+00:00,1557599724106301440,ethswarm,"@sanydreamer Yes, it's possible. If you need support, join the Swarm Discord 
+https://t.co/9hS3nRKVw6",0,0,0,2022-08-11
+583,2022-08-12 13:42:38+00:00,1558086560968351744,ethswarm,ICYMI: Provide feedback on Swarm Desktop (Beta) 🐝💾 https://t.co/TYvTTS3KHL,9,1,2,2022-08-12
+584,2022-08-15 08:43:59+00:00,1559098565116719104,ethswarm,"📣 Don't miss the Monthly Ecosystem Call - 25 August
+
+There will be updates on Swarm Desktop (Beta) from the Bee Product lead &amp; updates on the development of Swarm network storage incentives from Swarm Foundation's Chief Science Officer 
+
+Add to calendar https://t.co/zXqLnGvF3l https://t.co/F0yddoGN5r",8,3,3,2022-08-15
+585,2022-08-16 13:55:06+00:00,1559539248289947648,ethswarm,"ICYMI: Monthly Development Update—July
+
+One of the biggest Monthly Development Updates to date!
+
+🐝New version of Bee-Js &amp; improved Bee Dashboard 
+🐝Improvements to the installation &amp; upgrade flow of Swarm Desktop (Beta) 
+
+And more! Read the full update👇
+https://t.co/2JY5Uziu2J",6,4,3,2022-08-16
+586,2022-08-17 07:11:10+00:00,1559799985205825544,ethswarm,@MuteDialog It's not for browsing. Think of Swarm Desktop (Beta) as a personal gateway to the Swarm network. Simplest way to join Web3 and use decentralised storage.,2,1,0,2022-08-17
+589,2022-08-20 14:38:35+00:00,1560999742867312643,ethswarm,"📢 Monthly Ecosystem Call — 25 August 17:00 CET
+
+Do you have questions about Swarm's storage incentives? 
+
+Swarm Foundation's Chief Science Officer will be giving an update on the development of the Swarm network storage incentives
+
+The call will happen on Swarm's Discord👇 https://t.co/dSTXSXeghN",21,1,7,2022-08-20
+591,2022-08-22 16:09:50+00:00,1561747483864473600,ethswarm,"🗓️ The Swarm Monthly Ecosystem Call is only days away ‼️
+
+🐝 Lates updates on Swarm network storage incentives w/ Chief Science Officer Daniel Nagy &amp; Research team member Callum Toner
+
+There will also be post-call discussions, giving you an opportunity to ask questions https://t.co/8B6PZHCxaI",20,4,3,2022-08-22
+592,2022-08-23 02:48:40+00:00,1561908251004121088,ethswarm,"@goldbxing Yes, there will be a recap.",3,0,0,2022-08-23
+593,2022-08-24 14:46:57+00:00,1562451401103769601,ethswarm,"The Monthly Ecosystem Call is tomorrow — 25 August 17:00 CET
+
+Storage incentives - what, when &amp; how
+
+Following the updates, there will be a Q&amp;A. This is your chance to get the answers directly from the team building the network
+
+Join Swarm's Discord 👇
+https://t.co/AOAwXFXvEq https://t.co/X5549qHtSQ",15,4,5,2022-08-24
+594,2022-08-25 15:05:02+00:00,1562818339994423297,ethswarm,"The Monthly Ecosystem Call is starting now
+
+Join the call to hear the latest updates on Swarm's storage incentives &amp; Swarm Desktop (Beta)
+👉https://t.co/9hS3nS1Yy6 https://t.co/vqmItSbOeO",6,2,3,2022-08-25
+600,2022-08-26 08:44:28+00:00,1563084955160571906,ethswarm,"Don't worry if you missed yesterday's Monthly Ecosystem Call, there will be a blog post recap of the event https://t.co/qIkXkwdp58",16,1,5,2022-08-26
+602,2022-08-29 02:28:00+00:00,1564077378250297345,ethswarm,@0xzcoin You must have been banned. DM us your Discord username.,0,1,0,2022-08-29
+603,2022-08-30 13:05:46+00:00,1564600262630600707,ethswarm,"Can't make it to @ETHWarsaw? You can watch the presentations from the Swarm Foundation &amp; Association meetup on YouTube
+
+Storage incentives — the missing piece to make blockchains complete
+
+🗓️ 1 September 
+⏰ 19:00 - 19:30 CET
+
+Watch via the link below👇
+https://t.co/K4DJG9xofX",23,2,9,2022-08-30
+604,2022-08-31 03:52:22+00:00,1564823382788808705,ethswarm,Join us for an evening of good vibes and exclusive updates https://t.co/yhfojoVEJD,12,1,4,2022-08-31
+605,2022-09-01 08:17:48+00:00,1565252569269555205,ethswarm,"Swarm Meetup TODAY in Warsaw 18:30 CET #EthWarsaw  
+
+Storage incentives - the missing piece to make blockchains complete
+
+- Presentations on Swarm's Storage incentives 
+- PLUR vibes + networking 
+- Free beer &amp; pizza 
+
+For more details &amp; to RSVP 👇
+https://t.co/A6FuaI4ZxT",6,0,3,2022-09-01
+609,2022-09-02 07:33:48+00:00,1565603884030197761,ethswarm,@skymmmmj Not quite sure what you mean. The team's working incredibly hard on the storage incentives. It's no easy task!,0,0,0,2022-09-02
+612,2022-09-05 15:13:18+00:00,1566806687461257217,ethswarm,"Monthly Development Update—August 
+
+In August, the spotlight was on the upcoming storage incentives rollout. Bee &amp; JS Track have been working closely with the Research Track to get everything ready for the rollout
+
+Read the full updates from each track 👇
+https://t.co/6aAhAW5OiL",14,1,3,2022-09-05
+614,2022-09-06 09:51:19+00:00,1567088042325995521,ethswarm,"⚠️ Node Operators: Upcoming Breaking Changes
+
+A major update is coming. It will be a step forward for Swarm networks storage incentives 🐝💾
+ 
+There will be a breaking change release later this month.  You should prepare to upgrade your nodes quickly",16,2,7,2022-09-06
+616,2022-09-07 03:33:03+00:00,1567355238147039233,ethswarm,"Swarm Foundations Chief Science Officer @nagydanya will be talking about Swarm's recent developments at the rebooted @ethereum #Hungary #meetup on 8th September, Thursday in Budapest
+
+You can expect informative talks &amp; discussions 
+
+For more info &amp; RSVP👇
+https://t.co/xbxOsXYOOZ",11,0,7,2022-09-07
+620,2022-09-08 13:26:18+00:00,1567866920593940484,ethswarm,"If you have any questions or need support, join Swarm's Discord 👇
+https://t.co/9hS3nRKnGy",5,1,1,2022-09-08
+624,2022-09-09 06:40:47+00:00,1568127259923386368,ethswarm,"Won't be at @EthBerlin? You can watch the presentations from the Swarm #meetup on YouTube
+
+There will be talks on: 
+
+•Swarm Ecosystem update
+•Phase 1 of integrating the storage incentives
+
+🗓️ 14 September 
+⏰ 19:00 - 19:30 CET
+
+Watch via the link below👇
+https://t.co/3fcd5Nz2g1",17,5,5,2022-09-09
+625,2022-09-13 14:49:39+00:00,1569699838060789762,ethswarm,"⚠️ Breaking Release v 1.8.0
+
+The Swarm network is opening a new chapter in its history. Phase 1 of the incentives rollout begins today 
+
+Update your nodes to Bee v 1.8.0 to continue participating in the network. For any further details, head to Discord
+https://t.co/9hS3nRKVw6",21,4,9,2022-09-13
+627,2022-09-14 18:22:42+00:00,1570115841231814656,ethswarm,Now Q&amp;A time! Coming up: 🍕&amp; waiting for the Merge 🚀 https://t.co/NyvTW7SmMV,17,1,4,2022-09-14
+632,2022-09-15 13:48:54+00:00,1570409326820425729,ethswarm,"New Bee Release v1.8.1 🐝 
+
+🚨 Node operators need to upgrade as soon as possible 
+
+For more details, read the release notes 
+https://t.co/fkBC0lIGWq",12,1,3,2022-09-15
+633,2022-09-16 14:42:42+00:00,1570785253509464065,ethswarm,"Find the Freedom of Speech corner at the entrance of #EthBerlin and let’s have a chat about privacy, permissionless publishing or anything that you want to talk about - freedom is freedom https://t.co/yiv4WZlcll",21,2,4,2022-09-16
+634,2022-09-18 04:43:51+00:00,1571359321619058688,ethswarm,"Swarm Desktop (Beta) New Release v0.16.0 🐝 💾
+
+Several major internal improvements, new Bee 1.8 version &amp; dashboard improvements 
+
+Auto-updates on Mac &amp; Windows. Linux users have to upgrade manually
+
+For more details, read the full release notes👇
+https://t.co/WGsFNugzJN",18,1,8,2022-09-18
+635,2022-09-19 04:18:49+00:00,1571715408159444994,ethswarm,@fileverse @eking0x @culture3xyz @ArweaveTeam @FilFoundation @IPFS @samecwilliams @MartaBelcher @Filecoin @protocollabs @daniel2color Thanks for mentioning #ethswarm 🐝🐝,11,0,0,2022-09-19
+636,2022-09-20 13:21:58+00:00,1572214484122611718,ethswarm,"The Swarm Foundation is hiring 🐝
+
+Join the team creating the future of decentralised storage and communication 💾
+
+Explore open positions 👇
+https://t.co/13CRuW4qQK",19,1,8,2022-09-20
+637,2022-09-22 13:27:50+00:00,1572940739570700288,ethswarm,"We support @datalatte_ for building a #dApp on a mission to enable data-backed income. #Web3 can only be done together. Still, time left to give to great projects on @Gitcoin! 🐝 https://t.co/nqd5CJsECZ #GR15",8,1,4,2022-09-22
+682,2022-09-23 12:07:49+00:00,1573282987860688898,ethswarm,"Bee v1.8.2 🐝
+
+A minor release which contains bug fixes and a new accurate reserve size calculation method for the depthmonitor
+
+For more details, read the release notes
+https://t.co/oAvQuZzoBu",10,1,6,2022-09-23

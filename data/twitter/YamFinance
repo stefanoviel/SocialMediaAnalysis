@@ -1,0 +1,1162 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-08-03 18:18:03+00:00,1290351236860899328,YamFinance,🍠,107,23,17,2020-08-03
+1,2020-08-11 22:03:30+00:00,1293307076291289096,YamFinance,"SSL certificate has been added https://t.co/6LhQ2LPxiA
+Sorry for the delay folks.",185,22,11,2020-08-11
+17,2020-08-12 21:29:37+00:00,1293660940517416961,YamFinance,"There will be so much YAM printed that quorum will be impossible.
+
+🚨 If this happens, the YAM treasury will become ungovernable and these funds will be lost 🚨 
+
+This will happen on the next rebase at 8AM UTC, unless a proposal is submitted prior.",76,5,15,2020-08-12
+63,2020-08-13 03:46:17+00:00,1293755728163995648,YamFinance,🍠🍠🍠🍠🍠░░░░░░ 51.8% https://t.co/8QAmxHtCP1,154,17,21,2020-08-13
+98,2020-08-14 18:43:18+00:00,1294343858894118914,YamFinance,@tbr90 This is inaccurate.,3,0,0,2020-08-14
+105,2020-08-15 02:13:05+00:00,1294457052593561600,YamFinance,merged 🍠 https://t.co/7PCljrzNmF,84,4,6,2020-08-15
+106,2020-08-16 18:13:18+00:00,1295061085142290432,YamFinance,"#SaveYAM statistics:
+
+🗳️Total votes delegated: 302485 
+👥Addresses delegating: 3173
+🐳Share of votes delegated by largest holder: 2.57%
+
+1 vote = 1 pre-rebase YAM 🍠
+
+Check your delegated votes here: https://t.co/0fabmRTI5U",235,44,45,2020-08-16
+109,2020-08-18 15:47:57+00:00,1295749281765306369,YamFinance,"Migration contract audit in progress with @peckshield, to be completed in the next 24-48 hours.
+
+Following the audit, we will publish the report, deploy the migration contract, and enable migration through https://t.co/uKY1iFbNu7
+
+YAM holders will then have 72 hours to migrate.",394,49,100,2020-08-18
+113,2020-08-19 21:38:24+00:00,1296199864779505666,YamFinance,"@B33Crypto @Pacomoondog @tomuky @DeFi_Dad You should still have the option to “harvest &amp; unstake” on all pools. If it’s not showing up, try a page refresh",2,0,1,2020-08-19
+119,2020-08-20 20:49:11+00:00,1296549866349498370,YamFinance,"Due to the supply currently in the YAM reserve and the amount printed in a rebase due to the bug, positive rebases transactions will now always fail, due to safeMath's integer limits.
+
+No further positive rebases are possible, and no additional yCRV will be locked in reserve.",109,31,18,2020-08-20
+122,2020-08-21 19:55:15+00:00,1296898679589220354,YamFinance,"🚨There is approximately 20 hours until the deadline for YAMv1 to YAMv2 migration.🚨
+
+After 4:20PM UTC 8/22, you will not be able to migrate.
+
+See https://t.co/uKY1iFbNu7 to migrate.",89,33,11,2020-08-21
+123,2020-08-22 13:25:43+00:00,1297163038852816899,YamFinance,"Migration will end in 3 hours, at 4:20PM UTC.
+
+Please migrate your coins ahead of the deadline, as it will be impossible to migrate after.
+
+https://t.co/uKY1iFbNu7 and https://t.co/taYyKggaG1 are the easiest interfaces for migration.",96,23,21,2020-08-22
+126,2020-08-24 17:24:44+00:00,1297947966964150273,YamFinance,"To allow for YAM holders to remove liquidity from Uniswap and be eligible for voting at time of snapshot, voting on the team's initial proposals will begin at 9:00PM UTC today, August 24 –– in ~3.5 hours.",37,3,3,2020-08-24
+130,2020-08-25 20:58:46+00:00,1298364217205153799,YamFinance,"Since launching our governance portal, it's become clear that a forum for deeper discussion is necessary.
+
+You can join the conversation at https://t.co/nSmyW3FuHv",154,21,22,2020-08-25
+131,2020-08-31 00:57:14+00:00,1300236167988891649,YamFinance,"YAM interim governance is slated to conclude in approx. 24 hours.
+
+https://t.co/UcCzW5lt5m",163,21,21,2020-08-31
+132,2020-09-01 03:01:37+00:00,1300629859790618624,YamFinance,"The YAMv2 interim governance period has ended, and all future proposals will need to be ratified on-chain following the launch of YAMv3.
+
+For information regarding the YAMv3 launch, migration, rewards, incentives, and audit, please see below: https://t.co/wTX1zi1X4w",308,66,75,2020-09-01
+133,2020-09-14 18:30:55+00:00,1305574765982343169,YamFinance,"After a month of interim governance and auditing, YAM is set to relaunch on Friday, September 18. 
+
+Please see here for full information: https://t.co/1Mra5biT59
+
+You can view the audit here:
+https://t.co/VhITXIBIN3",549,65,136,2020-09-14
+134,2020-09-17 17:36:04+00:00,1306648125067718664,YamFinance,"YAM Replanting timing:
+
+- Migration will go live at 8PM UTC on Friday, September 18
+
+- Incentives to YAM/yUSD Uniswap pool will go live at 8PM UTC on Saturday, September 19
+
+- The first rebase can be called after 8PM UTC on Monday, September 21",182,27,44,2020-09-17
+136,2020-09-18 21:18:49+00:00,1307066572431818753,YamFinance,"YAM V2 governance voted to add support for the Uniswap YAM/ETH pool, but this is not yet supported due to an oversight in the deployment scripts.
+
+The rest of the system is functioning as intended. An on-chain proposal will be created ASAP to call sync() on the YAM/ETH pool.",23,5,1,2020-09-18
+152,2020-09-19 18:04:21+00:00,1307380020080513025,YamFinance,"Follow the relaunch of YAM on @coingecko 
+
+Incentives begin in 2 hours. 
+
+https://t.co/buLKG5k4zf",90,18,25,2020-09-19
+158,2020-09-20 01:24:10+00:00,1307490705175203840,YamFinance,@signonsridhar https://t.co/D0Bl9MTp2y,0,1,0,2020-09-20
+162,2020-09-21 20:02:54+00:00,1308134628511952902,YamFinance,"Some statistics on the first $YAM rebase!
+
+💰$571k in @iearnfinance yUSD added to the treasury
+🌈 $5.71k contributed to public goods via @gitcoin
+🍠 2.49x increase in YAM balances
+
+https://t.co/RLoRxIVUQF",177,17,41,2020-09-21
+167,2020-09-22 05:11:09+00:00,1308272600053817344,YamFinance,"The Guardian can cancel proposals deemed malicious by the community, such as those that allow a single actor to seize control over the YAM protocol.",31,4,1,2020-09-22
+170,2020-09-23 23:14:13+00:00,1308907554421039105,YamFinance,"There are two proposals currently up for voting on Snapshot:
+
+YIP-1: MaxSlippage Modification - https://t.co/vyqP1sdEVa
+
+YIP-2: RebaseLag Modification - https://t.co/BKZwCTJU5L",47,10,7,2020-09-23
+171,2020-09-25 20:33:12+00:00,1309591805218955264,YamFinance,"🌄 Days: 4
+🚀 Rebases: 8
+🌈 Donations: $23,300 https://t.co/oWR5ZTnnpP",108,8,22,2020-09-25
+172,2020-09-28 22:14:57+00:00,1310704577394757640,YamFinance,"The following proposals have been approved by off-chain governance. In ~24 hours, we will submit an on-chain proposal to deploy the contract updates.
+
+🚨 In order to participate in the vote, you must delegate your voting power. 🚨
+
+You can delegate via https://t.co/uKY1iFbNu7 https://t.co/DriAm2vOAk",28,11,7,2020-09-28
+174,2020-09-29 23:24:06+00:00,1311084366710403073,YamFinance,"The voting period will last for 48 hours from time of submission.
+
+If approved, it will enter TimeLock for 12 hours.",15,6,0,2020-09-29
+177,2020-09-30 15:30:28+00:00,1311327560387768320,YamFinance,"Protocol Initiatives:
+- LP Governance capabilities
+- Modify treasury purchase asset
+- Update liquidity incentives
+- RageQuit functionality
+
+Treasury Initiatives:
+- Diversify treasury holdings and reduce tail risk
+- Bug/Hack Protection Protocol",14,4,0,2020-09-30
+180,2020-10-02 21:54:38+00:00,1312149016029716482,YamFinance,"Proposals to be submitted: 
+
+ETH/YAM Treasury Purchase/Incentivization
+https://t.co/fN3ZlHv2GZ
+LP Voting Power
+https://t.co/Gc7ECaVxUc
+@defipulse Index @SetProtocol Purchase
+https://t.co/rIJlNBIpL9
+RageQuit Function
+https://t.co/byFfpbmGj2 (intent signaling only, details TBD)",18,4,2,2020-10-02
+183,2020-10-03 12:44:23+00:00,1312372928672129031,YamFinance,"RebaseLag and MaxSlippage have been modified on-chain.
+
+Future treasury purchases will now have a maximum market impact of 5%, rather than 10%, and YAM price will seek the target over 20 rebase periods (10 days) rather than 10 (5 days)
+
+https://t.co/JmB9Jj8HXk https://t.co/bHAaVEnkY7",32,9,6,2020-10-03
+187,2020-10-13 13:47:21+00:00,1316012653412663296,YamFinance,"A series of proposals are being submitted for Snapshot voting, starting at block 11048540 - approximately 5PM UTC in 3 hours.
+
+If you are LPing and would like to participate, please remove liquidity at that time.
+
+Proposals include contributor compensation and pausing LP rewards.",18,5,4,2020-10-13
+189,2020-10-14 22:55:59+00:00,1316513110421798912,YamFinance,"YAM will be having its first weekly community gov/dev call tomorrow, October 15, at 5PM UTC on our new Youtube channel!
+https://t.co/WQO7vPxHI2",30,4,7,2020-10-14
+195,2020-10-16 18:59:03+00:00,1317178260023877633,YamFinance,"The onchain proposal to pause LP incentives and sync the ETH/YAM @SushiSwap Pool has been queued for execution with 804k votes For and 272 votes against.
+
+After the 12 hour TimeLock, it will be executed.
+
+LP Rewards will be paused at 8PM UTC on Saturday, October 17.",30,11,6,2020-10-16
+196,2020-10-17 19:10:05+00:00,1317543424808128512,YamFinance,"Pause LP Incentives and ETH/YAM Sushiswap sync has been executed.
+
+It is now safe to provide liquidity for ETH/YAM on @SushiSwap 
+
+LP Rewards are will be paused at 8PM UTC today (in approximately one hour). 
+
+https://t.co/W1TZ7vY7mJ https://t.co/PqErCaITqc",17,7,3,2020-10-17
+197,2020-10-20 14:29:11+00:00,1318559897261363200,YamFinance,"📊 Sweet new dashboard up at https://t.co/bwgvjIX4Kp
+built by @x2Jade and @EthZashton",25,10,6,2020-10-20
+198,2020-10-23 21:35:58+00:00,1319754462194470914,YamFinance,"An on-chain proposal to purchase $250k of DPI has been submitted, you can vote at https://t.co/pCNmTIoXBH",30,1,2,2020-10-23
+199,2020-10-26 19:41:02+00:00,1320812702424535043,YamFinance,"This was one of our first major forays into diversifying the YAM treasury and expanding its capabilities, but we have more exciting developments ahead 👀",37,2,1,2020-10-26
+202,2020-10-30 19:57:20+00:00,1322266356100771845,YamFinance,"Onchain proposal submitted to purchase $250k ETH and to compensate 28 contributors who have helped build YAM over the past 3 months
+
+Vote here: https://t.co/pCNmTIoXBH
+
+Passing Snapshot Votes: 
+https://t.co/wZH8rVcVkq
+
+https://t.co/hiyXpFwzxp
+
+Proposal tx: https://t.co/gMujk0OEfy",18,5,1,2020-10-30
+203,2020-11-03 23:01:21+00:00,1323762215107907584,YamFinance,"A proposal has been submitted on-chain with the following updates:
+
+-Treasury purchase on ETH/YAM @SushiSwap pool
+-5k BoU YAM/week LP Rewards
+-Use SLP in Incentivizer to farm $SUSHI for treasury
+-LPs in Incentivizer can vote
+-ETH OTC purchase (resubmit)
+
+https://t.co/pCNmTIoXBH",25,5,2,2020-11-03
+204,2020-11-11 21:26:38+00:00,1326637481677217793,YamFinance,"LP rewards will resume tomorrow at 6PM UTC, totaling 5k balanceOfUnderlying YAMs per week!
+
+Now that we're using @SushiSwap for liquidity, we're also leveraging the deposited SLP tokens to earn $SUSHI for the YAM treasury.
+
+Deposit anytime at https://t.co/Vt3EnOeFlm https://t.co/BMIw528ii9",23,4,4,2020-11-11
+205,2020-11-12 17:56:13+00:00,1326946917763473410,YamFinance,"With the recent approval of the on-chain vote regarding ETH/YAM Purchase from Sushiswap and new Incentivizer contract, LP rewards are live at 6PM UTC and those LP stakers can vote in YAM governance 🥳
+
+https://t.co/MFpGeFCeGH",44,3,8,2020-11-12
+206,2020-11-13 17:55:06+00:00,1327309026019995654,YamFinance,"How's our @defipulse set purchase going? 🥳
+
+Purchase Price: $74.60
+Current Price: $91.47
++22.6% return, adding ~$56k in value to the YAM treasury
+
+Current treasury value: $2.8M🧑‍💼 https://t.co/dritQnPr0b",81,5,11,2020-11-13
+208,2020-11-16 23:50:45+00:00,1328485691408396300,YamFinance,"A new on-chain proposal has been submitted 🏦
+
+- Farm $INDEX with $DPI/ETH 
+- Create Contributor Vesting Pool for Long-term Incentives 
+- Monthly Allowance Governor Contract for contributor compensation
+
+Vote at https://t.co/pCNmTIoXBH
+
+Some cool features of each 👇",48,6,5,2020-11-16
+213,2020-11-17 00:05:14+00:00,1328489337730854914,YamFinance,"@JackLipstone @iDecentralized Probably just slow loading, it should still be there!",1,0,0,2020-11-17
+214,2020-11-20 16:24:49+00:00,1329823018273689601,YamFinance,"An on-chain proposal has been submitted:
+
+Reduce rebase mint percentage to 5%! This will decrease the amount of YAM sold on a positive rebase by half.
+
+The modification is a weighted avg of the below snapshot: https://t.co/t7mdAwxAcA
+
+Vote on-chain here: https://t.co/pCNmTIoXBH",21,3,5,2020-11-20
+215,2020-11-21 04:23:42+00:00,1330003934421856262,YamFinance,@yofigirl hop into our discord and you can get some better help there,0,1,0,2020-11-21
+216,2020-11-28 19:33:36+00:00,1332769632923553793,YamFinance,"We are excited to share the latest progress of our roadmap, including updates on:
+
+- @UmbrellaByYam  Alpha Development
+- YAM DAO Set with @SetProtocol  V2
+- @UMAprotocol OnChain Metric Derivatives
+
+https://t.co/kuN2iFAzVU",84,4,22,2020-11-28
+217,2020-12-01 03:15:57+00:00,1333610763240529921,YamFinance,We're excited for the emergence of DeFi Metric Derivatives! @UMAprotocol https://t.co/FPoiqUVaWX,37,2,3,2020-12-01
+218,2020-12-05 02:02:12+00:00,1335041752844087296,YamFinance,"We're having a vote on our Yam’s Mission Statement, the culmination of a four-part brand definition process on the Yam Discourse Forum!
+
+https://t.co/iEpoWZcZSs",32,5,4,2020-12-05
+220,2020-12-06 14:29:18+00:00,1335592155319054336,YamFinance,"Coingecko: https://t.co/buLKG5k4zf
+Yam Token contract: 0x0aacfbec6a24756c20d41914f2caba817c0d8521
+Yam Fam make sure you are selecting the right token, there are lots of fakes / V1 / V2 which are NOT correct",301,34,249,2020-12-06
+221,2020-12-08 19:20:27+00:00,1336390200180809729,YamFinance,https://t.co/WOWc4RlDWA,55,12,0,2020-12-08
+222,2020-12-09 07:17:35+00:00,1336570671707598850,YamFinance,https://t.co/akLGStIgZL,21,6,1,2020-12-09
+224,2020-12-10 17:17:09+00:00,1337083948690780169,YamFinance,"We're excited to announce a collaboration with @UMAprotocol and the creation of a new product suite: #DegenerativeFinance!
+
+These degen derivatives will begin with #uGas and expand into a variety of synthetics catered to the DeFi ecosystem.
+
+https://t.co/RRy1KpSFrP",92,7,22,2020-12-10
+225,2020-12-17 01:55:22+00:00,1339388689399619587,YamFinance,"2/2
+Voting and discussion will continue until December 22nd at 9:00 PM UTC.
+
+The conversation is happening here: https://t.co/IxlOsOJUQp and on our discord server: https://t.co/JeEPi7wOXr",8,1,0,2020-12-17
+227,2020-12-18 15:43:54+00:00,1339959584925036547,YamFinance,"Yam Fam! Ever wondered what Yam is up to?  We have weekly live governance calls every Thursday at 18:00 UTC on our Youtube channel. The next two (23rd and 30th) will be on Wednesday due to the holiday. Come join us!
+Here was our last one on 12/17/2020. 
+https://t.co/SUBkEUCoqj",22,1,5,2020-12-18
+228,2020-12-23 02:12:30+00:00,1341567327192682497,YamFinance,"We are excited to officially launch our collaboration with @UMAprotocol: Degenerative Finance.
+
+You can now access #uGas via https://t.co/ofKfg8wvd2, including the newly launched February and March futures.
+
+To learn how uGas works, check out our explainer https://t.co/cVTo4Bjjd9",128,2,29,2020-12-23
+229,2020-12-25 11:10:04+00:00,1342427386273550336,YamFinance,Wishing everyone a Happy Holidays and a Yammy New Year 💥 https://t.co/mV9nHSu8b4,59,5,4,2020-12-25
+230,2020-12-26 15:30:08+00:00,1342855221085675522,YamFinance,"Our latest #YamGovernance call! Watch for updates on:
+
+- #uGAS, built on @UMAprotocol, with a walkthrough of our new https://t.co/nA6tO8thKp site
+- @UmbrellaByYam testing
+- YAM DAO Set, our collaboration w/ @SetProtocol 
+- ending rebase + YamV2 migration
+
+https://t.co/6vAYoV6E5W",23,1,3,2020-12-26
+232,2020-12-29 03:21:21+00:00,1343758981169348610,YamFinance,"The on-chain governance vote to disable rebase has officially ended! ✔️  
+
+- 355K votes ""for"" 
+- 910 votes ""against."" 
+
+The proposal is queued and will execute after the mandatory 12 hour timelock. 
+
+This marks a new chapter for YAM. Thanks to the community for debating + voting.",102,8,16,2020-12-29
+234,2020-12-31 01:37:10+00:00,1344457537920380930,YamFinance,"We're brainstorming Yam Governance Reform tomorrow during a Zoom Call (12/31) at 6:00 PM UTC.
+
+We'll be discussing issues laid out here: https://t.co/BLLLsbM7Ek.
+
+Come share ideas on fostering a better DAO government process!
+
+Link will be on discord https://t.co/hoMFqkDUhP https://t.co/irh2oSEsfi",19,1,4,2020-12-31
+235,2021-01-02 17:07:17+00:00,1345416384835153923,YamFinance,"We're happy to share our Yam Treasury Quarterly Update, where we explore our community governed treasury and take a peak at what’s coming next! 👀
+
+- Treasury Investments  
+- Yam DAO Set  
+- Great Yam Wall, our buybacks initiative  
+
+https://t.co/AFkDjr4tfL",46,5,14,2021-01-02
+236,2021-01-03 17:02:52+00:00,1345777661302501377,YamFinance,"Great infographic and summary on what we're currently building at Yam! Thanks @nonstopTheo 
+https://t.co/Ck4xC4O17I",31,2,7,2021-01-03
+237,2021-01-05 21:14:03+00:00,1346565647958990855,YamFinance,"@UMAprotocol Dive deeper into uGAS in this medium article and documentation page:
+
+https://t.co/cVTo4Bjjd9
+
+https://t.co/z63QzkhZFK
+
+If you have any Degenerative ideas or questions, feel free to reach out to us on our Discord!",14,2,0,2021-01-05
+247,2021-01-07 03:34:57+00:00,1347023892309749760,YamFinance,"Internal Alpha Testing for @UmbrellaByYam , our protection protocol endeavor, is underway!
+https://t.co/f9pZSfo35q",34,0,11,2021-01-07
+248,2021-01-08 19:00:29+00:00,1347619201884811266,YamFinance,"@SushiSwap For more insight into the YAM/ETH pool, @Sushiswap's dashboard is a wonderful resource:
+
+https://t.co/pg1KRRd6kI
+
+You can also add liquidity directly here:
+
+https://t.co/DZsdecsyJy https://t.co/CuxyKEb9x4",13,1,5,2021-01-08
+250,2021-01-12 23:44:44+00:00,1349140284261728258,YamFinance,"@SushiSwap @tokensets @krugman25 @UMAprotocol 🗳️ ️Governance
+
+We expect 2021 to require greater community involvement as Yam’s product offerings dramatically expand &amp; build on 2020.
+
+We're currently workshopping our DAO’s process and invite all to participate!
+
+https://t.co/aegmUYTB7i https://t.co/dmXwKNLRQa",13,1,2,2021-01-12
+262,2021-01-14 20:07:48+00:00,1349810468207079437,YamFinance,"An on-chain proposal is live!
+
+This proposal mints uGAS-FEB21 tokens and adds liquidity to Uniswap, increasing $uGAS liquidity as well as earning $UMA rewards for the Yam treasury. 
+
+The Snapshot proposal for this has passed. 
+
+Vote on-chain: https://t.co/pCNmTIoXBH",18,1,1,2021-01-14
+267,2021-01-15 20:15:21+00:00,1350174755555602435,YamFinance,"To All YamV2 Holders. 
+https://t.co/mwvRMy09wV will be ending the migration function on 2/15/2021 00:00 UTC. Yam has also ended the rebasing function of the token. The supply is no longer elastic.
+ 
+Migrating 1 YamV2 will return 2.5 Yams. 
+
+https://t.co/jNka9ffyMR
+@HuobiGlobal",28,5,4,2021-01-15
+268,2021-01-16 23:44:38+00:00,1350589809660731398,YamFinance,"Please be informed that the tweet below is not accurate. 
+We're ending our YAMv2 migration function on 2021-02-15 at 00:00 UTC. 
+https://t.co/vludgtNciK",20,1,2,2021-01-16
+273,2021-01-19 17:41:44+00:00,1351585647161724928,YamFinance,"@ApyVision @DeFi_Dad @zapper_fi - If you see an error that says ""out of gas"" before performing a transaction, it's most likely because some preconditions have not been met and the transaction will most likely fail. 
+- Consider lowering gas price when performing operations that are not time sensitive.",7,1,0,2021-01-19
+282,2021-01-22 14:35:24+00:00,1352625921212166150,YamFinance,"We’ve happy to share our newly launched #YamDaoWeeklyBrief, a newsletter for the Yam Community. 
+
+The Yam DAO is hard at work across multiple projects. Our aim is to share all updates in one easy place. 
+
+First post drops today! Hit subscribe👇🏽
+
+https://t.co/qpIon1DMib",39,4,8,2021-01-22
+284,2021-01-25 18:00:14+00:00,1353764631915995136,YamFinance,"$uGAS Logo Design Prize Structure:
+
+🏆 1st: $500 in YAM
+🏅 2nd: $200 in YAM
+🏅 3rd: $100 in YAM
+🏅 4th: $100 in YAM
+🏅 5th: $100 in YAM
+
+Due: January 31
+Dimensions: 320px x 320px
+
+You can also submit designs and read contest terms on our Forum Thread!
+
+https://t.co/YS5zmdqUWV",10,12,2,2021-01-25
+290,2021-01-27 20:28:08+00:00,1354526628639100931,YamFinance,"@UMAprotocol We anticipate creating other uVOL tokens in the future (inc. uVOL-ETH!)
+
+We want talent from DeFi and our communities to help us develop + market uVOL-BTC and our other uVOL Synths. 
+
+If you want to help build uVOL with us, please reach out on discord! 
+
+https://t.co/hoMFqkDUhP https://t.co/Vh6QrepAc6",12,1,2,2021-01-27
+302,2021-01-28 21:46:07+00:00,1354908638914162694,YamFinance,"@UMAprotocol Please remember uGAS is an experimental token and users should proceed with extreme caution.
+
+Def take the time to understand the token and ask questions on our discord!
+
+https://t.co/hoMFqkDUhP https://t.co/3ppmjbouUk",11,2,3,2021-01-28
+309,2021-01-29 16:31:07+00:00,1355191754417430534,YamFinance,"Yam DAO Weekly Brief Edition 2! 
+
+Subscribe for updates on:
+
+🍠 New Dev Team Members
+🍠 Final YAMv2 to v3 migration
+🍠 ""Yam DAO Set"" Launch
+🍠 Current $YAM Governance Snapshots
+🍠 #uGAS + #uVOL on #DegenerativeFinance
+🍠 @UmbrellaByYam Audit
+
+https://t.co/9kyZgFMzxT",27,2,8,2021-01-29
+312,2021-01-30 22:41:00+00:00,1355647227612569600,YamFinance,https://t.co/UVKLaKcjpl,8,2,2,2021-01-30
+318,2021-01-31 15:05:06+00:00,1355894884117458947,YamFinance,"Friendly reminder that the final deadline to migrate from YAMv2 to V3 is in two weeks! 🦋
+
+Migration Deadline: 15 February 2021, 00:00 UTC.
+
+You can easily migrate on our site: 
+
+https://t.co/jNka9ffyMR 
+
+Please migrate to V3 now to avoid any potential loss of funds! https://t.co/q9XiElW4OT",31,8,7,2021-01-31
+319,2021-02-02 17:38:50+00:00,1356658349400600577,YamFinance,"📣 Attention all YAM holders on @HuobiGlobal 📣
+
+Huobi is migrating YAMv2 tokens to our current YAM on 2021-02-04.
+
+$YAM will be tradeable on Huobi as YAM/ETH, YAM/USDT, and YAM/BTC from 2021-02-09 onward! 
+
+https://t.co/VbjcYlfmED",38,7,10,2021-02-02
+320,2021-02-03 00:18:22+00:00,1356758892869537792,YamFinance,"重要提醒：火币 @HuobiGlobal   将于北京时间2021年2月4日上午10HuobiGlobal :00对YAMv2进行置换操作，届时所有YAMv2都将按1:2.5比例置换为YAM。同时北京时间2021年2月9日上午11:00将会开启3个新交易对：YAM/USDT、YAM/BTC和YAM/ETH。详情请用户查询火币相关通告！
+
+https://t.co/xEGGhrRlpM https://t.co/9YTXjIHhq1",13,2,4,2021-02-03
+321,2021-02-05 17:22:20+00:00,1357741360267341824,YamFinance,"Hot off the press - our #YamDAOWeeklyBrief Edition 3 is live! 
+
+Read below for updates on:
+
+- Yam DAO New Hires 🍠
+- @HuobiGlobal Yam Migration + Support 🍠
+- Degenerative Finance 🍠
+- Yam DAO Set Funding 🍠
+- uSTONKS 🍠
+
+https://t.co/WF534ztwzg",40,3,19,2021-02-05
+324,2021-02-06 12:25:21+00:00,1358029007787294720,YamFinance,"新鲜出炉的「Yam DAO 每周速览」中文版第3期发布了！
+
+阅读文章可了解更多内容：
+
+- 新成员招募；
+- 火币@HuobiGlobal 对YAMv2迁移提供支持；
+- 「Degen衍生金融」产品最新进展；
+- 「Yam资产管理」进展情况；
+- uSTONKS指数合约产品；
+
+https://t.co/QHjmDv7Uq8",14,0,5,2021-02-06
+326,2021-02-07 16:40:26+00:00,1358455593275711494,YamFinance,"Dive into our visual user guide on Degenerative Finance and $uGAS!
+
+Our ELI5 handbook shows how to
+
+- MINT + LP uGAS (and EARN $UMA!)
+- LONG + SHORT uGAS
+- MANAGE uGAS
+- SETTLE uGAS (after buying)
+- REDEEM uGAS (after minting)
+
+Read in link below 📖
+
+https://t.co/nlUg3uWatr",54,6,19,2021-02-07
+327,2021-02-08 18:43:31+00:00,1358848955111636993,YamFinance,a bird’s-eye view of our $uGAS #DegenerativeFinance workflow 🔍 https://t.co/YvyedbuopD,7,3,3,2021-02-08
+329,2021-02-09 02:26:22+00:00,1358965433643196416,YamFinance,"The community vote to increase $uGAS Liquidity Mining Rewards has passed
+
+- 481.45k votes YES
+- 3.44k votes NO 
+
+$UMA rewards for Minting + LPing uGAS this month will increase from 50% to 82%!
+
+If you need help with Mint + LP,  please see our user guide: 
+
+https://t.co/GQECPNOUEh https://t.co/m61Sn9RtL3",21,2,6,2021-02-09
+333,2021-02-12 16:13:47+00:00,1360260825739583493,YamFinance,"@UMAprotocol After the recent financial events, we recognize that we're in a pivotal time for DeFi. We believe in a future that is decentralized. A future that is open + fair. A future that is community driven. We hope that uSTONKS can be a small part of helping our industry stay on this arc. https://t.co/Omgt653lwy",11,1,1,2021-02-12
+344,2021-02-13 07:08:02+00:00,1360485870952984582,YamFinance,"uSTONKS指数合约：一个瞄准WSB最新趋势的指数型期货产品，即将上线！
+🍠
+“勇于创新、拒绝专制、重塑经济”是凝聚在Yam DAO中的精神内核！我们向往一个公平、开放、不设限、去信任化的金融体系。
+
+https://t.co/Wbh2rj3bxw",27,2,6,2021-02-13
+347,2021-02-14 22:42:00+00:00,1361083297883959297,YamFinance,"#DegenerativeFinance $uGAS updates:
+
+- $UMA rewards have been paid out
+- $YAM treasury's liquidity has been moved from uGAS-FEB to uGAS-MAR
+- APR for Minting and LPing $uGAS is 50-60%
+
+Also, uGAS-MAR21 prices have risen sharply - if you minted, please check your collateral ratio! https://t.co/YR9m59TG1C",39,2,11,2021-02-14
+352,2021-02-15 15:33:28+00:00,1361337841301790720,YamFinance,"Should our treasury set, #yamHOUSE, purchase Coinshares Gold and Cryptoassets Index ($CGI), launched by @CoinSharesCo?
+
+CGCI provides risk-managed exposure to crypto without extreme volatility by forming a basket of both cryptoassets and gold. 
+
+Vote! 👉🏼 https://t.co/pCNmTIoXBH",15,4,3,2021-02-15
+353,2021-02-19 15:59:37+00:00,1362793972305981453,YamFinance,"#YamDAOBrief #5 has been released! 
+
+Please subscribe for updates on:
+
+- DAO House launched! $yamHOUSE is live on @tokensets  🍠
+- New contributor compensation passed 🍠
+- Umbrella Audit Complete 🍠
+
+https://t.co/DFIFA40Rye",14,3,2,2021-02-19
+354,2021-02-20 20:22:13+00:00,1363222449127497732,YamFinance,"@tokensets 「Yam DAO 每周速览」第5期已发布！
+
+- DAO House已发布，yamHOUSE开始运行！🍠
+- 新成员入职已获得通过！🍠
+- 「保护伞协议」Umbrella已完成代码审计！🍠
+
+:fire:欢迎阅读+订阅 🔥
+
+https://t.co/E6M6LyokRq",6,1,1,2021-02-20
+355,2021-02-23 15:55:27+00:00,1364242478463913988,YamFinance,@UMAprotocol https://t.co/BW0kZiDSPD,2,1,0,2021-02-23
+375,2021-02-28 19:26:12+00:00,1366107454937956355,YamFinance,"Ethereum gas prices are finally coming down!
+
+This could be a good time to mint $uGAS synths on #DegenerativeFinance and earn 45% APR on your ETH 🏎️ 
+
+To earn:
+1. Deposit WETH and Mint $uGAS
+2. LP uGAS+ETH in our Uniswap Pool
+
+You can do both now on:
+
+https://t.co/LOyvMaZMLO https://t.co/cFdhynT6RG",25,6,8,2021-02-28
+376,2021-03-01 21:21:53+00:00,1366498955048140809,YamFinance,"@UMAprotocol @chester_lacroix @lvgqeleven @blokku_chan @FreakinFrick @asiandefigirl Congratulations to our winners, and thank you to all in our community who submitted!  
+
+If you're a protocol in need of design talent, look no further than the winners here.
+
+Stay tuned for future contests and join us on Discord (https://t.co/iV14cdjsjH) to stay in the loop! https://t.co/nTnzPBHmn0",5,1,0,2021-03-01
+394,2021-03-02 05:29:46+00:00,1366621735404077059,YamFinance,"Feel like catching up on all things YAM?
+
+ Why not dive into  our #YamDAOWeeklyBrief for insight into: 
+
+- our #DAOHouse Launch 🍠
+- building a new #DegenerativeFinance site 🍠
+- Data Dashboard on @DuneAnalytics 🍠
+
+And please subscribe! 🙌
+
+https://t.co/FWALxL3emH",21,1,5,2021-03-02
+397,2021-03-03 23:26:34+00:00,1367255106014621697,YamFinance,"We are excited to present #DAOHouse, our treasury management solution for DAOs!
+
+Treasury Management is mission critical for every DAO
+
+$YAM is building w/ @SetProtocol to provide the first transparent, decentralized, and responsive solution for DAOs! 🏡
+
+https://t.co/OMGPSbCDjL",93,18,24,2021-03-03
+400,2021-03-04 15:53:11+00:00,1367503397172174858,YamFinance,"@SetProtocol DAO House combines three key elements into a single elegant solution: 
+
+- Decentralized on-chain governance that remains in full control
+- Professional investment strategies executed by an active portfolio manager
+- Built on the @TokenSets smart contract trading infrastructure",4,1,0,2021-03-04
+421,2021-03-05 06:23:11+00:00,1367722340818317314,YamFinance,"@defisocks Yam团队将在所有参与者中选择一名最具创意的胜出者，并于下周公布获奖结果！
+
+速速参与赢取这双限量版DeFi袜子吧！🧦",4,2,1,2021-03-05
+424,2021-03-06 04:46:58+00:00,1368060514484563969,YamFinance,"@SetProtocol 🍠 最新的Medium文章中文版新鲜出炉了，欢迎阅读了解：Yam Finance出品——「DAO House 资产管理」精彩呈现！
+
+https://t.co/U47qSaSWjz",6,1,0,2021-03-06
+426,2021-03-07 04:16:35+00:00,1368415256691814400,YamFinance,"@tokensets @defisocks - uGAS全新Logo诞生；⛽️
+
+- 开启限量版DeFi袜子大放送活动@defisocks；🧦
+
+https://t.co/XP3dVW9uDC",2,1,3,2021-03-07
+429,2021-03-08 22:16:33+00:00,1369049423821541378,YamFinance,"Correction!
+Step 1: Deposit $USDC to Mint $uSTONKS-APR21
+Step 2: LP $uSTONKS and $USDC in the Uniswap Pool
+to earn $YAM and $UMA Rewards! 
+https://t.co/j1lkYv5TZu",14,1,2,2021-03-08
+441,2021-03-09 21:10:03+00:00,1369395076766572549,YamFinance,"We’re happy to share a visual guide on how to use $uSTONKS on #DegenerativeFinance!
+
+This ELI5 handbook will showcase how to use all of Degenerative Finance’s features to create, trade, and manage your uSTONKS.
+
+Dive in below!
+
+https://t.co/VSo6MJzBc3",16,5,5,2021-03-09
+446,2021-03-10 22:20:22+00:00,1369775164112666627,YamFinance,"The same logic can be applied to the red dot - a short opportunity where uStonks is trading at a value higher than its true price.
+
+A trader could mint uStonks and sell it on Uniswap with the intent of buying it back at lower prices and reap a handsome profit.",8,1,0,2021-03-10
+459,2021-03-11 05:35:16+00:00,1369884607487823875,YamFinance,"欢迎阅读最新Medium文章 —「Degen 衍生金融」产品更新及奖励计划
+
+查看uSTONKS指数合约、uGAS期货合约 最新奖励计划：
+
+uSTONKS 指数合约：$UMA + $YAM 三周额外双重奖励；🎁
+
+uGAS 期货合约：$YAM 三周额外奖励；🍠
+
+uSTONKS 铸造超过$10,000 USDC：NFT 卡牌特别奖励；🏅️
+
+https://t.co/TfU9rkibKU",3,2,0,2021-03-11
+462,2021-03-12 19:50:04+00:00,1370462111596433415,YamFinance,"🛎 Yam Finance 于3月11日成功举办首次社区AMA活动
+
+团队成员与社区就大家所关心的热门话题进行了回复和讨论。💬
+
+「保护伞协议」Umbrella Protocol ☂️
+「Degen 衍生金融」Degenerative Finance 🧟‍♂️
+「DAO 资产管理」DAO House 🏠
+项目治理 Yam DAO &amp; $YAM 🍠",3,1,0,2021-03-12
+468,2021-03-14 03:01:43+00:00,1370933128232103937,YamFinance,https://t.co/9PjGYDJksE,14,0,0,2021-03-14
+469,2021-03-15 21:36:30+00:00,1371576062782627842,YamFinance,https://t.co/zlLFaFzKXn,5,2,1,2021-03-15
+479,2021-03-16 00:08:23+00:00,1371614283218423810,YamFinance,@TheCobler currently rewards are sent to each user once a month! we're working on a system for users to claim rewards at any time.,2,0,0,2021-03-16
+481,2021-03-19 23:01:37+00:00,1373047033528000513,YamFinance,$7.6M TVL on #DegenerativeFinance 🧟‍♂️🧟‍♀️ https://t.co/K76v12nlbB,49,0,12,2021-03-19
+482,2021-03-22 18:05:20+00:00,1374059635389390851,YamFinance,"https://t.co/OqiqkgrGWZ allows users to gain exposure to innovative synthetic assets easily. 🧟‍♂️
+
+$uSTONKS  represents #wallstreetbets' ten most bullish assets. 🚀
+
+Ready to get started? 🔥
+
+Check out  @kwiledirects's overview of the interface. 📺
+
+https://t.co/e8un3SzXPT https://t.co/qhin0s1umW",17,1,4,2021-03-22
+483,2021-03-23 19:34:55+00:00,1374444568171540482,YamFinance,"@UMAprotocol Great partners fully support each other.
+
+Launching uSTONKS quickly in order to leverage WallStreetBets momentum was a big challenge – but UMA stayed flexible throughout the process, including two launch delays and key technical assistance.
+
+Now that’s support!",3,3,0,2021-03-23
+487,2021-03-25 21:05:11+00:00,1375192057904517122,YamFinance,"We had a fun AMA with the YAM community today!
+
+Some topics discussed:
+
+- Umbrella Protection Protocol Launch  ☔
+- sushiHOUSE 🍣
+- uSTONKS 😎
+- #DegenerativeFinance V2 Launch 🧟‍♂️
+
+For a recap, please see our medium post below!
+
+https://t.co/8LDvfKcq97",22,3,4,2021-03-25
+488,2021-03-26 15:53:55+00:00,1375476115054030856,YamFinance,"$YAM is coming to @MUSTCometh’s #L2Ethereum DEX #ComethSwap! 🎉
+
+Competition time: WIN a Cometh Spaceship #NFT. 🚀
+
+Design a YAM SPACESHIP and share it using the hashtag #YamsInSpace to enter! ✍️
+
+BONUS: Add your own hastag! 50 $YAM for the most creative idea! 🍠
+
+Thread 👇 https://t.co/jH9w6WOLvb",47,14,15,2021-03-26
+494,2021-03-29 17:20:26+00:00,1376585051996049409,YamFinance,"We asked our #YamFam 🍠 to tweet what fires them up about #DAOHouse, #uGAS, or #uSTONKS to win a pair of @DefiSocks.  
+Congrats to @Mr_Howies_NFT  who created this engaging pixel art! 🎨
+Follow us to learn more about our products and future contests!
+https://t.co/Vs5PouB7PA",13,2,3,2021-03-29
+495,2021-03-30 15:29:01+00:00,1376919399399976964,YamFinance,"The @SushiSwap Snapshot vote for SushiHOUSE is now active! 🏡
+
+SushiHOUSE marks a pivotal proof of concept for Yam DAOHouse, helping communities safeguard their treasuries with active diversification. 💰
+
+Vote Option 1 for $10m diversification:🗳️
+https://t.co/uG8RefNZZO $YAM https://t.co/xkOPOgfssO",17,1,6,2021-03-30
+497,2021-03-31 11:00:30+00:00,1377214212145967104,YamFinance,"Didn't watch @kwiledirects https://t.co/ofKfg8eTOs video guide series yet? 📺
+
+Easily learn how to mint, redeem, and earn rewards with $uSTONKS and $uGAS. ⛽️
+
+Plus a sneak peek at what's coming with V2! 👀
+
+Join $YAM community: 👇
+https://t.co/CMs4ix105Z
+
+https://t.co/w7Vf0hbkR9",7,1,4,2021-03-31
+498,2021-04-01 22:14:16+00:00,1377746159599550470,YamFinance,"uGAS-MAR expired last night and we'll begin the price request process to determine its settlement price. 
+
+The price request will start Saturday at 00:00 UTC and the contract will be fully settled on Monday at 00:00 UTC! 
+
+Please do not try to settle before then! 🧟 https://t.co/GrDaNbNmQU",14,0,3,2021-04-01
+503,2021-04-02 18:33:33+00:00,1378053003723341829,YamFinance,"Excited to share our portfolio manager @krugman25's newly launched newsletter DAO HOUSE DIGEST! 🏡 
+
+Please dive in for updates on:
+
+- yamHOUSE Portfolio 🍠
+- sushiHOUSE on @SushiSwap snapshot 🍣
+- CT highlights 🐦
+
+Subscribe below! ✔️
+
+https://t.co/3WRbGBflXx https://t.co/r6CfPKM1qW",30,6,9,2021-04-02
+504,2021-04-08 14:52:55+00:00,1380171804698763264,YamFinance,"Yam Finance community call! 🎉
+
+✅ 5pm UTC on Discord today (2 hours time).
+
+🔥 Special guest Chandler from @UMAprotocol will be attending!
+
+🧟 Degenerative Finance
+☂️ Umbrella
+🍣 SushiHOUSE
+
+And much more!! $YAM 👇
+https://t.co/yAYzrn9yJT",11,0,2,2021-04-08
+506,2021-04-12 19:06:27+00:00,1381685162182856708,YamFinance,"Welcome to the neighbourhood @SushiSwap 🏡
+
+Yam is building #sushiHOUSE to shelter SushiSwap’s most valuable asset – its treasury! 💰
+
+#DAOHouse by YAM is the market leader for treasury management. 🎉
+
+Read the full article to learn why: 👇
+
+https://t.co/oni26yI1OR",48,14,11,2021-04-12
+507,2021-04-13 16:00:15+00:00,1382000691703554055,YamFinance,"Yam Brief 11: Welcome @SushiSwap 🎉
+
+SushiHOUSE 🏘️
+Yam rockets 🚀
+Yam NFTs 🎨
+Treasury updates 💰
+
+https://t.co/ywxZMaasGm $YAM @MUSTCometh @yamnft",19,1,1,2021-04-13
+508,2021-04-14 20:39:59+00:00,1382433476146823188,YamFinance,"We're happy to share our $YAM Q1 2021 Treasury Report! 
+
+Dive in for updates on:
+
+- our DAO treasury 🍠
+- operational and investment income 💰
+- our expenses 💸
+- contributor changes 👷‍♀️
+
+Read below!
+
+https://t.co/J9DZD5tiwL",27,3,6,2021-04-14
+509,2021-04-15 15:52:27+00:00,1382723504634687493,YamFinance,"The next community call will take place on the 22nd 🎉
+
+A special guest from @SushiSwap will be attending 🚀 
+
+Can you guess who? 👀
+
+Join the $YAM discord server to learn more! 👇
+https://t.co/BAB3zxjtbS
+#sushiHOUSE",15,1,2,2021-04-15
+510,2021-04-16 08:36:24+00:00,1382976156081606656,YamFinance,"Stonkies will be sent out to all eligible addresses shortly. 🎉
+
+Interested in minting $uSTONKS, $uGAS, or the next innovative synth from Yam Finance? 👀
+
+Head to https://t.co/ofKfg8eTOs to get involved! 🚀 
+
+#STONKS $YAM #wsb 
+
+Learn more: 📚
+https://t.co/T2WrDLtPT0 3/",8,3,1,2021-04-16
+513,2021-04-21 17:04:02+00:00,1384915846418550788,YamFinance,"Tomorrow @SushiSwap's @0xMaki will be joing the $YAM community call! 🎉
+
+#SushiHOUSE and much more! 🏘️
+
+Don't miss it 5pm UTC on Discord👇
+https://t.co/BAB3zx1Skk",27,3,3,2021-04-21
+514,2021-04-22 15:34:49+00:00,1385255779486167042,YamFinance,"The Yam Finance community call with @0xMaki starts in under two hours! 🎉
+
+What's happening at @SushiSwap? 🍣
+
+Why did the community choose Yam Finance's DAOHOUSE to manage their treasury? #sushiHOUSE 🏘️
+
+All this and more! 5PM UTC on Discord. 👇
+https://t.co/yAYzrn9yJT https://t.co/IhZzDZ64NQ",23,2,11,2021-04-22
+517,2021-04-23 16:23:11+00:00,1385630341503672320,YamFinance,"Yam Brief 12 is Live! 🎉
+
+Special guest @0xMaki 🙏
+sushiHOUSE celebration 🍣
+https://t.co/OqiqkgJhOx v2 teaser 👀
+@YamNFT #NFTs STONKIES 🔥
+@UmbrellaByYam UI work ☂️
+@MUSTCometh $YAM rockets 🚀
+
+Subscribe today! ✅
+https://t.co/x634kK4ISA",12,8,7,2021-04-23
+520,2021-04-26 14:35:17+00:00,1386690349288939520,YamFinance,"These #NFT spaceships will be available for purchase on both https://t.co/MuKfWvdpwy and https://t.co/juIJvY52HQ, and sales will go directly toward supplying liquidity for the upcoming #ComethSwap YAM/MUST pool on @0xPolygon! https://t.co/ZX8gU8fUGN",10,2,1,2021-04-26
+524,2021-04-28 16:11:18+00:00,1387439287965163522,YamFinance,"Missed last week's community call with @0xMaki? 
+
+Never fear! 
+
+The full conversation is available on YouTube. ❤️
+
+We dived into #sushiHOUSE, what's next for @SushiSwap, @YamFinance, and the future of #DeFi 🚀
+
+https://t.co/AxoFldbVya 
+$SUSHI 🤝 $YAM",12,1,3,2021-04-28
+525,2021-04-30 15:15:50+00:00,1388150106210271236,YamFinance,"Our new token $uSTONKS-JUN21 will expire at the end of June and will be a basket of the following 10 stocks: 
+
+$GME $COIN $TSLA $PLTR $RIOT $RBLX $SQ $AAPL $MVIS $MARA 👀 https://t.co/iUdQY3Ijnd",4,1,1,2021-04-30
+527,2021-05-10 18:47:56+00:00,1391827362430427138,YamFinance,"👀 
+#Soon #CryptoPunks @UMAprotocol @larvalabs https://t.co/oh2WxRo7zO",144,19,26,2021-05-10
+529,2021-05-11 19:49:43+00:00,1392205296500547584,YamFinance,👀👽 #cryptopunks @larvalabs  @UMAprotocol https://t.co/8GeLRZMNQs,48,1,3,2021-05-11
+530,2021-05-12 01:00:09+00:00,1392283419715977220,YamFinance,CrytoPunks $14.5M @larvalabs @ChristiesInc 🔥 https://t.co/eBan0Qw5TA,19,0,1,2021-05-12
+532,2021-05-13 18:07:36+00:00,1392904376767848450,YamFinance,"Stay tuned for $uPUNKS and Yam Synths! 🔥
+
+Don’t be surprised to hear about the Museum of #FineYams in a Metaverse near you soon!👀
+
+Yam believes in recognizing community members. 🍠
+
+If you’d like to get involved, jump into our Discord today! 👇
+https://t.co/yAYzrn9yJT 6/ https://t.co/qgBtzh9jxc",13,4,0,2021-05-13
+538,2021-05-14 18:54:57+00:00,1393278680051245056,YamFinance,"Hello world! 👋
+
+$uPUNKS will launch with the all-new Yam Synths platform NEXT WEEK! 🎉
+
+Earn $YAM and $UMA rewards, get exposure to the entire #CryptoPunks #NFT market or simply hedge.
+
+You thought it couldn't get any better? 👀
+
+$uPUNKS will be accessible by over 10M users! 👇 https://t.co/jPCYVvSBXO",57,6,13,2021-05-14
+541,2021-05-17 20:59:52+00:00,1394397277607710723,YamFinance,"You only need one potato in your life: 🍠
+https://t.co/M1EVNpfqH3 $uPUNKS $YAM https://t.co/VZHsEFiqf9 https://t.co/3oAXNrXKMk",17,1,2,2021-05-17
+542,2021-05-18 21:51:45+00:00,1394772723214159872,YamFinance,"$uPUNKS will soon be live on the all-new Yam Synths platform! 🎉
+
+Complete #CryptoPunk Market Exposure ✅ 
+Earn $YAM and $UMA rewards✅ 
+Mint and sell to hedge ✅ 
+
+Join the community to learn more:
+https://t.co/yAYzrn9yJT https://t.co/hyASIqX3sg",29,4,6,2021-05-18
+543,2021-05-20 15:51:55+00:00,1395406944748273669,YamFinance,"Want to learn more about $uPUNKS, +ETH and some of the other game-changing products coming to the all new Yam Synths platform? 👀
+
+Join the community call, starting in just over an hour (17:00 UTC) on the $YAM Discord server! 🎉
+https://t.co/yAYzrn9yJT https://t.co/zJ82iktWhY",25,8,8,2021-05-20
+544,2021-05-24 17:18:08+00:00,1396878194230263816,YamFinance,"We're hiring! 🎉
+
+✅ Smart Contract Developer?
+
+Get in touch via DM or Discord: 👇
+https://t.co/yAYzrn9yJT https://t.co/BatG7bEZ4G",17,4,3,2021-05-24
+545,2021-05-25 22:21:03+00:00,1397316809976594435,YamFinance,@epnsproject https://t.co/VpG2wStNhS,38,3,11,2021-05-25
+548,2021-05-26 16:29:21+00:00,1397590689924345857,YamFinance,"GameStop releasing NFTs on Ethereum? 👀
+
+Get $GME exposure and all the #wallstreetbets favorites with $uSTONKS. 🔥
+
+Available now on https://t.co/ofKfg8eTOs and coming to the all-new Yam Synths platform soon! 🚀
+
+https://t.co/DS8B5Qso60 https://t.co/IrGMDDbHvp",18,3,3,2021-05-26
+549,2021-05-27 17:57:20+00:00,1397975219126489090,YamFinance,"We're looking for another smart contract developer to join us at Yam Synths! 🎉
+
+If you're passionate about unlocking the limitless possibilities of synthetics built on @UMAprotocol, apply today. 👇
+https://t.co/POrOxEkfxq
+
+Yam Synths will be launching soon with $uPUNKS! 🚀 https://t.co/9ymbtePKAu",20,3,8,2021-05-27
+550,2021-05-28 17:13:37+00:00,1398326608843337729,YamFinance,"Yam Brief 15:
+
+🤝 Partnerships with @UMAprotocol and @cryptocom 
+🛡️ Hedge #CryptoPunk exposure with $uPUNKS
+🌱 Hiring smart contract developers
+
+https://t.co/iKWVII0bkw",16,3,5,2021-05-28
+551,2021-06-01 15:56:06+00:00,1399756649330511872,YamFinance,"@Uniswap @UMAprotocol We feel strongly that a partial divestment of Uniswap governance treasury into synthetic KPI Options will be a win for the UNI Community. 
+
+If you’d like to explore this idea further, please vote below!
+
+https://t.co/F4P0aF74Nz",12,1,0,2021-06-01
+558,2021-06-02 19:03:40+00:00,1400166241780736004,YamFinance,"Announcing collaboration with @metaverseDAO and the Museum of Fine Yams metaverse gallery! 🎉
+
+We're teaming up to tackle the metaverse and much more! 🚀
+
+Don't forget, $uPUNKS is launching imminently on the all-new Yam Synths platform! 🔥
+
+https://t.co/LYNe3bxPgw $YAM 1/2",46,5,11,2021-06-02
+560,2021-06-03 16:34:49+00:00,1400491168262025219,YamFinance,"Starting in 25 mins featuring guest speakers @benroy__ @BalancedPortfo1 and @samhamade_ from @metaverseDAO! 🎉
+
+🚀 Yam Synths and $uPUNKS Update
+👀 Metaverse Tour
+🏦 Museum of Fine Yams Reveal
+🛡️ POAP Badge!
+
+Come say hi in the metaverse: 👇
+https://t.co/yAYzrn9yJT https://t.co/VP8FAQFcwV",17,2,2,2021-06-03
+562,2021-06-08 18:33:42+00:00,1402333027397562371,YamFinance,"uPUNKS will be the first NFT-focused product from Yam Synths. 🎉
+
+We're committed to making innovative synthetic assets that provide real value for #NFT collectors. 🙏
+
+Want to help shape the next product? 
+
+Join the conversation: 👇
+https://t.co/yAYzrn9yJT #cryptopunks $YAM https://t.co/qTVWTXqfVN",28,1,6,2021-06-08
+563,2021-06-09 17:47:01+00:00,1402683667303092225,YamFinance,"mu·se·um
+/myo͞oˈzēəm/
+
+noun
+a building in which objects of historical, scientific, artistic, or cultural interest are stored and exhibited.
+
+'The Museum of Fine Yams'
+
+👉 https://t.co/GmWTy2oufc 👈 https://t.co/cKvMjfdpQ9",78,9,20,2021-06-09
+564,2021-06-10 15:13:39+00:00,1403007458470031370,YamFinance,"Yammers, it's time to shine! 🌟
+
+Only 10 hours left to vote:  🗳️
+https://t.co/pCNmTIGytf https://t.co/oh7zG44JH6",6,2,1,2021-06-10
+566,2021-06-15 20:51:01+00:00,1404904297335119875,YamFinance,"Don't miss the next community call with special guest @jai_bhavnani of @RariCapital 🎉
+
+Learn more about open borrowing and lending with Fuse. Did someone say $YAM market? 👀
+
+Unlock a limited edition POAP! 🤗
+
+When? 
+Thursday June 17th, 17:00 UTC.
+
+Where?
+https://t.co/yAYzrn9yJT https://t.co/574j650SB8",25,1,6,2021-06-15
+567,2021-06-17 21:40:38+00:00,1405641561027747841,YamFinance,"Yam Synths community testing is live! 🎉
+
+$uPUNKS, $uGAS and $uSTONKS synthetics provide innovative exposure, unlock $UMA and $YAM rewards, and enable hedging. 🚀
+
+Ask on Discord for a testing pass. ✅
+https://t.co/yAYzrn9yJT
+
+Testers will receive a limited edition #NFT. 🙌 https://t.co/7huBvDd2tk",20,0,4,2021-06-17
+570,2021-06-18 16:09:18+00:00,1405920564825313281,YamFinance,"A forum proposal by @thevdm1 has been submitted to @RariCapital to whitelist Yam DAO as Fuse pool creators! 🎉
+
+Initially a $YAM lending market would be established, with our full range of synthetic assets included over time. 🚀
+
+Join the discussion:  👇
+https://t.co/pLjs3EMXcR https://t.co/YFUEyhsyJZ",33,0,5,2021-06-18
+572,2021-06-19 05:53:44+00:00,1406128041420599296,YamFinance,"Monday 🥃
+
+#uPUNKS https://t.co/1S2vSMIRy3",32,0,5,2021-06-19
+574,2021-06-20 18:24:03+00:00,1406679253454839808,YamFinance,"The Yam Community wishes all dads, grandpas, uncles and father figures a Happy Father's Day! 🍠 https://t.co/XWeMMjnxv4",29,2,2,2021-06-20
+575,2021-06-21 22:53:41+00:00,1407109498456526851,YamFinance,"Yam Synths $uPUNKS rewards are live 23:00 UTC today🎉
+
+To learn about upcoming https://t.co/GmWTy2G56K metaverse and #NFT events and collaboration with @metaverseDAO make sure to join the community Discord👇
+
+https://t.co/yAYzrn9yJT
+
+https://t.co/tMROnRgQBd https://t.co/z38Vm05Skr",12,0,1,2021-06-21
+582,2021-06-22 17:33:01+00:00,1407391188177588234,YamFinance,"uPUNKS LPs are currently earning as much as 811% APR 🤯
+
+Bonus rewards for uPUNKS are live for the next month:
+
+Week 1: 5000 Extra UMA
+Week 2: 5000 Extra UMA
+Week 3: 5000 Extra YAM
+Week 4: 5000 Extra YAM
+
+Mint + LP uPUNKS now on #YamSynths 👇
+https://t.co/H8XuuFX9Mq https://t.co/5XBwfqHLBy",25,1,5,2021-06-22
+584,2021-06-23 23:27:17+00:00,1407842726469586946,YamFinance,"We're ecstatic to share a preview of the first Museum of Fine Yams NFT drop 🎉
+
+#PUNKFICTION is a series of exclusive 1/1 manga heroines. 
+
+Launching soon! Stay tuned for updates on our discord: https://t.co/hoMFqkDUhP https://t.co/doJiIEUoiV",48,3,6,2021-06-23
+585,2021-06-24 17:52:56+00:00,1408120975087095816,YamFinance,"Our @RariCapital snapshot to get Yam Dao whitelisted as Fuse Pool Creators is live! 🎉🎉
+
+Please support so our DAO can create the first liquid lending market for Yam token holders (and explore adding our synth collection in a future pool)
+
+Vote below! 👇
+
+https://t.co/A4GVIIVqlf https://t.co/mWwy9qGcgp",25,1,6,2021-06-24
+587,2021-06-29 00:22:41+00:00,1409668609945731072,YamFinance,"Week Two of $uPUNKS liquidity rewards is LIVE! 🎉
+
+LPs are currently earning as high as 607% APR 🔥
+
+Don't forget this is the FINAL week of $UMA rewards, with $YAM up next! @UMAprotocol ❤️
+
+Mint exposure to the entire #CryptoPunk #NFT market today: 👇
+https://t.co/4fFdl8YX27 https://t.co/QJMk5YMn9T",15,0,6,2021-06-29
+589,2021-06-30 22:18:29+00:00,1410362129635479555,YamFinance,"We are excited to share a deep dive into our redesigned synth aggregator #YAMSynths (previously known as Degenerative Finance) 🍠
+
+We've redesigned the experience from top to bottom to help make @UMAprotocol products more accessible to everyone ✨
+
+https://t.co/wDc3i3TCGn",24,0,3,2021-06-30
+594,2021-07-01 00:00:06+00:00,1410387701854097410,YamFinance,"👻👻👻
+
+#PunkFiction NFTs coming soon https://t.co/i6maoH0Xlx",37,3,4,2021-07-01
+600,2021-07-02 20:32:19+00:00,1411060186270273542,YamFinance,"@UMAprotocol Our new token $uSTONKS-SEP21 will expire at the end of September and will be a basket of the following 10 stocks:
+
+$AMC $BB $GME $CLNE $CLF $UWMC $SENS $SPY $CLOV $WKHS https://t.co/ppwABza0jH",2,2,0,2021-07-02
+604,2021-07-12 19:36:08+00:00,1414669925562535937,YamFinance,"The Museum of Fine Yams is proud to present: 
+
+#OtherRealms
+
+Featuring @dielamaharanie  &amp; @gogoporen! 🎉
+
+Join us for the live artist exhibition and celebrate our first step into the metaverse and #NFT realm.
+
+Thursday 15th July 15:00UTC. 
+
+Get started: 👇
+https://t.co/yAYzrn9yJT https://t.co/W5qTq3sL1F",54,3,19,2021-07-12
+605,2021-07-14 04:44:20+00:00,1415170272634703880,YamFinance,"Just wow 🔥🔥🔥
+
+Don't miss @gogoporen alongside @dielamaharanie live in the metaverse for the first ever Museum of Fine Yams artist exhibition event! 🎉
+
+Other Realms
+
+This Thursday 15th, 15:00 UTC.
+
+Join the community for the latest: 👇
+https://t.co/yAYzrn9yJT https://t.co/h9QRDd5JtM",23,2,8,2021-07-14
+606,2021-07-15 13:04:10+00:00,1415658450571329547,YamFinance,"Our first metaverse artist exhibition is starting in 2 hours!  🎉
+
+Come and get involved: 👇
+https://t.co/yAYzrn9yJT https://t.co/QGNVt37RHV",9,0,3,2021-07-15
+610,2021-07-19 17:27:22+00:00,1417174234804019200,YamFinance,"Yam Brief 18:
+
+🔥 Other Worlds Metaverse Live Event
+🎉 $uPUNKS and covered in @BanklessHQ 
+🗳️ Yam DAO Fuse Pools @RariCapital 
+
+https://t.co/UELW8nsdGG",6,0,0,2021-07-19
+613,2021-07-21 16:10:54+00:00,1417879769115283459,YamFinance,"We are live!  🎥
+
+Join the AMA with @epnsproject featuring Yam DAO contributors @galloway_the, @JimWilcher and @zetaleak! 🎉
+
+There are prizes 👀 https://t.co/ksnVed1kml",7,0,2,2021-07-21
+614,2021-07-24 06:03:00+00:00,1418813948158124032,YamFinance,"MoFY's first exhibition Other Realms was a huge success! 
+
+Thank you @dielamaharanie and @gogoporen. 🙏
+
+What's next for The Museum of Fine Yams?  👀
+
+🚄 Scalable #NFT marketplace
+🏦 More metaverse events
+🎨 Limited NFT drops #PunkFiction
+
+Get involved:
+https://t.co/0TUvl4S5a9",24,23,3,2021-07-24
+615,2021-07-26 15:28:30+00:00,1419681037936857091,YamFinance,"We're thrilled to announce that EPNS team members @harshrajat &amp; @Riijo will be joining the YAM Discord for an AMA this Wednesday, 28 July @ 16:00 UTC!  
+
+Get involved to win prizes! 🎉
+https://t.co/nbFT416o69
+
+ Full thread and recap: 👇 https://t.co/YVa2VMYifK",35,2,9,2021-07-26
+620,2021-07-28 14:55:45+00:00,1420397571265032194,YamFinance,"Starting in just over an hour! 🎉
+
+Get involved: 👇
+https://t.co/yAYzrn9yJT https://t.co/elkqA7HFyD",2,0,1,2021-07-28
+621,2021-07-29 16:18:01+00:00,1420780662026432518,YamFinance,"Join the Yam DAO community call starting 17:00 UTC (under one hour). 
+
+This week we're discussing:
+🔔 @epnsproject  &amp; Yam Synths
+🦄 @Uniswap KPI Options 
+⛏️ DeFi Tools Synths 
+🏦 Museum of Fine Yams Vision
+🎨 Upcoming #NFT drops and POAP
+
+Get involved: 
+https://t.co/yAYzrn9yJT https://t.co/t0utjbE5ZY",18,3,5,2021-07-29
+622,2021-08-03 22:33:34+00:00,1422687111828971527,YamFinance,"@MUSTCometh Stay tuned for more updates because the Yam Space Fleet is on its way!  The winning community designs submitted for Yam DAO’s #YamsInSpace competition were transformed into playable, pixel art NFT ships that can be used to mine LP tokens within @MUSTCometh’s blockchain game. https://t.co/XtD7rRQ7Fq",4,1,0,2021-08-03
+630,2021-08-11 21:43:49+00:00,1425573693992980484,YamFinance,"Happy anniversary to the Yam DAO community! 🎉
+
+We've come so far in the past year and couldn't be more excited for what's coming next.  
+
+#YamSynths #MoFY #YamTreasuries🚀
+
+To celebrate we're announcing a special event live in the metaverse next Thursday, come along! 🥳 https://t.co/TaWpA601P7",58,12,6,2021-08-11
+631,2021-08-19 15:47:27+00:00,1428383115081302018,YamFinance,"Don't miss today's Yamiversary celebrations! 🍠
+
+17:00 UTC: 
+Guest panel with Yam DAO founders 🎙️
+@brockjelmore @clintonbembryjr @_trente_ @delitzer 
+
+18:00 UTC: 
+Live DJ Conner Jones 🎵
+
+Plus a surprise Museum of Fine Yams Marketplace update, #NFT drop free @poapxyz and more! 👀 https://t.co/sC6Gi89UXU",25,2,10,2021-08-19
+633,2021-08-22 20:40:29+00:00,1429544024277401610,YamFinance,"@nedsferatu @poapxyz oh eligibility requirement is any of the above, not all :)",0,0,0,2021-08-22
+635,2021-08-26 23:57:10+00:00,1431043071521824774,YamFinance,"@MUSTCometh @tomsiwik @Hector15403335 @Maxime72596066 @picklefinance @BadgerDAO @aavegotchi @0xPolygon And if blockchain games 🎮 just aren't your thing, don't forget that you can still earn rewards by depositing liquidity into the $YAM/$MUST pool at https://t.co/phYayGgQqO and then staking your LP tokens at https://t.co/PZ2OeRnb0F! 
+
+Happy mining out there! ⛏️",5,1,0,2021-08-26
+642,2021-08-27 18:40:37+00:00,1431325798041067520,YamFinance,"The auction for The Rotunda 🥧, our #YamsInSpace Mythic-level spaceship, has officially ended! 🍠
+
+Congratulations to Cryptofan007 on your new ship and hope it earns you plenty of comet-mining rewards! ☄️
+
+https://t.co/NbY8KNz6EI",11,0,2,2021-08-27
+643,2021-09-01 20:27:14+00:00,1433164566716993536,YamFinance,"The Museum of Fine Yams would like to invite you to their second artist exhibition live in the metaverse!
+
+Romantic Futurism will feature two artists, the incredible @sintang_ligalig and @ivonatau 
+
+Starting 17:00 UTC tomorrow Thursday 2nd in Discord:
+https://t.co/BAB3zx1Skk https://t.co/mnvnhjE0cF",22,0,9,2021-09-01
+644,2021-09-02 05:28:50+00:00,1433300865956208642,YamFinance,"We're pleased to announce an exhibition of breathtaking paintings by #IvonaTau and #MarlonHacla, opening in @cryptovoxels this Thursday, Sep 2nd, at 5 pm UTC! 
+
+Come join us tomorrow for an exciting artist talk! @ivonatau @sintang_ligalig https://t.co/oZvdh1Rf1R",12,1,3,2021-09-02
+647,2021-09-10 05:27:11+00:00,1436199551988289538,YamFinance,"An on-chain proposal is live - busy proposal this month!
+
+- renewing contributors on 3 month stream
+- topping up $YAM multisig 
+- exiting from ETH/DPI Uniswap Indexcoop staking (rewards have ended)
+- rebalancing of Yam treasury
+
+Vote on-chain here: https://t.co/pCNmTIoXBH https://t.co/C6AkDcHSjM",8,0,2,2021-09-10
+649,2021-09-12 19:32:05+00:00,1437136954961825792,YamFinance,"Yam Minting Incident Postmortem - for any questions or feedback please join us on Discord.
+
+https://t.co/nFtOD3NXvd",25,2,6,2021-09-12
+652,2021-09-13 17:05:59+00:00,1437462576661729280,YamFinance,"Yam Brief 21: Metaverse and More!
+
+🎨 Romantic Futurism Exhibition
+🕵️ Bug post-mortem
+🎙️ @em0tionull interview
+🏡 sushiHOUSE success! 
+
+https://t.co/HkB9bTC1FZ",8,0,3,2021-09-13
+653,2021-09-14 15:20:05+00:00,1437798311705120775,YamFinance,"The @MUSTCometh x YAM Cometh Spaceship Collection is so much fun  - each spaceship was designed by a member of the $YAM and $MUST communities. 
+
+Check them out: https://t.co/2n8TZYiRoT https://t.co/WKnkQLMes1",22,2,4,2021-09-14
+656,2021-09-15 18:34:53+00:00,1438209724118351875,YamFinance,"We'll be having #YAMOfficeHours tomorrow, Thursday Sep 16, at 5 pm UTC on our Discord! Feel free to drop by and discuss + brainstorm anything with the YAM Team. 
+
+Would love to see you there!
+
+https://t.co/hoMFqkDUhP https://t.co/ZTYFjTpMNO",5,0,2,2021-09-15
+657,2021-09-16 13:01:31+00:00,1438488217511243776,YamFinance,"Gas costs are rising! Speculate on GAS with uGAS on #YamSynths 👀
+
+https://t.co/4fFdl9gyqH https://t.co/n48vAOtdIR",6,1,2,2021-09-16
+658,2021-09-22 20:07:52+00:00,1440769839321157642,YamFinance,"@ceramicnetwork For MoFY, Ceramic will help our developer team propagate artist work and profiles into a mutable stream of content. 
+
+We're excited to have Ceramic as a pillar of our MoFY protocol and further decentralize how we build YAM.",9,1,0,2021-09-22
+660,2021-09-28 21:28:19+00:00,1442964414131408897,YamFinance,"We have FIVE snapshot signaling votes live! 🔥
+
+🙏 2 New contributors 
+🔥 Buyback and build
+🧑‍🔧 Engineering fund
+📑 Contributors update
+
+Head to https://t.co/KEkRuGBJE6 and get voting! 🗳️
+
+Join the forum discussion: 🫂
+https://t.co/aegmUZbbYQ https://t.co/k5Xwq1npFC",9,1,3,2021-09-28
+661,2021-09-29 22:26:16+00:00,1443341382618394627,YamFinance,"Join us tomorrow 17:00 UTC for the community  call!
+
+We'll be presenting a deep dive on the upcoming new Yam DAO website. 👀
+
+DeFi 🤝 NFTs
+
+Are you ready? Join us on Discord. https://t.co/b0OySyPgGb",11,0,3,2021-09-29
+662,2021-09-30 16:27:46+00:00,1443613552678477834,YamFinance,"Yam Community Call 🍠
+
+Join us for a deep dive into our new Yam DAO website!
+
+DeFi 🤝 NFTs
+
+In 30 minutes on our discord! https://t.co/hoMFqkDUhP https://t.co/IkbFkQmxfS",11,1,2,2021-09-30
+664,2021-10-01 18:06:00+00:00,1444000659959918592,YamFinance,"&lt;3 
+https://t.co/orTF4ARLLG",6,1,2,2021-10-01
+665,2021-10-11 16:48:00+00:00,1447604912100106240,YamFinance,"@UMAprotocol We are excited to see how the new success token rewards work in practice and would love to hear feedback from the community on this feature!
+
+We at Yam Synths are hard at work on the next iteration of our synths using the new LSPs and will have a number of updates soon  🍠 https://t.co/QEXG1TLJct",7,0,0,2021-10-11
+674,2021-10-19 23:11:28+00:00,1450600517588160515,YamFinance,"Don’t miss our first ever Artist Takeover. VR artist @em0tionull has designed a mind blowing art installation at MoFY in @cryptovoxels. 🤯
+
+This event will be jam packed with wearables, artwork, POAPs, and a competition. 👀
+
+Check out this sneak preview from the metaverse https://t.co/KSm09tivLw",135,12,44,2021-10-19
+676,2021-10-20 21:41:37+00:00,1450940292845248518,YamFinance,".@em0tionull is an unbelievable artist taking VR to the next level. 🤯
+
+This Thursday 5PM UTC he will be MoFY's first ARTIST TAKEOVER.
+
+Join us for the live metaverse event, there will be plenty of prizes! 🪅
+
+Want to learn more now?🧠  We got you covered: https://t.co/4apqky9Yfo",44,7,23,2021-10-20
+677,2021-10-21 17:26:21+00:00,1451238438301323272,YamFinance,@em0tionull @winterbearsnft @poapxyz And if this is your first time in @cryptovoxels here is a guide on how to navigate this metaverse world! https://t.co/16jbEoYNEN,5,2,1,2021-10-21
+683,2021-10-22 01:56:46+00:00,1451366889796644878,YamFinance,"@charizardinvest @em0tionull @winterbearsnft @poapxyz hi XX, were you able to get a POAP? if not, DM and i'll send you a direct link!",1,2,0,2021-10-22
+684,2021-10-25 04:27:49+00:00,1452492065967837185,YamFinance,Join the @em0tionull creative writing contest in our discord and earn a chance to win a rare Emotionull NFT! ✌🏽 https://t.co/Pv7FAr7bxY,7,3,5,2021-10-25
+685,2021-10-27 23:18:55+00:00,1453501491982086156,YamFinance,"@em0tionull To help everyone get inspired Emotionull wrote up a summary and blog post that covers who Phetta is and why he’s in love with exploring the #Phettaverse.
+
+https://t.co/lldrcyz1R3",6,2,1,2021-10-27
+689,2021-10-28 19:09:35+00:00,1453801136478203907,YamFinance,"We're happy to share our $YAM Q3 2021 Treasury Report!
+
+Dive in for updates on:
+
+- our DAO treasury 🍠
+- operational and investment income 💰
+- our expenses 💸
+
+Read below!
+
+https://t.co/IBpjAathUR",13,7,3,2021-10-28
+690,2021-11-09 01:36:20+00:00,1457884731496976392,YamFinance,"Furthermore, there are 2 decisions that still need to be made and are up for snapshot vote until 11pm UTC on wednesday, Nov. 8th.
+
+The forum post regarding these votes is here: 
+
+https://t.co/TfN4ZsJgFn",2,1,0,2021-11-09
+692,2021-11-10 06:28:04+00:00,1458320533540544514,YamFinance,"Snapshot is live:
+https://t.co/pS9Zq6vYzY",11,5,1,2021-11-10
+693,2022-01-02 00:40:31+00:00,1477439626260402181,YamFinance,"@galloway_the We believe tokens are a new and powerful coordination mechanism that we should use to further our vision.
+
+This is why we have our token. 🍠 https://t.co/gKUCAzDMs9",5,1,1,2022-01-02
+703,2022-01-05 05:53:44+00:00,1478605615790493697,YamFinance,"Request for Feedback: Utilize Yam’s Treasury to Purchase $CRV/$CVX to Mine Bribe Rewards by @kwiledirects 
+
+Should Yam participate in the Curve Wars and generate yield for our treasury? Join the discussion in our forums below! 👀
+
+https://t.co/ZSc97tX0dp https://t.co/SIyvP9C7lF",14,1,6,2022-01-05
+704,2022-01-07 19:59:03+00:00,1479543122447249408,YamFinance,"We are refining our DAO practices to evolve our organization, streamline processes, and empower our community.
+
+Join the discussion. 🍠✔️
+
+https://t.co/rYKdlNkuE6 https://t.co/FHbTpDDr7x",41,20,25,2022-01-07
+705,2022-01-24 16:56:55+00:00,1485657879583543296,YamFinance,"Yam Quarterly Treasury Report, Q4 2021
+
+Join @galloway_the as he breaks down the DAO's:
+
+💰  Revenue
+💸  Expenses
+🌕  Assets
+
+Plus a deeper insight into the DAO's evolution over the quarter and a vision for what's next! 🍠
+
+https://t.co/3ps4wQXqky",112,15,79,2022-01-24
+706,2022-01-28 16:18:29+00:00,1487097761145184261,YamFinance,"Dear @UMAProtocol Community 
+
+The vote is live for our new uGAS and uPUNKS price identifiers to support our upcoming #YamSynths LSP Synth Launch. 
+
+https://t.co/ikmMu5n7bg
+
+Please vote in support ❤️ 🍠 https://t.co/Lg7buhwnS2",211,51,174,2022-01-28
+707,2022-04-26 16:34:35+00:00,1518991945540026370,YamFinance,"We're excited to share that one of our core contributors @galloway_the will be a guest on the ""Web3 1:1 Talk Show"" @thedapplist podcast!
+
+Web3 1:1 Talk Show -  ‘Building and re-building DAOs’ 
+
+✨ Wen? This Friday at 3:30 pm UTC
+
+✔️ Where? Link below!
+
+https://t.co/rYzy3TF2K0",11,7,3,2022-04-26
+708,2022-07-09 18:58:10+00:00,1545844779812098048,YamFinance,"Earlier today, there was a governance attack on the DAO that has been thwarted. 
+
+An unverified contract was deployed and governance proposal submitted via internal transactions to make it harder to notice. 
+
+But the attack was noticed and the proposal has been cancelled. ✔️ https://t.co/DnuK57sF8f",242,10,43,2022-07-09
+710,2022-07-10 20:52:20+00:00,1546235897145958404,YamFinance,"@galloway_the A week from now, we will begin a week long snapshot vote (with the snapshot block the same as the original vote so voting power is equivalent).
+
+Looking forward to discussions in our discord and on the forums 🍠
+
+5/5",5,0,0,2022-07-10
+715,2022-07-16 23:40:05+00:00,1548452440051093504,YamFinance,"A more complete postmortem of the thwarted attack from July 9th can be read here:
+
+https://t.co/0eS2CoqFi5 https://t.co/7ggSbMTtud",35,27,12,2022-07-16
+721,2022-07-21 14:47:40+00:00,1550130391436038145,YamFinance,"The re-vote for the treasury redemption proposal is up on snapshot. It will run until July 27th, 2022 at 00:00 UTC
+
+🗳️  Treasury Redemption re-Vote : https://t.co/krztBpAu6s
+
+Discussion is still open: https://t.co/CiHI2FTHNy
+
+This is a big one, so please think carefully and vote! https://t.co/s5UgHJX4sj",6,25,0,2022-07-21
+722,2022-07-28 02:41:23+00:00,1552484332282978307,YamFinance,"The snapshot for redemptions of the Treasury has ended with a ""No."" The tally was 1.4M against and 611K for. This was the highest turnout for a vote that we had in a long time with ~2.1M BoU YAM (approx 35.7% of total supply.)
+Thank you to all who voted.
+https://t.co/uUGLeq4LUG",11,117,1,2022-07-28
+723,2022-09-15 07:43:13+00:00,1570317297453236224,YamFinance,🐼 https://t.co/jelEx7JAXl,16,48,0,2022-09-15
+725,2022-09-23 02:57:37+00:00,1573144528760246272,YamFinance,@adamscochran 👋,1,0,0,2022-09-23

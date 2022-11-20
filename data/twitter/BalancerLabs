@@ -1,0 +1,1344 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-02-26 17:08:09+00:00,1232713976842194944,Balancer,"@TrudelAndrew @JordanLyall @tokensets Yes Andrew, Balancer will allow anyone to create whatever pools (initially up to 8 tokens) they want. Any erc20 compatible token can be added permissionlessly.
+
+Hang on tight, more news coming soon!",1,1,0,2020-02-26
+1,2020-02-27 17:27:44+00:00,1233081292058697729,Balancer,"Check out our new site at https://t.co/8p2lzmRLAq 
+
+Stay tuned for a series of releases over the next few weeks 🚀",66,1,17,2020-02-27
+2,2020-03-24 18:53:57+00:00,1242525076932657156,Balancer,"We are extremely excited and grateful to announce we closed our seed round!
+
+https://t.co/Qb9turhw1i",260,13,48,2020-03-24
+4,2020-03-31 16:05:23+00:00,1245019366816702466,Balancer,Balancer is Live 🎉 https://t.co/5cansWR7M3,247,15,64,2020-03-31
+8,2020-04-08 16:20:51+00:00,1247922364832256000,Balancer,@AlexMasmej @jzlegion @ricburton @tokensets @PieDAO_DeFi @BUY_MAGIC You can also bootstrap liquidity as part of the rebalancing https://t.co/VLl4IAwfm2,7,0,0,2020-04-08
+9,2020-04-10 17:06:14+00:00,1248658562605363201,Balancer,"One week into launch and we’ve hit $500,000 in liquidity! 🐣Follow our growth at https://t.co/ix1PPIpDuj https://t.co/MGUEiYAMzv",61,3,14,2020-04-10
+10,2020-04-11 15:09:02+00:00,1248991455626002433,Balancer,"@IAmNickDodson @idlefinance @1inchExchange No admin keys, no upgradability, no control",8,1,0,2020-04-11
+11,2020-04-24 21:09:45+00:00,1253793272838971393,Balancer,"Come hack on Balancer for the @ETHGlobal HackMoney event! 🛠
+
+$1300 - 1st
+$700 - 2nd
+
+Prizes will be awarded for the most interesting use cases built on Balancer protocol. A guide to get started https://t.co/IaHvRqf6ln",31,0,11,2020-04-24
+12,2020-05-12 14:35:59+00:00,1260217160741392389,Balancer,"@George_harrap https://t.co/eDcNaiZuL4 is working on adding Balancer. In the meantime, 1inch has some stats at https://t.co/kEbZjim5VN",0,0,0,2020-05-12
+13,2020-05-15 15:23:04+00:00,1261316172831752198,Balancer,"We're excited to share that starting shortly (days, not weeks), Balancer liquidity providers will get $BAL governance tokens! ⚖️🌊⛏️🚀
+
+To learn more:
+https://t.co/t18nEQR6rU",108,2,40,2020-05-15
+14,2020-05-19 17:01:08+00:00,1262790404870725632,Balancer,Balancer has completed another full audit with @ConsenSysAudits https://t.co/815yDKWjQ8 🔒,39,2,2,2020-05-19
+16,2020-05-22 19:02:35+00:00,1263908130926313472,Balancer,Exciting way to use Balancer as a building block for incentivizing liquidity through staking https://t.co/xivlXYWihB,10,0,0,2020-05-22
+17,2020-05-29 18:00:36+00:00,1266429246785966080,Balancer,"The current Balancer pools don't suit your needs? 
+
+Now you can easily create your own. ✨
+
+Welcome aboard, liquidity mining starts this Monday! 🚀
+
+https://t.co/P3x6hER3ay",99,9,26,2020-05-29
+18,2020-06-03 21:37:14+00:00,1268295702876209152,Balancer,@Christoph_Sigi Can you DM a screenshot of the details here or on discord? And we’ll take a look,1,1,0,2020-06-03
+19,2020-06-04 14:17:56+00:00,1268547539046973447,Balancer,@AndrewSportX @ChasingDai We pushed an update this morning that should help! Let us know if you are still running into issues,3,1,0,2020-06-04
+20,2020-06-07 23:46:11+00:00,1269777708613058560,Balancer,Week 2 of BAL mining starts shortly with an updated formula https://t.co/91OoPuYkLp Thanks to the community members who proposed and pushed this update through. Join our discord &amp; forum to participate in governance and help shape protocol incentives,27,4,7,2020-06-07
+21,2020-06-08 00:14:09+00:00,1269784746583826432,Balancer,"END_BLOCK = 10221761
+
+A draft of BAL distributions for week 1 will be published tomorrow",3,1,0,2020-06-08
+22,2020-06-09 15:50:23+00:00,1270382744556711936,Balancer,@devops199fan There’s a draft in our discord. Finalizing the repo / docs / instructions this morning and then will post on our socials,1,0,0,2020-06-09
+23,2020-06-10 00:22:16+00:00,1270511564060332032,Balancer,"A draft for the first week of BAL mining distributions is up at https://t.co/uURZh5naa1
+
+The first mint is still a couple weeks out to give users time to review and reproduce results.",36,1,7,2020-06-10
+24,2020-06-11 16:54:40+00:00,1271123695902343172,Balancer,Custom tokens are now supported in pool creation as well! https://t.co/UZW9GGNY6w https://t.co/DQkYFpoihk,37,5,5,2020-06-11
+25,2020-06-13 16:34:55+00:00,1271843503191007232,Balancer,"@noahseidman @CurveFinance @renprotocol The slippage of a Balancer pool with the same liquidity as Curve is going to be indeed much worse. 
+
+The difference is that the risk LPs on Balancer are taking is much lower if one of the assets goes down.
+
+If that happens, the Curve pool will pretty much only hold that token...",7,1,1,2020-06-13
+28,2020-06-14 20:44:14+00:00,1272268632542846976,Balancer,"Thanks to our community's initiative, the calculation of BAL Liquidity Mining will be improved again. Starting in a few hours, at 00:00 UTC, pairs of tokens that have a hard peg (can be wrapped into each other) will have a factor of 0.1 for BAL mining.
+
+https://t.co/LHICNUeXUs",32,0,11,2020-06-14
+29,2020-06-15 20:08:53+00:00,1272622126844051461,Balancer,"Week 2 BAL mining distributions https://t.co/6FH4LOfPAo
+
+You can also view feeFactors and ratioFactors on individual block reports. Initial mint is coming soon (tm)",21,0,8,2020-06-15
+30,2020-06-16 03:27:40+00:00,1272732550163767296,Balancer,"@Ferdinand_hodl @compoundfinance Two options:
+- Private pool where you can bind, gulp, and unbind COMP
+- Shared pool but something like 48% cETH / 48% cDAI / 2% COMP
+
+If it’s shared and doesn’t have COMP, then similar to other liquidity pools it is lost",1,1,0,2020-06-16
+31,2020-06-21 23:06:11+00:00,1274841070464098305,Balancer,Are you familiar with how liquidity mining distribution is calculated? 👇 https://t.co/EEtvK8hptq,18,2,5,2020-06-21
+32,2020-06-22 02:08:32+00:00,1274886961170391047,Balancer,"Week 3 BAL mining distributions https://t.co/NtSE1noUvk 
+
+Be sure to double check your addresses &amp; amounts for weeks 1-3. BAL is coming any day ⏳",49,6,5,2020-06-22
+34,2020-06-23 18:32:15+00:00,1275496909940101127,Balancer,"Token contract address:
+https://t.co/KUYajp9VwN",13,1,2,2020-06-23
+36,2020-06-24 22:55:20+00:00,1275925503573135364,Balancer,"The idea is two-fold:
+
+1) changes to the mining rules should not be retrospective
+
+2) attempts to game the distribution process (questionable liquidity provisioning) should be dealt with by the governance as promptly as possible.",50,1,3,2020-06-24
+40,2020-06-26 22:16:04+00:00,1276640397138198528,Balancer,@DeFi_Dad @mstable_ Your SNX is probably locked in Synthetix!,1,1,0,2020-06-26
+41,2020-06-27 00:16:09+00:00,1276670617752829952,Balancer,@DeFi_Dad @msettecasse @mstable_ If you want to jump in discord we can assist better! https://t.co/UxCrfmOV3a,1,1,0,2020-06-27
+43,2020-06-28 14:46:12+00:00,1277251962463977472,Balancer,Single-asset deposits was released this weekend! Get exposure to complex portfolios and liquidity pools with only one of the tokens ⚖️ https://t.co/Mun8aaYeR7,149,9,48,2020-06-28
+46,2020-06-29 15:58:08+00:00,1277632452824096774,Balancer,"@frenzy_hao This tweet thread explains why this is expected behavior, totally different from what happened yesterday: 
+
+https://t.co/EEL1xm25E3",18,3,4,2020-06-29
+50,2020-06-30 01:38:29+00:00,1277778500355870720,Balancer,"More on the thought process that the Balancer Labs team went through to decide on reimbursing all the liquidity providers who lost funds in yesterday's incident.
+
+Thank you to all community members who gave essential input to us reaching this decision.
+
+https://t.co/PQ686bAWYv",120,10,29,2020-06-30
+51,2020-07-01 01:10:43+00:00,1278133903648325632,Balancer,"Draft of week4 BAL mining https://t.co/IwnSlrBUMJ
+
+Anyone is welcome to get in touch if they think there is a calculation error.
+
+Otherwise the BAL distribution will go out tomorrow at 7pm EST.",41,3,9,2020-07-01
+54,2020-07-06 20:23:44+00:00,1280236009066827778,Balancer,"Week 5 draft is up at https://t.co/prCVgzE8LC. 
+
+We are targeting to have a consistent distribution on Tuesday's at 7pm EST. Depending on if there are major formula changes on a given week this may vary slightly, but that will be the target distribution time going forward.",42,7,6,2020-07-06
+55,2020-07-15 15:25:28+00:00,1283422439100350464,Balancer,"@CryptoK35931496 A voting tool is in the works. Voting power will be proportional BAL balance.
+No staking so far.",1,0,0,2020-07-15
+56,2020-07-17 23:47:36+00:00,1284273577135661057,Balancer,"Introducing the balFactor:
+
+https://t.co/DNRzh0E44N",8,1,4,2020-07-17
+61,2020-07-18 15:51:01+00:00,1284516031113854978,Balancer,"Voting is about to start in a few minutes, at block 10484400. Have your BAL ready for the snapshot at that block! 
+
+Cast your vote at:
+https://t.co/arOjaMxegS",52,1,27,2020-07-18
+62,2020-07-19 18:40:35+00:00,1284921092994465797,Balancer,"All three proposals have been approved by the vast majority of voters. A more detailed outcome of the voting will be published later this week.
+
+Thanks to everyone who voted!
+
+https://t.co/gg5Chnhks1",56,4,15,2020-07-19
+64,2020-07-22 15:30:32+00:00,1285960427856420869,Balancer,@Sat_Quasimoto @cburniske @alexhevans Balancer V2 will likely have configurable circuit brakers.,1,1,0,2020-07-22
+65,2020-07-23 14:01:03+00:00,1286300296227049475,Balancer,"The proposals have been approved with the following approval percentages:
+
+- feeFactor: 100%
+- balFactor: 99.95%
+- soft peg: 95.95%
+
+The turn-out was great, ~300k BAL voted, which is ~34.5% of all the liquidity mining BAL tokens distributed in the first 6 weeks.",9,1,0,2020-07-23
+68,2020-07-26 21:36:59+00:00,1287502198662889475,Balancer,"The snapshot that will define how much voting power an address has will be taken at block 10,541,900. 
+
+Any $BAL sitting in your Balancer pools will be automatically counted just like $BAL on your wallet! No need to withdraw $BAL from the pools to be able to vote with it.",7,1,0,2020-07-26
+70,2020-07-29 17:34:25+00:00,1288528316799111168,Balancer,"We'd like to congratulate our friends at @AaveAave for their Aavenomics Proposal 👏👏
+
+Their use of the Balancer protocol is a watershed moment for us!
+
+👇🧵 https://t.co/cq9SeC9rAX",107,3,32,2020-07-29
+84,2020-07-30 01:02:18+00:00,1288641030858866693,Balancer,"The proposal has been approved with 99.99% of votes. 
+
+Almost 50% of the votes were done with $BAL in Balancer pools (see darker blue bar below). 
+
+This is exciting as it sets a precedent for any token to be used for staking/voting while still contributing to liquidity! https://t.co/0BF90nObAG",9,0,2,2020-07-30
+86,2020-07-31 20:29:00+00:00,1289297031379292165,Balancer,"The snapshot block that will define your voting power will be 10,574,500. Remember it's not necessary to withdraw $BAL from Balancer pools to be able to vote with it.
+
+Link to the proposal: https://t.co/FLKiBBDM5A
+
+Thanks for voting!",11,1,1,2020-07-31
+88,2020-08-01 00:55:43+00:00,1289364151140118529,Balancer,"Thank you to all those affected for your patience on the topic of reimbursement for the incident with the Balancer pool containing $STA. 
+
+Together with @StateraProject we came up with the list of all addresses affected and the amount of tokens they will get. https://t.co/Ku93tUPZKQ",33,3,7,2020-08-01
+90,2020-08-02 16:34:28+00:00,1289962782260002816,Balancer,"Half a billion!
+
+Excited with this significant milestone that we would never have expected to achieve only 4 months after launch.
+
+The work is only beginning to better integrate Balancer liquidity and increase volume/liquidity. We will get there!
+
+H/t @teo_leibowitz for the stats https://t.co/AhK6dFNse0",353,18,81,2020-08-02
+91,2020-08-03 14:02:39+00:00,1290286963812003842,Balancer,"The proposal has passed with ~94% of approval. 
+
+Thank you to everyone who voted! https://t.co/I9FhiKfpMG",15,1,2,2020-08-03
+92,2020-08-10 16:20:13+00:00,1292858300762066945,Balancer,"We are happy to announce our third major audit, after @trailofbits and @ConsenSysAudits.
+
+@OpenZeppelin didn't find any critical, high or medium severity issues. We are extremely satisfied with the high quality of their work. https://t.co/sNJhonGimx",135,4,33,2020-08-10
+93,2020-08-12 15:07:38+00:00,1293564808575541248,Balancer,"Balancer Labs will also not accept any objections to the refund spreadsheet (see tweet below) after August 14th, 23:59 UTC. 
+
+Then we will start sending the tokens. https://t.co/lItEtgCXrK",52,10,13,2020-08-12
+95,2020-08-15 03:10:17+00:00,1294471445536440320,Balancer,"The snapshot block that will define your voting power will be 10,665,000. Remember it's not necessary to withdraw $BAL from Balancer pools to be able to vote with it.
+
+Link to the proposal: https://t.co/pj0Ak8LoFl
+
+Thanks for voting!",20,1,4,2020-08-15
+97,2020-08-16 20:12:45+00:00,1295091145744285698,Balancer,The proposal has been approved with 97.03% of votes and is going to be active from Monday 17th August. https://t.co/ZuO56XI47h,12,1,3,2020-08-16
+98,2020-08-21 13:25:58+00:00,1296800716615548929,Balancer,"Great to have our friends @AragonProject using Balancer too. 
+
+Welcome to the fam! 
+
+🤜🤛 https://t.co/8Pw47fBug7",59,2,14,2020-08-21
+99,2020-08-22 02:44:54+00:00,1297001771475312640,Balancer,"Tomorrow, Saturday 22nd of August, at 16h UTC, a voting will be active on the proposal to introduce BAL liquidity staking. 
+
+The voting will end 24 hours later, on Sunday 23rd of August, at 16h UTC.",51,5,16,2020-08-22
+102,2020-08-25 14:07:19+00:00,1298260672078163970,Balancer,We've just upgraded the exchange: now doing multi-path and smarter routing! 🚀 https://t.co/dkZkefnpzf,195,8,56,2020-08-25
+103,2020-08-27 16:34:48+00:00,1299022563788632068,Balancer,We are happy to announce we concluded the refund today. Thanks to all the affected for your patience!,50,6,18,2020-08-27
+104,2020-09-01 16:29:35+00:00,1300833188747587587,Balancer,"Less than a month later and we already have added over $1 Billion to our cumulative trades 🚀🚀🚀
+
+https://t.co/xBCGGsqTrM
+
+Special thanks to our amazing community and partners who made this possible! https://t.co/Rgg7Yd9zfq",74,13,21,2020-09-01
+105,2020-09-07 17:57:50+00:00,1303029728069156864,Balancer,"We are excited to have concluded an audit with @samczsun @trailofbits for our new Smart Pool factory. 
+
+Among many other cool use cases, LBPs (liquidity bootstrapping pools) are now a reality. 
+
+And our friends @perpprotocol are being the LBP pioneers! https://t.co/j6vGEcoHJI",121,3,25,2020-09-07
+106,2020-09-18 14:43:26+00:00,1306967069934706690,Balancer,"Smart Pools are highly versatile DeFi primitives.
+
+Here @immutbl explores a promising use case: LBPs (Liquidity Bootstrapping Pools), featuring @perpprotocol's $PERP successful launch. 🐣
+
+https://t.co/jlKxhnd9oT",46,4,14,2020-09-18
+109,2020-09-20 21:26:05+00:00,1307793178150535168,Balancer,"Thanks to all who voted! 
+
+@gitcoin is getting a contribution of 10,000 BAL from our ecosystem fund to distribute to projects/teams we all need and love 💪🚀
+
+https://t.co/3lPA8Cmk8t https://t.co/GNSa31QXg9",47,1,8,2020-09-20
+110,2020-09-21 10:46:35+00:00,1307994629380468737,Balancer,"Very interesting way of using Balancer, amazing piece by @jmonegro! https://t.co/D3lc9r3hJl",56,5,10,2020-09-21
+111,2020-09-24 12:05:21+00:00,1309101615685791750,Balancer,Excited to see yet another great protocol building on top of Balancer. Welcome @oceanprotocol! https://t.co/87QXsdrvRE,114,2,24,2020-09-24
+113,2020-09-30 14:03:40+00:00,1311305715743698945,Balancer,"PSA: Balancer doesn't have a telegram channel.
+If you see one, it's unofficial. 
+If it poses as official, it's a scam.
+
+To discuss all things Balancer, this is our discord:
+https://t.co/UxCrfmOV3a",34,5,7,2020-09-30
+114,2020-10-10 10:02:17+00:00,1314868850010263552,Balancer,"We are excited with this great use case of Balancer's flexibility.
+
+Every time there is an AMPL rebase, the weights of the AMPL Smart Pool automatically adapt to keep the price constant, preventing arbers from draining value from the pool.
+
+Check it out! https://t.co/zsa2nmSckm https://t.co/UodmXUqL1Y",90,8,21,2020-10-10
+115,2020-10-26 18:55:58+00:00,1320801360841904128,Balancer,Great writeup by the @Nsure_network team outlining why they chose to conduct a Balancer LBP for their token distribution and explaining how it works! 👏 https://t.co/GcEiX30brW,25,0,4,2020-10-26
+117,2020-10-27 22:02:59+00:00,1321210811956641792,Balancer,"Balancer community: Starting today, BAL distributions will be done through a claims contract @ https://t.co/zx4e5Vr25c. This is done using a merkle root of the totals published weekly. You can claim each week, or let BAL accumulate multiple weeks and claim in a single tx.",88,12,21,2020-10-27
+118,2020-11-02 16:48:50+00:00,1323306080378753026,Balancer,"Please watch out for scam sites when looking for Balancer on google. 
+
+Don't ever give your seed phrase to any website.
+
+Your help is welcome to report them to google ads: https://t.co/HQw6syw7vO https://t.co/0p8vHrtrRo",24,3,10,2020-11-02
+119,2020-11-05 20:13:17+00:00,1324444696081584130,Balancer,Awesome interface by @apyfinance for their token sale via Balancer LBP (currently live)! https://t.co/QTQvJcESx9,59,4,11,2020-11-05
+120,2020-11-06 19:54:40+00:00,1324802399303708672,Balancer,Votes are currently being counted 🗳️ ... for Batch #2 of  Balancer Ecosystem Fund grants! 😄 Vote now on whether a new batch of 50K BAL should be allocated towards funding community projects and services! https://t.co/QdPzhdDkEc,28,3,2,2020-11-06
+121,2020-11-09 21:35:04+00:00,1325914832248299520,Balancer,"We're excited to announce that @PanteraCapital and @SBF_Alameda have invested in Balancer. Thrilled to partner with @joeykrug, Sam, and their amazing teams! 🚀 https://t.co/1d0VNWlyaW",245,18,36,2020-11-09
+122,2020-11-17 20:39:46+00:00,1328800015276531721,Balancer,"We are extremely excited to have Alex join our team and are looking forward to rethinking our UI/UX to provide the best experience for our customers!
+💪🚀🚀 https://t.co/tAWEsbYbi0",76,8,9,2020-11-17
+123,2020-11-18 21:36:36+00:00,1329176708050608128,Balancer,Now unlocked: 50K BAL in grants available to teams/individuals building on the Balancer protocol or providing services to the community! 🔓💰🪙 https://t.co/INS60GYzpL,29,1,10,2020-11-18
+124,2020-11-19 12:23:32+00:00,1329399909120937985,Balancer,"Use the Balancer coupon for a 100% discount 🔥
+https://t.co/FxJKa7iWUh",2,4,0,2020-11-19
+126,2020-11-20 23:09:11+00:00,1329924783740477440,Balancer,"The AMPL #SmartPool showcases the power of Balancer's flexibility. 
+
+By updating pool weights proportionally to balance updates (rebase), prices are kept constant, avoiding predatory arbitrage.
+
+We are looking forward to many more such creative use cases for Balancer! https://t.co/uX8jezzeg2",84,7,24,2020-11-20
+128,2020-11-26 00:03:31+00:00,1331750396876951555,Balancer,"Attention $BAL holders: there will be a vote this weekend to raise the liquidity mining cap for $AMPL from $1M to $3M.
+
+Snapshot block: 11336635 (~22:00 UTC Thursday)
+Voting spans: 23:00-23:00 UTC Thursday-Sunday
+Changes enacted: 00:00 UTC Monday
+
+https://t.co/FWpSZp2trN",47,9,12,2020-11-26
+130,2020-12-01 16:37:22+00:00,1333812443001229312,Balancer,"Learn about Balancer Smart Pools, an exciting innovation in DeFi! Tune into Jeremy Musighi @immutbl’s presentation at the @OceanProtocol Data Economy Challenge, going live in about 15 minutes! 🔜 https://t.co/alGnkgFnSI",35,1,6,2020-12-01
+132,2020-12-10 18:31:08+00:00,1337102567822696449,Balancer,"Attention $BAL holders: there will be a vote this weekend to raise the liquidity mining cap for $AMPL from $3M to $10M.
+
+Snapshot block: 11433228 (~18:00 UTC Friday)
+Voting spans: 19:00 UTC Friday - 23:00 UTC Sunday
+Changes enacted: 00:00 UTC Monday
+
+https://t.co/XqtoHGvllI",55,6,11,2020-12-10
+133,2020-12-13 23:04:26+00:00,1338258509411069953,Balancer,Voting has closed. AMPL's liquidity mining cap will be increased to $10M! https://t.co/DlFS6DklOT,58,7,10,2020-12-13
+134,2020-12-15 19:18:03+00:00,1338926310689812482,Balancer,"We recently launched a new version of our exchange app. Aside from the new design, it's a lot faster and includes many UX improvements. Great team work by @DestinerX, @bonustrack87 and the whole Balancer team!
+
+Check it out at https://t.co/SdNX7nvX7J https://t.co/gYVztgBYAA",121,11,22,2020-12-15
+135,2020-12-16 22:35:40+00:00,1339338431927906306,Balancer,"The proposal offers a 10% boost to liquidity mining weight for LPs who participated in the most recent Snapshot vote - meaning each week, active voters would receive sightly more $BAL rewards per dollar than non-voters.
+
+@0x_Lucas @Cooopahtroopa @gladstonecallum @BlockchainJames",15,4,0,2020-12-16
+137,2020-12-19 16:48:45+00:00,1340338290046713856,Balancer,"Great initiative by our BALler @DavisRamsey 👏👏👏
+
+Join our discord https://t.co/wGsJOq14cJ to learn more about the BALlers and how to become one! https://t.co/CE1vOo5uPW",29,6,3,2020-12-19
+138,2021-01-05 20:31:28+00:00,1346554932179083264,Balancer,We've been talking to some super exciting projects building on Balancer who have applied for grants from the Balancer Ecosystem Fund. Here's one of the latest- a beautification of the process to launch an IDO using Balancer Smart Pools by @PrimeDAO_! https://t.co/KCF9xI6s9k,49,6,10,2021-01-05
+139,2021-01-07 19:40:24+00:00,1347266857040924672,Balancer,Excellent intro piece on AMMs by @gaurav_gupta9. Great link to share with your friends and family who are DeFi beginners! 👏👏 https://t.co/2md8xoxNIL,44,4,12,2021-01-07
+140,2021-01-11 22:37:47+00:00,1348761048975876096,Balancer,"Want to join Balancer Labs? We are looking for a front-end dev to build the next iteration of our app!
+
+If you have a passion for our protocol, experience with ethers.js and Vue.js, and an affinity for building great UX, then email us at career@balancer.finance",53,5,11,2021-01-11
+141,2021-01-14 18:48:13+00:00,1349790440862715907,Balancer,"This will be the first vote following the introduction of the new govFactor, so LPs should be prepared to participate in order to boost their effective liquidity mining contributions for the near future. As a reminder, there is no need to remove $BAL liquidity in order to vote!",20,1,2,2021-01-14
+142,2021-01-17 23:07:24+00:00,1350942828084535297,Balancer,"The vote closes in favor of the cap increase for $DEXG. And the effect of the new govFactor is immediately apparent; in all 9 of the previous cap change votes, an average of 120k $BAL participated. In this vote, 893k $BAL participated. That is almost a 7.5x increase in turnout! https://t.co/V2yc1EEKRF",38,6,8,2021-01-17
+143,2021-01-22 17:17:09+00:00,1352666626005594115,Balancer,"Vote #1: Balancer Exchange Gas Reimbursement
+
+Activate a four-week pilot program to reimburse gas costs for Balancer Exchange swaps between any two of $WETH, $WBTC, $USDC, $DAI, and $BAL. Reimbursements would be paid in $BAL up to 7,500 total per week.
+
+https://t.co/vqnIqlwyvW",13,2,5,2021-01-22
+146,2021-01-25 14:55:48+00:00,1353718215449464835,Balancer,"Vote results:
+
+Balancer Exchange Gas Reimbursement: Approved
+SourceCred Engagement Incentives: Approved
+$GNO Cap Change: Keep cap at $10M (unchanged)
+
+This means the gas reimbursement pilot is live! For eligible pairs and other parameters, see:
+
+https://t.co/18cr5UEuyP https://t.co/vh08ATWNuW",14,1,4,2021-01-25
+151,2021-01-28 17:51:28+00:00,1354849588843335680,Balancer,"Outside of on-chain actions, Balancer contributed to the wider ecosystem via:
+
+- @snapshotlabs off-chain voting
+- @gitcoin grants matching
+
+The community is now rewarding contributions through the govFactor and @sourcecred incentives.
+
+More on the forum 📃
+https://t.co/MqDYGZ02N1",18,1,0,2021-01-28
+157,2021-01-29 17:02:50+00:00,1355199738375618561,Balancer,Congrats to the @AlphaFinanceLab team! https://t.co/VJzVEGTOIO,74,3,6,2021-01-29
+158,2021-02-01 22:08:24+00:00,1356363798899253253,Balancer,"🥳 The first week of the exchange gas reimbursement pilot has yielded 929 $BAL in reimbursements for traders! But remember, we've budgeted a maximum of 7,500 $BAL per week, so there's a lot more where that came from. More info here:
+https://t.co/9BSE7DpYvA",51,3,12,2021-02-01
+160,2021-02-02 16:21:31+00:00,1356638891944607754,Balancer,"This launch is a step towards Balancer’s vision to become a flexible, efficient source of DeFi liquidity.
+
+To keep up with V2, join the emerging community of BALlers on Discord and keep a close eye on the governance forum!
+
+https://t.co/wGsJOq14cJ",43,3,2,2021-02-02
+171,2021-02-04 14:20:51+00:00,1357333301275594755,Balancer,"For more info on the LBPs thus far, check out this 🔥 thread by our very own @DestinerX!
+
+https://t.co/QTNH94AxUX",9,26,1,2021-02-04
+172,2021-02-05 22:09:49+00:00,1357813708525813760,Balancer,"All three votes are simultaneous. The parameters are as follows:
+
+Snapshot block: 11798835 (~22:00 UTC Friday)
+Voting spans: 23:00 UTC Friday - 23:00 UTC Sunday
+Changes enacted: 00:00 UTC Monday (February 8)
+
+The clock is ticking ⏲️",10,1,3,2021-02-05
+177,2021-02-08 15:41:08+00:00,1358803055534366721,Balancer,"✅ All three Snapshot proposals were approved this weekend.
+
+$DOUGH cap raised from $1M to $3M
+$DEFI+L cap raised from $1M to $3M
+
+A greater share of the weekly $BAL distribution will go to pools containing either of these tokens from @PieDAO_DeFi 🥧
+
+And finally...",77,6,13,2021-02-08
+179,2021-02-09 00:43:30+00:00,1358939545123753984,Balancer,"With AIP-9, @AaveAave LPs earn $AAVE rewards for staking Aave Balancer Pool Tokens (ABPTs) to secure the protocol.
+
+Not to mention, stakers also earn $BAL!
+
+Composability at its finest 🤝
+https://t.co/KWgNnX0lBR https://t.co/bPJdZYLrWN",53,10,16,2021-02-09
+180,2021-02-10 01:04:38+00:00,1359307251605901313,Balancer,"Working with 🔥_🔥 (Fire Eyes DAO) to reignite the Balancer community has been fantastic.
+
+We're excited to work alongside them for Balancer V2 as we continue to empower a growing group of Ballers.
+
+Thanks for all your help 🔥_🔥! https://t.co/F8qpuXiHnP",55,2,17,2021-02-10
+182,2021-02-11 15:22:24+00:00,1359885504683073542,Balancer,"👻 Proposal #1: Increase $AAVE capTier from cap3 to cap4 ($10M -&gt; $30M)
+
+The recent AIP-9 activation of the 80/20 AAVE/WETH pool in the @AaveAave Safety Module has caused a surge of $AAVE liquidity on Balancer. Allocate more $BAL per week to $AAVE pools.
+
+https://t.co/LcUUkX3AZw",24,5,11,2021-02-11
+185,2021-02-18 22:01:38+00:00,1362522690620256257,Balancer,"Want to join Balancer Labs?
+We are hiring front-end developers!!
+
+Email your profile to career[at]https://t.co/8p2lzn9mrY",36,3,14,2021-02-18
+186,2021-02-19 20:18:22+00:00,1362859088430956545,Balancer,"Attention, $BAL governors: There will be 3⃣ Snapshot votes this weekend! LPs must vote in at least one proposal to ensure govFactor activation for next week.
+
+Snapshot block: 11889925 (~22:00 UTC)
+Voting spans: 23:00 UTC Friday-Sunday
+Changes enacted: 00:00 UTC Monday
+
+Details ⤵️",39,4,10,2021-02-19
+190,2021-02-22 20:24:06+00:00,1363947697775009792,Balancer,"We are very excited to support such a talented team @GyroStable
+
+Excited with the next steps of the journey. Kudos to @aklamun @ljfgudgeon @danhper ! https://t.co/4YRNopZ4wx",38,2,5,2021-02-22
+192,2021-02-23 16:31:18+00:00,1364251498956341248,Balancer,"The Aave-Balancer Asset Manager replenishes the cash amounts in the Balancer vault to prevent trades from failing and continually invests more tokens in Aave to maximize yield.
+
+We're working on a number of ways to optimize these strategies leading up to V2 launch! https://t.co/0IYNKOuayT",30,1,2,2021-02-23
+199,2021-02-26 22:50:17+00:00,1365434037108498433,Balancer,"Thank you to @BanklessHQ for hosting our CEO @fcmartinelli today. If you missed the live, you can still watch the video below. https://t.co/vct3oqNuZT",75,4,8,2021-02-26
+201,2021-03-05 20:02:09+00:00,1367928440683368455,Balancer,"Attention, $BAL governors: There will be two Snapshot votes this weekend.
+
+⛽️ Proposal #1: $BAL for Gas ⛽️
+
+This long-awaited revamp of the gas reimbursement campaign allows for more deterministic estimation of the $BAL amount at trade time, improving UX!
+
+https://t.co/760lVgZMVF",80,11,21,2021-03-05
+204,2021-03-06 16:31:38+00:00,1368237848890118145,Balancer,"During the @ethalend LBP today, our IPFS provider experienced a caching issue. This was a bug in one of the external tools utilized by our UI, and the core Balancer protocol is unaffected. We have implemented a workaround, and the Exchange will be fully functional moving forward.",47,18,5,2021-03-06
+205,2021-03-19 20:18:13+00:00,1373005912525348866,Balancer,"Learn about how @hydra_dx, a @Polkadot project, executed the most successful LBP yet on Balancer
+
+https://t.co/1jTFjpCDkv",158,5,30,2021-03-19
+207,2021-03-23 16:06:17+00:00,1374392063232339985,Balancer,"We are excited to announce our partnership with @gauntletnetwork to maximize returns for Balancer V2 Liquidity Providers. This partnership will make available long-awaited dynamic-fee AMM pools to Balancer LPs.
+
+https://t.co/JffgmgFi5a",186,6,47,2021-03-23
+209,2021-03-26 17:25:08+00:00,1375499071629062145,Balancer,"How Balancer V2 has everything you would want from an AMM
+
+https://t.co/wz0GDFDXGJ",205,8,49,2021-03-26
+210,2021-03-29 20:09:51+00:00,1376627687951859718,Balancer,To our community: there is a group of #scammers offering free #BAL tokens on #TRON network. There is no such thing! #BAL is an #ERC20 token. If you have suspicion about a transaction you're making ask on our Discord or contact@balancer.finance.,57,5,9,2021-03-29
+211,2021-03-30 22:01:04+00:00,1377018064370196484,Balancer,"Balancer V2 groups each LP's assets under a single vault -called the Protocol Vault- that holds the assets for all Balancer pools. 
+
+Learn more about how V2 will help with gas fees and other V2 features in article by contributor @StanKozlovski 
+
+https://t.co/wz0GDFDXGJ",92,1,20,2021-03-30
+215,2021-03-31 16:14:17+00:00,1377293179083399169,Balancer,"We believe that the team we have built at Balancer Labs will be the key to our success. Our COO @keighstone has just been named one of the top women in DeFi to watch:
+
+https://t.co/k9wxRF46Jp",89,2,10,2021-03-31
+217,2021-04-01 15:08:34+00:00,1377639030435635205,Balancer,"Another day, another record LBP💥
+
+Learn how @radicle leveraged Balancer LBPs to raise a groundbreaking total of 24.73M USDC in a capital-efficient way (3.5M USDC to begin with) all the while fairly distributing their $RAD token to 1859 wallets.
+
+https://t.co/sNHFJdcmSZ",85,2,18,2021-04-01
+220,2021-04-02 17:39:04+00:00,1378039292711215105,Balancer,"Radicle’s Record Liquidity Bootstrapping Pool Sale Shows That LBPs Are Here To Stay
+
+💥Learn more about how Radicle made a splash by leveraging Balancer’s LBPs to beat the previous record. By contributor @StanKozlovski 
+
+https://t.co/sNHFJdcmSZ https://t.co/trNCJGLk1R",62,1,15,2021-04-02
+225,2021-04-06 17:58:05+00:00,1379493630079954947,Balancer,"We would like to be clear: Balancer Labs issued a small $5K grant to @Algorand as a symbolic gesture of support. 
+
+The Balancer Labs team has zero involvement in the development of this project. Our attention is solely focused on Ethereum and the upcoming launch of Balancer V2.",316,54,32,2021-04-06
+227,2021-04-09 21:10:40+00:00,1380629257282535424,Balancer,"Balancer protocol governors, how do you feel about $BAL for Gas? If the program is to continue, its budget must be replenished. Exercise your voice by voting this weekend!
+
+Snapshot block: 12208250
+Voting window: 23:00 UTC Friday - 23:00 UTC Sunday
+
+https://t.co/G0i97Fqguo",55,3,11,2021-04-09
+228,2021-04-13 19:25:53+00:00,1382052438463614981,Balancer,"It does NOT matter whether you have $1 or $1,000,000 on Balancer V2: @gauntletnetwork will constantly maximize your profits by updating pool swap fees.
+
+We are excited about enhancing AMMs as a tool to empower *all* LPs alike. Big or small, amateur or professional. https://t.co/EsmOErYYgX",135,8,29,2021-04-13
+229,2021-04-14 22:41:19+00:00,1382464007609671683,Balancer,https://t.co/Z1gXMyzGNJ,4,1,1,2021-04-14
+243,2021-04-15 16:19:46+00:00,1382730375437320192,Balancer,"A Primer on Fair Token Launches and Liquidity Bootstrapping Pools. Read the latest from Balancer contributor @StanKozlovski:
+
+https://t.co/bKiNTjQsak",55,4,20,2021-04-15
+244,2021-04-16 17:52:44+00:00,1383116162930601986,Balancer,"Balancer V2 is coming soon! Comment your favorite GIF or meme to show how you are getting ready for the launch ⬇️ best comment wins $bal swag 🙌
+
+ #balancerv2",234,63,39,2021-04-16
+252,2021-04-20 16:50:05+00:00,1384549945965907973,Balancer,@CoinMarketCap Thank you @Nikopolos @CoinMarketCap,6,0,0,2021-04-20
+261,2021-04-22 18:46:47+00:00,1385304090666622978,Balancer,"Our friends at @element_fi talk about how they are utilizing Balancer V2  for flexibility and custom trading curves. 
+
+Read more:
+
+https://t.co/ZDqDr7NwiW",87,4,24,2021-04-22
+262,2021-04-23 23:48:08+00:00,1385742315701121026,Balancer,"With V2 scheduled to arrive next week, it's time once again for $BAL holders to make important decisions about the protocol's future. This weekend, you'll decide whether to:
+
+- Give Balancer Labs emergency pause authority
+- Give Gauntlet Network the power to set swap fees
+
+⬇️",94,1,21,2021-04-23
+266,2021-04-26 20:17:52+00:00,1386776564646309889,Balancer,"🦄 Our close partner #1inch Labs is constantly looking to add more #liquidity sources and provide the best rates for their users, and our integration stands apart for @1inchNetwork 
+
+2/4",23,3,3,2021-04-26
+272,2021-04-27 16:57:27+00:00,1387088513921740801,Balancer,"💥⚖ Tomorrow is a big day for Balancer Protocol: We will be announcing a new game-changing partnership. 
+
+We anticipate this partnership will revolutionize the DEX space to deliver the best experience to traders—across price, UX, and transparency. 
+
+1/2",480,38,92,2021-04-27
+275,2021-04-28 18:44:49+00:00,1387477924664598528,Balancer,@CryptoCobain 😅 COW stands for Coincidence of Wants - a @gnosisPM proof-of-concept. Our partnership product is called BGP (Balancer-Gnosis-Protocol) - which @CoinMarketCap also didn't love 🤷‍♂️🤷‍♀️,41,4,1,2021-04-28
+285,2021-04-29 17:34:52+00:00,1387822704938536961,Balancer,"We are proud to partner with @tokengineering Academy for #OpenScience in DeFi. Balancer Simulations will gather #DeFi researchers to work on challenges like Dynamically Adjusting Pools, Efficient Liquidity Mining &amp; more.
+
+Learn more ⬇️
+
+https://t.co/f4UPd5Dmf3",46,6,8,2021-04-29
+286,2021-04-30 18:34:47+00:00,1388200174665625601,Balancer,"👏Feedback from @thedailygwei after getting a sneak peek of the upcoming new and improved Balancer V2 UI: 
+
+""It’s going to blow you away."" 🤯⬇️
+
+https://t.co/XbxoCej4kn",44,2,11,2021-04-30
+287,2021-05-03 18:52:53+00:00,1389291893167513600,Balancer,"DeFi Deep Dive – Balancing Crypto Assets with Balancer via @YahooFinance 
+
+https://t.co/RgIFGmUue9",63,6,15,2021-05-03
+289,2021-05-06 18:37:55+00:00,1390375287163076609,Balancer,"Lido's challenge is a very good example why we believe flexibility in AMM design is a must have. 
+
+Balancer V2 makes this much easier by allowing any arbitrary AMM design to benefit from the vault's network effects and security
+
+Meanwhile our bug bounty is $3.5M (1000 ETH)!! https://t.co/FAlFiYIzP7",78,3,7,2021-05-06
+291,2021-05-07 21:50:54+00:00,1390786243923939332,Balancer,"2⃣ votes this weekend!
+
+1. @TokenArchitect proposes that the Balancer Ecosystem Fund provide liquidity for BAL call options to match @UMAprotocol's contribution.
+
+2. Should $BAL for Gas be applied to Balancer V2 swaps?
+
+Voting begins in 10 minutes!
+
+https://t.co/i9YN1xhXfW",54,10,9,2021-05-07
+292,2021-05-10 10:35:36+00:00,1391703463290155008,Balancer,Balancer is growing into non-English speaking space! Our Chinese community started their Twitter and a WeChat group. https://t.co/KpwcPMkD1L,58,7,9,2021-05-10
+297,2021-05-11 19:05:23+00:00,1392194140306350083,Balancer,"If you can't join the AMA, drop your questions below and we will ask our CEO @fcmartinelli and the rest of the Balancer Labs team",5,3,0,2021-05-11
+313,2021-05-12 18:49:12+00:00,1392552455657852932,Balancer,"🕵🏽‍♂️🐞 The Balancer Labs Bug Bounty is now valued at over $4 million (1,000 #ETH) - the largest single bug bounty prize in history. 
+
+We hope it will incentivize ethical hackers to discover and report vulnerabilities in the Balancer V2 Vault architecture. Learn more ⬇️ https://t.co/yNMvmW7Muq",72,4,13,2021-05-12
+314,2021-05-13 23:00:28+00:00,1392978077270032386,Balancer,"For the next 72 hours, $BAL governors can vote to allow @gauntletnetwork to set swap fees on the new two-token TWAP oracle pools. Governors already authorized Gauntlet for the generic weighted pools, but this permission does not extend across pool types.
+
+https://t.co/K7hR9S8oCb",37,1,7,2021-05-13
+316,2021-05-14 18:02:44+00:00,1393265539842121732,Balancer,@end0xiii Coming soon! https://t.co/bXzIeqESdo,5,1,0,2021-05-14
+317,2021-05-16 21:42:37+00:00,1394045649335771142,Balancer,"⏰Join us for our second AMA on Discord - Comment this thread with your questions (max 2) &amp; vote for your fav by Monday 3pm UTC, the best 5 will receive a prize 🏆! Link here: https://t.co/8nfRuc2HsS https://t.co/zklYmYtegI",25,0,5,2021-05-16
+318,2021-05-17 16:25:07+00:00,1394328136356007939,Balancer,"💥 Our second AMA is happening now on Discord 💥 
+
+Join the Balancer Labs team &amp; @gnosisPM to talk about Balancer V2, Balancer-Gnosis-Protocol, @MEVprotection, and more. 
+
+⬇️⬇️⬇️
+https://t.co/8nfRuckikq https://t.co/HGmo2c4yWx",25,0,3,2021-05-17
+319,2021-05-18 16:38:03+00:00,1394693777160249346,Balancer,"Thank you to our V2 launch partner @powerpoolcvp! 
+
+#BalancerV2 architecture allows PowerPool to build a gas-efficient implementation that grants all participants of the Balancer ecosystem the ability to use new strategies for pool operation and asset management. 
+
+Read more ⬇️ https://t.co/bKzlIJft7E",50,8,15,2021-05-18
+320,2021-05-21 22:06:12+00:00,1395863522337337353,Balancer,"Starting next Monday, liquidity on Balancer V2 will get BAL from liquidity mining. 
+
+Ballers have voted to allocate 2,500 BAL/week for each of the following 3 pools:
+
+BAL/WETH 80/20
+WETH/DAI 60/40
+WBTC/WETH 50/50
+
+https://t.co/1ukRO1URc5",67,6,10,2021-05-21
+323,2021-05-27 13:44:06+00:00,1397911492171816961,Balancer,"We are thrilled to announce our partnership with some of the most respected investors who have shown their support of Balancer by extending $24.25M of capital $BAL.
+
+@LongHashVC @blockchaincap @fintech_io @ContinueFund @synthetix_io @kaiynne @fenbushi 
+
+https://t.co/yT0RzOuV0S",174,7,36,2021-05-27
+325,2021-06-03 22:10:09+00:00,1400575558195585028,Balancer,@0xpurp Email contact@balancer.if we can help you there,2,1,0,2021-06-03
+326,2021-06-07 18:24:30+00:00,1401968325262036993,Balancer,"Balancer V2 liquidity mining update ⚖️ This week's allocation is: 
+
+BAL/WETH 80/20: 15k BAL/week 
+WETH/DAI 60/40: 15k BAL/week
+WBTC/WETH 50/50: 15k BAL/week
+MKR/WETH 60/40: 2.5k BAL/week
+GTC/WETH 80/20: 2.5k BAL/week
+
+Head to https://t.co/4ZDb17eDag now!",62,3,15,2021-06-07
+327,2021-06-11 20:38:00+00:00,1403451471245553665,Balancer,"For the next 72 hours, $BAL governors can vote to introduce a new Tier 4 to the Liquidity Mining Program. 
+
+The proposal passing would create 10x1k BAL slots allowing a broader range of liquidity to be incentivized &amp; greater experimentation: https://t.co/jfzDNDxyOz",50,7,9,2021-06-11
+328,2021-06-14 20:02:27+00:00,1404529690526748675,Balancer,"⚖️This marks the fourth week of liquidity mining on #BalancerV2, allocating 2500 $BAL to each of the following pools:
+
+USDC/WETH 50/50 
+SNX/WETH 50/50
+LINK/WETH 50/50
+COMP/WETH 50/50
+REN/WETH 50/50 
+
+Head to https://t.co/1i6viuxKh6 now 💥",44,3,9,2021-06-14
+330,2021-06-16 18:58:41+00:00,1405238418213326851,Balancer,"📣 Calling all devs, hackers &amp; builders 📣
+
+As a proud sponsor of @ETHGlobal's  #HackMoney2021, Balancer Lab's own Jeff Bennett will be taking you through Balancer V2 &amp; our Challenge with $12k in prizes.
+
+📅Today at 4:00 PM EST
+🌎https://t.co/e7fx1DyKfZ",37,2,9,2021-06-16
+331,2021-06-18 16:49:53+00:00,1405930779675222020,Balancer,"As liquidity mining in V1 is phased out, $BAL holders must decide whether to keep incentivizing liquidity in the 80/20 AAVE/WETH V1 pool. 
+
+Vote below ⬇️
+
+https://t.co/wirQ7lzInf",26,3,7,2021-06-18
+332,2021-06-20 18:12:37+00:00,1406676376451616769,Balancer,"🧑‍💻👩‍💻
+Balancer Labs is hiring a JavaScript / TypeScript Engineer, apply here https://t.co/XstFIjUMrC",38,2,10,2021-06-20
+334,2021-06-21 18:27:07+00:00,1407042411990335489,Balancer,"Balancer Lab's own @immutbl makes a case for the ideal post-sale liquidity allocation to ensure fast-building and long-lasting liquidity for a recently launched token.
+
+Read all about it here ⬇️
+
+https://t.co/VHX1N6gVaM",49,3,14,2021-06-21
+335,2021-06-23 18:48:42+00:00,1407772619865161728,Balancer,"Balancer Labs is proudly sponsoring #Hackmoney by @ethglobal. Let’s build the future of decentralized finance together! 
+
+You have still time to join the summits https://t.co/ualAMStFBa",35,3,11,2021-06-23
+336,2021-06-25 00:03:50+00:00,1408214315350495232,Balancer,"$BAL holders are facing a big decision in the world of liquidity mining. Make your voice heard!
+
+Vote now 👇
+
+https://t.co/km5gtsVS0n",56,8,12,2021-06-25
+337,2021-06-28 18:48:13+00:00,1409584438510428166,Balancer,"It's happening! The first Balancer CommunityHall will be facilitated by @BalancerLabs. Let's #buildbuildbuild the future of the #BalancerProtocol together! 🤜🤛
+
+📌Where? https://t.co/KQl9Hj3tmD
+⏰When? Wednesday, 30th of June at 19.00 UTC https://t.co/TvltQQnZYs",43,4,9,2021-06-28
+339,2021-07-01 13:04:40+00:00,1410585145631920131,Balancer,"We are thrilled to announce that Balancer Protocol has expanded to layer 2 solution @0xPolygon. 
+
+We believe that Balancer Labs and Polygon can work closely to increase liquidity in DeFi, lower trading fees to zero, and make DeFi accessible to everybody!
+
+https://t.co/JZGvO6I2Cj",445,20,101,2021-07-01
+341,2021-07-02 19:32:26+00:00,1411045116169494532,Balancer,"Balancer launches on @0xPolygon 🤝 what does that mean for you?
+
+💥 Lower trading fees 
+💥 Over $10M in token incentives $BAL $MATIC
+💥 Diverse pool experimentation
+
+Get started now: https://t.co/5VqiBwnR3C",161,37,27,2021-07-02
+342,2021-07-06 16:17:40+00:00,1412445651900583942,Balancer,"DeFi Will Replace a Lot of Traditional Finance Services: Interview With @Crypto_Potato &amp; BLabs Head of Growth @immutbl about the 2021 bull market, #Ethereum 2.0, and #DeFi as the future of finance.
+
+https://t.co/0xgJHsKVhf",45,5,15,2021-07-06
+343,2021-07-08 13:06:36+00:00,1413122347184263183,Balancer,"The key advantage compared to other AMMs who only offer stable pools or 2 token weighted pools is that Balancer stable pools are plugged into the same protocol as weighted pools. All the tokens are inside the same single vault, making trades much more efficient.",24,22,2,2021-07-08
+347,2021-07-13 16:59:23+00:00,1414992867697717254,Balancer,Dark Mode is here ⬛️⬛️ ⬇ https://t.co/dQLzju6vD8,145,12,14,2021-07-13
+351,2021-07-15 16:54:49+00:00,1415716494374178816,Balancer,"Balancer is also the first AMM to feature multiple pricing algorithms. Get started now with our BTC and USD stable pools ⬇️
+
+staBAL3-BTC — WBTC/renBTC/sBTC (https://t.co/Sh4Dh1NbgV)
+
+staBAL3- USD — DAI/USDC/USDT (https://t.co/gZm3ncQyUw)",15,3,2,2021-07-15
+354,2021-07-21 18:06:00+00:00,1417908736375627785,Balancer,"Our Head of Growth @immutbl at #EthCC today giving a talk on Balancer #V2's innovation like the single vault architecture, custom AMM logic, and upcoming asset managers. https://t.co/d8Afs5Cze8",49,3,5,2021-07-21
+355,2021-07-23 11:40:31+00:00,1418536501965697026,Balancer,"BIG NEWS! Balancer is now part of the @Coinbase Earn family!
+
+Watch short lessons about Balancer pools, self-managing portfolios, and BAL token governance and earn $3 in $BAL.
+
+Start earning here: https://t.co/4aVtPOCeeW",82,8,15,2021-07-23
+356,2021-07-26 11:57:22+00:00,1419627905517301765,Balancer,"BIG NEWS! Learn about Balancer Protocol now and earn $3 in BAL with @Coinbase. 
+
+Watch short videos about BAL token governance, Balancer pools, and self-managing portfolios on @Coinbase Earn today.
+
+Sign up to earn → https://t.co/4aVtPOCeeW https://t.co/bn3djRbOzl",43,0,11,2021-07-26
+357,2021-07-27 13:35:07+00:00,1420014890182451204,Balancer,"💥Attention Balancer Community⚖️
+
+The monthly Balancer Community Hall is happening tomorrow on the Balancer discord channel. 
+
+Tune in at 3pm EST &amp; make sure to join https://t.co/NiNryWQCK9 https://t.co/YlCQY2UjaT",17,0,4,2021-07-27
+359,2021-07-30 15:08:30+00:00,1421125557903896578,Balancer,"Balancer July 2021 recap
+🪙 Coinbase earn campaign $BAL
+0️⃣ @0xPolygon integration
+🏊 Stable pool launch
+⚫️ Dark mode released 
+🇫🇷 ETHCC conference
+💻 HackMoney
+🐮50/50 pools @MEVprotection 
+
+&amp; much more! August is shaping up to have even more announcements &amp; integrations 🤝",97,5,25,2021-07-30
+360,2021-08-02 14:47:27+00:00,1422207421745930241,Balancer,Check out the review of Balancer #V2`s instant #oracle by @DeriProtocol ⤵ https://t.co/tQmx5d4ZCq,24,1,3,2021-08-02
+361,2021-08-03 20:56:45+00:00,1422662747360223237,Balancer,"Our friends @ETH_EGL go into how they are using Balancer Protocol to launch EGL with value.
+
+Read about EGL, BPT, 50/50 pools and more ⤵️ https://t.co/nR94AwpWiD",35,23,8,2021-08-03
+362,2021-08-11 14:46:11+00:00,1425468595602182144,Balancer,"‼️Happening tonight‼️
+@BalancerLabs tech call focused on frontend updates. Let's #BUIDL the future of the #BalancerProtocol together! 
+
+📍Where? https://t.co/KQl9HiLSv5
+⏰When? Wednesday, 11th of Aug at 5pm UTC
+➕ special @poapxyz giveaway for lucky attendees https://t.co/xnBki5OEKC",18,2,3,2021-08-11
+364,2021-08-13 14:11:01+00:00,1426184520609452035,Balancer,"‼️Attention Balancer community🗳
+
+Important votes happening this weekend on @balancerlabs Snapshot ⤵️ https://t.co/dl4NgZQhpc",26,1,9,2021-08-13
+365,2021-08-16 13:05:50+00:00,1427255279507365890,Balancer,"Balancer is thrilled to announce the launch of MetaStable Pools and a partnership with @LidoFinance for joint incentives.
+
+https://t.co/RfezCFaAr6",155,9,36,2021-08-16
+368,2021-08-18 13:51:07+00:00,1427991452395741192,Balancer,Follow @BalancerGrants for more information on applying for a grant. https://t.co/kIj87e92RV,16,1,2,2021-08-18
+369,2021-08-19 14:33:11+00:00,1428364426101465096,Balancer,".@telcoin_team has launched 7 new multi-asset pools on Balancer, which will serve as the liquidity engine of their mobile payments platform. One of the many developer use cases of the Balancer protocol! #BUIDL https://t.co/6ii2AtluWZ",474,16,144,2021-08-19
+370,2021-08-20 16:20:22+00:00,1428753788530212868,Balancer,"Congrats to the @tempusfinance team for the custom AMM that uses Balancer V2 stable pools. 
+
+""With all the new features in Balancer V2 such as Vaults and improved gas efficiency, the benefits are clear to all Tempus users interacting with the AMM."" ⤵️ https://t.co/R2va1kOzRB",45,1,11,2021-08-20
+371,2021-08-24 20:25:28+00:00,1430265020093329409,Balancer,"This week in $BAL liquidity mining ⚖️:
+
+🔹BAL/WETH 80/20: 30k BAL/week
+🔹wstETH/WETH: 2.5k BAL + 25k LDO/week
+🔹WETH/DAI 60/40: 15k BAL/week
+🔹DAI/USDC/USDT: 15k BAL/week
+🔹WBTC/WETH 50/50: 15k BAL/week
+
+Check it out:
+https://t.co/wpP4PuCSi7",30,2,6,2021-08-24
+374,2021-08-25 16:00:12+00:00,1430560652775546880,Balancer,"💥Balancer Community Call Happening Tonight 💥
+
+⏰5pm UTC / 1pm EST 
+📍Balancer Discord Stage: https://t.co/jZaIXEUOgU
+🏆 The #BALlers be distributing the winning @poapxyz  from the design contest",22,0,7,2021-08-25
+376,2021-08-26 14:30:39+00:00,1430900502791823363,Balancer,"Balancer Labs has awarded a grant to @spectrexyz to build a new type of liquidity pool for crypto art NFTs using Balancer Smart Pools ⚡️ 
+
+Read more ⬇️
+https://t.co/CoV1eI3TX2",72,5,20,2021-08-26
+377,2021-08-30 13:56:47+00:00,1432341533878018049,Balancer,"Glad to support @0xPolygon for the #PolygonGrants Hackathon. Come #buildonBalancer
+
+🗓 Aug 30 - Oct 22
+
+Register here: https://t.co/VVcomOhtZ6
+
+More Details ⤵️ https://t.co/XPf94LgyPs",23,0,2,2021-08-30
+380,2021-08-31 22:11:15+00:00,1432828357415079936,Balancer,"Congratulations @arbitrum ✨ See you in L2 😎
+
+https://t.co/R78IyB0KS6 https://t.co/M6Vhl49g6r",39,3,3,2021-08-31
+385,2021-09-01 16:56:01+00:00,1433111412763762688,Balancer,"""In less than a year, we’ve launched V2, built new Pools to further liquidity, and partnered with successful protocols to help scale Defi.”  @Entrepreneur spotlights  @fcmartinelli and Balancer Labs innovation in the DeFi space ⬇️ 
+https://t.co/0y5dFIUMiy",43,0,11,2021-09-01
+387,2021-09-02 16:08:04+00:00,1433461732471672835,Balancer,"Exciting news 📣  @HaloDAOFinance is building a custom AMM on Balancer V2 to incentivize stablecoin liquidity.
+
+Learn more👇 
+https://t.co/ASG5NOOOwP",31,0,5,2021-09-02
+389,2021-09-03 14:17:08+00:00,1433796202642898945,Balancer,"🤝 through @BalancerGrants, @tempusfinance is building a new AMM on top of V2. Learn more ⬇️ https://t.co/Z9qdGBNPXz",80,2,17,2021-09-03
+390,2021-09-07 19:30:24+00:00,1435324594185859075,Balancer,@Unbank_Yourself @arbitrum Incentive distributions on Arbitrum work the same as they do for Ethereum. You will need to do a weekly claim from the Balancer site,1,1,0,2021-09-07
+394,2021-09-08 12:36:03+00:00,1435582705882726401,Balancer,"@DeFi_pirate @arbitrum Yes, there is a toggle button in the top left corner that switches to Arbitrum.",1,1,0,2021-09-08
+400,2021-09-09 14:01:01+00:00,1435966476666740736,Balancer,"🗓 @SlingshotCrypto &lt;&gt; Balancer AMA  Happening September 13th, join us!
+
+⏰ 5pm UTC / 1pm EST 
+📌 Balancer Discord Stage: https://t.co/jZaIXEUOgU
+
+The #BALlers will be distributing @poapxyz",35,1,8,2021-09-09
+404,2021-09-10 18:30:06+00:00,1436396581675220993,Balancer,"“We are excited about WSBDApp’s launch of ETPs on Balancer V2 which aim to bridge the gap between traditional and DeFi investing.” CEO @fcmartinelli on @WSBDapp's ETPs launch ⬇️ ⬇️ 
+https://t.co/rcjNkhTqVc",72,9,31,2021-09-10
+405,2021-09-13 14:44:01+00:00,1437426847571120135,Balancer,"🔴 HAPPENING TODAY🔴 
+🗓 The @SlingshotCrypto &lt;&gt; Balancer AMA
+⏰ 5pm UTC / 1pm EST 
+📌 Balancer Discord Stage: https://t.co/jZaIXEUOgU",38,2,14,2021-09-13
+407,2021-09-14 13:38:47+00:00,1437772821162307590,Balancer,"We are thrilled to be sponsoring #ETHOnline Hackathon and partner with @ETHGlobal again to encourage devs to #buildonBalancer. 
+
+There's still time to sign up ⤵️ https://t.co/g9bkaaYGMe",27,4,6,2021-09-14
+410,2021-09-15 06:28:17+00:00,1438026870499561474,Balancer,"Pool 2? Nope. There are better options. 
+
+Balancer liquidity mining on @arbitrum is live. Check out the 33% WETH WBTC USDC Pool on https://t.co/kNWcQACCAC 😼 https://t.co/wbyl5NayGT",62,6,10,2021-09-15
+412,2021-09-16 14:27:01+00:00,1438509733812457476,Balancer,"🔷 Building on Balancer 🔷  Join us TODAY at 4:30 PM EST for a workshop during @ETHGlobal's #ETHOnline ⬇️ ⬇️ ⬇️ 
+https://t.co/lDiKsHWKgS",14,2,4,2021-09-16
+413,2021-09-20 13:52:28+00:00,1439950592198119432,Balancer,"on @arbitrum 
+🔹DEFI5/WBTC/WETH – 33/33/33: 500 BAL/week
+🔹NDX/WETH – 80/20 &amp; DHT/WETH – 80/20 &amp; GNO/WETH – 80/20: 500 BAL/week
+🔹LINK/WETH – 80/20: 1000 BAL/week
+🔹COMP/WETH – 80/20: 1000 BAL/week
+🔹MCB/WETH – 60/40: 1600 BAL &amp; 1260 MCB/week
+https://t.co/119CbfRt0Y",22,1,5,2021-09-20
+418,2021-09-22 16:45:17+00:00,1440718858541694984,Balancer,Calling all devs 📣 tomorrow is our #PolygonGrants workshop #buildonBalancer https://t.co/51gLIskA6e,23,1,12,2021-09-22
+420,2021-09-27 13:44:21+00:00,1442485264056610821,Balancer,"The Baller's Liquidity Mining committee approved incentives allocation for this week ✨
+🔹 ETH: 105,500 BAL/week
+🔹@0xPolygon: 25,000 BAL/week
+🔹@arbitrum: 14,500 BAL/week
+Plus dual incentives for many pools 🤝check out this week's changes ⬇️",43,1,8,2021-09-27
+425,2021-10-04 14:05:00+00:00,1445027174365335555,Balancer,"Check out this week's liquidity mining allocation changes ✨
+🔸 ETH: 105,500 BAL/week
+🔸 @0xPolygon: 25,000 BAL/week
+🔸 @arbitrum: 14,500 BAL/week
+
+Plus dual incentives for many pools 🤝 👇",43,15,5,2021-10-04
+428,2021-10-05 14:33:48+00:00,1445396809950584839,Balancer,"Introducing the V2 lineup of projects #BuiltOnBalancer. Starting with the open-source protocol for fixed and variable yield markets, Element Finance. @element_fi uses Balancer V2  for flexibility and custom trading curves 🤝 https://t.co/5kl6AaGIAN",75,3,22,2021-10-05
+432,2021-10-06 23:14:20+00:00,1445890195182665737,Balancer,"Fei Protocol introduces a way to manage volatility risk through a custom Investment Pool #BuiltOnBalancer 🚀 
+
+Congrats on V2 @feiprotocol 🤝 https://t.co/TzIfEg4jIk",37,0,9,2021-10-06
+438,2021-10-07 17:41:58+00:00,1446168941299048473,Balancer,"Tempus's Principal-Yield AMM which is #builtonBalancer increases capital efficiency and provides a user-friendly experience 🤝
+
+Congrats @tempusfinance team on the testnet deployment! https://t.co/QuLGkgfuP7",69,10,18,2021-10-07
+439,2021-10-11 14:15:46+00:00,1447566600752615432,Balancer,"on @arbitrum 
+🔸 TCR/WETH 80/20: 1000 BAL/week
+https://t.co/wbFZeLoez8",10,2,0,2021-10-11
+445,2021-10-12 14:23:18+00:00,1447930885270028296,Balancer,"Join us on BiliBili for a Chinese AMA live with @fcmartinelli and @LongHashVC today, October 13 at 1pm CEST / 7pm GMT+8 https://t.co/fdyXmRsYyE https://t.co/C8qGth5qWI",24,0,8,2021-10-12
+449,2021-10-13 14:18:52+00:00,1448292155806535683,Balancer,"Automated market makers are an exciting development in DeFi, but how exactly do they work? These questions and more are answered below as we deep dive into #AMMs ⤵️
+https://t.co/sELufGGxwT",40,3,8,2021-10-13
+450,2021-10-14 23:11:03+00:00,1448788469740826625,Balancer,"📢 Join us tomorrow on Discord for an AMA with @groprotocol 🤝
+
+🗓️ Friday, Oct. 15th
+⏰ 5PM UTC
+🌐 https://t.co/5TCnitv15Q https://t.co/yTzCDgUZg7",64,6,10,2021-10-14
+451,2021-10-18 14:09:49+00:00,1450101815996035078,Balancer,"Changes on @arbitrum 
+🔸 BAL/WETH 60/40: 4,000 BAL/week
+https://t.co/wbFZeL6DHA",13,3,2,2021-10-18
+454,2021-10-19 21:39:14+00:00,1450577303633727489,Balancer,Congratulations on a successful Series A! @element_fi 🚀🔥 https://t.co/oEKpv0ZOpI,36,5,3,2021-10-19
+459,2021-10-21 11:59:24+00:00,1451156161059827718,Balancer,"Introducing the Balancer-Gnosis-Protocol (BGP)
+
+Bringing light to the dark farm with @MEVprotection https://t.co/kIlFnbyIY1",337,52,40,2021-10-21
+462,2021-10-22 18:00:05+00:00,1451609317702991877,Balancer,"Two of Ethereum’s leading protocols launch a new DEX to deliver the best experience for traders 🤝 @MEVprotection 
+https://t.co/hafra8YSWJ",44,4,6,2021-10-22
+463,2021-10-23 12:05:18+00:00,1451882420710608909,Balancer,"🗞This week’s Balancer Report is live!
+
+Highlights from this week include Mainnet V2 TVL which now sits at $1.62B (a new record!) from $1.51B last week. 
+
+Read more 👇 https://t.co/jfrnTx0ivQ",33,8,9,2021-10-23
+464,2021-10-25 15:12:24+00:00,1452654283816538122,Balancer,Head over to https://t.co/EgsmQQQRCW for additional information 🧠,10,1,1,2021-10-25
+470,2021-10-26 21:57:17+00:00,1453118560390156288,Balancer,✨ @powerpoolcvp #builtonBalancer to create structured investment products and Smart ETF Pools 👏 Just think of what your project could build?🤔 https://t.co/v1ck8TYHq7,72,8,11,2021-10-26
+472,2021-10-27 16:58:48+00:00,1453405836110229504,Balancer,"#DeFi origin story: What was your first farm? 
+
+Share your stories 👇",42,22,7,2021-10-27
+473,2021-10-28 19:50:48+00:00,1453811509272866816,Balancer,"2⃣ A proposal to renew funding for the Balancer
+Balancer Grants DAO
+https://t.co/N089rFX1PE",14,3,1,2021-10-28
+480,2021-11-01 09:16:18+00:00,1455101382835544065,Balancer,"The Balancer Report just hit inboxes worldwide🌎
+
+📈Mainnet V2 TVL hits another record high
+🗳️Three governance proposals are live for voting
+✍️Another proposal has been made to activate the protocol fee
+
+Read &amp; subscribe👇
+https://t.co/zyHwKqVGGc",35,1,5,2021-11-01
+486,2021-11-02 18:12:25+00:00,1455598688093409282,Balancer,Are you interested in supporting the development of the Balancer Ecosystem or want to build on top of Balancer Protocol? Head over to https://t.co/E47kvcI6WF for more info 🧠 #BuiltOnBalancer,17,1,3,2021-11-02
+491,2021-11-03 18:52:21+00:00,1455971124257308672,Balancer,"Gauntlet helps Balancer Protocol manage both swap fees and amplification factors which increase LP returns, boost volumes, and maximize capital efficiency 🚀
+
+Read more about the impact @gauntletnetwork has had here:
+https://t.co/MmNrBwKZ5v",51,5,13,2021-11-03
+492,2021-11-04 16:11:47+00:00,1456293104726646786,Balancer,"Balancer Protocol is one of #DeFi's largest liquidity providers 💥🚀
+
+Read more and learn how Balancer Protocol can optimize your #crypto experience 🤝
+https://t.co/UYTekirW0R https://t.co/3VdIfS0yZq",58,18,13,2021-11-04
+494,2021-11-08 14:23:41+00:00,1457715450649874440,Balancer,"📢 Join us tomorrow for an AMA with CEO @fcmartinelli and @MEVprotection Product Lead @AnnaMSGeorge 💥as they discuss the Balancer-Gnosis-Protocol 🐮
+
+📅 Tomorrow, Nov. 9th 
+⏰ 4 PM UTC / 6 PM CEST / 12 PM EST
+🌐 https://t.co/jZaIXEDcSk https://t.co/aehR61acMd",48,3,9,2021-11-08
+495,2021-11-09 14:30:33+00:00,1458079570108710914,Balancer,"1⃣ vote is happening now. Voting just went live for the 
+Balancer DAO &lt;&gt; @feiprotocol treasury swap proposal.  
+
+$BAL holders  👇👇👇
+https://t.co/s5xLTcYe5P",29,3,6,2021-11-09
+498,2021-11-10 17:22:54+00:00,1458485327169867776,Balancer,"Why use Balancer Protocol's 80/20 Pools?🤔 These Pools are the sweet spot for minimizing impermanent loss while using capital efficiency. Learn why 80/20 Pools are the ideal place to concentrate token liquidity post-sale 🚀 ⤵️
+https://t.co/vQBiZSSHiZ https://t.co/95LwOLcA40",64,8,11,2021-11-10
+502,2021-11-11 14:20:12+00:00,1458801737301573634,Balancer,"The Balancer-Gnosis-Protocol protects against Miner Extractable Value 💪
+
+What exactly is #MEV, and how does it affects trades? Find out ⤵️
+https://t.co/EWA9kHwInv https://t.co/CwliG3eaFj",28,2,6,2021-11-11
+503,2021-11-12 17:20:53+00:00,1459209596640268290,Balancer,"📢 Balancer Labs is hiring
+
+We're looking for a highly skilled Web3 (JavaScript / TypeScript) Engineer to join our team. Ready to join a fully remote team on the cutting edge of #DeFi? Apply now on AngelList ⬇️
+https://t.co/SjFmlAIWUy",28,8,6,2021-11-12
+505,2021-11-15 17:12:27+00:00,1460294638644850688,Balancer,"Big news 📢 @tusd_official launches #TUSD stablepool with @0xPolygon on Balancer Protocol
+
+✅Liquidity mining incentives
+✅Swap fees https://t.co/uwYsj0u89W",322,37,69,2021-11-15
+509,2021-11-16 14:42:40+00:00,1460619331373391873,Balancer,"The @MeritCircle_IO LBP shows how easy it is for companies launching LBPs on Balancer Protocol to break records 💥🚀 
+
+We explain how Balancer Protocol’s Liquidity Bootstrapping Pools (LBPs) bring projects to life ⤵️
+https://t.co/PfEcry0cCv https://t.co/FBKhBkqU6N",66,6,19,2021-11-16
+511,2021-11-17 19:00:34+00:00,1461046624617381888,Balancer,"Check out this record-breaking Liquidity Bootstrapping Pool from @MeritCircle_IO, reinforcing Balancer Protocol's LBPs as a cornerstone of decentralized growth 📈
+
+Special thanks to @Mkflow27 for the fantastic article 👏  
+https://t.co/i5nMw0zI3G https://t.co/taGK744wK9",37,4,7,2021-11-17
+512,2021-11-18 17:00:39+00:00,1461378833408483328,Balancer,"✅  MEV protection 
+✅ Best on-chain prices available 
+✅ No gas fees charged for failed transactions 
+
+Learn how you can use BGP for the best trading experience
+https://t.co/JSL5WAVJAy",23,3,4,2021-11-18
+514,2021-11-20 19:01:48+00:00,1462134098797891586,Balancer,"📢Attention Balancer community 📢 Voting is live for two proposals:
+
+1. Vote on the Governance Process Revamp
+2. Vote on @beethoven_x as the ‘Recognized Friendly Fork’ on Fantom
+
+https://t.co/yMKEXG9RlM",34,8,8,2021-11-20
+515,2021-11-23 18:59:21+00:00,1463220644141625344,Balancer,"Liquidity providers can generate substantial swap fee revenue using uncorrelated, highly volatile assets through Balancer Protocol. 
+
+Check out this arbitrage-fueled strategy from a Balancer 50/50 weighted pool compared to a HODL approach 🚀
+https://t.co/cHkbYpZnjJ",35,1,14,2021-11-23
+516,2021-11-24 16:28:26+00:00,1463545050483232769,Balancer,"📢 Big news 📢 Balancer DAO and Fei DAO further aligned their interest through a DAO agreement and a substantial Token Swap of $BAL for $TRIBE and $FEI ⤵️
+https://t.co/vGLYyX9stK",68,10,14,2021-11-24
+518,2021-11-29 15:00:04+00:00,1465334751951089671,Balancer,"📢 This opens up opportunities for traders on @SlingshotCrypto 💥
+ 
+Plus, the integration with Balancer Protocol on @arbitrum means deeper liquidity for trades. https://t.co/qTCP7YAbRc",81,7,19,2021-11-29
+519,2021-12-01 17:02:48+00:00,1466090417267494916,Balancer,"✅ Multiple tokens
+✅ Customizable weights
+✅ Set your own swap fees
+
+See how easy it is to create your own customized Weighted Pool on Balancer V2 ⬇️
+https://t.co/DGFA2jBqmn https://t.co/Xbu8ZjMl30",45,3,18,2021-12-01
+521,2021-12-02 14:20:06+00:00,1466411858559078404,Balancer,"📢 The @BalancerGrants monthly update on Wave 2 is out!
+
+New grantees, more integrations, and mainnet launches incoming 👀
+
+Plus a revamped Request For Product (RPF) page ⬇️
+https://t.co/fOfIEwGpFm",20,2,7,2021-12-02
+527,2021-12-03 16:12:29+00:00,1466802528301977602,Balancer,"📢 $BAL holders 
+
+Voting just started to approve the proposal to transition treasury control to the governance multisig 🗳️ 
+
+Make sure your voice is heard ⬇️
+https://t.co/M41KnX0Sc7",26,9,5,2021-12-03
+529,2021-12-06 22:00:11+00:00,1467977196316807170,Balancer,video narrated by Baller @Mkflow27  🙌,3,1,0,2021-12-06
+533,2021-12-07 16:25:29+00:00,1468255350914576393,Balancer,"📣 $BAL holders
+
+Voting has begun on the proposal for the MTA &lt;&gt; BAL Treasury Swap 📩
+https://t.co/tjo7HOcFiz",28,1,7,2021-12-07
+535,2021-12-08 14:53:05+00:00,1468594487576334337,Balancer,"📣 Happening NOW 🚨  $BAL holders it's time to vote on the PrimeDAO &lt;&gt; BAL Treasury Swap 
+
+Cast your vote 📩
+https://t.co/PtPEPACv19",13,2,3,2021-12-08
+537,2021-12-09 20:00:28+00:00,1469034231028281348,Balancer,"Let’s talk about treasury swaps 💰 The @Balancer DAO began integrating with other #DeFi protocols through token swaps, first with @feiprotocol $TRIBE. Could this signal more cross-DAO influence?
+
+Read more about the proposals with @primeDAO and @mstable_ 
+https://t.co/O3HSfiD4B3",67,4,14,2021-12-09
+539,2021-12-10 15:33:26+00:00,1469329418888040454,Balancer,"🗳️ $BAL holders 📣 The vote has begun to decide the authorization of the Batch Relayer ⤵️⤵️
+https://t.co/kFmCvtuKpE",18,2,7,2021-12-10
+540,2021-12-14 14:19:51+00:00,1470760452565069826,Balancer,Get ready 😈 https://t.co/dCxiWDr9TR,84,8,16,2021-12-14
+542,2021-12-15 14:06:05+00:00,1471119372882092037,Balancer,"The moment we’ve all been waiting for...
+
+📢 Increased yields, greater capital efficiency, deeper liquidity. Aave Boosted Pools are here 🚀 @AaveAave https://t.co/o6PbGsp7aj",523,122,115,2021-12-15
+548,2021-12-16 20:46:17+00:00,1471582475490979844,Balancer,Boosted Pools are the answer to optimized capital efficiency for Balancer Pool deposits ☄️🚀 https://t.co/Ea0lWoKdja,47,6,8,2021-12-16
+552,2021-12-17 15:15:09+00:00,1471861532598616066,Balancer,"Sense Space, a new AMM pool #builtonBalancer V2, introduces a novel accounting mechanism that permits the use of a yield-bearing quote asset. Congrats @senseprotocol 🚀☄️ https://t.co/IHqKjHy48w",20,8,4,2021-12-17
+554,2021-12-20 14:25:07+00:00,1472936104831586305,Balancer,"🗳️ Voting is now live on the proposal to invest the FEI, TRIBE, and MTA the Balancer DAO received through treasury swaps
+https://t.co/auWoIx31Hd",22,5,6,2021-12-20
+556,2021-12-21 14:28:01+00:00,1473299222745141253,Balancer,"Boosted Pools, the answer to optimized capital efficiency for Balancer Pool deposits 🚀
+
+Try Boosted Pools today⬇️
+https://t.co/vbplSVOAYo https://t.co/oh5IElKIXJ",41,8,11,2021-12-21
+558,2021-12-23 17:07:18+00:00,1474064080310652929,Balancer,"📣 @mStable and Balancer DAO announce a treasury swap ⬇️⬇️
+https://t.co/bF4C6flMFC",61,9,14,2021-12-23
+560,2021-12-27 21:00:16+00:00,1475572261713321991,Balancer,"✅  Increased yields
+✅  Greater capital efficiency
+✅  Deeper liquidity https://t.co/x9OeRhQqjW",49,11,14,2021-12-27
+561,2021-12-29 18:05:01+00:00,1476252934711267330,Balancer,"Check out this arbitrage-fueled strategy from a Balancer 50/50 Weighted 
+pool compared to a #HODL approach ☄️ 
+https://t.co/zdavGqc1ix",32,5,10,2021-12-29
+562,2021-12-30 23:34:22+00:00,1476698205513469953,Balancer,"Multiple tokens, customizable weights, set your own swap fees. Create your own customized Weighted Pool on Balancer V2
+https://t.co/DGFA2jjPuP https://t.co/uWRmtKjuV6",49,5,8,2021-12-30
+563,2021-12-31 15:14:25+00:00,1476934775847989256,Balancer,"What an unbelievable year at Balancer, lets take a look back at 2021 with Balancer Wrapped 🙌👇 https://t.co/4uSGqRmviq",216,29,30,2021-12-31
+565,2022-01-05 16:19:41+00:00,1478763139349061633,Balancer,"The token swap between @mstable_ and @balancer DAO is now complete 🤝
+
+mStable was one of the first users of Balancer Protocol &amp; had one of the biggest pools on Balancer.
+
+We are looking forward to seeing the innovation and incentives this D2D swap brings for both communities. https://t.co/jvGjBzqd6x",63,5,11,2022-01-05
+566,2022-01-10 14:49:49+00:00,1480552464440905733,Balancer,"The first Balancer update of 2022 ✨
+
+There's a lot of innovation coming in 2022, subscribe to The Balancer Report and stay up-to-date on all things Balancer Protocol 📩
+https://t.co/Aia0zgg77U",39,5,5,2022-01-10
+567,2022-01-11 17:40:41+00:00,1480957851845627910,Balancer,"Lower gas ✅ Higher yields ✅
+
+Try Boosted Pools today
+https://t.co/wSLOAVbfZt https://t.co/bBXumPTrCz",33,3,7,2022-01-11
+568,2022-01-12 18:46:32+00:00,1481336812568260613,Balancer,"Since Boosted Pools are not yet fully integrated by aggregators, the main place for traders to take advantage of this arbitrage is the Balancer UI 🚀",11,4,0,2022-01-12
+574,2022-01-14 14:39:00+00:00,1481999295377297410,Balancer,gm,50,25,3,2022-01-14
+576,2022-01-18 14:51:51+00:00,1483452077124825091,Balancer,"📣 By migrating liquidity to Balancer Protocol, @OlympusDAO establishes $OHM as a liquid asset within the Balancer ecosystem 🤝 ⬇️ https://t.co/9qAF7s7NKz",534,19,89,2022-01-18
+583,2022-01-19 15:00:53+00:00,1483816740500901891,Balancer,"⚖️ @BalancerGrants shares results, learnings, and next steps as Wave 2 of the Balancer Grants comes to a close 👇 https://t.co/HOSW62fO5k",25,36,4,2022-01-19
+585,2022-01-24 21:10:29+00:00,1485721690407522306,Balancer,"🎙️ An AMA with @joincolony
+⚖️ @BalancerGrants released the Wave 2 Final Report
+📣 @feiprotocol votes on moving FEI/ETH liquidity to Balancer
+
+See all that happened last week on Balancer 👇
+https://t.co/vsWGs89au5",25,2,5,2022-01-24
+586,2022-01-25 15:56:33+00:00,1486005076879548417,Balancer,"$BAL holders a new vote is live ⤵️ 🗳️
+
+Vote now on a BalancerDAO and GnosisDAO Treasury Swap 💰
+
+https://t.co/SUUVsXyxpD",24,3,11,2022-01-25
+589,2022-01-27 15:12:38+00:00,1486718800607137799,Balancer,"If you're attending BUIDL week at @ETHDenver, come join our #DeFi Valentine's Party!💖
+
+Co-hosted with: @trusttoken, @MEVprotection, @perpprotocol, and @solacefi 🤝
+
+We will be releasing tickets in three waves, so get ready to RSVP!
+
+👇👇👇 https://t.co/I7HMM2zLvz",27,4,7,2022-01-27
+592,2022-01-28 16:07:52+00:00,1487095087288913920,Balancer,"V2 walked so V3 could run 👻
+
+Congrats to our friend, @AaveAave 🤝 https://t.co/uV5CQL0tYL",34,1,6,2022-01-28
+594,2022-01-31 16:39:23+00:00,1488190181836394497,Balancer,"Shoutout to long-time community member @0xSolarcurve for creating and being the sole writer of the weekly Report 👏
+
+The keyboard is being passed to community member @Mkflow27, who will write the Report going forward 🤝",6,1,1,2022-01-31
+598,2022-02-01 14:17:09+00:00,1488516775398371329,Balancer,"Balancer is a #BUIDLing block for #DeFi projects focusing on different use cases. 
+
+See how the successful shift to a Protocol phase is shaping a DAO2DAO structure as Balancer looks to 2022 ⤵️ 📆
+
+https://t.co/m7Bz6wJ50x https://t.co/ALm7xykkI1",13,2,4,2022-02-01
+603,2022-02-02 15:02:32+00:00,1488890585092001795,Balancer,Save us a dance 🕺💃 @MEVprotection #defivalentines https://t.co/0CrkSZn8cp,12,2,4,2022-02-02
+605,2022-02-03 20:22:13+00:00,1489333423411904513,Balancer,"Our frens over at @beethoven_x join Balancer Labs’ Bug Bounty program. 
+
+Thanks for your commitment to safer #DeFi 🎶🤝 https://t.co/rRQZSBnHX8",43,6,7,2022-02-03
+608,2022-02-04 16:14:50+00:00,1489633554627760130,Balancer,"@Fantom_Space @beethoven_x Close to $3 million (1000 ETH) for white hat hackers, not a bad bounty 💸💰",18,1,1,2022-02-04
+610,2022-02-07 14:55:08+00:00,1490700662824259584,Balancer,"Join @Balancer DAO and Balancer Labs CEO @fcmartinelli for an AMA discussing the $veBAL tokenomics proposal.
+
+📅 Wednesday, Feb. 9th
+⏰ 12 PM EST
+🌎 On Balancer Labs' Twitter Spaces ⤵️
+https://t.co/eYYx0bAPu1 https://t.co/h9pOuD7CTw",80,7,19,2022-02-07
+611,2022-02-09 14:28:47+00:00,1491418805058535425,Balancer,"📅 Tokenomics AMA today ⬇️
+
+Join @Balancer DAO and Balancer Labs CEO @fcmartinelli for an AMA discussing the $veBAL tokenomics proposal.
+
+⏰ 12 PM EST
+🌎 On Balancer Labs' Twitter Spaces ⤵️
+https://t.co/eYYx0bjMs1 https://t.co/TsmkRYD7gk",28,2,8,2022-02-09
+613,2022-02-10 18:55:43+00:00,1491848369810993152,Balancer,"Come meet the Balancer team IRL at @EthereumDenver 2022 ❄️
+
+Hear talks from the BLabs team and #BUIDL with the Balancer community ⤵️
+https://t.co/zg5orvBOPF",15,1,4,2022-02-10
+615,2022-02-13 17:24:24+00:00,1492912554850406400,Balancer,"📢 Attention @EthereumDenver #BUIDLers 
+
+Balancer Labs is hosting a technical hackathon workshop 🛠️
+
+📅 Wed. February 16, 2022 2:40pm - 3:00pm MST
+🌎 Art Stage located at the Art Hotel
+
+Bounty challenges and info ⤵️
+https://t.co/dc1BZ0rMDT",19,27,7,2022-02-13
+616,2022-02-14 15:14:10+00:00,1493242167900266496,Balancer,"Happy BALentine's Day to our wonderful community 💘 
+
+Our hearts are full because of you 💕💞💖🥰 https://t.co/Ch4Pi1XZaJ",28,2,6,2022-02-14
+618,2022-02-15 15:56:06+00:00,1493615108815089664,Balancer,"Find Balancer Labs hackathon info in our #ETHDenver #BUIDL Week page ⤵️
+
+https://t.co/bwpofhNtYg",4,1,1,2022-02-15
+623,2022-02-16 15:50:50+00:00,1493976172224409603,Balancer,"📅 Happening today at #ETHDenver ➡️ Maximize Capital Efficiency and Yield with Balancer Boosted Pools Hackathon workshop
+
+⏰ 2:40pm - 3:00pm MST
+📍Art Stage located at the Art Hotel
+
+More info ⤵️",7,2,2,2022-02-16
+627,2022-02-17 00:40:23+00:00,1494109437132296195,Balancer,"Hearts were full at our #DeFiValentines party 🍾🥰
+
+#ETHDenver community, thank you for coming; it was a pleasure to host you 🤝 💖
+
+s/o to our fellow sponsors @TrustToken, @perpprotocol,  @MEVprotection, @SolaceFi https://t.co/hziLxZyFqZ",25,4,5,2022-02-17
+634,2022-02-18 14:13:32+00:00,1494676459452993537,Balancer,"For those attending #ETHDenver virtually, listen to @keighstone's talk through the @EthereumDenver livestream ⬇️
+
+https://t.co/Hr6pMjjfik",2,0,2,2022-02-18
+641,2022-02-19 22:49:17+00:00,1495168642757111810,Balancer,A packed house of frens listening to @fcmartinelli speak on The Rise of Symbiotic #DeFi Protocols panel  @EthereumDenver https://t.co/vntTO0UKfX,31,2,3,2022-02-19
+648,2022-02-20 16:30:41+00:00,1495435751219027969,Balancer,"Day 4, Web3. #ETHDenver",32,6,4,2022-02-20
+650,2022-02-22 16:25:02+00:00,1496159102636109828,Balancer,Reminiscing on #ETHDenver and @fcmartinelli sharing his outlook for the Balancer Ecosystem 🏔️ https://t.co/pujX1XELdD,49,11,9,2022-02-22
+651,2022-02-24 16:19:37+00:00,1496882516833148933,Balancer,"Two votes are happening now 🗳️
+
+1⃣ Authorize Treasury subDAO to Allocate $BAL to Turbo
+https://t.co/l1U67A8lO3",8,7,4,2022-02-24
+653,2022-02-28 18:15:07+00:00,1498361135493365762,Balancer,"Tune in tomorrow as BLabs @mosayeri joins @jai_bhavnani, @tomhschmidt, and @KentonPrescott for a chat on permissionless DeFi infra 🚀
+
+📅 March 1st
+⏰ 4 PM EST https://t.co/iw7DCxOtJ2",17,0,8,2022-02-28
+654,2022-03-01 15:11:50+00:00,1498677397935251464,Balancer,"📅 Happening today at 4 PM EST
+
+BLabs @mosayeri, @jai_bhavnani, @tomhschmidt, and @KentonPrescott talk permissionless DeFi infra
+
+📍 @senseprotocol Twitter Spaces https://t.co/iw7DCxwSRu",9,0,5,2022-03-01
+657,2022-03-02 17:36:43+00:00,1499076247854338049,Balancer,"🚀 Do you want to help build the future of #DeFi?
+
+Balancer Labs is hiring for 3⃣open roles
+
+🖥️ Director of Engineering
+⌨️ Senior Vue (TypeScript) Engineer 
+🤝 Operations Partner
+
+Learn more and apply:
+https://t.co/mVP4z1EzaC",8,3,5,2022-03-02
+660,2022-03-03 15:56:56+00:00,1499413524245737474,Balancer,"Balancer's Smart Order Routing (SOR) allows users to buy @0xPolygon $stMATIC with another token that is not directly paired 💥 
+
+Check out the @shard_labs announcement for more details on how to add liquidity to the pool, and stay tuned for Liquidity Mining incentives 🤑 https://t.co/aIU4FBF3kX",18,1,6,2022-03-03
+661,2022-03-04 14:35:34+00:00,1499755435577937923,Balancer,"Let's talk about Balancer's Rev Share Model ⚖️
+
+The of its kind in DeFi, projects #BuiltOnBalancer will benefit directly from the financial activity they help generate. @immutbl shares more 👇 https://t.co/8WFt5HQZy3",38,5,9,2022-03-04
+663,2022-03-07 16:21:00+00:00,1500869130559254529,Balancer,Build the future of #DeFi on Balancer. We're waiting 😎 https://t.co/1ScE0iL8e6,39,5,9,2022-03-07
+665,2022-03-08 15:03:58+00:00,1501212135417790464,Balancer,"The flexibility of Balancer Protocol's Smart Order Router ensures any custom Pool #BuiltOnBalancer can benefit from all Balancer liquidity.
+
+Let's see how Balancer's SOR performs complex routing over multiple Pool types to find the best trade 👇
+https://t.co/k9j9x7osKn",16,2,7,2022-03-08
+671,2022-03-09 17:18:08+00:00,1501608286835343361,Balancer,"Precise Routing 🔎
+
+In the trade of 2 WBTC -&gt; USDC, we can see the breakdown of the routing. The SOR identifies a multihop route with better price execution, such as the bottom-most route. https://t.co/CulUsIuD6s",6,3,0,2022-03-09
+680,2022-03-10 15:02:12+00:00,1501936463214039059,Balancer,"@beethoven_x Thank you, sirs 🤝",5,0,0,2022-03-10
+681,2022-03-14 14:29:43+00:00,1503377842490380292,Balancer,"What happened last week with Balancer? 
+
+🤔 Balancer asked @1inch wen Boosted Pools integration?
+📋@MessariCrypto will publish financial data on the Balancer Protocol
+🔎 The Marketing subDAO shared their outlook
+https://t.co/f9dEmIipz0",15,3,4,2022-03-14
+684,2022-03-15 13:26:34+00:00,1503724338373038080,Balancer,"We are excited to announce our Gold sponsorship of #ETHDay and #DeFiDay hosted by @CryptoCanal at @EFDevconnect 🎉
+
+🗓️ #ETHDay, April 18
+🗓️ #DeFiDay, April 25
+
+Hear members of Balancer Labs speak and come say hi to the team. See you all there 😎 https://t.co/Q0oYaCqZPE",28,5,8,2022-03-15
+685,2022-03-16 13:59:47+00:00,1504095086438584326,Balancer,"Balancer set sail with @InsurAce_io during #ETHRio ⛵️
+
+Check out all the action 👇 https://t.co/nrqm100Sq1",22,2,3,2022-03-16
+688,2022-03-17 15:58:55+00:00,1504487451879899142,Balancer,"Huge news coming from @BalancerGrants 💥
+
+@FinanceXs received a grant to #BUIDL out TWAMM functionality for @balancer 🚀
+
+What could this mean for the Balancer ecosystem 🤔 Find out below 👇 https://t.co/pfTEgRBOan",15,2,5,2022-03-17
+689,2022-03-18 15:47:42+00:00,1504847016282656768,Balancer,"$BAL holders, three votes are live on Snapshot ⬇️
+
+1⃣ Hexagon Friendly Fork 
+https://t.co/GWBupsBkBg",13,8,6,2022-03-18
+693,2022-03-22 14:08:24+00:00,1506271577905590276,Balancer,"What is veBAL, and what does it mean for Balancer Protocol? Learn more below 👇
+https://t.co/S1b45LXTHv",17,0,3,2022-03-22
+696,2022-03-23 15:27:56+00:00,1506653983049277452,Balancer,"😎 The Bottom Line 
+
+The veModel is considered by many to be the holy grail of tokenomics. The benefits of the $veBAL tokenomics will be felt by the BAL/WETH liquidity providers with long-term commitment.
+https://t.co/rU5nr2oioD",8,2,3,2022-03-23
+704,2022-03-24 16:43:07+00:00,1507035290698887168,Balancer,"The Sense team just dropped major alpha 👀
+
+Sense is a fixed-income Protocol on Ethereum, with a capital-efficient AMM #BuiltOnBalancer
+
+Congrats, @senseprotocol, on reaching mainnet! 🚀 https://t.co/JRiDmFZbp3 https://t.co/DbTVYUlzfo",15,29,10,2022-03-24
+706,2022-03-25 14:02:02+00:00,1507357142956707840,Balancer,"$BAL holders 📢 two proposals are live on snapshot 👇
+
+1⃣ Hand over swap fee and amplification factor control to the BalancerDAO
+https://t.co/tc0QyGIF3f",17,1,7,2022-03-25
+710,2022-03-26 14:46:03+00:00,1507730606238670856,Balancer,"""There is only one war that matters. The Great War. And it is here."" #BALbattles https://t.co/aIBrVuBwl9",53,3,12,2022-03-26
+711,2022-03-28 18:00:48+00:00,1508504391900348419,Balancer,Starting now! Listen in to Balancer Labs @fcmartinelli talk about $veBAL #BALbattles  https://t.co/7zQLhwVtQB,19,3,5,2022-03-28
+718,2022-03-29 14:47:51+00:00,1508818223713566720,Balancer,@beethoven_x @FTMAlerts Excited to dive in 🤝 #BoostedPools https://t.co/2AJlJlPbU3,5,0,0,2022-03-29
+724,2022-03-30 02:45:00+00:00,1508998700915437570,Balancer,"Any custom Pool #BuiltOnBalancer can benefit from all Balancer liquidity. Buckle up as we traverse the Balancer Vault with Smart Order Routing 🚙 
+https://t.co/k9j9x76RSP",21,1,3,2022-03-30
+730,2022-03-31 21:28:01+00:00,1509643702834241539,Balancer,"Excited to share that BLabs Head of Growth, @immutbl will be speaking at #DeFiDay during @EFDevconnect hosted by @CryptoCanal  🚀 
+
+📅 April 25th
+🌏  DevConnect in Amsterdam https://t.co/Kvpx8dAXYx",42,0,11,2022-03-31
+735,2022-04-01 19:29:41+00:00,1509976314014437377,Balancer,"In your opinion, what gaps will $veBAL address the most? 🤔",22,3,4,2022-04-01
+744,2022-04-02 13:38:00+00:00,1510250197393235971,Balancer,"Scrolling crypto twitter and can't help but wonder what is the She/Her and They/Them derivative of ser is 🤔  
+
+comment below 👇",25,6,3,2022-04-02
+745,2022-04-04 16:52:33+00:00,1511023933239164931,Balancer,"Boosted Pools utilize a concept known as Nesting, which is when LP tokens are used in another Liquidity Pool to increase yield. @AaveAave Boosted Pools consist of three Linear Pools.
+
+https://t.co/jtuDT7foWt",4,1,0,2022-04-04
+759,2022-04-05 19:44:08+00:00,1511429498402713601,Balancer,Good thing you can trade gasless with @MEVprotection on Balancer 🐄 🐮 https://t.co/YknRsWgU1g,13,0,0,2022-04-05
+764,2022-04-06 00:28:26+00:00,1511501048204062723,Balancer,"What a lineup 👏👏 
+
+BLabs @mosayeri will be speaking on the panel: Innovations in #DeFi 🚀 with @StaniKulechov, @dgogel, @elainesong7, and @BlockJainX
+
+🗓️ April 8th
+⏰ 4:30 PM ET
+
+Register 👇
+https://t.co/rR8qqsGxrI https://t.co/qyTTBQrLfl",11,3,4,2022-04-06
+772,2022-04-07 16:27:24+00:00,1512104765605519364,Balancer,"👀 welcome to #BALbattles @AuraFinance @0xMaki 
+
+https://t.co/TsgbgP8s5s",51,5,15,2022-04-07
+780,2022-04-08 11:04:33+00:00,1512385904987549700,Balancer,@balancer 🤔 30% would feel pretty nice #BALbattles ⚔️,5,0,0,2022-04-08
+786,2022-04-09 00:47:00+00:00,1512592883202854913,Balancer,"Thinking about @immutbl dropping alpha at #ETHDenver on @balancer's #DAO2DAO rev sharing model
+
+https://t.co/fNM1wkV6BW",24,3,5,2022-04-09
+788,2022-04-10 12:07:01+00:00,1513126400584261638,Balancer,"If you missed #ETHDenver, worry not. Sharing our recap 👇 
+https://t.co/94uSbG6Axk",18,1,4,2022-04-10
+790,2022-04-11 23:58:00+00:00,1513667715420016648,Balancer,"What happened last week at Balancer?
+
+💸  TVL on Balancer V2 hit $2.28B
+🐬  We dove into Boosted Pools with @beethoven_x 
+⚔️  @AuraFinance entered the #Balbattles
+
+Subscribe to the Balancer Report and stay up to date with all things Balancer Protocol
+https://t.co/gAlskSZWzr",12,1,3,2022-04-11
+795,2022-04-12 22:21:43+00:00,1514005873538080775,Balancer,🚨 Important to note that no user funds are at stake nor is any action from LPs required. The veBAL contract remains safe &amp; will continue to allow current and future holders to vote on the allocation of weekly BAL emissions for Balancer Pools 🚨,11,2,0,2022-04-12
+803,2022-04-13 15:52:59+00:00,1514270431842344967,Balancer,"125k Twitter frens 👏🥳
+
+We are so happy to share this milestone with our amazing Balancer community 🤝🥰 https://t.co/utwAmZt1Vu",27,5,6,2022-04-13
+808,2022-04-14 17:10:31+00:00,1514652330276311041,Balancer,"Happening now on Snapshot 🚨
+
+Submit your vote 🗳⬇️ https://t.co/4fAOfLIOng",19,2,4,2022-04-14
+814,2022-04-15 07:59:59+00:00,1514876174765338628,Balancer,"Are you going to @EFDevconnect? We're sponsoring #ETHDay 🇳🇱 hosted by @CryptoCanal 
+
+📅 April 18
+
+Come say hi to the Balancer team 👋 and grab some swag 😎 https://t.co/A097yNywPV",18,2,5,2022-04-15
+817,2022-04-17 16:44:18+00:00,1515732897478676484,Balancer,"Highlights from our Paris #DeFi Retreat 🤩
+
+We'll be sponsoring another one at @EFDevconnect so come stop by ⬇️⬇️⬇️
+
+https://t.co/EeveThjKia https://t.co/E8NltWkreR",21,2,6,2022-04-17
+818,2022-04-18 10:54:15+00:00,1516007191093817345,Balancer,"📆  April 22 
+
+H.E.R. CON 👩‍🔬 
+
+We are sponsoring the @_HerDAO Hacker House with @MessariCrypto and @AaveAave to bring women devs into Web3 ✊ 
+
+https://t.co/B3OKiyDGaZ",25,4,7,2022-04-18
+834,2022-04-19 17:54:11+00:00,1516475261319249921,Balancer,Get ready @EFDevconnect 🕺🏻💃🏻 https://t.co/t0ZHIsz9Xk,29,7,7,2022-04-19
+836,2022-04-20 13:01:00+00:00,1516763866079940608,Balancer,"What a night 👏🏼👏🏼
+
+Never Rekt at DevConnect with the best co-sponsors and Web3 frens 🕺🏻
+
+@oasisdotapp @arbitrum @1inch @epnsproject https://t.co/3yFh3fqDYN",24,3,6,2022-04-20
+838,2022-04-21 06:03:01+00:00,1517021065020514304,Balancer,Gm @EFDevconnect #Day4 let's get it,7,1,1,2022-04-21
+844,2022-04-22 12:36:57+00:00,1517482589170372610,Balancer,@theunitnetwork @_HerDAO @Findora @Figment @ceramicnetwork @ChorusOne @LensProtocol @AaveAave @Harmony @_HerDAO 👏👏👏,1,0,0,2022-04-22
+846,2022-04-25 10:50:16+00:00,1518542904079302657,Balancer,Finishing @EFDevconnect by Crossing Chains and Layers with @immutbl @AaveAave @stanikulechov @Figment_io @CryptoCanal 🚀 https://t.co/aIXE3ml0mo,15,0,5,2022-04-25
+851,2022-04-27 10:51:31+00:00,1519267995847036928,Balancer,"Staking PSA
+
+Staking on L2s is live. LPs for eligible Pools who don’t stake by the end of day today (4/27) will lose out on incentives.
+
+⬇️⬇️⬇️
+
+https://t.co/ZILSxWvpM9 and https://t.co/Evpijf4Ysi 
+
+@0xPolygon @arbitrum",31,9,9,2022-04-27
+852,2022-04-28 14:19:28+00:00,1519682715599224832,Balancer,"Another successful #DeFi Retreat in the books. Thank you, @EFDevconnect for coming by 🥰
+
+And a huge s/o to our co-sponsors @hackenclub @InsurAce_io @MessariCrypto https://t.co/UA3uAkkzTG",16,2,4,2022-04-28
+854,2022-04-29 14:00:27+00:00,1520040317319192577,Balancer,"Three steps to $veBAL
+
+1️⃣  Add liquidity to the BAL/WETH 80/20 Pool
+2️⃣  Lock LP tokens for a selected period of time
+3️⃣  Stake $veBAL tokens
+
+https://t.co/YMg7JugAk9 https://t.co/Pa1fF5AKS0",35,7,11,2022-04-29
+855,2022-05-02 13:12:57+00:00,1521115528420503552,Balancer,"Gas costs are low on mainnet right now. A good time to get your $veBAL and stake and vote on your favorite Pools ⛽️
+
+https://t.co/pOqmE8xIuW https://t.co/WABkrYc9Ea",17,1,6,2022-05-02
+858,2022-05-03 14:13:11+00:00,1521493075264212992,Balancer,"🔨 Stake $veBAL tokens and vote to direct liquidity emissions towards your favorite Pools 🗳️
+
+https://t.co/YMg7JuybIJ https://t.co/w3vn86yCn5",41,0,13,2022-05-03
+859,2022-05-04 13:35:11+00:00,1521845900976398336,Balancer,Three new votes on Snapshot ⤵️🗳️ https://t.co/Udj8PYO1YX,13,0,4,2022-05-04
+863,2022-05-06 14:22:05+00:00,1522582478925725697,Balancer,"Giving a huge S/O to @blockblanc and @CryptoCanal, the community org that put together DevConnect in Amsterdam. The events fostered a great environment where Web3 could come together. Huge thank you to this amazing group of people. You have fans in Balancer!🥰",7,1,1,2022-05-06
+873,2022-05-09 13:24:53+00:00,1523655245804408838,Balancer,"Our very own @mosayeri is featured in @CoinDesk, diving into the product lifecycle of #DeFi. Should we #buidl to make existing economies more efficient or use this tech to be the bedrock of new economies?
+
+Check it out ⤵️
+https://t.co/02dGSWoBTx",12,0,8,2022-05-09
+877,2022-05-10 18:52:22+00:00,1524100048203571201,Balancer,@PrimeDAO_ Glad we swiped right 😉,5,0,0,2022-05-10
+879,2022-05-11 15:23:28+00:00,1524409865208094721,Balancer,"@gluckverse Thank you, ser 🤝",0,0,0,2022-05-11
+899,2022-05-12 19:03:57+00:00,1524827738271408128,Balancer,"Balancer is well positioned to weather this storm.
+
+Despite market volatility, metrics are strong. In just 24hrs, we collected more than $100k in fees to be distributed to $veBAL holders and the treasury on Mainnet alone.
+
+https://t.co/gGWu2mEh0o https://t.co/yh7la9WzgB",24,2,5,2022-05-12
+906,2022-05-14 01:43:03+00:00,1525290565432135680,Balancer,@0xShual @immunefi We are working with the hacker through @immunefi to pay out this bounty ASAP and to encourage more of the white hat community to go through our code and look for any further vulnerabilities.,16,2,1,2022-05-14
+917,2022-05-16 12:42:57+00:00,1526181408426926086,Balancer,"Get Nauti at Permissionless tonight 🛳
+
+Don’t forget your sunglasses 😎 https://t.co/pwGyULzrgT",20,1,3,2022-05-16
+922,2022-05-17 23:26:16+00:00,1526705691045646341,Balancer,And a special S/O to @whoarethemikes for this amazing video 👏🏼🙌,12,1,0,2022-05-17
+934,2022-05-18 23:23:55+00:00,1527067487879274497,Balancer,@mariamagenes1 🙌,0,0,0,2022-05-18
+941,2022-05-19 12:40:21+00:00,1527267916969922561,Balancer,@jacqmelinek @morgan_chittum So happy to have had you join us!,0,0,0,2022-05-19
+943,2022-05-20 16:13:24+00:00,1527683922104033281,Balancer,"@beethoven_x Amazing milestone frens, congrats to you 🎻🎻",8,0,0,2022-05-20
+944,2022-05-22 15:00:22+00:00,1528390319590490114,Balancer,@0xSolarcurve @balancer Better than ray bans for sure 🍕🍕,3,0,1,2022-05-22
+945,2022-05-23 17:11:14+00:00,1528785640267034624,Balancer,"More info on Balancer Boosted Pools can be found below ⬇️
+
+https://t.co/jtuDT7foWt",1,0,0,2022-05-23
+952,2022-05-24 14:22:50+00:00,1529105649879031808,Balancer,"Moo-ving the legen-dairy Balancer-CoW-Protocol (BCP) back to your timeline @MEVprotection 
+
+👇 🧵 👇 https://t.co/YGql9CbxNG",24,2,3,2022-05-24
+957,2022-05-25 17:58:01+00:00,1529522186767060992,Balancer,"Bring your BAL and ETH and add liquidity to the BAL/WETH 80/20 Pool to receive Balancer LP tokens. 
+
+How? Watch below ⬇️ 
+
+https://t.co/BLq57KC065",17,0,4,2022-05-25
+960,2022-05-26 15:49:26+00:00,1529852216164552704,Balancer,"Balancer’s flexible architecture allows projects to implement custom Pool math with minimal technical overhead. Learn why @element_fi chose to build on Balancer ⬇️
+
+https://t.co/DGqGwPvXnz",29,3,3,2022-05-26
+962,2022-05-27 14:46:14+00:00,1530198699078471681,Balancer,Our bags are packed. Has anyone called shotgun? https://t.co/npmE9pvHlA,29,4,6,2022-05-27
+963,2022-05-31 17:29:32+00:00,1531689349300948992,Balancer,👀 Probably nothing #OPSummer https://t.co/J8StpRwUMu,34,6,4,2022-05-31
+965,2022-06-01 14:14:58+00:00,1532002770584104960,Balancer,Bringing powerful tech to a promising new chain. S/o to the best co-pilots around 🤝 @beethoven_x https://t.co/DrYRQfD5l2,28,0,5,2022-06-01
+966,2022-06-02 19:00:01+00:00,1532436895858163713,Balancer,https://t.co/E43v3O0scF,172,3,33,2022-06-02
+973,2022-06-03 16:00:53+00:00,1532754199502462976,Balancer,"It’s feeling like an #OPSummer 🔴‿🔴
+
+👉 https://t.co/NcF3sZh4Jy
+
+@optimismPBC @beethoven_x https://t.co/MeML9ZjQcP",53,3,13,2022-06-03
+974,2022-06-06 15:13:04+00:00,1533829332308840455,Balancer,A new $veBAL boosting system is here! 👀 Read more in the thread 👇 https://t.co/RcPrzZekfn,25,2,6,2022-06-06
+975,2022-06-08 18:12:02+00:00,1534599143963779072,Balancer,"We're just hours away from @AuraFinance entering the Balancer ecosystem. 
+
+$veBAL holders set your alarms ⏰ https://t.co/AQ2OEL1vsX",19,5,3,2022-06-08
+982,2022-06-09 14:03:23+00:00,1534898959566548994,Balancer,@OlympusDAO https://t.co/TeK4r7Gmu7,5,0,0,2022-06-09
+985,2022-06-13 15:24:27+00:00,1536368910525554688,Balancer,@_perpetuum7 @iearnfinance @element_fi That is a good collection you've got there,1,1,0,2022-06-13
+986,2022-06-14 18:19:39+00:00,1536775387828563969,Balancer,Shortened @optimismPBC bridge timeline thanks to the BIP-3 execution ⬇️ https://t.co/Ah8sNEEWWc,10,1,5,2022-06-14
+991,2022-06-15 14:04:41+00:00,1537073613521661952,Balancer,"🌴 Balancer enjoys an @optimismPBC summer
+🤝 @AuraFinance joins the ecosystem
+🎁 @StakeDAOHQ &amp; @PrimeDAO_ launch a $veBAL wrapper
+
+A lot happened last week. Subscribe to the Balancer Report and stay up to date on all things Balancer Protocol https://t.co/jVDqIR9d82",17,0,4,2022-06-15
+993,2022-06-16 10:21:26+00:00,1537379820149309440,Balancer,Get ready! ⏰ https://t.co/3A1wEZukqg,11,1,2,2022-06-16
+995,2022-06-17 18:53:32+00:00,1537871078839570432,Balancer,@BadgerDAO head over to https://t.co/YMg7JugAk9 and take advantage,7,0,1,2022-06-17
+1001,2022-06-20 16:42:31+00:00,1538925273235673088,Balancer,"@AaveAave @mstable_ More on 80/20 Pools ⬇️ 
+
+https://t.co/uwXfOCduGp",5,0,0,2022-06-20
+1008,2022-06-21 16:05:20+00:00,1539278304586235905,Balancer,"Traverse the Balancer Vault ⬇️ 
+https://t.co/k9j9x7osKn",4,0,0,2022-06-21
+1011,2022-06-22 16:12:15+00:00,1539642433360736256,Balancer,"The maestros at @beethoven_x  actively push the capabilities of Balancer’s tech to its fullest extent and share our vision for an innovative permissionless platform that is highly scalable and flexible.
+
+We are glad to call Beethoven X a BFF (Balancer Friendly Fork) 🤝🎵 https://t.co/hDfbyP3Lvf",27,2,4,2022-06-22
+1012,2022-06-23 18:22:49+00:00,1540037676635545604,Balancer,"Sitting down with @beethoven_x and @optimismPBC to talk about the Optimism deployment?
+
+Probably nothing.
+
+⏰Friday, June 24th at 2PM UTC/ 10AM EST
+📍Twitter Spaces ⬇️
+https://t.co/ZM1JxWXor6 https://t.co/uuZSQKW4mk https://t.co/Yk3nbZRqZX",23,2,8,2022-06-23
+1024,2022-06-24 18:45:06+00:00,1540405674546384896,Balancer,"Flash Loans are atomic transactions 🤯 
+
+This means that if a given strategy is not able to repay the loan, the whole txn is reverted, and all borrowed tokens get returned to the Vault.",6,1,0,2022-06-24
+1032,2022-06-27 18:07:52+00:00,1541483466268717056,Balancer,@mattkdj Balancer swag: where fashion meets practicality 🤝,1,0,0,2022-06-27
+1033,2022-06-28 15:56:10+00:00,1541812713197694977,Balancer,"Is your Protocol considering using a vote escrowed model for its governance? 
+
+Here's why using an 80/20 BPT is the best solution 
+
+🧵 🧵 🧵",37,4,11,2022-06-28
+1043,2022-06-29 16:27:56+00:00,1542183092693086209,Balancer,@beethoven_x @optimismPBC Great conversations and great company to share the stage with.,3,1,0,2022-06-29
+1052,2022-06-30 13:57:14+00:00,1542507557268271104,Balancer,"Wave 4 of @BalancerGrants is complete. Check out the final report and see what's being #BuiltOnBalancer 🤝
+
+https://t.co/Ffu88f885O",45,8,11,2022-06-30
+1054,2022-07-05 16:55:48+00:00,1544364432976818176,Balancer,What Balancer Pools are you trading in?,11,4,3,2022-07-05
+1055,2022-07-06 14:00:21+00:00,1544682667563577346,Balancer,"Excited to share that CEO @fcmartinelli will take the stage at #ethcc talking about ""Building on Balancer"" 🎤 
+
+#BuiltOnBalancer https://t.co/8jkj3C9wDD",42,4,11,2022-07-06
+1059,2022-07-07 19:29:26+00:00,1545127871311540224,Balancer,"Going to #EthCC? Set sail for a sunset on the Seine with the best crew #DeFi has to offer 🇫🇷
+
+🗓️ Jul 19
+⏰ 7PM CEST
+📍Port de Grenelle
+
+Join us @paraswap @MEVprotection @blocknative &amp; @zerion_io for a night of food, drinks, and dancing 
+
+Let's party 💃🪩🕺
+https://t.co/dn5ZySCbDH",19,3,3,2022-07-07
+1063,2022-07-08 15:51:59+00:00,1545435534998114304,Balancer,#EthCC role call 📣 Which one are you?,11,3,4,2022-07-08
+1065,2022-07-11 14:00:54+00:00,1546494747283402765,Balancer,"What's going on at Balancer?
+
+🤔 wen TWAMM Pool?
+📣 Fernando goes on stage at #EthCC
+⛵️ Set sail on the Seine with Balancer and crew
+
+A lot is going on. Subscribe to the Balancer Report and stay up-to-date with all things Balancer Protocol 
+https://t.co/XdTrLnhLdY",21,2,2,2022-07-11
+1068,2022-07-12 21:00:06+00:00,1546962628894871553,Balancer,"@beethoven_x ICYMI, with the help of @beethoven_x, we brought Balancer's technology to a promising new chain @optimismPBC 
+https://t.co/44NkV34i6C",11,2,1,2022-07-12
+1080,2022-07-13 15:31:17+00:00,1547242266791534592,Balancer,"@MessariCrypto @1inch @arbitrum @AaveAave You can read all about it in the @MessariCrypto State of Balancer report 
+from @john_tv_locke ⬇️ 
+
+https://t.co/H09dl891jl",25,2,6,2022-07-13
+1089,2022-07-14 18:56:48+00:00,1547656375001444358,Balancer,"Check out some of the Balancer Liquidity Pools ⬇️
+
+https://t.co/ZIkdhcb8SD",2,1,0,2022-07-14
+1094,2022-07-15 17:05:00+00:00,1547990625970114561,Balancer,Huge S/O to @0xSkly for comprehensively showcasing the full extent of Balancer’s codebase and technology🤝,12,2,0,2022-07-15
+1097,2022-07-16 20:43:03+00:00,1548407890754473986,Balancer,"🚨Attention Balanacer Community 🚨
+
+There's a phishing scam currently targeting Balancer users - see the image below. Please ONLY interact through the official UI at https://t.co/NUi3UokqDl and never click links you aren't sure about. https://t.co/olpH5pt9JZ",45,11,14,2022-07-16
+1099,2022-07-18 15:06:59+00:00,1549048089582845953,Balancer,"Don't miss CEO @fcmartinelli on stage at #EthCC talking about Building on Balancer 🇫🇷
+
+#BuiltonBalancer
+📅 July 20th
+⏰ 5 - 5:15 PM CEST
+
+https://t.co/F3b5UFEgDQ https://t.co/bd3FzHlHUT",20,0,5,2022-07-18
+1103,2022-07-19 02:00:03+00:00,1549212441086545921,Balancer,"All aboard one of the hottest parties at #EthCC 🔥 🇫🇷 
+
+📅 July 19
+⏰ 7 PM CEST
+
+See you there @MEVprotection @zerion_io @blocknative &amp; @paraswap ⛵ 
+
+https://t.co/dn5ZySCbDH",17,7,5,2022-07-19
+1107,2022-07-20 15:51:19+00:00,1549784024951824483,Balancer,@Susmit_Lavania #BuiltOnBalancer 🤝,0,0,0,2022-07-20
+1114,2022-07-21 14:50:40+00:00,1550131147698364416,Balancer,"Diving into Balancer Contracts — BasePool 
+
+Balancer’s tech is a #DeFi building block, and the building block of Balancer Pools is the abstract BasePool contract.
+
+⬇️⬇️",26,5,9,2022-07-21
+1122,2022-07-22 15:48:33+00:00,1550508103371612160,Balancer,Pop quiz. What is the original Balancer Pool? 🤔,10,3,1,2022-07-22
+1123,2022-07-26 16:16:19+00:00,1551964642229960704,Balancer,"#BALbyte Smart Contracts
+
+🔹Simply put, #smartcontracts are programs stored on a blockchain that run when predetermined conditions are met
+🔹Balancer smart contracts are public and open source, encouraging more projects #BuiltOnBalancer https://t.co/qVOsgCsQpQ",23,5,10,2022-07-26
+1126,2022-07-27 15:07:13+00:00,1552309640632840192,Balancer,A nice little recap of the $BAL $AAVE token swap with @AaveAave 👻 https://t.co/MFubPwfPk8,13,3,3,2022-07-27
+1128,2022-07-28 18:42:23+00:00,1552726177990582274,Balancer,"If you’re a white hat hacker, we encourage you to check out our Immunefi bug bounty program.
+
+https://t.co/oOHiuJ40tO",8,1,3,2022-07-28
+1136,2022-07-29 14:58:03+00:00,1553032108167159808,Balancer,"TRIVIA time 💡 
+
+Assume that the CrowdFunding contract has been deployed and two new campaigns have been created. What will the EVM return upon successful execution of newCampaign()?
+
+a) nothing
+b) the campaignID
+c) an error
+
+Leave your answer in the comments 😉 https://t.co/UeBg72Tso1",15,15,3,2022-07-29
+1137,2022-07-30 14:58:01+00:00,1553394489170964481,Balancer,"TRIVIA time 💡 
+
+What keyword/s can be used to describe a function that does not modify the state of a contract?
+
+A) view
+B) pure
+C) public
+D) payable
+
+Drop your answer ⬇️",17,28,3,2022-07-30
+1139,2022-08-01 17:48:07+00:00,1554162071687704576,Balancer,"We're ready to work.
+
+⚖️🤜🤛⚪️ https://t.co/uiYtSqILfy",7,0,3,2022-08-01
+1145,2022-08-02 13:04:15+00:00,1554453024331923459,Balancer,"The correct answers are A) and B). View functions are read-only functions, that do not modify state. Pure functions do not read or modify state variables.",0,0,0,2022-08-02
+1151,2022-08-03 17:42:04+00:00,1554885324135755776,Balancer,@gluckverse You produce amazing work ser 🤝,1,1,0,2022-08-03
+1153,2022-08-04 14:37:19+00:00,1555201219018489857,Balancer,"$veBAL is used as a governance gauge voting mechanism, it decides which Pools receive $BAL liquidity mining incentives. Projects can incentive users to vote, increasing liquidity emissions to their Pools 🚀 https://t.co/Bi7909IzfJ",22,3,3,2022-08-04
+1157,2022-08-06 18:00:03+00:00,1555977015144067072,Balancer,"TRIVIA time 💡 - EVENTS
+
+What are the common use cases for events? (Multi-choice)
+
+A) events provide smart contract return values for the front-end
+B) events act as asynchronous triggers with data
+C) events act as a cheaper form of storage
+
+Leave your answer in the comments 😉",24,16,6,2022-08-06
+1158,2022-08-07 15:00:53+00:00,1556294312706580487,Balancer,"That is correct, you can use ‘return https://t.co/VOHFCF92ay_score’",0,1,0,2022-08-07
+1160,2022-08-08 13:22:18+00:00,1556631891888857090,Balancer,"What happened last week in the Balancer ecosystem? 👀⬇️
+
+https://t.co/JZm3pxlf0l",8,3,2,2022-08-08
+1162,2022-08-09 13:59:54+00:00,1557003742129569793,Balancer,"❓TRIVIA time❓- EVENTS
+
+How many parameters can you index (by using the attribute 'indexed') for an event? 
+
+Vote and leave your answer in the comments ⬇️",13,7,4,2022-08-09
+1164,2022-08-10 14:18:46+00:00,1557370878622543872,Balancer,@beethoven_x The good sers at @beethoven_x blessing our timeline with wonderful tunes 🎶🎵,16,0,0,2022-08-10
+1168,2022-08-11 21:02:11+00:00,1557834790560141312,Balancer,"Balancer's @mrnventuro on stage at @ethlatam 👏👏
+
+Catch the recorded event ⬇️
+https://t.co/uirhrhqKMo https://t.co/ybjGmEyfLu",12,3,2,2022-08-11
+1171,2022-08-12 10:54:39+00:00,1558044287056723968,Balancer,"Most of you got it right, you can index up to 3 parameters for an event",3,1,0,2022-08-12
+1175,2022-08-15 18:31:20+00:00,1559246378517180416,Balancer,"Another on-stage appearance from Balancer Labs, @mrnventuro, discussing ""Towards Verifiably Secure Governance."" 👏👏
+
+🎙️ First Annual DeFi Security Summit
+🗓️ Saturday, Aug. 27th
+⏰ 10:31 AM -10:50 AM PST
+
+https://t.co/9jdrJ1gxia",14,2,3,2022-08-15
+1178,2022-08-16 16:00:38+00:00,1559570839825104896,Balancer,"Workflow for a Balancer Flash Loan
+
+1️⃣ Take a loan
+2️⃣ Match the loan with an opportunity
+3️⃣ Repay the loan https://t.co/aBkYDjCVb8",26,3,8,2022-08-16
+1182,2022-08-17 16:20:32+00:00,1559938237111492608,Balancer,"More on Balancer Batch Swaps ↓ 
+
+https://t.co/Mj3qd9jdbL",8,1,2,2022-08-17
+1188,2022-08-18 15:08:01+00:00,1560282376185344001,Balancer,What can you #BUIDL using Boosted Pools? 🧵,13,6,4,2022-08-18
+1196,2022-08-19 08:07:18+00:00,1560538884282490880,Balancer,"That is correct, it is called a Reentrancy Attack. In this attack, the contract fails to update its state before sending funds. Therefore, an attacker can continuously call the withdraw function to drain funds. A famous real-world Reentrancy Attack is the DAO attack from 2016.",15,2,4,2022-08-19
+1198,2022-08-22 19:00:21+00:00,1561790394458705921,Balancer,Another smart contract deep dive brought to you by @beethoven_x's @0xSkly 👏,5,0,0,2022-08-22
+1204,2022-08-23 14:47:16+00:00,1562089092963110912,Balancer,"The future of LPing is incorporating yield-bearing tokens 🚀
+
+Through our Metastable Pool with @LidoFinance and @Rocket_Pool and support of #L222, Balancer is a top destination for liquid staked $ETH ⬇️
+
+https://t.co/2Xfn0kw0II",50,9,6,2022-08-23
+1205,2022-08-24 18:00:25+00:00,1562500089024655361,Balancer,"""With Balancer, @AuraFinance seems to have picked a good place to start amassing ve-tokens. Trading volume on Balancer has been steady — in fact, the protocol has seen the majority of $200M-plus volume days since the bottom fell out of the market in May.""",44,5,7,2022-08-24
+1208,2022-08-25 16:58:29+00:00,1562846891351584768,Balancer,"In Q2, 35.7% of Balancer trading fees went to $veBAL lockers 👀
+
+https://t.co/YlSGb3OaAh https://t.co/bgUOo8jXMC",19,3,3,2022-08-25
+1210,2022-09-13 17:24:25+00:00,1569738786455670784,balancerlabs,@Larpseidon @Balancer 🤝 @Larpseidon thank you frend,2,0,0,2022-09-13

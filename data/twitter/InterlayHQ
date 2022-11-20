@@ -1,0 +1,1399 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-02-25 09:03:09+00:00,1232229535178985472,InterlayHQ,"Hello world! From DeFi loans to decentralized exchanges, from layer-2 protocols to application specific ledgers: Interlay will allow you to use any digital currency on any blockchain platform. https://t.co/EbmWsYcJAo",21,5,1,2020-02-25
+1,2020-03-03 13:33:49+00:00,1234834363541532673,InterlayHQ,"Cross-blockchain communication is *impossible* without a trusted third party.
+
+Intrigued / disagree? Come find out: our co-founder @alexeiZamyatin is speaking at @EthCC_  on March 5th (livestream/video available) #EthCC https://t.co/iuPwB4rwSZ",10,0,5,2020-03-03
+2,2020-03-05 07:59:48+00:00,1235475084766113792,InterlayHQ,"Excited to announce: We are bringing Bitcoin to @polkadotnetwork via a trust-minimized bridge, funded by a @web3foundation grant. 
+Read more here: 
+https://t.co/NSQNvz7Wu8",45,0,13,2020-03-05
+4,2020-04-05 09:25:25+00:00,1246730653623869440,InterlayHQ,"Our co-founder @alexeiZamyatin will be speaking about the impossibility of trustless cross-chain communication and how we can still achieve secure interoperability using XCLAIM. 
+
+Today at 12:00 CET @ #noncon2020  
+Livestream: https://t.co/BjAzZxD9PD",12,0,4,2020-04-05
+5,2020-04-11 19:12:40+00:00,1249052768272351233,InterlayHQ,"Our co-founder @alexeiZamyatin is serving in the computer science program committee for this year's Cryptovalley Conference @CVConf_ 
+Paper deadline in 6 days!
+https://t.co/s9VBgSaG2q",3,0,2,2020-04-11
+6,2020-04-16 12:07:01+00:00,1250757589450870785,InterlayHQ,"""Specs are good, code is better"". We're thrilled to release our code for BTC-Relay on @polkadotnetwork - implemented in Rust and @ParityTech’s Substrate framework. A first step towards Bitcoin on Polkadot.
+
+Repo: https://t.co/XX3mkUUAJA
+Blog: https://t.co/Tx2tFquAwr",46,0,21,2020-04-16
+7,2020-04-17 13:30:09+00:00,1251140895551787008,InterlayHQ,We support all efforts to make @polkadotnetwork interoperable and are happy to help and advise teams implementing the XCLAIM specification. We are also actively working on a BTC Parachain PoC in Rust/Substrate as part of the @web3foundation grant: https://t.co/XX3mkVcbB8 https://t.co/mBbL8w4IGX,15,0,5,2020-04-17
+8,2020-04-20 17:12:37+00:00,1252284045796544514,InterlayHQ,"We are happy to welcome @gregorydhill as the latest member of the Interlay team. Gregory is an open-source advocate and a core maintainer of @Hyperledger Burrow, with experience in cryptography and machine learning.
+
+#interoperable #defi
+Come hack with us! https://t.co/hcTB9L7CAO",9,0,4,2020-04-20
+9,2020-04-27 12:20:00+00:00,1254747120227287041,InterlayHQ,"The team is expanding! We're excited to have Jamie Perry join out team. Jamie is a software engineer with a background in algorithmic trading, previously co-founder of a Boston-based startup backed by Sequoia Capital and Techstars. 
+
+#interoperable #defi
+https://t.co/hcTB9L7CAO",7,0,2,2020-04-27
+10,2020-05-06 16:15:30+00:00,1258067879355920384,InterlayHQ,"DM for a link to join the session, if you don't have a ticket yet!",3,0,0,2020-05-06
+12,2020-05-07 17:43:51+00:00,1258452501076086784,InterlayHQ,"Want to reduce collateral in staking, cross-chain or DeFi protocols? Meet Promise, a new protocol designed by our founders @dominik0_ and @alexeiZamyatin, in collaboration with @ic3re @imperialcollege https://t.co/x1Sn26Bsdh",3,0,0,2020-05-07
+13,2020-05-15 00:17:52+00:00,1261088372875034626,InterlayHQ,"""Promise"" a novel protocol for collateral reduction, designed by our founders @dominik0_ and @alexeiZamyatin
+
+✔️ Featured in @Cointelegraph 
+✔️ @zkCapital paper of the week. 
+✔️ Published at academic conf. https://t.co/irDon1oaZl",8,0,0,2020-05-15
+14,2020-05-26 22:13:06+00:00,1265405628236869632,InterlayHQ,Congratulations to the great efforts of @ParityTech and @web3foundation - the launch of @polkadotnetwork heralds a new era of distributed ledger technology. We're excited to be supporting the efforts towards an interoperable #web3 https://t.co/VS82WT9hXE,10,0,5,2020-05-26
+15,2020-06-06 13:04:56+00:00,1269253941960814593,InterlayHQ,"Looking for a weekend read &amp; want to learn about interoperability? Take a look at our founder @alexeiZamyatin's overview paper: https://t.co/QwzuPLKmTI 
+
+How do cross-chain protocols look like? Why do they need some trusted 3rd party? And how can collateral help here?",3,0,0,2020-06-06
+16,2020-06-15 11:52:24+00:00,1272497179245121537,InterlayHQ,"We're talking bridges 🌉 at #PolkaDeFiDay this Thursday!
+Co-founder @dominik0_ will talk about the #BTCParachain, @polkadotnetwork's trustless Bitcoin bridge, and demo how to mint #PolkaBTC. 
+
+RSPV for free👇
+https://t.co/RIdogYG6Tu",22,0,8,2020-06-15
+17,2020-06-18 12:12:56+00:00,1273589511612698626,InterlayHQ,"Trustless Bitcoin on Polkadot - shipped ✔️
+
+We've released the PoC for the BTC-Parachain, @polkadotnetwork's trustless Bitcoin bridge. We’re one step closer to bringing BTC liquidity to Polkadot’s growing DeFi ecosystem. @ParityTech @web3foundation 
+
+https://t.co/rYpjgoeyF8",73,3,33,2020-06-18
+19,2020-07-04 13:13:02+00:00,1279402841430536193,InterlayHQ,Our founder &amp; CEO @alexeiZamyatin featured in @Cointelegraph on the future of blockchain interoperability https://t.co/gCSWrvXcur,5,0,0,2020-07-04
+20,2020-07-14 15:24:21+00:00,1283059769599758337,InterlayHQ,@stakefish @Polkadot And also: thanks for compiling! This is great!!,1,0,0,2020-07-14
+22,2020-07-16 14:00:35+00:00,1283763462460538885,InterlayHQ,"Call for participation!  
+https://t.co/DtpkGNBikW
+Sign up to participate in the BTC-Parachain testing process on @Polkadot. Be the first to use #PolkaBTC &amp; tell us what features you want to see!
+
+Please RT for visibility! We want to build what @Polkadot DApps really need!",21,2,8,2020-07-16
+23,2020-07-22 10:35:25+00:00,1285886160737312768,InterlayHQ,@coinrd1 @Polkadot No. The BTC-Parachain is based on XCLAIM - the only fully decentralized/permissionless &amp; financially trustless protocol for cross-chain assets. Peer-review and published at a top 4 academic security conference. Read more in the linked blog post or at https://t.co/OBx8UTR0JB,0,0,0,2020-07-22
+24,2020-08-05 20:12:19+00:00,1291104769881313281,InterlayHQ,"Our CTO and Co-Founder @dominik0_ will be on @EDCON_Official's ""DeFi 2.0 and Cross-Chain Composability"" panel. 
+Tune in to get the latest news on our upcoming #crosschain #DeFi products: 9 August 10:40 EDT. 
+https://t.co/mZJ2Ur3Adp",15,0,3,2020-08-05
+25,2020-08-21 09:04:05+00:00,1296734809507627010,InterlayHQ,"We're pleased to announce our new Head of Operations @davgarai. As an ex-magic circle lawyer, David brings expertise in regulations &amp; derivatives. David will help us launch our new cross-chain DeFi products &amp; lead regulatory and fundraising efforts. 
+https://t.co/sloTc8v4WT",18,0,4,2020-08-21
+26,2020-08-23 09:28:30+00:00,1297465730368249862,InterlayHQ,"Our co-founder @dominik0_ is presenting joined research on economic models and optimization of crypto collateral at MARBLE 2020! Join him at the conference via https://t.co/W9YUO3ysQL
+
+Full programme: https://t.co/mLxm7tQAKh",9,0,3,2020-08-23
+27,2020-08-24 11:54:52+00:00,1297864950472495110,InterlayHQ,"We are #hiring #remote! Want to join a research-driven start-up working on #Bitcoin, #Ethereum and #Polkadot? 
+4 dev positions open: Solidity, Rust, React/TS &amp; DevOps. 
+
+Apply here:  
+https://t.co/fzLawtzM09
+
+https://t.co/kJgJekjgYf
+
+#blockchainjobs #cryptojobs #MozillaLifeboat",20,1,6,2020-08-24
+28,2020-08-26 07:11:02+00:00,1298518299769286656,InterlayHQ,"We're #hiring a (senior) #Rust engineer.  
+
+#remote work, flexible hours, international team with strong academic background.
+
+https://t.co/VrtouxNzxc
+
+#MozillaLifeboat #cryptojobs #blockchainjobs",14,1,4,2020-08-26
+29,2020-08-30 08:33:53+00:00,1299988699820822528,InterlayHQ,"Our paper on more efficient (cross-chain) light clients was accepted for publication at CBT'20. Joint work with brilliant colleagues from @imperialcollege and
+@ETH. @alexeiZamyatin
+@zetavar1 @danhper
+@will_wjk 
+Paper: https://t.co/1CCdCO5zqd
+Conference: https://t.co/amLJgvpeIb",17,1,5,2020-08-30
+30,2020-09-11 08:17:14+00:00,1304333166648451072,InterlayHQ,"Please only refer to official Interlay channels:
+Twitter: https://t.co/i6GNQwhqtN
+Telegram:  https://t.co/Sp7wEXjLJz 
+Website: https://t.co/rRIcUoI9sB",4,0,0,2020-09-11
+32,2020-09-17 13:32:17+00:00,1306586776618889216,InterlayHQ,"REMINDER: Beware of scammers!
+ 
+There is NO token sale going on. 
+
+Please only refer to official Interlay channels:
+Twitter: https://t.co/i6GNQwhqtN
+Telegram:  https://t.co/Sp7wEXjLJz 
+Website: https://t.co/rRIcUoI9sB",8,0,3,2020-09-17
+33,2020-10-16 12:57:24+00:00,1317087244415619072,InterlayHQ,"Our co-founder @alexeiZamyatin is speaking at the DISC Blockchain Interoperability and Sharding workshop. 
+
+""Trustless Cross-Chain Communication: Impossible, but incentive compatible?""
+
+Live stream:
+https://t.co/xtktg05myi",13,0,3,2020-10-16
+34,2020-10-19 15:52:20+00:00,1318218433155223552,InterlayHQ,"We’re humbled by the positive feedback on #PolkaBTC!
+We're committed to building a user-friendly bridge with maximum security, underpinned by top-quality software.
+
+We thank @web3foundation &amp; @ParityTech for entrusting us with the important task of making @Polkadot interoperable. https://t.co/kVqrQdmB9C",38,2,10,2020-10-19
+37,2020-10-27 12:22:18+00:00,1321064677842030592,InterlayHQ,"European regulations are not ready for DeFi. 
+We have hence joined @MAMA_global to participate in a meaningful dialogue with regulators, helping to ensure a future for DeFi in Europe.  https://t.co/dY0X6LIx4P",13,0,1,2020-10-27
+38,2020-10-28 10:39:36+00:00,1321401221941469184,InterlayHQ,"Our founders @dominik0_ and @alexeiZamyatin are helping to organize a Decentralized Finance workshop at FC'21. 
+
+Topics: security, economics, finance, and game theory on the emerging DeFi space. 
+
+Please consider submitting your research papers! https://t.co/pzh0nLTEMl",14,0,0,2020-10-28
+39,2020-11-10 15:53:48+00:00,1326191336370941952,InterlayHQ,"Polkadot Decoded is coming December 3rd!
+
+Tune in with us and the rest of the @Polkadot community to learn more about the tech and discover the latest developments in the ecosystem. 
+
+@alexeiZamyatin will showcase the PolkaBTC bridge!
+
+Register for free 👉 https://t.co/VSRGblM36z",15,0,6,2020-11-10
+40,2020-11-13 17:04:27+00:00,1327296279022538752,InterlayHQ,"We are #hiring a #remote Web3 Full-stack Engineer! 
+
+Join us to work on #Bitcoin, #Ethereum and #Polkadot interoperability. 
+--&gt; Tech: React, Redux, Typescript
+
+Apply here:  
+https://t.co/5xAYbRRkhA
+https://t.co/kJgJekjgYf
+
+#blockchainjobs #cryptojobs https://t.co/VdJGBbohYl",16,0,6,2020-11-13
+42,2020-11-30 13:42:43+00:00,1333406105863663617,InterlayHQ,"The PolkaBTC Alpha Testnet is now  **Live** 🚀
+
+https://t.co/tvJIyugtgL
+
+Go mint your first testnet Bitcoin to Polkadot!
+
+https://t.co/XeGpKnkmPk",74,3,18,2020-11-30
+43,2020-12-01 00:00:47+00:00,1333561644291485698,InterlayHQ,@sebastianbur1 Yes:),2,1,0,2020-12-01
+47,2020-12-04 12:31:52+00:00,1334837826949697537,InterlayHQ,"We're glad to be one of the founding members of the @polkadotdefi Alliance.  
+Bringing awareness about existing Polkadot projects is necessary to achieve adoption.
+
+A first step towards collaboration across Polkadot projects, both on external (PR) and internal (launch) topics. https://t.co/CNTE1Zxkgc",11,0,0,2020-12-04
+48,2020-12-07 21:19:40+00:00,1336057815320965120,InterlayHQ,"Security of user funds is our highest priority.
+
+Today, we've kicked off @polkaBTC's first audit.
+We'll be working with NCC Group alongside @ParityTech and @web3foundation to ensure top-level code quality and robustness.
+
+Want to help? 
+Go test PolkaBTC: https://t.co/j1WSVbUA0B",26,0,5,2020-12-07
+49,2021-01-04 16:18:38+00:00,1346128918693244929,InterlayHQ,"@polkaBTC is now connected to the Polkadot.js block explorer! 🔍
+https://t.co/QbAUJlqrhK https://t.co/bvoZWNHouZ",3,0,1,2021-01-04
+50,2021-01-05 14:46:55+00:00,1346468223433150464,InterlayHQ,"We started as two PhDs with a vision, have grown to 10 people, closed the year with profit  -  and are just getting started…
+
+Looking back at a turbulent but successful year:
+https://t.co/a0sWaizBKR",34,5,8,2021-01-05
+52,2021-01-12 20:02:10+00:00,1349084274838953989,InterlayHQ,Beta is coming... @polkaBTC,20,2,4,2021-01-12
+53,2021-01-13 18:05:06+00:00,1349417199908356102,InterlayHQ,@DotParachains @Plasm_Network @bifrost_finance @PhalaNetwork @chainx_org @CrustNetwork @Kiltprotocol @AcalaNetwork @AIRA_Robonomics @hydra_dx @gavofyork You missed @polkaBTC ;),1,0,1,2021-01-13
+54,2021-01-18 08:53:17+00:00,1351090272009150465,InterlayHQ,"Our @polkaBTC bridge parachain is scheduled for Rococo V1 launch later this week 🚀 
+Full steam ahead! https://t.co/g5GeTCUPuI",19,1,4,2021-01-18
+55,2021-01-20 11:43:11+00:00,1351857803477053442,InterlayHQ,@Coin98Analytics @AcalaNetwork @Plasm_Network @Polkadot @CrustNetwork @PhalaNetwork @ZenlinkPro @hydra_dx @bifrost_finance @DarwiniaNetwork @clover_finance @Kiltprotocol @starks_network It's not Interlay but @polkaBTC - the trustless BTC-Polkadot bridge ;),2,0,0,2021-01-20
+56,2021-01-21 18:53:02+00:00,1352328367769587716,InterlayHQ,@samwern @danhper @ljfgudgeon @aklamun @will_wjk,6,0,0,2021-01-21
+60,2021-01-26 21:37:21+00:00,1354181658396807169,InterlayHQ,"Don't miss the first @polkadotdefi: a panel discussing ""Why Polkadot"", featuring @MoonbeamNetwork @EquilibriumDeFi @ReefDeFi and Interlay.  
+
+Don't forget to RSVP!
+https://t.co/33BxypCyTI",20,0,5,2021-01-26
+61,2021-01-28 15:08:54+00:00,1354808677392236546,InterlayHQ,"We're live! Come listen to our founder @alexeiZamyatin talk about why we are building on @Polkadot, alongside @EquilibriumDeFi @MoonbeamNetwork and @ReefDeFi 
+https://t.co/33BxypkXv8",7,0,3,2021-01-28
+62,2021-01-31 18:50:38+00:00,1355951643238539269,InterlayHQ,"An Interlay DeFi research paper made it to 
+@zkCapital's Paper of the Week - co-authored by our CTO 
+@dominik0_  with brilliant researchers from @imperialcollege and @cornell_tech
+
+https://t.co/tBaWvC83I0",11,0,1,2021-01-31
+63,2021-02-01 12:38:10+00:00,1356220297310052352,InterlayHQ,"A new parachain is born: @polkaBTC is making its first steps on Rococo. 
+
+Up next in February: 
+- UX update (full revamp underway)
+- Incentivized Beta testnet
+- Integrations https://t.co/Pc15nWTz9f",34,1,7,2021-02-01
+64,2021-02-03 16:26:23+00:00,1357002502093340673,InterlayHQ,"We are happy to support as a new partner of the Substrate Developer Academy!
+
+Tune in this week to learn about the Academy with @XiliangChen of @AcalaNetwork, @INDUSTRYCONNEC7, @ShannonC_NZ and @ParityTech. 
+
+Next intake starts Feb 15!
+ 
+Crowdcast signup: https://t.co/zImIuFhz5o",18,1,1,2021-02-03
+66,2021-02-05 17:39:27+00:00,1357745668085981186,InterlayHQ,@polkadotnews @AcalaNetwork @bifrost_finance @interlay @ZenlinkPro Wrong account :) we're @InterlayHQ,2,0,0,2021-02-05
+67,2021-02-07 13:27:39+00:00,1358407074963746818,InterlayHQ,@polkawarriors @Plasm_Network @AcalaNetwork @Polkadot @ShidenNetwork @polkaBTC ;),4,0,0,2021-02-07
+68,2021-02-10 19:25:46+00:00,1359584361469902853,InterlayHQ,"Want to learn about how @polkaBTC and #XCLAIM work? 
+Check out @Polkadot's article about the #trustless and #decentralized BTC bridge: https://t.co/JrQtHpUje1",91,2,27,2021-02-10
+70,2021-02-11 11:39:14+00:00,1359829343434903554,InterlayHQ,"Working on Polkadot? Your input is wanted!
+👇👇👇 https://t.co/xhp43MWeO9",8,0,0,2021-02-11
+72,2021-02-15 19:03:43+00:00,1361390753763782668,InterlayHQ,"@DotParachains @Polkadot @kusamanetwork @chainx_org @AIRA_Robonomics @HeyEdgeware @DarwiniaNetwork @StaFi_Protocol @PhalaNetwork @CrustNetwork @polkaBTC 90k+ LOC, 4000+ commits across 14 repositories. 15 contributors.",2,0,1,2021-02-15
+73,2021-02-24 20:08:11+00:00,1364668466024902659,InterlayHQ,"Join the Polkadot technical working group's DeFi Demo Day on Mar. 4th!
+
+@CamiRusso of @DefiantNews will moderate a panel, along with talks/demos from @AcalaNetwork @centrifuge @InterlayHQ @MoonbeamNetwork @PhalaNetwork @Plasm_Network @snowfork_inc 
+
+https://t.co/gRWeWAeMR8",10,0,1,2021-02-24
+74,2021-02-28 12:59:58+00:00,1366010252802588672,InterlayHQ,Check-out the latest comparison of Cosmos SDK and Substrate written up by our very own @gregorydhill ! https://t.co/PfH9cHutMF,2,0,0,2021-02-28
+75,2021-03-01 18:11:00+00:00,1366450915079766022,InterlayHQ,"DeFi Demo Day is this Thursday, March 4th at 5pm UTC!
+
+Agenda includes @Polkadot co-founder @rphmeier, @CamiRusso of @DefiantNews, and tech talks/demos from 
+@AcalaNetwork @centrifuge @InterlayHQ @MoonbeamNetwork @PhalaNetwork @Plasm_Network @snowfork_inc.
+https://t.co/gRWeWAeMR8",15,0,1,2021-03-01
+76,2021-03-02 13:02:00+00:00,1366735542512140288,InterlayHQ,@gibbo_unleashed @dominik0_ @polkaBTC Fixed now! A hiccup with Medium,2,0,0,2021-03-02
+78,2021-03-03 15:34:50+00:00,1367136390828466176,InterlayHQ,"Last day to sign up to the Polkadot Technical Working Group #DeFiDemoDay tomorrow!
+
+Join us, to find out more about #XCLAIM and @polkaBTC, PLUS more talks from @AcalaNetwork, @centrifuge, @MoonbeamNetwork, @PhalaNetwork, @Plasm_Network, @snowfork_inc!
+https://t.co/gZwe6ABsAq",9,0,2,2021-03-03
+81,2021-03-04 20:54:35+00:00,1367579247657811976,InterlayHQ,"Announcing the 1st @polkBTC Beta Challenge:
+
+Treasure Hunt🧭
+
+1) Mint PolkaBTC
+2) Redeem PolkaBTC
+3) Check out the Dashboard
+4) Submit useful feedback
+
+--&gt; Claim 1 DOT reward for the first 500 useful submissions.
+https://t.co/r4nzkWoQkg
+
+Funded by @Polkadot Treasury. https://t.co/F3hcXYscN6",15,3,2,2021-03-04
+84,2021-03-06 11:20:01+00:00,1368159427828871169,InterlayHQ,First 4 days of @polkaBTC  Beta. @Polkadot community is awesome! https://t.co/qHdpJIfjj2,23,0,4,2021-03-06
+85,2021-03-08 08:57:12+00:00,1368848263957319684,InterlayHQ,"@LittleWhite2018 @polkaBTC @Polkadot Thanks for reporting. This UI bug is already fixed for new requests. 
+
+For better response times, please consider joining our Discord: https://t.co/iC1IfvsIPA",0,1,0,2021-03-08
+87,2021-03-09 12:33:52+00:00,1369265178194362368,InterlayHQ,"We have new community/announcement channels for Interlay and @polkaBTC:
+
+📢 We have a new TG announcement channel: https://t.co/tGbFPjFdMw
+
+💬 To join our community &amp; chat with the team, join our Discord: https://t.co/iC1IfvsIPA",10,0,1,2021-03-09
+88,2021-03-10 09:49:13+00:00,1369586127343153153,InterlayHQ,@polkaprojectcom Cool idea! Would be great to add @polkaBTC (https://t.co/W9KWruLFgY) - definitely high activity there ;),1,1,0,2021-03-10
+90,2021-03-11 14:17:18+00:00,1370015983189057538,InterlayHQ,"@polkaBTC Incentivized Beta Challenges 2 and 3 are live!
+Go test Vaults and Relayers &amp; earn DOT!
+
+https://t.co/r4nzkWoQkg
+
+We want YOU to help us bring #Bitcoin to @Polkadot! https://t.co/sHAhIwazb8",75,4,12,2021-03-11
+93,2021-03-12 12:15:52+00:00,1370347810751647744,InterlayHQ,Join our testnet and earn DOT for giving feedback on our bridge! https://t.co/YkVQ6JFQ46,9,0,2,2021-03-12
+94,2021-03-15 09:51:08+00:00,1371398548886069251,InterlayHQ,"@Marlin20003 @chainx_org @polkaBTC Check out our original paper: https://t.co/FmHEYHUoP9
+OR the @Polkadot blogpost: https://t.co/JrQtHpUje1
+OR our docs: https://t.co/u7Kyj1ez8H",0,0,0,2021-03-15
+95,2021-03-16 17:16:18+00:00,1371872969333563395,InterlayHQ,"Polkadot article covering bridges and @polkaBTC,  the trustless #Bitcoin - Polkadot based on #XCLAIM built by Interlay. https://t.co/jAJ5rFnQ2j",11,1,3,2021-03-16
+96,2021-03-17 10:14:43+00:00,1372129262799618051,InterlayHQ,"#PolkadotDecoded conference is back! Vote for your favorite sessions - check out &amp; vote for our #TechTalk on @polkaBTC, why Polkadot needs Bitcoin, and what new big feature are coming to the bridge!
+
+https://t.co/T9iaGUILrW",5,0,2,2021-03-17
+97,2021-03-18 08:27:50+00:00,1372464751075332098,InterlayHQ,"Eager to hear why #Bitcoin is coming to Polkadot and what's next for @polkaBTC? Our CEO @alexeiZamyatin is speaking at PolkaDeFiance today at 4pm CET.  
+
+Register here: https://t.co/lHVq78IRtG https://t.co/plWTU7nSIK",18,0,3,2021-03-18
+98,2021-03-22 15:49:22+00:00,1374025417850564609,InterlayHQ,We're excited to announce that Interlay/@PolkaBTC is on the list of potential presentations at this year's @Polkadot Decoded. Support our talk about PolkaBTC under the TECH TALK category by voting at #polkadotdecoded before April 4th. Every vote matters https://t.co/WePahBi3a7 https://t.co/Ri2PJT6Fq5,21,0,3,2021-03-22
+99,2021-03-29 22:58:00+00:00,1376670001206226945,InterlayHQ,"We're excited to have @jessicarsalomon join Interlay to work on growth 😎
+
+Prev, Jess worked on @MakerDAO as well as @AaveAave and @1inchExchange 
+
+Reach out if you are interested in joining Interlay.",17,2,3,2021-03-29
+100,2021-04-12 19:25:28+00:00,1381689944788324356,InterlayHQ,"@Road_2_3dom @polkaBTC @AcalaNetwork Thanks - please do consider leaving feedback!
+PS: fees are just example values for now &amp; will be updated for mainnet. 
+But think of it this way: you're paying for insurance against theft and failure (if all goes south, you'll get 110% in DOT) :)",3,0,0,2021-04-12
+101,2021-04-17 17:55:27+00:00,1383479232706224128,InterlayHQ,"📣 Watch, Listen and Join the Community Call Live: 
+
+https://t.co/rt865FWrZi
+
+🙂Let us know your feedback: 
+What do you want to know, learn or receive perspective on? 
+
+👋See you soon!",3,0,1,2021-04-17
+105,2021-04-19 14:06:02+00:00,1384146273029156882,InterlayHQ,@kusamaxi @danreecer_ @kusamanetwork The call will be recorded and made available. You can watch it afterwards and join the discussion on Discord/Twitter/Element,1,0,0,2021-04-19
+106,2021-04-20 12:00:01+00:00,1384476950224379910,InterlayHQ,"🚀 ~1 hour until the big community call with @InterlayHQ and @kusamanetwork and @Polkadot councils 
+
+🎤Hear the @InterlayHQ
+proposal for unified, trustless @polkaBTC for both @kusamanetwork
+and @Polkadot ecosystems 🤝
+
+🙌 Check out the open/recorded call: https://t.co/6NjGDNnU8u",11,0,1,2021-04-20
+107,2021-04-26 09:53:49+00:00,1386619516143247361,InterlayHQ,"""State of Parachains"" panel tomorrow 6pm CET: @alexeiZamyatin @AcalaNetwork @Plasm_Network @centrifuge @ParityTech 
+
+#Illuminate21 brings together prominent projects in the #Polkadot &amp; #Ethereum ecosystems that already joined the multi-chain movement powered by 
+@MoonbeamNetwork",26,2,8,2021-04-26
+109,2021-04-27 10:00:01+00:00,1386983463962644483,InterlayHQ,"📢 AMA with our @alexeiZamyatin and @dominik0_  @ PolkaHouse clubhouse at 7pm CEST today.
+
+Topic:  ""A new type of BTC on Kusama &amp; Polkadot: Why, How &amp; When?"" 
+
+Join here (open to all): https://t.co/Ux7jfbaPxe",5,0,1,2021-04-27
+112,2021-05-02 17:11:46+00:00,1388904058644226054,InterlayHQ,🟩,8,0,0,2021-05-02
+113,2021-05-12 08:27:03+00:00,1392395884810358787,InterlayHQ,"@alexeiZamyatin @WatanabeSota @mattunchi @danreecer_ Update: Web3 grants are now being showed as delivered or terminated - so you at least can see if the (code) delivery was accepted. 
+https://t.co/E5DxBroSaI",2,0,0,2021-05-12
+114,2021-05-13 08:45:15+00:00,1392762855515205635,InterlayHQ,We're in the final sprint https://t.co/8KVMGiuwLy,8,0,0,2021-05-13
+116,2021-05-14 09:43:25+00:00,1393139882197983234,InterlayHQ,@DotMarketCap_ @PhalaNetwork @Polkadot @substrate_io @AcalaNetwork @MoonbeamNetwork @Plasm_Network @SubsocialChain @Kiltprotocol @EquilibriumDeFi @clover_finance @MantaNetwork @SubQueryNetwork I think you guys forgot @polkaBTC ;),6,2,0,2021-05-14
+117,2021-05-20 15:15:24+00:00,1395397754852192257,InterlayHQ,"@asiahodl @Polkadot @kusamanetwork @AcalaNetwork @Plasm_Network @MoonbeamNetwork @centrifuge @HeyEdgeware @MantaNetwork Very interesting report! Missing ""bridges"" as a category though.  Arguably, a critical one for Polkadot and Kusama.",10,3,2,2021-05-20
+118,2021-05-25 12:14:44+00:00,1397164229048819717,InterlayHQ,"Price up, price down - who cares, we code &amp; we ship. 
+
+Major upgrade to @polkaBTC Beta: new features (nomination,...), stability &amp; UX improvements. 
+
+AND: new challenges with DOT rewards incoming!
+
+#Bitcoin users, check it out👇 https://t.co/TAZP1JlVVF",30,0,4,2021-05-25
+119,2021-05-26 08:46:20+00:00,1397474171530137603,InterlayHQ,"Our CTO Dom (@dominik0_) will be talking &amp; answering questions about why Bitcoin DeFi must be decentralized and what's coming in the latest interBTC (@polkaBTC) Beta upgrade.
+
+12:00 PM EDT https://t.co/b16EmTHfbf",9,0,0,2021-05-26
+120,2021-06-01 14:38:38+00:00,1399737155946225669,InterlayHQ,@PolkaWarriors_ @gavofyork @bettechentt @ruitao_su @derekyoo @ingoruebe @M4K070 @LesleyCzuma @AlexSiman @superanonymousk @shawntabrizi Missing @polkaBTC ;),2,0,0,2021-06-01
+121,2021-06-03 09:04:33+00:00,1400377858812416003,InterlayHQ,"We're getting close to launch🚀
+
+Check out the latest @polkaBTC update and the new challenges with DOT rewards! https://t.co/OiffKlPzFH",23,0,3,2021-06-03
+122,2021-06-07 08:51:00+00:00,1401823997872984065,InterlayHQ,Come join us buidling #Bitcoin cross-chain DeFi https://t.co/BMMigS9gZG,3,0,0,2021-06-07
+124,2021-06-08 15:17:59+00:00,1402283773933326340,InterlayHQ,"Calling #Bitcoin &amp; DeFi coders!
+
+We've put up a @gitcoin Bounty with @Liquality_io to integrate the Liquality non-custodial BTC browser wallet with @polkaBTC at the @SovrynBTC BTC DeFi hackathon. 
+
+https://t.co/wfhLDgxL0Z
+
+Prize: USD 5k in BTC, and potential future funding!",16,1,6,2021-06-08
+125,2021-06-11 13:02:50+00:00,1403336927609294854,InterlayHQ,"First edition of our Dev &amp; Ecosystem Newsletter!
+
+Beta upgrade, tons of new features, testnet challenges &amp; DOT prizes, and our first Gitcoin grant.
+
+https://t.co/5Vj5FM96CT",14,1,3,2021-06-11
+126,2021-07-01 07:30:47+00:00,1410501119193792516,InterlayHQ,"""The Interoperability of Blockchains"" - our CTO @dominik0_ on ""The Story of Software Podcast""
+
+- What is interoperability? 
+- Leading projects 
+- Security considerations.
+- Technological challenges 
+
+https://t.co/6T0xzE0MBe",22,0,9,2021-07-01
+127,2021-07-05 17:59:54+00:00,1412108995003916290,InterlayHQ,"8/ @inter_btc doesn't discriminate. It's for everyone, everywhere 🌍 
+
+For the cypherpunks, the degens, the maxis. For the hodlers, the traders, the yield farmers.
+
+Use your #Bitcoin however and wherever you want.",16,2,2,2021-07-05
+142,2021-07-08 13:00:07+00:00,1413120713012117504,InterlayHQ,"Hey #Cosmos, we are on our way!
+
+#Interlay #Cosmos #interBTC #DeFi https://t.co/Sr4VoLHldw",18,1,2,2021-07-08
+144,2021-07-12 17:23:45+00:00,1414636613003513856,InterlayHQ,"With all exciting news and big announcements these last weeks, we haven't forgotten to get you also the latest developer and ecosystem update. Straight from out Tech Lab ⚙🛠
+
+#interlay #interBTC #defi #interoperability 
+https://t.co/e66kGTATw4",13,0,2,2021-07-12
+145,2021-07-15 14:30:03+00:00,1415680062083387394,InterlayHQ,"5/ @inter_btc is a 1:1 Bitcoin-backed asset, radically open and secured by insurance. Anyone can invest, earn and pay with BTC on any blockchain.",4,1,0,2021-07-15
+151,2021-07-17 08:47:26+00:00,1416318616832823296,InterlayHQ,"@PanthersCulture @Polkadot @inter_btc @Kusama @ethereum @cosmos Yes, core system is hosted as a parachain. 
+Try testnet here: https://t.co/XUz96MAl8h",1,0,0,2021-07-17
+152,2021-07-19 13:31:43+00:00,1417114931569254407,InterlayHQ,"We're at @EthCC! 
+
+Wanna know how and when @inter_btc is coming to @ethereum?
+
+Catch us here to chat!",11,2,4,2021-07-19
+153,2021-07-28 12:32:00+00:00,1420361397486063617,InterlayHQ,"Great job opportunity! We are looking for a talented UI/UX Designer. If you have a strong track record of working with deep tech/fintech teams and a strong portfolio, you are the perfect candidate. Join us on our exciting voyage! More info 👉 
+
+https://t.co/ckAdFOE1Lz",8,2,2,2021-07-28
+155,2021-08-16 15:30:17+00:00,1427291632131473411,InterlayHQ,"Handling money is already hard and with an increased number of currencies and chains it becomes even more difficult. To sort it out, we are introducing monetary-js: a library for dealing with the myriad of digital currencies in a safe multi-chain future👇🏼
+
+https://t.co/klfezoqXff",20,0,6,2021-08-16
+156,2021-08-18 07:54:13+00:00,1427901636144508930,InterlayHQ,"Want to work for one of the most avant-garde blockchain companies, pay attention! We are hiring a Community Manager: fluent in community building, excellent communication + research skills, perfect English, a self-starter with knowledge of blockchain.
+
+https://t.co/5boAdq7aCL",8,0,0,2021-08-18
+157,2021-08-23 05:23:29+00:00,1429675641218031621,InterlayHQ,"Opening our Interlay &amp; interBTC Ambassador Program! Looking for early #Polkadot &amp; #Kusama followers &amp; spokespeople, DeFi natives and anyone who is passionate about changing the centralized status quo. This can be you👉 https://t.co/xYGRwUcHZG
+
+#ambasador #defi #interlay #interBTC",22,0,3,2021-08-23
+158,2021-08-24 15:30:50+00:00,1430190873090748418,InterlayHQ,"We are thrilled to reveal @kintsugi_btc - @inter_btc's canary network on @kusamanetwork - running for one of the next 5 parachain slots!
+
+Trustless #Bitcoin is coming to #Kusama.   
+
+👇 https://t.co/q9lYCojsmD",539,43,225,2021-08-24
+163,2021-08-26 12:55:00+00:00,1430876431563857931,InterlayHQ,@Cointelegraph This is missing bridges - one of @Polkadot's main advantages over other networks..,10,1,2,2021-08-26
+165,2021-08-27 14:39:11+00:00,1431265036723490824,InterlayHQ,"@danreecer_ @alexeiZamyatin @kintsugi_btc @kusamanetwork Join our community to find out more!
+- Discord: https://t.co/SPNF3fKkJt
+- Telegram (community): https://t.co/d23mfCpQwr",5,0,0,2021-08-27
+169,2021-08-28 11:05:43+00:00,1431573703834443781,InterlayHQ,"For those testing @inter_btc / @kintsugi_btc on our https://t.co/XUz96MAl8h testnet: 
+
+There is a ""block storm"" on BTC testnet = 100blocks/1min instead of 1/10min --&gt; miners testing hardware --&gt; only happens on tesnet. https://t.co/TYOS2Br5uP
+
+The bridge will catch-up shorty",11,0,1,2021-08-28
+170,2021-08-29 22:42:32+00:00,1432111452534583298,InterlayHQ,"@polkadotnews Wrong ""read more"" link under the Kintsugi section ;)",2,0,0,2021-08-29
+171,2021-08-30 10:53:48+00:00,1432295484517924868,InterlayHQ,"We're doing a Twitter Spaces AMA on Kintsugi BTC tech, auctions &amp; crowdloan - Tuesday 8pm CET (Twitter link will show in your timezone). Send us your questions!
+
+https://t.co/toQBbf5Gxl",22,0,6,2021-08-30
+173,2021-08-31 15:13:52+00:00,1432723316490579983,InterlayHQ,T-15 https://t.co/EEyGaya7WA,7,0,2,2021-08-31
+175,2021-09-02 10:50:36+00:00,1433381839268458497,InterlayHQ,"Beware of scammers!
+
+We generally never DM out of the blue.
+And we will NEVER ask for private information or money!
+
+Stay safe and always check official Telegram and Discord channels! https://t.co/IZf0sw2qOi",10,0,4,2021-09-02
+177,2021-09-05 11:36:40+00:00,1434480598366756868,InterlayHQ,"Interlay now has an official Russian-speaking TG channel! Join us!
+
+Мы открыли оф. ру канал в телеграмме. Присоединяйтесь!
+
+👇👇
+https://t.co/qyIQMNhilf",43,1,16,2021-09-05
+178,2021-09-09 10:02:31+00:00,1435906456436580353,InterlayHQ,"Just a few hours left to the start of the @encodeclub  Polkadot Hack! @dominik0_ from @InterlayHQ and  @Polkadot friends - @AcalaNetwork @AstarNetwork @MoonbeamNetwork @PhalaNetwork
+ &amp; @SubQueryNetwork will discuss how to build something cool on Polkadot and pose challenges! 👇🏼 https://t.co/5aALDwAkS8",54,0,10,2021-09-09
+180,2021-09-11 18:17:40+00:00,1436755839969280004,InterlayHQ,"Hi everyone, we are holding our first community call! @dominik0_  will present the latest from #Interlay + the dev lab🚀 Will be discussing @kintsugi_btc crowdloan progress + introducing our first Ambassadors. 
+And, of course, Q&amp;A🎡
+Waiting for you on Discord, Sept. 16, 5 pm CET https://t.co/JoO9Q5AEL8",85,7,25,2021-09-11
+181,2021-09-13 12:59:04+00:00,1437400435229343749,InterlayHQ,Just a day and few hours till the start of the @ParallelF #PolkadotDeFi ⏰ Don't miss the chance! Hear from some of the most extraordinary minds about their work in the DeFi space! https://t.co/dvVlBwBhzv,60,0,16,2021-09-13
+182,2021-09-15 14:09:42+00:00,1438142988530630657,InterlayHQ,@dominik0_ speaking about the latest developments from #Interlay and their importance for the entire @Polkadot ecosystem! Tune in 👇🏼 https://t.co/3BRDeACxvy,19,2,4,2021-09-15
+184,2021-09-16 14:43:02+00:00,1438513764672827413,InterlayHQ,"Reminder❗️Our Discord Community Call #1 is starting at 3 pm UTC❗️Some awesome news on their way🚀
+
+See you there in a bit🎡
+
+#Interlay #KintsugiBTC #interBTC",44,2,8,2021-09-16
+185,2021-09-21 11:11:52+00:00,1440272560466194438,InterlayHQ,@olewko89 @inter_btc @kintsugi_btc https://t.co/CvxwN8wcnj,1,0,0,2021-09-21
+186,2021-10-04 15:05:40+00:00,1445042441912872963,InterlayHQ,"We are happy to share that #Interlay has resolved 2 comprehensive audits from Informal Systems 🔍
+
+Main focus:
+-&gt; completeness of  protocol specifications (interbtc-spec, XCLAIM)  
+-&gt; correctness of implementations (interbtc, interbtc-clients)
+
+Details 👉 https://t.co/kyoubLNpml",42,1,15,2021-10-04
+188,2021-10-07 11:19:01+00:00,1446072568444866564,InterlayHQ,"Summer is gone, fast and busy 🌀 and so much to share -&gt; from the epic @kintsugi_btc crowdloan run for @kusamanetwork parachain auctions, the new Ambassador Program, resolving 2 audits, to all smashing dev news from #Interlay tech lab🚀
+
+Everything here👇🏼
+https://t.co/f3acie6uyA",79,0,32,2021-10-07
+189,2021-10-08 07:35:12+00:00,1446378631094284315,InterlayHQ,@Azistek @kintsugi_btc @inter_btc Thank you 🙏🏼,2,0,0,2021-10-08
+190,2021-10-12 15:17:47+00:00,1447944593773891592,InterlayHQ,@polkaprojectcom @Polkadot You need to update the Interlay logo - and add @kintsugi_btc as canary network (and remove PolkaBTC ;)),5,1,1,2021-10-12
+192,2021-10-14 19:42:38+00:00,1448736021252911113,InterlayHQ,"That fundamental question ""What is money?"" 🤑 Listen and you might finally grasp the concept 💤 https://t.co/vOclJX0VtT",19,0,6,2021-10-14
+193,2021-10-15 14:23:21+00:00,1449018059029680151,InterlayHQ,@Crypto___D @kintsugi_btc No deadline,2,1,0,2021-10-15
+194,2021-10-22 13:29:19+00:00,1451541175777775616,InterlayHQ,"Less than an hour before the start of this week's AMA with @alexeiZamyatin and @dominik0_📢
+ 
+Listen. Ask. Learn. Don't miss it❗️
+
+Friday 22nd
+2:15pm - 2:45pm UTC
+
+Meet you on Discord🚀
+https://t.co/QtcaTIXTGy
+
+#InterlayHQ",35,2,10,2021-10-22
+195,2021-10-28 15:20:53+00:00,1453743578686136327,InterlayHQ,"Explorers, adventurers, enthusiasts, are you ready to join us on a new mission🌟 The #Interlay Network parachain will bid for @Polkadot parachain slot🔴
+When 👉 Batch 2 (slot 6–11)
+Starting 👉 23 Dec 2021
+
+Onward + upward🚀
+
+#Interlay2Polkadot
+
+All here👇🏼
+https://t.co/TVBHLgW0t7",287,29,87,2021-10-28
+197,2021-10-29 13:17:49+00:00,1454074995949309956,InterlayHQ,"Don’t forget💡WEEKLY AMA💡
+
+Today we discuss❗️
+👉🏼Interlays Vision for the future
+👉🏼Interoperability &amp; the path ahead!
+•Roadmap catch up &amp; updates 
+•The future of Interoperability 
+•What’s to come
+
+🕛TIME 2:15pm (UTC TIME) 
+See you on Discord 👾
+
+#Interlay #interBTC #Bitcoin https://t.co/mSPBIAm2Yp",34,1,8,2021-10-29
+198,2021-11-03 15:17:21+00:00,1455917017488318467,InterlayHQ,"The latest #CoinTalk is out🌟 featuring @alexeiZamyatin for #Interlay and some other future runners in the @Polkadot parachain auctions. 
+
+Have a look for yourselves👇🏼
+
+#DOT #parachains #interBTC https://t.co/CmChKgd7sU",40,1,17,2021-11-03
+199,2021-11-04 14:17:54+00:00,1456264443227041800,InterlayHQ,"Not to forget tomorrow's Weekly AMA 📣 
+
+Will discuss similarities - differences between #Interlay and #Kintsugi, Kintsugi roadmap recap and prepping for #Interlay2PolkadotGlowing 🌟
+
+⏱2:15pm UTC 
+🗓 Friday 5th Nov
+
+See you on Discord 
+https://t.co/ioYy7KNKIm
+
+art #Artem_Gorenko https://t.co/BIphChdS76",43,1,13,2021-11-04
+200,2021-11-08 13:42:43+00:00,1457705142472646657,InterlayHQ,"@InterlayHQ team at its retreat in Lisbon gearing up for the @Polkadot crowdloan and auction run in December 🚀☀️
+
+We are ready! Are you? 
+
+#Interlay2Polkadot #interBTC #Bitcoin #DOT https://t.co/z6Y0sd4D3c",58,4,12,2021-11-08
+202,2021-11-12 12:50:12+00:00,1459141478182264834,InterlayHQ,"Don’t forget the WEEKLY AMA 📣 with @alexeiZamyatin &amp; our Community Manager Remy!
+
+Today we will talk about:
+
+✔️Current development status
+✔️Running Vaults and Collators
+✔️@kintsugi_btc usability
+
+🕛2:15pm UTC
+🗓Friday 12th Nov 
+
+See you on Discord👇🏼
+
+https://t.co/8T6ScSPm5I https://t.co/zINtmiY28z",39,2,8,2021-11-12
+203,2021-11-14 11:37:42+00:00,1459848008112218117,InterlayHQ,Taproot is live on #Bitcoin 🎉🎊,40,1,5,2021-11-14
+204,2021-11-17 11:13:02+00:00,1460928962373292033,InterlayHQ,"As we start preparing for @Polkadot parachain crowdloan + auctions, we will share useful info to help the community be ready to participate + vote for #Interlay2Polkadot and bring trustless #Bitcoin to #Polkadot. First, let's revisit Polkadot for Beginners by @danreecer_ 🚀🔴 https://t.co/lsGbVJJONl",53,2,16,2021-11-17
+207,2021-11-18 16:21:50+00:00,1461369066271117314,InterlayHQ,"Congratulations to our friends at @AcalaNetwork for winning the #1 @Polkadot parachain slot. 
+
+We can't wait to join you in batch 2 and finally make #Bitcoin #DeFi happen!",137,7,9,2021-11-18
+208,2021-11-20 05:52:08+00:00,1461935370971619328,InterlayHQ,@jmacgt2 @danreecer_ @Polkadot It’s coming via @kintsugi_btc,2,0,0,2021-11-20
+210,2021-11-22 13:57:17+00:00,1462782238651727876,InterlayHQ,"We are looking for a versatile creative and tech-Copywriter, native English speaker, passionate about blockchain, DeFi + interoperability future. If you are or you know someone who is a great match, visit👇
+https://t.co/1Gax29QF3C
+https://t.co/fKfUsIc5Hs
+
+#hiring #InterlayHQ",27,2,10,2021-11-22
+211,2021-11-25 08:23:52+00:00,1463785493645176840,InterlayHQ,"A reminder! Friday WEEKLY AMA📣 with the participation of our brilliant developer @gregorydhill + community manager Remy🌀
+
+We will discuss👇🏼
+
+✔️#Governance
+✔️#Roadmap Recap
+
+🕛 2:15pm UTC
+🗓️ 26th November (Friday) 
+
+https://t.co/uMqjN1z7D7
+
+Art #Vagif 
+
+#KINT @kintsugi_btc #BTC https://t.co/4gO4J0PCkV",39,5,10,2021-11-25
+212,2021-11-26 13:24:46+00:00,1464223605563215874,InterlayHQ,"A huge congratulations to the winners of @Polkadot #hackathon &amp; a massive thanks to @encodeclub!
+
+Medium Challenge Winner!
+Mel Teichmann
+
+Easy Challenge Winners!
+Viacheslav Smirnov
+Claudio Ciardelli
+Kenji Phang
+Mel Teichmann
+Alex Marchenko
+
+See Below! 👇 https://t.co/Ak9qPyjc7U",24,1,4,2021-11-26
+213,2021-12-02 09:57:04+00:00,1466345663055249411,InterlayHQ,"First winners of our🍬EARLY REWARDS🍬 
+
+💡515 passed the Quiz  
+🏗520 test-minted @inter_btc 
+
+If you never try, you never win❗️
+
+2.5% for participating in the Interlay Quiz  
+2.5% for minting interBTC in testnet 
+ 
+Hurry up!!! 
+ 
+👉https://t.co/6WBOVlb1zn 
+
+#Interlay2Polkadot",103,17,40,2021-12-02
+216,2021-12-03 09:56:43+00:00,1466707965646454794,InterlayHQ,"📣#DidYouKnow 📣 
+interBTC follows 4 main protocols? 
+
+No? Well here they are! 👇
+
+-Issue
+-Mint
+-BTC DeFi
+-Redeem
+
+Be sure to follow, share &amp; RT for more @InterlayHQ facts! #Interlay2Polkadot https://t.co/CJjtbQD6is",40,0,14,2021-12-03
+218,2021-12-04 19:34:02+00:00,1467215637156175879,InterlayHQ,"📣#DidYouKnow📣
+#Kintsugi is #Interlay's canary network? 👀
+
+No? See more below!👇
+
+Kintsugi &amp; Interlay share the same code base, with the difference that Kintsugi focuses strictly on innovation and will always be ahead in terms of features!
+
+#Interlay2Polkadot ₿ https://t.co/CyDEdIj46S",38,2,12,2021-12-04
+220,2021-12-05 20:56:21+00:00,1467598744350859265,InterlayHQ,"#DidYouKnow 
+
+Vaults are responsible for maintaining the physical 1:1 peg between BTC &amp; interBTC? 👀
+
+No? See more!
+
+Vaults receive BTC for safekeeping from users and ensure BTC remains locked whilst #interBTC exists!🛡️
+
+#Interlay2Polkadot ₿ https://t.co/QlxP8LlQ5L",32,1,13,2021-12-05
+221,2021-12-06 16:26:50+00:00,1467893306055086080,InterlayHQ,"#DidYouKnow 
+
+That anyone can run a #Vault? 👀
+
+No? See more below! 👇
+
+Vaults are non-trusted and collateralised! This means that any user can become a Vault by providing collateral. 
+
+As a user you can freely choose any vault or even be your own! 🛡️
+
+#Interlay2Polkadot ₿ https://t.co/LcQbo4ADQl",25,2,9,2021-12-06
+222,2021-12-07 17:00:37+00:00,1468264193589760001,InterlayHQ,"📣#DidYouKnow 📣
+
+#Vaults have 24 hours to issue redeem requests? 👀
+
+No? See more below! 👇
+
+Vaults must come online at least once every 24 hours to do so! If a vault fails to redeem, you can retry with another or claim the collateral!🛡️
+
+#Interlay2Polkadot ₿ https://t.co/PD5Ro5JUZd",27,0,12,2021-12-07
+223,2021-12-08 12:50:13+00:00,1468563565951037447,InterlayHQ,"Later today, @InterlayHQ and our friends @centrifuge @ParityTech @MantaNetwork and @MoonbeamNetwork will be discussing the trendy, yet not well understood, the topic of #Interoperability in the DOTverse🔴
+
+When and where👇🏼 
+
+https://t.co/3QKSUJ7y8j",120,11,30,2021-12-08
+224,2021-12-09 17:14:53+00:00,1468992559771013121,InterlayHQ,"📣Weekly AMA!📣
+Have a question? Come join the #Interlay community for this weeks AMA!
+
+With your hosts! 
+@remyGFLeBerre &amp; @gregorydhill 
+
+🕑Time: 2:15pm UTC!
+🗓️Date: Friday 10th!
+
+This weeks topics:
+-Community Update
+-Roadmap Recap
+-Vault &amp; Collator Recap
+https://t.co/sGIhIUPk9Q https://t.co/zXnc0zJ79i",21,1,5,2021-12-09
+225,2021-12-10 13:39:52+00:00,1469300836870279171,InterlayHQ,"Early Birds are getting Early Rewards🏆 as part of the upcoming #Interlay2Polkadot crowdloan!
+
+1094 people completed the Quiz🌟
+
+Just a few days left❗️
+
+💡2.5% for participating in the Interlay Quiz 
+🏗2.5% for minting interBTC in testnet 
+
+Hurry up🏃🏻‍♀️🏃🏻‍♂️
+https://t.co/6WBOVlb1zn",45,6,10,2021-12-10
+226,2021-12-14 17:07:01+00:00,1470802520431894530,InterlayHQ,"@IrohCrypto @Portela_Capital @Polkadot @kintsugi_btc As per the roadmap, they will be distributed before Dec. 23",3,1,1,2021-12-14
+233,2021-12-15 06:58:09+00:00,1471011683128782853,InterlayHQ,@cesarcasvid @Portela_Capital @Polkadot Not yet. Coming very soon!,3,0,0,2021-12-15
+237,2021-12-17 12:12:34+00:00,1471815582345572360,InterlayHQ,This is the way https://t.co/SFHrBGWaam,26,0,5,2021-12-17
+238,2021-12-20 14:25:58+00:00,1472936315767463939,InterlayHQ,@xudiannan @MoonbeamNetwork We will post in the coming hours!,0,1,0,2021-12-20
+239,2021-12-21 16:08:19+00:00,1473324463643152386,InterlayHQ,Some major news from @InterlayHQ spaceship🌟 We keep flying and continue our work towards building trustless and decentralized cross-chain #DeFi 🚀Thank you to our investors and everyone who trusts and supports us! https://t.co/8JCyFgj570,38,0,7,2021-12-21
+243,2021-12-22 10:10:48+00:00,1473596879711748100,InterlayHQ,"📣Don't forget! Today we are talking with @ParallelFi about all things @Polkadot + crowdloans, DeFi + interoperability, and what is 2022 bringing🌟
+
+Ask, and you will get the answer❗️See you❗️
+
+👉Wed. Dec 22nd at 10AM PST/ 6 PM UTC at @InterlayHQ Spaces
+
+https://t.co/r8OAE4FLdQ https://t.co/XaHraEgufq",65,8,19,2021-12-22
+246,2021-12-23 16:51:29+00:00,1474060103162679299,InterlayHQ,"We passed 1 million DOT contributions to the Interlay crowdloan❗️
+
+This is a vote of trust to @InterlayHQ and its goal to bring DeFi BTC to the vibrant @Polkadot and beyond✨
+
+It takes courage to be on the side of those who dare challenge the status quo 🚀
+
+#Interlay2Polkadot https://t.co/2qbTmNEKOA",87,7,18,2021-12-23
+247,2021-12-24 12:00:44+00:00,1474349319750930438,InterlayHQ,@Infinit_worlds @Polkadot The Early Bird bonus is closed since yesterday 6pm UTC ⏱,1,0,0,2021-12-24
+248,2021-12-25 08:39:32+00:00,1474661071826915331,InterlayHQ,"Merry Christmas and Happy New Year🎄Best wishes for happiness, health and new horizons ✨
+
+art @danul9811 https://t.co/DheqR5kYt8",78,3,13,2021-12-25
+249,2021-12-28 08:34:56+00:00,1475747080874381312,InterlayHQ,@MFishkilla @kintsugi_btc @gate_io Will appreciate if you don’t spread FUD and speculations!,0,0,0,2021-12-28
+251,2021-12-31 16:49:28+00:00,1476958695904980994,InterlayHQ,"4/4 And at the end of 2022, we will finally be able to say: we were the ones who finally brought true DeFi to Bitcoin.
+
+Enjoy the year's end - and see you all fresh in 2022🌟",18,0,0,2021-12-31
+255,2022-01-05 17:22:33+00:00,1478778961681387521,InterlayHQ,"📣Weekly AMA!📣
+
+Have a question? Come join the #Interlay community for this weeks AMA!
+
+With your hosts!
+@alexeiZamyatin &amp; @remyGFLeBerre 
+
+🕑Time: 2:15pm UTC
+🗓️Date: Friday 7th Jan
+
+Topics:
+-#Interlay &amp; #Kintsugi Status
+-Roadmap Recap &amp; Moving Forward
+
+https://t.co/OCNWfKGsoU https://t.co/adqRMTGg8w",35,3,7,2022-01-05
+256,2022-01-06 13:16:36+00:00,1479079456027336708,InterlayHQ,"And the winners of our holiday season❄️Intersleigh NFT competition are🏆
+@andrey_boreyko  
+@Kxinon1  
+@AnastazyV 
+
+Congratulations🎉
+
+The community created amazing pieces and voted the best. The winners' original artwork is minted &amp; sent as an #NFT on behalf of @InterlayHQ🚀 https://t.co/t3QUkGgifV",43,4,4,2022-01-06
+258,2022-01-07 14:13:29+00:00,1479456157517422592,InterlayHQ,"Community AMA with CEO @alexeiZamyatin starting now!
+https://t.co/OCNWfKGsoU",19,2,3,2022-01-07
+259,2022-01-10 13:32:14+00:00,1480532939544924165,InterlayHQ,"📣Join us for the @Polkadot Conversations  ""Parachain Rollout"" with @alexeiZamyatin and friends from @PhalaNetwork @ComposableFin and @EquilibriumDeFi🚀
+ 
+👉 Thur. Jan 13, 4pm CET live on @crowdcastHQ 
+
+https://t.co/1t1RIvzV4U",32,3,11,2022-01-10
+260,2022-01-11 13:10:43+00:00,1480889913130340356,InterlayHQ,"Attention❗️ With just a few clicks on @krakenfx you can now support @InterlayHQ in the crowdloan run for the @Polkdadot parachain auctions🎡 
+
+Join us and let's fly together🚀
+
+More info on how to participate 👇🏼
+https://t.co/s8yyuQ8tKW
+
+#Interlay2Polkadot #interBTC",48,3,16,2022-01-11
+261,2022-01-12 18:32:36+00:00,1481333306922835974,InterlayHQ,"📣Weekly AMA📣
+Come join the #Interlay community for this weeks AMA!
+
+With your hosts!🔥
+@remyGFLeBerre
+@gregorydhill
+@TomJeatt
+ 
+Time: 2:15pm UTC
+Date: Friday 14th
+
+Topics!👇
+Latest Updates from the dev team!
+Kintsugi Integrations!
+Road to kBTC launch!
+
+https://t.co/LphWt3ASZm https://t.co/3Iy5SENpNe",14,0,3,2022-01-12
+262,2022-01-13 12:27:44+00:00,1481603873181773827,InterlayHQ,"Our latest Dev &amp; Ecosystem updates have arrived❗️ While planning the future, we look back at the last year’s achievements and lessons learned, the community we’ve started building, and the technology that underlies it all🌟
+
+Read more in our blog👇🏼
+https://t.co/0QZRu8jofK",70,0,25,2022-01-13
+263,2022-01-14 12:17:20+00:00,1481963641993891846,InterlayHQ,"Reminder!
+This weeks live AMA is today👀
+Starting at 2:15pm [UTC] 🎤 https://t.co/9a4mhEV1RE",22,1,5,2022-01-14
+264,2022-01-17 14:06:11+00:00,1483078200322367492,InterlayHQ,Don’t miss our AMA with @CryptoSyzygy1 extraordinary community ✨ @alexeiZamyatin will be talking latest Interlay updates and answering your questions. See all details here 👇🏼 https://t.co/54pFCM8dYp,40,2,12,2022-01-17
+265,2022-01-20 12:56:48+00:00,1484147900770922502,InterlayHQ,"Tomorrow we are meeting again our friends @realsatoshinet and @IOSGVC to discuss @InterlayHQ achievements, updates, and plans🚀 @alexeiZamyatin will be answering your questions and revealing some pretty cool DeFi news from our tech lab✨🔭
+
+Post questions and check all details👇🏼 https://t.co/xAbyKO5QzB",42,1,11,2022-01-20
+267,2022-01-21 08:01:32+00:00,1484435983496007680,InterlayHQ,"📣For those who missed the AMA with @CryptoSyzygy1 and want to catch up, check the recap here👇🏼
+
+https://t.co/agOpMczgBK",21,0,4,2022-01-21
+270,2022-01-24 13:08:03+00:00,1485600282264449024,InterlayHQ,"What are @Polkadot bridges and why @InterlayHQ is so important for the ecosystem 🌉 read in this informative and amazing post 👇🏼
+
+https://t.co/c2im1WduXt",70,2,23,2022-01-24
+271,2022-01-27 16:40:49+00:00,1486740990899720194,InterlayHQ,"🚀Weekly AMA🚀
+Come join the #Interlay community for this weeks AMA🎙️
+
+With your hosts👀
+@remyGFLeBerre
+@alexeiZamyatin 
+ 
+Time: 2:15pm UTC
+Date: Friday 27th
+
+Topics👇
+Recapping the roadmap!
+Taking the next leap towards kBTC!
+Ambassador Promotions!
+
+LINK: https://t.co/fLjQbc5OAt https://t.co/XzFoLWToy0",19,0,3,2022-01-27
+272,2022-01-28 14:53:24+00:00,1487076346958389248,InterlayHQ,Our community educators at their best 🥇 https://t.co/GTtETk45ec,42,1,11,2022-01-28
+274,2022-01-29 12:14:27+00:00,1487398735705513984,InterlayHQ,@grossbel12 @Polkadot 🙏🏼✨,1,0,1,2022-01-29
+278,2022-02-01 13:45:53+00:00,1488508908754948102,InterlayHQ,"Happy Lunar Year of the Tiger, everyone🐯 Wishing you health and prosperity✨ https://t.co/WkDUck7BIv",61,0,8,2022-02-01
+279,2022-02-02 12:06:06+00:00,1488846183825121283,InterlayHQ,"The second instalment of our Community Update Newsletter has been published!🚀
+
+Take a glimpse into the Interlay community👇
+https://t.co/M4vY4bqj69 https://t.co/pEk9ugC50J",65,1,23,2022-02-02
+280,2022-02-04 13:59:15+00:00,1489599433885032451,InterlayHQ,"It's Friday, but we stay focused🥇 @Polkadot parachain auction 9 is ongoing. 3 more slots left! 
+
+@InterlayHQ is running 2nd right behind @hydra_dx❗️ 
+All winners from batch 2 onboard on March 11th 🚀
+ 
+Together we can bring trustless #BTC to Polkadot  👉🏼 https://t.co/aY4w32vq4p https://t.co/1vs1hK8e4E",48,4,11,2022-02-04
+281,2022-02-07 11:08:33+00:00,1490643642247172096,InterlayHQ,"We are excited to participate in @EthereumDenver and host a special @InterlayHQ workshop🌟Curious to know more about us and our signature product #interBTC - Insured Bitcoin on any Blockchain, grab one of those limited seats 👉🏼https://t.co/hw0S2nSwu1
+
+Can't wait to meet you🚀 https://t.co/yCiPL60i8o",53,3,13,2022-02-07
+282,2022-02-10 20:36:23+00:00,1491873703881326604,InterlayHQ,Congratulations to @hydra_dx for the well deserved win 🏆. We can’t wait to join the @Polkadot family! One more round to go 🚀 https://t.co/mHgu6w1iUS,49,3,5,2022-02-10
+283,2022-02-15 23:22:43+00:00,1493727503432634371,InterlayHQ,"Our team is making some serious waves at @EthereumDenver 🔥 presenting #interBTC - the Polkadot &lt;&gt; Bitcoin bridge and revealing the @InterlayHQ  expansion roadmap 🚀 
+
+Don't miss our next event 👉Wed 16, 8:00 - 12:00 MST, Substrate Seminar https://t.co/rZQAhIizUz https://t.co/vGeFYIieCO",34,0,9,2022-02-15
+286,2022-02-16 16:13:29+00:00,1493981870706593799,InterlayHQ,"Interlay's adventure at #ETHDenver2022 Continues!🚀
+
+Tune in at 5:00pm CET where our very own @gregorydhill is a panelist at the Substrate Seminar!
+
+Live Stream Link!👇
+https://t.co/S7vateDKYj…
+
+More Details Here!👇
+https://t.co/rZQAhI0Z31
+
+#Interlay2Polkadot",24,1,7,2022-02-16
+287,2022-02-17 11:26:30+00:00,1494272035316449282,InterlayHQ,"Another amazing presentation by our star engineer @gregorydhill  at the @substrate_io session during the ongoing @EthereumDenver 🌟
+
+Check it here 👉https://t.co/U34zbBjdmb https://t.co/X0P3y6C2GX",27,0,8,2022-02-17
+290,2022-02-18 11:50:17+00:00,1494640408646848522,InterlayHQ,"Are you interested in running a Vault❓ Are you ready to help secure the @interlayhq  Network while earning rewards as a good actor❓ If yes, it is important to understand the risks + rewards. Check our blog for all details👇🏼
+
+https://t.co/nn6lpoms4T",53,0,21,2022-02-18
+292,2022-02-23 11:03:05+00:00,1496440471886962691,InterlayHQ,"Only one day left till the @polkadot parachain auction for slot 10 is closed⚡️ @interlayhq  is leading with 10 390 contributions and looking forward to joining the stellar projects in the ecosystem ✨ Don't be late, hop on board and vote for bringing trustless BTC to Polkadot 🚀 https://t.co/yBUkKE4uxq",102,9,29,2022-02-23
+294,2022-02-24 18:31:44+00:00,1496915763747332102,InterlayHQ,@Polkadot Thank you🎈,35,2,1,2022-02-24
+297,2022-02-26 12:00:06+00:00,1497541984847900677,InterlayHQ,"It's the weekend but our Bridge Testnet Contest continues. The winners of Day 2 are:
+
+🍀 Challenge 1: anonimcandir#1794
+🍀 Challenge 2: kira.jal#2125
+
+Congratulations 🎉 and expecting your submissions and feedback on our Discord channel #ktbc_quest 
+
+Till tomorrow 🚀 https://t.co/9EF9UDJn5e",42,1,5,2022-02-26
+298,2022-02-27 12:47:11+00:00,1497916221387386881,InterlayHQ,"We just finished the 3rd day of our Bridge Testnet Contest! Congratulations to the winners: 
+
+Challenge 1: Akata#9898 🍀 
+Day 3: B4D_R#7064 🍀 
+
+Also, after some clarification 👉  the winner for Challenge 2: Day 2 is kkalii#9177 🍀 
+
+Thank you for testing! 
+
+Till tomorrow 🎉 https://t.co/NZyXX6sEM6",34,1,8,2022-02-27
+299,2022-02-28 12:33:24+00:00,1498275140781711370,InterlayHQ,"The hard work on stress-testing the @Kintsugi bridge is giving results⚡️ Congratulations to the winners of the Bridge Testnet Contest, Day 4 🏆 
+
+Challenge 1: petproject#8962 🍀
+Challenge 2: Claudio#3513 🍀
+
+Thank you for testing and meet you tomorrow! https://t.co/4KZIgmuxGe",18,0,4,2022-02-28
+300,2022-03-01 14:23:42+00:00,1498665285167226880,InterlayHQ,"With more of the community getting involved we're very excited to announce the DAY 5 Stress-test winners!🏆
+
+Challenge 1: CRL#5351🍀
+Challenge 2: FedPed#9939🍀
+
+Thank you to everyone, see you all tomorrow! https://t.co/08TuL62PLd",12,0,2,2022-03-01
+304,2022-03-02 17:52:31+00:00,1499080224193056772,InterlayHQ,A lot of exciting news on their way ⚡️ Keep a close look at this space 👀 https://t.co/geGtQ1Uudd,43,0,8,2022-03-02
+306,2022-03-03 12:01:02+00:00,1499354157060444161,InterlayHQ,"What outstanding participation during the first week of the Bridge Testnet Contest 🎉 Thank you‼️ The winners of Day 7 are:
+
+Challenge 1: igorb115599#8057🍀
+Challenge 2: pmensik#3434
+
+Congratulations! Till tomorrow🌟 https://t.co/BYRF4ELPa5",25,0,6,2022-03-03
+308,2022-03-04 15:04:47+00:00,1499762788851400718,InterlayHQ,"And, the winners of Day 8 of our Bridge Testnet Contest are ⚡️
+
+Challenge 1: tinhtan13#9846 🍀
+Challenge 2: FedPed#9939 🍀
+
+Outstanding participation, everyone! See you tomorrow🌟 https://t.co/9Rp9pxBJxv",16,1,4,2022-03-04
+309,2022-03-05 18:03:09+00:00,1500170062669529092,InterlayHQ,"It's a sunny Saturday and well about time to announce the winners of Day 9 of our Bridge Testnet Contest ☀️
+
+Challenge 1: AlexMironov#2407 🍀
+Challenge 2: Curu#0751 🍀
+
+Well done! See you tomorrow✨ https://t.co/hOkF4QA5SF",19,1,4,2022-03-05
+310,2022-03-06 14:03:39+00:00,1500472177845485570,InterlayHQ,"Congratulations to the winners of Day 10 of our Bridge Tetsnet Contest 🌟
+
+Challenge 1: Ростислав#4148 🍀
+Challenge 2: whisperit#8145 🍀
+
+Have a beautiful Sunday and see you tomorrow✨ https://t.co/J5kqoqN7kT",19,2,8,2022-03-06
+311,2022-03-07 15:56:33+00:00,1500862977301520389,InterlayHQ,"🌟The Community AMA Returns🌟
+
+After much request, we’re bringing back our AMAs!👀
+
+With your hosts…@alexeiZamyatin &amp; @remyGFLeBerre 
+
+Topics!👇
+A congratulations to all! #Interlay is coming to #Polkadot❕What happens next? 👀
+
+#Bitcoin 
+https://t.co/W31xHozSTi",69,3,13,2022-03-07
+313,2022-03-08 16:52:23+00:00,1501239416999792657,InterlayHQ,"Two more days till the end of our Bridge Testnet Contest. If you have stayed on the sideline, it is about time to step in and test ⚡️ Might be some special surprises 🎉 
+
+The winners of Day 12 are:
+
+Challenge 1: Zarina#7971 🍀
+Challenge 2: Curu#0751 🍀
+
+Till tomorrow🌟",17,0,4,2022-03-08
+314,2022-03-09 16:35:10+00:00,1501597470899453962,InterlayHQ,"Just a day left before the @kintsugi_btc Bridge Testnet Contest finale ⚡️ The participation has been amazing and your feedback is invaluable! Congratulations to the winners of Day 13 🏆
+
+Challenge 1: IceCrab#9848 🍀
+Challenge 2: kkalii#9177 🍀
+
+See you tomorrow 🙌🏼
+
+#kintsugi_btc https://t.co/MzizwJk4ow",14,2,2,2022-03-09
+315,2022-03-10 14:35:28+00:00,1501929737785987079,InterlayHQ,"🌟Don’t Forget! The AMA makes a return, landing this Friday!🌟
+
+If you’ve got a question, be sure to post it in the comments! 🎙
+
+Live on Twitter Spaces at 2:15pm Tomorrow, see you all there!👀
+#Bitcoin #PolkaDot #DeFi https://t.co/9d4iufRyIs",27,0,8,2022-03-10
+317,2022-03-11 13:20:43+00:00,1502273311803420674,InterlayHQ,"Less than 1 Hour To Go🔥
+
+2:15pm Twitter Spaces! Dont miss this one👀
+
+#Bitcoin https://t.co/f1UtC746oQ https://t.co/xe41EoQ0hB",15,1,6,2022-03-11
+319,2022-03-12 08:46:34+00:00,1502566710666305537,InterlayHQ,"Interlay is live on Polkadot‼️ We are producing already blocks✨
+
+https://t.co/zWtfKh7OU8
+
+Thank you to everyone who has been supporting us and our mission to bring true DeFi #Bitcoin to the unique @Polkadot ecosystem 🔴
+
+Onward and forward🚀 https://t.co/FNbvSPdIPu",309,50,58,2022-03-12
+320,2022-03-14 15:14:19+00:00,1503389064061493253,InterlayHQ,"🌟Kintsugi staking has landed!🌟
+
+Join @alexeiZamyatin &amp; @gregorydhill as they venture forth &amp; discover everything you need to know about #Kintsugi staking!🔥
+
+🕛Time: 12pm [UTC]
+🗓️Date: Thursday 17th 
+
+Check out the Eventbrite below👇
+https://t.co/kcrhy8myms #Bitcoin #BTC",23,0,8,2022-03-14
+321,2022-03-15 14:11:52+00:00,1503735737375772679,InterlayHQ,"Incase you're not aware! Were currently live with the kUSD-KINT bootstrap!🌟 
+
+10 Hours to go, get involved today!👀
+https://t.co/yUtGIS0grL 
+
+Want to know more? Check the guide on how to get $KINT to @KaruraNetwork 
+
+ 👉🏼 https://t.co/vw4aQGDn1k
+
+#KintsugiBTC #Karura #kBTC",27,1,5,2022-03-15
+323,2022-03-16 15:52:15+00:00,1504123385504280592,InterlayHQ,"How To Play!👇
+1️⃣Join our Interlay workshops! The next upcoming workshop goes LIVE🗓️Tomorrow at🕛12pm UTC!
+2️⃣Must ask at least 1 question during the workshops
+
+The winner will be chosen by the Interlay team after all workshops are completed!
+
+🔗LINK: https://t.co/QWdBtgagbO",10,2,0,2022-03-16
+327,2022-03-17 11:17:52+00:00,1504416724417982464,InterlayHQ,"🌟Staking Rewards Are LIVE🌟
+
+With less than 1 Hour to go till our staking Workshop, we’re proud to announce that rewards are finally ACTIVE!🔥
+
+Join us live at 12pm UTC👇
+https://t.co/QWdBtgagbO
+
+Don’t forget to ask a question and be in with a chance to win👀👇
+#staking $KINT https://t.co/erhL85xLxN",25,3,8,2022-03-17
+330,2022-03-18 19:42:43+00:00,1504906163313389576,InterlayHQ,"New weekly update by co-founder @alexeiZamyatin 
+
+https://t.co/znY0AU5XXT
+
+tl;dr.
+@kintsugi_btc staking is live, Interlay parachain onboarded on @Polkadot , XCM channel to @KaruraNetwork opened, $KINT pools on @ZenlinkPro and Karura DEX.",60,6,18,2022-03-18
+331,2022-03-21 18:53:02+00:00,1505980823065010176,InterlayHQ,"A special treat for the top question from our audience!
+We are excited to give everyone another chance at winning a ticket to #BitcoinMiami  @thebitcoinconf
+
+How To Play!👇
+
+1️⃣Join the kBTC Event on Crowdcast!
+2️⃣Must ask at least 1 question!",2,0,1,2022-03-21
+335,2022-03-22 17:14:13+00:00,1506318340310110217,InterlayHQ,"Don't miss the opportunity to win a ticket to Bitcoin Miami 2022 @TheBitcoinConf 🎟
+
+How To Play👇
+
+1️⃣Join the kBTC event on Crowdcast👆🏼
+2️⃣Ask at least 1 interesting question!
+
+The best question will be the winner 🏆",6,0,1,2022-03-22
+336,2022-03-23 14:23:21+00:00,1506637730796736513,InterlayHQ,"Just 1 day before our panel on the new frontiers in DeFi and the Dotsama ecosystem, and the role of BTC and kBTC❗️ Hosted by @InterlayHQ with guests @DFG_OfficiaI @MoonbeamNetwork and @AcalaNetwork ✨ 
+
+Book a seat https://t.co/QzHqk84mjP
+
+Ask a question and get in the raffle 🎉 https://t.co/JSUC2HNQ7D",177,2,42,2022-03-23
+337,2022-03-24 18:55:02+00:00,1507068489663660037,InterlayHQ,"Our panel discussion is going live in 5 minutes‼️ We are talking Bitcoin, DeFi and Dotsama and much more 🚀
+
+Take a seat, ask your question and you might even win the exclusive raffle 👉🏼 a ticket for @TheBitcoinConf 
+
+Meet you very soon https://t.co/QzHqk84mjP",40,4,12,2022-03-24
+340,2022-03-29 08:04:56+00:00,1508716824069820422,InterlayHQ,"We are proud to announce that we are sponsoring @TheBitcoinConf 🌟 If you want to meet our team there, send a message before we are fully booked ⚡️
+
+Last but not least, the winner of our #BitcoinMiami2022 raffle is @MaxMoviemaker 🏆 Congratulations 🙌🏼
+
+https://t.co/ha6dTUh3YP",31,2,9,2022-03-29
+341,2022-03-31 16:50:09+00:00,1509573774814887938,InterlayHQ,"Let’s get into action⚡️ The voting for #PolkadotDecoded is now open‼️  Let's make sure that we all vote and @InterlayHQ and our community are represented at this extremely important event for the Dotsama ecosystem 🌟 
+
+To vote 👇🏼
+https://t.co/qJgead7viI",49,2,11,2022-03-31
+343,2022-04-01 17:08:27+00:00,1509940771343974411,InterlayHQ,Yet another great reason to celebrate the bright minds in our team✨ Congratulations to our Co-founder and CEO @alexeiZamyatin 🎊 https://t.co/NH7BrHwmO8,35,1,3,2022-04-01
+344,2022-04-02 08:55:58+00:00,1510179221603340292,InterlayHQ,Let’s give a support to one of our key investors and vote for @realjameswo to hear him speaking #PolkadotDecoded 🙌🏼 Don’t forget to vote for @InterlayHQ talks as well ⚡️ https://t.co/yzrCJ21ja9,28,1,7,2022-04-02
+345,2022-04-04 13:13:30+00:00,1510968807929663492,InterlayHQ,@leon363082082 @realjameswo Which country are you?,0,1,0,2022-04-04
+347,2022-04-05 13:15:02+00:00,1511331578882011141,InterlayHQ,"📣 Hello, friends! Hope you are enjoying your day and some of you having fun at @TheBitcoinConf ☀️ Whatever you are doing, take a moment to support our team's participation in the most important Dotsama event this year 👉🏼 #PolkadotDecoded 🔴
+
+To vote 👉🏼  https://t.co/qJgead7viI",42,3,10,2022-04-05
+353,2022-04-06 20:49:19+00:00,1511808293483819009,InterlayHQ,"Our team had an awesome time talking about DeFi censorship-resistant #Bitcoin, @InterlayHQ cross-chain bridge connecting Polkadot and Bitcoin, and interBTC - our flagship product🙌🏼 
+
+And of course, meeting some amazing people at the @Polkadot  event as part of @TheBitcoinConf https://t.co/6xwZQ2toGH",110,8,17,2022-04-06
+358,2022-04-07 19:08:31+00:00,1512145311048908805,InterlayHQ,What a great feeling to see our work covered once again by  @Cointelegraph 🚀 Thank you @tomfarrencrypto for this solid story as always 🙌🏼 https://t.co/zsl97gtVSQ,47,4,14,2022-04-07
+361,2022-04-08 11:49:01+00:00,1512397095344422921,InterlayHQ,"Why secure cross-chain bridges are so important for DeFi 🌉 Listen to @dominik0_ fantastic presentation at the @HongKongPolyU Fintech Week💡 
+
+Never too late to learn 👇🏼
+https://t.co/5SZZ3Utszo
+
+#interlay #interBTC #kBTC #bitcoin",17,1,4,2022-04-08
+364,2022-04-09 18:07:27+00:00,1512854721312215050,InterlayHQ,"📣Polkadot Decoded📣 
+
+Don’t forget to vote for Interlay at one of THE largest Polkadot events of the year!
+
+With our very own @alexeiZamyatin &amp; @gregorydhill hosting talks, this is one you don’t want to miss👀
+
+Vote today!👇
+https://t.co/qJgead7viI",34,0,8,2022-04-09
+365,2022-04-11 09:51:04+00:00,1513454575721795588,InterlayHQ,"📣Referendum📣 - “Collateral ceiling to increase to 15k KSM”
+
+With @kintsugi_btc’s Vaults🛡gaining popularity by the day, the community has spoken to double the collateral ceiling! 
+
+The referendum ends at block: 692077, roughly 5 hours time!
+
+Vote now!👇
+https://t.co/FTRUrm93Hq",31,3,4,2022-04-11
+368,2022-04-12 17:25:43+00:00,1513931380329259008,InterlayHQ,"2 days remain! If you’ve not voted yet now’s the time⏱
+
+With 2/3 of Interlays’s talks already on the list for #PolakdotDecoded let’s aim for that full house👏
+
+Vote today if you wanna hear about Radically Open #BTC for Polkadot’s #DeFi !👇
+
+https://t.co/qJgead7viI https://t.co/YlOuXKz64m",22,0,5,2022-04-12
+371,2022-04-13 18:46:01+00:00,1514313977320333313,InterlayHQ,"With the recent referendum that passed earlier this week, we’re thrilled to see the collateral ceiling for @kintsugi_btc ‘s kBTC Vaults raised to 15,000 #KSM!🛡
+
+Want to get involved &amp; mint kBTC?👇
+https://t.co/TXwBPcnUdP https://t.co/pgi7fl2dOa",36,1,7,2022-04-13
+373,2022-04-14 13:17:33+00:00,1514593703670648838,InterlayHQ,"Reminder❕We’ve got quite the interesting Twitter space this afternoon…👀
+
+Featuring our very own @alexeiZamyatin alongside @danreecer_ from the Acala team!
+
+We go live this afternoon at 🕒 3pm UTC👇 https://t.co/HpaZAfzafs",23,0,4,2022-04-14
+375,2022-04-19 22:35:12+00:00,1516545981185236995,InterlayHQ,Amazing to see the @InterlayHQ engineers doing us proud👏 https://t.co/H2dzANdDHW,88,1,14,2022-04-19
+376,2022-04-20 07:59:05+00:00,1516687884874625026,InterlayHQ,"The bootstrap is live! If you’re interested in bootstrapping the $kBTC / $aUSD pool, then be sure to check it out here👇 https://t.co/EQCmR7uzLf",25,0,2,2022-04-20
+379,2022-04-21 10:24:18+00:00,1517086821376798720,InterlayHQ,"AmsterDOT Hackathon!👾
+
+Interlay’s proud to announce that we’ll be taking part in this years @amsterdot_con #hackathon bounty!
+
+What’s the prize? We’ve got a total pool of $30,000 up for grabs!👀
+
+Check out our Github bounty page here!👇
+https://t.co/UdFpAsDXuZ",28,0,5,2022-04-21
+382,2022-04-22 14:06:38+00:00,1517505157218684933,InterlayHQ,"🔥 Interlay Community Call 
+replay is ready to watch!
+
+Topic:
+@kintsugi_btc  X @KaruraNetwork 
+
+Featuring guests:
+@alexeiZamyatin &amp; @danreecer_ 
+
+YouTube link:
+https://t.co/5uh4W50fzn
+
+Looking forward to seeing everyone again at our next event!
+
+@InterlayHQ @interlay_zh",32,2,7,2022-04-22
+383,2022-04-25 20:09:47+00:00,1518683712975745026,InterlayHQ,@xudiannan @Moon1ightSt 你好，INTR近期就会上线噢！欢迎加入Interlay官方电报群，获得最新信息，谢谢！https://t.co/d23mfCpQwr,3,0,0,2022-04-25
+384,2022-04-26 08:29:43+00:00,1518869922427850752,InterlayHQ,"Join Interlay’s Co-Founder @alexeiZamyatin at this years #PolkaDeFinance!🎙
+
+Join us as we learn about how @InterlayHQ delivers #Bitcoin to DeFi applications!
+
+🗓Date? April 28th!
+🕑Time? 4pm CET https://t.co/6BZI8j5gbn",23,1,3,2022-04-26
+387,2022-04-27 15:01:12+00:00,1519330828827996163,InterlayHQ,"🔥 Coming soon tomorrow!
+
+Interlay Co-Founder and CEO @alexeiZamyatin will speak at Polka DeFiance
+
+Topic: Learn about delivering physical Bitcoin to DeFi applications on Polkadot
+
+ See you on April 28, 4 PM CET 
+
+🔗 Registration link: https://t.co/anPjBBZoBr",18,1,4,2022-04-27
+388,2022-04-28 15:29:13+00:00,1519700269227024384,InterlayHQ,"We are live!🎙Join the Co-Founder of @InterlayHQ &amp; @kintsugi_btc, @alexeiZamyatin as he dives into how Interlay delivers #Bitcoin to DeFi applications!
+
+Check it out on crowdcast now!👇
+🔗https://t.co/gtxAxG5wY5",21,0,7,2022-04-28
+394,2022-04-29 21:13:17+00:00,1520149242865762305,InterlayHQ,"A lot has happened since the last update!✍️
+
+The team, community &amp; product all have grown and prospered &amp; we couldn’t be more pleased👏
+
+With news ranging from kBTC to the $INTR launch, were thrilled to say that the @InterlayHQ founders update is here👇
+🔗 https://t.co/ZVW6Jy9dI8",42,5,10,2022-04-29
+395,2022-05-06 16:30:34+00:00,1522614811762343936,InterlayHQ,@makkafada We are still working with partners to finalise this part. For now you cannot use the crowdloan page to submit your claim. We will update when we have everything ready.,6,2,0,2022-05-06
+405,2022-05-10 13:25:27+00:00,1524017777425719297,InterlayHQ,"📣The @InterlayHQ &amp; @kintsugi_btc community call is here!📣
+
+This Friday🗓at 3pm CET join @remyGFLeBerre &amp; @Bleau as they discuss:
+
+•kBTC! What in the multi-collateral⁉️
+•Integrations galore!🔥
+
+https://t.co/Ww2QlgmWE7",21,0,6,2022-05-10
+407,2022-05-12 14:43:36+00:00,1524762219229102080,InterlayHQ,"We go LIVE🎙Tomorrow at 3pm CET!
+
+Join the team as we dive deep into Integration’s &amp; multi collateral news!
+
+Have a burning question? Join us tomorrow and join the stage!👇 https://t.co/39EiJ5IiHo https://t.co/F0zdwId1AX",21,1,4,2022-05-12
+408,2022-05-13 12:56:20+00:00,1525097612780634115,InterlayHQ,Starting in 5 minutes! See you all there! https://t.co/UUhcLYuATk,20,1,4,2022-05-13
+409,2022-05-16 23:22:36+00:00,1526342380789583872,InterlayHQ,"The #Web3Frontier🚀Our very own @dominik0_ CTO &amp; Co Founder of @InterlayHQ talks quite the relevant topic, stablecoins!
+
+🕘Starts at 3am CET / 9pm EST!👇 https://t.co/edHUpuoRz6",22,0,4,2022-05-16
+412,2022-05-19 14:55:20+00:00,1527301885404717062,InterlayHQ,"Are you interested in contributing to our ecosystem by running a vault on Interlay? 
+
+We want to know more about you! 
+
+Please a few minutes to fill out the survey below ⬇️
+
+https://t.co/vo6w0QnDfP https://t.co/am0DairNpx",23,1,8,2022-05-19
+413,2022-05-20 23:02:31+00:00,1527786878409351168,InterlayHQ,"@MilkRoadDaily Explore, get curious, and become active in communities and projects that you’re passionate about.",14,0,0,2022-05-20
+414,2022-05-23 16:30:49+00:00,1528775466471014401,InterlayHQ,"We heard our name was dropped in the new @Polkadot panel: Why Multichain Is the Future of Blockchain ⛓✨
+
+Great discussion with 
+– Derek Yoo, founder of @MoonbeamNetwork 
+– Ingo Rübe, founder of @Kiltprotocol 
+– Oscar Franklin Tan, CFO at @efinityio 
+
+https://t.co/i4GUYsRB17",55,3,13,2022-05-23
+415,2022-05-25 09:15:36+00:00,1529390717197500417,InterlayHQ,"473017
+(posting for verification)",20,3,1,2022-05-25
+417,2022-05-26 10:43:49+00:00,1529775304423636992,InterlayHQ,"Calling Third Party INTR Contributors!
+
+If you contributed through: 
+@ParallelFi, @EquilibriumDeFi or @bifrost_finance then you can officially start your claim process!
+
+1️⃣Simply visit: https://t.co/KAJc1cUuQG
+2️⃣Ensure you connect with the account you provided to the partner! https://t.co/KnOZCJNpWT",112,4,22,2022-05-26
+418,2022-05-27 16:28:02+00:00,1530224319195922432,InterlayHQ,"Our very own Ops Lead, @c_mascarin is speaking at @DotsamaPrague 😱 
+
+Caroline will be speaking about Interlay and how we're creating a future of possibilities with $BTC interoperability. You don't want to miss it! 
+
+Tickets ⬇️
+https://t.co/yvHsHJ5VGz
+
+See you in Prague ✈️ https://t.co/R8x0Pm7CDk",30,1,5,2022-05-27
+419,2022-06-01 23:27:01+00:00,1532141698805075970,InterlayHQ,"Exciting things are happening! 
+
+❒ #INTR is live on @subscan_io ❒
+
+Start exploring blocks in real time ➡️ https://t.co/Vxcs0YgQgH https://t.co/xFiqFqvnLJ",58,6,17,2022-06-01
+420,2022-06-06 21:07:35+00:00,1533918546916417536,InterlayHQ,"What a great lineup + event. We hope everyone loved @DotsamaPrague and didn't miss our Ops Lead @c_mascarin giving a talk on the innovation coming from Interlay. 
+
+Who else has been grateful for the opportunity to gather in person again? 
+
+Which events are you looking forward to? https://t.co/KA8zF37WqK",24,2,4,2022-06-06
+421,2022-06-07 15:17:35+00:00,1534192855333359616,InterlayHQ,@De_luneClaire @c_mascarin @DotsamaPrague forever bullish on women in crypto 💥,6,0,0,2022-06-07
+422,2022-06-08 21:29:14+00:00,1534648774261448704,InterlayHQ,"🏛INTR Staking Rewards🏛
+INTR has been airdropped to @Polkadot crowdloan contributors. 
+
+We now have our 1st community governance proposal:
+⚖️ Fast track request to activate staking rewards 
+
+View + 2nd the proposal: 🔗 https://t.co/5b7vvcupqP
+Voting will likely open tomorrow 🗳",68,5,16,2022-06-08
+427,2022-06-09 00:10:25+00:00,1534689337392218113,InterlayHQ,@zit012 @Polkadot Are you in our discord or telegram group(s)? Our team can help you tomorrow AM if you’re still having issues ☺️,0,1,0,2022-06-09
+433,2022-06-10 19:46:47+00:00,1535347768239202307,InterlayHQ,"We launched Interlay and airdropped tokens to early supporters 2 days ago
+
+Within 1 day, the community executed a proposal to fast track staking
+
+Now, 2 days later, we've hit 6 million vINTR locked to stake rewards on our DApp
+
+To say we're impressed is an understatement 🤯 https://t.co/zHS3iiNcoK",74,10,9,2022-06-10
+440,2022-06-13 15:48:38+00:00,1536374998474321920,InterlayHQ,"@Coinversation_ @Polkadot Congrats! 
+
+Welcome to the @Polkadot Parachain Party 😎 https://t.co/o6KFfrMLgx",6,0,0,2022-06-13
+443,2022-06-14 16:17:12+00:00,1536744573090791425,InterlayHQ,@nortecripto @kintsugi_btc https://t.co/LNYaIs5Rui,1,0,0,2022-06-14
+448,2022-06-15 12:38:31+00:00,1537051927120322560,InterlayHQ,"@0xhelloitsbirdo @Ledger tbh the electronics so close to water (and what I'm politely assuming is cold brew given the vibe) is giving me anxiety but other than that, Web3 crush still confirmed",3,0,0,2022-06-15
+452,2022-06-16 19:36:22+00:00,1537519472050851840,InterlayHQ,"The rumors you've heard are true...
+
+There's no denying the ink-redible talent participating 👀🥁 https://t.co/Z0pMzpYlMy https://t.co/1M0jsDFZyS",20,1,3,2022-06-16
+458,2022-06-17 16:27:08+00:00,1537834237939925000,InterlayHQ,"On Monday, our co-founder @dominik0_ is speaking in the @SubQueryNetwork space: #Bitcoin Builders in the Bear Market 🐻
+
+We're excited to contribute to such a relevant and important convo with @zielon3r from https://t.co/h3MmfCT398 and @JamesABayly from SubQuery
+
+See you there! https://t.co/9mt9pumtt1",22,2,4,2022-06-17
+461,2022-06-20 08:05:17+00:00,1538795106312105986,InterlayHQ,"@dominik0_ The CTO &amp; Co-Founder behind @InterlayHQ joins SubQuery &amp; Odra for todays SubQuery Session!🎙
+
+We go live in 1 hour, be sure to check us out!👇 https://t.co/z7oRNki0UV",10,0,3,2022-06-20
+464,2022-06-21 11:51:34+00:00,1539214438846320641,InterlayHQ,"🏛Runtime Upgrade Proposal🏛
+
+Proposal for fast-tracking runtime upgrades for Interlay, including polkadot-v0.9.24 and bugfixes!
+
+Vote below!👇
+🔗https://t.co/xmUyvNMAya",33,0,10,2022-06-21
+465,2022-06-22 12:29:52+00:00,1539586468494004225,InterlayHQ,"@NovaWalletApp @FearlessWallet @wearetalisman @subwalletapp 3. Spin up a Vault on our live iBTC Testnet: https://t.co/WWjiTRwVwp or with real value on @kintsugi_btc, our canary network",13,1,1,2022-06-22
+475,2022-06-23 15:15:04+00:00,1539990429705420800,InterlayHQ,"🚨Governance Vote: Crowdloan Reward Correction🚨
+
+During the INTR drop, a misconfiguration caused the early bird bonus to be 5% instead of 10% as announced
+
+A proposal is open for off-chain voting so the community can align on next steps:
+
+VOTE ⬇️
+https://t.co/zma62jMt1Q",23,1,5,2022-06-23
+477,2022-06-24 18:20:02+00:00,1540399363708653568,InterlayHQ,"🎉 The iBTC Testnet is LIVE 🎉
+ 
+We're another step closer to bringing truly decentralised and open cross-chain interoperability to #Bitcoin
+
+With the testnet live and running, iBTC is not far behind... 👀 
+
+Get started ➡️ https://t.co/WWjiTROwUZ 
+
+#keepbuilding https://t.co/IZJlMt5fSi",95,8,21,2022-06-24
+481,2022-06-27 13:14:11+00:00,1541409558505168897,InterlayHQ,".@PolkadotDecoded is returning next week! Tune in this  Thursday, 30 June at 2:10 pm CET to hear us discuss how @InterlayHQ is bringing #Bitcoin to DeFi in a truly decentralised, secure, and radical way. Register for free: https://t.co/ocqjACM4BE
+
+#PolkadotDecoded https://t.co/gZbL4mh24N",20,1,4,2022-06-27
+484,2022-06-29 17:40:58+00:00,1542201471013474305,InterlayHQ,"Do you have 🗣opinions🗣 about #BTC  in DeFi?
+
+Fill out our survey for a chance to win tickets to @TheBitcoinConf Amsterdam 2022 in October 🇳🇱 
+
+🔗 https://t.co/dbtYnXAA15 https://t.co/kyxU5f7iZ9",17,3,4,2022-06-29
+489,2022-06-30 11:19:30+00:00,1542467860924088323,InterlayHQ,@BillLaboon Flip it over👀,4,0,0,2022-06-30
+496,2022-07-05 20:19:07+00:00,1544415601535422467,InterlayHQ,"For the most up-to-date information, follow: 
+Our Official Twitter: @InterlayHQ 
+Canary: @kintsugi_btc 
+Discord: https://t.co/qcfbiGbx9U
+Telegram: https://t.co/tGbFPjFdMw",13,0,3,2022-07-05
+499,2022-07-06 18:14:00+00:00,1544746501892583424,InterlayHQ,"🚨Announcement: The @amsterdot_conf Hackathon winners are in!
+
+🥁drumroll please...🥁 https://t.co/blP494d5Uq",19,1,4,2022-07-06
+503,2022-07-11 16:21:52+00:00,1546530221263921152,InterlayHQ,"🏛Governance Proposal: Set initial DOT Collateral Ceiling to 150000 DOT🏛
+
+As the launch of iBTC approaches, understanding that the vaults have already been battle-tested on @kintsugi_btc, we propose a higher starting DOT collateral ceiling
+
+Vote here 🗳⬇️
+https://t.co/XhKkeg2M35",33,0,10,2022-07-11
+504,2022-07-12 16:52:22+00:00,1546900283787120641,InterlayHQ,"1/ 🧰TEST NET🔨
+
+You can spin up a Vault on our iBTC Testnet here: https://t.co/7cwcRU9UbT
+
+OR with real value on our canary network, @kintsugi_btc 
+
+Whether you are a new Vault operator or have been running on Kintsugi, onboard to the Interlay testnet and give it a whirl",4,1,1,2022-07-12
+507,2022-07-15 20:14:15+00:00,1548038253055332353,InterlayHQ,@msamapola25 @PolkadotSpace @Polkadot you're in the right place 🥳,1,0,0,2022-07-15
+509,2022-07-19 15:01:08+00:00,1549409006858518535,InterlayHQ,@0xhelloitsbirdo @wearetalisman Whaaat we love highly specific merch 🏔🧗🏻‍♀️,1,0,0,2022-07-19
+511,2022-07-21 13:33:07+00:00,1550111630935179264,InterlayHQ,"🚨REMINDER🚨
+
+Join us in 1 hour for the @pendulum_chain community call here on Twitter spaces 📣 
+
+Our Business Development Manager @chrisinterlay will be sharing updates along with @bifrost_finance and @0xamberHQ 
+
+See you soon! https://t.co/QtX0QMxGzl",15,1,6,2022-07-21
+514,2022-07-27 17:01:56+00:00,1552338508106371073,InterlayHQ,"Completely decentralized, radically open, and trustlessly secure #Bitcoin on any chain. Sound impossible? 
+
+At Interlay, we’re making it happen 🚀
+
+How? Watch our co-founder and CEO @alexeiZamyatin's talk from @Polkadot Decoded 2022 to find out 💫 ⬇️ #BTC
+https://t.co/WXdAY54pqX https://t.co/eOPcgBmjoN",52,0,16,2022-07-27
+515,2022-07-29 21:33:21+00:00,1553131590804545538,InterlayHQ,@desfemmesmag @superlunarhq @ChaincodeLabs We're here for this 🙌🏼 Thank you for onboarding more innovators to Bitcoin and the entire crypto industry 💫,1,0,0,2022-07-29
+516,2022-08-01 17:39:06+00:00,1554159800841342979,InterlayHQ,"Get ready... a big step for interoperability in DeFi is coming👀
+
+🔥The INTR/aUSD bootstrap on @AcalaNetwork Swap starts tomorrow🔥
+
+The incentivized bootstrap will run for 48 hours tomorrow at block #1561482, ~2pm UTC 🏎💨
+
+Everything you need to know ⬇️
+https://t.co/1RF2529NxA https://t.co/XrjhvXXcSJ",75,5,20,2022-08-01
+518,2022-08-02 20:42:49+00:00,1554568423220322305,InterlayHQ,"INTR/aUSD bootstrap on @AcalaNetwork Swap Starts Now
+
+#Bitcoin hodlers across ecosystems can now acquire INTR with @Polkadot's native stablecoin: #aUSD
+
+The bootstrap runs for 48hrs, after which it will become a normal pool 
+
+Bootstrap in, let's go! 🚀 ⬇️
+https://t.co/1RF2529NxA https://t.co/V0JeYOgSK3",172,14,44,2022-08-02
+520,2022-08-03 15:21:09+00:00,1554849860397965314,InterlayHQ,"🗳Fast-Track Voting: Raise Vault Collateral Ceiling to 2.45 million DOT🗳
+
+To prepare for the launch of iBTC, we propose raising the DOT collateral ceiling based on input from Vault operators.
+￼
+Voting window open for the next 4 hours 🗳⬇️
+￼
+https://t.co/cW1btD4gcn",26,1,6,2022-08-03
+521,2022-08-04 10:08:48+00:00,1555133645572153345,InterlayHQ,"In case you've not heard, the aUSD-INTR Bootstrap Pool is live on @AcalaNetwork 's #DEX!🚀 
+
+During this bootstrap phase, you can contribute with your #INTR, #aUSD or both to the pool
+
+Contribute or find out more about the incentives👇
+https://t.co/qfaV33JXzn",35,1,9,2022-08-04
+524,2022-08-05 09:50:32+00:00,1555491436157669376,InterlayHQ,"And thats a wrap, your go-to Vault checklist in preparation for the much anticipated iBTC launch🚀
+
+If you're still unsure or want to double check, then check out our vault-lounge in our discord below👇
+
+🔗https://t.co/mnjaK8r1DA",8,0,2,2022-08-05
+531,2022-08-07 00:54:02+00:00,1556081197859627008,InterlayHQ,@NovaWalletApp @AcalaNetwork @MoonbeamNetwork @AstarNetwork @EquilibriumDeFi @Polkadot @kusamanetwork Exciting news! 🤩,8,0,0,2022-08-07
+532,2022-08-08 19:22:41+00:00,1556722584884023300,InterlayHQ,"Speakers: 
+@thetrocro: professor of philosophy and @btcpolicyorg fellow
+@jyn_urso: climate change physicist and @btcpolicyorg fellow
+@NateHawaii: Oceanographer, co-founder of OceanBit Energy
+@alexeiZamyatin, co-founder and CEO of @InterlayHQ 
+
+Comment your questions below⬇️",12,1,0,2022-08-08
+537,2022-08-09 17:57:39+00:00,1557063575243464705,InterlayHQ,https://t.co/2SsQ3rX4fv,21,8,8,2022-08-09
+556,2022-08-10 21:26:19+00:00,1557478474159464448,InterlayHQ,"ICYMI - the recording of today's space is now available - It's well worth the listen.
+
+Thank you to all our amazing speakers, @jyn_urso, @NateHawaii, @thetrocro, and @alexeiZamyatin for the empowering and inspiring conversation
+#Bitcoin 
+
+https://t.co/hhdawFj3A8",14,1,1,2022-08-10
+573,2022-08-11 12:53:10+00:00,1557711725037764609,InterlayHQ,"📣REMINDER📣 
+
+Today we have 2️⃣ Incentivized pools going live,
+
+iBTC/aUSD Bootstrap pool ➡️ @AcalaNetwork goes live at 2pm UTC🕑
+
+iBTC/GLMR pool on ➡️ @StellaSwap on @MoonbeamNetwork goes live at 3pm UTC🕒
+
+Don’t forget!👇 https://t.co/G4jharYV0l",65,6,8,2022-08-11
+577,2022-08-12 13:04:54+00:00,1558077063579504640,InterlayHQ,"🗳️VOTE🗳️
+
+Voting to open the XCM channel to @ParallelFi is NOW LIVE
+
+This will allow assets to be transferred in between Interlay and Parallel and open a path towards more use cases for iBTC.
+
+Voting lasts for 4 hours, check out link below ⬇️
+https://t.co/zlHIm9afnn",46,2,6,2022-08-12
+579,2022-08-14 07:39:52+00:00,1558720043906629632,InterlayHQ,"1/ We’re aware of the issue concerning the aUSD depeg, the iBTC / aUSD pool included.
+ 
+Interlay is following Acala's investigation into this issue and also looking to see if and in what manner iBTC and user's funds are affected.",83,7,13,2022-08-14
+587,2022-08-16 13:17:42+00:00,1559529835281518594,InterlayHQ,"7/ Since the launch of iBTC last we’ve had integrations live with @AcalaNetwork, which allows liquidity pools with a variety of assets.
+
+We’ve also launched an integration with @MoonbeamNetwork, a smart contract allowing DeFi integrations with the Ethereum Network.",12,1,1,2022-08-16
+599,2022-08-17 13:01:01+00:00,1559888027094228993,InterlayHQ,"🗳Governance Proposal: Open an XCM Channel With @AstarNetwork 🗳️
+
+This is the first of two referenda to allow assets to be transferred between Interlay and #Astar to open a path toward more use cases for iBTC
+
+Voting on the 7-day referendum has started ⬇️
+https://t.co/RDvYuGs4Kq",67,2,18,2022-08-17
+600,2022-08-18 15:36:40+00:00,1560289583786508289,InterlayHQ,"*Fetty Wap autotuned voice* Hey, wassup, hello 👋🏼👋🏼 https://t.co/0c3bKT3lSA",19,0,4,2022-08-18
+601,2022-08-19 22:20:56+00:00,1560753709616975872,InterlayHQ,"🌱The Future of #Bitcoin is Sustainable🌍
+
+🗓 Thursday, 8/25 at 5 pm UTC
+
+🔊Speakers: @AlanaMediavilla director of @DirtyCoinDoc, @jyn_urso from @btcpolicyorg and co-founder of Interlay, @alexeiZamyatin 
+
+RSVP for a reminder⬇️
+https://t.co/EGERIh0rCE https://t.co/9zKqo7VDpv",55,1,8,2022-08-19
+602,2022-08-22 22:40:32+00:00,1561845807204139008,InterlayHQ,"The director of @DirtyCoinDoc is joining our next Twitter Space: 
+🌱The Future of #Bitcoin is Sustainable🌱
+🗓 Thursday, 8/25 at 5 pm UTC
+The clips of their upcoming documentary have been 🤯- we're excited to learn more about @AlanaMediavilla's work
+RSVP⬇️
+https://t.co/EGERIh0rCE https://t.co/3xjVOSGqZU",18,4,4,2022-08-22
+607,2022-08-23 23:24:34+00:00,1562219275955458048,InterlayHQ,@PeterMcCormack Is no one gonna say it? Charge your phone😩,1,0,0,2022-08-23
+612,2022-08-24 17:20:21+00:00,1562490003544240129,InterlayHQ,"We'll be joining @DarwiniaNetwork on Friday for an AMA ft. our Sr. Software Engineer @gregorydhill 👨🏼‍💻 with @thetokenblonde_ (best Twitter handle) who is in biz dev for @IteringTech and contributes to @subscan_io, @Evolution_Land, + more
+
+What questions do you have? 💭 RSVP ⬇️ https://t.co/y526q392IQ",20,6,9,2022-08-24
+614,2022-08-25 16:15:54+00:00,1562836172896112640,InterlayHQ,"🗣DISCUSSION🗣
+DeFi: 2022 H2 Community Update
+
+Now that iBTC has launched, the next step is to initiate integrations with @Polkadot parachains. As a decentralized network, we need your input on which #DeFi integrations to explore.
+
+Join the discussion ⬇️
+https://t.co/Ct4a5CUly0",12,0,6,2022-08-25
+618,2022-08-26 17:25:08+00:00,1563215985456590854,InterlayHQ,"🏖 Choose Your Own Adventure: #DeFi Pools Edition 🏊🏼‍♀️
+
+A governance poll has opened for voting: Which token pairs you would like to see with iBTC pools on @CurveFinance and @Beamswapio?
+
+Voting is open until Thurs, 9/1 🗳 Choose wisely young 🦗
+ 
+VOTE ⬇️
+https://t.co/tbqX94vgWU https://t.co/boLVBl0sKX",37,3,16,2022-08-26
+620,2022-08-29 21:50:27+00:00,1564369916899344386,InterlayHQ,"Happening tomorrow 🚀💫
+
+@InterlayHQ Co-Founder &amp; CEO @alexeiZamyatin will be interviewed by the talented @Moon1ightSt on @UltiverseDAO and @binance Live Show 🧑🏼‍🚀 
+
+Tune in tomorrow, August 30th at 2 pm UTC⬇️
+https://t.co/kjANhR567r
+
+Or catch the replay from the same link 📼 https://t.co/FEN7JzIRDI",24,1,5,2022-08-29
+621,2022-08-30 08:22:31+00:00,1564528981063483395,InterlayHQ,Llama just say it… this is a big deal 🦙 we’re honored to be a part of the herd being tracked on @DefiLlama 🚀 https://t.co/Q5rZlu7j0a,31,1,3,2022-08-30
+624,2022-08-31 22:17:01+00:00,1565101378447429632,InterlayHQ,"9/ Welcome Our New Team Members
+
+We brought on two new team members in August: Simão, Frontend Engineer 🧑🏽‍💻, and Danilo, the new Head of Growth 🌱
+
+and so much more. Read the full August Ecosystem update on Medium: 
+
+https://t.co/2ubMw2Y0dD",2,1,0,2022-08-31
+639,2022-09-01 19:53:03+00:00,1565427535630008321,InterlayHQ,"Imagine if we all used different blockchains and there wasn't weird tension around which one is the best? 
+
+What if all of our favorite chains have something to offer, and we could bring more people to Web3 by working together?
+
+What if the chains themselves could work together? https://t.co/5Z0eHOhQTv",49,3,6,2022-09-01
+640,2022-09-02 12:52:25+00:00,1565684068053835776,InterlayHQ,"🗳VOTE: Should we launch an incentivized @Beamswapio Pool?🗳
+
+Voting is open for the next 7 days on Referenda #20: Use Treasury To Incentivise iBTC/multiUSDC pool on Beamswap (@MoonbeamNetwork) 
+
+Read the proposal + VOTE ⬇️
+https://t.co/D0xb5N0wMC https://t.co/zieWljBQUX",39,6,13,2022-09-02
+642,2022-09-05 14:15:08+00:00,1566792048589606912,InterlayHQ,"Proposal ""Use Treasury Funds To Incentivise iBTC/multiUSDC pool on @Beamswapio  is up for referendum🏛️
+
+This proposal supports the distribution of INTR tokens towards the iBTC/MultiUSDC pool,
+
+Alongside this, 47m GLINT and 20,250 rTIDE is also provided
+🔗
+https://t.co/D0xb5N0wMC",55,5,14,2022-09-05
+643,2022-09-07 13:04:23+00:00,1567499019114397697,InterlayHQ,"Choose Your Own Adventure: @ParallelFi Pool Edition 🧭
+
+Which asset(s) do you want iBTC and INTR to be paired with in potential LPs?
+
+1️⃣iBTC/sDOT
+2️⃣iBTC/DOT
+3️⃣INTR/sDOT
+4️⃣INTR/DOT
+5️⃣INTR/PARA
+6️⃣Write in a suggestion 👀
+
+Participate in the poll now 
+⬇️🗳
+https://t.co/POC0VfqROH https://t.co/moE8Ypi1mg",26,4,5,2022-09-07
+645,2022-09-09 14:35:18+00:00,1568246674673307648,InterlayHQ,@JumpOutGirls @crypto ily @JumpOutGirls,1,1,0,2022-09-09
+646,2022-09-10 01:24:43+00:00,1568410104109887488,InterlayHQ,"@SoulOrlog @Beamswapio @MoonbeamNetwork @Polkadot Much appreciated @SoulOrlog - you totally get us🫂
+
+Our community thrives on the vision of interoperability, it's our core value. The adoption and success of crypto relies on it 🚀",2,1,0,2022-09-10
+654,2022-09-11 17:36:09+00:00,1569016961115250688,InterlayHQ,"🥵Hot new incentives, anyone?🥵 
+
+Last week we announced our integration with @Beamswapio and the launch of our first pool with rewards in Beamswap's token, GLINT. 
+
+Rewards in INTR and TIDE start now!🏃🏽
+
+Ride the wave⬇️
+https://t.co/zPt7gzIwMp
+
+Our thread with all the deets⬇️ https://t.co/RYSKsZm6zF",18,0,10,2022-09-11
+655,2022-09-12 12:24:28+00:00,1569300912988123139,InterlayHQ,"@RobinsonBurkey Thank you, it means a lot coming from the Web3 Robinson Crusoe. You've traveled the 7 seas of Web3 after a swashbuckling adventure in Web2 - we respect your opinion ⚓️🦜 https://t.co/Tddinzrjl8",0,0,0,2022-09-12
+657,2022-09-13 17:38:35+00:00,1569742352910090241,InterlayHQ,"DeFi Integration Discussion⁉️
+
+Join us Wednesday 21st, 6pm CET where we'll be hosting an open discussion surrounding the topic of Interlay's DeFi Integrations🧩
+
+We'll be hosting this live on our community call stage, via Discord➡️https://t.co/fLjQbc5OAt
+
+Set your reminders👇 https://t.co/SqRnn613Lv",21,0,6,2022-09-13
+658,2022-09-14 19:19:27+00:00,1570130124472832000,InterlayHQ,"@thetrocro @jyn_urso You must have supernatural powers if you can destroy the earth alone. if @jyn_urso &amp; @NateHawaii also have powers, we have the best superhero team ever. Film directed by @DirtyCoinDoc, maybe M. Night can screenwrite for the plot twist: you're actually saving the environment🤯",2,0,0,2022-09-14
+668,2022-09-15 14:21:19+00:00,1570417482489282561,InterlayHQ,First-ever cash ---&gt; iBTC mint using @coinfinity 's #Bitcoin ATM at the @thebconf! https://t.co/VL8z5yl5PH,22,1,3,2022-09-15
+669,2022-09-17 18:12:19+00:00,1571200392104493057,InterlayHQ,@alexeiZamyatin Seatbelts? ✅ Helmets? ✅ Let’s go 💥 https://t.co/sX9pu58VWD,8,0,1,2022-09-17
+670,2022-09-20 21:25:18+00:00,1572336119475503106,InterlayHQ,@wyaricky tbh https://t.co/MAGrM5RgfM,2,0,0,2022-09-20
+675,2022-09-21 13:04:04+00:00,1572572370648584196,InterlayHQ,"@jyn_urso Are you palms sweaty? Knees weak? Arms heavy? 
+
+for real, you'll do amazing 🙌🏼",1,0,0,2022-09-21

@@ -1,0 +1,916 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-22 15:39:02+00:00,1220007976158867456,FlareNetworks,"Flare Consensus Protocol - An Explainer. By Nairi Usher, Chief Scientist - Flare
+https://t.co/8adsu9m4HZ",9,0,1,2020-01-22
+1,2020-03-30 08:49:14+00:00,1244547221774884864,FlareNetworks,Flare is very happy to announce that @JoshuaGEdwards has joined us as VP of engineering! Tough times but we are going full speed ahead. #Flare #XRP,28,1,6,2020-03-30
+2,2020-04-21 13:52:29+00:00,1252596070036713475,FlareNetworks,@___IoV___ @strongholdxchg We will be updating the community about how Flare and XRP integrate very soon. Please bare with us whilst we dot the i’s and cross the t’s.,8,0,2,2020-04-21
+3,2020-05-11 19:17:35+00:00,1259925638036819968,FlareNetworks,"We are delighted to announce the launch of Flare's test network, Coston. Read about it here: https://t.co/zYzCx6mTdz #UnlockingValue #XRP",208,9,85,2020-05-11
+4,2020-05-12 15:50:32+00:00,1260235923368878081,FlareNetworks,@johnmoonsoon @stedas @Ripple @XpringDev @JoelKatz This will be the subject of our next technical announcement. Hold tight.,4,0,0,2020-05-12
+6,2020-07-07 20:45:14+00:00,1280603805760061447,FlareNetworks,@GermanCryptoInv @nbougalis @24_18_16_321 There is little public info on Flare currently. We are going to release full white papers on Flare and how it integrates with XRP very soon.,2,0,0,2020-07-07
+7,2020-08-07 14:18:29+00:00,1291740502388334593,FlareNetworks,@GermanCryptoInv @Arturo_P_A @RareData Not directly on to XRPL but certainly decentralized and trustlessly collateralized with XRP on Flare.,0,1,0,2020-08-07
+8,2020-08-10 20:18:39+00:00,1292918302591922176,FlareNetworks,@JulesEMiller @HugoPhilion Thanks Jules!,3,0,0,2020-08-10
+12,2020-08-11 05:21:43+00:00,1293054970099638273,FlareNetworks,@matthewfoxsaid @outruntariq The process to claim Spark tokens will be articulated closer to launch.,112,11,13,2020-08-11
+20,2020-08-12 12:01:53+00:00,1293518064869351427,FlareNetworks,@matthewfoxsaid @Ripple Not sure what you are asking here. The burn after six months is simply to establish a fix on the token supply. And we felt the need to specify because many projects just give themselves the unclaimed tokens.,35,6,2,2020-08-12
+27,2020-08-13 10:09:19+00:00,1293852123873136641,FlareNetworks,@Corne No.,2,1,0,2020-08-13
+32,2020-08-14 20:33:02+00:00,1294371475236020233,FlareNetworks,@GermanCryptoInv @maxxrpbtc @DgtlNumismatist @HamEggsnSam @amtvmedia @XRPcryptowolf https://t.co/cjDxlzOMgg,9,2,2,2020-08-14
+34,2020-08-16 14:54:05+00:00,1295010951780073473,FlareNetworks,@Crypto_Sanchez @JoshuaGEdwards Sounds terrible to us too. Flare does not do this.,3,0,0,2020-08-16
+39,2020-08-17 13:51:37+00:00,1295357620098924544,FlareNetworks,@Santiag78758327 @JoshuaGEdwards It is a decentralized network. The compute is supplied by validators and network topology is organized as per the whitepaper. The direct incentive to run a validator is to secure one's interactions with the network.,5,1,2,2020-08-17
+44,2020-08-18 18:46:32+00:00,1295794224403750912,FlareNetworks,"Creating &amp; Redeeming FXRP - a walkthrough.
+https://t.co/SkAYNxgthv  #XRP #Flare #UnlockingValue",675,78,268,2020-08-18
+45,2020-08-19 19:56:09+00:00,1296174132569280512,FlareNetworks,Reminder. You can also claim Spark if you self custody your XRP.,440,89,87,2020-08-19
+47,2020-08-20 10:14:45+00:00,1296390204216016896,FlareNetworks,And this is why Towo are awesome. https://t.co/vozwVztXD9,336,18,71,2020-08-20
+49,2020-08-21 11:23:37+00:00,1296769926448001027,FlareNetworks,This is excellent Wietse! Flare fully supports this. What can we say but thank you! https://t.co/xZcBuflKvF,549,35,133,2020-08-21
+52,2020-08-22 06:55:13+00:00,1297064768222695424,FlareNetworks,"Thank you @Mashinsky for reading up on Flare. We like that $Spark in your eye. We would be happy to talk, to provide more colour, when you are ready. XRP &amp; Spark @ ~22:50 https://t.co/CZcSHSdYXj",292,14,57,2020-08-22
+53,2020-08-23 20:49:55+00:00,1297637215774871554,FlareNetworks,@a_gray_man @A_is_A @BGIradji We cannot and will not ever comment on the value of Spark.,24,4,4,2020-08-23
+57,2020-08-25 21:54:30+00:00,1298378241846194177,FlareNetworks,1/ Likely one of the first governance proposals that the foundation is going to be asked to consider is integrating a trustless 2 way bridge between Ethereum and Flare.,679,22,181,2020-08-25
+61,2020-08-26 17:32:14+00:00,1298674628110540800,FlareNetworks,@iTrustCapital00 @HugoPhilion Thanks. We have responded. Looking forward to connecting.,202,5,17,2020-08-26
+62,2020-08-27 19:34:27+00:00,1299067773956616192,FlareNetworks,@RossMacFirdeen @Bakshayev @carlins94809827 @bithomp @etherscan Flare uses the Ethereum Virtual Machine hence its addresses use the same format and same key derivation as Ethereum addresses.,36,4,8,2020-08-27
+75,2020-08-28 16:46:02+00:00,1299387778107617283,FlareNetworks,@1CrypticPoet Correct,101,15,4,2020-08-28
+79,2020-08-31 20:21:40+00:00,1300529206590398471,FlareNetworks,"We named our testnet after Martha Coston who invented the maritime Flare. The snapshot of the XRP ledger for the #Spark distribution will be taken on the 194th anniversary of her birthday -  December 12th 2020. https://t.co/aKAvfwMiLY 
+#XRP #Flare #UnlockingValue",2217,206,944,2020-08-31
+80,2020-09-01 06:58:49+00:00,1300689553041260545,FlareNetworks,@CryptoGuide2020 @JayMarXRP @UpholdInc @cryptocom @coinspotau @BitMEX @BTCMarkets @binance @SwyftxAU We are talking to @BTCMarkets this week.,4,1,0,2020-09-01
+82,2020-09-02 13:57:35+00:00,1301157326863425536,FlareNetworks,@RevolutApp @epignoodle Happy to get in contact to provide more colour.,18,1,1,2020-09-02
+85,2020-09-03 18:52:59+00:00,1301594052538839043,FlareNetworks,@Sjl462 @XrpMr Both. Any Spark that would have gone to an exchange that decides not to participate is redistributed to valid claim holders. Then after 6 months all unclaimed tokens are burned.,36,4,6,2020-09-03
+87,2020-09-04 14:21:08+00:00,1301888026977751046,FlareNetworks,Awesome! Thanks for your support GateHub. https://t.co/v3EStPIboi,677,38,129,2020-09-04
+90,2020-09-05 07:48:31+00:00,1302151612253835264,FlareNetworks,@infinitegrowth_ @Vkumzy Weitse’s tool removes the 0x etc automatically.,3,0,1,2020-09-05
+91,2020-09-06 15:51:51+00:00,1302635633635188737,FlareNetworks,"@WainwrightRoy @RuleXRP To be a ""supporting exchange"" the exchanges have confirmed to us that they will pass all fork proceeds on to their customers.",48,8,5,2020-09-06
+92,2020-09-07 16:43:28+00:00,1303011011994279936,FlareNetworks,"@Vegas_regular @WietseWind @xrptoolkit @feolixrp Yes, but only if the destination account has input a Flare address (Ethereum Style address) that you control.",3,1,0,2020-09-07
+95,2020-09-08 08:43:27+00:00,1303252600796712961,FlareNetworks,@SwyftxAU @coinspotau @CryptoGuide2020 @BrownRembrant @BTCMarkets Of course. We haven’t received anything. We will PM you now.,5,0,0,2020-09-08
+101,2020-09-10 14:00:35+00:00,1304057182762172417,FlareNetworks,Absolutely awesome that @AltCoinTraderSA have decided to support the Spark distribution. We have reached out to them to confirm that they agree to distribute EVERY token they receive to their XRP clients. Then we will list them as a supporting exchange on our site. #XRP #Flare,534,63,110,2020-09-10
+102,2020-09-11 21:07:55+00:00,1304527114532773890,FlareNetworks,@Mashinsky AMA discusses Spark distribution. Really excited to make this happen with @CelsiusNetwork . #UnlockingValue https://t.co/yXbIzcFCLd,77,3,24,2020-09-11
+104,2020-09-12 21:22:13+00:00,1304893098401685506,FlareNetworks,@ashgoblue There certainly could be some interesting and hopefully useful interactions between ILP and Flare.,166,3,24,2020-09-12
+108,2020-09-17 07:59:36+00:00,1306503055978962945,FlareNetworks,Flare is thrilled to announce that @ihaveCred is supporting the Spark distribution to XRP holders. #UnlockingValue #XRP #Flare https://t.co/59AtpAIOqp,611,69,133,2020-09-17
+109,2020-09-18 09:00:18+00:00,1306880717914288128,FlareNetworks,@pchindle @JoshuaGEdwards Yes,11,4,0,2020-09-18
+111,2020-09-19 16:34:17+00:00,1307357356133621762,FlareNetworks,Flare is happy to announce that @ndaxio is the first Canadian exchange to support the Spark distribution to XRP holders. 🇨🇦 #XRP #Flare #UnlockingValue https://t.co/NpVrZTkYo6,622,53,143,2020-09-19
+112,2020-09-21 09:51:20+00:00,1307980724558069763,FlareNetworks,@Mirai_Exchange Please contact us via DM so we may confirm this directly and list you as a supporting exchange.,2,0,0,2020-09-21
+113,2020-09-22 08:25:11+00:00,1308321432359907328,FlareNetworks,@gordongekko369 @USPS A voting system could be built on Flare. To the best of our knowledge no one has plans to do so. Flare has no current relationship with @USPS.,89,11,11,2020-09-22
+115,2020-09-23 07:42:00+00:00,1308672952246951938,FlareNetworks,@ade0008 @TomT_XRP @ronaldonline777 @JoelKatz Certain former Ripple employees are excluded.,3,3,0,2020-09-23
+117,2020-09-24 16:54:57+00:00,1309174492695011335,FlareNetworks,Bravo! https://t.co/9Bn7ILYQ3L,428,2,37,2020-09-24
+120,2020-09-25 17:55:51+00:00,1309552210712420355,FlareNetworks,Flare is delighted to announce that @CelsiusNetwork is officially supporting Flare's Spark distribution. Thanks @Mashinsky @NukeGold @HarumiUrata for working with Flare on this. #XRP #UnlockingValue https://t.co/OW31phfXJH,865,98,244,2020-09-25
+121,2020-09-26 06:24:49+00:00,1309740691069825024,FlareNetworks,This is great. https://t.co/bFgiETA3ZT,380,15,92,2020-09-26
+123,2020-09-29 07:29:15+00:00,1310844069183184896,FlareNetworks,A requirement to support the Spark claim process is enabling a transaction type that many wallets have not previously supported. This is leading wallets to support much wider functionality on XRPL. This is the power of a great ecosystem. @XpringDev #XRP #Flare #UnlockingValue https://t.co/FdtRrffwXL,335,15,86,2020-09-29
+126,2020-09-30 12:55:00+00:00,1311288436846931968,FlareNetworks,🇦🇺🇦🇺🇦🇺 Thank you for your support! #XRP #Flare https://t.co/4NTawVPJNV,351,28,80,2020-09-30
+131,2020-10-01 19:26:50+00:00,1311749432292016137,FlareNetworks,@_lonedd @HamEggsnSam Every valid claim has the same ratio.,35,3,2,2020-10-01
+132,2020-10-04 12:22:36+00:00,1312729834347429889,FlareNetworks,Beware of Scammers! Claiming Spark does NOT require you to send XRP to anyone. Never give anyone your private key or your seed phrase. https://t.co/VG6pwwzatc,443,14,176,2020-10-04
+134,2020-10-05 11:35:19+00:00,1313080324360998913,FlareNetworks,Claiming Spark as a CoinSpot customer: https://t.co/KhnT8zdbff,208,12,33,2020-10-05
+135,2020-10-06 15:42:11+00:00,1313504835413651457,FlareNetworks,A really well written analysis. Thank you. https://t.co/mE5G1iB7NU,193,5,48,2020-10-06
+137,2020-10-07 08:38:06+00:00,1313760501495730177,FlareNetworks,We have spoken to @FlrFinance. The project is interesting and we are grateful that they have chosen Flare. Flare's role is not to approve or disapprove of a project. As with everything do your own research and don’t take risks that you can’t recover from if they go wrong.,331,15,60,2020-10-07
+141,2020-10-08 22:22:44+00:00,1314330414958477312,FlareNetworks,"Closing The Circle. Trustlessly issuing, using and redeeming assets on the XRP Ledger using #Flare. #XRP #UnlockingValue https://t.co/Tov4uyPETq",581,25,162,2020-10-08
+143,2020-10-09 09:06:09+00:00,1314492335552593920,FlareNetworks,@haydentiff @XrpSpark @HugoPhilion No. Nothing to do with Flare or anyone connected with Flare.,5,1,1,2020-10-09
+145,2020-10-10 11:31:11+00:00,1314891220481708033,FlareNetworks,@XRpCult589 In order to ensure compliance with relevant laws Flare has undertaken extensive analysis with a specialist legal firm.,208,6,28,2020-10-10
+146,2020-10-14 12:20:40+00:00,1316353226086678529,FlareNetworks,@harduboildu Yes. Until the snapshot.,2,1,0,2020-10-14
+147,2020-10-15 06:32:32+00:00,1316628002717958144,FlareNetworks,"Flare is delighted to introduce D'CENT as a hardware wallet partner. Beyond just holding Spark, D'CENT will be working with Flare to build useful functionality including allowing Spark holders to delegate their Oracle votes to earn interest on their Spark. #UnlockingValue https://t.co/30CCuJ10Ic",434,19,123,2020-10-15
+150,2020-10-17 12:14:40+00:00,1317438880526761984,FlareNetworks,Support is not confirmed but Flare is in conversation with @krakenfx &amp; @binance &amp; @BinanceUS @cz_binance https://t.co/NGJLdpdMZZ,756,132,153,2020-10-17
+152,2020-10-18 11:48:55+00:00,1317794789589483525,FlareNetworks,@___IoV___ @galgitron @HugoPhilion Currently the cost of issuance on XRPL would be ~$5 for an essentially unlimited amount of value. A minimal cost relative to Eth and relative to the step change in functionality this provides for XRPL.,3,1,0,2020-10-18
+153,2020-10-21 14:49:25+00:00,1318927376366080001,FlareNetworks,@Mr_Decrypto Yes anytime up to 12th Dec,74,6,5,2020-10-21
+154,2020-10-22 11:16:22+00:00,1319236146707288066,FlareNetworks,@dnaconfirmed Already confirmed.,8,1,0,2020-10-22
+157,2020-10-23 15:58:28+00:00,1319669526758391809,FlareNetworks,@FilthyRichAlpha Nothing to do with Flare.,50,5,3,2020-10-23
+158,2020-10-25 17:26:54+00:00,1320416560880766976,FlareNetworks,@beanthap @galgitron @ikindapwn @Ledger @XummWallet XUMM is awesome but only supports the XRP Ledger at the moment.,3,0,0,2020-10-25
+160,2020-10-28 12:43:22+00:00,1321432369874771971,FlareNetworks,Nice. https://t.co/9pNmTydqnG,106,4,18,2020-10-28
+168,2020-10-29 18:52:30+00:00,1321887651432144897,FlareNetworks,@CrypticXrp @D5V1N2 @CoinFieldEX Indeed every supporting exchange (including CoinField) confirms to Flare in writing that they will distribute Spark as if their XRP client had custody of their own assets.,13,2,4,2020-10-29
+171,2020-10-30 19:31:50+00:00,1322259937481863174,FlareNetworks,NFT’s are really exciting. Smart contracts on Flare allow NFT’s to come to #XRP. #UnlockingValue https://t.co/xB1d8RUAgO,215,8,46,2020-10-30
+174,2020-10-31 09:51:42+00:00,1322476332039786496,FlareNetworks,Exciting! https://t.co/Z4pTa1tKD9,332,15,44,2020-10-31
+179,2020-11-01 22:46:24+00:00,1323033678969262085,FlareNetworks,@XRPViking_ @FlrFinance We have spoken to them several times. They have undertaken to have their codebase audited by a reputable firm.,13,3,2,2020-11-01
+181,2020-11-02 12:13:13+00:00,1323236719035113473,FlareNetworks,@TplusZero This is why despite announcing that they will support it that we have yet to list Poloniex on that page as they have not sent us that confirmation.,8,0,0,2020-11-02
+189,2020-11-03 20:37:36+00:00,1323726040997515264,FlareNetworks,@TheFomoKing @WietseWind Up to 6 months after as stated in the blog.,1,3,0,2020-11-03
+193,2020-11-04 11:14:28+00:00,1323946712134766602,FlareNetworks,@marccwr @TheFomoKing @WietseWind This has been stated many times. No.,1,2,0,2020-11-04
+195,2020-11-05 07:25:52+00:00,1324251569806782466,FlareNetworks,@FlrFinance are bringing DeFi to Flare and the #XRP ecosystem. #UnlockingValue https://t.co/oNDnM5v0bx,109,4,37,2020-11-05
+197,2020-11-06 13:42:50+00:00,1324708827200147456,FlareNetworks,@SambucciTony @xrptoolkit @AishaDior7 So long as you hold the private keys or can export them - You can put any Ethereum address you like into the message key field of your account on XRP Ledger.,1,2,0,2020-11-06
+200,2020-11-07 12:08:49+00:00,1325047554640384001,FlareNetworks,Exciting! https://t.co/JmQq5FHuUw,436,31,61,2020-11-07
+202,2020-11-08 13:51:19+00:00,1325435736267649026,FlareNetworks,@alnic69 https://t.co/VG6pwwzatc,0,1,0,2020-11-08
+203,2020-11-09 07:32:18+00:00,1325702739297525762,FlareNetworks,@FilthyRichAlpha @Jobe_UK75 @Ripple Only exchange participation changes the ratio - not individuals. Individuals have 6 months to claim from 12/12/20.,1,1,0,2020-11-09
+209,2020-11-10 09:54:01+00:00,1326100795134271491,FlareNetworks,@GrowYourBitcoin @exodus_io Yes. The snapshot just looks at the balance of your account as at the first finalised XRP Ledger on or after 00:00 GMT 12/12/20.,2,0,1,2020-11-10
+211,2020-11-11 13:48:10+00:00,1326522105840742400,FlareNetworks,@InQwetrust1 @ParomixMinhoYoo @DCENTwallets Nothing at all happens to your XRP by claiming Spark.,2,1,1,2020-11-11
+213,2020-11-12 15:26:11+00:00,1326909162752708625,FlareNetworks,Thank you @bitbns for supporting Flare! https://t.co/uybQmq4qxC,218,23,38,2020-11-12
+215,2020-11-13 13:18:20+00:00,1327239376733138945,FlareNetworks,For XRP held at an exchange that is NOT supporting Flare. To receive Spark -  either: a) move it to self custody before 12/12/20 n' make the claim or b) move to a supporting exchange before 12/12/20. You must decide which supporting exchange you trust. We cannot accept liability.,352,60,62,2020-11-13
+237,2020-11-14 10:22:20+00:00,1327557472656236544,FlareNetworks,@taitai78787 @galgitron If we set it as 12th for some people in California then it will be 13th for some people in Asia. Hence we are using GMT which is the universal time format.,2,1,0,2020-11-14
+242,2020-11-15 10:56:38+00:00,1327928491699003398,FlareNetworks,@Eng_f_alrashidi If you claim through self custody then yes. If you hold your XRP at an exchange you will need to double check their instructions.,1,2,0,2020-11-15
+243,2020-11-16 20:50:44+00:00,1328440388844130306,FlareNetworks,@AaronCo10405807 @XRPBRIAN @Ledger @TowoLabs are building the Ledger app for Flare. This will allow you to use your Ledger device with Flare Network.,2,2,2,2020-11-16
+247,2020-11-17 18:37:37+00:00,1328769275046268928,FlareNetworks,@rellinb @coinbase Glad you are excited! It is theoretically possible that @coinbase participates but they are better positioned to answer that themselves. Spark will be distributed when mainnet goes live which we firmly expect in the first half of 2021.,7,1,0,2020-11-17
+250,2020-11-18 07:02:31+00:00,1328956737400041472,FlareNetworks,Delighted that @BithumbOfficial is supporting the Spark distribution. 🇰🇷🇰🇷🇰🇷 https://t.co/vCaKwCPWQn,475,30,78,2020-11-18
+255,2020-11-19 08:30:46+00:00,1329341332096229376,FlareNetworks,Thank you Probit! 🇰🇷🇰🇷🇰🇷 https://t.co/1asxqaUi60,263,17,39,2020-11-19
+258,2020-11-20 13:14:36+00:00,1329775149906849792,FlareNetworks,@research_omega @XRPcharts @Ripple @ihaveCred We are actively working to figure out if and how Spark can be distributed to former @ihaveCred clients.,10,0,1,2020-11-20
+260,2020-11-21 11:36:59+00:00,1330112974103703557,FlareNetworks,Regarding Cred - we were hoping that @ihaveCred @dschatt would be able to give us information as to individual holdings. This hasn't happened yet so we are discussing with the exchanges directly. Update by 28th November. https://t.co/rWxaEI88EF,111,13,17,2020-11-21
+262,2020-11-22 20:45:30+00:00,1330613398153940994,FlareNetworks,@ceegzee We have 100’s of emails per day. It is impossible for us to respond to this quantity of messages. Post your question here then at least the answer to it might help others.,0,1,0,2020-11-22
+265,2020-11-23 08:55:06+00:00,1330797007661903874,FlareNetworks,@Done_NextPlease Your XRP are not ON your nano. We know how much XRP each account holds at the snapshot date (it's public). You can make your claim of Spark up until 11th June 2021 based on the amount of XRP in the XRP account AT THE MOMENT of the Snapshot.,3,3,1,2020-11-23
+277,2020-11-24 05:55:44+00:00,1331114255266050049,FlareNetworks,"We are still waiting on 
+@coinbase @binance @BittrexExchange @krakenfx @bitfinex
+ to announce their position on the Spark distribution. #XRP holders at these exchanges that want Spark will need to move to another exchange or self custody if these don’t announce soon.",1010,167,205,2020-11-24
+281,2020-11-25 13:48:15+00:00,1331595559535341574,FlareNetworks,Thanks @TowoLabs @xrptoolkit https://t.co/yixXZbiLQq,156,10,13,2020-11-25
+290,2020-11-26 17:04:58+00:00,1332007451688914946,FlareNetworks,@thinlyspread_ This is why the snapshot takes place at 1 time. The account they move it to from the exchange won’t have a balance at the time of the snapshot. So there won’t be any claimable Spark for that account.,26,3,3,2020-11-26
+306,2020-11-27 20:03:05+00:00,1332414663817093128,FlareNetworks,@rxhector DO NOT USE THIS. IT ASKS FOR YOUR PRIVATE KEY.,174,8,30,2020-11-27
+330,2020-11-28 23:05:57+00:00,1332823071523278855,FlareNetworks,We have been informed that @krakenfx customer services may be out of the loop. Let’s give them a bit more time.,332,27,25,2020-11-28
+345,2020-11-29 11:15:35+00:00,1333006689713393664,FlareNetworks,"@RaoulGMI @Darky999 @lordliquidity @DTAPCAP @Maciej93052345 @APompliano @PompPodcast @RaoulGMI We would be delighted to talk you through the Flare Network and how it can bring utility to tokens that don’t have access to smart contracts, starting with and focussing on #XRP.",287,5,24,2020-11-29
+349,2020-11-30 20:31:44+00:00,1333509035438567424,FlareNetworks,Thank you @BigONEexchange for supporting the Spark $FLR distribution to your #XRP holders. #UnlockingValue https://t.co/FfJLNmBZDx,217,3,34,2020-11-30
+358,2020-12-01 21:05:53+00:00,1333880018532003841,FlareNetworks,Thank you for supporting Flare! https://t.co/ds5Anxuqg1,203,11,23,2020-12-01
+366,2020-12-02 20:47:01+00:00,1334237657421983747,FlareNetworks,Since this video was taped @krakenfx announced their support of the Spark $FLR distribution. #XRP #UnlockingValue @jchatterleyCNN https://t.co/ozLo0nUI43,685,26,80,2020-12-02
+376,2020-12-03 20:58:25+00:00,1334602917794418690,FlareNetworks,@CredibleCrypto @SBF_Alameda @FTX_Official Happy to make it work if there is a possibility to do so.,35,1,1,2020-12-03
+378,2020-12-04 15:29:32+00:00,1334882535973728261,FlareNetworks,Thank you @btcalpha for supporting the Spark $FLR distribution to your #XRP holders. #UnlockingValue https://t.co/IfhhJeZBhV,87,1,11,2020-12-04
+389,2020-12-05 14:10:16+00:00,1335224976442535942,FlareNetworks,@RuleXRP The Spark $FLR token will be distributed when the network goes live. It is not an ERC20. @TowoLabs will put out a guide closer to launch that covers the ways to safely access the Flare network with available wallets. There are multiple hardware wallets currently available.,200,20,36,2020-12-05
+390,2020-12-06 20:42:17+00:00,1335686020923334659,FlareNetworks,@scrapmoneybenny @galgitron @npjsnape @markymarkster17 Those who practice self custody (not just cold storage devices) have until 11th June 2021 to claim Spark.,4,1,1,2020-12-06
+392,2020-12-07 07:44:20+00:00,1335852630644547591,FlareNetworks,@FTX_Official @FTX_Official Distribution of Spark to an exchange is not automatic. Currently FTX isn’t going to receive Spark tokens. Please contact us directly.,35,1,3,2020-12-07
+395,2020-12-08 19:42:46+00:00,1336395816685146117,FlareNetworks,Thank you @bitpanda for supporting the Spark $FLR distribution to your #XRP token holders. #UnlockingValue https://t.co/7nc9hR8v2f,403,14,59,2020-12-08
+398,2020-12-09 09:32:26+00:00,1336604608781819905,FlareNetworks,Thank you for announcing support of $FXRP in addition to $FLR. https://t.co/jOUtEEtLE7,396,12,58,2020-12-09
+404,2020-12-10 14:23:43+00:00,1337040303287656455,FlareNetworks,https://t.co/YuF7FPK4ay,138,9,16,2020-12-10
+412,2020-12-11 06:39:00+00:00,1337285739051180034,FlareNetworks,@WolfmanKnows @ihaveCred @UpholdInc Uphold are able to provide data on the amount of XRP that their clients lost and are able to handle the distribution to their clients. We reached out to Cred to see if we could enable a similar process but didn’t get a positive response.,20,1,0,2020-12-11
+418,2020-12-12 00:37:42+00:00,1337557202102603778,FlareNetworks,Thank you Eri! https://t.co/RnXsjUj1fO,522,21,13,2020-12-12
+420,2020-12-13 11:15:05+00:00,1338079992673148930,FlareNetworks,"We are aware that some exchanges intend to issue an IOU (Future) of Spark $FLR, this is their prerogative. Flare as an entity has zero involvement in this. Caveat emptor.",612,31,132,2020-12-13
+424,2020-12-14 23:10:56+00:00,1338622531830484997,FlareNetworks,This is excellent! @TowoLabs #XRP #UnlockingValue https://t.co/YMlMvul1R7,422,11,39,2020-12-14
+425,2020-12-15 20:46:37+00:00,1338948601993682944,FlareNetworks,@WietseWind @TowoLabs @XummWallet @xrpscan This is what ecosystem growth looks like. #UnlockingValue,88,0,3,2020-12-15
+426,2020-12-16 00:27:52+00:00,1339004278137106433,FlareNetworks,@crypto_rocket_1 Until 11th June 2021,1,0,0,2020-12-16
+428,2020-12-18 23:03:35+00:00,1340070233692844034,FlareNetworks,@Lior81603092 @obicou24 @xrplorer @TowoLabs @RippleXDev @RippleworksOrg NO. ALL CLAIMS ARE BASED ON THE 12/12/20 SNAPSHOT.,12,2,0,2020-12-18
+430,2020-12-19 01:05:06+00:00,1340100811825803265,FlareNetworks,@stclineman @xrplorer @TowoLabs @RippleXDev @RippleworksOrg You are indeed incorrect. That kind of redistribution has never been the case.,9,3,0,2020-12-19
+431,2020-12-20 12:18:52+00:00,1340632760021626880,FlareNetworks,@coinbureau this is a great summary. Thank you for putting it together! #unlockingvalue https://t.co/3NNf2ZdrzR,22,3,3,2020-12-20
+433,2020-12-21 09:48:14+00:00,1340957242263302144,FlareNetworks,@therealxrpwhale @CoinFieldEX @RuleXRP @MoonLamboio @thebearablebull @xrpchiz @XRP_OWL We have reached out to @bobrasX and @CoinFieldEX,8,1,0,2020-12-21
+435,2020-12-22 23:08:32+00:00,1341521029995376640,FlareNetworks,"@RareData @WietseWind @Silkjaer @HugoPhilion @nbougalis @rezabashash @bgarlinghouse @robertswarthout @ThisIsTRISS @xrpscan @baltazar223 Likewise @raredata! It’s an honor to work with you, @patriksletmo and @TowoLabs. #XRP #UnlockingValue",28,2,2,2020-12-22
+436,2020-12-24 11:45:01+00:00,1342073792588361729,FlareNetworks,Imagine... https://t.co/QuWPvnx0ne,1044,43,179,2020-12-24
+437,2020-12-28 19:55:33+00:00,1343646793301716993,FlareNetworks,"@Arturo_P_A @LeoHadjiloizou As mentioned several times before, we have taken extensive legal advice on the position of FXRP.",233,11,38,2020-12-28
+440,2020-12-30 11:43:36+00:00,1344247763807174658,FlareNetworks,"Please be aware. Any distributions by exchanges of ""Spark (FLR)"" that happen prior to the Flare network launching (expected Q2 2021) are simply an IOU issued by that exchange to you.",1357,63,344,2020-12-30
+441,2020-12-31 09:50:52+00:00,1344581783619309574,FlareNetworks,https://t.co/fVWfjsLr4g,1370,53,87,2020-12-31
+442,2021-01-01 22:59:44+00:00,1345142695371689990,FlareNetworks,@AishaDior7 Nothing to do with us - be careful there are many people/entities impersonating us. Our actual telegram account: https://t.co/DTXyK1yB4I,7,1,0,2021-01-01
+443,2021-01-04 20:59:53+00:00,1346199695467671560,FlareNetworks,@DominicCaluwe @stedas @RunOnRipple If you held XRP in self custody or on a participating exchange on 12.12.21 then you can receive Spark (FLR).,3,5,0,2021-01-04
+444,2021-01-06 11:46:44+00:00,1346785265461948416,FlareNetworks,"The @adfs_summit is developing the conversation to position Africa as a continent where solutions in Digital Finance thrive. We @flarenetworks are glad to be part of this conversation, follow @adfs_summit for info. @MohamedTaysir1  #DeFi #Africa #blockchain #4IR https://t.co/3bsj3syaHx",496,17,130,2021-01-06
+445,2021-01-08 19:11:53+00:00,1347622066871275527,FlareNetworks,@FoJAk3 @aquarius_d No,34,5,1,2021-01-08
+452,2021-01-09 13:47:04+00:00,1347902712130772992,FlareNetworks,@12furryfeet @AssetsDaily No,7,2,0,2021-01-09
+453,2021-01-11 13:21:47+00:00,1348621125262184448,FlareNetworks,@satsatwork You never needed any Eth at any point in the process.,3,1,0,2021-01-11
+454,2021-01-13 11:09:26+00:00,1349312596684517377,FlareNetworks,@ftso_eu @lucaswlandon @CommunityFlare @fusion_FLR This is correct,11,0,0,2021-01-13
+456,2021-01-14 08:17:05+00:00,1349631611306995713,FlareNetworks,The Flare Network: The Next Generation of Smart Contracts | Real Vision https://t.co/kKAOiotdLF,1459,41,403,2021-01-14
+459,2021-01-15 07:31:56+00:00,1349982635427299328,FlareNetworks,@itsHimOfficial @Moneyhouse3 @lauraprovenzano @FlrFinance This is nothing to do with us.,3,1,0,2021-01-15
+460,2021-01-16 16:25:40+00:00,1350479340786626561,FlareNetworks,"#Blockchain and other technologies are tools that will enrich the digital ecosystem with the infrastructure required to drive the #4th_Industrial_Revolution, We are excited to be part of the conversation regarding the future of #Africa  @adfs_summit @MohamedTaysir1",512,9,108,2021-01-16
+461,2021-01-19 20:11:24+00:00,1351623314037420037,FlareNetworks,@ToddGack15 @CommunityFlare It is possible to integrate XLM as FXLM.,27,2,2,2021-01-19
+463,2021-01-21 20:57:00+00:00,1352359566273613824,FlareNetworks,#Doge $Doge,508,232,158,2021-01-21
+468,2021-01-22 18:21:37+00:00,1352682850303291392,FlareNetworks,Interesting to see where this poll finishes. #Doge #dogecoin https://t.co/qoDmmzP6Tg,249,44,36,2021-01-22
+475,2021-01-24 13:41:52+00:00,1353337222146174976,FlareNetworks,@Jiu_JitsuCrypto @Tickets_sold @another11843538 @sentosumosaba This assumption is incorrect.,2,0,0,2021-01-24
+479,2021-01-26 09:36:03+00:00,1354000138595934208,FlareNetworks,@Unstablecoins There is no airdrop to LTC.,1,1,0,2021-01-26
+480,2021-01-27 10:13:25+00:00,1354371928304320512,FlareNetworks,@susietrader @MrFreshTime @DMcCormack19 @FlrFinance @NexoFinance @BakkupBradley @sentosumosaba @digitalassetbuy @jungleincxrp @MoonLamboio @RobLicker @XRP_OWL @XRPhilipina @xrp_mami @Fame21Moore @CommunityFlare @FlareScan Flare is a smart contract platform. Applications that offer derivatives are just one example of what could be built on Flare.,120,5,19,2021-01-27
+481,2021-01-28 21:16:41+00:00,1354901233631420419,FlareNetworks,@CommunityFlare @AtheistAgnstVio @eyrockmusic @thinlyspread_ The general rewards pool has already been defined,42,5,5,2021-01-28
+488,2021-01-29 13:15:09+00:00,1355142438151712774,FlareNetworks,"No need to get off #Ethereum. Flare brings utility to existing communities such as #XRP, #LTC and #dogecoin (potentially many others) that don't have trustless access to Ethereum with their native tokens. This should be a win win for blockchain devs. Hence we say #UnlockingValue https://t.co/Rl1MzK73J9",724,32,174,2021-01-29
+490,2021-01-31 17:58:26+00:00,1355938506720350208,FlareNetworks,2/ We certainly do not condone coordinated pumps of any kind but crucially in the XRP case it is also important to point out that unlike with GameStop - there isn’t a giant short position to squeeze into capitulation.,940,70,119,2021-01-31
+492,2021-02-01 14:58:33+00:00,1356255623663517697,FlareNetworks,What XRP pairs (F-Assets) do you want to see? @FlrFinance are building FlareX https://t.co/Hb9BtyUBwZ,509,224,74,2021-02-01
+493,2021-02-02 17:37:51+00:00,1356658102259642368,FlareNetworks,#Blockchain can help #Africa to leapfrog multiple generations of financial infrastructure into a #defi powered future. We @FlareNetworks are excited to be part of this movement. Meet us @adfs_summit next month @MohamedTaysir1,749,24,161,2021-02-02
+494,2021-02-07 19:26:37+00:00,1358497413296717829,FlareNetworks,@trustline_app Awesome news!,143,3,9,2021-02-07
+495,2021-02-08 15:52:46+00:00,1358805981719797760,FlareNetworks,Bravo! https://t.co/dYj3p3e2xj,546,13,91,2021-02-08
+498,2021-02-09 20:59:38+00:00,1359245595261734914,FlareNetworks,Indeed. Wouldn’t it be nice. https://t.co/4cGqh5My2x,231,9,14,2021-02-09
+499,2021-02-12 16:39:31+00:00,1360267300046319622,FlareNetworks,@genesimmons you will be able to trustlessly use both #XRP and #Dogecoin on Flare. We are also integrating #Litecoin https://t.co/sh9yRgzM9z,127,6,35,2021-02-12
+500,2021-02-14 14:32:22+00:00,1360960076362702854,FlareNetworks,@britishgirlxrp Spark is to start be distributed at network launch. We aim for late Q2.,616,57,138,2021-02-14
+501,2021-02-15 20:45:13+00:00,1361416293878956034,FlareNetworks,Looking forward to Flare being a decentralised Gateway. https://t.co/H4Ic3BAfoo,601,18,103,2021-02-15
+502,2021-02-17 08:09:08+00:00,1361950797525843969,FlareNetworks,"Tomorrow the @adfs_summit kicks off!! We @FlareNetworks are excited to be part of this event, our Head of BD @MohamedTaysir1 will be speaking on the future of finance on the 19th.
+Be sure to register!! We look forward to engaging with everyone
+#Africa #UnlockingValue #FLR #Spark",422,15,82,2021-02-17
+503,2021-02-18 13:50:23+00:00,1362399061962330116,FlareNetworks,"GalaCon! — Get Your Game On!. The much rumored and mentioned GalaCon… | by Gala Games | Feb, 2021 | Medium https://t.co/jl0Y7sYcoC",317,14,79,2021-02-18
+504,2021-02-19 20:36:03+00:00,1362863538507829248,FlareNetworks,Glad to be supporting what @gogalagames are building. https://t.co/dRpcfIlD4m,389,6,65,2021-02-19
+507,2021-02-22 14:05:29+00:00,1363852415548678146,FlareNetworks,Beware! No $FLR token representation currently exists on any blockchain (including Ethereum). If you are buying something called $FLR through an AMM - you will lose your money. Currently Poloniex and Bitrue allow trading in a $FLR IOU. #Besafe #DYOR,1524,69,423,2021-02-22
+509,2021-02-23 06:44:57+00:00,1364103939822616581,FlareNetworks,👏👏👏👏👏 https://t.co/FJKA5SIov5,459,9,88,2021-02-23
+511,2021-02-24 17:58:29+00:00,1364635825473019908,FlareNetworks,We are looking forward to joining #GalaCon! https://t.co/LzhwhqziCo,599,21,113,2021-02-24
+512,2021-02-25 21:32:51+00:00,1365052160531197954,FlareNetworks,"Flare will be integrating $XLM as an F-Asset, bringing XLM to scalable smart contracts and a trustless gateway to #Stellar. Decentralisation is far too important for maximalism. Ecosystems must be united. @stellarorg #UnlockingValue",4341,240,1190,2021-02-25
+515,2021-02-27 22:50:50+00:00,1365796563885375493,FlareNetworks,@gerald_vestal It just means that the Flare network is constructed from the validators and miners of all the networks that are integrated with Flare - ie the F-Assets.,1,0,0,2021-02-27
+516,2021-03-01 17:46:58+00:00,1366444867405119492,FlareNetworks,"Reminder: Holders of integrated currencies #XRP, #XLM, #Doge, #LTC will be able to earn $FLR *DAILY* by minting their tokens onto Flare as F-Assets. #Unlockingvalue",2716,208,645,2021-03-01
+520,2021-03-03 17:30:22+00:00,1367165464825200648,FlareNetworks,Thank you for building on Flare. Wonderful to see the data provider ecosystem growing! 🔥🔥🔥 https://t.co/lSskBCYQdu,415,5,67,2021-03-03
+521,2021-03-05 15:01:20+00:00,1367852734960054272,FlareNetworks,Thank you @CopperHQ and @CryptoTSK for the opportunity to discuss Flare and how we are #UnlockingValue. https://t.co/dfxeoc5dXv,302,6,80,2021-03-05
+523,2021-03-06 22:01:28+00:00,1368320855298740225,FlareNetworks,This would be huge for the #Flare community. https://t.co/RoJ7G4WI6l,335,19,50,2021-03-06
+527,2021-03-07 15:35:57+00:00,1368586223657312265,FlareNetworks,Amazing! Thank you for joining Flare! 🔥🔥🔥 https://t.co/BSpyu76zby,754,22,138,2021-03-07
+530,2021-03-08 18:29:26+00:00,1368992271589404677,FlareNetworks,@CommunityFlare @Codeward1 @CasinocoinB @JohnSmi13108865 @WietseWind @daniel_wwf @CasinoCoin @FlrFinance Integration of CSC technically straightforward. As it has lower liquidity than existing target coins (top 100 mkt cap) will likely require a much higher collateral ratio. The integration of CSC as an F-Asset will be governance led. Alternatively CSC can issue directly on Flare.,128,11,37,2021-03-08
+533,2021-03-09 19:43:54+00:00,1369373399798145042,FlareNetworks,@KibaGateaux Flare enables the use of XRP and many other assets with smart contracts on Flare. Flare is it’s own L1 and is not built on XRP.,65,1,8,2021-03-09
+534,2021-03-10 09:53:14+00:00,1369587140460490755,FlareNetworks,@Doge420Maxi We are so glad you are hyped! Just want to scale that back a bit - launch isn’t this month. We are pushing to get the network launched by end of Q2.,173,12,15,2021-03-10
+537,2021-03-11 13:37:29+00:00,1370005960102674433,FlareNetworks,"Really enjoyed it! #Handshake is a powerful tool of decentralisation and we are really excited about potentially having domains represented, traded, borrowed against, monetised and created on Flare. #UnlockingValue https://t.co/0tHdbn4pju",218,10,35,2021-03-11
+541,2021-03-12 15:28:29+00:00,1370396284297871361,FlareNetworks,This is a really exciting application. https://t.co/yf0W54C5T7,494,14,82,2021-03-12
+543,2021-03-13 19:19:45+00:00,1370816872027979781,FlareNetworks,"Today we are saying goodbye to COSTON1 testnet. It operated smoothly for over a year, under massive load and with more than 1M blocks. COSTON2 will roll to production in the next 2 weeks and we have big plans for it!",1799,68,296,2021-03-13
+545,2021-03-15 12:15:58+00:00,1371434997849194500,FlareNetworks,This is such an exciting development. It will be great for Bitrue customers and for the Flare ecosystem. Thank you @BitrueOfficial and @Curis_Wang for your strong support. #UnlockingValue https://t.co/nibVud4pDU,1010,24,204,2021-03-15
+550,2021-03-19 22:24:10+00:00,1373037607148527622,FlareNetworks,@elrealselena @Cardano One example is to supply ADA liquidity to FlareX so there is a decentralised way to trade ADA pairs against other F-Assets. Also applications on Flare built using EVM that aren’t available on Cardano.,253,16,17,2021-03-19
+556,2021-03-21 09:58:23+00:00,1373574703030353921,FlareNetworks,@amstel85 @litecoin Wrapped assed on Eth are predominantly centralised and custodial. Flare’s F-Assets don’t rely on a centralised third party. F-Assets are trustless and the F-Asset protocol is non custodial.,17,1,1,2021-03-21
+560,2021-03-22 22:38:13+00:00,1374128306858123268,FlareNetworks,Thanks for the concise analysis! Flare brings utility to #XRP but is not built on the XRPL. Flare draws consensus from the underlying connected chains and is built to amass liquidity and community to a scalable smart contract platform. #UnlockingValue https://t.co/IZutuSiMd1,669,32,120,2021-03-22
+561,2021-03-23 12:12:46+00:00,1374333295417307142,FlareNetworks,"Flare works as a utility layer to all integrated chains including XRPL. B/c Flare can safely determine the state of an integrated chain, when combined with smart contracts developers have many options to build advanced crosschain/multichain functionality beyond FAssets.",1200,49,234,2021-03-23
+562,2021-03-24 21:08:54+00:00,1374830606043992064,FlareNetworks,@Mike8819uk @CommunityFlare @xrptoolkit You would just repeat the process you did to register the first time.,1,1,0,2021-03-24
+564,2021-03-25 10:56:19+00:00,1375038834396827650,FlareNetworks,@IOnlyMeow Yes different F-Assets can be used together on Flare.,6,1,2,2021-03-25
+565,2021-03-26 13:16:08+00:00,1375436406856822788,FlareNetworks,@kvetinko1 @Cardano Already announced,8,2,0,2021-03-26
+570,2021-03-29 12:32:41+00:00,1376512636318269443,FlareNetworks,@Joecat1108 @ano10110 @digitalassetbuy Doge is a great and friendly community and we hope Flare can help it get even more Much Wow. Ignore fudsters. #Doge #UnlockingValue,315,24,70,2021-03-29
+572,2021-03-30 16:32:04+00:00,1376935266166915074,FlareNetworks,@4IRJORDAN @AzAscend @Kevin_Cage_ @Bancor Utter nonsense. Flare is completely unrelated to Bancor.,16,1,0,2021-03-30
+573,2021-03-31 16:06:42+00:00,1377291271434334210,FlareNetworks,This is great! https://t.co/E1DAaipVQa,291,13,25,2021-03-31
+574,2021-04-05 18:14:31+00:00,1379135375436832773,FlareNetworks,This is great @timrowley_au. Top 10 state connector provers win an NFT at the end of Coston testnet. Find the docs on the state connector here: https://t.co/K7b1VXYMYs. https://t.co/78VPxPE1Df,173,9,32,2021-04-05
+576,2021-04-06 13:51:53+00:00,1379431671439626241,FlareNetworks,"A connected network can become part of Flare's validator set - earning $FLR in the process. This applies to all F-Asset networks. #XRP #Litecoin #Stellar #Doge #UnlockingValue
+https://t.co/Cef9ctaYhI",387,28,95,2021-04-06
+577,2021-04-08 09:58:53+00:00,1380097807869153281,FlareNetworks,#DeFiSamurai https://t.co/4k5AVPFPcz,302,14,59,2021-04-08
+578,2021-04-10 22:38:48+00:00,1381013824329895938,FlareNetworks,The Coston API node is a public good but it does rely on people using it responsibly. We will be taking it down and any application will need to build their own API to connect to the network. This will mean that any issue with a particular app will only effect that app.,460,15,63,2021-04-10
+579,2021-04-11 21:09:27+00:00,1381353728654123013,FlareNetworks,@czr5014 @HammerToe @Evan_ss6 @AllisonReichel @satsie Flare is a separate chain to the XRP Ledger which runs a different consensus protocol. https://t.co/Cef9csTnqa,2,0,0,2021-04-11
+580,2021-04-12 22:29:18+00:00,1381736210612248583,FlareNetworks,Awesome https://t.co/Qupfgead0h,188,13,17,2021-04-12
+598,2021-04-13 06:37:36+00:00,1381859093820870658,FlareNetworks,@Scuzzy_Fuzzy Those exchanges issued FLR IOU’s to their clients based on their XRP snapshot holdings. This is nothing to do with us and we are in no way involved in the FLR IOU market.,209,22,30,2021-04-13
+602,2021-04-14 07:54:57+00:00,1382240949036802049,FlareNetworks,@XmartItalia The amount of $FLR you receive is based on your XRP balance on 12th December 2020.,1,3,0,2021-04-14
+604,2021-04-16 22:51:42+00:00,1383191399923916800,FlareNetworks,The $FLR distribution will start when the Flare Network goes live. The team is working to make this happen SAFELY as soon as possible. It is dependent on finishing security testing. We expect this at the end of June +/- 2-4 weeks.,7021,1124,1845,2021-04-16
+605,2021-04-17 20:15:28+00:00,1383514466969546756,FlareNetworks,@EquityDiamonds @Contrar40166742 @elonmusk 5% is an example. The fee will be dictated by the market.,1,2,0,2021-04-17
+606,2021-04-19 13:09:02+00:00,1384131931151900690,FlareNetworks,Awesome. https://t.co/8W2keU2Ayy,399,10,72,2021-04-19
+608,2021-04-20 07:55:43+00:00,1384415467905953793,FlareNetworks,@iamcata1yst Yes!,15,2,1,2021-04-20
+613,2021-04-21 09:04:16+00:00,1384795107984084992,FlareNetworks,@IBoitaclou Not at all. This is pretty much the point of open source.,6,1,0,2021-04-21
+620,2021-04-23 19:53:31+00:00,1385683273297367046,FlareNetworks,We know of a particularly exciting NFT project coming to Flare.... 👁 May 8. https://t.co/mL13kCALoW,623,87,177,2021-04-23
+627,2021-04-28 21:52:32+00:00,1387525165102346240,FlareNetworks,https://t.co/cxguXKRcMo,682,20,202,2021-04-28
+628,2021-04-29 19:30:07+00:00,1387851711235100677,FlareNetworks,@JohnSmi13108865 We are talking to @PropyInc and @NataliePropy but it’s not that.,6,0,1,2021-04-29
+631,2021-04-30 15:24:40+00:00,1388152327840862210,FlareNetworks,Thank you @GoGalaGames this is going to be a lot of Fun! Introducing the Citadel of the Moon on Mirandus - now the home for the Flare community on Mirandus. #UnlockingValue  $Gala https://t.co/bbbCEyZGnH,516,12,103,2021-04-30
+633,2021-05-03 13:59:36+00:00,1389218085694058497,FlareNetworks,Great news! https://t.co/T6gN3yp1bq,363,7,49,2021-05-03
+634,2021-05-05 14:28:46+00:00,1389950201826324484,FlareNetworks,People will be able to earn $FLR by minting #Doge #LTC #XLM #XRP and any other integrated tokens onto Flare as F-Assets. #UnlockingValue #dogefi https://t.co/tigoUeFgfA,969,83,253,2021-05-05
+636,2021-05-06 07:03:04+00:00,1390200425710751745,FlareNetworks,🔥 🔥 🔥 #UnlockingValue https://t.co/8Y0If2ToCA,738,21,150,2021-05-06
+637,2021-05-08 19:38:24+00:00,1391115287483781122,FlareNetworks,@3DMeowCats @Crypto888crypto Flare is a new highly scalable blockchain,38,2,0,2021-05-08
+644,2021-05-11 16:24:40+00:00,1392153695719145481,FlareNetworks,Just a heads up the blog was an example the creation fee is infact going to be market based and will choose the lowest fee offered first. https://t.co/vTfWzvrCKG,302,12,60,2021-05-11
+650,2021-05-12 20:52:03+00:00,1392583371478425604,FlareNetworks,A data provider that takes advantage of the decentralised nature of the PAC network &gt;&gt; this makes the FTSO more decentralised! Bravo! https://t.co/nIeftLbE1w,652,22,169,2021-05-12
+653,2021-05-13 08:09:08+00:00,1392753764059189251,FlareNetworks,Flare makes integrated POW networks more energy efficient by providing additional utility for the same energy expenditure. @LTCFoundation #LTC #doge #UnleashingValue,912,29,192,2021-05-13
+655,2021-05-17 07:25:00+00:00,1394192209696759808,FlareNetworks,Flare can make POW networks more energy efficient by allowing them to do much more. @LTCFoundation #LTC #doge #UnleashingValue #UnleashingGreen,992,41,230,2021-05-17
+656,2021-05-18 07:01:03+00:00,1394548572431994880,FlareNetworks,"#XRP, #XLM, #Doge and #Litecoin will all be able to be used in smart contracts on Flare. https://t.co/kvF8g7XAWv",3072,132,693,2021-05-18
+661,2021-05-19 08:49:59+00:00,1394938374121791488,FlareNetworks,Yes. Any application that is handling F-Assets will be earning the daily $FLR rewards on behalf of their users and should route this back to their users. Bravo @FlareFinance https://t.co/jUxAXakVkv,575,32,103,2021-05-19
+663,2021-05-20 18:35:49+00:00,1395448191865262084,FlareNetworks,Great to see Flare based projects getting support. Thank you @UpholdInc ! https://t.co/TkTHaXS1Y9,1385,41,227,2021-05-20
+667,2021-05-21 12:21:17+00:00,1395716325272600577,FlareNetworks,@XRPmillionaires @kishupresident No,38,13,3,2021-05-21
+671,2021-05-23 14:39:06+00:00,1396475782449569793,FlareNetworks,@Arturo_P_A More like adding wings and turbofans but actually given how Flare can massively scale simple payment  transactions of POW coins (on Flare) the MPG comparison stands.,27,2,3,2021-05-23
+679,2021-05-24 16:16:21+00:00,1396862645291130881,FlareNetworks,@giantsfanfanfan Something else...,14,3,0,2021-05-24
+680,2021-05-25 19:15:39+00:00,1397270154522791941,FlareNetworks,Something truly exciting is coming to Flare. @Crypto888crypto  #UnleashingValue https://t.co/cXIse85hfr,1466,109,299,2021-05-25
+682,2021-05-26 09:39:56+00:00,1397487658289582082,FlareNetworks,This is an excellent summary. Thank you @wealthkode https://t.co/lsOxbJgbcP,459,18,100,2021-05-26
+684,2021-05-27 15:46:11+00:00,1397942217231278097,FlareNetworks,"@el33th4xor @trueIoV This response isn’t correct. Flare completely changes the way the Sybil attack is dealt with using FBA instead of POS. We do this because like energy, capital is also finite. All integrated chains contribute to Flare consensus. https://t.co/A4dbSdT120",200,13,37,2021-05-27
+687,2021-05-28 17:43:16+00:00,1398334067851120640,FlareNetworks,Correct https://t.co/8rJobVL2Qk,167,8,19,2021-05-28
+688,2021-05-29 08:08:54+00:00,1398551914774736896,FlareNetworks,This is great. Thanks @FlareFinance @DogeCoinMilitia and @theREALpattyxrp https://t.co/VvQKJJsn3F,203,13,40,2021-05-29
+689,2021-06-01 18:41:54+00:00,1399798377349632008,FlareNetworks,@giantsfanfanfan Neither are built by Flare - rather they are projects on Flare. The metaverse is a completely different project but with some intertwining elements. They will provide the details....,14,0,1,2021-06-01
+695,2021-06-02 22:15:52+00:00,1400214612109402118,FlareNetworks,@DWorc @Crypto888crypto Flare isn’t part of XRP. https://t.co/lkqgH0NzuC,0,1,0,2021-06-02
+702,2021-06-03 20:07:07+00:00,1400544596019535874,FlareNetworks,You can submit a governance proposal once mainnet is launched! https://t.co/Qwx95HZkL2,309,13,48,2021-06-03
+703,2021-06-04 16:37:53+00:00,1400854329343553539,FlareNetworks,Regulatory compliant privacy is a likely pre-requisite for the institutional uptake of on chain asset tokenisation and trading. We are very excited for the potential that Panther brings to Flare! @ZkPanther #UnleashingValue https://t.co/Dder2ehZ5u,673,18,157,2021-06-04
+704,2021-06-05 08:46:10+00:00,1401098007412629504,FlareNetworks,We definitely agree! https://t.co/0g6tiwjexr,261,10,24,2021-06-05
+705,2021-06-07 19:11:59+00:00,1401980273777065985,FlareNetworks,Exciting! Good luck! https://t.co/ANCQrK7kQj,433,14,78,2021-06-07
+706,2021-06-08 14:41:36+00:00,1402274619588071433,FlareNetworks,Integration with @Algorand is one governance proposal that we think pretty much the entire Flare Community would support. #UnleashingValue https://t.co/h2geAWeN5B,1388,69,319,2021-06-08
+715,2021-06-09 08:38:26+00:00,1402545609773617161,FlareNetworks,"플레어 네트워크, 1130만달러 투자 유치 https://t.co/RGeRtrZujt",123,6,17,2021-06-09
+723,2021-06-10 07:36:51+00:00,1402892500692520960,FlareNetworks,Excellent! https://t.co/yv0FoeTqB3,837,24,131,2021-06-10
+726,2021-06-12 16:43:48+00:00,1403754920596152329,FlareNetworks,"The $FLR claim period ended at 23:59:52 UTC on June 11 2021 with ledger index no. 64,204,315. Any unclaimed FLR will be allocated to the F-Asset minting pools. Final numbers will be released this coming week. https://t.co/UCIbrqgNHx",1825,218,399,2021-06-12
+728,2021-06-17 22:24:11+00:00,1405652523373957123,FlareNetworks,@BGIradji @dpark61308 @RecepBayir Voting can take place swiftly. A  threshold of total Flare voted (ie a participation percentage) would allow it to pass. If the vote doesn’t reach the governance threshold by 6 months it doesn’t pass.,22,15,4,2021-06-17
+737,2021-06-18 17:30:48+00:00,1405941076784037890,FlareNetworks,Updated. Retains original plan as a voting option and provides further information. https://t.co/dK5aXyRa6Y,1220,342,268,2021-06-18
+741,2021-06-19 23:54:55+00:00,1406400131612688389,FlareNetworks,This blog post lays out the rationale for the distribution structure. https://t.co/ivuOpEeJYJ,550,55,138,2021-06-19
+743,2021-06-22 17:02:35+00:00,1407383529290403844,FlareNetworks,Welcome! Thank you for being a data provider on Flare! https://t.co/TLN1ZCyCXU,655,33,123,2021-06-22
+744,2021-06-25 16:42:32+00:00,1408465643893035011,FlareNetworks,Exciting! Thank you for building on Flare. https://t.co/oiNVRpkbUL,507,21,103,2021-06-25
+746,2021-06-26 10:49:01+00:00,1408739069115437058,FlareNetworks,This is an excellent summary of the Flare ecosystem. A big thank you to @sentosumosaba and to all those developing around #Flare. #UnleashingValue #xrp #xlm #dogecoin #Litecoin https://t.co/kF1UMTAeMD,478,34,117,2021-06-26
+747,2021-06-29 15:42:14+00:00,1409900019759693829,FlareNetworks,"@QuincyChillBro awesome concise description of F-Assets, the state connector and the utility that enables. Thanks! #UnlockingValue https://t.co/dlcrQNRCPY",263,12,60,2021-06-29
+748,2021-07-06 13:56:43+00:00,1412410184186609670,FlareNetworks,Congratulations! https://t.co/a1bpbMwgix,668,54,123,2021-07-06
+749,2021-07-13 08:32:52+00:00,1414865398877540354,FlareNetworks,"AMA with Hugo Philion 
+Sponsored by @DCENTwallets 
+When: July 13, 19:00 PM(KST)
+where: https://t.co/wlp6TNhgFF
+English and Korean https://t.co/BfBbXaHNmQ",293,34,63,2021-07-13
+750,2021-07-15 01:59:26+00:00,1415491163939909638,FlareNetworks,"#BTC can be added via governance. If it was added, transacting FBTC on Flare or issued trustlessly from Flare to the XRP ledger could be a useful and trustless alternative to lightning. https://t.co/X9AHCWWQeb",1014,91,286,2021-07-15
+751,2021-07-16 10:46:40+00:00,1415986234535682048,FlareNetworks,https://t.co/5HQJ3OtRJJ #UnlockingValue #888tnw,210,31,58,2021-07-16
+752,2021-07-20 11:52:54+00:00,1417452455227441153,FlareNetworks,https://t.co/zBBU8sGfWz,3046,855,967,2021-07-20
+753,2021-07-22 20:09:28+00:00,1418302192163905539,FlareNetworks,@JpThieriot @KorbelyTamas @UpholdInc @xrp @cred Should uphold decide to distribute $SGB then ex Cred #XRP investors through @UpholdInc will also receive $SGB.,70,9,12,2021-07-22
+754,2021-07-23 09:17:28+00:00,1418500499255484420,FlareNetworks,"This is why Songbird is essential. Measure twice, cut once. $SGB https://t.co/qJ7crNrQs5",941,85,177,2021-07-23
+755,2021-07-26 08:57:08+00:00,1419582545465942018,FlareNetworks,@CaroBowler @BTCMarkets will receive the $SGB tokens to the address that they will receive $FLR (different chain id). BTCMarkets can distribute $SGB when and if they are comfortable to do so.,91,13,13,2021-07-26
+760,2021-07-27 15:51:47+00:00,1420049283290697730,FlareNetworks,Congratulations! https://t.co/cPn10XHL9g,302,13,43,2021-07-27
+761,2021-07-28 17:07:42+00:00,1420430776789831690,FlareNetworks,Great news! https://t.co/hSdanC1scm,1477,212,272,2021-07-28
+763,2021-07-29 13:40:58+00:00,1420741141243195403,FlareNetworks,Flare’s team is expanding. Welcome to our latest team members! https://t.co/LJxKPCORXy,822,64,124,2021-07-29
+764,2021-07-30 10:02:03+00:00,1421048437622124548,FlareNetworks,Thank you D’Cent! https://t.co/fao1oKNZuT,454,24,61,2021-07-30
+765,2021-07-31 20:41:53+00:00,1421571843169964034,FlareNetworks,Please double or triple check every time you do something in crypto. https://t.co/ipoxFfRlNe,397,61,75,2021-07-31
+766,2021-08-04 12:54:50+00:00,1422903859148730370,FlareNetworks,Oh nice! https://t.co/tHMW0K2QGh,231,20,29,2021-08-04
+767,2021-08-06 01:00:01+00:00,1423448744423399426,FlareNetworks,"Gaming and esports together with blockchain will #unlock powerful new opportunities and experiences for gamers and fans. 
+
+Flare is delighted to be Global Partner for Blockchain Ecosystems of the Global Esports Federation! https://t.co/rnRvZELjog #worldconnected #unlockingvalue https://t.co/JYJInTbMta",887,55,246,2021-08-06
+772,2021-08-08 13:08:54+00:00,1424356949018255369,FlareNetworks,Global esports Federation Partners with 888tnw. Amazing! https://t.co/L5Dq1xBq8K #worldconnected #unlockingvalue #builtonflare @888tnw @karsendaily @GE_Federation @Crypto888crypto,472,24,126,2021-08-08
+773,2021-08-10 20:17:02+00:00,1425189466503880705,FlareNetworks,@xrp_gc @boncryp @CommunityFlare @FlareFinance Flare is issuing two tokens. SGB and FLR. Anything else is an application launching on Flare.,15,2,0,2021-08-10
+775,2021-08-18 13:18:00+00:00,1427983119395835918,FlareNetworks,"Become an FTSO Data provider:
+1️⃣ Data providers earn 80% of the yearly inflation.
+2️⃣ Help Flare become even more decentralised.
+Learn more ⤵️
+https://t.co/MWdbDmYixA",405,27,114,2021-08-18
+777,2021-08-19 11:22:18+00:00,1428316386510708739,FlareNetworks,This is great Tim! https://t.co/F9CiPNMTmK,325,24,57,2021-08-19
+778,2021-08-24 15:45:14+00:00,1430194498387197957,FlareNetworks,Addressing discussion that somehow Ripple is delaying the release of $FLR. Additionally the ongoing SEC case has no impact on the release of $FLR. https://t.co/z8Dp1jWEtm,1002,127,205,2021-08-24
+779,2021-08-25 11:19:29+00:00,1430490008193015808,FlareNetworks,@Aliakbar_ataei @AnchorUSD @Bit4you1 @BitayTurkiye @fobl_official @ComBkex @BitNational @BTCNEXT_io @FlybitOfficial @icrypex @Ledger Yes. But with chain ID 19 instead of 14.,9,2,0,2021-08-25
+787,2021-08-26 13:36:48+00:00,1430886951167660037,FlareNetworks,⚠️ Be aware! ⚠️ https://t.co/zSMy1W8p0r,378,16,103,2021-08-26
+789,2021-08-27 07:07:18+00:00,1431151317376983040,FlareNetworks,Anyone with a laptop and the right skill set will have the opportunity to earn $FLR and $SGB by providing state proofs to Flare and Songbird respectively. https://t.co/qNe33rBome,1185,78,361,2021-08-27
+791,2021-09-01 09:19:28+00:00,1432996518894743554,FlareNetworks,We have been working with exchanges to make sure that they have made their claims properly before any distribution is made. We have been able to double check the claims of all major exchanges and almost all supporting exchanges. That process finished this morning.,4883,475,910,2021-09-01
+793,2021-09-02 07:05:17+00:00,1433325136590118912,FlareNetworks,"⚠️ An entity on the Stellar based Lobstr wallet with the domain https://t.co/hfj9ugeKw4 has been selling fake assets - among them a fake “FLR” token. Be careful of this entity and be aware of people trying to sell you FLR. The only FLR IOUs are on Poloniex, ZB, Bitrue. ⚠️",1111,60,390,2021-09-02
+794,2021-09-04 08:56:04+00:00,1434077792837189632,FlareNetworks,Thank you for building this. https://t.co/5x3MxgTSeU,586,31,115,2021-09-04
+795,2021-09-12 22:23:04+00:00,1437179983995211776,FlareNetworks,@Kashta9 In short yes. See the docs here:  https://t.co/qNe33rBome and here: https://t.co/VhYOAS95Qg,2,1,0,2021-09-12
+800,2021-09-13 14:14:56+00:00,1437419530876227587,FlareNetworks,This cool! https://t.co/VKvxgmgBt0,738,98,165,2021-09-13
+801,2021-09-14 08:56:07+00:00,1437701685992955908,FlareNetworks,This a very exciting idea! BTC can be added to Flare through a governance vote. https://t.co/O3yV69l6wr,805,56,200,2021-09-14
+803,2021-09-15 18:24:16+00:00,1438207050849427457,FlareNetworks,#XRP #XLM #Doge #LTC https://t.co/PpIUQyDB5T,1295,147,281,2021-09-15
+804,2021-09-16 20:42:10+00:00,1438604143346831364,FlareNetworks,🐦,2794,362,520,2021-09-16
+806,2021-09-17 18:19:33+00:00,1438930639709949952,FlareNetworks,Bravo!! https://t.co/A6jMVjEZLA,382,15,56,2021-09-17
+819,2021-09-19 08:47:44+00:00,1439511515544133632,FlareNetworks,@ainittomai The moderators need a rest. We are pausing the channel so that it doesn’t become over run with scammers which would potentially lead to loss.,129,11,10,2021-09-19
+821,2021-09-20 13:29:36+00:00,1439944835373338628,FlareNetworks,This is awesome. Thank you @CaroBowler and @BTCMarkets https://t.co/CVYFd6BNm0,366,28,46,2021-09-20
+824,2021-09-22 05:40:18+00:00,1440551509540814848,FlareNetworks,@Chicles_ @JimmyQuick19 @ftso_au @BifrostWallet It’s a feature of the contract. Nothing to do with Bifrost. Shorter periods would create unnecessary transactions. Delegation can be revoked at any time.,4,1,0,2021-09-22
+826,2021-09-23 09:44:29+00:00,1440975346086596613,FlareNetworks,Thank you @cryptocom this is excellent news! https://t.co/2EbMfdCCiB,1547,221,285,2021-09-23
+830,2021-09-24 19:58:57+00:00,1441492372869709827,FlareNetworks,@CryptoFusionFX @ftso_eu @ftso_au @scandinodesFTSO @ftso_gg @BestFtso @ftso_uk A claim is a transaction on the network. You must sign the transaction so you would have to trust a bot to sign on your behalf. We would not recommend doing this.,47,0,5,2021-09-24
+831,2021-09-25 14:54:12+00:00,1441778067144429572,FlareNetworks,@IH12963 @RichFlareFLR https://t.co/zBBU8sGfWz,3,3,0,2021-09-25
+835,2021-09-27 18:15:32+00:00,1442553509614919680,FlareNetworks,Congratulations! #FlareFinance https://t.co/SjTQORVQJm,480,23,77,2021-09-27
+836,2021-09-28 05:14:49+00:00,1442719422309965824,FlareNetworks,If you used Xumm to claim see below. (Beware of scammers asking for you seed phrase). https://t.co/xDYptyBStF,241,31,59,2021-09-28
+840,2021-09-29 18:30:08+00:00,1443281958172348426,FlareNetworks,Flare’s Canary Network Songbird Exits Observation Stage - The Daily Hodl https://t.co/40LdXP9Lul,879,59,243,2021-09-29
+843,2021-09-30 12:33:37+00:00,1443554626159140865,FlareNetworks,@beardedalts This should be addressed to @FlareFinance,0,1,0,2021-09-30
+844,2021-10-01 04:47:31+00:00,1443799715234164750,FlareNetworks,Thank you @BithumbOfficial for announcing Songbird distribution to your clients. https://t.co/eATYDJkY7s,1120,196,151,2021-10-01
+845,2021-10-02 16:52:58+00:00,1444344668360163330,FlareNetworks,Reminder - Tutorials on how to set up selected wallets for Songbird. https://t.co/INzUiJKY9D,464,53,149,2021-10-02
+846,2021-10-03 10:47:50+00:00,1444615168214933505,FlareNetworks,@BillyM2k @cssvvvcss @BillyM2k Flare is working on a Doge-Flare bridge. This will enable utility and cross chain liquidity for Doge (and other FAssets) on Flare and also NFT integration thru @888tnw @SparklesNFT and gaming with @GoGalaGames,185,5,39,2021-10-03
+848,2021-10-04 07:34:41+00:00,1444928947779670017,FlareNetworks,If you want to run a data provider find the documentation here: https://t.co/oe4z0fIIDP  And an NPM package here: And: https://t.co/yC0NG4CRyl,321,22,85,2021-10-04
+850,2021-10-08 17:54:36+00:00,1446534507587379202,FlareNetworks,This is great news. Thank you @MEXC_Global https://t.co/PJx9SASuY4,534,91,90,2021-10-08
+853,2021-10-09 15:36:03+00:00,1446862028816195587,FlareNetworks,Please be warned. This is a fake Bifrost wallet group on Telegram. 🚨🚨🚨 https://t.co/I0UDEQPOO7,712,55,345,2021-10-09
+854,2021-10-10 15:51:20+00:00,1447228262367862794,FlareNetworks,"@RichFlareFLR @HugoPhilion Flare will launch after testing of the three core protocols (FTSO, State connector, F-Assets) on Songbird.",949,84,234,2021-10-10
+855,2021-10-12 09:27:48+00:00,1447856519484170241,FlareNetworks,"Later today our CEO @HugoPhilion is joining @UpholdInc and @robinoconnell1 for a LIVE webinar on 'Songbird, Flare in Flight' 🤩 
+
+Register below &amp; join us at 5pm GMT to hear the latest on #Songbird👇
+$SGB
+https://t.co/t1N5NagWzm",459,35,120,2021-10-12
+859,2021-10-13 07:43:30+00:00,1448192656631291905,FlareNetworks,Excellent! https://t.co/2nBZa2Ysv0,625,26,110,2021-10-13
+861,2021-10-14 12:46:25+00:00,1448631279637893122,FlareNetworks,Thank you @ellipalwallet https://t.co/yHZ83ILPOL,395,34,54,2021-10-14
+862,2021-10-18 19:52:06+00:00,1450187955033755650,FlareNetworks,This is excellent news. Thank you @krakenfx https://t.co/wPiUN88JdK,1622,188,265,2021-10-18
+863,2021-10-20 09:46:37+00:00,1450760358076026881,FlareNetworks,"In last week's conversation with @UpholdInc's Josh Greenwald, @HugoPhilion talked about the progress on #Songbird, its long term utility &amp; made some pretty exciting announcements about @Algorand 🤩 
+
+Watch the full webinar here 👉  https://t.co/8DIgvJ13pM
+
+$ALGO $SGB $FLR https://t.co/FszLrdsK9R",752,60,180,2021-10-20
+864,2021-10-21 08:23:43+00:00,1451101880214491138,FlareNetworks,"'Songbird can take its own path. It can do different things with the State-connector, include different tokens, it can completely diverge from its canary network role - it is up to token holders &amp; developers that want to develop on #Songbird' @HugoPhilion https://t.co/8DIgvJ13pM https://t.co/50udQ9KWDU",732,74,202,2021-10-21
+866,2021-10-22 09:42:13+00:00,1451484023344205829,FlareNetworks,"'Things like the State-connector present a myriad of opportunities that people can build applications for'
+
+In this conversation with @UpholdInc, @HugoPhilion shares some examples of potential use cases for #Songbird network in the long term.
+
+👀 https://t.co/8DIgvJ13pM $SGB $FLR https://t.co/6sHxWJqAkd",564,56,136,2021-10-22
+867,2021-10-26 12:03:36+00:00,1452969158329737217,FlareNetworks,"Our community keeps growing day by day💪
+
+For any new members of the Flare ecosystem - we salute you 👋 &amp; recommend watching this video which explains FlareNetwork's key pillars &amp; how they work together.
+
+If you're hungry for more - check the full webinar: https://t.co/8DIgvJ13pM https://t.co/PaL6DXyx84",412,52,98,2021-10-26
+868,2021-10-27 09:03:02+00:00,1453286104141078534,FlareNetworks,Milestone number: 200k wallet addresses! https://t.co/3c0VOp8olZ,688,72,127,2021-10-27
+869,2021-10-29 12:48:38+00:00,1454067654713647104,FlareNetworks,"🎥 ICYMI in this interview with @ThinkingCrypto1, @HugoPhilion discusses #FlareNetwork inception, how it works, supported F-assets such as $XRP $DOGE $LTC $ALGO &amp; others, #DeFi security, $SGB &amp; $FLR tokens distribution &amp; much more!👇 
+https://t.co/SilYfwNvhv",361,31,85,2021-10-29
+870,2021-10-30 08:15:13+00:00,1454361233184940037,FlareNetworks,What an excellent message to get. Thank you @UpholdInc https://t.co/PgODMfDKwI,785,144,101,2021-10-30
+874,2021-11-01 20:02:57+00:00,1455264118177472513,FlareNetworks,"Together with @allianceblock we're building a more global and participatory economy, connecting the traditional and decentralised worlds. 
+
+Read more about it here: https://t.co/kbzTfWwN5o
+
+@HugoPhilion 
+$FLR #DeFi 7/7 https://t.co/tXjaqVx4oy",186,10,26,2021-11-01
+884,2021-11-02 18:25:22+00:00,1455601947596279813,FlareNetworks,https://t.co/cqzH5xCVjX,406,15,89,2021-11-02
+885,2021-11-03 13:00:08+00:00,1455882487633174535,FlareNetworks,"Ahead of the new delegation period tomorrow, a reminder to the community that 100% of the FTSO yield is going to the ~ 2.7Bn tokens that have delegated. https://t.co/iaVIXdSxVr",603,89,116,2021-11-03
+886,2021-11-08 07:03:20+00:00,1457604634961448961,FlareNetworks,@marccwr @nftqueenw @MR_STEELZ @SongbirdComm @BitrueOfficial @BifrostWallet That’s a fake link.,1,2,0,2021-11-08
+887,2021-11-11 23:15:38+00:00,1458936485424599045,FlareNetworks,This is great news. Thank you @BrianShroder and @BinanceUS 🙏🙏🙏 https://t.co/8Spny7qlcM,711,54,108,2021-11-11
+891,2021-11-16 09:55:11+00:00,1460546984230674438,FlareNetworks,@BradGarlicXrp @sprwn @SGBPunks The FTSO itself generates a random number.,3,1,0,2021-11-16
+894,2021-11-17 17:52:07+00:00,1461029398895865859,FlareNetworks,@XRP_OWL Appreciate your support! 👍,89,4,2,2021-11-17
+901,2021-11-18 13:13:21+00:00,1461321630446202887,FlareNetworks,@strongape3 @CommunityFlare This is a question for @FlareFinance,0,0,0,2021-11-18
+904,2021-11-21 11:16:54+00:00,1462379488206069773,FlareNetworks,"👀👇
+https://t.co/FIt9QehEO6",196,5,36,2021-11-21
+909,2021-11-22 06:50:31+00:00,1462674841149095936,FlareNetworks,"To anyone concerned about the #FlareNetwork launch &amp; its timeline, our CEO &amp; co-founder Hugo Philion talked about this in his latest interview with 
+@thinkingcrypto1. 
+
+Watch his reply here: https://t.co/UNNlpqY6KY",109,17,27,2021-11-22
+910,2021-11-23 17:04:32+00:00,1463191748532916232,FlareNetworks,"@The_Milk_Man_69 @GoRivalGames To anyone concerned about the #FlareNetwork launch &amp; its timeline, our CEO &amp; co-founder Hugo Philion talked about this in his latest interview with 
+@ThinkingCrypto1 
+
+Watch his reply here:
+
+https://t.co/UNNlpqY6KY",19,0,2,2021-11-23
+916,2021-11-25 19:19:15+00:00,1463950429310566404,FlareNetworks,"📢 New position open at #FlareNetwork!
+
+This role is suitable for a developer relations expert with an unrelenting &amp; uncompromising passion for truly decentralised and trustless infrastructure.
+
+Apply here or share with your network: https://t.co/mur8XXEJRu
+
+$FLR #RemoteWork https://t.co/1205n9Ho5Q",450,29,105,2021-11-25
+917,2021-11-26 20:24:24+00:00,1464329212836335619,FlareNetworks,What an amazing 8 weeks. 🙏 https://t.co/w43ONB9MPT,488,56,88,2021-11-26
+919,2021-11-30 10:49:41+00:00,1465634129006022657,FlareNetworks,Governance details over testing on Songbird can be found here: https://t.co/v1rHYlTAeo,413,29,89,2021-11-30
+922,2021-12-01 17:12:24+00:00,1466092831412559874,FlareNetworks,Probably the best explanation of Flare on Twitter. #XRP #XLM #Doge #Litecoin #Algo https://t.co/hWaVhCNhtr,762,62,184,2021-12-01
+923,2021-12-02 13:56:51+00:00,1466406006490030090,FlareNetworks,@ThanosDeviR Yes,14,0,1,2021-12-02
+925,2021-12-04 10:14:34+00:00,1467074845628321799,FlareNetworks,Thank you Huobi global for distributing SGB. @HuobiGlobal https://t.co/fBbJlui26S,716,150,112,2021-12-04
+926,2021-12-05 21:56:23+00:00,1467613852154179588,FlareNetworks,#XRP #doge #XLM #LTC #ALGO https://t.co/G4kAy2iPAe,266,29,32,2021-12-05
+928,2021-12-06 14:17:25+00:00,1467860735304871937,FlareNetworks,"Just a reminder. Flare does not control, monitor, approve or audit third party applications that are built on Songbird.",673,62,106,2021-12-06
+930,2021-12-07 12:16:32+00:00,1468192703007633411,FlareNetworks,"We're hiring!🔊
+
+As Head of Developer Relations you will become #Flare’s leading light amongst the most influential developer communities within #Web3 and beyond.
+
+Apply yourself or make a referral to jobs@flare.network &amp; get 1000 $SGB reward if we hire recommended candidate!⤵️ https://t.co/FPLOEoTz69",399,41,102,2021-12-07
+931,2021-12-08 13:59:05+00:00,1468580898606137350,FlareNetworks,Amazing news! Thank you @Bitstamp https://t.co/w5x5KR5AVg,722,166,102,2021-12-08
+933,2021-12-09 11:13:08+00:00,1468901521253412867,FlareNetworks,Bitrue is the first exchange to run an FTSO data provider and offer this to their clients and the community. Thank you for your extensive support of the Flare ecosystem! https://t.co/vOTwYJg2IK,829,34,157,2021-12-09
+935,2021-12-10 08:13:16+00:00,1469218644248965124,FlareNetworks,The inaugural Global Esports Games is shaping up to be a huge success. Congratulations to @GE_Federation !!https://t.co/SxIVAa5r3A,257,17,58,2021-12-10
+936,2021-12-12 18:31:23+00:00,1470098975403425795,FlareNetworks,Congratulations @FlareFinance https://t.co/j3cTuioMHC,713,108,99,2021-12-12
+938,2021-12-14 16:25:24+00:00,1470792046315294721,FlareNetworks,"As people receive their #SGB tokens on @binance, a reminder to the community that 100% of the FTSO yield is going to the ~ 4Bn tokens that are delegated. You can get your share by delegating to an FTSO provider. https://t.co/ZsxZ4YK3Hx",560,132,147,2021-12-14
+939,2021-12-15 20:32:25+00:00,1471216597771694083,FlareNetworks,We are delighted to be a guardian of one of the @888InnerCircle realms. Each realm has 10k inner circle tokens which give special access to @888tnw and #Flare partner NFT drops. https://t.co/nh422LHSu3,463,20,137,2021-12-15
+940,2021-12-16 13:47:20+00:00,1471477042424258562,FlareNetworks,@morganc403 @mattrosendin @API3DAO can be a price provider on Flare as can other Oracle systems.,71,5,13,2021-12-16
+942,2021-12-17 07:41:24+00:00,1471747341501845510,FlareNetworks,https://t.co/ORJVvNTXBC,585,20,188,2021-12-17
+945,2021-12-18 13:27:00+00:00,1472196703826628609,FlareNetworks,Congratulations to the @GE_Federation on the fantastic opening ceremony of the first Global Esports Games. Flare is delighted to be the Global blockchain partner of the #GEF https://t.co/gIL0gdnDPq,391,19,83,2021-12-18
+946,2021-12-19 12:57:41+00:00,1472551712766545922,FlareNetworks,💪💪💪 https://t.co/1XO1QViOMt,282,31,50,2021-12-19
+947,2021-12-20 17:56:48+00:00,1472989374442881025,FlareNetworks,"🆕#Songbird block explorer Blockscout Version 4.0.0 is now released✨
+A new version introduces ERC-1155 #NFT support &amp; increases scalability, meaning it can support developer access to the API &amp; has decreased rate limits
+For more info &amp; documentation visit
+https://t.co/NwmOOwBddz https://t.co/Q7tAmeDje6",743,52,215,2021-12-20
+948,2021-12-21 15:00:22+00:00,1473307362228330503,FlareNetworks,"Read the full article on our Medium channel 👀 
+https://t.co/BZx5rWGL4t 
+
+#FlareNetwork #blockchain $FLR $SGB",72,3,16,2021-12-21
+956,2021-12-22 09:18:11+00:00,1473583635840258055,FlareNetworks,https://t.co/1OeiMAEoVz,473,20,115,2021-12-22
+960,2021-12-24 15:36:01+00:00,1474403499043692570,FlareNetworks,"”After the phenomenal success of season 1, we're absolutely thrilled to formalize our partnership with the global sports disruptors Fan Controlled Football"" @HugoPhilion, on recently announced partnership with @fcflio
+📖More on what this alliance entails👇
+https://t.co/XEEvgJsEU7 https://t.co/lycRljJiZ3",347,22,86,2021-12-24
+961,2021-12-26 15:56:14+00:00,1475133361534517251,FlareNetworks,@Eric47933070 https://t.co/EDPcgJ4ze0,4,2,0,2021-12-26
+962,2021-12-27 13:38:11+00:00,1475461005379575808,FlareNetworks,"@blemplar @HugoPhilion The next major update to Songbird, coming in Q1 next year, will form the launch candidate for Flare. If it passes testing on Songbird then Flare can be launched.",595,47,138,2021-12-27
+963,2021-12-29 19:11:10+00:00,1476269582612578312,FlareNetworks,Flare is also trustlessly bridging #Algo to the Flare Network in the first cohort of F-assets so that #Algo and the other F-assets can be used in DeFi and smart contract applications on Flare. @AlgoFoundation https://t.co/86VIMnk0EI,842,51,193,2021-12-29
+964,2021-12-30 19:10:28+00:00,1476631793013035011,FlareNetworks,Thank you for your hard work @FireblocksHQ https://t.co/oD3P1EfJLm,342,17,62,2021-12-30
+965,2021-12-31 14:43:23+00:00,1476926964896256001,FlareNetworks,"This is, of course, just a fraction of what we have achieved this year and what’s in progress💪
+
+The community is relentlessly working on tools, dashboards, #NFT projects &amp; educational resources https://t.co/oSUnjaqWZr",147,4,10,2021-12-31
+983,2022-01-02 22:51:27+00:00,1477774568873938947,FlareNetworks,"To clear up any confusion. Flare Finance are building a suite of DeFi products on Songbird and then Flare. Flare Finance is NOT built, managed or run by the Flare Networks team.",1010,105,163,2022-01-02
+988,2022-01-03 10:06:14+00:00,1477944384016556033,FlareNetworks,Wonderful thank you @flaremetrics https://t.co/3ZO5flnHbJ,181,6,25,2022-01-03
+989,2022-01-04 08:31:04+00:00,1478282823723364354,FlareNetworks,@phil_exciting @HugoPhilion @FlareFinance Flare will be launched after the core protocols that will make up the Flare Network are tested in the wild on Songbird.,28,15,6,2022-01-04
+994,2022-01-05 08:44:36+00:00,1478648614801051649,FlareNetworks,@zameer7866 Hi! Here're some community-produced videos (by @CommunityFlare ) that should give you an overview and answer your questions https://t.co/YhmrIf9Vfy,47,2,16,2022-01-05
+995,2022-01-07 22:57:41+00:00,1479588075453960202,FlareNetworks,https://t.co/Jx16oTvzPD,1750,100,537,2022-01-07
+1001,2022-01-11 13:30:51+00:00,1480894980545826817,FlareNetworks,"Milestone unlocked: 10M fast, low fee &amp; low carbon transactions completed on #Songbird! Growing at speed thanks to #Flare's amazing community.
+
+Last week alone we saw:
+Over 1.4M transactions
+811K blocks produced
+6.5K new wallet addresses registered
+28.8M $SGB #FTSO rewards earned https://t.co/QWKYHUeMtl",844,69,226,2022-01-11
+1003,2022-01-12 19:33:21+00:00,1481348593755766787,FlareNetworks,"Congratulations to our friends &amp; partners at @fcflio on completing the series A funding round👏Can't wait to drive an impactful change in the world of sports and #NFTs together!💪
+@sohrobf #FlareNetwork https://t.co/d87Z7ihccz",228,16,51,2022-01-12
+1005,2022-01-13 23:11:18+00:00,1481765829595340801,FlareNetworks,@JustATechGuy_ @Odds75 @Santiag78758327 @peter_szilagyi @helloiconworld Wrapping is just a usecase. Flare allows the state of any system to be proved onto Flare and used with smart contracts. This enables wide spread interoperability as it allows Flare to mediate (and enforce) interactions between all connected systems. https://t.co/qNe33rBome,154,22,54,2022-01-13
+1008,2022-01-16 16:55:05+00:00,1482758315251802112,FlareNetworks,@Cameronfous We are now in Q1 - the update is progressing well in internal testing and remains on schedule to be delivered in Q1. https://t.co/JF2iV391Pz,316,44,81,2022-01-16
+1009,2022-01-18 07:36:52+00:00,1483342613923119105,FlareNetworks,"Great to see projects like @SparklesNFT come to life on #Songbird, enjoying #Flare's security, high speed &amp; low fees👏
+
+$FLR $SGB #NFT https://t.co/LNfDxxFBxu",521,42,114,2022-01-18
+1010,2022-01-19 08:42:17+00:00,1483721460417974274,FlareNetworks,@m4dpr0ph3ss0r ⚠️Xflare network has been selling fake assets - among them a fake “FLR” token. It has nothing to do with FlareNetwork. Be careful of this entity and be aware of people trying to sell you FLR.,1,2,0,2022-01-19
+1011,2022-01-20 12:15:15+00:00,1484137446573060096,FlareNetworks,"Our recent upgrade to the Coston &amp; #Songbird explorers to the latest BlockScout v4.1.1 version provides developers with the ability to validate their contracts by using standard JSON input
+
+Check the release notes, give it a try &amp; let us know your feedback https://t.co/VEAuB9pEBv",317,40,74,2022-01-20
+1012,2022-01-24 14:34:20+00:00,1485621996809555976,FlareNetworks,A thriving #Flare #NFT ecosystem keeps on growing!👏 https://t.co/UqJoIz4xdl,298,16,61,2022-01-24
+1014,2022-01-28 13:43:56+00:00,1487058866529521672,FlareNetworks,"Welcome @PocketBitsIndia users!🇮🇳
+
+Whether you are in India or anywhere else in the world, remember that hodling is cool, but delegating is cooler 😎👇
+https://t.co/3deipVxqM0
+$SGB #Songbird #LFG https://t.co/L7DYZXhGrm",140,11,31,2022-01-28
+1015,2022-01-31 17:20:02+00:00,1488200412515680260,FlareNetworks,"🔥The 888 Inner Circle is expanding with 88,888 new memberships released🎱 
+
+Flare are proud supporters of the upcoming @888InnerCircle drop and excited to announce that 8,888 membership #NFTs will be available in the #Flare realm! https://t.co/hVkN9Q7T3p",585,53,164,2022-01-31
+1018,2022-02-01 17:09:58+00:00,1488560269181829123,FlareNetworks,"🍒 And the cherry on top: As an $SGB holder &amp; member of the #Flare realm you'll be able to enjoy low minting fees on the #Songbird chain and get access to future exclusive drops on @SparklesNFT😉
+
+So, jump over to our Discord to get involved now! 🤗 https://t.co/Ya80f02Krd
+6/6",102,16,30,2022-02-01
+1024,2022-02-03 13:17:34+00:00,1489226557927436288,FlareNetworks,Thank you @koinly! https://t.co/dla7Bxt6q9,155,7,27,2022-02-03
+1027,2022-02-04 16:15:13+00:00,1489633654531936256,FlareNetworks,"🎉 The #FlareNetwork community continues to grow day by day &amp; we want to thank all 200,000 of you for your energy and support!
+
+There's so much to look forward to - we're just getting started🚀 
+#Flare #Songbird $SGB $FLR https://t.co/toid16lGWq",1061,88,244,2022-02-04
+1028,2022-02-05 20:00:11+00:00,1490052656336879621,FlareNetworks,"⏰@888InnerCircle #NFT drop - 3 days to go!
+
+The early access allow list will close in less than 12h. Then, on February 8th, #Flare realm will release 8,888 NFTs &amp; welcome new Golden level members to the #888InnerCircle community.
+
+Learn all about it👇
+https://t.co/g1K9evXo7T https://t.co/ej2PUz6CEk",156,13,44,2022-02-05
+1029,2022-02-06 16:32:51+00:00,1490362865278238723,FlareNetworks,"Just added 300 extra spaces to the allowlist and extended the deadline to 11:59am PST today for all of you who missed out!
+
+Join our Discord https://t.co/g1K9evXo7T &amp; follow the instructions on the tweet below to save your place for the early mint on February 8th @ 9am PST! https://t.co/r4HCQ0ZMMB",190,21,68,2022-02-06
+1030,2022-02-07 18:09:12+00:00,1490749500624982016,FlareNetworks,"@walterstweets @HugoPhilion @GoGalaGames @crypto888crypto Click on 'Start listening' button here:
+
+https://t.co/DwPgUUNIZP",1,1,0,2022-02-07
+1033,2022-02-08 21:51:09+00:00,1491167746284929026,FlareNetworks,We believe that the 888 dapp works properly with Chrome for now. https://t.co/F9BpMzjcpw,146,11,25,2022-02-08
+1044,2022-02-10 15:03:46+00:00,1491790000442118145,FlareNetworks,"Say hola to @ola_finance!
+
+We're pleased to partner with Ola to support customized lending networks, further expanding the suite of #DeFi products available on Flare. Ola plans to launch a lending network on #Songbird, &amp; in the future #Flare mainnet.
+
+👀 https://t.co/EPW85Yr0Qe https://t.co/ii4I4tD4fl",831,59,240,2022-02-10
+1045,2022-02-13 13:44:05+00:00,1492857110887022593,FlareNetworks,This is amazing news! https://t.co/5XGDwBTRFJ,394,65,67,2022-02-13
+1046,2022-02-14 13:24:16+00:00,1493214508504039430,FlareNetworks,"Songbird flying high!🐦
+
+Weekly update👇
+
+🪶Over 1M transactions processed last week
+🪶620K+ blocks produced (more than 1 per sec)
+🪶2,2K new wallet addresses registered
+🪶40M+ $SGB FTSO rewards distributed
+
+For more stats on #Songbird performance visit https://t.co/EoGZjbSq4E https://t.co/UHjmBnWRQ8",434,72,124,2022-02-14
+1048,2022-02-15 12:59:05+00:00,1493570562127499272,FlareNetworks,"With an influx of users joining #Flare’s ecosystem, we felt it important to provide clear guidance on how to delegate your $SGB tokens to the #FTSO &amp; start earning those rewards.
+
+Check our delegation guide for step-by-step instructions for popular wallets https://t.co/D4ZzdFE1Ol",1134,68,202,2022-02-15
+1050,2022-02-18 16:45:06+00:00,1494714602692780035,FlareNetworks,"Are you at #ETHDenver this weekend?
+
+Don't hesitate to say hi 👋 to these two lovely people from the #Flare ecosystem team if you see them around! @dommoore @maxluck95
+
+#FlareNetwork #Web3 #Songbird https://t.co/05gjdX8lOJ",224,20,26,2022-02-18
+1052,2022-02-19 11:44:15+00:00,1495001277968924679,FlareNetworks,Kraken Supports the Songbird (SGB) Airdrop for XRP Holders https://t.co/u0ls2u6XOJ,932,113,193,2022-02-19
+1053,2022-02-22 08:37:00+00:00,1496041322100178948,FlareNetworks,A post worth checking for @888Innercircle #Flare realm members⬇️ https://t.co/0VHQ5JKo1s,100,11,19,2022-02-22
+1055,2022-02-23 09:29:54+00:00,1496417021826936841,FlareNetworks,"Today @MohamedTaysir1 from the #Flare team joined the @adfs_summit to give a talk on #blockchain technology, #metaverse, #NFTs &amp; the future of finance.
+
+Tip:⏩fast-forward to 1h 06m to jump directly to Mohamed's keynote.
+
+#adfs2022 https://t.co/foIHtCGdmj",174,10,42,2022-02-23
+1058,2022-02-25 14:25:49+00:00,1497216266293153792,FlareNetworks,"Welcome @krakenfx users!👋
+
+New here? Here're some useful resources to get you started:
+
+👉$SGB delegation - all you need to know: https://t.co/qSOQti8RNs
+🔎#Songbird Block Explorer guide: https://t.co/pcrtzwASg4
+🗞️Medium page: https://t.co/JWqMio3w0y https://t.co/EponYAaQUl",331,28,79,2022-02-25
+1059,2022-03-02 13:10:39+00:00,1499009290501304320,FlareNetworks,"FTSO explained🧠
+
+#FTSO is the Flare Time Series Oracle. This is the ‘heartbeat’ of the #Flare network, bringing applications to life through the provision of rapidly updating, accurate price data via a network of decentralized data providers.🧵1/n",1115,16,110,2022-03-02
+1065,2022-03-03 14:58:00+00:00,1499398691999739905,FlareNetworks,"👩‍⚕️Network health check: In the last two months alone, ~10M transactions were made on the #Songbird network💪
+
+Want to dig deeper into Songbird data? Check our Songbird Block Explorer guide with the detailed instructions on how to get real-time info: https://t.co/teMt2oF2tj
+
+$SGB https://t.co/55sJvpvByk",358,31,83,2022-03-03
+1066,2022-03-05 18:38:53+00:00,1500179056444256259,FlareNetworks,"Additionally:
+
+✨Granular control over available APIs &amp; pruning
+✨Deployment on #Songbird of State Connector code
+✨Deployment &amp; activation of State Connector code on Coston 
+✨Performance improvements &amp; bug fixes
+4/n",159,2,20,2022-03-05
+1072,2022-03-06 15:41:47+00:00,1500496875597840389,FlareNetworks,"Pro tip: To get the maximum compounding interest, claim &amp; wrap every week😉",160,9,19,2022-03-06
+1074,2022-03-07 20:13:59+00:00,1500927763871580161,FlareNetworks,"Status update: Part 1 upgrade completed
+
+On Saturday we announced an infrastructure update with several important changes to the #Songbird. Today, we're happy to report that all hard forks have gone through successfully &amp; the team is moving forward with the preparation of stage 2",1129,73,276,2022-03-07
+1077,2022-03-09 14:19:54+00:00,1501563430565818371,FlareNetworks,"Flare's technology is rapidly evolving, but it can be a bit confusing to follow all the different components. 
+
+So we're introducing the #FlareGlossary: a series of simple explainers for all the new members of the $FLR family!",705,62,155,2022-03-09
+1079,2022-03-10 08:43:15+00:00,1501841100038094848,FlareNetworks,"@JamesEwebb2 @TomT_Crypto We're gradually growing #FlareGlossary &amp; will be sharing it on our Twitter over the coming weeks, but if you can't wait &amp; want to binge on #web3 definitions, feel free to dive into existing terms here: https://t.co/gCx02Jx2Kv
+Let us know what is missing &amp; let's build it together?",5,1,0,2022-03-10
+1084,2022-03-12 17:59:01+00:00,1502705739458093061,FlareNetworks,Congratulations! https://t.co/wpGmdsx6og,273,36,47,2022-03-12
+1085,2022-03-15 10:13:48+00:00,1503675827816382464,FlareNetworks,Keep your finger on the pulse of all things #Flare &amp; #Songbird👇 https://t.co/FwFWh4W3La,328,38,71,2022-03-15
+1086,2022-03-16 18:58:42+00:00,1504170309489934336,FlareNetworks,"⚡️Today, we're introducing SGB/USD price pair to #FTSO to support the next phase of growth on #Songbird, thereby enabling full usage of $SGB tokens within decentralized applications built on the network.
+
+For more details check our latest medium article⤵️
+https://t.co/ZDOMx8kZr1 https://t.co/uiLLLFnYBb",601,46,194,2022-03-16
+1094,2022-03-17 16:15:29+00:00,1504491623736090629,FlareNetworks,"#FlareGlossary Chapter 2:
+
+Canary Network (#Songbird in #Flare's case) originates from the term “canary in a coal mine'. Back in the day miners used to carry canaries with them into the mine to forewarn of dangerous gas leaks
+
+Level up your #crypto lingo: https://t.co/gCx02JwuUX https://t.co/o7BIkqRR0d",317,63,80,2022-03-17
+1095,2022-03-18 16:23:27+00:00,1504856014293770240,FlareNetworks,"☀️ #Songbird Explorer and #Coston Explorer have been upgraded to Bockscout 4.1.2 and is now available! 
+
+#Flare $FLR $SGB 🍰 
+https://t.co/c4SLd97Mt8",405,30,109,2022-03-18
+1096,2022-03-21 20:14:29+00:00,1506001321517793281,FlareNetworks,"@palpro4 thanks for your support, appreciate it!",36,1,0,2022-03-21
+1103,2022-03-22 11:50:44+00:00,1506236933567045640,FlareNetworks,@uGaenn @Permissionless Thanks for sharing - hope to see you there!,1,0,0,2022-03-22
+1108,2022-03-23 12:54:50+00:00,1506615454546251781,FlareNetworks,"#Flare engineering team has successfully upgraded Coston network to v0.6.0 and switched over to leveldb.
+
+Next stop: #Songbird ☀️ https://t.co/MMxoBab3ev",769,62,179,2022-03-23
+1109,2022-03-24 12:34:06+00:00,1506972624726990856,FlareNetworks,"@thinlyspread_ Being sceptical is totally fine, that's the best way to stay safe in this industry. Appreciate you sticking around for a bit longer☀️",9,0,0,2022-03-24
+1112,2022-03-26 13:00:48+00:00,1507704118554644482,FlareNetworks,Flare is built to be integrated with every chain. We don’t attack the merits or dismerits of other consensus protocols. #Bridgesnotwalls #ConnectEverything,1301,108,293,2022-03-26
+1113,2022-03-27 16:52:22+00:00,1508124782998474766,FlareNetworks,"☀️The #Flare engineering team has successfully upgraded #Songbird to version v0.6.1 ready for the #StateConnector activation date on Monday 28th💪
+
+⚠️Friendly reminder to upgrade your node to this version before that date to avoid service disruption after the hard fork.",1205,87,305,2022-03-27
+1114,2022-03-28 11:28:43+00:00,1508405721758638080,FlareNetworks,"5, 4, 3, 2, 1... here comes the sun ☀️
+
+#StateConnector on #Songbird
+#Flare $FLR #SGB https://t.co/DszTnC0Ks8",1014,109,205,2022-03-28
+1119,2022-03-29 14:17:22+00:00,1508810550465253393,FlareNetworks,@sharpmind1986 🗺️roadmap announcement is coming tomorrow,75,3,5,2022-03-29
+1125,2022-03-30 13:25:12+00:00,1509159809655967744,FlareNetworks,"Q: Wen Flare?
+A: The team is aiming for July 4, 2022🇺🇸(to be confirmed in mid-June, subject to audit)
+#Flare is not just enabling early L1 tokens to be used with smart contracts, it's bringing advanced cross-chain interoperability to all networks
+👀Roadmap https://t.co/NaHSiXoK3J",3585,491,1179,2022-03-30
+1126,2022-03-31 14:34:18+00:00,1509539589811326979,FlareNetworks,"#Flare is building a technologically-advanced cross-chain interoperability network that solves for many of the problems inherent in the space today. It enables a safer &amp; fully decentralized cross-chain future. Set to launch July 2022⏰
+
+#ConnectEverything
+https://t.co/MhYd9bWbd7",2433,121,394,2022-03-31
+1127,2022-04-01 15:26:58+00:00,1509915228833730565,FlareNetworks,@CamiRusso @AriDavidPaul We can help make that happen.,57,7,8,2022-04-01
+1128,2022-04-03 16:11:00+00:00,1510651087644205065,FlareNetworks,Warning 🚨🚨🚨 https://t.co/BkhAIWjin9,293,22,101,2022-04-03
+1129,2022-04-05 15:25:26+00:00,1511364396123144209,FlareNetworks,https://t.co/dY0pHvEosO,244,19,56,2022-04-05
+1132,2022-04-06 14:29:22+00:00,1511712675478265857,FlareNetworks,"☀️Sets the foundations for a trustless and secure universal bridge to be built on #Flare
+
+Continue reading⤵️6/6
+https://t.co/GPoz937K4x",247,16,30,2022-04-06
+1139,2022-04-07 05:48:50+00:00,1511944064094117888,FlareNetworks,"@ISO_XRP @JoshuaGEdwards 👀👇
+https://t.co/9WVHFKv2Pf",15,5,2,2022-04-07
+1140,2022-04-12 13:57:11+00:00,1513878902724308998,FlareNetworks,"This will help developers, node operators, and attestation providers to get up and running quickly in the #Flare ecosystem. We are releasing this as part of our commitment to help the community and ecosystem thrive.
+
+#ConnectEverything",159,4,12,2022-04-12
+1145,2022-04-15 08:28:23+00:00,1514883321175625732,FlareNetworks,@SYCR6h8A4qUyAHf @FlareUtility https://t.co/nQATW9ul23,5,5,0,2022-04-15
+1147,2022-04-20 06:15:14+00:00,1516661751256866825,FlareNetworks,"🏈Did anyone catch the opening round of the new Fan Controlled Football szn? So cool to see the fans selecting some epic plays and have Flare's branding pitchside🎉
+
+We're proud supporters of @fcflio; excited to see @JManziel2 &amp; @terrellowens in action!
+
+#PowerToTheFans #Web3 https://t.co/CCOn54qUgL",129,19,33,2022-04-20
+1148,2022-04-21 12:21:17+00:00,1517116257455284231,FlareNetworks,"Flare’s awesome engineering team is obsessed about security. Given the enormity &amp; cadence of recent thefts from #Web3 protocols, we are delighted &amp; proud to share the results of a @Coinspect audit of our Smart Contact code 🎉1/2
+
+#Flare #ConnectEverything https://t.co/8DfPMjmuHU",820,73,208,2022-04-21
+1150,2022-04-23 15:27:18+00:00,1517887846731943939,FlareNetworks,"📌The first Flare Community Call will take place Wednesday, April 27th @ 3 pm UTC
+
+Join @HugoPhilion, the Flare team + special guests for a presentation / discussion about Flare’s technology and role in safely scaling Web3.
+
+🍰☀️#ConnectEverything #Flare https://t.co/snZ4iPzWey",641,50,229,2022-04-23
+1152,2022-04-24 17:12:57+00:00,1518276824316489729,FlareNetworks,Flare is including Doge as an FAsset. When live this will allow Doge to be used on Flare and on any other chain connected to Flare through its LayerCake bridging system. @BillyM2k https://t.co/EBYKGMgB3A,708,59,185,2022-04-24
+1153,2022-04-26 07:48:32+00:00,1518859560378896384,FlareNetworks,"@basedgrogu @HugoPhilion You'll be able to watch a replay here, on Twitter, or via our YouTube channel😉",6,0,0,2022-04-26
+1156,2022-04-27 18:28:29+00:00,1519382993613332480,FlareNetworks,"If you weren’t able to make the call, it will replay here. https://t.co/4ZicOomjOm",411,41,124,2022-04-27
+1172,2022-04-28 13:20:00+00:00,1519667750007885824,FlareNetworks,"'In the world of proliferating chains, parachains &amp; subnets, sidenets &amp; supernets, Flare can connect everything' @HugoPhilion 
+
+ICYMI: Check out our Community Call to learn how Flare is building secure, insured interoperability solutions for blockchains + Web3
+
+#ConnectEverything https://t.co/nhhPig3Zaj https://t.co/aamrzmjoee",363,18,131,2022-04-28
+1173,2022-04-29 21:02:38+00:00,1520146565352108032,FlareNetworks,Hey @TaschaLabs we recently did a community call that lays out our cross chain structure. It includes a deep dive on LayerCake our fully insured bridging solution for smart contract platforms and the StateConnector which enables LayerCake. https://t.co/FsWshKzi0r… https://t.co/b2wBk08iKB,222,11,35,2022-04-29
+1175,2022-05-01 07:23:52+00:00,1520665289012174848,FlareNetworks,"The ongoing proliferation of chains seems highly likely. Flare is working on connecting them in a fast, decentralized and fully insured manner. https://t.co/mM7zSozPpv",632,45,164,2022-05-01
+1176,2022-05-02 05:33:51+00:00,1520999991791263744,FlareNetworks,@so_annieways @HugoPhilion @sprwn @maxluck95 @TomT_Crypto @JoshuaGEdwards @awfm9 @ErezJacobson @alenorbanic @sigsegvx @dommoore @nickcampion Hi @so_annieways! Thanks for a team shoutout and all the great work you do for this community👍,25,1,0,2022-05-02
+1179,2022-05-04 11:42:12+00:00,1521817465189195777,FlareNetworks,"In case you missed it, last week we announced that #Flare has been awarded a 7-figure @AlgoFoundation SupaGrant to develop a #Bitcoin bridge into the @Algorand ecosystem
+
+#ConnectEverything 1/2 https://t.co/2gEbHWANpo",851,45,235,2022-05-04
+1181,2022-05-06 13:05:15+00:00,1522563143116931073,FlareNetworks,"Why Web3 needs LayerCake🍰:
+
+1️⃣Bridge between any + all smart contract chains
+2️⃣Fast, decentralized, fully-insured bridges
+3️⃣Zero collateral required from user; network-provided
+4️⃣101 smart contracts (not 5,000 bridges) to connect 100 chains
+
+Full segment: https://t.co/OddbKvHQ8r https://t.co/4v6JmiwBSN",611,33,223,2022-05-06
+1182,2022-05-09 06:56:05+00:00,1523557400795443202,FlareNetworks,@jon19140 https://t.co/nQATW9LVTB,0,3,0,2022-05-09
+1187,2022-05-11 13:16:02+00:00,1524377793936637955,FlareNetworks,"Join #Flare at @Permissionless 2022, May 17-19th @ Palm Beach 🌴 
+
+Meet the team behind the blockchain built for cross-chain interoperability.
+
+🎫 Book your ticket here: https://t.co/TvicoU51Qv
+
+#ConnectEverything $FLR https://t.co/E3qtmQS2zx",185,15,39,2022-05-11
+1188,2022-05-12 13:05:19+00:00,1524737484185382914,FlareNetworks,"📖Learn why #Flare is the blockchain built for cross-chain with these key highlights🧵
+
+1️⃣The State Connector☀️: a new interoperability primitive ""unlike anything that's been built before"" @HugoPhillion 
+
+$FLR #ConnectEverything https://t.co/6xEQhQSVP2",533,37,170,2022-05-12
+1197,2022-05-13 16:49:03+00:00,1525156176085794818,FlareNetworks,"Meet the Flare team @Permissionless next week and join a fireside chat with our CEO and co-founder @HugoPhilion at 15:20 EDT on the 19th as he talks about 'Building Safer, Reorganisation Resistant Bridges'.
+
+🎫 https://t.co/o0Rn9A6CEV
+#ConnectEverything #Flare $FLR #Web3 https://t.co/4GpzV2RMJI",242,14,65,2022-05-13
+1198,2022-05-15 09:26:26+00:00,1525769567095644161,FlareNetworks,@Disi__XRP @_arcturian @DeBankDeFi @flrfinance 👉$SGB delegation - all you need to know: https://t.co/oRRI0x9hlt,1,1,0,2022-05-15
+1199,2022-05-16 19:34:11+00:00,1526284898771914752,FlareNetworks,"On April 27th, we held the first Flare Community Call. Thank you to everyone who tuned in live - and for those unable to join, please read this post for a quick summary, including videos of each section of the call.
+
+#ConnectEverything #Flare
+https://t.co/xxiZXXtAUo",307,18,75,2022-05-16
+1201,2022-05-17 13:41:13+00:00,1526558457796743176,FlareNetworks,"Are you at #Permissionless2022? 
+
+Come say hello👋 to @dommoore @maxluck95 @nickcampion &amp; learn about @FlareNetworks fully-insured bridging and Web2 ➡️ Web3 composability technology. 
+
+#Flare #ConnectEverything #Web3 @Permissionless https://t.co/JUOMc6v01T",310,30,60,2022-05-17
+1202,2022-05-18 15:52:14+00:00,1526953820185665538,FlareNetworks,"On May 25th, we'll be hosting a Developer Q&amp;A session explaining how to become an Attestation Provider &amp; build dApps using the #StateConnector
+
+Join our Discord #attestation-provider channel for more details: https://t.co/gICb1iYoDE
+
+#Flare",174,6,42,2022-05-18
+1210,2022-05-19 07:22:30+00:00,1527187927503097856,FlareNetworks,@all_xrp https://t.co/HFQs7a4itN,4,3,0,2022-05-19
+1213,2022-05-23 07:39:02+00:00,1528641640197410816,FlareNetworks,@MelP808 @EricCobaltXrp @CRYPTOD47404326 https://t.co/qgYlemNPQZ,7,1,0,2022-05-23
+1216,2022-05-24 11:37:29+00:00,1529064036972765190,FlareNetworks,@knowerofmarkets https://t.co/Ooc2vK5dag,2,0,0,2022-05-24
+1217,2022-05-25 10:43:31+00:00,1529412841656270852,FlareNetworks,"⏰Reminder: Join us later today for a developer Q&amp;A session. 
+
+Interested developers should join our Discord: https://t.co/s5jIvXX0oA 
+
+#ConnectEverything #Flare https://t.co/OoQdVaBb0P",120,8,36,2022-05-25
+1220,2022-05-27 04:30:01+00:00,1530043622112038929,FlareNetworks,"@CoinMarketCap, Flare would like to register a https://t.co/ZWuSj4sAWY email to manage Flare's self-reporting dashboard on CoinMarketCap.",187,13,36,2022-05-27
+1222,2022-05-30 07:08:06+00:00,1531170571723087874,FlareNetworks,@stnaujoks https://t.co/nQATW9ul23,3,1,1,2022-05-30
+1224,2022-05-31 11:59:33+00:00,1531606304535478279,FlareNetworks,"Last week we held a developer Q&amp;A session on the role of #StateConnector Attestation Providers. After open-sourcing the Attestation client code, we wanted to give the dev community the opportunity to ask any technical questions.
+
+Here's a recap ⬇️ 
+https://t.co/iKfx8IrlZ1",187,3,40,2022-05-31
+1227,2022-06-01 15:15:16+00:00,1532017945672568832,FlareNetworks,"The Flare Time Series Oracle [#FTSO] is #Flare's decentralized price oracle:
+ 
+1⃣Delivers rapidly-updating reliable  price data to smart contracts on Flare
+2⃣Allocates rewards for reliable data providers &amp; the token holders who delegate to them
+3⃣Incentivizes reliable price data https://t.co/iahJfr8Rrw",181,9,57,2022-06-01
+1230,2022-06-02 12:53:10+00:00,1532344573439234049,FlareNetworks,"FAssets bridges non-smart contract tokens to #Flare:
+ 
+🔐Unlocking utility:
+1⃣ Use $BTC $XRP $ALGO $DOGE... in dApps on Flare
+2⃣ DeFi / NFTs / Metaverse use cases are now possible
+3⃣ Users earn rewards for minting #FAssets on Flare
+ 
+ℹ️ Join us on Discord: https://t.co/ebZeh6V309 https://t.co/exztXw2Z3P",321,28,93,2022-06-02
+1231,2022-06-03 07:08:33+00:00,1532620236754665473,FlareNetworks,@JeremiahWarmbi1 https://t.co/ExqTh7lNPU,0,0,0,2022-06-03
+1235,2022-06-04 20:05:04+00:00,1533178039038791682,FlareNetworks,"4 days to go: #Consensus2022 is rapidly approaching &amp; this year #Flare will be attending.
+
+👋 Come say hello &amp; learn about the innovation Flare is bringing to the space, including better bridging, and trustless Web2 to #Web3 composability.
+
+#ConnectEverything https://t.co/SMmsF6U5Nf",509,28,129,2022-06-04
+1236,2022-06-06 17:56:28+00:00,1533870452468240384,FlareNetworks,"In his talk at @Permissionless, @HugoPhilion addressed the issue of cross-chain reorganization &amp; outlined how LayerCake ​protects users from reorganization risk. He also talks about multilateral bridging, avoiding fragmented liquidity &amp; more.
+
+Full video: https://t.co/O6KnUNG1WM https://t.co/RmT43wwvyk",298,7,86,2022-06-06
+1238,2022-06-07 11:02:09+00:00,1534128574587879425,FlareNetworks,"""Catticus is quick to convey his excitement to be sitting on Flare with such a large, open market to tap into &amp; a strong ecosystem that spawns growth at every turn""
+
+Excited to see the innovation @thefatcatsNFT &amp; other projects will bring to this ecosystem https://t.co/rvabADCn4s",231,17,67,2022-06-07
+1241,2022-06-08 14:53:10+00:00,1534549100355637250,FlareNetworks,"What can you expect after the #Flare mainnet launch? 
+
+Whether you are a token holder or a dApp builder you'll be able to participate in:
+
+1️⃣Governance
+2️⃣Delegation to FTSO
+3️⃣Building applications using FTSO &amp; State Connector
+
+#ConnectEverything https://t.co/aTogyoHmMn",399,41,118,2022-06-08
+1244,2022-06-09 13:19:04+00:00,1534887806224453632,FlareNetworks,"Understanding the #StateConnector☀️
+
+📤 Requests sent to the State Connector (SC) are forwarded to a number of independent Attestation Providers (APs)
+📥 APs fetch the information &amp; submit it back to the SC
+✅ The SC runs consensus on the replies &amp; produces an agreed-upon answer https://t.co/gWZXGEPLf5",383,16,133,2022-06-09
+1245,2022-06-10 17:27:51+00:00,1535312800905568256,FlareNetworks,"#Consensus2022 is in full speed🤩
+
+Make sure to stop by booth 418 to meet #Flare team. Here is how to find us👇
+
+@consensus2022 @dommoore @maxluck95 @HugoPhilion @sprwn https://t.co/VqR4LvEOf5",318,8,67,2022-06-10
+1248,2022-06-13 06:47:59+00:00,1536238936334508032,FlareNetworks,"@MinnieSlots @consensus2022 @dommoore @maxluck95 @HugoPhilion @sprwn Stay close to our Twitter and Discord, we're planning some community activity with merchandise giveaway 😉🎁",4,0,1,2022-06-13
+1250,2022-06-15 15:28:57+00:00,1537094818781970435,FlareNetworks,@Sage_5555553 👉https://t.co/YeUcNG1xwp,8,0,2,2022-06-15
+1252,2022-06-16 14:56:59+00:00,1537449161611567104,FlareNetworks,Successful audit. Launch details end of next week. Onwards! #Flare https://t.co/BCz9lTroD9,4851,435,1535,2022-06-16
+1254,2022-06-17 10:11:02+00:00,1537739590114631682,FlareNetworks,"🎓 The Block Explorer Guide: Chapter 2
+
+In this video, we take a closer look at transaction types &amp; verification. Got a question on how to use the Block Explorer? Let us know in the comments &amp; we'll cover it in upcoming videos.
+
+#Flare #ConnectEverything
+https://t.co/blCsI8JHPC",336,13,82,2022-06-17
+1258,2022-06-24 12:15:49+00:00,1540307705595822088,FlareNetworks,"Yet another bridge hack today costing users $100m. The future is multichain but it will only be adoptable when the user experience is derisked.
+
+Flare is building LayerCake: multilateral bridging for all Smart Contract chains with decentralized insurance.
+
+https://t.co/pabMTNcVGD",827,31,241,2022-06-24
+1260,2022-06-27 13:23:43+00:00,1541411958825664513,FlareNetworks,@stujmid @HugoPhilion hi @stujmid! you'll find answers to your question in our latest blog post👇 https://t.co/FmjRsSpK6t,0,1,0,2022-06-27
+1262,2022-06-28 11:10:37+00:00,1541740849821802500,FlareNetworks,@Ranger_Cov175 @XRPlosion https://t.co/nJhS9JnJQW,1,0,0,2022-06-28
+1265,2022-06-29 15:09:17+00:00,1542163299684474883,FlareNetworks,"🎓 The Block Explorer Guide: Chapter 4
+
+Next up in our series of how-to videos we will look at how to verify when the vote power lock occurred. This info lets you check that your delegation(s) were set in time👇 
+
+#Flare #ConnectEverything https://t.co/Vzyjnyuwfy",254,7,73,2022-06-29
+1269,2022-07-01 15:09:19+00:00,1542888086102835200,FlareNetworks,@AndrewSCaya @TomT_Crypto @timrowley_au @CommunityFlare https://t.co/cEbTcwODVT,6,0,0,2022-07-01
+1271,2022-07-04 19:09:08+00:00,1544035600386375681,FlareNetworks,"#Flare solves many of the interoperability issues facing #blockchain today:
+
+🔒Better &amp; safer decentralized bridges
+⛓️Decentralized cross-chain composability with any chain so assets &amp; information can flow freely
+🔌Seamless decentralized integration of Web2 data in #Web3 #dapps https://t.co/G1mVv680Wi",1001,89,306,2022-07-04
+1273,2022-07-05 15:32:01+00:00,1544343349741572098,FlareNetworks,"Developer Q&amp;A: Our second session is happening tomorrow at @ 3pm UTC in the Flare Discord #developer channel: https://t.co/tWcYAjFOds
+
+It's an open space to ask dev questions, get technical recommendation &amp; meet like-minded devs building on #Flare &amp; #Songbird. https://t.co/TT0K3Oy1ex",172,7,44,2022-07-05
+1277,2022-07-06 11:23:08+00:00,1544643102899568640,FlareNetworks,"Read Flare’s proposal about adding a new transaction type to the EVM to achieve a hybrid post quantum digital signature, in line with @NIST latest standardisation. https://t.co/ycZ67fp7Td",445,34,128,2022-07-06
+1280,2022-07-07 15:07:07+00:00,1545061860063424514,FlareNetworks,"🛠️ Developers can build truly interoperable dapps that access the value, information and liquidity of multiple blockchains through a single deployment on #Flare.
+
+#ConnectEverything https://t.co/T5qNnJgBlE",367,23,90,2022-07-07
+1289,2022-07-08 07:50:13+00:00,1545314298578223106,FlareNetworks,@YouTube Please process the appeal swiftly. https://t.co/3QmnNNKpfY,242,9,97,2022-07-08
+1290,2022-07-11 15:00:11+00:00,1546509662786359302,FlareNetworks,"What is Observation Mode? 🤔
+
+This is a period of at least 8 weeks to conduct final tests and provide time for the network to become sufficiently decentralized.
+
+https://t.co/8w87LsR4X9",154,9,23,2022-07-11
+1303,2022-07-12 14:06:10+00:00,1546858457810206722,FlareNetworks,"Flare's next generation technology brings fast, secure and efficient transactions with low gas fees ⛽ and a small carbon footprint👣
+
+#Flare #ConnectEverything https://t.co/748Pj4oCND",579,42,168,2022-07-12
+1308,2022-07-13 13:00:37+00:00,1547204351520899074,FlareNetworks,"Our regular Developer Q&amp;A session starts in 2h! 
+
+It's an open space to ask dev questions, get technical recommendation &amp; meet like-minded devs building on #Flare &amp; #Songbird.
+
+Join us today at @ 3pm UTC: https://t.co/izXx4qJbFR https://t.co/b6DGVMJRox",162,10,32,2022-07-13
+1312,2022-07-14 06:11:10+00:00,1547463698305925120,FlareNetworks,@CONFUISHUS thank you! appreciate your support,4,0,0,2022-07-14
+1313,2022-07-15 06:17:11+00:00,1547827600654942209,FlareNetworks,"With the power of the #StateConnector, Flare makes data from the real world and traditional corporations🏦 easily and trustlessly available to decentralized applications built on the network🌐
+
+#Flare #ConnectEverything #Web3 https://t.co/o56eUFqPnA",239,6,37,2022-07-15
+1321,2022-07-17 18:11:00+00:00,1548732011468279809,FlareNetworks,"🎉#Flare is live and ready for builders🎉
+
+With secure decentralized interoperability between chains and with Web2 data, you’re only limited by your imagination💭
+
+🤩 Read more about it here: https://t.co/LrJZbTzRRB
+
+#ConnectEverything #Web3 #Blockchain",1399,82,385,2022-07-17
+1322,2022-07-18 13:51:59+00:00,1549029217765150720,FlareNetworks,@P1ayb0y Have a look at this blog: https://t.co/FmjRsSpK6t,1,0,0,2022-07-18
+1323,2022-07-19 10:20:21+00:00,1549338343523188738,FlareNetworks,"@hosseeb @ethereum @Uniswap @solana @coinbase @circlepay @FlareNetworks: Secure Interoperability &amp; Insured, multilateral bridging.",163,17,24,2022-07-19
+1324,2022-07-20 11:25:35+00:00,1549717147634601984,FlareNetworks,"It's time for our regular Developer Q&amp;A session! 
+
+Join us today at 3pm UTC for an open space to ask dev questions, get technical recommendations, and meet like-minded devs building on #Flare &amp; #Songbird. 
+
+See you there! 👉 https://t.co/Sk9pD2pp9s https://t.co/rthYfbrtan",150,6,39,2022-07-20
+1326,2022-07-21 07:02:37+00:00,1550013358077874177,FlareNetworks,"Flare unveiled as key interoperability partner of @metropolisworld - a soon to launch curated metaverse platform🌐
+
+🌉#Flare will give Metropolis World users the power to seamlessly move between different #metaverse ecosystems and blockchains.
+
+https://t.co/VfaL5ULyxP
+
+1/3 https://t.co/DQ8SBBooNN",1127,71,322,2022-07-21
+1329,2022-07-22 15:15:00+00:00,1550499659994451970,FlareNetworks,"🏙️@metropolisworld is bringing something new to the metaverse space. Every building is a hand drawn, 1/1 NFT. Nothing is generative.
+
+Listen to the founders @TheRaniaAjami and @RashidAjami in an interview with @skynews to see why we're excited to be their interoperability partner https://t.co/wewY4CYq8Z",280,35,108,2022-07-22
+1331,2022-07-26 14:24:16+00:00,1551936445920825345,FlareNetworks,"'We think that the potential long term future for Flare is as a multinet ecosystem'
+@HugoPhilion
+
+Watch the full interview between Hugo &amp; @thebearablebull to hear more on Flare interoperability &amp; a concept of Flare as a constellation of chains: https://t.co/47y3h7DDVw https://t.co/5yf5SJn2QU",405,21,110,2022-07-26
+1333,2022-07-27 13:00:23+00:00,1552277720360517633,FlareNetworks,"👨‍💻Our regular Developer Q&amp;A session starts in 2h! 
+
+It's an open space to ask dev questions, get technical recommendation &amp; meet like-minded devs building on #Flare &amp; #Songbird.
+
+Join us today at @ 3pm UTC: https://t.co/izXx4qJbFR https://t.co/AhOxUuQg0C",124,5,26,2022-07-27
+1340,2022-07-28 10:20:36+00:00,1552599897219768322,FlareNetworks,"@Japhtantsoane2 @Flarepedia @CommunityFlare This is Flare's official Medium account, you can trust the information shared there👍Make sure to subscribe too!",8,0,1,2022-07-28
+1342,2022-07-29 15:50:54+00:00,1553045411501326336,FlareNetworks,Only 21.4% of bridge losses are due to code mistakes. The biggest losses originate from centralisation risks and logic flaws. This is why we need decentralised insured bridging. #LayerCake https://t.co/C6sUCPJ5Qv,340,16,95,2022-07-29
+1344,2022-08-01 10:49:14+00:00,1554056657193340930,FlareNetworks,What dAPP are you going to build with the FTSO price data?,276,28,35,2022-08-01
+1346,2022-08-02 11:55:27+00:00,1554435708932300800,FlareNetworks,"Updated #StateConnector documentation released!
+
+Dive into the detail of the first consensus protocol for external data and learn how it will help #Flare #ConnectEverything, unlocking a new generation of Web3 #dapps.
+
+Kudos to @sigsegvx https://t.co/l8DWpWxeHu",190,5,40,2022-08-02
+1351,2022-08-03 16:09:16+00:00,1554861969869574144,FlareNetworks,"Observation Mode update: FTSO providers are online on #Flare. Engines are ON!
+Here's @HugoPhilion explaining the critical role of the FTSOs in validation, and why it is so important for the network to reach a sufficiently decentralized state ahead of the token distribution event. https://t.co/WVvWh68Fvt",612,36,182,2022-08-03
+1354,2022-08-04 12:05:02+00:00,1555162894299545603,FlareNetworks,"#Flare Observation Mode update:
+
+🌟55+ FTSOs now running on mainnet in a soft launch capacity
+🌟220k+ blocks are finalized
+🌟440k+ transactions completed
+🌟3.9 second average block time
+
+Thank you to everyone helping us test &amp; ensure smooth progress towards the next step💪 https://t.co/6TzVQaE2v7",737,34,187,2022-08-04
+1357,2022-08-05 10:52:55+00:00,1555507132962930690,FlareNetworks,"💱@pangolindex launching on #Songbird in August &amp; on Flare once Observation Mode concludes.
+
+By using #Flare’s tech Pangolin looks to:
+
+- Increase the amount of cross-chain token pairs
+- Offer in-dApp swap functionality to partner projects
+- Bootstrap liquidity for the network https://t.co/XHg8xPAwyw",302,9,100,2022-08-05
+1359,2022-08-06 15:45:10+00:00,1555943069605892097,FlareNetworks,"#ConnectEverything also means powering secure and seamless movement between different metaverses 💪
+
+Read more about our recent partnership with @metropolisworld: https://t.co/QJPp7WlSVr
+
+#metaverse #Flare https://t.co/14zOJMXkH3",500,35,162,2022-08-06
+1360,2022-08-08 12:25:34+00:00,1556617615291944963,FlareNetworks,"That's why @sigsegvx created this simple explanation of blockchains and bridges, using cabbages &amp; chickens to demonstrate the age-old problem of barter when parties don’t trust each other.
+
+Next time someone asks, send them this link 😉👇
+https://t.co/WgcyK4XTeT",184,8,58,2022-08-08
+1365,2022-08-09 13:33:59+00:00,1556997222025265154,FlareNetworks,"Join us tomorrow at 3pm UTC for an open space to ask dev questions, chat with the #Flare engineering team, get some tips &amp; meet other devs building on Flare &amp; #Songbird. 
+
+Join our Discord developer channel and see you tomorrow! https://t.co/Sk9pD2pp9s
+
+#ConnectEverything https://t.co/DKRvHsR7dX",222,18,55,2022-08-09
+1366,2022-08-10 08:28:44+00:00,1557282790298755072,FlareNetworks,"""Metropolis World wants to go one step further &amp; bridge the gap between different blockchains and metaverses. Thus, @metropolisworld has partnered with #Flare Network, a new blockchain built for universal connectivity."" via @hackernoon
+
+#ConnectEverything
+https://t.co/zyUvD8OMcR",332,13,99,2022-08-10
+1368,2022-08-16 14:39:12+00:00,1559550348381110273,FlareNetworks,"Join us tomorrow at 3pm UTC for an open space to ask dev questions, chat with the #Flare engineering team, get some tips &amp; meet other devs building on Flare &amp; #Songbird. 
+
+Join our Discord developer channel and see you tomorrow! https://t.co/Sk9pD2pp9s
+
+#ConnectEverything https://t.co/l5539YvsRG",98,9,21,2022-08-16
+1371,2022-08-17 14:55:27+00:00,1559916823826649089,FlareNetworks,"Come and build on #Flare:
+
+🔮Decentralized price oracle data provided for free (FTSO)
+✅Consensus-verified data from external blockchains/APIs via the State Connector
+🤩Developer resources, grants, ecosystem fund, hackathons...
+
+📽️https://t.co/0zPJ43MeG9
+
+#ConnectEverything https://t.co/BhEPFgtF9t",321,17,96,2022-08-17
+1374,2022-08-18 09:33:57+00:00,1560198303136071683,FlareNetworks,"In our recent blog post we talked about a partnership with @metropolisworld and how Flare’s #blockchain technology will allow for the seamless movement by users between different #metaverse ecosystems &amp; blockchains.
+
+Here's @HugoPhilion with a rundown👇
+1/2 https://t.co/EO1zqCSUJz",250,28,72,2022-08-18
+1376,2022-08-19 12:17:14+00:00,1560601782367182848,FlareNetworks,"🗺️What's on the horizon for #Flare:
+
+🤩Token distribution event upon exiting Observation Mode
+🗣️Governance proposal
+👨‍💻FTSO &amp; State Connector fully live &amp; available for devs from day one
+⭐ Enriched developer experience with FAssets &amp; LayerCake coming soon https://t.co/ZU54qz928q",465,50,121,2022-08-19
+1377,2022-08-22 14:46:12+00:00,1561726438017044481,FlareNetworks,"""This is the beauty of the State Connector."" @jtrollip from @pangolindex and @ThinkingCrypto1 talk about the Flare &amp; Pangolin partnership, interoperability, and scaling.
+
+📽️ https://t.co/0zPJ43MeG9
+
+#Flare #ConnectEverything https://t.co/ZTESvZuPMq",274,13,78,2022-08-22
+1378,2022-08-23 13:39:25+00:00,1562072016605298688,FlareNetworks,"Flare Improvement Proposal 01 is here.
+
+FIP01 is critical for the long term success of #Flare, which is now a radically larger project than originally envisioned. The proposal covers token distribution, inflation rate &amp; incentive structure.
+
+Full detail👇
+https://t.co/aREBqrE7Hm https://t.co/3FYuwgpNcd",1691,398,582,2022-08-23
+1382,2022-08-24 20:00:25+00:00,1562530285182656514,FlareNetworks,"📢 PSA: The native token of #Flare is now called Flare, with the ticker $FLR.
+
+⚠️ Be careful to avoid confusion with any other projects and their tokens. Use the official Flare-approved name.
+
+Please help us spread the word and share this post - ty Flare Community🙏 
+
+#Flare $FLR https://t.co/KPILz5RH6R",1624,124,705,2022-08-24
+1385,2022-08-25 14:07:09+00:00,1562803773738586117,FlareNetworks,"The #Flare ecosystem continues to grow.
+
+🤝Today, we welcome a new partner, @PawnfiOfficial, a liquidity portal for non-standard assets.
+
+Read all about it in our latest blog👇https://t.co/INpcEua6uw
+
+#ConnectEverything
+1/5 https://t.co/vvcdTkgNuq",536,31,176,2022-08-25
+1390,2022-08-26 14:06:14+00:00,1563165931094052865,FlareNetworks,"One security rule that bears repeating: your coins are safer in a hardware wallet.
+
+Check out @iSafePal's special giveaway for the Flare community⬇️ https://t.co/qlTZLYjkwT",302,41,95,2022-08-26
+1401,2022-08-30 14:03:27+00:00,1564614778865197068,FlareNetworks,"In return for their contributions, users will have access to an IOU of the project’s token, available before the token generation event, which will be listed by a number of #Flare’s decentralized exchange partners.",143,4,14,2022-08-30
+1412,2022-08-31 14:00:41+00:00,1564976472267395074,FlareNetworks,"Starting in 1h⏰
+
+Don't miss our regular Developer Q&amp;A session in Discord. Join us today at 3pm UTC for an open space to ask dev questions, get technical recommendations, and meet like-minded devs building on #Flare &amp; #Songbird.
+
+👉https://t.co/tWcYAjodlU
+
+#ConnectEverything https://t.co/13rlV4A2Ym",151,11,29,2022-08-31
+1414,2022-09-04 08:03:52+00:00,1566336229766995970,FlareNetworks,"🤫@metropolisworld will soon issue its very own digital passports, acting as a key to the city of Celeste and beyond.
+
+As the official interoperability partner we'll be sharing a special pre-sale code to our community, so keep your eyes peeled 👀 https://t.co/a4cjrOwEmr",372,22,101,2022-09-04
+1415,2022-09-06 14:10:07+00:00,1567153173244088320,FlareNetworks,"Join us tomorrow at 3pm UTC for an open space to ask dev questions, chat with the #Flare engineering team, get some tips &amp; meet other devs building on Flare &amp; #Songbird. 
+
+Join our Discord developer channel and see you tomorrow! https://t.co/Sk9pD2pp9s
+
+#ConnectEverything https://t.co/kZEjIu4Z9B",199,37,53,2022-09-06
+1416,2022-09-07 13:18:08+00:00,1567502479004254214,FlareNetworks,"Get ready to mint your @metropolisworld metaverse passport with a unique Flare pre-sale code.
+
+🛂The code is available in the Flare Discord announcement channel: https://t.co/gICb1iYoDE
+
+The mint starts tomorrow at 3pm EST.
+
+#Flare #ConnectEverything #metaverse 1/2 https://t.co/2qGhUkAZup",224,25,58,2022-09-07
+1419,2022-09-08 06:31:52+00:00,1567762627744374784,FlareNetworks,Congratulations to our communications partner in Asia @PANONYGroup. A really exciting milestone...👏 https://t.co/8sNCZkkM1j,228,18,38,2022-09-08
+1421,2022-09-12 16:28:43+00:00,1569362381872025603,FlareNetworks,Exciting news from our partners @pangolindex @Pangolin_Flare  🙌 https://t.co/RIjjkJVNWN,256,40,62,2022-09-12
+1422,2022-09-13 13:55:06+00:00,1569686109311111170,FlareNetworks,"Join us tomorrow at 3pm UTC for an open space to ask dev questions, chat with the #Flare engineering team, get some tips &amp; meet other devs building on Flare &amp; #Songbird. 
+
+Join our Discord developer channel and see you tomorrow! https://t.co/Sk9pD2pWZ0
+
+#ConnectEverything https://t.co/sxp51I89u7",181,34,42,2022-09-13
+1423,2022-09-14 14:00:52+00:00,1570049949622218753,FlareNetworks,"Starting in 1h⏰
+
+Don't miss our regular Developer Q&amp;A session in Discord. Join us today at 3pm UTC for an open space to ask dev questions, get technical recommendations, and meet like-minded devs building on #Flare &amp; #Songbird.
+
+👉https://t.co/tWcYAjoLbs
+
+#ConnectEverything https://t.co/MecxiryZAg",165,64,31,2022-09-14
+1424,2022-09-16 14:39:45+00:00,1570784508676538375,FlareNetworks,"As the #Songbird network matures, so does its inflation model. On September 22nd, at 7 PM GMT (timestamp 1663873147) we'll be moving from 10% to 8% annual inflation.
+$SGB #ConnectEverything",454,33,92,2022-09-16
+1427,2022-09-19 06:59:05+00:00,1571755741446545410,FlareNetworks,@XRPMAC816 @altsandairdrops @greenthumbniki @IIIUMINAT2 @XRPMAC816 We'll be providing a guide in due time,3,5,0,2022-09-19
+1429,2022-09-20 08:38:54+00:00,1572143248893779969,FlareNetworks,@0xRektormoon @XRPDictator @TomT_Crypto @HugoPhilion 🙏👏,2,1,0,2022-09-20
+1430,2022-09-21 07:30:19+00:00,1572488378108747776,FlareNetworks,@lIllIlllIIIll Remember to post your entries in meme-contest discord channel👍,22,1,1,2022-09-21

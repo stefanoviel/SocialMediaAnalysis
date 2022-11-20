@@ -1,0 +1,2136 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2020-01-02 19:21:12+00:00,1212816126390030337,graphprotocol,"2020 is already bubbling with possibility. As the pieces start to interlock and the teams begin to ship, what will be your part in this play?",3,1,1,2020-01-02
+2,2020-01-04 21:26:59+00:00,1213572557544148992,graphprotocol,"“We are entering a hyper-networked, hyper-intermediated and rapidly evolving information age, in which centralized institutions are losing public trust and people are searching for alternatives.” - Vitalik Buterin
+https://t.co/TXwSOdbeN3",1,0,0,2020-01-04
+3,2020-01-08 21:33:01+00:00,1215023626459611136,graphprotocol,"Congrats to our friends at @AaveAave on their launch today 🎉 
+Aave is a protocol for borrowing, lending &amp; earning interest on crypto assets. Check them out!
+https://t.co/mwD4qgSmzi",3,0,0,2020-01-08
+4,2020-01-09 20:32:12+00:00,1215370710715027456,graphprotocol,Who’s experienced in the dream stack? https://t.co/oXvwCeUSbP,1,1,1,2020-01-09
+6,2020-01-10 20:16:13+00:00,1215729073932001281,graphprotocol,Congrats @aztecprotocol on a successful Ignition. Vroom vroom! 🏎 https://t.co/lVOr4ij8GU,2,0,0,2020-01-10
+7,2020-01-14 18:59:24+00:00,1217159296489676801,graphprotocol,"Today, we're excited to announce that we will be working with @Block_Science to model and simulate The Graph's decentralized network!
+
+Checkout the latest post by our Research Lead @RezBrandon providing background on this new collaboration effort. 🚀🔭
+
+https://t.co/aVhGTUXksl",63,1,21,2020-01-14
+8,2020-01-16 19:12:15+00:00,1217887306238971904,graphprotocol,"Earlier this week we announced our collaboration with @block_science to model The Graph Network.
+
+Read about the modeling techniques that we'll be using to simulate our cryptoeconomics &amp; deal with system complexities, by our Research Lead @RezBrandon 
+
+https://t.co/r8CUhuRhJx",18,0,2,2020-01-16
+10,2020-01-18 23:02:31+00:00,1218670029522161665,graphprotocol,@owocki @META_DREAMER @3boxdb 😻 Who wants to build a subgraph for Gitcoin?,4,1,0,2020-01-18
+11,2020-01-23 18:59:53+00:00,1220420908113973249,graphprotocol,"Hello from The Graph Protocol Team
+✌️💜 https://t.co/atpoyvQNIU",35,2,1,2020-01-23
+12,2020-01-30 23:47:41+00:00,1223030052075388928,graphprotocol,"Are you going to ETH Denver?
+
+The Graph will be there helping hackers use &amp; create subgraphs &amp; build curation apps with curation subgraphs.
+
+@yanivgraph @evabeylin @martint will also be there spreading the Web3 flame. Come say hi! 🏔️🙋‍♀️",19,0,4,2020-01-30
+13,2020-01-31 00:48:34+00:00,1223045370592124929,graphprotocol,"Wow! @blocklytics built an Ethereum blocks subgraph for pulling block numbers from timestamps, using 'time-travel queries'. ⏳
+
+With this subgraph you can query historical state of entities - like a user's balance or trading volume at any given block!
+
+https://t.co/5iZnXn8wle",32,1,8,2020-01-31
+16,2020-02-05 17:59:21+00:00,1225116715140313088,graphprotocol,"If you're heading to Denver for #Buidl week, stop by our Pre-Hack social on Wed, Feb 12th in collab with @EthereumDenver @3boxdb @enigma @kauri_io @thepepoapp @dapphero!
+
+Our very own @evabeylin will be repping The Graph &amp; spreading our vision for web3 💫
+https://t.co/tqImXJ2gJp",21,0,8,2020-02-05
+17,2020-02-06 20:28:57+00:00,1225516751208820737,graphprotocol,"The Graph is back at @ethdenver ⛰
+
+This year, we're focusing on helping hackers build curation apps that can be used in our community today - like curating tokens, events, content &amp; more!
+
+Read about what we're focusing on &amp; make sure to stop by our booth
+https://t.co/FfDoZ67Ua3",4,0,0,2020-02-06
+18,2020-02-11 20:12:44+00:00,1227324611802673155,graphprotocol,"Networks supported by The Graph include:
+
+💠 Ethereum mainnet
+🚆 Kovan
+🌐 Rinkeby
+🚿 Ropsten
+🌈 Goerli
+👾 PoA-Core
+💸 xDai
+&amp; any Ethereum-compatible JSON RPC API
+
+Whether you're testing your dApp or it's already in production, deploy a subgraph for indexing &amp; querying data!",2,0,1,2020-02-11
+19,2020-02-12 17:10:00+00:00,1227641011368648704,graphprotocol,"@quentinc137 Yes every node independently calculates the new state in response to events. Handlers aren’t allowed to have side effects though so there’s no way to call external http endpoints. Instead, you could build a client that subscribes to the GraphQL endpoint.",1,1,0,2020-02-12
+24,2020-02-14 18:05:17+00:00,1228379699438440453,graphprotocol,"We remember judging the @PoolTogether_ bounty submission at last year’s ETHDenver. It was a promising idea that gave us happy feels. Easy winner.
+
+It’s awesome when promising ideas turn into thriving teams. That’s what we’re here for ✨ https://t.co/lbAGFegwvt",14,0,2,2020-02-14
+25,2020-02-15 17:30:42+00:00,1228733386765807616,graphprotocol,"The talented @PaulRBerg just launched a great new way to create Ethereum-powered React apps with a single command. 💻
+
+If you’re hacking at @EthereumDenver and want to get running quickly, give it a spin!
+https://t.co/pg7lS7ix3v",24,0,2,2020-02-15
+26,2020-02-25 03:31:42+00:00,1232146124275773440,graphprotocol,"""Once you start using @graphprotocol you quickly realize the folly of building for Web2 - which forces you to recreate the wheel (server &amp; database), learn a new set of proprietary APIs and assume liability of user data with every new application.""
+
+- @adamSoffer of @LivepeerOrg",26,0,5,2020-02-25
+27,2020-02-26 18:18:06+00:00,1232731581128691713,graphprotocol,Congrats to the @compoundfinance team on decentralizing protocol governance! 🥳 https://t.co/TMCYgo20Uq,13,0,0,2020-02-26
+28,2020-02-27 21:59:23+00:00,1233149654209941506,graphprotocol,"Curious about crypto regulation &amp; safe harbor? 
+
+Come by Crypto Underground SF on Tues, March 3rd for a fireside chat with SEC Commissioner @HesterPeirce!
+
+Moderated by @theklineventure @evabeylin of @graphprotocol https://t.co/M6oQXm4yES",2,0,0,2020-02-27
+30,2020-03-02 18:22:29+00:00,1234544624787546115,graphprotocol,"Congrats to @VENTURE_DAO on their launch &amp; a successful audit of Moloch v2 contracts! 🔥
+
+Great collaboration b/w the folks at @MolochDAO  @meta_cartel @ConsenSysAudits
+
+Use MCV's subgraph to track funding proposals, votes &amp; member balances (investments)! https://t.co/AGstmhd5nU",20,0,2,2020-03-02
+31,2020-03-03 17:36:16+00:00,1234895381453922304,graphprotocol,"In February, two new team members joined the 
+@graphprotocol mission. 
+
+Welcome @martint (fmr Open Zeppelin) and @abarmat (fmr Decentraland)! 🧑‍🚀
+
+We're excited to collaborate on providing open API access for all!",16,0,1,2020-03-03
+32,2020-03-04 21:22:01+00:00,1235314577979604992,graphprotocol,"Here's to having amazing docs @synthetix_io! 🙌
+
+Learn how you can access Synthetix historical data by querying subgraphs - data like contract events &amp; calls, historical exchange, rates &amp; deposits. 📈
+
+https://t.co/yDizRNZ56T",17,0,5,2020-03-04
+36,2020-03-05 22:08:39+00:00,1235688702795345921,graphprotocol,"Interested in the best DeFi opportunities?
+
+Check out this post by @deanpierce where he summarizes how to query the @UniswapExchange subgraph to compare return rates for liquidity providers for different markets!
+
+https://t.co/V9qDrAMEeE",3,0,0,2020-03-05
+39,2020-03-06 00:23:49+00:00,1235722717464121344,graphprotocol,@xGozzy https://t.co/bh1nFfJm0r,2,0,0,2020-03-06
+41,2020-03-10 00:23:53+00:00,1237172285875736576,graphprotocol,Too easy to build on The Graph. HT @mirshko https://t.co/s97LcKDKvf,8,0,1,2020-03-10
+44,2020-03-11 21:49:38+00:00,1237858245110202368,graphprotocol,@eithco @daostack @MolochDAO @AragonProject And a Daohaus subgraph for Moloch v2! https://t.co/VXukYuVtMQ,1,0,0,2020-03-11
+48,2020-03-12 20:21:33+00:00,1238198466884415488,graphprotocol,"""Finance on Ethereum has had its moment of realization. $1B locked in DeFi means there's real value here.
+
+But Ethereum's computation layer hasn't really had that moment yet and I think @graphprotocol could be it."" ✨
+
+- @mhonkasalo from @tokenterminal",8,0,1,2020-03-12
+50,2020-03-13 15:49:22+00:00,1238492354857668609,graphprotocol,"Yesterday @UniswapExchange experienced all time high volume for DAI trades, 3x typical volume!
+
+DAI/ETH even traded more than DAI pairs on CEXs! 😱
+
+#DeFi &gt; #CeFi
+
+https://t.co/1rcy3rd2VA",13,1,1,2020-03-13
+51,2020-03-17 18:01:25+00:00,1239975141389418498,graphprotocol,"Quarantine ideas:
+
+🏗️ build a dApp
+🚀 launch a subgraph
+🤝 integrate dApp with other subgraphs
+🌲 grow the open data economy
+
+https://t.co/UprxBxgaUb",9,0,0,2020-03-17
+54,2020-03-19 04:54:04+00:00,1240501770205286407,graphprotocol,The Graph is working hard to fulfill this vision 🙌 https://t.co/nbeApPBto3,7,0,0,2020-03-19
+57,2020-03-23 00:37:12+00:00,1241886680396599296,graphprotocol,@mr_ligi Fixed. Thanks 🙏,1,0,0,2020-03-23
+58,2020-03-24 18:38:41+00:00,1242521233943490560,graphprotocol,"You can now stay up to date about the health &amp; reliability of The Graph’s hosted service, including uptime for indexing, logs &amp; deployments. Subscribe to receive updates! 💡
+
+https://t.co/Z1W6qUgIb8",3,0,1,2020-03-24
+59,2020-03-25 21:21:42+00:00,1242924644228689920,graphprotocol,"Welcome @Melt_Dem to the future of serverless identity! 🚀🆔
+
+https://t.co/S6aMMTFcV9",2,0,0,2020-03-25
+60,2020-03-26 18:50:53+00:00,1243249079544475648,graphprotocol,"Aragon Court is back up! Check out how you can become a juror ⚖️
+
+Jurors are given tasks such as reviewing evidence, voting on disputes &amp; executing rulings to uphold governance in the @AragonProject ecosystem &amp; earn rewards while doing it.
+
+https://t.co/oQ422XHEM0",5,0,1,2020-03-26
+61,2020-03-27 17:24:52+00:00,1243589818858090496,graphprotocol,"One of the most exciting DeFi protocols using The Graph for indexing on-chain data is @AaveAave! 
+
+Read about the cool data you can query about flash loans, price oracles &amp; borrow history! 💸
+
+https://t.co/YibOTk4Xvf",82,0,9,2020-03-27
+63,2020-03-30 23:05:19+00:00,1244762660064747520,graphprotocol,"There are so many reasons to stream payments with @SablierHQ to make your life easier! Payroll, grants, subscriptions &amp; more 💳
+
+https://t.co/LA2Q5zdmDn",17,1,5,2020-03-30
+64,2020-03-31 01:31:00+00:00,1244799322194993152,graphprotocol,@SablierHQ 🙌,1,0,0,2020-03-31
+67,2020-04-01 21:00:41+00:00,1245456069930831872,graphprotocol,"Now you can build password-less applications with zero-knowledge proofs! 
+
+Fortmatic is paving the way for using Ethereum to revolutionize Web2 development 👨‍💻 https://t.co/tMyRc2htRT",14,1,7,2020-04-01
+68,2020-04-03 16:50:23+00:00,1246117855654887425,graphprotocol,"Did you know that all data emitted by @opyn_ smart contracts is captured by a subgraph?
+
+The subgraph supports https://t.co/KPPacb8mFn &amp; can be used by any dApp developer to query data like yield rates &amp; options pricing. https://t.co/6wVd8nlcL3
+
+DeFi is powered by The Graph! 🚀",26,1,6,2020-04-03
+69,2020-04-08 21:45:26+00:00,1248004046234857472,graphprotocol,"This is the vision we’ve been working towards for over 2 years! The Graph will be a fully serverless decentralized network. 🚀
+
+https://t.co/gRhq41wizu",47,0,11,2020-04-08
+70,2020-04-10 22:55:35+00:00,1248746477184151553,graphprotocol,"""After having spent a little over a week using 
+@graphprotocol, this is pretty sweet stuff. Seriously nice job."" - @ejwessel building a subgraph for @Airswap 💸
+
+Check out our docs to deploy your very own #DeFi subgraph!
+
+https://t.co/UprxBxgaUb",23,1,7,2020-04-10
+75,2020-04-12 14:54:16+00:00,1249350124356042757,graphprotocol,"@cryptodiario @spencernoon Yes, we only index verifiable data from decentralized networks. Oracles like @chainlink and snapshotting services like those on @ceramicnetwork are great ways to get more verifiable data on chain.",2,0,0,2020-04-12
+78,2020-04-13 22:45:17+00:00,1249831047593787394,graphprotocol,We love people who believe in decentralization 🌍 https://t.co/YOsWoL0oqy,6,0,0,2020-04-13
+79,2020-04-14 01:09:47+00:00,1249867414734426112,graphprotocol,"Want to stay up to date with @graphprotocol? Subscribe to our quarterly newsletter!
+
+Q1 highlights:
+
+🔎 Full-text search &amp; dev updates 
+📈 67% MoM query growth
+🚀 Deployed subgraphs for @Dharma_HQ @opyn_ @synthetix_io @decentraland @BalancerLabs &amp; more!
+
+https://t.co/eiSdZUJhSN",14,1,3,2020-04-14
+82,2020-04-15 00:02:24+00:00,1250212842550128640,graphprotocol,"The Graph currently supports Ethereum &amp; IPFS, but we're working to expand multi-blockchain!
+
+Which blockchain would you like to see next?",5,5,1,2020-04-15
+84,2020-04-16 20:34:28+00:00,1250885292719919104,graphprotocol,"Congrats to @Mintbase for creating 500 stores 🥳
+
+Mintbase is Product Hunt for NFT's: you can buy tokenized art, photography, tickets, in-game assets &amp; more!
+
+https://t.co/3ZWiXW9Wxi",11,0,2,2020-04-16
+85,2020-04-20 19:31:49+00:00,1252319075734192128,graphprotocol,"Subgraphs are really useful for efficiently querying data &amp; can replace JSON RPC or Rest APIs.
+
+@Airswap just deployed their subgraph to capture exchange data! If you're a DeFi aggregator, an exchange dApp or building on top of Airswap, use the subgraph!
+https://t.co/HJ2bxZTrf6",19,0,6,2020-04-20
+86,2020-04-21 20:17:25+00:00,1252692939362283520,graphprotocol,"There's a new #DeFi dApp on the scene! 
+
+Yesterday @futureswapx launched a perpetual futures market, with ERC20 futures &amp; up to 20x leverage.
+
+Want to capture Futureswap exchange data on your dApp? Query the subgraph! cc @defipulse @defiprime @DefiRate
+
+https://t.co/7TP2QB7Clg",12,3,2,2020-04-21
+90,2020-04-22 20:01:13+00:00,1253051249294864387,graphprotocol,"Congrats to all winners of the BSIC Incubator @ethereum4impact! 3 Incredible dApps won prizes for building with @graphprotocol:
+
+☁️ @CO2ken_io - carbon footprint accounting system
+
+🐺 Wolfpack - gig economy tools to empower the homeless
+
+👫 Abundance - community donation platform",10,2,1,2020-04-22
+92,2020-04-24 20:43:45+00:00,1253786732438278144,graphprotocol,@Lindw0rm Great question for @tezos @TezosFoundation 🙂,2,1,0,2020-04-24
+94,2020-04-25 20:48:17+00:00,1254150258927366144,graphprotocol,Hacking at the @ETHGlobal HackMoney event? Use the Balancer subgraph for easy development and qualify for their bounties! https://t.co/wPIkuaMB8L,11,0,1,2020-04-25
+96,2020-04-27 22:20:18+00:00,1254898193516511233,graphprotocol,"The Graph is listed on @EverestRegistry 
+
+https://t.co/9w8NPErogH https://t.co/lMMTAXjJdy",5,0,1,2020-04-27
+101,2020-04-28 19:51:02+00:00,1255223013961801730,graphprotocol,"Wow! The @AragonOneTeam ran a workshop about implementing the Aragon Court subgraph &amp; learnings from using The Graph.
+
+https://t.co/jvBs5nDkdf",23,0,6,2020-04-28
+104,2020-04-29 19:09:16+00:00,1255574893506097152,graphprotocol,"The Graph enjoyed partnering with @ethereum4impact BSIC 2020 Incubator. 
+
+Another big round of digital applause to the three teams that won special Graph prizes! 🌱🌎  #EarthDayAwards Congrats @CO2ken_io, Wolfpack &amp; Abundance! 👨🏼‍🚀 
+
+https://t.co/yt1X7txfOd",18,1,4,2020-04-29
+106,2020-04-30 21:50:07+00:00,1255977758192103424,graphprotocol,"Want to stay up to date with DeFi governance? 
+
+Check out https://t.co/xWb24wS2UF that tracks all timelocked &amp; executed spells (governance decisions) for @MakerDAO @compoundfinance @Dharma_HQ @dydxprotocol @CurveFinance &amp; @ddexio2018 protocols! 
+
+Built on The Graph ✨",44,2,12,2020-04-30
+108,2020-05-01 17:39:14+00:00,1256277012651470848,graphprotocol,"Are you building a dApp and querying blockchain data? 
+
+Take a look at the subgraphs deployed by other dApps that you can use today, or deploy a new one! &amp; don't forget to keep us posted on your progress 😜
+
+https://t.co/dVcRXXUopL",11,0,5,2020-05-01
+109,2020-05-04 23:12:57+00:00,1257448156054401025,graphprotocol,"Very cool ZRX stake tracker for @0xProject built by @DestinerX using The Graph! 📈
+
+Use it to check ROI per market maker pool - currently there are 7 active pools with 0.79% average ROI.
+
+https://t.co/U6lyrqsSdI",7,0,1,2020-05-04
+110,2020-05-05 20:18:29+00:00,1257766638432120832,graphprotocol,"Congrats to the @optimismPBC team for dropping their latest OVM demo this time for @synthetix_io, just by migrating existing contracts &amp; using the Synthetix subgraph 🤯
+
+#TeamNoCustomCode
+https://t.co/rgejXEYy5R
+https://t.co/Vp8D57Errs",20,0,2,2020-05-05
+111,2020-05-07 19:28:22+00:00,1258478803979956224,graphprotocol,"Tonight at @EtherealSummit is jam packed!
+
+Tune in at 4:15pm PST (7:15pm EST) to hear @evabeylin discuss The Graph vision and how we're making decentralized applications possible 💫 Followed by @kaiynne from @synthetix_io to close out the day!
+https://t.co/eyWqhO6fGo",14,0,4,2020-05-07
+114,2020-05-08 15:36:45+00:00,1258782899983142917,graphprotocol,@calchulus @DestinerX Check out https://t.co/dVcRXXUopL to search for deployed subgraphs!,2,0,0,2020-05-08
+115,2020-05-09 01:03:02+00:00,1258925410902962177,graphprotocol,"Mike the subgraph champ 🏆
+
+Find subgraphs at https://t.co/dVcRXXUopL https://t.co/85TTFazOXr",5,0,0,2020-05-09
+116,2020-05-10 20:07:40+00:00,1259575856218832899,graphprotocol,@The3D_ @spencernoon @AaveAave Awesome thanks @The3D_ 🙌,2,0,0,2020-05-10
+117,2020-05-11 20:40:12+00:00,1259946432678604801,graphprotocol,"Thanks to @gnosisPM for building a subgraph monitor that tracks the status of all deployed subgraphs!
+
+https://t.co/MAMUifx9zG",14,0,2,2020-05-11
+118,2020-05-12 14:49:14+00:00,1260220494780837888,graphprotocol,You mean like GraphQL Mutations? We gotchu fam. Stay tuned 🔭 https://t.co/ry2HdK2oGO,28,4,4,2020-05-12
+119,2020-05-13 17:13:45+00:00,1260619253671055362,graphprotocol,"In case you missed it, check out @evabeylin speaking at @EtherealSummit about The Graph, our vision &amp; how we're making decentralized applications possible. 👩‍💻
+
+https://t.co/sDEKrYq5oo",13,0,4,2020-05-13
+120,2020-05-14 22:57:32+00:00,1261068157340405760,graphprotocol,"We launched @EverestRegistry two weeks ago &amp; there are already 200+ projects listed!
+
+With Everest we hope to bring utility to our community &amp; create project identities that can be used across applications. Web3 composability ftw! 🏔️
+
+https://t.co/qfobPIIArU",16,0,6,2020-05-14
+122,2020-05-15 16:50:06+00:00,1261338074673410048,graphprotocol,"It's only been a few days &amp; there's already a rinkeby subgraph tracking token transfers &amp; user accounts for Reddit's r/Cryptocurrency $MOON ! 🧑‍🚀🌚
+
+https://t.co/r8QzymLIm2",21,0,4,2020-05-15
+123,2020-05-18 16:09:36+00:00,1262415049441685506,graphprotocol,"Last week @Opium_Network launched their new derivatives exchange with the first Ethereum gas-price options, so users can hedge against high gas fees! ⛽️
+
+https://t.co/K9nkn7ZXXY",17,2,4,2020-05-18
+127,2020-05-19 16:21:33+00:00,1262780441418858497,graphprotocol,This is why we're working to make serverless applications possible 🚀 https://t.co/bEahUBrNpw,23,0,3,2020-05-19
+129,2020-05-21 01:47:30+00:00,1263285258520166406,graphprotocol,Congrats to @AaveAave for reaching $70M in less than 5 months since launch! 🚀 https://t.co/vNX2Mccmas,23,1,5,2020-05-21
+131,2020-05-25 19:35:35+00:00,1265003598238240768,graphprotocol,You can build GOD mode DeFi trading apps with @graphprotocol 💪 https://t.co/FueUdwtyqP,11,0,1,2020-05-25
+132,2020-05-26 20:56:42+00:00,1265386401618485249,graphprotocol,"Congrats @Centrifuge on the launch of Tinlake &amp; Centrifuge chain!
+
+Check out the Tinlake subgraph for a peak into pools, trades &amp; loan data 📊 https://t.co/WmCt3Pkusq",27,1,5,2020-05-26
+133,2020-05-27 18:49:23+00:00,1265716749103624194,graphprotocol,"Check out the Ren app to mint renERC20 tokens (BTC, BCH or ZEC) or query the subgraph to track value locked on Ethereum! 
+
+cc @defipulse @defiprime @DefiRate @spencernoon @teo_leibowitz @TrustlessState @RyanSAdams
+
+https://t.co/3ugI4PqLM3",4,0,0,2020-05-27
+137,2020-05-28 18:09:43+00:00,1266069156291424256,graphprotocol,"Congrats to @withFND for launching a culture stock exchange: a DEX for rare goods!
+
+Since Foundation is built on @graphprotocol you can easily find data about markets, creators, products &amp; pricing!
+
+Check out the first live market https://t.co/WzRHOmXDyx",12,1,0,2020-05-28
+139,2020-05-29 16:59:13+00:00,1266413802267881472,graphprotocol,"Don't miss the Crypto Business Development event today @ 5pm PST!
+
+If you're starting up in crypto, this is a must see. Thanks @she_256 @compoundfinance for organizing a stellar lineup of experts:
+
+@xochitlcazador
+@theklineventure
+@WaverlyMaven
+@cjliu49 
+
+https://t.co/UruOvkjHBR",4,0,1,2020-05-29
+143,2020-06-01 16:37:46+00:00,1267495565685747713,graphprotocol,Great ideas to build on top of @mintbase @graphprotocol!   👇 https://t.co/13jjQ4gfEd,5,0,2,2020-06-01
+144,2020-06-04 17:52:53+00:00,1268601633300086784,graphprotocol,"A subgraph for @SetProtocol is now LIVE on mainnet! 
+
+You can use the subgraph to query data about token sets for your DeFi dApp, wallet or data aggregator. Thanks @ProtoFire_io for building it!
+
+https://t.co/83zlHILlEH",32,1,11,2020-06-04
+146,2020-06-08 18:14:16+00:00,1270056566507442176,graphprotocol,"We're excited to announce an integration with @chainlink allowing all indexed data from subgraphs to be potential data sources for Chainlink oracles.
+
+The Graph + Chainlink are critical middleware that make decentralized applications possible. 🚀
+
+https://t.co/0KaXQSKuLi",215,7,46,2020-06-08
+147,2020-06-10 19:12:37+00:00,1270796025549053952,graphprotocol,"We just launched a fresh set of new docs! 😎
+
+Walk through how to set up a Graph node, deploy or query a subgraph &amp; learn about GraphQL APIs.
+
+https://t.co/7DSvm2Z7HS",45,1,10,2020-06-10
+149,2020-06-16 20:18:04+00:00,1272986825733226496,graphprotocol,"We're thrilled to announce the @Instadapp subgraph is now live!
+
+The subgraph captures data from Instadapp DeFi Accounts, like user balances, their investments &amp; more! What better way to track DeFi activity?
+
+The Graph is powering DeFi 🚀
+
+https://t.co/F34bKfnRVv",31,1,8,2020-06-16
+151,2020-06-17 15:11:22+00:00,1273272029177802752,graphprotocol,"Congrats @compoundfinance on distributing protocol governance! 💸
+
+Want to track $COMP holders, their votes &amp; proposals? Integrate the Compound Governance subgraph! Built by @ProtoFire_io 
+
+https://t.co/ovVzXQh6My",5,0,2,2020-06-17
+152,2020-06-18 16:30:04+00:00,1273654221045301248,graphprotocol,"Now you can easily integrate DAO functionality into any dApp with Aragon Connect!
+
+Connect is a new toolkit including Aragon subgraphs, making it super easy for developers to integrate DAO features &amp; build highly performant dApps!
+
+https://t.co/HdvpT9fu1I https://t.co/lAvhZ5g5mT",33,3,9,2020-06-18
+155,2020-06-19 00:22:52+00:00,1273773205778337792,graphprotocol,@kaiynne @TusharJain_ @evabeylin Creating peace since 2020 👫,6,0,0,2020-06-19
+157,2020-06-22 17:53:32+00:00,1275124778966212609,graphprotocol,"Congrats @multisHQ on the app revamp! 
+
+We're excited that subgraphs are a part of making beautiful experiences for DeFi users 💫
+
+https://t.co/oXeW9oxrc1",14,0,1,2020-06-22
+158,2020-06-23 22:53:36+00:00,1275562679948603392,graphprotocol,"There's also live subgraphs for @gnosisPM @centrifuge @betokenfund @Opium_Network @airswap @futureswapx 
+
+...&amp; @Instadapp @AugurProject @loopringorg @ddexio2018 @bzxHQ coming soon! 📊 #DeFi
+
+Find them here:
+https://t.co/YTigRoVJPg",13,1,2,2020-06-23
+161,2020-06-24 13:17:58+00:00,1275780206368821249,graphprotocol,@1inchExchange Hey @1inchExchange we are aware of the issue and the team is working hard to resolve it! We’ve seen a dramatic increase in usage and are scaling our infrastructure.,6,1,0,2020-06-24
+166,2020-06-25 21:17:34+00:00,1276263287252910080,graphprotocol,"The Aragon team just keeps shipping! ⛴️
+
+Today they launched a new stats page where you can check metrics like ANT staked, token holders in the Aragon Network, number of jurors in Aragon Court, or supply of ANJ! @AragonProject 
+
+https://t.co/PvE1LIriN4",27,2,7,2020-06-25
+175,2020-06-26 04:10:20+00:00,1276367164321091586,graphprotocol,"Here's the postmortem for our service disruptions. We're committed to taking the necessary steps to ensure developers can depend on our hosted service until we’re ready to transition to the network. 
+
+Together, we’ll get DeFi and Web3 to infinite scale 💪
+https://t.co/wRuioYMgAu",124,4,24,2020-06-26
+177,2020-06-30 13:20:28+00:00,1277955163936813058,graphprotocol,Today we’re excited to announce that we’ve raised $5M and we have the funding we need to build and launch the decentralized network! 🚀🚀 https://t.co/RyDCRSIPcc,313,26,53,2020-06-30
+182,2020-07-01 18:52:35+00:00,1278401127579439105,graphprotocol,Use the Omen subgraph to query for historical data: https://t.co/IcRWCvbOND,5,0,0,2020-07-01
+188,2020-07-06 00:15:21+00:00,1279931906419613697,graphprotocol,"The HackFS @ETHGlobal event starts tomorrow. Come hack with us on @ethereum @IPFS @Filecoin and @graphprotocol! We’re giving away bounties and will be around to help hackers build next level dApps!
+https://t.co/WUmwFxaWIj https://t.co/MylxoHMRs8",23,0,5,2020-07-06
+192,2020-07-07 20:03:29+00:00,1280593299221344256,graphprotocol,"Congrats to @AaveAave for launching a new DeFi primitive: Credit Delegation!
+
+Aave is revolutionizing decentralized credit &amp; lending markets. 📈
+
+https://t.co/2wPncFmxCY",80,1,13,2020-07-07
+196,2020-07-08 16:30:52+00:00,1280902178618503173,graphprotocol,"Have you been sleeping on @EverestRegistry? We haven't!
+
+Over 225 crypto projects are listed! Most recently,  @Opium_Network @StateraProject @Falcon_SBS &amp; @cryptoartnet were added.
+
+Are you even in crypto if your project isn't on Everest? Add yours!
+
+https://t.co/lQvTgxgV8j",38,3,16,2020-07-08
+201,2020-07-09 17:00:08+00:00,1281271932000731136,graphprotocol,"If you're just getting started with The Graph, check out this workshop by @jannispohlmann for #HackFS.
+
+Learn about the Graph Explorer &amp; how to build a subgraph! Jannis chose the @MolochDAO contracts to index for this demo 👹
+
+https://t.co/gbHwstKfoc",14,0,3,2020-07-09
+202,2020-07-10 16:24:11+00:00,1281625272735821824,graphprotocol,"This week's Our Network features The Graph! 
+
+Read about our traction &amp; the trends we're seeing in Ethereum development 👩‍💻
+https://t.co/2S5gvVfKI7",15,0,2,2020-07-10
+203,2020-07-14 17:21:34+00:00,1283089265392447490,graphprotocol,@MessariCrypto 1B queries in June alone!,5,1,0,2020-07-14
+204,2020-07-15 20:37:22+00:00,1283500929606488064,graphprotocol,anyone still unclear on the vision of decentralized servers &amp; databases? @graphprotocol 🚀 https://t.co/KRH1Q0un6H,55,2,14,2020-07-15
+210,2020-07-16 19:45:22+00:00,1283850231365242880,graphprotocol,"Aave can't be stopped! 
+
+In the last month:
+
+💰 Raised $3M
+💳 Launched Credit Delegation
+💹 Collateral &amp; market support for new tokens
+🎁 Round 2 of Ecosystem Grants
+👫 Announced Aave Coalition 
+💻 New apps on top like @PodsFinance @aavegotchi @jelly_swap @yieldhero!",72,3,14,2020-07-16
+214,2020-07-17 17:13:04+00:00,1284174289311154176,graphprotocol,"Big week for @mstable_ !
+
+📲 Announced integration with @FTX_Official 
+💸 Fundraise from @AlamedaResearch 
+📊 $MTA sale July 18 on @mesa_eth 
+🏊 Launched $mUSD pool on @BalancerLabs 
+🌐 Launched @mstable_ subgraph
+
+mStable is meaningfully bridging the gap b/w CeFi and DeFi.",35,1,3,2020-07-17
+216,2020-07-20 16:34:01+00:00,1285251629143347200,graphprotocol,"Subgraphs enable dApp interoperability 🔁
+https://t.co/pninxh1cZs",20,0,2,2020-07-20
+218,2020-07-21 01:00:00+00:00,1285378962403676160,graphprotocol,"Interested in staying up to date with The Graph?
+
+Subscribe to our newsletter to be first to hear about technical updates, new subgraphs &amp; more! 
+https://t.co/jHJqK5LyXY",34,2,2,2020-07-21
+220,2020-07-23 21:15:57+00:00,1286409743439806465,graphprotocol,"There's still 3 days left in #HackforFreedom &amp; we have 2x 1000 DAI bounties for building apps with a subgraph on top of @AragonProject!
+
+Bounty 1) Reputation Building dApp
+Bounty 2) Team Management UI
+
+Submit by July 27th at midnight UTC to qualify. https://t.co/rO0v2zzxpg",6,1,2,2020-07-23
+226,2020-07-27 16:08:01+00:00,1287781797934141450,graphprotocol,"Today we are thrilled to announce the launch of Mission Control: The Graph's incentivized testnet!
+
+We have spent over 2 years refining subgraph features &amp; building out the decentralized network to make fully serverless applications possible. 👨‍🚀
+
+https://t.co/5Bzc9FaT64",176,8,57,2020-07-27
+229,2020-07-29 20:28:35+00:00,1288572147946762240,graphprotocol,"Congrats to @AaveAave on an epic Aavenomics Proposal:
+
+&gt; Decentralized protocol governance
+&gt; $LEND token migration to $AAVE 
+&gt; Safety Module (SM) for insuring shortfall risk
+&gt; Staking in SM via AAVE @BalancerLabs pools
+&gt; New Ecosystem Reserve
+
+https://t.co/eT61sq7bCK",18,0,1,2020-07-29
+230,2020-07-30 00:06:24+00:00,1288626964299837442,graphprotocol,"Thank you to all the node operators that have registered to be an Indexer on The Graph Network — You are contributing to bringing open data to the world!
+
+The Mission Control Kickoff Call is tomorrow at 8am PT. 
+Registration is still open. Sign up today!
+https://t.co/BFJrsKPiQj",13,0,4,2020-07-30
+231,2020-07-31 20:14:55+00:00,1289293486588485632,graphprotocol,"We know you've all been waiting for it... the @AugurProject subgraph is officially LIVE on mainnet and ready to be queried! 🥳
+
+If you're building a prediction market on top of Augur, use this subgraph to index on-chain data!
+
+Built by @ProtoFire_io 
+https://t.co/OLFE45A30r",71,1,12,2020-07-31
+235,2020-08-03 20:49:08+00:00,1290389259292160000,graphprotocol,"Congrats @mstable_ on launching Earn! 
+
+Go to https://t.co/Ju2x8W1Eaw to check the latest pools! 🏖️ https://t.co/1k3GdteS9G",34,1,7,2020-08-03
+237,2020-08-10 17:59:31+00:00,1292883290916114435,graphprotocol,"""We are happy to be bringing The Graph to @SkaleNetwork's layer 2 ecosystem. With this integration, developers building on SKALE chains will have access to The Graph for building fast, reliable &amp; fully decentralized applications."" ⛓️
+
+- @yanivgraph Project Lead at The Graph https://t.co/KsNXT1Imkl",104,2,26,2020-08-10
+242,2020-08-11 17:40:31+00:00,1293240895551287296,graphprotocol,@santisiri https://t.co/UYE7V0EgFv,1,0,0,2020-08-11
+250,2020-08-12 15:14:13+00:00,1293566467787698184,graphprotocol,"stop everything. 
+
+while you were mashing your yams, @DennisonBertram built a YAM subgraph @YamFinance 🍠
+
+https://t.co/0cSHrdNUiB",26,2,0,2020-08-12
+252,2020-08-13 18:42:37+00:00,1293981298478981120,graphprotocol,"Not sleeping because of DeFi? organize yourself!
+
+Create a DeFi dashboard to track your trades &amp; more by querying Ethereum subgraphs 📊
+https://t.co/AYlPHDbSEw",25,0,6,2020-08-13
+253,2020-08-14 15:36:52+00:00,1294296940260270082,graphprotocol,"Thanks to @MikoBits for having @theklineventure on your show to talk all things The Graph, adoption &amp; how subgraphs are powering DeFi!
+
+https://t.co/q7QczFzmOg",9,1,1,2020-08-14
+257,2020-08-17 16:19:18+00:00,1295394786036322304,graphprotocol,Check out this dope analysis from @realmubaris on @AaveAave liquidations by querying the Aave subgraph! https://t.co/N26rmdPrVX,19,0,1,2020-08-17
+258,2020-08-18 03:09:35+00:00,1295558434272579584,graphprotocol,🎶 🔊 https://t.co/gGJRCVY9vd,8,0,0,2020-08-18
+260,2020-08-19 03:07:42+00:00,1295920348651692033,graphprotocol,@NpcCrypto We're not for sale 😉,1,0,0,2020-08-19
+263,2020-08-20 00:50:12+00:00,1296248133484081152,graphprotocol,"@the_ethernaut Check out our Subgraph Grafting feature. We had to disable this on the hosted service because of performance issues, but hopefully we'll be able to land this soon!
+https://t.co/x0zuPyariI",3,1,0,2020-08-20
+265,2020-08-24 20:03:29+00:00,1297987915201556487,graphprotocol,"Congrats @akropolisio on launching Delphi - a dapp that automates yield farming &amp; helps you find the best Defi opportunities! 🪙
+
+https://t.co/teCN8JbaZr",115,1,12,2020-08-24
+267,2020-08-25 19:11:02+00:00,1298337105823838208,graphprotocol,"We just updated the Testnet Leaderboard with scores for our Indexers in Phase 0!
+
+210 Indexers are being scored on technical performance &amp; community contributions throughout the testnet. Now onto Phase 1: Basic Protocol Actions! 🚀
+
+https://t.co/451YgVOByw",27,1,4,2020-08-25
+268,2020-08-27 21:00:43+00:00,1299089484185612289,graphprotocol,Are we there yet? #Web3 https://t.co/zQxgRrJxJo,5,0,0,2020-08-27
+271,2020-08-28 14:41:27+00:00,1299356426670927872,graphprotocol,"Thanks @pi0neerpat for writing about your experience setting up a Graph Node! Learn more about what it takes to be an Indexer 😊
+
+https://t.co/GGfz0ZL3yM https://t.co/djf5wGkL38",27,1,3,2020-08-28
+272,2020-08-31 21:18:04+00:00,1300543402879193095,graphprotocol,"We are thrilled to be part of the @Chainlink hackathon! ⚒️
+
+Our very own @theklineventure will be judging &amp; we'll be awarding 2 bounties for the best subgraphs! 
+
+Use a subgraph for on-chain data, index Chainlink oracle data, or build a Graph Oracle!
+
+https://t.co/yb02JdtKwJ",177,2,47,2020-08-31
+274,2020-09-01 22:57:03+00:00,1300930697461403648,graphprotocol,"More than 200 Indexers from over 40 countries have deployed Graph Nodes in Phase 0 of our testnet. 🌎
+
+Read about Mission Control &amp; what's coming next!
+
+https://t.co/ZGQ2w7Lp7i",53,1,9,2020-09-01
+275,2020-09-02 20:08:06+00:00,1301250570314027010,graphprotocol,"Thanks to Chainslation for translating several of our blog posts into Mandarin!
+
+Read about The Graph In-Depth &amp; our explosive query growth 🚀
+
+https://t.co/KCaB2xiE52 https://t.co/1R2gwdK9Nk",8,0,0,2020-09-02
+276,2020-09-03 15:02:21+00:00,1301536014259957763,graphprotocol,Congrats @Opium_Network on being the first project to bring credit default swaps to crypto! 🥳 https://t.co/YfAA4A7mUc,16,2,3,2020-09-03
+279,2020-09-04 17:14:47+00:00,1301931728471117824,graphprotocol,Join us at @DystopiaLabs Oct 16-18 &amp; catch @jannispohlmann talking about the future of The Graph! https://t.co/ViG9btpTVk,14,0,5,2020-09-04
+282,2020-09-06 15:10:47+00:00,1302625297515180033,graphprotocol,@gorgos Thanks for the write up! The Graph is 2 words btw 😉,2,1,0,2020-09-06
+284,2020-09-10 15:28:36+00:00,1304079335955988482,graphprotocol,"Are you handy with Ethereum data? Get involved in the Medalla Data Challenge!
+
+If you're a data scientist, data visualizer or engineer, Medalla needs your help to make sense of testnet and validator data 👩‍💼
+
+https://t.co/K5Kfy2YJeg",24,1,4,2020-09-10
+286,2020-09-14 15:41:37+00:00,1305532160934391809,graphprotocol,"If you're just getting familiar with The Graph, check out this great ELI5 by @jklepatch!
+
+https://t.co/hgiF7U1SHQ",4,0,1,2020-09-14
+288,2020-09-15 00:11:42+00:00,1305660529021800449,graphprotocol,"We're excited about @pine_eth bringing limit trades to AMMs! 
+
+Query the Pine Finance subgraph to track the limit orders made on @UniswapProtocol and @BalancerLabs 📊
+
+https://t.co/lTIHVyOhI3",38,1,4,2020-09-15
+290,2020-09-16 15:33:38+00:00,1306254928025915392,graphprotocol,We feel you. https://t.co/6apl3axo4C,23,1,5,2020-09-16
+291,2020-09-17 19:14:27+00:00,1306672887772991488,graphprotocol,"With over 200 Indexers in Mission Control we're thrilled to invite Curators to join us on the journey to mainnet launch!
+
+Learn how you can complete Curator missions, contribute to The Graph, and earn an early stake in the network 👩‍🚀
+
+https://t.co/huxsGbW9Xx",401,31,177,2020-09-17
+293,2020-09-18 18:13:33+00:00,1307019947290181632,graphprotocol,1/2 This morning the hosted service hit an error that caused the Uniswap subgraph to get stuck. This impacted the data shown on https://t.co/1rcy3rd2VA  but *did not* impact https://t.co/MivhexCtt6. The issue was fixed around 6am PT but because the subgraph is so data,24,1,4,2020-09-18
+295,2020-09-19 02:53:19+00:00,1307150753039962112,graphprotocol,"Post mortem for today’s incident on the hosted service affecting the Uniswap subgraph.
+https://t.co/BEIGeyuszB",18,0,3,2020-09-19
+296,2020-09-20 23:48:53+00:00,1307829113504366592,graphprotocol,where subgraph devs at 🌪 https://t.co/nkz3IockMG,19,0,1,2020-09-20
+297,2020-09-21 18:37:02+00:00,1308113022150295552,graphprotocol,"There's only 1 week left in the @chainlink hackathon!
+
+Don't miss the chance to win 2x bounties for the best subgraph that indexes oracle data 🏆
+
+https://t.co/yb02JdLloh",66,0,16,2020-09-21
+299,2020-09-22 00:49:08+00:00,1308206663241887745,graphprotocol,"Is the DeFi wave over? Not a chance! Projects like @UniswapProtocol @synthetix_io @AaveAave @BalancerLabs @compoundfinance and many others are building game changing financial infrastructure.
+
+Hype is fleeting. Fundamentals are real. And we’re just getting started! 
+👩‍🚀 🏄🏻‍♀️💫",170,9,40,2020-09-22
+301,2020-09-23 18:19:39+00:00,1308833424040484866,graphprotocol,"Congrats to Tellor on launching v2 of their protocol! 🎉
+
+Query the new Tellor subgraph if your app uses Tellor oracle data 🔍 https://t.co/VcD52l65XP https://t.co/rPmYpcbCyO",62,2,11,2020-09-23
+302,2020-09-24 20:44:15+00:00,1309232198508138496,graphprotocol,"Today we are excited to share a comprehensive overview of The Graph GRT Token Economics!
+
+Read about the network incentives for providing indexing &amp; curating services and the Graph Token (GRT) ✨
+
+https://t.co/3rkqTzEdpc",260,6,62,2020-09-24
+304,2020-09-25 03:37:21+00:00,1309336160964022272,graphprotocol,Yesterday we switched the DNS provider for the hosted service to Cloudflare. It appears that Cloudflare has been rate limiting ~2% of the traffic on the hosted service since 12pm today. We are working with them to get this resolved ASAP.,23,3,1,2020-09-25
+306,2020-09-28 18:17:07+00:00,1310644722608689152,graphprotocol,"Do you need to query @chainlink data? 
+
+@AlphaChainio built a neat tool in python that lets you easily query the subgraph for Chainlink Price Feeds!
+
+https://t.co/Js7Y2n8evv",74,1,18,2020-09-28
+308,2020-09-29 16:36:40+00:00,1310981830904918016,graphprotocol,"Keep up with the @synthetix_io ecosystem with this wicked stats dashboard, that covers trading, options, synths &amp; yield farming!
+
+https://t.co/dg220jCK28",42,0,5,2020-09-29
+310,2020-09-30 18:06:18+00:00,1311366779826892802,graphprotocol,"We can't talk about DeFi and NFTs without @centrifuge - a platform for securitizing financial contracts as NFTs &amp; using them as collateral for on-chain loans, like royalties, invoices!
+
+https://t.co/HTaQyycF3S",73,1,18,2020-09-30
+311,2020-10-02 17:26:13+00:00,1312081464134037504,graphprotocol,"Great write-up about Graphanomics &amp; intro to the query cost model that Indexers will play with in Phase 2 of our testnet! 
+
+Thanks @pi0neerpat 😊
+
+https://t.co/HCztWy0KqC",22,0,6,2020-10-02
+314,2020-10-05 23:53:10+00:00,1313266008094773250,graphprotocol,"You thought August was explosive, September was on another level! 🚀
+
+The Graph's hosted service processed over 7.6B queries - that's ~80% MoM growth in Ethereum usage. https://t.co/ugjkpBW5AI",284,12,62,2020-10-05
+316,2020-10-06 14:49:25+00:00,1313491555760697352,graphprotocol,"Don't miss @davekajpust's workshop at ETH Online today @ 1pm EST to learn how to build subgraphs! 🛠️
+
+https://t.co/qAVhzo6EGO",13,0,4,2020-10-06
+318,2020-10-07 19:30:25+00:00,1313924661629992960,graphprotocol,"If you're building a dApp for @iearnfinance you can now easily find the Yearn subgraph in the https://t.co/mARhMfc9zU docs!
+
+https://t.co/gtZG5ZN0r6",94,2,35,2020-10-07
+319,2020-10-09 15:33:16+00:00,1314589757645570048,graphprotocol,"We're thrilled to announce The Graph is bringing state channels to mainnet to scale decentralized infrastructure. 
+
+This has been a multi-month effort in collaboration with the State Channels team at Consensys R&amp;D, Connext, &amp; Ethereum Foundation! 💫
+
+https://t.co/Jxvsmdrged",273,6,59,2020-10-09
+322,2020-10-12 18:07:56+00:00,1315715842143711232,graphprotocol,"Last week we launched the Curator Program with over 350 Curators on the Kick-Off call! 
+
+Watch the call to learn more about what it takes to be a Curator on The Graph Network 🚀
+https://t.co/zVJNcmmHgN",43,1,11,2020-10-12
+323,2020-10-13 22:53:18+00:00,1316150045733863424,graphprotocol,@ChainLinkMunki The Graph Foundation's allocation will unlock over 10 years and there will be continued Indexing Rewards (new issuance) but everything else is captured in the 5yr chart.,1,1,0,2020-10-13
+327,2020-10-14 16:57:57+00:00,1316423006105690112,graphprotocol,"Ethereum saw explosive usage over the last few months!
+
+While DeFi dominated query traffic, subgraphs are diversifying with more Art &amp; Collectibles, DAOs and Gaming &amp; Entertainment dApps 👾 https://t.co/FotsJ6wSOc",115,3,26,2020-10-14
+330,2020-10-15 03:40:17+00:00,1316584654158229505,graphprotocol,@CantelopePeel Thanks. ETH 2.0 and indexing performance improvements are on the docket for after network launch. It will be awesome to be able to deploy grants out of the foundation for external development. There are some talented teams out there we‘re excited to put to work 👨‍🔧🛠,1,0,0,2020-10-15
+333,2020-10-16 18:11:40+00:00,1317166335328092160,graphprotocol,"#Liquidity2020 starts today!
+
+Catch The Graph's Research Lead @RezBrandon speaking about Gas Efficient Mechanism Design on Day 3: this Sunday, Oct 18 @ 9:30am PST https://t.co/JSUNDF7npP",24,0,12,2020-10-16
+338,2020-10-19 17:16:14+00:00,1318239549064032256,graphprotocol,"Now you can read The Graph In-Depth in Russian! 🇷🇺
+
+The Graph is a global community with so many amazing contributors. Shout out to @Shiverov for translating, спасибо! 👨‍🚀
+
+https://t.co/YA5fvSUkVh",23,2,10,2020-10-19
+341,2020-10-20 18:38:17+00:00,1318622584179630081,graphprotocol,"Known Origin is one of the best places to find transcendental digital art! 👩‍🎨
+
+Over 480 artists have sold 14K+ artworks (~$800K USD). Check out the collections &amp; learn about the artists!
+
+#CryptoArt is powered by The Graph! @KnownOrigin_io 
+
+https://t.co/1fehHcCWDx",34,1,6,2020-10-20
+344,2020-10-21 22:18:16+00:00,1319040332391018498,graphprotocol,"We're happy to be part of ETHOnline Hackathon by @ETHGlobal! 🎉
+
+We have 2x bounties for 1K DAI each for:
+
+1) the best use of an existing subgraph
+2) the best new subgraph
+
+Submit by Thurs, Oct 22 @ 11:59 PM ET. Our very own @martint will be judging!
+
+https://t.co/L3DxbQNvnC",29,0,7,2020-10-21
+345,2020-10-22 18:27:55+00:00,1319344750919512064,graphprotocol,"We care about our community and don’t want you to lose money!
+
+🚨 Please take note of fake $GRT listings on Uniswap or website phishing attempts.
+
+The only place you can purchase GRT is at https://t.co/aN1RFxgOGN if you are registered for the sale.",38,4,11,2020-10-22
+347,2020-10-23 23:32:06+00:00,1319783690717704194,graphprotocol,"Our enginners are working on the issue affecting the hosted service. Please follow the status page for updates. 
+https://t.co/n8ykaTSuYM",53,2,7,2020-10-23
+359,2020-10-24 00:54:49+00:00,1319804505051983873,graphprotocol,"Great thread on why we need incentives for data curation! @Delphi_Digital
+https://t.co/xYGB8PZFW4",32,0,12,2020-10-24
+362,2020-10-26 16:57:41+00:00,1320771596148264960,graphprotocol,"@Ali_raza3001 @EtherealArt9 Please do not spread false information, GRT is the correct ticker. We are not associated with $graph.",4,0,0,2020-10-26
+363,2020-10-28 20:05:35+00:00,1321543657514696705,graphprotocol,Thank you @TokensoftInc for your help with KYC/AML compliance for the GRT Sale! It was not a walk in the park to include so many people but the team got it done on time and smooth as can be 🙌,54,3,10,2020-10-28
+365,2020-10-29 17:42:43+00:00,1321870091567292417,graphprotocol,Web3 infrastructure is the only way to ensure our data and applications outlive the teams that build them. Great work pioneering content sharing on Ethereum @kauri_io team 🌱 https://t.co/Lx3uYwa6n7,34,0,8,2020-10-29
+366,2020-10-30 17:01:59+00:00,1322222226205155329,graphprotocol,"Over 2,000 Curators have already registered for the Curator Program to learn about subgraphs &amp; contribute to The Graph Network!
+
+Join us in the decentralization movement, registration closes this Mon, Nov 2nd 👨‍🚀
+
+https://t.co/huxsGcdKP5",41,0,15,2020-10-30
+368,2020-11-03 04:30:35+00:00,1323482685260537856,graphprotocol,We have the tools to build liquid democracy. To have an unlimited number of meaningful debates stored and organized on public infrastructure. To create transparent rules with parameters enforced through code. We just need the entrepreneurs to build it 👩‍🚀👨‍🚀 https://t.co/S0tfLOH0pp,73,0,29,2020-11-03
+371,2020-11-04 18:03:13+00:00,1324049577851301888,graphprotocol,Now who will be the brave soul that builds an ETH2 subgraph? https://t.co/dy2726j3e4,146,2,27,2020-11-04
+373,2020-11-07 04:01:00+00:00,1324924788939366401,graphprotocol,"Tune into RustFest in 1hr @ 9pm PST to hear our very own Zac Burns talk everything serialization! #RustFest
+
+https://t.co/0DlYqrV40D",31,0,9,2020-11-07
+374,2020-11-10 22:03:29+00:00,1326284367446962176,graphprotocol,"Check out the two subgraphs being queried by the KeeperDAO app:
+
+KeeperDAO: https://t.co/rtMkYMJ7Om
+
+UniswapV2: https://t.co/hfR5Gd6YmG",19,1,5,2020-11-10
+376,2020-11-13 22:40:16+00:00,1327380791626665984,graphprotocol,"The Graph community is stellar! 💫
+
+@Amxx is an Indexer &amp; one of the highest contributing subgraph developers. 🦾
+
+Check out this toolkit he made for creating subgraph mappings!
+
+https://t.co/RTAX4nIaTL",49,0,11,2020-11-13
+377,2020-11-17 17:35:26+00:00,1328753629520560128,graphprotocol,@cryptoyizus @cryptoledy This was made by the community 😯,0,1,0,2020-11-17
+379,2020-11-18 21:46:09+00:00,1329179110195695616,graphprotocol,"We can't wait to see the new @AugurProject UI built with a subgraph by @juanmardefago @protofire 🙌
+
+https://t.co/l5GjTSdJRw",38,1,18,2020-11-18
+381,2020-11-30 18:03:05+00:00,1333471628672466944,graphprotocol,@cryptoyogin This is fake,0,1,0,2020-11-30
+382,2020-12-02 19:44:15+00:00,1334221863547879424,graphprotocol,"The first on-chain PID controller is live! 
+
+Check out @reflexerfinance mainnet demo for Proto RAI &amp; manage PRAI positions with this epic dashboard! 🤓
+
+https://t.co/fYt1pZmEh4",44,2,16,2020-12-02
+384,2020-12-04 15:43:02+00:00,1334885934299410433,graphprotocol,"Check out this wicked graph-iti by one of our amazing community members @rabinsunar ! 
+
+https://t.co/aYwAPoxBS1",38,0,9,2020-12-04
+388,2020-12-06 22:22:16+00:00,1335711182741618689,graphprotocol,@DeFiDegen @rammanbl4 we feel you 🙇‍♂️,1,0,1,2020-12-06
+389,2020-12-12 01:54:53+00:00,1337576626914127872,graphprotocol,"We're excited to announce The Graph Council members who will govern the protocol &amp; the Foundation's Grants Program!
+
+Read about the mandate &amp; apply for a grant to contribute to The Graph ecosystem 👩‍🚀
+
+https://t.co/8ES7rs5hHA",142,1,28,2020-12-12
+391,2020-12-14 17:46:01+00:00,1338540763718668288,graphprotocol,"On Friday we announced The Graph Council members &amp; launched the Grants Program!
+
+Want to build on the Graph? Apply now! ⚒️
+
+https://t.co/8ES7rs5hHA",69,3,16,2020-12-14
+393,2020-12-16 10:41:20+00:00,1339158663122960384,graphprotocol,@AiratBaiazitov 🦋,1,0,0,2020-12-16
+394,2020-12-17 17:01:33+00:00,1339616737881280512,graphprotocol,"The Graph Network is officially live! People all over the world are coming together to build a vibrant decentralized future on top of crypto networks.
+
+Join the movement and come build the future you want to live in 👩‍🚀🌍
+https://t.co/3YVpq4HrFt https://t.co/63rc2z90ac",3878,416,1696,2020-12-17
+396,2020-12-18 19:04:25+00:00,1340010045006704645,graphprotocol,"🚨 PSA 🚨 
+
+@graphprotocol is the Official Graph Twitter, please be diligent to avoid scams. https://t.co/qF3ICKXmIk",74,4,14,2020-12-18
+398,2020-12-21 16:44:34+00:00,1341062015209459713,graphprotocol,"Can you feel the change? 🏄‍♀️
+
+We have the power to create, to evolve, to lift each other up. The crypto chain reaction has started.
+
+When we’re done with our work, nothing will be the same 👩‍🚀🌍",619,25,134,2020-12-21
+400,2020-12-23 19:19:48+00:00,1341825855647956992,graphprotocol,@0xbami @r_ross_campbell @yanivgraph @AlexMasmej @opensea @SuperRare @withFND @rariblecom @KnownOrigin_io Hello 👋,5,0,1,2020-12-23
+405,2020-12-24 17:03:41+00:00,1342153990323068929,graphprotocol,Permissionless jobs ⭐️ https://t.co/F9CHjqFEm1,182,3,28,2020-12-24
+409,2020-12-25 05:39:32+00:00,1342344205721432064,graphprotocol,A little community building goes a long way. Ryabina published a delegation guide and is now overdelegated! Let’s spread that GRT to more nodes. Congrats team and thanks for the heads up 👏 https://t.co/K97OufmwjL,179,21,37,2020-12-25
+410,2020-12-29 23:30:21+00:00,1344063234307854336,graphprotocol,There’s more than enough for everyone. We just need better systems of social coordination. https://t.co/Tq9Sp3c2e9,408,25,73,2020-12-29
+412,2020-12-31 18:23:46+00:00,1344710855863267329,graphprotocol,"Thank you to all the Indexers, Curators, Delegators, Developers, Backers and Partners that have made 2020 unforgettable.
+
+With the foundation in place, in 2021 it's time to take DeFi and Web3 to the mainstream and unleash a new wave of creativity and opportunity 👩‍🚀🌍 https://t.co/G5M78Kuvyy",544,30,96,2020-12-31
+413,2021-01-04 19:02:16+00:00,1346170097128280064,graphprotocol,"Hope everyone had a relaxing holiday ☀️
+
+Looks like people just got word that crypto is here to stay. There's so much opportunity right here in front of us to change how society is organized.
+
+The real work starts now 👩‍🚀 https://t.co/eAYF2khuww",618,49,120,2021-01-04
+414,2021-01-05 22:04:57+00:00,1346578459942768642,graphprotocol,We made it to 1B GRT staked 🎉 https://t.co/UCDM0xkmFQ,400,29,99,2021-01-05
+416,2021-01-06 17:30:09+00:00,1346871691838959619,graphprotocol,"Want to learn more about The Graph?
+
+Join us tomorrow Jan 7th @ 9:30am PST for an AMA with @yanivgraph @theklineventure @RezBrandon in the Official Telegram channel! 👨‍🚀
+
+Reply with any questions you'd like answered 👇💫 https://t.co/TFNPbwTIe1",203,13,50,2021-01-06
+418,2021-01-07 16:59:25+00:00,1347226344921444357,graphprotocol,"Tune in today @ 9:30am PT (in 30 minutes!) to chat with @yanivgraph @theklineventure @RezBrandon in the Official Telegram! ⚡️
+
+https://t.co/QLRvQkyodk https://t.co/Qrll3mp5gQ",126,6,28,2021-01-07
+419,2021-01-08 03:10:22+00:00,1347380096139595776,graphprotocol,안녕 Korea 🇰🇷 https://t.co/7IgGw40Ld5,126,11,30,2021-01-08
+421,2021-01-10 18:27:13+00:00,1348335603088203777,graphprotocol,"We need freedom of speech and expression, and we need decentralized curation to ensure that the best ideas rise to the top.
+
+Web3 is coming. Light and liberty can coexist 👩‍🚀 https://t.co/PoHqpYe5NZ",722,33,178,2021-01-10
+422,2021-01-11 00:18:22+00:00,1348423971776196612,graphprotocol,"Recent events have highlighted the importance of decentralized infrastructure for user self-sovereignty. 
+
+That's why we're committed to building a robust &amp; distributed community of network participants to support apps.
+
+Learn more, earn GRT &amp; join us 👨‍🚀
+
+https://t.co/JeEoVrrXdM",193,11,35,2021-01-11
+424,2021-01-13 21:26:18+00:00,1349467837312675850,graphprotocol,"10/ With The Graph Network live on mainnet, we’re at the beginning of changing how humans cooperate.
+
+We’ve achieved so much but there's much farther to go. We need the best &amp; brightest to help make the vision of a vibrant decentralized crypto economy a reality.
+
+Join us 🧑‍🚀",54,1,9,2021-01-13
+435,2021-01-14 14:56:11+00:00,1349732047355408384,graphprotocol,"Did you know that $GRT is the #8 most held asset on Coinbase? Discover why people are so excited about The Graph and delegate your $GRT today!
+https://t.co/RH41ijfAB8",329,19,92,2021-01-14
+438,2021-01-18 16:40:48+00:00,1351207927613435905,graphprotocol,"The Graph is hiring! There are 12 openings to contribute to the decentralized indexing protocol for Web3 ✨
+
+https://t.co/FqEJWQebby",337,18,82,2021-01-18
+439,2021-01-25 17:19:41+00:00,1353754424842326017,graphprotocol,@LinkTea777 @StakeMachine you can delegate your stake at https://t.co/BX5T1Z1p5g,2,2,1,2021-01-25
+442,2021-01-28 01:12:41+00:00,1354598236422463491,graphprotocol,"We just posted a new opening for Distributed Systems Engineer! 
+
+If you're a developer, also check out the postings for Rust, Solidity, Frontend and Solutions Engineers. The Graph is growing! 👩‍💻
+
+https://t.co/tQ79f2caiC",139,2,26,2021-01-28
+447,2021-01-29 20:46:40+00:00,1355256066691358721,graphprotocol,"We're evaluating additional Layer 1 blockchains to integrate with The Graph. 🌐
+
+Which are you most excited about? Vote now!! ⬇️
+
+https://t.co/VaTsWGGoi2 https://t.co/EOXM4hEYM3",675,142,182,2021-01-29
+448,2021-01-30 21:27:26+00:00,1355628712763351040,graphprotocol,"Have you recently joined The Graph community? 🌏👨‍🚀🌍
+
+You can use your $GRT today and contribute to the network by delegating to an Indexer! Follow the tool tips to help you delegate! 
+
+https://t.co/BX5T1YJNGG
+
+Delegation Guide:
+https://t.co/BQIHegB5H2",361,10,86,2021-01-30
+449,2021-02-02 19:20:16+00:00,1356683874923728899,graphprotocol,"We just open sourced the Indexer repo and launched new Indexer docs to help you get set up on The Graph Network!
+
+Over 160 Indexers and 3,800 Delegators are already contributing to the network, join us! 🚀🪐
+
+https://t.co/C3wtlXFFOd",375,17,112,2021-02-02
+450,2021-02-03 20:58:58+00:00,1357071102892142592,graphprotocol,Track testnet stats here: https://t.co/t81NBRaSg7,93,1,17,2021-02-03
+452,2021-02-05 17:01:07+00:00,1357736019571798016,graphprotocol,"The Graph is core infrastructure for the decentralized internet (Web3) movement to thrive!
+
+With Defi apps like DEXs, lending protocols &amp; staking already using subgraphs, we're well on our way to bring self-sovereign finance to the masses 👩‍🚀🌐👩‍🚀
+
+https://t.co/fhu6HOuO7W",591,16,176,2021-02-05
+455,2021-02-08 20:53:38+00:00,1358881697190711297,graphprotocol,"This Month in Graph Indexing - January edition is out!
+
+Read about highlights in the Indexer &amp; Delegator communities by @_cryptovestor ✨
+
+https://t.co/ALtMITfu6j",263,4,57,2021-02-08
+456,2021-02-10 02:04:44+00:00,1359322378430414857,graphprotocol,@ryanleecode Check out the explorer to see existing subgraphs 😃 https://t.co/tg2q9rTqGb,1,0,0,2021-02-10
+459,2021-02-11 20:08:55+00:00,1359957607314649088,graphprotocol,"We're excited about a new community initiative called Know-Your-Indexer led by @Zunielis1 @ghostym626 👩‍🚀
+
+First up is Indexer @Trader_Payne at StakeSquid. Learn more about how they're contributing to The Graph Network! 
+
+https://t.co/Fs6NveXmfd https://t.co/sPmEhPRGU3",384,28,90,2021-02-11
+460,2021-02-12 17:02:09+00:00,1360272996133310466,graphprotocol,"Did you recently join The Graph community? 
+
+You can become a Delegator to contribute to the network and earn GRT for your work! Use your $GRT and delegate to an Indexer today 👨‍🚀 
+
+https://t.co/BX5T1YJNGG
+
+Follow the resources below to get started 👇🛸",421,34,92,2021-02-12
+462,2021-02-16 23:58:34+00:00,1361827342067269634,graphprotocol,"The Graph Foundation is hosting its first Protocol Townhall next Tues, Feb 23 @ 8am PST.
+
+Join The Graph Council, Indexers, Edge &amp; Node and many others in discussing protocol updates and the GIP process! Link will be shared at https://t.co/ugJYHQTwCT a few days before 👨‍🚀 https://t.co/Rh3ciQRksk",430,12,118,2021-02-16
+464,2021-02-17 17:07:08+00:00,1362086188958449664,graphprotocol,"Indexer Office Hours are happening now!
+
+Join us in The Graph Discord &gt; Office Hours channel to chat with our fellow Indexers &amp; learn more about participating in the network!
+
+https://t.co/lSfSwy9nqE
+
+https://t.co/dcWlpoKYYE",203,2,49,2021-02-17
+466,2021-02-18 17:03:05+00:00,1362447557566160898,graphprotocol,"We are thrilled to announce The Graph will be supporting @Polkadot @solana @CeloOrg &amp; @NEARProtocol 🎉
+
+Over the next several months we'll be collaborating with these L1 chains so that all #Web3 developers can efficiently query data with subgraphs. 🌐
+
+https://t.co/mwVirKB0nR",1504,76,461,2021-02-18
+468,2021-02-23 00:36:53+00:00,1364011310111813634,graphprotocol,"The Graph's first Protocol Town Hall is tomorrow at 8am PST! 
+
+Find the zoom link here to discuss protocol upgrades &amp; sign up for calendar invites for future town halls 📅👨‍🚀
+ https://t.co/fJaYjmrvbM",293,4,71,2021-02-23
+471,2021-02-24 20:49:23+00:00,1364678833333444609,graphprotocol,"We are happy to announce The Graph's hosted service now supports @FantomFDN, an EVM-compatible chain! 🎉
+
+Fantom developers can now efficiently query data with subgraphs and the Fantom community can apply for grants. 🌐
+https://t.co/HJ9LKptJrn",580,13,142,2021-02-24
+472,2021-02-25 03:30:00+00:00,1364779652758274048,graphprotocol,"We're excited to sponsor the @Chainlink Spring 2021 Virtual Hackathon! 
+
+The Graph will be awarding prizes up to $5k for the best use of subgraphs 🎉
+
+Register now to join the hackathon March 15 - April 11: https://t.co/APVxn1uj3K",907,17,191,2021-02-25
+474,2021-02-26 01:41:21+00:00,1365114700581662721,graphprotocol,"The 1st NFT Subgraph Community Call was today! 🌐🥳
+
+Devs building NFTs with The Graph discussed their projects, subgraphs, and how the community can keep improving the protocol to support NFTs. 
+
+https://t.co/iVs8jiowQj",375,10,88,2021-02-26
+475,2021-03-01 23:54:45+00:00,1366537423526580225,graphprotocol,"This Month in Curation #1 is published! 🗣️🌐
+
+We'll be highlighting relevant information and insights for Curators and subgraph developers each month. 
+
+This month we're reviewing the bonding curve and schemas: https://t.co/3YF8a9bKi1",266,2,55,2021-03-01
+477,2021-03-03 22:48:00+00:00,1367245402412478464,graphprotocol,"This week's Know-Your-Indexer is about @POpsTeam1!
+
+Get to know them &amp; ask any burning indexing questions in The Graph Forum 🔥
+
+https://t.co/CbdHWvTkiy https://t.co/BYUqKZx3y2",164,0,41,2021-03-03
+478,2021-03-06 00:47:49+00:00,1368000331410382849,graphprotocol,"The 2nd NFT Subgraph Community Call was yesterday! 🌐🎉
+
+Discussions about how to make building NFT subgraphs easier and areas of standardization continued. Some ownerships have been assigned and more are available for building a vibrant NFT ecosystem.
+https://t.co/XrFHJikdHP",269,5,67,2021-03-06
+479,2021-03-09 19:08:08+00:00,1369364396707901447,graphprotocol,"🗣️The 1st two Snapshot Votes are live! Review both GIPs and vote to signal your interest:
+
+GIP-0002. Separate destination address for Indexer indexing rewards: https://t.co/7dSwPHaZuY
+
+GIP-0003. Fix accumulated subgraph rewards being reset to zero: https://t.co/RomHAICttY",224,7,54,2021-03-09
+480,2021-03-10 20:30:24+00:00,1369747486533894156,graphprotocol,"🗣️Indexer Office Hours #4 took place today.
+
+This community meeting happens every Wednesday at 18h GMT via Discord. Learn how to join in the video.
+
+Thank you to all Indexers creating value in the ecosystem. See you next week! 🌐🌍 
+
+https://t.co/7Wg5toTieS",118,0,23,2021-03-10
+482,2021-03-11 17:49:09+00:00,1370069298006331397,graphprotocol,"The Graph believes decentralized governance deserves decentralized collaboration tools.
+ 
+We’re thrilled to share The Graph Improvement Proposal (GIP) Process is being hosted on @radicle 🌱
+ 
+Learn about why we chose Radicle &amp; how to contribute to GIPs: https://t.co/dBtaMBuDF7",403,16,106,2021-03-11
+484,2021-03-12 17:24:05+00:00,1370425376019714062,graphprotocol,"The Graph is contributing to @gitcoin grants round 9 as a Matching Partner! Let’s grow the @ethereum ecosystem together. 🌐🌍
+
+Please get involved and donate today! https://t.co/JyJwoJkboK",265,7,67,2021-03-12
+485,2021-03-15 19:31:02+00:00,1371544486401163277,graphprotocol,"🗣️The Graph will be presenting at @polimi tomorrow at 6:30pm CET, 9:30am PST. Register below to attend the event and learn more about Web3, indexing, GraphQL, and more!🤩🌐
+
+https://t.co/jEK4qRuSiQ",217,6,59,2021-03-15
+487,2021-03-17 18:04:14+00:00,1372247417928744963,graphprotocol,"If you missed the event at @polimi yesterday, catch it here to do a deep dive into the Web3 ecosystem and how the Graph community is building the decentralized future. 🌐🌍
+
+https://t.co/6QbqkrlnX8",155,1,33,2021-03-17
+489,2021-03-18 15:12:00+00:00,1372566464926990340,graphprotocol,"Indexer Office Hours #5 was held yesterday🌐🚀
+
+Here's the recording for anyone who missed it. 
+
+These meetings take place every Wednesday between 10am and 11am PST via Discord - https://t.co/lSfSwxRMz6. Join us! 
+
+https://t.co/nKwLFPrqwD",120,1,17,2021-03-18
+492,2021-03-19 22:24:39+00:00,1373037732096847873,graphprotocol,"The Graph is taking part in the 2021 @ETHGlobal NFTHack! Here is a workshop about creating, deploying, and using subgraphs. If you’re participating in NFTHack be sure to use one of the many NFT subgraphs already available!🌐🧠
+https://t.co/zTv8PpNU8p",298,11,61,2021-03-19
+493,2021-03-23 22:56:55+00:00,1374495402037104650,graphprotocol,"🗣️New initiative: Developer Highlights🌐✍️
+
+Episodes highlight an expert subgraph developer &amp; their experience building on The Graph.
+
+Episode #1 features @juanmardefago, discussing ""Future proofing your subgraph with dynamic data sources."" 
+
+https://t.co/e2s4FOeni4",158,6,35,2021-03-23
+494,2021-03-24 20:43:38+00:00,1374824248301260801,graphprotocol,"The Graph Network has been live for 3 months 🌐
+ 
+Now that network supply is bootstrapped &amp; the governance process has been proven, the community is ready for the next phase 🚀
+ 
+The 1st subgraphs will begin migrating to mainnet next month!
+
+https://t.co/EcPqHJCf5R",960,59,263,2021-03-24
+496,2021-03-25 17:13:58+00:00,1375133871457533952,graphprotocol,"The Graph + Gitcoin! Checkout The Graph’s Subgraph Challenge on @gitcoin! We’re awarding $2,500 (in GRT)! 🏆🏅 
+
+Submissions to the challenge are due March 31st, so get them in! Submit your most innovative subgraphs and dapps to win #GRT prizes! 🌐💫
+
+https://t.co/36WTr0QTiW",190,1,38,2021-03-25
+497,2021-03-26 18:17:45+00:00,1375512309708120066,graphprotocol,"Congratulations @grt_iq on the podcast launch! 🥳
+
+1st episode is with @_cryptovestor an Indexer &amp; member of The Graph Council.
+
+Hear about the relationship between Indexers &amp; Delegators, recent protocol governance &amp; Indexer community initiatives! 📢
+
+https://t.co/0JNlLWVB6l",161,3,25,2021-03-26
+499,2021-03-30 19:03:54+00:00,1376973478243364865,graphprotocol,"We're thrilled to announce $5M has been allocated to grants &amp; ecosystem contributors in Wave 1! 🌊 @graphgrants
+
+Projects include indexer improvements, R&amp;D, tooling, subgraphs, &amp; community efforts.
+
+Thank you to everyone joining us on our Web3 mission 🚀
+
+https://t.co/pS4A2zbA6H",577,16,122,2021-03-30
+500,2021-03-31 23:07:54+00:00,1377397268802793473,graphprotocol,"The Graph supports @AaveAave and @0xPolygon on the hosted service. 
+
+If you're building a scalable dapp, make sure to use a subgraph for efficient data querying! 💪
+
+Learn more about building on Aave &amp; Polygon here: 
+https://t.co/WVssvjJdFk",403,6,81,2021-03-31
+501,2021-04-01 22:33:16+00:00,1377750941491941377,graphprotocol,"The Graph Foundation is hosting its 2nd Protocol Town Hall on April 6th at 8am PT.
+
+Join The Graph Council, Indexers, grant recipients, &amp; other contributors to discuss protocol updates, GIPs, &amp; all things The Graph! 👨‍🚀 👩‍🚀 
+
+Meeting link is on the forum: https://t.co/ZrZe0RykTp",191,3,34,2021-04-01
+503,2021-04-05 22:40:12+00:00,1379202238447550469,graphprotocol,"The Graph's 2nd Town Hall is tomorrow at 8am PST! 
+
+Find the Zoom link here &amp; join us to discuss protocol upgrades &amp; ecosystem activity. Be sure to sign up for calendar invites for future Town Halls 📆 👨‍🚀  https://t.co/ZrZe0RykTp https://t.co/W2vmsbYKF3",169,5,27,2021-04-05
+505,2021-04-06 15:00:17+00:00,1379448885181964289,graphprotocol,"Our 2nd Town Hall is about to start! 👨‍🚀
+
+We'll be discussing protocol updates &amp; ecosystem activity. ✍️
+
+Join us here: https://t.co/hvffkWCueS",156,6,29,2021-04-06
+509,2021-04-07 02:45:24+00:00,1379626330669543428,graphprotocol,@DisruptionJoe @CeloOrg @avalancheavax that’s a good question Joe!,7,2,0,2021-04-07
+511,2021-04-08 16:55:08+00:00,1380202562108989442,graphprotocol,"We are excited to announce The Graph's hosted service now supports @avalancheavax, an EVM-compatible chain! 🎉 
+
+Avalanche developers can now query data with subgraphs. To learn more about how to build subgraphs on Avalanche check out their blog. 🚀  
+https://t.co/K9U3njFx5g",1079,22,232,2021-04-08
+513,2021-04-13 17:13:10+00:00,1382019041871552513,graphprotocol,"1/2 Subgraph Developers are the ones with knowledge of the underlying smart contracts and need to consider tradeoffs in how data is processed. Incentives exist in The Graph Network for Indexers to further optimize data access for different applications.
+
+High throughput chains...",298,3,49,2021-04-13
+515,2021-04-14 17:02:09+00:00,1382378654873755649,graphprotocol,"Indexer Office Hours are happening now! 👩‍🚀👨‍🚀
+
+Join us in The Graph Discord Office Hours channel to chat with fellow Indexers &amp; learn more about participating in the network! https://t.co/lSfSwy9nqE
+
+https://t.co/dcWlpoKYYE",155,4,20,2021-04-14
+517,2021-04-16 18:17:03+00:00,1383122280591417344,graphprotocol,"The Graph Foundation is thrilled to share our new page with the community! 🌐
+
+Here you can find the grants application form, Protocol Town Halls, &amp; all other community resources. 🧑‍🚀👩‍🚀
+
+https://t.co/ijSEWuMCZ1",345,5,81,2021-04-16
+519,2021-04-19 17:29:09+00:00,1384197390798790668,graphprotocol,"Calling all Hackers! 
+
+Don't miss @davekajpust discuss how to deploy subgraphs on EVM chains today at the Scaling Ethereum Hackathon. @ETHGlobal
+
+Watch his presentation here at 1pm PT, 4pm ET &amp; start building! 🚀 
+https://t.co/IgOmCz4RzY",151,4,35,2021-04-19
+520,2021-04-20 18:57:53+00:00,1384582108933459968,graphprotocol,"The Graph Foundation is thrilled to launch a new community-driven knowledge base, The Graph Codex! 🎉 💡  
+
+Here you can find the latest resources currently available for users of The Graph Protocol. https://t.co/ZvXcAQUvdn",287,3,59,2021-04-20
+521,2021-04-21 16:43:50+00:00,1384910763064799237,graphprotocol,"Tune in to hear @jannispohlmann present on the latest Vector upgrade &amp; how Scalar works for query fees at Indexer Office Hours today at 10am PST 🌐 
+
+Zoom link: https://t.co/dcWlpoto76",120,6,23,2021-04-21
+523,2021-04-22 22:13:20+00:00,1385356069346562049,graphprotocol,"There's no interoperability without The Graph &amp; @ConnextNetwork. We’ve teamed up to offer a joint bounty for a cross-chain native dapp subgraph!
+ 
+Show us a dapp using both projects that leverages the power of cross-chain interactions to be eligible for $1,500 DAI bounty!",59,1,5,2021-04-22
+532,2021-04-28 17:06:26+00:00,1387453165172404228,graphprotocol,"Indexer Office Hours is happening now! 👨‍🚀 ✍️ 
+
+Join us in The Graph Discord &gt; Office Hours channel for an open discussion with fellow Indexers &amp; learn more about participating in the network.
+
+https://t.co/lSfSwxRMz6
+https://t.co/dcWlpoto76",124,0,15,2021-04-28
+535,2021-04-29 18:28:33+00:00,1387836216616304644,graphprotocol,"This week kicked off mainnet migration workshops for Indexers, starting with an Intro to Scalar &amp; Vector Node hosted by @jannispohlmann. 
+
+Learn about Scalar &amp; how to start testing Vector Node!
+https://t.co/m9FvFouJ6h",157,0,26,2021-04-29
+538,2021-04-30 22:06:24+00:00,1388253428258775042,graphprotocol,"The Graph is featured in this week's @OurNetwork__ alongside @0xPolygon @numerai &amp; Flashbots 💫
+
+Read about subgraph migration &amp; network analytics 🌐
+
+https://t.co/vEm7SDRp7x",136,2,26,2021-04-30
+540,2021-05-03 21:34:18+00:00,1389332513093525508,graphprotocol,"Join us tomorrow, May 4th at 8am PST for the 3rd Protocol Town Hall! 
+
+We'll be discussing protocol updates, mainnet migration, &amp; ecosystem activities 💫 
+https://t.co/bJlVBW9lcv",192,10,43,2021-05-03
+542,2021-05-04 01:00:10+00:00,1389384321723682825,graphprotocol,"This Month in Curation #3 is published! 👨‍🚀 👩‍🚀 
+
+Discover the top activities in The Graph ecosystem, as well as more about subgraph data curation with Developer Highlights:
+https://t.co/af1Ly7gfc5",146,1,28,2021-05-04
+545,2021-05-05 00:04:51+00:00,1389732790166425602,graphprotocol,"Decentralized governance is hard but we’re taking it step by step with @radicle @SnapshotLabs 
+
+Read about how we're using Radicle for the GIP (Graph Improvement Proposal) process 🌱 https://t.co/LzPwZdqwdN https://t.co/PSwvh6626w",184,9,33,2021-05-05
+547,2021-05-06 15:22:33+00:00,1390326121384890374,graphprotocol,"The Graph hosted the 3rd Protocol Town Hall this week 🌐 ⚖️ 
+
+Here's the recording if you missed it:
+https://t.co/y8f5S2LyWJ",169,1,24,2021-05-06
+550,2021-05-14 20:15:04+00:00,1393298840908967938,graphprotocol,"The 2nd Migration Workshop is on The Graph YouTube channel! 👀 
+
+Learn more about how disputes &amp; arbitration will function on the decentralized network. 🤝 ☮️ 🌎 
+
+Watch here: https://t.co/5dveQc73Jb",166,3,28,2021-05-14
+552,2021-05-17 15:48:02+00:00,1394318803912335368,graphprotocol,"The @Superfluid_HQ subgraph is live via The Graph! 🚀 
+
+More data, faster load times, &amp; new analytics features are waiting to be explored! 👨‍🚀 👩‍🚀 
+
+Learn more about how Superfluid uses subgraphs &amp; how you can build your dapps with them too👇 
+https://t.co/GDqWZ5pgAW",195,2,37,2021-05-17
+553,2021-05-18 01:05:06+00:00,1394458993112797190,graphprotocol,"The Graph &amp; @sommfinance want to improve #DeFi performance! 💪 
+
+Don't miss @yanivgraph discuss The Graph R&amp;D this Wednesday, at 12:30pm PST in an AMA hosted by @sommfinance, @lewistaariq, &amp; @zmanian 🔥🎙 
+
+RSVP 👉 https://t.co/VzlbXPF69D https://t.co/6dC7vHCLue",241,21,41,2021-05-18
+554,2021-05-19 14:35:47+00:00,1395025398057086979,graphprotocol,"Indexer Office Hours is happening today at 10am PST! 👨‍🚀 👩‍🚀 
+
+Join us in The Graph Discord Office Hours channel to chat with fellow Indexers &amp; learn more about how to participate in the network 💫 
+https://t.co/dcWlpoto76",122,12,16,2021-05-19
+556,2021-05-24 19:45:12+00:00,1396915202776608777,graphprotocol,"Thanks to everyone who joined the Cost Model Workshop last week! 👨‍🚀 👩‍🚀 
+
+We hope you learned a lot about how Indexers can build their cost models on The Graph Network 🌐
+
+For those who couldn't join, here is the recording 📺 
+https://t.co/9lZ9DXykdC",172,9,27,2021-05-24
+557,2021-05-27 19:58:33+00:00,1398005727990587413,graphprotocol,"💥💫 The Graph + @poapxyz are excited to award 11 NFTs to participants in The Graph ecosystem! 🎨 🌐 👨‍🎨 
+
+POAP is a @graphgrants grantee that designed NFTs to commemorate important experiences.
+
+Read about the NFTs, eligibility, &amp; how to claim yours! 
+https://t.co/jiAqNE2wUu",289,5,57,2021-05-27
+558,2021-05-28 22:04:33+00:00,1398399822298714112,graphprotocol,@nieldlr Check your email for the Subgraph Developer badge 😉,1,1,0,2021-05-28
+561,2021-06-01 20:35:11+00:00,1399826886679838724,graphprotocol,"Creatives, marketers, memologists, 👩‍🎤🎨
+
+We need help with docs, content &amp; memes for Web3 &amp; The Graph!
+
+🔸 Graph Economic Report
+🔸 @hardhatHQ Subgraph Docs
+🔸 Protocol Town Hall Meeting Notes
+🔸 Curator Video Guides
+🔸 Weekly Educational Memes
+🔸 Web3 Bits &amp; Bytes Newsletter",28,3,9,2021-06-01
+570,2021-06-03 19:42:28+00:00,1400538392824320003,graphprotocol,"Realizing the #Web3 vision means building together🤝🌍
+
+Each participant in The Graph Network is a node making Web3 possible &amp; @unstoppableweb is just one example🌐 
+ 
+Learn how they’re using The Graph &amp; the role dapps play to make Web3 a reality in their latest blog 👇 https://t.co/OC0JHyllUa",209,2,34,2021-06-03
+571,2021-06-07 21:25:09+00:00,1402013787172003844,graphprotocol,"The Graph is thrilled to announce @arbitrum is now supported on the hosted service 🎉 
+
+Developers on Arbitrum can now build &amp; publish subgraphs to scale their dapps 🚀  
+
+The Graph &amp; Arbitrum united will further scale #Web3 🌐 
+
+Learn more in the blog 👇  https://t.co/Nmmup7vFD4",653,13,135,2021-06-07
+572,2021-06-08 18:54:05+00:00,1402338158537109508,graphprotocol,"Great insights from @petkanics about distributed work protocols for @Gemini #Cryptopedia! ✨
+
+Read about The Graph's role in empowering Web3 developers 👨‍🚀
+
+https://t.co/jan6RnWT61",138,2,23,2021-06-08
+573,2021-06-09 19:48:25+00:00,1402714218516955136,graphprotocol,"Snapshot Vote in progress 🔊 ⚖️ 
+
+⭐ GIP-0009: Arbitration Charter ⭐  
+
+This proposal is to clarify the behavior of the Arbitrator in the protocol &amp; specify additional protections for Indexers. 
+
+Voting available for ~48 hours. Vote now👇 🕐 
+https://t.co/9zskVvYXoA",97,5,20,2021-06-09
+574,2021-06-10 20:06:58+00:00,1403081273698971648,graphprotocol,"It's never too late to start building subgraphs, join the movement 🙌🚀🧑‍🚀 https://t.co/Y2bGAB1HjS",138,4,15,2021-06-10
+575,2021-06-11 00:42:38+00:00,1403150648472969216,graphprotocol,"From NFTs to DeFi subgraphs, there are plenty of ways to get involved with the @graphprotocol ecosystem! 👩‍🚀💫 
+
+Help us build subgraphs for @Instadapp, @NuCypher, @bprotocoleth, &amp; more to contribute to Web3 🚀 
+https://t.co/L8qLGjO1tD",233,4,45,2021-06-11
+580,2021-06-15 15:00:45+00:00,1404816151587299340,graphprotocol,"Calling on all superstar meme creators! 🤖 👨‍🎨 
+
+Do you have mad MEME game? Will you be the one to win the coveted #TheGraphMEME Competition? 🏆 
+
+Put your meme where your mouth is &amp; let’s see what you’ve got! 💪 👾 
+
+Competition details 👇 https://t.co/GK5cUQSnPb https://t.co/oUVcNqYRcq",211,17,56,2021-06-15
+582,2021-06-16 16:55:27+00:00,1405207404128751619,graphprotocol,"Dapps live on The Graph Network🌐🎉
+ 
+Indexers &amp; Delegators start earning query fees! 👩‍🚀 👩‍🚀
+
+@PoolTogether_ is a decentralized protocol for pooling community funding for no-loss prize savings. https://t.co/RrBuVDCZP9",127,1,20,2021-06-16
+593,2021-06-17 16:34:13+00:00,1405564447675011078,graphprotocol,"The Graph Foundation is thrilled to award a $60M grant to @streamingfastio to join The Graph ecosystem as a Core Developer Team 👩‍🚀💥
+ 
+StreamingFast is focusing on protocol R&amp;D, indexing performance, &amp; more! 🌐🚀
+ 
+https://t.co/aQo6ycen3B",468,13,91,2021-06-17
+596,2021-06-18 16:43:20+00:00,1405929132932878339,graphprotocol,"Another 🎤 drop! We will support @optimismPBC at their mainnet launch to help scale @ethereum!📱🌐
+ 
+Developers 👨‍💻👩‍💻 building dapps on @optimismPBC will soon be able to create subgraphs to access the data they need to scale like never before 🙌 🤯   
+https://t.co/yHlEY1CShD",453,10,92,2021-06-18
+597,2021-06-19 06:11:53+00:00,1406132608996495364,graphprotocol,"Who would have thought #TheGraphMEME competition would have @graphtronauts creating an Oscar 🏆 worthy short video ! 📹 
+
+This #TheGraphMEME is a tough one to beat! 👾 Anyone else up for the challenge? 😏 🙋 https://t.co/H5fy0sSSoC",170,5,26,2021-06-19
+598,2021-06-20 00:23:02+00:00,1406407206426218498,graphprotocol,Google of blockchain https://t.co/7oIh1dfmjB,387,9,69,2021-06-20
+599,2021-06-21 20:25:02+00:00,1407072085705437184,graphprotocol,"#TheGraphMEME competition is heating 🔥!!!  The Graph squad 👭 is getting those numbers 🔢  on the board!!! 👩‍🎤  Who will be crowned 👑 the Champ❓ Keep em' coming! 👾  https://t.co/DPNHo06Zc1
+#TheGraphMEME #TheGraph #graphprotocol",105,3,11,2021-06-21
+600,2021-06-22 17:40:04+00:00,1407392959675387904,graphprotocol,The Web will never be the same. #TheGraph. https://t.co/HkBWMjGvJj,448,12,92,2021-06-22
+601,2021-06-23 01:33:03+00:00,1407511991351009281,graphprotocol,"Et Voilà! The Graph will be at @ETHCC! 🇫🇷
+
+Join us with @CeloOrg @NEARProtocol @centrifuge for a cross-chain pitch competition. Do you have what it takes? ⛓️
+
+You can also catch @dabit3 giving a workshop in the Celo Lounge 🤓✨ C'est magnifique!
+
+https://t.co/Zfl4HGczJl",125,1,16,2021-06-23
+604,2021-06-24 01:15:44+00:00,1407870019006963717,graphprotocol,Exciting things coming soon... 💭👩‍🚀🔭 https://t.co/4SvViHAZR4,342,7,55,2021-06-24
+609,2021-06-25 20:53:37+00:00,1408528834039799812,graphprotocol,".@KyberNetwork is using 👉 @graphprotocoI 👨‍🚀 to provide data analytics for Kyber DMM Protocol 🤜 🤛
+
+Check it out 👇
+https://t.co/ppx23AbsGx",255,4,49,2021-06-25
+612,2021-06-28 18:03:16+00:00,1409573124790575104,graphprotocol,@StakeMachine @honzaap very cool!,1,0,0,2021-06-28
+614,2021-06-29 16:03:46+00:00,1409905438682873858,graphprotocol,"We are excited to see the innovation that comes from the “Building on Arbitrum” Seminar in Shanghai. 
+
+The building continues! ⚒️ https://t.co/FNxOGEMmu9",100,1,17,2021-06-29
+618,2021-06-30 21:50:01+00:00,1410354966984904704,graphprotocol,"🧑🏻‍🚀👩🏻‍🚀This week, the community interviews @liray_indexer on the #KnowYourIndexer stage!
+
+🔈Don't forget to share your experience and leave your questions in the comments section💬 on The Graph Forum💫:
+
+https://t.co/p9vqyH5OgE",60,2,9,2021-06-30
+626,2021-07-01 17:04:32+00:00,1410645509342179331,graphprotocol,"📚 Read more on how @GelatoNetwork is using @GraphProtocoI's subgraphs in their Limit Order Library! 🔥💫
+
+https://t.co/sicebfYi6w",184,2,26,2021-07-01
+628,2021-07-02 19:55:05+00:00,1411050816841162752,graphprotocol,July seems like a great month to do something big!! https://t.co/ZbZYOX4zMs,472,23,78,2021-07-02
+639,2021-07-03 18:09:45+00:00,1411386696554323969,graphprotocol,"The Graph is built by thousands of people around the world who've contributed hours, days, weeks to grow the network &amp; community to where it is today.
+
+We appreciate your dedication to creating a decentralized data layer, we're all in this together.👨‍🚀💜",521,20,83,2021-07-03
+641,2021-07-05 22:46:01+00:00,1412180996917710848,graphprotocol,"🚀This Month in Curation: July☀️ out now! 
+
+https://t.co/ryL2loiaNp",144,6,26,2021-07-05
+643,2021-07-06 17:27:05+00:00,1412463121059377154,graphprotocol,"Last week @SemioticAI open sourced their Indexer Stress Test tool! 💥
+
+Now you can simulate as much query traffic as you like on testnet. Experiment with being an Indexer! 🤓
+
+Semiotic is an R&amp;D powerhouse &amp; Wave 1 grantee! @graphgrants 🙌
+https://t.co/evvesdZE5r",124,3,21,2021-07-06
+647,2021-07-07 20:26:01+00:00,1412870541761990656,graphprotocol,"Check out Edge &amp; Node co-founder, Tegan Kline in @FastCompany sharing her thoughts on the ""trajectory of cryptocurrencies in the post-pandemic world.""
+
+https://t.co/EJV8x3DIE4 https://t.co/8uULGnouEY",153,7,20,2021-07-07
+650,2021-07-08 20:00:34+00:00,1413226524648648706,graphprotocol,"Learn how to build a full-stack dapp on Ethereum with the new Subgraph Studio with @dabit3 at 4:20EST!
+
+He'll walk through how to publish a subgraph using @graphprotocoI &amp; build a front-end for querying the API &amp; displaying data in a Next.js app. 🧑‍💻
+
+https://t.co/TfwXTpbCdb https://t.co/gzjG6R33La",122,5,21,2021-07-08
+660,2021-07-09 01:12:33+00:00,1413305036675993600,graphprotocol,"Join us in our Twitter Drop Room at 9am PST (6pm CET) July 9th.
+
+We'll discuss the launch of two new products, Graph Explorer &amp; Subgraph Studio and subgraph migration from the hosted service to The Graph Network! 🌍 
+
+https://t.co/iXXfFMLoHI",133,2,18,2021-07-09
+662,2021-07-10 16:44:47+00:00,1413902028904955906,graphprotocol,"We have over 40 RFPs live in The Graph ecosystem!
+
+Whether you develop subgraphs, indexer tooling or build communities, we need your help! 🙌👨‍🚀
+
+Check out the RFPs &amp; apply 👇
+
+https://t.co/ivmjsHpZAr",181,7,30,2021-07-10
+664,2021-07-12 15:41:25+00:00,1414610860345991168,graphprotocol,"The Graph is live on Product Hunt!
+
+With the launch of Graph Explorer &amp; Subgraph Studio, Curators &amp; Subgraph Developers can easily interact with the protocol! 🚀
+
+If you believe in decentralization &amp; open data, make sure to up vote! 👇
+
+https://t.co/uwdqa3boOI",207,0,43,2021-07-12
+666,2021-07-13 17:41:15+00:00,1415003404141678593,graphprotocol,"Apply now to be part of Wave 3! @graphgrants 
+
+https://t.co/voXJOedEZy https://t.co/sHhBjtmttz",64,0,5,2021-07-13
+669,2021-07-16 17:17:04+00:00,1416084479689515015,graphprotocol,"🎊A new segment of #KnowYourIndexer is now live! This time, the community interviews @Stake2earn 
+
+📣 Don't miss it! Ask the team any of your burning questions in the comments section💬
+
+https://t.co/QKxfXtriyM",70,1,18,2021-07-16
+670,2021-07-17 17:45:27+00:00,1416454011398590473,graphprotocol,"Coming to @EthCC? Join us at Fête DAO ✨ on July 20th for panels, music &amp; memories 🎉
+
+Presented by ​@Uniswap @UpshotHQ @centrifuge @coinfund_io &amp; others 🇫🇷 https://t.co/InBYHIuYR8",123,8,20,2021-07-17
+671,2021-07-20 10:56:38+00:00,1417438294569259010,graphprotocol,"Visit the Cross-Chain Salon today to catch @dabit3's workshop: ""Building Rich APIs on top of Celo with The Graph""
+
+@ 10 Rue Frédéric Sauton, 2pm CEST, see you there! 🙋‍♀️ @CeloOrg https://t.co/RgkSHIPJAV",93,0,13,2021-07-20
+673,2021-07-21 22:18:16+00:00,1417972218441699329,graphprotocol,"🎙️ Join The Graph Community Talk to get all the latest updates from The Graph ecosystem &amp; protocol.
+
+📅 Tuesday, July 27th @ 8am PST
+
+We're covering a wide range of topics! Check out the agenda here: https://t.co/7Tg2VcLRYH https://t.co/7Tg2VcLRYH",79,1,17,2021-07-21
+679,2021-07-22 09:13:42+00:00,1418137164467089408,graphprotocol,"We have distributed the remaining GRT migration rewards to Subgraph Developers who redeemed their @poapxyz! 👩‍🚀
+
+In total, 3,000+ Subgraph Developers were rewarded for their contributions to open source APIs 💜🚀
+
+Use GRT to pay for query fees on the network &amp; curate on subgraphs! https://t.co/N8tKwuPLRn",101,4,12,2021-07-22
+680,2021-07-23 13:29:38+00:00,1418563959586758658,graphprotocol,"Excellent tips on how to improve your migration experience! 🤓
+
+If you're migrating your dapp's subgraph to the network, make sure to join the community in Discord &amp; ask questions! We're here to help 🧑‍🚀 https://t.co/QBoJ8fZLN4",68,0,15,2021-07-23
+682,2021-07-24 10:34:28+00:00,1418882264889503746,graphprotocol,"We are proud to sponsor @ETHCC Hackathon, with bounties for building &amp; consuming subgraphs!
+
+🗓 Jul 23-25
+👨‍🚀 Subgraph &amp; Dapp Challenges
+💰 Up to $5K in GRT Bounties
+🌎 In-person in Paris, or virtually from home
+
+What are you waiting for? Register here:
+https://t.co/8Jj0ao4ask",115,4,18,2021-07-24
+683,2021-07-27 17:07:49+00:00,1420068418611515393,graphprotocol,"ChainSafe awarded a grant by The Graph Foundation for Filecoin integration.
+
+Adding Filecoin support to The Graph will allow subgraph developers to build subgraphs that index data from Filecoin blocks and actors 💫
+
+Read all about it👇 https://t.co/xdeJdyzlAC",125,4,29,2021-07-27
+686,2021-07-28 14:32:01+00:00,1420391597284503558,graphprotocol,"""The vision for Ethereum...has always been to take decentralization, trust minimization, &amp; mechanism design experimentation far beyond finance.""
+— @VitalikButerin 🎙️
+
+Who's ready to realize the full vision of Ethereum with Web3? 👨‍🚀👩‍🚀
+https://t.co/eaWCqEc8vz",193,7,36,2021-07-28
+688,2021-07-29 22:45:52+00:00,1420878267851051009,graphprotocol,"Figment’s entry to the ecosystem is more proof that the future of the Internet is protocols and open-source communities, not corporations building closed-source tools 💥",52,1,1,2021-07-29
+695,2021-07-30 00:02:00+00:00,1420897429923237890,graphprotocol,"""@0xPolygon...enables near-instant and low-cost transactions for both its users and developers alike.
+
+Querying data through The Graph becomes seamless and will fuel the development of new dapps without worrying about high costs."" —@MktsInsider
+https://t.co/qupPZxYiO4",87,1,17,2021-07-30
+699,2021-08-01 12:29:37+00:00,1421810348634648578,graphprotocol,"🔔The community takes on a new participant in the #KnowYourIndexer segment in its 16th edition with the @CitadelDAO team 🤝
+
+Have burning Indexer questions? Don't miss out on the Q&amp;A with the Citadel team in the comments section 💬
+
+https://t.co/MBlpRn0Sfz",70,0,18,2021-08-01
+700,2021-08-03 15:09:38+00:00,1422575392192442370,graphprotocol,"The 6th Graph Core Devs Meeting is happening now! 
+
+Tune in to hear @Figment_io @streamingfastio @edgeandnode @semioticai share their ongoing work &amp; discuss upcoming GIPs! 👨‍🚀
+
+https://t.co/sAJ3ga24U4",64,0,11,2021-08-03
+704,2021-08-04 21:33:00+00:00,1423034259422552066,graphprotocol,"""The bug bounty program will focus on some of the most common threats to blockchain systems -- the potential loss of user funds...service degradation, network tampering, &amp; more.""
+—Full article by @ZDNet👇 https://t.co/N8WtLC7ARp",56,0,11,2021-08-04
+709,2021-08-05 13:45:11+00:00,1423278917113106433,graphprotocol,"Congratulations @ethereum on a monumental milestone! 🥳
+
+EIP-1559 is the first step in making decentralized infrastructure sustainable for the masses #ETH2
+
+Feel the burn together 🔥",347,5,38,2021-08-05
+711,2021-08-06 01:08:00+00:00,1423450754149404680,graphprotocol,"Recently The Graph launched the decentralized data economy with Curation, Graph Explorer &amp; Subgraph Studio 🔍👨‍🚀
+
+📹 Here's an introduction to the protocol &amp; the future of Web3: https://t.co/7bDsmytV6u",145,4,32,2021-08-06
+713,2021-08-07 16:05:02+00:00,1424038884472668160,graphprotocol,"Want to start building with The Graph?👨‍💻👩‍💻
+
+@impranavm_ is hosting a workshop at @chainlink's #SmartCon on ""Building Rich APIs on top of Blockchain with The Graph.""
+
+📅 Today, August 7th at 1:05 PM ET
+Set a notification &amp; sign up now!
+https://t.co/Kss47OuAVx",166,6,29,2021-08-07
+714,2021-08-09 21:42:05+00:00,1424848483132051460,graphprotocol,"""70% of Subgraphs are related to DeFi, while we're also seeing an increasing trend in NFTs.""
+
+@evabeylin sat down with Joe Lubin &amp; @VitalikButerin during the @EntEthAlliance Ethereum Anniversary Special to discuss the recent trends on The Graph📊🔍
+
+📺 https://t.co/eXpZLuvzF2 https://t.co/cVrtkvoaZI",109,1,25,2021-08-09
+715,2021-08-10 23:03:10+00:00,1425231274571141124,graphprotocol,"The Graph provides valuable data to key aspects of @Uniswap, including pools, tokens, &amp; interval data.
+
+However, new subgraphs are needed to support the latest features from V3🦄🔍
+
+@ianlapham explains what data is needed &amp; why it's important for Uniswap:
+https://t.co/WIrJkMDYYD",122,4,32,2021-08-10
+718,2021-08-11 00:03:00+00:00,1425246334580412416,graphprotocol,"RFP - Curator Rewards Calculator
+💰 Bounty: $12K
+
+Curators can earn rewards for signaling on the right subgraphs🔎 , but how might they calculate their rewards?
+
+If you know how to build a dapp or UI rewards calculator, apply for the RFP today!
+https://t.co/sQLelQf8eW",109,4,24,2021-08-11
+721,2021-08-12 21:15:06+00:00,1425928855311708164,graphprotocol,"The Graph Announces Curator Bootstrapping Rewards!
+
+Curators who were active during the first week of curation are eligible to claim 700 GRT as rewards for their contributions. 💫
+
+Thank you for your support! 💜
+
+https://t.co/MbjGKR4goC",222,26,51,2021-08-12
+723,2021-08-13 19:47:00+00:00,1426269074913435656,graphprotocol,"Want to query subgraphs from a frontend application?
+
+This tutorial not only covers how to do so through a Javascript web app, but you can also apply it to native iOS, Android, &amp; Flutter mobile apps 👨‍💻
+https://t.co/1drOx7Vkpf",134,1,28,2021-08-13
+726,2021-08-16 16:52:06+00:00,1427312219696553993,graphprotocol,"Missed the workshop led by @dabit3 &amp; @Amxx on indexing @OpenZeppelin smart contracts with The Graph? 📄
+
+Read the recap or watch the full recording here 🔽
+https://t.co/T4AMp7tpvJ",92,3,21,2021-08-16
+728,2021-08-17 20:21:15+00:00,1427727242742882314,graphprotocol,"The Graph has been added to @MessariCrypto, a community-driven marketplace for crypto research! 🔍
+
+Use Messari Hub's tools &amp; database to assist you in your research about The Graph.
+https://t.co/l2MF1E86T9",197,9,34,2021-08-17
+730,2021-08-18 17:01:36+00:00,1428039387162550280,graphprotocol,"Are you an artist? 🎨
+
+@BadgethDAO is hosting a contest to design art for their first set of NFT badges, which will be awarded to noteworthy Indexers, Delegators &amp; Curators!
+
+📅  Submission deadline - Aug 30
+💰 Over 10K GRT in prizes
+
+More details: https://t.co/PFgipWxX9C",120,9,24,2021-08-18
+733,2021-08-19 22:52:53+00:00,1428490177568256000,graphprotocol,"In this series of #KnowYourIndexer, the community interviews the only Indexer node in Africa! 😮 
+
+Ask your questions in The Graph Forum post below. 👩‍🚀
+https://t.co/jjg8tCeNHN",79,0,18,2021-08-19
+734,2021-08-20 15:28:57+00:00,1428740849907687429,graphprotocol,"Introducing Matchstick: a unit testing framework for subgraph devs! ✨
+
+Now you can test mapping logic before deploying a subgraph in Matchstick's testing environment!
+
+Thanks to grantee @LimeChainHQ for building &amp; 
+@DennisonBertram for ideating! 🦾🧑‍🚀
+
+https://t.co/JvUSMq2kaM",213,3,39,2021-08-20
+737,2021-08-23 16:55:07+00:00,1429849695325655043,graphprotocol,"GRT has been added to @coinbase Card Rewards! 
+
+Choose to earn GRT for your rewards &amp; get 4% back on your purchases 💳 👨‍🚀
+
+Want a card? Line up for one here:
+https://t.co/uRWG0rxInN",287,5,54,2021-08-23
+738,2021-08-24 19:27:32+00:00,1430250440864649217,graphprotocol,"What does a decentralized protocol mean to you?
+
+If it's not listed here, write it down in the replies! ✏",82,11,14,2021-08-24
+742,2021-08-25 01:00:26+00:00,1430334218370830337,graphprotocol,https://t.co/7ExGQhlhhi,189,6,31,2021-08-25
+743,2021-08-27 17:30:18+00:00,1431308101198692353,graphprotocol,"As the demand for blockchain usage increases so does query volume on The Graph 🔎👩‍🚀
+
+Watch the full presentation from @theklineventure during @chainlink's recent #SmartCon: https://t.co/oEyI6YZSbB https://t.co/zOJY0NwooW",214,7,47,2021-08-27
+745,2021-08-30 20:34:03+00:00,1432441508599410692,graphprotocol,"To build a decentralized protocol, you need to bootstrap an initial community. This includes:
+✔ Evangelizing the mission
+✔ Providing obsessive customer support
+✔ Identifying community leaders
+✔ Empowering people
+
+@yanivgraph explains at @EthCC: https://t.co/AxtdV3xsrW https://t.co/6NSaMU8kCW",212,13,36,2021-08-30
+746,2021-08-31 20:46:17+00:00,1432806974220029954,graphprotocol,"Do you have what it takes to help grow The Graph? 👩‍🚀
+
+The Graph Foundation is hiring for Ecosystem Development &amp; Partnerships!
+
+Contribute to the decentralized movement, lead advocacy efforts, support 3rd party relationships &amp; grow the community ✨
+
+https://t.co/iPESNuDbR4",206,3,48,2021-08-31
+747,2021-09-01 14:40:06+00:00,1433077207040200708,graphprotocol,"With the recently released @OpenZeppelin subgraphs, you can build &amp; run a subgraph within minutes! 🔎⚡
+
+Check out this guide by @dabit3 to learn how to build NFT APIs with OpenZeppelin &amp; The Graph: https://t.co/KnHmR225iW https://t.co/W9eWCGyXEH",184,12,38,2021-09-01
+749,2021-09-02 16:43:00+00:00,1433470523367989261,graphprotocol,"Hola amigos! On this week's #KnowYourIndexer series, the @Protofire team takes the stage &amp; discusses their heavy involvement in the Spanish-speaking community! 🗣️
+
+Ask your questions &amp; leave your comments/feedback to the team via The Graph Forum! 💬
+https://t.co/sXnn77c1Ou",92,5,19,2021-09-02
+752,2021-09-03 20:14:00+00:00,1433886014129455106,graphprotocol,"""The Graph will be there to index &amp; query all of the Internet’s information on the blockchain.""
+
+@edgeandnode co-founder @theklineventure recently sat down with @TCR_news_ to talk about The Graph &amp; the future of the blockchain ecosystem 🎙
+https://t.co/moJjZYS1aW",240,11,47,2021-09-03
+754,2021-09-04 00:16:00+00:00,1433946914798571527,graphprotocol,"Episode 26 of the @grt_iq Podcast features @cryptovestor &amp; @_fattox, both Indexers &amp; members of the Graph Council!
+
+They talk about the Indexer community &amp; how they're working together with the Core Dev teams, @streamingfastio &amp; @Figment_io.
+
+Tune in🎙 https://t.co/bP7FNnyvS5",118,7,21,2021-09-04
+755,2021-09-06 17:00:27+00:00,1434924470305759242,graphprotocol,"Imagine if internet-based platforms didn’t allow you to add profile images💀
+
+Thankfully, that’s not the case at The Graph!
+
+If you’re an Indexer on The Graph, update your profile's avatar, indexer name &amp; add a description in 4 simple steps 👨‍🚀📱
+Here's how:https://t.co/nOckVl1T6x",233,4,39,2021-09-06
+756,2021-09-07 22:38:36+00:00,1435371952642801668,graphprotocol,"Standardizing industry terms is important as Web3 &amp; blockchains continue to grow &amp; gain adoption.
+
+Decentralized applications...how do you like to spell its abbreviation?",103,10,20,2021-09-07
+757,2021-09-08 20:00:08+00:00,1435694460956983299,graphprotocol,"Indexing rewards are distributed to Indexers who are indexing subgraph deployments for the network. 👩‍🚀👨‍🚀
+
+Keep tabs on the recent rewards on the latest epochs here: https://t.co/0LBbEQO9N9
+
+The current active epoch (#261) has already accrued 944K GRT! https://t.co/v1ms440uW9",188,10,33,2021-09-08
+759,2021-09-09 22:25:31+00:00,1436093435853762562,graphprotocol,"In case you missed it, check out The Graph's Core Devs Meeting #7!
+
+Watch this month's full recording or skim the highlights to stay up to date on protocol developments 🤓 
+
+https://t.co/Ia5LLASwuF",108,3,22,2021-09-09
+760,2021-09-10 01:28:00+00:00,1436139363033886727,graphprotocol,"Did you know that The Graph's Indexers have more than one revenue stream? 💸
+
+Not only do Indexers that operate Graph Nodes earn revenue through indexing rewards, but also query fees.
+
+Learn more about each revenue stream on the @graph_academy:
+https://t.co/cIO7JyWehv",194,9,40,2021-09-10
+761,2021-09-13 22:20:21+00:00,1437541687950258176,graphprotocol,"The Graph Network has been live for over 9 months ✨
+
+Since then, we welcomed 2x new Core Dev teams, 160+ Indexers, over 2K Curators &amp; nearly 7K Delegators!
+
+Read the full update to learn more about the decentralized network's recent developments 👨‍🚀🔎
+https://t.co/T1F6J9GodV",357,20,67,2021-09-13
+762,2021-09-14 22:05:02+00:00,1437900222261252096,graphprotocol,"Meet the wizard behind The Graph logo &amp; brand 🎨🧙‍♂️
+
+@edgeandnode Co-Founder &amp; Design Lead @Hagerling hopped on a call with the @grt_iq Podcast to discuss his background with Ikea &amp; Facebook &amp; how he got involved with The Graph.
+
+Tune in🎙
+https://t.co/FBov2lQlx3",76,2,15,2021-09-14
+763,2021-09-15 21:52:16+00:00,1438259398493753344,graphprotocol,"You are smart, you are kind, you are a grantee! 🧑‍🚀
+
+Do you have ideas on what to improve in The Graph ecosystem? Are you building a dapp with subgraphs? Any needs for tooling?
+
+Apply for a grant or suggest RFPs! 🚀
+https://t.co/e82pRJqueV",181,10,45,2021-09-15
+767,2021-09-16 17:40:42+00:00,1438558477979369472,graphprotocol,"The possibilities are endless with code &amp; for code to reach its full potential, you can use compilers to better coordinate with your team!
+
+Learn how Rust solves developer's biggest problems in this @rustconf video with @ludemegames 👨‍💻
+https://t.co/0N2zwYism2",135,8,30,2021-09-16
+768,2021-09-17 01:10:00+00:00,1438671546877415431,graphprotocol,"Subgraphs allow you to index &amp; query data from blockchains via GraphQL. They're useful for anyone building dapps.
+
+Watch @impranavm’s technical workshop, where he'll take you through every step of building &amp; deploying rich APIs on The Graph.
+https://t.co/M1tw3VtTdz",198,6,38,2021-09-17
+770,2021-09-21 20:37:05+00:00,1440414802925408260,graphprotocol,"Are you enjoying Day 2 of @MessariCrypto Mainnet?
+
+If you're attending the event, come check out The Graph's booth at the Marriott Marquis 5th Floor Booth #110 to chat with the team &amp; pick up some swag 👕🔎
+
+The booth will be open until 6 PM EDT — See you there!",119,7,13,2021-09-21
+772,2021-09-22 10:00:12+00:00,1440616913973899273,graphprotocol,"Like web3 &amp; NFTs?
+
+Then come watch @edgeandnode solutions engineer @impranavm_ as he shares his expert thoughts on The Graph &amp; the fundamentals behind NFTs at World DeFi Summit!
+
+Tune in at 3 PM UAE &amp; register here: https://t.co/S0MjGo2izX",96,6,14,2021-09-22
+774,2021-09-23 19:00:29+00:00,1441115269061963776,graphprotocol,"How does a protocol like @PoolTogether_ use The Graph in their web3 stack?
+
+PoolTogether CTO Brendan Asselstine explains with a technical look with @edgeandnode solutions engineer @impranavm_ 👨‍💻
+
+Watch the full video on @chainlink's User Roundtable: https://t.co/KsUf6rG2Zf",162,3,33,2021-09-23
+777,2021-09-24 18:16:01+00:00,1441466466516099078,graphprotocol,"Web3 is giving rise to permissionless job openings that anyone can participate in.
+
+At The Graph, you don't need to submit a resume or portfolio to start working as an Indexer, Delegator, or Curator 👨‍🚀👩‍🚀
+
+Explore new work opportunities at The Graph: https://t.co/CRn36kuF2B",275,14,54,2021-09-24
+778,2021-09-27 17:20:03+00:00,1442539544486760456,graphprotocol,"""You can have DeFi, NFTs &amp; social media on the blockchain, but you need information that's portrayed to the front end users in a decentralized way—this is what The Graph solves.""
+
+@impranavm_ talks benefits of The Graph on the @HashingItOutPod Podcast:
+https://t.co/0Y5RTYNNqc",217,2,36,2021-09-27
+780,2021-09-28 17:11:02+00:00,1442899665846878216,graphprotocol,"Learn from some of the greatest minds in the industry &amp; attend @DystopiaLabs Playful, a virtual summit about DeFi, NFTs &amp; web3.
+
+@dabit3 is hosting a workshop on how to build subgraphs on Sept 30 at 7 AM PDT 🔍👨‍🚀
+
+Sign up at: https://t.co/ZAzYZbdFyL",97,2,19,2021-09-28
+783,2021-09-30 13:01:01+00:00,1443561523616665608,graphprotocol,"Start your day off by learning how to build subgraphs with @dabit3 🔍👨‍💻
+
+Nader's workshop begins today, at 7 AM PDT for all @DystopiaLabs Playful attendees! 
+
+More details at: https://t.co/ZAzYZaW4Hd https://t.co/SRL7bzKxVe",148,5,29,2021-09-30
+786,2021-10-01 17:45:03+00:00,1443995388923494414,graphprotocol,"At @eth_atl &amp; want to learn how to develop subgraphs?
+
+Come join @schmid_si's workshop at 2:45 PM EDT as he teaches you how to build a subgraph using the @BaseledgerNet - @ethereum bridge as an example 👨‍💻
+
+https://t.co/eAxS0EoFCn https://t.co/e0xD9BERai",110,6,24,2021-10-01
+794,2021-10-02 00:42:00+00:00,1444100317860216833,graphprotocol,"NFT artists, enthusiasts &amp; visionaries are helping reshape the definition of art. Creating &amp; owning art should never require gatekeepers. Do you agree? 🖼",231,8,27,2021-10-02
+796,2021-10-04 22:46:00+00:00,1445158289860345860,graphprotocol,"Should art be created by a select few a&amp; owned by even fewer? The NFT space has disrupted this notion &amp; the NFT community is going to redefine art a lot more, very soon... 🎨",175,6,23,2021-10-04
+799,2021-10-05 22:09:42+00:00,1445511539776122890,graphprotocol,".@edgeandnode solutions engineer @impranavm_ was recently invited to speak at the World Defi Summit in Dubai, where he gave a talk about The Graph, decentralized NFTs &amp; all things web3. 
+
+Check out our coverage on the event here ⬇️ 
+https://t.co/wjypxq7iej",134,5,33,2021-10-05
+803,2021-10-07 03:32:00+00:00,1445955038803857412,graphprotocol,"A proposal is being discussed to simplify the Indexer cut mechanism at The Graph. Delegators would more easily compare different cut settings while Indexers would more effortlessly maintain them.
+
+Read more &amp; participate in the discussion here: https://t.co/YuuECspdaJ",181,9,27,2021-10-07
+806,2021-10-08 11:08:21+00:00,1446432269879574528,graphprotocol,"It’s the second &amp; final day of @token2049! Swing by The Graph booth (booth number M12), meet the team, &amp; tell us what you’re working on! 🛸 https://t.co/bnTrRh7RuD",58,1,4,2021-10-08
+809,2021-10-11 16:43:55+00:00,1447603883623256065,graphprotocol,We're here for web3 🌐⤵ https://t.co/EzqjbMXG2j,199,6,32,2021-10-11
+812,2021-10-12 22:03:00+00:00,1448046571334082565,graphprotocol,"👨‍🚀👩‍🚀@AllThingsOpen is a technology conference focusing on what makes open source projects possible.
+
+Join dev relations engineer @dabit3 as he leads a keynote on how web3 is reshaping the internet, Monday, Oct 18🗓
+
+Attend in person, or watch free online: https://t.co/TJYr6RqnNN",99,3,19,2021-10-12
+819,2021-10-13 00:21:10+00:00,1448081343041077250,graphprotocol,#TheGraphMeme https://t.co/zc1WmfRBRe,361,16,63,2021-10-13
+825,2021-10-14 22:55:01+00:00,1448784434879205377,graphprotocol,"Yesterday, @Figment_io's head of education @sprngtheory &amp; @edgeandnode's dev relations engineer @dabit3 hosted an informative live stream about building on The Graph 🔍
+
+Didn't get a chance to tune in live? Watch the full recording here &amp; begin learning: https://t.co/1KdaIdlgPo",91,10,13,2021-10-14
+830,2021-10-15 16:07:01+00:00,1449044147860656129,graphprotocol,"The Graph Foundation is happy to educate a network of university &amp; college students across the globe in collaboration with @EncodeClub, powered by @GraphGrants! 🎓 https://t.co/861aA1xusc",140,2,23,2021-10-15
+843,2021-10-16 00:45:01+00:00,1449174505486798859,graphprotocol,"""Immediately, the lights turned on for us...we awakened to the opportunity that Index Africa could have for digital education in Africa."" 💡
+
+Meet Indexers @richlaburn &amp; @BoydVarty &amp; learn about their journey creating Index Africa on the @grt_iq Podcast 🎙
+https://t.co/b4mw8OeQ34",156,10,22,2021-10-16
+844,2021-10-18 13:53:56+00:00,1450097819721867271,graphprotocol,"The internet is evolving 🌐
+
+Learn how web3 is reshaping the internet with @edgeandnode developer relations engineer @dabit3 at @AllThingsOpen.
+
+Tune into Nader's keynote now at: https://t.co/TJYr6RqnNN https://t.co/zZJ90vZcpo",111,1,21,2021-10-18
+848,2021-10-19 17:00:26+00:00,1450507142323134466,graphprotocol,"@MoonriverNW is a layer 1 Ethereum-compatible parachain that is connected to the @kusamanetwork.
+
+Similar to how Kusama is the sister network to @Polkadot, Moonriver is the sister network to @MoonbeamNetwork, the layer 1 blockchain built on Polkadot 🟩⛓",119,2,19,2021-10-19
+855,2021-10-20 08:42:41+00:00,1450744266213388289,graphprotocol,"Good morning to everyone at @0xliscon in Lisbon 👋
+
+Head over to the main stage at 10 AM WEST, to catch @edgeandnode CEO @yanivgraph's talk titled ""Are we there yet? How long to web3"" 👨‍🚀",142,5,18,2021-10-20
+859,2021-10-21 19:45:02+00:00,1451273340522573827,graphprotocol,"🔍@ETHLisbon is approaching, so if you're interested in learning more about The Graph, this is your chance!
+
+@yanivgraph will speak during the opening ceremony on Friday, while @schmid_si will lead an NFT subgraph development workshop on Saturday, Oct 23.
+https://t.co/PHO5CUeJSv",139,3,32,2021-10-21
+860,2021-10-22 20:09:01+00:00,1451641766273236994,graphprotocol,"Did you know that no central entity dictates subgraph creation on The Graph &amp; any motivated developer can deploy one for their web3 solution? Plus, subgraphs are open source &amp; everyone can index &amp; query them 🔍
+
+Here’s how you can create your own subgraph: https://t.co/pjIDMCRz6Y https://t.co/jNGODnFhBn",195,4,39,2021-10-22
+865,2021-10-26 19:37:00+00:00,1453083259852759043,graphprotocol,"Need to set up your billing &amp; API keys on Subgraph Studio? 📄🔑
+
+Check out this video guide to take you through the process step by step: https://t.co/Gkax6LfHsu",172,3,24,2021-10-26
+873,2021-10-27 17:20:13+00:00,1453411223639412741,graphprotocol,"""The old meets the new. It feels like it's always been around, but it's facing the future.""
+
+@edgeandnode co-founder @Hagerling discussed Aztec civilization, infrastructure, space &amp; the meaning behind the branding of @graphprotocol on the @grt_iq Podcast: https://t.co/KnZlmLwQ46 https://t.co/tPvEDobTpW",153,5,18,2021-10-27
+876,2021-10-28 19:06:38+00:00,1453800391703945221,graphprotocol,"✨ Sharing an exciting update on core dev grants &amp; how contributors can get more involved with The Graph protocol R&amp;D!
+
+Grants for core dev work are integral to protocol decentralization 🌐
+
+Let’s keep building as a community 👨‍🚀 https://t.co/f6wW4QVZu5",165,6,31,2021-10-28
+879,2021-10-29 08:30:02+00:00,1454002573850071041,graphprotocol,"At the @DINAconCH conference in one hour, @edgeandnode solutions engineer @schmid_si will be hosting a workshop on querying &amp; indexing smart contract data with The Graph on @ethereum 🌐🔍
+
+Ready for this value-packed session? Catch him here shortly: https://t.co/lHkmvzoSNt",152,8,23,2021-10-29
+880,2021-10-30 00:15:03+00:00,1454240394745720840,graphprotocol,"Members of The Graph ecosystem will attend @WebSummit, ""the best technology conference on the planet"" per @Forbes
+
+Learn full stack web3 development with @edgeandnode solutions engineer @schmid_si's masterclass on Nov 4 🔍👨‍💻
+
+Check out the full agenda at: https://t.co/Df42zUbBSX",225,2,46,2021-10-30
+882,2021-11-01 21:18:56+00:00,1455283239921360897,graphprotocol,"Stay in the loop on all the events folks in The Graph ecosystem will appear at by subscribing to The Graph newsletter!
+
+📧 https://t.co/Hcvj6Ug3cJ",62,0,5,2021-11-01
+889,2021-11-02 19:44:42+00:00,1455621909454917634,graphprotocol,https://t.co/IgYz6nR406,593,20,80,2021-11-02
+890,2021-11-03 11:41:37+00:00,1455862728996831233,graphprotocol,@nanexcool @LefterisJP 🧉,3,0,0,2021-11-03
+892,2021-11-04 21:48:23+00:00,1456377811204284423,graphprotocol,Read more on the Curation Tax reduction GIP discussion here: https://t.co/oDRFfIkyCI,106,0,13,2021-11-04
+898,2021-11-05 23:14:42+00:00,1456761923962351619,graphprotocol,".@edgeandnode co-founder @theklineventure attended @NFT_NYC on the panel, ""What are the Best NFT blockchains?"" with @MickeyMaher23 (@dapperlabs), @ukolodny (@StarkWareLtd) &amp; @1GenX (@0xPolygon).
+
+During the panel, Tegan shared: ""The Graph is a uniter of the blockchain space"" ✨",86,4,7,2021-11-05
+908,2021-11-08 16:01:07+00:00,1457739973336129536,graphprotocol,"The Solana community can look forward to a vibrant future of collaboration &amp; development in The Graph &amp; Solana ecosystems🤝
+
+Stay up to date on each stage of the coming Solana integration in The Graph forum 🛸
+https://t.co/RarYWvdAw0",158,3,18,2021-11-08
+914,2021-11-09 15:58:07+00:00,1458101605933404162,graphprotocol,@TheRealTopher66 @ZachVialpando_ @graphtronauts @grt_iq 👨‍🚀,10,2,1,2021-11-09
+916,2021-11-10 06:46:00+00:00,1458325050164142084,graphprotocol,"Join Community Talk #5 on Tues, Nov 16th at 8 AM PST 👨‍🚀👩‍🚀
+
+Hear the latest community updates &amp; announcements regarding @NEARProtocol, @solana, @cosmos &amp; governance. The work of a @graphgrants grantee will be highlighted too.
+
+🗓Add to your calendar:
+https://t.co/UKxBahVnVV https://t.co/0qOan2wE5r",236,8,39,2021-11-10
+918,2021-11-11 01:03:36+00:00,1458601269426278407,graphprotocol,"Why is @graphprotocol a core piece of infrastructure for web3?
+
+@dabit3 elaborates in his latest tweet explainer 🐦
+
+Watch the video below to learn more about The Graph &amp; its role in the future of the internet 🔍 https://t.co/3z0oJly2vC",490,17,113,2021-11-11
+920,2021-11-12 00:29:27+00:00,1458955061489549315,graphprotocol,@graphgrants Apply to build here: https://t.co/aDjWCLrNoo,95,2,11,2021-11-12
+922,2021-11-13 17:28:08+00:00,1459573811913756675,graphprotocol,"At Cosmoverse, the core dev teams building on @graphprotocol announced that they are preparing to support the @cosmos ecosystem. Led by @Figment_io, the integration will enable dapps built on the Cosmos network to use subgraphs by querying data.
+
+https://t.co/2oW2VF0pM6",129,1,14,2021-11-13
+929,2021-11-16 00:17:01+00:00,1460401485217517571,graphprotocol,"Don't forget to join tomorrow's Community Talk #5 - Nov 16th at 8 AM PST. 
+
+Hear the latest community updates &amp; announcements regarding @NEARProtocol, @solana, @cosmos &amp; governance. The work of a @graphgrants grantee will be highlighted too 👨‍🚀👩‍🚀
+
+🗓 https://t.co/nJGSFuCMLV https://t.co/5egt9R3u4R",162,5,34,2021-11-16
+932,2021-11-18 00:06:01+00:00,1461123490992562184,graphprotocol,"Need help getting started delegating with The Graph? ✍️
+
+Catch up on the @graphtronauts Delegator Office Hours workshop &amp; hear @pdiomede's beginner-friendly guide for delegating GRT, researching Indexers, &amp; utilizing community dashboards. 
+
+Watch here: https://t.co/UfahHNvhfm",152,3,24,2021-11-18
+934,2021-11-19 19:09:01+00:00,1461773525824544784,graphprotocol,"All work &amp; no play is not the way in web3 😎
+
+Share your favorite @graphprotocol memes that you've stumbled across in the community or created yourself!
+⤵",237,18,39,2021-11-19
+935,2021-11-20 01:13:27+00:00,1461865238408699913,graphprotocol,"@ConstitutionDAO @juiceboxETH @_cryptovestor @protofire @ethereum @sharkdao @Tile_DAO Although @ConstitutionDAO did not buy the Constitution this time around, the interaction between the DAO &amp; Sotheby’s marks a fundamental shift in the web3 space by redefining who gets to have a say in owning a piece of history! https://t.co/HtXq3vnxKx",111,4,17,2021-11-20
+941,2021-11-23 00:05:00+00:00,1462935177424953353,graphprotocol,"Planning to be in Miami next week? ☀️ If so, be sure to catch members of the @graphprotocol ecosystem at @DCentralCon on Nov 30 &amp; Dec 1. Stop by the booth to learn more about The Graph &amp; NFTs! 
+
+Stay tuned for the lineup of panels... &amp; yes, there will be stickers 👀",263,16,37,2021-11-23
+942,2021-11-24 20:06:35+00:00,1463599949598310404,graphprotocol,"Announcing that The Graph's hosted service will support @zksync, an EVM-compatible ZK-rollup scaling solution. What will this integration mean for developers? 🧵⬇️ https://t.co/2d52aWxN5d",603,27,111,2021-11-24
+945,2021-11-26 19:46:00+00:00,1464319549004779523,graphprotocol,Use 3 emojis to describe web3 🌐🔍🥳,813,291,61,2021-11-26
+946,2021-11-27 00:35:01+00:00,1464392279116890113,graphprotocol,"Did you know? The Graph encourages projects &amp; developers to create open-source APIs called subgraphs, so that an open data economy can exist where anyone can access any data based on their requirements.
+
+Learn how to build a subgraph here: https://t.co/MOhfybs4ky",319,13,57,2021-11-27
+947,2021-11-29 22:56:18+00:00,1465454602241728516,graphprotocol,"As Ethereum scales with the coming launch of ETH 2.0, The Graph is committed to serving historical data needs for Ethereum users
+
+https://t.co/vX36Rdp3Z1",836,50,169,2021-11-29
+951,2021-11-30 20:04:54+00:00,1465773853708197890,graphprotocol,"The Graph is at @dcentralcon with an immersive experience with @KnownOrigin_io @UpshotHQ &amp; @AudiusProject 🎥👨‍🚀
+
+The booth's NFTs are generative art made from subgraph data turned into a CSV by @UpshotHQ &amp; used by @KnownOrigin_io artists @brendandawes, @joshachaplin &amp; @Hazmus 🖼 https://t.co/abrCfT0qI2",317,13,70,2021-11-30
+953,2021-12-01 17:35:12+00:00,1466098569547497479,graphprotocol,"We're honored to have @theklineventure of @edgeandnode committed to building The Graph! 👩‍🚀
+
+Tegan is a force to be reckoned with &amp; one of this year's #Forbes30Under30
+
+https://t.co/45OfuLtwrC",292,37,49,2021-12-01
+954,2021-12-02 17:06:45+00:00,1466453797551681538,graphprotocol,"ETH 2.0 is coming to scale Ethereum. EIP-4444 proposes to remove historical data requirements for nodes.
+
+Here's how The Graph can provide a reliable &amp; decentralized solution for verifiably indexing Ethereum historical data so dapps can query from genesis.
+https://t.co/XCkG2XxJey",815,41,192,2021-12-02
+955,2021-12-03 22:13:02+00:00,1466893265370849284,graphprotocol,"🎶 @AudiusProject is paving the way for web3 music, with a music streaming dapp that gives power back to the artists using blockchain technology ⛓
+🔽 https://t.co/Zt56hifwKF",257,11,53,2021-12-03
+958,2021-12-04 06:22:00+00:00,1467016317190426632,graphprotocol,Thank you @laurashin for these two very informative writeups on The Graph &amp; @streamingfastio! 🔍 https://t.co/MRWMP0fxCR,152,18,22,2021-12-04
+961,2021-12-07 19:35:00+00:00,1468303045964419072,graphprotocol,"“Integrating with The Graph unlocks enormous pools of data that developers can now leverage to build everything from decentralized exchanges to community-powered DAOs &amp; social networks,” added Alex Shevchenko, co-founder &amp; CEO of @auroraisnear💬 https://t.co/VIDu6lb4x7",176,39,52,2021-12-07
+967,2021-12-08 18:50:01+00:00,1468654113533534213,graphprotocol,"The Graph community will have birthday gatherings in:
+
+📍Buenos Aires: https://t.co/y0U0NjNLwL
+
+📍Bangalore: https://t.co/ieyyBAa9bv
+
+📍Montreal: https://t.co/KhwunkogN1",33,2,3,2021-12-08
+971,2021-12-09 17:19:11+00:00,1468993642656243714,graphprotocol,"4/ ""The Graph is all about data &amp; just as AI plays a central role in all Google products, @semioticai will contribute to the convergence of AI &amp; the decentralized internet,” - @RezBrandon, co-founder of @edgeandnode 💬",38,1,1,2021-12-09
+977,2021-12-10 15:25:24+00:00,1469327394653753344,graphprotocol,"The Graph Academy Grants program begins with two RFPs for subgraph development &amp; Indexer onboarding. Plus—the ability to submit your own ideas!
+
+Thanks for establishing this essential program &amp; further decentralizing community contributions in The Graph ecosystem 📚 https://t.co/Wol8bH4rm2",153,7,25,2021-12-10
+978,2021-12-11 00:17:42+00:00,1469461352490184708,graphprotocol,"🎬 @LivepeerOrg is a decentralized live streaming platform powered by the Ethereum blockchain. The protocol acts as a global streaming network that aims to be more reliable, scalable, &amp; cost-effective than centralized options.
+
+How does Livepeer utilize The Graph? 🔽 https://t.co/frpoisG724",259,31,52,2021-12-11
+981,2021-12-14 21:54:35+00:00,1470874890114936833,graphprotocol,"Save the date! Graph Day 2022 will take place on Thursday, June 2 next year. 
+
+Join builders, dreamers, &amp; doers creating protocols, dapps, &amp; the future of web3 at the Palace of Fine Arts in San Francisco 🏛️
+
+See you at Graph Day 📅 https://t.co/osAMwOPzTV",310,12,65,2021-12-14
+982,2021-12-15 23:32:00+00:00,1471261793154646026,graphprotocol,"""[@TheGuildDev] will also build out new subgraph standards, features &amp; The Graph Node’s querying capabilities, allowing developers to more quickly construct feature-rich apps using The Graph.""
+
+Read the full article from @VentureBeat: https://t.co/QC6h1BQl7l",220,13,35,2021-12-15
+990,2021-12-17 18:27:58+00:00,1471910056467873799,graphprotocol,"Another perspective: query fees on the network are growing steadily, having eclipsed over 265K GRT in fees on the network to date. 
+
+Query fees are dominated by dapps using DeFi, NFT &amp; social subgraphs, though additional use cases are emerging. Any dapp can use these subgraphs! https://t.co/TCWEcEbmsb",55,1,3,2021-12-17
+1018,2021-12-22 01:33:38+00:00,1473466727480631305,graphprotocol,"Friday marked one year since the launch of The Graph Network &amp; what a year it has been! ✨
+
+Read reflections on the past year, the web3 renaissance &amp; where The Graph is headed. You can view the post on @coinbase to earn GRT to use in The Graph Network.
+https://t.co/9DtXfkPoWc",368,24,106,2021-12-22
+1019,2021-12-23 02:09:20+00:00,1473838099318943745,graphprotocol,"What will 2022 bring to the ecosystem? ✨
+
+If you have an idea for expanding the capabilities, integrations, or community of The Graph, apply to @graphgrants:
+
+https://t.co/y9hjLLUptv",77,7,9,2021-12-23
+1027,2021-12-24 17:03:46+00:00,1474425582054084612,graphprotocol,@joemccann @jeffscottward yet 🙃,6,3,0,2021-12-24
+1028,2022-01-12 00:47:04+00:00,1481065155438202880,graphprotocol,"In many ways, these are indeed “early days,” but a robust, complete web3 is closer than you think, &amp; its durability hinges entirely on decentralization. 
+
+Protocols, not platforms, are the future. 
+
+What’s your dream for web3?",123,20,15,2022-01-12
+1037,2022-01-14 23:15:17+00:00,1482129220092366853,graphprotocol,"🖼 @artblocks_io is an NFT platform focused on genuinely programmable, on-demand generative art that is stored immutably on the Ethereum blockchain.
+
+NFTs on Art Blocks represent the intersection of creativity &amp; code. 🔍🔽 https://t.co/84te3KvOD2",249,16,48,2022-01-14
+1040,2022-01-15 01:09:00+00:00,1482157840483639300,graphprotocol,"GIP-0022 is currently being proposed to The Graph community. This would integrate Tendermint into Graph Node, allowing easier, faster integrations of many chains in the @cosmos ecosystem🌌
+
+What are your thoughts on this GIP? Learn more in The Graph Forum: https://t.co/G50XNauGrv",343,13,70,2022-01-15
+1041,2022-01-18 02:19:28+00:00,1483262734879895556,graphprotocol,"💬Join the next Community Talk on Tues, Jan 18, at 8AM PST for:
+• community updates
+• @pdiomede's demo of the new @graphtronauts app &amp; mobile delegation
+• @dabit3 on his recent blog &amp; the importance of decentralization in web3
+
+Plus more! Details below:
+https://t.co/tg8STVfb8Q",133,12,32,2022-01-18
+1042,2022-01-20 20:46:03+00:00,1484265992914149376,graphprotocol,"Passionate about web3? Ready to onboard its next wave of builders?
+
+Help The Graph ecosystem identify all-star protocol contributors &amp; proponents of decentralization as the @graphgrants web3 recruiter ✨
+
+Apply now: https://t.co/xASb0FEHpR",172,9,50,2022-01-20
+1043,2022-01-21 23:33:55+00:00,1484670624337387539,graphprotocol,"Committed to decentralized governance, @UMAprotocol uses a subgraph on The Graph Network to query contract data for its voting system.
+
+Various proposals, known as UMIPs, are voted on by the UMA community: https://t.co/xHAtT6muva",79,4,11,2022-01-21
+1049,2022-01-24 23:54:41+00:00,1485763013969907717,graphprotocol,".@MoonbeamNetwork, an Ethereum-compatible smart contract platform on @Polkadot, is live on The Graph's hosted service ✨🔍
+
+This integration marks the first time The Graph's hosted service is indexing a Polkadot parachain—further connecting the multi-blockchain world 🌐 https://t.co/GpGidBZwUX",532,12,103,2022-01-24
+1050,2022-01-25 21:28:50+00:00,1486088700060737537,graphprotocol,"🏆 ENS Events by @yogicodes
+
+An @ensdomains debugger tool that checks for various events that happen to each ENS name, alongside complete details, records, available wallets &amp; more. This project demonstrates the power of open data ✨
+
+Read on below. (4/5) https://t.co/komzqnAJb6",40,1,4,2022-01-25
+1056,2022-01-26 22:32:46+00:00,1486467175598596096,graphprotocol,"Being a Delegator is a critical role in @graphprotocol &amp; you can earn GRT by helping to secure the network! 👨‍🚀  
+
+Join @TheRealTopher66, Delegator and an admin at @graphtronauts for an all-things-delegation AMA on Reddit tomorrow at 9AMPST/12PMEST!
+
+https://t.co/wvMbHlrDWs",142,6,28,2022-01-26
+1057,2022-01-27 04:30:01+00:00,1486557080987262985,graphprotocol,"Meet @petkanics, CEO &amp; co-founder of @LivepeerOrg, the decentralized video streaming protocol of web3 📹🔴
+
+Doug is an experienced developer who jumped into web3 after over a decade of building in web2 👨‍💻
+
+What possibilities do you think decentralized streaming will enable? https://t.co/JucB3DIjzV",196,7,37,2022-01-27
+1060,2022-02-01 23:12:17+00:00,1488651448359469059,graphprotocol,"Subgraph migration continues to grow on The Graph Network as dapps champion decentralized infrastructure. In numbers:
+
+• Network subgraphs grew over 18% in Q4
+• 279K GRT in Lifetime Query Fees
+• Amount of devs on the network up 73% in Q4
+• 288+ dapps operating on the network",33,1,4,2022-02-01
+1069,2022-02-02 23:56:35+00:00,1489024984022491139,graphprotocol,"Subgraphs are open source, meaning anyone can query data in the Beanstalk ecosystem, including data on the Bean token, supply, trading pairs, &amp; more!
+
+Check out the Beanstalk subgraph on Graph Explorer 🔍 https://t.co/lBZtyildmV",43,1,2,2022-02-02
+1080,2022-02-03 23:18:45+00:00,1489377849144451072,graphprotocol,"15/ To learn more about The Graph &amp; stay connected, be sure to follow @graphprotocol &amp; join the Discord server here: https://t.co/8PW0xRdnSH
+
+The Graph helps developers power their dream dapps with lightning fast data⚡
+
+What will you build next?",38,3,10,2022-02-03
+1095,2022-02-04 19:00:02+00:00,1489675129873473542,graphprotocol,"Join the Spanish-speaking Graph community in one hour for a Twitter Spaces AMA. 
+
+Learn about Graph Advocates, ask questions, &amp; grab a POAP for attending!
+https://t.co/cqAuYGiVV7",73,0,12,2022-02-04
+1102,2022-02-05 01:24:07+00:00,1489771788749971456,graphprotocol,"""Subgraphs make it much easier to [query blockchain data] because developers don't need to rebuild their own API.""— @evabeylin, Dir. @ The Graph Foundation.
+
+Open source APIs lower the barrier to entry for building, rebuilding, &amp; innovating!
+
+Full episode: https://t.co/vTooambfyR https://t.co/wz5RwRksx8",100,7,29,2022-02-05
+1103,2022-02-07 20:30:36+00:00,1490785086878404615,graphprotocol,"Subgraph Squad with @simpleFi_ has launched to empower subgraph developers!
+
+Collaborating with @graphgrants, SimpleFi is looking to fund grants towards the creation of subgraphs for @AlphaFinanceLab, @fraxfinance, @ConvexFinance, @CreamdotFinance &amp; @ribbonfinance. https://t.co/uE0nBOmi9r",149,8,34,2022-02-07
+1105,2022-02-08 19:06:18+00:00,1491126258398564352,graphprotocol,"The decentralized community fundraising protocol utilizes a subgraph to power the analytics displayed on each project page 📊
+
+The subgraph is also maintained in a decentralized way—through a DAO! JuiceboxDAO manages all changes to its subgraph 🧃 https://t.co/fKvpcd4uOm",53,1,7,2022-02-08
+1109,2022-02-09 23:42:41+00:00,1491558200721686537,graphprotocol,"An improved subgraph tooling integration with Hardhat is a priority for The Graph ecosystem, which will enable devs to build dapps more easily.
+
+@LimeChainHQ  &amp; @edgeandnode are collaborating on building a Hardhat plugin for subgraph development—stay tuned for updates!",57,2,10,2022-02-09
+1110,2022-02-10 17:33:11+00:00,1491827601672921089,graphprotocol,"Need to cram before #ETHDenver? @freeCodeCamp's course on building subgraphs is here! 📚
+
+Jump right into building dapps, using The Graph to query blockchain data with open source APIs. Start your lesson here: https://t.co/ESxtnIussj https://t.co/O17MCnAUtc",134,5,34,2022-02-10
+1111,2022-02-11 00:04:42+00:00,1491926128302379008,graphprotocol,"A gaming subgraph has migrated to The Graph Network!
+
+🎮@NiftyLeague is a community-led game studio known for its “Nifty Smashers” NFT-infused fighting game. 
+
+In-game NFT data is fetched using Nifty League's subgraph in a decentralized way. Read on 🔍⬇️ https://t.co/g7Frnuv35e",257,14,63,2022-02-11
+1116,2022-02-15 03:01:00+00:00,1493420047242567680,graphprotocol,"Let’s talk dapps, network migration, decentralization, &amp; using subgraphs!
+
+This Wednesday, @dabit3 is hosting a Space joined by leaders from @ApyVision, @radicle, @juiceboxETH, @UMAprotocol, @NiftyLeague, &amp; @PoolTogether_🎙️
+
+Set a reminder &amp; save the date: https://t.co/SxuK8CzGfA",455,19,87,2022-02-15
+1126,2022-02-16 17:00:50+00:00,1493993785088299013,graphprotocol,"Starting soon!✨
+
+In 1 hour, @dabit3 is hosting a Space with @ApyVision, @radicle, @juiceboxETH, @UMAprotocol, @NiftyLeague, &amp; @PoolTogether_ to discuss decentralization, dapps, migration of subgraphs to the network, &amp; more 👨‍🚀 👩‍🚀
+
+Set a reminder &amp; tune in: https://t.co/SxuK8CRh78",258,11,46,2022-02-16
+1127,2022-02-17 20:18:02+00:00,1494405800097374214,graphprotocol,"""@mikojava of @GumiCryptos described The Graph as “an essential part of the Web3 stack,” referring to the network’s focus on developing application programming interfaces for the next iteration of the internet.""
+
+Read the full article on @Cointelegraph:
+https://t.co/rSzThMgdEV",147,8,34,2022-02-17
+1130,2022-02-18 03:59:33+00:00,1494521945039114240,graphprotocol,"🏆The prize breakdown is the same for both the in-person &amp; online hacking🏆
+
+Best use case of any existing subgraphs:
+1st Place: 3000 DAI
+Runner-up (3 prizes): 2000 DAI
+
+Best new subgraph:
+1st Place: 5000 DAI
+Runner-up (3 prizes): 2500 DAI
+
+Happy hacking!",63,5,8,2022-02-18
+1133,2022-02-19 20:48:19+00:00,1495138197868888068,graphprotocol,It's incredible to see @AndrewYang learning about the vibrant future of web3 &amp; decentralized protocols at The Graph’s #ETHDenver booth! https://t.co/W6mwmMaw0Q,259,13,43,2022-02-19
+1134,2022-02-23 22:10:02+00:00,1496608315392106500,graphprotocol,"NFT use cases are evolving. Transfer of subgraph ownership is now possible with unique NFTs 💥
+
+This enables devs building with larger teams &amp; DAOs to collaborate on subgraph development more effectively 🤝
+
+Learn about the feature:
+https://t.co/TJYU1si7JE https://t.co/HTqk4LoMKj",312,10,88,2022-02-23
+1137,2022-02-24 16:55:40+00:00,1496891590329126921,graphprotocol,"Subgraphs on The Graph Network enable developers to build projects without centralized points of failure.
+
+These decentralized subgraphs are also open-source, meaning anyone can query, analyze, or fork the PoH subgraph. See more on Graph Explorer 🔍:
+https://t.co/Fxzcr77ZlX",57,4,9,2022-02-24
+1143,2022-03-01 02:34:02+00:00,1498486692650655744,graphprotocol,"The Graph Foundation is sponsoring @web3con &amp; offering $2,500 in bounties! 
+
+To compete for a bounty, flex your subgraph-building skills by creating a custom subgraph, or build a new dapp using an existing subgraph 👨‍💻👩‍💻 https://t.co/ChjYkWjg7Z",155,7,33,2022-03-01
+1145,2022-03-03 22:03:14+00:00,1499505706315169802,graphprotocol,"The Graph community is global—so people should be able to access The Graph docs &amp; website in their preferred language 🌏🧑‍🚀
+
+Arabic, Korean, Chinese, Japanese, Vietnamese, &amp; Spanish translations are now up on https://t.co/3YVpq4Z343! https://t.co/wgMBhuBf2G",181,9,41,2022-03-03
+1151,2022-03-04 21:38:51+00:00,1499861958417334272,graphprotocol,"🧑‍🎨 Calling all web3 memers &amp; dreamers! 
+
+Round 2 of The Graph's meme competition is LIVE. Help educate the community about the web3 stack &amp; decentralization for the chance to win a ticket to Graph Day, Graph swag &amp; the title of Meme Champion!
+
+Rules here: https://t.co/6mc77oW4Ey https://t.co/gBiXMOteP9",173,32,67,2022-03-04
+1161,2022-03-10 17:05:43+00:00,1501967548929163268,graphprotocol,"The Graph ecosystem is championing decentralization as Ethereum subgraphs continue to migrate to The Graph Network 🛸
+
+Here’s an update shedding more context on the state of migration, query fees, &amp; resources to help you migrate your subgraph today! https://t.co/Z26rrISXas",274,31,77,2022-03-10
+1162,2022-03-11 23:24:22+00:00,1502425227703336964,graphprotocol,"For a limited time The Graph Foundation is awarding grants to help migrate Ethereum subgraphs to the decentralized network.
+
+Improve the reliability of your dapp with The Graph Network! Grants will be reduced by the end of March so apply now ⬇️ https://t.co/01xommj13D",145,6,31,2022-03-11
+1166,2022-03-14 21:45:42+00:00,1503487562249289728,graphprotocol,"Join The Graph Community Talk #9 tomorrow at 8am PST to get the latest updates from The Graph ecosystem 🎙
+
+Topics include:
+
+- Graph Day 2022
+- The Graph Advocates Program
+- Meme Competition
+- Translations into multiple languages
+
+Details &amp; how to join:
+
+https://t.co/QoafwYHDoK",113,8,32,2022-03-14
+1169,2022-03-15 14:05:09+00:00,1503734048077799426,graphprotocol,"Did you know that The Graph supports the transfer of subgraph ownership using NFTs? 
+
+This new feature enables DAOs &amp; teams of developers to strengthen collaboration &amp; more easily iterate when building out their subgraphs 🤝
+
+Learn how with @dabit3 here: https://t.co/BN893OC7vp",190,9,46,2022-03-15
+1170,2022-03-17 17:38:00+00:00,1504512389814927363,graphprotocol,"Missed @NenaNerdetta’s presentation at @Developer_DAO's #DevNTell during @web3con? 
+
+Here’s the replay—watch as Nena walks you through The Graph’s new subgraph ownership transfer feature (enabled by NFTs!)  👩‍🚀 
+https://t.co/MRQOTmAs3x",119,5,26,2022-03-17
+1171,2022-03-18 19:36:18+00:00,1504904547227119623,graphprotocol,"The @dissrup1 subgraph is live on The Graph’s decentralized network!
+
+🖼️ Dissrup is an NFT platform uniting web3 artists &amp; collectors around digital art &amp; collectibles. They curate a selection of unique NFT artwork &amp; create interactive blockchain experiences.
+
+Read on ⬇️ https://t.co/BVRN0PuUsK",138,2,30,2022-03-18
+1175,2022-03-21 21:08:06+00:00,1506014810995138568,graphprotocol,"Following Graph Day, collaborate with the brightest minds in web3 at Graph Hack — a 3-day hackathon at the Palace of Fine Arts in SF!
+
+Join for Graph Day &amp; Graph Hack, June 2-5. Shape the future of web3, build dapps, &amp; win bounties ✨
+
+Apply to hack: https://t.co/716pKjrmwD",145,4,33,2022-03-21
+1177,2022-03-22 22:07:38+00:00,1506392183154348038,graphprotocol,"Using The Graph’s decentralized network helps APY Vision keep a reliable, secure stream of data flowing 🌊
+
+In the spirit of open-source building, anyone can query APY Vision’s subgraph, or fork it for their own use! See more on Graph Explorer 🔍:
+https://t.co/lkm9Qd5rno",37,0,4,2022-03-22
+1181,2022-03-23 16:06:20+00:00,1506663646373552129,graphprotocol,"Core contributors from around the world are expanding The Graph &amp; driving the protocol’s R&amp;D roadmap to achieve web3’s decentralized vision.
+
+Today The Graph Foundation is excited to present this collaborative R&amp;D roadmap to the community 🧑‍🚀
+https://t.co/AaDJ3IIC08",381,25,134,2022-03-23
+1186,2022-03-25 19:57:54+00:00,1507446699698053126,graphprotocol,"The LAO community relies on decentralized infrastructure in order to support a resilient organization without centralized points of failure.
+
+DAOs can only outlive their founding members by methodically choosing decentralized tools that enable permanence 📖",43,2,8,2022-03-25
+1191,2022-03-28 21:01:49+00:00,1508549947016327175,graphprotocol,"A great thread on reputation in web3 ⬇️
+
+Graph Grantee @soulboundlabs is using The Graph to organize &amp; display rich data surrounding on-chain protocol reputation! https://t.co/AVxVDDyJfk",136,2,23,2022-03-28
+1192,2022-03-29 15:27:36+00:00,1508828224326979589,graphprotocol,"The first wave of tickets for Graph Day is almost sold out ⏳
+
+Get your ticket now to secure the lowest price of the year 🎟️
+
+https://t.co/FbJulcCiMw",176,5,38,2022-03-29
+1196,2022-03-30 23:33:05+00:00,1509312788098949125,graphprotocol,"Graph Day scholarships are being awarded now—28 applicants have already been accepted!🧑‍🎓
+
+Passionate about The Graph &amp; enabling web3? Need help making it to Graph Day or building at Graph Hack?
+
+Submit an application to be considered for the next wave 🌊 https://t.co/YpXkcakK5c",157,5,43,2022-03-30
+1197,2022-03-31 17:03:47+00:00,1509577209459183616,graphprotocol,"The Graph ecosystem welcomes the Boba community 👋
+
+Read more about the beta integration here: https://t.co/MTJzSjALmQ",54,4,12,2022-03-31
+1206,2022-04-01 22:29:28+00:00,1510021557036503045,graphprotocol,"Congratulations to everyone who bought their tickets! See you in SF on June 2 🎉
+
+The initial wave of Graph Day tickets is sold out 🎟️
+
+Don't have a ticket? Check back later &amp; stay tuned for more tickets to be unlocked: https://t.co/ZSlOFxQyQV",172,4,35,2022-04-01
+1207,2022-04-02 16:50:21+00:00,1510298600546385920,graphprotocol,"@Candy_Chain_ Head to our discord, there are many community members who are happy to help you!
+
+https://t.co/lSfSwxRMz6",1,0,0,2022-04-02
+1208,2022-04-04 17:26:23+00:00,1511032447361855489,graphprotocol,"Missed the initial round of Graph Day tickets? 🎟️
+
+A new wave has just been unlocked! Secure your spot for a day focused on web3's future at the historic Palace of Fine Arts in SF 🏛
+
+Get your ticket now before prices rise again: https://t.co/ZSlOFxQyQV",160,9,44,2022-04-04
+1209,2022-04-05 16:52:59+00:00,1511386427216568327,graphprotocol,"@0xMishra If you have any questions, join us in the discord 👨‍🚀
+
+https://t.co/lSfSwxRMz6",2,1,0,2022-04-05
+1215,2022-04-06 20:18:09+00:00,1511800449711722502,graphprotocol,"Let's talk decentralized philanthropy, Index Africa, &amp; The Graph!
+
+Join tomorrow at 10AM PST as @TwentyTwoNode hosts a Space joined by leaders @rodventures @richlaburn, @boydvarty, @i_barnes, @ktfou, &amp; @gwfonline 🎙
+
+Set a reminder here: https://t.co/QjZ0DhLDfg https://t.co/DBQrVD59Rg",130,15,32,2022-04-06
+1216,2022-04-07 16:00:01+00:00,1512097876985487362,graphprotocol,"Join in an hour for a Twitter Space on decentralized philanthropy, The Graph &amp; the Graphrica community with @twentytwonode, @rodventures, @richlaburn, @boydvarty, @i_barnes, @ktfou &amp; @gwfonline 🎙
+
+Set a reminder &amp; tune in at 10AM PST: https://t.co/QjZ0DhLDfg",74,5,21,2022-04-07
+1220,2022-04-08 22:35:25+00:00,1512559770535931908,graphprotocol,"The Rocket Pool community makes ETH2 staking data easy to read by using a subgraph 📖
+
+Subgraphs on The Graph’s decentralized network are open source—which means anybody can query or fork the Rocket Pool subgraph. See more on Graph Explorer 🔍:
+https://t.co/Dg60lWBzko",44,0,7,2022-04-08
+1231,2022-04-11 18:40:35+00:00,1513587832937488395,graphprotocol,"Learn more about the recently announced Graph AdvocatesDAO tomorrow, April 12 at 9AM PST
+🎙️
+
+Several Graph Advocates are joining a Space to discuss the Graph Advocates program, Graph AdvocatesDAO, &amp; the future of community grants!
+
+📅 Set a reminder: https://t.co/nc3JkiWYSb https://t.co/mZXLlbhsjZ https://t.co/JqXL6xr9VC",132,4,34,2022-04-11
+1232,2022-04-12 23:01:00+00:00,1514015757339824133,graphprotocol,"A second wave of Graph Day scholarships has just been awarded—30 more applicants have been accepted 🧑‍🎓
+
+Inspired by web3 &amp; The Graph ecosystem? Need help coming to Graph Day or hacking at Graph Hack?
+
+Apply now to be considered for the next wave 🌊
+https://t.co/YpXkcaCkWK",134,4,36,2022-04-12
+1238,2022-04-13 20:01:22+00:00,1514332940104310792,graphprotocol,"The future of protocols &amp; the internet will be advanced at Graph Day ✨
+
+Hear from @CamiRusso, the founder of @DefiantNews, as she leads a discussion on how protocols are reshaping the internet on June 2 in SF!
+
+Tickets here: https://t.co/RrZuDSQZ87 https://t.co/qBdoAT2n2k",149,3,25,2022-04-13
+1239,2022-04-15 20:40:08+00:00,1515067469614006285,graphprotocol,"Thursday, April 21st, The Graph Foundation &amp; @QuickNode are co-sponsoring a hacker house.
+
+Connect with hackers, build, &amp; join @dabit3, dev relations engineer at @edgeandnode, to learn how to build subgraphs on The Graph 🧰
+
+Register here: https://t.co/9yCSQPA2q6",30,2,11,2022-04-15
+1247,2022-04-18 20:47:16+00:00,1516156431317282816,graphprotocol,"Join The Graph Community Talk #10 tomorrow at 8am PST to hear all the latest updates in The Graph ecosystem 🎙
+
+Topics include:
+- Graph AdvocatesDAO
+- R&amp;D Roadmap
+- Wave 5 Grantees
+
+More details + how to tune in here:
+https://t.co/TaG9rG9DjU",154,8,44,2022-04-18
+1248,2022-04-19 14:00:32+00:00,1516416461690089472,graphprotocol,"The Graph Community Talk #10 starts in one hour! Join to get all the latest updates on what’s happening in the ecosystem. Topics include:
+
+- Graph AdvocatesDAO
+- R&amp;D Roadmap
+- Wave 5 Grantees
+
+More details + how to tune in: https://t.co/TaG9rG9DjU",85,3,19,2022-04-19
+1253,2022-04-21 23:24:17+00:00,1517283107577245698,graphprotocol,"Yesterday marked the very first quarterly GRT Participant Update Call 📱 
+
+Whether you are a network participant or want to learn how to use GRT in the network, check out the recording to learn all about the latest updates in The Graph ecosystem.
+https://t.co/oyKpOXi2Ux",112,7,17,2022-04-21
+1261,2022-04-22 20:23:44+00:00,1517600061185740800,graphprotocol,"The Graph Network allows dapp devs to build &amp; maintain consistent, speedy access to DAO data (&amp; more!) thanks to decentralization.
+
+Subgraphs are open source, so anyone can query Orca’s subgraph, or fork it for themselves. See more on Graph Explorer 🔍: https://t.co/nyuJkbNOqe",43,2,5,2022-04-22
+1267,2022-04-24 13:15:49+00:00,1518217145951338498,graphprotocol,"@mistralz Search for subgraphs in the explorer!
+
+https://t.co/tg2q9rBPOD",3,0,0,2022-04-24
+1269,2022-04-25 20:18:39+00:00,1518685942793523201,graphprotocol,"#GraphDay2022 will bring builders &amp; investors together 🤝
+
+@CraigBurel, partner at @ReciprocalVC, is joining a panel to voice his thoughts on the intersection of venture capital &amp; web3.
+
+Join the conversation with Craig on June 2 in SF! Tickets here: https://t.co/RrZuDSQZ87 https://t.co/slgskHjSob",124,1,28,2022-04-25
+1270,2022-04-26 21:12:04+00:00,1519061775437680642,graphprotocol,"Core devs iterating upon The Graph &amp; revolutionizing web3 are speaking at #GraphDay2022 🛠️
+
+@bourgetalexndre, co-founder &amp; CTO of @streamingfastio, will speak on a panel alongside other Graph core devs.
+
+Learn from Alexandre on June 2 in SF! Tickets here: https://t.co/RrZuDSQZ87 https://t.co/FZnDiaSnUL",156,27,52,2022-04-26
+1271,2022-04-28 20:04:32+00:00,1519769555211624453,graphprotocol,"Graph Hack kicks off right after Graph Day, June 3-5 in San Francisco!
+
+Join the brightest minds to build the future of web3, whether you're solo or with a team, anyone can hack 👩‍🚀
+
+Let's build web3 together!
+
+Register today &amp; apply for a scholarship: https://t.co/NEP6joWhvv",238,11,61,2022-04-28
+1275,2022-04-29 00:07:26+00:00,1519830680611561473,graphprotocol,"An unprecedented amount of bounties will be up for grabs at the biggest Graph ecosystem hackathon yet 🧑‍💻
+
+Stay tuned for bounties from top web3 projects that hackers will be competing for — to be announced soon! #GraphHack2022",95,3,21,2022-04-29
+1276,2022-05-02 19:13:44+00:00,1521206320254394372,graphprotocol,"The Graph makes accessing blockchain data easy ✨
+
+@coinbase's latest analysis on stablecoin interest rates visualizes DeFi data with charts powered by a @compoundfinance subgraph.
+
+Read the full article: https://t.co/FCNItXQAlR",185,22,35,2022-05-02
+1277,2022-05-04 19:50:33+00:00,1521940362838827011,graphprotocol,"The latest @IMFnews report on global financial stability utilizes The Graph to visualize crypto market &amp; DeFi statistics around lending, stablecoins &amp; liquidity 💡
+
+Read the report using The Graph to analyze global, open data: https://t.co/xB6O77od6W",132,9,23,2022-05-04
+1285,2022-05-05 16:31:00+00:00,1522252531597991940,graphprotocol,"Jeff Morris Jr., founding partner at @chapterone, is speaking at Graph Day 🎙️
+
+Hear from @jmj as he joins a panel dissecting how venture capital takes shape in the age of web3.
+
+Learn more on June 2 in SF! Tickets here: https://t.co/RrZuDSQZ87 https://t.co/pGRqLRapFl",102,5,17,2022-05-05
+1286,2022-05-06 18:33:50+00:00,1522645832738164737,graphprotocol,"Navigating through The Graph Docs is faster than ever thanks to a new, snappy search feature ⚡
+
+Now you can search keywords to quickly access resources related to subgraph development, indexing, curating, delegating &amp; more!
+
+Browse The Graph Docs here: https://t.co/8csMNSmmvD https://t.co/b7GUbUtuOG",170,9,45,2022-05-06
+1287,2022-05-10 17:30:05+00:00,1524079340878581761,graphprotocol,"✨ @NEARProtocol is joining #GraphHack2022 as a sponsor.
+
+Build on NEAR, create NEAR subgraphs, learn from speakers in the ecosystem &amp; win bounties donated by the NEAR Foundation!
+
+Sign up to hack or volunteer here:  https://t.co/AU7oXtvGVH https://t.co/mNcvTMDqBr",143,9,41,2022-05-10
+1290,2022-05-11 21:55:49+00:00,1524508603390083075,graphprotocol,"🧋 @bobanetwork is sponsoring #GraphHack2022.
+
+Come build the internet's most impactful dapps &amp; compete for bounties sponsored by Boba!
+
+Learn more &amp; sign up for Graph Hack here: https://t.co/AU7oXte649 https://t.co/dOySMTALqD",137,12,27,2022-05-11
+1291,2022-05-12 16:31:00+00:00,1524789246938124288,graphprotocol,"You can now connect to Graph Explorer &amp; Subgraph Studio with @CoinbaseWallet ✨
+
+Whether you’re looking for an Indexer to delegate to, curating on a subgraph or developing a new subgraph, you can now participate in The Graph ecosystem using your Coinbase Wallet! https://t.co/aCCsUmAdi1",143,49,27,2022-05-12
+1294,2022-05-13 14:44:00+00:00,1525124706218672129,graphprotocol,"Did someone say BUIDL market? 🛠️
+
+Jobs in The Graph ecosystem are open across core dev teams &amp; The Graph Foundation. Whether you’re interested in engineering, smart contracts, business or design, you can contribute to expanding The Graph.
+
+Apply here: https://t.co/E3SvL26A69",142,6,31,2022-05-13
+1297,2022-05-14 00:20:52+00:00,1525269882295750657,graphprotocol,"Can you hack for the future of #web3? #GraphHack2022 Platinum sponsor @CeloOrg is donating $25k in bounties &amp; will be there to see you in action 🧑‍💻
+
+Build subgraphs, create new dapps &amp; compete for prizes at Graph Hack!
+
+Sign up here: https://t.co/AU7oXte649 https://t.co/vVgmnGkAEA",157,9,28,2022-05-14
+1298,2022-05-16 22:44:16+00:00,1526332736616767488,graphprotocol,"✨ @Figment_io is joining #GraphHack2022 as a Platinum sponsor.
+
+Figment, a core dev in The Graph ecosystem &amp; blockchain infrastructure leader, is supporting hackers with $25k of bounties. Come build on The Graph &amp; learn from Figment speakers! https://t.co/ykGutrWyVc",132,2,26,2022-05-16
+1302,2022-05-17 17:36:06+00:00,1526617569515474944,graphprotocol,"The @Ethereum Foundation is joining #GraphHack2022 as a Silver sponsor 🌟
+ 
+Hackers building on The Graph are eligible for $10k in bounties contributed by the Ethereum Foundation &amp; the EF's Ecosystem Support Program @EF_ESP.
+ 
+Sign up for Graph Hack here: https://t.co/AU7oXte649 https://t.co/Zxfmu1Xsbz",140,5,30,2022-05-17
+1306,2022-05-18 21:50:48+00:00,1527044056773173248,graphprotocol,"Hear from @ddwchen, DAO aficionado &amp; founder of @rehashweb3, at #GraphDay2022! Diana is joining as a panel moderator, examining the role of community in web3 🌐
+
+Learn from Diana on June 2 in SF! Get your ticket here: https://t.co/RrZuDSQZ87 https://t.co/BNUdzXY96y",99,6,14,2022-05-18
+1308,2022-05-19 16:45:45+00:00,1527329676615507970,graphprotocol,"Want to know how #web3 protocols are reshaping the internet? 🌐
+
+@CamiRusso, founder of @DefiantNews, is joining #GraphDay2022 to lead a discussion on the impact of protocols in the web3 revolution, June 2 in SF!
+
+Tickets here: https://t.co/RrZuDT8zZF https://t.co/drGKcyrm4a",121,7,20,2022-05-19
+1311,2022-05-20 22:01:00+00:00,1527771399502307333,graphprotocol,Start the weekend right: grab your ticket for #GraphDay2022 &amp; get ready for SF's biggest week in web3! https://t.co/ZSlOFxQyQV,115,5,25,2022-05-20
+1314,2022-05-23 16:16:02+00:00,1528771748887420929,graphprotocol,"Attend #GraphDay2022 to hear @camiinthisthang, dev rel engineer at @edgeandnode, speak about how The Graph community is uniting people around the world. 
+
+Learn from Cami on June 2 in SF! Tickets here: https://t.co/RrZuDSQZ87 https://t.co/GLD5M36zF7",111,5,28,2022-05-23
+1315,2022-05-24 15:31:01+00:00,1529122805475856385,graphprotocol,"Decentralized. Open. #web3 is the future.
+
+Be a part of it at #GraphDay2022 ✨ 
+
+Secure your ticket here: https://t.co/ZSlOFxQyQV",137,5,30,2022-05-24
+1319,2022-05-25 20:03:14+00:00,1529553699756216320,graphprotocol,"The Graph Foundation is sponsoring $5,000 in bounties at @ETHShanghai2022 🧑‍💻
+
+Build new subgraphs or dream up new uses for existing subgraphs to compete for prizes! Check out the bounty challenges listed on @Gitcoin here: https://t.co/DjAvw0LxCo https://t.co/q9qN7GpvbY",118,4,24,2022-05-25
+1324,2022-05-26 19:31:02+00:00,1529907982984695819,graphprotocol,"The web3 community is building the future together at #GraphHack2022 👩‍🚀👨‍🚀
+
+Build on The Graph &amp; compete for over $400k in bounties contributed by the 40+ web3 protocols, dev teams, &amp; dapps sponsoring this 3-day hackathon.
+
+Sign up for Graph Hack here: https://t.co/AU7oXte649 https://t.co/w4UTJN8B6d",264,11,63,2022-05-26
+1329,2022-05-27 18:21:12+00:00,1530252800310927361,graphprotocol,"Graph Hack’s Platinum sponsors are supporting web3 innovation by contributing $125k in hacker bounties, leading educational talks &amp; more next week in San Francisco ✨
+
+What will you build on The Graph at #GraphHack2022?
+
+Sign up to hack here: https://t.co/AU7oXtvGVH https://t.co/ZOkr9yEzIT",122,8,23,2022-05-27
+1332,2022-05-28 00:54:38+00:00,1530351809436393473,graphprotocol,Who's building? 🧑‍🚀,413,63,40,2022-05-28
+1333,2022-05-30 18:01:02+00:00,1531334885058691072,graphprotocol,"Graph Hack’s Gold sponsors are supporting $122.5k in hacker bounties ✨
+
+Come to #GraphHack2022 to build on The Graph &amp; learn from leaders representing:
+@edgeandnode @decentraland @BNBCHAIN @bobanetwork @Filecoin @multicoincap &amp; @nomadxyz_!
+
+Sign up here: https://t.co/AU7oXte649 https://t.co/PxMDKvLEBh",161,7,36,2022-05-30
+1335,2022-05-31 00:31:00+00:00,1531433023937257472,graphprotocol,"#GraphDay2022 is almost here ✨
+
+Don't miss your chance to learn, shape the future, party, &amp; connect with the people behind the most innovative &amp; widely used web3 projects.
+
+Get some of the last remaining tickets before it's too late 🎫⏳ https://t.co/RrZuDT8zZF",153,9,44,2022-05-31
+1337,2022-06-01 02:07:49+00:00,1531819779064885248,graphprotocol,"#GraphDay2022 tickets are SOLD OUT! Congrats to those who secured their tickets in time 🎟️
+
+June 2 is going to be a big day for the future of the internet. Many surprises are in store for those attending in person  🧑‍🚀
+
+Who's coming to revolutionize web3? https://t.co/OP2oyMrwZQ",168,11,31,2022-06-01
+1340,2022-06-02 16:39:36+00:00,1532401558805106698,graphprotocol,"To stay current on @graphopsxyz’s contributions to The Graph ecosystem, join the conversation on The Graph Forum: https://t.co/h1e65EPcmA
+
+And jump into The Graph Discord! https://t.co/8PW0xRuYKf",27,0,3,2022-06-02
+1356,2022-06-03 22:01:00+00:00,1532844829411094529,graphprotocol,"Today at #GraphHack2022, listen to Rahat Chowdhury (@rahatcodes) from @0xPolygon explain how scalable decentralized dapps are being built on Polygon—3:45pm PST today!
+
+Check out who is speaking now &amp; view the whole agenda for Graph Hack: https://t.co/mPKa62VlVW",90,0,11,2022-06-03
+1366,2022-06-04 15:31:00+00:00,1533109070428786688,graphprotocol,"It’s Day 2 of #GraphHack2022!
+
+Hackers are continuing to build bold new dapps for web3, competing for over $450k in bounties &amp; learning from visionary leaders in the space ⭐
+
+Check out the full Graph Hack agenda here: https://t.co/c03qnflYnb",134,4,23,2022-06-04
+1372,2022-06-05 03:36:27+00:00,1533291634686758913,graphprotocol,"Hello Graph Day &amp; Graph Hack participants! 👋
+
+Come by the Palace of Fine Arts at 9am tomorrow as hacker presentations &amp; judging begin for #GraphHack2022. Then, join The Graph community for the hackathon closing ceremony at 1pm🎉
+
+See you at the main stage!https://t.co/F9icerShan",130,4,25,2022-06-05
+1375,2022-06-07 19:38:41+00:00,1534258565350760448,graphprotocol,"Review The Graph docs for building, deploying, &amp; querying Cosmos Hub subgraphs here: https://t.co/P48U6Mo7AQ 
+
+Need more help getting started with Cosmos Hub subgraphs? Visit The Graph Discord: https://t.co/8PW0xRuYKf",45,1,8,2022-06-07
+1377,2022-06-08 22:16:29+00:00,1534660665033359361,graphprotocol,"The Ethereum merge is live on Ropsten Testnet — &amp; The Graph is here for it 💪
+
+Wondering how you'll access historical data if EIP-4444 gets included in ETH2.0? Here's how The Graph can help:
+https://t.co/XCkG2Xg7PY",219,28,64,2022-06-08
+1378,2022-06-14 20:27:38+00:00,1536807598741135361,graphprotocol,@cryptocity_p Congrats! Keep on building 👷‍♀️,0,0,0,2022-06-14
+1379,2022-06-16 15:32:47+00:00,1537458173229027329,graphprotocol,"Work hard. Play hard 🛸
+
+Missed the Interstellar Eclipse Party after Graph Day? Here's a look at the epic party that channeled the future of web3 at the historic Palace of Fine Arts in SF.
+
+Sign up for The Graph newsletter to be invited to future events: https://t.co/nq0Dbg9XRT https://t.co/PGOsiKpq5l",110,10,24,2022-06-16
+1381,2022-06-20 21:28:13+00:00,1538997171193880585,graphprotocol,"The Graph Foundation is supporting web3 innovation by contributing $10k in bounties this weekend in NYC 🗽
+
+Hackers will compete in two categories:
+⚡️ Best use of an existing subgraph
+⚡️ Best new subgraph
+
+What will you build on The Graph at #ETHNewYork?
+https://t.co/D9v8sg2QYh",105,4,30,2022-06-20
+1382,2022-06-21 19:09:31+00:00,1539324654778830852,graphprotocol,"""Design the world you want to live in."" 🌟
+
+Yaniv Tal, CEO of @edgeandnode &amp; co-founder of The Graph delivered a historic keynote with the launch of Geo at #GraphDay2022. Watch the replay &amp; discover a path to a vibrant new world with web3 protocols &amp; Geo: https://t.co/A8VlvKkxx5 https://t.co/lXtEdMKOIU",164,8,38,2022-06-21
+1385,2022-06-23 21:38:43+00:00,1540086975956393988,graphprotocol,"A special thank you to the sponsors, volunteers, &amp; @GraphAdvocates that made #GraphHack2022 possible 🌟
+
+Want to join The Graph community in revolutionizing the internet at future hackathons? Subscribe to The Graph newsletter: https://t.co/nq0Dbg9XRT",45,1,8,2022-06-23
+1394,2022-06-24 16:32:44+00:00,1540372360829837319,graphprotocol,"Who’s ready to build on The Graph in NYC this weekend? 👨‍💻👩‍💻
+
+Members of the ecosystem are coming to #ETHNewYork to assist hackers &amp; answer all your questions about The Graph.
+
+Don’t miss these workshops hosted by two subgraph aficionados ⬇️",134,9,29,2022-06-24
+1397,2022-06-28 18:38:18+00:00,1541853512769888257,graphprotocol,"“The Graph is going to be harder, better, faster, stronger.” ⚡️
+
+At #GraphDay2022, @RezBrandon, Head of Research &amp; Product at @edgeandnode, revealed a proposal to implement Layer 2 @arbitrum on The Graph Network to reduce participation costs &amp; more: https://t.co/pytzvVUC1m https://t.co/H8whkYtW5A",162,21,35,2022-06-28
+1398,2022-06-30 17:30:04+00:00,1542561119361028096,graphprotocol,"Web3 is reshaping society with decentralized protocols 🌐
+
+At #GraphDay2022, @evabeylin, Director of The Graph Foundation, outlined The Graph’s decentralization journey, welcomed @graphopsxyz as a new core dev &amp; discussed 2 brand new DAOs in the ecosystem: https://t.co/XebhtM1aDW https://t.co/8RfPyRxkVy",121,6,20,2022-06-30
+1399,2022-07-01 13:35:51+00:00,1542864561958690818,graphprotocol,"The Graph Client is live &amp; ready to use now—it automatically comes with The Graph CLI package!
+
+Watch @notrab’s guide to learn more about everything you can do with The Graph Client: https://t.co/u0nb0qiNlv",55,3,17,2022-07-01
+1408,2022-07-04 19:30:35+00:00,1544040998669524993,graphprotocol,"@evabeylin @JosephALChami @jannispohlmann @0xsamgreen @UriGoldshtein @undefinedza During the panel discussion, @JosephALChami announced the beta integration of @CosmosHub with The Graph’s hosted service—marking the first @cosmos chain to be indexed by The Graph. A coming @osmosiszone integration was also announced ⚛️
+
+Learn more here: https://t.co/roznYsrA2U",125,8,27,2022-07-04
+1411,2022-07-05 16:01:02+00:00,1544350652192661505,graphprotocol,"Indexing performance on The Graph is becoming magnitudes faster ⚡️
+
+At #GraphDay2022, @thefubhy chronicled how subgraphs have changed how we interact with data in web3 &amp; announced substreams, which will improve subgraph syncing speeds over 100x: https://t.co/clVXLS737S https://t.co/dvAWfKkjo8",147,15,38,2022-07-05
+1412,2022-07-06 15:30:07+00:00,1544705258181591040,graphprotocol,"Subgraph builders &amp; users are getting a massive boost 🧠
+
+At #GraphDay2022, @MessariCrypto CEO @twobitidiot shared a vision for open data &amp; announced a @graphgrants grant designating Messari as The Graph ecosystem's first-ever core subgraph developer: https://t.co/XYyhaUrGmv https://t.co/V6lhvgOHkT",124,10,32,2022-07-06
+1415,2022-07-07 16:30:06+00:00,1545082743457038337,graphprotocol,"Web3 is built on protocols, not platforms ⛓
+
+At #GraphDay2022, @OFernau, @RHLSTHRM, @saraareynolds, @ericxtang &amp; @roneilr discussed how decentralized web3 protocols are improving human collaboration, transforming incentives &amp; revolutionizing the internet: https://t.co/DN0AyAbMc4 https://t.co/wliHf9kkoN",134,21,38,2022-07-07
+1416,2022-07-08 16:30:19+00:00,1545445183852093446,graphprotocol,"How can web3 solve humanity’s most pressing coordination problems? 🤝
+
+At #GraphDay2022, @owocki, CEO of @Gitcoin, explored how funding in web3 can be applied to achieve maximum coordination, &amp; what Gitcoin &amp; @graphgrants are doing to get us there: https://t.co/mGUbLw7hV9 https://t.co/wyvdLeXOkZ",119,17,29,2022-07-08
+1417,2022-07-13 16:01:00+00:00,1547249744602312704,graphprotocol,"""In June, San Francisco held the biggest web3 event that the city had ever seen.""
+
+#GraphDay2022 showed the world that the decentralized internet of the future is not only alive, but thriving &amp; accelerating. Read more from @ElaineDMoore of @FinancialTimes: https://t.co/AD8O4dUVd7",96,10,20,2022-07-13
+1419,2022-07-14 16:30:09+00:00,1547619467793862657,graphprotocol,"What is the best way to report on web3? 🎥
+
+At #GraphDay2022, @ShiraLazar led a panel on the intersection of web3 &amp; media, joined by @skesslr, @mattleising, &amp; @unblockedfuture, dissecting how journalism unpacks bold new ideas amid the internet’s rebirth: https://t.co/GdoeQcvQtw https://t.co/PrIIeU5PyU",86,18,15,2022-07-14
+1425,2022-07-15 18:20:43+00:00,1548009680558891008,graphprotocol,"Shoutout to all the builders who got creative with subgraphs at #ETHNewYork! 🍎
+
+Continuing to build on The Graph, post-hackathon?
+
+Discover subgraphs on Graph Explorer: https://t.co/dVcRXXUopL
+
+Join The Graph Discord for more developer resources: https://t.co/vXVgIhpOH4",46,4,4,2022-07-15
+1431,2022-07-18 17:11:30+00:00,1549079426377318408,graphprotocol,"This Thursday at 2:40pm CEST, join @edgeandnode dev rel engineer @camiinthisthang for a workshop during #IOSGDataverseDay.
+
+Learn how substreams, a new technology by @streamingfastio, are increasing indexing performance by 100x 🤯https://t.co/RqXZi45h4q",49,3,9,2022-07-18
+1433,2022-07-19 21:58:57+00:00,1549514154888892417,graphprotocol,"You don't need a technical background to contribute to the decentralized future of the internet 🧑‍🚀
+
+Join the growing community of Delegators securing The Graph's decentralized network while learning about &amp; building web3.
+
+Learn how to delegate here: https://t.co/tONf5nhgjD https://t.co/faKLl6kCiY",106,9,18,2022-07-19
+1434,2022-07-22 19:55:50+00:00,1550570335237554176,graphprotocol,"The Graph was featured in this week's @OurNetwork__ Ethereum ecosystem report by @spencernoon 📄
+
+As subgraphs continue migrating to The Graph Network, cumulative query fees have grown over 5x since the start of Q2.
+
+Read all the stats in the full report: https://t.co/POl2oSO2cZ",128,20,34,2022-07-22
+1435,2022-07-27 19:10:42+00:00,1552370913978482693,graphprotocol,"The subgraph for @slice__so is live on The Graph’s decentralized network! 🍰
+
+Slice is a decentralized commerce protocol that enables on-chain sales of anything—physical goods, digital collectibles &amp; more: https://t.co/w12Os2Ddr7 https://t.co/2XNa8va59o",111,5,33,2022-07-27
+1439,2022-07-28 16:55:35+00:00,1552699299653451777,graphprotocol,"Wave 6 of @graphgrants has been allocated 🌊 
+
+Nearly $1 million in grants has been distributed to support protocol improvements, dapps building with subgraphs, tooling &amp; community growth!
+
+Read the full announcement: https://t.co/Nxm94suAar",178,16,35,2022-07-28
+1441,2022-07-29 19:20:54+00:00,1553098257479471105,graphprotocol,"The subgraph for @scabshop is live on The Graph’s decentralized network 🖋️
+
+Scab Shop is a unique 1/1 NFT gallery that blends the analog &amp; digital worlds together. First-time owners of Scab Shop NFTs can also receive a tattoo of their art: https://t.co/lIsq0huoDl https://t.co/8kPK0pLcwN",104,7,22,2022-07-29
+1445,2022-08-02 21:14:20+00:00,1554576354720489473,graphprotocol,"On Sunday, join @impranavm_ again to learn all about on how The Graph Network powers decentralized querying of blockchain data—putting the “D” in “dapp.”
+
+📆 August 7
+🕓 16:00 KST
+ 📍 Tipstown S6, Floor 1",47,1,7,2022-08-02
+1452,2022-08-05 17:59:14+00:00,1555614419106906114,graphprotocol,"Subgraphs are open source, so anyone can query, analyze, or fork the CapitalDEX subgraph for their own DeFi reporting 💡
+
+Check out data indexed by the CapitalDEX decentralized subgraph on Graph Explorer: https://t.co/ZbVLjnjEdj",59,6,15,2022-08-05
+1456,2022-08-08 20:03:20+00:00,1556732813851992067,graphprotocol,"Loopring’s subgraph-powered explorers make it easy for users around the world to access ecosystem data 🌐
+
+Subgraphs are open source, so anyone can query or fork existing ones, like Loopring’s!
+
+Check out the data tracked by Loopring’s subgraph 🔍https://t.co/OSFywYlW5M",76,2,7,2022-08-08
+1460,2022-08-09 22:53:02+00:00,1557137909517516802,graphprotocol,"With a subgraph on The Graph Network, the dapp’s open data layer is permanent 🛡️
+
+That means no one can close the API. No one can shut down the dapp. No one can deplatform you.
+
+Build with decentralized, open source subgraphs &amp; create abundance in web3. https://t.co/wH95A4M0Jw",69,2,9,2022-08-09
+1471,2022-08-11 16:20:01+00:00,1557763779181662209,graphprotocol,"Messari will build at least 200 subgraphs, create subgraph standards, share information, resources &amp; best practices across the community. 
+
+Check out all the resources Messari has published so far on GitHub: https://t.co/Fj4VW1VtEw",64,2,11,2022-08-11
+1478,2022-08-18 20:25:26+00:00,1560362255908216834,graphprotocol,"Still using a subgraph on the hosted service? 🤔
+
+Learn how to migrate your Ethereum subgraph to The Graph's decentralized network: https://t.co/1cJwNymthS",49,2,9,2022-08-18
+1483,2022-08-19 21:56:24+00:00,1560747536834756608,graphprotocol,"The Graph's decentralized network is here for the vibrant multi-chain future 🧑‍🚀
+
+Which chain should be supported by The Graph Network next? Let the community know below ⬇️",354,80,63,2022-08-19
+1484,2022-08-22 19:23:14+00:00,1561796155301937155,graphprotocol,"Querying subgraphs just got more powerful 💪
+
+A highly-requested query feature is now live: Nested Queries. Subgraph devs can now filter by subfields, enabling data retrieval like never before.
+
+Learn more about the performant new feature, developed by core dev @TheGuildDev ⬇️ https://t.co/VLIG50r6w0",320,16,84,2022-08-22
+1490,2022-08-23 23:35:00+00:00,1562221899723067397,graphprotocol,"The multi-chain future is coming to life on The Graph Network 🛸
+
+In 2 days the next chain that will begin integration with The Graph’s decentralized network will be announced.
+
+Which chain will it be? 👀 https://t.co/oMdwq4jC20",417,38,82,2022-08-23
+1497,2022-08-24 21:54:09+00:00,1562558909797134336,graphprotocol,"Haven’t registered for #AvalancheHacks yet? Registration closes on August 27, so there is still time to compete for bounties with subgraphs ⏳
+
+Register below—&amp; happy hacking! https://t.co/Hr7uzSVOsY",31,2,3,2022-08-24
+1502,2022-08-25 16:49:03+00:00,1562844517262172168,graphprotocol,"Over the next 6 months, the MIPs program will prepare Indexers to reliably index &amp; serve queries in a multi-chain environment, starting with @gnosischain 🛠️ 
+
+More chains will be added as Indexers complete missions, ensure network readiness &amp; create the best querying experience.",50,1,11,2022-08-25
+1509,2022-09-01 19:33:56+00:00,1565422723156922369,graphprotocol,"Thank you to all the hackers who showed up to #ETHMexico to build a better internet 🌐
+
+Want to build on subgraphs &amp; compete for the next batch of bounties? 
+
+Subscribe to The Graph Newsletter for a heads up on the next hackathon opportunity! 
+
+📧 https://t.co/kZef5FvXOR",39,0,7,2022-09-01
+1521,2022-09-02 15:42:21+00:00,1565726832485449729,graphprotocol,"Members of The Graph ecosystem are coming to Lisbon for #NEARCON 🇵🇹
+
+Swing by The Graph booth during September 11-14 at Cais da Viscondessa to:
+👕 Grab exclusive Graph swag
+🧑‍💻 Learn how to build a @NEARProtocol subgraph
+&amp; more! https://t.co/FOLULip907",207,5,49,2022-09-02
+1526,2022-09-07 23:19:45+00:00,1567653881244524547,graphprotocol,"Looking for more resources for building with subgraphs during #ETHOnline? 💡
+
+Discover subgraphs on Graph Explorer:
+https://t.co/dVcRXXCNyd
+
+Join The Graph Discord for more developer resources:
+https://t.co/vXVgIh8dPw",40,0,5,2022-09-07
+1530,2022-09-09 19:17:29+00:00,1568317687167881216,graphprotocol,"Are you headed to NEARCON?  Be sure to stop by the @graphprotocol booth to say hello, &amp; pick up some swag 👚
+
+@edgeandnode @schmid_si will be hosting a workshop on building subgraphs on @NEARProtocol 
+
+Get tix 👉🏻 https://t.co/L3aqy1DFQR
+
+See you in Lisbon! https://t.co/4zI1fpbUwj",116,7,33,2022-09-09
+1531,2022-09-11 16:10:53+00:00,1568995504809189377,graphprotocol,"Coming to @GnosisDAO’s @dappcon_berlin this week? 👋 
+
+Learn all about The Graph Network’s multi-chain expansion as the Director of The Graph Foundation, @evabeylin, takes the Side Chain Stage tomorrow, Sept 12 at 2:20pm CET.
+
+Full agenda: https://t.co/BPvy10xDX9",191,5,41,2022-09-11
+1532,2022-09-12 20:01:30+00:00,1569415928403591168,graphprotocol,"🤯 Over 1k Indexers &amp; aspiring Indexers have applied to expand The Graph Network across multiple chains by joining the MIPs program!
+
+Haven't submitted your application yet? Come build the multi-chain future—apply to the MIPs program by September 15 🧑‍🚀 https://t.co/FVL73RtPKm",218,5,55,2022-09-12
+1538,2022-09-14 19:57:09+00:00,1570139608238669824,graphprotocol,"Dreaming up new dapps at @ETHBerlin this week? 🇩🇪
+
+Make your dapp magnitudes faster by building with The Graph. Subgraphs make accessing blockchain data easy, quick &amp; ultra-reliable 💪
+
+Learn all about The Graph &amp; using subgraphs with @web3slimchance: https://t.co/Cwmy7ul3Je",117,1,21,2022-09-14
+1539,2022-09-16 00:08:55+00:00,1570565358771376131,graphprotocol,"The #EthereumMerge is a historic moment in human collaboration ☀️
+
+Congratulations to the Ethereum devs &amp; Ethereum community on this key accomplishment!
+
+The Graph is here to support the Ethereum ecosystem every step of the way on its decentralized journey to better the world 🫡",278,13,27,2022-09-16
+1541,2022-09-20 16:27:02+00:00,1572261057783074816,graphprotocol,"On the heels of The Merge, let’s talk about decentralization in web3 🌟
+
+Join web3 leaders @kyleArojas @bermchain @mcalpinemhairi @brandoniles @justinavery &amp; @dpetrovcic for a Space on why decentralization is crucial to web3’s longevity.
+
+Set a reminder: https://t.co/SPgcQYUq8t https://t.co/qKPTl8KhWA",193,17,38,2022-09-20
+1542,2022-09-21 12:32:56+00:00,1572564536217194496,graphprotocol,"Mainnet also presents an opportunity to learn about @streamingfastio's latest technology that's about to make indexing speeds magnitudes faster—substreams! ⚡
+
+Messari's @v_for_vincent takes the stage Friday, 3:25PM to discuss the new indexing technology: https://t.co/IKpnruer4A",59,1,10,2022-09-21
+1546,2022-09-22 16:53:51+00:00,1572992583164628992,graphprotocol,"Indexers earn rewards in the form of GRT 💫
+
+For contributing to the network, there are two types of rewards:
+
+1) Query Fees: GRT fees paid by developers to query data
+2) Indexing Rewards: GRT supply increases by 3% annually, allocating to active Indexers",42,2,3,2022-09-22
+1551,2022-09-23 16:14:36+00:00,1573345095209869314,graphprotocol,"Tune as a virtual conference attendee or see @v_for_vincent speak in person on the Operating Advice Stage! 🎙️
+
+Full details: https://t.co/IKpnrudTf2",30,0,1,2022-09-23

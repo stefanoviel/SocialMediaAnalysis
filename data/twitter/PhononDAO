@@ -1,0 +1,222 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2021-10-28 20:34:17+00:00,1453822451436113924,PhononDAO,"Running Phonon.
+
+Say hello to a whole new approach to scaling and privacy for the entire blockchain ecosystem.
+
+https://t.co/rlSCtlyCoj",96,2,25,2021-10-28
+1,2021-10-29 04:20:38+00:00,1453939810683351046,PhononDAO,"@MrRoda1 @JedBreed @gridplus It doesn't, which is where the privacy assurances come from.
+
+It places on-chain assets in a new private key which can be passed an unlimited amount of times between secure hardware users without double spends. It turns any crypto into cash: an off-chain bearer asset.",5,2,0,2021-10-29
+2,2021-11-11 06:00:51+00:00,1458676075110797313,PhononDAO,"Listen in to the latest EthHub Weekly roundup from @econoar and @sassal0x for some great discussion on the potential of private off-chain transactions using Phonon.
+
+(Phonon coverage starts around the 28:30 mark.)
+
+https://t.co/AoJ8oNIpzu",25,2,9,2021-11-11
+3,2021-11-12 02:37:01+00:00,1458987166038700032,PhononDAO,@Dariusz00039882 @econoar @sassal0x Token upgrade contract should be wrapped up tomorrow and it is anticipated to be deployed this month after review.  Stay tuned.,5,1,1,2021-11-12
+4,2021-12-18 04:15:05+00:00,1472057805565792256,PhononDAO,@macevsculture Meant to type that Phonon *isn't* a chain.  😅,1,1,0,2021-12-18
+17,2021-12-19 04:11:31+00:00,1472419296143986692,PhononDAO,"@SvenMeyer @PastryEth They're complimentary to each other. Off-chain crypto transactions are only useful because of the properties and capabilities of existing blockchains.
+
+Much the same way that rollups enhance and extend the capabilities of an L1.",9,1,0,2021-12-19
+19,2021-12-20 00:17:14+00:00,1472722724619526145,PhononDAO,"The community has already set up a Discord server and is moving on to its first governance proposals.
+
+Join the conversation here: https://t.co/xurNN3In4j",7,2,2,2021-12-20
+20,2021-12-22 18:57:14+00:00,1473729357977989129,PhononDAO,"~732,057,219 $PHONON, which accounts for 50% of the Phonon DAO treasury, has now been locked up on a four year linear vesting schedule.
+
+https://t.co/5U6ghr6TZ5 https://t.co/m2lpeAkKZO",29,0,6,2021-12-22
+22,2021-12-23 00:13:14+00:00,1473808882732572676,PhononDAO,"@bellinas90 @davoice321 Apologies - we were just eager to get things kicked off! 🙏
+
+Processes will get more formalized as time progress and everyone gets used to collaborating together.",3,1,0,2021-12-23
+25,2022-01-03 21:36:14+00:00,1478118025618501636,PhononDAO,"If you've been patiently anticipating the Phonon alpha code, your wait is finally over!
+
+The alpha client software and smartcard applet Github repos are now public and Phonon engineer @danveens walks you through it all in this post:
+
+https://t.co/lwXumbrTVC",52,2,14,2022-01-03
+26,2022-01-06 07:09:57+00:00,1478987183209992193,PhononDAO,"New @coingecko listing finally up! 🥳🦎
+
+https://t.co/01thIXHgaG",33,5,9,2022-01-06
+27,2022-01-13 01:52:11+00:00,1481443929333669889,PhononDAO,"Phonon alpha dev kits are now available!
+
+They're an easy way to begin experimenting with the protocol of if you can't use the open source repos to flash your own smartcards! https://t.co/l3QS5J3t0d",19,0,6,2022-01-13
+29,2022-01-18 04:16:50+00:00,1483292271030280192,PhononDAO,"Here's a brief sneak peek of work in progress on a Chrome extension user interface for the alpha version of the Phonon protocol.
+
+Phonon uses secure hardware to make private off-chain transactions with any crypto possible with a few clicks. 🔥 https://t.co/nAVwAU1VP9",76,3,18,2022-01-18
+32,2022-01-19 17:01:14+00:00,1483847026328715273,PhononDAO,"@ChrJentzsch @0xdanm There's a challenge response for cert validity at the time of the Diffie-Hellman exchange. 
+
+There's limited incentive to issue a malicious cert, because lost funds would be limited to an individual P2P interaction.",2,1,0,2022-01-19
+43,2022-01-21 16:56:15+00:00,1484570548650795016,PhononDAO,"Excited to contribute to the future of the Phonon protocol for scaling, interoperability, and privacy via off-chain transactions?
+
+@GridPlus is hiring a full-time backend-focused developer to work on its Phonon client in golang, apps leveraging Phonon, and more! https://t.co/9wcIvGdNGC",22,0,10,2022-01-21
+44,2022-01-26 22:26:25+00:00,1486465576314757130,PhononDAO,"The Phonon wallet proof of concept app is now open source. If you're building on the Phonon alpha this will provide you with a lean front end for iOS, Android, and web builds!  📱💻
+
+Learn how to get started in this new blog post from @dougwlance:
+
+https://t.co/jqHlr7HDv9",35,1,16,2022-01-26
+46,2022-01-30 04:34:13+00:00,1487645301699756034,PhononDAO,"A thriving DAO needs contributors with all different skills: writers, designers, community managers, developers, etc
+
+Voting is live on Phonon DAO's first comp proposal. This isn't just budgeting, it's an invitation for you to get involved and get paid!🪙
+
+https://t.co/FQkAeapu4x",24,2,7,2022-01-30
+47,2022-01-31 01:32:23+00:00,1487961930908188676,PhononDAO,@SvenMeyer @PastryEth The software is open-source and doesn't require proprietary hardware from any company. Dig in and take a look.,2,0,0,2022-01-31
+48,2022-02-02 17:30:38+00:00,1488927857296519168,PhononDAO,@will__price @KuiperFinance You should come on our Discord to talk to the liquidity bootstrapping working group!  👀,5,0,0,2022-02-02
+49,2022-02-10 22:13:19+00:00,1491898099035512843,PhononDAO,"Listen into today's @thedailygwei Refuel to get a quick overview on progress with Phonon DAO's progress on its new primitive for scaling, interoperability, and privacy via secure off-chain transactions! https://t.co/qlqtsknLZ7",15,1,4,2022-02-10
+50,2022-02-20 03:26:33+00:00,1495238418216878081,PhononDAO,Presented without context. https://t.co/vMKYlws73H,17,2,3,2022-02-20
+53,2022-02-23 20:35:25+00:00,1496584505532035078,PhononDAO,"Check out this panel discussion with @mechanikalk at @EthereumDenver to learn about how the Phonon protocol is bringing scaling, interoperability, and privacy to existing blockchains using off-chain transactions! https://t.co/WIiIVM4BdB",18,0,3,2022-02-23
+54,2022-02-28 16:52:06+00:00,1498340245091323905,PhononDAO,"Cryptocurrency... without a blockchain? Yes. 🤯
+
+Phonon privately transfers the crypto you hold today off-chain between secure devices, but it can also facilitate the creation and exchange of native off-chain digital assets.
+
+Learn more in this post:
+https://t.co/Azc0fro1RW",33,1,11,2022-02-28
+55,2022-03-01 17:29:07+00:00,1498711946870284288,PhononDAO,"Join us this Thursday March 3 at 1pm EST / 6pm UTC to learn about how Phonon brings scaling and privacy to the crypto you already hold via off-chain transactions.
+
+The event will take place on the Phonon Discord stage with an open AMA to follow:
+https://t.co/xurNN3In4j https://t.co/K9H5ErAuNF",17,3,12,2022-03-01
+56,2022-03-02 04:48:55+00:00,1498883026121641987,PhononDAO,Privacy is a fundamental requirement for true financial self-sovereignty.,30,3,5,2022-03-02
+58,2022-03-03 01:05:34+00:00,1499189205989150723,PhononDAO,"💠If you are looking for reading material in preparation for the 🌐AMA🌐 tomorrow, check out these articles:
+
+Native Phonons- https://t.co/Azc0fr6qtm https://t.co/OrESS7KH3e",11,1,2,2022-03-03
+68,2022-03-04 18:40:37+00:00,1499817102722703367,PhononDAO,@HalideRivers @MickeyParx Phonon is a protocol for transferring existing assets using secure hardware like the eSim in your phone. You can read through docs on all the Github repos and then apply your judgement to the assets it facilitates transfers for - which is not limited to cryptocurrencies.,2,1,0,2022-03-04
+69,2022-03-07 21:01:42+00:00,1500939771648122882,PhononDAO,"7/ protocol, entire cross-chain trustless ecosystems can be built for phonons to swap atomically. No more wETH honeypot, no hat-in-hand “we fucked up” VC drives, no counterparty risk…cross-chain swaps atomically, from phone to phone with no bradcast transaction…",10,1,1,2022-03-07
+78,2022-03-13 14:14:19+00:00,1503011577942970379,PhononDAO,That's why we're here! Transferring your crypto on-chain is so 2021. https://t.co/qObj1G44BM,17,0,4,2022-03-13
+80,2022-03-16 15:07:07+00:00,1504112029946335237,PhononDAO,https://t.co/UjEiV0mzTI,8,0,2,2022-03-16
+81,2022-03-17 05:56:48+00:00,1504335927359025157,PhononDAO,"This is why Phonon exists. A scaling protocol that hosts assets from any blockchain and scales LINEARLY with the number of participants. Oh and there's no fees...
+
+Turn any crypto into P2P cash with https://t.co/tb3TQVAx50 https://t.co/2trhOcXeNV",19,0,2,2022-03-17
+82,2022-03-18 18:36:15+00:00,1504889434105384970,PhononDAO,@imrane @0xfoobar Hardware devices like the eSIM and smart cards you already have. Imagine a world where any crypto asset can live on your phone or in your pocket!,8,1,0,2022-03-18
+83,2022-03-19 12:38:27+00:00,1505161780083007489,PhononDAO,"There are no other layer zeros. Anyone who is claiming to be layer zero but processes transactions on-chain or in a centralized, off-chain environment is flat out lying to you with their marketing.
+
+You know who you are... https://t.co/CTfZVhKCbq",32,3,8,2022-03-19
+85,2022-03-20 22:14:29+00:00,1505669132066381829,PhononDAO,@phonon_intern @scholz_felix Last-mile crypto,7,0,0,2022-03-20
+86,2022-03-21 21:21:27+00:00,1506018172092178440,PhononDAO,"@ChrJentzsch @michaelherbig @Melt_Dem You could run on a chain with centralized wallet creation, but other than that 💯",6,0,0,2022-03-21
+90,2022-03-22 14:13:27+00:00,1506272848775680001,PhononDAO,Phonon: DMT https://t.co/GOEmX5Bg8e,14,1,1,2022-03-22
+93,2022-03-26 02:28:43+00:00,1507545050737254408,PhononDAO,@prodjkc blesses us with a sharp and concise explanation of how to convert your $GRID tokens to $PHONON https://t.co/K9lKceYy7V,14,0,5,2022-03-26
+94,2022-03-29 15:11:17+00:00,1508824119147700231,PhononDAO,@TarrBanan Hammers it home in this reddit post. Catch up on our discord! #privacymatters https://t.co/DS5bggA0ha,5,0,2,2022-03-29
+95,2022-04-05 22:11:14+00:00,1511466518751715337,PhononDAO,@rakeforth https://t.co/EddDrquYkn,2,0,0,2022-04-05
+97,2022-04-06 08:17:50+00:00,1511619176846221312,PhononDAO,@2ndOldest @StargateFinance @ShatteredEON @DoNOTMint https://t.co/OGMU3PChL2,2,0,0,2022-04-06
+109,2022-04-07 15:16:15+00:00,1512086862147448846,PhononDAO,"Our global DAO meeting is taking place shortly. Tune in for more information on the Phonon Protocol, the DAO and where we are heading next.  #testnet  https://t.co/t5tpAuquA6",21,1,5,2022-04-07
+113,2022-04-08 01:56:59+00:00,1512248104770318341,PhononDAO,@dukeboles https://t.co/WcTAJ92bty,4,0,0,2022-04-08
+114,2022-04-09 17:07:58+00:00,1512839749278609418,PhononDAO,"💥Phonon allows you to send the crypto you already have, secured by the hardware you already own. No bridges, no network transaction fees. #testnet launching soon👀👀",59,4,18,2022-04-09
+117,2022-04-10 13:44:41+00:00,1513150978899464200,PhononDAO,@DigitalAssett @gridplus @SHO_Billions 👀,3,0,0,2022-04-10
+120,2022-04-12 21:56:03+00:00,1513999411071836163,PhononDAO,@Makitadrill1 @AndrewByrley @ecashact @rohangrey Sure dm us and we’ll sort it.,2,0,0,2022-04-12
+131,2022-04-13 12:56:18+00:00,1514225968646340612,PhononDAO,"Today is a great day to build the future, let's get after it!",25,0,7,2022-04-13
+135,2022-04-15 17:17:03+00:00,1515016365928857608,PhononDAO,"New Twitter Profile Banner, courtesy of DAO member @TarrBanan. 🤩🤩 https://t.co/YBLt2bLldZ",37,2,5,2022-04-15
+137,2022-04-17 20:45:02+00:00,1515793481222008833,PhononDAO,Phonon allows you to send private keys. The implications of this will be seismic. Are you ready for #testnet? https://t.co/s10YqbfZ1J,63,7,14,2022-04-17
+140,2022-04-18 14:06:35+00:00,1516055594175799304,PhononDAO,"🚨🚨🤩Twitter Spaces AMA is TODAY at 2 P.M. EST. We'll be discussing the protocol, and doing a giveaway. 
+
+To WIN the @gridplus Lattice 1, you must:
+Follow us on Twitter, AND Like and RT the thread below! 👇
+
+🥇We'll announce a winner during the AMA! https://t.co/4UP6PMRuO7",27,5,15,2022-04-18
+146,2022-04-19 13:31:25+00:00,1516409132810752009,PhononDAO,"Here’s a recording of yesterdays AMA. We discuss how Phonon impacts the entire Web 3 ecosystem, the topology  for CBDCs, and how you can get funding from the DAO to build on Phonon. https://t.co/LqPrXEuOYi",15,0,2,2022-04-19
+147,2022-04-20 16:12:28+00:00,1516812051477266437,PhononDAO,"@decent_dao Greetings Decent DAO. Phonon is innovating in the open financial system via a hardware-enforced protocol that changes the game for all blockchains. It's a true layer zero scaling solution. Come chat with us (or we can come to your house, too!). Protocol test is coming soon.",8,1,2,2022-04-20
+148,2022-04-21 16:24:28+00:00,1517177458411323393,PhononDAO,"@rphmeier @MickeyParx @cosmos @Polkadot @LayerZero_Labs Correct for phonons of on-chain assets. We call these ""backed phonons"". Also have ""native phonons"" that are independent of any chain and more like a CBDC (but key point: without a central bank). They're mineable by anyone with a mining card. Test net for this is about to launch.",6,1,2,2022-04-21
+154,2022-04-22 20:09:40+00:00,1517596520593297408,PhononDAO,"@eduadiez @EFDevconnect I think it will be a while before we are the nodes. That's a totally wild idea though, some major science fiction vibes. ;)",3,0,0,2022-04-22
+157,2022-04-23 00:00:04+00:00,1517654500521041920,PhononDAO,"@rohangrey @IGotThisTrustMe Traditional payment networks require you to provide your identity to centralized databases. Those databases are a systemic risk: millions of people are put at risk when their data is stolen and sold to malicious actors. 
+Some of those people then leave that provider for Ethereum.",2,0,0,2022-04-23
+160,2022-04-24 14:16:05+00:00,1518232312802017280,PhononDAO,"Good morning, phrens.
+As a technological primitive, and true layer 0, Phonon can be used to make many things. So let us ask you a question: What would you like to see built with the Phonon protocol first? Please help the DAO by voting and commenting below. Thanks!
+#cryptocurrency",22,3,8,2022-04-24
+163,2022-04-25 15:48:57+00:00,1518618070553563136,PhononDAO,"👁️‍🗨️PSA: Your default practice should be to never trust a link, even if it was shared by your favorite web3 project. 
+
+If someone is offering you what basically amounts to free money by simply clicking a link this should be a huge red flag. Clicking the link at all is a risk. https://t.co/tkPfbOZ5wm",14,2,5,2022-04-25
+167,2022-04-26 21:07:27+00:00,1519060610884915200,PhononDAO,@karanbhangui @erik_kirkegaard @zebulgar @itsmoislam @2112Power Agree - and your link delves into some of the 'why' in the 6 bulleted points at the end of the executive summary. Phonon (which we suspect you do not know anything about yet...) actually exists in direct response and in aid of two of those points.,1,0,0,2022-04-26
+177,2022-04-27 18:55:21+00:00,1519389757398077440,PhononDAO,The Phonon protocol test approaches. We will soon be inviting everyone to test the future.,46,3,9,2022-04-27
+178,2022-04-29 20:01:39+00:00,1520131217152040960,PhononDAO,Casual spaces open now for chatting about Phonon. https://t.co/8Z2M3wGyvH,9,0,1,2022-04-29
+179,2022-04-30 16:36:49+00:00,1520442058883751936,PhononDAO,Markets go up and down but humankind keeps on BUIDLing. It's what we do.,15,0,4,2022-04-30
+180,2022-05-01 15:34:33+00:00,1520788774837387264,PhononDAO,"Did you know the Phonon protocol will enable zero-cost instantly-settled cross-chain swaps of nearly every existing blockchain asset? 
+
+If the future is multi-chain then Phonon will be an immensely powerful component.
+
+And this is only one of the many things the protocol will do. https://t.co/pJNG1XGiDN",18,0,3,2022-05-01
+182,2022-05-02 13:42:37+00:00,1521122992461254656,PhononDAO,"Phonon is an example of science fiction becoming reality.
+
+This is the future of digital money: inherit and apply the power of all blockchains and vastly improve their usability.
+
+It's truly a game changer.
+
+https://t.co/ZYFBr7WRNf 🗨
+
+☝Join us.
+
+#cryptocurrencies #future",39,4,10,2022-05-02
+184,2022-05-04 18:31:05+00:00,1521920364015587329,PhononDAO,Join me in my Space! https://t.co/CtRRNXZDgZ,8,3,2,2022-05-04
+185,2022-05-10 07:47:47+00:00,1523932801795596288,PhononDAO,"Markets up, markets down. We stay relentlessly focused on building the rails of a new financial system. Today is a beautiful day to build. https://t.co/MjyVkVEs7k",32,0,12,2022-05-10
+186,2022-05-31 22:18:08+00:00,1531761976510234626,PhononDAO,June is a huge month for Phonon! https://t.co/pkp4rVSe3b,20,0,3,2022-05-31
+189,2022-06-01 09:03:25+00:00,1531924367407464448,PhononDAO,@0xt0mdxb https://t.co/dcY20VYytK,3,0,0,2022-06-01
+190,2022-06-02 13:41:34+00:00,1532356755493113856,PhononDAO,Catch our discussion in 20 minutes on @banklessDAO’s discord! You might want to listen in 👀#bankless #offchain https://t.co/IPlVOFPn5B,8,0,2,2022-06-02
+191,2022-06-03 23:06:57+00:00,1532861426817040384,PhononDAO,"Amazing conversations about Phonon and our upcoming incentivized testnet! Thanks @martinkrung, @banklessDAO, @aladdindao for having us! https://t.co/IPlVOFxLH1",18,1,2,2022-06-03
+192,2022-06-08 08:12:07+00:00,1534448173002940419,PhononDAO,Soulbound Tokens? Non-transferable NFTs? 🤔. Challenge accepted 😉🤌 https://t.co/0cpoh0y86x,19,0,4,2022-06-08
+193,2022-06-09 13:29:33+00:00,1534890442990436354,PhononDAO,@0xWinger @mrjasonchoi P2PYC,4,0,2,2022-06-09
+194,2022-06-17 10:49:33+00:00,1537749280919900160,PhononDAO,Know any GRID Token holders? Please let the OG's know that our contract convert/redeem Phonon is LIVE: https://t.co/5hkptqy87f https://t.co/M7332cAir4,12,0,2,2022-06-17
+198,2022-06-20 14:41:06+00:00,1538894715902275584,PhononDAO,"Reminder that many of the top 100 crypto projects today were busy building during the last crypto bear market.
+
+That means *right now* you could be finding the next great projects. 
+
+Look for active teams who are unfazed by temporary market conditions... like Phonon.",33,1,8,2022-06-20
+200,2022-06-21 23:36:55+00:00,1539391946237652992,PhononDAO,"Join us at 8PM EST today for our talk at @banklessDAO where we discuss Phonon, private keys and more! Hosted by @knowpradhumna⚡️ https://t.co/CKVIm1BMdy",13,0,4,2022-06-21
+205,2022-06-22 13:34:37+00:00,1539602762706583552,PhononDAO,https://t.co/DYTYWtqMGz here’s a fully recorded version with our conversation with @rohangrey where he argues for central bank issued private digital cash. 👀,20,0,4,2022-06-22
+206,2022-06-25 02:11:34+00:00,1540518031402598400,PhononDAO,"We adamantly believe this as well. 👏
+
+We are building the Phonon protocol to ensure that, in a world of surveillance capitalism, we can endow the crypto we hold now with the properties of physical cash: private, instant, and directly peer-to-peer. https://t.co/8SGr5EWefn",21,0,6,2022-06-25
+207,2022-07-06 02:13:20+00:00,1544504742142951425,PhononDAO,Never gets old watching the world's first Phonon transaction!  https://t.co/mTP6B4ES2H  Check our YouTube channel for more great content.  There is going to be a lot more coming soon!  #P2P #Cash #Tesnet,30,0,3,2022-07-06
+209,2022-07-07 18:14:11+00:00,1545108934293213186,PhononDAO,This is a great thread on Phonon @MrDeFiPenguin! https://t.co/JKVPSZaVkw,18,0,5,2022-07-07
+210,2022-07-09 13:27:28+00:00,1545761557316964354,PhononDAO,Looking for a a better understanding on how Phonon works?  Check out this Reddit post in @RedditTech!  https://t.co/DS5bggioSA,11,1,0,2022-07-09
+211,2022-07-10 17:10:58+00:00,1546180188731428864,PhononDAO,"Looking for more Phonon content?  Subscribe to our Phonon YouTube channel and turn on notifications!  We are adding a bunch of great content including weekly Product meetings , past #TwitterSpaces and presentations.  https://t.co/Rp1CHUbJmo",13,0,2,2022-07-10
+212,2022-07-11 22:08:06+00:00,1546617354674753536,PhononDAO,Want to finds some awesome Phonon #memes?  Check out our Instagram page here!  https://t.co/VMN5M73Dcx https://t.co/mZRpJ3CWJp,14,1,2,2022-07-11
+213,2022-07-13 18:17:57+00:00,1547284209500188672,PhononDAO,Attention #DigitalArtist !  $300 #DAI and $1000 in Phonon Tattoo design prize is up for grabs! Our community member @reddest_rooster  is getting a Phonon Tattoo and is opening up the design process! Winners announced in discord and a Livestream of the tattoo will be broadcasted! https://t.co/Qvkw4UE57h,13,1,3,2022-07-13
+216,2022-07-19 17:34:28+00:00,1549447593926598656,PhononDAO,One of our #DAO contributors @cryptopeebo  contemplating how Phonon is going to change the world.  Jump in the discord and find out more... things are going to get busy soon! #EthCC   👀👀 https://t.co/ZYFBr7WRNf https://t.co/fAswCSnec0,25,2,2,2022-07-19
+217,2022-07-20 19:15:40+00:00,1549835449941872640,PhononDAO,"Phonon allows the safe peer to peer transfer of almost any digital asset☄️. Also, check out this video of a duck. 🦆 https://t.co/fNuGcRzxnT",15,1,1,2022-07-20
+219,2022-07-22 15:11:25+00:00,1550498759699664896,PhononDAO,"Phonon isn't the kind of thing that only happens in a bull market. This is the very essence of digital money and economic activity - fundamental, always needed, and used regardless of market conditions.",20,0,2,2022-07-22
+220,2022-07-23 14:44:14+00:00,1550854305078550532,PhononDAO,Probably nothing....@PhononDAO @gridplus but you may want to join our discord just in case.  #Testnet #EthCC https://t.co/oc5xPgrVhU https://t.co/z2HDpwczLO,54,3,12,2022-07-23
+221,2022-07-25 23:02:40+00:00,1551704516050882560,PhononDAO,Do you remember when you joined Twitter? We do! #MyTwitterAnniversary  A LOT of building has been happening in the past 2 years.   Almost ready for #Tesnet Come join us! #Etherum  https://t.co/rYBEgJ3Ofh https://t.co/rA16HESknT,18,1,2,2022-07-25
+222,2022-07-27 12:38:59+00:00,1552272336254017553,PhononDAO,👀⏳,20,0,3,2022-07-27
+223,2022-07-28 20:39:50+00:00,1552755734760136705,PhononDAO,Something is happening here....@PhononDAO @gridplus      https://t.co/oc5xPgJw9s https://t.co/eL5JLTI2nj,46,1,11,2022-07-28
+224,2022-07-31 16:58:06+00:00,1553787095419785217,PhononDAO,Tomorrow at 2 PM ET/6 PM UTC join us in our @phononDAO Twitter Space for a very special announcement.  You are not going to want to miss this! https://t.co/5BW5buTknF,37,3,10,2022-07-31
+226,2022-08-01 18:49:22+00:00,1554177485725700096,PhononDAO,"If you complete all the challenges you will be rewarded with $200 worth of $Phonon governance tokens and a very special POAP👀👀. 
+
+Join our discord for more: https://t.co/oc5xPgrVhU",10,4,1,2022-08-01
+236,2022-08-02 00:18:19+00:00,1554260270377324544,PhononDAO,@savi_eth Yes that’s correct. Along with the challenges.,1,0,0,2022-08-02
+238,2022-08-03 14:29:08+00:00,1554836770000228353,PhononDAO,Today is the day!  Tesnet kits are now available for purchase at https://t.co/8MrvhUwD6R Join us in our Twitter Space at 2 PM ET/ 6 PM UTC as we discuss the launch and answer any questions you have! #Web3 #Ethereum #cryptocurrencies #Bitcoin https://t.co/QLEv3XoTA4,38,4,19,2022-08-03
+241,2022-08-04 09:31:03+00:00,1555124143103909890,PhononDAO,Join us this morning on @banklessDAO for a talk about our testnet and incentives! #bankless #testnet https://t.co/WqcV4OclQ0,17,1,2,2022-08-04
+243,2022-08-05 13:52:51+00:00,1555552417407590401,PhononDAO,For those that missed the Twitter spaces with @banklessDAO yesterday here is the link!  A lot of great information! Get your #Testnet kits before they are gone!  https://t.co/TacqqCsSDV #web3 #bankless #ETH,15,3,6,2022-08-05
+244,2022-08-08 21:27:41+00:00,1556754043455676416,PhononDAO,"Phonon Protocol brings the security, privacy, and instant resolution of cash payments to crypto users at the consumer level.",17,1,3,2022-08-08
+253,2022-08-09 17:43:05+00:00,1557059906322059264,PhononDAO,Still have questions about our #Testnet?  Check out this article and jump in our Discord if you have any questions!  https://t.co/DCz1HbmBuW #ETH #Web3,17,2,8,2022-08-09
+254,2022-08-10 14:43:53+00:00,1557377196804624384,PhononDAO,Great breakdown of Phonon by @prodjkc BTW Testnet kits are almost all sold 👀👀  Order yours before they are gone! https://t.co/V57MmE6l38 @gridplus,21,3,5,2022-08-10
+256,2022-08-11 13:30:58+00:00,1557721235454595076,PhononDAO,"POAP Alert: With Testnet kits nearly sold out, this is a reminder that testers will be eligible for POAP 👀 https://t.co/YcxJsV9y3z",24,1,3,2022-08-11
+259,2022-08-12 16:22:31+00:00,1558126796767342594,PhononDAO,"@ErikVoorhees Phonon is inherently private. The protocol works with all existing blockchains and turns them into online and offline capable ""cash"" equivalents. More cool stuff too. We've been feeling really vindicated the last couple days.",7,0,1,2022-08-12
+262,2022-08-13 15:27:11+00:00,1558475260252545024,PhononDAO,For those that ordered Testnet kits keep an eye out for them!👀👀Also be sure to join our Discord #Testnet channel for updates https://t.co/oc5xPgrVhU @gridplus https://t.co/ba2V6HOeVG,23,1,2,2022-08-13
+265,2022-08-14 21:48:13+00:00,1558933536681299968,PhononDAO,"@VitalikButerin @Chris_anthemumm @sama It can be the great filter if the developmental potential of the AI is interstitial to that of organics. In other words: all organics could have reached the stars but their AIs stopped them before they could, and their AIs couldn't carry on further after that.
+
+#lazysunday",1,0,0,2022-08-14
+268,2022-08-15 17:42:51+00:00,1559234177605648384,PhononDAO,Check out this awesome timeline of @prodjkc @reddest_rooster and @danveens packing and shipping Phonon Alpha Testnet kits!  If you have purchased one they are on the way!  Only a few left so get them while you can at  https://t.co/8MrvhUwD6R and earn some Phonon! @gridplus https://t.co/8i1baiHnRy,27,4,7,2022-08-15
+270,2022-08-16 18:33:06+00:00,1559609212002598912,PhononDAO,@jp_koning @ameensol https://t.co/ncKcVcSzsg,1,0,0,2022-08-16
+272,2022-08-17 10:49:35+00:00,1559854950796206087,PhononDAO,Look for the builders. https://t.co/m5PBReU80b,15,1,4,2022-08-17
+274,2022-08-18 14:29:44+00:00,1560272740883369986,PhononDAO,We have had a great response to people posting pictures of their #Tesnet kits for chance to win a Phonon Sweatshirt!  Keep them coming! You have until next Friday to post them.  Remember to tag us @PhononDAO #Ethereum #Web3 #Phonon @gridplus https://t.co/VAcY6Oip0A,17,2,6,2022-08-18
+275,2022-08-20 20:49:08+00:00,1561092997298540545,PhononDAO,It's the weekend and our #testnet discord channel is still humming!  You still have time to participate and kits are still available!  Come join us!  https://t.co/oc5xPgJw9s  #web3 #ETH https://t.co/82uUEVe74t,21,4,6,2022-08-20
+276,2022-08-21 15:39:16+00:00,1561377403036790784,PhononDAO,Keep tagging us with a pictures of your testnet kits for a shot to win a #Phonon sweatshirt!  For those that ordered last week a batch was mailed Friday so keep an 👀 out! Thanks @JamesCarnley!  @gridplus #web3 #ETH https://t.co/JvPCD2yaIX,15,4,5,2022-08-21
+277,2022-08-22 17:41:06+00:00,1561770451696685056,PhononDAO,"Great to see all the Phonon Testnet kit pics!  Keep them coming you have through Thursday 8/25 to post them,  Thanks @0x_Osprey!  A few Testnet kits are still available  @gridplus #Etherum #web3 #BTC https://t.co/zUGHFc6i4V",16,3,4,2022-08-22
+279,2022-08-23 14:20:39+00:00,1562082392373731328,PhononDAO,"Looking to find the latest about Phonon?  Check out our YouTube channel!  You can find information on Testnet, past presentations as well as weekly Product updates from the @gridplus team.  Make sure to subscribe so you get notified of new content!  #web3 https://t.co/f7WuuG3QDq",17,2,2,2022-08-23
+280,2022-08-24 13:32:41+00:00,1562432708734636032,PhononDAO,"Awesome @TakeAHike13!  Everyone you still have two days left to submit a picture of your Testnet Kit for a chance to win a @PhononDAO  sweatshirt,  we love all this engagement!  Order your own kit here https://t.co/8MrvhUwD6R @gridplus #web3 https://t.co/rmHp7htKhb",8,1,0,2022-08-24
+281,2022-08-25 13:51:45+00:00,1562799897090306048,PhononDAO,Final day to submit your Tesnet Kit Pictures!  Make sure to tag us @PhononDAO.  We will have a drawing tomorrow in our Discord after our weekly Product call with @gridplus at 1 PM ET/5PM UTC. https://t.co/oc5xPgJw9s  Thanks for the image @Markie_Mark! https://t.co/OVVplETbUj,19,3,2,2022-08-25
+284,2022-08-26 16:12:25+00:00,1563197683556200448,PhononDAO,Join us now! https://t.co/0URxYsl5EO,1,0,0,2022-08-26
+287,2022-08-27 16:03:06+00:00,1563557729129533441,PhononDAO,Did you miss the Phonon DAO Twitter Spaces yesterday with @banklessDAO discussing Privacy and Security?  You can watch/listen here! #web3 #Ethereum #privacy #security   https://t.co/Qs86OjWQdB,11,5,2,2022-08-27
+288,2022-08-29 14:36:32+00:00,1564260718416764928,PhononDAO,"Sweet setup @Roza3330 Testnet Kits are still available here https://t.co/8MrvhUwD6R  Phonon is like nothing you have seen before, secure #hardware to enable private off-chain transactions for #blockchains  #Ethereum #web3 https://t.co/SAbFlUKPBr",13,2,3,2022-08-29
+289,2022-08-30 22:15:24+00:00,1564738584204103680,PhononDAO,"For those getting started on our Testnet or are curious about what it takes get going, check out this great setup tutorial by @prodjkc at @gridplus If you have any questions jump into our Discord.    https://t.co/5rosa3RRY9",20,4,6,2022-08-30
+292,2022-09-01 15:52:15+00:00,1565366935222685696,PhononDAO,"Phonon has more TPS capacity than Visa, Mastercard, ApplePay, Bitcoin and Ethereum COMBINED. Want to know more? 👇 https://t.co/E3LyP4sRS9",33,3,13,2022-09-01
+296,2022-09-04 00:27:17+00:00,1566221326716657664,PhononDAO,Why go cashless when you could just turn everything into cash? 🤔 https://t.co/YsojdhsUcn,11,2,1,2022-09-04
+298,2022-09-05 21:40:00+00:00,1566904004340170754,PhononDAO,Sweet!  Congrats @0xBey!  We have another sweatshirt giveaway going on in our discord for Testers make sure to check it out!  https://t.co/oc5xPgJw9s https://t.co/1aVxgc0y5h,14,2,2,2022-09-05
+299,2022-09-06 23:18:31+00:00,1567291183860154370,PhononDAO,Did you miss today's #AMA with Phonon DAO and the @gridplus development team?  No worries we got you!  Check it out and jump into our discord to learn more! https://t.co/2lSWVa5ru1,4,0,1,2022-09-06
+301,2022-09-09 13:06:23+00:00,1568224296505589761,PhononDAO,"Did you miss the link to the Anatomy of a Phonon Transaction in yesterdays re-tweet?  Here is the direct link!  Pretty cool stuff being developed.  What will you build on Phonon? #Web3 #Ethereum #BUIDL @gridplus 
+ https://t.co/qktVhHP32a",12,1,2,2022-09-09
+302,2022-09-12 18:51:30+00:00,1569398314017370112,PhononDAO,"Just published some important new dates and information regarding our Incentivized #Testnet where you can earn $Phonon rewards.  Kit sales will stop September 21st and Testnet will conclude October 12th!  You still have time to participate! @gridplus 
+
+https://t.co/A4Oe8aIpKC",23,1,5,2022-09-12
+303,2022-09-13 22:05:14+00:00,1569809457215078400,PhononDAO,"Wow @prodjkc always hits it out of the park! Such a good partner to work with! @gridplus #EthereumMerge 
+
+https://t.co/2Fz7wP8ZeA",13,2,2,2022-09-13
+304,2022-09-15 04:22:36+00:00,1570266812377628673,PhononDAO,Watching the #EthereumMerge Live stream and at the poap art party!  https://t.co/LAc6977WCE https://t.co/63tR4rH5AU,10,1,1,2022-09-15
+306,2022-09-16 21:30:13+00:00,1570887808138760192,PhononDAO,"Phonon can be 100x, or even 1,000x safer, faster, and more private than any payments infrastructure today. We are running our testnet, and would love you to help us develop the protocol. Visit https://t.co/rbCB7xoOlQ for more.",22,0,9,2022-09-16
+307,2022-09-17 21:16:43+00:00,1571246795782586368,PhononDAO,"@tbr90 @DarinFeinstein Phonon Allows you to spend your CBDCs like cash, without any block, chain, or ledger. Perfectly securely.",2,0,0,2022-09-17
+308,2022-09-19 21:34:40+00:00,1571976089563705344,PhononDAO,A lot happened last week with Phonon.  Check it out in  the latest Phonon Brief that was just published! @gridplus   https://t.co/05ViBKMySD,18,1,2,2022-09-19
+309,2022-09-20 21:00:13+00:00,1572329810248212480,PhononDAO,As always a lot of great information from @prodjkc at @gridplus!  Worth the time to watch to help keep your assets safe. https://t.co/iErN3QhKiE,8,0,1,2022-09-20
+310,2022-09-22 15:54:27+00:00,1572977634220601345,PhononDAO,"Did someone say BETA?  That's right, even though we are still in Alpha Testing discussion around BETA have already started. A must listen!  What will you build on Phonon? #Web3 #ETH #beta https://t.co/KSzZIDCpSk",16,0,2,2022-09-22

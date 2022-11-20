@@ -1,0 +1,222 @@
+,Time,Tweet Id,Username,Text,LikeCount,ReplyCount,Retweet,Date
+0,2021-08-31 08:38:51+00:00,1432623908054872065,thekeep3r,"veIBFF snapshot within 12 hours. Ensure you have maxed out lock duration to maximize swap amount. Current exchange rate 1:12 vKP3R.
+
+vKP3R fee claim will be moved to the following week
+
+KP3R Fixed Forex incentives will start again after migration
+
+CRV incentives start in 5 days",52,4,9,2021-08-31
+3,2021-09-01 09:25:23+00:00,1432998008493387776,thekeep3r,vKP3R 101 https://t.co/xpXKHxRktp,74,7,18,2021-09-01
+6,2021-09-02 05:39:49+00:00,1433303628060758017,thekeep3r,"vKP3R week 1 fee distribution;
+
+Fixed Forex reserve fee $81,791
+Fixed Forex minting fees $28,670
+
+Total fees $110,461 (claimable week 2)
+
+vKP3R fee distribution APY 298%
+
+https://t.co/lGWMAJ8fBc https://t.co/phVFYDTsuj",53,5,9,2021-09-02
+9,2021-09-03 09:02:32+00:00,1433717033858969626,thekeep3r,"https://t.co/QMs2RZWCFb update;
+
+ibEUR fee distribution deployed and snapshot taken for week 1.
+
+KP3R fee distribution deployed and snapshot taken for week 1.
+
+First claim will be available week 2, UI to follow.
+
+https://t.co/fy6idZavRf",43,7,9,2021-09-03
+10,2021-09-04 12:02:46+00:00,1434124776809893890,thekeep3r,"Keep3r Network's v3 liquidity incentives has released the first release candidate;
+
+Updated docs at https://t.co/0Dw4UYuddp
+
+No action item for users yet, will run the release candidate for a week before releasing UI and further instructions.
+
+New incentives and fees start soon!",45,4,11,2021-09-04
+11,2021-09-08 07:42:58+00:00,1435508948803719171,thekeep3r,"Keep3r update;
+
+v3 liquidity incentives trial results successful. Moving towards full deployment.
+
+https://t.co/QMs2RZWCFb gauges activating at 00h00. APY's range from 250% - 38bn%
+
+v2 gov deployed, pending review.
+
+v3 olm audit completed, deploying the coming week. https://t.co/79XoDcXDFr",104,8,23,2021-09-08
+12,2021-09-09 04:34:45+00:00,1435823968901111811,thekeep3r,"https://t.co/QMs2RZWCFb weekly fees snapshot;
+
+ibEUR $13,010
+ibKRW $6,324
+ib reserves $148,079
+
+Fee distribution next week. UI updates in progress for fee claim for vKP3R holders.
+
+$12.8/week per 1 vKP3R
+
+Can lock KP3R into vKP3R on https://t.co/QMs2RZWCFb",58,6,11,2021-09-09
+13,2021-09-10 09:44:44+00:00,1436264366039609378,thekeep3r,"rKP3R (Redeemable KP3R) released, pending governance review;
+
+ERC20 compatible wrapper to turn any underlying token into an Options LM, compatible with third party distributions such as Curve Gauges, Sushi Onsen, etc
+
+https://t.co/WfBDtK6JhP",100,8,20,2021-09-10
+14,2021-09-13 14:05:10+00:00,1437417070111698947,thekeep3r,"https://t.co/gpXa4d2Hho updated;
+
+$CRV, $CREAM, and $AAVE listed as markets;
+
+$CRV at 70% LTV
+
+Use to borrow Fixed Forex ib assets and LP at https://t.co/OoEEtru6TI or https://t.co/UpcEVcABJh",76,5,19,2021-09-13
+15,2021-09-14 09:49:07+00:00,1437715021803425793,thekeep3r,"Keep3r Fixed Forex weekly stats;
+
+TV: $177,256,104 (Up 53%)
+Liquidity: $47,730,131 (Up 32%)
+Fees: $177,216 (Up 60%)
+
+-APY-
+EUR 98%
+KRW 174%
+AUD 252%
+CHF 277%
+GBP 261%
+JPY 261%
+
+vKP3R 298%
+
+https://t.co/u4jJ2IBVI3 https://t.co/YlMupLXq1v",72,5,11,2021-09-14
+17,2021-09-15 06:37:25+00:00,1438029167325597701,thekeep3r,"Primer on Keep3rs Option Liquidity Mining rewards explained;
+
+Keep3r Redeemable KP3R (rKP3R) https://t.co/Bvl0iuEea7",55,4,6,2021-09-15
+19,2021-09-16 05:21:15+00:00,1438372389222588420,thekeep3r,"Keep3r Fixed Forex fee distribution is live!
+
+$202,432 in fees distributed to vKP3R holders, claim at https://t.co/BIzKN0zbnf
+
+rKP3R distributed onto https://t.co/QMs2RZWCFb gauges; top recipient was ibKRW with 21% for voted. https://t.co/tvagVoAW8O",56,12,14,2021-09-16
+20,2021-09-23 05:08:14+00:00,1440905825296465920,thekeep3r,"Keep3r Fixed Forex weekly stats;
+
+$111,611.01 in fees distributed to vKP3R holders, claim at https://t.co/BIzKN0zbnf
+
+Liquidity: $88,863,901 (up 86%)
+Fees: $111,611.01
+
+-APY-
+EUR 45%
+KRW 59%
+AUD 63%
+CHF 80%
+GBP 78%
+JPY 59% https://t.co/4Z0JfuBmdN",98,4,17,2021-09-23
+21,2021-11-16 08:39:32+00:00,1460527944909172738,thekeep3r,"Keep3r Fixed Forex update;
+
+$ibEUR, $ibKRW, $ibGBP, $ibJPY, and $ibCHF listed on https://t.co/3vEPrIc8sy
+
+Trade to/from USD, EUR, GBP, CHF, and ZAR.
+
+This allows for fx on/off ramps.
+
+@OVEXIO will lead the decentralized on/off ramps phase of Fixed Forex https://t.co/0JFflxii6Q",193,15,42,2021-11-16
+22,2021-11-24 07:43:59+00:00,1463413070760402947,thekeep3r,"Keep3r Network;
+
+Over $1,000,000 in fees for November!",251,19,39,2021-11-24
+23,2021-11-25 07:36:35+00:00,1463773595054874625,thekeep3r,"Keep3r OLM v2
+
+Keep3r OLM v2 will make the following changes;
+
+- Redeem rKP3R for ibEUR
+- Discount based off of vKP3R holdings
+- % of redeemed KP3R into vKP3R",69,5,10,2021-11-25
+25,2021-11-26 05:41:19+00:00,1464106974040236035,thekeep3r,"Keep3r https://t.co/fOfNpLziPI
+
+Fees Accrued : $ 2,027,694.89 https://t.co/LL9xY1BOjQ",193,17,37,2021-11-26
+26,2021-12-07 08:40:54+00:00,1468138434153918464,thekeep3r,"Keep3r Fixed Forex;
+
+Forex rewards distribution;
+
+Vote extra incentives for your favorite pool at https://t.co/cKq6T28uKb
+
+EUR 41.54%
+KRW 30.28%
+GBP 17.67%
+CHF 3.67%
+AUD 2.72%
+JPY 4.13% https://t.co/BIdIrApRSd",28,4,6,2021-12-07
+28,2021-12-08 08:33:37+00:00,1468498992082341890,thekeep3r,"Keep3r Fixed Forex liquidity update;
+
+Launched $JPYC - $ibJPY
+
+Trade between @jpy_coin and $ibJPY for easy JPY on/off ramps.
+
+Gauge and Incentives to follow next epoch.
+
+https://t.co/ivRQCK2Vhu",110,8,23,2021-12-08
+29,2021-12-09 05:27:24+00:00,1468814515622096898,thekeep3r,"Keep3r Fixed Forex stats;
+
+- $1.46bn in collateral
+- $548m in ib*assets
+- $274m in on-chain liquidity
+- $644,425.03 fees collected in first week of December (double previous week).
+- Highest stable coin yields on https://t.co/i0NxnmTd2U https://t.co/wp62wx7hOm",88,8,23,2021-12-09
+32,2021-12-10 05:32:47+00:00,1469178258243690499,thekeep3r,"Keep3r Fixed Forex update;
+
+ibAMM swap limit increased to $20m. Trade from $MIM to $ibEUR, $ibJPY, $ibKRW, $ibAUD, $ibCHF, and $ibGBP. 0 fees, 0 slippage.
+
+https://t.co/zbq7UHwsnZ https://t.co/qDE4yoNJdB",98,9,19,2021-12-10
+33,2021-12-11 07:42:28+00:00,1469573284274577414,thekeep3r,"Keep3r Fixed Forex update;
+
+ibAMM swap limit increased to $50m. Trade from $MIM to $ibEUR, $ibJPY, $ibKRW, $ibAUD, $ibCHF, and $ibGBP. 0 fees, 0 slippage.
+
+https://t.co/zbq7UHwsnZ https://t.co/vkYh3qOTXe",278,15,31,2021-12-11
+34,2021-12-14 09:22:17+00:00,1470685567327379458,thekeep3r,https://t.co/RIHclFyylq,55,8,9,2021-12-14
+35,2021-12-15 03:33:42+00:00,1470960231203196934,thekeep3r,"Keep3r Fixed Forex fee distribution;
+
+$993,895.95 in fees distributed to vKP3R, claim at https://t.co/BIzKN0zbnf
+
+-APY-
+
+AUD 26.29%
+KRW 25.83%
+JPY 25.21%
+GBP 22.92%
+CHF 23.02%
+EUR 17.91%
+
+Claim: https://t.co/BIzKN0zbnf
+Stats: https://t.co/fOfNpLziPI
+Mint: https://t.co/zbq7UHwsnZ",109,15,14,2021-12-15
+36,2022-01-05 08:22:45+00:00,1478643116148207618,thekeep3r,"Keep3r Fixed Forex ibAMM update;
+
+ibAMM added support for sip-160 and deployed to production. 
+
+Trade ibEUR &lt;&gt; sUSD via @synthetix_io 0 slippage exchange atomically
+
+UI update deployed this week https://t.co/iknORM0yli",213,26,36,2022-01-05
+37,2022-01-06 04:26:37+00:00,1478946079609663491,thekeep3r,"https://t.co/QMs2RZWCFb updated to 0.7.2;
+
+@AngleProtocol $agEUR added
+
+Manage liquidity for $agEUR-$ibEUR https://t.co/ji3m2U1N1K
+
+Claim rKP3R rewards for providing LP https://t.co/4C8kkndTqT",177,18,23,2022-01-06
+38,2022-01-27 08:17:55+00:00,1486614433099038721,thekeep3r,"Keep3r https://t.co/QMs2RZWCFb updated;
+
+Version 0.7.4 released
+
+SIP-160 integrated into https://t.co/zbq7UHwsnZ
+
+Trade directly from ibEUR to sUSD or sUSD to ibEUR with 0 slippage.
+
+More pairs to follow.
+
+https://t.co/sjMD10SQ6y https://t.co/OQSVpriD3L",244,53,37,2022-01-27
+39,2022-05-30 21:18:31+00:00,1531384583593279491,thekeep3r,"Enjoy new UI with extras: https://t.co/m2lhbWmZ8r
+Track updates: https://t.co/DnOH8c6rQC",62,12,19,2022-05-30
+40,2022-05-31 22:47:59+00:00,1531769486935736320,thekeep3r,Vote for KP3R/ETH and ibXXX/USDC gauges: https://t.co/fi4QV9qrVP,40,12,12,2022-05-31
+41,2022-06-08 09:15:35+00:00,1534464143385829376,thekeep3r,Long time due. Setting @iearnfinance for v2: https://t.co/C3kjln3HB7,70,4,13,2022-06-08
+42,2022-06-12 14:26:55+00:00,1535992042953785345,thekeep3r,Open: https://t.co/TRvjmgyJ55,54,12,10,2022-06-12
+43,2022-06-29 20:49:07+00:00,1542248821970898949,thekeep3r,"Previously farmed or earnt rKP3R?
+
+Holders now entitled to 50% discount on redemption of KP3R tokens in exchange for $USDC at https://t.co/hCDufSvOhd
+
+All funds are distributed to vested KP3R holders",42,6,9,2022-06-29
+44,2022-08-03 14:05:22+00:00,1554830789929357312,thekeep3r,"Vote to approve whitelisting of treasury held, and farmed, $CRV
+
+Links included below https://t.co/XP22z9A5wN",84,13,25,2022-08-03
+46,2022-09-12 15:45:35+00:00,1569351524207271936,thekeep3r,Update from our @DeFi_Wonderland friends on improvements to payments for Keepers in our decentralized Keep3r Network https://t.co/yyzzd62Lno,28,6,8,2022-09-12
